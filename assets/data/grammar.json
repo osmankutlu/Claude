@@ -1,0 +1,98 @@
+[
+  {
+    "id": "g01",
+    "title": "\"是\" ile isim cümleleri (A 是 B)",
+    "level": 1,
+    "summary": "\"是\" (shì) fiili İngilizce'deki \"to be\" gibi iki ismi birbirine bağlar: A 是 B = A, B'dir.",
+    "explanation": "Çince'de kimlik/tanım bildiren cümleler \"Özne + 是 + İsim\" kalıbıyla kurulur. Olumsuzu \"不是\" ile yapılır. Sıfatlarla kullanılmaz (bkz. Sıfat Yüklemli Cümleler konusu).",
+    "examples": [
+      {"zh": "我是学生。", "pinyin": "Wǒ shì xuésheng.", "en": "I am a student."},
+      {"zh": "他不是老师。", "pinyin": "Tā bú shì lǎoshī.", "en": "He is not a teacher."},
+      {"zh": "这是我的书。", "pinyin": "Zhè shì wǒ de shū.", "en": "This is my book."}
+    ]
+  },
+  {
+    "id": "g02",
+    "title": "Sıfat Yüklemli Cümleler (很 + Sıfat)",
+    "level": 1,
+    "summary": "Çince'de sıfatlar doğrudan yüklem olur, \"是\" kullanılmaz. Genellikle \"很\" (hěn) ile birlikte kullanılır.",
+    "explanation": "\"O çok güzel\" derken Çince'de \"她很漂亮\" denir, \"她是很漂亮\" DENMEZ. Buradaki \"很\" çoğu zaman \"çok\" anlamı taşımaz, sadece cümleyi dengeler; vurgulu \"çok\" için \"非常\" (fēicháng) kullanılır.",
+    "examples": [
+      {"zh": "她很漂亮。", "pinyin": "Tā hěn piàoliang.", "en": "She is pretty."},
+      {"zh": "这个房子很大。", "pinyin": "Zhège fángzi hěn dà.", "en": "This house is big."},
+      {"zh": "我今天很忙。", "pinyin": "Wǒ jīntiān hěn máng.", "en": "I am busy today."}
+    ]
+  },
+  {
+    "id": "g03",
+    "title": "Olumsuzluk: 不 ve 没",
+    "level": 1,
+    "summary": "\"不\" (bù) genel olumsuzluk ve gelecek/alışkanlık için, \"没\" (méi) geçmişte gerçekleşmemiş eylemler ve \"有\" fiilinin olumsuzu için kullanılır.",
+    "explanation": "\"不\" her türlü fiil ve sıfatın önüne gelebilir (是, 喜欢, 忙 vb.). \"没\" ise sadece \"没有\" şeklinde ya da geçmişte olmayan/tamamlanmamış eylemleri olumsuzlarken kullanılır. \"有\" fiilinin olumsuzu HER ZAMAN \"没有\"'dur, \"不有\" YANLIŞTIR.",
+    "examples": [
+      {"zh": "我不喜欢咖啡。", "pinyin": "Wǒ bù xǐhuan kāfēi.", "en": "I don't like coffee."},
+      {"zh": "我没有钱。", "pinyin": "Wǒ méiyǒu qián.", "en": "I don't have money."},
+      {"zh": "他昨天没来。", "pinyin": "Tā zuótiān méi lái.", "en": "He didn't come yesterday."}
+    ]
+  },
+  {
+    "id": "g04",
+    "title": "Evet/Hayır Soruları: 吗",
+    "level": 1,
+    "summary": "Bir düz cümlenin sonuna \"吗\" (ma) eklenerek evet/hayır sorusu yapılır.",
+    "explanation": "Çince'de soru yapmak için kelime sırası değişmez, sadece cümle sonuna \"吗\" eklenir: \"你是学生。\" → \"你是学生吗？\" Cevap genelde fiilin tekrarıyla verilir: \"是\" (evet) / \"不是\" (hayır).",
+    "examples": [
+      {"zh": "你是学生吗？", "pinyin": "Nǐ shì xuésheng ma?", "en": "Are you a student?"},
+      {"zh": "你喜欢中国菜吗？", "pinyin": "Nǐ xǐhuan Zhōngguó cài ma?", "en": "Do you like Chinese food?"},
+      {"zh": "他忙吗？", "pinyin": "Tā máng ma?", "en": "Is he busy?"}
+    ]
+  },
+  {
+    "id": "g05",
+    "title": "İyelik ve Tamlama: 的",
+    "level": 1,
+    "summary": "\"的\" (de) parçacığı Türkçedeki \"-in/-ın\" iyelik ekine benzer şekilde iki ismi birbirine bağlar: A 的 B = A'nın B'si.",
+    "explanation": "Sıra Türkçe ile aynıdır: sahip önce, sahip olunan şey sonra gelir. Yakın aile/ilişki isimlerinde (妈妈, 朋友) günlük konuşmada \"的\" bazen atlanabilir: \"我妈妈\" da doğrudur.",
+    "examples": [
+      {"zh": "这是我的手机。", "pinyin": "Zhè shì wǒ de shǒujī.", "en": "This is my phone."},
+      {"zh": "他是我的朋友。", "pinyin": "Tā shì wǒ de péngyou.", "en": "He is my friend."},
+      {"zh": "这是老师的书。", "pinyin": "Zhè shì lǎoshī de shū.", "en": "This is the teacher's book."}
+    ]
+  },
+  {
+    "id": "g06",
+    "title": "Tamamlanmış Eylem Parçacığı: 了",
+    "level": 2,
+    "summary": "\"了\" (le) bir eylemin tamamlandığını veya yeni bir durumun ortaya çıktığını belirtir; İngilizce'deki geçmiş zaman ekiyle birebir aynı değildir.",
+    "explanation": "Genellikle fiilden hemen sonra kullanılır ve belirli, tamamlanmış bir olayı anlatır: \"我吃了早饭\" (kahvaltımı ettim). Cümle sonunda kullanıldığında ise \"artık böyle\" anlamı taşıyan durum değişikliğini belirtir: \"我女儿五岁了\" (kızım [artık] beş yaşında).",
+    "examples": [
+      {"zh": "我吃了早饭。", "pinyin": "Wǒ chī le zǎofàn.", "en": "I have eaten breakfast."},
+      {"zh": "我女儿五岁了。", "pinyin": "Wǒ nǚ'ér wǔ suì le.", "en": "My daughter is five years old now."},
+      {"zh": "我的手机没电了。", "pinyin": "Wǒ de shǒujī méi diàn le.", "en": "My phone's battery has died."}
+    ]
+  },
+  {
+    "id": "g07",
+    "title": "Ölçü Sözcükleri (Measure Words)",
+    "level": 1,
+    "summary": "Çince'de bir ismi saymak için sayı ile isim arasına, o ismin kategorisine uygun bir \"ölçü sözcüğü\" (量词) konulur.",
+    "explanation": "En genel ölçü sözcüğü \"个\" (gè)'dir ve emin olmadığınızda kullanılabilir. Ama bazı isimlerin kendine özgü ölçü sözcükleri vardır: kitaplar için \"本\" (běn), hayvanlar için \"只\" (zhī) gibi. Kalıp: Sayı + Ölçü Sözcüğü + İsim.",
+    "examples": [
+      {"zh": "我有三个朋友。", "pinyin": "Wǒ yǒu sān ge péngyou.", "en": "I have three friends."},
+      {"zh": "我买了两本书。", "pinyin": "Wǒ mǎi le liǎng běn shū.", "en": "I bought two books."},
+      {"zh": "我家有一只猫。", "pinyin": "Wǒ jiā yǒu yì zhī māo.", "en": "There is a cat at my home."}
+    ]
+  },
+  {
+    "id": "g08",
+    "title": "Soru Kelimeleri ile Sorular (什么/谁/哪儿/怎么/为什么)",
+    "level": 1,
+    "summary": "Çince'de soru kelimesi, cevapta o kelimenin yerini alacağı konumda kalır; cümle başına taşınmaz.",
+    "explanation": "İngilizce'nin aksine (\"What do you want?\") Çince'de kelime sırası değişmez: \"你要吃什么？\" cümlesinde \"什么\" tam olarak cevapta olacağı yerde durur (\"我要吃米饭\" cümlesindeki \"米饭\" ile aynı konumda).",
+    "examples": [
+      {"zh": "你叫什么名字？", "pinyin": "Nǐ jiào shénme míngzi?", "en": "What is your name?"},
+      {"zh": "你在哪儿工作？", "pinyin": "Nǐ zài nǎr gōngzuò?", "en": "Where do you work?"},
+      {"zh": "你为什么迟到？", "pinyin": "Nǐ wèishénme chídào?", "en": "Why are you late?"}
+    ]
+  }
+]

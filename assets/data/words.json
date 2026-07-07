@@ -33838,5 +33838,904 @@
     "en": "This method is simple, yet useful."
    }
   ]
+ },
+ {
+  "id": "w941",
+  "hanzi": "确实",
+  "pinyin": "quèshí",
+  "meaning": "indeed; really",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "这确实是个好方法。",
+    "pinyin": "Zhè quèshí shì ge hǎo fāngfǎ.",
+    "en": "This is indeed a good method."
+   },
+   {
+    "zh": "她确实很聪明。",
+    "pinyin": "Tā quèshí hěn cōngming.",
+    "en": "She's indeed very smart."
+   },
+   {
+    "zh": "这确实很重要。",
+    "pinyin": "Zhè quèshí hěn zhòngyào.",
+    "en": "This is indeed important."
+   },
+   {
+    "zh": "我确实不知道。",
+    "pinyin": "Wǒ quèshí bù zhīdào.",
+    "en": "I really don't know."
+   },
+   {
+    "zh": "这个问题确实很难。",
+    "pinyin": "Zhège wèntí quèshí hěn nán.",
+    "en": "This problem is indeed difficult."
+   }
+  ]
+ },
+ {
+  "id": "w942",
+  "hanzi": "群",
+  "pinyin": "qún",
+  "meaning": "group; crowd",
+  "partOfSpeech": "measure word",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "一群孩子在玩。",
+    "pinyin": "Yì qún háizi zài wán.",
+    "en": "A group of children are playing."
+   },
+   {
+    "zh": "这群人是谁？",
+    "pinyin": "Zhè qún rén shì shéi?",
+    "en": "Who's this group of people?"
+   },
+   {
+    "zh": "一群鸟飞过去了。",
+    "pinyin": "Yì qún niǎo fēi guòqù le.",
+    "en": "A flock of birds flew past."
+   },
+   {
+    "zh": "这群学生很认真。",
+    "pinyin": "Zhè qún xuésheng hěn rènzhēn.",
+    "en": "This group of students is very serious."
+   },
+   {
+    "zh": "公园里有一群人在唱歌。",
+    "pinyin": "Gōngyuán lǐ yǒu yì qún rén zài chànggē.",
+    "en": "There's a group of people singing in the park."
+   }
+  ]
+ },
+ {
+  "id": "w943",
+  "hanzi": "然而",
+  "pinyin": "rán'ér",
+  "meaning": "however",
+  "partOfSpeech": "conjunction",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她很努力，然而没有成功。",
+    "pinyin": "Tā hěn nǔlì, rán'ér méiyǒu chénggōng.",
+    "en": "She worked hard, however she didn't succeed."
+   },
+   {
+    "zh": "这个方法很好，然而不容易做到。",
+    "pinyin": "Zhège fāngfǎ hěn hǎo, rán'ér bù róngyì zuòdào.",
+    "en": "This method is good, however it's not easy to accomplish."
+   },
+   {
+    "zh": "天气很好，然而她不想出去。",
+    "pinyin": "Tiānqì hěn hǎo, rán'ér tā bù xiǎng chūqù.",
+    "en": "The weather is nice, however she doesn't want to go out."
+   },
+   {
+    "zh": "我们试过了，然而没有用。",
+    "pinyin": "Wǒmen shìguò le, rán'ér méiyǒu yòng.",
+    "en": "We tried, however it didn't work."
+   },
+   {
+    "zh": "她想去，然而没有时间。",
+    "pinyin": "Tā xiǎng qù, rán'ér méiyǒu shíjiān.",
+    "en": "She wants to go, however she doesn't have time."
+   }
+  ]
+ },
+ {
+  "id": "w944",
+  "hanzi": "热闹",
+  "pinyin": "rènao",
+  "meaning": "lively; bustling",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这里很热闹。",
+    "pinyin": "Zhèlǐ hěn rènao.",
+    "en": "It's lively here."
+   },
+   {
+    "zh": "这条街很热闹。",
+    "pinyin": "Zhè tiáo jiē hěn rènao.",
+    "en": "This street is bustling."
+   },
+   {
+    "zh": "过年的时候很热闹。",
+    "pinyin": "Guònián de shíhou hěn rènao.",
+    "en": "It's lively during New Year."
+   },
+   {
+    "zh": "这个市场很热闹。",
+    "pinyin": "Zhège shìchǎng hěn rènao.",
+    "en": "This market is bustling."
+   },
+   {
+    "zh": "晚上这里更热闹。",
+    "pinyin": "Wǎnshang zhèlǐ gèng rènao.",
+    "en": "It's even livelier here at night."
+   }
+  ]
+ },
+ {
+  "id": "w945",
+  "hanzi": "人民币",
+  "pinyin": "rénmínbì",
+  "meaning": "RMB (Chinese currency)",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这个多少人民币？",
+    "pinyin": "Zhège duōshao rénmínbì?",
+    "en": "How much is this in RMB?"
+   },
+   {
+    "zh": "我需要换一些人民币。",
+    "pinyin": "Wǒ xūyào huàn yìxiē rénmínbì.",
+    "en": "I need to exchange some RMB."
+   },
+   {
+    "zh": "这是一百元人民币。",
+    "pinyin": "Zhè shì yìbǎi yuán rénmínbì.",
+    "en": "This is one hundred yuan RMB."
+   },
+   {
+    "zh": "她带了很多人民币。",
+    "pinyin": "Tā dài le hěn duō rénmínbì.",
+    "en": "She brought a lot of RMB."
+   },
+   {
+    "zh": "这里可以用人民币吗？",
+    "pinyin": "Zhèlǐ kěyǐ yòng rénmínbì ma?",
+    "en": "Can I use RMB here?"
+   }
+  ]
+ },
+ {
+  "id": "w946",
+  "hanzi": "任何",
+  "pinyin": "rènhé",
+  "meaning": "any",
+  "partOfSpeech": "pronoun",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "任何人都可以来。",
+    "pinyin": "Rènhé rén dōu kěyǐ lái.",
+    "en": "Anyone can come."
+   },
+   {
+    "zh": "我没有任何问题。",
+    "pinyin": "Wǒ méiyǒu rènhé wèntí.",
+    "en": "I don't have any questions."
+   },
+   {
+    "zh": "任何时候都可以联系我。",
+    "pinyin": "Rènhé shíhou dōu kěyǐ liánxì wǒ.",
+    "en": "You can contact me at any time."
+   },
+   {
+    "zh": "她不需要任何帮助。",
+    "pinyin": "Tā bù xūyào rènhé bāngzhù.",
+    "en": "She doesn't need any help."
+   },
+   {
+    "zh": "任何地方都可以。",
+    "pinyin": "Rènhé dìfang dōu kěyǐ.",
+    "en": "Anywhere is fine."
+   }
+  ]
+ },
+ {
+  "id": "w947",
+  "hanzi": "任务",
+  "pinyin": "rènwù",
+  "meaning": "task",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Work",
+  "examples": [
+   {
+    "zh": "这是我的任务。",
+    "pinyin": "Zhè shì wǒ de rènwù.",
+    "en": "This is my task."
+   },
+   {
+    "zh": "她完成了任务。",
+    "pinyin": "Tā wánchéng le rènwù.",
+    "en": "She completed the task."
+   },
+   {
+    "zh": "这个任务很难。",
+    "pinyin": "Zhège rènwù hěn nán.",
+    "en": "This task is difficult."
+   },
+   {
+    "zh": "我们的任务是学习中文。",
+    "pinyin": "Wǒmen de rènwù shì xuéxí Zhōngwén.",
+    "en": "Our task is to learn Chinese."
+   },
+   {
+    "zh": "这个任务需要时间。",
+    "pinyin": "Zhège rènwù xūyào shíjiān.",
+    "en": "This task requires time."
+   }
+  ]
+ },
+ {
+  "id": "w948",
+  "hanzi": "扔",
+  "pinyin": "rēng",
+  "meaning": "to throw",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请把垃圾扔掉。",
+    "pinyin": "Qǐng bǎ lājī rēngdiào.",
+    "en": "Please throw away the trash."
+   },
+   {
+    "zh": "她把球扔给我。",
+    "pinyin": "Tā bǎ qiú rēng gěi wǒ.",
+    "en": "She threw the ball to me."
+   },
+   {
+    "zh": "不要乱扔东西。",
+    "pinyin": "Bú yào luàn rēng dōngxi.",
+    "en": "Don't throw things around randomly."
+   },
+   {
+    "zh": "他把旧衣服扔了。",
+    "pinyin": "Tā bǎ jiù yīfu rēng le.",
+    "en": "He threw away his old clothes."
+   },
+   {
+    "zh": "她把纸扔进垃圾桶了。",
+    "pinyin": "Tā bǎ zhǐ rēng jìn lājītǒng le.",
+    "en": "She threw the paper into the trash can."
+   }
+  ]
+ },
+ {
+  "id": "w949",
+  "hanzi": "仍然",
+  "pinyin": "réngrán",
+  "meaning": "still",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她仍然爱他。",
+    "pinyin": "Tā réngrán ài tā.",
+    "en": "She still loves him."
+   },
+   {
+    "zh": "我仍然不明白。",
+    "pinyin": "Wǒ réngrán bù míngbai.",
+    "en": "I still don't understand."
+   },
+   {
+    "zh": "他仍然住在这里。",
+    "pinyin": "Tā réngrán zhù zài zhèlǐ.",
+    "en": "He still lives here."
+   },
+   {
+    "zh": "她仍然坚持自己的想法。",
+    "pinyin": "Tā réngrán jiānchí zìjǐ de xiǎngfǎ.",
+    "en": "She still holds onto her own idea."
+   },
+   {
+    "zh": "问题仍然很多。",
+    "pinyin": "Wèntí réngrán hěn duō.",
+    "en": "There are still many problems."
+   }
+  ]
+ },
+ {
+  "id": "w950",
+  "hanzi": "日记",
+  "pinyin": "rìjì",
+  "meaning": "diary",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "她每天写日记。",
+    "pinyin": "Tā měitiān xiě rìjì.",
+    "en": "She writes a diary every day."
+   },
+   {
+    "zh": "这是我的日记。",
+    "pinyin": "Zhè shì wǒ de rìjì.",
+    "en": "This is my diary."
+   },
+   {
+    "zh": "我今天写了日记。",
+    "pinyin": "Wǒ jīntiān xiě le rìjì.",
+    "en": "I wrote a diary entry today."
+   },
+   {
+    "zh": "她的日记很有意思。",
+    "pinyin": "Tā de rìjì hěn yǒu yìsi.",
+    "en": "Her diary is interesting."
+   },
+   {
+    "zh": "我喜欢用中文写日记。",
+    "pinyin": "Wǒ xǐhuan yòng Zhōngwén xiě rìjì.",
+    "en": "I like writing my diary in Chinese."
+   }
+  ]
+ },
+ {
+  "id": "w951",
+  "hanzi": "入口",
+  "pinyin": "rùkǒu",
+  "meaning": "entrance",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "入口在哪儿？",
+    "pinyin": "Rùkǒu zài nǎr?",
+    "en": "Where's the entrance?"
+   },
+   {
+    "zh": "请从入口进去。",
+    "pinyin": "Qǐng cóng rùkǒu jìnqù.",
+    "en": "Please enter from the entrance."
+   },
+   {
+    "zh": "入口在前面。",
+    "pinyin": "Rùkǒu zài qiánmiàn.",
+    "en": "The entrance is up ahead."
+   },
+   {
+    "zh": "这个入口很小。",
+    "pinyin": "Zhège rùkǒu hěn xiǎo.",
+    "en": "This entrance is small."
+   },
+   {
+    "zh": "很多人在入口等着。",
+    "pinyin": "Hěn duō rén zài rùkǒu děng zhe.",
+    "en": "Many people are waiting at the entrance."
+   }
+  ]
+ },
+ {
+  "id": "w952",
+  "hanzi": "软",
+  "pinyin": "ruǎn",
+  "meaning": "soft",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这个床很软。",
+    "pinyin": "Zhège chuáng hěn ruǎn.",
+    "en": "This bed is soft."
+   },
+   {
+    "zh": "这个东西很软。",
+    "pinyin": "Zhège dōngxi hěn ruǎn.",
+    "en": "This thing is soft."
+   },
+   {
+    "zh": "她的手很软。",
+    "pinyin": "Tā de shǒu hěn ruǎn.",
+    "en": "Her hand is soft."
+   },
+   {
+    "zh": "这个面包很软。",
+    "pinyin": "Zhège miànbāo hěn ruǎn.",
+    "en": "This bread is soft."
+   },
+   {
+    "zh": "这个苹果很软。",
+    "pinyin": "Zhège píngguǒ hěn ruǎn.",
+    "en": "This apple is soft."
+   }
+  ]
+ },
+ {
+  "id": "w953",
+  "hanzi": "散步",
+  "pinyin": "sànbù",
+  "meaning": "to take a walk",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我喜欢散步。",
+    "pinyin": "Wǒ xǐhuan sànbù.",
+    "en": "I like taking walks."
+   },
+   {
+    "zh": "我们去公园散步吧。",
+    "pinyin": "Wǒmen qù gōngyuán sànbù ba.",
+    "en": "Let's go for a walk in the park."
+   },
+   {
+    "zh": "她每天晚上散步。",
+    "pinyin": "Tā měitiān wǎnshang sànbù.",
+    "en": "She takes a walk every evening."
+   },
+   {
+    "zh": "我们一起去散步了。",
+    "pinyin": "Wǒmen yìqǐ qù sànbù le.",
+    "en": "We went for a walk together."
+   },
+   {
+    "zh": "吃完饭后散步对身体好。",
+    "pinyin": "Chīwán fàn hòu sànbù duì shēntǐ hǎo.",
+    "en": "Taking a walk after eating is good for your health."
+   }
+  ]
+ },
+ {
+  "id": "w954",
+  "hanzi": "森林",
+  "pinyin": "sēnlín",
+  "meaning": "forest",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Nature",
+  "examples": [
+   {
+    "zh": "这是一片森林。",
+    "pinyin": "Zhè shì yí piàn sēnlín.",
+    "en": "This is a forest."
+   },
+   {
+    "zh": "森林里有很多树。",
+    "pinyin": "Sēnlín lǐ yǒu hěn duō shù.",
+    "en": "There are many trees in the forest."
+   },
+   {
+    "zh": "我们去森林散步了。",
+    "pinyin": "Wǒmen qù sēnlín sànbù le.",
+    "en": "We took a walk in the forest."
+   },
+   {
+    "zh": "这片森林很美丽。",
+    "pinyin": "Zhè piàn sēnlín hěn měilì.",
+    "en": "This forest is beautiful."
+   },
+   {
+    "zh": "森林里有很多动物。",
+    "pinyin": "Sēnlín lǐ yǒu hěn duō dòngwù.",
+    "en": "There are many animals in the forest."
+   }
+  ]
+ },
+ {
+  "id": "w955",
+  "hanzi": "沙发",
+  "pinyin": "shāfā",
+  "meaning": "sofa",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "她坐在沙发上。",
+    "pinyin": "Tā zuò zài shāfā shàng.",
+    "en": "She's sitting on the sofa."
+   },
+   {
+    "zh": "这是一个新沙发。",
+    "pinyin": "Zhè shì yí ge xīn shāfā.",
+    "en": "This is a new sofa."
+   },
+   {
+    "zh": "沙发很舒服。",
+    "pinyin": "Shāfā hěn shūfu.",
+    "en": "The sofa is comfortable."
+   },
+   {
+    "zh": "我们买了一个新沙发。",
+    "pinyin": "Wǒmen mǎi le yí ge xīn shāfā.",
+    "en": "We bought a new sofa."
+   },
+   {
+    "zh": "她睡在沙发上了。",
+    "pinyin": "Tā shuì zài shāfā shàng le.",
+    "en": "She fell asleep on the sofa."
+   }
+  ]
+ },
+ {
+  "id": "w956",
+  "hanzi": "伤心",
+  "pinyin": "shāngxīn",
+  "meaning": "sad; heartbroken",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "她很伤心。",
+    "pinyin": "Tā hěn shāngxīn.",
+    "en": "She's very sad."
+   },
+   {
+    "zh": "别伤心了。",
+    "pinyin": "Bié shāngxīn le.",
+    "en": "Don't be sad."
+   },
+   {
+    "zh": "这件事情让她很伤心。",
+    "pinyin": "Zhè jiàn shìqing ràng tā hěn shāngxīn.",
+    "en": "This matter made her very sad."
+   },
+   {
+    "zh": "她伤心地哭了。",
+    "pinyin": "Tā shāngxīn de kū le.",
+    "en": "She cried sadly."
+   },
+   {
+    "zh": "听到这个消息，我很伤心。",
+    "pinyin": "Tīngdào zhège xiāoxi, wǒ hěn shāngxīn.",
+    "en": "Hearing this news made me sad."
+   }
+  ]
+ },
+ {
+  "id": "w957",
+  "hanzi": "商量",
+  "pinyin": "shāngliang",
+  "meaning": "to discuss",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我们商量一下吧。",
+    "pinyin": "Wǒmen shāngliang yíxià ba.",
+    "en": "Let's discuss it."
+   },
+   {
+    "zh": "她跟我商量了这件事情。",
+    "pinyin": "Tā gēn wǒ shāngliang le zhè jiàn shìqing.",
+    "en": "She discussed this matter with me."
+   },
+   {
+    "zh": "我们需要商量一下计划。",
+    "pinyin": "Wǒmen xūyào shāngliang yíxià jìhuà.",
+    "en": "We need to discuss the plan."
+   },
+   {
+    "zh": "这件事情我们再商量商量。",
+    "pinyin": "Zhè jiàn shìqing wǒmen zài shāngliang shāngliang.",
+    "en": "Let's discuss this matter some more."
+   },
+   {
+    "zh": "她想跟你商量一件事情。",
+    "pinyin": "Tā xiǎng gēn nǐ shāngliang yí jiàn shìqing.",
+    "en": "She wants to discuss something with you."
+   }
+  ]
+ },
+ {
+  "id": "w958",
+  "hanzi": "稍微",
+  "pinyin": "shāowēi",
+  "meaning": "slightly",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "请稍微等一下。",
+    "pinyin": "Qǐng shāowēi děng yíxià.",
+    "en": "Please wait slightly."
+   },
+   {
+    "zh": "这个稍微贵一点。",
+    "pinyin": "Zhège shāowēi guì yìdiǎn.",
+    "en": "This is slightly more expensive."
+   },
+   {
+    "zh": "她稍微休息了一下。",
+    "pinyin": "Tā shāowēi xiūxi le yíxià.",
+    "en": "She rested slightly."
+   },
+   {
+    "zh": "今天稍微冷一点。",
+    "pinyin": "Jīntiān shāowēi lěng yìdiǎn.",
+    "en": "It's slightly colder today."
+   },
+   {
+    "zh": "请稍微快一点。",
+    "pinyin": "Qǐng shāowēi kuài yìdiǎn.",
+    "en": "Please be a bit quicker."
+   }
+  ]
+ },
+ {
+  "id": "w959",
+  "hanzi": "社会",
+  "pinyin": "shèhuì",
+  "meaning": "society",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是一个社会问题。",
+    "pinyin": "Zhè shì yí ge shèhuì wèntí.",
+    "en": "This is a social problem."
+   },
+   {
+    "zh": "社会在发展。",
+    "pinyin": "Shèhuì zài fāzhǎn.",
+    "en": "Society is developing."
+   },
+   {
+    "zh": "这对社会很重要。",
+    "pinyin": "Zhè duì shèhuì hěn zhòngyào.",
+    "en": "This is important for society."
+   },
+   {
+    "zh": "我们要关心社会。",
+    "pinyin": "Wǒmen yào guānxīn shèhuì.",
+    "en": "We need to care about society."
+   },
+   {
+    "zh": "这个社会变化很大。",
+    "pinyin": "Zhège shèhuì biànhuà hěn dà.",
+    "en": "This society has changed a lot."
+   }
+  ]
+ },
+ {
+  "id": "w960",
+  "hanzi": "申请",
+  "pinyin": "shēnqǐng",
+  "meaning": "to apply",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我申请了这个工作。",
+    "pinyin": "Wǒ shēnqǐng le zhège gōngzuò.",
+    "en": "I applied for this job."
+   },
+   {
+    "zh": "她申请了签证。",
+    "pinyin": "Tā shēnqǐng le qiānzhèng.",
+    "en": "She applied for a visa."
+   },
+   {
+    "zh": "我要申请这所学校。",
+    "pinyin": "Wǒ yào shēnqǐng zhè suǒ xuéxiào.",
+    "en": "I want to apply to this school."
+   },
+   {
+    "zh": "她的申请通过了。",
+    "pinyin": "Tā de shēnqǐng tōngguò le.",
+    "en": "Her application was approved."
+   },
+   {
+    "zh": "我们申请了一笔钱。",
+    "pinyin": "Wǒmen shēnqǐng le yì bǐ qián.",
+    "en": "We applied for a sum of money."
+   }
+  ]
+ },
+ {
+  "id": "w961",
+  "hanzi": "深",
+  "pinyin": "shēn",
+  "meaning": "deep",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这条河很深。",
+    "pinyin": "Zhè tiáo hé hěn shēn.",
+    "en": "This river is deep."
+   },
+   {
+    "zh": "这个水很深。",
+    "pinyin": "Zhège shuǐ hěn shēn.",
+    "en": "This water is deep."
+   },
+   {
+    "zh": "他们的感情很深。",
+    "pinyin": "Tāmen de gǎnqíng hěn shēn.",
+    "en": "Their feelings run deep."
+   },
+   {
+    "zh": "这个问题很深。",
+    "pinyin": "Zhège wèntí hěn shēn.",
+    "en": "This question is deep."
+   },
+   {
+    "zh": "河水已经很深了。",
+    "pinyin": "Héshuǐ yǐjīng hěn shēn le.",
+    "en": "The river water is already very deep."
+   }
+  ]
+ },
+ {
+  "id": "w962",
+  "hanzi": "甚至",
+  "pinyin": "shènzhì",
+  "meaning": "even (to the point of)",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她甚至没有告诉我。",
+    "pinyin": "Tā shènzhì méiyǒu gàosu wǒ.",
+    "en": "She didn't even tell me."
+   },
+   {
+    "zh": "我甚至不知道她的名字。",
+    "pinyin": "Wǒ shènzhì bù zhīdào tā de míngzi.",
+    "en": "I don't even know her name."
+   },
+   {
+    "zh": "她甚至忘记了我的生日。",
+    "pinyin": "Tā shènzhì wàngjì le wǒ de shēngrì.",
+    "en": "She even forgot my birthday."
+   },
+   {
+    "zh": "他甚至没有吃饭。",
+    "pinyin": "Tā shènzhì méiyǒu chīfàn.",
+    "en": "He didn't even eat."
+   },
+   {
+    "zh": "她甚至不认识他。",
+    "pinyin": "Tā shènzhì bú rènshi tā.",
+    "en": "She doesn't even know him."
+   }
+  ]
+ },
+ {
+  "id": "w963",
+  "hanzi": "生活",
+  "pinyin": "shēnghuó",
+  "meaning": "life; to live",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "她的生活很幸福。",
+    "pinyin": "Tā de shēnghuó hěn xìngfú.",
+    "en": "Her life is happy."
+   },
+   {
+    "zh": "我喜欢这里的生活。",
+    "pinyin": "Wǒ xǐhuan zhèlǐ de shēnghuó.",
+    "en": "I like life here."
+   },
+   {
+    "zh": "她一个人生活。",
+    "pinyin": "Tā yí ge rén shēnghuó.",
+    "en": "She lives alone."
+   },
+   {
+    "zh": "这是我的生活方式。",
+    "pinyin": "Zhè shì wǒ de shēnghuó fāngshì.",
+    "en": "This is my lifestyle."
+   },
+   {
+    "zh": "她的生活很忙。",
+    "pinyin": "Tā de shēnghuó hěn máng.",
+    "en": "Her life is busy."
+   }
+  ]
+ },
+ {
+  "id": "w964",
+  "hanzi": "生命",
+  "pinyin": "shēngmìng",
+  "meaning": "life (existence)",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "生命很重要。",
+    "pinyin": "Shēngmìng hěn zhòngyào.",
+    "en": "Life is important."
+   },
+   {
+    "zh": "医生帮助了他，保住了他的生命。",
+    "pinyin": "Yīshēng bāngzhù le tā, bǎozhù le tā de shēngmìng.","en": "The doctor helped him and saved his life."
+   },
+   {
+    "zh": "我们要保护生命。",
+    "pinyin": "Wǒmen yào bǎohù shēngmìng.",
+    "en": "We need to protect life."
+   },
+   {
+    "zh": "这是很危险的，会有生命危险。",
+    "pinyin": "Zhè shì hěn wēixiǎn de, huì yǒu shēngmìng wēixiǎn.",
+    "en": "This is very dangerous, there could be life-threatening danger."
+   },
+   {
+    "zh": "生命只有一次。",
+    "pinyin": "Shēngmìng zhǐyǒu yí cì.",
+    "en": "Life only happens once."
+   }
+  ]
+ },
+ {
+  "id": "w965",
+  "hanzi": "省",
+  "pinyin": "shěng",
+  "meaning": "province; to save",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "这是哪个省？",
+    "pinyin": "Zhè shì nǎge shěng?",
+    "en": "Which province is this?"
+   },
+   {
+    "zh": "我们省一点钱吧。",
+    "pinyin": "Wǒmen shěng yìdiǎn qián ba.",
+    "en": "Let's save a bit of money."
+   },
+   {
+    "zh": "她住在这个省。",
+    "pinyin": "Tā zhù zài zhège shěng.",
+    "en": "She lives in this province."
+   },
+   {
+    "zh": "这样能省时间。",
+    "pinyin": "Zhèyàng néng shěng shíjiān.",
+    "en": "This way can save time."
+   },
+   {
+    "zh": "这个方法能省钱。",
+    "pinyin": "Zhège fāngfǎ néng shěng qián.",
+    "en": "This method can save money."
+   }
+  ]
  }
 ]

@@ -26638,5 +26638,905 @@
     "en": "Everyone applauded happily."
    }
   ]
+ },
+ {
+  "id": "w741",
+  "hanzi": "故意",
+  "pinyin": "gùyì",
+  "meaning": "on purpose",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她不是故意的。",
+    "pinyin": "Tā búshì gùyì de.",
+    "en": "She didn't do it on purpose."
+   },
+   {
+    "zh": "你是故意的吗？",
+    "pinyin": "Nǐ shì gùyì de ma?",
+    "en": "Did you do it on purpose?"
+   },
+   {
+    "zh": "他故意迟到。",
+    "pinyin": "Tā gùyì chídào.",
+    "en": "He was late on purpose."
+   },
+   {
+    "zh": "我不是故意打扰你的。",
+    "pinyin": "Wǒ búshì gùyì dǎrǎo nǐ de.",
+    "en": "I didn't mean to disturb you."
+   },
+   {
+    "zh": "她故意不说话。",
+    "pinyin": "Tā gùyì bù shuōhuà.",
+    "en": "She deliberately didn't speak."
+   }
+  ]
+ },
+ {
+  "id": "w742",
+  "hanzi": "顾客",
+  "pinyin": "gùkè",
+  "meaning": "customer",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Shopping",
+  "examples": [
+   {
+    "zh": "这家店的顾客很多。",
+    "pinyin": "Zhè jiā diàn de gùkè hěn duō.",
+    "en": "This shop has many customers."
+   },
+   {
+    "zh": "她是我们的老顾客。",
+    "pinyin": "Tā shì wǒmen de lǎo gùkè.",
+    "en": "She's our regular customer."
+   },
+   {
+    "zh": "顾客对这个东西很满意。",
+    "pinyin": "Gùkè duì zhège dōngxi hěn mǎnyì.",
+    "en": "The customer is very satisfied with this product."
+   },
+   {
+    "zh": "服务员对顾客很热情。",
+    "pinyin": "Fúwùyuán duì gùkè hěn rèqíng.",
+    "en": "The waiter is very warm to customers."
+   },
+   {
+    "zh": "这个商店很重视顾客。",
+    "pinyin": "Zhège shāngdiàn hěn zhòngshì gùkè.",
+    "en": "This store values its customers a lot."
+   }
+  ]
+ },
+ {
+  "id": "w743",
+  "hanzi": "挂",
+  "pinyin": "guà",
+  "meaning": "to hang",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "墙上挂着一张照片。",
+    "pinyin": "Qiáng shàng guà zhe yì zhāng zhàopiàn.",
+    "en": "A photo is hanging on the wall."
+   },
+   {
+    "zh": "她把衣服挂起来了。",
+    "pinyin": "Tā bǎ yīfu guà qǐlái le.",
+    "en": "She hung up the clothes."
+   },
+   {
+    "zh": "请把这张画挂在这儿。",
+    "pinyin": "Qǐng bǎ zhè zhāng huà guà zài zhèr.",
+    "en": "Please hang this painting here."
+   },
+   {
+    "zh": "我挂了电话。",
+    "pinyin": "Wǒ guà le diànhuà.",
+    "en": "I hung up the phone."
+   },
+   {
+    "zh": "她的包挂在椅子上。",
+    "pinyin": "Tā de bāo guà zài yǐzi shàng.",
+    "en": "Her bag is hanging on the chair."
+   }
+  ]
+ },
+ {
+  "id": "w744",
+  "hanzi": "关键",
+  "pinyin": "guānjiàn",
+  "meaning": "key; crucial",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是关键问题。",
+    "pinyin": "Zhè shì guānjiàn wèntí.",
+    "en": "This is the key issue."
+   },
+   {
+    "zh": "努力是成功的关键。",
+    "pinyin": "Nǔlì shì chénggōng de guānjiàn.",
+    "en": "Hard work is the key to success."
+   },
+   {
+    "zh": "这一点很关键。",
+    "pinyin": "Zhè yì diǎn hěn guānjiàn.",
+    "en": "This point is crucial."
+   },
+   {
+    "zh": "时间是关键。",
+    "pinyin": "Shíjiān shì guānjiàn.",
+    "en": "Time is key."
+   },
+   {
+    "zh": "这是关键的一步。",
+    "pinyin": "Zhè shì guānjiàn de yí bù.",
+    "en": "This is a crucial step."
+   }
+  ]
+ },
+ {
+  "id": "w745",
+  "hanzi": "观众",
+  "pinyin": "guānzhòng",
+  "meaning": "audience",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "People",
+  "examples": [
+   {
+    "zh": "观众都很喜欢这部电影。",
+    "pinyin": "Guānzhòng dōu hěn xǐhuan zhè bù diànyǐng.",
+    "en": "The audience really liked this movie."
+   },
+   {
+    "zh": "现场有很多观众。",
+    "pinyin": "Xiànchǎng yǒu hěn duō guānzhòng.",
+    "en": "There are many people in the audience at the scene."
+   },
+   {
+    "zh": "观众为她鼓掌。",
+    "pinyin": "Guānzhòng wèi tā gǔzhǎng.",
+    "en": "The audience applauded for her."
+   },
+   {
+    "zh": "这个节目吸引了很多观众。",
+    "pinyin": "Zhège jiémù xīyǐn le hěn duō guānzhòng.",
+    "en": "This show attracted a lot of viewers."
+   },
+   {
+    "zh": "观众都很安静。",
+    "pinyin": "Guānzhòng dōu hěn ānjìng.",
+    "en": "The audience was very quiet."
+   }
+  ]
+ },
+ {
+  "id": "w746",
+  "hanzi": "管理",
+  "pinyin": "guǎnlǐ",
+  "meaning": "to manage",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Work",
+  "examples": [
+   {
+    "zh": "她管理这个公司。",
+    "pinyin": "Tā guǎnlǐ zhège gōngsī.",
+    "en": "She manages this company."
+   },
+   {
+    "zh": "这个学校管理得很好。",
+    "pinyin": "Zhège xuéxiào guǎnlǐ de hěn hǎo.",
+    "en": "This school is well managed."
+   },
+   {
+    "zh": "我负责管理这家公司。",
+    "pinyin": "Wǒ fùzé guǎnlǐ zhè jiā gōngsī.",
+    "en": "I'm responsible for managing this company."
+   },
+   {
+    "zh": "他管理得很严格。",
+    "pinyin": "Tā guǎnlǐ de hěn yángé.",
+    "en": "He manages very strictly."
+   },
+   {
+    "zh": "她是这个部门的管理者。",
+    "pinyin": "Tā shì zhège bùmén de guǎnlǐzhě.",
+    "en": "She's the manager of this department."
+   }
+  ]
+ },
+ {
+  "id": "w747",
+  "hanzi": "光",
+  "pinyin": "guāng",
+  "meaning": "light; ray",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "房间里有阳光。",
+    "pinyin": "Fángjiān lǐ yǒu yángguāng.",
+    "en": "There's sunlight in the room."
+   },
+   {
+    "zh": "这里的光不够。",
+    "pinyin": "Zhèlǐ de guāng bú gòu.",
+    "en": "There's not enough light here."
+   },
+   {
+    "zh": "月光很美。",
+    "pinyin": "Yuèguāng hěn měi.",
+    "en": "The moonlight is beautiful."
+   },
+   {
+    "zh": "她喜欢阳光。",
+    "pinyin": "Tā xǐhuan yángguāng.",
+    "en": "She likes sunlight."
+   },
+   {
+    "zh": "这个灯的光很亮。",
+    "pinyin": "Zhège dēng de guāng hěn liàng.",
+    "en": "This lamp's light is bright."
+   }
+  ]
+ },
+ {
+  "id": "w748",
+  "hanzi": "广播",
+  "pinyin": "guǎngbō",
+  "meaning": "broadcast; radio",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Media",
+  "examples": [
+   {
+    "zh": "我在听广播。",
+    "pinyin": "Wǒ zài tīng guǎngbō.",
+    "en": "I'm listening to the radio."
+   },
+   {
+    "zh": "这个广播很有意思。",
+    "pinyin": "Zhège guǎngbō hěn yǒu yìsi.",
+    "en": "This broadcast is interesting."
+   },
+   {
+    "zh": "她每天听广播。",
+    "pinyin": "Tā měitiān tīng guǎngbō.",
+    "en": "She listens to the radio every day."
+   },
+   {
+    "zh": "车站的广播说火车晚点了。",
+    "pinyin": "Chēzhàn de guǎngbō shuō huǒchē wǎndiǎn le.",
+    "en": "The station's broadcast said the train is delayed."
+   },
+   {
+    "zh": "我通过广播知道了这个消息。",
+    "pinyin": "Wǒ tōngguò guǎngbō zhīdào le zhège xiāoxi.",
+    "en": "I learned this news through the radio."
+   }
+  ]
+ },
+ {
+  "id": "w749",
+  "hanzi": "广告",
+  "pinyin": "guǎnggào",
+  "meaning": "advertisement",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Media",
+  "examples": [
+   {
+    "zh": "这是一个电视广告。",
+    "pinyin": "Zhè shì yí ge diànshì guǎnggào.",
+    "en": "This is a TV advertisement."
+   },
+   {
+    "zh": "我不喜欢看广告。",
+    "pinyin": "Wǒ bù xǐhuan kàn guǎnggào.",
+    "en": "I don't like watching advertisements."
+   },
+   {
+    "zh": "这个广告很有意思。",
+    "pinyin": "Zhège guǎnggào hěn yǒu yìsi.",
+    "en": "This advertisement is interesting."
+   },
+   {
+    "zh": "她看了这个广告以后就买了。",
+    "pinyin": "Tā kàn le zhège guǎnggào yǐhòu jiù mǎi le.",
+    "en": "She bought it after seeing this advertisement."
+   },
+   {
+    "zh": "公司花了很多钱做广告。",
+    "pinyin": "Gōngsī huā le hěn duō qián zuò guǎnggào.",
+    "en": "The company spent a lot of money on advertising."
+   }
+  ]
+ },
+ {
+  "id": "w750",
+  "hanzi": "逛",
+  "pinyin": "guàng",
+  "meaning": "to stroll; to wander",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我们去逛街吧。",
+    "pinyin": "Wǒmen qù guàngjiē ba.",
+    "en": "Let's go window shopping."
+   },
+   {
+    "zh": "她喜欢逛商店。",
+    "pinyin": "Tā xǐhuan guàng shāngdiàn.",
+    "en": "She likes strolling through stores."
+   },
+   {
+    "zh": "我们在公园逛了逛。",
+    "pinyin": "Wǒmen zài gōngyuán guàng le guàng.",
+    "en": "We strolled around the park."
+   },
+   {
+    "zh": "周末我喜欢逛街。",
+    "pinyin": "Zhōumò wǒ xǐhuan guàngjiē.",
+    "en": "I like window shopping on weekends."
+   },
+   {
+    "zh": "她一个人去逛商场了。",
+    "pinyin": "Tā yí ge rén qù guàng shāngchǎng le.",
+    "en": "She went to the mall alone."
+   }
+  ]
+ },
+ {
+  "id": "w751",
+  "hanzi": "规定",
+  "pinyin": "guīdìng",
+  "meaning": "rule; to stipulate",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是学校的规定。",
+    "pinyin": "Zhè shì xuéxiào de guīdìng.",
+    "en": "This is the school's rule."
+   },
+   {
+    "zh": "请按照规定做。",
+    "pinyin": "Qǐng ànzhào guīdìng zuò.",
+    "en": "Please follow the rules."
+   },
+   {
+    "zh": "公司有很多规定。",
+    "pinyin": "Gōngsī yǒu hěn duō guīdìng.",
+    "en": "The company has many rules."
+   },
+   {
+    "zh": "这个规定不合理。",
+    "pinyin": "Zhège guīdìng bù hélǐ.",
+    "en": "This rule isn't reasonable."
+   },
+   {
+    "zh": "按照规定，你需要护照。",
+    "pinyin": "Ànzhào guīdìng, nǐ xūyào hùzhào.",
+    "en": "According to the rules, you need a passport."
+   }
+  ]
+ },
+ {
+  "id": "w752",
+  "hanzi": "国际",
+  "pinyin": "guójì",
+  "meaning": "international",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是一个国际机场。",
+    "pinyin": "Zhè shì yí ge guójì jīchǎng.",
+    "en": "This is an international airport."
+   },
+   {
+    "zh": "她参加了国际比赛。",
+    "pinyin": "Tā cānjiā le guójì bǐsài.",
+    "en": "She participated in an international competition."
+   },
+   {
+    "zh": "这个国际会议很重要。",
+    "pinyin": "Zhège guójì huìyì hěn zhòngyào.",
+    "en": "This international conference is important."
+   },
+   {
+    "zh": "这是国际知名的公司。",
+    "pinyin": "Zhè shì guójì zhīmíng de gōngsī.",
+    "en": "This is an internationally renowned company."
+   },
+   {
+    "zh": "她在国际公司工作。",
+    "pinyin": "Tā zài guójì gōngsī gōngzuò.",
+    "en": "She works at an international company."
+   }
+  ]
+ },
+ {
+  "id": "w753",
+  "hanzi": "果然",
+  "pinyin": "guǒrán",
+  "meaning": "as expected",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她果然来了。",
+    "pinyin": "Tā guǒrán lái le.",
+    "en": "She came, as expected."
+   },
+   {
+    "zh": "天气果然变冷了。",
+    "pinyin": "Tiānqì guǒrán biàn lěng le.",
+    "en": "The weather got cold, as expected."
+   },
+   {
+    "zh": "这个方法果然有用。",
+    "pinyin": "Zhège fāngfǎ guǒrán yǒuyòng.",
+    "en": "This method really was useful, as expected."
+   },
+   {
+    "zh": "你说得果然对。",
+    "pinyin": "Nǐ shuō de guǒrán duì.",
+    "en": "What you said was indeed correct."
+   },
+   {
+    "zh": "果然不出所料。",
+    "pinyin": "Guǒrán bù chū suǒliào.",
+    "en": "As expected, it happened as predicted."
+   }
+  ]
+ },
+ {
+  "id": "w754",
+  "hanzi": "过",
+  "pinyin": "guò",
+  "meaning": "to pass; to spend (time)",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "你怎么过的这个周末？",
+    "pinyin": "Nǐ zěnme guò de zhège zhōumò?",
+    "en": "How did you spend this weekend?"
+   },
+   {
+    "zh": "我们过得很开心。",
+    "pinyin": "Wǒmen guò de hěn kāixīn.",
+    "en": "We had a great time."
+   },
+   {
+    "zh": "时间过得真快。",
+    "pinyin": "Shíjiān guò de zhēn kuài.",
+    "en": "Time passes so fast."
+   },
+   {
+    "zh": "她每天过得很忙。",
+    "pinyin": "Tā měitiān guò de hěn máng.",
+    "en": "She spends every day being busy."
+   },
+   {
+    "zh": "我们一起过新年吧。",
+    "pinyin": "Wǒmen yìqǐ guò xīnnián ba.",
+    "en": "Let's spend New Year together."
+   }
+  ]
+ },
+ {
+  "id": "w755",
+  "hanzi": "过程",
+  "pinyin": "guòchéng",
+  "meaning": "process",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是一个复杂的过程。",
+    "pinyin": "Zhè shì yí ge fùzá de guòchéng.",
+    "en": "This is a complicated process."
+   },
+   {
+    "zh": "学习是一个过程。",
+    "pinyin": "Xuéxí shì yí ge guòchéng.",
+    "en": "Learning is a process."
+   },
+   {
+    "zh": "这个过程需要时间。",
+    "pinyin": "Zhège guòchéng xūyào shíjiān.",
+    "en": "This process needs time."
+   },
+   {
+    "zh": "整个过程很顺利。",
+    "pinyin": "Zhěnggè guòchéng hěn shùnlì.",
+    "en": "The whole process went smoothly."
+   },
+   {
+    "zh": "这是重要的过程。",
+    "pinyin": "Zhè shì zhòngyào de guòchéng.",
+    "en": "This is an important process."
+   }
+  ]
+ },
+ {
+  "id": "w756",
+  "hanzi": "咳嗽",
+  "pinyin": "késou",
+  "meaning": "to cough",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Health",
+  "examples": [
+   {
+    "zh": "她一直在咳嗽。",
+    "pinyin": "Tā yìzhí zài késou.",
+    "en": "She's been coughing."
+   },
+   {
+    "zh": "我咳嗽得很厉害。",
+    "pinyin": "Wǒ késou de hěn lìhai.",
+    "en": "I'm coughing badly."
+   },
+   {
+    "zh": "你为什么咳嗽？",
+    "pinyin": "Nǐ wèishénme késou?",
+    "en": "Why are you coughing?"
+   },
+   {
+    "zh": "孩子咳嗽了几天了。",
+    "pinyin": "Háizi késou le jǐ tiān le.",
+    "en": "The child has been coughing for a few days."
+   },
+   {
+    "zh": "她咳嗽，所以没去上班。",
+    "pinyin": "Tā késou, suǒyǐ méi qù shàngbān.",
+    "en": "She's coughing, so she didn't go to work."
+   }
+  ]
+ },
+ {
+  "id": "w757",
+  "hanzi": "海洋",
+  "pinyin": "hǎiyáng",
+  "meaning": "ocean",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Nature",
+  "examples": [
+   {
+    "zh": "海洋很大。",
+    "pinyin": "Hǎiyáng hěn dà.",
+    "en": "The ocean is big."
+   },
+   {
+    "zh": "我们要保护海洋。",
+    "pinyin": "Wǒmen yào bǎohù hǎiyáng.",
+    "en": "We need to protect the ocean."
+   },
+   {
+    "zh": "海洋里有很多鱼。",
+    "pinyin": "Hǎiyáng lǐ yǒu hěn duō yú.",
+    "en": "There are many fish in the ocean."
+   },
+   {
+    "zh": "她喜欢海洋生物。",
+    "pinyin": "Tā xǐhuan hǎiyáng shēngwù.",
+    "en": "She likes marine life."
+   },
+   {
+    "zh": "这是一片美丽的海洋。",
+    "pinyin": "Zhè shì yí piàn měilì de hǎiyáng.",
+    "en": "This is a beautiful ocean."
+   }
+  ]
+ },
+ {
+  "id": "w758",
+  "hanzi": "害羞",
+  "pinyin": "hàixiū",
+  "meaning": "shy",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "她很害羞。",
+    "pinyin": "Tā hěn hàixiū.",
+    "en": "She's shy."
+   },
+   {
+    "zh": "孩子看见客人有点害羞。",
+    "pinyin": "Háizi kànjiàn kèrén yǒudiǎn hàixiū.",
+    "en": "The child is a bit shy seeing guests."
+   },
+   {
+    "zh": "你不用害羞。",
+    "pinyin": "Nǐ bú yòng hàixiū.",
+    "en": "You don't need to be shy."
+   },
+   {
+    "zh": "他害羞地笑了笑。",
+    "pinyin": "Tā hàixiū de xiào le xiào.",
+    "en": "He smiled shyly."
+   },
+   {
+    "zh": "她是一个害羞的女孩。",
+    "pinyin": "Tā shì yí ge hàixiū de nǚhái.",
+    "en": "She's a shy girl."
+   }
+  ]
+ },
+ {
+  "id": "w759",
+  "hanzi": "寒假",
+  "pinyin": "hánjià",
+  "meaning": "winter vacation",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "寒假快到了。",
+    "pinyin": "Hánjià kuài dào le.",
+    "en": "Winter vacation is coming soon."
+   },
+   {
+    "zh": "寒假你打算做什么？",
+    "pinyin": "Hánjià nǐ dǎsuàn zuò shénme?",
+    "en": "What are you planning to do during winter vacation?"
+   },
+   {
+    "zh": "我们寒假去旅游。",
+    "pinyin": "Wǒmen hánjià qù lǚyóu.",
+    "en": "We're traveling during winter vacation."
+   },
+   {
+    "zh": "学校一月放寒假。",
+    "pinyin": "Xuéxiào yīyuè fàng hánjià.",
+    "en": "The school starts winter vacation in January."
+   },
+   {
+    "zh": "寒假过得很快。",
+    "pinyin": "Hánjià guò de hěn kuài.",
+    "en": "Winter vacation passed quickly."
+   }
+  ]
+ },
+ {
+  "id": "w760",
+  "hanzi": "汗",
+  "pinyin": "hàn",
+  "meaning": "sweat",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Health",
+  "examples": [
+   {
+    "zh": "我出了很多汗。",
+    "pinyin": "Wǒ chū le hěn duō hàn.",
+    "en": "I sweated a lot."
+   },
+   {
+    "zh": "她满头是汗。",
+    "pinyin": "Tā mǎntóu shì hàn.",
+    "en": "She's covered in sweat."
+   },
+   {
+    "zh": "运动以后出汗很正常。",
+    "pinyin": "Yùndòng yǐhòu chūhàn hěn zhèngcháng.",
+    "en": "It's normal to sweat after exercising."
+   },
+   {
+    "zh": "天太热了，我一直出汗。",
+    "pinyin": "Tiān tài rè le, wǒ yìzhí chūhàn.",
+    "en": "It's too hot, I keep sweating."
+   },
+   {
+    "zh": "他擦了擦汗。",
+    "pinyin": "Tā cā le cā hàn.",
+    "en": "He wiped away his sweat."
+   }
+  ]
+ },
+ {
+  "id": "w761",
+  "hanzi": "航班",
+  "pinyin": "hángbān",
+  "meaning": "flight",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Travel",
+  "examples": [
+   {
+    "zh": "我的航班几点起飞？",
+    "pinyin": "Wǒ de hángbān jǐ diǎn qǐfēi?",
+    "en": "What time does my flight take off?"
+   },
+   {
+    "zh": "这个航班晚点了。",
+    "pinyin": "Zhège hángbān wǎndiǎn le.",
+    "en": "This flight is delayed."
+   },
+   {
+    "zh": "她坐明天的航班。",
+    "pinyin": "Tā zuò míngtiān de hángbān.",
+    "en": "She's taking tomorrow's flight."
+   },
+   {
+    "zh": "这趟航班直飞北京。",
+    "pinyin": "Zhè tàng hángbān zhífēi Běijīng.",
+    "en": "This flight flies directly to Beijing."
+   },
+   {
+    "zh": "我们的航班取消了。",
+    "pinyin": "Wǒmen de hángbān qǔxiāo le.",
+    "en": "Our flight was canceled."
+   }
+  ]
+ },
+ {
+  "id": "w762",
+  "hanzi": "好处",
+  "pinyin": "hǎochù",
+  "meaning": "benefit; advantage",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "运动对身体有好处。",
+    "pinyin": "Yùndòng duì shēntǐ yǒu hǎochù.",
+    "en": "Exercise is good for your health."
+   },
+   {
+    "zh": "这个方法有很多好处。",
+    "pinyin": "Zhège fāngfǎ yǒu hěn duō hǎochù.",
+    "en": "This method has many benefits."
+   },
+   {
+    "zh": "这样做对你有好处。",
+    "pinyin": "Zhèyàng zuò duì nǐ yǒu hǎochù.",
+    "en": "Doing this is beneficial for you."
+   },
+   {
+    "zh": "多读书有很多好处。",
+    "pinyin": "Duō dú shū yǒu hěn duō hǎochù.",
+    "en": "Reading a lot has many benefits."
+   },
+   {
+    "zh": "这个工作有什么好处？",
+    "pinyin": "Zhège gōngzuò yǒu shénme hǎochù?",
+    "en": "What are the benefits of this job?"
+   }
+  ]
+ },
+ {
+  "id": "w763",
+  "hanzi": "好像",
+  "pinyin": "hǎoxiàng",
+  "meaning": "seems like",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她好像不太高兴。",
+    "pinyin": "Tā hǎoxiàng bú tài gāoxìng.",
+    "en": "She doesn't seem very happy."
+   },
+   {
+    "zh": "好像要下雨了。",
+    "pinyin": "Hǎoxiàng yào xiàyǔ le.",
+    "en": "It seems like it's going to rain."
+   },
+   {
+    "zh": "他好像认识我。",
+    "pinyin": "Tā hǎoxiàng rènshi wǒ.",
+    "en": "He seems to know me."
+   },
+   {
+    "zh": "这个人好像是我的老师。",
+    "pinyin": "Zhège rén hǎoxiàng shì wǒ de lǎoshī.",
+    "en": "This person seems to be my teacher."
+   },
+   {
+    "zh": "好像有人在敲门。",
+    "pinyin": "Hǎoxiàng yǒu rén zài qiāomén.",
+    "en": "It seems like someone is knocking on the door."
+   }
+  ]
+ },
+ {
+  "id": "w764",
+  "hanzi": "号码",
+  "pinyin": "hàomǎ",
+  "meaning": "number",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "你的电话号码是多少？",
+    "pinyin": "Nǐ de diànhuà hàomǎ shì duōshao?",
+    "en": "What's your phone number?"
+   },
+   {
+    "zh": "请告诉我房间号码。",
+    "pinyin": "Qǐng gàosu wǒ fángjiān hàomǎ.",
+    "en": "Please tell me the room number."
+   },
+   {
+    "zh": "我忘记了她的号码。",
+    "pinyin": "Wǒ wàngjì le tā de hàomǎ.",
+    "en": "I forgot her number."
+   },
+   {
+    "zh": "这是我的新号码。",
+    "pinyin": "Zhè shì wǒ de xīn hàomǎ.",
+    "en": "This is my new number."
+   },
+   {
+    "zh": "请写下你的号码。",
+    "pinyin": "Qǐng xiěxià nǐ de hàomǎ.",
+    "en": "Please write down your number."
+   }
+  ]
+ },
+ {
+  "id": "w765",
+  "hanzi": "合格",
+  "pinyin": "hégé",
+  "meaning": "qualified; up to standard",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "她是合格的老师。",
+    "pinyin": "Tā shì hégé de lǎoshī.",
+    "en": "She's a qualified teacher."
+   },
+   {
+    "zh": "这个东西不合格。",
+    "pinyin": "Zhège dōngxi bù hégé.",
+    "en": "This product doesn't meet the standard."
+   },
+   {
+    "zh": "他考试合格了。",
+    "pinyin": "Tā kǎoshì hégé le.",
+    "en": "He passed the exam."
+   },
+   {
+    "zh": "这些都是合格的东西。",
+    "pinyin": "Zhèxiē dōu shì hégé de dōngxi.",
+    "en": "These are all qualified products."
+   },
+   {
+    "zh": "她是一位合格的医生。",
+    "pinyin": "Tā shì yí wèi hégé de yīshēng.",
+    "en": "She's a qualified doctor."
+   }
+  ]
  }
 ]

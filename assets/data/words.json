@@ -1,77 +1,5402 @@
 [
-  {"id": "w001", "hanzi": "你好", "pinyin": "nǐ hǎo", "meaning": "hello", "partOfSpeech": "phrase", "level": 1, "category": "Basics", "exampleZh": "你好，我叫王明。", "examplePinyin": "Nǐ hǎo, wǒ jiào Wáng Míng.", "exampleEn": "Hello, my name is Wang Ming."},
-  {"id": "w002", "hanzi": "谢谢", "pinyin": "xièxie", "meaning": "thank you", "partOfSpeech": "phrase", "level": 1, "category": "Basics", "exampleZh": "谢谢你的帮助。", "examplePinyin": "Xièxie nǐ de bāngzhù.", "exampleEn": "Thank you for your help."},
-  {"id": "w003", "hanzi": "再见", "pinyin": "zàijiàn", "meaning": "goodbye", "partOfSpeech": "phrase", "level": 1, "category": "Basics", "exampleZh": "明天见，再见！", "examplePinyin": "Míngtiān jiàn, zàijiàn!", "exampleEn": "See you tomorrow, goodbye!"},
-  {"id": "w004", "hanzi": "对不起", "pinyin": "duìbuqǐ", "meaning": "sorry", "partOfSpeech": "phrase", "level": 1, "category": "Basics", "exampleZh": "对不起，我迟到了。", "examplePinyin": "Duìbuqǐ, wǒ chídào le.", "exampleEn": "Sorry, I'm late."},
-  {"id": "w005", "hanzi": "是", "pinyin": "shì", "meaning": "to be; yes", "partOfSpeech": "verb", "level": 1, "category": "Basics", "exampleZh": "他是老师。", "examplePinyin": "Tā shì lǎoshī.", "exampleEn": "He is a teacher."},
-  {"id": "w006", "hanzi": "不", "pinyin": "bù", "meaning": "no; not", "partOfSpeech": "adverb", "level": 1, "category": "Basics", "exampleZh": "我不喜欢咖啡。", "examplePinyin": "Wǒ bù xǐhuan kāfēi.", "exampleEn": "I don't like coffee."},
-  {"id": "w007", "hanzi": "我", "pinyin": "wǒ", "meaning": "I; me", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "我是学生。", "examplePinyin": "Wǒ shì xuésheng.", "exampleEn": "I am a student."},
-  {"id": "w008", "hanzi": "你", "pinyin": "nǐ", "meaning": "you", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "你叫什么名字？", "examplePinyin": "Nǐ jiào shénme míngzi?", "exampleEn": "What is your name?"},
-  {"id": "w009", "hanzi": "他", "pinyin": "tā", "meaning": "he; him", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "他很高。", "examplePinyin": "Tā hěn gāo.", "exampleEn": "He is tall."},
-  {"id": "w010", "hanzi": "她", "pinyin": "tā", "meaning": "she; her", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "她是我的朋友。", "examplePinyin": "Tā shì wǒ de péngyou.", "exampleEn": "She is my friend."},
-  {"id": "w011", "hanzi": "我们", "pinyin": "wǒmen", "meaning": "we; us", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "我们是同学。", "examplePinyin": "Wǒmen shì tóngxué.", "exampleEn": "We are classmates."},
-  {"id": "w012", "hanzi": "这", "pinyin": "zhè", "meaning": "this", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "这是我的书。", "examplePinyin": "Zhè shì wǒ de shū.", "exampleEn": "This is my book."},
-  {"id": "w013", "hanzi": "那", "pinyin": "nà", "meaning": "that", "partOfSpeech": "pronoun", "level": 1, "category": "Pronouns", "exampleZh": "那是他的猫。", "examplePinyin": "Nà shì tā de māo.", "exampleEn": "That is his cat."},
-  {"id": "w014", "hanzi": "的", "pinyin": "de", "meaning": "possessive/modifying particle", "partOfSpeech": "particle", "level": 1, "category": "Grammar words", "exampleZh": "这是我的手机。", "examplePinyin": "Zhè shì wǒ de shǒujī.", "exampleEn": "This is my phone."},
-  {"id": "w015", "hanzi": "了", "pinyin": "le", "meaning": "completed action particle", "partOfSpeech": "particle", "level": 1, "category": "Grammar words", "exampleZh": "我吃了早饭。", "examplePinyin": "Wǒ chī le zǎofàn.", "exampleEn": "I have eaten breakfast."},
-  {"id": "w016", "hanzi": "吗", "pinyin": "ma", "meaning": "question particle", "partOfSpeech": "particle", "level": 1, "category": "Grammar words", "exampleZh": "你是学生吗？", "examplePinyin": "Nǐ shì xuésheng ma?", "exampleEn": "Are you a student?"},
-  {"id": "w017", "hanzi": "一", "pinyin": "yī", "meaning": "one", "partOfSpeech": "number", "level": 1, "category": "Numbers", "exampleZh": "我有一本书。", "examplePinyin": "Wǒ yǒu yì běn shū.", "exampleEn": "I have one book."},
-  {"id": "w018", "hanzi": "二", "pinyin": "èr", "meaning": "two", "partOfSpeech": "number", "level": 1, "category": "Numbers", "exampleZh": "我有二个苹果。", "examplePinyin": "Wǒ yǒu liǎng ge píngguǒ.", "exampleEn": "I have two apples."},
-  {"id": "w019", "hanzi": "三", "pinyin": "sān", "meaning": "three", "partOfSpeech": "number", "level": 1, "category": "Numbers", "exampleZh": "现在是三点。", "examplePinyin": "Xiànzài shì sān diǎn.", "exampleEn": "It is three o'clock now."},
-  {"id": "w020", "hanzi": "四", "pinyin": "sì", "meaning": "four", "partOfSpeech": "number", "level": 1, "category": "Numbers", "exampleZh": "他有四个孩子。", "examplePinyin": "Tā yǒu sì ge háizi.", "exampleEn": "He has four children."},
-  {"id": "w021", "hanzi": "五", "pinyin": "wǔ", "meaning": "five", "partOfSpeech": "number", "level": 1, "category": "Numbers", "exampleZh": "我五点回家。", "examplePinyin": "Wǒ wǔ diǎn huí jiā.", "exampleEn": "I go home at five o'clock."},
-  {"id": "w022", "hanzi": "人", "pinyin": "rén", "meaning": "person; people", "partOfSpeech": "noun", "level": 1, "category": "Basics", "exampleZh": "他是中国人。", "examplePinyin": "Tā shì Zhōngguó rén.", "exampleEn": "He is Chinese."},
-  {"id": "w023", "hanzi": "朋友", "pinyin": "péngyou", "meaning": "friend", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "他是我的好朋友。", "examplePinyin": "Tā shì wǒ de hǎo péngyou.", "exampleEn": "He is my good friend."},
-  {"id": "w024", "hanzi": "老师", "pinyin": "lǎoshī", "meaning": "teacher", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "王老师教我们中文。", "examplePinyin": "Wáng lǎoshī jiāo wǒmen Zhōngwén.", "exampleEn": "Teacher Wang teaches us Chinese."},
-  {"id": "w025", "hanzi": "学生", "pinyin": "xuésheng", "meaning": "student", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "我是大学生。", "examplePinyin": "Wǒ shì dàxuéshēng.", "exampleEn": "I am a university student."},
-  {"id": "w026", "hanzi": "爸爸", "pinyin": "bàba", "meaning": "father; dad", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "我爸爸是医生。", "examplePinyin": "Wǒ bàba shì yīshēng.", "exampleEn": "My dad is a doctor."},
-  {"id": "w027", "hanzi": "妈妈", "pinyin": "māma", "meaning": "mother; mom", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "妈妈在做饭。", "examplePinyin": "Māma zài zuò fàn.", "exampleEn": "Mom is cooking."},
-  {"id": "w028", "hanzi": "儿子", "pinyin": "érzi", "meaning": "son", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "他的儿子很可爱。", "examplePinyin": "Tā de érzi hěn kě'ài.", "exampleEn": "His son is very cute."},
-  {"id": "w029", "hanzi": "女儿", "pinyin": "nǚ'ér", "meaning": "daughter", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "我的女儿五岁了。", "examplePinyin": "Wǒ de nǚ'ér wǔ suì le.", "exampleEn": "My daughter is five years old."},
-  {"id": "w030", "hanzi": "家", "pinyin": "jiā", "meaning": "home; family", "partOfSpeech": "noun", "level": 1, "category": "Family & People", "exampleZh": "我家有四个人。", "examplePinyin": "Wǒ jiā yǒu sì ge rén.", "exampleEn": "There are four people in my family."},
-  {"id": "w031", "hanzi": "吃", "pinyin": "chī", "meaning": "to eat", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "我们去吃饭吧。", "examplePinyin": "Wǒmen qù chī fàn ba.", "exampleEn": "Let's go eat."},
-  {"id": "w032", "hanzi": "喝", "pinyin": "hē", "meaning": "to drink", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "你想喝什么？", "examplePinyin": "Nǐ xiǎng hē shénme?", "exampleEn": "What would you like to drink?"},
-  {"id": "w033", "hanzi": "看", "pinyin": "kàn", "meaning": "to look; to watch", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "我喜欢看电影。", "examplePinyin": "Wǒ xǐhuan kàn diànyǐng.", "exampleEn": "I like watching movies."},
-  {"id": "w034", "hanzi": "说", "pinyin": "shuō", "meaning": "to speak; to say", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "他说中文说得很好。", "examplePinyin": "Tā shuō Zhōngwén shuō de hěn hǎo.", "exampleEn": "He speaks Chinese very well."},
-  {"id": "w035", "hanzi": "去", "pinyin": "qù", "meaning": "to go", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "我要去北京。", "examplePinyin": "Wǒ yào qù Běijīng.", "exampleEn": "I want to go to Beijing."},
-  {"id": "w036", "hanzi": "来", "pinyin": "lái", "meaning": "to come", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "你什么时候来？", "examplePinyin": "Nǐ shénme shíhou lái?", "exampleEn": "When are you coming?"},
-  {"id": "w037", "hanzi": "喜欢", "pinyin": "xǐhuan", "meaning": "to like", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "我喜欢中国菜。", "examplePinyin": "Wǒ xǐhuan Zhōngguó cài.", "exampleEn": "I like Chinese food."},
-  {"id": "w038", "hanzi": "想", "pinyin": "xiǎng", "meaning": "to want; to think", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "我想学中文。", "examplePinyin": "Wǒ xiǎng xué Zhōngwén.", "exampleEn": "I want to learn Chinese."},
-  {"id": "w039", "hanzi": "学习", "pinyin": "xuéxí", "meaning": "to study", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "他每天学习中文。", "examplePinyin": "Tā měitiān xuéxí Zhōngwén.", "exampleEn": "He studies Chinese every day."},
-  {"id": "w040", "hanzi": "工作", "pinyin": "gōngzuò", "meaning": "to work; job", "partOfSpeech": "verb/noun", "level": 1, "category": "Verbs", "exampleZh": "她在银行工作。", "examplePinyin": "Tā zài yínháng gōngzuò.", "exampleEn": "She works at a bank."},
-  {"id": "w041", "hanzi": "有", "pinyin": "yǒu", "meaning": "to have", "partOfSpeech": "verb", "level": 1, "category": "Verbs", "exampleZh": "我有一个哥哥。", "examplePinyin": "Wǒ yǒu yí ge gēge.", "exampleEn": "I have an older brother."},
-  {"id": "w042", "hanzi": "在", "pinyin": "zài", "meaning": "to be at/in; at", "partOfSpeech": "verb/preposition", "level": 1, "category": "Verbs", "exampleZh": "我在家。", "examplePinyin": "Wǒ zài jiā.", "exampleEn": "I am at home."},
-  {"id": "w043", "hanzi": "水", "pinyin": "shuǐ", "meaning": "water", "partOfSpeech": "noun", "level": 1, "category": "Food & Drink", "exampleZh": "请给我一杯水。", "examplePinyin": "Qǐng gěi wǒ yì bēi shuǐ.", "exampleEn": "Please give me a glass of water."},
-  {"id": "w044", "hanzi": "茶", "pinyin": "chá", "meaning": "tea", "partOfSpeech": "noun", "level": 1, "category": "Food & Drink", "exampleZh": "中国人喜欢喝茶。", "examplePinyin": "Zhōngguó rén xǐhuan hē chá.", "exampleEn": "Chinese people like to drink tea."},
-  {"id": "w045", "hanzi": "米饭", "pinyin": "mǐfàn", "meaning": "rice", "partOfSpeech": "noun", "level": 1, "category": "Food & Drink", "exampleZh": "我每天吃米饭。", "examplePinyin": "Wǒ měitiān chī mǐfàn.", "exampleEn": "I eat rice every day."},
-  {"id": "w046", "hanzi": "苹果", "pinyin": "píngguǒ", "meaning": "apple", "partOfSpeech": "noun", "level": 1, "category": "Food & Drink", "exampleZh": "这个苹果很甜。", "examplePinyin": "Zhège píngguǒ hěn tián.", "exampleEn": "This apple is very sweet."},
-  {"id": "w047", "hanzi": "咖啡", "pinyin": "kāfēi", "meaning": "coffee", "partOfSpeech": "noun", "level": 1, "category": "Food & Drink", "exampleZh": "早上我喝咖啡。", "examplePinyin": "Zǎoshang wǒ hē kāfēi.", "exampleEn": "I drink coffee in the morning."},
-  {"id": "w048", "hanzi": "今天", "pinyin": "jīntiān", "meaning": "today", "partOfSpeech": "noun", "level": 1, "category": "Time", "exampleZh": "今天天气很好。", "examplePinyin": "Jīntiān tiānqì hěn hǎo.", "exampleEn": "The weather is nice today."},
-  {"id": "w049", "hanzi": "明天", "pinyin": "míngtiān", "meaning": "tomorrow", "partOfSpeech": "noun", "level": 1, "category": "Time", "exampleZh": "明天我们见面吧。", "examplePinyin": "Míngtiān wǒmen jiànmiàn ba.", "exampleEn": "Let's meet tomorrow."},
-  {"id": "w050", "hanzi": "昨天", "pinyin": "zuótiān", "meaning": "yesterday", "partOfSpeech": "noun", "level": 1, "category": "Time", "exampleZh": "昨天我很忙。", "examplePinyin": "Zuótiān wǒ hěn máng.", "exampleEn": "I was very busy yesterday."},
-  {"id": "w051", "hanzi": "现在", "pinyin": "xiànzài", "meaning": "now", "partOfSpeech": "noun", "level": 1, "category": "Time", "exampleZh": "现在几点了？", "examplePinyin": "Xiànzài jǐ diǎn le?", "exampleEn": "What time is it now?"},
-  {"id": "w052", "hanzi": "时候", "pinyin": "shíhou", "meaning": "time; moment", "partOfSpeech": "noun", "level": 1, "category": "Time", "exampleZh": "你什么时候有空？", "examplePinyin": "Nǐ shénme shíhou yǒu kòng?", "exampleEn": "When are you free?"},
-  {"id": "w053", "hanzi": "大", "pinyin": "dà", "meaning": "big", "partOfSpeech": "adjective", "level": 1, "category": "Adjectives", "exampleZh": "这个房子很大。", "examplePinyin": "Zhège fángzi hěn dà.", "exampleEn": "This house is very big."},
-  {"id": "w054", "hanzi": "小", "pinyin": "xiǎo", "meaning": "small", "partOfSpeech": "adjective", "level": 1, "category": "Adjectives", "exampleZh": "小猫很可爱。", "examplePinyin": "Xiǎo māo hěn kě'ài.", "exampleEn": "The small cat is very cute."},
-  {"id": "w055", "hanzi": "好", "pinyin": "hǎo", "meaning": "good", "partOfSpeech": "adjective", "level": 1, "category": "Adjectives", "exampleZh": "这本书很好。", "examplePinyin": "Zhè běn shū hěn hǎo.", "exampleEn": "This book is very good."},
-  {"id": "w056", "hanzi": "高兴", "pinyin": "gāoxìng", "meaning": "happy", "partOfSpeech": "adjective", "level": 1, "category": "Adjectives", "exampleZh": "认识你很高兴。", "examplePinyin": "Rènshi nǐ hěn gāoxìng.", "exampleEn": "Nice to meet you."},
-  {"id": "w057", "hanzi": "漂亮", "pinyin": "piàoliang", "meaning": "pretty; beautiful", "partOfSpeech": "adjective", "level": 1, "category": "Adjectives", "exampleZh": "她很漂亮。", "examplePinyin": "Tā hěn piàoliang.", "exampleEn": "She is very pretty."},
-  {"id": "w058", "hanzi": "忙", "pinyin": "máng", "meaning": "busy", "partOfSpeech": "adjective", "level": 1, "category": "Adjectives", "exampleZh": "我今天很忙。", "examplePinyin": "Wǒ jīntiān hěn máng.", "exampleEn": "I am very busy today."},
-  {"id": "w059", "hanzi": "很", "pinyin": "hěn", "meaning": "very", "partOfSpeech": "adverb", "level": 1, "category": "Grammar words", "exampleZh": "他很聪明。", "examplePinyin": "Tā hěn cōngming.", "exampleEn": "He is very smart."},
-  {"id": "w060", "hanzi": "也", "pinyin": "yě", "meaning": "also; too", "partOfSpeech": "adverb", "level": 1, "category": "Grammar words", "exampleZh": "我也喜欢喝茶。", "examplePinyin": "Wǒ yě xǐhuan hē chá.", "exampleEn": "I also like drinking tea."},
-  {"id": "w061", "hanzi": "都", "pinyin": "dōu", "meaning": "all; both", "partOfSpeech": "adverb", "level": 1, "category": "Grammar words", "exampleZh": "我们都是学生。", "examplePinyin": "Wǒmen dōu shì xuésheng.", "exampleEn": "We are all students."},
-  {"id": "w062", "hanzi": "什么", "pinyin": "shénme", "meaning": "what", "partOfSpeech": "pronoun", "level": 1, "category": "Question words", "exampleZh": "你要吃什么？", "examplePinyin": "Nǐ yào chī shénme?", "exampleEn": "What do you want to eat?"},
-  {"id": "w063", "hanzi": "谁", "pinyin": "shéi", "meaning": "who", "partOfSpeech": "pronoun", "level": 1, "category": "Question words", "exampleZh": "他是谁？", "examplePinyin": "Tā shì shéi?", "exampleEn": "Who is he?"},
-  {"id": "w064", "hanzi": "哪儿", "pinyin": "nǎr", "meaning": "where", "partOfSpeech": "pronoun", "level": 1, "category": "Question words", "exampleZh": "你在哪儿工作？", "examplePinyin": "Nǐ zài nǎr gōngzuò?", "exampleEn": "Where do you work?"},
-  {"id": "w065", "hanzi": "为什么", "pinyin": "wèishénme", "meaning": "why", "partOfSpeech": "pronoun", "level": 2, "category": "Question words", "exampleZh": "你为什么迟到？", "examplePinyin": "Nǐ wèishénme chídào?", "exampleEn": "Why are you late?"},
-  {"id": "w066", "hanzi": "怎么", "pinyin": "zěnme", "meaning": "how", "partOfSpeech": "pronoun", "level": 2, "category": "Question words", "exampleZh": "这个字怎么读？", "examplePinyin": "Zhège zì zěnme dú?", "exampleEn": "How do you read this character?"},
-  {"id": "w067", "hanzi": "书", "pinyin": "shū", "meaning": "book", "partOfSpeech": "noun", "level": 1, "category": "Objects", "exampleZh": "这是一本有意思的书。", "examplePinyin": "Zhè shì yì běn yǒuyìsi de shū.", "exampleEn": "This is an interesting book."},
-  {"id": "w068", "hanzi": "手机", "pinyin": "shǒujī", "meaning": "mobile phone", "partOfSpeech": "noun", "level": 1, "category": "Objects", "exampleZh": "我的手机没电了。", "examplePinyin": "Wǒ de shǒujī méi diàn le.", "exampleEn": "My phone is out of battery."},
-  {"id": "w069", "hanzi": "钱", "pinyin": "qián", "meaning": "money", "partOfSpeech": "noun", "level": 1, "category": "Objects", "exampleZh": "这个多少钱？", "examplePinyin": "Zhège duōshao qián?", "exampleEn": "How much is this?"},
-  {"id": "w070", "hanzi": "车", "pinyin": "chē", "meaning": "car; vehicle", "partOfSpeech": "noun", "level": 1, "category": "Objects", "exampleZh": "他开车去公司。", "examplePinyin": "Tā kāi chē qù gōngsī.", "exampleEn": "He drives to the office."},
-  {"id": "w071", "hanzi": "猫", "pinyin": "māo", "meaning": "cat", "partOfSpeech": "noun", "level": 1, "category": "Animals", "exampleZh": "我家有一只猫。", "examplePinyin": "Wǒ jiā yǒu yì zhī māo.", "exampleEn": "There is a cat at my home."},
-  {"id": "w072", "hanzi": "狗", "pinyin": "gǒu", "meaning": "dog", "partOfSpeech": "noun", "level": 1, "category": "Animals", "exampleZh": "那只狗很聪明。", "examplePinyin": "Nà zhī gǒu hěn cōngming.", "exampleEn": "That dog is very smart."},
-  {"id": "w073", "hanzi": "个", "pinyin": "gè", "meaning": "measure word (general)", "partOfSpeech": "measure word", "level": 1, "category": "Grammar words", "exampleZh": "我有三个朋友。", "examplePinyin": "Wǒ yǒu sān ge péngyou.", "exampleEn": "I have three friends."},
-  {"id": "w074", "hanzi": "本", "pinyin": "běn", "meaning": "measure word for books", "partOfSpeech": "measure word", "level": 1, "category": "Grammar words", "exampleZh": "我买了两本书。", "examplePinyin": "Wǒ mǎi le liǎng běn shū.", "exampleEn": "I bought two books."},
-  {"id": "w075", "hanzi": "谢谢你", "pinyin": "xièxie nǐ", "meaning": "thank you (to you)", "partOfSpeech": "phrase", "level": 1, "category": "Basics", "exampleZh": "谢谢你来看我。", "examplePinyin": "Xièxie nǐ lái kàn wǒ.", "exampleEn": "Thank you for coming to see me."}
+ {
+  "id": "w001",
+  "hanzi": "爱",
+  "pinyin": "ài",
+  "meaning": "to love; to like",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我爱你。",
+    "pinyin": "Wǒ ài nǐ.",
+    "en": "I love you."
+   },
+   {
+    "zh": "我爱我的家。",
+    "pinyin": "Wǒ ài wǒ de jiā.",
+    "en": "I love my family."
+   },
+   {
+    "zh": "她爱她的猫。",
+    "pinyin": "Tā ài tā de māo.",
+    "en": "She loves her cat."
+   },
+   {
+    "zh": "你爱不爱我？",
+    "pinyin": "Nǐ ài bu ài wǒ?",
+    "en": "Do you love me?"
+   },
+   {
+    "zh": "他很爱看电影。",
+    "pinyin": "Tā hěn ài kàn diànyǐng.",
+    "en": "He loves watching movies."
+   }
+  ]
+ },
+ {
+  "id": "w002",
+  "hanzi": "八",
+  "pinyin": "bā",
+  "meaning": "eight",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有八个苹果。",
+    "pinyin": "Wǒ yǒu bā ge píngguǒ.",
+    "en": "I have eight apples."
+   },
+   {
+    "zh": "现在是八点。",
+    "pinyin": "Xiànzài shì bā diǎn.",
+    "en": "It's eight o'clock now."
+   },
+   {
+    "zh": "她八岁了。",
+    "pinyin": "Tā bā suì le.",
+    "en": "She is eight years old."
+   },
+   {
+    "zh": "我八点去学校。",
+    "pinyin": "Wǒ bā diǎn qù xuéxiào.",
+    "en": "I go to school at eight o'clock."
+   },
+   {
+    "zh": "我买了八个。",
+    "pinyin": "Wǒ mǎi le bā ge.",
+    "en": "I bought eight."
+   }
+  ]
+ },
+ {
+  "id": "w003",
+  "hanzi": "爸爸",
+  "pinyin": "bàba",
+  "meaning": "dad; father",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "我爸爸是老师。",
+    "pinyin": "Wǒ bàba shì lǎoshī.",
+    "en": "My dad is a teacher."
+   },
+   {
+    "zh": "爸爸在家吗？",
+    "pinyin": "Bàba zài jiā ma?",
+    "en": "Is dad home?"
+   },
+   {
+    "zh": "我爱我爸爸。",
+    "pinyin": "Wǒ ài wǒ bàba.",
+    "en": "I love my dad."
+   },
+   {
+    "zh": "爸爸喜欢喝茶。",
+    "pinyin": "Bàba xǐhuan hē chá.",
+    "en": "Dad likes drinking tea."
+   },
+   {
+    "zh": "爸爸今天工作。",
+    "pinyin": "Bàba jīntiān gōngzuò.",
+    "en": "Dad is working today."
+   }
+  ]
+ },
+ {
+  "id": "w004",
+  "hanzi": "杯子",
+  "pinyin": "bēizi",
+  "meaning": "cup; glass",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "这是我的杯子。",
+    "pinyin": "Zhè shì wǒ de bēizi.",
+    "en": "This is my cup."
+   },
+   {
+    "zh": "杯子里有茶。",
+    "pinyin": "Bēizi lǐ yǒu chá.",
+    "en": "There is tea in the cup."
+   },
+   {
+    "zh": "这个杯子很小。",
+    "pinyin": "Zhège bēizi hěn xiǎo.",
+    "en": "This cup is small."
+   },
+   {
+    "zh": "你的杯子呢？",
+    "pinyin": "Nǐ de bēizi ne?",
+    "en": "Where is your cup?"
+   },
+   {
+    "zh": "我买了一个杯子。",
+    "pinyin": "Wǒ mǎi le yí ge bēizi.",
+    "en": "I bought a cup."
+   }
+  ]
+ },
+ {
+  "id": "w005",
+  "hanzi": "北京",
+  "pinyin": "Běijīng",
+  "meaning": "Beijing",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我在北京。",
+    "pinyin": "Wǒ zài Běijīng.",
+    "en": "I am in Beijing."
+   },
+   {
+    "zh": "他是北京人。",
+    "pinyin": "Tā shì Běijīng rén.",
+    "en": "He is from Beijing."
+   },
+   {
+    "zh": "北京天气很冷。",
+    "pinyin": "Běijīng tiānqì hěn lěng.",
+    "en": "The weather in Beijing is cold."
+   },
+   {
+    "zh": "我想去北京。",
+    "pinyin": "Wǒ xiǎng qù Běijīng.",
+    "en": "I want to go to Beijing."
+   },
+   {
+    "zh": "你去北京吗？",
+    "pinyin": "Nǐ qù Běijīng ma?",
+    "en": "Are you going to Beijing?"
+   }
+  ]
+ },
+ {
+  "id": "w006",
+  "hanzi": "本",
+  "pinyin": "běn",
+  "meaning": "measure word for books",
+  "partOfSpeech": "measure word",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have a book."
+   },
+   {
+    "zh": "这本书很好。",
+    "pinyin": "Zhè běn shū hěn hǎo.",
+    "en": "This book is good."
+   },
+   {
+    "zh": "她买了八本书。",
+    "pinyin": "Tā mǎi le bā běn shū.",
+    "en": "She bought eight books."
+   },
+   {
+    "zh": "那本书是谁的？",
+    "pinyin": "Nà běn shū shì shéi de?",
+    "en": "Whose book is that?"
+   },
+   {
+    "zh": "我想看这本书。",
+    "pinyin": "Wǒ xiǎng kàn zhè běn shū.",
+    "en": "I want to read this book."
+   }
+  ]
+ },
+ {
+  "id": "w007",
+  "hanzi": "不",
+  "pinyin": "bù",
+  "meaning": "not; no",
+  "partOfSpeech": "adverb",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我不喜欢茶。",
+    "pinyin": "Wǒ bù xǐhuan chá.",
+    "en": "I don't like tea."
+   },
+   {
+    "zh": "他不是老师。",
+    "pinyin": "Tā bú shì lǎoshī.",
+    "en": "He is not a teacher."
+   },
+   {
+    "zh": "这个不好。",
+    "pinyin": "Zhège bù hǎo.",
+    "en": "This one is not good."
+   },
+   {
+    "zh": "我不去商店。",
+    "pinyin": "Wǒ bú qù shāngdiàn.",
+    "en": "I'm not going to the store."
+   },
+   {
+    "zh": "她不认识我。",
+    "pinyin": "Tā bú rènshi wǒ.",
+    "en": "She doesn't know me."
+   }
+  ]
+ },
+ {
+  "id": "w008",
+  "hanzi": "不客气",
+  "pinyin": "bú kèqi",
+  "meaning": "you're welcome",
+  "partOfSpeech": "phrase",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "不客气！",
+    "pinyin": "Bú kèqi!",
+    "en": "You're welcome!"
+   },
+   {
+    "zh": "谢谢你！不客气。",
+    "pinyin": "Xièxie nǐ! Bú kèqi.",
+    "en": "Thank you! You're welcome."
+   },
+   {
+    "zh": "不客气，这是我的家。",
+    "pinyin": "Bú kèqi, zhè shì wǒ de jiā.",
+    "en": "Don't be shy, this is my home."
+   },
+   {
+    "zh": "老师说不客气。",
+    "pinyin": "Lǎoshī shuō bú kèqi.",
+    "en": "The teacher said you're welcome."
+   },
+   {
+    "zh": "她说谢谢，我说不客气。",
+    "pinyin": "Tā shuō xièxie, wǒ shuō bú kèqi.",
+    "en": "She said thanks, I said you're welcome."
+   }
+  ]
+ },
+ {
+  "id": "w009",
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "meaning": "dish; vegetable",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Food & Drink",
+  "examples": [
+   {
+    "zh": "这个菜很好吃。",
+    "pinyin": "Zhège cài hěn hǎochī.",
+    "en": "This dish is delicious."
+   },
+   {
+    "zh": "我想吃菜。",
+    "pinyin": "Wǒ xiǎng chī cài.",
+    "en": "I want to eat vegetables."
+   },
+   {
+    "zh": "妈妈做的菜很好。",
+    "pinyin": "Māma zuò de cài hěn hǎo.",
+    "en": "The dish mom made is great."
+   },
+   {
+    "zh": "这是什么菜？",
+    "pinyin": "Zhè shì shénme cài?",
+    "en": "What dish is this?"
+   },
+   {
+    "zh": "我们去饭馆吃菜。",
+    "pinyin": "Wǒmen qù fànguǎn chī cài.",
+    "en": "Let's go to the restaurant to eat."
+   }
+  ]
+ },
+ {
+  "id": "w010",
+  "hanzi": "茶",
+  "pinyin": "chá",
+  "meaning": "tea",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Food & Drink",
+  "examples": [
+   {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "en": "I like drinking tea."
+   },
+   {
+    "zh": "这是你的茶。",
+    "pinyin": "Zhè shì nǐ de chá.",
+    "en": "This is your tea."
+   },
+   {
+    "zh": "你想喝茶吗？",
+    "pinyin": "Nǐ xiǎng hē chá ma?",
+    "en": "Do you want to drink tea?"
+   },
+   {
+    "zh": "妈妈喝了一杯茶。",
+    "pinyin": "Māma hē le yì bēi chá.",
+    "en": "Mom drank a cup of tea."
+   },
+   {
+    "zh": "茶在桌子上。",
+    "pinyin": "Chá zài zhuōzi shàng.",
+    "en": "The tea is on the table."
+   }
+  ]
+ },
+ {
+  "id": "w011",
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "meaning": "to eat",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我想吃苹果。",
+    "pinyin": "Wǒ xiǎng chī píngguǒ.",
+    "en": "I want to eat an apple."
+   },
+   {
+    "zh": "你吃了吗？",
+    "pinyin": "Nǐ chī le ma?",
+    "en": "Have you eaten?"
+   },
+   {
+    "zh": "我们去吃饭。",
+    "pinyin": "Wǒmen qù chī fàn.",
+    "en": "Let's go eat."
+   },
+   {
+    "zh": "她不吃菜。",
+    "pinyin": "Tā bù chī cài.",
+    "en": "She doesn't eat vegetables."
+   },
+   {
+    "zh": "我吃了米饭。",
+    "pinyin": "Wǒ chī le mǐfàn.",
+    "en": "I ate rice."
+   }
+  ]
+ },
+ {
+  "id": "w012",
+  "hanzi": "出租车",
+  "pinyin": "chūzūchē",
+  "meaning": "taxi",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我坐出租车去。",
+    "pinyin": "Wǒ zuò chūzūchē qù.",
+    "en": "I'll go by taxi."
+   },
+   {
+    "zh": "这是出租车吗？",
+    "pinyin": "Zhè shì chūzūchē ma?",
+    "en": "Is this a taxi?"
+   },
+   {
+    "zh": "我们坐出租车去商店。",
+    "pinyin": "Wǒmen zuò chūzūchē qù shāngdiàn.",
+    "en": "We take a taxi to the store."
+   },
+   {
+    "zh": "出租车在哪儿？",
+    "pinyin": "Chūzūchē zài nǎr?",
+    "en": "Where is the taxi?"
+   },
+   {
+    "zh": "她想坐出租车。",
+    "pinyin": "Tā xiǎng zuò chūzūchē.",
+    "en": "She wants to take a taxi."
+   }
+  ]
+ },
+ {
+  "id": "w013",
+  "hanzi": "打电话",
+  "pinyin": "dǎ diànhuà",
+  "meaning": "to make a phone call",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我想打电话。",
+    "pinyin": "Wǒ xiǎng dǎ diànhuà.",
+    "en": "I want to make a phone call."
+   },
+   {
+    "zh": "她在打电话。",
+    "pinyin": "Tā zài dǎ diànhuà.",
+    "en": "She is on the phone."
+   },
+   {
+    "zh": "我打电话叫他。",
+    "pinyin": "Wǒ dǎ diànhuà jiào tā.",
+    "en": "I called and asked him to come."
+   },
+   {
+    "zh": "你打电话了吗？",
+    "pinyin": "Nǐ dǎ diànhuà le ma?",
+    "en": "Did you make the call?"
+   },
+   {
+    "zh": "爸爸在打电话。",
+    "pinyin": "Bàba zài dǎ diànhuà.",
+    "en": "Dad is making a phone call."
+   }
+  ]
+ },
+ {
+  "id": "w014",
+  "hanzi": "大",
+  "pinyin": "dà",
+  "meaning": "big; large",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这个杯子很大。",
+    "pinyin": "Zhège bēizi hěn dà.",
+    "en": "This cup is big."
+   },
+   {
+    "zh": "北京很大。",
+    "pinyin": "Běijīng hěn dà.",
+    "en": "Beijing is big."
+   },
+   {
+    "zh": "这本书不大。",
+    "pinyin": "Zhè běn shū bú dà.",
+    "en": "This book isn't big."
+   },
+   {
+    "zh": "他的狗很大。",
+    "pinyin": "Tā de gǒu hěn dà.",
+    "en": "His dog is big."
+   },
+   {
+    "zh": "这个学校很大。",
+    "pinyin": "Zhège xuéxiào hěn dà.",
+    "en": "This school is big."
+   }
+  ]
+ },
+ {
+  "id": "w015",
+  "hanzi": "的",
+  "pinyin": "de",
+  "meaning": "possessive particle",
+  "partOfSpeech": "particle",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "en": "This is my book."
+   },
+   {
+    "zh": "她是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "She is my friend."
+   },
+   {
+    "zh": "这是谁的杯子？",
+    "pinyin": "Zhè shì shéi de bēizi?",
+    "en": "Whose cup is this?"
+   },
+   {
+    "zh": "这是老师的书。",
+    "pinyin": "Zhè shì lǎoshī de shū.",
+    "en": "This is the teacher's book."
+   },
+   {
+    "zh": "我爸爸的车很大。",
+    "pinyin": "Wǒ bàba de chē hěn dà.",
+    "en": "My dad's car is big."
+   }
+  ]
+ },
+ {
+  "id": "w016",
+  "hanzi": "点",
+  "pinyin": "diǎn",
+  "meaning": "o'clock; a little",
+  "partOfSpeech": "measure word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it now?"
+   },
+   {
+    "zh": "现在是九点。",
+    "pinyin": "Xiànzài shì jiǔ diǎn.",
+    "en": "It's nine o'clock now."
+   },
+   {
+    "zh": "我八点去学校。",
+    "pinyin": "Wǒ bā diǎn qù xuéxiào.",
+    "en": "I go to school at eight."
+   },
+   {
+    "zh": "我想喝一点茶。",
+    "pinyin": "Wǒ xiǎng hē yìdiǎn chá.",
+    "en": "I want a little tea."
+   },
+   {
+    "zh": "她十点回家。",
+    "pinyin": "Tā shí diǎn huí jiā.",
+    "en": "She goes home at ten."
+   }
+  ]
+ },
+ {
+  "id": "w017",
+  "hanzi": "电脑",
+  "pinyin": "diànnǎo",
+  "meaning": "computer",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "这是我的电脑。",
+    "pinyin": "Zhè shì wǒ de diànnǎo.",
+    "en": "This is my computer."
+   },
+   {
+    "zh": "我在看电脑。",
+    "pinyin": "Wǒ zài kàn diànnǎo.",
+    "en": "I'm looking at the computer."
+   },
+   {
+    "zh": "她的电脑很大。",
+    "pinyin": "Tā de diànnǎo hěn dà.",
+    "en": "Her computer is big."
+   },
+   {
+    "zh": "我想买电脑。",
+    "pinyin": "Wǒ xiǎng mǎi diànnǎo.",
+    "en": "I want to buy a computer."
+   },
+   {
+    "zh": "电脑在桌子上。",
+    "pinyin": "Diànnǎo zài zhuōzi shàng.",
+    "en": "The computer is on the table."
+   }
+  ]
+ },
+ {
+  "id": "w018",
+  "hanzi": "电视",
+  "pinyin": "diànshì",
+  "meaning": "television; TV",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "我在看电视。",
+    "pinyin": "Wǒ zài kàn diànshì.",
+    "en": "I'm watching TV."
+   },
+   {
+    "zh": "这个电视很大。",
+    "pinyin": "Zhège diànshì hěn dà.",
+    "en": "This TV is big."
+   },
+   {
+    "zh": "你喜欢看电视吗？",
+    "pinyin": "Nǐ xǐhuan kàn diànshì ma?",
+    "en": "Do you like watching TV?"
+   },
+   {
+    "zh": "电视在桌子上。",
+    "pinyin": "Diànshì zài zhuōzi shàng.",
+    "en": "The TV is on the table."
+   },
+   {
+    "zh": "我没有电视。",
+    "pinyin": "Wǒ méiyǒu diànshì.",
+    "en": "I don't have a TV."
+   }
+  ]
+ },
+ {
+  "id": "w019",
+  "hanzi": "电影",
+  "pinyin": "diànyǐng",
+  "meaning": "movie; film",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "我喜欢看电影。",
+    "pinyin": "Wǒ xǐhuan kàn diànyǐng.",
+    "en": "I like watching movies."
+   },
+   {
+    "zh": "这个电影很好。",
+    "pinyin": "Zhège diànyǐng hěn hǎo.",
+    "en": "This movie is good."
+   },
+   {
+    "zh": "我们去看电影。",
+    "pinyin": "Wǒmen qù kàn diànyǐng.",
+    "en": "Let's go watch a movie."
+   },
+   {
+    "zh": "她不看电影。",
+    "pinyin": "Tā bú kàn diànyǐng.",
+    "en": "She doesn't watch movies."
+   },
+   {
+    "zh": "今天有电影。",
+    "pinyin": "Jīntiān yǒu diànyǐng.",
+    "en": "There is a movie today."
+   }
+  ]
+ },
+ {
+  "id": "w020",
+  "hanzi": "东西",
+  "pinyin": "dōngxi",
+  "meaning": "thing",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "这是什么东西？",
+    "pinyin": "Zhè shì shénme dōngxi?",
+    "en": "What is this thing?"
+   },
+   {
+    "zh": "我买了一些东西。",
+    "pinyin": "Wǒ mǎi le yìxiē dōngxi.",
+    "en": "I bought some things."
+   },
+   {
+    "zh": "桌子上有很多东西。",
+    "pinyin": "Zhuōzi shàng yǒu hěn duō dōngxi.",
+    "en": "There are many things on the table."
+   },
+   {
+    "zh": "这个东西很小。",
+    "pinyin": "Zhège dōngxi hěn xiǎo.",
+    "en": "This thing is small."
+   },
+   {
+    "zh": "这些东西是谁的？",
+    "pinyin": "Zhèxiē dōngxi shì shéi de?",
+    "en": "Whose things are these?"
+   }
+  ]
+ },
+ {
+  "id": "w021",
+  "hanzi": "都",
+  "pinyin": "dōu",
+  "meaning": "all; both",
+  "partOfSpeech": "adverb",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我们都是学生。",
+    "pinyin": "Wǒmen dōu shì xuésheng.",
+    "en": "We are all students."
+   },
+   {
+    "zh": "他们都喜欢茶。",
+    "pinyin": "Tāmen dōu xǐhuan chá.",
+    "en": "They all like tea."
+   },
+   {
+    "zh": "这些都是我的书。",
+    "pinyin": "Zhèxiē dōu shì wǒ de shū.",
+    "en": "These are all my books."
+   },
+   {
+    "zh": "我都认识他们。",
+    "pinyin": "Wǒ dōu rènshi tāmen.",
+    "en": "I know all of them."
+   },
+   {
+    "zh": "我们都去商店。",
+    "pinyin": "Wǒmen dōu qù shāngdiàn.",
+    "en": "We are all going to the store."
+   }
+  ]
+ },
+ {
+  "id": "w022",
+  "hanzi": "读",
+  "pinyin": "dú",
+  "meaning": "to read; to study",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我在读书。",
+    "pinyin": "Wǒ zài dú shū.",
+    "en": "I am reading a book."
+   },
+   {
+    "zh": "她读这本书。",
+    "pinyin": "Tā dú zhè běn shū.",
+    "en": "She reads this book."
+   },
+   {
+    "zh": "你读什么书？",
+    "pinyin": "Nǐ dú shénme shū?",
+    "en": "What book are you reading?"
+   },
+   {
+    "zh": "我们在学校读书。",
+    "pinyin": "Wǒmen zài xuéxiào dú shū.",
+    "en": "We study at school."
+   },
+   {
+    "zh": "他不喜欢读书。",
+    "pinyin": "Tā bù xǐhuan dú shū.",
+    "en": "He doesn't like reading."
+   }
+  ]
+ },
+ {
+  "id": "w023",
+  "hanzi": "对不起",
+  "pinyin": "duìbuqǐ",
+  "meaning": "sorry",
+  "partOfSpeech": "phrase",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "对不起！",
+    "pinyin": "Duìbuqǐ!",
+    "en": "Sorry!"
+   },
+   {
+    "zh": "对不起，我不认识你。",
+    "pinyin": "Duìbuqǐ, wǒ bú rènshi nǐ.",
+    "en": "Sorry, I don't know you."
+   },
+   {
+    "zh": "对不起，我没有钱。",
+    "pinyin": "Duìbuqǐ, wǒ méiyǒu qián.",
+    "en": "Sorry, I don't have money."
+   },
+   {
+    "zh": "她说对不起。",
+    "pinyin": "Tā shuō duìbuqǐ.",
+    "en": "She said sorry."
+   },
+   {
+    "zh": "对不起，请再说。",
+    "pinyin": "Duìbuqǐ, qǐng zài shuō.",
+    "en": "Sorry, please say it again."
+   }
+  ]
+ },
+ {
+  "id": "w024",
+  "hanzi": "多",
+  "pinyin": "duō",
+  "meaning": "many; much",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这里有很多人。",
+    "pinyin": "Zhèlǐ yǒu hěn duō rén.",
+    "en": "There are many people here."
+   },
+   {
+    "zh": "我有很多书。",
+    "pinyin": "Wǒ yǒu hěn duō shū.",
+    "en": "I have many books."
+   },
+   {
+    "zh": "她的东西很多。",
+    "pinyin": "Tā de dōngxi hěn duō.",
+    "en": "She has a lot of things."
+   },
+   {
+    "zh": "你有多少个杯子？",
+    "pinyin": "Nǐ yǒu duōshao ge bēizi?",
+    "en": "How many cups do you have?"
+   },
+   {
+    "zh": "这个学校学生很多。",
+    "pinyin": "Zhège xuéxiào xuésheng hěn duō.",
+    "en": "This school has many students."
+   }
+  ]
+ },
+ {
+  "id": "w025",
+  "hanzi": "多少",
+  "pinyin": "duōshao",
+  "meaning": "how many; how much",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this?"
+   },
+   {
+    "zh": "你家有多少人？",
+    "pinyin": "Nǐ jiā yǒu duōshao rén?",
+    "en": "How many people are in your family?"
+   },
+   {
+    "zh": "你有多少本书？",
+    "pinyin": "Nǐ yǒu duōshao běn shū?",
+    "en": "How many books do you have?"
+   },
+   {
+    "zh": "这些东西多少钱？",
+    "pinyin": "Zhèxiē dōngxi duōshao qián?",
+    "en": "How much are these things?"
+   },
+   {
+    "zh": "学校有多少学生？",
+    "pinyin": "Xuéxiào yǒu duōshao xuésheng?",
+    "en": "How many students does the school have?"
+   }
+  ]
+ },
+ {
+  "id": "w026",
+  "hanzi": "儿子",
+  "pinyin": "érzi",
+  "meaning": "son",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "这是我的儿子。",
+    "pinyin": "Zhè shì wǒ de érzi.",
+    "en": "This is my son."
+   },
+   {
+    "zh": "他儿子是学生。",
+    "pinyin": "Tā érzi shì xuésheng.",
+    "en": "His son is a student."
+   },
+   {
+    "zh": "我儿子喜欢狗。",
+    "pinyin": "Wǒ érzi xǐhuan gǒu.",
+    "en": "My son likes dogs."
+   },
+   {
+    "zh": "她的儿子几岁了？",
+    "pinyin": "Tā de érzi jǐ suì le?",
+    "en": "How old is her son?"
+   },
+   {
+    "zh": "儿子在学校。",
+    "pinyin": "Érzi zài xuéxiào.",
+    "en": "My son is at school."
+   }
+  ]
+ },
+ {
+  "id": "w027",
+  "hanzi": "二",
+  "pinyin": "èr",
+  "meaning": "two",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有二十个苹果。",
+    "pinyin": "Wǒ yǒu èrshí ge píngguǒ.",
+    "en": "I have twenty apples."
+   },
+   {
+    "zh": "现在是二月。",
+    "pinyin": "Xiànzài shì èr yuè.",
+    "en": "It's February now."
+   },
+   {
+    "zh": "我买了二本书。",
+    "pinyin": "Wǒ mǎi le èr běn shū.",
+    "en": "I bought two books."
+   },
+   {
+    "zh": "她二十岁了。",
+    "pinyin": "Tā èrshí suì le.",
+    "en": "She is twenty years old."
+   },
+   {
+    "zh": "我们二点去。",
+    "pinyin": "Wǒmen èr diǎn qù.",
+    "en": "We're going at two o'clock."
+   }
+  ]
+ },
+ {
+  "id": "w028",
+  "hanzi": "饭馆",
+  "pinyin": "fànguǎn",
+  "meaning": "restaurant",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我们去饭馆吃饭。",
+    "pinyin": "Wǒmen qù fànguǎn chī fàn.",
+    "en": "We go to the restaurant to eat."
+   },
+   {
+    "zh": "这个饭馆很好。",
+    "pinyin": "Zhège fànguǎn hěn hǎo.",
+    "en": "This restaurant is good."
+   },
+   {
+    "zh": "饭馆在哪儿？",
+    "pinyin": "Fànguǎn zài nǎr?",
+    "en": "Where is the restaurant?"
+   },
+   {
+    "zh": "她在饭馆工作。",
+    "pinyin": "Tā zài fànguǎn gōngzuò.",
+    "en": "She works at a restaurant."
+   },
+   {
+    "zh": "这个饭馆的菜很好吃。",
+    "pinyin": "Zhège fànguǎn de cài hěn hǎochī.",
+    "en": "This restaurant's food is delicious."
+   }
+  ]
+ },
+ {
+  "id": "w029",
+  "hanzi": "飞机",
+  "pinyin": "fēijī",
+  "meaning": "airplane",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我坐飞机去北京。",
+    "pinyin": "Wǒ zuò fēijī qù Běijīng.",
+    "en": "I take a plane to Beijing."
+   },
+   {
+    "zh": "这是飞机吗？",
+    "pinyin": "Zhè shì fēijī ma?",
+    "en": "Is this an airplane?"
+   },
+   {
+    "zh": "飞机几点来？",
+    "pinyin": "Fēijī jǐ diǎn lái?",
+    "en": "What time does the plane come?"
+   },
+   {
+    "zh": "她不喜欢坐飞机。",
+    "pinyin": "Tā bù xǐhuan zuò fēijī.",
+    "en": "She doesn't like flying."
+   },
+   {
+    "zh": "我们的飞机在那儿。",
+    "pinyin": "Wǒmen de fēijī zài nàr.",
+    "en": "Our plane is over there."
+   }
+  ]
+ },
+ {
+  "id": "w030",
+  "hanzi": "分钟",
+  "pinyin": "fēnzhōng",
+  "meaning": "minute",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "现在是十分钟。",
+    "pinyin": "Xiànzài shì shí fēnzhōng.",
+    "en": "It's been ten minutes now."
+   },
+   {
+    "zh": "五分钟后见。",
+    "pinyin": "Wǔ fēnzhōng hòu jiàn.",
+    "en": "See you in five minutes."
+   },
+   {
+    "zh": "这个是几分钟？",
+    "pinyin": "Zhège shì jǐ fēnzhōng?",
+    "en": "How many minutes is this?"
+   },
+   {
+    "zh": "三分钟很好。",
+    "pinyin": "Sān fēnzhōng hěn hǎo.",
+    "en": "Three minutes is fine."
+   },
+   {
+    "zh": "她一分钟前来了。",
+    "pinyin": "Tā yì fēnzhōng qián lái le.",
+    "en": "She came a minute ago."
+   }
+  ]
+ },
+ {
+  "id": "w031",
+  "hanzi": "高兴",
+  "pinyin": "gāoxìng",
+  "meaning": "happy",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "我很高兴。",
+    "pinyin": "Wǒ hěn gāoxìng.",
+    "en": "I am very happy."
+   },
+   {
+    "zh": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "en": "Nice to meet you."
+   },
+   {
+    "zh": "她今天很高兴。",
+    "pinyin": "Tā jīntiān hěn gāoxìng.",
+    "en": "She is very happy today."
+   },
+   {
+    "zh": "我们都很高兴。",
+    "pinyin": "Wǒmen dōu hěn gāoxìng.",
+    "en": "We are all very happy."
+   },
+   {
+    "zh": "看见你我很高兴。",
+    "pinyin": "Kànjiàn nǐ wǒ hěn gāoxìng.",
+    "en": "I'm happy to see you."
+   }
+  ]
+ },
+ {
+  "id": "w032",
+  "hanzi": "个",
+  "pinyin": "gè",
+  "meaning": "measure word (general)",
+  "partOfSpeech": "measure word",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我有一个苹果。",
+    "pinyin": "Wǒ yǒu yí ge píngguǒ.",
+    "en": "I have an apple."
+   },
+   {
+    "zh": "这个是谁的？",
+    "pinyin": "Zhège shì shéi de?",
+    "en": "Whose is this one?"
+   },
+   {
+    "zh": "我们有八个人。",
+    "pinyin": "Wǒmen yǒu bā ge rén.",
+    "en": "There are eight of us."
+   },
+   {
+    "zh": "那个不是我的。",
+    "pinyin": "Nàge bú shì wǒ de.",
+    "en": "That one isn't mine."
+   },
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much is this one?"
+   }
+  ]
+ },
+ {
+  "id": "w033",
+  "hanzi": "工作",
+  "pinyin": "gōngzuò",
+  "meaning": "to work; job",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我爸爸工作了。",
+    "pinyin": "Wǒ bàba gōngzuò le.",
+    "en": "My dad has gone to work."
+   },
+   {
+    "zh": "她在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "She works at a hospital."
+   },
+   {
+    "zh": "你在哪儿工作？",
+    "pinyin": "Nǐ zài nǎr gōngzuò?",
+    "en": "Where do you work?"
+   },
+   {
+    "zh": "我今天不工作。",
+    "pinyin": "Wǒ jīntiān bù gōngzuò.",
+    "en": "I'm not working today."
+   },
+   {
+    "zh": "他工作很多年了。",
+    "pinyin": "Tā gōngzuò hěn duō nián le.",
+    "en": "He has worked for many years."
+   }
+  ]
+ },
+ {
+  "id": "w034",
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "meaning": "dog",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Animals",
+  "examples": [
+   {
+    "zh": "我家有一个狗。",
+    "pinyin": "Wǒ jiā yǒu yì zhī gǒu.",
+    "en": "I have a dog at home."
+   },
+   {
+    "zh": "这个狗很小。",
+    "pinyin": "Zhè zhī gǒu hěn xiǎo.",
+    "en": "This dog is small."
+   },
+   {
+    "zh": "她的狗很漂亮。",
+    "pinyin": "Tā de gǒu hěn piàoliang.",
+    "en": "Her dog is very pretty."
+   },
+   {
+    "zh": "你喜欢狗吗？",
+    "pinyin": "Nǐ xǐhuan gǒu ma?",
+    "en": "Do you like dogs?"
+   },
+   {
+    "zh": "那是谁的狗？",
+    "pinyin": "Nà shì shéi de gǒu?",
+    "en": "Whose dog is that?"
+   }
+  ]
+ },
+ {
+  "id": "w035",
+  "hanzi": "汉语",
+  "pinyin": "Hànyǔ",
+  "meaning": "Chinese language",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "我学习汉语。",
+    "pinyin": "Wǒ xuéxí Hànyǔ.",
+    "en": "I study Chinese."
+   },
+   {
+    "zh": "她说汉语。",
+    "pinyin": "Tā shuō Hànyǔ.",
+    "en": "She speaks Chinese."
+   },
+   {
+    "zh": "我很喜欢汉语。",
+    "pinyin": "Wǒ hěn xǐhuan Hànyǔ.",
+    "en": "I like Chinese very much."
+   },
+   {
+    "zh": "你会说汉语吗？",
+    "pinyin": "Nǐ huì shuō Hànyǔ ma?",
+    "en": "Can you speak Chinese?"
+   },
+   {
+    "zh": "我们在学校学习汉语。",
+    "pinyin": "Wǒmen zài xuéxiào xuéxí Hànyǔ.",
+    "en": "We study Chinese at school."
+   }
+  ]
+ },
+ {
+  "id": "w036",
+  "hanzi": "好",
+  "pinyin": "hǎo",
+  "meaning": "good",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这本书很好。",
+    "pinyin": "Zhè běn shū hěn hǎo.",
+    "en": "This book is very good."
+   },
+   {
+    "zh": "你好！",
+    "pinyin": "Nǐ hǎo!",
+    "en": "Hello!"
+   },
+   {
+    "zh": "她的汉语很好。",
+    "pinyin": "Tā de Hànyǔ hěn hǎo.",
+    "en": "Her Chinese is very good."
+   },
+   {
+    "zh": "这个饭馆不好。",
+    "pinyin": "Zhège fànguǎn bù hǎo.",
+    "en": "This restaurant isn't good."
+   },
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is good today."
+   }
+  ]
+ },
+ {
+  "id": "w037",
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "meaning": "to drink",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我想喝水。",
+    "pinyin": "Wǒ xiǎng hē shuǐ.",
+    "en": "I want to drink water."
+   },
+   {
+    "zh": "你喝茶吗？",
+    "pinyin": "Nǐ hē chá ma?",
+    "en": "Do you drink tea?"
+   },
+   {
+    "zh": "她喝了一杯茶。",
+    "pinyin": "Tā hē le yì bēi chá.",
+    "en": "She drank a cup of tea."
+   },
+   {
+    "zh": "我们喝什么？",
+    "pinyin": "Wǒmen hē shénme?",
+    "en": "What are we drinking?"
+   },
+   {
+    "zh": "他不喝水。",
+    "pinyin": "Tā bù hē shuǐ.",
+    "en": "He doesn't drink water."
+   }
+  ]
+ },
+ {
+  "id": "w038",
+  "hanzi": "和",
+  "pinyin": "hé",
+  "meaning": "and; with",
+  "partOfSpeech": "conjunction",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我和你。",
+    "pinyin": "Wǒ hé nǐ.",
+    "en": "Me and you."
+   },
+   {
+    "zh": "我爸爸和妈妈。",
+    "pinyin": "Wǒ bàba hé māma.",
+    "en": "My dad and mom."
+   },
+   {
+    "zh": "她和我是朋友。",
+    "pinyin": "Tā hé wǒ shì péngyou.",
+    "en": "She and I are friends."
+   },
+   {
+    "zh": "我喜欢茶和水。",
+    "pinyin": "Wǒ xǐhuan chá hé shuǐ.",
+    "en": "I like tea and water."
+   },
+   {
+    "zh": "他和她都是学生。",
+    "pinyin": "Tā hé tā dōu shì xuésheng.",
+    "en": "He and she are both students."
+   }
+  ]
+ },
+ {
+  "id": "w039",
+  "hanzi": "很",
+  "pinyin": "hěn",
+  "meaning": "very",
+  "partOfSpeech": "adverb",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我很好。",
+    "pinyin": "Wǒ hěn hǎo.",
+    "en": "I'm very good."
+   },
+   {
+    "zh": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "en": "She is very pretty."
+   },
+   {
+    "zh": "这个很大。",
+    "pinyin": "Zhège hěn dà.",
+    "en": "This is very big."
+   },
+   {
+    "zh": "今天很热。",
+    "pinyin": "Jīntiān hěn rè.",
+    "en": "Today is very hot."
+   },
+   {
+    "zh": "我很高兴。",
+    "pinyin": "Wǒ hěn gāoxìng.",
+    "en": "I'm very happy."
+   }
+  ]
+ },
+ {
+  "id": "w040",
+  "hanzi": "后面",
+  "pinyin": "hòumiàn",
+  "meaning": "behind; the back",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我在后面。",
+    "pinyin": "Wǒ zài hòumiàn.",
+    "en": "I'm in the back."
+   },
+   {
+    "zh": "学校后面有商店。",
+    "pinyin": "Xuéxiào hòumiàn yǒu shāngdiàn.",
+    "en": "There's a store behind the school."
+   },
+   {
+    "zh": "猫在桌子后面。",
+    "pinyin": "Māo zài zhuōzi hòumiàn.",
+    "en": "The cat is behind the table."
+   },
+   {
+    "zh": "她坐在我后面。",
+    "pinyin": "Tā zuò zài wǒ hòumiàn.",
+    "en": "She sits behind me."
+   },
+   {
+    "zh": "医院在后面。",
+    "pinyin": "Yīyuàn zài hòumiàn.",
+    "en": "The hospital is behind."
+   }
+  ]
+ },
+ {
+  "id": "w041",
+  "hanzi": "回",
+  "pinyin": "huí",
+  "meaning": "to return",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我回家了。",
+    "pinyin": "Wǒ huí jiā le.",
+    "en": "I went home."
+   },
+   {
+    "zh": "她几点回家？",
+    "pinyin": "Tā jǐ diǎn huí jiā?",
+    "en": "What time does she go home?"
+   },
+   {
+    "zh": "我们回北京。",
+    "pinyin": "Wǒmen huí Běijīng.",
+    "en": "We're going back to Beijing."
+   },
+   {
+    "zh": "你想回家吗？",
+    "pinyin": "Nǐ xiǎng huí jiā ma?",
+    "en": "Do you want to go home?"
+   },
+   {
+    "zh": "他明天回学校。",
+    "pinyin": "Tā míngtiān huí xuéxiào.",
+    "en": "He returns to school tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "w042",
+  "hanzi": "会",
+  "pinyin": "huì",
+  "meaning": "can; to know how to",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我会说汉语。",
+    "pinyin": "Wǒ huì shuō Hànyǔ.",
+    "en": "I can speak Chinese."
+   },
+   {
+    "zh": "她会写字。",
+    "pinyin": "Tā huì xiě zì.",
+    "en": "She can write characters."
+   },
+   {
+    "zh": "你会不会喝茶？",
+    "pinyin": "Nǐ huì bu huì hē chá?",
+    "en": "Can you drink tea?"
+   },
+   {
+    "zh": "他不会开车。",
+    "pinyin": "Tā bú huì kāi chē.",
+    "en": "He can't drive."
+   },
+   {
+    "zh": "我们都会说汉语。",
+    "pinyin": "Wǒmen dōu huì shuō Hànyǔ.",
+    "en": "We can all speak Chinese."
+   }
+  ]
+ },
+ {
+  "id": "w043",
+  "hanzi": "火车站",
+  "pinyin": "huǒchēzhàn",
+  "meaning": "train station",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "火车站在哪儿？",
+    "pinyin": "Huǒchēzhàn zài nǎr?",
+    "en": "Where is the train station?"
+   },
+   {
+    "zh": "我们去火车站。",
+    "pinyin": "Wǒmen qù huǒchēzhàn.",
+    "en": "We're going to the train station."
+   },
+   {
+    "zh": "火车站很大。",
+    "pinyin": "Huǒchēzhàn hěn dà.",
+    "en": "The train station is big."
+   },
+   {
+    "zh": "她在火车站工作。",
+    "pinyin": "Tā zài huǒchēzhàn gōngzuò.",
+    "en": "She works at the train station."
+   },
+   {
+    "zh": "我坐出租车去火车站。",
+    "pinyin": "Wǒ zuò chūzūchē qù huǒchēzhàn.",
+    "en": "I take a taxi to the train station."
+   }
+  ]
+ },
+ {
+  "id": "w044",
+  "hanzi": "几",
+  "pinyin": "jǐ",
+  "meaning": "how many",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it?"
+   },
+   {
+    "zh": "你家有几个人？",
+    "pinyin": "Nǐ jiā yǒu jǐ ge rén?",
+    "en": "How many people are in your family?"
+   },
+   {
+    "zh": "你有几本书？",
+    "pinyin": "Nǐ yǒu jǐ běn shū?",
+    "en": "How many books do you have?"
+   },
+   {
+    "zh": "她几岁了？",
+    "pinyin": "Tā jǐ suì le?",
+    "en": "How old is she?"
+   },
+   {
+    "zh": "他有几个朋友？",
+    "pinyin": "Tā yǒu jǐ ge péngyou?",
+    "en": "How many friends does he have?"
+   }
+  ]
+ },
+ {
+  "id": "w045",
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "meaning": "home; family",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "我在家。",
+    "pinyin": "Wǒ zài jiā.",
+    "en": "I'm at home."
+   },
+   {
+    "zh": "我家有五个人。",
+    "pinyin": "Wǒ jiā yǒu wǔ ge rén.",
+    "en": "There are five people in my family."
+   },
+   {
+    "zh": "你家在哪儿？",
+    "pinyin": "Nǐ jiā zài nǎr?",
+    "en": "Where is your home?"
+   },
+   {
+    "zh": "我们回家。",
+    "pinyin": "Wǒmen huí jiā.",
+    "en": "Let's go home."
+   },
+   {
+    "zh": "她家很大。",
+    "pinyin": "Tā jiā hěn dà.",
+    "en": "Her home is big."
+   }
+  ]
+ },
+ {
+  "id": "w046",
+  "hanzi": "叫",
+  "pinyin": "jiào",
+  "meaning": "to be called; to call",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我叫小明。",
+    "pinyin": "Wǒ jiào Xiǎo Míng.",
+    "en": "My name is Xiao Ming."
+   },
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "她叫小姐。",
+    "pinyin": "Tā jiào xiǎojiě.",
+    "en": "She is called Miss."
+   },
+   {
+    "zh": "他叫我朋友。",
+    "pinyin": "Tā jiào wǒ péngyou.",
+    "en": "He calls me his friend."
+   },
+   {
+    "zh": "你叫他来。",
+    "pinyin": "Nǐ jiào tā lái.",
+    "en": "You call him to come."
+   }
+  ]
+ },
+ {
+  "id": "w047",
+  "hanzi": "今天",
+  "pinyin": "jīntiān",
+  "meaning": "today",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "今天是几月？",
+    "pinyin": "Jīntiān shì jǐ yuè?",
+    "en": "What month is it today?"
+   },
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is good today."
+   },
+   {
+    "zh": "我今天不高兴。",
+    "pinyin": "Wǒ jīntiān bù gāoxìng.",
+    "en": "I'm not happy today."
+   },
+   {
+    "zh": "你今天工作吗？",
+    "pinyin": "Nǐ jīntiān gōngzuò ma?",
+    "en": "Do you work today?"
+   },
+   {
+    "zh": "今天我不去学校。",
+    "pinyin": "Jīntiān wǒ bú qù xuéxiào.",
+    "en": "I'm not going to school today."
+   }
+  ]
+ },
+ {
+  "id": "w048",
+  "hanzi": "九",
+  "pinyin": "jiǔ",
+  "meaning": "nine",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有九本书。",
+    "pinyin": "Wǒ yǒu jiǔ běn shū.",
+    "en": "I have nine books."
+   },
+   {
+    "zh": "现在是九点。",
+    "pinyin": "Xiànzài shì jiǔ diǎn.",
+    "en": "It's nine o'clock now."
+   },
+   {
+    "zh": "她九岁了。",
+    "pinyin": "Tā jiǔ suì le.",
+    "en": "She is nine years old."
+   },
+   {
+    "zh": "九月天气很好。",
+    "pinyin": "Jiǔ yuè tiānqì hěn hǎo.",
+    "en": "The weather in September is nice."
+   },
+   {
+    "zh": "我们家有九个人。",
+    "pinyin": "Wǒmen jiā yǒu jiǔ ge rén.",
+    "en": "There are nine people in our family."
+   }
+  ]
+ },
+ {
+  "id": "w049",
+  "hanzi": "开",
+  "pinyin": "kāi",
+  "meaning": "to open; to drive",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请开电视。",
+    "pinyin": "Qǐng kāi diànshì.",
+    "en": "Please turn on the TV."
+   },
+   {
+    "zh": "他会开车。",
+    "pinyin": "Tā huì kāi chē.",
+    "en": "He can drive."
+   },
+   {
+    "zh": "我开电视。",
+    "pinyin": "Wǒ kāi diànshì.",
+    "en": "I turn on the TV."
+   },
+   {
+    "zh": "她不会开车。",
+    "pinyin": "Tā bú huì kāi chē.",
+    "en": "She can't drive."
+   },
+   {
+    "zh": "飞机几点开？",
+    "pinyin": "Fēijī jǐ diǎn kāi?",
+    "en": "What time does the plane leave?"
+   }
+  ]
+ },
+ {
+  "id": "w050",
+  "hanzi": "看",
+  "pinyin": "kàn",
+  "meaning": "to look; to watch",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我喜欢看电影。",
+    "pinyin": "Wǒ xǐhuan kàn diànyǐng.",
+    "en": "I like watching movies."
+   },
+   {
+    "zh": "你看这个。",
+    "pinyin": "Nǐ kàn zhège.",
+    "en": "Look at this."
+   },
+   {
+    "zh": "她在看书。",
+    "pinyin": "Tā zài kàn shū.",
+    "en": "She is reading a book."
+   },
+   {
+    "zh": "我们去看电视。",
+    "pinyin": "Wǒmen qù kàn diànshì.",
+    "en": "Let's go watch TV."
+   },
+   {
+    "zh": "我不想看。",
+    "pinyin": "Wǒ bù xiǎng kàn.",
+    "en": "I don't want to watch."
+   }
+  ]
+ },
+ {
+  "id": "w051",
+  "hanzi": "看见",
+  "pinyin": "kànjiàn",
+  "meaning": "to see",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我看见你了。",
+    "pinyin": "Wǒ kànjiàn nǐ le.",
+    "en": "I saw you."
+   },
+   {
+    "zh": "她看见了那个狗。",
+    "pinyin": "Tā kànjiàn le nàge gǒu.",
+    "en": "She saw that dog."
+   },
+   {
+    "zh": "你看见我的书了吗？",
+    "pinyin": "Nǐ kànjiàn wǒ de shū le ma?",
+    "en": "Did you see my book?"
+   },
+   {
+    "zh": "我没看见他。",
+    "pinyin": "Wǒ méi kànjiàn tā.",
+    "en": "I didn't see him."
+   },
+   {
+    "zh": "我在商店看见老师了。",
+    "pinyin": "Wǒ zài shāngdiàn kànjiàn lǎoshī le.",
+    "en": "I saw the teacher at the store."
+   }
+  ]
+ },
+ {
+  "id": "w052",
+  "hanzi": "块",
+  "pinyin": "kuài",
+  "meaning": "measure word for money (yuan)",
+  "partOfSpeech": "measure word",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "这个五块钱。",
+    "pinyin": "Zhège wǔ kuài qián.",
+    "en": "This is five yuan."
+   },
+   {
+    "zh": "这本书十块钱。",
+    "pinyin": "Zhè běn shū shí kuài qián.",
+    "en": "This book is ten yuan."
+   },
+   {
+    "zh": "我有八块钱。",
+    "pinyin": "Wǒ yǒu bā kuài qián.",
+    "en": "I have eight yuan."
+   },
+   {
+    "zh": "这个杯子多少块钱？",
+    "pinyin": "Zhège bēizi duōshao kuài qián?",
+    "en": "How many yuan is this cup?"
+   },
+   {
+    "zh": "这个三块钱。",
+    "pinyin": "Zhège sān kuài qián.",
+    "en": "This is three yuan."
+   }
+  ]
+ },
+ {
+  "id": "w053",
+  "hanzi": "来",
+  "pinyin": "lái",
+  "meaning": "to come",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "你来我家。",
+    "pinyin": "Nǐ lái wǒ jiā.",
+    "en": "Come to my home."
+   },
+   {
+    "zh": "她明天来。",
+    "pinyin": "Tā míngtiān lái.",
+    "en": "She's coming tomorrow."
+   },
+   {
+    "zh": "你什么时候来？",
+    "pinyin": "Nǐ shénme shíhou lái?",
+    "en": "When are you coming?"
+   },
+   {
+    "zh": "他没有来。",
+    "pinyin": "Tā méiyǒu lái.",
+    "en": "He didn't come."
+   },
+   {
+    "zh": "请你来一下。",
+    "pinyin": "Qǐng nǐ lái yíxià.",
+    "en": "Please come here for a moment."
+   }
+  ]
+ },
+ {
+  "id": "w054",
+  "hanzi": "老师",
+  "pinyin": "lǎoshī",
+  "meaning": "teacher",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "她是我的老师。",
+    "pinyin": "Tā shì wǒ de lǎoshī.",
+    "en": "She is my teacher."
+   },
+   {
+    "zh": "老师在学校。",
+    "pinyin": "Lǎoshī zài xuéxiào.",
+    "en": "The teacher is at school."
+   },
+   {
+    "zh": "我们老师很好。",
+    "pinyin": "Wǒmen lǎoshī hěn hǎo.",
+    "en": "Our teacher is very nice."
+   },
+   {
+    "zh": "老师叫我们读书。",
+    "pinyin": "Lǎoshī jiào wǒmen dú shū.",
+    "en": "The teacher told us to read."
+   },
+   {
+    "zh": "我认识那个老师。",
+    "pinyin": "Wǒ rènshi nàge lǎoshī.",
+    "en": "I know that teacher."
+   }
+  ]
+ },
+ {
+  "id": "w055",
+  "hanzi": "了",
+  "pinyin": "le",
+  "meaning": "completed action particle",
+  "partOfSpeech": "particle",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我吃了。",
+    "pinyin": "Wǒ chī le.",
+    "en": "I have eaten."
+   },
+   {
+    "zh": "她来了。",
+    "pinyin": "Tā lái le.",
+    "en": "She has come."
+   },
+   {
+    "zh": "我买了一本书。",
+    "pinyin": "Wǒ mǎi le yì běn shū.",
+    "en": "I bought a book."
+   },
+   {
+    "zh": "他回家了。",
+    "pinyin": "Tā huí jiā le.",
+    "en": "He went home."
+   },
+   {
+    "zh": "我们看了电影。",
+    "pinyin": "Wǒmen kàn le diànyǐng.",
+    "en": "We watched a movie."
+   }
+  ]
+ },
+ {
+  "id": "w056",
+  "hanzi": "冷",
+  "pinyin": "lěng",
+  "meaning": "cold",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "今天很冷。",
+    "pinyin": "Jīntiān hěn lěng.",
+    "en": "Today is very cold."
+   },
+   {
+    "zh": "水很冷。",
+    "pinyin": "Shuǐ hěn lěng.",
+    "en": "The water is cold."
+   },
+   {
+    "zh": "北京很冷。",
+    "pinyin": "Běijīng hěn lěng.",
+    "en": "Beijing is very cold."
+   },
+   {
+    "zh": "我不喜欢冷天气。",
+    "pinyin": "Wǒ bù xǐhuan lěng tiānqì.",
+    "en": "I don't like cold weather."
+   },
+   {
+    "zh": "这个茶不冷。",
+    "pinyin": "Zhège chá bù lěng.",
+    "en": "This tea isn't cold."
+   }
+  ]
+ },
+ {
+  "id": "w057",
+  "hanzi": "里",
+  "pinyin": "lǐ",
+  "meaning": "inside",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "杯子里有水。",
+    "pinyin": "Bēizi lǐ yǒu shuǐ.",
+    "en": "There is water in the cup."
+   },
+   {
+    "zh": "家里有几个人？",
+    "pinyin": "Jiā lǐ yǒu jǐ ge rén?",
+    "en": "How many people are at home?"
+   },
+   {
+    "zh": "书在这里。",
+    "pinyin": "Shū zài zhèlǐ.",
+    "en": "The book is here."
+   },
+   {
+    "zh": "学校里有很多学生。",
+    "pinyin": "Xuéxiào lǐ yǒu hěn duō xuésheng.",
+    "en": "There are many students in the school."
+   },
+   {
+    "zh": "猫在杯子里。",
+    "pinyin": "Māo zài bēizi lǐ.",
+    "en": "The cat is in the cup."
+   }
+  ]
+ },
+ {
+  "id": "w058",
+  "hanzi": "零",
+  "pinyin": "líng",
+  "meaning": "zero",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "这是零。",
+    "pinyin": "Zhè shì líng.",
+    "en": "This is zero."
+   },
+   {
+    "zh": "我有零本书。",
+    "pinyin": "Wǒ yǒu líng běn shū.",
+    "en": "I have zero books."
+   },
+   {
+    "zh": "现在是零点。",
+    "pinyin": "Xiànzài shì líng diǎn.",
+    "en": "It's midnight now."
+   },
+   {
+    "zh": "这不是零，是一。",
+    "pinyin": "Zhè bú shì líng, shì yī.",
+    "en": "This isn't zero, it's one."
+   },
+   {
+    "zh": "她有零个苹果。",
+    "pinyin": "Tā yǒu líng ge píngguǒ.",
+    "en": "She has zero apples."
+   }
+  ]
+ },
+ {
+  "id": "w059",
+  "hanzi": "六",
+  "pinyin": "liù",
+  "meaning": "six",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有六本书。",
+    "pinyin": "Wǒ yǒu liù běn shū.",
+    "en": "I have six books."
+   },
+   {
+    "zh": "现在是六点。",
+    "pinyin": "Xiànzài shì liù diǎn.",
+    "en": "It's six o'clock now."
+   },
+   {
+    "zh": "她六岁了。",
+    "pinyin": "Tā liù suì le.",
+    "en": "She is six years old."
+   },
+   {
+    "zh": "六月天气很热。",
+    "pinyin": "Liù yuè tiānqì hěn rè.",
+    "en": "The weather in June is hot."
+   },
+   {
+    "zh": "我们六个人。",
+    "pinyin": "Wǒmen liù ge rén.",
+    "en": "There are six of us."
+   }
+  ]
+ },
+ {
+  "id": "w060",
+  "hanzi": "妈妈",
+  "pinyin": "māma",
+  "meaning": "mom; mother",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "我妈妈是老师。",
+    "pinyin": "Wǒ māma shì lǎoshī.",
+    "en": "My mom is a teacher."
+   },
+   {
+    "zh": "妈妈在家吗？",
+    "pinyin": "Māma zài jiā ma?",
+    "en": "Is mom home?"
+   },
+   {
+    "zh": "我爱我妈妈。",
+    "pinyin": "Wǒ ài wǒ māma.",
+    "en": "I love my mom."
+   },
+   {
+    "zh": "妈妈做的菜很好吃。",
+    "pinyin": "Māma zuò de cài hěn hǎochī.",
+    "en": "The food mom cooks is delicious."
+   },
+   {
+    "zh": "妈妈明天回家。",
+    "pinyin": "Māma míngtiān huí jiā.",
+    "en": "Mom comes home tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "w061",
+  "hanzi": "吗",
+  "pinyin": "ma",
+  "meaning": "question particle",
+  "partOfSpeech": "particle",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "en": "How are you?"
+   },
+   {
+    "zh": "你是学生吗？",
+    "pinyin": "Nǐ shì xuésheng ma?",
+    "en": "Are you a student?"
+   },
+   {
+    "zh": "她在家吗？",
+    "pinyin": "Tā zài jiā ma?",
+    "en": "Is she home?"
+   },
+   {
+    "zh": "你喜欢茶吗？",
+    "pinyin": "Nǐ xǐhuan chá ma?",
+    "en": "Do you like tea?"
+   },
+   {
+    "zh": "这是你的书吗？",
+    "pinyin": "Zhè shì nǐ de shū ma?",
+    "en": "Is this your book?"
+   }
+  ]
+ },
+ {
+  "id": "w062",
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "meaning": "to buy",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我想买这本书。",
+    "pinyin": "Wǒ xiǎng mǎi zhè běn shū.",
+    "en": "I want to buy this book."
+   },
+   {
+    "zh": "她买了一个杯子。",
+    "pinyin": "Tā mǎi le yí ge bēizi.",
+    "en": "She bought a cup."
+   },
+   {
+    "zh": "你买什么？",
+    "pinyin": "Nǐ mǎi shénme?",
+    "en": "What are you buying?"
+   },
+   {
+    "zh": "我们去商店买东西。",
+    "pinyin": "Wǒmen qù shāngdiàn mǎi dōngxi.",
+    "en": "We go to the store to buy things."
+   },
+   {
+    "zh": "我没买苹果。",
+    "pinyin": "Wǒ méi mǎi píngguǒ.",
+    "en": "I didn't buy apples."
+   }
+  ]
+ },
+ {
+  "id": "w063",
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "meaning": "cat",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Animals",
+  "examples": [
+   {
+    "zh": "我家有一个猫。",
+    "pinyin": "Wǒ jiā yǒu yí ge māo.",
+    "en": "I have a cat at home."
+   },
+   {
+    "zh": "这个猫很小。",
+    "pinyin": "Zhège māo hěn xiǎo.",
+    "en": "This cat is small."
+   },
+   {
+    "zh": "她的猫很漂亮。",
+    "pinyin": "Tā de māo hěn piàoliang.",
+    "en": "Her cat is very pretty."
+   },
+   {
+    "zh": "你喜欢猫吗？",
+    "pinyin": "Nǐ xǐhuan māo ma?",
+    "en": "Do you like cats?"
+   },
+   {
+    "zh": "猫在桌子上。",
+    "pinyin": "Māo zài zhuōzi shàng.",
+    "en": "The cat is on the table."
+   }
+  ]
+ },
+ {
+  "id": "w064",
+  "hanzi": "没",
+  "pinyin": "méi",
+  "meaning": "not (have)",
+  "partOfSpeech": "adverb",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我没有钱。",
+    "pinyin": "Wǒ méiyǒu qián.",
+    "en": "I don't have money."
+   },
+   {
+    "zh": "她没来。",
+    "pinyin": "Tā méi lái.",
+    "en": "She didn't come."
+   },
+   {
+    "zh": "我没吃饭。",
+    "pinyin": "Wǒ méi chī fàn.",
+    "en": "I haven't eaten."
+   },
+   {
+    "zh": "他没看见我。",
+    "pinyin": "Tā méi kànjiàn wǒ.",
+    "en": "He didn't see me."
+   },
+   {
+    "zh": "我没买书。",
+    "pinyin": "Wǒ méi mǎi shū.",
+    "en": "I didn't buy books."
+   }
+  ]
+ },
+ {
+  "id": "w065",
+  "hanzi": "没关系",
+  "pinyin": "méi guānxi",
+  "meaning": "it's okay; never mind",
+  "partOfSpeech": "phrase",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "没关系！",
+    "pinyin": "Méi guānxi!",
+    "en": "It's okay!"
+   },
+   {
+    "zh": "对不起。没关系。",
+    "pinyin": "Duìbuqǐ. Méi guānxi.",
+    "en": "Sorry. It's okay."
+   },
+   {
+    "zh": "没关系，我很好。",
+    "pinyin": "Méi guānxi, wǒ hěn hǎo.",
+    "en": "It's fine, I'm okay."
+   },
+   {
+    "zh": "她说没关系。",
+    "pinyin": "Tā shuō méi guānxi.",
+    "en": "She said it's okay."
+   },
+   {
+    "zh": "没关系，我认识他。",
+    "pinyin": "Méi guānxi, wǒ rènshi tā.",
+    "en": "It's fine, I know him."
+   }
+  ]
+ },
+ {
+  "id": "w066",
+  "hanzi": "米饭",
+  "pinyin": "mǐfàn",
+  "meaning": "cooked rice",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Food & Drink",
+  "examples": [
+   {
+    "zh": "我喜欢吃米饭。",
+    "pinyin": "Wǒ xǐhuan chī mǐfàn.",
+    "en": "I like eating rice."
+   },
+   {
+    "zh": "她做了米饭。",
+    "pinyin": "Tā zuò le mǐfàn.",
+    "en": "She made rice."
+   },
+   {
+    "zh": "这个米饭很好吃。",
+    "pinyin": "Zhège mǐfàn hěn hǎochī.",
+    "en": "This rice is delicious."
+   },
+   {
+    "zh": "我们吃米饭。",
+    "pinyin": "Wǒmen chī mǐfàn.",
+    "en": "Let's eat rice."
+   },
+   {
+    "zh": "他不吃米饭。",
+    "pinyin": "Tā bù chī mǐfàn.",
+    "en": "He doesn't eat rice."
+   }
+  ]
+ },
+ {
+  "id": "w067",
+  "hanzi": "名字",
+  "pinyin": "míngzi",
+  "meaning": "name",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "我的名字是小明。",
+    "pinyin": "Wǒ de míngzi shì Xiǎo Míng.",
+    "en": "My name is Xiao Ming."
+   },
+   {
+    "zh": "她的名字很好。",
+    "pinyin": "Tā de míngzi hěn hǎo.",
+    "en": "Her name is nice."
+   },
+   {
+    "zh": "这是谁的名字？",
+    "pinyin": "Zhè shì shéi de míngzi?",
+    "en": "Whose name is this?"
+   },
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   }
+  ]
+ },
+ {
+  "id": "w068",
+  "hanzi": "明天",
+  "pinyin": "míngtiān",
+  "meaning": "tomorrow",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "明天见。",
+    "pinyin": "Míngtiān jiàn.",
+    "en": "See you tomorrow."
+   },
+   {
+    "zh": "我明天去学校。",
+    "pinyin": "Wǒ míngtiān qù xuéxiào.",
+    "en": "I'm going to school tomorrow."
+   },
+   {
+    "zh": "明天天气怎么样？",
+    "pinyin": "Míngtiān tiānqì zěnmeyàng?",
+    "en": "How's the weather tomorrow?"
+   },
+   {
+    "zh": "她明天不工作。",
+    "pinyin": "Tā míngtiān bù gōngzuò.",
+    "en": "She's not working tomorrow."
+   },
+   {
+    "zh": "明天是星期几？",
+    "pinyin": "Míngtiān shì xīngqī jǐ?",
+    "en": "What day is tomorrow?"
+   }
+  ]
+ },
+ {
+  "id": "w069",
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "meaning": "which",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "你是哪国人？",
+    "pinyin": "Nǐ shì nǎ guó rén?",
+    "en": "Which country are you from?"
+   },
+   {
+    "zh": "你喜欢哪个？",
+    "pinyin": "Nǐ xǐhuan nǎge?",
+    "en": "Which one do you like?"
+   },
+   {
+    "zh": "这是哪本书？",
+    "pinyin": "Zhè shì nǎ běn shū?",
+    "en": "Which book is this?"
+   },
+   {
+    "zh": "她是哪个老师？",
+    "pinyin": "Tā shì nǎge lǎoshī?",
+    "en": "Which teacher is she?"
+   },
+   {
+    "zh": "你去哪个商店？",
+    "pinyin": "Nǐ qù nǎge shāngdiàn?",
+    "en": "Which store are you going to?"
+   }
+  ]
+ },
+ {
+  "id": "w070",
+  "hanzi": "那",
+  "pinyin": "nà",
+  "meaning": "that",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "那是我的书。",
+    "pinyin": "Nà shì wǒ de shū.",
+    "en": "That is my book."
+   },
+   {
+    "zh": "那个人是谁？",
+    "pinyin": "Nàge rén shì shéi?",
+    "en": "Who is that person?"
+   },
+   {
+    "zh": "那不是我的猫。",
+    "pinyin": "Nà bú shì wǒ de māo.",
+    "en": "That isn't my cat."
+   },
+   {
+    "zh": "那本书很好。",
+    "pinyin": "Nà běn shū hěn hǎo.",
+    "en": "That book is good."
+   },
+   {
+    "zh": "那是谁的电脑？",
+    "pinyin": "Nà shì shéi de diànnǎo?",
+    "en": "Whose computer is that?"
+   }
+  ]
+ },
+ {
+  "id": "w071",
+  "hanzi": "呢",
+  "pinyin": "ne",
+  "meaning": "question particle",
+  "partOfSpeech": "particle",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我很好，你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm good, and you?"
+   },
+   {
+    "zh": "我的书呢？",
+    "pinyin": "Wǒ de shū ne?",
+    "en": "Where is my book?"
+   },
+   {
+    "zh": "她呢？",
+    "pinyin": "Tā ne?",
+    "en": "What about her?"
+   },
+   {
+    "zh": "你的猫呢？",
+    "pinyin": "Nǐ de māo ne?",
+    "en": "Where is your cat?"
+   },
+   {
+    "zh": "爸爸呢？",
+    "pinyin": "Bàba ne?",
+    "en": "Where is dad?"
+   }
+  ]
+ },
+ {
+  "id": "w072",
+  "hanzi": "能",
+  "pinyin": "néng",
+  "meaning": "can; to be able to",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我能来。",
+    "pinyin": "Wǒ néng lái.",
+    "en": "I can come."
+   },
+   {
+    "zh": "你能不能开车？",
+    "pinyin": "Nǐ néng bu néng kāi chē?",
+    "en": "Can you drive?"
+   },
+   {
+    "zh": "她能说汉语。",
+    "pinyin": "Tā néng shuō Hànyǔ.",
+    "en": "She can speak Chinese."
+   },
+   {
+    "zh": "我不能去。",
+    "pinyin": "Wǒ bù néng qù.",
+    "en": "I can't go."
+   },
+   {
+    "zh": "这个能吃吗？",
+    "pinyin": "Zhège néng chī ma?",
+    "en": "Can this be eaten?"
+   }
+  ]
+ },
+ {
+  "id": "w073",
+  "hanzi": "你",
+  "pinyin": "nǐ",
+  "meaning": "you",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "你好！",
+    "pinyin": "Nǐ hǎo!",
+    "en": "Hello!"
+   },
+   {
+    "zh": "你是学生吗？",
+    "pinyin": "Nǐ shì xuésheng ma?",
+    "en": "Are you a student?"
+   },
+   {
+    "zh": "我爱你。",
+    "pinyin": "Wǒ ài nǐ.",
+    "en": "I love you."
+   },
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "你在哪儿？",
+    "pinyin": "Nǐ zài nǎr?",
+    "en": "Where are you?"
+   }
+  ]
+ },
+ {
+  "id": "w074",
+  "hanzi": "年",
+  "pinyin": "nián",
+  "meaning": "year",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "今年我八岁。",
+    "pinyin": "Jīnnián wǒ bā suì.",
+    "en": "I'm eight years old this year."
+   },
+   {
+    "zh": "她工作三年了。",
+    "pinyin": "Tā gōngzuò sān nián le.",
+    "en": "She has worked for three years."
+   },
+   {
+    "zh": "明年我去北京。",
+    "pinyin": "Míngnián wǒ qù Běijīng.",
+    "en": "I'm going to Beijing next year."
+   },
+   {
+    "zh": "这是哪一年？",
+    "pinyin": "Zhè shì nǎ yì nián?",
+    "en": "Which year is this?"
+   },
+   {
+    "zh": "我在这个学校三年了。",
+    "pinyin": "Wǒ zài zhège xuéxiào sān nián le.",
+    "en": "I've been at this school for three years."
+   }
+  ]
+ },
+ {
+  "id": "w075",
+  "hanzi": "女儿",
+  "pinyin": "nǚ'ér",
+  "meaning": "daughter",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "这是我的女儿。",
+    "pinyin": "Zhè shì wǒ de nǚ'ér.",
+    "en": "This is my daughter."
+   },
+   {
+    "zh": "她女儿是学生。",
+    "pinyin": "Tā nǚ'ér shì xuésheng.",
+    "en": "Her daughter is a student."
+   },
+   {
+    "zh": "我女儿喜欢猫。",
+    "pinyin": "Wǒ nǚ'ér xǐhuan māo.",
+    "en": "My daughter likes cats."
+   },
+   {
+    "zh": "你的女儿几岁了？",
+    "pinyin": "Nǐ de nǚ'ér jǐ suì le?",
+    "en": "How old is your daughter?"
+   },
+   {
+    "zh": "女儿在学校。",
+    "pinyin": "Nǚ'ér zài xuéxiào.",
+    "en": "My daughter is at school."
+   }
+  ]
+ },
+ {
+  "id": "w076",
+  "hanzi": "朋友",
+  "pinyin": "péngyou",
+  "meaning": "friend",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "她是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "en": "She is my friend."
+   },
+   {
+    "zh": "我有很多朋友。",
+    "pinyin": "Wǒ yǒu hěn duō péngyou.",
+    "en": "I have many friends."
+   },
+   {
+    "zh": "我朋友在北京。",
+    "pinyin": "Wǒ péngyou zài Běijīng.",
+    "en": "My friend is in Beijing."
+   },
+   {
+    "zh": "你是他的朋友吗？",
+    "pinyin": "Nǐ shì tā de péngyou ma?",
+    "en": "Are you his friend?"
+   },
+   {
+    "zh": "我们是好朋友。",
+    "pinyin": "Wǒmen shì hǎo péngyou.",
+    "en": "We are good friends."
+   }
+  ]
+ },
+ {
+  "id": "w077",
+  "hanzi": "漂亮",
+  "pinyin": "piàoliang",
+  "meaning": "pretty; beautiful",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "en": "She is very pretty."
+   },
+   {
+    "zh": "这个杯子很漂亮。",
+    "pinyin": "Zhège bēizi hěn piàoliang.",
+    "en": "This cup is very pretty."
+   },
+   {
+    "zh": "你的猫很漂亮。",
+    "pinyin": "Nǐ de māo hěn piàoliang.",
+    "en": "Your cat is very pretty."
+   },
+   {
+    "zh": "北京很漂亮。",
+    "pinyin": "Běijīng hěn piàoliang.",
+    "en": "Beijing is very beautiful."
+   },
+   {
+    "zh": "这些衣服很漂亮。",
+    "pinyin": "Zhèxiē yīfu hěn piàoliang.",
+    "en": "These clothes are very pretty."
+   }
+  ]
+ },
+ {
+  "id": "w078",
+  "hanzi": "苹果",
+  "pinyin": "píngguǒ",
+  "meaning": "apple",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Food & Drink",
+  "examples": [
+   {
+    "zh": "我喜欢吃苹果。",
+    "pinyin": "Wǒ xǐhuan chī píngguǒ.",
+    "en": "I like eating apples."
+   },
+   {
+    "zh": "这个苹果很大。",
+    "pinyin": "Zhège píngguǒ hěn dà.",
+    "en": "This apple is big."
+   },
+   {
+    "zh": "她买了八个苹果。",
+    "pinyin": "Tā mǎi le bā ge píngguǒ.",
+    "en": "She bought eight apples."
+   },
+   {
+    "zh": "苹果在桌子上。",
+    "pinyin": "Píngguǒ zài zhuōzi shàng.",
+    "en": "The apples are on the table."
+   },
+   {
+    "zh": "这个苹果多少钱？",
+    "pinyin": "Zhège píngguǒ duōshao qián?",
+    "en": "How much is this apple?"
+   }
+  ]
+ },
+ {
+  "id": "w079",
+  "hanzi": "七",
+  "pinyin": "qī",
+  "meaning": "seven",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有七本书。",
+    "pinyin": "Wǒ yǒu qī běn shū.",
+    "en": "I have seven books."
+   },
+   {
+    "zh": "现在是七点。",
+    "pinyin": "Xiànzài shì qī diǎn.",
+    "en": "It's seven o'clock now."
+   },
+   {
+    "zh": "她七岁了。",
+    "pinyin": "Tā qī suì le.",
+    "en": "She is seven years old."
+   },
+   {
+    "zh": "七月天气很热。",
+    "pinyin": "Qī yuè tiānqì hěn rè.",
+    "en": "The weather in July is hot."
+   },
+   {
+    "zh": "我们七个人。",
+    "pinyin": "Wǒmen qī ge rén.",
+    "en": "There are seven of us."
+   }
+  ]
+ },
+ {
+  "id": "w080",
+  "hanzi": "前面",
+  "pinyin": "qiánmiàn",
+  "meaning": "in front; ahead",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我在前面。",
+    "pinyin": "Wǒ zài qiánmiàn.",
+    "en": "I'm in front."
+   },
+   {
+    "zh": "学校前面有商店。",
+    "pinyin": "Xuéxiào qiánmiàn yǒu shāngdiàn.",
+    "en": "There's a store in front of the school."
+   },
+   {
+    "zh": "她坐在我前面。",
+    "pinyin": "Tā zuò zài wǒ qiánmiàn.",
+    "en": "She sits in front of me."
+   },
+   {
+    "zh": "猫在桌子前面。",
+    "pinyin": "Māo zài zhuōzi qiánmiàn.",
+    "en": "The cat is in front of the table."
+   },
+   {
+    "zh": "火车站在前面。",
+    "pinyin": "Huǒchēzhàn zài qiánmiàn.",
+    "en": "The train station is up ahead."
+   }
+  ]
+ },
+ {
+  "id": "w081",
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "meaning": "money",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "我没有钱。",
+    "pinyin": "Wǒ méiyǒu qián.",
+    "en": "I don't have money."
+   },
+   {
+    "zh": "这个多少钱？",
+    "pinyin": "Zhège duōshao qián?",
+    "en": "How much money is this?"
+   },
+   {
+    "zh": "她有很多钱。",
+    "pinyin": "Tā yǒu hěn duō qián.",
+    "en": "She has a lot of money."
+   },
+   {
+    "zh": "这本书八块钱。",
+    "pinyin": "Zhè běn shū bā kuài qián.",
+    "en": "This book is eight yuan."
+   },
+   {
+    "zh": "你有多少钱？",
+    "pinyin": "Nǐ yǒu duōshao qián?",
+    "en": "How much money do you have?"
+   }
+  ]
+ },
+ {
+  "id": "w082",
+  "hanzi": "请",
+  "pinyin": "qǐng",
+  "meaning": "please; to invite",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请坐。",
+    "pinyin": "Qǐng zuò.",
+    "en": "Please sit."
+   },
+   {
+    "zh": "请喝茶。",
+    "pinyin": "Qǐng hē chá.",
+    "en": "Please drink some tea."
+   },
+   {
+    "zh": "我请你吃饭。",
+    "pinyin": "Wǒ qǐng nǐ chī fàn.",
+    "en": "I'll treat you to a meal."
+   },
+   {
+    "zh": "请你说汉语。",
+    "pinyin": "Qǐng nǐ shuō Hànyǔ.",
+    "en": "Please speak Chinese."
+   },
+   {
+    "zh": "她请我看电影。",
+    "pinyin": "Tā qǐng wǒ kàn diànyǐng.",
+    "en": "She invited me to see a movie."
+   }
+  ]
+ },
+ {
+  "id": "w083",
+  "hanzi": "去",
+  "pinyin": "qù",
+  "meaning": "to go",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我去学校。",
+    "pinyin": "Wǒ qù xuéxiào.",
+    "en": "I go to school."
+   },
+   {
+    "zh": "你去哪儿？",
+    "pinyin": "Nǐ qù nǎr?",
+    "en": "Where are you going?"
+   },
+   {
+    "zh": "她去商店买东西。",
+    "pinyin": "Tā qù shāngdiàn mǎi dōngxi.",
+    "en": "She goes to the store to buy things."
+   },
+   {
+    "zh": "我们去看电影。",
+    "pinyin": "Wǒmen qù kàn diànyǐng.",
+    "en": "We go watch a movie."
+   },
+   {
+    "zh": "我不去。",
+    "pinyin": "Wǒ bú qù.",
+    "en": "I'm not going."
+   }
+  ]
+ },
+ {
+  "id": "w084",
+  "hanzi": "热",
+  "pinyin": "rè",
+  "meaning": "hot",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "今天很热。",
+    "pinyin": "Jīntiān hěn rè.",
+    "en": "Today is very hot."
+   },
+   {
+    "zh": "这个茶很热。",
+    "pinyin": "Zhège chá hěn rè.",
+    "en": "This tea is very hot."
+   },
+   {
+    "zh": "北京今天很热。",
+    "pinyin": "Běijīng jīntiān hěn rè.",
+    "en": "Beijing is very hot today."
+   },
+   {
+    "zh": "水太热了。",
+    "pinyin": "Shuǐ tài rè le.",
+    "en": "The water is too hot."
+   },
+   {
+    "zh": "我不喜欢热天气。",
+    "pinyin": "Wǒ bù xǐhuan rè tiānqì.",
+    "en": "I don't like hot weather."
+   }
+  ]
+ },
+ {
+  "id": "w085",
+  "hanzi": "人",
+  "pinyin": "rén",
+  "meaning": "person; people",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "他是中国人。",
+    "pinyin": "Tā shì Zhōngguó rén.",
+    "en": "He is Chinese."
+   },
+   {
+    "zh": "这里有很多人。",
+    "pinyin": "Zhèlǐ yǒu hěn duō rén.",
+    "en": "There are many people here."
+   },
+   {
+    "zh": "你家有几个人？",
+    "pinyin": "Nǐ jiā yǒu jǐ ge rén?",
+    "en": "How many people are in your family?"
+   },
+   {
+    "zh": "那个人是谁？",
+    "pinyin": "Nàge rén shì shéi?",
+    "en": "Who is that person?"
+   },
+   {
+    "zh": "我们都是好人。",
+    "pinyin": "Wǒmen dōu shì hǎo rén.",
+    "en": "We are all good people."
+   }
+  ]
+ },
+ {
+  "id": "w086",
+  "hanzi": "认识",
+  "pinyin": "rènshi",
+  "meaning": "to know; to recognize",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我认识她。",
+    "pinyin": "Wǒ rènshi tā.",
+    "en": "I know her."
+   },
+   {
+    "zh": "你认识我吗？",
+    "pinyin": "Nǐ rènshi wǒ ma?",
+    "en": "Do you know me?"
+   },
+   {
+    "zh": "很高兴认识你。",
+    "pinyin": "Hěn gāoxìng rènshi nǐ.",
+    "en": "Nice to meet you."
+   },
+   {
+    "zh": "我不认识他。",
+    "pinyin": "Wǒ bú rènshi tā.",
+    "en": "I don't know him."
+   },
+   {
+    "zh": "我们认识很多年了。",
+    "pinyin": "Wǒmen rènshi hěn duō nián le.",
+    "en": "We've known each other for many years."
+   }
+  ]
+ },
+ {
+  "id": "w087",
+  "hanzi": "日",
+  "pinyin": "rì",
+  "meaning": "day; sun",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "今天几日？",
+    "pinyin": "Jīntiān jǐ rì?",
+    "en": "What day is it today?"
+   },
+   {
+    "zh": "这是七月一日。",
+    "pinyin": "Zhè shì qī yuè yī rì.",
+    "en": "This is July first."
+   },
+   {
+    "zh": "我八月九日去。",
+    "pinyin": "Wǒ bā yuè jiǔ rì qù.",
+    "en": "I'm going on August ninth."
+   },
+   {
+    "zh": "她是三月三日来的。",
+    "pinyin": "Tā shì sān yuè sān rì lái de.",
+    "en": "She came on March third."
+   },
+   {
+    "zh": "今天是几月几日？",
+    "pinyin": "Jīntiān shì jǐ yuè jǐ rì?",
+    "en": "What is today's date?"
+   }
+  ]
+ },
+ {
+  "id": "w088",
+  "hanzi": "三",
+  "pinyin": "sān",
+  "meaning": "three",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有三本书。",
+    "pinyin": "Wǒ yǒu sān běn shū.",
+    "en": "I have three books."
+   },
+   {
+    "zh": "现在是三点。",
+    "pinyin": "Xiànzài shì sān diǎn.",
+    "en": "It's three o'clock now."
+   },
+   {
+    "zh": "她三岁了。",
+    "pinyin": "Tā sān suì le.",
+    "en": "She is three years old."
+   },
+   {
+    "zh": "三月天气很好。",
+    "pinyin": "Sān yuè tiānqì hěn hǎo.",
+    "en": "The weather in March is nice."
+   },
+   {
+    "zh": "我们三个人。",
+    "pinyin": "Wǒmen sān ge rén.",
+    "en": "There are three of us."
+   }
+  ]
+ },
+ {
+  "id": "w089",
+  "hanzi": "商店",
+  "pinyin": "shāngdiàn",
+  "meaning": "store; shop",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我去商店。",
+    "pinyin": "Wǒ qù shāngdiàn.",
+    "en": "I'm going to the store."
+   },
+   {
+    "zh": "商店在哪儿？",
+    "pinyin": "Shāngdiàn zài nǎr?",
+    "en": "Where is the store?"
+   },
+   {
+    "zh": "这个商店很大。",
+    "pinyin": "Zhège shāngdiàn hěn dà.",
+    "en": "This store is big."
+   },
+   {
+    "zh": "她在商店工作。",
+    "pinyin": "Tā zài shāngdiàn gōngzuò.",
+    "en": "She works at a store."
+   },
+   {
+    "zh": "商店里有很多东西。",
+    "pinyin": "Shāngdiàn lǐ yǒu hěn duō dōngxi.",
+    "en": "There are many things in the store."
+   }
+  ]
+ },
+ {
+  "id": "w090",
+  "hanzi": "上",
+  "pinyin": "shàng",
+  "meaning": "on; above; last",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "书在桌子上。",
+    "pinyin": "Shū zài zhuōzi shàng.",
+    "en": "The book is on the table."
+   },
+   {
+    "zh": "猫在椅子上。",
+    "pinyin": "Māo zài yǐzi shàng.",
+    "en": "The cat is on the chair."
+   },
+   {
+    "zh": "我上学。",
+    "pinyin": "Wǒ shàngxué.",
+    "en": "I go to school."
+   },
+   {
+    "zh": "电脑在桌子上。",
+    "pinyin": "Diànnǎo zài zhuōzi shàng.",
+    "en": "The computer is on the table."
+   },
+   {
+    "zh": "上个星期天气很冷。",
+    "pinyin": "Shàng ge xīngqī tiānqì hěn lěng.",
+    "en": "The weather was cold last week."
+   }
+  ]
+ },
+ {
+  "id": "w091",
+  "hanzi": "上午",
+  "pinyin": "shàngwǔ",
+  "meaning": "morning",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我上午去学校。",
+    "pinyin": "Wǒ shàngwǔ qù xuéxiào.",
+    "en": "I go to school in the morning."
+   },
+   {
+    "zh": "她上午工作。",
+    "pinyin": "Tā shàngwǔ gōngzuò.",
+    "en": "She works in the morning."
+   },
+   {
+    "zh": "今天上午天气很好。",
+    "pinyin": "Jīntiān shàngwǔ tiānqì hěn hǎo.",
+    "en": "The weather this morning is nice."
+   },
+   {
+    "zh": "上午九点我在家。",
+    "pinyin": "Shàngwǔ jiǔ diǎn wǒ zài jiā.",
+    "en": "I'm home at nine in the morning."
+   },
+   {
+    "zh": "明天上午你来吗？",
+    "pinyin": "Míngtiān shàngwǔ nǐ lái ma?",
+    "en": "Are you coming tomorrow morning?"
+   }
+  ]
+ },
+ {
+  "id": "w092",
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "meaning": "few; little",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "我的钱很少。",
+    "pinyin": "Wǒ de qián hěn shǎo.",
+    "en": "I have very little money."
+   },
+   {
+    "zh": "这里的人很少。",
+    "pinyin": "Zhèlǐ de rén hěn shǎo.",
+    "en": "There are very few people here."
+   },
+   {
+    "zh": "她说的很少。",
+    "pinyin": "Tā shuō de hěn shǎo.",
+    "en": "She said very little."
+   },
+   {
+    "zh": "我买的东西很少。",
+    "pinyin": "Wǒ mǎi de dōngxi hěn shǎo.",
+    "en": "I bought very few things."
+   },
+   {
+    "zh": "这个不少。",
+    "pinyin": "Zhège bù shǎo.",
+    "en": "This isn't a small amount."
+   }
+  ]
+ },
+ {
+  "id": "w093",
+  "hanzi": "什么",
+  "pinyin": "shénme",
+  "meaning": "what",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "en": "What is your name?"
+   },
+   {
+    "zh": "这是什么？",
+    "pinyin": "Zhè shì shénme?",
+    "en": "What is this?"
+   },
+   {
+    "zh": "你想吃什么？",
+    "pinyin": "Nǐ xiǎng chī shénme?",
+    "en": "What do you want to eat?"
+   },
+   {
+    "zh": "她说什么？",
+    "pinyin": "Tā shuō shénme?",
+    "en": "What did she say?"
+   },
+   {
+    "zh": "你喜欢什么？",
+    "pinyin": "Nǐ xǐhuan shénme?",
+    "en": "What do you like?"
+   }
+  ]
+ },
+ {
+  "id": "w094",
+  "hanzi": "十",
+  "pinyin": "shí",
+  "meaning": "ten",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有十本书。",
+    "pinyin": "Wǒ yǒu shí běn shū.",
+    "en": "I have ten books."
+   },
+   {
+    "zh": "现在是十点。",
+    "pinyin": "Xiànzài shì shí diǎn.",
+    "en": "It's ten o'clock now."
+   },
+   {
+    "zh": "她十岁了。",
+    "pinyin": "Tā shí suì le.",
+    "en": "She is ten years old."
+   },
+   {
+    "zh": "十月天气很好。",
+    "pinyin": "Shí yuè tiānqì hěn hǎo.",
+    "en": "The weather in October is nice."
+   },
+   {
+    "zh": "这个十块钱。",
+    "pinyin": "Zhège shí kuài qián.",
+    "en": "This is ten yuan."
+   }
+  ]
+ },
+ {
+  "id": "w095",
+  "hanzi": "时候",
+  "pinyin": "shíhou",
+  "meaning": "time; moment",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "你什么时候来？",
+    "pinyin": "Nǐ shénme shíhou lái?",
+    "en": "When are you coming?"
+   },
+   {
+    "zh": "我吃饭的时候看电视。",
+    "pinyin": "Wǒ chī fàn de shíhou kàn diànshì.",
+    "en": "I watch TV while eating."
+   },
+   {
+    "zh": "她来的时候我不在家。",
+    "pinyin": "Tā lái de shíhou wǒ bú zài jiā.",
+    "en": "I wasn't home when she came."
+   },
+   {
+    "zh": "什么时候去北京？",
+    "pinyin": "Shénme shíhou qù Běijīng?",
+    "en": "When are we going to Beijing?"
+   },
+   {
+    "zh": "这个时候她在工作。",
+    "pinyin": "Zhège shíhou tā zài gōngzuò.",
+    "en": "At this time she is working."
+   }
+  ]
+ },
+ {
+  "id": "w096",
+  "hanzi": "是",
+  "pinyin": "shì",
+  "meaning": "to be",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "他是老师。",
+    "pinyin": "Tā shì lǎoshī.",
+    "en": "He is a teacher."
+   },
+   {
+    "zh": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "en": "This is my book."
+   },
+   {
+    "zh": "她不是学生。",
+    "pinyin": "Tā bú shì xuésheng.",
+    "en": "She isn't a student."
+   },
+   {
+    "zh": "你是哪国人？",
+    "pinyin": "Nǐ shì nǎ guó rén?",
+    "en": "What country are you from?"
+   }
+  ]
+ },
+ {
+  "id": "w097",
+  "hanzi": "书",
+  "pinyin": "shū",
+  "meaning": "book",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "en": "This is my book."
+   },
+   {
+    "zh": "我喜欢看书。",
+    "pinyin": "Wǒ xǐhuan kàn shū.",
+    "en": "I like reading books."
+   },
+   {
+    "zh": "她买了三本书。",
+    "pinyin": "Tā mǎi le sān běn shū.",
+    "en": "She bought three books."
+   },
+   {
+    "zh": "这本书很好。",
+    "pinyin": "Zhè běn shū hěn hǎo.",
+    "en": "This book is good."
+   },
+   {
+    "zh": "书在桌子上。",
+    "pinyin": "Shū zài zhuōzi shàng.",
+    "en": "The book is on the table."
+   }
+  ]
+ },
+ {
+  "id": "w098",
+  "hanzi": "谁",
+  "pinyin": "shéi",
+  "meaning": "who",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "她是谁？",
+    "pinyin": "Tā shì shéi?",
+    "en": "Who is she?"
+   },
+   {
+    "zh": "这是谁的书？",
+    "pinyin": "Zhè shì shéi de shū?",
+    "en": "Whose book is this?"
+   },
+   {
+    "zh": "你认识谁？",
+    "pinyin": "Nǐ rènshi shéi?",
+    "en": "Who do you know?"
+   },
+   {
+    "zh": "谁在家？",
+    "pinyin": "Shéi zài jiā?",
+    "en": "Who is home?"
+   },
+   {
+    "zh": "谁是老师？",
+    "pinyin": "Shéi shì lǎoshī?",
+    "en": "Who is the teacher?"
+   }
+  ]
+ },
+ {
+  "id": "w099",
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "meaning": "water",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Food & Drink",
+  "examples": [
+   {
+    "zh": "我想喝水。",
+    "pinyin": "Wǒ xiǎng hē shuǐ.",
+    "en": "I want to drink water."
+   },
+   {
+    "zh": "这是水吗？",
+    "pinyin": "Zhè shì shuǐ ma?",
+    "en": "Is this water?"
+   },
+   {
+    "zh": "杯子里有水。",
+    "pinyin": "Bēizi lǐ yǒu shuǐ.",
+    "en": "There is water in the cup."
+   },
+   {
+    "zh": "水很热。",
+    "pinyin": "Shuǐ hěn rè.",
+    "en": "The water is hot."
+   },
+   {
+    "zh": "我不喝水。",
+    "pinyin": "Wǒ bù hē shuǐ.",
+    "en": "I don't drink water."
+   }
+  ]
+ },
+ {
+  "id": "w100",
+  "hanzi": "水果",
+  "pinyin": "shuǐguǒ",
+  "meaning": "fruit",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Food & Drink",
+  "examples": [
+   {
+    "zh": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "en": "I like eating fruit."
+   },
+   {
+    "zh": "这个水果很好吃。",
+    "pinyin": "Zhège shuǐguǒ hěn hǎochī.",
+    "en": "This fruit is delicious."
+   },
+   {
+    "zh": "商店有很多水果。",
+    "pinyin": "Shāngdiàn yǒu hěn duō shuǐguǒ.",
+    "en": "The store has lots of fruit."
+   },
+   {
+    "zh": "她买了水果。",
+    "pinyin": "Tā mǎi le shuǐguǒ.",
+    "en": "She bought fruit."
+   },
+   {
+    "zh": "苹果是水果。",
+    "pinyin": "Píngguǒ shì shuǐguǒ.",
+    "en": "Apples are fruit."
+   }
+  ]
+ },
+ {
+  "id": "w101",
+  "hanzi": "睡觉",
+  "pinyin": "shuìjiào",
+  "meaning": "to sleep",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我想睡觉。",
+    "pinyin": "Wǒ xiǎng shuìjiào.",
+    "en": "I want to sleep."
+   },
+   {
+    "zh": "她十点睡觉。",
+    "pinyin": "Tā shí diǎn shuìjiào.",
+    "en": "She sleeps at ten o'clock."
+   },
+   {
+    "zh": "你几点睡觉？",
+    "pinyin": "Nǐ jǐ diǎn shuìjiào?",
+    "en": "What time do you sleep?"
+   },
+   {
+    "zh": "猫在睡觉。",
+    "pinyin": "Māo zài shuìjiào.",
+    "en": "The cat is sleeping."
+   },
+   {
+    "zh": "我今天没睡觉。",
+    "pinyin": "Wǒ jīntiān méi shuìjiào.",
+    "en": "I didn't sleep today."
+   }
+  ]
+ },
+ {
+  "id": "w102",
+  "hanzi": "说话",
+  "pinyin": "shuōhuà",
+  "meaning": "to speak",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "她在说话。",
+    "pinyin": "Tā zài shuōhuà.",
+    "en": "She is speaking."
+   },
+   {
+    "zh": "请你说话。",
+    "pinyin": "Qǐng nǐ shuōhuà.",
+    "en": "Please speak."
+   },
+   {
+    "zh": "他说话很少。",
+    "pinyin": "Tā shuōhuà hěn shǎo.",
+    "en": "He speaks very little."
+   },
+   {
+    "zh": "我们在说话。",
+    "pinyin": "Wǒmen zài shuōhuà.",
+    "en": "We are talking."
+   },
+   {
+    "zh": "她不喜欢说话。",
+    "pinyin": "Tā bù xǐhuan shuōhuà.",
+    "en": "She doesn't like talking."
+   }
+  ]
+ },
+ {
+  "id": "w103",
+  "hanzi": "四",
+  "pinyin": "sì",
+  "meaning": "four",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有四本书。",
+    "pinyin": "Wǒ yǒu sì běn shū.",
+    "en": "I have four books."
+   },
+   {
+    "zh": "现在是四点。",
+    "pinyin": "Xiànzài shì sì diǎn.",
+    "en": "It's four o'clock now."
+   },
+   {
+    "zh": "她四岁了。",
+    "pinyin": "Tā sì suì le.",
+    "en": "She is four years old."
+   },
+   {
+    "zh": "四月天气很好。",
+    "pinyin": "Sì yuè tiānqì hěn hǎo.",
+    "en": "The weather in April is nice."
+   },
+   {
+    "zh": "我们四个人。",
+    "pinyin": "Wǒmen sì ge rén.",
+    "en": "There are four of us."
+   }
+  ]
+ },
+ {
+  "id": "w104",
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "meaning": "years old",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我八岁了。",
+    "pinyin": "Wǒ bā suì le.",
+    "en": "I am eight years old."
+   },
+   {
+    "zh": "她几岁了？",
+    "pinyin": "Tā jǐ suì le?",
+    "en": "How old is she?"
+   },
+   {
+    "zh": "我儿子五岁了。",
+    "pinyin": "Wǒ érzi wǔ suì le.",
+    "en": "My son is five years old."
+   },
+   {
+    "zh": "我爸爸四十岁了。",
+    "pinyin": "Wǒ bàba sìshí suì le.",
+    "en": "My dad is forty years old."
+   },
+   {
+    "zh": "你女儿几岁了？",
+    "pinyin": "Nǐ nǚ'ér jǐ suì le?",
+    "en": "How old is your daughter?"
+   }
+  ]
+ },
+ {
+  "id": "w105",
+  "hanzi": "他",
+  "pinyin": "tā",
+  "meaning": "he; him",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "他是老师。",
+    "pinyin": "Tā shì lǎoshī.",
+    "en": "He is a teacher."
+   },
+   {
+    "zh": "我认识他。",
+    "pinyin": "Wǒ rènshi tā.",
+    "en": "I know him."
+   },
+   {
+    "zh": "他在家吗？",
+    "pinyin": "Tā zài jiā ma?",
+    "en": "Is he home?"
+   },
+   {
+    "zh": "他喜欢喝茶。",
+    "pinyin": "Tā xǐhuan hē chá.",
+    "en": "He likes drinking tea."
+   },
+   {
+    "zh": "他叫什么名字？",
+    "pinyin": "Tā jiào shénme míngzi?",
+    "en": "What is his name?"
+   }
+  ]
+ },
+ {
+  "id": "w106",
+  "hanzi": "她",
+  "pinyin": "tā",
+  "meaning": "she; her",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "她是学生。",
+    "pinyin": "Tā shì xuésheng.",
+    "en": "She is a student."
+   },
+   {
+    "zh": "我认识她。",
+    "pinyin": "Wǒ rènshi tā.",
+    "en": "I know her."
+   },
+   {
+    "zh": "她在哪儿？",
+    "pinyin": "Tā zài nǎr?",
+    "en": "Where is she?"
+   },
+   {
+    "zh": "她很漂亮。",
+    "pinyin": "Tā hěn piàoliang.",
+    "en": "She is very pretty."
+   },
+   {
+    "zh": "她叫什么名字？",
+    "pinyin": "Tā jiào shénme míngzi?",
+    "en": "What is her name?"
+   }
+  ]
+ },
+ {
+  "id": "w107",
+  "hanzi": "太",
+  "pinyin": "tài",
+  "meaning": "too; extremely",
+  "partOfSpeech": "adverb",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "太好了！",
+    "pinyin": "Tài hǎo le!",
+    "en": "Great!"
+   },
+   {
+    "zh": "这个太多了。",
+    "pinyin": "Zhège tài duō le.",
+    "en": "This is too much."
+   },
+   {
+    "zh": "水太热了。",
+    "pinyin": "Shuǐ tài rè le.",
+    "en": "The water is too hot."
+   },
+   {
+    "zh": "你太漂亮了。",
+    "pinyin": "Nǐ tài piàoliang le.",
+    "en": "You are so pretty."
+   },
+   {
+    "zh": "这个太大了。",
+    "pinyin": "Zhège tài dà le.",
+    "en": "This is too big."
+   }
+  ]
+ },
+ {
+  "id": "w108",
+  "hanzi": "天气",
+  "pinyin": "tiānqì",
+  "meaning": "weather",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Weather",
+  "examples": [
+   {
+    "zh": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "en": "The weather is nice today."
+   },
+   {
+    "zh": "北京天气怎么样？",
+    "pinyin": "Běijīng tiānqì zěnmeyàng?",
+    "en": "How's the weather in Beijing?"
+   },
+   {
+    "zh": "天气很冷。",
+    "pinyin": "Tiānqì hěn lěng.",
+    "en": "The weather is cold."
+   },
+   {
+    "zh": "我不喜欢这个天气。",
+    "pinyin": "Wǒ bù xǐhuan zhège tiānqì.",
+    "en": "I don't like this weather."
+   },
+   {
+    "zh": "明天天气很热。",
+    "pinyin": "Míngtiān tiānqì hěn rè.",
+    "en": "Tomorrow's weather will be hot."
+   }
+  ]
+ },
+ {
+  "id": "w109",
+  "hanzi": "听",
+  "pinyin": "tīng",
+  "meaning": "to listen",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我在听。",
+    "pinyin": "Wǒ zài tīng.",
+    "en": "I am listening."
+   },
+   {
+    "zh": "你听我说。",
+    "pinyin": "Nǐ tīng wǒ shuō.",
+    "en": "Listen to me."
+   },
+   {
+    "zh": "她喜欢听老师说话。",
+    "pinyin": "Tā xǐhuan tīng lǎoshī shuōhuà.",
+    "en": "She likes listening to the teacher."
+   },
+   {
+    "zh": "我没听见。",
+    "pinyin": "Wǒ méi tīngjiàn.",
+    "en": "I didn't hear it."
+   },
+   {
+    "zh": "我们听老师说话。",
+    "pinyin": "Wǒmen tīng lǎoshī shuōhuà.",
+    "en": "We listen to the teacher speak."
+   }
+  ]
+ },
+ {
+  "id": "w110",
+  "hanzi": "同学",
+  "pinyin": "tóngxué",
+  "meaning": "classmate",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "她是我的同学。",
+    "pinyin": "Tā shì wǒ de tóngxué.",
+    "en": "She is my classmate."
+   },
+   {
+    "zh": "我们是同学。",
+    "pinyin": "Wǒmen shì tóngxué.",
+    "en": "We are classmates."
+   },
+   {
+    "zh": "我的同学很多。",
+    "pinyin": "Wǒ de tóngxué hěn duō.",
+    "en": "I have many classmates."
+   },
+   {
+    "zh": "这个同学叫什么名字？",
+    "pinyin": "Zhège tóngxué jiào shénme míngzi?",
+    "en": "What is this classmate's name?"
+   },
+   {
+    "zh": "我同学在学校。",
+    "pinyin": "Wǒ tóngxué zài xuéxiào.",
+    "en": "My classmate is at school."
+   }
+  ]
+ },
+ {
+  "id": "w111",
+  "hanzi": "喂",
+  "pinyin": "wèi",
+  "meaning": "hello (on the phone)",
+  "partOfSpeech": "interjection",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "喂，你好。",
+    "pinyin": "Wèi, nǐ hǎo.",
+    "en": "Hello, hi."
+   },
+   {
+    "zh": "喂，是谁？",
+    "pinyin": "Wèi, shì shéi?",
+    "en": "Hello, who is this?"
+   },
+   {
+    "zh": "喂，我是小明。",
+    "pinyin": "Wèi, wǒ shì Xiǎo Míng.",
+    "en": "Hello, this is Xiao Ming."
+   },
+   {
+    "zh": "喂，你在哪儿？",
+    "pinyin": "Wèi, nǐ zài nǎr?",
+    "en": "Hello, where are you?"
+   },
+   {
+    "zh": "喂，她在家吗？",
+    "pinyin": "Wèi, tā zài jiā ma?",
+    "en": "Hello, is she home?"
+   }
+  ]
+ },
+ {
+  "id": "w112",
+  "hanzi": "我",
+  "pinyin": "wǒ",
+  "meaning": "I; me",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "我叫小明。",
+    "pinyin": "Wǒ jiào Xiǎo Míng.",
+    "en": "My name is Xiao Ming."
+   },
+   {
+    "zh": "我在家。",
+    "pinyin": "Wǒ zài jiā.",
+    "en": "I'm at home."
+   },
+   {
+    "zh": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "en": "This is my book."
+   },
+   {
+    "zh": "我喜欢喝茶。",
+    "pinyin": "Wǒ xǐhuan hē chá.",
+    "en": "I like drinking tea."
+   }
+  ]
+ },
+ {
+  "id": "w113",
+  "hanzi": "我们",
+  "pinyin": "wǒmen",
+  "meaning": "we; us",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "我们是学生。",
+    "pinyin": "Wǒmen shì xuésheng.",
+    "en": "We are students."
+   },
+   {
+    "zh": "我们去商店。",
+    "pinyin": "Wǒmen qù shāngdiàn.",
+    "en": "We're going to the store."
+   },
+   {
+    "zh": "我们是朋友。",
+    "pinyin": "Wǒmen shì péngyou.",
+    "en": "We are friends."
+   },
+   {
+    "zh": "我们都很高兴。",
+    "pinyin": "Wǒmen dōu hěn gāoxìng.",
+    "en": "We are all very happy."
+   },
+   {
+    "zh": "我们家有五个人。",
+    "pinyin": "Wǒmen jiā yǒu wǔ ge rén.",
+    "en": "There are five people in our family."
+   }
+  ]
+ },
+ {
+  "id": "w114",
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "meaning": "five",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有五本书。",
+    "pinyin": "Wǒ yǒu wǔ běn shū.",
+    "en": "I have five books."
+   },
+   {
+    "zh": "现在是五点。",
+    "pinyin": "Xiànzài shì wǔ diǎn.",
+    "en": "It's five o'clock now."
+   },
+   {
+    "zh": "她五岁了。",
+    "pinyin": "Tā wǔ suì le.",
+    "en": "She is five years old."
+   },
+   {
+    "zh": "五月天气很好。",
+    "pinyin": "Wǔ yuè tiānqì hěn hǎo.",
+    "en": "The weather in May is nice."
+   },
+   {
+    "zh": "我们五个人。",
+    "pinyin": "Wǒmen wǔ ge rén.",
+    "en": "There are five of us."
+   }
+  ]
+ },
+ {
+  "id": "w115",
+  "hanzi": "喜欢",
+  "pinyin": "xǐhuan",
+  "meaning": "to like",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我喜欢你。",
+    "pinyin": "Wǒ xǐhuan nǐ.",
+    "en": "I like you."
+   },
+   {
+    "zh": "她喜欢喝茶。",
+    "pinyin": "Tā xǐhuan hē chá.",
+    "en": "She likes drinking tea."
+   },
+   {
+    "zh": "你喜欢什么？",
+    "pinyin": "Nǐ xǐhuan shénme?",
+    "en": "What do you like?"
+   },
+   {
+    "zh": "我不喜欢猫。",
+    "pinyin": "Wǒ bù xǐhuan māo.",
+    "en": "I don't like cats."
+   },
+   {
+    "zh": "我们都喜欢北京。",
+    "pinyin": "Wǒmen dōu xǐhuan Běijīng.",
+    "en": "We all like Beijing."
+   }
+  ]
+ },
+ {
+  "id": "w116",
+  "hanzi": "下",
+  "pinyin": "xià",
+  "meaning": "down; next",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "猫在桌子下。",
+    "pinyin": "Māo zài zhuōzi xià.",
+    "en": "The cat is under the table."
+   },
+   {
+    "zh": "下个星期我去北京。",
+    "pinyin": "Xià ge xīngqī wǒ qù Běijīng.",
+    "en": "I'm going to Beijing next week."
+   },
+   {
+    "zh": "下个月她回家。",
+    "pinyin": "Xià ge yuè tā huí jiā.",
+    "en": "She's going home next month."
+   },
+   {
+    "zh": "我下午去商店。",
+    "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
+    "en": "I'm going to the store this afternoon."
+   },
+   {
+    "zh": "请你下来。",
+    "pinyin": "Qǐng nǐ xiàlái.",
+    "en": "Please come down."
+   }
+  ]
+ },
+ {
+  "id": "w117",
+  "hanzi": "下午",
+  "pinyin": "xiàwǔ",
+  "meaning": "afternoon",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我下午去学校。",
+    "pinyin": "Wǒ xiàwǔ qù xuéxiào.",
+    "en": "I go to school in the afternoon."
+   },
+   {
+    "zh": "她下午工作。",
+    "pinyin": "Tā xiàwǔ gōngzuò.",
+    "en": "She works in the afternoon."
+   },
+   {
+    "zh": "下午三点我在家。",
+    "pinyin": "Xiàwǔ sān diǎn wǒ zài jiā.",
+    "en": "I'm home at three in the afternoon."
+   },
+   {
+    "zh": "今天下午天气很热。",
+    "pinyin": "Jīntiān xiàwǔ tiānqì hěn rè.",
+    "en": "This afternoon's weather is hot."
+   },
+   {
+    "zh": "明天下午你来吗？",
+    "pinyin": "Míngtiān xiàwǔ nǐ lái ma?",
+    "en": "Are you coming tomorrow afternoon?"
+   }
+  ]
+ },
+ {
+  "id": "w118",
+  "hanzi": "下雨",
+  "pinyin": "xiàyǔ",
+  "meaning": "to rain",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Weather",
+  "examples": [
+   {
+    "zh": "今天下雨了。",
+    "pinyin": "Jīntiān xiàyǔ le.",
+    "en": "It rained today."
+   },
+   {
+    "zh": "明天会下雨吗？",
+    "pinyin": "Míngtiān huì xiàyǔ ma?",
+    "en": "Will it rain tomorrow?"
+   },
+   {
+    "zh": "下雨了，我不去了。",
+    "pinyin": "Xiàyǔ le, wǒ bú qù le.",
+    "en": "It's raining, I'm not going."
+   },
+   {
+    "zh": "她不喜欢下雨天。",
+    "pinyin": "Tā bù xǐhuan xiàyǔ tiān.",
+    "en": "She doesn't like rainy days."
+   },
+   {
+    "zh": "下雨的时候我在家。",
+    "pinyin": "Xiàyǔ de shíhou wǒ zài jiā.",
+    "en": "I'm home when it rains."
+   }
+  ]
+ },
+ {
+  "id": "w119",
+  "hanzi": "先生",
+  "pinyin": "xiānsheng",
+  "meaning": "mister; sir",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "这个先生认识我。",
+    "pinyin": "Zhège xiānsheng rènshi wǒ.",
+    "en": "This gentleman knows me."
+   },
+   {
+    "zh": "先生，你好。",
+    "pinyin": "Xiānsheng, nǐ hǎo.",
+    "en": "Hello, sir."
+   },
+   {
+    "zh": "那个先生是老师。",
+    "pinyin": "Nàge xiānsheng shì lǎoshī.",
+    "en": "That gentleman is a teacher."
+   },
+   {
+    "zh": "先生，请坐。",
+    "pinyin": "Xiānsheng, qǐng zuò.",
+    "en": "Sir, please sit."
+   },
+   {
+    "zh": "这个先生我不认识。",
+    "pinyin": "Zhège xiānsheng wǒ bú rènshi.",
+    "en": "I don't know this gentleman."
+   }
+  ]
+ },
+ {
+  "id": "w120",
+  "hanzi": "现在",
+  "pinyin": "xiànzài",
+  "meaning": "now",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "en": "What time is it now?"
+   },
+   {
+    "zh": "我现在在家。",
+    "pinyin": "Wǒ xiànzài zài jiā.",
+    "en": "I'm home now."
+   },
+   {
+    "zh": "她现在工作。",
+    "pinyin": "Tā xiànzài gōngzuò.",
+    "en": "She is working now."
+   },
+   {
+    "zh": "现在天气很好。",
+    "pinyin": "Xiànzài tiānqì hěn hǎo.",
+    "en": "The weather is nice now."
+   },
+   {
+    "zh": "我现在很高兴。",
+    "pinyin": "Wǒ xiànzài hěn gāoxìng.",
+    "en": "I'm very happy now."
+   }
+  ]
+ },
+ {
+  "id": "w121",
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "meaning": "to want; to think",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我想喝茶。",
+    "pinyin": "Wǒ xiǎng hē chá.",
+    "en": "I want to drink tea."
+   },
+   {
+    "zh": "她想去北京。",
+    "pinyin": "Tā xiǎng qù Běijīng.",
+    "en": "She wants to go to Beijing."
+   },
+   {
+    "zh": "你想吃什么？",
+    "pinyin": "Nǐ xiǎng chī shénme?",
+    "en": "What do you want to eat?"
+   },
+   {
+    "zh": "我想我的家。",
+    "pinyin": "Wǒ xiǎng wǒ de jiā.",
+    "en": "I miss my home."
+   },
+   {
+    "zh": "我不想去。",
+    "pinyin": "Wǒ bù xiǎng qù.",
+    "en": "I don't want to go."
+   }
+  ]
+ },
+ {
+  "id": "w122",
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "meaning": "small",
+  "partOfSpeech": "adjective",
+  "level": 1,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这个杯子很小。",
+    "pinyin": "Zhège bēizi hěn xiǎo.",
+    "en": "This cup is small."
+   },
+   {
+    "zh": "她的猫很小。",
+    "pinyin": "Tā de māo hěn xiǎo.",
+    "en": "Her cat is small."
+   },
+   {
+    "zh": "这本书太小了。",
+    "pinyin": "Zhè běn shū tài xiǎo le.",
+    "en": "This book is too small."
+   },
+   {
+    "zh": "我们学校很小。",
+    "pinyin": "Wǒmen xuéxiào hěn xiǎo.",
+    "en": "Our school is small."
+   },
+   {
+    "zh": "这个东西不小。",
+    "pinyin": "Zhège dōngxi bù xiǎo.",
+    "en": "This thing isn't small."
+   }
+  ]
+ },
+ {
+  "id": "w123",
+  "hanzi": "小姐",
+  "pinyin": "xiǎojiě",
+  "meaning": "miss; young lady",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "这个小姐认识我。",
+    "pinyin": "Zhège xiǎojiě rènshi wǒ.",
+    "en": "This young lady knows me."
+   },
+   {
+    "zh": "小姐，你好。",
+    "pinyin": "Xiǎojiě, nǐ hǎo.",
+    "en": "Hello, miss."
+   },
+   {
+    "zh": "那个小姐是老师。",
+    "pinyin": "Nàge xiǎojiě shì lǎoshī.",
+    "en": "That young lady is a teacher."
+   },
+   {
+    "zh": "小姐，请坐。",
+    "pinyin": "Xiǎojiě, qǐng zuò.",
+    "en": "Miss, please sit."
+   },
+   {
+    "zh": "这个小姐我不认识。",
+    "pinyin": "Zhège xiǎojiě wǒ bú rènshi.",
+    "en": "I don't know this young lady."
+   }
+  ]
+ },
+ {
+  "id": "w124",
+  "hanzi": "些",
+  "pinyin": "xiē",
+  "meaning": "some",
+  "partOfSpeech": "measure word",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我买了一些东西。",
+    "pinyin": "Wǒ mǎi le yìxiē dōngxi.",
+    "en": "I bought some things."
+   },
+   {
+    "zh": "这些是我的书。",
+    "pinyin": "Zhèxiē shì wǒ de shū.",
+    "en": "These are my books."
+   },
+   {
+    "zh": "那些人是谁？",
+    "pinyin": "Nàxiē rén shì shéi?",
+    "en": "Who are those people?"
+   },
+   {
+    "zh": "她喝了一些水。",
+    "pinyin": "Tā hē le yìxiē shuǐ.",
+    "en": "She drank some water."
+   },
+   {
+    "zh": "这些苹果很好。",
+    "pinyin": "Zhèxiē píngguǒ hěn hǎo.",
+    "en": "These apples are good."
+   }
+  ]
+ },
+ {
+  "id": "w125",
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "meaning": "to write",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我在写字。",
+    "pinyin": "Wǒ zài xiě zì.",
+    "en": "I am writing characters."
+   },
+   {
+    "zh": "她会写汉语。",
+    "pinyin": "Tā huì xiě Hànyǔ.",
+    "en": "She can write Chinese."
+   },
+   {
+    "zh": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "en": "Please write your name."
+   },
+   {
+    "zh": "他不会写字。",
+    "pinyin": "Tā bú huì xiě zì.",
+    "en": "He can't write characters."
+   },
+   {
+    "zh": "我们在学校写字。",
+    "pinyin": "Wǒmen zài xuéxiào xiě zì.",
+    "en": "We write at school."
+   }
+  ]
+ },
+ {
+  "id": "w126",
+  "hanzi": "谢谢",
+  "pinyin": "xièxie",
+  "meaning": "thank you",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "谢谢你！",
+    "pinyin": "Xièxie nǐ!",
+    "en": "Thank you!"
+   },
+   {
+    "zh": "谢谢老师。",
+    "pinyin": "Xièxie lǎoshī.",
+    "en": "Thank you, teacher."
+   },
+   {
+    "zh": "谢谢，不客气。",
+    "pinyin": "Xièxie, bú kèqi.",
+    "en": "Thanks, you're welcome."
+   },
+   {
+    "zh": "她说谢谢。",
+    "pinyin": "Tā shuō xièxie.",
+    "en": "She said thank you."
+   },
+   {
+    "zh": "谢谢你的书。",
+    "pinyin": "Xièxie nǐ de shū.",
+    "en": "Thanks for your book."
+   }
+  ]
+ },
+ {
+  "id": "w127",
+  "hanzi": "星期",
+  "pinyin": "xīngqī",
+  "meaning": "week",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "今天星期几？",
+    "pinyin": "Jīntiān xīngqī jǐ?",
+    "en": "What day of the week is it?"
+   },
+   {
+    "zh": "我下个星期去北京。",
+    "pinyin": "Wǒ xià ge xīngqī qù Běijīng.",
+    "en": "I'm going to Beijing next week."
+   },
+   {
+    "zh": "这个星期天气很好。",
+    "pinyin": "Zhège xīngqī tiānqì hěn hǎo.",
+    "en": "The weather this week is nice."
+   },
+   {
+    "zh": "上个星期我很高兴。",
+    "pinyin": "Shàng ge xīngqī wǒ hěn gāoxìng.",
+    "en": "I was very happy last week."
+   },
+   {
+    "zh": "这个星期天气很冷。",
+    "pinyin": "Zhège xīngqī tiānqì hěn lěng.",
+    "en": "The weather is cold this week."
+   }
+  ]
+ },
+ {
+  "id": "w128",
+  "hanzi": "学生",
+  "pinyin": "xuésheng",
+  "meaning": "student",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "en": "I am a student."
+   },
+   {
+    "zh": "她是我们学校的学生。",
+    "pinyin": "Tā shì wǒmen xuéxiào de xuésheng.",
+    "en": "She is a student at our school."
+   },
+   {
+    "zh": "这个学生很好。",
+    "pinyin": "Zhège xuésheng hěn hǎo.",
+    "en": "This student is very good."
+   },
+   {
+    "zh": "学校有很多学生。",
+    "pinyin": "Xuéxiào yǒu hěn duō xuésheng.",
+    "en": "The school has many students."
+   },
+   {
+    "zh": "你是不是学生？",
+    "pinyin": "Nǐ shì bu shì xuésheng?",
+    "en": "Are you a student?"
+   }
+  ]
+ },
+ {
+  "id": "w129",
+  "hanzi": "学习",
+  "pinyin": "xuéxí",
+  "meaning": "to study",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我在学习汉语。",
+    "pinyin": "Wǒ zài xuéxí Hànyǔ.",
+    "en": "I am studying Chinese."
+   },
+   {
+    "zh": "她喜欢学习。",
+    "pinyin": "Tā xǐhuan xuéxí.",
+    "en": "She likes studying."
+   },
+   {
+    "zh": "我们在学校学习。",
+    "pinyin": "Wǒmen zài xuéxiào xuéxí.",
+    "en": "We study at school."
+   },
+   {
+    "zh": "他今天学习。",
+    "pinyin": "Tā jīntiān xuéxí.",
+    "en": "He is studying today."
+   },
+   {
+    "zh": "你学习什么？",
+    "pinyin": "Nǐ xuéxí shénme?",
+    "en": "What are you studying?"
+   }
+  ]
+ },
+ {
+  "id": "w130",
+  "hanzi": "学校",
+  "pinyin": "xuéxiào",
+  "meaning": "school",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我在学校。",
+    "pinyin": "Wǒ zài xuéxiào.",
+    "en": "I'm at school."
+   },
+   {
+    "zh": "学校很大。",
+    "pinyin": "Xuéxiào hěn dà.",
+    "en": "The school is big."
+   },
+   {
+    "zh": "她去学校学习。",
+    "pinyin": "Tā qù xuéxiào xuéxí.",
+    "en": "She goes to school to study."
+   },
+   {
+    "zh": "学校里有很多学生。",
+    "pinyin": "Xuéxiào lǐ yǒu hěn duō xuésheng.",
+    "en": "There are many students in the school."
+   },
+   {
+    "zh": "我们的学校很漂亮。",
+    "pinyin": "Wǒmen de xuéxiào hěn piàoliang.",
+    "en": "Our school is very pretty."
+   }
+  ]
+ },
+ {
+  "id": "w131",
+  "hanzi": "一",
+  "pinyin": "yī",
+  "meaning": "one",
+  "partOfSpeech": "number",
+  "level": 1,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have one book."
+   },
+   {
+    "zh": "现在是一点。",
+    "pinyin": "Xiànzài shì yī diǎn.",
+    "en": "It's one o'clock now."
+   },
+   {
+    "zh": "她一岁了。",
+    "pinyin": "Tā yí suì le.",
+    "en": "She is one year old."
+   },
+   {
+    "zh": "一月天气很冷。",
+    "pinyin": "Yī yuè tiānqì hěn lěng.",
+    "en": "The weather in January is cold."
+   },
+   {
+    "zh": "我们一个人。",
+    "pinyin": "Wǒmen yí ge rén.",
+    "en": "There's just one of us."
+   }
+  ]
+ },
+ {
+  "id": "w132",
+  "hanzi": "衣服",
+  "pinyin": "yīfu",
+  "meaning": "clothes",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "这是我的衣服。",
+    "pinyin": "Zhè shì wǒ de yīfu.",
+    "en": "These are my clothes."
+   },
+   {
+    "zh": "她的衣服很漂亮。",
+    "pinyin": "Tā de yīfu hěn piàoliang.",
+    "en": "Her clothes are very pretty."
+   },
+   {
+    "zh": "我想买衣服。",
+    "pinyin": "Wǒ xiǎng mǎi yīfu.",
+    "en": "I want to buy clothes."
+   },
+   {
+    "zh": "这个衣服多少钱？",
+    "pinyin": "Zhège yīfu duōshao qián?",
+    "en": "How much are these clothes?"
+   },
+   {
+    "zh": "这些衣服是谁的？",
+    "pinyin": "Zhèxiē yīfu shì shéi de?",
+    "en": "Whose clothes are these?"
+   }
+  ]
+ },
+ {
+  "id": "w133",
+  "hanzi": "医生",
+  "pinyin": "yīshēng",
+  "meaning": "doctor",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Family & People",
+  "examples": [
+   {
+    "zh": "她是医生。",
+    "pinyin": "Tā shì yīshēng.",
+    "en": "She is a doctor."
+   },
+   {
+    "zh": "我爸爸是医生。",
+    "pinyin": "Wǒ bàba shì yīshēng.",
+    "en": "My dad is a doctor."
+   },
+   {
+    "zh": "医生在医院工作。",
+    "pinyin": "Yīshēng zài yīyuàn gōngzuò.",
+    "en": "The doctor works at the hospital."
+   },
+   {
+    "zh": "我想认识那个医生。",
+    "pinyin": "Wǒ xiǎng rènshi nàge yīshēng.",
+    "en": "I want to meet that doctor."
+   },
+   {
+    "zh": "她是我们的医生。",
+    "pinyin": "Tā shì wǒmen de yīshēng.",
+    "en": "She is our doctor."
+   }
+  ]
+ },
+ {
+  "id": "w134",
+  "hanzi": "医院",
+  "pinyin": "yīyuàn",
+  "meaning": "hospital",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "医院在哪儿？",
+    "pinyin": "Yīyuàn zài nǎr?",
+    "en": "Where is the hospital?"
+   },
+   {
+    "zh": "她在医院工作。",
+    "pinyin": "Tā zài yīyuàn gōngzuò.",
+    "en": "She works at the hospital."
+   },
+   {
+    "zh": "这个医院很大。",
+    "pinyin": "Zhège yīyuàn hěn dà.",
+    "en": "This hospital is big."
+   },
+   {
+    "zh": "我去医院看医生。",
+    "pinyin": "Wǒ qù yīyuàn kàn yīshēng.",
+    "en": "I'm going to the hospital to see a doctor."
+   },
+   {
+    "zh": "医院里有很多人。",
+    "pinyin": "Yīyuàn lǐ yǒu hěn duō rén.",
+    "en": "There are many people in the hospital."
+   }
+  ]
+ },
+ {
+  "id": "w135",
+  "hanzi": "椅子",
+  "pinyin": "yǐzi",
+  "meaning": "chair",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "这是我的椅子。",
+    "pinyin": "Zhè shì wǒ de yǐzi.",
+    "en": "This is my chair."
+   },
+   {
+    "zh": "猫在椅子上。",
+    "pinyin": "Māo zài yǐzi shàng.",
+    "en": "The cat is on the chair."
+   },
+   {
+    "zh": "这个椅子很小。",
+    "pinyin": "Zhège yǐzi hěn xiǎo.",
+    "en": "This chair is small."
+   },
+   {
+    "zh": "请坐这个椅子。",
+    "pinyin": "Qǐng zuò zhège yǐzi.",
+    "en": "Please sit on this chair."
+   },
+   {
+    "zh": "椅子在桌子前面。",
+    "pinyin": "Yǐzi zài zhuōzi qiánmiàn.",
+    "en": "The chair is in front of the table."
+   }
+  ]
+ },
+ {
+  "id": "w136",
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "meaning": "to have",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "en": "I have a book."
+   },
+   {
+    "zh": "她有很多朋友。",
+    "pinyin": "Tā yǒu hěn duō péngyou.",
+    "en": "She has many friends."
+   },
+   {
+    "zh": "你有钱吗？",
+    "pinyin": "Nǐ yǒu qián ma?",
+    "en": "Do you have money?"
+   },
+   {
+    "zh": "我没有电脑。",
+    "pinyin": "Wǒ méiyǒu diànnǎo.",
+    "en": "I don't have a computer."
+   },
+   {
+    "zh": "我家有五个人。",
+    "pinyin": "Wǒ jiā yǒu wǔ ge rén.",
+    "en": "There are five people in my family."
+   }
+  ]
+ },
+ {
+  "id": "w137",
+  "hanzi": "月",
+  "pinyin": "yuè",
+  "meaning": "month; moon",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "现在是几月？",
+    "pinyin": "Xiànzài shì jǐ yuè?",
+    "en": "What month is it now?"
+   },
+   {
+    "zh": "我一月去北京。",
+    "pinyin": "Wǒ yī yuè qù Běijīng.",
+    "en": "I'm going to Beijing in January."
+   },
+   {
+    "zh": "她八月来。",
+    "pinyin": "Tā bā yuè lái.",
+    "en": "She's coming in August."
+   },
+   {
+    "zh": "这个月天气很好。",
+    "pinyin": "Zhège yuè tiānqì hěn hǎo.",
+    "en": "The weather is nice this month."
+   },
+   {
+    "zh": "下个月我们回家。",
+    "pinyin": "Xià ge yuè wǒmen huí jiā.",
+    "en": "We're going home next month."
+   }
+  ]
+ },
+ {
+  "id": "w138",
+  "hanzi": "再见",
+  "pinyin": "zàijiàn",
+  "meaning": "goodbye",
+  "partOfSpeech": "phrase",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "再见！",
+    "pinyin": "Zàijiàn!",
+    "en": "Goodbye!"
+   },
+   {
+    "zh": "明天见，再见。",
+    "pinyin": "Míngtiān jiàn, zàijiàn.",
+    "en": "See you tomorrow, goodbye."
+   },
+   {
+    "zh": "她说了再见。",
+    "pinyin": "Tā shuō le zàijiàn.",
+    "en": "She said goodbye."
+   },
+   {
+    "zh": "我们明天再见。",
+    "pinyin": "Wǒmen míngtiān zàijiàn.",
+    "en": "See you tomorrow."
+   },
+   {
+    "zh": "老师，再见！",
+    "pinyin": "Lǎoshī, zàijiàn!",
+    "en": "Goodbye, teacher!"
+   }
+  ]
+ },
+ {
+  "id": "w139",
+  "hanzi": "在",
+  "pinyin": "zài",
+  "meaning": "at; to be located",
+  "partOfSpeech": "preposition",
+  "level": 1,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我在家。",
+    "pinyin": "Wǒ zài jiā.",
+    "en": "I am at home."
+   },
+   {
+    "zh": "她在学校。",
+    "pinyin": "Tā zài xuéxiào.",
+    "en": "She is at school."
+   },
+   {
+    "zh": "猫在桌子上。",
+    "pinyin": "Māo zài zhuōzi shàng.",
+    "en": "The cat is on the table."
+   },
+   {
+    "zh": "你在哪儿？",
+    "pinyin": "Nǐ zài nǎr?",
+    "en": "Where are you?"
+   },
+   {
+    "zh": "我在看书。",
+    "pinyin": "Wǒ zài kàn shū.",
+    "en": "I am reading a book."
+   }
+  ]
+ },
+ {
+  "id": "w140",
+  "hanzi": "怎么",
+  "pinyin": "zěnme",
+  "meaning": "how",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "en": "How do you write this character?"
+   },
+   {
+    "zh": "你怎么去学校？",
+    "pinyin": "Nǐ zěnme qù xuéxiào?",
+    "en": "How do you go to school?"
+   },
+   {
+    "zh": "这个怎么说？",
+    "pinyin": "Zhège zěnme shuō?",
+    "en": "How do you say this?"
+   },
+   {
+    "zh": "你怎么了？",
+    "pinyin": "Nǐ zěnme le?",
+    "en": "What's wrong with you?"
+   },
+   {
+    "zh": "她怎么没来？",
+    "pinyin": "Tā zěnme méi lái?",
+    "en": "How come she didn't come?"
+   }
+  ]
+ },
+ {
+  "id": "w141",
+  "hanzi": "怎么样",
+  "pinyin": "zěnmeyàng",
+  "meaning": "how about; how is it",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Question words",
+  "examples": [
+   {
+    "zh": "今天天气怎么样？",
+    "pinyin": "Jīntiān tiānqì zěnmeyàng?",
+    "en": "How's the weather today?"
+   },
+   {
+    "zh": "这个怎么样？",
+    "pinyin": "Zhège zěnmeyàng?",
+    "en": "How about this one?"
+   },
+   {
+    "zh": "你现在怎么样？",
+    "pinyin": "Nǐ xiànzài zěnmeyàng?",
+    "en": "How are you doing now?"
+   },
+   {
+    "zh": "这本书怎么样？",
+    "pinyin": "Zhè běn shū zěnmeyàng?",
+    "en": "How is this book?"
+   },
+   {
+    "zh": "我们去看电影，怎么样？",
+    "pinyin": "Wǒmen qù kàn diànyǐng, zěnmeyàng?",
+    "en": "Let's go watch a movie, how about it?"
+   }
+  ]
+ },
+ {
+  "id": "w142",
+  "hanzi": "这",
+  "pinyin": "zhè",
+  "meaning": "this",
+  "partOfSpeech": "pronoun",
+  "level": 1,
+  "category": "Pronouns",
+  "examples": [
+   {
+    "zh": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "en": "This is my book."
+   },
+   {
+    "zh": "这个很好。",
+    "pinyin": "Zhège hěn hǎo.",
+    "en": "This one is good."
+   },
+   {
+    "zh": "这是谁的猫？",
+    "pinyin": "Zhè shì shéi de māo?",
+    "en": "Whose cat is this?"
+   },
+   {
+    "zh": "这本书不是我的。",
+    "pinyin": "Zhè běn shū bú shì wǒ de.",
+    "en": "This book isn't mine."
+   },
+   {
+    "zh": "这些是什么？",
+    "pinyin": "Zhèxiē shì shénme?",
+    "en": "What are these?"
+   }
+  ]
+ },
+ {
+  "id": "w143",
+  "hanzi": "中国",
+  "pinyin": "Zhōngguó",
+  "meaning": "China",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我是中国人。",
+    "pinyin": "Wǒ shì Zhōngguó rén.",
+    "en": "I am Chinese."
+   },
+   {
+    "zh": "北京是中国的。",
+    "pinyin": "Běijīng shì Zhōngguó de.",
+    "en": "Beijing belongs to China."
+   },
+   {
+    "zh": "她想去中国。",
+    "pinyin": "Tā xiǎng qù Zhōngguó.",
+    "en": "She wants to go to China."
+   },
+   {
+    "zh": "中国人喜欢喝茶。",
+    "pinyin": "Zhōngguó rén xǐhuan hē chá.",
+    "en": "Chinese people like drinking tea."
+   },
+   {
+    "zh": "我在中国工作。",
+    "pinyin": "Wǒ zài Zhōngguó gōngzuò.",
+    "en": "I work in China."
+   }
+  ]
+ },
+ {
+  "id": "w144",
+  "hanzi": "中午",
+  "pinyin": "zhōngwǔ",
+  "meaning": "noon",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我们中午吃饭。",
+    "pinyin": "Wǒmen zhōngwǔ chī fàn.",
+    "en": "We eat at noon."
+   },
+   {
+    "zh": "中午十二点了。",
+    "pinyin": "Zhōngwǔ shí'èr diǎn le.",
+    "en": "It's noon now."
+   },
+   {
+    "zh": "她中午回家。",
+    "pinyin": "Tā zhōngwǔ huí jiā.",
+    "en": "She goes home at noon."
+   },
+   {
+    "zh": "今天中午天气很热。",
+    "pinyin": "Jīntiān zhōngwǔ tiānqì hěn rè.",
+    "en": "It's hot at noon today."
+   },
+   {
+    "zh": "中午你在哪儿？",
+    "pinyin": "Zhōngwǔ nǐ zài nǎr?",
+    "en": "Where are you at noon?"
+   }
+  ]
+ },
+ {
+  "id": "w145",
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "meaning": "to live; to reside",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我住在北京。",
+    "pinyin": "Wǒ zhù zài Běijīng.",
+    "en": "I live in Beijing."
+   },
+   {
+    "zh": "你住在哪儿？",
+    "pinyin": "Nǐ zhù zài nǎr?",
+    "en": "Where do you live?"
+   },
+   {
+    "zh": "她住在学校。",
+    "pinyin": "Tā zhù zài xuéxiào.",
+    "en": "She lives at the school."
+   },
+   {
+    "zh": "我们都住在这儿。",
+    "pinyin": "Wǒmen dōu zhù zài zhèr.",
+    "en": "We all live here."
+   },
+   {
+    "zh": "他住在这儿。",
+    "pinyin": "Tā zhù zài zhèr.",
+    "en": "He lives here."
+   }
+  ]
+ },
+ {
+  "id": "w146",
+  "hanzi": "桌子",
+  "pinyin": "zhuōzi",
+  "meaning": "table; desk",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "书在桌子上。",
+    "pinyin": "Shū zài zhuōzi shàng.",
+    "en": "The book is on the table."
+   },
+   {
+    "zh": "这个桌子很大。",
+    "pinyin": "Zhège zhuōzi hěn dà.",
+    "en": "This table is big."
+   },
+   {
+    "zh": "猫在桌子下。",
+    "pinyin": "Māo zài zhuōzi xià.",
+    "en": "The cat is under the table."
+   },
+   {
+    "zh": "这是谁的桌子？",
+    "pinyin": "Zhè shì shéi de zhuōzi?",
+    "en": "Whose table is this?"
+   },
+   {
+    "zh": "桌子上有杯子。",
+    "pinyin": "Zhuōzi shàng yǒu bēizi.",
+    "en": "There is a cup on the table."
+   }
+  ]
+ },
+ {
+  "id": "w147",
+  "hanzi": "字",
+  "pinyin": "zì",
+  "meaning": "character; letter",
+  "partOfSpeech": "noun",
+  "level": 1,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "我在写字。",
+    "pinyin": "Wǒ zài xiě zì.",
+    "en": "I'm writing characters."
+   },
+   {
+    "zh": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "en": "How do you write this character?"
+   },
+   {
+    "zh": "她认识很多字。",
+    "pinyin": "Tā rènshi hěn duō zì.",
+    "en": "She knows many characters."
+   },
+   {
+    "zh": "这本书的字很小。",
+    "pinyin": "Zhè běn shū de zì hěn xiǎo.",
+    "en": "This book's characters are small."
+   },
+   {
+    "zh": "我不认识这个字。",
+    "pinyin": "Wǒ bú rènshi zhège zì.",
+    "en": "I don't know this character."
+   }
+  ]
+ },
+ {
+  "id": "w148",
+  "hanzi": "昨天",
+  "pinyin": "zuótiān",
+  "meaning": "yesterday",
+  "partOfSpeech": "time word",
+  "level": 1,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "昨天我在家。",
+    "pinyin": "Zuótiān wǒ zài jiā.",
+    "en": "I was home yesterday."
+   },
+   {
+    "zh": "昨天天气很冷。",
+    "pinyin": "Zuótiān tiānqì hěn lěng.",
+    "en": "It was cold yesterday."
+   },
+   {
+    "zh": "她昨天来了。",
+    "pinyin": "Tā zuótiān lái le.",
+    "en": "She came yesterday."
+   },
+   {
+    "zh": "昨天你去哪儿了？",
+    "pinyin": "Zuótiān nǐ qù nǎr le?",
+    "en": "Where did you go yesterday?"
+   },
+   {
+    "zh": "我昨天没工作。",
+    "pinyin": "Wǒ zuótiān méi gōngzuò.",
+    "en": "I didn't work yesterday."
+   }
+  ]
+ },
+ {
+  "id": "w149",
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "meaning": "to sit",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请坐。",
+    "pinyin": "Qǐng zuò.",
+    "en": "Please sit."
+   },
+   {
+    "zh": "她坐在椅子上。",
+    "pinyin": "Tā zuò zài yǐzi shàng.",
+    "en": "She sits on the chair."
+   },
+   {
+    "zh": "我坐出租车去。",
+    "pinyin": "Wǒ zuò chūzūchē qù.",
+    "en": "I take a taxi there."
+   },
+   {
+    "zh": "我们坐飞机去北京。",
+    "pinyin": "Wǒmen zuò fēijī qù Běijīng.",
+    "en": "We take a plane to Beijing."
+   },
+   {
+    "zh": "你坐这儿。",
+    "pinyin": "Nǐ zuò zhèr.",
+    "en": "You sit here."
+   }
+  ]
+ },
+ {
+  "id": "w150",
+  "hanzi": "做",
+  "pinyin": "zuò",
+  "meaning": "to do; to make",
+  "partOfSpeech": "verb",
+  "level": 1,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "你在做什么？",
+    "pinyin": "Nǐ zài zuò shénme?",
+    "en": "What are you doing?"
+   },
+   {
+    "zh": "妈妈做菜。",
+    "pinyin": "Māma zuò cài.",
+    "en": "Mom cooks."
+   },
+   {
+    "zh": "她做的菜很好吃。",
+    "pinyin": "Tā zuò de cài hěn hǎochī.",
+    "en": "The food she makes is delicious."
+   },
+   {
+    "zh": "我做了三个杯子。",
+    "pinyin": "Wǒ zuò le sān ge bēizi.",
+    "en": "I made three cups."
+   },
+   {
+    "zh": "他不做饭。",
+    "pinyin": "Tā bú zuò fàn.",
+    "en": "He doesn't cook."
+   }
+  ]
+ }
 ]

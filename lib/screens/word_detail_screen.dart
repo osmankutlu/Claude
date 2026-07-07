@@ -39,28 +39,33 @@ class WordDetailScreen extends StatelessWidget {
           _InfoRow(label: 'HSK Seviyesi', value: word.level.toString()),
           _InfoRow(label: 'Kategori', value: word.category),
           const SizedBox(height: 16),
-          Card(
-            child: Padding(
-              padding: const EdgeInsets.all(16),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Row(
-                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    children: [
-                      const Text('Örnek Cümle', style: TextStyle(fontWeight: FontWeight.bold)),
-                      IconButton(
-                        icon: const Icon(Icons.volume_up),
-                        onPressed: () => tts.speak(word.exampleZh),
+          Text('Örnek Cümleler', style: Theme.of(context).textTheme.titleMedium),
+          const SizedBox(height: 8),
+          ...word.examples.map(
+            (ex) => Card(
+              margin: const EdgeInsets.only(bottom: 12),
+              child: Padding(
+                padding: const EdgeInsets.all(16),
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(ex.zh, style: const TextStyle(fontSize: 20)),
+                          const SizedBox(height: 4),
+                          Text(ex.pinyin, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
+                          const SizedBox(height: 4),
+                          Text(ex.en, style: const TextStyle(fontStyle: FontStyle.italic)),
+                        ],
                       ),
-                    ],
-                  ),
-                  Text(word.exampleZh, style: const TextStyle(fontSize: 20)),
-                  const SizedBox(height: 4),
-                  Text(word.examplePinyin, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
-                  const SizedBox(height: 4),
-                  Text(word.exampleEn, style: const TextStyle(fontStyle: FontStyle.italic)),
-                ],
+                    ),
+                    IconButton(
+                      icon: const Icon(Icons.volume_up),
+                      onPressed: () => tts.speak(ex.zh),
+                    ),
+                  ],
+                ),
               ),
             ),
           ),

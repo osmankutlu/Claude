@@ -196,10 +196,12 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
           Text(word.pinyin, style: const TextStyle(fontSize: 20, color: Colors.grey)),
           const SizedBox(height: 12),
           Text(word.meaning, style: const TextStyle(fontSize: 22)),
-          const SizedBox(height: 16),
-          Text(word.exampleZh, textAlign: TextAlign.center),
-          Text(word.examplePinyin, style: const TextStyle(color: Colors.grey), textAlign: TextAlign.center),
-          Text(word.exampleEn, style: const TextStyle(fontStyle: FontStyle.italic), textAlign: TextAlign.center),
+          if (word.examples.isNotEmpty) ...[
+            const SizedBox(height: 16),
+            Text(word.examples.first.zh, textAlign: TextAlign.center),
+            Text(word.examples.first.pinyin, style: const TextStyle(color: Colors.grey), textAlign: TextAlign.center),
+            Text(word.examples.first.en, style: const TextStyle(fontStyle: FontStyle.italic), textAlign: TextAlign.center),
+          ],
         ],
       ),
     );

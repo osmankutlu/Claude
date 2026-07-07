@@ -23929,12 +23929,1813 @@
    },
    {
     "zh": "你会弹钢琴吗？",
-    "pinyin": "Nǐ huì tán gāngqín ma?","en": "Can you play the piano?"
+    "pinyin": "Nǐ huì tán gāngqín ma?",
+    "en": "Can you play the piano?"
    },
    {
     "zh": "他每天弹一个小时钢琴。",
     "pinyin": "Tā měitiān tán yí ge xiǎoshí gāngqín.",
     "en": "He plays piano for an hour every day."
+   }
+  ]
+ },
+ {
+  "id": "w666",
+  "hanzi": "当",
+  "pinyin": "dāng",
+  "meaning": "to serve as; to be",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "她想当医生。",
+    "pinyin": "Tā xiǎng dāng yīshēng.",
+    "en": "She wants to be a doctor."
+   },
+   {
+    "zh": "他当了老师。",
+    "pinyin": "Tā dāng le lǎoshī.",
+    "en": "He became a teacher."
+   },
+   {
+    "zh": "我当过学生代表。",
+    "pinyin": "Wǒ dāngguò xuésheng dàibiǎo.",
+    "en": "I was once a student representative."
+   },
+   {
+    "zh": "她想当一名作家。",
+    "pinyin": "Tā xiǎng dāng yì míng zuòjiā.",
+    "en": "She wants to be a writer."
+   },
+   {
+    "zh": "他当了十年经理。",
+    "pinyin": "Tā dāng le shí nián jīnglǐ.",
+    "en": "He's been a manager for ten years."
+   }
+  ]
+ },
+ {
+  "id": "w667",
+  "hanzi": "当地",
+  "pinyin": "dāngdì",
+  "meaning": "local",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "我们尝了当地的菜。",
+    "pinyin": "Wǒmen cháng le dāngdì de cài.",
+    "en": "We tried the local food."
+   },
+   {
+    "zh": "这是当地的习惯。",
+    "pinyin": "Zhè shì dāngdì de xíguàn.",
+    "en": "This is a local custom."
+   },
+   {
+    "zh": "当地人很友好。",
+    "pinyin": "Dāngdì rén hěn yǒuhǎo.",
+    "en": "The local people are friendly."
+   },
+   {
+    "zh": "我们请了一位当地导游。",
+    "pinyin": "Wǒmen qǐng le yí wèi dāngdì dǎoyóu.",
+    "en": "We hired a local tour guide."
+   },
+   {
+    "zh": "这是当地最有名的饭馆。",
+    "pinyin": "Zhè shì dāngdì zuì yǒumíng de fànguǎn.",
+    "en": "This is the most famous local restaurant."
+   }
+  ]
+ },
+ {
+  "id": "w668",
+  "hanzi": "当时",
+  "pinyin": "dāngshí",
+  "meaning": "at that time",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "当时我还是学生。",
+    "pinyin": "Dāngshí wǒ hái shì xuésheng.",
+    "en": "At that time, I was still a student."
+   },
+   {
+    "zh": "当时的天气很冷。",
+    "pinyin": "Dāngshí de tiānqì hěn lěng.",
+    "en": "The weather was cold at that time."
+   },
+   {
+    "zh": "当时我没听懂。",
+    "pinyin": "Dāngshí wǒ méi tīngdǒng.",
+    "en": "I didn't understand at that time."
+   },
+   {
+    "zh": "当时她住在北京。",
+    "pinyin": "Dāngshí tā zhù zài Běijīng.",
+    "en": "She lived in Beijing at that time."
+   },
+   {
+    "zh": "我当时很吃惊。",
+    "pinyin": "Wǒ dāngshí hěn chījīng.",
+    "en": "I was very surprised at that time."
+   }
+  ]
+ },
+ {
+  "id": "w669",
+  "hanzi": "刀",
+  "pinyin": "dāo",
+  "meaning": "knife",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "请把刀给我。",
+    "pinyin": "Qǐng bǎ dāo gěi wǒ.",
+    "en": "Please pass me the knife."
+   },
+   {
+    "zh": "这把刀很快。",
+    "pinyin": "Zhè bǎ dāo hěn kuài.",
+    "en": "This knife is sharp."
+   },
+   {
+    "zh": "她用刀切菜。",
+    "pinyin": "Tā yòng dāo qiē cài.",
+    "en": "She cuts vegetables with a knife."
+   },
+   {
+    "zh": "小心这把刀。",
+    "pinyin": "Xiǎoxīn zhè bǎ dāo.",
+    "en": "Be careful with this knife."
+   },
+   {
+    "zh": "厨房里有很多刀。",
+    "pinyin": "Chúfáng lǐ yǒu hěn duō dāo.",
+    "en": "There are many knives in the kitchen."
+   }
+  ]
+ },
+ {
+  "id": "w670",
+  "hanzi": "导游",
+  "pinyin": "dǎoyóu",
+  "meaning": "tour guide",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Travel",
+  "examples": [
+   {
+    "zh": "她是我们的导游。",
+    "pinyin": "Tā shì wǒmen de dǎoyóu.",
+    "en": "She's our tour guide."
+   },
+   {
+    "zh": "导游带我们去了长城。",
+    "pinyin": "Dǎoyóu dài wǒmen qù le Chángchéng.",
+    "en": "The tour guide took us to the Great Wall."
+   },
+   {
+    "zh": "我们请了一位导游。",
+    "pinyin": "Wǒmen qǐng le yí wèi dǎoyóu.",
+    "en": "We hired a tour guide."
+   },
+   {
+    "zh": "这个导游很有经验。",
+    "pinyin": "Zhège dǎoyóu hěn yǒu jīngyàn.",
+    "en": "This tour guide is very experienced."
+   },
+   {
+    "zh": "导游给我们介绍了这个地方。",
+    "pinyin": "Dǎoyóu gěi wǒmen jièshào le zhège dìfang.",
+    "en": "The tour guide introduced this place to us."
+   }
+  ]
+ },
+ {
+  "id": "w671",
+  "hanzi": "到处",
+  "pinyin": "dàochù",
+  "meaning": "everywhere",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "到处都是人。",
+    "pinyin": "Dàochù dōu shì rén.",
+    "en": "There are people everywhere."
+   },
+   {
+    "zh": "我到处找你。",
+    "pinyin": "Wǒ dàochù zhǎo nǐ.",
+    "en": "I looked for you everywhere."
+   },
+   {
+    "zh": "她到处旅游。",
+    "pinyin": "Tā dàochù lǚyóu.",
+    "en": "She travels everywhere."
+   },
+   {
+    "zh": "到处都能看见花。",
+    "pinyin": "Dàochù dōu néng kànjiàn huā.",
+    "en": "You can see flowers everywhere."
+   },
+   {
+    "zh": "孩子把玩具到处放。",
+    "pinyin": "Háizi bǎ wánjù dàochù fàng.",
+    "en": "The child put toys everywhere."
+   }
+  ]
+ },
+ {
+  "id": "w672",
+  "hanzi": "到底",
+  "pinyin": "dàodǐ",
+  "meaning": "after all; in the end",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "你到底想说什么？",
+    "pinyin": "Nǐ dàodǐ xiǎng shuō shénme?",
+    "en": "What exactly do you want to say?"
+   },
+   {
+    "zh": "这到底是怎么回事？",
+    "pinyin": "Zhè dàodǐ shì zěnme huí shì?",
+    "en": "What's actually going on here?"
+   },
+   {
+    "zh": "你到底去不去？",
+    "pinyin": "Nǐ dàodǐ qù bu qù?",
+    "en": "Are you going or not?"
+   },
+   {
+    "zh": "到底是谁做的？",
+    "pinyin": "Dàodǐ shì shéi zuò de?",
+    "en": "Who exactly did this?"
+   },
+   {
+    "zh": "她到底同意了没有？",
+    "pinyin": "Tā dàodǐ tóngyì le méiyǒu?",
+    "en": "Did she actually agree or not?"
+   }
+  ]
+ },
+ {
+  "id": "w673",
+  "hanzi": "道歉",
+  "pinyin": "dàoqiàn",
+  "meaning": "to apologize",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我向你道歉。",
+    "pinyin": "Wǒ xiàng nǐ dàoqiàn.",
+    "en": "I apologize to you."
+   },
+   {
+    "zh": "她跟我道歉了。",
+    "pinyin": "Tā gēn wǒ dàoqiàn le.",
+    "en": "She apologized to me."
+   },
+   {
+    "zh": "你应该道歉。",
+    "pinyin": "Nǐ yīnggāi dàoqiàn.",
+    "en": "You should apologize."
+   },
+   {
+    "zh": "他没有道歉。",
+    "pinyin": "Tā méiyǒu dàoqiàn.",
+    "en": "He didn't apologize."
+   },
+   {
+    "zh": "我为这件事情道歉。",
+    "pinyin": "Wǒ wèi zhè jiàn shìqing dàoqiàn.",
+    "en": "I apologize for this matter."
+   }
+  ]
+ },
+ {
+  "id": "w674",
+  "hanzi": "地球",
+  "pinyin": "dìqiú",
+  "meaning": "Earth; globe",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "地球是圆的。",
+    "pinyin": "Dìqiú shì yuán de.",
+    "en": "The Earth is round."
+   },
+   {
+    "zh": "我们要保护地球。",
+    "pinyin": "Wǒmen yào bǎohù dìqiú.",
+    "en": "We need to protect the Earth."
+   },
+   {
+    "zh": "地球上有很多国家。",
+    "pinyin": "Dìqiú shàng yǒu hěn duō guójiā.",
+    "en": "There are many countries on Earth."
+   },
+   {
+    "zh": "这是关于地球的书。",
+    "pinyin": "Zhè shì guānyú dìqiú de shū.",
+    "en": "This is a book about Earth."
+   },
+   {
+    "zh": "地球在变暖。",
+    "pinyin": "Dìqiú zài biànnuǎn.",
+    "en": "The Earth is warming."
+   }
+  ]
+ },
+ {
+  "id": "w675",
+  "hanzi": "地址",
+  "pinyin": "dìzhǐ",
+  "meaning": "address",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "请告诉我你的地址。",
+    "pinyin": "Qǐng gàosu wǒ nǐ de dìzhǐ.",
+    "en": "Please tell me your address."
+   },
+   {
+    "zh": "这是我的地址。",
+    "pinyin": "Zhè shì wǒ de dìzhǐ.",
+    "en": "This is my address."
+   },
+   {
+    "zh": "你能写下地址吗？",
+    "pinyin": "Nǐ néng xiěxià dìzhǐ ma?",
+    "en": "Can you write down the address?"
+   },
+   {
+    "zh": "我不知道她的地址。",
+    "pinyin": "Wǒ bù zhīdào tā de dìzhǐ.",
+    "en": "I don't know her address."
+   },
+   {
+    "zh": "请把地址发给我。",
+    "pinyin": "Qǐng bǎ dìzhǐ fā gěi wǒ.",
+    "en": "Please send me the address."
+   }
+  ]
+ },
+ {
+  "id": "w676",
+  "hanzi": "得意",
+  "pinyin": "déyì",
+  "meaning": "proud of oneself; pleased",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "她看起来很得意。",
+    "pinyin": "Tā kàn qǐlái hěn déyì.",
+    "en": "She looks very pleased with herself."
+   },
+   {
+    "zh": "他为自己的成绩感到得意。",
+    "pinyin": "Tā wèi zìjǐ de chéngjì gǎndào déyì.",
+    "en": "He's proud of his own achievement."
+   },
+   {
+    "zh": "你别得意得太早。",
+    "pinyin": "Nǐ bié déyì de tài zǎo.",
+    "en": "Don't be too pleased with yourself too soon."
+   },
+   {
+    "zh": "她笑得很得意。",
+    "pinyin": "Tā xiào de hěn déyì.",
+    "en": "She smiled proudly."
+   },
+   {
+    "zh": "他得意地说了这句话。",
+    "pinyin": "Tā déyì de shuō le zhè jù huà.",
+    "en": "He said this sentence proudly."
+   }
+  ]
+ },
+ {
+  "id": "w677",
+  "hanzi": "等",
+  "pinyin": "děng",
+  "meaning": "to wait",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请等一下。",
+    "pinyin": "Qǐng děng yíxià.",
+    "en": "Please wait a moment."
+   },
+   {
+    "zh": "我在等你。",
+    "pinyin": "Wǒ zài děng nǐ.",
+    "en": "I'm waiting for you."
+   },
+   {
+    "zh": "她等了我一个小时。",
+    "pinyin": "Tā děng le wǒ yí ge xiǎoshí.",
+    "en": "She waited for me for an hour."
+   },
+   {
+    "zh": "你能等等我吗？",
+    "pinyin": "Nǐ néng děngdeng wǒ ma?",
+    "en": "Can you wait for me a bit?"
+   },
+   {
+    "zh": "我们在车站等她。",
+    "pinyin": "Wǒmen zài chēzhàn děng tā.",
+    "en": "We're waiting for her at the station."
+   }
+  ]
+ },
+ {
+  "id": "w678",
+  "hanzi": "底",
+  "pinyin": "dǐ",
+  "meaning": "bottom; end",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "东西在箱子底。",
+    "pinyin": "Dōngxi zài xiāngzi dǐ.",
+    "en": "The thing is at the bottom of the box."
+   },
+   {
+    "zh": "我们月底见面。",
+    "pinyin": "Wǒmen yuèdǐ jiànmiàn.",
+    "en": "We'll meet at the end of the month."
+   },
+   {
+    "zh": "她把书放在桌子底下。",
+    "pinyin": "Tā bǎ shū fàng zài zhuōzi dǐxia.",
+    "en": "She put the book under the table."
+   },
+   {
+    "zh": "这是今年年底的计划。",
+    "pinyin": "Zhè shì jīnnián niándǐ de jìhuà.",
+    "en": "This is the plan for the end of this year."
+   },
+   {
+    "zh": "杯子底有一点水。",
+    "pinyin": "Bēizi dǐ yǒu yìdiǎn shuǐ.",
+    "en": "There's a bit of water at the bottom of the cup."
+   }
+  ]
+ },
+ {
+  "id": "w679",
+  "hanzi": "调查",
+  "pinyin": "diàochá",
+  "meaning": "to investigate; survey",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我们做了一个调查。",
+    "pinyin": "Wǒmen zuò le yí ge diàochá.",
+    "en": "We did a survey."
+   },
+   {
+    "zh": "警察在调查这件事情。",
+    "pinyin": "Jǐngchá zài diàochá zhè jiàn shìqing.",
+    "en": "The police are investigating this matter."
+   },
+   {
+    "zh": "这个调查很有意思。",
+    "pinyin": "Zhège diàochá hěn yǒu yìsi.",
+    "en": "This survey is interesting."
+   },
+   {
+    "zh": "他们调查了这个问题。",
+    "pinyin": "Tāmen diàochá le zhège wèntí.",
+    "en": "They investigated this issue."
+   },
+   {
+    "zh": "调查结果还没出来。",
+    "pinyin": "Diàochá jiéguǒ hái méi chūlái.",
+    "en": "The survey results aren't out yet."
+   }
+  ]
+ },
+ {
+  "id": "w680",
+  "hanzi": "掉",
+  "pinyin": "diào",
+  "meaning": "to fall; to drop",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我的手机掉了。",
+    "pinyin": "Wǒ de shǒujī diào le.",
+    "en": "My phone fell."
+   },
+   {
+    "zh": "树叶掉下来了。",
+    "pinyin": "Shùyè diào xiàlái le.",
+    "en": "The leaves fell down."
+   },
+   {
+    "zh": "她的钱包掉了。",
+    "pinyin": "Tā de qiánbāo diào le.",
+    "en": "Her wallet fell out."
+   },
+   {
+    "zh": "小心，别把杯子掉了。",
+    "pinyin": "Xiǎoxīn, bié bǎ bēizi diào le.",
+    "en": "Be careful, don't drop the cup."
+   },
+   {
+    "zh": "苹果从树上掉下来了。",
+    "pinyin": "Píngguǒ cóng shù shàng diào xiàlái le.",
+    "en": "The apple fell from the tree."
+   }
+  ]
+ },
+ {
+  "id": "w681",
+  "hanzi": "丢",
+  "pinyin": "diū",
+  "meaning": "to lose; to throw away",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我把钥匙丢了。",
+    "pinyin": "Wǒ bǎ yàoshi diū le.",
+    "en": "I lost my keys."
+   },
+   {
+    "zh": "她丢了钱包。",
+    "pinyin": "Tā diū le qiánbāo.",
+    "en": "She lost her wallet."
+   },
+   {
+    "zh": "请把垃圾丢掉。",
+    "pinyin": "Qǐng bǎ lājī diūdiào.",
+    "en": "Please throw away the trash."
+   },
+   {
+    "zh": "我的手机丢了。",
+    "pinyin": "Wǒ de shǒujī diū le.",
+    "en": "I lost my phone."
+   },
+   {
+    "zh": "她把旧衣服丢了。",
+    "pinyin": "Tā bǎ jiù yīfu diū le.",
+    "en": "She threw away her old clothes."
+   }
+  ]
+ },
+ {
+  "id": "w682",
+  "hanzi": "动作",
+  "pinyin": "dòngzuò",
+  "meaning": "movement; action",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这个动作很难。",
+    "pinyin": "Zhège dòngzuò hěn nán.",
+    "en": "This movement is difficult."
+   },
+   {
+    "zh": "请注意她的动作。",
+    "pinyin": "Qǐng zhùyì tā de dòngzuò.",
+    "en": "Please pay attention to her movements."
+   },
+   {
+    "zh": "他的动作很快。",
+    "pinyin": "Tā de dòngzuò hěn kuài.",
+    "en": "His movements are fast."
+   },
+   {
+    "zh": "请做这个动作。",
+    "pinyin": "Qǐng zuò zhège dòngzuò.",
+    "en": "Please do this movement."
+   },
+   {
+    "zh": "她的动作很标准。",
+    "pinyin": "Tā de dòngzuò hěn biāozhǔn.",
+    "en": "Her movements are very standard."
+   }
+  ]
+ },
+ {
+  "id": "w683",
+  "hanzi": "堵车",
+  "pinyin": "dǔchē",
+  "meaning": "traffic jam",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Transportation",
+  "examples": [
+   {
+    "zh": "今天堵车堵得很厉害。",
+    "pinyin": "Jīntiān dǔchē dǔ de hěn lìhai.",
+    "en": "Traffic is really bad today."
+   },
+   {
+    "zh": "路上堵车了。",
+    "pinyin": "Lù shàng dǔchē le.",
+    "en": "There's a traffic jam on the road."
+   },
+   {
+    "zh": "因为堵车，我迟到了。",
+    "pinyin": "Yīnwèi dǔchē, wǒ chídào le.",
+    "en": "I was late because of traffic."
+   },
+   {
+    "zh": "这个城市经常堵车。",
+    "pinyin": "Zhège chéngshì jīngcháng dǔchē.",
+    "en": "This city often has traffic jams."
+   },
+   {
+    "zh": "早上上班的时候容易堵车。",
+    "pinyin": "Zǎoshang shàngbān de shíhou róngyì dǔchē.",
+    "en": "It's easy to have traffic jams during the morning commute."
+   }
+  ]
+ },
+ {
+  "id": "w684",
+  "hanzi": "肚子",
+  "pinyin": "dùzi",
+  "meaning": "stomach; belly",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Health",
+  "examples": [
+   {
+    "zh": "我肚子疼。",
+    "pinyin": "Wǒ dùzi téng.",
+    "en": "My stomach hurts."
+   },
+   {
+    "zh": "她肚子饿了。",
+    "pinyin": "Tā dùzi è le.",
+    "en": "She's hungry."
+   },
+   {
+    "zh": "我吃了太多，肚子很饱。",
+    "pinyin": "Wǒ chī le tài duō, dùzi hěn bǎo.",
+    "en": "I ate too much, my stomach is very full."
+   },
+   {
+    "zh": "孩子肚子不舒服。",
+    "pinyin": "Háizi dùzi bù shūfu.",
+    "en": "The child's stomach doesn't feel well."
+   },
+   {
+    "zh": "他的肚子越来越大了。",
+    "pinyin": "Tā de dùzi yuèláiyuè dà le.",
+    "en": "His belly is getting bigger and bigger."
+   }
+  ]
+ },
+ {
+  "id": "w685",
+  "hanzi": "断",
+  "pinyin": "duàn",
+  "meaning": "to break (off)",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "铅笔断了。",
+    "pinyin": "Qiānbǐ duàn le.",
+    "en": "The pencil broke."
+   },
+   {
+    "zh": "她的腿断了。",
+    "pinyin": "Tā de tuǐ duàn le.",
+    "en": "Her leg broke."
+   },
+   {
+    "zh": "桌子腿断了。",
+    "pinyin": "Zhuōzi tuǐ duàn le.",
+    "en": "The table leg broke."
+   },
+   {
+    "zh": "这根筷子断了。",
+    "pinyin": "Zhè gēn kuàizi duàn le.",
+    "en": "This chopstick broke."
+   },
+   {
+    "zh": "伞断了。",
+    "pinyin": "Sǎn duàn le.",
+    "en": "The umbrella broke."
+   }
+  ]
+ },
+ {
+  "id": "w686",
+  "hanzi": "对",
+  "pinyin": "duì",
+  "meaning": "correct; toward",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "你说得对。",
+    "pinyin": "Nǐ shuō de duì.",
+    "en": "What you said is right."
+   },
+   {
+    "zh": "这个答案不对。",
+    "pinyin": "Zhège dá'àn bú duì.",
+    "en": "This answer isn't correct."
+   },
+   {
+    "zh": "她对我很好。",
+    "pinyin": "Tā duì wǒ hěn hǎo.",
+    "en": "She's very good to me."
+   },
+   {
+    "zh": "这个方法对不对？",
+    "pinyin": "Zhège fāngfǎ duì bu duì?",
+    "en": "Is this method correct?"
+   },
+   {
+    "zh": "对，就是这样。",
+    "pinyin": "Duì, jiùshì zhèyàng.",
+    "en": "Right, that's exactly it."
+   }
+  ]
+ },
+ {
+  "id": "w687",
+  "hanzi": "对话",
+  "pinyin": "duìhuà",
+  "meaning": "dialogue",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "请听这段对话。",
+    "pinyin": "Qǐng tīng zhè duàn duìhuà.",
+    "en": "Please listen to this dialogue."
+   },
+   {
+    "zh": "这个对话很有意思。",
+    "pinyin": "Zhège duìhuà hěn yǒu yìsi.",
+    "en": "This dialogue is interesting."
+   },
+   {
+    "zh": "我们需要更多对话。",
+    "pinyin": "Wǒmen xūyào gèng duō duìhuà.",
+    "en": "We need more dialogue."
+   },
+   {
+    "zh": "请读一下这个对话。",
+    "pinyin": "Qǐng dú yíxià zhège duìhuà.",
+    "en": "Please read this dialogue."
+   },
+   {
+    "zh": "他们进行了一次对话。",
+    "pinyin": "Tāmen jìnxíng le yí cì duìhuà.",
+    "en": "They had a conversation."
+   }
+  ]
+ },
+ {
+  "id": "w688",
+  "hanzi": "对面",
+  "pinyin": "duìmiàn",
+  "meaning": "opposite side",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Places",
+  "examples": [
+   {
+    "zh": "银行在学校对面。",
+    "pinyin": "Yínháng zài xuéxiào duìmiàn.",
+    "en": "The bank is across from the school."
+   },
+   {
+    "zh": "她住在我家对面。",
+    "pinyin": "Tā zhù zài wǒ jiā duìmiàn.",
+    "en": "She lives across from my house."
+   },
+   {
+    "zh": "商店就在对面。",
+    "pinyin": "Shāngdiàn jiù zài duìmiàn.",
+    "en": "The store is right across the street."
+   },
+   {
+    "zh": "他坐在我对面。",
+    "pinyin": "Tā zuò zài wǒ duìmiàn.",
+    "en": "He's sitting across from me."
+   },
+   {
+    "zh": "公园在医院对面。",
+    "pinyin": "Gōngyuán zài yīyuàn duìmiàn.",
+    "en": "The park is across from the hospital."
+   }
+  ]
+ },
+ {
+  "id": "w689",
+  "hanzi": "顿",
+  "pinyin": "dùn",
+  "meaning": "measure word (for meals)",
+  "partOfSpeech": "measure word",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我们一天吃三顿饭。",
+    "pinyin": "Wǒmen yì tiān chī sān dùn fàn.",
+    "en": "We eat three meals a day."
+   },
+   {
+    "zh": "她请我吃了一顿饭。",
+    "pinyin": "Tā qǐng wǒ chī le yí dùn fàn.",
+    "en": "She treated me to a meal."
+   },
+   {
+    "zh": "这顿饭很好吃。",
+    "pinyin": "Zhè dùn fàn hěn hǎochī.",
+    "en": "This meal was delicious."
+   },
+   {
+    "zh": "晚上这顿饭我们一起吃。",
+    "pinyin": "Wǎnshang zhè dùn fàn wǒmen yìqǐ chī.",
+    "en": "We'll eat this evening meal together."
+   },
+   {
+    "zh": "今天这顿饭是我做的。",
+    "pinyin": "Jīntiān zhè dùn fàn shì wǒ zuò de.",
+    "en": "I made today's meal."
+   }
+  ]
+ },
+ {
+  "id": "w690",
+  "hanzi": "朵",
+  "pinyin": "duǒ",
+  "meaning": "measure word (for flowers)",
+  "partOfSpeech": "measure word",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她买了一朵花。",
+    "pinyin": "Tā mǎi le yì duǒ huā.",
+    "en": "She bought a flower."
+   },
+   {
+    "zh": "桌子上有两朵花。",
+    "pinyin": "Zhuōzi shàng yǒu liǎng duǒ huā.",
+    "en": "There are two flowers on the table."
+   },
+   {
+    "zh": "这朵花很漂亮。",
+    "pinyin": "Zhè duǒ huā hěn piàoliang.",
+    "en": "This flower is pretty."
+   },
+   {
+    "zh": "她送了我一朵花。",
+    "pinyin": "Tā sòng le wǒ yì duǒ huā.",
+    "en": "She gave me a flower."
+   },
+   {
+    "zh": "公园里有很多朵花。",
+    "pinyin": "Gōngyuán lǐ yǒu hěn duō duǒ huā.",
+    "en": "There are many flowers in the park."
+   }
+  ]
+ },
+ {
+  "id": "w691",
+  "hanzi": "儿童",
+  "pinyin": "értóng",
+  "meaning": "children",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "People",
+  "examples": [
+   {
+    "zh": "这是儿童医院。",
+    "pinyin": "Zhè shì értóng yīyuàn.",
+    "en": "This is a children's hospital."
+   },
+   {
+    "zh": "这本书是给儿童看的。",
+    "pinyin": "Zhè běn shū shì gěi értóng kàn de.",
+    "en": "This book is for children to read."
+   },
+   {
+    "zh": "公园里有很多儿童。",
+    "pinyin": "Gōngyuán lǐ yǒu hěn duō értóng.",
+    "en": "There are many children in the park."
+   },
+   {
+    "zh": "儿童应该多运动。",
+    "pinyin": "Értóng yīnggāi duō yùndòng.",
+    "en": "Children should exercise more."
+   },
+   {
+    "zh": "这是一部儿童电影。",
+    "pinyin": "Zhè shì yí bù értóng diànyǐng.",
+    "en": "This is a children's movie."
+   }
+  ]
+ },
+ {
+  "id": "w692",
+  "hanzi": "而",
+  "pinyin": "ér",
+  "meaning": "and; but (formal)",
+  "partOfSpeech": "conjunction",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她聪明而努力。",
+    "pinyin": "Tā cōngming ér nǔlì.",
+    "en": "She's smart and hardworking."
+   },
+   {
+    "zh": "这个方法简单而有用。",
+    "pinyin": "Zhège fāngfǎ jiǎndān ér yǒuyòng.",
+    "en": "This method is simple yet useful."
+   },
+   {
+    "zh": "这是一个安静而美丽的城市。",
+    "pinyin": "Zhè shì yí ge ānjìng ér měilì de chéngshì.",
+    "en": "This is an ancient and beautiful city."
+   },
+   {
+    "zh": "她努力学习，而不是玩游戏。",
+    "pinyin": "Tā nǔlì xuéxí, ér búshì wán yóuxì.",
+    "en": "She studies hard, rather than playing games."
+   },
+   {
+    "zh": "这个房间大而安静。",
+    "pinyin": "Zhège fángjiān dà ér ānjìng.",
+    "en": "This room is big and quiet."
+   }
+  ]
+ },
+ {
+  "id": "w693",
+  "hanzi": "发",
+  "pinyin": "fā",
+  "meaning": "to send; to issue",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请把文件发给我。",
+    "pinyin": "Qǐng bǎ wénjiàn fā gěi wǒ.",
+    "en": "Please send the document to me."
+   },
+   {
+    "zh": "她发了一条短信。",
+    "pinyin": "Tā fā le yì tiáo duǎnxìn.",
+    "en": "She sent a text message."
+   },
+   {
+    "zh": "老师给我们发了通知。",
+    "pinyin": "Lǎoshī gěi wǒmen fā le tōngzhī.",
+    "en": "The teacher sent us a notice."
+   },
+   {
+    "zh": "老师给我们发了书。",
+    "pinyin": "Lǎoshī gěi wǒmen fā le shū.",
+    "en": "The teacher handed out books to us."
+   },
+   {
+    "zh": "公司下个月发工资。",
+    "pinyin": "Gōngsī xià ge yuè fā gōngzī.",
+    "en": "The company will pay wages next month."
+   }
+  ]
+ },
+ {
+  "id": "w694",
+  "hanzi": "发生",
+  "pinyin": "fāshēng",
+  "meaning": "to happen",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "发生了什么事情？",
+    "pinyin": "Fāshēng le shénme shìqing?",
+    "en": "What happened?"
+   },
+   {
+    "zh": "这件事情发生在去年。",
+    "pinyin": "Zhè jiàn shìqing fāshēng zài qùnián.",
+    "en": "This matter happened last year."
+   },
+   {
+    "zh": "事故发生了。",
+    "pinyin": "Shìgù fāshēng le.",
+    "en": "An accident happened."
+   },
+   {
+    "zh": "这种事情经常发生。",
+    "pinyin": "Zhè zhǒng shìqing jīngcháng fāshēng.",
+    "en": "This kind of thing happens often."
+   },
+   {
+    "zh": "没有发生什么问题。",
+    "pinyin": "Méiyǒu fāshēng shénme wèntí.",
+    "en": "Nothing went wrong."
+   }
+  ]
+ },
+ {
+  "id": "w695",
+  "hanzi": "发展",
+  "pinyin": "fāzhǎn",
+  "meaning": "to develop",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "这个城市发展得很快。",
+    "pinyin": "Zhège chéngshì fāzhǎn de hěn kuài.",
+    "en": "This city is developing quickly."
+   },
+   {
+    "zh": "公司发展得很好。",
+    "pinyin": "Gōngsī fāzhǎn de hěn hǎo.",
+    "en": "The company is developing well."
+   },
+   {
+    "zh": "我们需要发展经济。",
+    "pinyin": "Wǒmen xūyào fāzhǎn jīngjì.",
+    "en": "We need to develop the economy."
+   },
+   {
+    "zh": "这个国家发展很快。",
+    "pinyin": "Zhège guójiā fāzhǎn hěn kuài.",
+    "en": "This country is developing quickly."
+   },
+   {
+    "zh": "她的事业发展得不错。",
+    "pinyin": "Tā de shìyè fāzhǎn de búcuò.",
+    "en": "Her career is developing well."
+   }
+  ]
+ },
+ {
+  "id": "w696",
+  "hanzi": "法律",
+  "pinyin": "fǎlǜ",
+  "meaning": "law",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这样做不合法律。",
+    "pinyin": "Zhèyàng zuò bù hé fǎlǜ.",
+    "en": "This is against the law."
+   },
+   {
+    "zh": "她学习法律。",
+    "pinyin": "Tā xuéxí fǎlǜ.",
+    "en": "She studies law."
+   },
+   {
+    "zh": "我们要按照法律做事。",
+    "pinyin": "Wǒmen yào ànzhào fǎlǜ zuòshì.",
+    "en": "We need to obey the law."
+   },
+   {
+    "zh": "这个法律很重要。",
+    "pinyin": "Zhège fǎlǜ hěn zhòngyào.",
+    "en": "This law is important."
+   },
+   {
+    "zh": "他是一位法律专家。",
+    "pinyin": "Tā shì yí wèi fǎlǜ zhuānjiā.",
+    "en": "He's a legal expert."
+   }
+  ]
+ },
+ {
+  "id": "w697",
+  "hanzi": "翻译",
+  "pinyin": "fānyì",
+  "meaning": "to translate; translator",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请帮我翻译这句话。",
+    "pinyin": "Qǐng bāng wǒ fānyì zhè jù huà.",
+    "en": "Please help me translate this sentence."
+   },
+   {
+    "zh": "她是一名翻译。",
+    "pinyin": "Tā shì yì míng fānyì.",
+    "en": "She's a translator."
+   },
+   {
+    "zh": "这本书被翻译成了中文。",
+    "pinyin": "Zhè běn shū bèi fānyì chéng le Zhōngwén.",
+    "en": "This book was translated into Chinese."
+   },
+   {
+    "zh": "我不会翻译这个词。",
+    "pinyin": "Wǒ bú huì fānyì zhège cí.",
+    "en": "I can't translate this word."
+   },
+   {
+    "zh": "她请我帮忙翻译这篇文章。",
+    "pinyin": "Tā qǐng wǒ bāngmáng fānyì zhè piān wénzhāng.",
+    "en": "She asked me to help translate this article."
+   }
+  ]
+ },
+ {
+  "id": "w698",
+  "hanzi": "烦恼",
+  "pinyin": "fánnǎo",
+  "meaning": "worried; troubled",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "她看起来很烦恼。",
+    "pinyin": "Tā kàn qǐlái hěn fánnǎo.",
+    "en": "She looks troubled."
+   },
+   {
+    "zh": "这件事情让我很烦恼。",
+    "pinyin": "Zhè jiàn shìqing ràng wǒ hěn fánnǎo.",
+    "en": "This matter troubles me a lot."
+   },
+   {
+    "zh": "我最近有点儿烦恼。",
+    "pinyin": "Wǒ zuìjìn yǒudiǎnr fánnǎo.",
+    "en": "I've been a bit troubled recently."
+   },
+   {
+    "zh": "她有很多烦恼。",
+    "pinyin": "Tā yǒu hěn duō fánnǎo.",
+    "en": "She has a lot of worries."
+   },
+   {
+    "zh": "别烦恼了，会没事的。",
+    "pinyin": "Bié fánnǎo le, huì méishì de.",
+    "en": "Don't worry, it'll be fine."
+   }
+  ]
+ },
+ {
+  "id": "w699",
+  "hanzi": "反对",
+  "pinyin": "fǎnduì",
+  "meaning": "to oppose",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我反对这个计划。",
+    "pinyin": "Wǒ fǎnduì zhège jìhuà.",
+    "en": "I oppose this plan."
+   },
+   {
+    "zh": "她反对我的意见。",
+    "pinyin": "Tā fǎnduì wǒ de yìjiàn.",
+    "en": "She opposes my opinion."
+   },
+   {
+    "zh": "大家都反对这个决定。",
+    "pinyin": "Dàjiā dōu fǎnduì zhège juédìng.",
+    "en": "Everyone opposes this decision."
+   },
+   {
+    "zh": "她父母反对她出国。",
+    "pinyin": "Tā fùmǔ fǎnduì tā chūguó.",
+    "en": "Her parents oppose her going abroad."
+   },
+   {
+    "zh": "没有人反对。",
+    "pinyin": "Méiyǒu rén fǎnduì.",
+    "en": "No one objects."
+   }
+  ]
+ },
+ {
+  "id": "w700",
+  "hanzi": "反映",
+  "pinyin": "fǎnyìng",
+  "meaning": "to reflect; to report",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "这个问题反映了很多情况。",
+    "pinyin": "Zhège wèntí fǎnyìng le hěn duō qíngkuàng.",
+    "en": "This issue reflects a lot of the situation."
+   },
+   {
+    "zh": "她向经理反映了这个问题。",
+    "pinyin": "Tā xiàng jīnglǐ fǎnyìng le zhège wèntí.",
+    "en": "She reported this issue to the manager."
+   },
+   {
+    "zh": "这部电影反映了当时的社会。",
+    "pinyin": "Zhè bù diànyǐng fǎnyìng le dāngshí de shèhuì.",
+    "en": "This movie reflects the society of that time."
+   },
+   {
+    "zh": "这些数字反映了公司的发展。",
+    "pinyin": "Zhèxiē shùzì fǎnyìng le gōngsī de fāzhǎn.",
+    "en": "These numbers reflect the company's development."
+   },
+   {
+    "zh": "请把情况反映给老师。",
+    "pinyin": "Qǐng bǎ qíngkuàng fǎnyìng gěi lǎoshī.",
+    "en": "Please report the situation to the teacher."
+   }
+  ]
+ },
+ {
+  "id": "w701",
+  "hanzi": "范围",
+  "pinyin": "fànwéi",
+  "meaning": "range; scope",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这不在我的工作范围内。",
+    "pinyin": "Zhè bú zài wǒ de gōngzuò fànwéi nèi.",
+    "en": "This isn't within my scope of work."
+   },
+   {
+    "zh": "考试范围很大。",
+    "pinyin": "Kǎoshì fànwéi hěn dà.",
+    "en": "The exam scope is broad."
+   },
+   {
+    "zh": "请在这个范围内选择。",
+    "pinyin": "Qǐng zài zhège fànwéi nèi xuǎnzé.",
+    "en": "Please choose within this range."
+   },
+   {
+    "zh": "这个价格范围我能接受。",
+    "pinyin": "Zhège jiàgé fànwéi wǒ néng jiēshòu.",
+    "en": "I can accept this price range."
+   },
+   {
+    "zh": "这超过了我们的范围。",
+    "pinyin": "Zhè chāoguò le wǒmen de fànwéi.",
+    "en": "This exceeds our scope."
+   }
+  ]
+ },
+ {
+  "id": "w702",
+  "hanzi": "方法",
+  "pinyin": "fāngfǎ",
+  "meaning": "method",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这个方法很好。",
+    "pinyin": "Zhège fāngfǎ hěn hǎo.",
+    "en": "This method is good."
+   },
+   {
+    "zh": "你用什么方法学习中文？",
+    "pinyin": "Nǐ yòng shénme fāngfǎ xuéxí Zhōngwén?",
+    "en": "What method do you use to study Chinese?"
+   },
+   {
+    "zh": "我有一个好方法。",
+    "pinyin": "Wǒ yǒu yí ge hǎo fāngfǎ.",
+    "en": "I have a good method."
+   },
+   {
+    "zh": "这个方法不适合我。",
+    "pinyin": "Zhège fāngfǎ bú shìhé wǒ.",
+    "en": "This method doesn't suit me."
+   },
+   {
+    "zh": "她用这个方法解决了问题。",
+    "pinyin": "Tā yòng zhège fāngfǎ jiějué le wèntí.",
+    "en": "She solved the problem using this method."
+   }
+  ]
+ },
+ {
+  "id": "w703",
+  "hanzi": "方面",
+  "pinyin": "fāngmiàn",
+  "meaning": "aspect",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "在这方面，她做得很好。",
+    "pinyin": "Zài zhè fāngmiàn, tā zuò de hěn hǎo.",
+    "en": "In this aspect, she's doing well."
+   },
+   {
+    "zh": "这方面我不太了解。",
+    "pinyin": "Zhè fāngmiàn wǒ bú tài liǎojiě.",
+    "en": "I don't understand this aspect very well."
+   },
+   {
+    "zh": "从很多方面来看，这是对的。",
+    "pinyin": "Cóng hěn duō fāngmiàn lái kàn, zhè shì duì de.",
+    "en": "Looking at it from many aspects, this is correct."
+   },
+   {
+    "zh": "这两方面都很重要。",
+    "pinyin": "Zhè liǎng fāngmiàn dōu hěn zhòngyào.",
+    "en": "Both aspects are important."
+   },
+   {
+    "zh": "在工作方面，他很努力。",
+    "pinyin": "Zài gōngzuò fāngmiàn, tā hěn nǔlì.",
+    "en": "In terms of work, he's very hardworking."
+   }
+  ]
+ },
+ {
+  "id": "w704",
+  "hanzi": "方向",
+  "pinyin": "fāngxiàng",
+  "meaning": "direction",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "我找不到方向了。",
+    "pinyin": "Wǒ zhǎo bu dào fāngxiàng le.",
+    "en": "I can't find the direction."
+   },
+   {
+    "zh": "你走错方向了。",
+    "pinyin": "Nǐ zǒu cuò fāngxiàng le.",
+    "en": "You're going the wrong direction."
+   },
+   {
+    "zh": "这是去车站的方向。",
+    "pinyin": "Zhè shì qù chēzhàn de fāngxiàng.",
+    "en": "This is the direction to the station."
+   },
+   {
+    "zh": "她指了指方向。",
+    "pinyin": "Tā zhǐ le zhǐ fāngxiàng.",
+    "en": "She pointed out the direction."
+   },
+   {
+    "zh": "我们的方向是对的。",
+    "pinyin": "Wǒmen de fāngxiàng shì duì de.",
+    "en": "Our direction is correct."
+   }
+  ]
+ },
+ {
+  "id": "w705",
+  "hanzi": "访问",
+  "pinyin": "fǎngwèn",
+  "meaning": "to visit (formal)",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "他来中国访问。",
+    "pinyin": "Tā lái Zhōngguó fǎngwèn.",
+    "en": "He came to China on a visit."
+   },
+   {
+    "zh": "她访问了很多国家。",
+    "pinyin": "Tā fǎngwèn le hěn duō guójiā.",
+    "en": "She has visited many countries."
+   },
+   {
+    "zh": "欢迎你来我们学校访问。",
+    "pinyin": "Huānyíng nǐ lái wǒmen xuéxiào fǎngwèn.",
+    "en": "Welcome to visit our school."
+   },
+   {
+    "zh": "这是他第一次访问中国。",
+    "pinyin": "Zhè shì tā dì yī cì fǎngwèn Zhōngguó.",
+    "en": "This is his first visit to China."
+   },
+   {
+    "zh": "记者访问了这位专家。",
+    "pinyin": "Jìzhě fǎngwèn le zhè wèi zhuānjiā.",
+    "en": "The reporter interviewed this expert."
+   }
+  ]
+ },
+ {
+  "id": "w706",
+  "hanzi": "放弃",
+  "pinyin": "fàngqì",
+  "meaning": "to give up",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "不要放弃。",
+    "pinyin": "Bú yào fàngqì.",
+    "en": "Don't give up."
+   },
+   {
+    "zh": "她放弃了这个工作。",
+    "pinyin": "Tā fàngqì le zhège gōngzuò.",
+    "en": "She gave up this job."
+   },
+   {
+    "zh": "我不会放弃的。",
+    "pinyin": "Wǒ bú huì fàngqì de.",
+    "en": "I won't give up."
+   },
+   {
+    "zh": "他放弃了学习钢琴。",
+    "pinyin": "Tā fàngqì le xuéxí gāngqín.",
+    "en": "He gave up learning piano."
+   },
+   {
+    "zh": "她差点儿放弃了。",
+    "pinyin": "Tā chàdiǎnr fàngqì le.",
+    "en": "She almost gave up."
+   }
+  ]
+ },
+ {
+  "id": "w707",
+  "hanzi": "放暑假",
+  "pinyin": "fàng shǔjià",
+  "meaning": "to have summer vacation",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我们下个星期放暑假。",
+    "pinyin": "Wǒmen xià ge xīngqī fàng shǔjià.",
+    "en": "We start summer vacation next week."
+   },
+   {
+    "zh": "孩子们都放暑假了。",
+    "pinyin": "Háizimen dōu fàng shǔjià le.",
+    "en": "The children are all on summer vacation."
+   },
+   {
+    "zh": "放暑假的时候你打算做什么？",
+    "pinyin": "Fàng shǔjià de shíhou nǐ dǎsuàn zuò shénme?",
+    "en": "What do you plan to do during summer vacation?"
+   },
+   {
+    "zh": "学校七月放暑假。",
+    "pinyin": "Xuéxiào qīyuè fàng shǔjià.",
+    "en": "The school starts summer vacation in July."
+   },
+   {
+    "zh": "我很喜欢放暑假。",
+    "pinyin": "Wǒ hěn xǐhuan fàng shǔjià.",
+    "en": "I really like summer vacation."
+   }
+  ]
+ },
+ {
+  "id": "w708",
+  "hanzi": "分之",
+  "pinyin": "fēnzhī",
+  "meaning": "(fraction marker)",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Numbers",
+  "examples": [
+   {
+    "zh": "三分之一的学生同意了。",
+    "pinyin": "Sān fēnzhī yī de xuésheng tóngyì le.",
+    "en": "One third of the students agreed."
+   },
+   {
+    "zh": "这是二分之一。",
+    "pinyin": "Zhè shì èr fēnzhī yī.",
+    "en": "This is one half."
+   },
+   {
+    "zh": "百分之五十的人喜欢这个。",
+    "pinyin": "Bǎi fēnzhī wǔshí de rén xǐhuan zhège.",
+    "en": "Fifty percent of people like this."
+   },
+   {
+    "zh": "四分之三的工作已经完成了。",
+    "pinyin": "Sì fēnzhī sān de gōngzuò yǐjīng wánchéng le.",
+    "en": "Three quarters of the work is done."
+   },
+   {
+    "zh": "十分之一的学生没来。",
+    "pinyin": "Shí fēnzhī yī de xuésheng méi lái.",
+    "en": "One tenth of the students didn't come."
+   }
+  ]
+ },
+ {
+  "id": "w709",
+  "hanzi": "份",
+  "pinyin": "fèn",
+  "meaning": "measure word (for portions/copies)",
+  "partOfSpeech": "measure word",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "请给我一份报纸。",
+    "pinyin": "Qǐng gěi wǒ yí fèn bàozhǐ.",
+    "en": "Please give me a copy of the newspaper."
+   },
+   {
+    "zh": "她要了一份米饭。",
+    "pinyin": "Tā yào le yí fèn mǐfàn.",
+    "en": "She ordered a portion of fried rice."
+   },
+   {
+    "zh": "这是给你的一份礼物。",
+    "pinyin": "Zhè shì gěi nǐ de yí fèn lǐwù.",
+    "en": "This is a gift for you."
+   },
+   {
+    "zh": "我打印了三份文件。",
+    "pinyin": "Wǒ dǎyìn le sān fèn wénjiàn.",
+    "en": "I printed three copies of the document."
+   },
+   {
+    "zh": "她找到了一份好工作。",
+    "pinyin": "Tā zhǎodào le yí fèn hǎo gōngzuò.",
+    "en": "She found a good job."
+   }
+  ]
+ },
+ {
+  "id": "w710",
+  "hanzi": "丰富",
+  "pinyin": "fēngfù",
+  "meaning": "rich; abundant",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "她的经验很丰富。",
+    "pinyin": "Tā de jīngyàn hěn fēngfù.",
+    "en": "Her experience is rich."
+   },
+   {
+    "zh": "这个国家的历史很丰富。",
+    "pinyin": "Zhège guójiā de lìshǐ hěn fēngfù.",
+    "en": "This country's history is rich."
+   },
+   {
+    "zh": "这里的食物很丰富。",
+    "pinyin": "Zhèlǐ de shíwù hěn fēngfù.",
+    "en": "The food here is abundant."
+   },
+   {
+    "zh": "他的知识很丰富。",
+    "pinyin": "Tā de zhīshi hěn fēngfù.",
+    "en": "His knowledge is rich."
+   },
+   {
+    "zh": "这本书的内容很丰富。",
+    "pinyin": "Zhè běn shū de nèiróng hěn fēngfù.",
+    "en": "This book's content is rich."
+   }
+  ]
+ },
+ {
+  "id": "w711",
+  "hanzi": "风景",
+  "pinyin": "fēngjǐng",
+  "meaning": "scenery",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Nature",
+  "examples": [
+   {
+    "zh": "这里的风景很美。",
+    "pinyin": "Zhèlǐ de fēngjǐng hěn měi.",
+    "en": "The scenery here is beautiful."
+   },
+   {
+    "zh": "我喜欢看风景照片。",
+    "pinyin": "Wǒ xǐhuan kàn fēngjǐng zhàopiàn.",
+    "en": "I like looking at scenery photos."
+   },
+   {
+    "zh": "这个地方的风景很有名。",
+    "pinyin": "Zhège dìfang de fēngjǐng hěn yǒumíng.",
+    "en": "This place's scenery is famous."
+   },
+   {
+    "zh": "我们来看风景吧。",
+    "pinyin": "Wǒmen lái kàn fēngjǐng ba.",
+    "en": "Let's go look at the scenery."
+   },
+   {
+    "zh": "山上的风景真美。",
+    "pinyin": "Shān shàng de fēngjǐng zhēn měi.",
+    "en": "The scenery on the mountain is really beautiful."
+   }
+  ]
+ },
+ {
+  "id": "w712",
+  "hanzi": "否则",
+  "pinyin": "fǒuzé",
+  "meaning": "otherwise",
+  "partOfSpeech": "conjunction",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "快点儿，否则我们要迟到了。",
+    "pinyin": "Kuài diǎnr, fǒuzé wǒmen yào chídào le.",
+    "en": "Hurry up, otherwise we'll be late."
+   },
+   {
+    "zh": "你要努力学习，否则考不上大学。",
+    "pinyin": "Nǐ yào nǔlì xuéxí, fǒuzé kǎo bu shàng dàxué.",
+    "en": "You need to study hard, otherwise you won't get into university."
+   },
+   {
+    "zh": "请安静，否则我们不能上课。",
+    "pinyin": "Qǐng ānjìng, fǒuzé wǒmen bù néng shàngkè.",
+    "en": "Please be quiet, otherwise we can't have class."
+   },
+   {
+    "zh": "你得马上出发，否则会堵车。",
+    "pinyin": "Nǐ děi mǎshàng chūfā, fǒuzé huì dǔchē.",
+    "en": "You have to leave right away, otherwise there'll be traffic."
+   },
+   {
+    "zh": "我们得按时到，否则老师会生气。",
+    "pinyin": "Wǒmen děi ànshí dào, fǒuzé lǎoshī huì shēngqì.",
+    "en": "We have to arrive on time, otherwise the teacher will be angry."
+   }
+  ]
+ },
+ {
+  "id": "w713",
+  "hanzi": "符合",
+  "pinyin": "fúhé",
+  "meaning": "to conform to; to meet",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "这个符合我们的要求。",
+    "pinyin": "Zhège fúhé wǒmen de yāoqiú.",
+    "en": "This meets our requirements."
+   },
+   {
+    "zh": "她的想法符合大家的意见。",
+    "pinyin": "Tā de xiǎngfǎ fúhé dàjiā de yìjiàn.",
+    "en": "Her idea aligns with everyone's opinion."
+   },
+   {
+    "zh": "这不符合规定。",
+    "pinyin": "Zhè bù fúhé guīdìng.",
+    "en": "This doesn't conform to the rules."
+   },
+   {
+    "zh": "这个答案符合标准。",
+    "pinyin": "Zhège dá'àn fúhé biāozhǔn.",
+    "en": "This answer meets the standard."
+   },
+   {
+    "zh": "这份工作符合我的专业。",
+    "pinyin": "Zhè fèn gōngzuò fúhé wǒ de zhuānyè.",
+    "en": "This job matches my major."
+   }
+  ]
+ },
+ {
+  "id": "w714",
+  "hanzi": "父亲",
+  "pinyin": "fùqīn",
+  "meaning": "father",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Family",
+  "examples": [
+   {
+    "zh": "我父亲是医生。",
+    "pinyin": "Wǒ fùqīn shì yīshēng.",
+    "en": "My father is a doctor."
+   },
+   {
+    "zh": "她父亲工作很忙。",
+    "pinyin": "Tā fùqīn gōngzuò hěn máng.",
+    "en": "Her father is very busy with work."
+   },
+   {
+    "zh": "这是我父亲的车。",
+    "pinyin": "Zhè shì wǒ fùqīn de chē.",
+    "en": "This is my father's car."
+   },
+   {
+    "zh": "我父亲喜欢看书。",
+    "pinyin": "Wǒ fùqīn xǐhuan kàn shū.",
+    "en": "My father likes reading."
+   },
+   {
+    "zh": "她的父亲是老师。",
+    "pinyin": "Tā de fùqīn shì lǎoshī.",
+    "en": "Her father is a teacher."
+   }
+  ]
+ },
+ {
+  "id": "w715",
+  "hanzi": "负责",
+  "pinyin": "fùzé",
+  "meaning": "to be responsible for",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Work",
+  "examples": [
+   {
+    "zh": "她负责这件事情。",
+    "pinyin": "Tā fùzé zhè jiàn shìqing.",
+    "en": "She's responsible for this matter."
+   },
+   {
+    "zh": "我负责这方面的工作。",
+    "pinyin": "Wǒ fùzé zhè fāngmiàn de gōngzuò.",
+    "en": "I'm responsible for this area of work."
+   },
+   {
+    "zh": "他很负责。",
+    "pinyin": "Tā hěn fùzé.",
+    "en": "He's very responsible."
+   },
+   {
+    "zh": "这件事情谁负责？",
+    "pinyin": "Zhè jiàn shìqing shéi fùzé?",
+    "en": "Who's responsible for this matter?"
+   },
+   {
+    "zh": "她负责照顾这些孩子。",
+    "pinyin": "Tā fùzé zhàogù zhèxiē háizi.",
+    "en": "She's responsible for taking care of these children."
    }
   ]
  }

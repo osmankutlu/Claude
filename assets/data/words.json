@@ -30238,5 +30238,905 @@
     "en": "Don't pity me."
    }
   ]
+ },
+ {
+  "id": "w841",
+  "hanzi": "可是",
+  "pinyin": "kěshì",
+  "meaning": "but",
+  "partOfSpeech": "conjunction",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我想去，可是没有时间。",
+    "pinyin": "Wǒ xiǎng qù, kěshì méiyǒu shíjiān.",
+    "en": "I want to go, but I don't have time."
+   },
+   {
+    "zh": "她很聪明，可是有点儿懒。",
+    "pinyin": "Tā hěn cōngming, kěshì yǒudiǎnr lǎn.",
+    "en": "She's smart, but a bit lazy."
+   },
+   {
+    "zh": "这个东西便宜，可是不好用。",
+    "pinyin": "Zhège dōngxi piányi, kěshì bù hǎoyòng.",
+    "en": "This thing is cheap, but not useful."
+   },
+   {
+    "zh": "天气很好，可是有点儿冷。",
+    "pinyin": "Tiānqì hěn hǎo, kěshì yǒudiǎnr lěng.",
+    "en": "The weather is nice, but a bit cold."
+   },
+   {
+    "zh": "她想休息，可是工作很多。",
+    "pinyin": "Tā xiǎng xiūxi, kěshì gōngzuò hěn duō.",
+    "en": "She wants to rest, but has a lot of work."
+   }
+  ]
+ },
+ {
+  "id": "w842",
+  "hanzi": "可惜",
+  "pinyin": "kěxī",
+  "meaning": "a pity",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "真可惜。",
+    "pinyin": "Zhēn kěxī.",
+    "en": "What a pity."
+   },
+   {
+    "zh": "可惜她没来。",
+    "pinyin": "Kěxī tā méi lái.",
+    "en": "It's a pity she didn't come."
+   },
+   {
+    "zh": "这么好的机会，太可惜了。",
+    "pinyin": "Zhème hǎo de jīhuì, tài kěxī le.",
+    "en": "Such a good opportunity, what a pity."
+   },
+   {
+    "zh": "可惜我们没有时间了。",
+    "pinyin": "Kěxī wǒmen méiyǒu shíjiān le.",
+    "en": "It's a pity we don't have time."
+   },
+   {
+    "zh": "可惜这次没有成功。",
+    "pinyin": "Kěxī zhè cì méiyǒu chénggōng.",
+    "en": "It's a pity this time wasn't successful."
+   }
+  ]
+ },
+ {
+  "id": "w843",
+  "hanzi": "肯定",
+  "pinyin": "kěndìng",
+  "meaning": "certain; definitely",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "她肯定会来。",
+    "pinyin": "Tā kěndìng huì lái.",
+    "en": "She'll definitely come."
+   },
+   {
+    "zh": "我肯定这是对的。",
+    "pinyin": "Wǒ kěndìng zhè shì duì de.",
+    "en": "I'm certain this is correct."
+   },
+   {
+    "zh": "他肯定不知道。",
+    "pinyin": "Tā kěndìng bù zhīdào.",
+    "en": "He definitely doesn't know."
+   },
+   {
+    "zh": "这肯定是真的。",
+    "pinyin": "Zhè kěndìng shì zhēn de.",
+    "en": "This is definitely true."
+   },
+   {
+    "zh": "我肯定她会成功。",
+    "pinyin": "Wǒ kěndìng tā huì chénggōng.",
+    "en": "I'm certain she'll succeed."
+   }
+  ]
+ },
+ {
+  "id": "w844",
+  "hanzi": "空气",
+  "pinyin": "kōngqì",
+  "meaning": "air",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Nature",
+  "examples": [
+   {
+    "zh": "这里的空气很好。",
+    "pinyin": "Zhèlǐ de kōngqì hěn hǎo.",
+    "en": "The air here is good."
+   },
+   {
+    "zh": "空气不太好。",
+    "pinyin": "Kōngqì bú tài hǎo.",
+    "en": "The air isn't very good."
+   },
+   {
+    "zh": "山上的空气很新鲜。",
+    "pinyin": "Shān shàng de kōngqì hěn xīnxiān.",
+    "en": "The air on the mountain is fresh."
+   },
+   {
+    "zh": "我们需要新鲜的空气。",
+    "pinyin": "Wǒmen xūyào xīnxiān de kōngqì.",
+    "en": "We need fresh air."
+   },
+   {
+    "zh": "城市的空气不太干净。",
+    "pinyin": "Chéngshì de kōngqì bú tài gānjìng.",
+    "en": "The city's air isn't very clean."
+   }
+  ]
+ },
+ {
+  "id": "w845",
+  "hanzi": "恐怕",
+  "pinyin": "kǒngpà",
+  "meaning": "I'm afraid that",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "恐怕她不会来了。",
+    "pinyin": "Kǒngpà tā bú huì lái le.",
+    "en": "I'm afraid she won't come."
+   },
+   {
+    "zh": "恐怕要下雨了。",
+    "pinyin": "Kǒngpà yào xiàyǔ le.",
+    "en": "I'm afraid it's going to rain."
+   },
+   {
+    "zh": "恐怕我不能帮你。",
+    "pinyin": "Kǒngpà wǒ bù néng bāng nǐ.",
+    "en": "I'm afraid I can't help you."
+   },
+   {
+    "zh": "恐怕时间不够了。",
+    "pinyin": "Kǒngpà shíjiān bú gòu le.",
+    "en": "I'm afraid there isn't enough time."
+   },
+   {
+    "zh": "恐怕她已经走了。",
+    "pinyin": "Kǒngpà tā yǐjīng zǒu le.",
+    "en": "I'm afraid she has already left."
+   }
+  ]
+ },
+ {
+  "id": "w846",
+  "hanzi": "苦",
+  "pinyin": "kǔ",
+  "meaning": "bitter",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这个药很苦。",
+    "pinyin": "Zhège yào hěn kǔ.",
+    "en": "This medicine is bitter."
+   },
+   {
+    "zh": "咖啡有点儿苦。",
+    "pinyin": "Kāfēi yǒudiǎnr kǔ.",
+    "en": "The coffee is a bit bitter."
+   },
+   {
+    "zh": "这个茶太苦了。",
+    "pinyin": "Zhège chá tài kǔ le.",
+    "en": "This tea is too bitter."
+   },
+   {
+    "zh": "这个瓜是苦的。",
+    "pinyin": "Zhège guā shì kǔ de.",
+    "en": "This melon is bitter."
+   },
+   {
+    "zh": "她的生活很苦。",
+    "pinyin": "Tā de shēnghuó hěn kǔ.",
+    "en": "Her life is bitter."
+   }
+  ]
+ },
+ {
+  "id": "w847",
+  "hanzi": "宽",
+  "pinyin": "kuān",
+  "meaning": "wide",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这条路很宽。",
+    "pinyin": "Zhè tiáo lù hěn kuān.",
+    "en": "This road is wide."
+   },
+   {
+    "zh": "这个房间很宽。",
+    "pinyin": "Zhège fángjiān hěn kuān.",
+    "en": "This room is wide."
+   },
+   {
+    "zh": "这条河很宽。",
+    "pinyin": "Zhè tiáo hé hěn kuān.",
+    "en": "This river is wide."
+   },
+   {
+    "zh": "这件衣服有点儿宽。",
+    "pinyin": "Zhè jiàn yīfu yǒudiǎnr kuān.",
+    "en": "This piece of clothing is a bit wide."
+   },
+   {
+    "zh": "这张桌子很宽。",
+    "pinyin": "Zhè zhāng zhuōzi hěn kuān.",
+    "en": "This table is wide."
+   }
+  ]
+ },
+ {
+  "id": "w848",
+  "hanzi": "困",
+  "pinyin": "kùn",
+  "meaning": "sleepy",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "我很困。",
+    "pinyin": "Wǒ hěn kùn.",
+    "en": "I'm sleepy."
+   },
+   {
+    "zh": "她看起来很困。",
+    "pinyin": "Tā kàn qǐlái hěn kùn.",
+    "en": "She looks sleepy."
+   },
+   {
+    "zh": "孩子困了，想睡觉。",
+    "pinyin": "Háizi kùn le, xiǎng shuìjiào.",
+    "en": "The child is sleepy and wants to sleep."
+   },
+   {
+    "zh": "我太困了，不能工作了。",
+    "pinyin": "Wǒ tài kùn le, bù néng gōngzuò le.",
+    "en": "I'm too sleepy, I can't work anymore."
+   },
+   {
+    "zh": "晚上不要喝咖啡，不然会不困。",
+    "pinyin": "Wǎnshang bú yào hē kāfēi, bùrán huì bú kùn.",
+    "en": "Don't drink coffee at night, otherwise you won't feel sleepy."
+   }
+  ]
+ },
+ {
+  "id": "w849",
+  "hanzi": "困难",
+  "pinyin": "kùnnan",
+  "meaning": "difficulty",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "我们遇到了困难。",
+    "pinyin": "Wǒmen yùdào le kùnnan.",
+    "en": "We encountered difficulty."
+   },
+   {
+    "zh": "这个问题很困难。",
+    "pinyin": "Zhège wèntí hěn kùnnan.",
+    "en": "This problem is difficult."
+   },
+   {
+    "zh": "她克服了很多困难。",
+    "pinyin": "Tā kèfú le hěn duō kùnnan.",
+    "en": "She overcame many difficulties."
+   },
+   {
+    "zh": "生活中会有困难。",
+    "pinyin": "Shēnghuó zhōng huì yǒu kùnnan.",
+    "en": "There will be difficulties in life."
+   },
+   {
+    "zh": "不要怕困难。",
+    "pinyin": "Bú yào pà kùnnan.",
+    "en": "Don't be afraid of difficulties."
+   }
+  ]
+ },
+ {
+  "id": "w850",
+  "hanzi": "扩大",
+  "pinyin": "kuòdà",
+  "meaning": "to expand",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "公司扩大了范围。",
+    "pinyin": "Gōngsī kuòdà le fànwéi.",
+    "en": "The company expanded its scope."
+   },
+   {
+    "zh": "我们要扩大市场。",
+    "pinyin": "Wǒmen yào kuòdà shìchǎng.",
+    "en": "We need to expand the market."
+   },
+   {
+    "zh": "这个城市扩大了很多。",
+    "pinyin": "Zhège chéngshì kuòdà le hěn duō.",
+    "en": "This city has expanded a lot."
+   },
+   {
+    "zh": "她扩大了自己的生意。",
+    "pinyin": "Tā kuòdà le zìjǐ de shēngyi.",
+    "en": "She expanded her own business."
+   },
+   {
+    "zh": "我们要扩大范围。",
+    "pinyin": "Wǒmen yào kuòdà fànwéi.",
+    "en": "We need to expand the scope."
+   }
+  ]
+ },
+ {
+  "id": "w851",
+  "hanzi": "垃圾桶",
+  "pinyin": "lājītǒng",
+  "meaning": "trash can",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "垃圾桶在哪儿？",
+    "pinyin": "Lājītǒng zài nǎr?",
+    "en": "Where's the trash can?"
+   },
+   {
+    "zh": "请把垃圾放进垃圾桶。",
+    "pinyin": "Qǐng bǎ lājī fàng jìn lājītǒng.",
+    "en": "Please put the trash into the trash can."
+   },
+   {
+    "zh": "垃圾桶满了。",
+    "pinyin": "Lājītǒng mǎn le.",
+    "en": "The trash can is full."
+   },
+   {
+    "zh": "这个垃圾桶很干净。",
+    "pinyin": "Zhège lājītǒng hěn gānjìng.",
+    "en": "This trash can is clean."
+   },
+   {
+    "zh": "厨房里有一个垃圾桶。",
+    "pinyin": "Chúfáng lǐ yǒu yí ge lājītǒng.",
+    "en": "There's a trash can in the kitchen."
+   }
+  ]
+ },
+ {
+  "id": "w852",
+  "hanzi": "拉",
+  "pinyin": "lā",
+  "meaning": "to pull",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请拉一下门。",
+    "pinyin": "Qǐng lā yíxià mén.",
+    "en": "Please pull the door."
+   },
+   {
+    "zh": "她拉着孩子的手。",
+    "pinyin": "Tā lā zhe háizi de shǒu.",
+    "en": "She's holding the child's hand."
+   },
+   {
+    "zh": "请拉开窗户。",
+    "pinyin": "Qǐng lā kāi chuānghu.",
+    "en": "Please pull open the window."
+   },
+   {
+    "zh": "他拉了拉我的衣服。",
+    "pinyin": "Tā lā le lā wǒ de yīfu.",
+    "en": "He tugged on my clothes."
+   },
+   {
+    "zh": "她把我拉到一边。",
+    "pinyin": "Tā bǎ wǒ lā dào yìbiān.",
+    "en": "She pulled me to one side."
+   }
+  ]
+ },
+ {
+  "id": "w853",
+  "hanzi": "辣",
+  "pinyin": "là",
+  "meaning": "spicy",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Food",
+  "examples": [
+   {
+    "zh": "这个菜很辣。",
+    "pinyin": "Zhège cài hěn là.",
+    "en": "This dish is spicy."
+   },
+   {
+    "zh": "我不能吃辣的。",
+    "pinyin": "Wǒ bù néng chī là de.",
+    "en": "I can't eat spicy food."
+   },
+   {
+    "zh": "她喜欢吃辣的东西。",
+    "pinyin": "Tā xǐhuan chī là de dōngxi.",
+    "en": "She likes eating spicy food."
+   },
+   {
+    "zh": "这个太辣了。",
+    "pinyin": "Zhège tài là le.",
+    "en": "This is too spicy."
+   },
+   {
+    "zh": "很多中国菜很辣。",
+    "pinyin": "Hěn duō Zhōngguó cài hěn là.",
+    "en": "A lot of Chinese food is spicy."
+   }
+  ]
+ },
+ {
+  "id": "w854",
+  "hanzi": "来不及",
+  "pinyin": "láibují",
+  "meaning": "not enough time",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我们来不及了。",
+    "pinyin": "Wǒmen láibují le.",
+    "en": "We're running out of time."
+   },
+   {
+    "zh": "来不及了，快点儿。",
+    "pinyin": "Láibují le, kuài diǎnr.",
+    "en": "There's no time, hurry up."
+   },
+   {
+    "zh": "我来不及吃早饭了。",
+    "pinyin": "Wǒ láibují chī zǎofàn le.",
+    "en": "I don't have time to eat breakfast."
+   },
+   {
+    "zh": "再不走就来不及了。",
+    "pinyin": "Zài bù zǒu jiù láibují le.",
+    "en": "If we don't leave now, we won't make it."
+   },
+   {
+    "zh": "她来不及准备了。",
+    "pinyin": "Tā láibují zhǔnbèi le.",
+    "en": "She doesn't have time to prepare."
+   }
+  ]
+ },
+ {
+  "id": "w855",
+  "hanzi": "来得及",
+  "pinyin": "láidejí",
+  "meaning": "there's still time",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "我们还来得及。",
+    "pinyin": "Wǒmen hái láidejí.",
+    "en": "We still have time."
+   },
+   {
+    "zh": "现在出发还来得及。",
+    "pinyin": "Xiànzài chūfā hái láidejí.",
+    "en": "If we leave now, there's still time."
+   },
+   {
+    "zh": "你来得及吗？",
+    "pinyin": "Nǐ láidejí ma?",
+    "en": "Do you have enough time?"
+   },
+   {
+    "zh": "应该来得及。",
+    "pinyin": "Yīnggāi láidejí.",
+    "en": "There should be enough time."
+   },
+   {
+    "zh": "快点儿走还来得及。",
+    "pinyin": "Kuài diǎnr zǒu hái láidejí.",
+    "en": "If we hurry, there's still time."
+   }
+  ]
+ },
+ {
+  "id": "w856",
+  "hanzi": "懒",
+  "pinyin": "lǎn",
+  "meaning": "lazy",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "他很懒。",
+    "pinyin": "Tā hěn lǎn.",
+    "en": "He's lazy."
+   },
+   {
+    "zh": "我今天有点儿懒。",
+    "pinyin": "Wǒ jīntiān yǒudiǎnr lǎn.",
+    "en": "I'm a bit lazy today."
+   },
+   {
+    "zh": "她不是懒的人。",
+    "pinyin": "Tā búshì lǎn de rén.",
+    "en": "She's not a lazy person."
+   },
+   {
+    "zh": "别那么懒。",
+    "pinyin": "Bié nàme lǎn.",
+    "en": "Don't be so lazy."
+   },
+   {
+    "zh": "这只猫很懒。",
+    "pinyin": "Zhè zhī māo hěn lǎn.",
+    "en": "This cat is lazy."
+   }
+  ]
+ },
+ {
+  "id": "w857",
+  "hanzi": "浪费",
+  "pinyin": "làngfèi",
+  "meaning": "to waste",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "不要浪费时间。",
+    "pinyin": "Bú yào làngfèi shíjiān.",
+    "en": "Don't waste time."
+   },
+   {
+    "zh": "她浪费了很多钱。",
+    "pinyin": "Tā làngfèi le hěn duō qián.",
+    "en": "She wasted a lot of money."
+   },
+   {
+    "zh": "这样做太浪费了。",
+    "pinyin": "Zhèyàng zuò tài làngfèi le.",
+    "en": "Doing this is too wasteful."
+   },
+   {
+    "zh": "我们不应该浪费食物。",
+    "pinyin": "Wǒmen bù yīnggāi làngfèi shíwù.",
+    "en": "We shouldn't waste food."
+   },
+   {
+    "zh": "这是浪费。",
+    "pinyin": "Zhè shì làngfèi.",
+    "en": "This is a waste."
+   }
+  ]
+ },
+ {
+  "id": "w858",
+  "hanzi": "浪漫",
+  "pinyin": "làngmàn",
+  "meaning": "romantic",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Adjectives",
+  "examples": [
+   {
+    "zh": "这个地方很浪漫。",
+    "pinyin": "Zhège dìfang hěn làngmàn.",
+    "en": "This place is romantic."
+   },
+   {
+    "zh": "她喜欢浪漫的故事。",
+    "pinyin": "Tā xǐhuan làngmàn de gùshi.",
+    "en": "She likes romantic stories."
+   },
+   {
+    "zh": "这是一个浪漫的晚上。",
+    "pinyin": "Zhè shì yí ge làngmàn de wǎnshang.",
+    "en": "This is a romantic evening."
+   },
+   {
+    "zh": "他很浪漫。",
+    "pinyin": "Tā hěn làngmàn.",
+    "en": "He's romantic."
+   },
+   {
+    "zh": "这部电影很浪漫。",
+    "pinyin": "Zhè bù diànyǐng hěn làngmàn.",
+    "en": "This movie is romantic."
+   }
+  ]
+ },
+ {
+  "id": "w859",
+  "hanzi": "老虎",
+  "pinyin": "lǎohǔ",
+  "meaning": "tiger",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Animals",
+  "examples": [
+   {
+    "zh": "我在动物园看到了老虎。",
+    "pinyin": "Wǒ zài dòngwùyuán kàndào le lǎohǔ.",
+    "en": "I saw a tiger at the zoo."
+   },
+   {
+    "zh": "老虎很大。",
+    "pinyin": "Lǎohǔ hěn dà.",
+    "en": "Tigers are big."
+   },
+   {
+    "zh": "这只老虎很厉害。",
+    "pinyin": "Zhè zhī lǎohǔ hěn lìhai.",
+    "en": "This tiger is fierce."
+   },
+   {
+    "zh": "孩子们喜欢看老虎。",
+    "pinyin": "Háizimen xǐhuan kàn lǎohǔ.",
+    "en": "Children like watching tigers."
+   },
+   {
+    "zh": "老虎是一种动物。",
+    "pinyin": "Lǎohǔ shì yì zhǒng dòngwù.",
+    "en": "The tiger is a kind of animal."
+   }
+  ]
+ },
+ {
+  "id": "w860",
+  "hanzi": "冷静",
+  "pinyin": "lěngjìng",
+  "meaning": "calm",
+  "partOfSpeech": "adjective",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "请冷静一下。",
+    "pinyin": "Qǐng lěngjìng yíxià.",
+    "en": "Please calm down."
+   },
+   {
+    "zh": "她很冷静。",
+    "pinyin": "Tā hěn lěngjìng.",
+    "en": "She's calm."
+   },
+   {
+    "zh": "你要保持冷静。",
+    "pinyin": "Nǐ yào bǎochí lěngjìng.",
+    "en": "You need to stay calm."
+   },
+   {
+    "zh": "她冷静地解决了问题。",
+    "pinyin": "Tā lěngjìng de jiějué le wèntí.",
+    "en": "She calmly solved the problem."
+   },
+   {
+    "zh": "遇到问题要冷静。",
+    "pinyin": "Yùdào wèntí yào lěngjìng.",
+    "en": "You need to be calm when facing problems."
+   }
+  ]
+ },
+ {
+  "id": "w861",
+  "hanzi": "礼貌",
+  "pinyin": "lǐmào",
+  "meaning": "polite; manners",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "她很有礼貌。",
+    "pinyin": "Tā hěn yǒu lǐmào.",
+    "en": "She's very polite."
+   },
+   {
+    "zh": "请注意礼貌。",
+    "pinyin": "Qǐng zhùyì lǐmào.",
+    "en": "Please mind your manners."
+   },
+   {
+    "zh": "这样做没有礼貌。",
+    "pinyin": "Zhèyàng zuò méiyǒu lǐmào.",
+    "en": "Doing this is impolite."
+   },
+   {
+    "zh": "孩子应该学习礼貌。",
+    "pinyin": "Háizi yīnggāi xuéxí lǐmào.",
+    "en": "Children should learn manners."
+   },
+   {
+    "zh": "她说话很有礼貌。",
+    "pinyin": "Tā shuōhuà hěn yǒu lǐmào.",
+    "en": "She speaks politely."
+   }
+  ]
+ },
+ {
+  "id": "w862",
+  "hanzi": "理发",
+  "pinyin": "lǐfà",
+  "meaning": "to get a haircut",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "我要去理发。",
+    "pinyin": "Wǒ yào qù lǐfà.",
+    "en": "I need to get a haircut."
+   },
+   {
+    "zh": "她昨天理发了。",
+    "pinyin": "Tā zuótiān lǐfà le.",
+    "en": "She got a haircut yesterday."
+   },
+   {
+    "zh": "这家理发店不错。",
+    "pinyin": "Zhè jiā lǐfàdiàn búcuò.",
+    "en": "This barbershop is good."
+   },
+   {
+    "zh": "我一个月理一次发。",
+    "pinyin": "Wǒ yí ge yuè lǐ yí cì fà.",
+    "en": "I get a haircut once a month."
+   },
+   {
+    "zh": "你应该去理发了。",
+    "pinyin": "Nǐ yīnggāi qù lǐfà le.",
+    "en": "You should go get a haircut."
+   }
+  ]
+ },
+ {
+  "id": "w863",
+  "hanzi": "理解",
+  "pinyin": "lǐjiě",
+  "meaning": "to understand",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我理解你的感受。",
+    "pinyin": "Wǒ lǐjiě nǐ de gǎnshòu.",
+    "en": "I understand your feelings."
+   },
+   {
+    "zh": "她不理解这个问题。",
+    "pinyin": "Tā bù lǐjiě zhège wèntí.",
+    "en": "She doesn't understand this problem."
+   },
+   {
+    "zh": "我不太理解。",
+    "pinyin": "Wǒ bú tài lǐjiě.",
+    "en": "I don't quite understand."
+   },
+   {
+    "zh": "请理解我的意思。",
+    "pinyin": "Qǐng lǐjiě wǒ de yìsi.",
+    "en": "Please understand what I mean."
+   },
+   {
+    "zh": "她很理解我。",
+    "pinyin": "Tā hěn lǐjiě wǒ.",
+    "en": "She understands me very well."
+   }
+  ]
+ },
+ {
+  "id": "w864",
+  "hanzi": "理想",
+  "pinyin": "lǐxiǎng",
+  "meaning": "ideal; dream",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "她的理想是当医生。",
+    "pinyin": "Tā de lǐxiǎng shì dāng yīshēng.",
+    "en": "Her dream is to be a doctor."
+   },
+   {
+    "zh": "这不是理想的方法。",
+    "pinyin": "Zhè búshì lǐxiǎng de fāngfǎ.",
+    "en": "This isn't the ideal method."
+   },
+   {
+    "zh": "我们要为理想努力。",
+    "pinyin": "Wǒmen yào wèi lǐxiǎng nǔlì.",
+    "en": "We need to work hard for our dreams."
+   },
+   {
+    "zh": "这是我的理想工作。",
+    "pinyin": "Zhè shì wǒ de lǐxiǎng gōngzuò.",
+    "en": "This is my ideal job."
+   },
+   {
+    "zh": "她一直坚持自己的理想。",
+    "pinyin": "Tā yìzhí jiānchí zìjǐ de lǐxiǎng.",
+    "en": "She has always held onto her dream."
+   }
+  ]
+ },
+ {
+  "id": "w865",
+  "hanzi": "力气",
+  "pinyin": "lìqi",
+  "meaning": "physical strength",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "他力气很大。",
+    "pinyin": "Tā lìqi hěn dà.",
+    "en": "He has a lot of strength."
+   },
+   {
+    "zh": "我没有力气了。",
+    "pinyin": "Wǒ méiyǒu lìqi le.",
+    "en": "I have no strength left."
+   },
+   {
+    "zh": "这需要很大的力气。",
+    "pinyin": "Zhè xūyào hěn dà de lìqi.",
+    "en": "This requires a lot of strength."
+   },
+   {
+    "zh": "她用了很大力气才搬动这个箱子。",
+    "pinyin": "Tā yòng le hěn dà lìqi cái bāndòng zhège xiāngzi.",
+    "en": "She used a lot of strength to move this box."
+   },
+   {
+    "zh": "孩子没有力气走路了。",
+    "pinyin": "Háizi méiyǒu lìqi zǒulù le.",
+    "en": "The child has no energy to walk anymore."
+   }
+  ]
  }
 ]

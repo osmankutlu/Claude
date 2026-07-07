@@ -36358,5 +36358,725 @@
     "en": "This box is too heavy, I can't lift it."
    }
   ]
+ },
+ {
+  "id": "w1011",
+  "hanzi": "态度",
+  "pinyin": "tàidu",
+  "meaning": "attitude",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "她的态度很好。",
+    "pinyin": "Tā de tàidu hěn hǎo.",
+    "en": "Her attitude is good."
+   },
+   {
+    "zh": "请注意你的态度。",
+    "pinyin": "Qǐng zhùyì nǐ de tàidu.",
+    "en": "Please pay attention to your attitude."
+   },
+   {
+    "zh": "他的工作态度很认真。",
+    "pinyin": "Tā de gōngzuò tàidu hěn rènzhēn.",
+    "en": "His work attitude is serious."
+   },
+   {
+    "zh": "她对我的态度变了。",
+    "pinyin": "Tā duì wǒ de tàidu biàn le.",
+    "en": "Her attitude towards me has changed."
+   },
+   {
+    "zh": "这种态度不对。",
+    "pinyin": "Zhè zhǒng tàidu bú duì.",
+    "en": "This kind of attitude isn't right."
+   }
+  ]
+ },
+ {
+  "id": "w1012",
+  "hanzi": "谈",
+  "pinyin": "tán",
+  "meaning": "to talk; to discuss",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我们谈谈吧。",
+    "pinyin": "Wǒmen tántan ba.",
+    "en": "Let's talk."
+   },
+   {
+    "zh": "她跟我谈了这件事情。",
+    "pinyin": "Tā gēn wǒ tán le zhè jiàn shìqing.",
+    "en": "She talked to me about this matter."
+   },
+   {
+    "zh": "我们需要谈一下计划。",
+    "pinyin": "Wǒmen xūyào tán yíxià jìhuà.",
+    "en": "We need to discuss the plan."
+   },
+   {
+    "zh": "她想跟你谈谈。",
+    "pinyin": "Tā xiǎng gēn nǐ tántan.",
+    "en": "She wants to talk with you."
+   },
+   {
+    "zh": "我们谈了很长时间。",
+    "pinyin": "Wǒmen tán le hěn cháng shíjiān.",
+    "en": "We talked for a long time."
+   }
+  ]
+ },
+ {
+  "id": "w1013",
+  "hanzi": "汤",
+  "pinyin": "tāng",
+  "meaning": "soup",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Food",
+  "examples": [
+   {
+    "zh": "我喜欢喝汤。",
+    "pinyin": "Wǒ xǐhuan hē tāng.",
+    "en": "I like drinking soup."
+   },
+   {
+    "zh": "这个汤很好喝。",
+    "pinyin": "Zhège tāng hěn hǎohē.",
+    "en": "This soup is delicious."
+   },
+   {
+    "zh": "她做了很多汤。",
+    "pinyin": "Tā zuò le hěn duō tāng.",
+    "en": "She made a lot of soup."
+   },
+   {
+    "zh": "这碗汤很热。",
+    "pinyin": "Zhè wǎn tāng hěn rè.",
+    "en": "This bowl of soup is hot."
+   },
+   {
+    "zh": "我想喝点汤。",
+    "pinyin": "Wǒ xiǎng hē diǎn tāng.",
+    "en": "I want to drink some soup."
+   }
+  ]
+ },
+ {
+  "id": "w1014",
+  "hanzi": "躺",
+  "pinyin": "tǎng",
+  "meaning": "to lie down",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "她躺在床上。",
+    "pinyin": "Tā tǎng zài chuáng shàng.",
+    "en": "She's lying on the bed."
+   },
+   {
+    "zh": "我想躺一下。",
+    "pinyin": "Wǒ xiǎng tǎng yíxià.",
+    "en": "I want to lie down for a bit."
+   },
+   {
+    "zh": "她躺着看书。",
+    "pinyin": "Tā tǎng zhe kàn shū.",
+    "en": "She's lying down reading."
+   },
+   {
+    "zh": "孩子躺在沙发上睡着了。",
+    "pinyin": "Háizi tǎng zài shāfā shàng shuì zháo le.",
+    "en": "The child lay on the sofa and fell asleep."
+   },
+   {
+    "zh": "请躺下休息。",
+    "pinyin": "Qǐng tǎngxià xiūxi.",
+    "en": "Please lie down and rest."
+   }
+  ]
+ },
+ {
+  "id": "w1015",
+  "hanzi": "趟",
+  "pinyin": "tàng",
+  "meaning": "measure word (for trips)",
+  "partOfSpeech": "measure word",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我去了一趟银行。",
+    "pinyin": "Wǒ qù le yí tàng yínháng.",
+    "en": "I made a trip to the bank."
+   },
+   {
+    "zh": "她去了一趟北京。",
+    "pinyin": "Tā qù le yí tàng Běijīng.",
+    "en": "She made a trip to Beijing."
+   },
+   {
+    "zh": "这趟旅行很有意思。",
+    "pinyin": "Zhè tàng lǚxíng hěn yǒu yìsi.",
+    "en": "This trip was interesting."
+   },
+   {
+    "zh": "我们再去一趟吧。",
+    "pinyin": "Wǒmen zài qù yí tàng ba.",
+    "en": "Let's go one more time."
+   },
+   {
+    "zh": "这趟火车几点开？",
+    "pinyin": "Zhè tàng huǒchē jǐ diǎn kāi?",
+    "en": "What time does this train depart?"
+   }
+  ]
+ },
+ {
+  "id": "w1016",
+  "hanzi": "讨论",
+  "pinyin": "tǎolùn",
+  "meaning": "to discuss",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "我们讨论一下这个问题。",
+    "pinyin": "Wǒmen tǎolùn yíxià zhège wèntí.",
+    "en": "Let's discuss this problem."
+   },
+   {
+    "zh": "她们讨论了很长时间。",
+    "pinyin": "Tāmen tǎolùn le hěn cháng shíjiān.",
+    "en": "They discussed for a long time."
+   },
+   {
+    "zh": "我们正在讨论计划。",
+    "pinyin": "Wǒmen zhèngzài tǎolùn jìhuà.",
+    "en": "We're discussing the plan."
+   },
+   {
+    "zh": "这个话题值得讨论。",
+    "pinyin": "Zhège huàtí zhíde tǎolùn.",
+    "en": "This topic is worth discussing."
+   },
+   {
+    "zh": "请大家讨论一下。",
+    "pinyin": "Qǐng dàjiā tǎolùn yíxià.",
+    "en": "Everyone please discuss it."
+   }
+  ]
+ },
+ {
+  "id": "w1017",
+  "hanzi": "讨厌",
+  "pinyin": "tǎoyàn",
+  "meaning": "to dislike; annoying",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "我讨厌下雨天。",
+    "pinyin": "Wǒ tǎoyàn xiàyǔtiān.",
+    "en": "I hate rainy days."
+   },
+   {
+    "zh": "她很讨厌这个人。",
+    "pinyin": "Tā hěn tǎoyàn zhège rén.",
+    "en": "She really dislikes this person."
+   },
+   {
+    "zh": "这个声音很讨厌。",
+    "pinyin": "Zhège shēngyīn hěn tǎoyàn.",
+    "en": "This sound is annoying."
+   },
+   {
+    "zh": "我不讨厌他。",
+    "pinyin": "Wǒ bù tǎoyàn tā.",
+    "en": "I don't dislike him."
+   },
+   {
+    "zh": "她讨厌被打扰。",
+    "pinyin": "Tā tǎoyàn bèi dǎrǎo.",
+    "en": "She hates being disturbed."
+   }
+  ]
+ },
+ {
+  "id": "w1018",
+  "hanzi": "特点",
+  "pinyin": "tèdiǎn",
+  "meaning": "characteristic",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是这个城市的特点。",
+    "pinyin": "Zhè shì zhège chéngshì de tèdiǎn.",
+    "en": "This is this city's characteristic."
+   },
+   {
+    "zh": "她有很多特点。",
+    "pinyin": "Tā yǒu hěn duō tèdiǎn.",
+    "en": "She has many characteristics."
+   },
+   {
+    "zh": "这个方法有一个特点。",
+    "pinyin": "Zhège fāngfǎ yǒu yí ge tèdiǎn.",
+    "en": "This method has one characteristic."
+   },
+   {
+    "zh": "每个人都有自己的特点。",
+    "pinyin": "Měi ge rén dōu yǒu zìjǐ de tèdiǎn.",
+    "en": "Everyone has their own characteristics."
+   },
+   {
+    "zh": "这道菜的特点是很辣。",
+    "pinyin": "Zhè dào cài de tèdiǎn shì hěn là.",
+    "en": "This dish's characteristic is that it's spicy."
+   }
+  ]
+ },
+ {
+  "id": "w1019",
+  "hanzi": "提供",
+  "pinyin": "tígōng",
+  "meaning": "to provide",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "她提供了很多帮助。",
+    "pinyin": "Tā tígōng le hěn duō bāngzhù.",
+    "en": "She provided a lot of help."
+   },
+   {
+    "zh": "学校提供免费的午饭。",
+    "pinyin": "Xuéxiào tígōng miǎnfèi de wǔfàn.",
+    "en": "The school provides free lunch."
+   },
+   {
+    "zh": "我们提供各种服务。",
+    "pinyin": "Wǒmen tígōng gè zhǒng fúwù.",
+    "en": "We provide all kinds of services."
+   },
+   {
+    "zh": "请提供你的信息。",
+    "pinyin": "Qǐng tígōng nǐ de xìnxī.",
+    "en": "Please provide your information."
+   },
+   {
+    "zh": "公司提供了很好的机会。",
+    "pinyin": "Gōngsī tígōng le hěn hǎo de jīhuì.",
+    "en": "The company provided a great opportunity."
+   }
+  ]
+ },
+ {
+  "id": "w1020",
+  "hanzi": "提前",
+  "pinyin": "tíqián",
+  "meaning": "to move up (a time); in advance",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "会议提前了。",
+    "pinyin": "Huìyì tíqián le.",
+    "en": "The meeting was moved earlier."
+   },
+   {
+    "zh": "请提前告诉我。",
+    "pinyin": "Qǐng tíqián gàosu wǒ.",
+    "en": "Please tell me in advance."
+   },
+   {
+    "zh": "我们提前到了。",
+    "pinyin": "Wǒmen tíqián dào le.",
+    "en": "We arrived early."
+   },
+   {
+    "zh": "她提前完成了工作。",
+    "pinyin": "Tā tíqián wánchéng le gōngzuò.",
+    "en": "She finished her work ahead of time."
+   },
+   {
+    "zh": "请提前准备好材料。",
+    "pinyin": "Qǐng tíqián zhǔnbèi hǎo cáiliào.",
+    "en": "Please prepare the materials in advance."
+   }
+  ]
+ },
+ {
+  "id": "w1021",
+  "hanzi": "提醒",
+  "pinyin": "tíxǐng",
+  "meaning": "to remind",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请提醒我。",
+    "pinyin": "Qǐng tíxǐng wǒ.",
+    "en": "Please remind me."
+   },
+   {
+    "zh": "她提醒了我这件事情。",
+    "pinyin": "Tā tíxǐng le wǒ zhè jiàn shìqing.",
+    "en": "She reminded me of this matter."
+   },
+   {
+    "zh": "谢谢你提醒我。",
+    "pinyin": "Xièxie nǐ tíxǐng wǒ.",
+    "en": "Thank you for reminding me."
+   },
+   {
+    "zh": "她提醒我要按时吃药。",
+    "pinyin": "Tā tíxǐng wǒ yào ànshí chī yào.",
+    "en": "She reminded me to take medicine on time."
+   },
+   {
+    "zh": "我提醒了她开会的时间。",
+    "pinyin": "Wǒ tíxǐng le tā kāihuì de shíjiān.",
+    "en": "I reminded her of the meeting time."
+   }
+  ]
+ },
+ {
+  "id": "w1022",
+  "hanzi": "填空",
+  "pinyin": "tiánkòng",
+  "meaning": "to fill in the blank",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "请填空。",
+    "pinyin": "Qǐng tiánkòng.",
+    "en": "Please fill in the blank."
+   },
+   {
+    "zh": "这道题是填空题。",
+    "pinyin": "Zhè dào tí shì tiánkòngtí.",
+    "en": "This question is a fill-in-the-blank question."
+   },
+   {
+    "zh": "请用正确的词填空。",
+    "pinyin": "Qǐng yòng zhèngquè de cí tiánkòng.",
+    "en": "Please fill in the blank with the correct word."
+   },
+   {
+    "zh": "她已经填空了。",
+    "pinyin": "Tā yǐjīng tiánkòng le.",
+    "en": "She has already filled in the blanks."
+   },
+   {
+    "zh": "这个填空很简单。",
+    "pinyin": "Zhège tiánkòng hěn jiǎndān.",
+    "en": "This fill-in-the-blank is simple."
+   }
+  ]
+ },
+ {
+  "id": "w1023",
+  "hanzi": "条件",
+  "pinyin": "tiáojiàn",
+  "meaning": "condition",
+  "partOfSpeech": "noun",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "这是我的条件。",
+    "pinyin": "Zhè shì wǒ de tiáojiàn.",
+    "en": "This is my condition."
+   },
+   {
+    "zh": "我们的条件不够好。",
+    "pinyin": "Wǒmen de tiáojiàn bú gòu hǎo.",
+    "en": "Our conditions aren't good enough."
+   },
+   {
+    "zh": "他的条件很好。",
+    "pinyin": "Tā de tiáojiàn hěn hǎo.",
+    "en": "His conditions are good."
+   },
+   {
+    "zh": "这个工作有一个条件。",
+    "pinyin": "Zhège gōngzuò yǒu yí ge tiáojiàn.",
+    "en": "This job has one condition."
+   },
+   {
+    "zh": "我同意这些条件。",
+    "pinyin": "Wǒ tóngyì zhèxiē tiáojiàn.",
+    "en": "I agree to these conditions."
+   }
+  ]
+ },
+ {
+  "id": "w1024",
+  "hanzi": "停止",
+  "pinyin": "tíngzhǐ",
+  "meaning": "to stop",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "雨停止了。",
+    "pinyin": "Yǔ tíngzhǐ le.",
+    "en": "The rain stopped."
+   },
+   {
+    "zh": "请停止说话。",
+    "pinyin": "Qǐng tíngzhǐ shuōhuà.",
+    "en": "Please stop talking."
+   },
+   {
+    "zh": "她停止了工作。",
+    "pinyin": "Tā tíngzhǐ le gōngzuò.",
+    "en": "She stopped working."
+   },
+   {
+    "zh": "车停止了。",
+    "pinyin": "Chē tíngzhǐ le.",
+    "en": "The car stopped."
+   },
+   {
+    "zh": "请停止这个活动。",
+    "pinyin": "Qǐng tíngzhǐ zhège huódòng.",
+    "en": "Please stop this activity."
+   }
+  ]
+ },
+ {
+  "id": "w1025",
+  "hanzi": "挺",
+  "pinyin": "tǐng",
+  "meaning": "quite; rather",
+  "partOfSpeech": "adverb",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "这个挺好的。",
+    "pinyin": "Zhège tǐng hǎo de.",
+    "en": "This is quite good."
+   },
+   {
+    "zh": "她挺聪明的。",
+    "pinyin": "Tā tǐng cōngming de.",
+    "en": "She's quite smart."
+   },
+   {
+    "zh": "这个菜挺好吃的。",
+    "pinyin": "Zhège cài tǐng hǎochī de.",
+    "en": "This dish is quite delicious."
+   },
+   {
+    "zh": "今天挺冷的。",
+    "pinyin": "Jīntiān tǐng lěng de.",
+    "en": "It's quite cold today."
+   },
+   {
+    "zh": "这个电影挺有意思的。",
+    "pinyin": "Zhège diànyǐng tǐng yǒu yìsi de.",
+    "en": "This movie is quite interesting."
+   }
+  ]
+ },
+ {
+  "id": "w1026",
+  "hanzi": "通过",
+  "pinyin": "tōngguò",
+  "meaning": "through; by means of",
+  "partOfSpeech": "preposition",
+  "level": 4,
+  "category": "Grammar words",
+  "examples": [
+   {
+    "zh": "我通过朋友认识了她。",
+    "pinyin": "Wǒ tōngguò péngyou rènshi le tā.",
+    "en": "I got to know her through a friend."
+   },
+   {
+    "zh": "她通过努力成功了。",
+    "pinyin": "Tā tōngguò nǔlì chénggōng le.",
+    "en": "She succeeded through hard work."
+   },
+   {
+    "zh": "她通过了考试。",
+    "pinyin": "Tā tōngguò le kǎoshì.",
+    "en": "She passed the exam."
+   },
+   {
+    "zh": "我通过手机学习中文。",
+    "pinyin": "Wǒ tōngguò shǒujī xuéxí Zhōngwén.",
+    "en": "I learn Chinese through my phone."
+   },
+   {
+    "zh": "这个计划通过了。",
+    "pinyin": "Zhège jìhuà tōngguò le.",
+    "en": "This plan was approved."
+   }
+  ]
+ },
+ {
+  "id": "w1027",
+  "hanzi": "通知",
+  "pinyin": "tōngzhī",
+  "meaning": "to notify; notice",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Basics",
+  "examples": [
+   {
+    "zh": "请通知她这件事情。",
+    "pinyin": "Qǐng tōngzhī tā zhè jiàn shìqing.",
+    "en": "Please notify her of this matter."
+   },
+   {
+    "zh": "我收到了通知。",
+    "pinyin": "Wǒ shōudào le tōngzhī.",
+    "en": "I received the notice."
+   },
+   {
+    "zh": "学校通知我们明天放假。",
+    "pinyin": "Xuéxiào tōngzhī wǒmen míngtiān fàngjià.",
+    "en": "The school notified us that tomorrow is a holiday."
+   },
+   {
+    "zh": "这是一个重要的通知。",
+    "pinyin": "Zhè shì yí ge zhòngyào de tōngzhī.",
+    "en": "This is an important notice."
+   },
+   {
+    "zh": "请通知大家开会的时间。",
+    "pinyin": "Qǐng tōngzhī dàjiā kāihuì de shíjiān.",
+    "en": "Please notify everyone of the meeting time."
+   }
+  ]
+ },
+ {
+  "id": "w1028",
+  "hanzi": "同情",
+  "pinyin": "tóngqíng",
+  "meaning": "to sympathize",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "我很同情她。",
+    "pinyin": "Wǒ hěn tóngqíng tā.",
+    "en": "I sympathize with her a lot."
+   },
+   {
+    "zh": "她的经历让人同情。",
+    "pinyin": "Tā de jīnglì ràng rén tóngqíng.",
+    "en": "Her experience makes people sympathize."
+   },
+   {
+    "zh": "我们都同情他。",
+    "pinyin": "Wǒmen dōu tóngqíng tā.",
+    "en": "We all sympathize with him."
+   },
+   {
+    "zh": "她对这个孩子很同情。",
+    "pinyin": "Tā duì zhège háizi hěn tóngqíng.",
+    "en": "She sympathizes a lot with this child."
+   },
+   {
+    "zh": "我不需要你的同情。",
+    "pinyin": "Wǒ bù xūyào nǐ de tóngqíng.",
+    "en": "I don't need your sympathy."
+   }
+  ]
+ },
+ {
+  "id": "w1029",
+  "hanzi": "推",
+  "pinyin": "tuī",
+  "meaning": "to push",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Verbs",
+  "examples": [
+   {
+    "zh": "请推一下门。",
+    "pinyin": "Qǐng tuī yíxià mén.",
+    "en": "Please push the door."
+   },
+   {
+    "zh": "她推开了窗户。",
+    "pinyin": "Tā tuī kāi le chuānghu.",
+    "en": "She pushed open the window."
+   },
+   {
+    "zh": "我们一起推车吧。",
+    "pinyin": "Wǒmen yìqǐ tuī chē ba.",
+    "en": "Let's push the car together."
+   },
+   {
+    "zh": "她推了推我。",
+    "pinyin": "Tā tuī le tuī wǒ.",
+    "en": "She pushed me a bit."
+   },
+   {
+    "zh": "请不要推我。",
+    "pinyin": "Qǐng bú yào tuī wǒ.",
+    "en": "Please don't push me."
+   }
+  ]
+ },
+ {
+  "id": "w1030",
+  "hanzi": "推迟",
+  "pinyin": "tuīchí",
+  "meaning": "to postpone",
+  "partOfSpeech": "verb",
+  "level": 4,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "会议推迟了。",
+    "pinyin": "Huìyì tuīchí le.",
+    "en": "The meeting was postponed."
+   },
+   {
+    "zh": "我们推迟了出发时间。",
+    "pinyin": "Wǒmen tuīchí le chūfā shíjiān.",
+    "en": "We postponed the departure time."
+   },
+   {
+    "zh": "考试推迟到下个星期了。",
+    "pinyin": "Kǎoshì tuīchí dào xià ge xīngqī le.",
+    "en": "The exam was postponed to next week."
+   },
+   {
+    "zh": "她把婚礼推迟了。",
+    "pinyin": "Tā bǎ hūnlǐ tuīchí le.",
+    "en": "She postponed the wedding."
+   },
+   {
+    "zh": "活动推迟了一天。",
+    "pinyin": "Huódòng tuīchí le yì tiān.",
+    "en": "The activity was postponed by a day."
+   }
+  ]
  }
 ]

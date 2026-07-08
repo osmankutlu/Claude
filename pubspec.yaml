@@ -18,6 +18,7 @@ dependencies:
   provider: ^6.1.2
   # Persist flashcard study progress locally
   shared_preferences: ^2.3.3
+  home_widget: ^0.9.3
 
 dev_dependencies:
   flutter_test:

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../data/favorites_repository.dart';
 import '../models/grammar_topic.dart';
 import '../services/tts_service.dart';
 
@@ -14,7 +15,20 @@ class GrammarDetailScreen extends StatelessWidget {
     final tts = context.read<TtsService>();
 
     return Scaffold(
-      appBar: AppBar(title: Text('HSK ${topic.level}')),
+      appBar: AppBar(
+        title: Text('HSK ${topic.level}'),
+        actions: [
+          Consumer<FavoritesRepository>(
+            builder: (context, favorites, _) => IconButton(
+              icon: Icon(
+                favorites.isGrammarFavorite(topic.id) ? Icons.star : Icons.star_border,
+                color: favorites.isGrammarFavorite(topic.id) ? Colors.amber : null,
+              ),
+              onPressed: () => favorites.toggleGrammar(topic.id),
+            ),
+          ),
+        ],
+      ),
       body: ListView(
         padding: const EdgeInsets.all(20),
         children: [

@@ -5,7 +5,7 @@ import 'package:zh_en_dict/main.dart';
 
 void main() {
   testWidgets('App launches and shows the dictionary tab', (WidgetTester tester) async {
-    await tester.pumpWidget(const MyApp());
+    await tester.pumpWidget(const MyApp(initialRoute: '/'));
     // Avoid pumpAndSettle: the loading spinners are indeterminate animations
     // that never "settle", so pump a fixed number of frames instead.
     for (var i = 0; i < 10; i++) {

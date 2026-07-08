@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../data/favorites_repository.dart';
 import '../models/word.dart';
 import '../services/tts_service.dart';
 
@@ -14,7 +15,20 @@ class WordDetailScreen extends StatelessWidget {
     final tts = context.read<TtsService>();
 
     return Scaffold(
-      appBar: AppBar(title: Text(word.meaning)),
+      appBar: AppBar(
+        title: Text(word.meaning),
+        actions: [
+          Consumer<FavoritesRepository>(
+            builder: (context, favorites, _) => IconButton(
+              icon: Icon(
+                favorites.isWordFavorite(word.id) ? Icons.star : Icons.star_border,
+                color: favorites.isWordFavorite(word.id) ? Colors.amber : null,
+              ),
+              onPressed: () => favorites.toggleWord(word.id),
+            ),
+          ),
+        ],
+      ),
       body: ListView(
         padding: const EdgeInsets.all(20),
         children: [

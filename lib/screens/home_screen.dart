@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
+import '../data/favorites_repository.dart';
 import 'dictionary_screen.dart';
+import 'favorites_screen.dart';
 import 'flashcards_screen.dart';
 import 'grammar_list_screen.dart';
 
@@ -18,7 +21,14 @@ class _HomeScreenState extends State<HomeScreen> {
     DictionaryScreen(),
     FlashcardsScreen(),
     GrammarListScreen(),
+    FavoritesScreen(),
   ];
+
+  @override
+  void initState() {
+    super.initState();
+    context.read<FavoritesRepository>().load();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -31,6 +41,7 @@ class _HomeScreenState extends State<HomeScreen> {
           NavigationDestination(icon: Icon(Icons.menu_book), label: 'Sözlük'),
           NavigationDestination(icon: Icon(Icons.style), label: 'Flashcard'),
           NavigationDestination(icon: Icon(Icons.school), label: 'Gramer'),
+          NavigationDestination(icon: Icon(Icons.star), label: 'Favoriler'),
         ],
       ),
     );

@@ -41,19 +41,59 @@
                 android:contentDescription="@string/widget_favorite" />
         </LinearLayout>
 
-        <TextView
-            android:id="@+id/widget_title"
-            android:layout_width="wrap_content"
+        <LinearLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="4dp"
-            android:textColor="#000000"
-            android:textSize="26sp"
-            android:textStyle="bold" />
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/widget_prev_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="4dp"
+                android:paddingEnd="12dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:text="‹"
+                android:textColor="#8D6E63"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:contentDescription="@string/widget_previous" />
+
+            <TextView
+                android:id="@+id/widget_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:ellipsize="end" />
+
+            <TextView
+                android:id="@+id/widget_next_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="12dp"
+                android:paddingEnd="4dp"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                android:text="›"
+                android:textColor="#8D6E63"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:contentDescription="@string/widget_next" />
+        </LinearLayout>
 
         <TextView
             android:id="@+id/widget_subtitle"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:gravity="center"
             android:textColor="#8D6E63"
             android:textSize="16sp" />
 
@@ -64,7 +104,78 @@
             android:layout_marginTop="4dp"
             android:textColor="#424242"
             android:textSize="14sp"
-            android:maxLines="3"
+            android:maxLines="2"
+            android:ellipsize="end" />
+
+        <LinearLayout
+            android:id="@+id/widget_example_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/widget_example_label"
+                android:textColor="#C2185B"
+                android:textSize="11sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/widget_example_counter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#8D6E63"
+                android:textSize="11sp" />
+
+            <TextView
+                android:id="@+id/widget_prev_example"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="8dp"
+                android:paddingEnd="4dp"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:text="‹"
+                android:textColor="#8D6E63"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:contentDescription="@string/widget_previous_example" />
+
+            <TextView
+                android:id="@+id/widget_next_example"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="4dp"
+                android:paddingEnd="2dp"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:text="›"
+                android:textColor="#8D6E63"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:contentDescription="@string/widget_next_example" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/widget_example_zh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="13sp"
+            android:maxLines="1"
+            android:ellipsize="end" />
+
+        <TextView
+            android:id="@+id/widget_example_en"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#757575"
+            android:textSize="12sp"
+            android:maxLines="1"
             android:ellipsize="end" />
     </LinearLayout>
 </FrameLayout>

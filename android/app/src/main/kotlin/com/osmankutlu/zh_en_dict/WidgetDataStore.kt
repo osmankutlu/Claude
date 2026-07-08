@@ -63,6 +63,54 @@ object WidgetDataStore {
         prefs(context).edit().putString(key, JSONArray(current).toString()).apply()
     }
 
+    private fun filteredGrammar(context: Context, level: String): List<JSONObject> {
+        val all = loadGrammar(context)
+        val filtered = mutableListOf<JSONObject>()
+        for (i in 0 until all.length()) {
+            val o = all.getJSONObject(i)
+            if (level == "0" || o.getInt("level").toString() == level) filtered.add(o)
+        }
+        return filtered
+    }
+
+    private fun filteredWords(context: Context, level: String): List<JSONObject> {
+        val all = loadWords(context)
+        val filtered = mutableListOf<JSONObject>()
+        for (i in 0 until all.length()) {
+            val o = all.getJSONObject(i)
+            if (level == "0" || o.getInt("level").toString() == level) filtered.add(o)
+        }
+        return filtered
+    }
+
+    private fun buildGrammarItem(picked: JSONObject): JSONObject {
+        val item = JSONObject()
+        item.put("mode", "grammar")
+        item.put("itemId", picked.getString("id"))
+        item.put("title", picked.getString("title"))
+        item.put("summary", picked.getString("summary"))
+        item.put("level", picked.getInt("level"))
+        return item
+    }
+
+    /**
+     * Builds the stored widget item for a word, embedding every example
+     * sentence for that word (not just the meaning) so the widget can cycle
+     * through the full list without re-reading the bundled asset.
+     */
+    private fun buildWordItem(picked: JSONObject): JSONObject {
+        val item = JSONObject()
+        item.put("mode", "word")
+        item.put("itemId", picked.getString("id"))
+        item.put("hanzi", picked.getString("hanzi"))
+        item.put("pinyin", picked.getString("pinyin"))
+        item.put("meaning", picked.getString("meaning"))
+        item.put("level", picked.getInt("level"))
+        item.put("examples", picked.optJSONArray("examples") ?: JSONArray())
+        item.put("exampleIndex", 0)
+        return item
+    }
+
     /**
      * Picks a new random word or grammar topic (respecting the widget's
      * configured mode/level) and stores it under this widget's item key.
@@ -72,38 +120,67 @@ object WidgetDataStore {
         val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
         val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
 
-        val item = JSONObject()
-        item.put("mode", mode)
-
+        val item: JSONObject
         if (mode == "grammar") {
-            val all = loadGrammar(context)
-            val filtered = mutableListOf<JSONObject>()
-            for (i in 0 until all.length()) {
-                val o = all.getJSONObject(i)
-                if (level == "0" || o.getInt("level").toString() == level) filtered.add(o)
-            }
+            val filtered = filteredGrammar(context, level)
             if (filtered.isEmpty()) return
-            val picked = filtered[Random.nextInt(filtered.size)]
-            item.put("itemId", picked.getString("id"))
-            item.put("title", picked.getString("title"))
-            item.put("summary", picked.getString("summary"))
-            item.put("level", picked.getInt("level"))
+            item = buildGrammarItem(filtered[Random.nextInt(filtered.size)])
         } else {
-            val all = loadWords(context)
-            val filtered = mutableListOf<JSONObject>()
-            for (i in 0 until all.length()) {
-                val o = all.getJSONObject(i)
-                if (level == "0" || o.getInt("level").toString() == level) filtered.add(o)
-            }
+            val filtered = filteredWords(context, level)
             if (filtered.isEmpty()) return
-            val picked = filtered[Random.nextInt(filtered.size)]
-            item.put("itemId", picked.getString("id"))
-            item.put("hanzi", picked.getString("hanzi"))
-            item.put("pinyin", picked.getString("pinyin"))
-            item.put("meaning", picked.getString("meaning"))
-            item.put("level", picked.getInt("level"))
+            item = buildWordItem(filtered[Random.nextInt(filtered.size)])
         }
 
+        prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
+    }
+
+    /**
+     * Manually steps to the next/previous word or grammar topic (wrapping
+     * around), independent of the automatic unlock-triggered refresh.
+     * [direction] should be +1 (next) or -1 (previous).
+     */
+    fun navigateItem(context: Context, appWidgetId: Int, direction: Int) {
+        val prefs = prefs(context)
+        val raw = prefs.getString(itemKey(appWidgetId), null) ?: return
+        val current = JSONObject(raw)
+        val mode = current.optString("mode", "word")
+        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
+        val currentId = current.optString("itemId")
+
+        val item: JSONObject
+        if (mode == "grammar") {
+            val filtered = filteredGrammar(context, level)
+            if (filtered.isEmpty()) return
+            val curIndex = filtered.indexOfFirst { it.getString("id") == currentId }
+            val newIndex = ((if (curIndex < 0) 0 else curIndex) + direction + filtered.size) % filtered.size
+            item = buildGrammarItem(filtered[newIndex])
+        } else {
+            val filtered = filteredWords(context, level)
+            if (filtered.isEmpty()) return
+            val curIndex = filtered.indexOfFirst { it.getString("id") == currentId }
+            val newIndex = ((if (curIndex < 0) 0 else curIndex) + direction + filtered.size) % filtered.size
+            item = buildWordItem(filtered[newIndex])
+        }
+
+        prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
+    }
+
+    /**
+     * Cycles the displayed example sentence (wrapping around) for the word
+     * currently shown by this widget. No-op in grammar mode or if the word
+     * has no examples.
+     */
+    fun navigateExample(context: Context, appWidgetId: Int, direction: Int) {
+        val prefs = prefs(context)
+        val raw = prefs.getString(itemKey(appWidgetId), null) ?: return
+        val item = JSONObject(raw)
+        if (item.optString("mode", "word") != "word") return
+        val examples = item.optJSONArray("examples") ?: return
+        if (examples.length() == 0) return
+
+        val curIndex = item.optInt("exampleIndex", 0)
+        val newIndex = (curIndex + direction + examples.length()) % examples.length()
+        item.put("exampleIndex", newIndex)
         prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
     }
 }

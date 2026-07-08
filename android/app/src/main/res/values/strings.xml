@@ -2,4 +2,9 @@
 <resources>
     <string name="widget_description">HSK kelime veya gramer konusu gösterir; ekran her açıldığında değişir.</string>
     <string name="widget_favorite">Favorilere ekle</string>
+    <string name="widget_previous">Önceki</string>
+    <string name="widget_next">Sonraki</string>
+    <string name="widget_previous_example">Önceki örnek</string>
+    <string name="widget_next_example">Sonraki örnek</string>
+    <string name="widget_example_label">ÖRNEK</string>
 </resources>

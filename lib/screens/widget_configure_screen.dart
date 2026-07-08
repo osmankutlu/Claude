@@ -72,6 +72,10 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
         'pinyin': picked.pinyin,
         'meaning': picked.meaning,
         'level': picked.level,
+        'examples': picked.examples
+            .map((e) => {'zh': e.zh, 'pinyin': e.pinyin, 'en': e.en})
+            .toList(),
+        'exampleIndex': 0,
       });
     }
 

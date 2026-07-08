@@ -47,6 +47,9 @@ class WordWidgetProvider : AppWidgetProvider() {
                 views.setTextViewText(R.id.widget_subtitle, "")
                 views.setTextViewText(R.id.widget_meaning, "Yükleniyor…")
                 views.setViewVisibility(R.id.widget_star, View.GONE)
+                views.setViewVisibility(R.id.widget_example_header, View.GONE)
+                views.setViewVisibility(R.id.widget_example_zh, View.GONE)
+                views.setViewVisibility(R.id.widget_example_en, View.GONE)
             } else {
                 val item = JSONObject(raw)
                 val mode = item.optString("mode", "word")
@@ -58,10 +61,44 @@ class WordWidgetProvider : AppWidgetProvider() {
                     views.setTextViewText(R.id.widget_title, item.optString("title"))
                     views.setTextViewText(R.id.widget_subtitle, "")
                     views.setTextViewText(R.id.widget_meaning, item.optString("summary"))
+                    views.setViewVisibility(R.id.widget_example_header, View.GONE)
+                    views.setViewVisibility(R.id.widget_example_zh, View.GONE)
+                    views.setViewVisibility(R.id.widget_example_en, View.GONE)
                 } else {
                     views.setTextViewText(R.id.widget_title, item.optString("hanzi"))
                     views.setTextViewText(R.id.widget_subtitle, item.optString("pinyin"))
                     views.setTextViewText(R.id.widget_meaning, item.optString("meaning"))
+
+                    val examples = item.optJSONArray("examples")
+                    if (examples != null && examples.length() > 0) {
+                        val exampleIndex = item.optInt("exampleIndex", 0).coerceIn(0, examples.length() - 1)
+                        val example = examples.getJSONObject(exampleIndex)
+                        views.setViewVisibility(R.id.widget_example_header, View.VISIBLE)
+                        views.setViewVisibility(R.id.widget_example_zh, View.VISIBLE)
+                        views.setViewVisibility(R.id.widget_example_en, View.VISIBLE)
+                        views.setTextViewText(
+                            R.id.widget_example_counter,
+                            "${exampleIndex + 1}/${examples.length()}"
+                        )
+                        views.setTextViewText(
+                            R.id.widget_example_zh,
+                            "${example.optString("zh")}  ${example.optString("pinyin")}"
+                        )
+                        views.setTextViewText(R.id.widget_example_en, example.optString("en"))
+
+                        val prevExamplePending = navigatePendingIntent(
+                            context, appWidgetId, NavigateReceiver.ACTION_NAVIGATE_EXAMPLE, -1, requestOffset = 2
+                        )
+                        val nextExamplePending = navigatePendingIntent(
+                            context, appWidgetId, NavigateReceiver.ACTION_NAVIGATE_EXAMPLE, 1, requestOffset = 3
+                        )
+                        views.setOnClickPendingIntent(R.id.widget_prev_example, prevExamplePending)
+                        views.setOnClickPendingIntent(R.id.widget_next_example, nextExamplePending)
+                    } else {
+                        views.setViewVisibility(R.id.widget_example_header, View.GONE)
+                        views.setViewVisibility(R.id.widget_example_zh, View.GONE)
+                        views.setViewVisibility(R.id.widget_example_en, View.GONE)
+                    }
                 }
 
                 val itemId = item.optString("itemId")
@@ -85,6 +122,15 @@ class WordWidgetProvider : AppWidgetProvider() {
                     PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
                 )
                 views.setOnClickPendingIntent(R.id.widget_star, togglePending)
+
+                val prevItemPending = navigatePendingIntent(
+                    context, appWidgetId, NavigateReceiver.ACTION_NAVIGATE_ITEM, -1, requestOffset = 0
+                )
+                val nextItemPending = navigatePendingIntent(
+                    context, appWidgetId, NavigateReceiver.ACTION_NAVIGATE_ITEM, 1, requestOffset = 1
+                )
+                views.setOnClickPendingIntent(R.id.widget_prev_item, prevItemPending)
+                views.setOnClickPendingIntent(R.id.widget_next_item, nextItemPending)
             }
 
             val openAppIntent = Intent(context, MainActivity::class.java)
@@ -97,6 +143,31 @@ class WordWidgetProvider : AppWidgetProvider() {
             views.setOnClickPendingIntent(R.id.widget_root, openAppPending)
 
             appWidgetManager.updateAppWidget(appWidgetId, views)
+        }
+
+        /**
+         * Builds a PendingIntent for [NavigateReceiver]. [requestOffset] (0-3)
+         * keeps the four navigation buttons' request codes distinct per widget
+         * instance so their PendingIntents don't collide/overwrite each other.
+         */
+        private fun navigatePendingIntent(
+            context: Context,
+            appWidgetId: Int,
+            action: String,
+            direction: Int,
+            requestOffset: Int
+        ): PendingIntent {
+            val intent = Intent(context, NavigateReceiver::class.java).apply {
+                this.action = action
+                putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetId)
+                putExtra(NavigateReceiver.EXTRA_DIRECTION, direction)
+            }
+            return PendingIntent.getBroadcast(
+                context,
+                appWidgetId * 10 + requestOffset,
+                intent,
+                PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+            )
         }
     }
 }

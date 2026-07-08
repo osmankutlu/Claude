@@ -21,6 +21,7 @@ Requires: fontTools (`pip install fonttools`) and internet access.
 import glob
 import os
 import re
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -101,10 +102,28 @@ def main() -> None:
     chars = collect_chars()
     print(f"{len(chars)} unique characters in use")
 
+    # Google's CSS2 `text=` param reliably subsets Latin fonts, but for CJK
+    # requests with hundreds of characters it silently ignores the filter and
+    # returns the full ~30k-glyph font. Always subset locally with pyftsubset
+    # afterward so the shipped file only contains the glyphs actually used.
     main_bytes = fetch_google_font_ttf("Noto+Sans+SC", chars)
-    tmp_main = OUT_PATH + ".tmp"
-    with open(tmp_main, "wb") as f:
+    tmp_downloaded = OUT_PATH + ".downloaded.tmp"
+    with open(tmp_downloaded, "wb") as f:
         f.write(main_bytes)
+
+    tmp_main = OUT_PATH + ".tmp"
+    unicodes = ",".join(f"U+{ord(c):04X}" for c in chars)
+    subprocess.run(
+        [
+            "pyftsubset",
+            tmp_downloaded,
+            f"--unicodes={unicodes}",
+            f"--output-file={tmp_main}",
+            "--layout-features=*",
+        ],
+        check=True,
+    )
+    os.remove(tmp_downloaded)
     target = TTFont(tmp_main)
 
     cmap = target.getBestCmap()

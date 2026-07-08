@@ -1919,5 +1919,200 @@
         "en": "Please leave your phone number, so we can contact you."
       }
     ]
+  },
+  {
+    "id": "g65",
+    "title": "Üç \"de\": 的, 得, 地 Karşılaştırması",
+    "level": 2,
+    "summary": "Aynı okunan (de) üç farklı karakter üç farklı işlev görür: \"的\" isim tamlaması, \"得\" derece tamamlayıcısı, \"地\" zarf yapıcı.",
+    "explanation": "\"的\" bir ismin ÖNÜNE gelir (我的书). \"得\" bir fiilin/sıfatın ARDINDAN gelip derece anlatır (跑得快). \"地\" bir sıfatı ZARFA çevirip fiilin ÖNÜNE gelir (慢慢地走 - yavaşça yürümek). Yazılışları farklı olsa da hepsi \"de\" okunur.",
+    "examples": [
+      {
+        "zh": "这是我的手机。",
+        "pinyin": "Zhè shì wǒ de shǒujī.",
+        "en": "This is my phone."
+      },
+      {
+        "zh": "他跑得很快。",
+        "pinyin": "Tā pǎo de hěn kuài.",
+        "en": "He runs very fast."
+      },
+      {
+        "zh": "她慢慢地走进来。",
+        "pinyin": "Tā mànmàn de zǒu jìnlái.",
+        "en": "She slowly walked in."
+      },
+      {
+        "zh": "他高兴地笑了。",
+        "pinyin": "Tā gāoxìng de xiào le.",
+        "en": "He laughed happily."
+      },
+      {
+        "zh": "这是她写的信。",
+        "pinyin": "Zhè shì tā xiě de xìn.",
+        "en": "This is the letter she wrote."
+      },
+      {
+        "zh": "她说得很清楚。",
+        "pinyin": "Tā shuō de hěn qīngchu.",
+        "en": "She spoke very clearly."
+      },
+      {
+        "zh": "孩子们高兴地跳着。",
+        "pinyin": "Háizimen gāoxìng de tiào zhe.",
+        "en": "The children jumped happily."
+      }
+    ]
+  },
+  {
+    "id": "g66",
+    "title": "\"好像\" (Sanki, Gibi Görünüyor)",
+    "level": 3,
+    "summary": "\"好像\" (hǎoxiàng) bir gözlem/tahmine dayanarak \"sanki, ...gibi görünüyor\" anlamı katar.",
+    "explanation": "Cümle başında veya öznenin ardından kullanılabilir; kesin bir bilgi değil, izlenim/tahmin belirtir.",
+    "examples": [
+      {
+        "zh": "她好像不太高兴。",
+        "pinyin": "Tā hǎoxiàng bú tài gāoxìng.",
+        "en": "She doesn't seem very happy."
+      },
+      {
+        "zh": "好像要下雨了。",
+        "pinyin": "Hǎoxiàng yào xiàyǔ le.",
+        "en": "It seems like it's going to rain."
+      },
+      {
+        "zh": "他好像认识我。",
+        "pinyin": "Tā hǎoxiàng rènshi wǒ.",
+        "en": "He seems to know me."
+      },
+      {
+        "zh": "这个人好像是我的老师。",
+        "pinyin": "Zhège rén hǎoxiàng shì wǒ de lǎoshī.",
+        "en": "This person seems to be my teacher."
+      },
+      {
+        "zh": "好像有人在敲门。",
+        "pinyin": "Hǎoxiàng yǒu rén zài qiāomén.",
+        "en": "It seems like someone is knocking on the door."
+      },
+      {
+        "zh": "她好像忘了这件事。",
+        "pinyin": "Tā hǎoxiàng wàng le zhè jiàn shì.",
+        "en": "She seems to have forgotten about this."
+      }
+    ]
+  },
+  {
+    "id": "g67",
+    "title": "Soru Kelimesi + 都/也 (Hepsi/Hiçbiri)",
+    "level": 3,
+    "summary": "Bir soru kelimesinden (什么, 谁, 哪儿) sonra \"都\" veya \"也\" gelirse, cümle \"her ne olursa/kim olursa\" gibi TOPLU bir anlam kazanır.",
+    "explanation": "Olumlu cümlede \"her şey/herkes\" (什么都好 - her şey iyi), olumsuz cümlede \"hiçbir şey/hiç kimse\" (什么都不知道 - hiçbir şey bilmiyor) anlamı verir.",
+    "examples": [
+      {
+        "zh": "我什么都不知道。",
+        "pinyin": "Wǒ shénme dōu bù zhīdào.",
+        "en": "I don't know anything."
+      },
+      {
+        "zh": "她什么都喜欢吃。",
+        "pinyin": "Tā shénme dōu xǐhuan chī.",
+        "en": "She likes to eat everything."
+      },
+      {
+        "zh": "谁都不能进去。",
+        "pinyin": "Shéi dōu bù néng jìnqù.",
+        "en": "No one can go in."
+      },
+      {
+        "zh": "哪儿都可以，我都行。",
+        "pinyin": "Nǎr dōu kěyǐ, wǒ dōu xíng.",
+        "en": "Anywhere is fine, I'm okay with it."
+      },
+      {
+        "zh": "她谁也不认识。",
+        "pinyin": "Tā shéi yě bú rènshi.",
+        "en": "She doesn't know anyone."
+      },
+      {
+        "zh": "今天我哪儿也不想去。",
+        "pinyin": "Jīntiān wǒ nǎr yě bù xiǎng qù.",
+        "en": "I don't want to go anywhere today."
+      }
+    ]
+  },
+  {
+    "id": "g68",
+    "title": "\"尽量\" (Elden Geldiğince)",
+    "level": 3,
+    "summary": "\"尽量\" (jǐnliàng) \"elden geldiğince, mümkün olduğunca\" anlamına gelir ve fiilden önce kullanılır.",
+    "explanation": "Genelde bir istek veya öneri belirtirken kullanılır; \"尽量\"'dan sonra genelde bir fiil cümlesi gelir.",
+    "examples": [
+      {
+        "zh": "请尽量早点儿来。",
+        "pinyin": "Qǐng jǐnliàng zǎodiǎnr lái.",
+        "en": "Please come as early as possible."
+      },
+      {
+        "zh": "我会尽量帮你。",
+        "pinyin": "Wǒ huì jǐnliàng bāng nǐ.",
+        "en": "I'll help you as much as I can."
+      },
+      {
+        "zh": "尽量少吃辣的。",
+        "pinyin": "Jǐnliàng shǎo chī là de.",
+        "en": "Try to eat less spicy food."
+      },
+      {
+        "zh": "请尽量说慢一点。",
+        "pinyin": "Qǐng jǐnliàng shuō màn yìdiǎn.",
+        "en": "Please try to speak a bit slower."
+      },
+      {
+        "zh": "我们尽量按时完成。",
+        "pinyin": "Wǒmen jǐnliàng ànshí wánchéng.",
+        "en": "We'll try our best to finish on time."
+      },
+      {
+        "zh": "她尽量不让父母担心。",
+        "pinyin": "Tā jǐnliàng bú ràng fùmǔ dānxīn.",
+        "en": "She tries her best not to worry her parents."
+      }
+    ]
+  },
+  {
+    "id": "g69",
+    "title": "\"只好\" ve \"不得不\" (Çaresizlik)",
+    "level": 3,
+    "summary": "\"只好\" ve \"不得不\" \"başka çare yok, mecburen\" anlamına gelir; genelde beklenmeyen bir durum sonucu ortaya çıkar.",
+    "explanation": "İkisi de neredeyse aynı anlamdadır. \"只好\" biraz daha \"elimden bu geldi, bu seçeneği yaptım\" havası taşır; \"不得不\" ise daha güçlü bir zorunluluk hissi verir.",
+    "examples": [
+      {
+        "zh": "因为下雨，我们只好留在家里。",
+        "pinyin": "Yīnwèi xiàyǔ, wǒmen zhǐhǎo liú zài jiā lǐ.",
+        "en": "Because of the rain, we had no choice but to stay home."
+      },
+      {
+        "zh": "他不得不接受这个结果。",
+        "pinyin": "Tā bùdébù jiēshòu zhège jiéguǒ.",
+        "en": "He had no choice but to accept this result."
+      },
+      {
+        "zh": "商店关门了，我只好回家。",
+        "pinyin": "Shāngdiàn guānmén le, wǒ zhǐhǎo huíjiā.",
+        "en": "The store was closed, so I had no choice but to go home."
+      },
+      {
+        "zh": "没有别的办法，我们不得不放弃。",
+        "pinyin": "Méiyǒu bié de bànfǎ, wǒmen bùdébù fàngqì.",
+        "en": "There was no other way, we had to give up."
+      },
+      {
+        "zh": "车坏了，他只好走路去。",
+        "pinyin": "Chē huài le, tā zhǐhǎo zǒulù qù.",
+        "en": "The car broke down, so he had no choice but to walk."
+      }
+    ]
   }
 ]

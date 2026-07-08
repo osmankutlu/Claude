@@ -37829,9 +37829,9 @@
     "en": "This is neither too salty nor too spicy."
    },
    {
-    "zh": "这个菜的味道正好。",
-    "pinyin": "Zhège cài de wèidao zhènghǎo.",
-    "en": "This dish's flavor is just right."
+    "zh": "这个菜不咸，正好。",
+    "pinyin": "Zhège cài bù xián, zhènghǎo.",
+    "en": "This dish isn't salty, it's just right."
    }
   ]
  },
@@ -51905,9 +51905,9 @@
     "en": "There are many cars on the highway."
    },
    {
-    "zh": "这种网速又高又稳定。",
-    "pinyin": "Zhè zhǒng wǎngsù yòu gāo yòu wěndìng.",
-    "en": "This kind of internet speed is both fast and stable."
+    "zh": "坐高速列车去很快。",
+    "pinyin": "Zuò gāosù lièchē qù hěn kuài.",
+    "en": "Taking the high-speed train there is fast."
    }
   ]
  },
@@ -53453,9 +53453,9 @@
     "en": "Turn ahead and it's the hospital."
    },
    {
-    "zh": "她说话总是绕来绕去的。",
-    "pinyin": "Tā shuōhuà zǒngshì rào lái rào qù de.",
-    "en": "She always talks in a roundabout way."
+    "zh": "她说话总是拐弯，不直接说。",
+    "pinyin": "Tā shuōhuà zǒngshì guǎiwān, bù zhíjiē shuō.",
+    "en": "She always talks in a roundabout way, not directly."
    }
   ]
  },
@@ -57974,9 +57974,9 @@
     "en": "Her social skills are very strong."
    },
    {
-    "zh": "这是一次社交场合。",
-    "pinyin": "Zhè shì yí cì jiāojì chǎnghé.",
-    "en": "This is a social occasion."
+    "zh": "她的交际圈子很大。",
+    "pinyin": "Tā de jiāojì quānzi hěn dà.",
+    "en": "Her social circle is large."
    },
    {
     "zh": "他不太会交际。",
@@ -62564,6 +62564,1086 @@
     "zh": "新员工陆续入职了。",
     "pinyin": "Xīn yuángōng lùxù rùzhí le.",
     "en": "New employees have been joining one after another."
+   }
+  ]
+ },
+ {
+  "id": "w1739",
+  "hanzi": "逻辑",
+  "pinyin": "luóji",
+  "meaning": "logic",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这个说法没有逻辑。",
+    "pinyin": "Zhège shuōfǎ méiyǒu luóji.",
+    "en": "This statement has no logic."
+   },
+   {
+    "zh": "她的思考很有逻辑。",
+    "pinyin": "Tā de sīkǎo hěn yǒu luóji.",
+    "en": "Her thinking is very logical."
+   },
+   {
+    "zh": "这篇文章的逻辑很清楚。",
+    "pinyin": "Zhè piān wénzhāng de luóji hěn qīngchu.",
+    "en": "This article's logic is very clear."
+   },
+   {
+    "zh": "你的逻辑有问题。",
+    "pinyin": "Nǐ de luóji yǒu wèntí.",
+    "en": "There's a problem with your logic."
+   },
+   {
+    "zh": "这不符合逻辑。",
+    "pinyin": "Zhè bù fúhé luóji.",
+    "en": "This doesn't make logical sense."
+   }
+  ]
+ },
+ {
+  "id": "w1740",
+  "hanzi": "落后",
+  "pinyin": "luòhòu",
+  "meaning": "to fall behind; backward",
+  "partOfSpeech": "verb/adjective",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这个地区经济落后。",
+    "pinyin": "Zhège dìqū jīngjì luòhòu.",
+    "en": "This region's economy is backward."
+   },
+   {
+    "zh": "她不想在学习上落后。",
+    "pinyin": "Tā bù xiǎng zài xuéxí shàng luòhòu.",
+    "en": "She doesn't want to fall behind in her studies."
+   },
+   {
+    "zh": "这个技术已经落后了。",
+    "pinyin": "Zhège jìshù yǐjīng luòhòu le.",
+    "en": "This technology is already outdated."
+   },
+   {
+    "zh": "他因为生病落后了很多课程。",
+    "pinyin": "Tā yīnwèi shēngbìng luòhòu le hěn duō kèchéng.",
+    "en": "He fell behind on a lot of courses because of illness."
+   },
+   {
+    "zh": "我们不能落后于别人。",
+    "pinyin": "Wǒmen bù néng luòhòu yú biéren.",
+    "en": "We can't fall behind others."
+   }
+  ]
+ },
+ {
+  "id": "w1741",
+  "hanzi": "骂",
+  "pinyin": "mà",
+  "meaning": "to scold; to curse",
+  "partOfSpeech": "verb",
+  "level": 5,
+  "category": "Actions",
+  "examples": [
+   {
+    "zh": "妈妈骂了他一顿。",
+    "pinyin": "Māma mà le tā yí dùn.",
+    "en": "Mom scolded him."
+   },
+   {
+    "zh": "她被老师骂了。",
+    "pinyin": "Tā bèi lǎoshī mà le.",
+    "en": "She was scolded by the teacher."
+   },
+   {
+    "zh": "别骂人，好好说话。",
+    "pinyin": "Bié mà rén, hǎohǎo shuōhuà.",
+    "en": "Don't curse at people, speak nicely."
+   },
+   {
+    "zh": "他犯了错误，被爸爸骂了。",
+    "pinyin": "Tā fàn le cuòwù, bèi bàba mà le.",
+    "en": "He made a mistake and was scolded by dad."
+   },
+   {
+    "zh": "她心里在骂自己太粗心。",
+    "pinyin": "Tā xīnlǐ zài mà zìjǐ tài cūxīn.",
+    "en": "She was scolding herself inside for being too careless."
+   }
+  ]
+ },
+ {
+  "id": "w1742",
+  "hanzi": "麦克风",
+  "pinyin": "màikèfēng",
+  "meaning": "microphone",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Objects",
+  "examples": [
+   {
+    "zh": "请对着麦克风说话。",
+    "pinyin": "Qǐng duì zhe màikèfēng shuōhuà.",
+    "en": "Please speak into the microphone."
+   },
+   {
+    "zh": "麦克风坏了，听不清楚。",
+    "pinyin": "Màikèfēng huài le, tīng bù qīngchu.",
+    "en": "The microphone is broken, can't hear clearly."
+   },
+   {
+    "zh": "她拿起麦克风开始唱歌。",
+    "pinyin": "Tā ná qǐ màikèfēng kāishǐ chànggē.",
+    "en": "She picked up the microphone and started singing."
+   },
+   {
+    "zh": "这个麦克风声音很大。",
+    "pinyin": "Zhège màikèfēng shēngyīn hěn dà.",
+    "en": "This microphone's sound is very loud."
+   },
+   {
+    "zh": "请把麦克风给我。",
+    "pinyin": "Qǐng bǎ màikèfēng gěi wǒ.",
+    "en": "Please give me the microphone."
+   }
+  ]
+ },
+ {
+  "id": "w1743",
+  "hanzi": "馒头",
+  "pinyin": "mántou",
+  "meaning": "steamed bun",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Food",
+  "examples": [
+   {
+    "zh": "她早饭吃馒头。",
+    "pinyin": "Tā zǎofàn chī mántou.",
+    "en": "She eats steamed buns for breakfast."
+   },
+   {
+    "zh": "馒头是用面做的。",
+    "pinyin": "Mántou shì yòng miàn zuò de.",
+    "en": "Steamed buns are made from wheat flour."
+   },
+   {
+    "zh": "她学会了自己做馒头。",
+    "pinyin": "Tā xuéhuì le zìjǐ zuò mántou.",
+    "en": "She learned to make steamed buns herself."
+   },
+   {
+    "zh": "这个馒头很软。",
+    "pinyin": "Zhège mántou hěn ruǎn.",
+    "en": "This steamed bun is very soft."
+   },
+   {
+    "zh": "她买了几个馒头。",
+    "pinyin": "Tā mǎi le jǐ ge mántou.",
+    "en": "She bought a few steamed buns."
+   }
+  ]
+ },
+ {
+  "id": "w1744",
+  "hanzi": "满足",
+  "pinyin": "mǎnzú",
+  "meaning": "to satisfy; satisfied",
+  "partOfSpeech": "verb/adjective",
+  "level": 5,
+  "category": "Emotions",
+  "examples": [
+   {
+    "zh": "她对这个结果很满足。",
+    "pinyin": "Tā duì zhège jiéguǒ hěn mǎnzú.",
+    "en": "She's very satisfied with this result."
+   },
+   {
+    "zh": "这个产品满足了顾客的需求。",
+    "pinyin": "Zhège chǎnpǐn mǎnzú le gùkè de xūqiú.",
+    "en": "This product satisfies customers' needs."
+   },
+   {
+    "zh": "他很容易满足。",
+    "pinyin": "Tā hěn róngyì mǎnzú.",
+    "en": "He's easily satisfied."
+   },
+   {
+    "zh": "这些条件不能满足我们的要求。",
+    "pinyin": "Zhèxiē tiáojiàn bù néng mǎnzú wǒmen de yāoqiú.",
+    "en": "These conditions can't satisfy our requirements."
+   },
+   {
+    "zh": "她对现在的生活很满足。",
+    "pinyin": "Tā duì xiànzài de shēnghuó hěn mǎnzú.",
+    "en": "She's very satisfied with her current life."
+   }
+  ]
+ },
+ {
+  "id": "w1745",
+  "hanzi": "毛病",
+  "pinyin": "máobìng",
+  "meaning": "fault; defect",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这台电脑有毛病。",
+    "pinyin": "Zhè tái diànnǎo yǒu máobìng.",
+    "en": "This computer has a problem."
+   },
+   {
+    "zh": "他有一个坏毛病。",
+    "pinyin": "Tā yǒu yí ge huài máobìng.",
+    "en": "He has a bad habit."
+   },
+   {
+    "zh": "车子出毛病了。",
+    "pinyin": "Chēzi chū máobìng le.",
+    "en": "The car developed a problem."
+   },
+   {
+    "zh": "每个人都有自己的毛病。",
+    "pinyin": "Měi ge rén dōu yǒu zìjǐ de máobìng.",
+    "en": "Everyone has their own flaws."
+   },
+   {
+    "zh": "这件事挑不出毛病。",
+    "pinyin": "Zhè jiàn shì tiāo bù chū máobìng.",
+    "en": "No fault can be found with this matter."
+   }
+  ]
+ },
+ {
+  "id": "w1746",
+  "hanzi": "矛盾",
+  "pinyin": "máodùn",
+  "meaning": "contradiction; conflict",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "他们之间有矛盾。",
+    "pinyin": "Tāmen zhījiān yǒu máodùn.",
+    "en": "There's conflict between them."
+   },
+   {
+    "zh": "这两句话很矛盾。",
+    "pinyin": "Zhè liǎng jù huà hěn máodùn.",
+    "en": "These two sentences are very contradictory."
+   },
+   {
+    "zh": "我们要解决这个矛盾。",
+    "pinyin": "Wǒmen yào jiějué zhège máodùn.",
+    "en": "We need to resolve this conflict."
+   },
+   {
+    "zh": "她的想法很矛盾。",
+    "pinyin": "Tā de xiǎngfǎ hěn máodùn.",
+    "en": "Her thinking is very contradictory."
+   },
+   {
+    "zh": "这个矛盾越来越严重了。",
+    "pinyin": "Zhège máodùn yuèláiyuè yánzhòng le.",
+    "en": "This conflict is becoming more and more serious."
+   }
+  ]
+ },
+ {
+  "id": "w1747",
+  "hanzi": "冒险",
+  "pinyin": "màoxiǎn",
+  "meaning": "to take risks",
+  "partOfSpeech": "verb",
+  "level": 5,
+  "category": "Actions",
+  "examples": [
+   {
+    "zh": "她喜欢冒险。",
+    "pinyin": "Tā xǐhuan màoxiǎn.",
+    "en": "She likes taking risks."
+   },
+   {
+    "zh": "这样做太冒险了。",
+    "pinyin": "Zhèyàng zuò tài màoxiǎn le.",
+    "en": "Doing this is too risky."
+   },
+   {
+    "zh": "他决定冒险试一试。",
+    "pinyin": "Tā juédìng màoxiǎn shì yi shì.",
+    "en": "He decided to take a risk and try it."
+   },
+   {
+    "zh": "这是一次冒险的旅行。",
+    "pinyin": "Zhè shì yí cì màoxiǎn de lǚxíng.",
+    "en": "This is an adventurous trip."
+   },
+   {
+    "zh": "她不愿意冒这个险。",
+    "pinyin": "Tā bú yuànyì mào zhège xiǎn.",
+    "en": "She's not willing to take this risk."
+   }
+  ]
+ },
+ {
+  "id": "w1748",
+  "hanzi": "贸易",
+  "pinyin": "màoyì",
+  "meaning": "trade",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这两个国家有贸易往来。",
+    "pinyin": "Zhè liǎng ge guójiā yǒu màoyì wǎnglái.",
+    "en": "These two countries have trade relations."
+   },
+   {
+    "zh": "贸易对经济很重要。",
+    "pinyin": "Màoyì duì jīngjì hěn zhòngyào.",
+    "en": "Trade is important for the economy."
+   },
+   {
+    "zh": "他从事国际贸易工作。",
+    "pinyin": "Tā cóngshì guójì màoyì gōngzuò.",
+    "en": "He works in international trade."
+   },
+   {
+    "zh": "这个地区的贸易越来越发达。",
+    "pinyin": "Zhège dìqū de màoyì yuèláiyuè fādá.",
+    "en": "This region's trade is becoming increasingly developed."
+   },
+   {
+    "zh": "两国签订了贸易协议。",
+    "pinyin": "Liǎng guó qiāndìng le màoyì xiéyì.",
+    "en": "The two countries signed a trade agreement."
+   }
+  ]
+ },
+ {
+  "id": "w1749",
+  "hanzi": "眉毛",
+  "pinyin": "méimao",
+  "meaning": "eyebrow",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Body",
+  "examples": [
+   {
+    "zh": "她的眉毛很好看。",
+    "pinyin": "Tā de méimao hěn hǎokàn.",
+    "en": "Her eyebrows look nice."
+   },
+   {
+    "zh": "她的眉毛长得很整齐。",
+    "pinyin": "Tā de méimao zhǎng de hěn zhěngqí.",
+    "en": "Her eyebrows are neatly shaped."
+   },
+   {
+    "zh": "她今天画了眉毛。",
+    "pinyin": "Tā jīntiān huà le méimao.",
+    "en": "She drew her eyebrows today."
+   },
+   {
+    "zh": "她的眉毛又黑又浓。",
+    "pinyin": "Tā de méimao yòu hēi yòu nóng.",
+    "en": "Her eyebrows are dark and thick."
+   },
+   {
+    "zh": "他扬起了眉毛。",
+    "pinyin": "Tā yáng qǐ le méimao.",
+    "en": "He raised his eyebrows."
+   }
+  ]
+ },
+ {
+  "id": "w1750",
+  "hanzi": "煤炭",
+  "pinyin": "méitàn",
+  "meaning": "coal",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Nature",
+  "examples": [
+   {
+    "zh": "这个地区有很多煤炭。",
+    "pinyin": "Zhège dìqū yǒu hěn duō méitàn.",
+    "en": "This region has a lot of coal."
+   },
+   {
+    "zh": "以前人们用煤炭取暖。",
+    "pinyin": "Yǐqián rénmen yòng méitàn qǔnuǎn.",
+    "en": "In the past, people used coal for heating."
+   },
+   {
+    "zh": "煤炭是一种重要的能源。",
+    "pinyin": "Méitàn shì yì zhǒng zhòngyào de néngyuán.",
+    "en": "Coal is an important energy source."
+   },
+   {
+    "zh": "工厂需要大量的煤炭。",
+    "pinyin": "Gōngchǎng xūyào dàliàng de méitàn.",
+    "en": "The factory needs a large amount of coal."
+   },
+   {
+    "zh": "这座城市因煤炭而发展起来。",
+    "pinyin": "Zhè zuò chéngshì yīn méitàn ér fāzhǎn qǐlái.",
+    "en": "This city developed because of coal."
+   }
+  ]
+ },
+ {
+  "id": "w1751",
+  "hanzi": "美术",
+  "pinyin": "měishù",
+  "meaning": "art; fine arts",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Education",
+  "examples": [
+   {
+    "zh": "她喜欢美术课。",
+    "pinyin": "Tā xǐhuan měishù kè.",
+    "en": "She likes art class."
+   },
+   {
+    "zh": "他学习美术专业。",
+    "pinyin": "Tā xuéxí měishù zhuānyè.",
+    "en": "He studies fine arts as his major."
+   },
+   {
+    "zh": "这幅画是美术展览的作品。",
+    "pinyin": "Zhè fú huà shì měishù zhǎnlǎn de zuòpǐn.",
+    "en": "This painting is a work from the art exhibition."
+   },
+   {
+    "zh": "美术老师教我们画画。",
+    "pinyin": "Měishù lǎoshī jiāo wǒmen huàhuà.",
+    "en": "The art teacher teaches us to paint."
+   },
+   {
+    "zh": "她对美术很有兴趣。",
+    "pinyin": "Tā duì měishù hěn yǒu xìngqù.",
+    "en": "She has a lot of interest in art."
+   }
+  ]
+ },
+ {
+  "id": "w1752",
+  "hanzi": "魅力",
+  "pinyin": "mèilì",
+  "meaning": "charm",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Personality",
+  "examples": [
+   {
+    "zh": "她很有魅力。",
+    "pinyin": "Tā hěn yǒu mèilì.",
+    "en": "She's very charming."
+   },
+   {
+    "zh": "这座城市充满魅力。",
+    "pinyin": "Zhè zuò chéngshì chōngmǎn mèilì.",
+    "en": "This city is full of charm."
+   },
+   {
+    "zh": "他的笑容很有魅力。",
+    "pinyin": "Tā de xiàoróng hěn yǒu mèilì.",
+    "en": "His smile is very charming."
+   },
+   {
+    "zh": "这个地方的自然魅力吸引了很多人。",
+    "pinyin": "Zhège dìfang de zìrán mèilì xīyǐn le hěn duō rén.",
+    "en": "This place's natural charm attracted many people."
+   },
+   {
+    "zh": "她的个人魅力让人印象深刻。",
+    "pinyin": "Tā de gèrén mèilì ràng rén yìnxiàng shēnkè.",
+    "en": "Her personal charm left a deep impression."
+   }
+  ]
+ },
+ {
+  "id": "w1753",
+  "hanzi": "迷路",
+  "pinyin": "mílù",
+  "meaning": "to lose one's way",
+  "partOfSpeech": "verb",
+  "level": 5,
+  "category": "Actions",
+  "examples": [
+   {
+    "zh": "我们在山里迷路了。",
+    "pinyin": "Wǒmen zài shān lǐ mílù le.",
+    "en": "We got lost in the mountains."
+   },
+   {
+    "zh": "她第一次来这里，迷路了。",
+    "pinyin": "Tā dì yī cì lái zhèlǐ, mílù le.",
+    "en": "She came here for the first time and got lost."
+   },
+   {
+    "zh": "别担心，我们没有迷路。",
+    "pinyin": "Bié dānxīn, wǒmen méiyǒu mílù.",
+    "en": "Don't worry, we're not lost."
+   },
+   {
+    "zh": "他因为迷路错过了火车。",
+    "pinyin": "Tā yīnwèi mílù cuòguò le huǒchē.",
+    "en": "He missed the train because he got lost."
+   },
+   {
+    "zh": "这个城市很容易迷路。",
+    "pinyin": "Zhège chéngshì hěn róngyì mílù.",
+    "en": "It's easy to get lost in this city."
+   }
+  ]
+ },
+ {
+  "id": "w1754",
+  "hanzi": "谜语",
+  "pinyin": "míyǔ",
+  "meaning": "riddle",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "她给我出了一个谜语。",
+    "pinyin": "Tā gěi wǒ chū le yí ge míyǔ.",
+    "en": "She gave me a riddle."
+   },
+   {
+    "zh": "这个谜语很难猜。",
+    "pinyin": "Zhège míyǔ hěn nán cāi.",
+    "en": "This riddle is hard to guess."
+   },
+   {
+    "zh": "孩子们喜欢猜谜语。",
+    "pinyin": "Háizimen xǐhuan cāi míyǔ.",
+    "en": "Children like guessing riddles."
+   },
+   {
+    "zh": "我猜出了这个谜语的答案。",
+    "pinyin": "Wǒ cāi chū le zhège míyǔ de dá'àn.",
+    "en": "I guessed the answer to this riddle."
+   },
+   {
+    "zh": "她讲了一个有趣的谜语。",
+    "pinyin": "Tā jiǎng le yí ge yǒuqù de míyǔ.",
+    "en": "She told an interesting riddle."
+   }
+  ]
+ },
+ {
+  "id": "w1755",
+  "hanzi": "秘密",
+  "pinyin": "mìmì",
+  "meaning": "secret",
+  "partOfSpeech": "noun/adjective",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这是一个秘密。",
+    "pinyin": "Zhè shì yí ge mìmì.",
+    "en": "This is a secret."
+   },
+   {
+    "zh": "她不会告诉别人这个秘密。",
+    "pinyin": "Tā bú huì gàosu biéren zhège mìmì.",
+    "en": "She won't tell others this secret."
+   },
+   {
+    "zh": "请保守这个秘密。",
+    "pinyin": "Qǐng bǎoshǒu zhège mìmì.",
+    "en": "Please keep this secret."
+   },
+   {
+    "zh": "他们秘密地商量了这件事。",
+    "pinyin": "Tāmen mìmì de shāngliang le zhè jiàn shì.",
+    "en": "They secretly discussed this matter."
+   },
+   {
+    "zh": "她终于说出了自己的秘密。",
+    "pinyin": "Tā zhōngyú shuō chū le zìjǐ de mìmì.",
+    "en": "She finally revealed her secret."
+   }
+  ]
+ },
+ {
+  "id": "w1756",
+  "hanzi": "秘书",
+  "pinyin": "mìshū",
+  "meaning": "secretary",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Work",
+  "examples": [
+   {
+    "zh": "她是公司的秘书。",
+    "pinyin": "Tā shì gōngsī de mìshū.",
+    "en": "She's the company's secretary."
+   },
+   {
+    "zh": "秘书帮老板安排行程。",
+    "pinyin": "Mìshū bāng lǎobǎn ānpái xíngchéng.",
+    "en": "The secretary helps arrange the boss's schedule."
+   },
+   {
+    "zh": "她当秘书已经五年了。",
+    "pinyin": "Tā dāng mìshū yǐjīng wǔ nián le.",
+    "en": "She's been a secretary for five years."
+   },
+   {
+    "zh": "秘书负责整理文件。",
+    "pinyin": "Mìshū fùzé zhěnglǐ wénjiàn.",
+    "en": "The secretary is responsible for organizing documents."
+   },
+   {
+    "zh": "他是一位优秀的秘书。",
+    "pinyin": "Tā shì yí wèi yōuxiù de mìshū.",
+    "en": "He's an excellent secretary."
+   }
+  ]
+ },
+ {
+  "id": "w1757",
+  "hanzi": "密切",
+  "pinyin": "mìqiè",
+  "meaning": "close; intimate",
+  "partOfSpeech": "adjective",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "他们的关系很密切。",
+    "pinyin": "Tāmen de guānxi hěn mìqiè.",
+    "en": "Their relationship is very close."
+   },
+   {
+    "zh": "我们要密切关注这个情况。",
+    "pinyin": "Wǒmen yào mìqiè guānzhù zhège qíngkuàng.",
+    "en": "We should closely monitor this situation."
+   },
+   {
+    "zh": "这两件事密切相关。",
+    "pinyin": "Zhè liǎng jiàn shì mìqiè xiāngguān.",
+    "en": "These two matters are closely related."
+   },
+   {
+    "zh": "她和同事们保持密切联系。",
+    "pinyin": "Tā hé tóngshìmen bǎochí mìqiè liánxì.",
+    "en": "She maintains close contact with her colleagues."
+   },
+   {
+    "zh": "两国有密切的合作关系。",
+    "pinyin": "Liǎng guó yǒu mìqiè de hézuò guānxi.",
+    "en": "The two countries have a close cooperative relationship."
+   }
+  ]
+ },
+ {
+  "id": "w1758",
+  "hanzi": "蜜蜂",
+  "pinyin": "mìfēng",
+  "meaning": "bee; honeybee",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Animals",
+  "examples": [
+   {
+    "zh": "蜜蜂在花朵中飞。",
+    "pinyin": "Mìfēng zài huāduǒ zhōng fēi.",
+    "en": "Bees fly among the flowers."
+   },
+   {
+    "zh": "蜜蜂会做蜜。",
+    "pinyin": "Mìfēng huì zuò mì.",
+    "en": "Bees make honey."
+   },
+   {
+    "zh": "她被蜜蜂咬了。",
+    "pinyin": "Tā bèi mìfēng yǎo le.",
+    "en": "She was stung by a bee."
+   },
+   {
+    "zh": "这里有一群蜜蜂。",
+    "pinyin": "Zhèlǐ yǒu yì qún mìfēng.",
+    "en": "There's a swarm of bees here."
+   },
+   {
+    "zh": "蜜蜂很勤劳。",
+    "pinyin": "Mìfēng hěn qínláo.",
+    "en": "Bees are very hardworking."
+   }
+  ]
+ },
+ {
+  "id": "w1759",
+  "hanzi": "棉花",
+  "pinyin": "miánhua",
+  "meaning": "cotton",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Nature",
+  "examples": [
+   {
+    "zh": "这件衣服是棉花做的。",
+    "pinyin": "Zhè jiàn yīfu shì miánhua zuò de.",
+    "en": "This piece of clothing is made of cotton."
+   },
+   {
+    "zh": "农民在地里种棉花。",
+    "pinyin": "Nóngmín zài dì lǐ zhòng miánhua.",
+    "en": "Farmers grow cotton in the field."
+   },
+   {
+    "zh": "棉花摸起来很软。",
+    "pinyin": "Miánhua mō qǐlái hěn ruǎn.",
+    "en": "Cotton feels soft to the touch."
+   },
+   {
+    "zh": "这个被子里面是棉花。",
+    "pinyin": "Zhège bèizi lǐmiàn shì miánhua.",
+    "en": "Inside this quilt is cotton."
+   },
+   {
+    "zh": "她买了一包棉花。",
+    "pinyin": "Tā mǎi le yì bāo miánhua.",
+    "en": "She bought a bag of cotton."
+   }
+  ]
+ },
+ {
+  "id": "w1760",
+  "hanzi": "面对",
+  "pinyin": "miànduì",
+  "meaning": "to face; to confront",
+  "partOfSpeech": "verb",
+  "level": 5,
+  "category": "Actions",
+  "examples": [
+   {
+    "zh": "我们要面对现实。",
+    "pinyin": "Wǒmen yào miànduì xiànshí.",
+    "en": "We need to face reality."
+   },
+   {
+    "zh": "她勇敢地面对困难。",
+    "pinyin": "Tā yǒnggǎn de miànduì kùnnán.",
+    "en": "She bravely faces difficulties."
+   },
+   {
+    "zh": "我们要学会面对失败。",
+    "pinyin": "Wǒmen yào xuéhuì miànduì shībài.",
+    "en": "We need to learn to face failure."
+   },
+   {
+    "zh": "她面对着一个艰难的选择。",
+    "pinyin": "Tā miànduì zhe yí ge jiānnán de xuǎnzé.",
+    "en": "She's facing a difficult choice."
+   },
+   {
+    "zh": "他冷静地面对了这个问题。",
+    "pinyin": "Tā lěngjìng de miànduì le zhège wèntí.",
+    "en": "He calmly faced this problem."
+   }
+  ]
+ },
+ {
+  "id": "w1761",
+  "hanzi": "面积",
+  "pinyin": "miànjī",
+  "meaning": "area (of a surface)",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这个房子面积很大。",
+    "pinyin": "Zhège fángzi miànjī hěn dà.",
+    "en": "This house's area is large."
+   },
+   {
+    "zh": "这个国家的面积很大。",
+    "pinyin": "Zhège guójiā de miànjī hěn dà.",
+    "en": "This country's area is large."
+   },
+   {
+    "zh": "请计算一下这块地的面积。",
+    "pinyin": "Qǐng jìsuàn yíxià zhè kuài dì de miànjī.",
+    "en": "Please calculate the area of this piece of land."
+   },
+   {
+    "zh": "这个公园的面积有多大？",
+    "pinyin": "Zhège gōngyuán de miànjī yǒu duō dà?",
+    "en": "How big is this park's area?"
+   },
+   {
+    "zh": "我们的教室面积不大。",
+    "pinyin": "Wǒmen de jiàoshì miànjī bú dà.",
+    "en": "Our classroom's area isn't big."
+   }
+  ]
+ },
+ {
+  "id": "w1762",
+  "hanzi": "面临",
+  "pinyin": "miànlín",
+  "meaning": "to face; to be confronted with",
+  "partOfSpeech": "verb",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "我们面临一个重要选择。",
+    "pinyin": "Wǒmen miànlín yí ge zhòngyào xuǎnzé.",
+    "en": "We're facing an important choice."
+   },
+   {
+    "zh": "公司面临很大的压力。",
+    "pinyin": "Gōngsī miànlín hěn dà de yālì.",
+    "en": "The company is facing great pressure."
+   },
+   {
+    "zh": "她面临着一个艰难的决定。",
+    "pinyin": "Tā miànlín zhe yí ge jiānnán de juédìng.",
+    "en": "She's confronted with a difficult decision."
+   },
+   {
+    "zh": "这个地区面临着水资源短缺的问题。",
+    "pinyin": "Zhège dìqū miànlín zhe shuǐ zīyuán duǎnquē de wèntí.",
+    "en": "This region faces the problem of water resource shortage."
+   },
+   {
+    "zh": "他们面临着共同的挑战。",
+    "pinyin": "Tāmen miànlín zhe gòngtóng de tiǎozhàn.",
+    "en": "They're facing a common challenge."
+   }
+  ]
+ },
+ {
+  "id": "w1763",
+  "hanzi": "苗条",
+  "pinyin": "miáotiao",
+  "meaning": "slim; slender",
+  "partOfSpeech": "adjective",
+  "level": 5,
+  "category": "Descriptions",
+  "examples": [
+   {
+    "zh": "她的身材很苗条。",
+    "pinyin": "Tā de shēncái hěn miáotiao.",
+    "en": "Her figure is very slim."
+   },
+   {
+    "zh": "她想保持苗条的身材。",
+    "pinyin": "Tā xiǎng bǎochí miáotiao de shēncái.",
+    "en": "She wants to maintain a slim figure."
+   },
+   {
+    "zh": "运动可以让人更苗条。",
+    "pinyin": "Yùndòng kěyǐ ràng rén gèng miáotiao.",
+    "en": "Exercise can make people slimmer."
+   },
+   {
+    "zh": "她比以前更苗条了。",
+    "pinyin": "Tā bǐ yǐqián gèng miáotiao le.",
+    "en": "She's slimmer than before."
+   },
+   {
+    "zh": "她穿这件衣服显得很苗条。",
+    "pinyin": "Tā chuān zhè jiàn yīfu xiǎnde hěn miáotiao.",
+    "en": "She looks slim wearing this piece of clothing."
+   }
+  ]
+ },
+ {
+  "id": "w1764",
+  "hanzi": "描写",
+  "pinyin": "miáoxiě",
+  "meaning": "to describe; to depict",
+  "partOfSpeech": "verb",
+  "level": 5,
+  "category": "Actions",
+  "examples": [
+   {
+    "zh": "她描写了这个地方的美景。",
+    "pinyin": "Tā miáoxiě le zhège dìfang de měijǐng.",
+    "en": "She described the beautiful scenery of this place."
+   },
+   {
+    "zh": "这本小说描写了一个感人的故事。",
+    "pinyin": "Zhè běn xiǎoshuō miáoxiě le yí ge gǎnrén de gùshi.",
+    "en": "This novel depicts a touching story."
+   },
+   {
+    "zh": "作者细致地描写了人物的心理。",
+    "pinyin": "Zuòzhě xìzhì de miáoxiě le rénwù de xīnlǐ.",
+    "en": "The author meticulously described the characters' psychology."
+   },
+   {
+    "zh": "她用文字描写了自己的感受。",
+    "pinyin": "Tā yòng wénzì miáoxiě le zìjǐ de gǎnshòu.",
+    "en": "She used words to describe her own feelings."
+   },
+   {
+    "zh": "这幅画描写了乡村的生活。",
+    "pinyin": "Zhè fú huà miáoxiě le xiāngcūn de shēnghuó.",
+    "en": "This painting depicts rural life."
+   }
+  ]
+ },
+ {
+  "id": "w1765",
+  "hanzi": "秒",
+  "pinyin": "miǎo",
+  "meaning": "second (unit of time)",
+  "partOfSpeech": "measure word",
+  "level": 5,
+  "category": "Time",
+  "examples": [
+   {
+    "zh": "请等三十秒。",
+    "pinyin": "Qǐng děng sānshí miǎo.",
+    "en": "Please wait thirty seconds."
+   },
+   {
+    "zh": "他跑一百米只用了十几秒。",
+    "pinyin": "Tā pǎo yìbǎi mǐ zhǐ yòng le shí jǐ miǎo.",
+    "en": "He only took a dozen or so seconds to run one hundred meters."
+   },
+   {
+    "zh": "这个视频只有三十秒。",
+    "pinyin": "Zhège shìpín zhǐyǒu sānshí miǎo.",
+    "en": "This video is only thirty seconds long."
+   },
+   {
+    "zh": "每一秒都很宝贵。",
+    "pinyin": "Měi yì miǎo dōu hěn bǎoguì.",
+    "en": "Every second is precious."
+   },
+   {
+    "zh": "她的动作只花了几秒钟。",
+    "pinyin": "Tā de dòngzuò zhǐ huā le jǐ miǎozhōng.",
+    "en": "Her movement only took a few seconds."
+   }
+  ]
+ },
+ {
+  "id": "w1766",
+  "hanzi": "民主",
+  "pinyin": "mínzhǔ",
+  "meaning": "democracy",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "这是一个民主的国家。",
+    "pinyin": "Zhè shì yí ge mínzhǔ de guójiā.",
+    "en": "This is a democratic country."
+   },
+   {
+    "zh": "我们要用民主的方式决定。",
+    "pinyin": "Wǒmen yào yòng mínzhǔ de fāngshì juédìng.",
+    "en": "We should decide in a democratic way."
+   },
+   {
+    "zh": "这个班的决定很民主。",
+    "pinyin": "Zhège bān de juédìng hěn mínzhǔ.",
+    "en": "This class's decision was very democratic."
+   },
+   {
+    "zh": "她相信民主的价值。",
+    "pinyin": "Tā xiāngxìn mínzhǔ de jiàzhí.",
+    "en": "She believes in the value of democracy."
+   },
+   {
+    "zh": "这个国家正在推行民主改革。",
+    "pinyin": "Zhège guójiā zhèngzài tuīxíng mínzhǔ gǎigé.",
+    "en": "This country is implementing democratic reforms."
+   }
+  ]
+ },
+ {
+  "id": "w1767",
+  "hanzi": "名牌",
+  "pinyin": "míngpái",
+  "meaning": "famous brand",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Abstract",
+  "examples": [
+   {
+    "zh": "她喜欢买名牌衣服。",
+    "pinyin": "Tā xǐhuan mǎi míngpái yīfu.",
+    "en": "She likes buying famous brand clothes."
+   },
+   {
+    "zh": "这是一个名牌大学。",
+    "pinyin": "Zhè shì yí ge míngpái dàxué.",
+    "en": "This is a famous university."
+   },
+   {
+    "zh": "名牌产品通常比较贵。",
+    "pinyin": "Míngpái chǎnpǐn tōngcháng bǐjiào guì.",
+    "en": "Famous brand products are usually more expensive."
+   },
+   {
+    "zh": "她不太在乎名牌。",
+    "pinyin": "Tā bútài zàihu míngpái.",
+    "en": "She doesn't care much about famous brands."
+   },
+   {
+    "zh": "这个包是名牌的。",
+    "pinyin": "Zhège bāo shì míngpái de.",
+    "en": "This bag is a famous brand."
+   }
+  ]
+ },
+ {
+  "id": "w1768",
+  "hanzi": "名片",
+  "pinyin": "míngpiàn",
+  "meaning": "business card",
+  "partOfSpeech": "noun",
+  "level": 5,
+  "category": "Work",
+  "examples": [
+   {
+    "zh": "请给我一张你的名片。",
+    "pinyin": "Qǐng gěi wǒ yì zhāng nǐ de míngpiàn.",
+    "en": "Please give me your business card."
+   },
+   {
+    "zh": "他递给我一张名片。",
+    "pinyin": "Tā dì gěi wǒ yì zhāng míngpiàn.",
+    "en": "He handed me a business card."
+   },
+   {
+    "zh": "她印了一批新名片。",
+    "pinyin": "Tā yìn le yì pī xīn míngpiàn.",
+    "en": "She printed a batch of new business cards."
+   },
+   {
+    "zh": "名片上写着她的电话号码。",
+    "pinyin": "Míngpiàn shàng xiě zhe tā de diànhuà hàomǎ.",
+    "en": "Her phone number is written on the business card."
+   },
+   {
+    "zh": "我把名片放在包里了。",
+    "pinyin": "Wǒ bǎ míngpiàn fàng zài bāo lǐ le.",
+    "en": "I put the business card in my bag."
    }
   ]
  }

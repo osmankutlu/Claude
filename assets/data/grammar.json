@@ -910,5 +910,1014 @@
         "en": "This is a matter between us."
       }
     ]
+  },
+  {
+    "id": "g39",
+    "title": "\"有\" ile Sahiplik/Varlık Cümleleri",
+    "level": 1,
+    "summary": "\"有\" (yǒu) \"sahip olmak\" veya \"var olmak\" anlamına gelir: Özne + 有 + Nesne.",
+    "explanation": "\"有\"'nin olumsuzu HER ZAMAN \"没有\"'dur, \"不有\" asla kullanılmaz. \"有\" hem sahiplik (\"我有一本书\" - bir kitabım var) hem de bir yerde bir şeyin bulunduğunu belirtmek için kullanılır (\"房间里有人\" - odada biri var).",
+    "examples": [
+      {
+        "zh": "我有一本书。",
+        "pinyin": "Wǒ yǒu yì běn shū.",
+        "en": "I have a book."
+      },
+      {
+        "zh": "她没有钱。",
+        "pinyin": "Tā méiyǒu qián.",
+        "en": "She doesn't have money."
+      },
+      {
+        "zh": "房间里有人吗？",
+        "pinyin": "Fángjiān lǐ yǒu rén ma?",
+        "en": "Is there anyone in the room?"
+      },
+      {
+        "zh": "我有两个朋友。",
+        "pinyin": "Wǒ yǒu liǎng ge péngyou.",
+        "en": "I have two friends."
+      },
+      {
+        "zh": "桌子上有一本书。",
+        "pinyin": "Zhuōzi shàng yǒu yì běn shū.",
+        "en": "There's a book on the table."
+      },
+      {
+        "zh": "你有时间吗？",
+        "pinyin": "Nǐ yǒu shíjiān ma?",
+        "en": "Do you have time?"
+      },
+      {
+        "zh": "这里有很多人。",
+        "pinyin": "Zhèlǐ yǒu hěn duō rén.",
+        "en": "There are many people here."
+      },
+      {
+        "zh": "我没有手机。",
+        "pinyin": "Wǒ méiyǒu shǒujī.",
+        "en": "I don't have a phone."
+      }
+    ]
+  },
+  {
+    "id": "g40",
+    "title": "\"从...到...\" (Zaman/Yer Aralığı)",
+    "level": 1,
+    "summary": "\"从 A 到 B\" kalıbı \"A'dan B'ye\" anlamına gelir; hem zaman hem yer için kullanılır.",
+    "explanation": "Kalıp değişmez: önce başlangıç noktası (从), sonra bitiş noktası (到) gelir. Zaman için (\"从九点到十点\") veya yer için (\"从北京到上海\") aynı şekilde kullanılır.",
+    "examples": [
+      {
+        "zh": "我从九点到十点上课。",
+        "pinyin": "Wǒ cóng jiǔ diǎn dào shí diǎn shàngkè.",
+        "en": "I have class from nine to ten."
+      },
+      {
+        "zh": "从北京到上海很远。",
+        "pinyin": "Cóng Běijīng dào Shànghǎi hěn yuǎn.",
+        "en": "It's far from Beijing to Shanghai."
+      },
+      {
+        "zh": "从这儿到那儿要多长时间？",
+        "pinyin": "Cóng zhèr dào nàr yào duō cháng shíjiān?",
+        "en": "How long does it take from here to there?"
+      },
+      {
+        "zh": "商店从八点到晚上十点开门。",
+        "pinyin": "Shāngdiàn cóng bā diǎn dào wǎnshang shí diǎn kāimén.",
+        "en": "The store is open from eight to ten at night."
+      },
+      {
+        "zh": "我们从星期一到星期五上班。",
+        "pinyin": "Wǒmen cóng xīngqīyī dào xīngqīwǔ shàngbān.",
+        "en": "We work from Monday to Friday."
+      },
+      {
+        "zh": "从家到学校要走十分钟。",
+        "pinyin": "Cóng jiā dào xuéxiào yào zǒu shí fēnzhōng.",
+        "en": "It takes ten minutes to walk from home to school."
+      },
+      {
+        "zh": "从今天到明天我很忙。",
+        "pinyin": "Cóng jīntiān dào míngtiān wǒ hěn máng.",
+        "en": "I'm busy from today until tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "g41",
+    "title": "\"太...了\" (Aşırılık Bildirme)",
+    "level": 1,
+    "summary": "\"太 + Sıfat + 了\" kalıbı \"çok/aşırı derecede...\" anlamı verir, genelde olumsuz bir değerlendirme taşır.",
+    "explanation": "\"很\" ile karıştırılmamalıdır: \"很好\" sadece \"iyi\" demektir, ama \"太好了\" \"çok iyi, harika!\" gibi güçlü bir duygu ifade eder; \"太贵了\" ise \"çok pahalı, fazla\" gibi şikayet anlamı taşır.",
+    "examples": [
+      {
+        "zh": "这个太贵了。",
+        "pinyin": "Zhège tài guì le.",
+        "en": "This is too expensive."
+      },
+      {
+        "zh": "太好了！",
+        "pinyin": "Tài hǎo le!",
+        "en": "Great!"
+      },
+      {
+        "zh": "今天太热了。",
+        "pinyin": "Jīntiān tài rè le.",
+        "en": "It's too hot today."
+      },
+      {
+        "zh": "这个问题太难了。",
+        "pinyin": "Zhège wèntí tài nán le.",
+        "en": "This question is too difficult."
+      },
+      {
+        "zh": "你太客气了。",
+        "pinyin": "Nǐ tài kèqi le.",
+        "en": "You're too polite."
+      },
+      {
+        "zh": "这个包太重了。",
+        "pinyin": "Zhège bāo tài zhòng le.",
+        "en": "This bag is too heavy."
+      },
+      {
+        "zh": "太可惜了。",
+        "pinyin": "Tài kěxī le.",
+        "en": "What a pity."
+      }
+    ]
+  },
+  {
+    "id": "g42",
+    "title": "Yer Sözcükleri: 上/下/里/外/前/后 + 边/面",
+    "level": 1,
+    "summary": "Yer bildiren kelimeler (上边/上面, 下边/下面, 里边/里面 vb.) bir ismin ARDINDAN gelerek konum belirtir: İsim + Yer Sözcüğü.",
+    "explanation": "Türkçe'deki \"masanın üstü\" gibi düşünülebilir: \"桌子上\" (masanın üstü/üstünde). \"边\" ve \"面\" genelde birbirinin yerine geçebilir (上边=上面).",
+    "examples": [
+      {
+        "zh": "书在桌子上边。",
+        "pinyin": "Shū zài zhuōzi shàngbian.",
+        "en": "The book is on the table."
+      },
+      {
+        "zh": "猫在椅子下面。",
+        "pinyin": "Māo zài yǐzi xiàmiàn.",
+        "en": "The cat is under the chair."
+      },
+      {
+        "zh": "学校里边有很多学生。",
+        "pinyin": "Xuéxiào lǐbian yǒu hěn duō xuésheng.",
+        "en": "There are many students inside the school."
+      },
+      {
+        "zh": "房子外边有一棵树。",
+        "pinyin": "Fángzi wàibian yǒu yì kē shù.",
+        "en": "There's a tree outside the house."
+      },
+      {
+        "zh": "银行前边有一个公园。",
+        "pinyin": "Yínháng qiánbian yǒu yí ge gōngyuán.",
+        "en": "There's a park in front of the bank."
+      },
+      {
+        "zh": "我家后面有个商店。",
+        "pinyin": "Wǒ jiā hòumiàn yǒu ge shāngdiàn.",
+        "en": "There's a store behind my house."
+      },
+      {
+        "zh": "杯子里面有水。",
+        "pinyin": "Bēizi lǐmiàn yǒu shuǐ.",
+        "en": "There's water in the cup."
+      }
+    ]
+  },
+  {
+    "id": "g43",
+    "title": "\"每\" (Her)",
+    "level": 1,
+    "summary": "\"每 + Ölçü Sözcüğü + İsim\" kalıbı \"her...\" anlamı verir ve genelde \"都\" ile birlikte kullanılır.",
+    "explanation": "\"每\"'den sonra bir ölçü sözcüğü gelmelidir (每个人, 每天, 每次). Cümlede genelde \"都\" ile birlikte kullanılarak \"hepsi/her zaman\" vurgusu güçlendirilir.",
+    "examples": [
+      {
+        "zh": "我每天都学习中文。",
+        "pinyin": "Wǒ měitiān dōu xuéxí Zhōngwén.",
+        "en": "I study Chinese every day."
+      },
+      {
+        "zh": "每个人都喜欢她。",
+        "pinyin": "Měi ge rén dōu xǐhuan tā.",
+        "en": "Everyone likes her."
+      },
+      {
+        "zh": "他每次都迟到。",
+        "pinyin": "Tā měi cì dōu chídào.",
+        "en": "He's late every time."
+      },
+      {
+        "zh": "每个星期我们都见面。",
+        "pinyin": "Měi ge xīngqī wǒmen dōu jiànmiàn.",
+        "en": "We meet every week."
+      },
+      {
+        "zh": "每个学生都有一本书。",
+        "pinyin": "Měi ge xuésheng dōu yǒu yì běn shū.",
+        "en": "Every student has a book."
+      },
+      {
+        "zh": "每天早上我都喝咖啡。",
+        "pinyin": "Měitiān zǎoshang wǒ dōu hē kāfēi.",
+        "en": "I drink coffee every morning."
+      }
+    ]
+  },
+  {
+    "id": "g44",
+    "title": "\"常常\" ve \"经常\" (Sıklık Zarfları)",
+    "level": 2,
+    "summary": "\"常常\" (chángcháng) ve \"经常\" (jīngcháng) \"sık sık, genellikle\" anlamına gelir ve fiilden ÖNCE gelir.",
+    "explanation": "İkisi de neredeyse aynı anlamdadır ve birbirinin yerine kullanılabilir. Olumsuzu \"不常\" şeklindedir (\"经常\" ile olumsuz daha az kullanılır).",
+    "examples": [
+      {
+        "zh": "我常常去公园。",
+        "pinyin": "Wǒ chángcháng qù gōngyuán.",
+        "en": "I often go to the park."
+      },
+      {
+        "zh": "她经常迟到。",
+        "pinyin": "Tā jīngcháng chídào.",
+        "en": "She's often late."
+      },
+      {
+        "zh": "我们经常一起吃饭。",
+        "pinyin": "Wǒmen jīngcháng yìqǐ chīfàn.",
+        "en": "We often eat together."
+      },
+      {
+        "zh": "他不常运动。",
+        "pinyin": "Tā bù cháng yùndòng.",
+        "en": "He doesn't exercise often."
+      },
+      {
+        "zh": "她常常给我打电话。",
+        "pinyin": "Tā chángcháng gěi wǒ dǎ diànhuà.",
+        "en": "She often calls me."
+      },
+      {
+        "zh": "我经常忘记带钥匙。",
+        "pinyin": "Wǒ jīngcháng wàngjì dài yàoshi.",
+        "en": "I often forget to bring my keys."
+      }
+    ]
+  },
+  {
+    "id": "g45",
+    "title": "\"一...就...\" (Bir...Olunca Hemen...)",
+    "level": 2,
+    "summary": "\"一 A 就 B\" kalıbı \"A olur olmaz, hemen B\" anlamına gelir; iki eylem art arda çok hızlı gerçekleşir.",
+    "explanation": "İki yan cümlenin öznesi aynı ya da farklı olabilir. Kalıp genelde geçmişte gerçekleşmiş ardışık olayları anlatmak için kullanılır.",
+    "examples": [
+      {
+        "zh": "我一到家就睡觉了。",
+        "pinyin": "Wǒ yí dào jiā jiù shuìjiào le.",
+        "en": "As soon as I got home, I went to sleep."
+      },
+      {
+        "zh": "她一看见我就笑了。",
+        "pinyin": "Tā yí kànjiàn wǒ jiù xiào le.",
+        "en": "As soon as she saw me, she smiled."
+      },
+      {
+        "zh": "我一下课就去吃饭。",
+        "pinyin": "Wǒ yí xiàkè jiù qù chīfàn.",
+        "en": "As soon as class ends, I go eat."
+      },
+      {
+        "zh": "他一听就明白了。",
+        "pinyin": "Tā yì tīng jiù míngbai le.",
+        "en": "As soon as he heard it, he understood."
+      },
+      {
+        "zh": "我一起床就喝水。",
+        "pinyin": "Wǒ yì qǐchuáng jiù hē shuǐ.",
+        "en": "As soon as I get up, I drink water."
+      },
+      {
+        "zh": "她一说话我就认出她了。",
+        "pinyin": "Tā yì shuōhuà wǒ jiù rèn chū tā le.",
+        "en": "As soon as she spoke, I recognized her."
+      }
+    ]
+  },
+  {
+    "id": "g46",
+    "title": "\"又...又...\" (Hem...Hem De...)",
+    "level": 2,
+    "summary": "\"又 A 又 B\" kalıbı iki özelliğin AYNI ANDA doğru olduğunu belirtir: \"hem A hem B\".",
+    "explanation": "A ve B genelde sıfat ya da fiildir ve genelde benzer/uyumlu iki özelliği birlikte anlatır: \"又便宜又好\" (hem ucuz hem iyi).",
+    "examples": [
+      {
+        "zh": "这个菜又好吃又便宜。",
+        "pinyin": "Zhège cài yòu hǎochī yòu piányi.",
+        "en": "This dish is both delicious and cheap."
+      },
+      {
+        "zh": "她又高又漂亮。",
+        "pinyin": "Tā yòu gāo yòu piàoliang.",
+        "en": "She's both tall and pretty."
+      },
+      {
+        "zh": "今天又冷又下雨。",
+        "pinyin": "Jīntiān yòu lěng yòu xiàyǔ.",
+        "en": "Today is both cold and rainy."
+      },
+      {
+        "zh": "这本书又长又难。",
+        "pinyin": "Zhè běn shū yòu cháng yòu nán.",
+        "en": "This book is both long and difficult."
+      },
+      {
+        "zh": "他又聪明又努力。",
+        "pinyin": "Tā yòu cōngming yòu nǔlì.",
+        "en": "He's both smart and hardworking."
+      },
+      {
+        "zh": "这个房间又大又亮。",
+        "pinyin": "Zhège fángjiān yòu dà yòu liàng.",
+        "en": "This room is both big and bright."
+      }
+    ]
+  },
+  {
+    "id": "g47",
+    "title": "\"先...然后...\" (Önce...Sonra...)",
+    "level": 2,
+    "summary": "\"先 A，然后 B\" kalıbı iki eylemin SIRAYLA yapıldığını gösterir: \"önce A, sonra B\".",
+    "explanation": "Bu kalıp günlük rutinleri veya adım adım talimatları anlatırken çok kullanışlıdır. \"然后\" yerine \"再\" de kullanılabilir.",
+    "examples": [
+      {
+        "zh": "我先吃饭，然后洗澡。",
+        "pinyin": "Wǒ xiān chīfàn, ránhòu xǐzǎo.",
+        "en": "I eat first, then take a shower."
+      },
+      {
+        "zh": "你先坐下，然后我们聊聊。",
+        "pinyin": "Nǐ xiān zuòxià, ránhòu wǒmen liáoliao.",
+        "en": "Sit down first, then let's chat."
+      },
+      {
+        "zh": "我们先去银行，然后去超市。",
+        "pinyin": "Wǒmen xiān qù yínháng, ránhòu qù chāoshì.",
+        "en": "We'll go to the bank first, then the supermarket."
+      },
+      {
+        "zh": "她先做作业，然后看电视。",
+        "pinyin": "Tā xiān zuò zuòyè, ránhòu kàn diànshì.",
+        "en": "She does homework first, then watches TV."
+      },
+      {
+        "zh": "先放盐，然后放糖。",
+        "pinyin": "Xiān fàng yán, ránhòu fàng táng.",
+        "en": "Put in salt first, then sugar."
+      },
+      {
+        "zh": "我先睡一会儿，然后再工作。",
+        "pinyin": "Wǒ xiān shuì yíhuìr, ránhòu zài gōngzuò.",
+        "en": "I'll sleep a bit first, then work."
+      }
+    ]
+  },
+  {
+    "id": "g48",
+    "title": "\"或者\" ve \"还是\" (Veya)",
+    "level": 2,
+    "summary": "\"或者\" (huòzhě) düz cümlelerde, \"还是\" (háishi) sorularda \"veya\" anlamında kullanılır.",
+    "explanation": "En sık yapılan hatalardan biri: soru cümlelerinde \"或者\" kullanmaktır. Doğrusu: \"你要茶还是咖啡？\" (Çay mı kahve mi istersin?) — asla \"或者\" ile değil.",
+    "examples": [
+      {
+        "zh": "你要茶还是咖啡？",
+        "pinyin": "Nǐ yào chá háishi kāfēi?",
+        "en": "Do you want tea or coffee?"
+      },
+      {
+        "zh": "我们可以坐公共汽车或者坐地铁。",
+        "pinyin": "Wǒmen kěyǐ zuò gōnggòngqìchē huòzhě zuò dìtiě.",
+        "en": "We can take the bus or the subway."
+      },
+      {
+        "zh": "你今天去还是明天去？",
+        "pinyin": "Nǐ jīntiān qù háishi míngtiān qù?",
+        "en": "Are you going today or tomorrow?"
+      },
+      {
+        "zh": "周末我看书或者看电影。",
+        "pinyin": "Zhōumò wǒ kàn shū huòzhě kàn diànyǐng.",
+        "en": "On weekends I read or watch movies."
+      },
+      {
+        "zh": "你喜欢红色还是蓝色？",
+        "pinyin": "Nǐ xǐhuan hóngsè háishi lánsè?",
+        "en": "Do you like red or blue?"
+      },
+      {
+        "zh": "我们可以在家吃，或者去饭馆吃。",
+        "pinyin": "Wǒmen kěyǐ zài jiā chī, huòzhě qù fànguǎn chī.",
+        "en": "We can eat at home, or go eat at a restaurant."
+      }
+    ]
+  },
+  {
+    "id": "g49",
+    "title": "\"被\" Cümlesinin Temelleri (HSK2 Düzeyi)",
+    "level": 2,
+    "summary": "\"被\" (bèi) \"tarafından\" anlamı katarak basit edilgen cümleler kurar: \"Nesne + 被 + Özne + Fiil\".",
+    "explanation": "HSK3'teki \"被\" konusundan daha basit örneklerle bu yapıya giriş: genelde bir şeyin başına kötü bir şey geldiğini anlatır. \"被\"den sonraki özne bazen atlanabilir.",
+    "examples": [
+      {
+        "zh": "我的书被小明拿走了。",
+        "pinyin": "Wǒ de shū bèi Xiǎomíng ná zǒu le.",
+        "en": "My book was taken away by Xiaoming."
+      },
+      {
+        "zh": "苹果被孩子吃了。",
+        "pinyin": "Píngguǒ bèi háizi chī le.",
+        "en": "The apple was eaten by the child."
+      },
+      {
+        "zh": "杯子被打破了。",
+        "pinyin": "Bēizi bèi dǎpò le.",
+        "en": "The cup was broken."
+      },
+      {
+        "zh": "他的自行车被骑走了。",
+        "pinyin": "Tā de zìxíngchē bèi qízǒu le.",
+        "en": "His bicycle was ridden away."
+      },
+      {
+        "zh": "这封信被她看了。",
+        "pinyin": "Zhè fēng xìn bèi tā kàn le.",
+        "en": "This letter was read by her."
+      },
+      {
+        "zh": "门被风关上了。",
+        "pinyin": "Mén bèi fēng guānshàng le.",
+        "en": "The door was closed by the wind."
+      }
+    ]
+  },
+  {
+    "id": "g50",
+    "title": "\"把\" ile Sonuç Tamamlayıcıları",
+    "level": 2,
+    "summary": "\"把\" cümlesinde fiilden sonra genelde bir sonuç bildiren tamamlayıcı (完,好,干净 vb.) gelir, nesnenin son durumunu belirtir.",
+    "explanation": "\"我把作业做了\" eksik/doğal değildir; \"我把作业做完了\" (ödevi bitirdim) gibi bir sonuç eklemek daha doğaldır. Bu, \"把\" cümlesinin \"nesnede bir değişiklik olduğunu\" vurgulama amacıyla ilgilidir.",
+    "examples": [
+      {
+        "zh": "我把作业做完了。",
+        "pinyin": "Wǒ bǎ zuòyè zuò wán le.",
+        "en": "I finished the homework."
+      },
+      {
+        "zh": "请把房间打扫干净。",
+        "pinyin": "Qǐng bǎ fángjiān dǎsǎo gānjìng.",
+        "en": "Please clean the room thoroughly."
+      },
+      {
+        "zh": "她把衣服洗好了。",
+        "pinyin": "Tā bǎ yīfu xǐ hǎo le.",
+        "en": "She washed the clothes clean."
+      },
+      {
+        "zh": "我把这本书看完了。",
+        "pinyin": "Wǒ bǎ zhè běn shū kàn wán le.",
+        "en": "I finished reading this book."
+      },
+      {
+        "zh": "他把车修好了。",
+        "pinyin": "Tā bǎ chē xiū hǎo le.",
+        "en": "He fixed the car."
+      },
+      {
+        "zh": "请把名字写清楚。",
+        "pinyin": "Qǐng bǎ míngzi xiě qīngchu.",
+        "en": "Please write the name clearly."
+      }
+    ]
+  },
+  {
+    "id": "g51",
+    "title": "Sonuç Tamamlayıcıları (完/好/到/懂/见/住)",
+    "level": 3,
+    "summary": "Fiilden hemen sonra gelen 完/好/到/懂/见/住 gibi kelimeler eylemin SONUCUNU belirtir: fiil + sonuç tamamlayıcısı.",
+    "explanation": "Bunlar potansiyel tamamlayıcıdan (V得/不+sonuç) farklıdır; burada doğrudan eylemin GERÇEKTEN tamamlandığını anlatırız. \"完\"=bitirmek, \"好\"=iyi/tam şekilde yapmak, \"到\"=hedefe ulaşmak, \"懂\"=anlamak, \"见\"=algılamak/görmek, \"住\"=sabitlemek/tutmak.",
+    "examples": [
+      {
+        "zh": "我吃完饭了。",
+        "pinyin": "Wǒ chī wán fàn le.",
+        "en": "I finished eating."
+      },
+      {
+        "zh": "作业做好了。",
+        "pinyin": "Zuòyè zuò hǎo le.",
+        "en": "The homework is done."
+      },
+      {
+        "zh": "我找到钥匙了。",
+        "pinyin": "Wǒ zhǎodào yàoshi le.",
+        "en": "I found the keys."
+      },
+      {
+        "zh": "这句话我听懂了。",
+        "pinyin": "Zhè jù huà wǒ tīngdǒng le.",
+        "en": "I understood this sentence."
+      },
+      {
+        "zh": "我看见她了。",
+        "pinyin": "Wǒ kànjiàn tā le.",
+        "en": "I saw her."
+      },
+      {
+        "zh": "请记住这个词。",
+        "pinyin": "Qǐng jìzhù zhège cí.",
+        "en": "Please remember this word."
+      },
+      {
+        "zh": "他没听懂我的话。",
+        "pinyin": "Tā méi tīngdǒng wǒ de huà.",
+        "en": "He didn't understand what I said."
+      }
+    ]
+  },
+  {
+    "id": "g52",
+    "title": "\"一直\" ve \"一向\" (Sürekli, Her Zaman)",
+    "level": 3,
+    "summary": "\"一直\" (yìzhí) bir eylemin kesintisiz devam ettiğini, \"一向\" (yíxiàng) ise bir alışkanlığın her zaman böyle olduğunu belirtir.",
+    "explanation": "\"一直\" hem zaman hem yön anlamı taşıyabilir (\"一直走\" = düz git). \"一向\" daha çok kişilik/alışkanlık için kullanılır: \"她一向很努力\" (o her zaman çalışkandır).",
+    "examples": [
+      {
+        "zh": "我一直在等你。",
+        "pinyin": "Wǒ yìzhí zài děng nǐ.",
+        "en": "I've been waiting for you the whole time."
+      },
+      {
+        "zh": "她一向很努力。",
+        "pinyin": "Tā yíxiàng hěn nǔlì.",
+        "en": "She's always been hardworking."
+      },
+      {
+        "zh": "请一直走，然后往右转。",
+        "pinyin": "Qǐng yìzhí zǒu, ránhòu wǎng yòu zhuǎn.",
+        "en": "Please keep going straight, then turn right."
+      },
+      {
+        "zh": "他一直住在这里。",
+        "pinyin": "Tā yìzhí zhù zài zhèlǐ.",
+        "en": "He has always lived here."
+      },
+      {
+        "zh": "我一向不喜欢咖啡。",
+        "pinyin": "Wǒ yíxiàng bù xǐhuan kāfēi.",
+        "en": "I've never liked coffee."
+      },
+      {
+        "zh": "她一直没回答我。",
+        "pinyin": "Tā yìzhí méi huídá wǒ.",
+        "en": "She never answered me."
+      }
+    ]
+  },
+  {
+    "id": "g53",
+    "title": "\"差点儿\" (Neredeyse)",
+    "level": 3,
+    "summary": "\"差点儿\" (chàdiǎnr) \"neredeyse, az kalsın\" anlamına gelir; genelde olmasını istemediğimiz bir şeyin az kalsın olacağını anlatır.",
+    "explanation": "Olumsuz bir şey için: \"差点儿摔倒\" (az kalsın düşüyordum - düşmedi, iyi oldu). İstenen bir şey için kullanılırsa \"差点儿没\" ile birlikte de aynı anlamı taşıyabilir - bağlama dikkat gerekir.",
+    "examples": [
+      {
+        "zh": "我差点儿迟到了。",
+        "pinyin": "Wǒ chàdiǎnr chídào le.",
+        "en": "I was almost late."
+      },
+      {
+        "zh": "她差点儿摔倒了。",
+        "pinyin": "Tā chàdiǎnr shuāidǎo le.",
+        "en": "She almost fell down."
+      },
+      {
+        "zh": "我差点儿忘了带钱包。",
+        "pinyin": "Wǒ chàdiǎnr wàng le dài qiánbāo.",
+        "en": "I almost forgot to bring my wallet."
+      },
+      {
+        "zh": "他差点儿哭了。",
+        "pinyin": "Tā chàdiǎnr kū le.",
+        "en": "He almost cried."
+      },
+      {
+        "zh": "车差点儿撞到我。",
+        "pinyin": "Chē chàdiǎnr zhuàng dào wǒ.",
+        "en": "The car almost hit me."
+      },
+      {
+        "zh": "我差点儿买错了。",
+        "pinyin": "Wǒ chàdiǎnr mǎi cuò le.",
+        "en": "I almost bought the wrong one."
+      }
+    ]
+  },
+  {
+    "id": "g54",
+    "title": "Fiil Tekrarı (VV / V一V / V了V)",
+    "level": 3,
+    "summary": "Bir fiili tekrarlamak (看看, 看一看, 看了看) eylemin KISA ve HAFİF yapıldığını anlatır: \"biraz bakayım\" gibi.",
+    "explanation": "Tek heceli fiiller \"看看\" veya \"看一看\" şeklinde tekrarlanır (anlam aynıdır). Geçmiş zaman için \"看了看\" kullanılır. İki heceli fiillerde ise ilk hece tekrar edilir (\"了解了解\" değil, \"了解一下\" tercih edilir).",
+    "examples": [
+      {
+        "zh": "你尝尝这个菜。",
+        "pinyin": "Nǐ chángchang zhège cài.",
+        "en": "Try tasting this dish."
+      },
+      {
+        "zh": "我想想。",
+        "pinyin": "Wǒ xiǎngxiang.",
+        "en": "Let me think about it."
+      },
+      {
+        "zh": "她看了看我。",
+        "pinyin": "Tā kàn le kàn wǒ.",
+        "en": "She glanced at me."
+      },
+      {
+        "zh": "我们休息休息吧。",
+        "pinyin": "Wǒmen xiūxi xiūxi ba.",
+        "en": "Let's rest a bit."
+      },
+      {
+        "zh": "你听听这个。",
+        "pinyin": "Nǐ tīngting zhège.",
+        "en": "Listen to this for a moment."
+      },
+      {
+        "zh": "我要问一问老师。",
+        "pinyin": "Wǒ yào wèn yi wèn lǎoshī.",
+        "en": "I want to ask the teacher."
+      }
+    ]
+  },
+  {
+    "id": "g55",
+    "title": "Devam Eden Durum: \"着\"",
+    "level": 3,
+    "summary": "Fiilden sonra gelen \"着\" (zhe) bir eylemin sonucunun DEVAM ETTİĞİ bir durumu belirtir: \"門开着\" (kapı açık duruyor).",
+    "explanation": "\"在\" eylemin kendisinin sürdüğünü (\"o yapıyor\"), \"着\" ise eylemden sonra ORTAYA ÇIKAN durumun sürdüğünü anlatır (\"kapı açıldı ve açık duruyor\"). Genelde \"V1着 V2\" kalıbıyla bir eylemin nasıl yapıldığını da anlatır: \"她笑着说\" (gülümseyerek söyledi).",
+    "examples": [
+      {
+        "zh": "门开着。",
+        "pinyin": "Mén kāi zhe.",
+        "en": "The door is open."
+      },
+      {
+        "zh": "她笑着说话。",
+        "pinyin": "Tā xiào zhe shuōhuà.",
+        "en": "She talks while smiling."
+      },
+      {
+        "zh": "墙上挂着一张照片。",
+        "pinyin": "Qiáng shàng guà zhe yì zhāng zhàopiàn.",
+        "en": "A photo hangs on the wall."
+      },
+      {
+        "zh": "他站着看书。",
+        "pinyin": "Tā zhàn zhe kàn shū.",
+        "en": "He reads while standing."
+      },
+      {
+        "zh": "窗户开着，很冷。",
+        "pinyin": "Chuānghu kāi zhe, hěn lěng.",
+        "en": "The window is open, it's cold."
+      },
+      {
+        "zh": "她拿着一本书。",
+        "pinyin": "Tā ná zhe yì běn shū.",
+        "en": "She's holding a book."
+      }
+    ]
+  },
+  {
+    "id": "g56",
+    "title": "\"到底\" ve \"究竟\" (Sonuçta, Aslında)",
+    "level": 3,
+    "summary": "\"到底\" ve \"究竟\" sorularda \"aslında, gerçekte, sonuçta\" vurgusu katarak sabırsızlık veya merak ifade eder.",
+    "explanation": "İkisi neredeyse aynı anlamdadır; \"究竟\" biraz daha resmi/yazılı dildir. Genelde soru kelimeleriyle birlikte kullanılır: \"你到底想说什么？\" (Aslında ne söylemek istiyorsun?).",
+    "examples": [
+      {
+        "zh": "你到底想说什么？",
+        "pinyin": "Nǐ dàodǐ xiǎng shuō shénme?",
+        "en": "What exactly do you want to say?"
+      },
+      {
+        "zh": "这到底是怎么回事？",
+        "pinyin": "Zhè dàodǐ shì zěnme huí shì?",
+        "en": "What's actually going on here?"
+      },
+      {
+        "zh": "你究竟去不去？",
+        "pinyin": "Nǐ jiūjìng qù bu qù?",
+        "en": "Are you actually going or not?"
+      },
+      {
+        "zh": "他到底同意了没有？",
+        "pinyin": "Tā dàodǐ tóngyì le méiyǒu?",
+        "en": "Did he actually agree or not?"
+      },
+      {
+        "zh": "究竟是谁做的？",
+        "pinyin": "Jiūjìng shì shéi zuò de?",
+        "en": "Who exactly did this?"
+      },
+      {
+        "zh": "你到底喜不喜欢我？",
+        "pinyin": "Nǐ dàodǐ xǐ bu xǐhuan wǒ?",
+        "en": "Do you actually like me or not?"
+      }
+    ]
+  },
+  {
+    "id": "g57",
+    "title": "\"之所以...是因为...\" (Nedeninin Açıklanması)",
+    "level": 4,
+    "summary": "\"之所以 B，是因为 A\" kalıbı \"B'nin nedeni A'dır\" anlamına gelir; sonucu önce, sebebi sonra vurgular.",
+    "explanation": "\"因为...所以...\"'nin tersine, burada önce SONUÇ belirtilir, sonra \"是因为\" ile NEDEN açıklanır. Daha resmi/vurgulu bir anlatım biçimidir.",
+    "examples": [
+      {
+        "zh": "她之所以成功，是因为她很努力。",
+        "pinyin": "Tā zhīsuǒyǐ chénggōng, shì yīnwèi tā hěn nǔlì.",
+        "en": "The reason she succeeded is because she worked hard."
+      },
+      {
+        "zh": "我之所以迟到，是因为堵车。",
+        "pinyin": "Wǒ zhīsuǒyǐ chídào, shì yīnwèi dǔchē.",
+        "en": "The reason I'm late is because of traffic."
+      },
+      {
+        "zh": "他之所以不来，是因为生病了。",
+        "pinyin": "Tā zhīsuǒyǐ bù lái, shì yīnwèi shēngbìng le.",
+        "en": "The reason he's not coming is because he's sick."
+      },
+      {
+        "zh": "我们之所以选择这里，是因为环境好。",
+        "pinyin": "Wǒmen zhīsuǒyǐ xuǎnzé zhèlǐ, shì yīnwèi huánjìng hǎo.",
+        "en": "The reason we chose here is because the environment is good."
+      },
+      {
+        "zh": "她之所以生气，是因为你没告诉她。",
+        "pinyin": "Tā zhīsuǒyǐ shēngqì, shì yīnwèi nǐ méi gàosu tā.",
+        "en": "The reason she's angry is because you didn't tell her."
+      },
+      {
+        "zh": "我之所以喜欢这本书，是因为它很有意思。",
+        "pinyin": "Wǒ zhīsuǒyǐ xǐhuan zhè běn shū, shì yīnwèi tā hěn yǒu yìsi.",
+        "en": "The reason I like this book is because it's interesting."
+      }
+    ]
+  },
+  {
+    "id": "g58",
+    "title": "\"一方面...另一方面...\" (Bir Yandan...Diğer Yandan...)",
+    "level": 4,
+    "summary": "\"一方面 A，另一方面 B\" kalıbı bir durumun iki farklı yönünü/nedenini anlatır.",
+    "explanation": "Bu kalıp genelde bir konunun birden fazla boyutunu sıralarken kullanılır; A ve B genelde birbiriyle çelişmez, tamamlayıcı niteliktedir.",
+    "examples": [
+      {
+        "zh": "我一方面想工作，另一方面想继续学习。",
+        "pinyin": "Wǒ yì fāngmiàn xiǎng gōngzuò, lìng yì fāngmiàn xiǎng jìxù xuéxí.",
+        "en": "On one hand I want to work, on the other hand I want to continue studying."
+      },
+      {
+        "zh": "这个方法一方面简单，另一方面很有效。",
+        "pinyin": "Zhège fāngfǎ yì fāngmiàn jiǎndān, lìng yì fāngmiàn hěn yǒuxiào.",
+        "en": "This method is simple on one hand, and effective on the other."
+      },
+      {
+        "zh": "她一方面高兴，另一方面又有点紧张。",
+        "pinyin": "Tā yì fāngmiàn gāoxìng, lìng yì fāngmiàn yòu yǒudiǎn jǐnzhāng.",
+        "en": "She's happy on one hand, and a bit nervous on the other."
+      },
+      {
+        "zh": "一方面天气不好，另一方面我也很忙。",
+        "pinyin": "Yì fāngmiàn tiānqì bù hǎo, lìng yì fāngmiàn wǒ yě hěn máng.",
+        "en": "On one hand the weather's bad, on the other hand I'm also busy."
+      },
+      {
+        "zh": "我们一方面要努力工作，另一方面也要注意身体。",
+        "pinyin": "Wǒmen yì fāngmiàn yào nǔlì gōngzuò, lìng yì fāngmiàn yě yào zhùyì shēntǐ.",
+        "en": "We need to work hard on one hand, and take care of our health on the other."
+      }
+    ]
+  },
+  {
+    "id": "g59",
+    "title": "\"与其...不如...\" (...Yerine...Daha İyi)",
+    "level": 4,
+    "summary": "\"与其 A，不如 B\" kalıbı \"A yapmaktansa B yapmak daha iyi\" anlamına gelir; iki seçenek arasında B'yi tercih ettiğimizi belirtir.",
+    "explanation": "Bu kalıp iki seçeneği karşılaştırıp ikincisini (B) daha mantıklı bulduğumuzu vurgular. \"不如\" tek başına da \"...den daha iyi\" anlamında kullanılabilir.",
+    "examples": [
+      {
+        "zh": "与其在家等，不如出去找工作。",
+        "pinyin": "Yǔqí zài jiā děng, bùrú chūqù zhǎo gōngzuò.",
+        "en": "Rather than waiting at home, it's better to go look for work."
+      },
+      {
+        "zh": "与其买新的，不如修一修。",
+        "pinyin": "Yǔqí mǎi xīn de, bùrú xiū yi xiū.",
+        "en": "Rather than buying a new one, it's better to fix it."
+      },
+      {
+        "zh": "与其坐车，不如走路去。",
+        "pinyin": "Yǔqí zuò chē, bùrú zǒulù qù.",
+        "en": "Rather than taking a car, it's better to walk."
+      },
+      {
+        "zh": "与其抱怨，不如想办法解决。",
+        "pinyin": "Yǔqí bàoyuàn, bùrú xiǎng bànfǎ jiějué.",
+        "en": "Rather than complaining, it's better to find a way to solve it."
+      },
+      {
+        "zh": "与其一个人做，不如大家一起做。",
+        "pinyin": "Yǔqí yí ge rén zuò, bùrú dàjiā yìqǐ zuò.",
+        "en": "Rather than doing it alone, it's better to do it together."
+      }
+    ]
+  },
+  {
+    "id": "g60",
+    "title": "\"宁可...也不...\" (Olsa Da...Olmaz)",
+    "level": 4,
+    "summary": "\"宁可 A，也不 B\" kalıbı \"A olsun (kabul ederim), ama B'yi asla yapmam\" anlamına gelir; güçlü bir tercihi ifade eder.",
+    "explanation": "Bu yapı iki kötü/zor seçenek arasında A'yı seçtiğimizi, B'yi kesinlikle istemediğimizi vurgular.",
+    "examples": [
+      {
+        "zh": "我宁可累一点，也不想放弃。",
+        "pinyin": "Wǒ nìngkě lèi yìdiǎn, yě bù xiǎng fàngqì.",
+        "en": "I'd rather be a bit tired than give up."
+      },
+      {
+        "zh": "她宁可不吃，也不吃辣的。",
+        "pinyin": "Tā nìngkě bù chī, yě bù chī là de.",
+        "en": "She'd rather not eat than eat spicy food."
+      },
+      {
+        "zh": "我宁可走路，也不坐那辆车。",
+        "pinyin": "Wǒ nìngkě zǒulù, yě bú zuò nà liàng chē.",
+        "en": "I'd rather walk than take that car."
+      },
+      {
+        "zh": "他宁可花钱，也不愿意浪费时间。",
+        "pinyin": "Tā nìngkě huā qián, yě bú yuànyì làngfèi shíjiān.",
+        "en": "He'd rather spend money than waste time."
+      },
+      {
+        "zh": "我宁可晚点睡，也要看完这本书。",
+        "pinyin": "Wǒ nìngkě wǎndiǎn shuì, yě yào kàn wán zhè běn shū.",
+        "en": "I'd rather sleep late than not finish this book."
+      }
+    ]
+  },
+  {
+    "id": "g61",
+    "title": "\"除非...才/否则...\" (Ancak...Eğer Olmazsa...)",
+    "level": 4,
+    "summary": "\"除非 A，才 B\" kalıbı \"sadece A olursa B olur\" (zorunlu tek koşul), \"除非...否则...\" ise \"eğer A olmazsa, B olacak\" anlamı verir.",
+    "explanation": "\"除非\" tek zorunlu şartı belirtir, \"只有...才...\" ile anlamca çok yakındır. \"否则\" kullanıldığında ise A'nın olmaması halindeki (istenmeyen) sonucu vurgular.",
+    "examples": [
+      {
+        "zh": "除非你道歉，我才原谅你。",
+        "pinyin": "Chúfēi nǐ dàoqiàn, wǒ cái yuánliàng nǐ.",
+        "en": "I'll only forgive you if you apologize."
+      },
+      {
+        "zh": "除非下雨，否则我们都去。",
+        "pinyin": "Chúfēi xiàyǔ, fǒuzé wǒmen dōu qù.",
+        "en": "Unless it rains, we're all going."
+      },
+      {
+        "zh": "除非你努力，才能成功。",
+        "pinyin": "Chúfēi nǐ nǔlì, cái néng chénggōng.",
+        "en": "You can only succeed if you work hard."
+      },
+      {
+        "zh": "除非老师同意，否则不能进去。",
+        "pinyin": "Chúfēi lǎoshī tóngyì, fǒuzé bù néng jìnqù.",
+        "en": "You can't go in unless the teacher agrees."
+      },
+      {
+        "zh": "除非有特殊情况，否则我们准时开始。",
+        "pinyin": "Chúfēi yǒu tèshū qíngkuàng, fǒuzé wǒmen zhǔnshí kāishǐ.",
+        "en": "Unless there are special circumstances, we start on time."
+      }
+    ]
+  },
+  {
+    "id": "g62",
+    "title": "\"一旦...就...\" (Bir Kere...Olunca...)",
+    "level": 4,
+    "summary": "\"一旦 A，就 B\" kalıbı \"A gerçekleşir gerçekleşmez, B olur\" anlamına gelir; genelde ciddi/önemli bir durum için kullanılır.",
+    "explanation": "\"一...就...\"'ya benzer ama \"一旦\" daha ciddi, geri dönüşü olmayan veya önemli bir olayı vurgular: \"一旦决定，就不能改变\" (bir kere karar verildi mi, değiştirilemez).",
+    "examples": [
+      {
+        "zh": "一旦决定了，就不要后悔。",
+        "pinyin": "Yídàn juédìng le, jiù bú yào hòuhuǐ.",
+        "en": "Once you've decided, don't regret it."
+      },
+      {
+        "zh": "一旦开始，就要坚持下去。",
+        "pinyin": "Yídàn kāishǐ, jiù yào jiānchí xiàqù.",
+        "en": "Once you start, you need to keep going."
+      },
+      {
+        "zh": "一旦她知道了，就会很生气。",
+        "pinyin": "Yídàn tā zhīdào le, jiù huì hěn shēngqì.",
+        "en": "Once she finds out, she'll be very angry."
+      },
+      {
+        "zh": "一旦下雨，比赛就会取消。",
+        "pinyin": "Yídàn xiàyǔ, bǐsài jiù huì qǔxiāo.",
+        "en": "If it rains, the match will be canceled."
+      },
+      {
+        "zh": "一旦你习惯了，就不觉得难了。",
+        "pinyin": "Yídàn nǐ xíguàn le, jiù bù juéde nán le.",
+        "en": "Once you get used to it, it won't feel difficult anymore."
+      }
+    ]
+  },
+  {
+    "id": "g63",
+    "title": "\"反而\" (Tam Tersine)",
+    "level": 4,
+    "summary": "\"反而\" (fǎn'ér) beklenenin TAM TERSİNİN gerçekleştiğini vurgular: \"oysa, tam tersine\".",
+    "explanation": "Genelde önceki cümlede beklenen bir sonuç anlatılır, sonra \"反而\" ile bunun tam tersinin olduğu belirtilir.",
+    "examples": [
+      {
+        "zh": "我帮她，她反而生气了。",
+        "pinyin": "Wǒ bāng tā, tā fǎn'ér shēngqì le.",
+        "en": "I helped her, but she got angry instead."
+      },
+      {
+        "zh": "吃了药，病反而更重了。",
+        "pinyin": "Chī le yào, bìng fǎn'ér gèng zhòng le.",
+        "en": "After taking the medicine, the illness got worse instead."
+      },
+      {
+        "zh": "他不但不感谢，反而怪我。",
+        "pinyin": "Tā búdàn bù gǎnxiè, fǎn'ér guài wǒ.",
+        "en": "He didn't thank me, but blamed me instead."
+      },
+      {
+        "zh": "休息以后，我反而更累了。",
+        "pinyin": "Xiūxi yǐhòu, wǒ fǎn'ér gèng lèi le.",
+        "en": "After resting, I felt even more tired instead."
+      },
+      {
+        "zh": "她越解释，我反而越糊涂。",
+        "pinyin": "Tā yuè jiěshì, wǒ fǎn'ér yuè hútu.",
+        "en": "The more she explained, the more confused I got instead."
+      }
+    ]
+  },
+  {
+    "id": "g64",
+    "title": "\"以便\" ve \"以免\" (Amaç ve Önleme)",
+    "level": 4,
+    "summary": "\"以便\" (yǐbiàn) \"...için, kolaylık olsun diye\", \"以免\" (yǐmiǎn) ise \"...olmasın diye\" anlamına gelir.",
+    "explanation": "İkisi de cümlenin sonunda bir AMAÇ belirtir: \"以便\" istenen bir şeyi kolaylaştırmak, \"以免\" istenmeyen bir şeyi önlemek içindir.",
+    "examples": [
+      {
+        "zh": "请早点来，以便我们准备。",
+        "pinyin": "Qǐng zǎodiǎn lái, yǐbiàn wǒmen zhǔnbèi.",
+        "en": "Please come early, so we can prepare."
+      },
+      {
+        "zh": "带上雨伞，以免下雨。",
+        "pinyin": "Dài shàng yǔsǎn, yǐmiǎn xiàyǔ.",
+        "en": "Bring an umbrella, in case it rains."
+      },
+      {
+        "zh": "请写清楚，以便我们理解。",
+        "pinyin": "Qǐng xiě qīngchu, yǐbiàn wǒmen lǐjiě.",
+        "en": "Please write clearly, so we can understand."
+      },
+      {
+        "zh": "早点出发，以免迟到。",
+        "pinyin": "Zǎodiǎn chūfā, yǐmiǎn chídào.",
+        "en": "Leave early, to avoid being late."
+      },
+      {
+        "zh": "请留下电话，以便联系你。",
+        "pinyin": "Qǐng liúxià diànhuà, yǐbiàn liánxì nǐ.",
+        "en": "Please leave your phone number, so we can contact you."
+      }
+    ]
   }
 ]

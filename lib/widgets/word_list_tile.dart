@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../models/word.dart';
+import '../utils/pinyin_tone.dart';
 
 class WordListTile extends StatelessWidget {
   final Word word;
@@ -25,7 +26,7 @@ class WordListTile extends StatelessWidget {
         children: [
           Text(word.hanzi, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w600)),
           const SizedBox(width: 8),
-          Text(word.pinyin, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
+          TonedPinyinText(word.pinyin),
         ],
       ),
       subtitle: Text(word.meaning),

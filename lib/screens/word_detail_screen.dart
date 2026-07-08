@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../data/favorites_repository.dart';
 import '../models/word.dart';
 import '../services/tts_service.dart';
+import '../utils/pinyin_tone.dart';
 
 class WordDetailScreen extends StatelessWidget {
   final Word word;
@@ -37,7 +38,7 @@ class WordDetailScreen extends StatelessWidget {
               children: [
                 Text(word.hanzi, style: const TextStyle(fontSize: 56, fontWeight: FontWeight.bold)),
                 const SizedBox(height: 8),
-                Text(word.pinyin, style: TextStyle(fontSize: 20, color: Theme.of(context).colorScheme.secondary)),
+                TonedPinyinText(word.pinyin, style: const TextStyle(fontSize: 20)),
                 const SizedBox(height: 12),
                 FilledButton.icon(
                   onPressed: () => tts.speak(word.hanzi),
@@ -68,7 +69,7 @@ class WordDetailScreen extends StatelessWidget {
                         children: [
                           Text(ex.zh, style: const TextStyle(fontSize: 20)),
                           const SizedBox(height: 4),
-                          Text(ex.pinyin, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
+                          TonedPinyinText(ex.pinyin),
                           const SizedBox(height: 4),
                           Text(ex.en, style: const TextStyle(fontStyle: FontStyle.italic)),
                         ],

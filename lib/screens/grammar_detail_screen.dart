@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../data/favorites_repository.dart';
 import '../models/grammar_topic.dart';
 import '../services/tts_service.dart';
+import '../utils/pinyin_tone.dart';
 
 class GrammarDetailScreen extends StatelessWidget {
   final GrammarTopic topic;
@@ -52,7 +53,7 @@ class GrammarDetailScreen extends StatelessWidget {
                         children: [
                           Text(ex.zh, style: const TextStyle(fontSize: 20)),
                           const SizedBox(height: 4),
-                          Text(ex.pinyin, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
+                          TonedPinyinText(ex.pinyin),
                           const SizedBox(height: 4),
                           Text(ex.en, style: const TextStyle(fontStyle: FontStyle.italic)),
                         ],

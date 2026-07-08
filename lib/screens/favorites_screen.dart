@@ -6,6 +6,7 @@ import '../data/favorites_repository.dart';
 import '../data/grammar_repository.dart';
 import '../models/grammar_topic.dart';
 import '../models/word.dart';
+import '../utils/pinyin_tone.dart';
 import 'grammar_detail_screen.dart';
 import 'word_detail_screen.dart';
 
@@ -72,7 +73,15 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
                       (w) => ListTile(
                         leading: CircleAvatar(child: Text('HSK${w.level}', style: const TextStyle(fontSize: 10))),
                         title: Text(w.hanzi, style: const TextStyle(fontSize: 18)),
-                        subtitle: Text('${w.pinyin} · ${w.meaning}'),
+                        subtitle: RichText(
+                          text: TextSpan(
+                            style: DefaultTextStyle.of(context).style,
+                            children: [
+                              ...PinyinTone.spans(w.pinyin, baseStyle: DefaultTextStyle.of(context).style),
+                              TextSpan(text: ' · ${w.meaning}'),
+                            ],
+                          ),
+                        ),
                         trailing: IconButton(
                           icon: const Icon(Icons.star, color: Colors.amber),
                           onPressed: () => favorites.toggleWord(w.id),

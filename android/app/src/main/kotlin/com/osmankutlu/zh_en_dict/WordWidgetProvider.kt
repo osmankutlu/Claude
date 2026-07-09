@@ -69,7 +69,9 @@ class WordWidgetProvider : AppWidgetProvider() {
                 views.setTextViewText(R.id.widget_level_badge, "")
                 views.setTextViewText(R.id.widget_title, "Çince Sözlük")
                 views.setTextViewText(R.id.widget_subtitle, "")
+                views.setViewVisibility(R.id.widget_subtitle, View.GONE)
                 views.setTextViewText(R.id.widget_meaning, "Yükleniyor…")
+                views.setViewVisibility(R.id.widget_meaning, View.VISIBLE)
                 views.setViewVisibility(R.id.widget_star, View.GONE)
                 views.setViewVisibility(R.id.widget_example_header, View.GONE)
                 views.setViewVisibility(R.id.widget_example_chips, View.GONE)
@@ -83,8 +85,13 @@ class WordWidgetProvider : AppWidgetProvider() {
                 views.setViewVisibility(R.id.widget_star, View.VISIBLE)
 
                 val showExampleSection = !compact
-                val showHanzi = mode == "grammar" || displayMode != "pinyin"
-                val showPinyinLine = mode != "grammar" && displayMode != "hanzi"
+                // Only consulted in word mode below; grammar always hides
+                // both the chip row and the pinyin line outright.
+                val showHanzi = displayMode != "pinyin"
+                // In pinyin-only mode the title already carries the pinyin,
+                // so the subtitle underneath it would just repeat it.
+                val showSubtitlePinyin = displayMode == "both"
+                val showExamplePinyin = displayMode != "hanzi"
 
                 if (mode == "grammar") {
                     views.setTextViewText(R.id.widget_title, item.optString("title"))
@@ -103,8 +110,8 @@ class WordWidgetProvider : AppWidgetProvider() {
                         R.id.widget_title,
                         if (showHanzi) item.optString("hanzi") else item.optString("pinyin")
                     )
-                    views.setViewVisibility(R.id.widget_subtitle, if (showPinyinLine) View.VISIBLE else View.GONE)
-                    if (showPinyinLine) views.setTextViewText(R.id.widget_subtitle, item.optString("pinyin"))
+                    views.setViewVisibility(R.id.widget_subtitle, if (showSubtitlePinyin) View.VISIBLE else View.GONE)
+                    if (showSubtitlePinyin) views.setTextViewText(R.id.widget_subtitle, item.optString("pinyin"))
                     views.setViewVisibility(R.id.widget_meaning, if (compact) View.GONE else View.VISIBLE)
                     views.setTextViewText(R.id.widget_meaning, item.optString("meaning"))
 
@@ -126,7 +133,7 @@ class WordWidgetProvider : AppWidgetProvider() {
                             // widget_example_chips has no children yet — no
                             // need to clear it first.
                             addWordChipRows(
-                                context, views, appWidgetId, exampleIndex,
+                                context, views, appWidgetId,
                                 WidgetDataStore.segmentExample(context, example.optString("zh")),
                                 options?.getInt(AppWidgetManager.OPTION_APPWIDGET_MIN_WIDTH, 250) ?: 250
                             )
@@ -134,8 +141,8 @@ class WordWidgetProvider : AppWidgetProvider() {
                             views.setViewVisibility(R.id.widget_example_chips, View.GONE)
                         }
 
-                        views.setViewVisibility(R.id.widget_example_pinyin, if (showPinyinLine) View.VISIBLE else View.GONE)
-                        if (showPinyinLine) views.setTextViewText(R.id.widget_example_pinyin, example.optString("pinyin"))
+                        views.setViewVisibility(R.id.widget_example_pinyin, if (showExamplePinyin) View.VISIBLE else View.GONE)
+                        if (showExamplePinyin) views.setTextViewText(R.id.widget_example_pinyin, example.optString("pinyin"))
 
                         val prevExamplePending = navigatePendingIntent(
                             context, appWidgetId, NavigateReceiver.ACTION_NAVIGATE_EXAMPLE, -1, requestOffset = 2
@@ -185,7 +192,18 @@ class WordWidgetProvider : AppWidgetProvider() {
                 views.setOnClickPendingIntent(R.id.widget_next_item, nextItemPending)
             }
 
-            val openAppIntent = Intent(context, MainActivity::class.java)
+            // A distinct action (not just a distinct request code) keeps this
+            // from ever being treated as equivalent to a word-chip's
+            // PendingIntent below: appWidgetId is a device-global counter
+            // shared across every app widget, so two widgets' numeric
+            // request codes can coincide (e.g. widget #1000's plain "open
+            // app" tap vs widget #1's first word chip). Since PendingIntent
+            // extras aren't part of its identity, only action/data/component
+            // differences reliably prevent FLAG_UPDATE_CURRENT from
+            // silently overwriting one with the other's extras.
+            val openAppIntent = Intent(context, MainActivity::class.java).apply {
+                action = MainActivity.ACTION_OPEN_APP
+            }
             val openAppPending = PendingIntent.getActivity(
                 context,
                 appWidgetId,
@@ -225,20 +243,25 @@ class WordWidgetProvider : AppWidgetProvider() {
         /**
          * Builds a PendingIntent that opens the app straight to [wordId]'s
          * detail screen (handled by MainActivity's deep-link channel).
-         * [exampleIndex]/[segIndex] keep each chip's request code unique so
-         * their PendingIntents don't overwrite one another.
+         * [segIndex] keeps each chip's request code unique within this
+         * widget's currently-rendered example (only one example's chips are
+         * ever on screen at once, so that's all uniqueness requires); the
+         * distinct action — not just the request code — is what actually
+         * keeps this from colliding with another widget's plain "open app"
+         * PendingIntent, since appWidgetId is a device-global counter and
+         * two different widgets' numeric request codes can coincide.
          */
         private fun openWordPendingIntent(
             context: Context,
             appWidgetId: Int,
-            exampleIndex: Int,
             segIndex: Int,
             wordId: String
         ): PendingIntent {
             val intent = Intent(context, MainActivity::class.java).apply {
+                action = MainActivity.ACTION_OPEN_WORD
                 putExtra(MainActivity.EXTRA_WORD_ID, wordId)
             }
-            val requestCode = appWidgetId * 1000 + exampleIndex * 50 + segIndex
+            val requestCode = appWidgetId * 1000 + segIndex
             return PendingIntent.getActivity(
                 context,
                 requestCode,
@@ -258,7 +281,6 @@ class WordWidgetProvider : AppWidgetProvider() {
             context: Context,
             views: RemoteViews,
             appWidgetId: Int,
-            exampleIndex: Int,
             segments: List<Pair<String, String?>>,
             availableWidthDpRaw: Int
         ) {
@@ -291,7 +313,7 @@ class WordWidgetProvider : AppWidgetProvider() {
                     if (wordId != null) {
                         val chip = RemoteViews(context.packageName, R.layout.widget_word_chip)
                         chip.setTextViewText(R.id.chip_text, text)
-                        val openPending = openWordPendingIntent(context, appWidgetId, exampleIndex, segIndex, wordId)
+                        val openPending = openWordPendingIntent(context, appWidgetId, segIndex, wordId)
                         chip.setOnClickPendingIntent(R.id.chip_text, openPending)
                         rowViews.addView(R.id.chip_row, chip)
                     } else {

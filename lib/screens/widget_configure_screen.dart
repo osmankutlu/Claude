@@ -42,6 +42,10 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     if (mounted) setState(() => _appWidgetId = id);
   }
 
+  // Grammar topics only go up to HSK4 in the bundled data; word entries
+  // cover HSK1-5. Kept in sync with assets/data/grammar.json.
+  static const _maxGrammarLevel = 4;
+
   bool _matchesLevel(int level) => _levels.isEmpty || _levels.contains(level);
 
   Future<void> _save() async {
@@ -52,17 +56,22 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     final grammarRepo = context.read<GrammarRepository>();
     final dictionaryRepo = context.read<DictionaryRepository>();
     final levelSpec = _levels.isEmpty ? '0' : (_levels.toList()..sort()).join(',');
-    await HomeWidget.saveWidgetData('widget_mode_$id', _mode);
-    await HomeWidget.saveWidgetData('widget_level_$id', levelSpec);
-    await HomeWidget.saveWidgetData('widget_display_$id', _display);
 
-    final random = Random();
     final item = <String, dynamic>{'mode': _mode};
 
     if (_mode == 'grammar') {
       final topics = await grammarRepo.loadTopics();
       final filtered = topics.where((t) => _matchesLevel(t.level)).toList();
-      final picked = filtered[random.nextInt(filtered.length)];
+      if (filtered.isEmpty) {
+        setState(() => _saving = false);
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Seçili seviyelerde gramer konusu yok. Farklı bir seviye seç.')),
+          );
+        }
+        return;
+      }
+      final picked = filtered[Random().nextInt(filtered.length)];
       item.addAll({
         'itemId': picked.id,
         'title': picked.title,
@@ -72,7 +81,16 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     } else {
       final words = await dictionaryRepo.loadWords();
       final filtered = words.where((w) => _matchesLevel(w.level)).toList();
-      final Word picked = filtered[random.nextInt(filtered.length)];
+      if (filtered.isEmpty) {
+        setState(() => _saving = false);
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('Seçili seviyelerde kelime yok. Farklı bir seviye seç.')),
+          );
+        }
+        return;
+      }
+      final Word picked = filtered[Random().nextInt(filtered.length)];
       item.addAll({
         'itemId': picked.id,
         'hanzi': picked.hanzi,
@@ -86,6 +104,9 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
       });
     }
 
+    await HomeWidget.saveWidgetData('widget_mode_$id', _mode);
+    await HomeWidget.saveWidgetData('widget_level_$id', levelSpec);
+    await HomeWidget.saveWidgetData('widget_display_$id', _display);
     await HomeWidget.saveWidgetData('widget_item_$id', jsonEncode(item));
     await HomeWidget.updateWidget(androidName: 'WordWidgetProvider');
     await _channel.invokeMethod('finishConfigure');
@@ -106,7 +127,11 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
               ButtonSegment(value: 'grammar', label: Text('Gramer'), icon: Icon(Icons.school)),
             ],
             selected: {_mode},
-            onSelectionChanged: (s) => setState(() => _mode = s.first),
+            onSelectionChanged: (s) => setState(() {
+              _mode = s.first;
+              // Grammar topics don't go past HSK4 in the bundled data.
+              if (_mode == 'grammar') _levels.removeWhere((lvl) => lvl > _maxGrammarLevel);
+            }),
           ),
           const SizedBox(height: 28),
           const Text('HSK Seviyesi', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
@@ -120,16 +145,19 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
             spacing: 8,
             runSpacing: 8,
             children: [1, 2, 3, 4, 5].map((lvl) {
+              final disabled = _mode == 'grammar' && lvl > _maxGrammarLevel;
               return FilterChip(
                 label: Text('HSK$lvl'),
-                selected: _levels.contains(lvl),
-                onSelected: (selected) => setState(() {
-                  if (selected) {
-                    _levels.add(lvl);
-                  } else {
-                    _levels.remove(lvl);
-                  }
-                }),
+                selected: !disabled && _levels.contains(lvl),
+                onSelected: disabled
+                    ? null
+                    : (selected) => setState(() {
+                        if (selected) {
+                          _levels.add(lvl);
+                        } else {
+                          _levels.remove(lvl);
+                        }
+                      }),
               );
             }).toList(),
           ),

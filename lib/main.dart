@@ -47,8 +47,13 @@ class _MyAppState extends State<MyApp> {
       }
     });
     WidgetsBinding.instance.addPostFrameCallback((_) async {
-      final pendingWordId = await _deepLinkChannel.invokeMethod<String>('getPendingWordId');
-      if (pendingWordId != null) await _openWord(pendingWordId);
+      try {
+        final pendingWordId = await _deepLinkChannel.invokeMethod<String>('getPendingWordId');
+        if (pendingWordId != null) await _openWord(pendingWordId);
+      } on MissingPluginException {
+        // No native handler for this channel (e.g. running in a test host
+        // with no platform-channel mocks registered) — nothing to open.
+      }
     });
   }
 

@@ -37,6 +37,16 @@ object WidgetDataStore {
         return levelSpec.split(",").any { it.trim() == level.toString() }
     }
 
+    // In-memory only (not persisted): a widget update, a nav-button tap and
+    // a screen unlock can all trigger several of these calls back-to-back in
+    // the same process, and re-parsing the ~2.5k-entry words.json from the
+    // bundled assets every time is wasted work a simple per-process cache
+    // avoids. Safe to keep for the process's lifetime since the bundled
+    // asset only changes on an app update (which restarts the process).
+    private var cachedWordsJson: JSONArray? = null
+    private var cachedGrammarJson: JSONArray? = null
+    private var cachedHanziToId: Map<String, String>? = null
+
     private fun readAsset(context: Context, path: String): String {
         val input = context.assets.open(path)
         val reader = BufferedReader(InputStreamReader(input, Charsets.UTF_8))
@@ -45,11 +55,31 @@ object WidgetDataStore {
         return text
     }
 
-    private fun loadWords(context: Context): JSONArray =
-        JSONArray(readAsset(context, "flutter_assets/assets/data/words.json"))
+    private fun loadWords(context: Context): JSONArray {
+        cachedWordsJson?.let { return it }
+        val loaded = JSONArray(readAsset(context, "flutter_assets/assets/data/words.json"))
+        cachedWordsJson = loaded
+        return loaded
+    }
 
-    private fun loadGrammar(context: Context): JSONArray =
-        JSONArray(readAsset(context, "flutter_assets/assets/data/grammar.json"))
+    private fun loadGrammar(context: Context): JSONArray {
+        cachedGrammarJson?.let { return it }
+        val loaded = JSONArray(readAsset(context, "flutter_assets/assets/data/grammar.json"))
+        cachedGrammarJson = loaded
+        return loaded
+    }
+
+    private fun hanziToIdMap(context: Context): Map<String, String> {
+        cachedHanziToId?.let { return it }
+        val all = loadWords(context)
+        val map = mutableMapOf<String, String>()
+        for (i in 0 until all.length()) {
+            val o = all.getJSONObject(i)
+            map[o.getString("hanzi")] = o.getString("id")
+        }
+        cachedHanziToId = map
+        return map
+    }
 
     private fun idSet(context: Context, key: String): MutableList<String> {
         val raw = prefs(context).getString(key, null) ?: return mutableListOf()
@@ -100,12 +130,7 @@ object WidgetDataStore {
      * grouped into plain (non-clickable) runs.
      */
     fun segmentExample(context: Context, zh: String): List<Pair<String, String?>> {
-        val all = loadWords(context)
-        val byHanzi = mutableMapOf<String, String>()
-        for (i in 0 until all.length()) {
-            val o = all.getJSONObject(i)
-            byHanzi[o.getString("hanzi")] = o.getString("id")
-        }
+        val byHanzi = hanziToIdMap(context)
 
         val result = mutableListOf<Pair<String, String?>>()
         val plain = StringBuilder()

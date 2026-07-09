@@ -54,5 +54,12 @@ class MainActivity : FlutterActivity() {
     companion object {
         const val CHANNEL = "com.osmankutlu.zh_en_dict/deep_link"
         const val EXTRA_WORD_ID = "word_id"
+
+        // Distinct intent actions used by WordWidgetProvider so its two
+        // MainActivity-targeting PendingIntents (plain "open app" vs "open
+        // this word") are never mistaken for each other by
+        // FLAG_UPDATE_CURRENT, even if their numeric request codes collide.
+        const val ACTION_OPEN_APP = "com.osmankutlu.zh_en_dict.ACTION_OPEN_APP"
+        const val ACTION_OPEN_WORD = "com.osmankutlu.zh_en_dict.ACTION_OPEN_WORD"
     }
 }

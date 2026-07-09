@@ -6,7 +6,13 @@
     android:minResizeHeight="80dp"
     android:targetCellWidth="3"
     android:targetCellHeight="3"
-    android:updatePeriodMillis="1800000"
+    <!-- 0 disables the periodic auto-refresh: onUpdate calls
+         notifyAppWidgetViewDataChanged, which reshuffles the card stack and
+         (since items have no stable ids) resets it to position 0 — fine for
+         the refreshes we actually want (initial placement, screen unlock,
+         saving new widget settings), but not something that should also
+         happen silently every 30 minutes while someone might be mid-browse. -->
+    android:updatePeriodMillis="0"
     android:initialLayout="@layout/word_widget"
     android:configure="com.osmankutlu.zh_en_dict.WidgetConfigureActivity"
     android:resizeMode="horizontal|vertical"

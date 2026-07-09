@@ -146,7 +146,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
           ),
           const SizedBox(height: 24),
           const Text(
-            "İpucu: Widget'ı yana kaydırarak kelime/konu değiştirebilir, üstüne dokunarak anlamını ve örneklerini açabilirsin. Köşelerinden sürükleyerek boyutunu da değiştirebilirsin.",
+            "İpucu: Widget'taki oklarla kelime/konu değiştirebilir, ortasına dokunarak anlamını ve örneklerini açabilirsin.",
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),
           const SizedBox(height: 24),

@@ -7,10 +7,10 @@ import io.flutter.embedding.engine.FlutterEngine
 import io.flutter.plugin.common.MethodChannel
 
 /**
- * Opened by tapping a card in the widget's StackView. Runs its own Flutter
- * engine (see AndroidManifest's transparent PopupTheme) showing a single
- * dialog-styled route with the word/topic's meaning and examples, so the
- * user never actually navigates into the main app to see it.
+ * Opened by tapping the widget's card. Runs its own Flutter engine (see
+ * AndroidManifest's transparent PopupTheme) showing a single dialog-styled
+ * route with the word/topic's meaning and examples, so the user never
+ * actually navigates into the main app to see it.
  */
 class WordPopupActivity : FlutterActivity() {
     override fun getInitialRoute(): String = "/wordPopup"

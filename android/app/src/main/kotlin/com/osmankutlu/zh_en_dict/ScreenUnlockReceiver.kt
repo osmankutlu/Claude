@@ -6,11 +6,7 @@ import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
 
-/**
- * Reshuffles every widget instance's card stack each time the screen
- * unlocks, so re-opening the phone doesn't always land on the same word
- * (WordStackRemoteViewsFactory.onDataSetChanged shuffles on every refresh).
- */
+/** Picks a fresh random word/grammar item for every widget instance each time the screen unlocks. */
 class ScreenUnlockReceiver : BroadcastReceiver() {
     override fun onReceive(context: Context, intent: Intent) {
         if (intent.action != Intent.ACTION_USER_PRESENT) return
@@ -19,6 +15,6 @@ class ScreenUnlockReceiver : BroadcastReceiver() {
         val ids = appWidgetManager.getAppWidgetIds(ComponentName(context, WordWidgetProvider::class.java))
         if (ids.isEmpty()) return
 
-        WordWidgetProvider.updateAll(context, appWidgetManager, ids)
+        WordWidgetProvider.refreshAll(context, appWidgetManager, ids)
     }
 }

@@ -6,13 +6,14 @@ import org.json.JSONArray
 import org.json.JSONObject
 import java.io.BufferedReader
 import java.io.InputStreamReader
+import kotlin.random.Random
 
 /**
- * Reads the SharedPreferences file the `home_widget` Flutter plugin uses
- * ("HomeWidgetPreferences"), so widget config Flutter saves via
- * HomeWidget.saveWidgetData is visible here. The widget itself has no
- * separate "current item" state anymore — [WordStackRemoteViewsFactory]
- * derives the whole card list from mode/level/display every time.
+ * Reads/writes the SharedPreferences file the `home_widget` Flutter plugin
+ * uses ("HomeWidgetPreferences"), so widget config Flutter saves via
+ * HomeWidget.saveWidgetData is visible here. The widget shows one word or
+ * grammar topic at a time (stored under [itemKey]); [stepItem]/[pickRandomItem]
+ * change which one.
  */
 object WidgetDataStore {
     private const val PREFS_NAME = "HomeWidgetPreferences"
@@ -23,6 +24,7 @@ object WidgetDataStore {
     fun modeKey(appWidgetId: Int) = "widget_mode_$appWidgetId"
     fun levelKey(appWidgetId: Int) = "widget_level_$appWidgetId"
     fun displayKey(appWidgetId: Int) = "widget_display_$appWidgetId"
+    fun itemKey(appWidgetId: Int) = "widget_item_$appWidgetId"
 
     /**
      * [levelSpec] is either "0" (all levels) or a comma-separated list of
@@ -33,11 +35,12 @@ object WidgetDataStore {
         return levelSpec.split(",").any { it.trim() == level.toString() }
     }
 
-    // In-memory only (not persisted): every widget's StackView adapter reads
-    // through here, so a per-process cache avoids re-parsing the ~2.5k-entry
-    // words.json from the bundled assets on every onDataSetChanged. Safe to
-    // keep for the process's lifetime since the bundled asset only changes
-    // on an app update (which restarts the process).
+    // In-memory only (not persisted): a widget update, a nav-button tap and
+    // a screen unlock can all trigger several of these calls back-to-back in
+    // the same process, and re-parsing the ~2.5k-entry words.json from the
+    // bundled assets every time is wasted work a simple per-process cache
+    // avoids. Safe to keep for the process's lifetime since the bundled
+    // asset only changes on an app update (which restarts the process).
     private var cachedWordsJson: JSONArray? = null
     private var cachedGrammarJson: JSONArray? = null
 
@@ -63,7 +66,7 @@ object WidgetDataStore {
         return loaded
     }
 
-    fun filteredGrammar(context: Context, levelSpec: String): List<JSONObject> {
+    private fun filteredGrammar(context: Context, levelSpec: String): List<JSONObject> {
         val all = loadGrammar(context)
         val filtered = mutableListOf<JSONObject>()
         for (i in 0 until all.length()) {
@@ -73,7 +76,7 @@ object WidgetDataStore {
         return filtered
     }
 
-    fun filteredWords(context: Context, levelSpec: String): List<JSONObject> {
+    private fun filteredWords(context: Context, levelSpec: String): List<JSONObject> {
         val all = loadWords(context)
         val filtered = mutableListOf<JSONObject>()
         for (i in 0 until all.length()) {
@@ -81,5 +84,63 @@ object WidgetDataStore {
             if (levelMatches(levelSpec, o.getInt("level"))) filtered.add(o)
         }
         return filtered
+    }
+
+    private fun buildItem(mode: String, picked: JSONObject): JSONObject {
+        val item = JSONObject()
+        item.put("mode", mode)
+        item.put("itemId", picked.getString("id"))
+        item.put("level", picked.getInt("level"))
+        if (mode == "grammar") {
+            item.put("title", picked.getString("title"))
+        } else {
+            item.put("hanzi", picked.getString("hanzi"))
+            item.put("pinyin", picked.getString("pinyin"))
+        }
+        return item
+    }
+
+    private fun filtered(context: Context, mode: String, levelSpec: String): List<JSONObject> =
+        if (mode == "grammar") filteredGrammar(context, levelSpec) else filteredWords(context, levelSpec)
+
+    /**
+     * Picks a new random word/grammar item (respecting the widget's
+     * configured mode+level) and stores it as this widget's current item.
+     * Returns false (and stores nothing) if that mode+level combination has
+     * no matches.
+     */
+    fun pickRandomItem(context: Context, appWidgetId: Int): Boolean {
+        val prefs = prefs(context)
+        val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
+        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
+        val list = filtered(context, mode, level)
+        if (list.isEmpty()) return false
+        val item = buildItem(mode, list[Random.nextInt(list.size)])
+        prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
+        return true
+    }
+
+    /**
+     * Steps to the next/previous item (wrapping around) from whatever this
+     * widget currently shows. [direction] is +1 (next) or -1 (previous).
+     * Falls back to [pickRandomItem] if nothing's stored yet.
+     */
+    fun stepItem(context: Context, appWidgetId: Int, direction: Int) {
+        val prefs = prefs(context)
+        val raw = prefs.getString(itemKey(appWidgetId), null)
+        if (raw == null) {
+            pickRandomItem(context, appWidgetId)
+            return
+        }
+        val current = JSONObject(raw)
+        val mode = current.optString("mode", "word")
+        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
+        val list = filtered(context, mode, level)
+        if (list.isEmpty()) return
+        val currentId = current.optString("itemId")
+        val curIndex = list.indexOfFirst { it.getString("id") == currentId }
+        val newIndex = ((if (curIndex < 0) 0 else curIndex) + direction + list.size) % list.size
+        val item = buildItem(mode, list[newIndex])
+        prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
     }
 }

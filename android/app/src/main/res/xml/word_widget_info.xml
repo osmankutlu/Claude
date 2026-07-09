@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- updatePeriodMillis is 0 (disabled): onUpdate calls
-     notifyAppWidgetViewDataChanged, which reshuffles the card stack and
-     (since items have no stable ids) resets it to position 0 — fine for the
-     refreshes we actually want (initial placement, screen unlock, saving new
-     widget settings), but not something that should also happen silently
-     every 30 minutes while someone might be mid-browse. -->
+<!-- updatePeriodMillis is 0 (disabled): onUpdate always picks a fresh
+     random word/topic, so a periodic timer would silently swap out
+     whatever the user is currently reading. The word only changes on
+     screen unlock, via the prev/next arrows, or when the widget is
+     placed/reconfigured. -->
 <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
     android:minWidth="140dp"
     android:minHeight="90dp"

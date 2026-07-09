@@ -13,4 +13,12 @@ class GrammarRepository {
     _cache = list.map((e) => GrammarTopic.fromJson(e as Map<String, dynamic>)).toList();
     return _cache!;
   }
+
+  Future<GrammarTopic?> findById(String id) async {
+    final topics = await loadTopics();
+    for (final topic in topics) {
+      if (topic.id == id) return topic;
+    }
+    return null;
+  }
 }

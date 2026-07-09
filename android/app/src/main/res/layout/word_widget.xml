@@ -5,186 +5,26 @@
     android:layout_height="match_parent"
     android:background="@color/widget_background">
 
-    <LinearLayout
+    <!-- StackView is the one RemoteViews-supported collection that responds
+         to a real user swipe gesture (next/previous card), which is what
+         lets swiping the widget change the word/topic without any custom
+         gesture handling. Each card is built by WordStackRemoteViewsFactory
+         and carries its own tap target (opens the popup for that word). -->
+    <StackView
+        android:id="@+id/widget_stack"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:padding="12dp">
+        android:loopViews="true" />
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="horizontal"
-            android:gravity="center_vertical">
-
-            <TextView
-                android:id="@+id/widget_level_badge"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textColor="@color/widget_accent"
-                android:textSize="12sp"
-                android:textStyle="bold" />
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="" />
-
-            <ImageButton
-                android:id="@+id/widget_star"
-                android:layout_width="28dp"
-                android:layout_height="28dp"
-                android:background="@android:color/transparent"
-                android:scaleType="fitCenter"
-                android:src="@android:drawable/btn_star_big_off"
-                android:contentDescription="@string/widget_favorite" />
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="4dp"
-            android:orientation="horizontal"
-            android:gravity="center_vertical">
-
-            <TextView
-                android:id="@+id/widget_prev_item"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:paddingStart="4dp"
-                android:paddingEnd="12dp"
-                android:paddingTop="4dp"
-                android:paddingBottom="4dp"
-                android:text="‹"
-                android:textColor="@color/widget_subtitle"
-                android:textSize="22sp"
-                android:textStyle="bold"
-                android:contentDescription="@string/widget_previous" />
-
-            <TextView
-                android:id="@+id/widget_title"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:textColor="@color/widget_title"
-                android:textSize="24sp"
-                android:textStyle="bold"
-                android:maxLines="1"
-                android:ellipsize="end" />
-
-            <TextView
-                android:id="@+id/widget_next_item"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:paddingStart="12dp"
-                android:paddingEnd="4dp"
-                android:paddingTop="4dp"
-                android:paddingBottom="4dp"
-                android:text="›"
-                android:textColor="@color/widget_subtitle"
-                android:textSize="22sp"
-                android:textStyle="bold"
-                android:contentDescription="@string/widget_next" />
-        </LinearLayout>
-
-        <TextView
-            android:id="@+id/widget_subtitle"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:textColor="@color/widget_subtitle"
-            android:textSize="16sp" />
-
-        <TextView
-            android:id="@+id/widget_meaning"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="4dp"
-            android:textColor="@color/widget_meaning"
-            android:textSize="14sp"
-            android:maxLines="2"
-            android:ellipsize="end" />
-
-        <LinearLayout
-            android:id="@+id/widget_example_header"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="6dp"
-            android:orientation="horizontal"
-            android:gravity="center_vertical">
-
-            <TextView
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:text="@string/widget_example_label"
-                android:textColor="@color/widget_accent"
-                android:textSize="11sp"
-                android:textStyle="bold" />
-
-            <TextView
-                android:id="@+id/widget_example_counter"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textColor="@color/widget_subtitle"
-                android:textSize="11sp" />
-
-            <TextView
-                android:id="@+id/widget_prev_example"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:paddingStart="8dp"
-                android:paddingEnd="4dp"
-                android:paddingTop="2dp"
-                android:paddingBottom="2dp"
-                android:text="‹"
-                android:textColor="@color/widget_subtitle"
-                android:textSize="16sp"
-                android:textStyle="bold"
-                android:contentDescription="@string/widget_previous_example" />
-
-            <TextView
-                android:id="@+id/widget_next_example"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:paddingStart="4dp"
-                android:paddingEnd="2dp"
-                android:paddingTop="2dp"
-                android:paddingBottom="2dp"
-                android:text="›"
-                android:textColor="@color/widget_subtitle"
-                android:textSize="16sp"
-                android:textStyle="bold"
-                android:contentDescription="@string/widget_next_example" />
-        </LinearLayout>
-
-        <!-- RemoteViews doesn't support HorizontalScrollView, so tappable
-             example words wrap across rows here instead of scrolling; each
-             row is a nested horizontal LinearLayout added at runtime. -->
-        <LinearLayout
-            android:id="@+id/widget_example_chips"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical" />
-
-        <TextView
-            android:id="@+id/widget_example_pinyin"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/widget_subtitle"
-            android:textSize="12sp"
-            android:maxLines="1"
-            android:ellipsize="end" />
-
-        <TextView
-            android:id="@+id/widget_example_en"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:textColor="@color/widget_secondary"
-            android:textSize="12sp"
-            android:maxLines="1"
-            android:ellipsize="end" />
-    </LinearLayout>
+    <TextView
+        android:id="@+id/widget_empty"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="@string/widget_loading"
+        android:textColor="@color/widget_meaning"
+        android:textSize="14sp"
+        android:visibility="gone" />
 </FrameLayout>

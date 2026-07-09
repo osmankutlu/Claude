@@ -1,6 +1,3 @@
-import 'dart:convert';
-import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:home_widget/home_widget.dart';
@@ -8,7 +5,6 @@ import 'package:provider/provider.dart';
 
 import '../data/dictionary_repository.dart';
 import '../data/grammar_repository.dart';
-import '../models/word.dart';
 
 /// Shown by [WidgetConfigureActivity] (native) when the user drags the
 /// widget onto their home screen. Lets them pick word/grammar mode, one or
@@ -53,61 +49,36 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     setState(() => _saving = true);
 
     final id = _appWidgetId!;
-    final grammarRepo = context.read<GrammarRepository>();
-    final dictionaryRepo = context.read<DictionaryRepository>();
     final levelSpec = _levels.isEmpty ? '0' : (_levels.toList()..sort()).join(',');
 
-    final item = <String, dynamic>{'mode': _mode};
-
+    // The widget's card stack is built natively from mode+level+display, so
+    // this only needs to check the combination isn't empty before saving —
+    // nothing here needs to actually pick an item.
+    final bool hasAny;
     if (_mode == 'grammar') {
-      final topics = await grammarRepo.loadTopics();
-      final filtered = topics.where((t) => _matchesLevel(t.level)).toList();
-      if (filtered.isEmpty) {
-        setState(() => _saving = false);
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text('Seçili seviyelerde gramer konusu yok. Farklı bir seviye seç.')),
-          );
-        }
-        return;
-      }
-      final picked = filtered[Random().nextInt(filtered.length)];
-      item.addAll({
-        'itemId': picked.id,
-        'title': picked.title,
-        'summary': picked.summary,
-        'level': picked.level,
-      });
+      final topics = await context.read<GrammarRepository>().loadTopics();
+      hasAny = topics.any((t) => _matchesLevel(t.level));
     } else {
-      final words = await dictionaryRepo.loadWords();
-      final filtered = words.where((w) => _matchesLevel(w.level)).toList();
-      if (filtered.isEmpty) {
-        setState(() => _saving = false);
-        if (mounted) {
-          ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(content: Text('Seçili seviyelerde kelime yok. Farklı bir seviye seç.')),
-          );
-        }
-        return;
+      final words = await context.read<DictionaryRepository>().loadWords();
+      hasAny = words.any((w) => _matchesLevel(w.level));
+    }
+    if (!hasAny) {
+      setState(() => _saving = false);
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text(_mode == 'grammar'
+                ? 'Seçili seviyelerde gramer konusu yok. Farklı bir seviye seç.'
+                : 'Seçili seviyelerde kelime yok. Farklı bir seviye seç.'),
+          ),
+        );
       }
-      final Word picked = filtered[Random().nextInt(filtered.length)];
-      item.addAll({
-        'itemId': picked.id,
-        'hanzi': picked.hanzi,
-        'pinyin': picked.pinyin,
-        'meaning': picked.meaning,
-        'level': picked.level,
-        'examples': picked.examples
-            .map((e) => {'zh': e.zh, 'pinyin': e.pinyin, 'en': e.en})
-            .toList(),
-        'exampleIndex': 0,
-      });
+      return;
     }
 
     await HomeWidget.saveWidgetData('widget_mode_$id', _mode);
     await HomeWidget.saveWidgetData('widget_level_$id', levelSpec);
     await HomeWidget.saveWidgetData('widget_display_$id', _display);
-    await HomeWidget.saveWidgetData('widget_item_$id', jsonEncode(item));
     await HomeWidget.updateWidget(androidName: 'WordWidgetProvider');
     await _channel.invokeMethod('finishConfigure');
   }
@@ -175,7 +146,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
           ),
           const SizedBox(height: 24),
           const Text(
-            "İpucu: Widget'ı ana ekrana ekledikten sonra köşelerinden sürükleyerek boyutunu değiştirebilirsin; içerik boyuta göre otomatik uyum sağlar.",
+            "İpucu: Widget'ı yana kaydırarak kelime/konu değiştirebilir, üstüne dokunarak anlamını ve örneklerini açabilirsin. Köşelerinden sürükleyerek boyutunu da değiştirebilirsin.",
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),
           const SizedBox(height: 24),

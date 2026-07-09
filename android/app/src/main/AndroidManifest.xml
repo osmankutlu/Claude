@@ -36,6 +36,19 @@
             </intent-filter>
         </activity>
 
+        <!-- Opened by tapping a widget card: a transparent, floating
+             "popup" Activity, not the main app UI. excludeFromRecents +
+             taskAffinity="" keep it from showing as its own entry in the
+             recent-apps list. -->
+        <activity
+            android:name=".WordPopupActivity"
+            android:exported="false"
+            android:theme="@style/PopupTheme"
+            android:excludeFromRecents="true"
+            android:taskAffinity=""
+            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+            android:windowSoftInputMode="adjustResize" />
+
         <receiver
             android:name=".WordWidgetProvider"
             android:label="Kelime / Gramer"
@@ -56,12 +69,9 @@
             </intent-filter>
         </receiver>
 
-        <receiver
-            android:name=".ToggleFavoriteReceiver"
-            android:exported="false"/>
-
-        <receiver
-            android:name=".NavigateReceiver"
+        <service
+            android:name=".WordStackWidgetService"
+            android:permission="android.permission.BIND_REMOTEVIEWS"
             android:exported="false"/>
 
         <!-- Don't delete the meta-data below.

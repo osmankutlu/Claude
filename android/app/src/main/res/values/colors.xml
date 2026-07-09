@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light widget palette. A values-night/colors.xml overrides these when
+         the system is in dark mode; RemoteViews picks up the right one
+         automatically since it's just resource resolution. -->
+    <color name="widget_background">#FFF5EE</color>
+    <color name="widget_accent">#C2185B</color>
+    <color name="widget_title">#000000</color>
+    <color name="widget_subtitle">#8D6E63</color>
+    <color name="widget_meaning">#424242</color>
+    <color name="widget_secondary">#757575</color>
+    <color name="widget_chip_background">#FCE4EC</color>
+    <color name="widget_chip_text">#AD1457</color>
+    <color name="widget_plain_text">#000000</color>
+</resources>

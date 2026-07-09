@@ -13,4 +13,12 @@ class DictionaryRepository {
     _cache = list.map((e) => Word.fromJson(e as Map<String, dynamic>)).toList();
     return _cache!;
   }
+
+  Future<Word?> findById(String id) async {
+    final words = await loadWords();
+    for (final word in words) {
+      if (word.id == id) return word;
+    }
+    return null;
+  }
 }

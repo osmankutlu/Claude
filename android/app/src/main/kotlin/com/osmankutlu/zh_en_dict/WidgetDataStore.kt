@@ -26,6 +26,16 @@ object WidgetDataStore {
     fun modeKey(appWidgetId: Int) = "widget_mode_$appWidgetId"
     fun levelKey(appWidgetId: Int) = "widget_level_$appWidgetId"
     fun itemKey(appWidgetId: Int) = "widget_item_$appWidgetId"
+    fun displayKey(appWidgetId: Int) = "widget_display_$appWidgetId"
+
+    /**
+     * [levelSpec] is either "0" (all levels) or a comma-separated list of
+     * HSK levels to mix together, e.g. "1,3,5".
+     */
+    private fun levelMatches(levelSpec: String, level: Int): Boolean {
+        if (levelSpec.isEmpty() || levelSpec == "0") return true
+        return levelSpec.split(",").any { it.trim() == level.toString() }
+    }
 
     private fun readAsset(context: Context, path: String): String {
         val input = context.assets.open(path)
@@ -63,24 +73,72 @@ object WidgetDataStore {
         prefs(context).edit().putString(key, JSONArray(current).toString()).apply()
     }
 
-    private fun filteredGrammar(context: Context, level: String): List<JSONObject> {
+    private fun filteredGrammar(context: Context, levelSpec: String): List<JSONObject> {
         val all = loadGrammar(context)
         val filtered = mutableListOf<JSONObject>()
         for (i in 0 until all.length()) {
             val o = all.getJSONObject(i)
-            if (level == "0" || o.getInt("level").toString() == level) filtered.add(o)
+            if (levelMatches(levelSpec, o.getInt("level"))) filtered.add(o)
         }
         return filtered
     }
 
-    private fun filteredWords(context: Context, level: String): List<JSONObject> {
+    private fun filteredWords(context: Context, levelSpec: String): List<JSONObject> {
         val all = loadWords(context)
         val filtered = mutableListOf<JSONObject>()
         for (i in 0 until all.length()) {
             val o = all.getJSONObject(i)
-            if (level == "0" || o.getInt("level").toString() == level) filtered.add(o)
+            if (levelMatches(levelSpec, o.getInt("level"))) filtered.add(o)
         }
         return filtered
+    }
+
+    /**
+     * Greedily segments [zh] into runs, matching the longest possible
+     * dictionary word at each position. Matched runs carry the word's id so
+     * the widget can render them as tappable chips; unmatched characters are
+     * grouped into plain (non-clickable) runs.
+     */
+    fun segmentExample(context: Context, zh: String): List<Pair<String, String?>> {
+        val all = loadWords(context)
+        val byHanzi = mutableMapOf<String, String>()
+        for (i in 0 until all.length()) {
+            val o = all.getJSONObject(i)
+            byHanzi[o.getString("hanzi")] = o.getString("id")
+        }
+
+        val result = mutableListOf<Pair<String, String?>>()
+        val plain = StringBuilder()
+        var i = 0
+        val maxLen = 6
+        while (i < zh.length) {
+            var matchedLen = 0
+            var matchedId: String? = null
+            var len = minOf(maxLen, zh.length - i)
+            while (len >= 1) {
+                val candidate = zh.substring(i, i + len)
+                val id = byHanzi[candidate]
+                if (id != null) {
+                    matchedLen = len
+                    matchedId = id
+                    break
+                }
+                len--
+            }
+            if (matchedId != null) {
+                if (plain.isNotEmpty()) {
+                    result.add(plain.toString() to null)
+                    plain.clear()
+                }
+                result.add(zh.substring(i, i + matchedLen) to matchedId)
+                i += matchedLen
+            } else {
+                plain.append(zh[i])
+                i++
+            }
+        }
+        if (plain.isNotEmpty()) result.add(plain.toString() to null)
+        return result
     }
 
     private fun buildGrammarItem(picked: JSONObject): JSONObject {

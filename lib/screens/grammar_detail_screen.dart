@@ -4,6 +4,7 @@ import 'package:provider/provider.dart';
 import '../data/favorites_repository.dart';
 import '../models/grammar_topic.dart';
 import '../services/tts_service.dart';
+import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
 
 class GrammarDetailScreen extends StatelessWidget {
@@ -51,7 +52,12 @@ class GrammarDetailScreen extends StatelessWidget {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          Text(ex.zh, style: const TextStyle(fontSize: 20)),
+                          ChineseText(
+                            ex.zh,
+                            pinyin: ex.pinyin,
+                            style: const TextStyle(fontSize: 20),
+                            tappableWords: true,
+                          ),
                           const SizedBox(height: 4),
                           TonedPinyinText(ex.pinyin),
                           const SizedBox(height: 4),

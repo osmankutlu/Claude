@@ -8,7 +8,9 @@ import '../data/grammar_repository.dart';
 import '../models/grammar_topic.dart';
 import '../models/word.dart';
 import '../services/tts_service.dart';
+import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
+import '../widgets/word_dialog.dart';
 
 /// The Flutter side of [WordPopupActivity]: renders as a floating dialog
 /// over whatever was on screen (the native Activity's window is fully
@@ -93,7 +95,7 @@ class _WordPopupScreenState extends State<WordPopupScreen> {
         child: Center(child: CircularProgressIndicator()),
       );
     }
-    if (_word != null) return _WordPopupContent(word: _word!, onClose: _dismiss);
+    if (_word != null) return WordContentView(word: _word!, onClose: _dismiss);
     if (_topic != null) return _GrammarPopupContent(topic: _topic!, onClose: _dismiss);
     return SizedBox(
       height: 160,
@@ -111,87 +113,6 @@ class _WordPopupScreenState extends State<WordPopupScreen> {
   }
 }
 
-class _WordPopupContent extends StatelessWidget {
-  final Word word;
-  final VoidCallback onClose;
-
-  const _WordPopupContent({required this.word, required this.onClose});
-
-  @override
-  Widget build(BuildContext context) {
-    final tts = context.read<TtsService>();
-    return ListView(
-      shrinkWrap: true,
-      padding: const EdgeInsets.fromLTRB(20, 12, 20, 20),
-      children: [
-        _PopupHeader(
-          label: 'HSK ${word.level}',
-          onClose: onClose,
-          favorite: Consumer<FavoritesRepository>(
-            builder: (context, favorites, _) => IconButton(
-              icon: Icon(
-                favorites.isWordFavorite(word.id) ? Icons.star : Icons.star_border,
-                color: favorites.isWordFavorite(word.id) ? Colors.amber : null,
-              ),
-              onPressed: () => favorites.toggleWord(word.id),
-            ),
-          ),
-        ),
-        Center(
-          child: Column(
-            children: [
-              Text(word.hanzi, style: const TextStyle(fontSize: 48, fontWeight: FontWeight.bold)),
-              const SizedBox(height: 6),
-              TonedPinyinText(word.pinyin, style: const TextStyle(fontSize: 18)),
-              const SizedBox(height: 10),
-              FilledButton.icon(
-                onPressed: () => tts.speak(word.hanzi),
-                icon: const Icon(Icons.volume_up),
-                label: const Text('Telaffuz Dinle'),
-              ),
-            ],
-          ),
-        ),
-        const SizedBox(height: 16),
-        Text(word.meaning, style: const TextStyle(fontSize: 16)),
-        const SizedBox(height: 4),
-        Text(word.partOfSpeech, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
-        const SizedBox(height: 16),
-        Text('Örnek Cümleler', style: Theme.of(context).textTheme.titleMedium),
-        const SizedBox(height: 8),
-        ...word.examples.map(
-          (ex) => Card(
-            margin: const EdgeInsets.only(bottom: 12),
-            child: Padding(
-              padding: const EdgeInsets.all(14),
-              child: Row(
-                children: [
-                  Expanded(
-                    child: Column(
-                      crossAxisAlignment: CrossAxisAlignment.start,
-                      children: [
-                        Text(ex.zh, style: const TextStyle(fontSize: 18)),
-                        const SizedBox(height: 4),
-                        TonedPinyinText(ex.pinyin),
-                        const SizedBox(height: 4),
-                        Text(ex.en, style: const TextStyle(fontStyle: FontStyle.italic)),
-                      ],
-                    ),
-                  ),
-                  IconButton(
-                    icon: const Icon(Icons.volume_up),
-                    onPressed: () => tts.speak(ex.zh),
-                  ),
-                ],
-              ),
-            ),
-          ),
-        ),
-      ],
-    );
-  }
-}
-
 class _GrammarPopupContent extends StatelessWidget {
   final GrammarTopic topic;
   final VoidCallback onClose;
@@ -205,18 +126,24 @@ class _GrammarPopupContent extends StatelessWidget {
       shrinkWrap: true,
       padding: const EdgeInsets.fromLTRB(20, 12, 20, 20),
       children: [
-        _PopupHeader(
-          label: 'HSK ${topic.level}',
-          onClose: onClose,
-          favorite: Consumer<FavoritesRepository>(
-            builder: (context, favorites, _) => IconButton(
-              icon: Icon(
-                favorites.isGrammarFavorite(topic.id) ? Icons.star : Icons.star_border,
-                color: favorites.isGrammarFavorite(topic.id) ? Colors.amber : null,
-              ),
-              onPressed: () => favorites.toggleGrammar(topic.id),
+        Row(
+          children: [
+            Text(
+              'HSK ${topic.level}',
+              style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary),
             ),
-          ),
+            const Spacer(),
+            Consumer<FavoritesRepository>(
+              builder: (context, favorites, _) => IconButton(
+                icon: Icon(
+                  favorites.isGrammarFavorite(topic.id) ? Icons.star : Icons.star_border,
+                  color: favorites.isGrammarFavorite(topic.id) ? Colors.amber : null,
+                ),
+                onPressed: () => favorites.toggleGrammar(topic.id),
+              ),
+            ),
+            IconButton(icon: const Icon(Icons.close), onPressed: onClose),
+          ],
         ),
         Text(topic.title, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
         const SizedBox(height: 8),
@@ -237,7 +164,12 @@ class _GrammarPopupContent extends StatelessWidget {
                     child: Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text(ex.zh, style: const TextStyle(fontSize: 18)),
+                        ChineseText(
+                          ex.zh,
+                          pinyin: ex.pinyin,
+                          style: const TextStyle(fontSize: 18),
+                          tappableWords: true,
+                        ),
                         const SizedBox(height: 4),
                         TonedPinyinText(ex.pinyin),
                         const SizedBox(height: 4),
@@ -254,26 +186,6 @@ class _GrammarPopupContent extends StatelessWidget {
             ),
           ),
         ),
-      ],
-    );
-  }
-}
-
-class _PopupHeader extends StatelessWidget {
-  final String label;
-  final Widget favorite;
-  final VoidCallback onClose;
-
-  const _PopupHeader({required this.label, required this.favorite, required this.onClose});
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
-      children: [
-        Text(label, style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary)),
-        const Spacer(),
-        favorite,
-        IconButton(icon: const Icon(Icons.close), onPressed: onClose),
       ],
     );
   }

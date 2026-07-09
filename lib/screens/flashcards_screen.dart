@@ -7,6 +7,7 @@ import '../data/dictionary_repository.dart';
 import '../data/progress_repository.dart';
 import '../models/word.dart';
 import '../services/tts_service.dart';
+import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
 
 class FlashcardsScreen extends StatefulWidget {
@@ -176,7 +177,11 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text(word.hanzi, style: const TextStyle(fontSize: 64, fontWeight: FontWeight.bold)),
+          ChineseText(
+            word.hanzi,
+            pinyin: word.pinyin,
+            style: const TextStyle(fontSize: 64, fontWeight: FontWeight.bold),
+          ),
           const SizedBox(height: 16),
           IconButton.filledTonal(
             onPressed: () => tts.speak(word.hanzi),
@@ -192,14 +197,23 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text(word.hanzi, style: const TextStyle(fontSize: 36, fontWeight: FontWeight.bold)),
+          ChineseText(
+            word.hanzi,
+            pinyin: word.pinyin,
+            style: const TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
+          ),
           const SizedBox(height: 4),
           TonedPinyinText(word.pinyin, style: const TextStyle(fontSize: 20)),
           const SizedBox(height: 12),
           Text(word.meaning, style: const TextStyle(fontSize: 22)),
           if (word.examples.isNotEmpty) ...[
             const SizedBox(height: 16),
-            Text(word.examples.first.zh, textAlign: TextAlign.center),
+            ChineseText(
+              word.examples.first.zh,
+              pinyin: word.examples.first.pinyin,
+              textAlign: TextAlign.center,
+              tappableWords: true,
+            ),
             TonedPinyinText(word.examples.first.pinyin, textAlign: TextAlign.center),
             Text(word.examples.first.en, style: const TextStyle(fontStyle: FontStyle.italic), textAlign: TextAlign.center),
           ],

@@ -132,6 +132,29 @@ class PinyinTone {
     return 5; // neutral
   }
 
+  /// Flat, in-order list of every syllable in [pinyin] as
+  /// (syllableText, tone) pairs, skipping spaces/punctuation. Used to
+  /// tone-color hanzi: the Nth CJK character of the paired Chinese text
+  /// corresponds to the Nth syllable here (with 儿化 handled by the caller,
+  /// since an erhua syllable like "wánr" covers two characters: 玩儿).
+  static List<(String, int)> syllables(String pinyin) {
+    final result = <(String, int)>[];
+    var i = 0;
+    while (i < pinyin.length) {
+      if (_isPinyinLetter(pinyin[i])) {
+        var j = i + 1;
+        while (j < pinyin.length && _isPinyinLetter(pinyin[j])) {
+          j++;
+        }
+        result.addAll(_splitRun(pinyin.substring(i, j)));
+        i = j;
+      } else {
+        i++;
+      }
+    }
+    return result;
+  }
+
   /// Builds a list of [TextSpan]s for [pinyin], coloring each syllable by
   /// its tone while leaving spaces/punctuation in the default color.
   static List<InlineSpan> spans(String pinyin, {required TextStyle baseStyle}) {

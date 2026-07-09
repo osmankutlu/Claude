@@ -6,6 +6,7 @@ import '../data/favorites_repository.dart';
 import '../data/grammar_repository.dart';
 import '../models/grammar_topic.dart';
 import '../models/word.dart';
+import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
 import 'grammar_detail_screen.dart';
 import 'word_detail_screen.dart';
@@ -72,7 +73,7 @@ class _FavoritesScreenState extends State<FavoritesScreen> {
                     ...favWords.map(
                       (w) => ListTile(
                         leading: CircleAvatar(child: Text('HSK${w.level}', style: const TextStyle(fontSize: 10))),
-                        title: Text(w.hanzi, style: const TextStyle(fontSize: 18)),
+                        title: ChineseText(w.hanzi, pinyin: w.pinyin, style: const TextStyle(fontSize: 18)),
                         subtitle: RichText(
                           text: TextSpan(
                             style: DefaultTextStyle.of(context).style,

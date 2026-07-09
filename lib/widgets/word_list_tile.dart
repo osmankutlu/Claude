@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../models/word.dart';
+import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
 
 class WordListTile extends StatelessWidget {
@@ -24,7 +25,11 @@ class WordListTile extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.baseline,
         textBaseline: TextBaseline.alphabetic,
         children: [
-          Text(word.hanzi, style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w600)),
+          ChineseText(
+            word.hanzi,
+            pinyin: word.pinyin,
+            style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
+          ),
           const SizedBox(width: 8),
           TonedPinyinText(word.pinyin),
         ],

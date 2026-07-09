@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- One big word, no chrome. True swipe gestures aren't available to app
+     widgets (the launcher owns horizontal swipes; the only flickable
+     RemoteViews collection, StackView, forces a stacked-deck visual), so
+     the invisible left/right edge zones step prev/next instead: tapping
+     either edge changes the word, tapping the middle opens the popup. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/widget_root"
     android:layout_width="match_parent"
@@ -8,41 +13,23 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="horizontal"
-        android:gravity="center_vertical">
+        android:orientation="horizontal">
 
-        <TextView
+        <FrameLayout
             android:id="@+id/widget_prev"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:gravity="center"
-            android:paddingStart="8dp"
-            android:paddingEnd="10dp"
-            android:text="‹"
-            android:textColor="@color/widget_subtitle"
-            android:textSize="22sp"
-            android:textStyle="bold"
+            android:layout_weight="1"
             android:contentDescription="@string/widget_previous" />
 
-        <!-- The only part of the widget that opens the popup, so it never
-             competes with the prev/next tap targets on either side. -->
         <LinearLayout
             android:id="@+id/widget_card"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="1"
+            android:layout_weight="3"
             android:orientation="vertical"
             android:gravity="center"
             android:padding="8dp">
-
-            <TextView
-                android:id="@+id/widget_level_badge"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp"
-                android:textColor="@color/widget_accent"
-                android:textSize="12sp"
-                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/widget_title"
@@ -50,7 +37,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:textColor="@color/widget_title"
-                android:textSize="28sp"
+                android:textSize="44sp"
                 android:textStyle="bold"
                 android:maxLines="2"
                 android:ellipsize="end" />
@@ -59,25 +46,19 @@
                 android:id="@+id/widget_subtitle"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="4dp"
+                android:layout_marginTop="6dp"
                 android:gravity="center"
                 android:textColor="@color/widget_subtitle"
-                android:textSize="16sp"
+                android:textSize="18sp"
                 android:maxLines="1"
                 android:ellipsize="end" />
         </LinearLayout>
 
-        <TextView
+        <FrameLayout
             android:id="@+id/widget_next"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:gravity="center"
-            android:paddingStart="10dp"
-            android:paddingEnd="8dp"
-            android:text="›"
-            android:textColor="@color/widget_subtitle"
-            android:textSize="22sp"
-            android:textStyle="bold"
+            android:layout_weight="1"
             android:contentDescription="@string/widget_next" />
     </LinearLayout>
 </FrameLayout>

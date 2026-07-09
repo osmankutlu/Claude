@@ -89,5 +89,12 @@
             <action android:name="android.intent.action.PROCESS_TEXT"/>
             <data android:mimeType="text/plain"/>
         </intent>
+        <!-- Android 11+ package visibility: without declaring interest in
+             TTS engines, flutter_tts can't see or bind the system
+             text-to-speech service and every speak() call fails silently
+             (no sound, no error) on real devices. -->
+        <intent>
+            <action android:name="android.intent.action.TTS_SERVICE"/>
+        </intent>
     </queries>
 </manifest>

@@ -5,6 +5,7 @@ import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.Context
 import android.content.Intent
+import android.util.TypedValue
 import android.view.View
 import android.widget.RemoteViews
 import org.json.JSONObject
@@ -54,18 +55,19 @@ class WordWidgetProvider : AppWidgetProvider() {
             val views = RemoteViews(context.packageName, R.layout.word_widget)
 
             if (raw == null) {
-                views.setTextViewText(R.id.widget_level_badge, "")
                 views.setTextViewText(R.id.widget_title, context.getString(R.string.widget_loading))
+                views.setTextViewTextSize(R.id.widget_title, TypedValue.COMPLEX_UNIT_SP, 18f)
                 views.setTextViewText(R.id.widget_subtitle, "")
                 views.setViewVisibility(R.id.widget_subtitle, View.GONE)
             } else {
                 val item = JSONObject(raw)
                 val mode = item.optString("mode", "word")
-                val level = item.optInt("level", 1)
-                views.setTextViewText(R.id.widget_level_badge, "HSK$level")
 
                 if (mode == "grammar") {
+                    // Grammar titles are whole phrases — the layout's huge
+                    // hanzi size would overflow, so scale down for them.
                     views.setTextViewText(R.id.widget_title, item.optString("title"))
+                    views.setTextViewTextSize(R.id.widget_title, TypedValue.COMPLEX_UNIT_SP, 22f)
                     views.setViewVisibility(R.id.widget_subtitle, View.GONE)
                 } else {
                     val showHanzi = displayMode != "pinyin"
@@ -73,6 +75,13 @@ class WordWidgetProvider : AppWidgetProvider() {
                     views.setTextViewText(
                         R.id.widget_title,
                         if (showHanzi) item.optString("hanzi") else item.optString("pinyin")
+                    )
+                    // Pinyin strings run much longer than their hanzi, so
+                    // pinyin-only mode gets a smaller size to avoid clipping.
+                    views.setTextViewTextSize(
+                        R.id.widget_title,
+                        TypedValue.COMPLEX_UNIT_SP,
+                        if (showHanzi) 44f else 26f
                     )
                     views.setViewVisibility(
                         R.id.widget_subtitle,

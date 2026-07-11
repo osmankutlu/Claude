@@ -11558,5 +11558,685 @@
     "en": "This road is under repair and cars can't get through anymore; let's take a detour."
    }
   ]
+ },
+ {
+  "id": "g086",
+  "level": 2,
+  "title": "\"了\" ile \"artık ... oldu\" (yeni durum)",
+  "titleEn": "Expressing \"now\" with \"le\"",
+  "pattern": "Yeni Durum + 了",
+  "summary": "Cümle sonundaki \"了\" bir noktaya ulaşıldığını, artık yeni bir durumun geçerli olduğunu bildirir: 他今年二十岁了 = Bu yıl yirmi yaşına geldi.",
+  "explanation": "Bu \"了\" bir ölçünün/durumun ARTIK yeni bir noktaya ulaştığını bildirir; özellikle yaş, saat, miktar gibi sayılarla \"artık ... oldu\" anlamı verir: 他二十岁了 (Yirmi yaşına geldi), 都几点了? (Saat kaç oldu artık?), 快十二点了 (Neredeyse on iki oldu). Bir eşiğin geçildiğini, durumun değiştiğini vurgular ve çoğu zaman \"都\" (bile/artık) ya da \"快\" (neredeyse) ile birlikte gelir. Konuşmacı çoğu zaman zamanın geçtiğine ya da bir sınıra gelindiğine dikkat çeker.",
+  "examples": [
+   {
+    "zh": "都十一点了,你怎么还不睡觉?",
+    "pinyin": "Dōu shí yì diǎn le, nǐ zěn me hái bù shuì jiào?",
+    "en": "It's eleven o'clock already; why aren't you asleep yet?"
+   },
+   {
+    "zh": "我儿子今年都上大学了,时间过得真快。",
+    "pinyin": "Wǒ ér zi jīn nián dōu shàng dà xué le, shí jiān guò de zhēn kuài。",
+    "en": "My son is already in university this year; time really flies."
+   },
+   {
+    "zh": "快到春节了,街上到处都是买年货的人。",
+    "pinyin": "Kuài dào chūn jié le, jiē shàng dào chù dōu shì mǎi nián huò de rén。",
+    "en": "The Spring Festival is almost here; the streets are full of people shopping for it."
+   },
+   {
+    "zh": "你都这么大了,应该学会自己照顾自己了。",
+    "pinyin": "Nǐ dōu zhè me dà le, yīng gāi xué huì zì jǐ zhào gù zì jǐ le。",
+    "en": "You're this grown up now; you should learn to take care of yourself."
+   },
+   {
+    "zh": "外面都天亮了,他们竟然还在聊天。",
+    "pinyin": "Wài miàn dōu tiān liàng le, tā men jìng rán hái zài liáo tiān。",
+    "en": "It's already dawn outside, yet they're still chatting."
+   },
+   {
+    "zh": "再过两个月,我来这个城市就整整十年了。",
+    "pinyin": "Zài guò liǎng gè yuè, wǒ lái zhè ge chéng shì jiù zhěng zhěng shí nián le。",
+    "en": "In another two months, I'll have been in this city for a full ten years."
+   },
+   {
+    "zh": "菜都凉了,你再不回来就不好吃了。",
+    "pinyin": "Cài dōu liáng le, nǐ zài bù huí lái jiù bù hǎo chī le。",
+    "en": "The food's gone cold; if you don't come back soon it won't taste good."
+   },
+   {
+    "zh": "孩子都会走路了,你看他跑得多稳。",
+    "pinyin": "Hái zi dū huì zǒu lù le, nǐ kàn tā pǎo de duō wěn。",
+    "en": "The child can walk now; look how steadily he runs."
+   },
+   {
+    "zh": "都这个时候了,你还不着急,真让人担心。",
+    "pinyin": "Dōu zhè ge shí hòu le, nǐ hái bù zháo jí, zhēn ràng rén dān xīn。",
+    "en": "It's already this late and you're still not worried; it's concerning."
+   },
+   {
+    "zh": "春天到了,天气一天比一天暖和了。",
+    "pinyin": "Chūn tiān dào le, tiān qì yī tiān bǐ yī tiān nuǎn huo le。",
+    "en": "Spring has arrived; the weather is getting warmer day by day."
+   },
+   {
+    "zh": "我奶奶今年八十岁了,身体还很健康。",
+    "pinyin": "Wǒ nǎi nǎi jīn nián bā shí suì le, shēn tǐ hái hěn jiàn kāng。",
+    "en": "My grandma turns eighty this year and is still very healthy."
+   },
+   {
+    "zh": "眼看就要放假了,同学们都很兴奋。",
+    "pinyin": "Yǎn kàn jiù yào fàng jià le, tóng xué men dōu hěn xīng fèn。",
+    "en": "The holiday is almost here, and the students are all excited."
+   },
+   {
+    "zh": "你看,都开始下雪了,今年冬天来得真早。",
+    "pinyin": "Nǐ kàn, dōu kāi shǐ xià xuě le, jīn nián dōng tiān lái de zhēn zǎo。",
+    "en": "Look, it's already started snowing; winter came really early this year."
+   },
+   {
+    "zh": "我们等了快一个小时了,他怎么还没到?",
+    "pinyin": "Wǒ men děng le kuài yí gè xiǎo shí le, tā zěn me hái méi dào?",
+    "en": "We've waited nearly an hour; why hasn't he arrived yet?"
+   },
+   {
+    "zh": "时间不早了,再不出发就要赶不上飞机了。",
+    "pinyin": "Shí jiān bù zǎo le, zài bù chū fā jiù yào gǎn bù shàng fēi jī le。",
+    "en": "It's getting late; if we don't leave soon we'll miss the flight."
+   },
+   {
+    "zh": "这孩子都会自己穿衣服了,真让人高兴。",
+    "pinyin": "Zhè hái zi dū huì zì jǐ chuān yī fú le, zhēn ràng rén gāo xìng。",
+    "en": "This child can dress himself now; it's really heartwarming."
+   },
+   {
+    "zh": "天气越来越热了,该把厚衣服收起来了。",
+    "pinyin": "Tiān qì yuè lái yuè rè le, gāi bǎ hòu yī fú shōu qǐ lái le。",
+    "en": "The weather is getting hotter; it's time to put away the heavy clothes."
+   },
+   {
+    "zh": "都快下班了,今天的工作总算做完了。",
+    "pinyin": "Dōu kuài xià bān le, jīn tiān de gōng zuò zǒng suàn zuò wán le。",
+    "en": "It's almost time to get off work, and today's tasks are finally done."
+   },
+   {
+    "zh": "你看看几点了,再睡就要迟到了。",
+    "pinyin": "Nǐ kàn kàn jǐ diǎn le, zài shuì jiù yào chí dào le。",
+    "en": "Look what time it is; if you keep sleeping you'll be late."
+   },
+   {
+    "zh": "这些树都长得比房子还高了。",
+    "pinyin": "Zhè xiē shù dōu zhǎng de bǐ fáng zi hái gāo le。",
+    "en": "These trees have grown even taller than the house now."
+   },
+   {
+    "zh": "我学汉语已经三年了,现在能看懂报纸了。",
+    "pinyin": "Wǒ xué hàn yǔ yǐ jīng sān nián le, xiàn zài néng kàn dǒng bào zhǐ le。",
+    "en": "I've studied Chinese for three years now and can read newspapers."
+   },
+   {
+    "zh": "眼看天就要黑了,我们得快点下山。",
+    "pinyin": "Yǎn kàn tiān jiù yào hēi le, wǒ men děi kuài diǎn xià shān。",
+    "en": "It's about to get dark; we need to hurry down the mountain."
+   },
+   {
+    "zh": "他毕业都五年了,可是还没想好要做什么。",
+    "pinyin": "Tā bì yè dōu wǔ nián le, kě shì hái méi xiǎng hǎo yào zuò shén me。",
+    "en": "He's been graduated five years now but still hasn't figured out what to do."
+   },
+   {
+    "zh": "水果放太久都坏了,只能扔掉了。",
+    "pinyin": "Shuǐ guǒ fàng tài jiǔ dōu huài le, zhǐ néng rēng diào le。",
+    "en": "The fruit sat too long and has gone bad; it can only be thrown away."
+   },
+   {
+    "zh": "你都长这么高了,阿姨都快认不出你了。",
+    "pinyin": "Nǐ dōu zhǎng zhè me gāo le, ā yí dōu kuài rèn bù chū nǐ le。",
+    "en": "You've grown so tall that auntie can hardly recognize you."
+   }
+  ]
+ },
+ {
+  "id": "g087",
+  "level": 2,
+  "title": "\"了\" ile tamamlanma (nesneyle)",
+  "titleEn": "Expressing completion with \"le\"",
+  "pattern": "Özne + Fiil + 了 + Nesne",
+  "summary": "Fiilin hemen ARDINDAKİ \"了\" eylemin tamamlandığını gösterir: 我买了一本书 = Bir kitap aldım (satın alma tamamlandı).",
+  "explanation": "Fiilin hemen arkasına gelen \"了\" (cümle sonundaki değil, fiil-sonu \"了\") o eylemin TAMAMLANDIĞINI/gerçekleştiğini bildirir: 我喝了一杯咖啡 (Bir fincan kahve içtim). Kalıp: Özne + Fiil + 了 + (sayı/sıfat + ölçü) + Nesne. Nesne genellikle bir belirteçle (数量: 一杯, 两个) nitelenir; yalın nesneyle tek başına biraz eksik durur ve arkasına bir devam cümlesi ya da cümle-sonu \"了\" beklenir. Olumsuzda \"没(有)\" gelir ve \"了\" düşer: 我没喝咖啡 (Kahve içmedim). Bu \"了\" tamamlanmış eylem içindir, geçmiş zaman eki değildir.",
+  "examples": [
+   {
+    "zh": "我今天早上喝了一大杯咖啡,现在特别精神。",
+    "pinyin": "Wǒ jīn tiān zǎo shàng hē le yī dà bēi kā fēi, xiàn zài tè bié jīng shén。",
+    "en": "I drank a big cup of coffee this morning and feel very energetic now."
+   },
+   {
+    "zh": "他昨天在书店买了三本关于做饭的书。",
+    "pinyin": "Tā zuó tiān zài shū diàn mǎi le sān běn guān yú zuò fàn de shū。",
+    "en": "Yesterday he bought three cookbooks at the bookstore."
+   },
+   {
+    "zh": "我们在那家饭馆点了好几个菜,都很好吃。",
+    "pinyin": "Wǒ men zài nà jiā fàn guǎn diǎn le hǎo jǐ gè cài, dōu hěn hǎo chī。",
+    "en": "We ordered several dishes at that restaurant, and all were delicious."
+   },
+   {
+    "zh": "妈妈给我织了一件毛衣,穿在身上很暖和。",
+    "pinyin": "Mā mā gěi wǒ zhī le yī jiàn máo yī, chuān zài shēn shàng hěn nuǎn huo。",
+    "en": "Mom knitted me a sweater; it's warm to wear."
+   },
+   {
+    "zh": "老师今天讲了一个很重要的语法,你可别没听。",
+    "pinyin": "Lǎo shī jīn tiān jiǎng le yí gè hěn zhòng yào de yǔ fǎ, nǐ kě bié méi tīng。",
+    "en": "The teacher taught an important grammar point today; don't tell me you missed it."
+   },
+   {
+    "zh": "我在路上遇到了一个多年不见的老同学。",
+    "pinyin": "Wǒ zài lù shàng yù dào le yí gè duō nián bú jiàn de lǎo tóng xué。",
+    "en": "On the way I ran into an old classmate I hadn't seen in years."
+   },
+   {
+    "zh": "他花了整整一个下午,才把房间打扫干净。",
+    "pinyin": "Tā huā le zhěng zhěng yí gè xià wǔ, cái bǎ fáng jiān dǎ sǎo gān jìng。",
+    "en": "It took him a whole afternoon to clean the room."
+   },
+   {
+    "zh": "我昨天看了一部很感人的电影,哭了好几次。",
+    "pinyin": "Wǒ zuó tiān kàn le yī bù hěn gǎn rén de diàn yǐng, kū le hǎo jǐ cì。",
+    "en": "I watched a very moving movie yesterday and cried several times."
+   },
+   {
+    "zh": "这次旅行,我拍了几百张漂亮的照片。",
+    "pinyin": "Zhè cì lǚ xíng, wǒ pāi le jǐ bǎi zhāng piào liàng de zhào piān。",
+    "en": "On this trip I took several hundred beautiful photos."
+   },
+   {
+    "zh": "他喝了不少酒,现在脸红得像苹果一样。",
+    "pinyin": "Tā hē le bù shǎo jiǔ, xiàn zài liǎn hóng de xiàng píng guǒ yī yàng。",
+    "en": "He drank quite a lot and his face is now red as an apple."
+   },
+   {
+    "zh": "我给孩子讲了一个故事,他很快就睡着了。",
+    "pinyin": "Wǒ gěi hái zi jiǎng le yí gè gù shì, tā hěn kuài jiù shuì zháo le。",
+    "en": "I told the child a story, and he soon fell asleep."
+   },
+   {
+    "zh": "我们爬了三个小时的山,终于到了山顶。",
+    "pinyin": "Wǒ men pá le sān gè xiǎo shí de shān, zhōng yú dào le shān dǐng。",
+    "en": "We climbed for three hours and finally reached the summit."
+   },
+   {
+    "zh": "她学了五年钢琴,现在弹得非常好。",
+    "pinyin": "Tā xué le wǔ nián gāng qín, xiàn zài dàn de fēi cháng hǎo。",
+    "en": "She studied piano for five years and now plays very well."
+   },
+   {
+    "zh": "我今天收到了一封老朋友寄来的信。",
+    "pinyin": "Wǒ jīn tiān shōu dào le yī fēng lǎo péng yǒu jì lái de xìn。",
+    "en": "Today I received a letter from an old friend."
+   },
+   {
+    "zh": "他为了准备考试,看了很多参考书。",
+    "pinyin": "Tā wèi le zhǔn bèi kǎo shì, kàn le hěn duō cān kǎo shū。",
+    "en": "To prepare for the exam, he read many reference books."
+   },
+   {
+    "zh": "我们在公园里散了很久的步,聊了很多事。",
+    "pinyin": "Wǒ men zài gōng yuán lǐ sàn le hěn jiǔ de bù, liáo le hěn duō shì。",
+    "en": "We strolled in the park for a long time and talked about many things."
+   },
+   {
+    "zh": "我尝了一口她做的汤,味道好极了。",
+    "pinyin": "Wǒ cháng le yī kǒu tā zuò de tāng, wèi dào hǎo jí le。",
+    "en": "I took a sip of the soup she made; it tasted wonderful."
+   },
+   {
+    "zh": "他用了一个星期,把这个难题解决了。",
+    "pinyin": "Tā yòng le yí gè xīng qī, bǎ zhè ge nán tí jiě jué le。",
+    "en": "He took a week to solve this difficult problem."
+   },
+   {
+    "zh": "我买了一些水果和蔬菜,准备晚上做饭。",
+    "pinyin": "Wǒ mǎi le yī xiē shuǐ guǒ hé shū cài, zhǔn bèi wǎn shàng zuò fàn。",
+    "en": "I bought some fruit and vegetables to cook dinner tonight."
+   },
+   {
+    "zh": "孩子写了一封信给远方的爷爷奶奶。",
+    "pinyin": "Hái zi xiě le yī fēng xìn gěi yuǎn fāng de yé yé nǎi nǎi。",
+    "en": "The child wrote a letter to his grandparents far away."
+   },
+   {
+    "zh": "我们讨论了很长时间,最后做出了决定。",
+    "pinyin": "Wǒ men tǎo lùn le hěn zhǎng shí jiān, zuì hòu zuò chū le jué dìng。",
+    "en": "We discussed it for a long time and finally made a decision."
+   },
+   {
+    "zh": "他喝了药,躺下休息了一会儿。",
+    "pinyin": "Tā hē le yào, tǎng xià xiū xī le yī huì er。",
+    "en": "He took the medicine and lay down to rest for a while."
+   },
+   {
+    "zh": "我在网上订了两张周末的电影票。",
+    "pinyin": "Wǒ zài wǎng shàng dìng le liǎng zhāng zhōu mò de diàn yǐng piào。",
+    "en": "I booked two movie tickets online for the weekend."
+   },
+   {
+    "zh": "这次考试我复习了很久,考得还不错。",
+    "pinyin": "Zhè cì kǎo shì wǒ fù xí le hěn jiǔ, kǎo de hái bú cuò。",
+    "en": "I reviewed a lot for this exam and did fairly well."
+   },
+   {
+    "zh": "她换了一份新工作,收入比以前高多了。",
+    "pinyin": "Tā huàn le yī fèn xīn gōng zuò, shōu rù bǐ yǐ qián gāo duō le。",
+    "en": "She changed to a new job, and her income is much higher than before."
+   }
+  ]
+ },
+ {
+  "id": "g088",
+  "level": 2,
+  "title": "\"过\" ile geçmiş deneyim",
+  "titleEn": "Expressing experiences with \"guo\"",
+  "pattern": "Fiil + 过",
+  "summary": "Fiilin ardındaki \"过\" (guo) o eylemin daha önce (en az bir kez) deneyimlendiğini bildirir: 我去过北京 = Pekin'e gitmişliğim var.",
+  "explanation": "Fiilin ardına gelen \"过\", bir eylemin geçmişte YAŞANMIŞ bir DENEYİM olduğunu bildirir: 我吃过北京烤鸭 (Pekin ördeği yemişliğim var), 你去过长城吗? (Çin Seddi'ne gittin mi hiç?). Türkçedeki \"...-mişliğim var / hiç ...-dın mı\" mantığına yakındır ve olayın belli bir zamanına değil, deneyimin varlığına odaklanır. Olumsuzu \"没(有)...过\" biçimindedir: 我没去过 (Hiç gitmedim). \"过\" tamamlanma \"了\"sinden farklıdır: \"了\" belli bir olayı, \"过\" ise \"böyle bir tecrübem oldu\" fikrini anlatır.",
+  "examples": [
+   {
+    "zh": "你去过西安吗?那里的兵马俑非常有名。",
+    "pinyin": "Nǐ qù guò xī ān ma? nà lǐ de bīng mǎ yǒng fēi cháng yǒu míng。",
+    "en": "Have you been to Xi'an? The Terracotta Warriors there are very famous."
+   },
+   {
+    "zh": "我从来没吃过这么辣的菜,辣得我直流眼泪。",
+    "pinyin": "Wǒ cóng lái méi chī guò zhè me là de cài, là de wǒ zhí liú yǎn lèi。",
+    "en": "I've never eaten food this spicy; it made my eyes water."
+   },
+   {
+    "zh": "他学过三年法语,可是现在差不多都忘了。",
+    "pinyin": "Tā xué guò sān nián fǎ yǔ, kě shì xiàn zài chà bu duō dōu wàng le。",
+    "en": "He studied French for three years, but has almost forgotten it all now."
+   },
+   {
+    "zh": "这部电影我看过两遍,每次看都很感动。",
+    "pinyin": "Zhè bù diàn yǐng wǒ kàn guò liǎng biàn, měi cì kàn dōu hěn gǎn dòng。",
+    "en": "I've watched this movie twice, and it moves me every time."
+   },
+   {
+    "zh": "你坐过高铁吗?又快又舒服,特别方便。",
+    "pinyin": "Nǐ zuò guò gāo tiě ma? yòu kuài yòu shū fú, tè bié fāng biàn。",
+    "en": "Have you ridden the high-speed rail? It's fast, comfortable, and convenient."
+   },
+   {
+    "zh": "我小时候在这条河里游过泳,现在河水没那么干净了。",
+    "pinyin": "Wǒ xiǎo shí hòu zài zhè tiáo hé lǐ yóu guò yǒng, xiàn zài hé shuǐ méi nà me gān jìng le。",
+    "en": "As a child I swam in this river; now the water isn't so clean anymore."
+   },
+   {
+    "zh": "她去过很多国家,见过各种各样的风景。",
+    "pinyin": "Tā qù guò hěn duō guó jiā, jiàn guò gè zhǒng gè yàng de fēng jǐng。",
+    "en": "She's been to many countries and seen all kinds of scenery."
+   },
+   {
+    "zh": "我以前养过一只小狗,后来送给了乡下的亲戚。",
+    "pinyin": "Wǒ yǐ qián yǎng guò yī zhī xiǎo gǒu, hòu lái sòng gěi le xiāng xià de qīn qī。",
+    "en": "I once kept a puppy, which I later gave to relatives in the countryside."
+   },
+   {
+    "zh": "这么好听的歌,我以前怎么从来没听过?",
+    "pinyin": "Zhè me hǎo tīng de gē, wǒ yǐ qián zěn me cóng lái méi tīng guò?",
+    "en": "Such a lovely song — how have I never heard it before?"
+   },
+   {
+    "zh": "他年轻的时候当过老师,后来改行做了生意。",
+    "pinyin": "Tā nián qīng de shí hòu dāng guò lǎo shī, hòu lái gǎi háng zuò le shēng yì。",
+    "en": "When young he worked as a teacher, then switched to business."
+   },
+   {
+    "zh": "你有没有一个人旅行过?那种感觉很特别。",
+    "pinyin": "Nǐ yǒu méi yǒu yí gè rén lǚ xíng guò? nà zhǒng gǎn jué hěn tè bié。",
+    "en": "Have you ever traveled alone? That feeling is quite special."
+   },
+   {
+    "zh": "我尝过很多地方的面条,还是妈妈做的最好吃。",
+    "pinyin": "Wǒ cháng guò hěn duō dì fāng de miàn tiáo, hái shì mā mā zuò de zuì hǎo chī。",
+    "en": "I've tasted noodles from many places, but mom's are still the best."
+   },
+   {
+    "zh": "这本书我读过好几次,每次都有新的体会。",
+    "pinyin": "Zhè běn shū wǒ dú guò hǎo jǐ cì, měi cì dōu yǒu xīn de tǐ huì。",
+    "en": "I've read this book several times, gaining new insights each time."
+   },
+   {
+    "zh": "他从来没迟到过,今天不知道出了什么事。",
+    "pinyin": "Tā cóng lái méi chí dào guò, jīn tiān bù zhī dào chū le shén me shì。",
+    "en": "He's never been late before; something must have happened today."
+   },
+   {
+    "zh": "我在国外住过一段时间,那段日子让我成长了很多。",
+    "pinyin": "Wǒ zài guó wài zhù guò yī duàn shí jiān, nà duàn rì zi ràng wǒ chéng zhǎng le hěn duō。",
+    "en": "I lived abroad for a while; that period helped me grow a lot."
+   },
+   {
+    "zh": "你见过下雪吗?对南方人来说那可是稀罕事。",
+    "pinyin": "Nǐ jiàn guò xià xuě ma? duì nán fāng rén lái shuō nà kě shì xī hǎn shì。",
+    "en": "Have you seen snow? For southerners it's quite a rarity."
+   },
+   {
+    "zh": "这家餐厅我来过一次,他们的鱼做得特别好。",
+    "pinyin": "Zhè jiā cān tīng wǒ lái guò yī cì, tā men de yú zuò de tè bié hǎo。",
+    "en": "I've been to this restaurant once; they make fish especially well."
+   },
+   {
+    "zh": "我教过很多学生,但像他这么努力的很少见。",
+    "pinyin": "Wǒ jiào guò hěn duō xué shēng, dàn xiàng tā zhè me nǔ lì de hěn shǎo jiàn。",
+    "en": "I've taught many students, but one as hardworking as him is rare."
+   },
+   {
+    "zh": "你爬过泰山吗?看日出的时候人特别多。",
+    "pinyin": "Nǐ pá guò tài shān ma? kàn rì chū de shí hòu rén tè bié duō。",
+    "en": "Have you climbed Mount Tai? There are lots of people watching the sunrise."
+   },
+   {
+    "zh": "我从没想过自己有一天会喜欢上做饭。",
+    "pinyin": "Wǒ cóng méi xiǎng guò zì jǐ yǒu yī tiān huì xǐ huān shàng zuò fàn。",
+    "en": "I never thought I'd one day come to enjoy cooking."
+   },
+   {
+    "zh": "他经历过很多困难,所以做事特别沉着。",
+    "pinyin": "Tā jīng lì guò hěn duō kùn nán, suǒ yǐ zuò shì tè bié chén zhuó。",
+    "en": "He's been through many hardships, so he handles things very calmly."
+   },
+   {
+    "zh": "这种茶我没喝过,听说对身体很好。",
+    "pinyin": "Zhè zhǒng chá wǒ méi hē guò, tīng shuō duì shēn tǐ hěn hǎo。",
+    "en": "I've never had this kind of tea; I hear it's very good for you."
+   },
+   {
+    "zh": "我们在那家老店买过东西,老板人特别好。",
+    "pinyin": "Wǒ men zài nà jiā lǎo diàn mǎi guò dōng xī, lǎo bǎn rén tè bié hǎo。",
+    "en": "We've shopped at that old store; the owner is very kind."
+   },
+   {
+    "zh": "你用过这个牌子的手机吗?好不好用?",
+    "pinyin": "Nǐ yòng guò zhè ge pái zi de shǒu jī ma? hǎo bù hǎo yòng?",
+    "en": "Have you used this brand of phone? Is it any good?"
+   },
+   {
+    "zh": "我年轻时也疯狂过,做过不少现在想想很傻的事。",
+    "pinyin": "Wǒ nián qīng shí yě fēng kuáng guò, zuò guò bù shǎo xiàn zài xiǎng xiǎng hěn shǎ de shì。",
+    "en": "When young I had my wild days too, doing many things that seem silly now."
+   }
+  ]
+ },
+ {
+  "id": "g089",
+  "level": 2,
+  "title": "\"呢\" soru parçacığı",
+  "titleEn": "Modal particle \"ne\"",
+  "pattern": "... 呢 ?",
+  "summary": "Cümle sonundaki \"呢\" (ne) \"ya ..? / peki ..? / nerede/ne yapıyor?\" gibi soruları yumuşatır: 你呢? = Ya sen?",
+  "explanation": "\"呢\" cümle sonuna gelen bir soru parçacığıdır ve birkaç işlevi vardır: (1) Aynı soruyu karşıya geri sormak — 我很好,你呢? (Ben iyiyim, ya sen?); (2) Bir kişinin/şeyin nerede olduğunu sormak — 我的手机呢? (Telefonum nerede?); (3) Süregelen bir durumu vurgulamak — 他还在睡觉呢 (Hâlâ uyuyor). \"吗\" ile karıştırılmamalı: \"吗\" evet/hayır sorusu kurar; \"呢\" ise ya karşılaştırmalı/eksiltili soru sorar ya da bir durumu vurgular. Kısa \"...呢?\" soruları konuşma dilinde çok yaygındır.",
+  "examples": [
+   {
+    "zh": "我打算周末去爬山,你呢?有什么安排吗?",
+    "pinyin": "Wǒ dǎ suàn zhōu mò qù pá shān, nǐ ne? yǒu shén me ān pái ma?",
+    "en": "I plan to go hiking this weekend; how about you? Any plans?"
+   },
+   {
+    "zh": "咦,我刚放在桌上的钥匙呢?怎么不见了?",
+    "pinyin": "Yí, wǒ gāng fàng zài zhuō shàng de yào shi ne? zěn me bú jiàn le?",
+    "en": "Huh, where are the keys I just put on the table? How are they gone?"
+   },
+   {
+    "zh": "你别着急,他还在路上呢,一会儿就到。",
+    "pinyin": "Nǐ bié zháo jí, tā hái zài lù shàng ne, yī huì er jiù dào。",
+    "en": "Don't worry; he's still on the way and will be here soon."
+   },
+   {
+    "zh": "大家都到了,就差你一个了,你现在在哪儿呢?",
+    "pinyin": "Dà jiā dōu dào le, jiù chà nǐ yí gè le, nǐ xiàn zài zài nǎ ér ne?",
+    "en": "Everyone's here except you; where are you right now?"
+   },
+   {
+    "zh": "这道题这么难,你是怎么做出来的呢?",
+    "pinyin": "Zhè dào tí zhè me nán, nǐ shì zěn me zuò chū lái de ne?",
+    "en": "This question is so hard; how did you manage to solve it?"
+   },
+   {
+    "zh": "外面下着大雨呢,你还是等雨小点儿再走吧。",
+    "pinyin": "Wài miàn xià zhe dà yǔ ne, nǐ hái shì děng yǔ xiǎo diǎn ér zài zǒu ba。",
+    "en": "It's pouring outside; wait until the rain lets up before you go."
+   },
+   {
+    "zh": "我已经吃过了,你呢?饿不饿?要不要一起吃点?",
+    "pinyin": "Wǒ yǐ jīng chī guò le, nǐ ne? è bù è? yào bù yào yì qǐ chī diǎn?",
+    "en": "I've already eaten; how about you? Hungry? Want to grab something?"
+   },
+   {
+    "zh": "孩子们都去哪儿了呢?家里怎么这么安静?",
+    "pinyin": "Hái zi men dōu qù nǎ ér le ne? jiā lǐ zěn me zhè me ān jìng?",
+    "en": "Where have the kids all gone? Why is the house so quiet?"
+   },
+   {
+    "zh": "你怎么一个人在这儿?你的朋友们呢?",
+    "pinyin": "Nǐ zěn me yí gè rén zài zhè ér? nǐ de péng yǒu men ne?",
+    "en": "Why are you here alone? Where are your friends?"
+   },
+   {
+    "zh": "我觉得这件红的好看,可是那件蓝的呢,也不错。",
+    "pinyin": "Wǒ jué de zhè jiàn hóng de hǎo kàn, kě shì nà jiàn lán de ne, yě bù cuò。",
+    "en": "I think the red one looks nice, but that blue one is good too."
+   },
+   {
+    "zh": "别关电视,我还看着呢,精彩的地方还没到。",
+    "pinyin": "Bié guān diàn shì, wǒ hái kàn zhe ne, jīng cǎi de dì fāng hái méi dào。",
+    "en": "Don't turn off the TV; I'm still watching, the exciting part hasn't come yet."
+   },
+   {
+    "zh": "你说得倒轻松,可事情哪有那么简单呢?",
+    "pinyin": "Nǐ shuō de dào qīng sōng, kě shì qíng nǎ yǒu nà me jiǎn dān ne?",
+    "en": "You make it sound easy, but how could things be that simple?"
+   },
+   {
+    "zh": "我的那本书呢?我记得昨天还放在书架上的。",
+    "pinyin": "Wǒ de nà běn shū ne? wǒ jì de zuó tiān hái fàng zài shū jià shàng de。",
+    "en": "Where's that book of mine? I remember it was on the shelf yesterday."
+   },
+   {
+    "zh": "天还早呢,咱们再多坐一会儿,聊聊天。",
+    "pinyin": "Tiān hái zǎo ne, zán men zài duō zuò yī huì er, liáo liáo tiān。",
+    "en": "It's still early; let's sit a while longer and chat."
+   },
+   {
+    "zh": "你为什么突然改变主意了呢?能告诉我原因吗?",
+    "pinyin": "Nǐ wèi shén me tū rán gǎi biàn zhǔ yì le ne? néng gào sù wǒ yuán yīn ma?",
+    "en": "Why did you suddenly change your mind? Can you tell me why?"
+   },
+   {
+    "zh": "这么重要的事,你怎么现在才想起来呢?",
+    "pinyin": "Zhè me zhòng yào de shì, nǐ zěn me xiàn zài cái xiǎng qǐ lái ne?",
+    "en": "Such an important thing — how are you only remembering it now?"
+   },
+   {
+    "zh": "我这边一切都好,家里人都好吗?爷爷的身体呢?",
+    "pinyin": "Wǒ zhè biān yī qiè dōu hǎo, jiā lǐ rén dōu hǎo ma? yé yé de shēn tǐ ne?",
+    "en": "Everything's fine on my end; is the family well? How is grandpa's health?"
+   },
+   {
+    "zh": "他工作那么忙,哪有时间陪孩子玩呢?",
+    "pinyin": "Tā gōng zuò nà me máng, nǎ yǒu shí jiān péi hái zi wán ne?",
+    "en": "He's so busy with work; where would he find time to play with the kids?"
+   },
+   {
+    "zh": "你先别走,饭马上就好了,还热着呢。",
+    "pinyin": "Nǐ xiān bié zǒu, fàn mǎ shàng jiù hǎo le, hái rè zhe ne。",
+    "en": "Don't leave yet; the food's almost ready and still hot."
+   },
+   {
+    "zh": "这个周末的天气怎么样呢?适不适合出去玩?",
+    "pinyin": "Zhè ge zhōu mò de tiān qì zěn me yàng ne? shì bú shì hé chū qù wán?",
+    "en": "What will the weather be like this weekend? Is it good for going out?"
+   },
+   {
+    "zh": "我的钱包呢?刚才还在包里,现在怎么找不到了?",
+    "pinyin": "Wǒ de qián bāo ne? gāng cái hái zài bāo lǐ, xiàn zài zěn me zhǎo bú dào le?",
+    "en": "Where's my wallet? It was in my bag just now; why can't I find it?"
+   },
+   {
+    "zh": "你都准备好了,他呢?他准备得怎么样了?",
+    "pinyin": "Nǐ dōu zhǔn bèi hǎo le, tā ne? tā zhǔn bèi de zěn me yàng le?",
+    "en": "You're all ready; what about him? How's his preparation going?"
+   },
+   {
+    "zh": "外面那么冷,你怎么穿这么少呢?快加件衣服。",
+    "pinyin": "Wài miàn nà me lěng, nǐ zěn me chuān zhè me shǎo ne? kuài jiā jiàn yī fú。",
+    "en": "It's so cold outside; why are you dressed so lightly? Put on more clothes."
+   },
+   {
+    "zh": "这件事到底该怎么办呢?我实在想不出好办法。",
+    "pinyin": "Zhè jiàn shì dào dǐ gāi zěn me bàn ne? wǒ shí zài xiǎng bù chū hǎo bàn fǎ。",
+    "en": "What on earth should we do about this? I really can't think of a good idea."
+   },
+   {
+    "zh": "大家都在等你发言呢,你有什么想法就说吧。",
+    "pinyin": "Dà jiā dōu zài děng nǐ fā yán ne, nǐ yǒu shén me xiǎng fǎ jiù shuō ba。",
+    "en": "Everyone's waiting for you to speak; share whatever ideas you have."
+   }
+  ]
+ },
+ {
+  "id": "g090",
+  "level": 2,
+  "title": "\"啊\" ünlem/pekiştirme parçacığı",
+  "titleEn": "Sentence-final interjection \"a\"",
+  "pattern": "... 啊",
+  "summary": "Cümle sonundaki \"啊\" (a) cümleye duygu katar: şaşkınlık, vurgu, hatırlatma ya da yumuşatma bildirir: 太好了啊！= Ne güzel ya!",
+  "explanation": "\"啊\" cümlenin sonuna gelen bir duygu parçacığıdır ve söyleneni yumuşatır ya da duygusal olarak renklendirir: hayranlık (真美啊！), hatırlatma/uyarı (小心啊！= dikkat et ha!), sabırsızlık ya da içtenlik (快点啊！= çabuk ol hadi!), onay isteme (是这样啊 = demek öyleymiş). Emir cümlesine eklendiğinde emri yumuşatır, ünlem cümlesine eklendiğinde duyguyu artırır. Önündeki sesle uyum için telaffuzda \"呀/哪/哇\" gibi biçimlere de girebilir, ama yazıda çoğunlukla \"啊\" kalır. Ton ekleyen, samimileştiren bir parçacıktır.",
+  "examples": [
+   {
+    "zh": "这里的风景真美啊,简直像一幅画一样。",
+    "pinyin": "Zhè lǐ de fēng jǐng zhēn měi a, jiǎn zhí xiàng yī fú huà yī yàng。",
+    "en": "The scenery here is so beautiful; it's just like a painting."
+   },
+   {
+    "zh": "过马路的时候小心点啊,车太多了。",
+    "pinyin": "Guò mǎ lù de shí hòu xiǎo xīn diǎn a, chē tài duō le。",
+    "en": "Be careful crossing the road; there's so much traffic."
+   },
+   {
+    "zh": "原来你就是小王啊,我早就听说过你了。",
+    "pinyin": "Yuán lái nǐ jiù shì xiǎo wáng a, wǒ zǎo jiù tīng shuō guò nǐ le。",
+    "en": "So you're Xiao Wang! I've heard about you for a long time."
+   },
+   {
+    "zh": "你快点儿啊,电影马上就要开始了。",
+    "pinyin": "Nǐ kuài diǎn ér a, diàn yǐng mǎ shàng jiù yào kāi shǐ le。",
+    "en": "Hurry up; the movie is about to start."
+   },
+   {
+    "zh": "天气这么好啊,咱们出去走走吧,别老待在家里。",
+    "pinyin": "Tiān qì zhè me hǎo a, zán men chū qù zǒu zǒu ba, bié lǎo dài zài jiā lǐ。",
+    "en": "The weather is so nice; let's go out for a walk instead of staying home."
+   },
+   {
+    "zh": "这道菜真好吃啊,你是跟谁学的?",
+    "pinyin": "Zhè dào cài zhēn hǎo chī a, nǐ shì gēn shuí xué de?",
+    "en": "This dish is so delicious; who did you learn it from?"
+   },
+   {
+    "zh": "你可要照顾好自己啊,别让家里人担心。",
+    "pinyin": "Nǐ kě yào zhào gù hǎo zì jǐ a, bié ràng jiā lǐ rén dān xīn。",
+    "en": "Do take good care of yourself; don't make the family worry."
+   },
+   {
+    "zh": "哎呀,原来是这么回事啊,我一直都误会你了。",
+    "pinyin": "Āi yā, yuán lái shì zhè me huí shì a, wǒ yì zhí dōu wù huì nǐ le。",
+    "en": "Oh, so that's how it is; I've been misunderstanding you all along."
+   },
+   {
+    "zh": "时间过得真快啊,一转眼孩子都上学了。",
+    "pinyin": "Shí jiān guò de zhēn kuài a, yī zhuǎn yǎn hái zi dōu shàng xué le。",
+    "en": "Time really flies; in a blink the child is already in school."
+   },
+   {
+    "zh": "你怎么才来啊,我们都等你半天了。",
+    "pinyin": "Nǐ zěn me cái lái a, wǒ men dōu děng nǐ bàn tiān le。",
+    "en": "Why are you only coming now? We've waited for you for ages."
+   },
+   {
+    "zh": "这么晚了你还不睡啊,明天还要早起呢。",
+    "pinyin": "Zhè me wǎn le nǐ hái bù shuì a, míng tiān hái yào zǎo qǐ ne。",
+    "en": "It's so late and you're still not asleep; you have to get up early tomorrow."
+   },
+   {
+    "zh": "你说得对啊,是我刚才没考虑清楚。",
+    "pinyin": "Nǐ shuō de duì a, shì wǒ gāng cái méi kǎo lǜ qīng chǔ。",
+    "en": "You're right; I just didn't think it through clearly."
+   },
+   {
+    "zh": "多穿点衣服啊,外面的风可大了。",
+    "pinyin": "Duō chuān diǎn yī fú a, wài miàn de fēng kě dà le。",
+    "en": "Put on more clothes; the wind outside is really strong."
+   },
+   {
+    "zh": "这个孩子真懂事啊,小小年纪就知道帮妈妈干活。",
+    "pinyin": "Zhè ge hái zi zhēn dǒng shì a, xiǎo xiǎo nián jì jiù zhī dào bāng mā mā gàn huó。",
+    "en": "This child is so sensible, helping mom with chores at such a young age."
+   },
+   {
+    "zh": "你可别忘了带钥匙啊,不然进不了门。",
+    "pinyin": "Nǐ kě bié wàng le dài yào shi a, bù rán jìn bù liǎo mén。",
+    "en": "Don't forget to bring your keys, or you won't get in."
+   },
+   {
+    "zh": "哇,你的房间收拾得这么干净啊,真让我羡慕。",
+    "pinyin": "Wa, nǐ de fáng jiān shōu shí de zhè me gān jìng a, zhēn ràng wǒ xiàn mù。",
+    "en": "Wow, your room is so clean; I really envy you."
+   },
+   {
+    "zh": "你慢点儿吃啊,别噎着了,又没人跟你抢。",
+    "pinyin": "Nǐ màn diǎn ér chī a, bié yē zhe le, yòu méi rén gēn nǐ qiǎng。",
+    "en": "Eat slowly; don't choke — no one's fighting you for it."
+   },
+   {
+    "zh": "这么大的事你怎么不早说啊?现在才想起来。",
+    "pinyin": "Zhè me dà de shì nǐ zěn me bù zǎo shuō a? xiàn zài cái xiǎng qǐ lái。",
+    "en": "Why didn't you mention such a big thing earlier? Only now you remember."
+   },
+   {
+    "zh": "你一定要记得给我回电话啊,我等你消息。",
+    "pinyin": "Nǐ yí dìng yào jì de gěi wǒ huí diàn huà a, wǒ děng nǐ xiāo xī。",
+    "en": "Be sure to call me back; I'll be waiting to hear from you."
+   },
+   {
+    "zh": "外面天都黑了啊,你一个人回去我不放心。",
+    "pinyin": "Wài miàn tiān dōu hēi le a, nǐ yí gè rén huí qù wǒ bù fàng xīn。",
+    "en": "It's already dark outside; I'm worried about you going back alone."
+   },
+   {
+    "zh": "这本书太有意思了啊,我一口气就读完了。",
+    "pinyin": "Zhè běn shū tài yǒu yì si le a, wǒ yì kǒu qì jiù dú wán le。",
+    "en": "This book is so interesting; I read it all in one go."
+   },
+   {
+    "zh": "你可要说话算话啊,答应了就不能反悔。",
+    "pinyin": "Nǐ kě yào shuō huà suàn huà a, dā yìng le jiù bù néng fǎn huǐ。",
+    "en": "You have to keep your word; once you've promised, no going back."
+   },
+   {
+    "zh": "哎,做人还是要诚实啊,骗人是长久不了的。",
+    "pinyin": "Āi, zuò rén hái shì yào chéng shí a, piàn rén shì cháng jiǔ bù liǎo de。",
+    "en": "Ah, one really should be honest; deceiving people never lasts."
+   },
+   {
+    "zh": "路上开车一定要注意安全啊,我在家等你回来。",
+    "pinyin": "Lù shàng kāi chē yí dìng yào zhù yì ān quán a, wǒ zài jiā děng nǐ huí lái。",
+    "en": "Do drive safely on the road; I'll be waiting for you at home."
+   },
+   {
+    "zh": "你看这花开得多好啊,香味都飘到屋里来了。",
+    "pinyin": "Nǐ kàn zhè huā kāi de duō hǎo a, xiāng wèi dōu piāo dào wū lǐ lái le。",
+    "en": "Look how beautifully these flowers bloom; the fragrance drifts into the house."
+   }
+  ]
  }
 ]

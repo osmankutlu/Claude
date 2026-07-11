@@ -23662,5 +23662,685 @@
     "en": "At first I was quite worried, but later found everything went smoothly."
    }
   ]
+ },
+ {
+  "id": "g175",
+  "level": 3,
+  "title": "\"比较\" ile \"nispeten, oldukça\"",
+  "titleEn": "Expressing \"rather\" with \"bijiao\"",
+  "pattern": "Özne + 比较 + Sıfat",
+  "summary": "\"比较\" (bǐjiào) bir niteliğin nispeten/oldukça yüksek olduğunu bildirir: 今天比较冷 = Bugün nispeten soğuk.",
+  "explanation": "\"比较\" bir sıfatın önüne gelip \"nispeten, oldukça, görece, epeyce\" anlamı verir; açık bir kıyas nesnesi olmadan da bir niteliğin ORTA-YÜKSEK derecesini, ölçülü biçimde bildirir: 这个问题比较难 (Bu soru oldukça zor), 他性格比较内向 (Karakteri nispeten içe dönük), 今天人比较多 (Bugün epeyce kalabalık). \"很\"den daha ÖLÇÜLÜ, ihtiyatlı bir derece belirtir — \"çok\" değil, \"görece\". Sözlük anlamı \"karşılaştırmak\"tır (fiil), ama zarf olarak kıyaslamayı örtük bırakıp ölçülü bir derece verir. Türkçedeki \"nispeten, oldukça, görece, epeyce\" karşılıklarına denk gelir; kesin/abartılı olmadan bir niteliği belirtmenin yaygın, kibar bir yoludur.",
+  "examples": [
+   {
+    "zh": "这道题比较难,你要是不会做,我可以教你。",
+    "pinyin": "Zhè dào tí bǐ jiào nán, nǐ yào shì bú huì zuò, wǒ kě yǐ jiào nǐ。",
+    "en": "This problem is rather hard; if you can't do it, I can teach you."
+   },
+   {
+    "zh": "他性格比较内向,不太喜欢在人多的地方说话。",
+    "pinyin": "Tā xìng gé bǐ jiào nèi xiàng, bù tài xǐ huān zài rén duō de dì fāng shuō huà。",
+    "en": "He's rather introverted and doesn't like speaking in crowds."
+   },
+   {
+    "zh": "周末超市里人比较多,咱们还是平时去吧。",
+    "pinyin": "Zhōu mò chāo shì lǐ rén bǐ jiào duō, zán men hái shì píng shí qù ba。",
+    "en": "The supermarket is rather crowded on weekends; let's go on a weekday."
+   },
+   {
+    "zh": "这家餐厅的口味比较清淡,很适合老人和孩子。",
+    "pinyin": "Zhè jiā cān tīng de kǒu wèi bǐ jiào qīng dàn, hěn shì hé lǎo rén hé hái zi。",
+    "en": "This restaurant's food is rather mild, suitable for the old and young."
+   },
+   {
+    "zh": "最近工作比较忙,我都没什么时间陪家人。",
+    "pinyin": "Zuì jìn gōng zuò bǐ jiào máng, wǒ dōu méi shén me shí jiān péi jiā rén。",
+    "en": "Work's been rather busy lately; I've had little time for family."
+   },
+   {
+    "zh": "这条路比较近,不过路面不太平,你开车小心点。",
+    "pinyin": "Zhè tiáo lù bǐ jiào jìn, bù guò lù miàn bù tài píng, nǐ kāi chē xiǎo xīn diǎn。",
+    "en": "This road is rather short, but bumpy, so drive carefully."
+   },
+   {
+    "zh": "南方的冬天比较潮湿,北方人刚去可能不太习惯。",
+    "pinyin": "Nán fāng de dōng tiān bǐ jiào cháo shī, běi fāng rén gāng qù kě néng bù tài xí guàn。",
+    "en": "Southern winters are rather damp; northerners may not be used to it."
+   },
+   {
+    "zh": "他做事比较谨慎,每一步都会考虑得很周全。",
+    "pinyin": "Tā zuò shì bǐ jiào jǐn shèn, měi yī bù dū huì kǎo lǜ de hěn zhōu quán。",
+    "en": "He's rather cautious, considering every step thoroughly."
+   },
+   {
+    "zh": "这几天天气比较好,适合出去晒晒被子。",
+    "pinyin": "Zhè jǐ tiān tiān qì bǐ jiào hǎo, shì hé chū qù shài shài bèi zi。",
+    "en": "The weather's rather nice these days, good for airing the quilts."
+   },
+   {
+    "zh": "我对历史比较感兴趣,常常看这方面的书。",
+    "pinyin": "Wǒ duì lì shǐ bǐ jiào gǎn xìng qù, cháng cháng kàn zhè fāng miàn de shū。",
+    "en": "I'm rather interested in history and often read books on it."
+   },
+   {
+    "zh": "这个牌子的东西质量比较可靠,用着放心。",
+    "pinyin": "Zhè ge pái zi de dōng xī zhì liàng bǐ jiào kě kào, yòng zhe fàng xīn。",
+    "en": "This brand's quality is rather reliable; it's reassuring to use."
+   },
+   {
+    "zh": "早上路上车比较堵,你最好提前出门。",
+    "pinyin": "Zǎo shàng lù shàng chē bǐ jiào dǔ, nǐ zuì hǎo tí qián chū mén。",
+    "en": "Traffic is rather heavy in the morning; you'd best leave early."
+   },
+   {
+    "zh": "他说话比较直,你别往心里去,他没有恶意。",
+    "pinyin": "Tā shuō huà bǐ jiào zhí, nǐ bié wǎng xīn lǐ qù, tā méi yǒu è yì。",
+    "en": "He's rather blunt; don't take it to heart, he means no harm."
+   },
+   {
+    "zh": "这种植物比较好养,不用天天浇水也能活。",
+    "pinyin": "Zhè zhòng zhí wù bǐ jiào hǎo yǎng, bù yòng tiān tiān jiāo shuǐ yě néng huó。",
+    "en": "This plant is rather easy to keep; it survives without daily watering."
+   },
+   {
+    "zh": "今天的会议内容比较重要,大家都认真做了笔记。",
+    "pinyin": "Jīn tiān de huì yì nèi róng bǐ jiào zhòng yào, dà jiā dōu rèn zhēn zuò le bǐ jì。",
+    "en": "Today's meeting was rather important; everyone took careful notes."
+   },
+   {
+    "zh": "这份工作比较稳定,就是收入不算特别高。",
+    "pinyin": "Zhè fèn gōng zuò bǐ jiào wěn dìng, jiù shì shōu rù bù suàn tè bié gāo。",
+    "en": "This job is rather stable, just the income isn't especially high."
+   },
+   {
+    "zh": "他年纪比较大了,爬这么高的山可能有点吃力。",
+    "pinyin": "Tā nián jì bǐ jiào dà le, pá zhè me gāo de shān kě néng yǒu diǎn chī lì。",
+    "en": "He's rather old; climbing such a high mountain may be a strain."
+   },
+   {
+    "zh": "这几个方案里,我觉得这个比较可行。",
+    "pinyin": "Zhè jǐ gè fāng àn lǐ, wǒ jué de zhè ge bǐ jiào kě xíng。",
+    "en": "Of these plans, I think this one is rather feasible."
+   },
+   {
+    "zh": "孩子这段时间比较听话,可能是长大懂事了。",
+    "pinyin": "Hái zi zhè duàn shí jiān bǐ jiào tīng huà, kě néng shì zhǎng dà dǒng shì le。",
+    "en": "The child has been rather obedient lately; perhaps he's growing up."
+   },
+   {
+    "zh": "这家医院离得比较远,不过医生的水平很高。",
+    "pinyin": "Zhè jiā yī yuàn lí de bǐ jiào yuǎn, bù guò yī shēng de shuǐ píng hěn gāo。",
+    "en": "This hospital is rather far, but the doctors are highly skilled."
+   },
+   {
+    "zh": "刚开始学的时候,发音比较难,慢慢就好了。",
+    "pinyin": "Gāng kāi shǐ xué de shí hòu, fā yīn bǐ jiào nán, màn màn jiù hǎo le。",
+    "en": "Pronunciation is rather hard at first, but it gets better gradually."
+   },
+   {
+    "zh": "这件衣服的款式比较简单,但是很耐看。",
+    "pinyin": "Zhè jiàn yī fú de kuǎn shì bǐ jiào jiǎn dān, dàn shì hěn nài kàn。",
+    "en": "This outfit's style is rather simple, but pleasing over time."
+   },
+   {
+    "zh": "他对这方面比较在行,有问题可以问他。",
+    "pinyin": "Tā duì zhè fāng miàn bǐ jiào zài háng, yǒu wèn tí kě yǐ wèn tā。",
+    "en": "He's rather expert in this area; ask him if you have questions."
+   },
+   {
+    "zh": "今年的雨水比较多,河里的水位涨了不少。",
+    "pinyin": "Jīn nián de yǔ shuǐ bǐ jiào duō, hé lǐ de shuǐ wèi zhǎng le bù shǎo。",
+    "en": "There's been rather a lot of rain this year; the river rose quite a bit."
+   },
+   {
+    "zh": "这个时间段比较安静,适合专心看书或者工作。",
+    "pinyin": "Zhè ge shí jiān duàn bǐ jiào ān jìng, shì hé zhuān xīn kàn shū huò zhě gōng zuò。",
+    "en": "This time slot is rather quiet, good for focused reading or work."
+   }
+  ]
+ },
+ {
+  "id": "g176",
+  "level": 3,
+  "title": "\"什么的\" ile \"falan, filan\"",
+  "titleEn": "Ending a non-exhaustive list with \"shenme de\"",
+  "pattern": "İsim 1、İsim 2 + 什么的",
+  "summary": "\"什么的\" (shénme de) bir listenin sonuna gelip \"falan, filan, ve benzeri\" anlamı verir: 苹果、香蕉什么的 = elma, muz falan.",
+  "explanation": "\"什么的\" bir ya da birkaç örnek saydıktan sonra listenin sonuna eklenip \"falan, filan, gibi şeyler, ve benzeri\" anlamı verir; listenin TAM olmadığını, daha başka benzer öğelerin de olduğunu belirtir: 我买了些水果,苹果、香蕉什么的 (Biraz meyve aldım, elma muz falan), 周末喜欢看看书、听听音乐什么的 (Hafta sonu kitap okumak, müzik dinlemek gibi şeyler severim). Konuşma diline özgü, rahat bir ifadedir. Tek bir öğeden sonra da gelebilir: 喝点茶什么的 (çay falan iç). \"等等\" ve \"之类的\" ile benzer işlevdedir ama \"什么的\" en gündelik/samimi olanıdır. Türkçedeki \"falan, filan, ...gibi şeyler, ve benzeri\" ifadelerine denk gelir; bir listeyi açık uçlu, gündelik bir tonla bitirir.",
+  "examples": [
+   {
+    "zh": "周末我喜欢在家看看书、听听音乐什么的,挺放松的。",
+    "pinyin": "Zhōu mò wǒ xǐ huān zài jiā kàn kàn shū、 tīng tīng yīn yuè shén me de, tǐng fàng sōng de。",
+    "en": "On weekends I like reading, listening to music and such at home; it's relaxing."
+   },
+   {
+    "zh": "你去超市的时候,顺便买点水果、酸奶什么的。",
+    "pinyin": "Nǐ qù chāo shì de shí hòu, shùn biàn mǎi diǎn shuǐ guǒ、 suān nǎi shén me de。",
+    "en": "When you go to the supermarket, grab some fruit, yogurt and the like."
+   },
+   {
+    "zh": "他平时爱运动,跑步、打球什么的都很在行。",
+    "pinyin": "Tā píng shí ài yùn dòng, pǎo bù、 dǎ qiú shén me de dōu hěn zài háng。",
+    "en": "He loves sports; running, ball games and such, he's good at them all."
+   },
+   {
+    "zh": "桌子上放着些零食,瓜子、花生什么的,你随便吃。",
+    "pinyin": "Zhuō zi shàng fàng zhe xiē líng shí, guā zi、 huā shēng shén me de, nǐ suí biàn chī。",
+    "en": "There are snacks on the table, seeds, peanuts and such; help yourself."
+   },
+   {
+    "zh": "搬家的时候,那些旧书、旧衣服什么的我都送人了。",
+    "pinyin": "Bān jiā de shí hòu, nà xiē jiù shū、 jiù yī fú shén me de wǒ dōu sòng rén le。",
+    "en": "When moving, I gave away all those old books, clothes and such."
+   },
+   {
+    "zh": "她包里总是装着纸巾、口红什么的,一应俱全。",
+    "pinyin": "Tā bāo lǐ zǒng shì zhuāng zhe zhǐ jīn、 kǒu hóng shén me de, yī yīng jù quán。",
+    "en": "Her bag always has tissues, lipstick and such, everything covered."
+   },
+   {
+    "zh": "过年要准备的东西可多了,春联、糖果什么的都得买。",
+    "pinyin": "Guò nián yào zhǔn bèi de dōng xī kě duō le, chūn lián、 táng guǒ shén me de dōu de mǎi。",
+    "en": "There's much to prepare for New Year: couplets, candy and such."
+   },
+   {
+    "zh": "闲下来的时候,他就喜欢养养花、钓钓鱼什么的。",
+    "pinyin": "Xián xià lái de shí hòu, tā jiù xǐ huān yǎng yǎng huā、 diào diào yú shén me de。",
+    "en": "In his free time, he likes tending flowers, fishing and such."
+   },
+   {
+    "zh": "感冒了多喝点热水,姜茶什么的,出出汗就好了。",
+    "pinyin": "Gǎn mào le duō hē diǎn rè shuǐ, jiāng chá shén me de, chū chū hàn jiù hǎo le。",
+    "en": "With a cold, drink hot water, ginger tea and such, sweat it out."
+   },
+   {
+    "zh": "我不太挑食,面条、米饭什么的都能吃。",
+    "pinyin": "Wǒ bù tài tiāo shí, miàn tiáo、 mǐ fàn shén me de dōu néng chī。",
+    "en": "I'm not picky; noodles, rice and such, I can eat them all."
+   },
+   {
+    "zh": "你有什么烦心事、不开心的什么的,都可以跟我说。",
+    "pinyin": "Nǐ yǒu shén me fán xīn shì、 bù kāi xīn de shén me de, dōu kě yǐ gēn wǒ shuō。",
+    "en": "If you have worries, unhappy things and such, you can tell me."
+   },
+   {
+    "zh": "他房间里堆满了模型、玩具什么的,像个小型展览。",
+    "pinyin": "Tā fáng jiān lǐ duī mǎn le mó xíng、 wán jù shén me de, xiàng gè xiǎo xíng zhǎn lǎn。",
+    "en": "His room is piled with models, toys and such, like a mini exhibition."
+   },
+   {
+    "zh": "出门旅行,充电器、雨伞什么的可别忘了带。",
+    "pinyin": "Chū mén lǚ xíng, chōng diàn qì、 yǔ sǎn shén me de kě bié wàng le dài。",
+    "en": "When traveling, don't forget the charger, umbrella and such."
+   },
+   {
+    "zh": "这些琐事,交水电费、买菜什么的,一般都是我来做。",
+    "pinyin": "Zhè xiē suǒ shì, jiāo shuǐ diàn fèi、 mǎi cài shén me de, yì bān dōu shì wǒ lái zuò。",
+    "en": "These chores — paying bills, buying groceries and such — I usually do."
+   },
+   {
+    "zh": "他喜欢收集邮票、硬币什么的,已经攒了好多年了。",
+    "pinyin": "Tā xǐ huān shōu jí yóu piào、 yìng bì shén me de, yǐ jīng zǎn le hǎo duō nián le。",
+    "en": "He likes collecting stamps, coins and such; he's saved for years."
+   },
+   {
+    "zh": "你要是饿了,冰箱里有面包、鸡蛋什么的,自己热一下。",
+    "pinyin": "Nǐ yào shì è le, bīng xiāng lǐ yǒu miàn bāo、 jī dàn shén me de, zì jǐ rè yī xià。",
+    "en": "If you're hungry, there's bread, eggs and such in the fridge; heat them up."
+   },
+   {
+    "zh": "周末我们经常一起吃个饭、聊聊天什么的。",
+    "pinyin": "Zhōu mò wǒ men jīng cháng yì qǐ chī gè fàn、 liáo liáo tiān shén me de。",
+    "en": "On weekends we often eat together, chat and such."
+   },
+   {
+    "zh": "孩子的文具、书本什么的,开学前都得准备好。",
+    "pinyin": "Hái zi de wén jù、 shū běn shén me de, kāi xué qián dōu de zhǔn bèi hǎo。",
+    "en": "The child's stationery, books and such must be ready before school."
+   },
+   {
+    "zh": "他对做饭一窍不通,煮个面、下个饺子什么的都不会。",
+    "pinyin": "Tā duì zuò fàn yī qiào bù tōng, zhǔ gè miàn、 xià gè jiǎo zi shén me de dōu bú huì。",
+    "en": "He knows nothing about cooking; noodles, dumplings and such, he can't make."
+   },
+   {
+    "zh": "退休以后,老人打打太极、下下棋什么的,日子过得挺充实。",
+    "pinyin": "Tuì xiū yǐ hòu, lǎo rén dǎ dǎ tài jí、 xià xià qí shén me de, rì zi guò de tǐng chōng shí。",
+    "en": "After retiring, the old man does tai chi, plays chess and such, a full life."
+   },
+   {
+    "zh": "你别老是买这些没用的小摆件什么的,家里都放不下了。",
+    "pinyin": "Nǐ bié lǎo shì mǎi zhè xiē méi yòng de xiǎo bǎi jiàn shén me de, jiā lǐ dōu fàng bù xià le。",
+    "en": "Stop buying these useless little ornaments and such; there's no room left."
+   },
+   {
+    "zh": "生病的时候,有人送点花、水果什么的,心里就暖暖的。",
+    "pinyin": "Shēng bìng de shí hòu, yǒu rén sòng diǎn huā、 shuǐ guǒ shén me de, xīn lǐ jiù nuǎn nuǎn de。",
+    "en": "When ill, someone bringing flowers, fruit and such warms your heart."
+   },
+   {
+    "zh": "我们聊了聊工作、家庭什么的,不知不觉就到了半夜。",
+    "pinyin": "Wǒ men liáo le liáo gōng zuò、 jiā tíng shén me de, bù zhī bù jué jiù dào le bàn yè。",
+    "en": "We talked about work, family and such, and midnight came unnoticed."
+   },
+   {
+    "zh": "你把要洗的衣服、床单什么的都放进洗衣机里吧。",
+    "pinyin": "Nǐ bǎ yào xǐ de yī fú、 chuáng dān shén me de dōu fàng jìn xǐ yī jī lǐ ba。",
+    "en": "Put the clothes to wash, sheets and such into the washing machine."
+   },
+   {
+    "zh": "他答应给孩子买些绘本、积木什么的当生日礼物。",
+    "pinyin": "Tā dā yìng gěi hái zi mǎi xiē huì běn、 jī mù shén me de dāng shēng rì lǐ wù。",
+    "en": "He promised to buy the child picture books, blocks and such as birthday gifts."
+   }
+  ]
+ },
+ {
+  "id": "g177",
+  "level": 3,
+  "title": "\"之类的\" ile \"...gibi şeyler\"",
+  "titleEn": "Expressing \"stuff like that\" with \"zhileide\"",
+  "pattern": "像 ... 之类的 + Kategori",
+  "summary": "\"之类的\" (zhī lèi de) bir örnekten sonra \"...gibi şeyler, ...türünden\" anlamı verir: 像水果之类的 = meyve gibi şeyler.",
+  "explanation": "\"之类的\" bir ya da birkaç örnek verdikten sonra \"...gibi şeyler, ...türünden, o kategoriden\" anlamı katar ve çoğu zaman \"像...之类的\" biçiminde kullanılır: 像苹果、橘子之类的水果 (elma, portakal gibi meyveler), 他喜欢看科幻、探险之类的电影 (Bilim kurgu, macera türü filmler sever). \"什么的\"ye benzer ama \"之类的\" biraz daha RESMÎ/yazılı dile yakındır ve çoğu zaman ardından bir KATEGORİ ismi gelir (之类的东西/电影/问题). Bir örneği bir sınıfın temsilcisi olarak sunup benzerlerini de kapsar. Türkçedeki \"...gibi şeyler, ...türünden, ... ve benzerleri, o cinsten\" ifadelerine denk gelir; örnek vererek bir kategoriyi anlatmanın düzgün bir yoludur.",
+  "examples": [
+   {
+    "zh": "我平时喜欢看历史、传记之类的书,觉得很有收获。",
+    "pinyin": "Wǒ píng shí xǐ huān kàn lì shǐ、 zhuàn jì zhī lèi de shū, jué de hěn yǒu shōu huò。",
+    "en": "I usually like reading history, biography and similar books; I find them rewarding."
+   },
+   {
+    "zh": "像牛奶、鸡蛋之类的食物,富含蛋白质,对身体好。",
+    "pinyin": "Xiàng niú nǎi、 jī dàn zhī lèi de shí wù, fù hán dàn bái zhì, duì shēn tǐ hǎo。",
+    "en": "Foods like milk and eggs are rich in protein and good for you."
+   },
+   {
+    "zh": "他不喜欢恐怖、惊悚之类的电影,看了会做噩梦。",
+    "pinyin": "Tā bù xǐ huān kǒng bù、 jīng sǒng zhī lèi de diàn yǐng, kàn le huì zuò è mèng。",
+    "en": "He dislikes horror, thriller and such movies; they give him nightmares."
+   },
+   {
+    "zh": "这种场合,最好别谈政治、宗教之类的敏感话题。",
+    "pinyin": "Zhè zhǒng chǎng hé, zuì hǎo bié tán zhèng zhì、 zōng jiào zhī lèi de mǐn gǎn huà tí。",
+    "en": "On such occasions, best avoid sensitive topics like politics and religion."
+   },
+   {
+    "zh": "像手机、电脑之类的电子产品,更新得特别快。",
+    "pinyin": "Xiàng shǒu jī、 diàn nǎo zhī lèi de diàn zi chǎn pǐn, gēng xīn de tè bié kuài。",
+    "en": "Electronics like phones and computers update very fast."
+   },
+   {
+    "zh": "我出门一般只带钱包、钥匙之类的必需品。",
+    "pinyin": "Wǒ chū mén yì bān zhǐ dài qián bāo、 yào shi zhī lèi de bì xū pǐn。",
+    "en": "When out, I usually carry only essentials like wallet and keys."
+   },
+   {
+    "zh": "他对绘画、书法之类的传统艺术很感兴趣。",
+    "pinyin": "Tā duì huì huà、 shū fǎ zhī lèi de chuán tǒng yì shù hěn gǎn xìng qù。",
+    "en": "He's very interested in traditional arts like painting and calligraphy."
+   },
+   {
+    "zh": "像感冒、发烧之类的小毛病,多休息一般就好了。",
+    "pinyin": "Xiàng gǎn mào、 fā shāo zhī lèi de xiǎo máo bìng, duō xiū xī yì bān jiù hǎo le。",
+    "en": "Minor ailments like colds and fevers usually clear up with rest."
+   },
+   {
+    "zh": "这家店主要卖文具、书本之类的东西。",
+    "pinyin": "Zhè jiā diàn zhǔ yào mài wén jù、 shū běn zhī lèi de dōng xī。",
+    "en": "This shop mainly sells things like stationery and books."
+   },
+   {
+    "zh": "我不太会做那种红烧、油炸之类的复杂菜。",
+    "pinyin": "Wǒ bù tài huì zuò nà zhǒng hóng shāo、 yóu zhá zhī lèi de fù zá cài。",
+    "en": "I'm not good at complex dishes like braised or deep-fried ones."
+   },
+   {
+    "zh": "像跑步、游泳之类的有氧运动,对心脏很有好处。",
+    "pinyin": "Xiàng pǎo bù、 yóu yǒng zhī lèi de yǒu yǎng yùn dòng, duì xīn zàng hěn yǒu hǎo chù。",
+    "en": "Aerobic exercises like running and swimming are good for the heart."
+   },
+   {
+    "zh": "孩子最近迷上了拼图、积木之类的益智玩具。",
+    "pinyin": "Hái zi zuì jìn mí shàng le pīn tú、 jī mù zhī lèi de yì zhì wán jù。",
+    "en": "The child is into puzzles, blocks and such educational toys lately."
+   },
+   {
+    "zh": "这类合同、协议之类的文件,一定要仔细看清楚再签。",
+    "pinyin": "Zhè lèi hé tóng、 xié yì zhī lèi de wén jiàn, yí dìng yào zǐ xì kàn qīng chǔ zài qiān。",
+    "en": "Documents like contracts and agreements must be read carefully before signing."
+   },
+   {
+    "zh": "他收藏了很多邮票、古币之类的老物件。",
+    "pinyin": "Tā shōu cáng le hěn duō yóu piào、 gǔ bì zhī lèi de lǎo wù jiàn。",
+    "en": "He's collected many old items like stamps and ancient coins."
+   },
+   {
+    "zh": "像西红柿、黄瓜之类的蔬菜,生吃也很爽口。",
+    "pinyin": "Xiàng xī hóng shì、 huáng guā zhī lèi de shū cài, shēng chī yě hěn shuǎng kǒu。",
+    "en": "Vegetables like tomatoes and cucumbers are refreshing eaten raw."
+   },
+   {
+    "zh": "我最怕填表格、办手续之类的麻烦事。",
+    "pinyin": "Wǒ zuì pà tián biǎo gé、 bàn shǒu xù zhī lèi de má fán shì。",
+    "en": "I dread troublesome things like filling forms and doing paperwork."
+   },
+   {
+    "zh": "周末他喜欢做点烘焙,像饼干、蛋糕之类的。",
+    "pinyin": "Zhōu mò tā xǐ huān zuò diǎn hōng bèi, xiàng bǐng gān、 dàn gāo zhī lèi de。",
+    "en": "On weekends he likes baking things like cookies and cakes."
+   },
+   {
+    "zh": "像地震、洪水之类的自然灾害,平时要多了解些应对知识。",
+    "pinyin": "Xiàng dì zhèn、 hóng shuǐ zhī lèi de zì rán zāi hài, píng shí yào duō liǎo jiě xiē yìng duì zhī shí。",
+    "en": "For disasters like earthquakes and floods, learn coping knowledge in advance."
+   },
+   {
+    "zh": "这些琐碎的家务,像扫地、擦桌子之类的,他从不推脱。",
+    "pinyin": "Zhè xiē suǒ suì de jiā wù, xiàng sǎo de、 cā zhuō zi zhī lèi de, tā cóng bù tuī tuō。",
+    "en": "For petty chores like sweeping and wiping tables, he never shirks."
+   },
+   {
+    "zh": "我们讨论的都是些方案、预算之类的具体问题。",
+    "pinyin": "Wǒ men tǎo lùn de dōu shì xiē fāng àn、 yù suàn zhī lèi de jù tǐ wèn tí。",
+    "en": "We discussed concrete matters like plans and budgets."
+   },
+   {
+    "zh": "他喜欢安静,像音乐会、图书馆之类的地方最合他心意。",
+    "pinyin": "Tā xǐ huān ān jìng, xiàng yīn yuè huì、 tú shū guǎn zhī lèi de dì fāng zuì hé tā xīn yì。",
+    "en": "He loves quiet; places like concerts and libraries suit him best."
+   },
+   {
+    "zh": "像围巾、手套之类的东西,冬天最实用了。",
+    "pinyin": "Xiàng wéi jīn、 shǒu tào zhī lèi de dōng xī, dōng tiān zuì shí yòng le。",
+    "en": "Things like scarves and gloves are most practical in winter."
+   },
+   {
+    "zh": "这种保健品、补品之类的,还是听医生的建议再买。",
+    "pinyin": "Zhè zhǒng bǎo jiàn pǐn、 bǔ pǐn zhī lèi de, hái shì tīng yī shēng de jiàn yì zài mǎi。",
+    "en": "For health supplements and tonics, buy them on a doctor's advice."
+   },
+   {
+    "zh": "他平时不爱说客套话、恭维话之类的,为人很实在。",
+    "pinyin": "Tā píng shí bù ài shuō kè tào huà、 gōng wéi huà zhī lèi de, wéi rén hěn shí zài。",
+    "en": "He dislikes flattery and pleasantries; he's a genuine person."
+   },
+   {
+    "zh": "像日记、信件之类的私人东西,别人的最好别乱翻。",
+    "pinyin": "Xiàng rì jì、 xìn jiàn zhī lèi de sī rén dōng xī, bié rén de zuì hǎo bié luàn fān。",
+    "en": "Private things like diaries and letters — best not go through others'."
+   }
+  ]
+ },
+ {
+  "id": "g178",
+  "level": 3,
+  "title": "\"等/等等\" ile liste bitirme",
+  "titleEn": "Non-exhaustive lists with \"dengdeng\"",
+  "pattern": "... 等 / 等等",
+  "summary": "\"等\" ya da \"等等\" (děng/děngděng) bir listeyi \"vb., ve benzeri, gibi\" diye bitirir: 苹果、香蕉等水果 = elma, muz gibi meyveler.",
+  "explanation": "\"等\" (ya da ikilenmiş \"等等\") sayılan öğelerin ardına gelip listenin tam olmadığını, benzer başka öğelerin de bulunduğunu belirtir: \"vb., ve benzeri, gibi, ve saire\". İki kullanımı: (1) \"等\" + genel kategori — 北京、上海、广州等大城市 (Pekin, Şanghay, Guangzhou gibi büyük şehirler). (2) Liste sonunda tek başına \"等\" ya da \"等等\" — 我买了笔、本子、橡皮等等 (Kalem, defter, silgi vb. aldım). \"什么的\" ve \"之类的\"ye benzer ama \"等/等等\" en RESMÎ, yazılı ve akademik olanıdır; raporlarda, listelerde çok kullanılır. Bazen sayılan öğelerin tümünü toparlamak için de kullanılır (\"等\" + sayı: 三人). Türkçedeki \"vb., ve benzeri, gibi, ve saire\" karşılıklarına denk gelir; resmî listelerin standart bitiricisidir.",
+  "examples": [
+   {
+    "zh": "这家书店里,文学、历史、科学等各类书籍应有尽有。",
+    "pinyin": "Zhè jiā shū diàn lǐ, wén xué、 lì shǐ、 kē xué děng gè lèi shū jí yīng yǒu jìn yǒu。",
+    "en": "This bookstore has all kinds of books: literature, history, science, etc."
+   },
+   {
+    "zh": "北京、上海、广州等大城市的生活节奏都很快。",
+    "pinyin": "Běi jīng、 shàng hǎi、 guǎng zhōu děng dà chéng shì de shēng huó jié zòu dōu hěn kuài。",
+    "en": "Big cities like Beijing, Shanghai, and Guangzhou all have a fast pace."
+   },
+   {
+    "zh": "苹果、香蕉、橘子等水果富含维生素,应该常吃。",
+    "pinyin": "Píng guǒ、 xiāng jiāo、 jú zi děng shuǐ guǒ fù hán wéi shēng sù, yīng gāi cháng chī。",
+    "en": "Fruits like apples, bananas, and oranges are rich in vitamins; eat them often."
+   },
+   {
+    "zh": "会上大家讨论了预算、进度、人员安排等问题。",
+    "pinyin": "Huì shàng dà jiā tǎo lùn le yù suàn、 jìn dù、 rén yuán ān pái děng wèn tí。",
+    "en": "At the meeting, we discussed budget, schedule, staffing, and other issues."
+   },
+   {
+    "zh": "他会说英语、法语、日语等好几门外语。",
+    "pinyin": "Tā huì shuō yīng yǔ、 fǎ yǔ、 rì yǔ děng hǎo jǐ mén wài yǔ。",
+    "en": "He speaks several languages: English, French, Japanese, and so on."
+   },
+   {
+    "zh": "这次活动需要准备桌椅、音响、横幅等物品。",
+    "pinyin": "Zhè cì huó dòng xū yào zhǔn bèi zhuō yǐ、 yīn xiǎng、 héng fú děng wù pǐn。",
+    "en": "This event requires tables, chairs, sound equipment, banners, etc."
+   },
+   {
+    "zh": "超市里蔬菜、水果、肉类、饮料等一应俱全。",
+    "pinyin": "Chāo shì lǐ shū cài、 shuǐ guǒ、 ròu lèi、 yǐn liào děng yī yīng jù quán。",
+    "en": "The supermarket has everything: vegetables, fruit, meat, drinks, etc."
+   },
+   {
+    "zh": "学校开设了音乐、美术、书法等丰富的兴趣课程。",
+    "pinyin": "Xué xiào kāi shè le yīn yuè、 měi shù、 shū fǎ děng fēng fù de xìng qù kè chéng。",
+    "en": "The school offers rich electives: music, art, calligraphy, and more."
+   },
+   {
+    "zh": "旅行前要检查证件、车票、行李等是否都带齐了。",
+    "pinyin": "Lǚ xíng qián yào jiǎn chá zhèng jiàn、 chē piào、 xíng lǐ děng shì fǒu dōu dài qí le。",
+    "en": "Before traveling, check that documents, tickets, luggage, etc. are all packed."
+   },
+   {
+    "zh": "这项工作需要耐心、细心、责任心等多种品质。",
+    "pinyin": "Zhè xiàng gōng zuò xū yào nài xīn、 xì xīn、 zé rèn xīn děng duō zhǒng pǐn zhì。",
+    "en": "This job requires many qualities: patience, care, responsibility, etc."
+   },
+   {
+    "zh": "他利用周末学习摄影、剪辑、写作等各种技能。",
+    "pinyin": "Tā lì yòng zhōu mò xué xí shè yǐng、 jiǎn jí、 xiě zuò děng gè zhǒng jì néng。",
+    "en": "He uses weekends to learn skills like photography, editing, writing, etc."
+   },
+   {
+    "zh": "这些年他去过日本、韩国、泰国等很多国家。",
+    "pinyin": "Zhè xiē nián tā qù guò rì běn、 hán guó、 tài guó děng hěn duō guó jiā。",
+    "en": "Over the years he's visited many countries: Japan, Korea, Thailand, etc."
+   },
+   {
+    "zh": "感冒时,头疼、咳嗽、流鼻涕等症状都很常见。",
+    "pinyin": "Gǎn mào shí, tóu téng、 ké sòu、 liú bí tì děng zhèng zhuàng dōu hěn cháng jiàn。",
+    "en": "With a cold, symptoms like headache, cough, and runny nose are common."
+   },
+   {
+    "zh": "公司为员工提供了培训、保险、带薪假等福利。",
+    "pinyin": "Gōng sī wèi yuán gōng tí gōng le péi xùn、 bǎo xiǎn、 dài xīn jiǎ děng fú lì。",
+    "en": "The company offers benefits like training, insurance, and paid leave."
+   },
+   {
+    "zh": "这道菜的配料有葱、姜、蒜、辣椒等等。",
+    "pinyin": "Zhè dào cài de pèi liào yǒu cōng、 jiāng、 suàn、 là jiāo děng děng。",
+    "en": "This dish's ingredients include scallion, ginger, garlic, chili, and so on."
+   },
+   {
+    "zh": "展览上展出了绘画、雕塑、陶瓷等艺术作品。",
+    "pinyin": "Zhǎn lǎn shàng zhǎn chū le huì huà、 diāo sù、 táo cí děng yì shù zuò pǐn。",
+    "en": "The exhibition showed artworks: paintings, sculptures, ceramics, etc."
+   },
+   {
+    "zh": "做好这件事,需要资金、技术、人才等多方面的支持。",
+    "pinyin": "Zuò hǎo zhè jiàn shì, xū yào zī jīn、 jì shù、 rén cái děng duō fāng miàn de zhī chí。",
+    "en": "Doing this well needs support in funding, technology, talent, and more."
+   },
+   {
+    "zh": "他把工具、材料、图纸等都准备得整整齐齐。",
+    "pinyin": "Tā bǎ gōng jù、 cái liào、 tú zhǐ děng dōu zhǔn bèi de zhěng zhěng qí qí。",
+    "en": "He neatly prepared the tools, materials, blueprints, and so on."
+   },
+   {
+    "zh": "这个地区盛产大米、茶叶、水果等农产品。",
+    "pinyin": "Zhè ge dì qū shèng chǎn dà mǐ、 chá yè、 shuǐ guǒ děng nóng chǎn pǐn。",
+    "en": "This region abundantly produces rice, tea, fruit, and other farm goods."
+   },
+   {
+    "zh": "面试时,考官会考察你的能力、态度、经验等方面。",
+    "pinyin": "Miàn shì shí, kǎo guān huì kǎo chá nǐ de néng lì、 tài dù、 jīng yàn děng fāng miàn。",
+    "en": "In interviews, examiners assess your ability, attitude, experience, etc."
+   },
+   {
+    "zh": "图书馆里有阅览室、自习室、电子室等多个功能区。",
+    "pinyin": "Tú shū guǎn lǐ yǒu yuè lǎn shì、 zì xí shì、 diàn zi shì děng duō gè gōng néng qū。",
+    "en": "The library has reading rooms, study rooms, digital rooms, and more."
+   },
+   {
+    "zh": "这次比赛设有一、二、三等奖等多个奖项。",
+    "pinyin": "Zhè cì bǐ sài shè yǒu yī、 èr、 sān děng jiǎng děng duō gè jiǎng xiàng。",
+    "en": "This competition has several prizes: first, second, third, and so on."
+   },
+   {
+    "zh": "他的爱好很广泛,读书、下棋、爬山等等都喜欢。",
+    "pinyin": "Tā de ài hào hěn guǎng fàn, dú shū、 xià qí、 pá shān děng děng dōu xǐ huān。",
+    "en": "His hobbies are wide: reading, chess, hiking, and so on."
+   },
+   {
+    "zh": "这种病和饮食、作息、压力等因素都有关系。",
+    "pinyin": "Zhè zhǒng bìng hé yǐn shí、 zuò xī、 yā lì děng yīn sù dōu yǒu guān xì。",
+    "en": "This illness relates to factors like diet, routine, stress, and so on."
+   },
+   {
+    "zh": "会议邀请了专家、学者、企业代表等各界人士。",
+    "pinyin": "Huì yì yāo qǐng le zhuān jiā、 xué zhě、 qǐ yè dài biǎo děng gè jiè rén shì。",
+    "en": "The meeting invited experts, scholars, business reps, and others."
+   }
+  ]
+ },
+ {
+  "id": "g179",
+  "level": 3,
+  "title": "\"不过\" ile yumuşak \"ama, yalnız\"",
+  "titleEn": "A softer \"but\" with \"buguo\"",
+  "pattern": "...，不过 ...",
+  "summary": "\"不过\" (búguò) hafif bir çekince/karşıtlık ekler: \"ama, yalnız, ne var ki, gerçi\": 这件衣服不错,不过有点儿贵 = Güzel, yalnız biraz pahalı.",
+  "explanation": "\"不过\" \"但是/可是\"ye benzer bir \"ama\" bağlacıdır ama daha HAFİF, yumuşak bir çekince/dönüş katar: \"ama, yalnız, ne var ki, gerçi, şu var ki\". 这个方法很好,不过实施起来有点难 (Bu yöntem iyi, yalnız uygulaması biraz zor), 天气不错,不过风有点大 (Hava güzel, gerçi rüzgâr biraz sert). \"但是\"den daha küçük, tali bir karşıtlık ya da ek bilgi verir; çoğu zaman önceki olumlu ifadeye küçük bir düzeltme/uyarı ekler. İkinci cümlenin başında gelir. Konuşma dilinde çok yaygındır. \"不过\" ayrıca \"sadece, yalnızca\" anlamında da kullanılır (只不过). Türkçedeki \"ama, yalnız, gerçi, ne var ki, şu var ki\" gibi yumuşak karşıtlık ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这家餐厅的菜很好吃,不过价格稍微贵了一点。",
+    "pinyin": "Zhè jiā cān tīng de cài hěn hǎo chī, bù guò jià gé shāo wēi guì le yì diǎn。",
+    "en": "This restaurant's food is delicious, only the price is a bit high."
+   },
+   {
+    "zh": "他人很聪明,不过有时候太粗心,容易出小错。",
+    "pinyin": "Tā rén hěn cōng míng, bù guò yǒu shí hòu tài cū xīn, róng yì chū xiǎo cuò。",
+    "en": "He's smart, but sometimes too careless, prone to small mistakes."
+   },
+   {
+    "zh": "这次旅行很愉快,不过天气不太好,有点儿遗憾。",
+    "pinyin": "Zhè cì lǚ xíng hěn yú kuài, bù guò tiān qì bù tài hǎo, yǒu diǎn ér yí hàn。",
+    "en": "The trip was pleasant, though the weather wasn't great, a slight pity."
+   },
+   {
+    "zh": "这套房子什么都好,不过离地铁站远了点儿。",
+    "pinyin": "Zhè tào fáng zi shén me dōu hǎo, bù guò lí dì tiě zhàn yuǎn le diǎn ér。",
+    "en": "This apartment is good in every way, only it's a bit far from the subway."
+   },
+   {
+    "zh": "我可以帮你,不过你得先把情况跟我说清楚。",
+    "pinyin": "Wǒ kě yǐ bāng nǐ, bù guò nǐ de xiān bǎ qíng kuàng gēn wǒ shuō qīng chǔ。",
+    "en": "I can help you, but you'll have to explain the situation first."
+   },
+   {
+    "zh": "那本书内容很好,不过有点儿厚,得慢慢看。",
+    "pinyin": "Nà běn shū nèi róng hěn hǎo, bù guò yǒu diǎn ér hòu, de màn màn kàn。",
+    "en": "That book's content is good, only it's a bit thick, so read it slowly."
+   },
+   {
+    "zh": "他答应会来,不过可能会稍微晚一点儿。",
+    "pinyin": "Tā dā yìng huì lái, bù guò kě néng huì shāo wēi wǎn yì diǎn ér。",
+    "en": "He agreed to come, but he might be a little late."
+   },
+   {
+    "zh": "这件衣服样子不错,不过颜色我不太喜欢。",
+    "pinyin": "Zhè jiàn yī fú yàng zi bù cuò, bù guò yán sè wǒ bù tài xǐ huān。",
+    "en": "This outfit's style is nice, only I don't quite like the color."
+   },
+   {
+    "zh": "这个计划挺好的,不过还有一些细节需要再讨论。",
+    "pinyin": "Zhè ge jì huà tǐng hǎo de, bù guò hái yǒu yī xiē xì jié xū yào zài tǎo lùn。",
+    "en": "This plan is good, though some details still need discussing."
+   },
+   {
+    "zh": "今天的活动很成功,不过也暴露出一些小问题。",
+    "pinyin": "Jīn tiān de huó dòng hěn chéng gōng, bù guò yě bào lù chū yī xiē xiǎo wèn tí。",
+    "en": "Today's event was a success, though it revealed some minor issues."
+   },
+   {
+    "zh": "这条路是近一些,不过不太好走,你自己决定吧。",
+    "pinyin": "Zhè tiáo lù shì jìn yī xiē, bù guò bù tài hǎo zǒu, nǐ zì jǐ jué dìng ba。",
+    "en": "This road is a bit shorter, but not easy to walk; you decide."
+   },
+   {
+    "zh": "他汉语说得不错,不过写字还需要多练习。",
+    "pinyin": "Tā hàn yǔ shuō de bù cuò, bù guò xiě zì hái xū yào duō liàn xí。",
+    "en": "His spoken Chinese is good, but his writing needs more practice."
+   },
+   {
+    "zh": "我很想去,不过那天正好有别的安排,去不了。",
+    "pinyin": "Wǒ hěn xiǎng qù, bù guò nà tiān zhèng hǎo yǒu bié de ān pái, qù bù liǎo。",
+    "en": "I'd love to go, but I happen to have other plans that day."
+   },
+   {
+    "zh": "这个手机功能挺全的,不过电池不太耐用。",
+    "pinyin": "Zhè ge shǒu jī gōng néng tǐng quán de, bù guò diàn chí bù tài nài yòng。",
+    "en": "This phone has full features, only the battery doesn't last well."
+   },
+   {
+    "zh": "孩子这次进步很大,不过还有提升的空间。",
+    "pinyin": "Hái zi zhè cì jìn bù hěn dà, bù guò hái yǒu tí shēng de kōng jiān。",
+    "en": "The child made great progress, though there's still room to improve."
+   },
+   {
+    "zh": "这道菜我尝了,味道不错,不过好像盐放少了。",
+    "pinyin": "Zhè dào cài wǒ cháng le, wèi dào bù cuò, bù guò hǎo xiàng yán fàng shǎo le。",
+    "en": "I tasted this dish; it's good, only it seems a bit under-salted."
+   },
+   {
+    "zh": "他为人很热心,不过说话有点直,你别介意。",
+    "pinyin": "Tā wéi rén hěn rè xīn, bù guò shuō huà yǒu diǎn zhí, nǐ bié jiè yì。",
+    "en": "He's warm-hearted, but speaks a bit bluntly; don't mind it."
+   },
+   {
+    "zh": "这次考试题目不难,不过时间有点紧张。",
+    "pinyin": "Zhè cì kǎo shì tí mù bù nán, bù guò shí jiān yǒu diǎn jǐn zhāng。",
+    "en": "This exam wasn't hard, only the time was a bit tight."
+   },
+   {
+    "zh": "我们的座位挺好的,不过离舞台稍微远了一些。",
+    "pinyin": "Wǒ men de zuò wèi tǐng hǎo de, bù guò lí wǔ tái shāo wēi yuǎn le yī xiē。",
+    "en": "Our seats are good, only a bit far from the stage."
+   },
+   {
+    "zh": "这份工作待遇不错,不过经常需要加班。",
+    "pinyin": "Zhè fèn gōng zuò dài yù bù cuò, bù guò jīng cháng xū yào jiā bān。",
+    "en": "This job pays well, but often requires overtime."
+   },
+   {
+    "zh": "那家店的服务很好,不过东西的种类不太多。",
+    "pinyin": "Nà jiā diàn de fú wù hěn hǎo, bù guò dōng xī de zhǒng lèi bù tài duō。",
+    "en": "That shop's service is great, though the variety isn't wide."
+   },
+   {
+    "zh": "他答应帮忙了,不过要过几天才有时间。",
+    "pinyin": "Tā dā yìng bāng máng le, bù guò yào guò jǐ tiān cái yǒu shí jiān。",
+    "en": "He agreed to help, but won't have time for a few days."
+   },
+   {
+    "zh": "这个办法确实管用,不过操作起来比较麻烦。",
+    "pinyin": "Zhè ge bàn fǎ què shí guǎn yòng, bù guò cāo zuò qǐ lái bǐ jiào má fán。",
+    "en": "This method really works, only it's rather cumbersome to do."
+   },
+   {
+    "zh": "天气预报说今天晴,不过我看云挺多的。",
+    "pinyin": "Tiān qì yù bào shuō jīn tiān qíng, bù guò wǒ kàn yún tǐng duō de。",
+    "en": "The forecast said sunny today, but I see quite a lot of clouds."
+   },
+   {
+    "zh": "我大概明白你的意思了,不过还有一点没太懂。",
+    "pinyin": "Wǒ dà gài míng bái nǐ de yì si le, bù guò hái yǒu yì diǎn méi tài dǒng。",
+    "en": "I roughly get your meaning, but there's still one bit I don't quite grasp."
+   }
+  ]
  }
 ]

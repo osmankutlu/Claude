@@ -10878,5 +10878,685 @@
     "en": "We agreed to gather at eight-thirty, but at nine some still hadn't arrived."
    }
   ]
+ },
+ {
+  "id": "g081",
+  "level": 2,
+  "title": "\"几\" ile \"birkaç\"",
+  "titleEn": "Using \"ji\" to mean \"several\"",
+  "pattern": "几 + Ölçü Sözcüğü + İsim",
+  "summary": "\"几\" (jǐ) bir ölçü sözcüğüyle birlikte \"birkaç\" (belirsiz küçük sayı) anlamı verir: 几个人 = birkaç kişi.",
+  "explanation": "\"几\" hem \"kaç?\" diye soru sorar (几个人? = kaç kişi?), hem de düz cümlede \"birkaç\" anlamında belirsiz küçük bir sayı bildirir: 我买了几本书 (Birkaç kitap aldım). Bu ikinci kullanımda soru anlamı yoktur; bağlam ve cümle sonundaki soru işaretinin olup olmaması ayırt eder. \"几\" mutlaka bir ÖLÇÜ SÖZCÜĞÜ ile gelir: 几个 (birkaç tane), 几天 (birkaç gün), 几次 (birkaç kez). Genelde ondan küçük belirsiz bir miktarı gösterir. On üstü için \"十几\" (on küsur), \"几十\" (birkaç on) gibi kalıplara girer.",
+  "examples": [
+   {
+    "zh": "我昨天在书店买了几本关于历史的书。",
+    "pinyin": "Wǒ zuó tiān zài shū diàn mǎi le jǐ běn guān yú lì shǐ de shū。",
+    "en": "Yesterday I bought several history books at the bookstore."
+   },
+   {
+    "zh": "这几天他一直不舒服,你去看看他吧。",
+    "pinyin": "Zhè jǐ tiān tā yì zhí bù shū fú, nǐ qù kàn kàn tā ba。",
+    "en": "He's been unwell these past few days; go check on him."
+   },
+   {
+    "zh": "桌子上放着几个又大又红的苹果。",
+    "pinyin": "Zhuō zi shàng fàng zhe jǐ gè yòu dà yòu hóng de píng guǒ。",
+    "en": "There are several big red apples on the table."
+   },
+   {
+    "zh": "我有几个问题想问你,你现在方便吗?",
+    "pinyin": "Wǒ yǒu jǐ gè wèn tí xiǎng wèn nǐ, nǐ xiàn zài fāng biàn ma?",
+    "en": "I have a few questions to ask you; is now convenient?"
+   },
+   {
+    "zh": "他在国外住了几年,汉语都快忘光了。",
+    "pinyin": "Tā zài guó wài zhù le jǐ nián, hàn yǔ dōu kuài wàng guāng le。",
+    "en": "He lived abroad for several years and has nearly forgotten his Chinese."
+   },
+   {
+    "zh": "周末我约了几个老朋友一起去爬山。",
+    "pinyin": "Zhōu mò wǒ yuē le jǐ gè lǎo péng yǒu yì qǐ qù pá shān。",
+    "en": "For the weekend I've arranged to go hiking with several old friends."
+   },
+   {
+    "zh": "门口停着几辆车,不知道是谁的。",
+    "pinyin": "Mén kǒu tíng zhe jǐ liàng chē, bù zhī dào shì shéi de。",
+    "en": "Several cars are parked at the entrance; I don't know whose they are."
+   },
+   {
+    "zh": "这件事我考虑了好几天,还是决定去试一试。",
+    "pinyin": "Zhè jiàn shì wǒ kǎo lǜ le hǎo jǐ tiān, hái shì jué dìng qù shì yī shì。",
+    "en": "I thought about this for several days and still decided to give it a try."
+   },
+   {
+    "zh": "妈妈给我做了几样我最爱吃的菜。",
+    "pinyin": "Mā mā gěi wǒ zuò le jǐ yàng wǒ zuì ài chī de cài。",
+    "en": "Mom made me several of my favorite dishes."
+   },
+   {
+    "zh": "我们在那个小城玩了几天,过得特别开心。",
+    "pinyin": "Wǒ men zài nà ge xiǎo chéng wán le jǐ tiān, guò de tè bié kāi xīn。",
+    "en": "We played in that small town for a few days and had a great time."
+   },
+   {
+    "zh": "他从包里拿出几张照片,给我们讲起了往事。",
+    "pinyin": "Tā cóng bāo lǐ ná chū jǐ zhāng zhào piān, gěi wǒ men jiǎng qǐ le wǎng shì。",
+    "en": "He took several photos out of his bag and told us about the past."
+   },
+   {
+    "zh": "这几个月我一直很忙,连给家里打电话的时间都没有。",
+    "pinyin": "Zhè jǐ gè yuè wǒ yì zhí hěn máng, lián gěi jiā lǐ dǎ diàn huà de shí jiān dōu méi yǒu。",
+    "en": "These past few months I've been so busy I hardly had time to call home."
+   },
+   {
+    "zh": "路边种着几棵樱花树,春天开得特别美。",
+    "pinyin": "Lù biān zhǒng zhe jǐ kē yīng huā shù, chūn tiān kāi de tè bié měi。",
+    "en": "Several cherry trees are planted by the road; in spring they bloom beautifully."
+   },
+   {
+    "zh": "我想请几天假,回老家看看年迈的父母。",
+    "pinyin": "Wǒ xiǎng qǐng jǐ tiān jiǎ, huí lǎo jiā kàn kàn nián mài de fù mǔ。",
+    "en": "I'd like to take a few days off to visit my aging parents back home."
+   },
+   {
+    "zh": "这道题我做错了好几次,今天终于弄明白了。",
+    "pinyin": "Zhè dào tí wǒ zuò cuò le hǎo jǐ cì, jīn tiān zhōng yú nòng míng bái le。",
+    "en": "I got this problem wrong several times, but today I finally understood it."
+   },
+   {
+    "zh": "他每天只睡几个小时,身体越来越差了。",
+    "pinyin": "Tā měi tiān zhǐ shuì jǐ gè xiǎo shí, shēn tǐ yuè lái yuè chà le。",
+    "en": "He sleeps only a few hours a day, and his health is getting worse."
+   },
+   {
+    "zh": "我们班有几个同学的汉语说得特别流利。",
+    "pinyin": "Wǒ men bān yǒu jǐ gè tóng xué de hàn yǔ shuō de tè bié liú lì。",
+    "en": "Several classmates in our class speak Chinese especially fluently."
+   },
+   {
+    "zh": "这几种水果里,我最喜欢的还是西瓜。",
+    "pinyin": "Zhè jǐ zhǒng shuǐ guǒ lǐ, wǒ zuì xǐ huān de hái shì xī guā。",
+    "en": "Of these few kinds of fruit, my favorite is still watermelon."
+   },
+   {
+    "zh": "过几天就是妈妈的生日了,我得准备一份礼物。",
+    "pinyin": "Guò jǐ tiān jiù shì mā mā de shēng rì le, wǒ děi zhǔn bèi yī fèn lǐ wù。",
+    "en": "In a few days it'll be mom's birthday, so I need to prepare a gift."
+   },
+   {
+    "zh": "他一口气吃了好几个包子,看来是真饿了。",
+    "pinyin": "Tā yì kǒu qì chī le hǎo jǐ gè bāo zi, kàn lái shì zhēn è le。",
+    "en": "He wolfed down several buns in one go; he must have been really hungry."
+   },
+   {
+    "zh": "这几年城市变化很大,很多老房子都拆了。",
+    "pinyin": "Zhè jǐ nián chéng shì biàn huà hěn dà, hěn duō lǎo fáng zi dōu chāi le。",
+    "en": "The city has changed a lot in recent years; many old houses were torn down."
+   },
+   {
+    "zh": "我给你带了几件冬天穿的厚衣服。",
+    "pinyin": "Wǒ gěi nǐ dài le jǐ jiàn dōng tiān chuān de hòu yī fú。",
+    "en": "I brought you several thick clothes for winter."
+   },
+   {
+    "zh": "会议室里只坐着几个人,气氛有点儿冷清。",
+    "pinyin": "Huì yì shì lǐ zhǐ zuò zhe jǐ gè rén, qì fēn yǒu diǎn ér lěng qīng。",
+    "en": "Only a few people are seated in the meeting room; the mood is a bit quiet."
+   },
+   {
+    "zh": "这条小河里有好几种颜色鲜艳的小鱼。",
+    "pinyin": "Zhè tiáo xiǎo hé lǐ yǒu hǎo jǐ zhǒng yán sè xiān yàn de xiǎo yú。",
+    "en": "There are several kinds of brightly colored little fish in this stream."
+   },
+   {
+    "zh": "我在这家公司只待了几个月就辞职了。",
+    "pinyin": "Wǒ zài zhè jiā gōng sī zhǐ dài le jǐ gè yuè jiù cí zhí le。",
+    "en": "I stayed at this company only a few months before resigning."
+   }
+  ]
+ },
+ {
+  "id": "g082",
+  "level": 2,
+  "title": "\"了\" ile durum değişimi",
+  "titleEn": "Change of state with \"le\"",
+  "pattern": "... 了",
+  "summary": "Cümle sonundaki \"了\" (le) yeni bir durumun ortaya çıktığını, bir değişimin olduğunu bildirir: 下雨了 = Yağmur başladı (yağmaya başladı).",
+  "explanation": "Cümlenin sonuna gelen \"了\" çoğu zaman bir DURUM DEĞİŞİMİNİ bildirir: önce öyle değildi, şimdi öyle oldu. 下雨了 (Yağmur yağmaya başladı — önce yağmıyordu), 天黑了 (Hava karardı), 他长大了 (Büyüdü), 我懂了 (Anladım — artık anlıyorum). Bu \"了\" geçmiş zaman eki DEĞİLDİR; şimdiki ya da gelecekteki bir değişimi de gösterebilir: 春天了 (Bahar geldi). Sıfat, isim ya da fiil öbeğinin ardından gelip \"artık ... oldu\" anlamını taşır. Yeni durumu vurgular.",
+  "examples": [
+   {
+    "zh": "你看,外面下雨了,快把窗户关上吧。",
+    "pinyin": "Nǐ kàn, wài miàn xià yǔ le, kuài bǎ chuāng hù guān shàng ba。",
+    "en": "Look, it's started raining outside; hurry and close the windows."
+   },
+   {
+    "zh": "天黑了,孩子们该回家吃晚饭了。",
+    "pinyin": "Tiān hēi le, hái zi men gāi huí jiā chī wǎn fàn le。",
+    "en": "It's gotten dark; the children should head home for dinner."
+   },
+   {
+    "zh": "几年不见,你女儿都长这么高了。",
+    "pinyin": "Jǐ nián bú jiàn, nǐ nǚ ér dōu zhǎng zhè me gāo le。",
+    "en": "It's been a few years — your daughter has grown so tall now."
+   },
+   {
+    "zh": "我以前不喜欢喝茶,现在慢慢喜欢上了。",
+    "pinyin": "Wǒ yǐ qián bù xǐ huān hē chá, xiàn zài màn màn xǐ huān shàng le。",
+    "en": "I used to dislike tea, but now I've gradually come to like it."
+   },
+   {
+    "zh": "春天了,公园里的树都绿了,花也开了。",
+    "pinyin": "Chūn tiān le, gōng yuán lǐ de shù dōu lǜ le, huā yě kāi le。",
+    "en": "It's spring now; the trees in the park have turned green and the flowers have bloomed."
+   },
+   {
+    "zh": "别叫他了,他已经睡着了。",
+    "pinyin": "Bié jiào tā le, tā yǐ jīng shuì zháo le。",
+    "en": "Don't call him anymore; he's already fallen asleep."
+   },
+   {
+    "zh": "我终于明白了,原来他一直在为我着想。",
+    "pinyin": "Wǒ zhōng yú míng bái le, yuán lái tā yì zhí zài wèi wǒ zhuó xiǎng。",
+    "en": "I finally understand now; he's been thinking of me all along."
+   },
+   {
+    "zh": "以前这里很热闹,现在人越来越少了。",
+    "pinyin": "Yǐ qián zhè lǐ hěn rè nào, xiàn zài rén yuè lái yuè shǎo le。",
+    "en": "It used to be lively here; now there are fewer and fewer people."
+   },
+   {
+    "zh": "你怎么瘦了这么多?是不是最近太累了?",
+    "pinyin": "Nǐ zěn me shòu le zhè me duō? shì bú shì zuì jìn tài lèi le?",
+    "en": "How did you get so much thinner? Have you been too tired lately?"
+   },
+   {
+    "zh": "水开了,你快去把火关小一点。",
+    "pinyin": "Shuǐ kāi le, nǐ kuài qù bǎ huǒ guān xiǎo yì diǎn。",
+    "en": "The water's boiling; go turn the heat down a bit."
+   },
+   {
+    "zh": "天气冷了,你出门记得多穿一件外套。",
+    "pinyin": "Tiān qì lěng le, nǐ chū mén jì de duō chuān yī jiàn wài tào。",
+    "en": "The weather's gotten cold; remember to wear an extra coat when you go out."
+   },
+   {
+    "zh": "孩子上小学了,家里一下子安静了不少。",
+    "pinyin": "Hái zi shàng xiǎo xué le, jiā lǐ yī xià zi ān jìng le bù shǎo。",
+    "en": "The child has started primary school, and the house has suddenly become much quieter."
+   },
+   {
+    "zh": "我不生气了,刚才是我太着急了。",
+    "pinyin": "Wǒ bù shēng qì le, gāng cái shì wǒ tài zháo jí le。",
+    "en": "I'm not angry anymore; I was just too anxious earlier."
+   },
+   {
+    "zh": "路灯亮了,街上的行人也渐渐多了起来。",
+    "pinyin": "Lù dēng liàng le, jiē shàng de xíng rén yě jiàn jiàn duō le qǐ lái。",
+    "en": "The streetlights have come on, and more and more pedestrians appear on the street."
+   },
+   {
+    "zh": "他戒烟了,身体比以前好多了。",
+    "pinyin": "Tā jiè yān le, shēn tǐ bǐ yǐ qián hǎo duō le。",
+    "en": "He's quit smoking, and his health is much better than before."
+   },
+   {
+    "zh": "我们到站了,快拿好行李准备下车。",
+    "pinyin": "Wǒ men dào zhàn le, kuài ná hǎo xíng lǐ zhǔn bèi xià chē。",
+    "en": "We've reached the station; grab your luggage and get ready to get off."
+   },
+   {
+    "zh": "奶奶年纪大了,耳朵有点儿不好使了。",
+    "pinyin": "Nǎi nǎi nián jì dà le, ěr duǒ yǒu diǎn ér bù hǎo shǐ le。",
+    "en": "Grandma has gotten old, and her hearing isn't quite so good anymore."
+   },
+   {
+    "zh": "你别担心,他的病已经好了。",
+    "pinyin": "Nǐ bié dān xīn, tā de bìng yǐ jīng hǎo le。",
+    "en": "Don't worry; he's already recovered from his illness."
+   },
+   {
+    "zh": "外面刮风了,看样子要变天了。",
+    "pinyin": "Wài miàn guā fēng le, kàn yàng zi yào biàn tiān le。",
+    "en": "The wind has picked up outside; it looks like the weather's about to change."
+   },
+   {
+    "zh": "以前我不会做饭,现在会做好几样菜了。",
+    "pinyin": "Yǐ qián wǒ bú huì zuò fàn, xiàn zài huì zuò hǎo jǐ yàng cài le。",
+    "en": "I used to not know how to cook; now I can make several dishes."
+   },
+   {
+    "zh": "时间不早了,咱们该走了。",
+    "pinyin": "Shí jiān bù zǎo le, zán men gāi zǒu le。",
+    "en": "It's getting late; we should get going."
+   },
+   {
+    "zh": "这本书太旧了,很多页都掉了。",
+    "pinyin": "Zhè běn shū tài jiù le, hěn duō yè dōu diào le。",
+    "en": "This book has gotten too old; many pages have fallen out."
+   },
+   {
+    "zh": "他终于想通了,决定重新开始。",
+    "pinyin": "Tā zhōng yú xiǎng tōng le, jué dìng chóng xīn kāi shǐ。",
+    "en": "He's finally come to terms with it and decided to start over."
+   },
+   {
+    "zh": "孩子懂事了,知道帮妈妈做家务了。",
+    "pinyin": "Hái zi dǒng shì le, zhī dào bāng mā mā zuò jiā wù le。",
+    "en": "The child has become sensible and now knows to help mom with chores."
+   },
+   {
+    "zh": "路修好了,现在开车进城方便多了。",
+    "pinyin": "Lù xiū hǎo le, xiàn zài kāi chē jìn chéng fāng biàn duō le。",
+    "en": "The road's been repaired; driving into the city is much easier now."
+   }
+  ]
+ },
+ {
+  "id": "g083",
+  "level": 2,
+  "title": "\"吧\" ile isteksiz kabul / rıza",
+  "titleEn": "Conceding with \"ba\"",
+  "pattern": "... 吧",
+  "summary": "Cümle sonundaki \"吧\" (ba) burada isteksizce razı olmayı, \"peki, öyle olsun\" gibi bir kabulü bildirir: 好吧 = Peki o zaman.",
+  "explanation": "\"吧\" cümle sonuna gelen çok işlevli bir parçacıktır; bu konuda özellikle İSTEKSİZ KABUL / razı olma tonunu ele alıyoruz. Karşıdakinin dediğini gönülsüzce ama kabul ederek onaylar: 好吧,就听你的 (Peki, dediğin gibi olsun), 那就这样吧 (O zaman öyle olsun). Türkçedeki \"peki, madem öyle, tamam o zaman\" tonuna denk gelir. Konuşmacı tam istemese de teklifi kabul eder ya da bir sonuca boyun eğer. (\"吧\" ayrıca yumuşak öneri ve tahmin de bildirir — bkz. diğer konular.)",
+  "examples": [
+   {
+    "zh": "好吧,既然你这么想去,那咱们就去吧。",
+    "pinyin": "Hǎo ba, jì rán nǐ zhè me xiǎng qù, nà zán men jiù qù ba。",
+    "en": "Fine, since you want to go so badly, let's just go."
+   },
+   {
+    "zh": "你实在不想吃这个,那就换一个吧。",
+    "pinyin": "Nǐ shí zài bù xiǎng chī zhè ge, nà jiù huàn yí gè ba。",
+    "en": "If you really don't want to eat this, then let's switch to another."
+   },
+   {
+    "zh": "算了吧,这件事就这样过去吧,别再提了。",
+    "pinyin": "Suàn le ba, zhè jiàn shì jiù zhè yàng guò qù ba, bié zài tí le。",
+    "en": "Forget it; let's let this matter go and not bring it up again."
+   },
+   {
+    "zh": "你说得也有道理,那就照你说的办吧。",
+    "pinyin": "Nǐ shuō de yě yǒu dào lǐ, nà jiù zhào nǐ shuō de bàn ba。",
+    "en": "You have a point too, so let's do it your way then."
+   },
+   {
+    "zh": "时间不早了,今天就先到这儿吧。",
+    "pinyin": "Shí jiān bù zǎo le, jīn tiān jiù xiān dào zhè ér ba。",
+    "en": "It's getting late; let's call it a day for now."
+   },
+   {
+    "zh": "既然大家都同意,那我们就这么决定吧。",
+    "pinyin": "Jì rán dà jiā dōu tóng yì, nà wǒ men jiù zhè me jué dìng ba。",
+    "en": "Since everyone agrees, let's decide it this way then."
+   },
+   {
+    "zh": "他不愿意来就别勉强了,让他留在家里吧。",
+    "pinyin": "Tā bù yuàn yì lái jiù bié miǎn qiǎng le, ràng tā liú zài jiā lǐ ba。",
+    "en": "If he doesn't want to come, don't force him; let him stay home."
+   },
+   {
+    "zh": "好吧好吧,是我错了,你别生气了。",
+    "pinyin": "Hǎo ba hǎo ba, shì wǒ cuò le, nǐ bié shēng qì le。",
+    "en": "Okay, okay, it's my fault; don't be angry anymore."
+   },
+   {
+    "zh": "你既然累了,那今天就别做饭了,咱们出去吃吧。",
+    "pinyin": "Nǐ jì rán lèi le, nà jīn tiān jiù bié zuò fàn le, zán men chū qù chī ba。",
+    "en": "Since you're tired, let's not cook today; let's eat out."
+   },
+   {
+    "zh": "这个价钱确实有点贵,不过东西好,就买了吧。",
+    "pinyin": "Zhè ge jià qián què shí yǒu diǎn guì, bù guò dōng xī hǎo, jiù mǎi le ba。",
+    "en": "This price is indeed a bit high, but the item's good, so let's just buy it."
+   },
+   {
+    "zh": "你想一个人静一静,那我先走了,你好好休息吧。",
+    "pinyin": "Nǐ xiǎng yí gè rén jìng yī jìng, nà wǒ xiān zǒu le, nǐ hǎo hǎo xiū xī ba。",
+    "en": "You want to be alone for a while, so I'll go first; get some rest."
+   },
+   {
+    "zh": "反正也睡不着了,那咱们干脆早点起来吧。",
+    "pinyin": "Fǎn zhèng yě shuì bù zhe le, nà zán men gān cuì zǎo diǎn qǐ lái ba。",
+    "en": "We can't fall asleep anyway, so let's just get up early."
+   },
+   {
+    "zh": "行吧,我答应你,不过下不为例。",
+    "pinyin": "Xíng ba, wǒ dā yìng nǐ, bù guò xià bù wéi lì。",
+    "en": "Alright, I'll agree, but this is the last time."
+   },
+   {
+    "zh": "既然错过了这班车,那就等下一班吧。",
+    "pinyin": "Jì rán cuò guò le zhè bān chē, nà jiù děng xià yī bān ba。",
+    "en": "Since we missed this bus, let's wait for the next one."
+   },
+   {
+    "zh": "你实在坚持的话,那就按你的意思来吧。",
+    "pinyin": "Nǐ shí zài jiān chí de huà, nà jiù àn nǐ de yì si lái ba。",
+    "en": "If you really insist, then let's do it your way."
+   },
+   {
+    "zh": "天气这么差,今天的活动就取消吧。",
+    "pinyin": "Tiān qì zhè me chà, jīn tiān de huó dòng jiù qǔ xiāo ba。",
+    "en": "The weather is so bad; let's just cancel today's activity."
+   },
+   {
+    "zh": "这道题太难了,咱们先跳过去,做后面的吧。",
+    "pinyin": "Zhè dào tí tài nán le, zán men xiān tiào guò qù, zuò hòu miàn de ba。",
+    "en": "This question is too hard; let's skip it and do the later ones."
+   },
+   {
+    "zh": "他既然道歉了,你就原谅他这一次吧。",
+    "pinyin": "Tā jì rán dào qiàn le, nǐ jiù yuán liàng tā zhè yī cì ba。",
+    "en": "Since he's apologized, forgive him this once."
+   },
+   {
+    "zh": "既然你不放心,那我陪你一起去吧。",
+    "pinyin": "Jì rán nǐ bù fàng xīn, nà wǒ péi nǐ yì qǐ qù ba。",
+    "en": "Since you're worried, I'll go with you then."
+   },
+   {
+    "zh": "好吧,我承认这次是我考虑得不够周到。",
+    "pinyin": "Hǎo ba, wǒ chéng rèn zhè cì shì wǒ kǎo lǜ de bù gòu zhōu dào。",
+    "en": "Fine, I admit I didn't think it through carefully enough this time."
+   },
+   {
+    "zh": "菜有点儿凉了,不过将就着吃吧。",
+    "pinyin": "Cài yǒu diǎn ér liáng le, bù guò jiāng jiù zhe chī ba。",
+    "en": "The food's gotten a bit cold, but let's just make do and eat it."
+   },
+   {
+    "zh": "既然大家都累了,今天的会就开到这里吧。",
+    "pinyin": "Jì rán dà jiā dōu lèi le, jīn tiān de huì jiù kāi dào zhè lǐ ba。",
+    "en": "Since everyone's tired, let's end today's meeting here."
+   },
+   {
+    "zh": "你们年轻人有自己的想法,那就随你们吧。",
+    "pinyin": "Nǐ men nián qīng rén yǒu zì jǐ de xiǎng fǎ, nà jiù suí nǐ men ba。",
+    "en": "You young people have your own ideas, so suit yourselves."
+   },
+   {
+    "zh": "那本书他那么想要,就送给他吧。",
+    "pinyin": "Nà běn shū tā nà me xiǎng yào, jiù sòng gěi tā ba。",
+    "en": "He wants that book so much; let's just give it to him."
+   },
+   {
+    "zh": "既然已经这样了,着急也没用,慢慢想办法吧。",
+    "pinyin": "Jì rán yǐ jīng zhè yàng le, zháo jí yě méi yòng, màn màn xiǎng bàn fǎ ba。",
+    "en": "Since it's already like this, worrying is useless; let's figure it out slowly."
+   }
+  ]
+ },
+ {
+  "id": "g084",
+  "level": 2,
+  "title": "Sadece \"了\" ile \"artık, çoktan\"",
+  "titleEn": "Expressing \"already\" with just \"le\"",
+  "pattern": "Özne + Fiil Öbeği + 了",
+  "summary": "Fiil öbeğinin sonundaki \"了\" bir eylemin gerçekleştiğini / tamamlandığını bildirir: 我吃了 = (Ben) yedim / çoktan yedim.",
+  "explanation": "Cümle sonundaki \"了\", bir eylemin artık olduğunu, gerçekleştiğini bildirir ve bağlama göre \"çoktan, zaten\" (already) anlamı taşır: 我吃饭了 (Yemek yedim), 他走了 (Gitti), 电影开始了 (Film başladı). Çoğu zaman \"已经...了\" ile birlikte gelir ama \"了\" tek başına da bu anlamı verebilir. Bu, tamamlanmış / gerçekleşmiş bir olayı bildirir; olumsuzu ise \"没(有)\" iledir ve o zaman \"了\" düşer: 我还没吃 (Henüz yemedim). Konuşma dilinde çok sık kullanılır.",
+  "examples": [
+   {
+    "zh": "你怎么才来?电影都开始半天了。",
+    "pinyin": "Nǐ zěn me cái lái? diàn yǐng dōu kāi shǐ bàn tiān le。",
+    "en": "Why are you only arriving now? The movie started ages ago."
+   },
+   {
+    "zh": "我已经把你要的资料发到你邮箱了。",
+    "pinyin": "Wǒ yǐ jīng bǎ nǐ yào de zī liào fā dào nǐ yóu xiāng le。",
+    "en": "I've already sent the materials you wanted to your email."
+   },
+   {
+    "zh": "别等我了,我在路上吃过饭了。",
+    "pinyin": "Bié děng wǒ le, wǒ zài lù shàng chī guò fàn le。",
+    "en": "Don't wait for me; I already ate on the way."
+   },
+   {
+    "zh": "他昨天就把作业交给老师了。",
+    "pinyin": "Tā zuó tiān jiù bǎ zuò yè jiāo gěi lǎo shī le。",
+    "en": "He already handed the homework to the teacher yesterday."
+   },
+   {
+    "zh": "我跟他说了好几遍了,他还是没记住。",
+    "pinyin": "Wǒ gēn tā shuō le hǎo jǐ biàn le, tā hái shì méi jì zhù。",
+    "en": "I've told him several times already, but he still hasn't remembered."
+   },
+   {
+    "zh": "你放心,我把门锁好了,也把灯关了。",
+    "pinyin": "Nǐ fàng xīn, wǒ bǎ mén suǒ hǎo le, yě bǎ dēng guān le。",
+    "en": "Rest assured, I've locked the door and turned off the lights."
+   },
+   {
+    "zh": "火车已经开走了,我们只能等下一班了。",
+    "pinyin": "Huǒ chē yǐ jīng kāi zǒu le, wǒ men zhǐ néng děng xià yī bān le。",
+    "en": "The train has already left; we can only wait for the next one."
+   },
+   {
+    "zh": "这本书我看完了,现在借给你吧。",
+    "pinyin": "Zhè běn shū wǒ kàn wán le, xiàn zài jiè gěi nǐ ba。",
+    "en": "I've finished this book; I'll lend it to you now."
+   },
+   {
+    "zh": "孩子们都睡了,你说话小声一点。",
+    "pinyin": "Hái zi men dōu shuì le, nǐ shuō huà xiǎo shēng yì diǎn。",
+    "en": "The children have all gone to sleep; keep your voice down."
+   },
+   {
+    "zh": "我们认识都十年了,你还这么客气。",
+    "pinyin": "Wǒ men rèn shí dōu shí nián le, nǐ hái zhè me kè qì。",
+    "en": "We've known each other for ten years already, yet you're still so polite."
+   },
+   {
+    "zh": "你要的东西我早就买好了,放在你桌子上了。",
+    "pinyin": "Nǐ yào de dōng xī wǒ zǎo jiù mǎi hǎo le, fàng zài nǐ zhuō zi shàng le。",
+    "en": "I bought what you wanted long ago; it's on your desk."
+   },
+   {
+    "zh": "时间过得真快,一转眼一年又过去了。",
+    "pinyin": "Shí jiān guò de zhēn kuài, yī zhuǎn yǎn yī nián yòu guò qù le。",
+    "en": "Time really flies; in the blink of an eye another year has passed."
+   },
+   {
+    "zh": "我把这件事告诉他了,他一点儿都不惊讶。",
+    "pinyin": "Wǒ bǎ zhè jiàn shì gào sù tā le, tā yì diǎn ér dōu bù jīng yà。",
+    "en": "I told him about this, and he wasn't surprised at all."
+   },
+   {
+    "zh": "外面的雨停了,我们可以出发了。",
+    "pinyin": "Wài miàn de yǔ tíng le, wǒ men kě yǐ chū fā le。",
+    "en": "The rain outside has stopped; we can set off now."
+   },
+   {
+    "zh": "你放的盐太多了,这道菜有点儿咸了。",
+    "pinyin": "Nǐ fàng de yán tài duō le, zhè dào cài yǒu diǎn ér xián le。",
+    "en": "You put in too much salt; this dish has gotten a bit salty."
+   },
+   {
+    "zh": "我把你上次借我的钱还给你了,你收到了吗?",
+    "pinyin": "Wǒ bǎ nǐ shàng cì jiè wǒ de qián huán gěi nǐ le, nǐ shōu dào le ma?",
+    "en": "I've paid back the money you lent me last time; did you get it?"
+   },
+   {
+    "zh": "会议已经结束了,大家都陆续离开了。",
+    "pinyin": "Huì yì yǐ jīng jié shù le, dà jiā dōu lù xù lí kāi le。",
+    "en": "The meeting has ended, and everyone has left one after another."
+   },
+   {
+    "zh": "我等了他一个多小时,他还是没出现。",
+    "pinyin": "Wǒ děng le tā yí gè duō xiǎo shí, tā hái shì méi chū xiàn。",
+    "en": "I waited over an hour for him, but he still didn't show up."
+   },
+   {
+    "zh": "这件衣服我穿了好多年了,该换新的了。",
+    "pinyin": "Zhè jiàn yī fú wǒ chuān le hǎo duō nián le, gāi huàn xīn de le。",
+    "en": "I've worn this shirt for many years; it's time for a new one."
+   },
+   {
+    "zh": "我们已经商量好了,决定下个月去旅行。",
+    "pinyin": "Wǒ men yǐ jīng shāng liáng hǎo le, jué dìng xià gè yuè qù lǚ xíng。",
+    "en": "We've already discussed it and decided to travel next month."
+   },
+   {
+    "zh": "你别找了,我把那份文件交给经理了。",
+    "pinyin": "Nǐ bié zhǎo le, wǒ bǎ nà fèn wén jiàn jiāo gěi jīng lǐ le。",
+    "en": "Stop looking; I've handed that document to the manager."
+   },
+   {
+    "zh": "天气预报说的那场雪,昨天晚上就下了。",
+    "pinyin": "Tiān qì yù bào shuō de nà chǎng xuě, zuó tiān wǎn shàng jiù xià le。",
+    "en": "The snow the forecast mentioned already fell last night."
+   },
+   {
+    "zh": "我给你打了好几个电话了,你怎么都不接?",
+    "pinyin": "Wǒ gěi nǐ dǎ le hǎo jǐ gè diàn huà le, nǐ zěn me dōu bù jiē?",
+    "en": "I've called you several times; why don't you answer?"
+   },
+   {
+    "zh": "这些菜我都尝过了,味道都很不错。",
+    "pinyin": "Zhè xiē cài wǒ dōu cháng guò le, wèi dào dōu hěn bú cuò。",
+    "en": "I've tasted all these dishes; they all taste quite good."
+   },
+   {
+    "zh": "孩子今年上大学了,家里就剩我们俩了。",
+    "pinyin": "Hái zi jīn nián shàng dà xué le, jiā lǐ jiù shèng wǒ men liǎ le。",
+    "en": "The child started university this year, leaving just the two of us at home."
+   }
+  ]
+ },
+ {
+  "id": "g085",
+  "level": 2,
+  "title": "\"不/没...了\" ile \"artık ...-mez oldu\"",
+  "titleEn": "Expressing \"not anymore\" with \"le\"",
+  "pattern": "不 / 没(有) + Fiil Öbeği + 了",
+  "summary": "\"不...了\" ya da \"没...了\" bir eylemin ARTIK olmadığını/yapılmadığını bildirir: 我不去了 = Artık gitmiyorum (vazgeçtim).",
+  "explanation": "Olumsuzluk sözcüğü (\"不\" ya da \"没\") ile birlikte cümle sonundaki \"了\", eskiden olan bir şeyin ARTIK olmadığı/yapılmadığı yönünde bir DEĞİŞİMİ bildirir: 我不喝酒了 (Artık içki içmiyorum — bıraktım), 他不来了 (Artık gelmeyecek / gelmekten vazgeçti), 我没钱了 (Artık param kalmadı). \"不...了\" niyet/alışkanlık değişimini (artık yapmıyorum), \"没...了\" ise bir şeyin tükenmesini/kalmamasını anlatır. Anahtar fikir: durum değişti, önceki hâl sona erdi.",
+  "examples": [
+   {
+    "zh": "我决定了,以后再也不熬夜了。",
+    "pinyin": "Wǒ jué dìng le, yǐ hòu zài yě bù áo yè le。",
+    "en": "I've decided: I'll never stay up late again."
+   },
+   {
+    "zh": "他戒烟以后,身体好多了,也不咳嗽了。",
+    "pinyin": "Tā jiè yān yǐ hòu, shēn tǐ hǎo duō le, yě bù ké sòu le。",
+    "en": "After he quit smoking, his health improved and he no longer coughs."
+   },
+   {
+    "zh": "对不起,我今天有事,不能去参加你的生日会了。",
+    "pinyin": "Duì bù qǐ, wǒ jīn tiān yǒu shì, bù néng qù cān jiā nǐ de shēng rì huì le。",
+    "en": "Sorry, I have something on today and can't come to your birthday party after all."
+   },
+   {
+    "zh": "天太晚了,我不打扰你了,改天再聊。",
+    "pinyin": "Tiān tài wǎn le, wǒ bù dǎ rǎo nǐ le, gǎi tiān zài liáo。",
+    "en": "It's too late; I won't bother you anymore, let's talk another day."
+   },
+   {
+    "zh": "钱包里没钱了,我得先去银行取点儿。",
+    "pinyin": "Qián bāo lǐ méi qián le, wǒ děi xiān qù yín háng qǔ diǎn ér。",
+    "en": "There's no money left in my wallet; I need to withdraw some from the bank first."
+   },
+   {
+    "zh": "这双鞋太旧了,我不想穿了,扔了吧。",
+    "pinyin": "Zhè shuāng xié tài jiù le, wǒ bù xiǎng chuān le, rēng le ba。",
+    "en": "These shoes are too old; I don't want to wear them anymore, let's toss them."
+   },
+   {
+    "zh": "他伤好了以后,就再也不踢足球了。",
+    "pinyin": "Tā shāng hǎo le yǐ hòu, jiù zài yě bù tī zú qiú le。",
+    "en": "After his injury healed, he never played soccer again."
+   },
+   {
+    "zh": "我不爱吃甜的了,以前可是无糖不欢。",
+    "pinyin": "Wǒ bù ài chī tián de le, yǐ qián kě shì wú táng bù huān。",
+    "en": "I don't like sweets anymore, though I once couldn't live without sugar."
+   },
+   {
+    "zh": "时间来不及了,咱们不吃早饭了,直接出发吧。",
+    "pinyin": "Shí jiān lái bù jí le, zán men bù chī zǎo fàn le, zhí jiē chū fā ba。",
+    "en": "There's no time; let's skip breakfast and set off directly."
+   },
+   {
+    "zh": "自从搬了家,我们就很少见面了。",
+    "pinyin": "Zì cóng bān le jiā, wǒ men jiù hěn shǎo jiàn miàn le。",
+    "en": "Ever since we moved, we rarely see each other anymore."
+   },
+   {
+    "zh": "这件事我想通了,不再为它烦恼了。",
+    "pinyin": "Zhè jiàn shì wǒ xiǎng tōng le, bù zài wèi tā fán nǎo le。",
+    "en": "I've come to terms with this and no longer worry about it."
+   },
+   {
+    "zh": "冰箱里没有牛奶了,你出去的时候顺便买一盒。",
+    "pinyin": "Bīng xiāng lǐ méi yǒu niú nǎi le, nǐ chū qù de shí hòu shùn biàn mǎi yī hé。",
+    "en": "There's no more milk in the fridge; buy a carton when you go out."
+   },
+   {
+    "zh": "孩子长大了,不再需要我天天照顾了。",
+    "pinyin": "Hái zi zhǎng dà le, bù zài xū yào wǒ tiān tiān zhào gù le。",
+    "en": "The child has grown up and no longer needs my daily care."
+   },
+   {
+    "zh": "我最近很忙,好久没去健身房了。",
+    "pinyin": "Wǒ zuì jìn hěn máng, hǎo jiǔ méi qù jiàn shēn fáng le。",
+    "en": "I've been busy lately and haven't been to the gym in a while."
+   },
+   {
+    "zh": "他退休以后就不上班了,天天在家养花。",
+    "pinyin": "Tā tuì xiū yǐ hòu jiù bù shàng bān le, tiān tiān zài jiā yǎng huā。",
+    "en": "After retiring he no longer goes to work and tends flowers at home all day."
+   },
+   {
+    "zh": "这部电视剧越来越没意思了,我不想看了。",
+    "pinyin": "Zhè bù diàn shì jù yuè lái yuè méi yì si le, wǒ bù xiǎng kàn le。",
+    "en": "This TV series is getting more and more boring; I don't want to watch it anymore."
+   },
+   {
+    "zh": "外面不下雨了,我们可以出去散步了。",
+    "pinyin": "Wài miàn bù xià yǔ le, wǒ men kě yǐ chū qù sàn bù le。",
+    "en": "It's stopped raining outside; we can go out for a walk now."
+   },
+   {
+    "zh": "我跟他早就没联系了,不知道他现在怎么样。",
+    "pinyin": "Wǒ gēn tā zǎo jiù méi lián xì le, bù zhī dào tā xiàn zài zěn me yàng。",
+    "en": "I lost touch with him long ago and don't know how he's doing now."
+   },
+   {
+    "zh": "身体最重要,以后我不喝那么多酒了。",
+    "pinyin": "Shēn tǐ zuì zhòng yào, yǐ hòu wǒ bù hē nà me duō jiǔ le。",
+    "en": "Health matters most; from now on I won't drink so much."
+   },
+   {
+    "zh": "这个手机太卡了,我不用它了,准备换新的。",
+    "pinyin": "Zhè ge shǒu jī tài kǎ le, wǒ bù yòng tā le, zhǔn bèi huàn xīn de。",
+    "en": "This phone is too laggy; I'm not using it anymore and plan to get a new one."
+   },
+   {
+    "zh": "下雪了,路太滑,今天就别开车了。",
+    "pinyin": "Xià xuě le, lù tài huá, jīn tiān jiù bié kāi chē le。",
+    "en": "It's snowing and the roads are slippery; don't drive today."
+   },
+   {
+    "zh": "我不生他的气了,毕竟他也是好心。",
+    "pinyin": "Wǒ bù shēng tā de qì le, bì jìng tā yě shì hǎo xīn。",
+    "en": "I'm not angry at him anymore; after all, he meant well."
+   },
+   {
+    "zh": "家里的米没有了,晚上只能煮面条了。",
+    "pinyin": "Jiā lǐ de mǐ méi yǒu le, wǎn shàng zhǐ néng zhǔ miàn tiáo le。",
+    "en": "There's no rice left at home; we can only cook noodles tonight."
+   },
+   {
+    "zh": "他最近忙工作,连周末都没时间休息了。",
+    "pinyin": "Tā zuì jìn máng gōng zuò, lián zhōu mò dōu méi shí jiān xiū xī le。",
+    "en": "He's been busy with work lately, with no time to rest even on weekends."
+   },
+   {
+    "zh": "这条路在修,车过不去了,咱们绕一下吧。",
+    "pinyin": "Zhè tiáo lù zài xiū, chē guò bù qù le, zán men rào yī xià ba。",
+    "en": "This road is under repair and cars can't get through anymore; let's take a detour."
+   }
+  ]
  }
 ]

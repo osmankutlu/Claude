@@ -814,5 +814,821 @@
     "en": "Do you agree or not, after all?"
    }
   ]
+ },
+ {
+  "id": "g007",
+  "level": 1,
+  "title": "\"岁\" ile yaş söyleme",
+  "titleEn": "Age with \"sui\"",
+  "pattern": "Özne + Sayı + 岁",
+  "summary": "Yaş, \"Özne + sayı + 岁 (suì)\" kalıbıyla söylenir; bu cümlede \"是\" fiiline gerek yoktur.",
+  "explanation": "Çince'de yaş bildirirken sayıdan sonra \"岁\" (suì, yaş) ölçü sözcüğü kullanılır ve genellikle \"是\" fiili KULLANILMAZ: \"我二十岁\" (ben yirmi yaşındayım). Yaş sormak için \"多大\" (büyükler için) veya \"几岁\" (küçük çocuklar için) kullanılır. \"是\" yalnızca vurgu için eklenebilir: \"我是二十岁\".",
+  "examples": [
+   {
+    "zh": "我今年二十岁。",
+    "pinyin": "Wǒ jīnnián èrshí suì.",
+    "en": "I am twenty years old this year."
+   },
+   {
+    "zh": "你女儿几岁了？",
+    "pinyin": "Nǐ nǚ'ér jǐ suì le?",
+    "en": "How old is your daughter?"
+   },
+   {
+    "zh": "我弟弟比我小三岁。",
+    "pinyin": "Wǒ dìdi bǐ wǒ xiǎo sān suì.",
+    "en": "My younger brother is three years younger than me."
+   },
+   {
+    "zh": "这个孩子才五岁,已经会写字了。",
+    "pinyin": "Zhège háizi cái wǔ suì, yǐjīng huì xiězì le.",
+    "en": "This child is only five years old and can already write."
+   },
+   {
+    "zh": "她奶奶今年八十岁了,身体还很好。",
+    "pinyin": "Tā nǎinai jīnnián bāshí suì le, shēntǐ hái hěn hǎo.",
+    "en": "Her grandma is eighty this year and still in good health."
+   },
+   {
+    "zh": "请问您多大岁数了？",
+    "pinyin": "Qǐngwèn nín duō dà suìshu le?",
+    "en": "May I ask how old you are?"
+   },
+   {
+    "zh": "我三十岁才开始学中文。",
+    "pinyin": "Wǒ sānshí suì cái kāishǐ xué Zhōngwén.",
+    "en": "I only started learning Chinese at thirty."
+   },
+   {
+    "zh": "他十八岁那年离开了家乡。",
+    "pinyin": "Tā shíbā suì nà nián líkāi le jiāxiāng.",
+    "en": "He left his hometown the year he turned eighteen."
+   },
+   {
+    "zh": "我儿子明年就十岁了。",
+    "pinyin": "Wǒ érzi míngnián jiù shí suì le.",
+    "en": "My son will be ten years old next year."
+   },
+   {
+    "zh": "两个孩子,一个七岁,一个九岁。",
+    "pinyin": "Liǎng ge háizi, yí ge qī suì, yí ge jiǔ suì.",
+    "en": "Two children, one is seven and one is nine."
+   },
+   {
+    "zh": "她看起来不像四十岁的人。",
+    "pinyin": "Tā kàn qǐlái bú xiàng sìshí suì de rén.",
+    "en": "She doesn't look like a forty-year-old."
+   },
+   {
+    "zh": "我爷爷九十岁的时候还每天散步。",
+    "pinyin": "Wǒ yéye jiǔshí suì de shíhou hái měitiān sànbù.",
+    "en": "My grandpa still went for a walk every day at ninety."
+   },
+   {
+    "zh": "孩子六岁以后就应该上学了。",
+    "pinyin": "Háizi liù suì yǐhòu jiù yīnggāi shàngxué le.",
+    "en": "Children should go to school after they turn six."
+   },
+   {
+    "zh": "我二十五岁那年找到了第一份工作。",
+    "pinyin": "Wǒ èrshíwǔ suì nà nián zhǎodào le dì yī fèn gōngzuò.",
+    "en": "I found my first job the year I was twenty-five."
+   },
+   {
+    "zh": "这只小狗才两岁,很爱玩。",
+    "pinyin": "Zhè zhī xiǎogǒu cái liǎng suì, hěn ài wán.",
+    "en": "This puppy is only two years old and loves to play."
+   },
+   {
+    "zh": "他不到三十岁就当上了经理。",
+    "pinyin": "Tā bú dào sānshí suì jiù dāngshàng le jīnglǐ.",
+    "en": "He became a manager before he was even thirty."
+   },
+   {
+    "zh": "我妹妹今年十六岁,正在上高中。",
+    "pinyin": "Wǒ mèimei jīnnián shíliù suì, zhèngzài shàng gāozhōng.",
+    "en": "My sister is sixteen this year and is in high school."
+   },
+   {
+    "zh": "人到了六十岁一般就可以退休了。",
+    "pinyin": "Rén dào le liùshí suì yìbān jiù kěyǐ tuìxiū le.",
+    "en": "People can generally retire once they reach sixty."
+   },
+   {
+    "zh": "你猜猜她多大岁数？",
+    "pinyin": "Nǐ cāicai tā duō dà suìshu?",
+    "en": "Guess how old she is?"
+   },
+   {
+    "zh": "我十二岁的时候开始学游泳。",
+    "pinyin": "Wǒ shí'èr suì de shíhou kāishǐ xué yóuyǒng.",
+    "en": "I started learning to swim when I was twelve."
+   },
+   {
+    "zh": "他四十多岁了,还像年轻人一样有活力。",
+    "pinyin": "Tā sìshí duō suì le, hái xiàng niánqīngrén yíyàng yǒu huólì.",
+    "en": "He's in his forties but still as energetic as a young person."
+   },
+   {
+    "zh": "这个小女孩三岁就会背很多首诗。",
+    "pinyin": "Zhège xiǎo nǚhái sān suì jiù huì bèi hěn duō shǒu shī.",
+    "en": "This little girl could recite many poems at just three."
+   },
+   {
+    "zh": "到了一定的岁数,人就会开始怀念过去。",
+    "pinyin": "Dào le yídìng de suìshu, rén jiù huì kāishǐ huáiniàn guòqù.",
+    "en": "At a certain age, people start to miss the past."
+   },
+   {
+    "zh": "我今年已经不小了,不能再像小孩子一样。",
+    "pinyin": "Wǒ jīnnián yǐjīng bù xiǎo le, bù néng zài xiàng xiǎoháizi yíyàng.",
+    "en": "I'm not young anymore and can't act like a child."
+   },
+   {
+    "zh": "她比我大两岁,但是我们像同龄人一样。",
+    "pinyin": "Tā bǐ wǒ dà liǎng suì, dànshì wǒmen xiàng tónglíngrén yíyàng.",
+    "en": "She's two years older than me, but we're like peers."
+   }
+  ]
+ },
+ {
+  "id": "g008",
+  "level": 1,
+  "title": "\"个\" ölçü sözcüğü",
+  "titleEn": "Measure word \"ge\"",
+  "pattern": "Sayı + 个 + İsim",
+  "summary": "Çince'de sayı ile isim arasına bir ölçü sözcüğü girer; \"个\" (ge) en yaygın ve genel amaçlı olanıdır.",
+  "explanation": "Çince'de bir ismi sayarken doğrudan \"sayı + isim\" denmez; araya bir ölçü sözcüğü (量词) girer. \"个\" en genel ölçü sözcüğüdür ve doğru ölçü sözcüğünü bilmediğinizde çoğu insanla ilgili ve genel nesne için kullanılabilir. \"个\" genellikle hafif tonda (ge) okunur. \"这/那\" (bu/şu) ve \"几\" (kaç) de sayı gibi davranır: 这个人 (bu kişi), 几个 (kaç tane).",
+  "examples": [
+   {
+    "zh": "我有一个问题想问你。",
+    "pinyin": "Wǒ yǒu yí ge wèntí xiǎng wèn nǐ.",
+    "en": "I have a question I want to ask you."
+   },
+   {
+    "zh": "我们班有三十个学生。",
+    "pinyin": "Wǒmen bān yǒu sānshí ge xuésheng.",
+    "en": "Our class has thirty students."
+   },
+   {
+    "zh": "这个人我好像在哪里见过。",
+    "pinyin": "Zhège rén wǒ hǎoxiàng zài nǎlǐ jiànguò.",
+    "en": "I feel like I've seen this person somewhere."
+   },
+   {
+    "zh": "给我两个苹果和一个橘子。",
+    "pinyin": "Gěi wǒ liǎng ge píngguǒ hé yí ge júzi.",
+    "en": "Give me two apples and one orange."
+   },
+   {
+    "zh": "他一个人住在这么大的房子里。",
+    "pinyin": "Tā yí ge rén zhù zài zhème dà de fángzi lǐ.",
+    "en": "He lives alone in such a big house."
+   },
+   {
+    "zh": "这个月我花了很多钱。",
+    "pinyin": "Zhège yuè wǒ huā le hěn duō qián.",
+    "en": "I spent a lot of money this month."
+   },
+   {
+    "zh": "我想请你帮我一个忙。",
+    "pinyin": "Wǒ xiǎng qǐng nǐ bāng wǒ yí ge máng.",
+    "en": "I'd like to ask you for a favor."
+   },
+   {
+    "zh": "那个穿红衣服的女孩是谁？",
+    "pinyin": "Nàge chuān hóng yīfu de nǚhái shì shéi?",
+    "en": "Who is that girl in the red clothes?"
+   },
+   {
+    "zh": "我们花了三个小时才到山顶。",
+    "pinyin": "Wǒmen huā le sān ge xiǎoshí cái dào shāndǐng.",
+    "en": "It took us three hours to reach the mountaintop."
+   },
+   {
+    "zh": "这几个孩子都很有礼貌。",
+    "pinyin": "Zhè jǐ ge háizi dōu hěn yǒu lǐmào.",
+    "en": "These few children are all very polite."
+   },
+   {
+    "zh": "他每个星期都会给妈妈打一个电话。",
+    "pinyin": "Tā měi ge xīngqī dōu huì gěi māma dǎ yí ge diànhuà.",
+    "en": "He calls his mom once every week."
+   },
+   {
+    "zh": "这个决定改变了我的一生。",
+    "pinyin": "Zhège juédìng gǎibiàn le wǒ de yìshēng.",
+    "en": "This decision changed my whole life."
+   },
+   {
+    "zh": "桌子上放着几个空杯子。",
+    "pinyin": "Zhuōzi shàng fàngzhe jǐ ge kōng bēizi.",
+    "en": "There are a few empty cups on the table."
+   },
+   {
+    "zh": "我认识一个会说五种语言的人。",
+    "pinyin": "Wǒ rènshi yí ge huì shuō wǔ zhǒng yǔyán de rén.",
+    "en": "I know a person who can speak five languages."
+   },
+   {
+    "zh": "这个星期天我们打算去看一个朋友。",
+    "pinyin": "Zhège xīngqītiān wǒmen dǎsuàn qù kàn yí ge péngyou.",
+    "en": "This Sunday we plan to visit a friend."
+   },
+   {
+    "zh": "他一口气吃了三个包子。",
+    "pinyin": "Tā yì kǒu qì chī le sān ge bāozi.",
+    "en": "He ate three buns in one go."
+   },
+   {
+    "zh": "每个人都有自己的梦想。",
+    "pinyin": "Měi ge rén dōu yǒu zìjǐ de mèngxiǎng.",
+    "en": "Everyone has their own dream."
+   },
+   {
+    "zh": "我在这个城市住了十个年头了。",
+    "pinyin": "Wǒ zài zhège chéngshì zhù le shí ge niántóu le.",
+    "en": "I've lived in this city for ten years now."
+   },
+   {
+    "zh": "这个办法听起来是个好主意。",
+    "pinyin": "Zhège bànfǎ tīng qǐlái shì ge hǎo zhǔyi.",
+    "en": "This method sounds like a good idea."
+   },
+   {
+    "zh": "他给我讲了一个很有意思的故事。",
+    "pinyin": "Tā gěi wǒ jiǎng le yí ge hěn yǒu yìsi de gùshi.",
+    "en": "He told me a very interesting story."
+   },
+   {
+    "zh": "我们需要再找几个人来帮忙。",
+    "pinyin": "Wǒmen xūyào zài zhǎo jǐ ge rén lái bāngmáng.",
+    "en": "We need to find a few more people to help."
+   },
+   {
+    "zh": "这个季节的水果又新鲜又便宜。",
+    "pinyin": "Zhège jìjié de shuǐguǒ yòu xīnxiān yòu piányi.",
+    "en": "The fruit this season is both fresh and cheap."
+   },
+   {
+    "zh": "他是一个值得信任的人。",
+    "pinyin": "Tā shì yí ge zhídé xìnrèn de rén.",
+    "en": "He is a person worth trusting."
+   },
+   {
+    "zh": "我想在市中心买一个小房子。",
+    "pinyin": "Wǒ xiǎng zài shìzhōngxīn mǎi yí ge xiǎo fángzi.",
+    "en": "I want to buy a small house in the city center."
+   },
+   {
+    "zh": "这个世界上没有一个人是完美的。",
+    "pinyin": "Zhège shìjiè shàng méiyǒu yí ge rén shì wánměi de.",
+    "en": "There is no perfect person in this world."
+   }
+  ]
+ },
+ {
+  "id": "g009",
+  "level": 1,
+  "title": "Tarihlerin yapısı",
+  "titleEn": "Structure of dates",
+  "pattern": "Sayı + 年 + Sayı + 月 + Sayı + 号",
+  "summary": "Çince'de tarih büyükten küçüğe yazılır: önce yıl (年), sonra ay (月), sonra gün (号/日).",
+  "explanation": "Çince tarih sıralaması Türkçe'nin tersidir: en büyük birimden en küçüğe gider — yıl → ay → gün. Yıl için \"年\" (nián), ay için \"月\" (yuè), gün için konuşma dilinde \"号\" (hào) veya resmî yazıda \"日\" (rì) kullanılır. Aylar sadece sayı + 月'dir: 一月 (Ocak), 十二月 (Aralık). Bu cümlelerde de \"是\" çoğu zaman kullanılmaz.",
+  "examples": [
+   {
+    "zh": "今天是三月八号。",
+    "pinyin": "Jīntiān shì sān yuè bā hào.",
+    "en": "Today is March 8th."
+   },
+   {
+    "zh": "我的生日是十月一号。",
+    "pinyin": "Wǒ de shēngri shì shí yuè yī hào.",
+    "en": "My birthday is October 1st."
+   },
+   {
+    "zh": "他们打算在明年五月结婚。",
+    "pinyin": "Tāmen dǎsuàn zài míngnián wǔ yuè jiéhūn.",
+    "en": "They plan to get married next May."
+   },
+   {
+    "zh": "这家公司是二零一零年成立的。",
+    "pinyin": "Zhè jiā gōngsī shì èr líng yī líng nián chénglì de.",
+    "en": "This company was founded in 2010."
+   },
+   {
+    "zh": "考试是下个月十五号。",
+    "pinyin": "Kǎoshì shì xià ge yuè shíwǔ hào.",
+    "en": "The exam is on the 15th of next month."
+   },
+   {
+    "zh": "我是一九九五年出生的。",
+    "pinyin": "Wǒ shì yī jiǔ jiǔ wǔ nián chūshēng de.",
+    "en": "I was born in 1995."
+   },
+   {
+    "zh": "从七月一号开始放暑假。",
+    "pinyin": "Cóng qī yuè yī hào kāishǐ fàng shǔjià.",
+    "en": "Summer vacation starts on July 1st."
+   },
+   {
+    "zh": "每年十二月都很冷。",
+    "pinyin": "Měinián shí'èr yuè dōu hěn lěng.",
+    "en": "December is cold every year."
+   },
+   {
+    "zh": "她的婚礼定在六月十号。",
+    "pinyin": "Tā de hūnlǐ dìng zài liù yuè shí hào.",
+    "en": "Her wedding is set for June 10th."
+   },
+   {
+    "zh": "这件事发生在去年八月。",
+    "pinyin": "Zhè jiàn shì fāshēng zài qùnián bā yuè.",
+    "en": "This happened last August."
+   },
+   {
+    "zh": "我们的会议改到了三月二十号。",
+    "pinyin": "Wǒmen de huìyì gǎidào le sān yuè èrshí hào.",
+    "en": "Our meeting was moved to March 20th."
+   },
+   {
+    "zh": "中国的春节一般在一月或二月。",
+    "pinyin": "Zhōngguó de Chūnjié yìbān zài yī yuè huò èr yuè.",
+    "en": "Chinese New Year is usually in January or February."
+   },
+   {
+    "zh": "请在四月底以前交作业。",
+    "pinyin": "Qǐng zài sì yuè dǐ yǐqián jiāo zuòyè.",
+    "en": "Please hand in the homework before the end of April."
+   },
+   {
+    "zh": "他是二零零八年来到北京的。",
+    "pinyin": "Tā shì èr líng líng bā nián láidào Běijīng de.",
+    "en": "He came to Beijing in 2008."
+   },
+   {
+    "zh": "我记得那天是九月三号,天气很好。",
+    "pinyin": "Wǒ jìde nà tiān shì jiǔ yuè sān hào, tiānqì hěn hǎo.",
+    "en": "I remember that day was September 3rd, and the weather was nice."
+   },
+   {
+    "zh": "新学期从九月一号开始。",
+    "pinyin": "Xīn xuéqī cóng jiǔ yuè yī hào kāishǐ.",
+    "en": "The new semester starts on September 1st."
+   },
+   {
+    "zh": "这本书是二零二零年出版的。",
+    "pinyin": "Zhè běn shū shì èr líng èr líng nián chūbǎn de.",
+    "en": "This book was published in 2020."
+   },
+   {
+    "zh": "你的护照到明年三月就过期了。",
+    "pinyin": "Nǐ de hùzhào dào míngnián sān yuè jiù guòqī le.",
+    "en": "Your passport expires next March."
+   },
+   {
+    "zh": "十一月的天气不冷也不热。",
+    "pinyin": "Shíyī yuè de tiānqì bù lěng yě bú rè.",
+    "en": "November weather is neither cold nor hot."
+   },
+   {
+    "zh": "我们是二零一五年五月认识的。",
+    "pinyin": "Wǒmen shì èr líng yī wǔ nián wǔ yuè rènshi de.",
+    "en": "We met in May 2015."
+   },
+   {
+    "zh": "下个星期五是四月一号。",
+    "pinyin": "Xià ge xīngqīwǔ shì sì yuè yī hào.",
+    "en": "Next Friday is April 1st."
+   },
+   {
+    "zh": "这个节日每年十月都会举行。",
+    "pinyin": "Zhège jiérì měinián shí yuè dōu huì jǔxíng.",
+    "en": "This festival is held every October."
+   },
+   {
+    "zh": "我打算七月中旬去旅行。",
+    "pinyin": "Wǒ dǎsuàn qī yuè zhōngxún qù lǚxíng.",
+    "en": "I plan to travel in mid-July."
+   },
+   {
+    "zh": "他的合同到十二月三十一号结束。",
+    "pinyin": "Tā de hétong dào shí'èr yuè sānshíyī hào jiéshù.",
+    "en": "His contract ends on December 31st."
+   },
+   {
+    "zh": "我永远记得二零一二年那个夏天。",
+    "pinyin": "Wǒ yǒngyuǎn jìde èr líng yī èr nián nàge xiàtiān.",
+    "en": "I'll always remember that summer of 2012."
+   }
+  ]
+ },
+ {
+  "id": "g010",
+  "level": 1,
+  "title": "Haftanın günlerinin yapısı",
+  "titleEn": "Structure of days of the week",
+  "pattern": "星期 + Sayı",
+  "summary": "Haftanın günleri \"星期\" (xīngqī) + sayı ile yapılır: 星期一 (Pazartesi) ... 星期六 (Cumartesi). Pazar istisnadır: 星期天/星期日.",
+  "explanation": "Haftanın günleri çok düzenlidir: \"星期\" (hafta) + gün sayısı. 星期一 = 1. gün = Pazartesi, 星期二 = Salı, ... 星期六 = Cumartesi. Pazar için sayı değil \"天\" veya \"日\" kullanılır: 星期天 (konuşma) / 星期日 (resmî). \"礼拜\" (lǐbài) de aynı anlamda kullanılabilir. Bu cümlelerde de \"是\" çoğunlukla düşer: 今天星期三.",
+  "examples": [
+   {
+    "zh": "今天星期三,后天星期五。",
+    "pinyin": "Jīntiān xīngqīsān, hòutiān xīngqīwǔ.",
+    "en": "Today is Wednesday, the day after tomorrow is Friday."
+   },
+   {
+    "zh": "我们每个星期一开会。",
+    "pinyin": "Wǒmen měi ge xīngqīyī kāihuì.",
+    "en": "We have a meeting every Monday."
+   },
+   {
+    "zh": "星期六我不用上班。",
+    "pinyin": "Xīngqīliù wǒ búyòng shàngbān.",
+    "en": "I don't have to work on Saturday."
+   },
+   {
+    "zh": "这家博物馆星期一不开门。",
+    "pinyin": "Zhè jiā bówùguǎn xīngqīyī bù kāimén.",
+    "en": "This museum is closed on Mondays."
+   },
+   {
+    "zh": "你星期几有空？",
+    "pinyin": "Nǐ xīngqī jǐ yǒu kòng?",
+    "en": "Which day of the week are you free?"
+   },
+   {
+    "zh": "我们打算星期天去爬山。",
+    "pinyin": "Wǒmen dǎsuàn xīngqītiān qù páshān.",
+    "en": "We plan to go hiking on Sunday."
+   },
+   {
+    "zh": "从星期一到星期五我都很忙。",
+    "pinyin": "Cóng xīngqīyī dào xīngqīwǔ wǒ dōu hěn máng.",
+    "en": "I'm busy from Monday to Friday."
+   },
+   {
+    "zh": "他每个星期二晚上去学画画。",
+    "pinyin": "Tā měi ge xīngqī'èr wǎnshang qù xué huàhuà.",
+    "en": "He goes to painting class every Tuesday evening."
+   },
+   {
+    "zh": "这个星期四是我的生日。",
+    "pinyin": "Zhège xīngqīsì shì wǒ de shēngri.",
+    "en": "This Thursday is my birthday."
+   },
+   {
+    "zh": "星期五下班以后我们一起去吃饭吧。",
+    "pinyin": "Xīngqīwǔ xiàbān yǐhòu wǒmen yìqǐ qù chīfàn ba.",
+    "en": "Let's have dinner together after work on Friday."
+   },
+   {
+    "zh": "我上个星期天睡了一整天。",
+    "pinyin": "Wǒ shàng ge xīngqītiān shuì le yìzhěng tiān.",
+    "en": "I slept the whole day last Sunday."
+   },
+   {
+    "zh": "下个星期一我要去出差。",
+    "pinyin": "Xià ge xīngqīyī wǒ yào qù chūchāi.",
+    "en": "I'm going on a business trip next Monday."
+   },
+   {
+    "zh": "孩子们最喜欢星期六和星期天。",
+    "pinyin": "Háizimen zuì xǐhuan xīngqīliù hé xīngqītiān.",
+    "en": "Children like Saturdays and Sundays the most."
+   },
+   {
+    "zh": "这个星期三我们没有课。",
+    "pinyin": "Zhège xīngqīsān wǒmen méiyǒu kè.",
+    "en": "We don't have class this Wednesday."
+   },
+   {
+    "zh": "她答应我下个星期四给我回信。",
+    "pinyin": "Tā dāying wǒ xià ge xīngqīsì gěi wǒ huíxìn.",
+    "en": "She promised to reply to me next Thursday."
+   },
+   {
+    "zh": "星期天的早上,街上人很少。",
+    "pinyin": "Xīngqītiān de zǎoshang, jiē shàng rén hěn shǎo.",
+    "en": "On Sunday mornings, there are few people on the streets."
+   },
+   {
+    "zh": "我们的中文课是每个星期二和星期四。",
+    "pinyin": "Wǒmen de Zhōngwén kè shì měi ge xīngqī'èr hé xīngqīsì.",
+    "en": "Our Chinese class is every Tuesday and Thursday."
+   },
+   {
+    "zh": "星期一总是让人觉得很累。",
+    "pinyin": "Xīngqīyī zǒngshì ràng rén juéde hěn lèi.",
+    "en": "Mondays always make people feel tired."
+   },
+   {
+    "zh": "这个星期六有一场重要的比赛。",
+    "pinyin": "Zhège xīngqīliù yǒu yì chǎng zhòngyào de bǐsài.",
+    "en": "There's an important match this Saturday."
+   },
+   {
+    "zh": "我忘了今天是星期几了。",
+    "pinyin": "Wǒ wàng le jīntiān shì xīngqī jǐ le.",
+    "en": "I forgot what day of the week it is today."
+   },
+   {
+    "zh": "每个星期天我都会给父母打电话。",
+    "pinyin": "Měi ge xīngqītiān wǒ dōu huì gěi fùmǔ dǎ diànhuà.",
+    "en": "I call my parents every Sunday."
+   },
+   {
+    "zh": "我们的假期从这个星期五开始。",
+    "pinyin": "Wǒmen de jiàqī cóng zhège xīngqīwǔ kāishǐ.",
+    "en": "Our vacation starts this Friday."
+   },
+   {
+    "zh": "他星期三就要回国了。",
+    "pinyin": "Tā xīngqīsān jiù yào huíguó le.",
+    "en": "He's going back to his country this Wednesday."
+   },
+   {
+    "zh": "下个星期六我要参加一个婚礼。",
+    "pinyin": "Xià ge xīngqīliù wǒ yào cānjiā yí ge hūnlǐ.",
+    "en": "Next Saturday I'm attending a wedding."
+   },
+   {
+    "zh": "一个星期有七天,可是感觉过得很快。",
+    "pinyin": "Yí ge xīngqī yǒu qī tiān, kěshì gǎnjué guò de hěn kuài.",
+    "en": "A week has seven days, but it feels like it passes quickly."
+   }
+  ]
+ },
+ {
+  "id": "g011",
+  "level": 1,
+  "title": "Sayıların yapısı",
+  "titleEn": "Structure of numbers",
+  "pattern": "Sayı + Birim (十 / 百 / 千 / 万)",
+  "summary": "Çince sayılar 十 (on), 百 (yüz), 千 (bin), 万 (on bin) birimleriyle düzenli biçimde kurulur.",
+  "explanation": "Çince sayı sistemi çok düzenlidir: 11 = 十一 (on-bir), 20 = 二十 (iki-on), 35 = 三十五 (üç-on-beş). Yüzler 百, binler 千, ve önemli fark: Çince'de 万 (on bin) ayrı bir birimdir. Yani 10.000 = 一万, 100.000 = 十万. \"二\" (èr) ve \"两\" (liǎng) her ikisi de \"iki\" demektir ama farklı yerlerde kullanılır (ayrı konu).",
+  "examples": [
+   {
+    "zh": "三百五十九是一个奇数。",
+    "pinyin": "Sānbǎi wǔshíjiǔ shì yí ge jīshù.",
+    "en": "359 is an odd number."
+   },
+   {
+    "zh": "这本书一共有五百多页。",
+    "pinyin": "Zhè běn shū yígòng yǒu wǔbǎi duō yè.",
+    "en": "This book has over five hundred pages in total."
+   },
+   {
+    "zh": "这台电脑要八千块钱。",
+    "pinyin": "Zhè tái diànnǎo yào bāqiān kuài qián.",
+    "en": "This computer costs eight thousand yuan."
+   },
+   {
+    "zh": "我们公司有一千多个员工。",
+    "pinyin": "Wǒmen gōngsī yǒu yìqiān duō ge yuángōng.",
+    "en": "Our company has over a thousand employees."
+   },
+   {
+    "zh": "这座城市有五百万人口。",
+    "pinyin": "Zhè zuò chéngshì yǒu wǔbǎiwàn rénkǒu.",
+    "en": "This city has a population of five million."
+   },
+   {
+    "zh": "从一数到一百对孩子来说不难。",
+    "pinyin": "Cóng yī shǔ dào yìbǎi duì háizi lái shuō bù nán.",
+    "en": "Counting from one to a hundred isn't hard for a child."
+   },
+   {
+    "zh": "这次活动来了三千多个人。",
+    "pinyin": "Zhè cì huódòng lái le sānqiān duō ge rén.",
+    "en": "Over three thousand people came to this event."
+   },
+   {
+    "zh": "他一个月挣一万块钱。",
+    "pinyin": "Tā yí ge yuè zhèng yíwàn kuài qián.",
+    "en": "He earns ten thousand yuan a month."
+   },
+   {
+    "zh": "这条河有两千多公里长。",
+    "pinyin": "Zhè tiáo hé yǒu liǎngqiān duō gōnglǐ cháng.",
+    "en": "This river is over two thousand kilometers long."
+   },
+   {
+    "zh": "一年有三百六十五天。",
+    "pinyin": "Yì nián yǒu sānbǎi liùshíwǔ tiān.",
+    "en": "A year has three hundred sixty-five days."
+   },
+   {
+    "zh": "这幅画卖了十万块钱。",
+    "pinyin": "Zhè fú huà mài le shíwàn kuài qián.",
+    "en": "This painting sold for a hundred thousand yuan."
+   },
+   {
+    "zh": "他家离公司大概有二十公里。",
+    "pinyin": "Tā jiā lí gōngsī dàgài yǒu èrshí gōnglǐ.",
+    "en": "His home is about twenty kilometers from the company."
+   },
+   {
+    "zh": "这个数字太大了,我念不出来。",
+    "pinyin": "Zhège shùzì tài dà le, wǒ niàn bu chūlái.",
+    "en": "This number is too big, I can't read it out."
+   },
+   {
+    "zh": "我们班一共有四十五个学生。",
+    "pinyin": "Wǒmen bān yígòng yǒu sìshíwǔ ge xuésheng.",
+    "en": "Our class has forty-five students in total."
+   },
+   {
+    "zh": "这件事发生在一百多年以前。",
+    "pinyin": "Zhè jiàn shì fāshēng zài yìbǎi duō nián yǐqián.",
+    "en": "This happened over a hundred years ago."
+   },
+   {
+    "zh": "我数了三遍,一共是九十九个。",
+    "pinyin": "Wǒ shǔ le sān biàn, yígòng shì jiǔshíjiǔ ge.",
+    "en": "I counted three times, it's ninety-nine in total."
+   },
+   {
+    "zh": "这次考试满分是一百分。",
+    "pinyin": "Zhè cì kǎoshì mǎnfēn shì yìbǎi fēn.",
+    "en": "The full score of this exam is one hundred."
+   },
+   {
+    "zh": "他借了我五千块钱,还没还。",
+    "pinyin": "Tā jiè le wǒ wǔqiān kuài qián, hái méi huán.",
+    "en": "He borrowed five thousand yuan from me and hasn't paid it back."
+   },
+   {
+    "zh": "这个村子只有三百多口人。",
+    "pinyin": "Zhège cūnzi zhǐ yǒu sānbǎi duō kǒu rén.",
+    "en": "This village has only a little over three hundred people."
+   },
+   {
+    "zh": "一万块钱在大城市不够花一个月。",
+    "pinyin": "Yíwàn kuài qián zài dà chéngshì búgòu huā yí ge yuè.",
+    "en": "Ten thousand yuan isn't enough for a month in a big city."
+   },
+   {
+    "zh": "这场音乐会有两千个座位。",
+    "pinyin": "Zhè chǎng yīnyuèhuì yǒu liǎngqiān ge zuòwèi.",
+    "en": "This concert has two thousand seats."
+   },
+   {
+    "zh": "他跑了五千米还不觉得累。",
+    "pinyin": "Tā pǎo le wǔqiān mǐ hái bù juéde lèi.",
+    "en": "He ran five thousand meters and still didn't feel tired."
+   },
+   {
+    "zh": "这本词典有六万多个词。",
+    "pinyin": "Zhè běn cídiǎn yǒu liùwàn duō ge cí.",
+    "en": "This dictionary has over sixty thousand words."
+   },
+   {
+    "zh": "从一百减到零需要一点时间。",
+    "pinyin": "Cóng yìbǎi jiǎn dào líng xūyào yìdiǎn shíjiān.",
+    "en": "Counting down from a hundred to zero takes a little time."
+   },
+   {
+    "zh": "这个数加上那个数正好是一千。",
+    "pinyin": "Zhège shù jiā shàng nàge shù zhènghǎo shì yìqiān.",
+    "en": "This number plus that number is exactly one thousand."
+   }
+  ]
+ },
+ {
+  "id": "g012",
+  "level": 1,
+  "title": "Saatlerin yapısı (temel)",
+  "titleEn": "Structure of times (basic)",
+  "pattern": "Sayı + 点 (钟)",
+  "summary": "Saat, sayı + \"点\" (diǎn) ile söylenir: 三点 = saat üç. İsteğe bağlı olarak \"钟\" eklenebilir.",
+  "explanation": "Çince'de saat söylerken \"点\" (diǎn, nokta/saat) kullanılır: 一点 (saat bir), 十点 (saat on). İsteğe bağlı \"钟\" (zhōng) eklenebilir: 三点钟. Dakika için \"分\" (fēn) kullanılır (ileri konu). Önemli: \"iki\" saat söylerken \"两点\" (liǎng diǎn) denir, \"二点\" değil. \"半\" (bàn, yarım) buçuğu belirtir: 三点半 (üç buçuk).",
+  "examples": [
+   {
+    "zh": "现在十一点,我们该睡觉了。",
+    "pinyin": "Xiànzài shíyī diǎn, wǒmen gāi shuìjiào le.",
+    "en": "It's eleven o'clock now, we should go to bed."
+   },
+   {
+    "zh": "我每天早上六点起床。",
+    "pinyin": "Wǒ měitiān zǎoshang liù diǎn qǐchuáng.",
+    "en": "I get up at six every morning."
+   },
+   {
+    "zh": "火车八点准时开。",
+    "pinyin": "Huǒchē bā diǎn zhǔnshí kāi.",
+    "en": "The train departs at eight sharp."
+   },
+   {
+    "zh": "我们两点在门口见面吧。",
+    "pinyin": "Wǒmen liǎng diǎn zài ménkǒu jiànmiàn ba.",
+    "en": "Let's meet at the door at two o'clock."
+   },
+   {
+    "zh": "他一般晚上十点以后才回家。",
+    "pinyin": "Tā yìbān wǎnshang shí diǎn yǐhòu cái huíjiā.",
+    "en": "He usually gets home only after ten at night."
+   },
+   {
+    "zh": "现在几点了？我的表停了。",
+    "pinyin": "Xiànzài jǐ diǎn le? Wǒ de biǎo tíng le.",
+    "en": "What time is it now? My watch has stopped."
+   },
+   {
+    "zh": "商店早上九点开门。",
+    "pinyin": "Shāngdiàn zǎoshang jiǔ diǎn kāimén.",
+    "en": "The shop opens at nine in the morning."
+   },
+   {
+    "zh": "我们下午三点开会。",
+    "pinyin": "Wǒmen xiàwǔ sān diǎn kāihuì.",
+    "en": "We have a meeting at three in the afternoon."
+   },
+   {
+    "zh": "电影七点开始,我们六点半出发吧。",
+    "pinyin": "Diànyǐng qī diǎn kāishǐ, wǒmen liù diǎn bàn chūfā ba.",
+    "en": "The movie starts at seven, let's leave at six thirty."
+   },
+   {
+    "zh": "他每天工作到晚上十二点。",
+    "pinyin": "Tā měitiān gōngzuò dào wǎnshang shí'èr diǎn.",
+    "en": "He works until twelve at night every day."
+   },
+   {
+    "zh": "飞机是明天早上五点的。",
+    "pinyin": "Fēijī shì míngtiān zǎoshang wǔ diǎn de.",
+    "en": "The flight is at five tomorrow morning."
+   },
+   {
+    "zh": "我们中午十二点一起吃午饭。",
+    "pinyin": "Wǒmen zhōngwǔ shí'èr diǎn yìqǐ chī wǔfàn.",
+    "en": "We have lunch together at noon."
+   },
+   {
+    "zh": "她答应四点钟来接我。",
+    "pinyin": "Tā dāying sì diǎn zhōng lái jiē wǒ.",
+    "en": "She promised to pick me up at four o'clock."
+   },
+   {
+    "zh": "孩子们八点就要上床睡觉。",
+    "pinyin": "Háizimen bā diǎn jiù yào shàngchuáng shuìjiào.",
+    "en": "The children have to go to bed at eight."
+   },
+   {
+    "zh": "银行一般下午五点关门。",
+    "pinyin": "Yínháng yìbān xiàwǔ wǔ diǎn guānmén.",
+    "en": "Banks usually close at five in the afternoon."
+   },
+   {
+    "zh": "我睡得很晚,昨天两点才睡。",
+    "pinyin": "Wǒ shuì de hěn wǎn, zuótiān liǎng diǎn cái shuì.",
+    "en": "I sleep late; yesterday I only slept at two."
+   },
+   {
+    "zh": "下午一点是我最困的时候。",
+    "pinyin": "Xiàwǔ yì diǎn shì wǒ zuì kùn de shíhou.",
+    "en": "One in the afternoon is when I'm sleepiest."
+   },
+   {
+    "zh": "我们约好了明天十点在图书馆见。",
+    "pinyin": "Wǒmen yuēhǎo le míngtiān shí diǎn zài túshūguǎn jiàn.",
+    "en": "We agreed to meet at the library at ten tomorrow."
+   },
+   {
+    "zh": "太阳大概六点钟就升起来了。",
+    "pinyin": "Tàiyáng dàgài liù diǎn zhōng jiù shēng qǐlái le.",
+    "en": "The sun rises at about six o'clock."
+   },
+   {
+    "zh": "现在才三点,离下班还早呢。",
+    "pinyin": "Xiànzài cái sān diǎn, lí xiàbān hái zǎo ne.",
+    "en": "It's only three now, it's still early before work ends."
+   },
+   {
+    "zh": "我习惯十一点半上床看书。",
+    "pinyin": "Wǒ xíguàn shíyī diǎn bàn shàngchuáng kànshū.",
+    "en": "I'm used to reading in bed at eleven thirty."
+   },
+   {
+    "zh": "比赛四点开始,请提前半个小时到。",
+    "pinyin": "Bǐsài sì diǎn kāishǐ, qǐng tíqián bàn ge xiǎoshí dào.",
+    "en": "The match starts at four, please arrive half an hour early."
+   },
+   {
+    "zh": "他每天七点准时出门。",
+    "pinyin": "Tā měitiān qī diǎn zhǔnshí chūmén.",
+    "en": "He leaves home at seven sharp every day."
+   },
+   {
+    "zh": "我们晚上八点在餐厅有个约会。",
+    "pinyin": "Wǒmen wǎnshang bā diǎn zài cāntīng yǒu ge yuēhuì.",
+    "en": "We have a date at the restaurant at eight in the evening."
+   },
+   {
+    "zh": "都十点了,你怎么还不起床？",
+    "pinyin": "Dōu shí diǎn le, nǐ zěnme hái bù qǐchuáng?",
+    "en": "It's already ten, why aren't you up yet?"
+   }
+  ]
  }
 ]

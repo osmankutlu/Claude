@@ -13598,5 +13598,685 @@
     "en": "Effort doesn't guarantee success, but without it you should expect to fail."
    }
   ]
+ },
+ {
+  "id": "g101",
+  "level": 2,
+  "title": "\"会\" ile olasılık ve beceri",
+  "titleEn": "Expressing \"will\" with \"hui\"",
+  "pattern": "会 + Fiil",
+  "summary": "\"会\" (huì) hem öğrenilmiş bir beceriyi (\"...-ebilmek\") hem de gelecekteki olasılığı (\"...-ecek\") bildirir: 我会开车 = Araba kullanabilirim; 明天会下雨 = Yarın yağmur yağacak.",
+  "explanation": "\"会\" iki temel anlam taşır: (1) ÖĞRENİLMİŞ BECERİ — bir şeyi yapmayı bilmek/öğrenmiş olmak: 我会说汉语 (Çince konuşabiliyorum), 他会游泳 (Yüzmeyi biliyor). (2) OLASILIK/GELECEK — bir şeyin olacağına dair tahmin: 明天会下雨 (Yarın yağmur yağacak), 他会来吗? (Gelecek mi acaba?). İkinci anlamda çoğu zaman güçlü bir beklenti/olasılık vardır. Olumsuzu \"不会\": 我不会游泳 (Yüzme bilmem) ya da 明天不会下雨 (Yarın yağmaz). \"能\" (fiziksel imkân) ve \"可以\" (izin) ile karıştırılmamalı; \"会\" özellikle ÖĞRENME sonucu kazanılan beceriyi ve gelecek olasılığını vurgular.",
+  "examples": [
+   {
+    "zh": "他会说好几种语言,出国旅行一点儿都不发愁。",
+    "pinyin": "Tā huì shuō hǎo jǐ zhǒng yǔ yán, chū guó lǚ xíng yì diǎn ér dōu bù fā chóu。",
+    "en": "He can speak several languages, so traveling abroad worries him not at all."
+   },
+   {
+    "zh": "天气预报说今天晚上会下大雪,你少出门。",
+    "pinyin": "Tiān qì yù bào shuō jīn tiān wǎn shàng huì xià dà xuě, nǐ shǎo chū mén。",
+    "en": "The forecast says heavy snow tonight; go out as little as possible."
+   },
+   {
+    "zh": "我以前不会做饭,现在会做好几道拿手菜了。",
+    "pinyin": "Wǒ yǐ qián bú huì zuò fàn, xiàn zài huì zuò hǎo jǐ dào ná shǒu cài le。",
+    "en": "I used to not cook; now I can make several signature dishes."
+   },
+   {
+    "zh": "你放心,他答应的事一定会做到。",
+    "pinyin": "Nǐ fàng xīn, tā dā yìng de shì yí dìng huì zuò dào。",
+    "en": "Rest assured; whatever he promises he will surely do."
+   },
+   {
+    "zh": "这孩子这么聪明,将来一定会有出息。",
+    "pinyin": "Zhè hái zi zhè me cōng míng, jiāng lái yí dìng huì yǒu chū xī。",
+    "en": "This child is so clever; he'll surely amount to something."
+   },
+   {
+    "zh": "我不太会游泳,所以从来不敢去深水区。",
+    "pinyin": "Wǒ bù tài huì yóu yǒng, suǒ yǐ cóng lái bù gǎn qù shēn shuǐ qū。",
+    "en": "I can't really swim, so I never dare go into the deep end."
+   },
+   {
+    "zh": "你要是不好好复习,考试就会考砸的。",
+    "pinyin": "Nǐ yào shì bù hǎo hǎo fù xí, kǎo shì jiù huì kǎo zá de。",
+    "en": "If you don't review well, you'll fail the exam."
+   },
+   {
+    "zh": "她会弹钢琴,也会拉小提琴,特别有音乐天分。",
+    "pinyin": "Tā huì tán gāng qín, yě huì lā xiǎo tí qín, tè bié yǒu yīn yuè tiān fèn。",
+    "en": "She can play piano and violin; she's very musically gifted."
+   },
+   {
+    "zh": "别担心,一切都会好起来的,时间会解决一切。",
+    "pinyin": "Bié dān xīn, yī qiè dū huì hǎo qǐ lái de, shí jiān huì jiě jué yī qiè。",
+    "en": "Don't worry; everything will get better — time heals all."
+   },
+   {
+    "zh": "多穿点衣服,不然你会感冒的。",
+    "pinyin": "Duō chuān diǎn yī fú, bù rán nǐ huì gǎn mào de。",
+    "en": "Wear more clothes, or you'll catch a cold."
+   },
+   {
+    "zh": "他这个人很守时,从来不会让别人等他。",
+    "pinyin": "Tā zhè ge rén hěn shǒu shí, cóng lái bú huì ràng bié rén děng tā。",
+    "en": "He's very punctual and never makes others wait for him."
+   },
+   {
+    "zh": "你现在努力,以后一定会感谢今天的自己。",
+    "pinyin": "Nǐ xiàn zài nǔ lì, yǐ hòu yí dìng huì gǎn xiè jīn tiān de zì jǐ。",
+    "en": "Work hard now, and you'll surely thank your present self later."
+   },
+   {
+    "zh": "这么冷的天,他会不会忘了带外套?",
+    "pinyin": "Zhè me lěng de tiān, tā huì bú huì wàng le dài wài tào?",
+    "en": "In such cold weather, might he have forgotten his coat?"
+   },
+   {
+    "zh": "我会开车,可是好久没开了,有点儿生疏了。",
+    "pinyin": "Wǒ huì kāi chē, kě shì hǎo jiǔ méi kāi le, yǒu diǎn ér shēng shū le。",
+    "en": "I can drive, but I haven't in a long time and I'm a bit rusty."
+   },
+   {
+    "zh": "只要你坚持练习,总有一天会成功的。",
+    "pinyin": "Zhǐ yào nǐ jiān chí liàn xí, zǒng yǒu yī tiān huì chéng gōng de。",
+    "en": "As long as you keep practicing, one day you'll succeed."
+   },
+   {
+    "zh": "这种事以后还会发生,我们得早做准备。",
+    "pinyin": "Zhè zhǒng shì yǐ hòu hái huì fā shēng, wǒ men děi zǎo zuò zhǔn bèi。",
+    "en": "This kind of thing will happen again; we must prepare early."
+   },
+   {
+    "zh": "他不会轻易放弃,遇到困难反而更有干劲。",
+    "pinyin": "Tā bú huì qīng yì fàng qì, yù dào kùn nán fǎn ér gèng yǒu gàn jìn。",
+    "en": "He won't give up easily; difficulties only make him more driven."
+   },
+   {
+    "zh": "你要是这样对他,他会伤心的。",
+    "pinyin": "Nǐ yào shì zhè yàng duì tā, tā huì shāng xīn de。",
+    "en": "If you treat him like this, he'll be hurt."
+   },
+   {
+    "zh": "她学得很快,相信不久就会说得很流利。",
+    "pinyin": "Tā xué de hěn kuài, xiāng xìn bù jiǔ jiù huì shuō de hěn liú lì。",
+    "en": "She learns fast; I believe she'll soon speak fluently."
+   },
+   {
+    "zh": "天上乌云那么厚,看来一会儿会下雨。",
+    "pinyin": "Tiān shàng wū yún nà me hòu, kàn lái yī huì er huì xià yǔ。",
+    "en": "The clouds are so thick; it looks like it'll rain soon."
+   },
+   {
+    "zh": "我会永远记得你对我的好,谢谢你。",
+    "pinyin": "Wǒ huì yǒng yuǎn jì de nǐ duì wǒ de hǎo, xiè xiè nǐ。",
+    "en": "I'll always remember your kindness to me; thank you."
+   },
+   {
+    "zh": "这么难的题,一般人是不会做的。",
+    "pinyin": "Zhè me nán de tí, yì bān rén shì bú huì zuò de。",
+    "en": "Such a hard problem — ordinary people can't solve it."
+   },
+   {
+    "zh": "你放心去吧,家里的事我会照顾好的。",
+    "pinyin": "Nǐ fàng xīn qù ba, jiā lǐ de shì wǒ huì zhào gù hǎo de。",
+    "en": "Go without worry; I'll take good care of things at home."
+   },
+   {
+    "zh": "他答应会来,可到现在还没出现,是不是出事了?",
+    "pinyin": "Tā dā yìng huì lái, kě dào xiàn zài hái méi chū xiàn, shì bú shì chū shì le?",
+    "en": "He promised he'd come, but he's not here yet; did something happen?"
+   },
+   {
+    "zh": "只要用心去做,再难的事也会变得简单。",
+    "pinyin": "Zhǐ yào yòng xīn qù zuò, zài nán de shì yě huì biàn de jiǎn dān。",
+    "en": "As long as you do it wholeheartedly, even hard things become simple."
+   }
+  ]
+ },
+ {
+  "id": "g102",
+  "level": 2,
+  "title": "\"想\" ile istek/niyet",
+  "titleEn": "Expressing \"would like to\" with \"xiang\"",
+  "pattern": "想 + Fiil",
+  "summary": "\"想\" (xiǎng) bir fiilin önünde \"...-mek istemek, canı istemek\" anlamı verir: 我想去 = Gitmek istiyorum.",
+  "explanation": "\"想\" bir fiilin önüne gelerek bir istek, arzu ya da niyet bildirir: 我想喝咖啡 (Kahve içmek istiyorum), 他想去看电影 (Sinemaya gitmek istiyor). \"要\"dan daha yumuşak, daha istek/arzu odaklıdır (\"要\" daha kararlı/kesin niyet bildirir). Olumsuzu \"不想\" = \"...-mek istememek\": 我不想去 (Gitmek istemiyorum). \"想\" ayrıca tek başına bir fiil olarak \"düşünmek\" ve \"özlemek\" anlamlarına da gelir: 我想家 (Evimi/ailemi özlüyorum), 让我想想 (Bir düşüneyim). Bu konuda özellikle \"...-mek istemek\" (arzu) anlamını ele alıyoruz. Nazik isteklerde çok kullanılır.",
+  "examples": [
+   {
+    "zh": "忙了一整天,我现在只想回家好好睡一觉。",
+    "pinyin": "Máng le yī zhěng tiān, wǒ xiàn zài zhǐ xiǎng huí jiā hǎo hǎo shuì yī jiào。",
+    "en": "After a busy day, all I want now is to go home and sleep well."
+   },
+   {
+    "zh": "放假的时候,我想去海边待上几天,什么都不想。",
+    "pinyin": "Fàng jià de shí hòu, wǒ xiǎng qù hǎi biān dài shàng jǐ tiān, shén me dōu bù xiǎng。",
+    "en": "During the holiday, I want to spend a few days by the sea, thinking of nothing."
+   },
+   {
+    "zh": "他想学做菜,好在周末给家人露一手。",
+    "pinyin": "Tā xiǎng xué zuò cài, hǎo zài zhōu mò gěi jiā rén lòu yī shǒu。",
+    "en": "He wants to learn to cook so he can show off for his family on weekends."
+   },
+   {
+    "zh": "我不想去那家饭馆了,上次的菜太咸了。",
+    "pinyin": "Wǒ bù xiǎng qù nà jiā fàn guǎn le, shàng cì de cài tài xián le。",
+    "en": "I don't want to go to that restaurant again; last time the food was too salty."
+   },
+   {
+    "zh": "孩子说他想养一只小猫,天天缠着我们。",
+    "pinyin": "Hái zi shuō tā xiǎng yǎng yī zhī xiǎo māo, tiān tiān chán zhe wǒ men。",
+    "en": "The child says he wants a kitten and pesters us every day."
+   },
+   {
+    "zh": "这些年在外面,我特别想念家乡的味道。",
+    "pinyin": "Zhè xiē nián zài wài miàn, wǒ tè bié xiǎng niàn jiā xiāng de wèi dào。",
+    "en": "All these years away, I've really missed the taste of my hometown."
+   },
+   {
+    "zh": "你要是想说什么,就直接说,别憋在心里。",
+    "pinyin": "Nǐ yào shì xiǎng shuō shén me, jiù zhí jiē shuō, bié biē zài xīn lǐ。",
+    "en": "If you want to say something, just say it; don't bottle it up."
+   },
+   {
+    "zh": "天气这么好,我想出去走走,你陪我去吗?",
+    "pinyin": "Tiān qì zhè me hǎo, wǒ xiǎng chū qù zǒu zǒu, nǐ péi wǒ qù ma?",
+    "en": "The weather's so nice; I want to go for a walk, will you come?"
+   },
+   {
+    "zh": "我一直想学一门乐器,可是总找不到时间。",
+    "pinyin": "Wǒ yì zhí xiǎng xué yī mén yuè qì, kě shì zǒng zhǎo bú dào shí jiān。",
+    "en": "I've always wanted to learn an instrument, but I never find the time."
+   },
+   {
+    "zh": "他最近压力太大,只想找个安静的地方待着。",
+    "pinyin": "Tā zuì jìn yā lì tài dà, zhǐ xiǎng zhǎo gè ān jìng de dì fāng dài zhe。",
+    "en": "He's under a lot of stress lately and just wants a quiet place to be."
+   },
+   {
+    "zh": "我想请你帮个忙,不知道你方不方便。",
+    "pinyin": "Wǒ xiǎng qǐng nǐ bāng gè máng, bù zhī dào nǐ fāng bù fāng biàn。",
+    "en": "I'd like to ask you a favor, if it's convenient."
+   },
+   {
+    "zh": "放学以后,同学们都想快点回家看比赛。",
+    "pinyin": "Fàng xué yǐ hòu, tóng xué men dōu xiǎng kuài diǎn huí jiā kàn bǐ sài。",
+    "en": "After school, the students all want to hurry home to watch the match."
+   },
+   {
+    "zh": "我不想让父母担心,所以从来报喜不报忧。",
+    "pinyin": "Wǒ bù xiǎng ràng fù mǔ dān xīn, suǒ yǐ cóng lái bào xǐ bú bào yōu。",
+    "en": "I don't want to worry my parents, so I only share good news."
+   },
+   {
+    "zh": "你想吃点儿什么?我这就去给你做。",
+    "pinyin": "Nǐ xiǎng chī diǎn ér shén me? wǒ zhè jiù qù gěi nǐ zuò。",
+    "en": "What would you like to eat? I'll go make it for you now."
+   },
+   {
+    "zh": "这本书太好看了,我真想一口气把它读完。",
+    "pinyin": "Zhè běn shū tài hǎo kàn le, wǒ zhēn xiǎng yì kǒu qì bǎ tā dú wán。",
+    "en": "This book is so good; I really want to finish it in one go."
+   },
+   {
+    "zh": "这么多年过去了,我还是很想再见他一面。",
+    "pinyin": "Zhè me duō nián guò qù le, wǒ hái shì hěn xiǎng zài jiàn tā yí miàn。",
+    "en": "After all these years, I still really want to see him once more."
+   },
+   {
+    "zh": "他想换一份轻松点的工作,多陪陪孩子。",
+    "pinyin": "Tā xiǎng huàn yī fèn qīng sōng diǎn de gōng zuò, duō péi péi hái zi。",
+    "en": "He wants to switch to an easier job to spend more time with his kids."
+   },
+   {
+    "zh": "我想了很久,还是决定听从自己的心。",
+    "pinyin": "Wǒ xiǎng le hěn jiǔ, hái shì jué dìng tīng cóng zì jǐ de xīn。",
+    "en": "I thought about it for a long time and decided to follow my heart."
+   },
+   {
+    "zh": "外面太吵了,我实在不想在这儿待下去了。",
+    "pinyin": "Wài miàn tài chǎo le, wǒ shí zài bù xiǎng zài zhè ér dài xià qù le。",
+    "en": "It's too noisy outside; I really don't want to stay here anymore."
+   },
+   {
+    "zh": "每逢过节,在外的游子都特别想家。",
+    "pinyin": "Měi féng guò jié, zài wài de yóu zi dōu tè bié xiǎng jiā。",
+    "en": "Every festival, those away from home especially miss it."
+   },
+   {
+    "zh": "我想给妈妈买件礼物,可是不知道她喜欢什么。",
+    "pinyin": "Wǒ xiǎng gěi mā mā mǎi jiàn lǐ wù, kě shì bù zhī dào tā xǐ huān shén me。",
+    "en": "I want to buy mom a gift, but I don't know what she likes."
+   },
+   {
+    "zh": "如果有机会,我想去看看外面更大的世界。",
+    "pinyin": "Rú guǒ yǒu jī huì, wǒ xiǎng qù kàn kàn wài miàn gèng dà de shì jiè。",
+    "en": "If I get the chance, I want to see the bigger world out there."
+   },
+   {
+    "zh": "他现在只想安安静静地读书,别的什么都不想。",
+    "pinyin": "Tā xiàn zài zhǐ xiǎng ān ān jìng jìng de dú shū, bié de shén me dōu bù xiǎng。",
+    "en": "Right now he just wants to study quietly and think of nothing else."
+   },
+   {
+    "zh": "我不想跟你吵架,咱们心平气和地谈谈好吗?",
+    "pinyin": "Wǒ bù xiǎng gēn nǐ chǎo jià, zán men xīn píng qì hé de tán tán hǎo ma?",
+    "en": "I don't want to argue with you; can we talk calmly?"
+   },
+   {
+    "zh": "忙了这么久,真想好好休个假,什么都不管。",
+    "pinyin": "Máng le zhè me jiǔ, zhēn xiǎng hǎo hǎo xiū gè jiǎ, shén me dōu bù guǎn。",
+    "en": "After being busy so long, I really want a proper vacation, ignoring everything."
+   }
+  ]
+ },
+ {
+  "id": "g103",
+  "level": 2,
+  "title": "Ardışık eylemler (seri fiiller)",
+  "titleEn": "Actions in a row",
+  "pattern": "(Fiil Öbeği 1) + (Fiil Öbeği 2)",
+  "summary": "Bir özne art arda birkaç eylem yapıyorsa, fiiller olma SIRASINA göre yan yana dizilir: 我去商店买东西 = Alışverişe (gidip) mağazaya giderim.",
+  "explanation": "Aynı özne art arda birden çok eylem yapıyorsa, Çince bu fiilleri gerçekleşme SIRASINA göre üst üste dizer; araya bağlaç KOYMAYA gerek yoktur: 我去超市买菜 (Markete gidip sebze alırım). İlk fiil çoğu zaman ikincisinin amacını ya da yöntemini/aracını verir: 他坐飞机去北京 (Uçakla Pekin'e gider — 坐飞机 araç, 去北京 hedef). Türkçedeki \"...-ip / ...-erek\" mantığına benzer ama Çince sadece sırayla dizer. Fiillerin sırası olayların gerçek sırasını yansıtır; sırayı değiştirmek anlamı bozar. Bu, günlük dilde son derece yaygın bir yapıdır.",
+  "examples": [
+   {
+    "zh": "我下班以后要去超市买点儿菜回家做饭。",
+    "pinyin": "Wǒ xià bān yǐ hòu yào qù chāo shì mǎi diǎn ér cài huí jiā zuò fàn。",
+    "en": "After work I'll go to the supermarket, buy some vegetables, and cook at home."
+   },
+   {
+    "zh": "他每天早上坐地铁去公司上班。",
+    "pinyin": "Tā měi tiān zǎo shàng zuò dì tiě qù gōng sī shàng bān。",
+    "en": "Every morning he takes the subway to go to work."
+   },
+   {
+    "zh": "周末我想去图书馆借几本书看。",
+    "pinyin": "Zhōu mò wǒ xiǎng qù tú shū guǎn jiè jǐ běn shū kàn。",
+    "en": "This weekend I want to go to the library and borrow some books to read."
+   },
+   {
+    "zh": "妈妈上街买了些水果回来给我们吃。",
+    "pinyin": "Mā mā shàng jiē mǎi le xiē shuǐ guǒ huí lái gěi wǒ men chī。",
+    "en": "Mom went to the street, bought some fruit, and brought it back for us."
+   },
+   {
+    "zh": "我们打算开车去海边玩儿一天。",
+    "pinyin": "Wǒ men dǎ suàn kāi chē qù hǎi biān wán ér yī tiān。",
+    "en": "We plan to drive to the seaside and play for a day."
+   },
+   {
+    "zh": "他拿起电话给远方的父母报了个平安。",
+    "pinyin": "Tā ná qǐ diàn huà gěi yuǎn fāng de fù mǔ bào le gè píng ān。",
+    "en": "He picked up the phone and let his faraway parents know he was safe."
+   },
+   {
+    "zh": "孩子放学回家先写作业再看电视。",
+    "pinyin": "Hái zi fàng xué huí jiā xiān xiě zuò yè zài kàn diàn shì。",
+    "en": "After school the child goes home, does homework first, then watches TV."
+   },
+   {
+    "zh": "我要用这些鸡蛋和面粉做一个蛋糕。",
+    "pinyin": "Wǒ yào yòng zhè xiē jī dàn huó miàn fěn zuò yí gè dàn gāo。",
+    "en": "I'll use these eggs and flour to make a cake."
+   },
+   {
+    "zh": "他站起来走到窗边打开窗户透透气。",
+    "pinyin": "Tā zhàn qǐ lái zǒu dào chuāng biān dǎ kāi chuāng hù tòu tòu qì。",
+    "en": "He stood up, walked to the window, and opened it for some fresh air."
+   },
+   {
+    "zh": "下课以后我们一起去食堂吃午饭吧。",
+    "pinyin": "Xià kè yǐ hòu wǒ men yì qǐ qù shí táng chī wǔ fàn ba。",
+    "en": "After class let's go to the canteen together for lunch."
+   },
+   {
+    "zh": "她坐下来倒了杯茶,慢慢地跟我聊起了往事。",
+    "pinyin": "Tā zuò xià lái dào le bēi chá, màn màn de gēn wǒ liáo qǐ le wǎng shì。",
+    "en": "She sat down, poured a cup of tea, and slowly reminisced with me."
+   },
+   {
+    "zh": "我要去银行取点钱再去商场买件衣服。",
+    "pinyin": "Wǒ yào qù yín háng qǔ diǎn qián zài qù shāng chǎng mǎi jiàn yī fú。",
+    "en": "I'll go to the bank to withdraw money, then to the mall to buy clothes."
+   },
+   {
+    "zh": "爷爷每天早上去公园散步锻炼身体。",
+    "pinyin": "Yé yé měi tiān zǎo shàng qù gōng yuán sàn bù duàn liàn shēn tǐ。",
+    "en": "Grandpa goes to the park every morning to walk and exercise."
+   },
+   {
+    "zh": "他骑自行车去菜市场买了一大袋蔬菜。",
+    "pinyin": "Tā qí zì xíng chē qù cài shì chǎng mǎi le yī dà dài shū cài。",
+    "en": "He biked to the market and bought a big bag of vegetables."
+   },
+   {
+    "zh": "我们进屋放下行李就出去吃饭了。",
+    "pinyin": "Wǒ men jìn wū fàng xià xíng lǐ jiù chū qù chī fàn le。",
+    "en": "We went inside, put down our luggage, and went out to eat."
+   },
+   {
+    "zh": "你去厨房拿两个碗过来,我们准备吃饭。",
+    "pinyin": "Nǐ qù chú fáng ná liǎng gè wǎn guò lái, wǒ men zhǔn bèi chī fàn。",
+    "en": "Go to the kitchen and bring two bowls; we're about to eat."
+   },
+   {
+    "zh": "他每天下班回家陪孩子做游戏、讲故事。",
+    "pinyin": "Tā měi tiān xià bān huí jiā péi hái zi zuò yóu xì、 jiǎng gù shì。",
+    "en": "Every day after work he goes home to play games and tell stories with his kids."
+   },
+   {
+    "zh": "我想坐火车去外地看看不一样的风景。",
+    "pinyin": "Wǒ xiǎng zuò huǒ chē qù wài dì kàn kàn bù yí yàng de fēng jǐng。",
+    "en": "I want to take the train to another place and see different scenery."
+   },
+   {
+    "zh": "她关上电脑站起来伸了个懒腰,准备休息。",
+    "pinyin": "Tā guān shàng diàn nǎo zhàn qǐ lái shēn le gè lǎn yāo, zhǔn bèi xiū xī。",
+    "en": "She closed the computer, stood up, stretched, and got ready to rest."
+   },
+   {
+    "zh": "我们去公园拍了很多照片留作纪念。",
+    "pinyin": "Wǒ men qù gōng yuán pāi le hěn duō zhào piān liú zuò jì niàn。",
+    "en": "We went to the park and took many photos as keepsakes."
+   },
+   {
+    "zh": "他跑到楼下买了份早饭又匆匆赶回来。",
+    "pinyin": "Tā pǎo dào lóu xià mǎi le fèn zǎo fàn yòu cōng cōng gǎn huí lái。",
+    "en": "He ran downstairs, bought breakfast, and hurried back."
+   },
+   {
+    "zh": "放假我要回老家看看年迈的爷爷奶奶。",
+    "pinyin": "Fàng jià wǒ yào huí lǎo jiā kàn kàn nián mài de yé yé nǎi nǎi。",
+    "en": "During the holiday I'll go home to see my aging grandparents."
+   },
+   {
+    "zh": "你先去洗个手过来帮我一起包饺子。",
+    "pinyin": "Nǐ xiān qù xǐ gè shǒu guò lái bāng wǒ yì qǐ bāo jiǎo zi。",
+    "en": "Go wash your hands first, then come help me wrap dumplings."
+   },
+   {
+    "zh": "我打算下午去邮局寄封信再去趟书店。",
+    "pinyin": "Wǒ dǎ suàn xià wǔ qù yóu jú jì fēng xìn zài qù tàng shū diàn。",
+    "en": "This afternoon I plan to go to the post office to mail a letter, then to the bookstore."
+   },
+   {
+    "zh": "他每天晚上都要喝杯牛奶再上床睡觉。",
+    "pinyin": "Tā měi tiān wǎn shàng dōu yào hē bēi niú nǎi zài shàng chuáng shuì jiào。",
+    "en": "Every night he drinks a glass of milk before going to bed."
+   }
+  ]
+ },
+ {
+  "id": "g104",
+  "level": 2,
+  "title": "\"难\" ile \"...-ması zor / güç\"",
+  "titleEn": "Expressing \"difficult\" with \"nan\"",
+  "pattern": "难 + Fiil",
+  "summary": "\"难\" (nán) bir fiilin önüne gelip \"...-ması zor\" anlamı verir: 难写 = yazması zor; 难懂 = anlaşılması güç.",
+  "explanation": "\"难\" bir fiilin önüne gelerek o eylemin YAPILMASININ zor olduğunu belirtir ve bir tür sıfat gibi davranır: 这个字很难写 (Bu karakteri yazmak zor), 他的话很难懂 (Sözlerini anlamak güç), 这种菜很难做 (Bu yemeği yapmak zor). Karşıtı \"好\"dır: 好写 (yazması kolay), 好懂 (anlaşılır). \"难\" + fiil bileşiği \"很, 太, 真\" gibi zarflarla derecelendirilebilir: 太难找了 (bulması çok zor). Ayrıca \"难吃\" (tadı kötü), \"难看\" (çirkin), \"难听\" (kulağa hoş gelmeyen) gibi olumsuz değerlendirme bileşikleri de kurar. Bir eylemin zorluğunu anlatmanın en doğal yoludur.",
+  "examples": [
+   {
+    "zh": "这个汉字笔画太多,又难写又难记。",
+    "pinyin": "Zhè ge hàn zì bǐ huà tài duō, yòu nán xiě yòu nán jì。",
+    "en": "This character has too many strokes; it's hard to write and remember."
+   },
+   {
+    "zh": "他说话带着很重的口音,我们都觉得很难懂。",
+    "pinyin": "Tā shuō huà dài zhe hěn zhòng de kǒu yīn, wǒ men dōu jué de hěn nán dǒng。",
+    "en": "He speaks with a heavy accent, and we all find it hard to understand."
+   },
+   {
+    "zh": "这道菜看起来简单,做起来其实很难。",
+    "pinyin": "Zhè dào cài kàn qǐ lái jiǎn dān, zuò qǐ lái qí shí hěn nán。",
+    "en": "This dish looks simple, but it's actually hard to make."
+   },
+   {
+    "zh": "这种药很难买,好几家药店都没有。",
+    "pinyin": "Zhè zhǒng yào hěn nán mǎi, hǎo jǐ jiā yào diàn dōu méi yǒu。",
+    "en": "This medicine is hard to buy; several pharmacies didn't have it."
+   },
+   {
+    "zh": "他家住的地方特别难找,我们绕了半天才到。",
+    "pinyin": "Tā jiā zhù de dì fāng tè bié nán zhǎo, wǒ men rào le bàn tiān cái dào。",
+    "en": "His place is really hard to find; we circled around for ages before arriving."
+   },
+   {
+    "zh": "这本书写得太专业,普通人很难看懂。",
+    "pinyin": "Zhè běn shū xiě de tài zhuān yè, pǔ tōng rén hěn nán kàn dǒng。",
+    "en": "This book is too technical; ordinary people find it hard to follow."
+   },
+   {
+    "zh": "这么好的机会很难得,你可一定要抓住。",
+    "pinyin": "Zhè me hǎo de jī huì hěn nán de, nǐ kě yí dìng yào zhuā zhù。",
+    "en": "Such a good opportunity is rare; you must seize it."
+   },
+   {
+    "zh": "外面的路又黑又滑,晚上很难走。",
+    "pinyin": "Wài miàn de lù yòu hēi yòu huá, wǎn shàng hěn nán zǒu。",
+    "en": "The road outside is dark and slippery, hard to walk at night."
+   },
+   {
+    "zh": "他的脾气那么倔,这件事恐怕很难说服他。",
+    "pinyin": "Tā de pí qì nà me jué, zhè jiàn shì kǒng pà hěn nán shuō fú tā。",
+    "en": "He's so stubborn; this matter will be hard to convince him of."
+   },
+   {
+    "zh": "这种老式的零件现在很难找了,只能自己想办法。",
+    "pinyin": "Zhè zhǒng lǎo shì de líng jiàn xiàn zài hěn nán zhǎo le, zhǐ néng zì jǐ xiǎng bàn fǎ。",
+    "en": "This old-style part is hard to find now; you can only improvise."
+   },
+   {
+    "zh": "刚学汉语的时候,我觉得声调最难掌握。",
+    "pinyin": "Gāng xué hàn yǔ de shí hòu, wǒ jué de shēng diào zuì nán zhǎng wò。",
+    "en": "When I first learned Chinese, I found tones the hardest to master."
+   },
+   {
+    "zh": "那家饭馆的菜真难吃,我们再也不去了。",
+    "pinyin": "Nà jiā fàn guǎn de cài zhēn nán chī, wǒ men zài yě bù qù le。",
+    "en": "The food at that restaurant tastes terrible; we're never going again."
+   },
+   {
+    "zh": "这个问题很难回答,让我好好想一想。",
+    "pinyin": "Zhè ge wèn tí hěn nán huí dá, ràng wǒ hǎo hǎo xiǎng yī xiǎng。",
+    "en": "This question is hard to answer; let me think it over carefully."
+   },
+   {
+    "zh": "好东西往往来之不易,越难得到越要珍惜。",
+    "pinyin": "Hǎo dōng xī wǎng wǎng lái zhī bù yì, yuè nán dé dào yuè yào zhēn xī。",
+    "en": "Good things often come hard; the harder to get, the more to cherish."
+   },
+   {
+    "zh": "他画的画那么难看,自己却觉得很得意。",
+    "pinyin": "Tā huà de huà nà me nán kàn, zì jǐ què jué de hěn dé yì。",
+    "en": "His paintings are so ugly, yet he's quite pleased with them."
+   },
+   {
+    "zh": "这种感情一旦失去了,就很难再找回来。",
+    "pinyin": "Zhè zhǒng gǎn qíng yí dàn shī qù le, jiù hěn nán zài zhǎo huí lái。",
+    "en": "Once this kind of feeling is lost, it's hard to get back."
+   },
+   {
+    "zh": "春运的时候火车票特别难买,得提前很久抢。",
+    "pinyin": "Chūn yùn de shí hòu huǒ chē piào tè bié nán mǎi, de tí qián hěn jiǔ qiǎng。",
+    "en": "During the Spring Festival rush, train tickets are hard to buy; you must grab them early."
+   },
+   {
+    "zh": "这首歌唱得跑调了,听起来实在难听。",
+    "pinyin": "Zhè shǒu gē chàng de pǎo diào le, tīng qǐ lái shí zài nán tīng。",
+    "en": "This song is sung off-key; it really sounds unpleasant."
+   },
+   {
+    "zh": "他做事总是三分钟热度,很难坚持到底。",
+    "pinyin": "Tā zuò shì zǒng shì sān fēn zhōng rè dù, hěn nán jiān chí dào dǐ。",
+    "en": "He always starts with enthusiasm but finds it hard to see things through."
+   },
+   {
+    "zh": "这道数学题太难解了,全班没几个人做对。",
+    "pinyin": "Zhè dào shù xué tí tài nán jiě le, quán bān méi jǐ gè rén zuò duì。",
+    "en": "This math problem is too hard; few in the class got it right."
+   },
+   {
+    "zh": "好习惯难养成,坏习惯却很容易染上。",
+    "pinyin": "Hǎo xí guàn nán yǎng chéng, huài xí guàn què hěn róng yì rǎn shàng。",
+    "en": "Good habits are hard to form, but bad ones are easy to pick up."
+   },
+   {
+    "zh": "那位老人的方言很难听懂,我们只能连猜带比划。",
+    "pinyin": "Nà wèi lǎo rén de fāng yán hěn nán tīng dǒng, wǒ men zhǐ néng lián cāi dài bǐ huà。",
+    "en": "That old man's dialect is hard to understand; we had to guess and gesture."
+   },
+   {
+    "zh": "这种木头很硬,很难加工成想要的形状。",
+    "pinyin": "Zhè zhǒng mù tou hěn yìng, hěn nán jiā gōng chéng xiǎng yào de xíng zhuàng。",
+    "en": "This wood is very hard, difficult to shape as desired."
+   },
+   {
+    "zh": "这么大的房子,一个人打扫起来真难。",
+    "pinyin": "Zhè me dà de fáng zi, yí gè rén dǎ sǎo qǐ lái zhēn nán。",
+    "en": "Such a big house is really hard to clean by oneself."
+   },
+   {
+    "zh": "感情的事最难说清楚,外人很难明白。",
+    "pinyin": "Gǎn qíng de shì zuì nán shuō qīng chǔ, wài rén hěn nán míng bái。",
+    "en": "Matters of the heart are hardest to explain; outsiders can hardly understand."
+   }
+  ]
+ },
+ {
+  "id": "g105",
+  "level": 2,
+  "title": "\"从来\" ile \"hiçbir zaman, asla\"",
+  "titleEn": "Expressing \"never\" with \"conglai\"",
+  "pattern": "从来 + 不 / 没(有) + Fiil",
+  "summary": "\"从来\" (cónglái) olumsuzlukla birlikte \"hiçbir zaman, asla\" der: 我从来不抽烟 = Hiç sigara içmem; 他从来没来过 = Hiç gelmemişti.",
+  "explanation": "\"从来\" geçmişten bugüne SÜREGELEN bir durumu vurgular ve neredeyse her zaman OLUMSUZLUKLA kullanılır: \"从来不\" (hiçbir zaman ...-maz — alışkanlık/genel gerçek) ve \"从来没(有)...过\" (hiç ...-madı — deneyim yokluğu). 我从来不喝酒 (Hiç içki içmem), 我从来没见过这么大的雪 (Bu kadar büyük kar hiç görmedim). \"不\" ile şimdiki/genel bir reddi, \"没...过\" ile geçmişte hiç yaşanmamış bir deneyimi anlatır. \"从来\" vurguyu güçlendirir; \"asla, ömrümde bir kez bile\" tonu katar. Olumlu cümlede nadiren, ancak \"从来如此\" (hep böyleydi) gibi kalıplarda görülür.",
+  "examples": [
+   {
+    "zh": "他为人很正直,从来不说谎话骗人。",
+    "pinyin": "Tā wéi rén hěn zhèng zhí, cóng lái bù shuō huǎng huà piàn rén。",
+    "en": "He's an upright person and never lies to deceive people."
+   },
+   {
+    "zh": "我从来没吃过这么好吃的饺子,你手艺真棒。",
+    "pinyin": "Wǒ cóng lái méi chī guò zhè me hǎo chī de jiǎo zi, nǐ shǒu yì zhēn bàng。",
+    "en": "I've never eaten such delicious dumplings; your skill is amazing."
+   },
+   {
+    "zh": "她做事很认真,从来不迟到,也从来不早退。",
+    "pinyin": "Tā zuò shì hěn rèn zhēn, cóng lái bù chí dào, yě cóng lái bù zǎo tuì。",
+    "en": "She's very conscientious, never late and never leaving early."
+   },
+   {
+    "zh": "我活了这么大,从来没见过这么大的场面。",
+    "pinyin": "Wǒ huó le zhè me dà, cóng lái méi jiàn guò zhè me dà de chǎng miàn。",
+    "en": "In all my years, I've never seen such a grand scene."
+   },
+   {
+    "zh": "他从来不把困难放在眼里,总是勇往直前。",
+    "pinyin": "Tā cóng lái bù bǎ kùn nán fàng zài yǎn lǐ, zǒng shì yǒng wǎng zhí qián。",
+    "en": "He never lets difficulties intimidate him, always forging ahead."
+   },
+   {
+    "zh": "这些年他忙于工作,从来没好好陪过家人。",
+    "pinyin": "Zhè xiē nián tā máng yú gōng zuò, cóng lái méi hǎo hǎo péi guò jiā rén。",
+    "en": "All these years he's been busy with work and never properly spent time with family."
+   },
+   {
+    "zh": "我从来不相信天上会掉馅饼这种事。",
+    "pinyin": "Wǒ cóng lái bù xiāng xìn tiān shàng huì diào xiàn bǐng zhè zhǒng shì。",
+    "en": "I never believe in things like pie falling from the sky."
+   },
+   {
+    "zh": "奶奶年纪大了,可是从来没麻烦过我们。",
+    "pinyin": "Nǎi nǎi nián jì dà le, kě shì cóng lái méi má fán guò wǒ men。",
+    "en": "Grandma is old, yet she has never troubled us."
+   },
+   {
+    "zh": "他从来不炫耀自己的成绩,一直很谦虚。",
+    "pinyin": "Tā cóng lái bù xuàn yào zì jǐ de chéng jì, yì zhí hěn qiān xū。",
+    "en": "He never shows off his achievements and stays humble."
+   },
+   {
+    "zh": "我从来没想到,普普通通的一句话会改变我的一生。",
+    "pinyin": "Wǒ cóng lái méi xiǎng dào, pǔ pǔ tōng tōng de yī jù huà huì gǎi biàn wǒ de yī shēng。",
+    "en": "I never imagined an ordinary sentence would change my whole life."
+   },
+   {
+    "zh": "这家老店几十年了,味道从来没变过。",
+    "pinyin": "Zhè jiā lǎo diàn jǐ shí nián le, wèi dào cóng lái méi biàn guò。",
+    "en": "This old shop is decades old, and its flavor has never changed."
+   },
+   {
+    "zh": "他脾气特别好,我从来没见他发过火。",
+    "pinyin": "Tā pí qì tè bié hǎo, wǒ cóng lái méi jiàn tā fā guò huǒ。",
+    "en": "He has a great temper; I've never seen him lose it."
+   },
+   {
+    "zh": "我从来不在背后议论别人,那样太不厚道。",
+    "pinyin": "Wǒ cóng lái bù zài bèi hòu yì lùn bié rén, nà yàng tài bù hòu dào。",
+    "en": "I never gossip about people behind their backs; that's too unkind."
+   },
+   {
+    "zh": "她坚持锻炼,几十年如一日,从来没间断过。",
+    "pinyin": "Tā jiān chí duàn liàn, jǐ shí nián rú yí rì, cóng lái méi jiàn duàn guò。",
+    "en": "She's exercised consistently for decades, never once stopping."
+   },
+   {
+    "zh": "这么多年,他从来没忘记过对老师的感恩。",
+    "pinyin": "Zhè me duō nián, tā cóng lái méi wàng jì guò duì lǎo shī de gǎn ēn。",
+    "en": "All these years, he has never forgotten his gratitude to his teacher."
+   },
+   {
+    "zh": "我从来没求过别人,这次实在是没办法了。",
+    "pinyin": "Wǒ cóng lái méi qiú guò bié rén, zhè cì shí zài shì méi bàn fǎ le。",
+    "en": "I've never asked anyone for help; this time I truly have no choice."
+   },
+   {
+    "zh": "他从来不乱花钱,把每一分都用在该用的地方。",
+    "pinyin": "Tā cóng lái bù luàn huā qián, bǎ měi yī fēn dōu yòng zài gāi yòng de dì fāng。",
+    "en": "He never spends recklessly, using every cent where it's needed."
+   },
+   {
+    "zh": "这种事我从来没经历过,心里难免有些紧张。",
+    "pinyin": "Zhè zhǒng shì wǒ cóng lái méi jīng lì guò, xīn lǐ nán miǎn yǒu xiē jǐn zhāng。",
+    "en": "I've never been through this kind of thing, so I'm inevitably a bit nervous."
+   },
+   {
+    "zh": "他从来不轻易许诺,但答应了就一定做到。",
+    "pinyin": "Tā cóng lái bù qīng yì xǔ nuò, dàn dā yìng le jiù yí dìng zuò dào。",
+    "en": "He never promises lightly, but once he does he always follows through."
+   },
+   {
+    "zh": "长这么大,我从来没让父母操过这么大的心。",
+    "pinyin": "Zhǎng zhè me dà, wǒ cóng lái méi ràng fù mǔ cāo guò zhè me dà de xīn。",
+    "en": "In all my life, I've never made my parents worry so much."
+   },
+   {
+    "zh": "她从来不化妆,可是看起来总是干干净净、精精神神的。",
+    "pinyin": "Tā cóng lái bù huà zhuāng, kě shì kàn qǐ lái zǒng shì gān gān jìng jìng、 jīng jīng shén shén de。",
+    "en": "She never wears makeup, yet always looks clean and bright."
+   },
+   {
+    "zh": "我们是几十年的老朋友,他从来没骗过我。",
+    "pinyin": "Wǒ men shì jǐ shí nián de lǎo péng yǒu, tā cóng lái méi piàn guò wǒ。",
+    "en": "We've been friends for decades, and he's never once deceived me."
+   },
+   {
+    "zh": "他对工作从来一丝不苟,再小的细节也不放过。",
+    "pinyin": "Tā duì gōng zuò cóng lái yī sī bù gǒu, zài xiǎo de xì jié yě bù fàng guò。",
+    "en": "He's always meticulous about work, missing not even the smallest detail."
+   },
+   {
+    "zh": "我从来没后悔当初的选择,哪怕吃了不少苦。",
+    "pinyin": "Wǒ cóng lái méi hòu huǐ dāng chū de xuǎn zé, nǎ pà chī le bù shǎo kǔ。",
+    "en": "I've never regretted my original choice, even though it brought hardship."
+   },
+   {
+    "zh": "这条河的水一年四季从来没干过。",
+    "pinyin": "Zhè tiáo hé de shuǐ yī nián sì jì cóng lái méi gàn guò。",
+    "en": "The water in this river has never dried up in all four seasons."
+   }
+  ]
  }
 ]

@@ -98,53 +98,77 @@ def graft_missing_glyphs(target: TTFont, source: TTFont, codepoints: list[int]) 
     target["glyf"].compile(target)
 
 
-def main() -> None:
-    chars = collect_chars()
-    print(f"{len(chars)} unique characters in use")
+def build_from_scratch(chars: str) -> "TTFont":
+    """Fetch the full Noto Sans SC and subset it locally to `chars`.
 
-    # Google's CSS2 `text=` param reliably subsets Latin fonts, but for CJK
-    # requests with hundreds of characters it silently ignores the filter and
-    # returns the full ~30k-glyph font. Always subset locally with pyftsubset
-    # afterward so the shipped file only contains the glyphs actually used.
-    main_bytes = fetch_google_font_ttf("Noto+Sans+SC", chars)
+    Used only when no existing subset is present. The CSS2 `text=` param is
+    unreliable for very large CJK character sets (the URL can exceed the
+    server's length limit and 400), so a small fixed request is used just to
+    obtain the font URL, then it is subset locally with pyftsubset.
+    """
+    seed = "".join(sorted(set(chars)))[:200]
+    main_bytes = fetch_google_font_ttf("Noto+Sans+SC", seed)
     tmp_downloaded = OUT_PATH + ".downloaded.tmp"
     with open(tmp_downloaded, "wb") as f:
         f.write(main_bytes)
-
     tmp_main = OUT_PATH + ".tmp"
     unicodes = ",".join(f"U+{ord(c):04X}" for c in chars)
     subprocess.run(
-        [
-            "pyftsubset",
-            tmp_downloaded,
-            f"--unicodes={unicodes}",
-            f"--output-file={tmp_main}",
-            "--layout-features=*",
-        ],
+        ["pyftsubset", tmp_downloaded, f"--unicodes={unicodes}",
+         f"--output-file={tmp_main}", "--layout-features=*"],
         check=True,
     )
     os.remove(tmp_downloaded)
     target = TTFont(tmp_main)
+    os.remove(tmp_main)
+    return target
 
-    cmap = target.getBestCmap()
-    missing = [ord(c) for c in chars if ord(c) not in cmap]
-    if missing:
-        needed_turkish = [cp for cp in TURKISH_EXTRA_CODEPOINTS if cp in missing]
-        if needed_turkish:
-            extra_text = "".join(chr(cp) for cp in needed_turkish)
-            extra_bytes = fetch_google_font_ttf("Noto+Sans", extra_text)
-            tmp_extra = OUT_PATH + ".extra.tmp"
-            with open(tmp_extra, "wb") as f:
-                f.write(extra_bytes)
-            graft_missing_glyphs(target, TTFont(tmp_extra), needed_turkish)
-            os.remove(tmp_extra)
-            missing = [cp for cp in missing if cp not in needed_turkish]
 
-    if missing:
-        print("WARNING: still missing glyphs for:", [chr(c) for c in missing])
+def main() -> None:
+    chars = collect_chars()
+    print(f"{len(chars)} unique characters in use")
+
+    # Incremental design: the Google Fonts CSS2 `text=` endpoint 400s once the
+    # requested character set grows past a few hundred CJK glyphs (the encoded
+    # URL gets too long). So instead of re-downloading and re-subsetting every
+    # character on each run, start from the existing shipped subset and only
+    # fetch + graft the handful of glyphs newly introduced since last time.
+    # Each request therefore stays tiny and the pipeline scales indefinitely.
+    if os.path.exists(OUT_PATH):
+        target = TTFont(OUT_PATH)
+        cmap = target.getBestCmap()
+        missing = [ord(c) for c in chars if ord(c) not in cmap]
+    else:
+        target = build_from_scratch(chars)
+        cmap = target.getBestCmap()
+        missing = [ord(c) for c in chars if ord(c) not in cmap]
+
+    if not missing:
+        print("Font already covers every character; nothing to do.")
+        return
+
+    print(f"Grafting {len(missing)} new glyph(s): {''.join(chr(c) for c in missing)}")
+
+    # Turkish letters live in Noto Sans (Latin), everything else in Noto Sans SC.
+    needed_turkish = [cp for cp in missing if cp in TURKISH_EXTRA_CODEPOINTS]
+    needed_cjk = [cp for cp in missing if cp not in TURKISH_EXTRA_CODEPOINTS]
+
+    for family, cps in (("Noto+Sans+SC", needed_cjk), ("Noto+Sans", needed_turkish)):
+        if not cps:
+            continue
+        extra_text = "".join(chr(cp) for cp in cps)
+        extra_bytes = fetch_google_font_ttf(family, extra_text)
+        tmp_extra = OUT_PATH + ".extra.tmp"
+        with open(tmp_extra, "wb") as f:
+            f.write(extra_bytes)
+        graft_missing_glyphs(target, TTFont(tmp_extra), cps)
+        os.remove(tmp_extra)
+
+    still = [c for c in missing if ord(chr(c)) not in target.getBestCmap()]
+    if still:
+        print("WARNING: still missing glyphs for:", [chr(c) for c in still])
 
     target.save(OUT_PATH)
-    os.remove(tmp_main)
     print(f"Saved {OUT_PATH} ({os.path.getsize(OUT_PATH)} bytes)")
 
 

@@ -8658,7 +8658,7 @@
    },
    {
     "zh": "蓝色的天空下,孩子们在草地上快乐地跑着。",
-    "pinyin": "Lán sè de tiān kōng xià, hái zi men zài cǎo dì shàng kuài lè dì pǎo zhe。",
+    "pinyin": "Lán sè de tiān kōng xià, hái zi men zài cǎo dì shàng kuài lè de pǎo zhe。",
     "en": "Under the blue sky, the children run happily on the grass."
    },
    {
@@ -8960,7 +8960,7 @@
    },
    {
     "zh": "我最想去的地方是海边,能安安静静地待几天。",
-    "pinyin": "Wǒ zuì xiǎng qù de dì fāng shì hǎi biān, néng ān ān jìng jìng dì dài jǐ tiān。",
+    "pinyin": "Wǒ zuì xiǎng qù de dì fāng shì hǎi biān, néng ān ān jìng jìng de dài jǐ tiān。",
     "en": "The place I most want to go is the seaside, to stay quietly for a few days."
    },
    {
@@ -10174,7 +10174,7 @@
    },
    {
     "zh": "做菜的时候,盐一定要一点一点地放。",
-    "pinyin": "Zuò cài de shí hòu, yán yí dìng yào yì diǎn yì diǎn dì fàng。",
+    "pinyin": "Zuò cài de shí hòu, yán yí dìng yào yì diǎn yì diǎn de fàng。",
     "en": "When cooking, you must add salt little by little."
    },
    {
@@ -10295,7 +10295,7 @@
    },
    {
     "zh": "以后我想在海边买一间小房子,安静地生活。",
-    "pinyin": "Yǐ hòu wǒ xiǎng zài hǎi biān mǎi yī jiān xiǎo fáng zi, ān jìng dì shēng huó。",
+    "pinyin": "Yǐ hòu wǒ xiǎng zài hǎi biān mǎi yī jiān xiǎo fáng zi, ān jìng de shēng huó。",
     "en": "In the future I want to buy a small house by the sea and live quietly."
    },
    {
@@ -10592,7 +10592,7 @@
    },
    {
     "zh": "会议室里坐着十几个人,正在认真地讨论。",
-    "pinyin": "Huì yì shì lǐ zuò zhe shí jǐ gè rén, zhèng zài rèn zhēn dì tǎo lùn。",
+    "pinyin": "Huì yì shì lǐ zuò zhe shí jǐ gè rén, zhèng zài rèn zhēn de tǎo lùn。",
     "en": "A dozen or so people are seated in the meeting room, discussing seriously."
    },
    {
@@ -12236,6 +12236,686 @@
     "zh": "你看这花开得多好啊,香味都飘到屋里来了。",
     "pinyin": "Nǐ kàn zhè huā kāi de duō hǎo a, xiāng wèi dōu piāo dào wū lǐ lái le。",
     "en": "Look how beautifully these flowers bloom; the fragrance drifts into the house."
+   }
+  ]
+ },
+ {
+  "id": "g091",
+  "level": 2,
+  "title": "\"吧\" ile yumuşatma ve tahmin",
+  "titleEn": "Softening speech with \"ba\"",
+  "pattern": "... 吧",
+  "summary": "Cümle sonundaki \"吧\" (ba) öneri, rica ya da tahmini yumuşatır: 咱们走吧 = Hadi gidelim; 你是老师吧? = Öğretmensin, değil mi?",
+  "explanation": "\"吧\" cümle sonunda iki yumuşak ton katar: (1) ÖNERİ/RİCA — bir emir ya da teklifi nazikleştirir: 咱们走吧 (Hadi gidelim), 你休息一下吧 (Biraz dinlensene). Emirdeki sertliği azaltır. (2) TAHMİN — konuşmacının emin olmadığı bir varsayımı bildirir ve onay bekler: 他应该到了吧? (Gelmiştir herhâlde?), 你是新来的吧? (Yeni gelensin galiba?). Türkçedeki \"...-sene, hadi\" ve \"...-dır herhâlde, değil mi?\" tonlarına denk gelir. Emir/soru cümlesini yumuşatan çok yaygın bir parçacıktır.",
+  "examples": [
+   {
+    "zh": "时间不早了,咱们快点出发吧,别迟到了。",
+    "pinyin": "Shí jiān bù zǎo le, zán men kuài diǎn chū fā ba, bié chí dào le。",
+    "en": "It's getting late; let's set off soon so we're not late."
+   },
+   {
+    "zh": "你脸色不太好,先坐下来休息一会儿吧。",
+    "pinyin": "Nǐ liǎn sè bù tài hǎo, xiān zuò xià lái xiū xī yī huì er ba。",
+    "en": "You don't look well; sit down and rest for a bit first."
+   },
+   {
+    "zh": "这么晚了他还没回来,大概是加班了吧。",
+    "pinyin": "Zhè me wǎn le tā hái méi huí lái, dà gài shì jiā bān le ba。",
+    "en": "It's so late and he's not back yet; he's probably working overtime."
+   },
+   {
+    "zh": "你就是新搬来的邻居吧?欢迎欢迎!",
+    "pinyin": "Nǐ jiù shì xīn bān lái de lín jū ba? huān yíng huān yíng!",
+    "en": "You must be the neighbor who just moved in? Welcome!"
+   },
+   {
+    "zh": "天气这么好,我们出去走走吧,别老待在家里。",
+    "pinyin": "Tiān qì zhè me hǎo, wǒ men chū qù zǒu zǒu ba, bié lǎo dài zài jiā lǐ。",
+    "en": "The weather's so nice; let's go out for a walk instead of staying in."
+   },
+   {
+    "zh": "这道题这么简单,你应该会做吧?",
+    "pinyin": "Zhè dào tí zhè me jiǎn dān, nǐ yīng gāi huì zuò ba?",
+    "en": "This question is so easy; you should be able to do it, right?"
+   },
+   {
+    "zh": "你别难过了,事情总会好起来的,别想太多吧。",
+    "pinyin": "Nǐ bié nán guò le, shì qíng zǒng huì hǎo qǐ lái de, bié xiǎng tài duō ba。",
+    "en": "Don't be sad; things will get better, so don't overthink it."
+   },
+   {
+    "zh": "他学了这么多年汉语,说得应该很流利了吧。",
+    "pinyin": "Tā xué le zhè me duō nián hàn yǔ, shuō de yīng gāi hěn liú lì le ba。",
+    "en": "He's studied Chinese for years; he must speak it fluently by now."
+   },
+   {
+    "zh": "咱们点两个菜就够了吧?吃不完多浪费。",
+    "pinyin": "Zán men diǎn liǎng gè cài jiù gòu le ba? chī bù wán duō làng fèi。",
+    "en": "Two dishes should be enough for us, right? It's wasteful if we can't finish."
+   },
+   {
+    "zh": "你先把这份文件看一下吧,有问题随时问我。",
+    "pinyin": "Nǐ xiān bǎ zhè fèn wén jiàn kàn yī xià ba, yǒu wèn tí suí shí wèn wǒ。",
+    "en": "Take a look at this document first; ask me anytime if you have questions."
+   },
+   {
+    "zh": "外面在下雨,你带把伞吧,别淋湿了。",
+    "pinyin": "Wài miàn zài xià yǔ, nǐ dài bǎ sǎn ba, bié lín shī le。",
+    "en": "It's raining outside; take an umbrella so you don't get soaked."
+   },
+   {
+    "zh": "这个价钱差不多了,就买了吧,别再犹豫了。",
+    "pinyin": "Zhè ge jià qián chà bu duō le, jiù mǎi le ba, bié zài yóu yù le。",
+    "en": "This price is about right; let's just buy it and stop hesitating."
+   },
+   {
+    "zh": "你今天累了一天,早点睡吧,明天还要上班。",
+    "pinyin": "Nǐ jīn tiān lèi le yī tiān, zǎo diǎn shuì ba, míng tiān hái yào shàng bān。",
+    "en": "You've been tired all day; sleep early, you have work tomorrow."
+   },
+   {
+    "zh": "这么多年没见,你都快认不出我了吧?",
+    "pinyin": "Zhè me duō nián méi jiàn, nǐ dōu kuài rèn bù chū wǒ le ba?",
+    "en": "After so many years apart, you can hardly recognize me, can you?"
+   },
+   {
+    "zh": "咱们边走边聊吧,站在这儿说话太冷了。",
+    "pinyin": "Zán men biān zǒu biān liáo ba, zhàn zài zhè ér shuō huà tài lěng le。",
+    "en": "Let's talk while we walk; it's too cold to stand here talking."
+   },
+   {
+    "zh": "他刚才没接电话,大概是在开会吧。",
+    "pinyin": "Tā gāng cái méi jiē diàn huà, dà gài shì zài kāi huì ba。",
+    "en": "He didn't answer the phone just now; he's probably in a meeting."
+   },
+   {
+    "zh": "这件事你就别放在心上了吧,大家都理解你。",
+    "pinyin": "Zhè jiàn shì nǐ jiù bié fàng zài xīn shàng le ba, dà jiā dōu lǐ jiě nǐ。",
+    "en": "Don't take this to heart; everyone understands you."
+   },
+   {
+    "zh": "你尝尝这个汤吧,看看咸淡合不合适。",
+    "pinyin": "Nǐ cháng cháng zhè ge tāng ba, kàn kàn xián dàn hé bù hé shì。",
+    "en": "Try this soup and see if the seasoning is right."
+   },
+   {
+    "zh": "都到饭点了,你也饿了吧?一起吃点儿吧。",
+    "pinyin": "Dōu dào fàn diǎn le, nǐ yě è le ba? yì qǐ chī diǎn ér ba。",
+    "en": "It's mealtime; you must be hungry too? Let's eat together."
+   },
+   {
+    "zh": "这条路我们走了这么久,应该快到了吧。",
+    "pinyin": "Zhè tiáo lù wǒ men zǒu le zhè me jiǔ, yīng gāi kuài dào le ba。",
+    "en": "We've walked this road for so long; we should be almost there."
+   },
+   {
+    "zh": "你别客气了,把这些水果都拿去吃吧。",
+    "pinyin": "Nǐ bié kè qì le, bǎ zhè xiē shuǐ guǒ dōu ná qù chī ba。",
+    "en": "Don't be polite; take all this fruit and eat it."
+   },
+   {
+    "zh": "他今天没来上课,是不是生病了吧?",
+    "pinyin": "Tā jīn tiān méi lái shàng kè, shì bú shì shēng bìng le ba?",
+    "en": "He didn't come to class today; could he be sick?"
+   },
+   {
+    "zh": "咱们先在这儿等他一会儿吧,他说马上就到。",
+    "pinyin": "Zán men xiān zài zhè ér děng tā yī huì er ba, tā shuō mǎ shàng jiù dào。",
+    "en": "Let's wait here for him a while; he said he'd be here soon."
+   },
+   {
+    "zh": "这么重的箱子,还是让我来帮你搬吧。",
+    "pinyin": "Zhè me zhòng de xiāng zi, hái shì ràng wǒ lái bāng nǐ bān ba。",
+    "en": "Such a heavy box — let me help you carry it."
+   },
+   {
+    "zh": "你一个人在外地,平时要照顾好自己吧。",
+    "pinyin": "Nǐ yí gè rén zài wài dì, píng shí yào zhào gù hǎo zì jǐ ba。",
+    "en": "You're on your own away from home; take good care of yourself."
+   }
+  ]
+ },
+ {
+  "id": "g092",
+  "level": 2,
+  "title": "Yapısal parçacıklar: 的 / 得 / 地",
+  "titleEn": "Structural particle \"de\"",
+  "pattern": "的 (isim) / 得 (tümleç) / 地 (zarf)",
+  "summary": "Üçü de \"de\" okunur ama işlevleri farklıdır: 的 ismi niteler (漂亮的花), 得 tümleç bağlar (跑得快), 地 zarf yapar (认真地学).",
+  "explanation": "Çince'de üç ayrı \"de\" parçacığı aynı telaffuz edilir ama işlevleri farklıdır: (1) 的 — bir ismi niteleyen öbeği isme bağlar: 漂亮的花 (güzel çiçek), 我的书 (benim kitabım). (2) 地 — bir sözcüğü ZARFA çevirip fiili niteler: 认真地学习 (dikkatlice çalışmak), 高兴地笑 (sevinçle gülmek). (3) 得 — fiil/sıfattan sonra gelip bir TÜMLEÇ (nasıl/ne derece) bağlar: 跑得快 (hızlı koşuyor), 高兴得跳起来 (sevinçten zıpladı). Kısaca: 的 + isim, 地 + fiil (önünde niteleyici), fiil + 得 + tümleç. Telaffuzda hepsi \"de\"dir (地 burada dì değil de'dir); ayrım yazıda ve işlevdedir.",
+  "examples": [
+   {
+    "zh": "她穿着一条漂亮的裙子,高兴地走进了教室。",
+    "pinyin": "Tā chuān zhe yī tiáo piào liàng de qún zi, gāo xìng de zǒu jìn le jiào shì。",
+    "en": "Wearing a pretty dress, she walked happily into the classroom."
+   },
+   {
+    "zh": "他跑得很快,一会儿就跑得不见人影了。",
+    "pinyin": "Tā pǎo de hěn kuài, yī huì er jiù pǎo de bú jiàn rén yǐng le。",
+    "en": "He runs fast; in a moment he was out of sight."
+   },
+   {
+    "zh": "孩子认真地做着作业,写得又快又整齐。",
+    "pinyin": "Hái zi rèn zhēn de zuò zhe zuò yè, xiě de yòu kuài yòu zhěng qí。",
+    "en": "The child does the homework diligently, writing quickly and neatly."
+   },
+   {
+    "zh": "这是妈妈亲手做的菜,大家都吃得很开心。",
+    "pinyin": "Zhè shì mā mā qīn shǒu zuò de cài, dà jiā dōu chī de hěn kāi xīn。",
+    "en": "This is food mom made by hand; everyone ate happily."
+   },
+   {
+    "zh": "老师慢慢地讲,把这个难题解释得很清楚。",
+    "pinyin": "Lǎo shī màn màn de jiǎng, bǎ zhè ge nán tí jiě shì de hěn qīng chǔ。",
+    "en": "The teacher explained slowly, making this hard problem very clear."
+   },
+   {
+    "zh": "外面的雨下得很大,我们只好待在温暖的屋子里。",
+    "pinyin": "Wài miàn de yǔ xià de hěn dà, wǒ men zhǐ hǎo dài zài wēn nuǎn de wū zi lǐ。",
+    "en": "The rain outside is heavy, so we can only stay in the warm room."
+   },
+   {
+    "zh": "他小心地把杯子放好,生怕打碎了珍贵的礼物。",
+    "pinyin": "Tā xiǎo xīn de bǎ bēi zi fàng hǎo, shēng pà dǎ suì le zhēn guì de lǐ wù。",
+    "en": "He carefully set down the cup, afraid of breaking the precious gift."
+   },
+   {
+    "zh": "这个消息来得太突然,大家都惊讶得说不出话。",
+    "pinyin": "Zhè ge xiāo xī lái de tài tū rán, dà jiā dōu jīng yà de shuō bù chū huà。",
+    "en": "The news came so suddenly that everyone was too shocked to speak."
+   },
+   {
+    "zh": "她高兴地告诉我,她的努力终于得到了回报。",
+    "pinyin": "Tā gāo xìng de gào sù wǒ, tā de nǔ lì zhōng yú dé dào le huí bào。",
+    "en": "She happily told me that her efforts had finally paid off."
+   },
+   {
+    "zh": "他认真地听着老师的话,一句都没有漏掉。",
+    "pinyin": "Tā rèn zhēn de tīng zhe lǎo shī de huà, yī jù dōu méi yǒu lòu diào。",
+    "en": "He listened attentively to the teacher, missing not a single word."
+   },
+   {
+    "zh": "这条路又长又难走,我们走得非常辛苦。",
+    "pinyin": "Zhè tiáo lù yòu zhǎng yòu nán zǒu, wǒ men zǒu de fēi cháng xīn kǔ。",
+    "en": "This road is long and hard; we walked with great difficulty."
+   },
+   {
+    "zh": "弟弟开心地笑了,笑得眼睛都眯成了一条线。",
+    "pinyin": "Dì di kāi xīn de xiào le, xiào de yǎn jīng dōu mī chéng le yī tiáo xiàn。",
+    "en": "Little brother laughed happily, his eyes narrowing into lines."
+   },
+   {
+    "zh": "妈妈做的饭菜香喷喷的,我们都吃得饱饱的。",
+    "pinyin": "Mā mā zuò de fàn cài xiāng pēn pēn de, wǒ men dōu chī de bǎo bǎo de。",
+    "en": "The meal mom made smelled wonderful, and we all ate our fill."
+   },
+   {
+    "zh": "他悄悄地走进房间,怕吵醒熟睡的孩子。",
+    "pinyin": "Tā qiāo qiāo de zǒu jìn fáng jiān, pà chǎo xǐng shú shuì de hái zi。",
+    "en": "He tiptoed into the room, afraid of waking the sleeping child."
+   },
+   {
+    "zh": "这么重要的比赛,他准备得非常充分。",
+    "pinyin": "Zhè me zhòng yào de bǐ sài, tā zhǔn bèi de fēi cháng chōng fèn。",
+    "en": "For such an important match, he prepared very thoroughly."
+   },
+   {
+    "zh": "同学们高高兴兴地放假了,校园一下子安静了下来。",
+    "pinyin": "Tóng xué men gāo gāo xìng xìng de fàng jià le, xiào yuán yī xià zi ān jìng le xià lái。",
+    "en": "The students went off happily on holiday, and the campus suddenly went quiet."
+   },
+   {
+    "zh": "那位老人慢慢地走着,脸上带着温和的微笑。",
+    "pinyin": "Nà wèi lǎo rén màn màn de zǒu zhe, liǎn shàng dài zhe wēn hé de wēi xiào。",
+    "en": "The old man walked slowly, a gentle smile on his face."
+   },
+   {
+    "zh": "他的字写得很漂亮,是全班写得最好的一个。",
+    "pinyin": "Tā de zì xiě de hěn piào liàng, shì quán bān xiě de zuì hǎo de yí gè。",
+    "en": "His handwriting is beautiful, the best in the whole class."
+   },
+   {
+    "zh": "孩子们认真地听着爷爷讲那些古老的故事。",
+    "pinyin": "Hái zi men rèn zhēn de tīng zhe yé yé jiǎng nà xiē gǔ lǎo de gù shì。",
+    "en": "The children listened intently to grandpa telling those old stories."
+   },
+   {
+    "zh": "这场大雨下得又急又猛,街上的人都跑得飞快。",
+    "pinyin": "Zhè chǎng dà yǔ xià de yòu jí yòu měng, jiē shàng de rén dōu pǎo de fēi kuài。",
+    "en": "This downpour came fast and fierce, and everyone on the street ran quickly."
+   },
+   {
+    "zh": "她轻轻地关上门,不想打扰正在工作的丈夫。",
+    "pinyin": "Tā qīng qīng de guān shàng mén, bù xiǎng dǎ rǎo zhèng zài gōng zuò de zhàng fū。",
+    "en": "She gently closed the door, not wanting to disturb her working husband."
+   },
+   {
+    "zh": "我们玩得特别开心,连回家的时间都忘了。",
+    "pinyin": "Wǒ men wán de tè bié kāi xīn, lián huí jiā de shí jiān dōu wàng le。",
+    "en": "We had so much fun that we even forgot the time to go home."
+   },
+   {
+    "zh": "他仔细地检查了一遍,把每个错误都改得很认真。",
+    "pinyin": "Tā zǐ xì de jiǎn chá le yī biàn, bǎ měi gè cuò wù dōu gǎi de hěn rèn zhēn。",
+    "en": "He checked carefully and corrected every mistake conscientiously."
+   },
+   {
+    "zh": "那只小鸟自由地飞着,飞得越来越高。",
+    "pinyin": "Nà zhǐ xiǎo niǎo zì yóu de fēi zhe, fēi de yuè lái yuè gāo。",
+    "en": "The little bird flew freely, higher and higher."
+   },
+   {
+    "zh": "这道菜辣得我直流眼泪,可是还是忍不住地想吃。",
+    "pinyin": "Zhè dào cài là de wǒ zhí liú yǎn lèi, kě shì hái shì rěn bú zhù de xiǎng chī。",
+    "en": "This dish was so spicy it made me tear up, yet I couldn't help wanting more."
+   }
+  ]
+ },
+ {
+  "id": "g093",
+  "level": 2,
+  "title": "\"过\" ve \"了\" birlikte",
+  "titleEn": "Using \"guo\" with \"le\"",
+  "pattern": "Fiil + 过 + 了",
+  "summary": "\"过\" ve \"了\" birlikte gelince bir eylemin ARTIK tamamlandığını / yapılıp bitirildiğini vurgular: 我吃过了 = Yemeğimi yedim (yeme işi tamamlandı).",
+  "explanation": "\"过\" tek başına \"deneyim\" bildirir, ama \"过了\" birlikte kullanıldığında konuşma anına yakın, ARTIK tamamlanmış bir eylemi vurgular — çoğu zaman \"...-ı çoktan yaptım/bitirdim\" anlamında: 我吃过饭了 (Yemeği yedim / karnım tok), 药我已经吃过了 (İlacı aldım bile). Bu kullanımda \"过\" eylemin gerçekleştiğini, \"了\" ise bunun şu anki durumu etkileyen yeni bir gerçek olduğunu belirtir. \"已经\" ile sık gelir. Deneyim \"过\"sından farkı: burada belli, yakın zamanlı ve tamamlanmış bir eyleme vurgu vardır.",
+  "examples": [
+   {
+    "zh": "你们先吃,我已经吃过饭了,不饿。",
+    "pinyin": "Nǐ men xiān chī, wǒ yǐ jīng chī guò fàn le, bù è。",
+    "en": "You go ahead and eat; I've already eaten and I'm not hungry."
+   },
+   {
+    "zh": "这部电影我看过了,结局有点儿出人意料。",
+    "pinyin": "Zhè bù diàn yǐng wǒ kàn guò le, jié jú yǒu diǎn ér chū rén yì liào。",
+    "en": "I've already seen this movie; the ending is a bit unexpected."
+   },
+   {
+    "zh": "药我按时吃过了,你不用担心。",
+    "pinyin": "Yào wǒ àn shí chī guò le, nǐ bù yòng dān xīn。",
+    "en": "I've taken the medicine on time; don't worry."
+   },
+   {
+    "zh": "那本书我早就还过了,不在我这儿。",
+    "pinyin": "Nà běn shū wǒ zǎo jiù hái guò le, bù zài wǒ zhè ér。",
+    "en": "I returned that book long ago; it's not with me."
+   },
+   {
+    "zh": "这个地方我来过了,咱们换个新的地方玩吧。",
+    "pinyin": "Zhè ge dì fāng wǒ lái guò le, zán men huàn gè xīn de dì fāng wán ba。",
+    "en": "I've been to this place before; let's go somewhere new."
+   },
+   {
+    "zh": "会议的通知我已经发过了,大家应该都收到了。",
+    "pinyin": "Huì yì de tōng zhī wǒ yǐ jīng fā guò le, dà jiā yīng gāi dōu shōu dào le。",
+    "en": "I've already sent out the meeting notice; everyone should have gotten it."
+   },
+   {
+    "zh": "你放心,我跟他说过了,他答应会来帮忙。",
+    "pinyin": "Nǐ fàng xīn, wǒ gēn tā shuō guò le, tā dā yìng huì lái bāng máng。",
+    "en": "Rest assured, I've spoken to him and he agreed to come help."
+   },
+   {
+    "zh": "这道题老师讲过了,你怎么还是不会做?",
+    "pinyin": "Zhè dào tí lǎo shī jiǎng guò le, nǐ zěn me hái shì bú huì zuò?",
+    "en": "The teacher has already explained this problem; how can you still not do it?"
+   },
+   {
+    "zh": "水果我洗过了,放在桌上,你们随便吃。",
+    "pinyin": "Shuǐ guǒ wǒ xǐ guò le, fàng zài zhuō shàng, nǐ men suí biàn chī。",
+    "en": "I've washed the fruit; it's on the table, help yourselves."
+   },
+   {
+    "zh": "那家餐厅我们去过了,味道一般,不用再去了。",
+    "pinyin": "Nà jiā cān tīng wǒ men qù guò le, wèi dào yì bān, bù yòng zài qù le。",
+    "en": "We've been to that restaurant; it was mediocre, no need to go again."
+   },
+   {
+    "zh": "信我寄过了,大概过几天他就能收到。",
+    "pinyin": "Xìn wǒ jì guò le, dà gài guò jǐ tiān tā jiù néng shōu dào。",
+    "en": "I've mailed the letter; he should receive it in a few days."
+   },
+   {
+    "zh": "这些照片我都看过了,拍得真不错。",
+    "pinyin": "Zhè xiē zhào piān wǒ dōu kàn guò le, pāi de zhēn bù cuò。",
+    "en": "I've looked through all these photos; they're really well taken."
+   },
+   {
+    "zh": "你要问的那件事,我早就跟经理商量过了。",
+    "pinyin": "Nǐ yào wèn de nà jiàn shì, wǒ zǎo jiù gēn jīng lǐ shāng liáng guò le。",
+    "en": "That matter you want to ask about — I discussed it with the manager long ago."
+   },
+   {
+    "zh": "门窗我都检查过了,你放心去上班吧。",
+    "pinyin": "Mén chuāng wǒ dōu jiǎn chá guò le, nǐ fàng xīn qù shàng bān ba。",
+    "en": "I've checked all the doors and windows; go to work without worry."
+   },
+   {
+    "zh": "这个道理我小时候就懂过了,不用你再教我。",
+    "pinyin": "Zhè ge dào lǐ wǒ xiǎo shí hòu jiù dǒng guò le, bù yòng nǐ zài jiào wǒ。",
+    "en": "I understood this reasoning as a child; you needn't teach me again."
+   },
+   {
+    "zh": "车票我订过了,是明天上午九点的。",
+    "pinyin": "Chē piào wǒ dìng guò le, shì míng tiān shàng wǔ jiǔ diǎn de。",
+    "en": "I've booked the tickets; they're for nine tomorrow morning."
+   },
+   {
+    "zh": "这种苦我年轻的时候就吃过了,现在不怕了。",
+    "pinyin": "Zhè zhǒng kǔ wǒ nián qīng de shí hòu jiù chī guò le, xiàn zài bù pà le。",
+    "en": "I went through this hardship when young; I'm not afraid of it now."
+   },
+   {
+    "zh": "作业我写过了,现在可以出去玩一会儿了吧?",
+    "pinyin": "Zuò yè wǒ xiě guò le, xiàn zài kě yǐ chū qù wán yī huì er le ba?",
+    "en": "I've finished my homework; can I go out and play for a while now?"
+   },
+   {
+    "zh": "这个问题咱们上次开会已经讨论过了。",
+    "pinyin": "Zhè ge wèn tí zán men shàng cì kāi huì yǐ jīng tǎo lùn guò le。",
+    "en": "We already discussed this question at the last meeting."
+   },
+   {
+    "zh": "礼物我准备过了,就等着给她一个惊喜了。",
+    "pinyin": "Lǐ wù wǒ zhǔn bèi guò le, jiù děng zhe gěi tā yí gè jīng xǐ le。",
+    "en": "I've prepared the gift; now I'm just waiting to surprise her."
+   },
+   {
+    "zh": "那条路我走过了,又远又不好走,咱们绕一下吧。",
+    "pinyin": "Nà tiáo lù wǒ zǒu guò le, yòu yuǎn yòu bù hǎo zǒu, zán men rào yī xià ba。",
+    "en": "I've walked that road; it's far and hard, let's take a detour."
+   },
+   {
+    "zh": "你说的那个方法我试过了,可惜没什么用。",
+    "pinyin": "Nǐ shuō de nà ge fāng fǎ wǒ shì guò le, kě xī méi shén me yòng。",
+    "en": "I've tried the method you mentioned; unfortunately it didn't help."
+   },
+   {
+    "zh": "饭我做过了,菜也热过了,就等你回来吃了。",
+    "pinyin": "Fàn wǒ zuò guò le, cài yě rè guò le, jiù děng nǐ huí lái chī le。",
+    "en": "I've cooked the rice and reheated the dishes; just waiting for you to eat."
+   },
+   {
+    "zh": "这句话你已经说过好几遍了,我记住了。",
+    "pinyin": "Zhè jù huà nǐ yǐ jīng shuō guò hǎo jǐ biàn le, wǒ jì zhù le。",
+    "en": "You've said this several times already; I've got it."
+   },
+   {
+    "zh": "那个地方的风景我欣赏过了,确实名不虚传。",
+    "pinyin": "Nà ge dì fāng de fēng jǐng wǒ xīn shǎng guò le, què shí míng bù xū chuán。",
+    "en": "I've admired the scenery there; it truly lives up to its reputation."
+   }
+  ]
+ },
+ {
+  "id": "g094",
+  "level": 2,
+  "title": "\"比\" ile karşılaştırma",
+  "titleEn": "Basic comparisons with \"bi\"",
+  "pattern": "İsim 1 + 比 + İsim 2 + Sıfat",
+  "summary": "\"比\" (bǐ) iki şeyi karşılaştırır: A 比 B + sıfat = A, B'den daha ...: 他比我高 = O benden daha uzun.",
+  "explanation": "İki şeyi karşılaştırmak için temel kalıp: A + 比 + B + sıfat. 今天比昨天冷 (Bugün dünden soğuk), 他比我大三岁 (O benden üç yaş büyük). Sıfat YALIN kalır — Türkçedeki gibi ayrı bir \"daha\" sözcüğü GEREKMEZ; \"比\" zaten \"-den daha\" anlamını taşır. ÖNEMLİ HATA: \"比\" cümlesinde sıfattan önce \"很/非常\" KULLANILMAZ (他比我很高 yanlıştır). Farkın miktarı sıfattan sonra eklenir: 高一点儿 (biraz daha uzun), 大三岁 (üç yaş büyük), 便宜得多 (çok daha ucuz). Olumsuzu genelde \"没有\" ile kurulur: 我没有他高 (Ben onun kadar uzun değilim).",
+  "examples": [
+   {
+    "zh": "今天比昨天冷多了,你得多穿一件衣服。",
+    "pinyin": "Jīn tiān bǐ zuó tiān lěng duō le, nǐ děi duō chuān yī jiàn yī fú。",
+    "en": "Today is much colder than yesterday; you should wear an extra layer."
+   },
+   {
+    "zh": "他比我大三岁,可是看上去比我还年轻。",
+    "pinyin": "Tā bǐ wǒ dà sān suì, kě shì kàn shàng qù bǐ wǒ hái nián qīng。",
+    "en": "He's three years older than me, yet he looks even younger."
+   },
+   {
+    "zh": "坐高铁比坐飞机方便,不用提前很久到车站。",
+    "pinyin": "Zuò gāo tiě bǐ zuò fēi jī fāng biàn, bù yòng tí qián hěn jiǔ dào chē zhàn。",
+    "en": "Taking the high-speed rail is more convenient than flying; no need to arrive very early."
+   },
+   {
+    "zh": "这家店的东西比那家便宜,质量却一点儿不差。",
+    "pinyin": "Zhè jiā diàn de dōng xī bǐ nà jiā pián yi, zhì liàng què yì diǎn ér bù chà。",
+    "en": "This shop's goods are cheaper than that one's, yet the quality is just as good."
+   },
+   {
+    "zh": "弟弟比哥哥高一点儿,常常有人认错。",
+    "pinyin": "Dì di bǐ gē gē gāo yì diǎn ér, cháng cháng yǒu rén rèn cuò。",
+    "en": "The younger brother is a bit taller than the older one, so people often mix them up."
+   },
+   {
+    "zh": "今年的夏天比去年热得多,大家都不敢出门。",
+    "pinyin": "Jīn nián de xià tiān bǐ qù nián rè de duō, dà jiā dōu bù gǎn chū mén。",
+    "en": "This summer is much hotter than last year's; no one dares go out."
+   },
+   {
+    "zh": "他的汉语比我好,所以我常常向他请教。",
+    "pinyin": "Tā de hàn yǔ bǐ wǒ hǎo, suǒ yǐ wǒ cháng cháng xiàng tā qǐng jiào。",
+    "en": "His Chinese is better than mine, so I often ask him for advice."
+   },
+   {
+    "zh": "骑自行车比走路快,可是没有坐车舒服。",
+    "pinyin": "Qí zì xíng chē bǐ zǒu lù kuài, kě shì méi yǒu zuò chē shū fú。",
+    "en": "Cycling is faster than walking, but not as comfortable as riding."
+   },
+   {
+    "zh": "这次考试比上次难,很多同学都没考好。",
+    "pinyin": "Zhè cì kǎo shì bǐ shàng cì nán, hěn duō tóng xué dōu méi kǎo hǎo。",
+    "en": "This exam was harder than the last; many students didn't do well."
+   },
+   {
+    "zh": "乡下的空气比城里新鲜,住着特别舒服。",
+    "pinyin": "Xiāng xià de kōng qì bǐ chéng lǐ xīn xiān, zhù zhe tè bié shū fú。",
+    "en": "The countryside air is fresher than the city's; it's very comfortable to live there."
+   },
+   {
+    "zh": "妈妈做的饭比饭馆的还好吃,我最爱回家吃饭。",
+    "pinyin": "Mā mā zuò de fàn bǐ fàn guǎn de hái hǎo chī, wǒ zuì ài huí jiā chī fàn。",
+    "en": "Mom's cooking is even better than the restaurant's; I love eating at home most."
+   },
+   {
+    "zh": "他跑得比谁都快,是我们班的运动明星。",
+    "pinyin": "Tā pǎo de bǐ shéi dōu kuài, shì wǒ men bān de yùn dòng míng xīng。",
+    "en": "He runs faster than anyone; he's the sports star of our class."
+   },
+   {
+    "zh": "这条裙子比那条好看,可是价钱也贵不少。",
+    "pinyin": "Zhè tiáo qún zi bǐ nà tiáo hǎo kàn, kě shì jià qián yě guì bù shǎo。",
+    "en": "This dress is prettier than that one, but also quite a bit pricier."
+   },
+   {
+    "zh": "我们的新家比以前的大多了,还带一个小院子。",
+    "pinyin": "Wǒ men de xīn jiā bǐ yǐ qián de dà duō le, hái dài yí gè xiǎo yuàn zi。",
+    "en": "Our new home is much bigger than the old one, with a small yard too."
+   },
+   {
+    "zh": "身体比什么都重要,再多的钱也买不来健康。",
+    "pinyin": "Shēn tǐ bǐ shén me dōu zhòng yào, zài duō de qián yě mǎi bù lái jiàn kāng。",
+    "en": "Health matters more than anything; no amount of money can buy it."
+   },
+   {
+    "zh": "哥哥比弟弟懂事,总是让着他,照顾他。",
+    "pinyin": "Gē gē bǐ dì di dǒng shì, zǒng shì ràng zhe tā, zhào gù tā。",
+    "en": "The older brother is more sensible than the younger, always yielding to and caring for him."
+   },
+   {
+    "zh": "今天的月亮比平时圆,也比平时亮。",
+    "pinyin": "Jīn tiān de yuè liàng bǐ píng shí yuán, yě bǐ píng shí liàng。",
+    "en": "Tonight's moon is rounder and brighter than usual."
+   },
+   {
+    "zh": "这种方法比原来的省时间,大家都愿意用。",
+    "pinyin": "Zhè zhǒng fāng fǎ bǐ yuán lái de shěng shí jiān, dà jiā dōu yuàn yì yòng。",
+    "en": "This method saves more time than the old one, so everyone prefers it."
+   },
+   {
+    "zh": "他的经验比我丰富,遇到问题总能想出办法。",
+    "pinyin": "Tā de jīng yàn bǐ wǒ fēng fù, yù dào wèn tí zǒng néng xiǎng chū bàn fǎ。",
+    "en": "His experience is richer than mine; he always finds a solution to problems."
+   },
+   {
+    "zh": "这次的旅行比想象中还有意思,我们都玩得很尽兴。",
+    "pinyin": "Zhè cì de lǚ xíng bǐ xiǎng xiàng zhōng hái yǒu yì si, wǒ men dōu wán de hěn jìn xìng。",
+    "en": "This trip was even more fun than we imagined; we all enjoyed ourselves."
+   },
+   {
+    "zh": "冬天的白天比夏天短,天黑得也早得多。",
+    "pinyin": "Dōng tiān de bái tiān bǐ xià tiān duǎn, tiān hēi de yě zǎo de duō。",
+    "en": "Winter days are shorter than summer ones, and it gets dark much earlier."
+   },
+   {
+    "zh": "他写的字比我工整,看起来舒服多了。",
+    "pinyin": "Tā xiě de zì bǐ wǒ gōng zhěng, kàn qǐ lái shū fú duō le。",
+    "en": "His handwriting is neater than mine; it's much more pleasant to look at."
+   },
+   {
+    "zh": "这个孩子比同龄人成熟,说话做事很有分寸。",
+    "pinyin": "Zhè ge hái zi bǐ tóng líng rén chéng shú, shuō huà zuò shì hěn yǒu fēn cùn。",
+    "en": "This child is more mature than his peers, speaking and acting with good judgment."
+   },
+   {
+    "zh": "网上买东西有时比商店便宜,可是看不到实物。",
+    "pinyin": "Wǎng shàng mǎi dōng xī yǒu shí bǐ shāng diàn pián yi, kě shì kàn bú dào shí wù。",
+    "en": "Buying online is sometimes cheaper than in stores, but you can't see the actual item."
+   },
+   {
+    "zh": "今年的收成比去年好,农民们脸上都是笑容。",
+    "pinyin": "Jīn nián de shōu chéng bǐ qù nián hǎo, nóng mín men liǎn shàng dōu shì xiào róng。",
+    "en": "This year's harvest is better than last year's; the farmers are all smiles."
+   }
+  ]
+ },
+ {
+  "id": "g095",
+  "level": 2,
+  "title": "\"从...到...\" ile \"...-den ...-e\"",
+  "titleEn": "Expressing \"from... to...\" with \"cong... dao...\"",
+  "pattern": "从 ... 到 ...",
+  "summary": "\"从...到...\" (cóng...dào...) bir başlangıç ve bitiş noktasını belirtir; hem yer hem zaman için kullanılır: 从家到学校 = evden okula; 从早到晚 = sabahtan akşama.",
+  "explanation": "\"从...到...\" bir aralığın başını ve sonunu gösterir. Hem MEKÂN için — 从北京到上海 (Pekin'den Şanghay'a), 从家到公司 (evden şirkete) — hem de ZAMAN için — 从早上到晚上 (sabahtan akşama), 从星期一到星期五 (pazartesiden cumaya) kullanılır. \"从\" başlangıcı, \"到\" bitişi verir ve bu öbek genellikle fiilden önce, cümlenin başında ya da öznenin ardında yer alır. Mesafe/süre ölçmede ve bir işin kapsamını anlatmada çok yaygındır. Mecazi kullanımı da vardır: 从小到大 (küçüklükten büyüklüğe, hep).",
+  "examples": [
+   {
+    "zh": "从我家到公司,坐地铁大概要四十分钟。",
+    "pinyin": "Cóng wǒ jiā dào gōng sī, zuò dì tiě dà gài yào sì shí fēn zhōng。",
+    "en": "From my home to the office, the subway takes about forty minutes."
+   },
+   {
+    "zh": "他每天从早忙到晚,几乎没有休息的时间。",
+    "pinyin": "Tā měi tiān cóng zǎo máng dào wǎn, jī hū méi yǒu xiū xī de shí jiān。",
+    "en": "He's busy from morning to night every day, with almost no time to rest."
+   },
+   {
+    "zh": "从北京到上海,坐高铁只要五个小时。",
+    "pinyin": "Cóng běi jīng dào shàng hǎi, zuò gāo tiě zhǐ yào wǔ gè xiǎo shí。",
+    "en": "From Beijing to Shanghai, the high-speed rail takes only five hours."
+   },
+   {
+    "zh": "这家店从周一到周日都开门,非常方便。",
+    "pinyin": "Zhè jiā diàn cóng zhōu yī dào zhōu rì dōu kāi mén, fēi cháng fāng biàn。",
+    "en": "This shop is open from Monday to Sunday; very convenient."
+   },
+   {
+    "zh": "从小到大,妈妈一直是我最信任的人。",
+    "pinyin": "Cóng xiǎo dào dà, mā mā yì zhí shì wǒ zuì xìn rèn de rén。",
+    "en": "From childhood to adulthood, mom has always been the person I trust most."
+   },
+   {
+    "zh": "从这里到火车站不远,走路十几分钟就到了。",
+    "pinyin": "Cóng zhè lǐ dào huǒ chē zhàn bù yuǎn, zǒu lù shí jǐ fēn zhōng jiù dào le。",
+    "en": "It's not far from here to the train station; a ten-minute walk."
+   },
+   {
+    "zh": "我们从下午一直聊到深夜,谁都不觉得累。",
+    "pinyin": "Wǒ men cóng xià wǔ yì zhí liáo dào shēn yè, shéi dōu bù jué de lèi。",
+    "en": "We chatted from the afternoon into the deep night, and no one felt tired."
+   },
+   {
+    "zh": "从山脚到山顶,一路上的风景美得让人忘记疲劳。",
+    "pinyin": "Cóng shān jiǎo dào shān dǐng, yī lù shàng de fēng jǐng měi de ràng rén wàng jì pí láo。",
+    "en": "From the foot to the summit, the scenery makes you forget your fatigue."
+   },
+   {
+    "zh": "这门课从最基础的内容讲到比较难的部分。",
+    "pinyin": "Zhè mén kè cóng zuì jī chǔ de nèi róng jiǎng dào bǐ jiào nán de bù fèn。",
+    "en": "This course goes from the most basic content to the harder parts."
+   },
+   {
+    "zh": "从春天到秋天,这个公园的花几乎没断过。",
+    "pinyin": "Cóng chūn tiān dào qiū tiān, zhè ge gōng yuán de huā jī hū méi duàn guò。",
+    "en": "From spring to autumn, the flowers in this park hardly ever stop blooming."
+   },
+   {
+    "zh": "他从年轻到年老,一直住在这个小村子里。",
+    "pinyin": "Tā cóng nián qīng dào nián lǎo, yì zhí zhù zài zhè ge xiǎo cūn zi lǐ。",
+    "en": "From youth to old age, he has always lived in this small village."
+   },
+   {
+    "zh": "从早上八点到下午五点,他一直坐在电脑前工作。",
+    "pinyin": "Cóng zǎo shàng bā diǎn dào xià wǔ wǔ diǎn, tā yì zhí zuò zài diàn nǎo qián gōng zuò。",
+    "en": "From eight in the morning to five in the afternoon, he sat working at the computer."
+   },
+   {
+    "zh": "这条河从北向南,从我们村一直流到大海。",
+    "pinyin": "Zhè tiáo hé cóng běi xiàng nán, cóng wǒ men cūn yì zhí liú dào dà hǎi。",
+    "en": "This river runs from north to south, flowing from our village all the way to the sea."
+   },
+   {
+    "zh": "从认识到结婚,他们只用了短短半年时间。",
+    "pinyin": "Cóng rèn shí dào jié hūn, tā men zhǐ yòng le duǎn duǎn bàn nián shí jiān。",
+    "en": "From meeting to marrying, they took only a short half a year."
+   },
+   {
+    "zh": "孩子从一岁到三岁,变化真是太大了。",
+    "pinyin": "Hái zi cóng yī suì dào sān suì, biàn huà zhēn shì tài dà le。",
+    "en": "From age one to three, the change in a child is truly enormous."
+   },
+   {
+    "zh": "从这个星期一到下个星期五,他都要出差。",
+    "pinyin": "Cóng zhè ge xīng qī yī dào xià gè xīng qī wǔ, tā dōu yào chū chāi。",
+    "en": "From this Monday to next Friday, he'll be away on business."
+   },
+   {
+    "zh": "我从头到尾把这本书读了一遍,收获很大。",
+    "pinyin": "Wǒ cóng tóu dào wěi bǎ zhè běn shū dú le yī biàn, shōu huò hěn dà。",
+    "en": "I read this book from start to finish and gained a lot."
+   },
+   {
+    "zh": "从家门口到学校门口,这条路我走了整整六年。",
+    "pinyin": "Cóng jiā mén kǒu dào xué xiào mén kǒu, zhè tiáo lù wǒ zǒu le zhěng zhěng liù nián。",
+    "en": "From my front door to the school gate, I walked this road for a full six years."
+   },
+   {
+    "zh": "这场大雨从昨天晚上一直下到今天中午。",
+    "pinyin": "Zhè chǎng dà yǔ cóng zuó tiān wǎn shàng yì zhí xià dào jīn tiān zhōng wǔ。",
+    "en": "This heavy rain fell from last night all the way to noon today."
+   },
+   {
+    "zh": "从这个季度到下个季度,公司的目标提高了不少。",
+    "pinyin": "Cóng zhè ge jì dù dào xià gè jì dù, gōng sī de mù biāo tí gāo le bù shǎo。",
+    "en": "From this quarter to the next, the company's targets rose considerably."
+   },
+   {
+    "zh": "从第一页到最后一页,他做的笔记密密麻麻。",
+    "pinyin": "Cóng dì yī yè dào zuì hòu yī yè, tā zuò de bǐ jì mì mì má má。",
+    "en": "From the first page to the last, his notes are packed densely."
+   },
+   {
+    "zh": "从城东到城西,这座城市这几年变化很大。",
+    "pinyin": "Cóng chéng dōng dào chéng xī, zhè zuò chéng shì zhè jǐ nián biàn huà hěn dà。",
+    "en": "From the east side to the west, this city has changed a lot in recent years."
+   },
+   {
+    "zh": "他从早到晚都在照顾生病的母亲,一点儿不喊累。",
+    "pinyin": "Tā cóng zǎo dào wǎn dōu zài zhào gù shēng bìng de mǔ qīn, yì diǎn ér bù hǎn lèi。",
+    "en": "He cares for his sick mother from morning to night without complaining."
+   },
+   {
+    "zh": "这次培训从理论讲到实践,内容非常丰富。",
+    "pinyin": "Zhè cì péi xùn cóng lǐ lùn jiǎng dào shí jiàn, nèi róng fēi cháng fēng fù。",
+    "en": "This training goes from theory to practice; the content is very rich."
+   },
+   {
+    "zh": "从开始学习到能流利交流,她花了不到两年。",
+    "pinyin": "Cóng kāi shǐ xué xí dào néng liú lì jiāo liú, tā huā le bú dào liǎng nián。",
+    "en": "From beginning to study to communicating fluently, she took less than two years."
    }
   ]
  }

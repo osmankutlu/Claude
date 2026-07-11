@@ -30462,5 +30462,685 @@
     "en": "We once went hiking together; that experience was unforgettable."
    }
   ]
+ },
+ {
+  "id": "g225",
+  "level": 3,
+  "title": "Ayrılabilir fiiller (离合词)",
+  "titleEn": "Separable verb",
+  "pattern": "Fiil + Nesne (ayrılabilir: 睡觉 → 睡了觉)",
+  "summary": "Bazı fiiller aslında \"fiil + nesne\"dir ve araya başka öğe girebilir: 睡觉 → 睡了一觉; 见面 → 见了一次面.",
+  "explanation": "Çince'de birçok iki heceli fiil aslında \"fiil + nesne\" yapısındadır (离合词 = ayrılabilir sözcük): 睡觉 (睡=uyu + 觉=uyku), 见面 (见=gör + 面=yüz), 帮忙 (帮=yardım et + 忙=işi), 结婚 (结=bağla + 婚=evlilik), 生气 (生=doğur + 气=öfke). Bir tümleç, sayı-ölçü, \"了/过\" ya da bir niteleyici EKLENECEKSE bu iki parça AYRILIR ve araya girer: 睡了一觉 (bir uyku uyudu), 见过一次面 (bir kez görüşmüş), 帮了我一个大忙 (bana büyük bir yardım etti), 生他的气 (ona kızmak), 结过婚 (evlenmişliği var). ÖNEMLİ: Bu fiiller genelde ARKALARINA doğrudan bir nesne ALAMAZ (\"结婚他\" yanlış; \"跟他结婚\" doğru). Türkçede tek fiil gibi görünen ama Çince'de ikiye ayrılan bu yapılar öğrenirken çok hata kaynağıdır; parçaların arasına ekleme yapıldığını hatırlamak gerekir.",
+  "examples": [
+   {
+    "zh": "忙了一整天,晚上他美美地睡了一觉。",
+    "pinyin": "Máng le yī zhěng tiān, wǎn shàng tā měi měi de shuì le yī jiào。",
+    "en": "After a busy day, he had a good sleep at night."
+   },
+   {
+    "zh": "我们已经好几年没见面了,这次终于见了一面。",
+    "pinyin": "Wǒ men yǐ jīng hǎo jǐ nián méi jiàn miàn le, zhè cì zhōng yú jiàn le yí miàn。",
+    "en": "We hadn't met in years; this time we finally saw each other."
+   },
+   {
+    "zh": "非常感谢你,那次你帮了我一个大忙。",
+    "pinyin": "Fēi cháng gǎn xiè nǐ, nà cì nǐ bāng le wǒ yí gè dà máng。",
+    "en": "Thank you so much; you did me a big favor that time."
+   },
+   {
+    "zh": "他昨天跟我说,他打算明年跟女朋友结婚。",
+    "pinyin": "Tā zuó tiān gēn wǒ shuō, tā dǎ suàn míng nián gēn nǚ péng yǒu jié hūn。",
+    "en": "He told me yesterday he plans to marry his girlfriend next year."
+   },
+   {
+    "zh": "你别生我的气了,那天是我说话太冲了。",
+    "pinyin": "Nǐ bié shēng wǒ de qì le, nà tiān shì wǒ shuō huà tài chòng le。",
+    "en": "Don't be angry with me; I spoke too harshly that day."
+   },
+   {
+    "zh": "这件事我得先跟领导请个假,才能陪你去。",
+    "pinyin": "Zhè jiàn shì wǒ de xiān gēn lǐng dǎo qǐng gè jiǎ, cái néng péi nǐ qù。",
+    "en": "I must ask my boss for leave first before I can go with you."
+   },
+   {
+    "zh": "他洗了个澡,换上干净衣服,整个人清爽多了。",
+    "pinyin": "Tā xǐ le gè zǎo, huàn shàng gān jìng yī fú, zhěng gè rén qīng shuǎng duō le。",
+    "en": "He took a shower and changed into clean clothes, feeling much fresher."
+   },
+   {
+    "zh": "咱们一起照张相吧,留个纪念。",
+    "pinyin": "Zán men yì qǐ zhào zhāng xiāng ba, liú gè jì niàn。",
+    "en": "Let's take a photo together as a keepsake."
+   },
+   {
+    "zh": "他为了这件事,专门跟我道了个歉。",
+    "pinyin": "Tā wèi le zhè jiàn shì, zhuān mén gēn wǒ dào le gè qiàn。",
+    "en": "For this matter, he specially apologized to me."
+   },
+   {
+    "zh": "这么多年了,他一直没跟任何人结过婚。",
+    "pinyin": "Zhè me duō nián le, tā yì zhí méi gēn rèn hé rén jié guò hūn。",
+    "en": "All these years, he's never married anyone."
+   },
+   {
+    "zh": "孩子考试考砸了,回家挨了爸爸一顿骂。",
+    "pinyin": "Hái zi kǎo shì kǎo zá le, huí jiā āi le bà bà yī dùn mà。",
+    "en": "The child failed the exam and got a scolding from dad at home."
+   },
+   {
+    "zh": "我想跟你商量个事,你现在方便吗?",
+    "pinyin": "Wǒ xiǎng gēn nǐ shāng liáng gè shì, nǐ xiàn zài fāng biàn ma?",
+    "en": "I'd like to discuss something with you; are you free now?"
+   },
+   {
+    "zh": "他跳了一整晚的舞,累得腿都软了。",
+    "pinyin": "Tā tiào le yī zhěng wǎn de wǔ, lèi de tuǐ dōu ruǎn le。",
+    "en": "He danced all night until his legs went weak."
+   },
+   {
+    "zh": "这个周末我要好好睡个懒觉,补补觉。",
+    "pinyin": "Zhè ge zhōu mò wǒ yào hǎo hǎo shuì gè lǎn jiào, bǔ bǔ jué。",
+    "en": "This weekend I'll sleep in and catch up on rest."
+   },
+   {
+    "zh": "他俩离了婚以后,还是保持着朋友关系。",
+    "pinyin": "Tā liǎ lí le hūn yǐ hòu, hái shì bǎo chí zhe péng yǒu guān xì。",
+    "en": "After they divorced, they remained friends."
+   },
+   {
+    "zh": "你放心,这个忙我一定帮到底。",
+    "pinyin": "Nǐ fàng xīn, zhè ge máng wǒ yí dìng bāng dào dǐ。",
+    "en": "Rest assured; I'll help you all the way with this."
+   },
+   {
+    "zh": "刚才我们聊了很久的天,不知不觉就天黑了。",
+    "pinyin": "Gāng cái wǒ men liáo le hěn jiǔ de tiān, bù zhī bù jué jiù tiān hēi le。",
+    "en": "We chatted for a long while just now, and dusk fell unnoticed."
+   },
+   {
+    "zh": "他生了一场大病,在家休养了整整一个月。",
+    "pinyin": "Tā shēng le yī cháng dà bìng, zài jiā xiū yǎng le zhěng zhěng yí gè yuè。",
+    "en": "He had a serious illness and recuperated at home for a whole month."
+   },
+   {
+    "zh": "你先去洗把脸,清醒清醒再说。",
+    "pinyin": "Nǐ xiān qù xǐ bǎ liǎn, qīng xǐng qīng xǐng zài shuō。",
+    "en": "Go wash your face first to clear your head, then we'll talk."
+   },
+   {
+    "zh": "这件事你别急着下结论,先跟他见个面聊聊。",
+    "pinyin": "Zhè jiàn shì nǐ bié jí zhe xià jié lùn, xiān gēn tā jiàn gè miàn liáo liáo。",
+    "en": "Don't rush to conclude; first meet him and talk it over."
+   },
+   {
+    "zh": "我跟他打了个招呼,他好像没听见,径直走了。",
+    "pinyin": "Wǒ gēn tā dǎ le gè zhāo hū, tā hǎo xiàng méi tīng jiàn, jìng zhí zǒu le。",
+    "en": "I greeted him, but he seemed not to hear and walked straight on."
+   },
+   {
+    "zh": "为了减肥,他决定每天多跑几圈步。",
+    "pinyin": "Wèi le jiǎn féi, tā jué dìng měi tiān duō pǎo jǐ quān bù。",
+    "en": "To lose weight, he decided to run a few more laps daily."
+   },
+   {
+    "zh": "孩子发了一次高烧,可把全家人急坏了。",
+    "pinyin": "Hái zi fā le yī cì gāo shāo, kě bǎ quán jiā rén jí huài le。",
+    "en": "The child ran a high fever once, worrying the whole family."
+   },
+   {
+    "zh": "咱们排了这么久的队,可算轮到我们了。",
+    "pinyin": "Zán men pái le zhè me jiǔ de duì, kě suàn lún dào wǒ men le。",
+    "en": "We've queued so long; it's finally our turn."
+   },
+   {
+    "zh": "他鼓起勇气,向暗恋多年的女孩表了白。",
+    "pinyin": "Tā gǔ qǐ yǒng qì, xiàng àn liàn duō nián de nǚ hái biǎo le bái。",
+    "en": "He worked up the courage and confessed to the girl he'd long loved."
+   }
+  ]
+ },
+ {
+  "id": "g226",
+  "level": 3,
+  "title": "Fiil + \"给\" ile aktarma",
+  "titleEn": "Verbs followed by \"gei\"",
+  "pattern": "Özne + Fiil + 给 + Alıcı + Nesne",
+  "summary": "Bazı aktarma fiillerinden sonra \"给\" gelip alıcıyı gösterir: 送给你一本书 = sana bir kitap hediye etmek; 交给老师 = öğretmene teslim etmek.",
+  "explanation": "Bir şeyin bir kişiye AKTARILDIĞINI/verildiğini gösteren fiillerden sonra \"给 + alıcı\" gelir: Fiil + 给 + kişi + (nesne). 我送给他一份礼物 (Ona bir hediye verdim), 请把作业交给老师 (Ödevi öğretmene teslim et), 他递给我一杯水 (Bana bir bardak su uzattı). Bu yapı özellikle bir şeyin el DEĞİŞTİRDİĞİ fiillerle kullanılır: 送 (hediye et), 交 (teslim et), 递 (uzat), 卖 (sat), 借 (ödünç ver), 还 (geri ver), 寄 (postala), 留 (bırak). \"给\" burada fiile bitişik bir tamamlayıcıdır ve alıcıyı fiilin ARDINDAN tanıtır. Fiilden ÖNCE gelen \"给\" (bkz. ayrı konu) yarar/amaç vurgularken, fiilden SONRAKİ \"给\" doğrudan aktarımın alıcısını gösterir. Türkçedeki \"...-e vermek/hediye etmek/teslim etmek\" yönelme yapısına denk gelir.",
+  "examples": [
+   {
+    "zh": "他送给我一本自己写的书,还认真地签了名。",
+    "pinyin": "Tā sòng gěi wǒ yī běn zì jǐ xiě de shū, hái rèn zhēn de qiān le míng。",
+    "en": "He gave me a book he wrote and signed it earnestly."
+   },
+   {
+    "zh": "请你把这份文件交给经理,他正在等着看。",
+    "pinyin": "Qǐng nǐ bǎ zhè fèn wén jiàn jiāo gěi jīng lǐ, tā zhèng zài děng zhe kàn。",
+    "en": "Please hand this document to the manager; he's waiting to see it."
+   },
+   {
+    "zh": "妈妈递给我一杯热牛奶,让我暖暖身子。",
+    "pinyin": "Mā mā dì gěi wǒ yī bēi rè niú nǎi, ràng wǒ nuǎn nuǎn shēn zi。",
+    "en": "Mom handed me a hot milk to warm myself up."
+   },
+   {
+    "zh": "他把自己的旧自行车便宜卖给了邻居家的孩子。",
+    "pinyin": "Tā bǎ zì jǐ de jiù zì xíng chē pián yi mài gěi le lín jū jiā de hái zi。",
+    "en": "He sold his old bike cheaply to the neighbor's child."
+   },
+   {
+    "zh": "我借给他的那本书,到现在还没还给我呢。",
+    "pinyin": "Wǒ jiè gěi tā de nà běn shū, dào xiàn zài hái méi huán gěi wǒ ne。",
+    "en": "The book I lent him still hasn't been returned to me."
+   },
+   {
+    "zh": "这些照片我发给你了,你收到了记得回复一下。",
+    "pinyin": "Zhè xiē zhào piān wǒ fā gěi nǐ le, nǐ shōu dào le jì de huí fù yī xià。",
+    "en": "I sent you these photos; reply when you get them."
+   },
+   {
+    "zh": "过节的时候,他寄给远方的父母不少家乡特产。",
+    "pinyin": "Guò jié de shí hòu, tā jì gěi yuǎn fāng de fù mǔ bù shǎo jiā xiāng tè chǎn。",
+    "en": "During the festival, he mailed his faraway parents many local specialties."
+   },
+   {
+    "zh": "走的时候,她留给我一封长长的信。",
+    "pinyin": "Zǒu de shí hòu, tā liú gěi wǒ yī fēng cháng cháng de xìn。",
+    "en": "When she left, she left me a long letter."
+   },
+   {
+    "zh": "老师把批改好的作业一本本发给了同学们。",
+    "pinyin": "Lǎo shī bǎ pī gǎi hǎo de zuò yè yī běn běn fā gěi le tóng xué men。",
+    "en": "The teacher handed the graded homework back to the students one by one."
+   },
+   {
+    "zh": "他把中奖的好消息第一时间告诉给了家人。",
+    "pinyin": "Tā bǎ zhòng jiǎng de hǎo xiāo xī dì yī shí jiān gào sù gěi le jiā rén。",
+    "en": "He told his family the good news of winning at once."
+   },
+   {
+    "zh": "请你转交给他,就说这是我的一点心意。",
+    "pinyin": "Qǐng nǐ zhuǎn jiāo gěi tā, jiù shuō zhè shì wǒ de yì diǎn xīn yì。",
+    "en": "Please pass this to him and say it's a small token from me."
+   },
+   {
+    "zh": "售货员找给我五块钱,又递给我一张购物小票。",
+    "pinyin": "Shòu huò yuán zhǎo gěi wǒ wǔ kuài qián, yòu dì gěi wǒ yī zhāng gòu wù xiǎo piào。",
+    "en": "The clerk gave me five yuan change and a receipt."
+   },
+   {
+    "zh": "他把祖传的手艺毫无保留地传给了徒弟。",
+    "pinyin": "Tā bǎ zǔ chuán de shǒu yì háo wú bǎo liú de chuán gěi le tú dì。",
+    "en": "He passed his ancestral craft to his apprentice without reservation."
+   },
+   {
+    "zh": "我把钥匙交给了门卫,让他帮忙保管一下。",
+    "pinyin": "Wǒ bǎ yào shi jiāo gěi le mén wèi, ràng tā bāng máng bǎo guǎn yī xià。",
+    "en": "I gave the keys to the guard for safekeeping."
+   },
+   {
+    "zh": "每次做了好吃的,奶奶总要分给街坊邻居一些。",
+    "pinyin": "Měi cì zuò le hǎo chī de, nǎi nǎi zǒng yào fēn gěi jiē fāng lín jū yī xiē。",
+    "en": "Whenever grandma makes something tasty, she shares some with the neighbors."
+   },
+   {
+    "zh": "他悄悄塞给我一张纸条,上面写着一行字。",
+    "pinyin": "Tā qiāo qiāo sāi gěi wǒ yī zhāng zhǐ tiáo, shàng miàn xiě zhe yī xíng zì。",
+    "en": "He quietly slipped me a note with a line written on it."
+   },
+   {
+    "zh": "请把这杯茶端给那位客人,他等了有一会儿了。",
+    "pinyin": "Qǐng bǎ zhè bēi chá duān gěi nà wèi kè rén, tā děng le yǒu yī huì er le。",
+    "en": "Please bring this tea to that guest; he's waited a while."
+   },
+   {
+    "zh": "他把辛苦攒下的钱全都交给了母亲保管。",
+    "pinyin": "Tā bǎ xīn kǔ zǎn xià de qián quán dōu jiāo gěi le mǔ qīn bǎo guǎn。",
+    "en": "He gave all his hard-earned savings to his mother to keep."
+   },
+   {
+    "zh": "我把地址发给你了,东西寄到那儿就行。",
+    "pinyin": "Wǒ bǎ dì zhǐ fā gěi nǐ le, dōng xī jì dào nà ér jiù xíng。",
+    "en": "I sent you the address; just mail the things there."
+   },
+   {
+    "zh": "这件毛衣是妈妈亲手织了送给我的生日礼物。",
+    "pinyin": "Zhè jiàn máo yī shì mā mā qīn shǒu zhī le sòng gěi wǒ de shēng rì lǐ wù。",
+    "en": "This sweater is a birthday gift mom knitted for me by hand."
+   },
+   {
+    "zh": "请你把这个好消息带给大家,让他们也高兴高兴。",
+    "pinyin": "Qǐng nǐ bǎ zhè ge hǎo xiāo xī dài gěi dà jiā, ràng tā men yě gāo xìng gāo xìng。",
+    "en": "Please bring this good news to everyone so they can be happy too."
+   },
+   {
+    "zh": "他把最后一个座位让给了一位抱孩子的妇女。",
+    "pinyin": "Tā bǎ zuì hòu yí gè zuò wèi ràng gěi le yī wèi bào hái zi de fù nǚ。",
+    "en": "He gave up the last seat to a woman holding a child."
+   },
+   {
+    "zh": "老板发给每位员工一个红包,以表示感谢。",
+    "pinyin": "Lǎo bǎn fā gěi měi wèi yuán gōng yí gè hóng bāo, yǐ biǎo shì gǎn xiè。",
+    "en": "The boss gave each employee a red envelope to show thanks."
+   },
+   {
+    "zh": "我把复习资料复印了一份,分给了同桌。",
+    "pinyin": "Wǒ bǎ fù xí zī liào fù yìn le yī fèn, fēn gěi le tóng zhuō。",
+    "en": "I made a copy of the review materials and gave it to my deskmate."
+   },
+   {
+    "zh": "临走前,他把钥匙郑重地交给了新来的负责人。",
+    "pinyin": "Lín zǒu qián, tā bǎ yào shi zhèng zhòng de jiāo gěi le xīn lái de fù zé rén。",
+    "en": "Before leaving, he solemnly handed the keys to the new manager."
+   }
+  ]
+ },
+ {
+  "id": "g227",
+  "level": 3,
+  "title": "\"给\" + hedef + fiil (fiil önü)",
+  "titleEn": "Verbs preceded by \"gei\"",
+  "pattern": "Özne + 给 + Hedef + Fiil + Nesne",
+  "summary": "Fiilden ÖNCE gelen \"给\" bir eylemin kimin için/kime yönelik yapıldığını gösterir: 给老师送花 = öğretmene çiçek götürmek; 给孩子做饭 = çocuk için yemek yapmak.",
+  "explanation": "\"给 + hedef\" öbeği FİİLDEN ÖNCE geldiğinde bir eylemin KİME yönelik ya da KİMİN İÇİN yapıldığını belirtir: Özne + 给 + kişi + fiil + nesne. 我给你倒杯茶 (Sana çay koyayım), 妈妈给孩子讲故事 (Anne çocuğa masal anlatıyor), 他给我们介绍了新同事 (Bize yeni meslektaşı tanıttı). Bu, fiilden SONRA gelen \"给\" (doğrudan aktarım alıcısı) yapısıyla ilişkilidir; çoğu cümlede ikisi de kullanılabilir (送给他 ≈ 给他送), ama fiil-önü \"给\" daha çok bir hizmet/yarar (birinin İÇİN bir şey yapmak) vurgular ve aktarım içermeyen fiillerle de gelir: 给你帮忙 (sana yardım etmek), 给大家鼓掌 (herkese alkış tutmak). Türkçedeki \"... için, ...-e (bir şey yapmak)\" yönelme/yarar anlamına denk gelir; bir eylemin yöneldiği kişiyi fiilden önce belirtir.",
+  "examples": [
+   {
+    "zh": "你先坐,我给你倒杯水,润润嗓子。",
+    "pinyin": "Nǐ xiān zuò, wǒ gěi nǐ dào bēi shuǐ, rùn rùn sǎng zi。",
+    "en": "Sit first; let me pour you some water to soothe your throat."
+   },
+   {
+    "zh": "每天晚上,妈妈都要给孩子讲一个睡前故事。",
+    "pinyin": "Měi tiān wǎn shàng, mā mā dōu yào gěi hái zi jiǎng yí gè shuì qián gù shì。",
+    "en": "Every night, mom tells the child a bedtime story."
+   },
+   {
+    "zh": "他热情地给我们介绍了这座城市的历史。",
+    "pinyin": "Tā rè qíng de gěi wǒ men jiè shào le zhè zuò chéng shì de lì shǐ。",
+    "en": "He warmly introduced this city's history to us."
+   },
+   {
+    "zh": "周末我打算给家里人做一顿丰盛的晚餐。",
+    "pinyin": "Zhōu mò wǒ dǎ suàn gěi jiā lǐ rén zuò yī dùn fēng shèng de wǎn cān。",
+    "en": "This weekend I plan to cook the family a lavish dinner."
+   },
+   {
+    "zh": "护士细心地给病人量了体温,又记录下来。",
+    "pinyin": "Hù shì xì xīn de gěi bìng rén liàng le tǐ wēn, yòu jì lù xià lái。",
+    "en": "The nurse carefully took the patient's temperature and recorded it."
+   },
+   {
+    "zh": "演出结束后,观众们热烈地给演员们鼓掌。",
+    "pinyin": "Yǎn chū jié shù hòu, guān zhòng men rè liè de gěi yǎn yuán men gǔ zhǎng。",
+    "en": "After the show, the audience applauded the performers warmly."
+   },
+   {
+    "zh": "有困难别自己扛,我们都愿意给你帮忙。",
+    "pinyin": "Yǒu kùn nán bié zì jǐ káng, wǒ men dōu yuàn yì gěi nǐ bāng máng。",
+    "en": "Don't bear difficulties alone; we're all willing to help you."
+   },
+   {
+    "zh": "他利用假期给村里的孩子们免费补课。",
+    "pinyin": "Tā lì yòng jià qī gěi cūn lǐ de hái zi men miǎn fèi bǔ kè。",
+    "en": "He tutors the village children for free during the holidays."
+   },
+   {
+    "zh": "我给你留了饭,在锅里热着呢,快去吃吧。",
+    "pinyin": "Wǒ gěi nǐ liú le fàn, zài guō lǐ rè zhe ne, kuài qù chī ba。",
+    "en": "I saved you food warming in the pot; go eat."
+   },
+   {
+    "zh": "老师耐心地给我们解释了这道题的每一步。",
+    "pinyin": "Lǎo shī nài xīn de gěi wǒ men jiě shì le zhè dào tí de měi yī bù。",
+    "en": "The teacher patiently explained every step of the problem to us."
+   },
+   {
+    "zh": "过生日那天,朋友们一起给他唱了生日歌。",
+    "pinyin": "Guò shēng rì nà tiān, péng yǒu men yì qǐ gěi tā chàng le shēng rì gē。",
+    "en": "On his birthday, friends sang him the birthday song together."
+   },
+   {
+    "zh": "妈妈正在给孩子洗澡,你别在这时候打扰她。",
+    "pinyin": "Mā mā zhèng zài gěi hái zi xǐ zǎo, nǐ bié zài zhè shí hòu dǎ rǎo tā。",
+    "en": "Mom is bathing the child; don't disturb her right now."
+   },
+   {
+    "zh": "他每天都给阳台上的那些花浇水、施肥。",
+    "pinyin": "Tā měi tiān dōu gěi yáng tái shàng de nà xiē huā jiāo shuǐ、 shī féi。",
+    "en": "He waters and fertilizes the balcony flowers every day."
+   },
+   {
+    "zh": "请你给大家表演一个节目,活跃一下气氛。",
+    "pinyin": "Qǐng nǐ gěi dà jiā biǎo yǎn yí gè jié mù, huó yuè yī xià qì fēn。",
+    "en": "Please perform something for everyone to lighten the mood."
+   },
+   {
+    "zh": "爸爸答应给我买一辆新自行车做生日礼物。",
+    "pinyin": "Bà bà dā yìng gěi wǒ mǎi yī liàng xīn zì xíng chē zuò shēng rì lǐ wù。",
+    "en": "Dad promised to buy me a new bike as a birthday gift."
+   },
+   {
+    "zh": "她一有空就给远方的奶奶打电话,陪她聊聊天。",
+    "pinyin": "Tā yī yǒu kòng jiù gěi yuǎn fāng de nǎi nǎi dǎ diàn huà, péi tā liáo liáo tiān。",
+    "en": "Whenever free, she calls her faraway grandma to chat with her."
+   },
+   {
+    "zh": "你出门的时候,顺便给楼下的邮箱看一眼。",
+    "pinyin": "Nǐ chū mén de shí hòu, shùn biàn gěi lóu xià de yóu xiāng kàn yī yǎn。",
+    "en": "When you go out, take a glance at the downstairs mailbox for me."
+   },
+   {
+    "zh": "会上,他给我们详细地讲解了新的工作安排。",
+    "pinyin": "Huì shàng, tā gěi wǒ men xiáng xì de jiǎng jiě le xīn de gōng zuò ān pái。",
+    "en": "At the meeting, he explained the new work arrangements to us in detail."
+   },
+   {
+    "zh": "奶奶总喜欢给我们做她最拿手的红烧肉。",
+    "pinyin": "Nǎi nǎi zǒng xǐ huān gěi wǒ men zuò tā zuì ná shǒu de hóng shāo ròu。",
+    "en": "Grandma always likes to make us her best braised pork."
+   },
+   {
+    "zh": "我这就给你查一下航班的具体时间。",
+    "pinyin": "Wǒ zhè jiù gěi nǐ chá yī xià háng bān de jù tǐ shí jiān。",
+    "en": "I'll look up the flight's exact time for you right now."
+   },
+   {
+    "zh": "孩子摔倒了,妈妈赶紧给他擦掉眼泪,哄他开心。",
+    "pinyin": "Hái zi shuāi dǎo le, mā mā gǎn jǐn gěi tā cā diào yǎn lèi, hǒng tā kāi xīn。",
+    "en": "The child fell; mom quickly wiped his tears and cheered him up."
+   },
+   {
+    "zh": "他专门抽出时间来给新员工做入职培训。",
+    "pinyin": "Tā zhuān mén chōu chū shí jiān lái gěi xīn yuán gōng zuò rù zhí péi xùn。",
+    "en": "He specially set aside time to train the new employees."
+   },
+   {
+    "zh": "你要是不舒服,我给你请个假,你在家休息。",
+    "pinyin": "Nǐ yào shì bù shū fú, wǒ gěi nǐ qǐng gè jiǎ, nǐ zài jiā xiū xī。",
+    "en": "If you're unwell, I'll ask for leave for you; rest at home."
+   },
+   {
+    "zh": "每逢过年,长辈都会给孩子们发压岁钱。",
+    "pinyin": "Měi féng guò nián, zhǎng bèi dū huì gěi hái zi men fā yā suì qián。",
+    "en": "Every New Year, elders give the children lucky money."
+   },
+   {
+    "zh": "他默默地给需要帮助的人捐了不少钱。",
+    "pinyin": "Tā mò mò de gěi xū yào bāng zhù de rén juān le bù shǎo qián。",
+    "en": "He quietly donated quite a lot to those in need."
+   }
+  ]
+ },
+ {
+  "id": "g228",
+  "level": 3,
+  "title": "Derece tümleci (\"得\" ile)",
+  "titleEn": "Degree complement",
+  "pattern": "Fiil + 得 + Derece Tümleci",
+  "summary": "\"得\" fiilden sonra gelip eylemin NASIL/NE DERECE yapıldığını anlatır: 跑得很快 = hızlı koşuyor; 说得很流利 = akıcı konuşuyor.",
+  "explanation": "Derece/tarz tümleci, bir eylemin NASIL, NE DERECE ya da hangi SONUÇLA yapıldığını anlatır ve fiil ile tümleç arasına \"得\" (de) girer: Fiil + 得 + (zarf +) sıfat/öbek. 他跑得很快 (Çok hızlı koşuyor), 她汉语说得非常流利 (Çincesi çok akıcı), 我昨晚睡得不太好 (Dün gece pek iyi uyuyamadım). ÖNEMLİ: Fiilin bir NESNESİ varsa, fiil TEKRARLANIR ve \"得\" ikinci fiile bağlanır: 他说汉语说得很好 (Çince konuşması çok iyi) ya da nesne öne alınır: 他汉语说得很好. Tümleçteki sıfat çoğu zaman \"很, 非常\" gibi bir derece zarfı alır (yalın sıfat eksik durur). Olumsuzu \"得不...\" iledir: 跑得不快 (hızlı koşmaz). Bu \"得\", olanak tümlecindeki 得 (跑得快 = koşabilir) ile karışabilir; derece tümlecinde çoğu zaman \"很/非常\" bulunması ayırt eder. Türkçedeki \"... biçimde/derecede ...-yor\" (hızlı koşuyor, güzel yazıyor) yapısına denk gelir.",
+  "examples": [
+   {
+    "zh": "他跑得非常快,是我们班的短跑冠军。",
+    "pinyin": "Tā pǎo de fēi cháng kuài, shì wǒ men bān de duǎn pǎo guàn jūn。",
+    "en": "He runs very fast; he's our class's sprint champion."
+   },
+   {
+    "zh": "她的汉语说得特别流利,一点儿都听不出是外国人。",
+    "pinyin": "Tā de hàn yǔ shuō de tè bié liú lì, yì diǎn ér dōu tīng bù chū shì wài guó rén。",
+    "en": "Her Chinese is very fluent; you'd never tell she's foreign."
+   },
+   {
+    "zh": "昨天晚上我睡得很不好,今天一整天都没精神。",
+    "pinyin": "Zuó tiān wǎn shàng wǒ shuì de hěn bù hǎo, jīn tiān yī zhěng tiān dōu méi jīng shén。",
+    "en": "I slept badly last night, so I've been listless all day."
+   },
+   {
+    "zh": "这个孩子的字写得又工整又漂亮。",
+    "pinyin": "Zhè ge hái zi de zì xiě de yòu gōng zhěng yòu piào liàng。",
+    "en": "This child writes neatly and beautifully."
+   },
+   {
+    "zh": "他饭做得很好吃,朋友们都爱去他家做客。",
+    "pinyin": "Tā fàn zuò de hěn hǎo chī, péng yǒu men dōu ài qù tā jiā zuò kè。",
+    "en": "He cooks very well; friends love visiting his home."
+   },
+   {
+    "zh": "这场雨下得太大了,街上一会儿就积满了水。",
+    "pinyin": "Zhè chǎng yǔ xià de tài dà le, jiē shàng yī huì er jiù jī mǎn le shuǐ。",
+    "en": "This rain fell so hard the street soon flooded."
+   },
+   {
+    "zh": "她打扮得漂漂亮亮的,准备去参加朋友的婚礼。",
+    "pinyin": "Tā dǎ bàn de piāo piāo liàng liàng de, zhǔn bèi qù cān jiā péng yǒu de hūn lǐ。",
+    "en": "She dressed up beautifully to attend a friend's wedding."
+   },
+   {
+    "zh": "他这道题解得又快又对,让老师很惊讶。",
+    "pinyin": "Tā zhè dào tí jiě de yòu kuài yòu duì, ràng lǎo shī hěn jīng yà。",
+    "en": "He solved this problem fast and correctly, surprising the teacher."
+   },
+   {
+    "zh": "今天大家玩得特别开心,连时间都忘了。",
+    "pinyin": "Jīn tiān dà jiā wán de tè bié kāi xīn, lián shí jiān dōu wàng le。",
+    "en": "Everyone had so much fun today they forgot the time."
+   },
+   {
+    "zh": "你这件事处理得非常好,考虑得很周到。",
+    "pinyin": "Nǐ zhè jiàn shì chǔ lǐ de fēi cháng hǎo, kǎo lǜ de hěn zhōu dào。",
+    "en": "You handled this very well and considered it thoroughly."
+   },
+   {
+    "zh": "他普通话说得不太标准,还带着一点口音。",
+    "pinyin": "Tā pǔ tōng huà shuō de bù tài biāo zhǔn, hái dài zhe yì diǎn kǒu yīn。",
+    "en": "His Mandarin isn't very standard; he has a slight accent."
+   },
+   {
+    "zh": "孩子长得真快,一年不见都快到我肩膀了。",
+    "pinyin": "Hái zi zhǎng de zhēn kuài, yī nián bú jiàn dōu kuài dào wǒ jiān bǎng le。",
+    "en": "The child grows so fast; in a year he's nearly at my shoulder."
+   },
+   {
+    "zh": "这顿饭我们吃得又慢又开心,一直聊到很晚。",
+    "pinyin": "Zhè dùn fàn wǒ men chī de yòu màn yòu kāi xīn, yì zhí liáo dào hěn wǎn。",
+    "en": "We ate this meal slowly and happily, chatting until late."
+   },
+   {
+    "zh": "他球踢得很好,是学校球队的主力队员。",
+    "pinyin": "Tā qiú tī de hěn hǎo, shì xué xiào qiú duì de zhǔ lì duì yuán。",
+    "en": "He plays soccer well; he's a key player on the school team."
+   },
+   {
+    "zh": "那位老师课讲得生动有趣,同学们都爱听。",
+    "pinyin": "Nà wèi lǎo shī kè jiǎng de shēng dòng yǒu qù, tóng xué men dōu ài tīng。",
+    "en": "That teacher lectures vividly; the students love to listen."
+   },
+   {
+    "zh": "这次考试他准备得很充分,考得也很理想。",
+    "pinyin": "Zhè cì kǎo shì tā zhǔn bèi de hěn chōng fèn, kǎo de yě hěn lǐ xiǎng。",
+    "en": "He prepared thoroughly for this exam and did very well."
+   },
+   {
+    "zh": "她唱歌唱得那么好听,大家都听得入了神。",
+    "pinyin": "Tā chàng gē chàng de nà me hǎo tīng, dà jiā dōu tīng de rù le shén。",
+    "en": "She sings so beautifully that everyone was enthralled."
+   },
+   {
+    "zh": "你别看他年纪小,棋下得可不比大人差。",
+    "pinyin": "Nǐ bié kàn tā nián jì xiǎo, qí xià de kě bù bǐ dà rén chà。",
+    "en": "Don't be fooled by his age; he plays chess no worse than adults."
+   },
+   {
+    "zh": "这几天他忙得连饭都顾不上好好吃。",
+    "pinyin": "Zhè jǐ tiān tā máng de lián fàn dōu gù bù shàng hǎo hǎo chī。",
+    "en": "These days he's so busy he can't even eat a proper meal."
+   },
+   {
+    "zh": "他画得实在太逼真了,简直跟照片一样。",
+    "pinyin": "Tā huà de shí zài tài bī zhēn le, jiǎn zhí gēn zhào piān yī yàng。",
+    "en": "He paints so realistically it's just like a photograph."
+   },
+   {
+    "zh": "这件事他解释得很清楚,大家都听明白了。",
+    "pinyin": "Zhè jiàn shì tā jiě shì de hěn qīng chǔ, dà jiā dōu tīng míng bái le。",
+    "en": "He explained this clearly, and everyone understood."
+   },
+   {
+    "zh": "孩子今天表现得特别好,老师还表扬了他。",
+    "pinyin": "Hái zi jīn tiān biǎo xiàn de tè bié hǎo, lǎo shī hái biǎo yáng le tā。",
+    "en": "The child behaved especially well today; the teacher even praised him."
+   },
+   {
+    "zh": "他走得太急,连外套都忘了拿。",
+    "pinyin": "Tā zǒu de tài jí, lián wài tào dōu wàng le ná。",
+    "en": "He left in such a hurry he forgot even his coat."
+   },
+   {
+    "zh": "这道菜她做得色香味俱全,让人一看就有食欲。",
+    "pinyin": "Zhè dào cài tā zuò de sè xiāng wèi jù quán, ràng rén yī kàn jiù yǒu shí yù。",
+    "en": "She made this dish with great color, aroma, and taste; it whets the appetite."
+   },
+   {
+    "zh": "你别担心,他把每一个细节都安排得妥妥当当。",
+    "pinyin": "Nǐ bié dān xīn, tā bǎ měi yí gè xì jié dōu ān pái de tuǒ tuǒ dàng dāng。",
+    "en": "Don't worry; he arranged every detail perfectly."
+   }
+  ]
+ },
+ {
+  "id": "g229",
+  "level": 3,
+  "title": "Yön tümleci (来/去)",
+  "titleEn": "Direction complement",
+  "pattern": "Fiil (+ Yön) + 来 / 去",
+  "summary": "\"来/去\" bir fiilin ardına gelip hareketin konuşmacıya doğru mu (来) uzağa mı (去) olduğunu gösterir: 走过来 = (buraya) yürüyerek gel; 拿出去 = alıp dışarı çıkar.",
+  "explanation": "\"来\" (konuşmacıya doğru) ve \"去\" (konuşmacıdan uzağa), hareket fiillerinin ARDINA gelip hareketin YÖNÜNÜ konuşmacıya göre belirten YÖN TÜMLEÇLERİdir. Basit biçim: 上来 (yukarı gel), 下去 (aşağı in), 进来 (içeri gel), 出去 (dışarı çık), 回来 (geri gel), 过去 (öteye geç). Bir eylem fiiliyle birleşik biçim: 走过来 (yürüyerek buraya gel), 跑出去 (koşarak dışarı çık), 拿上来 (alıp yukarı getir), 带回去 (alıp geri götür). Yapı: fiil + (上/下/进/出/回/过 gibi yön) + 来/来. \"来\" mi \"去\" mü kullanılacağı konuşmacının bulunduğu/hayal ettiği yere göre belirlenir: hedef konuşmacıya doğruysa 来, uzaklaşıyorsa 去. Nesne varsa çoğu zaman 来/去'den önce ya da ortaya girer: 拿一本书来 / 拿来一本书. Türkçedeki \"...-ıp gel/git, yukarı/aşağı/içeri/dışarı ...-mek\" yön anlatımına denk gelir.",
+  "examples": [
+   {
+    "zh": "外面太冷了,你快进来,别在门口站着。",
+    "pinyin": "Wài miàn tài lěng le, nǐ kuài jìn lái, bié zài mén kǒu zhàn zhe。",
+    "en": "It's cold out; come in quickly, don't stand at the door."
+   },
+   {
+    "zh": "他从楼上跑下来,气喘吁吁地说有急事。",
+    "pinyin": "Tā cóng lóu shàng pǎo xià lái, qì chuǎn xū xū de shuō yǒu jí shì。",
+    "en": "He ran downstairs, panting, saying there was an emergency."
+   },
+   {
+    "zh": "请你把那本书递过来,我想看看内容。",
+    "pinyin": "Qǐng nǐ bǎ nà běn shū dì guò lái, wǒ xiǎng kàn kàn nèi róng。",
+    "en": "Please pass that book over; I want to see its contents."
+   },
+   {
+    "zh": "孩子放学回来,第一件事就是打开冰箱找吃的。",
+    "pinyin": "Hái zi fàng xué huí lái, dì yī jiàn shì jiù shì dǎ kāi bīng xiāng zhǎo chī de。",
+    "en": "Home from school, the child's first thing is to raid the fridge."
+   },
+   {
+    "zh": "天黑了,大家快回去吧,路上注意安全。",
+    "pinyin": "Tiān hēi le, dà jiā kuài huí qù ba, lù shàng zhù yì ān quán。",
+    "en": "It's dark; everyone head back and be safe on the road."
+   },
+   {
+    "zh": "他从口袋里掏出来一张皱巴巴的纸条。",
+    "pinyin": "Tā cóng kǒu dài lǐ tāo chū lái yī zhāng zhòu bā bā de zhǐ tiáo。",
+    "en": "He pulled a crumpled note out of his pocket."
+   },
+   {
+    "zh": "你上来看看,从这个角度拍照特别漂亮。",
+    "pinyin": "Nǐ shàng lái kàn kàn, cóng zhè ge jiǎo dù pāi zhào tè bié piào liàng。",
+    "en": "Come up and look; the photo from this angle is lovely."
+   },
+   {
+    "zh": "听到有人叫他,他连忙从人群里挤了过来。",
+    "pinyin": "Tīng dào yǒu rén jiào tā, tā lián máng cóng rén qún lǐ jǐ le guò lái。",
+    "en": "Hearing someone call, he squeezed over through the crowd."
+   },
+   {
+    "zh": "请把桌上的杯子端下去,一会儿要摆新的。",
+    "pinyin": "Qǐng bǎ zhuō shàng de bēi zi duān xià qù, yī huì er yào bǎi xīn de。",
+    "en": "Please take the cups off the table; we'll set new ones soon."
+   },
+   {
+    "zh": "他把自己写的信小心地折起来,装进了信封。",
+    "pinyin": "Tā bǎ zì jǐ xiě de xìn xiǎo xīn de zhé qǐ lái, zhuāng jìn le xìn fēng。",
+    "en": "He carefully folded the letter he wrote and put it in the envelope."
+   },
+   {
+    "zh": "你出去的时候,顺便把垃圾带出去扔了。",
+    "pinyin": "Nǐ chū qù de shí hòu, shùn biàn bǎ lā jī dài chū qù rēng le。",
+    "en": "When you go out, take the trash out and throw it away."
+   },
+   {
+    "zh": "外面下雨了,快把晾在阳台上的衣服收回来。",
+    "pinyin": "Wài miàn xià yǔ le, kuài bǎ liàng zài yáng tái shàng de yī fú shōu huí lái。",
+    "en": "It's raining; bring in the clothes hung on the balcony."
+   },
+   {
+    "zh": "他从远处慢慢走过来,脸上带着熟悉的微笑。",
+    "pinyin": "Tā cóng yuǎn chù màn màn zǒu guò lái, liǎn shàng dài zhe shú xī de wēi xiào。",
+    "en": "He slowly walked over from afar with a familiar smile."
+   },
+   {
+    "zh": "你把那把椅子搬过来,让老人家坐下歇歇。",
+    "pinyin": "Nǐ bǎ nà bǎ yǐ zi bān guò lái, ràng lǎo rén jiā zuò xià xiē xiē。",
+    "en": "Bring that chair over so the elder can sit and rest."
+   },
+   {
+    "zh": "孩子高兴地跳起来,一把抱住了刚回家的爸爸。",
+    "pinyin": "Hái zi gāo xìng de tiào qǐ lái, yī bǎ bào zhù le gāng huí jiā de bà bà。",
+    "en": "The child jumped up happily and hugged his just-returned dad."
+   },
+   {
+    "zh": "请大家安静下来,我有件重要的事要宣布。",
+    "pinyin": "Qǐng dà jiā ān jìng xià lái, wǒ yǒu jiàn zhòng yào de shì yào xuān bù。",
+    "en": "Everyone please quiet down; I have an important announcement."
+   },
+   {
+    "zh": "他把行李从车上一件件地搬了下来。",
+    "pinyin": "Tā bǎ xíng lǐ cóng chē shàng yī jiàn jiàn de bān le xià lái。",
+    "en": "He carried the luggage off the car piece by piece."
+   },
+   {
+    "zh": "你要是路过书店,帮我带一本词典回来。",
+    "pinyin": "Nǐ yào shì lù guò shū diàn, bāng wǒ dài yī běn cí diǎn huí lái。",
+    "en": "If you pass the bookstore, bring me back a dictionary."
+   },
+   {
+    "zh": "听到这个消息,大家的心一下子都沉了下去。",
+    "pinyin": "Tīng dào zhè ge xiāo xī, dà jiā de xīn yī xià zi dōu chén le xià qù。",
+    "en": "Hearing the news, everyone's heart sank at once."
+   },
+   {
+    "zh": "他从抽屉里翻出来一张多年前的老照片。",
+    "pinyin": "Tā cóng chōu tì lǐ fān chū lái yī zhāng duō nián qián de lǎo zhào piān。",
+    "en": "He dug an old photo from years ago out of the drawer."
+   },
+   {
+    "zh": "风把窗户吹开了,快去把它关上,别让雨飘进来。",
+    "pinyin": "Fēng bǎ chuāng hù chuī kāi le, kuài qù bǎ tā guān shàng, bié ràng yǔ piāo jìn lái。",
+    "en": "The wind blew the window open; close it before rain drifts in."
+   },
+   {
+    "zh": "孩子把散落一地的玩具一件件捡了起来。",
+    "pinyin": "Hái zi bǎ sàn luò yī de de wán jù yī jiàn jiàn jiǎn le qǐ lái。",
+    "en": "The child picked up the toys scattered on the floor one by one."
+   },
+   {
+    "zh": "你先下去吧,我把东西收拾好马上就来。",
+    "pinyin": "Nǐ xiān xià qù ba, wǒ bǎ dōng xī shōu shí hǎo mǎ shàng jiù lái。",
+    "en": "You go down first; I'll come once I've packed up."
+   },
+   {
+    "zh": "他慢慢地站起来,向台下的观众深深鞠了一躬。",
+    "pinyin": "Tā màn màn de zhàn qǐ lái, xiàng tái xià de guān zhòng shēn shēn jū le yī gōng。",
+    "en": "He slowly stood up and bowed deeply to the audience."
+   },
+   {
+    "zh": "请把这份文件送上去,交给三楼的负责人。",
+    "pinyin": "Qǐng bǎ zhè fèn wén jiàn sòng shàng qù, jiāo gěi sān lóu de fù zé rén。",
+    "en": "Please take this document up and give it to the person on the third floor."
+   }
+  ]
  }
 ]

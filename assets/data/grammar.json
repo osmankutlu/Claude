@@ -20262,5 +20262,685 @@
     "en": "Dawn is near, and the doctors who worked all night finally breathe a little easier."
    }
   ]
+ },
+ {
+  "id": "g150",
+  "level": 3,
+  "title": "\"再\" ile gelecekte \"tekrar\"",
+  "titleEn": "Expressing \"again\" in the future with \"zai\"",
+  "pattern": "再 + Fiil",
+  "summary": "\"再\" (zài) henüz OLMAMIŞ, gelecekteki bir tekrarı bildirir: 明天再说 = Yarın yine konuşuruz; 再来一杯 = Bir tane daha (getir).",
+  "explanation": "\"再\" GELECEKTE ya da henüz gerçekleşmemiş bir tekrarı/devamı anlatır: \"tekrar, bir daha, yeniden\". 你明天再来吧 (Yarın yine gel), 再等一会儿 (Biraz daha bekle), 服务员,再来一碗米饭 (Garson, bir kâse pilav daha). Çoğu zaman bir eylemin ERTELENDİĞİNİ ya da bir şart sonrası yapılacağını da gösterir: 吃完饭再走 (Yemekten sonra gidersin), 想好了再决定 (İyice düşünüp öyle karar ver). ÇOK ÖNEMLİ: geçmişte gerçekleşmiş bir tekrar için \"再\" DEĞİL \"又\" kullanılır (他又来了 = yine geldi). Yani \"再\" gelecek/gerçekleşmemiş, \"又\" geçmiş/gerçekleşmiş tekrardır. Türkçedeki \"tekrar, bir daha, yeniden, sonra\" karşılıklarına denk gelir.",
+  "examples": [
+   {
+    "zh": "今天太晚了,这件事咱们明天再商量吧。",
+    "pinyin": "Jīn tiān tài wǎn le, zhè jiàn shì zán men míng tiān zài shāng liáng ba。",
+    "en": "It's too late today; let's discuss this again tomorrow."
+   },
+   {
+    "zh": "你先把饭吃完,吃完了再出去玩儿。",
+    "pinyin": "Nǐ xiān bǎ fàn chī wán, chī wán le zài chū qù wán ér。",
+    "en": "Finish your meal first, then go out to play."
+   },
+   {
+    "zh": "这杯咖啡真好喝,服务员,请再给我来一杯。",
+    "pinyin": "Zhè bēi kā fēi zhēn hǎo hē, fú wù yuán, qǐng zài gěi wǒ lái yī bēi。",
+    "en": "This coffee is great; waiter, please bring me another."
+   },
+   {
+    "zh": "你再坚持一下,我们马上就到山顶了。",
+    "pinyin": "Nǐ zài jiān chí yī xià, wǒ men mǎ shàng jiù dào shān dǐng le。",
+    "en": "Hold on a bit more; we're almost at the summit."
+   },
+   {
+    "zh": "这个问题我一时也说不清,以后有机会再细谈。",
+    "pinyin": "Zhè ge wèn tí wǒ yī shí yě shuō bù qīng, yǐ hòu yǒu jī huì zài xì tán。",
+    "en": "I can't explain this fully now; let's talk in detail another time."
+   },
+   {
+    "zh": "你想好了再回答我,不用急着做决定。",
+    "pinyin": "Nǐ xiǎng hǎo le zài huí dá wǒ, bù yòng jí zhe zuò jué dìng。",
+    "en": "Think it over before answering; no need to rush."
+   },
+   {
+    "zh": "今天先到这儿吧,剩下的明天再接着做。",
+    "pinyin": "Jīn tiān xiān dào zhè ér ba, shèng xià de míng tiān zài jiē zhe zuò。",
+    "en": "Let's stop here today; we'll continue the rest tomorrow."
+   },
+   {
+    "zh": "这本书你要是喜欢,看完了再借给我看看。",
+    "pinyin": "Zhè běn shū nǐ yào shì xǐ huān, kàn wán le zài jiè gěi wǒ kàn kàn。",
+    "en": "If you like this book, lend it to me after you finish."
+   },
+   {
+    "zh": "外面还在下雨,咱们再等一会儿,雨停了再走。",
+    "pinyin": "Wài miàn hái zài xià yǔ, zán men zài děng yī huì er, yǔ tíng le zài zǒu。",
+    "en": "It's still raining; let's wait a bit and go once it stops."
+   },
+   {
+    "zh": "这次没考好没关系,下次再努力就是了。",
+    "pinyin": "Zhè cì méi kǎo hǎo méi guān xì, xià cì zài nǔ lì jiù shì le。",
+    "en": "It's okay you didn't do well this time; just try harder next time."
+   },
+   {
+    "zh": "你要是不放心,可以再检查一遍,确认没错。",
+    "pinyin": "Nǐ yào shì bù fàng xīn, kě yǐ zài jiǎn chá yī biàn, què rèn méi cuò。",
+    "en": "If you're not sure, check once more to confirm it's correct."
+   },
+   {
+    "zh": "咱们先各自想想,过两天再碰头交流意见。",
+    "pinyin": "Zán men xiān gè zì xiǎng xiǎng, guò liǎng tiān zài pèng tóu jiāo liú yì jiàn。",
+    "en": "Let's each think it over and meet again in a couple of days."
+   },
+   {
+    "zh": "这道菜味道淡了点,你再加点儿盐吧。",
+    "pinyin": "Zhè dào cài wèi dào dàn le diǎn, nǐ zài jiā diǎn ér yán ba。",
+    "en": "This dish is a bit bland; add some more salt."
+   },
+   {
+    "zh": "时间还早,你再睡一会儿,我叫你起床。",
+    "pinyin": "Shí jiān hái zǎo, nǐ zài shuì yī huì er, wǒ jiào nǐ qǐ chuáng。",
+    "en": "It's still early; sleep a bit more, I'll wake you."
+   },
+   {
+    "zh": "这件事我做不了主,得跟家里再商量商量。",
+    "pinyin": "Zhè jiàn shì wǒ zuò bù liǎo zhǔ, de gēn jiā lǐ zài shāng liáng shāng liáng。",
+    "en": "I can't decide this alone; I need to discuss it with my family again."
+   },
+   {
+    "zh": "你先回去休息,身体好了再来上班也不迟。",
+    "pinyin": "Nǐ xiān huí qù xiū xī, shēn tǐ hǎo le zài lái shàng bān yě bù chí。",
+    "en": "Go home and rest first; come back to work when you're well."
+   },
+   {
+    "zh": "如果这次还是不行,我们就换个办法再试试。",
+    "pinyin": "Rú guǒ zhè cì hái shì bù xíng, wǒ men jiù huàn gè bàn fǎ zài shì shì。",
+    "en": "If it still doesn't work this time, let's try another way."
+   },
+   {
+    "zh": "这些字你再多写几遍,慢慢就记住了。",
+    "pinyin": "Zhè xiē zì nǐ zài duō xiě jǐ biàn, màn màn jiù jì zhù le。",
+    "en": "Write these characters a few more times and you'll remember them."
+   },
+   {
+    "zh": "菜快凉了,你再不回来我们就先吃了。",
+    "pinyin": "Cài kuài liáng le, nǐ zài bù huí lái wǒ men jiù xiān chī le。",
+    "en": "The food's getting cold; if you don't come back we'll start eating."
+   },
+   {
+    "zh": "这件衣服我再考虑考虑,不急着现在买。",
+    "pinyin": "Zhè jiàn yī fú wǒ zài kǎo lǜ kǎo lǜ, bù jí zhe xiàn zài mǎi。",
+    "en": "Let me think about this outfit more; no rush to buy it now."
+   },
+   {
+    "zh": "你说得太快了,能不能再说一遍,慢一点儿?",
+    "pinyin": "Nǐ shuō de tài kuài le, néng bù néng zài shuō yī biàn, màn yì diǎn ér?",
+    "en": "You spoke too fast; could you say it again, more slowly?"
+   },
+   {
+    "zh": "等我忙完这阵子,咱们再找时间好好聚聚。",
+    "pinyin": "Děng wǒ máng wán zhè zhèn zi, zán men zài zhǎo shí jiān hǎo hǎo jù jù。",
+    "en": "Once I'm through this busy spell, let's find time to get together."
+   },
+   {
+    "zh": "这个方案还不够完善,回去再改一改吧。",
+    "pinyin": "Zhè ge fāng àn hái bù gòu wán shàn, huí qù zài gǎi yī gǎi ba。",
+    "en": "This plan isn't refined enough; go back and revise it."
+   },
+   {
+    "zh": "你别着急走,再坐一会儿,咱们好久没聊了。",
+    "pinyin": "Nǐ bié zháo jí zǒu, zài zuò yī huì er, zán men hǎo jiǔ méi liáo le。",
+    "en": "Don't rush off; stay a while longer, we haven't talked in ages."
+   },
+   {
+    "zh": "要是以后再遇到这种问题,你就照这个办法处理。",
+    "pinyin": "Yào shì yǐ hòu zài yù dào zhè zhǒng wèn tí, nǐ jiù zhào zhè ge bàn fǎ chǔ lǐ。",
+    "en": "If you meet this kind of problem again later, handle it this way."
+   }
+  ]
+ },
+ {
+  "id": "g151",
+  "level": 3,
+  "title": "\"又...了\" ile geçmişte \"tekrar\"",
+  "titleEn": "Expressing \"again\" in the past with \"you\"",
+  "pattern": "又 + Fiil + 了",
+  "summary": "\"又...了\" geçmişte GERÇEKLEŞMİŞ bir tekrarı bildirir: 他又迟到了 = Yine geç kaldı; 我又忘了 = Bir daha unuttum.",
+  "explanation": "\"又\" GEÇMİŞTE gerçekleşmiş, tamamlanmış bir tekrarı bildirir ve çoğu zaman \"了\" ile biter: \"yine, gene, bir daha\". 他又迟到了 (Yine geç kaldı), 昨天又下雨了 (Dün yine yağmur yağdı), 你怎么又忘了? (Nasıl gene unuttun?). \"再\" ile temel farkı: \"又\" OLMUŞ/gerçekleşmiş tekrar (geçmiş), \"再\" ise henüz OLMAMIŞ/gelecek tekrar içindir. \"又\" çoğu zaman şaşkınlık, sitem ya da bıkkınlık tonu taşır (\"yine mi!\"). Ayrıca \"又\" gelecekteki KESİN/döngüsel bir tekrar için de kullanılabilir: 明天又是星期一了 (Yarın yine pazartesi). Türkçedeki \"yine, gene, bir daha, tekrar\" karşılıklarına denk gelir ve gerçekleşmiş bir yinelenmeyi vurgular.",
+  "examples": [
+   {
+    "zh": "这个月他又迟到了好几次,老板已经很不高兴了。",
+    "pinyin": "Zhè ge yuè tā yòu chí dào le hǎo jǐ cì, lǎo bǎn yǐ jīng hěn bù gāo xìng le。",
+    "en": "He was late several times again this month; the boss is displeased."
+   },
+   {
+    "zh": "你怎么又把钥匙忘在家里了?这已经是第三次了。",
+    "pinyin": "Nǐ zěn me yòu bǎ yào shi wàng zài jiā lǐ le? zhè yǐ jīng shì dì sān cì le。",
+    "en": "How did you forget the keys at home again? This is the third time."
+   },
+   {
+    "zh": "昨天晚上又下了一场大雨,路上到处是积水。",
+    "pinyin": "Zuó tiān wǎn shàng yòu xià le yī cháng dà yǔ, lù shàng dào chù shì jī shuǐ。",
+    "en": "It rained heavily again last night; the roads are full of puddles."
+   },
+   {
+    "zh": "我刚把桌子擦干净,孩子又把它弄脏了。",
+    "pinyin": "Wǒ gāng bǎ zhuō zi cā gān jìng, hái zi yòu bǎ tā nòng zāng le。",
+    "en": "I just wiped the table clean, and the child dirtied it again."
+   },
+   {
+    "zh": "他戒了几次烟,可是没过多久又抽上了。",
+    "pinyin": "Tā jiè le jǐ cì yān, kě shì mò guò duō jiǔ yòu chōu shàng le。",
+    "en": "He quit smoking several times, but soon started again."
+   },
+   {
+    "zh": "这个星期我又胖了两斤,得开始控制饮食了。",
+    "pinyin": "Zhè ge xīng qī wǒ yòu pàng le liǎng jīn, de kāi shǐ kòng zhì yǐn shí le。",
+    "en": "I gained another two jin this week; I need to watch my diet."
+   },
+   {
+    "zh": "你们俩怎么又吵架了?昨天不是刚和好吗?",
+    "pinyin": "Nǐ men liǎ zěn me yòu chǎo jià le? zuó tiān bú shì gāng hé hǎo ma?",
+    "en": "Why are you two arguing again? Didn't you just make up yesterday?"
+   },
+   {
+    "zh": "这台旧电脑又坏了,看来真该换新的了。",
+    "pinyin": "Zhè tái jiù diàn nǎo yòu huài le, kàn lái zhēn gāi huàn xīn de le。",
+    "en": "This old computer broke down again; it really is time for a new one."
+   },
+   {
+    "zh": "我又把这道题算错了,一定是哪里没注意。",
+    "pinyin": "Wǒ yòu bǎ zhè dào tí suàn cuò le, yí dìng shì nǎ lǐ méi zhù yì。",
+    "en": "I got this problem wrong again; I must have missed something."
+   },
+   {
+    "zh": "时间过得真快,转眼一年又过去了。",
+    "pinyin": "Shí jiān guò de zhēn kuài, zhuǎn yǎn yī nián yòu guò qù le。",
+    "en": "Time flies; in a blink another year has passed."
+   },
+   {
+    "zh": "他昨天又加班到半夜,今天整个人没精神。",
+    "pinyin": "Tā zuó tiān yòu jiā bān dào bàn yè, jīn tiān zhěng gè rén méi jīng shén。",
+    "en": "He worked overtime until midnight again; today he's listless."
+   },
+   {
+    "zh": "孩子刚睡着,门铃又响了,把他吵醒了。",
+    "pinyin": "Hái zi gāng shuì zháo, mén líng yòu xiǎng le, bǎ tā chǎo xǐng le。",
+    "en": "The child had just fallen asleep when the doorbell rang and woke him."
+   },
+   {
+    "zh": "我劝了他好几次,可他又做了同样的傻事。",
+    "pinyin": "Wǒ quàn le tā hǎo jǐ cì, kě tā yòu zuò le tóng yàng de shǎ shì。",
+    "en": "I advised him several times, yet he did the same foolish thing again."
+   },
+   {
+    "zh": "这个月的电费又涨了,大家都在抱怨。",
+    "pinyin": "Zhè ge yuè de diàn fèi yòu zhǎng le, dà jiā dōu zài bào yuàn。",
+    "en": "The electricity bill went up again this month; everyone's complaining."
+   },
+   {
+    "zh": "你看,天又阴下来了,估计一会儿要下雨。",
+    "pinyin": "Nǐ kàn, tiān yòu yīn xià lái le, gū jì yī huì er yào xià yǔ。",
+    "en": "Look, the sky has clouded over again; it'll probably rain soon."
+   },
+   {
+    "zh": "他又忘了带作业,被老师批评了一顿。",
+    "pinyin": "Tā yòu wàng le dài zuò yè, bèi lǎo shī pī píng le yī dùn。",
+    "en": "He forgot his homework again and got scolded by the teacher."
+   },
+   {
+    "zh": "这条新闻我又看了一遍,还是觉得不可思议。",
+    "pinyin": "Zhè tiáo xīn wén wǒ yòu kàn le yī biàn, hái shì jué de bù kě sī yì。",
+    "en": "I read this news again and still find it unbelievable."
+   },
+   {
+    "zh": "刚修好没几天,那辆车又出毛病了。",
+    "pinyin": "Gāng xiū hǎo méi jǐ tiān, nà liàng chē yòu chū máo bìng le。",
+    "en": "Just days after being fixed, that car broke down again."
+   },
+   {
+    "zh": "过年的时候,一家人又团聚在了一起。",
+    "pinyin": "Guò nián de shí hòu, yī jiā rén yòu tuán jù zài le yì qǐ。",
+    "en": "At New Year, the whole family reunited once again."
+   },
+   {
+    "zh": "我以为他改了,没想到他又犯了老毛病。",
+    "pinyin": "Wǒ yǐ wéi tā gǎi le, méi xiǎng dào tā yòu fàn le lǎo máo bìng。",
+    "en": "I thought he'd changed, but he fell into his old habit again."
+   },
+   {
+    "zh": "这本书我又翻出来看了看,想起了很多往事。",
+    "pinyin": "Zhè běn shū wǒ yòu fān chū lái kàn le kàn, xiǎng qǐ le hěn duō wǎng shì。",
+    "en": "I dug out this book to read again and recalled many old memories."
+   },
+   {
+    "zh": "他又请了一天假,同事们都替他担心。",
+    "pinyin": "Tā yòu qǐng le yī tiān jiǎ, tóng shì men dōu tì tā dān xīn。",
+    "en": "He took another day off; his colleagues are worried for him."
+   },
+   {
+    "zh": "下班路上又堵车了,我在车里坐了一个多小时。",
+    "pinyin": "Xià bān lù shàng yòu dǔ chē le, wǒ zài chē lǐ zuò le yí gè duō xiǎo shí。",
+    "en": "Traffic jammed again on the way home; I sat in the car over an hour."
+   },
+   {
+    "zh": "你怎么又没吃早饭?这样对身体很不好。",
+    "pinyin": "Nǐ zěn me yòu méi chī zǎo fàn? zhè yàng duì shēn tǐ hěn bù hǎo。",
+    "en": "Why did you skip breakfast again? That's bad for your health."
+   },
+   {
+    "zh": "这已经是他这个星期又一次帮我了,真让人感动。",
+    "pinyin": "Zhè yǐ jīng shì tā zhè ge xīng qī yòu yī cì bāng wǒ le, zhēn ràng rén gǎn dòng。",
+    "en": "This is yet another time he's helped me this week; truly touching."
+   }
+  ]
+ },
+ {
+  "id": "g152",
+  "level": 3,
+  "title": "\"原来\" ile \"meğer / aslında, önceden\"",
+  "titleEn": "Expressing \"all along\" with \"yuanlai\"",
+  "pattern": "Özne + 原来 + Yüklem",
+  "summary": "\"原来\" (yuánlái) iki anlam taşır: \"meğer, demek ki\" (yeni fark ediş) ve \"eskiden, aslında, başlangıçta\": 原来是你! = Meğer senmişsin!",
+  "explanation": "\"原来\" iki temel anlama gelir: (1) YENİ FARK EDİŞ / gerçeği anlama — \"meğer, demek ki, aslında öyleymiş\": 原来是这么回事 (Meğer mesele buymuş), 原来你早就知道了 (Demek sen çoktan biliyormuşsun). Konuşmacının önceki yanlış varsayımının düzeldiğini, bir sırrın çözüldüğünü gösterir. (2) BAŞLANGIÇTAKİ DURUM — \"eskiden, önceden, başlangıçta\": 他原来住在北京,后来搬走了 (Eskiden Pekin'de otururdu, sonra taşındı), 这里原来是一片农田 (Burası eskiden tarlaydı). İlk anlamda çoğu zaman şaşkınlık/aydınlanma tonu vardır; ikinci anlamda ise bugünle bir karşılaştırma. Türkçedeki \"meğer, demek ki\" ve \"eskiden, aslında, başlangıçta\" karşılıklarına denk gelir; bağlam hangisi olduğunu belirler.",
+  "examples": [
+   {
+    "zh": "我还以为是谁在敲门,原来是你回来了。",
+    "pinyin": "Wǒ hái yǐ wéi shì shuí zài qiāo mén, yuán lái shì nǐ huí lái le。",
+    "en": "I wondered who was knocking; it turns out you're back."
+   },
+   {
+    "zh": "原来他一直默默地帮我,我却什么都不知道。",
+    "pinyin": "Yuán lái tā yì zhí mò mò de bāng wǒ, wǒ què shén me dōu bù zhī dào。",
+    "en": "It turns out he'd been quietly helping me, and I knew nothing."
+   },
+   {
+    "zh": "这个地方原来是一片农田,现在都盖起了高楼。",
+    "pinyin": "Zhè ge dì fāng yuán lái shì yī piàn nóng tián, xiàn zài dōu gài qǐ le gāo lóu。",
+    "en": "This area used to be farmland; now tall buildings stand here."
+   },
+   {
+    "zh": "怪不得今天路上这么堵,原来前面出了车祸。",
+    "pinyin": "Guài bù de jīn tiān lù shàng zhè me dǔ, yuán lái qián miàn chū le chē huò。",
+    "en": "No wonder the road's so jammed today; there was an accident ahead."
+   },
+   {
+    "zh": "原来你早就知道答案了,怎么一直不告诉我?",
+    "pinyin": "Yuán lái nǐ zǎo jiù zhī dào dá àn le, zěn me yì zhí bù gào sù wǒ?",
+    "en": "So you knew the answer all along; why didn't you tell me?"
+   },
+   {
+    "zh": "他原来在这家公司上班,后来自己创业去了。",
+    "pinyin": "Tā yuán lái zài zhè jiā gōng sī shàng bān, hòu lái zì jǐ chuàng yè qù le。",
+    "en": "He used to work at this company, then went off to start his own business."
+   },
+   {
+    "zh": "我尝了一口才明白,原来这道菜里放了糖。",
+    "pinyin": "Wǒ cháng le yī kǒu cái míng bái, yuán lái zhè dào cài lǐ fàng le táng。",
+    "en": "One bite and I understood: this dish has sugar in it."
+   },
+   {
+    "zh": "原来这么简单,我刚才怎么就没想到呢?",
+    "pinyin": "Yuán lái zhè me jiǎn dān, wǒ gāng cái zěn me jiù méi xiǎng dào ne?",
+    "en": "It's this simple; how did I not think of it just now?"
+   },
+   {
+    "zh": "这栋楼原来是一所学校,后来改成了图书馆。",
+    "pinyin": "Zhè dòng lóu yuán lái shì yī suǒ xué xiào, hòu lái gǎi chéng le tú shū guǎn。",
+    "en": "This building used to be a school, later turned into a library."
+   },
+   {
+    "zh": "听他解释了半天,我才知道原来是一场误会。",
+    "pinyin": "Tīng tā jiě shì le bàn tiān, wǒ cái zhī dào yuán lái shì yī cháng wù huì。",
+    "en": "After his long explanation, I realized it was all a misunderstanding."
+   },
+   {
+    "zh": "原来你们俩早就认识,难怪聊得这么投机。",
+    "pinyin": "Yuán lái nǐ men liǎ zǎo jiù rèn shí, nán guài liáo de zhè me tóu jī。",
+    "en": "So you two knew each other already; no wonder you get along so well."
+   },
+   {
+    "zh": "这条路原来很窄,后来拓宽了不少,好走多了。",
+    "pinyin": "Zhè tiáo lù yuán lái hěn zhǎi, hòu lái tuò kuān le bù shǎo, hǎo zǒu duō le。",
+    "en": "This road used to be narrow; it was widened and is much better now."
+   },
+   {
+    "zh": "我一直找不到眼镜,原来就戴在自己头上。",
+    "pinyin": "Wǒ yì zhí zhǎo bú dào yǎn jìng, yuán lái jiù dài zài zì jǐ tóu shàng。",
+    "en": "I couldn't find my glasses; turns out they were on my head."
+   },
+   {
+    "zh": "他原来性格很内向,这几年变得开朗多了。",
+    "pinyin": "Tā yuán lái xìng gé hěn nèi xiàng, zhè jǐ nián biàn de kāi lǎng duō le。",
+    "en": "He used to be introverted; these years he's become much more outgoing."
+   },
+   {
+    "zh": "看了说明书我才明白,原来这个机器要这样用。",
+    "pinyin": "Kàn le shuō míng shū wǒ cái míng bái, yuán lái zhè ge jī qì yào zhè yàng yòng。",
+    "en": "After reading the manual I understood how this machine is used."
+   },
+   {
+    "zh": "原来今天是你的生日,我竟然忘得一干二净。",
+    "pinyin": "Yuán lái jīn tiān shì nǐ de shēng rì, wǒ jìng rán wàng de yī gān èr jìng。",
+    "en": "So today is your birthday; I completely forgot."
+   },
+   {
+    "zh": "这里的冬天原来没这么冷,不知道今年怎么了。",
+    "pinyin": "Zhè lǐ de dōng tiān yuán lái méi zhè me lěng, bù zhī dào jīn nián zěn me le。",
+    "en": "Winters here used to be milder; I don't know what's happened this year."
+   },
+   {
+    "zh": "我一直以为他很严肃,接触后才发现原来他很幽默。",
+    "pinyin": "Wǒ yì zhí yǐ wéi tā hěn yán sù, jiē chù hòu cái fā xiàn yuán lái tā hěn yōu mò。",
+    "en": "I always thought he was serious; getting to know him, he's actually funny."
+   },
+   {
+    "zh": "门打不开,原来是钥匙拿错了,难怪。",
+    "pinyin": "Mén dǎ bù kāi, yuán lái shì yào shi ná cuò le, nán guài。",
+    "en": "The door wouldn't open; I'd brought the wrong key, no wonder."
+   },
+   {
+    "zh": "他原来的计划是出国留学,后来因故留了下来。",
+    "pinyin": "Tā yuán lái de jì huà shì chū guó liú xué, hòu lái yīn gù liú le xià lái。",
+    "en": "His original plan was to study abroad; he later stayed for various reasons."
+   },
+   {
+    "zh": "我尝了半天也没猜出来,原来汤里放的是这种香料。",
+    "pinyin": "Wǒ cháng le bàn tiān yě méi cāi chū lái, yuán lái tāng lǐ fàng de shì zhè zhǒng xiāng liào。",
+    "en": "I tasted for a while but couldn't guess; the soup has this spice."
+   },
+   {
+    "zh": "原来你也喜欢这位作家,咱们真是有共同语言。",
+    "pinyin": "Yuán lái nǐ yě xǐ huān zhè wèi zuò jiā, zán men zhēn shì yǒu gòng tóng yǔ yán。",
+    "en": "So you like this author too; we really have a lot in common."
+   },
+   {
+    "zh": "这台机器原来很好用,不知为什么最近老出问题。",
+    "pinyin": "Zhè tái jī qì yuán lái hěn hǎo yòng, bù zhī wèi shén me zuì jìn lǎo chū wèn tí。",
+    "en": "This machine used to work well; lately it keeps having problems for some reason."
+   },
+   {
+    "zh": "直到看见照片,我才恍然大悟,原来他们是一家人。",
+    "pinyin": "Zhí dào kàn jiàn zhào piān, wǒ cái huǎng rán dà wù, yuán lái tā men shì yī jiā rén。",
+    "en": "Only on seeing the photo did I realize they're a family."
+   },
+   {
+    "zh": "原来打算周末去爬山,后来因为下雨改成了在家看书。",
+    "pinyin": "Yuán lái dǎ suàn zhōu mò qù pá shān, hòu lái yīn wèi xià yǔ gǎi chéng le zài jiā kàn shū。",
+    "en": "We'd planned to hike on the weekend, but rain changed it to reading at home."
+   }
+  ]
+ },
+ {
+  "id": "g153",
+  "level": 3,
+  "title": "\"一下子\" ile \"birden, aniden\"",
+  "titleEn": "Expressing \"all at once\" with \"yixiazi\"",
+  "pattern": "Özne + 一下子 + Fiil + 了",
+  "summary": "\"一下子\" (yíxiàzi) bir eylemin/değişimin BİRDEN, kısa sürede olduğunu bildirir: 天一下子黑了 = Hava birden karardı.",
+  "explanation": "\"一下子\" bir olayın ANİDEN, çok kısa sürede ya da tek hamlede gerçekleştiğini bildirir: \"birden, birdenbire, bir anda, çabucak\". 天一下子黑了 (Hava birden karardı), 他一下子就明白了 (Bir anda anlayıverdi), 这些东西一下子就卖光了 (Bunlar bir çırpıda satıldı). Çoğu zaman ani bir DEĞİŞİMİ vurgular ve cümle \"了\" ile biter. Fiilden önce gelir ve eylemin hızını/aniliğini betimler. \"一下\" (kısa/hafif eylem) ile karıştırılmamalı: \"一下子\" hızı/aniliği, \"一下\" ise eylemin kısalığını/denemesini anlatır. Türkçedeki \"birden, bir anda, birdenbire, çabucak\" ifadelerine denk gelir; ani gelişmeleri canlı biçimde anlatmada çok kullanılır.",
+  "examples": [
+   {
+    "zh": "刚才还是晴天,天一下子就阴了下来,开始下雨。",
+    "pinyin": "Gāng cái hái shì qíng tiān, tiān yī xià zi jiù yīn le xià lái, kāi shǐ xià yǔ。",
+    "en": "It was clear just now; the sky suddenly darkened and it began to rain."
+   },
+   {
+    "zh": "听到这个好消息,他一下子从椅子上跳了起来。",
+    "pinyin": "Tīng dào zhè ge hǎo xiāo xī, tā yī xià zi cóng yǐ zi shàng tiào le qǐ lái。",
+    "en": "Hearing the good news, he jumped up from his chair at once."
+   },
+   {
+    "zh": "这批限量的商品一上架,一下子就被抢光了。",
+    "pinyin": "Zhè pī xiàn liàng de shāng pǐn yī shàng jià, yī xià zi jiù bèi qiǎng guāng le。",
+    "en": "As soon as these limited items hit the shelves, they sold out instantly."
+   },
+   {
+    "zh": "经老师这么一点,我一下子就明白了这道题。",
+    "pinyin": "Jīng lǎo shī zhè me yì diǎn, wǒ yī xià zi jiù míng bái le zhè dào tí。",
+    "en": "With the teacher's hint, I understood the problem all at once."
+   },
+   {
+    "zh": "几年不见,这个小村子一下子变得热闹了许多。",
+    "pinyin": "Jǐ nián bú jiàn, zhè ge xiǎo cūn zi yī xià zi biàn de rè nào le xǔ duō。",
+    "en": "After a few years apart, this village suddenly became much livelier."
+   },
+   {
+    "zh": "他一下子说了这么多,我一时还反应不过来。",
+    "pinyin": "Tā yī xià zi shuō le zhè me duō, wǒ yī shí hái fǎn yìng bù guò lái。",
+    "en": "He said so much all at once that I couldn't react right away."
+   },
+   {
+    "zh": "孩子长得真快,一下子就比妈妈还高了。",
+    "pinyin": "Hái zi zhǎng de zhēn kuài, yī xià zi jiù bǐ mā mā hái gāo le。",
+    "en": "The child grows so fast; suddenly he's taller than his mom."
+   },
+   {
+    "zh": "这么多活儿一下子压过来,他忙得团团转。",
+    "pinyin": "Zhè me duō huó er yī xià zi yā guò lái, tā máng de tuán tuán zhuàn。",
+    "en": "So much work piled on at once that he was rushed off his feet."
+   },
+   {
+    "zh": "听到那个坏消息,她的脸一下子就白了。",
+    "pinyin": "Tīng dào nà ge huài xiāo xī, tā de liǎn yī xià zi jiù bái le。",
+    "en": "Hearing the bad news, her face went pale in an instant."
+   },
+   {
+    "zh": "放假的第一天,街上的人一下子少了很多。",
+    "pinyin": "Fàng jià de dì yī tiān, jiē shàng de rén yī xià zi shǎo le hěn duō。",
+    "en": "On the first day of the holiday, the streets suddenly had far fewer people."
+   },
+   {
+    "zh": "这道菜太好吃了,一大盘一下子就被吃光了。",
+    "pinyin": "Zhè dào cài tài hǎo chī le, yī dà pán yī xià zi jiù bèi chī guāng le。",
+    "en": "This dish was so tasty that a big plate vanished in a moment."
+   },
+   {
+    "zh": "停电了,整个屋子一下子陷入了黑暗。",
+    "pinyin": "Tíng diàn le, zhěng gè wū zi yī xià zi xiàn rù le hēi àn。",
+    "en": "The power went out, and the whole room plunged into darkness at once."
+   },
+   {
+    "zh": "他本来还很生气,听我一解释,气一下子就消了。",
+    "pinyin": "Tā běn lái hái hěn shēng qì, tīng wǒ yī jiě shì, qì yī xià zi jiù xiāo le。",
+    "en": "He was angry, but after my explanation his anger vanished at once."
+   },
+   {
+    "zh": "这笔钱对他来说不是小数目,一下子拿不出来。",
+    "pinyin": "Zhè bǐ qián duì tā lái shuō bú shì xiǎo shù mù, yī xià zi ná bù chū lái。",
+    "en": "This sum is no small amount to him; he can't produce it all at once."
+   },
+   {
+    "zh": "春天一到,院子里的花一下子全开了。",
+    "pinyin": "Chūn tiān yī dào, yuàn zi lǐ de huā yī xià zi quán kāi le。",
+    "en": "Once spring came, the flowers in the yard all bloomed at once."
+   },
+   {
+    "zh": "他跑得太快,一下子就消失在了人群中。",
+    "pinyin": "Tā pǎo de tài kuài, yī xià zi jiù xiāo shī zài le rén qún zhōng。",
+    "en": "He ran so fast that he vanished into the crowd in an instant."
+   },
+   {
+    "zh": "这个道理我想了很久,今天一下子就想通了。",
+    "pinyin": "Zhè ge dào lǐ wǒ xiǎng le hěn jiǔ, jīn tiān yī xià zi jiù xiǎng tōng le。",
+    "en": "I pondered this for long; today it all became clear at once."
+   },
+   {
+    "zh": "水管突然破了,水一下子涌了出来。",
+    "pinyin": "Shuǐ guǎn tū rán pò le, shuǐ yī xià zi yǒng le chū lái。",
+    "en": "The pipe suddenly burst, and water gushed out all at once."
+   },
+   {
+    "zh": "看到多年的老友,他一下子红了眼眶。",
+    "pinyin": "Kàn dào duō nián de lǎo yǒu, tā yī xià zi hóng le yǎn kuàng。",
+    "en": "Seeing his old friend of years, his eyes reddened at once."
+   },
+   {
+    "zh": "这么难的题,他居然一下子就做出来了。",
+    "pinyin": "Zhè me nán de tí, tā jū rán yī xià zi jiù zuò chū lái le。",
+    "en": "Such a hard problem, and he actually solved it in one go."
+   },
+   {
+    "zh": "外面一声巨响,把睡着的孩子一下子惊醒了。",
+    "pinyin": "Wài miàn yī shēng jù xiǎng, bǎ shuì zháo de hái zi yī xià zi jīng xǐng le。",
+    "en": "A loud bang outside woke the sleeping child with a start."
+   },
+   {
+    "zh": "他这番话说得太突然,大家一下子都愣住了。",
+    "pinyin": "Tā zhè fān huà shuō de tài tū rán, dà jiā yī xià zi dōu lèng zhù le。",
+    "en": "His words were so sudden that everyone froze for a moment."
+   },
+   {
+    "zh": "气温一下子降了十几度,大家都赶紧加了衣服。",
+    "pinyin": "Qì wēn yī xià zi jiàng le shí jǐ dù, dà jiā dōu gǎn jǐn jiā le yī fú。",
+    "en": "The temperature dropped over ten degrees at once; everyone bundled up."
+   },
+   {
+    "zh": "这个新出的应用,一下子就吸引了成千上万的用户。",
+    "pinyin": "Zhè ge xīn chū de yìng yòng, yī xià zi jiù xī yǐn le chéng qiān shàng wàn de yòng hù。",
+    "en": "This new app instantly attracted tens of thousands of users."
+   },
+   {
+    "zh": "他一下子把心里憋了很久的话全说了出来。",
+    "pinyin": "Tā yī xià zi bǎ xīn lǐ biē le hěn jiǔ de huà quán shuō le chū lái。",
+    "en": "He blurted out all at once the words he'd held back for so long."
+   }
+  ]
+ },
+ {
+  "id": "g154",
+  "level": 3,
+  "title": "\"差点儿\" ile \"az kalsın, neredeyse\"",
+  "titleEn": "Expressing \"almost\" using \"chadian\"",
+  "pattern": "Özne + 差点儿 + Yüklem",
+  "summary": "\"差点儿\" (chàdiǎnr) istenmeyen bir şeyin AZ KALSIN olduğunu (ama olmadığını) bildirir: 我差点儿迟到 = Az kalsın geç kalıyordum (ama kalmadım).",
+  "explanation": "\"差点儿\" \"az kalsın, neredeyse, ramak kaldı\" anlamı taşır ve çoğu zaman İSTENMEYEN bir şeyin olmasına ramak kaldığını (ama olmadığını) belirtir: 我差点儿摔倒 (Az kalsın düşüyordum — ama düşmedim), 差点儿忘了 (Neredeyse unutuyordum). İlginç bir nokta: İSTENEN bir sonuç için \"差点儿没...\" da aynı \"az kalsın olmuyordu, ucu ucuna oldu\" anlamına gelebilir: 差点儿没赶上车 = az kalsın yetişemiyordum (ama yetiştim). Yani istenen olayla \"差点儿VP\" ve \"差点儿没VP\" çoğu zaman aynı sonucu (ucu ucuna gerçekleşti) verir. İstenmeyen olayla ise \"差点儿VP\" = olmadı. Türkçedeki \"az kalsın, neredeyse, ramak kalmıştı\" ifadelerine denk gelir; kıl payı kaçırılan ya da atlatılan durumları anlatır.",
+  "examples": [
+   {
+    "zh": "路上太堵了,我差点儿没赶上那班火车。",
+    "pinyin": "Lù shàng tài dǔ le, wǒ chà diǎn ér méi gǎn shàng nà bān huǒ chē。",
+    "en": "The traffic was terrible; I almost missed that train."
+   },
+   {
+    "zh": "地上有水,我刚才差点儿滑倒,吓了一跳。",
+    "pinyin": "De shàng yǒu shuǐ, wǒ gāng cái chà diǎn ér huá dào, xià le yī tiào。",
+    "en": "The floor was wet; I almost slipped just now and got a fright."
+   },
+   {
+    "zh": "这件事太突然了,他差点儿没反应过来。",
+    "pinyin": "Zhè jiàn shì tài tū rán le, tā chà diǎn ér méi fǎn yìng guò lái。",
+    "en": "It was so sudden that he almost didn't react in time."
+   },
+   {
+    "zh": "要不是你提醒,我差点儿把这么重要的事忘了。",
+    "pinyin": "Yào bú shì nǐ tí xǐng, wǒ chà diǎn ér bǎ zhè me zhòng yào de shì wàng le。",
+    "en": "If not for your reminder, I'd almost have forgotten this important thing."
+   },
+   {
+    "zh": "那道题特别难,全班差点儿没有一个人做对。",
+    "pinyin": "Nà dào tí tè bié nán, quán bān chà diǎn ér méi yǒu yí gè rén zuò duì。",
+    "en": "That question was so hard almost no one in the class got it right."
+   },
+   {
+    "zh": "听到这个笑话,我差点儿把嘴里的水喷出来。",
+    "pinyin": "Tīng dào zhè ge xiào huà, wǒ chà diǎn ér bǎ zuǐ lǐ de shuǐ pēn chū lái。",
+    "en": "Hearing the joke, I almost spat out the water in my mouth."
+   },
+   {
+    "zh": "他开车太快,差点儿撞上路边的树。",
+    "pinyin": "Tā kāi chē tài kuài, chà diǎn ér zhuàng shàng lù biān de shù。",
+    "en": "He drove so fast he almost hit a tree by the road."
+   },
+   {
+    "zh": "看那部电影的时候,我感动得差点儿哭了。",
+    "pinyin": "Kàn nà bù diàn yǐng de shí hòu, wǒ gǎn dòng de chà diǎn ér kū le。",
+    "en": "Watching that movie, I was so moved I almost cried."
+   },
+   {
+    "zh": "楼梯太黑,我差点儿踩空,幸好扶住了扶手。",
+    "pinyin": "Lóu tī tài hēi, wǒ chà diǎn ér cǎi kōng, xìng hǎo fú zhù le fú shǒu。",
+    "en": "The stairs were dark; I almost missed a step but grabbed the rail."
+   },
+   {
+    "zh": "今天早上闹钟没响,我差点儿睡过头。",
+    "pinyin": "Jīn tiān zǎo shàng nào zhōng méi xiǎng, wǒ chà diǎn ér shuì guò tóu。",
+    "en": "The alarm didn't ring this morning; I almost overslept."
+   },
+   {
+    "zh": "这道菜放多了辣椒,辣得我差点儿掉眼泪。",
+    "pinyin": "Zhè dào cài fàng duō le là jiāo, là de wǒ chà diǎn ér diào yǎn lèi。",
+    "en": "This dish had too much chili; it almost brought me to tears."
+   },
+   {
+    "zh": "他们的比分咬得很紧,我们差点儿就输了。",
+    "pinyin": "Tā men de bǐ fēn yǎo de hěn jǐn, wǒ men chà diǎn ér jiù shū le。",
+    "en": "The score was neck and neck; we almost lost."
+   },
+   {
+    "zh": "风太大,我手里的帽子差点儿被吹跑了。",
+    "pinyin": "Fēng tài dà, wǒ shǒu lǐ de mào zi chà diǎn ér bèi chuī pǎo le。",
+    "en": "The wind was so strong my hat was almost blown away."
+   },
+   {
+    "zh": "消息来得太快,我差点儿不敢相信自己的耳朵。",
+    "pinyin": "Xiāo xī lái de tài kuài, wǒ chà diǎn ér bù gǎn xiāng xìn zì jǐ de ěr duǒ。",
+    "en": "The news came so fast I could hardly believe my ears."
+   },
+   {
+    "zh": "要不是有人扶了他一把,他差点儿就摔下台阶。",
+    "pinyin": "Yào bú shì yǒu rén fú le tā yī bǎ, tā chà diǎn ér jiù shuāi xià tái jiē。",
+    "en": "If someone hadn't steadied him, he'd almost have fallen down the steps."
+   },
+   {
+    "zh": "这些年过得太快,我差点儿忘了自己的初心。",
+    "pinyin": "Zhè xiē nián guò de tài kuài, wǒ chà diǎn ér wàng le zì jǐ de chū xīn。",
+    "en": "These years passed so fast I almost forgot my original intention."
+   },
+   {
+    "zh": "包裹上的字太小,我差点儿看错了地址。",
+    "pinyin": "Bāo guǒ shàng de zì tài xiǎo, wǒ chà diǎn ér kàn cuò le dì zhǐ。",
+    "en": "The writing on the parcel was tiny; I almost misread the address."
+   },
+   {
+    "zh": "他一激动,差点儿把杯子碰翻了。",
+    "pinyin": "Tā yī jī dòng, chà diǎn ér bǎ bēi zi pèng fān le。",
+    "en": "In his excitement, he almost knocked over the cup."
+   },
+   {
+    "zh": "那天雾很大,我差点儿没找到回家的路。",
+    "pinyin": "Nà tiān wù hěn dà, wǒ chà diǎn ér méi zhǎo dào huí jiā de lù。",
+    "en": "It was very foggy that day; I almost couldn't find my way home."
+   },
+   {
+    "zh": "这个消息太让人高兴了,我差点儿叫出声来。",
+    "pinyin": "Zhè ge xiāo xī tài ràng rén gāo xìng le, wǒ chà diǎn ér jiào chū shēng lái。",
+    "en": "The news was so delightful I almost cried out."
+   },
+   {
+    "zh": "孩子跑得太急,差点儿在门口撞到人。",
+    "pinyin": "Hái zi pǎo de tài jí, chà diǎn ér zài mén kǒu zhuàng dào rén。",
+    "en": "The child ran so hurriedly he almost bumped into someone at the door."
+   },
+   {
+    "zh": "要不是准备得充分,这次面试我差点儿就搞砸了。",
+    "pinyin": "Yào bú shì zhǔn bèi de chōng fèn, zhè cì miàn shì wǒ chà diǎn ér jiù gǎo zá le。",
+    "en": "If I hadn't prepared well, I'd almost have blown this interview."
+   },
+   {
+    "zh": "那本书太厚了,我差点儿没能在期限内看完。",
+    "pinyin": "Nà běn shū tài hòu le, wǒ chà diǎn ér méi néng zài qī xiàn nèi kàn wán。",
+    "en": "That book was so thick I almost couldn't finish it in time."
+   },
+   {
+    "zh": "他说得太逼真,我差点儿信以为真。",
+    "pinyin": "Tā shuō de tài bī zhēn, wǒ chà diǎn ér xìn yǐ wéi zhēn。",
+    "en": "He spoke so convincingly that I almost took it as true."
+   },
+   {
+    "zh": "车来得太突然,那个孩子差点儿出了危险。",
+    "pinyin": "Chē lái de tài tū rán, nà ge hái zi chà diǎn ér chū le wēi xiǎn。",
+    "en": "The car came so suddenly that the child was almost in danger."
+   }
+  ]
  }
 ]

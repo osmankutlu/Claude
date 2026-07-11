@@ -14278,5 +14278,685 @@
     "en": "The water in this river has never dried up in all four seasons."
    }
   ]
+ },
+ {
+  "id": "g106",
+  "level": 2,
+  "title": "\"一起\" ile \"birlikte\"",
+  "titleEn": "Expressing \"together\" with \"yiqi\"",
+  "pattern": "(跟/和 ...) 一起 + Fiil",
+  "summary": "\"一起\" (yìqǐ) bir eylemin birlikte yapıldığını gösterir ve fiilden önce gelir: 一起去 = birlikte gitmek.",
+  "explanation": "\"一起\" bir eylemin birden çok kişi tarafından BİRLİKTE yapıldığını bildirir ve her zaman fiilin ÖNÜNDE durur: 我们一起吃饭 (Birlikte yemek yiyoruz). Kiminle birlikte olduğunu belirtmek için çoğu zaman \"跟/和 ... 一起\" kalıbı kullanılır: 我跟朋友一起去 (Arkadaşımla birlikte giderim). \"一起\" tek başına da \"beraberce\" anlamı verir ve zarf gibi davranır. Türkçedeki \"birlikte, beraber\" ile örtüşür. Bir yeri değil, eylemin ortaklaşa yapıldığını vurgular; bu yüzden mutlaka bir fiille birlikte gelir.",
+  "examples": [
+   {
+    "zh": "周末我们一起去爬山吧,顺便呼吸一下新鲜空气。",
+    "pinyin": "Zhōu mò wǒ men yì qǐ qù pá shān ba, shùn biàn hū xī yī xià xīn xiān kōng qì。",
+    "en": "Let's go hiking together this weekend and get some fresh air."
+   },
+   {
+    "zh": "每年春节,一家人都会围在一起吃年夜饭。",
+    "pinyin": "Měi nián chūn jié, yī jiā rén dū huì wéi zài yì qǐ chī nián yè fàn。",
+    "en": "Every Spring Festival, the whole family gathers to eat New Year's dinner together."
+   },
+   {
+    "zh": "我跟几个老同学约好一起去看那场演唱会。",
+    "pinyin": "Wǒ gēn jǐ gè lǎo tóng xué yuē hǎo yì qǐ qù kàn nà chǎng yǎn chàng huì。",
+    "en": "I've arranged with some old classmates to go to that concert together."
+   },
+   {
+    "zh": "孩子们喜欢聚在一起做游戏,笑声传得很远。",
+    "pinyin": "Hái zi men xǐ huān jù zài yì qǐ zuò yóu xì, xiào shēng chuán de hěn yuǎn。",
+    "en": "The children love gathering to play games; their laughter carries far."
+   },
+   {
+    "zh": "有困难我们一起面对,你不用一个人扛着。",
+    "pinyin": "Yǒu kùn nán wǒ men yì qǐ miàn duì, nǐ bù yòng yí gè rén káng zhe。",
+    "en": "Let's face difficulties together; you don't have to bear it alone."
+   },
+   {
+    "zh": "下课以后,我们一起去食堂吃了顿午饭。",
+    "pinyin": "Xià kè yǐ hòu, wǒ men yì qǐ qù shí táng chī le dùn wǔ fàn。",
+    "en": "After class, we went to the canteen for lunch together."
+   },
+   {
+    "zh": "咱们把这些桌子一起搬到那边去吧,一个人太重了。",
+    "pinyin": "Zán men bǎ zhè xiē zhuō zi yì qǐ bān dào nà biān qù ba, yí gè rén tài zhòng le。",
+    "en": "Let's move these tables over there together; it's too heavy for one."
+   },
+   {
+    "zh": "他们俩从小一起长大,感情比亲兄弟还好。",
+    "pinyin": "Tā men liǎ cóng xiǎo yì qǐ zhǎng dà, gǎn qíng bǐ qīn xiōng dì hái hǎo。",
+    "en": "The two grew up together and are closer than real brothers."
+   },
+   {
+    "zh": "放假的时候,全家人打算一起去南方旅行。",
+    "pinyin": "Fàng jià de shí hòu, quán jiā rén dǎ suàn yì qǐ qù nán fāng lǚ xíng。",
+    "en": "During the holiday, the whole family plans to travel south together."
+   },
+   {
+    "zh": "你要是不忙,咱们一起研究一下这个难题。",
+    "pinyin": "Nǐ yào shì bù máng, zán men yì qǐ yán jiū yī xià zhè ge nán tí。",
+    "en": "If you're free, let's study this tough problem together."
+   },
+   {
+    "zh": "这么好的电影,咱们一起去看多有意思。",
+    "pinyin": "Zhè me hǎo de diàn yǐng, zán men yì qǐ qù kàn duō yǒu yì si。",
+    "en": "Such a good movie — how fun it would be to watch it together."
+   },
+   {
+    "zh": "我们几个凑在一起,合买了一份生日礼物。",
+    "pinyin": "Wǒ men jǐ gè còu zài yì qǐ, hé mǎi le yī fèn shēng rì lǐ wù。",
+    "en": "A few of us pooled together and jointly bought a birthday gift."
+   },
+   {
+    "zh": "每天晚饭后,他都要跟老伴一起散散步。",
+    "pinyin": "Měi tiān wǎn fàn hòu, tā dōu yào gēn lǎo bàn yì qǐ sàn sàn bù。",
+    "en": "Every evening after dinner, he takes a walk with his wife."
+   },
+   {
+    "zh": "同学们一起动手,很快就把教室打扫干净了。",
+    "pinyin": "Tóng xué men yì qǐ dòng shǒu, hěn kuài jiù bǎ jiào shì dǎ sǎo gān jìng le。",
+    "en": "The students worked together and quickly cleaned the classroom."
+   },
+   {
+    "zh": "我们把各自的想法放在一起讨论,效率高多了。",
+    "pinyin": "Wǒ men bǎ gè zì de xiǎng fǎ fàng zài yì qǐ tǎo lùn, xiào lǜ gāo duō le。",
+    "en": "We put our ideas together to discuss, which is far more efficient."
+   },
+   {
+    "zh": "过节的时候,亲戚朋友聚在一起格外热闹。",
+    "pinyin": "Guò jié de shí hòu, qīn qī péng yǒu jù zài yì qǐ gé wài rè nào。",
+    "en": "During festivals, relatives and friends gather together, extra lively."
+   },
+   {
+    "zh": "你带的菜跟我带的正好可以一起分着吃。",
+    "pinyin": "Nǐ dài de cài gēn wǒ dài de zhèng hǎo kě yǐ yì qǐ fēn zhe chī。",
+    "en": "The food you brought and mine can be shared together nicely."
+   },
+   {
+    "zh": "咱们一起加把劲,争取今天把工作做完。",
+    "pinyin": "Zán men yì qǐ jiā bǎ jìn, zhēng qǔ jīn tiān bǎ gōng zuò zuò wán。",
+    "en": "Let's put in more effort together and try to finish the work today."
+   },
+   {
+    "zh": "孩子和爷爷一起在院子里种了几棵小树。",
+    "pinyin": "Hái zi hé yé yé yì qǐ zài yuàn zi lǐ zhǒng le jǐ kē xiǎo shù。",
+    "en": "The child planted a few small trees in the yard with grandpa."
+   },
+   {
+    "zh": "我们一起走过了那么多困难的日子,更懂得珍惜。",
+    "pinyin": "Wǒ men yì qǐ zǒu guò le nà me duō kùn nán de rì zi, gèng dǒng de zhēn xī。",
+    "en": "We've been through so many hard days together and cherish it more."
+   },
+   {
+    "zh": "大家一起唱起了那首熟悉的老歌,眼里都有泪光。",
+    "pinyin": "Dà jiā yì qǐ chàng qǐ le nà shǒu shú xī de lǎo gē, yǎn lǐ dōu yǒu lèi guāng。",
+    "en": "Everyone sang that familiar old song together, tears in their eyes."
+   },
+   {
+    "zh": "放学后我常常和朋友一起在操场上打篮球。",
+    "pinyin": "Fàng xué hòu wǒ cháng cháng hé péng yǒu yì qǐ zài cāo chǎng shàng dǎ lán qiú。",
+    "en": "After school I often play basketball with friends on the field."
+   },
+   {
+    "zh": "这件事咱们一起商量商量,总能找到办法。",
+    "pinyin": "Zhè jiàn shì zán men yì qǐ shāng liáng shāng liáng, zǒng néng zhǎo dào bàn fǎ。",
+    "en": "Let's discuss this together; we're sure to find a way."
+   },
+   {
+    "zh": "过年时,一大家子人挤在一起包饺子,特别温馨。",
+    "pinyin": "Guò nián shí, yī dà jiā zi rén jǐ zài yì qǐ bāo jiǎo zi, tè bié wēn xīn。",
+    "en": "At New Year, the whole big family crowds together making dumplings, so cozy."
+   },
+   {
+    "zh": "我们把行李一起放在门口,准备一会儿出发。",
+    "pinyin": "Wǒ men bǎ xíng lǐ yì qǐ fàng zài mén kǒu, zhǔn bèi yī huì er chū fā。",
+    "en": "We put the luggage together by the door, ready to leave soon."
+   }
+  ]
+ },
+ {
+  "id": "g107",
+  "level": 2,
+  "title": "\"了\" ile süre belirtme",
+  "titleEn": "Expressing duration with \"le\"",
+  "pattern": "Fiil + 了 + Süre",
+  "summary": "Fiilden sonra \"了\" ve ardından bir süre gelirse eylemin ne kadar sürdüğü anlatılır: 我学了三年汉语 = Üç yıl Çince öğrendim.",
+  "explanation": "Bir eylemin NE KADAR sürdüğünü anlatmak için kalıp: Fiil + 了 + süre (+ nesne). 我等了半个小时 (Yarım saat bekledim), 他睡了八个小时 (Sekiz saat uyudu). Nesne varsa süre nesneden ÖNCE gelir ve genelde \"的\" ile bağlanabilir: 我学了三年(的)汉语 (Üç yıl Çince öğrendim). Bu \"了\" tamamlanmış, bitmiş bir süreyi bildirir — eylem artık sona ermiştir. Süre bir zaman NOKTASI değil, zaman UZUNLUĞUDUR (三年, 两个小时, 半天). Fiilden sonraki bu konum, süreyi cümlenin başındaki zaman sözcüklerinden (o zaman \"ne zaman\"ı gösterir) ayırır.",
+  "examples": [
+   {
+    "zh": "为了准备这次考试,我复习了整整一个月。",
+    "pinyin": "Wèi le zhǔn bèi zhè cì kǎo shì, wǒ fù xí le zhěng zhěng yí gè yuè。",
+    "en": "To prepare for this exam, I reviewed for a whole month."
+   },
+   {
+    "zh": "他在这家公司工作了十年,对这里很有感情。",
+    "pinyin": "Tā zài zhè jiā gōng sī gōng zuò le shí nián, duì zhè lǐ hěn yǒu gǎn qíng。",
+    "en": "He worked at this company for ten years and is attached to it."
+   },
+   {
+    "zh": "昨天晚上我们聊了三个多小时才依依不舍地告别。",
+    "pinyin": "Zuó tiān wǎn shàng wǒ men liáo le sān gè duō xiǎo shí cái yī yī bù shě de gào bié。",
+    "en": "Last night we talked for over three hours before reluctantly parting."
+   },
+   {
+    "zh": "这场大雨下了一天一夜,河水都涨起来了。",
+    "pinyin": "Zhè chǎng dà yǔ xià le yī tiān yī yè, hé shuǐ dōu zhǎng qǐ lái le。",
+    "en": "This heavy rain fell for a day and a night, and the river rose."
+   },
+   {
+    "zh": "我在门口等了半个小时,他才慢悠悠地出现。",
+    "pinyin": "Wǒ zài mén kǒu děng le bàn gè xiǎo shí, tā cái màn yōu yōu de chū xiàn。",
+    "en": "I waited at the door for half an hour before he leisurely appeared."
+   },
+   {
+    "zh": "为了学好这门手艺,他跟着师傅学了整整三年。",
+    "pinyin": "Wèi le xué hǎo zhè mén shǒu yì, tā gēn zhe shī fù xué le zhěng zhěng sān nián。",
+    "en": "To master this craft, he studied under his master for a full three years."
+   },
+   {
+    "zh": "孩子发烧了,妈妈守在床边照顾了他一整夜。",
+    "pinyin": "Hái zi fā shāo le, mā mā shǒu zài chuáng biān zhào gù le tā yī zhěng yè。",
+    "en": "The child had a fever, and mom watched over and cared for him all night."
+   },
+   {
+    "zh": "这本厚厚的小说,我断断续续读了两个星期。",
+    "pinyin": "Zhè běn hòu hòu de xiǎo shuō, wǒ duàn duàn xù xù dú le liǎng gè xīng qī。",
+    "en": "This thick novel took me two weeks of on-and-off reading."
+   },
+   {
+    "zh": "他们排队买票排了两个小时,腿都站酸了。",
+    "pinyin": "Tā men pái duì mǎi piào pái le liǎng gè xiǎo shí, tuǐ dōu zhàn suān le。",
+    "en": "They queued for tickets for two hours until their legs ached."
+   },
+   {
+    "zh": "我在国外生活了五年,慢慢习惯了那里的一切。",
+    "pinyin": "Wǒ zài guó wài shēng huó le wǔ nián, màn màn xí guàn le nà lǐ de yī qiè。",
+    "en": "I lived abroad for five years and gradually got used to everything there."
+   },
+   {
+    "zh": "这场比赛打了将近三个小时,双方都拼尽了全力。",
+    "pinyin": "Zhè chǎng bǐ sài dǎ le jiāng jìn sān gè xiǎo shí, shuāng fāng dōu pīn jǐn le quán lì。",
+    "en": "This match lasted nearly three hours, both sides giving their all."
+   },
+   {
+    "zh": "为了这个方案,我们讨论了好几天才最终定下来。",
+    "pinyin": "Wèi le zhè ge fāng àn, wǒ men tǎo lùn le hǎo jǐ tiān cái zuì zhōng dìng xià lái。",
+    "en": "For this plan, we discussed for several days before finalizing it."
+   },
+   {
+    "zh": "他盯着那幅画看了很久,好像想起了什么往事。",
+    "pinyin": "Tā dīng zhe nà fú huà kàn le hěn jiǔ, hǎo xiàng xiǎng qǐ le shén me wǎng shì。",
+    "en": "He stared at that painting for a long time, as if recalling the past."
+   },
+   {
+    "zh": "我练了半年的字,总算写得像模像样了。",
+    "pinyin": "Wǒ liàn le bàn nián de zì, zǒng suàn xiě de xiàng mú xiàng yàng le。",
+    "en": "I practiced writing for half a year and it finally looks decent."
+   },
+   {
+    "zh": "这台旧机器用了二十年,到现在还能正常运转。",
+    "pinyin": "Zhè tái jiù jī qì yòng le èr shí nián, dào xiàn zài hái néng zhèng cháng yùn zhuàn。",
+    "en": "This old machine has been used for twenty years and still works fine."
+   },
+   {
+    "zh": "我们在雪地里走了两个小时,终于看到了灯光。",
+    "pinyin": "Wǒ men zài xuě de lǐ zǒu le liǎng gè xiǎo shí, zhōng yú kàn dào le dēng guāng。",
+    "en": "We walked in the snow for two hours before finally seeing lights."
+   },
+   {
+    "zh": "他抱着孩子在屋里来回走了半天,孩子才睡着。",
+    "pinyin": "Tā bào zhe hái zi zài wū lǐ lái huí zǒu le bàn tiān, hái zi cái shuì zháo。",
+    "en": "He carried the child pacing the room for a long time before it fell asleep."
+   },
+   {
+    "zh": "为了赶这份报告,他熬了一个通宵。",
+    "pinyin": "Wèi le gǎn zhè fèn bào gào, tā áo le yí gè tōng xiāo。",
+    "en": "To finish this report, he stayed up the whole night."
+   },
+   {
+    "zh": "这门外语我断断续续学了好几年,现在还能说几句。",
+    "pinyin": "Zhè mén wài yǔ wǒ duàn duàn xù xù xué le hǎo jǐ nián, xiàn zài hái néng shuō jǐ jù。",
+    "en": "I studied this foreign language on and off for years and can still speak a bit."
+   },
+   {
+    "zh": "老人在这个村子里住了大半辈子,舍不得离开。",
+    "pinyin": "Lǎo rén zài zhè ge cūn zi lǐ zhù le dà bàn bèi zi, shě bù de lí kāi。",
+    "en": "The old man lived in this village most of his life and can't bear to leave."
+   },
+   {
+    "zh": "我们在海边待了三天,晒得又黑又健康。",
+    "pinyin": "Wǒ men zài hǎi biān dài le sān tiān, shài de yòu hēi yòu jiàn kāng。",
+    "en": "We stayed by the sea for three days and got tanned and healthy."
+   },
+   {
+    "zh": "他一口气跑了十公里,累得连话都说不出来。",
+    "pinyin": "Tā yì kǒu qì pǎo le shí gōng lǐ, lèi de lián huà dōu shuō bù chū lái。",
+    "en": "He ran ten kilometers in one go, too tired to even speak."
+   },
+   {
+    "zh": "这件事我想了一整天,还是没想出好办法。",
+    "pinyin": "Zhè jiàn shì wǒ xiǎng le yī zhěng tiān, hái shì méi xiǎng chū hǎo bàn fǎ。",
+    "en": "I thought about this all day but still couldn't come up with a good idea."
+   },
+   {
+    "zh": "为了见你一面,我坐了十几个小时的火车。",
+    "pinyin": "Wèi le jiàn nǐ yí miàn, wǒ zuò le shí jǐ gè xiǎo shí de huǒ chē。",
+    "en": "To see you once, I took a train for over ten hours."
+   },
+   {
+    "zh": "他们相爱了很多年,最后终于走进了婚姻。",
+    "pinyin": "Tā men xiāng ài le hěn duō nián, zuì hòu zhōng yú zǒu jìn le hūn yīn。",
+    "en": "They loved each other for many years and finally married."
+   }
+  ]
+ },
+ {
+  "id": "g108",
+  "level": 2,
+  "title": "İki \"了\" ile süregelen süre",
+  "titleEn": "Expressing ongoing duration with double \"le\"",
+  "pattern": "Fiil + 了 + Süre + 了",
+  "summary": "İki \"了\" (fiilden sonra ve cümle sonunda) eylemin hâlâ SÜRDÜĞÜNÜ ve şimdiye dek ne kadar sürdüğünü bildirir: 我学了三年汉语了 = Üç yıldır Çince öğreniyorum (hâlâ devam).",
+  "explanation": "Kalıp: Fiil + 了 + süre + 了 — iki \"了\" birlikte, eylemin geçmişte başlayıp ŞU ANA KADAR SÜRDÜĞÜNÜ ve daha da sürebileceğini bildirir. 我等了一个小时了 (Bir saattir bekliyorum — hâlâ bekliyorum), 他病了三天了 (Üç gündür hasta — hâlâ hasta). Tek \"了\"lu \"我等了一个小时\" ise beklemenin BİTTİĞİNİ ima eder; ikinci \"了\" ise sürecin HÂLÂ devam ettiğini vurgular. Türkçedeki \"...-dır/...-dir ...-ıyor\" (üç gündür yağıyor) mantığına denk gelir. Bu ince fark HSK2 düzeyinde önemli bir ayrımdır.",
+  "examples": [
+   {
+    "zh": "我们已经等了他一个多小时了,他怎么还不来?",
+    "pinyin": "Wǒ men yǐ jīng děng le tā yí gè duō xiǎo shí le, tā zěn me hái bù lái?",
+    "en": "We've been waiting for him over an hour now; why isn't he here yet?"
+   },
+   {
+    "zh": "这场雨下了三天了,到现在还没有要停的意思。",
+    "pinyin": "Zhè chǎng yǔ xià le sān tiān le, dào xiàn zài hái méi yǒu yào tíng de yì si。",
+    "en": "It's been raining for three days now, with no sign of stopping."
+   },
+   {
+    "zh": "他学汉语已经学了两年了,现在能看懂新闻了。",
+    "pinyin": "Tā xué hàn yǔ yǐ jīng xué le liǎng nián le, xiàn zài néng kàn dǒng xīn wén le。",
+    "en": "He's been learning Chinese for two years now and can read the news."
+   },
+   {
+    "zh": "我在这家公司干了八年了,早就把这儿当成家了。",
+    "pinyin": "Wǒ zài zhè jiā gōng sī gàn le bā nián le, zǎo jiù bǎ zhè ér dàng chéng jiā le。",
+    "en": "I've worked at this company for eight years now and see it as home."
+   },
+   {
+    "zh": "孩子睡了快十个小时了,估计是这几天太累了。",
+    "pinyin": "Hái zi shuì le kuài shí gè xiǎo shí le, gū jì shì zhè jǐ tiān tài lèi le。",
+    "en": "The child has been sleeping nearly ten hours; probably too tired lately."
+   },
+   {
+    "zh": "我站在这儿等你半天了,你到底去哪儿了?",
+    "pinyin": "Wǒ zhàn zài zhè ér děng nǐ bàn tiān le, nǐ dào dǐ qù nǎ ér le?",
+    "en": "I've been standing here waiting for you for ages; where did you go?"
+   },
+   {
+    "zh": "他们认识都快十年了,感情一直特别好。",
+    "pinyin": "Tā men rèn shí dōu kuài shí nián le, gǎn qíng yì zhí tè bié hǎo。",
+    "en": "They've known each other nearly ten years now and remain very close."
+   },
+   {
+    "zh": "我看这本书已经看了一个星期了,还没看到一半。",
+    "pinyin": "Wǒ kàn zhè běn shū yǐ jīng kàn le yí gè xīng qī le, hái méi kàn dào yí bàn。",
+    "en": "I've been reading this book for a week now and I'm not even halfway."
+   },
+   {
+    "zh": "这台空调开了一整天了,屋里还是有点儿热。",
+    "pinyin": "Zhè tái kōng tiáo kāi le yī zhěng tiān le, wū lǐ hái shì yǒu diǎn ér rè。",
+    "en": "The AC has been on all day now, yet the room is still a bit warm."
+   },
+   {
+    "zh": "我练这首曲子练了一个月了,总算能弹下来了。",
+    "pinyin": "Wǒ liàn zhè shǒu qǔ zi liàn le yí gè yuè le, zǒng suàn néng dàn xià lái le。",
+    "en": "I've been practicing this piece for a month now and can finally play it."
+   },
+   {
+    "zh": "老人在窗前坐了很久了,一直望着回家的路。",
+    "pinyin": "Lǎo rén zài chuāng qián zuò le hěn jiǔ le, yì zhí wàng zhe huí jiā de lù。",
+    "en": "The old man has been sitting by the window a long time, watching the road home."
+   },
+   {
+    "zh": "我减肥都坚持三个月了,可惜效果不太明显。",
+    "pinyin": "Wǒ jiǎn féi dōu jiān chí sān gè yuè le, kě xī xiào guǒ bù tài míng xiǎn。",
+    "en": "I've stuck to my diet for three months now, but sadly the results aren't obvious."
+   },
+   {
+    "zh": "这件事我想了好几天了,还是拿不定主意。",
+    "pinyin": "Zhè jiàn shì wǒ xiǎng le hǎo jǐ tiān le, hái shì ná bù dìng zhǔ yì。",
+    "en": "I've been thinking about this for several days now and still can't decide."
+   },
+   {
+    "zh": "他咳嗽好几天了,你劝他早点去看看医生吧。",
+    "pinyin": "Tā ké sòu hǎo jǐ tiān le, nǐ quàn tā zǎo diǎn qù kàn kàn yī shēng ba。",
+    "en": "He's been coughing for days now; urge him to see a doctor soon."
+   },
+   {
+    "zh": "我们在路上堵了快一个小时了,眼看要迟到了。",
+    "pinyin": "Wǒ men zài lù shàng dǔ le kuài yí gè xiǎo shí le, yǎn kàn yào chí dào le。",
+    "en": "We've been stuck in traffic nearly an hour now and are about to be late."
+   },
+   {
+    "zh": "这双鞋我穿了好几年了,舒服得舍不得扔。",
+    "pinyin": "Zhè shuāng xié wǒ chuān le hǎo jǐ nián le, shū fú de shě bù de rēng。",
+    "en": "I've worn these shoes for years now; they're too comfortable to throw away."
+   },
+   {
+    "zh": "他出国工作已经三年了,一家人都很想念他。",
+    "pinyin": "Tā chū guó gōng zuò yǐ jīng sān nián le, yī jiā rén dōu hěn xiǎng niàn tā。",
+    "en": "He's been working abroad for three years now, and the family misses him."
+   },
+   {
+    "zh": "我在这个城市住了十几年了,对每条街都很熟悉。",
+    "pinyin": "Wǒ zài zhè ge chéng shì zhù le shí jǐ nián le, duì měi tiáo jiē dōu hěn shú xī。",
+    "en": "I've lived in this city for over ten years now and know every street."
+   },
+   {
+    "zh": "孩子看电视都看了两个小时了,该让他歇歇眼睛了。",
+    "pinyin": "Hái zi kàn diàn shì dōu kàn le liǎng gè xiǎo shí le, gāi ràng tā xiē xiē yǎn jīng le。",
+    "en": "The child has watched TV for two hours now; time to rest his eyes."
+   },
+   {
+    "zh": "这个问题我们讨论半天了,还是没有一致的结论。",
+    "pinyin": "Zhè ge wèn tí wǒ men tǎo lùn bàn tiān le, hái shì méi yǒu yí zhì de jié lùn。",
+    "en": "We've been discussing this for a long while now with no consensus."
+   },
+   {
+    "zh": "他等这个机会等了很多年了,这次一定不会放过。",
+    "pinyin": "Tā děng zhè ge jī huì děng le hěn duō nián le, zhè cì yí dìng bú huì fàng guò。",
+    "en": "He's waited many years for this chance and won't let it slip this time."
+   },
+   {
+    "zh": "我盼这一天盼了好久了,今天终于实现了。",
+    "pinyin": "Wǒ pàn zhè yī tiān pàn le hǎo jiǔ le, jīn tiān zhōng yú shí xiàn le。",
+    "en": "I've longed for this day for so long, and today it's finally come true."
+   },
+   {
+    "zh": "这台旧电脑用了七八年了,速度越来越慢。",
+    "pinyin": "Zhè tái jiù diàn nǎo yòng le qī bā nián le, sù dù yuè lái yuè màn。",
+    "en": "This old computer has been used for seven or eight years now and keeps slowing."
+   },
+   {
+    "zh": "雪已经下了一夜了,外面积了厚厚的一层。",
+    "pinyin": "Xuě yǐ jīng xià le yī yè le, wài miàn jī le hòu hòu de yī céng。",
+    "en": "It's been snowing all night now, and a thick layer has piled up outside."
+   },
+   {
+    "zh": "我们排队都排了一个多小时了,前面还有好多人。",
+    "pinyin": "Wǒ men pái duì dōu pái le yí gè duō xiǎo shí le, qián miàn hái yǒu hǎo duō rén。",
+    "en": "We've been queuing over an hour now, with many people still ahead."
+   }
+  ]
+ },
+ {
+  "id": "g109",
+  "level": 2,
+  "title": "\"没办法\" ile çaresizlik",
+  "titleEn": "Inability with \"mei banfa\"",
+  "pattern": "没办法 + Fiil",
+  "summary": "\"没办法\" (méi bànfǎ) \"çaresi yok, elden bir şey gelmez, ...-amıyorum\" anlamı verir: 我没办法帮你 = Sana yardım edemem (elimden gelmez).",
+  "explanation": "\"没办法\" kelimesi kelimesine \"yöntem/çare yok\" demektir ve bir şeyi yapmanın MÜMKÜN olmadığını, çaresizliği bildirir. İki biçimde kullanılır: (1) tek başına, \"elden bir şey gelmez, ne yapalım\" — 没办法,只能这样了 (Çare yok, ancak böyle olur). (2) \"没办法 + fiil\" biçiminde \"...-amıyorum, ...-mak elimde değil\" — 我没办法帮你 (Sana yardım edemiyorum). Çoğu zaman dış koşulların engellediği bir durumu, isteksizlikten değil imkânsızlıktan doğan bir kabullenişi anlatır. Türkçedeki \"çaresi yok, elimden gelmiyor, mecbur\" tonlarını taşır.",
+  "examples": [
+   {
+    "zh": "外面堵车堵得厉害,我实在没办法准时赶到。",
+    "pinyin": "Wài miàn dǔ chē dǔ de lì hài, wǒ shí zài méi bàn fǎ zhǔn shí gǎn dào。",
+    "en": "The traffic is terrible; I really can't get there on time."
+   },
+   {
+    "zh": "他的脾气就是那样,我们也没办法改变他。",
+    "pinyin": "Tā de pí qì jiù shì nà yàng, wǒ men yě méi bàn fǎ gǎi biàn tā。",
+    "en": "That's just his temper; there's nothing we can do to change him."
+   },
+   {
+    "zh": "对不起,这件事超出了我的能力,我没办法帮你。",
+    "pinyin": "Duì bù qǐ, zhè jiàn shì chāo chū le wǒ de néng lì, wǒ méi bàn fǎ bāng nǐ。",
+    "en": "Sorry, this is beyond me; I can't help you with it."
+   },
+   {
+    "zh": "钱不够,又没办法借到,他只好放弃了那个计划。",
+    "pinyin": "Qián bù gòu, yòu méi bàn fǎ jiè dào, tā zhǐ hǎo fàng qì le nà ge jì huà。",
+    "en": "Short of money and unable to borrow, he had no choice but to drop the plan."
+   },
+   {
+    "zh": "孩子一直哭,我们怎么哄都没办法让他安静下来。",
+    "pinyin": "Hái zi yì zhí kū, wǒ men zěn me hǒng dōu méi bàn fǎ ràng tā ān jìng xià lái。",
+    "en": "The child kept crying; no matter how we soothed him, we couldn't calm him."
+   },
+   {
+    "zh": "下这么大的雪,飞机没办法起飞,只能改签了。",
+    "pinyin": "Xià zhè me dà de xuě, fēi jī méi bàn fǎ qǐ fēi, zhǐ néng gǎi qiān le。",
+    "en": "With such heavy snow, the plane can't take off; we can only rebook."
+   },
+   {
+    "zh": "他不肯听劝,我们也没办法,只好由着他去了。",
+    "pinyin": "Tā bù kěn tīng quàn, wǒ men yě méi bàn fǎ, zhǐ hǎo yóu zhe tā qù le。",
+    "en": "He won't listen to advice; we can do nothing but let him be."
+   },
+   {
+    "zh": "我试了很多次,还是没办法打开这个盖子。",
+    "pinyin": "Wǒ shì le hěn duō cì, hái shì méi bàn fǎ dǎ kāi zhè ge gài zi。",
+    "en": "I tried many times but still can't open this lid."
+   },
+   {
+    "zh": "时间太紧了,我没办法把每个细节都检查一遍。",
+    "pinyin": "Shí jiān tài jǐn le, wǒ méi bàn fǎ bǎ měi gè xì jié dōu jiǎn chá yī biàn。",
+    "en": "Time is too tight; I can't check every detail."
+   },
+   {
+    "zh": "既然事情已经这样了,着急也没办法,慢慢来吧。",
+    "pinyin": "Jì rán shì qíng yǐ jīng zhè yàng le, zháo jí yě méi bàn fǎ, màn màn lái ba。",
+    "en": "Since it's come to this, worrying won't help; let's take it slow."
+   },
+   {
+    "zh": "他住得太远,平时没办法经常回来看父母。",
+    "pinyin": "Tā zhù de tài yuǎn, píng shí méi bàn fǎ jīng cháng huí lái kàn fù mǔ。",
+    "en": "He lives too far to come back often to see his parents."
+   },
+   {
+    "zh": "这道题太难了,我想了半天也没办法做出来。",
+    "pinyin": "Zhè dào tí tài nán le, wǒ xiǎng le bàn tiān yě méi bàn fǎ zuò chū lái。",
+    "en": "This problem is too hard; I thought hard but still couldn't solve it."
+   },
+   {
+    "zh": "停电了,电脑用不了,今天的活儿没办法干了。",
+    "pinyin": "Tíng diàn le, diàn nǎo yòng bù liǎo, jīn tiān de huó er méi bàn fǎ gàn le。",
+    "en": "The power's out and the computer won't work; today's tasks can't be done."
+   },
+   {
+    "zh": "他说话总是绕圈子,我真没办法猜到他的意思。",
+    "pinyin": "Tā shuō huà zǒng shì rào quān zi, wǒ zhēn méi bàn fǎ cāi dào tā de yì si。",
+    "en": "He always talks in circles; I really can't guess what he means."
+   },
+   {
+    "zh": "孩子太小,一个人在家没办法照顾自己。",
+    "pinyin": "Hái zi tài xiǎo, yí gè rén zài jiā méi bàn fǎ zhào gù zì jǐ。",
+    "en": "The child is too young to look after himself alone at home."
+   },
+   {
+    "zh": "票已经卖光了,我们没办法,只能等下一场了。",
+    "pinyin": "Piào yǐ jīng mài guāng le, wǒ men méi bàn fǎ, zhǐ néng děng xià yī cháng le。",
+    "en": "Tickets are sold out; we have no choice but to wait for the next show."
+   },
+   {
+    "zh": "他伤了腿,这段时间没办法参加训练了。",
+    "pinyin": "Tā shāng le tuǐ, zhè duàn shí jiān méi bàn fǎ cān jiā xùn liàn le。",
+    "en": "He hurt his leg and can't join training for a while."
+   },
+   {
+    "zh": "我普通话说得不好,没办法把这件事解释清楚。",
+    "pinyin": "Wǒ pǔ tōng huà shuō de bù hǎo, méi bàn fǎ bǎ zhè jiàn shì jiě shì qīng chǔ。",
+    "en": "My Mandarin isn't good; I can't explain this clearly."
+   },
+   {
+    "zh": "规定就是规定,我们做工作人员的也没办法。",
+    "pinyin": "Guī dìng jiù shì guī dìng, wǒ men zuò gōng zuò rén yuán de yě méi bàn fǎ。",
+    "en": "Rules are rules; as staff there's nothing we can do."
+   },
+   {
+    "zh": "信号太差,我在山里没办法给家里打电话。",
+    "pinyin": "Xìn hào tài chà, wǒ zài shān lǐ méi bàn fǎ gěi jiā lǐ dǎ diàn huà。",
+    "en": "The signal is too weak; in the mountains I can't call home."
+   },
+   {
+    "zh": "他认准了的事,谁说都没办法让他回头。",
+    "pinyin": "Tā rèn zhǔn le de shì, shuí shuō dōu méi bàn fǎ ràng tā huí tóu。",
+    "en": "Once he's set on something, no one can make him reconsider."
+   },
+   {
+    "zh": "材料还没准备好,今天没办法把手续办完。",
+    "pinyin": "Cái liào hái méi zhǔn bèi hǎo, jīn tiān méi bàn fǎ bǎ shǒu xù bàn wán。",
+    "en": "The documents aren't ready; the procedure can't be completed today."
+   },
+   {
+    "zh": "我实在困得不行了,没办法再熬下去了。",
+    "pinyin": "Wǒ shí zài kùn de bù xíng le, méi bàn fǎ zài áo xià qù le。",
+    "en": "I'm so sleepy I really can't stay up any longer."
+   },
+   {
+    "zh": "他们的要求太高,我们没办法完全满足。",
+    "pinyin": "Tā men de yāo qiú tài gāo, wǒ men méi bàn fǎ wán quán mǎn zú。",
+    "en": "Their demands are too high; we can't fully meet them."
+   },
+   {
+    "zh": "没办法,谁让咱们答应了人家呢,再累也得做完。",
+    "pinyin": "Méi bàn fǎ, shuí ràng zán men dā yìng le rén jiā ne, zài lèi yě de zuò wán。",
+    "en": "No choice — we did promise them, so tired or not, we must finish."
+   }
+  ]
+ },
+ {
+  "id": "g110",
+  "level": 2,
+  "title": "Fiilden önce \"在\" ile yer belirtme",
+  "titleEn": "Indicating location with \"zai\" before verbs",
+  "pattern": "Özne + 在 + Yer + Fiil",
+  "summary": "\"在 + yer\" fiilden ÖNCE gelip eylemin nerede yapıldığını gösterir: 我在家看书 = Evde kitap okuyorum.",
+  "explanation": "Bir eylemin NEREDE yapıldığını belirtmek için \"在 + yer\" öbeği FİİLDEN ÖNCE gelir: Özne + 在 + yer + fiil. 我在图书馆学习 (Kütüphanede çalışıyorum), 他们在公园散步 (Parkta yürüyorlar). Türkçenin aksine yer bildiren öbek fiilden ÖNCEDEDİR, sonrasında değil. \"在\" burada bir edattır (\"...-de/da\"). Bunu \"在\"nın süreklilik bildiren kullanımından (在 + fiil = ...-mekte, bkz. 正在) ayırmak gerekir: burada \"在\"dan sonra bir YER gelir, fiil değil. Bazı fiiller (住, 放, 坐, 站, 挂 gibi) \"在\"yı fiilden SONRA da alabilir (bkz. ayrı konu), ama genel eylem yeri için \"在\" fiilden öncedir.",
+  "examples": [
+   {
+    "zh": "我平时喜欢在家做饭,觉得比在外面吃干净。",
+    "pinyin": "Wǒ píng shí xǐ huān zài jiā zuò fàn, jué de bǐ zài wài miàn chī gān jìng。",
+    "en": "I usually like cooking at home; I find it cleaner than eating out."
+   },
+   {
+    "zh": "孩子们正在操场上开心地踢足球。",
+    "pinyin": "Hái zi men zhèng zài cāo chǎng shàng kāi xīn de tī zú qiú。",
+    "en": "The children are happily playing soccer on the field."
+   },
+   {
+    "zh": "他每天在地铁上看会儿书,充分利用时间。",
+    "pinyin": "Tā měi tiān zài dì tiě shàng kàn huì er shū, chōng fèn lì yòng shí jiān。",
+    "en": "He reads a bit on the subway every day, making full use of the time."
+   },
+   {
+    "zh": "我们在那家咖啡馆聊了一个下午的天。",
+    "pinyin": "Wǒ men zài nà jiā kā fēi guǎn liáo le yí gè xià wǔ de tiān。",
+    "en": "We chatted the whole afternoon at that café."
+   },
+   {
+    "zh": "奶奶最喜欢在院子里晒太阳、和邻居说话。",
+    "pinyin": "Nǎi nǎi zuì xǐ huān zài yuàn zi lǐ shài tài yáng、 hé lín jū shuō huà。",
+    "en": "Grandma loves basking in the sun and chatting with neighbors in the yard."
+   },
+   {
+    "zh": "他在办公室加班到很晚,常常错过末班车。",
+    "pinyin": "Tā zài bàn gōng shì jiā bān dào hěn wǎn, cháng cháng cuò guò mò bān chē。",
+    "en": "He works overtime in the office until late and often misses the last bus."
+   },
+   {
+    "zh": "孩子在房间里写作业,你们说话小声一点。",
+    "pinyin": "Hái zi zài fáng jiān lǐ xiě zuò yè, nǐ men shuō huà xiǎo shēng yì diǎn。",
+    "en": "The child is doing homework in the room; keep your voices down."
+   },
+   {
+    "zh": "我们在山顶上看了一场特别美的日出。",
+    "pinyin": "Wǒ men zài shān dǐng shàng kàn le yī cháng tè bié měi de rì chū。",
+    "en": "We watched a beautiful sunrise from the mountaintop."
+   },
+   {
+    "zh": "周末我常常在公园里跑步,呼吸新鲜空气。",
+    "pinyin": "Zhōu mò wǒ cháng cháng zài gōng yuán lǐ pǎo bù, hū xī xīn xiān kōng qì。",
+    "en": "On weekends I often run in the park and breathe fresh air."
+   },
+   {
+    "zh": "他在厨房里忙了半天,做了一大桌子菜。",
+    "pinyin": "Tā zài chú fáng lǐ máng le bàn tiān, zuò le yī dà zhuō zi cài。",
+    "en": "He busied himself in the kitchen and made a whole table of dishes."
+   },
+   {
+    "zh": "我们一家人喜欢在客厅里一起看电视、聊天。",
+    "pinyin": "Wǒ men yī jiā rén xǐ huān zài kè tīng lǐ yì qǐ kàn diàn shì、 liáo tiān。",
+    "en": "Our family likes watching TV and chatting together in the living room."
+   },
+   {
+    "zh": "学生们在教室里安安静静地听老师讲课。",
+    "pinyin": "Xué shēng men zài jiào shì lǐ ān ān jìng jìng de tīng lǎo shī jiǎng kè。",
+    "en": "The students listen quietly to the teacher in the classroom."
+   },
+   {
+    "zh": "他在河边钓了一下午的鱼,收获还不小。",
+    "pinyin": "Tā zài hé biān diào le yī xià wǔ de yú, shōu huò hái bù xiǎo。",
+    "en": "He fished by the river all afternoon with a decent catch."
+   },
+   {
+    "zh": "我在超市遇到了一位好久不见的老朋友。",
+    "pinyin": "Wǒ zài chāo shì yù dào le yī wèi hǎo jiǔ bú jiàn de lǎo péng yǒu。",
+    "en": "I ran into an old friend I hadn't seen in ages at the supermarket."
+   },
+   {
+    "zh": "孩子们在草地上追来追去,玩得满头大汗。",
+    "pinyin": "Hái zi men zài cǎo dì shàng zhuī lái zhuī qù, wán de mǎn tóu dà hán。",
+    "en": "The children chased each other on the grass, playing until sweaty."
+   },
+   {
+    "zh": "他习惯在睡觉前在阳台上站一会儿,看看星星。",
+    "pinyin": "Tā xí guàn zài shuì jiào qián zài yáng tái shàng zhàn yī huì er, kàn kàn xīng xīng。",
+    "en": "He likes standing on the balcony before bed to look at the stars."
+   },
+   {
+    "zh": "我们在图书馆一直待到关门才离开。",
+    "pinyin": "Wǒ men zài tú shū guǎn yì zhí dài dào guān mén cái lí kāi。",
+    "en": "We stayed in the library until closing before leaving."
+   },
+   {
+    "zh": "妈妈在灯下缝补衣服,一坐就是大半夜。",
+    "pinyin": "Mā mā zài dēng xià féng bǔ yī fú, yī zuò jiù shì dà bàn yè。",
+    "en": "Mom mends clothes under the lamp, sitting for half the night."
+   },
+   {
+    "zh": "他每天在同一个路口等车,已经等了好多年了。",
+    "pinyin": "Tā měi tiān zài tóng yī gè lù kǒu děng chē, yǐ jīng děng le hǎo duō nián le。",
+    "en": "He waits for the bus at the same corner every day, for many years now."
+   },
+   {
+    "zh": "我们在海边的沙滩上捡了很多漂亮的贝壳。",
+    "pinyin": "Wǒ men zài hǎi biān de shā tān shàng jiǎn le hěn duō piào liàng de bèi ké。",
+    "en": "We collected many pretty shells on the beach by the sea."
+   },
+   {
+    "zh": "他喜欢在安静的夜里写作,灵感总是特别多。",
+    "pinyin": "Tā xǐ huān zài ān jìng de yè lǐ xiě zuò, líng gǎn zǒng shì tè bié duō。",
+    "en": "He likes writing in the quiet night; inspiration always flows."
+   },
+   {
+    "zh": "孩子在爷爷的书房里发现了很多有趣的老照片。",
+    "pinyin": "Hái zi zài yé yé de shū fáng lǐ fā xiàn le hěn duō yǒu qù de lǎo zhào piān。",
+    "en": "The child found many interesting old photos in grandpa's study."
+   },
+   {
+    "zh": "我们在火车上认识,没想到成了一辈子的朋友。",
+    "pinyin": "Wǒ men zài huǒ chē shàng rèn shí, méi xiǎng dào chéng le yī bèi zi de péng yǒu。",
+    "en": "We met on the train and unexpectedly became lifelong friends."
+   },
+   {
+    "zh": "他在工厂里工作了大半辈子,对机器了如指掌。",
+    "pinyin": "Tā zài gōng chǎng lǐ gōng zuò le dà bàn bèi zi, duì jī qì liǎo rú zhǐ zhǎng。",
+    "en": "He worked in the factory most of his life and knows the machines inside out."
+   },
+   {
+    "zh": "大家在会议室里争论了很久,最后达成了一致。",
+    "pinyin": "Dà jiā zài huì yì shì lǐ zhēng lùn le hěn jiǔ, zuì hòu dá chéng le yí zhì。",
+    "en": "Everyone argued in the meeting room for a long time and finally agreed."
+   }
+  ]
  }
 ]

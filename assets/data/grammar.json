@@ -8838,5 +8838,685 @@
     "en": "The city we plan to travel to next month is a small seaside town."
    }
   ]
+ },
+ {
+  "id": "g066",
+  "level": 2,
+  "title": "\"最\" ile en üstünlük derecesi",
+  "titleEn": "Superlative \"zui\"",
+  "pattern": "最 + Sıfat (+ 了)",
+  "summary": "\"最\" (zuì) bir sıfatın önüne gelip \"en...\" anlamı verir: 最好 = en iyi; 最贵 = en pahalı.",
+  "explanation": "\"最\" bir sıfatın (ya da bazı fiillerin) önüne gelerek en üstünlük derecesini kurar: 最大 (en büyük), 最漂亮 (en güzel), 最喜欢 (en çok sevmek). Türkçedeki \"en\" ile birebir örtüşür. Cümle sonuna vurgu için \"了\" eklenebilir: 太好了/最好了. Bir grup içinde kıyaslama yaparken sık kullanılır: 他是我们班最高的 (O, sınıfımızın en uzunu). \"最\" ayrıca duyguyu güçlendiren bir abartı olarak da kullanılır: 这是我最喜欢的地方.",
+  "examples": [
+   {
+    "zh": "在我们班,他是学习最认真的学生,老师最喜欢他。",
+    "pinyin": "Zài wǒ men bān, tā shì xué xí zuì rèn zhēn de xué shēng, lǎo shī zuì xǐ huān tā。",
+    "en": "In our class he's the most diligent student, and the teacher likes him best."
+   },
+   {
+    "zh": "这家店的面包最好吃,所以每天早上都排很长的队。",
+    "pinyin": "Zhè jiā diàn de miàn bāo zuì hǎo chī, suǒ yǐ měi tiān zǎo shàng dōu pái hěn zhǎng de duì。",
+    "en": "This shop's bread is the best, so there's a long line every morning."
+   },
+   {
+    "zh": "你觉得这几个颜色里,哪个最适合我?",
+    "pinyin": "Nǐ jué de zhè jǐ gè yán sè lǐ, nǎ ge zuì shì hé wǒ?",
+    "en": "Among these colors, which do you think suits me best?"
+   },
+   {
+    "zh": "我最怕的就是考试,一到考试我就紧张得睡不着。",
+    "pinyin": "Wǒ zuì pà de jiù shì kǎo shì, yī dào kǎo shì wǒ jiù jǐn zhāng de shuì bù zhe。",
+    "en": "The thing I fear most is exams; I get so nervous I can't sleep."
+   },
+   {
+    "zh": "春天是一年里最舒服的季节,不冷也不热。",
+    "pinyin": "Chūn tiān shì yī nián lǐ zuì shū fú de jì jié, bù lěng yě bù rè。",
+    "en": "Spring is the most comfortable season of the year, neither cold nor hot."
+   },
+   {
+    "zh": "在所有的运动里,他最喜欢游泳,几乎每天都去。",
+    "pinyin": "Zài suǒ yǒu de yùn dòng lǐ, tā zuì xǐ huān yóu yǒng, jī hū měi tiān dōu qù。",
+    "en": "Of all sports, he likes swimming the most and goes almost every day."
+   },
+   {
+    "zh": "这条路最近,可是车太多,反而走那条大路更快。",
+    "pinyin": "Zhè tiáo lù zuì jìn, kě shì chē tài duō, fǎn ér zǒu nà tiáo dà lù gèng kuài。",
+    "en": "This road is the shortest, but there's too much traffic, so the big road is actually faster."
+   },
+   {
+    "zh": "妈妈做的红烧肉是我吃过的最好吃的菜。",
+    "pinyin": "Mā mā zuò de hóng shāo ròu shì wǒ chī guò de zuì hǎo chī de cài。",
+    "en": "The braised pork mom makes is the tastiest dish I've ever eaten."
+   },
+   {
+    "zh": "对我来说,家人的健康是最重要的事。",
+    "pinyin": "Duì wǒ lái shuō, jiā rén de jiàn kāng shì zuì zhòng yào de shì。",
+    "en": "To me, my family's health is the most important thing."
+   },
+   {
+    "zh": "这几件衣服里,你穿这件最好看。",
+    "pinyin": "Zhè jǐ jiàn yī fú lǐ, nǐ chuān zhè jiàn zuì hǎo kàn。",
+    "en": "Of these clothes, you look best in this one."
+   },
+   {
+    "zh": "他是我们公司来得最早、走得最晚的人。",
+    "pinyin": "Tā shì wǒ men gōng sī lái de zuì zǎo、 zǒu de zuì wǎn de rén。",
+    "en": "He's the one in our company who comes earliest and leaves latest."
+   },
+   {
+    "zh": "我最不喜欢下雨天,因为出门特别不方便。",
+    "pinyin": "Wǒ zuì bù xǐ huān xià yǔ tiān, yīn wèi chū mén tè bié bù fāng biàn。",
+    "en": "I dislike rainy days the most because going out is so inconvenient."
+   },
+   {
+    "zh": "这道题是这次考试里最难的一道,很多人都没做对。",
+    "pinyin": "Zhè dào tí shì zhè cì kǎo shì lǐ zuì nán de yī dào, hěn duō rén dōu méi zuò duì。",
+    "en": "This question was the hardest on the exam; many people got it wrong."
+   },
+   {
+    "zh": "在这么多礼物中,我最喜欢你送的这本书。",
+    "pinyin": "Zài zhè me duō lǐ wù zhōng, wǒ zuì xǐ huān nǐ sòng de zhè běn shū。",
+    "en": "Among all these gifts, I like this book you gave me the most."
+   },
+   {
+    "zh": "那家饭馆最有名的菜是鱼,来的人都要点一份。",
+    "pinyin": "Nà jiā fàn guǎn zuì yǒu míng de cài shì yú, lái de rén dōu yào diǎn yī fèn。",
+    "en": "The most famous dish at that restaurant is the fish; everyone orders one."
+   },
+   {
+    "zh": "你现在最需要的是好好休息,别再工作了。",
+    "pinyin": "Nǐ xiàn zài zuì xū yào de shì hǎo hǎo xiū xī, bié zài gōng zuò le。",
+    "en": "What you need most right now is a good rest; stop working."
+   },
+   {
+    "zh": "这是我这辈子看过的最美的日落。",
+    "pinyin": "Zhè shì wǒ zhè bèi zi kàn guò de zuì měi de rì luò。",
+    "en": "This is the most beautiful sunset I've seen in my whole life."
+   },
+   {
+    "zh": "小明是三个孩子里最聪明也最调皮的一个。",
+    "pinyin": "Xiǎo míng shì sān gè hái zi lǐ zuì cōng míng yě zuì tiáo pí de yí gè。",
+    "en": "Xiao Ming is the smartest and also the naughtiest of the three children."
+   },
+   {
+    "zh": "每天早上的第一杯咖啡是我最享受的时刻。",
+    "pinyin": "Měi tiān zǎo shàng de dì yī bēi kā fēi shì wǒ zuì xiǎng shòu de shí kè。",
+    "en": "The first cup of coffee each morning is the moment I enjoy most."
+   },
+   {
+    "zh": "在这几种方法里,我觉得这个最简单也最有用。",
+    "pinyin": "Zài zhè jǐ zhǒng fāng fǎ lǐ, wǒ jué de zhè ge zuì jiǎn dān yě zuì yǒu yòng。",
+    "en": "Of these methods, I think this one is the simplest and most useful."
+   },
+   {
+    "zh": "他跑得最快,所以老师让他参加学校的比赛。",
+    "pinyin": "Tā pǎo de zuì kuài, suǒ yǐ lǎo shī ràng tā cān jiā xué xiào de bǐ sài。",
+    "en": "He runs the fastest, so the teacher had him join the school competition."
+   },
+   {
+    "zh": "这座城市冬天最冷的时候,气温能到零下二十度。",
+    "pinyin": "Zhè zuò chéng shì dōng tiān zuì lěng de shí hòu, qì wēn néng dào líng xià èr shí dù。",
+    "en": "When this city is coldest in winter, the temperature can drop to minus twenty."
+   },
+   {
+    "zh": "我最想去的地方是海边,能安安静静地待几天。",
+    "pinyin": "Wǒ zuì xiǎng qù de dì fāng shì hǎi biān, néng ān ān jìng jìng dì dài jǐ tiān。",
+    "en": "The place I most want to go is the seaside, to stay quietly for a few days."
+   },
+   {
+    "zh": "在所有的老师里,数学老师对我们最严格。",
+    "pinyin": "Zài suǒ yǒu de lǎo shī lǐ, shù xué lǎo shī duì wǒ men zuì yán gé。",
+    "en": "Of all the teachers, the math teacher is the strictest with us."
+   },
+   {
+    "zh": "能和最好的朋友一起旅行,是最开心的事了。",
+    "pinyin": "Néng hé zuì hǎo de péng yǒu yì qǐ lǚ xíng, shì zuì kāi xīn de shì le。",
+    "en": "Traveling with your best friend is the happiest thing of all."
+   }
+  ]
+ },
+ {
+  "id": "g067",
+  "level": 2,
+  "title": "\"或者\" ile düz cümlede \"veya\"",
+  "titleEn": "Expressing \"or\" in statements",
+  "pattern": "... 或者 ...",
+  "summary": "\"或者\" (huòzhě) düz cümlelerde iki seçenek arasında \"veya\" der: 喝茶或者咖啡 = çay ya da kahve.",
+  "explanation": "\"或者\" düz (soru olmayan) cümlelerde iki ya da daha çok seçeneği birbirine bağlar: 我想去青岛或者南京 (Qingdao ya da Nanjing'e gitmek istiyorum). ÇOK ÖNEMLİ ayrım: Soru cümlelerinde \"veya\" için \"或者\" değil \"还是\" (háishì) kullanılır: 你喝茶还是咖啡? (Çay mı kahve mi içersin?). Yani seçenek sunan bir SORUDA 还是, seçenekten bahseden bir İFADEDE 或者 gelir. \"或者...或者...\" biçiminde iki seçeneği de vurgulayarak kullanılabilir.",
+  "examples": [
+   {
+    "zh": "周末我们可以去爬山,或者在家看看电影,你决定吧。",
+    "pinyin": "Zhōu mò wǒ men kě yǐ qù pá shān, huò zhě zài jiā kàn kàn diàn yǐng, nǐ jué dìng ba。",
+    "en": "This weekend we can go hiking or watch movies at home; you decide."
+   },
+   {
+    "zh": "你饿了的话,冰箱里有面包或者鸡蛋,自己拿。",
+    "pinyin": "Nǐ è le de huà, bīng xiāng lǐ yǒu miàn bāo huò zhě jī dàn, zì jǐ ná。",
+    "en": "If you're hungry, there's bread or eggs in the fridge; help yourself."
+   },
+   {
+    "zh": "这件事你可以打电话或者发邮件告诉他,都行。",
+    "pinyin": "Zhè jiàn shì nǐ kě yǐ dǎ diàn huà huò zhě fā yóu jiàn gào sù tā, dōu xíng。",
+    "en": "You can tell him this by phone or email, either works."
+   },
+   {
+    "zh": "我打算学一门外语,英语或者法语,还没想好。",
+    "pinyin": "Wǒ dǎ suàn xué yī mén wài yǔ, yīng yǔ huò zhě fǎ yǔ, hái méi xiǎng hǎo。",
+    "en": "I plan to learn a foreign language, English or French; I haven't decided."
+   },
+   {
+    "zh": "晚饭想吃米饭或者面条?我这就去做。",
+    "pinyin": "Wǎn fàn xiǎng chī mǐ fàn huò zhě miàn tiáo? wǒ zhè jiù qù zuò。",
+    "en": "Do you want rice or noodles for dinner? I'll go make it now."
+   },
+   {
+    "zh": "有问题的时候,你可以问老师或者查一下词典。",
+    "pinyin": "Yǒu wèn tí de shí hòu, nǐ kě yǐ wèn lǎo shī huò zhě chá yī xià cí diǎn。",
+    "en": "When you have a question, you can ask the teacher or look it up in a dictionary."
+   },
+   {
+    "zh": "我们坐地铁或者打车去都可以,你看时间。",
+    "pinyin": "Wǒ men zuò dì tiě huò zhě dǎ chē qù dōu kě yǐ, nǐ kàn shí jiān。",
+    "en": "We can take the subway or a taxi; it depends on the time."
+   },
+   {
+    "zh": "放假我想去北方或者南方旅行,换个环境休息一下。",
+    "pinyin": "Fàng jià wǒ xiǎng qù běi fāng huò zhě nán fāng lǚ xíng, huàn gè huán jìng xiū xī yī xià。",
+    "en": "For the holiday I want to travel north or south, to change scenery and rest."
+   },
+   {
+    "zh": "你今天或者明天有空吗?我想请你吃个饭。",
+    "pinyin": "Nǐ jīn tiān huò zhě míng tiān yǒu kòng ma? wǒ xiǎng qǐng nǐ chī gè fàn。",
+    "en": "Are you free today or tomorrow? I'd like to treat you to a meal."
+   },
+   {
+    "zh": "这本书你可以自己买或者去图书馆借,都不贵。",
+    "pinyin": "Zhè běn shū nǐ kě yǐ zì jǐ mǎi huò zhě qù tú shū guǎn jiè, dōu bù guì。",
+    "en": "You can buy this book yourself or borrow it from the library; neither is costly."
+   },
+   {
+    "zh": "生日礼物我想送她一条围巾或者一本书。",
+    "pinyin": "Shēng rì lǐ wù wǒ xiǎng sòng tā yī tiáo wéi jīn huò zhě yī běn shū。",
+    "en": "For her birthday I'm thinking of a scarf or a book."
+   },
+   {
+    "zh": "累的时候,喝杯茶或者出去走走都能让人放松。",
+    "pinyin": "Lèi de shí hòu, hē bēi chá huò zhě chū qù zǒu zǒu dōu néng ràng rén fàng sōng。",
+    "en": "When tired, a cup of tea or a short walk can both help you relax."
+   },
+   {
+    "zh": "这个周末或者下个周末,咱们一定要见一面。",
+    "pinyin": "Zhè ge zhōu mò huò zhě xià gè zhōu mò, zán men yí dìng yào jiàn yí miàn。",
+    "en": "This weekend or next, we really must meet up."
+   },
+   {
+    "zh": "你可以用红色或者蓝色的笔,别用铅笔写。",
+    "pinyin": "Nǐ kě yǐ yòng hóng sè huò zhě lán sè de bǐ, bié yòng qiān bǐ xiě。",
+    "en": "You can use a red or blue pen, just don't write in pencil."
+   },
+   {
+    "zh": "他每天早上跑步或者游泳,身体一直很好。",
+    "pinyin": "Tā měi tiān zǎo shàng pǎo bù huò zhě yóu yǒng, shēn tǐ yì zhí hěn hǎo。",
+    "en": "He runs or swims every morning, so he's always been healthy."
+   },
+   {
+    "zh": "我们可以先吃饭或者先看电影,顺序无所谓。",
+    "pinyin": "Wǒ men kě yǐ xiān chī fàn huò zhě xiān kàn diàn yǐng, shùn xù wú suǒ wèi。",
+    "en": "We can eat first or watch the movie first; the order doesn't matter."
+   },
+   {
+    "zh": "有事儿你就找我或者找小王,我们都能帮你。",
+    "pinyin": "Yǒu shì ér nǐ jiù zhǎo wǒ huò zhě zhǎo xiǎo wáng, wǒ men dōu néng bāng nǐ。",
+    "en": "If anything comes up, find me or Xiao Wang; we can both help."
+   },
+   {
+    "zh": "这道菜放点儿糖或者放点儿醋,味道会更好。",
+    "pinyin": "Zhè dào cài fàng diǎn ér táng huò zhě fàng diǎn ér cù, wèi dào huì gèng hǎo。",
+    "en": "Adding a little sugar or vinegar to this dish makes it taste better."
+   },
+   {
+    "zh": "你想坐窗边或者坐过道?我帮你选座位。",
+    "pinyin": "Nǐ xiǎng zuò chuāng biān huò zhě zuò guò dào? wǒ bāng nǐ xuǎn zuò wèi。",
+    "en": "Do you want a window or aisle seat? I'll pick one for you."
+   },
+   {
+    "zh": "周末我要么在家休息,或者去公园散散步。",
+    "pinyin": "Zhōu mò wǒ yào me zài jiā xiū xī, huò zhě qù gōng yuán sàn sàn bù。",
+    "en": "On weekends I either rest at home or go for a walk in the park."
+   },
+   {
+    "zh": "学汉语可以每天听录音或者看中文电视剧。",
+    "pinyin": "Xué hàn yǔ kě yǐ měi tiān tīng lù yīn huò zhě kàn zhòng wén diàn shì jù。",
+    "en": "To learn Chinese you can listen to recordings daily or watch Chinese TV dramas."
+   },
+   {
+    "zh": "这些照片你可以打印出来或者存在电脑里。",
+    "pinyin": "Zhè xiē zhào piān nǐ kě yǐ dǎ yìn chū lái huò zhě cún zài diàn nǎo lǐ。",
+    "en": "You can print these photos or save them on the computer."
+   },
+   {
+    "zh": "下班以后,我常常看看书或者跟朋友聊聊天。",
+    "pinyin": "Xià bān yǐ hòu, wǒ cháng cháng kàn kàn shū huò zhě gēn péng yǒu liáo liáo tiān。",
+    "en": "After work I often read a bit or chat with friends."
+   },
+   {
+    "zh": "你可以现在付钱或者到时候再付,都没问题。",
+    "pinyin": "Nǐ kě yǐ xiàn zài fù qián huò zhě dào shí hòu zài fù, dōu méi wèn tí。",
+    "en": "You can pay now or pay later; either is fine."
+   },
+   {
+    "zh": "感冒的时候,多喝水或者早点睡觉都有好处。",
+    "pinyin": "Gǎn mào de shí hòu, duō hē shuǐ huò zhě zǎo diǎn shuì jiào dōu yǒu hǎo chù。",
+    "en": "When you have a cold, drinking more water or sleeping early both help."
+   }
+  ]
+ },
+ {
+  "id": "g068",
+  "level": 2,
+  "title": "\"跟\" ile \"ile birlikte / -e\"",
+  "titleEn": "Expressing \"with\" with \"gen\"",
+  "pattern": "跟 + Kişi + (一起) + Fiil",
+  "summary": "\"跟\" (gēn) bir kişiyle birlikte ya da o kişiye yönelik bir eylemi anlatır: 跟我一起去 = benimle birlikte git.",
+  "explanation": "\"跟\" edatı, bir eylemi kiminle beraber ya da kime yönelik yaptığını belirtir ve fiilden ÖNCE gelir: 跟 + kişi + (一起) + fiil. 你跟我一起去吗? (Benimle birlikte gider misin?), 我跟他说 (Ona söylüyorum / onunla konuşuyorum). \"一起\" (birlikte) çoğu zaman eklenir. \"跟\" konuşma dilinde çok yaygındır; daha resmî ortamlarda \"和\" (hé) ya da \"与\" (yǔ) benzer işlevle kullanılır. Dikkat: \"跟...说\" = biriyle konuşmak / birine söylemek; \"跟...学\" = birinden öğrenmek.",
+  "examples": [
+   {
+    "zh": "明天你要跟我们一起去看电影吗?我帮你留个座位。",
+    "pinyin": "Míng tiān nǐ yào gēn wǒ men yì qǐ qù kàn diàn yǐng ma? wǒ bāng nǐ liú gè zuò wèi。",
+    "en": "Are you coming to the movie with us tomorrow? I'll save you a seat."
+   },
+   {
+    "zh": "这件事我已经跟老板说过了,他同意了。",
+    "pinyin": "Zhè jiàn shì wǒ yǐ jīng gēn lǎo bǎn shuō guò le, tā tóng yì le。",
+    "en": "I've already spoken with the boss about this, and he agreed."
+   },
+   {
+    "zh": "小时候,我经常跟爷爷一起在河边钓鱼。",
+    "pinyin": "Xiǎo shí hòu, wǒ jīng cháng gēn yé yé yì qǐ zài hé biān diào yú。",
+    "en": "As a child I often went fishing by the river with my grandpa."
+   },
+   {
+    "zh": "你先别急,慢慢跟我说,到底发生了什么事?",
+    "pinyin": "Nǐ xiān bié jí, màn màn gēn wǒ shuō, dào dǐ fā shēng le shén me shì?",
+    "en": "Don't panic; tell me slowly — what on earth happened?"
+   },
+   {
+    "zh": "周末我打算跟几个老朋友一起去爬山。",
+    "pinyin": "Zhōu mò wǒ dǎ suàn gēn jǐ gè lǎo péng yǒu yì qǐ qù pá shān。",
+    "en": "This weekend I plan to go hiking with a few old friends."
+   },
+   {
+    "zh": "他从小就跟一位有名的老师学画画。",
+    "pinyin": "Tā cóng xiǎo jiù gēn yī wèi yǒu míng de lǎo shī xué huà huà。",
+    "en": "Since childhood he has learned painting from a famous teacher."
+   },
+   {
+    "zh": "有什么不明白的,你可以随时跟我联系。",
+    "pinyin": "Yǒu shén me bù míng bái de, nǐ kě yǐ suí shí gēn wǒ lián xì。",
+    "en": "If there's anything you don't understand, you can contact me anytime."
+   },
+   {
+    "zh": "我想跟你商量一件重要的事,你有时间吗?",
+    "pinyin": "Wǒ xiǎng gēn nǐ shāng liáng yī jiàn zhòng yào de shì, nǐ yǒu shí jiān ma?",
+    "en": "I'd like to discuss an important matter with you; do you have time?"
+   },
+   {
+    "zh": "孩子应该多跟别的小朋友一起玩儿,这样更开朗。",
+    "pinyin": "Hái zi yīng gāi duō gēn bié de xiǎo péng yǒu yì qǐ wán ér, zhè yàng gèng kāi lǎng。",
+    "en": "Children should play more with other kids; it makes them more cheerful."
+   },
+   {
+    "zh": "昨天我跟同事一起加班到很晚才回家。",
+    "pinyin": "Zuó tiān wǒ gēn tóng shì yì qǐ jiā bān dào hěn wǎn cái huí jiā。",
+    "en": "Yesterday I worked overtime with colleagues and got home very late."
+   },
+   {
+    "zh": "你要是不舒服,应该早点跟医生说清楚。",
+    "pinyin": "Nǐ yào shì bù shū fú, yīng gāi zǎo diǎn gēn yī shēng shuō qīng chǔ。",
+    "en": "If you feel unwell, you should tell the doctor clearly early on."
+   },
+   {
+    "zh": "每天晚饭后,我喜欢跟家人一起散散步。",
+    "pinyin": "Měi tiān wǎn fàn hòu, wǒ xǐ huān gēn jiā rén yì qǐ sàn sàn bù。",
+    "en": "After dinner every day, I like to take a walk with my family."
+   },
+   {
+    "zh": "这件衣服的颜色跟你的鞋子很配。",
+    "pinyin": "Zhè jiàn yī fú de yán sè gēn nǐ de xié zi hěn pèi。",
+    "en": "The color of this outfit goes well with your shoes."
+   },
+   {
+    "zh": "他不太爱说话,很少主动跟别人聊天。",
+    "pinyin": "Tā bù tài ài shuō huà, hěn shǎo zhǔ dòng gēn bié rén liáo tiān。",
+    "en": "He isn't very talkative and rarely chats with others on his own."
+   },
+   {
+    "zh": "我打算跟房东谈谈,看能不能便宜一点儿。",
+    "pinyin": "Wǒ dǎ suàn gēn fáng dōng tán tán, kàn néng bù néng pián yi yì diǎn ér。",
+    "en": "I plan to talk with the landlord to see if it can be a bit cheaper."
+   },
+   {
+    "zh": "学汉语最好的办法就是多跟中国人练习说话。",
+    "pinyin": "Xué hàn yǔ zuì hǎo de bàn fǎ jiù shì duō gēn zhōng guó rén liàn xí shuō huà。",
+    "en": "The best way to learn Chinese is to practice speaking with Chinese people a lot."
+   },
+   {
+    "zh": "请你跟大家介绍一下你自己,好吗?",
+    "pinyin": "Qǐng nǐ gēn dà jiā jiè shào yī xià nǐ zì jǐ, hǎo ma?",
+    "en": "Could you please introduce yourself to everyone?"
+   },
+   {
+    "zh": "我跟他认识十年了,他是我最信任的朋友。",
+    "pinyin": "Wǒ gēn tā rèn shí shí nián le, tā shì wǒ zuì xìn rèn de péng yǒu。",
+    "en": "I've known him for ten years; he's the friend I trust most."
+   },
+   {
+    "zh": "有困难别一个人扛着,要跟朋友说一说。",
+    "pinyin": "Yǒu kùn nán bié yí gè rén káng zhe, yào gēn péng yǒu shuō yī shuō。",
+    "en": "Don't bear difficulties alone; talk to your friends about them."
+   },
+   {
+    "zh": "你跟他一样,都特别喜欢看足球比赛。",
+    "pinyin": "Nǐ gēn tā yī yàng, dōu tè bié xǐ huān kàn zú qiú bǐ sài。",
+    "en": "Just like him, you really love watching soccer matches."
+   },
+   {
+    "zh": "下课以后,我要跟老师一起讨论这个问题。",
+    "pinyin": "Xià kè yǐ hòu, wǒ yào gēn lǎo shī yì qǐ tǎo lùn zhè ge wèn tí。",
+    "en": "After class I'm going to discuss this problem with the teacher."
+   },
+   {
+    "zh": "过年的时候,我们全家人跟亲戚一起吃了顿大饭。",
+    "pinyin": "Guò nián de shí hòu, wǒ men quán jiā rén gēn qīn qī yì qǐ chī le dùn dà fàn。",
+    "en": "During New Year, our whole family had a big meal with relatives."
+   },
+   {
+    "zh": "你能不能跟我换一下座位?我想坐在窗边。",
+    "pinyin": "Nǐ néng bù néng gēn wǒ huàn yī xià zuò wèi? wǒ xiǎng zuò zài chuāng biān。",
+    "en": "Could you swap seats with me? I'd like to sit by the window."
+   },
+   {
+    "zh": "从今天起,我要跟你一起早起锻炼身体。",
+    "pinyin": "Cóng jīn tiān qǐ, wǒ yào gēn nǐ yì qǐ zǎo qǐ duàn liàn shēn tǐ。",
+    "en": "Starting today, I'll get up early with you to exercise."
+   },
+   {
+    "zh": "这么大的事,你怎么不早点跟家里人商量?",
+    "pinyin": "Zhè me dà de shì, nǐ zěn me bù zǎo diǎn gēn jiā lǐ rén shāng liáng?",
+    "en": "For such a big matter, why didn't you discuss it with your family sooner?"
+   }
+  ]
+ },
+ {
+  "id": "g069",
+  "level": 2,
+  "title": "\"那个\" dolgu/duraksama sözcüğü",
+  "titleEn": "The filler word \"neige\"",
+  "pattern": "... 那个（nèige）...",
+  "summary": "\"那个\" (nèige) konuşurken duraksarken \"şey..., yani...\" gibi bir dolgu sözcüğü olarak kullanılır.",
+  "explanation": "Aslında \"那个\" \"o/şu (nesne)\" demektir, ama konuşma dilinde çok sık bir DOLGU sözcüğü (duraksama ifadesi) olarak kullanılır — Türkçedeki \"şey..., yani..., hani...\" gibi. Konuşmacı bir sonraki kelimeyi düşünürken ya da söylemeye çekindiği bir şeyi yumuşatırken araya \"那个...\" sıkıştırır: 那个……你能帮我一个忙吗? (Şey... bana bir iyilik yapabilir misin?). Konuşurken zaman kazandırır ve cümleyi yumuşatır. Elbette normal \"o\" anlamıyla da (那个人, 那个东西) kullanılmaya devam eder; hangi anlamda olduğunu bağlam belirler.",
+  "examples": [
+   {
+    "zh": "那个……我想问一下,这附近有没有厕所?",
+    "pinyin": "Nà ge…… wǒ xiǎng wèn yī xià, zhè fù jìn yǒu méi yǒu cè suǒ?",
+    "en": "Um... I wanted to ask, is there a restroom nearby?"
+   },
+   {
+    "zh": "那个……其实我有件事一直想跟你说。",
+    "pinyin": "Nà ge…… qí shí wǒ yǒu jiàn shì yì zhí xiǎng gēn nǐ shuō。",
+    "en": "Well... actually there's something I've been wanting to tell you."
+   },
+   {
+    "zh": "老师,那个……这道题我还是没太明白。",
+    "pinyin": "Lǎo shī, nà ge…… zhè dào tí wǒ hái shì méi tài míng bái。",
+    "en": "Teacher, um... I still don't quite understand this question."
+   },
+   {
+    "zh": "那个……不好意思,能不能麻烦你让一下?",
+    "pinyin": "Nà ge…… bù hǎo yì sī, néng bù néng má fán nǐ ràng yī xià?",
+    "en": "Um... excuse me, could I trouble you to step aside?"
+   },
+   {
+    "zh": "他站在门口,那个了半天也没说出话来。",
+    "pinyin": "Tā zhàn zài mén kǒu, nà ge le bàn tiān yě méi shuō chū huà lái。",
+    "en": "He stood at the door, hesitating for a long while without saying a word."
+   },
+   {
+    "zh": "那个……我可能今天来不了了,真的很抱歉。",
+    "pinyin": "Nà ge…… wǒ kě néng jīn tiān lái bù liǎo le, zhēn de hěn bào qiàn。",
+    "en": "Um... I might not be able to come today; I'm really sorry."
+   },
+   {
+    "zh": "那个……你上次借我的书,我明天一定还你。",
+    "pinyin": "Nà ge…… nǐ shàng cì jiè wǒ de shū, wǒ míng tiān yí dìng hái nǐ。",
+    "en": "Uh... that book you lent me last time, I'll definitely return it tomorrow."
+   },
+   {
+    "zh": "那个……这件事说来话长,你先坐下听我慢慢讲。",
+    "pinyin": "Nà ge…… zhè jiàn shì shuō lái huà cháng, nǐ xiān zuò xià tīng wǒ màn màn jiǎng。",
+    "en": "Well... it's a long story; sit down first and let me explain slowly."
+   },
+   {
+    "zh": "那个……请问,去火车站应该怎么走?",
+    "pinyin": "Nà ge…… qǐng wèn, qù huǒ chē zhàn yīng gāi zěn me zǒu?",
+    "en": "Um... excuse me, how do I get to the train station?"
+   },
+   {
+    "zh": "那个……我想请你帮个忙,不知道方不方便。",
+    "pinyin": "Nà ge…… wǒ xiǎng qǐng nǐ bāng gè máng, bù zhī dào fāng bù fāng biàn。",
+    "en": "Um... I'd like to ask you a favor, if it's convenient."
+   },
+   {
+    "zh": "他一紧张就爱说那个,一句话里能有好几个。",
+    "pinyin": "Tā yī jǐn zhāng jiù ài shuō nà ge, yī jù huà lǐ néng yǒu hǎo jǐ gè。",
+    "en": "When he's nervous he tends to say 'um'; there can be several in one sentence."
+   },
+   {
+    "zh": "那个……其实那天的事,是我误会你了。",
+    "pinyin": "Nà ge…… qí shí nà tiān de shì, shì wǒ wù huì nǐ le。",
+    "en": "Um... actually, about that day, I misunderstood you."
+   },
+   {
+    "zh": "那个……我们是不是在哪儿见过?你看着很面熟。",
+    "pinyin": "Nà ge…… wǒ men shì bú shì zài nǎ ér jiàn guò? nǐ kàn zhe hěn miàn shú。",
+    "en": "Um... have we met somewhere? You look very familiar."
+   },
+   {
+    "zh": "那个……钱的事你别担心,我来想办法。",
+    "pinyin": "Nà ge…… qián de shì nǐ bié dān xīn, wǒ lái xiǎng bàn fǎ。",
+    "en": "Um... don't worry about the money; I'll figure something out."
+   },
+   {
+    "zh": "那个……今天的会,能不能改到明天下午?",
+    "pinyin": "Nà ge…… jīn tiān de huì, néng bù néng gǎi dào míng tiān xià wǔ?",
+    "en": "Uh... could today's meeting be moved to tomorrow afternoon?"
+   },
+   {
+    "zh": "那个……我有点儿不好意思,想跟你借点钱。",
+    "pinyin": "Nà ge…… wǒ yǒu diǎn ér bù hǎo yì sī, xiǎng gēn nǐ jiè diǎn qián。",
+    "en": "Um... this is a bit awkward, but I'd like to borrow some money from you."
+   },
+   {
+    "zh": "那个……你说的那个地方,具体在什么位置?",
+    "pinyin": "Nà ge…… nǐ shuō de nà ge dì fāng, jù tǐ zài shén me wèi zhì?",
+    "en": "Um... that place you mentioned, where exactly is it?"
+   },
+   {
+    "zh": "那个……老板,我想请两天假,回家看看父母。",
+    "pinyin": "Nà ge…… lǎo bǎn, wǒ xiǎng qǐng liǎng tiān jiǎ, huí jiā kàn kàn fù mǔ。",
+    "en": "Um... boss, I'd like two days off to go home and see my parents."
+   },
+   {
+    "zh": "那个……这个问题有点复杂,让我想想再回答你。",
+    "pinyin": "Nà ge…… zhè ge wèn tí yǒu diǎn fù zá, ràng wǒ xiǎng xiǎng zài huí dá nǐ。",
+    "en": "Um... this question is a bit complex; let me think before I answer."
+   },
+   {
+    "zh": "那个……说实话,我到现在还没准备好。",
+    "pinyin": "Nà ge…… shuō shí huà, wǒ dào xiàn zài hái méi zhǔn bèi hǎo。",
+    "en": "Well... to be honest, I'm still not ready even now."
+   },
+   {
+    "zh": "那个……你能不能小点儿声,孩子在睡觉。",
+    "pinyin": "Nà ge…… nǐ néng bù néng xiǎo diǎn ér shēng, hái zi zài shuì jiào。",
+    "en": "Um... could you keep it down a little? The child is sleeping."
+   },
+   {
+    "zh": "那个……我们认识这么久了,我一直想谢谢你。",
+    "pinyin": "Nà ge…… wǒ men rèn shí zhè me jiǔ le, wǒ yì zhí xiǎng xiè xiè nǐ。",
+    "en": "Well... we've known each other so long, and I've always wanted to thank you."
+   },
+   {
+    "zh": "那个……这件衣服有点儿贵,能便宜一点吗?",
+    "pinyin": "Nà ge…… zhè jiàn yī fú yǒu diǎn ér guì, néng pián yi yì diǎn ma?",
+    "en": "Um... this outfit is a bit pricey; could it be a little cheaper?"
+   },
+   {
+    "zh": "那个……对不起,我刚才好像说错话了。",
+    "pinyin": "Nà ge…… duì bù qǐ, wǒ gāng cái hǎo xiàng shuō cuò huà le。",
+    "en": "Um... sorry, I think I said the wrong thing just now."
+   },
+   {
+    "zh": "那个……你别生气,听我把话说完好吗?",
+    "pinyin": "Nà ge…… nǐ bié shēng qì, tīng wǒ bǎ huà shuō wán hǎo ma?",
+    "en": "Um... don't be angry; let me finish what I'm saying, okay?"
+   }
+  ]
+ },
+ {
+  "id": "g070",
+  "level": 2,
+  "title": "\"可是 / 但是\" ile \"ama, fakat\"",
+  "titleEn": "Two words for \"but\"",
+  "pattern": "..., 可是 / 但是 ...",
+  "summary": "\"可是\" (kěshì) ve \"但是\" (dànshì) ikisi de \"ama, fakat\" demektir ve zıt iki cümleyi bağlar.",
+  "explanation": "\"可是\" ve \"但是\" hemen hemen aynı anlama gelir: \"ama, fakat, ne var ki\". İkinci cümlenin başına gelip birinci cümleyle zıtlık kurarlar: 我喜欢他,可是/但是他不喜欢我 (Ondan hoşlanıyorum ama o benden hoşlanmıyor). Küçük fark: \"可是\" biraz daha konuşma diline, \"但是\" biraz daha resmî/güçlü tona yakındır, ama çoğu durumda ikisi de kullanılabilir. Çince'de sıkça \"虽然...但是/可是...\" (her ne kadar ... yine de ...) biçiminde ikili bağlaçla da gelir; Türkçenin aksine iki bağlacın birlikte kullanılması normaldir.",
+  "examples": [
+   {
+    "zh": "这件衣服很漂亮,可是有点儿贵,我得再想想。",
+    "pinyin": "Zhè jiàn yī fú hěn piào liàng, kě shì yǒu diǎn ér guì, wǒ děi zài xiǎng xiǎng。",
+    "en": "This outfit is pretty, but a bit expensive; I need to think it over."
+   },
+   {
+    "zh": "我很想去旅行,但是最近工作太忙,走不开。",
+    "pinyin": "Wǒ hěn xiǎng qù lǚ xíng, dàn shì zuì jìn gōng zuò tài máng, zǒu bù kāi。",
+    "en": "I'd love to travel, but I've been too busy with work to get away."
+   },
+   {
+    "zh": "他学汉语才一年,可是已经说得非常流利了。",
+    "pinyin": "Tā xué hàn yǔ cái yī nián, kě shì yǐ jīng shuō de fēi cháng liú lì le。",
+    "en": "He's only studied Chinese for a year, but he already speaks very fluently."
+   },
+   {
+    "zh": "外面看着不冷,可是风很大,你多穿点儿吧。",
+    "pinyin": "Wài miàn kàn zhe bù lěng, kě shì fēng hěn dà, nǐ duō chuān diǎn ér ba。",
+    "en": "It doesn't look cold outside, but it's windy; put on more clothes."
+   },
+   {
+    "zh": "这家餐厅的菜很好吃,但是等的时间太长了。",
+    "pinyin": "Zhè jiā cān tīng de cài hěn hǎo chī, dàn shì děng de shí jiān tài zhǎng le。",
+    "en": "The food at this restaurant is delicious, but the wait is too long."
+   },
+   {
+    "zh": "我给他打了好几次电话,可是他一直没接。",
+    "pinyin": "Wǒ gěi tā dǎ le hǎo jǐ cì diàn huà, kě shì tā yì zhí méi jiē。",
+    "en": "I called him several times, but he never picked up."
+   },
+   {
+    "zh": "虽然这本书很厚,但是内容很有意思,我很快就看完了。",
+    "pinyin": "Suī rán zhè běn shū hěn hòu, dàn shì nèi róng hěn yǒu yì si, wǒ hěn kuài jiù kàn wán le。",
+    "en": "Although this book is thick, the content is interesting, so I finished it quickly."
+   },
+   {
+    "zh": "他答应今天来帮忙,可是到现在还没出现。",
+    "pinyin": "Tā dā yìng jīn tiān lái bāng máng, kě shì dào xiàn zài hái méi chū xiàn。",
+    "en": "He promised to come help today, but he still hasn't shown up."
+   },
+   {
+    "zh": "这个办法听起来不错,但是实际做起来很难。",
+    "pinyin": "Zhè ge bàn fǎ tīng qǐ lái bù cuò, dàn shì shí jì zuò qǐ lái hěn nán。",
+    "en": "This method sounds good, but it's very hard to actually carry out."
+   },
+   {
+    "zh": "我想早点睡,可是隔壁太吵,根本睡不着。",
+    "pinyin": "Wǒ xiǎng zǎo diǎn shuì, kě shì gé bì tài chǎo, gēn běn shuì bù zhe。",
+    "en": "I wanted to sleep early, but the neighbors were too loud, so I couldn't sleep at all."
+   },
+   {
+    "zh": "她年纪不大,但是做事非常认真,大家都很信任她。",
+    "pinyin": "Tā nián jì bù dà, dàn shì zuò shì fēi cháng rèn zhēn, dà jiā dōu hěn xìn rèn tā。",
+    "en": "She's young, but very serious about her work, and everyone trusts her."
+   },
+   {
+    "zh": "天气预报说今天有雨,可是一天都是晴天。",
+    "pinyin": "Tiān qì yù bào shuō jīn tiān yǒu yǔ, kě shì yī tiān dōu shì qíng tiān。",
+    "en": "The forecast said rain today, but it's been sunny all day."
+   },
+   {
+    "zh": "我很喜欢这个城市,但是这里的冬天太冷了。",
+    "pinyin": "Wǒ hěn xǐ huān zhè ge chéng shì, dàn shì zhè lǐ de dōng tiān tài lěng le。",
+    "en": "I really like this city, but the winters here are too cold."
+   },
+   {
+    "zh": "他表面上很冷淡,可是心里其实很关心别人。",
+    "pinyin": "Tā biǎo miàn shàng hěn lěng dàn, kě shì xīn lǐ qí shí hěn guān xīn bié rén。",
+    "en": "On the surface he seems cold, but he actually cares a lot about others."
+   },
+   {
+    "zh": "这道题看起来简单,但是很多人都做错了。",
+    "pinyin": "Zhè dào tí kàn qǐ lái jiǎn dān, dàn shì hěn duō rén dōu zuò cuò le。",
+    "en": "This question looks simple, but many people got it wrong."
+   },
+   {
+    "zh": "我们准备了很久,可是比赛那天还是输了。",
+    "pinyin": "Wǒ men zhǔn bèi le hěn jiǔ, kě shì bǐ sài nà tiān hái shì shū le。",
+    "en": "We prepared for a long time, but still lost on the day of the match."
+   },
+   {
+    "zh": "虽然我们是第一次见面,可是感觉像认识很久了。",
+    "pinyin": "Suī rán wǒ men shì dì yī cì jiàn miàn, kě shì gǎn jué xiàng rèn shí hěn jiǔ le。",
+    "en": "Although it's our first meeting, it feels like we've known each other a long time."
+   },
+   {
+    "zh": "他工作很努力,但是身体一直不太好。",
+    "pinyin": "Tā gōng zuò hěn nǔ lì, dàn shì shēn tǐ yì zhí bù tài hǎo。",
+    "en": "He works very hard, but his health has never been very good."
+   },
+   {
+    "zh": "这部电影名字很有名,可是我看了觉得一般。",
+    "pinyin": "Zhè bù diàn yǐng míng zì hěn yǒu míng, kě shì wǒ kàn le jué de yì bān。",
+    "en": "This movie's title is famous, but I found it just so-so after watching."
+   },
+   {
+    "zh": "我本来想自己修,但是发现问题太复杂了。",
+    "pinyin": "Wǒ běn lái xiǎng zì jǐ xiū, dàn shì fā xiàn wèn tí tài fù zá le。",
+    "en": "I originally wanted to fix it myself, but found the problem too complex."
+   },
+   {
+    "zh": "孩子想要那个玩具,可是妈妈没同意给他买。",
+    "pinyin": "Hái zi xiǎng yào nà ge wán jù, kě shì mā mā méi tóng yì gěi tā mǎi。",
+    "en": "The child wanted that toy, but mom didn't agree to buy it."
+   },
+   {
+    "zh": "这里的东西不便宜,但是质量真的很好。",
+    "pinyin": "Zhè lǐ de dōng xī bù biàn yí, dàn shì zhì liàng zhēn de hěn hǎo。",
+    "en": "Things here aren't cheap, but the quality is truly excellent."
+   },
+   {
+    "zh": "我们说好一起去的,可是最后只有我一个人到了。",
+    "pinyin": "Wǒ men shuō hǎo yì qǐ qù de, kě shì zuì hòu zhǐ yǒu wǒ yí gè rén dào le。",
+    "en": "We agreed to go together, but in the end only I showed up."
+   },
+   {
+    "zh": "他嘴上说不在乎,但是心里其实很难过。",
+    "pinyin": "Tā zuǐ shàng shuō bù zài hū, dàn shì xīn lǐ qí shí hěn nán guò。",
+    "en": "He says he doesn't care, but he's actually very sad inside."
+   },
+   {
+    "zh": "虽然路很远,可是为了见你,再远我也愿意来。",
+    "pinyin": "Suī rán lù hěn yuǎn, kě shì wèi le jiàn nǐ, zài yuǎn wǒ yě yuàn yì lái。",
+    "en": "Although the road is long, to see you I'd be willing to come no matter how far."
+   }
+  ]
  }
 ]

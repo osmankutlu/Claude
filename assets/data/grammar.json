@@ -21622,5 +21622,685 @@
     "en": "In hard times, it's mutual help that makes people feel warmth."
    }
   ]
+ },
+ {
+  "id": "g160",
+  "level": 3,
+  "title": "\"就\" ile erkenlik/çabukluk",
+  "titleEn": "Expressing earliness with \"jiu\"",
+  "pattern": "Özne + Zaman + 就 + Fiil + 了",
+  "summary": "\"就\" bir eylemin BEKLENENDEN ERKEN/çabuk olduğunu vurgular: 他五点就起床了 = O daha saat beşte kalktı (erkenden).",
+  "explanation": "\"就\" bir zaman ifadesinin ardından gelip eylemin BEKLENENDEN ERKEN, çabuk ya da hemen gerçekleştiğini vurgular: 他六点就来了 (Daha saat altıda geldi — erkenden), 我说一遍他就懂了 (Bir kez söyledim, hemen anladı). Cümle çoğu zaman \"了\" ile biter. Karşıtı \"才\"dır: \"就\" \"erken/çabuk\", \"才\" \"geç/ancak\" bildirir — 他六点就来了 (erken geldi) vs 他九点才来 (ancak dokuzda geldi). \"就\" ayrıca iki olayın hemen ardışıklığını da gösterir: 一...就... (...-ır ...-maz). Bu konuda özellikle ERKENLİK/çabukluk vurgusunu ele alıyoruz. Türkçedeki \"daha ... -de, ...-er ...-mez, hemen, çoktan\" ifadelerine denk gelir; bir şeyin ne kadar erken olduğunu belirtir.",
+  "examples": [
+   {
+    "zh": "他每天早上五点就起床,然后去公园锻炼。",
+    "pinyin": "Tā měi tiān zǎo shàng wǔ diǎn jiù qǐ chuáng, rán hòu qù gōng yuán duàn liàn。",
+    "en": "He gets up at five every morning and then exercises in the park."
+   },
+   {
+    "zh": "这么简单的道理,孩子一听就明白了。",
+    "pinyin": "Zhè me jiǎn dān de dào lǐ, hái zi yī tīng jiù míng bái le。",
+    "en": "Such a simple idea — the child understood it as soon as he heard it."
+   },
+   {
+    "zh": "我们还没准备好,客人七点就到了。",
+    "pinyin": "Wǒ men hái méi zhǔn bèi hǎo, kè rén qī diǎn jiù dào le。",
+    "en": "We weren't ready yet, but the guests arrived as early as seven."
+   },
+   {
+    "zh": "他很小的时候就展现出了画画的天分。",
+    "pinyin": "Tā hěn xiǎo de shí hòu jiù zhǎn xiàn chū le huà huà de tiān fèn。",
+    "en": "He showed a talent for painting from a very young age."
+   },
+   {
+    "zh": "天还没亮,渔民们就出海了。",
+    "pinyin": "Tiān hái méi liàng, yú mín men jiù chū hǎi le。",
+    "en": "Before dawn even broke, the fishermen had already set out to sea."
+   },
+   {
+    "zh": "这本书我昨天一拿到就一口气读完了。",
+    "pinyin": "Zhè běn shū wǒ zuó tiān yī ná dào jiù yì kǒu qì dú wán le。",
+    "en": "I got this book yesterday and finished it in one sitting right away."
+   },
+   {
+    "zh": "你放心,东西我早就给你准备好了。",
+    "pinyin": "Nǐ fàng xīn, dōng xī wǒ zǎo jiù gěi nǐ zhǔn bèi hǎo le。",
+    "en": "Rest assured; I prepared the things for you long ago."
+   },
+   {
+    "zh": "会议才开始十分钟,他就把问题解决了。",
+    "pinyin": "Huì yì cái kāi shǐ shí fēn zhōng, tā jiù bǎ wèn tí jiě jué le。",
+    "en": "Only ten minutes into the meeting, he had already solved the problem."
+   },
+   {
+    "zh": "春节还没到,他半个月前就买好了回家的车票。",
+    "pinyin": "Chūn jié hái méi dào, tā bàn gè yuè qián jiù mǎi hǎo le huí jiā de chē piào。",
+    "en": "The Spring Festival hadn't come, yet he'd bought his ticket home half a month early."
+   },
+   {
+    "zh": "刚上小学的时候,他就立志要当科学家。",
+    "pinyin": "Gāng shàng xiǎo xué de shí hòu, tā jiù lì zhì yào dāng kē xué jiā。",
+    "en": "When he'd just started primary school, he already aspired to be a scientist."
+   },
+   {
+    "zh": "我一进门就闻到了饭菜的香味,原来妈妈早做好了。",
+    "pinyin": "Wǒ yī jìn mén jiù wén dào le fàn cài de xiāng wèi, yuán lái mā mā zǎo zuò hǎo le。",
+    "en": "The moment I entered I smelled the food; mom had cooked it already."
+   },
+   {
+    "zh": "这件事他很早就知道了,只是一直没说。",
+    "pinyin": "Zhè jiàn shì tā hěn zǎo jiù zhī dào le, zhǐ shì yì zhí méi shuō。",
+    "en": "He knew about this very early on, but just never mentioned it."
+   },
+   {
+    "zh": "闹钟还没响,他六点不到就醒了。",
+    "pinyin": "Nào zhōng hái méi xiǎng, tā liù diǎn bú dào jiù xǐng le。",
+    "en": "Before the alarm rang, he woke before six."
+   },
+   {
+    "zh": "这些孩子三岁就会自己穿衣服、吃饭了。",
+    "pinyin": "Zhè xiē hái zi sān suì jiù huì zì jǐ chuān yī fú、 chī fàn le。",
+    "en": "These children could dress and feed themselves at three."
+   },
+   {
+    "zh": "你来得正好,我刚泡好茶你就到了。",
+    "pinyin": "Nǐ lái de zhèng hǎo, wǒ gāng pào hǎo chá nǐ jiù dào le。",
+    "en": "You came at just the right time; I'd just made tea when you arrived."
+   },
+   {
+    "zh": "他学东西特别快,别人还没开始,他就学会了。",
+    "pinyin": "Tā xué dōng xī tè bié kuài, bié rén hái méi kāi shǐ, tā jiù xué huì le。",
+    "en": "He learns fast; before others even start, he's already mastered it."
+   },
+   {
+    "zh": "那家店生意好,常常还没到中午菜就卖光了。",
+    "pinyin": "Nà jiā diàn shēng yì hǎo, cháng cháng hái méi dào zhōng wǔ cài jiù mài guāng le。",
+    "en": "That shop does good business; often the dishes sell out before noon."
+   },
+   {
+    "zh": "我们计划下午出发,可他一大早就把行李收拾好了。",
+    "pinyin": "Wǒ men jì huà xià wǔ chū fā, kě tā yī dà zǎo jiù bǎ xíng lǐ shōu shí hǎo le。",
+    "en": "We planned to leave in the afternoon, but he packed early in the morning."
+   },
+   {
+    "zh": "这个消息一传出去,不到一个小时全公司就都知道了。",
+    "pinyin": "Zhè ge xiāo xī yī chuán chū qù, bú dào yí gè xiǎo shí quán gōng sī jiù dōu zhī dào le。",
+    "en": "Once the news got out, the whole company knew within an hour."
+   },
+   {
+    "zh": "他刚坐下没多久,饭菜就端上来了。",
+    "pinyin": "Tā gāng zuò xià méi duō jiǔ, fàn cài jiù duān shàng lái le。",
+    "en": "Not long after he sat down, the food was served."
+   },
+   {
+    "zh": "下课铃一响,同学们就飞快地跑出了教室。",
+    "pinyin": "Xià kè líng yī xiǎng, tóng xué men jiù fēi kuài de pǎo chū le jiào shì。",
+    "en": "The moment the bell rang, the students dashed out of the classroom."
+   },
+   {
+    "zh": "我提醒了他一句,他马上就想起来了。",
+    "pinyin": "Wǒ tí xǐng le tā yī jù, tā mǎ shàng jiù xiǎng qǐ lái le。",
+    "en": "I gave him a hint, and he remembered right away."
+   },
+   {
+    "zh": "这场雨来得急,刚才还是晴天,一会儿就下起来了。",
+    "pinyin": "Zhè chǎng yǔ lái de jí, gāng cái hái shì qíng tiān, yī huì er jiù xià qǐ lái le。",
+    "en": "This rain came fast; it was clear just now and started in no time."
+   },
+   {
+    "zh": "他年纪轻轻就当上了这家公司的经理。",
+    "pinyin": "Tā nián jì qīng qīng jiù dāng shàng le zhè jiā gōng sī de jīng lǐ。",
+    "en": "At a young age he already became the manager of this company."
+   },
+   {
+    "zh": "我们约的是八点,他七点半就在门口等着了。",
+    "pinyin": "Wǒ men yuē de shì bā diǎn, tā qī diǎn bàn jiù zài mén kǒu děng zhe le。",
+    "en": "We agreed on eight, but he was waiting at the door by seven-thirty."
+   }
+  ]
+ },
+ {
+  "id": "g161",
+  "level": 3,
+  "title": "\"够\" ile \"yeterli, yetmek\"",
+  "titleEn": "Expressing \"enough\" with \"gou\"",
+  "pattern": "Özne + 够 + Yüklem (+ 了)",
+  "summary": "\"够\" (gòu) bir şeyin YETERLİ olduğunu bildirir: 钱够了 = Para yetti; 时间不够 = Zaman yetmiyor.",
+  "explanation": "\"够\" bir miktarın, sürenin ya da derecenin YETERLİ olduğunu belirtir: 钱够了 (Para yeterli), 这些菜够我们吃了 (Bu yemekler bize yeter), 时间不够 (Zaman yetmiyor). Bir isimden önce \"够 + isim\" = \"yeterince ...\": 够时间 (yeterli zaman), 够钱 (yeterli para). Bir sıfattan önce \"够 + sıfat\" = \"yeterince ...\": 够大 (yeterince büyük), 够高 (yeterince uzun). Olumsuzu \"不够\" (yetmez, yeterli değil). Konuşma dilinde \"够了\" tek başına \"yeter! bu kadar yeter\" anlamına da gelir. \"够呛\" gibi deyimsel kullanımları da vardır (bir hayli zor). Türkçedeki \"yeter, yeterli, yetmek, yeterince\" karşılıklarına denk gelir; bir şeyin gereksinimi karşılayıp karşılamadığını anlatır.",
+  "examples": [
+   {
+    "zh": "这些钱够我们买两张票了,不用再取了。",
+    "pinyin": "Zhè xiē qián gòu wǒ men mǎi liǎng zhāng piào le, bù yòng zài qǔ le。",
+    "en": "This money is enough for two tickets; no need to withdraw more."
+   },
+   {
+    "zh": "时间不够了,咱们打车去吧,不然要迟到了。",
+    "pinyin": "Shí jiān bù gòu le, zán men dǎ chē qù ba, bù rán yào chí dào le。",
+    "en": "There's not enough time; let's take a taxi, or we'll be late."
+   },
+   {
+    "zh": "我做了这么多菜,应该够大家吃了吧?",
+    "pinyin": "Wǒ zuò le zhè me duō cài, yīng gāi gòu dà jiā chī le ba?",
+    "en": "I made so many dishes; that should be enough for everyone, right?"
+   },
+   {
+    "zh": "这个房间不够大,放不下这么多家具。",
+    "pinyin": "Zhè ge fáng jiān bù gòu dà, fàng bù xià zhè me duō jiā jù。",
+    "en": "This room isn't big enough to fit so much furniture."
+   },
+   {
+    "zh": "你准备的材料够充分,面试肯定没问题。",
+    "pinyin": "Nǐ zhǔn bèi de cái liào gòu chōng fèn, miàn shì kěn dìng méi wèn tí。",
+    "en": "Your prepared materials are thorough enough; the interview will be fine."
+   },
+   {
+    "zh": "忙了一整天,他累得够呛,一回家就睡了。",
+    "pinyin": "Máng le yī zhěng tiān, tā lèi de gòu qiàng, yī huí jiā jiù shuì le。",
+    "en": "After a busy day he was thoroughly worn out and slept as soon as he got home."
+   },
+   {
+    "zh": "这点儿水不够浇这么多花,你再接一桶吧。",
+    "pinyin": "Zhè diǎn ér shuǐ bù gòu jiāo zhè me duō huā, nǐ zài jiē yī tǒng ba。",
+    "en": "This water isn't enough for so many flowers; go get another bucket."
+   },
+   {
+    "zh": "行了行了,够了,别再给我夹菜了,我吃饱了。",
+    "pinyin": "Xíng le xíng le, gòu le, bié zài gěi wǒ jiā cài le, wǒ chī bǎo le。",
+    "en": "That's enough, stop putting food on my plate; I'm full."
+   },
+   {
+    "zh": "他个子够高,打篮球特别有优势。",
+    "pinyin": "Tā gè zi gòu gāo, dǎ lán qiú tè bié yǒu yōu shì。",
+    "en": "He's tall enough; it's a real advantage in basketball."
+   },
+   {
+    "zh": "你别担心钱的事,我带的钱够花了。",
+    "pinyin": "Nǐ bié dān xīn qián de shì, wǒ dài de qián gòu huā le。",
+    "en": "Don't worry about money; I brought enough to spend."
+   },
+   {
+    "zh": "这条绳子不够长,够不到对面的树。",
+    "pinyin": "Zhè tiáo shéng zi bù gòu zhǎng, gòu bú dào duì miàn de shù。",
+    "en": "This rope isn't long enough; it won't reach the tree across."
+   },
+   {
+    "zh": "我们的准备时间够充裕,不用那么着急。",
+    "pinyin": "Wǒ men de zhǔn bèi shí jiān gòu chōng yù, bù yòng nà me zhe jí。",
+    "en": "We have plenty of preparation time; no need to rush."
+   },
+   {
+    "zh": "这么点儿米不够一家人吃一顿的,得再买点。",
+    "pinyin": "Zhè me diǎn er mǐ bù gòu yī jiā rén chī yī dùn de, de zài mǎi diǎn。",
+    "en": "This little rice isn't enough for the family's meal; buy some more."
+   },
+   {
+    "zh": "他的能力足够胜任这份工作,大家都很放心。",
+    "pinyin": "Tā de néng lì zú gòu shèng rèn zhè fèn gōng zuò, dà jiā dōu hěn fàng xīn。",
+    "en": "His ability is more than enough for this job; everyone's at ease."
+   },
+   {
+    "zh": "天气够冷的,你就穿这么点儿,不冻坏才怪。",
+    "pinyin": "Tiān qì gòu lěng de, nǐ jiù chuān zhè me diǎn er, bù dòng huài cái guài。",
+    "en": "It's cold enough; dressed so lightly, you'll surely freeze."
+   },
+   {
+    "zh": "这些作业够他忙一晚上的了,别再给他加了。",
+    "pinyin": "Zhè xiē zuò yè gòu tā máng yī wǎn shàng de le, bié zài gěi tā jiā le。",
+    "en": "This homework is enough to keep him busy all night; don't add more."
+   },
+   {
+    "zh": "桌子上的位子不够坐,得再搬两把椅子来。",
+    "pinyin": "Zhuō zi shàng de wèi zi bù gòu zuò, de zài bān liǎng bǎ yǐ zi lái。",
+    "en": "There aren't enough seats at the table; bring two more chairs."
+   },
+   {
+    "zh": "你受的苦已经够多了,以后该为自己好好活。",
+    "pinyin": "Nǐ shòu de kǔ yǐ jīng gòu duō le, yǐ hòu gāi wèi zì jǐ hǎo hǎo huó。",
+    "en": "You've endured enough hardship; live well for yourself from now on."
+   },
+   {
+    "zh": "这块布够做一件衣服吗?好像有点儿短。",
+    "pinyin": "Zhè kuài bù gòu zuò yī jiàn yī fú ma? hǎo xiàng yǒu diǎn ér duǎn。",
+    "en": "Is this cloth enough for a garment? It seems a bit short."
+   },
+   {
+    "zh": "光靠热情是不够的,还得有真本事。",
+    "pinyin": "Guāng kào rè qíng shì bù gòu de, hái de yǒu zhēn běn shì。",
+    "en": "Enthusiasm alone isn't enough; you also need real skill."
+   },
+   {
+    "zh": "时间够的话,我想顺便去看看老朋友。",
+    "pinyin": "Shí jiān gòu de huà, wǒ xiǎng shùn biàn qù kàn kàn lǎo péng yǒu。",
+    "en": "If there's enough time, I'd like to visit an old friend too."
+   },
+   {
+    "zh": "这台空调够大了,足够整个客厅用。",
+    "pinyin": "Zhè tái kōng tiáo gòu dà le, zú gòu zhěng gè kè tīng yòng。",
+    "en": "This air conditioner is big enough for the whole living room."
+   },
+   {
+    "zh": "你别客气,菜够多了,再点就吃不完了。",
+    "pinyin": "Nǐ bié kè qì, cài gòu duō le, zài diǎn jiù chī bù wán le。",
+    "en": "Don't be shy; there's enough food, more and we can't finish."
+   },
+   {
+    "zh": "经过这些年的磨炼,他已经足够成熟稳重了。",
+    "pinyin": "Jīng guò zhè xiē nián de mó liàn, tā yǐ jīng zú gòu chéng shú wěn zhòng le。",
+    "en": "After years of tempering, he's mature and steady enough."
+   },
+   {
+    "zh": "光有钱是不够的,健康和家人的陪伴同样重要。",
+    "pinyin": "Guāng yǒu qián shì bù gòu de, jiàn kāng hé jiā rén de péi bàn tóng yàng zhòng yào。",
+    "en": "Money alone isn't enough; health and family matter just as much."
+   }
+  ]
+ },
+ {
+  "id": "g162",
+  "level": 3,
+  "title": "\"终于\" ile \"sonunda, nihayet\"",
+  "titleEn": "Expressing \"finally\" with \"zhongyu\"",
+  "pattern": "Özne + 终于 + Yüklem + 了",
+  "summary": "\"终于\" (zhōngyú) uzun bir bekleyiş/çabadan sonra beklenen sonucun GELDİĞİNİ bildirir: 他终于来了 = Sonunda geldi.",
+  "explanation": "\"终于\" uzun bir süre, çaba ya da bekleyişin ARDINDAN, beklenen (genelde OLUMLU) bir sonucun nihayet gerçekleştiğini bildirir: \"sonunda, nihayet, en sonunda\". 等了这么久,他终于来了 (Bunca bekleyişten sonra sonunda geldi), 经过多年努力,她终于实现了梦想 (Yıllarca uğraştıktan sonra sonunda hayalini gerçekleştirdi). Yüklemden önce gelir ve cümle çoğu zaman \"了\" ile biter (yeni durumu vurgular). Bir sürecin sonucunu bildirdiği için ani/kısa olaylarla değil, beklenen/uğraşılan sonuçlarla kullanılır. Genelde olumlu, rahatlama içeren bir tonu vardır. Türkçedeki \"sonunda, nihayet, en sonunda\" ifadelerine denk gelir; uzun bir bekleyiş ya da çabanın meyvesini anlatır.",
+  "examples": [
+   {
+    "zh": "经过三年的努力,他终于考上了理想的大学。",
+    "pinyin": "Jīng guò sān nián de nǔ lì, tā zhōng yú kǎo shàng le lǐ xiǎng de dà xué。",
+    "en": "After three years of effort, he finally got into his dream university."
+   },
+   {
+    "zh": "等了整整一个下午,我们终于等到了那趟迟来的火车。",
+    "pinyin": "Děng le zhěng zhěng yí gè xià wǔ, wǒ men zhōng yú děng dào le nà tàng chí lái de huǒ chē。",
+    "en": "After waiting all afternoon, we finally caught the long-delayed train."
+   },
+   {
+    "zh": "试了很多次以后,他终于把这道难题解开了。",
+    "pinyin": "Shì le hěn duō cì yǐ hòu, tā zhōng yú bǎ zhè dào nán tí jiě kāi le。",
+    "en": "After many attempts, he finally cracked this tough problem."
+   },
+   {
+    "zh": "忙了大半年,这个项目终于顺利完成了。",
+    "pinyin": "Máng le dà bàn nián, zhè ge xiàng mù zhōng yú shùn lì wán chéng le。",
+    "en": "After half a year of work, the project was finally completed smoothly."
+   },
+   {
+    "zh": "下了好几天的雨,今天终于放晴了。",
+    "pinyin": "Xià le hǎo jǐ tiān de yǔ, jīn tiān zhōng yú fàng qíng le。",
+    "en": "After days of rain, today it finally cleared up."
+   },
+   {
+    "zh": "找了半天,我终于在旧箱子里找到了那张照片。",
+    "pinyin": "Zhǎo le bàn tiān, wǒ zhōng yú zài jiù xiāng zi lǐ zhǎo dào le nà zhāng zhào piān。",
+    "en": "After searching a long while, I finally found that photo in the old box."
+   },
+   {
+    "zh": "经过医生的精心治疗,他的病终于好了。",
+    "pinyin": "Jīng guò yī shēng de jīng xīn zhì liáo, tā de bìng zhōng yú hǎo le。",
+    "en": "After the doctor's careful treatment, he finally recovered."
+   },
+   {
+    "zh": "说了这么多年,他们终于决定去看看外面的世界。",
+    "pinyin": "Shuō le zhè me duō nián, tā men zhōng yú jué dìng qù kàn kàn wài miàn de shì jiè。",
+    "en": "After talking about it for years, they finally decided to see the world."
+   },
+   {
+    "zh": "排了两个小时的队,我们终于买到了票。",
+    "pinyin": "Pái le liǎng gè xiǎo shí de duì, wǒ men zhōng yú mǎi dào le piào。",
+    "en": "After queuing for two hours, we finally got the tickets."
+   },
+   {
+    "zh": "经历了无数次失败,这次试验终于成功了。",
+    "pinyin": "Jīng lì liǎo wú shù cì shī bài, zhè cì shì yàn zhōng yú chéng gōng le。",
+    "en": "After countless failures, this experiment finally succeeded."
+   },
+   {
+    "zh": "盼了好久,女儿终于放假回家了。",
+    "pinyin": "Pàn le hǎo jiǔ, nǚ ér zhōng yú fàng jià huí jiā le。",
+    "en": "After a long wait, the daughter finally came home for the holiday."
+   },
+   {
+    "zh": "忙碌了一整天,他终于可以坐下来好好吃顿饭了。",
+    "pinyin": "Máng lù le yī zhěng tiān, tā zhōng yú kě yǐ zuò xià lái hǎo hǎo chī dùn fàn le。",
+    "en": "After a busy day, he could finally sit down for a proper meal."
+   },
+   {
+    "zh": "经过反复修改,这篇文章终于让他满意了。",
+    "pinyin": "Jīng guò fǎn fù xiū gǎi, zhè piān wén zhāng zhōng yú ràng tā mǎn yì le。",
+    "en": "After repeated revisions, he was finally satisfied with the article."
+   },
+   {
+    "zh": "走了很远的山路,我们终于看到了山顶的日出。",
+    "pinyin": "Zǒu le hěn yuǎn de shān lù, wǒ men zhōng yú kàn dào le shān dǐng de rì chū。",
+    "en": "After a long mountain trek, we finally saw the sunrise from the peak."
+   },
+   {
+    "zh": "努力存了好几年,他终于买下了属于自己的房子。",
+    "pinyin": "Nǔ lì cún le hǎo jǐ nián, tā zhōng yú mǎi xià le shǔ yú zì jǐ de fáng zi。",
+    "en": "After saving for years, he finally bought a home of his own."
+   },
+   {
+    "zh": "经过大家的共同努力,这个难关终于闯过去了。",
+    "pinyin": "Jīng guò dà jiā de gòng tóng nǔ lì, zhè ge nán guān zhōng yú chuǎng guò qù le。",
+    "en": "Through everyone's joint effort, this hurdle was finally overcome."
+   },
+   {
+    "zh": "解释了半天,他终于明白了我的一片好心。",
+    "pinyin": "Jiě shì le bàn tiān, tā zhōng yú míng bái le wǒ de yī piàn hǎo xīn。",
+    "en": "After much explaining, he finally understood my good intentions."
+   },
+   {
+    "zh": "盼星星盼月亮,他们终于盼来了盼望已久的好消息。",
+    "pinyin": "Pàn xīng xīng pàn yuè liàng, tā men zhōng yú pàn lái le pàn wàng yǐ jiǔ de hǎo xiāo xī。",
+    "en": "Longing day and night, they finally received the long-awaited good news."
+   },
+   {
+    "zh": "学了三年汉语,我终于能看懂中文小说了。",
+    "pinyin": "Xué le sān nián hàn yǔ, wǒ zhōng yú néng kàn dǒng zhōng wén xiǎo shuō le。",
+    "en": "After three years of Chinese, I can finally read Chinese novels."
+   },
+   {
+    "zh": "经过长时间的沟通,双方终于达成了一致。",
+    "pinyin": "Jīng guò zhǎng shí jiān de gōu tōng, shuāng fāng zhōng yú dá chéng le yí zhì。",
+    "en": "After lengthy communication, both sides finally reached agreement."
+   },
+   {
+    "zh": "在大家的鼓励下,他终于鼓起勇气站上了舞台。",
+    "pinyin": "Zài dà jiā de gǔ lì xià, tā zhōng yú gǔ qǐ yǒng qì zhàn shàng le wǔ tái。",
+    "en": "With everyone's encouragement, he finally worked up the courage to go on stage."
+   },
+   {
+    "zh": "修了整整一个星期,那条路终于通车了。",
+    "pinyin": "Xiū le zhěng zhěng yí gè xīng qī, nà tiáo lù zhōng yú tōng chē le。",
+    "en": "After a full week of repairs, that road finally opened to traffic."
+   },
+   {
+    "zh": "找工作找了好几个月,他终于收到了录用通知。",
+    "pinyin": "Zhǎo gōng zuò zhǎo le hǎo jǐ gè yuè, tā zhōng yú shōu dào le lù yòng tōng zhī。",
+    "en": "After months of job-hunting, he finally received an offer."
+   },
+   {
+    "zh": "经过多年的分离,两位老朋友终于又见面了。",
+    "pinyin": "Jīng guò duō nián de fēn lí, liǎng wèi lǎo péng yǒu zhōng yú yòu jiàn miàn le。",
+    "en": "After years apart, the two old friends finally met again."
+   },
+   {
+    "zh": "熬过了最艰难的日子,他们的生活终于好起来了。",
+    "pinyin": "Áo guò le zuì jiān nán de rì zi, tā men de shēng huó zhōng yú hǎo qǐ lái le。",
+    "en": "Having survived the hardest days, their life finally took a turn for the better."
+   }
+  ]
+ },
+ {
+  "id": "g163",
+  "level": 3,
+  "title": "\"还是\" ile \"...-sen daha iyi\"",
+  "titleEn": "Expressing \"had better\" with \"haishi\"",
+  "pattern": "还是 + Fiil (+ 吧)",
+  "summary": "\"还是\" (háishì) düşünüp taşınıp bir seçeneği tercih etmeyi bildirir: \"yine de, en iyisi ...\": 你还是早点回去吧 = En iyisi erken dön.",
+  "explanation": "\"还是\" bu kullanımda, çeşitli seçenekleri tartıp sonunda BİRİNİ tercih etmeyi/tavsiye etmeyi bildirir: \"yine de, en iyisi, ...-sen daha iyi\". 天太晚了,你还是别去了 (Çok geç oldu, en iyisi gitme), 我们还是坐地铁吧,又快又便宜 (En iyisi metroya binelim, hem hızlı hem ucuz). Cümle çoğu zaman \"吧\" ile biter ve yumuşak bir öneri/karar tonu taşır. Bir değerlendirme sonucu \"düşününce en makul olan bu\" fikrini verir. (\"还是\"nın soru cümlelerinde \"...mı yoksa ...mı\" seçenek sorma anlamı ayrıdır.) Türkçedeki \"yine de, en iyisi, bence ...-sen daha iyi\" ifadelerine denk gelir; kararsızlıktan sonra varılan makul seçimi belirtir.",
+  "examples": [
+   {
+    "zh": "外面雨这么大,你还是等雨小一点再走吧。",
+    "pinyin": "Wài miàn yǔ zhè me dà, nǐ hái shì děng yǔ xiǎo yì diǎn zài zǒu ba。",
+    "en": "The rain's heavy; you'd better wait until it eases before going."
+   },
+   {
+    "zh": "这件事挺复杂的,咱们还是当面谈比较好。",
+    "pinyin": "Zhè jiàn shì tǐng fù zá de, zán men hái shì dāng miàn tán bǐ jiào hǎo。",
+    "en": "This is rather complex; we'd better talk in person."
+   },
+   {
+    "zh": "天太晚了,你一个人回去我不放心,还是我送你吧。",
+    "pinyin": "Tiān tài wǎn le, nǐ yí gè rén huí qù wǒ bù fàng xīn, hái shì wǒ sòng nǐ ba。",
+    "en": "It's late; I'm uneasy about you going alone, let me see you back."
+   },
+   {
+    "zh": "与其在这儿瞎猜,还是直接去问问他本人吧。",
+    "pinyin": "Yǔ qí zài zhè ér xiā cāi, hái shì zhí jiē qù wèn wèn tā běn rén ba。",
+    "en": "Rather than guessing here, we'd better just go ask him directly."
+   },
+   {
+    "zh": "这家餐厅太贵了,咱们还是换一家实惠点的吧。",
+    "pinyin": "Zhè jiā cān tīng tài guì le, zán men hái shì huàn yī jiā shí huì diǎn de ba。",
+    "en": "This restaurant is too pricey; let's switch to a more affordable one."
+   },
+   {
+    "zh": "你身体不舒服,今天还是在家好好休息吧。",
+    "pinyin": "Nǐ shēn tǐ bù shū fú, jīn tiān hái shì zài jiā hǎo hǎo xiū xī ba。",
+    "en": "You're unwell; you'd better rest well at home today."
+   },
+   {
+    "zh": "这个决定太重要了,你还是跟家里人商量一下再定。",
+    "pinyin": "Zhè ge jué dìng tài zhòng yào le, nǐ hái shì gēn jiā lǐ rén shāng liáng yī xià zài dìng。",
+    "en": "This decision is important; better discuss it with family first."
+   },
+   {
+    "zh": "坐飞机虽然快,但为了看风景,我们还是坐火车吧。",
+    "pinyin": "Zuò fēi jī suī rán kuài, dàn wèi le kàn fēng jǐng, wǒ men hái shì zuò huǒ chē ba。",
+    "en": "Flying is faster, but for the scenery, let's take the train."
+   },
+   {
+    "zh": "既然大家意见不一致,这件事还是从长计议吧。",
+    "pinyin": "Jì rán dà jiā yì jiàn bù yī zhì, zhè jiàn shì hái shì cóng cháng jì yì ba。",
+    "en": "Since opinions differ, let's take our time deciding this."
+   },
+   {
+    "zh": "网上的说法不一定可靠,你还是问问医生比较好。",
+    "pinyin": "Wǎng shàng de shuō fǎ bù yí dìng kě kào, nǐ hái shì wèn wèn yī shēng bǐ jiào hǎo。",
+    "en": "Online claims aren't always reliable; better ask a doctor."
+   },
+   {
+    "zh": "这么贵重的东西,你还是自己收好,别让我保管了。",
+    "pinyin": "Zhè me guì zhòng de dōng xī, nǐ hái shì zì jǐ shōu hǎo, bié ràng wǒ bǎo guǎn le。",
+    "en": "Such a valuable thing — you'd better keep it yourself, not me."
+   },
+   {
+    "zh": "与其勉强他来,还是让他在家安心休息吧。",
+    "pinyin": "Yǔ qí miǎn qiǎng tā lái, hái shì ràng tā zài jiā ān xīn xiū xī ba。",
+    "en": "Rather than force him to come, better let him rest at home."
+   },
+   {
+    "zh": "路上不太好走,你们还是早点出发比较稳妥。",
+    "pinyin": "Lù shàng bù tài hǎo zǒu, nǐ men hái shì zǎo diǎn chū fā bǐ jiào wěn tuǒ。",
+    "en": "The road isn't easy; you'd better set off early to be safe."
+   },
+   {
+    "zh": "这件衣服颜色太亮了,我觉得你还是穿那件深色的好。",
+    "pinyin": "Zhè jiàn yī fú yán sè tài liàng le, wǒ jué de nǐ hái shì chuān nà jiàn shēn sè de hǎo。",
+    "en": "This outfit's too bright; I think you'd better wear the dark one."
+   },
+   {
+    "zh": "既然拿不准,这笔钱你还是先别投进去了。",
+    "pinyin": "Jì rán ná bù zhǔn, zhè bǐ qián nǐ hái shì xiān bié tóu jìn qù le。",
+    "en": "Since you're unsure, you'd better not invest this money yet."
+   },
+   {
+    "zh": "孩子还小,这些事你还是别让他知道得太早。",
+    "pinyin": "Hái zi hái xiǎo, zhè xiē shì nǐ hái shì bié ràng tā zhī dào de tài zǎo。",
+    "en": "The child is young; better not let him know these things too soon."
+   },
+   {
+    "zh": "与其自己在这里发愁,还是找朋友聊聊心里好受些。",
+    "pinyin": "Yǔ qí zì jǐ zài zhè lǐ fā chóu, hái shì zhǎo péng yǒu liáo liáo xīn lǐ hǎo shòu xiē。",
+    "en": "Rather than fretting alone, better talk to a friend to feel better."
+   },
+   {
+    "zh": "这道题我实在做不出来,还是等老师来讲吧。",
+    "pinyin": "Zhè dào tí wǒ shí zài zuò bù chū lái, hái shì děng lǎo shī lái jiǎng ba。",
+    "en": "I really can't do this problem; better wait for the teacher to explain."
+   },
+   {
+    "zh": "你最近咳嗽得厉害,还是把烟戒了吧,对身体好。",
+    "pinyin": "Nǐ zuì jìn ké sòu de lì hài, hái shì bǎ yān jiè le ba, duì shēn tǐ hǎo。",
+    "en": "You've been coughing badly; you'd better quit smoking for your health."
+   },
+   {
+    "zh": "这么远的路,你还是别骑车了,太累也不安全。",
+    "pinyin": "Zhè me yuǎn de lù, nǐ hái shì bié qí chē le, tài lèi yě bù ān quán。",
+    "en": "It's such a long way; better not cycle, it's tiring and unsafe."
+   },
+   {
+    "zh": "既然你那么喜欢,这个就还是留给你吧。",
+    "pinyin": "Jì rán nǐ nà me xǐ huān, zhè ge jiù hái shì liú gěi nǐ ba。",
+    "en": "Since you like it so much, you'd better keep this one."
+   },
+   {
+    "zh": "天气预报说要降温,你出门还是多带件外套吧。",
+    "pinyin": "Tiān qì yù bào shuō yào jiàng wēn, nǐ chū mén hái shì duō dài jiàn wài tào ba。",
+    "en": "The forecast says it'll get colder; better take an extra coat."
+   },
+   {
+    "zh": "这件事牵扯的人太多,咱们还是谨慎处理为好。",
+    "pinyin": "Zhè jiàn shì qiān chě de rén tài duō, zán men hái shì jǐn shèn chǔ lǐ wèi hǎo。",
+    "en": "This involves too many people; we'd better handle it cautiously."
+   },
+   {
+    "zh": "与其买那么多零食,还是把钱花在有用的地方吧。",
+    "pinyin": "Yǔ qí mǎi nà me duō líng shí, hái shì bǎ qián huā zài yǒu yòng de dì fāng ba。",
+    "en": "Rather than buying so many snacks, better spend the money usefully."
+   },
+   {
+    "zh": "你已经忙了一整天了,剩下的还是明天再做吧。",
+    "pinyin": "Nǐ yǐ jīng máng le yī zhěng tiān le, shèng xià de hái shì míng tiān zài zuò ba。",
+    "en": "You've been busy all day; better do the rest tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "g164",
+  "level": 3,
+  "title": "\"最好\" ile \"en iyisi ...-sen\"",
+  "titleEn": "Expressing \"had better\" with \"zuihao\"",
+  "pattern": "Özne + 最好 + Yüklem",
+  "summary": "\"最好\" (zuìhǎo) bir tavsiye verir: \"en iyisi ..., ...-sen iyi olur\": 你最好早点去 = En iyisi erken git.",
+  "explanation": "\"最好\" bir öneri/tavsiye sunar: \"en iyisi ..., ...-sen iyi olur, ...-mek en iyisi\". 你最好带上伞,好像要下雨 (En iyisi şemsiye al, yağmur yağacak gibi), 这件事你最好别告诉他 (En iyisi bunu ona söyleme). Yüklemden önce gelir ve konuşmacının gördüğü en uygun seçeneği önerir; \"还是\"dan biraz daha güçlü, öğüt/uyarı tonu taşır. Sözlük anlamı \"en iyi\"dir (bir sıfat öbeği olarak da kullanılır: 最好的朋友 = en iyi arkadaş), ama zarf olarak tavsiye bildirir. Olumsuz öneride \"最好别/最好不要\" gelir: en iyisi ...-me. Türkçedeki \"en iyisi, ...-sen iyi edersin, ...-melisin (öneri)\" ifadelerine denk gelir; nazik ama net bir tavsiye vermenin yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "明天有重要的会,你最好提前半小时到公司。",
+    "pinyin": "Míng tiān yǒu zhòng yào de huì, nǐ zuì hǎo tí qián bàn xiǎo shí dào gōng sī。",
+    "en": "There's an important meeting tomorrow; you'd best arrive half an hour early."
+   },
+   {
+    "zh": "天气预报说下午有雨,你出门最好带把伞。",
+    "pinyin": "Tiān qì yù bào shuō xià wǔ yǒu yǔ, nǐ chū mén zuì hǎo dài bǎ sǎn。",
+    "en": "The forecast says rain this afternoon; best take an umbrella."
+   },
+   {
+    "zh": "这件事关系重大,你最好先跟领导汇报一下。",
+    "pinyin": "Zhè jiàn shì guān xì zhòng dà, nǐ zuì hǎo xiān gēn lǐng dǎo huì bào yī xià。",
+    "en": "This is a significant matter; you'd best report to your boss first."
+   },
+   {
+    "zh": "你最近脸色不好,最好去医院做个检查。",
+    "pinyin": "Nǐ zuì jìn liǎn sè bù hǎo, zuì hǎo qù yī yuàn zuò gè jiǎn chá。",
+    "en": "You've looked unwell lately; you'd best get a checkup at the hospital."
+   },
+   {
+    "zh": "这道菜最好趁热吃,凉了味道就差多了。",
+    "pinyin": "Zhè dào cài zuì hǎo chèn rè chī, liáng le wèi dào jiù chà duō le。",
+    "en": "This dish is best eaten hot; cold it tastes much worse."
+   },
+   {
+    "zh": "你们最好早点出发,免得路上堵车耽误了时间。",
+    "pinyin": "Nǐ men zuì hǎo zǎo diǎn chū fā, miǎn de lù shàng dǔ chē dān wù le shí jiān。",
+    "en": "You'd best leave early to avoid delays from traffic."
+   },
+   {
+    "zh": "这种药最好饭后吃,不然容易伤胃。",
+    "pinyin": "Zhè zhǒng yào zuì hǎo fàn hòu chī, bù rán róng yì shāng wèi。",
+    "en": "This medicine is best taken after meals, or it may upset your stomach."
+   },
+   {
+    "zh": "要想学好一门语言,最好每天都坚持练习。",
+    "pinyin": "Yào xiǎng xué hǎo yī mén yǔ yán, zuì hǎo měi tiān dōu jiān chí liàn xí。",
+    "en": "To master a language, it's best to practice every day."
+   },
+   {
+    "zh": "这件事你最好别插手,免得惹上不必要的麻烦。",
+    "pinyin": "Zhè jiàn shì nǐ zuì hǎo bié chā shǒu, miǎn de rě shàng bù bì yào de má fán。",
+    "en": "You'd best not get involved, to avoid unnecessary trouble."
+   },
+   {
+    "zh": "买这么贵的东西,你最好先货比三家。",
+    "pinyin": "Mǎi zhè me guì de dōng xī, nǐ zuì hǎo xiān huò bǐ sān jiā。",
+    "en": "For such an expensive purchase, you'd best compare a few shops first."
+   },
+   {
+    "zh": "你最好把重要的文件多备份几份,以防万一。",
+    "pinyin": "Nǐ zuì hǎo bǎ zhòng yào de wén jiàn duō bèi fèn jǐ fèn, yǐ fáng wàn yī。",
+    "en": "You'd best back up important files several times, just in case."
+   },
+   {
+    "zh": "孩子还小,这些危险的东西最好放高一点。",
+    "pinyin": "Hái zi hái xiǎo, zhè xiē wēi xiǎn de dōng xī zuì hǎo fàng gāo yì diǎn。",
+    "en": "The child is young; these dangerous things are best kept up high."
+   },
+   {
+    "zh": "你要是想减肥,最好少吃甜食,多做运动。",
+    "pinyin": "Nǐ yào shì xiǎng jiǎn féi, zuì hǎo shǎo chī tián shí, duō zuò yùn dòng。",
+    "en": "If you want to lose weight, best eat fewer sweets and exercise more."
+   },
+   {
+    "zh": "路不太熟的话,你最好打开导航跟着走。",
+    "pinyin": "Lù bù tài shú de huà, nǐ zuì hǎo dǎ kāi dǎo háng gēn zhe zǒu。",
+    "en": "If you don't know the way well, best follow the navigation."
+   },
+   {
+    "zh": "这么重要的约会,你最好别迟到,给人留个好印象。",
+    "pinyin": "Zhè me zhòng yào de yuē huì, nǐ zuì hǎo bié chí dào, gěi rén liú gè hǎo yìn xiàng。",
+    "en": "For such an important date, best not be late to make a good impression."
+   },
+   {
+    "zh": "天冷了,老人和孩子最好少出门,注意保暖。",
+    "pinyin": "Tiān lěng le, lǎo rén hé hái zi zuì hǎo shǎo chū mén, zhù yì bǎo nuǎn。",
+    "en": "It's cold; the elderly and children had best stay in and keep warm."
+   },
+   {
+    "zh": "你最好把想说的话先写下来,免得到时候忘了。",
+    "pinyin": "Nǐ zuì hǎo bǎ xiǎng shuō de huà xiān xiě xià lái, miǎn dé dào shí hòu wàng le。",
+    "en": "You'd best write down what you want to say, lest you forget."
+   },
+   {
+    "zh": "坐长途车,最好带点水和吃的,路上方便。",
+    "pinyin": "Zuò cháng tú chē, zuì hǎo dài diǎn shuǐ hé chī de, lù shàng fāng biàn。",
+    "en": "For a long trip, best bring water and snacks for the road."
+   },
+   {
+    "zh": "这个问题比较敏感,你最好换一种方式来问。",
+    "pinyin": "Zhè ge wèn tí bǐ jiào mǐn gǎn, nǐ zuì hǎo huàn yī zhǒng fāng shì lái wèn。",
+    "en": "This question is sensitive; you'd best ask in a different way."
+   },
+   {
+    "zh": "你既然答应了,最好就说到做到,别让人失望。",
+    "pinyin": "Nǐ jì rán dā yìng le, zuì hǎo jiù shuō dào zuò dào, bié ràng rén shī wàng。",
+    "en": "Since you promised, best follow through and not disappoint."
+   },
+   {
+    "zh": "出远门之前,家里的水电最好都检查一遍。",
+    "pinyin": "Chū yuǎn mén zhī qián, jiā lǐ de shuǐ diàn zuì hǎo dōu jiǎn chá yī biàn。",
+    "en": "Before a long trip, best check the home's water and electricity."
+   },
+   {
+    "zh": "你最好现在就把这件事处理好,别拖到最后。",
+    "pinyin": "Nǐ zuì hǎo xiàn zài jiù bǎ zhè jiàn shì chǔ lǐ hǎo, bié tuō dào zuì hòu。",
+    "en": "You'd best handle this now, not put it off to the last minute."
+   },
+   {
+    "zh": "学游泳的时候,身边最好有个会游的人照看着。",
+    "pinyin": "Xué yóu yǒng de shí hòu, shēn biān zuì hǎo yǒu gè huì yóu de rén zhào kàn zhe。",
+    "en": "When learning to swim, best have a swimmer nearby to watch."
+   },
+   {
+    "zh": "这些话最好当面说清楚,别在背后议论。",
+    "pinyin": "Zhè xiē huà zuì hǎo dāng miàn shuō qīng chǔ, bié zài bèi hòu yì lùn。",
+    "en": "These things are best said clearly to one's face, not gossiped behind backs."
+   },
+   {
+    "zh": "你既然身体不舒服,最好还是请一天假休息休息。",
+    "pinyin": "Nǐ jì rán shēn tǐ bù shū fú, zuì hǎo hái shì qǐng yī tiān jiǎ xiū xī xiū xī。",
+    "en": "Since you're unwell, you'd best take a day off to rest."
+   }
+  ]
  }
 ]

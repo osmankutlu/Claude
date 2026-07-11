@@ -15638,5 +15638,685 @@
     "en": "This material is soft, easy to cut and fold, perfect for crafts."
    }
   ]
+ },
+ {
+  "id": "g116",
+  "level": 2,
+  "title": "\"一下\" ile kısa/hafif eylem",
+  "titleEn": "Verbing briefly with \"yixia\"",
+  "pattern": "Fiil + 一下",
+  "summary": "Fiilden sonra \"一下\" (yíxià) eylemi kısaltıp yumuşatır: \"bir kere, biraz, şöyle bir\": 看一下 = bir bakmak; 等一下 = biraz beklemek.",
+  "explanation": "Fiilin ardına gelen \"一下\" eylemi KISA, hafif ve rahat gösterir ve ricaları yumuşatır: 等一下 (bir dakika bekle), 看一下 (bir bakıver), 休息一下 (biraz dinlen). İşlevi fiil ikilemesine (看看) çok yakındır: \"bir kerecik, şöyle bir\" anlamı katar ve emri nazikleştirir. Nesne \"一下\"tan SONRA gelir: 介绍一下自己 (kendini bir tanıt). Türkçedeki \"...-ıver, bir ...-sene\" tonuna denk gelir. Günlük konuşmada ricaları kibarlaştırmanın en yaygın yollarından biridir; \"帮我一下\" (bana bir yardım et) gibi kalıplarda çok geçer.",
+  "examples": [
+   {
+    "zh": "请你等一下,我马上就来,不会让你久等。",
+    "pinyin": "Qǐng nǐ děng yí xià, wǒ mǎ shàng jiù lái, bú huì ràng nǐ jiǔ děng。",
+    "en": "Please wait a moment; I'll be right there, I won't keep you long."
+   },
+   {
+    "zh": "你能帮我看一下这句话是什么意思吗?",
+    "pinyin": "Nǐ néng bāng wǒ kàn yī xià zhè jù huà shì shén me yì si ma?",
+    "en": "Could you help me check what this sentence means?"
+   },
+   {
+    "zh": "忙了一上午,咱们坐下来休息一下吧。",
+    "pinyin": "Máng le yī shàng wǔ, zán men zuò xià lái xiū xī yī xià ba。",
+    "en": "After a busy morning, let's sit down and rest a bit."
+   },
+   {
+    "zh": "请大家安静一下,我有件事要宣布。",
+    "pinyin": "Qǐng dà jiā ān jìng yī xià, wǒ yǒu jiàn shì yào xuān bù。",
+    "en": "Everyone please quiet down; I have something to announce."
+   },
+   {
+    "zh": "你先尝一下这个汤,看看咸淡合适不合适。",
+    "pinyin": "Nǐ xiān cháng yī xià zhè ge tāng, kàn kàn xián dàn hé shì bù hé shì。",
+    "en": "Taste this soup first and see if the seasoning is right."
+   },
+   {
+    "zh": "麻烦你帮我拿一下那本书,我够不着。",
+    "pinyin": "Má fán nǐ bāng wǒ ná yī xià nà běn shū, wǒ gòu bù zhe。",
+    "en": "Could you please grab that book for me? I can't reach it."
+   },
+   {
+    "zh": "新同事来了,请你给大家介绍一下他。",
+    "pinyin": "Xīn tóng shì lái le, qǐng nǐ gěi dà jiā jiè shào yī xià tā。",
+    "en": "The new colleague has arrived; please introduce him to everyone."
+   },
+   {
+    "zh": "我出去一下就回来,你在这儿看着行李。",
+    "pinyin": "Wǒ chū qù yī xià jiù huí lái, nǐ zài zhè ér kàn zhe xíng lǐ。",
+    "en": "I'll step out for a moment and be back; watch the luggage here."
+   },
+   {
+    "zh": "这件衣服你试一下,不合适咱们再换。",
+    "pinyin": "Zhè jiàn yī fú nǐ shì yī xià, bù hé shì zán men zài huàn。",
+    "en": "Try this on; if it doesn't fit we'll swap it."
+   },
+   {
+    "zh": "你把窗户开一下,屋里太闷了。",
+    "pinyin": "Nǐ bǎ chuāng hù kāi yī xià, wū lǐ tài mèn le。",
+    "en": "Open the window a bit; it's too stuffy in here."
+   },
+   {
+    "zh": "我想借用一下你的笔,写完马上还你。",
+    "pinyin": "Wǒ xiǎng jiè yòng yī xià nǐ de bǐ, xiě wán mǎ shàng hái nǐ。",
+    "en": "I'd like to borrow your pen; I'll return it right after writing."
+   },
+   {
+    "zh": "请你确认一下时间和地点,别记错了。",
+    "pinyin": "Qǐng nǐ què rèn yī xià shí jiān hé dì diǎn, bié jì cuò le。",
+    "en": "Please confirm the time and place so you don't get it wrong."
+   },
+   {
+    "zh": "孩子,过来让妈妈抱一下,好久没见你了。",
+    "pinyin": "Hái zi, guò lái ràng mā mā bào yī xià, hǎo jiǔ méi jiàn nǐ le。",
+    "en": "Come, child, let mom hug you; I haven't seen you in ages."
+   },
+   {
+    "zh": "这个方案还得再考虑一下,别急着定下来。",
+    "pinyin": "Zhè ge fāng àn hái de zài kǎo lǜ yī xià, bié jí zhe dìng xià lái。",
+    "en": "This plan needs a bit more thought; don't rush to finalize it."
+   },
+   {
+    "zh": "你帮我照看一下摊子,我去买瓶水就回来。",
+    "pinyin": "Nǐ bāng wǒ zhào kàn yī xià tān zi, wǒ qù mǎi píng shuǐ jiù huí lái。",
+    "en": "Watch my stall for me; I'll buy a bottle of water and come back."
+   },
+   {
+    "zh": "请把音量调小一下,别影响到别人休息。",
+    "pinyin": "Qǐng bǎ yīn liàng diào xiǎo yī xià, bié yǐng xiǎng dào bié rén xiū xī。",
+    "en": "Please turn the volume down a bit so as not to disturb others."
+   },
+   {
+    "zh": "走之前你检查一下,别落下什么重要的东西。",
+    "pinyin": "Zǒu zhī qián nǐ jiǎn chá yī xià, bié là xià shén me zhòng yào de dōng xī。",
+    "en": "Before leaving, check that you haven't left anything important."
+   },
+   {
+    "zh": "我去洗手间一下,你先帮我点菜吧。",
+    "pinyin": "Wǒ qù xǐ shǒu jiān yī xià, nǐ xiān bāng wǒ diǎn cài ba。",
+    "en": "I'll go to the restroom; you order the dishes first."
+   },
+   {
+    "zh": "这道题我讲一下,大家注意听,不要走神。",
+    "pinyin": "Zhè dào tí wǒ jiǎng yī xià, dà jiā zhù yì tīng, bú yào zǒu shén。",
+    "en": "Let me explain this problem; listen carefully and don't drift off."
+   },
+   {
+    "zh": "你能不能陪我一下,一个人在医院有点儿害怕。",
+    "pinyin": "Nǐ néng bù néng péi wǒ yī xià, yí gè rén zài yī yuàn yǒu diǎn ér hài pà。",
+    "en": "Could you keep me company? I'm a bit scared alone at the hospital."
+   },
+   {
+    "zh": "请您在这里签一下字,手续就办完了。",
+    "pinyin": "Qǐng nín zài zhè lǐ qiān yī xià zì, shǒu xù jiù bàn wán le。",
+    "en": "Please sign here, and the procedure will be done."
+   },
+   {
+    "zh": "我先跟家里商量一下,明天给你答复。",
+    "pinyin": "Wǒ xiān gēn jiā lǐ shāng liáng yī xià, míng tiān gěi nǐ dá fù。",
+    "en": "Let me discuss it with my family first; I'll reply tomorrow."
+   },
+   {
+    "zh": "你把这段话再读一下,注意一下发音。",
+    "pinyin": "Nǐ bǎ zhè duàn huà zài dú yī xià, zhù yì yī xià fā yīn。",
+    "en": "Read this passage again and pay attention to the pronunciation."
+   },
+   {
+    "zh": "有空的时候,记得回一下我的信息。",
+    "pinyin": "Yǒu kòng de shí hòu, jì de huí yī xià wǒ de xìn xī。",
+    "en": "When you have time, remember to reply to my message."
+   },
+   {
+    "zh": "我们停一下,喝口水,等会儿再继续爬。",
+    "pinyin": "Wǒ men tíng yī xià, hē kǒu shuǐ, děng huì er zài jì xù pá。",
+    "en": "Let's pause for a sip of water and continue climbing in a bit."
+   }
+  ]
+ },
+ {
+  "id": "g117",
+  "level": 2,
+  "title": "İki nesne alan fiiller",
+  "titleEn": "Verbs that take double objects",
+  "pattern": "Özne + Fiil + Dolaylı Nesne + Dolaysız Nesne",
+  "summary": "Bazı fiiller iki nesne alır: önce KİME, sonra NE: 给我一本书 = bana bir kitap ver; 教你汉语 = sana Çince öğret.",
+  "explanation": "Bir grup fiil aynı anda İKİ nesne alır: önce dolaylı nesne (KİME/kime yönelik — genelde bir kişi), sonra dolaysız nesne (NE — bir şey). Kalıp: Özne + Fiil + kişi + şey. 老师教我们汉语 (Öğretmen bize Çince öğretiyor), 他给了我一个礼物 (Bana bir hediye verdi), 我问你一个问题 (Sana bir soru soruyorum). Bu \"çift nesneli\" fiiller sınırlıdır ve çoğu verme/iletme/bildirme anlamı taşır: 给 (vermek), 教 (öğretmek), 送 (hediye etmek), 问 (sormak), 告诉 (söylemek), 还 (geri vermek), 借 (ödünç vermek/almak). Türkçede \"-e\" ve \"-i\" hâlleriyle kurulan yapı, Çince'de iki nesnenin art arda dizilmesiyle olur.",
+  "examples": [
+   {
+    "zh": "老师每天都教我们很多有用的知识。",
+    "pinyin": "Lǎo shī měi tiān dōu jiào wǒ men hěn duō yǒu yòng de zhī shí。",
+    "en": "The teacher teaches us a lot of useful knowledge every day."
+   },
+   {
+    "zh": "他送给我一本自己写的书,还签了名。",
+    "pinyin": "Tā sòng gěi wǒ yī běn zì jǐ xiě de shū, hái qiān le míng。",
+    "en": "He gave me a book he wrote himself and even signed it."
+   },
+   {
+    "zh": "我想问你一个问题,希望你能如实告诉我。",
+    "pinyin": "Wǒ xiǎng wèn nǐ yí gè wèn tí, xī wàng nǐ néng rú shí gào sù wǒ。",
+    "en": "I want to ask you a question and hope you'll answer honestly."
+   },
+   {
+    "zh": "妈妈给了孩子一些零花钱,让他自己买文具。",
+    "pinyin": "Mā mā gěi le hái zi yī xiē líng huā qián, ràng tā zì jǐ mǎi wén jù。",
+    "en": "Mom gave the child some pocket money to buy his own stationery."
+   },
+   {
+    "zh": "请你把上次借我的钱还我,我这几天急着用。",
+    "pinyin": "Qǐng nǐ bǎ shàng cì jiè wǒ de qián hái wǒ, wǒ zhè jǐ tiān jí zhe yòng。",
+    "en": "Please return the money you borrowed; I need it urgently these days."
+   },
+   {
+    "zh": "他悄悄递给我一张纸条,上面写着几个字。",
+    "pinyin": "Tā qiāo qiāo dì gěi wǒ yī zhāng zhǐ tiáo, shàng miàn xiě zhe jǐ gè zì。",
+    "en": "He quietly passed me a note with a few words on it."
+   },
+   {
+    "zh": "爷爷常常给我们讲他年轻时候的故事。",
+    "pinyin": "Yé yé cháng cháng gěi wǒ men jiǎng tā nián qīng shí hòu de gù shì。",
+    "en": "Grandpa often tells us stories from his youth."
+   },
+   {
+    "zh": "我打算送妈妈一条围巾,作为她的生日礼物。",
+    "pinyin": "Wǒ dǎ suàn sòng mā mā yī tiáo wéi jīn, zuò wéi tā de shēng rì lǐ wù。",
+    "en": "I plan to give mom a scarf as her birthday gift."
+   },
+   {
+    "zh": "售货员找了我五块钱,又给了我一张小票。",
+    "pinyin": "Shòu huò yuán zhǎo le wǒ wǔ kuài qián, yòu gěi le wǒ yī zhāng xiǎo piào。",
+    "en": "The clerk gave me five yuan change and a receipt."
+   },
+   {
+    "zh": "你能不能借我一把伞?外面突然下起雨来了。",
+    "pinyin": "Nǐ néng bù néng jiè wǒ yī bǎ sǎn? wài miàn tū rán xià qǐ yǔ lái le。",
+    "en": "Could you lend me an umbrella? It suddenly started raining."
+   },
+   {
+    "zh": "请告诉我你的地址,我好把东西寄给你。",
+    "pinyin": "Qǐng gào sù wǒ nǐ de dì zhǐ, wǒ hǎo bǎ dōng xī jì gěi nǐ。",
+    "en": "Please tell me your address so I can mail you the things."
+   },
+   {
+    "zh": "他教了我很多做人的道理,我一辈子都记得。",
+    "pinyin": "Tā jiào le wǒ hěn duō zuò rén de dào lǐ, wǒ yī bèi zi dōu jì de。",
+    "en": "He taught me many principles of life that I'll remember forever."
+   },
+   {
+    "zh": "护士递给病人一杯温水,让他把药吃了。",
+    "pinyin": "Hù shì dì gěi bìng rén yī bēi wēn shuǐ, ràng tā bǎ yào chī le。",
+    "en": "The nurse handed the patient a cup of warm water to take his medicine."
+   },
+   {
+    "zh": "我送了老师一束花,感谢她这一年的辛苦。",
+    "pinyin": "Wǒ sòng le lǎo shī yī shù huā, gǎn xiè tā zhè yī nián de xīn kǔ。",
+    "en": "I gave the teacher a bouquet to thank her for a year's hard work."
+   },
+   {
+    "zh": "你要是不明白,就问老师一个清楚,别不好意思。",
+    "pinyin": "Nǐ yào shì bù míng bái, jiù wèn lǎo shī yí gè qīng chǔ, bié bù hǎo yì sī。",
+    "en": "If you don't understand, ask the teacher clearly; don't be shy."
+   },
+   {
+    "zh": "他还给图书馆两本书,又借了三本新的。",
+    "pinyin": "Tā huán gěi tú shū guǎn liǎng běn shū, yòu jiè le sān běn xīn de。",
+    "en": "He returned two books to the library and borrowed three new ones."
+   },
+   {
+    "zh": "妈妈给我做了一顿丰盛的晚饭,庆祝我考试通过。",
+    "pinyin": "Mā mā gěi wǒ zuò le yī dùn fēng shèng de wǎn fàn, qìng zhù wǒ kǎo shì tōng guò。",
+    "en": "Mom made me a lavish dinner to celebrate my passing the exam."
+   },
+   {
+    "zh": "请你转告他一件事,明天的会议改到下午了。",
+    "pinyin": "Qǐng nǐ zhuǎn gào tā yī jiàn shì, míng tiān de huì yì gǎi dào xià wǔ le。",
+    "en": "Please pass on to him that tomorrow's meeting is moved to the afternoon."
+   },
+   {
+    "zh": "老板给每位员工发了一个红包,大家都很高兴。",
+    "pinyin": "Lǎo bǎn gěi měi wèi yuán gōng fā le yí gè hóng bāo, dà jiā dōu hěn gāo xìng。",
+    "en": "The boss gave each employee a red envelope, and everyone was happy."
+   },
+   {
+    "zh": "我借了同学一支笔,考完试忘了还给他。",
+    "pinyin": "Wǒ jiè le tóng xué yī zhī bǐ, kǎo wán shì wàng le huán gěi tā。",
+    "en": "I borrowed a pen from a classmate and forgot to return it after the exam."
+   },
+   {
+    "zh": "他递给我一杯热咖啡,让我先暖暖身子。",
+    "pinyin": "Tā dì gěi wǒ yī bēi rè kā fēi, ràng wǒ xiān nuǎn nuǎn shēn zi。",
+    "en": "He handed me a hot coffee to warm myself up first."
+   },
+   {
+    "zh": "爸爸答应给我买一辆自行车,我高兴了好几天。",
+    "pinyin": "Bà bà dā yìng gěi wǒ mǎi yī liàng zì xíng chē, wǒ gāo xìng le hǎo jǐ tiān。",
+    "en": "Dad promised to buy me a bike, and I was happy for days."
+   },
+   {
+    "zh": "请你留给我一个座位,我可能会晚一点儿到。",
+    "pinyin": "Qǐng nǐ liú gěi wǒ yí gè zuò wèi, wǒ kě néng huì wǎn yì diǎn ér dào。",
+    "en": "Please save me a seat; I might arrive a bit late."
+   },
+   {
+    "zh": "老师问了他一个很难的问题,他一下子答不上来。",
+    "pinyin": "Lǎo shī wèn le tā yí gè hěn nán de wèn tí, tā yī xià zi dá bù shàng lái。",
+    "en": "The teacher asked him a tough question, and he couldn't answer at once."
+   },
+   {
+    "zh": "邻居送了我们一篮子刚摘的水果,特别新鲜。",
+    "pinyin": "Lín jū sòng le wǒ men yī lán zi gāng zhāi de shuǐ guǒ, tè bié xīn xiān。",
+    "en": "The neighbor gave us a basket of freshly picked fruit, very fresh."
+   }
+  ]
+ },
+ {
+  "id": "g118",
+  "level": 2,
+  "title": "Olanaksızlık tümleci: \"不懂\"",
+  "titleEn": "Potential complement \"-bu dong\" for not understanding",
+  "pattern": "Fiil + 不懂 / 得懂",
+  "summary": "\"看不懂 / 听不懂\" bir şeyi (bakarak/dinleyerek) ANLAYAMAMAYI bildirir; olumlusu \"看得懂 / 听得懂\"tur.",
+  "explanation": "\"懂\" (anlamak) bir fiilin ardına \"olanak tümleci\" olarak gelir ve eylemin sonucunda ANLAMANIN mümkün olup olmadığını gösterir. OLUMSUZ (yapamama): fiil + 不 + 懂 — 看不懂 (bakınca anlayamıyor/okuyamıyor), 听不懂 (dinleyince anlayamıyor). OLUMLU (yapabilme): fiil + 得 + 懂 — 看得懂 (anlayabiliyor), 听得懂 (anlayabiliyor). Yani \"不/得\" fiil ile \"懂\" arasına girer. Bu yapı bir YETENEK/olanak bildirir (\"anlayabilmek\"), tamamlanmış bir eylemi değil. Aynı mantık başka sonuç tümleçleriyle de işler: 做不完 (bitiremiyor), 买不到 (bulup alamıyor). Anlamayla ilgili en sık kalıp \"看不懂/听不懂\"tur.",
+  "examples": [
+   {
+    "zh": "这本书是用古文写的,我一句也看不懂。",
+    "pinyin": "Zhè běn shū shì yòng gǔ wén xiě de, wǒ yī jù yě kàn bù dǒng。",
+    "en": "This book is written in classical Chinese; I can't understand a single line."
+   },
+   {
+    "zh": "他说话带着方言,我常常听不懂他的意思。",
+    "pinyin": "Tā shuō huà dài zhe fāng yán, wǒ cháng cháng tīng bù dǒng tā de yì si。",
+    "en": "He speaks with a dialect, and I often can't understand him."
+   },
+   {
+    "zh": "这份说明书全是外文的,你看得懂看不懂?",
+    "pinyin": "Zhè fèn shuō míng shū quán shì wài wén de, nǐ kàn de dǒng kàn bù dǒng?",
+    "en": "This manual is all in a foreign language; can you understand it?"
+   },
+   {
+    "zh": "老师讲得很清楚,现在这道题我总算看得懂了。",
+    "pinyin": "Lǎo shī jiǎng de hěn qīng chǔ, xiàn zài zhè dào tí wǒ zǒng suàn kàn de dǒng le。",
+    "en": "The teacher explained clearly, so now I can finally understand this problem."
+   },
+   {
+    "zh": "外国朋友说的汉语很标准,我完全听得懂。",
+    "pinyin": "Wài guó péng yǒu shuō de hàn yǔ hěn biāo zhǔn, wǒ wán quán tīng de dǒng。",
+    "en": "My foreign friend's Chinese is very standard; I understand it completely."
+   },
+   {
+    "zh": "这幅画的意思太深了,一般人恐怕看不懂。",
+    "pinyin": "Zhè fú huà de yì si tài shēn le, yì bān rén kǒng pà kàn bù dǒng。",
+    "en": "This painting's meaning is too deep; ordinary people can hardly grasp it."
+   },
+   {
+    "zh": "他讲得太快,我根本听不懂他在说什么。",
+    "pinyin": "Tā jiǎng de tài kuài, wǒ gēn běn tīng bù dǒng tā zài shuō shén me。",
+    "en": "He speaks too fast; I can't understand what he's saying at all."
+   },
+   {
+    "zh": "这些专业的词太难了,不学过的人肯定看不懂。",
+    "pinyin": "Zhè xiē zhuān yè de cí tài nán le, bù xué guò de rén kěn dìng kàn bù dǒng。",
+    "en": "These technical terms are hard; those who haven't studied surely can't understand."
+   },
+   {
+    "zh": "小孩子还小,大人的这些道理他听不懂。",
+    "pinyin": "Xiǎo hái zi hái xiǎo, dà rén de zhè xiē dào lǐ tā tīng bù dǒng。",
+    "en": "The child is still young; he can't understand adults' reasoning."
+   },
+   {
+    "zh": "你把字写清楚一点,不然别人看不懂。",
+    "pinyin": "Nǐ bǎ zì xiě qīng chǔ yì diǎn, bù rán bié rén kàn bù dǒng。",
+    "en": "Write your characters more clearly, or others can't read them."
+   },
+   {
+    "zh": "这部电影没有字幕,我担心大家听不懂。",
+    "pinyin": "Zhè bù diàn yǐng méi yǒu zì mù, wǒ dān xīn dà jiā tīng bù dǒng。",
+    "en": "This movie has no subtitles; I worry everyone won't understand it."
+   },
+   {
+    "zh": "经过半年的学习,我现在看得懂简单的中文报纸了。",
+    "pinyin": "Jīng guò bàn nián de xué xí, wǒ xiàn zài kàn de dǒng jiǎn dān de zhōng wén bào zhǐ le。",
+    "en": "After half a year of study, I can now read simple Chinese newspapers."
+   },
+   {
+    "zh": "他的字太潦草了,连他自己都快看不懂了。",
+    "pinyin": "Tā de zì tài liáo cǎo le, lián tā zì jǐ dōu kuài kàn bù dǒng le。",
+    "en": "His handwriting is so sloppy that even he can barely read it."
+   },
+   {
+    "zh": "这段话的意思很含蓄,不用心体会就看不懂。",
+    "pinyin": "Zhè duàn huà de yì si hěn hán xù, bù yòng xīn tǐ huì jiù kàn bù dǒng。",
+    "en": "This passage is subtle; without careful thought you can't grasp it."
+   },
+   {
+    "zh": "你要是听不懂,可以随时打断我,让我再说一遍。",
+    "pinyin": "Nǐ yào shì tīng bù dǒng, kě yǐ suí shí dǎ duàn wǒ, ràng wǒ zài shuō yī biàn。",
+    "en": "If you don't understand, interrupt me anytime and I'll repeat."
+   },
+   {
+    "zh": "这么专业的图纸,只有工程师才看得懂。",
+    "pinyin": "Zhè me zhuān yè de tú zhǐ, zhǐ yǒu gōng chéng shī cái kàn de dǒng。",
+    "en": "Such technical blueprints can only be understood by engineers."
+   },
+   {
+    "zh": "他讲的笑话很有文化,不了解背景就听不懂。",
+    "pinyin": "Tā jiǎng de xiào huà hěn yǒu wén huà, bù liǎo jiě bèi jǐng jiù tīng bù dǒng。",
+    "en": "His jokes are cultured; without knowing the background you won't get them."
+   },
+   {
+    "zh": "刚开始我一点儿都听不懂,慢慢地就好多了。",
+    "pinyin": "Gāng kāi shǐ wǒ yì diǎn ér dōu tīng bù dǒng, màn màn de jiù hǎo duō le。",
+    "en": "At first I couldn't understand at all, but gradually it got much better."
+   },
+   {
+    "zh": "这些数字和符号,不是专业的人根本看不懂。",
+    "pinyin": "Zhè xiē shù zì hé fú hào, bú shì zhuān yè de rén gēn běn kàn bù dǒng。",
+    "en": "These numbers and symbols are unintelligible to non-specialists."
+   },
+   {
+    "zh": "孩子居然看得懂大人的眼色,真是聪明。",
+    "pinyin": "Hái zi jū rán kàn de dǒng dà rén de yǎn sè, zhēn shì cōng míng。",
+    "en": "The child can actually read adults' expressions; how clever."
+   },
+   {
+    "zh": "这封信是用草书写的,我怎么也看不懂。",
+    "pinyin": "Zhè fēng xìn shì yòng cǎo shū xiě de, wǒ zěn me yě kàn bù dǒng。",
+    "en": "This letter is in cursive script; I just can't read it."
+   },
+   {
+    "zh": "你讲得这么明白,再笨的人也听得懂了。",
+    "pinyin": "Nǐ jiǎng de zhè me míng bái, zài bèn de rén yě tīng de dǒng le。",
+    "en": "You explain so clearly that even the dullest person could understand."
+   },
+   {
+    "zh": "那位教授讲课深入浅出,大家都听得懂。",
+    "pinyin": "Nà wèi jiào shòu jiǎng kè shēn rù qiǎn chū, dà jiā dōu tīng de dǒng。",
+    "en": "That professor lectures in an accessible way; everyone understands."
+   },
+   {
+    "zh": "这道菜谱写得太简单,我看不懂到底放多少盐。",
+    "pinyin": "Zhè dào cài pǔ xiě de tài jiǎn dān, wǒ kàn bù dǒng dào dǐ fàng duō shǎo yán。",
+    "en": "This recipe is written too simply; I can't tell how much salt to add."
+   },
+   {
+    "zh": "学了这几年,他终于能看得懂原版的小说了。",
+    "pinyin": "Xué le zhè jǐ nián, tā zhōng yú néng kàn de dǒng yuán bǎn de xiǎo shuō le。",
+    "en": "After these years of study, he can finally read novels in the original."
+   }
+  ]
+ },
+ {
+  "id": "g119",
+  "level": 2,
+  "title": "Sonuç tümleci: \"完\" (bitirmek)",
+  "titleEn": "Result complement \"-wan\" for finishing",
+  "pattern": "Fiil + 完 (+ 了)",
+  "summary": "\"完\" fiilin ardına gelip eylemin TAMAMEN BİTTİĞİNİ gösterir: 吃完 = yiyip bitirmek; 做完 = yapıp bitirmek.",
+  "explanation": "\"完\" bir fiilin ardına \"sonuç tümleci\" olarak gelir ve eylemin TAMAMEN tamamlandığını, sonuna kadar bitirildiğini bildirir: 吃完 (yiyip bitirmek), 做完作业 (ödevi bitirmek), 说完 (söyleyip bitirmek), 看完 (okuyup/izleyip bitirmek). Çoğu zaman \"了\" ile birlikte gelir: 我写完了 (Yazıp bitirdim). Olumsuzu \"没(有)...完\" (henüz bitmedi): 还没吃完 (henüz yiyip bitirmedi). Olanak biçimi: 做得完 (bitirebilir) / 做不完 (bitiremez). \"完\" salt bir eylemi değil, eylemin SONUNA ulaşıldığını vurgular; bu yüzden \"了\"dan (yalnız gerçekleşme) daha güçlü bir \"bitmişlik\" verir. Günlük dilde çok sık kullanılır.",
+  "examples": [
+   {
+    "zh": "你先把作业做完,然后才能出去玩儿。",
+    "pinyin": "Nǐ xiān bǎ zuò yè zuò wán, rán hòu cái néng chū qù wán ér。",
+    "en": "Finish your homework first, then you can go out to play."
+   },
+   {
+    "zh": "这本小说我一个晚上就看完了,实在太精彩了。",
+    "pinyin": "Zhè běn xiǎo shuō wǒ yí gè wǎn shàng jiù kàn wán le, shí zài tài jīng cǎi le。",
+    "en": "I finished this novel in one night; it was truly wonderful."
+   },
+   {
+    "zh": "等我说完,你再发表意见也不迟。",
+    "pinyin": "Děng wǒ shuō wán, nǐ zài fā biǎo yì jiàn yě bù chí。",
+    "en": "Wait until I finish, and then it's not too late to give your view."
+   },
+   {
+    "zh": "桌上的菜还没吃完,别急着收拾。",
+    "pinyin": "Zhuō shàng de cài hái méi chī wán, bié jí zhe shōu shí。",
+    "en": "The food on the table isn't finished; don't rush to clear it."
+   },
+   {
+    "zh": "他花了三天才把这份报告写完。",
+    "pinyin": "Tā huā le sān tiān cái bǎ zhè fèn bào gào xiě wán。",
+    "en": "It took him three days to finish writing this report."
+   },
+   {
+    "zh": "我们把该谈的事都谈完了,剩下的以后再说。",
+    "pinyin": "Wǒ men bǎ gāi tán de shì dōu tán wán le, shèng xià de yǐ hòu zài shuō。",
+    "en": "We've discussed all we needed; the rest can wait."
+   },
+   {
+    "zh": "这么多活儿,我一个人今天肯定做不完。",
+    "pinyin": "Zhè me duō huó er, wǒ yí gè rén jīn tiān kěn dìng zuò bù wán。",
+    "en": "With so much work, I definitely can't finish it alone today."
+   },
+   {
+    "zh": "孩子把碗里的饭吃得干干净净,一点儿都没剩。",
+    "pinyin": "Hái zi bǎ wǎn lǐ de fàn chī de gān gān jìng jìng, yì diǎn ér dōu méi shèng。",
+    "en": "The child ate the rice clean, leaving nothing behind."
+   },
+   {
+    "zh": "电影还没看完,他就困得睡着了。",
+    "pinyin": "Diàn yǐng hái méi kàn wán, tā jiù kùn de shuì zháo le。",
+    "en": "Before the movie ended, he fell asleep from tiredness."
+   },
+   {
+    "zh": "你把话说完啊,别说一半就不说了。",
+    "pinyin": "Nǐ bǎ huà shuō wán a, bié shuō yí bàn jiù bù shuō le。",
+    "en": "Finish what you're saying; don't stop halfway."
+   },
+   {
+    "zh": "这些衣服洗完以后,记得晾到阳台上。",
+    "pinyin": "Zhè xiē yī fú xǐ wán yǐ hòu, jì de liàng dào yáng tái shàng。",
+    "en": "After washing these clothes, remember to hang them on the balcony."
+   },
+   {
+    "zh": "我得把这件事处理完才能安心休息。",
+    "pinyin": "Wǒ děi bǎ zhè jiàn shì chǔ lǐ wán cái néng ān xīn xiū xī。",
+    "en": "I must finish dealing with this before I can rest at ease."
+   },
+   {
+    "zh": "他一口气把一大杯水喝完,看来是真渴了。",
+    "pinyin": "Tā yì kǒu qì bǎ yī dà bēi shuǐ hē wán, kàn lái shì zhēn kě le。",
+    "en": "He downed a big cup of water in one go; he must have been really thirsty."
+   },
+   {
+    "zh": "考试的时间到了,我还有两道题没做完。",
+    "pinyin": "Kǎo shì de shí jiān dào le, wǒ hái yǒu liǎng dào tí méi zuò wán。",
+    "en": "The exam time is up, and I still have two questions unfinished."
+   },
+   {
+    "zh": "等大家都到齐、事情说完了,我们就散会。",
+    "pinyin": "Děng dà jiā dōu dào qí、 shì qíng shuō wán le, wǒ men jiù sàn huì。",
+    "en": "Once everyone's here and things are said, we'll adjourn."
+   },
+   {
+    "zh": "这项工程再有一个月就能全部完工了。",
+    "pinyin": "Zhè xiàng gōng chéng zài yǒu yí gè yuè jiù néng quán bù wán gōng le。",
+    "en": "This project will be completely finished in another month."
+   },
+   {
+    "zh": "你把这杯药喝完,好好睡一觉就没事了。",
+    "pinyin": "Nǐ bǎ zhè bēi yào hē wán, hǎo hǎo shuì yī jiào jiù méi shì le。",
+    "en": "Finish this medicine, sleep well, and you'll be fine."
+   },
+   {
+    "zh": "这么厚的一本书,你真的看完了吗?",
+    "pinyin": "Zhè me hòu de yī běn shū, nǐ zhēn de kàn wán le ma?",
+    "en": "Such a thick book — did you really finish it?"
+   },
+   {
+    "zh": "我把该买的都买完了,咱们可以回家了。",
+    "pinyin": "Wǒ bǎ gāi mǎi de dōu mǎi wán le, zán men kě yǐ huí jiā le。",
+    "en": "I've bought everything I needed; we can go home now."
+   },
+   {
+    "zh": "他还没把话讲完,电话就断了。",
+    "pinyin": "Tā hái méi bǎ huà jiǎng wán, diàn huà jiù duàn le。",
+    "en": "Before he could finish speaking, the call cut off."
+   },
+   {
+    "zh": "孩子们把蛋糕分完以后,开心地吃了起来。",
+    "pinyin": "Hái zi men bǎ dàn gāo fēn wán yǐ hòu, kāi xīn de chī le qǐ lái。",
+    "en": "After dividing the cake, the children happily started eating."
+   },
+   {
+    "zh": "这些材料你什么时候能整理完?我等着用。",
+    "pinyin": "Zhè xiē cái liào nǐ shén me shí hòu néng zhěng lǐ wán? wǒ děng zhe yòng。",
+    "en": "When can you finish organizing these materials? I'm waiting to use them."
+   },
+   {
+    "zh": "等雨下完,我们就出发,现在先等一等。",
+    "pinyin": "Děng yǔ xià wán, wǒ men jiù chū fā, xiàn zài xiān děng yī děng。",
+    "en": "Once the rain stops, we'll set off; let's wait for now."
+   },
+   {
+    "zh": "他把一年的假一次就休完了,接下来要好好工作。",
+    "pinyin": "Tā bǎ yī nián de jiǎ yī cì jiù xiū wán le, jiē xià lái yào hǎo hǎo gōng zuò。",
+    "en": "He used up a year's leave all at once; now he'll work hard."
+   },
+   {
+    "zh": "这顿饭我们吃得又慢又开心,一直到很晚才吃完。",
+    "pinyin": "Zhè dùn fàn wǒ men chī de yòu màn yòu kāi xīn, yì zhí dào hěn wǎn cái chī wán。",
+    "en": "We ate this meal slowly and happily, not finishing until very late."
+   }
+  ]
+ },
+ {
+  "id": "g120",
+  "level": 2,
+  "title": "Sonuç tümleçleri: \"到\" ve \"见\"",
+  "titleEn": "Result complements \"-dao\" and \"-jian\"",
+  "pattern": "Fiil + 到 / 见",
+  "summary": "\"到\" ve \"见\" fiilin ardına gelip eylemin BAŞARIYLA sonuçlandığını gösterir: 看到/看见 = görebilmek (görmeyi başarmak); 找到 = bulmak.",
+  "explanation": "\"到\" ve \"见\" sık kullanılan sonuç tümleçleridir; algı/kavrama fiillerinin ardına gelip eylemin BAŞARIYLA gerçekleştiğini bildirirler. \"见\" özellikle algı fiilleriyle (看/听/闻): 看见 (görmek — görmeyi başarmak), 听见 (işitmek). \"到\" hem algı hem de \"elde etme/ulaşma\" fiilleriyle: 看到 (görmek), 听到 (duymak), 找到 (bulmak), 买到 (bulup satın almak), 收到 (almak), 想到 (aklına gelmek). Aradaki fark ince: 看见 salt görme olayını, 看到 çoğu zaman ulaşılan sonucu vurgular; çoğu bağlamda ikisi de kullanılabilir. Olumsuzu \"没(有)\": 没看见 (görmedi/göremedi), 没找到 (bulamadı). Bu tümleçler bir çabanın SONUÇ verdiğini anlatır.",
+  "examples": [
+   {
+    "zh": "我在人群里一眼就看见了你,你今天特别显眼。",
+    "pinyin": "Wǒ zài rén qún lǐ yī yǎn jiù kàn jiàn le nǐ, nǐ jīn tiān tè bié xiǎn yǎn。",
+    "en": "I spotted you at a glance in the crowd; you stand out today."
+   },
+   {
+    "zh": "找了整整一个上午,我终于找到了那份文件。",
+    "pinyin": "Zhǎo le zhěng zhěng yí gè shàng wǔ, wǒ zhōng yú zhǎo dào le nà fèn wén jiàn。",
+    "en": "After searching all morning, I finally found that document."
+   },
+   {
+    "zh": "你收到我昨天发给你的邮件了吗?",
+    "pinyin": "Nǐ shōu dào wǒ zuó tiān fā gěi nǐ de yóu jiàn le ma?",
+    "en": "Did you receive the email I sent you yesterday?"
+   },
+   {
+    "zh": "刚才我好像听见有人敲门,你去看看。",
+    "pinyin": "Gāng cái wǒ hǎo xiàng tīng jiàn yǒu rén qiāo mén, nǐ qù kàn kàn。",
+    "en": "I think I just heard someone knock; go check."
+   },
+   {
+    "zh": "这么小的字,我戴上眼镜才看得到。",
+    "pinyin": "Zhè me xiǎo de zì, wǒ dài shàng yǎn jìng cái kàn dé dào。",
+    "en": "Such small print — I can only see it with my glasses on."
+   },
+   {
+    "zh": "这种限量的鞋子很难买到,他排了一夜的队。",
+    "pinyin": "Zhè zhǒng xiàn liàng de xié zi hěn nán mǎi dào, tā pái le yī yè de duì。",
+    "en": "This limited-edition shoe is hard to get; he queued all night."
+   },
+   {
+    "zh": "我怎么也想不到,他竟然会做出这样的事。",
+    "pinyin": "Wǒ zěn me yě xiǎng bú dào, tā jìng rán huì zuò chū zhè yàng de shì。",
+    "en": "I could never have imagined he'd do such a thing."
+   },
+   {
+    "zh": "站在山顶上,能看到整座城市的夜景。",
+    "pinyin": "Zhàn zài shān dǐng shàng, néng kàn dào zhěng zuò chéng shì de yè jǐng。",
+    "en": "Standing on the summit, you can see the whole city's night view."
+   },
+   {
+    "zh": "我在书店里没找到你要的那本书,是不是卖完了?",
+    "pinyin": "Wǒ zài shū diàn lǐ méi zhǎo dào nǐ yào de nà běn shū, shì bú shì mài wán le?",
+    "en": "I couldn't find the book you wanted at the store; is it sold out?"
+   },
+   {
+    "zh": "隔着这么远,我都能闻到花园里花的香味。",
+    "pinyin": "Gé zhe zhè me yuǎn, wǒ dōu néng wén dào huā yuán lǐ huā de xiāng wèi。",
+    "en": "Even from this far, I can smell the flowers in the garden."
+   },
+   {
+    "zh": "他说话声音太小,坐在后排的同学根本听不到。",
+    "pinyin": "Tā shuō huà shēng yīn tài xiǎo, zuò zài hòu pái de tóng xué gēn běn tīng bú dào。",
+    "en": "He speaks too softly; students in the back can't hear at all."
+   },
+   {
+    "zh": "多亏你提醒,我才想到今天是妈妈的生日。",
+    "pinyin": "Duō kuī nǐ tí xǐng, wǒ cái xiǎng dào jīn tiān shì mā mā de shēng rì。",
+    "en": "Thanks to your reminder, I remembered today is mom's birthday."
+   },
+   {
+    "zh": "我在旧箱子里找到了一张很老的全家福。",
+    "pinyin": "Wǒ zài jiù xiāng zi lǐ zhǎo dào le yī zhāng hěn lǎo de quán jiā fú。",
+    "en": "I found a very old family photo in the old box."
+   },
+   {
+    "zh": "刚一进门,我就闻到了饭菜的香味。",
+    "pinyin": "Gāng yī jìn mén, wǒ jiù wén dào le fàn cài de xiāng wèi。",
+    "en": "As soon as I entered, I smelled the aroma of the food."
+   },
+   {
+    "zh": "这个好消息你是从哪儿听到的?",
+    "pinyin": "Zhè ge hǎo xiāo xī nǐ shì cóng nǎ ér tīng dào de?",
+    "en": "Where did you hear this good news?"
+   },
+   {
+    "zh": "我等了很久,终于等到了他平安归来的消息。",
+    "pinyin": "Wǒ děng le hěn jiǔ, zhōng yú děng dào le tā píng ān guī lái de xiāo xī。",
+    "en": "After waiting a long time, I finally got word of his safe return."
+   },
+   {
+    "zh": "天太黑了,我看不见路,你打开手电筒吧。",
+    "pinyin": "Tiān tài hēi le, wǒ kàn bú jiàn lù, nǐ dǎ kāi shǒu diàn tǒng ba。",
+    "en": "It's too dark; I can't see the road, turn on the flashlight."
+   },
+   {
+    "zh": "经过多方打听,他总算找到了失散多年的哥哥。",
+    "pinyin": "Jīng guò duō fāng dǎ tīng, tā zǒng suàn zhǎo dào le shī sàn duō nián dī gē gē。",
+    "en": "After much asking around, he finally found his long-lost brother."
+   },
+   {
+    "zh": "我买到了两张周末音乐会的票,一起去吧。",
+    "pinyin": "Wǒ mǎi dào le liǎng zhāng zhōu mò yīn yuè huì de piào, yì qǐ qù ba。",
+    "en": "I got two tickets to the weekend concert; let's go together."
+   },
+   {
+    "zh": "你没听到广播吗?火车马上就要开了。",
+    "pinyin": "Nǐ méi tīng dào guǎng bō ma? huǒ chē mǎ shàng jiù yào kāi le。",
+    "en": "Didn't you hear the announcement? The train is about to leave."
+   },
+   {
+    "zh": "我突然想到一个好主意,也许能解决这个难题。",
+    "pinyin": "Wǒ tū rán xiǎng dào yí gè hǎo zhǔ yì, yě xǔ néng jiě jué zhè ge nán tí。",
+    "en": "I suddenly thought of a good idea that might solve this problem."
+   },
+   {
+    "zh": "在那么多陌生的面孔中,我一下子看到了熟悉的他。",
+    "pinyin": "Zài nà me duō mò shēng de miàn kǒng zhōng, wǒ yī xià zi kàn dào le shú xī de tā。",
+    "en": "Among so many strangers, I instantly saw his familiar face."
+   },
+   {
+    "zh": "这封信我上周就收到了,一直忘了回复,真抱歉。",
+    "pinyin": "Zhè fēng xìn wǒ shàng zhōu jiù shōu dào le, yì zhí wàng le huí fù, zhēn bào qiàn。",
+    "en": "I received this letter last week but kept forgetting to reply; sorry."
+   },
+   {
+    "zh": "他到处打听,可惜一直没打听到有用的消息。",
+    "pinyin": "Tā dào chù dǎ tīng, kě xī yì zhí méi dǎ tīng dào yǒu yòng de xiāo xī。",
+    "en": "He asked around everywhere but sadly got no useful news."
+   },
+   {
+    "zh": "你要是看到我的钥匙,一定要告诉我一声。",
+    "pinyin": "Nǐ yào shì kàn dào wǒ de yào shi, yí dìng yào gào sù wǒ yī shēng。",
+    "en": "If you see my keys, be sure to let me know."
+   }
+  ]
  }
 ]

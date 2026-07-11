@@ -19582,5 +19582,685 @@
     "en": "At the praise, he smiled modestly, saying it was everyone's credit."
    }
   ]
+ },
+ {
+  "id": "g145",
+  "level": 3,
+  "title": "\"正好\" ile \"tam, tam da\"",
+  "titleEn": "Coincidence with \"zhenghao\"",
+  "pattern": "Özne + 正好 + Fiil Öbeği",
+  "summary": "\"正好\" (zhènghǎo) bir şeyin tam denk geldiğini/tam uygun olduğunu bildirir: 你来得正好 = Tam zamanında geldin.",
+  "explanation": "\"正好\" iki yakın anlam taşır: (1) ZAMAN/DURUM DENK GELMESİ — bir olayın başka bir şeyle tam çakışması: 我正好路过,就进来看看 (Tam yoldan geçiyordum, bir uğradım), 你来得正好 (Tam zamanında geldin). (2) TAM UYGUNLUK/ÖLÇÜ — miktar, boyut, zamanın tam yerinde olması: 这件衣服大小正好 (Bu giysi tam bedenime), 还差五块,你这五块正好 (Tam beş lira eksikti, bu beşlik tam oldu). Türkçedeki \"tam, tam da, tam zamanında, tam kararında\" ifadelerine denk gelir. Bir rastlantının işe yaramasını ya da bir ölçünün tam tutmasını vurgular; \"恰好\" ile eş anlamlıdır ama \"正好\" konuşma dilinde daha yaygındır.",
+  "examples": [
+   {
+    "zh": "你来得正好,我正想找个人帮我搬一下桌子。",
+    "pinyin": "Nǐ lái de zhèng hǎo, wǒ zhèng xiǎng zhǎo gè rén bāng wǒ bān yī xià zhuō zi。",
+    "en": "You've come at just the right time; I was just looking for help moving a table."
+   },
+   {
+    "zh": "我正好要去超市,顺便帮你把这封信寄了吧。",
+    "pinyin": "Wǒ zhèng hǎo yào qù chāo shì, shùn biàn bāng nǐ bǎ zhè fēng xìn jì le ba。",
+    "en": "I happen to be going to the supermarket; let me mail this letter for you."
+   },
+   {
+    "zh": "这件外套你穿正好,不大也不小,就买它吧。",
+    "pinyin": "Zhè jiàn wài tào nǐ chuān zhèng hǎo, bù dà yě bù xiǎo, jiù mǎi tā ba。",
+    "en": "This coat fits you just right, neither big nor small; buy it."
+   },
+   {
+    "zh": "我到车站的时候,那趟车正好进站,一点儿没耽误。",
+    "pinyin": "Wǒ dào chē zhàn de shí hòu, nà tàng chē zhèng hǎo jìn zhàn, yì diǎn ér méi dān wù。",
+    "en": "When I reached the station, the bus was just pulling in; no delay at all."
+   },
+   {
+    "zh": "你要的那本书我正好也有一本,借给你看吧。",
+    "pinyin": "Nǐ yào de nà běn shū wǒ zhèng hǎo yě yǒu yī běn, jiè gěi nǐ kàn ba。",
+    "en": "I happen to have the book you want; let me lend it to you."
+   },
+   {
+    "zh": "时间正好,我们不用着急,慢慢走过去就行。",
+    "pinyin": "Shí jiān zhèng hǎo, wǒ men bù yòng zháo jí, màn màn zǒu guò qù jiù xíng。",
+    "en": "The timing's just right; no need to rush, we can walk slowly."
+   },
+   {
+    "zh": "我正好路过你家门口,就上来看看你。",
+    "pinyin": "Wǒ zhèng hǎo lù guò nǐ jiā mén kǒu, jiù shàng lái kàn kàn nǐ。",
+    "en": "I happened to pass your place, so I came up to see you."
+   },
+   {
+    "zh": "这些钱正好够买两张票,一分不多一分不少。",
+    "pinyin": "Zhè xiē qián zhèng hǎo gòu mǎi liǎng zhāng piào, yī fēn bù duō yī fēn bù shǎo。",
+    "en": "This money is exactly enough for two tickets, not a cent more or less."
+   },
+   {
+    "zh": "你不是想学做菜吗?我正好有空,今天教教你。",
+    "pinyin": "Nǐ bú shì xiǎng xué zuò cài ma? wǒ zhèng hǎo yǒu kòng, jīn tiān jiào jiào nǐ。",
+    "en": "Didn't you want to learn cooking? I happen to be free; I'll teach you today."
+   },
+   {
+    "zh": "我们到山顶的时候,正好赶上了美丽的日出。",
+    "pinyin": "Wǒ men dào shān dǐng de shí hòu, zhèng hǎo gǎn shàng le měi lì de rì chū。",
+    "en": "When we reached the summit, we caught the beautiful sunrise perfectly."
+   },
+   {
+    "zh": "桌子放在这个位置正好,既不挡路又方便拿东西。",
+    "pinyin": "Zhuō zi fàng zài zhè ge wèi zhì zhèng hǎo, jì bù dǎng lù yòu fāng biàn ná dōng xī。",
+    "en": "The table fits perfectly here, not blocking the way and handy for things."
+   },
+   {
+    "zh": "你打电话来的时候,我正好在开车,所以没接。",
+    "pinyin": "Nǐ dǎ diàn huà lái de shí hòu, wǒ zhèng hǎo zài kāi chē, suǒ yǐ méi jiē。",
+    "en": "When you called, I happened to be driving, so I didn't answer."
+   },
+   {
+    "zh": "剩下的这块蛋糕正好分给最后来的两个人。",
+    "pinyin": "Shèng xià de zhè kuài dàn gāo zhèng hǎo fēn gěi zuì hòu lái de liǎng gè rén。",
+    "en": "This leftover cake is just enough for the last two to arrive."
+   },
+   {
+    "zh": "天气预报说明天有雨,我们正好可以在家休息。",
+    "pinyin": "Tiān qì yù bào shuō míng tiān yǒu yǔ, wǒ men zhèng hǎo kě yǐ zài jiā xiū xī。",
+    "en": "The forecast says rain tomorrow, so we can conveniently rest at home."
+   },
+   {
+    "zh": "这双鞋子的号码正好合适,穿着一点儿都不挤脚。",
+    "pinyin": "Zhè shuāng xié zi de hào mǎ zhèng hǎo hé shì, chuān zhe yì diǎn ér dōu bù jǐ jiǎo。",
+    "en": "These shoes are just the right size; not tight at all."
+   },
+   {
+    "zh": "他刚说到这儿,门铃正好响了,把大家都吓了一跳。",
+    "pinyin": "Tā gāng shuō dào zhè ér, mén líng zhèng hǎo xiǎng le, bǎ dà jiā dōu xià le yī tiào。",
+    "en": "Just as he said this, the doorbell rang, startling everyone."
+   },
+   {
+    "zh": "我手头正好有点儿闲钱,可以先借给你应急。",
+    "pinyin": "Wǒ shǒu tóu zhèng hǎo yǒu diǎn ér xián qián, kě yǐ xiān jiè gěi nǐ yìng jí。",
+    "en": "I happen to have some spare cash; I can lend it to you for emergencies."
+   },
+   {
+    "zh": "咱们两个人正好一人一半,谁也不吃亏。",
+    "pinyin": "Zán men liǎng gè rén zhèng hǎo yī rén yí bàn, shuí yě bù chī kuī。",
+    "en": "The two of us split it evenly; neither loses out."
+   },
+   {
+    "zh": "你提的这个建议正好解决了我们一直头疼的问题。",
+    "pinyin": "Nǐ tí de zhè ge jiàn yì zhèng hǎo jiě jué le wǒ men yì zhí tóu téng de wèn tí。",
+    "en": "Your suggestion happens to solve the problem that's been vexing us."
+   },
+   {
+    "zh": "我正好也顺路,可以开车送你一段。",
+    "pinyin": "Wǒ zhèng hǎo yě shùn lù, kě yǐ kāi chē sòng nǐ yī duàn。",
+    "en": "I happen to be going the same way; I can drive you part of it."
+   },
+   {
+    "zh": "这幅画挂在这面墙上正好,大小、颜色都很合适。",
+    "pinyin": "Zhè fú huà guà zài zhè miàn qiáng shàng zhèng hǎo, dà xiǎo、 yán sè dōu hěn hé shì。",
+    "en": "This painting fits this wall perfectly in size and color."
+   },
+   {
+    "zh": "我正准备给你打电话,你的电话正好就来了。",
+    "pinyin": "Wǒ zhèng zhǔn bèi gěi nǐ dǎ diàn huà, nǐ de diàn huà zhèng hǎo jiù lái le。",
+    "en": "I was about to call you, and your call came at just that moment."
+   },
+   {
+    "zh": "这点儿剩菜正好够我一个人晚上吃一顿。",
+    "pinyin": "Zhè diǎn ér shèng cài zhèng hǎo gòu wǒ yí gè rén wǎn shàng chī yī dùn。",
+    "en": "These leftovers are just enough for my dinner alone."
+   },
+   {
+    "zh": "你今天不忙的话,咱们正好把上次没聊完的事聊完。",
+    "pinyin": "Nǐ jīn tiān bù máng de huà, zán men zhèng hǎo bǎ shàng cì méi liáo wán de shì liáo wán。",
+    "en": "If you're not busy today, we can finish the talk we didn't finish last time."
+   },
+   {
+    "zh": "我正好认识那家医院的一位大夫,可以帮你问问。",
+    "pinyin": "Wǒ zhèng hǎo rèn shí nà jiā yī yuàn de yī wèi dà fū, kě yǐ bāng nǐ wèn wèn。",
+    "en": "I happen to know a doctor at that hospital; I can ask for you."
+   }
+  ]
+ },
+ {
+  "id": "g146",
+  "level": 3,
+  "title": "\"还\" ile \"hâlâ, daha\" (süreklilik)",
+  "titleEn": "Continuation with \"hai\"",
+  "pattern": "Özne + 还 + Fiil Öbeği / Sıfat",
+  "summary": "\"还\" (hái) bir durumun HÂLÂ sürdüğünü bildirir: 他还在睡觉 = Hâlâ uyuyor; 天还早 = Daha erken.",
+  "explanation": "\"还\" bu kullanımda bir durumun beklenenin ötesinde HÂLÂ, DAHA sürdüğünü bildirir: 他还在开会 (Hâlâ toplantıda), 都十二点了,你还不睡? (Saat on iki oldu, hâlâ uyumadın mı?), 时间还早,不用着急 (Daha erken, acele etmeye gerek yok). Fiil ya da sıfatın önüne gelir ve bir eylemin/durumun sürekliliğini, tamamlanmamışlığını ya da beklenenden fazla devam ettiğini vurgular. Çoğu zaman \"还在\" (hâlâ ...-mekte), \"还没\" (henüz ...-medi) kalıplarında görülür. Türkçedeki \"hâlâ, daha, hen üz\" karşılıklarına denk gelir. (\"还\"ın \"ayrıca/bir de\" ve \"neyse ki/idare eder\" gibi başka anlamları da vardır; bağlam belirler.)",
+  "examples": [
+   {
+    "zh": "都这么晚了,他怎么还在办公室加班?",
+    "pinyin": "Dōu zhè me wǎn le, tā zěn me hái zài bàn gōng shì jiā bān?",
+    "en": "It's so late; why is he still working overtime at the office?"
+   },
+   {
+    "zh": "你别催,饭还没做好呢,再等十分钟。",
+    "pinyin": "Nǐ bié cuī, fàn hái méi zuò hǎo ne, zài děng shí fēn zhōng。",
+    "en": "Don't rush; the meal isn't ready yet, wait ten more minutes."
+   },
+   {
+    "zh": "天还早呢,咱们再多聊一会儿,不用急着走。",
+    "pinyin": "Tiān hái zǎo ne, zán men zài duō liáo yī huì er, bù yòng jí zhe zǒu。",
+    "en": "It's still early; let's chat a while longer, no need to rush off."
+   },
+   {
+    "zh": "我给他发了好几条消息,他到现在还没回。",
+    "pinyin": "Wǒ gěi tā fā le hǎo jǐ tiáo xiāo xī, tā dào xiàn zài hái méi huí。",
+    "en": "I sent him several messages, but he still hasn't replied."
+   },
+   {
+    "zh": "外面还下着雨,你带上伞再出门吧。",
+    "pinyin": "Wài miàn hái xià zhe yǔ, nǐ dài shàng sǎn zài chū mén ba。",
+    "en": "It's still raining outside; take an umbrella before you leave."
+   },
+   {
+    "zh": "这么多年过去了,他还记得我们第一次见面的情景。",
+    "pinyin": "Zhè me duō nián guò qù le, tā hái jì de wǒ men dì yī cì jiàn miàn de qíng jǐng。",
+    "en": "After all these years, he still remembers our first meeting."
+   },
+   {
+    "zh": "孩子还小,很多道理他一时还不能明白。",
+    "pinyin": "Hái zi hái xiǎo, hěn duō dào lǐ tā yī shí hái bù néng míng bái。",
+    "en": "The child is still young; he can't grasp many things yet."
+   },
+   {
+    "zh": "我以为他早走了,没想到他还在门口等着我。",
+    "pinyin": "Wǒ yǐ wéi tā zǎo zǒu le, méi xiǎng dào tā hái zài mén kǒu děng zhe wǒ。",
+    "en": "I thought he'd left, but he was still waiting for me at the door."
+   },
+   {
+    "zh": "这件事还没有最后决定,你先别到处去说。",
+    "pinyin": "Zhè jiàn shì hái méi yǒu zuì hòu jué dìng, nǐ xiān bié dào chù qù shuō。",
+    "en": "This isn't finally decided yet; don't go telling everyone."
+   },
+   {
+    "zh": "都春天了,北方有些地方还这么冷。",
+    "pinyin": "Dōu chūn tiān le, běi fāng yǒu xiē dì fāng hái zhè me lěng。",
+    "en": "It's spring already, yet some places in the north are still this cold."
+   },
+   {
+    "zh": "他学汉语好几年了,可是有些字还是不会写。",
+    "pinyin": "Tā xué hàn yǔ hǎo jǐ nián le, kě shì yǒu xiē zì hái shì bú huì xiě。",
+    "en": "He's studied Chinese for years, yet still can't write some characters."
+   },
+   {
+    "zh": "你怎么还站着?快坐下歇歇,忙一天了。",
+    "pinyin": "Nǐ zěn me hái zhàn zhe? kuài zuò xià xiē xiē, máng yī tiān le。",
+    "en": "Why are you still standing? Sit and rest, you've been busy all day."
+   },
+   {
+    "zh": "我问他愿不愿意去,他到现在还没给我准信。",
+    "pinyin": "Wǒ wèn tā yuàn bù yuàn yì qù, tā dào xiàn zài hái méi gěi wǒ zhǔn xìn。",
+    "en": "I asked if he'd go, but he still hasn't given me a firm answer."
+   },
+   {
+    "zh": "这台旧电脑用了七八年,居然还能正常开机。",
+    "pinyin": "Zhè tái jiù diàn nǎo yòng le qī bā nián, jū rán hái néng zhèng cháng kāi jī。",
+    "en": "This old computer, used for seven or eight years, still boots up fine."
+   },
+   {
+    "zh": "已经过了饭点,他还在忙,连口水都没顾上喝。",
+    "pinyin": "Yǐ jīng guò le fàn diǎn, tā hái zài máng, lián kǒu shuǐ dōu méi gù shàng hē。",
+    "en": "Past mealtime and he's still busy, without even a sip of water."
+   },
+   {
+    "zh": "这么冷的天,他还坚持每天早上出去跑步。",
+    "pinyin": "Zhè me lěng de tiān, tā hái jiān chí měi tiān zǎo shàng chū qù pǎo bù。",
+    "en": "In such cold weather, he still insists on running every morning."
+   },
+   {
+    "zh": "我以为你早忘了,没想到你还惦记着这件小事。",
+    "pinyin": "Wǒ yǐ wéi nǐ zǎo wàng le, méi xiǎng dào nǐ hái diàn jì zhe zhè jiàn xiǎo shì。",
+    "en": "I thought you'd forgotten, but you still remember this small thing."
+   },
+   {
+    "zh": "现在才五点,天还亮着,不用开灯。",
+    "pinyin": "Xiàn zài cái wǔ diǎn, tiān hái liàng zhe, bù yòng kāi dēng。",
+    "en": "It's only five; it's still light out, no need for lights."
+   },
+   {
+    "zh": "他病了好几天了,到现在还没完全好。",
+    "pinyin": "Tā bìng le hǎo jǐ tiān le, dào xiàn zài hái méi wán quán hǎo。",
+    "en": "He's been ill for days and still hasn't fully recovered."
+   },
+   {
+    "zh": "这个问题我们讨论了半天,到现在还没有结论。",
+    "pinyin": "Zhè ge wèn tí wǒ men tǎo lùn le bàn tiān, dào xiàn zài hái méi yǒu jié lùn。",
+    "en": "We've discussed this for a long while and still have no conclusion."
+   },
+   {
+    "zh": "都工作十年了,他还像刚毕业时那样有干劲。",
+    "pinyin": "Dōu gōng zuò shí nián le, tā hái xiàng gāng bì yè shí nà yàng yǒu gàn jìn。",
+    "en": "Ten years on the job, he's still as driven as when he graduated."
+   },
+   {
+    "zh": "你怎么还在为那件事生气?早就该放下了。",
+    "pinyin": "Nǐ zěn me hái zài wèi nà jiàn shì shēng qì? zǎo jiù gāi fàng xià le。",
+    "en": "Why are you still angry about that? You should've let it go long ago."
+   },
+   {
+    "zh": "虽然搬走了很多年,他还常常回来看看老邻居。",
+    "pinyin": "Suī rán bān zǒu le hěn duō nián, tā hái cháng cháng huí lái kàn kàn lǎo lín jū。",
+    "en": "Though he moved away years ago, he still often comes back to see old neighbors."
+   },
+   {
+    "zh": "这么晚了商店还开着门,真是方便了不少人。",
+    "pinyin": "Zhè me wǎn le shāng diàn hái kāi zhe mén, zhēn shì fāng biàn le bù shǎo rén。",
+    "en": "The shop's still open this late, which is convenient for many."
+   },
+   {
+    "zh": "我说了半天,他好像还没完全听明白。",
+    "pinyin": "Wǒ shuō le bàn tiān, tā hǎo xiàng hái méi wán quán tīng míng bái。",
+    "en": "I've explained for a while, but he still doesn't seem to fully get it."
+   }
+  ]
+ },
+ {
+  "id": "g147",
+  "level": 3,
+  "title": "\"就是\" ile vurgulama",
+  "titleEn": "Emphasis with \"jiushi\"",
+  "pattern": "就是 + Fiil / İsim",
+  "summary": "\"就是\" (jiùshì) bir şeyi kesinleştirir ve vurgular: \"tam da, ta kendisi, kesinlikle\": 我就是不同意 = Kesinlikle katılmıyorum.",
+  "explanation": "\"就是\" güçlü bir vurgu ve kesinlik katar. İşlevleri: (1) TAM O, ta kendisi — 他就是我们的新老师 (İşte o bizim yeni öğretmenimiz). (2) KARARLI/ısrarlı vurgu, çoğu zaman inatçı bir tonla — 我就是不去 (Gitmiyorum işte / kesinlikle gitmem), 他就是不肯听 (Bir türlü dinlemiyor). (3) KABUL/onaylama — 就是,就是,你说得对 (Aynen öyle, haklısın). (4) \"sadece, yalnızca\" küçük bir çekinceyle — 这件衣服挺好,就是有点儿贵 (Bu giysi güzel, sadece biraz pahalı). Türkçedeki \"tam da, işte, ta kendisi, ille de, aynen\" gibi vurgulara denk gelir; ısrarı, kesinliği ya da onayı güçlü biçimde belirtmenin bir yoludur.",
+  "examples": [
+   {
+    "zh": "你别找了,我就是你要找的那个人。",
+    "pinyin": "Nǐ bié zhǎo le, wǒ jiù shì nǐ yào zhǎo de nà ge rén。",
+    "en": "Stop looking; I'm exactly the person you're searching for."
+   },
+   {
+    "zh": "不管你们怎么劝,我就是不改变主意。",
+    "pinyin": "Bù guǎn nǐ men zěn me quàn, wǒ jiù shì bù gǎi biàn zhǔ yì。",
+    "en": "No matter how you try to persuade me, I simply won't change my mind."
+   },
+   {
+    "zh": "这家店的招牌菜就是这道鱼,来的人都要点。",
+    "pinyin": "Zhè jiā diàn de zhāo pái cài jiù shì zhè dào yú, lái de rén dōu yào diǎn。",
+    "en": "This shop's signature dish is exactly this fish; everyone orders it."
+   },
+   {
+    "zh": "这孩子就是聪明,一点就通,教起来特别省心。",
+    "pinyin": "Zhè hái zi jiù shì cōng míng, yì diǎn jiù tōng, jiào qǐ lái tè bié shěng xīn。",
+    "en": "This child is just smart; he gets it instantly, easy to teach."
+   },
+   {
+    "zh": "我说的就是这个意思,你总算听明白了。",
+    "pinyin": "Wǒ shuō de jiù shì zhè ge yì si, nǐ zǒng suàn tīng míng bái le。",
+    "en": "That's exactly what I meant; you finally understand."
+   },
+   {
+    "zh": "他就是太老实了,常常吃亏也不知道计较。",
+    "pinyin": "Tā jiù shì tài lǎo shí le, cháng cháng chī kuī yě bù zhī dào jì jiào。",
+    "en": "He's just too honest, often losing out without minding."
+   },
+   {
+    "zh": "这道题的关键就是这一步,弄懂了就不难了。",
+    "pinyin": "Zhè dào tí de guān jiàn jiù shì zhè yī bù, nòng dǒng le jiù bù nán le。",
+    "en": "The key to this problem is exactly this step; once you get it, it's easy."
+   },
+   {
+    "zh": "你放心,答应你的事我就是拼了命也会做到。",
+    "pinyin": "Nǐ fàng xīn, dā yìng nǐ de shì wǒ jiù shì pīn le mìng yě huì zuò dào。",
+    "en": "Rest assured; I'll keep my promise to you even at all costs."
+   },
+   {
+    "zh": "这件衣服哪儿都好,就是价钱贵了点儿。",
+    "pinyin": "Zhè jiàn yī fú nǎ ér dōu hǎo, jiù shì jià qián guì le diǎn ér。",
+    "en": "This outfit is good in every way, except the price is a bit high."
+   },
+   {
+    "zh": "别人都同意了,就是他一个人坚决反对。",
+    "pinyin": "Bié rén dōu tóng yì le, jiù shì tā yí gè rén jiān jué fǎn duì。",
+    "en": "Everyone else agreed; only he was firmly opposed."
+   },
+   {
+    "zh": "我要的就是这种颜色,找了好久终于找到了。",
+    "pinyin": "Wǒ yào de jiù shì zhè zhǒng yán sè, zhǎo le hǎo jiǔ zhōng yú zhǎo dào le。",
+    "en": "This is exactly the color I wanted; I searched long and finally found it."
+   },
+   {
+    "zh": "你说得没错,问题就是出在这个地方。",
+    "pinyin": "Nǐ shuō de méi cuò, wèn tí jiù shì chū zài zhè ge dì fāng。",
+    "en": "You're right; the problem lies precisely here."
+   },
+   {
+    "zh": "他这个人就是这样,刀子嘴豆腐心。",
+    "pinyin": "Tā zhè ge rén jiù shì zhè yàng, dāo zi zuǐ dòu fǔ xīn。",
+    "en": "That's just how he is: sharp-tongued but soft-hearted."
+   },
+   {
+    "zh": "说了这么多,我的意思就是希望你别太累着自己。",
+    "pinyin": "Shuō le zhè me duō, wǒ de yì si jiù shì xī wàng nǐ bié tài lèi zhe zì jǐ。",
+    "en": "After all this, my point is simply that I hope you won't overwork."
+   },
+   {
+    "zh": "这次能成功,靠的就是大家齐心协力。",
+    "pinyin": "Zhè cì néng chéng gōng, kào de jiù shì dà jiā qí xīn xié lì。",
+    "en": "The reason we succeeded this time is precisely everyone's teamwork."
+   },
+   {
+    "zh": "你怎么说他都不听,他就是这么固执。",
+    "pinyin": "Nǐ zěn me shuō tā dōu bù tīng, tā jiù shì zhè me gù zhí。",
+    "en": "He won't listen no matter what you say; he's just that stubborn."
+   },
+   {
+    "zh": "我最喜欢的季节就是秋天,不冷不热,天高云淡。",
+    "pinyin": "Wǒ zuì xǐ huān de jì jié jiù shì qiū tiān, bù lěng bù rè, tiān gāo yún dàn。",
+    "en": "My favorite season is exactly autumn: mild, with high skies and light clouds."
+   },
+   {
+    "zh": "这条路我走过无数遍,闭着眼睛就是不会走错。",
+    "pinyin": "Zhè tiáo lù wǒ zǒu guò wú shù biàn, bì zhuó yǎn jīng jiù shì bú huì zǒu cuò。",
+    "en": "I've walked this road countless times; I couldn't go wrong even blindfolded."
+   },
+   {
+    "zh": "大家都别争了,今天这顿饭就是我请。",
+    "pinyin": "Dà jiā dōu bié zhēng le, jīn tiān zhè dùn fàn jiù shì wǒ qǐng。",
+    "en": "Stop arguing, everyone; this meal is definitely on me today."
+   },
+   {
+    "zh": "他不是不会做,就是懒,不愿意动手。",
+    "pinyin": "Tā bú shì bú huì zuò, jiù shì lǎn, bù yuàn yì dòng shǒu。",
+    "en": "It's not that he can't do it; he's just lazy and unwilling."
+   },
+   {
+    "zh": "我要的答案很简单,就是一个字:去还是不去。",
+    "pinyin": "Wǒ yào de dá àn hěn jiǎn dān, jiù shì yí gè zì: qù hái shì bù qù。",
+    "en": "The answer I want is simple: just one thing — go or not."
+   },
+   {
+    "zh": "这台机器别的都好,就是声音大了点儿。",
+    "pinyin": "Zhè tái jī qì bié de dōu hǎo, jiù shì shēng yīn dà le diǎn ér。",
+    "en": "This machine is good in every way, just a bit noisy."
+   },
+   {
+    "zh": "你猜对了,我今天来找你就是为了这件事。",
+    "pinyin": "Nǐ cāi duì le, wǒ jīn tiān lái zhǎo nǐ jiù shì wèi le zhè jiàn shì。",
+    "en": "You guessed right; I came to see you today precisely for this."
+   },
+   {
+    "zh": "无论多难,他认准的事就是要做到底。",
+    "pinyin": "Wú lùn duō nán, tā rèn zhǔn de shì jiù shì yào zuò dào dǐ。",
+    "en": "No matter how hard, once he's set on something, he sees it through."
+   },
+   {
+    "zh": "我说的就是他,那个总爱帮助别人的年轻人。",
+    "pinyin": "Wǒ shuō de jiù shì tā, nà ge zǒng ài bāng zhù bié rén de nián qīng rén。",
+    "en": "The one I mean is exactly him, that young man who loves helping others."
+   }
+  ]
+ },
+ {
+  "id": "g148",
+  "level": 3,
+  "title": "\"又不/又没\" ile pekiştirilmiş olumsuzluk",
+  "titleEn": "Emphasizing negation with \"you\"",
+  "pattern": "又 + 不 / 没 + Fiil",
+  "summary": "\"又不/又没\" bir olumsuzluğu itiraz/gerekçe tonuyla pekiştirir: 我又不是小孩子 = Ben küçük çocuk değilim ki.",
+  "explanation": "\"又\" burada bir OLUMSUZLUĞUN önüne gelip onu pekiştirir ve çoğu zaman bir İTİRAZ, gerekçe ya da rahatlatma tonu katar — \"...değil ki, ...-medi ki, ...-e gerek yok\": 我又不是小孩子,这点事我能处理 (Ben çocuk değilim ki, bu kadar şeyi hallederim), 你又没做错,别道歉 (Yanlış bir şey yapmadın ki, özür dileme), 天又不黑,着什么急 (Daha hava kararmadı ki, ne acele). \"又\" burada \"tekrar\" değil, karşıdakinin (varsayılan) beklentisini çürüten bir vurgu taşır: \"oysa aslında öyle değil\". Türkçedeki \"...değil ki, hem ... değil, zaten ... değil\" itiraz kalıplarına denk gelir; bir gerekçe sunarken ya da endişeyi gidermek için sık kullanılır.",
+  "examples": [
+   {
+    "zh": "你别紧张,又不是什么大事,慢慢说就行。",
+    "pinyin": "Nǐ bié jǐn zhāng, yòu bú shì shén me dà shì, màn màn shuō jiù xíng。",
+    "en": "Don't be nervous; it's not a big deal, just take your time."
+   },
+   {
+    "zh": "我又不是故意的,你何必生这么大的气?",
+    "pinyin": "Wǒ yòu bú shì gù yì de, nǐ hé bì shēng zhè me dà de qì?",
+    "en": "I didn't do it on purpose; why get so angry?"
+   },
+   {
+    "zh": "天又没黑,你着什么急,再多待一会儿吧。",
+    "pinyin": "Tiān yòu méi hēi, nǐ zhe shén me jí, zài duō dài yī huì er ba。",
+    "en": "It's not even dark yet; why the rush? Stay a bit longer."
+   },
+   {
+    "zh": "这点小忙算什么,我们又不是外人。",
+    "pinyin": "Zhè diǎn xiǎo máng suàn shén me, wǒ men yòu bú shì wài rén。",
+    "en": "Such a small favor is nothing; we're not strangers, after all."
+   },
+   {
+    "zh": "你又没做错事,干嘛跟人家道歉?",
+    "pinyin": "Nǐ yòu méi zuò cuò shì, gàn má gēn rén jiā dào qiàn?",
+    "en": "You didn't do anything wrong; why apologize to them?"
+   },
+   {
+    "zh": "这条路我又不是没走过,放心,不会迷路的。",
+    "pinyin": "Zhè tiáo lù wǒ yòu bú shì méi zǒu guò, fàng xīn, bú huì mí lù de。",
+    "en": "It's not like I've never walked this road; don't worry, I won't get lost."
+   },
+   {
+    "zh": "你别怕他,他又不能把你怎么样。",
+    "pinyin": "Nǐ bié pà tā, tā yòu bù néng bǎ nǐ zěn me yàng。",
+    "en": "Don't be afraid of him; it's not like he can do anything to you."
+   },
+   {
+    "zh": "这件衣服又不贵,喜欢就买下来吧。",
+    "pinyin": "Zhè jiàn yī fú yòu bù guì, xǐ huān jiù mǎi xià lái ba。",
+    "en": "This outfit isn't even expensive; if you like it, buy it."
+   },
+   {
+    "zh": "我又没答应他,他凭什么怪我?",
+    "pinyin": "Wǒ yòu méi dā yìng tā, tā píng shén me guài wǒ?",
+    "en": "I never agreed to him; on what grounds does he blame me?"
+   },
+   {
+    "zh": "你别客气了,又不是第一次来我家。",
+    "pinyin": "Nǐ bié kè qì le, yòu bú shì dì yī cì lái wǒ jiā。",
+    "en": "Don't stand on ceremony; it's not your first time at my place."
+   },
+   {
+    "zh": "这道题又不难,你怎么会做错呢?",
+    "pinyin": "Zhè dào tí yòu bù nán, nǐ zěn me huì zuò cuò ne?",
+    "en": "This problem isn't even hard; how did you get it wrong?"
+   },
+   {
+    "zh": "他又没说不来,你先别自己瞎担心。",
+    "pinyin": "Tā yòu méi shuō bù lái, nǐ xiān bié zì jǐ xiā dān xīn。",
+    "en": "He didn't say he wouldn't come; don't worry needlessly."
+   },
+   {
+    "zh": "你又不是不知道他的脾气,何必跟他计较。",
+    "pinyin": "Nǐ yòu bú shì bù zhī dào tā de pí qì, hé bì gēn tā jì jiào。",
+    "en": "It's not like you don't know his temper; why bother arguing?"
+   },
+   {
+    "zh": "这么早就睡?天又不晚,再看会儿书吧。",
+    "pinyin": "Zhè me zǎo jiù shuì? tiān yòu bù wǎn, zài kàn huì er shū ba。",
+    "en": "Sleeping so early? It's not even late; read a bit more."
+   },
+   {
+    "zh": "我又不图什么回报,帮你只是因为咱们是朋友。",
+    "pinyin": "Wǒ yòu bù tú shén me huí bào, bāng nǐ zhǐ shì yīn wèi zán men shì péng yǒu。",
+    "en": "I'm not after any reward; I help you simply because we're friends."
+   },
+   {
+    "zh": "你哭什么,又没有人骂你,别难过了。",
+    "pinyin": "Nǐ kū shén me, yòu méi yǒu rén mà nǐ, bié nán guò le。",
+    "en": "Why are you crying? No one scolded you; don't be sad."
+   },
+   {
+    "zh": "这点钱我还是有的,又不用你操心。",
+    "pinyin": "Zhè diǎn qián wǒ hái shì yǒu de, yòu bù yòng nǐ cāo xīn。",
+    "en": "I do have this bit of money; you needn't worry about it."
+   },
+   {
+    "zh": "他又不是三岁小孩,这点道理还用你教?",
+    "pinyin": "Tā yòu bú shì sān suì xiǎo hái, zhè diǎn dào lǐ hái yòng nǐ jiào?",
+    "en": "He's not a three-year-old; does he need you to teach him this?"
+   },
+   {
+    "zh": "你别拦着我,我又没打算做什么坏事。",
+    "pinyin": "Nǐ bié lán zhe wǒ, wǒ yòu méi dǎ suàn zuò shén me huài shì。",
+    "en": "Don't stop me; I'm not planning to do anything bad."
+   },
+   {
+    "zh": "路又不远,咱们走过去就行,不用打车。",
+    "pinyin": "Lù yòu bù yuǎn, zán men zǒu guò qù jiù xíng, bù yòng dǎ chē。",
+    "en": "The road isn't far; we can just walk, no need for a taxi."
+   },
+   {
+    "zh": "这又不是你的错,你没必要一直自责。",
+    "pinyin": "Zhè yòu bú shì nǐ de cuò, nǐ méi bì yào yì zhí zì zé。",
+    "en": "This isn't your fault; there's no need to keep blaming yourself."
+   },
+   {
+    "zh": "我又没说要走,你怎么就开始收拾我的东西了?",
+    "pinyin": "Wǒ yòu méi shuō yào zǒu, nǐ zěn me jiù kāi shǐ shōu shí wǒ de dōng xī le?",
+    "en": "I never said I'd leave; why are you already packing my things?"
+   },
+   {
+    "zh": "你放心大胆地去做,失败了又不会怎么样。",
+    "pinyin": "Nǐ fàng xīn dà dǎn de qù zuò, shī bài le yòu bú huì zěn me yàng。",
+    "en": "Go do it boldly; even if you fail, nothing bad will happen."
+   },
+   {
+    "zh": "这么点儿路又累不着,就当散步了。",
+    "pinyin": "Zhè me diǎn er lù yòu lèi bù zhe, jiù dāng sàn bù le。",
+    "en": "This little walk won't tire you; just treat it as a stroll."
+   },
+   {
+    "zh": "他又不缺钱,送他礼物还真不好挑。",
+    "pinyin": "Tā yòu bù quē qián, sòng tā lǐ wù hái zhēn bù hǎo tiāo。",
+    "en": "He's not short of money, so it's really hard to pick a gift for him."
+   }
+  ]
+ },
+ {
+  "id": "g149",
+  "level": 3,
+  "title": "\"就要...了\" ile yakın gelecek",
+  "titleEn": "Expressing \"about to\" with \"jiuyao\"",
+  "pattern": "(还有 + Süre) + 就要 + Fiil + 了",
+  "summary": "\"就要...了\" bir şeyin çok yakında olacağını bildirir ve belirli bir zamanla da kullanılabilir: 就要下雨了 = Birazdan yağmur yağacak; 明天就要考试了 = Yarın sınav var.",
+  "explanation": "\"就要...了\" bir olayın ÇOK YAKINDA gerçekleşeceğini bildirir: 火车就要开了 (Tren birazdan kalkacak), 我们就要到了 (Neredeyse vardık). \"快要...了\"ya çok benzer, ancak önemli fark: \"就要...了\" belirli bir ZAMAN ifadesiyle birlikte kullanılabilir, \"快要...了\" genelde kullanılamaz — 明天就要放假了 (Yarın tatil başlıyor) doğru; \"明天快要...\" pek denmez. Sık kalıp: 还有 + süre + 就要 + fiil + 了 — 还有三天就要过年了 (Yeni yıla üç gün kaldı). \"就\" yakınlığı, aciliyeti vurgular. Türkçedeki \"birazdan, neredeyse, az kaldı, ...-mek üzere\" ile örtüşür; belirli bir zamana bağlı yakın geleceği anlatmada özellikle kullanışlıdır.",
+  "examples": [
+   {
+    "zh": "快点收拾东西,火车再过十分钟就要开了。",
+    "pinyin": "Kuài diǎn shōu shí dōng xī, huǒ chē zài guò shí fēn zhōng jiù yào kāi le。",
+    "en": "Hurry and pack; the train leaves in ten minutes."
+   },
+   {
+    "zh": "还有三天就要过年了,街上到处都是买年货的人。",
+    "pinyin": "Hái yǒu sān tiān jiù yào guò nián le, jiē shàng dào chù dōu shì mǎi nián huò de rén。",
+    "en": "Only three days until New Year; the streets are full of shoppers."
+   },
+   {
+    "zh": "你再不出门就要迟到了,快点儿吧。",
+    "pinyin": "Nǐ zài bù chū mén jiù yào chí dào le, kuài diǎn ér ba。",
+    "en": "If you don't leave now you'll be late; hurry up."
+   },
+   {
+    "zh": "孩子明年九月就要上小学了,我们得提前做准备。",
+    "pinyin": "Hái zi míng nián jiǔ yuè jiù yào shàng xiǎo xué le, wǒ men děi tí qián zuò zhǔn bèi。",
+    "en": "The child starts primary school next September; we must prepare early."
+   },
+   {
+    "zh": "天边的云越来越黑,看样子就要下大雨了。",
+    "pinyin": "Tiān biān de yún yuè lái yuè hēi, kàn yàng zi jiù yào xià dà yǔ le。",
+    "en": "The clouds are getting darker; it looks like heavy rain is coming."
+   },
+   {
+    "zh": "再有两站我们就要到了,你把行李收拾好。",
+    "pinyin": "Zài yǒu liǎng zhàn wǒ men jiù yào dào le, nǐ bǎ xíng lǐ shōu shí hǎo。",
+    "en": "Two more stops and we'll arrive; get your luggage ready."
+   },
+   {
+    "zh": "电影马上就要开始了,请大家把手机调成静音。",
+    "pinyin": "Diàn yǐng mǎ shàng jiù yào kāi shǐ le, qǐng dà jiā bǎ shǒu jī diào chéng jìng yīn。",
+    "en": "The movie is about to start; please silence your phones."
+   },
+   {
+    "zh": "他准备了这么久,下周就要参加那场重要的比赛了。",
+    "pinyin": "Tā zhǔn bèi le zhè me jiǔ, xià zhōu jiù yào cān jiā nà chǎng zhòng yào de bǐ sài le。",
+    "en": "After so much preparation, he competes in that big match next week."
+   },
+   {
+    "zh": "眼看太阳就要落山了,我们得赶紧下山。",
+    "pinyin": "Yǎn kàn tài yáng jiù yào luò shān le, wǒ men děi gǎn jǐn xià shān。",
+    "en": "The sun is about to set; we need to hurry down the mountain."
+   },
+   {
+    "zh": "还有一个星期,这个学期就要结束了。",
+    "pinyin": "Hái yǒu yí gè xīng qī, zhè ge xué qī jiù yào jié shù le。",
+    "en": "In another week, this semester will be over."
+   },
+   {
+    "zh": "你听,上课铃就要响了,快回教室吧。",
+    "pinyin": "Nǐ tīng, shàng kè líng jiù yào xiǎng le, kuài huí jiào shì ba。",
+    "en": "Listen, the class bell is about to ring; hurry back to the classroom."
+   },
+   {
+    "zh": "再等几分钟,水就要开了,你先把茶叶放进杯子里。",
+    "pinyin": "Zài děng jǐ fēn zhōng, shuǐ jiù yào kāi le, nǐ xiān bǎ chá yè fàng jìn bēi zi lǐ。",
+    "en": "A few more minutes and the water will boil; put the tea leaves in the cup first."
+   },
+   {
+    "zh": "他们俩下个月就要结婚了,现在正忙着布置新房。",
+    "pinyin": "Tā men liǎ xià gè yuè jiù yào jié hūn le, xiàn zài zhèng máng zhe bù zhì xīn fáng。",
+    "en": "The two of them marry next month and are busy decorating their new home."
+   },
+   {
+    "zh": "我的假期就要结束了,真舍不得离开这个安静的小镇。",
+    "pinyin": "Wǒ de jià qī jiù yào jié shù le, zhēn shě bù de lí kāi zhè ge ān jìng de xiǎo zhèn。",
+    "en": "My holiday is about to end; I hate to leave this quiet little town."
+   },
+   {
+    "zh": "再过几分钟商店就要关门了,你要买什么赶紧买。",
+    "pinyin": "Zài guò jǐ fēn zhōng shāng diàn jiù yào guān mén le, nǐ yào mǎi shén me gǎn jǐn mǎi。",
+    "en": "The shop closes in a few minutes; buy what you need quickly."
+   },
+   {
+    "zh": "春天就要来了,你看,树枝上都冒出嫩芽了。",
+    "pinyin": "Chūn tiān jiù yào lái le, nǐ kàn, shù zhī shàng dōu mào chū nèn yá le。",
+    "en": "Spring is about to come; look, tender buds are sprouting on the branches."
+   },
+   {
+    "zh": "还有半个小时飞机就要起飞了,咱们赶紧过安检。",
+    "pinyin": "Hái yǒu bàn gè xiǎo shí fēi jī jiù yào qǐ fēi le, zán men gǎn jǐn guò ān jiǎn。",
+    "en": "The plane takes off in half an hour; let's hurry through security."
+   },
+   {
+    "zh": "他工作三十年,再过一个月就要退休了。",
+    "pinyin": "Tā gōng zuò sān shí nián, zài guò yí gè yuè jiù yào tuì xiū le。",
+    "en": "After thirty years of work, he retires in another month."
+   },
+   {
+    "zh": "眼看就要轮到我了,我的心跳得越来越快。",
+    "pinyin": "Yǎn kàn jiù yào lún dào wǒ le, wǒ de xīn tiào de yuè lái yuè kuài。",
+    "en": "It's almost my turn, and my heart beats faster and faster."
+   },
+   {
+    "zh": "外面天就要黑了,你一个人回去,路上小心点。",
+    "pinyin": "Wài miàn tiān jiù yào hēi le, nǐ yí gè rén huí qù, lù shàng xiǎo xīn diǎn。",
+    "en": "It's about to get dark outside; going back alone, be careful."
+   },
+   {
+    "zh": "再过几天,门口那棵樱花树就要开花了。",
+    "pinyin": "Zài guò jǐ tiān, mén kǒu nà kē yīng huā shù jiù yào kāi huā le。",
+    "en": "In a few days, the cherry tree at the door will bloom."
+   },
+   {
+    "zh": "比赛就要结束了,双方的比分还是不相上下。",
+    "pinyin": "Bǐ sài jiù yào jié shù le, shuāng fāng de bǐ fēn hái shì bù xiāng shàng xià。",
+    "en": "The match is about to end, and the score is still neck and neck."
+   },
+   {
+    "zh": "孩子就要放暑假了,他早就计划好去哪儿玩了。",
+    "pinyin": "Hái zi jiù yào fàng shǔ jià le, tā zǎo jiù jì huà hǎo qù nǎ ér wán le。",
+    "en": "The child's summer break is near; he's long planned where to go."
+   },
+   {
+    "zh": "你的生日就要到了,想好要什么礼物了吗?",
+    "pinyin": "Nǐ de shēng rì jiù yào dào le, xiǎng hǎo yào shén me lǐ wù le ma?",
+    "en": "Your birthday is coming; have you thought about what gift you want?"
+   },
+   {
+    "zh": "天就要亮了,忙碌了一夜的医生们才稍稍松了口气。",
+    "pinyin": "Tiān jiù yào liàng le, máng lù le yī yè de yī shēng men cái shāo shāo sōng le kǒu qì。",
+    "en": "Dawn is near, and the doctors who worked all night finally breathe a little easier."
+   }
+  ]
  }
 ]

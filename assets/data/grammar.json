@@ -12918,5 +12918,685 @@
     "en": "From beginning to study to communicating fluently, she took less than two years."
    }
   ]
+ },
+ {
+  "id": "g096",
+  "level": 2,
+  "title": "\"没有\" ile olumsuz karşılaştırma",
+  "titleEn": "Basic comparisons with \"meiyou\"",
+  "pattern": "İsim 1 + 没(有) + İsim 2 + (这么/那么) + Sıfat",
+  "summary": "\"没有\" karşılaştırmada \"...kadar değil\" der: A 没有 B 高 = A, B kadar uzun değil.",
+  "explanation": "\"比\" ile yapılan karşılaştırmanın OLUMSUZ karşılığı \"没有\" iledir: A + 没有 + B + (这么/那么) + sıfat = \"A, B kadar ... değil\". 我没有他高 (Ben onun kadar uzun değilim), 今天没有昨天冷 (Bugün dün kadar soğuk değil). Sıfattan önce çoğu zaman \"这么/那么\" gelir: 弟弟没有哥哥那么高 (Kardeş, ağabey kadar uzun değil). Bu yapı \"不比\"den farklıdır: \"A 没有 B 高\" = A, B'den kısa (B daha uzun); daha yumuşak ve doğaldır. Türkçedeki \"... kadar ... değil\" kalıbına birebir uyar.",
+  "examples": [
+   {
+    "zh": "我没有他跑得快,每次比赛都是他赢。",
+    "pinyin": "Wǒ méi yǒu tā pǎo de kuài, měi cì bǐ sài dōu shì tā yíng。",
+    "en": "I don't run as fast as him; he wins every race."
+   },
+   {
+    "zh": "今天没有昨天那么冷,不用穿那么厚。",
+    "pinyin": "Jīn tiān méi yǒu zuó tiān nà me lěng, bù yòng chuān nà me hòu。",
+    "en": "Today isn't as cold as yesterday; no need to dress so warmly."
+   },
+   {
+    "zh": "这家店的东西没有那家新鲜,我们还是去那家吧。",
+    "pinyin": "Zhè jiā diàn de dōng xī méi yǒu nà jiā xīn xiān, wǒ men hái shì qù nà jiā ba。",
+    "en": "This shop's goods aren't as fresh as that one's; let's go to that one."
+   },
+   {
+    "zh": "弟弟没有哥哥那么高,可是比哥哥壮实。",
+    "pinyin": "Dì di méi yǒu gē gē nà me gāo, kě shì bǐ gē gē zhuàng shí。",
+    "en": "The younger brother isn't as tall as the older, but he's sturdier."
+   },
+   {
+    "zh": "我的汉语没有你说得那么流利,还得多练习。",
+    "pinyin": "Wǒ de hàn yǔ méi yǒu nǐ shuō de nà me liú lì, hái de duō liàn xí。",
+    "en": "My Chinese isn't as fluent as yours; I need more practice."
+   },
+   {
+    "zh": "这次考试没有上次难,大家都考得不错。",
+    "pinyin": "Zhè cì kǎo shì méi yǒu shàng cì nán, dà jiā dōu kǎo de bù cuò。",
+    "en": "This exam wasn't as hard as last time; everyone did well."
+   },
+   {
+    "zh": "城里的空气没有乡下新鲜,住久了不太舒服。",
+    "pinyin": "Chéng lǐ de kōng qì méi yǒu xiāng xià xīn xiān, zhù jiǔ le bù tài shū fú。",
+    "en": "City air isn't as fresh as the countryside's; it's uncomfortable long-term."
+   },
+   {
+    "zh": "他做的菜没有妈妈做的好吃,不过也不错了。",
+    "pinyin": "Tā zuò de cài méi yǒu mā mā zuò de hǎo chī, bù guò yě bù cuò le。",
+    "en": "His cooking isn't as good as mom's, but it's not bad."
+   },
+   {
+    "zh": "坐公交车没有坐地铁快,常常会堵在路上。",
+    "pinyin": "Zuò gōng jiāo chē méi yǒu zuò dì tiě kuài, cháng cháng huì dǔ zài lù shàng。",
+    "en": "The bus isn't as fast as the subway; it often gets stuck in traffic."
+   },
+   {
+    "zh": "这部电影没有上一部精彩,我看到一半就走了。",
+    "pinyin": "Zhè bù diàn yǐng méi yǒu shàng yī bù jīng cǎi, wǒ kàn dào yí bàn jiù zǒu le。",
+    "en": "This movie isn't as exciting as the last; I left halfway through."
+   },
+   {
+    "zh": "我的房间没有你的大,不过收拾得很整齐。",
+    "pinyin": "Wǒ de fáng jiān méi yǒu nǐ de dà, bù guò shōu shí de hěn zhěng qí。",
+    "en": "My room isn't as big as yours, but it's tidily kept."
+   },
+   {
+    "zh": "今年的雨水没有去年多,农民们有点儿担心。",
+    "pinyin": "Jīn nián de yǔ shuǐ méi yǒu qù nián duō, nóng mín men yǒu diǎn ér dān xīn。",
+    "en": "This year's rainfall isn't as much as last year's; the farmers are a bit worried."
+   },
+   {
+    "zh": "他的经验没有老王丰富,遇事还是会紧张。",
+    "pinyin": "Tā de jīng yàn méi yǒu lǎo wáng fēng fù, yù shì hái shì huì jǐn zhāng。",
+    "en": "His experience isn't as rich as Old Wang's; he still gets nervous in trouble."
+   },
+   {
+    "zh": "这条路没有那条宽,车多的时候很容易堵。",
+    "pinyin": "Zhè tiáo lù méi yǒu nà tiáo kuān, chē duō de shí hòu hěn róng yì dǔ。",
+    "en": "This road isn't as wide as that one; it easily jams when busy."
+   },
+   {
+    "zh": "新买的手机没有原来的好用,我有点后悔了。",
+    "pinyin": "Xīn mǎi de shǒu jī méi yǒu yuán lái de hǎo yòng, wǒ yǒu diǎn hòu huǐ le。",
+    "en": "The newly bought phone isn't as easy to use as the old one; I regret it a bit."
+   },
+   {
+    "zh": "妹妹没有姐姐那么爱说话,平时安安静静的。",
+    "pinyin": "Mèi mèi méi yǒu jiě jiě nà me ài shuō huà, píng shí ān ān jìng jìng de。",
+    "en": "The younger sister isn't as talkative as the older; she's usually quiet."
+   },
+   {
+    "zh": "这里的冬天没有北方那么冷,很少下雪。",
+    "pinyin": "Zhè lǐ de dōng tiān méi yǒu běi fāng nà me lěng, hěn shǎo xià xuě。",
+    "en": "Winters here aren't as cold as in the north; it rarely snows."
+   },
+   {
+    "zh": "我没有他那么有耐心,教孩子学习总是着急。",
+    "pinyin": "Wǒ méi yǒu tā nà me yǒu nài xīn, jiào hái zi xué xí zǒng shì zháo jí。",
+    "en": "I'm not as patient as him; I always get anxious teaching the child."
+   },
+   {
+    "zh": "这个牌子的衣服没有那个牌子的贵,质量却差不多。",
+    "pinyin": "Zhè ge pái zi de yī fú méi yǒu nà ge pái zi de guì, zhì liàng què chà bu duō。",
+    "en": "This brand's clothes aren't as pricey as that brand's, yet the quality's similar."
+   },
+   {
+    "zh": "今天的月亮没有昨天那么圆,不过还是很亮。",
+    "pinyin": "Jīn tiān de yuè liàng méi yǒu zuó tiān nà me yuán, bù guò hái shì hěn liàng。",
+    "en": "Tonight's moon isn't as round as yesterday's, but it's still bright."
+   },
+   {
+    "zh": "他的个子没有以前高了吗?怎么感觉矮了一点。",
+    "pinyin": "Tā de gè zi méi yǒu yǐ qián gāo le ma? zěn me gǎn jué ǎi le yì diǎn。",
+    "en": "Isn't he as tall as before? He seems a bit shorter."
+   },
+   {
+    "zh": "这次的旅行没有想象中那么累,反而很放松。",
+    "pinyin": "Zhè cì de lǚ xíng méi yǒu xiǎng xiàng zhōng nà me lèi, fǎn ér hěn fàng sōng。",
+    "en": "This trip wasn't as tiring as expected; it was actually relaxing."
+   },
+   {
+    "zh": "弟弟的字没有姐姐写得工整,还得好好练。",
+    "pinyin": "Dì di de zì méi yǒu jiě jiě xiě de gōng zhěng, hái de hǎo hǎo liàn。",
+    "en": "The younger brother's handwriting isn't as neat as the older sister's; he needs practice."
+   },
+   {
+    "zh": "我们村现在没有以前那么热闹了,年轻人都走了。",
+    "pinyin": "Wǒ men cūn xiàn zài méi yǒu yǐ qián nà me rè nào le, nián qīng rén dōu zǒu le。",
+    "en": "Our village isn't as lively as before; the young people have all left."
+   },
+   {
+    "zh": "这道题其实没有看起来那么难,静下心就会做了。",
+    "pinyin": "Zhè dào tí qí shí méi yǒu kàn qǐ lái nà me nán, jìng xià xīn jiù huì zuò le。",
+    "en": "This problem isn't actually as hard as it looks; calm down and you'll solve it."
+   }
+  ]
+ },
+ {
+  "id": "g097",
+  "level": 2,
+  "title": "\"来\" ve \"去\" ile yön",
+  "titleEn": "Directional verbs \"lai\" and \"qu\"",
+  "pattern": "来 / 去 + Yer",
+  "summary": "\"来\" (lái) konuşana DOĞRU, \"去\" (qù) konuşandan UZAĞA yönelmeyi gösterir: 来我家 = (bana) evime gel; 去学校 = okula git.",
+  "explanation": "\"来\" ve \"去\" hareketin yönünü konuşmacıya göre belirler: \"来\" konuşmacıya/hedefe DOĞRU gelmeyi, \"去\" konuşmacıdan UZAĞA gitmeyi anlatır. 你来我家吧 (Bana evime gel), 我去你那儿 (Ben sana gelirim/giderim — konuşmacı gidiyor). Bir yer eklendiğinde: 来/去 + yer. Türkçedeki \"gel/git\" mantığıyla aynıdır ama referans noktası her zaman konuşmacının bulunduğu/hayal ettiği yerdir. Ayrıca başka fiillerin ardına gelip yön tümleci olurlar: 走过来 (yürüyerek buraya gel), 拿去 (alıp götür). Temelde \"buraya\" vs \"oraya\" ayrımıdır.",
+  "examples": [
+   {
+    "zh": "周末你来我家吃饭吧,我给你做拿手菜。",
+    "pinyin": "Zhōu mò nǐ lái wǒ jiā chī fàn ba, wǒ gěi nǐ zuò ná shǒu cài。",
+    "en": "Come to my place for dinner this weekend; I'll make my specialty."
+   },
+   {
+    "zh": "我明天要去上海出差,大概待三天。",
+    "pinyin": "Wǒ míng tiān yào qù shàng hǎi chū chāi, dà gài dài sān tiān。",
+    "en": "Tomorrow I'm going to Shanghai on business, staying about three days."
+   },
+   {
+    "zh": "外面下雨了,你快进来,别在门口站着。",
+    "pinyin": "Wài miàn xià yǔ le, nǐ kuài jìn lái, bié zài mén kǒu zhàn zhe。",
+    "en": "It's raining outside; come in quickly, don't stand at the door."
+   },
+   {
+    "zh": "他去超市买东西了,一会儿就回来。",
+    "pinyin": "Tā qù chāo shì mǎi dōng xī le, yī huì er jiù huí lái。",
+    "en": "He went to the supermarket to shop; he'll be back soon."
+   },
+   {
+    "zh": "有空的话,欢迎你们随时来我们学校参观。",
+    "pinyin": "Yǒu kòng de huà, huān yíng nǐ men suí shí lái wǒ men xué xiào cān guān。",
+    "en": "If you have time, you're welcome to visit our school anytime."
+   },
+   {
+    "zh": "我下午要去医院看望一位生病的老朋友。",
+    "pinyin": "Wǒ xià wǔ yào qù yī yuàn kàn wàng yī wèi shēng bìng de lǎo péng yǒu。",
+    "en": "This afternoon I'm going to the hospital to visit a sick old friend."
+   },
+   {
+    "zh": "你别过来,地上刚拖过,还湿着呢。",
+    "pinyin": "Nǐ bié guò lái, de shàng gāng tuō guò, hái shī zhe ne。",
+    "en": "Don't come over; the floor was just mopped and is still wet."
+   },
+   {
+    "zh": "我们打算暑假去南方旅行,顺便看看海。",
+    "pinyin": "Wǒ men dǎ suàn shǔ jià qù nán fāng lǚ xíng, shùn biàn kàn kàn hǎi。",
+    "en": "We plan to travel south during summer break and see the sea."
+   },
+   {
+    "zh": "快过来看,窗外的晚霞太美了!",
+    "pinyin": "Kuài guò lái kàn, chuāng wài de wǎn xiá tài měi le!",
+    "en": "Come over quickly and look; the sunset outside the window is gorgeous!"
+   },
+   {
+    "zh": "他每天都要去公园锻炼,风雨无阻。",
+    "pinyin": "Tā měi tiān dōu yào qù gōng yuán duàn liàn, fēng yǔ wú zǔ。",
+    "en": "He goes to the park to exercise every day, rain or shine."
+   },
+   {
+    "zh": "你把那本书拿过来,我想看看是什么内容。",
+    "pinyin": "Nǐ bǎ nà běn shū ná guò lái, wǒ xiǎng kàn kàn shì shén me nèi róng。",
+    "en": "Bring that book over; I want to see what it's about."
+   },
+   {
+    "zh": "下课以后,我要去图书馆还几本书。",
+    "pinyin": "Xià kè yǐ hòu, wǒ yào qù tú shū guǎn hái jǐ běn shū。",
+    "en": "After class I'm going to the library to return some books."
+   },
+   {
+    "zh": "客人马上就来了,你快去准备一下茶水。",
+    "pinyin": "Kè rén mǎ shàng jiù lái le, nǐ kuài qù zhǔn bèi yī xià chá shuǐ。",
+    "en": "The guests are arriving soon; go and prepare some tea."
+   },
+   {
+    "zh": "他从很远的地方赶来,就为了参加这次聚会。",
+    "pinyin": "Tā cóng hěn yuǎn de dì fāng gǎn lái, jiù wèi le cān jiā zhè cì jù huì。",
+    "en": "He rushed here from far away just to attend this gathering."
+   },
+   {
+    "zh": "天气这么好,我们去海边走走怎么样?",
+    "pinyin": "Tiān qì zhè me hǎo, wǒ men qù hǎi biān zǒu zǒu zěn me yàng?",
+    "en": "The weather's so nice; how about we go for a walk by the sea?"
+   },
+   {
+    "zh": "你回来的时候,顺便去买点儿面包和牛奶。",
+    "pinyin": "Nǐ huí lái de shí hòu, shùn biàn qù mǎi diǎn ér miàn bāo hé niú nǎi。",
+    "en": "On your way back, pick up some bread and milk."
+   },
+   {
+    "zh": "孩子放学了还没回来,妈妈有点儿着急。",
+    "pinyin": "Hái zi fàng xué le hái méi huí lái, mā mā yǒu diǎn ér zháo jí。",
+    "en": "The child hasn't come back from school yet; mom is a bit worried."
+   },
+   {
+    "zh": "请大家往前走,不要停在门口挡着路。",
+    "pinyin": "Qǐng dà jiā wǎng qián zǒu, bú yào tíng zài mén kǒu dǎng zhe lù。",
+    "en": "Please move forward, everyone; don't stop at the door blocking the way."
+   },
+   {
+    "zh": "我这就去接你,你在车站等我,别乱走。",
+    "pinyin": "Wǒ zhè jiù qù jiē nǐ, nǐ zài chē zhàn děng wǒ, bié luàn zǒu。",
+    "en": "I'll go pick you up now; wait at the station and don't wander off."
+   },
+   {
+    "zh": "他跑过来告诉我这个好消息,高兴得不得了。",
+    "pinyin": "Tā pǎo guò lái gào sù wǒ zhè ge hǎo xiāo xī, gāo xìng de bù de le。",
+    "en": "He ran over to tell me the good news, thrilled beyond words."
+   },
+   {
+    "zh": "周末我不想出去,就想在家好好休息。",
+    "pinyin": "Zhōu mò wǒ bù xiǎng chū qù, jiù xiǎng zài jiā hǎo hǎo xiū xī。",
+    "en": "This weekend I don't want to go out; I just want to rest at home."
+   },
+   {
+    "zh": "你要是来北京,一定要提前告诉我一声。",
+    "pinyin": "Nǐ yào shì lái běi jīng, yí dìng yào tí qián gào sù wǒ yī shēng。",
+    "en": "If you come to Beijing, be sure to let me know in advance."
+   },
+   {
+    "zh": "这些东西太重了,我一个人搬不过去。",
+    "pinyin": "Zhè xiē dōng xī tài zhòng le, wǒ yí gè rén bān bù guò qù。",
+    "en": "These things are too heavy; I can't carry them over by myself."
+   },
+   {
+    "zh": "老师叫你去办公室一趟,好像有事找你。",
+    "pinyin": "Lǎo shī jiào nǐ qù bàn gōng shì yī tàng, hǎo xiàng yǒu shì zhǎo nǐ。",
+    "en": "The teacher wants you to come to the office; it seems there's something."
+   },
+   {
+    "zh": "既然来了,就多待几天,好好逛逛这座城市。",
+    "pinyin": "Jì rán lái le, jiù duō dài jǐ tiān, hǎo hǎo guàng guàng zhè zuò chéng shì。",
+    "en": "Since you've come, stay a few more days and explore the city properly."
+   }
+  ]
+ },
+ {
+  "id": "g098",
+  "level": 2,
+  "title": "\"请\" ile kibar rica",
+  "titleEn": "Polite requests with \"qing\"",
+  "pattern": "请 + (Kişi) + Fiil",
+  "summary": "\"请\" (qǐng) bir isteği kibarlaştırır: 请进 = buyurun girin; 请坐 = lütfen oturun.",
+  "explanation": "\"请\" bir fiilin önüne gelerek isteği/emri kibarlaştırır — Türkçedeki \"lütfen / buyurun / rica ederim\" gibi. 请进 (buyurun girin), 请坐 (oturun lütfen), 请等一下 (bir dakika bekleyin lütfen). Bir kişi de eklenebilir: 请你帮我一下 (rica etsem bana yardım eder misin). \"请\" ayrıca \"davet etmek / ısmarlamak\" fiili olarak da kullanılır: 我请你吃饭 (Sana yemek ısmarlıyorum), 请客 (misafir ağırlamak/ısmarlamak). Nazik ortamlarda, hizmet dilinde ve ricalarda çok yaygındır; ricayı yumuşatan en temel kibarlık sözcüğüdür.",
+  "examples": [
+   {
+    "zh": "请进,外面冷,快到屋里来坐。",
+    "pinyin": "Qǐng jìn, wài miàn lěng, kuài dào wū lǐ lái zuò。",
+    "en": "Please come in; it's cold outside, come sit inside."
+   },
+   {
+    "zh": "请大家安静一下,会议马上就要开始了。",
+    "pinyin": "Qǐng dà jiā ān jìng yī xià, huì yì mǎ shàng jiù yào kāi shǐ le。",
+    "en": "Please quiet down, everyone; the meeting is about to begin."
+   },
+   {
+    "zh": "请问,去火车站应该坐几路车?",
+    "pinyin": "Qǐng wèn, qù huǒ chē zhàn yīng gāi zuò jǐ lù chē?",
+    "en": "Excuse me, which bus should I take to the train station?"
+   },
+   {
+    "zh": "这顿饭我请客,你们千万别跟我抢着付钱。",
+    "pinyin": "Zhè dùn fàn wǒ qǐng kè, nǐ men qiān wàn bié gēn wǒ qiǎng zhe fù qián。",
+    "en": "This meal is on me; don't you dare fight me over the bill."
+   },
+   {
+    "zh": "请你把窗户关一下,风太大了。",
+    "pinyin": "Qǐng nǐ bǎ chuāng hù guān yī xià, fēng tài dà le。",
+    "en": "Please close the window; the wind is too strong."
+   },
+   {
+    "zh": "请稍等一下,我去看看经理在不在。",
+    "pinyin": "Qǐng shāo děng yí xià, wǒ qù kàn kàn jīng lǐ zài bù zài。",
+    "en": "Please wait a moment; I'll check if the manager is in."
+   },
+   {
+    "zh": "为了感谢他的帮助,我特意请他吃了顿饭。",
+    "pinyin": "Wèi le gǎn xiè tā de bāng zhù, wǒ tè yì qǐng tā chī le dùn fàn。",
+    "en": "To thank him for his help, I specially treated him to a meal."
+   },
+   {
+    "zh": "请各位系好安全带,飞机马上就要起飞了。",
+    "pinyin": "Qǐng gè wèi jì hǎo ān quán dài, fēi jī mǎ shàng jiù yào qǐ fēi le。",
+    "en": "Please fasten your seatbelts; the plane is about to take off."
+   },
+   {
+    "zh": "有不明白的地方,请随时举手提问。",
+    "pinyin": "Yǒu bù míng bái de dì fāng, qǐng suí shí jǔ shǒu tí wèn。",
+    "en": "If anything is unclear, please raise your hand and ask anytime."
+   },
+   {
+    "zh": "请你转告他,今天的约会改到明天了。",
+    "pinyin": "Qǐng nǐ zhuǎn gào tā, jīn tiān de yuē huì gǎi dào míng tiān le。",
+    "en": "Please tell him the appointment today is moved to tomorrow."
+   },
+   {
+    "zh": "请慢用,菜要是不够,随时叫我。",
+    "pinyin": "Qǐng màn yòng, cài yào shì bù gòu, suí shí jiào wǒ。",
+    "en": "Please enjoy your meal; if it's not enough, call me anytime."
+   },
+   {
+    "zh": "下周我过生日,想请几个好朋友来家里聚聚。",
+    "pinyin": "Xià zhōu wǒ guò shēng rì, xiǎng qǐng jǐ gè hǎo péng yǒu lái jiā lǐ jù jù。",
+    "en": "I have my birthday next week and want to invite some good friends over."
+   },
+   {
+    "zh": "请把手机调成静音,不要影响别人休息。",
+    "pinyin": "Qǐng bǎ shǒu jī diào chéng jìng yīn, bú yào yǐng xiǎng bié rén xiū xī。",
+    "en": "Please set your phone to silent so you don't disturb others' rest."
+   },
+   {
+    "zh": "请您在这里签个字,然后就可以取货了。",
+    "pinyin": "Qǐng nín zài zhè lǐ qiān gè zì, rán hòu jiù kě yǐ qǔ huò le。",
+    "en": "Please sign here, and then you can collect the goods."
+   },
+   {
+    "zh": "他为了请老师帮忙,专门跑了一趟老师家。",
+    "pinyin": "Tā wèi le qǐng lǎo shī bāng máng, zhuān mén pǎo le yī tàng lǎo shī jiā。",
+    "en": "To ask the teacher for help, he made a special trip to the teacher's home."
+   },
+   {
+    "zh": "请大家排队上车,不要拥挤,注意安全。",
+    "pinyin": "Qǐng dà jiā pái duì shàng chē, bú yào yōng jǐ, zhù yì ān quán。",
+    "en": "Please queue to board; don't push, and mind your safety."
+   },
+   {
+    "zh": "请你原谅我这次的粗心,我以后一定注意。",
+    "pinyin": "Qǐng nǐ yuán liàng wǒ zhè cì de cū xīn, wǒ yǐ hòu yí dìng zhù yì。",
+    "en": "Please forgive my carelessness this time; I'll be careful in future."
+   },
+   {
+    "zh": "今天你请我喝咖啡,下次就轮到我请你了。",
+    "pinyin": "Jīn tiān nǐ qǐng wǒ hē kā fēi, xià cì jiù lún dào wǒ qǐng nǐ le。",
+    "en": "You're treating me to coffee today; next time it's my turn."
+   },
+   {
+    "zh": "请把这份文件复印三份,谢谢你了。",
+    "pinyin": "Qǐng bǎ zhè fèn wén jiàn fù yìn sān fèn, xiè xiè nǐ le。",
+    "en": "Please make three copies of this document; thank you."
+   },
+   {
+    "zh": "客人来了,请先给他们倒杯水,让他们坐下歇歇。",
+    "pinyin": "Kè rén lái le, qǐng xiān gěi tā men dào bēi shuǐ, ràng tā men zuò xià xiē xiē。",
+    "en": "The guests are here; please pour them water and let them sit and rest."
+   },
+   {
+    "zh": "请您说慢一点儿,我的汉语还不太好。",
+    "pinyin": "Qǐng nín shuō màn yì diǎn ér, wǒ de hàn yǔ hái bù tài hǎo。",
+    "en": "Please speak a bit slower; my Chinese isn't very good yet."
+   },
+   {
+    "zh": "这件事还得请您多多帮忙,我们感激不尽。",
+    "pinyin": "Zhè jiàn shì hái de qǐng nín duō duō bāng máng, wǒ men gǎn jī bù jìn。",
+    "en": "We must ask for your help with this; we're deeply grateful."
+   },
+   {
+    "zh": "请大家把垃圾带走,一起保护这里的环境。",
+    "pinyin": "Qǐng dà jiā bǎ lā jī dài zǒu, yì qǐ bǎo hù zhè lǐ de huán jìng。",
+    "en": "Please take your trash with you and help protect the environment here."
+   },
+   {
+    "zh": "为了庆祝他升职,同事们请他好好吃了一顿。",
+    "pinyin": "Wèi le qìng zhù tā shēng zhí, tóng shì men qǐng tā hǎo hǎo chī le yī dùn。",
+    "en": "To celebrate his promotion, his colleagues treated him to a good meal."
+   },
+   {
+    "zh": "请你放心,这件事包在我身上,一定办好。",
+    "pinyin": "Qǐng nǐ fàng xīn, zhè jiàn shì bāo zài wǒ shēn shàng, yí dìng bàn hǎo。",
+    "en": "Rest assured; leave this to me, I'll definitely get it done."
+   }
+  ]
+ },
+ {
+  "id": "g099",
+  "level": 2,
+  "title": "\"要\" yardımcı fiilinin çok anlamlılığı",
+  "titleEn": "Auxiliary verb \"yao\" and its multiple meanings",
+  "pattern": "要 + İsim / 要 + Fiil",
+  "summary": "\"要\" (yào) bağlama göre \"istemek\", \"...-ecek/niyetinde olmak\", \"gerekmek/-meli\" ya da yakın gelecek (\"neredeyse\") anlamı taşır.",
+  "explanation": "\"要\" çok anlamlı bir yardımcı fiildir; anlamı bağlamdan çıkar: (1) İSTEMEK/almak istemek (isimle): 我要一杯茶 (Bir çay istiyorum). (2) NİYET/gelecek (fiille): 我要去北京 (Pekin'e gideceğim/gitmek istiyorum). (3) GEREKLİLİK: 你要注意身体 (Sağlığına dikkat etmelisin). (4) YAKIN GELECEK, çoğu zaman \"要...了\" ile: 火车要开了 (Tren birazdan kalkacak), 快要下雨了 (Neredeyse yağmur yağacak). Olumsuzları anlamına göre değişir: istememe \"不想\", gerekmeme \"不用/不必\" ile kurulur; \"不要\" ise \"...ma!\" (yasak) demektir. Bu esneklik \"要\"yı çok sık ama dikkat gerektiren bir sözcük yapar.",
+  "examples": [
+   {
+    "zh": "服务员,我要一杯热茶和一份点心,谢谢。",
+    "pinyin": "Fú wù yuán, wǒ yào yī bēi rè chá hé yī fèn diǎn xīn, xiè xiè。",
+    "en": "Waiter, I'd like a cup of hot tea and a pastry, thank you."
+   },
+   {
+    "zh": "放假以后,我要去南方好好玩几天。",
+    "pinyin": "Fàng jià yǐ hòu, wǒ yào qù nán fāng hǎo hǎo wán jǐ tiān。",
+    "en": "After the holiday, I'm going to travel south and have fun for a few days."
+   },
+   {
+    "zh": "天气变凉了,你要注意身体,别感冒了。",
+    "pinyin": "Tiān qì biàn liáng le, nǐ yào zhù yì shēn tǐ, bié gǎn mào le。",
+    "en": "The weather's turned cool; take care of your health and don't catch a cold."
+   },
+   {
+    "zh": "快点儿,火车要开了,再不上就赶不上了!",
+    "pinyin": "Kuài diǎn ér, huǒ chē yào kāi le, zài bù shàng jiù gǎn bù shàng le!",
+    "en": "Hurry, the train's about to leave; if you don't board now you'll miss it!"
+   },
+   {
+    "zh": "孩子说他长大以后要当一名科学家。",
+    "pinyin": "Hái zi shuō tā zhǎng dà yǐ hòu yào dāng yī míng kē xué jiā。",
+    "en": "The child says he wants to be a scientist when he grows up."
+   },
+   {
+    "zh": "这件事很重要,你要认真对待,不能马虎。",
+    "pinyin": "Zhè jiàn shì hěn zhòng yào, nǐ yào rèn zhēn duì dài, bù néng mǎ hǔ。",
+    "en": "This matter is important; you must take it seriously, no carelessness."
+   },
+   {
+    "zh": "看样子快要下雨了,我们还是早点回家吧。",
+    "pinyin": "Kàn yàng zi kuài yào xià yǔ le, wǒ men hái shì zǎo diǎn huí jiā ba。",
+    "en": "It looks like it's about to rain; let's head home early."
+   },
+   {
+    "zh": "我要买一台新电脑,旧的实在太慢了。",
+    "pinyin": "Wǒ yào mǎi yī tái xīn diàn nǎo, jiù de shí zài tài màn le。",
+    "en": "I want to buy a new computer; the old one is really too slow."
+   },
+   {
+    "zh": "明天要考试了,他今天晚上打算好好复习。",
+    "pinyin": "Míng tiān yào kǎo shì le, tā jīn tiān wǎn shàng dǎ suàn hǎo hǎo fù xí。",
+    "en": "There's an exam tomorrow, so tonight he plans to review thoroughly."
+   },
+   {
+    "zh": "你要是累了就休息,身体最重要,别硬撑。",
+    "pinyin": "Nǐ yào shì lèi le jiù xiū xī, shēn tǐ zuì zhòng yào, bié yìng chēng。",
+    "en": "If you're tired, rest; health matters most, don't push yourself."
+   },
+   {
+    "zh": "春节要到了,家家户户都开始打扫房子。",
+    "pinyin": "Chūn jié yào dào le, jiā jiā hù hù dōu kāi shǐ dǎ sǎo fáng zi。",
+    "en": "The Spring Festival is coming; every household is starting to clean house."
+   },
+   {
+    "zh": "我要减肥,所以最近不敢吃太多甜的东西。",
+    "pinyin": "Wǒ yào jiǎn féi, suǒ yǐ zuì jìn bù gǎn chī tài duō tián de dōng xī。",
+    "en": "I want to lose weight, so lately I don't dare eat too many sweets."
+   },
+   {
+    "zh": "你要记住,做人一定要诚实、守信用。",
+    "pinyin": "Nǐ yào jì zhù, zuò rén yí dìng yào chéng shí、 shǒu xìn yòng。",
+    "en": "Remember, one must be honest and keep one's word."
+   },
+   {
+    "zh": "电影马上就要开始了,大家把手机关了吧。",
+    "pinyin": "Diàn yǐng mǎ shàng jiù yào kāi shǐ le, dà jiā bǎ shǒu jī guān le ba。",
+    "en": "The movie is about to start; everyone please turn off your phones."
+   },
+   {
+    "zh": "他说他要请我们全班同学吃饭,庆祝毕业。",
+    "pinyin": "Tā shuō tā yào qǐng wǒ men quán bān tóng xué chī fàn, qìng zhù bì yè。",
+    "en": "He says he'll treat our whole class to a meal to celebrate graduation."
+   },
+   {
+    "zh": "你要多喝水,少喝饮料,这样对身体好。",
+    "pinyin": "Nǐ yào duō hē shuǐ, shǎo hē yǐn liào, zhè yàng duì shēn tǐ hǎo。",
+    "en": "You should drink more water and fewer soft drinks; it's better for you."
+   },
+   {
+    "zh": "天快要黑了,我们得抓紧时间赶到山下。",
+    "pinyin": "Tiān kuài yào hēi le, wǒ men děi zhuā jǐn shí jiān gǎn dào shān xià。",
+    "en": "It's about to get dark; we must hurry to reach the foot of the mountain."
+   },
+   {
+    "zh": "我要跟你商量一件事,你什么时候有空?",
+    "pinyin": "Wǒ yào gēn nǐ shāng liáng yī jiàn shì, nǐ shén me shí hòu yǒu kòng?",
+    "en": "I want to discuss something with you; when are you free?"
+   },
+   {
+    "zh": "孩子要上学了,做父母的心里既高兴又担心。",
+    "pinyin": "Hái zi yào shàng xué le, zuò fù mǔ de xīn lǐ jì gāo xìng yòu dān xīn。",
+    "en": "The child is about to start school; the parents feel both happy and anxious."
+   },
+   {
+    "zh": "你要真心对待朋友,别人才会真心对你。",
+    "pinyin": "Nǐ yào zhēn xīn duì dài péng yǒu, bié rén cái huì zhēn xīn duì nǐ。",
+    "en": "You must treat friends sincerely, and only then will they treat you the same."
+   },
+   {
+    "zh": "这道菜要多放点盐,不然一点味道都没有。",
+    "pinyin": "Zhè dào cài yào duō fàng diǎn yán, bù rán yì diǎn wèi dào dōu méi yǒu。",
+    "en": "This dish needs more salt, or it'll have no flavor at all."
+   },
+   {
+    "zh": "我们快要到站了,你把行李收拾一下吧。",
+    "pinyin": "Wǒ men kuài yào dào zhàn le, nǐ bǎ xíng lǐ shōu shí yī xià ba。",
+    "en": "We're about to reach the station; gather up your luggage."
+   },
+   {
+    "zh": "他下决心要把汉语学好,每天都坚持练习。",
+    "pinyin": "Tā xià jué xīn yào bǎ hàn yǔ xué hǎo, měi tiān dōu jiān chí liàn xí。",
+    "en": "He's determined to master Chinese and practices every day."
+   },
+   {
+    "zh": "你要是想去,现在就得出发,再晚就来不及了。",
+    "pinyin": "Nǐ yào shì xiǎng qù, xiàn zài jiù dé chū fā, zài wǎn jiù lái bù jí le。",
+    "en": "If you want to go, you must leave now; any later and it'll be too late."
+   },
+   {
+    "zh": "秋天要来了,树上的叶子渐渐变黄了。",
+    "pinyin": "Qiū tiān yào lái le, shù shàng de yè zi jiàn jiàn biàn huáng le。",
+    "en": "Autumn is coming; the leaves on the trees are gradually turning yellow."
+   }
+  ]
+ },
+ {
+  "id": "g100",
+  "level": 2,
+  "title": "\"应该\" ile \"-meli, gerekir\"",
+  "titleEn": "Expressing \"should\" with \"yinggai\"",
+  "pattern": "应该 / 该 + Fiil",
+  "summary": "\"应该\" (yīnggāi) bir gereklilik ya da beklenti bildirir: \"...-meli, ...-mesi gerekir\": 你应该多休息 = Daha çok dinlenmelisin.",
+  "explanation": "\"应该\" (kısaca \"该\") bir fiilin önüne gelerek \"...-meli, ...-mesi gerekir, doğru olan budur\" anlamı verir; ahlaki/mantıksal bir gereklilik ya da tavsiye bildirir: 你应该早点睡 (Erken yatmalısın), 我们应该帮助他 (Ona yardım etmeliyiz). Ayrıca güçlü bir TAHMİN/beklenti de bildirir: 他应该快到了 (Gelmek üzeredir herhâlde). Olumsuzu \"不应该\" = \"...-memeli\": 你不应该对他撒谎 (Ona yalan söylememeliydin). Konuşma dilinde çoğu zaman \"该\"a kısalır: 该走了 (Gitme vakti / gitmeliyiz). Tavsiye, uyarı ve beklenti anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "你最近脸色不好,应该早点休息,别熬夜了。",
+    "pinyin": "Nǐ zuì jìn liǎn sè bù hǎo, yīng gāi zǎo diǎn xiū xī, bié áo yè le。",
+    "en": "You've looked unwell lately; you should rest early and stop staying up."
+   },
+   {
+    "zh": "做错了事就应该道歉,这没什么丢人的。",
+    "pinyin": "Zuò cuò liǎo shì jiù yīng gāi dào qiàn, zhè méi shén me diū rén de。",
+    "en": "If you've done wrong, you should apologize; there's nothing shameful in it."
+   },
+   {
+    "zh": "时间不早了,孩子们应该回家写作业了。",
+    "pinyin": "Shí jiān bù zǎo le, hái zi men yīng gāi huí jiā xiě zuò yè le。",
+    "en": "It's getting late; the children should go home and do their homework."
+   },
+   {
+    "zh": "他学得这么努力,这次考试应该没问题。",
+    "pinyin": "Tā xué de zhè me nǔ lì, zhè cì kǎo shì yīng gāi méi wèn tí。",
+    "en": "He's studied so hard; this exam should be no problem for him."
+   },
+   {
+    "zh": "我们应该珍惜和家人在一起的每一天。",
+    "pinyin": "Wǒ men yīng gāi zhēn xī hé jiā rén zài yì qǐ de měi yī tiān。",
+    "en": "We should cherish every day we spend with family."
+   },
+   {
+    "zh": "你不应该在背后说别人的坏话。",
+    "pinyin": "Nǐ bù yīng gāi zài bèi hòu shuō bié rén de huài huà。",
+    "en": "You shouldn't speak ill of others behind their backs."
+   },
+   {
+    "zh": "这么晚了他还没到,路上应该是堵车了。",
+    "pinyin": "Zhè me wǎn le tā hái méi dào, lù shàng yīng gāi shì dǔ chē le。",
+    "en": "It's so late and he's not here; there must be a traffic jam."
+   },
+   {
+    "zh": "年轻人应该多出去看看,增长见识。",
+    "pinyin": "Nián qīng rén yīng gāi duō chū qù kàn kàn, zēng zhǎng jiàn shí。",
+    "en": "Young people should go out more and broaden their horizons."
+   },
+   {
+    "zh": "你答应了别人的事,就应该说到做到。",
+    "pinyin": "Nǐ dā yìng le bié rén de shì, jiù yīng gāi shuō dào zuò dào。",
+    "en": "Once you've promised someone something, you should follow through."
+   },
+   {
+    "zh": "天气预报说明天有雨,我们应该带把伞。",
+    "pinyin": "Tiān qì yù bào shuō míng tiān yǒu yǔ, wǒ men yīng gāi dài bǎ sǎn。",
+    "en": "The forecast says rain tomorrow; we should bring an umbrella."
+   },
+   {
+    "zh": "遇到困难的时候,朋友之间应该互相帮助。",
+    "pinyin": "Yù dào kùn nán de shí hòu, péng yǒu zhī jiān yīng gāi hù xiāng bāng zhù。",
+    "en": "When facing difficulties, friends should help one another."
+   },
+   {
+    "zh": "这件事是我做得不对,我应该向你说声对不起。",
+    "pinyin": "Zhè jiàn shì shì wǒ zuò de bú duì, wǒ yīng gāi xiàng nǐ shuō shēng duì bù qǐ。",
+    "en": "I was in the wrong on this; I should say sorry to you."
+   },
+   {
+    "zh": "他这个年纪,应该学会自己安排时间了。",
+    "pinyin": "Tā zhè ge nián jì, yīng gāi xué huì zì jǐ ān pái shí jiān le。",
+    "en": "At his age, he should learn to manage his own time."
+   },
+   {
+    "zh": "菜已经上齐了,他也该到了吧,再等他一会儿。",
+    "pinyin": "Cài yǐ jīng shàng qí le, tā yě gāi dào le ba, zài děng tā yī huì er。",
+    "en": "The dishes are all served; he should arrive soon, let's wait a bit."
+   },
+   {
+    "zh": "我们不应该因为一次失败就失去信心。",
+    "pinyin": "Wǒ men bù yīng gāi yīn wèi yī cì shī bài jiù shī qù xìn xīn。",
+    "en": "We shouldn't lose confidence over a single failure."
+   },
+   {
+    "zh": "你身体不舒服,就应该去看医生,别拖着。",
+    "pinyin": "Nǐ shēn tǐ bù shū fú, jiù yīng gāi qù kàn yī shēng, bié tuō zhe。",
+    "en": "If you're unwell, you should see a doctor; don't put it off."
+   },
+   {
+    "zh": "好不容易放假了,你应该好好放松放松。",
+    "pinyin": "Hǎo bù róng yì fàng jià le, nǐ yīng gāi hǎo hǎo fàng sōng fàng sōng。",
+    "en": "You finally have a holiday; you should relax properly."
+   },
+   {
+    "zh": "这么重要的日子,他应该不会忘记吧。",
+    "pinyin": "Zhè me zhòng yào de rì zi, tā yīng gāi bú huì wàng jì ba。",
+    "en": "Such an important day — surely he won't forget it."
+   },
+   {
+    "zh": "做人应该懂得感恩,别把别人的付出当成理所当然。",
+    "pinyin": "Zuò rén yīng gāi dǒng de gǎn ēn, bié bǎ bié rén de fù chū dàng chéng lǐ suǒ dāng rán。",
+    "en": "One should know gratitude and not take others' efforts for granted."
+   },
+   {
+    "zh": "都这个点儿了,该睡觉了,明天还要早起呢。",
+    "pinyin": "Dōu zhè ge diǎn ér le, gāi shuì jiào le, míng tiān hái yào zǎo qǐ ne。",
+    "en": "It's this late already; time to sleep, we have to get up early tomorrow."
+   },
+   {
+    "zh": "你既然喜欢那份工作,就应该勇敢去争取。",
+    "pinyin": "Nǐ jì rán xǐ huān nà fèn gōng zuò, jiù yīng gāi yǒng gǎn qù zhēng qǔ。",
+    "en": "Since you like that job, you should bravely go after it."
+   },
+   {
+    "zh": "客人快到了,我们应该提前把桌子准备好。",
+    "pinyin": "Kè rén kuài dào le, wǒ men yīng gāi tí qián bǎ zhuō zi zhǔn bèi hǎo。",
+    "en": "The guests are arriving soon; we should set the table in advance."
+   },
+   {
+    "zh": "他为这个家付出了这么多,我们应该理解他。",
+    "pinyin": "Tā wèi zhè ge jiā fù chū le zhè me duō, wǒ men yīng gāi lǐ jiě tā。",
+    "en": "He's given so much to this family; we should understand him."
+   },
+   {
+    "zh": "这种小事你自己应该能处理好,不用什么都问我。",
+    "pinyin": "Zhè zhǒng xiǎo shì nǐ zì jǐ yīng gāi néng chǔ lǐ hǎo, bù yòng shén me dōu wèn wǒ。",
+    "en": "You should be able to handle such small things yourself, without always asking me."
+   },
+   {
+    "zh": "努力了不一定成功,但不努力就应该想到会失败。",
+    "pinyin": "Nǔ lì le bù yí dìng chéng gōng, dàn bù nǔ lì jiù yīng gāi xiǎng dào huì shī bài。",
+    "en": "Effort doesn't guarantee success, but without it you should expect to fail."
+   }
+  ]
  }
 ]

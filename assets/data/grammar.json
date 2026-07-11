@@ -9518,5 +9518,685 @@
     "en": "Although the road is long, to see you I'd be willing to come no matter how far."
    }
   ]
+ },
+ {
+  "id": "g071",
+  "level": 2,
+  "title": "\"以后\" ile \"-den sonra\" (belirli zaman)",
+  "titleEn": "After a specific time with \"yihou\"",
+  "pattern": "Zaman / Fiil + 以后",
+  "summary": "\"以后\" (yǐhòu) bir zaman ya da eylemin ARKASINA gelip \"...-den sonra\" der: 下班以后 = işten sonra; 吃饭以后 = yemekten sonra.",
+  "explanation": "Belirli bir olayın ya da zamanın ardından bir şeyi anlatmak için \"以后\" o zaman/eylemin SONUNA eklenir: 下课以后 (dersten sonra), 三点以后 (saat üçten sonra), 我回家以后 (eve döndükten sonra). Türkçenin aksine \"以后\" niteldiği ifadenin ARKASINDADIR, önünde değil. Bir fiil öbeğinden sonra gelerek \"...dıktan sonra\" anlamı verir. Karşıtı \"以前\" (önce). \"以后\" tek başına cümle başında da \"bundan sonra, ilerde\" anlamında kullanılır (bkz. ayrı konu).",
+  "examples": [
+   {
+    "zh": "下班以后,我常常去健身房锻炼一个小时。",
+    "pinyin": "Xià bān yǐ hòu, wǒ cháng cháng qù jiàn shēn fáng duàn liàn yí gè xiǎo shí。",
+    "en": "After work I often go to the gym to exercise for an hour."
+   },
+   {
+    "zh": "吃完晚饭以后,我们一家人一起看了会儿电视。",
+    "pinyin": "Chī wán wǎn fàn yǐ hòu, wǒ men yī jiā rén yì qǐ kàn le huì er diàn shì。",
+    "en": "After dinner, our family watched TV together for a while."
+   },
+   {
+    "zh": "大学毕业以后,他决定回老家开一家小书店。",
+    "pinyin": "Dà xué bì yè yǐ hòu, tā jué dìng huí lǎo jiā kāi yī jiā xiǎo shū diàn。",
+    "en": "After graduating from university, he decided to go home and open a small bookstore."
+   },
+   {
+    "zh": "到了北京以后,记得马上给妈妈打个电话。",
+    "pinyin": "Dào le běi jīng yǐ hòu, jì de mǎ shàng gěi mā mā dǎ gè diàn huà。",
+    "en": "After you arrive in Beijing, remember to call your mom right away."
+   },
+   {
+    "zh": "学了三年汉语以后,她终于能看懂中文报纸了。",
+    "pinyin": "Xué le sān nián hàn yǔ yǐ hòu, tā zhōng yú néng kàn dǒng zhōng wén bào zhǐ le。",
+    "en": "After studying Chinese for three years, she can finally read Chinese newspapers."
+   },
+   {
+    "zh": "九点以后图书馆就关门了,你得早点去。",
+    "pinyin": "Jiǔ diǎn yǐ hòu tú shū guǎn jiù guān mén le, nǐ děi zǎo diǎn qù。",
+    "en": "The library closes after nine, so you'd better go early."
+   },
+   {
+    "zh": "下过雨以后,空气变得特别新鲜。",
+    "pinyin": "Xià guò yǔ yǐ hòu, kōng qì biàn de tè bié xīn xiān。",
+    "en": "After it rains, the air becomes especially fresh."
+   },
+   {
+    "zh": "结婚以后,他们搬到了一个安静的小城市。",
+    "pinyin": "Jié hūn yǐ hòu, tā men bān dào le yí gè ān jìng de xiǎo chéng shì。",
+    "en": "After getting married, they moved to a quiet small city."
+   },
+   {
+    "zh": "看完这部电影以后,我好几天都忘不了那个故事。",
+    "pinyin": "Kàn wán zhè bù diàn yǐng yǐ hòu, wǒ hǎo jǐ tiān dōu wàng bù liǎo nà ge gù shì。",
+    "en": "After watching this movie, I couldn't forget the story for days."
+   },
+   {
+    "zh": "放假以后,你有什么打算?想不想一起去旅行?",
+    "pinyin": "Fàng jià yǐ hòu, nǐ yǒu shén me dǎ suàn? xiǎng bù xiǎng yì qǐ qù lǚ xíng?",
+    "en": "After the holiday starts, what are your plans? Want to travel together?"
+   },
+   {
+    "zh": "他每天写完作业以后,才可以出去玩儿。",
+    "pinyin": "Tā měi tiān xiě wán zuò yè yǐ hòu, cái kě yǐ chū qù wán ér。",
+    "en": "Every day he can only go out to play after finishing his homework."
+   },
+   {
+    "zh": "退休以后,爷爷开始学画画,现在画得越来越好。",
+    "pinyin": "Tuì xiū yǐ hòu, yé yé kāi shǐ xué huà huà, xiàn zài huà de yuè lái yuè hǎo。",
+    "en": "After retiring, grandpa took up painting and now paints better and better."
+   },
+   {
+    "zh": "上了年纪以后,他才明白健康比什么都重要。",
+    "pinyin": "Shàng le nián jì yǐ hòu, tā cái míng bái jiàn kāng bǐ shén me dōu zhòng yào。",
+    "en": "Only after getting older did he realize health matters more than anything."
+   },
+   {
+    "zh": "吃药以后你先躺一会儿,别马上出门。",
+    "pinyin": "Chī yào yǐ hòu nǐ xiān tǎng yī huì er, bié mǎ shàng chū mén。",
+    "en": "After taking the medicine, lie down for a bit; don't go out right away."
+   },
+   {
+    "zh": "搬到新家以后,孩子上学方便多了。",
+    "pinyin": "Bān dào xīn jiā yǐ hòu, hái zi shàng xué fāng biàn duō le。",
+    "en": "After moving to the new home, it's much more convenient for the kids to get to school."
+   },
+   {
+    "zh": "认识他以后,我才知道原来他这么幽默。",
+    "pinyin": "Rèn shí tā yǐ hòu, wǒ cái zhī dào yuán lái tā zhè me yōu mò。",
+    "en": "Only after meeting him did I learn how funny he actually is."
+   },
+   {
+    "zh": "下了飞机以后,我打算先找个地方吃点东西。",
+    "pinyin": "Xià le fēi jī yǐ hòu, wǒ dǎ suàn xiān zhǎo gè dì fāng chī diǎn dōng xī。",
+    "en": "After getting off the plane, I plan to find somewhere to eat first."
+   },
+   {
+    "zh": "十二点以后别再喝咖啡了,不然晚上睡不着。",
+    "pinyin": "Shí èr diǎn yǐ hòu bié zài hē kā fēi le, bù rán wǎn shàng shuì bù zhe。",
+    "en": "Don't drink coffee after twelve, or you won't sleep at night."
+   },
+   {
+    "zh": "考完试以后,我们班的同学一起去唱歌了。",
+    "pinyin": "Kǎo wán shì yǐ hòu, wǒ men bān de tóng xué yì qǐ qù chàng gē le。",
+    "en": "After the exams, our classmates went to sing together."
+   },
+   {
+    "zh": "工作几年以后,他慢慢懂得了钱不是最重要的。",
+    "pinyin": "Gōng zuò jǐ nián yǐ hòu, tā màn màn dǒng de le qián bú shì zuì zhòng yào de。",
+    "en": "After working for a few years, he gradually understood money isn't the most important thing."
+   },
+   {
+    "zh": "孩子长大以后,离开了家去外地上大学。",
+    "pinyin": "Hái zi zhǎng dà yǐ hòu, lí kāi le jiā qù wài dì shàng dà xué。",
+    "en": "After the child grew up, he left home to attend university in another city."
+   },
+   {
+    "zh": "洗完澡以后,喝一杯热牛奶会睡得更香。",
+    "pinyin": "Xǐ wán zǎo yǐ hòu, hē yī bēi rè niú nǎi huì shuì de gèng xiāng。",
+    "en": "After a shower, a cup of hot milk helps you sleep more soundly."
+   },
+   {
+    "zh": "听了老师的话以后,他决定重新努力一次。",
+    "pinyin": "Tīng le lǎo shī de huà yǐ hòu, tā jué dìng chóng xīn nǔ lì yī cì。",
+    "en": "After hearing the teacher's words, he decided to try hard once more."
+   },
+   {
+    "zh": "春节以后,很多人都开始计划新一年的目标。",
+    "pinyin": "Chūn jié yǐ hòu, hěn duō rén dōu kāi shǐ jì huà xīn yī nián de mù biāo。",
+    "en": "After the Spring Festival, many people start planning their goals for the new year."
+   },
+   {
+    "zh": "等你回来以后,咱们再一起商量这件事吧。",
+    "pinyin": "Děng nǐ huí lái yǐ hòu, zán men zài yì qǐ shāng liáng zhè jiàn shì ba。",
+    "en": "Let's discuss this matter together after you come back."
+   }
+  ]
+ },
+ {
+  "id": "g072",
+  "level": 2,
+  "title": "\"以前\" ile \"-den önce\" (belirli zaman)",
+  "titleEn": "Before a specific time with \"yiqian\"",
+  "pattern": "Zaman / Fiil + 以前",
+  "summary": "\"以前\" (yǐqián) bir zaman ya da eylemin ARKASINA gelip \"...-den önce\" der: 睡觉以前 = uyumadan önce; 吃饭以前 = yemekten önce.",
+  "explanation": "Belirli bir olay ya da zamandan önceki durumu anlatmak için \"以前\" o ifadenin SONUNA eklenir: 吃饭以前 (yemekten önce), 十点以前 (saat ondan önce), 来中国以前 (Çin'e gelmeden önce). \"以后\" gibi, \"以前\" de niteldiği öbeğin arkasında yer alır. Bir fiil öbeğinden sonra gelerek \"...madan önce\" anlamı verir. Cümle başında tek başına da \"eskiden, önceden\" anlamında kullanılabilir (bkz. ayrı konu).",
+  "examples": [
+   {
+    "zh": "睡觉以前,我习惯看半个小时书。",
+    "pinyin": "Shuì jiào yǐ qián, wǒ xí guàn kàn bàn gè xiǎo shí shū。",
+    "en": "Before sleeping, I'm used to reading for half an hour."
+   },
+   {
+    "zh": "吃饭以前一定要洗手,这是妈妈从小教我的。",
+    "pinyin": "Chī fàn yǐ qián yí dìng yào xǐ shǒu, zhè shì mā mā cóng xiǎo jiào wǒ de。",
+    "en": "You must wash your hands before eating; mom taught me that since I was little."
+   },
+   {
+    "zh": "来中国以前,我一句中文都不会说。",
+    "pinyin": "Lái zhōng guó yǐ qián, wǒ yī jù zhōng wén dōu bú huì shuō。",
+    "en": "Before coming to China, I couldn't speak a word of Chinese."
+   },
+   {
+    "zh": "考试以前,他每天晚上都复习到很晚。",
+    "pinyin": "Kǎo shì yǐ qián, tā měi tiān wǎn shàng dōu fù xí dào hěn wǎn。",
+    "en": "Before the exam, he reviewed until late every night."
+   },
+   {
+    "zh": "出门以前,记得检查一下门窗关好了没有。",
+    "pinyin": "Chū mén yǐ qián, jì de jiǎn chá yī xià mén chuāng guān hǎo le méi yǒu。",
+    "en": "Before going out, remember to check whether the doors and windows are shut."
+   },
+   {
+    "zh": "八点以前你必须到,不然就赶不上车了。",
+    "pinyin": "Bā diǎn yǐ qián nǐ bì xū dào, bù rán jiù gǎn bù shàng chē le。",
+    "en": "You must arrive before eight, or you'll miss the bus."
+   },
+   {
+    "zh": "结婚以前,他们已经认识十年了。",
+    "pinyin": "Jié hūn yǐ qián, tā men yǐ jīng rèn shí shí nián le。",
+    "en": "Before getting married, they had already known each other for ten years."
+   },
+   {
+    "zh": "做决定以前,你最好多听听别人的意见。",
+    "pinyin": "Zuò jué dìng yǐ qián, nǐ zuì hǎo duō tīng tīng bié rén de yì jiàn。",
+    "en": "Before making a decision, you'd better listen to others' opinions."
+   },
+   {
+    "zh": "天黑以前,我们得赶回山下的旅馆。",
+    "pinyin": "Tiān hēi yǐ qián, wǒ men děi gǎn huí shān xià de lǚ guǎn。",
+    "en": "Before dark, we need to get back to the hotel at the foot of the mountain."
+   },
+   {
+    "zh": "上课以前,老师让我们先预习新的内容。",
+    "pinyin": "Shàng kè yǐ qián, lǎo shī ràng wǒ men xiān yù xí xīn de nèi róng。",
+    "en": "Before class, the teacher had us preview the new material."
+   },
+   {
+    "zh": "放假以前,大家都在忙着准备考试。",
+    "pinyin": "Fàng jià yǐ qián, dà jiā dōu zài máng zhe zhǔn bèi kǎo shì。",
+    "en": "Before the holiday, everyone was busy preparing for exams."
+   },
+   {
+    "zh": "搬家以前,我们把不用的东西都送人了。",
+    "pinyin": "Bān jiā yǐ qián, wǒ men bǎ bù yòng de dōng xī dōu sòng rén le。",
+    "en": "Before moving, we gave away all the things we didn't need."
+   },
+   {
+    "zh": "三十岁以前,他几乎走遍了大半个中国。",
+    "pinyin": "Sān shí suì yǐ qián, tā jī hū zǒu biàn le dà bàn gè zhōng guó。",
+    "en": "Before turning thirty, he had traveled across most of China."
+   },
+   {
+    "zh": "回答问题以前,请先认真想清楚。",
+    "pinyin": "Huí dá wèn tí yǐ qián, qǐng xiān rèn zhēn xiǎng qīng chǔ。",
+    "en": "Before answering the question, please think it through carefully."
+   },
+   {
+    "zh": "下雨以前,天上的云变得又黑又厚。",
+    "pinyin": "Xià yǔ yǐ qián, tiān shàng de yún biàn de yòu hēi yòu hòu。",
+    "en": "Before it rained, the clouds in the sky turned dark and thick."
+   },
+   {
+    "zh": "认识你以前,我从来没吃过这么辣的菜。",
+    "pinyin": "Rèn shí nǐ yǐ qián, wǒ cóng lái méi chī guò zhè me là de cài。",
+    "en": "Before I met you, I'd never eaten such spicy food."
+   },
+   {
+    "zh": "过马路以前,一定要先看看左右两边。",
+    "pinyin": "Guò mǎ lù yǐ qián, yí dìng yào xiān kàn kàn zuǒ yòu liǎng biān。",
+    "en": "Before crossing the road, you must look both ways first."
+   },
+   {
+    "zh": "开会以前,请大家把手机调成静音。",
+    "pinyin": "Kāi huì yǐ qián, qǐng dà jiā bǎ shǒu jī diào chéng jìng yīn。",
+    "en": "Before the meeting, please set your phones to silent."
+   },
+   {
+    "zh": "退休以前,他在这家公司工作了整整三十年。",
+    "pinyin": "Tuì xiū yǐ qián, tā zài zhè jiā gōng sī gōng zuò le zhěng zhěng sān shí nián。",
+    "en": "Before retiring, he worked at this company for a full thirty years."
+   },
+   {
+    "zh": "睡觉以前喝太多水,晚上容易起夜。",
+    "pinyin": "Shuì jiào yǐ qián hē tài duō shuǐ, wǎn shàng róng yì qǐ yè。",
+    "en": "Drinking too much water before bed makes you get up at night."
+   },
+   {
+    "zh": "比赛以前,教练又把重要的地方讲了一遍。",
+    "pinyin": "Bǐ sài yǐ qián, jiào liàn yòu bǎ zhòng yào de dì fāng jiǎng le yī biàn。",
+    "en": "Before the match, the coach went over the important points once more."
+   },
+   {
+    "zh": "买东西以前,先想想是不是真的需要。",
+    "pinyin": "Mǎi dōng xī yǐ qián, xiān xiǎng xiǎng shì bú shì zhēn de xū yào。",
+    "en": "Before buying something, first think about whether you really need it."
+   },
+   {
+    "zh": "离开家以前,妈妈往我包里放了很多吃的。",
+    "pinyin": "Lí kāi jiā yǐ qián, mā mā wǎng wǒ bāo lǐ fàng le hěn duō chī de。",
+    "en": "Before I left home, mom put lots of snacks in my bag."
+   },
+   {
+    "zh": "天亮以前,渔民们就已经出海了。",
+    "pinyin": "Tiān liàng yǐ qián, yú mín men jiù yǐ jīng chū hǎi le。",
+    "en": "Before dawn, the fishermen had already set out to sea."
+   },
+   {
+    "zh": "说这句话以前,他犹豫了很久。",
+    "pinyin": "Shuō zhè jù huà yǐ qián, tā yóu yù le hěn jiǔ。",
+    "en": "Before saying this, he hesitated for a long time."
+   }
+  ]
+ },
+ {
+  "id": "g073",
+  "level": 2,
+  "title": "\"以前\" ile \"eskiden, önceden\" (genel)",
+  "titleEn": "Expressing \"before\" in general with \"yiqian\"",
+  "pattern": "以前，...",
+  "summary": "Cümle başında tek başına \"以前\" (yǐqián) \"eskiden, önceden\" anlamı verir: 以前我住在北京 = Eskiden Pekin'de otururdum.",
+  "explanation": "\"以前\" belirli bir olaya bağlanmadan, tek başına cümlenin başında (ya da öznenin hemen ardında) kullanıldığında \"eskiden, önceden, geçmişte\" anlamına gelir ve genel bir geçmiş durumu bugünle karşılaştırır: 以前这里是一片农田,现在都是高楼了 (Eskiden burası tarlaydı, şimdi hep gökdelen oldu). Çoğu zaman \"现在\" (şimdi) ile birlikte, geçmiş ile bugün arasındaki değişimi vurgulamak için gelir. Belirli bir zaman/fiile bağlı \"...-den önce\" anlamından (bkz. ayrı konu) bağlamla ayrılır.",
+  "examples": [
+   {
+    "zh": "以前我住在北京,后来因为工作搬到了上海。",
+    "pinyin": "Yǐ qián wǒ zhù zài běi jīng, hòu lái yīn wèi gōng zuò bān dào le shàng hǎi。",
+    "en": "I used to live in Beijing; later I moved to Shanghai for work."
+   },
+   {
+    "zh": "以前这条街很安静,现在到处都是商店和饭馆。",
+    "pinyin": "Yǐ qián zhè tiáo jiē hěn ān jìng, xiàn zài dào chù dōu shì shāng diàn hé fàn guǎn。",
+    "en": "This street used to be quiet; now it's full of shops and restaurants."
+   },
+   {
+    "zh": "以前他不爱说话,现在变得开朗多了。",
+    "pinyin": "Yǐ qián tā bù ài shuō huà, xiàn zài biàn de kāi lǎng duō le。",
+    "en": "He used to be quiet; now he's become much more outgoing."
+   },
+   {
+    "zh": "我以前不喜欢吃辣的,可是来了四川以后就习惯了。",
+    "pinyin": "Wǒ yǐ qián bù xǐ huān chī là de, kě shì lái le sì chuān yǐ hòu jiù xí guàn le。",
+    "en": "I used to dislike spicy food, but after coming to Sichuan I got used to it."
+   },
+   {
+    "zh": "以前没有手机的时候,大家都是写信联系的。",
+    "pinyin": "Yǐ qián méi yǒu shǒu jī de shí hòu, dà jiā dōu shì xiě xìn lián xì de。",
+    "en": "Before there were phones, everyone kept in touch by writing letters."
+   },
+   {
+    "zh": "这个地方我以前来过一次,变化真是太大了。",
+    "pinyin": "Zhè ge dì fāng wǒ yǐ qián lái guò yī cì, biàn huà zhēn shì tài dà le。",
+    "en": "I came here once before; the changes are really huge."
+   },
+   {
+    "zh": "以前她身体不太好,现在天天锻炼,精神好多了。",
+    "pinyin": "Yǐ qián tā shēn tǐ bù tài hǎo, xiàn zài tiān tiān duàn liàn, jīng shén hǎo duō le。",
+    "en": "She used to be in poor health; now she exercises daily and feels much better."
+   },
+   {
+    "zh": "我们以前是同学,毕业以后就很少见面了。",
+    "pinyin": "Wǒ men yǐ qián shì tóng xué, bì yè yǐ hòu jiù hěn shǎo jiàn miàn le。",
+    "en": "We used to be classmates; after graduation we rarely met."
+   },
+   {
+    "zh": "以前坐火车去要一天,现在坐高铁三个小时就到了。",
+    "pinyin": "Yǐ qián zuò huǒ chē qù yào yī tiān, xiàn zài zuò gāo tiě sān gè xiǎo shí jiù dào le。",
+    "en": "It used to take a whole day by train; now the high-speed rail gets there in three hours."
+   },
+   {
+    "zh": "爸爸说,他们以前的生活比现在苦得多。",
+    "pinyin": "Bà bà shuō, tā men yǐ qián de shēng huó bǐ xiàn zài kǔ de duō。",
+    "en": "Dad says their life used to be much harder than now."
+   },
+   {
+    "zh": "以前我总觉得时间过得很慢,长大以后才发现越来越快。",
+    "pinyin": "Yǐ qián wǒ zǒng jué de shí jiān guò de hěn màn, zhǎng dà yǐ hòu cái fā xiàn yuè lái yuè kuài。",
+    "en": "I used to feel time passed slowly; after growing up I realized it goes faster and faster."
+   },
+   {
+    "zh": "这家店以前生意很好,不知道为什么现在关门了。",
+    "pinyin": "Zhè jiā diàn yǐ qián shēng yì hěn hǎo, bù zhī dào wèi shén me xiàn zài guān mén le。",
+    "en": "This shop used to do good business; I don't know why it's closed now."
+   },
+   {
+    "zh": "以前村里没有学校,孩子们要走很远的路去上学。",
+    "pinyin": "Yǐ qián cūn lǐ méi yǒu xué xiào, hái zi men yào zǒu hěn yuǎn de lù qù shàng xué。",
+    "en": "The village used to have no school, so children walked a long way to study."
+   },
+   {
+    "zh": "我以前从来不看书,是你让我爱上了阅读。",
+    "pinyin": "Wǒ yǐ qián cóng lái bù kàn shū, shì nǐ ràng wǒ ài shàng le yuè dú。",
+    "en": "I never used to read; you're the one who made me fall in love with reading."
+   },
+   {
+    "zh": "以前的照片都是黑白的,现在早就是彩色的了。",
+    "pinyin": "Yǐ qián de zhào piān dōu shì hēi bái de, xiàn zài zǎo jiù shì cǎi sè de le。",
+    "en": "Photos used to be black and white; now they've long been in color."
+   },
+   {
+    "zh": "他以前很瘦,这两年一下子胖了不少。",
+    "pinyin": "Tā yǐ qián hěn shòu, zhè liǎng nián yī xià zi pàng le bù shǎo。",
+    "en": "He used to be thin; over the past two years he's gained quite a bit."
+   },
+   {
+    "zh": "以前我们家很小,一家五口挤在一间屋子里。",
+    "pinyin": "Yǐ qián wǒ men jiā hěn xiǎo, yī jiā wǔ kǒu jǐ zài yī jiān wū zi lǐ。",
+    "en": "Our home used to be small; five of us squeezed into one room."
+   },
+   {
+    "zh": "以前这里的天很蓝,可惜后来越来越少见了。",
+    "pinyin": "Yǐ qián zhè lǐ de tiān hěn lán, kě xī hòu lái yuè lái yuè shǎo jiàn le。",
+    "en": "The sky here used to be very blue; sadly that became rarer over time."
+   },
+   {
+    "zh": "你别看他现在这么厉害,以前也是从零学起的。",
+    "pinyin": "Nǐ bié kàn tā xiàn zài zhè me lì hài, yǐ qián yě shì cóng líng xué qǐ de。",
+    "en": "Don't be fooled by how skilled he is now; he too started from scratch."
+   },
+   {
+    "zh": "以前每到过年,全家人都会回老家团聚。",
+    "pinyin": "Yǐ qián měi dào guò nián, quán jiā rén dū huì huí lǎo jiā tuán jù。",
+    "en": "In the past, every New Year the whole family would return home to reunite."
+   },
+   {
+    "zh": "我以前的想法很简单,只想找个稳定的工作。",
+    "pinyin": "Wǒ yǐ qián de xiǎng fǎ hěn jiǎn dān, zhǐ xiǎng zhǎo gè wěn dìng de gōng zuò。",
+    "en": "My thinking used to be simple: I just wanted a stable job."
+   },
+   {
+    "zh": "这种老式的自行车,以前几乎家家都有一辆。",
+    "pinyin": "Zhè zhǒng lǎo shì de zì xíng chē, yǐ qián jī hū jiā jiā dōu yǒu yī liàng。",
+    "en": "This kind of old bicycle — almost every household used to have one."
+   },
+   {
+    "zh": "以前她说话很小声,当了老师以后声音大多了。",
+    "pinyin": "Yǐ qián tā shuō huà hěn xiǎo shēng, dāng le lǎo shī yǐ hòu shēng yīn dà duō le。",
+    "en": "She used to speak softly; after becoming a teacher her voice got much louder."
+   },
+   {
+    "zh": "以前我不明白父母的辛苦,自己有了孩子才懂。",
+    "pinyin": "Yǐ qián wǒ bù míng bái fù mǔ de xīn kǔ, zì jǐ yǒu le hái zi cái dǒng。",
+    "en": "I didn't understand my parents' hardships before; only after having a child did I get it."
+   },
+   {
+    "zh": "这座桥以前是木头的,后来才修成了现在的样子。",
+    "pinyin": "Zhè zuò qiáo yǐ qián shì mù tou de, hòu lái cái xiū chéng le xiàn zài de yàng zi。",
+    "en": "This bridge used to be wooden; only later was it rebuilt into its current form."
+   }
+  ]
+ },
+ {
+  "id": "g074",
+  "level": 2,
+  "title": "\"刚才\" ile \"az önce, demin\"",
+  "titleEn": "Expressing \"just now\" with \"gangcai\"",
+  "pattern": "刚才 + Fiil",
+  "summary": "\"刚才\" (gāngcái) \"az önce, demin\" demektir ve yakın geçmişteki bir andan söz eder: 刚才他来过 = Az önce o gelmişti.",
+  "explanation": "\"刚才\" bir zaman sözcüğüdür ve \"az önce, biraz önce, demin\" anlamına gelir; konuşma anından hemen önceki kısa bir zamanı gösterir. Genelde öznenin önünde ya da hemen ardında gelir: 刚才谁给我打电话了? (Az önce bana kim aradı?). \"刚\" (gāng) ile karıştırılmamalı: \"刚才\" bir ZAMAN sözcüğüdür (isim gibi, tek başına durabilir, olumsuzu 没 ile olur), \"刚\" ise bir ZARFTIR ve fiilin hemen önünde durur. \"刚才我没听清楚\" doğru; çünkü \"刚才\" geçmiş bir ana işaret eder.",
+  "examples": [
+   {
+    "zh": "刚才有人来找你,可是你不在,他就走了。",
+    "pinyin": "Gāng cái yǒu rén lái zhǎo nǐ, kě shì nǐ bù zài, tā jiù zǒu le。",
+    "en": "Someone came looking for you just now, but you weren't in, so he left."
+   },
+   {
+    "zh": "对不起,刚才我没听清楚,你能再说一遍吗?",
+    "pinyin": "Duì bù qǐ, gāng cái wǒ méi tīng qīng chǔ, nǐ néng zài shuō yī biàn ma?",
+    "en": "Sorry, I didn't hear clearly just now; could you say it again?"
+   },
+   {
+    "zh": "刚才还是晴天,怎么一下子就下起雨来了?",
+    "pinyin": "Gāng cái hái shì qíng tiān, zěn me yī xià zi jiù xià qǐ yǔ lái le?",
+    "en": "It was sunny just a moment ago; how did it suddenly start raining?"
+   },
+   {
+    "zh": "你刚才说的那家餐厅,具体在哪条街?",
+    "pinyin": "Nǐ gāng cái shuō de nà jiā cān tīng, jù tǐ zài nǎ tiáo jiē?",
+    "en": "The restaurant you mentioned just now — which street exactly is it on?"
+   },
+   {
+    "zh": "刚才老师讲的内容很重要,你怎么没记笔记?",
+    "pinyin": "Gāng cái lǎo shī jiǎng de nèi róng hěn zhòng yào, nǐ zěn me méi jì bǐ jì?",
+    "en": "What the teacher said just now was important; why didn't you take notes?"
+   },
+   {
+    "zh": "我刚才在路上看见你了,可是叫你你没听见。",
+    "pinyin": "Wǒ gāng cái zài lù shàng kàn jiàn nǐ le, kě shì jiào nǐ nǐ méi tīng jiàn。",
+    "en": "I saw you on the road just now, but you didn't hear me call you."
+   },
+   {
+    "zh": "刚才电话里太吵,我们改到现在慢慢谈吧。",
+    "pinyin": "Gāng cái diàn huà lǐ tài chǎo, wǒ men gǎi dào xiàn zài màn màn tán ba。",
+    "en": "It was too noisy on the phone earlier; let's talk slowly now instead."
+   },
+   {
+    "zh": "他刚才还好好的,怎么突然就不舒服了?",
+    "pinyin": "Tā gāng cái hái hǎo hǎo de, zěn me tū rán jiù bù shū fú le?",
+    "en": "He was fine just a moment ago; how did he suddenly feel unwell?"
+   },
+   {
+    "zh": "刚才那个问题我没答对,回去我得好好想想。",
+    "pinyin": "Gāng cái nà ge wèn tí wǒ méi dá duì, huí qù wǒ de hǎo hǎo xiǎng xiǎng。",
+    "en": "I didn't answer that question correctly just now; I need to think it over at home."
+   },
+   {
+    "zh": "你刚才去哪儿了?我找了你半天都没找到。",
+    "pinyin": "Nǐ gāng cái qù nǎ ér le? wǒ zhǎo le nǐ bàn tiān dōu méi zhǎo dào。",
+    "en": "Where did you go just now? I looked for you for ages and couldn't find you."
+   },
+   {
+    "zh": "刚才的会开得挺顺利,大家都很满意。",
+    "pinyin": "Gāng cái de huì kāi de tǐng shùn lì, dà jiā dōu hěn mǎn yì。",
+    "en": "The meeting just now went smoothly; everyone was satisfied."
+   },
+   {
+    "zh": "我刚才把钥匙放在桌子上了,怎么现在找不到了?",
+    "pinyin": "Wǒ gāng cái bǎ yào shi fàng zài zhuō zi shàng le, zěn me xiàn zài zhǎo bú dào le?",
+    "en": "I put the keys on the table just now; why can't I find them now?"
+   },
+   {
+    "zh": "刚才你笑什么呢?是不是想起什么好玩的事了?",
+    "pinyin": "Gāng cái nǐ xiào shén me ne? shì bú shì xiǎng qǐ shén me hǎo wán de shì le?",
+    "en": "What were you laughing at just now? Did you think of something funny?"
+   },
+   {
+    "zh": "刚才外面好像有人敲门,你听见了吗?",
+    "pinyin": "Gāng cái wài miàn hǎo xiàng yǒu rén qiāo mén, nǐ tīng jiàn le ma?",
+    "en": "It seemed like someone knocked on the door just now; did you hear it?"
+   },
+   {
+    "zh": "刚才我一紧张,把准备好的话全忘了。",
+    "pinyin": "Gāng cái wǒ yī jǐn zhāng, bǎ zhǔn bèi hǎo de huà quán wàng le。",
+    "en": "I got so nervous just now that I forgot everything I'd prepared to say."
+   },
+   {
+    "zh": "你别生气,刚才我不是那个意思。",
+    "pinyin": "Nǐ bié shēng qì, gāng cái wǒ bú shì nà ge yì si。",
+    "en": "Don't be angry; that's not what I meant just now."
+   },
+   {
+    "zh": "刚才那杯咖啡太烫了,我等它凉一凉再喝。",
+    "pinyin": "Gāng cái nà bēi kā fēi tài tàng le, wǒ děng tā liàng yī liàng zài hē。",
+    "en": "That cup of coffee just now was too hot; I'll wait for it to cool."
+   },
+   {
+    "zh": "他刚才还在这儿坐着,一转眼就不见了。",
+    "pinyin": "Tā gāng cái hái zài zhè ér zuò zhe, yī zhuǎn yǎn jiù bú jiàn le。",
+    "en": "He was sitting here just now; in the blink of an eye he was gone."
+   },
+   {
+    "zh": "刚才我算错了一个数,现在重新算一遍。",
+    "pinyin": "Gāng cái wǒ suàn cuò le yí gè shù, xiàn zài chóng xīn suàn yī biàn。",
+    "en": "I miscalculated a number just now; let me redo it."
+   },
+   {
+    "zh": "刚才路过书店,我顺便给你买了本你想要的书。",
+    "pinyin": "Gāng cái lù guò shū diàn, wǒ shùn biàn gěi nǐ mǎi le běn nǐ xiǎng yào de shū。",
+    "en": "Passing the bookstore just now, I bought you the book you wanted."
+   },
+   {
+    "zh": "你刚才接的那个电话,是不是有什么急事?",
+    "pinyin": "Nǐ gāng cái jiē de nà ge diàn huà, shì bú shì yǒu shén me jí shì?",
+    "en": "That call you took just now — was it something urgent?"
+   },
+   {
+    "zh": "刚才还热得不行,太阳一下山就凉快了。",
+    "pinyin": "Gāng cái hái rè de bù xíng, tài yáng yī xià shān jiù liáng kuài le。",
+    "en": "It was unbearably hot just now; as soon as the sun set it cooled down."
+   },
+   {
+    "zh": "我刚才明明把车停在这儿了,车怎么不见了?",
+    "pinyin": "Wǒ gāng cái míng míng bǎ chē tíng zài zhè ér le, chē zěn me bú jiàn le?",
+    "en": "I clearly parked the car here just now; how is it gone?"
+   },
+   {
+    "zh": "刚才你没在,所以我把东西交给了你同事。",
+    "pinyin": "Gāng cái nǐ méi zài, suǒ yǐ wǒ bǎ dōng xī jiāo gěi le nǐ tóng shì。",
+    "en": "You weren't here just now, so I handed the things to your colleague."
+   },
+   {
+    "zh": "刚才那首歌真好听,你知道叫什么名字吗?",
+    "pinyin": "Gāng cái nà shǒu gē zhēn hǎo tīng, nǐ zhī dào jiào shén me míng zì ma?",
+    "en": "That song just now was really nice; do you know its name?"
+   }
+  ]
+ },
+ {
+  "id": "g075",
+  "level": 2,
+  "title": "\"的时候\" ile \"...-dığı zaman\"",
+  "titleEn": "Expressing \"when\" with \"de shihou\"",
+  "pattern": "... 的时候",
+  "summary": "\"的时候\" (de shíhou) bir olayın ne zaman olduğunu belirtir: 我小的时候 = ben küçükken; 吃饭的时候 = yemek yerken.",
+  "explanation": "Bir eylemin ya da durumun \"ne zaman\" gerçekleştiğini anlatmak için, o öbeğin SONUNA \"的时候\" eklenir: 我上大学的时候 (üniversitedeyken), 你不在的时候 (sen yokken), 下雨的时候 (yağmur yağarken). Türkçedeki \"...-dığı zaman / ...-ken\" yapısına karşılık gelir ve niteldiği ifadenin arkasında durur. İçindeki eylem sürüyorsa \"...-ken\", bir noktayı gösteriyorsa \"...-dığı an\" anlamı verir. Cümlenin başında ya da ortasında bir zaman belirteci öbeği olarak yer alır.",
+  "examples": [
+   {
+    "zh": "我小的时候,家门口有一棵很大的树。",
+    "pinyin": "Wǒ xiǎo de shí hòu, jiā mén kǒu yǒu yī kē hěn dà de shù。",
+    "en": "When I was little, there was a big tree in front of our house."
+   },
+   {
+    "zh": "吃饭的时候最好别看手机,对身体不好。",
+    "pinyin": "Chī fàn de shí hòu zuì hǎo bié kàn shǒu jī, duì shēn tǐ bù hǎo。",
+    "en": "It's best not to look at your phone while eating; it's bad for you."
+   },
+   {
+    "zh": "你不在的时候,有个快递员送来一个包裹。",
+    "pinyin": "Nǐ bù zài de shí hòu, yǒu gè kuài dì yuán sòng lái yí gè bāo guǒ。",
+    "en": "While you were out, a courier delivered a package."
+   },
+   {
+    "zh": "下雨的时候,这条路特别容易堵车。",
+    "pinyin": "Xià yǔ de shí hòu, zhè tiáo lù tè bié róng yì dǔ chē。",
+    "en": "When it rains, this road gets especially jammed."
+   },
+   {
+    "zh": "我第一次见到他的时候,他还是个高中生。",
+    "pinyin": "Wǒ dì yī cì jiàn dào tā de shí hòu, tā hái shì gè gāo zhōng shēng。",
+    "en": "When I first met him, he was still a high school student."
+   },
+   {
+    "zh": "累的时候就休息一下,别硬撑着。",
+    "pinyin": "Lèi de shí hòu jiù xiū xī yī xià, bié yìng chēng zhe。",
+    "en": "When you're tired, take a break; don't force yourself to keep going."
+   },
+   {
+    "zh": "我们聊天的时候,时间过得特别快。",
+    "pinyin": "Wǒ men liáo tiān de shí hòu, shí jiān guò de tè bié kuài。",
+    "en": "When we chat, time flies especially fast."
+   },
+   {
+    "zh": "过马路的时候,你一定要小心来往的车。",
+    "pinyin": "Guò mǎ lù de shí hòu, nǐ yí dìng yào xiǎo xīn lái wǎng de chē。",
+    "en": "When crossing the road, you must watch out for passing cars."
+   },
+   {
+    "zh": "他心情不好的时候,喜欢一个人去海边走走。",
+    "pinyin": "Tā xīn qíng bù hǎo de shí hòu, xǐ huān yí gè rén qù hǎi biān zǒu zǒu。",
+    "en": "When he's in a bad mood, he likes to walk alone by the sea."
+   },
+   {
+    "zh": "我睡觉的时候,请你们说话小声一点。",
+    "pinyin": "Wǒ shuì jiào de shí hòu, qǐng nǐ men shuō huà xiǎo shēng yì diǎn。",
+    "en": "While I'm sleeping, please keep your voices down."
+   },
+   {
+    "zh": "学汉语的时候,最难的部分就是记住那些汉字。",
+    "pinyin": "Xué hàn yǔ de shí hòu, zuì nán de bù fèn jiù shì jì zhù nà xiē hàn zì。",
+    "en": "When learning Chinese, the hardest part is memorizing the characters."
+   },
+   {
+    "zh": "孩子哭的时候,妈妈总是第一个跑过去。",
+    "pinyin": "Hái zi kū de shí hòu, mā mā zǒng shì dì yí gè pǎo guò qù。",
+    "en": "When the child cries, mom is always the first to rush over."
+   },
+   {
+    "zh": "你打电话来的时候,我正好在开车,没能接。",
+    "pinyin": "Nǐ dǎ diàn huà lái de shí hòu, wǒ zhèng hǎo zài kāi chē, méi néng jiē。",
+    "en": "When you called, I happened to be driving and couldn't answer."
+   },
+   {
+    "zh": "天气好的时候,我喜欢把被子拿到阳台上晒。",
+    "pinyin": "Tiān qì hǎo de shí hòu, wǒ xǐ huān bǎ bèi zi ná dào yáng tái shàng shài。",
+    "en": "When the weather is nice, I like to air the quilt on the balcony."
+   },
+   {
+    "zh": "考试的时候不要紧张,把会的先做完。",
+    "pinyin": "Kǎo shì de shí hòu bú yào jǐn zhāng, bǎ huì de xiān zuò wán。",
+    "en": "During the exam, don't be nervous; finish the ones you know first."
+   },
+   {
+    "zh": "我难过的时候,是这首歌一直陪着我。",
+    "pinyin": "Wǒ nán guò de shí hòu, shì zhè shǒu gē yì zhí péi zhe wǒ。",
+    "en": "When I was sad, it was this song that kept me company."
+   },
+   {
+    "zh": "刚来这个城市的时候,我一个朋友都没有。",
+    "pinyin": "Gāng lái zhè ge chéng shì de shí hòu, wǒ yí gè péng yǒu dōu méi yǒu。",
+    "en": "When I first came to this city, I didn't have a single friend."
+   },
+   {
+    "zh": "你不开心的时候,可以随时给我打电话。",
+    "pinyin": "Nǐ bù kāi xīn de shí hòu, kě yǐ suí shí gěi wǒ dǎ diàn huà。",
+    "en": "When you're unhappy, you can call me anytime."
+   },
+   {
+    "zh": "坐飞机的时候,起飞和降落要特别注意安全。",
+    "pinyin": "Zuò fēi jī de shí hòu, qǐ fēi hé jiàng luò yào tè bié zhù yì ān quán。",
+    "en": "When flying, you should be especially careful during takeoff and landing."
+   },
+   {
+    "zh": "小时候上学的时候,我最喜欢的就是下课。",
+    "pinyin": "Xiǎo shí hòu shàng xué de shí hòu, wǒ zuì xǐ huān de jiù shì xià kè。",
+    "en": "Back when I went to school as a kid, my favorite thing was recess."
+   },
+   {
+    "zh": "做菜的时候,盐一定要一点一点地放。",
+    "pinyin": "Zuò cài de shí hòu, yán yí dìng yào yì diǎn yì diǎn dì fàng。",
+    "en": "When cooking, you must add salt little by little."
+   },
+   {
+    "zh": "他说这句话的时候,眼睛里好像有泪水。",
+    "pinyin": "Tā shuō zhè jù huà de shí hòu, yǎn jīng lǐ hǎo xiàng yǒu lèi shuǐ。",
+    "en": "When he said this, there seemed to be tears in his eyes."
+   },
+   {
+    "zh": "放假的时候,这个景点每天都是人山人海。",
+    "pinyin": "Fàng jià de shí hòu, zhè ge jǐng diǎn měi tiān dōu shì rén shān rén hǎi。",
+    "en": "During holidays, this attraction is packed with people every day."
+   },
+   {
+    "zh": "我年轻的时候,也曾经有过很多梦想。",
+    "pinyin": "Wǒ nián qīng de shí hòu, yě céng jīng yǒu guò hěn duō mèng xiǎng。",
+    "en": "When I was young, I too once had many dreams."
+   },
+   {
+    "zh": "你需要帮助的时候,别忘了还有我们在。",
+    "pinyin": "Nǐ xū yào bāng zhù de shí hòu, bié wàng le hái yǒu wǒ men zài。",
+    "en": "When you need help, don't forget that we're here for you."
+   }
+  ]
  }
 ]

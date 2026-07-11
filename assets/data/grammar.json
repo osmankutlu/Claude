@@ -26382,5 +26382,685 @@
     "en": "He held a letter, a complicated expression on his face."
    }
   ]
+ },
+ {
+  "id": "g195",
+  "level": 3,
+  "title": "\"嘛\" ile apaçıklık/ikna parçacığı",
+  "titleEn": "Expressing the self-evident with \"ma\"",
+  "pattern": "İfade + 嘛",
+  "summary": "Cümle sonundaki \"嘛\" (ma) bir şeyin APAÇIK/besbelli olduğunu ya da bir ricayı yumuşatır: 这很简单嘛 = Bu çok basit ya!",
+  "explanation": "Cümle sonuna gelen \"嘛\" (fiil sonundaki soru \"吗\"dan farklı yazılır ve okunur), söyleneni APAÇIK, besbelli, tartışmasız bir gerçek gibi sunar ya da bir ricayı/ikna girişimini yumuşatır. İki ton: (1) BESBELLİLİK — \"ya, işte, ne de olsa\": 有问题就问嘛,别不好意思 (Sorun varsa sorarsın işte, çekinme), 孩子嘛,总会犯点错 (Çocuk işte, hata yapar tabii). (2) RİCA/ISRAR yumuşatma — \"hadi ama, ne olur\": 你就去嘛,别扫大家的兴 (Gitsene hadi, herkesin keyfini kaçırma). Konuşmacı çoğu zaman karşıdakinin de kabul edeceğini varsaydığı bir mantığı vurgular. Türkçedeki \"ya, işte, ne de olsa, hadi ama, canım\" gibi apaçıklık/ikna vurgularına denk gelir; samimi konuşmaya özgü bir parçacıktır.",
+  "examples": [
+   {
+    "zh": "有不懂的地方就问老师嘛,别自己在那儿瞎琢磨。",
+    "pinyin": "Yǒu bù dǒng de dì fāng jiù wèn lǎo shī ma, bié zì jǐ zài nà ér xiā zuó mó。",
+    "en": "If you don't understand, just ask the teacher; don't puzzle over it alone."
+   },
+   {
+    "zh": "孩子嘛,难免会调皮捣蛋,你别太生气了。",
+    "pinyin": "Hái zi ma, nán miǎn huì tiáo pí dǎo dàn, nǐ bié tài shēng qì le。",
+    "en": "Kids will be mischievous, of course; don't be too angry."
+   },
+   {
+    "zh": "你就陪我去一趟嘛,一个人我实在有点害怕。",
+    "pinyin": "Nǐ jiù péi wǒ qù yī tàng ma, yí gè rén wǒ shí zài yǒu diǎn hài pà。",
+    "en": "Just come with me, please; I'm really a bit scared alone."
+   },
+   {
+    "zh": "这道题其实不难嘛,你静下心来就会做了。",
+    "pinyin": "Zhè dào tí qí shí bù nán ma, nǐ jìng xià xīn lái jiù huì zuò le。",
+    "en": "This problem isn't hard, really; calm down and you'll do it."
+   },
+   {
+    "zh": "大家都是老朋友嘛,有话直说,不用客气。",
+    "pinyin": "Dà jiā dōu shì lǎo péng yǒu ma, yǒu huà zhí shuō, bù yòng kè qì。",
+    "en": "We're all old friends, after all; speak frankly, no need to be polite."
+   },
+   {
+    "zh": "失败了没关系嘛,重要的是从中吸取教训。",
+    "pinyin": "Shī bài le méi guān xì ma, zhòng yào de shì cóng zhōng xī qǔ jiào xùn。",
+    "en": "It's okay to fail; what matters is learning from it."
+   },
+   {
+    "zh": "你多穿点儿嘛,外面风这么大,别着凉了。",
+    "pinyin": "Nǐ duō chuān diǎn ér ma, wài miàn fēng zhè me dà, bié zháo liáng le。",
+    "en": "Do put on more clothes; it's so windy out, don't catch a chill."
+   },
+   {
+    "zh": "钱嘛,够用就行,别把它看得太重。",
+    "pinyin": "Qián ma, gòu yòng jiù xíng, bié bǎ tā kàn de tài zhòng。",
+    "en": "Money, after all, just needs to be enough; don't value it too much."
+   },
+   {
+    "zh": "你就再多留一天嘛,咱们好久没这么聚过了。",
+    "pinyin": "Nǐ jiù zài duō liú yī tiān ma, zán men hǎo jiǔ méi zhè me jù guò le。",
+    "en": "Just stay one more day; we haven't gathered like this in ages."
+   },
+   {
+    "zh": "这不是很明显的道理嘛,你怎么就想不通呢?",
+    "pinyin": "Zhè bú shì hěn míng xiǎn de dào lǐ ma, nǐ zěn me jiù xiǎng bù tōng ne?",
+    "en": "Isn't this obvious? How can't you see it?"
+   },
+   {
+    "zh": "慢慢来嘛,心急吃不了热豆腐,别太着急。",
+    "pinyin": "Màn màn lái ma, xīn jí chī bù liǎo rè dòu fǔ, bié tài zháo jí。",
+    "en": "Take it slow; haste makes waste, don't rush."
+   },
+   {
+    "zh": "他也是好心嘛,你就别怪他了。",
+    "pinyin": "Tā yě shì hǎo xīn ma, nǐ jiù bié guài tā le。",
+    "en": "He meant well, after all; don't blame him."
+   },
+   {
+    "zh": "你想吃什么就点什么嘛,今天我请客。",
+    "pinyin": "Nǐ xiǎng chī shén me jiù diǎn shén me ma, jīn tiān wǒ qǐng kè。",
+    "en": "Order whatever you like; it's my treat today."
+   },
+   {
+    "zh": "年轻人嘛,总要出去闯一闯,见见世面。",
+    "pinyin": "Nián qīng rén ma, zǒng yào chū qù chuǎng yī chuǎng, jiàn jiàn shì miàn。",
+    "en": "Young people, after all, should go out and see the world."
+   },
+   {
+    "zh": "这点小事嘛,交给我办你就放心吧。",
+    "pinyin": "Zhè diǎn xiǎo shì ma, jiāo gěi wǒ bàn nǐ jiù fàng xīn ba。",
+    "en": "Such a small matter; leave it to me and rest assured."
+   },
+   {
+    "zh": "你就别客气了嘛,拿着,这是我的一点心意。",
+    "pinyin": "Nǐ jiù bié kè qì le ma, ná zhe, zhè shì wǒ de yì diǎn xīn yì。",
+    "en": "Don't be so polite; take it, it's a small token from me."
+   },
+   {
+    "zh": "大过年的嘛,一家人开开心心地在一起最重要。",
+    "pinyin": "Dà guò nián de ma, yī jiā rén kāi kāi xīn xīn de zài yì qǐ zuì zhòng yào。",
+    "en": "It's New Year, after all; the family being happy together is what matters most."
+   },
+   {
+    "zh": "他刚来嘛,对这里还不熟悉,你多担待点儿。",
+    "pinyin": "Tā gāng lái ma, duì zhè lǐ hái bù shú xī, nǐ duō dān dài diǎn ér。",
+    "en": "He just arrived, after all, and isn't familiar here; bear with him."
+   },
+   {
+    "zh": "有意见当面提出来嘛,背后议论可不好。",
+    "pinyin": "Yǒu yì jiàn dāng miàn tí chū lái ma, bèi hòu yì lùn kě bù hǎo。",
+    "en": "Raise your opinions to my face; gossiping behind backs isn't nice."
+   },
+   {
+    "zh": "你就答应他嘛,反正也不是什么大不了的事。",
+    "pinyin": "Nǐ jiù dā yìng tā ma, fǎn zhèng yě bú shì shén me dà bù liǎo de shì。",
+    "en": "Just say yes to him; it's no big deal anyway."
+   },
+   {
+    "zh": "累了就歇一歇嘛,身体要紧,别硬撑着。",
+    "pinyin": "Lèi le jiù xiē yī xiē ma, shēn tǐ yào jǐn, bié yìng chēng zhe。",
+    "en": "Rest if you're tired; health matters, don't push yourself."
+   },
+   {
+    "zh": "这本来就是你的功劳嘛,你不用那么谦虚。",
+    "pinyin": "Zhè běn lái jiù shì nǐ de gōng láo ma, nǐ bù yòng nà me qiān xū。",
+    "en": "This is your credit to begin with; no need to be so modest."
+   },
+   {
+    "zh": "大家一起想办法嘛,人多力量大,总能解决。",
+    "pinyin": "Dà jiā yì qǐ xiǎng bàn fǎ ma, rén duō lì liàng dà, zǒng néng jiě jué。",
+    "en": "Let's all think together; many hands make light work, we'll solve it."
+   },
+   {
+    "zh": "你不喜欢就换一个嘛,别勉强自己。",
+    "pinyin": "Nǐ bù xǐ huān jiù huàn yí gè ma, bié miǎn qiǎng zì jǐ。",
+    "en": "If you don't like it, just switch; don't force yourself."
+   },
+   {
+    "zh": "这不挺好的嘛,我看就这么定了,别再改了。",
+    "pinyin": "Zhè bù tǐng hǎo de ma, wǒ kàn jiù zhè me dìng le, bié zài gǎi le。",
+    "en": "Isn't this quite good? Let's settle on it and not change it."
+   }
+  ]
+ },
+ {
+  "id": "g196",
+  "level": 3,
+  "title": "\"...吧，...吧\" ile iki seçeneği tartma",
+  "titleEn": "Reviewing options with \"ba\"",
+  "pattern": "Seçenek 1 吧，...；Seçenek 2 吧，...",
+  "summary": "\"A吧...,B吧...\" iki seçeneğin de sıkıntılı olduğunu tartar: 去吧,太累;不去吧,又可惜 = Gitsen çok yorucu, gitmesen de yazık.",
+  "explanation": "\"...吧,...;...吧,...\" kalıbı iki (çoğu zaman ikilemde kalınan) seçeneği yan yana koyup HER BİRİNİN de bir sakıncası olduğunu belirtir; konuşmacının kararsızlığını, iki arada kalmışlığını anlatır: 去吧,路太远;不去吧,又怕他生气 (Gitsen yol çok uzak; gitmesen de kızmasından korkuyorsun). Her seçenek \"吧\" ile bitirilip ardından o seçeneğin olumsuz yanı söylenir. Türkçedeki \"...-sen ..., ...-mesen de ...\" (gitsen bir türlü, gitmesen bir türlü) ikilem kalıbına birebir denk gelir. İki seçenek arasında sıkışmışlığı, \"ne yapsan olmuyor\" hâlini canlı biçimde ifade eder; günlük konuşmada dert yanarken sık kullanılır.",
+  "examples": [
+   {
+    "zh": "这件衣服买吧,有点贵;不买吧,又实在喜欢,真让人纠结。",
+    "pinyin": "Zhè jiàn yī fú mǎi ba, yǒu diǎn guì; bù mǎi ba, yòu shí zài xǐ huān, zhēn ràng rén jiū jié。",
+    "en": "Buy it and it's a bit pricey; don't and I really like it — such a dilemma."
+   },
+   {
+    "zh": "去参加吧,实在没时间;不去吧,又怕别人说闲话。",
+    "pinyin": "Qù cān jiā ba, shí zài méi shí jiān; bù qù ba, yòu pà bié rén shuō xián huà。",
+    "en": "Go and there's no time; don't and I fear people will gossip."
+   },
+   {
+    "zh": "扔了吧,觉得可惜;留着吧,家里又放不下。",
+    "pinyin": "Rēng le ba, jué de kě xī; liú zhe ba, jiā lǐ yòu fàng bù xià。",
+    "en": "Throw it away and it's a pity; keep it and there's no room."
+   },
+   {
+    "zh": "批评他吧,怕他伤心;不说吧,又怕他不改。",
+    "pinyin": "Pī píng tā ba, pà tā shāng xīn; bù shuō ba, yòu pà tā bù gǎi。",
+    "en": "Criticize him and he'll be hurt; say nothing and he won't change."
+   },
+   {
+    "zh": "现在叫醒他吧,他太累了;不叫吧,又要迟到了。",
+    "pinyin": "Xiàn zài jiào xǐng tā ba, tā tài lèi le; bù jiào ba, yòu yào chí dào le。",
+    "en": "Wake him now and he's too tired; don't and he'll be late."
+   },
+   {
+    "zh": "答应吧,自己实在做不到;拒绝吧,又不好意思。",
+    "pinyin": "Dā yìng ba, zì jǐ shí zài zuò bú dào; jù jué ba, yòu bù hǎo yì sī。",
+    "en": "Agree and I truly can't do it; refuse and I feel embarrassed."
+   },
+   {
+    "zh": "走着去吧,路太远;打车去吧,又觉得浪费钱。",
+    "pinyin": "Zǒu zhe qù ba, lù tài yuǎn; dǎ chē qù ba, yòu jué de làng fèi qián。",
+    "en": "Walk and it's too far; take a taxi and it feels wasteful."
+   },
+   {
+    "zh": "告诉他真相吧,怕他接受不了;瞒着吧,又觉得对不起他。",
+    "pinyin": "Gào sù tā zhēn xiàng ba, pà tā jiē shòu bù liǎo; mán zhe ba, yòu jué de duì bù qǐ tā。",
+    "en": "Tell him the truth and he may not take it; hide it and I feel guilty."
+   },
+   {
+    "zh": "留下来吧,舍不得这份工作;离开吧,又实在太累。",
+    "pinyin": "Liú xià lái ba, shě bù de zhè fèn gōng zuò; lí kāi ba, yòu shí zài tài lèi。",
+    "en": "Stay and I can't give up this job; leave and it's really too exhausting."
+   },
+   {
+    "zh": "买大的吧,吃不完浪费;买小的吧,又不够分。",
+    "pinyin": "Mǎi dà de ba, chī bù wán làng fèi; mǎi xiǎo de ba, yòu bù gòu fēn。",
+    "en": "Buy the big one and we can't finish it; the small one isn't enough."
+   },
+   {
+    "zh": "现在出发吧,天还没亮;再等等吧,又怕路上堵车。",
+    "pinyin": "Xiàn zài chū fā ba, tiān hái méi liàng; zài děng děng ba, yòu pà lù shàng dǔ chē。",
+    "en": "Leave now and it's still dark; wait and I fear traffic later."
+   },
+   {
+    "zh": "插手吧,怕惹麻烦;不管吧,又于心不忍。",
+    "pinyin": "Chā shǒu ba, pà rě má fán; bù guǎn ba, yòu yú xīn bù rěn。",
+    "en": "Get involved and risk trouble; ignore it and my conscience won't allow it."
+   },
+   {
+    "zh": "换工作吧,风险太大;不换吧,又实在不甘心。",
+    "pinyin": "Huàn gōng zuò ba, fēng xiǎn tài dà; bù huàn ba, yòu shí zài bù gān xīn。",
+    "en": "Change jobs and the risk is big; don't and I'm truly unwilling to settle."
+   },
+   {
+    "zh": "借给他吧,自己也不宽裕;不借吧,又怕伤了感情。",
+    "pinyin": "Jiè gěi tā ba, zì jǐ yě bù kuān yù; bù jiè ba, yòu pà shāng le gǎn qíng。",
+    "en": "Lend it and I'm not well-off either; don't and I fear hurting the friendship."
+   },
+   {
+    "zh": "等他吧,不知道要等到什么时候;先走吧,又怕他找不到。",
+    "pinyin": "Děng tā ba, bù zhī dào yào děng dào shén me shí hòu; xiān zǒu ba, yòu pà tā zhǎo bú dào。",
+    "en": "Wait for him and who knows how long; go first and he may not find us."
+   },
+   {
+    "zh": "说吧,怕他多想;不说吧,心里又憋得慌。",
+    "pinyin": "Shuō ba, pà tā duō xiǎng; bù shuō ba, xīn lǐ yòu biē de huāng。",
+    "en": "Speak and he may overthink; stay silent and it stifles me inside."
+   },
+   {
+    "zh": "多买点吧,怕吃不完;少买点吧,又怕不够。",
+    "pinyin": "Duō mǎi diǎn ba, pà chī bù wán; shǎo mǎi diǎn ba, yòu pà bù gòu。",
+    "en": "Buy more and we may not finish; buy less and it may not be enough."
+   },
+   {
+    "zh": "现在提出来吧,时机不太合适;等以后吧,又怕忘了。",
+    "pinyin": "Xiàn zài tí chū lái ba, shí jī bù tài hé shì; děng yǐ hòu ba, yòu pà wàng le。",
+    "en": "Raise it now and the timing's off; wait and I may forget."
+   },
+   {
+    "zh": "坐前排吧,离音响太近;坐后排吧,又看不太清楚。",
+    "pinyin": "Zuò qián pái ba, lí yīn xiǎng tài jìn; zuò hòu pái ba, yòu kàn bù tài qīng chǔ。",
+    "en": "Sit up front and it's too near the speakers; sit back and I can't see well."
+   },
+   {
+    "zh": "硬着头皮上吧,实在没把握;放弃吧,又不甘心。",
+    "pinyin": "Yìng zhe tóu pí shàng ba, shí zài méi bǎ wò; fàng qì ba, yòu bù gān xīn。",
+    "en": "Push through and I'm unsure; give up and I'm unwilling."
+   },
+   {
+    "zh": "留在大城市吧,压力太大;回老家吧,又没什么机会。",
+    "pinyin": "Liú zài dà chéng shì ba, yā lì tài dà; huí lǎo jiā ba, yòu méi shén me jī huì。",
+    "en": "Stay in the big city and the pressure's huge; go home and there's little opportunity."
+   },
+   {
+    "zh": "现在道歉吧,拉不下脸;不道歉吧,心里又过意不去。",
+    "pinyin": "Xiàn zài dào qiàn ba, lā bù xià liǎn; bù dào qiàn ba, xīn lǐ yòu guò yì bù qù。",
+    "en": "Apologize now and I can't bring myself to; don't and my conscience nags."
+   },
+   {
+    "zh": "穿这件吧,有点旧;穿那件吧,又太正式。",
+    "pinyin": "Chuān zhè jiàn ba, yǒu diǎn jiù; chuān nà jiàn ba, yòu tài zhèng shì。",
+    "en": "Wear this one and it's a bit old; that one and it's too formal."
+   },
+   {
+    "zh": "多说几句吧,怕他嫌烦;不说吧,又不放心。",
+    "pinyin": "Duō shuō jǐ jù ba, pà tā xián fán; bù shuō ba, yòu bù fàng xīn。",
+    "en": "Say more and he may find it annoying; say nothing and I'm uneasy."
+   },
+   {
+    "zh": "早点睡吧,事情没做完;熬夜吧,明天又没精神。",
+    "pinyin": "Zǎo diǎn shuì ba, shì qíng méi zuò wán; áo yè ba, míng tiān yòu méi jīng shén。",
+    "en": "Sleep early and the work's unfinished; stay up and tomorrow I'll be drained."
+   }
+  ]
+ },
+ {
+  "id": "g197",
+  "level": 3,
+  "title": "\"的\" ile pekiştirme/kesinlik parçacığı",
+  "titleEn": "Using \"de\" (modal particle)",
+  "pattern": "... 的",
+  "summary": "Cümle sonundaki \"的\" bir ifadeye kesinlik/güvence katar: 他会来的 = O kesin gelir; 会好起来的 = İyileşecek merak etme.",
+  "explanation": "Cümle sonuna gelen \"的\" (bu bağlamda bir modal parçacık), ifadeye KESİNLİK, güvence ya da kararlılık katar; konuşmacının söylediğinden emin olduğunu, öyle olacağını vurgular: 你放心,他一定会来的 (Merak etme, kesinlikle gelecek), 事情会好起来的 (İşler düzelecek), 我不会忘记的 (Unutmayacağım). Çoğu zaman \"会...的\" kalıbında bir gelecek/olasılığı pekiştirir ama başka cümlelerde de \"böyledir, öyledir\" kesinliği verir: 这样做是不对的 (Böyle yapmak yanlıştır). Bir güvence, ikna ya da kararlı bir yargı bildirir. Bu \"的\", isim niteleyen yapısal \"的\"den farklı, tümceyi tamamlayan bir tondur. Türkçedeki \"...-cek merak etme, kesin ..., mutlaka ..., ...-dır\" pekiştirmelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你放心吧,只要努力,总会成功的。",
+    "pinyin": "Nǐ fàng xīn ba, zhǐ yào nǔ lì, zǒng huì chéng gōng de。",
+    "en": "Don't worry; as long as you try, you'll succeed in the end."
+   },
+   {
+    "zh": "别难过了,一切都会慢慢好起来的。",
+    "pinyin": "Bié nán guò le, yī qiè dū huì màn màn hǎo qǐ lái de。",
+    "en": "Don't be sad; everything will slowly get better."
+   },
+   {
+    "zh": "我答应你的事,一定会做到的,你就放一百个心。",
+    "pinyin": "Wǒ dā yìng nǐ de shì, yí dìng huì zuò dào de, nǐ jiù fàng yì bǎi gè xīn。",
+    "en": "What I promised you, I'll definitely do; rest completely assured."
+   },
+   {
+    "zh": "时间会证明一切的,你现在不用急着解释。",
+    "pinyin": "Shí jiān huì zhèng míng yī qiè de, nǐ xiàn zài bù yòng jí zhe jiě shì。",
+    "en": "Time will prove everything; you needn't rush to explain now."
+   },
+   {
+    "zh": "这么冷的天不穿外套,会感冒的。",
+    "pinyin": "Zhè me lěng de tiān bù chuān wài tào, huì gǎn mào de。",
+    "en": "Going out without a coat in such cold, you'll catch a cold."
+   },
+   {
+    "zh": "你这么努力,你的付出总有一天会有回报的。",
+    "pinyin": "Nǐ zhè me nǔ lì, nǐ de fù chū zǒng yǒu yī tiān huì yǒu huí bào de。",
+    "en": "You work so hard; your efforts will be rewarded one day."
+   },
+   {
+    "zh": "别担心他,他是个大人了,会照顾好自己的。",
+    "pinyin": "Bié dān xīn tā, tā shì gè dà rén le, huì zhào gù hǎo zì jǐ de。",
+    "en": "Don't worry about him; he's an adult and can take care of himself."
+   },
+   {
+    "zh": "路是人走出来的,只要肯坚持,办法总会有的。",
+    "pinyin": "Lù shì rén zǒu chū lái de, zhǐ yào kěn jiān chí, bàn fǎ zǒng huì yǒu de。",
+    "en": "Paths are made by walking; persist and there'll always be a way."
+   },
+   {
+    "zh": "你先睡吧,他回来我会告诉他的。",
+    "pinyin": "Nǐ xiān shuì ba, tā huí lái wǒ huì gào sù tā de。",
+    "en": "Go to sleep first; when he's back I'll tell him."
+   },
+   {
+    "zh": "这种事情是骗不了人的,迟早会被发现的。",
+    "pinyin": "Zhè zhǒng shì qíng shì piàn bù liǎo rén de, chí zǎo huì bèi fā xiàn de。",
+    "en": "This kind of thing can't fool people; it'll be found out sooner or later."
+   },
+   {
+    "zh": "你对他这么好,他会记在心里的。",
+    "pinyin": "Nǐ duì tā zhè me hǎo, tā huì jì zài xīn lǐ de。",
+    "en": "You're so good to him; he'll keep it in his heart."
+   },
+   {
+    "zh": "别灰心,失败几次算什么,你会做到的。",
+    "pinyin": "Bié huī xīn, shī bài jǐ cì suàn shén me, nǐ huì zuò dào de。",
+    "en": "Don't lose heart; what's a few failures? You'll do it."
+   },
+   {
+    "zh": "我们分开只是暂时的,以后还会再见面的。",
+    "pinyin": "Wǒ men fēn kāi zhǐ shì zàn shí de, yǐ hòu hái huì zài jiàn miàn de。",
+    "en": "Our parting is only temporary; we'll meet again."
+   },
+   {
+    "zh": "这么晚开车太危险了,会出事的。",
+    "pinyin": "Zhè me wǎn kāi chē tài wēi xiǎn le, huì chū shì de。",
+    "en": "Driving this late is too dangerous; there could be an accident."
+   },
+   {
+    "zh": "你尽管去追求你的梦想,家里人会支持你的。",
+    "pinyin": "Nǐ jǐn guǎn qù zhuī qiú nǐ de mèng xiǎng, jiā lǐ rén huì zhī chí nǐ de。",
+    "en": "Go pursue your dreams; your family will support you."
+   },
+   {
+    "zh": "放心,这点小伤过几天就会好的。",
+    "pinyin": "Fàng xīn, zhè diǎn xiǎo shāng guò jǐ tiān jiù huì hǎo de。",
+    "en": "Rest assured; this small injury will heal in a few days."
+   },
+   {
+    "zh": "只要你真心对人,别人也会真心待你的。",
+    "pinyin": "Zhǐ yào nǐ zhēn xīn duì rén, bié rén yě huì zhēn xīn dài nǐ de。",
+    "en": "If you treat people sincerely, they'll treat you sincerely too."
+   },
+   {
+    "zh": "这么贵重的东西丢了,他一定会心疼的。",
+    "pinyin": "Zhè me guì zhòng de dōng xī diū le, tā yí dìng huì xīn téng de。",
+    "en": "Losing something so valuable, he'll surely be heartbroken."
+   },
+   {
+    "zh": "你别看现在辛苦,以后你会感谢今天的自己的。",
+    "pinyin": "Nǐ bié kàn xiàn zài xīn kǔ, yǐ hòu nǐ huì gǎn xiè jīn tiān de zì jǐ de。",
+    "en": "It's hard now, but later you'll thank your present self."
+   },
+   {
+    "zh": "我说到做到,绝不会骗你的,你相信我。",
+    "pinyin": "Wǒ shuō dào zuò dào, jué bú huì piàn nǐ de, nǐ xiāng xìn wǒ。",
+    "en": "I keep my word and would never deceive you; trust me."
+   },
+   {
+    "zh": "这些困难都是暂时的,咬咬牙就会过去的。",
+    "pinyin": "Zhè xiē kùn nán dōu shì zàn shí de, yǎo yǎo yá jiù huì guò qù de。",
+    "en": "These difficulties are temporary; grit your teeth and they'll pass."
+   },
+   {
+    "zh": "你要是一直这样浪费时间,是会后悔的。",
+    "pinyin": "Nǐ yào shì yì zhí zhè yàng làng fèi shí jiān, shì huì hòu huǐ de。",
+    "en": "If you keep wasting time like this, you'll regret it."
+   },
+   {
+    "zh": "孩子还小,慢慢教,总会懂事的。",
+    "pinyin": "Hái zi hái xiǎo, màn màn jiào, zǒng huì dǒng shì de。",
+    "en": "The child is young; teach slowly and he'll become sensible."
+   },
+   {
+    "zh": "只要方向对了,慢一点也是会到达的。",
+    "pinyin": "Zhǐ yào fāng xiàng duì le, màn yì diǎn yě shì huì dào dá de。",
+    "en": "As long as the direction is right, even slowly you'll arrive."
+   },
+   {
+    "zh": "你尽力就好,结果怎么样大家都会理解的。",
+    "pinyin": "Nǐ jìn lì jiù hǎo, jié guǒ zěn me yàng dà jiā dū huì lǐ jiě de。",
+    "en": "Just do your best; whatever the result, everyone will understand."
+   }
+  ]
+ },
+ {
+  "id": "g198",
+  "level": 3,
+  "title": "\"关于\" ile \"...hakkında, ...konusunda\"",
+  "titleEn": "Expressing \"about\" with \"guanyu\"",
+  "pattern": "关于 + Konu，...",
+  "summary": "\"关于\" (guānyú) bir konuyu/temayı tanıtır: \"...hakkında, ...ile ilgili, ...konusunda\": 关于这件事 = bu konu hakkında.",
+  "explanation": "\"关于\" bir konuyu, temayı ya da alanı tanıtan bir edattır: \"...hakkında, ...ile ilgili, ...konusunda, ...-e dair\". 关于这个问题,我想说几句 (Bu sorun hakkında birkaç şey söylemek istiyorum), 这是一本关于历史的书 (Bu, tarihe dair bir kitap). Genelde cümlenin BAŞINDA bir konu başlığı olarak gelir (关于..., + cümle) ya da bir ismi niteler (关于...的 + isim). Bir konuşmanın, yazının, kitabın neyle ilgili olduğunu belirtir. \"对于\" (...-e karşı/ilişkin) ile yakındır ama \"关于\" KONU/tema, \"对于\" ise TUTUM/hedef vurgular. Cümle başındaki \"关于...\" öbeğinden sonra çoğu zaman bir virgül gelir. Türkçedeki \"...hakkında, ...ile ilgili, ...konusunda, ...-e dair\" ifadelerine denk gelir; bir konuyu ortaya koymanın standart yoludur.",
+  "examples": [
+   {
+    "zh": "关于这次旅行的具体安排,我们明天再详细讨论。",
+    "pinyin": "Guān yú zhè cì lǚ xíng de jù tǐ ān pái, wǒ men míng tiān zài xiáng xì tǎo lùn。",
+    "en": "As for the specific arrangements of this trip, let's discuss in detail tomorrow."
+   },
+   {
+    "zh": "这是一本关于中国历史文化的书,内容很丰富。",
+    "pinyin": "Zhè shì yī běn guān yú zhōng guó lì shǐ wén huà de shū, nèi róng hěn fēng fù。",
+    "en": "This is a book about Chinese history and culture, rich in content."
+   },
+   {
+    "zh": "关于你提出的建议,领导表示会认真考虑。",
+    "pinyin": "Guān yú nǐ tí chū de jiàn yì, lǐng dǎo biǎo shì huì rèn zhēn kǎo lǜ。",
+    "en": "Regarding your suggestion, the leader said it'll be seriously considered."
+   },
+   {
+    "zh": "老师给我们讲了很多关于学习方法的知识。",
+    "pinyin": "Lǎo shī gěi wǒ men jiǎng le hěn duō guān yú xué xí fāng fǎ de zhī shí。",
+    "en": "The teacher told us a lot about learning methods."
+   },
+   {
+    "zh": "关于这个问题,大家的看法并不完全一致。",
+    "pinyin": "Guān yú zhè ge wèn tí, dà jiā de kàn fǎ bìng bù wán quán yí zhì。",
+    "en": "On this question, everyone's views aren't entirely the same."
+   },
+   {
+    "zh": "我在网上看到一篇关于健康饮食的文章,很有帮助。",
+    "pinyin": "Wǒ zài wǎng shàng kàn dào yī piān guān yú jiàn kāng yǐn shí de wén zhāng, hěn yǒu bāng zhù。",
+    "en": "I saw an article online about healthy eating; it was very helpful."
+   },
+   {
+    "zh": "关于工资和福利的事,你可以直接去问人事部门。",
+    "pinyin": "Guān yú gōng zī hé fú lì de shì, nǐ kě yǐ zhí jiē qù wèn rén shì bù mén。",
+    "en": "About salary and benefits, you can ask the HR department directly."
+   },
+   {
+    "zh": "他做了一场关于环境保护的精彩演讲。",
+    "pinyin": "Tā zuò le yī cháng guān yú huán jìng bǎo hù de jīng cǎi yǎn jiǎng。",
+    "en": "He gave a wonderful speech about environmental protection."
+   },
+   {
+    "zh": "关于明天的会议,请大家提前把材料准备好。",
+    "pinyin": "Guān yú míng tiān de huì yì, qǐng dà jiā tí qián bǎ cái liào zhǔn bèi hǎo。",
+    "en": "As for tomorrow's meeting, please prepare the materials in advance."
+   },
+   {
+    "zh": "这部电影讲的是一个关于成长和友情的故事。",
+    "pinyin": "Zhè bù diàn yǐng jiǎng de shì yí gè guān yú chéng zhǎng hé yǒu qíng de gù shì。",
+    "en": "This movie tells a story about growing up and friendship."
+   },
+   {
+    "zh": "关于孩子的教育问题,夫妻俩常常一起商量。",
+    "pinyin": "Guān yú hái zi de jiào yù wèn tí, fū qī liǎ cháng cháng yì qǐ shāng liáng。",
+    "en": "On the child's education, the couple often discusses together."
+   },
+   {
+    "zh": "我想了解一些关于这个城市的历史,你能给我讲讲吗?",
+    "pinyin": "Wǒ xiǎng liǎo jiě yī xiē guān yú zhè ge chéng shì de lì shǐ, nǐ néng gěi wǒ jiǎng jiǎng ma?",
+    "en": "I'd like to know some history of this city; can you tell me?"
+   },
+   {
+    "zh": "关于合同里的这一条,我还有一点疑问。",
+    "pinyin": "Guān yú hé tóng lǐ de zhè yī tiáo, wǒ hái yǒu yì diǎn yí wèn。",
+    "en": "Regarding this clause in the contract, I have a question."
+   },
+   {
+    "zh": "展览上有很多关于古代生活的珍贵照片。",
+    "pinyin": "Zhǎn lǎn shàng yǒu hěn duō guān yú gǔ dài shēng huó de zhēn guì zhào piān。",
+    "en": "The exhibition has many precious photos about ancient life."
+   },
+   {
+    "zh": "关于怎么处理这件事,我们需要再仔细商量商量。",
+    "pinyin": "Guān yú zěn me chǔ lǐ zhè jiàn shì, wǒ men xū yào zài zǐ xì shāng liáng shāng liáng。",
+    "en": "On how to handle this, we need to discuss carefully again."
+   },
+   {
+    "zh": "他写了一篇关于家乡变化的文章,读起来很感人。",
+    "pinyin": "Tā xiě le yī piān guān yú jiā xiāng biàn huà de wén zhāng, dú qǐ lái hěn gǎn rén。",
+    "en": "He wrote an article about his hometown's changes; it's touching to read."
+   },
+   {
+    "zh": "关于这次事故的原因,有关部门正在调查。",
+    "pinyin": "Guān yú zhè cì shì gù de yuán yīn, yǒu guān bù mén zhèng zài diào chá。",
+    "en": "As for the cause of this accident, the relevant departments are investigating."
+   },
+   {
+    "zh": "图书馆里有一整排关于科学技术的书。",
+    "pinyin": "Tú shū guǎn lǐ yǒu yī zhěng pái guān yú kē xué jì shù de shū。",
+    "en": "The library has a whole row of books about science and technology."
+   },
+   {
+    "zh": "关于报名的具体时间和地点,通知上写得很清楚。",
+    "pinyin": "Guān yú bào míng de jù tǐ shí jiān hé dì diǎn, tōng zhī shàng xiě de hěn qīng chǔ。",
+    "en": "As for the registration time and place, the notice states it clearly."
+   },
+   {
+    "zh": "我们聊了很多关于未来的打算和梦想。",
+    "pinyin": "Wǒ men liáo le hěn duō guān yú wèi lái de dǎ suàn hé mèng xiǎng。",
+    "en": "We talked a lot about future plans and dreams."
+   },
+   {
+    "zh": "关于这道菜的做法,奶奶教了我不少小窍门。",
+    "pinyin": "Guān yú zhè dào cài de zuò fǎ, nǎi nǎi jiào le wǒ bù shǎo xiǎo qiào mén。",
+    "en": "On how to make this dish, grandma taught me many little tricks."
+   },
+   {
+    "zh": "这是一部关于父爱的电影,很多人看了都掉了眼泪。",
+    "pinyin": "Zhè shì yī bù guān yú fù ài de diàn yǐng, hěn duō rén kàn le dōu diào le yǎn lèi。",
+    "en": "This is a movie about a father's love; many cried watching it."
+   },
+   {
+    "zh": "关于费用的问题,我们可以坐下来慢慢谈。",
+    "pinyin": "Guān yú fèi yòng de wèn tí, wǒ men kě yǐ zuò xià lái màn màn tán。",
+    "en": "About the cost, we can sit down and talk slowly."
+   },
+   {
+    "zh": "老师推荐了几本关于写作技巧的好书。",
+    "pinyin": "Lǎo shī tuī jiàn le jǐ běn guān yú xiě zuò jì qiǎo de hǎo shū。",
+    "en": "The teacher recommended some good books about writing skills."
+   },
+   {
+    "zh": "关于这件事的真相,只有他一个人最清楚。",
+    "pinyin": "Guān yú zhè jiàn shì de zhēn xiàng, zhǐ yǒu tā yí gè rén zuì qīng chǔ。",
+    "en": "As for the truth of this matter, only he knows it best."
+   }
+  ]
+ },
+ {
+  "id": "g199",
+  "level": 3,
+  "title": "\"直到...才...\" ile \"...-e kadar ...-madı\"",
+  "titleEn": "Expressing \"all the way until\" with \"zhidao\"",
+  "pattern": "直到 + Zaman / Olay，Özne + 才 ...",
+  "summary": "\"直到...才...\" bir eylemin ANCAK o zamana kadar gerçekleşmediğini/o zaman gerçekleştiğini bildirir: 直到天黑他才回来 = Ancak hava kararınca döndü.",
+  "explanation": "\"直到...才...\" bir durumun bir noktaya KADAR sürdüğünü ve ancak o noktada değiştiğini/bir eylemin ancak o zaman gerçekleştiğini vurgular: 直到 (...-e kadar) başlangıç noktasını, 才 (ancak o zaman) gecikmeyi belirtir. 我直到半夜才睡着 (Ancak gece yarısı uyuyabildim — o ana kadar uyuyamadım), 直到他离开,我才明白他的用心 (Ancak o gidince niyetini anladım). Bir eylemin/anlayışın beklenenden GEÇ, ancak belli bir olaydan sonra gerçekleştiğini bildirir; \"才\" gecikmeyi pekiştirir. \"直到...都/一直...\" biçimi ise \"o ana kadar hep...\" anlamı verir. Türkçedeki \"...-e kadar ...-medi, ancak ...-ınca ..., ta ki ...\" yapılarına denk gelir; uzun bir gecikmeyi ya da bir dönüm noktasını vurgulamada kullanılır.",
+  "examples": [
+   {
+    "zh": "他工作太投入,直到天黑才发现该回家了。",
+    "pinyin": "Tā gōng zuò tài tóu rù, zhí dào tiān hēi cái fā xiàn gāi huí jiā le。",
+    "en": "He was so absorbed in work that only at dark did he realize he should go home."
+   },
+   {
+    "zh": "直到看见他平安回来,妈妈的心才终于放下。",
+    "pinyin": "Zhí dào kàn jiàn tā píng ān huí lái, mā mā de xīn cái zhōng yú fàng xià。",
+    "en": "Only when she saw him return safe did mom's heart finally settle."
+   },
+   {
+    "zh": "我昨晚太兴奋,直到凌晨两点才睡着。",
+    "pinyin": "Wǒ zuó wǎn tài xīng fèn, zhí dào líng chén liǎng diǎn cái shuì zháo。",
+    "en": "I was so excited last night that I didn't fall asleep until two a.m."
+   },
+   {
+    "zh": "直到老师点破,我才恍然大悟,原来是这么回事。",
+    "pinyin": "Zhí dào lǎo shī diǎn pò, wǒ cái huǎng rán dà wù, yuán lái shì zhè me huí shì。",
+    "en": "Only when the teacher pointed it out did I suddenly understand."
+   },
+   {
+    "zh": "这件事一直瞒着他,直到最后一刻他才知道真相。",
+    "pinyin": "Zhè jiàn shì yì zhí mán zhe tā, zhí dào zuì hòu yí kè tā cái zhī dào zhēn xiàng。",
+    "en": "It was hidden from him; only at the last moment did he learn the truth."
+   },
+   {
+    "zh": "他们找了整整一天,直到傍晚才把孩子找到。",
+    "pinyin": "Tā men zhǎo le zhěng zhěng yī tiān, zhí dào bàng wǎn cái bǎ hái zi zhǎo dào。",
+    "en": "They searched all day and found the child only at dusk."
+   },
+   {
+    "zh": "直到离开家乡,他才真正体会到什么叫思念。",
+    "pinyin": "Zhí dào lí kāi jiā xiāng, tā cái zhēn zhèng tǐ huì dào shén me jiào sī niàn。",
+    "en": "Only after leaving home did he truly grasp what longing means."
+   },
+   {
+    "zh": "我一直以为他不在乎,直到那天才知道自己错了。",
+    "pinyin": "Wǒ yì zhí yǐ wéi tā bù zài hū, zhí dào nà tiān cái zhī dào zì jǐ cuò le。",
+    "en": "I always thought he didn't care; only that day did I realize I was wrong."
+   },
+   {
+    "zh": "大家等了很久,直到九点多他才匆匆赶到。",
+    "pinyin": "Dà jiā děng le hěn jiǔ, zhí dào jiǔ diǎn duō tā cái cōng cōng gǎn dào。",
+    "en": "Everyone waited long; he only rushed in after nine."
+   },
+   {
+    "zh": "直到病倒住院,他才意识到健康有多重要。",
+    "pinyin": "Zhí dào bìng dào zhù yuàn, tā cái yì shí dào jiàn kāng yǒu duō zhòng yào。",
+    "en": "Only when he fell ill and was hospitalized did he realize health's value."
+   },
+   {
+    "zh": "这个道理我直到长大以后才慢慢明白。",
+    "pinyin": "Zhè ge dào lǐ wǒ zhí dào zhǎng dà yǐ hòu cái màn màn míng bái。",
+    "en": "I only came to understand this reasoning after growing up."
+   },
+   {
+    "zh": "直到雨停,我们才敢从屋檐下走出来。",
+    "pinyin": "Zhí dào yǔ tíng, wǒ men cái gǎn cóng wū yán xià zǒu chū lái。",
+    "en": "Only when the rain stopped did we dare step out from under the eaves."
+   },
+   {
+    "zh": "他一直没说,直到临走前才把心里话讲了出来。",
+    "pinyin": "Tā yì zhí méi shuō, zhí dào lín zǒu qián cái bǎ xīn lǐ huà jiǎng le chū lái。",
+    "en": "He said nothing until, just before leaving, he spoke his heart."
+   },
+   {
+    "zh": "我直到收到录取通知,悬着的心才踏实下来。",
+    "pinyin": "Wǒ zhí dào shōu dào lù qǔ tōng zhī, xuán zhe de xīn cái tà shí xià lái。",
+    "en": "Only when I got the admission letter did my anxious heart settle."
+   },
+   {
+    "zh": "那天他忙得团团转,直到深夜才吃上一口饭。",
+    "pinyin": "Nà tiān tā máng de tuán tuán zhuàn, zhí dào shēn yè cái chī shàng yī kǒu fàn。",
+    "en": "That day he was rushed off his feet, eating only late at night."
+   },
+   {
+    "zh": "直到父母老了,我才懂得当年他们的不容易。",
+    "pinyin": "Zhí dào fù mǔ lǎo le, wǒ cái dǒng de dāng nián tā men de bù róng yì。",
+    "en": "Only when my parents grew old did I understand how hard they'd had it."
+   },
+   {
+    "zh": "他一直坚持,直到最后一名选手冲过终点才离开。",
+    "pinyin": "Tā yì zhí jiān chí, zhí dào zuì hòu yī míng xuǎn shǒu chōng guò zhōng diǎn cái lí kāi。",
+    "en": "He stayed until the last runner crossed the finish line before leaving."
+   },
+   {
+    "zh": "直到亲眼看见,我才相信这一切都是真的。",
+    "pinyin": "Zhí dào qīn yǎn kàn jiàn, wǒ cái xiāng xìn zhè yī qiè dōu shì zhēn de。",
+    "en": "Only when I saw it with my own eyes did I believe it was all real."
+   },
+   {
+    "zh": "孩子玩得太开心,直到很晚才依依不舍地回家。",
+    "pinyin": "Hái zi wán de tài kāi xīn, zhí dào hěn wǎn cái yī yī bù shě de huí jiā。",
+    "en": "The child had such fun that only late did he reluctantly go home."
+   },
+   {
+    "zh": "这个秘密她藏了很多年,直到临终才说了出来。",
+    "pinyin": "Zhè ge mì mì tā cáng le hěn duō nián, zhí dào lín zhōng cái shuō le chū lái。",
+    "en": "She kept this secret for years, revealing it only on her deathbed."
+   },
+   {
+    "zh": "我们聊得投入,直到店家打烊才意识到时间。",
+    "pinyin": "Wǒ men liáo de tóu rù, zhí dào diàn jiā dǎ yàng cái yì shí dào shí jiān。",
+    "en": "We talked so intently that only at closing did we notice the time."
+   },
+   {
+    "zh": "直到试了很多次都失败,他才决定换一种方法。",
+    "pinyin": "Zhí dào shì le hěn duō cì dōu shī bài, tā cái jué dìng huàn yī zhǒng fāng fǎ。",
+    "en": "Only after many failed attempts did he decide to try another way."
+   },
+   {
+    "zh": "他一直等在门口,直到确认我上了车才转身离开。",
+    "pinyin": "Tā yì zhí děng zài mén kǒu, zhí dào què rèn wǒ shàng le chē cái zhuǎn shēn lí kāi。",
+    "en": "He waited at the door until, sure I'd boarded, he turned to leave."
+   },
+   {
+    "zh": "直到成绩公布,他一直提心吊胆,坐立不安。",
+    "pinyin": "Zhí dào chéng jì gōng bù, tā yì zhí tí xīn diào dǎn, zuò lì bù ān。",
+    "en": "Until the results came out, he was on edge and restless."
+   },
+   {
+    "zh": "这件旧毛衣她一直留着,直到搬家才舍得送人。",
+    "pinyin": "Zhè jiàn jiù máo yī tā yì zhí liú zhe, zhí dào bān jiā cái shě de sòng rén。",
+    "en": "She kept this old sweater, giving it away only when she moved."
+   }
+  ]
  }
 ]

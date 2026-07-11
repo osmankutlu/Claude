@@ -25702,5 +25702,685 @@
     "en": "Whenever the night is deep and quiet, he thinks of his distant family."
    }
   ]
+ },
+ {
+  "id": "g190",
+  "level": 3,
+  "title": "\"后来\" ile \"sonradan, daha sonra\"",
+  "titleEn": "Sequencing past events with \"houlai\"",
+  "pattern": "...，后来 ...",
+  "summary": "\"后来\" (hòulái) geçmişte bir olaydan SONRA gelişen bir başka olayı bağlar: \"sonradan, daha sonra, ondan sonra\": 后来他搬走了 = Sonradan taşındı.",
+  "explanation": "\"后来\" GEÇMİŞTEKİ olaylar arasında zaman sırası kurar: bir olaydan sonra gelişen bir başka geçmiş olayı tanıtır — \"sonradan, daha sonra, ondan sonra, derken\". 我们上大学时是好朋友,后来渐渐失去了联系 (Üniversitede iyi arkadaştık, sonradan yavaş yavaş görüşmez olduk). ÖNEMLİ: \"后来\" YALNIZCA geçmiş için kullanılır; gelecekteki \"sonra\" için \"以后\" ya da \"然后\" gelir. Cümlenin (çoğu zaman ikinci bölümünün) başında yer alır ve bir öykü/anı anlatırken olayları sıralar. \"然后\" ile farkı: \"然后\" doğrudan ardışıklık (ve sonra), \"后来\" ise araya zaman girmiş, \"bir süre sonra\" gelişen bir gelişme bildirir. Türkçedeki \"sonradan, daha sonra, ondan sonra, derken\" ifadelerine denk gelir; geçmiş olayları öykülemenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "我们小时候是邻居,后来他们家搬到了外地。",
+    "pinyin": "Wǒ men xiǎo shí hòu shì lín jū, hòu lái tā men jiā bān dào le wài dì。",
+    "en": "We were neighbors as kids; later his family moved away."
+   },
+   {
+    "zh": "他一开始很不适应,后来慢慢就喜欢上了这份工作。",
+    "pinyin": "Tā yī kāi shǐ hěn bù shì yīng, hòu lái màn màn jiù xǐ huān shàng le zhè fèn gōng zuò。",
+    "en": "At first he wasn't used to it, but later grew to like the job."
+   },
+   {
+    "zh": "那天我们聊得很晚,后来他送我回了家。",
+    "pinyin": "Nà tiān wǒ men liáo de hěn wǎn, hòu lái tā sòng wǒ huí le jiā。",
+    "en": "We talked late that day; afterwards he walked me home."
+   },
+   {
+    "zh": "她起初不同意,后来在大家的劝说下改变了主意。",
+    "pinyin": "Tā qǐ chū bù tóng yì, hòu lái zài dà jiā de quàn shuō xià gǎi biàn le zhǔ yì。",
+    "en": "She disagreed at first, but later changed her mind after everyone's urging."
+   },
+   {
+    "zh": "我以前很怕狗,后来养了一只,就再也不怕了。",
+    "pinyin": "Wǒ yǐ qián hěn pà gǒu, hòu lái yǎng le yī zhī, jiù zài yě bù pà le。",
+    "en": "I used to fear dogs; later I kept one and was no longer afraid."
+   },
+   {
+    "zh": "他们年轻时吵过一架,后来成了一辈子的好朋友。",
+    "pinyin": "Tā men nián qīng shí chǎo guò yī jià, hòu lái chéng le yī bèi zi de hǎo péng yǒu。",
+    "en": "They quarreled when young, but later became lifelong friends."
+   },
+   {
+    "zh": "我本来打算学医,后来因为兴趣改学了艺术。",
+    "pinyin": "Wǒ běn lái dǎ suàn xué yī, hòu lái yīn wèi xìng qù gǎi xué le yì shù。",
+    "en": "I'd planned to study medicine, but later switched to art out of interest."
+   },
+   {
+    "zh": "这家小店刚开时生意冷清,后来渐渐有了名气。",
+    "pinyin": "Zhè jiā xiǎo diàn gāng kāi shí shēng yì lěng qīng, hòu lái jiàn jiàn yǒu le míng qì。",
+    "en": "This shop was quiet when it opened, but later gained a reputation."
+   },
+   {
+    "zh": "那本书我读了一半就放下了,后来一直没再看。",
+    "pinyin": "Nà běn shū wǒ dú le yí bàn jiù fàng xià le, hòu lái yì zhí méi zài kàn。",
+    "en": "I read half the book then put it down; later I never picked it up again."
+   },
+   {
+    "zh": "他先是不肯说,后来实在憋不住,才把真相讲了出来。",
+    "pinyin": "Tā xiān shì bù kěn shuō, hòu lái shí zài biē bú zhù, cái bǎ zhēn xiàng jiǎng le chū lái。",
+    "en": "He wouldn't tell at first, but later couldn't hold back the truth."
+   },
+   {
+    "zh": "我们约好一起去旅行,后来因为疫情取消了。",
+    "pinyin": "Wǒ men yuē hǎo yì qǐ qù lǚ xíng, hòu lái yīn wèi yì qíng qǔ xiāo le。",
+    "en": "We'd planned to travel together, but later canceled due to the epidemic."
+   },
+   {
+    "zh": "孩子刚上学时天天哭,后来慢慢习惯了集体生活。",
+    "pinyin": "Hái zi gāng shàng xué shí tiān tiān kū, hòu lái màn màn xí guàn le jí tǐ shēng huó。",
+    "en": "The child cried daily at first, but later got used to group life."
+   },
+   {
+    "zh": "这条河以前很清澈,后来因为污染变得又脏又臭。",
+    "pinyin": "Zhè tiáo hé yǐ qián hěn qīng chè, hòu lái yīn wèi wū rǎn biàn de yòu zàng yòu chòu。",
+    "en": "This river used to be clear; later pollution made it dirty and smelly."
+   },
+   {
+    "zh": "他起初只是随便试试,后来竟然做成了一番事业。",
+    "pinyin": "Tā qǐ chū zhǐ shì suí biàn shì shì, hòu lái jìng rán zuò chéng le yī fān shì yè。",
+    "en": "He started just casually trying, but later built a real career."
+   },
+   {
+    "zh": "我们失散了很多年,后来在一次同学会上重逢了。",
+    "pinyin": "Wǒ men shī sàn le hěn duō nián, hòu lái zài yī cì tóng xué huì shàng chóng féng le。",
+    "en": "We were separated for years; later we reunited at a class reunion."
+   },
+   {
+    "zh": "那件事当时闹得很大,后来慢慢也就平息了。",
+    "pinyin": "Nà jiàn shì dāng shí nào de hěn dà, hòu lái màn màn yě jiù píng xī le。",
+    "en": "That matter caused a big stir then, but later gradually died down."
+   },
+   {
+    "zh": "他刚来的时候一句汉语都不会,后来说得越来越流利。",
+    "pinyin": "Tā gāng lái de shí hòu yī jù hàn yǔ dōu bú huì, hòu lái shuō de yuè lái yuè liú lì。",
+    "en": "He couldn't speak a word of Chinese when he came; later he grew fluent."
+   },
+   {
+    "zh": "我先在南方工作了几年,后来又回到了北方。",
+    "pinyin": "Wǒ xiān zài nán fāng gōng zuò le jǐ nián, hòu lái yòu huí dào le běi fāng。",
+    "en": "I first worked in the south for a few years, then returned north."
+   },
+   {
+    "zh": "这个习惯是我小时候养成的,后来一直保持到现在。",
+    "pinyin": "Zhè ge xí guàn shì wǒ xiǎo shí hòu yǎng chéng de, hòu lái yì zhí bǎo chí dào xiàn zài。",
+    "en": "This habit formed in my childhood and I've kept it ever since."
+   },
+   {
+    "zh": "起初谁也不看好他,后来他用成绩证明了自己。",
+    "pinyin": "Qǐ chū shuí yě bù kàn hǎo tā, hòu lái tā yòng chéng jì zhèng míng liǎo zì jǐ。",
+    "en": "No one favored him at first, but later he proved himself with results."
+   },
+   {
+    "zh": "那天下着大雨,后来雨停了,天边还出现了彩虹。",
+    "pinyin": "Nà tiān xià zhe dà yǔ, hòu lái yǔ tíng le, tiān biān hái chū xiàn le cǎi hóng。",
+    "en": "It rained hard that day; later the rain stopped and a rainbow appeared."
+   },
+   {
+    "zh": "他俩本来只是同事,后来渐渐产生了感情。",
+    "pinyin": "Tā liǎ běn lái zhǐ shì tóng shì, hòu lái jiàn jiàn chǎn shēng le gǎn qíng。",
+    "en": "The two were just colleagues at first, but later feelings developed."
+   },
+   {
+    "zh": "我把钥匙弄丢了,后来在沙发底下找到了。",
+    "pinyin": "Wǒ bǎ yào shi nòng diū le, hòu lái zài shā fā dǐ xià zhǎo dào le。",
+    "en": "I lost the keys; later I found them under the sofa."
+   },
+   {
+    "zh": "公司刚成立时只有几个人,后来发展成了大企业。",
+    "pinyin": "Gōng sī gāng chéng lì shí zhǐ yǒu jǐ gè rén, hòu lái fā zhǎn chéng le dà qǐ yè。",
+    "en": "The company had only a few people at first; later it grew into a big firm."
+   },
+   {
+    "zh": "我们当时都很年轻,后来各自成家立业,聚少离多。",
+    "pinyin": "Wǒ men dāng shí dōu hěn nián qīng, hòu lái gè zì chéng jiā lì yè, jù shǎo lí duō。",
+    "en": "We were all young then; later each started a family, meeting rarely."
+   }
+  ]
+ },
+ {
+  "id": "g191",
+  "level": 3,
+  "title": "\"分之\" ile kesir ifadesi",
+  "titleEn": "Expressing fractions with \"fenzhi\"",
+  "pattern": "Payda + 分之 + Pay",
+  "summary": "Kesirler \"payda + 分之 + pay\" ile kurulur: 三分之一 = üçte bir; 百分之五十 = yüzde elli.",
+  "explanation": "Çince'de kesirler önce PAYDA, sonra \"分之\", sonra PAY sırasıyla okunur: payda + 分之 + pay. 三分之一 (üçte bir — üç 分之 bir), 四分之三 (dörtte üç), 百分之五十 (yüzde elli). Türkçenin tersine ÖNCE bütün (payda) söylenir. Yüzdeler \"百分之\" ile kurulur: 百分之百 (yüzde yüz), 百分之二十 (yüzde yirmi). Bir ismin bir kesrini belirtirken kesir + 的 + isim gelir: 三分之二的学生 (öğrencilerin üçte ikisi). Ondalık sayılar ise \"点\" ile: 三点五 (3,5). Bütün sayılar Çince rakamlarla yazılır. Türkçedeki \"...-de/...-te ...\" (üçte bir) ve \"yüzde ...\" kesir/oran ifadelerine denk gelir; oran ve pay anlatmanın standart yoludur.",
+  "examples": [
+   {
+    "zh": "这次活动,大约有三分之二的同学都报名参加了。",
+    "pinyin": "Zhè cì huó dòng, dà yuē yǒu sān fēn zhī èr de tóng xué dōu bào míng cān jiā le。",
+    "en": "About two-thirds of the students signed up for this event."
+   },
+   {
+    "zh": "这道题全班只有四分之一的人做对了。",
+    "pinyin": "Zhè dào tí quán bān zhǐ yǒu sì fēn zhī yī de rén zuò duì le。",
+    "en": "Only a quarter of the class got this question right."
+   },
+   {
+    "zh": "今年公司的利润比去年增长了百分之二十。",
+    "pinyin": "Jīn nián gōng sī de lì rùn bǐ qù nián zēng zhǎng le bǎi fēn zhī èr shí。",
+    "en": "The company's profit grew twenty percent over last year."
+   },
+   {
+    "zh": "地球表面大约有百分之七十都被海洋覆盖着。",
+    "pinyin": "Dì qiú biǎo miàn dà yuē yǒu bǎi fēn zhī qī shí dōu bèi hǎi yáng fù gài zhe。",
+    "en": "About seventy percent of the earth's surface is covered by ocean."
+   },
+   {
+    "zh": "这笔钱我们先付三分之一,剩下的分期付。",
+    "pinyin": "Zhè bǐ qián wǒ men xiān fù sān fēn zhī yī, shèng xià de fēn qī fù。",
+    "en": "We'll pay a third of this sum first and the rest in installments."
+   },
+   {
+    "zh": "这次考试,他的准确率达到了百分之九十以上。",
+    "pinyin": "Zhè cì kǎo shì, tā de zhǔn què lǜ dá dào le bǎi fēn zhī jiǔ shí yǐ shàng。",
+    "en": "In this exam, his accuracy reached over ninety percent."
+   },
+   {
+    "zh": "全校有五分之一的学生参加了这次公益活动。",
+    "pinyin": "Quán xiào yǒu wǔ fēn zhī yī de xué shēng cān jiā le zhè cì gōng yì huó dòng。",
+    "en": "A fifth of the school's students took part in this charity event."
+   },
+   {
+    "zh": "这瓶果汁我只喝了四分之一,剩下的你喝吧。",
+    "pinyin": "Zhè píng guǒ zhī wǒ zhǐ hē le sì fēn zhī yī, shèng xià de nǐ hē ba。",
+    "en": "I drank only a quarter of this juice; you have the rest."
+   },
+   {
+    "zh": "这项工程已经完成了百分之八十,很快就能交付。",
+    "pinyin": "Zhè xiàng gōng chéng yǐ jīng wán chéng le bǎi fēn zhī bā shí, hěn kuài jiù néng jiāo fù。",
+    "en": "This project is eighty percent done and will be delivered soon."
+   },
+   {
+    "zh": "班里三分之一的同学都近视,得注意用眼卫生。",
+    "pinyin": "Bān lǐ sān fēn zhī yī de tóng xué dōu jìn shì, de zhù yì yòng yǎn wèi shēng。",
+    "en": "A third of the class is nearsighted; eye hygiene matters."
+   },
+   {
+    "zh": "这次调查显示,超过一半的人支持这个方案。",
+    "pinyin": "Zhè cì diào chá xiǎn shì, chāo guò yí bàn de rén zhī chí zhè ge fāng àn。",
+    "en": "The survey shows over half support this plan."
+   },
+   {
+    "zh": "他把工资的十分之一固定存起来,作为储蓄。",
+    "pinyin": "Tā bǎ gōng zī de shí fēn zhī yī gù dìng cún qǐ lái, zuò wéi chǔ xù。",
+    "en": "He saves a fixed tenth of his salary as savings."
+   },
+   {
+    "zh": "这片森林在大火中损失了将近三分之一。",
+    "pinyin": "Zhè piàn sēn lín zài dà huǒ zhōng sǔn shī le jiāng jìn sān fēn zhī yī。",
+    "en": "This forest lost nearly a third in the fire."
+   },
+   {
+    "zh": "这道题只做对了一半,得分是百分之五十。",
+    "pinyin": "Zhè dào tí zhǐ zuò duì le yí bàn, de fēn shì bǎi fēn zhī wǔ shí。",
+    "en": "Only half this problem was right, scoring fifty percent."
+   },
+   {
+    "zh": "公司里女员工大约占了总人数的五分之三。",
+    "pinyin": "Gōng sī lǐ nǚ yuán gōng dà yuē zhàn le zǒng rén shù de wǔ fēn zhī sān。",
+    "en": "Female staff make up about three-fifths of the total."
+   },
+   {
+    "zh": "经过努力,他们把成本降低了百分之三十。",
+    "pinyin": "Jīng guò nǔ lì, tā men bǎ chéng běn jiàng dī le bǎi fēn zhī sān shí。",
+    "en": "Through effort, they cut costs by thirty percent."
+   },
+   {
+    "zh": "这块蛋糕分给四个人,每人正好四分之一。",
+    "pinyin": "Zhè kuài dàn gāo fēn gěi sì gè rén, měi rén zhèng hǎo sì fēn zhī yī。",
+    "en": "This cake divided among four is exactly a quarter each."
+   },
+   {
+    "zh": "据统计,这个城市百分之六十的人每天坐地铁上班。",
+    "pinyin": "Jù tǒng jì, zhè ge chéng shì bǎi fēn zhī liù shí de rén měi tiān zuò dì tiě shàng bān。",
+    "en": "Statistics show sixty percent of this city commute by subway."
+   },
+   {
+    "zh": "这次比赛,我们队赢的概率大概只有三分之一。",
+    "pinyin": "Zhè cì bǐ sài, wǒ men duì yíng de gài lǜ dà gài zhǐ yǒu sān fēn zhī yī。",
+    "en": "Our team's odds of winning this match are only about a third."
+   },
+   {
+    "zh": "水库的蓄水量已经达到了总容量的四分之三。",
+    "pinyin": "Shuǐ kù de xù shuǐ liàng yǐ jīng dá dào le zǒng róng liàng de sì fēn zhī sān。",
+    "en": "The reservoir has reached three-quarters of its total capacity."
+   },
+   {
+    "zh": "这本书我已经看了三分之二,快看完了。",
+    "pinyin": "Zhè běn shū wǒ yǐ jīng kàn le sān fēn zhī èr, kuài kàn wán le。",
+    "en": "I've read two-thirds of this book; almost done."
+   },
+   {
+    "zh": "调查中,百分之九十的顾客对服务表示满意。",
+    "pinyin": "Diào chá zhōng, bǎi fēn zhī jiǔ shí de gù kè duì fú wù biǎo shì mǎn yì。",
+    "en": "In the survey, ninety percent of customers were satisfied with the service."
+   },
+   {
+    "zh": "他家的开支中,有三分之一都花在了孩子的教育上。",
+    "pinyin": "Tā jiā de kāi zhī zhōng, yǒu sān fēn zhī yī dōu huā zài le hái zi de jiào yù shàng。",
+    "en": "A third of his family's expenses go to the children's education."
+   },
+   {
+    "zh": "这次减价,很多商品都便宜了百分之四十。",
+    "pinyin": "Zhè cì jiǎn jià, hěn duō shāng pǐn dōu pián yi le bǎi fēn zhī sì shí。",
+    "en": "In this sale, many goods were forty percent cheaper."
+   },
+   {
+    "zh": "参加会议的人中,大约五分之一是外地来的。",
+    "pinyin": "Cān jiā huì yì de rén zhōng, dà yuē wǔ fēn zhī yī shì wài dì lái de。",
+    "en": "About a fifth of the meeting's attendees came from out of town."
+   }
+  ]
+ },
+ {
+  "id": "g192",
+  "level": 3,
+  "title": "\"多\" ile \"...-den fazla, küsur\"",
+  "titleEn": "Indicating a number in excess",
+  "pattern": "Sayı + 多 + (Ölçü) + İsim",
+  "summary": "Sayıdan sonra \"多\" (duō) \"...-den biraz fazla, küsur\" anlamı verir: 三十多岁 = otuz küsur yaşında; 一百多块 = yüz küsur lira.",
+  "explanation": "Bir sayının ardına gelen \"多\" o sayıdan BİRAZ FAZLA, üstünde bir miktarı bildirir: \"...-den fazla, küsur, artı\". Yerleşimi sayının büyüklüğüne bağlıdır: (1) Tam onluk/yüzlük sayılarda \"多\" ölçü sözcüğünden ÖNCE gelir — 三十多个 (otuz küsur tane), 一百多块 (yüz küsur lira), 两千多人 (iki bin küsur kişi). (2) Tam olmayan (birler basamağı dolu) sayılarda \"多\" ölçü sözcüğünden SONRA, kesir kısmı için gelir — 三块多 (üç lira küsur), 一米多 (bir metre küsur), 一个多小时 (bir saatten fazla). Türkçedeki \"...-den fazla, küsur, artı, aşkın\" ifadelerine denk gelir ve yaklaşık ama sınırlı bir fazlalığı belirtir. Bütün sayılar Çince rakamlarla yazılır.",
+  "examples": [
+   {
+    "zh": "他今年三十多岁了,事业和家庭都很稳定。",
+    "pinyin": "Tā jīn nián sān shí duō suì le, shì yè hé jiā tíng dōu hěn wěn dìng。",
+    "en": "He's thirty-odd this year, with a stable career and family."
+   },
+   {
+    "zh": "这件衣服才一百多块,又好看又便宜。",
+    "pinyin": "Zhè jiàn yī fú cái yì bǎi duō kuài, yòu hǎo kàn yòu pián yi。",
+    "en": "This outfit is only a hundred-odd yuan, pretty and cheap."
+   },
+   {
+    "zh": "我在这家公司已经工作十多年了。",
+    "pinyin": "Wǒ zài zhè jiā gōng sī yǐ jīng gōng zuò shí duō nián le。",
+    "en": "I've worked at this company for over ten years."
+   },
+   {
+    "zh": "从这儿到火车站,坐车要一个多小时。",
+    "pinyin": "Cóng zhè ér dào huǒ chē zhàn, zuò chē yào yí gè duō xiǎo shí。",
+    "en": "From here to the train station takes over an hour by car."
+   },
+   {
+    "zh": "这场活动一共来了两千多人,场面非常热闹。",
+    "pinyin": "Zhè chǎng huó dòng yī gòng lái le liǎng qiān duō rén, chǎng miàn fēi cháng rè nào。",
+    "en": "Over two thousand people came to this event; it was very lively."
+   },
+   {
+    "zh": "这条鱼三斤多重,够我们一家人吃一顿了。",
+    "pinyin": "Zhè tiáo yú sān jīn duō zhòng, gòu wǒ men yī jiā rén chī yī dùn le。",
+    "en": "This fish weighs over three jin, enough for our family's meal."
+   },
+   {
+    "zh": "他家离学校有五公里多,每天骑车上学。",
+    "pinyin": "Tā jiā lí xué xiào yǒu wǔ gōng lǐ duō, měi tiān qí chē shàng xué。",
+    "en": "His home is over five kilometers from school; he cycles daily."
+   },
+   {
+    "zh": "这本书四百多页,我看了差不多一个星期。",
+    "pinyin": "Zhè běn shū sì bǎi duō yè, wǒ kàn le chà bu duō yí gè xīng qī。",
+    "en": "This book is over four hundred pages; I read it for about a week."
+   },
+   {
+    "zh": "我等了他二十多分钟,他才匆匆赶来。",
+    "pinyin": "Wǒ děng le tā èr shí duō fēn zhōng, tā cái cōng cōng gǎn lái。",
+    "en": "I waited over twenty minutes before he hurried over."
+   },
+   {
+    "zh": "这个西瓜十多斤,一个人根本吃不完。",
+    "pinyin": "Zhè ge xī guā shí duō jīn, yí gè rén gēn běn chī bù wán。",
+    "en": "This watermelon is over ten jin; one person can't finish it."
+   },
+   {
+    "zh": "这座桥有一百多年的历史了,依然很坚固。",
+    "pinyin": "Zhè zuò qiáo yǒu yì bǎi duō nián de lì shǐ le, yī rán hěn jiān gù。",
+    "en": "This bridge is over a hundred years old, yet still very sturdy."
+   },
+   {
+    "zh": "他一个月能挣八千多块,日子过得挺宽裕。",
+    "pinyin": "Tā yí gè yuè néng zhēng bā qiān duō kuài, rì zi guò de tǐng kuān yù。",
+    "en": "He earns over eight thousand a month; life is quite comfortable."
+   },
+   {
+    "zh": "这次考试满分一百,他考了九十多分。",
+    "pinyin": "Zhè cì kǎo shì mǎn fēn yì bǎi, tā kǎo le jiǔ shí duō fēn。",
+    "en": "This exam is out of a hundred; he scored in the nineties."
+   },
+   {
+    "zh": "这棵大树已经有五十多年了,长得非常高大。",
+    "pinyin": "Zhè kē dà shù yǐ jīng yǒu wǔ shí duō nián le, zhǎng de fēi cháng gāo dà。",
+    "en": "This big tree is over fifty years old, grown very tall."
+   },
+   {
+    "zh": "超市里排队的有三十多个人,我们等了好久。",
+    "pinyin": "Chāo shì lǐ pái duì de yǒu sān shí duō gè rén, wǒ men děng le hǎo jiǔ。",
+    "en": "Over thirty people queued at the supermarket; we waited long."
+   },
+   {
+    "zh": "这袋米二十多斤,你一个人拿得动吗?",
+    "pinyin": "Zhè dài mǐ èr shí duō jīn, nǐ yí gè rén ná de dòng ma?",
+    "en": "This bag of rice is over twenty jin; can you carry it alone?"
+   },
+   {
+    "zh": "他们结婚二十多年了,感情一直很好。",
+    "pinyin": "Tā men jié hūn èr shí duō nián le, gǎn qíng yì zhí hěn hǎo。",
+    "en": "They've been married over twenty years and remain very close."
+   },
+   {
+    "zh": "这条裙子三百多块,是她攒了很久才买的。",
+    "pinyin": "Zhè tiáo qún zi sān bǎi duō kuài, shì tā zǎn le hěn jiǔ cái mǎi de。",
+    "en": "This dress is over three hundred yuan; she saved long to buy it."
+   },
+   {
+    "zh": "那场大雪下了三天多,积雪有半米深。",
+    "pinyin": "Nà chǎng dà xuě xià le sān tiān duō, jī xuě yǒu bàn mǐ shēn。",
+    "en": "That heavy snow fell for over three days, piling up half a meter."
+   },
+   {
+    "zh": "这个班有四十多个学生,老师照顾得很周到。",
+    "pinyin": "Zhè ge bān yǒu sì shí duō gè xué shēng, lǎo shī zhào gù de hěn zhōu dào。",
+    "en": "This class has over forty students, well cared for by the teacher."
+   },
+   {
+    "zh": "他跑了十多公里,累得连话都说不出来。",
+    "pinyin": "Tā pǎo le shí duō gōng lǐ, lèi de lián huà dōu shuō bù chū lái。",
+    "en": "He ran over ten kilometers, too tired even to speak."
+   },
+   {
+    "zh": "这幅画卖了五万多块,买家非常满意。",
+    "pinyin": "Zhè fú huà mài le wǔ wàn duō kuài, mǎi jiā fēi cháng mǎn yì。",
+    "en": "This painting sold for over fifty thousand; the buyer was very pleased."
+   },
+   {
+    "zh": "我们在山里走了三个多小时才到目的地。",
+    "pinyin": "Wǒ men zài shān lǐ zǒu le sān gè duō xiǎo shí cái dào mù dì de。",
+    "en": "We walked over three hours in the mountains before reaching our goal."
+   },
+   {
+    "zh": "这条路修了半年多,现在终于通车了。",
+    "pinyin": "Zhè tiáo lù xiū le bàn nián duō, xiàn zài zhōng yú tōng chē le。",
+    "en": "This road took over half a year to build and is finally open."
+   },
+   {
+    "zh": "他收藏了两百多张老唱片,都保存得很好。",
+    "pinyin": "Tā shōu cáng le liǎng bǎi duō zhāng lǎo chàng piàn, dōu bǎo cún de hěn hǎo。",
+    "en": "He's collected over two hundred old records, all well preserved."
+   }
+  ]
+ },
+ {
+  "id": "g193",
+  "level": 3,
+  "title": "\"..., ... 吗?\" ile teyit sorusu",
+  "titleEn": "Advanced yes-no questions with \"ma\"",
+  "pattern": "Teyit，Soru + 吗？",
+  "summary": "Önce bir varsayım/teyit belirtip sonra \"吗?\" ile onay istenir: 你是老师,对吗? = Öğretmensin, değil mi?",
+  "explanation": "Bir varsayımı ya da bildiğini önce ifade edip sonra bunu \"吗?\" ile teyit ettiren gelişmiş bir soru biçimidir. Cümlenin başında bir DURUM/varsayım belirtilir, sonra bir teyit ya da soru öbeği \"吗\" ile eklenir: 这件事你已经知道了吗? (Bunu zaten biliyor musun?), 你今天不太舒服,是吗? (Bugün pek iyi değilsin, öyle mi?). Basit \"吗\" sorusundan farkı, konuşmacının çoğu zaman bir BEKLENTİSİ/tahmini olması ve onu doğrulatmasıdır; \"...,对吗?\" (...değil mi?), \"...,是吗?\" (...öyle mi?) gibi ekler alabilir. Nazikçe teyit isteme, varsayımı sınama işlevi taşır. Türkçedeki \"...-mısın?, ... değil mi?, öyle mi?, ... olmuyor mu?\" teyit sorularına denk gelir.",
+  "examples": [
+   {
+    "zh": "这件事你已经跟他说过了吗?他怎么一点都不惊讶?",
+    "pinyin": "Zhè jiàn shì nǐ yǐ jīng gēn tā shuō guò le ma? tā zěn me yì diǎn dōu bù jīng yà?",
+    "en": "Have you already told him? He doesn't seem surprised at all."
+   },
+   {
+    "zh": "你今天看起来不太高兴,是遇到什么烦心事了吗?",
+    "pinyin": "Nǐ jīn tiān kàn qǐ lái bù tài gāo xìng, shì yù dào shén me fán xīn shì le ma?",
+    "en": "You look unhappy today; did something upsetting happen?"
+   },
+   {
+    "zh": "这道菜是你自己做的吗?味道真是太好了!",
+    "pinyin": "Zhè dào cài shì nǐ zì jǐ zuò de ma? wèi dào zhēn shì tài hǎo le!",
+    "en": "Did you make this dish yourself? It tastes wonderful!"
+   },
+   {
+    "zh": "你是从南方来的吧,难怪你不太习惯这里的天气,对吗?",
+    "pinyin": "Nǐ shì cóng nán fāng lái de ba, nán guài nǐ bù tài xí guàn zhè lǐ de tiān qì, duì ma?",
+    "en": "You're from the south, right? No wonder you're not used to the weather here."
+   },
+   {
+    "zh": "这么晚了你还没吃饭吗?我给你下碗面吧。",
+    "pinyin": "Zhè me wǎn le nǐ hái méi chī fàn ma? wǒ gěi nǐ xià wǎn miàn ba。",
+    "en": "You still haven't eaten this late? Let me make you some noodles."
+   },
+   {
+    "zh": "你确定这个时间他一定在家吗?别白跑一趟。",
+    "pinyin": "Nǐ què dìng zhè ge shí jiān tā yí dìng zài jiā ma? bié bái pǎo yī tàng。",
+    "en": "Are you sure he'll be home at this time? Don't make the trip for nothing."
+   },
+   {
+    "zh": "这些照片都是你拍的吗?拍得真专业。",
+    "pinyin": "Zhè xiē zhào piān dōu shì nǐ pāi de ma? pāi de zhēn zhuān yè。",
+    "en": "Did you take all these photos? They're really professional."
+   },
+   {
+    "zh": "你不是说今天有空吗?怎么又要加班了?",
+    "pinyin": "Nǐ bú shì shuō jīn tiān yǒu kòng ma? zěn me yòu yào jiā bān le?",
+    "en": "Didn't you say you were free today? Why the overtime again?"
+   },
+   {
+    "zh": "你以前来过这个城市吗?怎么对这儿这么熟?",
+    "pinyin": "Nǐ yǐ qián lái guò zhè ge chéng shì ma? zěn me duì zhè ér zhè me shú?",
+    "en": "Have you been to this city before? You know it so well."
+   },
+   {
+    "zh": "这件衣服你穿着有点大,是不是买错号了吗?",
+    "pinyin": "Zhè jiàn yī fú nǐ chuān zhe yǒu diǎn dà, shì bú shì mǎi cuò hào le ma?",
+    "en": "This outfit looks a bit big on you; did you get the wrong size?"
+   },
+   {
+    "zh": "你真的决定要辞职了吗?这么大的事要想清楚。",
+    "pinyin": "Nǐ zhēn de jué dìng yào cí zhí le ma? zhè me dà de shì yào xiǎng qīng chǔ。",
+    "en": "Have you really decided to resign? Think carefully about something so big."
+   },
+   {
+    "zh": "外面还在下雨吗?我出门要不要带伞?",
+    "pinyin": "Wài miàn hái zài xià yǔ ma? wǒ chū mén yào bù yào dài sǎn?",
+    "en": "Is it still raining outside? Should I take an umbrella?"
+   },
+   {
+    "zh": "你和他很熟吗?能不能帮我引荐一下?",
+    "pinyin": "Nǐ hé tā hěn shú ma? néng bù néng bāng wǒ yǐn jiàn yī xià?",
+    "en": "Do you know him well? Could you introduce me?"
+   },
+   {
+    "zh": "这个消息你是从哪儿听来的,可靠吗?",
+    "pinyin": "Zhè ge xiāo xī nǐ shì cóng nǎ ér tīng lái de, kě kào ma?",
+    "en": "Where did you hear this news? Is it reliable?"
+   },
+   {
+    "zh": "你昨天没睡好吗?看你今天一直在打哈欠。",
+    "pinyin": "Nǐ zuó tiān méi shuì hǎo ma? kàn nǐ jīn tiān yì zhí zài dǎ hā qiàn。",
+    "en": "Did you sleep badly last night? You've been yawning all day."
+   },
+   {
+    "zh": "你以前学过钢琴吗?弹得这么好,让人羡慕。",
+    "pinyin": "Nǐ yǐ qián xué guò gāng qín ma? dàn de zhè me hǎo, ràng rén xiàn mù。",
+    "en": "Did you learn piano before? You play so well, it's enviable."
+   },
+   {
+    "zh": "这么重要的会议,你确定他会准时到吗?",
+    "pinyin": "Zhè me zhòng yào de huì yì, nǐ què dìng tā huì zhǔn shí dào ma?",
+    "en": "For such an important meeting, are you sure he'll arrive on time?"
+   },
+   {
+    "zh": "你不是不喜欢吃辣吗?怎么点了这么辣的菜?",
+    "pinyin": "Nǐ bú shì bù xǐ huān chī là ma? zěn me diǎn le zhè me là de cài?",
+    "en": "Don't you dislike spicy food? Why order such a spicy dish?"
+   },
+   {
+    "zh": "这本书你看完了吗?能不能借给我看看?",
+    "pinyin": "Zhè běn shū nǐ kàn wán le ma? néng bù néng jiè gěi wǒ kàn kàn?",
+    "en": "Have you finished this book? Could you lend it to me?"
+   },
+   {
+    "zh": "你们俩是老同学吗?看你们聊得这么开心。",
+    "pinyin": "Nǐ men liǎ shì lǎo tóng xué ma? kàn nǐ men liáo de zhè me kāi xīn。",
+    "en": "Are you two old classmates? You seem to chat so happily."
+   },
+   {
+    "zh": "你确定把门锁好了吗?我总觉得心里不踏实。",
+    "pinyin": "Nǐ què dìng bǎ mén suǒ hǎo le ma? wǒ zǒng jué de xīn lǐ bù tà shí。",
+    "en": "Are you sure you locked the door? I feel uneasy about it."
+   },
+   {
+    "zh": "这么冷的天,你就穿这么点儿衣服,不冷吗?",
+    "pinyin": "Zhè me lěng de tiān, nǐ jiù chuān zhè me diǎn er yī fú, bù lěng ma?",
+    "en": "In such cold weather, dressed so lightly, aren't you cold?"
+   },
+   {
+    "zh": "你之前不是很想去那个地方吗?现在怎么又不想去了?",
+    "pinyin": "Nǐ zhī qián bú shì hěn xiǎng qù nà ge dì fāng ma? xiàn zài zěn me yòu bù xiǎng qù le?",
+    "en": "Didn't you really want to go there before? Why not now?"
+   },
+   {
+    "zh": "这些工作你一个人能忙得过来吗?要不要我帮忙?",
+    "pinyin": "Zhè xiē gōng zuò nǐ yí gè rén néng máng de guò lái ma? yào bù yào wǒ bāng máng?",
+    "en": "Can you handle all this work alone? Do you need my help?"
+   },
+   {
+    "zh": "你尝过这家的招牌菜了吗?据说是一绝。",
+    "pinyin": "Nǐ cháng guò zhè jiā de zhāo pái cài le ma? jù shuō shì yī jué。",
+    "en": "Have you tried this place's signature dish? They say it's superb."
+   }
+  ]
+ },
+ {
+  "id": "g194",
+  "level": 3,
+  "title": "\"着\" ile süreklilik/durum",
+  "titleEn": "Aspect particle \"zhe\"",
+  "pattern": "Fiil + 着",
+  "summary": "Fiilin ardındaki \"着\" (zhe) bir eylemin ya da durumun SÜRDÜĞÜNÜ gösterir: 开着门 = kapı açık (durumda); 笑着说 = gülerek söylemek.",
+  "explanation": "Fiilin ardına gelen \"着\", bir eylemin ya da durumun O ANDA SÜRDÜĞÜNÜ/devam ettiğini gösterir. İki temel kullanımı: (1) DURUM sürekliliği — bir eylemin sonucu olan hâlin sürmesi: 门开着 (Kapı açık duruyor), 墙上挂着一幅画 (Duvarda bir tablo asılı). (2) İKİ EŞ ZAMANLI EYLEM — birinci eyleme \"着\" gelip ikinci eylemin nasıl/hangi durumda yapıldığını gösterir: 他笑着说 (Gülerek söyledi), 我站着吃饭 (Ayakta yemek yedim). \"着\" burada \"了\" (tamamlanma) ve \"过\" (deneyim) gibi bir GÖRÜNÜŞ (aspect) ekidir ama sürekliliği/hâli anlatır. Olumsuzu \"没(有)...着\" ile kurulur. Türkçedeki \"...-erek, ...-mekte, ...-mış durumda, ...-a ...-a\" yapılarına denk gelir; süregelen durumları ve eş zamanlı eylemleri anlatmada temeldir.",
+  "examples": [
+   {
+    "zh": "门开着呢,你直接进来就行,不用敲门。",
+    "pinyin": "Mén kāi zhe ne, nǐ zhí jiē jìn lái jiù xíng, bù yòng qiāo mén。",
+    "en": "The door's open; just come in, no need to knock."
+   },
+   {
+    "zh": "他笑着向我们走过来,看起来心情很好。",
+    "pinyin": "Tā xiào zhe xiàng wǒ men zǒu guò lái, kàn qǐ lái xīn qíng hěn hǎo。",
+    "en": "He walked toward us smiling, seeming in a good mood."
+   },
+   {
+    "zh": "墙上挂着一张全家福,记录着幸福的时光。",
+    "pinyin": "Qiáng shàng guà zhe yī zhāng quán jiā fú, jì lù zhe xìng fú de shí guāng。",
+    "en": "A family photo hangs on the wall, recording happy times."
+   },
+   {
+    "zh": "孩子们围着火堆,听老人讲着古老的传说。",
+    "pinyin": "Hái zi men wéi zháo huǒ duī, tīng lǎo rén jiǎng zhe gǔ lǎo de chuán shuō。",
+    "en": "The children sat around the fire, listening to the elder's old legend."
+   },
+   {
+    "zh": "她低着头,一句话也不说,好像有心事。",
+    "pinyin": "Tā dī zhe tóu, yī jù huà yě bù shuō, hǎo xiàng yǒu xīn shì。",
+    "en": "She lowered her head and said nothing, as if troubled."
+   },
+   {
+    "zh": "桌子上放着一杯还冒着热气的咖啡。",
+    "pinyin": "Zhuō zi shàng fàng zhe yī bēi hái mào zhe rè qì de kā fēi。",
+    "en": "On the table sat a cup of coffee still steaming."
+   },
+   {
+    "zh": "他背着沉重的行李,一步一步艰难地往前走。",
+    "pinyin": "Tā bèi zhe chén zhòng de xíng lǐ, yí bù yí bù jiān nán de wǎng qián zǒu。",
+    "en": "Carrying heavy luggage, he trudged forward step by step."
+   },
+   {
+    "zh": "窗户开着,清凉的风轻轻地吹进屋里。",
+    "pinyin": "Chuāng hù kāi zhe, qīng liáng de fēng qīng qīng de chuī jìn wū lǐ。",
+    "en": "The window was open, and a cool breeze drifted gently in."
+   },
+   {
+    "zh": "老人坐在门口,静静地看着来来往往的行人。",
+    "pinyin": "Lǎo rén zuò zài mén kǒu, jìng jìng de kàn zhe lái lái wǎng wǎng de xíng rén。",
+    "en": "The old man sat at the door, quietly watching passers-by."
+   },
+   {
+    "zh": "小狗摇着尾巴,亲热地跟在主人身后。",
+    "pinyin": "Xiǎo gǒu yáo zhe wěi ba, qīn rè de gēn zài zhǔ rén shēn hòu。",
+    "en": "The puppy wagged its tail, following its owner affectionately."
+   },
+   {
+    "zh": "他们手拉着手,沿着海边慢慢地散步。",
+    "pinyin": "Tā men shǒu lā zhuó shǒu, yán zhe hǎi biān màn màn de sàn bù。",
+    "en": "Hand in hand, they strolled slowly along the seaside."
+   },
+   {
+    "zh": "屋里的灯还亮着,看来他还没有睡。",
+    "pinyin": "Wū lǐ de dēng hái liàng zhe, kàn lái tā hái méi yǒu shuì。",
+    "en": "The light inside is still on; it seems he hasn't slept."
+   },
+   {
+    "zh": "她抱着孩子,轻轻地哼着一首摇篮曲。",
+    "pinyin": "Tā bào zhe hái zi, qīng qīng de hēng zhe yī shǒu yáo lán qǔ。",
+    "en": "Holding the child, she softly hummed a lullaby."
+   },
+   {
+    "zh": "院子里的花开着,散发出淡淡的清香。",
+    "pinyin": "Yuàn zi lǐ de huā kāi zhe, sàn fà chū dàn dàn de qīng xiāng。",
+    "en": "The flowers in the yard are blooming, giving off a faint fragrance."
+   },
+   {
+    "zh": "他站着看完了整场演出,一点儿都不觉得累。",
+    "pinyin": "Tā zhàn zhe kàn wán le zhěng chǎng yǎn chū, yì diǎn ér dōu bù jué de lèi。",
+    "en": "He watched the whole show standing and didn't feel tired at all."
+   },
+   {
+    "zh": "路边停着几辆车,不知道是谁家客人的。",
+    "pinyin": "Lù biān tíng zhe jǐ liàng chē, bù zhī dào shì shuí jiā kè rén de。",
+    "en": "A few cars are parked by the road; whose guests, I wonder."
+   },
+   {
+    "zh": "妈妈忙着做饭,爸爸在一旁帮着择菜。",
+    "pinyin": "Mā mā máng zhe zuò fàn, bà bà zài yī páng bāng zhe zhái cài。",
+    "en": "Mom was busy cooking while dad helped prepare the vegetables."
+   },
+   {
+    "zh": "他闭着眼睛,静静地享受着这难得的宁静。",
+    "pinyin": "Tā bì zhuó yǎn jīng, jìng jìng de xiǎng shòu zhe zhè nán de de níng jìng。",
+    "en": "With eyes closed, he quietly savored this rare calm."
+   },
+   {
+    "zh": "远处的山顶上还覆盖着一层白白的积雪。",
+    "pinyin": "Yuǎn chù de shān dǐng shàng hái fù gài zhe yī céng bái bái de jī xuě。",
+    "en": "The distant mountaintop is still covered with a layer of white snow."
+   },
+   {
+    "zh": "孩子举着一个大大的气球,开心地跑来跑去。",
+    "pinyin": "Hái zi jǔ zhe yí gè dà dà de qì qiú, kāi xīn de pǎo lái pǎo qù。",
+    "en": "The child ran about happily holding a big balloon."
+   },
+   {
+    "zh": "他扶着栏杆,慢慢地走下了长长的台阶。",
+    "pinyin": "Tā fú zhe lán gān, màn màn de zǒu xià le cháng cháng de tái jiē。",
+    "en": "Holding the rail, he slowly walked down the long steps."
+   },
+   {
+    "zh": "桌上的蜡烛燃烧着,把整个房间照得暖暖的。",
+    "pinyin": "Zhuō shàng de là zhú rán shāo zhe, bǎ zhěng gè fáng jiān zhào de nuǎn nuǎn de。",
+    "en": "The candle on the table burned, warming the whole room."
+   },
+   {
+    "zh": "她穿着一条漂亮的裙子,笑着和大家打招呼。",
+    "pinyin": "Tā chuān zhe yī tiáo piào liàng de qún zi, xiào zhe hé dà jiā dǎ zhāo hū。",
+    "en": "Wearing a pretty dress, she greeted everyone with a smile."
+   },
+   {
+    "zh": "窗外下着大雨,我们只好待在屋里看书。",
+    "pinyin": "Chuāng wài xià zhe dà yǔ, wǒ men zhǐ hǎo dài zài wū lǐ kàn shū。",
+    "en": "Heavy rain fell outside, so we could only stay in and read."
+   },
+   {
+    "zh": "他手里拿着一封信,脸上带着复杂的表情。",
+    "pinyin": "Tā shǒu lǐ ná zhe yī fēng xìn, liǎn shàng dài zhe fù zá de biǎo qíng。",
+    "en": "He held a letter, a complicated expression on his face."
+   }
+  ]
  }
 ]

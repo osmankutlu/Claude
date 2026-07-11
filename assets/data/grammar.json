@@ -3942,5 +3942,821 @@
     "en": "I didn't do anything wrong, why should I apologize to him?"
    }
   ]
+ },
+ {
+  "id": "g030",
+  "level": 1,
+  "title": "\"不要\" ile olumsuz emir",
+  "titleEn": "Negative commands with \"buyao\"",
+  "pattern": "不要 + Fiil",
+  "summary": "\"不要\" (búyào) bir eylemi yapmamayı söyler: 不要说话！ = Konuşma!",
+  "explanation": "\"不要\", birine bir şeyi YAPMAMASINI söyleyen olumsuz emir kalıbıdır: 不要迟到 (geç kalma). Daha kısa/samimi biçimi \"别\" (bié) ile aynı anlama gelir: 不要走 = 别走 (gitme). \"不要\" ayrıca \"...istemiyorum\" anlamında da kullanılabilir (bağlam ayırt eder). Nazikçe rica için başına \"请\" eklenir: 请不要吸烟 (lütfen sigara içmeyin).",
+  "examples": [
+   {
+    "zh": "上课的时候不要说话。",
+    "pinyin": "Shàngkè de shíhou búyào shuōhuà.",
+    "en": "Don't talk during class."
+   },
+   {
+    "zh": "你不要担心,一切都会好起来的。",
+    "pinyin": "Nǐ búyào dānxīn, yíqiè dōu huì hǎo qǐlái de.",
+    "en": "Don't worry, everything will be okay."
+   },
+   {
+    "zh": "开车的时候请不要看手机。",
+    "pinyin": "Kāichē de shíhou qǐng búyào kàn shǒujī.",
+    "en": "Please don't look at your phone while driving."
+   },
+   {
+    "zh": "这件事不要告诉别人,是个秘密。",
+    "pinyin": "Zhè jiàn shì búyào gàosù biérén, shì ge mìmì.",
+    "en": "Don't tell anyone about this, it's a secret."
+   },
+   {
+    "zh": "不要浪费时间,快去做作业吧。",
+    "pinyin": "Búyào làngfèi shíjiān, kuài qù zuò zuòyè ba.",
+    "en": "Don't waste time, go do your homework."
+   },
+   {
+    "zh": "你不要生气,听我解释一下。",
+    "pinyin": "Nǐ búyào shēngqì, tīng wǒ jiěshì yíxià.",
+    "en": "Don't be angry, let me explain."
+   },
+   {
+    "zh": "天太黑了,你不要一个人走。",
+    "pinyin": "Tiān tài hēi le, nǐ búyào yí ge rén zǒu.",
+    "en": "It's too dark, don't walk alone."
+   },
+   {
+    "zh": "不要因为一次失败就放弃。",
+    "pinyin": "Búyào yīnwèi yí cì shībài jiù fàngqì.",
+    "en": "Don't give up just because of one failure."
+   },
+   {
+    "zh": "你不要总是拿自己跟别人比。",
+    "pinyin": "Nǐ búyào zǒngshì ná zìjǐ gēn biérén bǐ.",
+    "en": "Don't always compare yourself to others."
+   },
+   {
+    "zh": "请大家不要在这里大声说话。",
+    "pinyin": "Qǐng dàjiā búyào zài zhèlǐ dàshēng shuōhuà.",
+    "en": "Please don't speak loudly here."
+   },
+   {
+    "zh": "不要相信那些没有根据的话。",
+    "pinyin": "Búyào xiāngxìn nàxiē méiyǒu gēnjù de huà.",
+    "en": "Don't believe those unfounded words."
+   },
+   {
+    "zh": "你不要把所有的事都放在心上。",
+    "pinyin": "Nǐ búyào bǎ suǒyǒu de shì dōu fàng zài xīn shàng.",
+    "en": "Don't take everything to heart."
+   },
+   {
+    "zh": "东西还没坏,不要着急扔掉。",
+    "pinyin": "Dōngxi hái méi huài, búyào zháojí rēngdiào.",
+    "en": "The thing isn't broken yet, don't rush to throw it away."
+   },
+   {
+    "zh": "不要害怕犯错,错误也是一种学习。",
+    "pinyin": "Búyào hàipà fàncuò, cuòwù yě shì yì zhǒng xuéxí.",
+    "en": "Don't be afraid of making mistakes; mistakes are also learning."
+   },
+   {
+    "zh": "你不要太累了,记得好好休息。",
+    "pinyin": "Nǐ búyào tài lèi le, jìde hǎohǎo xiūxi.",
+    "en": "Don't overtire yourself, remember to rest well."
+   },
+   {
+    "zh": "不要对陌生人说太多自己的事。",
+    "pinyin": "Búyào duì mòshēngrén shuō tài duō zìjǐ de shì.",
+    "en": "Don't tell strangers too much about yourself."
+   },
+   {
+    "zh": "请不要随便动我桌子上的东西。",
+    "pinyin": "Qǐng búyào suíbiàn dòng wǒ zhuōzi shàng de dōngxi.",
+    "en": "Please don't move things on my desk without asking."
+   },
+   {
+    "zh": "你不要小看这件小事,它很重要。",
+    "pinyin": "Nǐ búyào xiǎokàn zhè jiàn xiǎoshì, tā hěn zhòngyào.",
+    "en": "Don't underestimate this small matter, it's important."
+   },
+   {
+    "zh": "不要等到失去了才知道珍惜。",
+    "pinyin": "Búyào děngdào shīqù le cái zhīdào zhēnxī.",
+    "en": "Don't wait until you've lost something to cherish it."
+   },
+   {
+    "zh": "你不要勉强自己去做不喜欢的事。",
+    "pinyin": "Nǐ búyào miǎnqiǎng zìjǐ qù zuò bù xǐhuan de shì.",
+    "en": "Don't force yourself to do things you dislike."
+   },
+   {
+    "zh": "不要因为别人的看法而改变自己。",
+    "pinyin": "Búyào yīnwèi biérén de kànfǎ ér gǎibiàn zìjǐ.",
+    "en": "Don't change yourself because of others' opinions."
+   },
+   {
+    "zh": "孩子还小,不要给他太大的压力。",
+    "pinyin": "Háizi hái xiǎo, búyào gěi tā tài dà de yālì.",
+    "en": "The child is still young, don't put too much pressure on him."
+   },
+   {
+    "zh": "你不要一直低头,抬起头来看看这个世界。",
+    "pinyin": "Nǐ búyào yìzhí dītóu, tái qǐ tóu lái kànkan zhège shìjiè.",
+    "en": "Don't keep looking down; lift your head and see the world."
+   },
+   {
+    "zh": "不要为了一点小事伤了和气。",
+    "pinyin": "Búyào wèile yìdiǎn xiǎoshì shāng le héqi.",
+    "en": "Don't ruin the friendship over a small thing."
+   },
+   {
+    "zh": "你不要忘了,不管发生什么,我都会支持你。",
+    "pinyin": "Nǐ búyào wàng le, bùguǎn fāshēng shénme, wǒ dōu huì zhīchí nǐ.",
+    "en": "Don't forget, no matter what happens, I'll support you."
+   }
+  ]
+ },
+ {
+  "id": "g031",
+  "level": 1,
+  "title": "Temel cümle dizilişi",
+  "titleEn": "Basic sentence order",
+  "pattern": "Özne + Fiil (+ Nesne)",
+  "summary": "Çince'nin temel cümle dizilişi Türkçe'den farklıdır: Özne + Fiil + Nesne (SVO). 我爱你 = Ben seviyorum seni.",
+  "explanation": "Çince cümle temeli Özne-Fiil-Nesne (SVO) sırasını izler — İngilizce gibi, Türkçe'den (SOV) farklı. \"我爱你\" (ben-sev-seni), \"他喝水\" (o-iç-su). Zaman ve yer belirteçleri genellikle öznenin hemen ardında, fiilden ÖNCE gelir: \"我明天在家看书\" (ben-yarın-evde-oku-kitap). Bu temel iskelet üzerine tüm diğer yapılar kurulur.",
+  "examples": [
+   {
+    "zh": "我爱你,这一辈子都不会变。",
+    "pinyin": "Wǒ ài nǐ, zhè yíbèizi dōu bú huì biàn.",
+    "en": "I love you, and it won't change my whole life."
+   },
+   {
+    "zh": "孩子每天早上喝一杯牛奶。",
+    "pinyin": "Háizi měitiān zǎoshang hē yì bēi niúnǎi.",
+    "en": "The child drinks a glass of milk every morning."
+   },
+   {
+    "zh": "老师认真地回答了学生的问题。",
+    "pinyin": "Lǎoshī rènzhēn de huídá le xuésheng de wèntí.",
+    "en": "The teacher answered the students' questions seriously."
+   },
+   {
+    "zh": "我昨天在图书馆看了一整天书。",
+    "pinyin": "Wǒ zuótiān zài túshūguǎn kàn le yìzhěng tiān shū.",
+    "en": "I read all day at the library yesterday."
+   },
+   {
+    "zh": "他用自己的努力改变了命运。",
+    "pinyin": "Tā yòng zìjǐ de nǔlì gǎibiàn le mìngyùn.",
+    "en": "He changed his fate through his own effort."
+   },
+   {
+    "zh": "妈妈给我做了我最爱吃的菜。",
+    "pinyin": "Māma gěi wǒ zuò le wǒ zuì ài chī de cài.",
+    "en": "Mom made my favorite dish for me."
+   },
+   {
+    "zh": "我们明天下午三点开会。",
+    "pinyin": "Wǒmen míngtiān xiàwǔ sān diǎn kāihuì.",
+    "en": "We have a meeting at three tomorrow afternoon."
+   },
+   {
+    "zh": "他每个周末都陪父母吃饭。",
+    "pinyin": "Tā měi ge zhōumò dōu péi fùmǔ chīfàn.",
+    "en": "He has dinner with his parents every weekend."
+   },
+   {
+    "zh": "这个消息让所有人都很吃惊。",
+    "pinyin": "Zhège xiāoxi ràng suǒyǒu rén dōu hěn chījīng.",
+    "en": "This news surprised everyone."
+   },
+   {
+    "zh": "我在这个城市生活了很多年。",
+    "pinyin": "Wǒ zài zhège chéngshì shēnghuó le hěn duō nián.",
+    "en": "I've lived in this city for many years."
+   },
+   {
+    "zh": "学生们安静地听老师讲课。",
+    "pinyin": "Xuéshengmen ānjìng de tīng lǎoshī jiǎngkè.",
+    "en": "The students quietly listened to the teacher's lecture."
+   },
+   {
+    "zh": "他常常帮助有困难的人。",
+    "pinyin": "Tā chángcháng bāngzhù yǒu kùnnan de rén.",
+    "en": "He often helps people in difficulty."
+   },
+   {
+    "zh": "我们一起度过了很多美好的时光。",
+    "pinyin": "Wǒmen yìqǐ dùguò le hěn duō měihǎo de shíguāng.",
+    "en": "We spent a lot of wonderful time together."
+   },
+   {
+    "zh": "这本书讲了一个很感人的故事。",
+    "pinyin": "Zhè běn shū jiǎng le yí ge hěn gǎnrén de gùshi.",
+    "en": "This book tells a very touching story."
+   },
+   {
+    "zh": "父母把最好的东西都留给了孩子。",
+    "pinyin": "Fùmǔ bǎ zuì hǎo de dōngxi dōu liú gěi le háizi.",
+    "en": "Parents leave the best things for their children."
+   },
+   {
+    "zh": "我每天骑自行车去上班。",
+    "pinyin": "Wǒ měitiān qí zìxíngchē qù shàngbān.",
+    "en": "I ride a bicycle to work every day."
+   },
+   {
+    "zh": "她轻轻地关上了房间的门。",
+    "pinyin": "Tā qīngqīng de guānshàng le fángjiān de mén.",
+    "en": "She gently closed the door of the room."
+   },
+   {
+    "zh": "这场大雨影响了很多人的生活。",
+    "pinyin": "Zhè chǎng dàyǔ yǐngxiǎng le hěn duō rén de shēnghuó.",
+    "en": "This heavy rain affected many people's lives."
+   },
+   {
+    "zh": "我们应该珍惜现在拥有的一切。",
+    "pinyin": "Wǒmen yīnggāi zhēnxī xiànzài yōngyǒu de yíqiè.",
+    "en": "We should cherish everything we have now."
+   },
+   {
+    "zh": "他花了三年时间写完了这本书。",
+    "pinyin": "Tā huā le sān nián shíjiān xiěwán le zhè běn shū.",
+    "en": "He spent three years finishing this book."
+   },
+   {
+    "zh": "孩子们在草地上快乐地玩耍。",
+    "pinyin": "Háizimen zài cǎodì shàng kuàilè de wánshuǎ.",
+    "en": "The children play happily on the grass."
+   },
+   {
+    "zh": "这位老人一生都在帮助别人。",
+    "pinyin": "Zhè wèi lǎorén yìshēng dōu zài bāngzhù biérén.",
+    "en": "This old man spent his whole life helping others."
+   },
+   {
+    "zh": "我用一句话总结了今天的会议。",
+    "pinyin": "Wǒ yòng yí jù huà zǒngjié le jīntiān de huìyì.",
+    "en": "I summarized today's meeting in one sentence."
+   },
+   {
+    "zh": "时间会给我们所有问题的答案。",
+    "pinyin": "Shíjiān huì gěi wǒmen suǒyǒu wèntí de dá'àn.",
+    "en": "Time will give us the answers to all questions."
+   },
+   {
+    "zh": "他默默地做着自己认为对的事。",
+    "pinyin": "Tā mòmò de zuòzhe zìjǐ rènwéi duì de shì.",
+    "en": "He quietly does what he believes is right."
+   }
+  ]
+ },
+ {
+  "id": "g032",
+  "level": 1,
+  "title": "\"是\" ile isimleri bağlama (A 是 B)",
+  "titleEn": "Connecting nouns with \"shi\"",
+  "pattern": "A + 是 + B",
+  "summary": "\"是\" (shì) İngilizce'deki \"to be\" gibi iki ismi eşitler: A 是 B = A, B'dir. 我是学生 = Ben öğrenciyim.",
+  "explanation": "\"是\", iki ismi/isim öbeğini birbirine bağlayan bağlaç-fiildir (kimlik/tanım): 他是医生 (o doktordur). ÖNEMLİ: \"是\" sıfatlarla KULLANILMAZ — \"我是高\" yanlıştır; sıfat için \"很\" kullanılır (我很高). \"是\" sadece \"isim + isim\" bağlar. Olumsuzu \"不是\". Vurgu/onay için \"是\" tek başına \"evet/öyle\" anlamında da kullanılır.",
+  "examples": [
+   {
+    "zh": "我是一名中学老师。",
+    "pinyin": "Wǒ shì yì míng zhōngxué lǎoshī.",
+    "en": "I am a middle school teacher."
+   },
+   {
+    "zh": "这不是我的错,你别怪我。",
+    "pinyin": "Zhè bú shì wǒ de cuò, nǐ bié guài wǒ.",
+    "en": "This isn't my fault, don't blame me."
+   },
+   {
+    "zh": "他是我认识的最善良的人。",
+    "pinyin": "Tā shì wǒ rènshi de zuì shànliáng de rén.",
+    "en": "He is the kindest person I know."
+   },
+   {
+    "zh": "这是一个改变很多人命运的决定。",
+    "pinyin": "Zhè shì yí ge gǎibiàn hěn duō rén mìngyùn de juédìng.",
+    "en": "This is a decision that changed many people's fates."
+   },
+   {
+    "zh": "诚实是最重要的品质之一。",
+    "pinyin": "Chéngshí shì zuì zhòngyào de pǐnzhì zhīyī.",
+    "en": "Honesty is one of the most important qualities."
+   },
+   {
+    "zh": "她是这家公司的创始人。",
+    "pinyin": "Tā shì zhè jiā gōngsī de chuàngshǐrén.",
+    "en": "She is the founder of this company."
+   },
+   {
+    "zh": "今天是我们结婚十周年的日子。",
+    "pinyin": "Jīntiān shì wǒmen jiéhūn shí zhōunián de rìzi.",
+    "en": "Today is our tenth wedding anniversary."
+   },
+   {
+    "zh": "这本书是老师推荐给我的。",
+    "pinyin": "Zhè běn shū shì lǎoshī tuījiàn gěi wǒ de.",
+    "en": "This book was recommended to me by the teacher."
+   },
+   {
+    "zh": "失败不是终点,而是新的开始。",
+    "pinyin": "Shībài bú shì zhōngdiǎn, érshì xīn de kāishǐ.",
+    "en": "Failure is not the end, but a new beginning."
+   },
+   {
+    "zh": "这些照片都是我小时候拍的。",
+    "pinyin": "Zhèxiē zhàopiàn dōu shì wǒ xiǎoshíhou pāi de.",
+    "en": "These photos were all taken when I was little."
+   },
+   {
+    "zh": "他不是不努力,而是方法不对。",
+    "pinyin": "Tā bú shì bù nǔlì, érshì fāngfǎ bú duì.",
+    "en": "It's not that he isn't working hard, but that his method is wrong."
+   },
+   {
+    "zh": "读书是了解世界的一种方式。",
+    "pinyin": "Dúshū shì liǎojiě shìjiè de yì zhǒng fāngshì.",
+    "en": "Reading is a way to understand the world."
+   },
+   {
+    "zh": "这里是我出生和长大的地方。",
+    "pinyin": "Zhèlǐ shì wǒ chūshēng hé zhǎngdà de dìfang.",
+    "en": "This is where I was born and grew up."
+   },
+   {
+    "zh": "他们是一对结婚五十年的老夫妻。",
+    "pinyin": "Tāmen shì yí duì jiéhūn wǔshí nián de lǎo fūqī.",
+    "en": "They are an old couple married for fifty years."
+   },
+   {
+    "zh": "这是我第一次来这么大的城市。",
+    "pinyin": "Zhè shì wǒ dì yī cì lái zhème dà de chéngshì.",
+    "en": "This is my first time in such a big city."
+   },
+   {
+    "zh": "健康的身体是一切的基础。",
+    "pinyin": "Jiànkāng de shēntǐ shì yíqiè de jīchǔ.",
+    "en": "A healthy body is the foundation of everything."
+   },
+   {
+    "zh": "他现在是我们团队里最重要的人。",
+    "pinyin": "Tā xiànzài shì wǒmen tuánduì lǐ zuì zhòngyào de rén.",
+    "en": "He is now the most important person on our team."
+   },
+   {
+    "zh": "这不是钱的问题,而是原则的问题。",
+    "pinyin": "Zhè bú shì qián de wèntí, érshì yuánzé de wèntí.",
+    "en": "This isn't a matter of money, but of principle."
+   },
+   {
+    "zh": "她是那种一旦决定就不会回头的人。",
+    "pinyin": "Tā shì nà zhǒng yídàn juédìng jiù bú huì huítóu de rén.",
+    "en": "She's the kind of person who won't look back once she decides."
+   },
+   {
+    "zh": "这首歌是我最喜欢的一首。",
+    "pinyin": "Zhè shǒu gē shì wǒ zuì xǐhuan de yì shǒu.",
+    "en": "This song is my favorite."
+   },
+   {
+    "zh": "努力是通往成功的唯一道路。",
+    "pinyin": "Nǔlì shì tōngwǎng chénggōng de wéiyī dàolù.",
+    "en": "Hard work is the only road to success."
+   },
+   {
+    "zh": "这不是结束,只是一个新阶段的开始。",
+    "pinyin": "Zhè bú shì jiéshù, zhǐshì yí ge xīn jiēduàn de kāishǐ.",
+    "en": "This isn't the end, just the start of a new stage."
+   },
+   {
+    "zh": "他是那个在我最难的时候陪着我的人。",
+    "pinyin": "Tā shì nàge zài wǒ zuì nán de shíhou péizhe wǒ de rén.",
+    "en": "He's the one who stayed with me in my hardest times."
+   },
+   {
+    "zh": "这些困难都是暂时的,一定会过去。",
+    "pinyin": "Zhèxiē kùnnan dōu shì zànshí de, yídìng huì guòqù.",
+    "en": "These difficulties are all temporary and will surely pass."
+   },
+   {
+    "zh": "对我来说,家人永远是第一位的。",
+    "pinyin": "Duì wǒ lái shuō, jiārén yǒngyuǎn shì dì yī wèi de.",
+    "en": "For me, family always comes first."
+   }
+  ]
+ },
+ {
+  "id": "g033",
+  "level": 1,
+  "title": "\"太...了\" ile \"aşırı/çok\"",
+  "titleEn": "Expressing \"excessively\" with \"tai\"",
+  "pattern": "太 + Sıfat + 了",
+  "summary": "\"太...了\" (tài...le) bir sıfatın aşırılığını/yoğunluğunu vurgular: 太好了！ = Çok güzel!",
+  "explanation": "\"太\" sıfatın önüne, \"了\" cümle sonuna gelerek \"aşırı derecede / çok\" anlamı verir: 太贵了 (çok pahalı), 太累了 (çok yorgun). Genellikle bir şeyin fazla olmasından yakınmayı (太吵了 - çok gürültülü) ya da güçlü olumlu/olumsuz duyguyu (太好了 - harika!) ifade eder. \"太\"'dan sonra \"了\"'yu unutmamak önemlidir; \"了\"'suz \"太\" biraz eksik durur.",
+  "examples": [
+   {
+    "zh": "太好了！我们终于成功了！",
+    "pinyin": "Tài hǎo le! Wǒmen zhōngyú chénggōng le!",
+    "en": "Great! We finally succeeded!"
+   },
+   {
+    "zh": "这件衣服太贵了,我买不起。",
+    "pinyin": "Zhè jiàn yīfu tài guì le, wǒ mǎi bu qǐ.",
+    "en": "This piece of clothing is too expensive, I can't afford it."
+   },
+   {
+    "zh": "今天太累了,我想早点睡觉。",
+    "pinyin": "Jīntiān tài lèi le, wǒ xiǎng zǎodiǎn shuìjiào.",
+    "en": "I'm too tired today, I want to sleep early."
+   },
+   {
+    "zh": "这里的风景太美了,我都舍不得走了。",
+    "pinyin": "Zhèlǐ de fēngjǐng tài měi le, wǒ dōu shěbùdé zǒu le.",
+    "en": "The scenery here is so beautiful, I don't want to leave."
+   },
+   {
+    "zh": "外面太吵了,我根本没法学习。",
+    "pinyin": "Wàimiàn tài chǎo le, wǒ gēnběn méifǎ xuéxí.",
+    "en": "It's too noisy outside, I can't study at all."
+   },
+   {
+    "zh": "你来得太及时了,我正需要帮忙。",
+    "pinyin": "Nǐ lái de tài jíshí le, wǒ zhèng xūyào bāngmáng.",
+    "en": "You came just in time, I really need help."
+   },
+   {
+    "zh": "这个孩子太聪明了,一学就会。",
+    "pinyin": "Zhège háizi tài cōngming le, yì xué jiù huì.",
+    "en": "This child is so smart, he learns instantly."
+   },
+   {
+    "zh": "最近工作太忙了,我都没时间陪家人。",
+    "pinyin": "Zuìjìn gōngzuò tài máng le, wǒ dōu méi shíjiān péi jiārén.",
+    "en": "Work has been too busy lately, I have no time for my family."
+   },
+   {
+    "zh": "这道菜太咸了,你放了多少盐？",
+    "pinyin": "Zhè dào cài tài xián le, nǐ fàng le duōshao yán?",
+    "en": "This dish is too salty, how much salt did you put in?"
+   },
+   {
+    "zh": "能再见到你,我太高兴了。",
+    "pinyin": "Néng zàijiàndào nǐ, wǒ tài gāoxìng le.",
+    "en": "I'm so happy to see you again."
+   },
+   {
+    "zh": "这个消息太让人吃惊了。",
+    "pinyin": "Zhège xiāoxi tài ràng rén chījīng le.",
+    "en": "This news is too shocking."
+   },
+   {
+    "zh": "你对自己太严格了,应该放松一点。",
+    "pinyin": "Nǐ duì zìjǐ tài yángé le, yīnggāi fàngsōng yìdiǎn.",
+    "en": "You're too hard on yourself, you should relax a bit."
+   },
+   {
+    "zh": "这个地方离我家太远了,来一次不容易。",
+    "pinyin": "Zhège dìfang lí wǒ jiā tài yuǎn le, lái yí cì bù róngyì.",
+    "en": "This place is too far from my home, it's not easy to come."
+   },
+   {
+    "zh": "他做的蛋糕太好吃了,我吃了三块。",
+    "pinyin": "Tā zuò de dàngāo tài hǎochī le, wǒ chī le sān kuài.",
+    "en": "The cake he made is so delicious, I ate three pieces."
+   },
+   {
+    "zh": "今天的天气太热了,大家都不想出门。",
+    "pinyin": "Jīntiān de tiānqì tài rè le, dàjiā dōu bù xiǎng chūmén.",
+    "en": "The weather today is too hot, nobody wants to go out."
+   },
+   {
+    "zh": "这件事太复杂了,一句话说不清楚。",
+    "pinyin": "Zhè jiàn shì tài fùzá le, yí jù huà shuō bu qīngchu.",
+    "en": "This matter is too complicated to explain in one sentence."
+   },
+   {
+    "zh": "你实在太客气了,让你破费了。",
+    "pinyin": "Nǐ shízài tài kèqi le, ràng nǐ pòfèi le.",
+    "en": "You're really too polite, you spent too much."
+   },
+   {
+    "zh": "时间过得太快了,一转眼就是十年。",
+    "pinyin": "Shíjiān guò de tài kuài le, yì zhuǎnyǎn jiùshì shí nián.",
+    "en": "Time passes too fast, ten years in the blink of an eye."
+   },
+   {
+    "zh": "这个问题太难了,连老师都答不出来。",
+    "pinyin": "Zhège wèntí tài nán le, lián lǎoshī dōu dá bu chūlái.",
+    "en": "This question is so hard even the teacher can't answer it."
+   },
+   {
+    "zh": "你这样做太危险了,我不同意。",
+    "pinyin": "Nǐ zhèyàng zuò tài wēixiǎn le, wǒ bù tóngyì.",
+    "en": "What you're doing is too dangerous, I don't agree."
+   },
+   {
+    "zh": "这条裙子太漂亮了,你穿上一定好看。",
+    "pinyin": "Zhè tiáo qúnzi tài piàoliang le, nǐ chuān shàng yídìng hǎokàn.",
+    "en": "This skirt is so pretty, you'll look great in it."
+   },
+   {
+    "zh": "能有你这样的朋友,我太幸运了。",
+    "pinyin": "Néng yǒu nǐ zhèyàng de péngyou, wǒ tài xìngyùn le.",
+    "en": "I'm so lucky to have a friend like you."
+   },
+   {
+    "zh": "这本书太厚了,我一个月都看不完。",
+    "pinyin": "Zhè běn shū tài hòu le, wǒ yí ge yuè dōu kàn bu wán.",
+    "en": "This book is too thick, I can't finish it in a month."
+   },
+   {
+    "zh": "你别太伤心了,日子还得往前过。",
+    "pinyin": "Nǐ bié tài shāngxīn le, rìzi hái děi wǎng qián guò.",
+    "en": "Don't be too sad, life still has to go on."
+   },
+   {
+    "zh": "这个价格太合适了,我们赶紧订吧。",
+    "pinyin": "Zhège jiàgé tài héshì le, wǒmen gǎnjǐn dìng ba.",
+    "en": "This price is just right, let's book it quickly."
+   }
+  ]
+ },
+ {
+  "id": "g034",
+  "level": 1,
+  "title": "Basit \"isim + sıfat\" cümleleri",
+  "titleEn": "Simple \"noun + adjective\" sentences",
+  "pattern": "İsim + 很 + Sıfat",
+  "summary": "Çince'de sıfat yüklem olduğunda \"是\" kullanılmaz; sıfattan önce genellikle \"很\" (hěn) gelir: 我很好 = Ben iyiyim.",
+  "explanation": "Sıfat yüklemli cümlelerde \"是\" KULLANILMAZ (bu çok yaygın bir hatadır). Bunun yerine sıfat doğrudan yüklem olur ve önüne genellikle \"很\" konur: 天气很好 (hava güzel). Buradaki \"很\" her zaman \"çok\" anlamı taşımaz; çıplak sıfat kıyaslama çağrıştırdığı için dengeleyici bir dolgu görevi görür. Olumsuzda \"很\" düşer: 天气不好 (hava güzel değil).",
+  "examples": [
+   {
+    "zh": "今天天气很好,我们出去走走吧。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo, wǒmen chūqù zǒuzou ba.",
+    "en": "The weather is nice today, let's go out for a walk."
+   },
+   {
+    "zh": "这个房间很干净,也很安静。",
+    "pinyin": "Zhège fángjiān hěn gānjìng, yě hěn ānjìng.",
+    "en": "This room is very clean and also quiet."
+   },
+   {
+    "zh": "他人很好,大家都喜欢他。",
+    "pinyin": "Tā rén hěn hǎo, dàjiā dōu xǐhuan tā.",
+    "en": "He is a nice person, everyone likes him."
+   },
+   {
+    "zh": "这条路不太好走,你小心一点。",
+    "pinyin": "Zhè tiáo lù bú tài hǎo zǒu, nǐ xiǎoxīn yìdiǎn.",
+    "en": "This road is hard to walk, be careful."
+   },
+   {
+    "zh": "她的声音很好听,像唱歌一样。",
+    "pinyin": "Tā de shēngyīn hěn hǎotīng, xiàng chànggē yíyàng.",
+    "en": "Her voice is very pleasant, like singing."
+   },
+   {
+    "zh": "这里的东西很便宜,质量也不错。",
+    "pinyin": "Zhèlǐ de dōngxi hěn piányi, zhìliàng yě búcuò.",
+    "en": "The things here are cheap and the quality is good too."
+   },
+   {
+    "zh": "我最近很忙,几乎没有休息的时间。",
+    "pinyin": "Wǒ zuìjìn hěn máng, jīhū méiyǒu xiūxi de shíjiān.",
+    "en": "I've been very busy lately, with almost no time to rest."
+   },
+   {
+    "zh": "这个孩子很懂事,从来不让父母操心。",
+    "pinyin": "Zhège háizi hěn dǒngshì, cónglái bú ràng fùmǔ cāoxīn.",
+    "en": "This child is very sensible and never worries his parents."
+   },
+   {
+    "zh": "山上的空气很新鲜,让人心情很好。",
+    "pinyin": "Shān shàng de kōngqì hěn xīnxiān, ràng rén xīnqíng hěn hǎo.",
+    "en": "The air on the mountain is fresh, it puts you in a good mood."
+   },
+   {
+    "zh": "这道题很简单,你再看一遍就会了。",
+    "pinyin": "Zhè dào tí hěn jiǎndān, nǐ zài kàn yí biàn jiù huì le.",
+    "en": "This question is simple, you'll get it after another look."
+   },
+   {
+    "zh": "他做事很认真,从不马虎。",
+    "pinyin": "Tā zuòshì hěn rènzhēn, cóng bù mǎhu.",
+    "en": "He works very carefully, never carelessly."
+   },
+   {
+    "zh": "这家饭馆的服务很好,菜也很新鲜。",
+    "pinyin": "Zhè jiā fànguǎn de fúwù hěn hǎo, cài yě hěn xīnxiān.",
+    "en": "This restaurant's service is good and the food is fresh."
+   },
+   {
+    "zh": "她的心地很善良,总是帮助别人。",
+    "pinyin": "Tā de xīndì hěn shànliáng, zǒngshì bāngzhù biérén.",
+    "en": "She is kind-hearted and always helps others."
+   },
+   {
+    "zh": "今年冬天特别冷,你要多穿点。",
+    "pinyin": "Jīnnián dōngtiān tèbié lěng, nǐ yào duō chuān diǎn.",
+    "en": "This winter is especially cold, wear more clothes."
+   },
+   {
+    "zh": "这本书很有意思,我一个晚上就看完了。",
+    "pinyin": "Zhè běn shū hěn yǒu yìsi, wǒ yí ge wǎnshang jiù kànwán le.",
+    "en": "This book is interesting, I finished it in one evening."
+   },
+   {
+    "zh": "他的想法很成熟,不像二十岁的年轻人。",
+    "pinyin": "Tā de xiǎngfǎ hěn chéngshú, bú xiàng èrshí suì de niánqīngrén.",
+    "en": "His thinking is mature, unlike a twenty-year-old."
+   },
+   {
+    "zh": "这个城市的夜晚很热闹。",
+    "pinyin": "Zhège chéngshì de yèwǎn hěn rènao.",
+    "en": "The nights in this city are lively."
+   },
+   {
+    "zh": "她的房间不大,可是收拾得很温馨。",
+    "pinyin": "Tā de fángjiān bú dà, kěshì shōushi de hěn wēnxīn.",
+    "en": "Her room isn't big, but it's cozy and tidy."
+   },
+   {
+    "zh": "这里的人很热情,让我感觉像在家一样。",
+    "pinyin": "Zhèlǐ de rén hěn rèqíng, ràng wǒ gǎnjué xiàng zài jiā yíyàng.",
+    "en": "The people here are warm, making me feel at home."
+   },
+   {
+    "zh": "他的中文很流利,几乎听不出口音。",
+    "pinyin": "Tā de Zhōngwén hěn liúlì, jīhū tīng bu chū kǒuyīn.",
+    "en": "His Chinese is fluent, you can hardly hear an accent."
+   },
+   {
+    "zh": "这个决定很难,可是我必须做。",
+    "pinyin": "Zhège juédìng hěn nán, kěshì wǒ bìxū zuò.",
+    "en": "This decision is hard, but I have to make it."
+   },
+   {
+    "zh": "今天的月亮很圆,也很亮。",
+    "pinyin": "Jīntiān de yuèliang hěn yuán, yě hěn liàng.",
+    "en": "The moon is round and bright tonight."
+   },
+   {
+    "zh": "他对工作很有热情,每天都很努力。",
+    "pinyin": "Tā duì gōngzuò hěn yǒu rèqíng, měitiān dōu hěn nǔlì.",
+    "en": "He's passionate about his work and works hard every day."
+   },
+   {
+    "zh": "这段时间我过得很充实。",
+    "pinyin": "Zhè duàn shíjiān wǒ guò de hěn chōngshí.",
+    "en": "I've been living a very fulfilling life lately."
+   },
+   {
+    "zh": "她笑起来的样子很好看。",
+    "pinyin": "Tā xiào qǐlái de yàngzi hěn hǎokàn.",
+    "en": "She looks lovely when she smiles."
+   }
+  ]
+ },
+ {
+  "id": "g035",
+  "level": 1,
+  "title": "Olumlu-olumsuz soru (Fiil 不 Fiil)",
+  "titleEn": "Affirmative-negative question",
+  "pattern": "Fiil + 不 + Fiil ? / Sıfat + 不 + Sıfat ?",
+  "summary": "Fiil veya sıfatın olumlu ve olumsuz biçimini yan yana koyarak soru sorulur: 你去不去？ = Gidiyor musun?",
+  "explanation": "\"吗\" kullanmadan soru sormanın bir yolu, yüklemin olumlu + olumsuz biçimini art arda söylemektir: 好不好? (iyi mi?), 是不是? (öyle mi?), 去不去? (gidiyor mu?). Cevap, olumlu ya da olumsuz biçimden biriyle verilir. Bu yapıda cümle sonuna \"吗\" EKLENMEZ (ikisi birlikte kullanılmaz). Çok heceli fiillerde genellikle ilk hece tekrarlanır: 喜不喜欢?",
+  "examples": [
+   {
+    "zh": "你明天来不来我的生日聚会？",
+    "pinyin": "Nǐ míngtiān lái bu lái wǒ de shēngri jùhuì?",
+    "en": "Are you coming to my birthday party tomorrow?"
+   },
+   {
+    "zh": "这道菜辣不辣？我不太能吃辣。",
+    "pinyin": "Zhè dào cài là bu là? Wǒ bú tài néng chī là.",
+    "en": "Is this dish spicy? I can't handle spicy food well."
+   },
+   {
+    "zh": "你喜不喜欢这个礼物？",
+    "pinyin": "Nǐ xǐ bu xǐhuan zhège lǐwù?",
+    "en": "Do you like this gift?"
+   },
+   {
+    "zh": "这件衣服你觉得合不合适？",
+    "pinyin": "Zhè jiàn yīfu nǐ juéde hé bu héshì?",
+    "en": "Do you think this outfit suits me?"
+   },
+   {
+    "zh": "他到底是不是真的想帮我们？",
+    "pinyin": "Tā dàodǐ shì bu shì zhēn de xiǎng bāng wǒmen?",
+    "en": "Does he really want to help us or not?"
+   },
+   {
+    "zh": "你知不知道现在几点了？",
+    "pinyin": "Nǐ zhī bu zhīdào xiànzài jǐ diǎn le?",
+    "en": "Do you know what time it is now?"
+   },
+   {
+    "zh": "这个周末你有没有空？",
+    "pinyin": "Zhège zhōumò nǐ yǒu méiyǒu kòng?",
+    "en": "Are you free this weekend?"
+   },
+   {
+    "zh": "你饿不饿？我给你做点吃的。",
+    "pinyin": "Nǐ è bu è? Wǒ gěi nǐ zuò diǎn chī de.",
+    "en": "Are you hungry? I'll make you something to eat."
+   },
+   {
+    "zh": "你听得懂听不懂他说的话？",
+    "pinyin": "Nǐ tīng de dǒng tīng bu dǒng tā shuō de huà?",
+    "en": "Can you understand what he's saying or not?"
+   },
+   {
+    "zh": "这件事你想清楚了没有？",
+    "pinyin": "Zhè jiàn shì nǐ xiǎng qīngchu le méiyǒu?",
+    "en": "Have you thought this through or not?"
+   },
+   {
+    "zh": "你们公司招不招人？我想应聘。",
+    "pinyin": "Nǐmen gōngsī zhāo bu zhāo rén? Wǒ xiǎng yìngpìn.",
+    "en": "Is your company hiring? I'd like to apply."
+   },
+   {
+    "zh": "这个价钱贵不贵？我想再比较一下。",
+    "pinyin": "Zhège jiàqián guì bu guì? Wǒ xiǎng zài bǐjiào yíxià.",
+    "en": "Is this price expensive? I want to compare a bit more."
+   },
+   {
+    "zh": "你后不后悔当初的决定？",
+    "pinyin": "Nǐ hòu bu hòuhuǐ dāngchū de juédìng?",
+    "en": "Do you regret your earlier decision?"
+   },
+   {
+    "zh": "我们是不是应该早点出发？",
+    "pinyin": "Wǒmen shì bu shì yīnggāi zǎodiǎn chūfā?",
+    "en": "Shouldn't we set off a little earlier?"
+   },
+   {
+    "zh": "这条路通不通往山顶？",
+    "pinyin": "Zhè tiáo lù tōng bu tōngwǎng shāndǐng?",
+    "en": "Does this road lead to the mountaintop?"
+   },
+   {
+    "zh": "你相不相信一见钟情？",
+    "pinyin": "Nǐ xiāng bu xiāngxìn yíjiànzhōngqíng?",
+    "en": "Do you believe in love at first sight?"
+   },
+   {
+    "zh": "这么晚了,你饿了没有？",
+    "pinyin": "Zhème wǎn le, nǐ è le méiyǒu?",
+    "en": "It's so late, are you hungry yet?"
+   },
+   {
+    "zh": "你确不确定这是正确的答案？",
+    "pinyin": "Nǐ què bu quèdìng zhè shì zhèngquè de dá'àn?",
+    "en": "Are you sure this is the correct answer?"
+   },
+   {
+    "zh": "孩子睡着了没有？我们小声点。",
+    "pinyin": "Háizi shuìzháo le méiyǒu? Wǒmen xiǎoshēng diǎn.",
+    "en": "Has the child fallen asleep? Let's be quiet."
+   },
+   {
+    "zh": "你觉得这个计划靠不靠谱？",
+    "pinyin": "Nǐ juéde zhège jìhuà kào bu kàopǔ?",
+    "en": "Do you think this plan is reliable?"
+   },
+   {
+    "zh": "这些年你过得好不好？",
+    "pinyin": "Zhèxiē nián nǐ guò de hǎo bu hǎo?",
+    "en": "Have you been doing well these years?"
+   },
+   {
+    "zh": "你敢不敢一个人去那个地方？",
+    "pinyin": "Nǐ gǎn bu gǎn yí ge rén qù nàge dìfang?",
+    "en": "Do you dare go to that place alone?"
+   },
+   {
+    "zh": "这件事你同不同意,给个准话。",
+    "pinyin": "Zhè jiàn shì nǐ tóng bu tóngyì, gěi ge zhǔnhuà.",
+    "en": "Do you agree with this or not? Give me a clear answer."
+   },
+   {
+    "zh": "你还记不记得我们第一次见面的地方？",
+    "pinyin": "Nǐ hái jì bu jìde wǒmen dì yī cì jiànmiàn de dìfang?",
+    "en": "Do you still remember where we first met?"
+   },
+   {
+    "zh": "这个东西到底能不能用？",
+    "pinyin": "Zhège dōngxi dàodǐ néng bu néng yòng?",
+    "en": "Can this thing actually be used or not?"
+   }
+  ]
  }
 ]

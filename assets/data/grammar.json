@@ -27062,5 +27062,685 @@
     "en": "She kept this old sweater, giving it away only when she moved."
    }
   ]
+ },
+ {
+  "id": "g200",
+  "level": 3,
+  "title": "\"给\" ile \"...-e, ... için\"",
+  "titleEn": "Expressing \"for\" with \"gei\"",
+  "pattern": "Özne + 给 + Alıcı + Fiil Öbeği",
+  "summary": "\"给\" (gěi) bir eylemin kime yönelik/kimin için yapıldığını gösterir: 给你打电话 = sana telefon etmek; 给妈妈做饭 = anne için yemek yapmak.",
+  "explanation": "\"给\" bir edat olarak bir eylemin ALICISINI ya da o eylemin KİMİN İÇİN yapıldığını belirtir ve fiilden ÖNCE gelir: Özne + 给 + kişi + fiil. 我给你写信 (Sana mektup yazıyorum), 妈妈给我们做了一桌菜 (Annem bize bir sofra yemek yaptı), 请给大家介绍一下 (Lütfen herkese tanıt). Türkçedeki \"-e/-a\" yönelme ve \"... için\" anlamlarını taşır. \"给\" ayrıca tam bir fiil olarak \"vermek\" anlamına da gelir (给我一本书 = bana bir kitap ver) ve edilgen/ettirgen yapılarda da kullanılır. Bu konuda özellikle EDAT işlevini (alıcı/yarar) ele alıyoruz. Türkçedeki \"...-e, ... için, ... adına\" ifadelerine denk gelir; bir eylemin yöneldiği kişiyi belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "我一到家就给妈妈打了个电话,报个平安。",
+    "pinyin": "Wǒ yī dào jiā jiù gěi mā mā dǎ le gè diàn huà, bào gè píng ān。",
+    "en": "As soon as I got home, I called mom to say I was safe."
+   },
+   {
+    "zh": "她每天都给阳台上的花浇水,照顾得很用心。",
+    "pinyin": "Tā měi tiān dōu gěi yáng tái shàng de huā jiāo shuǐ, zhào gù de hěn yòng xīn。",
+    "en": "She waters the balcony flowers daily, tending them with care."
+   },
+   {
+    "zh": "老师给我们讲了一个很有意义的故事。",
+    "pinyin": "Lǎo shī gěi wǒ men jiǎng le yí gè hěn yǒu yì yì de gù shì。",
+    "en": "The teacher told us a very meaningful story."
+   },
+   {
+    "zh": "周末我打算给孩子做一顿他最爱吃的红烧肉。",
+    "pinyin": "Zhōu mò wǒ dǎ suàn gěi hái zi zuò yī dùn tā zuì ài chī de hóng shāo ròu。",
+    "en": "This weekend I plan to cook the child his favorite braised pork."
+   },
+   {
+    "zh": "你能不能给我介绍一下这里的情况?",
+    "pinyin": "Nǐ néng bù néng gěi wǒ jiè shào yī xià zhè lǐ de qíng kuàng?",
+    "en": "Could you brief me on the situation here?"
+   },
+   {
+    "zh": "他特意给远方的朋友寄了一份家乡特产。",
+    "pinyin": "Tā tè yì gěi yuǎn fāng de péng yǒu jì le yī fèn jiā xiāng tè chǎn。",
+    "en": "He specially mailed a hometown specialty to a faraway friend."
+   },
+   {
+    "zh": "请你给大家倒杯茶,他们赶了很远的路。",
+    "pinyin": "Qǐng nǐ gěi dà jiā dào bēi chá, tā men gǎn le hěn yuǎn de lù。",
+    "en": "Please pour everyone tea; they came a long way."
+   },
+   {
+    "zh": "妈妈给我织了一条围巾,戴上特别暖和。",
+    "pinyin": "Mā mā gěi wǒ zhī le yī tiáo wéi jīn, dài shàng tè bié nuǎn huo。",
+    "en": "Mom knitted me a scarf; it's very warm to wear."
+   },
+   {
+    "zh": "有什么需要帮忙的,随时给我发消息。",
+    "pinyin": "Yǒu shén me xū yào bāng máng de, suí shí gěi wǒ fā xiāo xī。",
+    "en": "If you need any help, message me anytime."
+   },
+   {
+    "zh": "他常常给社区里的老人读报纸、聊聊天。",
+    "pinyin": "Tā cháng cháng gěi shè qū lǐ de lǎo rén dú bào zhǐ、 liáo liáo tiān。",
+    "en": "He often reads the paper to and chats with the community's elderly."
+   },
+   {
+    "zh": "我给你留了一份饭,在锅里热着呢。",
+    "pinyin": "Wǒ gěi nǐ liú le yī fèn fàn, zài guō lǐ rè zhe ne。",
+    "en": "I saved you a meal; it's warming in the pot."
+   },
+   {
+    "zh": "护士细心地给病人换了药,又叮嘱了几句。",
+    "pinyin": "Hù shì xì xīn de gěi bìng rén huàn le yào, yòu dīng zhǔ le jǐ jù。",
+    "en": "The nurse carefully changed the patient's dressing and gave some advice."
+   },
+   {
+    "zh": "你出门的时候,顺便给楼下的信箱看一眼。",
+    "pinyin": "Nǐ chū mén de shí hòu, shùn biàn gěi lóu xià de xìn xiāng kàn yī yǎn。",
+    "en": "When you go out, take a glance at the mailbox downstairs."
+   },
+   {
+    "zh": "爸爸答应给我买一辆新自行车当生日礼物。",
+    "pinyin": "Bà bà dā yìng gěi wǒ mǎi yī liàng xīn zì xíng chē dāng shēng rì lǐ wù。",
+    "en": "Dad promised to buy me a new bike as a birthday gift."
+   },
+   {
+    "zh": "每逢过节,他都会给老家的父母寄些钱。",
+    "pinyin": "Měi féng guò jié, tā dū huì gěi lǎo jiā de fù mǔ jì xiē qián。",
+    "en": "Every festival, he sends some money to his parents back home."
+   },
+   {
+    "zh": "请你给我们表演一个节目,好不好?",
+    "pinyin": "Qǐng nǐ gěi wǒ men biǎo yǎn yí gè jié mù, hǎo bù hǎo?",
+    "en": "Would you perform something for us, please?"
+   },
+   {
+    "zh": "她耐心地给刚入学的新生介绍学校的环境。",
+    "pinyin": "Tā nài xīn de gěi gāng rù xué de xīn shēng jiè shào xué xiào de huán jìng。",
+    "en": "She patiently introduced the campus to the new students."
+   },
+   {
+    "zh": "我给你留了个座位,你快过来坐吧。",
+    "pinyin": "Wǒ gěi nǐ liú le gè zuò wèi, nǐ kuài guò lái zuò ba。",
+    "en": "I saved you a seat; come over and sit."
+   },
+   {
+    "zh": "他利用假期给村里的孩子们免费补习功课。",
+    "pinyin": "Tā lì yòng jià qī gěi cūn lǐ de hái zi men miǎn fèi bǔ xí gōng kè。",
+    "en": "He tutors the village children for free during the holidays."
+   },
+   {
+    "zh": "你把地址给我发过来,我好把东西寄给你。",
+    "pinyin": "Nǐ bǎ dì zhǐ gěi wǒ fā guò lái, wǒ hǎo bǎ dōng xī jì gěi nǐ。",
+    "en": "Send me your address so I can mail you the things."
+   },
+   {
+    "zh": "奶奶总喜欢给我们讲她年轻时候的往事。",
+    "pinyin": "Nǎi nǎi zǒng xǐ huān gěi wǒ men jiǎng tā nián qīng shí hòu de wǎng shì。",
+    "en": "Grandma always likes to tell us stories from her youth."
+   },
+   {
+    "zh": "请你给这盆花换个大一点的花盆吧。",
+    "pinyin": "Qǐng nǐ gěi zhè pén huā huàn gè dà yī diǎn de huā pén ba。",
+    "en": "Please repot this plant into a bigger pot."
+   },
+   {
+    "zh": "我给你带了点家乡的水果,你尝尝。",
+    "pinyin": "Wǒ gěi nǐ dài le diǎn jiā xiāng de shuǐ guǒ, nǐ cháng cháng。",
+    "en": "I brought you some fruit from home; give it a taste."
+   },
+   {
+    "zh": "他每天早上都给全家人准备好早饭才去上班。",
+    "pinyin": "Tā měi tiān zǎo shàng dōu gěi quán jiā rén zhǔn bèi hǎo zǎo fàn cái qù shàng bān。",
+    "en": "Every morning he prepares breakfast for the family before work."
+   },
+   {
+    "zh": "有困难别自己扛着,给我们说一声。",
+    "pinyin": "Yǒu kùn nán bié zì jǐ káng zhe, gěi wǒ men shuō yī shēng。",
+    "en": "Don't bear difficulties alone; let us know."
+   }
+  ]
+ },
+ {
+  "id": "g201",
+  "level": 3,
+  "title": "\"为\" ile \"... için, ... uğruna\"",
+  "titleEn": "Expressing \"for\" with \"wei\"",
+  "pattern": "为 + Kişi / Amaç + Yüklem",
+  "summary": "\"为\" (wèi) bir eylemin amacını/yararına yapıldığı kişiyi gösterir: 为你高兴 = senin adına seviniyorum; 为梦想努力 = hayali için çabalamak.",
+  "explanation": "\"为\" bir edat olarak bir eylemin KİMİN İÇİN/YARARINA ya da NE AMAÇLA yapıldığını belirtir: \"... için, ... uğruna, ... adına\". 我为你感到骄傲 (Seninle gurur duyuyorum), 他为家人付出了很多 (Ailesi için çok fedakârlık yaptı), 大家都在为考试做准备 (Herkes sınav için hazırlanıyor). Duygu ifadelerinde \"为...(而)...\" kalıbı sık görülür: 为他的成功而高兴 (Başarısına sevinmek). \"给\" ile farkı: \"给\" doğrudan alıcıyı (birine bir şey yapmak), \"为\" ise yarar/amaç (birinin uğruna, bir amaç için) vurgular. \"为了\" ise özellikle AMAÇ bildirir (bkz. ayrı konu). Türkçedeki \"... için, ... uğruna, ... adına, ...-e\" ifadelerine denk gelir; yarar ve amaç ilişkisini anlatmanın temel yollarından biridir.",
+  "examples": [
+   {
+    "zh": "听到你考上了理想的大学,我真为你高兴。",
+    "pinyin": "Tīng dào nǐ kǎo shàng le lǐ xiǎng de dà xué, wǒ zhēn wèi nǐ gāo xìng。",
+    "en": "Hearing you got into your dream university, I'm truly happy for you."
+   },
+   {
+    "zh": "父母为孩子付出了太多,我们应该懂得感恩。",
+    "pinyin": "Fù mǔ wèi hái zi fù chū le tài duō, wǒ men yīng gāi dǒng de gǎn ēn。",
+    "en": "Parents give so much for their children; we should be grateful."
+   },
+   {
+    "zh": "他这些年一直在为自己的梦想默默努力。",
+    "pinyin": "Tā zhè xiē nián yì zhí zài wèi zì jǐ de mèng xiǎng mò mò nǔ lì。",
+    "en": "He's been quietly striving for his dream all these years."
+   },
+   {
+    "zh": "大家都在为即将到来的考试紧张地准备着。",
+    "pinyin": "Dà jiā dōu zài wèi jí jiāng dào lái de kǎo shì jǐn zhāng de zhǔn bèi zhe。",
+    "en": "Everyone is nervously preparing for the coming exam."
+   },
+   {
+    "zh": "我们要为保护环境尽自己的一份力量。",
+    "pinyin": "Wǒ men yào wèi bǎo hù huán jìng jǐn zì jǐ de yī fèn lì liàng。",
+    "en": "We should do our part to protect the environment."
+   },
+   {
+    "zh": "看到球队赢了,全场观众都为他们欢呼。",
+    "pinyin": "Kàn dào qiú duì yíng le, quán chǎng guān zhòng dōu wèi tā men huān hū。",
+    "en": "Seeing the team win, the whole crowd cheered for them."
+   },
+   {
+    "zh": "他为这个项目熬了好几个通宵,人都瘦了。",
+    "pinyin": "Tā wèi zhè ge xiàng mù áo le hǎo jǐ gè tōng xiāo, rén dōu shòu le。",
+    "en": "He stayed up several nights for this project and grew thin."
+   },
+   {
+    "zh": "请大家为这位辛勤的老师鼓鼓掌。",
+    "pinyin": "Qǐng dà jiā wèi zhè wèi xīn qín de lǎo shī gǔ gǔ zhǎng。",
+    "en": "Let's all applaud this hardworking teacher."
+   },
+   {
+    "zh": "她一辈子都在为这个家操劳,从没为自己想过。",
+    "pinyin": "Tā yī bèi zi dōu zài wèi zhè ge jiā cāo láo, cóng méi wèi zì jǐ xiǎng guò。",
+    "en": "She toiled for this family all her life, never for herself."
+   },
+   {
+    "zh": "我们不应该只为眼前的利益而放弃长远的目标。",
+    "pinyin": "Wǒ men bù yīng gāi zhǐ wèi yǎn qián de lì yì ér fàng qì cháng yuǎn de mù biāo。",
+    "en": "We shouldn't abandon long-term goals just for short-term gain."
+   },
+   {
+    "zh": "为了给孩子更好的教育,他们搬到了城里。",
+    "pinyin": "Wèi le gěi hái zi gèng hǎo de jiào yù, tā men bān dào le chéng lǐ。",
+    "en": "To give the child a better education, they moved to the city."
+   },
+   {
+    "zh": "听到这个坏消息,大家都为他捏了一把汗。",
+    "pinyin": "Tīng dào zhè ge huài xiāo xī, dà jiā dōu wèi tā niē le yī bǎ hàn。",
+    "en": "Hearing the bad news, everyone was anxious for him."
+   },
+   {
+    "zh": "他常常为别人着想,却很少考虑自己。",
+    "pinyin": "Tā cháng cháng wèi bié rén zhuó xiǎng, què hěn shǎo kǎo lǜ zì jǐ。",
+    "en": "He often thinks of others but rarely of himself."
+   },
+   {
+    "zh": "我们要为自己的选择负责,不能半途而废。",
+    "pinyin": "Wǒ men yào wèi zì jǐ de xuǎn zé fù zé, bù néng bàn tú ér fèi。",
+    "en": "We must take responsibility for our choices and not quit halfway."
+   },
+   {
+    "zh": "看到女儿长大成人,母亲的眼里满是欣慰。",
+    "pinyin": "Kàn dào nǚ ér zhǎng dà chéng rén, mǔ qīn de yǎn lǐ mǎn shì xīn wèi。",
+    "en": "Seeing her daughter grown, the mother's eyes were full of relief."
+   },
+   {
+    "zh": "他愿意为朋友两肋插刀,是个重情重义的人。",
+    "pinyin": "Tā yuàn yì wèi péng yǒu liǎng lèi chā dāo, shì gè zhòng qíng zhòng yì de rén。",
+    "en": "He'd go to any length for a friend; he's loyal and true."
+   },
+   {
+    "zh": "全村人都在为修建这条新路而忙碌着。",
+    "pinyin": "Quán cūn rén dōu zài wèi xiū jiàn zhè tiáo xīn lù ér máng lù zhe。",
+    "en": "The whole village is busy building this new road."
+   },
+   {
+    "zh": "我们为共同的目标走到了一起,携手前进。",
+    "pinyin": "Wǒ men wèi gòng tóng de mù biāo zǒu dào le yì qǐ, xié shǒu qián jìn。",
+    "en": "We came together for a common goal and advance hand in hand."
+   },
+   {
+    "zh": "他默默地为这个团队做了很多不为人知的事。",
+    "pinyin": "Tā mò mò de wèi zhè ge tuán duì zuò le hěn duō bù wéi rén zhī de shì。",
+    "en": "He quietly did much unseen work for this team."
+   },
+   {
+    "zh": "请为你今天的行为向大家道个歉。",
+    "pinyin": "Qǐng wèi nǐ jīn tiān de xíng wéi xiàng dà jiā dào gè qiàn。",
+    "en": "Please apologize to everyone for your behavior today."
+   },
+   {
+    "zh": "老师为了我们能听懂,把一个问题讲了好几遍。",
+    "pinyin": "Lǎo shī wèi le wǒ men néng tīng dǒng, bǎ yí gè wèn tí jiǎng le hǎo jǐ biàn。",
+    "en": "For us to understand, the teacher explained a point several times."
+   },
+   {
+    "zh": "他们为能够重逢而激动得热泪盈眶。",
+    "pinyin": "Tā men wèi néng gòu chóng féng ér jī dòng de rè lèi yíng kuàng。",
+    "en": "They were moved to tears at being able to reunite."
+   },
+   {
+    "zh": "我们每个人都在为让生活变得更好而努力。",
+    "pinyin": "Wǒ men měi gè rén dōu zài wèi ràng shēng huó biàn de gèng hǎo ér nǔ lì。",
+    "en": "Each of us strives to make life better."
+   },
+   {
+    "zh": "别为一点小事就伤了和气,大家好好谈谈。",
+    "pinyin": "Bié wèi yì diǎn xiǎo shì jiù shāng le hé qì, dà jiā hǎo hǎo tán tán。",
+    "en": "Don't spoil the harmony over a trifle; let's talk it out."
+   },
+   {
+    "zh": "他一生都在为科学事业无私地奉献。",
+    "pinyin": "Tā yī shēng dōu zài wèi kē xué shì yè wú sī de fèng xiàn。",
+    "en": "He devoted his whole life selflessly to science."
+   }
+  ]
+ },
+ {
+  "id": "g202",
+  "level": 3,
+  "title": "\"不到\" ile \"...-den az, ...-e varmaz\"",
+  "titleEn": "Expressing \"less than\" with \"budao\"",
+  "pattern": "不到 + Sayı + Ölçü + İsim",
+  "summary": "\"不到\" (bú dào) bir miktara ULAŞMAYAN, ondan az bir değeri bildirir: 不到十块钱 = on liradan az; 不到一个小时 = bir saati bulmadan.",
+  "explanation": "\"不到\" bir sayı/miktar ifadesinin önüne gelip o miktara ULAŞILMADIĞINI, ondan AZ olduğunu bildirir: \"...-den az, ...-i bulmaz, ...-e varmaz\". 不到二十岁 (yirmi yaşından küçük), 花了不到一百块 (yüz liradan az harcadı), 不到一个星期就完成了 (bir haftayı bulmadan bitirdi). Kelime kelime \"ulaşmaz/varmaz\" demektir (不 + 到) ve bir eşiğin altında kalmayı vurgular. Karşıtı \"多\" (küsur, fazla) ya da \"以上\" (üstü) ile kurulur. Sayı çoğu zaman şaşırtıcı derecede az olduğunda kullanılır ve bir çabukluk/azlık vurgusu taşır. Bütün sayılar Çince rakamlarla yazılır. Türkçedeki \"...-den az, ...-i bulmadan, ...-e varmadan, ...-den küçük\" ifadelerine denk gelir; bir üst sınırın altında kalmayı belirtir.",
+  "examples": [
+   {
+    "zh": "这家店离我家很近,走路不到十分钟就到了。",
+    "pinyin": "Zhè jiā diàn lí wǒ jiā hěn jìn, zǒu lù bú dào shí fēn zhōng jiù dào le。",
+    "en": "This shop is close to my home, less than a ten-minute walk."
+   },
+   {
+    "zh": "他来公司还不到半年,就已经很受重用了。",
+    "pinyin": "Tā lái gōng sī hái bú dào bàn nián, jiù yǐ jīng hěn shòu zhòng yòng le。",
+    "en": "He's been at the company less than half a year, yet is already valued."
+   },
+   {
+    "zh": "这么好的西瓜,居然不到十块钱一个。",
+    "pinyin": "Zhè me hǎo de xī guā, jū rán bú dào shí kuài qián yí gè。",
+    "en": "Such a good watermelon, and it's under ten yuan each."
+   },
+   {
+    "zh": "这本书不到二百页,我一个下午就看完了。",
+    "pinyin": "Zhè běn shū bú dào èr bǎi yè, wǒ yí gè xià wǔ jiù kàn wán le。",
+    "en": "This book is under two hundred pages; I finished it in an afternoon."
+   },
+   {
+    "zh": "他年纪不到三十,却已经有了丰富的经验。",
+    "pinyin": "Tā nián jì bú dào sān shí, què yǐ jīng yǒu le fēng fù de jīng yàn。",
+    "en": "He's under thirty, yet already has rich experience."
+   },
+   {
+    "zh": "这个孩子学得真快,不到一个月就学会了游泳。",
+    "pinyin": "Zhè ge hái zi xué de zhēn kuài, bú dào yí gè yuè jiù xué huì le yóu yǒng。",
+    "en": "This child learns fast; he learned to swim in under a month."
+   },
+   {
+    "zh": "会议开始不到十分钟,他就匆匆离开了。",
+    "pinyin": "Huì yì kāi shǐ bú dào shí fēn zhōng, tā jiù cōng cōng lí kāi le。",
+    "en": "Less than ten minutes into the meeting, he hurried off."
+   },
+   {
+    "zh": "这条裙子打完折不到一百块,真是太划算了。",
+    "pinyin": "Zhè tiáo qún zi dǎ wán zhé bú dào yì bǎi kuài, zhēn shì tài huá suàn le。",
+    "en": "This dress is under a hundred after the discount; what a bargain."
+   },
+   {
+    "zh": "那家新餐厅开业不到一年就成了网红店。",
+    "pinyin": "Nà jiā xīn cān tīng kāi yè bú dào yī nián jiù chéng le wǎng hóng diàn。",
+    "en": "That new restaurant became a hit in under a year."
+   },
+   {
+    "zh": "他跑得飞快,不到十秒就冲到了终点。",
+    "pinyin": "Tā pǎo de fēi kuài, bú dào shí miǎo jiù chōng dào le zhōng diǎn。",
+    "en": "He ran so fast, reaching the finish in under ten seconds."
+   },
+   {
+    "zh": "这点儿活儿不到一个小时就干完了,很轻松。",
+    "pinyin": "Zhè diǎn ér huó er bú dào yí gè xiǎo shí jiù gàn wán le, hěn qīng sōng。",
+    "en": "This bit of work was done in under an hour; quite easy."
+   },
+   {
+    "zh": "我们村现在常住的不到一百人了,很冷清。",
+    "pinyin": "Wǒ men cūn xiàn zài cháng zhù de bú dào yì bǎi rén le, hěn lěng qīng。",
+    "en": "Our village now has fewer than a hundred permanent residents; very quiet."
+   },
+   {
+    "zh": "这台手机用了还不到两年,就开始出各种问题。",
+    "pinyin": "Zhè tái shǒu jī yòng le hái bú dào liǎng nián, jiù kāi shǐ chū gè zhǒng wèn tí。",
+    "en": "This phone, used less than two years, started having all sorts of problems."
+   },
+   {
+    "zh": "从这儿到机场不到二十公里,很快就能到。",
+    "pinyin": "Cóng zhè ér dào jī chǎng bú dào èr shí gōng lǐ, hěn kuài jiù néng dào。",
+    "en": "It's under twenty kilometers to the airport; we'll get there soon."
+   },
+   {
+    "zh": "他工资不高,一个月不到五千块。",
+    "pinyin": "Tā gōng zī bù gāo, yí gè yuè bú dào wǔ qiān kuài。",
+    "en": "His salary isn't high, under five thousand a month."
+   },
+   {
+    "zh": "这么大的蛋糕,不到十分钟就被孩子们分光了。",
+    "pinyin": "Zhè me dà de dàn gāo, bú dào shí fēn zhōng jiù bèi hái zi men fēn guāng le。",
+    "en": "Such a big cake was divided up by the kids in under ten minutes."
+   },
+   {
+    "zh": "他学汉语还不到一年,已经能进行简单交流了。",
+    "pinyin": "Tā xué hàn yǔ hái bú dào yī nián, yǐ jīng néng jìn xíng jiǎn dān jiāo liú le。",
+    "en": "He's studied Chinese under a year, yet can hold simple conversations."
+   },
+   {
+    "zh": "那些限量商品上架不到五分钟就卖光了。",
+    "pinyin": "Nà xiē xiàn liàng shāng pǐn shàng jià bú dào wǔ fēn zhōng jiù mài guāng le。",
+    "en": "Those limited items sold out in under five minutes."
+   },
+   {
+    "zh": "这间小屋子不到十平米,却收拾得很温馨。",
+    "pinyin": "Zhè jiān xiǎo wū zi bú dào shí píng mǐ, què shōu shí de hěn wēn xīn。",
+    "en": "This small room is under ten square meters, yet cozily kept."
+   },
+   {
+    "zh": "离截止日期不到三天了,他还有很多没做完。",
+    "pinyin": "Lí jié zhǐ rì qī bú dào sān tiān le, tā hái yǒu hěn duō méi zuò wán。",
+    "en": "With under three days to the deadline, he still has much unfinished."
+   },
+   {
+    "zh": "这条鱼不到一斤,不太够我们两个人吃。",
+    "pinyin": "Zhè tiáo yú bú dào yī jīn, bù tài gòu wǒ men liǎng gè rén chī。",
+    "en": "This fish is under a jin, not quite enough for the two of us."
+   },
+   {
+    "zh": "他搬进新家还不到一个月,就把这里布置得很漂亮。",
+    "pinyin": "Tā bān jìn xīn jiā hái bú dào yí gè yuè, jiù bǎ zhè lǐ bù zhì de hěn piào liàng。",
+    "en": "Less than a month into his new home, he'd decorated it beautifully."
+   },
+   {
+    "zh": "这次考试不到一半的人及格,大家都很意外。",
+    "pinyin": "Zhè cì kǎo shì bú dào yí bàn de rén jí gé, dà jiā dōu hěn yì wài。",
+    "en": "Fewer than half passed this exam, surprising everyone."
+   },
+   {
+    "zh": "我等了不到五分钟,公交车就来了。",
+    "pinyin": "Wǒ děng le bú dào wǔ fēn zhōng, gōng jiāo chē jiù lái le。",
+    "en": "I waited under five minutes before the bus came."
+   },
+   {
+    "zh": "这么重要的决定,他不到一分钟就做出了。",
+    "pinyin": "Zhè me zhòng yào de jué dìng, tā bú dào yì fēn zhōng jiù zuò chū le。",
+    "en": "Such an important decision, and he made it in under a minute."
+   }
+  ]
+ },
+ {
+  "id": "g203",
+  "level": 3,
+  "title": "\"向\" ile \"...-e doğru, ...-e karşı\"",
+  "titleEn": "Expressing \"towards\" with \"xiang\"",
+  "pattern": "向 + Yön / Kişi + Fiil",
+  "summary": "\"向\" (xiàng) bir eylemin yönünü ya da yöneldiği kişiyi gösterir: 向前走 = ileriye doğru yürümek; 向老师问好 = öğretmene selam vermek.",
+  "explanation": "\"向\" bir edat olarak bir eylemin YÖNÜNÜ ya da yöneldiği KİŞİYİ belirtir ve fiilden önce gelir: 向前看 (ileriye bak), 向北走 (kuzeye doğru git), 向他学习 (ondan/ona bakarak öğren), 向大家道歉 (herkesten özür dile). Hem somut YÖN (向左, 向东) hem de soyut YÖNELME (向...请教 = birine danışmak, 向...表示感谢 = birine teşekkür etmek) için kullanılır. \"往\" ile yakındır ama \"向\" hem yön hem de kişiye yönelmede kullanılabilirken, \"往\" daha çok somut hareket yönünde kullanılır; ayrıca \"向\" soyut fiillerle (学习, 请教, 表示) daha çok gelir. Türkçedeki \"...-e doğru, ...-e karşı, ...-den (öğrenmek)\" ifadelerine denk gelir; yön ve yönelme anlatmanın temel yollarından biridir.",
+  "examples": [
+   {
+    "zh": "请大家向前看,不要回头,注意脚下的路。",
+    "pinyin": "Qǐng dà jiā xiàng qián kàn, bú yào huí tóu, zhù yì jiǎo xià de lù。",
+    "en": "Everyone look forward, don't turn back, watch your step."
+   },
+   {
+    "zh": "他微笑着向我们走来,热情地打招呼。",
+    "pinyin": "Tā wēi xiào zhe xiàng wǒ men zǒu lái, rè qíng de dǎ zhāo hū。",
+    "en": "He walked toward us smiling and greeted us warmly."
+   },
+   {
+    "zh": "遇到不懂的问题,应该虚心向别人请教。",
+    "pinyin": "Yù dào bù dǒng de wèn tí, yīng gāi xū xīn xiàng bié rén qǐng jiào。",
+    "en": "When facing puzzles, one should humbly ask others for advice."
+   },
+   {
+    "zh": "我代表全公司向各位客户表示衷心的感谢。",
+    "pinyin": "Wǒ dài biǎo quán gōng sī xiàng gè wèi kè hù biǎo shì zhōng xīn de gǎn xiè。",
+    "en": "On behalf of the company, I sincerely thank all our clients."
+   },
+   {
+    "zh": "他做错了事,主动向对方道了歉。",
+    "pinyin": "Tā zuò cuò liǎo shì, zhǔ dòng xiàng duì fāng dào le qiàn。",
+    "en": "Having done wrong, he apologized to the other party on his own."
+   },
+   {
+    "zh": "这条河一直向东流,最后汇入大海。",
+    "pinyin": "Zhè tiáo hé yì zhí xiàng dōng liú, zuì hòu huì rù dà hǎi。",
+    "en": "This river flows east, finally merging into the sea."
+   },
+   {
+    "zh": "我们要向那些无私奉献的人学习。",
+    "pinyin": "Wǒ men yào xiàng nà xiē wú sī fèng xiàn de rén xué xí。",
+    "en": "We should learn from those who give selflessly."
+   },
+   {
+    "zh": "一群大雁排成人字形向南方飞去。",
+    "pinyin": "Yī qún dà yàn pái chéng rén zì xíng xiàng nán fāng fēi qù。",
+    "en": "A flock of wild geese flew south in a V-formation."
+   },
+   {
+    "zh": "他向老师深深地鞠了一躬,表示敬意。",
+    "pinyin": "Tā xiàng lǎo shī shēn shēn de jū le yī gōng, biǎo shì jìng yì。",
+    "en": "He bowed deeply to the teacher to show respect."
+   },
+   {
+    "zh": "有什么困难,你可以随时向我们求助。",
+    "pinyin": "Yǒu shén me kùn nán, nǐ kě yǐ suí shí xiàng wǒ men qiú zhù。",
+    "en": "If you have any trouble, you can ask us for help anytime."
+   },
+   {
+    "zh": "车子向前开了一段,在一个路口停了下来。",
+    "pinyin": "Chē zi xiàng qián kāi le yī duàn, zài yí gè lù kǒu tíng le xià lái。",
+    "en": "The car drove forward a bit and stopped at an intersection."
+   },
+   {
+    "zh": "我想向你打听一件事,不知道方不方便。",
+    "pinyin": "Wǒ xiǎng xiàng nǐ dǎ tīng yī jiàn shì, bù zhī dào fāng bù fāng biàn。",
+    "en": "I'd like to ask you about something, if it's convenient."
+   },
+   {
+    "zh": "他一步步向着自己的目标坚定地走去。",
+    "pinyin": "Tā yí bù bù xiàng zhe zì jǐ de mù biāo jiān dìng de zǒu qù。",
+    "en": "Step by step, he walked resolutely toward his goal."
+   },
+   {
+    "zh": "请向左转,前面第二个路口就是那家医院。",
+    "pinyin": "Qǐng xiàng zuǒ zhuǎn, qián miàn dì èr gè lù kǒu jiù shì nà jiā yī yuàn。",
+    "en": "Turn left; the second intersection ahead is the hospital."
+   },
+   {
+    "zh": "我们全体员工向坚守岗位的同事致敬。",
+    "pinyin": "Wǒ men quán tǐ yuán gōng xiàng jiān shǒu gǎng wèi de tóng shì zhì jìng。",
+    "en": "All of us employees salute the colleagues who stayed at their posts."
+   },
+   {
+    "zh": "孩子怯生生地向陌生人点了点头。",
+    "pinyin": "Hái zi qiè shēng shēng de xiàng mò shēng rén diǎn le diǎn tóu。",
+    "en": "The child shyly nodded to the stranger."
+   },
+   {
+    "zh": "他向大家详细地介绍了这次活动的安排。",
+    "pinyin": "Tā xiàng dà jiā xiáng xì de jiè shào le zhè cì huó dòng de ān pái。",
+    "en": "He introduced the event's arrangements to everyone in detail."
+   },
+   {
+    "zh": "太阳每天从东方升起,向西方落下。",
+    "pinyin": "Tài yáng měi tiān cóng dōng fāng shēng qǐ, xiàng xī fāng là xià。",
+    "en": "The sun rises in the east and sets in the west each day."
+   },
+   {
+    "zh": "他一直向往着自由自在的乡村生活。",
+    "pinyin": "Tā yì zhí xiàng wǎng zhe zì yóu zì zài de xiāng cūn shēng huó。",
+    "en": "He has always longed for a free and easy country life."
+   },
+   {
+    "zh": "请向服务台咨询,他们会给你详细的解答。",
+    "pinyin": "Qǐng xiàng fú wù tái zī xún, tā men huì gěi nǐ xiáng xì de jiě dá。",
+    "en": "Please inquire at the service desk; they'll answer in detail."
+   },
+   {
+    "zh": "我们要勇敢地向困难挑战,不能轻易低头。",
+    "pinyin": "Wǒ men yào yǒng gǎn de xiàng kùn nán tiǎo zhàn, bù néng qīng yì dī tóu。",
+    "en": "We should bravely challenge difficulties and not yield easily."
+   },
+   {
+    "zh": "船缓缓地向岸边驶去,乘客们都很兴奋。",
+    "pinyin": "Chuán huǎn huǎn de xiàng àn biān shǐ qù, chéng kè men dōu hěn xīng fèn。",
+    "en": "The boat slowly headed for the shore, and the passengers were excited."
+   },
+   {
+    "zh": "他向父母表明了自己想出国留学的决心。",
+    "pinyin": "Tā xiàng fù mǔ biǎo míng liǎo zì jǐ xiǎng chū guó liú xué de jué xīn。",
+    "en": "He expressed to his parents his resolve to study abroad."
+   },
+   {
+    "zh": "每当想起故乡,他的心就飞向了远方。",
+    "pinyin": "Měi dāng xiǎng qǐ gù xiāng, tā de xīn jiù fēi xiàng le yuǎn fāng。",
+    "en": "Whenever he thinks of home, his heart flies to the distance."
+   },
+   {
+    "zh": "大家纷纷向这位见义勇为的年轻人竖起大拇指。",
+    "pinyin": "Dà jiā fēn fēn xiàng zhè wèi jiàn yì yǒng wéi de nián qīng rén shù qǐ dà mǔ zhǐ。",
+    "en": "Everyone gave a thumbs-up to this brave young man."
+   }
+  ]
+ },
+ {
+  "id": "g204",
+  "level": 3,
+  "title": "\"往\" ile \"...-e doğru\" (hareket yönü)",
+  "titleEn": "Expressing \"toward\" with \"wang\"",
+  "pattern": "往 + Yön Sözcüğü + Fiil",
+  "summary": "\"往\" (wǎng) somut hareket yönünü gösterir: 往前走 = ileriye doğru yürü; 往里放 = içeriye doğru koy.",
+  "explanation": "\"往\" bir edat olarak somut bir HAREKETİN yönünü belirtir ve çoğu zaman fiilden önce ya da bazı hareket fiillerinden sonra gelir: 往前走 (ileri git), 往东开 (doğuya sür), 往里边坐 (içeriye doğru otur), 往下看 (aşağı bak). Ardından genelde bir yön sözcüğü (前/后/上/下/左/右/东/南/里/外) ya da bir yer gelir. \"向\" ile büyük ölçüde değiştirilebilir, ama \"往\" özellikle SOMUT hareket yönünde kullanılır ve soyut \"...-e öğrenmek/teşekkür etmek\" gibi kullanımları YOKTUR (\"往他学习\" yanlış; \"向他学习\" doğru). Yol tarifi verirken çok kullanılır: 一直往前走,到路口往右拐 (Dümdüz git, kavşaktan sağa dön). Türkçedeki \"...-e doğru, ...-e, ...-ye\" hareket yönü ifadelerine denk gelir; somut yönlendirmenin en yaygın yoludur.",
+  "examples": [
+   {
+    "zh": "你一直往前走,到第二个路口往右拐就到了。",
+    "pinyin": "Nǐ yì zhí wǎng qián zǒu, dào dì èr gè lù kǒu wǎng yòu guǎi jiù dào le。",
+    "en": "Keep going straight; turn right at the second intersection and you're there."
+   },
+   {
+    "zh": "车太挤了,大家请尽量往里边走一走。",
+    "pinyin": "Chē tài jǐ le, dà jiā qǐng jǐn liàng wǎng lǐ biān zǒu yī zǒu。",
+    "en": "The bus is packed; please move inward as much as you can."
+   },
+   {
+    "zh": "他往窗外看了一眼,发现天已经黑了。",
+    "pinyin": "Tā wǎng chuāng wài kàn le yī yǎn, fā xiàn tiān yǐ jīng hēi le。",
+    "en": "He glanced out the window and saw it had gotten dark."
+   },
+   {
+    "zh": "请把桌子往左边挪一点,好让出一条过道。",
+    "pinyin": "Qǐng bǎ zhuō zi wǎng zuǒ biān nuó yì diǎn, hǎo ràng chū yī tiáo guò dào。",
+    "en": "Please move the table a bit to the left to make a passage."
+   },
+   {
+    "zh": "这条路往北通向火车站,往南通向机场。",
+    "pinyin": "Zhè tiáo lù wǎng běi tōng xiàng huǒ chē zhàn, wǎng nán tōng xiàng jī chǎng。",
+    "en": "This road leads north to the train station and south to the airport."
+   },
+   {
+    "zh": "孩子好奇地往盒子里看,想知道里面装的是什么。",
+    "pinyin": "Hái zi hào qí de wǎng hé zi lǐ kàn, xiǎng zhī dào lǐ miàn zhuāng de shì shén me。",
+    "en": "The child peered curiously into the box to see what was inside."
+   },
+   {
+    "zh": "上山的路很陡,大家小心地往上爬。",
+    "pinyin": "Shàng shān de lù hěn dǒu, dà jiā xiǎo xīn de wǎng shàng pá。",
+    "en": "The mountain path is steep; everyone climbed up carefully."
+   },
+   {
+    "zh": "他往后退了一步,给别人让出了位置。",
+    "pinyin": "Tā wǎng hòu tuì le yī bù, gěi bié rén ràng chū le wèi zhì。",
+    "en": "He stepped back to make room for others."
+   },
+   {
+    "zh": "你往前坐一点,后面还有人要上车。",
+    "pinyin": "Nǐ wǎng qián zuò yì diǎn, hòu miàn hái yǒu rén yào shàng chē。",
+    "en": "Move forward a bit; more people are boarding at the back."
+   },
+   {
+    "zh": "河水日夜不停地往低处流,最终流入大海。",
+    "pinyin": "Hé shuǐ rì yè bù tíng de wǎng dī chù liú, zuì zhōng liú rù dà hǎi。",
+    "en": "The river flows down day and night, finally into the sea."
+   },
+   {
+    "zh": "请大家往两边散开,给救护车让出通道。",
+    "pinyin": "Qǐng dà jiā wǎng liǎng biān sàn kāi, gěi jiù hù chē ràng chū tōng dào。",
+    "en": "Please spread to both sides to make way for the ambulance."
+   },
+   {
+    "zh": "他把信封往桌上一放,转身就走了。",
+    "pinyin": "Tā bǎ xìn fēng wǎng zhuō shàng yī fàng, zhuǎn shēn jiù zǒu le。",
+    "en": "He tossed the envelope on the table and turned to leave."
+   },
+   {
+    "zh": "往前再走几步就是电梯,你跟我来。",
+    "pinyin": "Wǎng qián zài zǒu jǐ bù jiù shì diàn tī, nǐ gēn wǒ lái。",
+    "en": "A few more steps ahead is the elevator; follow me."
+   },
+   {
+    "zh": "天气冷了,大雁开始往温暖的南方飞。",
+    "pinyin": "Tiān qì lěng le, dà yàn kāi shǐ wǎng wēn nuǎn de nán fāng fēi。",
+    "en": "As it grew cold, the geese began flying to the warm south."
+   },
+   {
+    "zh": "你把音量往小了调一点,别吵到邻居。",
+    "pinyin": "Nǐ bǎ yīn liàng wǎng xiǎo le diào yì diǎn, bié chǎo dào lín jū。",
+    "en": "Turn the volume down a bit so as not to disturb the neighbors."
+   },
+   {
+    "zh": "他往后一靠,舒服地闭上了眼睛。",
+    "pinyin": "Tā wǎng hòu yī kào, shū fú de bì shàng le yǎn jīng。",
+    "en": "He leaned back and comfortably closed his eyes."
+   },
+   {
+    "zh": "往里走是卧室,往外走就是客厅了。",
+    "pinyin": "Wǎng lǐ zǒu shì wò shì, wǎng wài zǒu jiù shì kè tīng le。",
+    "en": "Inward is the bedroom; outward is the living room."
+   },
+   {
+    "zh": "请把车往边上停一停,别挡着后面的车。",
+    "pinyin": "Qǐng bǎ chē wǎng biān shàng tíng yī tíng, bié dǎng zhe hòu miàn de chē。",
+    "en": "Please pull the car to the side; don't block the ones behind."
+   },
+   {
+    "zh": "他抬头往山顶望去,还有很长一段路要爬。",
+    "pinyin": "Tā tái tóu wǎng shān dǐng wàng qù, hái yǒu hěn zhǎng yī duàn lù yào pá。",
+    "en": "He looked up toward the summit; there was still a long way to climb."
+   },
+   {
+    "zh": "你顺着这条街一直往东走,银行就在右手边。",
+    "pinyin": "Nǐ shùn zhe zhè tiáo jiē yì zhí wǎng dōng zǒu, yín háng jiù zài yòu shǒu biān。",
+    "en": "Follow this street east; the bank is on your right."
+   },
+   {
+    "zh": "孩子往妈妈怀里一扑,紧紧地抱住了她。",
+    "pinyin": "Hái zi wǎng mā mā huái lǐ yī pū, jǐn jǐn de bào zhù le tā。",
+    "en": "The child threw himself into mom's arms and held her tight."
+   },
+   {
+    "zh": "请大家往前挪一挪,把后面的座位留给老人。",
+    "pinyin": "Qǐng dà jiā wǎng qián nuó yī nuó, bǎ hòu miàn de zuò wèi liú gěi lǎo rén。",
+    "en": "Please move forward and leave the back seats for the elderly."
+   },
+   {
+    "zh": "他把头往门外探了探,看看外面有没有人。",
+    "pinyin": "Tā bǎ tóu wǎng mén wài tàn le tàn, kàn kàn wài miàn yǒu méi yǒu rén。",
+    "en": "He poked his head out the door to see if anyone was outside."
+   },
+   {
+    "zh": "这些水一直往外冒,得赶紧把水管关上。",
+    "pinyin": "Zhè xiē shuǐ yì zhí wǎng wài mào, de gǎn jǐn bǎ shuǐ guǎn guān shàng。",
+    "en": "Water keeps gushing out; we must shut off the pipe quickly."
+   },
+   {
+    "zh": "我们往回走吧,天色不早,该回家了。",
+    "pinyin": "Wǒ men wǎng huí zǒu ba, tiān sè bù zǎo, gāi huí jiā le。",
+    "en": "Let's head back; it's getting late and time to go home."
+   }
+  ]
  }
 ]

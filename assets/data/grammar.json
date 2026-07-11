@@ -16318,5 +16318,685 @@
     "en": "If you see my keys, be sure to let me know."
    }
   ]
+ },
+ {
+  "id": "g121",
+  "level": 2,
+  "title": "\"一些\" ile \"bir miktar, birkaç\"",
+  "titleEn": "Expressing \"some\" with \"yixie\"",
+  "pattern": "一些 + İsim",
+  "summary": "\"一些\" (yìxiē) belirsiz bir miktar/çokluk bildirir: \"biraz, birkaç, bir kısım\": 一些书 = birkaç kitap; 一些水 = biraz su.",
+  "explanation": "\"一些\" belirsiz, küçük ya da orta bir miktarı bildirir ve hem SAYILABİLEN hem SAYILAMAYAN isimlerle kullanılabilir: 一些朋友 (birkaç arkadaş), 一些钱 (biraz para), 一些问题 (bazı sorunlar). Bir ölçü sözcüğü GEREKTİRMEZ — doğrudan isimden önce gelir. \"一\" çoğu zaman düşebilir ve sadece \"些\" kalır: 买些水果 (biraz meyve al). Sıfattan sonra gelip \"biraz daha\" karşılaştırması da yapar: 好一些 (biraz daha iyi), 便宜一些 (biraz daha ucuz). Türkçedeki \"biraz, bir miktar, bazı, birkaç\" karşılıklarına denk gelir; kesin sayı vermeden çokluk anlatmanın en yaygın yollarından biridir.",
+  "examples": [
+   {
+    "zh": "我去超市买了一些水果和蔬菜,准备做晚饭。",
+    "pinyin": "Wǒ qù chāo shì mǎi le yī xiē shuǐ guǒ hé shū cài, zhǔn bèi zuò wǎn fàn。",
+    "en": "I went to the supermarket and bought some fruit and vegetables for dinner."
+   },
+   {
+    "zh": "关于这件事,我还有一些问题想问清楚。",
+    "pinyin": "Guān yú zhè jiàn shì, wǒ hái yǒu yī xiē wèn tí xiǎng wèn qīng chǔ。",
+    "en": "Regarding this matter, I still have some questions to clarify."
+   },
+   {
+    "zh": "他把一些旧衣服整理出来,送给了需要的人。",
+    "pinyin": "Tā bǎ yī xiē jiù yī fú zhěng lǐ chū lái, sòng gěi le xū yào de rén。",
+    "en": "He sorted out some old clothes and gave them to people in need."
+   },
+   {
+    "zh": "多喝一些水对身体好,尤其是天气干燥的时候。",
+    "pinyin": "Duō hē yī xiē shuǐ duì shēn tǐ hǎo, yóu qí shì tiān qì gān zào de shí hòu。",
+    "en": "Drinking more water is good for you, especially when the weather is dry."
+   },
+   {
+    "zh": "这次旅行我认识了一些有意思的新朋友。",
+    "pinyin": "Zhè cì lǚ xíng wǒ rèn shí le yī xiē yǒu yì si de xīn péng yǒu。",
+    "en": "On this trip I met some interesting new friends."
+   },
+   {
+    "zh": "桌子上放着一些点心,大家随便吃。",
+    "pinyin": "Zhuō zi shàng fàng zhe yī xiē diǎn xīn, dà jiā suí biàn chī。",
+    "en": "There are some snacks on the table; help yourselves."
+   },
+   {
+    "zh": "吃过药,休息了一会儿,他觉得好了一些。",
+    "pinyin": "Chī guò yào, xiū xī le yī huì er, tā jué de hǎo le yī xiē。",
+    "en": "After the medicine and a rest, he felt a bit better."
+   },
+   {
+    "zh": "我从书里学到了一些做人的道理。",
+    "pinyin": "Wǒ cóng shū lǐ xué dào le yī xiē zuò rén de dào lǐ。",
+    "en": "I learned some principles of life from the book."
+   },
+   {
+    "zh": "你能不能便宜一些?我一次买这么多。",
+    "pinyin": "Nǐ néng bù néng pián yi yī xiē? wǒ yī cì mǎi zhè me duō。",
+    "en": "Could you make it a bit cheaper? I'm buying so much at once."
+   },
+   {
+    "zh": "妈妈往我包里塞了一些家乡的特产。",
+    "pinyin": "Mā mā wǎng wǒ bāo lǐ sāi le yī xiē jiā xiāng de tè chǎn。",
+    "en": "Mom stuffed some hometown specialties into my bag."
+   },
+   {
+    "zh": "这些年他积累了一些经验,做事越来越稳。",
+    "pinyin": "Zhè xiē nián tā jī lěi le yī xiē jīng yàn, zuò shì yuè lái yuè wěn。",
+    "en": "Over the years he's gained some experience and works ever more steadily."
+   },
+   {
+    "zh": "天冷了,你该添一些厚衣服了。",
+    "pinyin": "Tiān lěng le, nǐ gāi tiān yī xiē hòu yī fú le。",
+    "en": "It's gotten cold; you should add some warm clothes."
+   },
+   {
+    "zh": "会上,大家提出了一些很有价值的建议。",
+    "pinyin": "Huì shàng, dà jiā tí chū le yī xiē hěn yǒu jià zhí de jiàn yì。",
+    "en": "At the meeting, everyone offered some valuable suggestions."
+   },
+   {
+    "zh": "我给孩子讲了一些小时候的趣事,他听得很入迷。",
+    "pinyin": "Wǒ gěi hái zi jiǎng le yī xiē xiǎo shí hòu de qù shì, tā tīng de hěn rù mí。",
+    "en": "I told the child some funny childhood stories, and he was fascinated."
+   },
+   {
+    "zh": "这道菜再放一些盐,味道会更好。",
+    "pinyin": "Zhè dào cài zài fàng yī xiē yán, wèi dào huì gèng hǎo。",
+    "en": "Add a bit more salt to this dish and it'll taste better."
+   },
+   {
+    "zh": "他攒了一些钱,打算给父母换一台新电视。",
+    "pinyin": "Tā zǎn le yī xiē qián, dǎ suàn gěi fù mǔ huàn yī tái xīn diàn shì。",
+    "en": "He saved some money to buy his parents a new TV."
+   },
+   {
+    "zh": "经过这件事,我明白了一些以前不懂的道理。",
+    "pinyin": "Jīng guò zhè jiàn shì, wǒ míng bái le yī xiē yǐ qián bù dǒng de dào lǐ。",
+    "en": "Through this, I understood some things I hadn't grasped before."
+   },
+   {
+    "zh": "周末我想在家看一些书,顺便休息休息。",
+    "pinyin": "Zhōu mò wǒ xiǎng zài jiā kàn yī xiē shū, shùn biàn xiū xī xiū xī。",
+    "en": "This weekend I want to read some books at home and rest a bit."
+   },
+   {
+    "zh": "路边开着一些不知名的小花,特别可爱。",
+    "pinyin": "Lù biān kāi zhe yī xiē bù zhī míng de xiǎo huā, tè bié kě ài。",
+    "en": "Some unnamed little flowers bloom by the road, so lovely."
+   },
+   {
+    "zh": "你脸色好一些了,看来药起作用了。",
+    "pinyin": "Nǐ liǎn sè hǎo yī xiē le, kàn lái yào qǐ zuò yòng le。",
+    "en": "Your color looks a bit better; the medicine seems to be working."
+   },
+   {
+    "zh": "我在网上查了一些资料,对这个问题有了新的认识。",
+    "pinyin": "Wǒ zài wǎng shàng chá le yī xiē zī liào, duì zhè ge wèn tí yǒu le xīn de rèn shí。",
+    "en": "I looked up some information online and gained new insight into this."
+   },
+   {
+    "zh": "请你留一些空白,方便以后补充内容。",
+    "pinyin": "Qǐng nǐ liú yī xiē kòng bái, fāng biàn yǐ hòu bǔ chōng nèi róng。",
+    "en": "Please leave some blank space for adding content later."
+   },
+   {
+    "zh": "这几天忙,我落下了一些工作,得赶紧补上。",
+    "pinyin": "Zhè jǐ tiān máng, wǒ là xià le yī xiē gōng zuò, de gǎn jǐn bǔ shàng。",
+    "en": "I've been busy and fell behind on some work; I must catch up."
+   },
+   {
+    "zh": "他给了我一些鼓励,让我重新有了信心。",
+    "pinyin": "Tā gěi le wǒ yī xiē gǔ lì, ràng wǒ chóng xīn yǒu le xìn xīn。",
+    "en": "He gave me some encouragement, restoring my confidence."
+   },
+   {
+    "zh": "超市门口摆着一些刚到的新鲜草莓。",
+    "pinyin": "Chāo shì mén kǒu bǎi zhe yī xiē gāng dào de xīn xiān cǎo méi。",
+    "en": "Some freshly arrived strawberries are displayed at the supermarket entrance."
+   }
+  ]
+ },
+ {
+  "id": "g122",
+  "level": 2,
+  "title": "\"有的\" ile \"bazıları, kimi\"",
+  "titleEn": "Using \"youde\" to mean \"some\"",
+  "pattern": "有的 + İsim ... 有的 ...",
+  "summary": "\"有的\" (yǒude) bir bütünün İÇİNDEN \"bazıları, kimileri\" der ve çoğu zaman tekrarlanır: 有的...有的... = kimi..., kimi...",
+  "explanation": "\"有的\" bir grubun/bütünün İÇİNDEKİ bir kısmı seçip belirtir: \"bazıları, kimisi, bir kısmı\". Çoğu zaman İKİ ya da daha çok kez tekrarlanarak karşılaştırma kurar: 有的人喜欢喝茶,有的人喜欢喝咖啡 (Kimi insan çay sever, kimi kahve). Bir isimden önce gelir (有的书, 有的地方) ya da tek başına \"有的\" = \"bazıları\" olarak durabilir. \"一些\"den farkı: \"一些\" belirsiz bir MİKTAR verir; \"有的\" ise bilinen bir bütünün içinden bir ALT KÜMEYİ ayırır ve çoğu zaman \"..., diğerleri...\" karşıtlığını kurar. Türkçedeki \"kimi..., kimi...; bazıları..., bazıları...\" yapısına birebir denk gelir.",
+  "examples": [
+   {
+    "zh": "同样一件事,有的人觉得难,有的人觉得容易。",
+    "pinyin": "Tóng yàng yī jiàn shì, yǒu de rén jué de nán, yǒu de rén jué de róng yì。",
+    "en": "For the same thing, some find it hard while others find it easy."
+   },
+   {
+    "zh": "这些苹果有的很甜,有的却有点儿酸。",
+    "pinyin": "Zhè xiē píng guǒ yǒu de hěn tián, yǒu de què yǒu diǎn ér suān。",
+    "en": "Some of these apples are sweet, while others are a bit sour."
+   },
+   {
+    "zh": "下课以后,有的同学去打球,有的回家写作业。",
+    "pinyin": "Xià kè yǐ hòu, yǒu de tóng xué qù dǎ qiú, yǒu de huí jiā xiě zuò yè。",
+    "en": "After class, some students play ball while others go home to study."
+   },
+   {
+    "zh": "这些书有的很有意思,有的读起来比较枯燥。",
+    "pinyin": "Zhè xiē shū yǒu de hěn yǒu yì si, yǒu de dú qǐ lái bǐ jiào kū zào。",
+    "en": "Some of these books are interesting, while others are rather dull to read."
+   },
+   {
+    "zh": "周末大家的安排都不一样,有的休息,有的还要加班。",
+    "pinyin": "Zhōu mò dà jiā de ān pái dōu bù yí yàng, yǒu de xiū xī, yǒu de hái yào jiā bān。",
+    "en": "Everyone's weekend plans differ: some rest, some still work overtime."
+   },
+   {
+    "zh": "公园里,有的老人在下棋,有的在打太极。",
+    "pinyin": "Gōng yuán lǐ, yǒu de lǎo rén zài xià qí, yǒu de zài dǎ tài jí。",
+    "en": "In the park, some elderly play chess while others do tai chi."
+   },
+   {
+    "zh": "班里的同学来自各地,有的说北方话,有的说南方话。",
+    "pinyin": "Bān lǐ de tóng xué lái zì gè dì, yǒu de shuō běi fāng huà, yǒu de shuō nán fāng huà。",
+    "en": "Classmates come from everywhere: some speak northern dialects, some southern."
+   },
+   {
+    "zh": "这几条路,有的近但难走,有的远却很平坦。",
+    "pinyin": "Zhè jǐ tiáo lù, yǒu de jìn dàn nán zǒu, yǒu de yuǎn què hěn píng tǎn。",
+    "en": "Of these roads, some are short but rough, others long but smooth."
+   },
+   {
+    "zh": "面对困难,有的人选择放弃,有的人选择坚持。",
+    "pinyin": "Miàn duì kùn nán, yǒu de rén xuǎn zé fàng qì, yǒu de rén xuǎn zé jiān chí。",
+    "en": "Facing difficulties, some choose to give up while others persist."
+   },
+   {
+    "zh": "市场上的菜,有的是本地的,有的是外地运来的。",
+    "pinyin": "Shì chǎng shàng de cài, yǒu de shì běn dì de, yǒu de shì wài dì yùn lái de。",
+    "en": "The market's vegetables: some are local, some shipped from elsewhere."
+   },
+   {
+    "zh": "这些照片有的是黑白的,有的是彩色的,都很珍贵。",
+    "pinyin": "Zhè xiē zhào piān yǒu de shì hēi bái de, yǒu de shì cǎi sè de, dōu hěn zhēn guì。",
+    "en": "Some of these photos are black-and-white, some color, all precious."
+   },
+   {
+    "zh": "孩子们的梦想各不相同,有的想当医生,有的想当老师。",
+    "pinyin": "Hái zi men de mèng xiǎng gè bù xiāng tóng, yǒu de xiǎng dāng yī shēng, yǒu de xiǎng dāng lǎo shī。",
+    "en": "The children's dreams differ: some want to be doctors, some teachers."
+   },
+   {
+    "zh": "我买的花,有的已经开了,有的还是花苞。",
+    "pinyin": "Wǒ mǎi de huā, yǒu de yǐ jīng kāi le, yǒu de hái shì huā bāo。",
+    "en": "Of the flowers I bought, some have bloomed, others are still buds."
+   },
+   {
+    "zh": "会上,有的人赞成这个方案,有的人表示反对。",
+    "pinyin": "Huì shàng, yǒu de rén zàn chéng zhè ge fāng àn, yǒu de rén biǎo shì fǎn duì。",
+    "en": "At the meeting, some supported the plan while others opposed it."
+   },
+   {
+    "zh": "这批衣服有的号大了,有的又太小,得重新挑。",
+    "pinyin": "Zhè pī yī fú yǒu de hào dà le, yǒu de yòu tài xiǎo, de chóng xīn tiāo。",
+    "en": "Of these clothes, some are too big, some too small; we must reselect."
+   },
+   {
+    "zh": "超市里,有的东西打折,有的还是原价。",
+    "pinyin": "Chāo shì lǐ, yǒu de dōng xī dǎ zhé, yǒu de hái shì yuán jià。",
+    "en": "In the supermarket, some items are on sale, some still full price."
+   },
+   {
+    "zh": "旅行团里,有的游客爱拍照,有的只想安静地看风景。",
+    "pinyin": "Lǚ xíng tuán lǐ, yǒu de yóu kè ài pāi zhào, yǒu de zhǐ xiǎng ān jìng de kàn fēng jǐng。",
+    "en": "In the tour group, some tourists love photos, some just want to watch quietly."
+   },
+   {
+    "zh": "这些问题,有的容易解决,有的还得慢慢想办法。",
+    "pinyin": "Zhè xiē wèn tí, yǒu de róng yì jiě jué, yǒu de hái de màn màn xiǎng bàn fǎ。",
+    "en": "Of these problems, some are easy to solve, others need slow consideration."
+   },
+   {
+    "zh": "天气变化大,有的人穿着外套,有的人还穿着短袖。",
+    "pinyin": "Tiān qì biàn huà dà, yǒu de rén chuān zhe wài tào, yǒu de rén hái chuān zhe duǎn xiù。",
+    "en": "The weather varies: some wear coats, some still wear short sleeves."
+   },
+   {
+    "zh": "桌上的菜,有的辣,有的淡,总有一样合你口味。",
+    "pinyin": "Zhuō shàng de cài, yǒu de là, yǒu de dàn, zǒng yǒu yī yàng hé nǐ kǒu wèi。",
+    "en": "Of the dishes, some are spicy, some mild; one will suit your taste."
+   },
+   {
+    "zh": "同学们的字写得各有特点,有的工整,有的潇洒。",
+    "pinyin": "Tóng xué men de zì xiě de gè yǒu tè diǎn, yǒu de gōng zhěng, yǒu de xiāo sǎ。",
+    "en": "Classmates' handwriting each has its style: some neat, some free."
+   },
+   {
+    "zh": "这些树有的是新栽的,有的已经长了几十年了。",
+    "pinyin": "Zhè xiē shù yǒu de shì xīn zāi de, yǒu de yǐ jīng zhǎng le jǐ shí nián le。",
+    "en": "Some of these trees are newly planted, others have grown for decades."
+   },
+   {
+    "zh": "对这件事,有的人知道得多,有的人还蒙在鼓里。",
+    "pinyin": "Duì zhè jiàn shì, yǒu de rén zhī dào de duō, yǒu de rén hái méng zài gǔ lǐ。",
+    "en": "About this, some know a lot, while others are still in the dark."
+   },
+   {
+    "zh": "路过的行人,有的行色匆匆,有的悠闲自在。",
+    "pinyin": "Lù guò de xíng rén, yǒu de xíng sè cōng cōng, yǒu de yōu xián zì zài。",
+    "en": "Of the passers-by, some hurry along, others stroll at leisure."
+   },
+   {
+    "zh": "这几家店的服务,有的很热情,有的就比较冷淡。",
+    "pinyin": "Zhè jǐ jiā diàn de fú wù, yǒu de hěn rè qíng, yǒu de jiù bǐ jiào lěng dàn。",
+    "en": "The service at these shops varies: some warm, some rather cold."
+   }
+  ]
+ },
+ {
+  "id": "g123",
+  "level": 2,
+  "title": "Para sayma (块 / 毛 / 分)",
+  "titleEn": "Counting money",
+  "pattern": "Sayı + 块 / 元 (+ Sayı + 毛 / 角 + Sayı + 分)",
+  "summary": "Para konuşma dilinde 块 (yuan), 毛 (0,1 yuan) ve 分 (0,01 yuan) ile sayılır: 三块五 = 3,5 yuan.",
+  "explanation": "Çince'de para sayarken üç birim vardır: 块 (kuài, resmî yazıda 元 yuán) = ana birim; 毛 (máo, resmî 角 jiǎo) = 块'ın onda biri; 分 (fēn) = yüzde biri. Konuşma dilinde 块/毛/分, resmî/yazılı dilde 元/角/分 kullanılır. Örnek: 三块五毛 (3,5 yuan), çoğu zaman son birim düşürülür: 三块五 (3,5). Sadece iki için \"两\" gelir: 两块 (2 yuan). Fiyat sorulurken \"多少钱?\" (ne kadar?) denir. \"钱\" (para) sözcüğü sonda eklenebilir: 五块钱 (5 yuan). Bütün sayılar Çince rakamlarla yazılır. Bu, günlük alışverişte en gerekli kalıplardan biridir.",
+  "examples": [
+   {
+    "zh": "这件衣服打完折才卖八十块,真是太划算了。",
+    "pinyin": "Zhè jiàn yī fú dǎ wán zhé cái mài bā shí kuài, zhēn shì tài huá suàn le。",
+    "en": "After the discount this outfit is only eighty yuan; what a bargain."
+   },
+   {
+    "zh": "老板,这些菜一共多少钱?我一起结账。",
+    "pinyin": "Lǎo bǎn, zhè xiē cài yī gòng duō shǎo qián? wǒ yì qǐ jié zhàng。",
+    "en": "Boss, how much for all these vegetables? I'll pay together."
+   },
+   {
+    "zh": "一斤苹果三块五,我买了两斤,一共七块。",
+    "pinyin": "Yī jīn píng guǒ sān kuài wǔ, wǒ mǎi le liǎng jīn, yī gòng qī kuài。",
+    "en": "Apples are three-fifty a jin; I bought two jin for seven yuan total."
+   },
+   {
+    "zh": "公交车票现在涨到两块了,以前才一块。",
+    "pinyin": "Gōng jiāo chē piào xiàn zài zhǎng dào liǎng kuài le, yǐ qián cái yī kuài。",
+    "en": "Bus fare has risen to two yuan now; it used to be just one."
+   },
+   {
+    "zh": "这本书原价四十五块,现在半价二十二块五。",
+    "pinyin": "Zhè běn shū yuán jià sì shí wǔ kuài, xiàn zài bàn jià èr shí èr kuài wǔ。",
+    "en": "This book was forty-five yuan; now it's half price, twenty-two-fifty."
+   },
+   {
+    "zh": "我给了他一百块,他找了我三十五块。",
+    "pinyin": "Wǒ gěi le tā yì bǎi kuài, tā zhǎo le wǒ sān shí wǔ kuài。",
+    "en": "I gave him a hundred yuan, and he gave me thirty-five in change."
+   },
+   {
+    "zh": "这个西瓜十几块钱,又大又甜,很值。",
+    "pinyin": "Zhè ge xī guā shí jǐ kuài qián, yòu dà yòu tián, hěn zhí。",
+    "en": "This watermelon is a dozen or so yuan, big and sweet, well worth it."
+   },
+   {
+    "zh": "坐一次地铁三块钱,一个月下来也不少。",
+    "pinyin": "Zuò yī cì dì tiě sān kuài qián, yí gè yuè xià lái yě bù shǎo。",
+    "en": "One subway ride is three yuan; over a month it adds up."
+   },
+   {
+    "zh": "这条围巾我花了一百二十块,妈妈很喜欢。",
+    "pinyin": "Zhè tiáo wéi jīn wǒ huā le yì bǎi èr shí kuài, mā mā hěn xǐ huān。",
+    "en": "I spent a hundred and twenty yuan on this scarf; mom loves it."
+   },
+   {
+    "zh": "请问这个多少钱一个?我想买五个。",
+    "pinyin": "Qǐng wèn zhè ge duō shǎo qián yí gè? wǒ xiǎng mǎi wǔ gè。",
+    "en": "Excuse me, how much is one of these? I want five."
+   },
+   {
+    "zh": "停车费一小时五块,停一天就得几十块。",
+    "pinyin": "Tíng chē fèi yī xiǎo shí wǔ kuài, tíng yī tiān jiù de jǐ shí kuài。",
+    "en": "Parking is five yuan an hour; a whole day costs several dozen."
+   },
+   {
+    "zh": "我兜里就剩十几块钱了,得去取点儿了。",
+    "pinyin": "Wǒ dōu lǐ jiù shèng shí jǐ kuài qián le, de qù qǔ diǎn ér le。",
+    "en": "I have only a dozen yuan left in my pocket; I need to withdraw more."
+   },
+   {
+    "zh": "这家小店的面条便宜,一碗才八块钱。",
+    "pinyin": "Zhè jiā xiǎo diàn de miàn tiáo pián yi, yī wǎn cái bā kuài qián。",
+    "en": "The noodles at this small shop are cheap, only eight yuan a bowl."
+   },
+   {
+    "zh": "他省吃俭用,一个月能攒下两三千块。",
+    "pinyin": "Tā shěng chī jiǎn yòng, yí gè yuè néng zǎn xià liǎng sān qiān kuài。",
+    "en": "He lives frugally and can save two or three thousand yuan a month."
+   },
+   {
+    "zh": "这些鸡蛋一斤六块,我称了三斤,十八块。",
+    "pinyin": "Zhè xiē jī dàn yī jīn liù kuài, wǒ chēng le sān jīn, shí bā kuài。",
+    "en": "These eggs are six yuan a jin; I weighed three jin, eighteen yuan."
+   },
+   {
+    "zh": "门票成人五十块,小孩半价二十五块。",
+    "pinyin": "Mén piào chéng rén wǔ shí kuài, xiǎo hái bàn jià èr shí wǔ kuài。",
+    "en": "Admission is fifty yuan for adults, half price for children at twenty-five."
+   },
+   {
+    "zh": "这台旧手机卖了三百块,总比放着强。",
+    "pinyin": "Zhè tái jiù shǒu jī mài le sān bǎi kuài, zǒng bǐ fàng zhe qiáng。",
+    "en": "I sold this old phone for three hundred yuan; better than letting it sit."
+   },
+   {
+    "zh": "一杯咖啡要三十多块,我还是自己泡吧。",
+    "pinyin": "Yī bēi kā fēi yào sān shí duō kuài, wǒ hái shì zì jǐ pào ba。",
+    "en": "A coffee costs over thirty yuan; I'd rather make my own."
+   },
+   {
+    "zh": "这条鱼十五块一斤,新鲜得很,买一条吧。",
+    "pinyin": "Zhè tiáo yú shí wǔ kuài yī jīn, xīn xiān de hěn, mǎi yī tiáo ba。",
+    "en": "This fish is fifteen yuan a jin, very fresh; let's buy one."
+   },
+   {
+    "zh": "孩子的这双鞋两百多块,可是特别耐穿。",
+    "pinyin": "Hái zi de zhè shuāng xié liǎng bǎi duō kuài, kě shì tè bié nài chuān。",
+    "en": "The child's shoes cost over two hundred yuan, but they're very durable."
+   },
+   {
+    "zh": "你这件毛衣真好看,花了多少钱买的?",
+    "pinyin": "Nǐ zhè jiàn máo yī zhēn hǎo kàn, huā le duō shǎo qián mǎi de?",
+    "en": "Your sweater is lovely; how much did it cost?"
+   },
+   {
+    "zh": "水电费这个月一共交了三百六十块。",
+    "pinyin": "Shuǐ diàn fèi zhè ge yuè yī gòng jiāo le sān bǎi liù shí kuài。",
+    "en": "The utility bill this month came to three hundred and sixty yuan in total."
+   },
+   {
+    "zh": "这家理发店剪头发才二十块,手艺还不错。",
+    "pinyin": "Zhè jiā lǐ fà diàn jiǎn tóu fà cái èr shí kuài, shǒu yì hái bú cuò。",
+    "en": "A haircut here is only twenty yuan, and the skill isn't bad."
+   },
+   {
+    "zh": "我买这些文具一共花了不到十块钱。",
+    "pinyin": "Wǒ mǎi zhè xiē wén jù yī gòng huā le bú dào shí kuài qián。",
+    "en": "I spent less than ten yuan on all this stationery."
+   },
+   {
+    "zh": "请帮我换一些零钱,我要坐公交车。",
+    "pinyin": "Qǐng bāng wǒ huàn yī xiē líng qián, wǒ yào zuò gōng jiāo chē。",
+    "en": "Please help me get some small change; I need to take the bus."
+   }
+  ]
+ },
+ {
+  "id": "g124",
+  "level": 2,
+  "title": "\"每\" ile \"her\"",
+  "titleEn": "Expressing \"every\" with \"mei\"",
+  "pattern": "每 + Ölçü Sözcüğü (+ İsim) ... 都 ...",
+  "summary": "\"每\" (měi) \"her\" demektir ve çoğu zaman yüklemde \"都\" ile birlikte gelir: 每天都学习 = her gün çalışır.",
+  "explanation": "\"每\" bir bütünün İSTİSNASIZ her bir üyesini kapsar: \"her\". Ardından çoğu zaman bir ölçü sözcüğü gelir: 每个人 (her insan), 每天 (her gün — 天 kendi ölçüsü olduğundan doğrudan), 每次 (her sefer), 每年 (her yıl). Çok önemli kural: \"每\"li cümlede yüklemden önce sıklıkla \"都\" (hepsi/tümü) gelir ve \"istisnasız hepsi\" vurgusunu tamamlar: 每个学生都很努力 (Her öğrenci çok çalışkan). 天/年/次 gibi kendi başına ölçü olan sözcükler dışında \"每\" tek başına isimle kullanılmaz, araya ölçü sözcüğü girer: 每一本书 (her kitap). Türkçedeki \"her, her bir\" karşılığıdır ve genelleme yapmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "他每天早上都六点起床,风雨无阻地去跑步。",
+    "pinyin": "Tā měi tiān zǎo shàng dōu liù diǎn qǐ chuáng, fēng yǔ wú zǔ de qù pǎo bù。",
+    "en": "He gets up at six every morning and runs, rain or shine."
+   },
+   {
+    "zh": "我们班每个同学都参加了这次的公益活动。",
+    "pinyin": "Wǒ men bān měi gè tóng xué dōu cān jiā le zhè cì de gōng yì huó dòng。",
+    "en": "Every student in our class took part in this charity event."
+   },
+   {
+    "zh": "这家店每到周末都排起长长的队。",
+    "pinyin": "Zhè jiā diàn měi dào zhōu mò dōu pái qǐ cháng cháng de duì。",
+    "en": "This shop has a long queue every weekend."
+   },
+   {
+    "zh": "妈妈每次做红烧肉,我都能多吃一碗饭。",
+    "pinyin": "Mā mā měi cì zuò hóng shāo ròu, wǒ dōu néng duō chī yī wǎn fàn。",
+    "en": "Every time mom makes braised pork, I eat an extra bowl of rice."
+   },
+   {
+    "zh": "他把每一分钱都花在了该花的地方。",
+    "pinyin": "Tā bǎ měi yī fēn qián dōu huā zài le gāi huā de dì fāng。",
+    "en": "He spent every cent where it was needed."
+   },
+   {
+    "zh": "每年春节,在外的游子都会赶回家团聚。",
+    "pinyin": "Měi nián chūn jié, zài wài de yóu zi dū huì gǎn huí jiā tuán jù。",
+    "en": "Every Spring Festival, those away rush home to reunite."
+   },
+   {
+    "zh": "老师对每个学生都很关心,从不偏心。",
+    "pinyin": "Lǎo shī duì měi gè xué shēng dōu hěn guān xīn, cóng bù piān xīn。",
+    "en": "The teacher cares about every student and never plays favorites."
+   },
+   {
+    "zh": "这条路我每天都走,闭着眼睛都不会走错。",
+    "pinyin": "Zhè tiáo lù wǒ měi tiān dōu zǒu, bì zhuó yǎn jīng dōu bú huì zǒu cuò。",
+    "en": "I walk this road every day; I could do it with my eyes closed."
+   },
+   {
+    "zh": "他每做一件事都特别认真,从不马虎。",
+    "pinyin": "Tā měi zuò yī jiàn shì dōu tè bié rèn zhēn, cóng bù mǎ hǔ。",
+    "en": "He does everything with great care and is never sloppy."
+   },
+   {
+    "zh": "每逢下雨,这个路口就特别容易堵车。",
+    "pinyin": "Měi féng xià yǔ, zhè ge lù kǒu jiù tè bié róng yì dǔ chē。",
+    "en": "Whenever it rains, this intersection jams easily."
+   },
+   {
+    "zh": "我们每个月都会聚一次,聊聊各自的近况。",
+    "pinyin": "Wǒ men měi gè yuè dū huì jù yī cì, liáo liáo gè zì de jìn kuàng。",
+    "en": "We meet once every month to catch up on each other's lives."
+   },
+   {
+    "zh": "这里的每一棵树都是当年他们亲手种下的。",
+    "pinyin": "Zhè lǐ de měi yī kē shù dōu shì dāng nián tā men qīn shǒu zhòng xià de。",
+    "en": "Every tree here was planted by their own hands back then."
+   },
+   {
+    "zh": "他每天晚上都要检查一遍孩子的作业。",
+    "pinyin": "Tā měi tiān wǎn shàng dōu yào jiǎn chá yī biàn hái zi de zuò yè。",
+    "en": "Every night he checks the child's homework."
+   },
+   {
+    "zh": "每个来过这里的人,都会被这里的风景打动。",
+    "pinyin": "Měi gè lái guò zhè lǐ de rén, dū huì bèi zhè lǐ de fēng jǐng dǎ dòng。",
+    "en": "Everyone who's been here is moved by the scenery."
+   },
+   {
+    "zh": "公司规定,每位员工每年都有带薪假期。",
+    "pinyin": "Gōng sī guī dìng, měi wèi yuán gōng měi nián dōu yǒu dài xīn jià qī。",
+    "en": "The company rule gives every employee paid leave each year."
+   },
+   {
+    "zh": "她把每天要做的事都仔仔细细地记在本子上。",
+    "pinyin": "Tā bǎ měi tiān yào zuò de shì dōu zǎi zǐ xì xì de jì zài běn zi shàng。",
+    "en": "She carefully records everything she has to do each day in a notebook."
+   },
+   {
+    "zh": "每当想起那段日子,他心里都充满了感激。",
+    "pinyin": "Měi dāng xiǎng qǐ nà duàn rì zi, tā xīn lǐ dōu chōng mǎn le gǎn jī。",
+    "en": "Whenever he recalls those days, his heart fills with gratitude."
+   },
+   {
+    "zh": "这套书每一册都值得反复阅读。",
+    "pinyin": "Zhè tào shū měi yī cè dōu zhí de fǎn fù yuè dú。",
+    "en": "Every volume of this set is worth reading again and again."
+   },
+   {
+    "zh": "他对待每一位客人都热情周到。",
+    "pinyin": "Tā duì dài měi yī wèi kè rén dōu rè qíng zhōu dào。",
+    "en": "He treats every guest warmly and attentively."
+   },
+   {
+    "zh": "每次考试之前,他都会紧张得睡不好觉。",
+    "pinyin": "Měi cì kǎo shì zhī qián, tā dū huì jǐn zhāng de shuì bù hǎo jué。",
+    "en": "Before every exam, he gets so nervous he can't sleep well."
+   },
+   {
+    "zh": "这条河两岸,每到春天都开满了野花。",
+    "pinyin": "Zhè tiáo hé liǎng àn, měi dào chūn tiān dōu kāi mǎn le yě huā。",
+    "en": "Both banks of this river bloom with wildflowers every spring."
+   },
+   {
+    "zh": "每个人的生活方式不同,我们应该互相尊重。",
+    "pinyin": "Měi gè rén de shēng huó fāng shì bù tóng, wǒ men yīng gāi hù xiāng zūn zhòng。",
+    "en": "Everyone's way of life differs; we should respect one another."
+   },
+   {
+    "zh": "他每读完一本书,都要写下自己的感受。",
+    "pinyin": "Tā měi dú wán yī běn shū, dōu yào xiě xià zì jǐ de gǎn shòu。",
+    "en": "After finishing every book, he writes down his thoughts."
+   },
+   {
+    "zh": "这家医院每天都要接待成百上千的病人。",
+    "pinyin": "Zhè jiā yī yuàn měi tiān dōu yào jiē dài chéng bǎi shàng qiān de bìng rén。",
+    "en": "This hospital receives hundreds or thousands of patients every day."
+   },
+   {
+    "zh": "每一次失败,其实都是一次重新开始的机会。",
+    "pinyin": "Měi yī cì shī bài, qí shí dōu shì yī cì chóng xīn kāi shǐ de jī huì。",
+    "en": "Every failure is actually a chance to start anew."
+   }
+  ]
+ },
+ {
+  "id": "g125",
+  "level": 2,
+  "title": "\"半\" ile \"yarım\"",
+  "titleEn": "Expressing \"half\" with \"ban\"",
+  "pattern": "Sayı + Ölçü + 半 + İsim / 半 + Ölçü + İsim",
+  "summary": "\"半\" (bàn) \"yarım\" demektir: 半个 = yarım (tane); 一个半 = bir buçuk.",
+  "explanation": "\"半\" \"yarım\" anlamı taşır ve ölçü sözcükleriyle iki türlü kullanılır: (1) TEK BAŞINA yarım — 半 + ölçü + isim: 半个苹果 (yarım elma), 半杯水 (yarım bardak su), 半个小时 (yarım saat). (2) TAM SAYI + BUÇUK — sayı + ölçü + 半: 一个半小时 (bir buçuk saat), 三斤半 (üç buçuk jin). Yani \"buçuk\" için \"半\" ölçü sözcüğünden SONRA gelir. Saatlerde \"半\" \"otuz dakika\"yı verir: 八点半 (sekiz buçuk). \"一半\" ise \"yarısı\" anlamında bir isim gibidir: 这个苹果的一半 (bu elmanın yarısı). Miktarları hassas anlatmada temel bir sözcüktür; bütün sayılar Çince rakamlarla yazılır.",
+  "examples": [
+   {
+    "zh": "我早上只吃了半个包子,现在饿得不行了。",
+    "pinyin": "Wǒ zǎo shàng zhǐ chī le bàn gè bāo zi, xiàn zài è de bù xíng le。",
+    "en": "I only ate half a bun this morning; now I'm starving."
+   },
+   {
+    "zh": "从家到公司要一个半小时,路上真够远的。",
+    "pinyin": "Cóng jiā dào gōng sī yào yí gè bàn xiǎo shí, lù shàng zhēn gòu yuǎn de。",
+    "en": "It takes an hour and a half from home to work; the way is really far."
+   },
+   {
+    "zh": "这瓶饮料你喝一半,剩下的半瓶留给弟弟。",
+    "pinyin": "Zhè píng yǐn liào nǐ hē yí bàn, shèng xià de bàn píng liú gěi dì di。",
+    "en": "Drink half this bottle and leave the other half for your brother."
+   },
+   {
+    "zh": "会议开了两个半小时,大家都有点儿累了。",
+    "pinyin": "Huì yì kāi le liǎng gè bàn xiǎo shí, dà jiā dōu yǒu diǎn ér lèi le。",
+    "en": "The meeting lasted two and a half hours; everyone got a bit tired."
+   },
+   {
+    "zh": "这块蛋糕太大了,咱们一人一半,分着吃吧。",
+    "pinyin": "Zhè kuài dàn gāo tài dà le, zán men yī rén yí bàn, fēn zhe chī ba。",
+    "en": "This cake is too big; let's split it in half and share."
+   },
+   {
+    "zh": "他每天只睡五个半小时,难怪脸色这么差。",
+    "pinyin": "Tā měi tiān zhǐ shuì wǔ gè bàn xiǎo shí, nán guài liǎn sè zhè me chà。",
+    "en": "He sleeps only five and a half hours a day; no wonder he looks so pale."
+   },
+   {
+    "zh": "我称了半斤瓜子,一边看电视一边吃。",
+    "pinyin": "Wǒ chēng le bàn jīn guā zi, yī biān kàn diàn shì yī biān chī。",
+    "en": "I weighed half a jin of seeds to eat while watching TV."
+   },
+   {
+    "zh": "这半年他变化很大,整个人成熟了不少。",
+    "pinyin": "Zhè bàn nián tā biàn huà hěn dà, zhěng gè rén chéng shú le bù shǎo。",
+    "en": "He's changed a lot in this half year, becoming much more mature."
+   },
+   {
+    "zh": "孩子把苹果咬了一半就不吃了,真浪费。",
+    "pinyin": "Hái zi bǎ píng guǒ yǎo le yí bàn jiù bù chī le, zhēn làng fèi。",
+    "en": "The child bit half the apple and stopped; such a waste."
+   },
+   {
+    "zh": "我们等了半天,他才姗姗来迟。",
+    "pinyin": "Wǒ men děng le bàn tiān, tā cái shān shān lái chí。",
+    "en": "We waited a long while before he finally showed up late."
+   },
+   {
+    "zh": "这份工作我干了一年半,学到了不少东西。",
+    "pinyin": "Zhè fèn gōng zuò wǒ gàn le yī nián bàn, xué dào le bù shǎo dōng xī。",
+    "en": "I did this job for a year and a half and learned a lot."
+   },
+   {
+    "zh": "再走半个小时就到山顶了,大家加把劲。",
+    "pinyin": "Zài zǒu bàn gè xiǎo shí jiù dào shān dǐng le, dà jiā jiā bǎ jìn。",
+    "en": "Another half hour and we'll reach the summit; keep it up, everyone."
+   },
+   {
+    "zh": "他把攒下的钱分成两半,一半存起来,一半给父母。",
+    "pinyin": "Tā bǎ zǎn xià de qián fēn chéng liǎng bàn, yí bàn cún qǐ lái, yí bàn gěi fù mǔ。",
+    "en": "He split his savings in half: one to save, one for his parents."
+   },
+   {
+    "zh": "这杯茶只剩半杯了,凉了就不好喝了。",
+    "pinyin": "Zhè bēi chá zhǐ shèng bàn bēi le, liáng le jiù bù hǎo hē le。",
+    "en": "Only half a cup of tea is left; it won't taste good cold."
+   },
+   {
+    "zh": "那本书我看了一半,后半部分一直没时间读。",
+    "pinyin": "Nà běn shū wǒ kàn le yí bàn, hòu bàn bù fèn yì zhí méi shí jiān dú。",
+    "en": "I read half the book; I never had time for the second half."
+   },
+   {
+    "zh": "这条鱼三斤半,够我们一家人吃一顿了。",
+    "pinyin": "Zhè tiáo yú sān jīn bàn, gòu wǒ men yī jiā rén chī yī dùn le。",
+    "en": "This fish is three and a half jin, enough for our family's meal."
+   },
+   {
+    "zh": "他画了半张纸就停了下来,好像没了灵感。",
+    "pinyin": "Tā huà le bàn zhāng zhǐ jiù tíng le xià lái, hǎo xiàng méi le líng gǎn。",
+    "en": "He drew half a page and stopped, as if out of inspiration."
+   },
+   {
+    "zh": "我们班一半的同学都报名参加了合唱比赛。",
+    "pinyin": "Wǒ men bān yí bàn de tóng xué dōu bào míng cān jiā le hé chàng bǐ sài。",
+    "en": "Half of our class signed up for the choral competition."
+   },
+   {
+    "zh": "再等半分钟,水就烧开了,你别着急。",
+    "pinyin": "Zài děng bàn fēn zhōng, shuǐ jiù shāo kāi le, nǐ bié zháo jí。",
+    "en": "Wait another half minute and the water will boil; don't rush."
+   },
+   {
+    "zh": "这袋米还剩下半袋,估计还能吃一个星期。",
+    "pinyin": "Zhè dài mǐ hái shèng xià bàn dài, gū jì hái néng chī yí gè xīng qī。",
+    "en": "Half a bag of rice is left; it should last about a week."
+   },
+   {
+    "zh": "孩子刚满一岁半,已经会说不少话了。",
+    "pinyin": "Hái zi gāng mǎn yī suì bàn, yǐ jīng huì shuō bù shǎo huà le。",
+    "en": "The child just turned one and a half and can already say quite a lot."
+   },
+   {
+    "zh": "路走了一半,他忽然想起忘带钱包了。",
+    "pinyin": "Lù zǒu le yí bàn, tā hū rán xiǎng qǐ wàng dài qián bāo le。",
+    "en": "Halfway down the road, he suddenly realized he'd forgotten his wallet."
+   },
+   {
+    "zh": "这道题我只做对了一半,还得再仔细检查。",
+    "pinyin": "Zhè dào tí wǒ zhǐ zuò duì le yí bàn, hái de zài zǐ xì jiǎn chá。",
+    "en": "I got only half of this problem right; I need to recheck carefully."
+   },
+   {
+    "zh": "一天的活儿干了一大半,剩下的明天再说。",
+    "pinyin": "Yī tiān de huó er gàn le yī dà bàn, shèng xià de míng tiān zài shuō。",
+    "en": "We've done most of the day's work; the rest can wait till tomorrow."
+   },
+   {
+    "zh": "他把半生的心血都投入到了这份事业里。",
+    "pinyin": "Tā bǎ bàn shēng de xīn xuè dōu tóu rù dào le zhè fèn shì yè lǐ。",
+    "en": "He poured half a lifetime of effort into this endeavor."
+   }
+  ]
  }
 ]

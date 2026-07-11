@@ -10198,5 +10198,685 @@
     "en": "When you need help, don't forget that we're here for you."
    }
   ]
+ },
+ {
+  "id": "g076",
+  "level": 2,
+  "title": "\"以后\" ile \"ileride, bundan sonra\" (genel)",
+  "titleEn": "In the future in general with \"yihou\"",
+  "pattern": "以后，...",
+  "summary": "Cümle başında tek başına \"以后\" (yǐhòu) \"ileride, bundan sonra, gelecekte\" anlamı verir: 以后我想当医生 = İleride doktor olmak istiyorum.",
+  "explanation": "\"以后\" belirli bir olaya bağlanmadan, tek başına cümle başında (ya da öznenin ardında) geldiğinde \"ileride, bundan böyle, gelecekte\" anlamına gelir ve geleceğe yönelik genel bir niyeti ya da beklentiyi bildirir: 以后我想当医生 (İleride doktor olmak istiyorum), 以后你可要小心点 (Bundan sonra dikkatli olmalısın). Bu, \"eskiden\" anlamındaki \"以前\"in karşıtıdır. Belirli bir zaman/fiile bağlı \"...-den sonra\" anlamından (bkz. ayrı konu) bağlamla ayrılır.",
+  "examples": [
+   {
+    "zh": "以后我想当一名医生,帮助更多需要帮助的人。",
+    "pinyin": "Yǐ hòu wǒ xiǎng dāng yī míng yī shēng, bāng zhù gèng duō xū yào bāng zhù de rén。",
+    "en": "In the future I want to be a doctor and help more people in need."
+   },
+   {
+    "zh": "以后你可要小心点,别再犯同样的错误了。",
+    "pinyin": "Yǐ hòu nǐ kě yào xiǎo xīn diǎn, bié zài fàn tóng yàng de cuò wù le。",
+    "en": "From now on be careful; don't make the same mistake again."
+   },
+   {
+    "zh": "以后有机会的话,我一定要去南方看看。",
+    "pinyin": "Yǐ hòu yǒu jī huì de huà, wǒ yí dìng yào qù nán fāng kàn kàn。",
+    "en": "If I get the chance in the future, I definitely want to visit the south."
+   },
+   {
+    "zh": "以后咱们就是一家人了,有事儿别客气。",
+    "pinyin": "Yǐ hòu zán men jiù shì yī jiā rén le, yǒu shì ér bié kè qì。",
+    "en": "From now on we're family; don't be shy about anything."
+   },
+   {
+    "zh": "以后你会明白,今天的努力都不会白费。",
+    "pinyin": "Yǐ hòu nǐ huì míng bái, jīn tiān de nǔ lì dōu bú huì bái fèi。",
+    "en": "In the future you'll understand that today's efforts won't be wasted."
+   },
+   {
+    "zh": "以后我打算少吃点儿肉,多吃点儿蔬菜。",
+    "pinyin": "Yǐ hòu wǒ dǎ suàn shǎo chī diǎn ér ròu, duō chī diǎn ér shū cài。",
+    "en": "In the future I plan to eat less meat and more vegetables."
+   },
+   {
+    "zh": "以后不管遇到什么困难,我们都一起面对。",
+    "pinyin": "Yǐ hòu bù guǎn yù dào shén me kùn nán, wǒ men dōu yì qǐ miàn duì。",
+    "en": "No matter what difficulties we face in the future, we'll face them together."
+   },
+   {
+    "zh": "以后这种事你直接问我就行,别自己乱猜。",
+    "pinyin": "Yǐ hòu zhè zhǒng shì nǐ zhí jiē wèn wǒ jiù xíng, bié zì jǐ luàn cāi。",
+    "en": "In the future just ask me directly about this; don't guess on your own."
+   },
+   {
+    "zh": "以后科技会越来越发达,生活也会更方便。",
+    "pinyin": "Yǐ hòu kē jì huì yuè lái yuè fā dá, shēng huó yě huì gèng fāng biàn。",
+    "en": "In the future technology will grow more advanced, and life more convenient."
+   },
+   {
+    "zh": "以后你长大了,就会懂得父母的一片苦心。",
+    "pinyin": "Yǐ hòu nǐ zhǎng dà le, jiù huì dǒng de fù mǔ de yī piàn kǔ xīn。",
+    "en": "When you grow up, you'll understand your parents' painstaking care."
+   },
+   {
+    "zh": "以后我再也不熬夜了,身体真的受不了。",
+    "pinyin": "Yǐ hòu wǒ zài yě bù áo yè le, shēn tǐ zhēn de shòu bù liǎo。",
+    "en": "From now on I'll never stay up late again; my body really can't take it."
+   },
+   {
+    "zh": "以后咱们常联系,别像这次一样这么久不见。",
+    "pinyin": "Yǐ hòu zán men cháng lián xì, bié xiàng zhè cì yī yàng zhè me jiǔ bú jiàn。",
+    "en": "Let's keep in touch from now on; don't go so long without seeing each other again."
+   },
+   {
+    "zh": "以后这里会建一座公园,大家都能来休息。",
+    "pinyin": "Yǐ hòu zhè lǐ huì jiàn yī zuò gōng yuán, dà jiā dōu néng lái xiū xī。",
+    "en": "In the future a park will be built here where everyone can relax."
+   },
+   {
+    "zh": "以后你要是来北京,一定要提前告诉我。",
+    "pinyin": "Yǐ hòu nǐ yào shì lái běi jīng, yí dìng yào tí qián gào sù wǒ。",
+    "en": "If you come to Beijing in the future, be sure to tell me in advance."
+   },
+   {
+    "zh": "以后无论多忙,我都要抽时间陪陪家人。",
+    "pinyin": "Yǐ hòu wú lùn duō máng, wǒ dōu yào chōu shí jiān péi péi jiā rén。",
+    "en": "No matter how busy I am in the future, I'll make time for my family."
+   },
+   {
+    "zh": "以后的路还很长,你不要因为一次失败就放弃。",
+    "pinyin": "Yǐ hòu de lù hái hěn zhǎng, nǐ bú yào yīn wèi yī cì shī bài jiù fàng qì。",
+    "en": "The road ahead is still long; don't give up over one failure."
+   },
+   {
+    "zh": "以后请你把东西放回原来的地方,好吗?",
+    "pinyin": "Yǐ hòu qǐng nǐ bǎ dōng xī fàng huí yuán lái de dì fāng, hǎo ma?",
+    "en": "From now on, please put things back where they were, okay?"
+   },
+   {
+    "zh": "以后我想在海边买一间小房子,安静地生活。",
+    "pinyin": "Yǐ hòu wǒ xiǎng zài hǎi biān mǎi yī jiān xiǎo fáng zi, ān jìng dì shēng huó。",
+    "en": "In the future I want to buy a small house by the sea and live quietly."
+   },
+   {
+    "zh": "以后你自己一个人在外面,要好好照顾自己。",
+    "pinyin": "Yǐ hòu nǐ zì jǐ yí gè rén zài wài miàn, yào hǎo hǎo zhào gù zì jǐ。",
+    "en": "From now on, living alone away from home, take good care of yourself."
+   },
+   {
+    "zh": "以后每年这个时候,我们都回来看看老朋友。",
+    "pinyin": "Yǐ hòu měi nián zhè ge shí hòu, wǒ men dōu huí lái kàn kàn lǎo péng yǒu。",
+    "en": "From now on, at this time each year, let's come back to see old friends."
+   },
+   {
+    "zh": "以后的事谁也说不准,现在做好眼前的就够了。",
+    "pinyin": "Yǐ hòu de shì shuí yě shuō bù zhǔn, xiàn zài zuò hǎo yǎn qián de jiù gòu le。",
+    "en": "No one can be sure about the future; just do well with what's in front of you now."
+   },
+   {
+    "zh": "以后你会感谢现在这么拼命的自己。",
+    "pinyin": "Yǐ hòu nǐ huì gǎn xiè xiàn zài zhè me pīn mìng de zì jǐ。",
+    "en": "In the future you'll thank your present self for working so hard."
+   },
+   {
+    "zh": "以后我们的孩子长大了,一定会为你骄傲。",
+    "pinyin": "Yǐ hòu wǒ men de hái zi zhǎng dà le, yí dìng huì wèi nǐ jiāo ào。",
+    "en": "When our children grow up in the future, they'll surely be proud of you."
+   },
+   {
+    "zh": "以后买东西之前,先想清楚是不是真的需要。",
+    "pinyin": "Yǐ hòu mǎi dōng xī zhī qián, xiān xiǎng qīng chǔ shì bú shì zhēn de xū yào。",
+    "en": "From now on, before buying anything, think clearly about whether you really need it."
+   },
+   {
+    "zh": "以后不管走到哪里,别忘了自己是从哪儿来的。",
+    "pinyin": "Yǐ hòu bù guǎn zǒu dào nǎ lǐ, bié wàng le zì jǐ shì cóng nǎ ér lái de。",
+    "en": "No matter where you go in the future, don't forget where you came from."
+   }
+  ]
+ },
+ {
+  "id": "g077",
+  "level": 2,
+  "title": "Zaman sözcükleri ve söz dizimi",
+  "titleEn": "Time words and word order",
+  "pattern": "Özne + Zaman + ... / Zaman + Özne + ...",
+  "summary": "Zaman sözcüğü (今天, 明天, 每天 vb.) ya öznenin HEMEN ARDINA ya da cümlenin en BAŞINA gelir, ama her zaman fiilden ÖNCEDİR.",
+  "explanation": "Çince'de \"ne zaman\" bildiren sözcük (今天, 明天, 现在, 每天, 星期一 vb.) fiilin ÖNÜNDE bulunur ve iki yeri olabilir: (1) öznenin hemen ardında — 我今天很忙; (2) cümlenin en başında, özneden önce — 今天我很忙. İki dizim de doğrudur; başa alındığında zamana biraz daha vurgu düşer. ÖNEMLİ: İngilizce/Türkçenin aksine zaman sözcüğü cümlenin SONUNA konmaz (\"很忙今天\" yanlıştır). Birden çok zaman ifadesi varsa büyükten küçüğe sıralanır: 明天早上八点.",
+  "examples": [
+   {
+    "zh": "我今天特别忙,恐怕没时间陪你去逛街了。",
+    "pinyin": "Wǒ jīn tiān tè bié máng, kǒng pà méi shí jiān péi nǐ qù guàng jiē le。",
+    "en": "I'm especially busy today; I'm afraid I don't have time to go shopping with you."
+   },
+   {
+    "zh": "明天早上八点,咱们在学校门口见,别迟到。",
+    "pinyin": "Míng tiān zǎo shàng bā diǎn, zán men zài xué xiào mén kǒu jiàn, bié chí dào。",
+    "en": "Tomorrow at eight in the morning, let's meet at the school gate; don't be late."
+   },
+   {
+    "zh": "每天晚上睡觉以前,他都要看一会儿书。",
+    "pinyin": "Měi tiān wǎn shàng shuì jiào yǐ qián, tā dōu yào kàn yī huì er shū。",
+    "en": "Every night before bed he reads for a while."
+   },
+   {
+    "zh": "现在几点了?我怎么觉得时间过得这么慢。",
+    "pinyin": "Xiàn zài jǐ diǎn le? wǒ zěn me jué de shí jiān guò de zhè me màn。",
+    "en": "What time is it now? Why does time feel like it's passing so slowly?"
+   },
+   {
+    "zh": "星期六我们全家打算去郊外野餐。",
+    "pinyin": "Xīng qī liù wǒ men quán jiā dǎ suàn qù jiāo wài yě cān。",
+    "en": "On Saturday our whole family plans to go on a picnic in the countryside."
+   },
+   {
+    "zh": "他昨天晚上很晚才睡,今天一整天都没精神。",
+    "pinyin": "Tā zuó tiān wǎn shàng hěn wǎn cái shuì, jīn tiān yī zhěng tiān dōu méi jīng shén。",
+    "en": "He went to bed very late last night, so he's been listless all day today."
+   },
+   {
+    "zh": "下个月我要去南方出差,大概待一个星期。",
+    "pinyin": "Xià gè yuè wǒ yào qù nán fāng chū chāi, dà gài dài yí gè xīng qī。",
+    "en": "Next month I'm going south on a business trip, staying about a week."
+   },
+   {
+    "zh": "今年冬天特别冷,前几天还下了一场大雪。",
+    "pinyin": "Jīn nián dōng tiān tè bié lěng, qián jǐ tiān hái xià le yī cháng dà xuě。",
+    "en": "This winter is especially cold; it even snowed heavily a few days ago."
+   },
+   {
+    "zh": "每年春节,我们都会回老家跟爷爷奶奶团聚。",
+    "pinyin": "Měi nián chūn jié, wǒ men dū huì huí lǎo jiā gēn yé yé nǎi nǎi tuán jù。",
+    "en": "Every Spring Festival we return home to reunite with our grandparents."
+   },
+   {
+    "zh": "你明天下午有空吗?我想请你帮个忙。",
+    "pinyin": "Nǐ míng tiān xià wǔ yǒu kòng ma? wǒ xiǎng qǐng nǐ bāng gè máng。",
+    "en": "Are you free tomorrow afternoon? I'd like to ask you for a favor."
+   },
+   {
+    "zh": "我一般早上六点起床,然后去公园跑步。",
+    "pinyin": "Wǒ yì bān zǎo shàng liù diǎn qǐ chuáng, rán hòu qù gōng yuán pǎo bù。",
+    "en": "I usually get up at six in the morning and then go running in the park."
+   },
+   {
+    "zh": "上个星期我病了三天,落下了不少功课。",
+    "pinyin": "Shàng gè xīng qī wǒ bìng le sān tiān, là xià le bù shǎo gōng kè。",
+    "en": "Last week I was sick for three days and fell behind on quite a bit of work."
+   },
+   {
+    "zh": "他每个周末都去看望住在城外的父母。",
+    "pinyin": "Tā měi gè zhōu mò dōu qù kàn wàng zhù zài chéng wài de fù mǔ。",
+    "en": "Every weekend he visits his parents who live outside the city."
+   },
+   {
+    "zh": "今天晚上有一场重要的比赛,你一定要看。",
+    "pinyin": "Jīn tiān wǎn shàng yǒu yī cháng zhòng yào de bǐ sài, nǐ yí dìng yào kàn。",
+    "en": "There's an important match tonight; you must watch it."
+   },
+   {
+    "zh": "我们明年打算搬到一个离海更近的城市。",
+    "pinyin": "Wǒ men míng nián dǎ suàn bān dào yí gè lí hǎi gèng jìn de chéng shì。",
+    "en": "Next year we plan to move to a city closer to the sea."
+   },
+   {
+    "zh": "她小时候每天放学都会先去外婆家吃饭。",
+    "pinyin": "Tā xiǎo shí hòu měi tiān fàng xué dū huì xiān qù wài pó jiā chī fàn。",
+    "en": "As a child she went to grandma's for dinner after school every day."
+   },
+   {
+    "zh": "后天是妈妈的生日,我想给她一个惊喜。",
+    "pinyin": "Hòu tiān shì mā mā de shēng rì, wǒ xiǎng gěi tā yí gè jīng xǐ。",
+    "en": "The day after tomorrow is mom's birthday; I want to surprise her."
+   },
+   {
+    "zh": "这几天天气变化很大,你出门记得带伞。",
+    "pinyin": "Zhè jǐ tiān tiān qì biàn huà hěn dà, nǐ chū mén jì de dài sǎn。",
+    "en": "The weather has changed a lot these days; remember your umbrella when you go out."
+   },
+   {
+    "zh": "我通常中午在公司附近的小店随便吃点。",
+    "pinyin": "Wǒ tōng cháng zhōng wǔ zài gōng sī fù jìn de xiǎo diàn suí biàn chī diǎn。",
+    "en": "I usually grab a quick bite at a small shop near the office at noon."
+   },
+   {
+    "zh": "刚才还是大晴天,一会儿就阴下来了。",
+    "pinyin": "Gāng cái hái shì dà qíng tiān, yī huì er jiù yīn xià lái le。",
+    "en": "It was clear just now, but it clouded over in a moment."
+   },
+   {
+    "zh": "每天早上,街角那家包子店总是排着长队。",
+    "pinyin": "Měi tiān zǎo shàng, jiē jiǎo nà jiā bāo zi diàn zǒng shì pái zhe cháng duì。",
+    "en": "Every morning the bun shop on the corner always has a long line."
+   },
+   {
+    "zh": "去年这个时候,我还在国外读书呢。",
+    "pinyin": "Qù nián zhè ge shí hòu, wǒ hái zài guó wài dú shū ne。",
+    "en": "This time last year, I was still studying abroad."
+   },
+   {
+    "zh": "你星期几有时间?我们约个时间好好聊聊。",
+    "pinyin": "Nǐ xīng qī jǐ yǒu shí jiān? wǒ men yuē gè shí jiān hǎo hǎo liáo liáo。",
+    "en": "Which day are you free? Let's set a time for a good talk."
+   },
+   {
+    "zh": "他一到周末就睡懒觉,常常睡到中午。",
+    "pinyin": "Tā yī dào zhōu mò jiù shuì lǎn jiào, cháng cháng shuì dào zhōng wǔ。",
+    "en": "As soon as the weekend comes he sleeps in, often until noon."
+   },
+   {
+    "zh": "从今天起,我每天早上都要坚持读半个小时英文。",
+    "pinyin": "Cóng jīn tiān qǐ, wǒ měi tiān zǎo shàng dōu yào jiān chí dú bàn gè xiǎo shí yīng wén。",
+    "en": "Starting today, I'll read English for half an hour every morning."
+   }
+  ]
+ },
+ {
+  "id": "g078",
+  "level": 2,
+  "title": "Ardışık sayılarla yaklaşık miktar",
+  "titleEn": "Approximating with sequential numbers",
+  "pattern": "Sayı 1 + Sayı 2 (三四, 五六, 两三...)",
+  "summary": "Ardışık iki sayıyı yan yana koymak yaklaşık bir miktar verir: 三四个 = üç dört (tane); 两三天 = iki üç gün.",
+  "explanation": "Türkçedeki \"üç beş, iki üç\" gibi, Çince'de de ardışık iki sayıyı yan yana koyarak yaklaşık bir miktar belirtilir: 两三个 (iki üç tane), 三四天 (üç dört gün), 五六个人 (beş altı kişi), 七八十岁 (yetmiş seksen yaşlarında). Sayılar mutlaka ARDIŞIK ve küçükten büyüğe olur. \"两\" burada \"二\" yerine kullanılır (两三 doğru, 二三 sayıda kullanılmaz). Ölçü sözcüğü ya da isim genelde arkadan gelir. Bu, tam sayı vermeden \"aşağı yukarı\" demenin doğal yoludur.",
+  "examples": [
+   {
+    "zh": "这件事我考虑两三天再给你答复,好吗?",
+    "pinyin": "Zhè jiàn shì wǒ kǎo lǜ liǎng sān tiān zài gěi nǐ dá fù, hǎo ma?",
+    "en": "Let me think about this for two or three days before I reply, okay?"
+   },
+   {
+    "zh": "门口站着五六个人,好像在等什么人。",
+    "pinyin": "Mén kǒu zhàn zhe wǔ liù gè rén, hǎo xiàng zài děng shén me rén。",
+    "en": "Five or six people are standing at the door, seemingly waiting for someone."
+   },
+   {
+    "zh": "这本书不厚,三四个小时就能看完。",
+    "pinyin": "Zhè běn shū bù hòu, sān sì gè xiǎo shí jiù néng kàn wán。",
+    "en": "This book isn't thick; you can finish it in three or four hours."
+   },
+   {
+    "zh": "他看上去也就二十三四岁,其实已经三十了。",
+    "pinyin": "Tā kàn shàng qù yě jiù èr shí sān sì suì, qí shí yǐ jīng sān shí le。",
+    "en": "He looks only twenty-three or twenty-four, but he's actually thirty."
+   },
+   {
+    "zh": "我们家离超市很近,走七八分钟就到了。",
+    "pinyin": "Wǒ men jiā lí chāo shì hěn jìn, zǒu qī bā fēn zhōng jiù dào le。",
+    "en": "Our home is close to the supermarket; it's a seven or eight minute walk."
+   },
+   {
+    "zh": "这道菜再放一两分钟就可以出锅了。",
+    "pinyin": "Zhè dào cài zài fàng yī liǎng fēn zhōng jiù kě yǐ chū guō le。",
+    "en": "This dish will be ready to serve in another minute or two."
+   },
+   {
+    "zh": "桌子上还剩三四块饼干,你都拿去吃吧。",
+    "pinyin": "Zhuō zi shàng hái shèng sān sì kuài bǐng gān, nǐ dōu ná qù chī ba。",
+    "en": "There are three or four cookies left on the table; take them all."
+   },
+   {
+    "zh": "这场雨大概还要下十来分钟,咱们等等再走。",
+    "pinyin": "Zhè chǎng yǔ dà gài hái yào xià shí lái fēn zhōng, zán men děng děng zài zǒu。",
+    "en": "This rain will probably last another ten minutes or so; let's wait a bit."
+   },
+   {
+    "zh": "那位老人看着有七八十岁了,身体还很硬朗。",
+    "pinyin": "Nà wèi lǎo rén kàn zhe yǒu qī bā shí suì le, shēn tǐ hái hěn yìng lǎng。",
+    "en": "That old man looks seventy or eighty, yet he's still quite robust."
+   },
+   {
+    "zh": "我一个星期大概去五六次健身房。",
+    "pinyin": "Wǒ yí gè xīng qī dà gài qù wǔ liù cì jiàn shēn fáng。",
+    "en": "I go to the gym about five or six times a week."
+   },
+   {
+    "zh": "这些葡萄不多,也就两三串,给孩子吃正好。",
+    "pinyin": "Zhè xiē pú táo bù duō, yě jiù liǎng sān chuàn, gěi hái zi chī zhèng hǎo。",
+    "en": "There aren't many grapes, just two or three bunches, just right for the child."
+   },
+   {
+    "zh": "从这儿到火车站，坐车也就十几分钟。",
+    "pinyin": "Cóng zhè ér dào huǒ chē zhàn， zuò chē yě jiù shí jǐ fēn zhōng。",
+    "en": "From here to the train station, it's only about ten-odd minutes by car."
+   },
+   {
+    "zh": "他每天要接三四十个电话,忙得连饭都顾不上吃。",
+    "pinyin": "Tā měi tiān yào jiē sān sì shí gè diàn huà, máng de lián fàn dōu gù bù shàng chī。",
+    "en": "He takes thirty or forty calls a day, too busy even to eat."
+   },
+   {
+    "zh": "这么小的房间,顶多能坐五六个人。",
+    "pinyin": "Zhè me xiǎo de fáng jiān, dǐng duō néng zuò wǔ liù gè rén。",
+    "en": "Such a small room can seat six people at most."
+   },
+   {
+    "zh": "再等三五分钟,他应该就到了。",
+    "pinyin": "Zài děng sān wǔ fēn zhōng, tā yīng gāi jiù dào le。",
+    "en": "Wait another three to five minutes and he should arrive."
+   },
+   {
+    "zh": "我们班有三四个同学都报名参加了比赛。",
+    "pinyin": "Wǒ men bān yǒu sān sì gè tóng xué dōu bào míng cān jiā le bǐ sài。",
+    "en": "Three or four classmates in our class signed up for the competition."
+   },
+   {
+    "zh": "这条鱼不小,估计有两三斤重。",
+    "pinyin": "Zhè tiáo yú bù xiǎo, gū jì yǒu liǎng sān jīn zhòng。",
+    "en": "This fish isn't small; it's probably two or three jin in weight."
+   },
+   {
+    "zh": "孩子发烧了,已经烧了两三天还没退。",
+    "pinyin": "Hái zi fā shāo le, yǐ jīng shāo le liǎng sān tiān hái méi tuì。",
+    "en": "The child has a fever that's lasted two or three days and still hasn't broken."
+   },
+   {
+    "zh": "这家小店开了二三十年,是这条街上最老的一家。",
+    "pinyin": "Zhè jiā xiǎo diàn kāi le èr sān shí nián, shì zhè tiáo jiē shàng zuì lǎo de yī jiā。",
+    "en": "This small shop has been open for twenty or thirty years, the oldest on the street."
+   },
+   {
+    "zh": "我给你留了四五个苹果,放在冰箱里了。",
+    "pinyin": "Wǒ gěi nǐ liú le sì wǔ gè píng guǒ, fàng zài bīng xiāng lǐ le。",
+    "en": "I left you four or five apples in the fridge."
+   },
+   {
+    "zh": "这段路不长,骑自行车五六分钟就过去了。",
+    "pinyin": "Zhè duàn lù bù zhǎng, qí zì xíng chē wǔ liù fēn zhōng jiù guò qù le。",
+    "en": "This stretch of road isn't long; five or six minutes by bike."
+   },
+   {
+    "zh": "他一顿能吃三四碗米饭,饭量特别大。",
+    "pinyin": "Tā yī dùn néng chī sān sì wǎn mǐ fàn, fàn liàng tè bié dà。",
+    "en": "He can eat three or four bowls of rice in one meal; his appetite is huge."
+   },
+   {
+    "zh": "会议室里坐着十几个人,正在认真地讨论。",
+    "pinyin": "Huì yì shì lǐ zuò zhe shí jǐ gè rén, zhèng zài rèn zhēn dì tǎo lùn。",
+    "en": "A dozen or so people are seated in the meeting room, discussing seriously."
+   },
+   {
+    "zh": "这种花一年能开两三次,特别好养。",
+    "pinyin": "Zhè zhòng huā yī nián néng kāi liǎng sān cì, tè bié hǎo yǎng。",
+    "en": "This flower blooms two or three times a year and is easy to keep."
+   },
+   {
+    "zh": "再过三四年,这些小树就能长得很高了。",
+    "pinyin": "Zài guò sān sì nián, zhè xiē xiǎo shù jiù néng zhǎng de hěn gāo le。",
+    "en": "In another three or four years, these little trees will grow quite tall."
+   }
+  ]
+ },
+ {
+  "id": "g079",
+  "level": 2,
+  "title": "Çince'de büyük sayılar (万 / 亿)",
+  "titleEn": "Big numbers in Chinese",
+  "pattern": "Sayı + 万 / 亿",
+  "summary": "Çince büyük sayıları dörtlü basamakla sayar: 万 (wàn) = on bin, 亿 (yì) = yüz milyon.",
+  "explanation": "Çince'de büyük sayılar Türkçeden farklı gruplanır: temel büyük birim \"万\" (wàn) = 10.000 (on bin) ve \"亿\" (yì) = 100.000.000 (yüz milyon)'dur. Yani Türkçedeki \"yüz bin\" Çince'de 十万 (on tane wàn), \"bir milyon\" 一百万 (yüz wàn), \"on milyon\" 一千万 (bin wàn) olur. Bu dörtlü basamak sistemi başta zorlar; anahtar, sayıyı önce kaç \"万\" olduğuna bölmektir. 一万 (10 bin), 十万 (100 bin), 百万 (milyon), 亿 (100 milyon). Bütün sayılar Çince rakamlarla yazılır.",
+  "examples": [
+   {
+    "zh": "这座城市大概有五百万人,是个不小的城市。",
+    "pinyin": "Zhè zuò chéng shì dà gài yǒu wǔ bǎi wàn rén, shì gè bù xiǎo de chéng shì。",
+    "en": "This city has about five million people; it's a fairly large city."
+   },
+   {
+    "zh": "那套房子太贵了,听说要三百多万。",
+    "pinyin": "Nà tào fáng zi tài guì le, tīng shuō yào sān bǎi duō wàn。",
+    "en": "That apartment is too expensive; I heard it costs over three million."
+   },
+   {
+    "zh": "这家公司去年一年就挣了好几个亿。",
+    "pinyin": "Zhè jiā gōng sī qù nián yī nián jiù zhēng le hǎo jǐ gè yì。",
+    "en": "This company earned several hundred million in just one year."
+   },
+   {
+    "zh": "我们学校一共有一万多名学生。",
+    "pinyin": "Wǒ men xué xiào yī gòng yǒu yī wàn duō míng xué shēng。",
+    "en": "Our school has over ten thousand students in total."
+   },
+   {
+    "zh": "中国有十几亿人口,是世界上人口最多的国家之一。",
+    "pinyin": "Zhōng guó yǒu shí jǐ yì rén kǒu, shì shì jiè shàng rén kǒu zuì duō de guó jiā zhī yī。",
+    "en": "China has over a billion people, one of the most populous countries in the world."
+   },
+   {
+    "zh": "这次活动一共来了差不多两万人。",
+    "pinyin": "Zhè cì huó dòng yī gòng lái le chà bu duō liǎng wàn rén。",
+    "en": "About twenty thousand people came to this event in total."
+   },
+   {
+    "zh": "他辛辛苦苦攒了十几万,想给父母买套房子。",
+    "pinyin": "Tā xīn xīn kǔ kǔ zǎn le shí jǐ wàn, xiǎng gěi fù mǔ mǎi tào fáng zi。",
+    "en": "He painstakingly saved a hundred-odd thousand to buy his parents an apartment."
+   },
+   {
+    "zh": "这条大桥花了好几十亿才建成。",
+    "pinyin": "Zhè tiáo dà qiáo huā le hǎo jǐ shí yì cái jiàn chéng。",
+    "en": "This great bridge cost several billion to build."
+   },
+   {
+    "zh": "那位画家的一幅画,竟然卖了上千万。",
+    "pinyin": "Nà wèi huà jiā de yī fú huà, jìng rán mài le shàng qiān wàn。",
+    "en": "One of that painter's works actually sold for over ten million."
+   },
+   {
+    "zh": "这个手机应用有一亿多用户,非常受欢迎。",
+    "pinyin": "Zhè ge shǒu jī yìng yòng yǒu yī yì duō yòng hù, fēi cháng shòu huān yíng。",
+    "en": "This phone app has over a hundred million users and is very popular."
+   },
+   {
+    "zh": "我们村现在也就剩下几百人了,年轻人都进城了。",
+    "pinyin": "Wǒ men cūn xiàn zài yě jiù shèng xià jǐ bǎi rén le, nián qīng rén dōu jìn chéng le。",
+    "en": "Our village now has only a few hundred people left; the young have all moved to the city."
+   },
+   {
+    "zh": "光是修这条路,政府就投了好几个亿。",
+    "pinyin": "Guāng shì xiū zhè tiáo lù, zhèng fǔ jiù tóu le hǎo jǐ gè yì。",
+    "en": "Just to build this road, the government invested several hundred million."
+   },
+   {
+    "zh": "这次地震,有几十万人受到了影响。",
+    "pinyin": "Zhè cì dì zhèn, yǒu jǐ shí wàn rén shòu dào le yǐng xiǎng。",
+    "en": "This earthquake affected several hundred thousand people."
+   },
+   {
+    "zh": "他中了彩票,一下子得了五百万。",
+    "pinyin": "Tā zhōng le cǎi piào, yī xià zi de le wǔ bǎi wàn。",
+    "en": "He won the lottery and suddenly got five million."
+   },
+   {
+    "zh": "这家工厂一年能生产几百万台机器。",
+    "pinyin": "Zhè jiā gōng chǎng yī nián néng shēng chǎn jǐ bǎi wàn tái jī qì。",
+    "en": "This factory can produce several million machines a year."
+   },
+   {
+    "zh": "那个明星在网上有三千多万粉丝。",
+    "pinyin": "Nà ge míng xīng zài wǎng shàng yǒu sān qiān duō wàn fěn sī。",
+    "en": "That celebrity has over thirty million fans online."
+   },
+   {
+    "zh": "这本书一共卖了一千多万本,非常畅销。",
+    "pinyin": "Zhè běn shū yī gòng mài le yī qiān duō wàn běn, fēi cháng chàng xiāo。",
+    "en": "This book has sold over ten million copies; it's a bestseller."
+   },
+   {
+    "zh": "为了这个项目,公司准备投资五个亿。",
+    "pinyin": "Wèi le zhè ge xiàng mù, gōng sī zhǔn bèi tóu zī wǔ gè yì。",
+    "en": "For this project, the company is prepared to invest five hundred million."
+   },
+   {
+    "zh": "这座体育馆能坐五万多人,场面特别壮观。",
+    "pinyin": "Zhè zuò tǐ yù guǎn néng zuò wǔ wàn duō rén, chǎng miàn tè bié zhuàng guān。",
+    "en": "This stadium can seat over fifty thousand people; the scene is spectacular."
+   },
+   {
+    "zh": "他们花了将近一百万,把老房子重新装修了一遍。",
+    "pinyin": "Tā men huā le jiāng jìn yì bǎi wàn, bǎ lǎo fáng zi chóng xīn zhuāng xiū le yī biàn。",
+    "en": "They spent nearly a million to fully renovate the old house."
+   },
+   {
+    "zh": "这条河养活了沿岸上千万的老百姓。",
+    "pinyin": "Zhè tiáo hé yǎng huó le yán àn shàng qiān wàn de lǎo bǎi xìng。",
+    "en": "This river sustains tens of millions of people along its banks."
+   },
+   {
+    "zh": "这次网上活动,参加的人超过了一百万。",
+    "pinyin": "Zhè cì wǎng shàng huó dòng, cān jiā de rén chāo guò le yì bǎi wàn。",
+    "en": "Over a million people took part in this online event."
+   },
+   {
+    "zh": "这家医院一年要接待几十万个病人。",
+    "pinyin": "Zhè jiā yī yuàn yī nián yào jiē dài jǐ shí wàn gè bìng rén。",
+    "en": "This hospital receives several hundred thousand patients a year."
+   },
+   {
+    "zh": "这个游戏刚上线,一天就有几百万人下载。",
+    "pinyin": "Zhè ge yóu xì gāng shàng xiàn, yī tiān jiù yǒu jǐ bǎi wàn rén xià zài。",
+    "en": "This game just launched, and millions downloaded it in a single day."
+   },
+   {
+    "zh": "那家老店一年的收入也不过一二十万。",
+    "pinyin": "Nà jiā lǎo diàn yī nián de shōu rù yě bù guò yī èr shí wàn。",
+    "en": "That old shop's annual income is only a hundred to two hundred thousand."
+   }
+  ]
+ },
+ {
+  "id": "g080",
+  "level": 2,
+  "title": "Saat yapısı (ileri düzey)",
+  "titleEn": "Structure of times (advanced)",
+  "pattern": "Sayı + 点(钟) + Sayı + 分 / 半 / 刻",
+  "summary": "Saat söylenirken \"点\" (diǎn) saati, \"分\" (fēn) dakikayı, \"半\" (bàn) yarımı, \"刻\" (kè) çeyreği gösterir: 两点十分 = iki on.",
+  "explanation": "Çince'de saat şöyle kurulur: Sayı + 点 (saat) + Sayı + 分 (dakika). 两点十分 (2:10), 八点半 (8:30, 半 = yarım), 三点一刻 (3:15, 一刻 = bir çeyrek), 差一刻五点 (5'e çeyrek var, 差 = eksik). ÖNEMLİ ayrıntılar: saat 2 için \"两点\" denir (\"二点\" değil); \"钟\" (点钟) yalnız dakika söylenmediğinde eklenebilir (五点钟). \"半\" yarım saati, \"刻\" on beş dakikayı verir. \"差\" ile saate kalan süre söylenir. Bütün sayılar Çince rakamlarla yazılır.",
+  "examples": [
+   {
+    "zh": "现在是下午两点十分,离下班还有三个小时。",
+    "pinyin": "Xiàn zài shì xià wǔ liǎng diǎn shí fēn, lí xià bān hái yǒu sān gè xiǎo shí。",
+    "en": "It's now 2:10 in the afternoon; there are still three hours until the end of work."
+   },
+   {
+    "zh": "我们约的是晚上七点半,你怎么六点就来了?",
+    "pinyin": "Wǒ men yuē de shì wǎn shàng qī diǎn bàn, nǐ zěn me liù diǎn jiù lái le?",
+    "en": "We agreed on seven-thirty in the evening; why did you come at six?"
+   },
+   {
+    "zh": "火车八点一刻发车,你最好七点五十就到站。",
+    "pinyin": "Huǒ chē bā diǎn yī kè fā chē, nǐ zuì hǎo qī diǎn wǔ shí jiù dào zhàn。",
+    "en": "The train leaves at a quarter past eight; you'd better be at the station by 7:50."
+   },
+   {
+    "zh": "差一刻九点了,快点儿,不然要迟到了。",
+    "pinyin": "Chà yī kè jiǔ diǎn le, kuài diǎn ér, bù rán yào chí dào le。",
+    "en": "It's a quarter to nine; hurry, or you'll be late."
+   },
+   {
+    "zh": "每天早上六点钟,闹钟一响我就得起床。",
+    "pinyin": "Měi tiān zǎo shàng liù diǎn zhōng, nào zhōng yī xiǎng wǒ jiù de qǐ chuáng。",
+    "en": "Every morning at six, I have to get up as soon as the alarm rings."
+   },
+   {
+    "zh": "会议从上午十点开到中午十二点半才结束。",
+    "pinyin": "Huì yì cóng shàng wǔ shí diǎn kāi dào zhōng wǔ shí èr diǎn bàn cái jié shù。",
+    "en": "The meeting ran from ten in the morning until half past twelve at noon."
+   },
+   {
+    "zh": "他常常工作到晚上十一点多才回家。",
+    "pinyin": "Tā cháng cháng gōng zuò dào wǎn shàng shí yì diǎn duō cái huí jiā。",
+    "en": "He often works until past eleven at night before going home."
+   },
+   {
+    "zh": "现在几点?我的表停了,好像是三点差五分。",
+    "pinyin": "Xiàn zài jǐ diǎn? wǒ de biǎo tíng le, hǎo xiàng shì sān diǎn chà wǔ fēn。",
+    "en": "What time is it now? My watch stopped; it seems to be five to three."
+   },
+   {
+    "zh": "飞机是下午四点二十的,咱们两点就得出发。",
+    "pinyin": "Fēi jī shì xià wǔ sì diǎn èr shí de, zán men liǎng diǎn jiù dé chū fā。",
+    "en": "The flight is at 4:20 in the afternoon; we need to leave by two."
+   },
+   {
+    "zh": "商店晚上九点关门,你得在九点以前赶到。",
+    "pinyin": "Shāng diàn wǎn shàng jiǔ diǎn guān mén, nǐ děi zài jiǔ diǎn yǐ qián gǎn dào。",
+    "en": "The store closes at nine at night; you need to get there before nine."
+   },
+   {
+    "zh": "我一般十一点半睡觉,早上七点起床。",
+    "pinyin": "Wǒ yì bān shí yì diǎn bàn shuì jiào, zǎo shàng qī diǎn qǐ chuáng。",
+    "en": "I usually go to bed at half past eleven and get up at seven."
+   },
+   {
+    "zh": "电影七点四十开始,咱们先去吃个饭吧。",
+    "pinyin": "Diàn yǐng qī diǎn sì shí kāi shǐ, zán men xiān qù chī gè fàn ba。",
+    "en": "The movie starts at 7:40; let's grab a meal first."
+   },
+   {
+    "zh": "现在才五点一刻,时间还早,不用着急。",
+    "pinyin": "Xiàn zài cái wǔ diǎn yī kè, shí jiān hái zǎo, bù yòng zháo jí。",
+    "en": "It's only a quarter past five now; there's still plenty of time, no rush."
+   },
+   {
+    "zh": "他每天中午十二点准时去食堂吃饭。",
+    "pinyin": "Tā měi tiān zhōng wǔ shí èr diǎn zhǔn shí qù shí táng chī fàn。",
+    "en": "Every day at exactly noon he goes to the canteen to eat."
+   },
+   {
+    "zh": "差十分八点的时候,老师就走进了教室。",
+    "pinyin": "Chà shí fēn bā diǎn de shí hòu, lǎo shī jiù zǒu jìn le jiào shì。",
+    "en": "At ten to eight, the teacher walked into the classroom."
+   },
+   {
+    "zh": "我们下午三点半在咖啡馆见,别忘了。",
+    "pinyin": "Wǒ men xià wǔ sān diǎn bàn zài kā fēi guǎn jiàn, bié wàng le。",
+    "en": "We're meeting at the café at half past three in the afternoon; don't forget."
+   },
+   {
+    "zh": "银行的开门时间是早上九点,别去太早。",
+    "pinyin": "Yín háng de kāi mén shí jiān shì zǎo shàng jiǔ diǎn, bié qù tài zǎo。",
+    "en": "The bank opens at nine in the morning; don't go too early."
+   },
+   {
+    "zh": "现在是晚上八点整,新闻节目马上就要开始了。",
+    "pinyin": "Xiàn zài shì wǎn shàng bā diǎn zhěng, xīn wén jié mù mǎ shàng jiù yào kāi shǐ le。",
+    "en": "It's now eight o'clock sharp in the evening; the news is about to start."
+   },
+   {
+    "zh": "他六点四十五起床,七点一刻准时出门。",
+    "pinyin": "Tā liù diǎn sì shí wǔ qǐ chuáng, qī diǎn yī kè zhǔn shí chū mén。",
+    "en": "He gets up at 6:45 and leaves the house at a quarter past seven sharp."
+   },
+   {
+    "zh": "比赛下午两点开始,四点半左右就能结束。",
+    "pinyin": "Bǐ sài xià wǔ liǎng diǎn kāi shǐ, sì diǎn bàn zuǒ yòu jiù néng jié shù。",
+    "en": "The match starts at two in the afternoon and should end around four-thirty."
+   },
+   {
+    "zh": "我们坐的是十点五十的高铁,时间挺合适。",
+    "pinyin": "Wǒ men zuò de shì shí diǎn wǔ shí de gāo tiě, shí jiān tǐng hé shì。",
+    "en": "We're taking the 10:50 high-speed train; the timing is quite convenient."
+   },
+   {
+    "zh": "差一刻十二点了,厨房里还飘着饭菜的香味。",
+    "pinyin": "Chà yī kè shí èr diǎn le, chú fáng lǐ hái piāo zhe fàn cài de xiāng wèi。",
+    "en": "It's a quarter to twelve, and the smell of food still drifts from the kitchen."
+   },
+   {
+    "zh": "每天下午四点钟,他都要喝一杯茶休息一下。",
+    "pinyin": "Měi tiān xià wǔ sì diǎn zhōng, tā dōu yào hē yī bēi chá xiū xī yī xià。",
+    "en": "Every afternoon at four, he has a cup of tea and rests a bit."
+   },
+   {
+    "zh": "现在是凌晨一点多,整个城市都安静下来了。",
+    "pinyin": "Xiàn zài shì líng chén yì diǎn duō, zhěng gè chéng shì dōu ān jìng xià lái le。",
+    "en": "It's now past one in the morning, and the whole city has quieted down."
+   },
+   {
+    "zh": "我们说好八点半集合,结果九点还有人没到。",
+    "pinyin": "Wǒ men shuō hǎo bā diǎn bàn jí hé, jié guǒ jiǔ diǎn hái yǒu rén méi dào。",
+    "en": "We agreed to gather at eight-thirty, but at nine some still hadn't arrived."
+   }
+  ]
  }
 ]

@@ -14958,5 +14958,685 @@
     "en": "Everyone argued in the meeting room for a long time and finally agreed."
    }
   ]
+ },
+ {
+  "id": "g111",
+  "level": 2,
+  "title": "Fiil ikilemesi (yumuşatma)",
+  "titleEn": "Reduplication of verbs",
+  "pattern": "Fiil + Fiil (V-V / V-yi-V / VV)",
+  "summary": "Bir fiili ikileyerek eylemi kısaltıp yumuşatırsınız: \"biraz ...-mek, bir ...-ıvermek\": 看看 = bir bakmak; 休息休息 = biraz dinlenmek.",
+  "explanation": "Bir fiili tekrarlamak (ikilemek), eylemi KISA, HAFİF ve RAHAT gösterir: \"biraz, bir kerecik, şöyle bir\" anlamı katar ve tonu yumuşatır. Tek heceli fiiller: 看看 / 看一看 (bir bakmak), 试试 (bir denemek). İki heceli fiiller: 休息休息 (biraz dinlenmek), 商量商量 (biraz görüşmek) — ABAB biçiminde. Arasına \"一\" ya da geçmişte \"了\" girebilir: 看了看 (şöyle bir baktı). Türkçedeki \"...-ıver, bir ...-sene, şöyle bir ...\" tonlarına yakındır. İstek ve önerileri kibarlaştırır: 你尝尝 (bir tatsana), 咱们聊聊 (biraz sohbet edelim). İkilenen fiil çoğu zaman gündelik, samimi konuşmada geçer.",
+  "examples": [
+   {
+    "zh": "这件衣服你先试试,合适的话再买。",
+    "pinyin": "Zhè jiàn yī fú nǐ xiān shì shì, hé shì de huà zài mǎi。",
+    "en": "Try this on first; buy it if it fits."
+   },
+   {
+    "zh": "你脸色不太好,坐下来休息休息吧。",
+    "pinyin": "Nǐ liǎn sè bù tài hǎo, zuò xià lái xiū xī xiū xī ba。",
+    "en": "You don't look well; sit down and rest a bit."
+   },
+   {
+    "zh": "这道菜是我新学的,你尝尝味道怎么样。",
+    "pinyin": "Zhè dào cài shì wǒ xīn xué de, nǐ cháng cháng wèi dào zěn me yàng。",
+    "en": "I just learned this dish; taste it and see how it is."
+   },
+   {
+    "zh": "这件事咱们再商量商量,别急着做决定。",
+    "pinyin": "Zhè jiàn shì zán men zài shāng liáng shāng liáng, bié jí zhe zuò jué dìng。",
+    "en": "Let's discuss this a bit more; don't rush the decision."
+   },
+   {
+    "zh": "有空的时候,我喜欢在公园里走走、看看风景。",
+    "pinyin": "Yǒu kòng de shí hòu, wǒ xǐ huān zài gōng yuán lǐ zǒu zǒu、 kàn kàn fēng jǐng。",
+    "en": "When free, I like strolling in the park and taking in the scenery."
+   },
+   {
+    "zh": "你把你的想法跟大家说说,听听别人的意见。",
+    "pinyin": "Nǐ bǎ nǐ de xiǎng fǎ gēn dà jiā shuō shuō, tīng tīng bié rén de yì jiàn。",
+    "en": "Share your ideas with everyone and hear others' opinions."
+   },
+   {
+    "zh": "他拿起那封信看了看,脸上露出了微笑。",
+    "pinyin": "Tā ná qǐ nà fēng xìn kàn le kàn, liǎn shàng lù chū le wēi xiào。",
+    "en": "He picked up the letter, glanced at it, and smiled."
+   },
+   {
+    "zh": "周末在家没事,我就收拾收拾房间,洗洗衣服。",
+    "pinyin": "Zhōu mò zài jiā méi shì, wǒ jiù shōu shí shōu shí fáng jiān, xǐ xǐ yī fú。",
+    "en": "With nothing to do at home on weekends, I tidy the room and do laundry."
+   },
+   {
+    "zh": "你别总坐着,起来活动活动筋骨。",
+    "pinyin": "Nǐ bié zǒng zuò zhe, qǐ lái huó dòng huó dòng jīn gǔ。",
+    "en": "Don't just sit; get up and move your body a bit."
+   },
+   {
+    "zh": "这个问题我也不太懂,咱们一起研究研究。",
+    "pinyin": "Zhè ge wèn tí wǒ yě bù tài dǒng, zán men yì qǐ yán jiū yán jiū。",
+    "en": "I don't quite get this problem either; let's look into it together."
+   },
+   {
+    "zh": "他想了想,还是决定把真相告诉父母。",
+    "pinyin": "Tā xiǎng le xiǎng, hái shì jué dìng bǎ zhēn xiàng gào sù fù mǔ。",
+    "en": "He thought for a moment and decided to tell his parents the truth."
+   },
+   {
+    "zh": "累了就闭上眼睛歇歇,别硬撑着。",
+    "pinyin": "Lèi le jiù bì shàng yǎn jīng xiē xiē, bié yìng chēng zhe。",
+    "en": "If you're tired, close your eyes and rest; don't force it."
+   },
+   {
+    "zh": "你把这几个方案比较比较,选一个最好的。",
+    "pinyin": "Nǐ bǎ zhè jǐ gè fāng àn bǐ jiào bǐ jiào, xuǎn yí gè zuì hǎo de。",
+    "en": "Compare these plans and pick the best one."
+   },
+   {
+    "zh": "孩子,过来让奶奶好好看看,又长高了不少。",
+    "pinyin": "Hái zi, guò lái ràng nǎi nǎi hǎo hǎo kàn kàn, yòu zhǎng gāo le bù shǎo。",
+    "en": "Come here, child, let grandma take a good look — you've grown taller."
+   },
+   {
+    "zh": "周末我们去郊外转转,散散心,别老闷在家里。",
+    "pinyin": "Zhōu mò wǒ men qù jiāo wài zhuǎn zhuǎn, sàn sàn xīn, bié lǎo mēn zài jiā lǐ。",
+    "en": "Let's go to the countryside this weekend to unwind, not stay cooped up."
+   },
+   {
+    "zh": "这段话你多读读,慢慢就能背下来了。",
+    "pinyin": "Zhè duàn huà nǐ duō dú dú, màn màn jiù néng bèi xià lái le。",
+    "en": "Read this passage a few more times and you'll gradually memorize it."
+   },
+   {
+    "zh": "他低头闻了闻杯子里的茶,满意地点了点头。",
+    "pinyin": "Tā dī tóu wén le wén bēi zi lǐ de chá, mǎn yì dì diǎn le diǎn tóu。",
+    "en": "He lowered his head, smelled the tea, and nodded with satisfaction."
+   },
+   {
+    "zh": "你先冷静冷静,别在气头上做决定。",
+    "pinyin": "Nǐ xiān lěng jìng lěng jìng, bié zài qì tóu shàng zuò jué dìng。",
+    "en": "Calm down first; don't decide while you're angry."
+   },
+   {
+    "zh": "有什么心事就跟我聊聊,别一个人憋着。",
+    "pinyin": "Yǒu shén me xīn shì jiù gēn wǒ liáo liáo, bié yí gè rén biē zhe。",
+    "en": "If something's on your mind, talk to me; don't bottle it up."
+   },
+   {
+    "zh": "这些照片你拿去看看,都是那年旅行拍的。",
+    "pinyin": "Zhè xiē zhào piān nǐ ná qù kàn kàn, dōu shì nà nián lǚ xíng pāi de。",
+    "en": "Take these photos and have a look; they're all from that year's trip."
+   },
+   {
+    "zh": "妈妈尝了尝汤,又加了一点点盐。",
+    "pinyin": "Mā mā cháng le cháng tāng, yòu jiā le yì diǎn diǎn yán。",
+    "en": "Mom tasted the soup and added a tiny bit more salt."
+   },
+   {
+    "zh": "你去问问老师,这道题到底该怎么做。",
+    "pinyin": "Nǐ qù wèn wèn lǎo shī, zhè dào tí dào dǐ gāi zěn me zuò。",
+    "en": "Go ask the teacher exactly how this problem should be done."
+   },
+   {
+    "zh": "下班以后,他喜欢弹弹吉他放松一下。",
+    "pinyin": "Xià bān yǐ hòu, tā xǐ huān dàn dàn jí tā fàng sōng yī xià。",
+    "en": "After work he likes to strum the guitar to relax."
+   },
+   {
+    "zh": "这件事你考虑考虑,想好了再答复我。",
+    "pinyin": "Zhè jiàn shì nǐ kǎo lǜ kǎo lǜ, xiǎng hǎo le zài dá fù wǒ。",
+    "en": "Think this over; reply to me once you've decided."
+   },
+   {
+    "zh": "咱们出去散散步吧,顺便消化消化。",
+    "pinyin": "Zán men chū qù sàn sàn bù ba, shùn biàn xiāo huà xiāo huà。",
+    "en": "Let's go for a walk and help our food digest."
+   }
+  ]
+ },
+ {
+  "id": "g112",
+  "level": 2,
+  "title": "Fiilden sonra \"在\" ile konum",
+  "titleEn": "Special cases of \"zai\" following verbs",
+  "pattern": "Fiil + 在 + Yer",
+  "summary": "Bazı fiiller \"在 + yer\"i SONRA alır ve eylem sonunda nesnenin nerede DURDUĞUNU gösterir: 放在桌子上 = masanın üstüne koymak.",
+  "explanation": "Genel eylem yeri \"在\"yı fiilden ÖNCE alır (在家看书), ama bazı fiiller — özellikle bir şeyi bir yere KONUMLANDIRAN 放 (koymak), 坐 (oturmak), 站 (durmak), 躺 (uzanmak), 挂 (asmak), 住 (oturmak/kalmak), 写 (yazmak) gibi — \"在 + yer\"i fiilden SONRA alır: 把书放在桌子上 (Kitabı masaya koy), 他坐在椅子上 (Sandalyeye oturdu), 名字写在纸上 (İsmi kâğıda yaz). Buradaki \"在 + yer\" eylemin SONUÇTA nesneyi nereye yerleştirdiğini/sabitlediğini gösterir (bir yerleşme/varış sonucu). Kısaca: eylem bir konum SONUCU doğuruyorsa \"在\" fiilden sonra gelir.",
+  "examples": [
+   {
+    "zh": "请把钥匙放在门口的柜子上,别弄丢了。",
+    "pinyin": "Qǐng bǎ yào shi fàng zài mén kǒu de guì zi shàng, bié nòng diū le。",
+    "en": "Please put the keys on the cabinet by the door; don't lose them."
+   },
+   {
+    "zh": "他累得一回家就躺在沙发上睡着了。",
+    "pinyin": "Tā lèi de yī huí jiā jiù tǎng zài shā fā shàng shuì zháo le。",
+    "en": "He was so tired he lay on the sofa and fell asleep as soon as he got home."
+   },
+   {
+    "zh": "孩子把画好的画挂在了自己房间的墙上。",
+    "pinyin": "Hái zi bǎ huà hǎo de huà guà zài le zì jǐ fáng jiān de qiáng shàng。",
+    "en": "The child hung the finished painting on his bedroom wall."
+   },
+   {
+    "zh": "你先坐在这儿等一会儿,我去叫经理。",
+    "pinyin": "Nǐ xiān zuò zài zhè ér děng yī huì er, wǒ qù jiào jīng lǐ。",
+    "en": "Sit here and wait a moment; I'll go get the manager."
+   },
+   {
+    "zh": "我们全家现在都住在城市东边的一个小区里。",
+    "pinyin": "Wǒ men quán jiā xiàn zài dōu zhù zài chéng shì dōng biān de yí gè xiǎo qū lǐ。",
+    "en": "Our whole family now lives in a neighborhood on the east side of the city."
+   },
+   {
+    "zh": "请把您的名字和电话写在这张表格上。",
+    "pinyin": "Qǐng bǎ nín de míng zì hé diàn huà xiě zài zhè zhāng biǎo gé shàng。",
+    "en": "Please write your name and phone number on this form."
+   },
+   {
+    "zh": "他把车停在了楼下的停车场,走上来的。",
+    "pinyin": "Tā bǎ chē tíng zài le lóu xià de tíng chē chǎng, zǒu shàng lái de。",
+    "en": "He parked the car in the lot downstairs and walked up."
+   },
+   {
+    "zh": "那本书一直放在书架的最上面,我够不着。",
+    "pinyin": "Nà běn shū yì zhí fàng zài shū jià de zuì shàng miàn, wǒ gòu bù zhe。",
+    "en": "That book has been on the top of the shelf; I can't reach it."
+   },
+   {
+    "zh": "老人靠在窗边,静静地望着外面的风景。",
+    "pinyin": "Lǎo rén kào zài chuāng biān, jìng jìng de wàng zhe wài miàn de fēng jǐng。",
+    "en": "The old man leaned by the window, quietly gazing at the view outside."
+   },
+   {
+    "zh": "妈妈把刚洗好的衣服晾在了阳台上。",
+    "pinyin": "Mā mā bǎ gāng xǐ hǎo de yī fú liàng zài le yáng tái shàng。",
+    "en": "Mom hung the freshly washed clothes on the balcony."
+   },
+   {
+    "zh": "你别把手机放在床上,睡觉的时候容易压坏。",
+    "pinyin": "Nǐ bié bǎ shǒu jī fàng zài chuáng shàng, shuì jiào de shí hòu róng yì yā huài。",
+    "en": "Don't put your phone on the bed; it's easily crushed while you sleep."
+   },
+   {
+    "zh": "会议的时间和地点都写在通知的最后。",
+    "pinyin": "Huì yì de shí jiān hé dì diǎn dōu xiě zài tōng zhī de zuì hòu。",
+    "en": "The meeting's time and place are written at the end of the notice."
+   },
+   {
+    "zh": "小猫喜欢趴在暖和的地方,一睡就是一下午。",
+    "pinyin": "Xiǎo māo xǐ huān pā zài nuǎn huo de dì fāng, yī shuì jiù shì yī xià wǔ。",
+    "en": "The kitten likes lying in warm spots, sleeping for whole afternoons."
+   },
+   {
+    "zh": "请大家把垃圾扔在指定的垃圾桶里。",
+    "pinyin": "Qǐng dà jiā bǎ lā jī rēng zài zhǐ dìng de lā jī tǒng lǐ。",
+    "en": "Please throw trash in the designated bins."
+   },
+   {
+    "zh": "他把重要的文件锁在了抽屉里,谁也拿不到。",
+    "pinyin": "Tā bǎ zhòng yào de wén jiàn suǒ zài le chōu tì lǐ, shuí yě ná bú dào。",
+    "en": "He locked the important documents in the drawer; no one can get them."
+   },
+   {
+    "zh": "客人的外套挂在门后的衣架上呢。",
+    "pinyin": "Kè rén de wài tào guà zài mén hòu de yī jià shàng ne。",
+    "en": "The guest's coat is hanging on the rack behind the door."
+   },
+   {
+    "zh": "我习惯把当天要做的事记在本子上。",
+    "pinyin": "Wǒ xí guàn bǎ dàng tiān yào zuò de shì jì zài běn zi shàng。",
+    "en": "I'm used to writing the day's tasks in a notebook."
+   },
+   {
+    "zh": "他站在讲台上,认真地给学生们讲课。",
+    "pinyin": "Tā zhàn zài jiǎng tái shàng, rèn zhēn de gěi xué shēng men jiǎng kè。",
+    "en": "He stood at the podium, earnestly lecturing the students."
+   },
+   {
+    "zh": "这幅全家福一直摆在客厅最显眼的位置。",
+    "pinyin": "Zhè fú quán jiā fú yì zhí bǎi zài kè tīng zuì xiǎn yǎn de wèi zhì。",
+    "en": "This family photo has always sat in the most prominent spot in the living room."
+   },
+   {
+    "zh": "你把水杯放在桌子边上,很容易碰倒。",
+    "pinyin": "Nǐ bǎ shuǐ bēi fàng zài zhuō zi biān shàng, hěn róng yì pèng dào。",
+    "en": "You put the cup at the edge of the table; it's easy to knock over."
+   },
+   {
+    "zh": "孩子把小秘密藏在了只有自己知道的地方。",
+    "pinyin": "Hái zi bǎ xiǎo mì mì cáng zài le zhǐ yǒu zì jǐ zhī dào de dì fāng。",
+    "en": "The child hid the little secret in a place only he knows."
+   },
+   {
+    "zh": "那张照片被他小心地夹在了书的中间。",
+    "pinyin": "Nà zhāng zhào piān bèi tā xiǎo xīn de jiā zài le shū de zhōng jiān。",
+    "en": "He carefully tucked that photo in the middle of the book."
+   },
+   {
+    "zh": "请把您的行李放在座位上方的行李架上。",
+    "pinyin": "Qǐng bǎ nín de xíng lǐ fàng zài zuò wèi shàng fāng de xíng lǐ jià shàng。",
+    "en": "Please put your luggage on the rack above the seats."
+   },
+   {
+    "zh": "他每天把自行车停在楼道口,方便早上出门。",
+    "pinyin": "Tā měi tiān bǎ zì xíng chē tíng zài lóu dào kǒu, fāng biàn zǎo shàng chū mén。",
+    "en": "He parks his bike at the corridor entrance daily for easy morning departures."
+   },
+   {
+    "zh": "奶奶总是把糖果藏在柜子里,留给来做客的孩子。",
+    "pinyin": "Nǎi nǎi zǒng shì bǎ táng guǒ cáng zài guì zi lǐ, liú gěi lái zuò kè de hái zi。",
+    "en": "Grandma always keeps candy in the cupboard for visiting children."
+   }
+  ]
+ },
+ {
+  "id": "g113",
+  "level": 2,
+  "title": "\"很\" ile duygu/istek fiilleri",
+  "titleEn": "Special verbs with \"hen\"",
+  "pattern": "很 + Fiil (很喜欢 / 很想 / 很了解)",
+  "summary": "\"很\" normalde sıfatları güçlendirir, ama bazı duygu/istek fiillerinin de önüne gelir: 很喜欢 = çok sevmek; 很想 = çok istemek.",
+  "explanation": "\"很\" (çok) genelde sıfatları derecelendirir (很高, 很好), ama bir grup DUYGU, İSTEK ve ZİHİN fiilinin önünde de kullanılır çünkü bu fiiller derece bildirebilir: 很喜欢 (çok sevmek), 很想 (çok istemek/özlemek), 很爱 (çok sevmek), 很了解 (çok iyi tanımak/anlamak), 很希望 (çok ummak), 很担心 (çok endişelenmek), 很相信 (çok güvenmek). Sıradan eylem fiilleri (吃, 走, 买) \"很\" ile KULLANILMAZ (很吃 yanlış). Yalnızca duygu/tutum/istek bildiren fiiller \"很\" alır. Bu, Türkçedeki \"çok seviyorum, çok istiyorum\" mantığına denk gelir ve öznenin hislerinin derecesini gösterir.",
+  "examples": [
+   {
+    "zh": "我很喜欢这座安静的小城,住得特别舒服。",
+    "pinyin": "Wǒ hěn xǐ huān zhè zuò ān jìng de xiǎo chéng, zhù de tè bié shū fú。",
+    "en": "I really like this quiet little town; living here is very comfortable."
+   },
+   {
+    "zh": "离家这么久,他很想念父母和家乡的味道。",
+    "pinyin": "Lí jiā zhè me jiǔ, tā hěn xiǎng niàn fù mǔ hé jiā xiāng de wèi dào。",
+    "en": "Away from home so long, he deeply misses his parents and hometown flavors."
+   },
+   {
+    "zh": "我们都很担心他一个人在外面过得好不好。",
+    "pinyin": "Wǒ men dōu hěn dān xīn tā yí gè rén zài wài miàn guò de hǎo bù hǎo。",
+    "en": "We're all very worried about how he's doing on his own out there."
+   },
+   {
+    "zh": "这些年相处下来,我很了解他的脾气和习惯。",
+    "pinyin": "Zhè xiē nián xiāng chǔ xià lái, wǒ hěn liǎo jiě tā de pí qì hé xí guàn。",
+    "en": "After years together, I know his temper and habits well."
+   },
+   {
+    "zh": "孩子很希望爸爸能抽空来参加他的运动会。",
+    "pinyin": "Hái zi hěn xī wàng bà bà néng chōu kòng lái cān jiā tā de yùn dòng huì。",
+    "en": "The child really hopes dad can find time to attend his sports day."
+   },
+   {
+    "zh": "她很爱笑,走到哪儿都能带来好心情。",
+    "pinyin": "Tā hěn ài xiào, zǒu dào nǎ ér dōu néng dài lái hǎo xīn qíng。",
+    "en": "She loves to smile and brings good cheer wherever she goes."
+   },
+   {
+    "zh": "我很相信你的能力,这件事就交给你了。",
+    "pinyin": "Wǒ hěn xiāng xìn nǐ de néng lì, zhè jiàn shì jiù jiāo gěi nǐ le。",
+    "en": "I really trust your ability; I'll leave this to you."
+   },
+   {
+    "zh": "听到这个好消息,大家都很高兴。",
+    "pinyin": "Tīng dào zhè ge hǎo xiāo xī, dà jiā dōu hěn gāo xìng。",
+    "en": "Hearing this good news, everyone was very happy."
+   },
+   {
+    "zh": "他很在乎别人的看法,常常为此睡不好觉。",
+    "pinyin": "Tā hěn zài hū bié rén de kàn fǎ, cháng cháng wèi cǐ shuì bù hǎo jué。",
+    "en": "He cares a lot about others' opinions, often losing sleep over it."
+   },
+   {
+    "zh": "我很感谢这些年一直支持我的家人和朋友。",
+    "pinyin": "Wǒ hěn gǎn xiè zhè xiē nián yì zhí zhī chí wǒ de jiā rén hé péng yǒu。",
+    "en": "I'm very grateful to the family and friends who've supported me all these years."
+   },
+   {
+    "zh": "对于这次的安排,我个人很满意。",
+    "pinyin": "Duì yú zhè cì de ān pái, wǒ gè rén hěn mǎn yì。",
+    "en": "Personally, I'm very satisfied with this arrangement."
+   },
+   {
+    "zh": "他很讨厌别人打断自己说话。",
+    "pinyin": "Tā hěn tǎo yàn bié rén dǎ duàn zì jǐ shuō huà。",
+    "en": "He really dislikes being interrupted when speaking."
+   },
+   {
+    "zh": "我很期待周末的这次聚会,好久没见老朋友了。",
+    "pinyin": "Wǒ hěn qī dài zhōu mò de zhè cì jù huì, hǎo jiǔ méi jiàn lǎo péng yǒu le。",
+    "en": "I'm really looking forward to this weekend's gathering; I haven't seen old friends in ages."
+   },
+   {
+    "zh": "父母很理解我的选择,一直默默地支持我。",
+    "pinyin": "Fù mǔ hěn lǐ jiě wǒ de xuǎn zé, yì zhí mò mò de zhī chí wǒ。",
+    "en": "My parents understand my choice well and quietly support me."
+   },
+   {
+    "zh": "这么多年过去,我依然很怀念学生时代的日子。",
+    "pinyin": "Zhè me duō nián guò qù, wǒ yī rán hěn huái niàn xué shēng shí dài de rì zi。",
+    "en": "After all these years, I still fondly miss my student days."
+   },
+   {
+    "zh": "大家都很佩服他面对困难时的那份冷静。",
+    "pinyin": "Dà jiā dōu hěn pèi fú tā miàn duì kùn nán shí de nà fèn lěng jìng。",
+    "en": "Everyone admires the calmness he shows in the face of difficulties."
+   },
+   {
+    "zh": "我很欣赏那些踏踏实实做事的人。",
+    "pinyin": "Wǒ hěn xīn shǎng nà xiē tà tà shí shí zuò shì de rén。",
+    "en": "I really appreciate people who work in a down-to-earth way."
+   },
+   {
+    "zh": "孩子很信任老师,有什么话都愿意跟老师说。",
+    "pinyin": "Hái zi hěn xìn rèn lǎo shī, yǒu shén me huà dōu yuàn yì gēn lǎo shī shuō。",
+    "en": "The child trusts the teacher and shares everything with him."
+   },
+   {
+    "zh": "我很关心你最近的身体状况,一定要按时吃药。",
+    "pinyin": "Wǒ hěn guān xīn nǐ zuì jìn de shēn tǐ zhuàng kuàng, yí dìng yào àn shí chī yào。",
+    "en": "I care a lot about your health lately; be sure to take your medicine on time."
+   },
+   {
+    "zh": "他对家乡的变化感到很惊讶,几乎认不出来了。",
+    "pinyin": "Tā duì jiā xiāng de biàn huà gǎn dào hěn jīng yà, jī hū rèn bù chū lái le。",
+    "en": "He was very surprised at his hometown's changes; he could barely recognize it."
+   },
+   {
+    "zh": "我们很尊重每个人的想法,不会强迫任何人。",
+    "pinyin": "Wǒ men hěn zūn zhòng měi gè rén de xiǎng fǎ, bú huì qiǎng pò rèn hé rén。",
+    "en": "We deeply respect everyone's ideas and won't force anyone."
+   },
+   {
+    "zh": "看到孩子这么懂事,当妈妈的心里很安慰。",
+    "pinyin": "Kàn dào hái zi zhè me dǒng shì, dāng mā mā de xīn lǐ hěn ān wèi。",
+    "en": "Seeing the child so sensible, the mother feels much comforted."
+   },
+   {
+    "zh": "我很想去看看外面的世界,可是又舍不得家。",
+    "pinyin": "Wǒ hěn xiǎng qù kàn kàn wài miàn de shì jiè, kě shì yòu shě bù de jiā。",
+    "en": "I really want to see the world outside, yet I can't bear to leave home."
+   },
+   {
+    "zh": "他很羡慕那些能自由支配时间的人。",
+    "pinyin": "Tā hěn xiàn mù nà xiē néng zì yóu zhī pèi shí jiān de rén。",
+    "en": "He really envies people who can freely manage their own time."
+   },
+   {
+    "zh": "这次比赛虽然输了,但我们很享受这个过程。",
+    "pinyin": "Zhè cì bǐ sài suī rán shū le, dàn wǒ men hěn xiǎng shòu zhè ge guò chéng。",
+    "en": "Though we lost this match, we really enjoyed the process."
+   }
+  ]
+ },
+ {
+  "id": "g114",
+  "level": 2,
+  "title": "\"到\" ile \"...-e varmak / gitmek\"",
+  "titleEn": "Using \"dao\" to mean \"to go to\"",
+  "pattern": "到 + Yer (+ 去)",
+  "summary": "\"到\" (dào) bir yere ulaşmayı/gitmeyi gösterir: 到北京 = Pekin'e (varmak/gitmek); 到学校去 = okula gitmek.",
+  "explanation": "\"到\" bir hedefe VARMAYI/ulaşmayı bildiren bir fiildir: 我到家了 (Eve vardım), 火车到站了 (Tren istasyona geldi). Bir yere GİTMEYİ anlatmak için sık sık \"到 + yer + 去/来\" kalıbı kurulur: 我要到北京去 (Pekin'e gideceğim), 到这儿来 (buraya gel). \"到\" ayrıca başka fiillerin ardına gelip \"ulaşma/başarma\" sonucunu gösteren bir tümleç olur (bkz. 结果补语): 找到 (bulmak), 看到 (görmek), 买到 (satın alabilmek). Bu konuda özellikle \"到 + yer\" (bir yere varmak/gitmek) kullanımını ele alıyoruz. Ayrıca zamanda bir noktaya kadar sürmeyi de anlatır: 从早到晚 (sabahtan akşama).",
+  "examples": [
+   {
+    "zh": "我们到火车站的时候,车刚好进站。",
+    "pinyin": "Wǒ men dào huǒ chē zhàn de shí hòu, chē gāng hǎo jìn zhàn。",
+    "en": "Just as we reached the station, the train pulled in."
+   },
+   {
+    "zh": "你到家以后给我发个消息,我好放心。",
+    "pinyin": "Nǐ dào jiā yǐ hòu gěi wǒ fā gè xiāo xī, wǒ hǎo fàng xīn。",
+    "en": "Message me once you're home so I can relax."
+   },
+   {
+    "zh": "明天我要到城里去办点事,可能回来得晚。",
+    "pinyin": "Míng tiān wǒ yào dào chéng lǐ qù bàn diǎn shì, kě néng huí lái de wǎn。",
+    "en": "Tomorrow I'm going into the city on some errands; I may be back late."
+   },
+   {
+    "zh": "这趟车到上海一共要停八个站。",
+    "pinyin": "Zhè tàng chē dào shàng hǎi yī gòng yào tíng bā gè zhàn。",
+    "en": "This train makes a total of eight stops before Shanghai."
+   },
+   {
+    "zh": "孩子第一次自己坐车到外婆家,大家都很担心。",
+    "pinyin": "Hái zi dì yī cì zì jǐ zuò chē dào wài pó jiā, dà jiā dōu hěn dān xīn。",
+    "en": "The child took the bus to grandma's alone for the first time; everyone worried."
+   },
+   {
+    "zh": "你到了机场先别急,我会去接你的。",
+    "pinyin": "Nǐ dào le jī chǎng xiān bié jí, wǒ huì qù jiē nǐ de。",
+    "en": "Once you reach the airport, don't rush; I'll come pick you up."
+   },
+   {
+    "zh": "我们走了很久,天黑了才到山下的村子。",
+    "pinyin": "Wǒ men zǒu le hěn jiǔ, tiān hēi le cái dào shān xià de cūn zi。",
+    "en": "We walked a long time and reached the village at the foot only after dark."
+   },
+   {
+    "zh": "每天早上八点,他准时到公司,从不迟到。",
+    "pinyin": "Měi tiān zǎo shàng bā diǎn, tā zhǔn shí dào gōng sī, cóng bù chí dào。",
+    "en": "Every morning at eight sharp he arrives at the office, never late."
+   },
+   {
+    "zh": "请问,从这儿到市中心大概要多长时间?",
+    "pinyin": "Qǐng wèn, cóng zhè ér dào shì zhōng xīn dà gài yào duō zhǎng shí jiān?",
+    "en": "Excuse me, how long does it take from here to the city center?"
+   },
+   {
+    "zh": "等你到了那边,记得替我向大家问好。",
+    "pinyin": "Děng nǐ dào le nà biān, jì de tì wǒ xiàng dà jiā wèn hǎo。",
+    "en": "When you get there, remember to send everyone my regards."
+   },
+   {
+    "zh": "我到超市去买点东西,你要不要一起去?",
+    "pinyin": "Wǒ dào chāo shì qù mǎi diǎn dōng xī, nǐ yào bù yào yì qǐ qù?",
+    "en": "I'm going to the supermarket to buy some things; want to come along?"
+   },
+   {
+    "zh": "信寄出去一个星期后才到了他手里。",
+    "pinyin": "Xìn jì chū qù yí gè xīng qī hòu cái dào le tā shǒu lǐ。",
+    "en": "The letter reached him only a week after it was sent."
+   },
+   {
+    "zh": "我们打算这个暑假到南方的几个城市走走。",
+    "pinyin": "Wǒ men dǎ suàn zhè ge shǔ jià dào nán fāng de jǐ gè chéng shì zǒu zǒu。",
+    "en": "We plan to visit a few southern cities this summer."
+   },
+   {
+    "zh": "他一路上换了三种车,才到了那个偏远的小镇。",
+    "pinyin": "Tā yī lù shàng huàn le sān zhǒng chē, cái dào le nà ge piān yuǎn de xiǎo zhèn。",
+    "en": "He changed vehicles three times before reaching that remote town."
+   },
+   {
+    "zh": "你到了以后,先在门口等我,别自己乱走。",
+    "pinyin": "Nǐ dào le yǐ hòu, xiān zài mén kǒu děng wǒ, bié zì jǐ luàn zǒu。",
+    "en": "When you arrive, wait for me at the entrance and don't wander off."
+   },
+   {
+    "zh": "快到中午了,我们找个地方吃点东西吧。",
+    "pinyin": "Kuài dào zhōng wǔ le, wǒ men zhǎo gè dì fāng chī diǎn dōng xī ba。",
+    "en": "It's almost noon; let's find somewhere to eat."
+   },
+   {
+    "zh": "从山脚到山顶,他们整整爬了四个小时。",
+    "pinyin": "Cóng shān jiǎo dào shān dǐng, tā men zhěng zhěng pá le sì gè xiǎo shí。",
+    "en": "From the foot to the summit, they climbed for a full four hours."
+   },
+   {
+    "zh": "这封信要到下个月初才能到收信人手里。",
+    "pinyin": "Zhè fēng xìn yào dào xià gè yuè chū cái néng dào shōu xìn rén shǒu lǐ。",
+    "en": "This letter won't reach the recipient until early next month."
+   },
+   {
+    "zh": "我们到公园去散散步,顺便消化一下。",
+    "pinyin": "Wǒ men dào gōng yuán qù sàn sàn bù, shùn biàn xiāo huà yī xià。",
+    "en": "Let's go to the park for a walk and help our food settle."
+   },
+   {
+    "zh": "他坐飞机到北京,又转火车到了老家。",
+    "pinyin": "Tā zuò fēi jī dào běi jīng, yòu zhuǎn huǒ chē dào le lǎo jiā。",
+    "en": "He flew to Beijing, then transferred to a train to his hometown."
+   },
+   {
+    "zh": "等货到了仓库,我们马上通知你来取。",
+    "pinyin": "Děng huò dào le cāng kù, wǒ men mǎ shàng tōng zhī nǐ lái qǔ。",
+    "en": "Once the goods arrive at the warehouse, we'll notify you to collect them."
+   },
+   {
+    "zh": "那年冬天,他一个人到很远的地方去打工。",
+    "pinyin": "Nà nián dōng tiān, tā yí gè rén dào hěn yuǎn de dì fāng qù dǎ gōng。",
+    "en": "That winter, he went far away alone to work."
+   },
+   {
+    "zh": "从家到学校,她每天要走将近一个小时。",
+    "pinyin": "Cóng jiā dào xué xiào, tā měi tiān yào zǒu jiāng jìn yí gè xiǎo shí。",
+    "en": "From home to school, she walks nearly an hour every day."
+   },
+   {
+    "zh": "你要是到我们这个城市来,一定要联系我。",
+    "pinyin": "Nǐ yào shì dào wǒ men zhè ge chéng shì lái, yí dìng yào lián xì wǒ。",
+    "en": "If you come to our city, be sure to contact me."
+   },
+   {
+    "zh": "船到岸边的时候,岸上早已站满了迎接的人。",
+    "pinyin": "Chuán dào àn biān de shí hòu, àn shàng zǎo yǐ zhàn mǎn le yíng jiē de rén。",
+    "en": "When the boat reached the shore, people were already waiting to greet it."
+   }
+  ]
+ },
+ {
+  "id": "g115",
+  "level": 2,
+  "title": "\"好\" ile \"...-ması kolay / hoş\"",
+  "titleEn": "Using \"hao\" to mean \"easy\"",
+  "pattern": "好 + Fiil",
+  "summary": "\"好\" (hǎo) bir fiilin önüne gelip \"...-ması kolay\" ya da \"hoş/güzel ...\" anlamı verir: 好找 = bulması kolay; 好吃 = lezzetli (yemesi güzel).",
+  "explanation": "\"好\" bir fiilin önüne gelerek o eylemin YAPILMASININ kolay ya da hoş olduğunu belirtir; \"难\"nın karşıtıdır. İki anlam çıkar: (1) KOLAYLIK — 好找 (bulması kolay), 好记 (akılda tutması kolay), 好走 (yürümesi/gitmesi kolay), 好用 (kullanışlı). (2) DUYU AÇISINDAN HOŞLUK — 好吃 (lezzetli), 好喝 (içimi güzel), 好看 (güzel/hoş görünen), 好听 (kulağa hoş gelen). Yani \"好 + duyu fiili\" o duyuya hoş gelen anlamı verir. Karşıtı çoğu zaman \"难\" ile kurulur: 难吃 (tadı kötü), 难找 (bulması zor). Günlük değerlendirmelerde son derece yaygındır.",
+  "examples": [
+   {
+    "zh": "这个地方很好找,一出地铁站就能看到。",
+    "pinyin": "Zhè ge dì fāng hěn hǎo zhǎo, yī chū dì tiě zhàn jiù néng kàn dào。",
+    "en": "This place is easy to find; you can see it right out of the subway."
+   },
+   {
+    "zh": "妈妈做的红烧肉又香又好吃,我一口气吃了两碗饭。",
+    "pinyin": "Mā mā zuò de hóng shāo ròu yòu xiāng yòu hǎo chī, wǒ yì kǒu qì chī le liǎng wǎn fàn。",
+    "en": "Mom's braised pork is fragrant and delicious; I ate two bowls of rice."
+   },
+   {
+    "zh": "这几个生词编成了一句顺口溜,特别好记。",
+    "pinyin": "Zhè jǐ gè shēng cí biān chéng le yī jù shùn kǒu liū, tè bié hǎo jì。",
+    "en": "These new words are made into a rhyme, so they're easy to remember."
+   },
+   {
+    "zh": "这条新修的路又平又宽,开车特别好走。",
+    "pinyin": "Zhè tiáo xīn xiū de lù yòu píng yòu kuān, kāi chē tè bié hǎo zǒu。",
+    "en": "This newly built road is flat and wide, very easy to drive on."
+   },
+   {
+    "zh": "这款软件设计得很简单,老人用起来也很好用。",
+    "pinyin": "Zhè kuǎn ruǎn jiàn shè jì de hěn jiǎn dān, lǎo rén yòng qǐ lái yě hěn hǎo yòng。",
+    "en": "This app is simply designed and easy even for the elderly to use."
+   },
+   {
+    "zh": "这首歌旋律优美,歌词也好听,难怪这么流行。",
+    "pinyin": "Zhè shǒu gē xuán lǜ yōu měi, gē cí yě hǎo tīng, nán guài zhè me liú xíng。",
+    "en": "This song has a lovely melody and nice lyrics; no wonder it's popular."
+   },
+   {
+    "zh": "这种茶清香回甘,喝起来特别好喝。",
+    "pinyin": "Zhè zhǒng chá qīng xiāng huí gān, hē qǐ lái tè bié hǎo hē。",
+    "en": "This tea is fragrant with a sweet aftertaste, very pleasant to drink."
+   },
+   {
+    "zh": "她今天穿了一条新裙子,大家都说很好看。",
+    "pinyin": "Tā jīn tiān chuān le yī tiáo xīn qún zi, dà jiā dōu shuō hěn hǎo kàn。",
+    "en": "She wore a new dress today, and everyone said it looks lovely."
+   },
+   {
+    "zh": "这个牌子的鞋子既结实又好穿,我买了好几双。",
+    "pinyin": "Zhè ge pái zi de xié zi jì jiē shí yòu hǎo chuān, wǒ mǎi le hǎo jǐ shuāng。",
+    "en": "This brand of shoes is durable and comfortable; I bought several pairs."
+   },
+   {
+    "zh": "他的名字很好记,听一遍就忘不了。",
+    "pinyin": "Tā de míng zì hěn hǎo jì, tīng yī biàn jiù wàng bù liǎo。",
+    "en": "His name is easy to remember; hear it once and you won't forget."
+   },
+   {
+    "zh": "这家店的招牌就在路口,特别好认。",
+    "pinyin": "Zhè jiā diàn de zhāo pái jiù zài lù kǒu, tè bié hǎo rèn。",
+    "en": "This shop's sign is right at the corner, very easy to spot."
+   },
+   {
+    "zh": "这道菜看着普通,没想到这么好吃。",
+    "pinyin": "Zhè dào cài kàn zhe pǔ tōng, méi xiǎng dào zhè me hǎo chī。",
+    "en": "This dish looks ordinary, but surprisingly it's so tasty."
+   },
+   {
+    "zh": "新买的这把椅子坐着很舒服,也很好搬。",
+    "pinyin": "Xīn mǎi de zhè bǎ yǐ zi zuò zhe hěn shū fú, yě hěn hǎo bān。",
+    "en": "This newly bought chair is comfortable to sit in and easy to move."
+   },
+   {
+    "zh": "超市就在小区门口,买东西特别好买。",
+    "pinyin": "Chāo shì jiù zài xiǎo qū mén kǒu, mǎi dōng xī tè bié hǎo mǎi。",
+    "en": "The supermarket is right at the neighborhood gate; shopping is very convenient."
+   },
+   {
+    "zh": "这本词典查起来很好查,例句也很实用。",
+    "pinyin": "Zhè běn cí diǎn chá qǐ lái hěn hǎo chá, lì jù yě hěn shí yòng。",
+    "en": "This dictionary is easy to look things up in, with practical examples."
+   },
+   {
+    "zh": "这种花不但好看,而且好养,不用天天浇水。",
+    "pinyin": "Zhè zhòng huā bù dàn hǎo kàn, ér qiě hǎo yǎng, bù yòng tiān tiān jiāo shuǐ。",
+    "en": "This flower is not only pretty but also easy to grow, no daily watering."
+   },
+   {
+    "zh": "孩子的字写得工工整整,特别好认。",
+    "pinyin": "Hái zi de zì xiě de gōng gōng zhěng zhěng, tè bié hǎo rèn。",
+    "en": "The child writes neatly, and it's very easy to read."
+   },
+   {
+    "zh": "这条路线很好记,你跟着走一次就熟了。",
+    "pinyin": "Zhè tiáo lù xiàn hěn hǎo jì, nǐ gēn zhe zǒu yī cì jiù shú le。",
+    "en": "This route is easy to remember; follow it once and you'll know it."
+   },
+   {
+    "zh": "这家理发店的师傅手艺好,剪得也好看。",
+    "pinyin": "Zhè jiā lǐ fà diàn de shī fù shǒu yì hǎo, jiǎn de yě hǎo kàn。",
+    "en": "The barber here is skilled, and the cuts look great."
+   },
+   {
+    "zh": "这台机器操作简单,新员工也很好上手。",
+    "pinyin": "Zhè tái jī qì cāo zuò jiǎn dān, xīn yuán gōng yě hěn hǎo shàng shǒu。",
+    "en": "This machine is simple to operate; new staff pick it up easily."
+   },
+   {
+    "zh": "这种水果不但好吃,价钱也不贵,大家都爱买。",
+    "pinyin": "Zhè zhǒng shuǐ guǒ bù dàn hǎo chī, jià qián yě bù guì, dà jiā dōu ài mǎi。",
+    "en": "This fruit is tasty and cheap, so everyone loves buying it."
+   },
+   {
+    "zh": "他讲的故事生动有趣,大家都觉得很好听。",
+    "pinyin": "Tā jiǎng de gù shì shēng dòng yǒu qù, dà jiā dōu jué de hěn hǎo tīng。",
+    "en": "The stories he tells are vivid and fun; everyone enjoys listening."
+   },
+   {
+    "zh": "这个包又轻又好背,出门旅行特别方便。",
+    "pinyin": "Zhè ge bāo yòu qīng yòu hǎo bèi, chū mén lǚ xíng tè bié fāng biàn。",
+    "en": "This bag is light and easy to carry, very handy for traveling."
+   },
+   {
+    "zh": "窗外的景色一年四季都很好看,让人看不够。",
+    "pinyin": "Chuāng wài de jǐng sè yī nián sì jì dōu hěn hǎo kàn, ràng rén kàn bù gòu。",
+    "en": "The view outside the window is beautiful all year; you never tire of it."
+   },
+   {
+    "zh": "这种材料软软的,又好剪又好折,做手工正合适。",
+    "pinyin": "Zhè zhǒng cái liào ruǎn ruǎn de, yòu hǎo jiǎn yòu hǎo zhé, zuò shǒu gōng zhèng hé shì。",
+    "en": "This material is soft, easy to cut and fold, perfect for crafts."
+   }
+  ]
  }
 ]

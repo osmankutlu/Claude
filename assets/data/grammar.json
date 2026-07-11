@@ -4758,5 +4758,685 @@
     "en": "Can this thing actually be used or not?"
    }
   ]
+ },
+ {
+  "id": "g036",
+  "level": 1,
+  "title": "Soru kelimelerinin yeri",
+  "titleEn": "Placement of question words",
+  "pattern": "什么 / 谁 / 哪儿 / 为什么 / 怎么 (yerinde kalır)",
+  "summary": "Çince'de soru kelimeleri cümle başına taşınmaz; cevabın geleceği yerde durur. 你是谁？ = Sen kimsin? (谁 sonda).",
+  "explanation": "Çince'nin en önemli soru kuralı: soru kelimeleri (什么 ne, 谁 kim, 哪儿 nerede, 为什么 neden, 怎么 nasıl, 几/多少 kaç) İngilizce/Türkçe'deki gibi cümle başına GİTMEZ. Cümlenin normal sırasını koruyup, cevabın geleceği yere soru kelimesini koyarsınız: \"你吃什么?\" (ne yiyorsun? — 什么 nesnenin yerinde). Bu tür sorulara \"吗\" EKLENMEZ.",
+  "examples": [
+   {
+    "zh": "你今天晚上想吃什么？",
+    "pinyin": "Nǐ jīntiān wǎnshang xiǎng chī shénme?",
+    "en": "What do you want to eat tonight?"
+   },
+   {
+    "zh": "刚才给你打电话的那个人是谁？",
+    "pinyin": "Gāngcái gěi nǐ dǎ diànhuà de nàge rén shì shéi?",
+    "en": "Who was that person who just called you?"
+   },
+   {
+    "zh": "这个周末你打算去哪儿？",
+    "pinyin": "Zhège zhōumò nǐ dǎsuàn qù nǎr?",
+    "en": "Where do you plan to go this weekend?"
+   },
+   {
+    "zh": "你为什么这么晚才回来？",
+    "pinyin": "Nǐ wèishénme zhème wǎn cái huílái?",
+    "en": "Why did you come back so late?"
+   },
+   {
+    "zh": "这道题应该怎么做,你能教我吗？",
+    "pinyin": "Zhè dào tí yīnggāi zěnme zuò, nǐ néng jiāo wǒ ma?",
+    "en": "How should this problem be done? Can you teach me?"
+   },
+   {
+    "zh": "你们班一共有多少个学生？",
+    "pinyin": "Nǐmen bān yígòng yǒu duōshao ge xuésheng?",
+    "en": "How many students are there in your class in total?"
+   },
+   {
+    "zh": "这件事你是从哪儿听说的？",
+    "pinyin": "Zhè jiàn shì nǐ shì cóng nǎr tīngshuō de?",
+    "en": "Where did you hear about this?"
+   },
+   {
+    "zh": "你觉得这三个方案中哪个最好？",
+    "pinyin": "Nǐ juéde zhè sān ge fāng'àn zhōng nǎge zuì hǎo?",
+    "en": "Which of these three plans do you think is best?"
+   },
+   {
+    "zh": "你的生日是几月几号？",
+    "pinyin": "Nǐ de shēngri shì jǐ yuè jǐ hào?",
+    "en": "What's the date of your birthday?"
+   },
+   {
+    "zh": "你昨天跟谁一起去看电影了？",
+    "pinyin": "Nǐ zuótiān gēn shéi yìqǐ qù kàn diànyǐng le?",
+    "en": "Who did you go to the movies with yesterday?"
+   },
+   {
+    "zh": "你打算在这个城市住多久？",
+    "pinyin": "Nǐ dǎsuàn zài zhège chéngshì zhù duōjiǔ?",
+    "en": "How long do you plan to live in this city?"
+   },
+   {
+    "zh": "这些钱你到底想用来做什么？",
+    "pinyin": "Zhèxiē qián nǐ dàodǐ xiǎng yòng lái zuò shénme?",
+    "en": "What exactly do you want to use this money for?"
+   },
+   {
+    "zh": "你最喜欢的作家是谁？",
+    "pinyin": "Nǐ zuì xǐhuan de zuòjiā shì shéi?",
+    "en": "Who is your favorite writer?"
+   },
+   {
+    "zh": "我们应该什么时候出发才不会迟到？",
+    "pinyin": "Wǒmen yīnggāi shénme shíhou chūfā cái bú huì chídào?",
+    "en": "When should we leave so we won't be late?"
+   },
+   {
+    "zh": "你为什么突然对这件事这么感兴趣？",
+    "pinyin": "Nǐ wèishénme tūrán duì zhè jiàn shì zhème gǎn xìngqù?",
+    "en": "Why are you suddenly so interested in this?"
+   },
+   {
+    "zh": "这么多东西,你打算怎么带回去？",
+    "pinyin": "Zhème duō dōngxi, nǐ dǎsuàn zěnme dài huíqù?",
+    "en": "So many things, how do you plan to take them back?"
+   },
+   {
+    "zh": "你觉得我们的问题出在哪儿？",
+    "pinyin": "Nǐ juéde wǒmen de wèntí chū zài nǎr?",
+    "en": "Where do you think our problem lies?"
+   },
+   {
+    "zh": "这件事你想让谁来负责？",
+    "pinyin": "Zhè jiàn shì nǐ xiǎng ràng shéi lái fùzé?",
+    "en": "Who do you want to be in charge of this?"
+   },
+   {
+    "zh": "你到底想要什么样的生活？",
+    "pinyin": "Nǐ dàodǐ xiǎng yào shénmeyàng de shēnghuó?",
+    "en": "What kind of life do you actually want?"
+   },
+   {
+    "zh": "你知道他为什么不高兴吗？",
+    "pinyin": "Nǐ zhīdào tā wèishénme bù gāoxìng ma?",
+    "en": "Do you know why he's unhappy?"
+   },
+   {
+    "zh": "我们下一步应该怎么走？",
+    "pinyin": "Wǒmen xià yí bù yīnggāi zěnme zǒu?",
+    "en": "What should our next step be?"
+   },
+   {
+    "zh": "你把我的钥匙放在哪儿了？",
+    "pinyin": "Nǐ bǎ wǒ de yàoshi fàng zài nǎr le?",
+    "en": "Where did you put my keys?"
+   },
+   {
+    "zh": "这么重要的会议,谁没来？",
+    "pinyin": "Zhème zhòngyào de huìyì, shéi méi lái?",
+    "en": "Such an important meeting, who didn't come?"
+   },
+   {
+    "zh": "你觉得幸福对你来说是什么？",
+    "pinyin": "Nǐ juéde xìngfú duì nǐ lái shuō shì shénme?",
+    "en": "What do you think happiness means to you?"
+   },
+   {
+    "zh": "我不明白你到底想说什么。",
+    "pinyin": "Wǒ bù míngbai nǐ dàodǐ xiǎng shuō shénme.",
+    "en": "I don't understand what you're trying to say."
+   }
+  ]
+ },
+ {
+  "id": "g037",
+  "level": 1,
+  "title": "\"...是不是\" ile ekli soru",
+  "titleEn": "Tag questions with \"bu\"",
+  "pattern": "Cümle + 是不是 / 对不对 / 好不好 ?",
+  "summary": "Cümle sonuna \"是不是 / 对不对 / 好不好\" eklenerek onay/rica sorusu yapılır: \"...değil mi? / ...olur mu?\"",
+  "explanation": "Bir cümlenin sonuna eklenen \"是不是\" (öyle değil mi?), \"对不对\" (doğru değil mi?), \"好不好\" (olur mu?) gibi kalıplar, Türkçe'deki \"...değil mi?\" ek sorusuna karşılık gelir. \"是不是\"/\"对不对\" bir tahmini onaylatır, \"好不好\" ise nazikçe öneri/rica yapar: \"我们走吧,好不好?\" (gidelim, olur mu?). Bu kalıp cümlenin başına da gelebilir (是不是) ama en yaygını sonda kullanmaktır.",
+  "examples": [
+   {
+    "zh": "你明天来,是不是？我等你。",
+    "pinyin": "Nǐ míngtiān lái, shì bu shì? Wǒ děng nǐ.",
+    "en": "You're coming tomorrow, right? I'll wait for you."
+   },
+   {
+    "zh": "我们六点出发,好不好？",
+    "pinyin": "Wǒmen liù diǎn chūfā, hǎo bu hǎo?",
+    "en": "Let's leave at six, okay?"
+   },
+   {
+    "zh": "这样做是对的,对不对？",
+    "pinyin": "Zhèyàng zuò shì duì de, duì bu duì?",
+    "en": "Doing it this way is right, isn't it?"
+   },
+   {
+    "zh": "你最近是不是遇到什么麻烦了？",
+    "pinyin": "Nǐ zuìjìn shì bu shì yùdào shénme máfan le?",
+    "en": "Have you run into some trouble lately?"
+   },
+   {
+    "zh": "我们今天就先到这里,好不好？",
+    "pinyin": "Wǒmen jīntiān jiù xiān dào zhèlǐ, hǎo bu hǎo?",
+    "en": "Let's stop here for today, shall we?"
+   },
+   {
+    "zh": "这道菜是你做的,对不对？真好吃。",
+    "pinyin": "Zhè dào cài shì nǐ zuò de, duì bu duì? Zhēn hǎochī.",
+    "en": "You made this dish, didn't you? It's delicious."
+   },
+   {
+    "zh": "你是不是有话想对我说？",
+    "pinyin": "Nǐ shì bu shì yǒu huà xiǎng duì wǒ shuō?",
+    "en": "Is there something you want to tell me?"
+   },
+   {
+    "zh": "我们各让一步,好不好？",
+    "pinyin": "Wǒmen gè ràng yí bù, hǎo bu hǎo?",
+    "en": "Let's each take a step back, all right?"
+   },
+   {
+    "zh": "你是不是觉得我说得不对？",
+    "pinyin": "Nǐ shì bu shì juéde wǒ shuō de bú duì?",
+    "en": "Do you think what I said is wrong?"
+   },
+   {
+    "zh": "这个答案是错的,对不对？",
+    "pinyin": "Zhège dá'àn shì cuò de, duì bu duì?",
+    "en": "This answer is wrong, isn't it?"
+   },
+   {
+    "zh": "你今天脸色不太好,是不是没睡好？",
+    "pinyin": "Nǐ jīntiān liǎnsè bú tài hǎo, shì bu shì méi shuì hǎo?",
+    "en": "You don't look well today, didn't you sleep well?"
+   },
+   {
+    "zh": "以后你多陪陪孩子,好不好？",
+    "pinyin": "Yǐhòu nǐ duō péipei háizi, hǎo bu hǎo?",
+    "en": "From now on, spend more time with the kids, okay?"
+   },
+   {
+    "zh": "这件事是他先动手的,对不对？",
+    "pinyin": "Zhè jiàn shì shì tā xiān dòngshǒu de, duì bu duì?",
+    "en": "He started it first, didn't he?"
+   },
+   {
+    "zh": "你是不是把我忘了？这么久都不联系。",
+    "pinyin": "Nǐ shì bu shì bǎ wǒ wàng le? Zhème jiǔ dōu bù liánxì.",
+    "en": "Did you forget about me? You haven't been in touch for so long."
+   },
+   {
+    "zh": "我们把音乐关小一点,好不好？",
+    "pinyin": "Wǒmen bǎ yīnyuè guān xiǎo yìdiǎn, hǎo bu hǎo?",
+    "en": "Let's turn the music down a bit, shall we?"
+   },
+   {
+    "zh": "你是不是也这么觉得？",
+    "pinyin": "Nǐ shì bu shì yě zhème juéde?",
+    "en": "Don't you feel the same way?"
+   },
+   {
+    "zh": "这个决定你已经想好了,是不是？",
+    "pinyin": "Zhège juédìng nǐ yǐjīng xiǎnghǎo le, shì bu shì?",
+    "en": "You've already decided on this, haven't you?"
+   },
+   {
+    "zh": "从明天开始我们都早点起床,好不好？",
+    "pinyin": "Cóng míngtiān kāishǐ wǒmen dōu zǎodiǎn qǐchuáng, hǎo bu hǎo?",
+    "en": "Starting tomorrow, let's all get up early, okay?"
+   },
+   {
+    "zh": "你是不是还在生我的气？",
+    "pinyin": "Nǐ shì bu shì hái zài shēng wǒ de qì?",
+    "en": "Are you still angry with me?"
+   },
+   {
+    "zh": "这次真的是我错了,对不对？",
+    "pinyin": "Zhè cì zhēn de shì wǒ cuò le, duì bu duì?",
+    "en": "This time it really was my fault, wasn't it?"
+   },
+   {
+    "zh": "我们一起把这件事做完,好不好？",
+    "pinyin": "Wǒmen yìqǐ bǎ zhè jiàn shì zuòwán, hǎo bu hǎo?",
+    "en": "Let's finish this together, shall we?"
+   },
+   {
+    "zh": "你是不是有什么事瞒着我？",
+    "pinyin": "Nǐ shì bu shì yǒu shénme shì mánzhe wǒ?",
+    "en": "Are you hiding something from me?"
+   },
+   {
+    "zh": "孩子的教育最重要,对不对？",
+    "pinyin": "Háizi de jiàoyù zuì zhòngyào, duì bu duì?",
+    "en": "A child's education matters most, doesn't it?"
+   },
+   {
+    "zh": "下次你提前告诉我一声,好不好？",
+    "pinyin": "Xià cì nǐ tíqián gàosù wǒ yì shēng, hǎo bu hǎo?",
+    "en": "Next time let me know in advance, okay?"
+   },
+   {
+    "zh": "你是不是一直都知道真相？",
+    "pinyin": "Nǐ shì bu shì yìzhí dōu zhīdào zhēnxiàng?",
+    "en": "Did you know the truth all along?"
+   }
+  ]
+ },
+ {
+  "id": "g038",
+  "level": 1,
+  "title": "\"...吗\" ile ekli soru (是吗/对吗/好吗)",
+  "titleEn": "Tag questions with \"ma\"",
+  "pattern": "Cümle + 是吗 / 对吗 / 好吗 ?",
+  "summary": "Cümle sonuna \"是吗/对吗/好吗\" eklenerek daha yumuşak bir onay/rica sorusu yapılır: \"...öyle mi? / ...olur mu?\"",
+  "explanation": "\"是不是/对不对/好不好\" ile aynı işlevi görür ama \"吗\"'lı biçim biraz daha yumuşak ve daha az ısrarcıdır. \"对吗?\" (doğru mu?), \"好吗?\" (olur mu?), \"是吗?\" (öyle mi? / sahi mi?). Özellikle \"是吗?\" tek başına söylenince \"Öyle mi? / Gerçekten mi?\" şeklinde hafif şaşkınlık/ilgi bildirir. Bu kalıplar cümleye nazik bir onay arayışı katar.",
+  "examples": [
+   {
+    "zh": "你今年也去旅行,是吗？",
+    "pinyin": "Nǐ jīnnián yě qù lǚxíng, shì ma?",
+    "en": "You're traveling this year too, right?"
+   },
+   {
+    "zh": "我们明天早上八点见,好吗？",
+    "pinyin": "Wǒmen míngtiān zǎoshang bā diǎn jiàn, hǎo ma?",
+    "en": "Let's meet at eight tomorrow morning, okay?"
+   },
+   {
+    "zh": "这样写才对,对吗？",
+    "pinyin": "Zhèyàng xiě cái duì, duì ma?",
+    "en": "It's only correct written this way, right?"
+   },
+   {
+    "zh": "他就是你常常提到的那个朋友,是吗？",
+    "pinyin": "Tā jiùshì nǐ chángcháng tídào de nàge péngyou, shì ma?",
+    "en": "He's that friend you often mention, isn't he?"
+   },
+   {
+    "zh": "你先休息一下,好吗？你看起来很累。",
+    "pinyin": "Nǐ xiān xiūxi yíxià, hǎo ma? Nǐ kàn qǐlái hěn lèi.",
+    "en": "Rest for a bit, okay? You look tired."
+   },
+   {
+    "zh": "这件事我们保密,好吗？",
+    "pinyin": "Zhè jiàn shì wǒmen bǎomì, hǎo ma?",
+    "en": "Let's keep this a secret, okay?"
+   },
+   {
+    "zh": "你已经原谅他了,是吗？",
+    "pinyin": "Nǐ yǐjīng yuánliàng tā le, shì ma?",
+    "en": "You've already forgiven him, haven't you?"
+   },
+   {
+    "zh": "我们把桌子搬到那边,好吗？",
+    "pinyin": "Wǒmen bǎ zhuōzi bān dào nàbiān, hǎo ma?",
+    "en": "Let's move the table over there, all right?"
+   },
+   {
+    "zh": "你是新来的同事,对吗？欢迎你。",
+    "pinyin": "Nǐ shì xīn lái de tóngshì, duì ma? Huānyíng nǐ.",
+    "en": "You're the new colleague, right? Welcome."
+   },
+   {
+    "zh": "你也听说了这个消息,是吗？",
+    "pinyin": "Nǐ yě tīngshuō le zhège xiāoxi, shì ma?",
+    "en": "You've heard this news too, haven't you?"
+   },
+   {
+    "zh": "以后有事你就直接找我,好吗？",
+    "pinyin": "Yǐhòu yǒu shì nǐ jiù zhíjiē zhǎo wǒ, hǎo ma?",
+    "en": "From now on come straight to me if you need anything, okay?"
+   },
+   {
+    "zh": "这条路是通往车站的,对吗？",
+    "pinyin": "Zhè tiáo lù shì tōngwǎng chēzhàn de, duì ma?",
+    "en": "This road leads to the station, right?"
+   },
+   {
+    "zh": "你不是真的想放弃,是吗？",
+    "pinyin": "Nǐ bú shì zhēn de xiǎng fàngqì, shì ma?",
+    "en": "You don't really want to give up, do you?"
+   },
+   {
+    "zh": "我们一起想办法解决,好吗？",
+    "pinyin": "Wǒmen yìqǐ xiǎng bànfǎ jiějué, hǎo ma?",
+    "en": "Let's find a solution together, shall we?"
+   },
+   {
+    "zh": "你的意思是让我等你,对吗？",
+    "pinyin": "Nǐ de yìsi shì ràng wǒ děng nǐ, duì ma?",
+    "en": "You mean you want me to wait for you, right?"
+   },
+   {
+    "zh": "这个消息你还没告诉别人,是吗？",
+    "pinyin": "Zhège xiāoxi nǐ hái méi gàosù biérén, shì ma?",
+    "en": "You haven't told anyone this news yet, right?"
+   },
+   {
+    "zh": "请你说慢一点,好吗？我听不太懂。",
+    "pinyin": "Qǐng nǐ shuō màn yìdiǎn, hǎo ma? Wǒ tīng bú tài dǒng.",
+    "en": "Please speak slower, okay? I can't quite follow."
+   },
+   {
+    "zh": "你就是那位有名的画家,是吗？",
+    "pinyin": "Nǐ jiùshì nà wèi yǒumíng de huàjiā, shì ma?",
+    "en": "You're that famous painter, aren't you?"
+   },
+   {
+    "zh": "我们说好了谁也不许迟到,对吗？",
+    "pinyin": "Wǒmen shuōhǎo le shéi yě bùxǔ chídào, duì ma?",
+    "en": "We agreed that no one may be late, right?"
+   },
+   {
+    "zh": "你会一直陪在我身边,是吗？",
+    "pinyin": "Nǐ huì yìzhí péi zài wǒ shēnbiān, shì ma?",
+    "en": "You'll always stay by my side, won't you?"
+   },
+   {
+    "zh": "我们把这件事忘了,重新开始,好吗？",
+    "pinyin": "Wǒmen bǎ zhè jiàn shì wàng le, chóngxīn kāishǐ, hǎo ma?",
+    "en": "Let's forget this and start over, shall we?"
+   },
+   {
+    "zh": "你是故意不接我电话的,对吗？",
+    "pinyin": "Nǐ shì gùyì bù jiē wǒ diànhuà de, duì ma?",
+    "en": "You deliberately didn't answer my calls, didn't you?"
+   },
+   {
+    "zh": "你相信我说的话,是吗？",
+    "pinyin": "Nǐ xiāngxìn wǒ shuō de huà, shì ma?",
+    "en": "You believe what I said, don't you?"
+   },
+   {
+    "zh": "下雨了,我们改天再去,好吗？",
+    "pinyin": "Xiàyǔ le, wǒmen gǎitiān zài qù, hǎo ma?",
+    "en": "It's raining, let's go another day, okay?"
+   },
+   {
+    "zh": "这就是你一直想要的答案,对吗？",
+    "pinyin": "Zhè jiùshì nǐ yìzhí xiǎng yào de dá'àn, duì ma?",
+    "en": "This is the answer you've always wanted, isn't it?"
+   }
+  ]
+ },
+ {
+  "id": "g039",
+  "level": 1,
+  "title": "\"吗\" ile evet-hayır sorusu",
+  "titleEn": "Yes-no questions with \"ma\"",
+  "pattern": "Cümle + 吗 ?",
+  "summary": "Düz bir cümlenin sonuna \"吗\" (ma) eklenerek evet-hayır sorusu yapılır: 他是老师吗？ = O öğretmen mi?",
+  "explanation": "Soru sormanın en basit yolu: normal bir bildirim cümlesi kurup sonuna \"吗\" eklemek. Cümlenin sırası HİÇ değişmez: 你喜欢中国菜 (Çin yemeğini seversin) → 你喜欢中国菜吗? (Çin yemeğini sever misin?). Cevap olumluysa yüklem tekrarlanır (喜欢), olumsuzsa 不/没 eklenir. DİKKAT: \"吗\", zaten soru kelimesi (什么/谁...) ya da \"是不是\" içeren cümlelerle KULLANILMAZ.",
+  "examples": [
+   {
+    "zh": "你今天晚上有空吗？我想请你吃饭。",
+    "pinyin": "Nǐ jīntiān wǎnshang yǒu kòng ma? Wǒ xiǎng qǐng nǐ chīfàn.",
+    "en": "Are you free tonight? I'd like to treat you to dinner."
+   },
+   {
+    "zh": "这个位子有人坐吗？",
+    "pinyin": "Zhège wèizi yǒu rén zuò ma?",
+    "en": "Is this seat taken?"
+   },
+   {
+    "zh": "你能听懂我说的话吗？",
+    "pinyin": "Nǐ néng tīngdǒng wǒ shuō de huà ma?",
+    "en": "Can you understand what I'm saying?"
+   },
+   {
+    "zh": "你去过中国吗？那里怎么样？",
+    "pinyin": "Nǐ qùguò Zhōngguó ma? Nàlǐ zěnmeyàng?",
+    "en": "Have you been to China? What's it like there?"
+   },
+   {
+    "zh": "你相信这个世界上有奇迹吗？",
+    "pinyin": "Nǐ xiāngxìn zhège shìjiè shàng yǒu qíjì ma?",
+    "en": "Do you believe there are miracles in this world?"
+   },
+   {
+    "zh": "你知道最近的地铁站在哪里吗？",
+    "pinyin": "Nǐ zhīdào zuìjìn de dìtiě zhàn zài nǎlǐ ma?",
+    "en": "Do you know where the nearest subway station is?"
+   },
+   {
+    "zh": "这件事你跟他商量过了吗？",
+    "pinyin": "Zhè jiàn shì nǐ gēn tā shāngliangguò le ma?",
+    "en": "Have you discussed this with him?"
+   },
+   {
+    "zh": "你觉得我这样做合适吗？",
+    "pinyin": "Nǐ juéde wǒ zhèyàng zuò héshì ma?",
+    "en": "Do you think it's appropriate for me to do this?"
+   },
+   {
+    "zh": "你愿意跟我一起面对这些困难吗？",
+    "pinyin": "Nǐ yuànyì gēn wǒ yìqǐ miànduì zhèxiē kùnnan ma?",
+    "en": "Are you willing to face these difficulties with me?"
+   },
+   {
+    "zh": "你还记得我们第一次见面的样子吗？",
+    "pinyin": "Nǐ hái jìde wǒmen dì yī cì jiànmiàn de yàngzi ma?",
+    "en": "Do you still remember how we first met?"
+   },
+   {
+    "zh": "你今天怎么这么高兴,发生什么好事了吗？",
+    "pinyin": "Nǐ jīntiān zěnme zhème gāoxìng, fāshēng shénme hǎoshì le ma?",
+    "en": "Why are you so happy today, did something good happen?"
+   },
+   {
+    "zh": "这么晚了,你还不打算睡觉吗？",
+    "pinyin": "Zhème wǎn le, nǐ hái bù dǎsuàn shuìjiào ma?",
+    "en": "It's so late, are you still not going to sleep?"
+   },
+   {
+    "zh": "你确定这是你想要的生活吗？",
+    "pinyin": "Nǐ quèdìng zhè shì nǐ xiǎng yào de shēnghuó ma?",
+    "en": "Are you sure this is the life you want?"
+   },
+   {
+    "zh": "你能帮我看看这台机器坏了吗？",
+    "pinyin": "Nǐ néng bāng wǒ kànkan zhè tái jīqì huài le ma?",
+    "en": "Can you help me check if this machine is broken?"
+   },
+   {
+    "zh": "如果时间可以重来,你还会做同样的选择吗？",
+    "pinyin": "Rúguǒ shíjiān kěyǐ chónglái, nǐ hái huì zuò tóngyàng de xuǎnzé ma?",
+    "en": "If time could start over, would you make the same choice?"
+   },
+   {
+    "zh": "你知道他为什么不来吗？",
+    "pinyin": "Nǐ zhīdào tā wèishénme bù lái ma?",
+    "en": "Do you know why he isn't coming?"
+   },
+   {
+    "zh": "你吃过这家店的饺子吗？非常好吃。",
+    "pinyin": "Nǐ chīguò zhè jiā diàn de jiǎozi ma? Fēicháng hǎochī.",
+    "en": "Have you tried this shop's dumplings? They're delicious."
+   },
+   {
+    "zh": "这些年,你过得幸福吗？",
+    "pinyin": "Zhèxiē nián, nǐ guò de xìngfú ma?",
+    "en": "Have you been happy these years?"
+   },
+   {
+    "zh": "你介意我坐在你旁边吗？",
+    "pinyin": "Nǐ jièyì wǒ zuò zài nǐ pángbiān ma?",
+    "en": "Do you mind if I sit next to you?"
+   },
+   {
+    "zh": "你有没有想过,也许是你误会他了吗？",
+    "pinyin": "Nǐ yǒu méiyǒu xiǎngguò, yěxǔ shì nǐ wùhuì tā le ma?",
+    "en": "Have you considered that maybe you misunderstood him?"
+   },
+   {
+    "zh": "这个决定,你真的想清楚了吗？",
+    "pinyin": "Zhège juédìng, nǐ zhēn de xiǎng qīngchu le ma?",
+    "en": "This decision, have you really thought it through?"
+   },
+   {
+    "zh": "你能保证以后不再犯同样的错误吗？",
+    "pinyin": "Nǐ néng bǎozhèng yǐhòu bú zài fàn tóngyàng de cuòwù ma?",
+    "en": "Can you promise not to make the same mistake again?"
+   },
+   {
+    "zh": "外面很冷,你带够衣服了吗？",
+    "pinyin": "Wàimiàn hěn lěng, nǐ dài gòu yīfu le ma?",
+    "en": "It's cold outside, did you bring enough clothes?"
+   },
+   {
+    "zh": "你相信努力真的能改变命运吗？",
+    "pinyin": "Nǐ xiāngxìn nǔlì zhēn de néng gǎibiàn mìngyùn ma?",
+    "en": "Do you believe hard work can really change one's fate?"
+   },
+   {
+    "zh": "这么重要的日子,你怎么能忘了呢？",
+    "pinyin": "Zhème zhòngyào de rìzi, nǐ zěnme néng wàng le ne?",
+    "en": "How could you forget such an important day?"
+   }
+  ]
+ },
+ {
+  "id": "g040",
+  "level": 1,
+  "title": "\"二\" ile \"两\" farkı",
+  "titleEn": "Comparing \"er\" and \"liang\"",
+  "pattern": "二 vs 两",
+  "summary": "İkisi de \"iki\" demektir ama \"二\" (èr) sayarken/rakamlarda, \"两\" (liǎng) ölçü sözcüğünden önce (nesne sayarken) kullanılır.",
+  "explanation": "Çince'de \"iki\" için iki kelime vardır. \"二\" (èr): sayı sayarken, rakamlarda, sıra sayılarında ve on/yüz gibi birimlerde kullanılır (二十 yirmi, 第二 ikinci, 二〇二三). \"两\" (liǎng): bir ölçü sözcüğünden önce, yani nesne sayarken kullanılır (两个人 iki kişi, 两杯水 iki bardak su). Yani \"iki kitap\" = 两本书 (二本书 değil), ama \"12\" = 十二 (十两 değil).",
+  "examples": [
+   {
+    "zh": "我要两杯咖啡和一块蛋糕。",
+    "pinyin": "Wǒ yào liǎng bēi kāfēi hé yí kuài dàngāo.",
+    "en": "I'd like two cups of coffee and a piece of cake."
+   },
+   {
+    "zh": "二加二等于四。",
+    "pinyin": "Èr jiā èr děngyú sì.",
+    "en": "Two plus two equals four."
+   },
+   {
+    "zh": "我在这个城市住了两年了。",
+    "pinyin": "Wǒ zài zhège chéngshì zhù le liǎng nián le.",
+    "en": "I've lived in this city for two years."
+   },
+   {
+    "zh": "他是我们班第二名。",
+    "pinyin": "Tā shì wǒmen bān dì èr míng.",
+    "en": "He is second in our class."
+   },
+   {
+    "zh": "这件事我跟你说过两遍了。",
+    "pinyin": "Zhè jiàn shì wǒ gēn nǐ shuōguò liǎng biàn le.",
+    "en": "I've told you this twice already."
+   },
+   {
+    "zh": "现在是下午两点半。",
+    "pinyin": "Xiànzài shì xiàwǔ liǎng diǎn bàn.",
+    "en": "It's two thirty in the afternoon now."
+   },
+   {
+    "zh": "这本书一共有二十二章。",
+    "pinyin": "Zhè běn shū yígòng yǒu èrshí'èr zhāng.",
+    "en": "This book has twenty-two chapters in total."
+   },
+   {
+    "zh": "我们家有两只猫和一只狗。",
+    "pinyin": "Wǒmen jiā yǒu liǎng zhī māo hé yì zhī gǒu.",
+    "en": "Our family has two cats and one dog."
+   },
+   {
+    "zh": "他今年二十岁,已经上大学了。",
+    "pinyin": "Tā jīnnián èrshí suì, yǐjīng shàng dàxué le.",
+    "en": "He's twenty this year and already in university."
+   },
+   {
+    "zh": "这两个方案我都不太满意。",
+    "pinyin": "Zhè liǎng ge fāng'àn wǒ dōu bú tài mǎnyì.",
+    "en": "I'm not satisfied with either of these two plans."
+   },
+   {
+    "zh": "我给你两个选择,你自己决定。",
+    "pinyin": "Wǒ gěi nǐ liǎng ge xuǎnzé, nǐ zìjǐ juédìng.",
+    "en": "I'll give you two choices, you decide yourself."
+   },
+   {
+    "zh": "这个数字里有两个二。",
+    "pinyin": "Zhège shùzì lǐ yǒu liǎng ge èr.",
+    "en": "There are two twos in this number."
+   },
+   {
+    "zh": "他们兄弟俩长得几乎一模一样。",
+    "pinyin": "Tāmen xiōngdì liǎ zhǎng de jīhū yìmúyíyàng.",
+    "en": "The two brothers look almost identical."
+   },
+   {
+    "zh": "请给我两张去北京的火车票。",
+    "pinyin": "Qǐng gěi wǒ liǎng zhāng qù Běijīng de huǒchēpiào.",
+    "en": "Please give me two train tickets to Beijing."
+   },
+   {
+    "zh": "从一数到二对小孩子来说很简单。",
+    "pinyin": "Cóng yī shǔ dào èr duì xiǎoháizi lái shuō hěn jiǎndān.",
+    "en": "Counting from one to two is easy for a small child."
+   },
+   {
+    "zh": "我们只剩下最后两天的假期了。",
+    "pinyin": "Wǒmen zhǐ shèngxià zuìhòu liǎng tiān de jiàqī le.",
+    "en": "We only have the last two days of vacation left."
+   },
+   {
+    "zh": "这栋楼一共有二十层。",
+    "pinyin": "Zhè dòng lóu yígòng yǒu èrshí céng.",
+    "en": "This building has twenty floors in total."
+   },
+   {
+    "zh": "他一口气买了两件一样的衬衫。",
+    "pinyin": "Tā yì kǒu qì mǎi le liǎng jiàn yíyàng de chènshān.",
+    "en": "He bought two identical shirts at once."
+   },
+   {
+    "zh": "二月一般是一年中最冷的月份。",
+    "pinyin": "Èr yuè yìbān shì yì nián zhōng zuì lěng de yuèfèn.",
+    "en": "February is usually the coldest month of the year."
+   },
+   {
+    "zh": "我们两个人的想法完全不同。",
+    "pinyin": "Wǒmen liǎng ge rén de xiǎngfǎ wánquán bùtóng.",
+    "en": "The two of us think completely differently."
+   },
+   {
+    "zh": "他考试得了九十二分。",
+    "pinyin": "Tā kǎoshì dé le jiǔshí'èr fēn.",
+    "en": "He scored ninety-two on the exam."
+   },
+   {
+    "zh": "这件事有两个原因,我慢慢跟你说。",
+    "pinyin": "Zhè jiàn shì yǒu liǎng ge yuányīn, wǒ mànman gēn nǐ shuō.",
+    "en": "There are two reasons for this, I'll explain slowly."
+   },
+   {
+    "zh": "请翻到第二十二页。",
+    "pinyin": "Qǐng fāndào dì èrshí'èr yè.",
+    "en": "Please turn to page twenty-two."
+   },
+   {
+    "zh": "我们俩认识已经二十多年了。",
+    "pinyin": "Wǒmen liǎ rènshi yǐjīng èrshí duō nián le.",
+    "en": "The two of us have known each other for over twenty years."
+   },
+   {
+    "zh": "这两种颜色放在一起很好看。",
+    "pinyin": "Zhè liǎng zhǒng yánsè fàng zài yìqǐ hěn hǎokàn.",
+    "en": "These two colors look great together."
+   }
+  ]
  }
 ]

@@ -35902,5 +35902,685 @@
     "en": "Although it's lively outside, he prefers to read quietly alone."
    }
   ]
+ },
+ {
+  "id": "g265",
+  "level": 3,
+  "title": "\"要么...要么...\" ile \"ya ... ya ...\"",
+  "titleEn": "Expressing \"either... or...\" with \"yaome\"",
+  "pattern": "要么 ...，要么 ...",
+  "summary": "\"要么...要么...\" (yàome...yàome...) iki seçeneği sunar: 要么你去,要么我去 = Ya sen gidersin ya ben.",
+  "explanation": "\"要么...要么...\" iki (ya da daha çok) seçeneği sıralayıp \"ya ... ya (da) ...\" der; ikisinden birinin seçilmesi gerektiğini belirtir: 周末要么去爬山,要么去看电影,你选一个 (Hafta sonu ya dağa tırmanırız ya sinemaya gideriz, birini seç), 你要么现在就走,要么等我一起 (Ya şimdi git ya beni bekle). Her seçenek \"要么\" ile başlar. \"或者\" (veya — düz ifade) ile yakındır ama \"要么\" iki seçenek arasında bir SEÇİM/ikilem, çoğu zaman \"ikisinden biri, başka yolu yok\" vurgusu taşır. \"不是...就是...\" (ya ... ya ...; ikisinden biri olmalı) da benzer bir kalıptır ama o daha çok bir çıkarım/tahmin bildirir. Türkçedeki \"ya ... ya (da) ...\" seçenek kalıbına birebir denk gelir; iki alternatif arasında seçim sunmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "这个周末要么去郊外野餐,要么在家好好休息,你决定。",
+    "pinyin": "Zhè ge zhōu mò yào me qù jiāo wài yě cān, yào me zài jiā hǎo hǎo xiū xī, nǐ jué dìng。",
+    "en": "This weekend, either picnic in the countryside or rest at home; you decide."
+   },
+   {
+    "zh": "你要么现在就把话说清楚,要么以后就别再提了。",
+    "pinyin": "Nǐ yào me xiàn zài jiù bǎ huà shuō qīng chǔ, yào me yǐ hòu jiù bié zài tí le。",
+    "en": "Either make it clear now, or don't bring it up again later."
+   },
+   {
+    "zh": "晚饭要么吃面条,要么吃饺子,你想吃哪个?",
+    "pinyin": "Wǎn fàn yào me chī miàn tiáo, yào me chī jiǎo zi, nǐ xiǎng chī nǎ ge?",
+    "en": "For dinner, either noodles or dumplings; which do you want?"
+   },
+   {
+    "zh": "这件事要么你去办,要么我去办,总得有人负责。",
+    "pinyin": "Zhè jiàn shì yào me nǐ qù bàn, yào me wǒ qù bàn, zǒng de yǒu rén fù zé。",
+    "en": "For this, either you do it or I do it; someone must take charge."
+   },
+   {
+    "zh": "他每天的安排很简单,要么工作,要么看书。",
+    "pinyin": "Tā měi tiān de ān pái hěn jiǎn dān, yào me gōng zuò, yào me kàn shū。",
+    "en": "His daily schedule is simple: either work or read."
+   },
+   {
+    "zh": "放假的时候,他要么在家睡觉,要么出去和朋友玩。",
+    "pinyin": "Fàng jià de shí hòu, tā yào me zài jiā shuì jiào, yào me chū qù hé péng yǒu wán。",
+    "en": "On holiday he either sleeps at home or goes out with friends."
+   },
+   {
+    "zh": "你要么听我的,要么听他的,不能两个都不听。",
+    "pinyin": "Nǐ yào me tīng wǒ de, yào me tīng tā de, bù néng liǎng gè dōu bù tīng。",
+    "en": "Either listen to me or to him; you can't ignore both."
+   },
+   {
+    "zh": "这些旧衣服要么送人,要么捐掉,别再堆在家里了。",
+    "pinyin": "Zhè xiē jiù yī fú yào me sòng rén, yào me juān diào, bié zài duī zài jiā lǐ le。",
+    "en": "These old clothes — either give them away or donate them; stop piling them up."
+   },
+   {
+    "zh": "周末的天气要么很热,要么下雨,总是不太舒服。",
+    "pinyin": "Zhōu mò de tiān qì yào me hěn rè, yào me xià yǔ, zǒng shì bù tài shū fú。",
+    "en": "Weekend weather is either hot or rainy; never quite pleasant."
+   },
+   {
+    "zh": "你要么专心学习,要么痛快地玩,别三心二意。",
+    "pinyin": "Nǐ yào me zhuān xīn xué xí, yào me tòng kuài de wán, bié sān xīn èr yì。",
+    "en": "Either study with focus or play freely; don't be half-hearted."
+   },
+   {
+    "zh": "去那个城市,要么坐飞机,要么坐高铁,都很方便。",
+    "pinyin": "Qù nà ge chéng shì, yào me zuò fēi jī, yào me zuò gāo tiě, dōu hěn fāng biàn。",
+    "en": "To that city, either fly or take the high-speed rail; both are convenient."
+   },
+   {
+    "zh": "他这个人要么不做,要么就做到最好。",
+    "pinyin": "Tā zhè ge rén yào me bù zuò, yào me jiù zuò dào zuì hǎo。",
+    "en": "This person either doesn't do it, or does it to the best."
+   },
+   {
+    "zh": "中午要么在食堂吃,要么点个外卖,你看着办。",
+    "pinyin": "Zhōng wǔ yào me zài shí táng chī, yào me diǎn gè wài mài, nǐ kàn zhe bàn。",
+    "en": "For lunch, either eat at the canteen or order in; it's up to you."
+   },
+   {
+    "zh": "这道题要么用这个方法,要么用那个方法,都能解出来。",
+    "pinyin": "Zhè dào tí yào me yòng zhè ge fāng fǎ, yào me yòng nà ge fāng fǎ, dōu néng jiě chū lái。",
+    "en": "This problem — use either this method or that one; both work."
+   },
+   {
+    "zh": "你要么早点睡,要么就一鼓作气把事情做完。",
+    "pinyin": "Nǐ yào me zǎo diǎn shuì, yào me jiù yī gǔ zuò qì bǎ shì qíng zuò wán。",
+    "en": "Either sleep early, or finish the work in one go."
+   },
+   {
+    "zh": "他每次不在家,要么去了图书馆,要么去了球场。",
+    "pinyin": "Tā měi cì bù zài jiā, yào me qù le tú shū guǎn, yào me qù le qiú chǎng。",
+    "en": "Whenever he's out, he's either at the library or the ball court."
+   },
+   {
+    "zh": "这笔钱要么存起来,要么用来投资,别乱花。",
+    "pinyin": "Zhè bǐ qián yào me cún qǐ lái, yào me yòng lái tóu zī, bié luàn huā。",
+    "en": "This money — either save it or invest it; don't waste it."
+   },
+   {
+    "zh": "你要么答应,要么拒绝,别一直让人家等着。",
+    "pinyin": "Nǐ yào me dā yìng, yào me jù jué, bié yì zhí ràng rén jiā děng zhe。",
+    "en": "Either accept or refuse; don't keep them waiting."
+   },
+   {
+    "zh": "周末我们要么去看海,要么去爬山,反正得出去走走。",
+    "pinyin": "Zhōu mò wǒ men yào me qù kàn hǎi, yào me qù pá shān, fǎn zhèng dé chū qù zǒu zǒu。",
+    "en": "This weekend, either the sea or the mountains; either way, let's get out."
+   },
+   {
+    "zh": "这种性格的人,要么很受欢迎,要么容易得罪人。",
+    "pinyin": "Zhè zhǒng xìng gé de rén, yào me hěn shòu huān yíng, yào me róng yì dé zuì rén。",
+    "en": "People of this temperament are either well-liked or easily offend others."
+   },
+   {
+    "zh": "你要么相信我一次,要么就当我什么都没说。",
+    "pinyin": "Nǐ yào me xiāng xìn wǒ yī cì, yào me jiù dāng wǒ shén me dōu méi shuō。",
+    "en": "Either trust me this once, or pretend I said nothing."
+   },
+   {
+    "zh": "这件事要么现在解决,要么以后会带来更大的麻烦。",
+    "pinyin": "Zhè jiàn shì yào me xiàn zài jiě jué, yào me yǐ hòu huì dài lái gèng dà de má fán。",
+    "en": "Either solve this now, or it'll bring bigger trouble later."
+   },
+   {
+    "zh": "他晚上要么加班,要么应酬,很少能按时回家。",
+    "pinyin": "Tā wǎn shàng yào me jiā bān, yào me yìng chóu, hěn shǎo néng àn shí huí jiā。",
+    "en": "In the evenings he's either working overtime or socializing, rarely home on time."
+   },
+   {
+    "zh": "你要么跟我们一起去,要么在家等我们回来。",
+    "pinyin": "Nǐ yào me gēn wǒ men yì qǐ qù, yào me zài jiā děng wǒ men huí lái。",
+    "en": "Either come with us, or wait at home for us to return."
+   },
+   {
+    "zh": "这种花要么放在阳光下,要么放在通风处,才能养好。",
+    "pinyin": "Zhè zhòng huā yào me fàng zài yáng guāng xià, yào me fàng zài tōng fēng chù, cái néng yǎng hǎo。",
+    "en": "This flower must be kept either in sunlight or in a ventilated spot to thrive."
+   }
+  ]
+ },
+ {
+  "id": "g266",
+  "level": 3,
+  "title": "\"除了...(以外)\" ile \"...-den başka / ...-in dışında\"",
+  "titleEn": "Expressing \"except\" and \"in addition\" with \"chule… yiwai\"",
+  "pattern": "除了 ... (以外)，Özne + 都 / 也 / 还 ...",
+  "summary": "\"除了...(以外)\" iki anlam taşır: dışlama (...hariç, ...都) ve ekleme (...-den başka bir de, ...还): 除了他,大家都来了 = Ondan başka herkes geldi.",
+  "explanation": "\"除了...(以外)\" bir öğeyi çerçeve dışına alır ve ardından gelen bağlaca göre iki farklı anlam verir: (1) DIŞLAMA — \"...都/也\" ile: \"...hariç, ...dışında (gerisi hepsi)\": 除了小王,我们都去过北京 (Xiao Wang hariç hepimiz Pekin'e gittik). (2) EKLEME — \"...还/也\" ile: \"...-den başka, ...-e ek olarak (bir de)\": 他除了会英语,还会法语 (İngilizcenin yanında Fransızca da bilir), 除了工作,他还要照顾家 (İşin yanı sıra bir de aileye bakıyor). Yani ardından \"都\" gelirse dışlama, \"还/也\" gelirse ekleme olur — anahtar ayrım budur. \"以外\" isteğe bağlıdır (除了他 = 除了他以外). Türkçedeki \"...-den başka, ...hariç, ...-in dışında, ...-e ek olarak\" ifadelerine denk gelir; bir şeyi kapsam dışına almanın ya da eklemenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "除了小王生病没来,我们班的同学今天都到齐了。",
+    "pinyin": "Chú le xiǎo wáng shēng bìng méi lái, wǒ men bān de tóng xué jīn tiān dōu dào qí le。",
+    "en": "Except for Xiao Wang who's sick, all our classmates are here today."
+   },
+   {
+    "zh": "他除了会说汉语,还会说英语和一点点日语。",
+    "pinyin": "Tā chú le huì shuō hàn yǔ, hái huì shuō yīng yǔ hé yì diǎn diǎn rì yǔ。",
+    "en": "Besides Chinese, he can also speak English and a little Japanese."
+   },
+   {
+    "zh": "除了周末,他几乎每天都要加班到很晚。",
+    "pinyin": "Chú le zhōu mò, tā jī hū měi tiān dōu yào jiā bān dào hěn wǎn。",
+    "en": "Except on weekends, he works overtime late almost every day."
+   },
+   {
+    "zh": "这道菜除了放盐,还要放一点糖提味。",
+    "pinyin": "Zhè dào cài chú le fàng yán, hái yào fàng yì diǎn táng tí wèi。",
+    "en": "Besides salt, this dish needs a bit of sugar for flavor."
+   },
+   {
+    "zh": "除了你,没有人知道这个秘密,你可别说出去。",
+    "pinyin": "Chú le nǐ, méi yǒu rén zhī dào zhè ge mì mì, nǐ kě bié shuō chū qù。",
+    "en": "Except you, no one knows this secret; don't tell anyone."
+   },
+   {
+    "zh": "他除了工作认真,为人也特别热心,大家都喜欢他。",
+    "pinyin": "Tā chú le gōng zuò rèn zhēn, wéi rén yě tè bié rè xīn, dà jiā dōu xǐ huān tā。",
+    "en": "Besides being serious at work, he's very warm-hearted; everyone likes him."
+   },
+   {
+    "zh": "除了下雨天,他每天早上都会去公园跑步。",
+    "pinyin": "Chú le xià yǔ tiān, tā měi tiān zǎo shàng dū huì qù gōng yuán pǎo bù。",
+    "en": "Except on rainy days, he runs in the park every morning."
+   },
+   {
+    "zh": "这次旅行,除了看风景,我们还品尝了很多当地美食。",
+    "pinyin": "Zhè cì lǚ xíng, chú le kàn fēng jǐng, wǒ men hái pǐn cháng le hěn duō dāng dì měi shí。",
+    "en": "On this trip, besides sightseeing, we also tasted much local food."
+   },
+   {
+    "zh": "除了这一件,店里其他的衣服我都不太喜欢。",
+    "pinyin": "Chú le zhè yī jiàn, diàn lǐ qí tā de yī fú wǒ dōu bù tài xǐ huān。",
+    "en": "Except this one, I don't much like the other clothes in the shop."
+   },
+   {
+    "zh": "他除了每天读书,还坚持写日记,已经很多年了。",
+    "pinyin": "Tā chú le měi tiān dú shū, hái jiān chí xiě rì jì, yǐ jīng hěn duō nián le。",
+    "en": "Besides reading daily, he keeps a diary too, for many years now."
+   },
+   {
+    "zh": "除了必要的开支,他把剩下的钱都存了起来。",
+    "pinyin": "Chú le bì yào de kāi zhī, tā bǎ shèng xià de qián dōu cún le qǐ lái。",
+    "en": "Except for necessary expenses, he saved all the remaining money."
+   },
+   {
+    "zh": "这个孩子除了聪明,最难得的是特别懂事。",
+    "pinyin": "Zhè ge hái zi chú le cōng míng, zuì nán de de shì tè bié dǒng shì。",
+    "en": "Besides being smart, what's most precious is this child's good sense."
+   },
+   {
+    "zh": "除了他俩,别人对这件事都不太了解。",
+    "pinyin": "Chú le tā liǎ, bié rén duì zhè jiàn shì dōu bù tài liǎo jiě。",
+    "en": "Except for those two, others don't know much about this."
+   },
+   {
+    "zh": "我除了想谢谢你,还想向你道个歉。",
+    "pinyin": "Wǒ chú le xiǎng xiè xiè nǐ, hái xiǎng xiàng nǐ dào gè qiàn。",
+    "en": "Besides thanking you, I also want to apologize to you."
+   },
+   {
+    "zh": "除了偶尔感冒,他的身体一直都很健康。",
+    "pinyin": "Chú le ǒu ěr gǎn mào, tā de shēn tǐ yì zhí dōu hěn jiàn kāng。",
+    "en": "Except for the occasional cold, his health has always been good."
+   },
+   {
+    "zh": "这家店除了卖咖啡,还提供各种精致的点心。",
+    "pinyin": "Zhè jiā diàn chú le mài kā fēi, hái tí gōng gè zhǒng jīng zhì de diǎn xīn。",
+    "en": "Besides coffee, this shop offers all kinds of fine pastries."
+   },
+   {
+    "zh": "除了语文,他其他科目的成绩都很不错。",
+    "pinyin": "Chú le yǔ wén, tā qí tā kē mù dì chéng jì dōu hěn bú cuò。",
+    "en": "Except for Chinese, his grades in other subjects are all good."
+   },
+   {
+    "zh": "他除了照顾好自己的工作,还常常帮助别人。",
+    "pinyin": "Tā chú le zhào gù hǎo zì jǐ de gōng zuò, hái cháng cháng bāng zhù bié rén。",
+    "en": "Besides handling his own work, he often helps others."
+   },
+   {
+    "zh": "除了那次误会,我们相处得一直很融洽。",
+    "pinyin": "Chú le nà cì wù huì, wǒ men xiāng chǔ de yì zhí hěn róng qià。",
+    "en": "Except for that misunderstanding, we've always gotten along well."
+   },
+   {
+    "zh": "除了会做家常菜,妈妈还会做很多地方特色小吃。",
+    "pinyin": "Chú le huì zuò jiā cháng cài, mā mā hái huì zuò hěn duō dì fāng tè sè xiǎo chī。",
+    "en": "Besides home cooking, mom can make many regional specialties."
+   },
+   {
+    "zh": "除了他一个人反对,其他人都同意了这个方案。",
+    "pinyin": "Chú le tā yí gè rén fǎn duì, qí tā rén dōu tóng yì le zhè ge fāng àn。",
+    "en": "Except for him alone opposing, everyone agreed to the plan."
+   },
+   {
+    "zh": "学好一门语言,除了多听多说,还得多读多写。",
+    "pinyin": "Xué hǎo yī mén yǔ yán, chú le duō tīng duō shuō, hái de duō dú duō xiě。",
+    "en": "To master a language, besides listening and speaking, read and write more."
+   },
+   {
+    "zh": "除了睡觉,他几乎所有的时间都花在了研究上。",
+    "pinyin": "Chú le shuì jiào, tā jī hū suǒ yǒu de shí jiān dōu huā zài le yán jiū shàng。",
+    "en": "Except for sleeping, he spends almost all his time on research."
+   },
+   {
+    "zh": "这个公园除了适合散步,还很适合拍照。",
+    "pinyin": "Zhè ge gōng yuán chú le shì hé sàn bù, hái hěn shì hé pāi zhào。",
+    "en": "Besides being good for walks, this park is great for photos too."
+   },
+   {
+    "zh": "除了偶尔出差,他基本上每天都在家吃晚饭。",
+    "pinyin": "Chú le ǒu ěr chū chāi, tā jī běn shàng měi tiān dōu zài jiā chī wǎn fàn。",
+    "en": "Except for occasional business trips, he eats dinner at home daily."
+   }
+  ]
+ },
+ {
+  "id": "g267",
+  "level": 3,
+  "title": "\"还好...不然...\" ile \"iyi ki ... yoksa ...\"",
+  "titleEn": "Expressing good luck with \"haihao\"",
+  "pattern": "还好 + Şanslı Durum，不然 + Kötü Sonuç",
+  "summary": "\"还好...不然...\" bir talihi ve atlatılan kötü sonucu anlatır: 还好我带了伞,不然就淋湿了 = İyi ki şemsiye almışım, yoksa ıslanacaktım.",
+  "explanation": "\"还好...不然...\" (ya da \"幸亏/幸好...不然/否则...\") kalıbı, ŞANS eseri gerçekleşen bir durumu ve o olmasaydı doğacak KÖTÜ sonucu anlatır: \"iyi ki/neyse ki ..., yoksa/aksi takdirde ...\". 还好你提醒了我,不然我就把这件重要的事忘了 (İyi ki hatırlattın, yoksa bu önemli şeyi unutacaktım), 幸好走得早,不然就赶不上火车了 (Neyse ki erken çıktık, yoksa treni kaçıracaktık). İlk bölüm (还好...) atlatılan iyi durumu, ikinci bölüm (不然/否则...) o olmasaydı olacak olumsuz sonucu bildirir. \"还好/幸好/幸亏\" eş anlamlıdır; \"不然/要不然/否则\" de birbirinin yerine geçer. Konuşmacı rahatlama, şükran ya da \"ucuz kurtulduk\" hissini yansıtır. Türkçedeki \"iyi ki ... yoksa ..., neyse ki ... aksi takdirde ...\" kalıbına birebir denk gelir; bir talihi vurgulamanın doğal yoludur.",
+  "examples": [
+   {
+    "zh": "还好你及时提醒了我,不然我真会把这件事忘得一干二净。",
+    "pinyin": "Hái hǎo nǐ jí shí tí xǐng le wǒ, bù rán wǒ zhēn huì bǎ zhè jiàn shì wàng de yī gān èr jìng。",
+    "en": "Good thing you reminded me in time, or I'd have forgotten it completely."
+   },
+   {
+    "zh": "幸好出门带了伞,不然这场大雨非把我淋成落汤鸡不可。",
+    "pinyin": "Xìng hǎo chū mén dài le sǎn, bù rán zhè chǎng dà yǔ fēi bǎ wǒ lín chéng luò tāng jī bù kě。",
+    "en": "Luckily I brought an umbrella, or this downpour would have soaked me."
+   },
+   {
+    "zh": "还好我们走得早,不然肯定会赶上下班的堵车高峰。",
+    "pinyin": "Hái hǎo wǒ men zǒu de zǎo, bù rán kěn dìng huì gǎn shàng xià bān de dǔ chē gāo fēng。",
+    "en": "Good thing we left early, or we'd have hit the rush-hour traffic."
+   },
+   {
+    "zh": "幸亏医生发现得早,不然后果真是不堪设想。",
+    "pinyin": "Xìng kuī yī shēng fà xiàn de zǎo, bù rán hòu guǒ zhēn shì bù kān shè xiǎng。",
+    "en": "Fortunately the doctor caught it early, or the outcome would be unthinkable."
+   },
+   {
+    "zh": "还好当时有人扶了他一把,不然他就摔下台阶了。",
+    "pinyin": "Hái hǎo dāng shí yǒu rén fú le tā yī bǎ, bù rán tā jiù shuāi xià tái jiē le。",
+    "en": "Good thing someone steadied him, or he'd have fallen down the steps."
+   },
+   {
+    "zh": "幸好我多带了一件外套,不然晚上冷得根本受不了。",
+    "pinyin": "Xìng hǎo wǒ duō dài le yī jiàn wài tào, bù rán wǎn shàng lěng de gēn běn shòu bù liǎo。",
+    "en": "Luckily I brought an extra coat, or the night's cold would be unbearable."
+   },
+   {
+    "zh": "还好我提前订了票,不然这么热门的场次肯定买不到。",
+    "pinyin": "Hái hǎo wǒ tí qián dìng le piào, bù rán zhè me rè mén de chǎng cì kěn dìng mǎi bú dào。",
+    "en": "Good thing I booked early, or such a popular show would be sold out."
+   },
+   {
+    "zh": "幸亏你借给我钱,不然我那天真不知道该怎么办。",
+    "pinyin": "Xìng kuī nǐ jiè gěi wǒ qián, bù rán wǒ nà tiān zhēn bù zhī dào gāi zěn me bàn。",
+    "en": "Fortunately you lent me money, or I wouldn't have known what to do."
+   },
+   {
+    "zh": "还好这条路我熟,不然在这么大的雾里非迷路不可。",
+    "pinyin": "Hái hǎo zhè tiáo lù wǒ shú, bù rán zài zhè me dà de wù lǐ fēi mí lù bù kě。",
+    "en": "Good thing I know this road, or I'd surely get lost in such fog."
+   },
+   {
+    "zh": "幸好没买那只股票,不然这次可就亏大了。",
+    "pinyin": "Xìng hǎo méi mǎi nà zhǐ gǔ piào, bù rán zhè cì kě jiù kuī dà le。",
+    "en": "Luckily I didn't buy that stock, or I'd have lost big this time."
+   },
+   {
+    "zh": "还好我存了备份,不然电脑一坏,资料就全没了。",
+    "pinyin": "Hái hǎo wǒ cún le bèi fèn, bù rán diàn nǎo yī huài, zī liào jiù quán méi le。",
+    "en": "Good thing I had a backup, or the crash would've lost all the data."
+   },
+   {
+    "zh": "幸亏他反应快,一把抓住了那个快要摔倒的孩子。",
+    "pinyin": "Xìng kuī tā fǎn yìng kuài, yī bǎ zhuā zhù le nà ge kuài yào shuāi dǎo de hái zi。",
+    "en": "Fortunately he reacted fast and caught the child about to fall."
+   },
+   {
+    "zh": "还好带了充电宝,不然手机没电就联系不上你了。",
+    "pinyin": "Hái hǎo dài le chōng diàn bǎo, bù rán shǒu jī méi diàn jiù lián xì bù shàng nǐ le。",
+    "en": "Good thing I brought a power bank, or a dead phone would cut us off."
+   },
+   {
+    "zh": "幸好锅盖盖得及时,不然汤就要溢得满灶台都是了。",
+    "pinyin": "Xìng hǎo guō gài gài de jí shí, bù rán tāng jiù yào yì de mǎn zào tái dōu shì le。",
+    "en": "Luckily I put the lid on in time, or the soup would've spilled everywhere."
+   },
+   {
+    "zh": "还好你今天没出门,不然就错过这位难得的客人了。",
+    "pinyin": "Hái hǎo nǐ jīn tiān méi chū mén, bù rán jiù cuò guò zhè wèi nán de de kè rén le。",
+    "en": "Good thing you stayed in, or you'd have missed this rare guest."
+   },
+   {
+    "zh": "幸亏我留了个心眼,不然差点就上了骗子的当。",
+    "pinyin": "Xìng kuī wǒ liú le gè xīn yǎn, bù rán chà diǎn jiù shàng le piàn zi dí dàng。",
+    "en": "Fortunately I was careful, or I'd almost have fallen for the scam."
+   },
+   {
+    "zh": "还好房间朝南,采光好,不然冬天该多阴冷啊。",
+    "pinyin": "Hái hǎo fáng jiān cháo nán, cǎi guāng hǎo, bù rán dōng tiān gāi duō yīn lěng a。",
+    "en": "Good thing the room faces south with good light, or winter would be gloomy."
+   },
+   {
+    "zh": "幸好提前看了天气预报,不然就白跑一趟了。",
+    "pinyin": "Xìng hǎo tí qián kàn le tiān qì yù bào, bù rán jiù bái pǎo yī tàng le。",
+    "en": "Luckily I checked the forecast, or the trip would've been for nothing."
+   },
+   {
+    "zh": "还好这次考试题目不难,不然我肯定过不了关。",
+    "pinyin": "Hái hǎo zhè cì kǎo shì tí mù bù nán, bù rán wǒ kěn dìng guò bù liǎo guān。",
+    "en": "Good thing this exam wasn't hard, or I surely wouldn't have passed."
+   },
+   {
+    "zh": "幸亏当年坚持了下来,不然就没有今天的成绩了。",
+    "pinyin": "Xìng kuī dāng nián jiān chí le xià lái, bù rán jiù méi yǒu jīn tiān de chéng jì le。",
+    "en": "Fortunately I persevered back then, or there'd be no success today."
+   },
+   {
+    "zh": "还好邻居帮忙看着孩子,不然我真抽不开身。",
+    "pinyin": "Hái hǎo lín jū bāng máng kàn zhe hái zi, bù rán wǒ zhēn chōu bù kāi shēn。",
+    "en": "Good thing the neighbor watched the child, or I couldn't have gotten away."
+   },
+   {
+    "zh": "幸好车速不快,不然这次事故的后果就严重了。",
+    "pinyin": "Xìng hǎo chē sù bù kuài, bù rán zhè cì shì gù de hòu guǒ jiù yán zhòng le。",
+    "en": "Luckily the car wasn't fast, or the accident's outcome would be serious."
+   },
+   {
+    "zh": "还好我多问了一句,不然就把地址记错了。",
+    "pinyin": "Hái hǎo wǒ duō wèn le yī jù, bù rán jiù bǎ dì zhǐ jì cuò le。",
+    "en": "Good thing I asked one more question, or I'd have gotten the address wrong."
+   },
+   {
+    "zh": "幸亏平时有积蓄,不然这次生病真是措手不及。",
+    "pinyin": "Xìng kuī píng shí yǒu jī xù, bù rán zhè cì shēng bìng zhēn shì cuò shǒu bù jí。",
+    "en": "Fortunately I had savings, or this illness would've caught me unprepared."
+   },
+   {
+    "zh": "还好你陪着我,不然一个人在医院我真的很害怕。",
+    "pinyin": "Hái hǎo nǐ péi zhe wǒ, bù rán yí gè rén zài yī yuàn wǒ zhēn de hěn hài pà。",
+    "en": "Good thing you kept me company, or I'd be really scared alone at the hospital."
+   }
+  ]
+ },
+ {
+  "id": "g268",
+  "level": 3,
+  "title": "\"如果...就...\" ile koşul-sonuç",
+  "titleEn": "Expressing \"if... then...\" with \"ruguo... jiu...\"",
+  "pattern": "如果 ...，就 ...",
+  "summary": "\"如果...就...\" (rúguǒ...jiù...) bir koşulu ve sonucunu bağlar: 如果明天下雨,我们就不去了 = Yarın yağmur yağarsa gitmeyiz.",
+  "explanation": "\"如果...就...\" bir KOŞULU ve o koşul gerçekleşirse doğacak SONUCU bağlar: \"eğer ..., o zaman/o hâlde ...\". Kalıp: 如果 + koşul，(özne) + 就 + sonuç. 如果你有时间,就来我家坐坐 (Vaktin olursa bize uğra), 如果明天不下雨,我们就去公园 (Yarın yağmur yağmazsa parka gideriz). \"如果\" koşulu tanıtır (cümle başında), \"就\" ise sonucu bağlar (ikinci cümlede, yüklemden önce). Türkçenin aksine iki öğe (如果 + 就) BİRLİKTE kullanılır. \"如果\" bazen düşüp yalnız \"就\" kalabilir ya da \"要是/假如\" ile değiştirilebilir (要是 daha konuşma dili). Gerçek, olası ya da varsayımsal koşullar için kullanılır. Türkçedeki \"eğer ..., o zaman ...; ...-sa ...\" koşul kalıbına birebir denk gelir; koşul-sonuç ilişkisini anlatmanın en temel yoludur.",
+  "examples": [
+   {
+    "zh": "如果明天天气好,我们就一起去公园放风筝。",
+    "pinyin": "Rú guǒ míng tiān tiān qì hǎo, wǒ men jiù yì qǐ qù gōng yuán fàng fēng zhēng。",
+    "en": "If the weather's good tomorrow, we'll fly kites in the park together."
+   },
+   {
+    "zh": "如果你实在不舒服,就早点回家休息,别硬撑。",
+    "pinyin": "Rú guǒ nǐ shí zài bù shū fú, jiù zǎo diǎn huí jiā xiū xī, bié yìng chēng。",
+    "en": "If you really feel unwell, go home and rest early; don't push it."
+   },
+   {
+    "zh": "如果这次考试通过了,爸爸就带我去游乐园。",
+    "pinyin": "Rú guǒ zhè cì kǎo shì tōng guò le, bà bà jiù dài wǒ qù yóu lè yuán。",
+    "en": "If I pass this exam, dad will take me to the amusement park."
+   },
+   {
+    "zh": "如果你有什么困难,就直接跟我说,别不好意思。",
+    "pinyin": "Rú guǒ nǐ yǒu shén me kùn nán, jiù zhí jiē gēn wǒ shuō, bié bù hǎo yì sī。",
+    "en": "If you have any difficulty, tell me directly; don't be shy."
+   },
+   {
+    "zh": "如果路上堵车,我们就改坐地铁,肯定来得及。",
+    "pinyin": "Rú guǒ lù shàng dǔ chē, wǒ men jiù gǎi zuò dì tiě, kěn dìng lái de jí。",
+    "en": "If there's traffic, we'll switch to the subway; we'll surely make it."
+   },
+   {
+    "zh": "如果你喜欢这本书,就拿去看吧,不用还我。",
+    "pinyin": "Rú guǒ nǐ xǐ huān zhè běn shū, jiù ná qù kàn ba, bù yòng hái wǒ。",
+    "en": "If you like this book, take it to read; no need to return it."
+   },
+   {
+    "zh": "如果大家都同意,这件事我们就这么定了。",
+    "pinyin": "Rú guǒ dà jiā dōu tóng yì, zhè jiàn shì wǒ men jiù zhè me dìng le。",
+    "en": "If everyone agrees, we'll settle this matter this way."
+   },
+   {
+    "zh": "如果明天他还不来,我们就先出发,不等他了。",
+    "pinyin": "Rú guǒ míng tiān tā hái bù lái, wǒ men jiù xiān chū fā, bù děng tā le。",
+    "en": "If he still doesn't come tomorrow, we'll set off without him."
+   },
+   {
+    "zh": "如果你想学好汉语,就得每天坚持练习。",
+    "pinyin": "Rú guǒ nǐ xiǎng xué hǎo hàn yǔ, jiù de měi tiān jiān chí liàn xí。",
+    "en": "If you want to master Chinese, you must practice every day."
+   },
+   {
+    "zh": "如果预算不够,我们就选一个便宜一点的方案。",
+    "pinyin": "Rú guǒ yù suàn bù gòu, wǒ men jiù xuǎn yí gè pián yi yì diǎn de fāng àn。",
+    "en": "If the budget isn't enough, we'll choose a cheaper plan."
+   },
+   {
+    "zh": "如果你饿了,冰箱里有吃的,就自己热一下。",
+    "pinyin": "Rú guǒ nǐ è le, bīng xiāng lǐ yǒu chī de, jiù zì jǐ rè yī xià。",
+    "en": "If you're hungry, there's food in the fridge; just heat it up."
+   },
+   {
+    "zh": "如果这个办法行不通,我们就换一个思路再试。",
+    "pinyin": "Rú guǒ zhè ge bàn fǎ xíng bù tōng, wǒ men jiù huàn yí gè sī lù zài shì。",
+    "en": "If this method doesn't work, we'll try a different approach."
+   },
+   {
+    "zh": "如果他真心想改,我们就再给他一次机会。",
+    "pinyin": "Rú guǒ tā zhēn xīn xiǎng gǎi, wǒ men jiù zài gěi tā yī cì jī huì。",
+    "en": "If he sincerely wants to change, we'll give him another chance."
+   },
+   {
+    "zh": "如果周末有空,我就回老家看看年迈的父母。",
+    "pinyin": "Rú guǒ zhōu mò yǒu kòng, wǒ jiù huí lǎo jiā kàn kàn nián mài de fù mǔ。",
+    "en": "If I'm free on the weekend, I'll go home to see my aging parents."
+   },
+   {
+    "zh": "如果你现在出发,就能赶上最后一班车。",
+    "pinyin": "Rú guǒ nǐ xiàn zài chū fā, jiù néng gǎn shàng zuì hòu yī bān chē。",
+    "en": "If you leave now, you can catch the last bus."
+   },
+   {
+    "zh": "如果天气一直这么干,地里的庄稼就麻烦了。",
+    "pinyin": "Rú guǒ tiān qì yì zhí zhè me gàn, de lǐ de zhuāng jià jiù má fán le。",
+    "en": "If the weather stays this dry, the crops will be in trouble."
+   },
+   {
+    "zh": "如果你觉得累了,咱们就找个地方歇一歇。",
+    "pinyin": "Rú guǒ nǐ jué de lèi le, zán men jiù zhǎo gè dì fāng xiē yī xiē。",
+    "en": "If you feel tired, we'll find somewhere to rest."
+   },
+   {
+    "zh": "如果这次机会错过了,以后可就不好找了。",
+    "pinyin": "Rú guǒ zhè cì jī huì cuò guò le, yǐ hòu kě jiù bù hǎo zhǎo le。",
+    "en": "If we miss this chance, it'll be hard to find again."
+   },
+   {
+    "zh": "如果你需要,我可以随时过来帮你的忙。",
+    "pinyin": "Rú guǒ nǐ xū yào, wǒ kě yǐ suí shí guò lái bāng nǐ de máng。",
+    "en": "If you need it, I can come help you anytime."
+   },
+   {
+    "zh": "如果他早点听劝,事情就不会闹到这个地步。",
+    "pinyin": "Rú guǒ tā zǎo diǎn tīng quàn, shì qíng jiù bú huì nào dào zhè ge de bù。",
+    "en": "If he'd taken advice earlier, things wouldn't have come to this."
+   },
+   {
+    "zh": "如果价钱合适,这套房子我们就买下来。",
+    "pinyin": "Rú guǒ jià qián hé shì, zhè tào fáng zi wǒ men jiù mǎi xià lái。",
+    "en": "If the price is right, we'll buy this apartment."
+   },
+   {
+    "zh": "如果你实在拿不定主意,就多听听别人的意见。",
+    "pinyin": "Rú guǒ nǐ shí zài ná bù dìng zhǔ yì, jiù duō tīng tīng bié rén de yì jiàn。",
+    "en": "If you really can't decide, listen more to others' opinions."
+   },
+   {
+    "zh": "如果明天不加班,晚上我就请你吃顿好的。",
+    "pinyin": "Rú guǒ míng tiān bù jiā bān, wǎn shàng wǒ jiù qǐng nǐ chī dùn hǎo de。",
+    "en": "If there's no overtime tomorrow, I'll treat you to a nice dinner."
+   },
+   {
+    "zh": "如果坚持不下去了,就休息一会儿再继续。",
+    "pinyin": "Rú guǒ jiān chí bù xià qù le, jiù xiū xī yī huì er zài jì xù。",
+    "en": "If you can't keep going, rest a while and then continue."
+   },
+   {
+    "zh": "如果你们都准备好了,那我们现在就出发吧。",
+    "pinyin": "Rú guǒ nǐ men dōu zhǔn bèi hǎo le, nà wǒ men xiàn zài jiù chū fā ba。",
+    "en": "If you're all ready, then let's set off now."
+   }
+  ]
+ },
+ {
+  "id": "g269",
+  "level": 3,
+  "title": "\"如果...的话\" ile yumuşak koşul",
+  "titleEn": "Expressing \"if\" with \"ruguo... dehua\"",
+  "pattern": "如果 ... (的话)，(就) ...",
+  "summary": "\"如果...的话\" koşulu yumuşak biçimde sunar: 如果你有时间的话,就来吧 = Vaktin olursa gel.",
+  "explanation": "\"如果...的话\" bir koşulu YUMUŞAK, daha rahat bir tonda sunar. \"的话\" koşul cümlesinin SONUNA eklenir ve \"...-sa, ...ise, ... olursa\" anlamını pekiştirir: 如果你不喜欢的话,咱们可以换一个 (Beğenmezsen değiştirebiliriz), 有时间的话,记得给我回个电话 (Vaktin olursa beni ara). \"如果\" bazen düşüp yalnız \"...的话\" kalabilir: 累的话就休息一下 (Yorgunsan biraz dinlen). \"的话\", koşulu daha kibar, dolaylı ve konuşma diline uygun kılar; \"如果/要是\" ile birlikte ya da tek başına gelebilir. Ana cümlede çoğu zaman \"就\" bulunur. \"如果...就...\" ile aynı işlevi görür; \"的话\" eklenince ton daha samimi/nazik olur. Türkçedeki \"...-sa, ... olursa, eğer ...-sen\" koşul ifadelerine denk gelir; koşulu nazikçe belirtmenin çok yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "如果方便的话,你能不能帮我带一份午饭回来?",
+    "pinyin": "Rú guǒ fāng biàn de huà, nǐ néng bù néng bāng wǒ dài yī fèn wǔ fàn huí lái?",
+    "en": "If it's convenient, could you bring me back a lunch?"
+   },
+   {
+    "zh": "你要是累了的话,就先去睡吧,剩下的我来收拾。",
+    "pinyin": "Nǐ yào shì lèi le de huà, jiù xiān qù shuì ba, shèng xià de wǒ lái shōu shí。",
+    "en": "If you're tired, go to sleep; I'll clean up the rest."
+   },
+   {
+    "zh": "如果明天不下雨的话,我们就去海边走走。",
+    "pinyin": "Rú guǒ míng tiān bù xià yǔ de huà, wǒ men jiù qù hǎi biān zǒu zǒu。",
+    "en": "If it doesn't rain tomorrow, we'll take a walk by the sea."
+   },
+   {
+    "zh": "有什么想法的话,你尽管提出来,大家一起讨论。",
+    "pinyin": "Yǒu shén me xiǎng fǎ de huà, nǐ jǐn guǎn tí chū lái, dà jiā yì qǐ tǎo lùn。",
+    "en": "If you have any ideas, feel free to raise them for discussion."
+   },
+   {
+    "zh": "如果你实在不想去的话,我也不勉强你。",
+    "pinyin": "Rú guǒ nǐ shí zài bù xiǎng qù de huà, wǒ yě bù miǎn qiǎng nǐ。",
+    "en": "If you really don't want to go, I won't force you."
+   },
+   {
+    "zh": "这道菜要是太淡的话,你可以再加点儿盐。",
+    "pinyin": "Zhè dào cài yào shì tài dàn de huà, nǐ kě yǐ zài jiā diǎn ér yán。",
+    "en": "If this dish is too bland, you can add more salt."
+   },
+   {
+    "zh": "如果时间来得及的话,咱们顺路去看看老张。",
+    "pinyin": "Rú guǒ shí jiān lái de jí de huà, zán men shùn lù qù kàn kàn lǎo zhāng。",
+    "en": "If there's time, let's drop by to see Old Zhang on the way."
+   },
+   {
+    "zh": "你要是不放心的话,我可以陪你一起去。",
+    "pinyin": "Nǐ yào shì bù fàng xīn de huà, wǒ kě yǐ péi nǐ yì qǐ qù。",
+    "en": "If you're worried, I can go with you."
+   },
+   {
+    "zh": "如果这个价钱能便宜点儿的话,我就马上买。",
+    "pinyin": "Rú guǒ zhè ge jià qián néng pián yi diǎn ér de huà, wǒ jiù mǎ shàng mǎi。",
+    "en": "If the price could be a bit lower, I'd buy it right away."
+   },
+   {
+    "zh": "有不明白的地方的话,随时可以来问我。",
+    "pinyin": "Yǒu bù míng bái de dì fāng de huà, suí shí kě yǐ lái wèn wǒ。",
+    "en": "If there's anything you don't understand, ask me anytime."
+   },
+   {
+    "zh": "如果你早点告诉我的话,我就能早做准备了。",
+    "pinyin": "Rú guǒ nǐ zǎo diǎn gào sù wǒ de huà, wǒ jiù néng zǎo zuò zhǔn bèi le。",
+    "en": "If you'd told me earlier, I could have prepared sooner."
+   },
+   {
+    "zh": "天气好的话,这个周末咱们去爬山怎么样?",
+    "pinyin": "Tiān qì hǎo de huà, zhè ge zhōu mò zán men qù pá shān zěn me yàng?",
+    "en": "If the weather's nice, how about hiking this weekend?"
+   },
+   {
+    "zh": "如果他答应的话,这件事就好办多了。",
+    "pinyin": "Rú guǒ tā dā yìng de huà, zhè jiàn shì jiù hǎo bàn duō le。",
+    "en": "If he agrees, this matter will be much easier."
+   },
+   {
+    "zh": "你要是喜欢的话,这个小礼物就送给你了。",
+    "pinyin": "Nǐ yào shì xǐ huān de huà, zhè ge xiǎo lǐ wù jiù sòng gěi nǐ le。",
+    "en": "If you like it, this little gift is for you."
+   },
+   {
+    "zh": "如果实在联系不上他的话,你就直接找他家人。",
+    "pinyin": "Rú guǒ shí zài lián xì bù shàng tā de huà, nǐ jiù zhí jiē zhǎo tā jiā rén。",
+    "en": "If you really can't reach him, contact his family directly."
+   },
+   {
+    "zh": "身体不舒服的话,今天就别来上班了,好好休息。",
+    "pinyin": "Shēn tǐ bù shū fú de huà, jīn tiān jiù bié lái shàng bān le, hǎo hǎo xiū xī。",
+    "en": "If you're unwell, don't come to work today; rest well."
+   },
+   {
+    "zh": "如果计划有变的话,请一定提前通知大家。",
+    "pinyin": "Rú guǒ jì huà yǒu biàn de huà, qǐng yí dìng tí qián tōng zhī dà jiā。",
+    "en": "If plans change, please notify everyone in advance."
+   },
+   {
+    "zh": "你要是有兴趣的话,可以跟我们一起报名参加。",
+    "pinyin": "Nǐ yào shì yǒu xìng qù de huà, kě yǐ gēn wǒ men yì qǐ bào míng cān jiā。",
+    "en": "If you're interested, you can sign up with us."
+   },
+   {
+    "zh": "如果一切顺利的话,我们下个月就能搬进新家了。",
+    "pinyin": "Rú guǒ yī qiè shùn lì de huà, wǒ men xià gè yuè jiù néng bān jìn xīn jiā le。",
+    "en": "If all goes well, we'll move into the new home next month."
+   },
+   {
+    "zh": "有需要帮忙的地方的话,别客气,尽管开口。",
+    "pinyin": "Yǒu xū yào bāng máng de dì fāng de huà, bié kè qì, jǐn guǎn kāi kǒu。",
+    "en": "If there's anything you need help with, don't be shy, just ask."
+   },
+   {
+    "zh": "如果你决定好了的话,咱们现在就把手续办了。",
+    "pinyin": "Rú guǒ nǐ jué dìng hǎo le de huà, zán men xiàn zài jiù bǎ shǒu xù bàn le。",
+    "en": "If you've decided, let's take care of the paperwork now."
+   },
+   {
+    "zh": "路不熟的话,你最好打开导航跟着走。",
+    "pinyin": "Lù bù shú de huà, nǐ zuì hǎo dǎ kāi dǎo háng gēn zhe zǒu。",
+    "en": "If you don't know the way, best follow the navigation."
+   },
+   {
+    "zh": "如果他还是不肯听劝的话,那也只能随他去了。",
+    "pinyin": "Rú guǒ tā hái shì bù kěn tīng quàn de huà, nà yě zhǐ néng suí tā qù le。",
+    "en": "If he still won't take advice, we can only let him be."
+   },
+   {
+    "zh": "你要是觉得冷的话,把窗户关上就行。",
+    "pinyin": "Nǐ yào shì jué de lěng de huà, bǎ chuāng hù guān shàng jiù xíng。",
+    "en": "If you feel cold, just close the window."
+   },
+   {
+    "zh": "如果这次能成功的话,我们所有的辛苦就都值了。",
+    "pinyin": "Rú guǒ zhè cì néng chéng gōng de huà, wǒ men suǒ yǒu de xīn kǔ jiù dōu zhí le。",
+    "en": "If we succeed this time, all our hard work will be worth it."
+   }
+  ]
  }
 ]

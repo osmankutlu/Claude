@@ -24342,5 +24342,685 @@
     "en": "I roughly get your meaning, but there's still one bit I don't quite grasp."
    }
   ]
+ },
+ {
+  "id": "g180",
+  "level": 3,
+  "title": "\"要不\" ile öneri: \"ya da, istersen\"",
+  "titleEn": "Expressing \"how about\" with \"yaobu\"",
+  "pattern": "Durum，要不 + Öneri",
+  "summary": "\"要不\" (yàobù) bir öneri/alternatif sunar: \"istersen, ya da, olmazsa\": 要不咱们改天再去? = İstersen başka gün gidelim mi?",
+  "explanation": "\"要不\" (ya da \"要不然\") iki işlev taşır: (1) ÖNERİ/alternatif sunma — \"istersen, ya da, olmazsa, ne dersin\": 要不咱们坐出租车吧 (İstersen taksiye binelim), 你要是累了,要不先休息一下? (Yorulduysan, istersen biraz dinlensen?). (2) UYARI/aksi hâlde — \"yoksa, aksi takdirde\": 快点走,要不就迟到了 (Çabuk ol, yoksa geç kalacağız). İlk anlamda bir teklifi nazikçe ortaya atar; ikinci anlamda \"不然\" ile eş anlamlıdır. Cümle başında (ya da bir durum belirtildikten sonra) gelir. Türkçedeki \"istersen, ya da, olmazsa, ne dersin\" (öneri) ve \"yoksa, aksi takdirde\" (uyarı) ifadelerine denk gelir; günlük konuşmada öneri sunmanın çok yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "这家餐厅要排很久的队,要不咱们换一家吧。",
+    "pinyin": "Zhè jiā cān tīng yào pái hěn jiǔ de duì, yào bù zán men huàn yī jiā ba。",
+    "en": "This restaurant has a long queue; how about we go elsewhere?"
+   },
+   {
+    "zh": "你看起来很累,要不今天就早点回去休息?",
+    "pinyin": "Nǐ kàn qǐ lái hěn lèi, yào bù jīn tiān jiù zǎo diǎn huí qù xiū xī?",
+    "en": "You look tired; how about heading back to rest early today?"
+   },
+   {
+    "zh": "外面雨还没停,要不你再等一会儿再走?",
+    "pinyin": "Wài miàn yǔ hái méi tíng, yào bù nǐ zài děng yī huì er zài zǒu?",
+    "en": "The rain hasn't stopped; how about waiting a bit longer before leaving?"
+   },
+   {
+    "zh": "这个问题咱们讨论不出结果,要不先放一放?",
+    "pinyin": "Zhè ge wèn tí zán men tǎo lùn bù chū jié guǒ, yào bù xiān fàng yī fàng?",
+    "en": "We can't resolve this by discussion; how about we set it aside for now?"
+   },
+   {
+    "zh": "你一个人搬不动这个箱子,要不我来帮你?",
+    "pinyin": "Nǐ yí gè rén bān bù dòng zhè ge xiāng zi, yào bù wǒ lái bāng nǐ?",
+    "en": "You can't move this box alone; how about I help you?"
+   },
+   {
+    "zh": "时间还早,要不咱们再去别的地方转转?",
+    "pinyin": "Shí jiān hái zǎo, yào bù zán men zài qù bié de dì fāng zhuǎn zhuǎn?",
+    "en": "It's still early; how about we go explore somewhere else?"
+   },
+   {
+    "zh": "你要是拿不定主意,要不问问家里人的意见?",
+    "pinyin": "Nǐ yào shì ná bù dìng zhǔ yì, yào bù wèn wèn jiā lǐ rén de yì jiàn?",
+    "en": "If you can't decide, how about asking your family's opinion?"
+   },
+   {
+    "zh": "今天人太多了,要不我们明天再来?",
+    "pinyin": "Jīn tiān rén tài duō le, yào bù wǒ men míng tiān zài lái?",
+    "en": "It's too crowded today; how about we come again tomorrow?"
+   },
+   {
+    "zh": "这道题太难了,要不咱们跳过去先做后面的?",
+    "pinyin": "Zhè dào tí tài nán le, yào bù zán men tiào guò qù xiān zuò hòu miàn de?",
+    "en": "This problem is too hard; how about we skip it and do the rest first?"
+   },
+   {
+    "zh": "你快点儿吧,要不电影就要开始了。",
+    "pinyin": "Nǐ kuài diǎn ér ba, yào bù diàn yǐng jiù yào kāi shǐ le。",
+    "en": "Hurry up, or the movie's about to start."
+   },
+   {
+    "zh": "菜好像不太够,要不再加一个菜?",
+    "pinyin": "Cài hǎo xiàng bù tài gòu, yào bù zài jiā yí gè cài?",
+    "en": "The food seems a bit short; how about ordering one more dish?"
+   },
+   {
+    "zh": "天快黑了,要不我们抓紧下山吧。",
+    "pinyin": "Tiān kuài hēi le, yào bù wǒ men zhuā jǐn xià shān ba。",
+    "en": "It's getting dark; how about we hurry down the mountain?"
+   },
+   {
+    "zh": "你既然那么喜欢,要不就买下来吧,别犹豫了。",
+    "pinyin": "Nǐ jì rán nà me xǐ huān, yào bù jiù mǎi xià lái ba, bié yóu yù le。",
+    "en": "Since you like it so much, how about just buying it? Don't hesitate."
+   },
+   {
+    "zh": "这条路好像堵住了,要不我们绕另一条路走?",
+    "pinyin": "Zhè tiáo lù hǎo xiàng dǔ zhù le, yào bù wǒ men rào lìng yī tiáo lù zǒu?",
+    "en": "This road seems jammed; how about we take another route?"
+   },
+   {
+    "zh": "你别一个人待着了,要不出来跟大家聊聊天?",
+    "pinyin": "Nǐ bié yí gè rén dài zhe le, yào bù chū lái gēn dà jiā liáo liáo tiān?",
+    "en": "Don't stay alone; how about coming out to chat with everyone?"
+   },
+   {
+    "zh": "快把外套穿上,要不一会儿该着凉了。",
+    "pinyin": "Kuài bǎ wài tào chuān shàng, yào bù yī huì er gāi zháo liáng le。",
+    "en": "Put on your coat, or you'll catch a chill soon."
+   },
+   {
+    "zh": "这么晚了叫外卖也麻烦,要不我下厨给你做点?",
+    "pinyin": "Zhè me wǎn le jiào wài mài yě má fán, yào bù wǒ xià chú gěi nǐ zuò diǎn?",
+    "en": "Ordering in this late is a hassle; how about I cook something for you?"
+   },
+   {
+    "zh": "你既然不放心,要不我陪你一起去看看?",
+    "pinyin": "Nǐ jì rán bù fàng xīn, yào bù wǒ péi nǐ yì qǐ qù kàn kàn?",
+    "en": "Since you're worried, how about I go with you to check?"
+   },
+   {
+    "zh": "这个周末没什么安排,要不咱们去郊外走走?",
+    "pinyin": "Zhè ge zhōu mò méi shén me ān pái, yào bù zán men qù jiāo wài zǒu zǒu?",
+    "en": "There's nothing planned this weekend; how about a trip to the countryside?"
+   },
+   {
+    "zh": "你得赶紧把作业交上去,要不老师又该批评你了。",
+    "pinyin": "Nǐ děi gǎn jǐn bǎ zuò yè jiāo shàng qù, yào bù lǎo shī yòu gāi pī píng nǐ le。",
+    "en": "Hand in your homework quickly, or the teacher will scold you again."
+   },
+   {
+    "zh": "既然大家意见不一致,要不我们投票决定吧。",
+    "pinyin": "Jì rán dà jiā yì jiàn bù yī zhì, yào bù wǒ men tóu piào jué dìng ba。",
+    "en": "Since opinions differ, how about we decide by voting?"
+   },
+   {
+    "zh": "你脸色不太好,要不去医院检查一下比较放心?",
+    "pinyin": "Nǐ liǎn sè bù tài hǎo, yào bù qù yī yuàn jiǎn chá yī xià bǐ jiào fàng xīn?",
+    "en": "You don't look well; how about a hospital checkup to be safe?"
+   },
+   {
+    "zh": "这些活儿一个人干太累,要不咱们分一分?",
+    "pinyin": "Zhè xiē huó er yí gè rén gàn tài lèi, yào bù zán men fēn yī fēn?",
+    "en": "Doing all this alone is tiring; how about we split it up?"
+   },
+   {
+    "zh": "你要是没时间做饭,要不我们出去吃吧。",
+    "pinyin": "Nǐ yào shì méi shí jiān zuò fàn, yào bù wǒ men chū qù chī ba。",
+    "en": "If you have no time to cook, how about we eat out?"
+   },
+   {
+    "zh": "我实在想不出好办法,要不你来出个主意?",
+    "pinyin": "Wǒ shí zài xiǎng bù chū hǎo bàn fǎ, yào bù nǐ lái chū gè zhǔ yì?",
+    "en": "I really can't think of a good idea; how about you suggest one?"
+   }
+  ]
+ },
+ {
+  "id": "g181",
+  "level": 3,
+  "title": "\"还有\" ile \"ayrıca, bir de\"",
+  "titleEn": "Expressing \"in addition\" with \"haiyou\"",
+  "pattern": "...，还有，...",
+  "summary": "\"还有\" (háiyǒu) bir listeye ya da açıklamaya ekleme yapar: \"ayrıca, bir de, dahası\": ...还有,别忘了带钱 = Bir de, parayı almayı unutma.",
+  "explanation": "\"还有\" bir öğe ya da bilgi ekler: \"ayrıca, bir de, dahası, bir şey daha\". İki kullanımı: (1) Bir listeye öğe eklemek — 我买了苹果、香蕉,还有一些橘子 (Elma, muz, bir de biraz portakal aldım). (2) Yeni bir nokta/hatırlatma eklemek, çoğu zaman cümle başında — 还有,明天记得早点来 (Bir de, yarın erken gelmeyi unutma). Sözlük anlamı \"hâlâ var / daha var\"dır (还 + 有), ama bağlaç gibi ek bilgi tanıtır. \"另外\" ve \"再说\" ile benzer işlevdedir ama \"还有\" en gündelik/basit olanıdır. Türkçedeki \"ayrıca, bir de, dahası, bir şey daha\" ifadelerine denk gelir; konuşurken sonradan akla gelen bir ekleme yapmanın doğal yoludur.",
+  "examples": [
+   {
+    "zh": "你去超市,买点米、油,还有一些鸡蛋回来。",
+    "pinyin": "Nǐ qù chāo shì, mǎi diǎn mǐ、 yóu, hái yǒu yī xiē jī dàn huí lái。",
+    "en": "Go to the supermarket for rice, oil, and also some eggs."
+   },
+   {
+    "zh": "这次旅行,我们去了长城、故宫,还有颐和园。",
+    "pinyin": "Zhè cì lǚ xíng, wǒ men qù le cháng chéng、 gù gōng, hái yǒu yí hé yuán。",
+    "en": "On this trip we visited the Great Wall, the Palace Museum, and the Summer Palace too."
+   },
+   {
+    "zh": "走之前记得关灯、锁门,还有别忘了带钥匙。",
+    "pinyin": "Zǒu zhī qián jì de guān dēng、 suǒ mén, hái yǒu bié wàng le dài yào shi。",
+    "en": "Before leaving, turn off the lights, lock the door, and don't forget your keys."
+   },
+   {
+    "zh": "他会弹钢琴、拉小提琴,还有一手好书法。",
+    "pinyin": "Tā huì tán gāng qín、 lā xiǎo tí qín, hái yǒu yī shǒu hǎo shū fǎ。",
+    "en": "He can play piano, violin, and also has fine calligraphy."
+   },
+   {
+    "zh": "这道菜要放葱、姜、蒜,还有一点点糖提味。",
+    "pinyin": "Zhè dào cài yào fàng cōng、 jiāng、 suàn, hái yǒu yì diǎn diǎn táng tí wèi。",
+    "en": "This dish needs scallion, ginger, garlic, and a bit of sugar for flavor."
+   },
+   {
+    "zh": "参加会议的有经理、几位同事,还有两位客户。",
+    "pinyin": "Cān jiā huì yì de yǒu jīng lǐ、 jǐ wèi tóng shì, hái yǒu liǎng wèi kè hù。",
+    "en": "Attending the meeting are the manager, some colleagues, and two clients."
+   },
+   {
+    "zh": "你要准备好身份证、车票,还有一些换洗的衣服。",
+    "pinyin": "Nǐ yào zhǔn bèi hǎo shēn fèn zhèng、 chē piào, hái yǒu yī xiē huàn xǐ de yī fú。",
+    "en": "Prepare your ID, tickets, and also some change of clothes."
+   },
+   {
+    "zh": "我喜欢看书、听音乐,还有偶尔画画。",
+    "pinyin": "Wǒ xǐ huān kàn shū、 tīng yīn yuè, hái yǒu ǒu ěr huà huà。",
+    "en": "I like reading, listening to music, and occasionally painting too."
+   },
+   {
+    "zh": "桌上有水果、点心,还有刚泡好的热茶,随便用。",
+    "pinyin": "Zhuō shàng yǒu shuǐ guǒ、 diǎn xīn, hái yǒu gāng pào hǎo de rè chá, suí biàn yòng。",
+    "en": "There's fruit, snacks, and freshly brewed tea on the table; help yourself."
+   },
+   {
+    "zh": "这件事得跟经理说一声,还有,也要通知一下财务。",
+    "pinyin": "Zhè jiàn shì de gēn jīng lǐ shuō yī shēng, hái yǒu, yě yào tōng zhī yī xià cái wù。",
+    "en": "We must inform the manager, and also notify the finance department."
+   },
+   {
+    "zh": "行李里装了衣服、洗漱用品,还有几本路上看的书。",
+    "pinyin": "Xíng lǐ lǐ zhuāng le yī fú、 xǐ shù yòng pǐn, hái yǒu jǐ běn lù shàng kàn de shū。",
+    "en": "The luggage holds clothes, toiletries, and a few books for the road."
+   },
+   {
+    "zh": "这个周末我要打扫房间、洗衣服,还有去趟菜市场。",
+    "pinyin": "Zhè ge zhōu mò wǒ yào dǎ sǎo fáng jiān、 xǐ yī fú, hái yǒu qù tàng cài shì chǎng。",
+    "en": "This weekend I'll clean the room, do laundry, and go to the market too."
+   },
+   {
+    "zh": "他不但学习好,人也很热心,还有一副好嗓子。",
+    "pinyin": "Tā bù dàn xué xí hǎo, rén yě hěn rè xīn, hái yǒu yī fù hǎo sǎng zi。",
+    "en": "He not only studies well but is warm-hearted, and has a fine voice too."
+   },
+   {
+    "zh": "这家店卖文具、书本,还有各种各样的小玩具。",
+    "pinyin": "Zhè jiā diàn mài wén jù、 shū běn, hái yǒu gè zhǒng gè yàng de xiǎo wán jù。",
+    "en": "This shop sells stationery, books, and all kinds of little toys too."
+   },
+   {
+    "zh": "你把窗户关好,把火关掉,还有,记得给花浇点水。",
+    "pinyin": "Nǐ bǎ chuāng hù guān hǎo, bǎ huǒ guān diào, hái yǒu, jì de gěi huā jiāo diǎn shuǐ。",
+    "en": "Close the windows, turn off the stove, and also water the flowers."
+   },
+   {
+    "zh": "这次考试考语文、数学,还有英语,一共三门。",
+    "pinyin": "Zhè cì kǎo shì kǎo yǔ wén、 shù xué, hái yǒu yīng yǔ, yī gòng sān mén。",
+    "en": "This exam covers Chinese, math, and English — three subjects in all."
+   },
+   {
+    "zh": "他的优点是踏实、认真,还有很强的责任心。",
+    "pinyin": "Tā de yōu diǎn shì tà shí、 rèn zhēn, hái yǒu hěn qiáng de zé rèn xīn。",
+    "en": "His strengths are being down-to-earth, careful, and very responsible too."
+   },
+   {
+    "zh": "我们准备了饮料、零食,还有一个大蛋糕给她庆生。",
+    "pinyin": "Wǒ men zhǔn bèi le yǐn liào、 líng shí, hái yǒu yí gè dà dàn gāo gěi tā qìng shēng。",
+    "en": "We prepared drinks, snacks, and a big cake to celebrate her birthday."
+   },
+   {
+    "zh": "你先把这几件事办了,还有,别忘了回复那封邮件。",
+    "pinyin": "Nǐ xiān bǎ zhè jǐ jiàn shì bàn le, hái yǒu, bié wàng le huí fù nà fēng yóu jiàn。",
+    "en": "Handle these few things first, and also don't forget to reply to that email."
+   },
+   {
+    "zh": "这附近有超市、银行,还有一家不错的医院。",
+    "pinyin": "Zhè fù jìn yǒu chāo shì、 yín háng, hái yǒu yī jiā bù cuò de yī yuàn。",
+    "en": "Nearby there's a supermarket, a bank, and also a decent hospital."
+   },
+   {
+    "zh": "我想跟你说的,一是感谢,二是道歉,还有一个请求。",
+    "pinyin": "Wǒ xiǎng gēn nǐ shuō de, yī shì gǎn xiè, èr shì dào qiàn, hái yǒu yí gè qǐng qiú。",
+    "en": "What I want to tell you: thanks, an apology, and also a request."
+   },
+   {
+    "zh": "他给孩子买了书包、文具,还有一双新运动鞋。",
+    "pinyin": "Tā gěi hái zi mǎi le shū bāo、 wén jù, hái yǒu yī shuāng xīn yùn dòng xié。",
+    "en": "He bought the child a schoolbag, stationery, and new sports shoes too."
+   },
+   {
+    "zh": "这道菜的关键是火候、时间,还有调料的比例。",
+    "pinyin": "Zhè dào cài de guān jiàn shì huǒ hòu、 shí jiān, hái yǒu tiáo liào de bǐ lì。",
+    "en": "The keys to this dish are heat, timing, and the seasoning ratio too."
+   },
+   {
+    "zh": "你要注意休息、按时吃药,还有别再熬夜了。",
+    "pinyin": "Nǐ yào zhù yì xiū xī、 àn shí chī yào, hái yǒu bié zài áo yè le。",
+    "en": "Mind your rest, take medicine on time, and stop staying up late too."
+   },
+   {
+    "zh": "展览上有绘画、摄影,还有一些手工艺品。",
+    "pinyin": "Zhǎn lǎn shàng yǒu huì huà、 shè yǐng, hái yǒu yī xiē shǒu gōng yì pǐn。",
+    "en": "The exhibition has paintings, photography, and some handicrafts too."
+   }
+  ]
+ },
+ {
+  "id": "g182",
+  "level": 3,
+  "title": "\"另外\" ile \"ayrıca, başka, öte yandan\"",
+  "titleEn": "Expressing \"in addition\" with \"lingwai\"",
+  "pattern": "...，另外，...",
+  "summary": "\"另外\" (lìngwài) yeni/ayrı bir şey ekler: \"ayrıca, bunun dışında, başka, öte yandan\": 另外,我还有件事跟你说 = Ayrıca, sana söyleyecek bir şeyim daha var.",
+  "explanation": "\"另外\" bir öncekinden AYRI, ek bir konu/öğe getirir: \"ayrıca, bunun dışında, başka, öte yandan\". İki kullanımı: (1) Bağlaç gibi yeni bir nokta tanıtma, çoğu zaman cümle başında — 这件事就这么定了。另外,下周的安排也得讨论一下 (Bu böyle kararlaştı. Ayrıca gelecek haftanın planını da konuşmalıyız). (2) Sıfat/belirteç gibi \"başka bir, diğer\" — 我们另外找个时间谈吧 (Başka bir zaman konuşalım), 这是另外一回事 (Bu başka bir mesele). \"还有\"dan biraz daha RESMÎ ve genelde birbirinden ayrı, bağımsız konuları eklerken kullanılır. Türkçedeki \"ayrıca, bunun dışında, öte yandan, başka bir\" ifadelerine denk gelir; ayrı bir konu ya da seçenek eklemenin düzgün bir yoludur.",
+  "examples": [
+   {
+    "zh": "这个方案基本可以了,另外,预算部分还需要再核对一下。",
+    "pinyin": "Zhè ge fāng àn jī běn kě yǐ le, lìng wài, yù suàn bù fèn hái xū yào zài hé duì yī xià。",
+    "en": "This plan is basically fine; also, the budget part needs rechecking."
+   },
+   {
+    "zh": "你把报告交给我,另外,再准备一份给客户。",
+    "pinyin": "Nǐ bǎ bào gào jiāo gěi wǒ, lìng wài, zài zhǔn bèi yī fèn gěi kè hù。",
+    "en": "Hand me the report; also, prepare another one for the client."
+   },
+   {
+    "zh": "今天就聊到这儿吧,另外的事情咱们改天再说。",
+    "pinyin": "Jīn tiān jiù liáo dào zhè ér ba, lìng wài de shì qíng zán men gǎi tiān zài shuō。",
+    "en": "Let's stop here today; we'll discuss the other matters another day."
+   },
+   {
+    "zh": "这次没选上没关系,另外还有很多机会等着你。",
+    "pinyin": "Zhè cì méi xuǎn shàng méi guān xì, lìng wài hái yǒu hěn duō jī huì děng zhe nǐ。",
+    "en": "It's fine you weren't chosen; there are many other chances waiting."
+   },
+   {
+    "zh": "这件衣服有点小,麻烦你另外给我拿一件大号的。",
+    "pinyin": "Zhè jiàn yī fú yǒu diǎn xiǎo, má fán nǐ lìng wài gěi wǒ ná yī jiàn dà hào de。",
+    "en": "This outfit's a bit small; please get me another in a larger size."
+   },
+   {
+    "zh": "会议定在周三,另外,请大家提前把材料看一遍。",
+    "pinyin": "Huì yì dìng zài zhōu sān, lìng wài, qǐng dà jiā tí qián bǎ cái liào kàn yī biàn。",
+    "en": "The meeting is Wednesday; also, please review the materials beforehand."
+   },
+   {
+    "zh": "这两件事没什么关系,是另外两回事,别混在一起。",
+    "pinyin": "Zhè liǎng jiàn shì méi shén me guān xì, shì lìng wài liǎng huí shì, bié hùn zài yì qǐ。",
+    "en": "These two matters are unrelated, two separate things; don't mix them."
+   },
+   {
+    "zh": "这笔钱先付房租,另外的部分留着应急。",
+    "pinyin": "Zhè bǐ qián xiān fù fáng zū, lìng wài de bù fèn liú zhe yìng jí。",
+    "en": "Use this money for rent first; keep the rest for emergencies."
+   },
+   {
+    "zh": "他除了会英语,另外还掌握了两门小语种。",
+    "pinyin": "Tā chú le huì yīng yǔ, lìng wài hái zhǎng wò le liǎng mén xiǎo yǔ zhǒng。",
+    "en": "Besides English, he's also mastered two less common languages."
+   },
+   {
+    "zh": "原来的计划不变,另外我再补充两点建议。",
+    "pinyin": "Yuán lái de jì huà bù biàn, lìng wài wǒ zài bǔ chōng liǎng diǎn jiàn yì。",
+    "en": "The original plan stays; I'll add two more suggestions as well."
+   },
+   {
+    "zh": "这个房间给客人住,另外那间当书房。",
+    "pinyin": "Zhè ge fáng jiān gěi kè rén zhù, lìng wài nà jiān dāng shū fáng。",
+    "en": "This room is for guests; that other one will be the study."
+   },
+   {
+    "zh": "你先把这些做完,另外的任务下午再安排。",
+    "pinyin": "Nǐ xiān bǎ zhè xiē zuò wán, lìng wài de rèn wù xià wǔ zài ān pái。",
+    "en": "Finish these first; the other tasks will be arranged in the afternoon."
+   },
+   {
+    "zh": "食材我都买好了,另外还准备了一些饮料。",
+    "pinyin": "Shí cái wǒ dōu mǎi hǎo le, lìng wài hái zhǔn bèi le yī xiē yǐn liào。",
+    "en": "I've bought all the ingredients; I also prepared some drinks."
+   },
+   {
+    "zh": "这件事我理解你的想法,另外也希望你听听我的。",
+    "pinyin": "Zhè jiàn shì wǒ lǐ jiě nǐ de xiǎng fǎ, lìng wài yě xī wàng nǐ tīng tīng wǒ de。",
+    "en": "I understand your view on this; I also hope you'll hear mine."
+   },
+   {
+    "zh": "原定的地点变了,咱们另外找个方便的地方见吧。",
+    "pinyin": "Yuán dìng de dì diǎn biàn le, zán men lìng wài zhǎo gè fāng biàn de dì fāng jiàn ba。",
+    "en": "The original venue changed; let's find another convenient place to meet."
+   },
+   {
+    "zh": "除了工资,公司另外还提供交通和餐饮补贴。",
+    "pinyin": "Chú le gōng zī, gōng sī lìng wài hái tí gōng jiāo tōng hé cān yǐn bǔ tiē。",
+    "en": "Besides salary, the company also provides transport and meal allowances."
+   },
+   {
+    "zh": "这个问题先放一放,另外我们谈谈下一步的计划。",
+    "pinyin": "Zhè ge wèn tí xiān fàng yī fàng, lìng wài wǒ men tán tán xià yī bù de jì huà。",
+    "en": "Let's set this aside; separately, let's talk about the next steps."
+   },
+   {
+    "zh": "这本书我看完了,另外我还想推荐你几本别的。",
+    "pinyin": "Zhè běn shū wǒ kàn wán le, lìng wài wǒ hái xiǎng tuī jiàn nǐ jǐ běn bié de。",
+    "en": "I've finished this book; I'd also like to recommend a few others."
+   },
+   {
+    "zh": "你需要的资料在这个文件夹里,另外一份在我这儿。",
+    "pinyin": "Nǐ xū yào de zī liào zài zhè ge wén jiàn jiā lǐ, lìng wài yī fèn zài wǒ zhè ér。",
+    "en": "The data you need is in this folder; another copy is with me."
+   },
+   {
+    "zh": "除了照顾好自己,另外也要多关心一下父母。",
+    "pinyin": "Chú le zhào gù hǎo zì jǐ, lìng wài yě yào duō guān xīn yī xià fù mǔ。",
+    "en": "Besides taking care of yourself, also show more care to your parents."
+   },
+   {
+    "zh": "这次的问题解决了,另外我们也要防止以后再发生。",
+    "pinyin": "Zhè cì de wèn tí jiě jué le, lìng wài wǒ men yě yào fáng zhǐ yǐ hòu zài fā shēng。",
+    "en": "This issue is solved; we must also prevent it from recurring."
+   },
+   {
+    "zh": "你把旧的处理掉,我另外给你买个新的。",
+    "pinyin": "Nǐ bǎ jiù de chǔ lǐ diào, wǒ lìng wài gěi nǐ mǎi gè xīn de。",
+    "en": "Get rid of the old one; I'll buy you a new one separately."
+   },
+   {
+    "zh": "这几点我都同意,另外我还有一个小小的顾虑。",
+    "pinyin": "Zhè jǐ diǎn wǒ dōu tóng yì, lìng wài wǒ hái yǒu yí gè xiǎo xiǎo de gù lǜ。",
+    "en": "I agree with these points; I also have one small concern."
+   },
+   {
+    "zh": "原来的老师请假了,学校另外安排了一位代课老师。",
+    "pinyin": "Yuán lái de lǎo shī qǐng jià le, xué xiào lìng wài ān pái le yī wèi dài kè lǎo shī。",
+    "en": "The original teacher is on leave; the school arranged a substitute."
+   },
+   {
+    "zh": "正餐之外,他们另外还准备了精致的甜点。",
+    "pinyin": "Zhèng cān zhī wài, tā men lìng wài hái zhǔn bèi le jīng zhì de tián diǎn。",
+    "en": "Besides the main course, they also prepared exquisite desserts."
+   }
+  ]
+ },
+ {
+  "id": "g183",
+  "level": 3,
+  "title": "\"再说\" ile \"hem, üstelik / sonra bakarız\"",
+  "titleEn": "Expressing \"in addition\" with \"zaishuo\"",
+  "pattern": "...，再说，...",
+  "summary": "\"再说\" (zàishuō) bir gerekçeye ek sebep katar: \"hem, üstelik, kaldı ki\"; ayrıca \"sonra düşünürüz\" anlamı da vardır.",
+  "explanation": "\"再说\" iki temel işlev taşır: (1) EK GEREKÇE — önceki bir görüşe/karara destek olacak ek bir sebep ekler: \"hem, üstelik, kaldı ki, zaten\": 今天太晚了,再说我也累了,咱们改天去吧 (Bugün çok geç oldu, üstelik yoruldum da, başka gün gidelim). (2) ERTELEME — bir kararı sonraya bırakma: \"sonra bakarız/düşünürüz\": 这件事以后再说吧 (Bu meseleyi sonra konuşuruz). İlk anlamda bir gerekçeyi güçlendirmek için ikinci, çoğu zaman daha kişisel bir sebep sunar. Cümle başında (ek sebep) ya da sonunda (erteleme) gelir. Türkçedeki \"hem, üstelik, kaldı ki, zaten\" (ek sebep) ve \"sonra bakarız, sonraya kalsın\" (erteleme) ifadelerine denk gelir; bir kararı gerekçelendirmede sık kullanılır.",
+  "examples": [
+   {
+    "zh": "这么晚了别去了,再说明天你还得早起上班呢。",
+    "pinyin": "Zhè me wǎn le bié qù le, zài shuō míng tiān nǐ hái de zǎo qǐ shàng bān ne。",
+    "en": "Don't go this late; besides, you have to get up early for work tomorrow."
+   },
+   {
+    "zh": "这件衣服太贵了,再说颜色我也不太喜欢,不买了。",
+    "pinyin": "Zhè jiàn yī fú tài guì le, zài shuō yán sè wǒ yě bù tài xǐ huān, bù mǎi le。",
+    "en": "This outfit's too pricey; besides, I don't like the color, so I won't buy it."
+   },
+   {
+    "zh": "你别担心,他很有经验,再说还有我们帮着呢。",
+    "pinyin": "Nǐ bié dān xīn, tā hěn yǒu jīng yàn, zài shuō hái yǒu wǒ men bāng zhe ne。",
+    "en": "Don't worry; he's experienced, and besides, we're here to help too."
+   },
+   {
+    "zh": "今天就先这样吧,剩下的事以后再说。",
+    "pinyin": "Jīn tiān jiù xiān zhè yàng ba, shèng xià de shì yǐ hòu zài shuō。",
+    "en": "Let's leave it here for today; the rest we'll deal with later."
+   },
+   {
+    "zh": "那个地方太远了,再说我们时间也不多,还是别去了。",
+    "pinyin": "Nà ge dì fāng tài yuǎn le, zài shuō wǒ men shí jiān yě bù duō, hái shì bié qù le。",
+    "en": "That place is too far; besides, we're short on time, so let's not go."
+   },
+   {
+    "zh": "你先把身体养好,工作的事以后再说。",
+    "pinyin": "Nǐ xiān bǎ shēn tǐ yǎng hǎo, gōng zuò de shì yǐ hòu zài shuō。",
+    "en": "Get your health back first; we'll talk about work later."
+   },
+   {
+    "zh": "这个价钱挺合适,再说这种机会也不多,就定了吧。",
+    "pinyin": "Zhè ge jià qián tǐng hé shì, zài shuō zhè zhǒng jī huì yě bù duō, jiù dìng le ba。",
+    "en": "This price is reasonable; besides, such chances are rare, so let's settle it."
+   },
+   {
+    "zh": "现在讨论这个还太早,等情况明朗了再说。",
+    "pinyin": "Xiàn zài tǎo lùn zhè ge hái tài zǎo, děng qíng kuàng míng lǎng le zài shuō。",
+    "en": "It's too early to discuss this; let's wait until things are clearer."
+   },
+   {
+    "zh": "他不会介意的,再说这也不是什么大不了的事。",
+    "pinyin": "Tā bú huì jiè yì de, zài shuō zhè yě bú shì shén me dà bù liǎo de shì。",
+    "en": "He won't mind; besides, it's not a big deal anyway."
+   },
+   {
+    "zh": "天气这么好,别待在家里了,再说出去走走对身体也好。",
+    "pinyin": "Tiān qì zhè me hǎo, bié dài zài jiā lǐ le, zài shuō chū qù zǒu zǒu duì shēn tǐ yě hǎo。",
+    "en": "The weather's so nice; don't stay in — besides, a walk is good for you."
+   },
+   {
+    "zh": "这份工作待遇不错,再说离家又近,你就答应吧。",
+    "pinyin": "Zhè fèn gōng zuò dài yù bù cuò, zài shuō lí jiā yòu jìn, nǐ jiù dā yìng ba。",
+    "en": "This job pays well; besides, it's close to home, so just accept it."
+   },
+   {
+    "zh": "买不买以后再说,你先试试合不合身。",
+    "pinyin": "Mǎi bù mǎi yǐ hòu zài shuō, nǐ xiān shì shì hé bù hé shēn。",
+    "en": "Whether to buy can wait; first try it on to see if it fits."
+   },
+   {
+    "zh": "别听他的,他根本不懂,再说他也没安好心。",
+    "pinyin": "Bié tīng tā de, tā gēn běn bù dǒng, zài shuō tā yě méi ān hǎo xīn。",
+    "en": "Don't listen to him; he doesn't get it, and besides, he means no good."
+   },
+   {
+    "zh": "现在下结论太早,等把情况都了解清楚再说。",
+    "pinyin": "Xiàn zài xià jié lùn tài zǎo, děng bǎ qíng kuàng dōu liǎo jiě qīng chǔ zài shuō。",
+    "en": "It's too early to conclude; let's wait until we understand everything."
+   },
+   {
+    "zh": "这点小事你别放在心上,再说谁还没个疏忽的时候。",
+    "pinyin": "Zhè diǎn xiǎo shì nǐ bié fàng zài xīn shàng, zài shuō shuí hái méi gè shū hū de shí hòu。",
+    "en": "Don't dwell on this trifle; besides, everyone slips up sometimes."
+   },
+   {
+    "zh": "坐飞机吧,又快又省事,再说也没贵多少。",
+    "pinyin": "Zuò fēi jī ba, yòu kuài yòu shěng shì, zài shuō yě méi guì duō shǎo。",
+    "en": "Let's fly; it's fast and easy, and besides, it's not much pricier."
+   },
+   {
+    "zh": "孩子还小,这些道理等他长大了再说也不迟。",
+    "pinyin": "Hái zi hái xiǎo, zhè xiē dào lǐ děng tā zhǎng dà le zài shuō yě bù chí。",
+    "en": "The child is young; explaining these can wait until he's grown."
+   },
+   {
+    "zh": "你就放心去吧,家里有我呢,再说也就几天而已。",
+    "pinyin": "Nǐ jiù fàng xīn qù ba, jiā lǐ yǒu wǒ ne, zài shuō yě jiù jǐ tiān ér yǐ。",
+    "en": "Go without worry; I'm here, and besides, it's only a few days."
+   },
+   {
+    "zh": "这本书值得买,内容好,再说也不算贵。",
+    "pinyin": "Zhè běn shū zhí de mǎi, nèi róng hǎo, zài shuō yě bù suàn guì。",
+    "en": "This book is worth buying; good content, and besides, it's not expensive."
+   },
+   {
+    "zh": "现在急也没用,等他回来了再说吧。",
+    "pinyin": "Xiàn zài jí yě méi yòng, děng tā huí lái le zài shuō ba。",
+    "en": "Rushing now is useless; let's wait until he's back."
+   },
+   {
+    "zh": "咱们走着去吧,反正不远,再说走走还能锻炼身体。",
+    "pinyin": "Zán men zǒu zhe qù ba, fǎn zhèng bù yuǎn, zài shuō zǒu zǒu hái néng duàn liàn shēn tǐ。",
+    "en": "Let's walk; it's not far anyway, and besides, walking is good exercise."
+   },
+   {
+    "zh": "这件事我得考虑考虑,过几天想好了再说。",
+    "pinyin": "Zhè jiàn shì wǒ de kǎo lǜ kǎo lǜ, guò jǐ tiān xiǎng hǎo le zài shuō。",
+    "en": "I need to think this over; I'll decide in a few days."
+   },
+   {
+    "zh": "别勉强他了,他实在不愿意,再说强扭的瓜不甜。",
+    "pinyin": "Bié miǎn qiǎng tā le, tā shí zài bù yuàn yì, zài shuō qiáng niǔ de guā bù tián。",
+    "en": "Don't force him; he really doesn't want to, and forced things never turn out well."
+   },
+   {
+    "zh": "先把眼前的事做好,长远的计划以后再说。",
+    "pinyin": "Xiān bǎ yǎn qián de shì zuò hǎo, cháng yuǎn de jì huà yǐ hòu zài shuō。",
+    "en": "Do the immediate things well first; long-term plans can come later."
+   },
+   {
+    "zh": "这条路更近,再说风景也好,咱们就走这边吧。",
+    "pinyin": "Zhè tiáo lù gèng jìn, zài shuō fēng jǐng yě hǎo, zán men jiù zǒu zhè biān ba。",
+    "en": "This road is shorter; besides, the scenery is nice, so let's go this way."
+   }
+  ]
+ },
+ {
+  "id": "g184",
+  "level": 3,
+  "title": "\"那么\" ile \"o zaman, öyleyse\"",
+  "titleEn": "Expressing \"then…\" with \"name\"",
+  "pattern": "那么 ... (那 ...)",
+  "summary": "\"那么\" (nàme) önceki duruma bağlı bir sonuç/karar bağlar: \"o zaman, öyleyse, madem öyle\": 那么我们就出发吧 = Öyleyse yola çıkalım.",
+  "explanation": "\"那么\" (konuşmada çoğu zaman kısaca \"那\") bir koşul/durumdan çıkarılan bir SONUCU ya da kararı bağlar: \"o zaman, öyleyse, madem öyle, o hâlde\". 你要是不舒服,那么就在家休息吧 (Rahatsızsan, o zaman evde dinlen), 既然大家都同意,那么就这么决定了 (Madem herkes hemfikir, öyleyse böyle karar verildi). Genelde \"如果/既然...那么...\" biçiminde bir şart/gerekçenin ardından gelir ve mantıksal sonucu ya da bir sonraki adımı tanıtır. Konuşmayı bir sonuca bağlarken, konu geçişi yaparken de kullanılır. Bu, \"那么\"nın derece belirteci anlamından (那么大 = o kadar büyük) farklıdır. Türkçedeki \"o zaman, öyleyse, o hâlde, madem öyle\" bağlaçlarına denk gelir; bir çıkarımı ya da kararı ifade etmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "既然你已经决定了,那么我就不再多说什么了。",
+    "pinyin": "Jì rán nǐ yǐ jīng jué dìng le, nà me wǒ jiù bù zài duō shuō shén me le。",
+    "en": "Since you've decided, then I won't say anything more."
+   },
+   {
+    "zh": "如果明天下雨,那么我们的郊游就只能改期了。",
+    "pinyin": "Rú guǒ míng tiān xià yǔ, nà me wǒ men de jiāo yóu jiù zhǐ néng gǎi qī le。",
+    "en": "If it rains tomorrow, then our outing will have to be postponed."
+   },
+   {
+    "zh": "大家的意见都一致,那么这件事就这么定了。",
+    "pinyin": "Dà jiā de yì jiàn dōu yí zhì, nà me zhè jiàn shì jiù zhè me dìng le。",
+    "en": "Everyone's opinion agrees, so then this matter is settled."
+   },
+   {
+    "zh": "你要是真心想学,那么就得付出比别人更多的努力。",
+    "pinyin": "Nǐ yào shì zhēn xīn xiǎng xué, nà me jiù de fù chū bǐ bié rén gèng duō de nǔ lì。",
+    "en": "If you truly want to learn, then you must work harder than others."
+   },
+   {
+    "zh": "既然时间还早,那么咱们就慢慢走过去吧。",
+    "pinyin": "Jì rán shí jiān hái zǎo, nà me zán men jiù màn màn zǒu guò qù ba。",
+    "en": "Since it's still early, then let's just walk over slowly."
+   },
+   {
+    "zh": "如果这个办法行不通,那么我们就换一个思路。",
+    "pinyin": "Rú guǒ zhè ge bàn fǎ xíng bù tōng, nà me wǒ men jiù huàn yí gè sī lù。",
+    "en": "If this method doesn't work, then let's switch to another approach."
+   },
+   {
+    "zh": "你既然答应了别人,那么就应该说到做到。",
+    "pinyin": "Nǐ jì rán dā yìng le bié rén, nà me jiù yīng gāi shuō dào zuò dào。",
+    "en": "Since you promised someone, then you should keep your word."
+   },
+   {
+    "zh": "既然大家都累了,那么今天就早点结束吧。",
+    "pinyin": "Jì rán dà jiā dōu lèi le, nà me jīn tiān jiù zǎo diǎn jié shù ba。",
+    "en": "Since everyone's tired, then let's wrap up early today."
+   },
+   {
+    "zh": "如果你实在没时间,那么这件事就交给我来办。",
+    "pinyin": "Rú guǒ nǐ shí zài méi shí jiān, nà me zhè jiàn shì jiù jiāo gěi wǒ lái bàn。",
+    "en": "If you really have no time, then leave this matter to me."
+   },
+   {
+    "zh": "既然身体不舒服,那么你就别硬撑着上班了。",
+    "pinyin": "Jì rán shēn tǐ bù shū fú, nà me nǐ jiù bié yìng chēng zhe shàng bān le。",
+    "en": "Since you're unwell, then don't force yourself to go to work."
+   },
+   {
+    "zh": "你要是喜欢这里,那么就多住几天,不用着急走。",
+    "pinyin": "Nǐ yào shì xǐ huān zhè lǐ, nà me jiù duō zhù jǐ tiān, bù yòng zháo jí zǒu。",
+    "en": "If you like it here, then stay a few more days; no rush to leave."
+   },
+   {
+    "zh": "既然错了,那么就应该勇敢地承认并改正。",
+    "pinyin": "Jì rán cuò le, nà me jiù yīng gāi yǒng gǎn de chéng rèn bìng gǎi zhèng。",
+    "en": "Since it's wrong, then one should bravely admit and correct it."
+   },
+   {
+    "zh": "如果这条路堵车,那么我们就绕另一条路走。",
+    "pinyin": "Rú guǒ zhè tiáo lù dǔ chē, nà me wǒ men jiù rào lìng yī tiáo lù zǒu。",
+    "en": "If this road is jammed, then we'll take another route."
+   },
+   {
+    "zh": "你既然那么喜欢画画,那么为什么不坚持下去呢?",
+    "pinyin": "Nǐ jì rán nà me xǐ huān huà huà, nà me wèi shén me bù jiān chí xià qù ne?",
+    "en": "Since you love painting so much, then why not keep at it?"
+   },
+   {
+    "zh": "既然机会难得,那么就要好好珍惜,别轻易放弃。",
+    "pinyin": "Jì rán jī huì nán de, nà me jiù yào hǎo hǎo zhēn xī, bié qīng yì fàng qì。",
+    "en": "Since the chance is rare, then cherish it and don't give it up easily."
+   },
+   {
+    "zh": "如果你觉得这样不妥,那么咱们再商量一个别的办法。",
+    "pinyin": "Rú guǒ nǐ jué de zhè yàng bù tuǒ, nà me zán men zài shāng liáng yí gè bié de bàn fǎ。",
+    "en": "If you feel this isn't right, then let's discuss another way."
+   },
+   {
+    "zh": "既然大家都到齐了,那么会议现在正式开始。",
+    "pinyin": "Jì rán dà jiā dōu dào qí le, nà me huì yì xiàn zài zhèng shì kāi shǐ。",
+    "en": "Since everyone's here, then the meeting officially begins now."
+   },
+   {
+    "zh": "你要是不放心,那么我陪你一起去一趟。",
+    "pinyin": "Nǐ yào shì bù fàng xīn, nà me wǒ péi nǐ yì qǐ qù yī tàng。",
+    "en": "If you're not at ease, then I'll go with you."
+   },
+   {
+    "zh": "既然选择了这条路,那么再苦再累也要坚持走下去。",
+    "pinyin": "Jì rán xuǎn zé le zhè tiáo lù, nà me zài kǔ zài lèi yě yào jiān chí zǒu xià qù。",
+    "en": "Since you chose this path, then persist no matter how hard."
+   },
+   {
+    "zh": "如果他真的需要帮助,那么我们当然义不容辞。",
+    "pinyin": "Rú guǒ tā zhēn de xū yào bāng zhù, nà me wǒ men dāng rán yì bù róng cí。",
+    "en": "If he truly needs help, then of course it's our duty."
+   },
+   {
+    "zh": "既然道理讲清楚了,那么剩下的就看你自己了。",
+    "pinyin": "Jì rán dào lǐ jiǎng qīng chǔ le, nà me shèng xià de jiù kàn nǐ zì jǐ le。",
+    "en": "Since the reasoning is clear, then the rest is up to you."
+   },
+   {
+    "zh": "你既然来了,那么就安心多待几天,好好玩玩。",
+    "pinyin": "Nǐ jì rán lái le, nà me jiù ān xīn duō dài jǐ tiān, hǎo hǎo wán wán。",
+    "en": "Since you've come, then relax, stay a few days, and enjoy yourself."
+   },
+   {
+    "zh": "如果这次实验成功了,那么后面的工作就好办多了。",
+    "pinyin": "Rú guǒ zhè cì shí yàn chéng gōng le, nà me hòu miàn de gōng zuò jiù hǎo bàn duō le。",
+    "en": "If this experiment succeeds, then the later work will be much easier."
+   },
+   {
+    "zh": "既然大家都愿意帮忙,那么咱们分个工吧。",
+    "pinyin": "Jì rán dà jiā dōu yuàn yì bāng máng, nà me zán men fēn gè gōng ba。",
+    "en": "Since everyone's willing to help, then let's divide the work."
+   },
+   {
+    "zh": "你要是决定不了,那么听听有经验的人怎么说。",
+    "pinyin": "Nǐ yào shì jué dìng bù liǎo, nà me tīng tīng yǒu jīng yàn de rén zěn me shuō。",
+    "en": "If you can't decide, then hear what experienced people say."
+   }
+  ]
  }
 ]

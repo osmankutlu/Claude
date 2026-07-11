@@ -39710,5 +39710,685 @@
     "en": "The scenery here is really beautiful; you won't regret coming."
    }
   ]
+ },
+ {
+  "id": "g293",
+  "level": 4,
+  "title": "\"毕竟\" ile \"ne de olsa, sonuçta\"",
+  "titleEn": "Expressing \"after all\" with \"bijing\"",
+  "pattern": "毕竟 + ...",
+  "summary": "\"毕竟\" (bìjìng) bir gerçeği/gerekçeyi vurgular: 他毕竟还是个孩子 = Ne de olsa daha çocuk.",
+  "explanation": "\"毕竟\" değişmez bir gerçeği ya da özü hatırlatarak bir yargıyı gerekçelendirir: \"ne de olsa, sonuçta, nihayetinde, her şeye rağmen\". 他毕竟年纪大了,不能太劳累 (Ne de olsa yaşlandı, çok yorulmamalı), 这件事虽然难,但毕竟还有希望 (Zor olsa da sonuçta hâlâ umut var), 毕竟是第一次,做得不好也可以理解 (Sonuçta ilk kez, iyi olmaması anlaşılır). \"毕竟\" bir durumun temel/değişmez gerçeğini öne sürerek bir hoşgörü, açıklama ya da sonuç sunar; çoğu zaman \"her ne olursa olsun, temelde durum bu\" fikrini taşır. Cümle başında ya da öznenin ardında gelir. \"到底\" (nihayetinde) ile yakındır ama \"毕竟\" özellikle bir gerekçe/özü hatırlatır. Türkçedeki \"ne de olsa, sonuçta, nihayetinde, her şeye rağmen, en nihayetinde\" ifadelerine denk gelir; bir yargıyı temel bir gerçekle desteklemenin doğal yoludur.",
+  "examples": [
+   {
+    "zh": "你别怪他,他毕竟还是个孩子,不懂事很正常。",
+    "pinyin": "Nǐ bié guài tā, tā bì jìng hái shì gè hái zi, bù dǒng shì hěn zhèng cháng。",
+    "en": "Don't blame him; he's a child after all, so being naive is normal."
+   },
+   {
+    "zh": "这次没成功没关系,毕竟这是我们第一次尝试。",
+    "pinyin": "Zhè cì méi chéng gōng méi guān xì, bì jìng zhè shì wǒ men dì yī cì cháng shì。",
+    "en": "It's okay we didn't succeed; after all, it was our first attempt."
+   },
+   {
+    "zh": "他虽然退休了,可毕竟是老专家,经验非常丰富。",
+    "pinyin": "Tā suī rán tuì xiū le, kě bì jìng shì lǎo zhuān jiā, jīng yàn fēi cháng fēng fù。",
+    "en": "Though retired, he's a veteran expert after all, with rich experience."
+   },
+   {
+    "zh": "再好的朋友也要保持分寸,毕竟距离产生美。",
+    "pinyin": "Zài hǎo de péng yǒu yě yào bǎo chí fēn cùn, bì jìng jù lí chǎn shēng měi。",
+    "en": "Even good friends need boundaries; distance makes the heart fonder."
+   },
+   {
+    "zh": "你多担待他一点,毕竟他刚来,对这里还不熟悉。",
+    "pinyin": "Nǐ duō dān dài tā yì diǎn, bì jìng tā gāng lái, duì zhè lǐ hái bù shú xī。",
+    "en": "Bear with him a little; after all, he's new and unfamiliar here."
+   },
+   {
+    "zh": "这件衣服虽然贵,但毕竟质量好,能穿很多年。",
+    "pinyin": "Zhè jiàn yī fú suī rán guì, dàn bì jìng zhì liàng hǎo, néng chuān hěn duō nián。",
+    "en": "This outfit is pricey, but the quality's good after all; it lasts years."
+   },
+   {
+    "zh": "他现在很风光,可毕竟是靠自己一步步努力来的。",
+    "pinyin": "Tā xiàn zài hěn fēng guāng, kě bì jìng shì kào zì jǐ yí bù bù nǔ lì lái de。",
+    "en": "He's glorious now, but it all came from his own gradual effort."
+   },
+   {
+    "zh": "话虽这么说,毕竟是自己的孩子,哪能真不管呢?",
+    "pinyin": "Huà suī zhè me shuō, bì jìng shì zì jǐ de hái zi, nǎ néng zhēn bù guǎn ne?",
+    "en": "Say what you will, he's your own child; how could you truly ignore him?"
+   },
+   {
+    "zh": "这个办法有风险,但毕竟是目前最可行的选择。",
+    "pinyin": "Zhè ge bàn fǎ yǒu fēng xiǎn, dàn bì jìng shì mù qián zuì kě xíng de xuǎn zé。",
+    "en": "This method has risks, but it's the most feasible choice for now."
+   },
+   {
+    "zh": "你别太苛求他,毕竟他也是一片好心。",
+    "pinyin": "Nǐ bié tài kē qiú tā, bì jìng tā yě shì yī piàn hǎo xīn。",
+    "en": "Don't be too harsh on him; he meant well, after all."
+   },
+   {
+    "zh": "虽然赢了比赛,可毕竟对手实力有限,不能太得意。",
+    "pinyin": "Suī rán yíng le bǐ sài, kě bì jìng duì shǒu shí lì yǒu xiàn, bù néng tài dé yì。",
+    "en": "We won, but the opponent was weak; don't get too pleased."
+   },
+   {
+    "zh": "他毕竟在这个行业干了三十年,眼光很独到。",
+    "pinyin": "Tā bì jìng zài zhè ge háng yè gàn le sān shí nián, yǎn guāng hěn dú dào。",
+    "en": "He's worked in this field for thirty years after all; his eye is keen."
+   },
+   {
+    "zh": "再舍不得也得让孩子独立,毕竟他总要长大。",
+    "pinyin": "Zài shě bù de yě de ràng hái zi dú lì, bì jìng tā zǒng yào zhǎng dà。",
+    "en": "However reluctant, you must let the child be independent; he must grow up."
+   },
+   {
+    "zh": "这点小误会算不了什么,毕竟你们是多年的老朋友。",
+    "pinyin": "Zhè diǎn xiǎo wù huì suàn bù liǎo shén me, bì jìng nǐ men shì duō nián de lǎo péng yǒu。",
+    "en": "This little misunderstanding is nothing; you're old friends after all."
+   },
+   {
+    "zh": "虽然那里条件艰苦,但毕竟是他生长的故乡。",
+    "pinyin": "Suī rán nà lǐ tiáo jiàn jiān kǔ, dàn bì jìng shì tā shēng zhǎng de gù xiāng。",
+    "en": "Though conditions there are hard, it's his native hometown after all."
+   },
+   {
+    "zh": "他做事有时冲动,但毕竟心地善良,值得交往。",
+    "pinyin": "Tā zuò shì yǒu shí chōng dòng, dàn bì jìng xīn de shàn liáng, zhí de jiāo wǎng。",
+    "en": "He can be impulsive, but he's kind-hearted after all, worth befriending."
+   },
+   {
+    "zh": "这次任务很重,但毕竟大家齐心,总能完成。",
+    "pinyin": "Zhè cì rèn wù hěn zhòng, dàn bì jìng dà jiā qí xīn, zǒng néng wán chéng。",
+    "en": "This task is heavy, but with everyone united, it can be done."
+   },
+   {
+    "zh": "你不必太自责,毕竟当时的情况谁也没料到。",
+    "pinyin": "Nǐ bù bì tài zì zé, bì jìng dāng shí de qíng kuàng shuí yě méi liào dào。",
+    "en": "Don't blame yourself too much; no one foresaw the situation."
+   },
+   {
+    "zh": "新手上路难免紧张,毕竟熟能生巧,慢慢就好了。",
+    "pinyin": "Xīn shǒu shàng lù nán miǎn jǐn zhāng, bì jìng shú néng shēng qiǎo, màn màn jiù hǎo le。",
+    "en": "Beginners are inevitably nervous; practice makes perfect, it'll get better."
+   },
+   {
+    "zh": "他毕竟见多识广,遇到问题总能想出办法。",
+    "pinyin": "Tā bì jìng jiàn duō shí guǎng, yù dào wèn tí zǒng néng xiǎng chū bàn fǎ。",
+    "en": "He's experienced after all; he always finds a solution to problems."
+   },
+   {
+    "zh": "这份工作再累,毕竟收入稳定,他舍不得辞。",
+    "pinyin": "Zhè fèn gōng zuò zài lèi, bì jìng shōu rù wěn dìng, tā shě bù de cí。",
+    "en": "However tiring this job is, the income's stable, so he won't quit."
+   },
+   {
+    "zh": "孩子考得不理想,可毕竟尽力了,你别再批评了。",
+    "pinyin": "Hái zi kǎo de bù lǐ xiǎng, kě bì jìng jìn lì le, nǐ bié zài pī píng le。",
+    "en": "The child didn't do well, but tried his best; stop criticizing."
+   },
+   {
+    "zh": "网上的说法不能全信,毕竟眼见才为实。",
+    "pinyin": "Wǎng shàng de shuō fǎ bù néng quán xìn, bì jìng yǎn jiàn cái wèi shí。",
+    "en": "Don't fully trust online claims; seeing is believing, after all."
+   },
+   {
+    "zh": "虽然分开多年,可毕竟是亲兄弟,血浓于水。",
+    "pinyin": "Suī rán fēn kāi duō nián, kě bì jìng shì qīn xiōng dì, xuè nóng yú shuǐ。",
+    "en": "Though apart for years, they're real brothers; blood is thicker than water."
+   },
+   {
+    "zh": "这座老房子该修了,毕竟已经住了几十年。",
+    "pinyin": "Zhè zuò lǎo fáng zi gāi xiū le, bì jìng yǐ jīng zhù le jǐ shí nián。",
+    "en": "This old house needs repairs; it's been lived in for decades, after all."
+   }
+  ]
+ },
+ {
+  "id": "g294",
+  "level": 4,
+  "title": "\"差点没\" ile \"az kalsın ...-yordu / ucu ucuna\"",
+  "titleEn": "Expressing \"almost\" using \"chadian mei\"",
+  "pattern": "Özne + 差点没 + Fiil",
+  "summary": "\"差点没\" ilginç bir kalıptır: istenmeyen olayda \"差点没VP\" = az kalsın oluyordu (ama olmadı); istenen olayda ise \"差点没VP\" = ucu ucuna oldu.",
+  "explanation": "\"差点没\" (chàdiǎn méi) \"差点\"in \"没\"lu biçimidir ve şaşırtıcı bir mantık taşır: (1) İSTENMEYEN bir olayla, \"差点\" ve \"差点没\" AYNI anlama gelir — \"az kalsın oluyordu (ama olmadı)\": 我差点没摔倒 = 我差点摔倒 (Az kalsın düşüyordum, ama düşmedim). Buradaki \"没\" anlamı değiştirmez, sadece pekiştirir. (2) İSTENEN/olması arzu edilen bir olayla ise, \"差点没VP\" = \"ucu ucuna oldu, az kalsın olmuyordu (ama oldu)\": 我差点没赶上车 (Az kalsın yetişemiyordum — ama yetiştim), 差点没考上 (Az kalsın giremiyordum — ama girdim). Bu ince ayrım (istenmeyen olayda olmadı, istenen olayda ucu ucuna oldu) HSK4'ün en zorlayıcı noktalarından biridir. Türkçedeki \"az kalsın ...-yordu, ramak kaldı, ucu ucuna, kıl payı\" ifadelerine denk gelir; bir olayın kıl payıyla olmasını/olmamasını anlatır.",
+  "examples": [
+   {
+    "zh": "路上太滑,我差点没摔一跤,幸好扶住了栏杆。",
+    "pinyin": "Lù shàng tài huá, wǒ chà diǎn méi shuāi yī jiāo, xìng hǎo fú zhù le lán gān。",
+    "en": "The road was slippery; I almost fell, but luckily grabbed the rail."
+   },
+   {
+    "zh": "车来得太急,那个孩子差点没被撞到,真吓人。",
+    "pinyin": "Chē lái de tài jí, nà ge hái zi chà diǎn méi bèi zhuàng dào, zhēn xià rén。",
+    "en": "The car came so fast the child was almost hit; it was terrifying."
+   },
+   {
+    "zh": "时间太紧,我一路狂奔,差点没赶上那趟火车。",
+    "pinyin": "Shí jiān tài jǐn, wǒ yī lù kuáng bēn, chà diǎn méi gǎn shàng nà tàng huǒ chē。",
+    "en": "Time was tight; I sprinted and barely caught that train."
+   },
+   {
+    "zh": "这道题太难,全班差点没有一个人做对。",
+    "pinyin": "Zhè dào tí tài nán, quán bān chà diǎn méi yǒu yí gè rén zuò duì。",
+    "en": "This problem was so hard that almost no one in the class got it right."
+   },
+   {
+    "zh": "听到那个笑话,我差点没把嘴里的水喷出来。",
+    "pinyin": "Tīng dào nà ge xiào huà, wǒ chà diǎn méi bǎ zuǐ lǐ de shuǐ pēn chū lái。",
+    "en": "Hearing the joke, I almost spat out the water in my mouth."
+   },
+   {
+    "zh": "楼梯太黑,我差点没踩空,吓出一身冷汗。",
+    "pinyin": "Lóu tī tài hēi, wǒ chà diǎn méi cǎi kōng, xià chū yī shēn lěng hàn。",
+    "en": "The stairs were dark; I almost missed a step and broke out in a cold sweat."
+   },
+   {
+    "zh": "这次考试太难,我差点没及格,好险啊。",
+    "pinyin": "Zhè cì kǎo shì tài nán, wǒ chà diǎn méi jí gé, hǎo xiǎn a。",
+    "en": "This exam was so hard I barely passed; what a close call."
+   },
+   {
+    "zh": "他开车太快,差点没撞上路边的大树。",
+    "pinyin": "Tā kāi chē tài kuài, chà diǎn méi zhuàng shàng lù biān de dà shù。",
+    "en": "He drove so fast he almost hit the big tree by the road."
+   },
+   {
+    "zh": "看那部电影的时候,我感动得差点没哭出来。",
+    "pinyin": "Kàn nà bù diàn yǐng de shí hòu, wǒ gǎn dòng de chà diǎn méi kū chū lái。",
+    "en": "Watching that movie, I was so moved I almost cried."
+   },
+   {
+    "zh": "人太多了,我挤了半天,差点没上得去那班公交车。",
+    "pinyin": "Rén tài duō le, wǒ jǐ le bàn tiān, chà diǎn méi shàng de qù nà bān gōng jiāo chē。",
+    "en": "It was so crowded I squeezed for ages and barely got on the bus."
+   },
+   {
+    "zh": "这个消息太突然,我差点没反应过来。",
+    "pinyin": "Zhè ge xiāo xī tài tū rán, wǒ chà diǎn méi fǎn yìng guò lái。",
+    "en": "The news was so sudden I almost didn't react."
+   },
+   {
+    "zh": "那天风特别大,我手里的帽子差点没被吹跑。",
+    "pinyin": "Nà tiān fēng tè bié dà, wǒ shǒu lǐ de mào zi chà diǎn méi bèi chuī pǎo。",
+    "en": "The wind was so strong that day my hat was almost blown away."
+   },
+   {
+    "zh": "他准备得太仓促,差点没通过这次面试。",
+    "pinyin": "Tā zhǔn bèi de tài cāng cù, chà diǎn méi tōng guò zhè cì miàn shì。",
+    "en": "He prepared too hastily and barely passed the interview."
+   },
+   {
+    "zh": "这条鱼太滑,我差点没抓住,费了好大劲。",
+    "pinyin": "Zhè tiáo yú tài huá, wǒ chà diǎn méi zhuā zhù, fèi le hǎo dà jìn。",
+    "en": "The fish was so slippery I almost couldn't grab it; it took great effort."
+   },
+   {
+    "zh": "那天雾太大,我差点没找到回家的路。",
+    "pinyin": "Nà tiān wù tài dà, wǒ chà diǎn méi zhǎo dào huí jiā de lù。",
+    "en": "The fog was so thick that day I almost couldn't find my way home."
+   },
+   {
+    "zh": "他说得太快,我差点没听清楚他到底说了什么。",
+    "pinyin": "Tā shuō de tài kuài, wǒ chà diǎn méi tīng qīng chǔ tā dào dǐ shuō le shén me。",
+    "en": "He spoke so fast I almost didn't catch what he said."
+   },
+   {
+    "zh": "箱子太重,搬上楼的时候我差点没闪了腰。",
+    "pinyin": "Xiāng zi tài zhòng, bān shàng lóu de shí hòu wǒ chà diǎn méi shǎn le yāo。",
+    "en": "The box was so heavy I almost strained my back carrying it up."
+   },
+   {
+    "zh": "这次机会太难得,我差点没抓住,现在想想都后怕。",
+    "pinyin": "Zhè cì jī huì tài nán de, wǒ chà diǎn méi zhuā zhù, xiàn zài xiǎng xiǎng dōu hòu pà。",
+    "en": "This chance was so rare I almost missed it; it scares me to think back."
+   },
+   {
+    "zh": "他一激动,差点没把手里的杯子摔在地上。",
+    "pinyin": "Tā yī jī dòng, chà diǎn méi bǎ shǒu lǐ de bēi zi shuāi zài de shàng。",
+    "en": "In his excitement, he almost dropped the cup in his hand."
+   },
+   {
+    "zh": "排队的人太多,我差点没买到最后一张票。",
+    "pinyin": "Pái duì de rén tài duō, wǒ chà diǎn méi mǎi dào zuì hòu yī zhāng piào。",
+    "en": "The queue was so long I barely got the last ticket."
+   },
+   {
+    "zh": "那道菜太辣,我差点没被辣得跳起来。",
+    "pinyin": "Nà dào cài tài là, wǒ chà diǎn méi bèi là de tiào qǐ lái。",
+    "en": "That dish was so spicy it almost made me jump up."
+   },
+   {
+    "zh": "他讲得太逼真,我差点没信以为真。",
+    "pinyin": "Tā jiǎng de tài bī zhēn, wǒ chà diǎn méi xìn yǐ wéi zhēn。",
+    "en": "He spoke so convincingly I almost took it as true."
+   },
+   {
+    "zh": "坡太陡,我骑车下来差点没刹住车。",
+    "pinyin": "Pō tài dǒu, wǒ qí chē xià lái chà diǎn méi shā zhù chē。",
+    "en": "The slope was so steep I almost couldn't brake riding down."
+   },
+   {
+    "zh": "他把话说得太绝,我差点没跟他吵起来。",
+    "pinyin": "Tā bǎ huà shuō de tài jué, wǒ chà diǎn méi gēn tā chǎo qǐ lái。",
+    "en": "He spoke so harshly I almost got into an argument with him."
+   },
+   {
+    "zh": "这次搬家东西太多,我差点没累趴下。",
+    "pinyin": "Zhè cì bān jiā dōng xī tài duō, wǒ chà diǎn méi lèi pā xià。",
+    "en": "There was so much stuff moving this time I almost collapsed from exhaustion."
+   }
+  ]
+ },
+ {
+  "id": "g295",
+  "level": 4,
+  "title": "\"反正\" ile \"nasıl olsa, zaten\"",
+  "titleEn": "Expressing \"anyway\" with \"fanzheng\"",
+  "pattern": "反正 + ...",
+  "summary": "\"反正\" (fǎnzheng) bir sonucun koşullardan bağımsız olduğunu bildirir: 反正我不去 = Nasıl olsa ben gitmiyorum; 反正也没事,你就来吧 = Zaten bir şey yok, gelsene.",
+  "explanation": "\"反正\" bir sonucun/kararın koşullar ne olursa olsun DEĞİŞMEYECEĞİNİ ya da bir gerekçenin zaten geçerli olduğunu vurgular: \"nasıl olsa, zaten, her hâlükârda, ne olursa olsun\". İki tipik kullanımı: (1) Kararlılık/değişmezlik — 你怎么说都行,反正我不同意 (Ne dersen de, ben nasıl olsa katılmıyorum). (2) Bir gerekçeyi \"zaten\" ile pekiştirme — 反正你也顺路,就帮我带一下吧 (Zaten yolun üstü, şunu da getiriver). Çoğu zaman \"不管...反正...\" (... olursa olsun, nasıl olsa ...) biçiminde gelir: 不管天气怎么样,反正我们都要出发 (Hava nasıl olursa olsun, biz her hâlükârda yola çıkacağız). Konuşmacının bir sonuca güvenini, aldırışsızlığını ya da bir gerekçenin kesinliğini yansıtır. Türkçedeki \"nasıl olsa, zaten, her hâlükârda, ne olursa olsun, ne de olsa\" ifadelerine denk gelir; koşuldan bağımsız bir sonucu ya da hazır bir gerekçeyi vurgulamanın yoludur.",
+  "examples": [
+   {
+    "zh": "你爱信不信,反正我说的都是实话。",
+    "pinyin": "Nǐ ài xìn bù xìn, fǎn zhèng wǒ shuō de dōu shì shí huà。",
+    "en": "Believe it or not; anyway, what I said is all true."
+   },
+   {
+    "zh": "不管你们去不去,反正我是一定要去的。",
+    "pinyin": "Bù guǎn nǐ men qù bù qù, fǎn zhèng wǒ shì yí dìng yào qù de。",
+    "en": "Whether you go or not, I'm definitely going anyway."
+   },
+   {
+    "zh": "时间还早,反正也没什么事,咱们再多聊会儿。",
+    "pinyin": "Shí jiān hái zǎo, fǎn zhèng yě méi shén me shì, zán men zài duō liáo huì er。",
+    "en": "It's still early, and there's nothing to do anyway; let's chat more."
+   },
+   {
+    "zh": "这件衣服你就拿去穿吧,反正我也很少穿它。",
+    "pinyin": "Zhè jiàn yī fú nǐ jiù ná qù chuān ba, fǎn zhèng wǒ yě hěn shǎo chuān tā。",
+    "en": "Take this outfit and wear it; I rarely wear it anyway."
+   },
+   {
+    "zh": "反正你顺路,就帮我把这个包裹带到楼下吧。",
+    "pinyin": "Fǎn zhèng nǐ shùn lù, jiù bāng wǒ bǎ zhè ge bāo guǒ dài dào lóu xià ba。",
+    "en": "Since you're headed that way anyway, take this parcel downstairs for me."
+   },
+   {
+    "zh": "说了这么多他也听不进去,反正我尽力了。",
+    "pinyin": "Shuō le zhè me duō tā yě tīng bù jìn qù, fǎn zhèng wǒ jìn lì le。",
+    "en": "He won't listen however much I say; anyway, I did my best."
+   },
+   {
+    "zh": "不管明天下不下雨,反正活动照常进行。",
+    "pinyin": "Bù guǎn míng tiān xià bù xià yǔ, fǎn zhèng huó dòng zhào cháng jìn xíng。",
+    "en": "Rain or not tomorrow, the event will go ahead anyway."
+   },
+   {
+    "zh": "这点钱你先拿着用,反正我暂时也用不上。",
+    "pinyin": "Zhè diǎn qián nǐ xiān ná zhe yòng, fǎn zhèng wǒ zàn shí yě yòng bù shàng。",
+    "en": "Take this money for now; I don't need it at the moment anyway."
+   },
+   {
+    "zh": "你别问那么多了,反正到时候你就知道了。",
+    "pinyin": "Nǐ bié wèn nà me duō le, fǎn zhèng dào shí hòu nǐ jiù zhī dào le。",
+    "en": "Stop asking so much; you'll know when the time comes anyway."
+   },
+   {
+    "zh": "剩下的这些菜别倒了,反正明天还能热着吃。",
+    "pinyin": "Shèng xià de zhè xiē cài bié dào le, fǎn zhèng míng tiān hái néng rè zhe chī。",
+    "en": "Don't throw away the leftovers; they can be reheated tomorrow anyway."
+   },
+   {
+    "zh": "反正闲着也是闲着,不如出去走走,散散心。",
+    "pinyin": "Fǎn zhèng xián zhe yě shì xián zhe, bù rú chū qù zǒu zǒu, sàn sàn xīn。",
+    "en": "Since we're idle anyway, better go out for a walk to unwind."
+   },
+   {
+    "zh": "不管别人怎么看,反正我觉得这样做是对的。",
+    "pinyin": "Bù guǎn bié rén zěn me kàn, fǎn zhèng wǒ jué de zhè yàng zuò shì duì de。",
+    "en": "Whatever others think, I feel doing this is right anyway."
+   },
+   {
+    "zh": "你今天来不来都行,反正我一直在家。",
+    "pinyin": "Nǐ jīn tiān lái bù lái dōu xíng, fǎn zhèng wǒ yì zhí zài jiā。",
+    "en": "Come today or not, it's fine; I'm home all along anyway."
+   },
+   {
+    "zh": "这条路虽然远点,但反正不堵车,还是走这条吧。",
+    "pinyin": "Zhè tiáo lù suī rán yuǎn diǎn, dàn fǎn zhèng bù dǔ chē, hái shì zǒu zhè tiáo ba。",
+    "en": "This road is a bit far, but it doesn't jam anyway; let's take it."
+   },
+   {
+    "zh": "说什么都晚了,反正事情已经发生了,后悔也没用。",
+    "pinyin": "Shuō shén me dōu wǎn le, fǎn zhèng shì qíng yǐ jīng fā shēng le, hòu huǐ yě méi yòng。",
+    "en": "It's too late to say anything; it's happened anyway, regret is useless."
+   },
+   {
+    "zh": "你别客气,多拿点儿,反正家里还有很多。",
+    "pinyin": "Nǐ bié kè qì, duō ná diǎn ér, fǎn zhèng jiā lǐ hái yǒu hěn duō。",
+    "en": "Don't be shy, take more; there's plenty at home anyway."
+   },
+   {
+    "zh": "反正迟早都要做,不如现在就把它做完。",
+    "pinyin": "Fǎn zhèng chí zǎo dōu yào zuò, bù rú xiàn zài jiù bǎ tā zuò wán。",
+    "en": "Since it must be done sooner or later, better finish it now."
+   },
+   {
+    "zh": "不管这次成不成,反正我们已经尽力争取了。",
+    "pinyin": "Bù guǎn zhè cì chéng bù chéng, fǎn zhèng wǒ men yǐ jīng jìn lì zhēng qǔ le。",
+    "en": "Whether it works this time or not, we've tried our best anyway."
+   },
+   {
+    "zh": "你就放心去吧,反正家里有我照顾着。",
+    "pinyin": "Nǐ jiù fàng xīn qù ba, fǎn zhèng jiā lǐ yǒu wǒ zhào gù zhe。",
+    "en": "Go without worry; I'll take care of things at home anyway."
+   },
+   {
+    "zh": "这些旧书你要就拿去,反正放着也是占地方。",
+    "pinyin": "Zhè xiē jiù shū nǐ yào jiù ná qù, fǎn zhèng fàng zhe yě shì zhàn dì fāng。",
+    "en": "Take these old books if you want; they just take up space anyway."
+   },
+   {
+    "zh": "他怎么劝我都没用,反正我主意已定。",
+    "pinyin": "Tā zěn me quàn wǒ dōu méi yòng, fǎn zhèng wǒ zhǔ yì yǐ dìng。",
+    "en": "No persuasion works; my mind is made up anyway."
+   },
+   {
+    "zh": "反正路过银行,我就顺便把钱取了。",
+    "pinyin": "Fǎn zhèng lù guò yín háng, wǒ jiù shùn biàn bǎ qián qǔ le。",
+    "en": "Since I pass the bank anyway, I'll withdraw the money on the way."
+   },
+   {
+    "zh": "不管花多少钱,反正一定要把病治好。",
+    "pinyin": "Bù guǎn huā duō shǎo qián, fǎn zhèng yí dìng yào bǎ bìng zhì hǎo。",
+    "en": "However much it costs, the illness must be cured anyway."
+   },
+   {
+    "zh": "你别担心他,反正他这个人一向能照顾好自己。",
+    "pinyin": "Nǐ bié dān xīn tā, fǎn zhèng tā zhè ge rén yí xiàng néng zhào gù hǎo zì jǐ。",
+    "en": "Don't worry about him; he can always take care of himself anyway."
+   },
+   {
+    "zh": "反正今天也做不完了,咱们明天再接着干吧。",
+    "pinyin": "Fǎn zhèng jīn tiān yě zuò bù wán le, zán men míng tiān zài jiē zhe gàn ba。",
+    "en": "It can't be finished today anyway; let's continue tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "g296",
+  "level": 4,
+  "title": "\"尽量\" ile \"elden geldiğince, mümkün olduğunca\"",
+  "titleEn": "Expressing \"as much as possible\" with \"jinliang\"",
+  "pattern": "尽量 + Fiil",
+  "summary": "\"尽量\" (jǐnliàng) \"elden geldiğince, mümkün olduğunca\" der: 你尽量早点来 = Elinden geldiğince erken gel.",
+  "explanation": "\"尽量\" bir eylemi ELDEN GELDİĞİNCE, mümkün olan en yüksek ölçüde yapmaya çalışmayı bildirir: \"elden geldiğince, mümkün olduğunca, olabildiğince, gücünün yettiğince\". Fiilin önünde gelir: 你尽量多休息 (Elinden geldiğince çok dinlen), 我尽量赶在天黑前回来 (Karanlık basmadan dönmeye çalışırım), 说话尽量小声一点 (Mümkün olduğunca alçak sesle konuş). Bir çabayı, gayreti gösterir ama kesin bir garanti vermez — \"elimden geleni yaparım\" tonu taşır. Ricalarda ve söz vermelerde çok kullanılır. \"尽力\" (bütün gücüyle) ile yakındır; \"尽量\" bir dereceyi/ölçüyü mümkün olduğunca yükseltmeyi, \"尽力\" ise bütün gücünü ortaya koymayı vurgular. Türkçedeki \"elden geldiğince, mümkün olduğunca, olabildiğince, elimden geleni yaparım\" ifadelerine denk gelir; bir çabayı ölçülü ama içten biçimde ifade etmenin yoludur.",
+  "examples": [
+   {
+    "zh": "我尽量在下班前把这份报告写完,你放心。",
+    "pinyin": "Wǒ jǐn liàng zài xià bān qián bǎ zhè fèn bào gào xiě wán, nǐ fàng xīn。",
+    "en": "I'll try to finish this report before work ends; rest assured."
+   },
+   {
+    "zh": "路上不太好走,你开车尽量慢一点,注意安全。",
+    "pinyin": "Lù shàng bù tài hǎo zǒu, nǐ kāi chē jǐn liàng màn yì diǎn, zhù yì ān quán。",
+    "en": "The road isn't easy; drive as slowly as you can and stay safe."
+   },
+   {
+    "zh": "孩子睡着了,大家说话尽量小声一点。",
+    "pinyin": "Hái zi shuì zháo le, dà jiā shuō huà jǐn liàng xiǎo shēng yì diǎn。",
+    "en": "The child is asleep; everyone please keep your voices as low as possible."
+   },
+   {
+    "zh": "为了健康,平时尽量少吃油腻和过咸的食物。",
+    "pinyin": "Wèi le jiàn kāng, píng shí jǐn liàng shǎo chī yóu nì hé guò xián de shí wù。",
+    "en": "For health, try to eat as little greasy and salty food as possible."
+   },
+   {
+    "zh": "我尽量抽时间去看你,不过最近实在太忙。",
+    "pinyin": "Wǒ jǐn liàng chōu shí jiān qù kàn nǐ, bù guò zuì jìn shí zài tài máng。",
+    "en": "I'll try to make time to see you, but I've been really busy lately."
+   },
+   {
+    "zh": "写文章的时候,尽量用简单明了的句子。",
+    "pinyin": "Xiě wén zhāng de shí hòu, jǐn liàng yòng jiǎn dān míng liǎo de jù zi。",
+    "en": "When writing, use sentences as simple and clear as possible."
+   },
+   {
+    "zh": "既然答应了别人,就尽量说到做到。",
+    "pinyin": "Jì rán dā yìng le bié rén, jiù jǐn liàng shuō dào zuò dào。",
+    "en": "Since you promised someone, try your best to follow through."
+   },
+   {
+    "zh": "天气冷了,出门尽量多穿点,别着凉了。",
+    "pinyin": "Tiān qì lěng le, chū mén jǐn liàng duō chuān diǎn, bié zháo liáng le。",
+    "en": "It's cold; wear as much as you can when out, don't catch a chill."
+   },
+   {
+    "zh": "这件事尽量别让老人知道,免得他们担心。",
+    "pinyin": "Zhè jiàn shì jǐn liàng bié ràng lǎo rén zhī dào, miǎn de tā men dān xīn。",
+    "en": "Try not to let the elderly know about this, lest they worry."
+   },
+   {
+    "zh": "时间紧张,大家尽量提高效率,争取按时完成。",
+    "pinyin": "Shí jiān jǐn zhāng, dà jiā jǐn liàng tí gāo xiào lǜ, zhēng qǔ àn shí wán chéng。",
+    "en": "Time is tight; everyone try to work efficiently and finish on time."
+   },
+   {
+    "zh": "你有什么困难尽量提出来,我们一起想办法。",
+    "pinyin": "Nǐ yǒu shén me kùn nán jǐn liàng tí chū lái, wǒ men yì qǐ xiǎng bàn fǎ。",
+    "en": "Raise whatever difficulties you have; we'll figure them out together."
+   },
+   {
+    "zh": "为了不打扰邻居,晚上尽量不要制造太大的噪音。",
+    "pinyin": "Wèi le bù dǎ rǎo lín jū, wǎn shàng jǐn liàng bú yào zhì zào tài dà de zào yīn。",
+    "en": "To avoid disturbing neighbors, try not to make too much noise at night."
+   },
+   {
+    "zh": "我尽量满足你们的要求,不过有些确实做不到。",
+    "pinyin": "Wǒ jǐn liàng mǎn zú nǐ men de yāo qiú, bù guò yǒu xiē què shí zuò bú dào。",
+    "en": "I'll try to meet your requests, but some truly can't be done."
+   },
+   {
+    "zh": "学一门语言,平时要尽量多听多说多练。",
+    "pinyin": "Xué yī mén yǔ yán, píng shí yào jǐn liàng duō tīng duō shuō duō liàn。",
+    "en": "Learning a language, try to listen, speak, and practice as much as possible."
+   },
+   {
+    "zh": "买东西的时候,尽量货比三家,别冲动消费。",
+    "pinyin": "Mǎi dōng xī de shí hòu, jǐn liàng huò bǐ sān jiā, bié chōng dòng xiāo fèi。",
+    "en": "When shopping, compare a few shops and avoid impulse buying."
+   },
+   {
+    "zh": "既然来了,就尽量放松,好好享受这次假期。",
+    "pinyin": "Jì rán lái le, jiù jǐn liàng fàng sōng, hǎo hǎo xiǎng shòu zhè cì jià qī。",
+    "en": "Since you've come, relax as much as you can and enjoy the holiday."
+   },
+   {
+    "zh": "回答问题的时候,尽量说得具体一些,别太笼统。",
+    "pinyin": "Huí dá wèn tí de shí hòu, jǐn liàng shuō de jù tǐ yī xiē, bié tài lǒng tǒng。",
+    "en": "When answering, be as specific as possible, not too vague."
+   },
+   {
+    "zh": "为了赶时间,我们尽量抄近路走。",
+    "pinyin": "Wèi le gǎn shí jiān, wǒ men jǐn liàng chāo jìn lù zǒu。",
+    "en": "To save time, we took the shortest route we could."
+   },
+   {
+    "zh": "你身体不好,以后尽量别熬夜了。",
+    "pinyin": "Nǐ shēn tǐ bù hǎo, yǐ hòu jǐn liàng bié áo yè le。",
+    "en": "Your health isn't good; try not to stay up late from now on."
+   },
+   {
+    "zh": "有意见尽量当面说清楚,别在背后议论。",
+    "pinyin": "Yǒu yì jiàn jǐn liàng dāng miàn shuō qīng chǔ, bié zài bèi hòu yì lùn。",
+    "en": "Air your opinions to one's face as much as possible, don't gossip behind backs."
+   },
+   {
+    "zh": "这些贵重物品,你尽量随身带着,别乱放。",
+    "pinyin": "Zhè xiē guì zhòng wù pǐn, nǐ jǐn liàng suí shēn dài zhe, bié luàn fàng。",
+    "en": "Keep these valuables on you as much as you can; don't leave them around."
+   },
+   {
+    "zh": "我尽量赶在会议开始之前到,不让大家等我。",
+    "pinyin": "Wǒ jǐn liàng gǎn zài huì yì kāi shǐ zhī qián dào, bù ràng dà jiā děng wǒ。",
+    "en": "I'll try to arrive before the meeting starts so no one waits."
+   },
+   {
+    "zh": "照顾病人,饮食上要尽量清淡、有营养。",
+    "pinyin": "Zhào gù bìng rén, yǐn shí shàng yào jǐn liàng qīng dàn、 yǒu yíng yǎng。",
+    "en": "In caring for a patient, keep the diet as light and nutritious as possible."
+   },
+   {
+    "zh": "遇到分歧的时候,双方尽量心平气和地沟通。",
+    "pinyin": "Yù dào fēn qí de shí hòu, shuāng fāng jǐn liàng xīn píng qì hé de gōu tōng。",
+    "en": "When disagreements arise, both sides should communicate as calmly as possible."
+   },
+   {
+    "zh": "时间有限,发言尽量简短,把重点说清楚就行。",
+    "pinyin": "Shí jiān yǒu xiàn, fā yán jǐn liàng jiǎn duǎn, bǎ zhòng diǎn shuō qīng chǔ jiù xíng。",
+    "en": "Time is limited; keep speeches as brief as possible, just make the point clear."
+   }
+  ]
+ },
+ {
+  "id": "g297",
+  "level": 4,
+  "title": "\"甚至\" ile \"hatta, bile\"",
+  "titleEn": "Expressing \"even\" with \"shenzhi\"",
+  "pattern": "甚至 + Uç Örnek",
+  "summary": "\"甚至\" (shènzhì) en uç bir örneği vurgular: 他忙得甚至忘了吃饭 = O kadar meşguldü ki yemeği bile unuttu.",
+  "explanation": "\"甚至\" bir dizideki EN UÇ, en beklenmedik ya da en aşırı örneği öne çıkarıp \"hatta, dahası, ...-e kadar, ... bile\" der ve böylece söylenenin ne derece ileri gittiğini vurgular: 他很努力,甚至连周末都不休息 (Çok çalışkan, hatta hafta sonu bile dinlenmiyor), 这道题太难了,甚至老师也一时做不出来 (Bu soru öyle zor ki hatta öğretmen bile bir anda çözemedi). Bir öğeyi (isim, fiil, cümle) vurgulayarak bir artışın/dizinin en uç noktasını gösterir; çoğu zaman \"连...都/也\" ile birlikte gelir (甚至连...都...). Önceki ifadeyi daha da ileri götüren bir ekleme bildirir. Türkçedeki \"hatta, dahası, ...-e kadar, ... bile\" ifadelerine denk gelir; bir durumun uç bir örnekle ne kadar ileri gittiğini vurgulamanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "他工作起来非常投入,甚至连吃饭都忘了。",
+    "pinyin": "Tā gōng zuò qǐ lái fēi cháng tóu rù, shèn zhì lián chī fàn dōu wàng le。",
+    "en": "He's so absorbed in work that he even forgets to eat."
+   },
+   {
+    "zh": "这个消息传得很快,甚至连隔壁村的人都知道了。",
+    "pinyin": "Zhè ge xiāo xī chuán de hěn kuài, shèn zhì lián gé bì cūn de rén dōu zhī dào le。",
+    "en": "The news spread so fast that even the next village knew."
+   },
+   {
+    "zh": "他很少发脾气,甚至在最困难的时候也很冷静。",
+    "pinyin": "Tā hěn shǎo fā pí qì, shèn zhì zài zuì kùn nán de shí hòu yě hěn lěng jìng。",
+    "en": "He rarely loses his temper, staying calm even in the hardest times."
+   },
+   {
+    "zh": "那本书很受欢迎,甚至被翻译成了十几种语言。",
+    "pinyin": "Nà běn shū hěn shòu huān yíng, shèn zhì bèi fān yì chéng le shí jǐ zhǒng yǔ yán。",
+    "en": "That book is so popular it's even been translated into over ten languages."
+   },
+   {
+    "zh": "他学得特别快,甚至比教他的老师还厉害。",
+    "pinyin": "Tā xué de tè bié kuài, shèn zhì bǐ jiào tā de lǎo shī hái lì hài。",
+    "en": "He learns so fast he's even better than the teacher who taught him."
+   },
+   {
+    "zh": "这道菜太辣了,甚至有人辣得直流眼泪。",
+    "pinyin": "Zhè dào cài tài là le, shèn zhì yǒu rén là de zhí liú yǎn lèi。",
+    "en": "This dish is so spicy that some people even tear up."
+   },
+   {
+    "zh": "他忙得连轴转,甚至好几天都没能好好睡一觉。",
+    "pinyin": "Tā máng de lián zhóu zhuǎn, shèn zhì hǎo jǐ tiān dōu méi néng hǎo hǎo shuì yī jiào。",
+    "en": "He's been working nonstop, even going days without proper sleep."
+   },
+   {
+    "zh": "她对工作非常认真,甚至休假的时候也放心不下。",
+    "pinyin": "Tā duì gōng zuò fēi cháng rèn zhēn, shèn zhì xiū jià de shí hòu yě fàng xīn bù xià。",
+    "en": "She's so dedicated that she can't relax even on vacation."
+   },
+   {
+    "zh": "这次地震影响很大,甚至几百公里外都有震感。",
+    "pinyin": "Zhè cì dì zhèn yǐng xiǎng hěn dà, shèn zhì jǐ bǎi gōng lǐ wài dōu yǒu zhèn gǎn。",
+    "en": "This earthquake's impact was huge; even hundreds of kilometers away it was felt."
+   },
+   {
+    "zh": "他记忆力惊人,甚至能记住每个人的生日。",
+    "pinyin": "Tā jì yì lì jīng rén, shèn zhì néng jì zhù měi gè rén de shēng rì。",
+    "en": "His memory is amazing; he can even recall everyone's birthday."
+   },
+   {
+    "zh": "这个孩子很懂事,甚至会主动帮妈妈做家务。",
+    "pinyin": "Zhè ge hái zi hěn dǒng shì, shèn zhì huì zhǔ dòng bāng mā mā zuò jiā wù。",
+    "en": "This child is so sensible he even helps mom with chores on his own."
+   },
+   {
+    "zh": "他为了省钱,甚至连一瓶水都舍不得买。",
+    "pinyin": "Tā wèi le shěng qián, shèn zhì lián yī píng shuǐ dōu shě bù de mǎi。",
+    "en": "To save money, he won't even spring for a bottle of water."
+   },
+   {
+    "zh": "那场比赛太精彩了,甚至连不喜欢运动的人都看得入迷。",
+    "pinyin": "Nà chǎng bǐ sài tài jīng cǎi le, shèn zhì lián bù xǐ huān yùn dòng de rén dōu kàn de rù mí。",
+    "en": "That match was so exciting even non-sports fans were captivated."
+   },
+   {
+    "zh": "他的汉语说得很地道,甚至能听懂很多方言。",
+    "pinyin": "Tā de hàn yǔ shuō de hěn dì dào, shèn zhì néng tīng dǒng hěn duō fāng yán。",
+    "en": "His Chinese is so authentic he can even understand many dialects."
+   },
+   {
+    "zh": "这种技术非常先进,甚至可以在黑暗中工作。",
+    "pinyin": "Zhè zhǒng jì shù fēi cháng xiān jìn, shèn zhì kě yǐ zài hēi àn zhōng gōng zuò。",
+    "en": "This technology is so advanced it can even work in the dark."
+   },
+   {
+    "zh": "他太紧张了,甚至把准备好的台词全忘了。",
+    "pinyin": "Tā tài jǐn zhāng le, shèn zhì bǎ zhǔn bèi hǎo de tái cí quán wàng le。",
+    "en": "He was so nervous he even forgot all his prepared lines."
+   },
+   {
+    "zh": "这家餐厅生意火爆,甚至要提前一个星期订位。",
+    "pinyin": "Zhè jiā cān tīng shēng yì huǒ bào, shèn zhì yào tí qián yí gè xīng qī dìng wèi。",
+    "en": "This restaurant is so busy you even have to book a week ahead."
+   },
+   {
+    "zh": "他对家乡的感情很深,甚至连口音都一直没变。",
+    "pinyin": "Tā duì jiā xiāng de gǎn qíng hěn shēn, shèn zhì lián kǒu yīn dōu yì zhí méi biàn。",
+    "en": "His feelings for home run deep; even his accent never changed."
+   },
+   {
+    "zh": "这场大雪下得很大,甚至压断了不少树枝。",
+    "pinyin": "Zhè chǎng dà xuě xià de hěn dà, shèn zhì yā duàn le bù shǎo shù zhī。",
+    "en": "This snow fell so heavily it even snapped many branches."
+   },
+   {
+    "zh": "他做事非常细心,甚至连标点符号都不放过。",
+    "pinyin": "Tā zuò shì fēi cháng xì xīn, shèn zhì lián biāo diǎn fú hào dōu bù fàng guò。",
+    "en": "He's so meticulous he doesn't even overlook punctuation."
+   },
+   {
+    "zh": "那位老人身体很好,甚至还能自己下地干活。",
+    "pinyin": "Nà wèi lǎo rén shēn tǐ hěn hǎo, shèn zhì hái néng zì jǐ xià de gàn huó。",
+    "en": "That old man is so healthy he can even work the fields himself."
+   },
+   {
+    "zh": "这件事让他很受打击,甚至一度想要放弃。",
+    "pinyin": "Zhè jiàn shì ràng tā hěn shòu dǎ jī, shèn zhì yí dù xiǎng yào fàng qì。",
+    "en": "This dealt him a blow; he even thought of giving up at one point."
+   },
+   {
+    "zh": "他的画很受欢迎,甚至有人愿意出高价收藏。",
+    "pinyin": "Tā de huà hěn shòu huān yíng, shèn zhì yǒu rén yuàn yì chū gāo jià shōu cáng。",
+    "en": "His paintings are so popular some even pay high prices to collect them."
+   },
+   {
+    "zh": "这个软件功能很强大,甚至能自动翻译多国语言。",
+    "pinyin": "Zhè ge ruǎn jiàn gōng néng hěn qiáng dà, shèn zhì néng zì dòng fān yì duō guó yǔ yán。",
+    "en": "This software is so powerful it can even auto-translate many languages."
+   },
+   {
+    "zh": "他为了照顾病人,甚至把自己累病了。",
+    "pinyin": "Tā wèi le zhào gù bìng rén, shèn zhì bǎ zì jǐ lèi bìng le。",
+    "en": "In caring for the patient, he even fell ill from exhaustion."
+   }
+  ]
  }
 ]

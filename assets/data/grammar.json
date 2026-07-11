@@ -37942,5 +37942,413 @@
     "en": "How could you reveal their secret? That really hurts the friendship."
    }
   ]
+ },
+ {
+  "id": "g280",
+  "level": 3,
+  "title": "\"之间\" ile \"中间\" farkı",
+  "titleEn": "Comparing \"zhijian\" and \"zhongjian\"",
+  "pattern": "A 和 B 之间 / A 和 B 中间 / ...的中间",
+  "summary": "\"之间\" iki (ya da çok) taraf ARASINDAKİ ilişkiyi/aralığı soyut anlatır (朋友之间); \"中间\" ise somut ORTA/orta nokta ya da iki şeyin tam arasını gösterir.",
+  "explanation": "\"之间\" ve \"中间\" ikisi de \"arasında\" anlamı taşır ama farklıdır. \"之间\": İKİ ya da daha çok taraf ARASINDAKİ ilişkiyi, aralığı ya da mesafeyi — çoğu zaman SOYUT — belirtir; \"A 和 B 之间\" kalıbında gelir: 朋友之间要互相信任 (Dostlar birbirine güvenmeli), 两座城市之间的距离 (İki şehir arasındaki mesafe), 三点到五点之间 (Saat üçle beş arası). Genelde \"之间\" tek başına bir konum (içi) göstermez; bir aralığı/ilişkiyi anlatır ve biraz resmîdir. \"中间\": SOMUT olarak bir şeyin ORTASINI, merkezini ya da iki nesnenin tam arasındaki YERİ gösterir: 坐在中间 (ortada otur), 桌子的中间 (masanın ortası), 他站在两个人中间 (İki kişinin ortasında durdu). \"中间\" ayrıca bir sürecin \"ortasında/esnasında\" anlamına da gelebilir. Kısaca: \"之间\" soyut ilişki/aralık (A ile B arasında), \"中间\" somut orta nokta/merkez. Türkçedeki \"arasında (ilişki/aralık)\" (之间) ile \"ortasında, ortada, tam arasında\" (中间) ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "朋友之间应该互相信任、互相帮助。",
+    "pinyin": "Péng yǒu zhī jiān yīng gāi hù xiāng xìn rèn、 hù xiāng bāng zhù。",
+    "en": "Between friends there should be mutual trust and help."
+   },
+   {
+    "zh": "请你坐在他们两个人中间,好帮忙翻译。",
+    "pinyin": "Qǐng nǐ zuò zài tā men liǎng gè rén zhōng jiān, hǎo bāng máng fān yì。",
+    "en": "Please sit between the two of them to help translate."
+   },
+   {
+    "zh": "这两座城市之间有一条又宽又长的高速公路。",
+    "pinyin": "Zhè liǎng zuò chéng shì zhī jiān yǒu yī tiáo yòu kuān yòu zhǎng de gāo sù gōng lù。",
+    "en": "Between these two cities runs a wide, long highway."
+   },
+   {
+    "zh": "花园的中间有一个圆圆的小水池,特别漂亮。",
+    "pinyin": "Huā yuán de zhōng jiān yǒu yí gè yuán yuán de xiǎo shuǐ chí, tè bié piào liàng。",
+    "en": "In the middle of the garden is a round little pond, very pretty."
+   },
+   {
+    "zh": "父母和孩子之间的沟通非常重要。",
+    "pinyin": "Fù mǔ hé hái zi zhī jiān de gōu tōng fēi cháng zhòng yào。",
+    "en": "Communication between parents and children is very important."
+   },
+   {
+    "zh": "他把桌子搬到了房间的中间,方便大家围坐。",
+    "pinyin": "Tā bǎ zhuō zi bān dào le fáng jiān de zhōng jiān, fāng biàn dà jiā wéi zuò。",
+    "en": "He moved the table to the middle of the room for everyone to sit around."
+   },
+   {
+    "zh": "我一般在下午三点到五点之间有空,你可以那时候来。",
+    "pinyin": "Wǒ yì bān zài xià wǔ sān diǎn dào wǔ diǎn zhī jiān yǒu kòng, nǐ kě yǐ nà shí hòu lái。",
+    "en": "I'm usually free between three and five in the afternoon; come then."
+   },
+   {
+    "zh": "这张全家福里,爷爷奶奶坐在最中间。",
+    "pinyin": "Zhè zhāng quán jiā fú lǐ, yé yé nǎi nǎi zuò zài zuì zhōng jiān。",
+    "en": "In this family photo, grandpa and grandma sit right in the middle."
+   },
+   {
+    "zh": "同事之间难免会有一些小小的摩擦。",
+    "pinyin": "Tóng shì zhī jiān nán miǎn huì yǒu yī xiē xiǎo xiǎo de mó cā。",
+    "en": "Between colleagues, minor friction is inevitable."
+   },
+   {
+    "zh": "这条路的中间画着一条长长的白线。",
+    "pinyin": "Zhè tiáo lù de zhōng jiān huà zhe yī tiáo cháng cháng de bái xiàn。",
+    "en": "Down the middle of this road runs a long white line."
+   },
+   {
+    "zh": "师生之间建立起了深厚的感情。",
+    "pinyin": "Shī shēng zhī jiān jiàn lì qǐ le shēn hòu de gǎn qíng。",
+    "en": "A deep bond formed between the teacher and the students."
+   },
+   {
+    "zh": "那棵大树正好长在两家院子的中间。",
+    "pinyin": "Nà kē dà shù zhèng hǎo zhǎng zài liǎng jiā yuàn zi de zhōng jiān。",
+    "en": "That big tree grows right in the middle between the two yards."
+   },
+   {
+    "zh": "这两件事之间其实有着很密切的联系。",
+    "pinyin": "Zhè liǎng jiàn shì zhī jiān qí shí yǒu zhe hěn mì qiè de lián xì。",
+    "en": "Between these two matters there's actually a close connection."
+   },
+   {
+    "zh": "请把这盆花放在窗台的中间,那儿采光最好。",
+    "pinyin": "Qǐng bǎ zhè pén huā fàng zài chuāng tái de zhōng jiān, nà ér cǎi guāng zuì hǎo。",
+    "en": "Please put this flower in the middle of the windowsill, where the light's best."
+   },
+   {
+    "zh": "国家之间应该加强交流,和平相处。",
+    "pinyin": "Guó jiā zhī jiān yīng gāi jiā qiáng jiāo liú, hé píng xiāng chǔ。",
+    "en": "Between nations there should be more exchange and peaceful coexistence."
+   },
+   {
+    "zh": "会开到一半,中间他出去接了个电话。",
+    "pinyin": "Huì kāi dào yí bàn, zhōng jiān tā chū qù jiē le gè diàn huà。",
+    "en": "Halfway through the meeting, he stepped out to take a call."
+   },
+   {
+    "zh": "兄弟姐妹之间要多一些包容和理解。",
+    "pinyin": "Xiōng dì jiě mèi zhī jiān yào duō yī xiē bāo róng hé lǐ jiě。",
+    "en": "Between siblings there should be more tolerance and understanding."
+   },
+   {
+    "zh": "操场的中间是一片平整的草地,四周是跑道。",
+    "pinyin": "Cāo chǎng de zhōng jiān shì yī piàn píng zhěng de cǎo dì, sì zhōu shì pǎo dào。",
+    "en": "In the middle of the field is flat grass, with a track around it."
+   },
+   {
+    "zh": "这两个数字之间还差好几百呢。",
+    "pinyin": "Zhè liǎng gè shù zì zhī jiān hái chà hǎo jǐ bǎi ne。",
+    "en": "Between these two figures there's a difference of several hundred."
+   },
+   {
+    "zh": "他把最重要的那句话写在了信纸的中间。",
+    "pinyin": "Tā bǎ zuì zhòng yào de nà jù huà xiě zài le xìn zhǐ de zhōng jiān。",
+    "en": "He wrote the most important sentence in the middle of the letter."
+   },
+   {
+    "zh": "邻里之间要和睦相处,互相多照应。",
+    "pinyin": "Lín lǐ zhī jiān yào hé mù xiāng chǔ, hù xiāng duō zhào yìng。",
+    "en": "Between neighbors there should be harmony and mutual care."
+   },
+   {
+    "zh": "你看,月亮正好挂在两座山峰的中间。",
+    "pinyin": "Nǐ kàn, yuè liàng zhèng hǎo guà zài liǎng zuò shān fēng de zhōng jiān。",
+    "en": "Look, the moon hangs right between the two peaks."
+   },
+   {
+    "zh": "这两种观点之间存在着很大的分歧。",
+    "pinyin": "Zhè liǎng zhǒng guān diǎn zhī jiān cún zài zhe hěn dà de fēn qí。",
+    "en": "Between these two viewpoints there's a big divergence."
+   },
+   {
+    "zh": "孩子挤在爸爸妈妈中间,睡得又香又甜。",
+    "pinyin": "Hái zi jǐ zài bà bà mā mā zhōng jiān, shuì de yòu xiāng yòu tián。",
+    "en": "The child, snuggled between mom and dad, slept soundly and sweetly."
+   },
+   {
+    "zh": "理想和现实之间,往往有一段不小的距离。",
+    "pinyin": "Lǐ xiǎng hé xiàn shí zhī jiān, wǎng wǎng yǒu yī duàn bù xiǎo de jù lí。",
+    "en": "Between ideals and reality there's often quite a gap."
+   }
+  ]
+ },
+ {
+  "id": "g281",
+  "level": 3,
+  "title": "\"离\" ile \"从\" farkı",
+  "titleEn": "Comparing \"li\" and \"cong\"",
+  "pattern": "离 (iki nokta arası mesafe) / 从 (başlangıç noktası)",
+  "summary": "\"离\" iki nokta arasındaki MESAFEYİ/uzaklığı belirtir (A 离 B 很近); \"从\" ise bir hareketin/sürenin BAŞLANGIÇ noktasını verir (从这儿出发).",
+  "explanation": "\"离\" ve \"从\" ikisi de yer/zamanla ilgili edatlardır ama işlevleri farklıdır. \"离\": iki nokta arasındaki MESAFEYİ/uzaklığı (yer ya da zaman) belirtir — \"...-e uzaklıkta\": 我家离学校很近 (Evim okula çok yakın), 离考试还有三天 (Sınava daha üç gün var). Hareket bildirmez, iki referans arasındaki ARALIĞI ölçer. \"从\": bir hareketin, eylemin ya da sürenin BAŞLANGIÇ noktasını gösterir — \"...-den (itibaren)\": 我从家出发 (Evden yola çıktım), 从早上到晚上 (sabahtan akşama), 从这里往前走 (buradan ileri git). Bir başlangıç noktası verir ve çoğu zaman bir bitiş (到) ile eşleşir. Kısaca: \"离\" iki nokta arası uzaklık (durağan ölçüm), \"从\" bir hareketin/sürenin çıkış noktası. \"从...到...\" (...-den ...-e) ve \"离...远/近\" (...-e uzak/yakın) tipik kalıplardır. Türkçedeki \"...-e uzaklıkta / ...-e yakın\" (离) ile \"...-den (itibaren), ...-den başlayarak\" (从) ayrımına denk gelir; öğrencilerin sık karıştırdığı bir çifttir.",
+  "examples": [
+   {
+    "zh": "我家离公司很近,从家走到公司只要十分钟。",
+    "pinyin": "Wǒ jiā lí gōng sī hěn jìn, cóng jiā zǒu dào gōng sī zhǐ yào shí fēn zhōng。",
+    "en": "My home is close to the office; walking there takes just ten minutes."
+   },
+   {
+    "zh": "从这里到火车站不远,可是离机场就比较远了。",
+    "pinyin": "Cóng zhè lǐ dào huǒ chē zhàn bù yuǎn, kě shì lí jī chǎng jiù bǐ jiào yuǎn le。",
+    "en": "From here to the station isn't far, but it's rather far to the airport."
+   },
+   {
+    "zh": "离放假还有一个星期,同学们从现在就开始盼着了。",
+    "pinyin": "Lí fàng jià hái yǒu yí gè xīng qī, tóng xué men cóng xiàn zài jiù kāi shǐ pàn zhe le。",
+    "en": "There's a week until the holiday; the students are looking forward already."
+   },
+   {
+    "zh": "超市离我家不远,我每天从家出发走着去买菜。",
+    "pinyin": "Chāo shì lí wǒ jiā bù yuǎn, wǒ měi tiān cóng jiā chū fā zǒu zhe qù mǎi cài。",
+    "en": "The supermarket is near my home; I walk there from home to shop daily."
+   },
+   {
+    "zh": "从北京到上海,两座城市之间离得挺远的。",
+    "pinyin": "Cóng běi jīng dào shàng hǎi, liǎng zuò chéng shì zhī jiān lí de tǐng yuǎn de。",
+    "en": "From Beijing to Shanghai — the two cities are quite far apart."
+   },
+   {
+    "zh": "这条路从村口一直修到山下,离县城越来越近了。",
+    "pinyin": "Zhè tiáo lù cóng cūn kǒu yì zhí xiū dào shān xià, lí xiàn chéng yuè lái yuè jìn le。",
+    "en": "This road runs from the village to the mountain's foot, ever nearer the county town."
+   },
+   {
+    "zh": "离考试没几天了,他从早到晚都在复习。",
+    "pinyin": "Lí kǎo shì méi jǐ tiān le, tā cóng zǎo dào wǎn dōu zài fù xí。",
+    "en": "With few days to the exam, he reviews from morning to night."
+   },
+   {
+    "zh": "那家医院离得太远,从这儿坐车过去要一个多小时。",
+    "pinyin": "Nà jiā yī yuàn lí de tài yuǎn, cóng zhè ér zuò chē guò qù yào yí gè duō xiǎo shí。",
+    "en": "That hospital is too far; by car from here it takes over an hour."
+   },
+   {
+    "zh": "从你家到我家,中间隔着一条河,离得不算近。",
+    "pinyin": "Cóng nǐ jiā dào wǒ jiā, zhōng jiàn gé zhe yī tiáo hé, lí de bù suàn jìn。",
+    "en": "From your home to mine, a river lies between; it's not close."
+   },
+   {
+    "zh": "学校离地铁站很近,从地铁站出来走两步就到了。",
+    "pinyin": "Xué xiào lí dì tiě zhàn hěn jìn, cóng dì tiě zhàn chū lái zǒu liǎng bù jiù dào le。",
+    "en": "The school is near the subway; a couple of steps from the exit and you're there."
+   },
+   {
+    "zh": "从上午九点到下午五点,银行一直开着门。",
+    "pinyin": "Cóng shàng wǔ jiǔ diǎn dào xià wǔ wǔ diǎn, yín háng yì zhí kāi zhe mén。",
+    "en": "From nine a.m. to five p.m., the bank stays open."
+   },
+   {
+    "zh": "他的老家离这儿有上千公里,从这儿坐飞机也要好几个小时。",
+    "pinyin": "Tā de lǎo jiā lí zhè ér yǒu shàng qiān gōng lǐ, cóng zhè ér zuò fēi jī yě yào hǎo jǐ gè xiǎo shí。",
+    "en": "His hometown is over a thousand kilometers away; even by plane it's hours."
+   },
+   {
+    "zh": "离下班还有半个小时,他从抽屉里拿出资料继续看。",
+    "pinyin": "Lí xià bān hái yǒu bàn gè xiǎo shí, tā cóng chōu tì lǐ ná chū zī liào jì xù kàn。",
+    "en": "Half an hour until off-work, he took papers from the drawer to keep reading."
+   },
+   {
+    "zh": "从这个路口往右拐,那家书店离得就不远了。",
+    "pinyin": "Cóng zhè ge lù kǒu wǎng yòu guǎi, nà jiā shū diàn lí de jiù bù yuǎn le。",
+    "en": "Turn right at this intersection, and the bookstore isn't far."
+   },
+   {
+    "zh": "我们的座位离舞台很近,从这里能清楚地看到演员。",
+    "pinyin": "Wǒ men de zuò wèi lí wǔ tái hěn jìn, cóng zhè lǐ néng qīng chǔ de kàn dào yǎn yuán。",
+    "en": "Our seats are close to the stage; from here we can clearly see the actors."
+   },
+   {
+    "zh": "从春天到秋天,这个公园离不开辛勤园丁的照料。",
+    "pinyin": "Cóng chūn tiān dào qiū tiān, zhè ge gōng yuán lí bù kāi xīn qín yuán dīng de zhào liào。",
+    "en": "From spring to autumn, this park depends on the diligent gardeners' care."
+   },
+   {
+    "zh": "他家离海边很近,从窗户就能看见蓝蓝的大海。",
+    "pinyin": "Tā jiā lí hǎi biān hěn jìn, cóng chuāng hù jiù néng kàn jiàn lán lán de dà hǎi。",
+    "en": "His home is near the sea; from the window you can see the blue ocean."
+   },
+   {
+    "zh": "离目的地还有很长的路,我们从清晨就出发了。",
+    "pinyin": "Lí mù dì de hái yǒu hěn zhǎng de lù, wǒ men cóng qīng chén jiù chū fā le。",
+    "en": "There's a long way to the destination; we set off at dawn."
+   },
+   {
+    "zh": "这两个村子离得很近,从这个村到那个村走路就行。",
+    "pinyin": "Zhè liǎng gè cūn zi lí de hěn jìn, cóng zhè ge cūn dào nà ge cūn zǒu lù jiù xíng。",
+    "en": "These two villages are close; you can walk from one to the other."
+   },
+   {
+    "zh": "从今天算起,离他回国就只剩下三天了。",
+    "pinyin": "Cóng jīn tiān suàn qǐ, lí tā huí guó jiù zhǐ shèng xià sān tiān le。",
+    "en": "Counting from today, there are only three days until he returns home."
+   },
+   {
+    "zh": "停车场离电影院很近,从车里出来走几步就进去了。",
+    "pinyin": "Tíng chē chǎng lí diàn yǐng yuàn hěn jìn, cóng chē lǐ chū lái zǒu jǐ bù jiù jìn qù le。",
+    "en": "The lot is near the cinema; a few steps from the car and you're inside."
+   },
+   {
+    "zh": "从山脚到山顶路途遥远,山顶离云好像很近。",
+    "pinyin": "Cóng shān jiǎo dào shān dǐng lù tú yáo yuǎn, shān dǐng lí yún hǎo xiàng hěn jìn。",
+    "en": "From the foot to the summit is a long way; the peak seems close to the clouds."
+   },
+   {
+    "zh": "我们从早上一直逛到中午,离约定的时间还早。",
+    "pinyin": "Wǒ men cóng zǎo shàng yì zhí guàng dào zhōng wǔ, lí yuē dìng de shí jiān hái zǎo。",
+    "en": "We strolled from morning to noon; it's still early for the appointed time."
+   },
+   {
+    "zh": "他的座位离门口最近,所以每次从教室出去他都是第一个。",
+    "pinyin": "Tā de zuò wèi lí mén kǒu zuì jìn, suǒ yǐ měi cì cóng jiào shì chū qù tā dōu shì dì yí gè。",
+    "en": "His seat is nearest the door, so he's always first out of the classroom."
+   },
+   {
+    "zh": "从这儿到那座桥并不远,可是那座桥离对岸还挺远的。",
+    "pinyin": "Cóng zhè ér dào nà zuò qiáo bìng bù yuǎn, kě shì nà zuò qiáo lí duì àn hái tǐng yuǎn de。",
+    "en": "From here to that bridge isn't far, but the bridge is far from the opposite bank."
+   }
+  ]
+ },
+ {
+  "id": "g282",
+  "level": 3,
+  "title": "\"以后\" ile \"的时候\" farkı",
+  "titleEn": "Comparing \"yihou\" and \"de shihou\"",
+  "pattern": "... 以后 (sonra) / ... 的时候 (sırasında/-ken)",
+  "summary": "\"以后\" bir olaydan SONRAKİ zamanı gösterir (下课以后 = dersten sonra); \"的时候\" ise bir olayın SIRASINDA/-ken olan zamanı gösterir (下课的时候 = ders biterken).",
+  "explanation": "\"以后\" ve \"的时候\" ikisi de zaman belirtir ama farklı anları gösterir. \"...以后\": bir olayın/zamanın ARDINDAN gelen zamanı belirtir — \"...-den sonra, ...-dıktan sonra\": 下课以后我们去吃饭 (Dersten sonra yemeğe gideriz), 他走以后,我才发现钱包丢了 (O gittikten sonra cüzdanımı kaybettiğimi fark ettim). Olay TAMAMLANDIKTAN sonraki zamanı gösterir. \"...的时候\": bir olayın/durumun OLDUĞU/sürdüğü sırayı belirtir — \"...-dığı zaman, ...-ırken, ...-ınca\": 下课的时候,大家都很开心 (Ders biterken/bittiğinde herkes sevinir), 我小的时候住在乡下 (Küçükken kırsalda otururdum). Eylemin SIRASINDAKİ ya da gerçekleştiği andaki durumu gösterir. Kısaca: \"以后\" = ondan SONRA (art zamanlı), \"的时候\" = o SIRADA / o AN (eş zamanlı). Aynı fiil ikisiyle farklı anlam verir: 走以后 (gittikten sonra) vs 走的时候 (giderken). Türkçedeki \"...-den sonra\" (以后) ile \"...-dığı zaman, ...-ırken\" (的时候) ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "下课以后我们一起去食堂吃饭,下课的时候别忘了叫我。",
+    "pinyin": "Xià kè yǐ hòu wǒ men yì qǐ qù shí táng chī fàn, xià kè de shí hòu bié wàng le jiào wǒ。",
+    "en": "After class let's eat at the canteen together; call me when class ends."
+   },
+   {
+    "zh": "毕业以后他去了外地工作,上学的时候他成绩一直很好。",
+    "pinyin": "Bì yè yǐ hòu tā qù le wài dì gōng zuò, shàng xué de shí hòu tā chéng jì yì zhí hěn hǎo。",
+    "en": "After graduating he worked away; during school his grades were always good."
+   },
+   {
+    "zh": "我到家以后给你打电话,坐车的时候信号不太好。",
+    "pinyin": "Wǒ dào jiā yǐ hòu gěi nǐ dǎ diàn huà, zuò chē de shí hòu xìn hào bù tài hǎo。",
+    "en": "I'll call you after I get home; the signal's poor while riding."
+   },
+   {
+    "zh": "吃完饭以后咱们去散步,吃饭的时候别看手机。",
+    "pinyin": "Chī wán fàn yǐ hòu zán men qù sàn bù, chī fàn de shí hòu bié kàn shǒu jī。",
+    "en": "After eating let's take a walk; don't look at your phone while eating."
+   },
+   {
+    "zh": "下班以后他喜欢去健身房,工作的时候他非常专注。",
+    "pinyin": "Xià bān yǐ hòu tā xǐ huān qù jiàn shēn fáng, gōng zuò de shí hòu tā fēi cháng zhuān zhù。",
+    "en": "After work he likes the gym; at work he's very focused."
+   },
+   {
+    "zh": "放假以后我打算回老家,上课的时候可没时间。",
+    "pinyin": "Fàng jià yǐ hòu wǒ dǎ suàn huí lǎo jiā, shàng kè de shí hòu kě méi shí jiān。",
+    "en": "After the holiday starts I'll go home; there's no time during classes."
+   },
+   {
+    "zh": "他走了以后,我才想起来还有话没跟他说,他走的时候太匆忙了。",
+    "pinyin": "Tā zǒu le yǐ hòu, wǒ cái xiǎng qǐ lái hái yǒu huà méi gēn tā shuō, tā zǒu de shí hòu tài cōng máng le。",
+    "en": "Only after he left did I recall unsaid words; he left in such a hurry."
+   },
+   {
+    "zh": "结婚以后他们搬到了城里,谈恋爱的时候常常一起看电影。",
+    "pinyin": "Jié hūn yǐ hòu tā men bān dào le chéng lǐ, tán liàn ài de shí hòu cháng cháng yì qǐ kàn diàn yǐng。",
+    "en": "After marrying they moved to the city; while dating they often watched movies."
+   },
+   {
+    "zh": "看完这部电影以后我久久不能平静,看的时候好几次都哭了。",
+    "pinyin": "Kàn wán zhè bù diàn yǐng yǐ hòu wǒ jiǔ jiǔ bù néng píng jìng, kàn de shí hòu hǎo jǐ cì dōu kū le。",
+    "en": "After the movie I couldn't calm down; while watching I cried several times."
+   },
+   {
+    "zh": "退休以后爷爷开始学画画,年轻的时候他根本没这个机会。",
+    "pinyin": "Tuì xiū yǐ hòu yé yé kāi shǐ xué huà huà, nián qīng de shí hòu tā gēn běn méi zhè ge jī huì。",
+    "en": "After retiring grandpa took up painting; when young he had no chance."
+   },
+   {
+    "zh": "下雨以后空气特别清新,下雨的时候我喜欢待在家里听雨声。",
+    "pinyin": "Xià yǔ yǐ hòu kōng qì tè bié qīng xīn, xià yǔ de shí hòu wǒ xǐ huān dài zài jiā lǐ tīng yǔ shēng。",
+    "en": "After rain the air is fresh; when it rains I like to stay in and listen."
+   },
+   {
+    "zh": "认识他以后我的生活变了很多,刚认识的时候我们还有点儿陌生。",
+    "pinyin": "Rèn shí tā yǐ hòu wǒ de shēng huó biàn le hěn duō, gāng rèn shí de shí hòu wǒ men hái yǒu diǎn ér mò shēng。",
+    "en": "After meeting him my life changed a lot; when we first met we were still strangers."
+   },
+   {
+    "zh": "考试以后他轻松了很多,考试的时候他紧张得手心都是汗。",
+    "pinyin": "Kǎo shì yǐ hòu tā qīng sōng le hěn duō, kǎo shì de shí hòu tā jǐn zhāng dé shǒu xīn dōu shì hàn。",
+    "en": "After the exam he relaxed a lot; during it his palms sweated with nerves."
+   },
+   {
+    "zh": "搬家以后离公司近多了,搬家的时候朋友们都来帮忙了。",
+    "pinyin": "Bān jiā yǐ hòu lí gōng sī jìn duō le, bān jiā de shí hòu péng yǒu men dōu lái bāng máng le。",
+    "en": "After moving it's much closer to work; friends helped when we moved."
+   },
+   {
+    "zh": "天黑以后街上的灯都亮了,天快黑的时候我们才往回走。",
+    "pinyin": "Tiān hēi yǐ hòu jiē shàng de dēng dōu liàng le, tiān kuài hēi de shí hòu wǒ men cái wǎng huí zǒu。",
+    "en": "After dark the streetlights came on; we headed back as it grew dark."
+   },
+   {
+    "zh": "孩子长大以后就懂事多了,他小的时候可调皮了。",
+    "pinyin": "Hái zi zhǎng dà yǐ hòu jiù dǒng shì duō le, tā xiǎo de shí hòu kě tiáo pí le。",
+    "en": "After growing up the child became much more sensible; he was naughty when little."
+   },
+   {
+    "zh": "下过雪以后,整个世界都变白了,下雪的时候孩子们最高兴。",
+    "pinyin": "Xià guò xuě yǐ hòu, zhěng gè shì jiè dōu biàn bái le, xià xuě de shí hòu hái zi men zuì gāo xìng。",
+    "en": "After it snows the whole world turns white; children are happiest when it snows."
+   },
+   {
+    "zh": "他出国以后,我们只能通过网络联系,他在国内的时候我们常常见面。",
+    "pinyin": "Tā chū guó yǐ hòu, wǒ men zhǐ néng tōng guò wǎng luò lián xì, tā zài guó nèi de shí hòu wǒ men cháng cháng jiàn miàn。",
+    "en": "After he went abroad we could only chat online; at home we often met."
+   },
+   {
+    "zh": "我复习完以后就早早睡了,复习的时候我一直开着台灯。",
+    "pinyin": "Wǒ fù xí wán yǐ hòu jiù zǎo zǎo shuì le, fù xí de shí hòu wǒ yì zhí kāi zhe tái dēng。",
+    "en": "After reviewing I slept early; while reviewing I kept the lamp on."
+   },
+   {
+    "zh": "春节以后大家又开始忙碌起来,过春节的时候到处都张灯结彩。",
+    "pinyin": "Chūn jié yǐ hòu dà jiā yòu kāi shǐ máng lù qǐ lái, guò chūn jié de shí hòu dào chù dōu zhāng dēng jié cǎi。",
+    "en": "After the festival everyone got busy again; during it everywhere was decorated."
+   },
+   {
+    "zh": "生病以后他更注意身体了,生病的时候是家人一直在照顾他。",
+    "pinyin": "Shēng bìng yǐ hòu tā gèng zhù yì shēn tǐ le, shēng bìng de shí hòu shì jiā rén yì zhí zài zhào gù tā。",
+    "en": "After illness he minds his health more; family cared for him while he was sick."
+   },
+   {
+    "zh": "下班以后路上特别堵,快下班的时候大家就开始收拾东西了。",
+    "pinyin": "Xià bān yǐ hòu lù shàng tè bié dǔ, kuài xià bān de shí hòu dà jiā jiù kāi shǐ shōu shí dōng xī le。",
+    "en": "After work the roads jam; near quitting time everyone starts packing up."
+   },
+   {
+    "zh": "学会游泳以后我就爱上了大海,学游泳的时候可没少喝水。",
+    "pinyin": "Xué huì yóu yǒng yǐ hòu wǒ jiù ài shàng le dà hǎi, xué yóu yǒng de shí hòu kě méi shǎo hē shuǐ。",
+    "en": "After learning to swim I fell for the sea; while learning I swallowed a lot of water."
+   },
+   {
+    "zh": "他答应以后就一直记在心里,答应的时候他是认真的。",
+    "pinyin": "Tā dā yìng yǐ hòu jiù yì zhí jì zài xīn lǐ, dā yìng de shí hòu tā shì rèn zhēn de。",
+    "en": "After promising he kept it in mind; when he promised he was sincere."
+   },
+   {
+    "zh": "天亮以后我们继续赶路,天没亮的时候山里特别冷。",
+    "pinyin": "Tiān liàng yǐ hòu wǒ men jì xù gǎn lù, tiān méi liàng de shí hòu shān lǐ tè bié lěng。",
+    "en": "After daybreak we continued; before dawn the mountains were very cold."
+   }
+  ]
  }
 ]

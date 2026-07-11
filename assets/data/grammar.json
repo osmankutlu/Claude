@@ -6798,5 +6798,685 @@
     "en": "The moment I think of tomorrow's exam, I can't sleep."
    }
   ]
+ },
+ {
+  "id": "g051",
+  "level": 2,
+  "title": "\"(正)在\" ile süregelen eylem",
+  "titleEn": "Expressing actions in progress with \"zai\"",
+  "pattern": "(正) 在 + Fiil",
+  "summary": "\"在\" (zài) fiilden önce gelerek eylemin şu anda sürdüğünü anlatır: 我在吃饭 = Yemek yiyorum (şu anda).",
+  "explanation": "Şu anda devam eden bir eylem için fiilin önüne \"在\" konur: 他在睡觉 (uyuyor). Vurgu için başına \"正\" eklenebilir: 正在 (tam da ...iyor). Cümle sonuna bazen \"呢\" gelir ve süregelmişliği yumuşatır: 我在看书呢. Olumsuzu \"没在\" veya \"不在...\": 我没在睡觉 (uyumuyorum). Bu, \"在 + yer\" (bir yerde bulunma) yapısından farklıdır; burada \"在\"'dan sonra FİİL gelir.",
+  "examples": [
+   {
+    "zh": "你小声点,孩子正在睡觉呢。",
+    "pinyin": "Nǐ xiǎoshēng diǎn, háizi zhèngzài shuìjiào ne.",
+    "en": "Keep it down, the child is sleeping."
+   },
+   {
+    "zh": "我在做饭,你先坐一会儿。",
+    "pinyin": "Wǒ zài zuòfàn, nǐ xiān zuò yíhuìr.",
+    "en": "I'm cooking, sit for a bit first."
+   },
+   {
+    "zh": "他正在打电话,等一下再问他。",
+    "pinyin": "Tā zhèngzài dǎ diànhuà, děng yíxià zài wèn tā.",
+    "en": "He's on the phone, ask him in a moment."
+   },
+   {
+    "zh": "外面正在下大雨,你别出去了。",
+    "pinyin": "Wàimiàn zhèngzài xià dàyǔ, nǐ bié chūqù le.",
+    "en": "It's pouring outside, don't go out."
+   },
+   {
+    "zh": "我给他打电话的时候,他正在开会。",
+    "pinyin": "Wǒ gěi tā dǎ diànhuà de shíhou, tā zhèngzài kāihuì.",
+    "en": "When I called him, he was in a meeting."
+   },
+   {
+    "zh": "孩子们在花园里玩,笑得很开心。",
+    "pinyin": "Háizimen zài huāyuán lǐ wán, xiào de hěn kāixīn.",
+    "en": "The children are playing in the garden, laughing happily."
+   },
+   {
+    "zh": "我正在想这个问题,你别打扰我。",
+    "pinyin": "Wǒ zhèngzài xiǎng zhège wèntí, nǐ bié dǎrǎo wǒ.",
+    "en": "I'm thinking about this problem, don't disturb me."
+   },
+   {
+    "zh": "你来的时候我正在洗澡,没听到门铃。",
+    "pinyin": "Nǐ lái de shíhou wǒ zhèngzài xǐzǎo, méi tīngdào ménlíng.",
+    "en": "When you came I was showering, I didn't hear the doorbell."
+   },
+   {
+    "zh": "世界在变,我们也要跟着改变。",
+    "pinyin": "Shìjiè zài biàn, wǒmen yě yào gēnzhe gǎibiàn.",
+    "en": "The world is changing, and we must change with it."
+   },
+   {
+    "zh": "他正在努力学习,准备下个月的考试。",
+    "pinyin": "Tā zhèngzài nǔlì xuéxí, zhǔnbèi xià ge yuè de kǎoshì.",
+    "en": "He's studying hard, preparing for next month's exam."
+   },
+   {
+    "zh": "我没在看电视,我在写作业。",
+    "pinyin": "Wǒ méi zài kàn diànshì, wǒ zài xiě zuòyè.",
+    "en": "I'm not watching TV, I'm doing homework."
+   },
+   {
+    "zh": "这家公司正在招人,你可以去试试。",
+    "pinyin": "Zhè jiā gōngsī zhèngzài zhāo rén, nǐ kěyǐ qù shìshi.",
+    "en": "This company is hiring, you could give it a try."
+   },
+   {
+    "zh": "她正在跟朋友聊天,聊得很起劲。",
+    "pinyin": "Tā zhèngzài gēn péngyou liáotiān, liáo de hěn qǐjìn.",
+    "en": "She's chatting with friends, quite animatedly."
+   },
+   {
+    "zh": "我进去的时候,他正在收拾行李。",
+    "pinyin": "Wǒ jìnqù de shíhou, tā zhèngzài shōushi xíngli.",
+    "en": "When I went in, he was packing his luggage."
+   },
+   {
+    "zh": "医生正在给病人看病,请在外面等。",
+    "pinyin": "Yīshēng zhèngzài gěi bìngrén kànbìng, qǐng zài wàimiàn děng.",
+    "en": "The doctor is seeing a patient, please wait outside."
+   },
+   {
+    "zh": "我正在找工作,还没有合适的。",
+    "pinyin": "Wǒ zhèngzài zhǎo gōngzuò, hái méiyǒu héshì de.",
+    "en": "I'm looking for a job, haven't found a suitable one yet."
+   },
+   {
+    "zh": "你看,天上的云正在慢慢移动。",
+    "pinyin": "Nǐ kàn, tiān shàng de yún zhèngzài mànman yídòng.",
+    "en": "Look, the clouds in the sky are slowly moving."
+   },
+   {
+    "zh": "大家都在等你,你快点儿吧。",
+    "pinyin": "Dàjiā dōu zài děng nǐ, nǐ kuài diǎnr ba.",
+    "en": "Everyone is waiting for you, hurry up."
+   },
+   {
+    "zh": "他正在经历人生中最难的阶段。",
+    "pinyin": "Tā zhèngzài jīnglì rénshēng zhōng zuì nán de jiēduàn.",
+    "en": "He's going through the hardest stage of his life."
+   },
+   {
+    "zh": "我们正在讨论明天的安排。",
+    "pinyin": "Wǒmen zhèngzài tǎolùn míngtiān de ānpái.",
+    "en": "We're discussing tomorrow's arrangements."
+   },
+   {
+    "zh": "雪还在下,路上已经白了一片。",
+    "pinyin": "Xuě hái zài xià, lùshang yǐjīng bái le yí piàn.",
+    "en": "It's still snowing, the road is already all white."
+   },
+   {
+    "zh": "我正在学做这道菜,还不太熟练。",
+    "pinyin": "Wǒ zhèngzài xué zuò zhè dào cài, hái bú tài shúliàn.",
+    "en": "I'm learning to make this dish, still not skilled."
+   },
+   {
+    "zh": "他正在专心地画画,没注意到我进来。",
+    "pinyin": "Tā zhèngzài zhuānxīn de huàhuà, méi zhùyìdào wǒ jìnlái.",
+    "en": "He's focused on painting, didn't notice me come in."
+   },
+   {
+    "zh": "我们的关系正在慢慢变好。",
+    "pinyin": "Wǒmen de guānxi zhèngzài mànman biàn hǎo.",
+    "en": "Our relationship is slowly getting better."
+   },
+   {
+    "zh": "你打电话来的时候,我正在路上呢。",
+    "pinyin": "Nǐ dǎ diànhuà lái de shíhou, wǒ zhèngzài lùshang ne.",
+    "en": "When you called, I was on my way."
+   }
+  ]
+ },
+ {
+  "id": "g052",
+  "level": 2,
+  "title": "\"别\" ile olumsuz emir",
+  "titleEn": "Negative commands with \"bie\"",
+  "pattern": "别 + Fiil",
+  "summary": "\"别\" (bié) bir eylemi yapmamayı söyleyen kısa, samimi olumsuz emirdir: 别走！ = Gitme!",
+  "explanation": "\"别\", \"不要\"'nun kısa ve daha gündelik biçimidir; anlamı aynıdır: 别哭 (ağlama), 别担心 (merak etme). Cümle sonuna \"了\" eklenerek süregelen bir eylemin durdurulması istenir: 别说了 (artık söyleme/yeter). Nazik rica için başına \"请\" gelir. \"别\" ayrıca \"别忘了\" (unutma), \"别客气\" (rica ederim) gibi kalıplarda çok yaygındır.",
+  "examples": [
+   {
+    "zh": "别难过了,一切都会好起来的。",
+    "pinyin": "Bié nánguò le, yíqiè dōu huì hǎo qǐlái de.",
+    "en": "Don't be sad, everything will get better."
+   },
+   {
+    "zh": "这是秘密,你别告诉别人。",
+    "pinyin": "Zhè shì mìmì, nǐ bié gàosù biérén.",
+    "en": "This is a secret, don't tell anyone."
+   },
+   {
+    "zh": "别着急,慢慢说,我在听。",
+    "pinyin": "Bié zháojí, mànman shuō, wǒ zài tīng.",
+    "en": "Don't rush, speak slowly, I'm listening."
+   },
+   {
+    "zh": "外面很危险,你一个人别去。",
+    "pinyin": "Wàimiàn hěn wēixiǎn, nǐ yí ge rén bié qù.",
+    "en": "It's dangerous out there, don't go alone."
+   },
+   {
+    "zh": "别忘了明天早上八点开会。",
+    "pinyin": "Bié wàng le míngtiān zǎoshang bā diǎn kāihuì.",
+    "en": "Don't forget the meeting at eight tomorrow morning."
+   },
+   {
+    "zh": "别客气,自己家一样,想吃什么就拿。",
+    "pinyin": "Bié kèqi, zìjǐ jiā yíyàng, xiǎng chī shénme jiù ná.",
+    "en": "Don't be shy, make yourself at home, take whatever you want."
+   },
+   {
+    "zh": "你别生气了,我不是故意的。",
+    "pinyin": "Nǐ bié shēngqì le, wǒ bú shì gùyì de.",
+    "en": "Don't be angry, I didn't do it on purpose."
+   },
+   {
+    "zh": "别把事情想得太复杂,其实很简单。",
+    "pinyin": "Bié bǎ shìqing xiǎng de tài fùzá, qíshí hěn jiǎndān.",
+    "en": "Don't overthink it, it's actually simple."
+   },
+   {
+    "zh": "孩子在睡觉,你们说话别太大声。",
+    "pinyin": "Háizi zài shuìjiào, nǐmen shuōhuà bié tài dàshēng.",
+    "en": "The child is sleeping, don't talk too loudly."
+   },
+   {
+    "zh": "别浪费时间了,我们赶快开始吧。",
+    "pinyin": "Bié làngfèi shíjiān le, wǒmen gǎnkuài kāishǐ ba.",
+    "en": "Stop wasting time, let's start quickly."
+   },
+   {
+    "zh": "你别太累了,身体最重要。",
+    "pinyin": "Nǐ bié tài lèi le, shēntǐ zuì zhòngyào.",
+    "en": "Don't overwork yourself, health is most important."
+   },
+   {
+    "zh": "别管别人怎么说,做你自己就好。",
+    "pinyin": "Bié guǎn biérén zěnme shuō, zuò nǐ zìjǐ jiù hǎo.",
+    "en": "Don't mind what others say, just be yourself."
+   },
+   {
+    "zh": "这件事别放在心上,过去就过去了。",
+    "pinyin": "Zhè jiàn shì bié fàng zài xīn shàng, guòqù jiù guòqù le.",
+    "en": "Don't take this to heart, the past is the past."
+   },
+   {
+    "zh": "你别动,我帮你把虫子拿开。",
+    "pinyin": "Nǐ bié dòng, wǒ bāng nǐ bǎ chóngzi ná kāi.",
+    "en": "Don't move, I'll get the bug off you."
+   },
+   {
+    "zh": "路上小心,别开太快。",
+    "pinyin": "Lùshang xiǎoxīn, bié kāi tài kuài.",
+    "en": "Be careful on the road, don't drive too fast."
+   },
+   {
+    "zh": "别灰心,失败是成功之母。",
+    "pinyin": "Bié huīxīn, shībài shì chénggōng zhī mǔ.",
+    "en": "Don't lose heart, failure is the mother of success."
+   },
+   {
+    "zh": "你别老是看手机,陪我说说话。",
+    "pinyin": "Nǐ bié lǎoshì kàn shǒujī, péi wǒ shuōshuo huà.",
+    "en": "Stop always looking at your phone, talk with me."
+   },
+   {
+    "zh": "别哭了,有什么事我们一起解决。",
+    "pinyin": "Bié kū le, yǒu shénme shì wǒmen yìqǐ jiějué.",
+    "en": "Stop crying, whatever it is, we'll solve it together."
+   },
+   {
+    "zh": "这个决定很重要,你别太快下结论。",
+    "pinyin": "Zhège juédìng hěn zhòngyào, nǐ bié tài kuài xià jiélùn.",
+    "en": "This decision is important, don't jump to conclusions."
+   },
+   {
+    "zh": "你先别走,我有话跟你说。",
+    "pinyin": "Nǐ xiān bié zǒu, wǒ yǒu huà gēn nǐ shuō.",
+    "en": "Don't leave yet, I have something to tell you."
+   },
+   {
+    "zh": "天气冷,你别忘了多穿件衣服。",
+    "pinyin": "Tiānqì lěng, nǐ bié wàng le duō chuān jiàn yīfu.",
+    "en": "It's cold, don't forget to wear an extra layer."
+   },
+   {
+    "zh": "别担心钱的事,我来想办法。",
+    "pinyin": "Bié dānxīn qián de shì, wǒ lái xiǎng bànfǎ.",
+    "en": "Don't worry about money, I'll figure something out."
+   },
+   {
+    "zh": "你别对自己太苛刻了。",
+    "pinyin": "Nǐ bié duì zìjǐ tài kēkè le.",
+    "en": "Don't be too hard on yourself."
+   },
+   {
+    "zh": "别相信那些骗人的广告。",
+    "pinyin": "Bié xiāngxìn nàxiē piàn rén de guǎnggào.",
+    "en": "Don't believe those deceptive ads."
+   },
+   {
+    "zh": "我们说好了,以后谁也别提这件事。",
+    "pinyin": "Wǒmen shuōhǎo le, yǐhòu shéi yě bié tí zhè jiàn shì.",
+    "en": "We agreed no one will ever mention this again."
+   }
+  ]
+ },
+ {
+  "id": "g053",
+  "level": 2,
+  "title": "\"一边...一边...\" ile aynı anda iki iş",
+  "titleEn": "Simultaneous tasks with \"yibian\"",
+  "pattern": "一边 + Fiil 1 (，) 一边 + Fiil 2",
+  "summary": "\"一边...一边...\" (yìbiān...yìbiān...) iki eylemin aynı anda yapıldığını anlatır: 他一边走一边唱 = O hem yürüyor hem şarkı söylüyor.",
+  "explanation": "İki eylemin AYNI ANDA yapıldığını belirtmek için her fiilin önüne \"一边\" konur: 一边吃饭一边看电视 (hem yemek yerken hem televizyon izlemek). İki eylem de aynı özne tarafından, eş zamanlı yapılır. Konuşmada \"边...边...\" kısa biçimi de kullanılır: 边走边说. Genellikle biri ana, diğeri ona eşlik eden eylemdir.",
+  "examples": [
+   {
+    "zh": "他喜欢一边喝咖啡一边看报纸。",
+    "pinyin": "Tā xǐhuan yìbiān hē kāfēi yìbiān kàn bàozhǐ.",
+    "en": "He likes to read the newspaper while drinking coffee."
+   },
+   {
+    "zh": "别一边走路一边看手机,很危险。",
+    "pinyin": "Bié yìbiān zǒulù yìbiān kàn shǒujī, hěn wēixiǎn.",
+    "en": "Don't look at your phone while walking, it's dangerous."
+   },
+   {
+    "zh": "她一边做饭一边跟我聊天。",
+    "pinyin": "Tā yìbiān zuòfàn yìbiān gēn wǒ liáotiān.",
+    "en": "She chats with me while cooking."
+   },
+   {
+    "zh": "孩子一边哭一边跑向妈妈。",
+    "pinyin": "Háizi yìbiān kū yìbiān pǎo xiàng māma.",
+    "en": "The child ran toward mom while crying."
+   },
+   {
+    "zh": "我们一边散步一边讨论工作上的事。",
+    "pinyin": "Wǒmen yìbiān sànbù yìbiān tǎolùn gōngzuò shàng de shì.",
+    "en": "We discussed work matters while taking a walk."
+   },
+   {
+    "zh": "他一边听音乐一边写作业。",
+    "pinyin": "Tā yìbiān tīng yīnyuè yìbiān xiě zuòyè.",
+    "en": "He does homework while listening to music."
+   },
+   {
+    "zh": "老师一边讲课一边在黑板上写字。",
+    "pinyin": "Lǎoshī yìbiān jiǎngkè yìbiān zài hēibǎn shàng xiězì.",
+    "en": "The teacher writes on the board while lecturing."
+   },
+   {
+    "zh": "她一边流泪一边笑,不知道是伤心还是高兴。",
+    "pinyin": "Tā yìbiān liúlèi yìbiān xiào, bù zhīdào shì shāngxīn háishì gāoxìng.",
+    "en": "She was crying and smiling at once, unclear if sad or happy."
+   },
+   {
+    "zh": "我一边吃早饭一边看新闻。",
+    "pinyin": "Wǒ yìbiān chī zǎofàn yìbiān kàn xīnwén.",
+    "en": "I watch the news while eating breakfast."
+   },
+   {
+    "zh": "工人们一边唱歌一边干活,气氛很好。",
+    "pinyin": "Gōngrénmen yìbiān chànggē yìbiān gànhuó, qìfēn hěn hǎo.",
+    "en": "The workers sang while working, the atmosphere was great."
+   },
+   {
+    "zh": "他一边开车一边跟乘客说话。",
+    "pinyin": "Tā yìbiān kāichē yìbiān gēn chéngkè shuōhuà.",
+    "en": "He talks with passengers while driving."
+   },
+   {
+    "zh": "我常常一边泡脚一边看书。",
+    "pinyin": "Wǒ chángcháng yìbiān pàojiǎo yìbiān kànshū.",
+    "en": "I often read while soaking my feet."
+   },
+   {
+    "zh": "她一边收拾房间一边哼着歌。",
+    "pinyin": "Tā yìbiān shōushi fángjiān yìbiān hēngzhe gē.",
+    "en": "She hums a song while tidying the room."
+   },
+   {
+    "zh": "我们一边喝茶一边聊起了往事。",
+    "pinyin": "Wǒmen yìbiān hē chá yìbiān liáo qǐ le wǎngshì.",
+    "en": "We talked about old times while drinking tea."
+   },
+   {
+    "zh": "他一边打游戏一边吃薯片。",
+    "pinyin": "Tā yìbiān dǎ yóuxì yìbiān chī shǔpiàn.",
+    "en": "He eats chips while playing games."
+   },
+   {
+    "zh": "妈妈一边织毛衣一边看电视剧。",
+    "pinyin": "Māma yìbiān zhī máoyī yìbiān kàn diànshìjù.",
+    "en": "Mom knits a sweater while watching TV dramas."
+   },
+   {
+    "zh": "我们一边走一边欣赏路边的风景。",
+    "pinyin": "Wǒmen yìbiān zǒu yìbiān xīnshǎng lùbiān de fēngjǐng.",
+    "en": "We enjoyed the roadside scenery as we walked."
+   },
+   {
+    "zh": "他一边工作一边照顾生病的母亲。",
+    "pinyin": "Tā yìbiān gōngzuò yìbiān zhàogù shēngbìng de mǔqīn.",
+    "en": "He works while caring for his sick mother."
+   },
+   {
+    "zh": "孩子一边玩水一边笑个不停。",
+    "pinyin": "Háizi yìbiān wán shuǐ yìbiān xiào ge bù tíng.",
+    "en": "The child laughs nonstop while playing with water."
+   },
+   {
+    "zh": "她一边做笔记一边认真地听。",
+    "pinyin": "Tā yìbiān zuò bǐjì yìbiān rènzhēn de tīng.",
+    "en": "She takes notes while listening carefully."
+   },
+   {
+    "zh": "我们一边等车一边商量周末的计划。",
+    "pinyin": "Wǒmen yìbiān děngchē yìbiān shāngliang zhōumò de jìhuà.",
+    "en": "We discussed weekend plans while waiting for the bus."
+   },
+   {
+    "zh": "他一边跑步一边听英语,一举两得。",
+    "pinyin": "Tā yìbiān pǎobù yìbiān tīng Yīngyǔ, yìjǔliǎngdé.",
+    "en": "He listens to English while running, killing two birds with one stone."
+   },
+   {
+    "zh": "她一边照顾孩子一边完成了学业。",
+    "pinyin": "Tā yìbiān zhàogù háizi yìbiān wánchéng le xuéyè.",
+    "en": "She finished her studies while raising a child."
+   },
+   {
+    "zh": "我们一边吃火锅一边聊到了半夜。",
+    "pinyin": "Wǒmen yìbiān chī huǒguō yìbiān liáodào le bànyè.",
+    "en": "We ate hot pot and chatted until midnight."
+   },
+   {
+    "zh": "他总是一边工作一边思考更好的办法。",
+    "pinyin": "Tā zǒngshì yìbiān gōngzuò yìbiān sīkǎo gèng hǎo de bànfǎ.",
+    "en": "He always thinks of better methods while working."
+   }
+  ]
+ },
+ {
+  "id": "g054",
+  "level": 2,
+  "title": "\"多\" ile derece sorusu",
+  "titleEn": "Asking about degree with \"duo\"",
+  "pattern": "Özne + 多 + Sıfat ?",
+  "summary": "\"多\" (duō) bir sıfatın önüne gelerek derece/ölçü sorar: 你多高？ = Boyun kaç? (ne kadar uzun?)",
+  "explanation": "Bir özelliğin derecesini sormak için sıfatın önüne \"多\" konur: 多高 (ne kadar uzun/boy kaç), 多大 (kaç yaşında/ne kadar büyük), 多远 (ne kadar uzak), 多长 (ne kadar uzun/süre). Genellikle sıfatın olumlu/büyük ucu kullanılır (uzaklık için 多远, kısalık için değil). Cevapta somut bir ölçü verilir. \"有多...\" biçimi de yaygındır: 你知道它有多重吗?",
+  "examples": [
+   {
+    "zh": "你今年多大了？看起来很年轻。",
+    "pinyin": "Nǐ jīnnián duō dà le? Kàn qǐlái hěn niánqīng.",
+    "en": "How old are you this year? You look young."
+   },
+   {
+    "zh": "从你家到学校有多远？",
+    "pinyin": "Cóng nǐ jiā dào xuéxiào yǒu duō yuǎn?",
+    "en": "How far is it from your home to school?"
+   },
+   {
+    "zh": "这座桥有多长,你知道吗？",
+    "pinyin": "Zhè zuò qiáo yǒu duō cháng, nǐ zhīdào ma?",
+    "en": "Do you know how long this bridge is?"
+   },
+   {
+    "zh": "你孩子现在多高了？",
+    "pinyin": "Nǐ háizi xiànzài duō gāo le?",
+    "en": "How tall is your child now?"
+   },
+   {
+    "zh": "这个箱子有多重？我一个人搬不动。",
+    "pinyin": "Zhège xiāngzi yǒu duō zhòng? Wǒ yí ge rén bān bu dòng.",
+    "en": "How heavy is this box? I can't move it alone."
+   },
+   {
+    "zh": "你打算在这里待多久？",
+    "pinyin": "Nǐ dǎsuàn zài zhèlǐ dāi duōjiǔ?",
+    "en": "How long do you plan to stay here?"
+   },
+   {
+    "zh": "这条河有多深,能游泳吗？",
+    "pinyin": "Zhè tiáo hé yǒu duō shēn, néng yóuyǒng ma?",
+    "en": "How deep is this river, can you swim in it?"
+   },
+   {
+    "zh": "你知道这件事有多重要吗？",
+    "pinyin": "Nǐ zhīdào zhè jiàn shì yǒu duō zhòngyào ma?",
+    "en": "Do you know how important this is?"
+   },
+   {
+    "zh": "这个房间有多大,够我们住吗？",
+    "pinyin": "Zhège fángjiān yǒu duō dà, gòu wǒmen zhù ma?",
+    "en": "How big is this room, is it enough for us?"
+   },
+   {
+    "zh": "你猜猜这棵树有多高。",
+    "pinyin": "Nǐ cāicai zhè kē shù yǒu duō gāo.",
+    "en": "Guess how tall this tree is."
+   },
+   {
+    "zh": "从这里到山顶还有多远的路？",
+    "pinyin": "Cóng zhèlǐ dào shāndǐng háiyǒu duō yuǎn de lù?",
+    "en": "How much farther is it from here to the summit?"
+   },
+   {
+    "zh": "你知道他为了这个目标付出了多大的努力吗？",
+    "pinyin": "Nǐ zhīdào tā wèile zhège mùbiāo fùchū le duō dà de nǔlì ma?",
+    "en": "Do you know how much effort he put into this goal?"
+   },
+   {
+    "zh": "这条路多宽,能过两辆车吗？",
+    "pinyin": "Zhè tiáo lù duō kuān, néng guò liǎng liàng chē ma?",
+    "en": "How wide is this road, can two cars pass?"
+   },
+   {
+    "zh": "你每天睡多久？看你总是很困。",
+    "pinyin": "Nǐ měitiān shuì duōjiǔ? Kàn nǐ zǒngshì hěn kùn.",
+    "en": "How long do you sleep each day? You always seem sleepy."
+   },
+   {
+    "zh": "这件事对他来说有多难,只有他自己知道。",
+    "pinyin": "Zhè jiàn shì duì tā lái shuō yǒu duō nán, zhǐyǒu tā zìjǐ zhīdào.",
+    "en": "Only he knows how hard this is for him."
+   },
+   {
+    "zh": "你的行李有多重,超重了吗？",
+    "pinyin": "Nǐ de xíngli yǒu duō zhòng, chāozhòng le ma?",
+    "en": "How heavy is your luggage, is it overweight?"
+   },
+   {
+    "zh": "你想要多大的房子？",
+    "pinyin": "Nǐ xiǎng yào duō dà de fángzi?",
+    "en": "How big a house do you want?"
+   },
+   {
+    "zh": "你知道等一个人有多辛苦吗？",
+    "pinyin": "Nǐ zhīdào děng yí ge rén yǒu duō xīnkǔ ma?",
+    "en": "Do you know how hard it is to wait for someone?"
+   },
+   {
+    "zh": "这块布有多长,够做一件衣服吗？",
+    "pinyin": "Zhè kuài bù yǒu duō cháng, gòu zuò yí jiàn yīfu ma?",
+    "en": "How long is this cloth, is it enough for a garment?"
+   },
+   {
+    "zh": "你觉得学好一门语言需要多长时间？",
+    "pinyin": "Nǐ juéde xuéhǎo yì mén yǔyán xūyào duō cháng shíjiān?",
+    "en": "How long do you think it takes to master a language?"
+   },
+   {
+    "zh": "这个孩子多聪明,你跟他说一次就会了。",
+    "pinyin": "Zhège háizi duō cōngming, nǐ gēn tā shuō yí cì jiù huì le.",
+    "en": "How smart this child is — tell him once and he gets it."
+   },
+   {
+    "zh": "你多久没回家看看父母了？",
+    "pinyin": "Nǐ duōjiǔ méi huíjiā kànkan fùmǔ le?",
+    "en": "How long has it been since you visited your parents?"
+   },
+   {
+    "zh": "这次旅行要花多少钱,你算过吗？",
+    "pinyin": "Zhè cì lǚxíng yào huā duōshao qián, nǐ suànguò ma?",
+    "en": "How much will this trip cost, have you calculated?"
+   },
+   {
+    "zh": "你知道健康有多重要,失去了才明白。",
+    "pinyin": "Nǐ zhīdào jiànkāng yǒu duō zhòngyào, shīqù le cái míngbai.",
+    "en": "You realize how important health is only after losing it."
+   },
+   {
+    "zh": "这道题多简单,你怎么会做错？",
+    "pinyin": "Zhè dào tí duō jiǎndān, nǐ zěnme huì zuòcuò?",
+    "en": "How simple this question is — how did you get it wrong?"
+   }
+  ]
+ },
+ {
+  "id": "g055",
+  "level": 2,
+  "title": "\"一样\" ile temel karşılaştırma",
+  "titleEn": "Basic comparisons with \"yiyang\"",
+  "pattern": "İsim 1 + 跟 / 和 + İsim 2 + 一样 (+ Sıfat)",
+  "summary": "\"A 跟/和 B 一样\" (yíyàng) iki şeyin aynı/eşit olduğunu belirtir: 我跟他一样高 = Ben onunla aynı boydayım.",
+  "explanation": "İki şeyin eşitliğini/benzerliğini belirtmek için \"A + 跟/和 + B + 一样\" kalıbı kullanılır: 这本书跟那本一样 (bu kitap şununla aynı). Sonuna bir sıfat eklenerek hangi açıdan aynı olduğu belirtilir: 一样高 (aynı boyda), 一样贵 (aynı pahalıda). Olumsuzu \"不一样\" (farklı) veya \"跟...不一样\". \"一样\" ayrıca \"像...一样\" (...gibi) kalıbında benzetme için de kullanılır.",
+  "examples": [
+   {
+    "zh": "我跟我哥哥一样高。",
+    "pinyin": "Wǒ gēn wǒ gēge yíyàng gāo.",
+    "en": "I'm the same height as my older brother."
+   },
+   {
+    "zh": "这两件衣服的颜色一样吗？",
+    "pinyin": "Zhè liǎng jiàn yīfu de yánsè yíyàng ma?",
+    "en": "Are these two clothes the same color?"
+   },
+   {
+    "zh": "他的想法跟我的完全不一样。",
+    "pinyin": "Tā de xiǎngfǎ gēn wǒ de wánquán bù yíyàng.",
+    "en": "His idea is completely different from mine."
+   },
+   {
+    "zh": "这家店的价格和网上的一样。",
+    "pinyin": "Zhè jiā diàn de jiàgé hé wǎngshàng de yíyàng.",
+    "en": "This shop's prices are the same as online."
+   },
+   {
+    "zh": "她笑起来跟她妈妈一模一样。",
+    "pinyin": "Tā xiào qǐlái gēn tā māma yìmúyíyàng.",
+    "en": "She smiles exactly like her mother."
+   },
+   {
+    "zh": "每个人的人生都不一样,不用跟别人比。",
+    "pinyin": "Měi ge rén de rénshēng dōu bù yíyàng, búyòng gēn biérén bǐ.",
+    "en": "Everyone's life is different, no need to compare with others."
+   },
+   {
+    "zh": "这两种方法的效果差不多一样。",
+    "pinyin": "Zhè liǎng zhǒng fāngfǎ de xiàoguǒ chàbuduō yíyàng.",
+    "en": "The two methods work about equally well."
+   },
+   {
+    "zh": "他对每个客人都一样热情。",
+    "pinyin": "Tā duì měi ge kèrén dōu yíyàng rèqíng.",
+    "en": "He's equally warm to every guest."
+   },
+   {
+    "zh": "今天的天气跟昨天一样冷。",
+    "pinyin": "Jīntiān de tiānqì gēn zuótiān yíyàng lěng.",
+    "en": "Today's weather is as cold as yesterday's."
+   },
+   {
+    "zh": "虽然长得像,但他们的性格很不一样。",
+    "pinyin": "Suīrán zhǎng de xiàng, dàn tāmen de xìnggé hěn bù yíyàng.",
+    "en": "Though they look alike, their personalities are very different."
+   },
+   {
+    "zh": "这道题的答案跟书上的不一样。",
+    "pinyin": "Zhè dào tí de dá'àn gēn shū shàng de bù yíyàng.",
+    "en": "The answer to this problem differs from the book's."
+   },
+   {
+    "zh": "他跟以前不一样了,成熟了很多。",
+    "pinyin": "Tā gēn yǐqián bù yíyàng le, chéngshú le hěn duō.",
+    "en": "He's different from before, much more mature."
+   },
+   {
+    "zh": "我们的目标一样,只是方法不同。",
+    "pinyin": "Wǒmen de mùbiāo yíyàng, zhǐshì fāngfǎ bùtóng.",
+    "en": "Our goals are the same, only the methods differ."
+   },
+   {
+    "zh": "这条裙子跟你上次买的那条一样。",
+    "pinyin": "Zhè tiáo qúnzi gēn nǐ shàng cì mǎi de nà tiáo yíyàng.",
+    "en": "This skirt is the same as the one you bought last time."
+   },
+   {
+    "zh": "在我心里,你们两个一样重要。",
+    "pinyin": "Zài wǒ xīnlǐ, nǐmen liǎng ge yíyàng zhòngyào.",
+    "en": "In my heart, you two are equally important."
+   },
+   {
+    "zh": "他的中文说得跟本地人一样好。",
+    "pinyin": "Tā de Zhōngwén shuō de gēn běndìrén yíyàng hǎo.",
+    "en": "He speaks Chinese as well as a local."
+   },
+   {
+    "zh": "这两个城市的生活节奏很不一样。",
+    "pinyin": "Zhè liǎng ge chéngshì de shēnghuó jiézòu hěn bù yíyàng.",
+    "en": "The pace of life in these two cities is very different."
+   },
+   {
+    "zh": "不管你变成什么样,我对你的爱都一样。",
+    "pinyin": "Bùguǎn nǐ biànchéng shénme yàng, wǒ duì nǐ de ài dōu yíyàng.",
+    "en": "No matter how you change, my love for you stays the same."
+   },
+   {
+    "zh": "这两支笔看起来一样,其实牌子不同。",
+    "pinyin": "Zhè liǎng zhī bǐ kàn qǐlái yíyàng, qíshí páizi bùtóng.",
+    "en": "These two pens look the same but are actually different brands."
+   },
+   {
+    "zh": "他做事的态度跟他父亲一样认真。",
+    "pinyin": "Tā zuòshì de tàidu gēn tā fùqīn yíyàng rènzhēn.",
+    "en": "His work attitude is as serious as his father's."
+   },
+   {
+    "zh": "我们虽然来自不同的国家,可是笑容是一样的。",
+    "pinyin": "Wǒmen suīrán láizì bùtóng de guójiā, kěshì xiàoróng shì yíyàng de.",
+    "en": "Though we come from different countries, our smiles are the same."
+   },
+   {
+    "zh": "这次的情况跟上次不太一样。",
+    "pinyin": "Zhè cì de qíngkuàng gēn shàng cì bú tài yíyàng.",
+    "en": "This situation is a bit different from last time."
+   },
+   {
+    "zh": "两个孩子虽然是双胞胎,爱好却不一样。",
+    "pinyin": "Liǎng ge háizi suīrán shì shuāngbāotāi, àihào què bù yíyàng.",
+    "en": "Though the two kids are twins, their hobbies differ."
+   },
+   {
+    "zh": "这个牌子的手机跟那个牌子的质量一样好。",
+    "pinyin": "Zhège páizi de shǒujī gēn nàge páizi de zhìliàng yíyàng hǎo.",
+    "en": "This brand's phone is as good in quality as that brand's."
+   },
+   {
+    "zh": "无论多少年过去,家乡的味道一直没变,还是一样。",
+    "pinyin": "Wúlùn duōshao nián guòqù, jiāxiāng de wèidào yìzhí méi biàn, háishì yíyàng.",
+    "en": "No matter how many years pass, the taste of home never changes, still the same."
+   }
+  ]
  }
 ]

@@ -3,9 +3,9 @@ import 'package:provider/provider.dart';
 
 import '../data/favorites_repository.dart';
 import '../models/word.dart';
-import '../services/tts_service.dart';
 import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
+import '../utils/speak.dart';
 
 class WordDetailScreen extends StatelessWidget {
   final Word word;
@@ -14,7 +14,6 @@ class WordDetailScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final tts = context.read<TtsService>();
 
     return Scaffold(
       appBar: AppBar(
@@ -46,7 +45,7 @@ class WordDetailScreen extends StatelessWidget {
                 TonedPinyinText(word.pinyin, style: const TextStyle(fontSize: 20)),
                 const SizedBox(height: 12),
                 FilledButton.icon(
-                  onPressed: () => tts.speak(word.hanzi),
+                  onPressed: () => speakWithFeedback(context, word.hanzi),
                   icon: const Icon(Icons.volume_up),
                   label: const Text('Telaffuz Dinle'),
                 ),
@@ -87,7 +86,7 @@ class WordDetailScreen extends StatelessWidget {
                     ),
                     IconButton(
                       icon: const Icon(Icons.volume_up),
-                      onPressed: () => tts.speak(ex.zh),
+                      onPressed: () => speakWithFeedback(context, ex.zh),
                     ),
                   ],
                 ),

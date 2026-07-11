@@ -38,10 +38,6 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     if (mounted) setState(() => _appWidgetId = id);
   }
 
-  // Grammar topics only go up to HSK4 in the bundled data; word entries
-  // cover HSK1-5. Kept in sync with assets/data/grammar.json.
-  static const _maxGrammarLevel = 4;
-
   bool _matchesLevel(int level) => _levels.isEmpty || _levels.contains(level);
 
   Future<void> _save() async {
@@ -98,11 +94,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
               ButtonSegment(value: 'grammar', label: Text('Gramer'), icon: Icon(Icons.school)),
             ],
             selected: {_mode},
-            onSelectionChanged: (s) => setState(() {
-              _mode = s.first;
-              // Grammar topics don't go past HSK4 in the bundled data.
-              if (_mode == 'grammar') _levels.removeWhere((lvl) => lvl > _maxGrammarLevel);
-            }),
+            onSelectionChanged: (s) => setState(() => _mode = s.first),
           ),
           const SizedBox(height: 28),
           const Text('HSK Seviyesi', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
@@ -116,19 +108,16 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
             spacing: 8,
             runSpacing: 8,
             children: [1, 2, 3, 4, 5].map((lvl) {
-              final disabled = _mode == 'grammar' && lvl > _maxGrammarLevel;
               return FilterChip(
-                label: Text('HSK$lvl'),
-                selected: !disabled && _levels.contains(lvl),
-                onSelected: disabled
-                    ? null
-                    : (selected) => setState(() {
-                        if (selected) {
-                          _levels.add(lvl);
-                        } else {
-                          _levels.remove(lvl);
-                        }
-                      }),
+                label: Text(lvl == 5 ? 'HSK5' : 'HSK$lvl'),
+                selected: _levels.contains(lvl),
+                onSelected: (selected) => setState(() {
+                  if (selected) {
+                    _levels.add(lvl);
+                  } else {
+                    _levels.remove(lvl);
+                  }
+                }),
               );
             }).toList(),
           ),

@@ -14,6 +14,8 @@ class GrammarListScreen extends StatefulWidget {
 
 class _GrammarListScreenState extends State<GrammarListScreen> {
   late Future<List<GrammarTopic>> _future;
+  int _level = 0; // 0 = all; 6 = the "5-6" advanced section
+  String _query = '';
 
   @override
   void initState() {
@@ -31,28 +33,81 @@ class _GrammarListScreenState extends State<GrammarListScreen> {
           if (!snapshot.hasData) {
             return const Center(child: CircularProgressIndicator());
           }
-          final topics = snapshot.data!;
-          return ListView.separated(
-            padding: const EdgeInsets.symmetric(vertical: 8),
-            itemCount: topics.length,
-            separatorBuilder: (_, _) => const Divider(height: 1),
-            itemBuilder: (context, index) {
-              final topic = topics[index];
-              return ListTile(
-                leading: CircleAvatar(
-                  backgroundColor: Theme.of(context).colorScheme.secondaryContainer,
-                  child: Text('${topic.level}'),
+          final all = snapshot.data!;
+          final topics = all.where((t) {
+            if (_level != 0 && t.level != _level) return false;
+            if (_query.isEmpty) return true;
+            final q = _query;
+            return t.title.toLowerCase().contains(q) ||
+                t.titleEn.toLowerCase().contains(q) ||
+                t.pattern.toLowerCase().contains(q) ||
+                t.summary.toLowerCase().contains(q);
+          }).toList();
+
+          return Column(
+            children: [
+              Padding(
+                padding: const EdgeInsets.fromLTRB(16, 12, 16, 4),
+                child: TextField(
+                  decoration: InputDecoration(
+                    hintText: 'Konu ara (başlık, kalıp, açıklama)',
+                    prefixIcon: const Icon(Icons.search),
+                    isDense: true,
+                    border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
+                  ),
+                  onChanged: (v) => setState(() => _query = v.trim().toLowerCase()),
                 ),
-                title: Text(topic.title),
-                subtitle: Text(topic.summary, maxLines: 2, overflow: TextOverflow.ellipsis),
-                trailing: const Icon(Icons.chevron_right),
-                onTap: () => Navigator.of(context).push(
-                  MaterialPageRoute(builder: (_) => GrammarDetailScreen(topic: topic)),
+              ),
+              SingleChildScrollView(
+                scrollDirection: Axis.horizontal,
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
+                child: Row(
+                  children: [
+                    _levelChip('Hepsi', 0),
+                    for (final lvl in [1, 2, 3, 4]) _levelChip('HSK$lvl', lvl),
+                    _levelChip('HSK5-6', 5),
+                  ],
                 ),
-              );
-            },
+              ),
+              Expanded(
+                child: topics.isEmpty
+                    ? const Center(child: Text('Konu bulunamadı'))
+                    : ListView.separated(
+                        padding: const EdgeInsets.symmetric(vertical: 8),
+                        itemCount: topics.length,
+                        separatorBuilder: (_, _) => const Divider(height: 1),
+                        itemBuilder: (context, index) {
+                          final topic = topics[index];
+                          return ListTile(
+                            leading: CircleAvatar(
+                              backgroundColor: Theme.of(context).colorScheme.secondaryContainer,
+                              child: Text(topic.levelLabel,
+                                  style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
+                            ),
+                            title: Text(topic.title),
+                            subtitle: Text(topic.summary, maxLines: 2, overflow: TextOverflow.ellipsis),
+                            trailing: const Icon(Icons.chevron_right),
+                            onTap: () => Navigator.of(context).push(
+                              MaterialPageRoute(builder: (_) => GrammarDetailScreen(topic: topic)),
+                            ),
+                          );
+                        },
+                      ),
+              ),
+            ],
           );
         },
+      ),
+    );
+  }
+
+  Widget _levelChip(String label, int level) {
+    return Padding(
+      padding: const EdgeInsets.only(right: 8),
+      child: ChoiceChip(
+        label: Text(label),
+        selected: _level == level,
+        onSelected: (_) => setState(() => _level = level),
       ),
     );
   }

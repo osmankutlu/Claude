@@ -3,9 +3,10 @@ import 'package:provider/provider.dart';
 
 import '../data/favorites_repository.dart';
 import '../models/grammar_topic.dart';
-import '../services/tts_service.dart';
 import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
+import '../utils/speak.dart';
+import '../widgets/pattern_box.dart';
 
 class GrammarDetailScreen extends StatelessWidget {
   final GrammarTopic topic;
@@ -14,11 +15,9 @@ class GrammarDetailScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final tts = context.read<TtsService>();
-
     return Scaffold(
       appBar: AppBar(
-        title: Text('HSK ${topic.level}'),
+        title: Text('HSK ${topic.levelLabel}'),
         actions: [
           Consumer<FavoritesRepository>(
             builder: (context, favorites, _) => IconButton(
@@ -35,12 +34,24 @@ class GrammarDetailScreen extends StatelessWidget {
         padding: const EdgeInsets.all(20),
         children: [
           Text(topic.title, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
-          const SizedBox(height: 8),
+          if (topic.titleEn.isNotEmpty) ...[
+            const SizedBox(height: 2),
+            Text(
+              topic.titleEn,
+              style: TextStyle(fontSize: 13, color: Theme.of(context).colorScheme.outline),
+            ),
+          ],
+          const SizedBox(height: 12),
           Text(topic.summary, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
+          if (topic.pattern.isNotEmpty) ...[
+            const SizedBox(height: 16),
+            PatternBox(topic.pattern),
+          ],
           const Divider(height: 32),
           Text(topic.explanation, style: const TextStyle(fontSize: 16, height: 1.5)),
           const SizedBox(height: 24),
-          const Text('Örnek Cümleler', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
+          Text('Örnek Cümleler (${topic.examples.length})',
+              style: const TextStyle(fontWeight: FontWeight.bold, fontSize: 18)),
           const SizedBox(height: 8),
           ...topic.examples.map(
             (ex) => Card(
@@ -67,7 +78,7 @@ class GrammarDetailScreen extends StatelessWidget {
                     ),
                     IconButton(
                       icon: const Icon(Icons.volume_up),
-                      onPressed: () => tts.speak(ex.zh),
+                      onPressed: () => speakWithFeedback(context, ex.zh),
                     ),
                   ],
                 ),

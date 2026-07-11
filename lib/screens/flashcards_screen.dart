@@ -6,9 +6,9 @@ import 'package:provider/provider.dart';
 import '../data/dictionary_repository.dart';
 import '../data/progress_repository.dart';
 import '../models/word.dart';
-import '../services/tts_service.dart';
 import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
+import '../utils/speak.dart';
 
 class FlashcardsScreen extends StatefulWidget {
   const FlashcardsScreen({super.key});
@@ -116,7 +116,6 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
 
   Widget _buildCard() {
     final word = _deck[_index];
-    final tts = context.read<TtsService>();
     final progress = (_index) / _deck.length;
 
     return Padding(
@@ -136,7 +135,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
                 child: Container(
                   width: double.infinity,
                   padding: const EdgeInsets.all(24),
-                  child: _showBack ? _buildBack(word, tts) : _buildFront(word, tts),
+                  child: _showBack ? _buildBack(word) : _buildFront(word),
                 ),
               ),
             ),
@@ -172,7 +171,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
     );
   }
 
-  Widget _buildFront(Word word, TtsService tts) {
+  Widget _buildFront(Word word) {
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
@@ -184,7 +183,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
           ),
           const SizedBox(height: 16),
           IconButton.filledTonal(
-            onPressed: () => tts.speak(word.hanzi),
+            onPressed: () => speakWithFeedback(context, word.hanzi),
             icon: const Icon(Icons.volume_up),
           ),
         ],
@@ -192,7 +191,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
     );
   }
 
-  Widget _buildBack(Word word, TtsService tts) {
+  Widget _buildBack(Word word) {
     return Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,

@@ -7,9 +7,10 @@ import '../data/favorites_repository.dart';
 import '../data/grammar_repository.dart';
 import '../models/grammar_topic.dart';
 import '../models/word.dart';
-import '../services/tts_service.dart';
 import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
+import '../utils/speak.dart';
+import '../widgets/pattern_box.dart';
 import '../widgets/word_dialog.dart';
 
 /// The Flutter side of [WordPopupActivity]: renders as a floating dialog
@@ -121,7 +122,6 @@ class _GrammarPopupContent extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final tts = context.read<TtsService>();
     return ListView(
       shrinkWrap: true,
       padding: const EdgeInsets.fromLTRB(20, 12, 20, 20),
@@ -129,7 +129,7 @@ class _GrammarPopupContent extends StatelessWidget {
         Row(
           children: [
             Text(
-              'HSK ${topic.level}',
+              'HSK ${topic.levelLabel}',
               style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).colorScheme.primary),
             ),
             const Spacer(),
@@ -146,12 +146,20 @@ class _GrammarPopupContent extends StatelessWidget {
           ],
         ),
         Text(topic.title, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.bold)),
+        if (topic.titleEn.isNotEmpty) ...[
+          const SizedBox(height: 2),
+          Text(topic.titleEn, style: TextStyle(fontSize: 13, color: Theme.of(context).colorScheme.outline)),
+        ],
         const SizedBox(height: 8),
         Text(topic.summary, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
+        if (topic.pattern.isNotEmpty) ...[
+          const SizedBox(height: 14),
+          PatternBox(topic.pattern),
+        ],
         const Divider(height: 28),
         Text(topic.explanation, style: const TextStyle(fontSize: 16, height: 1.5)),
         const SizedBox(height: 20),
-        Text('Örnek Cümleler', style: Theme.of(context).textTheme.titleMedium),
+        Text('Örnek Cümleler (${topic.examples.length})', style: Theme.of(context).textTheme.titleMedium),
         const SizedBox(height: 8),
         ...topic.examples.map(
           (ex) => Card(
@@ -179,7 +187,7 @@ class _GrammarPopupContent extends StatelessWidget {
                   ),
                   IconButton(
                     icon: const Icon(Icons.volume_up),
-                    onPressed: () => tts.speak(ex.zh),
+                    onPressed: () => speakWithFeedback(context, ex.zh),
                   ),
                 ],
               ),

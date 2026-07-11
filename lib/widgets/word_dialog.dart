@@ -3,9 +3,9 @@ import 'package:provider/provider.dart';
 
 import '../data/favorites_repository.dart';
 import '../models/word.dart';
-import '../services/tts_service.dart';
 import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
+import '../utils/speak.dart';
 
 /// Opens [word] in a floating dialog (meaning + examples + favorite star),
 /// so a word tapped inside an example sentence can be inspected and
@@ -44,7 +44,6 @@ class WordContentView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final tts = context.read<TtsService>();
     return ListView(
       shrinkWrap: true,
       padding: const EdgeInsets.fromLTRB(20, 12, 20, 20),
@@ -80,7 +79,7 @@ class WordContentView extends StatelessWidget {
               TonedPinyinText(word.pinyin, style: const TextStyle(fontSize: 18)),
               const SizedBox(height: 10),
               FilledButton.icon(
-                onPressed: () => tts.speak(word.hanzi),
+                onPressed: () => speakWithFeedback(context, word.hanzi),
                 icon: const Icon(Icons.volume_up),
                 label: const Text('Telaffuz Dinle'),
               ),
@@ -120,7 +119,7 @@ class WordContentView extends StatelessWidget {
                   ),
                   IconButton(
                     icon: const Icon(Icons.volume_up),
-                    onPressed: () => tts.speak(ex.zh),
+                    onPressed: () => speakWithFeedback(context, ex.zh),
                   ),
                 ],
               ),

@@ -1,15 +1,32 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
 /// Wraps flutter_tts configured for Mandarin Chinese pronunciation.
+///
+/// [speak] returns a human-readable Turkish error string when something
+/// goes wrong (no Chinese voice installed, engine failure, …) and null on
+/// success, so the UI can surface *why* there was no sound instead of the
+/// call just failing silently — the most common real-device cause is that
+/// the phone has no zh-CN voice data downloaded, which the app can't fix
+/// but can at least tell the user about.
 class TtsService {
   final FlutterTts _tts = FlutterTts();
   bool _initialized = false;
+  String? _lastError;
 
   Future<void> _ensureInitialized() async {
     if (_initialized) return;
-    await _tts.setLanguage('zh-CN');
+
+    _tts.setErrorHandler((msg) {
+      _lastError = msg?.toString();
+    });
+
+    // Block speak() until the utterance actually finishes/errors, so a
+    // failure is observable rather than fire-and-forget.
+    await _tts.awaitSpeakCompletion(true);
     await _tts.setSpeechRate(0.45);
     await _tts.setPitch(1.0);
+    await _tts.setLanguage('zh-CN');
     await _selectBestChineseVoice();
     _initialized = true;
   }
@@ -52,10 +69,40 @@ class TtsService {
     }
   }
 
-  Future<void> speak(String text) async {
-    await _ensureInitialized();
-    await _tts.stop();
-    await _tts.speak(text);
+  /// Speaks [text]. Returns null on success, or a Turkish error message
+  /// describing why it couldn't (for the UI to show).
+  Future<String?> speak(String text) async {
+    try {
+      await _ensureInitialized();
+
+      // A Mandarin voice being unavailable is the usual real-device cause
+      // of silence — report it specifically so the user knows to install
+      // the Chinese voice pack rather than assuming the app is broken.
+      final available = await _tts.isLanguageAvailable('zh-CN');
+      if (available == false) {
+        return 'Cihazında Çince (zh-CN) sesi yüklü değil. Ayarlar → Sistem → '
+            'Diller ve giriş → Metin okuma çıkışı bölümünden Çince ses '
+            'paketini indirmen gerekiyor.';
+      }
+
+      _lastError = null;
+      await _tts.stop();
+      final result = await _tts.speak(text);
+      // flutter_tts returns 1 on a successful queue on Android; 0 means the
+      // engine rejected it.
+      if (result == 0) {
+        return _lastError != null
+            ? 'Telaffuz çalınamadı: $_lastError'
+            : 'Telaffuz çalınamadı. Cihazının metin okuma motorunu kontrol et.';
+      }
+      if (_lastError != null) {
+        return 'Telaffuz hatası: $_lastError';
+      }
+      return null;
+    } catch (e) {
+      debugPrint('TTS speak failed: $e');
+      return 'Telaffuz sırasında bir hata oluştu: $e';
+    }
   }
 
   Future<void> stop() => _tts.stop();

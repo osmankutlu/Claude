@@ -29782,5 +29782,685 @@
     "en": "He always reminds himself to complain less and think of solutions."
    }
   ]
+ },
+ {
+  "id": "g220",
+  "level": 3,
+  "title": "\"多\" ile \"daha çok ...-mek\"",
+  "titleEn": "Doing something more with \"duo\"",
+  "pattern": "多 + Fiil (+ Nesne)",
+  "summary": "\"多\" (duō) bir fiilin önüne gelip \"daha çok ...-mek\" der: 多吃 = çok ye; 多穿点 = kalın giyin. Karşıtı \"少\" (daha az).",
+  "explanation": "\"多\" bir fiilin önüne gelerek eylemin ÇOK/daha çok yapılmasını bildirir: 多喝水 (çok su iç), 多运动 (çok hareket et), 多穿点儿 (kalın giyin — daha çok giy). Karşıtı \"少\"dır (daha az): 多吃蔬菜,少吃肉 (Çok sebze, az et ye). Sık sık bir öğüt/tavsiye biçiminde gelir ve ardından çoğu zaman bir miktar (点儿) eklenir: 多休息 (çok dinlen), 多注意 (daha dikkatli ol). Emir/rica kipinde \"biraz daha ...\" anlamı verir: 多包涵 (biraz hoş gör), 多关照 (kollayın). \"多\" ayrıca sıfat/derece belirteci olarak da kullanılır, ama fiil önündeki bu kullanım \"daha çok yapmak\" eylemini vurgular. Türkçedeki \"çok ...-mek, daha çok ...-mek, biraz daha ...\" ifadelerine denk gelir; olumlu bir alışkanlığı özendirmenin yaygın yoludur.",
+  "examples": [
+   {
+    "zh": "天气干燥,你要多喝水,别等渴了才想起来。",
+    "pinyin": "Tiān qì gān zào, nǐ yào duō hē shuǐ, bié děng kě le cái xiǎng qǐ lái。",
+    "en": "The weather's dry; drink more water, don't wait until you're thirsty."
+   },
+   {
+    "zh": "有空的时候多陪陪父母,别总把工作放在第一位。",
+    "pinyin": "Yǒu kòng de shí hòu duō péi péi fù mǔ, bié zǒng bǎ gōng zuò fàng zài dì yī wèi。",
+    "en": "When free, spend more time with your parents; don't always put work first."
+   },
+   {
+    "zh": "想把身体练好,就得多运动、多出汗。",
+    "pinyin": "Xiǎng bǎ shēn tǐ liàn hǎo, jiù de duō yùn dòng、 duō chū hàn。",
+    "en": "To get fit, you must exercise more and sweat more."
+   },
+   {
+    "zh": "刚来的时候,你要多向老同事请教。",
+    "pinyin": "Gāng lái de shí hòu, nǐ yào duō xiàng lǎo tóng shì qǐng jiào。",
+    "en": "When you first arrive, ask the experienced colleagues more."
+   },
+   {
+    "zh": "天冷了,出门多穿件衣服,别冻着了。",
+    "pinyin": "Tiān lěng le, chū mén duō chuān jiàn yī fú, bié dòng zhe le。",
+    "en": "It's cold; wear an extra layer out and don't freeze."
+   },
+   {
+    "zh": "学好一门语言,平时得多听、多说、多练。",
+    "pinyin": "Xué hǎo yī mén yǔ yán, píng shí de duō tīng、 duō shuō、 duō liàn。",
+    "en": "To master a language, you must listen, speak, and practice more."
+   },
+   {
+    "zh": "你最近太累了,应该多休息,别硬撑着。",
+    "pinyin": "Nǐ zuì jìn tài lèi le, yīng gāi duō xiū xī, bié yìng chēng zhe。",
+    "en": "You've been too tired; rest more, don't push yourself."
+   },
+   {
+    "zh": "做菜的时候多放点儿蔬菜,营养会更均衡。",
+    "pinyin": "Zuò cài de shí hòu duō fàng diǎn ér shū cài, yíng yǎng huì gèng jūn héng。",
+    "en": "When cooking, add more vegetables for a more balanced diet."
+   },
+   {
+    "zh": "希望大家以后多多支持,多提宝贵意见。",
+    "pinyin": "Xī wàng dà jiā yǐ hòu duō duō zhī chí, duō tí bǎo guì yì jiàn。",
+    "en": "I hope you'll all support us more and offer valuable suggestions."
+   },
+   {
+    "zh": "遇到问题多动动脑筋,总能想出办法来。",
+    "pinyin": "Yù dào wèn tí duō dòng dòng nǎo jīn, zǒng néng xiǎng chū bàn fǎ lái。",
+    "en": "When facing problems, use your brain more and you'll find a way."
+   },
+   {
+    "zh": "你要多为别人着想,别只顾着自己。",
+    "pinyin": "Nǐ yào duō wèi bié rén zhuó xiǎng, bié zhǐ gù zhe zì jǐ。",
+    "en": "Think more of others; don't only care about yourself."
+   },
+   {
+    "zh": "趁着年轻,应该多出去走走,多看看这个世界。",
+    "pinyin": "Chèn zhe nián qīng, yīng gāi duō chū qù zǒu zǒu, duō kàn kàn zhè ge shì jiè。",
+    "en": "While young, you should travel more and see more of the world."
+   },
+   {
+    "zh": "孩子还小,你们做父母的要多点儿耐心。",
+    "pinyin": "Hái zi hái xiǎo, nǐ men zuò fù mǔ de yào duō diǎn ér nài xīn。",
+    "en": "The child is young; you parents should have more patience."
+   },
+   {
+    "zh": "有什么做得不好的地方,还请您多包涵。",
+    "pinyin": "Yǒu shén me zuò de bù hǎo de dì fāng, hái qǐng nín duō bāo hán。",
+    "en": "Please bear with us for anything we haven't done well."
+   },
+   {
+    "zh": "多读点儿好书,能让人变得更有涵养。",
+    "pinyin": "Duō dú diǎn ér hǎo shū, néng ràng rén biàn de gèng yǒu hán yǎng。",
+    "en": "Reading more good books makes a person more cultivated."
+   },
+   {
+    "zh": "身体是本钱,平时一定要多注意保养。",
+    "pinyin": "Shēn tǐ shì běn qián, píng shí yí dìng yào duō zhù yì bǎo yǎng。",
+    "en": "Health is capital; always take more care to maintain it."
+   },
+   {
+    "zh": "你多留个心眼儿,别轻易相信陌生人的话。",
+    "pinyin": "Nǐ duō liú gè xīn yǎn ér, bié qīng yì xiāng xìn mò shēng rén de huà。",
+    "en": "Be more careful; don't easily believe strangers' words."
+   },
+   {
+    "zh": "初来乍到,以后还请各位同事多多关照。",
+    "pinyin": "Chū lái zhà dào, yǐ hòu hái qǐng gè wèi tóng shì duō duō guān zhào。",
+    "en": "As a newcomer, I ask all colleagues to look out for me."
+   },
+   {
+    "zh": "想提高写作水平,就得多写、多改、多琢磨。",
+    "pinyin": "Xiǎng tí gāo xiě zuò shuǐ píng, jiù de duō xiě、 duō gǎi、 duō zhuó mó。",
+    "en": "To improve writing, you must write, revise, and ponder more."
+   },
+   {
+    "zh": "大家多提提意见,这样我们才能不断改进。",
+    "pinyin": "Dà jiā duō tí tí yì jiàn, zhè yàng wǒ men cái néng bù duàn gǎi jìn。",
+    "en": "Everyone please offer more feedback so we can keep improving."
+   },
+   {
+    "zh": "空闲的时候多陪孩子玩玩,他会特别开心。",
+    "pinyin": "Kòng xián de shí hòu duō péi hái zi wán wán, tā huì tè bié kāi xīn。",
+    "en": "When free, play more with the child; he'll be very happy."
+   },
+   {
+    "zh": "你多吃点儿,别客气,今天做的都是你爱吃的。",
+    "pinyin": "Nǐ duō chī diǎn ér, bié kè qì, jīn tiān zuò de dōu shì nǐ ài chī de。",
+    "en": "Eat more, don't be shy; today's dishes are all your favorites."
+   },
+   {
+    "zh": "路上多加小心,到了给家里打个电话报平安。",
+    "pinyin": "Lù shàng duō jiā xiǎo xīn, dào le gěi jiā lǐ dǎ gè diàn huà bào píng ān。",
+    "en": "Be more careful on the road; call home when you arrive."
+   },
+   {
+    "zh": "平时多积累一些词汇,考试的时候就不慌了。",
+    "pinyin": "Píng shí duō jī lěi yī xiē cí huì, kǎo shì de shí hòu jiù bù huāng le。",
+    "en": "Accumulate more vocabulary daily and you won't panic in exams."
+   },
+   {
+    "zh": "生活中多一点儿宽容,人和人之间就少一点儿矛盾。",
+    "pinyin": "Shēng huó zhōng duō yì diǎn ér kuān róng, rén hé rén zhī jiān jiù shǎo yì diǎn ér máo dùn。",
+    "en": "A bit more tolerance in life means less conflict between people."
+   }
+  ]
+ },
+ {
+  "id": "g221",
+  "level": 3,
+  "title": "Süregelen eylem (tam biçim: 正在...着...呢)",
+  "titleEn": "Expressing actions in progress (full form)",
+  "pattern": "正在 + Fiil + 着 + 呢",
+  "summary": "Bir eylemin TAM O ANDA sürdüğü \"正在...(着)...呢\" ile vurgulanır: 他正在睡觉呢 = O şu an uyuyor.",
+  "explanation": "Bir eylemin TAM O ANDA sürmekte olduğunu (İngilizcedeki \"-ing\" gibi) vurgulamak için \"正在 + fiil + (着) + 呢\" kalıbı kullanılır. Bileşenler ayrı ayrı ya da birlikte gelebilir: \"正在\" (tam şu an), \"着\" (süreklilik eki), \"呢\" (durumu pekiştiren cümle-sonu parçacığı). 他正在打电话呢 (Şu an telefonla konuşuyor), 外面正下着雨呢 (Dışarıda yağmur yağıyor), 我正忙着做饭呢 (Yemek yapmakla meşgulüm). Vurgu derecesine göre bazıları düşebilir: 他睡觉呢 / 他正睡着呢 / 他正在睡觉 — hepsi süregelen eylemi anlatır. Olumsuzu \"没(有)在...\" ile kurulur. Bir eylemin şu anda ya da o anda devam ettiğini betimler. Türkçedeki \"...-makta, ...-ıyor (tam şu an), ...-makla meşgul\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你小声点,孩子正在房间里睡觉呢,别吵醒他。",
+    "pinyin": "Nǐ xiǎo shēng diǎn, hái zi zhèng zài fáng jiān lǐ shuì jiào ne, bié chǎo xǐng tā。",
+    "en": "Keep it down; the child is sleeping in the room, don't wake him."
+   },
+   {
+    "zh": "我给他打电话的时候,他正在开车呢,没接。",
+    "pinyin": "Wǒ gěi tā dǎ diàn huà de shí hòu, tā zhèng zài kāi chē ne, méi jiē。",
+    "en": "When I called him, he was driving and didn't answer."
+   },
+   {
+    "zh": "你看,外面正下着大雨呢,咱们再等一会儿吧。",
+    "pinyin": "Nǐ kàn, wài miàn zhèng xià zhe dà yǔ ne, zán men zài děng yī huì er ba。",
+    "en": "Look, it's pouring outside; let's wait a while longer."
+   },
+   {
+    "zh": "我进屋的时候,妈妈正忙着做晚饭呢。",
+    "pinyin": "Wǒ jìn wū de shí hòu, mā mā zhèng máng zhe zuò wǎn fàn ne。",
+    "en": "When I entered, mom was busy making dinner."
+   },
+   {
+    "zh": "别打扰他,他正在专心地写作业呢。",
+    "pinyin": "Bié dǎ rǎo tā, tā zhèng zài zhuān xīn de xiě zuò yè ne。",
+    "en": "Don't disturb him; he's concentrating on his homework."
+   },
+   {
+    "zh": "我们到的时候,大家正热烈地讨论着这个问题呢。",
+    "pinyin": "Wǒ men dào de shí hòu, dà jiā zhèng rè liè de tǎo lùn zhe zhè ge wèn tí ne。",
+    "en": "When we arrived, everyone was discussing the issue heatedly."
+   },
+   {
+    "zh": "你找他?他正在会议室里开会呢,一会儿才出来。",
+    "pinyin": "Nǐ zhǎo tā? tā zhèng zài huì yì shì lǐ kāi huì ne, yī huì er cái chū lái。",
+    "en": "Looking for him? He's in a meeting and won't be out for a while."
+   },
+   {
+    "zh": "窗外的小鸟正欢快地叫着呢,听起来真悦耳。",
+    "pinyin": "Chuāng wài de xiǎo niǎo zhèng huān kuài de jiào zhe ne, tīng qǐ lái zhēn yuè ěr。",
+    "en": "The birds outside are chirping cheerfully; it sounds lovely."
+   },
+   {
+    "zh": "我回来的时候,爷爷正坐在院子里晒太阳呢。",
+    "pinyin": "Wǒ huí lái de shí hòu, yé yé zhèng zuò zài yuàn zi lǐ shài tài yáng ne。",
+    "en": "When I came back, grandpa was sitting in the yard in the sun."
+   },
+   {
+    "zh": "现在别去打扰她,她正在准备明天的考试呢。",
+    "pinyin": "Xiàn zài bié qù dǎ rǎo tā, tā zhèng zài zhǔn bèi míng tiān de kǎo shì ne。",
+    "en": "Don't bother her now; she's preparing for tomorrow's exam."
+   },
+   {
+    "zh": "你听,隔壁正放着音乐呢,声音还不小。",
+    "pinyin": "Nǐ tīng, gé bì zhèng fàng zhe yīn yuè ne, shēng yīn hái bù xiǎo。",
+    "en": "Listen, the neighbors are playing music, and quite loudly."
+   },
+   {
+    "zh": "我路过教室,看见他们正在上课呢。",
+    "pinyin": "Wǒ lù guò jiào shì, kàn jiàn tā men zhèng zài shàng kè ne。",
+    "en": "Passing the classroom, I saw they were in class."
+   },
+   {
+    "zh": "锅里正炖着汤呢,香味都飘到院子里了。",
+    "pinyin": "Guō lǐ zhèng dùn zhe tāng ne, xiāng wèi dōu piāo dào yuàn zi lǐ le。",
+    "en": "Soup is stewing in the pot; the aroma drifts into the yard."
+   },
+   {
+    "zh": "你怎么突然来了?我正想着给你打电话呢。",
+    "pinyin": "Nǐ zěn me tū rán lái le? wǒ zhèng xiǎng zhe gěi nǐ dǎ diàn huà ne。",
+    "en": "Why did you come suddenly? I was just thinking of calling you."
+   },
+   {
+    "zh": "孩子们正在操场上高高兴兴地做游戏呢。",
+    "pinyin": "Hái zi men zhèng zài cāo chǎng shàng gāo gāo xìng xìng de zuò yóu xì ne。",
+    "en": "The children are happily playing games on the field."
+   },
+   {
+    "zh": "我进门的时候,他正对着镜子整理领带呢。",
+    "pinyin": "Wǒ jìn mén de shí hòu, tā zhèng duì zhe jìng zi zhěng lǐ lǐng dài ne。",
+    "en": "When I came in, he was adjusting his tie in the mirror."
+   },
+   {
+    "zh": "别急,饭正在锅里热着呢,马上就好。",
+    "pinyin": "Bié jí, fàn zhèng zài guō lǐ rè zhe ne, mǎ shàng jiù hǎo。",
+    "en": "Don't rush; the food is warming in the pot and will be ready soon."
+   },
+   {
+    "zh": "这会儿他正忙得团团转呢,你有事等会儿再说。",
+    "pinyin": "Zhè huì er tā zhèng máng de tuán tuán zhuàn ne, nǐ yǒu shì děng huì er zài shuō。",
+    "en": "He's rushed off his feet right now; tell him later."
+   },
+   {
+    "zh": "我打开门,看见小猫正趴在沙发上睡着呢。",
+    "pinyin": "Wǒ dǎ kāi mén, kàn jiàn xiǎo māo zhèng pā zài shā fā shàng shuì zháo ne。",
+    "en": "I opened the door and saw the kitten sleeping on the sofa."
+   },
+   {
+    "zh": "外面正刮着大风呢,你出门一定要小心。",
+    "pinyin": "Wài miàn zhèng guā zhe dà fēng ne, nǐ chū mén yí dìng yào xiǎo xīn。",
+    "en": "It's blowing hard outside; be careful when you go out."
+   },
+   {
+    "zh": "你安静一下,老师正在讲重点呢,别错过了。",
+    "pinyin": "Nǐ ān jìng yī xià, lǎo shī zhèng zài jiǎng zhòng diǎn ne, bié cuò guò le。",
+    "en": "Quiet down; the teacher is on the key points, don't miss them."
+   },
+   {
+    "zh": "我经过的时候,他们正在门口聊得起劲呢。",
+    "pinyin": "Wǒ jīng guò de shí hòu, tā men zhèng zài mén kǒu liáo de qǐ jìn ne。",
+    "en": "As I passed, they were chatting animatedly at the door."
+   },
+   {
+    "zh": "这个时间他一般正在吃午饭呢,你晚点再联系他。",
+    "pinyin": "Zhè ge shí jiān tā yì bān zhèng zài chī wǔ fàn ne, nǐ wǎn diǎn zài lián xì tā。",
+    "en": "At this time he's usually having lunch; contact him later."
+   },
+   {
+    "zh": "你别催我,我正想办法呢,总会解决的。",
+    "pinyin": "Nǐ bié cuī wǒ, wǒ zhèng xiǎng bàn fǎ ne, zǒng huì jiě jué de。",
+    "en": "Don't rush me; I'm working on it and will solve it."
+   },
+   {
+    "zh": "我们说话的时候,雪正静静地下着呢。",
+    "pinyin": "Wǒ men shuō huà de shí hòu, xuě zhèng jìng jìng de xià zhe ne。",
+    "en": "As we talked, the snow was falling quietly."
+   }
+  ]
+ },
+ {
+  "id": "g222",
+  "level": 3,
+  "title": "\"不怎么\" ile \"pek ...-mez\" (fiil/sıklık)",
+  "titleEn": "Expressing \"not often\" with \"bu zenme\"",
+  "pattern": "不怎么 + Fiil",
+  "summary": "\"不怎么\" bir fiilin önünde \"pek ...-mez, o kadar ...-mez\" der: 我不怎么看电视 = Pek televizyon izlemem.",
+  "explanation": "\"不怎么\" bir SIFATIN önünde \"pek ... değil\" (derece) anlamı verir (bkz. ayrı konu); bir FİİLİN önünde ise \"pek ...-mez, o kadar sık/çok ...-mez\" anlamıyla eylemin AZ/seyrek yapıldığını yumuşakça bildirir: 我不怎么喝酒 (Pek içki içmem), 他不怎么爱说话 (Pek konuşmayı sevmez), 最近我们不怎么见面 (Son zamanlarda pek görüşmüyoruz). Doğrudan \"不常\" (sık değil) ya da \"不太\" (pek değil) demenin dolaylı, kaçamak bir yoludur; açıkça \"hiç\" demeden bir eylemin seyrekliğini/azlığını belirtir. Fiilin önünde durur. Türkçedeki \"pek ...-mez, o kadar sık ...-mez, pek ...-mem\" ifadelerine denk gelir; bir alışkanlığın zayıflığını ölçülü biçimde anlatmanın yoludur.",
+  "examples": [
+   {
+    "zh": "我平时不怎么看电视,有时间宁愿看看书。",
+    "pinyin": "Wǒ píng shí bù zěn me kàn diàn shì, yǒu shí jiān nìng yuàn kàn kàn shū。",
+    "en": "I don't watch much TV; when free I'd rather read."
+   },
+   {
+    "zh": "他这个人不怎么爱说话,可是心里什么都清楚。",
+    "pinyin": "Tā zhè ge rén bù zěn me ài shuō huà, kě shì xīn lǐ shén me dōu qīng chǔ。",
+    "en": "He isn't very talkative, but he understands everything."
+   },
+   {
+    "zh": "自从搬走以后,我们就不怎么联系了。",
+    "pinyin": "Zì cóng bān zǒu yǐ hòu, wǒ men jiù bù zěn me lián xì le。",
+    "en": "Since moving away, we haven't kept in touch much."
+   },
+   {
+    "zh": "我不怎么喝咖啡,一喝晚上就睡不着。",
+    "pinyin": "Wǒ bù zěn me hē kā fēi, yī hē wǎn shàng jiù shuì bù zhe。",
+    "en": "I don't drink much coffee; it keeps me up at night."
+   },
+   {
+    "zh": "他最近工作忙,不怎么回家吃饭了。",
+    "pinyin": "Tā zuì jìn gōng zuò máng, bù zěn me huí jiā chī fàn le。",
+    "en": "He's busy with work lately and doesn't come home for meals much."
+   },
+   {
+    "zh": "这家店我不怎么去,离我家实在太远了。",
+    "pinyin": "Zhè jiā diàn wǒ bù zěn me qù, lí wǒ jiā shí zài tài yuǎn le。",
+    "en": "I don't go to this shop much; it's too far from home."
+   },
+   {
+    "zh": "她性格内向,不怎么主动跟陌生人打交道。",
+    "pinyin": "Tā xìng gé nèi xiàng, bù zěn me zhǔ dòng gēn mò shēng rén dǎ jiāo dào。",
+    "en": "She's introverted and doesn't approach strangers much."
+   },
+   {
+    "zh": "上了年纪以后,他就不怎么熬夜了。",
+    "pinyin": "Shàng le nián jì yǐ hòu, tā jiù bù zěn me áo yè le。",
+    "en": "After getting older, he doesn't stay up late much."
+   },
+   {
+    "zh": "我不怎么用社交软件,消息常常回得很慢。",
+    "pinyin": "Wǒ bù zěn me yòng shè jiāo ruǎn jiàn, xiāo xī cháng cháng huí de hěn màn。",
+    "en": "I don't use social apps much, so I often reply slowly."
+   },
+   {
+    "zh": "这种衣服不怎么流行了,现在很少有人穿。",
+    "pinyin": "Zhè zhǒng yī fú bù zěn me liú xíng le, xiàn zài hěn shǎo yǒu rén chuān。",
+    "en": "This kind of clothing isn't in fashion much; few wear it now."
+   },
+   {
+    "zh": "他不怎么运动,所以爬两层楼就气喘吁吁的。",
+    "pinyin": "Tā bù zěn me yùn dòng, suǒ yǐ pá liǎng céng lóu jiù qì chuǎn xū xū de。",
+    "en": "He doesn't exercise much, so two flights leave him panting."
+   },
+   {
+    "zh": "最近天气不好,大家都不怎么出门了。",
+    "pinyin": "Zuì jìn tiān qì bù hǎo, dà jiā dōu bù zěn me chū mén le。",
+    "en": "The weather's been bad lately, so people don't go out much."
+   },
+   {
+    "zh": "我不怎么会做饭,平时都是随便对付一口。",
+    "pinyin": "Wǒ bù zěn me huì zuò fàn, píng shí dōu shì suí biàn duì fù yī kǒu。",
+    "en": "I can't cook much; I usually just make do with something simple."
+   },
+   {
+    "zh": "这条路平时不怎么堵,今天不知道怎么回事。",
+    "pinyin": "Zhè tiáo lù píng shí bù zěn me dǔ, jīn tiān bù zhī dào zěn me huí shì。",
+    "en": "This road usually isn't jammed much; I don't know what happened today."
+   },
+   {
+    "zh": "他退休以后,就不怎么关心公司的事了。",
+    "pinyin": "Tā tuì xiū yǐ hòu, jiù bù zěn me guān xīn gōng sī de shì le。",
+    "en": "After retiring, he doesn't concern himself much with company matters."
+   },
+   {
+    "zh": "小时候我不怎么听话,常常让父母操心。",
+    "pinyin": "Xiǎo shí hòu wǒ bù zěn me tīng huà, cháng cháng ràng fù mǔ cāo xīn。",
+    "en": "As a child I wasn't very obedient and often worried my parents."
+   },
+   {
+    "zh": "这种老式的东西,现在年轻人不怎么用了。",
+    "pinyin": "Zhè zhǒng lǎo shì de dōng xī, xiàn zài nián qīng rén bù zěn me yòng le。",
+    "en": "Young people don't use these old-style things much now."
+   },
+   {
+    "zh": "最近他心情不好,不怎么跟人开玩笑了。",
+    "pinyin": "Zuì jìn tā xīn qíng bù hǎo, bù zěn me gēn rén kāi wán xiào le。",
+    "en": "He's been in a low mood lately and doesn't joke with people much."
+   },
+   {
+    "zh": "我不怎么记得小时候的事了,都太久远了。",
+    "pinyin": "Wǒ bù zěn me jì de xiǎo shí hòu de shì le, dōu tài jiǔ yuǎn le。",
+    "en": "I don't remember much of my childhood; it's all too long ago."
+   },
+   {
+    "zh": "这个话题他不怎么感兴趣,聊了几句就走开了。",
+    "pinyin": "Zhè ge huà tí tā bù zěn me gǎn xìng qù, liáo le jǐ jù jiù zǒu kāi le。",
+    "en": "He isn't very interested in this topic; he left after a few words."
+   },
+   {
+    "zh": "搬到城里以后,我们就不怎么种菜了。",
+    "pinyin": "Bān dào chéng lǐ yǐ hòu, wǒ men jiù bù zěn me zhòng cài le。",
+    "en": "After moving to the city, we don't grow vegetables much."
+   },
+   {
+    "zh": "他不怎么讲究吃穿,把钱都花在了买书上。",
+    "pinyin": "Tā bù zěn me jiǎng jiū chī chuān, bǎ qián dōu huā zài le mǎi shū shàng。",
+    "en": "He doesn't fuss much over food and clothes; he spends on books."
+   },
+   {
+    "zh": "这几年我不怎么旅行了,主要是没什么时间。",
+    "pinyin": "Zhè jǐ nián wǒ bù zěn me lǚ xíng le, zhǔ yào shì méi shén me shí jiān。",
+    "en": "I haven't traveled much these years, mainly for lack of time."
+   },
+   {
+    "zh": "她不怎么化妆,可是皮肤一直很好。",
+    "pinyin": "Tā bù zěn me huà zhuāng, kě shì pí fū yì zhí hěn hǎo。",
+    "en": "She doesn't wear much makeup, yet her skin has always been good."
+   },
+   {
+    "zh": "这台旧收音机我早就不怎么听了,一直放在角落里。",
+    "pinyin": "Zhè tái jiù shōu yīn jī wǒ zǎo jiù bù zěn me tīng le, yì zhí fàng zài jiǎo luò lǐ。",
+    "en": "I haven't listened to this old radio much; it's been sitting in a corner."
+   }
+  ]
+ },
+ {
+  "id": "g223",
+  "level": 3,
+  "title": "\"到\" ile \"...-e kadar (sürmek)\"",
+  "titleEn": "Expressing \"until\" with \"dao\"",
+  "pattern": "Fiil + 到 + Zaman / Olay",
+  "summary": "Fiilden sonra \"到\" bir eylemin ne zamana kadar sürdüğünü bildirir: 工作到很晚 = geç saate kadar çalışmak; 睡到中午 = öğlene kadar uyumak.",
+  "explanation": "Bir eylemin belli bir ZAMANA ya da noktaya KADAR sürdüğünü anlatmak için fiilden sonra \"到 + zaman/olay\" gelir: Fiil + 到 + bitiş noktası. 我们聊到半夜 (Gece yarısına kadar sohbet ettik), 他每天工作到很晚 (Her gün çok geç saate kadar çalışır), 一直等到他回来 (O dönene kadar bekledim). Buradaki \"到\" eylemin ne zamana/nereye kadar UZANDIĞINI, bitiş sınırını gösteren bir tümleçtir. \"从...到...\" (...-den ...-e) ve \"直到...\" (ta ...-e kadar) kalıplarıyla ilişkilidir. Zaman dışında bir dereceye/duruma kadar da uzatabilir: 高兴到跳起来 (sevinçten zıplayacak kadar). Türkçedeki \"...-e kadar (sürmek), ...-a dek\" ifadelerine denk gelir; bir eylemin süresinin bitiş noktasını belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "昨晚我们聊得太投机,一直聊到深夜才睡。",
+    "pinyin": "Zuó wǎn wǒ men liáo de tài tóu jī, yì zhí liáo dào shēn yè cái shuì。",
+    "en": "Last night we talked so well we chatted until late before sleeping."
+   },
+   {
+    "zh": "他为了完成任务,常常工作到很晚才回家。",
+    "pinyin": "Tā wèi le wán chéng rèn wù, cháng cháng gōng zuò dào hěn wǎn cái huí jiā。",
+    "en": "To finish tasks, he often works until late before going home."
+   },
+   {
+    "zh": "周末没有闹钟,他一觉睡到了中午。",
+    "pinyin": "Zhōu mò méi yǒu nào zhōng, tā yī jiào shuì dào le zhōng wǔ。",
+    "en": "With no alarm on weekends, he slept until noon."
+   },
+   {
+    "zh": "我们在门口一直等到他出来,才放心离开。",
+    "pinyin": "Wǒ men zài mén kǒu yì zhí děng dào tā chū lái, cái fàng xīn lí kāi。",
+    "en": "We waited at the door until he came out before leaving at ease."
+   },
+   {
+    "zh": "这场大雨从早上一直下到晚上都没停。",
+    "pinyin": "Zhè chǎng dà yǔ cóng zǎo shàng yì zhí xià dào wǎn shàng dōu méi tíng。",
+    "en": "This heavy rain fell from morning to evening without stopping."
+   },
+   {
+    "zh": "他坚持锻炼,一直练到自己满意为止。",
+    "pinyin": "Tā jiān chí duàn liàn, yì zhí liàn dào zì jǐ mǎn yì wéi zhǐ。",
+    "en": "He kept exercising, training until he was satisfied."
+   },
+   {
+    "zh": "孩子们玩得太开心,一直玩到天黑才回家。",
+    "pinyin": "Hái zi men wán de tài kāi xīn, yì zhí wán dào tiān hēi cái huí jiā。",
+    "en": "The children had such fun they played until dark before going home."
+   },
+   {
+    "zh": "这本小说太精彩了,我一口气看到了最后一页。",
+    "pinyin": "Zhè běn xiǎo shuō tài jīng cǎi le, wǒ yì kǒu qì kàn dào le zuì hòu yī yè。",
+    "en": "This novel was so gripping I read straight to the last page."
+   },
+   {
+    "zh": "他们排队一直排到商场关门,还是没买到。",
+    "pinyin": "Tā men pái duì yì zhí pái dào shāng chǎng guān mén, hái shì méi mǎi dào。",
+    "en": "They queued until the mall closed but still didn't get it."
+   },
+   {
+    "zh": "老师把这道题讲到我们都听懂了才继续。",
+    "pinyin": "Lǎo shī bǎ zhè dào tí jiǎng dào wǒ men dōu tīng dǒng le cái jì xù。",
+    "en": "The teacher explained the problem until we all understood, then continued."
+   },
+   {
+    "zh": "我一直忙到现在,连口水都还没顾上喝。",
+    "pinyin": "Wǒ yì zhí máng dào xiàn zài, lián kǒu shuǐ dōu hái méi gù shàng hē。",
+    "en": "I've been busy until now, without even a sip of water."
+   },
+   {
+    "zh": "他把钱一分一分地攒到足够买房子为止。",
+    "pinyin": "Tā bǎ qián yī fēn yī fēn de zǎn dào zú gòu mǎi fáng zi wéi zhǐ。",
+    "en": "He saved money bit by bit until it was enough to buy a house."
+   },
+   {
+    "zh": "我们一路走,一直走到实在走不动了才休息。",
+    "pinyin": "Wǒ men yī lù zǒu, yì zhí zǒu dào shí zài zǒu bù dòng le cái xiū xī。",
+    "en": "We walked on until we truly couldn't walk anymore, then rested."
+   },
+   {
+    "zh": "这场会议开到中午十二点多才结束。",
+    "pinyin": "Zhè chǎng huì yì kāi dào zhōng wǔ shí èr diǎn duō cái jié shù。",
+    "en": "This meeting ran until past twelve noon before ending."
+   },
+   {
+    "zh": "他等这个机会,等到几乎快要绝望了。",
+    "pinyin": "Tā děng zhè ge jī huì, děng dào jī hū kuài yào jué wàng le。",
+    "en": "He waited for this chance until he was almost in despair."
+   },
+   {
+    "zh": "孩子哭到没了力气,最后在妈妈怀里睡着了。",
+    "pinyin": "Hái zi kū dào méi le lì qì, zuì hòu zài mā mā huái lǐ shuì zháo le。",
+    "en": "The child cried until exhausted and finally slept in mom's arms."
+   },
+   {
+    "zh": "那家小吃店常常营业到凌晨,深受夜猫子欢迎。",
+    "pinyin": "Nà jiā xiǎo chī diàn cháng cháng yíng yè dào líng chén, shēn shòu yè māo zi huān yíng。",
+    "en": "That snack shop often opens until dawn, loved by night owls."
+   },
+   {
+    "zh": "我把这段话反复读到能背下来为止。",
+    "pinyin": "Wǒ bǎ zhè duàn huà fǎn fù dú dào néng bèi xià lái wéi zhǐ。",
+    "en": "I read this passage over and over until I could recite it."
+   },
+   {
+    "zh": "他们把工作做到尽善尽美,才肯交给客户。",
+    "pinyin": "Tā men bǎ gōng zuò zuò dào jìn shàn jìn měi, cái kěn jiāo gěi kè hù。",
+    "en": "They perfect their work before handing it to clients."
+   },
+   {
+    "zh": "那天我们聊得太开心,不知不觉聊到了天亮。",
+    "pinyin": "Nà tiān wǒ men liáo de tài kāi xīn, bù zhī bù jué liáo dào le tiān liàng。",
+    "en": "That day we talked so happily that dawn came unnoticed."
+   },
+   {
+    "zh": "他一直坚持到比赛的最后一秒钟,从不放弃。",
+    "pinyin": "Tā yì zhí jiān chí dào bǐ sài de zuì hòu yī miǎo zhōng, cóng bù fàng qì。",
+    "en": "He held on until the very last second of the match, never giving up."
+   },
+   {
+    "zh": "妈妈把我送到车站,看着我上车才转身回家。",
+    "pinyin": "Mā mā bǎ wǒ sòng dào chē zhàn, kàn zhe wǒ shàng chē cái zhuǎn shēn huí jiā。",
+    "en": "Mom saw me to the station and only turned home after I boarded."
+   },
+   {
+    "zh": "这项研究他一做就是十年,做到有了结果为止。",
+    "pinyin": "Zhè xiàng yán jiū tā yī zuò jiù shì shí nián, zuò dào yǒu liǎo jié guǒ wéi zhǐ。",
+    "en": "He worked on this research for ten years, until there was a result."
+   },
+   {
+    "zh": "他把每个细节都检查到万无一失,才放心提交。",
+    "pinyin": "Tā bǎ měi gè xì jié dōu jiǎn chá dào wàn wú yī shī, cái fàng xīn tí jiāo。",
+    "en": "He checked every detail until foolproof before submitting."
+   },
+   {
+    "zh": "那天雪下得很大,一直下到把整个村子都盖白了。",
+    "pinyin": "Nà tiān xuě xià de hěn dà, yì zhí xià dào bǎ zhěng gè cūn zi dōu gài bái le。",
+    "en": "The snow that day fell heavily until it whitened the whole village."
+   }
+  ]
+ },
+ {
+  "id": "g224",
+  "level": 3,
+  "title": "Fiil ölçü sözcükleri (次/遍/趟...)",
+  "titleEn": "Measure words for verbs",
+  "pattern": "Fiil + Sayı + Fiil-Ölçüsü",
+  "summary": "Bir eylemin KAÇ KEZ yapıldığı fiilden sonra sayı + fiil-ölçüsü ile belirtilir: 去一次 = bir kez gitmek; 说三遍 = üç kez (baştan sona) söylemek.",
+  "explanation": "Bir eylemin KAÇ KEZ/kaç defa yapıldığını belirtmek için fiilden sonra \"sayı + fiil ölçü sözcüğü (动量词)\" gelir. En yaygın fiil ölçüleri: 次 (kez — genel), 遍 (baştan sona bir kez — okuma/söyleme), 趟 (gidiş-geliş — 去一趟 bir gidip gelmek), 下 (kısa/ani eylem — 敲两下 iki kez vurmak), 顿 (öğün/dayak vb. — 吃一顿 bir öğün yemek), 回 (kez — 次 ile eş). Kalıp: Fiil + sayı + ölçü (+ nesne). 我看过两遍这部电影 (Bu filmi iki kez izledim), 他去了一趟医院 (Hastaneye bir gidip geldi). Nesne varsa çoğu zaman ölçüden sonra gelir. \"次\" ile \"遍\" farkı: \"次\" salt tekrar sayısı, \"遍\" ise baştan sona bir tam tur vurgular. Türkçedeki \"... kez, ... defa, ... kere\" sıklık ifadelerine denk gelir; eylemin tekrar sayısını belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "这部电影太精彩了,我已经看了三遍了。",
+    "pinyin": "Zhè bù diàn yǐng tài jīng cǎi le, wǒ yǐ jīng kàn le sān biàn le。",
+    "en": "This movie is so wonderful I've watched it three times."
+   },
+   {
+    "zh": "这件事我跟你说过好几次了,你怎么还是忘?",
+    "pinyin": "Zhè jiàn shì wǒ gēn nǐ shuō guò hǎo jǐ cì le, nǐ zěn me hái shì wàng?",
+    "en": "I've told you this several times; how do you still forget?"
+   },
+   {
+    "zh": "他今天去了一趟医院,给爷爷拿了些药。",
+    "pinyin": "Tā jīn tiān qù le yī tàng yī yuàn, gěi yé yé ná le xiē yào。",
+    "en": "He made a trip to the hospital today and got grandpa some medicine."
+   },
+   {
+    "zh": "请你把这段话再读一遍,注意一下发音。",
+    "pinyin": "Qǐng nǐ bǎ zhè duàn huà zài dú yī biàn, zhù yì yī xià fā yīn。",
+    "en": "Please read this passage once more and mind the pronunciation."
+   },
+   {
+    "zh": "我敲了两下门,里面没人应,好像没人在。",
+    "pinyin": "Wǒ qiāo le liǎng xià mén, lǐ miàn méi rén yīng, hǎo xiàng méi rén zài。",
+    "en": "I knocked twice; no one answered, seems no one's in."
+   },
+   {
+    "zh": "忙了一上午,中午我们美美地吃了一顿。",
+    "pinyin": "Máng le yī shàng wǔ, zhōng wǔ wǒ men měi měi de chī le yī dùn。",
+    "en": "After a busy morning, we had a hearty meal at noon."
+   },
+   {
+    "zh": "这个地方我来过一次,可惜记不太清路了。",
+    "pinyin": "Zhè ge dì fāng wǒ lái guò yī cì, kě xī jì bù tài qīng lù le。",
+    "en": "I've been here once, but I can't quite remember the way."
+   },
+   {
+    "zh": "老师把重点内容强调了好几遍,让大家务必记住。",
+    "pinyin": "Lǎo shī bǎ zhòng diǎn nèi róng qiáng diào le hǎo jǐ biàn, ràng dà jiā wù bì jì zhù。",
+    "en": "The teacher stressed the key points several times for us to remember."
+   },
+   {
+    "zh": "你要是不放心,可以再确认一次。",
+    "pinyin": "Nǐ yào shì bù fàng xīn, kě yǐ zài què rèn yī cì。",
+    "en": "If you're not at ease, you can confirm once more."
+   },
+   {
+    "zh": "他每年都要回一趟老家,看望年迈的父母。",
+    "pinyin": "Tā měi nián dōu yào huí yī tàng lǎo jiā, kàn wàng nián mài de fù mǔ。",
+    "en": "He returns home once a year to visit his aging parents."
+   },
+   {
+    "zh": "这首歌我听了无数遍,还是百听不厌。",
+    "pinyin": "Zhè shǒu gē wǒ tīng liǎo wú shù biàn, hái shì bǎi tīng bù yàn。",
+    "en": "I've heard this song countless times and never tire of it."
+   },
+   {
+    "zh": "孩子摔了一跤,哭了几声,很快又爬起来玩了。",
+    "pinyin": "Hái zi shuāi le yī jiāo, kū le jǐ shēng, hěn kuài yòu pá qǐ lái wán le。",
+    "en": "The child took a tumble, cried a few times, then got up to play."
+   },
+   {
+    "zh": "这道题我算了两次,得到的答案都一样。",
+    "pinyin": "Zhè dào tí wǒ suàn le liǎng cì, dé dào de dá àn dōu yī yàng。",
+    "en": "I calculated this problem twice and got the same answer."
+   },
+   {
+    "zh": "你去趟超市,顺便帮我买点儿盐回来。",
+    "pinyin": "Nǐ qù tàng chāo shì, shùn biàn bāng wǒ mǎi diǎn ér yán huí lái。",
+    "en": "Take a trip to the supermarket and get me some salt too."
+   },
+   {
+    "zh": "为了确认没错,他把名单从头到尾核对了一遍。",
+    "pinyin": "Wèi le què rèn méi cuò, tā bǎ míng dān cóng tóu dào wěi hé duì le yī biàn。",
+    "en": "To make sure, he checked the list from start to finish once."
+   },
+   {
+    "zh": "我提醒了他好几回,他总是记不住。",
+    "pinyin": "Wǒ tí xǐng le tā hǎo jǐ huí, tā zǒng shì jì bú zhù。",
+    "en": "I reminded him several times, but he never remembers."
+   },
+   {
+    "zh": "他生气地把桌子拍了一下,大家都安静了下来。",
+    "pinyin": "Tā shēng qì de bǎ zhuō zi pāi le yī xià, dà jiā dōu ān jìng le xià lái。",
+    "en": "He slapped the table angrily, and everyone quieted down."
+   },
+   {
+    "zh": "这本书值得多读几遍,每次都有新的收获。",
+    "pinyin": "Zhè běn shū zhí de duō dú jǐ biàn, měi cì dōu yǒu xīn de shōu huò。",
+    "en": "This book is worth reading several times, with new gains each time."
+   },
+   {
+    "zh": "我陪着老人去公园散了一趟步,聊了聊家常。",
+    "pinyin": "Wǒ péi zhe lǎo rén qù gōng yuán sàn le yī tàng bù, liáo le liáo jiā cháng。",
+    "en": "I took the old man for a walk in the park and chatted about daily life."
+   },
+   {
+    "zh": "你把这个动作多练几次,慢慢就熟练了。",
+    "pinyin": "Nǐ bǎ zhè ge dòng zuò duō liàn jǐ cì, màn màn jiù shú liàn le。",
+    "en": "Practice this movement a few more times and you'll get skilled."
+   },
+   {
+    "zh": "医生嘱咐他这种药一天吃三次,饭后服用。",
+    "pinyin": "Yī shēng zhǔ fù tā zhè zhǒng yào yī tiān chī sān cì, fàn hòu fú yòng。",
+    "en": "The doctor told him to take this medicine three times a day, after meals."
+   },
+   {
+    "zh": "那件事我们商量过很多次,始终没有定论。",
+    "pinyin": "Nà jiàn shì wǒ men shāng liáng guò hěn duō cì, shǐ zhōng méi yǒu dìng lùn。",
+    "en": "We discussed that matter many times but never concluded."
+   },
+   {
+    "zh": "他一天要给母亲打好几个电话,报个平安。",
+    "pinyin": "Tā yī tiān yào gěi mǔ qīn dǎ hǎo jǐ gè diàn huà, bào gè píng ān。",
+    "en": "He calls his mother several times a day to say he's safe."
+   },
+   {
+    "zh": "请大家把安全须知仔细地看一遍。",
+    "pinyin": "Qǐng dà jiā bǎ ān quán xū zhī zǐ xì de kàn yī biàn。",
+    "en": "Please read the safety instructions carefully once through."
+   },
+   {
+    "zh": "我们一起去爬过一次山,那次的经历特别难忘。",
+    "pinyin": "Wǒ men yì qǐ qù pá guò yī cì shān, nà cì de jīng lì tè bié nán wàng。",
+    "en": "We once went hiking together; that experience was unforgettable."
+   }
+  ]
  }
 ]

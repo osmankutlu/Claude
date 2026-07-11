@@ -42430,5 +42430,685 @@
     "en": "If you don't heed advice, it's you who'll suffer."
    }
   ]
+ },
+ {
+  "id": "g313",
+  "level": 4,
+  "title": "\"恐怕\" ile \"korkarım, galiba\"",
+  "titleEn": "Expressing concern with \"kongpa\"",
+  "pattern": "恐怕 + ...",
+  "summary": "\"恐怕\" (kǒngpà) endişeyle bir tahmin bildirir: 恐怕要下雨了 = Korkarım yağmur yağacak; 他恐怕来不了了 = Galiba gelemeyecek.",
+  "explanation": "\"恐怕\" istenmeyen bir sonuca dair ENDİŞELİ bir tahmini bildirir: \"korkarım, galiba, sanırım (ne yazık ki), muhtemelen\". Cümle başında ya da öznenin ardında gelir: 天这么黑,恐怕要下大雨了 (Hava karardı, korkarım sağanak gelecek), 这么晚了,他恐怕不会来了 (Bu kadar geç oldu, galiba gelmeyecek), 这件事恐怕没那么简单 (Bu iş galiba o kadar basit değil). Konuşmacının olumsuz bir olasılıktan duyduğu kaygıyı, çekinceyi yansıtır; salt tarafsız bir tahmin değil, istenmeyen bir sonuca dair endişe taşır. Ayrıca nazikçe kötü bir haber verirken ya da bir ricayı yumuşatırken de kullanılır: 这个忙我恐怕帮不了 (Bu konuda ne yazık ki yardım edemem). \"可能/也许\" tarafsız olasılık bildirirken, \"恐怕\" olumsuz + endişeli bir renk taşır. Türkçedeki \"korkarım, galiba (ne yazık ki), maalesef, sanırım\" ifadelerine denk gelir; endişeli bir tahmin ya da nazik bir olumsuz haber vermenin yoludur.",
+  "examples": [
+   {
+    "zh": "天色这么暗,恐怕一会儿就要下大雨了。",
+    "pinyin": "Tiān sè zhè me àn, kǒng pà yī huì er jiù yào xià dà yǔ le。",
+    "en": "The sky's so dark; I'm afraid it'll pour soon."
+   },
+   {
+    "zh": "都这么晚了,他恐怕今天是不会来了。",
+    "pinyin": "Dōu zhè me wǎn le, tā kǒng pà jīn tiān shì bú huì lái le。",
+    "en": "It's so late; I'm afraid he won't come today."
+   },
+   {
+    "zh": "这件事恐怕没有我们想的那么容易解决。",
+    "pinyin": "Zhè jiàn shì kǒng pà méi yǒu wǒ men xiǎng de nà me róng yì jiě jué。",
+    "en": "I'm afraid this won't be as easy to solve as we thought."
+   },
+   {
+    "zh": "这个忙我恐怕帮不上,实在超出了我的能力。",
+    "pinyin": "Zhè ge máng wǒ kǒng pà bāng bù shàng, shí zài chāo chū le wǒ de néng lì。",
+    "en": "I'm afraid I can't help with this; it's beyond my ability."
+   },
+   {
+    "zh": "按现在的进度,恐怕很难按时完成任务。",
+    "pinyin": "Àn xiàn zài de jìn dù, kǒng pà hěn nán àn shí wán chéng rèn wù。",
+    "en": "At this pace, I'm afraid it'll be hard to finish on time."
+   },
+   {
+    "zh": "他脸色这么难看,恐怕是身体出了什么问题。",
+    "pinyin": "Tā liǎn sè zhè me nán kàn, kǒng pà shì shēn tǐ chū le shén me wèn tí。",
+    "en": "His face looks so bad; I'm afraid something's wrong with his health."
+   },
+   {
+    "zh": "这么大的雪,航班恐怕又要延误了。",
+    "pinyin": "Zhè me dà de xuě, háng bān kǒng pà yòu yào yán wù le。",
+    "en": "With such heavy snow, I'm afraid the flights will be delayed again."
+   },
+   {
+    "zh": "这道题太难了,恐怕全班没几个人能做出来。",
+    "pinyin": "Zhè dào tí tài nán le, kǒng pà quán bān méi jǐ gè rén néng zuò chū lái。",
+    "en": "This problem is so hard; I'm afraid few in the class can do it."
+   },
+   {
+    "zh": "再不出发,我们恐怕就赶不上那趟火车了。",
+    "pinyin": "Zài bù chū fā, wǒ men kǒng pà jiù gǎn bù shàng nà tàng huǒ chē le。",
+    "en": "If we don't leave, I'm afraid we'll miss that train."
+   },
+   {
+    "zh": "这么贵重的东西,他恐怕不会轻易送人。",
+    "pinyin": "Zhè me guì zhòng de dōng xī, tā kǒng pà bú huì qīng yì sòng rén。",
+    "en": "Such a valuable thing — I'm afraid he won't give it away easily."
+   },
+   {
+    "zh": "照这样下去,这个月的预算恐怕要超支了。",
+    "pinyin": "Zhào zhè yàng xià qù, zhè ge yuè de yù suàn kǒng pà yào chāo zhī le。",
+    "en": "At this rate, I'm afraid this month's budget will be overspent."
+   },
+   {
+    "zh": "他已经好几天没消息了,恐怕是遇到了什么麻烦。",
+    "pinyin": "Tā yǐ jīng hǎo jǐ tiān méi xiāo xī le, kǒng pà shì yù dào le shén me má fán。",
+    "en": "He's had no word for days; I'm afraid he's run into trouble."
+   },
+   {
+    "zh": "这么复杂的问题,恐怕一时半会儿解决不了。",
+    "pinyin": "Zhè me fù zá de wèn tí, kǒng pà yī shí bàn huì er jiě jué bù liǎo。",
+    "en": "Such a complex problem — I'm afraid it won't be solved quickly."
+   },
+   {
+    "zh": "你要的那本书,书店里恐怕早就卖完了。",
+    "pinyin": "Nǐ yào de nà běn shū, shū diàn lǐ kǒng pà zǎo jiù mài wán le。",
+    "en": "The book you want — I'm afraid the store sold out long ago."
+   },
+   {
+    "zh": "他伤得不轻,恐怕得住院观察一段时间。",
+    "pinyin": "Tā shāng de bù qīng, kǒng pà de zhù yuàn guān chá yī duàn shí jiān。",
+    "en": "He's badly hurt; I'm afraid he'll need to stay in hospital a while."
+   },
+   {
+    "zh": "这么晚打扰您,恐怕不太合适,还是明天再说吧。",
+    "pinyin": "Zhè me wǎn dǎ rǎo nín, kǒng pà bù tài hé shì, hái shì míng tiān zài shuō ba。",
+    "en": "Bothering you this late is hardly appropriate; let's talk tomorrow."
+   },
+   {
+    "zh": "看这情形,今天的会议恐怕要开到很晚了。",
+    "pinyin": "Kàn zhè qíng xíng, jīn tiān de huì yì kǒng pà yào kāi dào hěn wǎn le。",
+    "en": "Judging by this, I'm afraid today's meeting will run late."
+   },
+   {
+    "zh": "这些钱恐怕不够买房子,咱们还得再想办法。",
+    "pinyin": "Zhè xiē qián kǒng pà bù gòu mǎi fáng zi, zán men hái de zài xiǎng bàn fǎ。",
+    "en": "This money is hardly enough for a house; we need another plan."
+   },
+   {
+    "zh": "他那么固执,你去劝他恐怕也没什么用。",
+    "pinyin": "Tā nà me gù zhí, nǐ qù quàn tā kǒng pà yě méi shén me yòng。",
+    "en": "He's so stubborn; I'm afraid persuading him won't help much."
+   },
+   {
+    "zh": "再拖下去,恐怕连最后的机会也要失去了。",
+    "pinyin": "Zài tuō xià qù, kǒng pà lián zuì hòu de jī huì yě yào shī qù le。",
+    "en": "If we delay further, I'm afraid we'll lose even the last chance."
+   },
+   {
+    "zh": "这种老式的零件,现在恐怕很难买到了。",
+    "pinyin": "Zhè zhǒng lǎo shì de líng jiàn, xiàn zài kǒng pà hěn nán mǎi dào le。",
+    "en": "This old-style part — I'm afraid it's hard to find now."
+   },
+   {
+    "zh": "看他的样子,这件事恐怕另有隐情。",
+    "pinyin": "Kàn tā de yàng zi, zhè jiàn shì kǒng pà lìng yǒu yǐn qíng。",
+    "en": "By the look of him, I'm afraid there's more to this than meets the eye."
+   },
+   {
+    "zh": "这么重的担子,他一个人恐怕扛不下来。",
+    "pinyin": "Zhè me zhòng de dàn zi, tā yí gè rén kǒng pà káng bù xià lái。",
+    "en": "Such a heavy burden — I'm afraid he can't shoulder it alone."
+   },
+   {
+    "zh": "时间太紧了,准备得这么仓促,恐怕效果不会太好。",
+    "pinyin": "Shí jiān tài jǐn le, zhǔn bèi de zhè me cāng cù, kǒng pà xiào guǒ bú huì tài hǎo。",
+    "en": "Time's too tight; prepared so hastily, I'm afraid it won't go well."
+   },
+   {
+    "zh": "你现在去找他,他恐怕已经睡下了。",
+    "pinyin": "Nǐ xiàn zài qù zhǎo tā, tā kǒng pà yǐ jīng shuì xià le。",
+    "en": "If you go to him now, I'm afraid he's already gone to bed."
+   }
+  ]
+ },
+ {
+  "id": "g314",
+  "level": 4,
+  "title": "\"好(不)容易\" ile \"güç bela, zar zor\"",
+  "titleEn": "Expressing difficulty with \"hao (bu) rongyi\"",
+  "pattern": "好(不)容易 + Fiil",
+  "summary": "İlginç bir şekilde \"好容易\" ve \"好不容易\" AYNI anlama gelir: \"güç bela, zar zor, bin bir zorlukla\": 好不容易才买到票 = Zar zor bilet bulabildim.",
+  "explanation": "\"好不容易\" ve (daha az yaygın) \"好容易\" — ilginç bir şekilde İKİSİ DE aynı anlama gelir: bir şeyi büyük ZORLUKLA, güç bela başarmak — \"zar zor, güç bela, bin bir zorlukla, ancak\". \"好不容易\"deki \"不\" anlamı değiştirmez (deyimsel bir pekiştirmedir). Fiilin önünde gelir ve çoğu zaman \"才\" ile birlikte: 我好不容易才把他劝住 (Onu zar zor sakinleştirebildim), 排了两个小时队,好不容易才买到票 (İki saat kuyrukta bekleyip ancak bilet bulabildim), 好容易盼到放假,却又生病了 (Güç bela tatile kavuştum, ama bu kez hastalandım). Bir çabanın büyük zorlukla, epey uğraşla sonuç verdiğini vurgular; çoğu zaman ardından bir hayal kırıklığı ya da çabanın boşa gitmesi de gelebilir. Türkçedeki \"zar zor, güç bela, bin bir zorlukla, ancak, güçlükle\" ifadelerine denk gelir; büyük bir çabayla elde edilen bir sonucu anlatmanın yoludur.",
+  "examples": [
+   {
+    "zh": "排了整整两个小时的队,我好不容易才买到票。",
+    "pinyin": "Pái le zhěng zhěng liǎng gè xiǎo shí de duì, wǒ hǎo bù róng yì cái mǎi dào piào。",
+    "en": "After queuing two whole hours, I barely managed to get a ticket."
+   },
+   {
+    "zh": "好不容易把孩子哄睡了,一个电话又把他吵醒了。",
+    "pinyin": "Hǎo bù róng yì bǎ hái zi hǒng shuì le, yí gè diàn huà yòu bǎ tā chǎo xǐng le。",
+    "en": "I'd just got the child to sleep when a call woke him again."
+   },
+   {
+    "zh": "我好不容易才找到这个地方,这里实在太偏僻了。",
+    "pinyin": "Wǒ hǎo bù róng yì cái zhǎo dào zhè ge dì fāng, zhè lǐ shí zài tài piān pì le。",
+    "en": "I had great trouble finding this place; it's so remote."
+   },
+   {
+    "zh": "试了很多次,他好不容易才把那道难题解开。",
+    "pinyin": "Shì le hěn duō cì, tā hǎo bù róng yì cái bǎ nà dào nán tí jiě kāi。",
+    "en": "After many tries, he finally cracked the tough problem."
+   },
+   {
+    "zh": "好不容易盼到了周末,却又要加班,真让人扫兴。",
+    "pinyin": "Hǎo bù róng yì pàn dào le zhōu mò, què yòu yào jiā bān, zhēn ràng rén sǎo xìng。",
+    "en": "I'd looked forward to the weekend, only to have to work overtime."
+   },
+   {
+    "zh": "挤了半天,我好不容易才上了那趟拥挤的公交车。",
+    "pinyin": "Jǐ le bàn tiān, wǒ hǎo bù róng yì cái shàng le nà tàng yōng jǐ de gōng jiāo chē。",
+    "en": "After much squeezing, I barely got onto the crowded bus."
+   },
+   {
+    "zh": "他好不容易攒够了钱,买下了自己的第一套房子。",
+    "pinyin": "Tā hǎo bù róng yì zǎn gòu le qián, mǎi xià le zì jǐ de dì yī tào fáng zi。",
+    "en": "He finally saved enough and bought his first home."
+   },
+   {
+    "zh": "好不容易联系上他,他却说自己已经在外地了。",
+    "pinyin": "Hǎo bù róng yì lián xì shàng tā, tā què shuō zì jǐ yǐ jīng zài wài dì le。",
+    "en": "I finally reached him, only for him to say he was already away."
+   },
+   {
+    "zh": "走了那么远的山路,我们好不容易才到了山顶。",
+    "pinyin": "Zǒu le nà me yuǎn de shān lù, wǒ men hǎo bù róng yì cái dào le shān dǐng。",
+    "en": "After such a long mountain trek, we finally reached the summit."
+   },
+   {
+    "zh": "这份工作我好不容易才找到,一定要好好珍惜。",
+    "pinyin": "Zhè fèn gōng zuò wǒ hǎo bù róng yì cái zhǎo dào, yí dìng yào hǎo hǎo zhēn xī。",
+    "en": "I found this job with great difficulty; I must cherish it."
+   },
+   {
+    "zh": "大雨里等了半天,好不容易才打到一辆出租车。",
+    "pinyin": "Dà yǔ lǐ děng le bàn tiān, hǎo bù róng yì cái dǎ dào yī liàng chū zū chē。",
+    "en": "Waiting in the rain, I finally managed to hail a taxi."
+   },
+   {
+    "zh": "他好不容易戒了烟,可没坚持多久又抽上了。",
+    "pinyin": "Tā hǎo bù róng yì jiè le yān, kě méi jiān chí duō jiǔ yòu chōu shàng le。",
+    "en": "He quit smoking with great effort, but soon started again."
+   },
+   {
+    "zh": "好不容易凑齐了人,可又有一个人临时有事来不了。",
+    "pinyin": "Hǎo bù róng yì còu qí le rén, kě yòu yǒu yí gè rén lín shí yǒu shì lái bù liǎo。",
+    "en": "I'd barely gathered everyone when one had something come up."
+   },
+   {
+    "zh": "这幅画他好不容易才画完,却不小心弄脏了。",
+    "pinyin": "Zhè fú huà tā hǎo bù róng yì cái huà wán, què bù xiǎo xīn nòng zāng le。",
+    "en": "He finally finished this painting, only to accidentally smudge it."
+   },
+   {
+    "zh": "我好不容易挤出一点时间,想好好陪陪家人。",
+    "pinyin": "Wǒ hǎo bù róng yì jǐ chū yì diǎn shí jiān, xiǎng hǎo hǎo péi péi jiā rén。",
+    "en": "I finally squeezed out some time to spend with my family."
+   },
+   {
+    "zh": "经过反复练习,他好不容易才学会了游泳。",
+    "pinyin": "Jīng guò fǎn fù liàn xí, tā hǎo bù róng yì cái xué huì le yóu yǒng。",
+    "en": "After repeated practice, he finally learned to swim."
+   },
+   {
+    "zh": "那本绝版书,我跑了好几家店好不容易才买到。",
+    "pinyin": "Nà běn jué bǎn shū, wǒ pǎo le hǎo jǐ jiā diàn hǎo bù róng yì cái mǎi dào。",
+    "en": "That out-of-print book — I ran to several shops to finally get it."
+   },
+   {
+    "zh": "好不容易熬过了最艰难的时期,生活总算好了起来。",
+    "pinyin": "Hǎo bù róng yì áo guò le zuì jiān nán de shí qī, shēng huó zǒng suàn hǎo le qǐ lái。",
+    "en": "Having barely survived the hardest times, life finally improved."
+   },
+   {
+    "zh": "孩子好不容易考上了理想的学校,全家人都很高兴。",
+    "pinyin": "Hái zi hǎo bù róng yì kǎo shàng le lǐ xiǎng de xué xiào, quán jiā rén dōu hěn gāo xìng。",
+    "en": "The child finally got into his dream school, to the whole family's joy."
+   },
+   {
+    "zh": "我们好不容易约好时间,他却又临时改了主意。",
+    "pinyin": "Wǒ men hǎo bù róng yì yuē hǎo shí jiān, tā què yòu lín shí gǎi le zhǔ yì。",
+    "en": "We finally set a time, only for him to change his mind."
+   },
+   {
+    "zh": "他好不容易鼓起勇气,把心里话说了出来。",
+    "pinyin": "Tā hǎo bù róng yì gǔ qǐ yǒng qì, bǎ xīn lǐ huà shuō le chū lái。",
+    "en": "He finally worked up the courage to speak his heart."
+   },
+   {
+    "zh": "忙了一整天,好不容易能坐下来喝口热茶。",
+    "pinyin": "Máng le yī zhěng tiān, hǎo bù róng yì néng zuò xià lái hē kǒu rè chá。",
+    "en": "After a busy day, I could finally sit down for a cup of hot tea."
+   },
+   {
+    "zh": "那么大的雾,司机好不容易才把车安全开到了目的地。",
+    "pinyin": "Nà me dà de wù, sī jī hǎo bù róng yì cái bǎ chē ān quán kāi dào le mù dì de。",
+    "en": "In such fog, the driver barely got the car safely to the destination."
+   },
+   {
+    "zh": "我好不容易才把这些资料整理好,你可别弄乱了。",
+    "pinyin": "Wǒ hǎo bù róng yì cái bǎ zhè xiē zī liào zhěng lǐ hǎo, nǐ kě bié nòng luàn le。",
+    "en": "I sorted these materials with great effort; don't mess them up."
+   },
+   {
+    "zh": "好不容易见上一面,大家都有说不完的话。",
+    "pinyin": "Hǎo bù róng yì jiàn shàng yí miàn, dà jiā dōu yǒu shuō bù wán de huà。",
+    "en": "Finally getting to meet, everyone had endless things to say."
+   }
+  ]
+ },
+ {
+  "id": "g315",
+  "level": 4,
+  "title": "\"白\" ile \"boşuna, bedavaya\"",
+  "titleEn": "Expressing wasted efforts with \"bai\"",
+  "pattern": "白 + Fiil",
+  "summary": "\"白\" (bái) bir fiilin önünde \"boşuna, boş yere\" (çaba boşa gitti) ya da \"bedavaya\" der: 白跑一趟 = boşuna bir gidiş; 白吃 = beleşe yemek.",
+  "explanation": "\"白\" bir fiilin önüne gelip iki anlam verir: (1) BOŞUNA/boş yere — bir çabanın karşılıksız kaldığını, boşa gittiğini bildirir: 我白等了一个小时 (Bir saat boşuna bekledim), 你这些话都白说了,他根本不听 (Bu sözlerin hepsi boşa gitti, hiç dinlemiyor), 白忙了一天 (Bir gün boş yere uğraştım). (2) BEDAVAYA/karşılıksız — bir şeyi hiçbir bedel ödemeden almak/yapmak: 白吃白住 (beleşe yiyip kalmak), 这钱可不能白拿 (Bu parayı boşuna/karşılıksız alamam). Bağlam hangi anlamı belirler; her ikisi de \"karşılıksızlık\" fikrini taşır — çabanın karşılığı yok (boşuna) ya da bedeli yok (bedava). Konuşmacı çoğu zaman bir hayal kırıklığı ya da haksızlık hissi taşır. Türkçedeki \"boşuna, boş yere, nafile\" (çaba) ve \"bedavaya, beleşe, karşılıksız\" (bedel) anlamlarına denk gelir.",
+  "examples": [
+   {
+    "zh": "我在门口白等了一个多小时,他根本就没来。",
+    "pinyin": "Wǒ zài mén kǒu bái děng le yí gè duō xiǎo shí, tā gēn běn jiù méi lái。",
+    "en": "I waited over an hour at the door in vain; he never came."
+   },
+   {
+    "zh": "这些道理我说了半天,全都白说了,他一句也听不进去。",
+    "pinyin": "Zhè xiē dào lǐ wǒ shuō le bàn tiān, quán dōu bái shuō le, tā yī jù yě tīng bù jìn qù。",
+    "en": "I explained for ages, all in vain; he heard not a word."
+   },
+   {
+    "zh": "忙活了一整天,结果方案没通过,真是白忙了。",
+    "pinyin": "Máng huó le yī zhěng tiān, jié guǒ fāng àn méi tōng guò, zhēn shì bái máng le。",
+    "en": "Busy all day, only for the plan to be rejected — all wasted effort."
+   },
+   {
+    "zh": "要不是你提醒,我今天就白跑这一趟了。",
+    "pinyin": "Yào bú shì nǐ tí xǐng, wǒ jīn tiān jiù bái pǎo zhè yī tàng le。",
+    "en": "If not for your reminder, today's trip would've been for nothing."
+   },
+   {
+    "zh": "他辛辛苦苦种的菜被虫子吃光了,一年的辛苦白费了。",
+    "pinyin": "Tā xīn xīn kǔ kǔ zhǒng de cài bèi chóng zi chī guāng le, yī nián de xīn kǔ bái fèi le。",
+    "en": "His painstakingly grown vegetables were eaten by bugs; a year wasted."
+   },
+   {
+    "zh": "这钱你可不能白拿,总得为大家做点什么。",
+    "pinyin": "Zhè qián nǐ kě bù néng bái ná, zǒng de wèi dà jiā zuò diǎn shén me。",
+    "en": "You can't take this money for nothing; you must do something in return."
+   },
+   {
+    "zh": "要是不好好复习,之前的努力就都白费了。",
+    "pinyin": "Yào shì bù hǎo hǎo fù xí, zhī qián de nǔ lì jiù dōu bái fèi le。",
+    "en": "If you don't review well, all your earlier effort will be wasted."
+   },
+   {
+    "zh": "他白白浪费了这么好的机会,现在后悔也来不及了。",
+    "pinyin": "Tā bái bái làng fèi le zhè me hǎo de jī huì, xiàn zài hòu huǐ yě lái bù jí le。",
+    "en": "He wasted such a good chance for nothing; it's too late to regret now."
+   },
+   {
+    "zh": "这么好的建议你不听,我不是白提了吗?",
+    "pinyin": "Zhè me hǎo de jiàn yì nǐ bù tīng, wǒ bú shì bái tí le ma?",
+    "en": "You ignore such good advice; didn't I suggest it for nothing?"
+   },
+   {
+    "zh": "排了那么久的队,票却卖光了,时间全白搭了。",
+    "pinyin": "Pái le nà me jiǔ de duì, piào què mài guāng le, shí jiān quán bái dā le。",
+    "en": "After queuing so long, tickets sold out; the time was all wasted."
+   },
+   {
+    "zh": "你放心,你为大家做的这些事绝不会白做。",
+    "pinyin": "Nǐ fàng xīn, nǐ wèi dà jiā zuò de zhè xiē shì jué bú huì bái zuò。",
+    "en": "Rest assured; what you've done for everyone won't be in vain."
+   },
+   {
+    "zh": "他以为能占点便宜,结果白高兴了一场。",
+    "pinyin": "Tā yǐ wéi néng zhàn diǎn pián yi, jié guǒ bái gāo xìng le yī cháng。",
+    "en": "He thought he'd gain an advantage, but rejoiced for nothing."
+   },
+   {
+    "zh": "这么多年的书都白读了吗?连这点道理都不懂。",
+    "pinyin": "Zhè me duō nián de shū dōu bái dú le ma? lián zhè diǎn dào lǐ dōu bù dǒng。",
+    "en": "Were all those years of study for nothing? You don't even get this."
+   },
+   {
+    "zh": "我特意赶来,他却不在,这一趟算是白来了。",
+    "pinyin": "Wǒ tè yì gǎn lái, tā què bù zài, zhè yī tàng suàn shì bái lái le。",
+    "en": "I rushed over, but he wasn't in; the trip was for nothing."
+   },
+   {
+    "zh": "别人的帮助不能白受,我们要懂得感恩和回报。",
+    "pinyin": "Bié rén de bāng zhù bù néng bái shòu, wǒ men yào dǒng de gǎn ēn hé huí bào。",
+    "en": "Others' help can't be taken for free; we should be grateful and repay."
+   },
+   {
+    "zh": "准备了那么久的发言,因为时间不够白准备了。",
+    "pinyin": "Zhǔn bèi le nà me jiǔ de fā yán, yīn wèi shí jiān bù gòu bái zhǔn bèi le。",
+    "en": "The speech I prepared so long went to waste for lack of time."
+   },
+   {
+    "zh": "你这一番苦心没有白费,孩子终于懂事了。",
+    "pinyin": "Nǐ zhè yī fān kǔ xīn méi yǒu bái fèi, hái zi zhōng yú dǒng shì le。",
+    "en": "Your painstaking effort wasn't in vain; the child finally grew sensible."
+   },
+   {
+    "zh": "天天在这儿白吃白喝,我实在过意不去。",
+    "pinyin": "Tiān tiān zài zhè ér bái chī bái hē, wǒ shí zài guò yì bù qù。",
+    "en": "Eating and drinking here for free every day, I really feel bad."
+   },
+   {
+    "zh": "要是最后失败了,岂不是白折腾了一场?",
+    "pinyin": "Yào shì zuì hòu shī bài le, qǐ bù shì bái zhē teng le yī cháng?",
+    "en": "If it fails in the end, wasn't all the trouble for nothing?"
+   },
+   {
+    "zh": "他的一片好意被人误解,真是白白受了委屈。",
+    "pinyin": "Tā de yī piàn hǎo yì bèi rén wù jiě, zhēn shì bái bái shòu le wěi qū。",
+    "en": "His kindness was misunderstood; he was wronged for nothing."
+   },
+   {
+    "zh": "这么好的东西被扔掉,实在太可惜,白白浪费了。",
+    "pinyin": "Zhè me hǎo de dōng xī bèi rēng diào, shí zài tài kě xī, bái bái làng fèi le。",
+    "en": "Throwing away such good things is a pity; wasted for nothing."
+   },
+   {
+    "zh": "我提前把资料都准备好了,没想到会议取消,白准备了。",
+    "pinyin": "Wǒ tí qián bǎ zī liào dōu zhǔn bèi hǎo le, méi xiǎng dào huì yì qǔ xiāo, bái zhǔn bèi le。",
+    "en": "I prepared all the materials early, but the meeting was canceled — wasted."
+   },
+   {
+    "zh": "你别以为帮了他就是白帮,他会记在心里的。",
+    "pinyin": "Nǐ bié yǐ wéi bāng le tā jiù shì bái bāng, tā huì jì zài xīn lǐ de。",
+    "en": "Don't think helping him was for nothing; he'll keep it in mind."
+   },
+   {
+    "zh": "辛苦了大半年,一场大水把庄稼全冲走了,全白干了。",
+    "pinyin": "Xīn kǔ le dà bàn nián, yī cháng dà shuǐ bǎ zhuāng jià quán chōng zǒu le, quán bái gàn le。",
+    "en": "After half a year's toil, a flood washed away the crops — all for nothing."
+   },
+   {
+    "zh": "这份恩情我不能白受,以后一定要好好报答。",
+    "pinyin": "Zhè fèn ēn qíng wǒ bù néng bái shòu, yǐ hòu yí dìng yào hǎo hǎo bào dá。",
+    "en": "I can't accept this kindness for free; I must repay it well."
+   }
+  ]
+ },
+ {
+  "id": "g316",
+  "level": 4,
+  "title": "\"V了又V\" ile tekrarlanan geçmiş eylem",
+  "titleEn": "Repeated actions in the past with \"you\"",
+  "pattern": "Fiil + 了 + 又 + (aynı) Fiil",
+  "summary": "\"V了又V\" bir eylemin geçmişte defalarca tekrarlandığını canlı biçimde anlatır: 他看了又看,还是没发现问题 = Baktı baktı, yine de sorunu bulamadı.",
+  "explanation": "\"V了又V\" kalıbı, aynı fiili \"了\" ve \"又\" ile tekrarlayarak bir eylemin GEÇMİŞTE tekrar tekrar, defalarca yapıldığını canlı ve vurgulu biçimde anlatır: \"...-dı ...-dı (durdu), defalarca ...-dı\". 他想了又想,最后还是没拿定主意 (Düşündü düşündü, sonunda yine de karar veremedi), 我看了又看,确认没有写错 (Baka baka kontrol ettim, yanlış yazmadığımdan emin oldum), 她读了又读那封信,几乎能背下来了 (O mektubu okudu okudu, neredeyse ezberledi). İlk fiil \"了\" alır, ikinci fiil \"又\" ile eklenir (aynı fiil). Eylemin ısrarla, sabırla ya da çaresizce yinelendiğini gösterir; çoğu zaman bir emek, kararsızlık ya da çabanın büyüklüğünü vurgular. Türkçedeki \"...-dı ...-dı (durdu), defalarca ...-dı, baka baka / düşüne düşüne\" ikilemeli tekrar ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他把那封信看了又看,舍不得放下。",
+    "pinyin": "Tā bǎ nà fēng xìn kàn le yòu kàn, shě bù de fàng xià。",
+    "en": "He read that letter over and over, unwilling to put it down."
+   },
+   {
+    "zh": "我想了又想,最后还是决定听从自己的内心。",
+    "pinyin": "Wǒ xiǎng le yòu xiǎng, zuì hòu hái shì jué dìng tīng cóng zì jǐ de nèi xīn。",
+    "en": "I thought and thought, and finally decided to follow my heart."
+   },
+   {
+    "zh": "这道题他算了又算,始终觉得哪里不对劲。",
+    "pinyin": "Zhè dào tí tā suàn le yòu suàn, shǐ zhōng jué de nǎ lǐ bú duì jìn。",
+    "en": "He calculated this problem again and again, always sensing something off."
+   },
+   {
+    "zh": "妈妈在门口望了又望,盼着孩子早点回家。",
+    "pinyin": "Mā mā zài mén kǒu wàng le yòu wàng, pàn zhe hái zi zǎo diǎn huí jiā。",
+    "en": "Mom looked out the door again and again, longing for the child's return."
+   },
+   {
+    "zh": "他把这段话改了又改,还是不太满意。",
+    "pinyin": "Tā bǎ zhè duàn huà gǎi le yòu gǎi, hái shì bù tài mǎn yì。",
+    "en": "He revised this passage over and over, still not quite satisfied."
+   },
+   {
+    "zh": "临走前,她回头看了又看那熟悉的老房子。",
+    "pinyin": "Lín zǒu qián, tā huí tóu kàn le yòu kàn nà shú xī de lǎo fáng zi。",
+    "en": "Before leaving, she looked back again and again at the familiar old house."
+   },
+   {
+    "zh": "这些照片我翻了又翻,勾起了很多回忆。",
+    "pinyin": "Zhè xiē zhào piān wǒ fān le yòu fān, gōu qǐ le hěn duō huí yì。",
+    "en": "I flipped through these photos again and again, stirring many memories."
+   },
+   {
+    "zh": "他把说明书读了又读,才敢动手操作那台机器。",
+    "pinyin": "Tā bǎ shuō míng shū dú le yòu dú, cái gǎn dòng shǒu cāo zuò nà tái jī qì。",
+    "en": "He read the manual over and over before daring to operate the machine."
+   },
+   {
+    "zh": "孩子把那个玩具玩了又玩,一点儿都不觉得腻。",
+    "pinyin": "Hái zi bǎ nà ge wán jù wán le yòu wán, yì diǎn ér dōu bù jué de nì。",
+    "en": "The child played with that toy again and again, never tiring of it."
+   },
+   {
+    "zh": "我把行李检查了又检查,生怕落下什么东西。",
+    "pinyin": "Wǒ bǎ xíng lǐ jiǎn chá le yòu jiǎn chá, shēng pà là xià shén me dōng xī。",
+    "en": "I checked the luggage over and over, afraid of leaving anything."
+   },
+   {
+    "zh": "他犹豫了又犹豫,最终还是没有说出那句话。",
+    "pinyin": "Tā yóu yù le yòu yóu yù, zuì zhōng hái shì méi yǒu shuō chū nà jù huà。",
+    "en": "He hesitated again and again, and in the end didn't say it."
+   },
+   {
+    "zh": "老师把重点强调了又强调,希望学生们记牢。",
+    "pinyin": "Lǎo shī bǎ zhòng diǎn qiáng diào le yòu qiáng diào, xī wàng xué shēng men jì láo。",
+    "en": "The teacher stressed the key points repeatedly for students to remember."
+   },
+   {
+    "zh": "这条路我走了又走,闭着眼睛都不会走错。",
+    "pinyin": "Zhè tiáo lù wǒ zǒu le yòu zǒu, bì zhuó yǎn jīng dōu bú huì zǒu cuò。",
+    "en": "I've walked this road over and over; I couldn't go wrong blindfolded."
+   },
+   {
+    "zh": "她把那首歌听了又听,几乎能一字不差地唱下来。",
+    "pinyin": "Tā bǎ nà shǒu gē tīng le yòu tīng, jī hū néng yī zì bù chà de chàng xià lái。",
+    "en": "She listened to that song over and over, able to sing it word for word."
+   },
+   {
+    "zh": "他把钱数了又数,确认一分都没有少。",
+    "pinyin": "Tā bǎ qián shù le yòu shù, què rèn yī fēn dōu méi yǒu shǎo。",
+    "en": "He counted the money again and again, confirming none was missing."
+   },
+   {
+    "zh": "面对这个决定,我们商量了又商量,始终没有定论。",
+    "pinyin": "Miàn duì zhè ge jué dìng, wǒ men shāng liáng le yòu shāng liáng, shǐ zhōng méi yǒu dìng lùn。",
+    "en": "Facing this decision, we discussed it over and over, never concluding."
+   },
+   {
+    "zh": "他把讲稿练习了又练习,就怕上台的时候出错。",
+    "pinyin": "Tā bǎ jiǎng gǎo liàn xí le yòu liàn xí, jiù pà shàng tái de shí hòu chū cuò。",
+    "en": "He practiced the speech over and over, fearing mistakes on stage."
+   },
+   {
+    "zh": "奶奶把这个故事讲了又讲,我们百听不厌。",
+    "pinyin": "Nǎi nǎi bǎ zhè ge gù shì jiǎng le yòu jiǎng, wǒ men bǎi tīng bù yàn。",
+    "en": "Grandma told this story over and over, and we never tired of it."
+   },
+   {
+    "zh": "他把那张照片看了又看,眼睛渐渐湿润了。",
+    "pinyin": "Tā bǎ nà zhāng zhào piān kàn le yòu kàn, yǎn jīng jiàn jiàn shī rùn le。",
+    "en": "He looked at that photo over and over, his eyes moistening."
+   },
+   {
+    "zh": "这个方案我们讨论了又讨论,最后才终于定了下来。",
+    "pinyin": "Zhè ge fāng àn wǒ men tǎo lùn le yòu tǎo lùn, zuì hòu cái zhōng yú dìng le xià lái。",
+    "en": "We discussed this plan again and again before finally settling it."
+   },
+   {
+    "zh": "为了做好这道菜,她试了又试,终于找到了诀窍。",
+    "pinyin": "Wèi le zuò hǎo zhè dào cài, tā shì le yòu shì, zhōng yú zhǎo dào le jué qiào。",
+    "en": "To perfect this dish, she tried over and over and finally found the trick."
+   },
+   {
+    "zh": "他把那句话在心里默念了又念,还是没敢说出口。",
+    "pinyin": "Tā bǎ nà jù huà zài xīn lǐ mò niàn le yòu niàn, hái shì méi gǎn shuō chū kǒu。",
+    "en": "He repeated that sentence in his mind again and again, but didn't dare say it."
+   },
+   {
+    "zh": "临别时,他们握了又握手,谁都不愿先松开。",
+    "pinyin": "Lín bié shí, tā men wò le yòu wò shǒu, shéi dōu bù yuàn xiān sōng kāi。",
+    "en": "At parting, they shook hands again and again, neither willing to let go."
+   },
+   {
+    "zh": "这本书我读了又读,每次都有新的收获。",
+    "pinyin": "Zhè běn shū wǒ dú le yòu dú, měi cì dōu yǒu xīn de shōu huò。",
+    "en": "I've read this book over and over, gaining something new each time."
+   },
+   {
+    "zh": "他把门锁检查了又检查,才放心地离开了家。",
+    "pinyin": "Tā bǎ mén suǒ jiǎn chá le yòu jiǎn chá, cái fàng xīn de lí kāi le jiā。",
+    "en": "He checked the door lock over and over before leaving home at ease."
+   }
+  ]
+ },
+ {
+  "id": "g317",
+  "level": 4,
+  "title": "\"难道\" ile retorik soru: \"yoksa ...mı?\"",
+  "titleEn": "Rhetorical questions with \"nandao\"",
+  "pattern": "难道 ... 吗？",
+  "summary": "\"难道...吗?\" güçlü bir retorik soru kurar: 难道你忘了吗? = Yoksa unuttun mu (unutmuş olamazsın)?",
+  "explanation": "\"难道\" güçlü bir RETORİK (mecazi) soru kurar; gerçek bir cevap beklemez, bir gerçeği vurgular ya da bir duruma inanmazlık/şaşkınlık/itiraz belirtir: \"yoksa ...mı?, olur mu hiç?, sakın ...değil ya?\". Genelde \"难道...吗?\" biçiminde gelir (sonda \"吗\" ya da \"不成\"): 难道你不知道这件事吗? (Yoksa bunu bilmiyor musun? = elbette biliyorsun), 都这么晚了,难道他还不睡? (Bu kadar geç oldu, hâlâ uyumayacak mı yani?), 难道就没有别的办法了吗? (Yani başka çare yok mu hiç?). \"难道\" cümleye kuvvetli bir şaşkınlık, itiraz ya da inanmazlık tonu katar; olumlu biçim aslında olumsuz, olumsuz biçim aslında olumlu bir anlam taşır (retorik). Konuşmacı bir varsayımı sorgulayarak aslında tersini vurgular. Türkçedeki \"yoksa ...mı?, olur mu hiç?, sakın ... değil ya?, yani ...mı?\" retorik sorularına denk gelir; güçlü bir vurgu ya da itiraz sunmanın yoludur.",
+  "examples": [
+   {
+    "zh": "这么明显的道理,难道你还不明白吗?",
+    "pinyin": "Zhè me míng xiǎn de dào lǐ, nán dào nǐ hái bù míng bái ma?",
+    "en": "Such an obvious truth — do you still not understand?"
+   },
+   {
+    "zh": "我为你付出了这么多,难道你都看不到吗?",
+    "pinyin": "Wǒ wèi nǐ fù chū le zhè me duō, nán dào nǐ dōu kàn bú dào ma?",
+    "en": "I've given so much for you; can't you see it at all?"
+   },
+   {
+    "zh": "都到这个时候了,难道我们还能退缩吗?",
+    "pinyin": "Dōu dào zhè ge shí hòu le, nán dào wǒ men hái néng tuì suō ma?",
+    "en": "At this point, can we possibly back down now?"
+   },
+   {
+    "zh": "难道就因为一次失败,你就要放弃自己的梦想吗?",
+    "pinyin": "Nán dào jiù yīn wèi yī cì shī bài, nǐ jiù yào fàng qì zì jǐ de mèng xiǎng ma?",
+    "en": "Are you really going to give up your dream over one failure?"
+   },
+   {
+    "zh": "他连招呼都不打就走了,难道是生我的气了?",
+    "pinyin": "Tā lián zhāo hū dōu bù dǎ jiù zǒu le, nán dào shì shēng wǒ de qì le?",
+    "en": "He left without a word; could he be angry with me?"
+   },
+   {
+    "zh": "这么重要的事,难道你事先一点都不知道吗?",
+    "pinyin": "Zhè me zhòng yào de shì, nán dào nǐ shì xiān yì diǎn dōu bù zhī dào ma?",
+    "en": "Such an important matter — did you really know nothing beforehand?"
+   },
+   {
+    "zh": "难道你忘了我们当初的约定了吗?",
+    "pinyin": "Nán dào nǐ wàng le wǒ men dāng chū de yuē dìng le ma?",
+    "en": "Have you really forgotten the promise we once made?"
+   },
+   {
+    "zh": "大家都在努力,难道你就甘心落在后面吗?",
+    "pinyin": "Dà jiā dōu zài nǔ lì, nán dào nǐ jiù gān xīn luò zài hòu miàn ma?",
+    "en": "Everyone's working hard; are you content to fall behind?"
+   },
+   {
+    "zh": "这么好的机会摆在面前,难道你要白白错过吗?",
+    "pinyin": "Zhè me hǎo de jī huì bǎi zài miàn qián, nán dào nǐ yào bái bái cuò guò ma?",
+    "en": "With such a good chance before you, will you just let it slip?"
+   },
+   {
+    "zh": "难道除了这个办法,就真的没有别的选择了吗?",
+    "pinyin": "Nán dào chú le zhè ge bàn fǎ, jiù zhēn de méi yǒu bié de xuǎn zé le ma?",
+    "en": "Is there really no other choice besides this method?"
+   },
+   {
+    "zh": "他平时那么可靠,难道这次会骗我们不成?",
+    "pinyin": "Tā píng shí nà me kě kào, nán dào zhè cì huì piàn wǒ men bù chéng?",
+    "en": "He's usually so reliable; would he deceive us this time?"
+   },
+   {
+    "zh": "你都答应人家了,难道现在又要反悔吗?",
+    "pinyin": "Nǐ dōu dā yìng rén jiā le, nán dào xiàn zài yòu yào fǎn huǐ ma?",
+    "en": "You already promised them; are you going back on it now?"
+   },
+   {
+    "zh": "难道你就不能为别人多考虑一点吗?",
+    "pinyin": "Nán dào nǐ jiù bù néng wèi bié rén duō kǎo lǜ yì diǎn ma?",
+    "en": "Can't you consider others a little more?"
+   },
+   {
+    "zh": "这么冷的天,难道他还要坚持在外面跑步?",
+    "pinyin": "Zhè me lěng de tiān, nán dào tā hái yào jiān chí zài wài miàn pǎo bù?",
+    "en": "In such cold, does he really insist on running outside?"
+   },
+   {
+    "zh": "为了一点小事就吵成这样,难道值得吗?",
+    "pinyin": "Wèi le yì diǎn xiǎo shì jiù chǎo chéng zhè yàng, nán dào zhí de ma?",
+    "en": "Quarreling like this over a trifle — is it really worth it?"
+   },
+   {
+    "zh": "难道我说的这些话,你一句都没听进去吗?",
+    "pinyin": "Nán dào wǒ shuō de zhè xiē huà, nǐ yī jù dōu méi tīng jìn qù ma?",
+    "en": "Have you really not taken in a single word I've said?"
+   },
+   {
+    "zh": "他学得这么用功,难道还怕考不好吗?",
+    "pinyin": "Tā xué de zhè me yòng gōng, nán dào hái pà kǎo bù hǎo ma?",
+    "en": "He studies so hard; does he really fear doing poorly?"
+   },
+   {
+    "zh": "事情已经这样了,难道抱怨就能解决问题吗?",
+    "pinyin": "Shì qíng yǐ jīng zhè yàng le, nán dào bào yuàn jiù néng jiě jué wèn tí ma?",
+    "en": "Things are what they are; can complaining actually solve anything?"
+   },
+   {
+    "zh": "难道你连自己最亲的人都不愿意相信吗?",
+    "pinyin": "Nán dào nǐ lián zì jǐ zuì qīn de rén dōu bù yuàn yì xiāng xìn ma?",
+    "en": "Do you really not want to trust even your closest family?"
+   },
+   {
+    "zh": "这么多人都做到了,难道你就做不到吗?",
+    "pinyin": "Zhè me duō rén dōu zuò dào le, nán dào nǐ jiù zuò bú dào ma?",
+    "en": "So many people managed it; can you really not?"
+   },
+   {
+    "zh": "难道这世上就没有一点公平可言了吗?",
+    "pinyin": "Nán dào zhè shì shàng jiù méi yǒu yì diǎn gōng píng kě yán le ma?",
+    "en": "Is there really no fairness at all left in this world?"
+   },
+   {
+    "zh": "你天天这样熬夜,难道就不担心身体吗?",
+    "pinyin": "Nǐ tiān tiān zhè yàng áo yè, nán dào jiù bù dān xīn shēn tǐ ma?",
+    "en": "Staying up like this every day — aren't you worried about your health?"
+   },
+   {
+    "zh": "我们相识这么多年,难道你还不了解我吗?",
+    "pinyin": "Wǒ men xiāng shí zhè me duō nián, nán dào nǐ hái bù liǎo jiě wǒ ma?",
+    "en": "We've known each other so long; do you still not understand me?"
+   },
+   {
+    "zh": "难道就因为他年纪小,我们就可以不尊重他吗?",
+    "pinyin": "Nán dào jiù yīn wèi tā nián jì xiǎo, wǒ men jiù kě yǐ bù zūn zhòng tā ma?",
+    "en": "Just because he's young, can we really disrespect him?"
+   },
+   {
+    "zh": "付出总会有回报,难道这个道理你不懂吗?",
+    "pinyin": "Fù chū zǒng huì yǒu huí bào, nán dào zhè ge dào lǐ nǐ bù dǒng ma?",
+    "en": "Effort is always rewarded; do you not understand this?"
+   }
+  ]
  }
 ]

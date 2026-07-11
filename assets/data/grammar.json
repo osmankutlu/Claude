@@ -35222,5 +35222,685 @@
     "en": "Compared to others' opinions, he cares more about his own true thoughts."
    }
   ]
+ },
+ {
+  "id": "g260",
+  "level": 3,
+  "title": "\"比...更/还\" ile \"daha da\" karşılaştırma",
+  "titleEn": "Expressing \"even more\" with \"geng\" or \"hai\"",
+  "pattern": "İsim 1 + 比 + İsim 2 + 更 / 还 + Sıfat",
+  "summary": "\"比\" cümlesinde \"更/还\" karşılaştırmayı \"daha da\" diye pekiştirir: 他比我更高 = O benden daha da uzun.",
+  "explanation": "\"比\" ile yapılan karşılaştırmada sıfatın önüne \"更\" ya da \"还\" eklenince \"daha da, hatta daha\" anlamı katılır ve İKİSİNİN DE yüksek olduğu, birinin ötekinden bile fazla olduğu ima edilir: A + 比 + B + 更/还 + sıfat. 今天比昨天更冷 (Bugün dünden daha da soğuk — dün de soğuktu), 他画得比老师还好 (Öğretmenden bile iyi çiziyor). \"更\" nesnel bir \"daha fazla\" derece; \"还\" ise çoğu zaman ŞAŞIRTICI bir \"hatta daha\" tonu taşır (beklentiyi aşan). ÖNEMLİ: sade \"比\" cümlesinde sıfattan önce \"很/非常\" KULLANILMAZ, ama \"更/还\" tam da bu konumda gelir ve doğrudur. Türkçedeki \"daha da, hatta daha, ondan bile ...\" pekiştirmelerine denk gelir; iki yüksek nitelik arasında birinin ötekini aştığını vurgular.",
+  "examples": [
+   {
+    "zh": "今天比昨天更冷,你出门可得多穿点儿。",
+    "pinyin": "Jīn tiān bǐ zuó tiān gèng lěng, nǐ chū mén kě de duō chuān diǎn ér。",
+    "en": "Today is even colder than yesterday; wear more when you go out."
+   },
+   {
+    "zh": "他的字写得很好,他弟弟写得比他还好。",
+    "pinyin": "Tā de zì xiě de hěn hǎo, tā dì di xiě de bǐ tā hái hǎo。",
+    "en": "His handwriting is good, and his brother's is even better."
+   },
+   {
+    "zh": "这道菜已经很辣了,那道菜比它更辣。",
+    "pinyin": "Zhè dào cài yǐ jīng hěn là le, nà dào cài bǐ tā gèng là。",
+    "en": "This dish is already spicy; that one is even spicier."
+   },
+   {
+    "zh": "山下的风景很美,山顶的风景比这儿更美。",
+    "pinyin": "Shān xià de fēng jǐng hěn měi, shān dǐng de fēng jǐng bǐ zhè ér gèng měi。",
+    "en": "The scenery below is beautiful; the summit's is even more so."
+   },
+   {
+    "zh": "哥哥跑得很快,可弟弟跑得比哥哥还快。",
+    "pinyin": "Gē gē pǎo de hěn kuài, kě dì di pǎo de bǐ gē gē hái kuài。",
+    "en": "The older brother runs fast, but the younger runs even faster."
+   },
+   {
+    "zh": "这个消息让我很吃惊,接下来的消息比这个更让人意外。",
+    "pinyin": "Zhè ge xiāo xī ràng wǒ hěn chī jīng, jiē xià lái de xiāo xī bǐ zhè ge gèng ràng rén yì wài。",
+    "en": "This news surprised me; the next was even more unexpected."
+   },
+   {
+    "zh": "他对自己要求很严,对孩子要求得比对自己还严。",
+    "pinyin": "Tā duì zì jǐ yāo qiú hěn yán, duì hái zi yāo qiú de bǐ duì zì jǐ hái yán。",
+    "en": "He's strict with himself, but even stricter with his child."
+   },
+   {
+    "zh": "我以为这次考试够难了,没想到下次的比这次更难。",
+    "pinyin": "Wǒ yǐ wéi zhè cì kǎo shì gòu nán le, méi xiǎng dào xià cì de bǐ zhè cì gèng nán。",
+    "en": "I thought this exam was hard enough, but the next was even harder."
+   },
+   {
+    "zh": "城里的房子很贵,市中心的房子比郊区的贵得更多。",
+    "pinyin": "Chéng lǐ de fáng zi hěn guì, shì zhōng xīn de fáng zi bǐ jiāo qū de guì de gèng duō。",
+    "en": "City houses are pricey; downtown ones are even more so than the suburbs'."
+   },
+   {
+    "zh": "这条路已经够绕了,那条路比这条还绕。",
+    "pinyin": "Zhè tiáo lù yǐ jīng gòu rào le, nà tiáo lù bǐ zhè tiáo hái rào。",
+    "en": "This road is roundabout enough; that one is even more so."
+   },
+   {
+    "zh": "妈妈做的饭很好吃,奶奶做的比妈妈的更地道。",
+    "pinyin": "Mā mā zuò de fàn hěn hǎo chī, nǎi nǎi zuò de bǐ mā mā de gèng dì dào。",
+    "en": "Mom's cooking is tasty; grandma's is even more authentic."
+   },
+   {
+    "zh": "他工作很努力,他妻子比他还要努力。",
+    "pinyin": "Tā gōng zuò hěn nǔ lì, tā qī zǐ bǐ tā hái yào nǔ lì。",
+    "en": "He works hard, and his wife works even harder."
+   },
+   {
+    "zh": "这次的雨很大,听说明天的雨比今天还大。",
+    "pinyin": "Zhè cì de yǔ hěn dà, tīng shuō míng tiān de yǔ bǐ jīn tiān hái dà。",
+    "en": "This rain is heavy; they say tomorrow's will be even heavier."
+   },
+   {
+    "zh": "这个孩子很懂事,他妹妹比他更懂事。",
+    "pinyin": "Zhè ge hái zi hěn dǒng shì, tā mèi mèi bǐ tā gèng dǒng shì。",
+    "en": "This child is sensible; his sister is even more so."
+   },
+   {
+    "zh": "我以为他已经很有钱了,他哥哥比他更有钱。",
+    "pinyin": "Wǒ yǐ wéi tā yǐ jīng hěn yǒu qián le, tā gē gē bǐ tā gèng yǒu qián。",
+    "en": "I thought he was rich; his brother is even richer."
+   },
+   {
+    "zh": "今年的夏天很热,据说明年会比今年更热。",
+    "pinyin": "Jīn nián de xià tiān hěn rè, jù shuō míng nián huì bǐ jīn nián gèng rè。",
+    "en": "This summer is hot; they say next year will be even hotter."
+   },
+   {
+    "zh": "这本书很厚,那本比这本还厚,得看好久。",
+    "pinyin": "Zhè běn shū hěn hòu, nà běn bǐ zhè běn hái hòu, de kàn hǎo jiǔ。",
+    "en": "This book is thick; that one is even thicker and takes long to read."
+   },
+   {
+    "zh": "他的经验很丰富,新来的经理比他还有经验。",
+    "pinyin": "Tā de jīng yàn hěn fēng fù, xīn lái de jīng lǐ bǐ tā hái yǒu jīng yàn。",
+    "en": "His experience is rich; the new manager's is even richer."
+   },
+   {
+    "zh": "这件衣服很好看,那件比这件更好看,可惜太贵了。",
+    "pinyin": "Zhè jiàn yī fú hěn hǎo kàn, nà jiàn bǐ zhè jiàn gèng hǎo kàn, kě xī tài guì le。",
+    "en": "This outfit is pretty; that one is even prettier, but too pricey."
+   },
+   {
+    "zh": "我觉得这里已经很安静了,他住的地方比这儿还安静。",
+    "pinyin": "Wǒ jué de zhè lǐ yǐ jīng hěn ān jìng le, tā zhù de dì fāng bǐ zhè ér hái ān jìng。",
+    "en": "I find it quiet here; where he lives is even quieter."
+   },
+   {
+    "zh": "这台电脑速度很快,新出的那款比它更快。",
+    "pinyin": "Zhè tái diàn nǎo sù dù hěn kuài, xīn chū de nà kuǎn bǐ tā gèng kuài。",
+    "en": "This computer is fast; the new model is even faster."
+   },
+   {
+    "zh": "他汉语说得很流利,他的发音比很多中国人还标准。",
+    "pinyin": "Tā hàn yǔ shuō de hěn liú lì, tā de fā yīn bǐ hěn duō zhōng guó rén hái biāo zhǔn。",
+    "en": "His Chinese is fluent; his pronunciation is even more standard than many natives'."
+   },
+   {
+    "zh": "这次的任务很重,下个季度的任务比这次更重。",
+    "pinyin": "Zhè cì de rèn wù hěn zhòng, xià gè jì dù de rèn wù bǐ zhè cì gèng zhòng。",
+    "en": "This task is heavy; next quarter's is even heavier."
+   },
+   {
+    "zh": "这里的冬天很冷,再往北去,天气比这儿更冷。",
+    "pinyin": "Zhè lǐ de dōng tiān hěn lěng, zài wǎng běi qù, tiān qì bǐ zhè ér gèng lěng。",
+    "en": "Winters here are cold; farther north, it's even colder."
+   },
+   {
+    "zh": "他对朋友很真诚,对陌生人也一样,甚至更热心。",
+    "pinyin": "Tā duì péng yǒu hěn zhēn chéng, duì mò shēng rén yě yī yàng, shèn zhì gèng rè xīn。",
+    "en": "He's sincere with friends, and just as warm — even warmer — with strangers."
+   }
+  ]
+ },
+ {
+  "id": "g261",
+  "level": 3,
+  "title": "\"比...多了\" ile \"çok daha\" (büyük fark)",
+  "titleEn": "Expressing \"much more\" in comparisons",
+  "pattern": "İsim 1 + 比 + İsim 2 + Sıfat + 多了 / 得多",
+  "summary": "\"比...+ sıfat + 多了/得多\" büyük bir farkı bildirir: 今天比昨天冷多了 = Bugün dünden çok daha soğuk.",
+  "explanation": "\"比\" karşılaştırmasında farkın BÜYÜK olduğunu belirtmek için sıfattan SONRA \"多了\" ya da \"得多\" eklenir: A + 比 + B + sıfat + 多了/得多. 他比我高多了 (Benden çok daha uzun), 这家店的东西比那家便宜得多 (Bu dükkânın malları ötekinden çok daha ucuz), 今天比昨天好多了 (Bugün dünden çok daha iyi). \"多了\" ve \"得多\" aynı işlevi görür (büyük fark); \"多了\" konuşma dilinde biraz daha yaygındır. Küçük farklar için ise sıfattan sonra \"一点儿\" ya da somut miktar gelir: 高一点儿 (biraz daha uzun), 大三岁 (üç yaş büyük). Yani \"比\" cümlesinde farkın büyüklüğü sıfattan SONRAKİ öğeyle belirtilir. Türkçedeki \"çok daha, kat kat, epeyce daha\" büyük-fark ifadelerine denk gelir; iki şey arasındaki belirgin farkı vurgulamanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "这家餐厅的菜比那家好吃多了,难怪总是排队。",
+    "pinyin": "Zhè jiā cān tīng de cài bǐ nà jiā hǎo chī duō le, nán guài zǒng shì pái duì。",
+    "en": "This restaurant's food is much tastier than that one's; no wonder the queues."
+   },
+   {
+    "zh": "坐高铁比坐长途汽车快多了,也舒服得多。",
+    "pinyin": "Zuò gāo tiě bǐ zuò cháng tú qì chē kuài duō le, yě shū fú de duō。",
+    "en": "The high-speed rail is much faster and more comfortable than the coach."
+   },
+   {
+    "zh": "今天的天气比昨天暖和多了,可以出去走走了。",
+    "pinyin": "Jīn tiān de tiān qì bǐ zuó tiān nuǎn huo duō le, kě yǐ chū qù zǒu zǒu le。",
+    "en": "Today's weather is much warmer than yesterday's; we can go out."
+   },
+   {
+    "zh": "经过这段时间的锻炼,他的身体比以前好多了。",
+    "pinyin": "Jīng guò zhè duàn shí jiān de duàn liàn, tā de shēn tǐ bǐ yǐ qián hǎo duō le。",
+    "en": "After this period of exercise, his health is much better than before."
+   },
+   {
+    "zh": "这次的房间比上次订的大得多,住着特别舒服。",
+    "pinyin": "Zhè cì de fáng jiān bǐ shàng cì dìng de dà de duō, zhù zhe tè bié shū fú。",
+    "en": "This room is much bigger than the one we booked last time, very comfortable."
+   },
+   {
+    "zh": "自己做饭比在外面吃便宜多了,也更健康。",
+    "pinyin": "Zì jǐ zuò fàn bǐ zài wài miàn chī pián yi duō le, yě gèng jiàn kāng。",
+    "en": "Cooking at home is much cheaper than eating out, and healthier."
+   },
+   {
+    "zh": "他的汉语水平比刚来的时候提高了不知道多少。",
+    "pinyin": "Tā de hàn yǔ shuǐ píng bǐ gāng lái de shí hòu tí gāo le bù zhī dào duō shǎo。",
+    "en": "His Chinese is far better than when he first arrived."
+   },
+   {
+    "zh": "这条新修的路比原来的宽多了,再也不堵车了。",
+    "pinyin": "Zhè tiáo xīn xiū de lù bǐ yuán lái de kuān duō le, zài yě bù dǔ chē le。",
+    "en": "This new road is much wider than the old one; no more traffic jams."
+   },
+   {
+    "zh": "网上买书比在书店买便宜得多,选择也更多。",
+    "pinyin": "Wǎng shàng mǎi shū bǐ zài shū diàn mǎi pián yi de duō, xuǎn zé yě gèng duō。",
+    "en": "Buying books online is much cheaper than in stores, with more choices."
+   },
+   {
+    "zh": "这个办法比原来的简单多了,效率也高得多。",
+    "pinyin": "Zhè ge bàn fǎ bǐ yuán lái de jiǎn dān duō le, xiào lǜ yě gāo de duō。",
+    "en": "This method is much simpler and far more efficient than the old one."
+   },
+   {
+    "zh": "弟弟这两年长高了不少,现在比姐姐还高多了。",
+    "pinyin": "Dì di zhè liǎng nián zhǎng gāo le bù shǎo, xiàn zài bǐ jiě jiě hái gāo duō le。",
+    "en": "The brother grew a lot in two years; now he's much taller than the sister."
+   },
+   {
+    "zh": "乡下的空气比城里新鲜多了,住着让人心情舒畅。",
+    "pinyin": "Xiāng xià de kōng qì bǐ chéng lǐ xīn xiān duō le, zhù zhe ràng rén xīn qíng shū chàng。",
+    "en": "The countryside air is much fresher than the city's, uplifting to live in."
+   },
+   {
+    "zh": "这台新电脑比旧的快得多,再也不用等半天了。",
+    "pinyin": "Zhè tái xīn diàn nǎo bǐ jiù de kuài de duō, zài yě bù yòng děng bàn tiān le。",
+    "en": "This new computer is much faster than the old one; no more long waits."
+   },
+   {
+    "zh": "经过老师的耐心讲解,这道题变得比想象中简单多了。",
+    "pinyin": "Jīng guò lǎo shī de nài xīn jiǎng jiě, zhè dào tí biàn de bǐ xiǎng xiàng zhōng jiǎn dān duō le。",
+    "en": "After the teacher's patient explanation, the problem became much simpler."
+   },
+   {
+    "zh": "他现在处理事情比过去成熟稳重多了。",
+    "pinyin": "Tā xiàn zài chǔ lǐ shì qíng bǐ guò qù chéng shú wěn zhòng duō le。",
+    "en": "He now handles things far more maturely and steadily than before."
+   },
+   {
+    "zh": "这件毛衣比那件厚多了,冬天穿肯定暖和。",
+    "pinyin": "Zhè jiàn máo yī bǐ nà jiàn hòu duō le, dōng tiān chuān kěn dìng nuǎn huo。",
+    "en": "This sweater is much thicker than that one; surely warm in winter."
+   },
+   {
+    "zh": "换了新工作以后,他的收入比原来高了不少。",
+    "pinyin": "Huàn le xīn gōng zuò yǐ hòu, tā de shōu rù bǐ yuán lái gāo le bù shǎo。",
+    "en": "After changing jobs, his income is much higher than before."
+   },
+   {
+    "zh": "这次的服务态度比上次好多了,让人满意。",
+    "pinyin": "Zhè cì de fú wù tài dù bǐ shàng cì hǎo duō le, ràng rén mǎn yì。",
+    "en": "The service this time was much better than last time, quite satisfactory."
+   },
+   {
+    "zh": "清蒸的做法比油炸的健康得多,老人小孩都适合。",
+    "pinyin": "Qīng zhēng de zuò fǎ bǐ yóu zhá de jiàn kāng de duō, lǎo rén xiǎo hái dōu shì hé。",
+    "en": "Steaming is much healthier than deep-frying, suitable for old and young."
+   },
+   {
+    "zh": "这个牌子的电池比那个耐用多了,值得买。",
+    "pinyin": "Zhè ge pái zi de diàn chí bǐ nà ge nài yòng duō le, zhí de mǎi。",
+    "en": "This brand's battery lasts much longer than that one; worth buying."
+   },
+   {
+    "zh": "经过治理,这条河的水比几年前干净多了。",
+    "pinyin": "Jīng guò zhì lǐ, zhè tiáo hé de shuǐ bǐ jǐ nián qián gān jìng duō le。",
+    "en": "After treatment, this river's water is much cleaner than years ago."
+   },
+   {
+    "zh": "提前订票比到了车站再买省心多了。",
+    "pinyin": "Tí qián dìng piào bǐ dào le chē zhàn zài mǎi shěng xīn duō le。",
+    "en": "Booking tickets in advance is far more worry-free than buying at the station."
+   },
+   {
+    "zh": "这次的成绩比上次进步了很多,老师表扬了他。",
+    "pinyin": "Zhè cì de chéng jì bǐ shàng cì jìn bù le hěn duō, lǎo shī biǎo yáng le tā。",
+    "en": "His grades improved a lot over last time, and the teacher praised him."
+   },
+   {
+    "zh": "坐在窗边比坐在过道那儿视野好多了。",
+    "pinyin": "Zuò zài chuāng biān bǐ zuò zài guò dào nà ér shì yě hǎo duō le。",
+    "en": "Sitting by the window gives a much better view than by the aisle."
+   },
+   {
+    "zh": "他睡了一觉以后,精神比之前好多了。",
+    "pinyin": "Tā shuì le yī jiào yǐ hòu, jīng shén bǐ zhī qián hǎo duō le。",
+    "en": "After a nap, he's much more energetic than before."
+   }
+  ]
+ },
+ {
+  "id": "g262",
+  "level": 3,
+  "title": "\"...是...，但是...\" ile taviz verme",
+  "titleEn": "Conceding a point with \"shi\"",
+  "pattern": "Sıfat + 是 + Sıfat，但是 ...",
+  "summary": "\"A 是 A，但是...\" bir noktayı kabul edip ardından çekince koyar: 好是好,但是太贵了 = İyi olmasına iyi, ama çok pahalı.",
+  "explanation": "\"Sıfat/Fiil + 是 + (aynı) sıfat/fiil，但是/就是...\" kalıbı, bir özelliği ÖNCE KABUL EDİP (taviz vererek) ardından bir ÇEKİNCE/karşıtlık eklemek için kullanılır: \"...-mesine ...-, ama/gelgelelim ...\". 这件衣服漂亮是漂亮,就是有点儿贵 (Bu giysi güzel olmasına güzel, yalnız biraz pahalı), 累是累,可是心里很高兴 (Yorgun olmasına yorgun, ama içim mutlu). Aynı sözcük \"是\" ile tekrarlanır (A 是 A), böylece o niteliğin doğruluğu kabul edilir; sonra \"但是/可是/就是\" ile bir sınır/olumsuz yan gelir. Konuşmacı karşıdakinin görüşüne kısmen hak verip yine de bir itiraz sunar; dengeli, ölçülü bir değerlendirme tonu taşır. Türkçedeki \"...-mesine ..., ama ...; ... olmak güzel/hoş ama ...\" taviz kalıplarına denk gelir; bir noktayı onaylayıp yine de çekince koymanın doğal yoludur.",
+  "examples": [
+   {
+    "zh": "这套房子好是好,就是离地铁站太远了。",
+    "pinyin": "Zhè tào fáng zi hǎo shì hǎo, jiù shì lí dì tiě zhàn tài yuǎn le。",
+    "en": "This apartment is good alright, only it's too far from the subway."
+   },
+   {
+    "zh": "这件衣服漂亮是漂亮,可是价钱有点儿贵。",
+    "pinyin": "Zhè jiàn yī fú piào liàng shì piào liàng, kě shì jià qián yǒu diǎn ér guì。",
+    "en": "This outfit is pretty, sure, but the price is a bit high."
+   },
+   {
+    "zh": "这道菜辣是辣,不过吃起来特别香,让人上瘾。",
+    "pinyin": "Zhè dào cài là shì là, bù guò chī qǐ lái tè bié xiāng, ràng rén shàng yǐn。",
+    "en": "This dish is spicy, yes, but it's fragrant and addictive."
+   },
+   {
+    "zh": "他这个人聪明是聪明,就是有时候太懒了。",
+    "pinyin": "Tā zhè ge rén cōng míng shì cōng míng, jiù shì yǒu shí hòu tài lǎn le。",
+    "en": "He's smart alright, only sometimes he's too lazy."
+   },
+   {
+    "zh": "累是累,可是看到成果,心里还是很有成就感。",
+    "pinyin": "Lèi shì lèi, kě shì kàn dào chéng guǒ, xīn lǐ hái shì hěn yǒu chéng jiù gǎn。",
+    "en": "Tired, yes, but seeing the results, I feel a real sense of achievement."
+   },
+   {
+    "zh": "这个办法好是好,可是实施起来难度不小。",
+    "pinyin": "Zhè ge bàn fǎ hǎo shì hǎo, kě shì shí shī qǐ lái nán dù bù xiǎo。",
+    "en": "This method is good, sure, but it's quite hard to carry out."
+   },
+   {
+    "zh": "这本书厚是厚,不过内容写得很吸引人,一点都不闷。",
+    "pinyin": "Zhè běn shū hòu shì hòu, bù guò nèi róng xiě de hěn xī yǐn rén, yì diǎn dōu bù mèn。",
+    "en": "This book is thick, yes, but the content is engaging, not dull at all."
+   },
+   {
+    "zh": "那个地方远是远,但是风景美得让人流连忘返。",
+    "pinyin": "Nà ge dì fāng yuǎn shì yuǎn, dàn shì fēng jǐng měi de ràng rén liú lián wàng fǎn。",
+    "en": "That place is far, sure, but the scenery makes you loath to leave."
+   },
+   {
+    "zh": "他嘴上厉害是厉害,其实心肠软得很。",
+    "pinyin": "Tā zuǐ shàng lì hài shì lì hài, qí shí xīn cháng ruǎn de hěn。",
+    "en": "He's sharp-tongued, yes, but his heart is really soft."
+   },
+   {
+    "zh": "这份工作忙是忙,可是能学到不少东西。",
+    "pinyin": "Zhè fèn gōng zuò máng shì máng, kě shì néng xué dào bù shǎo dōng xī。",
+    "en": "This job is busy, sure, but you can learn a lot."
+   },
+   {
+    "zh": "这件事难是难,只要肯下功夫,总能做好。",
+    "pinyin": "Zhè jiàn shì nán shì nán, zhǐ yào kěn xià gōng fū, zǒng néng zuò hǎo。",
+    "en": "This is hard, yes, but with effort it can be done."
+   },
+   {
+    "zh": "天气冷是冷,可是空气特别清新,适合散步。",
+    "pinyin": "Tiān qì lěng shì lěng, kě shì kōng qì tè bié qīng xīn, shì hé sàn bù。",
+    "en": "It's cold, sure, but the air is fresh and good for walking."
+   },
+   {
+    "zh": "这台机器旧是旧,不过用起来还挺顺手的。",
+    "pinyin": "Zhè tái jī qì jiù shì jiù, bù guò yòng qǐ lái hái tǐng shùn shǒu de。",
+    "en": "This machine is old, yes, but it's still quite handy to use."
+   },
+   {
+    "zh": "他答应是答应了,可是看样子并不太情愿。",
+    "pinyin": "Tā dā yìng shì dā yìng le, kě shì kàn yàng zi bìng bù tài qíng yuàn。",
+    "en": "He agreed, sure, but he doesn't seem very willing."
+   },
+   {
+    "zh": "这条路近是近,就是不太好走,坑坑洼洼的。",
+    "pinyin": "Zhè tiáo lù jìn shì jìn, jiù shì bù tài hǎo zǒu, kēng kēng wā wā de。",
+    "en": "This road is short, yes, but it's bumpy and hard to walk."
+   },
+   {
+    "zh": "这家店的东西便宜是便宜,可是质量参差不齐。",
+    "pinyin": "Zhè jiā diàn de dōng xī pián yi shì pián yi, kě shì zhì liàng cēn cī bù qí。",
+    "en": "This shop's goods are cheap alright, but the quality is uneven."
+   },
+   {
+    "zh": "他年轻是年轻,做起事来却比很多老手都稳。",
+    "pinyin": "Tā nián qīng shì nián qīng, zuò qǐ shì lái què bǐ hěn duō lǎo shǒu dōu wěn。",
+    "en": "He's young, yes, but he works more steadily than many veterans."
+   },
+   {
+    "zh": "这个孩子调皮是调皮,可是心地特别善良。",
+    "pinyin": "Zhè ge hái zi tiáo pí shì tiáo pí, kě shì xīn de tè bié shàn liáng。",
+    "en": "This child is naughty, sure, but very kind-hearted."
+   },
+   {
+    "zh": "这道题简单是简单,可就是容易让人马虎大意。",
+    "pinyin": "Zhè dào tí jiǎn dān shì jiǎn dān, kě jiù shì róng yì ràng rén mǎ hǔ dà yì。",
+    "en": "This problem is simple, yes, but it easily makes people careless."
+   },
+   {
+    "zh": "这份礼物贵是贵,不过能看出送礼人的心意。",
+    "pinyin": "Zhè fèn lǐ wù guì shì guì, bù guò néng kàn chū sòng lǐ rén de xīn yì。",
+    "en": "This gift is expensive, sure, but you can see the giver's heart."
+   },
+   {
+    "zh": "这里热闹是热闹,住久了也觉得有点儿吵。",
+    "pinyin": "Zhè lǐ rè nào shì rè nào, zhù jiǔ le yě jué de yǒu diǎn ér chǎo。",
+    "en": "It's lively here, sure, but living here long, it feels a bit noisy."
+   },
+   {
+    "zh": "他汉语说得好是好,就是写字还差点儿火候。",
+    "pinyin": "Tā hàn yǔ shuō de hǎo shì hǎo, jiù shì xiě zì hái chà diǎn ér huǒ hòu。",
+    "en": "He speaks Chinese well, yes, but his writing needs a bit more work."
+   },
+   {
+    "zh": "这次旅行累是累,可是一路上收获满满,值了。",
+    "pinyin": "Zhè cì lǚ xíng lèi shì lèi, kě shì yī lù shàng shōu huò mǎn mǎn, zhí le。",
+    "en": "This trip was tiring, sure, but full of gains all the way; worth it."
+   },
+   {
+    "zh": "这个消息是好消息,但是我们也不能太早高兴。",
+    "pinyin": "Zhè ge xiāo xī shì hǎo xiāo xī, dàn shì wǒ men yě bù néng tài zǎo gāo xìng。",
+    "en": "This is good news alright, but we shouldn't celebrate too early."
+   },
+   {
+    "zh": "他会做饭是会做,就是每次做完厨房乱得像战场。",
+    "pinyin": "Tā huì zuò fàn shì huì zuò, jiù shì měi cì zuò wán chú fáng luàn de xiàng zhàn chǎng。",
+    "en": "He can cook, sure, but the kitchen's a battlefield afterward."
+   }
+  ]
+ },
+ {
+  "id": "g263",
+  "level": 3,
+  "title": "\"一...就...\" ile \"...-ır ...-maz\"",
+  "titleEn": "Events in quick succession with \"yi... jiu...\"",
+  "pattern": "Özne + 一 + Olay 1，就 + Olay 2",
+  "summary": "\"一...就...\" iki olayın hemen ardışıklığını bildirir: 我一到家就给你打电话 = Eve varır varmaz seni ararım.",
+  "explanation": "\"一...就...\" bir olayın hemen ARDINDAN başka bir olayın geldiğini (\"...-ır ...-maz, ...-ınca hemen\") ya da bir koşulla düzenli sonucu (\"her ... olduğunda\") bildirir. Kalıp: (özne) + 一 + olay1，(özne) + 就 + olay2. (1) Hemen ardışıklık: 他一下课就回家了 (Ders biter bitmez eve gitti), 我一看见他就认出来了 (Onu görür görmez tanıdım). (2) Koşul-sonuç/alışkanlık: 他一喝酒就脸红 (İçki içince hemen yüzü kızarır), 一到夏天,这里就很热 (Yaz gelince burası çok sıcak olur). \"一\" ilk (kısa/ani) olayı, \"就\" ise onu izleyen ani sonucu işaretler. İki olay çoğu zaman aynı ya da farklı öznelidir. Türkçedeki \"...-ır ...-maz, ...-ınca hemen, her ... olduğunda hemen\" ifadelerine birebir denk gelir; hızlı ardışıklığı ve koşullu tepkiyi anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "我一到家就给你打电话,你在家等我消息。",
+    "pinyin": "Wǒ yī dào jiā jiù gěi nǐ dǎ diàn huà, nǐ zài jiā děng wǒ xiāo xī。",
+    "en": "I'll call you as soon as I get home; wait for my word."
+   },
+   {
+    "zh": "他一下课就飞快地跑出了教室去踢球。",
+    "pinyin": "Tā yī xià kè jiù fēi kuài de pǎo chū le jiào shì qù tī qiú。",
+    "en": "As soon as class ended, he dashed out to play ball."
+   },
+   {
+    "zh": "这孩子一见到生人就害羞,躲在妈妈身后。",
+    "pinyin": "Zhè hái zi yī jiàn dào shēng rén jiù hài xiū, duǒ zài mā mā shēn hòu。",
+    "en": "This child gets shy at the sight of strangers, hiding behind mom."
+   },
+   {
+    "zh": "我一看见那道菜就想起了小时候的味道。",
+    "pinyin": "Wǒ yī kàn jiàn nà dào cài jiù xiǎng qǐ le xiǎo shí hòu de wèi dào。",
+    "en": "The moment I saw that dish, I recalled the taste of my childhood."
+   },
+   {
+    "zh": "他一忙起来就顾不上吃饭,常常饿着肚子。",
+    "pinyin": "Tā yī máng qǐ lái jiù gù bù shàng chī fàn, cháng cháng è zhe dǔ zi。",
+    "en": "Once he gets busy, he forgets to eat, often going hungry."
+   },
+   {
+    "zh": "天气一转凉,街上卖烤红薯的就多了起来。",
+    "pinyin": "Tiān qì yī zhuǎn liáng, jiē shàng mài kǎo hóng shǔ de jiù duō le qǐ lái。",
+    "en": "As soon as it turns cool, roasted-sweet-potato sellers appear on the streets."
+   },
+   {
+    "zh": "我一听到这个好消息,就忍不住笑了起来。",
+    "pinyin": "Wǒ yī tīng dào zhè ge hǎo xiāo xī, jiù rěn bú zhù xiào le qǐ lái。",
+    "en": "The moment I heard the good news, I couldn't help smiling."
+   },
+   {
+    "zh": "他一紧张就爱结巴,话都说不利索。",
+    "pinyin": "Tā yī jǐn zhāng jiù ài jiē ba, huà dōu shuō bù lì suǒ。",
+    "en": "When he gets nervous, he stutters and can't speak smoothly."
+   },
+   {
+    "zh": "闹钟一响,他就立刻从床上爬了起来。",
+    "pinyin": "Nào zhōng yī xiǎng, tā jiù lì kè cóng chuáng shàng pá le qǐ lái。",
+    "en": "As soon as the alarm rang, he got up from bed at once."
+   },
+   {
+    "zh": "这台旧机器一到冬天就容易出毛病。",
+    "pinyin": "Zhè tái jiù jī qì yī dào dōng tiān jiù róng yì chū máo bìng。",
+    "en": "This old machine tends to break down as soon as winter comes."
+   },
+   {
+    "zh": "我一坐上火车就睡着了,一觉睡到了终点站。",
+    "pinyin": "Wǒ yī zuò shàng huǒ chē jiù shuì zháo le, yī jiào shuì dào le zhōng diǎn zhàn。",
+    "en": "I fell asleep as soon as I boarded the train, sleeping to the last stop."
+   },
+   {
+    "zh": "妈妈一进门就闻到了厨房里饭菜的香味。",
+    "pinyin": "Mā mā yī jìn mén jiù wén dào le chú fáng lǐ fàn cài de xiāng wèi。",
+    "en": "The moment mom came in, she smelled the food from the kitchen."
+   },
+   {
+    "zh": "他一有空就往图书馆跑,是个十足的书虫。",
+    "pinyin": "Tā yī yǒu kòng jiù wǎng tú shū guǎn pǎo, shì gè shí zú de shū chóng。",
+    "en": "Whenever he's free he heads to the library; he's a total bookworm."
+   },
+   {
+    "zh": "孩子一看见玩具就走不动路了,非要买不可。",
+    "pinyin": "Hái zi yī kàn jiàn wán jù jiù zǒu bù dòng lù le, fēi yào mǎi bù kě。",
+    "en": "The child can't move once he sees a toy, insisting on buying it."
+   },
+   {
+    "zh": "这场雨一停,天边就出现了一道漂亮的彩虹。",
+    "pinyin": "Zhè chǎng yǔ yī tíng, tiān biān jiù chū xiàn le yī dào piào liàng de cǎi hóng。",
+    "en": "As soon as the rain stopped, a lovely rainbow appeared."
+   },
+   {
+    "zh": "他一喝酒脸就红,所以从来都不敢多喝。",
+    "pinyin": "Tā yī hē jiǔ liǎn jiù hóng, suǒ yǐ cóng lái dōu bù gǎn duō hē。",
+    "en": "His face reddens as soon as he drinks, so he never dares drink much."
+   },
+   {
+    "zh": "我一想到明天要考试,心里就紧张得不行。",
+    "pinyin": "Wǒ yī xiǎng dào míng tiān yào kǎo shì, xīn lǐ jiù jǐn zhāng de bù xíng。",
+    "en": "The moment I think of tomorrow's exam, I get terribly nervous."
+   },
+   {
+    "zh": "老师一提问,他就把手举得高高的。",
+    "pinyin": "Lǎo shī yī tí wèn, tā jiù bǎ shǒu jǔ de gāo gāo de。",
+    "en": "As soon as the teacher asks, he raises his hand high."
+   },
+   {
+    "zh": "这种花一到春天就开得满树都是,特别好看。",
+    "pinyin": "Zhè zhòng huā yī dào chūn tiān jiù kāi de mǎn shù dōu shì, tè bié hǎo kàn。",
+    "en": "This flower blooms all over the tree as soon as spring comes."
+   },
+   {
+    "zh": "他一回到家就把今天发生的事讲给了妈妈听。",
+    "pinyin": "Tā yī huí dào jiā jiù bǎ jīn tiān fā shēng de shì jiǎng gěi le mā mā tīng。",
+    "en": "As soon as he got home, he told mom everything that happened."
+   },
+   {
+    "zh": "我一躺下就睡着了,累得连梦都没做。",
+    "pinyin": "Wǒ yī tǎng xià jiù shuì zháo le, lèi de lián mèng dōu méi zuò。",
+    "en": "I fell asleep the moment I lay down, too tired even to dream."
+   },
+   {
+    "zh": "这个孩子一饿就哭,一吃饱就笑,特别好懂。",
+    "pinyin": "Zhè ge hái zi yī è jiù kū, yī chī bǎo jiù xiào, tè bié hǎo dǒng。",
+    "en": "This child cries when hungry and smiles when full; easy to read."
+   },
+   {
+    "zh": "他一接到电话就变了脸色,好像出了什么急事。",
+    "pinyin": "Tā yī jiē dào diàn huà jiù biàn le liǎn sè, hǎo xiàng chū le shén me jí shì。",
+    "en": "His face changed the moment he took the call, as if something urgent happened."
+   },
+   {
+    "zh": "这条路一下雨就积水,大家出行很不方便。",
+    "pinyin": "Zhè tiáo lù yī xià yǔ jiù jī shuǐ, dà jiā chū xíng hěn bù fāng biàn。",
+    "en": "This road floods as soon as it rains, making travel inconvenient."
+   },
+   {
+    "zh": "我一提起这件事,他就转移话题,似乎不愿意谈。",
+    "pinyin": "Wǒ yī tí qǐ zhè jiàn shì, tā jiù zhuǎn yí huà tí, sì hū bù yuàn yì tán。",
+    "en": "The moment I bring this up, he changes the subject, unwilling to talk."
+   }
+  ]
+ },
+ {
+  "id": "g264",
+  "level": 3,
+  "title": "\"虽然...但是...\" ile \"her ne kadar ... yine de ...\"",
+  "titleEn": "Expressing \"although\" with \"suiran\" and \"danshi\"",
+  "pattern": "虽然 ...，但是 / 可是 ...",
+  "summary": "\"虽然...但是...\" bir gerçeği kabul edip zıt bir sonuç bağlar: 虽然很累,但是很开心 = Yorgun olsam da mutluyum.",
+  "explanation": "\"虽然...但是/可是...\" ikili bağlacı, bir gerçeği/koşulu KABUL EDİP ardından beklenene AYKIRI bir sonuç/durum sunar: \"her ne kadar ... olsa da, ...-mesine rağmen ... yine de ...\". 虽然天气很冷,但是大家的热情很高 (Hava soğuk olsa da herkesin coşkusu yüksek), 虽然他很忙,可是每天都坚持锻炼 (Çok meşgul olmasına rağmen her gün spor yapar). Türkçenin aksine Çince'de İKİ bağlacın (虽然 + 但是/可是) BİRLİKTE kullanılması normaldir. Sıra: önce 虽然 (kabul), sonra 但是/可是 (zıtlık). Bazen 虽然 düşüp yalnız 但是 kalabilir. \"尽管...还是...\" da benzer bir yapıdır (尽管 daha güçlü bir taviz). Türkçedeki \"her ne kadar ... olsa da, ...-e rağmen ... yine de ..., gerçi ... ama ...\" karşıtlık kalıplarına denk gelir; taviz ile zıtlığı bir arada anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "虽然这次考试没考好,但是他并没有灰心丧气。",
+    "pinyin": "Suī rán zhè cì kǎo shì méi kǎo hǎo, dàn shì tā bìng méi yǒu huī xīn sàng qì。",
+    "en": "Although he didn't do well on this exam, he wasn't discouraged."
+   },
+   {
+    "zh": "虽然天气很冷,但是来看比赛的人还是很多。",
+    "pinyin": "Suī rán tiān qì hěn lěng, dàn shì lái kàn bǐ sài de rén hái shì hěn duō。",
+    "en": "Although it was cold, many people still came to watch the match."
+   },
+   {
+    "zh": "虽然工作很忙,可是他每天都抽时间陪孩子。",
+    "pinyin": "Suī rán gōng zuò hěn máng, kě shì tā měi tiān dōu chōu shí jiān péi hái zi。",
+    "en": "Although work is busy, he makes time for his child every day."
+   },
+   {
+    "zh": "虽然这条路远了点,但是沿途的风景特别美。",
+    "pinyin": "Suī rán zhè tiáo lù yuǎn le diǎn, dàn shì yán tú de fēng jǐng tè bié měi。",
+    "en": "Although this road is a bit far, the scenery along it is beautiful."
+   },
+   {
+    "zh": "虽然我们认识的时间不长,但是感觉却像老朋友。",
+    "pinyin": "Suī rán wǒ men rèn shí de shí jiān bù zhǎng, dàn shì gǎn jué què xiàng lǎo péng yǒu。",
+    "en": "Although we haven't known each other long, it feels like old friends."
+   },
+   {
+    "zh": "虽然他年纪不大,但是做事非常成熟稳重。",
+    "pinyin": "Suī rán tā nián jì bù dà, dàn shì zuò shì fēi cháng chéng shú wěn zhòng。",
+    "en": "Although he's young, he handles things very maturely."
+   },
+   {
+    "zh": "虽然这家店不大,但是东西的种类特别齐全。",
+    "pinyin": "Suī rán zhè jiā diàn bù dà, dàn shì dōng xī de zhǒng lèi tè bié qí quán。",
+    "en": "Although this shop is small, it has a very complete range of goods."
+   },
+   {
+    "zh": "虽然失败了很多次,可是他从来没有想过放弃。",
+    "pinyin": "Suī rán shī bài le hěn duō cì, kě shì tā cóng lái méi yǒu xiǎng guò fàng qì。",
+    "en": "Although he failed many times, he never thought of giving up."
+   },
+   {
+    "zh": "虽然雨下得很大,但是他们还是按时赶到了。",
+    "pinyin": "Suī rán yǔ xià de hěn dà, dàn shì tā men hái shì àn shí gǎn dào le。",
+    "en": "Although it rained hard, they still arrived on time."
+   },
+   {
+    "zh": "虽然这道题看起来很难,但是其实有窍门。",
+    "pinyin": "Suī rán zhè dào tí kàn qǐ lái hěn nán, dàn shì qí shí yǒu qiào mén。",
+    "en": "Although this problem looks hard, there's actually a trick to it."
+   },
+   {
+    "zh": "虽然生活很艰苦,但是一家人在一起就很幸福。",
+    "pinyin": "Suī rán shēng huó hěn jiān kǔ, dàn shì yī jiā rén zài yì qǐ jiù hěn xìng fú。",
+    "en": "Although life was hard, the family being together was happiness."
+   },
+   {
+    "zh": "虽然他嘴上不说,可是心里其实很在乎你。",
+    "pinyin": "Suī rán tā zuǐ shàng bù shuō, kě shì xīn lǐ qí shí hěn zài hū nǐ。",
+    "en": "Although he doesn't say it, he actually cares about you a lot."
+   },
+   {
+    "zh": "虽然这份工作工资不高,但是他做得很开心。",
+    "pinyin": "Suī rán zhè fèn gōng zuò gōng zī bù gāo, dàn shì tā zuò de hěn kāi xīn。",
+    "en": "Although this job doesn't pay much, he does it happily."
+   },
+   {
+    "zh": "虽然已经过去很多年,但是那段回忆依然清晰。",
+    "pinyin": "Suī rán yǐ jīng guò qù hěn duō nián, dàn shì nà duàn huí yì yī rán qīng xī。",
+    "en": "Although many years have passed, that memory is still clear."
+   },
+   {
+    "zh": "虽然天色已晚,但是他还是坚持把工作做完。",
+    "pinyin": "Suī rán tiān sè yǐ wǎn, dàn shì tā hái shì jiān chí bǎ gōng zuò zuò wán。",
+    "en": "Although it was late, he insisted on finishing the work."
+   },
+   {
+    "zh": "虽然我们语言不通,但是通过手势也能交流。",
+    "pinyin": "Suī rán wǒ men yǔ yán bù tōng, dàn shì tōng guò shǒu shì yě néng jiāo liú。",
+    "en": "Although we don't share a language, we can communicate by gestures."
+   },
+   {
+    "zh": "虽然他个子不高,但是打起篮球来一点儿都不吃亏。",
+    "pinyin": "Suī rán tā gè zi bù gāo, dàn shì dǎ qǐ lán qiú lái yì diǎn ér dōu bù chī kuī。",
+    "en": "Although he isn't tall, he holds his own in basketball."
+   },
+   {
+    "zh": "虽然这只是件小事,可是却让我感动了很久。",
+    "pinyin": "Suī rán zhè zhǐ shì jiàn xiǎo shì, kě shì què ràng wǒ gǎn dòng le hěn jiǔ。",
+    "en": "Although it was a small thing, it moved me for a long time."
+   },
+   {
+    "zh": "虽然爷爷年纪大了,但是身体一直很硬朗。",
+    "pinyin": "Suī rán yé yé nián jì dà le, dàn shì shēn tǐ yì zhí hěn yìng lǎng。",
+    "en": "Although grandpa is old, he's always been robust."
+   },
+   {
+    "zh": "虽然大家都很累,但是没有一个人抱怨。",
+    "pinyin": "Suī rán dà jiā dōu hěn lèi, dàn shì méi yǒu yí gè rén bào yuàn。",
+    "en": "Although everyone was tired, not one person complained."
+   },
+   {
+    "zh": "虽然第一次做菜,但是味道竟然还不错。",
+    "pinyin": "Suī rán dì yī cì zuò cài, dàn shì wèi dào jìng rán hái bú cuò。",
+    "en": "Although it was her first time cooking, it turned out quite tasty."
+   },
+   {
+    "zh": "虽然他们分隔两地,但是感情一直很好。",
+    "pinyin": "Suī rán tā men fēn gé liǎng de, dàn shì gǎn qíng yì zhí hěn hǎo。",
+    "en": "Although they live far apart, their bond has stayed strong."
+   },
+   {
+    "zh": "虽然这次比赛输了,但是我们学到了很多。",
+    "pinyin": "Suī rán zhè cì bǐ sài shū le, dàn shì wǒ men xué dào le hěn duō。",
+    "en": "Although we lost this match, we learned a lot."
+   },
+   {
+    "zh": "虽然道理我都懂,可是真到自己身上就难了。",
+    "pinyin": "Suī rán dào lǐ wǒ dōu dǒng, kě shì zhēn dào zì jǐ shēn shàng jiù nán le。",
+    "en": "Although I understand the principle, it's hard when it's my own turn."
+   },
+   {
+    "zh": "虽然外面很热闹,但是他更喜欢一个人安静地看书。",
+    "pinyin": "Suī rán wài miàn hěn rè nào, dàn shì tā gèng xǐ huān yí gè rén ān jìng de kàn shū。",
+    "en": "Although it's lively outside, he prefers to read quietly alone."
+   }
+  ]
  }
 ]

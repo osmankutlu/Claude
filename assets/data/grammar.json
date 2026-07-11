@@ -28422,5 +28422,685 @@
     "en": "Whether this book is worth reading depends on your interest in the topic."
    }
   ]
+ },
+ {
+  "id": "g210",
+  "level": 3,
+  "title": "\"好像\" ile \"sanki, ...gibi görünüyor\"",
+  "titleEn": "Expressing \"it seems\" with \"haoxiang\"",
+  "pattern": "好像 + ...",
+  "summary": "\"好像\" (hǎoxiàng) bir tahmin ya da benzetme bildirir: \"sanki, galiba, ...gibi görünüyor\": 他好像生病了 = Galiba hasta.",
+  "explanation": "\"好像\" iki yakın işlev taşır: (1) TAHMİN/belirsizlik — kesin olmayan bir yargı: \"galiba, sanırım, ...gibi görünüyor, öyle sanıyorum\": 他好像不太高兴 (Pek mutlu değil gibi), 我好像在哪儿见过你 (Seni bir yerde görmüş gibiyim). (2) BENZETME — \"sanki, tıpkı ...gibi\", çoğu zaman \"好像...一样/似的\" kalıbında: 他高兴得好像个孩子一样 (Bir çocuk gibi sevindi), 天冷得好像到了冬天 (Sanki kış gelmiş gibi soğuk). Yüklemden önce ya da cümle başında gelir. Kesin olmayan bir izlenimi ya da bir benzetmeyi yumuşak biçimde ifade eder. Türkçedeki \"sanki, galiba, sanırım, ...gibi görünüyor, tıpkı ...gibi\" ifadelerine denk gelir; ihtiyatlı tahmin ve benzetme yapmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "他今天好像有心事,一整天都没怎么说话。",
+    "pinyin": "Tā jīn tiān hǎo xiàng yǒu xīn shì, yī zhěng tiān dōu méi zěn me shuō huà。",
+    "en": "He seems troubled today; he barely spoke all day."
+   },
+   {
+    "zh": "外面好像下雨了,你听,窗户上有滴答声。",
+    "pinyin": "Wài miàn hǎo xiàng xià yǔ le, nǐ tīng, chuāng hù shàng yǒu dī dā shēng。",
+    "en": "It seems to be raining outside; listen, there's a pattering on the window."
+   },
+   {
+    "zh": "我好像在哪儿见过你,你是不是小王的朋友?",
+    "pinyin": "Wǒ hǎo xiàng zài nǎ ér jiàn guò nǐ, nǐ shì bú shì xiǎo wáng de péng yǒu?",
+    "en": "I seem to have seen you somewhere; are you Xiao Wang's friend?"
+   },
+   {
+    "zh": "这道题我好像做过,可是一时想不起答案了。",
+    "pinyin": "Zhè dào tí wǒ hǎo xiàng zuò guò, kě shì yī shí xiǎng bù qǐ dá àn le。",
+    "en": "I seem to have done this problem, but can't recall the answer now."
+   },
+   {
+    "zh": "他跑得飞快,好像一阵风一样从我身边掠过。",
+    "pinyin": "Tā pǎo de fēi kuài, hǎo xiàng yī zhèn fēng yī yàng cóng wǒ shēn biān lüè guò。",
+    "en": "He ran so fast, brushing past me like a gust of wind."
+   },
+   {
+    "zh": "天气好像要转凉了,你出门多带件衣服吧。",
+    "pinyin": "Tiān qì hǎo xiàng yào zhuǎn liáng le, nǐ chū mén duō dài jiàn yī fú ba。",
+    "en": "The weather seems to be turning cool; take an extra layer."
+   },
+   {
+    "zh": "她笑起来的样子,好像她妈妈年轻的时候。",
+    "pinyin": "Tā xiào qǐ lái de yàng zi, hǎo xiàng tā mā mā nián qīng de shí hòu。",
+    "en": "The way she smiles is just like her mother when young."
+   },
+   {
+    "zh": "我好像把钥匙落在办公室了,得回去拿一趟。",
+    "pinyin": "Wǒ hǎo xiàng bǎ yào shi luò zài bàn gōng shì le, de huí qù ná yī tàng。",
+    "en": "I seem to have left my keys at the office; I need to go back for them."
+   },
+   {
+    "zh": "这孩子懂事得好像个小大人似的,真让人喜欢。",
+    "pinyin": "Zhè hái zi dǒng shì de hǎo xiàng gè xiǎo dà rén shì de, zhēn ràng rén xǐ huān。",
+    "en": "This child is sensible like a little adult; truly likable."
+   },
+   {
+    "zh": "他好像对这件事不太感兴趣,一直没什么反应。",
+    "pinyin": "Tā hǎo xiàng duì zhè jiàn shì bù tài gǎn xìng qù, yì zhí méi shén me fǎn yìng。",
+    "en": "He seems uninterested in this; there's been little reaction."
+   },
+   {
+    "zh": "那座山远远望去,好像一头卧着的大象。",
+    "pinyin": "Nà zuò shān yuǎn yuǎn wàng qù, hǎo xiàng yī tóu wò zhe de dà xiàng。",
+    "en": "Seen from afar, that mountain looks like a lying elephant."
+   },
+   {
+    "zh": "你的脸色好像不太好,是不是哪里不舒服?",
+    "pinyin": "Nǐ de liǎn sè hǎo xiàng bù tài hǎo, shì bú shì nǎ lǐ bù shū fú?",
+    "en": "Your color seems off; are you unwell somewhere?"
+   },
+   {
+    "zh": "时间过得好像流水一样,一转眼就是好多年。",
+    "pinyin": "Shí jiān guò de hǎo xiàng liú shuǐ yī yàng, yī zhuǎn yǎn jiù shì hǎo duō nián。",
+    "en": "Time passes like flowing water; in a blink, many years."
+   },
+   {
+    "zh": "我好像听见有人叫我,你有没有听到?",
+    "pinyin": "Wǒ hǎo xiàng tīng jiàn yǒu rén jiào wǒ, nǐ yǒu méi yǒu tīng dào?",
+    "en": "I seem to hear someone calling me; did you hear it?"
+   },
+   {
+    "zh": "这两个字长得好像,一不小心就容易写错。",
+    "pinyin": "Zhè liǎng gè zì zhǎng de hǎo xiàng, yí bù xiǎo xīn jiù róng yì xiě cuò。",
+    "en": "These two characters look alike; it's easy to write them wrong."
+   },
+   {
+    "zh": "他激动得好像中了大奖一样,又蹦又跳。",
+    "pinyin": "Tā jī dòng de hǎo xiàng zhōng le dà jiǎng yī yàng, yòu bèng yòu tiào。",
+    "en": "He was as excited as if he'd won a jackpot, jumping about."
+   },
+   {
+    "zh": "这附近好像新开了一家书店,咱们去看看?",
+    "pinyin": "Zhè fù jìn hǎo xiàng xīn kāi le yī jiā shū diàn, zán men qù kàn kàn?",
+    "en": "It seems a new bookstore opened nearby; shall we take a look?"
+   },
+   {
+    "zh": "她的声音好像有点儿哑,可能是感冒了。",
+    "pinyin": "Tā de shēng yīn hǎo xiàng yǒu diǎn ér yǎ, kě néng shì gǎn mào le。",
+    "en": "Her voice sounds a bit hoarse; she may have a cold."
+   },
+   {
+    "zh": "这道菜的味道好像少了点儿什么,是不是忘放盐了?",
+    "pinyin": "Zhè dào cài de wèi dào hǎo xiàng shǎo le diǎn ér shén me, shì bú shì wàng fàng yán le?",
+    "en": "This dish seems to lack something; did we forget the salt?"
+   },
+   {
+    "zh": "站在山顶,好像整个世界都在自己脚下。",
+    "pinyin": "Zhàn zài shān dǐng, hǎo xiàng zhěng gè shì jiè dōu zài zì jǐ jiǎo xià。",
+    "en": "Standing on the summit, it feels as if the whole world is beneath you."
+   },
+   {
+    "zh": "他好像有话想说,却又欲言又止,似乎很为难。",
+    "pinyin": "Tā hǎo xiàng yǒu huà xiǎng shuō, què yòu yù yán yòu zhǐ, sì hū hěn wéi nán。",
+    "en": "He seems to have something to say but keeps hesitating, as if troubled."
+   },
+   {
+    "zh": "这几天他好像特别忙,连吃饭的时间都没有。",
+    "pinyin": "Zhè jǐ tiān tā hǎo xiàng tè bié máng, lián chī fàn de shí jiān dōu méi yǒu。",
+    "en": "These days he seems especially busy, without even time to eat."
+   },
+   {
+    "zh": "孩子睡着的样子,好像天使一样安静、可爱。",
+    "pinyin": "Hái zi shuì zháo de yàng zi, hǎo xiàng tiān shǐ yī yàng ān jìng、 kě ài。",
+    "en": "The sleeping child looks as quiet and adorable as an angel."
+   },
+   {
+    "zh": "我好像把这件事跟你说过,你还记得吗?",
+    "pinyin": "Wǒ hǎo xiàng bǎ zhè jiàn shì gēn nǐ shuō guò, nǐ hái jì de ma?",
+    "en": "I seem to have told you this; do you remember?"
+   },
+   {
+    "zh": "窗外的月亮又大又圆,好像一个银盘挂在天上。",
+    "pinyin": "Chuāng wài de yuè liàng yòu dà yòu yuán, hǎo xiàng yí gè yín pán guà zài tiān shàng。",
+    "en": "The moon outside is big and round, like a silver plate in the sky."
+   }
+  ]
+ },
+ {
+  "id": "g211",
+  "level": 3,
+  "title": "\"以为\" ile yanlış sanı",
+  "titleEn": "Expressing \"mistakenly think that\" with \"yiwei\"",
+  "pattern": "Özne + 以为 ...",
+  "summary": "\"以为\" (yǐwéi) çoğu zaman YANLIŞ çıkan bir sanıyı bildirir: 我以为你走了 = Gittiğini sanmıştım (ama gitmemişsin).",
+  "explanation": "\"以为\" bir şeyi düşünmek/sanmaktır, ama neredeyse her zaman sonradan YANLIŞ çıkan bir varsayımı bildirir: \"...sanmak, ...zannetmek\" (ama aslında öyle değil). 我以为今天是星期天 (Bugünü pazar sanmıştım — değilmiş), 大家都以为他不来了,结果他来了 (Herkes gelmeyeceğini sandı, ama geldi). Konuşmacı önceki (hatalı) inancını, sonradan öğrendiği gerçekle örtük biçimde karşılaştırır. \"觉得\" (düşünmek/hissetmek) ve \"认为\" (kanısında olmak) tarafsızken, \"以为\" özellikle GERÇEĞE AYKIRI çıkan sanıyı vurgular. Cümle çoğu zaman \"...,其实/结果...\" ile devam eder. Türkçedeki \"...sanmak, ...zannetmek, ...diye düşünmek (ama yanılmak)\" anlamına denk gelir; yanlış bir varsayımı ve sürpriz gerçeği anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "我以为今天不上班,结果闹钟一响才想起来要上班。",
+    "pinyin": "Wǒ yǐ wéi jīn tiān bù shàng bān, jié guǒ nào zhōng yī xiǎng cái xiǎng qǐ lái yào shàng bān。",
+    "en": "I thought there was no work today, but the alarm reminded me there was."
+   },
+   {
+    "zh": "大家都以为他会迟到,没想到他第一个就到了。",
+    "pinyin": "Dà jiā dōu yǐ wéi tā huì chí dào, méi xiǎng dào tā dì yí gè jiù dào le。",
+    "en": "Everyone thought he'd be late, but he was the first to arrive."
+   },
+   {
+    "zh": "我一直以为这道题很难,做起来才发现其实很简单。",
+    "pinyin": "Wǒ yì zhí yǐ wéi zhè dào tí hěn nán, zuò qǐ lái cái fā xiàn qí shí hěn jiǎn dān。",
+    "en": "I always thought this problem was hard, but it turned out simple."
+   },
+   {
+    "zh": "他以为没人看见,悄悄把最后一块蛋糕吃掉了。",
+    "pinyin": "Tā yǐ wéi méi rén kàn jiàn, qiāo qiāo bǎ zuì hòu yī kuài dàn gāo chī diào le。",
+    "en": "Thinking no one saw, he quietly ate the last piece of cake."
+   },
+   {
+    "zh": "我还以为你早就把这件事忘了呢,原来你一直记着。",
+    "pinyin": "Wǒ hái yǐ wéi nǐ zǎo jiù bǎ zhè jiàn shì wàng le ne, yuán lái nǐ yì zhí jì zhe。",
+    "en": "I thought you'd long forgotten this, but you remembered all along."
+   },
+   {
+    "zh": "她以为儿子还在睡觉,推开门才发现床是空的。",
+    "pinyin": "Tā yǐ wéi ér zi hái zài shuì jiào, tuī kāi mén cái fā xiàn chuáng shì kōng de。",
+    "en": "She thought her son was still asleep, but the bed was empty."
+   },
+   {
+    "zh": "我以为这条路是近路,结果反而多走了很多冤枉路。",
+    "pinyin": "Wǒ yǐ wéi zhè tiáo lù shì jìn lù, jié guǒ fǎn ér duō zǒu le hěn duō yuān wǎng lù。",
+    "en": "I thought this road was a shortcut, but it took much longer instead."
+   },
+   {
+    "zh": "大家原以为会下雨,结果一整天都是大晴天。",
+    "pinyin": "Dà jiā yuán yǐ wéi huì xià yǔ, jié guǒ yī zhěng tiān dōu shì dà qíng tiān。",
+    "en": "Everyone thought it would rain, but it was sunny all day."
+   },
+   {
+    "zh": "他以为自己听错了,又反复问了好几遍。",
+    "pinyin": "Tā yǐ wéi zì jǐ tīng cuò le, yòu fǎn fù wèn le hǎo jǐ biàn。",
+    "en": "Thinking he'd misheard, he asked again several times."
+   },
+   {
+    "zh": "我以为这件衣服很贵,一看价格才发现挺便宜的。",
+    "pinyin": "Wǒ yǐ wéi zhè jiàn yī fú hěn guì, yī kàn jià gé cái fā xiàn tǐng pián yi de。",
+    "en": "I thought this outfit was pricey, but the price was quite cheap."
+   },
+   {
+    "zh": "你别以为我不知道,你做的那些事我都清楚。",
+    "pinyin": "Nǐ bié yǐ wéi wǒ bù zhī dào, nǐ zuò de nà xiē shì wǒ dōu qīng chǔ。",
+    "en": "Don't think I don't know; I'm clear about all you've done."
+   },
+   {
+    "zh": "我以为他是本地人,聊了才知道他也是外地来的。",
+    "pinyin": "Wǒ yǐ wéi tā shì běn dì rén, liáo le cái zhī dào tā yě shì wài dì lái de。",
+    "en": "I thought he was a local, but chatting revealed he's from elsewhere too."
+   },
+   {
+    "zh": "孩子以为妈妈生气了,一直小心翼翼地不敢说话。",
+    "pinyin": "Hái zi yǐ wéi mā mā shēng qì le, yì zhí xiǎo xīn yì yì de bù gǎn shuō huà。",
+    "en": "The child thought mom was angry and cautiously kept silent."
+   },
+   {
+    "zh": "我原以为这本书很枯燥,读起来却意外地有趣。",
+    "pinyin": "Wǒ yuán yǐ wéi zhè běn shū hěn kū zào, dú qǐ lái què yì wài dì yǒu qù。",
+    "en": "I thought this book was dull, but it was unexpectedly interesting."
+   },
+   {
+    "zh": "他以为把门锁好了,回来才发现门根本没关严。",
+    "pinyin": "Tā yǐ wéi bǎ mén suǒ hǎo le, huí lái cái fā xiàn mén gēn běn méi guān yán。",
+    "en": "He thought he'd locked the door, but found it hadn't shut properly."
+   },
+   {
+    "zh": "我以为你不喜欢吃辣,所以特意点了清淡的菜。",
+    "pinyin": "Wǒ yǐ wéi nǐ bù xǐ huān chī là, suǒ yǐ tè yì diǎn le qīng dàn de cài。",
+    "en": "I thought you disliked spicy food, so I ordered mild dishes."
+   },
+   {
+    "zh": "大家以为比赛已经结束了,没想到还有加时赛。",
+    "pinyin": "Dà jiā yǐ wéi bǐ sài yǐ jīng jié shù le, méi xiǎng dào hái yǒu jiā shí sài。",
+    "en": "Everyone thought the match was over, not expecting overtime."
+   },
+   {
+    "zh": "我一开始以为他在开玩笑,后来才知道他是认真的。",
+    "pinyin": "Wǒ yī kāi shǐ yǐ wéi tā zài kāi wán xiào, hòu lái cái zhī dào tā shì rèn zhēn de。",
+    "en": "At first I thought he was joking; later I knew he was serious."
+   },
+   {
+    "zh": "她以为把秘密藏得很好,其实早就被大家看出来了。",
+    "pinyin": "Tā yǐ wéi bǎ mì mì cáng de hěn hǎo, qí shí zǎo jiù bèi dà jiā kàn chū lái le。",
+    "en": "She thought her secret was well hidden, but everyone had seen through it."
+   },
+   {
+    "zh": "我以为走错了地方,再一看门牌才发现没错。",
+    "pinyin": "Wǒ yǐ wéi zǒu cuò le dì fāng, zài yī kān mén pái cái fā xiàn méi cuò。",
+    "en": "I thought I'd come to the wrong place, but the number was right."
+   },
+   {
+    "zh": "他以为这次肯定能成功,结果还是差了一点。",
+    "pinyin": "Tā yǐ wéi zhè cì kěn dìng néng chéng gōng, jié guǒ hái shì chà le yì diǎn。",
+    "en": "He thought he'd surely succeed, but fell just short."
+   },
+   {
+    "zh": "我以为这只是件小事,没想到会闹得这么大。",
+    "pinyin": "Wǒ yǐ wéi zhè zhǐ shì jiàn xiǎo shì, méi xiǎng dào huì nào de zhè me dà。",
+    "en": "I thought it was a small thing, not expecting such a big fuss."
+   },
+   {
+    "zh": "你们别以为他年纪小就好欺负,他可机灵着呢。",
+    "pinyin": "Nǐ men bié yǐ wéi tā nián jì xiǎo jiù hǎo qī fù, tā kě jī líng zhe ne。",
+    "en": "Don't think he's easy to bully because he's young; he's quite sharp."
+   },
+   {
+    "zh": "我以为把窗户关上就不冷了,谁知屋里还是那么凉。",
+    "pinyin": "Wǒ yǐ wéi bǎ chuāng hù guān shàng jiù bù lěng le, shuí zhī wū lǐ hái shì nà me liáng。",
+    "en": "I thought closing the window would stop the cold, but it stayed chilly."
+   },
+   {
+    "zh": "他以为父母不会同意,鼓起勇气一问,竟然答应了。",
+    "pinyin": "Tā yǐ wéi fù mǔ bú huì tóng yì, gǔ qǐ yǒng qì yī wèn, jìng rán dā yìng le。",
+    "en": "He thought his parents wouldn't agree, but they surprisingly said yes."
+   }
+  ]
+ },
+ {
+  "id": "g212",
+  "level": 3,
+  "title": "\"经过\" ile \"...-den geçerek, ...sonucunda\"",
+  "titleEn": "Expressing \"through\" with \"jingguo\"",
+  "pattern": "经过 + Olay / Süre，...",
+  "summary": "\"经过\" (jīngguò) bir SÜREÇTEN/aşamadan geçmeyi bildirir: 经过努力 = çabanın ardından; 经过这里 = buradan geçerek.",
+  "explanation": "\"经过\" bir eylemin/sonucun bir SÜREÇTEN, aşamadan ya da yerden GEÇEREK gerçekleştiğini bildirir: \"...-den geçerek, ...sonucunda, ...-in ardından\". İki kullanımı: (1) Soyut süreç/deneyim — 经过多年的努力,他终于成功了 (Yıllarca uğraştıktan sonra sonunda başardı), 经过这件事,我成长了很多 (Bu olaydan sonra çok olgunlaştım). (2) Somut mekândan geçiş — 每天上班都要经过这座桥 (Her gün işe giderken bu köprüden geçerim). Cümle başında bir süreç/koşul çerçevesi kurar ve ardından sonuç gelir. Ayrıca isim olarak \"süreç, geçiş, olayın gelişimi\" anlamına da gelir (事情的经过 = olayın gelişimi). Türkçedeki \"...-den geçerek, ...sonucunda, ...-in ardından, ...-den sonra\" ifadelerine denk gelir; bir süreci ve sonucunu vurgulamada kullanılır.",
+  "examples": [
+   {
+    "zh": "经过三年的刻苦学习,他终于考上了心仪的大学。",
+    "pinyin": "Jīng guò sān nián de kè kǔ xué xí, tā zhōng yú kǎo shàng le xīn yí de dà xué。",
+    "en": "After three years of hard study, he finally got into his dream university."
+   },
+   {
+    "zh": "经过大家的共同努力,这个难题终于解决了。",
+    "pinyin": "Jīng guò dà jiā de gòng tóng nǔ lì, zhè ge nán tí zhōng yú jiě jué le。",
+    "en": "Through everyone's joint effort, this tough problem was finally solved."
+   },
+   {
+    "zh": "每天上班,我都要经过这座古老的石桥。",
+    "pinyin": "Měi tiān shàng bān, wǒ dōu yào jīng guò zhè zuò gǔ lǎo de shí qiáo。",
+    "en": "Every day to work, I pass this ancient stone bridge."
+   },
+   {
+    "zh": "经过一番激烈的讨论,双方终于达成了一致。",
+    "pinyin": "Jīng guò yī fān jī liè de tǎo lùn, shuāng fāng zhōng yú dá chéng le yí zhì。",
+    "en": "After a heated discussion, both sides finally reached agreement."
+   },
+   {
+    "zh": "经过这次失败,他明白了许多以前不懂的道理。",
+    "pinyin": "Jīng guò zhè cì shī bài, tā míng bái le xǔ duō yǐ qián bù dǒng de dào lǐ。",
+    "en": "After this failure, he understood many things he hadn't before."
+   },
+   {
+    "zh": "这趟火车经过好几个城市,最后才到达终点站。",
+    "pinyin": "Zhè tàng huǒ chē jīng guò hǎo jǐ gè chéng shì, zuì hòu cái dào dá zhōng diǎn zhàn。",
+    "en": "This train passes several cities before reaching its final stop."
+   },
+   {
+    "zh": "经过医生的精心治疗,病人的情况一天天好转。",
+    "pinyin": "Jīng guò yī shēng de jīng xīn zhì liáo, bìng rén de qíng kuàng yī tiān tiān hǎo zhuǎn。",
+    "en": "After the doctor's careful treatment, the patient improved daily."
+   },
+   {
+    "zh": "经过长时间的观察,科学家们得出了新的结论。",
+    "pinyin": "Jīng guò zhǎng shí jiān de guān chá, kē xué jiā men dé chū le xīn de jié lùn。",
+    "en": "After long observation, the scientists reached a new conclusion."
+   },
+   {
+    "zh": "那条小路经过一片树林,一直通到山脚下。",
+    "pinyin": "Nà tiáo xiǎo lù jīng guò yī piàn shù lín, yì zhí tōng dào shān jiǎo xià。",
+    "en": "That path passes through a wood and leads to the mountain's foot."
+   },
+   {
+    "zh": "经过反复的试验和修改,产品的质量提高了不少。",
+    "pinyin": "Jīng guò fǎn fù de shì yàn hé xiū gǎi, chǎn pǐn de zhì liàng tí gāo le bù shǎo。",
+    "en": "After repeated testing and revision, product quality improved a lot."
+   },
+   {
+    "zh": "经过这么多年的风风雨雨,他们的感情反而更深了。",
+    "pinyin": "Jīng guò zhè me duō nián de fēng fēng yǔ yǔ, tā men de gǎn qíng fǎn ér gēng shēn le。",
+    "en": "After so many years of storms, their bond only deepened."
+   },
+   {
+    "zh": "我们经过市中心的时候,正好赶上了下班高峰。",
+    "pinyin": "Wǒ men jīng guò shì zhōng xīn de shí hòu, zhèng hǎo gǎn shàng le xià bān gāo fēng。",
+    "en": "Passing downtown, we happened to hit the rush hour."
+   },
+   {
+    "zh": "经过一夜的思考,他终于做出了艰难的决定。",
+    "pinyin": "Jīng guò yī yè de sī kǎo, tā zhōng yú zuò chū le jiān nán de jué dìng。",
+    "en": "After a night of thought, he finally made a hard decision."
+   },
+   {
+    "zh": "这件事经过他这么一解释,大家才恍然大悟。",
+    "pinyin": "Zhè jiàn shì jīng guò tā zhè me yī jiě shì, dà jiā cái huǎng rán dà wù。",
+    "en": "After his explanation, everyone suddenly understood."
+   },
+   {
+    "zh": "经过精心的准备,这场演出取得了圆满的成功。",
+    "pinyin": "Jīng guò jīng xīn de zhǔn bèi, zhè chǎng yǎn chū qǔ de le yuán mǎn de chéng gōng。",
+    "en": "After careful preparation, the show was a complete success."
+   },
+   {
+    "zh": "河水经过几道弯,缓缓地流向远方的大海。",
+    "pinyin": "Hé shuǐ jīng guò jǐ dào wān, huǎn huǎn de liú xiàng yuǎn fāng de dà hǎi。",
+    "en": "The river winds through several bends toward the distant sea."
+   },
+   {
+    "zh": "经过一段时间的相处,我发现他其实很善良。",
+    "pinyin": "Jīng guò yī duàn shí jiān de xiāng chǔ, wǒ fā xiàn tā qí shí hěn shàn liáng。",
+    "en": "After spending time together, I found he's actually very kind."
+   },
+   {
+    "zh": "经过严格的挑选,他终于被这家公司录用了。",
+    "pinyin": "Jīng guò yán gé de tiāo xuǎn, tā zhōng yú bèi zhè jiā gōng sī lù yòng le。",
+    "en": "After strict selection, he was finally hired by this company."
+   },
+   {
+    "zh": "这封信经过很多人的手,才最终送到了他那里。",
+    "pinyin": "Zhè fēng xìn jīng guò hěn duō rén de shǒu, cái zuì zhōng sòng dào le tā nà lǐ。",
+    "en": "This letter passed through many hands before reaching him."
+   },
+   {
+    "zh": "经过这场大病,他更加懂得珍惜眼前的一切。",
+    "pinyin": "Jīng guò zhè chǎng dà bìng, tā gèng jiā dǒng de zhēn xī yǎn qián de yī qiè。",
+    "en": "After this serious illness, he cherishes everything before him more."
+   },
+   {
+    "zh": "经过一路的颠簸,我们终于到达了那个偏远的小村。",
+    "pinyin": "Jīng guò yī lù de diān bǒ, wǒ men zhōng yú dào dá le nà ge piān yuǎn de xiǎo cūn。",
+    "en": "After a bumpy journey, we finally reached the remote village."
+   },
+   {
+    "zh": "经过老师的耐心指导,他的成绩有了明显的进步。",
+    "pinyin": "Jīng guò lǎo shī de nài xīn zhǐ dǎo, tā de chéng jì yǒu le míng xiǎn de jìn bù。",
+    "en": "With the teacher's patient guidance, his grades improved markedly."
+   },
+   {
+    "zh": "我把事情的经过原原本本地告诉了大家。",
+    "pinyin": "Wǒ bǎ shì qíng de jīng guò yuán yuán běn běn dì gào sù le dà jiā。",
+    "en": "I told everyone the whole course of events, just as it happened."
+   },
+   {
+    "zh": "经过一番努力,他们终于把走失的小狗找了回来。",
+    "pinyin": "Jīng guò yī fān nǔ lì, tā men zhōng yú bǎ zǒu shī de xiǎo gǒu zhǎo le huí lái。",
+    "en": "After some effort, they finally found the lost puppy."
+   },
+   {
+    "zh": "经过这次教训,他做事比以前谨慎多了。",
+    "pinyin": "Jīng guò zhè cì jiào xùn, tā zuò shì bǐ yǐ qián jǐn shèn duō le。",
+    "en": "After this lesson, he's far more cautious than before."
+   }
+  ]
+ },
+ {
+  "id": "g213",
+  "level": 3,
+  "title": "\"通过\" ile \"... yoluyla, ... aracılığıyla\"",
+  "titleEn": "Expressing \"through\" with \"tongguo\"",
+  "pattern": "通过 + Yöntem / Aracı，...",
+  "summary": "\"通过\" (tōngguò) bir yöntemi/aracıyı gösterir: 通过努力 = çaba yoluyla; 通过朋友 = bir arkadaş aracılığıyla.",
+  "explanation": "\"通过\" bir amaca ulaşmak için kullanılan YÖNTEMİ, aracı ya da aracıyı belirtir: \"... yoluyla, ... aracılığıyla, ... sayesinde, ... ile\". 通过努力,他改变了自己的命运 (Çaba yoluyla kaderini değiştirdi), 我是通过朋友认识他的 (Onu bir arkadaş aracılığıyla tanıdım), 通过这次活动,大家增进了了解(Bu etkinlik sayesinde birbirini daha iyi tanıdı). Cümle başında bir araç/yöntem çerçevesi kurar. \"经过\" ile farkı: \"经过\" bir SÜREÇTEN geçmeyi (aşama/deneyim), \"通过\" ise bir ARACI/yöntemi (bir şeyi kullanarak) vurgular. \"通过\" ayrıca \"(sınav/onay) geçmek\" fiili olarak da kullanılır: 通过考试 (sınavı geçmek), 提案通过了 (öneri kabul edildi). Türkçedeki \"... yoluyla, ... aracılığıyla, ... sayesinde, ... ile\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他通过自己的不懈努力,最终实现了创业的梦想。",
+    "pinyin": "Tā tōng guò zì jǐ de bù xiè nǔ lì, zuì zhōng shí xiàn le chuàng yè de mèng xiǎng。",
+    "en": "Through his tireless effort, he finally realized his business dream."
+   },
+   {
+    "zh": "我是通过一个共同的朋友认识她的。",
+    "pinyin": "Wǒ shì tōng guò yí gè gòng tóng de péng yǒu rèn shí tā de。",
+    "en": "I met her through a mutual friend."
+   },
+   {
+    "zh": "通过这次活动,同学之间的关系更加融洽了。",
+    "pinyin": "Tōng guò zhè cì huó dòng, tóng xué zhī jiān de guān xì gèng jiā róng qià le。",
+    "en": "Through this event, the students' relationships became more harmonious."
+   },
+   {
+    "zh": "我们可以通过多读书来开阔自己的眼界。",
+    "pinyin": "Wǒ men kě yǐ tōng guò duō dú shū lái kāi kuò zì jǐ de yǎn jiè。",
+    "en": "We can broaden our horizons through reading more."
+   },
+   {
+    "zh": "通过反复练习,他的口语水平提高得很快。",
+    "pinyin": "Tōng guò fǎn fù liàn xí, tā de kǒu yǔ shuǐ píng tí gāo de hěn kuài。",
+    "en": "Through repeated practice, his speaking improved quickly."
+   },
+   {
+    "zh": "政府通过一系列措施来改善居民的生活。",
+    "pinyin": "Zhèng fǔ tōng guò yī xì liè cuò shī lái gǎi shàn jū mín de shēng huó。",
+    "en": "The government improves residents' lives through a series of measures."
+   },
+   {
+    "zh": "经过几个月的复习,他顺利通过了那场重要的考试。",
+    "pinyin": "Jīng guò jǐ gè yuè de fù xí, tā shùn lì tōng guò le nà chǎng zhòng yào de kǎo shì。",
+    "en": "After months of review, he passed that important exam smoothly."
+   },
+   {
+    "zh": "通过网络,人们可以很方便地了解世界各地的新闻。",
+    "pinyin": "Tōng guò wǎng luò, rén men kě yǐ hěn fāng biàn de liǎo jiě shì jiè gè dì de xīn wén。",
+    "en": "Through the internet, people can easily learn news from around the world."
+   },
+   {
+    "zh": "我们通过协商解决了分歧,避免了不必要的冲突。",
+    "pinyin": "Wǒ men tōng guò xié shāng jiě jué le fēn qí, bì miǎn le bù bì yào de chōng tū。",
+    "en": "We resolved differences through negotiation, avoiding needless conflict."
+   },
+   {
+    "zh": "他通过写日记来记录自己每天的所思所想。",
+    "pinyin": "Tā tōng guò xiě rì jì lái jì lù zì jǐ měi tiān de suǒ sī suǒ xiǎng。",
+    "en": "He records his daily thoughts by keeping a diary."
+   },
+   {
+    "zh": "这个提案在会上通过了,大家都表示支持。",
+    "pinyin": "Zhè ge tí àn zài huì shàng tōng guò le, dà jiā dōu biǎo shì zhī chí。",
+    "en": "This proposal passed at the meeting, with everyone's support."
+   },
+   {
+    "zh": "通过这件事,我看清了谁才是真正的朋友。",
+    "pinyin": "Tōng guò zhè jiàn shì, wǒ kàn qīng le shuí cái shì zhēn zhèng de péng yǒu。",
+    "en": "Through this, I saw clearly who my true friends are."
+   },
+   {
+    "zh": "老师通过做实验,让抽象的知识变得生动易懂。",
+    "pinyin": "Lǎo shī tōng guò zuò shí yàn, ràng chōu xiàng de zhī shí biàn de shēng dòng yì dǒng。",
+    "en": "The teacher makes abstract knowledge vivid through experiments."
+   },
+   {
+    "zh": "你可以通过手机随时随地处理工作上的事情。",
+    "pinyin": "Nǐ kě yǐ tōng guò shǒu jī suí shí suí de chǔ lǐ gōng zuò shàng de shì qíng。",
+    "en": "You can handle work anytime, anywhere through your phone."
+   },
+   {
+    "zh": "通过和当地人交流,我们更加了解了这座城市。",
+    "pinyin": "Tōng guò hé dāng dì rén jiāo liú, wǒ men gèng jiā liǎo jiě le zhè zuò chéng shì。",
+    "en": "By talking with locals, we came to understand this city better."
+   },
+   {
+    "zh": "他通过卖自己种的蔬菜,渐渐改善了家里的生活。",
+    "pinyin": "Tā tōng guò mài zì jǐ zhǒng de shū cài, jiàn jiàn gǎi shàn le jiā lǐ de shēng huó。",
+    "en": "By selling his own vegetables, he gradually improved his family's life."
+   },
+   {
+    "zh": "通过大量的调查,他们终于找到了问题的根源。",
+    "pinyin": "Tōng guò dà liàng de diào chá, tā men zhōng yú zhǎo dào le wèn tí de gēn yuán。",
+    "en": "Through extensive investigation, they found the root of the problem."
+   },
+   {
+    "zh": "我们希望通过合作实现互利共赢。",
+    "pinyin": "Wǒ men xī wàng tōng guò hé zuò shí xiàn hù lì gòng yíng。",
+    "en": "We hope to achieve mutual benefit through cooperation."
+   },
+   {
+    "zh": "通过坚持锻炼,他的身体一天比一天结实。",
+    "pinyin": "Tōng guò jiān chí duàn liàn, tā de shēn tǐ yī tiān bǐ yī tiān jiē shí。",
+    "en": "Through persistent exercise, his body grows sturdier by the day."
+   },
+   {
+    "zh": "这些资金将通过正规的渠道发放到每个人手中。",
+    "pinyin": "Zhè xiē zī jīn jiāng tōng guò zhèng guī de qú dào fā fàng dào měi gè rén shǒu zhōng。",
+    "en": "These funds will be distributed to everyone through formal channels."
+   },
+   {
+    "zh": "孩子通过观察小动物,学到了很多课本上没有的知识。",
+    "pinyin": "Hái zi tōng guò guān chá xiǎo dòng wù, xué dào le hěn duō kè běn shàng méi yǒu de zhī shí。",
+    "en": "By observing animals, the child learned much beyond textbooks."
+   },
+   {
+    "zh": "他通过一次次失败,慢慢积累了宝贵的经验。",
+    "pinyin": "Tā tōng guò yī cì cì shī bài, màn màn jī lěi le bǎo guì de jīng yàn。",
+    "en": "Through repeated failures, he gradually gained valuable experience."
+   },
+   {
+    "zh": "通过这次谈话,我们消除了长久以来的误会。",
+    "pinyin": "Tōng guò zhè cì tán huà, wǒ men xiāo chú le cháng jiǔ yǐ lái de wù huì。",
+    "en": "Through this talk, we cleared up a long-standing misunderstanding."
+   },
+   {
+    "zh": "公司通过降低成本、提高效率来增强竞争力。",
+    "pinyin": "Gōng sī tōng guò jiàng dī chéng běn、 tí gāo xiào lǜ lái zēng qiáng jìng zhēng lì。",
+    "en": "The company boosts competitiveness by cutting costs and raising efficiency."
+   },
+   {
+    "zh": "我们要通过实际行动来证明自己的能力。",
+    "pinyin": "Wǒ men yào tōng guò shí jì xíng dòng lái zhèng míng zì jǐ de néng lì。",
+    "en": "We must prove our abilities through concrete action."
+   }
+  ]
+ },
+ {
+  "id": "g214",
+  "level": 3,
+  "title": "\"来自\" ile \"...-den gelmek, ...-lı olmak\"",
+  "titleEn": "Expressing \"to come from\" with \"laizi\"",
+  "pattern": "Özne + 来自 + Yer / Kaynak",
+  "summary": "\"来自\" (láizì) bir kişinin/şeyin kaynağını/kökenini bildirir: 他来自北京 = O Pekinli (Pekin'den geliyor).",
+  "explanation": "\"来自\" bir kişinin, şeyin ya da soyut bir şeyin KAYNAĞINI, geldiği yeri/kökeni bildirir: \"...-den gelmek, ...-li olmak, kaynağı ...-dir\". 这些学生来自世界各地 (Bu öğrenciler dünyanın dört bir yanından geliyor), 他来自一个普通的农村家庭 (Sıradan bir köylü ailesinden geliyor), 这份力量来自家人的支持 (Bu güç ailenin desteğinden geliyor). \"来\" (gelmek) + \"自\" (...-den) birleşiminden oluşur ve ardından doğrudan yer/kaynak gelir (araya \"从\" gerekmez). Somut yer (来自中国), soyut kaynak (来自内心) ya da nedensel köken için kullanılır; genelde biraz RESMÎ/yazılı tonu vardır. Türkçedeki \"...-den gelmek, ...-li olmak, ...-den kaynaklanmak, kökeni ...\" ifadelerine denk gelir; köken ve kaynak belirtmenin düzgün bir yoludur.",
+  "examples": [
+   {
+    "zh": "参加这次夏令营的孩子来自全国各地。",
+    "pinyin": "Cān jiā zhè cì xià lìng yíng de hái zi lái zì quán guó gè dì。",
+    "en": "The children at this summer camp come from all over the country."
+   },
+   {
+    "zh": "他来自一个偏远的小山村,却凭努力走进了名牌大学。",
+    "pinyin": "Tā lái zì yí gè piān yuǎn de xiǎo shān cūn, què píng nǔ lì zǒu jìn le míng pái dà xué。",
+    "en": "He comes from a remote mountain village, yet reached a top university through effort."
+   },
+   {
+    "zh": "这些新鲜的水果全都来自当地的果园。",
+    "pinyin": "Zhè xiē xīn xiān de shuǐ guǒ quán dōu lái zì dāng dì de guǒ yuán。",
+    "en": "All this fresh fruit comes from local orchards."
+   },
+   {
+    "zh": "我们班的同学来自不同的国家,文化各不相同。",
+    "pinyin": "Wǒ men bān de tóng xué lái zì bù tóng de guó jiā, wén huà gè bù xiāng tóng。",
+    "en": "Our classmates come from different countries with different cultures."
+   },
+   {
+    "zh": "他成功的动力,主要来自家人无条件的支持。",
+    "pinyin": "Tā chéng gōng de dòng lì, zhǔ yào lái zì jiā rén wú tiáo jiàn de zhī chí。",
+    "en": "The drive behind his success comes mainly from his family's unconditional support."
+   },
+   {
+    "zh": "这位科学家来自一个世代从医的家庭。",
+    "pinyin": "Zhè wèi kē xué jiā lái zì yí gè shì dài cóng yī de jiā tíng。",
+    "en": "This scientist comes from a family of physicians for generations."
+   },
+   {
+    "zh": "这封感谢信来自一位素不相识的陌生人。",
+    "pinyin": "Zhè fēng gǎn xiè xìn lái zì yī wèi sù bù xiāng shí de mò shēng rén。",
+    "en": "This thank-you letter came from a complete stranger."
+   },
+   {
+    "zh": "真正的自信来自一次次战胜困难的经历。",
+    "pinyin": "Zhēn zhèng de zì xìn lái zì yī cì cì zhàn shèng kùn nán de jīng lì。",
+    "en": "True confidence comes from overcoming difficulties time and again."
+   },
+   {
+    "zh": "这批捐款来自社会各界热心人士的爱心。",
+    "pinyin": "Zhè pī juān kuǎn lái zì shè huì gè jiè rè xīn rén shì de ài xīn。",
+    "en": "This donation came from the kindness of caring people from all walks of life."
+   },
+   {
+    "zh": "他身上那股韧劲,或许来自小时候艰苦的生活。",
+    "pinyin": "Tā shēn shàng nà gǔ rèn jìn, huò xǔ lái zì xiǎo shí hòu jiān kǔ de shēng huó。",
+    "en": "His tenacity perhaps comes from his hard childhood."
+   },
+   {
+    "zh": "这些珍贵的文物大多来自几千年前的古代。",
+    "pinyin": "Zhè xiē zhēn guì de wén wù dà duō lái zì jǐ qiān nián qián de gǔ dài。",
+    "en": "These precious relics mostly date from thousands of years ago."
+   },
+   {
+    "zh": "我的很多灵感都来自平时对生活的细心观察。",
+    "pinyin": "Wǒ de hěn duō líng gǎn dōu lái zì píng shí duì shēng huó de xì xīn guān chá。",
+    "en": "Much of my inspiration comes from careful observation of daily life."
+   },
+   {
+    "zh": "这家餐厅的厨师来自四川,做的川菜特别正宗。",
+    "pinyin": "Zhè jiā cān tīng de chú shī lái zì sì chuān, zuò de chuān cài tè bié zhèng zōng。",
+    "en": "This restaurant's chef is from Sichuan; his Sichuan food is authentic."
+   },
+   {
+    "zh": "温暖有时候来自一个陌生人小小的善意。",
+    "pinyin": "Wēn nuǎn yǒu shí hòu lái zì yí gè mò shēng rén xiǎo xiǎo de shàn yì。",
+    "en": "Warmth sometimes comes from a stranger's small kindness."
+   },
+   {
+    "zh": "参会的专家来自世界上多个知名的研究机构。",
+    "pinyin": "Cān huì de zhuān jiā lái zì shì jiè shàng duō gè zhī míng de yán jiū jī gòu。",
+    "en": "The attending experts come from several renowned research institutions."
+   },
+   {
+    "zh": "这道菜的独特风味来自一种特别的香料。",
+    "pinyin": "Zhè dào cài de dú tè fēng wèi lái zì yī zhǒng tè bié de xiāng liào。",
+    "en": "This dish's unique flavor comes from a special spice."
+   },
+   {
+    "zh": "他内心的平静来自多年读书养成的好习惯。",
+    "pinyin": "Tā nèi xīn de píng jìng lái zì duō nián dú shū yǎng chéng de hǎo xí guàn。",
+    "en": "His inner calm comes from good habits formed by years of reading."
+   },
+   {
+    "zh": "这些留学生来自五湖四海,却在这里成了好朋友。",
+    "pinyin": "Zhè xiē liú xué shēng lái zì wǔ hú sì hǎi, què zài zhè lǐ chéng le hǎo péng yǒu。",
+    "en": "These international students come from all corners yet became good friends here."
+   },
+   {
+    "zh": "我们的快乐,很多时候来自帮助别人的过程。",
+    "pinyin": "Wǒ men de kuài lè, hěn duō shí hòu lái zì bāng zhù bié rén de guò chéng。",
+    "en": "Our happiness often comes from the process of helping others."
+   },
+   {
+    "zh": "这条河的水来自远处高山上融化的积雪。",
+    "pinyin": "Zhè tiáo hé de shuǐ lái zì yuǎn chù gāo shān shàng róng huà de jī xuě。",
+    "en": "This river's water comes from melting snow on distant mountains."
+   },
+   {
+    "zh": "他对音乐的热爱,来自母亲从小的熏陶。",
+    "pinyin": "Tā duì yīn yuè de rè ài, lái zì mǔ qīn cóng xiǎo de xūn táo。",
+    "en": "His love of music comes from his mother's influence since childhood."
+   },
+   {
+    "zh": "这个古老的传说来自当地流传已久的民间故事。",
+    "pinyin": "Zhè ge gǔ lǎo de chuán shuō lái zì dāng dì liú chuán yǐ jiǔ de mín jiān gù shì。",
+    "en": "This ancient legend comes from a long-told local folk tale."
+   },
+   {
+    "zh": "公司的活力主要来自一群充满创造力的年轻人。",
+    "pinyin": "Gōng sī de huó lì zhǔ yào lái zì yī qún chōng mǎn chuàng zào lì de nián qīng rén。",
+    "en": "The company's vitality comes mainly from a group of creative young people."
+   },
+   {
+    "zh": "面对困难时的勇气,往往来自身边人的鼓励。",
+    "pinyin": "Miàn duì kùn nán shí de yǒng qì, wǎng wǎng lái zì shēn biān rén de gǔ lì。",
+    "en": "The courage to face difficulty often comes from those around us."
+   },
+   {
+    "zh": "这份礼物虽然不贵,却来自一份最真诚的心意。",
+    "pinyin": "Zhè fèn lǐ wù suī rán bù guì, què lái zì yī fèn zuì zhēn chéng de xīn yì。",
+    "en": "Though the gift isn't expensive, it comes from the most sincere heart."
+   }
+  ]
  }
 ]

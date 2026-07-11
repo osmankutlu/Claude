@@ -2446,5 +2446,685 @@
     "en": "It's a bit cold in the car, put on your coat."
    }
   ]
+ },
+ {
+  "id": "g019",
+  "level": 1,
+  "title": "\"有\" ile mülkiyet belirtme",
+  "titleEn": "Expressing possession with \"you\"",
+  "pattern": "Özne + 有 + Nesne",
+  "summary": "\"有\" (yǒu) bir kişinin bir şeye sahip olduğunu belirtir: 我有一辆车 = Benim bir arabam var.",
+  "explanation": "\"有\" hem \"sahip olmak\" hem \"var olmak\" fiilidir. Mülkiyet anlamında kalıp: Özne + 有 + nesne. Türkçe'deki \"...m var\" yapısına karşılık gelir. Olumsuzu istisnai olarak \"不\" değil her zaman \"没有\"'dur: 我没有车 (arabam yok). Soru için ya sona \"吗\" ya da \"有没有\" kalıbı kullanılır: 你有没有时间? (vaktin var mı?).",
+  "examples": [
+   {
+    "zh": "我有一个很大的梦想。",
+    "pinyin": "Wǒ yǒu yí ge hěn dà de mèngxiǎng.",
+    "en": "I have a big dream."
+   },
+   {
+    "zh": "你有没有兄弟姐妹？",
+    "pinyin": "Nǐ yǒu méiyǒu xiōngdì jiěmèi?",
+    "en": "Do you have any siblings?"
+   },
+   {
+    "zh": "他有一辆很旧的自行车。",
+    "pinyin": "Tā yǒu yí liàng hěn jiù de zìxíngchē.",
+    "en": "He has a very old bicycle."
+   },
+   {
+    "zh": "我现在没有时间,我们晚点再说。",
+    "pinyin": "Wǒ xiànzài méiyǒu shíjiān, wǒmen wǎndiǎn zài shuō.",
+    "en": "I don't have time now, let's talk later."
+   },
+   {
+    "zh": "她有一双很漂亮的眼睛。",
+    "pinyin": "Tā yǒu yì shuāng hěn piàoliang de yǎnjing.",
+    "en": "She has a pair of very beautiful eyes."
+   },
+   {
+    "zh": "我们有一个共同的爱好。",
+    "pinyin": "Wǒmen yǒu yí ge gòngtóng de àihào.",
+    "en": "We have a common hobby."
+   },
+   {
+    "zh": "这家公司有很长的历史。",
+    "pinyin": "Zhè jiā gōngsī yǒu hěn cháng de lìshǐ.",
+    "en": "This company has a long history."
+   },
+   {
+    "zh": "你有什么好办法解决这个问题吗？",
+    "pinyin": "Nǐ yǒu shénme hǎo bànfǎ jiějué zhège wèntí ma?",
+    "en": "Do you have any good way to solve this problem?"
+   },
+   {
+    "zh": "他有很多朋友,可是没有几个知心的。",
+    "pinyin": "Tā yǒu hěn duō péngyou, kěshì méiyǒu jǐ ge zhīxīn de.",
+    "en": "He has many friends, but few close ones."
+   },
+   {
+    "zh": "我有一种感觉,今天会发生好事。",
+    "pinyin": "Wǒ yǒu yì zhǒng gǎnjué, jīntiān huì fāshēng hǎoshì.",
+    "en": "I have a feeling something good will happen today."
+   },
+   {
+    "zh": "每个人都有权利选择自己的生活。",
+    "pinyin": "Měi ge rén dōu yǒu quánlì xuǎnzé zìjǐ de shēnghuó.",
+    "en": "Everyone has the right to choose their own life."
+   },
+   {
+    "zh": "这个孩子有很好的音乐天分。",
+    "pinyin": "Zhège háizi yǒu hěn hǎo de yīnyuè tiānfèn.",
+    "en": "This child has great musical talent."
+   },
+   {
+    "zh": "我们有足够的时间准备考试。",
+    "pinyin": "Wǒmen yǒu zúgòu de shíjiān zhǔnbèi kǎoshì.",
+    "en": "We have enough time to prepare for the exam."
+   },
+   {
+    "zh": "他做事很有耐心,从不着急。",
+    "pinyin": "Tā zuòshì hěn yǒu nàixīn, cóng bù zháojí.",
+    "en": "He does things very patiently, never in a rush."
+   },
+   {
+    "zh": "你有没有想过将来做什么？",
+    "pinyin": "Nǐ yǒu méiyǒu xiǎngguò jiānglái zuò shénme?",
+    "en": "Have you ever thought about what to do in the future?"
+   },
+   {
+    "zh": "这件事我有不同的看法。",
+    "pinyin": "Zhè jiàn shì wǒ yǒu bùtóng de kànfǎ.",
+    "en": "I have a different view on this matter."
+   },
+   {
+    "zh": "他们家有一只养了十年的老狗。",
+    "pinyin": "Tāmen jiā yǒu yì zhī yǎng le shí nián de lǎo gǒu.",
+    "en": "Their family has an old dog they've kept for ten years."
+   },
+   {
+    "zh": "我对这份工作有很大的兴趣。",
+    "pinyin": "Wǒ duì zhè fèn gōngzuò yǒu hěn dà de xìngqù.",
+    "en": "I'm very interested in this job."
+   },
+   {
+    "zh": "她有一颗善良的心。",
+    "pinyin": "Tā yǒu yì kē shànliáng de xīn.",
+    "en": "She has a kind heart."
+   },
+   {
+    "zh": "我们有信心把这件事做好。",
+    "pinyin": "Wǒmen yǒu xìnxīn bǎ zhè jiàn shì zuòhǎo.",
+    "en": "We have the confidence to do this well."
+   },
+   {
+    "zh": "他有一个坏习惯,总是把东西乱放。",
+    "pinyin": "Tā yǒu yí ge huài xíguàn, zǒngshì bǎ dōngxi luàn fàng.",
+    "en": "He has a bad habit of leaving things all over the place."
+   },
+   {
+    "zh": "你有没有带够钱？这里比较贵。",
+    "pinyin": "Nǐ yǒu méiyǒu dài gòu qián? Zhèlǐ bǐjiào guì.",
+    "en": "Did you bring enough money? It's rather expensive here."
+   },
+   {
+    "zh": "这个计划有一个很明显的问题。",
+    "pinyin": "Zhège jìhuà yǒu yí ge hěn míngxiǎn de wèntí.",
+    "en": "This plan has an obvious problem."
+   },
+   {
+    "zh": "我有一句话不知道该不该说。",
+    "pinyin": "Wǒ yǒu yí jù huà bù zhīdào gāi bu gāi shuō.",
+    "en": "There's something I don't know whether I should say."
+   },
+   {
+    "zh": "只要还有希望,我们就不会放弃。",
+    "pinyin": "Zhǐyào hái yǒu xīwàng, wǒmen jiù bú huì fàngqì.",
+    "en": "As long as there's hope, we won't give up."
+   }
+  ]
+ },
+ {
+  "id": "g020",
+  "level": 1,
+  "title": "\"叫\" fiilinin kullanımı",
+  "titleEn": "Using the verb \"jiao\"",
+  "pattern": "Özne + 叫 + İsim",
+  "summary": "\"叫\" (jiào) tam adı söylemek veya birini çağırmak için kullanılır: 我叫李明 = Adım Li Ming.",
+  "explanation": "\"叫\" iki temel işlev görür: (1) İsim/tam ad bildirme: \"我叫王小明\" (adım Wang Xiaoming). Soyad + ad ya da sadece ad söylenebilir. Ad sormak için \"你叫什么名字?\". (2) Birini çağırmak/seslenmek: \"妈妈叫你回家\" (annen seni eve çağırıyor). Sadece soyad söylerken \"叫\" değil \"姓\" kullanılır (ayrı konu).",
+  "examples": [
+   {
+    "zh": "你好,我叫张伟,很高兴认识你。",
+    "pinyin": "Nǐ hǎo, wǒ jiào Zhāng Wěi, hěn gāoxìng rènshi nǐ.",
+    "en": "Hello, my name is Zhang Wei, nice to meet you."
+   },
+   {
+    "zh": "请问你叫什么名字？",
+    "pinyin": "Qǐngwèn nǐ jiào shénme míngzi?",
+    "en": "May I ask what your name is?"
+   },
+   {
+    "zh": "我家的小狗叫豆豆。",
+    "pinyin": "Wǒ jiā de xiǎogǒu jiào Dòudou.",
+    "en": "My family's puppy is called Doudou."
+   },
+   {
+    "zh": "妈妈叫你回家吃饭。",
+    "pinyin": "Māma jiào nǐ huíjiā chīfàn.",
+    "en": "Mom is calling you home for dinner."
+   },
+   {
+    "zh": "这种花叫什么名字？真好看。",
+    "pinyin": "Zhè zhǒng huā jiào shénme míngzi? Zhēn hǎokàn.",
+    "en": "What is this kind of flower called? It's so pretty."
+   },
+   {
+    "zh": "老师叫我明天去办公室找他。",
+    "pinyin": "Lǎoshī jiào wǒ míngtiān qù bàngōngshì zhǎo tā.",
+    "en": "The teacher told me to see him in the office tomorrow."
+   },
+   {
+    "zh": "我的中文名字叫李月。",
+    "pinyin": "Wǒ de Zhōngwén míngzi jiào Lǐ Yuè.",
+    "en": "My Chinese name is Li Yue."
+   },
+   {
+    "zh": "外面有人叫你,你去看看吧。",
+    "pinyin": "Wàimiàn yǒu rén jiào nǐ, nǐ qù kànkan ba.",
+    "en": "Someone is calling you outside, go take a look."
+   },
+   {
+    "zh": "他叫我别担心,一切都会好的。",
+    "pinyin": "Tā jiào wǒ bié dānxīn, yíqiè dōu huì hǎo de.",
+    "en": "He told me not to worry, everything will be fine."
+   },
+   {
+    "zh": "这道菜叫什么？我以前没吃过。",
+    "pinyin": "Zhè dào cài jiào shénme? Wǒ yǐqián méi chīguò.",
+    "en": "What is this dish called? I've never had it before."
+   },
+   {
+    "zh": "我们叫了一辆出租车去机场。",
+    "pinyin": "Wǒmen jiào le yí liàng chūzūchē qù jīchǎng.",
+    "en": "We called a taxi to go to the airport."
+   },
+   {
+    "zh": "他给儿子取的名字叫平安。",
+    "pinyin": "Tā gěi érzi qǔ de míngzi jiào Píng'ān.",
+    "en": "The name he gave his son is Ping'an."
+   },
+   {
+    "zh": "你叫他一声,他可能没听见。",
+    "pinyin": "Nǐ jiào tā yì shēng, tā kěnéng méi tīngjiàn.",
+    "en": "Call out to him, he might not have heard."
+   },
+   {
+    "zh": "这个地方叫什么？我第一次来。",
+    "pinyin": "Zhège dìfang jiào shénme? Wǒ dì yī cì lái.",
+    "en": "What is this place called? It's my first time here."
+   },
+   {
+    "zh": "经理叫大家下午三点开会。",
+    "pinyin": "Jīnglǐ jiào dàjiā xiàwǔ sān diǎn kāihuì.",
+    "en": "The manager told everyone to have a meeting at three."
+   },
+   {
+    "zh": "她叫我帮她照顾一下孩子。",
+    "pinyin": "Tā jiào wǒ bāng tā zhàogù yíxià háizi.",
+    "en": "She asked me to help look after her child."
+   },
+   {
+    "zh": "这只猫没有名字,你给它起一个吧。",
+    "pinyin": "Zhè zhī māo méiyǒu míngzi, nǐ gěi tā qǐ yí ge ba.",
+    "en": "This cat has no name, why don't you give it one."
+   },
+   {
+    "zh": "别叫我老师,叫我的名字就好。",
+    "pinyin": "Bié jiào wǒ lǎoshī, jiào wǒ de míngzi jiù hǎo.",
+    "en": "Don't call me teacher, just call me by my name."
+   },
+   {
+    "zh": "我叫了很多次,他才慢慢醒过来。",
+    "pinyin": "Wǒ jiào le hěn duō cì, tā cái mànman xǐng guòlái.",
+    "en": "I called many times before he slowly woke up."
+   },
+   {
+    "zh": "这种感觉说不清楚,我不知道该叫什么。",
+    "pinyin": "Zhè zhǒng gǎnjué shuō bu qīngchu, wǒ bù zhīdào gāi jiào shénme.",
+    "en": "This feeling is hard to describe, I don't know what to call it."
+   },
+   {
+    "zh": "孩子第一次叫爸爸的时候,他哭了。",
+    "pinyin": "Háizi dì yī cì jiào bàba de shíhou, tā kū le.",
+    "en": "When the child called him 'dad' for the first time, he cried."
+   },
+   {
+    "zh": "我们叫她小美,因为她长得很美。",
+    "pinyin": "Wǒmen jiào tā Xiǎoměi, yīnwèi tā zhǎng de hěn měi.",
+    "en": "We call her Xiaomei because she's very pretty."
+   },
+   {
+    "zh": "要是有事就叫我,我一直在旁边。",
+    "pinyin": "Yàoshi yǒu shì jiù jiào wǒ, wǒ yìzhí zài pángbiān.",
+    "en": "Call me if you need anything, I'll be right beside you."
+   },
+   {
+    "zh": "你知道这条河叫什么名字吗？",
+    "pinyin": "Nǐ zhīdào zhè tiáo hé jiào shénme míngzi ma?",
+    "en": "Do you know the name of this river?"
+   },
+   {
+    "zh": "他叫服务员再拿一双筷子。",
+    "pinyin": "Tā jiào fúwùyuán zài ná yì shuāng kuàizi.",
+    "en": "He asked the waiter to bring another pair of chopsticks."
+   }
+  ]
+ },
+ {
+  "id": "g021",
+  "level": 1,
+  "title": "\"去\" fiilinin kullanımı",
+  "titleEn": "Using the verb \"qu\"",
+  "pattern": "Özne + 去 + Yer",
+  "summary": "\"去\" (qù) bir yere gitmeyi anlatır: 我去学校 = Okula gidiyorum. Konuşandan uzağa doğru hareketi belirtir.",
+  "explanation": "\"去\", konuşan kişiden uzaklaşan bir hareketi anlatır (\"来\" lái tam tersi, konuşana doğru gelmeyi). Kalıp: Özne + 去 + yer. Ayrıca \"去\" + fiil kalıbıyla \"bir şey yapmaya gitmek\" anlamı verir: 我去买东西 (alışverişe gidiyorum). Yerden sonra amaç fiili gelebilir. Olumsuzu \"不去\" (gitmiyorum) veya geçmiş için \"没去\" (gitmedim).",
+  "examples": [
+   {
+    "zh": "我下午要去图书馆借几本书。",
+    "pinyin": "Wǒ xiàwǔ yào qù túshūguǎn jiè jǐ běn shū.",
+    "en": "I'm going to the library this afternoon to borrow some books."
+   },
+   {
+    "zh": "这个周末你去哪儿玩？",
+    "pinyin": "Zhège zhōumò nǐ qù nǎr wán?",
+    "en": "Where are you going to have fun this weekend?"
+   },
+   {
+    "zh": "他去北京出差了,下周才回来。",
+    "pinyin": "Tā qù Běijīng chūchāi le, xià zhōu cái huílái.",
+    "en": "He went to Beijing on business, he won't be back until next week."
+   },
+   {
+    "zh": "天气这么好,我们去公园走走吧。",
+    "pinyin": "Tiānqì zhème hǎo, wǒmen qù gōngyuán zǒuzou ba.",
+    "en": "The weather is so nice, let's go for a walk in the park."
+   },
+   {
+    "zh": "我妈妈每天早上去市场买菜。",
+    "pinyin": "Wǒ māma měitiān zǎoshang qù shìchǎng mǎi cài.",
+    "en": "My mom goes to the market to buy vegetables every morning."
+   },
+   {
+    "zh": "你想去哪个国家旅行？",
+    "pinyin": "Nǐ xiǎng qù nǎge guójiā lǚxíng?",
+    "en": "Which country do you want to travel to?"
+   },
+   {
+    "zh": "他病了,今天没去上班。",
+    "pinyin": "Tā bìng le, jīntiān méi qù shàngbān.",
+    "en": "He's sick, so he didn't go to work today."
+   },
+   {
+    "zh": "我们打算去南方过冬。",
+    "pinyin": "Wǒmen dǎsuàn qù nánfāng guòdōng.",
+    "en": "We plan to go south to spend the winter."
+   },
+   {
+    "zh": "孩子长大了,要去外地上大学。",
+    "pinyin": "Háizi zhǎngdà le, yào qù wàidì shàng dàxué.",
+    "en": "The child has grown up and is going to another city for university."
+   },
+   {
+    "zh": "我这就去,你在这里等我。",
+    "pinyin": "Wǒ zhè jiù qù, nǐ zài zhèlǐ děng wǒ.",
+    "en": "I'll go right now, wait for me here."
+   },
+   {
+    "zh": "下班以后我要去接孩子。",
+    "pinyin": "Xiàbān yǐhòu wǒ yào qù jiē háizi.",
+    "en": "After work I have to go pick up my child."
+   },
+   {
+    "zh": "你去过长城吗？听说很壮观。",
+    "pinyin": "Nǐ qùguò Chángchéng ma? Tīngshuō hěn zhuàngguān.",
+    "en": "Have you been to the Great Wall? I heard it's magnificent."
+   },
+   {
+    "zh": "我不想一个人去,你陪我去吧。",
+    "pinyin": "Wǒ bù xiǎng yí ge rén qù, nǐ péi wǒ qù ba.",
+    "en": "I don't want to go alone, come with me."
+   },
+   {
+    "zh": "他每年都会去看望乡下的爷爷奶奶。",
+    "pinyin": "Tā měinián dōu huì qù kànwàng xiāngxià de yéye nǎinai.",
+    "en": "He visits his grandparents in the countryside every year."
+   },
+   {
+    "zh": "我们先去吃饭,然后去看电影。",
+    "pinyin": "Wǒmen xiān qù chīfàn, ránhòu qù kàn diànyǐng.",
+    "en": "Let's first go eat, then go watch a movie."
+   },
+   {
+    "zh": "外面下雨了,今天就别去了吧。",
+    "pinyin": "Wàimiàn xiàyǔ le, jīntiān jiù bié qù le ba.",
+    "en": "It's raining outside, let's not go today."
+   },
+   {
+    "zh": "她去医院看了看生病的朋友。",
+    "pinyin": "Tā qù yīyuàn kàn le kàn shēngbìng de péngyou.",
+    "en": "She went to the hospital to see her sick friend."
+   },
+   {
+    "zh": "如果你有空,我们一起去爬山吧。",
+    "pinyin": "Rúguǒ nǐ yǒu kòng, wǒmen yìqǐ qù páshān ba.",
+    "en": "If you're free, let's go hiking together."
+   },
+   {
+    "zh": "我去了很多地方,还是觉得家里最好。",
+    "pinyin": "Wǒ qù le hěn duō dìfang, háishì juéde jiā lǐ zuì hǎo.",
+    "en": "I've been to many places, but still think home is best."
+   },
+   {
+    "zh": "他决定去大城市寻找机会。",
+    "pinyin": "Tā juédìng qù dà chéngshì xúnzhǎo jīhuì.",
+    "en": "He decided to go to the big city to look for opportunities."
+   },
+   {
+    "zh": "你去哪儿我都跟着你。",
+    "pinyin": "Nǐ qù nǎr wǒ dōu gēnzhe nǐ.",
+    "en": "Wherever you go, I'll follow you."
+   },
+   {
+    "zh": "明天我要去参加一个很重要的面试。",
+    "pinyin": "Míngtiān wǒ yào qù cānjiā yí ge hěn zhòngyào de miànshì.",
+    "en": "Tomorrow I'm going to an important interview."
+   },
+   {
+    "zh": "我们不能总是待在家里,该出去走走了。",
+    "pinyin": "Wǒmen bù néng zǒngshì dāi zài jiā lǐ, gāi chūqù zǒuzou le.",
+    "en": "We can't always stay home, it's time to go out."
+   },
+   {
+    "zh": "他每天下班后都去健身房锻炼。",
+    "pinyin": "Tā měitiān xiàbān hòu dōu qù jiànshēnfáng duànliàn.",
+    "en": "He goes to the gym to work out after work every day."
+   },
+   {
+    "zh": "这条路我从来没去过,我们看看地图吧。",
+    "pinyin": "Zhè tiáo lù wǒ cónglái méi qùguò, wǒmen kànkan dìtú ba.",
+    "en": "I've never taken this road, let's check the map."
+   }
+  ]
+ },
+ {
+  "id": "g022",
+  "level": 1,
+  "title": "\"姓\" fiilinin kullanımı",
+  "titleEn": "Using the verb \"xing\"",
+  "pattern": "Özne + 姓 + Soyadı",
+  "summary": "\"姓\" (xìng) soyadı bildirmek için kullanılır: 我姓王 = Soyadım Wang. Sadece soyadı ile birlikte kullanılır.",
+  "explanation": "\"姓\" özellikle SOYADI söylemek için kullanılan bir fiildir ve sadece soyad alır — tam ad için \"叫\" kullanılır. \"我姓李\" (soyadım Li) doğru, ama \"我姓李明\" yanlıştır (bu durumda \"我叫李明\" denir). Soyad sormak için: \"您贵姓?\" (kibar) veya \"你姓什么?\". Cevap genellikle \"我姓 + soyad\" şeklindedir.",
+  "examples": [
+   {
+    "zh": "您好,请问您贵姓？",
+    "pinyin": "Nín hǎo, qǐngwèn nín guìxìng?",
+    "en": "Hello, may I ask your surname?"
+   },
+   {
+    "zh": "我姓王,叫王小明。",
+    "pinyin": "Wǒ xìng Wáng, jiào Wáng Xiǎomíng.",
+    "en": "My surname is Wang, my name is Wang Xiaoming."
+   },
+   {
+    "zh": "我们的新老师姓李。",
+    "pinyin": "Wǒmen de xīn lǎoshī xìng Lǐ.",
+    "en": "Our new teacher's surname is Li."
+   },
+   {
+    "zh": "他姓张,是我以前的同事。",
+    "pinyin": "Tā xìng Zhāng, shì wǒ yǐqián de tóngshì.",
+    "en": "His surname is Zhang, he's my former colleague."
+   },
+   {
+    "zh": "你姓什么？我好像忘了。",
+    "pinyin": "Nǐ xìng shénme? Wǒ hǎoxiàng wàng le.",
+    "en": "What's your surname? I seem to have forgotten."
+   },
+   {
+    "zh": "在中国,姓王的人非常多。",
+    "pinyin": "Zài Zhōngguó, xìng Wáng de rén fēicháng duō.",
+    "en": "In China, there are very many people surnamed Wang."
+   },
+   {
+    "zh": "这位客人姓陈,是从上海来的。",
+    "pinyin": "Zhè wèi kèrén xìng Chén, shì cóng Shànghǎi lái de.",
+    "en": "This guest's surname is Chen, he's from Shanghai."
+   },
+   {
+    "zh": "我爸爸姓刘,我妈妈姓林。",
+    "pinyin": "Wǒ bàba xìng Liú, wǒ māma xìng Lín.",
+    "en": "My dad's surname is Liu, my mom's is Lin."
+   },
+   {
+    "zh": "请问那位医生姓什么？",
+    "pinyin": "Qǐngwèn nà wèi yīshēng xìng shénme?",
+    "en": "May I ask what that doctor's surname is?"
+   },
+   {
+    "zh": "她结婚以后还是用自己原来的姓。",
+    "pinyin": "Tā jiéhūn yǐhòu háishì yòng zìjǐ yuánlái de xìng.",
+    "en": "After getting married, she still uses her original surname."
+   },
+   {
+    "zh": "我们经理姓赵,人很好。",
+    "pinyin": "Wǒmen jīnglǐ xìng Zhào, rén hěn hǎo.",
+    "en": "Our manager's surname is Zhao, he's a nice person."
+   },
+   {
+    "zh": "孩子一般跟着爸爸姓。",
+    "pinyin": "Háizi yìbān gēnzhe bàba xìng.",
+    "en": "Children usually take their father's surname."
+   },
+   {
+    "zh": "你姓的这个字怎么写？",
+    "pinyin": "Nǐ xìng de zhège zì zěnme xiě?",
+    "en": "How do you write the character of your surname?"
+   },
+   {
+    "zh": "我认识一个姓周的老先生。",
+    "pinyin": "Wǒ rènshi yí ge xìng Zhōu de lǎo xiānsheng.",
+    "en": "I know an old gentleman surnamed Zhou."
+   },
+   {
+    "zh": "他不姓王,你可能认错人了。",
+    "pinyin": "Tā bú xìng Wáng, nǐ kěnéng rèncuò rén le.",
+    "en": "His surname isn't Wang, you might have the wrong person."
+   },
+   {
+    "zh": "这个村子里的人大部分都姓李。",
+    "pinyin": "Zhège cūnzi lǐ de rén dàbùfen dōu xìng Lǐ.",
+    "en": "Most people in this village are surnamed Li."
+   },
+   {
+    "zh": "请问这封信是给一位姓黄的先生的吗？",
+    "pinyin": "Qǐngwèn zhè fēng xìn shì gěi yí wèi xìng Huáng de xiānsheng de ma?",
+    "en": "Excuse me, is this letter for a gentleman surnamed Huang?"
+   },
+   {
+    "zh": "我姓的这个姓不太常见。",
+    "pinyin": "Wǒ xìng de zhège xìng bú tài chángjiàn.",
+    "en": "The surname I have is not very common."
+   },
+   {
+    "zh": "她姓什么我不清楚,只知道叫小雨。",
+    "pinyin": "Tā xìng shénme wǒ bù qīngchu, zhǐ zhīdào jiào Xiǎoyǔ.",
+    "en": "I'm not sure of her surname, I only know she's called Xiaoyu."
+   },
+   {
+    "zh": "老板姓什么并不重要,重要的是他公不公平。",
+    "pinyin": "Lǎobǎn xìng shénme bìng bú zhòngyào, zhòngyào de shì tā gōng bu gōngpíng.",
+    "en": "What the boss's surname is doesn't matter; what matters is whether he's fair."
+   },
+   {
+    "zh": "很多外国人不知道中国人姓在前,名在后。",
+    "pinyin": "Hěn duō wàiguórén bù zhīdào Zhōngguórén xìng zài qián, míng zài hòu.",
+    "en": "Many foreigners don't know that Chinese put the surname first and given name last."
+   },
+   {
+    "zh": "他自我介绍说他姓孙。",
+    "pinyin": "Tā zìwǒ jièshào shuō tā xìng Sūn.",
+    "en": "He introduced himself and said his surname is Sun."
+   },
+   {
+    "zh": "你父亲姓什么,你就跟着姓什么。",
+    "pinyin": "Nǐ fùqīn xìng shénme, nǐ jiù gēnzhe xìng shénme.",
+    "en": "Whatever your father's surname is, you take the same."
+   },
+   {
+    "zh": "这位姓吴的作家写了很多有名的书。",
+    "pinyin": "Zhè wèi xìng Wú de zuòjiā xiě le hěn duō yǒumíng de shū.",
+    "en": "This writer surnamed Wu has written many famous books."
+   },
+   {
+    "zh": "我不记得他姓什么了,只记得他很高。",
+    "pinyin": "Wǒ bú jìde tā xìng shénme le, zhǐ jìde tā hěn gāo.",
+    "en": "I don't remember his surname, only that he was very tall."
+   }
+  ]
+ },
+ {
+  "id": "g023",
+  "level": 1,
+  "title": "\"能\" ile yetenek veya olasılık",
+  "titleEn": "Expressing ability or possibility with \"neng\"",
+  "pattern": "能 + Fiil",
+  "summary": "\"能\" (néng) fiziksel yetenek, koşullara bağlı imkân veya izin anlamında \"...ebilmek\" verir: 我能游泳 = Yüzebilirim.",
+  "explanation": "\"能\" \"-ebilmek\" anlamında yardımcı fiildir ve üç durumu kapsar: (1) fiziksel/durumsal yetenek (你能搬这个箱子吗? - bu kutuyu taşıyabilir misin?), (2) koşullara bağlı imkân (今天太忙,我不能来 - bugün çok meşgulüm, gelemem), (3) izin (这里能抽烟吗? - burada sigara içilebilir mi?). Sonradan öğrenilen beceri için \"会\" (huì), izin için \"可以\" (kěyǐ) tercih edilir; bunlar zaman zaman örtüşür.",
+  "examples": [
+   {
+    "zh": "中文这么难,你能学好吗？",
+    "pinyin": "Zhōngwén zhème nán, nǐ néng xuéhǎo ma?",
+    "en": "Chinese is so hard, can you master it?"
+   },
+   {
+    "zh": "对不起,我今天太忙了,不能陪你。",
+    "pinyin": "Duìbuqǐ, wǒ jīntiān tài máng le, bù néng péi nǐ.",
+    "en": "Sorry, I'm too busy today, I can't keep you company."
+   },
+   {
+    "zh": "你能帮我把这个箱子搬上楼吗？",
+    "pinyin": "Nǐ néng bāng wǒ bǎ zhège xiāngzi bān shàng lóu ma?",
+    "en": "Can you help me carry this box upstairs?"
+   },
+   {
+    "zh": "生病的时候不能喝酒。",
+    "pinyin": "Shēngbìng de shíhou bù néng hējiǔ.",
+    "en": "You can't drink alcohol when you're sick."
+   },
+   {
+    "zh": "只要努力,你一定能成功。",
+    "pinyin": "Zhǐyào nǔlì, nǐ yídìng néng chénggōng.",
+    "en": "As long as you work hard, you'll surely succeed."
+   },
+   {
+    "zh": "这么重要的会议你怎么能迟到？",
+    "pinyin": "Zhème zhòngyào de huìyì nǐ zěnme néng chídào?",
+    "en": "How could you be late for such an important meeting?"
+   },
+   {
+    "zh": "我明天能不能请一天假？",
+    "pinyin": "Wǒ míngtiān néng bu néng qǐng yì tiān jià?",
+    "en": "Can I take a day off tomorrow?"
+   },
+   {
+    "zh": "他受伤了,现在还不能走路。",
+    "pinyin": "Tā shòushāng le, xiànzài hái bù néng zǒulù.",
+    "en": "He's injured and can't walk yet."
+   },
+   {
+    "zh": "你能听懂他说的方言吗？",
+    "pinyin": "Nǐ néng tīngdǒng tā shuō de fāngyán ma?",
+    "en": "Can you understand the dialect he speaks?"
+   },
+   {
+    "zh": "只有互相理解,我们才能一起走下去。",
+    "pinyin": "Zhǐyǒu hùxiāng lǐjiě, wǒmen cái néng yìqǐ zǒu xiàqù.",
+    "en": "Only by understanding each other can we keep going together."
+   },
+   {
+    "zh": "这个时间我恐怕不能到,路上太堵了。",
+    "pinyin": "Zhège shíjiān wǒ kǒngpà bù néng dào, lùshang tài dǔ le.",
+    "en": "I'm afraid I can't make it by then, the traffic is too heavy."
+   },
+   {
+    "zh": "你能不能小声一点？孩子在睡觉。",
+    "pinyin": "Nǐ néng bu néng xiǎoshēng yìdiǎn? Háizi zài shuìjiào.",
+    "en": "Can you be a bit quieter? The child is sleeping."
+   },
+   {
+    "zh": "人不能只想着自己。",
+    "pinyin": "Rén bù néng zhǐ xiǎngzhe zìjǐ.",
+    "en": "A person can't just think about themselves."
+   },
+   {
+    "zh": "我们能做的都做了,剩下的只能等。",
+    "pinyin": "Wǒmen néng zuò de dōu zuò le, shèngxià de zhǐ néng děng.",
+    "en": "We've done all we can, all that's left is to wait."
+   },
+   {
+    "zh": "这个秘密你能替我保守吗？",
+    "pinyin": "Zhège mìmì nǐ néng tì wǒ bǎoshǒu ma?",
+    "en": "Can you keep this secret for me?"
+   },
+   {
+    "zh": "再给我一点时间,我一定能做得更好。",
+    "pinyin": "Zài gěi wǒ yìdiǎn shíjiān, wǒ yídìng néng zuò de gèng hǎo.",
+    "en": "Give me a little more time, I can surely do better."
+   },
+   {
+    "zh": "这么晚了,你一个人能回家吗？",
+    "pinyin": "Zhème wǎn le, nǐ yí ge rén néng huíjiā ma?",
+    "en": "It's so late, can you get home by yourself?"
+   },
+   {
+    "zh": "我们不能让这样的事情再次发生。",
+    "pinyin": "Wǒmen bù néng ràng zhèyàng de shìqing zàicì fāshēng.",
+    "en": "We can't let something like this happen again."
+   },
+   {
+    "zh": "你能想到这一点,说明你很细心。",
+    "pinyin": "Nǐ néng xiǎngdào zhè yìdiǎn, shuōmíng nǐ hěn xìxīn.",
+    "en": "That you could think of this shows you're very attentive."
+   },
+   {
+    "zh": "钱能解决的问题都不算大问题。",
+    "pinyin": "Qián néng jiějué de wèntí dōu bú suàn dà wèntí.",
+    "en": "Problems that money can solve aren't really big problems."
+   },
+   {
+    "zh": "没有你的帮助,我不可能完成这件事。",
+    "pinyin": "Méiyǒu nǐ de bāngzhù, wǒ bù kěnéng wánchéng zhè jiàn shì.",
+    "en": "Without your help, I couldn't have finished this."
+   },
+   {
+    "zh": "他病得很重,能不能好起来还不知道。",
+    "pinyin": "Tā bìng de hěn zhòng, néng bu néng hǎo qǐlái hái bù zhīdào.",
+    "en": "He's very ill, whether he can recover is still unknown."
+   },
+   {
+    "zh": "你放心,我能照顾好自己。",
+    "pinyin": "Nǐ fàngxīn, wǒ néng zhàogù hǎo zìjǐ.",
+    "en": "Don't worry, I can take care of myself."
+   },
+   {
+    "zh": "这么小的字,我不戴眼镜看不清。",
+    "pinyin": "Zhème xiǎo de zì, wǒ bú dài yǎnjìng kàn bu qīng.",
+    "en": "Such small characters, I can't see clearly without glasses."
+   },
+   {
+    "zh": "我们能走到今天,真的很不容易。",
+    "pinyin": "Wǒmen néng zǒudào jīntiān, zhēn de hěn bù róngyì.",
+    "en": "That we could make it this far really wasn't easy."
+   }
+  ]
  }
 ]

@@ -7478,5 +7478,685 @@
     "en": "No matter how many years pass, the taste of home never changes, still the same."
    }
   ]
+ },
+ {
+  "id": "g056",
+  "level": 2,
+  "title": "\"有点儿\" ile \"biraz (fazla/olumsuz)\"",
+  "titleEn": "Expressing \"a little too\" with \"you dian\"",
+  "pattern": "有点(儿) + Sıfat",
+  "summary": "\"有点儿\" (yǒudiǎnr) bir sıfattan önce gelerek hafif, genellikle olumsuz bir \"biraz fazla\" anlamı verir: 有点儿贵 = Biraz pahalı.",
+  "explanation": "\"有点儿\" bir sıfatın önüne gelip \"biraz, azıcık\" der ama neredeyse her zaman İSTENMEYEN/olumsuz bir durumu belirtir: 有点儿累 (biraz yorgun), 有点儿贵 (biraz pahalı). \"一点儿\"'den farkı önemlidir: \"有点儿\" sıfattan ÖNCE gelir ve şikâyet tonundadır; \"一点儿\" ise sıfattan SONRA gelir ve kıyaslama/istek bildirir (便宜一点儿 - biraz daha ucuz). Bu ikisi sık karıştırılır.",
+  "examples": [
+   {
+    "zh": "这件衣服有点儿贵,我再看看别的。",
+    "pinyin": "Zhè jiàn yīfu yǒudiǎnr guì, wǒ zài kànkan biéde.",
+    "en": "This is a bit expensive, I'll look at others."
+   },
+   {
+    "zh": "我今天有点儿累,想早点休息。",
+    "pinyin": "Wǒ jīntiān yǒudiǎnr lèi, xiǎng zǎodiǎn xiūxi.",
+    "en": "I'm a little tired today, I want to rest early."
+   },
+   {
+    "zh": "这道菜有点儿咸,你少放点盐吧。",
+    "pinyin": "Zhè dào cài yǒudiǎnr xián, nǐ shǎo fàng diǎn yán ba.",
+    "en": "This dish is a bit salty, use less salt."
+   },
+   {
+    "zh": "他今天看起来有点儿不高兴。",
+    "pinyin": "Tā jīntiān kàn qǐlái yǒudiǎnr bù gāoxìng.",
+    "en": "He looks a bit unhappy today."
+   },
+   {
+    "zh": "这个房间有点儿小,住两个人不太方便。",
+    "pinyin": "Zhège fángjiān yǒudiǎnr xiǎo, zhù liǎng ge rén bú tài fāngbiàn.",
+    "en": "This room is a bit small, not convenient for two people."
+   },
+   {
+    "zh": "我有点儿担心他一个人在外面。",
+    "pinyin": "Wǒ yǒudiǎnr dānxīn tā yí ge rén zài wàimiàn.",
+    "en": "I'm a little worried about him being outside alone."
+   },
+   {
+    "zh": "今天的天气有点儿冷,你多穿点。",
+    "pinyin": "Jīntiān de tiānqì yǒudiǎnr lěng, nǐ duō chuān diǎn.",
+    "en": "The weather is a bit cold today, wear more."
+   },
+   {
+    "zh": "这个问题有点儿复杂,我需要想一想。",
+    "pinyin": "Zhège wèntí yǒudiǎnr fùzá, wǒ xūyào xiǎng yi xiǎng.",
+    "en": "This problem is a bit complicated, I need to think."
+   },
+   {
+    "zh": "他说话有点儿快,我没完全听懂。",
+    "pinyin": "Tā shuōhuà yǒudiǎnr kuài, wǒ méi wánquán tīngdǒng.",
+    "en": "He speaks a bit fast, I didn't fully catch it."
+   },
+   {
+    "zh": "我肚子有点儿疼,可能吃坏了。",
+    "pinyin": "Wǒ dùzi yǒudiǎnr téng, kěnéng chīhuài le.",
+    "en": "My stomach hurts a bit, maybe I ate something bad."
+   },
+   {
+    "zh": "这双鞋有点儿紧,有大一号的吗？",
+    "pinyin": "Zhè shuāng xié yǒudiǎnr jǐn, yǒu dà yí hào de ma?",
+    "en": "These shoes are a bit tight, is there a size bigger?"
+   },
+   {
+    "zh": "我对这件事有点儿失望。",
+    "pinyin": "Wǒ duì zhè jiàn shì yǒudiǎnr shīwàng.",
+    "en": "I'm a bit disappointed about this."
+   },
+   {
+    "zh": "他的态度有点儿冷淡,不像以前那么热情了。",
+    "pinyin": "Tā de tàidu yǒudiǎnr lěngdàn, bú xiàng yǐqián nàme rèqíng le.",
+    "en": "His attitude is a bit cold, not as warm as before."
+   },
+   {
+    "zh": "这个字有点儿难写,我总是写错。",
+    "pinyin": "Zhège zì yǒudiǎnr nán xiě, wǒ zǒngshì xiěcuò.",
+    "en": "This character is a bit hard to write, I always get it wrong."
+   },
+   {
+    "zh": "我最近有点儿忙,可能没时间陪你。",
+    "pinyin": "Wǒ zuìjìn yǒudiǎnr máng, kěnéng méi shíjiān péi nǐ.",
+    "en": "I've been a bit busy lately, may not have time for you."
+   },
+   {
+    "zh": "这个消息让我有点儿意外。",
+    "pinyin": "Zhège xiāoxi ràng wǒ yǒudiǎnr yìwài.",
+    "en": "This news is a bit of a surprise to me."
+   },
+   {
+    "zh": "房间里有点儿乱,你别介意。",
+    "pinyin": "Fángjiān lǐ yǒudiǎnr luàn, nǐ bié jièyì.",
+    "en": "The room is a bit messy, don't mind it."
+   },
+   {
+    "zh": "他今天的表现有点儿反常。",
+    "pinyin": "Tā jīntiān de biǎoxiàn yǒudiǎnr fǎncháng.",
+    "en": "His behavior today is a bit unusual."
+   },
+   {
+    "zh": "我有点儿后悔当初没有听你的话。",
+    "pinyin": "Wǒ yǒudiǎnr hòuhuǐ dāngchū méiyǒu tīng nǐ de huà.",
+    "en": "I somewhat regret not listening to you back then."
+   },
+   {
+    "zh": "这段路有点儿远,我们打车去吧。",
+    "pinyin": "Zhè duàn lù yǒudiǎnr yuǎn, wǒmen dǎchē qù ba.",
+    "en": "This distance is a bit far, let's take a taxi."
+   },
+   {
+    "zh": "我有点儿紧张,毕竟是第一次上台。",
+    "pinyin": "Wǒ yǒudiǎnr jǐnzhāng, bìjìng shì dì yī cì shàngtái.",
+    "en": "I'm a little nervous, after all it's my first time on stage."
+   },
+   {
+    "zh": "这个价格有点儿高,能不能便宜一点？",
+    "pinyin": "Zhège jiàgé yǒudiǎnr gāo, néng bu néng piányi yìdiǎn?",
+    "en": "This price is a bit high, can it be a little cheaper?"
+   },
+   {
+    "zh": "听了他的话,我心里有点儿难受。",
+    "pinyin": "Tīng le tā de huà, wǒ xīnlǐ yǒudiǎnr nánshòu.",
+    "en": "After hearing his words, I felt a bit upset."
+   },
+   {
+    "zh": "这本书的字有点儿小,看久了眼睛疼。",
+    "pinyin": "Zhè běn shū de zì yǒudiǎnr xiǎo, kàn jiǔ le yǎnjing téng.",
+    "en": "This book's text is a bit small, my eyes hurt after a while."
+   },
+   {
+    "zh": "我觉得他刚才的话有点儿过分。",
+    "pinyin": "Wǒ juéde tā gāngcái de huà yǒudiǎnr guòfèn.",
+    "en": "I think what he just said was a bit too much."
+   }
+  ]
+ },
+ {
+  "id": "g057",
+  "level": 2,
+  "title": "\"又...又...\" ile \"hem...hem...\"",
+  "titleEn": "Expressing \"both A and B\" with \"you\"",
+  "pattern": "又 + Sıfat/Fiil 1 + 又 + Sıfat/Fiil 2",
+  "summary": "\"又...又...\" (yòu...yòu...) aynı öznenin iki özelliğini/eylemini birlikte belirtir: 又高又帅 = Hem uzun hem yakışıklı.",
+  "explanation": "Bir kişi/nesnenin iki özelliğini ya da iki eş zamanlı eylemini bir arada belirtmek için her birinin önüne \"又\" konur: 这个西瓜又大又甜 (bu karpuz hem büyük hem tatlı). İki sıfat genellikle aynı yönde olur (ikisi olumlu ya da ikisi olumsuz). Sıfatların yanı sıra fiillerle de kullanılır: 又哭又笑. \"一边...一边...\"'dan farkı: bu yapı özellik/durum listeler, ille eş zamanlı süreç değil.",
+  "examples": [
+   {
+    "zh": "这个西瓜又大又甜,快尝尝。",
+    "pinyin": "Zhège xīguā yòu dà yòu tián, kuài chángchang.",
+    "en": "This watermelon is big and sweet, try it."
+   },
+   {
+    "zh": "他又高又帅,难怪那么受欢迎。",
+    "pinyin": "Tā yòu gāo yòu shuài, nánguài nàme shòu huānyíng.",
+    "en": "He's tall and handsome, no wonder he's so popular."
+   },
+   {
+    "zh": "这家饭馆的菜又便宜又好吃。",
+    "pinyin": "Zhè jiā fànguǎn de cài yòu piányi yòu hǎochī.",
+    "en": "This restaurant's food is cheap and delicious."
+   },
+   {
+    "zh": "孩子又哭又闹,妈妈怎么哄都没用。",
+    "pinyin": "Háizi yòu kū yòu nào, māma zěnme hǒng dōu méiyòng.",
+    "en": "The child cried and fussed; no soothing worked."
+   },
+   {
+    "zh": "这条路又窄又暗,晚上最好别走。",
+    "pinyin": "Zhè tiáo lù yòu zhǎi yòu àn, wǎnshang zuìhǎo bié zǒu.",
+    "en": "This road is narrow and dark, better not walk it at night."
+   },
+   {
+    "zh": "她做的蛋糕又漂亮又好吃。",
+    "pinyin": "Tā zuò de dàngāo yòu piàoliang yòu hǎochī.",
+    "en": "The cake she made is both pretty and tasty."
+   },
+   {
+    "zh": "这个工作又累又不挣钱,他还是坚持着。",
+    "pinyin": "Zhège gōngzuò yòu lèi yòu bù zhèngqián, tā háishì jiānchízhe.",
+    "en": "This job is tiring and pays little, yet he sticks with it."
+   },
+   {
+    "zh": "听到这个消息,我又惊又喜。",
+    "pinyin": "Tīngdào zhège xiāoxi, wǒ yòu jīng yòu xǐ.",
+    "en": "On hearing this news, I was both surprised and delighted."
+   },
+   {
+    "zh": "这里的冬天又冷又干,要注意保湿。",
+    "pinyin": "Zhèlǐ de dōngtiān yòu lěng yòu gān, yào zhùyì bǎoshī.",
+    "en": "Winter here is cold and dry, take care to moisturize."
+   },
+   {
+    "zh": "他又聪明又努力,成功是迟早的事。",
+    "pinyin": "Tā yòu cōngming yòu nǔlì, chénggōng shì chízǎo de shì.",
+    "en": "He's smart and hardworking, success is just a matter of time."
+   },
+   {
+    "zh": "这个包又轻又结实,很适合旅行。",
+    "pinyin": "Zhège bāo yòu qīng yòu jiēshi, hěn shìhé lǚxíng.",
+    "en": "This bag is light and sturdy, great for travel."
+   },
+   {
+    "zh": "她又要工作又要带孩子,真的很辛苦。",
+    "pinyin": "Tā yòu yào gōngzuò yòu yào dài háizi, zhēn de hěn xīnkǔ.",
+    "en": "She has to work and raise a child, it's really hard."
+   },
+   {
+    "zh": "这道题又长又难,很多人都没做完。",
+    "pinyin": "Zhè dào tí yòu cháng yòu nán, hěn duō rén dōu méi zuòwán.",
+    "en": "This question is long and hard, many didn't finish it."
+   },
+   {
+    "zh": "他又抽烟又喝酒,身体越来越差。",
+    "pinyin": "Tā yòu chōuyān yòu hējiǔ, shēntǐ yuèláiyuè chà.",
+    "en": "He smokes and drinks, his health is getting worse."
+   },
+   {
+    "zh": "这个地方又安静又漂亮,适合养老。",
+    "pinyin": "Zhège dìfang yòu ānjìng yòu piàoliang, shìhé yǎnglǎo.",
+    "en": "This place is quiet and beautiful, good for retirement."
+   },
+   {
+    "zh": "她的字写得又快又好看。",
+    "pinyin": "Tā de zì xiě de yòu kuài yòu hǎokàn.",
+    "en": "She writes fast and beautifully."
+   },
+   {
+    "zh": "这个手机又薄又轻,拿在手里很舒服。",
+    "pinyin": "Zhège shǒujī yòu báo yòu qīng, ná zài shǒu lǐ hěn shūfu.",
+    "en": "This phone is thin and light, comfortable to hold."
+   },
+   {
+    "zh": "考试前他又紧张又兴奋,一晚上没睡好。",
+    "pinyin": "Kǎoshì qián tā yòu jǐnzhāng yòu xīngfèn, yì wǎnshang méi shuì hǎo.",
+    "en": "Before the exam he was nervous and excited, sleeping poorly."
+   },
+   {
+    "zh": "这种水果又酸又甜,很多人都爱吃。",
+    "pinyin": "Zhè zhǒng shuǐguǒ yòu suān yòu tián, hěn duō rén dōu ài chī.",
+    "en": "This fruit is sour and sweet, many people love it."
+   },
+   {
+    "zh": "他做的决定又快又准,很少出错。",
+    "pinyin": "Tā zuò de juédìng yòu kuài yòu zhǔn, hěn shǎo chūcuò.",
+    "en": "His decisions are quick and accurate, rarely wrong."
+   },
+   {
+    "zh": "孩子第一天上学又期待又害怕。",
+    "pinyin": "Háizi dì yī tiān shàngxué yòu qīdài yòu hàipà.",
+    "en": "On the first day of school the child was both eager and scared."
+   },
+   {
+    "zh": "这件外套又保暖又好看,值得买。",
+    "pinyin": "Zhè jiàn wàitào yòu bǎonuǎn yòu hǎokàn, zhídé mǎi.",
+    "en": "This coat is warm and stylish, worth buying."
+   },
+   {
+    "zh": "这个新员工又勤快又有礼貌,大家都喜欢他。",
+    "pinyin": "Zhège xīn yuángōng yòu qínkuài yòu yǒu lǐmào, dàjiā dōu xǐhuan tā.",
+    "en": "This new employee is diligent and polite, everyone likes him."
+   },
+   {
+    "zh": "她又会唱歌又会跳舞,是个多才多艺的人。",
+    "pinyin": "Tā yòu huì chànggē yòu huì tiàowǔ, shì ge duōcáiduōyì de rén.",
+    "en": "She can sing and dance, a very talented person."
+   },
+   {
+    "zh": "分别的那一刻,我们又哭又笑,舍不得放手。",
+    "pinyin": "Fēnbié de nà yíkè, wǒmen yòu kū yòu xiào, shěbùdé fàngshǒu.",
+    "en": "At the moment of parting, we cried and laughed, unwilling to let go."
+   }
+  ]
+ },
+ {
+  "id": "g058",
+  "level": 2,
+  "title": "\"更\" ile \"daha (fazla)\"",
+  "titleEn": "Expressing \"even more\" with \"geng\"",
+  "pattern": "更 + Sıfat",
+  "summary": "\"更\" (gèng) bir sıfatın önüne gelerek \"daha, daha da\" karşılaştırması yapar: 更好 = daha iyi.",
+  "explanation": "\"更\" bir özelliğin başka bir şeye göre DAHA fazla olduğunu belirtir: 今天更冷 (bugün daha soğuk). Zaten var olan bir özelliğin üstüne bir derece daha ekler — yani karşılaştırılan diğer şeyin de o özelliğe sahip olduğu ima edilir. \"更\" tek başına ya da \"比\" karşılaştırmasıyla kullanılabilir: 他比我更高. \"还\" (hái) de benzer şekilde \"daha da\" anlamı verebilir ama \"更\" daha nettir.",
+  "examples": [
+   {
+    "zh": "多运动会让你的身体更健康。",
+    "pinyin": "Duō yùndòng huì ràng nǐ de shēntǐ gèng jiànkāng.",
+    "en": "More exercise will make your body healthier."
+   },
+   {
+    "zh": "这样做效果更好,你试试看。",
+    "pinyin": "Zhèyàng zuò xiàoguǒ gèng hǎo, nǐ shìshi kàn.",
+    "en": "Doing it this way works better, give it a try."
+   },
+   {
+    "zh": "经历了这件事,他变得更成熟了。",
+    "pinyin": "Jīnglì le zhè jiàn shì, tā biàn de gèng chéngshú le.",
+    "en": "After going through this, he became more mature."
+   },
+   {
+    "zh": "我想找一个更安静的地方看书。",
+    "pinyin": "Wǒ xiǎng zhǎo yí ge gèng ānjìng de dìfang kànshū.",
+    "en": "I want to find a quieter place to read."
+   },
+   {
+    "zh": "雨越下越大,天也更黑了。",
+    "pinyin": "Yǔ yuè xià yuè dà, tiān yě gèng hēi le.",
+    "en": "The rain got heavier and the sky darker."
+   },
+   {
+    "zh": "她笑起来更漂亮了。",
+    "pinyin": "Tā xiào qǐlái gèng piàoliang le.",
+    "en": "She looks even prettier when she smiles."
+   },
+   {
+    "zh": "跟他比,我觉得你的方案更实际。",
+    "pinyin": "Gēn tā bǐ, wǒ juéde nǐ de fāng'àn gèng shíjì.",
+    "en": "Compared to his, I think your plan is more practical."
+   },
+   {
+    "zh": "有了目标,他工作起来更有动力了。",
+    "pinyin": "Yǒu le mùbiāo, tā gōngzuò qǐlái gèng yǒu dònglì le.",
+    "en": "With a goal, he works with more motivation."
+   },
+   {
+    "zh": "这次的题目比上次更难。",
+    "pinyin": "Zhè cì de tímù bǐ shàng cì gèng nán.",
+    "en": "This time's questions are harder than last time's."
+   },
+   {
+    "zh": "我更喜欢喝茶,咖啡对我来说太苦了。",
+    "pinyin": "Wǒ gèng xǐhuan hē chá, kāfēi duì wǒ lái shuō tài kǔ le.",
+    "en": "I prefer tea; coffee is too bitter for me."
+   },
+   {
+    "zh": "这样一说,事情反而更复杂了。",
+    "pinyin": "Zhèyàng yì shuō, shìqing fǎn'ér gèng fùzá le.",
+    "en": "Put this way, things got even more complicated."
+   },
+   {
+    "zh": "这件事让我更加坚定了自己的想法。",
+    "pinyin": "Zhè jiàn shì ràng wǒ gèngjiā jiāndìng le zìjǐ de xiǎngfǎ.",
+    "en": "This made me even more certain of my own view."
+   },
+   {
+    "zh": "下雪以后,山上的风景更美了。",
+    "pinyin": "Xiàxuě yǐhòu, shān shàng de fēngjǐng gèng měi le.",
+    "en": "After the snow, the mountain scenery is even more beautiful."
+   },
+   {
+    "zh": "我希望明天能过得更好。",
+    "pinyin": "Wǒ xīwàng míngtiān néng guò de gèng hǎo.",
+    "en": "I hope tomorrow will be even better."
+   },
+   {
+    "zh": "这个消息让他更加担心了。",
+    "pinyin": "Zhège xiāoxi ràng tā gèngjiā dānxīn le.",
+    "en": "This news made him even more worried."
+   },
+   {
+    "zh": "努力过后的成功让人更有成就感。",
+    "pinyin": "Nǔlì guòhòu de chénggōng ràng rén gèng yǒu chéngjiùgǎn.",
+    "en": "Success after effort brings a greater sense of achievement."
+   },
+   {
+    "zh": "跟大城市比,我更喜欢小镇的生活。",
+    "pinyin": "Gēn dà chéngshì bǐ, wǒ gèng xǐhuan xiǎozhèn de shēnghuó.",
+    "en": "Compared to the big city, I prefer small-town life."
+   },
+   {
+    "zh": "多睡一会儿,你会觉得精神更好。",
+    "pinyin": "Duō shuì yíhuìr, nǐ huì juéde jīngshén gèng hǎo.",
+    "en": "Sleep a bit more and you'll feel more refreshed."
+   },
+   {
+    "zh": "他解释了以后,我心里更乱了。",
+    "pinyin": "Tā jiěshì le yǐhòu, wǒ xīnlǐ gèng luàn le.",
+    "en": "After his explanation, I felt even more confused."
+   },
+   {
+    "zh": "这本书读第二遍的时候感受更深。",
+    "pinyin": "Zhè běn shū dú dì èr biàn de shíhou gǎnshòu gèng shēn.",
+    "en": "Reading this book a second time, the feeling is deeper."
+   },
+   {
+    "zh": "跟别人相处得越久,越觉得他更善良。",
+    "pinyin": "Gēn biérén xiāngchǔ de yuè jiǔ, yuè juéde tā gèng shànliáng.",
+    "en": "The longer you get along with him, the kinder he seems."
+   },
+   {
+    "zh": "这次旅行让我们的感情更深了。",
+    "pinyin": "Zhè cì lǚxíng ràng wǒmen de gǎnqíng gèng shēn le.",
+    "en": "This trip deepened our bond even more."
+   },
+   {
+    "zh": "有你的支持,我更有信心了。",
+    "pinyin": "Yǒu nǐ de zhīchí, wǒ gèng yǒu xìnxīn le.",
+    "en": "With your support, I have even more confidence."
+   },
+   {
+    "zh": "改了几个字以后,这句话读起来更顺了。",
+    "pinyin": "Gǎi le jǐ ge zì yǐhòu, zhè jù huà dú qǐlái gèng shùn le.",
+    "en": "After changing a few words, this sentence reads more smoothly."
+   },
+   {
+    "zh": "经历过失去,才更懂得珍惜。",
+    "pinyin": "Jīnglìguò shīqù, cái gèng dǒngde zhēnxī.",
+    "en": "Only after experiencing loss do you cherish things more."
+   }
+  ]
+ },
+ {
+  "id": "g059",
+  "level": 2,
+  "title": "\"不太\" ile \"pek değil\"",
+  "titleEn": "Expressing \"not very\" with \"bu tai\"",
+  "pattern": "不太 + Sıfat",
+  "summary": "\"不太\" (bú tài) bir sıfatı yumuşakça olumsuzlar: \"pek/çok değil\". 不太好 = pek iyi değil.",
+  "explanation": "\"不太\" bir özelliği tamamen reddetmeden yumuşakça azaltır: 不太贵 (çok pahalı değil), 不太喜欢 (pek sevmiyorum). Bu, doğrudan \"不\"'dan daha kibar ve dolaylıdır — Çince'de olumsuzu yumuşatmanın çok yaygın bir yoludur. \"太\"'nın buradaki \"了\"'suz kullanımına dikkat: \"不太好\" (pek iyi değil), \"太好了\" (harika!) — anlamları tamamen farklı.",
+  "examples": [
+   {
+    "zh": "我今天不太舒服,想请一天假。",
+    "pinyin": "Wǒ jīntiān bú tài shūfu, xiǎng qǐng yì tiān jià.",
+    "en": "I'm not feeling too well today, I'd like a day off."
+   },
+   {
+    "zh": "这个办法不太好,我们再想想别的。",
+    "pinyin": "Zhège bànfǎ bú tài hǎo, wǒmen zài xiǎngxiang biéde.",
+    "en": "This method isn't great, let's think of others."
+   },
+   {
+    "zh": "我不太喜欢这种颜色,太亮了。",
+    "pinyin": "Wǒ bú tài xǐhuan zhè zhǒng yánsè, tài liàng le.",
+    "en": "I don't much like this color, it's too bright."
+   },
+   {
+    "zh": "他说的话我不太明白。",
+    "pinyin": "Tā shuō de huà wǒ bú tài míngbai.",
+    "en": "I don't quite understand what he said."
+   },
+   {
+    "zh": "最近生意不太好,压力有点大。",
+    "pinyin": "Zuìjìn shēngyi bú tài hǎo, yālì yǒudiǎn dà.",
+    "en": "Business hasn't been great lately, the pressure is high."
+   },
+   {
+    "zh": "我对这个城市还不太熟悉。",
+    "pinyin": "Wǒ duì zhège chéngshì hái bú tài shúxī.",
+    "en": "I'm not very familiar with this city yet."
+   },
+   {
+    "zh": "这件事我不太确定,让我再查一下。",
+    "pinyin": "Zhè jiàn shì wǒ bú tài quèdìng, ràng wǒ zài chá yíxià.",
+    "en": "I'm not too sure about this, let me check again."
+   },
+   {
+    "zh": "他今天心情不太好,你别惹他。",
+    "pinyin": "Tā jīntiān xīnqíng bú tài hǎo, nǐ bié rě tā.",
+    "en": "He's in a bad mood today, don't provoke him."
+   },
+   {
+    "zh": "这个价格不太合理,我们再谈谈。",
+    "pinyin": "Zhège jiàgé bú tài hélǐ, wǒmen zài tántan.",
+    "en": "This price isn't quite reasonable, let's talk more."
+   },
+   {
+    "zh": "我不太会做饭,一般都在外面吃。",
+    "pinyin": "Wǒ bú tài huì zuòfàn, yìbān dōu zài wàimiàn chī.",
+    "en": "I'm not good at cooking, I usually eat out."
+   },
+   {
+    "zh": "他的身体最近不太好,需要多休息。",
+    "pinyin": "Tā de shēntǐ zuìjìn bú tài hǎo, xūyào duō xiūxi.",
+    "en": "His health hasn't been good lately, he needs more rest."
+   },
+   {
+    "zh": "这条路我不太熟,你帮我看看地图。",
+    "pinyin": "Zhè tiáo lù wǒ bú tài shú, nǐ bāng wǒ kànkan dìtú.",
+    "en": "I don't know this road well, help me check the map."
+   },
+   {
+    "zh": "我不太赞成这个计划,风险太大了。",
+    "pinyin": "Wǒ bú tài zànchéng zhège jìhuà, fēngxiǎn tài dà le.",
+    "en": "I don't quite approve of this plan, the risk is too big."
+   },
+   {
+    "zh": "今天天气不太好,可能会下雨。",
+    "pinyin": "Jīntiān tiānqì bú tài hǎo, kěnéng huì xiàyǔ.",
+    "en": "The weather isn't great today, it might rain."
+   },
+   {
+    "zh": "他最近工作不太顺利,情绪有点低落。",
+    "pinyin": "Tā zuìjìn gōngzuò bú tài shùnlì, qíngxù yǒudiǎn dīluò.",
+    "en": "Work hasn't gone smoothly for him lately, he's a bit down."
+   },
+   {
+    "zh": "这家店的服务不太好,我以后不来了。",
+    "pinyin": "Zhè jiā diàn de fúwù bú tài hǎo, wǒ yǐhòu bù lái le.",
+    "en": "This shop's service isn't great, I won't come again."
+   },
+   {
+    "zh": "我不太想去,可是又不好意思拒绝。",
+    "pinyin": "Wǒ bú tài xiǎng qù, kěshì yòu bù hǎoyìsi jùjué.",
+    "en": "I don't really want to go, but I feel bad refusing."
+   },
+   {
+    "zh": "他的解释不太让人信服。",
+    "pinyin": "Tā de jiěshì bú tài ràng rén xìnfú.",
+    "en": "His explanation isn't very convincing."
+   },
+   {
+    "zh": "这道菜的味道不太正宗。",
+    "pinyin": "Zhè dào cài de wèidào bú tài zhèngzōng.",
+    "en": "This dish doesn't taste very authentic."
+   },
+   {
+    "zh": "我不太习惯这里的生活节奏。",
+    "pinyin": "Wǒ bú tài xíguàn zhèlǐ de shēnghuó jiézòu.",
+    "en": "I'm not quite used to the pace of life here."
+   },
+   {
+    "zh": "这件衣服的质量不太好,穿几次就坏了。",
+    "pinyin": "Zhè jiàn yīfu de zhìliàng bú tài hǎo, chuān jǐ cì jiù huài le.",
+    "en": "This garment's quality isn't good, it wore out after a few uses."
+   },
+   {
+    "zh": "他对我的态度好像不太友好。",
+    "pinyin": "Tā duì wǒ de tàidu hǎoxiàng bú tài yǒuhǎo.",
+    "en": "His attitude toward me doesn't seem very friendly."
+   },
+   {
+    "zh": "我今天状态不太好,比赛可能会输。",
+    "pinyin": "Wǒ jīntiān zhuàngtài bú tài hǎo, bǐsài kěnéng huì shū.",
+    "en": "I'm not in good form today, I might lose the match."
+   },
+   {
+    "zh": "这个想法听起来不太现实。",
+    "pinyin": "Zhège xiǎngfǎ tīng qǐlái bú tài xiànshí.",
+    "en": "This idea doesn't sound very realistic."
+   },
+   {
+    "zh": "他俩的关系最近不太好,经常吵架。",
+    "pinyin": "Tā liǎ de guānxi zuìjìn bú tài hǎo, jīngcháng chǎojià.",
+    "en": "Their relationship hasn't been good lately, they often argue."
+   }
+  ]
+ },
+ {
+  "id": "g060",
+  "level": 2,
+  "title": "\"真\" ile \"gerçekten / ne kadar da\"",
+  "titleEn": "Expressing \"really\" with \"zhen\"",
+  "pattern": "真 + Sıfat",
+  "summary": "\"真\" (zhēn) bir sıfattan önce gelerek içten bir hayranlık/duygu belirtir: 真漂亮！ = Gerçekten çok güzel!",
+  "explanation": "\"真\" bir sıfatın önüne gelip konuşanın gerçek, içten duygusunu/hayranlığını ifade eder: 你真聪明 (gerçekten çok akıllısın). \"很\"'den farkı: \"很\" tarafsız bir derece belirtir ve düz cümle kurar; \"真\" ise öznel bir ünlem/duygu taşır ve çoğu zaman hayranlık, şaşkınlık ya da şikâyet bildirir. Genellikle \"了\" almaz. Ünlem cümlelerinde çok yaygındır.",
+  "examples": [
+   {
+    "zh": "这里的风景真美,像画一样。",
+    "pinyin": "Zhèlǐ de fēngjǐng zhēn měi, xiàng huà yíyàng.",
+    "en": "The scenery here is truly beautiful, like a painting."
+   },
+   {
+    "zh": "你今天真漂亮,是要去约会吗？",
+    "pinyin": "Nǐ jīntiān zhēn piàoliang, shì yào qù yuēhuì ma?",
+    "en": "You look really pretty today, going on a date?"
+   },
+   {
+    "zh": "这个孩子真聪明,一学就会。",
+    "pinyin": "Zhège háizi zhēn cōngming, yì xué jiù huì.",
+    "en": "This child is really smart, learns instantly."
+   },
+   {
+    "zh": "时间过得真快,一年又快结束了。",
+    "pinyin": "Shíjiān guò de zhēn kuài, yì nián yòu kuài jiéshù le.",
+    "en": "Time really flies, another year is nearly over."
+   },
+   {
+    "zh": "这道菜真好吃,你是怎么做的？",
+    "pinyin": "Zhè dào cài zhēn hǎochī, nǐ shì zěnme zuò de?",
+    "en": "This dish is really delicious, how did you make it?"
+   },
+   {
+    "zh": "你真是个好人,谢谢你的帮助。",
+    "pinyin": "Nǐ zhēn shì ge hǎorén, xièxie nǐ de bāngzhù.",
+    "en": "You're truly a good person, thank you for your help."
+   },
+   {
+    "zh": "今天真冷,我的手都冻僵了。",
+    "pinyin": "Jīntiān zhēn lěng, wǒ de shǒu dōu dòngjiāng le.",
+    "en": "It's really cold today, my hands are frozen stiff."
+   },
+   {
+    "zh": "这件事真让人头疼,不知道怎么办。",
+    "pinyin": "Zhè jiàn shì zhēn ràng rén tóuténg, bù zhīdào zěnme bàn.",
+    "en": "This is really a headache, I don't know what to do."
+   },
+   {
+    "zh": "你说得真对,我怎么没想到呢？",
+    "pinyin": "Nǐ shuō de zhēn duì, wǒ zěnme méi xiǎngdào ne?",
+    "en": "You're absolutely right, how did I not think of that?"
+   },
+   {
+    "zh": "这只小狗真可爱,我好想养一只。",
+    "pinyin": "Zhè zhī xiǎogǒu zhēn kě'ài, wǒ hǎo xiǎng yǎng yì zhī.",
+    "en": "This puppy is so cute, I really want to get one."
+   },
+   {
+    "zh": "能见到你我真高兴。",
+    "pinyin": "Néng jiàndào nǐ wǒ zhēn gāoxìng.",
+    "en": "I'm really happy to see you."
+   },
+   {
+    "zh": "这本书真有意思,我一口气看完了。",
+    "pinyin": "Zhè běn shū zhēn yǒu yìsi, wǒ yì kǒu qì kànwán le.",
+    "en": "This book is really interesting, I read it in one go."
+   },
+   {
+    "zh": "你的中文说得真流利,像本地人一样。",
+    "pinyin": "Nǐ de Zhōngwén shuō de zhēn liúlì, xiàng běndìrén yíyàng.",
+    "en": "Your Chinese is really fluent, like a native."
+   },
+   {
+    "zh": "这个决定真不容易,他考虑了很久。",
+    "pinyin": "Zhège juédìng zhēn bù róngyì, tā kǎolǜ le hěn jiǔ.",
+    "en": "This decision was really not easy, he considered it long."
+   },
+   {
+    "zh": "你真厉害,这么难的题都做出来了。",
+    "pinyin": "Nǐ zhēn lìhai, zhème nán de tí dōu zuò chūlái le.",
+    "en": "You're really amazing, you solved such a hard problem."
+   },
+   {
+    "zh": "这里的空气真新鲜,让人很舒服。",
+    "pinyin": "Zhèlǐ de kōngqì zhēn xīnxiān, ràng rén hěn shūfu.",
+    "en": "The air here is really fresh, it feels great."
+   },
+   {
+    "zh": "他对朋友真够意思,总是有求必应。",
+    "pinyin": "Tā duì péngyou zhēn gòu yìsi, zǒngshì yǒuqiúbìyìng.",
+    "en": "He's really good to friends, always ready to help."
+   },
+   {
+    "zh": "这场雨来得真突然,大家都没带伞。",
+    "pinyin": "Zhè chǎng yǔ lái de zhēn tūrán, dàjiā dōu méi dài sǎn.",
+    "en": "This rain came so suddenly, no one had an umbrella."
+   },
+   {
+    "zh": "你能坚持这么多年,真了不起。",
+    "pinyin": "Nǐ néng jiānchí zhème duō nián, zhēn liǎobuqǐ.",
+    "en": "That you persevered for so many years is really remarkable."
+   },
+   {
+    "zh": "这个消息真让人意外,谁也没想到。",
+    "pinyin": "Zhège xiāoxi zhēn ràng rén yìwài, shéi yě méi xiǎngdào.",
+    "en": "This news is really surprising, no one expected it."
+   },
+   {
+    "zh": "你做的这个模型真精致。",
+    "pinyin": "Nǐ zuò de zhège móxíng zhēn jīngzhì.",
+    "en": "The model you made is really exquisite."
+   },
+   {
+    "zh": "分开这么久,我真的很想你。",
+    "pinyin": "Fēnkāi zhème jiǔ, wǒ zhēn de hěn xiǎng nǐ.",
+    "en": "After being apart so long, I really miss you."
+   },
+   {
+    "zh": "这个城市的夜景真迷人。",
+    "pinyin": "Zhège chéngshì de yèjǐng zhēn mírén.",
+    "en": "This city's night view is truly enchanting."
+   },
+   {
+    "zh": "你真有耐心,换了我早就放弃了。",
+    "pinyin": "Nǐ zhēn yǒu nàixīn, huàn le wǒ zǎo jiù fàngqì le.",
+    "en": "You're so patient; if it were me I'd have given up."
+   },
+   {
+    "zh": "能有这样的机会,我真的很感激。",
+    "pinyin": "Néng yǒu zhèyàng de jīhuì, wǒ zhēn de hěn gǎnjī.",
+    "en": "I'm truly grateful to have such an opportunity."
+   }
+  ]
  }
 ]

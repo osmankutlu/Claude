@@ -29102,5 +29102,685 @@
     "en": "Though the gift isn't expensive, it comes from the most sincere heart."
    }
   ]
+ },
+ {
+  "id": "g215",
+  "level": 3,
+  "title": "\"算\" ile \"sayılır, ...-e girer\"",
+  "titleEn": "Making judgments with \"suan\"",
+  "pattern": "Özne + 算 + Sıfat / İsim (+ 的)",
+  "summary": "\"算\" (suàn) bir şeyi bir kategoriye/dereceye dâhil sayar: 这算便宜的 = Bu ucuz sayılır; 他算是我的老师 = O benim öğretmenim sayılır.",
+  "explanation": "\"算\" bir şeyi/kişiyi belli bir kategoriye ya da dereceye DÂHİL SAYMAYI, öyle KABUL ETMEYİ bildirir: \"...sayılır, ...-e girer, ...kabul edilir\". 在我们班,他算是最高的 (Sınıfımızda en uzun sayılır), 这个价钱算便宜了 (Bu fiyat ucuz sayılır), 他算得上一位好老师 (İyi bir öğretmen sayılabilir). Çoğu zaman \"算是\" (sayılır), \"算得上\" (...-e layık sayılır) kalıplarında ve cümle sonunda \"的\" ile gelir. Bir yargı/değerlendirme yapar, kesin olmasa da bir sınıflandırma sunar. \"算\" ayrıca \"hesaplamak\" (算钱) ve \"算了\" (boş ver) anlamlarına da gelir. Bu konuda özellikle DEĞERLENDİRME/sınıflandırma işlevini ele alıyoruz. Türkçedeki \"...sayılır, ...-e girer, ...kabul edilir, ...-e layık\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "在我们这些人里,他的汉语算是说得最好的。",
+    "pinyin": "Zài wǒ men zhè xiē rén lǐ, tā de hàn yǔ suàn shì shuō de zuì hǎo de。",
+    "en": "Among us, his Chinese is considered the best."
+   },
+   {
+    "zh": "这个价钱在市中心已经算很便宜的了。",
+    "pinyin": "Zhè ge jià qián zài shì zhōng xīn yǐ jīng suàn hěn pián yi de le。",
+    "en": "This price is already considered cheap for the city center."
+   },
+   {
+    "zh": "虽然他年轻,但在这个行业里已经算是老手了。",
+    "pinyin": "Suī rán tā nián qīng, dàn zài zhè ge háng yè lǐ yǐ jīng suàn shì lǎo shǒu le。",
+    "en": "Though young, he's already an old hand in this industry."
+   },
+   {
+    "zh": "今天的天气算不错的,不冷也不热,很舒服。",
+    "pinyin": "Jīn tiān de tiān qì suàn bù cuò de, bù lěng yě bù rè, hěn shū fú。",
+    "en": "Today's weather is considered good, neither cold nor hot, comfortable."
+   },
+   {
+    "zh": "能在这么短的时间里做完,已经算很快了。",
+    "pinyin": "Néng zài zhè me duǎn de shí jiān lǐ zuò wán, yǐ jīng suàn hěn kuài le。",
+    "en": "Finishing in such a short time is already considered fast."
+   },
+   {
+    "zh": "这道菜的味道算可以,就是稍微咸了一点。",
+    "pinyin": "Zhè dào cài de wèi dào suàn kě yǐ, jiù shì shāo wēi xián le yì diǎn。",
+    "en": "This dish's taste is passable, just slightly too salty."
+   },
+   {
+    "zh": "他为人踏实,算得上是一个值得信赖的朋友。",
+    "pinyin": "Tā wéi rén tà shí, suàn de shàng shì yí gè zhí de xìn lài de péng yǒu。",
+    "en": "He's steady and can be counted as a trustworthy friend."
+   },
+   {
+    "zh": "这次考试考了八十分,在班里算中等水平。",
+    "pinyin": "Zhè cì kǎo shì kǎo le bā shí fēn, zài bān lǐ suàn zhōng děng shuǐ píng。",
+    "en": "Scoring eighty on this exam is considered average in the class."
+   },
+   {
+    "zh": "我们家离学校不算远,走路也就十分钟。",
+    "pinyin": "Wǒ men jiā lí xué xiào bù suàn yuǎn, zǒu lù yě jiù shí fēn zhōng。",
+    "en": "Our home isn't considered far from school, a ten-minute walk."
+   },
+   {
+    "zh": "这台旧电脑虽然慢,但对付日常工作还算够用。",
+    "pinyin": "Zhè tái jiù diàn nǎo suī rán màn, dàn duì fù rì cháng gōng zuò hái suàn gòu yòng。",
+    "en": "This old computer is slow, but still counts as enough for daily work."
+   },
+   {
+    "zh": "在这么多困难面前,这点小事根本不算什么。",
+    "pinyin": "Zài zhè me duō kùn nán miàn qián, zhè diǎn xiǎo shì gēn běn bù suàn shén me。",
+    "en": "Amid so many difficulties, this trifle is nothing at all."
+   },
+   {
+    "zh": "他每天坚持读书,在同龄人里算是很自律的。",
+    "pinyin": "Tā měi tiān jiān chí dú shū, zài tóng líng rén lǐ suàn shì hěn zì lǜ de。",
+    "en": "He reads daily; among peers he's considered very self-disciplined."
+   },
+   {
+    "zh": "这套房子采光好,户型也不错,算是很理想了。",
+    "pinyin": "Zhè tào fáng zi cǎi guāng hǎo, hù xíng yě bù cuò, suàn shì hěn lǐ xiǎng le。",
+    "en": "This apartment has good light and layout; it's considered ideal."
+   },
+   {
+    "zh": "论经验,他在公司里算是数一数二的。",
+    "pinyin": "Lùn jīng yàn, tā zài gōng sī lǐ suàn shì shǔ yī shǔ èr de。",
+    "en": "In terms of experience, he ranks among the very top in the company."
+   },
+   {
+    "zh": "能得到大家的认可,对他来说已经算很大的鼓励了。",
+    "pinyin": "Néng dé dào dà jiā de rèn kě, duì tā lái shuō yǐ jīng suàn hěn dà de gǔ lì le。",
+    "en": "Being recognized by all is already great encouragement for him."
+   },
+   {
+    "zh": "这家小店的东西不算贵,味道却相当地道。",
+    "pinyin": "Zhè jiā xiǎo diàn de dōng xī bù suàn guì, wèi dào què xiāng dāng dì dào。",
+    "en": "This shop's items aren't pricey, yet the taste is quite authentic."
+   },
+   {
+    "zh": "他脾气好,从不跟人计较,算是个老好人。",
+    "pinyin": "Tā pí qì hǎo, cóng bù gēn rén jì jiào, suàn shì gè lǎo hǎo rén。",
+    "en": "He's good-tempered and never quibbles; he's considered a nice guy."
+   },
+   {
+    "zh": "这条路虽然绕了点,但还算好走,不容易迷路。",
+    "pinyin": "Zhè tiáo lù suī rán rào le diǎn, dàn hái suàn hǎo zǒu, bù róng yì mí lù。",
+    "en": "Though this road is a bit roundabout, it's still easy to follow."
+   },
+   {
+    "zh": "在我认识的人里,他算是最懂得感恩的一个。",
+    "pinyin": "Zài wǒ rèn shí de rén lǐ, tā suàn shì zuì dǒng de gǎn ēn de yí gè。",
+    "en": "Of the people I know, he's among the most grateful."
+   },
+   {
+    "zh": "这次旅行花的钱不算多,却玩得特别开心。",
+    "pinyin": "Zhè cì lǚ xíng huā de qián bù suàn duō, què wán de tè bié kāi xīn。",
+    "en": "This trip didn't cost much, yet it was especially enjoyable."
+   },
+   {
+    "zh": "他做的这些贡献,足以算得上功劳很大了。",
+    "pinyin": "Tā zuò de zhè xiē gòng xiàn, zú yǐ suàn de shàng gōng láo hěn dà le。",
+    "en": "The contributions he made can well be counted as significant."
+   },
+   {
+    "zh": "这本书虽然不厚,但内容算得上很有深度。",
+    "pinyin": "Zhè běn shū suī rán bù hòu, dàn nèi róng suàn de shàng hěn yǒu shēn dù。",
+    "en": "Though this book is thin, its content counts as quite deep."
+   },
+   {
+    "zh": "能坚持到现在还没放弃,你已经算很了不起了。",
+    "pinyin": "Néng jiān chí dào xiàn zài hái méi fàng qì, nǐ yǐ jīng suàn hěn liǎo bù qǐ le。",
+    "en": "Sticking it out without giving up, you're already quite remarkable."
+   },
+   {
+    "zh": "这点困难对他来说算不了什么,他很快就克服了。",
+    "pinyin": "Zhè diǎn kùn nán duì tā lái shuō suàn bù liǎo shén me, tā hěn kuài jiù kè fú le。",
+    "en": "This difficulty was nothing to him; he soon overcame it."
+   },
+   {
+    "zh": "论手艺,他在这条街上算是最出名的一位师傅了。",
+    "pinyin": "Lùn shǒu yì, tā zài zhè tiáo jiē shàng suàn shì zuì chū míng de yī wèi shī fù le。",
+    "en": "In craftsmanship, he's the most famous master on this street."
+   }
+  ]
+ },
+ {
+  "id": "g216",
+  "level": 3,
+  "title": "\"来\" ile eylem üstlenme (dummy fiil)",
+  "titleEn": "Using \"lai\" as a dummy verb",
+  "pattern": "(让 +) Özne + 来 + (Fiil)",
+  "summary": "\"来\" başka bir fiilin yerine geçip \"bir işi üstlenmeyi\" bildirir: 我来吧 = Ben yapayım; 让我来 = Bırak ben halledeyim.",
+  "explanation": "\"来\" bazen somut \"gelmek\" anlamını yitirip, bir eylemi ÜSTLENMEYİ, bir işe girişmeyi bildiren bir \"dummy\" (yer tutucu) fiil olur — çoğu zaman asıl fiili söylemeden. 我来吧 (Bırak ben yapayım), 让我来试试 (Bir ben deneyeyim), 这件事由我来负责 (Bu işi ben üstleneyim), 咱们来玩个游戏 (Hadi bir oyun oynayalım). Bir işi kimin yapacağını belirtir ya da bir eyleme başlamak için nazik/canlı bir giriş sunar (来,咱们开始吧 = Hadi, başlayalım). Çoğu zaman \"让...来\" ya da \"由...来\" kalıbında gelir. Asıl fiil bağlamdan anlaşıldığında düşebilir (你累了,我来 = Yorulmuşsun, ben yaparım). Türkçedeki \"ben yapayım, bırak ben halledeyim, hadi ...-elim, ...-i üstlenmek\" gibi ifadelere denk gelir; bir işe girişmeyi ya da üstlenmeyi belirtir.",
+  "examples": [
+   {
+    "zh": "这个箱子太重了,你别搬了,我来吧。",
+    "pinyin": "Zhè ge xiāng zi tài zhòng le, nǐ bié bān le, wǒ lái ba。",
+    "en": "This box is too heavy; don't lift it, let me do it."
+   },
+   {
+    "zh": "你歇一会儿,剩下的活儿让我来。",
+    "pinyin": "Nǐ xiē yī huì er, shèng xià de huó er ràng wǒ lái。",
+    "en": "Take a rest; let me handle the rest of the work."
+   },
+   {
+    "zh": "这道菜有点儿难做,还是我来吧,你在旁边看着。",
+    "pinyin": "Zhè dào cài yǒu diǎn ér nán zuò, hái shì wǒ lái ba, nǐ zài páng biān kàn zhe。",
+    "en": "This dish is a bit tricky; let me do it while you watch."
+   },
+   {
+    "zh": "大家别急,这件事就由我来负责协调。",
+    "pinyin": "Dà jiā bié jí, zhè jiàn shì jiù yóu wǒ lái fù zé xié tiáo。",
+    "en": "Don't worry, everyone; I'll take charge of coordinating this."
+   },
+   {
+    "zh": "来,咱们先来做个自我介绍,互相认识一下。",
+    "pinyin": "Lái, zán men xiān lái zuò gè zì wǒ jiè shào, hù xiāng rèn shí yī xià。",
+    "en": "Come, let's first introduce ourselves and get acquainted."
+   },
+   {
+    "zh": "你不太熟悉这里,前面的路让我来带吧。",
+    "pinyin": "Nǐ bù tài shú xī zhè lǐ, qián miàn de lù ràng wǒ lái dài ba。",
+    "en": "You don't know it well here; let me lead the way ahead."
+   },
+   {
+    "zh": "这个游戏怎么玩?来,我来教你。",
+    "pinyin": "Zhè ge yóu xì zěn me wán? lái, wǒ lái jiào nǐ。",
+    "en": "How is this game played? Come, let me teach you."
+   },
+   {
+    "zh": "你嗓子不舒服就别唱了,这首歌我来。",
+    "pinyin": "Nǐ sǎng zi bù shū fú jiù bié chàng le, zhè shǒu gē wǒ lái。",
+    "en": "If your throat's sore, don't sing; I'll take this song."
+   },
+   {
+    "zh": "客人来了,倒茶的事我来,你去准备点心。",
+    "pinyin": "Kè rén lái le, dào chá de shì wǒ lái, nǐ qù zhǔn bèi diǎn xīn。",
+    "en": "Guests are here; I'll pour the tea, you prepare snacks."
+   },
+   {
+    "zh": "这段话由谁来读?要不然还是我来吧。",
+    "pinyin": "Zhè duàn huà yóu shuí lái dú? yào bù rán hái shì wǒ lái ba。",
+    "en": "Who'll read this passage? Or shall I do it?"
+   },
+   {
+    "zh": "你别动手了,弄脏了衣服可不好,我来收拾。",
+    "pinyin": "Nǐ bié dòng shǒu le, nòng zāng le yī fú kě bù hǎo, wǒ lái shōu shí。",
+    "en": "Don't do it yourself; you'll dirty your clothes, I'll clean up."
+   },
+   {
+    "zh": "来,大家把手牵起来,咱们一起做个游戏。",
+    "pinyin": "Lái, dà jiā bǎ shǒu qiān qǐ lái, zán men yì qǐ zuò gè yóu xì。",
+    "en": "Come, everyone join hands; let's play a game together."
+   },
+   {
+    "zh": "这么重要的发言,还是让有经验的老张来吧。",
+    "pinyin": "Zhè me zhòng yào de fā yán, hái shì ràng yǒu jīng yàn de lǎo zhāng lái ba。",
+    "en": "For such an important speech, let experienced Old Zhang do it."
+   },
+   {
+    "zh": "锅里的菜快糊了,快让我来翻一下。",
+    "pinyin": "Guō lǐ de cài kuài hú le, kuài ràng wǒ lái fān yī xià。",
+    "en": "The food in the pan is nearly burnt; let me turn it."
+   },
+   {
+    "zh": "你先坐下休息,接下来的事情我来处理。",
+    "pinyin": "Nǐ xiān zuò xià xiū xī, jiē xià lái de shì qíng wǒ lái chǔ lǐ。",
+    "en": "Sit and rest first; I'll handle what comes next."
+   },
+   {
+    "zh": "这些照片的整理工作,就交给我来做吧。",
+    "pinyin": "Zhè xiē zhào piān de zhěng lǐ gōng zuò, jiù jiāo gěi wǒ lái zuò ba。",
+    "en": "Leave the sorting of these photos to me."
+   },
+   {
+    "zh": "来,咱们来分个工,这样效率会高一些。",
+    "pinyin": "Lái, zán men lái fēn gè gōng, zhè yàng xiào lǜ huì gāo yī xiē。",
+    "en": "Come, let's divide the work; it'll be more efficient."
+   },
+   {
+    "zh": "你不会用这个软件没关系,我来帮你操作。",
+    "pinyin": "Nǐ bú huì yòng zhè ge ruǎn jiàn méi guān xì, wǒ lái bāng nǐ cāo zuò。",
+    "en": "It's fine if you can't use this software; I'll operate it for you."
+   },
+   {
+    "zh": "这次的开场白由你来说,压轴的部分我来。",
+    "pinyin": "Zhè cì de kāi chǎng bái yóu nǐ lái shuō, yā zhòu de bù fèn wǒ lái。",
+    "en": "You give the opening remarks; I'll take the finale."
+   },
+   {
+    "zh": "孩子够不着高处的东西,还是我来拿吧。",
+    "pinyin": "Hái zi gòu bù zhe gāo chù de dōng xī, hái shì wǒ lái ná ba。",
+    "en": "The child can't reach high things; let me get them."
+   },
+   {
+    "zh": "大家都拿不定主意,那这个决定就由我来做。",
+    "pinyin": "Dà jiā dōu ná bù dìng zhǔ yì, nà zhè ge jué dìng jiù yóu wǒ lái zuò。",
+    "en": "Since no one can decide, I'll make this decision."
+   },
+   {
+    "zh": "你刚忙完,歇会儿,洗碗的事我来。",
+    "pinyin": "Nǐ gāng máng wán, xiē huì er, xǐ wǎn de shì wǒ lái。",
+    "en": "You just finished; rest a bit, I'll do the dishes."
+   },
+   {
+    "zh": "来,咱们来算一算,这次一共花了多少钱。",
+    "pinyin": "Lái, zán men lái suàn yī suàn, zhè cì yī gòng huā le duō shǎo qián。",
+    "en": "Come, let's calculate how much we spent in total."
+   },
+   {
+    "zh": "这段路你开累了吧?接下来我来开车。",
+    "pinyin": "Zhè duàn lù nǐ kāi lèi le ba? jiē xià lái wǒ lái kāi chē。",
+    "en": "You must be tired from driving; I'll drive from here."
+   },
+   {
+    "zh": "有什么需要跑腿的杂事,尽管让我来。",
+    "pinyin": "Yǒu shén me xū yào pǎo tuǐ de zá shì, jǐn guǎn ràng wǒ lái。",
+    "en": "For any errands that need running, just let me do them."
+   }
+  ]
+ },
+ {
+  "id": "g217",
+  "level": 3,
+  "title": "\"不用\" ile \"...-e gerek yok\"",
+  "titleEn": "Expressing \"don't need to\" with \"buyong\"",
+  "pattern": "Özne + 不用 + Fiil Öbeği",
+  "summary": "\"不用\" (búyòng) bir şeyin GEREKMEDİĞİNİ bildirir: 不用担心 = merak etmene gerek yok; 不用谢 = rica ederim (teşekküre gerek yok).",
+  "explanation": "\"不用\" bir eylemin GEREKLİ OLMADIĞINI, ona gerek bulunmadığını bildirir: \"...-e gerek yok, ...-mene gerek yok, gerekmez\". 你不用来接我,我自己能回去 (Beni almaya gelmene gerek yok, kendim dönerim), 这件事不用告诉他 (Bunu ona söylemeye gerek yok), 不用客气 (rica ederim / lütfen çekinme). \"要/得\" (gereklilik) yapısının olumsuzudur: \"必须/得\"nin \"gerekli\" anlamının karşıtı \"不用/不必\"dir (\"不得\" değil). \"不必\" ile eş anlamlıdır; \"不用\" daha konuşma dilidir. Nazik reddetme ve rahatlatmalarda çok kullanılır (不用麻烦了 = zahmet etme). Türkçedeki \"...-e gerek yok, gerekmez, ...-mene gerek yok, zahmet etme\" ifadelerine denk gelir; gereksizliği belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "你不用担心我,我一个人完全能照顾好自己。",
+    "pinyin": "Nǐ bù yòng dān xīn wǒ, wǒ yí gè rén wán quán néng zhào gù hǎo zì jǐ。",
+    "en": "Don't worry about me; I can take care of myself just fine."
+   },
+   {
+    "zh": "这点小事不用麻烦你了,我自己来就行。",
+    "pinyin": "Zhè diǎn xiǎo shì bù yòng má fán nǐ le, wǒ zì jǐ lái jiù xíng。",
+    "en": "No need to trouble you with this trifle; I'll handle it myself."
+   },
+   {
+    "zh": "你不用特意跑一趟,发个消息告诉我就可以了。",
+    "pinyin": "Nǐ bù yòng tè yì pǎo yī tàng, fā gè xiāo xī gào sù wǒ jiù kě yǐ le。",
+    "en": "You needn't make a special trip; just message me."
+   },
+   {
+    "zh": "时间还早,你不用这么着急,慢慢来。",
+    "pinyin": "Shí jiān hái zǎo, nǐ bù yòng zhè me zhe jí, màn màn lái。",
+    "en": "It's still early; no need to rush, take your time."
+   },
+   {
+    "zh": "这件事你知道就好,不用告诉别人。",
+    "pinyin": "Zhè jiàn shì nǐ zhī dào jiù hǎo, bù yòng gào sù bié rén。",
+    "en": "Just keep this to yourself; no need to tell others."
+   },
+   {
+    "zh": "不用谢,这都是我应该做的,别客气。",
+    "pinyin": "Bù yòng xiè, zhè dōu shì wǒ yīng gāi zuò de, bié kè qì。",
+    "en": "You're welcome; it's just what I should do, don't mention it."
+   },
+   {
+    "zh": "你不用来接我,我认识路,自己坐车回去。",
+    "pinyin": "Nǐ bù yòng lái jiē wǒ, wǒ rèn shí lù, zì jǐ zuò chē huí qù。",
+    "en": "You needn't pick me up; I know the way and can take the bus back."
+   },
+   {
+    "zh": "剩下的菜不用倒掉,晚上热一热还能吃。",
+    "pinyin": "Shèng xià de cài bù yòng dào diào, wǎn shàng rè yī rè hái néng chī。",
+    "en": "No need to throw away the leftovers; reheat them for dinner."
+   },
+   {
+    "zh": "你不用勉强自己,不想去就直接说。",
+    "pinyin": "Nǐ bù yòng miǎn qiǎng zì jǐ, bù xiǎng qù jiù zhí jiē shuō。",
+    "en": "Don't force yourself; if you don't want to go, just say so."
+   },
+   {
+    "zh": "这么点儿路不用打车,走过去几分钟就到了。",
+    "pinyin": "Zhè me diǎn er lù bù yòng dǎ chē, zǒu guò qù jǐ fēn zhōng jiù dào le。",
+    "en": "Such a short distance needs no taxi; a few minutes' walk gets there."
+   },
+   {
+    "zh": "你身体不舒服就好好休息,今天不用来上班了。",
+    "pinyin": "Nǐ shēn tǐ bù shū fú jiù hǎo hǎo xiū xī, jīn tiān bù yòng lái shàng bān le。",
+    "en": "If you're unwell, rest well; you needn't come to work today."
+   },
+   {
+    "zh": "这些资料我已经准备好了,你不用再费心了。",
+    "pinyin": "Zhè xiē zī liào wǒ yǐ jīng zhǔn bèi hǎo le, nǐ bù yòng zài fèi xīn le。",
+    "en": "I've already prepared these materials; you needn't bother."
+   },
+   {
+    "zh": "不用买那么多东西,咱们两个人吃不了那么多。",
+    "pinyin": "Bù yòng mǎi nà me duō dōng xī, zán men liǎng gè rén chī bù liǎo nà me duō。",
+    "en": "No need to buy so much; the two of us can't finish it all."
+   },
+   {
+    "zh": "你不用向我道歉,这件事本来就不怪你。",
+    "pinyin": "Nǐ bù yòng xiàng wǒ dào qiàn, zhè jiàn shì běn lái jiù bù guài nǐ。",
+    "en": "You needn't apologize to me; this wasn't your fault anyway."
+   },
+   {
+    "zh": "这个道理很简单,不用我多说你也明白。",
+    "pinyin": "Zhè ge dào lǐ hěn jiǎn dān, bù yòng wǒ duō shuō nǐ yě míng bái。",
+    "en": "This is simple; you understand without me saying more."
+   },
+   {
+    "zh": "天气预报说今天不下雨,你不用带伞了。",
+    "pinyin": "Tiān qì yù bào shuō jīn tiān bù xià yǔ, nǐ bù yòng dài sǎn le。",
+    "en": "The forecast says no rain today; you needn't bring an umbrella."
+   },
+   {
+    "zh": "你不用担心费用的问题,这次都由公司报销。",
+    "pinyin": "Nǐ bù yòng dān xīn fèi yòng de wèn tí, zhè cì dōu yóu gōng sī bào xiāo。",
+    "en": "Don't worry about the cost; the company will reimburse it all."
+   },
+   {
+    "zh": "这件衣服在家穿,不用熨得那么平整。",
+    "pinyin": "Zhè jiàn yī fú zài jiā chuān, bù yòng yùn de nà me píng zhěng。",
+    "en": "For wearing at home, this outfit needn't be ironed so flat."
+   },
+   {
+    "zh": "你不用一直守着我,去忙你自己的事吧。",
+    "pinyin": "Nǐ bù yòng yì zhí shǒu zhe wǒ, qù máng nǐ zì jǐ de shì ba。",
+    "en": "You needn't keep watching over me; go do your own things."
+   },
+   {
+    "zh": "既然大家都清楚了,那就不用再开会讨论了。",
+    "pinyin": "Jì rán dà jiā dōu qīng chǔ le, nà jiù bù yòng zài kāi huì tǎo lùn le。",
+    "en": "Since everyone's clear, there's no need to hold another meeting."
+   },
+   {
+    "zh": "这点小伤不用去医院,贴个创可贴就行。",
+    "pinyin": "Zhè diǎn xiǎo shāng bù yòng qù yī yuàn, tiē gè chuàng kě tiē jiù xíng。",
+    "en": "This small cut needs no hospital; a bandage will do."
+   },
+   {
+    "zh": "你不用羡慕别人,你也有很多别人没有的优点。",
+    "pinyin": "Nǐ bù yòng xiàn mù bié rén, nǐ yě yǒu hěn duō bié rén méi yǒu de yōu diǎn。",
+    "en": "Don't envy others; you too have merits others lack."
+   },
+   {
+    "zh": "剩下的路我认识,你不用送了,快回去吧。",
+    "pinyin": "Shèng xià de lù wǒ rèn shí, nǐ bù yòng sòng le, kuài huí qù ba。",
+    "en": "I know the rest of the way; don't see me off, go back."
+   },
+   {
+    "zh": "这么简单的操作,看一遍就会了,不用记笔记。",
+    "pinyin": "Zhè me jiǎn dān de cāo zuò, kàn yī biàn jiù huì le, bù yòng jì bǐ jì。",
+    "en": "Such simple steps you'll get after one look; no need to take notes."
+   },
+   {
+    "zh": "你不用什么都自己扛着,有困难跟大家说。",
+    "pinyin": "Nǐ bù yòng shén me dōu zì jǐ káng zhe, yǒu kùn nán gēn dà jiā shuō。",
+    "en": "You needn't shoulder everything alone; tell us your troubles."
+   }
+  ]
+ },
+ {
+  "id": "g218",
+  "level": 3,
+  "title": "\"得\" (děi) ile \"...-meli, gerek\"",
+  "titleEn": "Expressing \"must\" with \"dei\"",
+  "pattern": "得 (děi) + Fiil",
+  "summary": "\"得\" (děi) bir gerekliliği/zorunluluğu bildirir: 我得走了 = Gitmem gerek; 你得注意身体 = Sağlığına dikkat etmelisin.",
+  "explanation": "\"得\" (burada \"děi\" okunur, complement 得 = de ya da obtain 得 = dé ile karıştırılmamalı) bir GEREKLİLİĞİ, zorunluluğu ya da güçlü bir tahmini bildirir: \"...-meli, ...-mem gerek, ...-mek zorunda\". 时间不早了,我得走了 (Vakit geç oldu, gitmem gerek), 你得多喝水 (Daha çok su içmelisin), 这么大的工程得花不少钱 (Böyle büyük bir iş bir hayli para gerektirir). \"要/应该\"ye benzer ama \"得\" özellikle KAÇINILMAZ bir zorunluluğu, konuşma dilinde vurgular. ÖNEMLİ: \"得\"nin olumsuzu \"不得\" DEĞİLDİR; gereksizlik için \"不用/不必\" (bkz. ayrı konu) kullanılır. Yalnızca olumlu/gereklilik cümlelerinde \"得\" gelir. Türkçedeki \"...-meli, ...-mem gerek, ...-mek zorunda, mecbur\" ifadelerine denk gelir; günlük konuşmada zorunluluk bildirmenin en yaygın yoludur.",
+  "examples": [
+   {
+    "zh": "时间不早了,我得赶紧回家了,不然赶不上末班车。",
+    "pinyin": "Shí jiān bù zǎo le, wǒ děi gǎn jǐn huí jiā le, bù rán gǎn bù shàng mò bān chē。",
+    "en": "It's late; I must hurry home or I'll miss the last bus."
+   },
+   {
+    "zh": "你最近脸色不好,得好好检查一下身体了。",
+    "pinyin": "Nǐ zuì jìn liǎn sè bù hǎo, de hǎo hǎo jiǎn chá yī xià shēn tǐ le。",
+    "en": "You've looked unwell lately; you must get a proper checkup."
+   },
+   {
+    "zh": "这件事很重要,咱们得认真对待,不能马虎。",
+    "pinyin": "Zhè jiàn shì hěn zhòng yào, zán men děi rèn zhēn duì dài, bù néng mǎ hǔ。",
+    "en": "This matter is important; we must take it seriously, no carelessness."
+   },
+   {
+    "zh": "要想把汉语学好,你得每天坚持练习。",
+    "pinyin": "Yào xiǎng bǎ hàn yǔ xué hǎo, nǐ děi měi tiān jiān chí liàn xí。",
+    "en": "To master Chinese, you must practice every day."
+   },
+   {
+    "zh": "这么远的路,开车至少得三个多小时。",
+    "pinyin": "Zhè me yuǎn de lù, kāi chē zhì shǎo de sān gè duō xiǎo shí。",
+    "en": "For such a long way, driving takes at least over three hours."
+   },
+   {
+    "zh": "明天要早起,今晚我们得早点睡。",
+    "pinyin": "Míng tiān yào zǎo qǐ, jīn wǎn wǒ men de zǎo diǎn shuì。",
+    "en": "We have to get up early tomorrow, so we must sleep early tonight."
+   },
+   {
+    "zh": "答应了别人的事,就得说到做到。",
+    "pinyin": "Dā yìng le bié rén de shì, jiù de shuō dào zuò dào。",
+    "en": "Once you've promised someone, you must keep your word."
+   },
+   {
+    "zh": "这么大的房子,打扫一遍得花大半天。",
+    "pinyin": "Zhè me dà de fáng zi, dǎ sǎo yī biàn de huā dà bàn tiān。",
+    "en": "Cleaning such a big house takes most of a day."
+   },
+   {
+    "zh": "你要是想成功,就得付出比别人更多的努力。",
+    "pinyin": "Nǐ yào shì xiǎng chéng gōng, jiù de fù chū bǐ bié rén gèng duō de nǔ lì。",
+    "en": "If you want to succeed, you must work harder than others."
+   },
+   {
+    "zh": "孩子病了,妈妈今晚得守在他身边照顾。",
+    "pinyin": "Hái zi bìng le, mā mā jīn wǎn de shǒu zài tā shēn biān zhào gù。",
+    "en": "The child is ill; mom must stay by him tonight to care for him."
+   },
+   {
+    "zh": "这个项目要按时完成,大家这几天都得加班。",
+    "pinyin": "Zhè ge xiàng mù yào àn shí wán chéng, dà jiā zhè jǐ tiān dōu de jiā bān。",
+    "en": "To finish this project on time, everyone must work overtime these days."
+   },
+   {
+    "zh": "过马路时你得看红绿灯,注意来往的车辆。",
+    "pinyin": "Guò mǎ lù shí nǐ de kàn hóng lǜ dēng, zhù yì lái wǎng de chē liàng。",
+    "en": "When crossing the road, you must watch the lights and traffic."
+   },
+   {
+    "zh": "天冷了,出门你得多穿点儿,别着凉。",
+    "pinyin": "Tiān lěng le, chū mén nǐ de duō chuān diǎn ér, bié zháo liáng。",
+    "en": "It's cold; you must dress warmly when going out to avoid chills."
+   },
+   {
+    "zh": "这道题有点难,我得再仔细想想才能做出来。",
+    "pinyin": "Zhè dào tí yǒu diǎn nán, wǒ děi zài zǐ xì xiǎng xiǎng cái néng zuò chū lái。",
+    "en": "This problem is a bit hard; I must think carefully to solve it."
+   },
+   {
+    "zh": "要想赢这场比赛,我们全队都得拼尽全力。",
+    "pinyin": "Yào xiǎng yíng zhè chǎng bǐ sài, wǒ men quán duì dōu de pīn jìn quán lì。",
+    "en": "To win this match, the whole team must give it their all."
+   },
+   {
+    "zh": "这些钱是大家凑的,我得一分不差地记清楚。",
+    "pinyin": "Zhè xiē qián shì dà jiā còu de, wǒ děi yī fēn bù chà de jì qīng chǔ。",
+    "en": "This money was pooled by all; I must record it to the cent."
+   },
+   {
+    "zh": "你既然选择了这条路,就得坚持走下去。",
+    "pinyin": "Nǐ jì rán xuǎn zé le zhè tiáo lù, jiù de jiān chí zǒu xià qù。",
+    "en": "Since you chose this path, you must persist on it."
+   },
+   {
+    "zh": "客人马上要来了,咱们得赶紧把屋子收拾好。",
+    "pinyin": "Kè rén mǎ shàng yào lái le, zán men děi gǎn jǐn bǎ wū zi shōu shí hǎo。",
+    "en": "Guests are arriving soon; we must tidy up the room quickly."
+   },
+   {
+    "zh": "这么重要的会议,你无论如何都得参加。",
+    "pinyin": "Zhè me zhòng yào de huì yì, nǐ wú lùn rú hé dōu de cān jiā。",
+    "en": "For such an important meeting, you must attend no matter what."
+   },
+   {
+    "zh": "身体是革命的本钱,再忙你也得注意休息。",
+    "pinyin": "Shēn tǐ shì gé mìng de běn qián, zài máng nǐ yě de zhù yì xiū xī。",
+    "en": "Health is the basis of everything; however busy, you must rest."
+   },
+   {
+    "zh": "这件事得跟父母商量商量,不能自己就定了。",
+    "pinyin": "Zhè jiàn shì de gēn fù mǔ shāng liáng shāng liáng, bù néng zì jǐ jiù dìng le。",
+    "en": "This must be discussed with my parents; I can't decide alone."
+   },
+   {
+    "zh": "要想按时到达,我们最晚六点就得出发。",
+    "pinyin": "Yào xiǎng àn shí dào dá, wǒ men zuì wǎn liù diǎn jiù dé chū fā。",
+    "en": "To arrive on time, we must leave by six at the latest."
+   },
+   {
+    "zh": "你欠别人的钱,早晚都得还,别一直拖着。",
+    "pinyin": "Nǐ qiàn bié rén de qián, zǎo wǎn dōu de hái, bié yì zhí tuō zhe。",
+    "en": "You must repay what you owe sooner or later; don't keep putting it off."
+   },
+   {
+    "zh": "这么多作业,看样子我今晚又得熬夜了。",
+    "pinyin": "Zhè me duō zuò yè, kàn yàng zi wǒ jīn wǎn yòu de áo yè le。",
+    "en": "With so much homework, it seems I must stay up again tonight."
+   },
+   {
+    "zh": "想把菜做得好吃,火候得掌握得恰到好处。",
+    "pinyin": "Xiǎng bǎ cài zuò de hǎo chī, huǒ hòu de zhǎng wò de qià dào hǎo chù。",
+    "en": "To cook tasty food, you must control the heat just right."
+   }
+  ]
+ },
+ {
+  "id": "g219",
+  "level": 3,
+  "title": "\"少\" ile \"daha az ...-mek\"",
+  "titleEn": "Doing something less with \"shao\"",
+  "pattern": "少 + Fiil (+ Nesne)",
+  "summary": "\"少\" (shǎo) bir fiilin önüne gelip \"daha az ...-mek\" der: 少吃 = daha az ye; 少说话 = az konuş. Karşıtı \"多\" (daha çok).",
+  "explanation": "\"少\" bir fiilin önüne gelerek eylemin AZ/daha az yapılmasını bildirir: 少吃点儿 (biraz daha az ye), 少喝酒 (az içki iç), 少花钱 (daha az para harca). Karşıtı \"多\"dır (daha çok): 多吃蔬菜,少吃肉 (Çok sebze ye, az et ye). Sıklıkla bir öğüt, tavsiye ya da nazik uyarı biçiminde gelir ve ardından çoğu zaman bir miktar (点儿) eklenir. Emir kipinde \"az ...-me\" anlamı da verir: 少管闲事 (başkasının işine az karış / karışma). \"少\" ayrıca sıfat olarak \"az\" (人很少 = insan az) anlamına da gelir, ama fiil önündeki bu kullanım \"daha az yapmak\" eylemini anlatır. Türkçedeki \"az ...-mek, daha az ...-mek, ...-mekten kaçınmak\" ifadelerine denk gelir; ölçülü davranmayı öğütlemenin yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "为了健康,你应该多吃蔬菜,少吃油腻的东西。",
+    "pinyin": "Wèi le jiàn kāng, nǐ yīng gāi duō chī shū cài, shǎo chī yóu nì de dōng xī。",
+    "en": "For health, you should eat more vegetables and less greasy food."
+   },
+   {
+    "zh": "天气热,要多喝水,少喝含糖的饮料。",
+    "pinyin": "Tiān qì rè, yào duō hē shuǐ, shǎo hē hán táng de yǐn liào。",
+    "en": "In hot weather, drink more water and fewer sugary drinks."
+   },
+   {
+    "zh": "你少熬夜,早点睡,身体才能慢慢好起来。",
+    "pinyin": "Nǐ shǎo áo yè, zǎo diǎn shuì, shēn tǐ cái néng màn màn hǎo qǐ lái。",
+    "en": "Stay up less and sleep early; only then will your health recover."
+   },
+   {
+    "zh": "这件事跟你没关系,你就少管闲事吧。",
+    "pinyin": "Zhè jiàn shì gēn nǐ méi guān xì, nǐ jiù shǎo guǎn xián shì ba。",
+    "en": "This is none of your business; mind your own affairs."
+   },
+   {
+    "zh": "买东西要精打细算,能少花钱就少花钱。",
+    "pinyin": "Mǎi dōng xī yào jīng dǎ xì suàn, néng shǎo huā qián jiù shǎo huā qián。",
+    "en": "Shop wisely; spend as little as you can."
+   },
+   {
+    "zh": "开车的时候少看手机,注意安全最重要。",
+    "pinyin": "Kāi chē de shí hòu shǎo kàn shǒu jī, zhù yì ān quán zuì zhòng yào。",
+    "en": "Look at your phone less while driving; safety matters most."
+   },
+   {
+    "zh": "你脾气太急,以后遇事要少发火,多冷静。",
+    "pinyin": "Nǐ pí qì tài jí, yǐ hòu yù shì yào shǎo fā huǒ, duō lěng jìng。",
+    "en": "You're too hot-tempered; get angry less and stay calm more."
+   },
+   {
+    "zh": "为了省电,没人的房间要少开灯。",
+    "pinyin": "Wèi le shěng diàn, méi rén de fáng jiān yào shǎo kāi dēng。",
+    "en": "To save electricity, keep lights off in empty rooms."
+   },
+   {
+    "zh": "他劝我少操点心,很多事情顺其自然就好。",
+    "pinyin": "Tā quàn wǒ shǎo cāo diǎn xīn, hěn duō shì qíng shùn qí zì rán jiù hǎo。",
+    "en": "He advised me to worry less and let things take their course."
+   },
+   {
+    "zh": "减肥期间,你得少吃甜食,多做运动。",
+    "pinyin": "Jiǎn féi qī jiān, nǐ děi shǎo chī tián shí, duō zuò yùn dòng。",
+    "en": "While dieting, you must eat fewer sweets and exercise more."
+   },
+   {
+    "zh": "说话要多想想别人的感受,少说伤人的话。",
+    "pinyin": "Shuō huà yào duō xiǎng xiǎng bié rén de gǎn shòu, shǎo shuō shāng rén de huà。",
+    "en": "Consider others' feelings when speaking; say fewer hurtful things."
+   },
+   {
+    "zh": "你少跟那些不三不四的人来往,免得学坏。",
+    "pinyin": "Nǐ shǎo gēn nà xiē bù sān bù sì de rén lái wǎng, miǎn de xué huài。",
+    "en": "Associate less with dubious people, lest you pick up bad habits."
+   },
+   {
+    "zh": "为了保护眼睛,孩子应该少看电视和手机。",
+    "pinyin": "Wèi le bǎo hù yǎn jīng, hái zi yīng gāi shǎo kàn diàn shì hé shǒu jī。",
+    "en": "To protect their eyes, children should watch less TV and fewer phones."
+   },
+   {
+    "zh": "路上少耽误一点儿时间,咱们还能赶上那趟车。",
+    "pinyin": "Lù shàng shǎo dān wù yì diǎn ér shí jiān, zán men hái néng gǎn shàng nà tàng chē。",
+    "en": "Waste a little less time on the way and we can catch that bus."
+   },
+   {
+    "zh": "你少喝点儿酒吧,喝多了对身体不好。",
+    "pinyin": "Nǐ shǎo hē diǎn ér jiǔ bā, hē duō le duì shēn tǐ bù hǎo。",
+    "en": "Drink a bit less; too much is bad for your health."
+   },
+   {
+    "zh": "做事要脚踏实地,少说空话,多干实事。",
+    "pinyin": "Zuò shì yào jiǎo tà shí de, shǎo shuō kōng huà, duō gàn shí shì。",
+    "en": "Work down-to-earth; talk less and do more real work."
+   },
+   {
+    "zh": "为了不打扰邻居,晚上要少制造噪音。",
+    "pinyin": "Wèi le bù dǎ rǎo lín jū, wǎn shàng yào shǎo zhì zào zào yīn。",
+    "en": "To avoid disturbing neighbors, make less noise at night."
+   },
+   {
+    "zh": "他建议我们少走弯路,直接找专业的人帮忙。",
+    "pinyin": "Tā jiàn yì wǒ men shǎo zǒu wān lù, zhí jiē zhǎo zhuān yè de rén bāng máng。",
+    "en": "He suggested we take fewer detours and just ask professionals."
+   },
+   {
+    "zh": "你最近火气大,饮食上要清淡些,少吃辣。",
+    "pinyin": "Nǐ zuì jìn huǒ qì dà, yǐn shí shàng yào qīng dàn xiē, shǎo chī là。",
+    "en": "You've been irritable lately; eat lighter and less spicy food."
+   },
+   {
+    "zh": "为了省钱,他平时能少买就少买,从不乱花。",
+    "pinyin": "Wèi le shěng qián, tā píng shí néng shǎo mǎi jiù shǎo mǎi, cóng bù luàn huā。",
+    "en": "To save money, he buys as little as possible and never wastes."
+   },
+   {
+    "zh": "上了年纪,盐要少放,清淡的饮食更健康。",
+    "pinyin": "Shàng le nián jì, yán yào shǎo fàng, qīng dàn de yǐn shí gèng jiàn kāng。",
+    "en": "With age, use less salt; a light diet is healthier."
+   },
+   {
+    "zh": "你少跟他计较,他也不是故意的,大度一点。",
+    "pinyin": "Nǐ shǎo gēn tā jì jiào, tā yě bú shì gù yì de, dà dù yì diǎn。",
+    "en": "Quibble less with him; he didn't mean it, be magnanimous."
+   },
+   {
+    "zh": "为了保护环境,我们应该少用一次性的东西。",
+    "pinyin": "Wèi le bǎo hù huán jìng, wǒ men yīng gāi shǎo yòng yí cì xìng de dōng xī。",
+    "en": "To protect the environment, we should use fewer disposables."
+   },
+   {
+    "zh": "这段时间少出门,在家好好养病要紧。",
+    "pinyin": "Zhè duàn shí jiān shǎo chū mén, zài jiā hǎo hǎo yǎng bìng yào jǐn。",
+    "en": "Go out less these days; recovering well at home is what matters."
+   },
+   {
+    "zh": "他总是提醒自己少抱怨,多想想解决的办法。",
+    "pinyin": "Tā zǒng shì tí xǐng zì jǐ shǎo bào yuàn, duō xiǎng xiǎng jiě jué de bàn fǎ。",
+    "en": "He always reminds himself to complain less and think of solutions."
+   }
+  ]
  }
 ]

@@ -6118,5 +6118,685 @@
     "en": "I've already forgiven him, so don't dwell on it either."
    }
   ]
+ },
+ {
+  "id": "g046",
+  "level": 2,
+  "title": "\"总是\" ile \"her zaman / hep\"",
+  "titleEn": "Expressing \"always\" with \"zongshi\"",
+  "pattern": "总是 + Fiil",
+  "summary": "\"总是\" (zǒngshì) tekrar eden, alışkanlık haline gelmiş bir durumu anlatır: 他总是迟到 = O hep geç kalır.",
+  "explanation": "\"总是\" bir eylemin sürekli/her defasında tekrarlandığını belirtir — genellikle bir alışkanlık ya da can sıkıcı bir eğilim: 你总是忘带钥匙 (hep anahtarını unutuyorsun). \"一直\"'ten farkı: \"一直\" kesintisiz tek bir süreç, \"总是\" ise tekrar eden ayrı olaylardır. Olumsuzu \"总是不\" (hep yapmaz) ya da \"不总是\" (her zaman değil). Konuşmada \"老是\" (lǎoshì) de aynı anlamda kullanılır.",
+  "examples": [
+   {
+    "zh": "他总是迟到,大家都习惯了。",
+    "pinyin": "Tā zǒngshì chídào, dàjiā dōu xíguàn le.",
+    "en": "He's always late, everyone's used to it."
+   },
+   {
+    "zh": "你总是这么粗心,难怪总丢东西。",
+    "pinyin": "Nǐ zǒngshì zhème cūxīn, nánguài zǒng diū dōngxi.",
+    "en": "You're always so careless, no wonder you keep losing things."
+   },
+   {
+    "zh": "妈妈总是把最好的留给我。",
+    "pinyin": "Māma zǒngshì bǎ zuì hǎo de liú gěi wǒ.",
+    "en": "Mom always saves the best for me."
+   },
+   {
+    "zh": "他总是笑着面对生活中的困难。",
+    "pinyin": "Tā zǒngshì xiàozhe miànduì shēnghuó zhōng de kùnnan.",
+    "en": "He always faces life's difficulties with a smile."
+   },
+   {
+    "zh": "你为什么总是不听我的话？",
+    "pinyin": "Nǐ wèishénme zǒngshì bù tīng wǒ de huà?",
+    "en": "Why do you never listen to me?"
+   },
+   {
+    "zh": "这个孩子总是问一些奇怪的问题。",
+    "pinyin": "Zhège háizi zǒngshì wèn yìxiē qíguài de wèntí.",
+    "en": "This child always asks strange questions."
+   },
+   {
+    "zh": "她总是在别人需要的时候伸出援手。",
+    "pinyin": "Tā zǒngshì zài biérén xūyào de shíhou shēnchū yuánshǒu.",
+    "en": "She always lends a hand when others need it."
+   },
+   {
+    "zh": "他总是把工作看得比什么都重要。",
+    "pinyin": "Tā zǒngshì bǎ gōngzuò kàn de bǐ shénme dōu zhòngyào.",
+    "en": "He always regards work as more important than anything."
+   },
+   {
+    "zh": "你不能总是靠别人,要学会独立。",
+    "pinyin": "Nǐ bù néng zǒngshì kào biérén, yào xuéhuì dúlì.",
+    "en": "You can't always rely on others, you need to be independent."
+   },
+   {
+    "zh": "我总是记不住他的名字。",
+    "pinyin": "Wǒ zǒngshì jì bu zhù tā de míngzi.",
+    "en": "I can never remember his name."
+   },
+   {
+    "zh": "每次考试前他总是特别紧张。",
+    "pinyin": "Měi cì kǎoshì qián tā zǒngshì tèbié jǐnzhāng.",
+    "en": "He always gets especially nervous before each exam."
+   },
+   {
+    "zh": "她总是为别人着想,很少想到自己。",
+    "pinyin": "Tā zǒngshì wèi biérén zhuóxiǎng, hěn shǎo xiǎngdào zìjǐ.",
+    "en": "She always thinks of others, rarely of herself."
+   },
+   {
+    "zh": "你总是这样,答应了又忘。",
+    "pinyin": "Nǐ zǒngshì zhèyàng, dāying le yòu wàng.",
+    "en": "You're always like this, you agree and then forget."
+   },
+   {
+    "zh": "他总是最后一个离开办公室。",
+    "pinyin": "Tā zǒngshì zuìhòu yí ge líkāi bàngōngshì.",
+    "en": "He's always the last to leave the office."
+   },
+   {
+    "zh": "生活总是充满了各种意外。",
+    "pinyin": "Shēnghuó zǒngshì chōngmǎn le gèzhǒng yìwài.",
+    "en": "Life is always full of surprises."
+   },
+   {
+    "zh": "她总是穿得很朴素,可是很有气质。",
+    "pinyin": "Tā zǒngshì chuān de hěn pǔsù, kěshì hěn yǒu qìzhì.",
+    "en": "She always dresses plainly but has real elegance."
+   },
+   {
+    "zh": "你总是往坏处想,难怪不开心。",
+    "pinyin": "Nǐ zǒngshì wǎng huàichù xiǎng, nánguài bù kāixīn.",
+    "en": "You always think of the worst, no wonder you're unhappy."
+   },
+   {
+    "zh": "他做事总是很有计划,从不慌乱。",
+    "pinyin": "Tā zuòshì zǒngshì hěn yǒu jìhuà, cóng bù huāngluàn.",
+    "en": "He always works with a plan and never panics."
+   },
+   {
+    "zh": "这条路总是很堵,我们换一条吧。",
+    "pinyin": "Zhè tiáo lù zǒngshì hěn dǔ, wǒmen huàn yì tiáo ba.",
+    "en": "This road is always jammed, let's take another one."
+   },
+   {
+    "zh": "父母总是希望孩子能过得比自己好。",
+    "pinyin": "Fùmǔ zǒngshì xīwàng háizi néng guò de bǐ zìjǐ hǎo.",
+    "en": "Parents always hope their children will live better than themselves."
+   },
+   {
+    "zh": "你总是把简单的事情想得太复杂。",
+    "pinyin": "Nǐ zǒngshì bǎ jiǎndān de shìqing xiǎng de tài fùzá.",
+    "en": "You always overcomplicate simple things."
+   },
+   {
+    "zh": "他总是能在关键时刻做出正确的决定。",
+    "pinyin": "Tā zǒngshì néng zài guānjiàn shíkè zuòchū zhèngquè de juédìng.",
+    "en": "He always makes the right decision at crucial moments."
+   },
+   {
+    "zh": "我总是在深夜才有灵感。",
+    "pinyin": "Wǒ zǒngshì zài shēnyè cái yǒu línggǎn.",
+    "en": "I always get inspiration only late at night."
+   },
+   {
+    "zh": "她总是那么温柔,从来不对人发脾气。",
+    "pinyin": "Tā zǒngshì nàme wēnróu, cónglái bú duì rén fā píqi.",
+    "en": "She's always so gentle and never loses her temper."
+   },
+   {
+    "zh": "好运不会总是站在你这边,要靠实力。",
+    "pinyin": "Hǎoyùn bú huì zǒngshì zhàn zài nǐ zhè biān, yào kào shílì.",
+    "en": "Luck won't always be on your side, you have to rely on ability."
+   }
+  ]
+ },
+ {
+  "id": "g047",
+  "level": 2,
+  "title": "\"还\" ile \"hâlâ / bir de / ayrıca\"",
+  "titleEn": "Expressing \"and also\" with \"hai\"",
+  "pattern": "还 + Fiil",
+  "summary": "\"还\" (hái) \"hâlâ / bir de / ayrıca\" anlamlarında ekleme veya devam bildirir: 我还有一个问题 = Bir sorum daha var.",
+  "explanation": "\"还\" çok işlevli bir zarftır: (1) Ekleme/dahası: \"她会说英文,还会说法文\" (İngilizce, bir de Fransızca konuşur). (2) Süregelen durum \"hâlâ\": \"他还在睡觉\" (hâlâ uyuyor). (3) \"还有\" ile \"bir de/ayrıca\" bağlacı. Fiil/sıfattan önce gelir. Tonlamaya göre \"beklenenden fazla\" ya da \"henüz\" nüansları katar. Miktar/ekleme anlamında çok yaygındır.",
+  "examples": [
+   {
+    "zh": "我还有一个问题想问你。",
+    "pinyin": "Wǒ hái yǒu yí ge wèntí xiǎng wèn nǐ.",
+    "en": "I have one more question to ask you."
+   },
+   {
+    "zh": "这么晚了,他还在办公室加班。",
+    "pinyin": "Zhème wǎn le, tā hái zài bàngōngshì jiābān.",
+    "en": "It's so late and he's still working overtime at the office."
+   },
+   {
+    "zh": "她会弹钢琴,还会拉小提琴。",
+    "pinyin": "Tā huì tán gāngqín, hái huì lā xiǎotíqín.",
+    "en": "She can play piano, and also violin."
+   },
+   {
+    "zh": "除了工作,他还要照顾生病的父母。",
+    "pinyin": "Chúle gōngzuò, tā hái yào zhàogù shēngbìng de fùmǔ.",
+    "en": "Besides work, he also has to care for his sick parents."
+   },
+   {
+    "zh": "你的作业还没做完,怎么就出去玩了？",
+    "pinyin": "Nǐ de zuòyè hái méi zuòwán, zěnme jiù chūqù wán le?",
+    "en": "Your homework isn't done yet, how did you go out to play?"
+   },
+   {
+    "zh": "这道菜还不错,你要不要再点一份？",
+    "pinyin": "Zhè dào cài hái búcuò, nǐ yào bu yào zài diǎn yí fèn?",
+    "en": "This dish is pretty good, do you want to order another?"
+   },
+   {
+    "zh": "天还没亮,他就已经出门了。",
+    "pinyin": "Tiān hái méi liàng, tā jiù yǐjīng chūmén le.",
+    "en": "It wasn't even light out yet, and he'd already gone out."
+   },
+   {
+    "zh": "我买了水果,还买了一些蔬菜。",
+    "pinyin": "Wǒ mǎi le shuǐguǒ, hái mǎi le yìxiē shūcài.",
+    "en": "I bought fruit, and also some vegetables."
+   },
+   {
+    "zh": "他不但学习好,还很会运动。",
+    "pinyin": "Tā búdàn xuéxí hǎo, hái hěn huì yùndòng.",
+    "en": "He not only studies well but is also good at sports."
+   },
+   {
+    "zh": "这件事还没有结束,我们不能放松。",
+    "pinyin": "Zhè jiàn shì hái méiyǒu jiéshù, wǒmen bù néng fàngsōng.",
+    "en": "This isn't over yet, we can't let our guard down."
+   },
+   {
+    "zh": "外面还在下雨,你再等一会儿吧。",
+    "pinyin": "Wàimiàn hái zài xiàyǔ, nǐ zài děng yíhuìr ba.",
+    "en": "It's still raining outside, wait a bit longer."
+   },
+   {
+    "zh": "我还想在这个城市多待几天。",
+    "pinyin": "Wǒ hái xiǎng zài zhège chéngshì duō dāi jǐ tiān.",
+    "en": "I'd like to stay a few more days in this city."
+   },
+   {
+    "zh": "他年纪不大,懂的道理还真不少。",
+    "pinyin": "Tā niánjì bú dà, dǒng de dàolǐ hái zhēn bù shǎo.",
+    "en": "He's not old, yet he understands quite a lot."
+   },
+   {
+    "zh": "除了中文,你还会说别的语言吗？",
+    "pinyin": "Chúle Zhōngwén, nǐ hái huì shuō biéde yǔyán ma?",
+    "en": "Besides Chinese, can you speak other languages?"
+   },
+   {
+    "zh": "我们还有很长的路要走,别灰心。",
+    "pinyin": "Wǒmen hái yǒu hěn cháng de lù yào zǒu, bié huīxīn.",
+    "en": "We still have a long way to go, don't lose heart."
+   },
+   {
+    "zh": "这本书我还没看完,你先别拿走。",
+    "pinyin": "Zhè běn shū wǒ hái méi kànwán, nǐ xiān bié názǒu.",
+    "en": "I haven't finished this book, don't take it away yet."
+   },
+   {
+    "zh": "他都八十岁了,身体还这么好。",
+    "pinyin": "Tā dōu bāshí suì le, shēntǐ hái zhème hǎo.",
+    "en": "He's already eighty and still so healthy."
+   },
+   {
+    "zh": "你还记得我们小时候一起玩的地方吗？",
+    "pinyin": "Nǐ hái jìde wǒmen xiǎoshíhou yìqǐ wán de dìfang ma?",
+    "en": "Do you still remember where we played as kids?"
+   },
+   {
+    "zh": "这里还有一个空位,你坐这儿吧。",
+    "pinyin": "Zhèlǐ hái yǒu yí ge kòngwèi, nǐ zuò zhèr ba.",
+    "en": "There's still an empty seat here, sit here."
+   },
+   {
+    "zh": "事情还没到最坏的地步,别太悲观。",
+    "pinyin": "Shìqing hái méi dào zuì huài de dìbù, bié tài bēiguān.",
+    "en": "Things haven't reached the worst point yet, don't be too pessimistic."
+   },
+   {
+    "zh": "你还这么年轻,机会多得是。",
+    "pinyin": "Nǐ hái zhème niánqīng, jīhuì duō de shì.",
+    "en": "You're still so young, there are plenty of opportunities."
+   },
+   {
+    "zh": "我付了房租,还剩下一点钱买吃的。",
+    "pinyin": "Wǒ fù le fángzū, hái shèngxià yìdiǎn qián mǎi chī de.",
+    "en": "After paying rent, I have a little money left for food."
+   },
+   {
+    "zh": "他现在还不知道这个坏消息。",
+    "pinyin": "Tā xiànzài hái bù zhīdào zhège huài xiāoxi.",
+    "en": "He still doesn't know this bad news."
+   },
+   {
+    "zh": "你还有什么想说的,一次说完吧。",
+    "pinyin": "Nǐ hái yǒu shénme xiǎng shuō de, yí cì shuōwán ba.",
+    "en": "Whatever else you want to say, say it all at once."
+   },
+   {
+    "zh": "这么难的事他都做到了,还有什么做不到？",
+    "pinyin": "Zhème nán de shì tā dōu zuòdào le, hái yǒu shénme zuò bu dào?",
+    "en": "He managed something this hard, what can't he do?"
+   }
+  ]
+ },
+ {
+  "id": "g048",
+  "level": 2,
+  "title": "\"刚\" ile \"az önce / yeni\"",
+  "titleEn": "Expressing \"just\" with \"gang\"",
+  "pattern": "Özne + 刚 + Fiil",
+  "summary": "\"刚\" (gāng) bir eylemin az önce/henüz gerçekleştiğini belirtir: 我刚到 = Az önce vardım.",
+  "explanation": "\"刚\" bir eylemin çok kısa süre önce olduğunu anlatan zarftır: 他刚走 (az önce gitti), 我刚吃完饭 (yeni yemek yedim). Fiilden hemen önce gelir. \"刚才\" (gāngcái) ise bir ZAMAN İSMİdir (\"az önce\") ve cümlede özneyle fiil arasında ya da başta durabilir; \"刚\" ise sadece zarftır. \"刚刚\" (gānggāng) \"刚\"'ın vurgulu biçimidir, aynı anlama gelir.",
+  "examples": [
+   {
+    "zh": "我刚到家,还没来得及换衣服。",
+    "pinyin": "Wǒ gāng dào jiā, hái méi láidejí huàn yīfu.",
+    "en": "I just got home, haven't had time to change clothes."
+   },
+   {
+    "zh": "他刚走,你要是早来五分钟就能见到他。",
+    "pinyin": "Tā gāng zǒu, nǐ yàoshi zǎo lái wǔ fēnzhōng jiù néng jiàndào tā.",
+    "en": "He just left; if you'd come five minutes earlier you'd have caught him."
+   },
+   {
+    "zh": "孩子刚睡着,请你们小声一点。",
+    "pinyin": "Háizi gāng shuìzháo, qǐng nǐmen xiǎoshēng yìdiǎn.",
+    "en": "The child just fell asleep, please keep your voices down."
+   },
+   {
+    "zh": "我刚吃完饭,现在不太想动。",
+    "pinyin": "Wǒ gāng chīwán fàn, xiànzài bú tài xiǎng dòng.",
+    "en": "I just finished eating, I don't feel like moving now."
+   },
+   {
+    "zh": "这件事我也是刚知道,还没来得及告诉你。",
+    "pinyin": "Zhè jiàn shì wǒ yěshì gāng zhīdào, hái méi láidejí gàosù nǐ.",
+    "en": "I just found out about this too, haven't had time to tell you."
+   },
+   {
+    "zh": "他刚从国外回来,还在倒时差。",
+    "pinyin": "Tā gāng cóng guówài huílái, hái zài dǎo shíchā.",
+    "en": "He just came back from abroad, still getting over jet lag."
+   },
+   {
+    "zh": "雨刚停,地上还是湿的。",
+    "pinyin": "Yǔ gāng tíng, dìshang háishì shī de.",
+    "en": "The rain just stopped, the ground is still wet."
+   },
+   {
+    "zh": "我们刚认识不久,还不太熟。",
+    "pinyin": "Wǒmen gāng rènshi bùjiǔ, hái bú tài shú.",
+    "en": "We just met not long ago, we're not that close yet."
+   },
+   {
+    "zh": "我刚想给你打电话,你就来了。",
+    "pinyin": "Wǒ gāng xiǎng gěi nǐ dǎ diànhuà, nǐ jiù lái le.",
+    "en": "I was just about to call you, and here you are."
+   },
+   {
+    "zh": "公司刚成立的时候只有三个人。",
+    "pinyin": "Gōngsī gāng chénglì de shíhou zhǐyǒu sān ge rén.",
+    "en": "When the company was just founded, there were only three people."
+   },
+   {
+    "zh": "他刚毕业,还没有工作经验。",
+    "pinyin": "Tā gāng bìyè, hái méiyǒu gōngzuò jīngyàn.",
+    "en": "He just graduated and has no work experience yet."
+   },
+   {
+    "zh": "我刚把房间收拾好,你别弄乱了。",
+    "pinyin": "Wǒ gāng bǎ fángjiān shōushi hǎo, nǐ bié nòngluàn le.",
+    "en": "I just tidied up the room, don't mess it up."
+   },
+   {
+    "zh": "太阳刚升起来,山上还有一层薄雾。",
+    "pinyin": "Tàiyáng gāng shēng qǐlái, shān shàng háiyǒu yì céng bó wù.",
+    "en": "The sun just rose, there's still a thin mist on the mountain."
+   },
+   {
+    "zh": "她刚哭过,眼睛还是红的。",
+    "pinyin": "Tā gāng kūguò, yǎnjing háishì hóng de.",
+    "en": "She just cried, her eyes are still red."
+   },
+   {
+    "zh": "我刚搬来这里,对周围还不熟悉。",
+    "pinyin": "Wǒ gāng bān lái zhèlǐ, duì zhōuwéi hái bù shúxī.",
+    "en": "I just moved here, I'm not familiar with the area yet."
+   },
+   {
+    "zh": "会议刚结束,大家都还没走。",
+    "pinyin": "Huìyì gāng jiéshù, dàjiā dōu hái méi zǒu.",
+    "en": "The meeting just ended, no one has left yet."
+   },
+   {
+    "zh": "我刚要出门,天就下起了大雨。",
+    "pinyin": "Wǒ gāng yào chūmén, tiān jiù xià qǐ le dàyǔ.",
+    "en": "Just as I was about to leave, it started pouring."
+   },
+   {
+    "zh": "这台机器刚修好,应该能用了。",
+    "pinyin": "Zhè tái jīqì gāng xiūhǎo, yīnggāi néng yòng le.",
+    "en": "This machine was just fixed, it should work now."
+   },
+   {
+    "zh": "他刚开始学中文的时候连声调都分不清。",
+    "pinyin": "Tā gāng kāishǐ xué Zhōngwén de shíhou lián shēngdiào dōu fēn bu qīng.",
+    "en": "When he just started learning Chinese, he couldn't even tell the tones apart."
+   },
+   {
+    "zh": "我刚说完这句话就后悔了。",
+    "pinyin": "Wǒ gāng shuōwán zhè jù huà jiù hòuhuǐ le.",
+    "en": "I regretted it the moment I finished saying this."
+   },
+   {
+    "zh": "这个消息是刚刚传来的,还没证实。",
+    "pinyin": "Zhège xiāoxi shì gānggāng chuánlái de, hái méi zhèngshí.",
+    "en": "This news just came in, it hasn't been confirmed."
+   },
+   {
+    "zh": "孩子刚学会走路,走得还不太稳。",
+    "pinyin": "Háizi gāng xuéhuì zǒulù, zǒu de hái bú tài wěn.",
+    "en": "The child just learned to walk, still a bit unsteady."
+   },
+   {
+    "zh": "我刚洗完的衣服,又被雨淋湿了。",
+    "pinyin": "Wǒ gāng xǐwán de yīfu, yòu bèi yǔ lín shī le.",
+    "en": "The clothes I just washed got soaked by the rain again."
+   },
+   {
+    "zh": "他刚坐下,电话就响了。",
+    "pinyin": "Tā gāng zuòxià, diànhuà jiù xiǎng le.",
+    "en": "He just sat down and the phone rang."
+   },
+   {
+    "zh": "我们的关系刚刚有点好转,别又吵架了。",
+    "pinyin": "Wǒmen de guānxi gānggāng yǒudiǎn hǎozhuǎn, bié yòu chǎojià le.",
+    "en": "Our relationship just started to improve, let's not fight again."
+   }
+  ]
+ },
+ {
+  "id": "g049",
+  "level": 2,
+  "title": "\"只\" ile \"sadece / yalnızca\"",
+  "titleEn": "Expressing \"only\" with \"zhi\"",
+  "pattern": "只 + Fiil",
+  "summary": "\"只\" (zhǐ) bir şeyi tek/sınırlı olarak belirtir: 我只有一个妹妹 = Sadece bir kız kardeşim var.",
+  "explanation": "\"只\" \"sadece, yalnızca, tek\" anlamı veren zarftır ve sınırladığı fiil/ifadeden hemen önce gelir: 我只想休息 (sadece dinlenmek istiyorum). Miktar sınırlaması için çok yaygındır: 只有 (sadece ... var), 只要 (yeter ki), 只是 (yalnızca / ama). \"只\" ile \"就\" birlikte sık kullanılır. Sınırladığı öge fiilden sonraysa dikkatli konumlandırmak gerekir.",
+  "examples": [
+   {
+    "zh": "我只想安安静静地过日子。",
+    "pinyin": "Wǒ zhǐ xiǎng ān'ānjìngjìng de guò rìzi.",
+    "en": "I just want to live a quiet life."
+   },
+   {
+    "zh": "我们家只有我一个孩子。",
+    "pinyin": "Wǒmen jiā zhǐ yǒu wǒ yí ge háizi.",
+    "en": "I'm the only child in our family."
+   },
+   {
+    "zh": "这件事只有你我两个人知道。",
+    "pinyin": "Zhè jiàn shì zhǐ yǒu nǐ wǒ liǎng ge rén zhīdào.",
+    "en": "Only you and I know about this."
+   },
+   {
+    "zh": "我只是随便说说,你别当真。",
+    "pinyin": "Wǒ zhǐshì suíbiàn shuōshuo, nǐ bié dàngzhēn.",
+    "en": "I was just saying it casually, don't take it seriously."
+   },
+   {
+    "zh": "只要你努力,就一定会有收获。",
+    "pinyin": "Zhǐyào nǐ nǔlì, jiù yídìng huì yǒu shōuhuò.",
+    "en": "As long as you work hard, you'll surely gain something."
+   },
+   {
+    "zh": "他只关心自己,从不为别人着想。",
+    "pinyin": "Tā zhǐ guānxīn zìjǐ, cóng bù wèi biérén zhuóxiǎng.",
+    "en": "He only cares about himself and never thinks of others."
+   },
+   {
+    "zh": "这些钱只够买一张票。",
+    "pinyin": "Zhèxiē qián zhǐ gòu mǎi yì zhāng piào.",
+    "en": "This money is only enough for one ticket."
+   },
+   {
+    "zh": "我只见过他一面,不太了解他。",
+    "pinyin": "Wǒ zhǐ jiànguò tā yí miàn, bú tài liǎojiě tā.",
+    "en": "I've only met him once, I don't know him well."
+   },
+   {
+    "zh": "人生只有一次,要好好珍惜。",
+    "pinyin": "Rénshēng zhǐ yǒu yí cì, yào hǎohǎo zhēnxī.",
+    "en": "Life happens only once, cherish it well."
+   },
+   {
+    "zh": "我只是想帮你,没有别的意思。",
+    "pinyin": "Wǒ zhǐshì xiǎng bāng nǐ, méiyǒu biéde yìsi.",
+    "en": "I just wanted to help you, nothing more."
+   },
+   {
+    "zh": "这条路只能走一个人,你先过。",
+    "pinyin": "Zhè tiáo lù zhǐ néng zǒu yí ge rén, nǐ xiān guò.",
+    "en": "This path fits only one person, you go first."
+   },
+   {
+    "zh": "他什么都不缺,只缺一点耐心。",
+    "pinyin": "Tā shénme dōu bù quē, zhǐ quē yìdiǎn nàixīn.",
+    "en": "He lacks nothing except a bit of patience."
+   },
+   {
+    "zh": "我只希望你能平平安安的。",
+    "pinyin": "Wǒ zhǐ xīwàng nǐ néng píngpíng'ān'ān de.",
+    "en": "I only hope you'll be safe and sound."
+   },
+   {
+    "zh": "这家店只在周末营业。",
+    "pinyin": "Zhè jiā diàn zhǐ zài zhōumò yíngyè.",
+    "en": "This shop is only open on weekends."
+   },
+   {
+    "zh": "我只用了一个小时就把它做完了。",
+    "pinyin": "Wǒ zhǐ yòng le yí ge xiǎoshí jiù bǎ tā zuòwán le.",
+    "en": "I finished it in just one hour."
+   },
+   {
+    "zh": "钱只是问题的一部分,更难的是感情。",
+    "pinyin": "Qián zhǐshì wèntí de yíbùfen, gèng nán de shì gǎnqíng.",
+    "en": "Money is only part of the problem; the harder part is feelings."
+   },
+   {
+    "zh": "他只说了一句话就转身走了。",
+    "pinyin": "Tā zhǐ shuō le yí jù huà jiù zhuǎnshēn zǒu le.",
+    "en": "He said only one sentence and then turned and left."
+   },
+   {
+    "zh": "真正的朋友,一生中只有几个。",
+    "pinyin": "Zhēnzhèng de péngyou, yìshēng zhōng zhǐ yǒu jǐ ge.",
+    "en": "You only have a few true friends in a lifetime."
+   },
+   {
+    "zh": "我只要一杯水就够了,谢谢。",
+    "pinyin": "Wǒ zhǐ yào yì bēi shuǐ jiù gòu le, xièxie.",
+    "en": "I only need a glass of water, thank you."
+   },
+   {
+    "zh": "这个道理很简单,只是很多人做不到。",
+    "pinyin": "Zhège dàolǐ hěn jiǎndān, zhǐshì hěn duō rén zuò bu dào.",
+    "en": "This principle is simple, only that many can't follow it."
+   },
+   {
+    "zh": "他只顾着玩手机,连饭都忘了吃。",
+    "pinyin": "Tā zhǐ gùzhe wán shǒujī, lián fàn dōu wàng le chī.",
+    "en": "He was only busy on his phone and even forgot to eat."
+   },
+   {
+    "zh": "我只是有点累,休息一下就好。",
+    "pinyin": "Wǒ zhǐshì yǒudiǎn lèi, xiūxi yíxià jiù hǎo.",
+    "en": "I'm just a bit tired, I'll be fine after a rest."
+   },
+   {
+    "zh": "成功只属于那些不放弃的人。",
+    "pinyin": "Chénggōng zhǐ shǔyú nàxiē bú fàngqì de rén.",
+    "en": "Success belongs only to those who don't give up."
+   },
+   {
+    "zh": "这么多年,他心里只有你一个人。",
+    "pinyin": "Zhème duō nián, tā xīnlǐ zhǐ yǒu nǐ yí ge rén.",
+    "en": "After all these years, you're the only one in his heart."
+   },
+   {
+    "zh": "别难过了,这只是一个小小的挫折。",
+    "pinyin": "Bié nánguò le, zhè zhǐshì yí ge xiǎoxiǎo de cuòzhé.",
+    "en": "Don't be sad, this is just a small setback."
+   }
+  ]
+ },
+ {
+  "id": "g050",
+  "level": 2,
+  "title": "\"就\" ile \"hemen / o zaman / işte\"",
+  "titleEn": "Expressing \"then\" with \"jiu\"",
+  "pattern": "就 + Fiil Öbeği",
+  "summary": "\"就\" (jiù) çok işlevli bir zarftır: eylemin çabuk/hemen olduğunu, koşul sonucunu ya da vurguyu belirtir: 我马上就来 = Hemen geliyorum.",
+  "explanation": "\"就\" Çince'nin en esnek zarflarından biridir: (1) çabukluk/erkenlik: \"他六点就起床了\" (daha altıda kalkmıştı). (2) koşul-sonuç bağlacı: \"你不去,我就去\" (sen gitmezsen, o zaman ben giderim). (3) vurgu/kesinlik: \"这就是我要的\" (işte tam da bunu istiyordum). Genellikle \"要是/如果...就\", \"只要...就\" gibi kalıplarda ikinci parçadır. Fiilden hemen önce gelir.",
+  "examples": [
+   {
+    "zh": "你等我一下,我马上就来。",
+    "pinyin": "Nǐ děng wǒ yíxià, wǒ mǎshàng jiù lái.",
+    "en": "Wait a moment, I'll be right there."
+   },
+   {
+    "zh": "如果你累了,就先回去休息吧。",
+    "pinyin": "Rúguǒ nǐ lèi le, jiù xiān huíqù xiūxi ba.",
+    "en": "If you're tired, go back and rest first."
+   },
+   {
+    "zh": "这就是我一直在找的那本书。",
+    "pinyin": "Zhè jiùshì wǒ yìzhí zài zhǎo de nà běn shū.",
+    "en": "This is exactly the book I've been looking for."
+   },
+   {
+    "zh": "他每天六点就起床跑步。",
+    "pinyin": "Tā měitiān liù diǎn jiù qǐchuáng pǎobù.",
+    "en": "He gets up to run as early as six every day."
+   },
+   {
+    "zh": "只要你开口,我就会帮你。",
+    "pinyin": "Zhǐyào nǐ kāikǒu, wǒ jiù huì bāng nǐ.",
+    "en": "As long as you ask, I'll help you."
+   },
+   {
+    "zh": "我一看就知道是他做的。",
+    "pinyin": "Wǒ yí kàn jiù zhīdào shì tā zuò de.",
+    "en": "I knew it was his doing at a glance."
+   },
+   {
+    "zh": "你不用担心,这点小事我一个人就能搞定。",
+    "pinyin": "Nǐ búyòng dānxīn, zhè diǎn xiǎoshì wǒ yí ge rén jiù néng gǎodìng.",
+    "en": "Don't worry, I can handle this little thing on my own."
+   },
+   {
+    "zh": "要是明天天气好,我们就去爬山。",
+    "pinyin": "Yàoshi míngtiān tiānqì hǎo, wǒmen jiù qù páshān.",
+    "en": "If the weather's good tomorrow, we'll go hiking."
+   },
+   {
+    "zh": "他说完就走了,一句解释都没有。",
+    "pinyin": "Tā shuōwán jiù zǒu le, yí jù jiěshì dōu méiyǒu.",
+    "en": "He left right after speaking, without a word of explanation."
+   },
+   {
+    "zh": "这道题其实很简单,你想一想就会了。",
+    "pinyin": "Zhè dào tí qíshí hěn jiǎndān, nǐ xiǎng yi xiǎng jiù huì le.",
+    "en": "This problem is actually simple, you'll get it if you think about it."
+   },
+   {
+    "zh": "我们俩一见面就聊个不停。",
+    "pinyin": "Wǒmen liǎ yí jiànmiàn jiù liáo ge bù tíng.",
+    "en": "The two of us start chatting nonstop the moment we meet."
+   },
+   {
+    "zh": "你放心,我说到就一定做到。",
+    "pinyin": "Nǐ fàngxīn, wǒ shuōdào jiù yídìng zuòdào.",
+    "en": "Don't worry, if I say I'll do it, I will."
+   },
+   {
+    "zh": "天刚亮他就出发了。",
+    "pinyin": "Tiān gāng liàng tā jiù chūfā le.",
+    "en": "He set off as soon as day broke."
+   },
+   {
+    "zh": "如果你不同意,那我们就换一个方案。",
+    "pinyin": "Rúguǒ nǐ bù tóngyì, nà wǒmen jiù huàn yí ge fāng'àn.",
+    "en": "If you don't agree, then we'll switch to another plan."
+   },
+   {
+    "zh": "这就是生活,有苦也有甜。",
+    "pinyin": "Zhè jiùshì shēnghuó, yǒu kǔ yě yǒu tián.",
+    "en": "This is life, with its bitterness and sweetness."
+   },
+   {
+    "zh": "他一紧张就说不出话来。",
+    "pinyin": "Tā yì jǐnzhāng jiù shuō bu chū huà lái.",
+    "en": "He becomes speechless the moment he gets nervous."
+   },
+   {
+    "zh": "只要方向对了,慢一点也没关系。",
+    "pinyin": "Zhǐyào fāngxiàng duì le, màn yìdiǎn yě méi guānxi.",
+    "en": "As long as the direction is right, being a bit slow is fine."
+   },
+   {
+    "zh": "你要是喜欢就拿去吧,我不需要了。",
+    "pinyin": "Nǐ yàoshi xǐhuan jiù ná qù ba, wǒ bù xūyào le.",
+    "en": "If you like it, take it, I don't need it anymore."
+   },
+   {
+    "zh": "从这里到公司走路十分钟就到了。",
+    "pinyin": "Cóng zhèlǐ dào gōngsī zǒulù shí fēnzhōng jiù dào le.",
+    "en": "It's only a ten-minute walk from here to the office."
+   },
+   {
+    "zh": "我早就想跟你说这件事了。",
+    "pinyin": "Wǒ zǎo jiù xiǎng gēn nǐ shuō zhè jiàn shì le.",
+    "en": "I've long wanted to tell you about this."
+   },
+   {
+    "zh": "他一有空就去图书馆看书。",
+    "pinyin": "Tā yì yǒu kòng jiù qù túshūguǎn kànshū.",
+    "en": "Whenever he's free, he goes to the library to read."
+   },
+   {
+    "zh": "事情没你想的那么难,试一次就明白了。",
+    "pinyin": "Shìqing méi nǐ xiǎng de nàme nán, shì yí cì jiù míngbai le.",
+    "en": "It's not as hard as you think; try once and you'll get it."
+   },
+   {
+    "zh": "这件衣服你穿上就特别好看。",
+    "pinyin": "Zhè jiàn yīfu nǐ chuān shàng jiù tèbié hǎokàn.",
+    "en": "You look especially good the moment you put this on."
+   },
+   {
+    "zh": "只要一家人在一起,在哪儿都是家。",
+    "pinyin": "Zhǐyào yìjiā rén zài yìqǐ, zài nǎr dōu shì jiā.",
+    "en": "As long as the family is together, anywhere is home."
+   },
+   {
+    "zh": "我一想到明天要考试就睡不着。",
+    "pinyin": "Wǒ yì xiǎngdào míngtiān yào kǎoshì jiù shuì bu zháo.",
+    "en": "The moment I think of tomorrow's exam, I can't sleep."
+   }
+  ]
  }
 ]

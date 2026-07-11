@@ -16998,5 +16998,685 @@
     "en": "He poured half a lifetime of effort into this endeavor."
    }
   ]
+ },
+ {
+  "id": "g126",
+  "level": 2,
+  "title": "Sayarken ölçü sözcükleri",
+  "titleEn": "Measure words for counting",
+  "pattern": "Sayı + Ölçü Sözcüğü + İsim",
+  "summary": "Çince'de sayı ile isim arasına mutlaka bir ölçü sözcüğü girer: 一本书 = bir (cilt) kitap; 三个人 = üç (tane) kişi.",
+  "explanation": "Çince'de bir isim sayılırken sayı ile isim arasına MUTLAKA bir ÖLÇÜ SÖZCÜĞÜ (量词) konur: Sayı + ölçü + isim. 一本书 (bir kitap — 本 kitaplar için), 两支笔 (iki kalem — 支 ince uzun şeyler için), 三张纸 (üç kâğıt — 张 yassı şeyler için), 五个人 (beş kişi — 个 genel ölçü). Her isim türünün kendine uygun bir ölçüsü vardır: 只 (hayvanlar), 条 (uzun/kıvrık şeyler: balık, yol, pantolon), 件 (giysi/olay), 杯 (bardak dolusu), 辆 (araçlar). Emin değilseniz genel ölçü \"个\" çoğu durumda iş görür. \"两\" için \"二\" değil \"两\" kullanılır: 两本 (iki tane). Bu, Türkçedeki \"bir bardak, iki tane, üç adet\" mantığına benzer ama Çince'de ZORUNLUDUR.",
+  "examples": [
+   {
+    "zh": "我在书店买了三本书和两支笔。",
+    "pinyin": "Wǒ zài shū diàn mǎi le sān běn shū hé liǎng zhī bǐ。",
+    "en": "I bought three books and two pens at the bookstore."
+   },
+   {
+    "zh": "桌子上放着一杯热茶和一块小蛋糕。",
+    "pinyin": "Zhuō zi shàng fàng zhe yī bēi rè chá hé yī kuài xiǎo dàn gāo。",
+    "en": "There's a cup of hot tea and a small cake on the table."
+   },
+   {
+    "zh": "他家养了两只猫和一条大狗,特别热闹。",
+    "pinyin": "Tā jiā yǎng le liǎng zhǐ māo hé yī tiáo dà gǒu, tè bié rè nào。",
+    "en": "His family keeps two cats and a big dog; it's very lively."
+   },
+   {
+    "zh": "我想买一件外套,天气越来越冷了。",
+    "pinyin": "Wǒ xiǎng mǎi yī jiàn wài tào, tiān qì yuè lái yuè lěng le。",
+    "en": "I want to buy a coat; the weather is getting colder."
+   },
+   {
+    "zh": "门口停着三辆车,不知道是哪家客人的。",
+    "pinyin": "Mén kǒu tíng zhe sān liàng chē, bù zhī dào shì nǎ jiā kè rén de。",
+    "en": "Three cars are parked at the entrance; whose guests, I wonder."
+   },
+   {
+    "zh": "请给我来一碗面条,再加两个鸡蛋。",
+    "pinyin": "Qǐng gěi wǒ lái yī wǎn miàn tiáo, zài jiā liǎng gè jī dàn。",
+    "en": "Please give me a bowl of noodles with two eggs added."
+   },
+   {
+    "zh": "他一口气买了五张电影票,请大家一起去看。",
+    "pinyin": "Tā yì kǒu qì mǎi le wǔ zhāng diàn yǐng piào, qǐng dà jiā yì qǐ qù kàn。",
+    "en": "He bought five movie tickets at once to treat everyone."
+   },
+   {
+    "zh": "院子里种着几棵树,还有一片小小的菜地。",
+    "pinyin": "Yuàn zi lǐ zhǒng zhe jǐ kē shù, hái yǒu yī piàn xiǎo xiǎo de cài de。",
+    "en": "Several trees grow in the yard, along with a small vegetable patch."
+   },
+   {
+    "zh": "我给孩子讲了一个故事,他很快就睡着了。",
+    "pinyin": "Wǒ gěi hái zi jiǎng le yí gè gù shì, tā hěn kuài jiù shuì zháo le。",
+    "en": "I told the child a story, and he soon fell asleep."
+   },
+   {
+    "zh": "这条裤子有点儿长,得改短一点儿才能穿。",
+    "pinyin": "Zhè tiáo kù zi yǒu diǎn ér zhǎng, de gǎi duǎn yì diǎn ér cái néng chuān。",
+    "en": "These trousers are a bit long; they need shortening to wear."
+   },
+   {
+    "zh": "妈妈买了一斤肉和两把青菜,准备包饺子。",
+    "pinyin": "Mā mā mǎi le yī jīn ròu hé liǎng bǎ qīng cài, zhǔn bèi bāo jiǎo zi。",
+    "en": "Mom bought a jin of meat and two bunches of greens for dumplings."
+   },
+   {
+    "zh": "墙上挂着一幅画,画的是一片美丽的海。",
+    "pinyin": "Qiáng shàng guà zhe yī fú huà, huà de shì yī piàn měi lì de hǎi。",
+    "en": "A painting hangs on the wall, depicting a beautiful sea."
+   },
+   {
+    "zh": "他递给我一张纸条,上面写着一个电话号码。",
+    "pinyin": "Tā dì gěi wǒ yī zhāng zhǐ tiáo, shàng miàn xiě zhe yí gè diàn huà hào mǎ。",
+    "en": "He handed me a note with a phone number on it."
+   },
+   {
+    "zh": "这家饭馆的桌子不多,只有六七张。",
+    "pinyin": "Zhè jiā fàn guǎn de zhuō zi bù duō, zhǐ yǒu liù qī zhāng。",
+    "en": "This restaurant doesn't have many tables, only six or seven."
+   },
+   {
+    "zh": "我在路上看到一只可爱的小狗,一直跟着我。",
+    "pinyin": "Wǒ zài lù shàng kàn dào yī zhī kě ài de xiǎo gǒu, yì zhí gēn zhe wǒ。",
+    "en": "On the road I saw a cute little dog that kept following me."
+   },
+   {
+    "zh": "请你帮我拿两个盘子和三双筷子来。",
+    "pinyin": "Qǐng nǐ bāng wǒ ná liǎng gè pán zi hé sān shuāng kuài zi lái。",
+    "en": "Please bring me two plates and three pairs of chopsticks."
+   },
+   {
+    "zh": "他从包里拿出一本厚厚的笔记本。",
+    "pinyin": "Tā cóng bāo lǐ ná chū yī běn hòu hòu de bǐ jì běn。",
+    "en": "He took a thick notebook out of his bag."
+   },
+   {
+    "zh": "这套房子有三个房间和一个大客厅。",
+    "pinyin": "Zhè tào fáng zi yǒu sān gè fáng jiān hé yí gè dà kè tīng。",
+    "en": "This apartment has three rooms and a large living room."
+   },
+   {
+    "zh": "我买了一束花,打算送给生病的朋友。",
+    "pinyin": "Wǒ mǎi le yī shù huā, dǎ suàn sòng gěi shēng bìng de péng yǒu。",
+    "en": "I bought a bouquet to give to my sick friend."
+   },
+   {
+    "zh": "桌上摆着好几盘菜,看起来非常丰盛。",
+    "pinyin": "Zhuō shàng bǎi zhe hǎo jǐ pán cài, kàn qǐ lái fēi cháng fēng shèng。",
+    "en": "Several plates of food sit on the table, looking very sumptuous."
+   },
+   {
+    "zh": "他养了一缸金鱼,每天喂食、换水,乐在其中。",
+    "pinyin": "Tā yǎng le yī gāng jīn yú, měi tiān wèi shí、 huàn shuǐ, lè zài qí zhōng。",
+    "en": "He keeps a tank of goldfish, feeding and changing water daily, enjoying it."
+   },
+   {
+    "zh": "我需要一把椅子和一张桌子,好在这儿看书。",
+    "pinyin": "Wǒ xū yào yī bǎ yǐ zi hé yī zhāng zhuō zi, hǎo zài zhè ér kàn shū。",
+    "en": "I need a chair and a table to read here."
+   },
+   {
+    "zh": "这条河上有一座很古老的石桥。",
+    "pinyin": "Zhè tiáo hé shàng yǒu yī zuò hěn gǔ lǎo de shí qiáo。",
+    "en": "There's a very old stone bridge over this river."
+   },
+   {
+    "zh": "孩子手里拿着两个气球,高兴得又蹦又跳。",
+    "pinyin": "Hái zi shǒu lǐ ná zhe liǎng gè qì qiú, gāo xìng de yòu bèng yòu tiào。",
+    "en": "The child holds two balloons, jumping with joy."
+   },
+   {
+    "zh": "我们点了四个菜、一个汤,足够两个人吃了。",
+    "pinyin": "Wǒ men diǎn le sì gè cài、 yí gè tāng, zú gòu liǎng gè rén chī le。",
+    "en": "We ordered four dishes and a soup, plenty for two people."
+   }
+  ]
+ },
+ {
+  "id": "g127",
+  "level": 2,
+  "title": "\"几\" ile miktar sorusu",
+  "titleEn": "Measure words in quantity questions",
+  "pattern": "几 + Ölçü Sözcüğü (+ İsim) ?",
+  "summary": "\"几\" (jǐ) küçük sayılar için \"kaç?\" diye sorar ve mutlaka bir ölçü sözcüğü ile gelir: 几个人? = kaç kişi?",
+  "explanation": "Küçük bir sayı (genelde ondan az) beklenen bir miktarı sormak için \"几\" kullanılır ve ardından MUTLAKA bir ölçü sözcüğü gelir: 几 + ölçü + (isim) + ? — 你要几个? (Kaç tane istersin?), 你们班有几个学生? (Sınıfınızda kaç öğrenci var?), 现在几点? (Saat kaç?). \"几\" konuşmacının cevabın küçük bir sayı olacağını varsaydığını gösterir; büyük/bilinmeyen miktarlar için \"多少\" (kaç/ne kadar — ölçüsüz de olur) tercih edilir: 多少钱? (ne kadar para?). Yani az sayıda şey için 几 + ölçü, çok/belirsiz için 多少. \"几\" ayrıca düz cümlede \"birkaç\" anlamı da taşır (bkz. ayrı konu); soru mu ifade mi olduğunu bağlam belirler.",
+  "examples": [
+   {
+    "zh": "你们家一共有几口人?住得下这么多人吗?",
+    "pinyin": "Nǐ men jiā yī gòng yǒu jǐ kǒu rén? zhù de xià zhè me duō rén ma?",
+    "en": "How many people are in your family? Can it fit so many?"
+   },
+   {
+    "zh": "这次考试你考了几门?成绩怎么样?",
+    "pinyin": "Zhè cì kǎo shì nǐ kǎo le jǐ mén? chéng jì zěn me yàng?",
+    "en": "How many subjects did you take this exam? How were the results?"
+   },
+   {
+    "zh": "你要几个苹果?我帮你装进袋子里。",
+    "pinyin": "Nǐ yào jǐ gè píng guǒ? wǒ bāng nǐ zhuāng jìn dài zi lǐ。",
+    "en": "How many apples do you want? I'll bag them for you."
+   },
+   {
+    "zh": "现在几点了?我们是不是该出发了?",
+    "pinyin": "Xiàn zài jǐ diǎn le? wǒ men shì bú shì gāi chū fā le?",
+    "en": "What time is it now? Shouldn't we set off?"
+   },
+   {
+    "zh": "你这次去南方打算待几天?",
+    "pinyin": "Nǐ zhè cì qù nán fāng dǎ suàn dài jǐ tiān?",
+    "en": "How many days do you plan to stay in the south this time?"
+   },
+   {
+    "zh": "咱们组一共有几个人报名参加比赛?",
+    "pinyin": "Zán men zǔ yī gòng yǒu jǐ gè rén bào míng cān jiā bǐ sài?",
+    "en": "How many people in our group signed up for the competition?"
+   },
+   {
+    "zh": "你一个星期去几次健身房?坚持得怎么样?",
+    "pinyin": "Nǐ yí gè xīng qī qù jǐ cì jiàn shēn fáng? jiān chí de zěn me yàng?",
+    "en": "How many times a week do you go to the gym? How's it going?"
+   },
+   {
+    "zh": "这层楼有几间办公室?会议室在哪一间?",
+    "pinyin": "Zhè céng lóu yǒu jǐ jiān bàn gōng shì? huì yì shì zài nǎ yī jiān?",
+    "en": "How many offices are on this floor? Which one is the meeting room?"
+   },
+   {
+    "zh": "你想买几张票?周末的场次可能会满。",
+    "pinyin": "Nǐ xiǎng mǎi jǐ zhāng piào? zhōu mò de chǎng cì kě néng huì mǎn。",
+    "en": "How many tickets do you want? The weekend shows may sell out."
+   },
+   {
+    "zh": "孩子今年几岁了?该上小学了吧?",
+    "pinyin": "Hái zi jīn nián jǐ suì le? gāi shàng xiǎo xué le ba?",
+    "en": "How old is the child this year? Time for primary school, right?"
+   },
+   {
+    "zh": "你们班有几个同学是从外地来的?",
+    "pinyin": "Nǐ men bān yǒu jǐ gè tóng xué shì cóng wài dì lái de?",
+    "en": "How many classmates in your class are from out of town?"
+   },
+   {
+    "zh": "这道菜要放几个鸡蛋?我怕放多了。",
+    "pinyin": "Zhè dào cài yào fàng jǐ gè jī dàn? wǒ pà fàng duō le。",
+    "en": "How many eggs does this dish need? I'm afraid of adding too many."
+   },
+   {
+    "zh": "从你家到公司要坐几站地铁?",
+    "pinyin": "Cóng nǐ jiā dào gōng sī yào zuò jǐ zhàn dì tiě?",
+    "en": "How many subway stops from your home to work?"
+   },
+   {
+    "zh": "你手里的钥匙有几把?怎么这么一大串?",
+    "pinyin": "Nǐ shǒu lǐ de yào shi yǒu jǐ bǎ? zěn me zhè me yī dà chuàn?",
+    "en": "How many keys are in your hand? Why such a big bunch?"
+   },
+   {
+    "zh": "咱们今天点几个菜合适?人不多,别浪费。",
+    "pinyin": "Zán men jīn tiān diǎn jǐ gè cài hé shì? rén bù duō, bié làng fèi。",
+    "en": "How many dishes should we order today? Not many people, don't waste."
+   },
+   {
+    "zh": "你养了几只猫?听说你特别喜欢小动物。",
+    "pinyin": "Nǐ yǎng le jǐ zhī māo? tīng shuō nǐ tè bié xǐ huān xiǎo dòng wù。",
+    "en": "How many cats do you keep? I heard you love little animals."
+   },
+   {
+    "zh": "这本书你看了几遍了?怎么这么熟?",
+    "pinyin": "Zhè běn shū nǐ kàn le jǐ biàn le? zěn me zhè me shú?",
+    "en": "How many times have you read this book? You know it so well."
+   },
+   {
+    "zh": "会议大概要开几个小时?我好安排时间。",
+    "pinyin": "Huì yì dà gài yào kāi jǐ gè xiǎo shí? wǒ hǎo ān pái shí jiān。",
+    "en": "About how many hours will the meeting last? I need to plan my time."
+   },
+   {
+    "zh": "你们打算在这个城市住几个晚上?",
+    "pinyin": "Nǐ men dǎ suàn zài zhè ge chéng shì zhù jǐ gè wǎn shàng?",
+    "en": "How many nights do you plan to stay in this city?"
+   },
+   {
+    "zh": "这几天你睡了几个小时?脸色看着很累。",
+    "pinyin": "Zhè jǐ tiān nǐ shuì le jǐ gè xiǎo shí? liǎn sè kàn zhe hěn lèi。",
+    "en": "How many hours have you slept these days? You look tired."
+   },
+   {
+    "zh": "你一天喝几杯水?医生说要多喝水。",
+    "pinyin": "Nǐ yī tiān hē jǐ bēi shuǐ? yī shēng shuō yào duō hē shuǐ。",
+    "en": "How many cups of water do you drink a day? The doctor says drink more."
+   },
+   {
+    "zh": "这个班分成了几个小组?每组几个人?",
+    "pinyin": "Zhè ge bān fēn chéng le jǐ gè xiǎo zǔ? měi zǔ jǐ gè rén?",
+    "en": "How many groups is this class divided into? How many per group?"
+   },
+   {
+    "zh": "你带了几件行李?我帮你一起拿。",
+    "pinyin": "Nǐ dài le jǐ jiàn xíng lǐ? wǒ bāng nǐ yì qǐ ná。",
+    "en": "How many pieces of luggage did you bring? I'll help you carry them."
+   },
+   {
+    "zh": "咱们家还剩几个鸡蛋?够不够做早饭?",
+    "pinyin": "Zán men jiā hái shèng jǐ gè jī dàn? gòu bù gòu zuò zǎo fàn?",
+    "en": "How many eggs are left at home? Enough for breakfast?"
+   },
+   {
+    "zh": "你一共请了几位客人?我好准备餐具。",
+    "pinyin": "Nǐ yī gòng qǐng le jǐ wèi kè rén? wǒ hǎo zhǔn bèi cān jù。",
+    "en": "How many guests did you invite? I'll prepare the tableware."
+   }
+  ]
+ },
+ {
+  "id": "g128",
+  "level": 2,
+  "title": "\"这/那\" + ölçü sözcüğü ile işaret",
+  "titleEn": "Measure words with \"this\" and \"that\"",
+  "pattern": "这 / 那 + Ölçü Sözcüğü (+ İsim)",
+  "summary": "\"这\" (bu) ve \"那\" (şu/o) belirli bir şeyi gösterirken de araya ölçü sözcüğü girer: 这本书 = bu kitap; 那个人 = o kişi.",
+  "explanation": "\"这\" (bu) ve \"那\" (şu/o) belirli bir nesneyi işaret ederken, sayılarda olduğu gibi araya bir ÖLÇÜ SÖZCÜĞÜ girer: 这/那 + ölçü + isim. 这本书 (bu kitap), 那个人 (o kişi), 这杯茶 (bu çay), 那件事 (o mesele). Birden çok işaret edilirse araya sayı da girer: 这三本书 (bu üç kitap). Ölçü sözcüğü isim türüne uyar (这条鱼, 那只猫, 这张桌子). Konuşma dilinde 这个/那个 çoğu zaman \"zhèige/nèige\" gibi telaffuz edilir. Türkçedeki \"bu/şu/o\" işaret sıfatlarının Çince karşılığıdır ama Çince'de ölçü sözcüğü ZORUNLUDUR. İşaret edilen nesneyi belirginleştirmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "这本书是我最喜欢的,已经读了好几遍了。",
+    "pinyin": "Zhè běn shū shì wǒ zuì xǐ huān de, yǐ jīng dú le hǎo jǐ biàn le。",
+    "en": "This book is my favorite; I've read it several times."
+   },
+   {
+    "zh": "那个穿红衣服的人是我们的新老师。",
+    "pinyin": "Nà ge chuān hóng yī fú de rén shì wǒ men de xīn lǎo shī。",
+    "en": "That person in the red clothes is our new teacher."
+   },
+   {
+    "zh": "这条裙子的颜色很适合你,买下来吧。",
+    "pinyin": "Zhè tiáo qún zi de yán sè hěn shì hé nǐ, mǎi xià lái ba。",
+    "en": "The color of this dress suits you well; buy it."
+   },
+   {
+    "zh": "那家饭馆的菜特别地道,我们常去。",
+    "pinyin": "Nà jiā fàn guǎn de cài tè bié dì dào, wǒ men cháng qù。",
+    "en": "That restaurant's food is very authentic; we go often."
+   },
+   {
+    "zh": "这杯咖啡是给你的,趁热喝吧。",
+    "pinyin": "Zhè bēi kā fēi shì gěi nǐ de, chèn rè hē ba。",
+    "en": "This cup of coffee is for you; drink it while it's hot."
+   },
+   {
+    "zh": "那件事已经过去了,你就别放在心上了。",
+    "pinyin": "Nà jiàn shì yǐ jīng guò qù le, nǐ jiù bié fàng zài xīn shàng le。",
+    "en": "That matter is in the past; don't take it to heart."
+   },
+   {
+    "zh": "这只小猫是上个月在路边捡到的。",
+    "pinyin": "Zhè zhǐ xiǎo māo shì shàng gè yuè zài lù biān jiǎn dào de。",
+    "en": "This kitten was picked up by the roadside last month."
+   },
+   {
+    "zh": "那座山看着不高,爬起来可不轻松。",
+    "pinyin": "Nà zuò shān kàn zhe bù gāo, pá qǐ lái kě bù qīng sōng。",
+    "en": "That mountain doesn't look tall, but it's no easy climb."
+   },
+   {
+    "zh": "这张照片是我们全家去年在海边拍的。",
+    "pinyin": "Zhè zhāng zhào piān shì wǒ men quán jiā qù nián zài hǎi biān pāi de。",
+    "en": "This photo was taken by our whole family at the sea last year."
+   },
+   {
+    "zh": "那条路正在修,咱们还是走这边吧。",
+    "pinyin": "Nà tiáo lù zhèng zài xiū, zán men hái shì zǒu zhè biān ba。",
+    "en": "That road is under repair; let's take this side instead."
+   },
+   {
+    "zh": "这个问题有点儿复杂,咱们慢慢商量。",
+    "pinyin": "Zhè ge wèn tí yǒu diǎn ér fù zá, zán men màn màn shāng liáng。",
+    "en": "This problem is a bit complex; let's discuss it slowly."
+   },
+   {
+    "zh": "那双鞋你穿了好多年了,该换新的了。",
+    "pinyin": "Nà shuāng xié nǐ chuān le hǎo duō nián le, gāi huàn xīn de le。",
+    "en": "You've worn those shoes for years; time for a new pair."
+   },
+   {
+    "zh": "这几个孩子都是他班上的学生,特别听话。",
+    "pinyin": "Zhè jǐ gè hái zi dōu shì tā bān shàng de xué shēng, tè bié tīng huà。",
+    "en": "These children are all students in his class, very well-behaved."
+   },
+   {
+    "zh": "那台旧电脑还能用,你先拿去凑合着用吧。",
+    "pinyin": "Nà tái jiù diàn nǎo hái néng yòng, nǐ xiān ná qù còu hé zhe yòng ba。",
+    "en": "That old computer still works; take it and make do for now."
+   },
+   {
+    "zh": "这封信我读了好几遍,每次都很感动。",
+    "pinyin": "Zhè fēng xìn wǒ dú le hǎo jǐ biàn, měi cì dōu hěn gǎn dòng。",
+    "en": "I've read this letter several times, moved each time."
+   },
+   {
+    "zh": "那个包看起来很结实,装东西一定很方便。",
+    "pinyin": "Nà ge bāo kàn qǐ lái hěn jiē shí, zhuāng dōng xī yí dìng hěn fāng biàn。",
+    "en": "That bag looks sturdy; it must be handy for carrying things."
+   },
+   {
+    "zh": "这碗汤是妈妈特意给你留的,快趁热喝。",
+    "pinyin": "Zhè wǎn tāng shì mā mā tè yì gěi nǐ liú de, kuài chèn rè hē。",
+    "en": "Mom specially saved this bowl of soup for you; drink it while hot."
+   },
+   {
+    "zh": "那部电影我看过,结局出乎所有人的意料。",
+    "pinyin": "Nà bù diàn yǐng wǒ kàn guò, jié jú chū hū suǒ yǒu rén de yì liào。",
+    "en": "I've seen that movie; the ending surprised everyone."
+   },
+   {
+    "zh": "这块地方以前是一片农田,现在盖起了高楼。",
+    "pinyin": "Zhè kuài dì fāng yǐ qián shì yī piàn nóng tián, xiàn zài gài qǐ le gāo lóu。",
+    "en": "This area used to be farmland; now tall buildings stand here."
+   },
+   {
+    "zh": "那位老人是这条街上住得最久的居民。",
+    "pinyin": "Nà wèi lǎo rén shì zhè tiáo jiē shàng zhù de zuì jiǔ de jū mín。",
+    "en": "That old man is the longest-living resident on this street."
+   },
+   {
+    "zh": "这支笔写起来特别顺手,我一直用它。",
+    "pinyin": "Zhè zhī bǐ xiě qǐ lái tè bié shùn shǒu, wǒ yì zhí yòng tā。",
+    "en": "This pen writes very smoothly; I always use it."
+   },
+   {
+    "zh": "那件衣服的样子太旧了,我不想再穿了。",
+    "pinyin": "Nà jiàn yī fú de yàng zi tài jiù le, wǒ bù xiǎng zài chuān le。",
+    "en": "That outfit's style is too old; I don't want to wear it anymore."
+   },
+   {
+    "zh": "这个消息传得很快,一下午全公司都知道了。",
+    "pinyin": "Zhè ge xiāo xī chuán de hěn kuài, yī xià wǔ quán gōng sī dōu zhī dào le。",
+    "en": "This news spread fast; the whole company knew by the afternoon."
+   },
+   {
+    "zh": "那两个人一见面就聊得热火朝天。",
+    "pinyin": "Nà liǎng gè rén yī jiàn miàn jiù liáo de rè huǒ cháo tiān。",
+    "en": "Those two started chatting animatedly the moment they met."
+   },
+   {
+    "zh": "这场雨来得正是时候,地里的庄稼有救了。",
+    "pinyin": "Zhè chǎng yǔ lái de zhèng shì shí hòu, de lǐ de zhuāng jià yǒu jiù le。",
+    "en": "This rain came at just the right time; the crops are saved."
+   }
+  ]
+ },
+ {
+  "id": "g129",
+  "level": 2,
+  "title": "\"第\" ile sıra sayıları",
+  "titleEn": "Ordinal numbers with \"di\"",
+  "pattern": "第 + Sayı (+ Ölçü Sözcüğü)",
+  "summary": "\"第\" (dì) bir sayının önüne gelip onu SIRA sayısına çevirir: 第一 = birinci; 第三个 = üçüncü (tane).",
+  "explanation": "Sıra sayıları (birinci, ikinci, üçüncü...) \"第\" ön ekiyle kurulur: 第 + sayı. 第一 (birinci), 第二 (ikinci), 第十 (onuncu). Bir isimle kullanılırsa araya yine ölçü sözcüğü girer: 第一个人 (birinci kişi), 第三本书 (üçüncü kitap), 第五次 (beşinci kez). Sıra sayısında \"两\" DEĞİL \"二\" kullanılır: 第二 (ikinci), 第二个 (ikincisi). \"第一\" çoğu zaman \"ilk\", \"en\" anlamı da katar: 第一次 (ilk kez), 世界第一 (dünya birincisi). Tarih/sıra bildirmede (第一课 = birinci ders, 第三层 = üçüncü kat) çok kullanılır. Türkçedeki \"-inci\" ekinin karşılığıdır ve niceliği değil SIRAYI belirtir.",
+  "examples": [
+   {
+    "zh": "这是我第一次来中国,一切都觉得很新鲜。",
+    "pinyin": "Zhè shì wǒ dì yī cì lái zhōng guó, yī qiè dōu jué de hěn xīn xiān。",
+    "en": "This is my first time in China; everything feels new."
+   },
+   {
+    "zh": "他在这次比赛中得了第一名,大家都为他高兴。",
+    "pinyin": "Tā zài zhè cì bǐ sài zhōng de le dì yì míng, dà jiā dōu wèi tā gāo xìng。",
+    "en": "He came in first in this competition; everyone was happy for him."
+   },
+   {
+    "zh": "请翻到课本的第十五页,我们从这里开始。",
+    "pinyin": "Qǐng fān dào kè běn de dì shí wǔ yè, wǒ men cóng zhè lǐ kāi shǐ。",
+    "en": "Please turn to page fifteen of the textbook; we'll start here."
+   },
+   {
+    "zh": "我住在第三层,坐电梯上来很方便。",
+    "pinyin": "Wǒ zhù zài dì sān céng, zuò diàn tī shàng lái hěn fāng biàn。",
+    "en": "I live on the third floor; it's easy to come up by elevator."
+   },
+   {
+    "zh": "这已经是他第五次参加这个考试了。",
+    "pinyin": "Zhè yǐ jīng shì tā dì wǔ cì cān jiā zhè ge kǎo shì le。",
+    "en": "This is already his fifth time taking this exam."
+   },
+   {
+    "zh": "第一个到公司的人负责开门、开灯。",
+    "pinyin": "Dì yí gè dào gōng sī de rén fù zé kāi mén、 kāi dēng。",
+    "en": "The first person to reach the office opens the door and lights."
+   },
+   {
+    "zh": "我永远忘不了第一次站在舞台上的感觉。",
+    "pinyin": "Wǒ yǒng yuǎn wàng bù liǎo dì yī cì zhàn zài wǔ tái shàng de gǎn jué。",
+    "en": "I'll never forget the feeling of standing on stage for the first time."
+   },
+   {
+    "zh": "他家住在这条巷子里的第二个门。",
+    "pinyin": "Tā jiā zhù zài zhè tiáo xiàng zi lǐ de dì èr gè mén。",
+    "en": "His home is at the second door in this alley."
+   },
+   {
+    "zh": "这是我看过的第一部让我流泪的电影。",
+    "pinyin": "Zhè shì wǒ kàn guò de dì yī bù ràng wǒ liú lèi de diàn yǐng。",
+    "en": "This is the first movie that ever made me cry."
+   },
+   {
+    "zh": "排在第一位的顾客可以享受打折优惠。",
+    "pinyin": "Pái zài dì yī wèi de gù kè kě yǐ xiǎng shòu dǎ zhé yōu huì。",
+    "en": "The customer first in line gets a discount."
+   },
+   {
+    "zh": "请把这句话读第三遍,注意一下语气。",
+    "pinyin": "Qǐng bǎ zhè jù huà dú dì sān biàn, zhù yì yī xià yǔ qì。",
+    "en": "Please read this sentence a third time and note the tone."
+   },
+   {
+    "zh": "他是我们班第一个学会游泳的同学。",
+    "pinyin": "Tā shì wǒ men bān dì yí gè xué huì yóu yǒng de tóng xué。",
+    "en": "He's the first classmate in our class to learn to swim."
+   },
+   {
+    "zh": "从这里数,第二个路口向右拐就到了。",
+    "pinyin": "Cóng zhè lǐ shù, dì èr gè lù kǒu xiàng yòu guǎi jiù dào le。",
+    "en": "Counting from here, turn right at the second intersection."
+   },
+   {
+    "zh": "这是本学期的第一堂课,老师先做了自我介绍。",
+    "pinyin": "Zhè shì běn xué qī de dì yī táng kè, lǎo shī xiān zuò le zì wǒ jiè shào。",
+    "en": "This is the semester's first class; the teacher introduced himself first."
+   },
+   {
+    "zh": "我的座位在第一排,能清楚地看到黑板。",
+    "pinyin": "Wǒ de zuò wèi zài dì yī pái, néng qīng chǔ de kàn dào hēi bǎn。",
+    "en": "My seat is in the first row; I can see the board clearly."
+   },
+   {
+    "zh": "他第一个举手回答问题,答得也很准确。",
+    "pinyin": "Tā dì yí gè jǔ shǒu huí dá wèn tí, dá de yě hěn zhǔn què。",
+    "en": "He raised his hand first and answered accurately."
+   },
+   {
+    "zh": "这是她人生中第一次一个人去这么远的地方。",
+    "pinyin": "Zhè shì tā rén shēng zhōng dì yī cì yí gè rén qù zhè me yuǎn de dì fāng。",
+    "en": "This is the first time in her life going so far alone."
+   },
+   {
+    "zh": "公司把这个重要的任务交给了第一小组。",
+    "pinyin": "Gōng sī bǎ zhè ge zhòng yào de rèn wù jiāo gěi le dì yī xiǎo zǔ。",
+    "en": "The company gave this important task to the first group."
+   },
+   {
+    "zh": "我记得那是我们第一次见面的地方。",
+    "pinyin": "Wǒ jì de nà shì wǒ men dì yī cì jiàn miàn de dì fāng。",
+    "en": "I remember that's where we first met."
+   },
+   {
+    "zh": "这本书的第一章就深深地吸引了我。",
+    "pinyin": "Zhè běn shū de dì yī zhāng jiù shēn shēn de xī yǐn le wǒ。",
+    "en": "The first chapter of this book deeply drew me in."
+   },
+   {
+    "zh": "他连续三年都拿了年级第一,真让人佩服。",
+    "pinyin": "Tā lián xù sān nián dōu ná le nián jí dì yī, zhēn ràng rén pèi fú。",
+    "en": "He ranked first in his grade three years running; truly admirable."
+   },
+   {
+    "zh": "请第一组的同学先上台表演。",
+    "pinyin": "Qǐng dì yī zǔ de tóng xué xiān shàng tái biǎo yǎn。",
+    "en": "Would the first group of students please come up and perform first."
+   },
+   {
+    "zh": "这是我第二次来这家餐厅,味道还是那么好。",
+    "pinyin": "Zhè shì wǒ dì èr cì lái zhè jiā cān tīng, wèi dào hái shì nà me hǎo。",
+    "en": "This is my second time at this restaurant; the taste is still great."
+   },
+   {
+    "zh": "他跑完了人生中的第一个马拉松,激动得哭了。",
+    "pinyin": "Tā pǎo wán le rén shēng zhōng de dì yí gè mǎ lā sōng, jī dòng de kū le。",
+    "en": "He finished his first-ever marathon and cried with emotion."
+   },
+   {
+    "zh": "从第一天起,他就下决心一定要把这件事做好。",
+    "pinyin": "Cóng dì yī tiān qǐ, tā jiù xià jué xīn yí dìng yào bǎ zhè jiàn shì zuò hǎo。",
+    "en": "From day one, he was determined to do this well."
+   }
+  ]
+ },
+ {
+  "id": "g130",
+  "level": 2,
+  "title": "\"怎么样\" ile \"nasıl?\" sorusu",
+  "titleEn": "Asking how something is with \"zenmeyang\"",
+  "pattern": "... 怎么样？",
+  "summary": "\"怎么样\" (zěnmeyàng) bir şeyin nasıl olduğunu ya da bir öneri hakkında ne düşünüldüğünü sorar: 味道怎么样? = Tadı nasıl?",
+  "explanation": "\"怎么样\" çok işlevli bir soru sözcüğüdür: (1) Bir şeyin DURUMUNU/niteliğini sorar — 这家餐厅怎么样? (Bu restoran nasıl?), 你最近怎么样? (Son zamanlarda nasılsın?). (2) Bir ÖNERİ sunar ve karşıdan onay ister — 我们去看电影,怎么样? (Sinemaya gitsek, nasıl olur?). (3) Bir eylemin nasıl yapıldığını/sonucunu sorar. Genelde cümlenin SONUNA gelir. Olumsuz/kısmi biçim \"不怎么样\" = \"pek de iyi değil, şöyle böyle\" anlamı verir. Türkçedeki \"nasıl?, ne dersin?, ne durumda?\" sorularına denk gelir ve fikir sormanın, öneri yapmanın en doğal yollarından biridir.",
+  "examples": [
+   {
+    "zh": "你尝尝这道菜,味道怎么样?会不会太辣?",
+    "pinyin": "Nǐ cháng cháng zhè dào cài, wèi dào zěn me yàng? huì bú huì tài là?",
+    "en": "Try this dish; how's the taste? Is it too spicy?"
+   },
+   {
+    "zh": "好久不见,你最近工作和生活都怎么样?",
+    "pinyin": "Hǎo jiǔ bú jiàn, nǐ zuì jìn gōng zuò hé shēng huó dōu zěn me yàng?",
+    "en": "Long time no see; how are your work and life lately?"
+   },
+   {
+    "zh": "我们周末去爬山吧,怎么样?顺便呼吸点新鲜空气。",
+    "pinyin": "Wǒ men zhōu mò qù pá shān ba, zěn me yàng? shùn biàn hū xī diǎn xīn xiān kōng qì。",
+    "en": "Let's go hiking this weekend, how about it? And get some fresh air."
+   },
+   {
+    "zh": "这家新开的餐厅怎么样?值不值得去试试?",
+    "pinyin": "Zhè jiā xīn kāi de cān tīng zěn me yàng? zhí bù zhí de qù shì shì?",
+    "en": "How is this newly opened restaurant? Worth a try?"
+   },
+   {
+    "zh": "你觉得我这次的表现怎么样?哪里还需要改进?",
+    "pinyin": "Nǐ jué de wǒ zhè cì de biǎo xiàn zěn me yàng? nǎ lǐ hái xū yào gǎi jìn?",
+    "en": "How do you think I did this time? Where can I improve?"
+   },
+   {
+    "zh": "要不咱们点一份鱼、一份青菜,你看怎么样?",
+    "pinyin": "Yào bù zán men diǎn yī fèn yú、 yī fèn qīng cài, nǐ kàn zěn me yàng?",
+    "en": "How about we order a fish and a vegetable dish, what do you think?"
+   },
+   {
+    "zh": "他的身体最近怎么样了?上次听说他病了。",
+    "pinyin": "Tā de shēn tǐ zuì jìn zěn me yàng le? shàng cì tīng shuō tā bìng le。",
+    "en": "How is his health lately? I heard he was ill last time."
+   },
+   {
+    "zh": "这件衣服你穿着怎么样?我觉得挺合身的。",
+    "pinyin": "Zhè jiàn yī fú nǐ chuān zhe zěn me yàng? wǒ jué de tǐng hé shēn de。",
+    "en": "How does this outfit look on you? I think it fits well."
+   },
+   {
+    "zh": "你新买的那台电脑用起来怎么样?",
+    "pinyin": "Nǐ xīn mǎi de nà tái diàn nǎo yòng qǐ lái zěn me yàng?",
+    "en": "How is that new computer you bought to use?"
+   },
+   {
+    "zh": "我们改天一起吃个饭,你看时间上怎么样?",
+    "pinyin": "Wǒ men gǎi tiān yì qǐ chī gè fàn, nǐ kàn shí jiān shàng zěn me yàng?",
+    "en": "Let's have a meal together another day; how does your schedule look?"
+   },
+   {
+    "zh": "这次旅行怎么样?玩得开不开心?",
+    "pinyin": "Zhè cì lǚ xíng zěn me yàng? wán de kāi bù kāi xīn?",
+    "en": "How was this trip? Did you have fun?"
+   },
+   {
+    "zh": "你觉得这个方案怎么样?还有没有需要改的地方?",
+    "pinyin": "Nǐ jué de zhè ge fāng àn zěn me yàng? hái yǒu méi yǒu xū yào gǎi de dì fāng?",
+    "en": "What do you think of this plan? Anything that needs changing?"
+   },
+   {
+    "zh": "说实话,那部电影拍得不怎么样,我看了一半就走了。",
+    "pinyin": "Shuō shí huà, nà bù diàn yǐng pāi de bù zěn me yàng, wǒ kàn le yí bàn jiù zǒu le。",
+    "en": "Honestly, that movie wasn't that good; I left halfway."
+   },
+   {
+    "zh": "孩子这学期的成绩怎么样?老师有没有说什么?",
+    "pinyin": "Hái zi zhè xué qī de chéng jì zěn me yàng? lǎo shī yǒu méi yǒu shuō shén me?",
+    "en": "How are the child's grades this semester? Did the teacher say anything?"
+   },
+   {
+    "zh": "这天气怎么样?适不适合出去晒晒被子?",
+    "pinyin": "Zhè tiān qì zěn me yàng? shì bú shì hé chū qù shài shài bèi zi?",
+    "en": "How's the weather? Good for airing the quilts outside?"
+   },
+   {
+    "zh": "我给你介绍个朋友,人特别好,你看怎么样?",
+    "pinyin": "Wǒ gěi nǐ jiè shào gè péng yǒu, rén tè bié hǎo, nǐ kàn zěn me yàng?",
+    "en": "Let me introduce a friend; he's a great person, what do you say?"
+   },
+   {
+    "zh": "你新换的工作怎么样?同事们好不好相处?",
+    "pinyin": "Nǐ xīn huàn de gōng zuò zěn me yàng? tóng shì men hǎo bù hǎo xiāng chǔ?",
+    "en": "How's your new job? Are the colleagues easy to get along with?"
+   },
+   {
+    "zh": "这杯茶怎么样?是今年刚下来的新茶。",
+    "pinyin": "Zhè bēi chá zěn me yàng? shì jīn nián gāng xià lái de xīn chá。",
+    "en": "How's this tea? It's freshly harvested this year."
+   },
+   {
+    "zh": "咱们中午吃火锅怎么样?天这么冷,吃点热的。",
+    "pinyin": "Zán men zhōng wǔ chī huǒ guō zěn me yàng? tiān zhè me lěng, chī diǎn rè de。",
+    "en": "How about hotpot for lunch? It's cold, let's eat something hot."
+   },
+   {
+    "zh": "他这个人怎么样?值不值得信任?",
+    "pinyin": "Tā zhè ge rén zěn me yàng? zhí bù zhí de xìn rèn?",
+    "en": "What's he like as a person? Is he trustworthy?"
+   },
+   {
+    "zh": "你昨天面试得怎么样?他们什么时候给答复?",
+    "pinyin": "Nǐ zuó tiān miàn shì de zěn me yàng? tā men shén me shí hòu gěi dá fù?",
+    "en": "How did your interview go yesterday? When will they reply?"
+   },
+   {
+    "zh": "这套房子的位置和采光都怎么样?",
+    "pinyin": "Zhè tào fáng zi de wèi zhì hé cǎi guāng dōu zěn me yàng?",
+    "en": "How are this apartment's location and lighting?"
+   },
+   {
+    "zh": "我们把聚会改到下周末,你看怎么样?",
+    "pinyin": "Wǒ men bǎ jù huì gǎi dào xià zhōu mò, nǐ kàn zěn me yàng?",
+    "en": "Let's move the gathering to next weekend; how about that?"
+   },
+   {
+    "zh": "你学了这么久,现在口语怎么样了?",
+    "pinyin": "Nǐ xué le zhè me jiǔ, xiàn zài kǒu yǔ zěn me yàng le?",
+    "en": "You've studied so long; how's your speaking now?"
+   },
+   {
+    "zh": "这次考试大家考得怎么样?难不难?",
+    "pinyin": "Zhè cì kǎo shì dà jiā kǎo de zěn me yàng? nán bù nán?",
+    "en": "How did everyone do on this exam? Was it hard?"
+   }
+  ]
  }
 ]

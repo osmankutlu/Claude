@@ -37262,5 +37262,685 @@
     "en": "After work, he often walks through the park before going home."
    }
   ]
+ },
+ {
+  "id": "g275",
+  "level": 3,
+  "title": "\"刚\" ile \"刚才\" farkı",
+  "titleEn": "Comparing \"gang\" and \"gangcai\"",
+  "pattern": "刚 (zarf) / 刚才 (zaman sözcüğü)",
+  "summary": "\"刚\" bir ZARFTIR (fiil önünde, \"az önce/henüz\"); \"刚才\" bir ZAMAN sözcüğüdür (\"demin, az önce\", tek başına durabilir).",
+  "explanation": "\"刚\" ve \"刚才\" ikisi de yakın geçmişi anlatır ama dilbilgisel türleri farklıdır. \"刚\" bir ZARFTIR: doğrudan fiilin önünde durur, \"henüz, daha yeni, az önce\" der ve olayın konuşma anına çok yakın gerçekleştiğini vurgular: 我刚到家 (Daha yeni eve geldim), 他刚走 (Az önce gitti). Öznenin ardında, fiilin önündedir. \"刚才\" ise bir ZAMAN sözcüğüdür (isim gibi): \"demin, az önce\" — belirli bir yakın geçmiş ANI gösterir, tek başına durabilir ve cümlede öznenin önüne ya da ardına gelebilir: 刚才谁给我打电话了? (Demin bana kim aradı?), 我刚才没听清楚 (Az önce iyi duyamadım). Ayrıca \"刚才\"ın olumsuzu \"没\" ile olur (刚才没...), ama \"刚\" ile bir olumsuz eylem pek anlatılmaz. Kısaca: \"刚\" = fiil önünde zarf (yenilik), \"刚才\" = geçmiş bir anı gösteren zaman sözcüğü. Türkçedeki \"yeni, henüz\" (刚) ile \"demin, az önce\" (刚才) ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "我刚到公司,还没来得及喝口水就开始忙了。",
+    "pinyin": "Wǒ gāng dào gōng sī, hái méi lái de jí hē kǒu shuǐ jiù kāi shǐ máng le。",
+    "en": "I just got to the office and started working before I could even sip water."
+   },
+   {
+    "zh": "刚才有人来找你,你不在,他留了个电话号码。",
+    "pinyin": "Gāng cái yǒu rén lái zhǎo nǐ, nǐ bù zài, tā liú le gè diàn huà hào mǎ。",
+    "en": "Someone came looking for you just now; you were out, so he left a number."
+   },
+   {
+    "zh": "他刚出门,你现在追出去也许还能追上。",
+    "pinyin": "Tā gāng chū mén, nǐ xiàn zài zhuī chū qù yě xǔ hái néng zhuī shàng。",
+    "en": "He just left; if you go after him now you might still catch up."
+   },
+   {
+    "zh": "对不起,刚才我在开会,没能及时接你的电话。",
+    "pinyin": "Duì bù qǐ, gāng cái wǒ zài kāi huì, méi néng jí shí jiē nǐ de diàn huà。",
+    "en": "Sorry, I was in a meeting just now and couldn't answer your call."
+   },
+   {
+    "zh": "这饭刚做好,还热气腾腾的,快趁热吃。",
+    "pinyin": "Zhè fàn gāng zuò hǎo, hái rè qì téng téng de, kuài chèn rè chī。",
+    "en": "The food's just been made and is steaming hot; eat it while it's hot."
+   },
+   {
+    "zh": "刚才那阵风好大,把窗户都吹开了。",
+    "pinyin": "Gāng cái nà zhèn fēng hǎo dà, bǎ chuāng hù dōu chuī kāi le。",
+    "en": "That gust just now was so strong it blew the window open."
+   },
+   {
+    "zh": "孩子刚睡着,你们说话声音小一点儿。",
+    "pinyin": "Hái zi gāng shuì zháo, nǐ men shuō huà shēng yīn xiǎo yì diǎn ér。",
+    "en": "The child just fell asleep; keep your voices down."
+   },
+   {
+    "zh": "你刚才说的那家餐厅,具体叫什么名字?",
+    "pinyin": "Nǐ gāng cái shuō de nà jiā cān tīng, jù tǐ jiào shén me míng zì?",
+    "en": "The restaurant you mentioned just now — what's its name exactly?"
+   },
+   {
+    "zh": "我刚看完这本书,正想找人聊聊里面的内容。",
+    "pinyin": "Wǒ gāng kàn wán zhè běn shū, zhèng xiǎng zhǎo rén liáo liáo lǐ miàn de nèi róng。",
+    "en": "I just finished this book and want to discuss its content with someone."
+   },
+   {
+    "zh": "刚才我一时糊涂,把你的名字都叫错了,真不好意思。",
+    "pinyin": "Gāng cái wǒ yī shí hú tú, bǎ nǐ de míng zì dōu jiào cuò le, zhēn bù hǎo yì sī。",
+    "en": "I got muddled just now and called you the wrong name; sorry."
+   },
+   {
+    "zh": "天刚亮,鸟儿就在窗外欢快地叫了起来。",
+    "pinyin": "Tiān gāng liàng, niǎo ér jiù zài chuāng wài huān kuài de jiào le qǐ lái。",
+    "en": "As soon as it dawned, the birds began chirping cheerfully outside."
+   },
+   {
+    "zh": "你刚才去哪儿了?我找了你半天也没找到。",
+    "pinyin": "Nǐ gāng cái qù nǎ ér le? wǒ zhǎo le nǐ bàn tiān yě méi zhǎo dào。",
+    "en": "Where did you go just now? I looked for you for ages."
+   },
+   {
+    "zh": "我刚认识他不久,对他的脾气还不太了解。",
+    "pinyin": "Wǒ gāng rèn shí tā bù jiǔ, duì tā de pí qì hái bù tài liǎo jiě。",
+    "en": "I only just met him; I don't know his temper well yet."
+   },
+   {
+    "zh": "刚才那道题我没听懂,老师能再讲一遍吗?",
+    "pinyin": "Gāng cái nà dào tí wǒ méi tīng dǒng, lǎo shī néng zài jiǎng yī biàn ma?",
+    "en": "I didn't understand that problem just now; can the teacher repeat it?"
+   },
+   {
+    "zh": "雨刚停,地上还湿着,你出门小心点儿别滑倒。",
+    "pinyin": "Yǔ gāng tíng, de shàng hái shī zhe, nǐ chū mén xiǎo xīn diǎn ér bié huá dào。",
+    "en": "The rain just stopped and the ground's wet; mind you don't slip."
+   },
+   {
+    "zh": "刚才电话里太吵,咱们现在慢慢说。",
+    "pinyin": "Gāng cái diàn huà lǐ tài chǎo, zán men xiàn zài màn màn shuō。",
+    "en": "It was too noisy on the phone just now; let's talk slowly now."
+   },
+   {
+    "zh": "他刚搬来这个小区,还不太熟悉周围的环境。",
+    "pinyin": "Tā gāng bān lái zhè ge xiǎo qū, hái bù tài shú xī zhōu wéi de huán jìng。",
+    "en": "He just moved to this neighborhood and isn't familiar with the area yet."
+   },
+   {
+    "zh": "你刚才是不是想说什么?怎么又不说了?",
+    "pinyin": "Nǐ gāng cái shì bú shì xiǎng shuō shén me? zěn me yòu bù shuō le?",
+    "en": "Were you about to say something just now? Why did you stop?"
+   },
+   {
+    "zh": "水刚烧开,你等它凉一凉再喝,别烫着。",
+    "pinyin": "Shuǐ gāng shāo kāi, nǐ děng tā liàng yī liàng zài hē, bié tàng zhe。",
+    "en": "The water just boiled; let it cool before drinking, don't scald yourself."
+   },
+   {
+    "zh": "刚才我路过书店,顺便给你买了本你想要的书。",
+    "pinyin": "Gāng cái wǒ lù guò shū diàn, shùn biàn gěi nǐ mǎi le běn nǐ xiǎng yào de shū。",
+    "en": "Passing the bookstore just now, I bought you the book you wanted."
+   },
+   {
+    "zh": "他刚毕业,工作经验还不多,需要多锻炼。",
+    "pinyin": "Tā gāng bì yè, gōng zuò jīng yàn hái bù duō, xū yào duō duàn liàn。",
+    "en": "He just graduated with little work experience; he needs more training."
+   },
+   {
+    "zh": "刚才那个消息把大家都吓了一跳,现在还没缓过来。",
+    "pinyin": "Gāng cái nà ge xiāo xī bǎ dà jiā dōu xià le yī tiào, xiàn zài hái méi huǎn guò lái。",
+    "en": "That news just now startled everyone; we still haven't recovered."
+   },
+   {
+    "zh": "我刚起床,头发还乱着呢,你等我收拾一下。",
+    "pinyin": "Wǒ gāng qǐ chuáng, tóu fà hái luàn zhe ne, nǐ děng wǒ shōu shí yī xià。",
+    "en": "I just got up with my hair a mess; wait while I tidy up."
+   },
+   {
+    "zh": "刚才你没在,所以我把东西交给了你同事。",
+    "pinyin": "Gāng cái nǐ méi zài, suǒ yǐ wǒ bǎ dōng xī jiāo gěi le nǐ tóng shì。",
+    "en": "You weren't here just now, so I handed the things to your colleague."
+   },
+   {
+    "zh": "电影刚开始,你来得正好,一点儿都没错过。",
+    "pinyin": "Diàn yǐng gāng kāi shǐ, nǐ lái de zhèng hǎo, yì diǎn ér dōu méi cuò guò。",
+    "en": "The movie just started; you came at the right time and missed nothing."
+   }
+  ]
+ },
+ {
+  "id": "g276",
+  "level": 3,
+  "title": "\"有点儿\" ile \"一点儿\" farkı",
+  "titleEn": "Comparing \"youdian\" and \"yidian\"",
+  "pattern": "有点儿 + Sıfat (öncesi) / Sıfat + 一点儿 (sonrası)",
+  "summary": "\"有点儿\" sıfattan ÖNCE gelir ve genelde olumsuz \"biraz\" der (有点儿贵 = biraz pahalı); \"一点儿\" sıfattan SONRA gelir ve kıyas/istek bildirir (便宜一点儿 = biraz daha ucuz).",
+  "explanation": "\"有点儿\" ve \"一点儿\" sık karıştırılır. \"有点儿\" (有点) bir SIFATIN ÖNÜNE gelir ve neredeyse her zaman İSTENMEYEN/olumsuz bir durumu \"biraz\" diye bildirir: 今天有点儿冷 (Bugün biraz soğuk), 这件衣服有点儿贵 (Bu giysi biraz pahalı), 我有点儿累 (Biraz yorgunum). \"一点儿\" (一点) ise bir SIFATTAN SONRA gelir ve bir KIYAS ya da İSTEK bildirir (\"biraz daha ...\"): 便宜一点儿 (biraz daha ucuz), 你快一点儿 (biraz daha hızlı ol), 声音大一点儿 (sesi biraz aç). Kısaca: \"有点儿 + sıfat\" = mevcut durumdan şikâyet (biraz fazla ...); \"sıfat + 一点儿\" = değişiklik/kıyas isteği (biraz daha ...). Ayrıca \"一点儿\" bir isimden önce \"az miktar\" da bildirir: 一点儿水 (biraz su). Türkçedeki \"biraz (fazla)\" (有点儿) ile \"biraz daha\" (一点儿) ayrımına denk gelir; en yaygın öğrenci hatalarından biridir.",
+  "examples": [
+   {
+    "zh": "这件衣服我很喜欢,就是有点儿贵,能便宜一点儿吗?",
+    "pinyin": "Zhè jiàn yī fú wǒ hěn xǐ huān, jiù shì yǒu diǎn ér guì, néng pián yi yì diǎn ér ma?",
+    "en": "I like this outfit, but it's a bit pricey; could it be a little cheaper?"
+   },
+   {
+    "zh": "今天有点儿冷,你多穿一点儿衣服再出门。",
+    "pinyin": "Jīn tiān yǒu diǎn ér lěng, nǐ duō chuān yì diǎn ér yī fú zài chū mén。",
+    "en": "It's a bit cold today; put on a bit more clothing before going out."
+   },
+   {
+    "zh": "这道菜有点儿淡,再加一点儿盐味道会更好。",
+    "pinyin": "Zhè dào cài yǒu diǎn ér dàn, zài jiā yì diǎn ér yán wèi dào huì gèng hǎo。",
+    "en": "This dish is a bit bland; a little more salt would improve it."
+   },
+   {
+    "zh": "我最近有点儿累,想找个周末好好休息一下。",
+    "pinyin": "Wǒ zuì jìn yǒu diǎn ér lèi, xiǎng zhǎo gè zhōu mò hǎo hǎo xiū xī yī xià。",
+    "en": "I've been a bit tired lately; I want a weekend to rest well."
+   },
+   {
+    "zh": "你说话声音有点儿小,能不能大一点儿?",
+    "pinyin": "Nǐ shuō huà shēng yīn yǒu diǎn ér xiǎo, néng bù néng dà yī diǎn ér?",
+    "en": "Your voice is a bit soft; could you speak a bit louder?"
+   },
+   {
+    "zh": "这个房间有点儿暗,咱们把窗帘拉开一点儿吧。",
+    "pinyin": "Zhè ge fáng jiān yǒu diǎn ér àn, zán men bǎ chuāng lián lā kāi yì diǎn ér ba。",
+    "en": "This room is a bit dark; let's open the curtains a little."
+   },
+   {
+    "zh": "他今天好像有点儿不高兴,你去问问怎么了。",
+    "pinyin": "Tā jīn tiān hǎo xiàng yǒu diǎn ér bù gāo xìng, nǐ qù wèn wèn zěn me le。",
+    "en": "He seems a bit unhappy today; go ask what's wrong."
+   },
+   {
+    "zh": "这条裤子有点儿长,你能帮我改短一点儿吗?",
+    "pinyin": "Zhè tiáo kù zi yǒu diǎn ér zhǎng, nǐ néng bāng wǒ gǎi duǎn yì diǎn ér ma?",
+    "en": "These trousers are a bit long; can you shorten them a little?"
+   },
+   {
+    "zh": "路上有点儿堵,你耐心一点儿,一会儿就好了。",
+    "pinyin": "Lù shàng yǒu diǎn ér dǔ, nǐ nài xīn yì diǎn ér, yī huì er jiù hǎo le。",
+    "en": "There's a bit of traffic; be a little patient, it'll clear soon."
+   },
+   {
+    "zh": "我对这方面有点儿了解,不过懂得还不够多。",
+    "pinyin": "Wǒ duì zhè fāng miàn yǒu diǎn ér liǎo jiě, bù guò dǒng de hái bù gòu duō。",
+    "en": "I know a bit about this area, but not enough."
+   },
+   {
+    "zh": "汤有点儿烫,你等它凉一点儿再喝。",
+    "pinyin": "Tāng yǒu diǎn ér tàng, nǐ děng tā liáng yì diǎn ér zài hē。",
+    "en": "The soup is a bit hot; wait until it cools a little to drink."
+   },
+   {
+    "zh": "这几天他工作有点儿忙,你别打扰他太多。",
+    "pinyin": "Zhè jǐ tiān tā gōng zuò yǒu diǎn ér máng, nǐ bié dǎ rǎo tā tài duō。",
+    "en": "He's a bit busy with work these days; don't disturb him too much."
+   },
+   {
+    "zh": "字写得有点儿乱,你写工整一点儿好不好?",
+    "pinyin": "Zì xiě de yǒu diǎn ér luàn, nǐ xiě gōng zhěng yì diǎn ér hǎo bù hǎo?",
+    "en": "Your writing is a bit messy; could you write a little neater?"
+   },
+   {
+    "zh": "这个包有点儿重,你能不能拿轻一点儿的?",
+    "pinyin": "Zhè ge bāo yǒu diǎn ér zhòng, nǐ néng bù néng ná qīng yì diǎn ér de?",
+    "en": "This bag is a bit heavy; could you take a lighter one?"
+   },
+   {
+    "zh": "外面有点儿吵,咱们把门关上,安静一点儿。",
+    "pinyin": "Wài miàn yǒu diǎn ér chǎo, zán men bǎ mén guān shàng, ān jìng yì diǎn ér。",
+    "en": "It's a bit noisy outside; let's close the door for some quiet."
+   },
+   {
+    "zh": "他普通话说得有点儿快,你能说慢一点儿吗?",
+    "pinyin": "Tā pǔ tōng huà shuō de yǒu diǎn ér kuài, nǐ néng shuō màn yì diǎn ér ma?",
+    "en": "His Mandarin is a bit fast; could you speak a little slower?"
+   },
+   {
+    "zh": "我今天有点儿感冒,想多喝一点儿热水。",
+    "pinyin": "Wǒ jīn tiān yǒu diǎn ér gǎn mào, xiǎng duō hē yì diǎn ér rè shuǐ。",
+    "en": "I have a bit of a cold today; I want to drink a little more hot water."
+   },
+   {
+    "zh": "这个决定有点儿仓促,咱们最好再慎重一点儿。",
+    "pinyin": "Zhè ge jué dìng yǒu diǎn ér cāng cù, zán men zuì hǎo zài shèn zhòng yì diǎn ér。",
+    "en": "This decision is a bit hasty; we'd best be a little more careful."
+   },
+   {
+    "zh": "孩子最近有点儿贪玩,你得对他严格一点儿。",
+    "pinyin": "Hái zi zuì jìn yǒu diǎn ér tān wán, nǐ děi duì tā yán gé yì diǎn ér。",
+    "en": "The child's been a bit playful lately; you should be a little stricter."
+   },
+   {
+    "zh": "这块蛋糕有点儿甜,给我切小一点儿的一块就行。",
+    "pinyin": "Zhè kuài dàn gāo yǒu diǎn ér tián, gěi wǒ qiè xiǎo yì diǎn ér de yī kuài jiù xíng。",
+    "en": "This cake is a bit sweet; a smaller piece will do for me."
+   },
+   {
+    "zh": "他的态度有点儿冷淡,不过熟悉了就好一点儿了。",
+    "pinyin": "Tā de tài dù yǒu diǎn ér lěng dàn, bù guò shú xī le jiù hǎo yì diǎn ér le。",
+    "en": "His manner is a bit cold, but it improves once you know him."
+   },
+   {
+    "zh": "这个时间去有点儿早,咱们晚一点儿出发吧。",
+    "pinyin": "Zhè ge shí jiān qù yǒu diǎn ér zǎo, zán men wǎn yì diǎn ér chū fā ba。",
+    "en": "It's a bit early to go now; let's set off a little later."
+   },
+   {
+    "zh": "我心里有点儿紧张,你能陪我一起进去吗?",
+    "pinyin": "Wǒ xīn lǐ yǒu diǎn ér jǐn zhāng, nǐ néng péi wǒ yì qǐ jìn qù ma?",
+    "en": "I'm a bit nervous; could you go in with me?"
+   },
+   {
+    "zh": "这双鞋有点儿紧,有没有大一点儿的号码?",
+    "pinyin": "Zhè shuāng xié yǒu diǎn ér jǐn, yǒu méi yǒu dà yī diǎn ér de hào mǎ?",
+    "en": "These shoes are a bit tight; is there a slightly larger size?"
+   },
+   {
+    "zh": "最近开销有点儿大,以后得节省一点儿了。",
+    "pinyin": "Zuì jìn kāi xiāo yǒu diǎn ér dà, yǐ hòu de jié shěng yì diǎn ér le。",
+    "en": "Expenses have been a bit high lately; I should be a little more frugal."
+   }
+  ]
+ },
+ {
+  "id": "g277",
+  "level": 3,
+  "title": "\"会\" / \"能\" / \"可以\" farkı",
+  "titleEn": "Comparing \"hui,\" \"neng,\" \"keyi\"",
+  "pattern": "会 (beceri) / 能 (imkân) / 可以 (izin)",
+  "summary": "\"会\" öğrenilmiş beceriyi, \"能\" fiziksel/koşulsal imkânı ve dereceyi, \"可以\" izni bildirir — üçü de \"...-ebilmek\" ama farklı açılardan.",
+  "explanation": "Bu üç yardımcı fiil de \"...-ebilmek\" der ama farklı açıları vurgular. \"会\": ÖĞRENME sonucu kazanılan beceri (\"...mayı bilmek\") ve gelecek olasılığı — 我会游泳 (Yüzmeyi bilirim), 明天会下雨 (Yarın yağmur yağabilir). \"能\": bir eylemin FİZİKSEL/koşulsal olarak mümkün olması ya da bir DERECEYE ulaşma — 我今天很忙,不能来 (Bugün meşgulüm, gelemem), 他一分钟能打一百个字 (Dakikada yüz karakter yazabilir), 病好了,能吃饭了 (İyileşti, yemek yiyebiliyor). \"可以\": İZİN/uygunluk — 这里可以拍照吗? (Burada fotoğraf çekilebilir mi?), 你可以走了 (Gidebilirsin). Örtüşmeler olur: beceriyle \"会/能\" (我会/能开车), izinle \"能/可以\" (可以/能进来吗?). İnce ayrım: \"会\" öğrenilmiş yeti, \"能\" koşulsal imkân/kapasite, \"可以\" izin. Olumsuzlar: 不会 (bilmemek), 不能 (imkânsız/yasak), 不可以 (izin yok). Türkçedeki \"...mayı bilmek / ...-ebilmek (imkân) / ...-ebilmek (izin)\" ayrımlarına denk gelir.",
+  "examples": [
+   {
+    "zh": "他会说三种语言,可是现在嗓子哑了,不能说话。",
+    "pinyin": "Tā huì shuō sān zhǒng yǔ yán, kě shì xiàn zài sǎng zi yǎ le, bù néng shuō huà。",
+    "en": "He can speak three languages, but his voice is hoarse now and he can't talk."
+   },
+   {
+    "zh": "请问,这里可以停车吗?我找了半天车位。",
+    "pinyin": "Qǐng wèn, zhè lǐ kě yǐ tíng chē ma? wǒ zhǎo le bàn tiān chē wèi。",
+    "en": "Excuse me, can I park here? I've been looking for a spot."
+   },
+   {
+    "zh": "我会开车,可是今天喝了酒,不能开。",
+    "pinyin": "Wǒ huì kāi chē, kě shì jīn tiān hē le jiǔ, bù néng kāi。",
+    "en": "I can drive, but I drank today, so I can't drive."
+   },
+   {
+    "zh": "你的病还没好,暂时还不能吃太油腻的东西。",
+    "pinyin": "Nǐ de bìng hái méi hǎo, zàn shí hái bù néng chī tài yóu nì de dōng xī。",
+    "en": "You haven't recovered; you can't eat greasy food for now."
+   },
+   {
+    "zh": "孩子五岁就会背很多古诗,大家都夸他聪明。",
+    "pinyin": "Hái zi wǔ suì jiù huì bèi hěn duō gǔ shī, dà jiā dōu kuā tā cōng míng。",
+    "en": "The child can recite many poems at five; everyone praises his cleverness."
+   },
+   {
+    "zh": "这个会议室现在没人用,你们可以在这儿讨论。",
+    "pinyin": "Zhè ge huì yì shì xiàn zài méi rén yòng, nǐ men kě yǐ zài zhè ér tǎo lùn。",
+    "en": "This meeting room is free now; you can discuss here."
+   },
+   {
+    "zh": "他一口气能跑十公里,体力真是好得惊人。",
+    "pinyin": "Tā yì kǒu qì néng pǎo shí gōng lǐ, tǐ lì zhēn shì hǎo de jīng rén。",
+    "en": "He can run ten kilometers in one go; his stamina is amazing."
+   },
+   {
+    "zh": "你会不会用这个软件?不会的话我可以教你。",
+    "pinyin": "Nǐ huì bú huì yòng zhè ge ruǎn jiàn? bú huì de huà wǒ kě yǐ jiào nǐ。",
+    "en": "Do you know how to use this software? If not, I can teach you."
+   },
+   {
+    "zh": "天气预报说明天会下雪,你出门可要小心。",
+    "pinyin": "Tiān qì yù bào shuō míng tiān huì xià xuě, nǐ chū mén kě yào xiǎo xīn。",
+    "en": "The forecast says it'll snow tomorrow; be careful when out."
+   },
+   {
+    "zh": "这里是图书馆,不可以大声说话,请安静一点。",
+    "pinyin": "Zhè lǐ shì tú shū guǎn, bù kě yǐ dà shēng shuō huà, qǐng ān jìng yì diǎn。",
+    "en": "This is a library; you can't talk loudly, please be quiet."
+   },
+   {
+    "zh": "我今天能帮你搬家,不过下午三点以后才有空。",
+    "pinyin": "Wǒ jīn tiān néng bāng nǐ bān jiā, bù guò xià wǔ sān diǎn yǐ hòu cái yǒu kòng。",
+    "en": "I can help you move today, but only after three in the afternoon."
+   },
+   {
+    "zh": "她会做很多种点心,而且每一种都做得特别好。",
+    "pinyin": "Tā huì zuò hěn duō zhǒng diǎn xīn, ér qiě měi yī zhǒng dōu zuò de tè bié hǎo。",
+    "en": "She can make many kinds of pastries, and each one especially well."
+   },
+   {
+    "zh": "请问我可以看看这件衣服吗?我想试一下。",
+    "pinyin": "Qǐng wèn wǒ kě yǐ kàn kàn zhè jiàn yī fú ma? wǒ xiǎng shì yī xià。",
+    "en": "May I take a look at this outfit? I'd like to try it on."
+   },
+   {
+    "zh": "他病刚好,还不能做剧烈运动,只能慢慢散步。",
+    "pinyin": "Tā bìng gāng hǎo, hái bù néng zuò jù liè yùn dòng, zhǐ néng màn màn sàn bù。",
+    "en": "He just recovered and can't do strenuous exercise, only slow walks."
+   },
+   {
+    "zh": "你会包饺子吗?今天咱们一起动手包一顿。",
+    "pinyin": "Nǐ huì bāo jiǎo zi ma? jīn tiān zán men yì qǐ dòng shǒu bāo yī dùn。",
+    "en": "Can you wrap dumplings? Let's make a batch together today."
+   },
+   {
+    "zh": "这些座位是留给老人的,年轻人不可以随便坐。",
+    "pinyin": "Zhè xiē zuò wèi shì liú gěi lǎo rén de, nián qīng rén bù kě yǐ suí biàn zuò。",
+    "en": "These seats are for the elderly; young people can't just sit here."
+   },
+   {
+    "zh": "经过练习,他现在能用汉语进行简单的交流了。",
+    "pinyin": "Jīng guò liàn xí, tā xiàn zài néng yòng hàn yǔ jìn xíng jiǎn dān de jiāo liú le。",
+    "en": "After practice, he can now hold simple conversations in Chinese."
+   },
+   {
+    "zh": "你要是有事,可以提前跟老师请假。",
+    "pinyin": "Nǐ yào shì yǒu shì, kě yǐ tí qián gēn lǎo shī qǐng jià。",
+    "en": "If you have something on, you can ask the teacher for leave in advance."
+   },
+   {
+    "zh": "这么重的东西,我一个人搬不动,你能帮我一把吗?",
+    "pinyin": "Zhè me zhòng de dōng xī, wǒ yí gè rén bān bù dòng, nǐ néng bāng wǒ yī bǎ ma?",
+    "en": "This is too heavy for me alone; can you give me a hand?"
+   },
+   {
+    "zh": "他从小就会画画,长大后成了一名有名的画家。",
+    "pinyin": "Tā cóng xiǎo jiù huì huà huà, zhǎng dà hòu chéng le yī míng yǒu míng de huà jiā。",
+    "en": "He could draw since childhood and became a famous painter."
+   },
+   {
+    "zh": "现在还早,商店没开门,我们还不能进去。",
+    "pinyin": "Xiàn zài hái zǎo, shāng diàn méi kāi mén, wǒ men hái bù néng jìn qù。",
+    "en": "It's early; the shop isn't open, so we can't go in yet."
+   },
+   {
+    "zh": "你可以把手机借我用一下吗?我的没电了。",
+    "pinyin": "Nǐ kě yǐ bǎ shǒu jī jiè wǒ yòng yī xià ma? wǒ de méi diàn le。",
+    "en": "Can I borrow your phone? Mine's out of battery."
+   },
+   {
+    "zh": "虽然他年纪大了,可是还能自己照顾自己。",
+    "pinyin": "Suī rán tā nián jì dà le, kě shì hái néng zì jǐ zhào gù zì jǐ。",
+    "en": "Though he's old, he can still take care of himself."
+   },
+   {
+    "zh": "我不会做这道菜,不过我可以照着菜谱试试。",
+    "pinyin": "Wǒ bú huì zuò zhè dào cài, bù guò wǒ kě yǐ zhào zhe cài pǔ shì shì。",
+    "en": "I can't make this dish, but I can try following a recipe."
+   },
+   {
+    "zh": "这个座位有人吗?我可以坐这儿吗?",
+    "pinyin": "Zhè ge zuò wèi yǒu rén ma? wǒ kě yǐ zuò zhè ér ma?",
+    "en": "Is this seat taken? May I sit here?"
+   }
+  ]
+ },
+ {
+  "id": "g278",
+  "level": 3,
+  "title": "\"还是\" ile \"或者\" farkı",
+  "titleEn": "Comparing \"haishi\" and \"huozhe\"",
+  "pattern": "还是 (soruda) / 或者 (ifadede)",
+  "summary": "\"还是\" seçenek sunan SORULARDA kullanılır (你去还是我去?); \"或者\" düz İFADELERDE \"veya\" der (你或者我去都行).",
+  "explanation": "\"还是\" ve \"或者\" ikisi de iki seçeneği bağlar ama farklı cümle türlerinde kullanılır. \"还是\" bir SEÇENEK SORUSUNDA (\"... mı yoksa ... mı?\") gelir; dinleyiciden bir seçim ister: 你喝茶还是喝咖啡? (Çay mı kahve mi içersin?), 我们今天去还是明天去? (Bugün mü yarın mı gidelim?). \"或者\" ise DÜZ (soru olmayan) İFADELERDE \"veya, ya da\" der; bir seçim istemez, seçenekten bahseder: 你或者他去都可以 (Ya sen ya o gitse olur), 我想喝点茶或者咖啡 (Biraz çay ya da kahve içmek isterim). Kısaca: SORUDA 还是, İFADEDE 或者. \"还是\" ayrıca \"en iyisi/yine de\" (öneri) anlamına da gelir (bkz. ayrı konu); bir dolaylı soruda (我不知道去还是不去) yine \"还是\" kullanılır çünkü bir seçim söz konusudur. Türkçedeki \"...mı yoksa ...mı?\" (还是, soru) ile \"veya, ya da\" (或者, ifade) ayrımına denk gelir; en sık öğrenci hatalarından biridir.",
+  "examples": [
+   {
+    "zh": "你今天想吃米饭还是面条?我这就去准备。",
+    "pinyin": "Nǐ jīn tiān xiǎng chī mǐ fàn hái shì miàn tiáo? wǒ zhè jiù qù zhǔn bèi。",
+    "en": "Do you want rice or noodles today? I'll go prepare it."
+   },
+   {
+    "zh": "周末我们可以去爬山,或者在家看看电影,都行。",
+    "pinyin": "Zhōu mò wǒ men kě yǐ qù pá shān, huò zhě zài jiā kàn kàn diàn yǐng, dōu xíng。",
+    "en": "This weekend we can go hiking or watch movies at home, either's fine."
+   },
+   {
+    "zh": "咱们是坐地铁去还是打车去?你觉得哪个方便?",
+    "pinyin": "Zán men shì zuò dì tiě qù hái shì dǎ chē qù? nǐ jué de nǎ ge fāng biàn?",
+    "en": "Shall we take the subway or a taxi? Which do you think is easier?"
+   },
+   {
+    "zh": "你要是渴了,冰箱里有水或者果汁,自己拿。",
+    "pinyin": "Nǐ yào shì kě le, bīng xiāng lǐ yǒu shuǐ huò zhě guǒ zhī, zì jǐ ná。",
+    "en": "If you're thirsty, there's water or juice in the fridge; help yourself."
+   },
+   {
+    "zh": "这件事你打算自己解决,还是需要我帮忙?",
+    "pinyin": "Zhè jiàn shì nǐ dǎ suàn zì jǐ jiě jué, hái shì xū yào wǒ bāng máng?",
+    "en": "Do you plan to solve this yourself, or do you need my help?"
+   },
+   {
+    "zh": "有问题你可以问老师或者查一下资料,都能弄明白。",
+    "pinyin": "Yǒu wèn tí nǐ kě yǐ wèn lǎo shī huò zhě chá yī xià zī liào, dōu néng nòng míng bái。",
+    "en": "For questions you can ask the teacher or check references; either clears it up."
+   },
+   {
+    "zh": "你是喜欢住在城里,还是喜欢住在乡下?",
+    "pinyin": "Nǐ shì xǐ huān zhù zài chéng lǐ, hái shì xǐ huān zhù zài xiāng xià?",
+    "en": "Do you prefer living in the city or the countryside?"
+   },
+   {
+    "zh": "这份文件你可以打印出来或者直接发到我邮箱。",
+    "pinyin": "Zhè fèn wén jiàn nǐ kě yǐ dǎ yìn chū lái huò zhě zhí jiē fā dào wǒ yóu xiāng。",
+    "en": "You can print this document or send it straight to my email."
+   },
+   {
+    "zh": "我们明天出发,还是后天出发,你定个时间吧。",
+    "pinyin": "Wǒ men míng tiān chū fā, hái shì hòu tiān chū fā, nǐ dìng gè shí jiān ba。",
+    "en": "Do we leave tomorrow or the day after? You set the time."
+   },
+   {
+    "zh": "生日礼物我打算送她一本书或者一条围巾。",
+    "pinyin": "Shēng rì lǐ wù wǒ dǎ suàn sòng tā yī běn shū huò zhě yī tiáo wéi jīn。",
+    "en": "For her birthday I'll give her a book or a scarf."
+   },
+   {
+    "zh": "你觉得这个方案好,还是那个方案好?",
+    "pinyin": "Nǐ jué de zhè ge fāng àn hǎo, hái shì nà ge fāng àn hǎo?",
+    "en": "Do you think this plan is better, or that one?"
+   },
+   {
+    "zh": "你随时可以来找我,今天或者明天都没问题。",
+    "pinyin": "Nǐ suí shí kě yǐ lái zhǎo wǒ, jīn tiān huò zhě míng tiān dōu méi wèn tí。",
+    "en": "You can come to me anytime; today or tomorrow is fine."
+   },
+   {
+    "zh": "你是想现在就走,还是再多待一会儿?",
+    "pinyin": "Nǐ shì xiǎng xiàn zài jiù zǒu, hái shì zài duō dài yī huì er?",
+    "en": "Do you want to leave now, or stay a while longer?"
+   },
+   {
+    "zh": "累的时候听听音乐或者出去散散步都能放松。",
+    "pinyin": "Lèi de shí hòu tīng tīng yīn yuè huò zhě chū qù sàn sàn bù dōu néng fàng sōng。",
+    "en": "When tired, listening to music or taking a walk both help you relax."
+   },
+   {
+    "zh": "这道题的答案是第一个还是第二个,你确定了吗?",
+    "pinyin": "Zhè dào tí de dá àn shì dì yí gè hái shì dì èr gè, nǐ què dìng le ma?",
+    "en": "Is the answer to this problem the first or the second? Are you sure?"
+   },
+   {
+    "zh": "周末你要么在家休息,或者跟我们一起出去玩。",
+    "pinyin": "Zhōu mò nǐ yào me zài jiā xiū xī, huò zhě gēn wǒ men yì qǐ chū qù wán。",
+    "en": "This weekend you can either rest at home or come out with us."
+   },
+   {
+    "zh": "你打算学英语还是学法语?两种语言都很有用。",
+    "pinyin": "Nǐ dǎ suàn xué yīng yǔ hái shì xué fǎ yǔ? liǎng zhǒng yǔ yán dōu hěn yǒu yòng。",
+    "en": "Do you plan to learn English or French? Both are useful."
+   },
+   {
+    "zh": "这些旧东西你可以送人或者卖掉,别一直堆着。",
+    "pinyin": "Zhè xiē jiù dōng xī nǐ kě yǐ sòng rén huò zhě mài diào, bié yì zhí duī zhe。",
+    "en": "You can give these old things away or sell them; don't keep piling them."
+   },
+   {
+    "zh": "咱们是先吃饭还是先看电影?时间上都来得及。",
+    "pinyin": "Zán men shì xiān chī fàn hái shì xiān kàn diàn yǐng? shí jiān shàng dōu lái de jí。",
+    "en": "Shall we eat first or watch the movie first? There's time for either."
+   },
+   {
+    "zh": "你有什么困难,可以找我或者找小李,我们都能帮你。",
+    "pinyin": "Nǐ yǒu shén me kùn nán, kě yǐ zhǎo wǒ huò zhě zhǎo xiǎo lǐ, wǒ men dōu néng bāng nǐ。",
+    "en": "For any difficulty, find me or Xiao Li; we can both help."
+   },
+   {
+    "zh": "你是要热的还是要凉的?我给你倒一杯。",
+    "pinyin": "Nǐ shì yào rè de hái shì yào liáng de? wǒ gěi nǐ dào yī bēi。",
+    "en": "Do you want it hot or cold? I'll pour you a cup."
+   },
+   {
+    "zh": "这几天你有空的话,今天或者明天来我家坐坐。",
+    "pinyin": "Zhè jǐ tiān nǐ yǒu kòng de huà, jīn tiān huò zhě míng tiān lái wǒ jiā zuò zuò。",
+    "en": "If you're free these days, come over today or tomorrow."
+   },
+   {
+    "zh": "我们是走这条路还是那条路?哪条更近一些?",
+    "pinyin": "Wǒ men shì zǒu zhè tiáo lù hái shì nà tiáo lù? nǎ tiáo gèng jìn yī xiē?",
+    "en": "Shall we take this road or that one? Which is closer?"
+   },
+   {
+    "zh": "你可以用现金或者手机支付,两种方式都可以。",
+    "pinyin": "Nǐ kě yǐ yòng xiàn jīn huò zhě shǒu jī zhī fù, liǎng zhǒng fāng shì dōu kě yǐ。",
+    "en": "You can pay by cash or phone; both ways work."
+   },
+   {
+    "zh": "你决定好了没有,是留下来还是跟我们一起走?",
+    "pinyin": "Nǐ jué dìng hǎo le méi yǒu, shì liú xià lái hái shì gēn wǒ men yì qǐ zǒu?",
+    "en": "Have you decided — stay here or come with us?"
+   }
+  ]
+ },
+ {
+  "id": "g279",
+  "level": 3,
+  "title": "\"人家\" ile \"别人\" farkı",
+  "titleEn": "Comparing \"renjia\" and \"bieren\"",
+  "pattern": "人家 (belirli/duygusal) / 别人 (genel \"başkaları\")",
+  "summary": "\"别人\" tarafsız \"başkaları, diğerleri\" demektir; \"人家\" ise çoğu zaman belirli bir kişiyi/grubu ya da (samimi/sitemli) \"ben\"i gösterir.",
+  "explanation": "\"别人\" ve \"人家\" ikisi de \"başkaları\" anlamına gelebilir ama kullanımları farklıdır. \"别人\": TARAFSIZ, genel \"başka insanlar, diğerleri, el âlem\": 别人的事你少管 (Başkalarının işine az karış), 这是别人的东西 (Bu, başkasının eşyası). \"人家\": üç kullanımı var — (1) BELİRLİ bir kişi/grup, bağlamdan bilinen \"o(nlar), o kişi\": 人家已经等你半天了 (O, seni yarım saattir bekliyor); (2) \"başkaları\" (别人 gibi ama daha samimi/duygusal): 你看人家多努力 (Bak başkaları ne kadar çalışkan); (3) KENDİNİ üçüncü şahıs gibi anmak — çoğu zaman nazlanma/sitem tonuyla \"ben (canım)\": 人家还等着你呢 (Ben seni bekliyorum ya!). \"人家\" duygusal renk, yakınlık ya da sitem taşır; \"别人\" nötrdür. Türkçedeki tarafsız \"başkaları\" (别人) ile bağlama göre \"o kişi / el âlem / ben (nazlı)\" (人家) ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "别人的意见你可以听听,但最后还得自己拿主意。",
+    "pinyin": "Bié rén de yì jiàn nǐ kě yǐ tīng tīng, dàn zuì hòu hái de zì jǐ ná zhǔ yì。",
+    "en": "You can hear others' opinions, but in the end you must decide yourself."
+   },
+   {
+    "zh": "你看人家小王,工作又努力,对人又客气。",
+    "pinyin": "Nǐ kàn rén jiā xiǎo wáng, gōng zuò yòu nǔ lì, duì rén yòu kè qì。",
+    "en": "Look at Xiao Wang: hardworking and polite to everyone."
+   },
+   {
+    "zh": "这是别人的东西,没经过同意不能随便动。",
+    "pinyin": "Zhè shì bié rén de dōng xī, méi jīng guò tóng yì bù néng suí biàn dòng。",
+    "en": "This is someone else's; don't touch it without permission."
+   },
+   {
+    "zh": "人家好心帮你,你怎么连一句谢谢都不说?",
+    "pinyin": "Rén jiā hǎo xīn bāng nǐ, nǐ zěn me lián yī jù xiè xiè dōu bù shuō?",
+    "en": "They kindly helped you; how can you not even say thanks?"
+   },
+   {
+    "zh": "做事要有自己的想法,不能总是跟着别人跑。",
+    "pinyin": "Zuò shì yào yǒu zì jǐ de xiǎng fǎ, bù néng zǒng shì gēn zhe bié rén pǎo。",
+    "en": "Have your own ideas; don't always follow others."
+   },
+   {
+    "zh": "你快点儿吧,人家都等你半天了,别让人家着急。",
+    "pinyin": "Nǐ kuài diǎn ér ba, rén jiā dōu děng nǐ bàn tiān le, bié ràng rén jiā zháo jí。",
+    "en": "Hurry up; they've been waiting for you ages, don't keep them anxious."
+   },
+   {
+    "zh": "别人能做到的事,只要努力,你也一定能做到。",
+    "pinyin": "Bié rén néng zuò dào de shì, zhǐ yào nǔ lì, nǐ yě yí dìng néng zuò dào。",
+    "en": "What others can do, with effort you can do too."
+   },
+   {
+    "zh": "你别老拿自己跟别人比,每个人都有自己的节奏。",
+    "pinyin": "Nǐ bié lǎo ná zì jǐ gēn bié rén bǐ, měi gè rén dōu yǒu zì jǐ de jié zòu。",
+    "en": "Stop comparing yourself to others; everyone has their own pace."
+   },
+   {
+    "zh": "人家辛辛苦苦做了一桌菜,你多少也得尝几口。",
+    "pinyin": "Rén jiā xīn xīn kǔ kǔ zuò le yī zhuō cài, nǐ duō shǎo yě de cháng jǐ kǒu。",
+    "en": "They painstakingly cooked a whole table; do try at least a few bites."
+   },
+   {
+    "zh": "背后议论别人可不是什么好习惯,你以后别这样了。",
+    "pinyin": "Bèi hòu yì lùn bié rén kě bú shì shén me hǎo xí guàn, nǐ yǐ hòu bié zhè yàng le。",
+    "en": "Gossiping about others isn't a good habit; don't do it anymore."
+   },
+   {
+    "zh": "你看人家孩子多懂事,再看看你,真让人操心。",
+    "pinyin": "Nǐ kàn rén jiā hái zi duō dǒng shì, zài kàn kàn nǐ, zhēn ràng rén cāo xīn。",
+    "en": "Look how sensible their child is; then look at you — so worrying."
+   },
+   {
+    "zh": "别人怎么看我并不重要,重要的是我自己问心无愧。",
+    "pinyin": "Bié rén zěn me kàn wǒ bìng bú zhòng yào, zhòng yào de shì wǒ zì jǐ wèn xīn wú kuì。",
+    "en": "How others see me doesn't matter; what matters is my clear conscience."
+   },
+   {
+    "zh": "人家一片好意请你吃饭,你怎么好意思拒绝呢?",
+    "pinyin": "Rén jiā yī piàn hǎo yì qǐng nǐ chī fàn, nǐ zěn me hǎo yì si jù jué ne?",
+    "en": "They kindly invited you to dinner; how can you refuse?"
+   },
+   {
+    "zh": "你自己的事情自己做,别总是麻烦别人。",
+    "pinyin": "Nǐ zì jǐ de shì qíng zì jǐ zuò, bié zǒng shì má fán bié rén。",
+    "en": "Do your own things; don't always trouble others."
+   },
+   {
+    "zh": "人家远道而来看你,你却连门都不开,太不像话了。",
+    "pinyin": "Rén jiā yuǎn dào ér lái kàn nǐ, nǐ què lián mén dōu bù kāi, tài bù xiàng huà le。",
+    "en": "They came all this way to see you, yet you won't even open the door."
+   },
+   {
+    "zh": "每个人的情况不一样,别人的经验不一定适合你。",
+    "pinyin": "Měi gè rén de qíng kuàng bù yí yàng, bié rén de jīng yàn bù yí dìng shì hé nǐ。",
+    "en": "Everyone's situation differs; others' experience may not suit you."
+   },
+   {
+    "zh": "你别欺负人家小,人家可比你懂事多了。",
+    "pinyin": "Nǐ bié qī fù rén jiā xiǎo, rén jiā kě bǐ nǐ dǒng shì duō le。",
+    "en": "Don't bully them for being small; they're far more sensible than you."
+   },
+   {
+    "zh": "这种私人的问题,别问别人,不太礼貌。",
+    "pinyin": "Zhè zhǒng sī rén de wèn tí, bié wèn bié rén, bù tài lǐ mào。",
+    "en": "Don't ask others such personal questions; it's not polite."
+   },
+   {
+    "zh": "人家忙了一整天,回到家你就别再使唤人家了。",
+    "pinyin": "Rén jiā máng le yī zhěng tiān, huí dào jiā nǐ jiù bié zài shǐ huàn rén jiā le。",
+    "en": "They were busy all day; don't order them around at home."
+   },
+   {
+    "zh": "别人给你提意见,是为你好,你别不高兴。",
+    "pinyin": "Bié rén gěi nǐ tí yì jiàn, shì wèi nǐ hǎo, nǐ bié bù gāo xìng。",
+    "en": "When others give you advice, it's for your good; don't be upset."
+   },
+   {
+    "zh": "你看人家两口子,几十年了还这么恩爱。",
+    "pinyin": "Nǐ kàn rén jiā liǎng kǒu zi, jǐ shí nián le hái zhè me ēn ài。",
+    "en": "Look at that couple: still so loving after decades."
+   },
+   {
+    "zh": "这么晚了打扰别人休息可不好,咱们改天再去吧。",
+    "pinyin": "Zhè me wǎn le dǎ rǎo bié rén xiū xī kě bù hǎo, zán men gǎi tiān zài qù ba。",
+    "en": "Disturbing others' rest this late isn't nice; let's go another day."
+   },
+   {
+    "zh": "人家好不容易帮你解决了难题,你可得记着这份情。",
+    "pinyin": "Rén jiā hǎo bù róng yì bāng nǐ jiě jué le nán tí, nǐ kě de jì zhe zhè fèn qíng。",
+    "en": "They went to great lengths to solve your problem; remember their kindness."
+   },
+   {
+    "zh": "别人的生活方式,我们应该尊重,不该指手画脚。",
+    "pinyin": "Bié rén de shēng huó fāng shì, wǒ men yīng gāi zūn zhòng, bù gāi zhǐ shǒu huà jiǎo。",
+    "en": "We should respect others' lifestyles, not criticize them."
+   },
+   {
+    "zh": "你怎么把人家的秘密说出去了?这样很伤感情的。",
+    "pinyin": "Nǐ zěn me bǎ rén jiā de mì mì shuō chū qù le? zhè yàng hěn shāng gǎn qíng de。",
+    "en": "How could you reveal their secret? That really hurts the friendship."
+   }
+  ]
  }
 ]

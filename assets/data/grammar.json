@@ -40390,5 +40390,685 @@
     "en": "In caring for the patient, he even fell ill from exhaustion."
    }
   ]
+ },
+ {
+  "id": "g298",
+  "level": 4,
+  "title": "\"尽管\" ile \"çekinmeden / her ne kadar\"",
+  "titleEn": "Expressing \"feel free\" with \"jinguan\"",
+  "pattern": "尽管 + Fiil / 尽管 ...，还是 ...",
+  "summary": "\"尽管\" (jǐnguǎn) iki anlam taşır: \"çekinmeden, gönül rahatlığıyla ...\" (尽管说) ve \"her ne kadar ... yine de ...\" (尽管...还是...).",
+  "explanation": "\"尽管\" iki farklı işlev taşır: (1) BİR FİİLİN ÖNÜNDE zarf olarak \"çekinmeden, gönül rahatlığıyla, hiç sakınmadan\" der ve bir ricayı/izni cömertçe sunar: 有什么问题尽管问 (Ne sorun varsa çekinmeden sor), 需要帮忙尽管说 (Yardım lazımsa gönül rahatlığıyla söyle). (2) BAĞLAÇ olarak \"her ne kadar, ...-e rağmen\" — çoğu zaman \"尽管...还是/但是...\" biçiminde bir taviz-zıtlık kurar: 尽管天气很冷,他还是坚持晨跑 (Hava çok soğuk olsa da yine de sabah koşusunu sürdürdü). İkinci anlamda \"虽然\"e benzer ama \"尽管\" biraz daha güçlü/resmî bir taviz bildirir. Hangi anlamda olduğunu yapı belirler: tek başına fiil önünde = \"çekinmeden\"; ikinci bir zıt cümleyle = \"her ne kadar\". Türkçedeki \"çekinmeden, gönül rahatlığıyla\" (izin) ve \"her ne kadar ... yine de ..., ...-e rağmen\" (taviz) ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "有什么需要帮忙的,你尽管开口,别客气。",
+    "pinyin": "Yǒu shén me xū yào bāng máng de, nǐ jǐn guǎn kāi kǒu, bié kè qì。",
+    "en": "If you need any help, feel free to ask; don't be shy."
+   },
+   {
+    "zh": "这些书你尽管拿去看,看完了再还给我就行。",
+    "pinyin": "Zhè xiē shū nǐ jǐn guǎn ná qù kàn, kàn wán le zài huán gěi wǒ jiù xíng。",
+    "en": "Feel free to take these books to read; return them when done."
+   },
+   {
+    "zh": "尽管外面下着大雨,他还是准时赶到了会场。",
+    "pinyin": "Jǐn guǎn wài miàn xià zhe dà yǔ, tā hái shì zhǔn shí gǎn dào le huì chǎng。",
+    "en": "Although it was pouring outside, he still arrived at the venue on time."
+   },
+   {
+    "zh": "你有什么想法尽管说,我们一起讨论讨论。",
+    "pinyin": "Nǐ yǒu shén me xiǎng fǎ jǐn guǎn shuō, wǒ men yì qǐ tǎo lùn tǎo lùn。",
+    "en": "Share whatever ideas you have; let's discuss them together."
+   },
+   {
+    "zh": "尽管大家都劝他休息,他还是坚持把工作做完。",
+    "pinyin": "Jǐn guǎn dà jiā dōu quàn tā xiū xī, tā hái shì jiān chí bǎ gōng zuò zuò wán。",
+    "en": "Although everyone urged him to rest, he insisted on finishing the work."
+   },
+   {
+    "zh": "菜还有很多,你们尽管吃,别不好意思。",
+    "pinyin": "Cài hái yǒu hěn duō, nǐ men jǐn guǎn chī, bié bù hǎo yì sī。",
+    "en": "There's plenty of food; help yourselves, don't be shy."
+   },
+   {
+    "zh": "尽管困难重重,他们还是没有放弃最初的梦想。",
+    "pinyin": "Jǐn guǎn kùn nán chóng chóng, tā men hái shì méi yǒu fàng qì zuì chū de mèng xiǎng。",
+    "en": "Despite many difficulties, they never gave up their original dream."
+   },
+   {
+    "zh": "如果觉得价钱不合适,你尽管还价,别客气。",
+    "pinyin": "Rú guǒ jué de jià qián bù hé shì, nǐ jǐn guǎn huán jià, bié kè qì。",
+    "en": "If you feel the price is off, feel free to bargain."
+   },
+   {
+    "zh": "尽管年纪大了,爷爷还是每天坚持读书看报。",
+    "pinyin": "Jǐn guǎn nián jì dà le, yé yé hái shì měi tiān jiān chí dú shū kàn bào。",
+    "en": "Although he's old, grandpa still reads books and papers every day."
+   },
+   {
+    "zh": "这里的东西你尽管用,就当在自己家一样。",
+    "pinyin": "Zhè lǐ de dōng xī nǐ jǐn guǎn yòng, jiù dāng zài zì jǐ jiā yī yàng。",
+    "en": "Feel free to use anything here; treat it like your own home."
+   },
+   {
+    "zh": "尽管这条路又远又难走,我们还是坚持走了下去。",
+    "pinyin": "Jǐn guǎn zhè tiáo lù yòu yuǎn yòu nán zǒu, wǒ men hái shì jiān chí zǒu le xià qù。",
+    "en": "Although this road was far and rough, we persisted."
+   },
+   {
+    "zh": "有意见你尽管提,我们一定认真考虑。",
+    "pinyin": "Yǒu yì jiàn nǐ jǐn guǎn tí, wǒ men yí dìng rèn zhēn kǎo lǜ。",
+    "en": "Feel free to raise objections; we'll seriously consider them."
+   },
+   {
+    "zh": "尽管他解释了很多遍,大家还是有些不太理解。",
+    "pinyin": "Jǐn guǎn tā jiě shì le hěn duō biàn, dà jiā hái shì yǒu xiē bù tài lǐ jiě。",
+    "en": "Although he explained many times, people still didn't quite understand."
+   },
+   {
+    "zh": "你尽管放心去忙,家里的事有我照应着。",
+    "pinyin": "Nǐ jǐn guǎn fàng xīn qù máng, jiā lǐ de shì yǒu wǒ zhào yìng zhe。",
+    "en": "Go handle your business with a free mind; I'll look after home."
+   },
+   {
+    "zh": "尽管收入不高,他还是坚持每月资助山区的孩子。",
+    "pinyin": "Jǐn guǎn shōu rù bù gāo, tā hái shì jiān chí měi yuè zī zhù shān qū de hái zi。",
+    "en": "Although his income is low, he still supports mountain children monthly."
+   },
+   {
+    "zh": "有什么困难尽管来找我,我一定尽力帮你。",
+    "pinyin": "Yǒu shén me kùn nán jǐn guǎn lái zhǎo wǒ, wǒ yí dìng jìn lì bāng nǐ。",
+    "en": "Come to me with any difficulty; I'll do my best to help."
+   },
+   {
+    "zh": "尽管大家都不看好,他还是坚持了自己的选择。",
+    "pinyin": "Jǐn guǎn dà jiā dōu bù kàn hǎo, tā hái shì jiān chí le zì jǐ de xuǎn zé。",
+    "en": "Although no one was optimistic, he stuck to his choice."
+   },
+   {
+    "zh": "这里的水果新鲜又便宜,你们尽管挑。",
+    "pinyin": "Zhè lǐ de shuǐ guǒ xīn xiān yòu pián yi, nǐ men jǐn guǎn tiāo。",
+    "en": "The fruit here is fresh and cheap; pick as you please."
+   },
+   {
+    "zh": "尽管已经很晚了,他还是把今天的任务全部完成了。",
+    "pinyin": "Jǐn guǎn yǐ jīng hěn wǎn le, tā hái shì bǎ jīn tiān de rèn wù quán bù wán chéng le。",
+    "en": "Although it was very late, he still finished all of today's tasks."
+   },
+   {
+    "zh": "你尽管试,做坏了也没关系,重要的是敢于尝试。",
+    "pinyin": "Nǐ jǐn guǎn shì, zuò huài le yě méi guān xì, zhòng yào de shì gǎn yú cháng shì。",
+    "en": "Feel free to try; it's fine if it fails, what matters is daring to try."
+   },
+   {
+    "zh": "尽管身体不太舒服,她还是坚持给学生上完了课。",
+    "pinyin": "Jǐn guǎn shēn tǐ bù tài shū fú, tā hái shì jiān chí gěi xué shēng shàng wán le kè。",
+    "en": "Although unwell, she insisted on finishing the class for her students."
+   },
+   {
+    "zh": "有什么不懂的地方,你尽管问,我很乐意解答。",
+    "pinyin": "Yǒu shén me bù dǒng de dì fāng, nǐ jǐn guǎn wèn, wǒ hěn lè yì jiě dá。",
+    "en": "Feel free to ask anything you don't understand; I'm glad to explain."
+   },
+   {
+    "zh": "尽管遭遇了不少挫折,他对未来还是充满信心。",
+    "pinyin": "Jǐn guǎn zāo yù le bù shǎo cuò zhé, tā duì wèi lái hái shì chōng mǎn xìn xīn。",
+    "en": "Despite many setbacks, he remains full of confidence in the future."
+   },
+   {
+    "zh": "这些工具你尽管用,用完放回原处就行。",
+    "pinyin": "Zhè xiē gōng jù nǐ jǐn guǎn yòng, yòng wán fàng huí yuán chù jiù xíng。",
+    "en": "Feel free to use these tools; just put them back when done."
+   },
+   {
+    "zh": "尽管前路充满未知,他们还是勇敢地出发了。",
+    "pinyin": "Jǐn guǎn qián lù chōng mǎn wèi zhī, tā men hái shì yǒng gǎn de chū fā le。",
+    "en": "Although the road ahead was uncertain, they set off bravely."
+   }
+  ]
+ },
+ {
+  "id": "g299",
+  "level": 4,
+  "title": "\"不得不\" ile \"...-mek zorunda kalmak\"",
+  "titleEn": "Expressing \"have to\" with \"budebu\"",
+  "pattern": "Özne + 不得不 + Fiil",
+  "summary": "\"不得不\" (bùdébù) çaresizce bir şeyi yapmak zorunda kalmayı bildirir: 我不得不承认自己错了 = Hatalı olduğumu kabul etmek zorunda kaldım.",
+  "explanation": "\"不得不\" ikili olumsuzluk (不 + 得不) yoluyla güçlü bir MECBURİYET bildirir: \"...-mek zorunda kalmak, mecburen ...-mek, istemeye istemeye ...-mek\". Fiilin önünde gelir: 天太晚了,我不得不打车回家 (Çok geç oldu, taksiye binmek zorunda kaldım), 为了照顾生病的母亲,她不得不辞去工作 (Hasta annesine bakmak için işten ayrılmak zorunda kaldı). Dış koşulların dayattığı, gönülsüzce yapılan bir eylemi anlatır; \"只好\" ile yakındır ama \"不得不\" ikili olumsuzluğun kattığı güçlü bir kaçınılmazlık/zorunluluk vurgusu taşır. \"得\" (děi, gereklilik) yapısının daha vurgulu, \"başka çare yok\" biçimidir. Türkçedeki \"...-mek zorunda kalmak, mecburen, istemeye istemeye, ...-maktan başka çare olmamak\" ifadelerine denk gelir; kaçınılmaz bir mecburiyeti anlatmanın güçlü bir yoludur.",
+  "examples": [
+   {
+    "zh": "由于突然停电,今天的活动不得不临时取消。",
+    "pinyin": "Yóu yú tū rán tíng diàn, jīn tiān de huó dòng bù de bù lín shí qǔ xiāo。",
+    "en": "Due to a sudden power cut, today's event had to be canceled."
+   },
+   {
+    "zh": "为了照顾生病的父亲,他不得不推迟了出国的计划。",
+    "pinyin": "Wèi le zhào gù shēng bìng de fù qīn, tā bù de bù tuī chí le chū guó de jì huà。",
+    "en": "To care for his sick father, he had to postpone his plan to go abroad."
+   },
+   {
+    "zh": "看到大家都这么坚持,我也不得不改变了原来的看法。",
+    "pinyin": "Kàn dào dà jiā dōu zhè me jiān chí, wǒ yě bù de bù gǎi biàn le yuán lái de kàn fǎ。",
+    "en": "Seeing everyone so insistent, I had to change my original view."
+   },
+   {
+    "zh": "外面的雨越下越大,我们不得不在屋檐下躲了很久。",
+    "pinyin": "Wài miàn de yǔ yuè xià yuè dà, wǒ men bù de bù zài wū yán xià duǒ le hěn jiǔ。",
+    "en": "The rain grew heavier, so we had to shelter under the eaves for long."
+   },
+   {
+    "zh": "面对这么多确凿的证据,他不得不承认了错误。",
+    "pinyin": "Miàn duì zhè me duō què záo de zhèng jù, tā bù de bù chéng rèn le cuò wù。",
+    "en": "Faced with so much solid evidence, he had to admit his mistake."
+   },
+   {
+    "zh": "因为航班延误,他们不得不在机场过了一夜。",
+    "pinyin": "Yīn wèi háng bān yán wù, tā men bù de bù zài jī chǎng guò le yī yè。",
+    "en": "Because of the flight delay, they had to spend the night at the airport."
+   },
+   {
+    "zh": "由于资金不足,这个项目不得不暂时搁置。",
+    "pinyin": "Yóu yú zī jīn bù zú, zhè ge xiàng mù bù de bù zàn shí gē zhì。",
+    "en": "Due to insufficient funds, the project had to be shelved for now."
+   },
+   {
+    "zh": "孩子哭闹得太厉害,妈妈不得不放下手里的活儿去哄他。",
+    "pinyin": "Hái zi kū nào de tài lì hài, mā mā bù de bù fàng xià shǒu lǐ de huó er qù hǒng tā。",
+    "en": "The child cried so hard that mom had to put down her work to soothe him."
+   },
+   {
+    "zh": "时间实在来不及了,我们不得不放弃最后一个景点。",
+    "pinyin": "Shí jiān shí zài lái bù jí le, wǒ men bù de bù fàng qì zuì hòu yí gè jǐng diǎn。",
+    "en": "There really wasn't time, so we had to skip the last attraction."
+   },
+   {
+    "zh": "他说的话很有道理,我不得不佩服他的眼光。",
+    "pinyin": "Tā shuō de huà hěn yǒu dào lǐ, wǒ bù de bù pèi fú tā de yǎn guāng。",
+    "en": "What he said made sense; I had to admire his insight."
+   },
+   {
+    "zh": "因为下大雪,原定的比赛不得不推迟到下周。",
+    "pinyin": "Yīn wèi xià dà xuě, yuán dìng de bǐ sài bù de bù tuī chí dào xià zhōu。",
+    "en": "Because of heavy snow, the scheduled match had to be postponed to next week."
+   },
+   {
+    "zh": "公司经营困难,老板不得不裁掉了一部分员工。",
+    "pinyin": "Gōng sī jīng yíng kùn nán, lǎo bǎn bù de bù cái diào le yī bù fèn yuán gōng。",
+    "en": "The company struggled, so the boss had to lay off some staff."
+   },
+   {
+    "zh": "为了赶上末班车,我们不得不加快了脚步。",
+    "pinyin": "Wèi le gǎn shàng mò bān chē, wǒ men bù de bù jiā kuài le jiǎo bù。",
+    "en": "To catch the last bus, we had to quicken our pace."
+   },
+   {
+    "zh": "面对现实的压力,他不得不放弃了自己的爱好。",
+    "pinyin": "Miàn duì xiàn shí de yā lì, tā bù de bù fàng qì le zì jǐ de ài hào。",
+    "en": "Facing real pressure, he had to give up his hobby."
+   },
+   {
+    "zh": "既然大家意见不一致,我们不得不重新讨论方案。",
+    "pinyin": "Jì rán dà jiā yì jiàn bù yī zhì, wǒ men bù de bù chóng xīn tǎo lùn fāng àn。",
+    "en": "Since opinions differed, we had to discuss the plan again."
+   },
+   {
+    "zh": "因为身体的原因,这位老运动员不得不退役了。",
+    "pinyin": "Yīn wèi shēn tǐ de yuán yīn, zhè wèi lǎo yùn dòng yuán bù de bù tuì yì le。",
+    "en": "For health reasons, this veteran athlete had to retire."
+   },
+   {
+    "zh": "眼看天就要黑了,我们不得不结束了这次登山。",
+    "pinyin": "Yǎn kàn tiān jiù yào hēi le, wǒ men bù de bù jié shù le zhè cì dēng shān。",
+    "en": "As it was getting dark, we had to end the climb."
+   },
+   {
+    "zh": "由于原材料涨价,产品的价格不得不做出调整。",
+    "pinyin": "Yóu yú yuán cái liào zhǎng jià, chǎn pǐn de jià gé bù de bù zuò chū tiáo zhěng。",
+    "en": "Due to rising material costs, the product price had to be adjusted."
+   },
+   {
+    "zh": "他生病住院,不得不请了一个多月的长假。",
+    "pinyin": "Tā shēng bìng zhù yuàn, bù de bù qǐng le yí gè duō yuè de cháng jià。",
+    "en": "He was hospitalized and had to take over a month of leave."
+   },
+   {
+    "zh": "为了不让家人担心,他不得不隐瞒了真实的病情。",
+    "pinyin": "Wèi le bù ràng jiā rén dān xīn, tā bù de bù yǐn mán le zhēn shí de bìng qíng。",
+    "en": "So his family wouldn't worry, he had to hide his true condition."
+   },
+   {
+    "zh": "那条路正在施工,我们不得不绕道而行。",
+    "pinyin": "Nà tiáo lù zhèng zài shī gōng, wǒ men bù de bù rào dào ér xíng。",
+    "en": "That road was under construction, so we had to take a detour."
+   },
+   {
+    "zh": "由于对方一再拖延,这笔生意不得不告吹。",
+    "pinyin": "Yóu yú duì fāng yī zài tuō yán, zhè bǐ shēng yì bù de bù gào chuī。",
+    "en": "Due to the other side's repeated delays, the deal had to fall through."
+   },
+   {
+    "zh": "孩子到了上学的年龄,他们不得不搬到城里去住。",
+    "pinyin": "Hái zi dào le shàng xué de nián líng, tā men bù de bù bān dào chéng lǐ qù zhù。",
+    "en": "The child reached school age, so they had to move to the city."
+   },
+   {
+    "zh": "面对众人的期待,他不得不硬着头皮上台发言。",
+    "pinyin": "Miàn duì zhòng rén de qī dài, tā bù de bù yìng zhe tóu pí shàng tái fā yán。",
+    "en": "Facing everyone's expectations, he had to steel himself and speak on stage."
+   },
+   {
+    "zh": "因为经费有限,这次研究不得不缩小了规模。",
+    "pinyin": "Yīn wèi jīng fèi yǒu xiàn, zhè cì yán jiū bù de bù suō xiǎo le guī mó。",
+    "en": "Due to limited funds, this research had to be scaled down."
+   }
+  ]
+ },
+ {
+  "id": "g300",
+  "level": 4,
+  "title": "\"到底\" ile \"ne oldu, sonunda, bir türlü\"",
+  "titleEn": "Expressing \"in the end\" with \"daodi\"",
+  "pattern": "到底 + ...",
+  "summary": "\"到底\" (dàodǐ) sorularda sabırsız \"ne oldu, hangisi, kim ki\" vurgusu; düz cümlede \"sonunda, nihayet\" ya da \"ne de olsa\" anlamı taşır.",
+  "explanation": "\"到底\" birkaç işlev taşır: (1) SORULARDA sabırsızlık/ısrar — \"bir türlü, ne oldu, hangisi ki, kim ki\": 你到底去不去? (Gidiyor musun gitmiyor musun, karar ver!), 这到底是怎么回事? (Bu da ne demek oluyor?). ÖNEMLİ: \"到底\"li soru \"吗\" ALMAZ (zaten pekiştirilmiş bir sorudur); olumlu-olumsuz (去不去) ya da soru sözcüğü ile gelir. (2) DÜZ cümlede \"sonunda, nihayet\" (bir sürecin sonucu): 经过努力,他到底还是成功了 (Çabaların ardından sonunda başardı). (3) \"ne de olsa, sonuçta\" (毕竟'e yakın): 他到底是长辈,你要尊重他 (Ne de olsa büyüğün, ona saygı göstermelisin). Kelime kelime \"dibe kadar\" demektir; ısrarla bir sonuca/gerçeğe ulaşma fikrini taşır. Türkçedeki \"bir türlü, ne oldu, sonunda, nihayet, ne de olsa\" karşılıklarına bağlama göre denk gelir; sabırsız soru ve nihai sonuç anlatmanın yoludur.",
+  "examples": [
+   {
+    "zh": "你到底想不想去,给个准话,别一直犹豫。",
+    "pinyin": "Nǐ dào dǐ xiǎng bù xiǎng qù, gěi gè zhǔn huà, bié yì zhí yóu yù。",
+    "en": "Do you want to go or not? Give a firm answer, stop hesitating."
+   },
+   {
+    "zh": "这件事到底是谁做的,你必须跟我说清楚。",
+    "pinyin": "Zhè jiàn shì dào dǐ shì shuí zuò de, nǐ bì xū gēn wǒ shuō qīng chǔ。",
+    "en": "Who exactly did this? You must tell me clearly."
+   },
+   {
+    "zh": "经过一年的努力,他到底还是考上了理想的大学。",
+    "pinyin": "Jīng guò yī nián de nǔ lì, tā dào dǐ hái shì kǎo shàng le lǐ xiǎng de dà xué。",
+    "en": "After a year of effort, he finally got into his dream university."
+   },
+   {
+    "zh": "你到底在担心什么?有什么话就直接说出来。",
+    "pinyin": "Nǐ dào dǐ zài dān xīn shén me? yǒu shén me huà jiù zhí jiē shuō chū lái。",
+    "en": "What on earth are you worried about? Just say it directly."
+   },
+   {
+    "zh": "他到底是过来人,几句话就说到了问题的关键。",
+    "pinyin": "Tā dào dǐ shì guò lái rén, jǐ jù huà jiù shuō dào le wèn tí de guān jiàn。",
+    "en": "He's been through it, after all; a few words hit the heart of the matter."
+   },
+   {
+    "zh": "我们讨论了半天,到底也没得出一个结论。",
+    "pinyin": "Wǒ men tǎo lùn le bàn tiān, dào dǐ yě méi dé chū yí gè jié lùn。",
+    "en": "We discussed for a long while but reached no conclusion in the end."
+   },
+   {
+    "zh": "这道题到底应该怎么解,你能给我讲讲吗?",
+    "pinyin": "Zhè dào tí dào dǐ yīng gāi zěn me jiě, nǐ néng gěi wǒ jiǎng jiǎng ma?",
+    "en": "How exactly should this problem be solved? Can you explain?"
+   },
+   {
+    "zh": "折腾了这么久,事情到底还是解决了,大家都松了口气。",
+    "pinyin": "Zhē teng le zhè me jiǔ, shì qíng dào dǐ hái shì jiě jué le, dà jiā dōu sōng le kǒu qì。",
+    "en": "After all the fuss, the matter was finally solved, to everyone's relief."
+   },
+   {
+    "zh": "你到底站在哪一边?总得有个明确的态度吧。",
+    "pinyin": "Nǐ dào dǐ zhàn zài nǎ yī biān? zǒng de yǒu gè míng què de tài dù ba。",
+    "en": "Whose side are you on, really? You must have a clear stance."
+   },
+   {
+    "zh": "他到底是有经验,处理起这种事来得心应手。",
+    "pinyin": "Tā dào dǐ shì yǒu jīng yàn, chǔ lǐ qǐ zhè zhǒng shì lái de xīn yìng shǒu。",
+    "en": "He's experienced, after all; he handles such things with ease."
+   },
+   {
+    "zh": "这么晚了他到底去哪儿了?怎么还不回来?",
+    "pinyin": "Zhè me wǎn le tā dào dǐ qù nǎ ér le? zěn me hái bù huí lái?",
+    "en": "Where on earth did he go this late? Why isn't he back?"
+   },
+   {
+    "zh": "经过反复修改,这篇文章到底让他满意了。",
+    "pinyin": "Jīng guò fǎn fù xiū gǎi, zhè piān wén zhāng dào dǐ ràng tā mǎn yì le。",
+    "en": "After repeated revisions, he was finally satisfied with the article."
+   },
+   {
+    "zh": "你到底听懂了没有?听懂了就点点头。",
+    "pinyin": "Nǐ dào dǐ tīng dǒng le méi yǒu? tīng dǒng le jiù diǎn diǎn tóu。",
+    "en": "Did you actually understand? Nod if you did."
+   },
+   {
+    "zh": "孩子到底还小,做错了事你别太严厉。",
+    "pinyin": "Hái zi dào dǐ hái xiǎo, zuò cuò liǎo shì nǐ bié tài yán lì。",
+    "en": "The child is young, after all; don't be too harsh when he errs."
+   },
+   {
+    "zh": "这场比赛到底谁赢谁输,现在还很难说。",
+    "pinyin": "Zhè chǎng bǐ sài dào dǐ shuí yíng shuí shū, xiàn zài hái hěn nán shuō。",
+    "en": "Who will win or lose this match is still hard to say."
+   },
+   {
+    "zh": "他到底为什么突然辞职,谁也不清楚。",
+    "pinyin": "Tā dào dǐ wèi shén me tū rán cí zhí, shuí yě bù qīng chǔ。",
+    "en": "Why exactly he suddenly resigned, no one is clear about."
+   },
+   {
+    "zh": "坚持了这么多年,他到底实现了自己的梦想。",
+    "pinyin": "Jiān chí le zhè me duō nián, tā dào dǐ shí xiàn le zì jǐ de mèng xiǎng。",
+    "en": "Having persevered for years, he finally realized his dream."
+   },
+   {
+    "zh": "你到底要买哪一件?店都快关门了。",
+    "pinyin": "Nǐ dào dǐ yào mǎi nǎ yī jiàn? diàn dōu kuài guān mén le。",
+    "en": "Which one are you actually buying? The shop's about to close."
+   },
+   {
+    "zh": "他到底年轻,恢复得很快,没几天就活蹦乱跳了。",
+    "pinyin": "Tā dào dǐ nián qīng, huī fù de hěn kuài, méi jǐ tiān jiù huó bèng luàn tiào le。",
+    "en": "He's young, after all; he recovered fast and was lively in days."
+   },
+   {
+    "zh": "这件事到底该不该告诉他,我一直拿不定主意。",
+    "pinyin": "Zhè jiàn shì dào dǐ gāi bù gāi gào sù tā, wǒ yì zhí ná bù dìng zhǔ yì。",
+    "en": "Whether to tell him this, I really can't decide."
+   },
+   {
+    "zh": "经历了那么多波折,他们到底走到了一起。",
+    "pinyin": "Jīng lì le nà me duō bō zhé, tā men dào dǐ zǒu dào le yì qǐ。",
+    "en": "After so many twists, they finally came together."
+   },
+   {
+    "zh": "你到底有没有把我的话放在心上?",
+    "pinyin": "Nǐ dào dǐ yǒu méi yǒu bǎ wǒ de huà fàng zài xīn shàng?",
+    "en": "Have you actually taken my words to heart?"
+   },
+   {
+    "zh": "这个谜团到底还是被他解开了。",
+    "pinyin": "Zhè ge mí tuán dào dǐ hái shì bèi tā jiě kāi le。",
+    "en": "This mystery was finally unraveled by him."
+   },
+   {
+    "zh": "大家吵来吵去,到底也没弄明白问题出在哪儿。",
+    "pinyin": "Dà jiā chǎo lái chǎo qù, dào dǐ yě méi nòng míng bái wèn tí chū zài nǎ ér。",
+    "en": "Everyone argued, but in the end no one figured out where the problem was."
+   },
+   {
+    "zh": "他到底是自己的亲人,再生气也不能不管。",
+    "pinyin": "Tā dào dǐ shì zì jǐ de qīn rén, zài shēng qì yě bù néng bù guǎn。",
+    "en": "He's your own family, after all; however angry, you can't ignore him."
+   }
+  ]
+ },
+ {
+  "id": "g301",
+  "level": 4,
+  "title": "\"究竟\" ile \"aslında, tam olarak\"",
+  "titleEn": "Expressing \"in the end\" with \"jiujing\"",
+  "pattern": "究竟 + Soru",
+  "summary": "\"究竟\" (jiūjìng) bir sorudaki merakı/araştırmayı pekiştirir: 这究竟是怎么回事? = Bu tam olarak ne demek oluyor?",
+  "explanation": "\"究竟\" bir soruyu pekiştirip gerçeği DERİNLEMESİNE öğrenme merakını/ısrarını bildirir: \"tam olarak, aslında, esasen, bir bakalım ne\". \"到底\"nin soru kullanımıyla çok yakındır ama \"究竟\" biraz daha RESMÎ/ciddi bir araştırma tonu taşır: 这件事究竟是谁的责任? (Bu işin sorumluluğu tam olarak kimde?), 我想弄清楚事情究竟是怎么发生的 (Olayın tam olarak nasıl olduğunu anlamak istiyorum). Genelde soru sözcükleriyle (谁, 什么, 怎么, 为什么, 哪个) ya da olumlu-olumsuz sorularla gelir ve \"吗\" ALMAZ. Ayrıca dolaylı sorularda (弄清楚...究竟...) gerçeği araştırma anlamı taşır. İsim olarak \"özü, aslı\" anlamına da gelir (问个究竟 = aslını sormak). Türkçedeki \"tam olarak, aslında, esasen, gerçekte, bir bakalım ne\" ifadelerine denk gelir; bir gerçeği kararlılıkla araştırmanın, resmî/ciddi bir merakla sormanın yoludur.",
+  "examples": [
+   {
+    "zh": "这件事的真相究竟是什么,我们必须调查清楚。",
+    "pinyin": "Zhè jiàn shì de zhēn xiàng jiū jìng shì shén me, wǒ men bì xū diào chá qīng chǔ。",
+    "en": "What exactly is the truth of this matter? We must investigate it."
+   },
+   {
+    "zh": "你究竟为什么要这样做?能给我一个解释吗?",
+    "pinyin": "Nǐ jiū jìng wèi shén me yào zhè yàng zuò? néng gěi wǒ yí gè jiě shì ma?",
+    "en": "Why exactly did you do this? Can you give me an explanation?"
+   },
+   {
+    "zh": "我一直想不明白,他究竟是从哪里得到这个消息的。",
+    "pinyin": "Wǒ yì zhí xiǎng bù míng bái, tā jiū jìng shì cóng nǎ lǐ dé dào zhè ge xiāo xī de。",
+    "en": "I keep wondering exactly where he got this news."
+   },
+   {
+    "zh": "这个问题究竟有没有解决的办法,请专家给个意见。",
+    "pinyin": "Zhè ge wèn tí jiū jìng yǒu méi yǒu jiě jué de bàn fǎ, qǐng zhuān jiā gěi gè yì jiàn。",
+    "en": "Is there actually a solution to this? Please, an expert opinion."
+   },
+   {
+    "zh": "大家都想知道,这次实验究竟能不能成功。",
+    "pinyin": "Dà jiā dōu xiǎng zhī dào, zhè cì shí yàn jiū jìng néng bù néng chéng gōng。",
+    "en": "Everyone wants to know whether this experiment can actually succeed."
+   },
+   {
+    "zh": "你倒是说说,这件事究竟错在哪里。",
+    "pinyin": "Nǐ dǎo shì shuō shuō, zhè jiàn shì jiū jìng cuò zài nǎ lǐ。",
+    "en": "Do tell — exactly where did this go wrong?"
+   },
+   {
+    "zh": "我很好奇,他究竟是用什么方法在这么短时间里学会的。",
+    "pinyin": "Wǒ hěn hào qí, tā jiū jìng shì yòng shén me fāng fǎ zài zhè me duǎn shí jiān lǐ xué huì de。",
+    "en": "I'm curious exactly how he learned it in such a short time."
+   },
+   {
+    "zh": "这两个方案究竟哪个更合适,我们再仔细比较一下。",
+    "pinyin": "Zhè liǎng gè fāng àn jiū jìng nǎ ge gèng hé shì, wǒ men zài zǐ xì bǐ jiào yī xià。",
+    "en": "Which of these two plans is actually better? Let's compare carefully."
+   },
+   {
+    "zh": "面对大家的追问,他始终没说出事情的究竟。",
+    "pinyin": "Miàn duì dà jiā de zhuī wèn, tā shǐ zhōng méi shuō chū shì qíng de jiū jìng。",
+    "en": "Faced with everyone's questioning, he never revealed the whole truth."
+   },
+   {
+    "zh": "你能不能告诉我,这一切究竟是怎么开始的?",
+    "pinyin": "Nǐ néng bù néng gào sù wǒ, zhè yī qiè jiū jìng shì zěn me kāi shǐ de?",
+    "en": "Can you tell me exactly how all this began?"
+   },
+   {
+    "zh": "这笔钱究竟花到哪里去了,账目上一点儿也看不出来。",
+    "pinyin": "Zhè bǐ qián jiū jìng huā dào nǎ lǐ qù le, zhàng mù shàng yì diǎn ér yě kàn bù chū lái。",
+    "en": "Where exactly did this money go? The accounts show nothing."
+   },
+   {
+    "zh": "我实在想弄清楚,问题的根源究竟在哪里。",
+    "pinyin": "Wǒ shí zài xiǎng nòng qīng chǔ, wèn tí de gēn yuán jiū jìng zài nǎ lǐ。",
+    "en": "I really want to figure out exactly where the problem's root lies."
+   },
+   {
+    "zh": "这么多年了,那件事的真相究竟如何,至今仍是个谜。",
+    "pinyin": "Zhè me duō nián le, nà jiàn shì de zhēn xiàng jiū jìng rú hé, zhì jīn réng shì gè mí。",
+    "en": "After so many years, the truth of that matter remains a mystery."
+   },
+   {
+    "zh": "你究竟站在谁那一边,今天必须表明态度。",
+    "pinyin": "Nǐ jiū jìng zhàn zài shuí nà yī biān, jīn tiān bì xū biǎo míng tài dù。",
+    "en": "Whose side are you really on? Today you must make it clear."
+   },
+   {
+    "zh": "大家都在猜测,他究竟为什么会突然改变主意。",
+    "pinyin": "Dà jiā dōu zài cāi cè, tā jiū jìng wèi shén me huì tū rán gǎi biàn zhǔ yì。",
+    "en": "Everyone's guessing exactly why he suddenly changed his mind."
+   },
+   {
+    "zh": "这幅画究竟出自谁手,专家们至今争论不休。",
+    "pinyin": "Zhè fú huà jiū jìng chū zì shuí shǒu, zhuān jiā men zhì jīn zhēng lùn bù xiū。",
+    "en": "Whose hand this painting came from, experts still debate endlessly."
+   },
+   {
+    "zh": "我很想知道,这个决定究竟是经过深思熟虑的吗?",
+    "pinyin": "Wǒ hěn xiǎng zhī dào, zhè ge jué dìng jiū jìng shì jīng guò shēn sī shú lǜ de ma?",
+    "en": "I'd like to know whether this decision was really carefully thought out."
+   },
+   {
+    "zh": "面对记者,他终于说出了事情的究竟。",
+    "pinyin": "Miàn duì jì zhě, tā zhōng yú shuō chū liǎo shì qíng de jiū jìng。",
+    "en": "Facing the reporters, he finally told the whole truth."
+   },
+   {
+    "zh": "你究竟同意还是不同意,请给个明确的答复。",
+    "pinyin": "Nǐ jiū jìng tóng yì hái shì bù tóng yì, qǐng gěi gè míng què de dá fù。",
+    "en": "Do you actually agree or not? Please give a clear answer."
+   },
+   {
+    "zh": "这种药究竟有没有效果,还需要进一步的验证。",
+    "pinyin": "Zhè zhǒng yào jiū jìng yǒu méi yǒu xiào guǒ, hái xū yào jìn yí bù de yàn zhèng。",
+    "en": "Whether this medicine actually works needs further verification."
+   },
+   {
+    "zh": "孩子究竟适合学什么,还得看他自己的兴趣。",
+    "pinyin": "Hái zi jiū jìng shì hé xué shén me, hái de kàn tā zì jǐ de xìng qù。",
+    "en": "What the child is actually suited to learn depends on his own interest."
+   },
+   {
+    "zh": "我一定要问个究竟,搞清楚事情的来龙去脉。",
+    "pinyin": "Wǒ yí dìng yào wèn gè jiū jìng, gǎo qīng chǔ shì qíng de lái lóng qù mài。",
+    "en": "I must get to the bottom of it and understand the whole story."
+   },
+   {
+    "zh": "这么大的变化,究竟是什么原因造成的呢?",
+    "pinyin": "Zhè me dà de biàn huà, jiū jìng shì shén me yuán yīn zào chéng de ne?",
+    "en": "Such a big change — what exactly caused it?"
+   },
+   {
+    "zh": "他究竟有没有说过那句话,现在谁也说不准。",
+    "pinyin": "Tā jiū jìng yǒu méi yǒu shuō guò nà jù huà, xiàn zài shuí yě shuō bù zhǔn。",
+    "en": "Whether he actually said that, no one can be sure now."
+   },
+   {
+    "zh": "这件事的是非曲直,究竟该由谁来评判?",
+    "pinyin": "Zhè jiàn shì de shì fēi qū zhí, jiū jìng gāi yóu shuí lái píng pàn?",
+    "en": "Who exactly should judge the rights and wrongs of this matter?"
+   }
+  ]
+ },
+ {
+  "id": "g302",
+  "level": 4,
+  "title": "\"干脆\" ile \"düpedüz, direkt, en iyisi\"",
+  "titleEn": "Expressing \"just\" do it with \"gancui\"",
+  "pattern": "Özne + 干脆 + Fiil Öbeği",
+  "summary": "\"干脆\" (gāncuì) tereddüdü bırakıp kesin/direkt bir çözümü bildirir: 与其等着,不如干脆自己去 = Beklemektense en iyisi düpedüz kendin git.",
+  "explanation": "\"干脆\" tereddüdü, yarım tedbirleri bırakıp DOĞRUDAN, kesin bir yol seçmeyi bildirir: \"düpedüz, en iyisi, direkt, madem öyle bir çırpıda\". Bir zarf olarak bir çözüm/karar önerir: 这么麻烦,咱们干脆别去了 (Bu kadar zahmetliyse en iyisi hiç gitmeyelim), 与其修来修去,干脆买个新的 (Tamir edip durmaktansa düpedüz yenisini al). Genelde \"与其...干脆/不如...\" ya da bir zorluk belirtildikten sonra \"干脆 + kesin çözüm\" biçiminde gelir. Bir işi yarım yamalak yapmaktansa kökten, net bir biçimde halletme fikrini taşır; çoğu zaman bir sabırsızlık ya da kararlılık tonu vardır. Ayrıca sıfat olarak \"net, dobra, kararlı\" anlamına da gelir (他说话很干脆 = dobra konuşur). Türkçedeki \"düpedüz, en iyisi, direkt, madem öyle, bir çırpıda, keskin bir kararla\" ifadelerine denk gelir; kararsızlığı bırakıp kesin bir çözüme yönelmenin yoludur.",
+  "examples": [
+   {
+    "zh": "这么点儿路,与其等车,不如干脆走过去。",
+    "pinyin": "Zhè me diǎn er lù, yǔ qí děng chē, bù rú gān cuì zǒu guò qù。",
+    "en": "For such a short distance, rather than wait, just walk over."
+   },
+   {
+    "zh": "这台旧电脑老出毛病,干脆换台新的算了。",
+    "pinyin": "Zhè tái jiù diàn nǎo lǎo chū máo bìng, gān cuì huàn tái xīn de suàn le。",
+    "en": "This old computer keeps breaking; just replace it with a new one."
+   },
+   {
+    "zh": "大家都到得差不多了,干脆现在就开始吧。",
+    "pinyin": "Dà jiā dōu dào de chà bu duō le, gān cuì xiàn zài jiù kāi shǐ ba。",
+    "en": "Almost everyone's here; let's just start now."
+   },
+   {
+    "zh": "既然睡不着,干脆起来把没做完的事做完。",
+    "pinyin": "Jì rán shuì bù zhe, gān cuì qǐ lái bǎ méi zuò wán de shì zuò wán。",
+    "en": "Since I can't sleep, I might as well get up and finish the work."
+   },
+   {
+    "zh": "这件事解释起来太麻烦,我干脆写下来给你看。",
+    "pinyin": "Zhè jiàn shì jiě shì qǐ lái tài má fán, wǒ gān cuì xiě xià lái gěi nǐ kàn。",
+    "en": "It's too troublesome to explain, so I'll just write it down for you."
+   },
+   {
+    "zh": "与其这样纠结,不如干脆当面把话说清楚。",
+    "pinyin": "Yǔ qí zhè yàng jiū jié, bù rú gān cuì dāng miàn bǎ huà shuō qīng chǔ。",
+    "en": "Rather than agonize like this, just clear it up face to face."
+   },
+   {
+    "zh": "反正今天也做不完了,干脆明天再一口气做完。",
+    "pinyin": "Fǎn zhèng jīn tiān yě zuò bù wán le, gān cuì míng tiān zài yì kǒu qì zuò wán。",
+    "en": "It can't be finished today anyway; just do it all tomorrow."
+   },
+   {
+    "zh": "他做事很干脆,从不拖泥带水,让人放心。",
+    "pinyin": "Tā zuò shì hěn gān cuì, cóng bù tuō ní dài shuǐ, ràng rén fàng xīn。",
+    "en": "He acts decisively, never dragging his feet; it's reassuring."
+   },
+   {
+    "zh": "这几样东西都想要,干脆一起买了,省得再跑一趟。",
+    "pinyin": "Zhè jǐ yàng dōng xī dōu xiǎng yào, gān cuì yì qǐ mǎi le, shěng de zài pǎo yī tàng。",
+    "en": "You want all these, so just buy them together to save a trip."
+   },
+   {
+    "zh": "既然大家都不方便,干脆把聚会改到周末吧。",
+    "pinyin": "Jì rán dà jiā dōu bù fāng biàn, gān cuì bǎ jù huì gǎi dào zhōu mò ba。",
+    "en": "Since it's inconvenient for all, let's just move the gathering to the weekend."
+   },
+   {
+    "zh": "这条路太堵了,咱们干脆绕另一条路走。",
+    "pinyin": "Zhè tiáo lù tài dǔ le, zán men gān cuì rào lìng yī tiáo lù zǒu。",
+    "en": "This road is too jammed; let's just take another route."
+   },
+   {
+    "zh": "与其零零散散地学,不如干脆报个班系统地学。",
+    "pinyin": "Yǔ qí líng líng sǎn sǎn de xué, bù rú gān cuì bào gè bān xì tǒng de xué。",
+    "en": "Rather than learn piecemeal, just enroll in a class to learn systematically."
+   },
+   {
+    "zh": "他答应得很干脆,一点儿都没犹豫。",
+    "pinyin": "Tā dā yìng de hěn gān cuì, yì diǎn ér dōu méi yóu yù。",
+    "en": "He agreed straightforwardly, without any hesitation."
+   },
+   {
+    "zh": "既然你这么喜欢,干脆送给你好了。",
+    "pinyin": "Jì rán nǐ zhè me xǐ huān, gān cuì sòng gěi nǐ hǎo le。",
+    "en": "Since you like it so much, I'll just give it to you."
+   },
+   {
+    "zh": "这些旧衣服留着也没用,干脆都捐出去吧。",
+    "pinyin": "Zhè xiē jiù yī fú liú zhe yě méi yòng, gān cuì dōu juān chū qù ba。",
+    "en": "These old clothes are useless kept; just donate them all."
+   },
+   {
+    "zh": "与其在这儿瞎猜,干脆直接打电话问一下。",
+    "pinyin": "Yǔ qí zài zhè ér xiā cāi, gān cuì zhí jiē dǎ diàn huà wèn yī xià。",
+    "en": "Rather than guess here, just call and ask directly."
+   },
+   {
+    "zh": "既然误了这班车,干脆在附近吃点东西再等下一班。",
+    "pinyin": "Jì rán wù le zhè bān chē, gān cuì zài fù jìn chī diǎn dōng xī zài děng xià yī bān。",
+    "en": "Since we missed this bus, let's just eat nearby and wait for the next."
+   },
+   {
+    "zh": "这个问题争来争去也没结果,干脆投票决定。",
+    "pinyin": "Zhè ge wèn tí zhēng lái zhēng qù yě méi jié guǒ, gān cuì tóu piào jué dìng。",
+    "en": "Arguing gets us nowhere; let's just decide by voting."
+   },
+   {
+    "zh": "他说话干脆利落,从不绕弯子。",
+    "pinyin": "Tā shuō huà gān cuì lì luò, cóng bù rào wān zi。",
+    "en": "He speaks crisply and never beats around the bush."
+   },
+   {
+    "zh": "反正闲着也是闲着,干脆把房间彻底打扫一遍。",
+    "pinyin": "Fǎn zhèng xián zhe yě shì xián zhe, gān cuì bǎ fáng jiān chè dǐ dǎ sǎo yī biàn。",
+    "en": "Since we're idle anyway, let's just give the room a thorough clean."
+   },
+   {
+    "zh": "与其修修补补,干脆把整面墙重新刷一遍。",
+    "pinyin": "Yǔ qí xiū xiū bǔ bǔ, gān cuì bǎ zhěng miàn qiáng chóng xīn shuā yī biàn。",
+    "en": "Rather than patch it up, just repaint the whole wall."
+   },
+   {
+    "zh": "既然你们都想去,那我干脆也跟着一起去吧。",
+    "pinyin": "Jì rán nǐ men dōu xiǎng qù, nà wǒ gān cuì yě gēn zhe yì qǐ qù ba。",
+    "en": "Since you all want to go, I'll just tag along too."
+   },
+   {
+    "zh": "这道题太费时间,干脆先跳过去,做后面的。",
+    "pinyin": "Zhè dào tí tài fèi shí jiān, gān cuì xiān tiào guò qù, zuò hòu miàn de。",
+    "en": "This problem takes too long; just skip it and do the later ones."
+   },
+   {
+    "zh": "他见劝不动我,干脆不再说什么了。",
+    "pinyin": "Tā jiàn quàn bù dòng wǒ, gān cuì bù zài shuō shén me le。",
+    "en": "Seeing he couldn't persuade me, he just stopped saying anything."
+   },
+   {
+    "zh": "既然已经来了,干脆多待几天,好好玩玩再走。",
+    "pinyin": "Jì rán yǐ jīng lái le, gān cuì duō dài jǐ tiān, hǎo hǎo wán wán zài zǒu。",
+    "en": "Since we've come, let's just stay a few more days and enjoy it before leaving."
+   }
+  ]
  }
 ]

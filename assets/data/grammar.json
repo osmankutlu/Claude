@@ -1630,5 +1630,821 @@
     "en": "It's already ten, why aren't you up yet?"
    }
   ]
+ },
+ {
+  "id": "g013",
+  "level": 1,
+  "title": "\"的\" olmadan yakınlık iyeliği",
+  "titleEn": "Expressing close possession without \"de\"",
+  "pattern": "Zamir + İsim",
+  "summary": "Aile üyeleri ve çok yakın ilişkilerde iyelik \"的\" olmadan söylenebilir: 我妈妈 (annem), 你朋友 (arkadaşın).",
+  "explanation": "İyelik normalde \"的\" (de) ile kurulur (我的书 = benim kitabım), ama söz konusu ilişki çok yakınsa — aile üyeleri, yakın arkadaşlar, ait olunan kurum — \"的\" genellikle atılır: 我妈妈, 他哥哥, 我们学校, 你们公司. Bu daha doğal ve samimi durur. \"的\" eklemek yanlış olmaz ama gereksiz kalır.",
+  "examples": [
+   {
+    "zh": "我妈妈做的菜特别好吃。",
+    "pinyin": "Wǒ māma zuò de cài tèbié hǎochī.",
+    "en": "The food my mom makes is especially delicious."
+   },
+   {
+    "zh": "你哥哥今年多大了？",
+    "pinyin": "Nǐ gēge jīnnián duō dà le?",
+    "en": "How old is your older brother this year?"
+   },
+   {
+    "zh": "他爸爸是一位有名的医生。",
+    "pinyin": "Tā bàba shì yí wèi yǒumíng de yīshēng.",
+    "en": "His father is a famous doctor."
+   },
+   {
+    "zh": "我们学校离这里不太远。",
+    "pinyin": "Wǒmen xuéxiào lí zhèlǐ bú tài yuǎn.",
+    "en": "Our school isn't too far from here."
+   },
+   {
+    "zh": "她奶奶今年八十多岁了。",
+    "pinyin": "Tā nǎinai jīnnián bāshí duō suì le.",
+    "en": "Her grandmother is over eighty this year."
+   },
+   {
+    "zh": "你们公司有多少员工？",
+    "pinyin": "Nǐmen gōngsī yǒu duōshao yuángōng?",
+    "en": "How many employees does your company have?"
+   },
+   {
+    "zh": "我弟弟特别喜欢踢足球。",
+    "pinyin": "Wǒ dìdi tèbié xǐhuan tī zúqiú.",
+    "en": "My younger brother especially loves playing soccer."
+   },
+   {
+    "zh": "他女朋友是个很温柔的人。",
+    "pinyin": "Tā nǚpéngyou shì ge hěn wēnróu de rén.",
+    "en": "His girlfriend is a very gentle person."
+   },
+   {
+    "zh": "我们家有一只很可爱的猫。",
+    "pinyin": "Wǒmen jiā yǒu yì zhī hěn kě'ài de māo.",
+    "en": "Our family has a very cute cat."
+   },
+   {
+    "zh": "你妹妹长得跟你很像。",
+    "pinyin": "Nǐ mèimei zhǎng de gēn nǐ hěn xiàng.",
+    "en": "Your little sister looks a lot like you."
+   },
+   {
+    "zh": "我爷爷年轻的时候当过老师。",
+    "pinyin": "Wǒ yéye niánqīng de shíhou dāngguò lǎoshī.",
+    "en": "My grandfather was a teacher when he was young."
+   },
+   {
+    "zh": "他儿子明年就要上大学了。",
+    "pinyin": "Tā érzi míngnián jiù yào shàng dàxué le.",
+    "en": "His son is going to university next year."
+   },
+   {
+    "zh": "我们老师对每个学生都很好。",
+    "pinyin": "Wǒmen lǎoshī duì měi ge xuésheng dōu hěn hǎo.",
+    "en": "Our teacher is nice to every student."
+   },
+   {
+    "zh": "你太太做的蛋糕真好看。",
+    "pinyin": "Nǐ tàitai zuò de dàngāo zhēn hǎokàn.",
+    "en": "The cake your wife made looks really nice."
+   },
+   {
+    "zh": "我姐姐在国外工作已经五年了。",
+    "pinyin": "Wǒ jiějie zài guówài gōngzuò yǐjīng wǔ nián le.",
+    "en": "My older sister has been working abroad for five years."
+   },
+   {
+    "zh": "他们家的房子在山上,风景很美。",
+    "pinyin": "Tāmen jiā de fángzi zài shān shàng, fēngjǐng hěn měi.",
+    "en": "Their house is on the mountain, with beautiful scenery."
+   },
+   {
+    "zh": "我朋友昨天从北京来看我。",
+    "pinyin": "Wǒ péngyou zuótiān cóng Běijīng lái kàn wǒ.",
+    "en": "My friend came from Beijing to visit me yesterday."
+   },
+   {
+    "zh": "你父母知道这件事吗？",
+    "pinyin": "Nǐ fùmǔ zhīdào zhè jiàn shì ma?",
+    "en": "Do your parents know about this?"
+   },
+   {
+    "zh": "我们班长是个很负责任的人。",
+    "pinyin": "Wǒmen bānzhǎng shì ge hěn fùzérèn de rén.",
+    "en": "Our class monitor is a very responsible person."
+   },
+   {
+    "zh": "他叔叔在这个城市开了一家饭馆。",
+    "pinyin": "Tā shūshu zài zhège chéngshì kāi le yì jiā fànguǎn.",
+    "en": "His uncle opened a restaurant in this city."
+   },
+   {
+    "zh": "我妈妈总是担心我吃不好。",
+    "pinyin": "Wǒ māma zǒngshì dānxīn wǒ chī bu hǎo.",
+    "en": "My mom always worries that I'm not eating well."
+   },
+   {
+    "zh": "你同学里有会说中文的吗？",
+    "pinyin": "Nǐ tóngxué lǐ yǒu huì shuō Zhōngwén de ma?",
+    "en": "Are there any Chinese speakers among your classmates?"
+   },
+   {
+    "zh": "我们邻居是一对很热情的老夫妻。",
+    "pinyin": "Wǒmen línjū shì yí duì hěn rèqíng de lǎo fūqī.",
+    "en": "Our neighbors are a very warm old couple."
+   },
+   {
+    "zh": "他孩子还小,需要人照顾。",
+    "pinyin": "Tā háizi hái xiǎo, xūyào rén zhàogù.",
+    "en": "His child is still young and needs care."
+   },
+   {
+    "zh": "我家离地铁站走路只要五分钟。",
+    "pinyin": "Wǒ jiā lí dìtiě zhàn zǒulù zhǐ yào wǔ fēnzhōng.",
+    "en": "My home is only a five-minute walk from the subway station."
+   }
+  ]
+ },
+ {
+  "id": "g014",
+  "level": 1,
+  "title": "\"的\" ile iyelik",
+  "titleEn": "Expressing possession with \"de\"",
+  "pattern": "İsim 1 + 的 + İsim 2",
+  "summary": "\"的\" (de) iki isim arasına girerek iyelik/aitlik kurar: 我的书 = benim kitabım, 老师的车 = öğretmenin arabası.",
+  "explanation": "\"的\", Türkçe'deki \"-in/-nin\" iyelik ekine karşılık gelir ve sahibi ile sahip olunan şeyin arasına konur: A + 的 + B = A'nın B'si. Bağlam açıksa ikinci isim düşebilir: 这是我的 (bu benim). Ayrıca sıfat/öbek + 的 + isim kalıbıyla isimleri niteler (ayrı konu). Yakın ilişkilerde \"的\" atılabilir (bkz. önceki konu).",
+  "examples": [
+   {
+    "zh": "这是我的书,那是他的。",
+    "pinyin": "Zhè shì wǒ de shū, nà shì tā de.",
+    "en": "This is my book, that one is his."
+   },
+   {
+    "zh": "老师的车停在楼下。",
+    "pinyin": "Lǎoshī de chē tíng zài lóuxià.",
+    "en": "The teacher's car is parked downstairs."
+   },
+   {
+    "zh": "这个手机是谁的？",
+    "pinyin": "Zhège shǒujī shì shéi de?",
+    "en": "Whose phone is this?"
+   },
+   {
+    "zh": "我忘了带今天的作业。",
+    "pinyin": "Wǒ wàng le dài jīntiān de zuòyè.",
+    "en": "I forgot to bring today's homework."
+   },
+   {
+    "zh": "孩子的笑声让整个房间都变亮了。",
+    "pinyin": "Háizi de xiàoshēng ràng zhěnggè fángjiān dōu biàn liàng le.",
+    "en": "The child's laughter brightened the whole room."
+   },
+   {
+    "zh": "这是我一生中最重要的决定。",
+    "pinyin": "Zhè shì wǒ yìshēng zhōng zuì zhòngyào de juédìng.",
+    "en": "This is the most important decision of my life."
+   },
+   {
+    "zh": "你的想法和我的完全一样。",
+    "pinyin": "Nǐ de xiǎngfǎ hé wǒ de wánquán yíyàng.",
+    "en": "Your idea is exactly the same as mine."
+   },
+   {
+    "zh": "这本书的作者是一位年轻人。",
+    "pinyin": "Zhè běn shū de zuòzhě shì yí wèi niánqīngrén.",
+    "en": "The author of this book is a young person."
+   },
+   {
+    "zh": "公司的规定不允许我们迟到。",
+    "pinyin": "Gōngsī de guīdìng bù yǔnxǔ wǒmen chídào.",
+    "en": "The company's rules don't allow us to be late."
+   },
+   {
+    "zh": "这件事的结果让所有人都很意外。",
+    "pinyin": "Zhè jiàn shì de jiéguǒ ràng suǒyǒu rén dōu hěn yìwài.",
+    "en": "The result of this matter surprised everyone."
+   },
+   {
+    "zh": "我最喜欢春天的天气。",
+    "pinyin": "Wǒ zuì xǐhuan chūntiān de tiānqì.",
+    "en": "I like spring weather the most."
+   },
+   {
+    "zh": "他把别人的东西当成了自己的。",
+    "pinyin": "Tā bǎ biérén de dōngxi dàngchéng le zìjǐ de.",
+    "en": "He mistook someone else's things for his own."
+   },
+   {
+    "zh": "这座城市的夜景非常漂亮。",
+    "pinyin": "Zhè zuò chéngshì de yèjǐng fēicháng piàoliang.",
+    "en": "This city's night view is very beautiful."
+   },
+   {
+    "zh": "我很欣赏她的勇气和努力。",
+    "pinyin": "Wǒ hěn xīnshǎng tā de yǒngqì hé nǔlì.",
+    "en": "I really admire her courage and hard work."
+   },
+   {
+    "zh": "这道菜的味道让我想起了家。",
+    "pinyin": "Zhè dào cài de wèidào ràng wǒ xiǎngqǐ le jiā.",
+    "en": "The taste of this dish reminded me of home."
+   },
+   {
+    "zh": "每个人的生活方式都不一样。",
+    "pinyin": "Měi ge rén de shēnghuó fāngshì dōu bù yíyàng.",
+    "en": "Everyone's lifestyle is different."
+   },
+   {
+    "zh": "这是去年拍的照片。",
+    "pinyin": "Zhè shì qùnián pāi de zhàopiàn.",
+    "en": "This is a photo taken last year."
+   },
+   {
+    "zh": "他的成功不是偶然的。",
+    "pinyin": "Tā de chénggōng bú shì ǒurán de.",
+    "en": "His success is not accidental."
+   },
+   {
+    "zh": "我们要尊重别人的选择。",
+    "pinyin": "Wǒmen yào zūnzhòng biérén de xuǎnzé.",
+    "en": "We should respect other people's choices."
+   },
+   {
+    "zh": "这份工作的压力有点大。",
+    "pinyin": "Zhè fèn gōngzuò de yālì yǒudiǎn dà.",
+    "en": "The pressure of this job is a bit heavy."
+   },
+   {
+    "zh": "父母的爱是世界上最无私的。",
+    "pinyin": "Fùmǔ de ài shì shìjiè shàng zuì wúsī de.",
+    "en": "A parent's love is the most selfless in the world."
+   },
+   {
+    "zh": "我看不懂他写的字。",
+    "pinyin": "Wǒ kàn bu dǒng tā xiě de zì.",
+    "en": "I can't read the characters he wrote."
+   },
+   {
+    "zh": "这个问题的答案其实很简单。",
+    "pinyin": "Zhège wèntí de dá'àn qíshí hěn jiǎndān.",
+    "en": "The answer to this question is actually quite simple."
+   },
+   {
+    "zh": "她的房间总是收拾得很干净。",
+    "pinyin": "Tā de fángjiān zǒngshì shōushi de hěn gānjìng.",
+    "en": "Her room is always kept very clean."
+   },
+   {
+    "zh": "今天的会议改到明天下午了。",
+    "pinyin": "Jīntiān de huìyì gǎidào míngtiān xiàwǔ le.",
+    "en": "Today's meeting has been moved to tomorrow afternoon."
+   }
+  ]
+ },
+ {
+  "id": "g015",
+  "level": 1,
+  "title": "\"呢\" ile soru sorma",
+  "titleEn": "Questions with \"ne\"",
+  "pattern": "İsim + 呢 ?",
+  "summary": "\"呢\" (ne) cümle sonuna gelerek \"peki ya...?\" anlamında kısa geri-soru yapar veya bir şeyin nerede olduğunu sorar.",
+  "explanation": "\"呢\" iki temel işlev görür: (1) Aynı soruyu başkasına yöneltmek: \"我很好,你呢?\" (Ben iyiyim, ya sen?). Bu durumda tüm soruyu tekrar etmeye gerek kalmaz. (2) Bir şeyin/kişinin nerede olduğunu sormak: \"我的钥匙呢?\" (Anahtarım nerede?). \"呢\" ayrıca süregelen bir duruma yumuşak vurgu da katar.",
+  "examples": [
+   {
+    "zh": "我很好,你呢？",
+    "pinyin": "Wǒ hěn hǎo, nǐ ne?",
+    "en": "I'm doing well, and you?"
+   },
+   {
+    "zh": "我的手机呢？刚才还在这里。",
+    "pinyin": "Wǒ de shǒujī ne? Gāngcái hái zài zhèlǐ.",
+    "en": "Where's my phone? It was just here."
+   },
+   {
+    "zh": "我喜欢喝茶,你呢？",
+    "pinyin": "Wǒ xǐhuan hē chá, nǐ ne?",
+    "en": "I like drinking tea, how about you?"
+   },
+   {
+    "zh": "孩子们都睡了,你爸爸呢？",
+    "pinyin": "Háizimen dōu shuì le, nǐ bàba ne?",
+    "en": "The children are all asleep, where's your dad?"
+   },
+   {
+    "zh": "这个周末我要加班,你们呢？",
+    "pinyin": "Zhège zhōumò wǒ yào jiābān, nǐmen ne?",
+    "en": "I have to work overtime this weekend, what about you all?"
+   },
+   {
+    "zh": "我的那本书呢？我记得放在桌子上了。",
+    "pinyin": "Wǒ de nà běn shū ne? Wǒ jìde fàng zài zhuōzi shàng le.",
+    "en": "Where's that book of mine? I remember putting it on the table."
+   },
+   {
+    "zh": "你要咖啡,那她呢？",
+    "pinyin": "Nǐ yào kāfēi, nà tā ne?",
+    "en": "You want coffee, so what about her?"
+   },
+   {
+    "zh": "大家都到了,张老师呢？",
+    "pinyin": "Dàjiā dōu dào le, Zhāng lǎoshī ne?",
+    "en": "Everyone's here, where's Teacher Zhang?"
+   },
+   {
+    "zh": "如果他不同意呢？我们怎么办？",
+    "pinyin": "Rúguǒ tā bù tóngyì ne? Wǒmen zěnme bàn?",
+    "en": "What if he doesn't agree? What do we do?"
+   },
+   {
+    "zh": "我选了红色的,你觉得蓝色的呢？",
+    "pinyin": "Wǒ xuǎn le hóngsè de, nǐ juéde lánsè de ne?",
+    "en": "I chose the red one; what do you think of the blue one?"
+   },
+   {
+    "zh": "钱不是问题,可是时间呢？",
+    "pinyin": "Qián bú shì wèntí, kěshì shíjiān ne?",
+    "en": "Money isn't the problem, but what about time?"
+   },
+   {
+    "zh": "你的雨伞呢？外面下大雨了。",
+    "pinyin": "Nǐ de yǔsǎn ne? Wàimiàn xià dàyǔ le.",
+    "en": "Where's your umbrella? It's pouring outside."
+   },
+   {
+    "zh": "我已经准备好了,你呢,准备好了吗？",
+    "pinyin": "Wǒ yǐjīng zhǔnbèi hǎo le, nǐ ne, zhǔnbèi hǎo le ma?",
+    "en": "I'm ready, and you, are you ready?"
+   },
+   {
+    "zh": "这个办法不行,那个办法呢？",
+    "pinyin": "Zhège bànfǎ bùxíng, nàge bànfǎ ne?",
+    "en": "This method won't work; what about that one?"
+   },
+   {
+    "zh": "我点了面条,你呢,想吃什么？",
+    "pinyin": "Wǒ diǎn le miàntiáo, nǐ ne, xiǎng chī shénme?",
+    "en": "I ordered noodles, and you, what do you want to eat?"
+   },
+   {
+    "zh": "猫呢？怎么一整天都没看见它？",
+    "pinyin": "Māo ne? Zěnme yìzhěng tiān dōu méi kànjiàn tā?",
+    "en": "Where's the cat? I haven't seen it all day."
+   },
+   {
+    "zh": "你们都去旅行,那我呢？",
+    "pinyin": "Nǐmen dōu qù lǚxíng, nà wǒ ne?",
+    "en": "You're all going traveling, so what about me?"
+   },
+   {
+    "zh": "我记得带钥匙了,可是现在钥匙呢？",
+    "pinyin": "Wǒ jìde dài yàoshi le, kěshì xiànzài yàoshi ne?",
+    "en": "I remember bringing the keys, but where are they now?"
+   },
+   {
+    "zh": "这件事你怎么看呢？",
+    "pinyin": "Zhè jiàn shì nǐ zěnme kàn ne?",
+    "en": "What's your take on this matter?"
+   },
+   {
+    "zh": "要是明天下雨,我们的计划呢？",
+    "pinyin": "Yàoshi míngtiān xiàyǔ, wǒmen de jìhuà ne?",
+    "en": "If it rains tomorrow, what about our plan?"
+   },
+   {
+    "zh": "他们都有答案了,就差你呢。",
+    "pinyin": "Tāmen dōu yǒu dá'àn le, jiù chà nǐ ne.",
+    "en": "They all have an answer, only you are left."
+   },
+   {
+    "zh": "我选择留下来,你呢,打算怎么做？",
+    "pinyin": "Wǒ xuǎnzé liú xiàlái, nǐ ne, dǎsuàn zěnme zuò?",
+    "en": "I chose to stay; and you, what do you plan to do?"
+   },
+   {
+    "zh": "作业写完了,那你的房间呢,打扫了吗？",
+    "pinyin": "Zuòyè xiěwán le, nà nǐ de fángjiān ne, dǎsǎo le ma?",
+    "en": "You finished your homework, but what about your room, did you clean it?"
+   },
+   {
+    "zh": "我的位子呢？怎么有人坐在这里？",
+    "pinyin": "Wǒ de wèizi ne? Zěnme yǒu rén zuò zài zhèlǐ?",
+    "en": "Where's my seat? Why is someone sitting here?"
+   },
+   {
+    "zh": "我们都说了自己的想法,老师您呢？",
+    "pinyin": "Wǒmen dōu shuō le zìjǐ de xiǎngfǎ, lǎoshī nín ne?",
+    "en": "We've all shared our thoughts; and you, teacher?"
+   }
+  ]
+ },
+ {
+  "id": "g016",
+  "level": 1,
+  "title": "\"吧\" ile öneri yapma",
+  "titleEn": "Suggestions with \"ba\"",
+  "pattern": "Cümle + 吧",
+  "summary": "\"吧\" (ba) cümle sonuna gelerek öneri, rica veya yumuşak bir teklif katar: \"...yapalım / ...yap hadi\".",
+  "explanation": "\"吧\" cümlenin tonunu yumuşatan çok yaygın bir parçacıktır. Başlıca kullanımı öneri/teklif yapmaktır: \"我们走吧\" (Hadi gidelim). Ayrıca yumuşak bir emir (\"你休息吧\" - sen dinlen artık), bir tahmini onaylatma (\"你是老师吧?\" - sen öğretmensin, değil mi?), ve isteksiz kabul (\"好吧\" - peki o zaman) anlamları da katar. \"吧\"'sız emir sert, \"吧\"'lı emir nazik durur.",
+  "examples": [
+   {
+    "zh": "时间不早了,我们走吧。",
+    "pinyin": "Shíjiān bù zǎo le, wǒmen zǒu ba.",
+    "en": "It's getting late, let's go."
+   },
+   {
+    "zh": "你累了就先休息吧。",
+    "pinyin": "Nǐ lèi le jiù xiān xiūxi ba.",
+    "en": "If you're tired, go rest first."
+   },
+   {
+    "zh": "这件事我们明天再谈吧。",
+    "pinyin": "Zhè jiàn shì wǒmen míngtiān zài tán ba.",
+    "en": "Let's talk about this tomorrow."
+   },
+   {
+    "zh": "外面太冷了,你多穿点儿吧。",
+    "pinyin": "Wàimiàn tài lěng le, nǐ duō chuān diǎnr ba.",
+    "en": "It's too cold outside, put on more clothes."
+   },
+   {
+    "zh": "既然大家都同意,那就这样决定吧。",
+    "pinyin": "Jìrán dàjiā dōu tóngyì, nà jiù zhèyàng juédìng ba.",
+    "en": "Since everyone agrees, let's decide it this way."
+   },
+   {
+    "zh": "你是新来的同事吧？",
+    "pinyin": "Nǐ shì xīn lái de tóngshì ba?",
+    "en": "You're the new colleague, right?"
+   },
+   {
+    "zh": "我们点一些菜,然后慢慢聊吧。",
+    "pinyin": "Wǒmen diǎn yìxiē cài, ránhòu mànman liáo ba.",
+    "en": "Let's order some food and then chat slowly."
+   },
+   {
+    "zh": "别担心了,一切都会好起来的吧。",
+    "pinyin": "Bié dānxīn le, yíqiè dōu huì hǎo qǐlái de ba.",
+    "en": "Don't worry, everything will get better."
+   },
+   {
+    "zh": "这么晚了,你就住在我家吧。",
+    "pinyin": "Zhème wǎn le, nǐ jiù zhù zài wǒ jiā ba.",
+    "en": "It's so late, just stay at my place."
+   },
+   {
+    "zh": "既然你这么想去,那就去吧。",
+    "pinyin": "Jìrán nǐ zhème xiǎng qù, nà jiù qù ba.",
+    "en": "Since you want to go so much, then go."
+   },
+   {
+    "zh": "我们先吃饭,吃完再工作吧。",
+    "pinyin": "Wǒmen xiān chīfàn, chīwán zài gōngzuò ba.",
+    "en": "Let's eat first and work after we finish."
+   },
+   {
+    "zh": "这个问题太难了,还是问问老师吧。",
+    "pinyin": "Zhège wèntí tài nán le, háishì wènwen lǎoshī ba.",
+    "en": "This question is too hard, let's just ask the teacher."
+   },
+   {
+    "zh": "你一定很饿了吧,快去吃点东西。",
+    "pinyin": "Nǐ yídìng hěn è le ba, kuài qù chī diǎn dōngxi.",
+    "en": "You must be hungry, go eat something."
+   },
+   {
+    "zh": "天气这么好,我们出去走走吧。",
+    "pinyin": "Tiānqì zhème hǎo, wǒmen chūqù zǒuzou ba.",
+    "en": "The weather is so nice, let's go out for a walk."
+   },
+   {
+    "zh": "这件衣服挺适合你的,买了吧。",
+    "pinyin": "Zhè jiàn yīfu tǐng shìhé nǐ de, mǎi le ba.",
+    "en": "This outfit suits you well, just buy it."
+   },
+   {
+    "zh": "好吧,这次听你的。",
+    "pinyin": "Hǎo ba, zhè cì tīng nǐ de.",
+    "en": "Fine, I'll listen to you this time."
+   },
+   {
+    "zh": "我们分头去找吧,这样快一点。",
+    "pinyin": "Wǒmen fēntóu qù zhǎo ba, zhèyàng kuài yìdiǎn.",
+    "en": "Let's split up to look, it'll be faster."
+   },
+   {
+    "zh": "你先别生气,听我解释一下吧。",
+    "pinyin": "Nǐ xiān bié shēngqì, tīng wǒ jiěshì yíxià ba.",
+    "en": "Don't be angry yet, let me explain."
+   },
+   {
+    "zh": "既然已经来了,就好好玩吧。",
+    "pinyin": "Jìrán yǐjīng lái le, jiù hǎohǎo wán ba.",
+    "en": "Since we're already here, let's enjoy ourselves."
+   },
+   {
+    "zh": "这道题你自己再想想吧。",
+    "pinyin": "Zhè dào tí nǐ zìjǐ zài xiǎngxiang ba.",
+    "en": "Think about this question a bit more on your own."
+   },
+   {
+    "zh": "我们还是走路去吧,不太远。",
+    "pinyin": "Wǒmen háishì zǒulù qù ba, bú tài yuǎn.",
+    "en": "Let's just walk there, it's not too far."
+   },
+   {
+    "zh": "你今天脸色不好,是不是生病了吧？",
+    "pinyin": "Nǐ jīntiān liǎnsè bù hǎo, shì bu shì shēngbìng le ba?",
+    "en": "You don't look well today, are you sick?"
+   },
+   {
+    "zh": "这些旧衣服就送给需要的人吧。",
+    "pinyin": "Zhèxiē jiù yīfu jiù sòng gěi xūyào de rén ba.",
+    "en": "Let's give these old clothes to people who need them."
+   },
+   {
+    "zh": "事情已经这样了,我们往前看吧。",
+    "pinyin": "Shìqing yǐjīng zhèyàng le, wǒmen wǎng qián kàn ba.",
+    "en": "Things are already like this, let's look forward."
+   },
+   {
+    "zh": "你说得对,就按你说的做吧。",
+    "pinyin": "Nǐ shuō de duì, jiù àn nǐ shuō de zuò ba.",
+    "en": "You're right, let's do it your way."
+   }
+  ]
+ },
+ {
+  "id": "g017",
+  "level": 1,
+  "title": "\"在\" ile bir yerde bulunma",
+  "titleEn": "Expressing existence in a place with \"zai\"",
+  "pattern": "Özne + 在 + Yer",
+  "summary": "\"在\" (zài) fiili bir kişi/nesnenin bir yerde bulunduğunu belirtir: 老师在上海 = Öğretmen Şanghay'da.",
+  "explanation": "\"在\" bir varlığın nerede olduğunu söyleyen fiildir: Özne + 在 + yer = Özne, ...dadır. Olumsuzu \"不在\": 他不在家 (o evde değil). Dikkat: \"在\" ayrıca bir eylemin nerede yapıldığını belirtmek için fiilden önce edat olarak da kullanılır (我在家吃饭 - evde yemek yerim) ve süregelen eylemi göstermek için de kullanılır (ayrı konular). Yer sözcükleri genellikle \"上/里/旁边\" gibi konum sözcükleriyle netleşir.",
+  "examples": [
+   {
+    "zh": "老师现在在办公室。",
+    "pinyin": "Lǎoshī xiànzài zài bàngōngshì.",
+    "en": "The teacher is in the office now."
+   },
+   {
+    "zh": "你的手机在桌子上。",
+    "pinyin": "Nǐ de shǒujī zài zhuōzi shàng.",
+    "en": "Your phone is on the table."
+   },
+   {
+    "zh": "对不起,王经理现在不在。",
+    "pinyin": "Duìbuqǐ, Wáng jīnglǐ xiànzài bú zài.",
+    "en": "Sorry, Manager Wang is not in right now."
+   },
+   {
+    "zh": "孩子们都在楼下的花园里玩。",
+    "pinyin": "Háizimen dōu zài lóuxià de huāyuán lǐ wán.",
+    "en": "The children are all playing in the garden downstairs."
+   },
+   {
+    "zh": "我的钥匙好像在包里。",
+    "pinyin": "Wǒ de yàoshi hǎoxiàng zài bāo lǐ.",
+    "en": "My keys seem to be in the bag."
+   },
+   {
+    "zh": "他家在这座山的后面。",
+    "pinyin": "Tā jiā zài zhè zuò shān de hòumiàn.",
+    "en": "His home is behind this mountain."
+   },
+   {
+    "zh": "你要找的那本书在书架的最上面。",
+    "pinyin": "Nǐ yào zhǎo de nà běn shū zài shūjià de zuì shàngmiàn.",
+    "en": "The book you're looking for is at the top of the shelf."
+   },
+   {
+    "zh": "请问,洗手间在哪里？",
+    "pinyin": "Qǐngwèn, xǐshǒujiān zài nǎlǐ?",
+    "en": "Excuse me, where is the restroom?"
+   },
+   {
+    "zh": "我父母现在在国外旅行。",
+    "pinyin": "Wǒ fùmǔ xiànzài zài guówài lǚxíng.",
+    "en": "My parents are traveling abroad right now."
+   },
+   {
+    "zh": "猫又不在它自己的窝里了。",
+    "pinyin": "Māo yòu bú zài tā zìjǐ de wō lǐ le.",
+    "en": "The cat is again not in its own bed."
+   },
+   {
+    "zh": "你的座位在前面还是后面？",
+    "pinyin": "Nǐ de zuòwèi zài qiánmiàn háishì hòumiàn?",
+    "en": "Is your seat at the front or the back?"
+   },
+   {
+    "zh": "重要的文件都在这个抽屉里。",
+    "pinyin": "Zhòngyào de wénjiàn dōu zài zhège chōuti lǐ.",
+    "en": "The important documents are all in this drawer."
+   },
+   {
+    "zh": "他不在办公室,可能去开会了。",
+    "pinyin": "Tā bú zài bàngōngshì, kěnéng qù kāihuì le.",
+    "en": "He's not in the office, he might have gone to a meeting."
+   },
+   {
+    "zh": "我们约好在电影院门口见。",
+    "pinyin": "Wǒmen yuēhǎo zài diànyǐngyuàn ménkǒu jiàn.",
+    "en": "We agreed to meet at the cinema entrance."
+   },
+   {
+    "zh": "答案其实一直都在你心里。",
+    "pinyin": "Dá'àn qíshí yìzhí dōu zài nǐ xīnlǐ.",
+    "en": "The answer has always been in your heart."
+   },
+   {
+    "zh": "你要的资料在电脑里,我发给你。",
+    "pinyin": "Nǐ yào de zīliào zài diànnǎo lǐ, wǒ fā gěi nǐ.",
+    "en": "The materials you want are on the computer, I'll send them to you."
+   },
+   {
+    "zh": "车站就在那家银行的对面。",
+    "pinyin": "Chēzhàn jiù zài nà jiā yínháng de duìmiàn.",
+    "en": "The station is right across from that bank."
+   },
+   {
+    "zh": "这个时候他一般都在健身房。",
+    "pinyin": "Zhège shíhou tā yìbān dōu zài jiànshēnfáng.",
+    "en": "At this time he's usually at the gym."
+   },
+   {
+    "zh": "我的心一直在你身边。",
+    "pinyin": "Wǒ de xīn yìzhí zài nǐ shēnbiān.",
+    "en": "My heart has always been by your side."
+   },
+   {
+    "zh": "钱包不在口袋里,也不在包里。",
+    "pinyin": "Qiánbāo bú zài kǒudài lǐ, yě bú zài bāo lǐ.",
+    "en": "The wallet isn't in the pocket, nor in the bag."
+   },
+   {
+    "zh": "你找的人不在这里,他已经搬走了。",
+    "pinyin": "Nǐ zhǎo de rén bú zài zhèlǐ, tā yǐjīng bānzǒu le.",
+    "en": "The person you're looking for isn't here, he's moved away."
+   },
+   {
+    "zh": "孩子生病的时候,母亲总是在身边。",
+    "pinyin": "Háizi shēngbìng de shíhou, mǔqīn zǒngshì zài shēnbiān.",
+    "en": "When a child is ill, the mother is always by their side."
+   },
+   {
+    "zh": "我们的希望还在,不能放弃。",
+    "pinyin": "Wǒmen de xīwàng hái zài, bù néng fàngqì.",
+    "en": "Our hope is still there, we can't give up."
+   },
+   {
+    "zh": "他一整天都在图书馆看书。",
+    "pinyin": "Tā yìzhěng tiān dōu zài túshūguǎn kànshū.",
+    "en": "He spent the whole day reading in the library."
+   },
+   {
+    "zh": "问题的关键在于我们怎么解决它。",
+    "pinyin": "Wèntí de guānjiàn zàiyú wǒmen zěnme jiějué tā.",
+    "en": "The key to the problem lies in how we solve it."
+   }
+  ]
+ },
+ {
+  "id": "g018",
+  "level": 1,
+  "title": "\"有\" ile bir yerde bir şeyin var olması",
+  "titleEn": "Expressing existence with \"you\"",
+  "pattern": "Yer + 有 + Nesne",
+  "summary": "\"Yer + 有 + nesne\" kalıbı bir yerde bir şeyin bulunduğunu/var olduğunu anlatır: 桌子上有一本书 = Masanın üstünde bir kitap var.",
+  "explanation": "\"有\" mülkiyetin yanı sıra \"var olma / bulunma\" anlamında da kullanılır. Kalıp: yer + 有 + nesne. Bu, \"在\"'ın tersidir: \"在\" belirli bir şeyin nerede olduğunu söyler (bilinenden yere), \"有\" ise bir yerde ne olduğunu söyler (yerden bilinmeyene). Olumsuzu her zaman \"没有\": 桌子上没有书 (masada kitap yok). Genellikle belirsiz/yeni bir nesneyi tanıtır.",
+  "examples": [
+   {
+    "zh": "桌子上有一本书和一杯茶。",
+    "pinyin": "Zhuōzi shàng yǒu yì běn shū hé yì bēi chá.",
+    "en": "There's a book and a cup of tea on the table."
+   },
+   {
+    "zh": "我们学校有很多外国学生。",
+    "pinyin": "Wǒmen xuéxiào yǒu hěn duō wàiguó xuésheng.",
+    "en": "Our school has many foreign students."
+   },
+   {
+    "zh": "这附近有没有好吃的饭馆？",
+    "pinyin": "Zhè fùjìn yǒu méiyǒu hǎochī de fànguǎn?",
+    "en": "Is there a good restaurant nearby?"
+   },
+   {
+    "zh": "冰箱里有一些水果和牛奶。",
+    "pinyin": "Bīngxiāng lǐ yǒu yìxiē shuǐguǒ hé niúnǎi.",
+    "en": "There are some fruits and milk in the fridge."
+   },
+   {
+    "zh": "我们家附近有一个很大的公园。",
+    "pinyin": "Wǒmen jiā fùjìn yǒu yí ge hěn dà de gōngyuán.",
+    "en": "There's a big park near our home."
+   },
+   {
+    "zh": "这个城市有很多有意思的地方。",
+    "pinyin": "Zhège chéngshì yǒu hěn duō yǒu yìsi de dìfang.",
+    "en": "This city has many interesting places."
+   },
+   {
+    "zh": "墙上有一张很旧的照片。",
+    "pinyin": "Qiáng shàng yǒu yì zhāng hěn jiù de zhàopiàn.",
+    "en": "There's a very old photo on the wall."
+   },
+   {
+    "zh": "这本书里有很多有用的知识。",
+    "pinyin": "Zhè běn shū lǐ yǒu hěn duō yǒuyòng de zhīshi.",
+    "en": "This book contains a lot of useful knowledge."
+   },
+   {
+    "zh": "路口有一家二十四小时的便利店。",
+    "pinyin": "Lùkǒu yǒu yì jiā èrshísì xiǎoshí de biànlìdiàn.",
+    "en": "There's a 24-hour convenience store at the intersection."
+   },
+   {
+    "zh": "教室后面有几个空座位。",
+    "pinyin": "Jiàoshì hòumiàn yǒu jǐ ge kōng zuòwèi.",
+    "en": "There are a few empty seats at the back of the classroom."
+   },
+   {
+    "zh": "我的心里有很多话想对你说。",
+    "pinyin": "Wǒ de xīnlǐ yǒu hěn duō huà xiǎng duì nǐ shuō.",
+    "en": "I have a lot to say to you in my heart."
+   },
+   {
+    "zh": "这座山上有一座很古老的寺庙。",
+    "pinyin": "Zhè zuò shān shàng yǒu yí zuò hěn gǔlǎo de sìmiào.",
+    "en": "There's a very ancient temple on this mountain."
+   },
+   {
+    "zh": "这个问题背后有一个感人的故事。",
+    "pinyin": "Zhège wèntí bèihòu yǒu yí ge gǎnrén de gùshi.",
+    "en": "There's a touching story behind this question."
+   },
+   {
+    "zh": "天上有很多星星,今晚真美。",
+    "pinyin": "Tiān shàng yǒu hěn duō xīngxing, jīnwǎn zhēn měi.",
+    "en": "There are many stars in the sky, it's so beautiful tonight."
+   },
+   {
+    "zh": "我家门口有一棵很高的大树。",
+    "pinyin": "Wǒ jiā ménkǒu yǒu yì kē hěn gāo de dàshù.",
+    "en": "There's a tall tree at my door."
+   },
+   {
+    "zh": "这条街上有各种各样的小吃。",
+    "pinyin": "Zhè tiáo jiē shàng yǒu gèzhǒnggèyàng de xiǎochī.",
+    "en": "This street has all kinds of snacks."
+   },
+   {
+    "zh": "每个人心里都有一个梦想。",
+    "pinyin": "Měi ge rén xīnlǐ dōu yǒu yí ge mèngxiǎng.",
+    "en": "Everyone has a dream in their heart."
+   },
+   {
+    "zh": "这个盒子里有一些旧照片和信。",
+    "pinyin": "Zhège hézi lǐ yǒu yìxiē jiù zhàopiàn hé xìn.",
+    "en": "There are some old photos and letters in this box."
+   },
+   {
+    "zh": "公司楼下有一家很方便的咖啡店。",
+    "pinyin": "Gōngsī lóuxià yǒu yì jiā hěn fāngbiàn de kāfēidiàn.",
+    "en": "There's a convenient coffee shop downstairs from the company."
+   },
+   {
+    "zh": "这件事里有一些我们不知道的原因。",
+    "pinyin": "Zhè jiàn shì lǐ yǒu yìxiē wǒmen bù zhīdào de yuányīn.",
+    "en": "There are some reasons we don't know behind this matter."
+   },
+   {
+    "zh": "河的对岸有一片很美的树林。",
+    "pinyin": "Hé de duì'àn yǒu yí piàn hěn měi de shùlín.",
+    "en": "There's a beautiful forest on the other side of the river."
+   },
+   {
+    "zh": "这个世界上有很多我们没见过的东西。",
+    "pinyin": "Zhège shìjiè shàng yǒu hěn duō wǒmen méi jiànguò de dōngxi.",
+    "en": "There are many things in this world we've never seen."
+   },
+   {
+    "zh": "抽屉里有一把旧钥匙,不知道是开什么的。",
+    "pinyin": "Chōuti lǐ yǒu yì bǎ jiù yàoshi, bù zhīdào shì kāi shénme de.",
+    "en": "There's an old key in the drawer, I don't know what it opens."
+   },
+   {
+    "zh": "生活里总是有一些让人开心的小事。",
+    "pinyin": "Shēnghuó lǐ zǒngshì yǒu yìxiē ràng rén kāixīn de xiǎoshì.",
+    "en": "There are always little joys in life."
+   },
+   {
+    "zh": "车里有点冷,你把外套穿上吧。",
+    "pinyin": "Chē lǐ yǒudiǎn lěng, nǐ bǎ wàitào chuān shàng ba.",
+    "en": "It's a bit cold in the car, put on your coat."
+   }
+  ]
  }
 ]

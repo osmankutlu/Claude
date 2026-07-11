@@ -34542,5 +34542,685 @@
     "en": "Tossing these old things is a pity, keeping them takes space; I don't know what to do."
    }
   ]
+ },
+ {
+  "id": "g255",
+  "level": 3,
+  "title": "\"为了\" ile amaç bildirme",
+  "titleEn": "Expressing purpose with \"weile\"",
+  "pattern": "为了 + Amaç，... + Fiil",
+  "summary": "\"为了\" (wèile) bir eylemin AMACINI bildirir: 为了健康,他每天锻炼 = Sağlığı için her gün spor yapar.",
+  "explanation": "\"为了\" bir eylemin hangi AMAÇLA/ne için yapıldığını bildirir: \"... için, ...-mek amacıyla, ... uğruna\". Genelde cümlenin BAŞINDA amaç öbeği kurar, ardından asıl cümle gelir: 为了考上大学,他每天学习到深夜 (Üniversiteye girmek için her gün geç saate kadar çalıştı), 为了不迟到,我提前半小时就出门了 (Geç kalmamak için yarım saat erken çıktım). Amaç bir isim (为了健康 = sağlık için) ya da bir fiil öbeği (为了学好汉语 = Çinceyi iyi öğrenmek için) olabilir. \"为\" (birinin uğruna/yararına, bkz. ayrı konu) ile ilişkilidir ama \"为了\" özellikle AMAÇ/hedef vurgular. Olumsuz amaç için \"为了不...\" (...-memek için) gelir. Türkçedeki \"... için, ...-mek amacıyla, ... uğruna, ...-sın diye\" ifadelerine denk gelir; bir eylemin amacını belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "为了给孩子更好的教育,他们全家搬到了城里。",
+    "pinyin": "Wèi le gěi hái zi gèng hǎo de jiào yù, tā men quán jiā bān dào le chéng lǐ。",
+    "en": "For a better education for the child, the whole family moved to the city."
+   },
+   {
+    "zh": "为了赶上早班车,他每天六点就起床了。",
+    "pinyin": "Wèi le gǎn shàng zǎo bān chē, tā měi tiān liù diǎn jiù qǐ chuáng le。",
+    "en": "To catch the early bus, he gets up at six every day."
+   },
+   {
+    "zh": "为了这次考试,他已经复习了整整一个月。",
+    "pinyin": "Wèi le zhè cì kǎo shì, tā yǐ jīng fù xí le zhěng zhěng yí gè yuè。",
+    "en": "For this exam, he's reviewed for a whole month."
+   },
+   {
+    "zh": "为了不打扰别人休息,他把电视的声音调得很低。",
+    "pinyin": "Wèi le bù dǎ rǎo bié rén xiū xī, tā bǎ diàn shì de shēng yīn diào de hěn dī。",
+    "en": "So as not to disturb others' rest, he turned the TV down low."
+   },
+   {
+    "zh": "为了实现自己的梦想,她付出了常人难以想象的努力。",
+    "pinyin": "Wèi le shí xiàn zì jǐ de mèng xiǎng, tā fù chū le cháng rén nán yǐ xiǎng xiàng de nǔ lì。",
+    "en": "To realize her dream, she made efforts hard for others to imagine."
+   },
+   {
+    "zh": "为了省下路费,他常常步行去上班。",
+    "pinyin": "Wèi le shěng xià lù fèi, tā cháng cháng bù xíng qù shàng bān。",
+    "en": "To save on fare, he often walks to work."
+   },
+   {
+    "zh": "为了让父母安心,他每到一个地方都会报个平安。",
+    "pinyin": "Wèi le ràng fù mǔ ān xīn, tā měi dào yí gè dì fāng dū huì bào gè píng ān。",
+    "en": "To reassure his parents, he checks in wherever he goes."
+   },
+   {
+    "zh": "为了保护环境,大家应该少用一次性的塑料制品。",
+    "pinyin": "Wèi le bǎo hù huán jìng, dà jiā yīng gāi shǎo yòng yí cì xìng de sù liào zhì pǐn。",
+    "en": "To protect the environment, we should use fewer disposable plastics."
+   },
+   {
+    "zh": "为了照顾生病的母亲,她辞去了工作,寸步不离。",
+    "pinyin": "Wèi le zhào gù shēng bìng de mǔ qīn, tā cí qù le gōng zuò, cùn bù bù lí。",
+    "en": "To care for her sick mother, she quit her job and never left her side."
+   },
+   {
+    "zh": "为了这个项目能顺利完成,团队加了好几个星期的班。",
+    "pinyin": "Wèi le zhè ge xiàng mù néng shùn lì wán chéng, tuán duì jiā le hǎo jǐ gè xīng qī de bān。",
+    "en": "For this project to finish smoothly, the team worked overtime for weeks."
+   },
+   {
+    "zh": "为了避免堵车,我们决定提前一个小时出发。",
+    "pinyin": "Wèi le bì miǎn dǔ chē, wǒ men jué dìng tí qián yí gè xiǎo shí chū fā。",
+    "en": "To avoid traffic, we decided to leave an hour early."
+   },
+   {
+    "zh": "为了学好一门乐器,他每天坚持练习两个小时。",
+    "pinyin": "Wèi le xué hǎo yī mén yuè qì, tā měi tiān jiān chí liàn xí liǎng gè xiǎo shí。",
+    "en": "To master an instrument, he practices two hours every day."
+   },
+   {
+    "zh": "为了让大家吃得健康,妈妈做菜从来都少油少盐。",
+    "pinyin": "Wèi le ràng dà jiā chī de jiàn kāng, mā mā zuò cài cóng lái dōu shǎo yóu shǎo yán。",
+    "en": "For everyone's healthy eating, mom always cooks with little oil and salt."
+   },
+   {
+    "zh": "为了这一天,他默默地准备了整整三年。",
+    "pinyin": "Wèi le zhè yī tiān, tā mò mò de zhǔn bèi le zhěng zhěng sān nián。",
+    "en": "For this day, he quietly prepared for a full three years."
+   },
+   {
+    "zh": "为了不让家里人担心,他从来都是报喜不报忧。",
+    "pinyin": "Wèi le bù ràng jiā lǐ rén dān xīn, tā cóng lái dōu shì bào xǐ bú bào yōu。",
+    "en": "So his family won't worry, he only ever shares good news."
+   },
+   {
+    "zh": "为了买到那本绝版书,他跑遍了全城的旧书店。",
+    "pinyin": "Wèi le mǎi dào nà běn jué bǎn shū, tā pǎo biàn le quán chéng de jiù shū diàn。",
+    "en": "To get that out-of-print book, he combed the city's used bookstores."
+   },
+   {
+    "zh": "为了给顾客更好的体验,这家店重新装修了一遍。",
+    "pinyin": "Wèi le gěi gù kè gèng hǎo de tǐ yàn, zhè jiā diàn chóng xīn zhuāng xiū le yī biàn。",
+    "en": "For a better customer experience, this shop renovated everything."
+   },
+   {
+    "zh": "为了赶在天黑前下山,我们加快了脚步。",
+    "pinyin": "Wèi le gǎn zài tiān hēi qián xià shān, wǒ men jiā kuài le jiǎo bù。",
+    "en": "To descend before dark, we quickened our pace."
+   },
+   {
+    "zh": "为了这个家,他一个人在外面拼搏了很多年。",
+    "pinyin": "Wèi le zhè ge jiā, tā yí gè rén zài wài miàn pīn bó le hěn duō nián。",
+    "en": "For this family, he struggled alone away from home for many years."
+   },
+   {
+    "zh": "为了让身体好起来,他戒了烟,也开始坚持锻炼。",
+    "pinyin": "Wèi le ràng shēn tǐ hǎo qǐ lái, tā jiè le yān, yě kāi shǐ jiān chí duàn liàn。",
+    "en": "To get his health back, he quit smoking and started exercising."
+   },
+   {
+    "zh": "为了准备这顿年夜饭,奶奶忙了整整一天。",
+    "pinyin": "Wèi le zhǔn bèi zhè dùn nián yè fàn, nǎi nǎi máng le zhěng zhěng yī tiān。",
+    "en": "To prepare this New Year's dinner, grandma was busy all day."
+   },
+   {
+    "zh": "为了不辜负大家的期望,他一直在默默地努力。",
+    "pinyin": "Wèi le bù gū fù dà jiā de qī wàng, tā yì zhí zài mò mò de nǔ lì。",
+    "en": "So as not to disappoint everyone, he's been quietly working hard."
+   },
+   {
+    "zh": "为了省电,他养成了随手关灯的好习惯。",
+    "pinyin": "Wèi le shěng diàn, tā yǎng chéng le suí shǒu guān dēng de hǎo xí guàn。",
+    "en": "To save electricity, he formed the habit of always turning off lights."
+   },
+   {
+    "zh": "为了能多陪陪孩子,他特意换了一份离家近的工作。",
+    "pinyin": "Wèi le néng duō péi péi hái zi, tā tè yì huàn le yī fèn lí jiā jìn de gōng zuò。",
+    "en": "To spend more time with his child, he switched to a job near home."
+   },
+   {
+    "zh": "为了这场演出,演员们排练了不知道多少个日夜。",
+    "pinyin": "Wèi le zhè chǎng yǎn chū, yǎn yuán men pái liàn le bù zhī dào duō shǎo gè rì yè。",
+    "en": "For this performance, the actors rehearsed countless days and nights."
+   }
+  ]
+ },
+ {
+  "id": "g256",
+  "level": 3,
+  "title": "Soru sözcükleriyle belirsizlik (\"bir\", \"biri\")",
+  "titleEn": "Expressing \"some\" with question words",
+  "pattern": "谁 / 什么 / 哪儿 / 什么时候 (belirsiz)",
+  "summary": "Soru sözcükleri belirsiz \"biri, bir şey, bir yer, bir zaman\" anlamında da kullanılır: 好像有谁在敲门 = Sanki biri kapı çalıyor.",
+  "explanation": "SORU sözcükleri (谁, 什么, 哪儿, 什么时候, 多少) yalnız soru sormaz; bir cümlede BELİRSİZ, tam bilinmeyen bir öğeyi de gösterebilir: \"biri, bir şey(ler), bir yerde, bir ara, birkaç\". 好像有谁在门外 (Sanki dışarıda biri var), 我想吃点什么 (Bir şeyler yemek istiyorum), 咱们找个什么时候聊聊 (Bir ara oturup konuşalım), 他一定有什么难言之隐 (Kesin bir sıkıntısı var ama söyleyemiyor). Bu kullanımda soru işareti YOKTUR ve ton yükselmez; sözcük \"herhangi bir/belirsiz bir\" anlamı taşır. Genelde \"好像, 一定, 想, 有\" gibi belirsizlik/tahmin ifadeleriyle ya da öneri cümlelerinde gelir. Soru anlamıyla belirsiz anlamı bağlam ve tonlama ayırır. Türkçedeki \"biri, bir şey(ler), bir yerde, bir ara, birkaç\" belirsizlik zamirlerine denk gelir; belirsiz bir öğeye işaret etmenin yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "外面好像有谁在叫我,你听见了吗?",
+    "pinyin": "Wài miàn hǎo xiàng yǒu shuí zài jiào wǒ, nǐ tīng jiàn le ma?",
+    "en": "It seems someone outside is calling me; did you hear?"
+   },
+   {
+    "zh": "我肚子有点饿了,想找点什么垫垫肚子。",
+    "pinyin": "Wǒ dǔ zi yǒu diǎn è le, xiǎng zhǎo diǎn shén me diàn diàn dǔ zi。",
+    "en": "I'm a bit hungry; I want to find something to snack on."
+   },
+   {
+    "zh": "他今天一句话都不说,心里一定有什么事。",
+    "pinyin": "Tā jīn tiān yī jù huà dōu bù shuō, xīn lǐ yí dìng yǒu shén me shì。",
+    "en": "He hasn't said a word today; something must be on his mind."
+   },
+   {
+    "zh": "咱们改天找个什么时候好好聚一聚吧。",
+    "pinyin": "Zán men gǎi tiān zhǎo gè shén me shí hòu hǎo hǎo jù yī jù ba。",
+    "en": "Let's find some time another day to get together properly."
+   },
+   {
+    "zh": "我总觉得这件事哪儿有点不对劲,说不上来。",
+    "pinyin": "Wǒ zǒng jué de zhè jiàn shì nǎ ér yǒu diǎn bú duì jìn, shuō bù shàng lái。",
+    "en": "I feel something's off about this, but I can't put my finger on it."
+   },
+   {
+    "zh": "你要是需要什么帮助,尽管开口,别客气。",
+    "pinyin": "Nǐ yào shì xū yào shén me bāng zhù, jǐn guǎn kāi kǒu, bié kè qì。",
+    "en": "If you need any help, just say so, don't be shy."
+   },
+   {
+    "zh": "桌上好像少了点什么,我一时想不起来是什么。",
+    "pinyin": "Zhuō shàng hǎo xiàng shǎo le diǎn shén me, wǒ yī shí xiǎng bù qǐ lái shì shén me。",
+    "en": "Something seems missing from the table; I can't recall what."
+   },
+   {
+    "zh": "他神神秘秘的,好像在谋划着什么。",
+    "pinyin": "Tā shén shén mì mì de, hǎo xiàng zài móu huà zhe shén me。",
+    "en": "He's being mysterious, as if plotting something."
+   },
+   {
+    "zh": "咱们出去走走,随便找个什么地方坐坐都行。",
+    "pinyin": "Zán men chū qù zǒu zǒu, suí biàn zhǎo gè shén me dì fāng zuò zuò dōu xíng。",
+    "en": "Let's go for a walk; we can sit anywhere, wherever."
+   },
+   {
+    "zh": "我隐约记得以前在哪儿见过他,就是想不起来了。",
+    "pinyin": "Wǒ yǐn yuē jì dé yǐ qián zài nǎ ér jiàn guò tā, jiù shì xiǎng bù qǐ lái le。",
+    "en": "I vaguely recall seeing him somewhere before, but can't remember."
+   },
+   {
+    "zh": "你要是饿了,冰箱里有什么就随便吃点什么。",
+    "pinyin": "Nǐ yào shì è le, bīng xiāng lǐ yǒu shén me jiù suí biàn chī diǎn shén me。",
+    "en": "If you're hungry, eat whatever's in the fridge."
+   },
+   {
+    "zh": "他好像有什么话想说,却又欲言又止。",
+    "pinyin": "Tā hǎo xiàng yǒu shén me huà xiǎng shuō, què yòu yù yán yòu zhǐ。",
+    "en": "He seems to have something to say but keeps hesitating."
+   },
+   {
+    "zh": "咱们是不是落下什么东西了?你再检查检查。",
+    "pinyin": "Zán men shì bú shì là xià shén me dōng xī le? nǐ zài jiǎn chá jiǎn chá。",
+    "en": "Did we leave something behind? Check again."
+   },
+   {
+    "zh": "总觉得今天要发生点什么,心里七上八下的。",
+    "pinyin": "Zǒng jué de jīn tiān yào fā shēng diǎn shén me, xīn lǐ qī shàng bā xià de。",
+    "en": "I feel something will happen today; my heart is uneasy."
+   },
+   {
+    "zh": "你要是有什么难处,可以跟我们说说。",
+    "pinyin": "Nǐ yào shì yǒu shén me nán chǔ, kě yǐ gēn wǒ men shuō shuō。",
+    "en": "If you have any difficulties, you can tell us."
+   },
+   {
+    "zh": "他一定是遇到什么麻烦了,不然不会这么愁眉苦脸。",
+    "pinyin": "Tā yí dìng shì yù dào shén me má fán le, bù rán bú huì zhè me chóu méi kǔ liǎn。",
+    "en": "He must have run into some trouble, or he wouldn't look so glum."
+   },
+   {
+    "zh": "我想给妈妈买点什么礼物,可是不知道买什么好。",
+    "pinyin": "Wǒ xiǎng gěi mā mā mǎi diǎn shén me lǐ wù, kě shì bù zhī dào mǎi shén me hǎo。",
+    "en": "I want to buy mom some gift, but don't know what."
+   },
+   {
+    "zh": "屋里好像有什么东西在响,你去看看是不是猫。",
+    "pinyin": "Wū lǐ hǎo xiàng yǒu shén me dōng xī zài xiǎng, nǐ qù kàn kàn shì bú shì māo。",
+    "en": "Something seems to be making noise inside; check if it's the cat."
+   },
+   {
+    "zh": "咱们哪天有空,一起去哪儿走走,散散心。",
+    "pinyin": "Zán men nǎ tiān yǒu kòng, yì qǐ qù nǎ ér zǒu zǒu, sàn sàn xīn。",
+    "en": "Some free day, let's go somewhere together to unwind."
+   },
+   {
+    "zh": "他总感觉自己好像忘了什么重要的事。",
+    "pinyin": "Tā zǒng gǎn jué zì jǐ hǎo xiàng wàng le shén me zhòng yào de shì。",
+    "en": "He keeps feeling as if he's forgotten something important."
+   },
+   {
+    "zh": "你脸色不太好,是不是身体哪儿不舒服?",
+    "pinyin": "Nǐ liǎn sè bù tài hǎo, shì bú shì shēn tǐ nǎ ér bù shū fú?",
+    "en": "You don't look well; is something bothering you physically?"
+   },
+   {
+    "zh": "这几天他总是心不在焉,好像在想什么。",
+    "pinyin": "Zhè jǐ tiān tā zǒng shì xīn bù zài yān, hǎo xiàng zài xiǎng shén me。",
+    "en": "These days he's absent-minded, as if thinking about something."
+   },
+   {
+    "zh": "要是路上遇到什么困难,记得随时给我打电话。",
+    "pinyin": "Yào shì lù shàng yù dào shén me kùn nán, jì de suí shí gěi wǒ dǎ diàn huà。",
+    "en": "If you meet any difficulty on the way, call me anytime."
+   },
+   {
+    "zh": "我总觉得该跟他说点什么,可又不知从何说起。",
+    "pinyin": "Wǒ zǒng jué de gāi gēn tā shuō diǎn shén me, kě yòu bù zhī cóng hé shuō qǐ。",
+    "en": "I feel I should say something to him, but don't know where to begin."
+   },
+   {
+    "zh": "你先在这儿等一会儿,我去买点什么就回来。",
+    "pinyin": "Nǐ xiān zài zhè ér děng yī huì er, wǒ qù mǎi diǎn shén me jiù huí lái。",
+    "en": "Wait here a bit; I'll buy something and come right back."
+   }
+  ]
+ },
+ {
+  "id": "g257",
+  "level": 3,
+  "title": "\"来说\" ile \"...-e göre, ... açısından\"",
+  "titleEn": "Phrases using \"laishuo\"",
+  "pattern": "对 + Kişi + 来说 / 一般来说",
+  "summary": "\"对...来说\" bir bakış açısını verir: 对我来说 = bana göre / benim için. \"一般来说\" = genel olarak.",
+  "explanation": "\"来说\" bir bakış açısını, kapsamı ya da genelleme çerçevesini tanıtan bir kalıptır. En sık biçimler: (1) \"对 + kişi/şey + 来说\" — \"...-e göre, ... açısından, ... için\": 对我来说,家人比什么都重要 (Bana göre ailem her şeyden önemli), 这对他来说是个不小的挑战 (Bu, onun için küçük olmayan bir sınav). (2) \"一般来说\" — \"genel olarak, genellikle\": 一般来说,春天的天气比较暖和 (Genel olarak baharda hava daha ılımandır). (3) \"...来说\" kapsam belirtir: 拿收入来说 / 就质量来说 (gelir açısından / kalite bakımından). Cümlenin çoğu zaman başında bir çerçeve/perspektif kurar. Türkçedeki \"...-e göre, ... açısından, ... için, genel olarak, ... bakımından\" ifadelerine denk gelir; bir konuyu belli bir açıdan ele almanın ve genelleme yapmanın düzgün yoludur.",
+  "examples": [
+   {
+    "zh": "对我来说,能和家人在一起就是最大的幸福。",
+    "pinyin": "Duì wǒ lái shuō, néng hé jiā rén zài yì qǐ jiù shì zuì dà de xìng fú。",
+    "en": "To me, being with family is the greatest happiness."
+   },
+   {
+    "zh": "一般来说,早睡早起对身体是很有好处的。",
+    "pinyin": "Yì bān lái shuō, zǎo shuì zǎo qǐ duì shēn tǐ shì hěn yǒu hǎo chù de。",
+    "en": "Generally speaking, sleeping and rising early is good for you."
+   },
+   {
+    "zh": "这次机会对他来说非常难得,他一定会全力以赴。",
+    "pinyin": "Zhè cì jī huì duì tā lái shuō fēi cháng nán de, tā yí dìng huì quán lì yǐ fù。",
+    "en": "This chance is rare for him; he'll surely give it his all."
+   },
+   {
+    "zh": "就价格来说,这家店确实比别家便宜不少。",
+    "pinyin": "Jiù jià gé lái shuō, zhè jiā diàn què shí bǐ bié jiā pián yi bù shǎo。",
+    "en": "In terms of price, this shop is indeed much cheaper than others."
+   },
+   {
+    "zh": "对刚学汉语的人来说,声调是最难掌握的部分。",
+    "pinyin": "Duì gāng xué hàn yǔ de rén lái shuō, shēng diào shì zuì nán zhǎng wò de bù fèn。",
+    "en": "For beginners of Chinese, tones are the hardest to master."
+   },
+   {
+    "zh": "一般来说,这个季节很少下这么大的雨。",
+    "pinyin": "Yì bān lái shuō, zhè ge jì jié hěn shǎo xià zhè me dà de yǔ。",
+    "en": "Generally, it rarely rains this hard in this season."
+   },
+   {
+    "zh": "这点困难对经验丰富的他来说根本算不了什么。",
+    "pinyin": "Zhè diǎn kùn nán duì jīng yàn fēng fù de tā lái shuō gēn běn suàn bù liǎo shén me。",
+    "en": "This difficulty is nothing to someone as experienced as him."
+   },
+   {
+    "zh": "拿口味来说,南方菜和北方菜差别还是挺大的。",
+    "pinyin": "Ná kǒu wèi lái shuō, nán fāng cài hé běi fāng cài chā bié hái shì tǐng dà de。",
+    "en": "In terms of taste, southern and northern cuisines differ quite a lot."
+   },
+   {
+    "zh": "对上班族来说,周末的休息时间显得特别宝贵。",
+    "pinyin": "Duì shàng bān zú lái shuō, zhōu mò de xiū xī shí jiān xiǎn de tè bié bǎo guì。",
+    "en": "For office workers, weekend rest time is especially precious."
+   },
+   {
+    "zh": "一般来说,只要肯下功夫,没有学不会的东西。",
+    "pinyin": "Yì bān lái shuō, zhǐ yào kěn xià gōng fū, méi yǒu xué bú huì de dōng xī。",
+    "en": "Generally, with enough effort, there's nothing that can't be learned."
+   },
+   {
+    "zh": "这份工资对一个刚毕业的学生来说已经很不错了。",
+    "pinyin": "Zhè fèn gōng zī duì yí gè gāng bì yè de xué shēng lái shuō yǐ jīng hěn bú cuò le。",
+    "en": "This salary is already quite good for a fresh graduate."
+   },
+   {
+    "zh": "就环境来说,这个小区安静又干净,很适合居住。",
+    "pinyin": "Jiù huán jìng lái shuō, zhè ge xiǎo qū ān jìng yòu gān jìng, hěn shì hé jū zhù。",
+    "en": "In terms of environment, this neighborhood is quiet, clean, and livable."
+   },
+   {
+    "zh": "对老年人来说,平时多走动走动对健康很有帮助。",
+    "pinyin": "Duì lǎo nián rén lái shuō, píng shí duō zǒu dòng zǒu dòng duì jiàn kāng hěn yǒu bāng zhù。",
+    "en": "For the elderly, moving about regularly helps their health."
+   },
+   {
+    "zh": "一般来说,这条路这个点儿不会太堵。",
+    "pinyin": "Yì bān lái shuō, zhè tiáo lù zhè ge diǎn ér bú huì tài dǔ。",
+    "en": "Generally, this road isn't too jammed at this time."
+   },
+   {
+    "zh": "这件事对我们整个团队来说都是一次宝贵的经验。",
+    "pinyin": "Zhè jiàn shì duì wǒ men zhěng gè tuán duì lái shuō dōu shì yī cì bǎo guì de jīng yàn。",
+    "en": "This is a valuable experience for our whole team."
+   },
+   {
+    "zh": "就难度来说,这次的题目比上次要难一些。",
+    "pinyin": "Jiù nán dù lái shuō, zhè cì de tí mù bǐ shàng cì yào nán yī xiē。",
+    "en": "In terms of difficulty, this time's questions are a bit harder."
+   },
+   {
+    "zh": "对一个母亲来说,孩子的健康永远是第一位的。",
+    "pinyin": "Duì yí gè mǔ qīn lái shuō, hái zi de jiàn kāng yǒng yuǎn shì dì yī wèi de。",
+    "en": "For a mother, the child's health is always first."
+   },
+   {
+    "zh": "一般来说,这种小毛病多休息几天就能好。",
+    "pinyin": "Yì bān lái shuō, zhè zhǒng xiǎo máo bìng duō xiū xī jǐ tiān jiù néng hǎo。",
+    "en": "Generally, this minor ailment clears up with a few days' rest."
+   },
+   {
+    "zh": "这点钱对他来说不算什么,可对我却很重要。",
+    "pinyin": "Zhè diǎn qián duì tā lái shuō bù suàn shén me, kě duì wǒ què hěn zhòng yào。",
+    "en": "This bit of money is nothing to him, but it matters a lot to me."
+   },
+   {
+    "zh": "就交通来说,住在市中心确实方便很多。",
+    "pinyin": "Jiù jiāo tōng lái shuō, zhù zài shì zhōng xīn què shí fāng biàn hěn duō。",
+    "en": "In terms of transport, living downtown is indeed much more convenient."
+   },
+   {
+    "zh": "对从没出过远门的孩子来说,这次旅行意义非凡。",
+    "pinyin": "Duì cóng méi chū guò yuǎn mén de hái zi lái shuō, zhè cì lǚ xíng yì yì fēi fán。",
+    "en": "For a child who's never traveled far, this trip is deeply meaningful."
+   },
+   {
+    "zh": "一般来说,越是重要的场合,他越是显得从容。",
+    "pinyin": "Yì bān lái shuō, yuè shì zhòng yào de chǎng hé, tā yuè shì xiǎn de cóng róng。",
+    "en": "Generally, the more important the occasion, the calmer he appears."
+   },
+   {
+    "zh": "这项技术对普通用户来说,操作还是有点复杂。",
+    "pinyin": "Zhè xiàng jì shù duì pǔ tōng yòng hù lái shuō, cāo zuò hái shì yǒu diǎn fù zá。",
+    "en": "For ordinary users, this technology is still a bit complex to operate."
+   },
+   {
+    "zh": "对他们两个人来说,那段共同奋斗的日子最难忘。",
+    "pinyin": "Duì tā men liǎng gè rén lái shuō, nà duàn gòng tóng fèn dòu de rì zi zuì nán wàng。",
+    "en": "For the two of them, those days of striving together are unforgettable."
+   },
+   {
+    "zh": "一般来说,做任何事情都要提前做好充分的准备。",
+    "pinyin": "Yì bān lái shuō, zuò rèn hé shì qíng dōu yào tí qián zuò hǎo chōng fèn de zhǔn bèi。",
+    "en": "Generally, whatever you do, you should prepare well in advance."
+   }
+  ]
+ },
+ {
+  "id": "g258",
+  "level": 3,
+  "title": "\"有\" ile eşitlik derecesi sorma",
+  "titleEn": "Expressing comparable degree with \"you\"",
+  "pattern": "İsim 1 + 有 + İsim 2 + (这么/那么) + Sıfat + 吗？",
+  "summary": "\"A 有 B 那么 + sıfat 吗?\" A'nın B kadar ... olup olmadığını sorar: 他有你高吗? = O senin kadar uzun mu?",
+  "explanation": "\"有\" bir karşılaştırmada bir şeyin başka bir şey KADAR belli bir dereceye ULAŞIP ulaşmadığını sorar ya da bildirir: A + 有 + B + (这么/那么) + sıfat. Soru biçimi çok yaygındır: 弟弟有哥哥那么高吗? (Kardeş, ağabey kadar uzun mu?), 今天有昨天那么冷吗? (Bugün dün kadar soğuk mu?). Olumlu cevap \"有\" (evet, o kadar), olumsuz \"没有\" (o kadar değil) ile verilir: 没有他那么高 (Onun kadar uzun değil). Sıfattan önce çoğu zaman \"这么/那么\" gelir. Bu, \"没有\"lu olumsuz karşılaştırmanın (bkz. ayrı konu) soru/olumlu karşılığıdır ve bir şeyin bir ölçüte ulaşıp ulaşmadığını sınar. \"比\" (daha ...) farktan söz ederken, \"有\" belli bir dereceye ULAŞMAYI sorgular. Türkçedeki \"... kadar ... mı?, ... kadar\" eşitlik/ulaşma ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你弟弟都长这么高了,有你高了吗?",
+    "pinyin": "Nǐ dì di dōu zhǎng zhè me gāo le, yǒu nǐ gāo le ma?",
+    "en": "Your brother has grown so tall; is he as tall as you now?"
+   },
+   {
+    "zh": "今天有昨天那么热吗?我怎么觉得凉快多了。",
+    "pinyin": "Jīn tiān yǒu zuó tiān nà me rè ma? wǒ zěn me jué de liáng kuài duō le。",
+    "en": "Is it as hot as yesterday? It feels much cooler to me."
+   },
+   {
+    "zh": "这道菜有妈妈做的那么好吃吗?我有点儿怀疑。",
+    "pinyin": "Zhè dào cài yǒu mā mā zuò de nà me hǎo chī ma? wǒ yǒu diǎn ér huái yí。",
+    "en": "Is this dish as tasty as mom's? I have my doubts."
+   },
+   {
+    "zh": "这条路真有他说的那么难走吗?咱们试试看。",
+    "pinyin": "Zhè tiáo lù zhēn yǒu tā shuō de nà me nán zǒu ma? zán men shì shì kàn。",
+    "en": "Is this road really as hard to walk as he said? Let's try."
+   },
+   {
+    "zh": "你觉得这部电影有大家说的那么精彩吗?",
+    "pinyin": "Nǐ jué de zhè bù diàn yǐng yǒu dà jiā shuō de nà me jīng cǎi ma?",
+    "en": "Do you think this movie is as wonderful as everyone says?"
+   },
+   {
+    "zh": "他的汉语水平有你想的那么好吗?",
+    "pinyin": "Tā de hàn yǔ shuǐ píng yǒu nǐ xiǎng de nà me hǎo ma?",
+    "en": "Is his Chinese as good as you think?"
+   },
+   {
+    "zh": "这次的考试有上次那么难吗?我还挺紧张的。",
+    "pinyin": "Zhè cì de kǎo shì yǒu shàng cì nà me nán ma? wǒ hái tǐng jǐn zhāng de。",
+    "en": "Is this exam as hard as last time? I'm quite nervous."
+   },
+   {
+    "zh": "那家新店的东西真有传说中那么便宜吗?",
+    "pinyin": "Nà jiā xīn diàn de dōng xī zhēn yǒu chuán shuō zhōng nà me pián yi ma?",
+    "en": "Is the new shop's stuff really as cheap as rumored?"
+   },
+   {
+    "zh": "你说的那个地方有这儿这么安静吗?",
+    "pinyin": "Nǐ shuō de nà ge dì fāng yǒu zhè ér zhè me ān jìng ma?",
+    "en": "Is that place you mentioned as quiet as here?"
+   },
+   {
+    "zh": "这件事有你想象的那么复杂吗?也许没那么难。",
+    "pinyin": "Zhè jiàn shì yǒu nǐ xiǎng xiàng de nà me fù zá ma? yě xǔ méi nà me nán。",
+    "en": "Is this as complicated as you imagine? Maybe it's not so hard."
+   },
+   {
+    "zh": "弟弟的个子还没有姐姐那么高,不过很壮实。",
+    "pinyin": "Dì di de gè zi hái méi yǒu jiě jiě nà me gāo, bù guò hěn zhuàng shí。",
+    "en": "The brother isn't as tall as the sister, but he's sturdy."
+   },
+   {
+    "zh": "这个牌子的手机有那个牌子那么好用吗?",
+    "pinyin": "Zhè ge pái zi de shǒu jī yǒu nà ge pái zi nà me hǎo yòng ma?",
+    "en": "Is this brand of phone as easy to use as that one?"
+   },
+   {
+    "zh": "今年的收成有去年那么好吗?农民们都很关心。",
+    "pinyin": "Jīn nián de shōu chéng yǒu qù nián nà me hǎo ma? nóng mín men dōu hěn guān xīn。",
+    "en": "Is this year's harvest as good as last year's? The farmers care a lot."
+   },
+   {
+    "zh": "你觉得他有他哥哥那么聪明吗?",
+    "pinyin": "Nǐ jué de tā yǒu tā gē gē nà me cōng míng ma?",
+    "en": "Do you think he's as smart as his brother?"
+   },
+   {
+    "zh": "这里的冬天有北方那么冷吗?我有点担心。",
+    "pinyin": "Zhè lǐ de dōng tiān yǒu běi fāng nà me lěng ma? wǒ yǒu diǎn dān xīn。",
+    "en": "Are the winters here as cold as in the north? I'm a bit worried."
+   },
+   {
+    "zh": "这幅画真的有专家说的那么有价值吗?",
+    "pinyin": "Zhè fú huà zhēn de yǒu zhuān jiā shuō de nà me yǒu jià zhí ma?",
+    "en": "Is this painting really as valuable as the experts say?"
+   },
+   {
+    "zh": "你新买的房子有原来那套那么大吗?",
+    "pinyin": "Nǐ xīn mǎi de fáng zi yǒu yuán lái nà tào nà me dà ma?",
+    "en": "Is your new house as big as the old one?"
+   },
+   {
+    "zh": "这条鱼没有上次那条那么大,不过更新鲜。",
+    "pinyin": "Zhè tiáo yú méi yǒu shàng cì nà tiáo nà me dà, bù guò gēng xīn xiān。",
+    "en": "This fish isn't as big as last time's, but it's fresher."
+   },
+   {
+    "zh": "他跑得有你那么快吗?你可是我们班的第一。",
+    "pinyin": "Tā pǎo de yǒu nǐ nà me kuài ma? nǐ kě shì wǒ men bān de dì yī。",
+    "en": "Does he run as fast as you? You're the fastest in our class."
+   },
+   {
+    "zh": "这本书有大家推荐的那么好看吗?我想找来读读。",
+    "pinyin": "Zhè běn shū yǒu dà jiā tuī jiàn de nà me hǎo kàn ma? wǒ xiǎng zhǎo lái dú dú。",
+    "en": "Is this book as good as everyone recommends? I'd like to read it."
+   },
+   {
+    "zh": "你觉得网上的评价有那么可信吗?我看未必。",
+    "pinyin": "Nǐ jué de wǎng shàng de píng jià yǒu nà me kě xìn ma? wǒ kàn wèi bì。",
+    "en": "Do you think online reviews are that reliable? I doubt it."
+   },
+   {
+    "zh": "那个地方的风景真有照片上那么美吗?",
+    "pinyin": "Nà ge dì fāng de fēng jǐng zhēn yǒu zhào piān shàng nà me měi ma?",
+    "en": "Is the scenery there really as beautiful as in the photos?"
+   },
+   {
+    "zh": "这份工作有你说的那么辛苦吗?看你天天挺开心的。",
+    "pinyin": "Zhè fèn gōng zuò yǒu nǐ shuō de nà me xīn kǔ ma? kàn nǐ tiān tiān tǐng kāi xīn de。",
+    "en": "Is this job as hard as you say? You seem happy every day."
+   },
+   {
+    "zh": "孩子的成绩有以前那么好吗?最近好像退步了。",
+    "pinyin": "Hái zi de chéng jì yǒu yǐ qián nà me hǎo ma? zuì jìn hǎo xiàng tuì bù le。",
+    "en": "Are the child's grades as good as before? He seems to have slipped."
+   },
+   {
+    "zh": "你确定这条捷径真有地图上标的那么近吗?",
+    "pinyin": "Nǐ què dìng zhè tiáo jié jìng zhēn yǒu dì tú shàng biāo dì nà me jìn ma?",
+    "en": "Are you sure this shortcut is really as short as the map shows?"
+   }
+  ]
+ },
+ {
+  "id": "g259",
+  "level": 3,
+  "title": "\"跟...比(起来)\" ile karşılaştırma",
+  "titleEn": "Expressing \"compared with\" using \"gen\"",
+  "pattern": "跟 + İsim 1 + 比(起来)，İsim 2 ...",
+  "summary": "\"跟...比起来\" bir karşılaştırma çerçevesi kurar: 跟去年比起来,今年冷多了 = Geçen yıla kıyasla bu yıl çok daha soğuk.",
+  "explanation": "\"跟 + karşılaştırma nesnesi + 比(起来)\" bir şeyi başka bir şeyle KIYASLAMA çerçevesi kurar ve çoğu zaman cümlenin başında gelir: \"... ile karşılaştırınca, ...-e kıyasla, ...-e göre\". 跟大城市比起来,小城镇的生活更悠闲 (Büyük şehirlerle kıyaslandığında, küçük kasabaların hayatı daha rahattır), 跟以前比,他成熟了很多 (Eskiye kıyasla epey olgunlaştı). \"比\" tek başına doğrudan karşılaştırma yaparken (A 比 B 高 = A, B'den uzun), \"跟...比起来\" bir kıyas ZEMİNİ kurup ardından değerlendirmeyi verir; daha yumuşak, çerçeveleyici bir tondur. \"和/跟...相比\" daha resmî bir varyanttır. \"起来\" eklenince \"kıyaslayınca\" perspektifi vurgulanır. Türkçedeki \"... ile karşılaştırınca, ...-e kıyasla, ...-e göre, ...-le kıyaslandığında\" ifadelerine denk gelir; iki şeyi bir çerçeve içinde kıyaslamanın yaygın yoludur.",
+  "examples": [
+   {
+    "zh": "跟大城市比起来,我还是更喜欢家乡的宁静生活。",
+    "pinyin": "Gēn dà chéng shì bǐ qǐ lái, wǒ hái shì gèng xǐ huān jiā xiāng de níng jìng shēng huó。",
+    "en": "Compared with big cities, I still prefer my hometown's peaceful life."
+   },
+   {
+    "zh": "跟去年比,今年的冬天冷得特别早。",
+    "pinyin": "Gēn qù nián bǐ, jīn nián de dōng tiān lěng de tè bié zǎo。",
+    "en": "Compared to last year, this winter got cold especially early."
+   },
+   {
+    "zh": "跟坐飞机比起来,坐火车虽然慢,却能看沿途的风景。",
+    "pinyin": "Gēn zuò fēi jī bǐ qǐ lái, zuò huǒ chē suī rán màn, què néng kàn yán tú de fēng jǐng。",
+    "en": "Compared to flying, the train is slow but lets you see the scenery."
+   },
+   {
+    "zh": "跟刚来的时候比,他的汉语进步了不止一点点。",
+    "pinyin": "Gēn gāng lái de shí hòu bǐ, tā de hàn yǔ jìn bù le bù zhǐ yì diǎn diǎn。",
+    "en": "Compared to when he first came, his Chinese has improved a great deal."
+   },
+   {
+    "zh": "跟别人比起来,他其实已经很努力了,你别太苛刻。",
+    "pinyin": "Gēn bié rén bǐ qǐ lái, tā qí shí yǐ jīng hěn nǔ lì le, nǐ bié tài kē kè。",
+    "en": "Compared to others, he's already very hardworking; don't be too harsh."
+   },
+   {
+    "zh": "跟网上买比,在实体店买东西能看到实物,更放心。",
+    "pinyin": "Gēn wǎng shàng mǎi bǐ, zài shí tǐ diàn mǎi dōng xī néng kàn dào shí wù, gèng fàng xīn。",
+    "en": "Compared to online, buying in-store lets you see the real item, more reassuring."
+   },
+   {
+    "zh": "跟以前那套小房子比,现在住的地方宽敞多了。",
+    "pinyin": "Gēn yǐ qián nà tào xiǎo fáng zi bǐ, xiàn zài zhù de dì fāng kuān chǎng duō le。",
+    "en": "Compared to the old small flat, the current place is much more spacious."
+   },
+   {
+    "zh": "跟哥哥比起来,弟弟的性格要活泼开朗得多。",
+    "pinyin": "Gēn gē gē bǐ qǐ lái, dì di de xìng gé yào huó pō kāi lǎng de duō。",
+    "en": "Compared to his brother, the younger one is much livelier and cheerful."
+   },
+   {
+    "zh": "跟金钱比起来,他更看重的是家人的健康和快乐。",
+    "pinyin": "Gēn jīn qián bǐ qǐ lái, tā gèng kàn zhòng de shì jiā rén de jiàn kāng hé kuài lè。",
+    "en": "Compared to money, he values his family's health and happiness more."
+   },
+   {
+    "zh": "跟去年同期比,这家店的销量增长了不少。",
+    "pinyin": "Gēn qù nián tóng qī bǐ, zhè jiā diàn de xiāo liàng zēng zhǎng le bù shǎo。",
+    "en": "Compared to the same period last year, this shop's sales grew a lot."
+   },
+   {
+    "zh": "跟城里的孩子比,乡下的孩子更懂得吃苦。",
+    "pinyin": "Gēn chéng lǐ de hái zi bǐ, xiāng xià de hái zi gèng dǒng de chī kǔ。",
+    "en": "Compared to city children, rural ones better know how to endure hardship."
+   },
+   {
+    "zh": "跟第一次上台比,他这次镇定多了,一点都不紧张。",
+    "pinyin": "Gēn dì yī cì shàng tái bǐ, tā zhè cì zhèn dìng duō le, yì diǎn dōu bù jǐn zhāng。",
+    "en": "Compared to his first time on stage, he was far calmer this time."
+   },
+   {
+    "zh": "跟这些困难比起来,我们遇到的这点事根本不算什么。",
+    "pinyin": "Gēn zhè xiē kùn nán bǐ qǐ lái, wǒ men yù dào de zhè diǎn shì gēn běn bù suàn shén me。",
+    "en": "Compared to these difficulties, our little problem is nothing."
+   },
+   {
+    "zh": "跟从前比,现在的通讯真是方便太多了。",
+    "pinyin": "Gēn cóng qián bǐ, xiàn zài de tōng xùn zhēn shì fāng biàn tài duō le。",
+    "en": "Compared to the past, communication now is so much more convenient."
+   },
+   {
+    "zh": "跟同龄人比,他显得成熟稳重,很有责任感。",
+    "pinyin": "Gēn tóng líng rén bǐ, tā xiǎn de chéng shú wěn zhòng, hěn yǒu zé rèn gǎn。",
+    "en": "Compared to his peers, he seems mature, steady, and responsible."
+   },
+   {
+    "zh": "跟做别的工作比,他觉得当老师更有意义。",
+    "pinyin": "Gēn zuò bié de gōng zuò bǐ, tā jué de dāng lǎo shī gèng yǒu yì yì。",
+    "en": "Compared to other jobs, he finds teaching more meaningful."
+   },
+   {
+    "zh": "跟去年的价格比,今年的水果贵了不少。",
+    "pinyin": "Gēn qù nián de jià gé bǐ, jīn nián de shuǐ guǒ guì le bù shǎo。",
+    "en": "Compared to last year's prices, this year's fruit is much pricier."
+   },
+   {
+    "zh": "跟弟弟比起来,姐姐做事更细心、更有耐心。",
+    "pinyin": "Gēn dì di bǐ qǐ lái, jiě jiě zuò shì gèng xì xīn、 gèng yǒu nài xīn。",
+    "en": "Compared to the brother, the sister is more careful and patient."
+   },
+   {
+    "zh": "跟一个人独处比,他更喜欢和朋友们在一起。",
+    "pinyin": "Gēn yí gè rén dú chǔ bǐ, tā gèng xǐ huān hé péng yǒu men zài yì qǐ。",
+    "en": "Compared to being alone, he prefers being with friends."
+   },
+   {
+    "zh": "跟过去比,这座城市这几年的变化真是太大了。",
+    "pinyin": "Gēn guò qù bǐ, zhè zuò chéng shì zhè jǐ nián de biàn huà zhēn shì tài dà le。",
+    "en": "Compared to the past, this city has changed enormously in recent years."
+   },
+   {
+    "zh": "跟别的品牌比起来,这个牌子的质量更让人放心。",
+    "pinyin": "Gēn bié de pǐn pái bǐ qǐ lái, zhè ge pái zi de zhì liàng gèng ràng rén fàng xīn。",
+    "en": "Compared to other brands, this one's quality is more reassuring."
+   },
+   {
+    "zh": "跟考试成绩比,老师更看重孩子平时的努力。",
+    "pinyin": "Gēn kǎo shì chéng jì bǐ, lǎo shī gèng kàn zhòng hái zi píng shí de nǔ lì。",
+    "en": "Compared to exam scores, the teacher values the child's daily effort more."
+   },
+   {
+    "zh": "跟这里的热闹比,那个小村子显得格外安静。",
+    "pinyin": "Gēn zhè lǐ de rè nào bǐ, nà ge xiǎo cūn zi xiǎn de gé wài ān jìng。",
+    "en": "Compared to the bustle here, that village seems especially quiet."
+   },
+   {
+    "zh": "跟刚开始学的时候比,现在的他简直判若两人。",
+    "pinyin": "Gēn gāng kāi shǐ xué de shí hòu bǐ, xiàn zài de tā jiǎn zhí pàn ruò liǎng rén。",
+    "en": "Compared to when he began learning, he's now like a different person."
+   },
+   {
+    "zh": "跟别人的评价比,他更在意自己内心真实的想法。",
+    "pinyin": "Gēn bié rén de píng jià bǐ, tā gèng zài yì zì jǐ nèi xīn zhēn shí de xiǎng fǎ。",
+    "en": "Compared to others' opinions, he cares more about his own true thoughts."
+   }
+  ]
  }
 ]

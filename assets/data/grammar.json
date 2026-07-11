@@ -17678,5 +17678,685 @@
     "en": "How did everyone do on this exam? Was it hard?"
    }
   ]
+ },
+ {
+  "id": "g131",
+  "level": 2,
+  "title": "\"怎么\" ile \"neden / nasıl\" sorusu",
+  "titleEn": "Asking why with \"zenme\"",
+  "pattern": "怎么 + Fiil ？",
+  "summary": "\"怎么\" (zěnme) hem \"nasıl?\" hem de (çoğu zaman şaşkınlıkla) \"neden, nasıl olur?\" diye sorar: 你怎么来的? = Nasıl geldin?; 你怎么不高兴? = Neden mutsuzsun?",
+  "explanation": "\"怎么\" fiilin önüne gelip iki tür soru sorar: (1) YÖNTEM/BİÇİM — \"nasıl?\": 这个字怎么写? (Bu karakter nasıl yazılır?), 你怎么去? (Nasıl gidiyorsun?). (2) SEBEP — \"neden, nasıl olur da?\": 你怎么还没睡? (Nasıl hâlâ uyumadın? / Neden uyumadın?). İkinci kullanımda çoğu zaman ŞAŞKINLIK, merak ya da sitem tonu vardır ve \"为什么\"den daha duygusaldır. \"为什么\" nesnel bir sebep sorarken, \"怎么\" çoğu zaman \"nasıl olur da böyle?\" şaşkınlığını taşır. Ayrıca \"怎么了?\" (ne oldu?) ve \"怎么办?\" (ne yapmalı?) sık kalıplarıdır. Bağlam nasıl mı neden mi olduğunu belirler.",
+  "examples": [
+   {
+    "zh": "你怎么这么晚才回来?我都担心死了。",
+    "pinyin": "Nǐ zěn me zhè me wǎn cái huí lái? wǒ dōu dān xīn sǐ le。",
+    "en": "Why are you back so late? I was worried sick."
+   },
+   {
+    "zh": "这道题到底怎么做?我怎么想都想不明白。",
+    "pinyin": "Zhè dào tí dào dǐ zěn me zuò? wǒ zěn me xiǎng dōu xiǎng bù míng bái。",
+    "en": "How on earth is this problem done? I just can't figure it out."
+   },
+   {
+    "zh": "你脸色这么难看,是怎么了?哪儿不舒服?",
+    "pinyin": "Nǐ liǎn sè zhè me nán kàn, shì zěn me le? nǎ ér bù shū fú?",
+    "en": "You look terrible; what's wrong? Where does it hurt?"
+   },
+   {
+    "zh": "这么重要的会议,他怎么会忘得一干二净?",
+    "pinyin": "Zhè me zhòng yào de huì yì, tā zěn me huì wàng de yī gān èr jìng?",
+    "en": "Such an important meeting — how could he forget it completely?"
+   },
+   {
+    "zh": "你怎么知道我今天要来?是谁告诉你的?",
+    "pinyin": "Nǐ zěn me zhī dào wǒ jīn tiān yào lái? shì shuí gào sù nǐ de?",
+    "en": "How did you know I'd come today? Who told you?"
+   },
+   {
+    "zh": "外面下这么大的雨,你怎么不带伞就出门了?",
+    "pinyin": "Wài miàn xià zhè me dà de yǔ, nǐ zěn me bù dài sǎn jiù chū mén le?",
+    "en": "It's raining so hard; how did you go out without an umbrella?"
+   },
+   {
+    "zh": "请问,从这里到火车站怎么走最近?",
+    "pinyin": "Qǐng wèn, cóng zhè lǐ dào huǒ chē zhàn zěn me zǒu zuì jìn?",
+    "en": "Excuse me, what's the shortest way from here to the train station?"
+   },
+   {
+    "zh": "他平时那么准时,今天怎么迟到了?",
+    "pinyin": "Tā píng shí nà me zhǔn shí, jīn tiān zěn me chí dào le?",
+    "en": "He's usually so punctual; how come he's late today?"
+   },
+   {
+    "zh": "这个字我总是写错,到底应该怎么写?",
+    "pinyin": "Zhè ge zì wǒ zǒng shì xiě cuò, dào dǐ yīng gāi zěn me xiě?",
+    "en": "I always write this character wrong; how exactly should it be written?"
+   },
+   {
+    "zh": "你们怎么突然吵起来了?刚才不是还好好的吗?",
+    "pinyin": "Nǐ men zěn me tū rán chǎo qǐ lái le? gāng cái bú shì hái hǎo hǎo de ma?",
+    "en": "How did you two suddenly start arguing? Weren't you fine just now?"
+   },
+   {
+    "zh": "这么好的机会,你怎么能轻易放弃呢?",
+    "pinyin": "Zhè me hǎo de jī huì, nǐ zěn me néng qīng yì fàng qì ne?",
+    "en": "Such a good opportunity — how can you give it up so easily?"
+   },
+   {
+    "zh": "我的手机怎么突然打不开了?是不是坏了?",
+    "pinyin": "Wǒ de shǒu jī zěn me tū rán dǎ bù kāi le? shì bú shì huài le?",
+    "en": "How did my phone suddenly stop turning on? Is it broken?"
+   },
+   {
+    "zh": "你怎么一个人在这儿?你的朋友们呢?",
+    "pinyin": "Nǐ zěn me yí gè rén zài zhè ér? nǐ de péng yǒu men ne?",
+    "en": "Why are you here alone? Where are your friends?"
+   },
+   {
+    "zh": "这件事怎么会闹成这样?到底是谁的错?",
+    "pinyin": "Zhè jiàn shì zěn me huì nào chéng zhè yàng? dào dǐ shì shéi de cuò?",
+    "en": "How did this blow up like this? Whose fault is it?"
+   },
+   {
+    "zh": "你怎么不早点告诉我?现在才说来不及了。",
+    "pinyin": "Nǐ zěn me bù zǎo diǎn gào sù wǒ? xiàn zài cái shuō lái bù jí le。",
+    "en": "Why didn't you tell me sooner? It's too late to say now."
+   },
+   {
+    "zh": "这个机器怎么用?你能不能教教我?",
+    "pinyin": "Zhè ge jī qì zěn me yòng? nǐ néng bù néng jiào jiào wǒ?",
+    "en": "How is this machine used? Could you teach me?"
+   },
+   {
+    "zh": "孩子怎么突然哭了?是不是摔疼了?",
+    "pinyin": "Hái zi zěn me tū rán kū le? shì bú shì shuāi téng le?",
+    "en": "Why did the child suddenly cry? Did he hurt himself falling?"
+   },
+   {
+    "zh": "你怎么瘦了这么多?最近是不是太累了?",
+    "pinyin": "Nǐ zěn me shòu le zhè me duō? zuì jìn shì bú shì tài lèi le?",
+    "en": "How did you lose so much weight? Have you been too tired lately?"
+   },
+   {
+    "zh": "这么简单的事,你怎么会做错呢?",
+    "pinyin": "Zhè me jiǎn dān de shì, nǐ zěn me huì zuò cuò ne?",
+    "en": "Such a simple thing — how could you get it wrong?"
+   },
+   {
+    "zh": "天已经黑了,他一个人怎么回家啊?",
+    "pinyin": "Tiān yǐ jīng hēi le, tā yí gè rén zěn me huí jiā a?",
+    "en": "It's already dark; how will he get home alone?"
+   },
+   {
+    "zh": "你怎么又迟到了?这已经是这个星期第三次了。",
+    "pinyin": "Nǐ zěn me yòu chí dào le? zhè yǐ jīng shì zhè ge xīng qī dì sān cì le。",
+    "en": "How are you late again? This is the third time this week."
+   },
+   {
+    "zh": "这么大的房间,你一个人怎么打扫得过来?",
+    "pinyin": "Zhè me dà de fáng jiān, nǐ yí gè rén zěn me dǎ sǎo de guò lái?",
+    "en": "Such a big room — how can you clean it all by yourself?"
+   },
+   {
+    "zh": "他怎么会说出这样的话?一点儿都不像他。",
+    "pinyin": "Tā zěn me huì shuō chū zhè yàng de huà? yì diǎn ér dōu bù xiàng tā。",
+    "en": "How could he say such a thing? It's not like him at all."
+   },
+   {
+    "zh": "你的手怎么了?怎么受伤了?疼不疼?",
+    "pinyin": "Nǐ de shǒu zěn me le? zěn me shòu shāng le? téng bù téng?",
+    "en": "What happened to your hand? How did you get hurt? Does it hurt?"
+   },
+   {
+    "zh": "这件事真让人头疼,咱们到底该怎么办?",
+    "pinyin": "Zhè jiàn shì zhēn ràng rén tóu téng, zán men dào dǐ gāi zěn me bàn?",
+    "en": "This is really a headache; what on earth should we do?"
+   }
+  ]
+ },
+ {
+  "id": "g132",
+  "level": 2,
+  "title": "\"了吗\" ile tamamlanma sorusu",
+  "titleEn": "Questions with \"le ma\"",
+  "pattern": "Fiil + 了 + 吗？",
+  "summary": "\"...了吗?\" bir eylemin gerçekleşip gerçekleşmediğini sorar: 你吃饭了吗? = Yemek yedin mi?",
+  "explanation": "Bir eylemin ARTIK gerçekleşip gerçekleşmediğini sormak için cümle sonuna \"了吗?\" gelir: Fiil + 了 + 吗? — 你吃饭了吗? (Yemek yedin mi?), 他走了吗? (Gitti mi?), 作业写完了吗? (Ödevi bitirdin mi?). Buradaki \"了\" tamamlanmayı, \"吗\" ise evet/hayır sorusunu kurar. Olumlu cevap: 吃了 (yedim); olumsuz cevap \"没有\" ile ve \"了\" düşerek verilir: 还没吃 (henüz yemedim). Yani soru \"了吗\" ile kurulsa da olumsuz yanıtta \"了\" kullanılMAZ. Türkçedeki \"...-di mi?\" sorusuna denk gelir ve bir işin bitip bitmediğini öğrenmenin en yaygın yoludur.",
+  "examples": [
+   {
+    "zh": "你吃晚饭了吗?没吃的话一起去吃点儿吧。",
+    "pinyin": "Nǐ chī wǎn fàn le ma? méi chī de huà yì qǐ qù chī diǎn ér ba。",
+    "en": "Have you had dinner? If not, let's go eat something together."
+   },
+   {
+    "zh": "我上次借你的那本书,你看完了吗?",
+    "pinyin": "Wǒ shàng cì jiè nǐ de nà běn shū, nǐ kàn wán le ma?",
+    "en": "Have you finished the book I lent you last time?"
+   },
+   {
+    "zh": "老师留的作业你都做完了吗?明天要交。",
+    "pinyin": "Lǎo shī liú de zuò yè nǐ dōu zuò wán le ma? míng tiān yào jiāo。",
+    "en": "Have you finished all the homework the teacher assigned? It's due tomorrow."
+   },
+   {
+    "zh": "火车票你买到了吗?周末的可不太好买。",
+    "pinyin": "Huǒ chē piào nǐ mǎi dào le ma? zhōu mò de kě bù tài hǎo mǎi。",
+    "en": "Did you manage to buy the train ticket? Weekend ones are hard to get."
+   },
+   {
+    "zh": "你把窗户关好了吗?外面好像要下雨了。",
+    "pinyin": "Nǐ bǎ chuāng hù guān hǎo le ma? wài miàn hǎo xiàng yào xià yǔ le。",
+    "en": "Did you close the windows? It looks like it's going to rain."
+   },
+   {
+    "zh": "会议的通知你收到了吗?时间改到下午三点了。",
+    "pinyin": "Huì yì de tōng zhī nǐ shōu dào le ma? shí jiān gǎi dào xià wǔ sān diǎn le。",
+    "en": "Did you get the meeting notice? It's moved to three in the afternoon."
+   },
+   {
+    "zh": "你跟他说清楚了吗?他到底同不同意?",
+    "pinyin": "Nǐ gēn tā shuō qīng chǔ le ma? tā dào dǐ tóng bù tóng yì?",
+    "en": "Did you make it clear to him? Does he agree or not?"
+   },
+   {
+    "zh": "药你按时吃了吗?可别忘了,身体要紧。",
+    "pinyin": "Yào nǐ àn shí chī le ma? kě bié wàng le, shēn tǐ yào jǐn。",
+    "en": "Did you take your medicine on time? Don't forget; your health matters."
+   },
+   {
+    "zh": "你们商量好了吗?到底去还是不去?",
+    "pinyin": "Nǐ men shāng liáng hǎo le ma? dào dǐ qù hái shì bù qù?",
+    "en": "Have you two decided? Are we going or not?"
+   },
+   {
+    "zh": "孩子睡着了吗?睡着了咱们就小声点儿说话。",
+    "pinyin": "Hái zi shuì zháo le ma? shuì zháo le zán men jiù xiǎo shēng diǎn ér shuō huà。",
+    "en": "Has the child fallen asleep? If so, let's keep our voices down."
+   },
+   {
+    "zh": "你把行李收拾好了吗?出租车马上就到了。",
+    "pinyin": "Nǐ bǎ xíng lǐ shōu shí hǎo le ma? chū zū chē mǎ shàng jiù dào le。",
+    "en": "Have you packed your luggage? The taxi is almost here."
+   },
+   {
+    "zh": "这件事你告诉爸妈了吗?他们知道了会很高兴的。",
+    "pinyin": "Zhè jiàn shì nǐ gào sù bà mā le ma? tā men zhī dào le huì hěn gāo xìng de。",
+    "en": "Have you told your parents about this? They'd be happy to know."
+   },
+   {
+    "zh": "你报名参加比赛了吗?截止日期就是今天。",
+    "pinyin": "Nǐ bào míng cān jiā bǐ sài le ma? jié zhǐ rì qī jiù shì jīn tiān。",
+    "en": "Did you sign up for the competition? Today is the deadline."
+   },
+   {
+    "zh": "上次那个问题你搞懂了吗?还需要我再讲一遍吗?",
+    "pinyin": "Shàng cì nà ge wèn tí nǐ gǎo dǒng le ma? hái xū yào wǒ zài jiǎng yī biàn ma?",
+    "en": "Did you understand that problem? Do you need me to explain again?"
+   },
+   {
+    "zh": "你们到家了吗?路上开车一定要小心。",
+    "pinyin": "Nǐ men dào jiā le ma? lù shàng kāi chē yí dìng yào xiǎo xīn。",
+    "en": "Have you reached home? Do drive carefully on the way."
+   },
+   {
+    "zh": "信寄出去了吗?他应该很快就能收到。",
+    "pinyin": "Xìn jì chū qù le ma? tā yīng gāi hěn kuài jiù néng shōu dào。",
+    "en": "Has the letter been sent? He should receive it soon."
+   },
+   {
+    "zh": "你把钱还给他了吗?别让人家一直等着。",
+    "pinyin": "Nǐ bǎ qián huán gěi tā le ma? bié ràng rén jiā yì zhí děng zhe。",
+    "en": "Have you paid him back? Don't keep him waiting."
+   },
+   {
+    "zh": "你尝过这家的招牌菜了吗?味道特别地道。",
+    "pinyin": "Nǐ cháng guò zhè jiā de zhāo pái cài le ma? wèi dào tè bié dì dào。",
+    "en": "Have you tried this place's signature dish? It's very authentic."
+   },
+   {
+    "zh": "暖气开了吗?我怎么觉得屋里还是有点凉。",
+    "pinyin": "Nuǎn qì kāi le ma? wǒ zěn me jué de wū lǐ hái shì yǒu diǎn liáng。",
+    "en": "Is the heating on? The room still feels a bit cold to me."
+   },
+   {
+    "zh": "你给花浇水了吗?这两天太阳大,它可别干了。",
+    "pinyin": "Nǐ gěi huā jiāo shuǐ le ma? zhè liǎng tiān tài yáng dà, tā kě bié gàn le。",
+    "en": "Did you water the flowers? It's sunny lately; they mustn't dry out."
+   },
+   {
+    "zh": "那部大家都在讨论的电影,你看了吗?",
+    "pinyin": "Nà bù dà jiā dōu zài tǎo lùn de diàn yǐng, nǐ kàn le ma?",
+    "en": "Have you seen that movie everyone's talking about?"
+   },
+   {
+    "zh": "你把这个好消息告诉大家了吗?他们肯定很激动。",
+    "pinyin": "Nǐ bǎ zhè ge hǎo xiāo xī gào sù dà jiā le ma? tā men kěn dìng hěn jī dòng。",
+    "en": "Have you told everyone the good news? They'll surely be thrilled."
+   },
+   {
+    "zh": "客人都到齐了吗?到齐了我们就可以开饭了。",
+    "pinyin": "Kè rén dōu dào qí le ma? dào qí le wǒ men jiù kě yǐ kāi fàn le。",
+    "en": "Have all the guests arrived? Once they have, we can start the meal."
+   },
+   {
+    "zh": "你决定好了吗?这件事可不能再拖了。",
+    "pinyin": "Nǐ jué dìng hǎo le ma? zhè jiàn shì kě bù néng zài tuō le。",
+    "en": "Have you decided? This can't be put off any longer."
+   },
+   {
+    "zh": "你上班的第一天过得怎么样,都适应了吗?",
+    "pinyin": "Nǐ shàng bān de dì yī tiān guò de zěn me yàng, dōu shì yìng le ma?",
+    "en": "How was your first day at work? Have you settled in?"
+   }
+  ]
+ },
+ {
+  "id": "g133",
+  "level": 2,
+  "title": "\"因为...所以...\" ile neden-sonuç",
+  "titleEn": "Cause and effect with \"yinwei\" and \"suoyi\"",
+  "pattern": "因为 ...，所以 ...",
+  "summary": "\"因为...所以...\" (yīnwèi...suǒyǐ...) sebep ve sonucu bağlar: 因为下雨,所以我们没去 = Yağmur yağdığı için gitmedik.",
+  "explanation": "Neden-sonuç ilişkisi için ikili bağlaç kullanılır: 因为 (çünkü/...-dığı için) sebebi, 所以 (bu yüzden/o yüzden) sonucu verir. 因为今天下雨,所以我们没去公园 (Bugün yağmur yağdığı için parka gitmedik). Türkçenin aksine Çince'de İKİ bağlacın BİRLİKTE kullanılması normaldir, yanlış değildir. Duruma göre biri düşebilir: sadece \"因为...\" ya da sadece \"所以...\" da kurulabilir. Sıra genellikle önce sebep (因为), sonra sonuç (所以) biçimindedir. Kısa konuşmada sebebi sona da atabilirsiniz: 我没去,因为下雨了. Sebep sorusu \"为什么\" ile sorulur, cevabı çoğu zaman \"因为...\" ile başlar.",
+  "examples": [
+   {
+    "zh": "因为今天下大雨,所以我们取消了原来的野餐计划。",
+    "pinyin": "Yīn wèi jīn tiān xià dà yǔ, suǒ yǐ wǒ men qǔ xiāo le yuán lái de yě cān jì huà。",
+    "en": "Because it rained hard today, we canceled our picnic plans."
+   },
+   {
+    "zh": "因为他工作很努力,所以很快就得到了大家的认可。",
+    "pinyin": "Yīn wèi tā gōng zuò hěn nǔ lì, suǒ yǐ hěn kuài jiù dé dào le dà jiā de rèn kě。",
+    "en": "Because he works hard, he soon earned everyone's recognition."
+   },
+   {
+    "zh": "因为路上堵车,所以我比约定的时间晚到了半个小时。",
+    "pinyin": "Yīn wèi lù shàng dǔ chē, suǒ yǐ wǒ bǐ yuē dìng de shí jiān wǎn dào le bàn gè xiǎo shí。",
+    "en": "Because of traffic, I arrived half an hour later than agreed."
+   },
+   {
+    "zh": "因为妈妈生病了,所以这几天都是爸爸在做饭。",
+    "pinyin": "Yīn wèi mā mā shēng bìng le, suǒ yǐ zhè jǐ tiān dōu shì bà bà zài zuò fàn。",
+    "en": "Because mom is ill, dad has been cooking these past few days."
+   },
+   {
+    "zh": "因为这家店的东西又好又便宜,所以顾客特别多。",
+    "pinyin": "Yīn wèi zhè jiā diàn de dōng xī yòu hǎo yòu pián yi, suǒ yǐ gù kè tè bié duō。",
+    "en": "Because this shop's goods are good and cheap, it has many customers."
+   },
+   {
+    "zh": "因为从小在海边长大,所以他特别喜欢大海。",
+    "pinyin": "Yīn wèi cóng xiǎo zài hǎi biān zhǎng dà, suǒ yǐ tā tè bié xǐ huān dà hǎi。",
+    "en": "Because he grew up by the sea, he especially loves the ocean."
+   },
+   {
+    "zh": "因为准备得很充分,所以这次面试他一点儿都不紧张。",
+    "pinyin": "Yīn wèi zhǔn bèi de hěn chōng fèn, suǒ yǐ zhè cì miàn shì tā yì diǎn ér dōu bù jǐn zhāng。",
+    "en": "Because he prepared thoroughly, he wasn't nervous at the interview."
+   },
+   {
+    "zh": "因为天气太冷,所以公园里几乎看不到什么人。",
+    "pinyin": "Yīn wèi tiān qì tài lěng, suǒ yǐ gōng yuán lǐ jī hū kàn bú dào shén me rén。",
+    "en": "Because it was too cold, there was hardly anyone in the park."
+   },
+   {
+    "zh": "因为他说话很幽默,所以身边总是围着很多朋友。",
+    "pinyin": "Yīn wèi tā shuō huà hěn yōu mò, suǒ yǐ shēn biān zǒng shì wéi zhe hěn duō péng yǒu。",
+    "en": "Because he's funny, he's always surrounded by friends."
+   },
+   {
+    "zh": "因为这条路正在修,所以我们只好绕了一大圈。",
+    "pinyin": "Yīn wèi zhè tiáo lù zhèng zài xiū, suǒ yǐ wǒ men zhǐ hǎo rào le yī dà quān。",
+    "en": "Because this road is under repair, we had to take a big detour."
+   },
+   {
+    "zh": "因为孩子还小,所以父母走到哪儿都得带着他。",
+    "pinyin": "Yīn wèi hái zi hái xiǎo, suǒ yǐ fù mǔ zǒu dào nǎ ér dōu de dài zhe tā。",
+    "en": "Because the child is young, the parents take him everywhere."
+   },
+   {
+    "zh": "因为我不太舒服,所以今天就不陪你去逛街了。",
+    "pinyin": "Yīn wèi wǒ bù tài shū fú, suǒ yǐ jīn tiān jiù bù péi nǐ qù guàng jiē le。",
+    "en": "Because I'm not feeling well, I won't go shopping with you today."
+   },
+   {
+    "zh": "因为他从来不迟到,所以大家都很信任他。",
+    "pinyin": "Yīn wèi tā cóng lái bù chí dào, suǒ yǐ dà jiā dōu hěn xìn rèn tā。",
+    "en": "Because he's never late, everyone trusts him."
+   },
+   {
+    "zh": "因为这次考得不理想,所以他决定更加努力。",
+    "pinyin": "Yīn wèi zhè cì kǎo de bù lǐ xiǎng, suǒ yǐ tā jué dìng gèng jiā nǔ lì。",
+    "en": "Because he didn't do well this time, he decided to try even harder."
+   },
+   {
+    "zh": "因为家离公司太远,所以他打算搬到附近去住。",
+    "pinyin": "Yīn wèi jiā lí gōng sī tài yuǎn, suǒ yǐ tā dǎ suàn bān dào fù jìn qù zhù。",
+    "en": "Because home is too far from work, he plans to move nearby."
+   },
+   {
+    "zh": "因为下雪了,所以很多航班都晚点或者取消了。",
+    "pinyin": "Yīn wèi xià xuě le, suǒ yǐ hěn duō háng bān dōu wǎn diǎn huò zhě qǔ xiāo le。",
+    "en": "Because it snowed, many flights were delayed or canceled."
+   },
+   {
+    "zh": "因为她特别爱干净,所以家里总是收拾得一尘不染。",
+    "pinyin": "Yīn wèi tā tè bié ài gān jìng, suǒ yǐ jiā lǐ zǒng shì shōu shí de yī chén bù rǎn。",
+    "en": "Because she loves cleanliness, her home is always spotless."
+   },
+   {
+    "zh": "因为这本书太有意思了,所以我一口气就读完了。",
+    "pinyin": "Yīn wèi zhè běn shū tài yǒu yì si le, suǒ yǐ wǒ yì kǒu qì jiù dú wán le。",
+    "en": "Because this book was so interesting, I finished it in one go."
+   },
+   {
+    "zh": "因为大家齐心协力,所以任务提前完成了。",
+    "pinyin": "Yīn wèi dà jiā qí xīn xié lì, suǒ yǐ rèn wù tí qián wán chéng le。",
+    "en": "Because everyone worked together, the task was finished early."
+   },
+   {
+    "zh": "因为他误会了我的意思,所以生了好几天的气。",
+    "pinyin": "Yīn wèi tā wù huì le wǒ de yì si, suǒ yǐ shēng le hǎo jǐ tiān de qì。",
+    "en": "Because he misunderstood me, he was angry for several days."
+   },
+   {
+    "zh": "因为时间实在太紧,所以有些细节我们没来得及检查。",
+    "pinyin": "Yīn wèi shí jiān shí zài tài jǐn, suǒ yǐ yǒu xiē xì jié wǒ men méi lái de jí jiǎn chá。",
+    "en": "Because time was tight, we didn't get to check some details."
+   },
+   {
+    "zh": "因为这里的空气好、环境安静,所以很适合养老。",
+    "pinyin": "Yīn wèi zhè lǐ de kōng qì hǎo、 huán jìng ān jìng, suǒ yǐ hěn shì hé yǎng lǎo。",
+    "en": "Because the air is good and quiet here, it's ideal for retirement."
+   },
+   {
+    "zh": "因为我从小怕水,所以到现在都不会游泳。",
+    "pinyin": "Yīn wèi wǒ cóng xiǎo pà shuǐ, suǒ yǐ dào xiàn zài dōu bú huì yóu yǒng。",
+    "en": "Because I've feared water since childhood, I still can't swim."
+   },
+   {
+    "zh": "因为他懂好几门外语,所以公司常派他出国。",
+    "pinyin": "Yīn wèi tā dǒng hǎo jǐ mén wài yǔ, suǒ yǐ gōng sī cháng pài tā chū guó。",
+    "en": "Because he knows several languages, the company often sends him abroad."
+   },
+   {
+    "zh": "因为那天我们聊得太投机,所以不知不觉就到了半夜。",
+    "pinyin": "Yīn wèi nà tiān wǒ men liáo de tài tóu jī, suǒ yǐ bù zhī bù jué jiù dào le bàn yè。",
+    "en": "Because we talked so well that day, it was midnight before we knew it."
+   }
+  ]
+ },
+ {
+  "id": "g134",
+  "level": 2,
+  "title": "\"快...了\" ile yakın gelecek",
+  "titleEn": "Expressing \"about to happen\" with \"le\"",
+  "pattern": "快 + Fiil / Sıfat + 了",
+  "summary": "\"快...了\" (kuài...le) bir şeyin BİRAZDAN olacağını bildirir: 快下雨了 = Neredeyse yağmur yağacak; 火车快到了 = Tren birazdan gelecek.",
+  "explanation": "Bir olayın çok yakında gerçekleşeceğini bildirmek için \"快 + fiil/sıfat + 了\" kalıbı kullanılır: 天快黑了 (Hava birazdan kararacak), 我们快到了 (Neredeyse vardık), 他快来了 (Birazdan gelir). \"快\" \"neredeyse, birazdan\" anlamını, cümle sonundaki \"了\" ise yaklaşan değişimi verir. \"快要...了\" ve \"就要...了\" biçimleri de aynı anlamı taşır; \"就要...了\" belirli bir zamanla da kullanılabilir (明天就要考试了), oysa \"快...了\" genelde belirli zaman almaz. Türkçedeki \"neredeyse, az kaldı, birazdan\" ifadelerine denk gelir ve yakın geleceği anlatmanın en doğal yoludur.",
+  "examples": [
+   {
+    "zh": "你快点儿,电影快开始了,别错过了开头。",
+    "pinyin": "Nǐ kuài diǎn ér, diàn yǐng kuài kāi shǐ le, bié cuò guò le kāi tóu。",
+    "en": "Hurry up; the movie is about to start, don't miss the beginning."
+   },
+   {
+    "zh": "天快黑了,我们得赶紧下山,不然就危险了。",
+    "pinyin": "Tiān kuài hēi le, wǒ men děi gǎn jǐn xià shān, bù rán jiù wēi xiǎn le。",
+    "en": "It's about to get dark; we must hurry down or it'll be dangerous."
+   },
+   {
+    "zh": "再坚持一下,我们快到山顶了,加把劲!",
+    "pinyin": "Zài jiān chí yī xià, wǒ men kuài dào shān dǐng le, jiā bǎ jìn!",
+    "en": "Hold on a bit more; we're almost at the summit, keep it up!"
+   },
+   {
+    "zh": "你看那乌云,估计快下雨了,快收衣服吧。",
+    "pinyin": "Nǐ kàn nà wū yún, gū jì kuài xià yǔ le, kuài shōu yī fú ba。",
+    "en": "Look at those clouds; it's probably about to rain, bring in the laundry."
+   },
+   {
+    "zh": "孩子快睡着了,你们说话小声一点儿。",
+    "pinyin": "Hái zi kuài shuì zháo le, nǐ men shuō huà xiǎo shēng yì diǎn ér。",
+    "en": "The child is about to fall asleep; keep your voices down."
+   },
+   {
+    "zh": "水快开了,你把面条准备好,一会儿就下锅。",
+    "pinyin": "Shuǐ kuài kāi le, nǐ bǎ miàn tiáo zhǔn bèi hǎo, yī huì er jiù xià guō。",
+    "en": "The water's about to boil; get the noodles ready to add soon."
+   },
+   {
+    "zh": "春节快到了,街上到处都是买年货的人。",
+    "pinyin": "Chūn jié kuài dào le, jiē shàng dào chù dōu shì mǎi nián huò de rén。",
+    "en": "The Spring Festival is almost here; the streets are full of shoppers."
+   },
+   {
+    "zh": "他快回来了,咱们把桌子收拾一下,准备吃饭。",
+    "pinyin": "Tā kuài huí lái le, zán men bǎ zhuō zi shōu shí yī xià, zhǔn bèi chī fàn。",
+    "en": "He'll be back soon; let's tidy the table and get ready to eat."
+   },
+   {
+    "zh": "我的手机快没电了,你先挂了,回头我再打给你。",
+    "pinyin": "Wǒ de shǒu jī kuài méi diàn le, nǐ xiān guà le, huí tóu wǒ zài dǎ gěi nǐ。",
+    "en": "My phone's about to die; hang up first, I'll call you back."
+   },
+   {
+    "zh": "这本书我快看完了,再有几页就到结局了。",
+    "pinyin": "Zhè běn shū wǒ kuài kàn wán le, zài yǒu jǐ yè jiù dào jié jú le。",
+    "en": "I'm almost finished with this book; a few more pages to the end."
+   },
+   {
+    "zh": "你别催了,饭快做好了,再等五分钟。",
+    "pinyin": "Nǐ bié cuī le, fàn kuài zuò hǎo le, zài děng wǔ fēn zhōng。",
+    "en": "Stop rushing; the meal's almost ready, wait another five minutes."
+   },
+   {
+    "zh": "时间快到了,还没答完的同学要抓紧了。",
+    "pinyin": "Shí jiān kuài dào le, hái méi dá wán de tóng xué yào zhuā jǐn le。",
+    "en": "Time's almost up; students who haven't finished should hurry."
+   },
+   {
+    "zh": "我们认识快十年了,感情一直特别好。",
+    "pinyin": "Wǒ men rèn shí kuài shí nián le, gǎn qíng yì zhí tè bié hǎo。",
+    "en": "We've known each other for nearly ten years; we've always been close."
+   },
+   {
+    "zh": "太阳快落山了,天边的云被染成了金色。",
+    "pinyin": "Tài yáng kuài luò shān le, tiān biān de yún bèi rǎn chéng le jīn sè。",
+    "en": "The sun is about to set, and the clouds are dyed gold."
+   },
+   {
+    "zh": "你别担心,他的病快好了,再养几天就没事了。",
+    "pinyin": "Nǐ bié dān xīn, tā de bìng kuài hǎo le, zài yǎng jǐ tiān jiù méi shì le。",
+    "en": "Don't worry; he's almost recovered, a few more days and he'll be fine."
+   },
+   {
+    "zh": "公交车快来了,咱们赶紧到站台那边去等。",
+    "pinyin": "Gōng jiāo chē kuài lái le, zán men gǎn jǐn dào zhàn tái nà biān qù děng。",
+    "en": "The bus is coming soon; let's hurry to the platform to wait."
+   },
+   {
+    "zh": "孩子快上小学了,当爸妈的既高兴又有点担心。",
+    "pinyin": "Hái zi kuài shàng xiǎo xué le, dāng bà mā de jì gāo xìng yòu yǒu diǎn dān xīn。",
+    "en": "The child is about to start primary school; the parents are happy yet worried."
+   },
+   {
+    "zh": "这场比赛快结束了,双方还是不分上下。",
+    "pinyin": "Zhè chǎng bǐ sài kuài jié shù le, shuāng fāng hái shì bù fēn shàng xià。",
+    "en": "This match is about to end, and the two sides are still tied."
+   },
+   {
+    "zh": "天快亮了,忙了一夜的他终于可以休息了。",
+    "pinyin": "Tiān kuài liàng le, máng le yī yè de tā zhōng yú kě yǐ xiū xī le。",
+    "en": "Dawn is near; after a busy night he can finally rest."
+   },
+   {
+    "zh": "我们快到家了,你把行李慢慢收拾一下吧。",
+    "pinyin": "Wǒ men kuài dào jiā le, nǐ bǎ xíng lǐ màn màn shōu shí yī xià ba。",
+    "en": "We're almost home; slowly get your luggage together."
+   },
+   {
+    "zh": "这些水果快坏了,你今天最好都吃掉。",
+    "pinyin": "Zhè xiē shuǐ guǒ kuài huài le, nǐ jīn tiān zuì hǎo dōu chī diào。",
+    "en": "This fruit is about to go bad; you'd better eat it all today."
+   },
+   {
+    "zh": "他快要毕业了,正在到处找工作。",
+    "pinyin": "Tā kuài yào bì yè le, zhèng zài dào chù zhǎo gōng zuò。",
+    "en": "He's about to graduate and is looking for jobs everywhere."
+   },
+   {
+    "zh": "暑假快结束了,作业你完成得怎么样了?",
+    "pinyin": "Shǔ jià kuài jié shù le, zuò yè nǐ wán chéng de zěn me yàng le?",
+    "en": "Summer break is almost over; how's your homework coming along?"
+   },
+   {
+    "zh": "奶奶快八十岁了,身体还是那么硬朗。",
+    "pinyin": "Nǎi nǎi kuài bā shí suì le, shēn tǐ hái shì nà me yìng lǎng。",
+    "en": "Grandma is almost eighty, yet still so robust."
+   },
+   {
+    "zh": "眼看就快轮到我们了,你把票和证件准备好。",
+    "pinyin": "Yǎn kàn jiù kuài lún dào wǒ men le, nǐ bǎ piào hé zhèng jiàn zhǔn bèi hǎo。",
+    "en": "It'll be our turn soon; get the tickets and documents ready."
+   }
+  ]
+ },
+ {
+  "id": "g135",
+  "level": 2,
+  "title": "\"什么都/也\" ile \"her şey / hiçbir şey\"",
+  "titleEn": "Expressing \"everything\" with \"shenme dou\"",
+  "pattern": "什么 + 都 / 也 + ...",
+  "summary": "\"什么都/也\" bir soru sözcüğünü genelleştirir: olumluyla \"her şey\", olumsuzla \"hiçbir şey\": 什么都知道 = her şeyi bilir; 什么都不怕 = hiçbir şeyden korkmaz.",
+  "explanation": "Soru sözcüğü \"什么\" (ne), ardından \"都\" ya da \"也\" gelince SORU anlamını yitirip GENELLEME yapar: \"her şey / hiçbir şey\". Olumlu yüklemle \"her şey\": 他什么都懂 (O her şeyi bilir), 什么都可以 (Her şey olur). Olumsuz yüklemle \"hiçbir şey\": 我什么都不想吃 (Hiçbir şey yemek istemiyorum), 他什么也没说 (Hiçbir şey söylemedi). \"都\" ve \"也\" yüklemden önce gelir ve genellemeyi tamamlar. Aynı kalıp başka soru sözcükleriyle de işler: 谁都 (herkes), 哪儿都 (her yer), 怎么都 (nasıl olursa olsun). Türkçedeki \"ne varsa hepsi / hiçbir şey\" mantığına denk gelir; kapsamlı olumlama ya da olumsuzlama yapmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "他见多识广,好像什么都知道,问他准没错。",
+    "pinyin": "Tā jiàn duō shí guǎng, hǎo xiàng shén me dōu zhī dào, wèn tā zhǔn méi cuò。",
+    "en": "He's well-informed and seems to know everything; ask him and you can't go wrong."
+   },
+   {
+    "zh": "我今天一点儿胃口都没有,什么都不想吃。",
+    "pinyin": "Wǒ jīn tiān yì diǎn ér wèi kǒu dōu méi yǒu, shén me dōu bù xiǎng chī。",
+    "en": "I have no appetite today; I don't want to eat anything."
+   },
+   {
+    "zh": "只要一家人在一起,吃什么都觉得香。",
+    "pinyin": "Zhǐ yào yī jiā rén zài yì qǐ, chī shén me dōu jué de xiāng。",
+    "en": "As long as the family is together, anything tastes good."
+   },
+   {
+    "zh": "他吓得脸色发白,半天什么也说不出来。",
+    "pinyin": "Tā xià de liǎn sè fā bái, bàn tiān shén me yě shuō bù chū lái。",
+    "en": "He turned pale with fright and couldn't say anything for a long while."
+   },
+   {
+    "zh": "这孩子胆子真大,好像什么都不怕。",
+    "pinyin": "Zhè hái zi dǎn zi zhēn dà, hǎo xiàng shén me dōu bù pà。",
+    "en": "This child is really brave; he seems afraid of nothing."
+   },
+   {
+    "zh": "发生了这么大的事,他居然什么都不知道。",
+    "pinyin": "Fā shēng le zhè me dà de shì, tā jū rán shén me dōu bù zhī dào。",
+    "en": "Such a big thing happened, yet he knew nothing about it."
+   },
+   {
+    "zh": "你放心,这件事我什么都会替你安排好。",
+    "pinyin": "Nǐ fàng xīn, zhè jiàn shì wǒ shén me dū huì tì nǐ ān pái hǎo。",
+    "en": "Rest assured; I'll arrange everything for you."
+   },
+   {
+    "zh": "他刚搬来,人生地不熟,什么都得慢慢适应。",
+    "pinyin": "Tā gāng bān lái, rén shēng de bù shú, shén me dōu de màn màn shì yìng。",
+    "en": "He just moved here and knows no one; he has to adjust to everything."
+   },
+   {
+    "zh": "只要你开心,做什么我都支持你。",
+    "pinyin": "Zhǐ yào nǐ kāi xīn, zuò shén me wǒ dōu zhī chí nǐ。",
+    "en": "As long as you're happy, I'll support you in anything you do."
+   },
+   {
+    "zh": "那天他心情很差,谁问他什么都不搭理。",
+    "pinyin": "Nà tiān tā xīn qíng hěn chà, shuí wèn tā shén me dōu bù dā lǐ。",
+    "en": "He was in a bad mood that day and ignored everyone's questions."
+   },
+   {
+    "zh": "这家超市东西很全,你要买什么这儿都有。",
+    "pinyin": "Zhè jiā chāo shì dōng xī hěn quán, nǐ yào mǎi shén me zhè ér dōu yǒu。",
+    "en": "This supermarket is well-stocked; whatever you want to buy, it's here."
+   },
+   {
+    "zh": "他病了以后,什么都吃不下,人瘦了一大圈。",
+    "pinyin": "Tā bìng le yǐ hòu, shén me dōu chī bù xià, rén shòu le yī dà quān。",
+    "en": "After falling ill, he couldn't eat anything and grew much thinner."
+   },
+   {
+    "zh": "别看他年纪小,家里的活儿他什么都会干。",
+    "pinyin": "Bié kàn tā nián jì xiǎo, jiā lǐ de huó er tā shén me dū huì gàn。",
+    "en": "Don't be fooled by his young age; he can do all the housework."
+   },
+   {
+    "zh": "我当时太紧张了,脑子一片空白,什么也想不起来。",
+    "pinyin": "Wǒ dāng shí tài jǐn zhāng le, nǎo zi yí piàn kòng bái, shén me yě xiǎng bù qǐ lái。",
+    "en": "I was so nervous my mind went blank; I couldn't remember anything."
+   },
+   {
+    "zh": "只要肯下功夫,什么都能学得会。",
+    "pinyin": "Zhǐ yào kěn xià gōng fū, shén me dōu néng xué de huì。",
+    "en": "As long as you put in the effort, you can learn anything."
+   },
+   {
+    "zh": "那段最困难的日子,他什么苦都吃过了。",
+    "pinyin": "Nà duàn zuì kùn nán de rì zi, tā shén me kǔ dōu chī guò le。",
+    "en": "During those hardest days, he endured every kind of hardship."
+   },
+   {
+    "zh": "这个周末我哪儿都不想去,就想在家好好睡一觉。",
+    "pinyin": "Zhè ge zhōu mò wǒ nǎ ér dōu bù xiǎng qù, jiù xiǎng zài jiā hǎo hǎo shuì yī jiào。",
+    "en": "This weekend I don't want to go anywhere; I just want to sleep at home."
+   },
+   {
+    "zh": "他做事很随和,吃什么、去哪儿都无所谓。",
+    "pinyin": "Tā zuò shì hěn suí hé, chī shén me、 qù nǎ ér dōu wú suǒ wèi。",
+    "en": "He's easygoing; he doesn't mind what to eat or where to go."
+   },
+   {
+    "zh": "孩子太小,还什么都不懂,你别跟他计较。",
+    "pinyin": "Hái zi tài xiǎo, hái shén me dōu bù dǒng, nǐ bié gēn tā jì jiào。",
+    "en": "The child is too young to understand anything; don't hold it against him."
+   },
+   {
+    "zh": "经历了这么多,现在的他什么大风大浪都见过。",
+    "pinyin": "Jīng lì le zhè me duō, xiàn zài de tā shén me dà fēng dà làng dōu jiàn guò。",
+    "en": "Having been through so much, he's now seen every kind of storm."
+   },
+   {
+    "zh": "我什么忙都可以帮,就是这件事实在无能为力。",
+    "pinyin": "Wǒ shén me máng dōu kě yǐ bāng, jiù shì zhè jiàn shì shí zài wú néng wéi lì。",
+    "en": "I can help with anything, but this one thing I truly can't do."
+   },
+   {
+    "zh": "他一个人在外面,什么事都得自己扛。",
+    "pinyin": "Tā yí gè rén zài wài miàn, shén me shì dōu de zì jǐ káng。",
+    "en": "On his own away from home, he has to shoulder everything himself."
+   },
+   {
+    "zh": "这道菜的做法很简单,什么调料都不用放。",
+    "pinyin": "Zhè dào cài de zuò fǎ hěn jiǎn dān, shén me tiáo liào dōu bù yòng fàng。",
+    "en": "This dish is simple to make; you don't need to add any seasoning."
+   },
+   {
+    "zh": "他嘴很严,你告诉他什么秘密都不会说出去。",
+    "pinyin": "Tā zuǐ hěn yán, nǐ gào sù tā shén me mì mì dōu bú huì shuō chū qù。",
+    "en": "He's tight-lipped; whatever secret you tell him won't get out."
+   },
+   {
+    "zh": "刚失恋那阵子,她什么也不想做,整天发呆。",
+    "pinyin": "Gāng shī liàn nà zhèn zi, tā shén me yě bù xiǎng zuò, zhěng tiān fā dāi。",
+    "en": "Just after the breakup, she didn't want to do anything and stared blankly all day."
+   }
+  ]
  }
 ]

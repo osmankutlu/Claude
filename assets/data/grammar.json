@@ -32502,5 +32502,685 @@
     "en": "This room's windows face south, designed specially for good light."
    }
   ]
+ },
+ {
+  "id": "g240",
+  "level": 3,
+  "title": "\"是...的\" yapısı: genel bakış",
+  "titleEn": "The \"shi... de\" patterns: an overview",
+  "pattern": "是 + Öğe + 的",
+  "summary": "\"是...的\" bir öğeyi güçlü biçimde öne çıkarır; ayrıntı vurgusu, amaç/nitelik vurgusu ve genel bir yargıyı pekiştirme işlevleri vardır.",
+  "explanation": "\"是...的\" Çince'nin en önemli vurgu yapılarından biridir ve birkaç işlevi bir arada toplar: (1) GEÇMİŞ olayın bir AYRINTISINI vurgular (ne zaman/nerede/nasıl/kim): 我是昨天到的 (Dün geldim). (2) AMAÇ/nitelik vurgular: 这是给你买的 (Bu senin için alındı). (3) Genel bir YARGIYI/tutumu pekiştirir: 他的话是对的 (Söyledikleri doğrudur), 努力是会有回报的 (Çaba karşılık bulur). Ortak nokta: \"是\" vurgulanan öğenin önüne, \"的\" cümlenin sonuna gelir ve arada vurgulanan bilgi durur. Olumsuzu her zaman \"不是...的\"dır (\"没\" değil): 我不是故意的 (Bilerek yapmadım). Olumlu cümlelerde \"是\" bazen düşebilir ama \"的\" korunur. Konuşmacı bir bilgiyi \"kesinlikle böyle\" diye onaylatır. Türkçedeki \"...-dır ki, işte ..., kesinlikle ...\" pekiştirme tonlarına denk gelir.",
+  "examples": [
+   {
+    "zh": "你放心,我说的话都是算数的,绝不会骗你。",
+    "pinyin": "Nǐ fàng xīn, wǒ shuō de huà dōu shì suàn shù de, jué bú huì piàn nǐ。",
+    "en": "Rest assured; my word counts and I'd never deceive you."
+   },
+   {
+    "zh": "这件事不是我一个人能决定的,得跟大家商量。",
+    "pinyin": "Zhè jiàn shì bú shì wǒ yí gè rén néng jué dìng de, de gēn dà jiā shāng liáng。",
+    "en": "This isn't something I can decide alone; I must consult everyone."
+   },
+   {
+    "zh": "他的成功不是偶然的,是靠多年努力换来的。",
+    "pinyin": "Tā de chéng gōng bú shì ǒu rán de, shì kào duō nián nǔ lì huàn lái de。",
+    "en": "His success isn't accidental; it came from years of effort."
+   },
+   {
+    "zh": "我不是故意迟到的,路上实在堵得太厉害了。",
+    "pinyin": "Wǒ bú shì gù yì chí dào de, lù shàng shí zài dǔ de tài lì hài le。",
+    "en": "I wasn't late on purpose; the traffic was really terrible."
+   },
+   {
+    "zh": "这些道理是每个人迟早都要明白的。",
+    "pinyin": "Zhè xiē dào lǐ shì měi gè rén chí zǎo dōu yào míng bái de。",
+    "en": "These truths are ones everyone must understand sooner or later."
+   },
+   {
+    "zh": "你这样对他,是很不公平的,应该道个歉。",
+    "pinyin": "Nǐ zhè yàng duì tā, shì hěn bù gōng píng de, yīng gāi dào gè qiàn。",
+    "en": "Treating him this way is very unfair; you should apologize."
+   },
+   {
+    "zh": "这幅画是他花了整整三个月才画完的。",
+    "pinyin": "Zhè fú huà shì tā huā le zhěng zhěng sān gè yuè cái huà wán de。",
+    "en": "He spent a full three months completing this painting."
+   },
+   {
+    "zh": "困难总是暂时的,坚持下去就会好起来的。",
+    "pinyin": "Kùn nán zǒng shì zàn shí de, jiān chí xià qù jiù huì hǎo qǐ lái de。",
+    "en": "Difficulties are always temporary; persist and things will improve."
+   },
+   {
+    "zh": "这些规定是为了大家的安全才制定的。",
+    "pinyin": "Zhè xiē guī dìng shì wèi le dà jiā de ān quán cái zhì dìng de。",
+    "en": "These rules were made for everyone's safety."
+   },
+   {
+    "zh": "你的担心是多余的,一切都在按计划进行。",
+    "pinyin": "Nǐ de dān xīn shì duō yú de, yī qiè dōu zài àn jì huà jìn xíng。",
+    "en": "Your worry is unnecessary; everything is going as planned."
+   },
+   {
+    "zh": "这台电脑是我表哥去年送给我的生日礼物。",
+    "pinyin": "Zhè tái diàn nǎo shì wǒ biǎo gē qù nián sòng gěi wǒ de shēng rì lǐ wù。",
+    "en": "This computer was a birthday gift from my cousin last year."
+   },
+   {
+    "zh": "做人是要讲诚信的,答应的事就一定要办到。",
+    "pinyin": "Zuò rén shì yào jiǎng chéng xìn de, dā yìng de shì jiù yí dìng yào bàn dào。",
+    "en": "One must be trustworthy; whatever you promise, you must do."
+   },
+   {
+    "zh": "这个决定是经过全家人反复讨论才做出来的。",
+    "pinyin": "Zhè ge jué dìng shì jīng guò quán jiā rén fǎn fù tǎo lùn cái zuò chū lái de。",
+    "en": "This decision was made after the whole family's repeated discussion."
+   },
+   {
+    "zh": "你的努力大家都是看在眼里的,别灰心。",
+    "pinyin": "Nǐ de nǔ lì dà jiā dōu shì kàn zài yǎn lǐ de, bié huī xīn。",
+    "en": "Everyone sees your efforts; don't lose heart."
+   },
+   {
+    "zh": "这条河的水是从远处的雪山上流下来的。",
+    "pinyin": "Zhè tiáo hé de shuǐ shì cóng yuǎn chù de xuě shān shàng liú xià lái de。",
+    "en": "This river's water flows down from the distant snowy mountains."
+   },
+   {
+    "zh": "我是真心想帮你的,你怎么就是不相信呢?",
+    "pinyin": "Wǒ shì zhēn xīn xiǎng bāng nǐ de, nǐ zěn me jiù shì bù xiāng xìn ne?",
+    "en": "I sincerely want to help you; why won't you believe it?"
+   },
+   {
+    "zh": "好成绩是靠平时一点一滴积累起来的。",
+    "pinyin": "Hǎo chéng jì shì kào píng shí yì diǎn yī dī jī lěi qǐ lái de。",
+    "en": "Good grades come from accumulating little by little every day."
+   },
+   {
+    "zh": "这些花是专门从南方运过来的,很名贵。",
+    "pinyin": "Zhè xiē huā shì zhuān mén cóng nán fāng yùn guò lái de, hěn míng guì。",
+    "en": "These flowers were shipped specially from the south; they're precious."
+   },
+   {
+    "zh": "他这个人是很讲原则的,该拒绝的绝不含糊。",
+    "pinyin": "Tā zhè ge rén shì hěn jiǎng yuán zé de, gāi jù jué de jué bù hán hù。",
+    "en": "He's a man of principle; when he must refuse, he does so firmly."
+   },
+   {
+    "zh": "我们的友谊是经得起时间考验的。",
+    "pinyin": "Wǒ men de yǒu yì shì jīng de qǐ shí jiān kǎo yàn de。",
+    "en": "Our friendship can withstand the test of time."
+   },
+   {
+    "zh": "这套房子是他们省吃俭用好多年才买下的。",
+    "pinyin": "Zhè tào fáng zi shì tā men shěng chī jiǎn yòng hǎo duō nián cái mǎi xià de。",
+    "en": "They bought this house after years of frugal living."
+   },
+   {
+    "zh": "你的付出终究是不会白费的,总有回报的一天。",
+    "pinyin": "Nǐ de fù chū zhōng jiū shì bú huì bái fèi de, zǒng yǒu huí bào de yī tiān。",
+    "en": "Your efforts won't be in vain; there'll be a day of reward."
+   },
+   {
+    "zh": "这个道理是他用一生的经历悟出来的。",
+    "pinyin": "Zhè ge dào lǐ shì tā yòng yī shēng de jīng lì wù chū lái de。",
+    "en": "He grasped this truth through a lifetime of experience."
+   },
+   {
+    "zh": "我们是不会放弃的,再难也要坚持到底。",
+    "pinyin": "Wǒ men shì bú huì fàng qì de, zài nán yě yào jiān chí dào dǐ。",
+    "en": "We won't give up; however hard, we'll persist to the end."
+   },
+   {
+    "zh": "这些照片是我们那次旅行时拍下的,很有纪念意义。",
+    "pinyin": "Zhè xiē zhào piān shì wǒ men nà cì lǚ xíng shí pāi xià de, hěn yǒu jì niàn yì yì。",
+    "en": "We took these photos on that trip; they're very meaningful."
+   }
+  ]
+ },
+ {
+  "id": "g241",
+  "level": 3,
+  "title": "Konu-yorum cümleleri",
+  "titleEn": "Topic-comment sentences",
+  "pattern": "Konu，Yorum",
+  "summary": "Çince cümleler çoğu zaman önce KONUYU (ne hakkında) verip sonra o konuda YORUM yapar: 这本书,我看过 = Bu kitabı (var ya), okudum.",
+  "explanation": "Çince, sıklıkla KONU-YORUM (topic-comment) yapısı kullanır: cümlenin başında bir KONU (üzerine konuşulan şey) ortaya konur, ardından o konuya dair bir YORUM gelir. Konu çoğu zaman cümlenin dilbilgisel öznesi olmayabilir: 这本书,我已经看完了 (Bu kitabı okuyup bitirdim — konu 这本书), 中国菜,我最喜欢麻婆豆腐 (Çin yemekleri deyince, en çok mapo tofu severim), 这件事,你别担心 (Bu meseleye gelince, sen merak etme). Konu genelde cümle başında durur ve çoğu zaman bir virgülle yorumdan ayrılır; belirli/bilinen bir öğedir. Bu yapı, İngilizce/Türkçedeki katı özne-yüklem düzeninden farklıdır ve Çince'nin çok karakteristik özelliğidir. Konu, nesne, zaman, yer ya da bir bütün olabilir. Türkçedeki \"... deyince, ...-e gelince, ... var ya\" gibi konuyu öne çeken ifadelere denk gelir; bir şeyi öne çıkarıp üzerine konuşmanın doğal yoludur.",
+  "examples": [
+   {
+    "zh": "这道题,我想了半天也没想出答案来。",
+    "pinyin": "Zhè dào tí, wǒ xiǎng le bàn tiān yě méi xiǎng chū dá àn lái。",
+    "en": "This problem — I thought for ages but couldn't find the answer."
+   },
+   {
+    "zh": "水果我最喜欢西瓜,又甜又解渴。",
+    "pinyin": "Shuǐ guǒ wǒ zuì xǐ huān xī guā, yòu tián yòu jiě kě。",
+    "en": "As for fruit, I like watermelon best; sweet and thirst-quenching."
+   },
+   {
+    "zh": "这件事,你就放心交给我吧,保证办好。",
+    "pinyin": "Zhè jiàn shì, nǐ jiù fàng xīn jiāo gěi wǒ ba, bǎo zhèng bàn hǎo。",
+    "en": "This matter — leave it to me with confidence; I'll get it done."
+   },
+   {
+    "zh": "北方的冬天,风特别大,一出门脸就冻得通红。",
+    "pinyin": "Běi fāng de dōng tiān, fēng tè bié dà, yī chū mén liǎn jiù dòng de tōng hóng。",
+    "en": "As for northern winters, the wind is fierce; your face reddens outside."
+   },
+   {
+    "zh": "这个人啊,嘴上不说,心里其实什么都清楚。",
+    "pinyin": "Zhè ge rén a, zuǐ shàng bù shuō, xīn lǐ qí shí shén me dōu qīng chǔ。",
+    "en": "As for this person, he says nothing but understands everything inside."
+   },
+   {
+    "zh": "我们班的同学,数他学习最刻苦。",
+    "pinyin": "Wǒ men bān de tóng xué, shù tā xué xí zuì kè kǔ。",
+    "en": "Among our classmates, he studies the hardest."
+   },
+   {
+    "zh": "钱这个东西,够用就好,不必看得太重。",
+    "pinyin": "Qián zhè ge dōng xī, gòu yòng jiù hǎo, bù bì kàn de tài zhòng。",
+    "en": "As for money, enough is fine; no need to value it too much."
+   },
+   {
+    "zh": "那家餐厅的菜,味道不错,就是价钱贵了点。",
+    "pinyin": "Nà jiā cān tīng de cài, wèi dào bù cuò, jiù shì jià qián guì le diǎn。",
+    "en": "As for that restaurant's food, it's tasty, just a bit pricey."
+   },
+   {
+    "zh": "学外语,重要的是坚持,三天打鱼两天晒网可不行。",
+    "pinyin": "Xué wài yǔ, zhòng yào de shì jiān chí, sān tiān dǎ yú liǎng tiān shài wǎng kě bù xíng。",
+    "en": "As for learning a language, persistence is key; on-and-off won't do."
+   },
+   {
+    "zh": "这些旧衣服,能穿的留着,不能穿的就送人吧。",
+    "pinyin": "Zhè xiē jiù yī fú, néng chuān de liú zhe, bù néng chuān de jiù sòng rén ba。",
+    "en": "As for these old clothes, keep the wearable ones and give away the rest."
+   },
+   {
+    "zh": "他的脾气,你是知道的,认准的事九头牛都拉不回。",
+    "pinyin": "Tā de pí qì, nǐ shì zhī dào de, rèn zhǔn de shì jiǔ tóu niú dōu lā bù huí。",
+    "en": "As for his temper, you know it; once set, nothing can turn him back."
+   },
+   {
+    "zh": "暑假的安排,我打算一半时间学习,一半时间旅行。",
+    "pinyin": "Shǔ jià de ān pái, wǒ dǎ suàn yí bàn shí jiān xué xí, yí bàn shí jiān lǚ xíng。",
+    "en": "As for the summer break, I plan half to study and half to travel."
+   },
+   {
+    "zh": "做饭这件事,说难不难,说简单也不简单。",
+    "pinyin": "Zuò fàn zhè jiàn shì, shuō nán bù nán, shuō jiǎn dān yě bù jiǎn dān。",
+    "en": "As for cooking, it's neither hard nor easy to say."
+   },
+   {
+    "zh": "这条路我熟,你跟着我走,保证不会迷路。",
+    "pinyin": "Zhè tiáo lù wǒ shú, nǐ gēn zhe wǒ zǒu, bǎo zhèng bú huì mí lù。",
+    "en": "This road I know well; follow me and you won't get lost."
+   },
+   {
+    "zh": "孩子的教育,夫妻俩的看法基本是一致的。",
+    "pinyin": "Hái zi de jiào yù, fū qī liǎ de kàn fǎ jī běn shì yí zhì de。",
+    "en": "On the child's education, the couple's views basically agree."
+   },
+   {
+    "zh": "这几本书,有的值得细读,有的翻翻就行。",
+    "pinyin": "Zhè jǐ běn shū, yǒu de zhí de xì dú, yǒu de fān fān jiù xíng。",
+    "en": "Of these books, some deserve close reading, some just a browse."
+   },
+   {
+    "zh": "身体这个本钱,一旦垮了,再多钱也买不回来。",
+    "pinyin": "Shēn tǐ zhè ge běn qián, yí dàn kuǎ le, zài duō qián yě mǎi bù huí lái。",
+    "en": "As for health, once it fails, no amount of money can buy it back."
+   },
+   {
+    "zh": "那年的事,现在想起来,还觉得历历在目。",
+    "pinyin": "Nà nián de shì, xiàn zài xiǎng qǐ lái, hái jué de lì lì zài mù。",
+    "en": "As for that year's events, recalling them now, they're still vivid."
+   },
+   {
+    "zh": "这种天气,出门最好带上伞,说不定什么时候就下雨。",
+    "pinyin": "Zhè zhǒng tiān qì, chū mén zuì hǎo dài shàng sǎn, shuō bù dìng shén me shí hòu jiù xià yǔ。",
+    "en": "In this weather, best bring an umbrella; it may rain anytime."
+   },
+   {
+    "zh": "他讲的那些故事,我小时候听了无数遍,百听不厌。",
+    "pinyin": "Tā jiǎng de nà xiē gù shì, wǒ xiǎo shí hòu tīng liǎo wú shù biàn, bǎi tīng bù yàn。",
+    "en": "The stories he tells, I heard countless times as a child, never tiring."
+   },
+   {
+    "zh": "家务活儿,他样样都会,做得比我还利索。",
+    "pinyin": "Jiā wù huó ér, tā yàng yàng dū huì, zuò de bǐ wǒ hái lì suǒ。",
+    "en": "As for housework, he can do it all, even neater than me."
+   },
+   {
+    "zh": "这次考试的题目,难的特别难,简单的又特别简单。",
+    "pinyin": "Zhè cì kǎo shì de tí mù, nán de tè bié nán, jiǎn dān de yòu tè bié jiǎn dān。",
+    "en": "As for this exam's questions, the hard ones were very hard, the easy very easy."
+   },
+   {
+    "zh": "南方的米饭,北方的面食,我都特别爱吃。",
+    "pinyin": "Nán fāng de mǐ fàn, běi fāng de miàn shí, wǒ dōu tè bié ài chī。",
+    "en": "Southern rice and northern noodles — I love them both."
+   },
+   {
+    "zh": "这台旧机器,修是能修,就是不知道还能用多久。",
+    "pinyin": "Zhè tái jiù jī qì, xiū shì néng xiū, jiù shì bù zhī dào hái néng yòng duō jiǔ。",
+    "en": "This old machine — it can be fixed, but who knows how long it'll last."
+   },
+   {
+    "zh": "退休以后的生活,他早就计划得清清楚楚了。",
+    "pinyin": "Tuì xiū yǐ hòu de shēng huó, tā zǎo jiù jì huà de qīng qīng chǔ chǔ le。",
+    "en": "As for life after retirement, he's long planned it clearly."
+   }
+  ]
+ },
+ {
+  "id": "g242",
+  "level": 3,
+  "title": "\"把\" cümleleri (nesneyi öne alma)",
+  "titleEn": "Using \"ba\" sentences",
+  "pattern": "Özne + 把 + Nesne + Fiil Öbeği",
+  "summary": "\"把\" nesneyi fiilden ÖNCE getirip ona bir şey YAPILDIĞINI/sonucunu vurgular: 我把门关上了 = Kapıyı kapattım.",
+  "explanation": "\"把\" yapısı, bir NESNEYE bir işlem yapıldığını ve onun bir SONUCA/değişime uğradığını vurgular. Normal sıra (Özne-Fiil-Nesne) yerine nesne \"把\" ile fiilin ÖNÜNE alınır: Özne + 把 + nesne + fiil + (sonuç/tümleç). 我把作业写完了 (Ödevi yazıp bitirdim), 请把窗户打开 (Lütfen pencereyi aç), 他把杯子打碎了 (Bardağı kırdı). Önemli KURALLAR: (1) Nesne genelde BELİRLİ/bilinen bir şeydir. (2) Fiil YALIN olamaz; ardından mutlaka bir tümleç/sonuç/了/nesne değişimi gelir (\"我把门关\" eksik; \"我把门关上\" doğru). (3) Nesneye bir eylemin nasıl ETKİ ettiğini, onu nereye koyduğunu/nasıl değiştirdiğini anlatan fiillerle kullanılır. Olumsuzluk/yardımcılar \"把\"tan ÖNCE gelir: 我没把它弄坏 (Onu bozmadım). Türkçedeki \"...-i ...-mek\" (belgin nesneyi işleme tabi tutma) yapısına denk gelir; bir nesneye ne yapıldığını ve sonucunu vurgulamanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "你出门前记得把灯关掉,把门锁好。",
+    "pinyin": "Nǐ chū mén qián jì de bǎ dēng guān diào, bǎ mén suǒ hǎo。",
+    "en": "Before leaving, remember to turn off the lights and lock the door."
+   },
+   {
+    "zh": "他不小心把妈妈最喜欢的花瓶打碎了。",
+    "pinyin": "Tā bù xiǎo xīn bǎ mā mā zuì xǐ huān de huā píng dǎ suì le。",
+    "en": "He accidentally broke mom's favorite vase."
+   },
+   {
+    "zh": "请你把这份文件复印三份,交给经理。",
+    "pinyin": "Qǐng nǐ bǎ zhè fèn wén jiàn fù yìn sān fèn, jiāo gěi jīng lǐ。",
+    "en": "Please copy this document three times and give it to the manager."
+   },
+   {
+    "zh": "我已经把你要的资料整理好,发到你邮箱了。",
+    "pinyin": "Wǒ yǐ jīng bǎ nǐ yào de zī liào zhěng lǐ hǎo, fā dào nǐ yóu xiāng le。",
+    "en": "I've organized the data you wanted and sent it to your email."
+   },
+   {
+    "zh": "孩子把桌上的牛奶不小心碰洒了一地。",
+    "pinyin": "Hái zi bǎ zhuō shàng de niú nǎi bù xiǎo xīn pèng sǎ le yī de。",
+    "en": "The child accidentally knocked the milk off the table onto the floor."
+   },
+   {
+    "zh": "你先把手机调成静音,一会儿要开会了。",
+    "pinyin": "Nǐ xiān bǎ shǒu jī diào chéng jìng yīn, yī huì er yào kāi huì le。",
+    "en": "Set your phone to silent first; the meeting starts soon."
+   },
+   {
+    "zh": "妈妈把刚洗好的衣服一件件晾在了阳台上。",
+    "pinyin": "Mā mā bǎ gāng xǐ hǎo de yī fú yī jiàn jiàn liàng zài le yáng tái shàng。",
+    "en": "Mom hung the freshly washed clothes on the balcony one by one."
+   },
+   {
+    "zh": "他把攒了很久的钱全都捐给了灾区。",
+    "pinyin": "Tā bǎ zǎn le hěn jiǔ de qián quán dōu juān gěi le zāi qū。",
+    "en": "He donated all his long-saved money to the disaster area."
+   },
+   {
+    "zh": "请你把这句话再翻译一遍,我没太听清楚。",
+    "pinyin": "Qǐng nǐ bǎ zhè jù huà zài fān yì yī biàn, wǒ méi tài tīng qīng chǔ。",
+    "en": "Please translate this sentence again; I didn't quite catch it."
+   },
+   {
+    "zh": "我一不留神,把钥匙锁在了屋里,进不去了。",
+    "pinyin": "Wǒ yī bù liú shén, bǎ yào shi suǒ zài le wū lǐ, jìn bù qù le。",
+    "en": "In a careless moment, I locked the keys inside and can't get in."
+   },
+   {
+    "zh": "你把这些旧报纸捆起来,回头拿去卖了吧。",
+    "pinyin": "Nǐ bǎ zhè xiē jiù bào zhǐ kǔn qǐ lái, huí tóu ná qù mài le ba。",
+    "en": "Bundle up these old newspapers and sell them later."
+   },
+   {
+    "zh": "他终于把那道困扰了他很久的难题解开了。",
+    "pinyin": "Tā zhōng yú bǎ nà dào kùn rǎo le tā hěn jiǔ de nán tí jiě kāi le。",
+    "en": "He finally solved the problem that had puzzled him for so long."
+   },
+   {
+    "zh": "请大家把手机和钱包等贵重物品保管好。",
+    "pinyin": "Qǐng dà jiā bǎ shǒu jī hé qián bāo děng guì zhòng wù pǐn bǎo guǎn hǎo。",
+    "en": "Please keep valuables like phones and wallets safe."
+   },
+   {
+    "zh": "她把房间收拾得干干净净,一尘不染。",
+    "pinyin": "Tā bǎ fáng jiān shōu shí de gān gān jìng jìng, yī chén bù rǎn。",
+    "en": "She tidied the room spotlessly, not a speck of dust."
+   },
+   {
+    "zh": "你怎么把我说的话全忘了?我不是提醒过你吗?",
+    "pinyin": "Nǐ zěn me bǎ wǒ shuō de huà quán wàng le? wǒ bú shì tí xǐng guò nǐ ma?",
+    "en": "How did you forget everything I said? Didn't I remind you?"
+   },
+   {
+    "zh": "他把那封信小心地折好,放进了贴身的口袋里。",
+    "pinyin": "Tā bǎ nà fēng xìn xiǎo xīn de zhé hǎo, fàng jìn le tiē shēn de kǒu dài lǐ。",
+    "en": "He carefully folded the letter and put it in his inner pocket."
+   },
+   {
+    "zh": "请把音量调小一点儿,别影响到别人休息。",
+    "pinyin": "Qǐng bǎ yīn liàng diào xiǎo yì diǎn ér, bié yǐng xiǎng dào bié rén xiū xī。",
+    "en": "Please turn the volume down a bit so as not to disturb others."
+   },
+   {
+    "zh": "我把该准备的东西都准备好了,就等出发了。",
+    "pinyin": "Wǒ bǎ gāi zhǔn bèi de dōng xī dōu zhǔn bèi hǎo le, jiù děng chū fā le。",
+    "en": "I've prepared everything needed; we just await departure."
+   },
+   {
+    "zh": "你把这杯药喝了,好好睡一觉,病就好得快。",
+    "pinyin": "Nǐ bǎ zhè bēi yào hē le, hǎo hǎo shuì yī jiào, bìng jiù hǎo de kuài。",
+    "en": "Drink this medicine, sleep well, and you'll recover faster."
+   },
+   {
+    "zh": "他一气之下,把写了一半的信撕得粉碎。",
+    "pinyin": "Tā yí qì zhī xià, bǎ xiě le yí bàn de xìn sī de fěn suì。",
+    "en": "In a fit of anger, he tore the half-written letter to shreds."
+   },
+   {
+    "zh": "请你把桌子往墙角挪一挪,让出一条过道来。",
+    "pinyin": "Qǐng nǐ bǎ zhuō zi wǎng qiáng jiǎo nuó yī nuó, ràng chū yī tiáo guò dào lái。",
+    "en": "Please move the table to the corner to make a passage."
+   },
+   {
+    "zh": "孩子把学过的生字一个一个地写在了本子上。",
+    "pinyin": "Hái zi bǎ xué guò de shēng zì yí gè yí gè de xiě zài le běn zi shàng。",
+    "en": "The child wrote the learned characters one by one in the notebook."
+   },
+   {
+    "zh": "我们一定要把这件事的来龙去脉调查清楚。",
+    "pinyin": "Wǒ men yí dìng yào bǎ zhè jiàn shì de lái lóng qù mài diào chá qīng chǔ。",
+    "en": "We must investigate the full story of this matter clearly."
+   },
+   {
+    "zh": "他把最后一点力气都用上了,终于爬到了山顶。",
+    "pinyin": "Tā bǎ zuì hòu yì diǎn lì qì dōu yòng shàng le, zhōng yú pá dào le shān dǐng。",
+    "en": "He used every last bit of strength and finally reached the summit."
+   },
+   {
+    "zh": "你别把简单的事情想得太复杂,放轻松点。",
+    "pinyin": "Nǐ bié bǎ jiǎn dān de shì qíng xiǎng de tài fù zá, fàng qīng sōng diǎn。",
+    "en": "Don't overcomplicate simple things; relax a bit."
+   }
+  ]
+ },
+ {
+  "id": "g243",
+  "level": 3,
+  "title": "\"被\" cümleleri (edilgen)",
+  "titleEn": "Using \"bei\" sentences",
+  "pattern": "Özne + 被 + (Fail) + Fiil Öbeği",
+  "summary": "\"被\" edilgen yapı kurar: nesne özne olur, eylemi yapan \"被\"den sonra gelir: 杯子被他打碎了 = Bardak onun tarafından kırıldı.",
+  "explanation": "\"被\" EDİLGEN (passive) cümle kurar: eylemden ETKİLENEN öğe özne olur, eylemi YAPAN (fail) \"被\"den sonra gelir (ya da düşer): Özne(etkilenen) + 被 + (fail) + fiil + (tümleç). 我的自行车被人偷走了 (Bisikletim çalındı), 那本书被他借走了 (O kitabı o ödünç aldı — kitap açısından), 窗户被风吹开了 (Pencere rüzgârdan açıldı). Fail bilinmiyorsa/önemsizse düşebilir: 钱包被偷了 (Cüzdan çalındı). \"把\" yapısının karşıtı gibidir: \"把\" faili öne alıp nesneye etkiyi, \"被\" ise etkileneni öne alıp edilgenliği vurgular. KURALLAR: fiil yalın olamaz, ardından tümleç/了 gelir; olumsuzluk/yardımcılar \"被\"den önce gelir (没被发现). Çince'de \"被\" çoğu zaman İSTENMEYEN/olumsuz olaylarda kullanılır ama modern dilde nötr olaylarda da yaygındır. Türkçedeki \"...-ıl/...-ın\" edilgen eki ve \"...tarafından\" yapısına denk gelir.",
+  "examples": [
+   {
+    "zh": "我的自行车昨天被人偷走了,找了半天也没找到。",
+    "pinyin": "Wǒ de zì xíng chē zuó tiān bèi rén tōu zǒu le, zhǎo le bàn tiān yě méi zhǎo dào。",
+    "en": "My bike was stolen yesterday; I looked everywhere but couldn't find it."
+   },
+   {
+    "zh": "桌上的蛋糕被弟弟偷偷吃掉了一大半。",
+    "pinyin": "Zhuō shàng de dàn gāo bèi dì di tōu tōu chī diào le yī dà bàn。",
+    "en": "Most of the cake on the table was secretly eaten by my brother."
+   },
+   {
+    "zh": "那棵老树在昨晚的大风中被吹倒了。",
+    "pinyin": "Nà kē lǎo shù zài zuó wǎn de dà fēng zhōng bèi chuī dào le。",
+    "en": "That old tree was blown down in last night's strong wind."
+   },
+   {
+    "zh": "他的建议被大家一致采纳,得到了广泛的支持。",
+    "pinyin": "Tā de jiàn yì bèi dà jiā yí zhì cǎi nà, dé dào le guǎng fàn de zhī chí。",
+    "en": "His suggestion was unanimously adopted and widely supported."
+   },
+   {
+    "zh": "我写的文章被老师当作范文在班上读了。",
+    "pinyin": "Wǒ xiě de wén zhāng bèi lǎo shī dàng zuò fàn wén zài bān shàng dú le。",
+    "en": "My essay was read to the class by the teacher as a model."
+   },
+   {
+    "zh": "门没关好,屋里的东西被雨淋湿了不少。",
+    "pinyin": "Mén méi guān hǎo, wū lǐ de dōng xī bèi yǔ lín shī le bù shǎo。",
+    "en": "The door wasn't shut, and many things inside got wet from the rain."
+   },
+   {
+    "zh": "这个消息很快就被传开了,全公司都知道了。",
+    "pinyin": "Zhè ge xiāo xī hěn kuài jiù bèi chuán kāi le, quán gōng sī dōu zhī dào le。",
+    "en": "The news quickly spread and the whole company knew."
+   },
+   {
+    "zh": "那幅名画被小心地保存在博物馆里。",
+    "pinyin": "Nà fú míng huà bèi xiǎo xīn de bǎo cún zài bó wù guǎn lǐ。",
+    "en": "That famous painting is carefully preserved in the museum."
+   },
+   {
+    "zh": "他的话被人误解了,闹了一场不小的误会。",
+    "pinyin": "Tā de huà bèi rén wù jiě le, nào le yī cháng bù xiǎo de wù huì。",
+    "en": "His words were misunderstood, causing quite a fuss."
+   },
+   {
+    "zh": "放在门口的快递被邻居帮忙签收了。",
+    "pinyin": "Fàng zài mén kǒu de kuài dì bèi lín jū bāng máng qiān shōu le。",
+    "en": "The parcel at the door was signed for by a helpful neighbor."
+   },
+   {
+    "zh": "这条河的水被工厂排出的污水污染了。",
+    "pinyin": "Zhè tiáo hé de shuǐ bèi gōng chǎng pái chū de wū shuǐ wū rǎn le。",
+    "en": "This river's water was polluted by the factory's waste."
+   },
+   {
+    "zh": "那个坏习惯终于被他彻底改掉了。",
+    "pinyin": "Nà ge huài xí guàn zhōng yú bèi tā chè dǐ gǎi diào le。",
+    "en": "He finally got rid of that bad habit for good."
+   },
+   {
+    "zh": "孩子的画被选中,挂在了学校的展览墙上。",
+    "pinyin": "Hái zi de huà bèi xuǎn zhōng, guà zài le xué xiào de zhǎn lǎn qiáng shàng。",
+    "en": "The child's painting was selected and hung on the school's display wall."
+   },
+   {
+    "zh": "我刚种下的小树苗被淘气的孩子踩坏了。",
+    "pinyin": "Wǒ gāng zhòng xià de xiǎo shù miáo bèi táo qì de hái zi cǎi huài le。",
+    "en": "The sapling I just planted was trampled by a naughty child."
+   },
+   {
+    "zh": "他的努力最终被大家看到,也得到了应有的回报。",
+    "pinyin": "Tā de nǔ lì zuì zhōng bèi dà jiā kàn dào, yě dé dào le yīng yǒu de huí bào。",
+    "en": "His efforts were finally seen by all and duly rewarded."
+   },
+   {
+    "zh": "那本珍贵的古书不小心被水弄湿了几页。",
+    "pinyin": "Nà běn zhēn guì de gǔ shū bù xiǎo xīn bèi shuǐ nòng shī le jǐ yè。",
+    "en": "A few pages of that precious old book were accidentally soaked."
+   },
+   {
+    "zh": "会议的时间被临时改到了下午三点。",
+    "pinyin": "Huì yì de shí jiān bèi lín shí gǎi dào le xià wǔ sān diǎn。",
+    "en": "The meeting time was temporarily changed to three in the afternoon."
+   },
+   {
+    "zh": "小猫爬到树上下不来,后来被消防员救了下来。",
+    "pinyin": "Xiǎo māo pá dào shù shàng xià bù lái, hòu lái bèi xiāo fáng yuán jiù le xià lái。",
+    "en": "The kitten climbed a tree and couldn't get down, later rescued by a firefighter."
+   },
+   {
+    "zh": "他递上去的方案被领导挑出了不少毛病。",
+    "pinyin": "Tā dì shàng qù de fāng àn bèi lǐng dǎo tiāo chū le bù shǎo máo bìng。",
+    "en": "The plan he submitted had many flaws pointed out by the boss."
+   },
+   {
+    "zh": "那件旧衣服早就被我拿去送人了。",
+    "pinyin": "Nà jiàn jiù yī fú zǎo jiù bèi wǒ ná qù sòng rén le。",
+    "en": "That old outfit was given away by me long ago."
+   },
+   {
+    "zh": "我们精心准备的计划差点被一场大雨打乱。",
+    "pinyin": "Wǒ men jīng xīn zhǔn bèi de jì huà chà diǎn bèi yī cháng dà yǔ dǎ luàn。",
+    "en": "Our carefully prepared plan was almost disrupted by a downpour."
+   },
+   {
+    "zh": "这道菜太好吃了,一上桌就被大家抢光了。",
+    "pinyin": "Zhè dào cài tài hǎo chī le, yī shàng zhuō jiù bèi dà jiā qiǎng guāng le。",
+    "en": "This dish was so good it was gobbled up as soon as it was served."
+   },
+   {
+    "zh": "他因为一时冲动说的话,被别人记恨了很久。",
+    "pinyin": "Tā yīn wèi yī shí chōng dòng shuō de huà, bèi bié rén jì hèn le hěn jiǔ。",
+    "en": "The words he said on impulse were resented by others for a long time."
+   },
+   {
+    "zh": "路边的野花被过路的孩子随手摘走了。",
+    "pinyin": "Lù biān de yě huā bèi guò lù de hái zi suí shǒu zhāi zǒu le。",
+    "en": "The wildflowers by the road were picked by passing children."
+   },
+   {
+    "zh": "他的诚实和善良,深深地被身边的人所敬佩。",
+    "pinyin": "Tā de chéng shí hé shàn liáng, shēn shēn de bèi shēn biān de rén suǒ jìng pèi。",
+    "en": "His honesty and kindness were deeply admired by those around him."
+   }
+  ]
+ },
+ {
+  "id": "g244",
+  "level": 3,
+  "title": "Varoluş cümleleri (Yer + Fiil + 着 + İsim)",
+  "titleEn": "Alternative existential sentences",
+  "pattern": "Yer + Fiil + 着 + İsim Öbeği",
+  "summary": "\"Yer + fiil + 着 + isim\" bir yerde bir şeyin bir DURUMDA bulunduğunu betimler: 桌子上放着一本书 = Masanın üstünde bir kitap duruyor.",
+  "explanation": "Bu varoluş yapısı, bir YERDE bir şeyin nasıl DURDUĞUNU/bulunduğunu betimler: Yer + fiil + 着 + isim öbeği. 墙上挂着一幅画 (Duvarda bir tablo asılı), 门口停着一辆车 (Kapıda bir araba duruyor), 床上躺着一个人 (Yatakta biri uzanmış). \"有\" ile kurulan basit varoluştan (桌子上有一本书 = masada bir kitap var) farkı: bu yapı nesnenin ne DURUMDA/nasıl (asılı, duran, yatan, oturan) olduğunu, hangi fiille konumlandığını da resmeder. Cümle başında YER, ortada durum fiili + 着, sonda ise BELİRSİZ (genelde \"bir ...\") bir isim gelir. Bir sahneyi/manzarayı betimlemede çok kullanılır (edebî, resimsi). Fiiller: 放 (koyulu), 挂 (asılı), 停 (duran), 坐 (oturan), 站 (ayakta), 躺/趴 (yatan), 写 (yazılı). Türkçedeki \"...-de bir ... duruyor/asılı/yatıyor\" betimleyici varoluş ifadesine denk gelir.",
+  "examples": [
+   {
+    "zh": "桌子上放着一本翻开的书和一支钢笔。",
+    "pinyin": "Zhuō zi shàng fàng zhe yī běn fān kāi de shū hé yī zhī gāng bǐ。",
+    "en": "On the table lie an open book and a fountain pen."
+   },
+   {
+    "zh": "墙上挂着一张全家福,记录着幸福的时光。",
+    "pinyin": "Qiáng shàng guà zhe yī zhāng quán jiā fú, jì lù zhe xìng fú de shí guāng。",
+    "en": "On the wall hangs a family photo, recording happy times."
+   },
+   {
+    "zh": "门口停着一辆红色的汽车,不知道是谁的。",
+    "pinyin": "Mén kǒu tíng zhe yī liàng hóng sè de qì chē, bù zhī dào shì shéi de。",
+    "en": "A red car is parked at the door; I don't know whose it is."
+   },
+   {
+    "zh": "院子里种着几棵桃树,春天开满了粉色的花。",
+    "pinyin": "Yuàn zi lǐ zhǒng zhe jǐ kē táo shù, chūn tiān kāi mǎn le fěn sè de huā。",
+    "en": "A few peach trees grow in the yard, blooming pink in spring."
+   },
+   {
+    "zh": "床上躺着一只懒洋洋的小猫,晒着太阳。",
+    "pinyin": "Chuáng shàng tǎng zhe yī zhī lǎn yáng yáng de xiǎo māo, shài zhe tài yáng。",
+    "en": "A lazy kitten lies on the bed, basking in the sun."
+   },
+   {
+    "zh": "河边坐着一位老人,静静地钓着鱼。",
+    "pinyin": "Hé biān zuò zhe yī wèi lǎo rén, jìng jìng de diào zhe yú。",
+    "en": "By the river sits an old man, quietly fishing."
+   },
+   {
+    "zh": "讲台上放着一束鲜花,是学生们送给老师的。",
+    "pinyin": "Jiǎng tái shàng fàng zhe yī shù xiān huā, shì xué shēng men sòng gěi lǎo shī de。",
+    "en": "On the podium lies a bouquet, a gift from the students to the teacher."
+   },
+   {
+    "zh": "远处的山顶上覆盖着一层洁白的积雪。",
+    "pinyin": "Yuǎn chù de shān dǐng shàng fù gài zhe yī céng jié bái de jī xuě。",
+    "en": "On the distant summit lies a layer of pure white snow."
+   },
+   {
+    "zh": "书架上整整齐齐地摆着各种各样的书。",
+    "pinyin": "Shū jià shàng zhěng zhěng qí qí de bǎi zhe gè zhǒng gè yàng de shū。",
+    "en": "On the shelf are neatly arranged all sorts of books."
+   },
+   {
+    "zh": "门上贴着一张红红的春联,充满了节日的气氛。",
+    "pinyin": "Mén shàng tiē zhe yī zhāng hóng hóng de chūn lián, chōng mǎn le jié rì de qì fēn。",
+    "en": "On the door is a red couplet, full of festive spirit."
+   },
+   {
+    "zh": "窗台上摆着几盆绿油油的多肉植物。",
+    "pinyin": "Chuāng tái shàng bǎi zhe jǐ pén lǜ yóu yóu de duō ròu zhí wù。",
+    "en": "On the windowsill sit a few pots of lush succulents."
+   },
+   {
+    "zh": "桌子中间放着一盘刚出锅、还冒着热气的饺子。",
+    "pinyin": "Zhuō zi zhōng jiān fàng zhe yī pán gāng chū guō、 hái mào zhe rè qì de jiǎo zi。",
+    "en": "In the middle of the table is a plate of steaming fresh dumplings."
+   },
+   {
+    "zh": "路两旁站着一排高大挺拔的白杨树。",
+    "pinyin": "Lù liǎng páng zhàn zhe yī pái gāo dà tǐng bá de bái yáng shù。",
+    "en": "Along both sides of the road stand a row of tall, straight poplars."
+   },
+   {
+    "zh": "墙角堆着一些没来得及整理的杂物。",
+    "pinyin": "Qiáng jiǎo duī zhe yī xiē méi lái de jí zhěng lǐ de zá wù。",
+    "en": "In the corner are piled some odds and ends not yet sorted."
+   },
+   {
+    "zh": "信封里装着一封写满思念的长信。",
+    "pinyin": "Xìn fēng lǐ zhuāng zhe yī fēng xiě mǎn sī niàn de zhǎng xìn。",
+    "en": "Inside the envelope is a long letter full of longing."
+   },
+   {
+    "zh": "小河上架着一座古老的石桥,已有百年历史。",
+    "pinyin": "Xiǎo hé shàng jià zhe yī zuò gǔ lǎo de shí qiáo, yǐ yǒu bǎi nián lì shǐ。",
+    "en": "Over the little river stands an old stone bridge, a century old."
+   },
+   {
+    "zh": "沙发上坐着几位聊得正欢的老朋友。",
+    "pinyin": "Shā fā shàng zuò zhe jǐ wèi liáo de zhèng huān de lǎo péng yǒu。",
+    "en": "On the sofa sit a few old friends chatting merrily."
+   },
+   {
+    "zh": "黑板上写着今天要讲的重点内容。",
+    "pinyin": "Hēi bǎn shàng xiě zhe jīn tiān yào jiǎng de zhòng diǎn nèi róng。",
+    "en": "On the blackboard is written today's key content."
+   },
+   {
+    "zh": "桌子上摊开着一张这座城市的地图。",
+    "pinyin": "Zhuō zi shàng tān kāi zhe yī zhāng zhè zuò chéng shì de dì tú。",
+    "en": "On the table is spread a map of this city."
+   },
+   {
+    "zh": "门后挂着一件半旧的大衣和一顶帽子。",
+    "pinyin": "Mén hòu guà zhe yī jiàn bàn jiù de dà yī hé yī dǐng mào zi。",
+    "en": "Behind the door hang a worn coat and a hat."
+   },
+   {
+    "zh": "草地上躺着几个仰望星空的年轻人。",
+    "pinyin": "Cǎo dì shàng tǎng zhe jǐ gè yǎng wàng xīng kōng de nián qīng rén。",
+    "en": "On the grass lie a few young people gazing at the stars."
+   },
+   {
+    "zh": "店门口摆着一个招牌,上面写着今天的特价菜。",
+    "pinyin": "Diàn mén kǒu bǎi zhe yí gè zhāo pái, shàng miàn xiě zhe jīn tiān de tè jià cài。",
+    "en": "At the shop door stands a sign listing today's specials."
+   },
+   {
+    "zh": "桌上还留着几样没吃完的菜,已经凉了。",
+    "pinyin": "Zhuō shàng hái liú zhe jǐ yàng méi chī wán de cài, yǐ jīng liáng le。",
+    "en": "On the table remain a few unfinished dishes, now cold."
+   },
+   {
+    "zh": "走廊的尽头亮着一盏昏黄的灯。",
+    "pinyin": "Zǒu láng de jìn tóu liàng zhe yī zhǎn hūn huáng de dēng。",
+    "en": "At the end of the corridor glows a dim yellow light."
+   },
+   {
+    "zh": "箱子里装着他这些年珍藏的老照片和信件。",
+    "pinyin": "Xiāng zi lǐ zhuāng zhe tā zhè xiē nián zhēn cáng de lǎo zhào piān hé xìn jiàn。",
+    "en": "In the box are the old photos and letters he's treasured for years."
+   }
+  ]
  }
 ]

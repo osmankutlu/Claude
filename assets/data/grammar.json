@@ -3126,5 +3126,821 @@
     "en": "That we could make it this far really wasn't easy."
    }
   ]
+ },
+ {
+  "id": "g024",
+  "level": 1,
+  "title": "\"会\" ile öğrenilmiş beceri",
+  "titleEn": "Expressing a learned skill with \"hui\"",
+  "pattern": "会 + Fiil",
+  "summary": "\"会\" (huì) öğrenme sonucu kazanılan bir beceriyi anlatır: 我会说中文 = Çince konuşabilirim (öğrendim).",
+  "explanation": "\"会\" özellikle SONRADAN ÖĞRENİLEN beceriler için kullanılır: dil konuşmak, yüzmek, araba kullanmak, yemek yapmak. \"能\"'den farkı budur — \"能\" genel yetenek/imkân, \"会\" ise öğrenilmiş ustalıktır. Olumsuzu \"不会\". Ayrıca \"会\" gelecekte bir şeyin olma olasılığını da anlatır: 明天会下雨 (yarın yağmur yağacak) — bu ayrı bir kullanımdır.",
+  "examples": [
+   {
+    "zh": "我会说三种语言。",
+    "pinyin": "Wǒ huì shuō sān zhǒng yǔyán.",
+    "en": "I can speak three languages."
+   },
+   {
+    "zh": "他不会游泳,你别让他下水。",
+    "pinyin": "Tā bú huì yóuyǒng, nǐ bié ràng tā xiàshuǐ.",
+    "en": "He can't swim, don't let him go into the water."
+   },
+   {
+    "zh": "你会不会开车？我们需要一个司机。",
+    "pinyin": "Nǐ huì bu huì kāichē? Wǒmen xūyào yí ge sījī.",
+    "en": "Can you drive? We need a driver."
+   },
+   {
+    "zh": "我妈妈会做很多好吃的菜。",
+    "pinyin": "Wǒ māma huì zuò hěn duō hǎochī de cài.",
+    "en": "My mom can make many delicious dishes."
+   },
+   {
+    "zh": "这个孩子五岁就会弹钢琴了。",
+    "pinyin": "Zhège háizi wǔ suì jiù huì tán gāngqín le.",
+    "en": "This child could play the piano at five."
+   },
+   {
+    "zh": "以前我不会用筷子,现在很熟练了。",
+    "pinyin": "Yǐqián wǒ bú huì yòng kuàizi, xiànzài hěn shúliàn le.",
+    "en": "I couldn't use chopsticks before, now I'm quite skilled."
+   },
+   {
+    "zh": "她会画画,也会写诗。",
+    "pinyin": "Tā huì huàhuà, yě huì xiě shī.",
+    "en": "She can paint and also write poetry."
+   },
+   {
+    "zh": "我还不太会做这道菜,你能教我吗？",
+    "pinyin": "Wǒ hái bú tài huì zuò zhè dào cài, nǐ néng jiāo wǒ ma?",
+    "en": "I don't really know how to make this dish, can you teach me?"
+   },
+   {
+    "zh": "学了一年以后,他终于会用中文写信了。",
+    "pinyin": "Xué le yì nián yǐhòu, tā zhōngyú huì yòng Zhōngwén xiěxìn le.",
+    "en": "After a year of study, he can finally write letters in Chinese."
+   },
+   {
+    "zh": "你会不会觉得我问得太多了？",
+    "pinyin": "Nǐ huì bu huì juéde wǒ wèn de tài duō le?",
+    "en": "Do you feel that I'm asking too much?"
+   },
+   {
+    "zh": "只要用心,谁都会做好这件事。",
+    "pinyin": "Zhǐyào yòngxīn, shéi dōu huì zuòhǎo zhè jiàn shì.",
+    "en": "As long as one puts their heart into it, anyone can do this well."
+   },
+   {
+    "zh": "他会好几种乐器,真让人羡慕。",
+    "pinyin": "Tā huì hǎojǐ zhǒng yuèqì, zhēn ràng rén xiànmù.",
+    "en": "He can play several instruments, really enviable."
+   },
+   {
+    "zh": "这么简单的字你怎么会不会写？",
+    "pinyin": "Zhème jiǎndān de zì nǐ zěnme huì bú huì xiě?",
+    "en": "How can you not know how to write such a simple character?"
+   },
+   {
+    "zh": "我相信努力练习,你一定会成功。",
+    "pinyin": "Wǒ xiāngxìn nǔlì liànxí, nǐ yídìng huì chénggōng.",
+    "en": "I believe that with hard practice, you'll surely succeed."
+   },
+   {
+    "zh": "她会跳很多种舞,芭蕾跳得最好。",
+    "pinyin": "Tā huì tiào hěn duō zhǒng wǔ, bālěi tiào de zuì hǎo.",
+    "en": "She can dance many styles, and does ballet best."
+   },
+   {
+    "zh": "孩子小时候学的东西,长大了也不会忘。",
+    "pinyin": "Háizi xiǎoshíhou xué de dōngxi, zhǎngdà le yě bú huì wàng.",
+    "en": "What children learn when young, they won't forget when grown."
+   },
+   {
+    "zh": "你会用这个新软件吗？我完全不懂。",
+    "pinyin": "Nǐ huì yòng zhège xīn ruǎnjiàn ma? Wǒ wánquán bù dǒng.",
+    "en": "Do you know how to use this new software? I have no idea."
+   },
+   {
+    "zh": "他不会拒绝别人,总是答应帮忙。",
+    "pinyin": "Tā bú huì jùjué biérén, zǒngshì dāying bāngmáng.",
+    "en": "He can't say no to people, always agrees to help."
+   },
+   {
+    "zh": "会说和会写是两回事。",
+    "pinyin": "Huì shuō hé huì xiě shì liǎng huí shì.",
+    "en": "Being able to speak and being able to write are two different things."
+   },
+   {
+    "zh": "我小时候会骑马,现在都忘了。",
+    "pinyin": "Wǒ xiǎoshíhou huì qímǎ, xiànzài dōu wàng le.",
+    "en": "I could ride a horse as a child, now I've forgotten how."
+   },
+   {
+    "zh": "这种技术不是每个人都会的。",
+    "pinyin": "Zhè zhǒng jìshù bú shì měi ge rén dōu huì de.",
+    "en": "This skill is not something everyone has."
+   },
+   {
+    "zh": "她会好几门外语,工作起来很方便。",
+    "pinyin": "Tā huì hǎojǐ mén wàiyǔ, gōngzuò qǐlái hěn fāngbiàn.",
+    "en": "She knows several foreign languages, which makes work convenient."
+   },
+   {
+    "zh": "只有真正热爱,你才会一直坚持下去。",
+    "pinyin": "Zhǐyǒu zhēnzhèng rè'ài, nǐ cái huì yìzhí jiānchí xiàqù.",
+    "en": "Only if you truly love it will you keep at it."
+   },
+   {
+    "zh": "我不会忘记你对我的好。",
+    "pinyin": "Wǒ bú huì wàngjì nǐ duì wǒ de hǎo.",
+    "en": "I won't forget how good you've been to me."
+   },
+   {
+    "zh": "他做饭很好吃,可是不会收拾厨房。",
+    "pinyin": "Tā zuòfàn hěn hǎochī, kěshì bú huì shōushi chúfáng.",
+    "en": "He cooks delicious food, but doesn't know how to clean up the kitchen."
+   }
+  ]
+ },
+ {
+  "id": "g025",
+  "level": 1,
+  "title": "\"要\" ile \"...ecek/...acak\" (gelecek/niyet)",
+  "titleEn": "Expressing \"be going to\" with \"yao\"",
+  "pattern": "Özne + 要 + Fiil (+ 了)",
+  "summary": "\"要\" (yào) yakın gelecekte yapılacak/olacak bir eylemi anlatır: 我要去北京 = Pekin'e gideceğim.",
+  "explanation": "\"要\", planlanmış veya yakında olacak bir eylemi ifade eder (\"...ecek\"). Genellikle cümle sonuna \"了\" eklenerek eylemin çok yakın olduğu vurgulanır: 火车要开了 (tren kalkmak üzere). Olumsuz gelecek için \"要\" değil \"不\" kullanılır: 我明天不去 (yarın gitmeyeceğim). \"要\" ayrıca \"istemek\" (bir sonraki konu) ve \"gerekmek\" anlamlarına da gelir; bağlam ayırt eder.",
+  "examples": [
+   {
+    "zh": "快点儿,火车要开了！",
+    "pinyin": "Kuài diǎnr, huǒchē yào kāi le!",
+    "en": "Hurry up, the train is about to leave!"
+   },
+   {
+    "zh": "我下个月要去日本旅行。",
+    "pinyin": "Wǒ xià ge yuè yào qù Rìběn lǚxíng.",
+    "en": "I'm going to travel to Japan next month."
+   },
+   {
+    "zh": "天要黑了,我们该回家了。",
+    "pinyin": "Tiān yào hēi le, wǒmen gāi huíjiā le.",
+    "en": "It's getting dark, we should head home."
+   },
+   {
+    "zh": "他明年要结婚了,大家都很高兴。",
+    "pinyin": "Tā míngnián yào jiéhūn le, dàjiā dōu hěn gāoxìng.",
+    "en": "He's getting married next year, everyone is happy."
+   },
+   {
+    "zh": "看样子要下雨了,你带伞了吗？",
+    "pinyin": "Kàn yàngzi yào xiàyǔ le, nǐ dài sǎn le ma?",
+    "en": "It looks like it's going to rain, did you bring an umbrella?"
+   },
+   {
+    "zh": "我们要搬家了,以后见面的机会不多了。",
+    "pinyin": "Wǒmen yào bānjiā le, yǐhòu jiànmiàn de jīhuì bù duō le.",
+    "en": "We're moving, so we won't get to meet often anymore."
+   },
+   {
+    "zh": "孩子明年就要上小学了。",
+    "pinyin": "Háizi míngnián jiù yào shàng xiǎoxué le.",
+    "en": "The child is going to start primary school next year."
+   },
+   {
+    "zh": "我要努力工作,给家人更好的生活。",
+    "pinyin": "Wǒ yào nǔlì gōngzuò, gěi jiārén gèng hǎo de shēnghuó.",
+    "en": "I'm going to work hard to give my family a better life."
+   },
+   {
+    "zh": "电影要开始了,快把手机关了。",
+    "pinyin": "Diànyǐng yào kāishǐ le, kuài bǎ shǒujī guān le.",
+    "en": "The movie is about to start, turn off your phone."
+   },
+   {
+    "zh": "他说他要来,可是到现在还没到。",
+    "pinyin": "Tā shuō tā yào lái, kěshì dào xiànzài hái méi dào.",
+    "en": "He said he'd come, but he still hasn't arrived."
+   },
+   {
+    "zh": "春天要到了,树上开始长新叶子了。",
+    "pinyin": "Chūntiān yào dào le, shù shàng kāishǐ zhǎng xīn yèzi le.",
+    "en": "Spring is coming, new leaves are growing on the trees."
+   },
+   {
+    "zh": "我要在这个城市重新开始我的生活。",
+    "pinyin": "Wǒ yào zài zhège chéngshì chóngxīn kāishǐ wǒ de shēnghuó.",
+    "en": "I'm going to start my life anew in this city."
+   },
+   {
+    "zh": "考试要到了,我得抓紧时间复习。",
+    "pinyin": "Kǎoshì yào dào le, wǒ děi zhuājǐn shíjiān fùxí.",
+    "en": "The exam is coming, I have to hurry and review."
+   },
+   {
+    "zh": "你要走了吗？再坐一会儿吧。",
+    "pinyin": "Nǐ yào zǒu le ma? Zài zuò yíhuìr ba.",
+    "en": "Are you leaving? Sit a while longer."
+   },
+   {
+    "zh": "这本书我快要看完了。",
+    "pinyin": "Zhè běn shū wǒ kuài yào kànwán le.",
+    "en": "I'm almost finished reading this book."
+   },
+   {
+    "zh": "公司要开一个重要的会议,大家都得参加。",
+    "pinyin": "Gōngsī yào kāi yí ge zhòngyào de huìyì, dàjiā dōu děi cānjiā.",
+    "en": "The company is going to hold an important meeting, everyone must attend."
+   },
+   {
+    "zh": "我们的假期要结束了,真舍不得。",
+    "pinyin": "Wǒmen de jiàqī yào jiéshù le, zhēn shěbùdé.",
+    "en": "Our vacation is ending, I really don't want it to."
+   },
+   {
+    "zh": "他要退休了,同事们给他准备了礼物。",
+    "pinyin": "Tā yào tuìxiū le, tóngshìmen gěi tā zhǔnbèi le lǐwù.",
+    "en": "He's retiring, and his colleagues prepared a gift for him."
+   },
+   {
+    "zh": "我明天一早要出发,今晚得早点睡。",
+    "pinyin": "Wǒ míngtiān yìzǎo yào chūfā, jīnwǎn děi zǎodiǎn shuì.",
+    "en": "I'm leaving early tomorrow, so I need to sleep early tonight."
+   },
+   {
+    "zh": "看他的样子,好像要哭了。",
+    "pinyin": "Kàn tā de yàngzi, hǎoxiàng yào kū le.",
+    "en": "By the look of him, it seems he's about to cry."
+   },
+   {
+    "zh": "我们的孩子要长大了,时间过得真快。",
+    "pinyin": "Wǒmen de háizi yào zhǎngdà le, shíjiān guò de zhēn kuài.",
+    "en": "Our child is growing up, time really flies."
+   },
+   {
+    "zh": "你要去哪儿？我送你一程吧。",
+    "pinyin": "Nǐ yào qù nǎr? Wǒ sòng nǐ yì chéng ba.",
+    "en": "Where are you going? Let me give you a ride part of the way."
+   },
+   {
+    "zh": "新的一年要开始了,祝你一切顺利。",
+    "pinyin": "Xīn de yì nián yào kāishǐ le, zhù nǐ yíqiè shùnlì.",
+    "en": "A new year is beginning, I wish you all the best."
+   },
+   {
+    "zh": "雨要停了,天空慢慢亮了起来。",
+    "pinyin": "Yǔ yào tíng le, tiānkōng mànman liàng le qǐlái.",
+    "en": "The rain is about to stop, the sky is slowly brightening."
+   },
+   {
+    "zh": "我快要坚持不住了,可是我不想放弃。",
+    "pinyin": "Wǒ kuài yào jiānchí bú zhù le, kěshì wǒ bù xiǎng fàngqì.",
+    "en": "I'm about to reach my limit, but I don't want to give up."
+   }
+  ]
+ },
+ {
+  "id": "g026",
+  "level": 1,
+  "title": "\"可以\" ile izin",
+  "titleEn": "Expressing permission with \"keyi\"",
+  "pattern": "可以 + Fiil",
+  "summary": "\"可以\" (kěyǐ) izin verme veya izin isteme anlamında \"...ebilir / ...abilir miyim\" verir: 我可以进来吗？ = İçeri girebilir miyim?",
+  "explanation": "\"可以\" ağırlıklı olarak İZİN bildirir: \"这里可以拍照\" (burada fotoğraf çekilebilir). İzin istemek için soru yapılır: \"我可以坐这里吗?\" (buraya oturabilir miyim?). Kısaca izin vermek için sadece \"可以\" denir. Olumsuz/yasak için genellikle \"不可以\" ya da \"不能\" kullanılır. \"可以\" ayrıca imkân ve \"fena değil/iyi\" anlamlarına da gelebilir.",
+  "examples": [
+   {
+    "zh": "请问,我可以坐这里吗？",
+    "pinyin": "Qǐngwèn, wǒ kěyǐ zuò zhèlǐ ma?",
+    "en": "Excuse me, may I sit here?"
+   },
+   {
+    "zh": "这个博物馆里不可以拍照。",
+    "pinyin": "Zhège bówùguǎn lǐ bù kěyǐ pāizhào.",
+    "en": "You can't take photos in this museum."
+   },
+   {
+    "zh": "你可以用我的电脑,密码是我的生日。",
+    "pinyin": "Nǐ kěyǐ yòng wǒ de diànnǎo, mìmǎ shì wǒ de shēngri.",
+    "en": "You can use my computer, the password is my birthday."
+   },
+   {
+    "zh": "孩子做完作业以后可以看一会儿电视。",
+    "pinyin": "Háizi zuòwán zuòyè yǐhòu kěyǐ kàn yíhuìr diànshì.",
+    "en": "The child can watch TV for a while after finishing homework."
+   },
+   {
+    "zh": "这里可以抽烟吗？",
+    "pinyin": "Zhèlǐ kěyǐ chōuyān ma?",
+    "en": "Can I smoke here?"
+   },
+   {
+    "zh": "你可以慢慢想,不用着急回答。",
+    "pinyin": "Nǐ kěyǐ mànman xiǎng, búyòng zháojí huídá.",
+    "en": "You can take your time, no need to answer in a hurry."
+   },
+   {
+    "zh": "这张票一个人可以带一个孩子进去。",
+    "pinyin": "Zhè zhāng piào yí ge rén kěyǐ dài yí ge háizi jìnqù.",
+    "en": "With this ticket one person can bring one child in."
+   },
+   {
+    "zh": "如果你不舒服,可以先回去休息。",
+    "pinyin": "Rúguǒ nǐ bù shūfu, kěyǐ xiān huíqù xiūxi.",
+    "en": "If you're not feeling well, you can go back and rest."
+   },
+   {
+    "zh": "这件事你可以问问经理的意见。",
+    "pinyin": "Zhè jiàn shì nǐ kěyǐ wènwen jīnglǐ de yìjiàn.",
+    "en": "You can ask the manager's opinion about this."
+   },
+   {
+    "zh": "对不起,这个座位已经有人了,你不可以坐。",
+    "pinyin": "Duìbuqǐ, zhège zuòwèi yǐjīng yǒu rén le, nǐ bù kěyǐ zuò.",
+    "en": "Sorry, this seat is taken, you can't sit here."
+   },
+   {
+    "zh": "你可以相信我,我不会告诉别人。",
+    "pinyin": "Nǐ kěyǐ xiāngxìn wǒ, wǒ bú huì gàosù biérén.",
+    "en": "You can trust me, I won't tell anyone."
+   },
+   {
+    "zh": "我们可以换个地方谈吗？这里太吵了。",
+    "pinyin": "Wǒmen kěyǐ huàn ge dìfang tán ma? Zhèlǐ tài chǎo le.",
+    "en": "Can we talk somewhere else? It's too noisy here."
+   },
+   {
+    "zh": "这种药一天可以吃两次。",
+    "pinyin": "Zhè zhǒng yào yì tiān kěyǐ chī liǎng cì.",
+    "en": "This medicine can be taken twice a day."
+   },
+   {
+    "zh": "你可以试一试,不试怎么知道行不行？",
+    "pinyin": "Nǐ kěyǐ shì yi shì, bú shì zěnme zhīdào xíng bu xíng?",
+    "en": "You can give it a try; how will you know if it works without trying?"
+   },
+   {
+    "zh": "这里的书可以借回家看。",
+    "pinyin": "Zhèlǐ de shū kěyǐ jiè huíjiā kàn.",
+    "en": "The books here can be borrowed and taken home to read."
+   },
+   {
+    "zh": "孩子还小,不可以一个人过马路。",
+    "pinyin": "Háizi hái xiǎo, bù kěyǐ yí ge rén guò mǎlù.",
+    "en": "The child is still young and can't cross the road alone."
+   },
+   {
+    "zh": "你可以告诉我发生了什么事吗？",
+    "pinyin": "Nǐ kěyǐ gàosù wǒ fāshēng le shénme shì ma?",
+    "en": "Can you tell me what happened?"
+   },
+   {
+    "zh": "这个价钱还可以,我们买下来吧。",
+    "pinyin": "Zhège jiàqián hái kěyǐ, wǒmen mǎi xiàlái ba.",
+    "en": "This price is okay, let's buy it."
+   },
+   {
+    "zh": "你随时可以给我打电话。",
+    "pinyin": "Nǐ suíshí kěyǐ gěi wǒ dǎ diànhuà.",
+    "en": "You can call me anytime."
+   },
+   {
+    "zh": "这些资料你可以拿去用,不用还给我。",
+    "pinyin": "Zhèxiē zīliào nǐ kěyǐ ná qù yòng, búyòng huán gěi wǒ.",
+    "en": "You can take these materials to use, no need to return them."
+   },
+   {
+    "zh": "人可以失败,但是不可以放弃。",
+    "pinyin": "Rén kěyǐ shībài, dànshì bù kěyǐ fàngqì.",
+    "en": "A person can fail, but must not give up."
+   },
+   {
+    "zh": "你今天可以早点走,剩下的我来做。",
+    "pinyin": "Nǐ jīntiān kěyǐ zǎodiǎn zǒu, shèngxià de wǒ lái zuò.",
+    "en": "You can leave early today, I'll do the rest."
+   },
+   {
+    "zh": "这条河夏天可以游泳,冬天可以滑冰。",
+    "pinyin": "Zhè tiáo hé xiàtiān kěyǐ yóuyǒng, dōngtiān kěyǐ huábīng.",
+    "en": "You can swim in this river in summer and skate on it in winter."
+   },
+   {
+    "zh": "有问题的话,你可以随时来找我。",
+    "pinyin": "Yǒu wèntí dehuà, nǐ kěyǐ suíshí lái zhǎo wǒ.",
+    "en": "If you have questions, you can come to me anytime."
+   },
+   {
+    "zh": "这件事我一个人可以处理,你放心吧。",
+    "pinyin": "Zhè jiàn shì wǒ yí ge rén kěyǐ chǔlǐ, nǐ fàngxīn ba.",
+    "en": "I can handle this on my own, don't worry."
+   }
+  ]
+ },
+ {
+  "id": "g027",
+  "level": 1,
+  "title": "\"要\" ile bir şey isteme",
+  "titleEn": "Wanting to do something with \"yao\"",
+  "pattern": "要 + Fiil / İsim",
+  "summary": "\"要\" (yào) bir şeyi istemek/talep etmek anlamında da kullanılır: 我要一杯水 = Bir bardak su istiyorum.",
+  "explanation": "\"要\", gelecek anlamının yanı sıra güçlü bir istek/talep de bildirir. İsimle: \"我要一杯咖啡\" (bir kahve istiyorum) — sipariş verirken çok yaygındır. Fiille: \"我要学中文\" (Çince öğrenmek istiyorum). \"想\" (xiǎng) daha yumuşak bir istek/arzu bildirir; \"要\" daha kararlı/kesindir. \"要\"'nun olumsuzu istek anlamında \"不想\" veya \"不要\" olabilir (bağlama göre).",
+  "examples": [
+   {
+    "zh": "服务员,我要一份牛肉面。",
+    "pinyin": "Fúwùyuán, wǒ yào yí fèn niúròu miàn.",
+    "en": "Waiter, I'd like a bowl of beef noodles."
+   },
+   {
+    "zh": "我要好好学习,将来做一个有用的人。",
+    "pinyin": "Wǒ yào hǎohǎo xuéxí, jiānglái zuò yí ge yǒuyòng de rén.",
+    "en": "I want to study hard and become a useful person in the future."
+   },
+   {
+    "zh": "你要不要跟我们一起去看电影？",
+    "pinyin": "Nǐ yào bu yào gēn wǒmen yìqǐ qù kàn diànyǐng?",
+    "en": "Do you want to come watch a movie with us?"
+   },
+   {
+    "zh": "孩子哭着要妈妈抱他。",
+    "pinyin": "Háizi kūzhe yào māma bào tā.",
+    "en": "The child is crying and wants mom to hold him."
+   },
+   {
+    "zh": "我要的不多,只要一家人平平安安。",
+    "pinyin": "Wǒ yào de bù duō, zhǐ yào yìjiā rén píngpíng'ān'ān.",
+    "en": "I don't want much, just for my family to be safe and sound."
+   },
+   {
+    "zh": "他要这个,不要那个,真难伺候。",
+    "pinyin": "Tā yào zhège, bú yào nàge, zhēn nán cìhou.",
+    "en": "He wants this, not that, really hard to please."
+   },
+   {
+    "zh": "我要成为一名医生,帮助更多的人。",
+    "pinyin": "Wǒ yào chéngwéi yì míng yīshēng, bāngzhù gèng duō de rén.",
+    "en": "I want to become a doctor and help more people."
+   },
+   {
+    "zh": "你要几个苹果？我给你拿。",
+    "pinyin": "Nǐ yào jǐ ge píngguǒ? Wǒ gěi nǐ ná.",
+    "en": "How many apples do you want? I'll get them for you."
+   },
+   {
+    "zh": "我要一个人静一静,请别打扰我。",
+    "pinyin": "Wǒ yào yí ge rén jìng yi jìng, qǐng bié dǎrǎo wǒ.",
+    "en": "I want to be alone and quiet, please don't disturb me."
+   },
+   {
+    "zh": "你到底要什么,能不能说清楚？",
+    "pinyin": "Nǐ dàodǐ yào shénme, néng bu néng shuō qīngchu?",
+    "en": "What exactly do you want, can you make it clear?"
+   },
+   {
+    "zh": "他要请我们全家吃饭。",
+    "pinyin": "Tā yào qǐng wǒmen quánjiā chīfàn.",
+    "en": "He wants to treat our whole family to a meal."
+   },
+   {
+    "zh": "我不要别的,只要你陪着我。",
+    "pinyin": "Wǒ bú yào biéde, zhǐ yào nǐ péizhe wǒ.",
+    "en": "I don't want anything else, just for you to be with me."
+   },
+   {
+    "zh": "这么大的事,我要好好想一想。",
+    "pinyin": "Zhème dà de shì, wǒ yào hǎohǎo xiǎng yi xiǎng.",
+    "en": "Such a big matter, I want to think it over carefully."
+   },
+   {
+    "zh": "你要买什么就买什么,别在意钱。",
+    "pinyin": "Nǐ yào mǎi shénme jiù mǎi shénme, bié zàiyì qián.",
+    "en": "Buy whatever you want, don't worry about the money."
+   },
+   {
+    "zh": "我要向你道歉,那天是我不对。",
+    "pinyin": "Wǒ yào xiàng nǐ dàoqiàn, nà tiān shì wǒ búduì.",
+    "en": "I want to apologize to you, I was wrong that day."
+   },
+   {
+    "zh": "孩子长大了,要有自己的空间。",
+    "pinyin": "Háizi zhǎngdà le, yào yǒu zìjǐ de kōngjiān.",
+    "en": "As children grow up, they need their own space."
+   },
+   {
+    "zh": "你要是想学,我可以教你。",
+    "pinyin": "Nǐ yàoshi xiǎng xué, wǒ kěyǐ jiāo nǐ.",
+    "en": "If you want to learn, I can teach you."
+   },
+   {
+    "zh": "我要谢谢所有帮助过我的人。",
+    "pinyin": "Wǒ yào xièxie suǒyǒu bāngzhùguò wǒ de rén.",
+    "en": "I want to thank everyone who has helped me."
+   },
+   {
+    "zh": "他什么都要最好的,可是又不肯努力。",
+    "pinyin": "Tā shénme dōu yào zuì hǎo de, kěshì yòu bù kěn nǔlì.",
+    "en": "He wants the best of everything, but isn't willing to work hard."
+   },
+   {
+    "zh": "我要的很简单,就是每天开开心心的。",
+    "pinyin": "Wǒ yào de hěn jiǎndān, jiùshì měitiān kāikāixīnxīn de.",
+    "en": "What I want is simple: just to be happy every day."
+   },
+   {
+    "zh": "你要注意身体,别太累了。",
+    "pinyin": "Nǐ yào zhùyì shēntǐ, bié tài lèi le.",
+    "en": "You should take care of your health, don't overwork."
+   },
+   {
+    "zh": "这次比赛我一定要拿第一名。",
+    "pinyin": "Zhè cì bǐsài wǒ yídìng yào ná dì yī míng.",
+    "en": "I'm determined to come first in this competition."
+   },
+   {
+    "zh": "你要的答案其实一直在你心里。",
+    "pinyin": "Nǐ yào de dá'àn qíshí yìzhí zài nǐ xīnlǐ.",
+    "en": "The answer you want has always been in your heart."
+   },
+   {
+    "zh": "我要感谢父母把我养育成人。",
+    "pinyin": "Wǒ yào gǎnxiè fùmǔ bǎ wǒ yǎngyù chéngrén.",
+    "en": "I want to thank my parents for raising me into an adult."
+   },
+   {
+    "zh": "你要幸福,这是我唯一的愿望。",
+    "pinyin": "Nǐ yào xìngfú, zhè shì wǒ wéiyī de yuànwàng.",
+    "en": "I want you to be happy; that's my only wish."
+   }
+  ]
+ },
+ {
+  "id": "g028",
+  "level": 1,
+  "title": "\"怎么\" ile \"nasıl\" sorusu",
+  "titleEn": "How to do something with \"zenme\"",
+  "pattern": "怎么 + Fiil ?",
+  "summary": "\"怎么\" (zěnme) bir eylemin nasıl yapıldığını sorar: 怎么走？ = Nasıl gidilir?",
+  "explanation": "\"怎么\" fiilin önüne gelerek eylemin YÖNTEMİNİ/BİÇİMİNİ sorar: 这个字怎么写? (bu karakter nasıl yazılır?), 怎么去机场? (havaalanına nasıl gidilir?). Ayrıca \"怎么\" bir durumun sebebini/şaşkınlığını da ifade edebilir: 你怎么还没睡? (nasıl olur da hâlâ uyumadın?). Bu soru kelimesi de olduğu yerde kalır, cümle başına taşınmaz.",
+  "examples": [
+   {
+    "zh": "请问,去火车站怎么走？",
+    "pinyin": "Qǐngwèn, qù huǒchēzhàn zěnme zǒu?",
+    "en": "Excuse me, how do I get to the train station?"
+   },
+   {
+    "zh": "这个字怎么写？我总是记不住。",
+    "pinyin": "Zhège zì zěnme xiě? Wǒ zǒngshì jì bu zhù.",
+    "en": "How do you write this character? I can never remember."
+   },
+   {
+    "zh": "这道菜怎么做？闻起来真香。",
+    "pinyin": "Zhè dào cài zěnme zuò? Wén qǐlái zhēn xiāng.",
+    "en": "How is this dish made? It smells so good."
+   },
+   {
+    "zh": "你怎么知道我今天不开心？",
+    "pinyin": "Nǐ zěnme zhīdào wǒ jīntiān bù kāixīn?",
+    "en": "How did you know I'm unhappy today?"
+   },
+   {
+    "zh": "这个机器怎么用,你能教教我吗？",
+    "pinyin": "Zhège jīqì zěnme yòng, nǐ néng jiāojiao wǒ ma?",
+    "en": "How do you use this machine? Can you teach me?"
+   },
+   {
+    "zh": "你怎么才来？我们等你半天了。",
+    "pinyin": "Nǐ zěnme cái lái? Wǒmen děng nǐ bàntiān le.",
+    "en": "How come you're only just arriving? We've waited for ages."
+   },
+   {
+    "zh": "这个问题应该怎么解决,大家一起想想。",
+    "pinyin": "Zhège wèntí yīnggāi zěnme jiějué, dàjiā yìqǐ xiǎngxiang.",
+    "en": "How should we solve this problem? Let's all think about it."
+   },
+   {
+    "zh": "你怎么把这么重要的事忘了？",
+    "pinyin": "Nǐ zěnme bǎ zhème zhòngyào de shì wàng le?",
+    "en": "How could you forget something so important?"
+   },
+   {
+    "zh": "这个词是什么意思,怎么用？",
+    "pinyin": "Zhège cí shì shénme yìsi, zěnme yòng?",
+    "en": "What does this word mean, and how is it used?"
+   },
+   {
+    "zh": "我不知道以后的路该怎么走。",
+    "pinyin": "Wǒ bù zhīdào yǐhòu de lù gāi zěnme zǒu.",
+    "en": "I don't know how to proceed from here."
+   },
+   {
+    "zh": "你怎么一个人在这里,你朋友呢？",
+    "pinyin": "Nǐ zěnme yí ge rén zài zhèlǐ, nǐ péngyou ne?",
+    "en": "How come you're here alone? Where are your friends?"
+   },
+   {
+    "zh": "这么复杂的事,你是怎么处理的？",
+    "pinyin": "Zhème fùzá de shì, nǐ shì zěnme chǔlǐ de?",
+    "en": "How did you handle something so complicated?"
+   },
+   {
+    "zh": "电脑坏了,你知道怎么修吗？",
+    "pinyin": "Diànnǎo huài le, nǐ zhīdào zěnme xiū ma?",
+    "en": "The computer is broken, do you know how to fix it?"
+   },
+   {
+    "zh": "你怎么突然改变主意了？",
+    "pinyin": "Nǐ zěnme tūrán gǎibiàn zhǔyi le?",
+    "en": "How come you suddenly changed your mind?"
+   },
+   {
+    "zh": "这件事我该怎么跟他说呢？",
+    "pinyin": "Zhè jiàn shì wǒ gāi zěnme gēn tā shuō ne?",
+    "en": "How should I tell him about this?"
+   },
+   {
+    "zh": "你们是怎么认识的？给我讲讲。",
+    "pinyin": "Nǐmen shì zěnme rènshi de? Gěi wǒ jiǎngjiang.",
+    "en": "How did you two meet? Tell me about it."
+   },
+   {
+    "zh": "外面这么冷,你怎么不多穿点儿？",
+    "pinyin": "Wàimiàn zhème lěng, nǐ zěnme bù duō chuān diǎnr?",
+    "en": "It's so cold outside, why aren't you wearing more?"
+   },
+   {
+    "zh": "这个游戏怎么玩,规则太复杂了。",
+    "pinyin": "Zhège yóuxì zěnme wán, guīzé tài fùzá le.",
+    "en": "How do you play this game? The rules are too complex."
+   },
+   {
+    "zh": "我真不知道该怎么感谢你才好。",
+    "pinyin": "Wǒ zhēn bù zhīdào gāi zěnme gǎnxiè nǐ cái hǎo.",
+    "en": "I really don't know how to thank you enough."
+   },
+   {
+    "zh": "你怎么把杯子打破了？没伤到手吧？",
+    "pinyin": "Nǐ zěnme bǎ bēizi dǎpò le? Méi shāngdào shǒu ba?",
+    "en": "How did you break the cup? You didn't hurt your hand, did you?"
+   },
+   {
+    "zh": "这么远的路,你打算怎么去？",
+    "pinyin": "Zhème yuǎn de lù, nǐ dǎsuàn zěnme qù?",
+    "en": "Such a long way, how do you plan to get there?"
+   },
+   {
+    "zh": "日子再难,也得想办法过下去。你说该怎么办？",
+    "pinyin": "Rìzi zài nán, yě děi xiǎng bànfǎ guò xiàqù. Nǐ shuō gāi zěnme bàn?",
+    "en": "However hard life is, we must find a way through. What do you think we should do?"
+   },
+   {
+    "zh": "你怎么看起来这么累,昨晚没睡好吗？",
+    "pinyin": "Nǐ zěnme kàn qǐlái zhème lèi, zuówǎn méi shuì hǎo ma?",
+    "en": "How come you look so tired, didn't you sleep well last night?"
+   },
+   {
+    "zh": "我一直在想,这件事到底是怎么发生的。",
+    "pinyin": "Wǒ yìzhí zài xiǎng, zhè jiàn shì dàodǐ shì zěnme fāshēng de.",
+    "en": "I keep wondering how this actually happened."
+   },
+   {
+    "zh": "不管怎么说,你都应该先道个歉。",
+    "pinyin": "Bùguǎn zěnme shuō, nǐ dōu yīnggāi xiān dào ge qiàn.",
+    "en": "No matter what, you should apologize first."
+   }
+  ]
+ },
+ {
+  "id": "g029",
+  "level": 1,
+  "title": "\"没有\" ile geçmiş eylemin olumsuzu",
+  "titleEn": "Negation of past actions with \"meiyou\"",
+  "pattern": "没(有) + Fiil",
+  "summary": "Geçmişte gerçekleşmemiş bir eylem \"不\" ile değil, \"没(有)\" ile olumsuzlanır: 我没去 = Gitmedim.",
+  "explanation": "Bir eylemin GERÇEKLEŞMEDİĞİNİ (geçmiş) söylerken \"不\" değil \"没(有)\" kullanılır. \"我不去\" = gitmiyorum/gitmeyeceğim (irade/gelecek), \"我没去\" = gitmedim (gerçekleşmedi). \"没\" ile birlikte \"了\" KULLANILMAZ çünkü eylem tamamlanmamıştır: \"我没吃\" doğru, \"我没吃了\" yanlıştır. Konuşmada \"有\" düşüp sadece \"没\" kalabilir.",
+  "examples": [
+   {
+    "zh": "我昨天没去上班,因为生病了。",
+    "pinyin": "Wǒ zuótiān méi qù shàngbān, yīnwèi shēngbìng le.",
+    "en": "I didn't go to work yesterday because I was sick."
+   },
+   {
+    "zh": "对不起,我没听清楚,你能再说一遍吗？",
+    "pinyin": "Duìbuqǐ, wǒ méi tīng qīngchu, nǐ néng zài shuō yí biàn ma?",
+    "en": "Sorry, I didn't hear clearly, can you say it again?"
+   },
+   {
+    "zh": "他一晚上都没睡,眼睛红红的。",
+    "pinyin": "Tā yì wǎnshang dōu méi shuì, yǎnjing hónghóng de.",
+    "en": "He didn't sleep all night, his eyes are all red."
+   },
+   {
+    "zh": "我等了很久,可是她一直没来。",
+    "pinyin": "Wǒ děng le hěn jiǔ, kěshì tā yìzhí méi lái.",
+    "en": "I waited a long time, but she never came."
+   },
+   {
+    "zh": "这件事我还没告诉任何人。",
+    "pinyin": "Zhè jiàn shì wǒ hái méi gàosù rènhé rén.",
+    "en": "I haven't told anyone about this yet."
+   },
+   {
+    "zh": "你怎么没吃早饭就出门了？",
+    "pinyin": "Nǐ zěnme méi chī zǎofàn jiù chūmén le?",
+    "en": "How did you leave without eating breakfast?"
+   },
+   {
+    "zh": "我给他打了好几次电话,他都没接。",
+    "pinyin": "Wǒ gěi tā dǎ le hǎojǐ cì diànhuà, tā dōu méi jiē.",
+    "en": "I called him several times, but he didn't pick up."
+   },
+   {
+    "zh": "这么多年过去了,他一点儿也没变。",
+    "pinyin": "Zhème duō nián guòqù le, tā yìdiǎnr yě méi biàn.",
+    "en": "After all these years, he hasn't changed a bit."
+   },
+   {
+    "zh": "我没想到事情会变成这样。",
+    "pinyin": "Wǒ méi xiǎngdào shìqing huì biànchéng zhèyàng.",
+    "en": "I didn't expect things would turn out this way."
+   },
+   {
+    "zh": "作业太多了,我昨晚没做完。",
+    "pinyin": "Zuòyè tài duō le, wǒ zuówǎn méi zuòwán.",
+    "en": "There was too much homework, I didn't finish it last night."
+   },
+   {
+    "zh": "他说他没拿我的书,可是我不太相信。",
+    "pinyin": "Tā shuō tā méi ná wǒ de shū, kěshì wǒ bú tài xiāngxìn.",
+    "en": "He said he didn't take my book, but I don't quite believe it."
+   },
+   {
+    "zh": "这部电影我一直没机会看。",
+    "pinyin": "Zhè bù diànyǐng wǒ yìzhí méi jīhuì kàn.",
+    "en": "I've never had the chance to watch this movie."
+   },
+   {
+    "zh": "我们好几年没见了,你都没什么变化。",
+    "pinyin": "Wǒmen hǎojǐ nián méi jiàn le, nǐ dōu méi shénme biànhuà.",
+    "en": "We haven't met in years, and you've hardly changed."
+   },
+   {
+    "zh": "雨下了一整天都没停。",
+    "pinyin": "Yǔ xià le yìzhěng tiān dōu méi tíng.",
+    "en": "It rained all day without stopping."
+   },
+   {
+    "zh": "我没听说过这个消息,是真的吗？",
+    "pinyin": "Wǒ méi tīngshuōguò zhège xiāoxi, shì zhēn de ma?",
+    "en": "I haven't heard this news, is it true?"
+   },
+   {
+    "zh": "他忙得连饭都没顾上吃。",
+    "pinyin": "Tā máng de lián fàn dōu méi gùshàng chī.",
+    "en": "He was so busy he didn't even get a chance to eat."
+   },
+   {
+    "zh": "这次考试我没考好,有点难过。",
+    "pinyin": "Zhè cì kǎoshì wǒ méi kǎo hǎo, yǒudiǎn nánguò.",
+    "en": "I didn't do well on this exam, I feel a bit down."
+   },
+   {
+    "zh": "我没带钱,可以下次再给你吗？",
+    "pinyin": "Wǒ méi dài qián, kěyǐ xià cì zài gěi nǐ ma?",
+    "en": "I didn't bring money, can I give it to you next time?"
+   },
+   {
+    "zh": "他到最后也没说出自己的想法。",
+    "pinyin": "Tā dào zuìhòu yě méi shuōchū zìjǐ de xiǎngfǎ.",
+    "en": "In the end he never expressed his own thoughts."
+   },
+   {
+    "zh": "我一直没勇气告诉她我的感受。",
+    "pinyin": "Wǒ yìzhí méi yǒngqì gàosù tā wǒ de gǎnshòu.",
+    "en": "I never had the courage to tell her how I feel."
+   },
+   {
+    "zh": "这么好的机会,你怎么没抓住？",
+    "pinyin": "Zhème hǎo de jīhuì, nǐ zěnme méi zhuāzhù?",
+    "en": "Such a good chance, how did you not seize it?"
+   },
+   {
+    "zh": "我们那天玩得太开心,都没注意到时间。",
+    "pinyin": "Wǒmen nà tiān wán de tài kāixīn, dōu méi zhùyìdào shíjiān.",
+    "en": "We had so much fun that day that we didn't notice the time."
+   },
+   {
+    "zh": "他病了这么久,一直没好起来。",
+    "pinyin": "Tā bìng le zhème jiǔ, yìzhí méi hǎo qǐlái.",
+    "en": "He's been sick for so long and hasn't recovered."
+   },
+   {
+    "zh": "这本书我买了很久,可是一直没看。",
+    "pinyin": "Zhè běn shū wǒ mǎi le hěn jiǔ, kěshì yìzhí méi kàn.",
+    "en": "I bought this book long ago, but never read it."
+   },
+   {
+    "zh": "我没做错事,为什么要向他道歉？",
+    "pinyin": "Wǒ méi zuòcuò shì, wèishénme yào xiàng tā dàoqiàn?",
+    "en": "I didn't do anything wrong, why should I apologize to him?"
+   }
+  ]
  }
 ]

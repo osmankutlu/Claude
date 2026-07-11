@@ -27742,5 +27742,685 @@
     "en": "Let's head back; it's getting late and time to go home."
    }
   ]
+ },
+ {
+  "id": "g205",
+  "level": 3,
+  "title": "\"在...上\" ile \"... bakımından, ...konusunda\"",
+  "titleEn": "Idiomatic phrases with \"zai\"",
+  "pattern": "在 + Konu + 上，Özne ...",
+  "summary": "\"在...上\" soyut bir alan/açı belirtir: \"... bakımından, ...konusunda, ... açısından\": 在学习上 = öğrenim konusunda.",
+  "explanation": "\"在...上\" somut bir konum dışında SOYUT bir ALAN, açı ya da bakımı da belirtir: \"... bakımından, ... açısından, ... konusunda, ... hususunda\". 在学习上,他一直很努力 (Öğrenim konusunda hep çalışkandır), 在这个问题上,大家的看法不一样 (Bu konuda görüşler farklı), 在生活上,父母给了我很多帮助 (Yaşam bakımından ailem çok yardım etti). \"上\" burada fiziksel \"üst\" değil, bir konuyu/alanı çerçeveleyen soyut bir işarettir. Genelde cümle başında bir çerçeve/konu kurar ve ardından o alandaki durum söylenir. Benzer kalıplar: 在...方面 (... yönünden), 在...中 (... içinde). Türkçedeki \"... bakımından, ... açısından, ... konusunda, ... hususunda\" ifadelerine denk gelir; bir konuyu ya da açıyı çerçevelemenin yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "在学习上,他从来不用父母操心,一直很自觉。",
+    "pinyin": "Zài xué xí shàng, tā cóng lái bù yòng fù mǔ cāo xīn, yì zhí hěn zì jué。",
+    "en": "In studies, he never worries his parents; he's always self-disciplined."
+   },
+   {
+    "zh": "在这个问题上,我和你的看法基本一致。",
+    "pinyin": "Zài zhè ge wèn tí shàng, wǒ hé nǐ de kàn fǎ jī běn yí zhì。",
+    "en": "On this issue, my view and yours basically agree."
+   },
+   {
+    "zh": "在生活上遇到困难,别硬扛着,跟家里说一声。",
+    "pinyin": "Zài shēng huó shàng yù dào kùn nán, bié yìng káng zhe, gēn jiā lǐ shuō yī shēng。",
+    "en": "If you face hardship in life, don't tough it out alone; tell your family."
+   },
+   {
+    "zh": "在工作上,他是个精益求精、一丝不苟的人。",
+    "pinyin": "Zài gōng zuò shàng, tā shì gè jīng yì qiú jīng、 yī sī bù gǒu de rén。",
+    "en": "At work, he's someone who strives for perfection and is meticulous."
+   },
+   {
+    "zh": "在教育孩子的问题上,夫妻俩常常意见不合。",
+    "pinyin": "Zài jiào yù hái zi de wèn tí shàng, fū qī liǎ cháng cháng yì jiàn bù hé。",
+    "en": "On educating the children, the couple often disagrees."
+   },
+   {
+    "zh": "他在音乐上很有天分,几乎无师自通。",
+    "pinyin": "Tā zài yīn yuè shàng hěn yǒu tiān fèn, jī hū wú shī zì tōng。",
+    "en": "He's very gifted in music, almost self-taught."
+   },
+   {
+    "zh": "在待人接物上,她一向温和有礼,很受欢迎。",
+    "pinyin": "Zài dài rén jiē wù shàng, tā yí xiàng wēn hé yǒu lǐ, hěn shòu huān yíng。",
+    "en": "In dealing with people, she's always gentle and polite, well liked."
+   },
+   {
+    "zh": "我们要在思想上重视安全,不能有丝毫马虎。",
+    "pinyin": "Wǒ men yào zài sī xiǎng shàng zhòng shì ān quán, bù néng yǒu sī háo mǎ hǔ。",
+    "en": "We must value safety in our thinking, without the slightest carelessness."
+   },
+   {
+    "zh": "在饮食上,老人应该少油少盐,多吃清淡的。",
+    "pinyin": "Zài yǐn shí shàng, lǎo rén yīng gāi shǎo yóu shǎo yán, duō chī qīng dàn de。",
+    "en": "In diet, the elderly should eat less oil and salt, more light food."
+   },
+   {
+    "zh": "在事业上,他取得了不小的成就,令人佩服。",
+    "pinyin": "Zài shì yè shàng, tā qǔ de le bù xiǎo de chéng jiù, lìng rén pèi fú。",
+    "en": "In his career, he achieved a lot, which is admirable."
+   },
+   {
+    "zh": "在时间安排上,你最好留出一些机动的余地。",
+    "pinyin": "Zài shí jiān ān pái shàng, nǐ zuì hǎo liú chū yī xiē jī dòng de yú de。",
+    "en": "In scheduling, you'd best leave some flexible room."
+   },
+   {
+    "zh": "在这件事上,我觉得他做得一点儿也没错。",
+    "pinyin": "Zài zhè jiàn shì shàng, wǒ jué de tā zuò de yì diǎn ér yě méi cuò。",
+    "en": "On this matter, I think he did nothing wrong at all."
+   },
+   {
+    "zh": "在语言学习上,坚持和积累比什么都重要。",
+    "pinyin": "Zài yǔ yán xué xí shàng, jiān chí hé jī lěi bǐ shén me dōu zhòng yào。",
+    "en": "In language learning, persistence and accumulation matter most."
+   },
+   {
+    "zh": "父母在经济上支持我,在精神上鼓励我。",
+    "pinyin": "Fù mǔ zài jīng jì shàng zhī chí wǒ, zài jīng shén shàng gǔ lì wǒ。",
+    "en": "My parents support me financially and encourage me spiritually."
+   },
+   {
+    "zh": "在这个方向上,我们已经取得了阶段性的进展。",
+    "pinyin": "Zài zhè ge fāng xiàng shàng, wǒ men yǐ jīng qǔ de le jiē duàn xìng de jìn zhǎn。",
+    "en": "In this direction, we've made phased progress."
+   },
+   {
+    "zh": "在为人处世上,他比同龄人成熟得多。",
+    "pinyin": "Zài wéi rén chǔ shì shàng, tā bǐ tóng líng rén chéng shú de duō。",
+    "en": "In dealing with the world, he's far more mature than his peers."
+   },
+   {
+    "zh": "我们在细节上还需要再打磨打磨,力求完美。",
+    "pinyin": "Wǒ men zài xì jié shàng hái xū yào zài dǎ mó dǎ mó, lì qiú wán měi。",
+    "en": "We need to polish the details more, striving for perfection."
+   },
+   {
+    "zh": "在健康上投资,永远都是最划算的事。",
+    "pinyin": "Zài jiàn kāng shàng tóu zī, yǒng yuǎn dōu shì zuì huá suàn de shì。",
+    "en": "Investing in health is always the most worthwhile thing."
+   },
+   {
+    "zh": "在这一点上,我不得不承认他说得很有道理。",
+    "pinyin": "Zài zhè yì diǎn shàng, wǒ bù de bù chéng rèn tā shuō de hěn yǒu dào lǐ。",
+    "en": "On this point, I must admit he makes a lot of sense."
+   },
+   {
+    "zh": "他在专业上很强,可是在沟通上还有待提高。",
+    "pinyin": "Tā zài zhuān yè shàng hěn qiáng, kě shì zài gōu tōng shàng hái yǒu dài tí gāo。",
+    "en": "He's strong professionally, but his communication needs improving."
+   },
+   {
+    "zh": "在环保上,我们每个人都可以出一份力。",
+    "pinyin": "Zài huán bǎo shàng, wǒ men měi gè rén dōu kě yǐ chū yī fèn lì。",
+    "en": "In environmental protection, each of us can contribute."
+   },
+   {
+    "zh": "在感情上,他一直是个很专一、很负责的人。",
+    "pinyin": "Zài gǎn qíng shàng, tā yì zhí shì gè hěn zhuān yī、 hěn fù zé de rén。",
+    "en": "In matters of the heart, he's always been devoted and responsible."
+   },
+   {
+    "zh": "在这个领域里,她是公认的专家。",
+    "pinyin": "Zài zhè ge lǐng yù lǐ, tā shì gōng rèn de zhuān jiā。",
+    "en": "In this field, she's a recognized expert."
+   },
+   {
+    "zh": "在原则问题上,我们绝不能有半点让步。",
+    "pinyin": "Zài yuán zé wèn tí shàng, wǒ men jué bù néng yǒu bàn diǎn ràng bù。",
+    "en": "On matters of principle, we cannot make the slightest concession."
+   },
+   {
+    "zh": "在困难面前,大家在行动上表现出了极强的团结。",
+    "pinyin": "Zài kùn nán miàn qián, dà jiā zài háng dòng shàng biǎo xiàn chū le jí qiáng de tuán jié。",
+    "en": "In the face of difficulty, everyone showed great unity in action."
+   }
+  ]
+ },
+ {
+  "id": "g206",
+  "level": 3,
+  "title": "\"对\" ile \"...-e (karşı), ... için\"",
+  "titleEn": "Using \"dui\" with verbs",
+  "pattern": "Özne + 对 + Kişi/Şey + Fiil",
+  "summary": "\"对\" (duì) bir eylemin/tutumun yöneldiği kişi ya da şeyi gösterir: 对我很好 = bana çok iyi (davranıyor); 对身体好 = sağlığa iyi.",
+  "explanation": "\"对\" bir edat olarak bir eylemin, tutumun ya da etkinin YÖNELDİĞİ kişiyi/şeyi belirtir ve yüklemden önce gelir: 他对我很好 (Bana çok iyi davranıyor), 抽烟对身体不好 (Sigara sağlığa zararlı), 我对这件事很感兴趣 (Bu konuya çok ilgi duyuyorum), 对这个问题,大家有不同意见 (Bu konuya dair farklı görüşler var). Türkçedeki \"...-e, ...-e karşı, ... için, ... hakkında\" anlamlarını taşır. \"对...来说\" (... açısından/-e göre) sık bir kalıptır. Tutum bildiren fiil/sıfatlarla (好, 客气, 满意, 感兴趣, 有帮助, 负责) çok kullanılır. \"向\" ile farkı: \"对\" hedef/tutum/etki (bir şeye karşı), \"向\" ise yön/yönelme (bir yöne doğru) vurgular. Türkçedeki \"...-e (karşı), ... için, ... hakkında\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他对每一位客人都很热情,让人感觉很温暖。",
+    "pinyin": "Tā duì měi yī wèi kè rén dōu hěn rè qíng, ràng rén gǎn jué hěn wēn nuǎn。",
+    "en": "He's warm to every guest, making people feel welcome."
+   },
+   {
+    "zh": "经常熬夜对身体的伤害很大,你要注意休息。",
+    "pinyin": "Jīng cháng áo yè duì shēn tǐ de shāng hài hěn dà, nǐ yào zhù yì xiū xī。",
+    "en": "Frequently staying up harms your health greatly; mind your rest."
+   },
+   {
+    "zh": "我对中国的历史文化一直特别感兴趣。",
+    "pinyin": "Wǒ duì zhōng guó de lì shǐ wén huà yì zhí tè bié gǎn xìng qù。",
+    "en": "I've always been especially interested in Chinese history and culture."
+   },
+   {
+    "zh": "老师对学生很负责,常常利用课余时间辅导他们。",
+    "pinyin": "Lǎo shī duì xué shēng hěn fù zé, cháng cháng lì yòng kè yú shí jiān fǔ dǎo tā men。",
+    "en": "The teacher is responsible toward students, often tutoring after class."
+   },
+   {
+    "zh": "多吃蔬菜水果对身体有很多好处。",
+    "pinyin": "Duō chī shū cài shuǐ guǒ duì shēn tǐ yǒu hěn duō hǎo chù。",
+    "en": "Eating more fruit and vegetables benefits your health greatly."
+   },
+   {
+    "zh": "他对自己要求很高,做什么事都力求做到最好。",
+    "pinyin": "Tā duì zì jǐ yāo qiú hěn gāo, zuò shén me shì dōu lì qiú zuò dào zuì hǎo。",
+    "en": "He demands a lot of himself, striving to do everything best."
+   },
+   {
+    "zh": "对这次的安排,大家都表示非常满意。",
+    "pinyin": "Duì zhè cì de ān pái, dà jiā dōu biǎo shì fēi cháng mǎn yì。",
+    "en": "Everyone expressed great satisfaction with this arrangement."
+   },
+   {
+    "zh": "父母对我们的爱是无私的,不求任何回报。",
+    "pinyin": "Fù mǔ duì wǒ men de ài shì wú sī de, bù qiú rèn hé huí bào。",
+    "en": "Our parents' love is selfless, seeking no reward."
+   },
+   {
+    "zh": "你这样做对他不太公平,应该多为他想想。",
+    "pinyin": "Nǐ zhè yàng zuò duì tā bù tài gōng píng, yīng gāi duō wèi tā xiǎng xiǎng。",
+    "en": "Doing this isn't quite fair to him; think more of him."
+   },
+   {
+    "zh": "坚持锻炼对预防疾病很有帮助。",
+    "pinyin": "Jiān chí duàn liàn duì yù fáng jí bìng hěn yǒu bāng zhù。",
+    "en": "Persistent exercise helps a lot in preventing illness."
+   },
+   {
+    "zh": "他对工作认真负责,从来不敷衍了事。",
+    "pinyin": "Tā duì gōng zuò rèn zhēn fù zé, cóng lái bù fū yǎn liǎo shì。",
+    "en": "He's earnest and responsible at work, never perfunctory."
+   },
+   {
+    "zh": "对陌生人要有礼貌,但也要保持一定的警惕。",
+    "pinyin": "Duì mò shēng rén yào yǒu lǐ mào, dàn yě yào bǎo chí yí dìng de jǐng tì。",
+    "en": "Be polite to strangers, but also stay somewhat alert."
+   },
+   {
+    "zh": "这本书对我的影响很大,改变了我很多想法。",
+    "pinyin": "Zhè běn shū duì wǒ de yǐng xiǎng hěn dà, gǎi biàn le wǒ hěn duō xiǎng fǎ。",
+    "en": "This book influenced me greatly, changing many of my ideas."
+   },
+   {
+    "zh": "对朋友,他一向真诚,从不虚情假意。",
+    "pinyin": "Duì péng yǒu, tā yí xiàng zhēn chéng, cóng bù xū qíng jiǎ yì。",
+    "en": "To friends, he's always sincere, never false."
+   },
+   {
+    "zh": "我对这道菜的味道不太满意,好像少了点什么。",
+    "pinyin": "Wǒ duì zhè dào cài de wèi dào bù tài mǎn yì, hǎo xiàng shǎo le diǎn shén me。",
+    "en": "I'm not quite satisfied with this dish; it seems to lack something."
+   },
+   {
+    "zh": "良好的睡眠对孩子的成长非常重要。",
+    "pinyin": "Liáng hǎo de shuì mián duì hái zi de chéng zhǎng fēi cháng zhòng yào。",
+    "en": "Good sleep is very important for a child's growth."
+   },
+   {
+    "zh": "他对家乡有着深厚的感情,退休后就搬回去住了。",
+    "pinyin": "Tā duì jiā xiāng yǒu zhe shēn hòu de gǎn qíng, tuì xiū hòu jiù bān huí qù zhù le。",
+    "en": "He has deep feelings for his hometown and moved back after retiring."
+   },
+   {
+    "zh": "对这个建议,领导表示会认真研究一下。",
+    "pinyin": "Duì zhè ge jiàn yì, lǐng dǎo biǎo shì huì rèn zhēn yán jiū yī xià。",
+    "en": "On this suggestion, the leader said it would be seriously studied."
+   },
+   {
+    "zh": "你对自己要有信心,别总是低估自己的能力。",
+    "pinyin": "Nǐ duì zì jǐ yào yǒu xìn xīn, bié zǒng shì dī gū zì jǐ de néng lì。",
+    "en": "Have confidence in yourself; don't always underestimate your abilities."
+   },
+   {
+    "zh": "长期看手机对眼睛的伤害不容忽视。",
+    "pinyin": "Cháng qī kàn shǒu jī duì yǎn jīng de shāng hài bù róng hū shì。",
+    "en": "The harm of prolonged phone use to the eyes can't be ignored."
+   },
+   {
+    "zh": "他对每个细节都很认真,难怪工作做得那么出色。",
+    "pinyin": "Tā duì měi gè xì jié dōu hěn rèn zhēn, nán guài gōng zuò zuò de nà me chū sè。",
+    "en": "He's careful about every detail; no wonder his work is excellent."
+   },
+   {
+    "zh": "对我来说,家人的健康比什么都重要。",
+    "pinyin": "Duì wǒ lái shuō, jiā rén de jiàn kāng bǐ shén me dōu zhòng yào。",
+    "en": "To me, my family's health matters more than anything."
+   },
+   {
+    "zh": "这位老师对教育事业充满了热情和责任感。",
+    "pinyin": "Zhè wèi lǎo shī duì jiào yù shì yè chōng mǎn le rè qíng hé zé rèn gǎn。",
+    "en": "This teacher is full of passion and responsibility for education."
+   },
+   {
+    "zh": "你对他误会了,他其实一直在默默地帮你。",
+    "pinyin": "Nǐ duì tā wù huì le, tā qí shí yì zhí zài mò mò de bāng nǐ。",
+    "en": "You've misunderstood him; he's actually been quietly helping you."
+   },
+   {
+    "zh": "保持乐观的心态对战胜困难很有帮助。",
+    "pinyin": "Bǎo chí lè guān de xīn tài duì zhàn shèng kùn nán hěn yǒu bāng zhù。",
+    "en": "Keeping an optimistic attitude helps a lot in overcoming difficulties."
+   }
+  ]
+ },
+ {
+  "id": "g207",
+  "level": 3,
+  "title": "\"看起来\" ile \"görünüşe göre, ...gibi görünüyor\"",
+  "titleEn": "Appearance with \"kanqilai\"",
+  "pattern": "看起来 + ...",
+  "summary": "\"看起来\" (kànqǐlái) bir şeyin dıştan nasıl göründüğünü/izlenimini bildirir: 他看起来很累 = O yorgun görünüyor.",
+  "explanation": "\"看起来\" bir şeyin/kişinin DIŞ görünüşünü ya da bir durumdan çıkan izlenimi bildirir: \"...gibi görünüyor, görünüşe göre, dıştan ... görünüyor\". 他看起来很年轻 (Genç görünüyor), 天看起来要下雨了 (Hava yağmur yağacak gibi görünüyor), 这道题看起来难,其实不难 (Bu soru zor görünüyor ama aslında değil). Bir gözleme dayalı yargı/tahmin bildirir ve çoğu zaman gerçeğin farklı olabileceğini ima eder (看起来...,其实... = görünüşte ... ama aslında ...). Cümlenin başında ya da öznenin ardından gelir. Benzer ifadeler: 看上去 (aynı anlam), 听起来 (kulağa ... geliyor). Türkçedeki \"...gibi görünüyor, görünüşe göre, anlaşılan, ...-mış gibi\" ifadelerine denk gelir; dış izlenime dayalı çıkarım yapmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "他今天看起来气色不太好,是不是没休息好?",
+    "pinyin": "Tā jīn tiān kàn qǐ lái qì sè bù tài hǎo, shì bú shì méi xiū xī hǎo?",
+    "en": "He looks a bit unwell today; didn't he rest well?"
+   },
+   {
+    "zh": "这道菜看起来普普通通,没想到味道这么好。",
+    "pinyin": "Zhè dào cài kàn qǐ lái pǔ pǔ tōng tōng, méi xiǎng dào wèi dào zhè me hǎo。",
+    "en": "This dish looks ordinary, but surprisingly tastes great."
+   },
+   {
+    "zh": "天看起来要变了,乌云越来越厚,我们快回去吧。",
+    "pinyin": "Tiān kàn qǐ lái yào biàn le, wū yún yuè lái yuè hòu, wǒ men kuài huí qù ba。",
+    "en": "The weather looks like it'll change; the clouds thicken, let's head back."
+   },
+   {
+    "zh": "这个问题看起来很复杂,理清思路后其实很简单。",
+    "pinyin": "Zhè ge wèn tí kàn qǐ lái hěn fù zá, lǐ qīng sī lù hòu qí shí hěn jiǎn dān。",
+    "en": "This problem looks complex, but once you sort it out, it's simple."
+   },
+   {
+    "zh": "她看起来很年轻,谁也没想到她已经四十多岁了。",
+    "pinyin": "Tā kàn qǐ lái hěn nián qīng, shuí yě méi xiǎng dào tā yǐ jīng sì shí duō suì le。",
+    "en": "She looks young; no one would guess she's over forty."
+   },
+   {
+    "zh": "这件衣服看起来质量不错,你可以试试。",
+    "pinyin": "Zhè jiàn yī fú kàn qǐ lái zhì liàng bù cuò, nǐ kě yǐ shì shì。",
+    "en": "This outfit looks well-made; you could try it on."
+   },
+   {
+    "zh": "他看起来很冷淡,其实内心非常热情。",
+    "pinyin": "Tā kàn qǐ lái hěn lěng dàn, qí shí nèi xīn fēi cháng rè qíng。",
+    "en": "He seems cold, but he's actually very warm inside."
+   },
+   {
+    "zh": "这条路看起来不远,走起来才发现挺费劲的。",
+    "pinyin": "Zhè tiáo lù kàn qǐ lái bù yuǎn, zǒu qǐ lái cái fā xiàn tǐng fèi jìn de。",
+    "en": "This road looks short, but walking it turns out quite tiring."
+   },
+   {
+    "zh": "孩子看起来很懂事,做事有条有理的。",
+    "pinyin": "Hái zi kàn qǐ lái hěn dǒng shì, zuò shì yǒu tiáo yǒu lǐ de。",
+    "en": "The child seems sensible, doing things in an orderly way."
+   },
+   {
+    "zh": "这台机器看起来很旧,但用起来还是很顺手。",
+    "pinyin": "Zhè tái jī qì kàn qǐ lái hěn jiù, dàn yòng qǐ lái hái shì hěn shùn shǒu。",
+    "en": "This machine looks old, but it's still smooth to use."
+   },
+   {
+    "zh": "他俩看起来很像,其实一点血缘关系都没有。",
+    "pinyin": "Tā liǎ kàn qǐ lái hěn xiàng, qí shí yì diǎn xuè yuán guān xì dōu méi yǒu。",
+    "en": "The two look alike, but have no blood relation at all."
+   },
+   {
+    "zh": "外面看起来挺暖和,可一出门就被风吹得直哆嗦。",
+    "pinyin": "Wài miàn kàn qǐ lái tǐng nuǎn huo, kě yī chū mén jiù bèi fēng chuī de zhí duō suo。",
+    "en": "It looks warm out, but the wind makes you shiver once outside."
+   },
+   {
+    "zh": "这份工作看起来轻松,做起来其实压力不小。",
+    "pinyin": "Zhè fèn gōng zuò kàn qǐ lái qīng sōng, zuò qǐ lái qí shí yā lì bù xiǎo。",
+    "en": "This job looks easy, but doing it is quite stressful."
+   },
+   {
+    "zh": "他看起来很有把握,说话的语气特别自信。",
+    "pinyin": "Tā kàn qǐ lái hěn yǒu bǎ wò, shuō huà de yǔ qì tè bié zì xìn。",
+    "en": "He looks confident; his tone is especially assured."
+   },
+   {
+    "zh": "这些水果看起来很新鲜,应该是刚到货的。",
+    "pinyin": "Zhè xiē shuǐ guǒ kàn qǐ lái hěn xīn xiān, yīng gāi shì gāng dào huò de。",
+    "en": "This fruit looks fresh; it must have just arrived."
+   },
+   {
+    "zh": "事情看起来已经解决了,可其实还有不少隐患。",
+    "pinyin": "Shì qíng kàn qǐ lái yǐ jīng jiě jué le, kě qí shí hái yǒu bù shǎo yǐn huàn。",
+    "en": "The matter looks resolved, but there are still hidden risks."
+   },
+   {
+    "zh": "她看起来心情不错,一直在笑,不知道有什么好事。",
+    "pinyin": "Tā kàn qǐ lái xīn qíng bù cuò, yì zhí zài xiào, bù zhī dào yǒu shén me hǎo shì。",
+    "en": "She seems in a good mood, smiling; I wonder what good news there is."
+   },
+   {
+    "zh": "这栋楼看起来不高,里面的结构却很复杂。",
+    "pinyin": "Zhè dòng lóu kàn qǐ lái bù gāo, lǐ miàn de jié gòu què hěn fù zá。",
+    "en": "This building doesn't look tall, but its structure is complex."
+   },
+   {
+    "zh": "他看起来很轻松地就完成了,背后其实下了很多功夫。",
+    "pinyin": "Tā kàn qǐ lái hěn qīng sōng de jiù wán chéng le, bèi hòu qí shí xià le hěn duō gōng fu。",
+    "en": "He seemed to finish easily, but put in much effort behind it."
+   },
+   {
+    "zh": "天色看起来还早,其实太阳很快就要落山了。",
+    "pinyin": "Tiān sè kàn qǐ lái hái zǎo, qí shí tài yáng hěn kuài jiù yào luò shān le。",
+    "en": "It looks early, but the sun will set soon."
+   },
+   {
+    "zh": "这个方案看起来可行,不过还需要进一步验证。",
+    "pinyin": "Zhè ge fāng àn kàn qǐ lái kě xíng, bù guò hái xū yào jìn yí bù yàn zhèng。",
+    "en": "This plan looks feasible, but needs further verification."
+   },
+   {
+    "zh": "他看起来什么都不在乎,心里其实特别敏感。",
+    "pinyin": "Tā kàn qǐ lái shén me dōu bù zài hū, xīn lǐ qí shí tè bié mǐn gǎn。",
+    "en": "He looks like he cares about nothing, but is very sensitive inside."
+   },
+   {
+    "zh": "这只小猫看起来很凶,其实特别黏人。",
+    "pinyin": "Zhè zhǐ xiǎo māo kàn qǐ lái hěn xiōng, qí shí tè bié nián rén。",
+    "en": "This kitten looks fierce, but is actually very clingy."
+   },
+   {
+    "zh": "你看起来瘦了不少,最近是不是太累了?",
+    "pinyin": "Nǐ kàn qǐ lái shòu le bù shǎo, zuì jìn shì bú shì tài lèi le?",
+    "en": "You look a lot thinner; have you been too tired lately?"
+   },
+   {
+    "zh": "这场比赛看起来我们赢定了,可结果却输了。",
+    "pinyin": "Zhè chǎng bǐ sài kàn qǐ lái wǒ men yíng dìng le, kě jié guǒ què shū le。",
+    "en": "This match looked like a sure win, but we ended up losing."
+   }
+  ]
+ },
+ {
+  "id": "g208",
+  "level": 3,
+  "title": "\"让/叫/使\" ile ettirgen yapı",
+  "titleEn": "Causative verbs",
+  "pattern": "Özne + 让 / 叫 / 使 + Kişi + Yüklem",
+  "summary": "\"让/叫/使\" birine bir şey yaptırmayı ya da bir duyguya yol açmayı bildirir: 让我想想 = düşünmeme izin ver; 使人感动 = insanı duygulandırmak.",
+  "explanation": "\"让\", \"叫\" ve \"使\" ETTİRGEN (sebep bildiren) fiillerdir; birinin bir şeyi YAPMASINA yol açmayı ya da bir duyguyu/durumu ORTAYA ÇIKARMAYI bildirir. Kalıp: Özne + 让/叫/使 + kişi + yüklem. (1) \"让\": izin verme ya da yaptırma, en yaygın ve nötr — 妈妈让我早点回家 (Annem erken dönmemi istedi), 让我看看 (bir bakayım). (2) \"叫\": \"让\"e benzer, biraz daha buyurgan/konuşma dili — 老师叫他回答问题 (Öğretmen ona soruyu cevaplattı). (3) \"使\": daha soyut/resmî, çoğu zaman bir duyguya/sonuca yol açar, kişi yerine durum da gelebilir — 这件事使我很难过 (Bu olay beni çok üzdü), 使人感动 (insanı duygulandırır). Türkçedeki \"...-tırmak, ...-e izin vermek, ...-e yol açmak, -e neden olmak\" ettirgen anlamlarına denk gelir.",
+  "examples": [
+   {
+    "zh": "妈妈让我把房间收拾干净再出去玩。",
+    "pinyin": "Mā mā ràng wǒ bǎ fáng jiān shōu shí gān jìng zài chū qù wán。",
+    "en": "Mom told me to clean my room before going out to play."
+   },
+   {
+    "zh": "老师叫小明到黑板前面来做这道题。",
+    "pinyin": "Lǎo shī jiào xiǎo míng dào hēi bǎn qián miàn lái zuò zhè dào tí。",
+    "en": "The teacher had Xiao Ming come to the board to do this problem."
+   },
+   {
+    "zh": "这部电影的结局使很多观众都流下了眼泪。",
+    "pinyin": "Zhè bù diàn yǐng de jié jú shǐ hěn duō guān zhòng dōu liú xià le yǎn lèi。",
+    "en": "The movie's ending made many viewers shed tears."
+   },
+   {
+    "zh": "对不起,让你久等了,路上实在太堵了。",
+    "pinyin": "Duì bù qǐ, ràng nǐ jiǔ děng le, lù shàng shí zài tài dǔ le。",
+    "en": "Sorry to keep you waiting; the traffic was really terrible."
+   },
+   {
+    "zh": "他的一番话让我彻底改变了对这件事的看法。",
+    "pinyin": "Tā de yī fān huà ràng wǒ chè dǐ gǎi biàn le duì zhè jiàn shì de kàn fǎ。",
+    "en": "His words completely changed my view on this matter."
+   },
+   {
+    "zh": "请让一让,后面的人要下车了。",
+    "pinyin": "Qǐng ràng yī ràng, hòu miàn de rén yào xià chē le。",
+    "en": "Please make way; the people behind need to get off."
+   },
+   {
+    "zh": "父母从小就叫我们自己的事情自己做。",
+    "pinyin": "Fù mǔ cóng xiǎo jiù jiào wǒ men zì jǐ de shì qíng zì jǐ zuò。",
+    "en": "Our parents had us do our own things from childhood."
+   },
+   {
+    "zh": "这次失败使他明白了坚持的重要性。",
+    "pinyin": "Zhè cì shī bài shǐ tā míng bái le jiān chí de zhòng yào xìng。",
+    "en": "This failure made him understand the importance of persistence."
+   },
+   {
+    "zh": "医生让他这几天多喝水,好好休息。",
+    "pinyin": "Yī shēng ràng tā zhè jǐ tiān duō hē shuǐ, hǎo hǎo xiū xī。",
+    "en": "The doctor told him to drink more water and rest these days."
+   },
+   {
+    "zh": "他的诚实和善良使大家都很信任他。",
+    "pinyin": "Tā de chéng shí hé shàn liáng shǐ dà jiā dōu hěn xìn rèn tā。",
+    "en": "His honesty and kindness made everyone trust him."
+   },
+   {
+    "zh": "妈妈不让孩子吃太多糖,怕对牙齿不好。",
+    "pinyin": "Mā mā bù ràng hái zi chī tài duō táng, pà duì yá chǐ bù hǎo。",
+    "en": "Mom won't let the child eat too much sugar, fearing tooth damage."
+   },
+   {
+    "zh": "这件事让我认识到,做人一定要有责任心。",
+    "pinyin": "Zhè jiàn shì ràng wǒ rèn shí dào, zuò rén yí dìng yào yǒu zé rèn xīn。",
+    "en": "This made me realize that one must have a sense of responsibility."
+   },
+   {
+    "zh": "老板叫我明天一早去他办公室一趟。",
+    "pinyin": "Lǎo bǎn jiào wǒ míng tiān yī zǎo qù tā bàn gōng shì yī tàng。",
+    "en": "The boss told me to come to his office first thing tomorrow."
+   },
+   {
+    "zh": "优美的音乐使人的心情一下子放松下来。",
+    "pinyin": "Yōu měi de yīn yuè shǐ rén de xīn qíng yī xià zi fàng sōng xià lái。",
+    "en": "Beautiful music instantly relaxes one's mood."
+   },
+   {
+    "zh": "请你让孩子早点睡觉,别老让他看电视。",
+    "pinyin": "Qǐng nǐ ràng hái zi zǎo diǎn shuì jiào, bié lǎo ràng tā kàn diàn shì。",
+    "en": "Please let the child sleep early; don't always let him watch TV."
+   },
+   {
+    "zh": "他坚持不懈的精神使身边的人深受鼓舞。",
+    "pinyin": "Tā jiān chí bù xiè de jīng shén shǐ shēn biān de rén shēn shòu gǔ wǔ。",
+    "en": "His unremitting spirit deeply inspired those around him."
+   },
+   {
+    "zh": "外面太吵了,吵得让人根本没法安心工作。",
+    "pinyin": "Wài miàn tài chǎo le, chǎo de ràng rén gēn běn méi fǎ ān xīn gōng zuò。",
+    "en": "It's so noisy outside that one simply can't work in peace."
+   },
+   {
+    "zh": "这次旅行让我们全家人的感情更亲密了。",
+    "pinyin": "Zhè cì lǚ xíng ràng wǒ men quán jiā rén de gǎn qíng gèng qīn mì le。",
+    "en": "This trip made our whole family closer."
+   },
+   {
+    "zh": "老师叫大家把这篇课文背下来。",
+    "pinyin": "Lǎo shī jiào dà jiā bǎ zhè piān kè wén bèi xià lái。",
+    "en": "The teacher had everyone memorize this text."
+   },
+   {
+    "zh": "科技的进步使我们的生活变得越来越方便。",
+    "pinyin": "Kē jì de jìn bù shǐ wǒ men de shēng huó biàn de yuè lái yuè fāng biàn。",
+    "en": "Technological progress makes our lives ever more convenient."
+   },
+   {
+    "zh": "他的进步让所有关心他的人都感到欣慰。",
+    "pinyin": "Tā de jìn bù ràng suǒ yǒu guān xīn tā de rén dōu gǎn dào xīn wèi。",
+    "en": "His progress comforted everyone who cares about him."
+   },
+   {
+    "zh": "妈妈让我替她给楼下的邻居送点自己包的饺子。",
+    "pinyin": "Mā mā ràng wǒ tì tā gěi lóu xià de lín jū sòng diǎn zì jǐ bāo de jiǎo zi。",
+    "en": "Mom had me deliver some homemade dumplings to the downstairs neighbor."
+   },
+   {
+    "zh": "这段经历使他成长了很多,也成熟了很多。",
+    "pinyin": "Zhè duàn jīng lì shǐ tā chéng zhǎng le hěn duō, yě chéng shú le hěn duō。",
+    "en": "This experience made him grow and mature a lot."
+   },
+   {
+    "zh": "请你让开一点,别挡着大家看比赛。",
+    "pinyin": "Qǐng nǐ ràng kāi yì diǎn, bié dǎng zhe dà jiā kàn bǐ sài。",
+    "en": "Please move aside; don't block everyone's view of the match."
+   },
+   {
+    "zh": "孩子的一句话,让在场的人都笑了起来。",
+    "pinyin": "Hái zi de yī jù huà, ràng zài chǎng de rén dōu xiào le qǐ lái。",
+    "en": "One remark from the child made everyone present laugh."
+   }
+  ]
+ },
+ {
+  "id": "g209",
+  "level": 3,
+  "title": "\"要看/得看\" ile \"... duruma bağlı\"",
+  "titleEn": "Expressing \"it depends\" with \"kan\"",
+  "pattern": "这 / 那 + 要看 / 得看 + Belirsiz Durum",
+  "summary": "\"要看/得看\" bir sonucun bir şeye BAĞLI olduğunu bildirir: 这得看天气 = Bu havaya bağlı; 要看你怎么想 = Sana kalmış.",
+  "explanation": "\"要看\" ya da \"得看\" (děi kàn) bir şeyin başka bir koşula/duruma BAĞLI olduğunu, ona göre değişeceğini bildirir: \"... duruma bağlı, ...-e bağlı, ...-e göre değişir\". 去不去要看天气怎么样 (Gidip gitmemek havaya bağlı), 这件事得看他愿不愿意 (Bu, onun isteyip istemediğine bağlı), 能不能成功,要看你的努力 (Başarı senin çabana bağlı). \"看\" burada \"bakmak\" değil, \"...-e bağlı olmak, ...-e göre belirlenmek\" anlamındadır ve ardından çoğu zaman belirsiz bir durum/soru öbeği gelir (要看...怎么样 / 愿不愿意 / 能不能). Bir kesin cevaptan kaçınıp koşula işaret eder. Türkçedeki \"... duruma bağlı, ...-e bağlı, ...-e göre değişir, ...-e kalmış, ona bakar\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "周末去不去爬山,还要看天气怎么样。",
+    "pinyin": "Zhōu mò qù bù qù pá shān, hái yào kàn tiān qì zěn me yàng。",
+    "en": "Whether we hike this weekend depends on the weather."
+   },
+   {
+    "zh": "这件事能不能办成,得看他愿不愿意帮忙。",
+    "pinyin": "Zhè jiàn shì néng bù néng bàn chéng, de kàn tā yuàn bù yuàn yì bāng máng。",
+    "en": "Whether this can be done depends on whether he's willing to help."
+   },
+   {
+    "zh": "你能取得多大的进步,要看你自己有多努力。",
+    "pinyin": "Nǐ néng qǔ de duō dà de jìn bù, yào kàn nǐ zì jǐ yǒu duō nǔ lì。",
+    "en": "How much progress you make depends on how hard you try."
+   },
+   {
+    "zh": "买不买这套房子,还得看价钱合不合适。",
+    "pinyin": "Mǎi bù mǎi zhè tào fáng zi, hái de kàn jià qián hé bù hé shì。",
+    "en": "Whether to buy this house depends on whether the price is right."
+   },
+   {
+    "zh": "我们几点出发,要看路上堵不堵车。",
+    "pinyin": "Wǒ men jǐ diǎn chū fā, yào kàn lù shàng dǔ bù dǔ chē。",
+    "en": "When we set off depends on whether the roads are jammed."
+   },
+   {
+    "zh": "这道菜好不好吃,主要得看火候掌握得怎么样。",
+    "pinyin": "Zhè dào cài hǎo bù hǎo chī, zhǔ yào de kàn huǒ hòu zhǎng wò de zěn me yàng。",
+    "en": "Whether this dish is tasty mainly depends on the heat control."
+   },
+   {
+    "zh": "他会不会来,现在还说不准,得看他有没有时间。",
+    "pinyin": "Tā huì bú huì lái, xiàn zài hái shuō bù zhǔn, de kàn tā yǒu méi yǒu shí jiān。",
+    "en": "Whether he'll come is uncertain; it depends on if he has time."
+   },
+   {
+    "zh": "这次比赛谁赢谁输,还要看临场的发挥。",
+    "pinyin": "Zhè cì bǐ sài shuí yíng shuí shū, hái yào kàn lín chǎng de fā huī。",
+    "en": "Who wins this match depends on the on-the-spot performance."
+   },
+   {
+    "zh": "能不能按时完成,要看大家配合得好不好。",
+    "pinyin": "Néng bù néng àn shí wán chéng, yào kàn dà jiā pèi hé de hǎo bù hǎo。",
+    "en": "Whether we finish on time depends on how well everyone cooperates."
+   },
+   {
+    "zh": "孩子将来有没有出息,很大程度上要看家庭教育。",
+    "pinyin": "Hái zi jiāng lái yǒu méi yǒu chū xī, hěn dà chéng dù shàng yào kān jiā tíng jiào yù。",
+    "en": "Whether a child succeeds later largely depends on family education."
+   },
+   {
+    "zh": "这笔生意做不做得成,得看双方能不能谈拢。",
+    "pinyin": "Zhè bǐ shēng yì zuò bù zuò de chéng, de kàn shuāng fāng néng bù néng tán lǒng。",
+    "en": "Whether this deal closes depends on whether both sides can agree."
+   },
+   {
+    "zh": "你穿多少衣服,要看今天到底有多冷。",
+    "pinyin": "Nǐ chuān duō shǎo yī fú, yào kàn jīn tiān dào dǐ yǒu duō lěng。",
+    "en": "How much you wear depends on just how cold it is today."
+   },
+   {
+    "zh": "这件事怎么处理,还得看领导是什么意见。",
+    "pinyin": "Zhè jiàn shì zěn me chǔ lǐ, hái de kàn lǐng dǎo shì shén me yì jiàn。",
+    "en": "How to handle this depends on the leader's opinion."
+   },
+   {
+    "zh": "我们能玩多久,要看爸妈几点来接我们。",
+    "pinyin": "Wǒ men néng wán duō jiǔ, yào kàn bà mā jǐ diǎn lái jiē wǒ men。",
+    "en": "How long we can play depends on when our parents pick us up."
+   },
+   {
+    "zh": "身体能不能好得快,主要得看你听不听医生的话。",
+    "pinyin": "Shēn tǐ néng bù néng hǎo de kuài, zhǔ yào de kàn nǐ tīng bù tīng yī shēng de huà。",
+    "en": "Whether you recover fast mainly depends on heeding the doctor."
+   },
+   {
+    "zh": "这场雨会不会影响出行,还要看它下多久。",
+    "pinyin": "Zhè chǎng yǔ huì bú huì yǐng xiǎng chū xíng, hái yào kàn tā xià duō jiǔ。",
+    "en": "Whether the rain affects travel depends on how long it lasts."
+   },
+   {
+    "zh": "最后选哪个方案,要看哪个更符合实际情况。",
+    "pinyin": "Zuì hòu xuǎn nǎ ge fāng àn, yào kàn nǎ ge gèng fú hé shí jì qíng kuàng。",
+    "en": "Which plan is chosen depends on which fits reality better."
+   },
+   {
+    "zh": "能不能考上,不光要看努力,也得看临场心态。",
+    "pinyin": "Néng bù néng kǎo shàng, bù guāng yào kàn nǔ lì, yě de kàn lín chǎng xīn tài。",
+    "en": "Passing depends not only on effort but also on one's mindset."
+   },
+   {
+    "zh": "这东西值不值这个价,得看你到底有多需要它。",
+    "pinyin": "Zhè dōng xī zhí bù zhí zhè ge jià, de kàn nǐ dào dǐ yǒu duō xū yào tā。",
+    "en": "Whether it's worth the price depends on how much you need it."
+   },
+   {
+    "zh": "我们下午去哪儿玩,还要看你想不想去海边。",
+    "pinyin": "Wǒ men xià wǔ qù nǎ ér wán, hái yào kàn nǐ xiǎng bù xiǎng qù hǎi biān。",
+    "en": "Where we go this afternoon depends on whether you want the beach."
+   },
+   {
+    "zh": "这个计划能不能推进,要看资金到不到位。",
+    "pinyin": "Zhè ge jì huà néng bù néng tuī jìn, yào kàn zī jīn dào bú dào wèi。",
+    "en": "Whether this plan proceeds depends on whether funds are in place."
+   },
+   {
+    "zh": "他适不适合这份工作,还得看试用期的表现。",
+    "pinyin": "Tā shì bú shì hé zhè fèn gōng zuò, hái de kàn shì yòng qī de biǎo xiàn。",
+    "en": "Whether he suits this job depends on his probation performance."
+   },
+   {
+    "zh": "菜种得好不好,很大程度上要看天气和土壤。",
+    "pinyin": "Cài zhǒng de hǎo bù hǎo, hěn dà chéng dù shàng yào kàn tiān qì hé tǔ rǎng。",
+    "en": "How well crops grow largely depends on weather and soil."
+   },
+   {
+    "zh": "我们要不要改计划,得看明天的情况再决定。",
+    "pinyin": "Wǒ men yào bù yào gǎi jì huà, de kàn míng tiān de qíng kuàng zài jué dìng。",
+    "en": "Whether we change plans depends on tomorrow's situation."
+   },
+   {
+    "zh": "这本书值不值得读,要看你对这个话题感不感兴趣。",
+    "pinyin": "Zhè běn shū zhí bù zhí de dú, yào kàn nǐ duì zhè ge huà tí gǎn bù gǎn xìng qù。",
+    "en": "Whether this book is worth reading depends on your interest in the topic."
+   }
+  ]
  }
 ]

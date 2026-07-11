@@ -33182,5 +33182,685 @@
     "en": "In the box are the old photos and letters he's treasured for years."
    }
   ]
+ },
+ {
+  "id": "g245",
+  "level": 3,
+  "title": "\"想 + soru sözcüğü + 就 + soru sözcüğü\" ile \"canı nasıl isterse\"",
+  "titleEn": "Expressing \"as one likes\" with \"jiu\"",
+  "pattern": "想 + Soru Sözcüğü + 就 + Aynı Soru Sözcüğü",
+  "summary": "Aynı soru sözcüğünü \"想...就...\" ile tekrarlamak \"canı nasıl isterse öyle\" der: 想吃什么就吃什么 = Ne yemek istersen onu ye.",
+  "explanation": "Aynı SORU SÖZCÜĞÜ (什么, 哪儿, 谁, 怎么, 多少 vb.) bir cümlede iki kez, \"想 + soru + 就 + aynı soru\" kalıbında tekrarlandığında, kişinin CANI NASIL İSTERSE öyle yapabileceğini, hiçbir kısıtlama olmadığını bildirir: 你想去哪儿就去哪儿 (Nereye gitmek istersen oraya git), 想买什么就买什么 (Ne almak istersen onu al), 谁想来谁就来 (Kim gelmek isterse gelsin). İki soru sözcüğü AYNIDIR ve aralarında \"就\" bulunur; ilk kısım isteği, ikinci kısım o isteğin serbestçe yerine gelmesini gösterir. Soru sözcüğü burada soru sormaz, \"herhangi biri/her ne\" anlamı taşır. Benzer kalıp \"...就...\" (爱怎么样就怎么样 = nasıl istiyorsa öyle) da vardır. Türkçedeki \"ne/nereye/kim ... istersen onu/oraya/o\" serbestlik kalıbına birebir denk gelir; sınırsız seçim özgürlüğünü anlatır.",
+  "examples": [
+   {
+    "zh": "今天你过生日,想吃什么就吃什么,我请客。",
+    "pinyin": "Jīn tiān nǐ guò shēng rì, xiǎng chī shén me jiù chī shén me, wǒ qǐng kè。",
+    "en": "It's your birthday today; eat whatever you like, my treat."
+   },
+   {
+    "zh": "放假了,他想睡到几点就睡到几点,别提多惬意了。",
+    "pinyin": "Fàng jià le, tā xiǎng shuì dào jǐ diǎn jiù shuì dào jǐ diǎn, bié tí duō qiè yì le。",
+    "en": "On holiday, he sleeps as late as he likes; how comfortable."
+   },
+   {
+    "zh": "这是你自己的事,你想怎么做就怎么做。",
+    "pinyin": "Zhè shì nǐ zì jǐ de shì, nǐ xiǎng zěn me zuò jiù zěn me zuò。",
+    "en": "This is your own business; do it however you like."
+   },
+   {
+    "zh": "周末咱们自由活动,大家想去哪儿就去哪儿。",
+    "pinyin": "Zhōu mò zán men zì yóu huó dòng, dà jiā xiǎng qù nǎ ér jiù qù nǎ ér。",
+    "en": "The weekend is free time; everyone go wherever they like."
+   },
+   {
+    "zh": "他家条件好,想买什么就买什么,从不算计。",
+    "pinyin": "Tā jiā tiáo jiàn hǎo, xiǎng mǎi shén me jiù mǎi shén me, cóng bù suàn jì。",
+    "en": "His family is well-off; he buys whatever he likes, never calculating."
+   },
+   {
+    "zh": "这些点心随便吃,你想拿多少就拿多少。",
+    "pinyin": "Zhè xiē diǎn xīn suí biàn chī, nǐ xiǎng ná duō shǎo jiù ná duō shǎo。",
+    "en": "Help yourself to these snacks; take as many as you like."
+   },
+   {
+    "zh": "退休以后,他想干什么就干什么,日子过得很自在。",
+    "pinyin": "Tuì xiū yǐ hòu, tā xiǎng gàn shén me jiù gàn shén me, rì zi guò de hěn zì zài。",
+    "en": "After retiring, he does whatever he likes; life is carefree."
+   },
+   {
+    "zh": "这里没有外人,你想说什么就说什么,别拘束。",
+    "pinyin": "Zhè lǐ méi yǒu wài rén, nǐ xiǎng shuō shén me jiù shuō shén me, bié jū shù。",
+    "en": "There are no strangers here; say whatever you like, don't be shy."
+   },
+   {
+    "zh": "孩子还小,别太严厉,让他想玩什么就玩什么。",
+    "pinyin": "Hái zi hái xiǎo, bié tài yán lì, ràng tā xiǎng wán shén me jiù wán shén me。",
+    "en": "The child is young; don't be too strict, let him play as he likes."
+   },
+   {
+    "zh": "这是自助餐,想吃多少就吃多少,别浪费就行。",
+    "pinyin": "Zhè shì zì zhù cān, xiǎng chī duō shǎo jiù chī duō shǎo, bié làng fèi jiù xíng。",
+    "en": "It's a buffet; eat as much as you like, just don't waste."
+   },
+   {
+    "zh": "你别管我,我想一个人待着就一个人待着。",
+    "pinyin": "Nǐ bié guǎn wǒ, wǒ xiǎng yí gè rén dài zhe jiù yí gè rén dài zhe。",
+    "en": "Leave me be; if I want to be alone, I'll be alone."
+   },
+   {
+    "zh": "这块地是他的,他想种什么就种什么。",
+    "pinyin": "Zhè kuài de shì tā de, tā xiǎng zhǒng shén me jiù zhǒng shén me。",
+    "en": "This land is his; he plants whatever he likes."
+   },
+   {
+    "zh": "今天我做主,大家想点什么菜就点什么菜。",
+    "pinyin": "Jīn tiān wǒ zuò zhǔ, dà jiā xiǎng diǎn shén me cài jiù diǎn shén me cài。",
+    "en": "Today I'm in charge; everyone order whatever dishes you like."
+   },
+   {
+    "zh": "他脾气有点任性,想怎么样就怎么样,谁劝也没用。",
+    "pinyin": "Tā pí qì yǒu diǎn rèn xìng, xiǎng zěn me yàng jiù zěn me yàng, shuí quàn yě méi yòng。",
+    "en": "He's a bit willful; he does as he pleases, and no one can dissuade him."
+   },
+   {
+    "zh": "假期是你自己的,你想怎么安排就怎么安排。",
+    "pinyin": "Jià qī shì nǐ zì jǐ de, nǐ xiǎng zěn me ān pái jiù zěn me ān pái。",
+    "en": "The holiday is yours; arrange it however you like."
+   },
+   {
+    "zh": "现在生活好了,想去哪儿旅行就去哪儿。",
+    "pinyin": "Xiàn zài shēng huó hǎo le, xiǎng qù nǎ ér lǚ xíng jiù qù nǎ ér。",
+    "en": "Life is good now; you can travel wherever you like."
+   },
+   {
+    "zh": "这个游戏很自由,你想怎么玩就怎么玩。",
+    "pinyin": "Zhè ge yóu xì hěn zì yóu, nǐ xiǎng zěn me wán jiù zěn me wán。",
+    "en": "This game is very free; play it however you like."
+   },
+   {
+    "zh": "他这个人很随和,你想什么时候找他就什么时候找。",
+    "pinyin": "Tā zhè ge rén hěn suí hé, nǐ xiǎng shén me shí hòu zhǎo tā jiù shén me shí hòu zhǎo。",
+    "en": "He's easygoing; look him up whenever you like."
+   },
+   {
+    "zh": "反正时间充裕,咱们想走多慢就走多慢。",
+    "pinyin": "Fǎn zhèng shí jiān chōng yù, zán men xiǎng zǒu duō màn jiù zǒu duō màn。",
+    "en": "There's plenty of time anyway; we can walk as slowly as we like."
+   },
+   {
+    "zh": "这些书都借给你,你想看哪本就看哪本。",
+    "pinyin": "Zhè xiē shū dōu jiè gěi nǐ, nǐ xiǎng kàn nǎ běn jiù kàn nǎ běn。",
+    "en": "These books are all yours to borrow; read whichever you like."
+   },
+   {
+    "zh": "他说话很直,想说什么就说什么,从不藏着掖着。",
+    "pinyin": "Tā shuō huà hěn zhí, xiǎng shuō shén me jiù shuō shén me, cóng bù cáng zhe yē zhe。",
+    "en": "He's blunt; he says whatever he likes, hiding nothing."
+   },
+   {
+    "zh": "你别有压力,想什么时候来就什么时候来。",
+    "pinyin": "Nǐ bié yǒu yā lì, xiǎng shén me shí hòu lái jiù shén me shí hòu lái。",
+    "en": "Don't feel pressured; come whenever you like."
+   },
+   {
+    "zh": "这块黑板给孩子们随便画,想画什么就画什么。",
+    "pinyin": "Zhè kuài hēi bǎn gěi hái zi men suí biàn huà, xiǎng huà shén me jiù huà shén me。",
+    "en": "This board is for the children to draw on; draw whatever you like."
+   },
+   {
+    "zh": "等你长大了,想成为什么样的人就成为什么样的人。",
+    "pinyin": "Děng nǐ zhǎng dà le, xiǎng chéng wéi shén me yàng de rén jiù chéng wéi shén me yàng de rén。",
+    "en": "When you grow up, become whatever kind of person you like."
+   },
+   {
+    "zh": "今天是自由讨论,谁想发言谁就发言。",
+    "pinyin": "Jīn tiān shì zì yóu tǎo lùn, shuí xiǎng fā yán shuí jiù fā yán。",
+    "en": "Today is open discussion; whoever wants to speak may speak."
+   }
+  ]
+ },
+ {
+  "id": "g246",
+  "level": 3,
+  "title": "İkili olumsuzluk (pekiştirme)",
+  "titleEn": "Expressing \"double negation\"",
+  "pattern": "不是 + 不 / 没 + ... / 不 + 能不 ...",
+  "summary": "İki olumsuz üst üste gelince güçlü bir OLUMLU anlam verir: 不是不想去 = gitmek istemiyor değilim (aslında istiyorum).",
+  "explanation": "İKİ OLUMSUZLUK sözcüğü art arda gelince birbirini götürür ve GÜÇLÜ, vurgulu bir OLUMLU anlam doğurur. Sık kalıplar: (1) \"不是不...\" — 我不是不想帮你,是实在没时间 (Yardım etmek istemiyor değilim, gerçekten vaktim yok — aslında istiyorum). (2) \"不能不...\" / \"不得不...\" — mecburiyet: 这件事我不能不管 (Bu işe karışmamak elimde değil / karışmak zorundayım), 他不得不承认自己错了 (Hatalı olduğunu kabul etmek zorunda kaldı). (3) \"没有...不...\" — istisnasızlık: 没有一个人不喜欢他 (Onu sevmeyen tek kişi yok = herkes sever). İkili olumsuzluk, düz olumlu ifadeden daha DOLAYLI, VURGULU ya da ÖLÇÜLÜ bir ton katar. Türkçedeki \"...-mez değil, ...-memek elde değil, ...-mek zorunda, ...-meyen yok\" gibi ikili olumsuzluk kalıplarına denk gelir; olumlu bir yargıyı güçlü ama ince biçimde vurgulamanın yoludur.",
+  "examples": [
+   {
+    "zh": "我不是不想去,只是最近实在太忙,抽不开身。",
+    "pinyin": "Wǒ bú shì bù xiǎng qù, zhǐ shì zuì jìn shí zài tài máng, chōu bù kāi shēn。",
+    "en": "It's not that I don't want to go; I'm just too busy lately."
+   },
+   {
+    "zh": "这么重要的会议,他不得不推掉其他所有的安排。",
+    "pinyin": "Zhè me zhòng yào de huì yì, tā bù de bù tuī diào qí tā suǒ yǒu de ān pái。",
+    "en": "For such an important meeting, he had to cancel all other plans."
+   },
+   {
+    "zh": "他做的菜,没有一个人吃了不夸的。",
+    "pinyin": "Tā zuò de cài, méi yǒu yí gè rén chī le bù kuā de。",
+    "en": "Of the dishes he makes, there's no one who eats and doesn't praise."
+   },
+   {
+    "zh": "面对这样的困难,我们不能不认真对待。",
+    "pinyin": "Miàn duì zhè yàng de kùn nán, wǒ men bù néng bù rèn zhēn duì dài。",
+    "en": "Facing such a difficulty, we can't but take it seriously."
+   },
+   {
+    "zh": "她的努力大家都看在眼里,不能不让人佩服。",
+    "pinyin": "Tā de nǔ lì dà jiā dōu kàn zài yǎn lǐ, bù néng bù ràng rén pèi fú。",
+    "en": "Her efforts are seen by all and can't but earn admiration."
+   },
+   {
+    "zh": "我不是没提醒过你,是你自己没往心里去。",
+    "pinyin": "Wǒ bú shì méi tí xǐng guò nǐ, shì nǐ zì jǐ méi wǎng xīn lǐ qù。",
+    "en": "It's not that I didn't remind you; you just didn't take it to heart."
+   },
+   {
+    "zh": "这件事关系重大,我不得不慎重考虑。",
+    "pinyin": "Zhè jiàn shì guān xì zhòng dà, wǒ bù de bù shèn zhòng kǎo lǜ。",
+    "en": "This matter is significant; I have to consider it carefully."
+   },
+   {
+    "zh": "班里没有一个同学不喜欢这位和蔼的老师。",
+    "pinyin": "Bān lǐ méi yǒu yí gè tóng xué bù xǐ huān zhè wèi hé ǎi de lǎo shī。",
+    "en": "There's not one student in the class who dislikes this kind teacher."
+   },
+   {
+    "zh": "他说得句句在理,我不能不点头同意。",
+    "pinyin": "Tā shuō de jù jù zài lǐ, wǒ bù néng bù diǎn tóu tóng yì。",
+    "en": "Every word he said made sense; I couldn't but nod in agreement."
+   },
+   {
+    "zh": "不是我不相信你,只是这件事太不可思议了。",
+    "pinyin": "Bú shì wǒ bù xiāng xìn nǐ, zhǐ shì zhè jiàn shì tài bù kě sī yì le。",
+    "en": "It's not that I don't trust you; this is just too incredible."
+   },
+   {
+    "zh": "为了赶上末班车,我们不得不加快了脚步。",
+    "pinyin": "Wèi le gǎn shàng mò bān chē, wǒ men bù de bù jiā kuài le jiǎo bù。",
+    "en": "To catch the last bus, we had to quicken our pace."
+   },
+   {
+    "zh": "这首歌太动人了,听的人没有不落泪的。",
+    "pinyin": "Zhè shǒu gē tài dòng rén le, tīng de rén méi yǒu bù luò lèi de。",
+    "en": "This song is so moving; no listener fails to shed tears."
+   },
+   {
+    "zh": "他为这个家付出了这么多,我们不能不感激。",
+    "pinyin": "Tā wèi zhè ge jiā fù chū le zhè me duō, wǒ men bù néng bù gǎn jī。",
+    "en": "He's given so much for this family; we can't but be grateful."
+   },
+   {
+    "zh": "我不是不明白这个道理,只是一时做不到罢了。",
+    "pinyin": "Wǒ bú shì bù míng bái zhè ge dào lǐ, zhǐ shì yī shí zuò bú dào bà le。",
+    "en": "It's not that I don't understand; I just can't do it right now."
+   },
+   {
+    "zh": "眼看时间来不及了,他不得不放弃了原来的计划。",
+    "pinyin": "Yǎn kàn shí jiān lái bù jí le, tā bù de bù fàng qì le yuán lái de jì huà。",
+    "en": "Seeing time was short, he had to give up his original plan."
+   },
+   {
+    "zh": "这里的风景美得没有一个游客不为之惊叹。",
+    "pinyin": "Zhè lǐ de fēng jǐng měi de méi yǒu yí gè yóu kè bù wèi zhī jīng tàn。",
+    "en": "The scenery here is so beautiful no tourist fails to marvel."
+   },
+   {
+    "zh": "面对大家的一再邀请,他不好意思不答应。",
+    "pinyin": "Miàn duì dà jiā de yī zài yāo qǐng, tā bù hǎo yì sī bù dā yìng。",
+    "en": "Facing everyone's repeated invitations, he couldn't well refuse."
+   },
+   {
+    "zh": "他不是没有能力,而是缺少一个好的机会。",
+    "pinyin": "Tā bú shì méi yǒu néng lì, ér shì quē shǎo yí gè hǎo de jī huì。",
+    "en": "It's not that he lacks ability; he lacks a good opportunity."
+   },
+   {
+    "zh": "这么明显的错误,老师不可能不发现。",
+    "pinyin": "Zhè me míng xiǎn de cuò wù, lǎo shī bù kě néng bù fā xiàn。",
+    "en": "Such an obvious mistake — the teacher couldn't possibly miss it."
+   },
+   {
+    "zh": "为了不让父母担心,他不得不报喜不报忧。",
+    "pinyin": "Wèi le bù ràng fù mǔ dān xīn, tā bù de bù bào xǐ bú bào yōu。",
+    "en": "So as not to worry his parents, he had to share only good news."
+   },
+   {
+    "zh": "大家的热情实在难却,我不能不多留几天。",
+    "pinyin": "Dà jiā de rè qíng shí zài nán què, wǒ bù néng bù duō liú jǐ tiān。",
+    "en": "Everyone's warmth was hard to refuse; I had to stay a few more days."
+   },
+   {
+    "zh": "我不是不心疼钱,只是这钱花得值。",
+    "pinyin": "Wǒ bú shì bù xīn téng qián, zhǐ shì zhè qián huā de zhí。",
+    "en": "It's not that I don't mind the money; it's just well spent."
+   },
+   {
+    "zh": "这个道理简单得没有人不懂。",
+    "pinyin": "Zhè ge dào lǐ jiǎn dān de méi yǒu rén bù dǒng。",
+    "en": "This truth is so simple there's no one who doesn't get it."
+   },
+   {
+    "zh": "看到他那么诚恳,我实在不能不原谅他。",
+    "pinyin": "Kàn dào tā nà me chéng kěn, wǒ shí zài bù néng bù yuán liàng tā。",
+    "en": "Seeing how sincere he was, I really couldn't but forgive him."
+   },
+   {
+    "zh": "这些成绩的取得,不能不说是大家共同努力的结果。",
+    "pinyin": "Zhè xiē chéng jì de qǔ de, bù néng bù shuō shì dà jiā gòng tóng nǔ lì de jié guǒ。",
+    "en": "These achievements can't but be called the result of everyone's joint effort."
+   }
+  ]
+ },
+ {
+  "id": "g247",
+  "level": 3,
+  "title": "\"连...都/也\" ile \"...-e bile\"",
+  "titleEn": "Expressing \"even\" with \"lian\" and \"dou\"",
+  "pattern": "连 + Öğe + 都 / 也 (+ 不 / 没) + Fiil",
+  "summary": "\"连...都/也...\" en uç bir örneği verip \"...-e bile\" der: 他连一句话都没说 = Tek kelime bile etmedi.",
+  "explanation": "\"连...都/也...\" kalıbı, beklenmedik ya da en UÇ bir örneği öne çıkarıp \"...-e bile, ...-e dahi\" anlamı verir; böylece diğer her şeyin de evleviyetle geçerli olduğunu ima eder. Kalıp: 连 + vurgulanan öğe + 都/也 + (yüklem). 他连自己的名字都不会写 (Kendi adını bile yazamıyor), 这么简单的题他连想都没想就答对了 (Bu kadar basit soruyu düşünmeden bile doğru yaptı), 忙得连饭都顾不上吃 (Yemek yiyecek vakti bile olmayacak kadar meşgul). Vurgulanan öğe çoğu zaman en küçük/en beklenmedik durumdur; \"都/也\" onu genellemeye bağlar. Olumlu ya da olumsuz olabilir; olumsuzla \"...-e bile ...-medi\" en yaygınıdır. \"连\" bazen düşse de \"都/也\" kalır. Türkçedeki \"...-e bile, ...-e dahi, hatta ...-i bile\" ifadelerine birebir denk gelir; bir uç örnekle güçlü vurgu yapmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "他忙得连口水都没顾上喝,一直工作到深夜。",
+    "pinyin": "Tā máng de lián kǒu shuǐ dōu méi gù shàng hē, yì zhí gōng zuò dào shēn yè。",
+    "en": "He was so busy he didn't even sip water, working until late."
+   },
+   {
+    "zh": "这道题太简单了,他连想都没想就写出了答案。",
+    "pinyin": "Zhè dào tí tài jiǎn dān le, tā lián xiǎng dōu méi xiǎng jiù xiě chū le dá àn。",
+    "en": "This problem was so easy he wrote the answer without even thinking."
+   },
+   {
+    "zh": "那天他心情很差,连最爱吃的菜都没动几口。",
+    "pinyin": "Nà tiān tā xīn qíng hěn chà, lián zuì ài chī de cài dōu méi dòng jǐ kǒu。",
+    "en": "He was in a bad mood that day, barely touching even his favorite dish."
+   },
+   {
+    "zh": "这个字连小学生都会写,你怎么会不认识?",
+    "pinyin": "Zhè ge zì lián xiǎo xué shēng dū huì xiě, nǐ zěn me huì bù rèn shí?",
+    "en": "Even a primary schooler can write this character; how don't you know it?"
+   },
+   {
+    "zh": "他激动得连话都说不清楚了,只是不停地流泪。",
+    "pinyin": "Tā jī dòng de lián huà dōu shuō bù qīng chǔ le, zhǐ shì bù tíng de liú lèi。",
+    "en": "He was so moved he couldn't even speak clearly, just kept crying."
+   },
+   {
+    "zh": "这么大的事,你怎么连一声招呼都不打?",
+    "pinyin": "Zhè me dà de shì, nǐ zěn me lián yī shēng zhāo hū dōu bù dǎ?",
+    "en": "For such a big thing, how did you not even give a heads-up?"
+   },
+   {
+    "zh": "累了一天,他连衣服都没脱就躺下睡着了。",
+    "pinyin": "Lèi le yī tiān, tā lián yī fú dōu méi tuō jiù tǎng xià shuì zháo le。",
+    "en": "Tired after a day, he fell asleep without even taking off his clothes."
+   },
+   {
+    "zh": "她把家里收拾得连一点灰尘都找不到。",
+    "pinyin": "Tā bǎ jiā lǐ shōu shí de lián yì diǎn huī chén dōu zhǎo bú dào。",
+    "en": "She cleaned the home so well you couldn't find even a speck of dust."
+   },
+   {
+    "zh": "他俩关系好得连一个苹果都要分着吃。",
+    "pinyin": "Tā liǎ guān xì hǎo de lián yí gè píng guǒ dōu yào fēn zhe chī。",
+    "en": "The two are so close they even share a single apple."
+   },
+   {
+    "zh": "这件事连他自己都没想到会有这样的结果。",
+    "pinyin": "Zhè jiàn shì lián tā zì jǐ dōu méi xiǎng dào huì yǒu zhè yàng de jié guǒ。",
+    "en": "Even he himself didn't expect this outcome."
+   },
+   {
+    "zh": "那个地方太偏僻,连手机信号都没有。",
+    "pinyin": "Nà ge dì fāng tài piān pì, lián shǒu jī xìn hào dōu méi yǒu。",
+    "en": "That place is so remote it doesn't even have phone signal."
+   },
+   {
+    "zh": "他紧张得连准备好的台词都忘得一干二净。",
+    "pinyin": "Tā jǐn zhāng de lián zhǔn bèi hǎo de tái cí dōu wàng de yī gān èr jìng。",
+    "en": "He was so nervous he forgot even his prepared lines completely."
+   },
+   {
+    "zh": "这么冷的天,他连件厚外套都舍不得买。",
+    "pinyin": "Zhè me lěng de tiān, tā lián jiàn hòu wài tào dōu shě bù de mǎi。",
+    "en": "In such cold weather, he won't even spring for a warm coat."
+   },
+   {
+    "zh": "孩子饿坏了,连不爱吃的青菜都吃得精光。",
+    "pinyin": "Hái zi è huài le, lián bù ài chī de qīng cài dōu chī de jīng guāng。",
+    "en": "The child was so hungry he even finished the vegetables he dislikes."
+   },
+   {
+    "zh": "他忙起来的时候,连周末和节假日都不休息。",
+    "pinyin": "Tā máng qǐ lái de shí hòu, lián zhōu mò hé jié jià rì dōu bù xiū xī。",
+    "en": "When busy, he doesn't even rest on weekends or holidays."
+   },
+   {
+    "zh": "这个道理连三岁小孩都懂,你还用问吗?",
+    "pinyin": "Zhè ge dào lǐ lián sān suì xiǎo hái dōu dǒng, nǐ hái yòng wèn ma?",
+    "en": "Even a three-year-old gets this; do you still need to ask?"
+   },
+   {
+    "zh": "他走得太急,连伞都忘在了办公室里。",
+    "pinyin": "Tā zǒu de tài jí, lián sǎn dōu wàng zài le bàn gōng shì lǐ。",
+    "en": "He left in such a hurry he even forgot his umbrella at the office."
+   },
+   {
+    "zh": "这么多年了,他连一封信都没给家里写过。",
+    "pinyin": "Zhè me duō nián le, tā lián yī fēng xìn dōu méi gěi jiā lǐ xiě guò。",
+    "en": "In all these years, he hasn't even written home a single letter."
+   },
+   {
+    "zh": "她伤心得连饭都吃不下,整天把自己关在屋里。",
+    "pinyin": "Tā shāng xīn de lián fàn dōu chī bù xià, zhěng tiān bǎ zì jǐ guān zài wū lǐ。",
+    "en": "She was so sad she couldn't even eat, shutting herself in all day."
+   },
+   {
+    "zh": "这次考试他连及格线都没到,回家挨了一顿说。",
+    "pinyin": "Zhè cì kǎo shì tā lián jí gé xiàn dōu méi dào, huí jiā āi le yī dùn shuō。",
+    "en": "He didn't even reach the passing line and got an earful at home."
+   },
+   {
+    "zh": "他忙得连自己孩子的生日都忘了。",
+    "pinyin": "Tā máng de lián zì jǐ hái zi de shēng rì dōu wàng le。",
+    "en": "He was so busy he even forgot his own child's birthday."
+   },
+   {
+    "zh": "那本书他翻来覆去看了无数遍,连哪页有什么都记得。",
+    "pinyin": "Nà běn shū tā fān lái fù qù kàn liǎo wú shù biàn, lián nǎ yè yǒu shén me dōu jì de。",
+    "en": "He read that book countless times, remembering even what's on each page."
+   },
+   {
+    "zh": "这么重要的会议,他连迟到一分钟都不敢。",
+    "pinyin": "Zhè me zhòng yào de huì yì, tā lián chí dào yì fēn zhōng dōu bù gǎn。",
+    "en": "For such an important meeting, he doesn't dare be even a minute late."
+   },
+   {
+    "zh": "天太黑了,连近在眼前的路都看不清。",
+    "pinyin": "Tiān tài hēi le, lián jìn zài yǎn qián de lù dōu kàn bù qīng。",
+    "en": "It's so dark you can't even see the road right in front of you."
+   },
+   {
+    "zh": "他节俭到连一张纸都要正反两面用。",
+    "pinyin": "Tā jié jiǎn dào lián yī zhāng zhǐ dōu yào zhèng fǎn liǎng miàn yòng。",
+    "en": "He's so thrifty he even uses both sides of a sheet of paper."
+   }
+  ]
+ },
+ {
+  "id": "g248",
+  "level": 3,
+  "title": "\"每次...都...\" ile \"her ...-dığında\"",
+  "titleEn": "Expressing \"every time\" with \"mei\" and \"dou\"",
+  "pattern": "每次 + Olay 1 + 都 + Olay 2",
+  "summary": "\"每次...都...\" iki olayın DÜZENLİ birlikteliğini bildirir: 每次见到他,他都在笑 = Onu her gördüğümde gülüyor.",
+  "explanation": "\"每次...都...\" bir olay her gerçekleştiğinde başka bir olayın DA istisnasız gerçekleştiğini bildirir: \"her ...-dığında, ne zaman ... olsa\". Kalıp: 每次 + olay1，(özne) + 都 + olay2. 每次考试,他都特别紧张 (Her sınavda çok gerginleşir), 每次去那家店,都能碰到他 (O dükkâna her gidişimde ona rastlarım), 每次想起这件事,我都觉得很后悔 (Bunu her hatırladığımda pişman olurum). \"每次\" tekrarlanan koşulu, \"都\" ise sonucun istisnasız her seferinde geçerli olduğunu belirtir. \"每 + ölçü\" (每天都, 每个人都) genellemesinin bir alt türüdür; burada özellikle bir OLAYIN her tekrarına odaklanır. \"每当...就/都...\" da benzer bir kalıptır. Türkçedeki \"her ...-dığında, ne zaman ... olsa, her seferinde\" ifadelerine denk gelir; düzenli olarak birlikte gerçekleşen olayları anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "每次回老家,奶奶都会做一大桌我爱吃的菜。",
+    "pinyin": "Měi cì huí lǎo jiā, nǎi nǎi dū huì zuò yī dà zhuō wǒ ài chī de cài。",
+    "en": "Every time I go home, grandma makes a whole table of my favorites."
+   },
+   {
+    "zh": "每次考试之前,他都紧张得睡不着觉。",
+    "pinyin": "Měi cì kǎo shì zhī qián, tā dōu jǐn zhāng de shuì bù zhe jué。",
+    "en": "Before every exam, he's too nervous to sleep."
+   },
+   {
+    "zh": "每次听到这首歌,我都会想起那段难忘的时光。",
+    "pinyin": "Měi cì tīng dào zhè shǒu gē, wǒ dū huì xiǎng qǐ nà duàn nán wàng de shí guāng。",
+    "en": "Every time I hear this song, I recall that unforgettable time."
+   },
+   {
+    "zh": "每次遇到困难,家人都会给我很大的鼓励和勇气。",
+    "pinyin": "Měi cì yù dào kùn nán, jiā rén dū huì gěi wǒ hěn dà de gǔ lì hé yǒng qì。",
+    "en": "Every time I face difficulty, my family gives me great encouragement and courage."
+   },
+   {
+    "zh": "每次下雨,这条路都会积很深的水,很不好走。",
+    "pinyin": "Měi cì xià yǔ, zhè tiáo lù dū huì jī hěn shēn de shuǐ, hěn bù hǎo zǒu。",
+    "en": "Every time it rains, this road floods deeply and is hard to walk."
+   },
+   {
+    "zh": "每次他说要减肥,可每次都管不住自己的嘴。",
+    "pinyin": "Měi cì tā shuō yào jiǎn féi, kě měi cì dōu guǎn bú zhù zì jǐ de zuǐ。",
+    "en": "Every time he says he'll diet, but every time he can't resist eating."
+   },
+   {
+    "zh": "每次看到孩子的笑脸,我一天的疲惫都消失了。",
+    "pinyin": "Měi cì kàn dào hái zi de xiào liǎn, wǒ yī tiān de pí bèi dōu xiāo shī le。",
+    "en": "Every time I see the child's smile, my whole day's fatigue vanishes."
+   },
+   {
+    "zh": "每次出差,他都不忘给孩子带一份小礼物。",
+    "pinyin": "Měi cì chū chāi, tā dōu bù wàng gěi hái zi dài yī fèn xiǎo lǐ wù。",
+    "en": "Every business trip, he never forgets a small gift for his child."
+   },
+   {
+    "zh": "每次我想放弃的时候,都是这句话给了我力量。",
+    "pinyin": "Měi cì wǒ xiǎng fàng qì de shí hòu, dōu shì zhè jù huà gěi le wǒ lì liàng。",
+    "en": "Every time I want to give up, this sentence gives me strength."
+   },
+   {
+    "zh": "每次经过这家面包店,我都忍不住想进去看看。",
+    "pinyin": "Měi cì jīng guò zhè jiā miàn bāo diàn, wǒ dōu rěn bú zhù xiǎng jìn qù kàn kàn。",
+    "en": "Every time I pass this bakery, I can't help wanting to go in."
+   },
+   {
+    "zh": "每次考试,老师都会强调一遍考场的纪律。",
+    "pinyin": "Měi cì kǎo shì, lǎo shī dū huì qiáng diào yī biàn kǎo chǎng de jì lǜ。",
+    "en": "Before every exam, the teacher stresses the exam-room rules once."
+   },
+   {
+    "zh": "每次全家团聚,大家都要拍一张全家福留念。",
+    "pinyin": "Měi cì quán jiā tuán jù, dà jiā dōu yào pāi yī zhāng quán jiā fú liú niàn。",
+    "en": "Every family reunion, everyone takes a family photo as a keepsake."
+   },
+   {
+    "zh": "每次和他聊天,我都能学到一些新的东西。",
+    "pinyin": "Měi cì hé tā liáo tiān, wǒ dōu néng xué dào yī xiē xīn de dōng xī。",
+    "en": "Every time I chat with him, I learn something new."
+   },
+   {
+    "zh": "每次到了周末,这个公园都挤满了游玩的人。",
+    "pinyin": "Měi cì dào le zhōu mò, zhè ge gōng yuán dōu jǐ mǎn le yóu wán de rén。",
+    "en": "Every weekend, this park is packed with people out to play."
+   },
+   {
+    "zh": "每次做错了事,他都能诚恳地承认并改正。",
+    "pinyin": "Měi cì zuò cuò liǎo shì, tā dōu néng chéng kěn de chéng rèn bìng gǎi zhèng。",
+    "en": "Every time he does wrong, he sincerely admits and corrects it."
+   },
+   {
+    "zh": "每次搬家,那些舍不得扔的旧书都最让人头疼。",
+    "pinyin": "Měi cì bān jiā, nà xiē shě bù de rēng de jiù shū dōu zuì ràng rén tóu téng。",
+    "en": "Every move, the old books I can't bear to toss are the biggest headache."
+   },
+   {
+    "zh": "每次她一开口唱歌,大家都会安静下来欣赏。",
+    "pinyin": "Měi cì tā yī kāi kǒu chàng gē, dà jiā dū huì ān jìng xià lái xīn shǎng。",
+    "en": "Every time she starts to sing, everyone quiets down to listen."
+   },
+   {
+    "zh": "每次深夜加班回来,他都尽量不吵醒熟睡的家人。",
+    "pinyin": "Měi cì shēn yè jiā bān huí lái, tā dōu jǐn liàng bù chǎo xǐng shú shuì de jiā rén。",
+    "en": "Every late night home from overtime, he tries not to wake the family."
+   },
+   {
+    "zh": "每次比赛前,教练都会给队员们鼓劲。",
+    "pinyin": "Měi cì bǐ sài qián, jiào liàn dū huì gěi duì yuán men gǔ jìn。",
+    "en": "Before every match, the coach fires up the players."
+   },
+   {
+    "zh": "每次逛超市,我都会不知不觉买很多计划外的东西。",
+    "pinyin": "Měi cì guàng chāo shì, wǒ dū huì bù zhī bù jué mǎi hěn duō jì huà wài de dōng xī。",
+    "en": "Every supermarket trip, I unwittingly buy lots of unplanned things."
+   },
+   {
+    "zh": "每次想到父母日渐老去,我心里就一阵酸楚。",
+    "pinyin": "Měi cì xiǎng dào fù mǔ rì jiàn lǎo qù, wǒ xīn lǐ jiù yī zhèn suān chǔ。",
+    "en": "Every time I think of my parents aging, my heart aches."
+   },
+   {
+    "zh": "每次遇到不懂的问题,他都会追根究底,直到弄明白。",
+    "pinyin": "Měi cì yù dào bù dǒng de wèn tí, tā dū huì zhuī gēn jiū dǐ, zhí dào nòng míng bái。",
+    "en": "Every time he meets a puzzle, he digs to the bottom until he gets it."
+   },
+   {
+    "zh": "每次过节,街上都张灯结彩,热闹非凡。",
+    "pinyin": "Měi cì guò jié, jiē shàng dōu zhāng dēng jié cǎi, rè nào fēi fán。",
+    "en": "Every festival, the streets are decorated and extremely lively."
+   },
+   {
+    "zh": "每次答应了孩子的事,他都会想办法做到。",
+    "pinyin": "Měi cì dā yìng le hái zi de shì, tā dū huì xiǎng bàn fǎ zuò dào。",
+    "en": "Every time he promises the child something, he finds a way to do it."
+   },
+   {
+    "zh": "每次听老人讲从前的故事,我都听得入了迷。",
+    "pinyin": "Měi cì tīng lǎo rén jiǎng cóng qián de gù shì, wǒ dōu tīng de rù le mí。",
+    "en": "Every time the elders tell old stories, I'm captivated."
+   }
+  ]
+ },
+ {
+  "id": "g249",
+  "level": 3,
+  "title": "Soru sözcüğü + \"都\" ile genelleme",
+  "titleEn": "Expressing \"every\" with question words",
+  "pattern": "Soru Sözcüğü + 都 + Yüklem",
+  "summary": "Soru sözcüğü + \"都/也\" \"her ..., hepsi\" (ya da olumsuzla \"hiç\") anlamı verir: 谁都知道 = herkes bilir; 哪儿都找不到 = hiçbir yerde bulunamıyor.",
+  "explanation": "Bir SORU SÖZCÜĞÜ (谁, 什么, 哪儿, 哪个, 怎么, 多少, 什么时候) ardından \"都\" (ya da olumsuzla \"也\") gelince SORU anlamını yitirip GENELLEME yapar: olumluyla \"her/hepsi\", olumsuzla \"hiç/hiçbir\". 谁都可以参加 (Herkes katılabilir), 他什么都懂 (Her şeyi bilir), 哪儿都找不到 (Hiçbir yerde bulunamıyor), 什么时候来都行 (Ne zaman gelsen olur), 怎么劝他都不听 (Nasıl öğütlesen de dinlemiyor). Soru sözcüğü \"herhangi biri/her ne olursa\" anlamı taşır; \"都/也\" istisnasızlığı tamamlar. Bu, \"什么都/谁都\" gibi kalıpları kapsayan genel bir kuraldır. \"无论/不管 + soru sözcüğü + 都...\" (... olursa olsun) biçiminde de sık gelir. Türkçedeki \"her ..., hepsi, hiç, ... olursa olsun, ne/kim/nerede olursa\" genelleme ifadelerine denk gelir; kapsamlı olumlama/olumsuzlama yapmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "这件事谁都知道了,你就别瞒着了。",
+    "pinyin": "Zhè jiàn shì shéi dōu zhī dào le, nǐ jiù bié mán zhe le。",
+    "en": "Everyone knows about this; stop hiding it."
+   },
+   {
+    "zh": "他见多识广,你问他什么他都能说出个道理来。",
+    "pinyin": "Tā jiàn duō shí guǎng, nǐ wèn tā shén me tā dōu néng shuō chū gè dào lǐ lái。",
+    "en": "He's well-informed; whatever you ask, he can reason it out."
+   },
+   {
+    "zh": "我找遍了整个屋子,哪儿都没找到那把钥匙。",
+    "pinyin": "Wǒ zhǎo biàn le zhěng gè wū zi, nǎ ér dōu méi zhǎo dào nà bǎ yào shi。",
+    "en": "I searched the whole house but couldn't find the key anywhere."
+   },
+   {
+    "zh": "你什么时候有空都可以来,我随时欢迎。",
+    "pinyin": "Nǐ shén me shí hòu yǒu kòng dōu kě yǐ lái, wǒ suí shí huān yíng。",
+    "en": "Come whenever you're free; you're welcome anytime."
+   },
+   {
+    "zh": "这几个方案哪个都不错,真让人难以取舍。",
+    "pinyin": "Zhè jǐ gè fāng àn nǎ ge dōu bù cuò, zhēn ràng rén nán yǐ qǔ shě。",
+    "en": "Any of these plans is good; it's hard to choose."
+   },
+   {
+    "zh": "不管我怎么解释,他都听不进去,真让人着急。",
+    "pinyin": "Bù guǎn wǒ zěn me jiě shì, tā dōu tīng bù jìn qù, zhēn ràng rén zháo jí。",
+    "en": "No matter how I explain, he won't listen; it's frustrating."
+   },
+   {
+    "zh": "这个孩子特别乖,你让他做什么他都愿意。",
+    "pinyin": "Zhè ge hái zi tè bié guāi, nǐ ràng tā zuò shén me tā dōu yuàn yì。",
+    "en": "This child is very good; whatever you ask, he's willing to do."
+   },
+   {
+    "zh": "这么晚了,哪儿都关门了,咱们只能回家吃了。",
+    "pinyin": "Zhè me wǎn le, nǎ ér dōu guān mén le, zán men zhǐ néng huí jiā chī le。",
+    "en": "It's so late everywhere's closed; we can only eat at home."
+   },
+   {
+    "zh": "他为人随和,跟谁都能聊到一块儿去。",
+    "pinyin": "Tā wéi rén suí hé, gēn shéi dōu néng liáo dào yī kuài ér qù。",
+    "en": "He's easygoing and can hit it off with anyone."
+   },
+   {
+    "zh": "无论多晚,他都会等你回来才睡。",
+    "pinyin": "Wú lùn duō wǎn, tā dū huì děng nǐ huí lái cái shuì。",
+    "en": "No matter how late, he waits until you're back before sleeping."
+   },
+   {
+    "zh": "这些年他走南闯北,什么苦都吃过。",
+    "pinyin": "Zhè xiē nián tā zǒu nán chuǎng běi, shén me kǔ dōu chī guò。",
+    "en": "Over the years he's traveled far and endured every hardship."
+   },
+   {
+    "zh": "这个道理谁都懂,可真正能做到的没几个。",
+    "pinyin": "Zhè ge dào lǐ shéi dōu dǒng, kě zhēn zhèng néng zuò dào de méi jǐ gè。",
+    "en": "Everyone understands this, but few can truly do it."
+   },
+   {
+    "zh": "你放心,这件事我谁都不会说的。",
+    "pinyin": "Nǐ fàng xīn, zhè jiàn shì wǒ shéi dōu bú huì shuō de。",
+    "en": "Rest assured; I won't tell anyone about this."
+   },
+   {
+    "zh": "他心情不好的时候,谁说什么都没用。",
+    "pinyin": "Tā xīn qíng bù hǎo de shí hòu, shuí shuō shén me dōu méi yòng。",
+    "en": "When he's in a bad mood, whatever anyone says is useless."
+   },
+   {
+    "zh": "这种天气,哪儿都不想去,就想窝在家里。",
+    "pinyin": "Zhè zhǒng tiān qì, nǎ ér dōu bù xiǎng qù, jiù xiǎng wō zài jiā lǐ。",
+    "en": "In this weather, I don't want to go anywhere but curl up at home."
+   },
+   {
+    "zh": "只要你肯学,什么时候开始都不算晚。",
+    "pinyin": "Zhǐ yào nǐ kěn xué, shén me shí hòu kāi shǐ dōu bù suàn wǎn。",
+    "en": "As long as you're willing to learn, it's never too late to start."
+   },
+   {
+    "zh": "他这个人很挑剔,什么都要求做到最好。",
+    "pinyin": "Tā zhè ge rén hěn tiāo tī, shén me dōu yāo qiú zuò dào zuì hǎo。",
+    "en": "He's very particular; he demands the best in everything."
+   },
+   {
+    "zh": "无论谁遇到这种情况,都会感到为难的。",
+    "pinyin": "Wú lùn shuí yù dào zhè zhǒng qíng kuàng, dū huì gǎn dào wéi nán de。",
+    "en": "Anyone in this situation would feel awkward."
+   },
+   {
+    "zh": "这些书随便看,你想看哪本哪本都行。",
+    "pinyin": "Zhè xiē shū suí biàn kàn, nǐ xiǎng kàn nǎ běn nǎ běn dōu xíng。",
+    "en": "Read any of these books; whichever you like is fine."
+   },
+   {
+    "zh": "他嘴很严,你告诉他什么秘密他都守得住。",
+    "pinyin": "Tā zuǐ hěn yán, nǐ gào sù tā shén me mì mì tā dōu shǒu de zhù。",
+    "en": "He's tight-lipped; whatever secret you tell him, he keeps."
+   },
+   {
+    "zh": "时间紧,怎么赶我们都来不及了,只能改期。",
+    "pinyin": "Shí jiān jǐn, zěn me gǎn wǒ men dōu lái bù jí le, zhǐ néng gǎi qī。",
+    "en": "Time's tight; however we hurry, we can't make it, so we must reschedule."
+   },
+   {
+    "zh": "这孩子聪明,学什么都比别人快。",
+    "pinyin": "Zhè hái zi cōng míng, xué shén me dōu bǐ bié rén kuài。",
+    "en": "This child is smart; whatever he learns, he's faster than others."
+   },
+   {
+    "zh": "经历过那么多,现在什么困难他都不怕了。",
+    "pinyin": "Jīng lì guò nà me duō, xiàn zài shén me kùn nán tā dōu bù pà le。",
+    "en": "Having been through so much, he now fears no difficulty."
+   },
+   {
+    "zh": "你别担心花钱的事,多少我都能承担。",
+    "pinyin": "Nǐ bié dān xīn huā qián de shì, duō shǎo wǒ dōu néng chéng dān。",
+    "en": "Don't worry about the cost; whatever it is, I can cover it."
+   },
+   {
+    "zh": "这条路我熟,闭着眼睛怎么走都不会错。",
+    "pinyin": "Zhè tiáo lù wǒ shú, bì zhuó yǎn jīng zěn me zǒu dōu bú huì cuò。",
+    "en": "I know this road; even blindfolded I couldn't go wrong."
+   }
+  ]
  }
 ]

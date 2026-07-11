@@ -22302,5 +22302,685 @@
     "en": "Since you're unwell, you'd best take a day off to rest."
    }
   ]
+ },
+ {
+  "id": "g165",
+  "level": 3,
+  "title": "\"这样\" ile \"böylece, bu şekilde\"",
+  "titleEn": "Expressing \"in this way\" with \"zheyang\"",
+  "pattern": "Koşul，这样 + Sonuç / Amaç",
+  "summary": "\"这样\" (zhèyàng) önceki duruma bağlı bir sonuç/amaç bağlar: \"böyle, bu şekilde, böylece\": 早点睡,这样明天才有精神 = Erken yat ki yarın dinç olasın.",
+  "explanation": "\"这样\" \"böyle, bu şekilde\" anlamına gelir ve iki işlevi öne çıkar: (1) Bir eylemin BİÇİMİNİ gösterir — 你这样做就对了 (Böyle yaparsan doğru olur). (2) Önceki koşula bağlı bir SONUÇ/AMAÇ bağlar, çoğu zaman ikinci cümlenin başında — 你多穿点,这样就不会感冒了 (Kalın giyin ki üşütmeyesin), 我们分工合作,这样能节省不少时间 (İş bölümü yapalım, böylece çok zaman kazanırız). Bir önceki cümledeki yöntem/koşul sayesinde doğan sonucu bağlar; Türkçedeki \"böylece, bu şekilde, böyle yaparsak/yaparsan\" ifadelerine denk gelir. \"这样一来\" (böylece, bu durumda) da yakın bir kalıptır. Neden-sonuç ve amaç anlatımında akıcı geçiş sağlar.",
+  "examples": [
+   {
+    "zh": "你每天坚持背几个单词,这样一年下来就能记住不少。",
+    "pinyin": "Nǐ měi tiān jiān chí bèi jǐ gè dān cí, zhè yàng yī nián xià lái jiù néng jì zhù bù shǎo。",
+    "en": "Memorize a few words daily, and this way you'll learn a lot in a year."
+   },
+   {
+    "zh": "我们提前订好票,这样就不用担心到时候买不到了。",
+    "pinyin": "Wǒ men tí qián dìng hǎo piào, zhè yàng jiù bù yòng dān xīn dào shí hòu mǎi bú dào le。",
+    "en": "Let's book tickets in advance, so we needn't worry about them selling out."
+   },
+   {
+    "zh": "你多喝点热水,好好休息,这样感冒才能快点好。",
+    "pinyin": "Nǐ duō hē diǎn rè shuǐ, hǎo hǎo xiū xī, zhè yàng gǎn mào cái néng kuài diǎn hǎo。",
+    "en": "Drink hot water and rest well; this way the cold will heal faster."
+   },
+   {
+    "zh": "咱们分头去找,这样能快点把丢的东西找到。",
+    "pinyin": "Zán men fēn tóu qù zhǎo, zhè yàng néng kuài diǎn bǎ diū de dōng xī zhǎo dào。",
+    "en": "Let's search separately; this way we'll find the lost item faster."
+   },
+   {
+    "zh": "把重要的事情写下来,这样就不容易忘记了。",
+    "pinyin": "Bǎ zhòng yào de shì qíng xiě xià lái, zhè yàng jiù bù róng yì wàng jì le。",
+    "en": "Write down important things, and this way you won't forget them easily."
+   },
+   {
+    "zh": "你先冷静下来再说,这样才能把问题讲清楚。",
+    "pinyin": "Nǐ xiān lěng jìng xià lái zài shuō, zhè yàng cái néng bǎ wèn tí jiǎng qīng chǔ。",
+    "en": "Calm down first before speaking; only this way can you explain clearly."
+   },
+   {
+    "zh": "我们轮流照顾老人,这样谁都不会太累。",
+    "pinyin": "Wǒ men lún liú zhào gù lǎo rén, zhè yàng shéi dōu bú huì tài lèi。",
+    "en": "Let's take turns caring for the elderly, so no one gets too tired."
+   },
+   {
+    "zh": "你按我说的步骤做,这样操作起来就简单多了。",
+    "pinyin": "Nǐ àn wǒ shuō de bù zhòu zuò, zhè yàng cāo zuò qǐ lái jiù jiǎn dān duō le。",
+    "en": "Follow the steps I described, and it'll be much simpler to operate."
+   },
+   {
+    "zh": "平时多存点钱,这样遇到急事就不至于手忙脚乱。",
+    "pinyin": "Píng shí duō cún diǎn qián, zhè yàng yù dào jí shì jiù bù zhì yú shǒu máng jiǎo luàn。",
+    "en": "Save money regularly, so emergencies won't catch you unprepared."
+   },
+   {
+    "zh": "把家具靠墙摆,这样房间能显得宽敞一些。",
+    "pinyin": "Bǎ jiā jù kào qiáng bǎi, zhè yàng fáng jiān néng xiǎn de kuān chǎng yī xiē。",
+    "en": "Place the furniture against the wall; this way the room looks more spacious."
+   },
+   {
+    "zh": "你先跟他道个歉,这样两个人才好继续合作。",
+    "pinyin": "Nǐ xiān gēn tā dào gè qiàn, zhè yàng liǎng gè rén cái hǎo jì xù hé zuò。",
+    "en": "Apologize to him first, so you two can keep working together."
+   },
+   {
+    "zh": "我们把任务分成几部分,这样做起来就不会那么吃力。",
+    "pinyin": "Wǒ men bǎ rèn wù fēn chéng jǐ bù fèn, zhè yàng zuò qǐ lái jiù bú huì nà me chī lì。",
+    "en": "Let's split the task into parts, and it won't be so strenuous."
+   },
+   {
+    "zh": "孩子从小养成读书的习惯,这样长大后受益无穷。",
+    "pinyin": "Hái zi cóng xiǎo yǎng chéng dú shū de xí guàn, zhè yàng zhǎng dà hòu shòu yì wú qióng。",
+    "en": "If a child forms a reading habit early, they benefit endlessly later."
+   },
+   {
+    "zh": "你把车停在阴凉处,这样车里就不会太热了。",
+    "pinyin": "Nǐ bǎ chē tíng zài yīn liáng chù, zhè yàng chē lǐ jiù bú huì tài rè le。",
+    "en": "Park the car in the shade, so it won't get too hot inside."
+   },
+   {
+    "zh": "咱们早点出发,这样就能赶在天黑前到达。",
+    "pinyin": "Zán men zǎo diǎn chū fā, zhè yàng jiù néng gǎn zài tiān hēi qián dào dá。",
+    "en": "Let's leave early, so we can arrive before dark."
+   },
+   {
+    "zh": "你把想法都说出来,这样大家才能一起想办法。",
+    "pinyin": "Nǐ bǎ xiǎng fǎ dōu shuō chū lái, zhè yàng dà jiā cái néng yì qǐ xiǎng bàn fǎ。",
+    "en": "Share all your ideas, so everyone can figure things out together."
+   },
+   {
+    "zh": "多跟中国人聊天,这样口语才能提高得更快。",
+    "pinyin": "Duō gēn zhōng guó rén liáo tiān, zhè yàng kǒu yǔ cái néng tí gāo de gèng kuài。",
+    "en": "Chat with Chinese people more; this way your speaking improves faster."
+   },
+   {
+    "zh": "你把手机放远一点,这样睡觉才不会老想着看。",
+    "pinyin": "Nǐ bǎ shǒu jī fàng yuǎn yì diǎn, zhè yàng shuì jiào cái bú huì lǎo xiǎng zhe kàn。",
+    "en": "Put your phone farther away, so you won't keep wanting to check it in bed."
+   },
+   {
+    "zh": "我们把会议提前到上午,这样下午就有时间处理别的事。",
+    "pinyin": "Wǒ men bǎ huì yì tí qián dào shàng wǔ, zhè yàng xià wǔ jiù yǒu shí jiān chǔ lǐ bié de shì。",
+    "en": "Let's move the meeting to the morning, freeing the afternoon for other things."
+   },
+   {
+    "zh": "你把步骤记牢,这样以后自己一个人也能做。",
+    "pinyin": "Nǐ bǎ bù zhòu jì láo, zhè yàng yǐ hòu zì jǐ yí gè rén yě néng zuò。",
+    "en": "Memorize the steps, so you can do it alone later."
+   },
+   {
+    "zh": "大家都遵守规则,这样活动才能顺利进行。",
+    "pinyin": "Dà jiā dōu zūn shǒu guī zé, zhè yàng huó dòng cái néng shùn lì jìn xíng。",
+    "en": "If everyone follows the rules, the event can go smoothly."
+   },
+   {
+    "zh": "你把窗帘拉上,这样屋里就不会那么晒了。",
+    "pinyin": "Nǐ bǎ chuāng lián lā shàng, zhè yàng wū lǐ jiù bú huì nà me shài le。",
+    "en": "Draw the curtains, so the room won't be so sunny."
+   },
+   {
+    "zh": "我们互相监督,这样谁都不好意思偷懒。",
+    "pinyin": "Wǒ men hù xiāng jiān dū, zhè yàng shéi dōu bù hǎo yì sī tōu lǎn。",
+    "en": "Let's supervise each other, so no one is inclined to slack off."
+   },
+   {
+    "zh": "你把重点画出来,这样复习的时候就一目了然。",
+    "pinyin": "Nǐ bǎ zhòng diǎn huà chū lái, zhè yàng fù xí de shí hòu jiù yī mù liǎo rán。",
+    "en": "Highlight the key points, so reviewing is clear at a glance."
+   },
+   {
+    "zh": "提前把材料准备好,这样开会的时候就不慌了。",
+    "pinyin": "Tí qián bǎ cái liào zhǔn bèi hǎo, zhè yàng kāi huì de shí hòu jiù bù huāng le。",
+    "en": "Prepare the materials in advance, so you won't panic during the meeting."
+   }
+  ]
+ },
+ {
+  "id": "g166",
+  "level": 3,
+  "title": "\"才\" ile geç kalma/ancak",
+  "titleEn": "Expressing lateness with \"cai\"",
+  "pattern": "Özne + Zaman + 才 + Fiil",
+  "summary": "\"才\" bir eylemin BEKLENENDEN GEÇ olduğunu vurgular: 他九点才来 = O ancak dokuzda geldi (geç).",
+  "explanation": "\"才\" bir zaman ifadesinin ardından gelip eylemin BEKLENENDEN GEÇ, ancak o zaman gerçekleştiğini vurgular: 他九点才到 (Ancak dokuzda geldi — geç), 我劝了半天他才同意 (Uzun uzun ikna ettim de ancak öyle razı oldu). \"就\"un tam KARŞITIDIR: \"就\" \"erken/çabuk\", \"才\" \"geç/ancak\" bildirir. Önemli bir gramer noktası: \"才\"lı cümle geçmiş bir olay bile anlatsa genelde \"了\" ALMAZ (他昨天很晚才睡 — \"了\" yok). \"才\" ayrıca \"sadece, ancak (az miktar)\" anlamına da gelebilir: 他才五岁 (daha beş yaşında). Bu konuda özellikle GEÇLİK vurgusunu ele alıyoruz. Türkçedeki \"ancak, ...-ınca, geç, nihayet\" karşılıklarına denk gelir; bir şeyin ne kadar geç/güçlükle olduğunu belirtir.",
+  "examples": [
+   {
+    "zh": "昨天晚上他忙到十二点才睡觉,今天没什么精神。",
+    "pinyin": "Zuó tiān wǎn shàng tā máng dào shí èr diǎn cái shuì jiào, jīn tiān méi shén me jīng shén。",
+    "en": "Last night he worked until midnight before sleeping; today he's listless."
+   },
+   {
+    "zh": "我们等了好久,他才不慌不忙地走了过来。",
+    "pinyin": "Wǒ men děng le hǎo jiǔ, tā cái bù huāng bù máng de zǒu le guò lái。",
+    "en": "We waited a long time before he sauntered over unhurriedly."
+   },
+   {
+    "zh": "这道题我想了半天,才终于弄明白是怎么回事。",
+    "pinyin": "Zhè dào tí wǒ xiǎng le bàn tiān, cái zhōng yú nòng míng bái shì zěn me huí shì。",
+    "en": "I pondered this problem for a long time before finally figuring it out."
+   },
+   {
+    "zh": "他一直不肯说,直到我再三追问,才说出了真相。",
+    "pinyin": "Tā yì zhí bù kěn shuō, zhí dào wǒ zài sān zhuī wèn, cái shuō chū le zhēn xiàng。",
+    "en": "He wouldn't tell until, after repeated questioning, he revealed the truth."
+   },
+   {
+    "zh": "火车晚点了,我们比原计划晚了两个小时才到。",
+    "pinyin": "Huǒ chē wǎn diǎn le, wǒ men bǐ yuán jì huà wǎn le liǎng gè xiǎo shí cái dào。",
+    "en": "The train was delayed; we arrived two hours later than planned."
+   },
+   {
+    "zh": "这本书我读了好几遍,才慢慢体会到它的深意。",
+    "pinyin": "Zhè běn shū wǒ dú le hǎo jǐ biàn, cái màn màn tǐ huì dào tā de shēn yì。",
+    "en": "I read this book several times before slowly grasping its deeper meaning."
+   },
+   {
+    "zh": "孩子玩得太开心,叫了好几声才依依不舍地回家。",
+    "pinyin": "Hái zi wán de tài kāi xīn, jiào le hǎo jǐ shēng cái yī yī bù shě de huí jiā。",
+    "en": "The child was having so much fun that he only came home reluctantly after several calls."
+   },
+   {
+    "zh": "经过反复解释,他才勉强接受了我的建议。",
+    "pinyin": "Jīng guò fǎn fù jiě shì, tā cái miǎn qiǎng jiē shòu le wǒ de jiàn yì。",
+    "en": "After repeated explaining, he reluctantly accepted my suggestion."
+   },
+   {
+    "zh": "我找了整整一个上午,才在角落里找到那把钥匙。",
+    "pinyin": "Wǒ zhǎo le zhěng zhěng yí gè shàng wǔ, cái zài jiǎo luò lǐ zhǎo dào nà bǎ yào shi。",
+    "en": "I searched all morning before finding the key in a corner."
+   },
+   {
+    "zh": "他病了很久,吃了不少药,才慢慢好了起来。",
+    "pinyin": "Tā bìng le hěn jiǔ, chī le bù shǎo yào, cái màn màn hǎo le qǐ lái。",
+    "en": "He was ill for a long time and took much medicine before slowly recovering."
+   },
+   {
+    "zh": "直到天快黑了,他们才爬到山顶。",
+    "pinyin": "Zhí dào tiān kuài hēi le, tā men cái pá dào shān dǐng。",
+    "en": "Only when it was almost dark did they reach the summit."
+   },
+   {
+    "zh": "我提醒了他好几次,他才想起来今天有个约会。",
+    "pinyin": "Wǒ tí xǐng le tā hǎo jǐ cì, tā cái xiǎng qǐ lái jīn tiān yǒu gè yuē huì。",
+    "en": "I reminded him several times before he recalled he had a date today."
+   },
+   {
+    "zh": "这件事拖了很久,最近才总算有了结果。",
+    "pinyin": "Zhè jiàn shì tuō le hěn jiǔ, zuì jìn cái zǒng suàn yǒu liǎo jié guǒ。",
+    "en": "This matter dragged on for long and only recently got a result."
+   },
+   {
+    "zh": "他工作了很多年,四十岁才有了自己的第一套房子。",
+    "pinyin": "Tā gōng zuò le hěn duō nián, sì shí suì cái yǒu le zì jǐ de dì yī tào fáng zi。",
+    "en": "He worked for years and only bought his first home at forty."
+   },
+   {
+    "zh": "大家都到了,就等他一个人,他半个小时后才姗姗来迟。",
+    "pinyin": "Dà jiā dōu dào le, jiù děng tā yí gè rén, tā bàn gè xiǎo shí hòu cái shān shān lái chí。",
+    "en": "Everyone was there waiting just for him; he arrived late half an hour later."
+   },
+   {
+    "zh": "我说了很多好话,老板才勉强答应给我放两天假。",
+    "pinyin": "Wǒ shuō le hěn duō hǎo huà, lǎo bǎn cái miǎn qiǎng dā yìng gěi wǒ fàng liǎng tiān jiǎ。",
+    "en": "After much sweet-talking, the boss reluctantly agreed to give me two days off."
+   },
+   {
+    "zh": "这个道理，我吃了不少亏以后才真正明白。",
+    "pinyin": "Zhè ge dào lǐ， wǒ chī le bù shǎo kuī yǐ hòu cái zhēn zhèng míng bái。",
+    "en": "I only truly understood this after suffering quite a few setbacks."
+   },
+   {
+    "zh": "他一直忙到深夜,才把手头的工作做完。",
+    "pinyin": "Tā yì zhí máng dào shēn yè, cái bǎ shǒu tóu de gōng zuò zuò wán。",
+    "en": "He kept busy until late at night before finishing the work at hand."
+   },
+   {
+    "zh": "孩子哭闹了半天,妈妈哄了好久才安静下来。",
+    "pinyin": "Hái zi kū nào le bàn tiān, mā mā hǒng le hǎo jiǔ cái ān jìng xià lái。",
+    "en": "The child fussed for a while; mom soothed him a long time before he calmed."
+   },
+   {
+    "zh": "经过好几次试验,他们才找到了最合适的方法。",
+    "pinyin": "Jīng guò hǎo jǐ cì shì yàn, tā men cái zhǎo dào le zuì hé shì de fāng fǎ。",
+    "en": "After several experiments, they finally found the best method."
+   },
+   {
+    "zh": "我催了他好几遍,他才慢吞吞地开始收拾行李。",
+    "pinyin": "Wǒ cuī le tā hǎo jǐ biàn, tā cái màn tūn tūn de kāi shǐ shōu shí xíng lǐ。",
+    "en": "I urged him several times before he slowly began packing."
+   },
+   {
+    "zh": "那件事过去很多年了,我到现在才知道原来是他做的。",
+    "pinyin": "Nà jiàn shì guò qù hěn duō nián le, wǒ dào xiàn zài cái zhī dào yuán lái shì tā zuò de。",
+    "en": "That happened years ago, and only now do I learn it was him."
+   },
+   {
+    "zh": "路上堵得厉害,平时二十分钟的路今天走了一个小时才到。",
+    "pinyin": "Lù shàng dǔ de lì hài, píng shí èr shí fēn zhōng de lù jīn tiān zǒu le yí gè xiǎo shí cái dào。",
+    "en": "Traffic was terrible; a usual twenty-minute trip took an hour today."
+   },
+   {
+    "zh": "他复习到很晚,考试前一天才把所有内容看完。",
+    "pinyin": "Tā fù xí dào hěn wǎn, kǎo shì qián yī tiān cái bǎ suǒ yǒu nèi róng kàn wán。",
+    "en": "He reviewed until late, finishing all the material only the day before the exam."
+   },
+   {
+    "zh": "我劝了他大半天,他才勉强同意去医院看看。",
+    "pinyin": "Wǒ quàn le tā dà bàn tiān, tā cái miǎn qiǎng tóng yì qù yī yuàn kàn kàn。",
+    "en": "I persuaded him for most of the day before he reluctantly agreed to see a doctor."
+   }
+  ]
+ },
+ {
+  "id": "g167",
+  "level": 3,
+  "title": "\"一 + ölçü\" ikilemesiyle \"tek tek\"",
+  "titleEn": "Expressing \"one by one\" with \"yi\"",
+  "pattern": "一 + Ölçü + 一 + Ölçü (+ 地)",
+  "summary": "\"一 + ölçü\" kalıbını tekrarlamak \"tek tek, birer birer\" anlamı verir: 一个一个地检查 = teker teker kontrol etmek.",
+  "explanation": "\"一 + ölçü sözcüğü\" kalıbını iki kez tekrarlamak, bir eylemin BİRER BİRER, tek tek, sırayla yapıldığını anlatır: 一个一个 (teker teker), 一步一步 (adım adım), 一天一天 (gün geçtikçe), 一遍一遍 (defalarca). Çoğu zaman ardından zarf yapıcı \"地\" gelip fiili niteler: 一个一个地数 (teker teker saymak), 一步一步地往上爬 (adım adım tırmanmak). Aynı ölçü sözcüğü iki \"一\" ile tekrarlanır ve eylemin tek tek, sabırla ya da tedricen ilerlediğini vurgular. Türkçedeki \"birer birer, tek tek, adım adım, gitgide\" ikilemelerine denk gelir; bir eylemin sıralı/tedrici doğasını canlı biçimde betimler.",
+  "examples": [
+   {
+    "zh": "老师把作业一本一本地批改,一直忙到很晚。",
+    "pinyin": "Lǎo shī bǎ zuò yè yī běn yī běn dì pī gǎi, yì zhí máng dào hěn wǎn。",
+    "en": "The teacher graded the homework one by one, busy until late."
+   },
+   {
+    "zh": "他把散落的照片一张一张地捡起来,小心地放好。",
+    "pinyin": "Tā bǎ sàn luò de zhào piān yī zhāng yī zhāng de jiǎn qǐ lái, xiǎo xīn de fàng hǎo。",
+    "en": "He picked up the scattered photos one by one and put them away carefully."
+   },
+   {
+    "zh": "学习是个一点一点积累的过程,急不得。",
+    "pinyin": "Xué xí shì gè yì diǎn yì diǎn jī lěi de guò chéng, jí bù de。",
+    "en": "Learning is a process of accumulating bit by bit; you can't rush it."
+   },
+   {
+    "zh": "孩子扶着栏杆,一步一步地往楼上走。",
+    "pinyin": "Hái zi fú zhe lán gān, yí bù yí bù de wǎng lóu shàng zǒu。",
+    "en": "Holding the railing, the child climbed the stairs step by step."
+   },
+   {
+    "zh": "妈妈把饺子一个一个地包好,整齐地摆在盘子里。",
+    "pinyin": "Mā mā bǎ jiǎo zi yí gè yí gè de bāo hǎo, zhěng qí de bǎi zài pán zi lǐ。",
+    "en": "Mom wrapped the dumplings one by one and arranged them neatly on the plate."
+   },
+   {
+    "zh": "日子一天一天地过去,他的病也一天天好了起来。",
+    "pinyin": "Rì zi yī tiān yī tiān de guò qù, tā de bìng yě yī tiān tiān hǎo le qǐ lái。",
+    "en": "The days passed one by one, and his illness gradually improved."
+   },
+   {
+    "zh": "我把名单上的人一个一个地打电话通知到了。",
+    "pinyin": "Wǒ bǎ míng dān shàng de rén yí gè yí gè de dǎ diàn huà tōng zhī dào le。",
+    "en": "I called and notified everyone on the list one by one."
+   },
+   {
+    "zh": "他把这道题的步骤一步一步地讲给我听。",
+    "pinyin": "Tā bǎ zhè dào tí de bù zhòu yí bù yí bù de jiǎng gěi wǒ tīng。",
+    "en": "He explained the steps of this problem to me one by one."
+   },
+   {
+    "zh": "秋天到了,树叶一片一片地从枝头飘落下来。",
+    "pinyin": "Qiū tiān dào le, shù yè yī piàn yī piàn de cóng zhī tóu piāo luò xià lái。",
+    "en": "Autumn came, and the leaves fell from the branches one by one."
+   },
+   {
+    "zh": "这么多行李,只能一件一件地往车上搬。",
+    "pinyin": "Zhè me duō xíng lǐ, zhǐ néng yī jiàn yī jiàn de wǎng chē shàng bān。",
+    "en": "With so much luggage, we can only load it onto the car piece by piece."
+   },
+   {
+    "zh": "他把心里的话一句一句地慢慢说了出来。",
+    "pinyin": "Tā bǎ xīn lǐ de huà yī jù yī jù de màn màn shuō le chū lái。",
+    "en": "He slowly spoke the words in his heart one sentence at a time."
+   },
+   {
+    "zh": "图书管理员把书一本一本地放回了原来的位置。",
+    "pinyin": "Tú shū guǎn lǐ yuán bǎ shū yī běn yī běn dì fàng huí le yuán lái de wèi zhì。",
+    "en": "The librarian put the books back one by one to their original places."
+   },
+   {
+    "zh": "这些问题咱们别急,一个一个地来解决。",
+    "pinyin": "Zhè xiē wèn tí zán men bié jí, yí gè yí gè de lái jiě jué。",
+    "en": "Let's not rush these problems; we'll solve them one at a time."
+   },
+   {
+    "zh": "他一遍一遍地练习那首曲子,直到弹得非常熟练。",
+    "pinyin": "Tā yī biàn yī biàn de liàn xí nà shǒu qǔ zi, zhí dào dàn de fēi cháng shú liàn。",
+    "en": "He practiced that piece over and over until he played it fluently."
+   },
+   {
+    "zh": "孩子把积木一块一块地搭成了一座高高的塔。",
+    "pinyin": "Hái zi bǎ jī mù yī kuài yī kuài de dā chéng le yī zuò gāo gāo de tǎ。",
+    "en": "The child stacked the blocks one by one into a tall tower."
+   },
+   {
+    "zh": "护士把药一粒一粒地分好,交代病人按时吃。",
+    "pinyin": "Hù shì bǎ yào yī lì yī lì de fēn hǎo, jiāo dài bìng rén àn shí chī。",
+    "en": "The nurse sorted the pills one by one and told the patient to take them on time."
+   },
+   {
+    "zh": "我把口袋里的硬币一个一个地数了一遍。",
+    "pinyin": "Wǒ bǎ kǒu dài lǐ de yìng bì yí gè yí gè de shù le yī biàn。",
+    "en": "I counted the coins in my pocket one by one."
+   },
+   {
+    "zh": "他一步一步地朝着自己的梦想努力前进。",
+    "pinyin": "Tā yí bù yí bù de cháo zhe zì jǐ de mèng xiǎng nǔ lì qián jìn。",
+    "en": "He advances toward his dream step by step."
+   },
+   {
+    "zh": "农民把种子一颗一颗地撒进了松软的泥土里。",
+    "pinyin": "Nóng mín bǎ zhǒng zi yī kē yī kē de sā jìn le sōng ruǎn de ní tǔ lǐ。",
+    "en": "The farmer sowed the seeds one by one into the soft soil."
+   },
+   {
+    "zh": "这些老照片记录了这座城市一年一年的变化。",
+    "pinyin": "Zhè xiē lǎo zhào piān jì lù le zhè zuò chéng shì yī nián yī nián de biàn huà。",
+    "en": "These old photos record the city's changes year by year."
+   },
+   {
+    "zh": "他把桌上的文件一份一份地检查,确认没有遗漏。",
+    "pinyin": "Tā bǎ zhuō shàng de wén jiàn yī fèn yī fèn de jiǎn chá, què rèn méi yǒu yí lòu。",
+    "en": "He checked the documents on the desk one by one to ensure nothing was missed."
+   },
+   {
+    "zh": "小女孩把糖果一颗一颗地分给身边的小伙伴。",
+    "pinyin": "Xiǎo nǚ hái bǎ táng guǒ yī kē yī kē de fēn gěi shēn biān de xiǎo huǒ bàn。",
+    "en": "The little girl handed out candies one by one to her friends."
+   },
+   {
+    "zh": "我们一间一间地看房子,终于找到了满意的。",
+    "pinyin": "Wǒ men yī jiān yī jiān de kàn fáng zi, zhōng yú zhǎo dào le mǎn yì de。",
+    "en": "We viewed the apartments one by one and finally found a satisfactory one."
+   },
+   {
+    "zh": "他把学过的生词一个一个地写在卡片上,方便复习。",
+    "pinyin": "Tā bǎ xué guò de shēng cí yí gè yí gè de xiě zài kǎ piàn shàng, fāng biàn fù xí。",
+    "en": "He wrote the learned words one by one on cards for easy review."
+   },
+   {
+    "zh": "困难要一个一个地克服,总有一天会走出困境。",
+    "pinyin": "Kùn nán yào yí gè yí gè de kè fú, zǒng yǒu yī tiān huì zǒu chū kùn jìng。",
+    "en": "Difficulties must be overcome one by one; one day you'll get through."
+   }
+  ]
+ },
+ {
+  "id": "g168",
+  "level": 3,
+  "title": "\"就\" ile \"yalnızca, sadece\" (az miktar)",
+  "titleEn": "Expressing \"small quantity\" with \"jiu\"",
+  "pattern": "就 + Özne / 就 + Miktar",
+  "summary": "\"就\" bir miktarın az/tek olduğunu vurgular: \"yalnızca, sadece, bir tek\": 就他一个人来了 = Bir tek o geldi.",
+  "explanation": "\"就\" burada bir miktarın SADECE bu kadar, az ya da tek olduğunu vurgular — \"yalnızca, sadece, bir tek, topu topu\". 就他一个人知道 (Bir tek o biliyor), 我就买了一件 (Sadece bir tane aldım), 家里就剩一点米了 (Evde topu topu biraz pirinç kaldı). \"就\" vurgulanan az miktar/tek öğenin hemen önünde durur ve \"başka değil, sadece bu\" fikrini verir. \"只\" (yalnızca) ile çok yakın anlamlıdır ve çoğu bağlamda değiştirilebilir; \"就\" konuşma dilinde daha vurgulu/duygusal olabilir. Bu, \"就\"un erkenlik ya da hemen-ardışıklık anlamlarından farklıdır; burada NİCELİK sınırlaması vardır. Türkçedeki \"yalnızca, sadece, bir tek, topu topu\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这么多人里,就他一个人举手表示反对。",
+    "pinyin": "Zhè me duō rén lǐ, jiù tā yí gè rén jǔ shǒu biǎo shì fǎn duì。",
+    "en": "Of so many people, he was the only one who raised his hand in objection."
+   },
+   {
+    "zh": "我今天没怎么花钱,就买了一杯咖啡。",
+    "pinyin": "Wǒ jīn tiān méi zěn me huā qián, jiù mǎi le yī bēi kā fēi。",
+    "en": "I hardly spent anything today; I just bought a coffee."
+   },
+   {
+    "zh": "家里就剩一点儿菜了,晚上得去趟超市。",
+    "pinyin": "Jiā lǐ jiù shèng yì diǎn ér cài le, wǎn shàng de qù tàng chāo shì。",
+    "en": "There's only a little food left at home; I'll go to the supermarket tonight."
+   },
+   {
+    "zh": "这件事就我们两个人知道,你千万别说出去。",
+    "pinyin": "Zhè jiàn shì jiù wǒ men liǎng gè rén zhī dào, nǐ qiān wàn bié shuō chū qù。",
+    "en": "Only we two know about this; don't tell anyone."
+   },
+   {
+    "zh": "我在这个城市没什么亲戚,就一个远房表姐。",
+    "pinyin": "Wǒ zài zhè ge chéng shì méi shén me qīn qī, jiù yí gè yuǎn fáng biǎo jiě。",
+    "en": "I have few relatives in this city, just one distant cousin."
+   },
+   {
+    "zh": "他话不多,一晚上就说了那么几句。",
+    "pinyin": "Tā huà bù duō, yī wǎn shàng jiù shuō le nà me jǐ jù。",
+    "en": "He's not talkative; he said only a few words all evening."
+   },
+   {
+    "zh": "别看人多,真正肯帮忙的就那么几个。",
+    "pinyin": "Bié kàn rén duō, zhēn zhèng kěn bāng máng de jiù nà me jǐ gè。",
+    "en": "Despite the crowd, only a few are truly willing to help."
+   },
+   {
+    "zh": "我就休息了一天,第二天又接着上班了。",
+    "pinyin": "Wǒ jiù xiū xī le yī tiān, dì èr tiān yòu jiē zhe shàng bān le。",
+    "en": "I rested just one day and went back to work the next."
+   },
+   {
+    "zh": "这么大的房子,平时就住着两位老人。",
+    "pinyin": "Zhè me dà de fáng zi, píng shí jiù zhù zhe liǎng wèi lǎo rén。",
+    "en": "In such a big house, only two elderly people usually live."
+   },
+   {
+    "zh": "这道题全班就他一个人做对了,真厉害。",
+    "pinyin": "Zhè dào tí quán bān jiù tā yí gè rén zuò duì le, zhēn lì hài。",
+    "en": "In the whole class, only he got this problem right; impressive."
+   },
+   {
+    "zh": "我就尝了一口,就知道这道菜放多了盐。",
+    "pinyin": "Wǒ jiù cháng le yī kǒu, jiù zhī dào zhè dào cài fàng duō le yán。",
+    "en": "I took just one bite and knew the dish had too much salt."
+   },
+   {
+    "zh": "那么多书,他就带走了自己最喜欢的那一本。",
+    "pinyin": "Nà me duō shū, tā jiù dài zǒu le zì jǐ zuì xǐ huān de nà yī běn。",
+    "en": "Of all those books, he took just his favorite one."
+   },
+   {
+    "zh": "我们几个人里,就他会说这门外语。",
+    "pinyin": "Wǒ men jǐ gè rén lǐ, jiù tā huì shuō zhè mén wài yǔ。",
+    "en": "Among us, he's the only one who can speak this language."
+   },
+   {
+    "zh": "这次聚会来的人不多,就来了五六个老同学。",
+    "pinyin": "Zhè cì jù huì lái de rén bù duō, jiù lái le wǔ liù gè lǎo tóng xué。",
+    "en": "Few came to this gathering, just five or six old classmates."
+   },
+   {
+    "zh": "我口袋里就剩十块钱了,得省着点花。",
+    "pinyin": "Wǒ kǒu dài lǐ jiù shèng shí kuài qián le, de shěng zhe diǎn huā。",
+    "en": "I have just ten yuan left in my pocket; I must spend it sparingly."
+   },
+   {
+    "zh": "别人都走了,就他还留在教室里看书。",
+    "pinyin": "Bié rén dōu zǒu le, jiù tā hái liú zài jiào shì lǐ kàn shū。",
+    "en": "Everyone left; only he stayed in the classroom reading."
+   },
+   {
+    "zh": "这么大的公司,负责这件事的就一个人。",
+    "pinyin": "Zhè me dà de gōng sī, fù zé zhè jiàn shì de jiù yí gè rén。",
+    "en": "In such a big company, only one person handles this matter."
+   },
+   {
+    "zh": "我不饿,就随便吃了一个面包垫垫肚子。",
+    "pinyin": "Wǒ bù è, jiù suí biàn chī le yí gè miàn bāo diàn diàn dǔ zi。",
+    "en": "I'm not hungry; I just had a piece of bread to tide me over."
+   },
+   {
+    "zh": "这些照片里,就这一张是他小时候的。",
+    "pinyin": "Zhè xiē zhào piān lǐ, jiù zhè yī zhāng shì tā xiǎo shí hòu de。",
+    "en": "Of these photos, only this one is from his childhood."
+   },
+   {
+    "zh": "忙了一整天,他就喝了几口水,连饭都没顾上吃。",
+    "pinyin": "Máng le yī zhěng tiān, tā jiù hē le jǐ kǒu shuǐ, lián fàn dōu méi gù shàng chī。",
+    "en": "Busy all day, he had only a few sips of water, no time even to eat."
+   },
+   {
+    "zh": "我们班就三个男生,其他都是女生。",
+    "pinyin": "Wǒ men bān jiù sān gè nán shēng, qí tā dōu shì nǚ shēng。",
+    "en": "Our class has only three boys; the rest are girls."
+   },
+   {
+    "zh": "这么重要的秘密,他就告诉了最信任的那个人。",
+    "pinyin": "Zhè me zhòng yào de mì mì, tā jiù gào sù le zuì xìn rèn de nà ge rén。",
+    "en": "Such an important secret, he told only the one he trusts most."
+   },
+   {
+    "zh": "我这次没买多少,就带了一小盒当地的特产。",
+    "pinyin": "Wǒ zhè cì méi mǎi duō shǎo, jiù dài le yī xiǎo hé dāng dì de tè chǎn。",
+    "en": "I didn't buy much this time, just a small box of local specialties."
+   },
+   {
+    "zh": "那么多方案里,就这一个最靠谱。",
+    "pinyin": "Nà me duō fāng àn lǐ, jiù zhè yí gè zuì kào pǔ。",
+    "en": "Of so many plans, only this one is reliable."
+   },
+   {
+    "zh": "他就说了这么一句话,却让我记了很多年。",
+    "pinyin": "Tā jiù shuō le zhè me yī jù huà, què ràng wǒ jì le hěn duō nián。",
+    "en": "He said just this one sentence, yet I remembered it for years."
+   }
+  ]
+ },
+ {
+  "id": "g169",
+  "level": 3,
+  "title": "\"先...再...\" ile sıralama",
+  "titleEn": "Sequencing with \"xian\" and \"zai\"",
+  "pattern": "先 ...，再 ...",
+  "summary": "\"先...再...\" (xiān...zài...) iki eylemin SIRASINI verir: önce ..., sonra ...: 先做作业,再看电视 = Önce ödev yap, sonra televizyon izle.",
+  "explanation": "\"先...再...\" iki (ya da daha çok) eylemin gerçekleşme SIRASINI net biçimde belirtir: önce biri, ardından öteki. 你先洗手,再吃饭 (Önce ellerini yıka, sonra ye), 我们先商量一下,再做决定 (Önce görüşelim, sonra karar verelim). \"先\" ilk eylemi, \"再\" ikinci (sonraki) eylemi işaretler. Buradaki \"再\" \"tekrar\" değil, \"ondan sonra\" anlamındadır (gelecekteki bir sonraki adım). Genellikle bir planı, adım adım bir işlemi ya da bir tavsiyeyi anlatır. \"先...然后...\" da benzer işlevdedir; \"然后\" (sonra) daha genel, \"再\" ise ilk eylemin tamamlanmasına bağlı bir sonrakiliği vurgular. Türkçedeki \"önce ..., sonra/ardından ...\" sıralamasına birebir denk gelir; işlem sırasını anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "你先把作业做完,再出去和朋友玩儿。",
+    "pinyin": "Nǐ xiān bǎ zuò yè zuò wán, zài chū qù hé péng yǒu wán ér。",
+    "en": "Finish your homework first, then go out to play with friends."
+   },
+   {
+    "zh": "我们先吃点东西垫垫肚子,再慢慢逛。",
+    "pinyin": "Wǒ men xiān chī diǎn dōng xī diàn diàn dǔ zi, zài màn màn guàng。",
+    "en": "Let's eat something to tide us over first, then stroll slowly."
+   },
+   {
+    "zh": "做这道菜,要先把油烧热,再放葱姜爆香。",
+    "pinyin": "Zuò zhè dào cài, yào xiān bǎ yóu shāo rè, zài fàng cōng jiāng bào xiāng。",
+    "en": "For this dish, heat the oil first, then add scallion and ginger."
+   },
+   {
+    "zh": "你先冷静一下,再想想到底该怎么处理。",
+    "pinyin": "Nǐ xiān lěng jìng yī xià, zài xiǎng xiǎng dào dǐ gāi zěn me chǔ lǐ。",
+    "en": "Calm down first, then think about how to handle it."
+   },
+   {
+    "zh": "咱们先把重要的事情办好,再考虑其他的。",
+    "pinyin": "Zán men xiān bǎ zhòng yào de shì qíng bàn hǎo, zài kǎo lǜ qí tā de。",
+    "en": "Let's take care of the important things first, then consider the rest."
+   },
+   {
+    "zh": "上车以后,请先刷卡,再往里面走。",
+    "pinyin": "Shàng chē yǐ hòu, qǐng xiān shuā kǎ, zài wǎng lǐ miàn zǒu。",
+    "en": "After boarding, please swipe your card first, then move inside."
+   },
+   {
+    "zh": "你先把情况了解清楚,再下结论也不迟。",
+    "pinyin": "Nǐ xiān bǎ qíng kuàng liǎo jiě qīng chǔ, zài xià jié lùn yě bù chí。",
+    "en": "Understand the situation clearly first; it's not too late to conclude then."
+   },
+   {
+    "zh": "我打算先工作几年,攒点钱,再考虑出国留学。",
+    "pinyin": "Wǒ dǎ suàn xiān gōng zuò jǐ nián, zǎn diǎn qián, zài kǎo lǜ chū guó liú xué。",
+    "en": "I plan to work a few years and save money before studying abroad."
+   },
+   {
+    "zh": "看病要先挂号,再去相应的科室排队。",
+    "pinyin": "Kàn bìng yào xiān guà hào, zài qù xiāng yìng de kē shì pái duì。",
+    "en": "To see a doctor, register first, then queue at the right department."
+   },
+   {
+    "zh": "你先把地扫干净,再拖一遍,屋子就亮堂了。",
+    "pinyin": "Nǐ xiān bǎ de sǎo gān jìng, zài tuō yī biàn, wū zi jiù liàng táng le。",
+    "en": "Sweep the floor first, then mop it, and the room will be bright."
+   },
+   {
+    "zh": "我们先把行李放到酒店,再出去找地方吃饭。",
+    "pinyin": "Wǒ men xiān bǎ xíng lǐ fàng dào jiǔ diàn, zài chū qù zhǎo dì fāng chī fàn。",
+    "en": "Let's drop the luggage at the hotel first, then find somewhere to eat."
+   },
+   {
+    "zh": "学做菜要先学会控制火候,再慢慢练习调味。",
+    "pinyin": "Xué zuò cài yào xiān xué huì kòng zhì huǒ hòu, zài màn màn liàn xí tiáo wèi。",
+    "en": "Learning to cook, master heat control first, then practice seasoning."
+   },
+   {
+    "zh": "你先把这段话读熟,再试着背下来。",
+    "pinyin": "Nǐ xiān bǎ zhè duàn huà dú shú, zài shì zhe bèi xià lái。",
+    "en": "Read this passage until fluent first, then try to memorize it."
+   },
+   {
+    "zh": "买房这么大的事,最好先跟家人商量,再做决定。",
+    "pinyin": "Mǎi fáng zhè me dà de shì, zuì hǎo xiān gēn jiā rén shāng liáng, zài zuò jué dìng。",
+    "en": "For something as big as buying a house, discuss with family before deciding."
+   },
+   {
+    "zh": "咱们先把方案定下来,再分头去准备。",
+    "pinyin": "Zán men xiān bǎ fāng àn dìng xià lái, zài fēn tóu qù zhǔn bèi。",
+    "en": "Let's finalize the plan first, then prepare separately."
+   },
+   {
+    "zh": "他习惯先把当天的事列出来,再一件件去完成。",
+    "pinyin": "Tā xí guàn xiān bǎ dàng tiān de shì liè chū lái, zài yī jiàn jiàn qù wán chéng。",
+    "en": "He likes to list the day's tasks first, then finish them one by one."
+   },
+   {
+    "zh": "你先把伤口清理干净,再贴上创可贴。",
+    "pinyin": "Nǐ xiān bǎ shāng kǒu qīng lǐ gān jìng, zài tiē shàng chuàng kě tiē。",
+    "en": "Clean the wound first, then put on a bandage."
+   },
+   {
+    "zh": "我们先在网上查查资料,再决定去哪个城市旅行。",
+    "pinyin": "Wǒ men xiān zài wǎng shàng zhā zhā zī liào, zài jué dìng qù nǎ ge chéng shì lǚ xíng。",
+    "en": "Let's look up info online first, then decide which city to visit."
+   },
+   {
+    "zh": "吃药以前,要先看清楚说明书,再按量服用。",
+    "pinyin": "Chī yào yǐ qián, yào xiān kàn qīng chǔ shuō míng shū, zài àn liàng fú yòng。",
+    "en": "Before taking medicine, read the instructions first, then take the right dose."
+   },
+   {
+    "zh": "你先把要点记下来,再慢慢展开写成一篇文章。",
+    "pinyin": "Nǐ xiān bǎ yào diǎn jì xià lái, zài màn màn zhǎn kāi xiě chéng yì piān wén zhāng。",
+    "en": "Note the key points first, then slowly expand them into an article."
+   },
+   {
+    "zh": "搬家那天,我们先搬大件家具,再收拾零碎东西。",
+    "pinyin": "Bān jiā nà tiān, wǒ men xiān bān dà jiàn jiā jù, zài shōu shí líng suì dōng xī。",
+    "en": "On moving day, we moved big furniture first, then small items."
+   },
+   {
+    "zh": "孩子睡觉前,妈妈总是先给他讲个故事,再关灯。",
+    "pinyin": "Hái zi shuì jiào qián, mā mā zǒng shì xiān gěi tā jiǎng gè gù shì, zài guān dēng。",
+    "en": "Before bed, mom always tells the child a story first, then turns off the light."
+   },
+   {
+    "zh": "面试的时候,你先做个自我介绍,再谈谈你的经历。",
+    "pinyin": "Miàn shì de shí hòu, nǐ xiān zuò gè zì wǒ jiè shào, zài tán tán nǐ de jīng lì。",
+    "en": "In the interview, introduce yourself first, then talk about your experience."
+   },
+   {
+    "zh": "我们先把预算算清楚,再决定要不要买。",
+    "pinyin": "Wǒ men xiān bǎ yù suàn suàn qīng chǔ, zài jué dìng yào bù yào mǎi。",
+    "en": "Let's work out the budget clearly first, then decide whether to buy."
+   },
+   {
+    "zh": "学游泳要先在浅水区练习,再慢慢往深处去。",
+    "pinyin": "Xué yóu yǒng yào xiān zài qiǎn shuǐ qū liàn xí, zài màn màn wǎng shēn chù qù。",
+    "en": "To learn swimming, practice in the shallow end first, then go deeper."
+   }
+  ]
  }
 ]

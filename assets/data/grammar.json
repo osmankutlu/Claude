@@ -20942,5 +20942,685 @@
     "en": "The car came so suddenly that the child was almost in danger."
    }
   ]
+ },
+ {
+  "id": "g155",
+  "level": 3,
+  "title": "\"都...了\" ile \"artık, çoktan\" (vurgulu)",
+  "titleEn": "Expressing \"already\" with \"dou\"",
+  "pattern": "都 + Zaman / Durum + 了",
+  "summary": "\"都...了\" bir eşiğin çoktan geçildiğini şaşkınlık/sitem tonuyla vurgular: 都十点了 = Saat on olmuş bile!",
+  "explanation": "\"都...了\" \"已经...了\"ya benzer ama daha DUYGUSAL, vurgulu bir \"artık, çoktan, ...bile\" anlamı taşır; çoğu zaman şaşkınlık, sabırsızlık ya da sitem tonu vardır. 都十二点了,你怎么还不睡? (Saat on iki olmuş, hâlâ neden uyumadın?), 孩子都这么大了 (Çocuk kocaman olmuş bile), 饭都凉了 (Yemek soğumuş bile). \"都\" burada \"hepsi\" değil, bir sınırın geçildiğini vurgulayan bir zarftır ve cümle \"了\" ile biter. Genelde zaman, yaş, miktar gibi bir ölçünün beklenenden ileri gittiğini belirtir. Türkçedeki \"...olmuş bile, çoktan, artık\" vurgularına denk gelir; konuşmacının bir gecikmeye ya da hızlı geçen zamana tepkisini yansıtır.",
+  "examples": [
+   {
+    "zh": "都晚上十一点了,你怎么还在看手机,快睡吧。",
+    "pinyin": "Dōu wǎn shàng shí yì diǎn le, nǐ zěn me hái zài kàn shǒu jī, kuài shuì ba。",
+    "en": "It's already eleven at night; why are you still on your phone? Go to sleep."
+   },
+   {
+    "zh": "你看,菜都凉了,他到现在还没回来。",
+    "pinyin": "Nǐ kàn, cài dōu liáng le, tā dào xiàn zài hái méi huí lái。",
+    "en": "Look, the food's gone cold, and he's still not back."
+   },
+   {
+    "zh": "孩子都上大学了,时间过得可真快啊。",
+    "pinyin": "Hái zi dōu shàng dà xué le, shí jiān guò de kě zhēn kuài a。",
+    "en": "The child's already in university; how time flies."
+   },
+   {
+    "zh": "都这个时候了,你还不着急,真拿你没办法。",
+    "pinyin": "Dōu zhè ge shí hòu le, nǐ hái bù zháo jí, zhēn ná nǐ méi bàn fǎ。",
+    "en": "It's this late and you're still not worried; I really can't with you."
+   },
+   {
+    "zh": "我们都等了一个小时了,他怎么一点消息都没有?",
+    "pinyin": "Wǒ men dōu děng le yí gè xiǎo shí le, tā zěn me yì diǎn xiāo xī dōu méi yǒu?",
+    "en": "We've waited a whole hour; why is there no word from him at all?"
+   },
+   {
+    "zh": "天都黑了,你一个人去那么远,我不放心。",
+    "pinyin": "Tiān dōu hēi le, nǐ yí gè rén qù nà me yuǎn, wǒ bù fàng xīn。",
+    "en": "It's already dark; I'm uneasy about you going so far alone."
+   },
+   {
+    "zh": "都春天了,怎么还这么冷,一点儿也不像春天。",
+    "pinyin": "Dōu chūn tiān le, zěn me hái zhè me lěng, yì diǎn ér yě bù xiàng chūn tiān。",
+    "en": "It's already spring; why is it still so cold, not like spring at all."
+   },
+   {
+    "zh": "你都答应人家了,现在反悔可不太好。",
+    "pinyin": "Nǐ dōu dā yìng rén jiā le, xiàn zài fǎn huǐ kě bù tài hǎo。",
+    "en": "You already promised them; going back on it now isn't right."
+   },
+   {
+    "zh": "我都跟你说过好几遍了,你怎么就是记不住?",
+    "pinyin": "Wǒ dōu gēn nǐ shuō guò hǎo jǐ biàn le, nǐ zěn me jiù shì jì bú zhù?",
+    "en": "I've told you several times already; how can you not remember?"
+   },
+   {
+    "zh": "都快过年了,他还在外地忙工作,没时间回家。",
+    "pinyin": "Dōu kuài guò nián le, tā hái zài wài dì máng gōng zuò, méi shí jiān huí jiā。",
+    "en": "It's almost New Year, and he's still busy working away, no time to come home."
+   },
+   {
+    "zh": "你都这么大的人了,做事怎么还这么不小心?",
+    "pinyin": "Nǐ dōu zhè me dà de rén le, zuò shì zěn me hái zhè me bù xiǎo xīn?",
+    "en": "You're a grown adult already; how are you still so careless?"
+   },
+   {
+    "zh": "都下课了,他还坐在教室里,不知道在想什么。",
+    "pinyin": "Dōu xià kè le, tā hái zuò zài jiào shì lǐ, bù zhī dào zài xiǎng shén me。",
+    "en": "Class is already over, yet he still sits in the classroom, lost in thought."
+   },
+   {
+    "zh": "水都开了,你快把火关小一点儿。",
+    "pinyin": "Shuǐ dōu kāi le, nǐ kuài bǎ huǒ guān xiǎo yì diǎn ér。",
+    "en": "The water's already boiling; turn the heat down a bit."
+   },
+   {
+    "zh": "都这么晚了,商店应该都关门了吧。",
+    "pinyin": "Dōu zhè me wǎn le, shāng diàn yīng gāi dōu guān mén le ba。",
+    "en": "It's this late already; the shops must all be closed."
+   },
+   {
+    "zh": "你看,太阳都出来了,咱们该出发了。",
+    "pinyin": "Nǐ kàn, tài yáng dōu chū lái le, zán men gāi chū fā le。",
+    "en": "Look, the sun's already up; we should set off."
+   },
+   {
+    "zh": "他都走了半天了,你现在追出去也来不及了。",
+    "pinyin": "Tā dōu zǒu le bàn tiān le, nǐ xiàn zài zhuī chū qù yě lái bù jí le。",
+    "en": "He left a long while ago; chasing after him now is too late."
+   },
+   {
+    "zh": "我都饿了半天了,饭怎么还没做好?",
+    "pinyin": "Wǒ dōu è le bàn tiān le, fàn zěn me hái méi zuò hǎo?",
+    "en": "I've been hungry for ages; why isn't the meal ready yet?"
+   },
+   {
+    "zh": "这件事都过去这么久了,你就别再放在心上了。",
+    "pinyin": "Zhè jiàn shì dōu guò qù zhè me jiǔ le, nǐ jiù bié zài fàng zài xīn shàng le。",
+    "en": "This happened so long ago; stop dwelling on it."
+   },
+   {
+    "zh": "孩子都会自己走路了,你还老是抱着他。",
+    "pinyin": "Hái zi dū huì zì jǐ zǒu lù le, nǐ hái lǎo shì bào zhe tā。",
+    "en": "The child can already walk; you still keep carrying him."
+   },
+   {
+    "zh": "都八月底了,暑假一转眼就要结束了。",
+    "pinyin": "Dōu bā yuè dǐ le, shǔ jià yī zhuǎn yǎn jiù yào jié shù le。",
+    "en": "It's already late August; summer break is about to end in a blink."
+   },
+   {
+    "zh": "你都工作五年了,也该考虑一下自己的事了。",
+    "pinyin": "Nǐ dōu gōng zuò wǔ nián le, yě gāi kǎo lǜ yī xià zì jǐ de shì le。",
+    "en": "You've worked five years already; time to think about your own life too."
+   },
+   {
+    "zh": "天都快亮了,你熬了一整夜,快去休息吧。",
+    "pinyin": "Tiān dōu kuài liàng le, nǐ áo le yī zhěng yè, kuài qù xiū xī ba。",
+    "en": "It's almost dawn; you've stayed up all night, go rest now."
+   },
+   {
+    "zh": "我都到楼下了,你还没下来,再快点儿吧。",
+    "pinyin": "Wǒ dōu dào lóu xià le, nǐ hái méi xià lái, zài kuài diǎn ér ba。",
+    "en": "I'm already downstairs and you're not down yet; hurry up."
+   },
+   {
+    "zh": "这本书你都借了一个月了,该还给图书馆了。",
+    "pinyin": "Zhè běn shū nǐ dōu jiè le yí gè yuè le, gāi huán gěi tú shū guǎn le。",
+    "en": "You've had this book borrowed for a month; time to return it."
+   },
+   {
+    "zh": "他都道歉了,你就别再生气了,原谅他吧。",
+    "pinyin": "Tā dōu dào qiàn le, nǐ jiù bié zài shēng qì le, yuán liàng tā ba。",
+    "en": "He's already apologized; stop being angry and forgive him."
+   }
+  ]
+ },
+ {
+  "id": "g156",
+  "level": 3,
+  "title": "\"从来都(是)\" ile \"her zaman, hep\"",
+  "titleEn": "Expressing \"always\" with \"conglai\"",
+  "pattern": "从来 + 都 (是) + Yüklem",
+  "summary": "\"从来都是\" geçmişten bugüne DEĞİŞMEYEN bir gerçeği/alışkanlığı vurgular: 他从来都是这么认真 = O hep böyle titizdir.",
+  "explanation": "\"从来\" çoğu zaman olumsuzlukla \"hiç(bir zaman)\" anlamı verir, ancak \"都\" ya da \"都是\" ile OLUMLU bir vurgu da kurar: geçmişten bugüne HİÇ DEĞİŞMEDEN süregelen bir durum/alışkanlık — \"her zaman, hep, baştan beri\". 他从来都是说到做到 (O her zaman sözünü tutar), 我从来都很信任你 (Sana baştan beri hep güvendim), 她做事从来都很认真 (İşini hep titizlikle yapar). \"从来\"nın kattığı \"geçmişten beri istisnasız\" vurgusu, \"都/总是\" ile pekişir. Olumsuz biçimi (从来不/从来没) ayrı bir konudur; bu kalıp özellikle OLUMLU, değişmez bir gerçeği över ya da vurgular. Türkçedeki \"her zaman, hep, öteden beri, baştan beri\" karşılıklarına denk gelir.",
+  "examples": [
+   {
+    "zh": "他做事从来都很认真,交给他的任务从没出过差错。",
+    "pinyin": "Tā zuò shì cóng lái dōu hěn rèn zhēn, jiāo gěi tā de rèn wù cóng méi chū guò chā cuò。",
+    "en": "He always works meticulously; tasks given to him have never gone wrong."
+   },
+   {
+    "zh": "妈妈从来都是把最好的留给我们,自己却舍不得用。",
+    "pinyin": "Mā mā cóng lái dōu shì bǎ zuì hǎo de liú gěi wǒ men, zì jǐ què shě bù de yòng。",
+    "en": "Mom always saves the best for us and won't use it herself."
+   },
+   {
+    "zh": "在我心里,你从来都是那个最值得信任的人。",
+    "pinyin": "Zài wǒ xīn lǐ, nǐ cóng lái dōu shì nà ge zuì zhí de xìn rèn de rén。",
+    "en": "In my heart, you've always been the most trustworthy person."
+   },
+   {
+    "zh": "他这个人从来都是说一不二,答应的事一定办到。",
+    "pinyin": "Tā zhè ge rén cóng lái dōu shì shuō yī bù èr, dā yìng de shì yí dìng bàn dào。",
+    "en": "He's always a man of his word; whatever he promises, he does."
+   },
+   {
+    "zh": "这家老店的味道从来都没变过,几十年如一日。",
+    "pinyin": "Zhè jiā lǎo diàn de wèi dào cóng lái dōu méi biàn guò, jǐ shí nián rú yí rì。",
+    "en": "This old shop's flavor has never changed in decades."
+   },
+   {
+    "zh": "她对待每一位客人从来都是笑脸相迎,热情周到。",
+    "pinyin": "Tā duì dài měi yī wèi kè rén cóng lái dōu shì xiào liǎn xiāng yíng, rè qíng zhōu dào。",
+    "en": "She always greets every guest with a smile, warm and attentive."
+   },
+   {
+    "zh": "爷爷从来都是天不亮就起床,几十年从没睡过懒觉。",
+    "pinyin": "Yé yé cóng lái dōu shì tiān bù liàng jiù qǐ chuáng, jǐ shí nián cóng méi shuì guò lǎn jiào。",
+    "en": "Grandpa always rises before dawn, never sleeping in for decades."
+   },
+   {
+    "zh": "在困难面前,他从来都是第一个站出来的人。",
+    "pinyin": "Zài kùn nán miàn qián, tā cóng lái dōu shì dì yí gè zhàn chū lái de rén。",
+    "en": "In the face of difficulty, he's always the first to step up."
+   },
+   {
+    "zh": "我们家从来都是有话直说,从不藏着掖着。",
+    "pinyin": "Wǒ men jiā cóng lái dōu shì yǒu huà zhí shuō, cóng bù cáng zhe yē zhe。",
+    "en": "In our family we've always spoken frankly, never hiding things."
+   },
+   {
+    "zh": "他从来都对朋友很讲义气,谁有事都愿意帮一把。",
+    "pinyin": "Tā cóng lái dōu duì péng yǒu hěn jiǎng yì qì, shuí yǒu shì dōu yuàn yì bāng yī bǎ。",
+    "en": "He's always loyal to friends, willing to help anyone in need."
+   },
+   {
+    "zh": "这位老师从来都是耐心地对待每一个学生。",
+    "pinyin": "Zhè wèi lǎo shī cóng lái dōu shì nài xīn de duì dài měi yí gè xué shēng。",
+    "en": "This teacher has always treated every student with patience."
+   },
+   {
+    "zh": "她从来都把家里收拾得干干净净,一尘不染。",
+    "pinyin": "Tā cóng lái dōu bǎ jiā lǐ shōu shí de gān gān jìng jìng, yī chén bù rǎn。",
+    "en": "She always keeps the home spotlessly clean."
+   },
+   {
+    "zh": "面对表扬,他从来都很谦虚,说这是大家的功劳。",
+    "pinyin": "Miàn duì biǎo yáng, tā cóng lái dōu hěn qiān xū, shuō zhè shì dà jiā de gōng láo。",
+    "en": "At praise, he's always modest, saying it's everyone's credit."
+   },
+   {
+    "zh": "这些年他从来都没有忘记过帮助过自己的人。",
+    "pinyin": "Zhè xiē nián tā cóng lái dōu méi yǒu wàng jì guò bāng zhù guò zì jǐ de rén。",
+    "en": "All these years he's never forgotten those who helped him."
+   },
+   {
+    "zh": "我对你的心意从来都没变过,以后也不会变。",
+    "pinyin": "Wǒ duì nǐ de xīn yì cóng lái dōu méi biàn guò, yǐ hòu yě bú huì biàn。",
+    "en": "My feelings for you have never changed, and never will."
+   },
+   {
+    "zh": "他花钱从来都很有分寸,不该花的一分也不花。",
+    "pinyin": "Tā huā qián cóng lái dōu hěn yǒu fēn cùn, bù gāi huā de yī fēn yě bù huā。",
+    "en": "He's always measured with money, not spending a cent unnecessarily."
+   },
+   {
+    "zh": "奶奶做的饭从来都那么香,是我最想念的味道。",
+    "pinyin": "Nǎi nǎi zuò de fàn cóng lái dōu nà me xiāng, shì wǒ zuì xiǎng niàn de wèi dào。",
+    "en": "Grandma's cooking is always so fragrant; it's the taste I miss most."
+   },
+   {
+    "zh": "这个团队从来都是团结一心,再难的任务也不怕。",
+    "pinyin": "Zhè ge tuán duì cóng lái dōu shì tuán jié yī xīn, zài nán de rèn wù yě bù pà。",
+    "en": "This team has always been united; no task is too hard."
+   },
+   {
+    "zh": "他对工作从来都一丝不苟,难怪领导那么信任他。",
+    "pinyin": "Tā duì gōng zuò cóng lái dōu yī sī bù gǒu, nán guài lǐng dǎo nà me xìn rèn tā。",
+    "en": "He's always meticulous at work; no wonder the boss trusts him."
+   },
+   {
+    "zh": "不管遇到什么事,她从来都是那么镇定、从容。",
+    "pinyin": "Bù guǎn yù dào shén me shì, tā cóng lái dōu shì nà me zhèn dìng、 cóng róng。",
+    "en": "No matter what happens, she's always calm and composed."
+   },
+   {
+    "zh": "我们之间从来都是坦诚相待,没有一句假话。",
+    "pinyin": "Wǒ men zhī jiān cóng lái dōu shì tǎn chéng xiāng dài, méi yǒu yī jù jiǎ huà。",
+    "en": "Between us it's always been honesty, not a single lie."
+   },
+   {
+    "zh": "这条河从来都是这个村子最重要的水源。",
+    "pinyin": "Zhè tiáo hé cóng lái dōu shì zhè ge cūn zi zuì zhòng yào de shuǐ yuán。",
+    "en": "This river has always been the village's most important water source."
+   },
+   {
+    "zh": "他从来都很守时,约好的时间从不让人等。",
+    "pinyin": "Tā cóng lái dōu hěn shǒu shí, yuē hǎo de shí jiān cóng bù ràng rén děng。",
+    "en": "He's always punctual, never keeping anyone waiting."
+   },
+   {
+    "zh": "父母从来都支持我的每一个决定,给了我很大的勇气。",
+    "pinyin": "Fù mǔ cóng lái dōu zhī chí wǒ de měi yí gè jué dìng, gěi le wǒ hěn dà de yǒng qì。",
+    "en": "My parents have always supported my every decision, giving me great courage."
+   },
+   {
+    "zh": "这么多年,他对读书的热情从来都没有减退过。",
+    "pinyin": "Zhè me duō nián, tā duì dú shū de rè qíng cóng lái dōu méi yǒu jiǎn tuì guò。",
+    "en": "All these years, his passion for reading has never waned."
+   }
+  ]
+ },
+ {
+  "id": "g157",
+  "level": 3,
+  "title": "\"结果\" ile \"sonuçta, neticede\"",
+  "titleEn": "Expressing \"as a result\" with \"jieguo\"",
+  "pattern": "Sebep / Koşul，结果 + Sonuç",
+  "summary": "\"结果\" (jiéguǒ) bir gelişmenin (çoğu zaman beklenmedik) SONUCUNU bağlar: 我等了很久,结果他没来 = Çok bekledim, sonuçta gelmedi.",
+  "explanation": "\"结果\" bir olaydan sonra ortaya çıkan SONUCU tanıtır — çoğu zaman beklenenin tersi ya da sürpriz bir sonuç: \"sonuçta, neticede, sonunda, meğer\". 我准备了半天,结果会议取消了 (Uzun uzun hazırlandım, sonuçta toplantı iptal oldu), 他本来想省钱,结果花得更多了 (Para biriktirecekti, neticede daha çok harcadı). Cümlenin ikinci bölümünün başında, çoğu zaman virgülden sonra gelir ve önceki durumla bağlantılı bir SONUÇ/gelişme bildirir. Sık sık beklentinin boşa çıktığını vurgular. \"结果\" ayrıca isim olarak \"sonuç, netice\" anlamına da gelir (考试结果 = sınav sonucu). Türkçedeki \"sonuçta, neticede, sonunda, bir de baktım ki\" ifadelerine denk gelir; bir olayın nasıl bittiğini anlatmada çok kullanılır.",
+  "examples": [
+   {
+    "zh": "我在门口等了他一个多小时,结果他早就走了。",
+    "pinyin": "Wǒ zài mén kǒu děng le tā yí gè duō xiǎo shí, jié guǒ tā zǎo jiù zǒu le。",
+    "en": "I waited over an hour at the door; turns out he'd already left."
+   },
+   {
+    "zh": "本来打算周末去爬山,结果下起了大雨,只好在家待着。",
+    "pinyin": "Běn lái dǎ suàn zhōu mò qù pá shān, jié guǒ xià qǐ le dà yǔ, zhǐ hǎo zài jiā dài zhe。",
+    "en": "We planned to hike on the weekend, but it rained hard, so we stayed home."
+   },
+   {
+    "zh": "他为了省钱自己修车,结果越修越坏,花了更多钱。",
+    "pinyin": "Tā wèi le shěng qián zì jǐ xiū chē, jié guǒ yuè xiū yuè huài, huā le gèng duō qián。",
+    "en": "He fixed the car himself to save money, but made it worse and spent more."
+   },
+   {
+    "zh": "我以为这道题很简单,结果想了半天也没做出来。",
+    "pinyin": "Wǒ yǐ wéi zhè dào tí hěn jiǎn dān, jié guǒ xiǎng le bàn tiān yě méi zuò chū lái。",
+    "en": "I thought this problem was easy, but I pondered for ages and couldn't solve it."
+   },
+   {
+    "zh": "大家都劝他别去,结果他还是坚持去了。",
+    "pinyin": "Dà jiā dōu quàn tā bié qù, jié guǒ tā hái shì jiān chí qù le。",
+    "en": "Everyone advised him not to go, but in the end he insisted on going."
+   },
+   {
+    "zh": "他熬夜复习了一整晚,结果考试还是没通过。",
+    "pinyin": "Tā áo yè fù xí le yī zhěng wǎn, jié guǒ kǎo shì hái shì méi tōng guò。",
+    "en": "He stayed up all night reviewing, but still failed the exam."
+   },
+   {
+    "zh": "我特意早出门,结果路上堵车,还是迟到了。",
+    "pinyin": "Wǒ tè yì zǎo chū mén, jié guǒ lù shàng dǔ chē, hái shì chí dào le。",
+    "en": "I left early on purpose, but traffic jammed and I was still late."
+   },
+   {
+    "zh": "本以为这次能中奖,结果一个号码都没对上。",
+    "pinyin": "Běn yǐ wéi zhè cì néng zhòng jiǎng, jié guǒ yí gè hào mǎ dōu méi duì shàng。",
+    "en": "I thought I'd win this time, but not a single number matched."
+   },
+   {
+    "zh": "他们吵了一架,结果谁也不肯先低头,冷战了好几天。",
+    "pinyin": "Tā men chǎo le yī jià, jié guǒ shuí yě bù kěn xiān dī tóu, lěng zhàn le hǎo jǐ tiān。",
+    "en": "They had a fight; neither would yield first, so they sulked for days."
+   },
+   {
+    "zh": "我劝他慢点开车,结果他不听,差点出了事故。",
+    "pinyin": "Wǒ quàn tā màn diǎn kāi chē, jié guǒ tā bù tīng, chà diǎn chū liǎo shì gù。",
+    "en": "I told him to drive slower; he didn't listen and nearly had an accident."
+   },
+   {
+    "zh": "原本说好一起去的,结果最后只有我一个人到了。",
+    "pinyin": "Yuán běn shuō hǎo yì qǐ qù de, jié guǒ zuì hòu zhǐ yǒu wǒ yí gè rén dào le。",
+    "en": "We agreed to go together, but in the end only I showed up."
+   },
+   {
+    "zh": "他想给大家一个惊喜,结果反而把大家吓了一跳。",
+    "pinyin": "Tā xiǎng gěi dà jiā yí gè jīng xǐ, jié guǒ fǎn ér bǎ dà jiā xià le yī tiào。",
+    "en": "He wanted to surprise everyone but ended up giving them a fright."
+   },
+   {
+    "zh": "我把闹钟定得很早,结果一觉睡到了大中午。",
+    "pinyin": "Wǒ bǎ nào zhōng dìng de hěn zǎo, jié guǒ yī jiào shuì dào le dà zhōng wǔ。",
+    "en": "I set the alarm early, but ended up sleeping until midday."
+   },
+   {
+    "zh": "这道菜我照着菜谱做,结果味道还是差了很多。",
+    "pinyin": "Zhè dào cài wǒ zhào zhe cài pǔ zuò, jié guǒ wèi dào hái shì chà le hěn duō。",
+    "en": "I followed the recipe for this dish, but it still turned out far off."
+   },
+   {
+    "zh": "他到处打听那本书,结果在自己家里找到了。",
+    "pinyin": "Tā dào chù dǎ tīng nà běn shū, jié guǒ zài zì jǐ jiā lǐ zhǎo dào le。",
+    "en": "He asked around everywhere for the book, only to find it at home."
+   },
+   {
+    "zh": "我们满怀希望地去了,结果那家店已经关门了。",
+    "pinyin": "Wǒ men mǎn huái xī wàng de qù le, jié guǒ nà jiā diàn yǐ jīng guān mén le。",
+    "en": "We went full of hope, only to find the shop already closed."
+   },
+   {
+    "zh": "他答应帮我搬家,结果那天临时有事没来。",
+    "pinyin": "Tā dā yìng bāng wǒ bān jiā, jié guǒ nà tiān lín shí yǒu shì méi lái。",
+    "en": "He promised to help me move, but had something come up and didn't show."
+   },
+   {
+    "zh": "本来只想买一件衣服,结果一口气买了三件。",
+    "pinyin": "Běn lái zhǐ xiǎng mǎi yī jiàn yī fú, jié guǒ yì kǒu qì mǎi le sān jiàn。",
+    "en": "I meant to buy just one outfit, but ended up buying three."
+   },
+   {
+    "zh": "我以为他会生气,结果他不但没生气,还笑了。",
+    "pinyin": "Wǒ yǐ wéi tā huì shēng qì, jié guǒ tā bù dàn méi shēng qì, hái xiào le。",
+    "en": "I thought he'd be angry, but he not only wasn't, he laughed."
+   },
+   {
+    "zh": "孩子偷偷把花瓶藏起来,结果第二天就被发现了。",
+    "pinyin": "Hái zi tōu tōu bǎ huā píng cáng qǐ lái, jié guǒ dì èr tiān jiù bèi fā xiàn le。",
+    "en": "The child secretly hid the vase, only to be found out the next day."
+   },
+   {
+    "zh": "我们绕了一大圈想走近路,结果反而更远了。",
+    "pinyin": "Wǒ men rào le yī dà quān xiǎng zǒu jìn lù, jié guǒ fǎn ér gèng yuǎn le。",
+    "en": "We took a big detour thinking it was a shortcut, but it was farther."
+   },
+   {
+    "zh": "他信心满满地去面试,结果紧张得说不出话来。",
+    "pinyin": "Tā xìn xīn mǎn mǎn de qù miàn shì, jié guǒ jǐn zhāng de shuō bù chū huà lái。",
+    "en": "He went to the interview full of confidence, but was too nervous to speak."
+   },
+   {
+    "zh": "大家你一言我一语地讨论了半天,结果还是没个定论。",
+    "pinyin": "Dà jiā nǐ yī yán wǒ yī yǔ de tǎo lùn le bàn tiān, jié guǒ hái shì méi gè dìng lùn。",
+    "en": "Everyone discussed back and forth, but still reached no conclusion."
+   },
+   {
+    "zh": "我提前订好了餐厅,结果那天他们临时休息。",
+    "pinyin": "Wǒ tí qián dìng hǎo le cān tīng, jié guǒ nà tiān tā men lín shí xiū xī。",
+    "en": "I booked the restaurant in advance, but they happened to be closed that day."
+   },
+   {
+    "zh": "他本想低调处理这件事,结果反而闹得人尽皆知。",
+    "pinyin": "Tā běn xiǎng dī diào chǔ lǐ zhè jiàn shì, jié guǒ fǎn ér nào de rén jǐn jiē zhī。",
+    "en": "He wanted to handle it quietly, but it ended up known to all."
+   }
+  ]
+ },
+ {
+  "id": "g158",
+  "level": 3,
+  "title": "Bir şeyin ne kadardır YAPILMADIĞI",
+  "titleEn": "Expressing duration of inaction",
+  "pattern": "Süre + 没 + Fiil + 了",
+  "summary": "Bir eylemin ne kadar zamandır YAPILMADIĞINI anlatmak için süre \"没\"ten önce gelir: 我三天没睡好觉了 = Üç gündür iyi uyuyamıyorum.",
+  "explanation": "Bir eylemin belli bir SÜREDİR yapılmadığını/gerçekleşmediğini anlatmak için, süre ifadesi \"没\"ten ÖNCE gelir: Süre + 没 + fiil (+ 了). 我三天没吃饭了 (Üç gündür (doğru dürüst) yemek yemedim), 他一个星期没来上课了 (Bir haftadır derse gelmiyor), 我们好久没见了 (Uzun zamandır görüşmedik). Bu, olumlu \"süre\" yapısının (Fiil + 了 + süre, bkz. ayrı konu) OLUMSUZ karşılığıdır — olumluda süre fiilden SONRA, olumsuzda \"没\"ten ÖNCE gelir. Cümle sonundaki \"了\" durumun HÂLÂ sürdüğünü (hâlâ yapılmıyor) belirtir. Türkçedeki \"...-dır ...-madı / ...-alı ... oldu\" yapısına denk gelir; bir aksamayı, özlemi ya da alışkanlığın kesilmesini anlatmada çok kullanılır.",
+  "examples": [
+   {
+    "zh": "我们好久没见了,你最近过得怎么样?",
+    "pinyin": "Wǒ men hǎo jiǔ méi jiàn le, nǐ zuì jìn guò de zěn me yàng?",
+    "en": "We haven't seen each other in a long time; how have you been?"
+   },
+   {
+    "zh": "他病了,已经三天没来上班了,大家都很担心。",
+    "pinyin": "Tā bìng le, yǐ jīng sān tiān méi lái shàng bān le, dà jiā dōu hěn dān xīn。",
+    "en": "He's ill and hasn't come to work for three days; everyone's worried."
+   },
+   {
+    "zh": "我都一个星期没好好睡觉了,累得眼睛都睁不开。",
+    "pinyin": "Wǒ dōu yí gè xīng qī méi hǎo hǎo shuì jiào le, lèi de yǎn jīng dōu zhēng bù kāi。",
+    "en": "I haven't slept well in a week; I'm so tired I can barely keep my eyes open."
+   },
+   {
+    "zh": "这么多年没回老家了,不知道那里变成什么样了。",
+    "pinyin": "Zhè me duō nián méi huí lǎo jiā le, bù zhī dào nà lǐ biàn chéng shén me yàng le。",
+    "en": "I haven't been home in so many years; I wonder how it's changed."
+   },
+   {
+    "zh": "他俩闹别扭,已经好几天没说话了。",
+    "pinyin": "Tā liǎ nào biè niǔ, yǐ jīng hǎo jǐ tiān méi shuō huà le。",
+    "en": "The two of them fell out and haven't spoken for several days."
+   },
+   {
+    "zh": "我好久没运动了,今天爬两层楼就累得直喘气。",
+    "pinyin": "Wǒ hǎo jiǔ méi yùn dòng le, jīn tiān pá liǎng céng lóu jiù lèi de zhí chuǎn qì。",
+    "en": "I haven't exercised in ages; two flights of stairs left me panting today."
+   },
+   {
+    "zh": "这台旧钢琴很久没弹了,琴键上落了一层灰。",
+    "pinyin": "Zhè tái jiù gāng qín hěn jiǔ méi dàn le, qín jiàn shàng là le yī céng huī。",
+    "en": "This old piano hasn't been played in ages; dust has settled on the keys."
+   },
+   {
+    "zh": "孩子出国以后,我们已经半年没见到他了。",
+    "pinyin": "Hái zi chū guó yǐ hòu, wǒ men yǐ jīng bàn nián méi jiàn dào tā le。",
+    "en": "Since the child went abroad, we haven't seen him for half a year."
+   },
+   {
+    "zh": "我好几个月没读书了,一拿起书就觉得亲切。",
+    "pinyin": "Wǒ hǎo jǐ gè yuè méi dú shū le, yī ná qǐ shū jiù jué de qīn qiè。",
+    "en": "I hadn't read a book in months; picking one up feels dear."
+   },
+   {
+    "zh": "这条路好久没修了,坑坑洼洼的,很不好走。",
+    "pinyin": "Zhè tiáo lù hǎo jiǔ méi xiū le, kēng kēng wā wā de, hěn bù hǎo zǒu。",
+    "en": "This road hasn't been repaired in a long time; it's full of potholes."
+   },
+   {
+    "zh": "他戒烟以后,已经两年没碰过一根烟了。",
+    "pinyin": "Tā jiè yān yǐ hòu, yǐ jīng liǎng nián méi pèng guò yī gēn yān le。",
+    "en": "Since quitting, he hasn't touched a single cigarette in two years."
+   },
+   {
+    "zh": "我们家的那只猫,两天没吃东西了,是不是病了?",
+    "pinyin": "Wǒ men jiā de nà zhǐ māo, liǎng tiān méi chī dōng xī le, shì bú shì bìng le?",
+    "en": "Our cat hasn't eaten in two days; could it be sick?"
+   },
+   {
+    "zh": "我都一个多月没给爸妈打电话了,真是太不应该了。",
+    "pinyin": "Wǒ dōu yí gè duō yuè méi gěi bà mā dǎ diàn huà le, zhēn shì tài bù yīng gāi le。",
+    "en": "I haven't called my parents in over a month; that's really wrong of me."
+   },
+   {
+    "zh": "这么久没联系,他一定以为我把他忘了。",
+    "pinyin": "Zhè me jiǔ méi lián xì, tā yí dìng yǐ wéi wǒ bǎ tā wàng le。",
+    "en": "After being out of touch so long, he must think I forgot him."
+   },
+   {
+    "zh": "我好长时间没吃到家乡菜了,做梦都想。",
+    "pinyin": "Wǒ hǎo zhǎng shí jiān méi chī dào jiā xiāng cài le, zuò mèng dōu xiǎng。",
+    "en": "I haven't had hometown food in a long time; I dream about it."
+   },
+   {
+    "zh": "下了这么多天雨,我们都好几天没出门了。",
+    "pinyin": "Xià le zhè me duō tiān yǔ, wǒ men dōu hǎo jǐ tiān méi chū mén le。",
+    "en": "After so many days of rain, we haven't been out in days."
+   },
+   {
+    "zh": "这本书买回来半年了,我一直没时间看。",
+    "pinyin": "Zhè běn shū mǎi huí lái bàn nián le, wǒ yì zhí méi shí jiān kàn。",
+    "en": "I bought this book half a year ago and never had time to read it."
+   },
+   {
+    "zh": "他们分开以后,再也没见过面,一晃十年了。",
+    "pinyin": "Tā men fēn kāi yǐ hòu, zài yě méi jiàn guò miàn, yī huǎng shí nián le。",
+    "en": "After they parted, they never met again; ten years have slipped by."
+   },
+   {
+    "zh": "我好久没这么开心地大笑了,今天真是太痛快了。",
+    "pinyin": "Wǒ hǎo jiǔ méi zhè me kāi xīn de dà xiào le, jīn tiān zhēn shì tài tòng kuài le。",
+    "en": "I haven't laughed so heartily in ages; today was truly delightful."
+   },
+   {
+    "zh": "这台机器很久没用了,得先检查一下能不能开机。",
+    "pinyin": "Zhè tái jī qì hěn jiǔ méi yòng le, de xiān jiǎn chá yī xià néng bù néng kāi jī。",
+    "en": "This machine hasn't been used in a while; check if it still starts."
+   },
+   {
+    "zh": "我们全家已经好几年没一起旅行了,今年一定要去。",
+    "pinyin": "Wǒ men quán jiā yǐ jīng hǎo jǐ nián méi yì qǐ lǚ xíng le, jīn nián yí dìng yào qù。",
+    "en": "Our family hasn't traveled together in years; this year we must go."
+   },
+   {
+    "zh": "他忙得连着一个月没休息了,身体快撑不住了。",
+    "pinyin": "Tā máng de lián zhe yí gè yuè méi xiū xī le, shēn tǐ kuài chēng bú zhù le。",
+    "en": "He's been busy without a break for a month; his body can barely take it."
+   },
+   {
+    "zh": "这片田地荒了好几年没种了,长满了野草。",
+    "pinyin": "Zhè piàn tián dì huāng le hǎo jǐ nián méi zhǒng le, zhǎng mǎn le yě cǎo。",
+    "en": "This field has lain fallow for years, overgrown with weeds."
+   },
+   {
+    "zh": "自从搬了家,我们就再也没吃过那家的面条了。",
+    "pinyin": "Zì cóng bān le jiā, wǒ men jiù zài yě méi chī guò nà jiā de miàn tiáo le。",
+    "en": "Since we moved, we haven't eaten that shop's noodles again."
+   },
+   {
+    "zh": "好几天没下雨了,地里的庄稼都快旱死了。",
+    "pinyin": "Hǎo jǐ tiān méi xià yǔ le, de lǐ de zhuāng jià dōu kuài hàn sǐ le。",
+    "en": "It hasn't rained in days; the crops in the field are nearly parched."
+   }
+  ]
+ },
+ {
+  "id": "g159",
+  "level": 3,
+  "title": "\"互相\" ile \"karşılıklı, birbirine\"",
+  "titleEn": "Expressing \"each other\" with \"huxiang\"",
+  "pattern": "互相 + Fiil Öbeği",
+  "summary": "\"互相\" (hùxiāng) bir eylemin KARŞILIKLI yapıldığını gösterir: 互相帮助 = birbirine yardım etmek.",
+  "explanation": "\"互相\" bir eylemin iki (ya da daha çok) taraf arasında KARŞILIKLI, iki yönlü yapıldığını bildirir: \"birbirine, karşılıklı, birbirini\". 我们应该互相帮助 (Birbirimize yardım etmeliyiz), 他们互相尊重 (Birbirlerine saygı duyuyorlar), 邻居之间要互相照顾 (Komşular birbirini kollamalı). Bir zarf olarak fiilin önünde durur ve genelde iki heceli fiillerle kullanılır (互相理解, 互相支持, 互相学习). Öznenin çoğul/iki taraflı olmasını gerektirir. Türkçedeki \"birbirine, karşılıklı olarak, karşılıklı\" ifadelerine denk gelir. \"彼此\" (bǐcǐ = birbiri) ile anlamca yakındır; \"互相\" eylemin karşılıklılığını, \"彼此\" ise tarafları vurgular. Dostluk, yardımlaşma ve ilişkileri anlatmada çok kullanılır.",
+  "examples": [
+   {
+    "zh": "同学之间应该互相帮助,一起进步。",
+    "pinyin": "Tóng xué zhī jiān yīng gāi hù xiāng bāng zhù, yì qǐ jìn bù。",
+    "en": "Classmates should help each other and progress together."
+   },
+   {
+    "zh": "他们俩性格很不一样,却能互相理解、互相包容。",
+    "pinyin": "Tā men liǎ xìng gé hěn bù yí yàng, què néng hù xiāng lǐ jiě、 hù xiāng bāo róng。",
+    "en": "The two have very different personalities, yet understand and tolerate each other."
+   },
+   {
+    "zh": "邻里之间互相照应,遇到困难也不觉得孤单。",
+    "pinyin": "Lín lǐ zhī jiān hù xiāng zhào yìng, yù dào kùn nán yě bù jué de gū dān。",
+    "en": "Neighbors look out for one another, so hardships feel less lonely."
+   },
+   {
+    "zh": "夫妻俩这么多年,一直是互相扶持走过来的。",
+    "pinyin": "Fū qī liǎ zhè me duō nián, yì zhí shì hù xiāng fú chí zǒu guò lái de。",
+    "en": "The couple has supported each other through all these years."
+   },
+   {
+    "zh": "我们虽然是竞争对手,但也常常互相学习。",
+    "pinyin": "Wǒ men suī rán shì jìng zhēng duì shǒu, dàn yě cháng cháng hù xiāng xué xí。",
+    "en": "Though we're competitors, we often learn from each other."
+   },
+   {
+    "zh": "一个好的团队,成员之间要互相信任、互相配合。",
+    "pinyin": "Yí gè hǎo de tuán duì, chéng yuán zhī jiān yào hù xiāng xìn rèn、 hù xiāng pèi hé。",
+    "en": "In a good team, members must trust and cooperate with one another."
+   },
+   {
+    "zh": "他们从小一起长大,互相了解得不能再了解了。",
+    "pinyin": "Tā men cóng xiǎo yì qǐ zhǎng dà, hù xiāng liǎo jiě de bù néng zài liǎo jiě le。",
+    "en": "They grew up together and couldn't understand each other more."
+   },
+   {
+    "zh": "遇到分歧的时候,双方要互相体谅,别急着争输赢。",
+    "pinyin": "Yù dào fēn qí de shí hòu, shuāng fāng yào hù xiāng tǐ liàng, bié jí zhe zhēng shū yíng。",
+    "en": "When disagreements arise, both sides should be considerate, not rush to win."
+   },
+   {
+    "zh": "这两个国家的人民一直互相往来,关系很密切。",
+    "pinyin": "Zhè liǎng gè guó jiā de rén mín yì zhí hù xiāng wǎng lái, guān xì hěn mì qiè。",
+    "en": "The peoples of these two countries have long interacted closely."
+   },
+   {
+    "zh": "我们约好了以后要经常互相联系,别断了消息。",
+    "pinyin": "Wǒ men yuē hǎo le yǐ hòu yào jīng cháng hù xiāng lián xì, bié duàn le xiāo xī。",
+    "en": "We agreed to keep in touch often and not lose contact."
+   },
+   {
+    "zh": "兄弟姐妹之间就该互相谦让,不能太计较。",
+    "pinyin": "Xiōng dì jiě mèi zhī jiān jiù gāi hù xiāng qiān ràng, bù néng tài jì jiào。",
+    "en": "Siblings should yield to one another and not be too calculating."
+   },
+   {
+    "zh": "他们在工作中互相帮助,渐渐成了很好的朋友。",
+    "pinyin": "Tā men zài gōng zuò zhōng hù xiāng bāng zhù, jiàn jiàn chéng le hěn hǎo de péng yǒu。",
+    "en": "They helped each other at work and gradually became good friends."
+   },
+   {
+    "zh": "两个班的同学互相交流学习经验,收获都很大。",
+    "pinyin": "Liǎng gè bān de tóng xué hù xiāng jiāo liú xué xí jīng yàn, shōu huò dōu hěn dà。",
+    "en": "Students from both classes exchanged study experiences and gained a lot."
+   },
+   {
+    "zh": "生活中难免有摩擦,重要的是能互相原谅。",
+    "pinyin": "Shēng huó zhōng nán miǎn yǒu mó cā, zhòng yào de shì néng hù xiāng yuán liàng。",
+    "en": "Friction in life is inevitable; what matters is forgiving each other."
+   },
+   {
+    "zh": "他们虽然分隔两地,却一直互相牵挂着对方。",
+    "pinyin": "Tā men suī rán fēn gé liǎng de, què yì zhí hù xiāng qiān guà zhe duì fāng。",
+    "en": "Though far apart, they've always cared for one another."
+   },
+   {
+    "zh": "好朋友之间不需要客气,可以互相开开玩笑。",
+    "pinyin": "Hǎo péng yǒu zhī jiān bù xū yào kè qì, kě yǐ hù xiāng kāi kāi wán xiào。",
+    "en": "Good friends need no formality and can joke with each other."
+   },
+   {
+    "zh": "这次活动让新老员工有机会互相认识、互相熟悉。",
+    "pinyin": "Zhè cì huó dòng ràng xīn lǎo yuán gōng yǒu jī huì hù xiāng rèn shí、 hù xiāng shú xī。",
+    "en": "This event let new and old staff get to know one another."
+   },
+   {
+    "zh": "面对灾难,人们互相鼓励、互相支持,共渡难关。",
+    "pinyin": "Miàn duì zāi nàn, rén men hù xiāng gǔ lì、 hù xiāng zhī chí, gòng dù nán guān。",
+    "en": "Facing disaster, people encourage and support each other through hardship."
+   },
+   {
+    "zh": "我们应该互相尊重彼此的想法,而不是强求一致。",
+    "pinyin": "Wǒ men yīng gāi hù xiāng zūn zhòng bǐ cǐ de xiǎng fǎ, ér bú shì qiǎng qiú yí zhì。",
+    "en": "We should respect each other's ideas rather than force agreement."
+   },
+   {
+    "zh": "两支球队赛后互相握手,展现了良好的风度。",
+    "pinyin": "Liǎng zhī qiú duì sài hòu hù xiāng wò shǒu, zhǎn xiàn le liáng hǎo de fēng dù。",
+    "en": "The two teams shook hands after the match, showing good sportsmanship."
+   },
+   {
+    "zh": "多年的老同事,大家早已习惯了互相照顾。",
+    "pinyin": "Duō nián de lǎo tóng shì, dà jiā zǎo yǐ xí guàn le hù xiāng zhào gù。",
+    "en": "Longtime colleagues have long been used to caring for each other."
+   },
+   {
+    "zh": "恋人之间除了相爱,更要学会互相包容。",
+    "pinyin": "Liàn rén zhī jiān chú le xiāng ài, gèng yào xué huì hù xiāng bāo róng。",
+    "en": "Beyond love, couples must learn to tolerate each other."
+   },
+   {
+    "zh": "这几个小国经常互相合作,共同发展经济。",
+    "pinyin": "Zhè jǐ gè xiǎo guó jīng cháng hù xiāng hé zuò, gòng tóng fā zhǎn jīng jì。",
+    "en": "These small countries often cooperate to develop their economies."
+   },
+   {
+    "zh": "我们一家人有事就商量,从来都是互相支持。",
+    "pinyin": "Wǒ men yī jiā rén yǒu shì jiù shāng liáng, cóng lái dōu shì hù xiāng zhī chí。",
+    "en": "Our family discusses everything and has always supported one another."
+   },
+   {
+    "zh": "在困难时期,正是大家的互相帮助让人倍感温暖。",
+    "pinyin": "Zài kùn nán shí qī, zhèng shì dà jiā de hù xiāng bāng zhù ràng rén bèi gǎn wēn nuǎn。",
+    "en": "In hard times, it's mutual help that makes people feel warmth."
+   }
+  ]
  }
 ]

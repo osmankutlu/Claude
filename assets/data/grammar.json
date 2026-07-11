@@ -1,1 +1,818 @@
-[]
+[
+ {
+  "id": "g001",
+  "level": 1,
+  "title": "\"有\" fiilinin \"没\" ile olumsuzu",
+  "titleEn": "Negation of \"you\" with \"mei\"",
+  "pattern": "没 + 有 + Nesne",
+  "summary": "\"有\" (yǒu, sahip olmak/var olmak) fiili asla \"不\" ile değil, her zaman \"没\" ile olumsuzlanır: 没有 = yok / sahip değil.",
+  "explanation": "Çince'de neredeyse tüm fiiller \"不\" ile olumsuzlanır, ama \"有\" bunun tek büyük istisnasıdır ve her zaman \"没\" alır. \"没有\" hem \"sahip değilim\" (mülkiyet) hem \"yok\" (varlık) hem de \"-medi\" (geçmiş eylem) anlamlarında kullanılır. Konuşma dilinde \"有\" düşüp sadece \"没\" da kalabilir. \"不有\" demek dilbilgisi hatasıdır.",
+  "examples": [
+   {
+    "zh": "我没有钱。",
+    "pinyin": "Wǒ méiyǒu qián.",
+    "en": "I don't have money."
+   },
+   {
+    "zh": "他没有时间陪家人。",
+    "pinyin": "Tā méiyǒu shíjiān péi jiārén.",
+    "en": "He doesn't have time to spend with his family."
+   },
+   {
+    "zh": "对不起，我今天没有空。",
+    "pinyin": "Duìbuqǐ, wǒ jīntiān méiyǒu kòng.",
+    "en": "Sorry, I don't have time today."
+   },
+   {
+    "zh": "这个小城市没有机场。",
+    "pinyin": "Zhège xiǎo chéngshì méiyǒu jīchǎng.",
+    "en": "This small city doesn't have an airport."
+   },
+   {
+    "zh": "她没有兄弟姐妹。",
+    "pinyin": "Tā méiyǒu xiōngdì jiěmèi.",
+    "en": "She doesn't have any siblings."
+   },
+   {
+    "zh": "我的手机里没有他的号码。",
+    "pinyin": "Wǒ de shǒujī lǐ méiyǒu tā de hàomǎ.",
+    "en": "I don't have his number in my phone."
+   },
+   {
+    "zh": "冰箱里没有牛奶了。",
+    "pinyin": "Bīngxiāng lǐ méiyǒu niúnǎi le.",
+    "en": "There's no more milk in the fridge."
+   },
+   {
+    "zh": "他家没有汽车，所以他每天坐地铁。",
+    "pinyin": "Tā jiā méiyǒu qìchē, suǒyǐ tā měitiān zuò dìtiě.",
+    "en": "His family doesn't have a car, so he takes the subway every day."
+   },
+   {
+    "zh": "我没有你那么高。",
+    "pinyin": "Wǒ méiyǒu nǐ nàme gāo.",
+    "en": "I'm not as tall as you."
+   },
+   {
+    "zh": "这个问题没有正确的答案。",
+    "pinyin": "Zhège wèntí méiyǒu zhèngquè de dá'àn.",
+    "en": "This question has no correct answer."
+   },
+   {
+    "zh": "教室里现在没有人。",
+    "pinyin": "Jiàoshì lǐ xiànzài méiyǒu rén.",
+    "en": "There is nobody in the classroom right now."
+   },
+   {
+    "zh": "我没有见过这么美的地方。",
+    "pinyin": "Wǒ méiyǒu jiànguò zhème měi de dìfang.",
+    "en": "I've never seen such a beautiful place."
+   },
+   {
+    "zh": "他工作很努力，可是还是没有钱买房子。",
+    "pinyin": "Tā gōngzuò hěn nǔlì, kěshì háishì méiyǒu qián mǎi fángzi.",
+    "en": "He works hard, but still doesn't have money to buy a house."
+   },
+   {
+    "zh": "我们班没有学生迟到。",
+    "pinyin": "Wǒmen bān méiyǒu xuésheng chídào.",
+    "en": "No student in our class was late."
+   },
+   {
+    "zh": "她没有告诉我她要走。",
+    "pinyin": "Tā méiyǒu gàosù wǒ tā yào zǒu.",
+    "en": "She didn't tell me she was leaving."
+   },
+   {
+    "zh": "这家餐厅没有我喜欢吃的菜。",
+    "pinyin": "Zhè jiā cāntīng méiyǒu wǒ xǐhuan chī de cài.",
+    "en": "This restaurant doesn't have the dishes I like to eat."
+   },
+   {
+    "zh": "我没有办法帮你解决这个问题。",
+    "pinyin": "Wǒ méiyǒu bànfǎ bāng nǐ jiějué zhège wèntí.",
+    "en": "I have no way to help you solve this problem."
+   },
+   {
+    "zh": "外面下雨了，可是我没有带伞。",
+    "pinyin": "Wàimiàn xiàyǔ le, kěshì wǒ méiyǒu dài sǎn.",
+    "en": "It's raining outside, but I didn't bring an umbrella."
+   },
+   {
+    "zh": "他说他没有喝酒，但是我不相信。",
+    "pinyin": "Tā shuō tā méiyǒu hējiǔ, dànshì wǒ bù xiāngxìn.",
+    "en": "He said he didn't drink, but I don't believe it."
+   },
+   {
+    "zh": "这么多年了，她一点儿也没有变。",
+    "pinyin": "Zhème duō nián le, tā yìdiǎnr yě méiyǒu biàn.",
+    "en": "After so many years, she hasn't changed a bit."
+   },
+   {
+    "zh": "我昨天太累了，没有做作业。",
+    "pinyin": "Wǒ zuótiān tài lèi le, méiyǒu zuò zuòyè.",
+    "en": "I was too tired yesterday, so I didn't do my homework."
+   },
+   {
+    "zh": "公司没有给我们发工资。",
+    "pinyin": "Gōngsī méiyǒu gěi wǒmen fā gōngzī.",
+    "en": "The company didn't pay us our wages."
+   },
+   {
+    "zh": "他从来没有对我说过谎。",
+    "pinyin": "Tā cónglái méiyǒu duì wǒ shuōguò huǎng.",
+    "en": "He has never lied to me."
+   },
+   {
+    "zh": "我等了一个小时，可是他没有来。",
+    "pinyin": "Wǒ děng le yí ge xiǎoshí, kěshì tā méiyǒu lái.",
+    "en": "I waited an hour, but he didn't come."
+   },
+   {
+    "zh": "没有钱不等于没有幸福。",
+    "pinyin": "Méiyǒu qián bù děngyú méiyǒu xìngfú.",
+    "en": "Having no money doesn't mean having no happiness."
+   }
+  ]
+ },
+ {
+  "id": "g002",
+  "level": 1,
+  "title": "\"不\" ile standart olumsuzlama",
+  "titleEn": "Standard negation with \"bu\"",
+  "pattern": "不 + Fiil / Sıfat",
+  "summary": "\"不\" (bù) fiilin veya sıfatın önüne gelerek onu olumsuzlar; şimdiki, gelecek ve genel/alışkanlık durumları için kullanılır (geçmiş için \"没\" kullanılır).",
+  "explanation": "\"不\", Çince'nin en temel olumsuzluk kelimesidir ve \"有\" dışındaki fiilleri, ayrıca sıfatları olumsuzlar. Ton kuralı önemlidir: \"不\" normalde 4. tondadır (bù), ama ardından başka bir 4. ton gelirse 2. tona döner (bú). Gerçekleşmemiş/geçmiş eylemleri anlatmak için \"不\" değil \"没\" kullanılır: \"不去\" = gitmiyorum/gitmeyeceğim, \"没去\" = gitmedim.",
+  "examples": [
+   {
+    "zh": "他们不是坏孩子。",
+    "pinyin": "Tāmen bú shì huài háizi.",
+    "en": "They are not bad kids."
+   },
+   {
+    "zh": "我不喜欢喝咖啡，我喜欢喝茶。",
+    "pinyin": "Wǒ bù xǐhuan hē kāfēi, wǒ xǐhuan hē chá.",
+    "en": "I don't like coffee, I like tea."
+   },
+   {
+    "zh": "这件衣服不贵，你可以买。",
+    "pinyin": "Zhè jiàn yīfu bú guì, nǐ kěyǐ mǎi.",
+    "en": "This piece of clothing isn't expensive, you can buy it."
+   },
+   {
+    "zh": "今天不冷，你不用穿大衣。",
+    "pinyin": "Jīntiān bù lěng, nǐ búyòng chuān dàyī.",
+    "en": "It's not cold today, you don't need to wear a coat."
+   },
+   {
+    "zh": "我明天不去上班。",
+    "pinyin": "Wǒ míngtiān bú qù shàngbān.",
+    "en": "I'm not going to work tomorrow."
+   },
+   {
+    "zh": "他不会说英文，只会说中文。",
+    "pinyin": "Tā bú huì shuō Yīngwén, zhǐ huì shuō Zhōngwén.",
+    "en": "He can't speak English, only Chinese."
+   },
+   {
+    "zh": "对不起，我不知道这件事。",
+    "pinyin": "Duìbuqǐ, wǒ bù zhīdào zhè jiàn shì.",
+    "en": "Sorry, I don't know about this matter."
+   },
+   {
+    "zh": "她身体不舒服，今天不来了。",
+    "pinyin": "Tā shēntǐ bù shūfu, jīntiān bù lái le.",
+    "en": "She's not feeling well, so she's not coming today."
+   },
+   {
+    "zh": "这个电影不好看，我们看别的吧。",
+    "pinyin": "Zhège diànyǐng bù hǎokàn, wǒmen kàn biéde ba.",
+    "en": "This movie isn't good, let's watch something else."
+   },
+   {
+    "zh": "我不想现在做决定。",
+    "pinyin": "Wǒ bù xiǎng xiànzài zuò juédìng.",
+    "en": "I don't want to make a decision right now."
+   },
+   {
+    "zh": "他不常运动，所以身体不太好。",
+    "pinyin": "Tā bù cháng yùndòng, suǒyǐ shēntǐ bú tài hǎo.",
+    "en": "He doesn't exercise often, so his health isn't great."
+   },
+   {
+    "zh": "这条路不好走，我们换一条吧。",
+    "pinyin": "Zhè tiáo lù bù hǎo zǒu, wǒmen huàn yì tiáo ba.",
+    "en": "This road is hard to walk, let's take another one."
+   },
+   {
+    "zh": "我不认识那个站在门口的人。",
+    "pinyin": "Wǒ bú rènshi nàge zhàn zài ménkǒu de rén.",
+    "en": "I don't know that person standing at the door."
+   },
+   {
+    "zh": "他说话不清楚，我听不懂。",
+    "pinyin": "Tā shuōhuà bù qīngchu, wǒ tīng bu dǒng.",
+    "en": "He doesn't speak clearly, I can't understand him."
+   },
+   {
+    "zh": "钱不重要，健康才重要。",
+    "pinyin": "Qián bú zhòngyào, jiànkāng cái zhòngyào.",
+    "en": "Money isn't important; health is what matters."
+   },
+   {
+    "zh": "我不饿，你先吃吧。",
+    "pinyin": "Wǒ bú è, nǐ xiān chī ba.",
+    "en": "I'm not hungry, you eat first."
+   },
+   {
+    "zh": "这个孩子很聪明，可是不努力。",
+    "pinyin": "Zhège háizi hěn cōngming, kěshì bù nǔlì.",
+    "en": "This child is smart but doesn't work hard."
+   },
+   {
+    "zh": "如果你不同意，我们可以再商量。",
+    "pinyin": "Rúguǒ nǐ bù tóngyì, wǒmen kěyǐ zài shāngliang.",
+    "en": "If you don't agree, we can discuss it again."
+   },
+   {
+    "zh": "他不但不感谢我，反而还生气了。",
+    "pinyin": "Tā búdàn bù gǎnxiè wǒ, fǎn'ér hái shēngqì le.",
+    "en": "He not only didn't thank me, but even got angry."
+   },
+   {
+    "zh": "我不太清楚他为什么不来。",
+    "pinyin": "Wǒ bú tài qīngchu tā wèishénme bù lái.",
+    "en": "I'm not too sure why he isn't coming."
+   },
+   {
+    "zh": "这个字我不会写。",
+    "pinyin": "Zhège zì wǒ bú huì xiě.",
+    "en": "I don't know how to write this character."
+   },
+   {
+    "zh": "她不愿意跟我们一起去。",
+    "pinyin": "Tā bú yuànyì gēn wǒmen yìqǐ qù.",
+    "en": "She's not willing to go with us."
+   },
+   {
+    "zh": "你不说，别人怎么知道你的想法？",
+    "pinyin": "Nǐ bù shuō, biérén zěnme zhīdào nǐ de xiǎngfǎ?",
+    "en": "If you don't speak, how will others know what you think?"
+   },
+   {
+    "zh": "这里的天气不冷也不热，很舒服。",
+    "pinyin": "Zhèlǐ de tiānqì bù lěng yě bú rè, hěn shūfu.",
+    "en": "The weather here is neither cold nor hot, very comfortable."
+   },
+   {
+    "zh": "我们不应该浪费时间。",
+    "pinyin": "Wǒmen bù yīnggāi làngfèi shíjiān.",
+    "en": "We shouldn't waste time."
+   }
+  ]
+ },
+ {
+  "id": "g003",
+  "level": 1,
+  "title": "\"都\" ile \"hepsi/tümü\" belirteci",
+  "titleEn": "The \"all\" adverb \"dou\"",
+  "pattern": "Özne + 都 + Fiil / Sıfat",
+  "summary": "\"都\" (dōu, hepsi/hep) çoğul özneden sonra, fiilden önce gelir ve \"hepsi, tümü\" anlamı katar.",
+  "explanation": "\"都\", kastettiği ismin ARDINDAN, fiil veya sıfattan ÖNCE gelir — Türkçe'deki gibi öznenin başına değil. Yani \"Hepimiz gidiyoruz\" = 我们都去 (biz + hepsi + git). Olumsuzlukla birlikte konum anlamı değiştirir: \"都不\" = hiçbiri/hepsi değil, \"不都\" = hepsi değil (bazıları). \"每\" (her) ile birlikte neredeyse her zaman \"都\" kullanılır.",
+  "examples": [
+   {
+    "zh": "我们都住在上海。",
+    "pinyin": "Wǒmen dōu zhù zài Shànghǎi.",
+    "en": "We all live in Shanghai."
+   },
+   {
+    "zh": "他们都是我的好朋友。",
+    "pinyin": "Tāmen dōu shì wǒ de hǎo péngyou.",
+    "en": "They are all my good friends."
+   },
+   {
+    "zh": "这些菜我都很喜欢吃。",
+    "pinyin": "Zhèxiē cài wǒ dōu hěn xǐhuan chī.",
+    "en": "I like eating all of these dishes."
+   },
+   {
+    "zh": "我们班的学生都会说一点儿英文。",
+    "pinyin": "Wǒmen bān de xuésheng dōu huì shuō yìdiǎnr Yīngwén.",
+    "en": "All the students in our class can speak a little English."
+   },
+   {
+    "zh": "每天早上他都去公园跑步。",
+    "pinyin": "Měitiān zǎoshang tā dōu qù gōngyuán pǎobù.",
+    "en": "Every morning he goes to the park to run."
+   },
+   {
+    "zh": "这里的东西都不便宜。",
+    "pinyin": "Zhèlǐ de dōngxi dōu bù piányi.",
+    "en": "None of the things here are cheap."
+   },
+   {
+    "zh": "大家都同意了这个计划。",
+    "pinyin": "Dàjiā dōu tóngyì le zhège jìhuà.",
+    "en": "Everyone agreed to this plan."
+   },
+   {
+    "zh": "我的两个孩子都在上大学。",
+    "pinyin": "Wǒ de liǎng ge háizi dōu zài shàng dàxué.",
+    "en": "Both of my children are in university."
+   },
+   {
+    "zh": "他每次考试都是第一名。",
+    "pinyin": "Tā měi cì kǎoshì dōu shì dì yī míng.",
+    "en": "He comes first in every exam."
+   },
+   {
+    "zh": "这些问题我都回答不了。",
+    "pinyin": "Zhèxiē wèntí wǒ dōu huídá bu liǎo.",
+    "en": "I can't answer any of these questions."
+   },
+   {
+    "zh": "无论我说什么，他都不听。",
+    "pinyin": "Wúlùn wǒ shuō shénme, tā dōu bù tīng.",
+    "en": "No matter what I say, he doesn't listen."
+   },
+   {
+    "zh": "我们全家人周末都在家休息。",
+    "pinyin": "Wǒmen quánjiā rén zhōumò dōu zài jiā xiūxi.",
+    "en": "Our whole family rests at home on weekends."
+   },
+   {
+    "zh": "这条街上的商店晚上都关门。",
+    "pinyin": "Zhè tiáo jiē shàng de shāngdiàn wǎnshang dōu guānmén.",
+    "en": "The shops on this street all close at night."
+   },
+   {
+    "zh": "他连一句话都不想跟我说。",
+    "pinyin": "Tā lián yí jù huà dōu bù xiǎng gēn wǒ shuō.",
+    "en": "He doesn't even want to say a single word to me."
+   },
+   {
+    "zh": "我们都很想念以前的老师。",
+    "pinyin": "Wǒmen dōu hěn xiǎngniàn yǐqián de lǎoshī.",
+    "en": "We all miss our former teacher a lot."
+   },
+   {
+    "zh": "这些照片每一张都有故事。",
+    "pinyin": "Zhèxiē zhàopiàn měi yì zhāng dōu yǒu gùshi.",
+    "en": "Each of these photos has a story."
+   },
+   {
+    "zh": "他把所有的钱都花在了旅行上。",
+    "pinyin": "Tā bǎ suǒyǒu de qián dōu huā zài le lǚxíng shàng.",
+    "en": "He spent all his money on traveling."
+   },
+   {
+    "zh": "孩子们听到这个消息都很开心。",
+    "pinyin": "Háizimen tīngdào zhège xiāoxi dōu hěn kāixīn.",
+    "en": "The children were all happy to hear this news."
+   },
+   {
+    "zh": "我们俩都不会做饭。",
+    "pinyin": "Wǒmen liǎ dōu bú huì zuòfàn.",
+    "en": "Neither of us can cook."
+   },
+   {
+    "zh": "这个城市一年四季都很暖和。",
+    "pinyin": "Zhège chéngshì yì nián sìjì dōu hěn nuǎnhuo.",
+    "en": "This city is warm all year round."
+   },
+   {
+    "zh": "她说的每一个字我都记得很清楚。",
+    "pinyin": "Tā shuō de měi yí ge zì wǒ dōu jìde hěn qīngchu.",
+    "en": "I remember every word she said very clearly."
+   },
+   {
+    "zh": "不是所有人都喜欢这种音乐。",
+    "pinyin": "Bú shì suǒyǒu rén dōu xǐhuan zhè zhǒng yīnyuè.",
+    "en": "Not everyone likes this kind of music."
+   },
+   {
+    "zh": "考试以后,大家都松了一口气。",
+    "pinyin": "Kǎoshì yǐhòu, dàjiā dōu sōng le yì kǒu qì.",
+    "en": "After the exam, everyone breathed a sigh of relief."
+   },
+   {
+    "zh": "这几天我每天都很忙。",
+    "pinyin": "Zhè jǐ tiān wǒ měitiān dōu hěn máng.",
+    "en": "These days I'm busy every single day."
+   },
+   {
+    "zh": "他们兄弟俩长得都很像爸爸。",
+    "pinyin": "Tāmen xiōngdì liǎ zhǎng de dōu hěn xiàng bàba.",
+    "en": "The two brothers both look a lot like their father."
+   }
+  ]
+ },
+ {
+  "id": "g004",
+  "level": 1,
+  "title": "\"也\" ile \"de/da\" belirteci",
+  "titleEn": "The \"also\" adverb \"ye\"",
+  "pattern": "Özne + 也 + Fiil / Sıfat",
+  "summary": "\"也\" (yě, de/da) özneden sonra, fiil veya sıfattan önce gelerek \"o da, aynı şekilde\" anlamı verir.",
+  "explanation": "\"也\" her zaman fiilin/sıfatın hemen önünde durur ve cümlenin başına ya da sonuna konamaz — Türkçe'deki \"da/de\"nin aksine konumu sabittir. Başka belirteçlerle birlikte kullanılırken genellikle en başta gelir: \"也都\" (o da hepsi), \"也不\" (o da değil). \"Ben de öyle\" gibi kısa onaylar için \"我也是\" kalıbı kullanılır.",
+  "examples": [
+   {
+    "zh": "昨天很冷,今天也很冷。",
+    "pinyin": "Zuótiān hěn lěng, jīntiān yě hěn lěng.",
+    "en": "It was cold yesterday, and it's cold today too."
+   },
+   {
+    "zh": "他是老师,他太太也是老师。",
+    "pinyin": "Tā shì lǎoshī, tā tàitai yě shì lǎoshī.",
+    "en": "He is a teacher, and his wife is a teacher too."
+   },
+   {
+    "zh": "我喜欢这首歌,你也喜欢吗？",
+    "pinyin": "Wǒ xǐhuan zhè shǒu gē, nǐ yě xǐhuan ma?",
+    "en": "I like this song, do you like it too?"
+   },
+   {
+    "zh": "我去过北京,也去过上海。",
+    "pinyin": "Wǒ qùguò Běijīng, yě qùguò Shànghǎi.",
+    "en": "I've been to Beijing, and also to Shanghai."
+   },
+   {
+    "zh": "他不会游泳,我也不会。",
+    "pinyin": "Tā bú huì yóuyǒng, wǒ yě bú huì.",
+    "en": "He can't swim, and neither can I."
+   },
+   {
+    "zh": "这个道理其实我也不太懂。",
+    "pinyin": "Zhège dàolǐ qíshí wǒ yě bú tài dǒng.",
+    "en": "Honestly, I don't quite understand this principle either."
+   },
+   {
+    "zh": "你累了,我也累了,我们休息一下吧。",
+    "pinyin": "Nǐ lèi le, wǒ yě lèi le, wǒmen xiūxi yíxià ba.",
+    "en": "You're tired, I'm tired too, let's take a rest."
+   },
+   {
+    "zh": "她会弹钢琴,也会拉小提琴。",
+    "pinyin": "Tā huì tán gāngqín, yě huì lā xiǎotíqín.",
+    "en": "She can play the piano, and also the violin."
+   },
+   {
+    "zh": "就算你不告诉我,我也会知道。",
+    "pinyin": "Jiùsuàn nǐ bú gàosù wǒ, wǒ yě huì zhīdào.",
+    "en": "Even if you don't tell me, I'll find out anyway."
+   },
+   {
+    "zh": "这件事他知道,别人也都知道。",
+    "pinyin": "Zhè jiàn shì tā zhīdào, biérén yě dōu zhīdào.",
+    "en": "He knows about this, and everyone else knows too."
+   },
+   {
+    "zh": "我妹妹也想跟我们一起去看电影。",
+    "pinyin": "Wǒ mèimei yě xiǎng gēn wǒmen yìqǐ qù kàn diànyǐng.",
+    "en": "My younger sister also wants to go to the movies with us."
+   },
+   {
+    "zh": "钱重要,可是时间也很重要。",
+    "pinyin": "Qián zhòngyào, kěshì shíjiān yě hěn zhòngyào.",
+    "en": "Money matters, but time matters too."
+   },
+   {
+    "zh": "他一句话也没说就走了。",
+    "pinyin": "Tā yí jù huà yě méi shuō jiù zǒu le.",
+    "en": "He left without saying a single word."
+   },
+   {
+    "zh": "你放心,再难的问题我们也能解决。",
+    "pinyin": "Nǐ fàngxīn, zài nán de wèntí wǒmen yě néng jiějué.",
+    "en": "Don't worry, no matter how hard the problem, we can solve it."
+   },
+   {
+    "zh": "我以前也是这样想的。",
+    "pinyin": "Wǒ yǐqián yě shì zhèyàng xiǎng de.",
+    "en": "I used to think this way too."
+   },
+   {
+    "zh": "下雨的时候,这条河也会变得很危险。",
+    "pinyin": "Xiàyǔ de shíhou, zhè tiáo hé yě huì biàn de hěn wēixiǎn.",
+    "en": "When it rains, this river also becomes very dangerous."
+   },
+   {
+    "zh": "他不喜欢运动,也不喜欢看书。",
+    "pinyin": "Tā bù xǐhuan yùndòng, yě bù xǐhuan kànshū.",
+    "en": "He doesn't like sports, nor does he like reading."
+   },
+   {
+    "zh": "我们试了很多次,可是一次也没成功。",
+    "pinyin": "Wǒmen shì le hěn duō cì, kěshì yí cì yě méi chénggōng.",
+    "en": "We tried many times, but didn't succeed even once."
+   },
+   {
+    "zh": "孩子长大了,父母也慢慢变老了。",
+    "pinyin": "Háizi zhǎngdà le, fùmǔ yě mànman biàn lǎo le.",
+    "en": "As the children grow up, the parents slowly grow old too."
+   },
+   {
+    "zh": "这个方法也许也可以试一试。",
+    "pinyin": "Zhège fāngfǎ yěxǔ yě kěyǐ shì yi shì.",
+    "en": "Maybe this method is also worth a try."
+   },
+   {
+    "zh": "你不用担心,即使失败了也没关系。",
+    "pinyin": "Nǐ búyòng dānxīn, jíshǐ shībài le yě méi guānxi.",
+    "en": "Don't worry, even if you fail it doesn't matter."
+   },
+   {
+    "zh": "我今天心情不好,什么也不想做。",
+    "pinyin": "Wǒ jīntiān xīnqíng bù hǎo, shénme yě bù xiǎng zuò.",
+    "en": "I'm in a bad mood today, I don't want to do anything."
+   },
+   {
+    "zh": "他不仅聪明,人也很好。",
+    "pinyin": "Tā bùjǐn cōngming, rén yě hěn hǎo.",
+    "en": "He's not only smart, but also a good person."
+   },
+   {
+    "zh": "就是走一天,我也要走到那座山上。",
+    "pinyin": "Jiùshì zǒu yì tiān, wǒ yě yào zǒudào nà zuò shān shàng.",
+    "en": "Even if it takes a whole day of walking, I want to reach that mountain."
+   },
+   {
+    "zh": "你去哪儿我也去哪儿。",
+    "pinyin": "Nǐ qù nǎr wǒ yě qù nǎr.",
+    "en": "Wherever you go, I'll go too."
+   }
+  ]
+ },
+ {
+  "id": "g005",
+  "level": 1,
+  "title": "\"和\" ile \"ve\" bağlacı",
+  "titleEn": "Expressing \"and\" with \"he\"",
+  "pattern": "İsim 1 + 和 + İsim 2",
+  "summary": "\"和\" (hé, ve) iki ismi (veya isim öbeğini) birbirine bağlar. Yalnızca isimler için kullanılır — cümleleri bağlamak için kullanılmaz.",
+  "explanation": "\"和\" Türkçe'deki \"ve\" gibi görünse de önemli bir fark vardır: yalnızca isimleri/isim öbeklerini bağlar, İngilizce'deki gibi iki tam cümleyi veya fiili bağlamaz. \"Ben yemek yerim VE film izlerim\" derken \"和\" kullanılmaz; onun yerine cümleler yan yana dizilir veya başka bağlaçlar kullanılır. İkiden fazla ismi listelerken \"和\" genellikle sadece son iki öge arasına konur.",
+  "examples": [
+   {
+    "zh": "我和他都不去。",
+    "pinyin": "Wǒ hé tā dōu bú qù.",
+    "en": "Neither he nor I are going."
+   },
+   {
+    "zh": "桌子上有一本书和一支笔。",
+    "pinyin": "Zhuōzi shàng yǒu yì běn shū hé yì zhī bǐ.",
+    "en": "There's a book and a pen on the table."
+   },
+   {
+    "zh": "我喜欢中国菜和日本菜。",
+    "pinyin": "Wǒ xǐhuan Zhōngguó cài hé Rìběn cài.",
+    "en": "I like Chinese food and Japanese food."
+   },
+   {
+    "zh": "爸爸和妈妈都在厨房里忙。",
+    "pinyin": "Bàba hé māma dōu zài chúfáng lǐ máng.",
+    "en": "Both dad and mom are busy in the kitchen."
+   },
+   {
+    "zh": "这个周末我和朋友们要去爬山。",
+    "pinyin": "Zhège zhōumò wǒ hé péngyoumen yào qù páshān.",
+    "en": "This weekend my friends and I are going hiking."
+   },
+   {
+    "zh": "老师和学生们一起打扫了教室。",
+    "pinyin": "Lǎoshī hé xuéshengmen yìqǐ dǎsǎo le jiàoshì.",
+    "en": "The teacher and the students cleaned the classroom together."
+   },
+   {
+    "zh": "我的哥哥和姐姐都已经结婚了。",
+    "pinyin": "Wǒ de gēge hé jiějie dōu yǐjīng jiéhūn le.",
+    "en": "My older brother and older sister are both married."
+   },
+   {
+    "zh": "健康和快乐比钱更重要。",
+    "pinyin": "Jiànkāng hé kuàilè bǐ qián gèng zhòngyào.",
+    "en": "Health and happiness are more important than money."
+   },
+   {
+    "zh": "请把你的名字和电话号码写在这里。",
+    "pinyin": "Qǐng bǎ nǐ de míngzi hé diànhuà hàomǎ xiě zài zhèlǐ.",
+    "en": "Please write your name and phone number here."
+   },
+   {
+    "zh": "这本书讲的是历史和文化。",
+    "pinyin": "Zhè běn shū jiǎng de shì lìshǐ hé wénhuà.",
+    "en": "This book is about history and culture."
+   },
+   {
+    "zh": "我和我的同事关系很好。",
+    "pinyin": "Wǒ hé wǒ de tóngshì guānxi hěn hǎo.",
+    "en": "I have a good relationship with my colleagues."
+   },
+   {
+    "zh": "她买了苹果、香蕉和橘子。",
+    "pinyin": "Tā mǎi le píngguǒ, xiāngjiāo hé júzi.",
+    "en": "She bought apples, bananas, and oranges."
+   },
+   {
+    "zh": "春天和秋天是这里最美的季节。",
+    "pinyin": "Chūntiān hé qiūtiān shì zhèlǐ zuì měi de jìjié.",
+    "en": "Spring and autumn are the most beautiful seasons here."
+   },
+   {
+    "zh": "这件事和我一点儿关系也没有。",
+    "pinyin": "Zhè jiàn shì hé wǒ yìdiǎnr guānxi yě méiyǒu.",
+    "en": "This matter has nothing to do with me at all."
+   },
+   {
+    "zh": "你和他的想法完全不一样。",
+    "pinyin": "Nǐ hé tā de xiǎngfǎ wánquán bù yíyàng.",
+    "en": "Your idea and his are completely different."
+   },
+   {
+    "zh": "我需要一些时间和空间好好想一想。",
+    "pinyin": "Wǒ xūyào yìxiē shíjiān hé kōngjiān hǎohǎo xiǎng yi xiǎng.",
+    "en": "I need some time and space to think it over."
+   },
+   {
+    "zh": "老人和孩子在公园里晒太阳。",
+    "pinyin": "Lǎorén hé háizi zài gōngyuán lǐ shài tàiyáng.",
+    "en": "The elderly and children are sunbathing in the park."
+   },
+   {
+    "zh": "这次旅行让我认识了很多新朋友和新地方。",
+    "pinyin": "Zhè cì lǚxíng ràng wǒ rènshi le hěn duō xīn péngyou hé xīn dìfang.",
+    "en": "This trip introduced me to many new friends and new places."
+   },
+   {
+    "zh": "成功需要努力和一点点运气。",
+    "pinyin": "Chénggōng xūyào nǔlì hé yìdiǎndiǎn yùnqì.",
+    "en": "Success needs hard work and a little bit of luck."
+   },
+   {
+    "zh": "他和我是从小一起长大的。",
+    "pinyin": "Tā hé wǒ shì cóngxiǎo yìqǐ zhǎngdà de.",
+    "en": "He and I grew up together from childhood."
+   },
+   {
+    "zh": "我把水果和蔬菜放进了冰箱。",
+    "pinyin": "Wǒ bǎ shuǐguǒ hé shūcài fàng jìn le bīngxiāng.",
+    "en": "I put the fruits and vegetables into the fridge."
+   },
+   {
+    "zh": "这个城市的白天和晚上完全是两个样子。",
+    "pinyin": "Zhège chéngshì de báitiān hé wǎnshang wánquán shì liǎng ge yàngzi.",
+    "en": "This city looks completely different during the day and at night."
+   },
+   {
+    "zh": "我和她聊了很久关于未来的事。",
+    "pinyin": "Wǒ hé tā liáo le hěn jiǔ guānyú wèilái de shì.",
+    "en": "She and I talked for a long time about the future."
+   },
+   {
+    "zh": "父母的爱和支持给了我很大的力量。",
+    "pinyin": "Fùmǔ de ài hé zhīchí gěi le wǒ hěn dà de lìliàng.",
+    "en": "My parents' love and support gave me great strength."
+   },
+   {
+    "zh": "茶和咖啡,你更喜欢哪一个？",
+    "pinyin": "Chá hé kāfēi, nǐ gèng xǐhuan nǎ yí ge?",
+    "en": "Tea and coffee, which one do you prefer?"
+   }
+  ]
+ },
+ {
+  "id": "g006",
+  "level": 1,
+  "title": "\"还是\" ile seçenek sunma",
+  "titleEn": "Offering choices with \"haishi\"",
+  "pattern": "A + 还是 + B ?",
+  "summary": "\"还是\" (háishì), bir soruda iki seçenek sunmak için A ile B'nin arasına konur: \"A mı yoksa B mi?\"",
+  "explanation": "\"还是\", cevabı iki (veya daha fazla) belirli seçenek arasından isteyen seçmeli sorularda kullanılır. Bu tür sorularda cümlenin sonuna \"吗\" EKLENMEZ, çünkü \"还是\" zaten soruyu oluşturur. Dikkat: \"或者\" (huòzhě) da \"veya\" demektir ama o soru DEĞİL düz cümlelerde kullanılır. Yani soru sorarken \"还是\", cevap/ifade verirken \"或者\".",
+  "examples": [
+   {
+    "zh": "你要喝茶还是咖啡？",
+    "pinyin": "Nǐ yào hē chá háishì kāfēi?",
+    "en": "Do you want tea or coffee?"
+   },
+   {
+    "zh": "我们今天去还是明天去？",
+    "pinyin": "Wǒmen jīntiān qù háishì míngtiān qù?",
+    "en": "Are we going today or tomorrow?"
+   },
+   {
+    "zh": "这个是你的还是他的？",
+    "pinyin": "Zhège shì nǐ de háishì tā de?",
+    "en": "Is this yours or his?"
+   },
+   {
+    "zh": "你想吃米饭还是面条？",
+    "pinyin": "Nǐ xiǎng chī mǐfàn háishì miàntiáo?",
+    "en": "Do you want to eat rice or noodles?"
+   },
+   {
+    "zh": "我们坐地铁还是坐出租车比较快？",
+    "pinyin": "Wǒmen zuò dìtiě háishì zuò chūzūchē bǐjiào kuài?",
+    "en": "Is it faster to take the subway or a taxi?"
+   },
+   {
+    "zh": "你是学生还是老师？",
+    "pinyin": "Nǐ shì xuésheng háishì lǎoshī?",
+    "en": "Are you a student or a teacher?"
+   },
+   {
+    "zh": "这件事我应该告诉他还是不告诉他？",
+    "pinyin": "Zhè jiàn shì wǒ yīnggāi gàosù tā háishì bú gàosù tā?",
+    "en": "Should I tell him about this or not?"
+   },
+   {
+    "zh": "你喜欢住在城市还是住在乡下？",
+    "pinyin": "Nǐ xǐhuan zhù zài chéngshì háishì zhù zài xiāngxià?",
+    "en": "Do you prefer living in the city or the countryside?"
+   },
+   {
+    "zh": "你想现在走还是等雨停了再走？",
+    "pinyin": "Nǐ xiǎng xiànzài zǒu háishì děng yǔ tíng le zài zǒu?",
+    "en": "Do you want to leave now or wait until the rain stops?"
+   },
+   {
+    "zh": "你觉得红色的好看还是蓝色的好看？",
+    "pinyin": "Nǐ juéde hóngsè de hǎokàn háishì lánsè de hǎokàn?",
+    "en": "Do you think the red one looks better or the blue one?"
+   },
+   {
+    "zh": "这次的问题是他的错还是你的错？",
+    "pinyin": "Zhè cì de wèntí shì tā de cuò háishì nǐ de cuò?",
+    "en": "Is this time's problem his fault or yours?"
+   },
+   {
+    "zh": "你打算坐飞机还是坐火车去？",
+    "pinyin": "Nǐ dǎsuàn zuò fēijī háishì zuò huǒchē qù?",
+    "en": "Are you planning to go by plane or by train?"
+   },
+   {
+    "zh": "我们是先吃饭还是先看电影？",
+    "pinyin": "Wǒmen shì xiān chīfàn háishì xiān kàn diànyǐng?",
+    "en": "Should we eat first or watch the movie first?"
+   },
+   {
+    "zh": "你是一个人来的还是和朋友一起来的？",
+    "pinyin": "Nǐ shì yí ge rén lái de háishì hé péngyou yìqǐ lái de?",
+    "en": "Did you come alone or with friends?"
+   },
+   {
+    "zh": "这道题的答案是对还是错？",
+    "pinyin": "Zhè dào tí de dá'àn shì duì háishì cuò?",
+    "en": "Is the answer to this question right or wrong?"
+   },
+   {
+    "zh": "你想要大的还是小的？",
+    "pinyin": "Nǐ xiǎng yào dà de háishì xiǎo de?",
+    "en": "Do you want the big one or the small one?"
+   },
+   {
+    "zh": "我们在这里等他还是先进去？",
+    "pinyin": "Wǒmen zài zhèlǐ děng tā háishì xiān jìnqù?",
+    "en": "Should we wait for him here or go in first?"
+   },
+   {
+    "zh": "你更相信他说的还是她说的？",
+    "pinyin": "Nǐ gèng xiāngxìn tā shuō de háishì tā shuō de?",
+    "en": "Do you believe more what he said or what she said?"
+   },
+   {
+    "zh": "周末你想休息还是想出去玩？",
+    "pinyin": "Zhōumò nǐ xiǎng xiūxi háishì xiǎng chūqù wán?",
+    "en": "On the weekend, do you want to rest or go out and have fun?"
+   },
+   {
+    "zh": "这份工作你打算接受还是拒绝？",
+    "pinyin": "Zhè fèn gōngzuò nǐ dǎsuàn jiēshòu háishì jùjué?",
+    "en": "Are you going to accept this job or turn it down?"
+   },
+   {
+    "zh": "你想听真话还是想听好话？",
+    "pinyin": "Nǐ xiǎng tīng zhēnhuà háishì xiǎng tīng hǎohuà?",
+    "en": "Do you want to hear the truth or hear nice words?"
+   },
+   {
+    "zh": "这个字读第一声还是第四声？",
+    "pinyin": "Zhège zì dú dì yī shēng háishì dì sì shēng?",
+    "en": "Is this character read in the first tone or the fourth tone?"
+   },
+   {
+    "zh": "你们是打算住酒店还是住朋友家？",
+    "pinyin": "Nǐmen shì dǎsuàn zhù jiǔdiàn háishì zhù péngyou jiā?",
+    "en": "Are you planning to stay at a hotel or a friend's place?"
+   },
+   {
+    "zh": "是我去找你还是你来找我？",
+    "pinyin": "Shì wǒ qù zhǎo nǐ háishì nǐ lái zhǎo wǒ?",
+    "en": "Should I go find you or will you come find me?"
+   },
+   {
+    "zh": "你到底是同意还是不同意？",
+    "pinyin": "Nǐ dàodǐ shì tóngyì háishì bù tóngyì?",
+    "en": "Do you agree or not, after all?"
+   }
+  ]
+ }
+]

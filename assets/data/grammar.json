@@ -5438,5 +5438,685 @@
     "en": "These two colors look great together."
    }
   ]
+ },
+ {
+  "id": "g041",
+  "level": 2,
+  "title": "\"...死了\" ile aşırılık (olumsuz sıfatlar)",
+  "titleEn": "Negative adjectives with \"-si le\"",
+  "pattern": "Sıfat + 死了",
+  "summary": "\"死了\" (sǐ le) bir sıfattan sonra gelerek \"ölesiye / aşırı derecede\" anlamı katar: 累死了 = Ölesiye yorgunum.",
+  "explanation": "\"死了\" (kelime anlamı \"öldü\") bir sıfatın hemen ardına gelerek abartılı bir yoğunluk verir — Türkçe'deki \"ölesiye/çok fena\" gibi. Genellikle olumsuz/rahatsız edici durumlar için kullanılır: 饿死了 (çok açım), 热死了 (sıcaktan öldüm), 烦死了 (çok sıkıldım). Konuşma dilinde çok yaygındır ve abartılı, samimi bir tondadır. \"太...了\"'dan daha güçlü ve daha gündelik durur.",
+  "examples": [
+   {
+    "zh": "忙了一整天,我现在累死了。",
+    "pinyin": "Máng le yìzhěng tiān, wǒ xiànzài lèi sǐ le.",
+    "en": "After a busy whole day, I'm dead tired now."
+   },
+   {
+    "zh": "今天这个天气热死了,我一点儿都不想动。",
+    "pinyin": "Jīntiān zhège tiānqì rè sǐ le, wǒ yìdiǎnr dōu bù xiǎng dòng.",
+    "en": "The weather today is scorching, I don't want to move at all."
+   },
+   {
+    "zh": "我从早上到现在什么都没吃,饿死了。",
+    "pinyin": "Wǒ cóng zǎoshang dào xiànzài shénme dōu méi chī, è sǐ le.",
+    "en": "I haven't eaten anything since morning, I'm starving."
+   },
+   {
+    "zh": "这个孩子太吵了,烦死了。",
+    "pinyin": "Zhège háizi tài chǎo le, fán sǐ le.",
+    "en": "This child is so noisy, it's driving me crazy."
+   },
+   {
+    "zh": "外面冷死了,你还是多穿点吧。",
+    "pinyin": "Wàimiàn lěng sǐ le, nǐ háishì duō chuān diǎn ba.",
+    "en": "It's freezing outside, you'd better wear more."
+   },
+   {
+    "zh": "等了两个小时他还没来,急死我了。",
+    "pinyin": "Děng le liǎng ge xiǎoshí tā hái méi lái, jí sǐ wǒ le.",
+    "en": "I waited two hours and he still isn't here, I'm so anxious."
+   },
+   {
+    "zh": "这道题我想了半天也不会,难死了。",
+    "pinyin": "Zhè dào tí wǒ xiǎng le bàntiān yě bú huì, nán sǐ le.",
+    "en": "I thought about this problem forever and still can't do it, it's impossibly hard."
+   },
+   {
+    "zh": "这几天工作压力大,我累死了。",
+    "pinyin": "Zhè jǐ tiān gōngzuò yālì dà, wǒ lèi sǐ le.",
+    "en": "Work has been so stressful these days, I'm exhausted."
+   },
+   {
+    "zh": "这个笑话太好笑了,我笑死了。",
+    "pinyin": "Zhège xiàohua tài hǎoxiào le, wǒ xiào sǐ le.",
+    "en": "This joke is so funny, I'm dying of laughter."
+   },
+   {
+    "zh": "房间里乱死了,你快收拾一下。",
+    "pinyin": "Fángjiān lǐ luàn sǐ le, nǐ kuài shōushi yíxià.",
+    "en": "The room is a total mess, tidy it up quickly."
+   },
+   {
+    "zh": "坐了十个小时的飞机,我困死了。",
+    "pinyin": "Zuò le shí ge xiǎoshí de fēijī, wǒ kùn sǐ le.",
+    "en": "After a ten-hour flight, I'm dead sleepy."
+   },
+   {
+    "zh": "这条裙子漂亮死了,我一定要买。",
+    "pinyin": "Zhè tiáo qúnzi piàoliang sǐ le, wǒ yídìng yào mǎi.",
+    "en": "This skirt is gorgeous, I have to buy it."
+   },
+   {
+    "zh": "一个人在家无聊死了,你快回来吧。",
+    "pinyin": "Yí ge rén zài jiā wúliáo sǐ le, nǐ kuài huílái ba.",
+    "en": "Being home alone is so boring, come back soon."
+   },
+   {
+    "zh": "这次考试没考好,我后悔死了。",
+    "pinyin": "Zhè cì kǎoshì méi kǎo hǎo, wǒ hòuhuǐ sǐ le.",
+    "en": "I didn't do well on this exam, I regret it so much."
+   },
+   {
+    "zh": "这么晚了还找不到你,我担心死了。",
+    "pinyin": "Zhème wǎn le hái zhǎo bu dào nǐ, wǒ dānxīn sǐ le.",
+    "en": "It's so late and I still couldn't find you, I was worried sick."
+   },
+   {
+    "zh": "她今天穿得美死了,大家都在看她。",
+    "pinyin": "Tā jīntiān chuān de měi sǐ le, dàjiā dōu zài kàn tā.",
+    "en": "She's dressed stunningly today, everyone is looking at her."
+   },
+   {
+    "zh": "这个星期天天加班,我快忙死了。",
+    "pinyin": "Zhège xīngqī tiāntiān jiābān, wǒ kuài máng sǐ le.",
+    "en": "I've worked overtime every day this week, I'm swamped."
+   },
+   {
+    "zh": "排了这么长的队,我烦死了。",
+    "pinyin": "Pái le zhème cháng de duì, wǒ fán sǐ le.",
+    "en": "After queuing in such a long line, I'm so annoyed."
+   },
+   {
+    "zh": "这碗面辣死了,我一直在喝水。",
+    "pinyin": "Zhè wǎn miàn là sǐ le, wǒ yìzhí zài hē shuǐ.",
+    "en": "This bowl of noodles is deadly spicy, I keep drinking water."
+   },
+   {
+    "zh": "好久没见到你了,我想你想死了。",
+    "pinyin": "Hǎojiǔ méi jiàndào nǐ le, wǒ xiǎng nǐ xiǎng sǐ le.",
+    "en": "I haven't seen you in ages, I've missed you terribly."
+   },
+   {
+    "zh": "这双鞋挤死了,穿一天脚就疼。",
+    "pinyin": "Zhè shuāng xié jǐ sǐ le, chuān yì tiān jiǎo jiù téng.",
+    "en": "These shoes are painfully tight; after a day my feet hurt."
+   },
+   {
+    "zh": "孩子考上了大学,我们高兴死了。",
+    "pinyin": "Háizi kǎoshàng le dàxué, wǒmen gāoxìng sǐ le.",
+    "en": "The child got into university, we're overjoyed."
+   },
+   {
+    "zh": "这个电梯坏了一个星期,不方便死了。",
+    "pinyin": "Zhège diàntī huài le yí ge xīngqī, bù fāngbiàn sǐ le.",
+    "en": "This elevator has been broken for a week, it's terribly inconvenient."
+   },
+   {
+    "zh": "听到这个坏消息,我难过死了。",
+    "pinyin": "Tīngdào zhège huài xiāoxi, wǒ nánguò sǐ le.",
+    "en": "Hearing this bad news, I'm devastated."
+   },
+   {
+    "zh": "这个房间小死了,连一张床都放不下。",
+    "pinyin": "Zhège fángjiān xiǎo sǐ le, lián yì zhāng chuáng dōu fàng bu xià.",
+    "en": "This room is tiny, it can't even fit a bed."
+   }
+  ]
+ },
+ {
+  "id": "g042",
+  "level": 2,
+  "title": "\"差不多\" ile yaklaşıklık",
+  "titleEn": "Approximations with \"chabuduo\"",
+  "pattern": "Özne + 差不多",
+  "summary": "\"差不多\" (chàbuduō) \"neredeyse, aşağı yukarı, hemen hemen\" anlamı verir: 我们差不多到了 = Neredeyse vardık.",
+  "explanation": "\"差不多\" (kelime kelime \"fark çok değil\") bir şeyin yaklaşık/neredeyse olduğunu belirtir. Zarf olarak fiil/sıfattan önce: 差不多一样 (hemen hemen aynı), 差不多好了 (neredeyse bitti). Sayılarla: 差不多五十岁 (aşağı yukarı elli yaş). Ayrıca tek başına \"idare eder, fena değil\" anlamında da kullanılabilir. Çince'de çok yaygın, esnek bir ifadedir.",
+  "examples": [
+   {
+    "zh": "我们差不多到了,再有五分钟就下车。",
+    "pinyin": "Wǒmen chàbuduō dào le, zài yǒu wǔ fēnzhōng jiù xiàchē.",
+    "en": "We're almost there, we'll get off in five more minutes."
+   },
+   {
+    "zh": "这两个包差不多一样,你随便拿一个。",
+    "pinyin": "Zhè liǎng ge bāo chàbuduō yíyàng, nǐ suíbiàn ná yí ge.",
+    "en": "These two bags are about the same, just take either one."
+   },
+   {
+    "zh": "他跟我差不多高,可能比我高一点点。",
+    "pinyin": "Tā gēn wǒ chàbuduō gāo, kěnéng bǐ wǒ gāo yìdiǎndiǎn.",
+    "en": "He's about my height, maybe just a bit taller."
+   },
+   {
+    "zh": "饭差不多做好了,你们先坐一会儿。",
+    "pinyin": "Fàn chàbuduō zuòhǎo le, nǐmen xiān zuò yíhuìr.",
+    "en": "The food is almost ready, please sit for a bit."
+   },
+   {
+    "zh": "这件事差不多解决了,你别担心。",
+    "pinyin": "Zhè jiàn shì chàbuduō jiějué le, nǐ bié dānxīn.",
+    "en": "This matter is nearly resolved, don't worry."
+   },
+   {
+    "zh": "我在这家公司差不多工作了十年。",
+    "pinyin": "Wǒ zài zhè jiā gōngsī chàbuduō gōngzuò le shí nián.",
+    "en": "I've worked at this company for about ten years."
+   },
+   {
+    "zh": "我们的想法差不多,应该能合作。",
+    "pinyin": "Wǒmen de xiǎngfǎ chàbuduō, yīnggāi néng hézuò.",
+    "en": "Our ideas are similar, we should be able to work together."
+   },
+   {
+    "zh": "时间差不多了,我们该出发了。",
+    "pinyin": "Shíjiān chàbuduō le, wǒmen gāi chūfā le.",
+    "en": "It's about time, we should set off."
+   },
+   {
+    "zh": "这两种颜色差不多,一般人看不出来。",
+    "pinyin": "Zhè liǎng zhǒng yánsè chàbuduō, yìbān rén kàn bu chūlái.",
+    "en": "These two colors are nearly the same, most people can't tell."
+   },
+   {
+    "zh": "他每个月差不多能挣一万块。",
+    "pinyin": "Tā měi ge yuè chàbuduō néng zhèng yíwàn kuài.",
+    "en": "He can earn about ten thousand yuan a month."
+   },
+   {
+    "zh": "我的中文水平和他差不多。",
+    "pinyin": "Wǒ de Zhōngwén shuǐpíng hé tā chàbuduō.",
+    "en": "My Chinese level is about the same as his."
+   },
+   {
+    "zh": "这本书我差不多看完了,只剩最后一章。",
+    "pinyin": "Zhè běn shū wǒ chàbuduō kànwán le, zhǐ shèng zuìhòu yì zhāng.",
+    "en": "I've almost finished this book, only the last chapter left."
+   },
+   {
+    "zh": "从我家到公司差不多要一个小时。",
+    "pinyin": "Cóng wǒ jiā dào gōngsī chàbuduō yào yí ge xiǎoshí.",
+    "en": "It takes about an hour from my home to the office."
+   },
+   {
+    "zh": "这个大小差不多,应该合适。",
+    "pinyin": "Zhège dàxiǎo chàbuduō, yīnggāi héshì.",
+    "en": "This size is about right, it should fit."
+   },
+   {
+    "zh": "钱差不多花完了,我们该省着点了。",
+    "pinyin": "Qián chàbuduō huāwán le, wǒmen gāi shěngzhe diǎn le.",
+    "en": "The money is almost gone, we should start saving."
+   },
+   {
+    "zh": "大家的意见差不多,那就这么决定吧。",
+    "pinyin": "Dàjiā de yìjiàn chàbuduō, nà jiù zhème juédìng ba.",
+    "en": "Everyone's opinion is about the same, so let's decide this way."
+   },
+   {
+    "zh": "我们俩的性格差不多,所以很聊得来。",
+    "pinyin": "Wǒmen liǎ de xìnggé chàbuduō, suǒyǐ hěn liáodelái.",
+    "en": "Our personalities are similar, so we get along well."
+   },
+   {
+    "zh": "这些水果差不多都熟了,可以吃了。",
+    "pinyin": "Zhèxiē shuǐguǒ chàbuduō dōu shú le, kěyǐ chī le.",
+    "en": "These fruits are nearly all ripe, you can eat them."
+   },
+   {
+    "zh": "他说的和你说的差不多,没什么区别。",
+    "pinyin": "Tā shuō de hé nǐ shuō de chàbuduō, méi shénme qūbié.",
+    "en": "What he said is about the same as yours, no real difference."
+   },
+   {
+    "zh": "我准备得差不多了,明天就可以出发。",
+    "pinyin": "Wǒ zhǔnbèi de chàbuduō le, míngtiān jiù kěyǐ chūfā.",
+    "en": "I'm almost done preparing, I can leave tomorrow."
+   },
+   {
+    "zh": "这两家饭馆的味道差不多,价钱也差不多。",
+    "pinyin": "Zhè liǎng jiā fànguǎn de wèidào chàbuduō, jiàqián yě chàbuduō.",
+    "en": "These two restaurants taste about the same, and cost about the same."
+   },
+   {
+    "zh": "他们年纪差不多,应该很有共同话题。",
+    "pinyin": "Tāmen niánjì chàbuduō, yīnggāi hěn yǒu gòngtóng huàtí.",
+    "en": "They're about the same age, they should have a lot in common."
+   },
+   {
+    "zh": "这个项目差不多完成了百分之八十。",
+    "pinyin": "Zhège xiàngmù chàbuduō wánchéng le bǎi fēn zhī bāshí.",
+    "en": "This project is about eighty percent complete."
+   },
+   {
+    "zh": "我等了差不多一个小时,他才终于出现。",
+    "pinyin": "Wǒ děng le chàbuduō yí ge xiǎoshí, tā cái zhōngyú chūxiàn.",
+    "en": "I waited about an hour before he finally showed up."
+   },
+   {
+    "zh": "天差不多黑了,我们赶快回家吧。",
+    "pinyin": "Tiān chàbuduō hēi le, wǒmen gǎnkuài huíjiā ba.",
+    "en": "It's nearly dark, let's hurry home."
+   }
+  ]
+ },
+ {
+  "id": "g043",
+  "level": 2,
+  "title": "\"都\" ile miktar vurgusu",
+  "titleEn": "Emphasizing quantity with \"dou\"",
+  "pattern": "大家 / 很多人 + 都⋯⋯",
+  "summary": "\"都\" (dōu) çoğul/geniş bir özneden sonra gelerek \"herkes, çoğu\" vurgusu yapar: 大家都知道 = Herkes biliyor.",
+  "explanation": "\"都\", geniş kapsamlı bir özneyle (大家 herkes, 很多人 birçok kişi, 所有人 herkes) kullanıldığında miktar/kapsam vurgusu yapar. Kural yine aynı: \"都\" öznenin ardından, fiilden önce gelir. \"很多人都喜欢\" (birçok insan sever) — buradaki \"都\", çokluğu pekiştirir. \"每\" (her), \"任何\" (herhangi) gibi ifadelerle de neredeyse zorunlu olarak \"都\" birlikte kullanılır.",
+  "examples": [
+   {
+    "zh": "这件事大家都知道了,你不用瞒着。",
+    "pinyin": "Zhè jiàn shì dàjiā dōu zhīdào le, nǐ búyòng mánzhe.",
+    "en": "Everyone already knows about this, you don't need to hide it."
+   },
+   {
+    "zh": "很多人都觉得他是个天才。",
+    "pinyin": "Hěn duō rén dōu juéde tā shì ge tiāncái.",
+    "en": "Many people think he's a genius."
+   },
+   {
+    "zh": "所有的门都锁上了,进不去。",
+    "pinyin": "Suǒyǒu de mén dōu suǒshàng le, jìn bu qù.",
+    "en": "All the doors are locked, we can't get in."
+   },
+   {
+    "zh": "这里的每个人都很热情。",
+    "pinyin": "Zhèlǐ de měi ge rén dōu hěn rèqíng.",
+    "en": "Everyone here is very warm."
+   },
+   {
+    "zh": "这些菜大家都很喜欢,一下子就吃完了。",
+    "pinyin": "Zhèxiē cài dàjiā dōu hěn xǐhuan, yíxiàzi jiù chīwán le.",
+    "en": "Everyone loved these dishes, they were gone in no time."
+   },
+   {
+    "zh": "很多年轻人都想去大城市工作。",
+    "pinyin": "Hěn duō niánqīngrén dōu xiǎng qù dà chéngshì gōngzuò.",
+    "en": "Many young people want to work in big cities."
+   },
+   {
+    "zh": "我问了很多人,大家都不知道答案。",
+    "pinyin": "Wǒ wèn le hěn duō rén, dàjiā dōu bù zhīdào dá'àn.",
+    "en": "I asked many people, and none of them knew the answer."
+   },
+   {
+    "zh": "每个来过这里的人都想再来一次。",
+    "pinyin": "Měi ge láiguò zhèlǐ de rén dōu xiǎng zài lái yí cì.",
+    "en": "Everyone who's been here wants to come again."
+   },
+   {
+    "zh": "任何人都有可能犯这样的错误。",
+    "pinyin": "Rènhé rén dōu yǒu kěnéng fàn zhèyàng de cuòwù.",
+    "en": "Anyone could make this kind of mistake."
+   },
+   {
+    "zh": "很多同事都对新经理很满意。",
+    "pinyin": "Hěn duō tóngshì dōu duì xīn jīnglǐ hěn mǎnyì.",
+    "en": "Many colleagues are satisfied with the new manager."
+   },
+   {
+    "zh": "这个道理其实很多人都懂,可是做不到。",
+    "pinyin": "Zhège dàolǐ qíshí hěn duō rén dōu dǒng, kěshì zuò bu dào.",
+    "en": "Many people actually understand this, but can't do it."
+   },
+   {
+    "zh": "这次活动来的每个人都收到了礼物。",
+    "pinyin": "Zhè cì huódòng lái de měi ge rén dōu shōudào le lǐwù.",
+    "en": "Everyone who came to this event received a gift."
+   },
+   {
+    "zh": "很多父母都希望孩子将来能过得好。",
+    "pinyin": "Hěn duō fùmǔ dōu xīwàng háizi jiānglái néng guò de hǎo.",
+    "en": "Many parents hope their children will live well in the future."
+   },
+   {
+    "zh": "这首歌很多人都会唱。",
+    "pinyin": "Zhè shǒu gē hěn duō rén dōu huì chàng.",
+    "en": "Many people can sing this song."
+   },
+   {
+    "zh": "这里的东西每样都很有特色。",
+    "pinyin": "Zhèlǐ de dōngxi měi yàng dōu hěn yǒu tèsè.",
+    "en": "Everything here is very distinctive."
+   },
+   {
+    "zh": "很多游客都是听说了它的名气才来的。",
+    "pinyin": "Hěn duō yóukè dōu shì tīngshuō le tā de míngqi cái lái de.",
+    "en": "Many tourists come having heard of its fame."
+   },
+   {
+    "zh": "这个决定影响了很多人,大家都很关心。",
+    "pinyin": "Zhège juédìng yǐngxiǎng le hěn duō rén, dàjiā dōu hěn guānxīn.",
+    "en": "This decision affected many people, and everyone cares."
+   },
+   {
+    "zh": "每一次机会我都不想错过。",
+    "pinyin": "Měi yí cì jīhuì wǒ dōu bù xiǎng cuòguò.",
+    "en": "I don't want to miss any opportunity."
+   },
+   {
+    "zh": "很多学生都参加了这次比赛。",
+    "pinyin": "Hěn duō xuésheng dōu cānjiā le zhè cì bǐsài.",
+    "en": "Many students took part in this competition."
+   },
+   {
+    "zh": "这里的每一条街道我都走过。",
+    "pinyin": "Zhèlǐ de měi yì tiáo jiēdào wǒ dōu zǒuguò.",
+    "en": "I've walked every street here."
+   },
+   {
+    "zh": "大家都在努力,你也不能落后。",
+    "pinyin": "Dàjiā dōu zài nǔlì, nǐ yě bù néng luòhòu.",
+    "en": "Everyone is working hard, you can't fall behind either."
+   },
+   {
+    "zh": "很多事情都需要时间才能看清楚。",
+    "pinyin": "Hěn duō shìqing dōu xūyào shíjiān cái néng kàn qīngchu.",
+    "en": "Many things can only be seen clearly with time."
+   },
+   {
+    "zh": "这本书每一页我都仔细读过。",
+    "pinyin": "Zhè běn shū měi yí yè wǒ dōu zǐxì dúguò.",
+    "en": "I've carefully read every page of this book."
+   },
+   {
+    "zh": "很多人都想成功,却不愿意付出努力。",
+    "pinyin": "Hěn duō rén dōu xiǎng chénggōng, què bú yuànyì fùchū nǔlì.",
+    "en": "Many people want to succeed but aren't willing to put in the effort."
+   },
+   {
+    "zh": "这里的每个角落都藏着回忆。",
+    "pinyin": "Zhèlǐ de měi ge jiǎoluò dōu cángzhe huíyì.",
+    "en": "Every corner here holds a memory."
+   }
+  ]
+ },
+ {
+  "id": "g044",
+  "level": 2,
+  "title": "\"一直\" ile \"sürekli / hep\"",
+  "titleEn": "Expressing \"all along\" with \"yizhi\"",
+  "pattern": "Özne + 一直 + Yüklem",
+  "summary": "\"一直\" (yìzhí) bir eylemin/durumun kesintisiz sürdüğünü anlatır: 我一直在等你 = Hep seni bekliyordum.",
+  "explanation": "\"一直\" bir eylemin başından sonuna DEĞİŞMEDEN, kesintisiz sürdüğünü belirtir — hem zaman içinde süreklilik (我一直住在这里 - hep burada yaşadım) hem de bir doğrultuda devam (一直往前走 - hep düz git). Özneden sonra, fiilden önce gelir. \"总是\" (zǒngshì, her zaman/genellikle) tekrarlanan durumu, \"一直\" ise kesintisiz süreni vurgular.",
+  "examples": [
+   {
+    "zh": "我一直在等你的消息,你怎么不回我？",
+    "pinyin": "Wǒ yìzhí zài děng nǐ de xiāoxi, nǐ zěnme bù huí wǒ?",
+    "en": "I've been waiting for your message all along, why don't you reply?"
+   },
+   {
+    "zh": "他从小到大一直很努力。",
+    "pinyin": "Tā cóngxiǎo dào dà yìzhí hěn nǔlì.",
+    "en": "He's worked hard all his life."
+   },
+   {
+    "zh": "你一直往前走,到路口就能看到那家店。",
+    "pinyin": "Nǐ yìzhí wǎng qián zǒu, dào lùkǒu jiù néng kàndào nà jiā diàn.",
+    "en": "Keep going straight, you'll see the shop at the intersection."
+   },
+   {
+    "zh": "这些年我一直住在同一个地方。",
+    "pinyin": "Zhèxiē nián wǒ yìzhí zhù zài tóng yí ge dìfang.",
+    "en": "I've lived in the same place all these years."
+   },
+   {
+    "zh": "她一直想学画画,可是没有时间。",
+    "pinyin": "Tā yìzhí xiǎng xué huàhuà, kěshì méiyǒu shíjiān.",
+    "en": "She's always wanted to learn painting, but has no time."
+   },
+   {
+    "zh": "这个问题一直困扰着我。",
+    "pinyin": "Zhège wèntí yìzhí kùnrǎozhe wǒ.",
+    "en": "This problem has been bothering me all along."
+   },
+   {
+    "zh": "我一直相信,好人会有好报。",
+    "pinyin": "Wǒ yìzhí xiāngxìn, hǎorén huì yǒu hǎobào.",
+    "en": "I've always believed good people are rewarded."
+   },
+   {
+    "zh": "他一直没有放弃自己的梦想。",
+    "pinyin": "Tā yìzhí méiyǒu fàngqì zìjǐ de mèngxiǎng.",
+    "en": "He has never given up on his dream."
+   },
+   {
+    "zh": "雨一直下,从早上到现在都没停。",
+    "pinyin": "Yǔ yìzhí xià, cóng zǎoshang dào xiànzài dōu méi tíng.",
+    "en": "It's been raining nonstop from morning until now."
+   },
+   {
+    "zh": "谢谢你这些年一直支持我。",
+    "pinyin": "Xièxie nǐ zhèxiē nián yìzhí zhīchí wǒ.",
+    "en": "Thank you for supporting me all these years."
+   },
+   {
+    "zh": "我一直以为你已经忘了这件事。",
+    "pinyin": "Wǒ yìzhí yǐwéi nǐ yǐjīng wàng le zhè jiàn shì.",
+    "en": "I'd always assumed you'd forgotten about this."
+   },
+   {
+    "zh": "他的病一直没好,让家人很担心。",
+    "pinyin": "Tā de bìng yìzhí méi hǎo, ràng jiārén hěn dānxīn.",
+    "en": "His illness never got better, worrying his family."
+   },
+   {
+    "zh": "我们一直是好朋友,从来没吵过架。",
+    "pinyin": "Wǒmen yìzhí shì hǎo péngyou, cónglái méi chǎoguò jià.",
+    "en": "We've always been good friends and never argued."
+   },
+   {
+    "zh": "她一直低着头,不敢看老师的眼睛。",
+    "pinyin": "Tā yìzhí dīzhe tóu, bù gǎn kàn lǎoshī de yǎnjing.",
+    "en": "She kept her head down, not daring to look the teacher in the eye."
+   },
+   {
+    "zh": "这个愿望我一直藏在心里。",
+    "pinyin": "Zhège yuànwàng wǒ yìzhí cáng zài xīnlǐ.",
+    "en": "I've always kept this wish in my heart."
+   },
+   {
+    "zh": "他一直在国外工作,很少回家。",
+    "pinyin": "Tā yìzhí zài guówài gōngzuò, hěn shǎo huíjiā.",
+    "en": "He's been working abroad and rarely comes home."
+   },
+   {
+    "zh": "我一直想找机会好好谢谢你。",
+    "pinyin": "Wǒ yìzhí xiǎng zhǎo jīhuì hǎohǎo xièxie nǐ.",
+    "en": "I've always wanted to find a chance to properly thank you."
+   },
+   {
+    "zh": "这条路一直通到海边。",
+    "pinyin": "Zhè tiáo lù yìzhí tōngdào hǎibiān.",
+    "en": "This road goes all the way to the seaside."
+   },
+   {
+    "zh": "他一直很关心身边的每一个人。",
+    "pinyin": "Tā yìzhí hěn guānxīn shēnbiān de měi yí ge rén.",
+    "en": "He's always cared about everyone around him."
+   },
+   {
+    "zh": "我一直没勇气告诉你真相。",
+    "pinyin": "Wǒ yìzhí méi yǒngqì gàosù nǐ zhēnxiàng.",
+    "en": "I've never had the courage to tell you the truth."
+   },
+   {
+    "zh": "这么多年,她的笑容一直没变。",
+    "pinyin": "Zhème duō nián, tā de xiàoróng yìzhí méi biàn.",
+    "en": "After all these years, her smile hasn't changed."
+   },
+   {
+    "zh": "我们一直朝着同一个目标努力。",
+    "pinyin": "Wǒmen yìzhí cháozhe tóng yí ge mùbiāo nǔlì.",
+    "en": "We've always been working toward the same goal."
+   },
+   {
+    "zh": "他一直很低调,从不炫耀自己。",
+    "pinyin": "Tā yìzhí hěn dīdiào, cóng bù xuànyào zìjǐ.",
+    "en": "He's always kept a low profile and never shows off."
+   },
+   {
+    "zh": "这些照片我一直好好保存着。",
+    "pinyin": "Zhèxiē zhàopiàn wǒ yìzhí hǎohǎo bǎocúnzhe.",
+    "en": "I've kept these photos carefully all this time."
+   },
+   {
+    "zh": "不管发生什么,我都会一直在你身边。",
+    "pinyin": "Bùguǎn fāshēng shénme, wǒ dōu huì yìzhí zài nǐ shēnbiān.",
+    "en": "No matter what happens, I'll always be by your side."
+   }
+  ]
+ },
+ {
+  "id": "g045",
+  "level": 2,
+  "title": "\"已经...了\" ile \"artık / çoktan\"",
+  "titleEn": "Expressing \"already\" with \"yijing\"",
+  "pattern": "已经 + ... + 了",
+  "summary": "\"已经...了\" (yǐjīng...le) bir eylem/durumun çoktan gerçekleştiğini belirtir: 他已经走了 = O çoktan gitti.",
+  "explanation": "\"已经\" (zaten/çoktan) bir şeyin daha önce tamamlandığını/gerçekleştiğini vurgular ve genellikle cümle sonundaki \"了\" ile birlikte kullanılır: 我已经吃了 (çoktan yedim). \"已经\" fiilden önce, \"了\" sonda gelir. Yaş/miktar gibi durum değişimlerinde de kullanılır: 他已经三十岁了 (o artık otuz yaşında). Olumsuzda genellikle \"已经不...了\" (artık ...değil) kalıbı kullanılır.",
+  "examples": [
+   {
+    "zh": "你来晚了,他已经走了。",
+    "pinyin": "Nǐ lái wǎn le, tā yǐjīng zǒu le.",
+    "en": "You're late, he's already left."
+   },
+   {
+    "zh": "我已经把作业做完了,可以出去玩了。",
+    "pinyin": "Wǒ yǐjīng bǎ zuòyè zuòwán le, kěyǐ chūqù wán le.",
+    "en": "I've already finished my homework, I can go out and play."
+   },
+   {
+    "zh": "孩子已经长大了,有自己的想法了。",
+    "pinyin": "Háizi yǐjīng zhǎngdà le, yǒu zìjǐ de xiǎngfǎ le.",
+    "en": "The child has grown up and has his own ideas now."
+   },
+   {
+    "zh": "我们已经认识十年了,时间过得真快。",
+    "pinyin": "Wǒmen yǐjīng rènshi shí nián le, shíjiān guò de zhēn kuài.",
+    "en": "We've known each other for ten years already, time flies."
+   },
+   {
+    "zh": "对不起,票已经卖完了。",
+    "pinyin": "Duìbuqǐ, piào yǐjīng màiwán le.",
+    "en": "Sorry, the tickets are already sold out."
+   },
+   {
+    "zh": "天已经黑了,我们该回家了。",
+    "pinyin": "Tiān yǐjīng hēi le, wǒmen gāi huíjiā le.",
+    "en": "It's already dark, we should head home."
+   },
+   {
+    "zh": "我已经不生你的气了,别担心。",
+    "pinyin": "Wǒ yǐjīng bù shēng nǐ de qì le, bié dānxīn.",
+    "en": "I'm not angry with you anymore, don't worry."
+   },
+   {
+    "zh": "他已经决定了,谁也劝不动。",
+    "pinyin": "Tā yǐjīng juédìng le, shéi yě quàn bu dòng.",
+    "en": "He's already decided, no one can persuade him otherwise."
+   },
+   {
+    "zh": "我已经等了半个小时了,他还没来。",
+    "pinyin": "Wǒ yǐjīng děng le bàn ge xiǎoshí le, tā hái méi lái.",
+    "en": "I've been waiting half an hour and he still hasn't come."
+   },
+   {
+    "zh": "这件事已经过去了,你就别再想了。",
+    "pinyin": "Zhè jiàn shì yǐjīng guòqù le, nǐ jiù bié zài xiǎng le.",
+    "en": "This is already in the past, stop thinking about it."
+   },
+   {
+    "zh": "我已经习惯了这里的生活。",
+    "pinyin": "Wǒ yǐjīng xíguàn le zhèlǐ de shēnghuó.",
+    "en": "I've already gotten used to life here."
+   },
+   {
+    "zh": "他已经是两个孩子的父亲了。",
+    "pinyin": "Tā yǐjīng shì liǎng ge háizi de fùqīn le.",
+    "en": "He's already a father of two."
+   },
+   {
+    "zh": "外面已经下起雨来了,你带伞了吗？",
+    "pinyin": "Wàimiàn yǐjīng xià qǐ yǔ lái le, nǐ dài sǎn le ma?",
+    "en": "It's already started raining outside, did you bring an umbrella?"
+   },
+   {
+    "zh": "我们已经尽力了,剩下的看运气吧。",
+    "pinyin": "Wǒmen yǐjīng jìnlì le, shèngxià de kàn yùnqì ba.",
+    "en": "We've already done our best, the rest is up to luck."
+   },
+   {
+    "zh": "他已经很久没有联系我了。",
+    "pinyin": "Tā yǐjīng hěn jiǔ méiyǒu liánxì wǒ le.",
+    "en": "He hasn't contacted me for a long time now."
+   },
+   {
+    "zh": "这个问题我们已经讨论过很多次了。",
+    "pinyin": "Zhège wèntí wǒmen yǐjīng tǎolùnguò hěn duō cì le.",
+    "en": "We've already discussed this problem many times."
+   },
+   {
+    "zh": "我已经把该说的话都说了。",
+    "pinyin": "Wǒ yǐjīng bǎ gāi shuō de huà dōu shuō le.",
+    "en": "I've already said everything I needed to say."
+   },
+   {
+    "zh": "这些菜已经凉了,我去热一下。",
+    "pinyin": "Zhèxiē cài yǐjīng liáng le, wǒ qù rè yíxià.",
+    "en": "These dishes have already gone cold, I'll go heat them up."
+   },
+   {
+    "zh": "他已经不是原来那个胆小的孩子了。",
+    "pinyin": "Tā yǐjīng bú shì yuánlái nàge dǎnxiǎo de háizi le.",
+    "en": "He's no longer the timid child he used to be."
+   },
+   {
+    "zh": "我已经受不了这样的生活了。",
+    "pinyin": "Wǒ yǐjīng shòubuliǎo zhèyàng de shēnghuó le.",
+    "en": "I can't stand this kind of life anymore."
+   },
+   {
+    "zh": "你已经做得很好了,不用太自责。",
+    "pinyin": "Nǐ yǐjīng zuò de hěn hǎo le, búyòng tài zìzé.",
+    "en": "You've already done very well, don't blame yourself too much."
+   },
+   {
+    "zh": "这本书我已经看了三遍了,还是很喜欢。",
+    "pinyin": "Zhè běn shū wǒ yǐjīng kàn le sān biàn le, háishì hěn xǐhuan.",
+    "en": "I've read this book three times already and still love it."
+   },
+   {
+    "zh": "事情已经这样了,后悔也没用。",
+    "pinyin": "Shìqing yǐjīng zhèyàng le, hòuhuǐ yě méiyòng.",
+    "en": "Things are already like this, regretting is useless."
+   },
+   {
+    "zh": "他已经答应了,应该不会反悔。",
+    "pinyin": "Tā yǐjīng dāying le, yīnggāi bú huì fǎnhuǐ.",
+    "en": "He's already agreed, he shouldn't go back on his word."
+   },
+   {
+    "zh": "我已经原谅他了,你也别放在心上了。",
+    "pinyin": "Wǒ yǐjīng yuánliàng tā le, nǐ yě bié fàng zài xīn shàng le.",
+    "en": "I've already forgiven him, so don't dwell on it either."
+   }
+  ]
  }
 ]

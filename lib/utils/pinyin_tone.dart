@@ -46,6 +46,11 @@ class PinyinTone {
     for (final entry in _plainOfCharLower.entries) entry.key.toUpperCase(): entry.value,
   };
 
+  /// Replaces toned vowels with their plain ASCII form (ǚ→v, é→e), leaving
+  /// other characters untouched. Note ü/ǚ map to "v".
+  static String stripTones(String s) =>
+      s.split('').map((c) => _plainOfChar[c] ?? c).join();
+
   static final List<String> _initials = (<String>[
     'zh', 'ch', 'sh',
     'b', 'p', 'm', 'f', 'd', 't', 'n', 'l',

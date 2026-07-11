@@ -110,7 +110,9 @@ class _ChineseTextState extends State<ChineseText> {
       final (text, tone) = syllables[s];
       result[i] = PinyinTone.colors[tone];
       lastColor = result[i];
-      final plain = text.toLowerCase();
+      // Strip tone marks first so a real "er" syllable (儿/二, "ér"/"èr")
+      // isn't mistaken for an erhua -r tail.
+      final plain = PinyinTone.stripTones(text).toLowerCase();
       lastWasErhua = plain.length > 1 && plain.endsWith('r') && plain != 'er';
       s++;
     }

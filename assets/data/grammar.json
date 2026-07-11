@@ -33862,5 +33862,685 @@
     "en": "I know this road; even blindfolded I couldn't go wrong."
    }
   ]
+ },
+ {
+  "id": "g250",
+  "level": 3,
+  "title": "Sıklık sorma/belirtme (多长时间...一次)",
+  "titleEn": "Expressing \"how often\"",
+  "pattern": "Özne + 多长时间 + Fiil + 一次",
+  "summary": "\"多长时间...一次?\" sıklık sorar: 你多长时间锻炼一次? = Ne kadar bir arayla spor yaparsın? Cevapta süre + 一次 gelir.",
+  "explanation": "Bir eylemin NE SIKLIKTA yapıldığını sormak için \"多长时间 + fiil + 一次?\" (kaç zamanda bir) kullanılır: 你多长时间回一次家? (Ne kadar bir arayla eve gidersin?). Cevap ise \"süre + 动 + 次 sayısı\" biçiminde verilir: 我一个星期回一次家 (Haftada bir eve giderim), 他每天锻炼两次 (Günde iki kez spor yapar), 我们一年见一两次面 (Yılda bir iki kez görüşürüz). Sıklık ifadesi (süre + sayı + 次) genelde fiilden önce ya da öznenin ardında yer alır. \"每 + süre\" (每天, 每周) ile birlikte de sık gelir. Nesne varsa çoğu zaman 次'ten sonra ya da başa gelir. Türkçedeki \"ne kadar bir arayla, kaç zamanda bir, ...-de bir kez\" sıklık ifadelerine denk gelir; bir eylemin tekrar sıklığını sormanın ve belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "你多长时间去一次健身房?我看你身材保持得真好。",
+    "pinyin": "Nǐ duō zhǎng shí jiān qù yī cì jiàn shēn fáng? wǒ kàn nǐ shēn cái bǎo chí de zhēn hǎo。",
+    "en": "How often do you go to the gym? You keep in great shape."
+   },
+   {
+    "zh": "我一般一个星期给爸妈打两三次电话。",
+    "pinyin": "Wǒ yì bān yí gè xīng qī gěi bà mā dǎ liǎng sān cì diàn huà。",
+    "en": "I usually call my parents two or three times a week."
+   },
+   {
+    "zh": "这种花不用天天浇水,大概三四天浇一次就行。",
+    "pinyin": "Zhè zhòng huā bù yòng tiān tiān jiāo shuǐ, dà gài sān sì tiān jiāo yī cì jiù xíng。",
+    "en": "This flower needn't be watered daily; about every three or four days."
+   },
+   {
+    "zh": "他工作太忙,一年也就回一次老家。",
+    "pinyin": "Tā gōng zuò tài máng, yī nián yě jiù huí yī cì lǎo jiā。",
+    "en": "He's too busy with work; he only goes home once a year."
+   },
+   {
+    "zh": "医生建议这种药一天吃三次,饭后服用。",
+    "pinyin": "Yī shēng jiàn yì zhè zhǒng yào yī tiān chī sān cì, fàn hòu fú yòng。",
+    "en": "The doctor advises taking this medicine three times a day, after meals."
+   },
+   {
+    "zh": "你们多长时间开一次会?会上一般讨论些什么?",
+    "pinyin": "Nǐ men duō zhǎng shí jiān kāi yī cì huì? huì shàng yì bān tǎo lùn xiē shén me?",
+    "en": "How often do you hold meetings? What's usually discussed?"
+   },
+   {
+    "zh": "我每隔一天就去公园跑一次步,风雨无阻。",
+    "pinyin": "Wǒ měi gé yī tiān jiù qù gōng yuán pǎo yī cì bù, fēng yǔ wú zǔ。",
+    "en": "I go running in the park every other day, rain or shine."
+   },
+   {
+    "zh": "这个考试一年举行两次,春天一次,秋天一次。",
+    "pinyin": "Zhè ge kǎo shì yī nián jǔ xíng liǎng cì, chūn tiān yī cì, qiū tiān yī cì。",
+    "en": "This exam is held twice a year, once in spring and once in autumn."
+   },
+   {
+    "zh": "他们全家每年都要一起旅行一两次。",
+    "pinyin": "Tā men quán jiā měi nián dōu yào yì qǐ lǚ xíng yī liǎng cì。",
+    "en": "Their whole family travels together once or twice a year."
+   },
+   {
+    "zh": "你多久理一次发?你的发型总是很整齐。",
+    "pinyin": "Nǐ duō jiǔ lǐ yī cì fā? nǐ de fà xíng zǒng shì hěn zhěng qí。",
+    "en": "How often do you get a haircut? Your hair's always neat."
+   },
+   {
+    "zh": "我们班每周都要进行一次小测验。",
+    "pinyin": "Wǒ men bān měi zhōu dōu yào jìn xíng yī cì xiǎo cè yàn。",
+    "en": "Our class has a quiz once a week."
+   },
+   {
+    "zh": "这台机器最好每半年检查、保养一次。",
+    "pinyin": "Zhè tái jī qì zuì hǎo měi bàn nián jiǎn chá、 bǎo yǎng yī cì。",
+    "en": "This machine is best inspected and serviced every six months."
+   },
+   {
+    "zh": "我大概每两个月才去一次电影院。",
+    "pinyin": "Wǒ dà gài měi liǎng gè yuè cái qù yī cì diàn yǐng yuàn。",
+    "en": "I go to the cinema only about once every two months."
+   },
+   {
+    "zh": "他坚持每天读一次英语,已经好几年了。",
+    "pinyin": "Tā jiān chí měi tiān dú yī cì yīng yǔ, yǐ jīng hǎo jǐ nián le。",
+    "en": "He reads English once every day, and has for years."
+   },
+   {
+    "zh": "这条街的集市每逢五天开一次,特别热闹。",
+    "pinyin": "Zhè tiáo jiē de jí shì měi féng wǔ tiān kāi yī cì, tè bié rè nào。",
+    "en": "This street's market opens every five days and is very lively."
+   },
+   {
+    "zh": "你多长时间换一次牙刷?牙医说三个月换一次比较好。",
+    "pinyin": "Nǐ duō zhǎng shí jiān huàn yī cì yá shuā? yá yī shuō sān gè yuè huàn yī cì bǐ jiào hǎo。",
+    "en": "How often do you change your toothbrush? Dentists say every three months."
+   },
+   {
+    "zh": "我们几个老同学每年聚一次,雷打不动。",
+    "pinyin": "Wǒ men jǐ gè lǎo tóng xué měi nián jù yī cì, léi dǎ bù dòng。",
+    "en": "We old classmates gather once a year without fail."
+   },
+   {
+    "zh": "这种植物很好养,一个星期浇一次水就够了。",
+    "pinyin": "Zhè zhòng zhí wù hěn hǎo yǎng, yí gè xīng qī jiāo yī cì shuǐ jiù gòu le。",
+    "en": "This plant is easy to keep; watering once a week is enough."
+   },
+   {
+    "zh": "他每个月都要出差一两次,常常不在家。",
+    "pinyin": "Tā měi gè yuè dōu yào chū chāi yī liǎng cì, cháng cháng bù zài jiā。",
+    "en": "He travels for work once or twice a month, often away from home."
+   },
+   {
+    "zh": "你们多长时间大扫除一次?家里总是这么干净。",
+    "pinyin": "Nǐ men duō zhǎng shí jiān dà sǎo chú yī cì? jiā lǐ zǒng shì zhè me gān jìng。",
+    "en": "How often do you do a big clean? Your home's always so tidy."
+   },
+   {
+    "zh": "这份报纸一周出一次,主要报道本地的新闻。",
+    "pinyin": "Zhè fèn bào zhǐ yī zhōu chū yī cì, zhǔ yào bào dào běn dì de xīn wén。",
+    "en": "This newspaper comes out once a week, mainly covering local news."
+   },
+   {
+    "zh": "孩子每天午睡一次,睡醒了精神特别好。",
+    "pinyin": "Hái zi měi tiān wǔ shuì yī cì, shuì xǐng le jīng shén tè bié hǎo。",
+    "en": "The child naps once a day and wakes up full of energy."
+   },
+   {
+    "zh": "我每年体检一次,及时了解自己的身体状况。",
+    "pinyin": "Wǒ měi nián tǐ jiǎn yī cì, jí shí liǎo jiě zì jǐ de shēn tǐ zhuàng kuàng。",
+    "en": "I get a checkup once a year to keep track of my health."
+   },
+   {
+    "zh": "这个社团每半个月组织一次活动,内容很丰富。",
+    "pinyin": "Zhè ge shè tuán měi bàn gè yuè zǔ zhī yī cì huó dòng, nèi róng hěn fēng fù。",
+    "en": "This club organizes an activity every half month, with rich content."
+   },
+   {
+    "zh": "他每隔几年就要搬一次家,一直没能安定下来。",
+    "pinyin": "Tā měi gé jǐ nián jiù yào bān yī cì jiā, yì zhí méi néng ān dìng xià lái。",
+    "en": "He moves every few years and has never settled down."
+   }
+  ]
+ },
+ {
+  "id": "g251",
+  "level": 3,
+  "title": "\"越来越\" ile \"gitgide, gittikçe\"",
+  "titleEn": "Expressing \"more and more\" with \"yuelaiyue\"",
+  "pattern": "Özne + 越来越 + Sıfat + 了",
+  "summary": "\"越来越\" (yuèláiyuè) zamanla artan bir değişimi bildirir: 天气越来越冷了 = Hava gitgide soğuyor.",
+  "explanation": "\"越来越\" bir niteliğin ZAMANLA giderek arttığını/değiştiğini bildirir: \"gitgide, gittikçe, günden güne daha ...\". Kalıp: Özne + 越来越 + sıfat/duygu fiili + 了. 天气越来越暖和了 (Hava gittikçe ısınıyor), 他的汉语越来越流利了 (Çincesi gitgide akıcılaşıyor), 我越来越喜欢这座城市了 (Bu şehri gittikçe daha çok seviyorum). Cümle çoğu zaman \"了\" ile biter (süregelen değişimi vurgular). Bir başka yapı \"越...越...\" (ne kadar ... o kadar ...) iki niteliğin orantılı değişimini anlatır: 雨越下越大 (Yağmur yağdıkça şiddetlendi), 越想越生气 (Düşündükçe öfkelendi). \"越来越\" tek bir niteliğin zamanla artışını, \"越...越...\" ise iki değişkenin bağlantılı artışını anlatır. Türkçedeki \"gitgide, gittikçe, günden güne, ...-dıkça ...\" ifadelerine denk gelir; artan bir eğilimi anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "春天到了,天气一天比一天暖,白天也越来越长了。",
+    "pinyin": "Chūn tiān dào le, tiān qì yī tiān bǐ yī tiān nuǎn, bái tiān yě yuè lái yuè zhǎng le。",
+    "en": "Spring's here; it warms day by day, and the days grow longer."
+   },
+   {
+    "zh": "经过这段时间的练习,他的汉语说得越来越流利了。",
+    "pinyin": "Jīng guò zhè duàn shí jiān de liàn xí, tā de hàn yǔ shuō de yuè lái yuè liú lì le。",
+    "en": "After this period of practice, his Chinese has grown more fluent."
+   },
+   {
+    "zh": "城市的发展越来越快,老房子一栋栋地被拆掉了。",
+    "pinyin": "Chéng shì de fā zhǎn yuè lái yuè kuài, lǎo fáng zi yī dòng dòng de bèi chāi diào le。",
+    "en": "The city develops faster and faster; old houses are torn down one by one."
+   },
+   {
+    "zh": "孩子越长越高,一年不见都快到我肩膀了。",
+    "pinyin": "Hái zi yuè zhǎng yuè gāo, yī nián bú jiàn dōu kuài dào wǒ jiān bǎng le。",
+    "en": "The child grows taller and taller; in a year he's nearly at my shoulder."
+   },
+   {
+    "zh": "这本书越读越有意思,我简直放不下手了。",
+    "pinyin": "Zhè běn shū yuè dú yuè yǒu yì si, wǒ jiǎn zhí fàng bù xià shǒu le。",
+    "en": "The more I read this book, the more interesting it gets; I can't put it down."
+   },
+   {
+    "zh": "随着年龄的增长,他越来越懂得体谅父母了。",
+    "pinyin": "Suí zhe nián líng de zēng zhǎng, tā yuè lái yuè dǒng de tǐ liàng fù mǔ le。",
+    "en": "As he grows older, he better understands his parents."
+   },
+   {
+    "zh": "雨越下越大,街上的行人也越来越少了。",
+    "pinyin": "Yǔ yuè xià yuè dà, jiē shàng de xíng rén yě yuè lái yuè shǎo le。",
+    "en": "The rain grew heavier and the pedestrians fewer."
+   },
+   {
+    "zh": "自从开始锻炼,他的身体越来越结实了。",
+    "pinyin": "Zì cóng kāi shǐ duàn liàn, tā de shēn tǐ yuè lái yuè jiē shí le。",
+    "en": "Since he started exercising, his body has grown sturdier."
+   },
+   {
+    "zh": "这个问题我越想越觉得不对劲,总感觉哪里有问题。",
+    "pinyin": "Zhè ge wèn tí wǒ yuè xiǎng yuè jué de bú duì jìn, zǒng gǎn jué nǎ lǐ yǒu wèn tí。",
+    "en": "The more I think about this, the more something feels off."
+   },
+   {
+    "zh": "生活越来越好了,可大家的压力似乎也越来越大。",
+    "pinyin": "Shēng huó yuè lái yuè hǎo le, kě dà jiā de yā lì sì hū yě yuè lái yuè dà。",
+    "en": "Life gets better and better, yet pressure seems to grow too."
+   },
+   {
+    "zh": "他越说越激动,到后来声音都有些发抖了。",
+    "pinyin": "Tā yuè shuō yuè jī dòng, dào hòu lái shēng yīn dōu yǒu xiē fā dǒu le。",
+    "en": "The more he spoke, the more excited he got, his voice even trembling."
+   },
+   {
+    "zh": "随着科技的进步,人们的生活越来越方便了。",
+    "pinyin": "Suí zhe kē jì de jìn bù, rén men de shēng huó yuè lái yuè fāng biàn le。",
+    "en": "With technological progress, life grows ever more convenient."
+   },
+   {
+    "zh": "天越来越黑,我们得赶紧下山才行。",
+    "pinyin": "Tiān yuè lái yuè hēi, wǒ men děi gǎn jǐn xià shān cái xíng。",
+    "en": "It's getting darker and darker; we must hurry down."
+   },
+   {
+    "zh": "这些年,回老家的年轻人越来越少了。",
+    "pinyin": "Zhè xiē nián, huí lǎo jiā de nián qīng rén yuè lái yuè shǎo le。",
+    "en": "In recent years, fewer and fewer young people return home."
+   },
+   {
+    "zh": "他越跑越快,把其他选手远远地甩在了后面。",
+    "pinyin": "Tā yuè pǎo yuè kuài, bǎ qí tā xuǎn shǒu yuǎn yuǎn de shuǎi zài le hòu miàn。",
+    "en": "The faster he ran, the more he left the others far behind."
+   },
+   {
+    "zh": "我越了解他,就越觉得他是个值得深交的人。",
+    "pinyin": "Wǒ yuè liǎo jiě tā, jiù yuè jué de tā shì gè zhí de shēn jiāo de rén。",
+    "en": "The more I know him, the more I find him worth befriending deeply."
+   },
+   {
+    "zh": "天气越来越热,大家都躲进了有空调的屋子里。",
+    "pinyin": "Tiān qì yuè lái yuè rè, dà jiā dōu duǒ jìn le yǒu kòng diào de wū zi lǐ。",
+    "en": "It gets hotter and hotter; everyone hides in air-conditioned rooms."
+   },
+   {
+    "zh": "练得越多,他弹钢琴的水平就提高得越快。",
+    "pinyin": "Liàn de yuè duō, tā tán gāng qín de shuǐ píng jiù tí gāo de yuè kuài。",
+    "en": "The more he practices, the faster his piano improves."
+   },
+   {
+    "zh": "公司的规模越来越大,员工也越招越多。",
+    "pinyin": "Gōng sī de guī mó yuè lái yuè dà, yuán gōng yě yuè zhāo yuè duō。",
+    "en": "The company grows larger, hiring more and more staff."
+   },
+   {
+    "zh": "这条河的水越来越浑,鱼也越来越少了。",
+    "pinyin": "Zhè tiáo hé de shuǐ yuè lái yuè hún, yú yě yuè lái yuè shǎo le。",
+    "en": "The river's water grows murkier and the fish fewer."
+   },
+   {
+    "zh": "随着交往的深入,他们的感情越来越好了。",
+    "pinyin": "Suí zhe jiāo wǎng de shēn rù, tā men de gǎn qíng yuè lái yuè hǎo le。",
+    "en": "As their acquaintance deepened, their bond grew stronger."
+   },
+   {
+    "zh": "他越活越年轻,一点儿都看不出实际年龄。",
+    "pinyin": "Tā yuè huó yuè nián qīng, yì diǎn ér dōu kàn bù chū shí jì nián líng。",
+    "en": "He seems younger the older he gets; you can't tell his real age."
+   },
+   {
+    "zh": "这道题越算越复杂,我都快没耐心了。",
+    "pinyin": "Zhè dào tí yuè suàn yuè fù zá, wǒ dōu kuài méi nài xīn le。",
+    "en": "The more I work this problem, the more complex it gets; I'm losing patience."
+   },
+   {
+    "zh": "天气越来越凉,该把厚被子拿出来了。",
+    "pinyin": "Tiān qì yuè lái yuè liáng, gāi bǎ hòu bèi zi ná chū lái le。",
+    "en": "It's getting cooler; time to take out the thick quilt."
+   },
+   {
+    "zh": "大家的干劲越来越足,工作进展也越来越顺利。",
+    "pinyin": "Dà jiā de gàn jìn yuè lái yuè zú, gōng zuò jìn zhǎn yě yuè lái yuè shùn lì。",
+    "en": "Everyone's drive grows, and the work progresses ever more smoothly."
+   }
+  ]
+ },
+ {
+  "id": "g252",
+  "level": 3,
+  "title": "\"倍\" ile kat belirtme",
+  "titleEn": "Expressing \"multiples\" with \"bei\"",
+  "pattern": "İsim 1 + 是 + İsim 2 + 的 + Sayı + 倍",
+  "summary": "\"倍\" (bèi) kat belirtir: A 是 B 的三倍 = A, B'nin üç katıdır; 增加了一倍 = iki katına çıktı (bir kat arttı).",
+  "explanation": "\"倍\" bir miktarın başka bir miktarın kaç KATI olduğunu belirtir. İki temel kalıp: (1) Karşılaştırma — A 是 B 的 + sayı + 倍 (A, B'nin ... katıdır): 这栋楼是那栋的三倍高 / 他的收入是我的两倍 (Onun geliri benimkinin iki katı). (2) Artış — \"增加/提高了 + sayı + 倍\": 产量增加了一倍 (Üretim iki katına çıktı = bir kat arttı). DİKKAT: \"增加了一倍\" \"iki katına çıktı\" demektir (orijinal + 1 kat = 2 kat); Çince'de \"增加了N倍\" = orijinalin (N+1) katı olur — bu Türkçe/İngilizceden farklı, sık hata kaynağıdır. \"是...的N倍\" ise doğrudan \"N katıdır\" der. Bütün sayılar Çince rakamlarla yazılır. Türkçedeki \"... katı, ... katına çıkmak, kat kat\" ifadelerine denk gelir; oran ve çarpan ilişkilerini anlatmanın temel yoludur.",
+  "examples": [
+   {
+    "zh": "这家公司今年的利润是去年的三倍,增长非常惊人。",
+    "pinyin": "Zhè jiā gōng sī jīn nián de lì rùn shì qù nián de sān bèi, zēng zhǎng fēi cháng jīng rén。",
+    "en": "This company's profit this year is triple last year's; astonishing growth."
+   },
+   {
+    "zh": "他的工资是我的两倍,可是花钱却比我还省。",
+    "pinyin": "Tā de gōng zī shì wǒ de liǎng bèi, kě shì huā qián què bǐ wǒ hái shěng。",
+    "en": "His salary is double mine, yet he spends even more frugally."
+   },
+   {
+    "zh": "经过技术改造,工厂的产量提高了一倍多。",
+    "pinyin": "Jīng guò jì shù gǎi zào, gōng chǎng de chǎn liàng tí gāo le yí bèi duō。",
+    "en": "After the tech upgrade, the factory's output more than doubled."
+   },
+   {
+    "zh": "这座新楼的高度差不多是老楼的两倍。",
+    "pinyin": "Zhè zuò xīn lóu de gāo dù chà bu duō shì lǎo lóu de liǎng bèi。",
+    "en": "The new building is almost twice the height of the old one."
+   },
+   {
+    "zh": "这次报名的人数是往年的好几倍,场面十分火爆。",
+    "pinyin": "Zhè cì bào míng de rén shù shì wǎng nián de hǎo jǐ bèi, chǎng miàn shí fēn huǒ bào。",
+    "en": "The number of applicants is several times past years'; the scene was booming."
+   },
+   {
+    "zh": "这条大河的宽度是那条小河的十几倍。",
+    "pinyin": "Zhè tiáo dà hé de kuān dù shì nà tiáo xiǎo hé de shí jǐ bèi。",
+    "en": "This great river is over ten times the width of that stream."
+   },
+   {
+    "zh": "春节期间,这里的客流量是平时的三四倍。",
+    "pinyin": "Chūn jié qī jiān, zhè lǐ de kè liú liàng shì píng shí de sān sì bèi。",
+    "en": "During the Spring Festival, foot traffic here is three or four times usual."
+   },
+   {
+    "zh": "这种新材料的强度是普通材料的好几倍。",
+    "pinyin": "Zhè zhǒng xīn cái liào de qiáng dù shì pǔ tōng cái liào de hǎo jǐ bèi。",
+    "en": "This new material's strength is several times that of ordinary ones."
+   },
+   {
+    "zh": "他花的时间是别人的两倍,效果却不如别人。",
+    "pinyin": "Tā huā de shí jiān shì bié rén de liǎng bèi, xiào guǒ què bù rú bié rén。",
+    "en": "He spends twice the time of others, yet the result is worse."
+   },
+   {
+    "zh": "这个城市的人口在二十年里增长了将近一倍。",
+    "pinyin": "Zhè ge chéng shì de rén kǒu zài èr shí nián lǐ zēng zhǎng le jiāng jìn yí bèi。",
+    "en": "This city's population nearly doubled in twenty years."
+   },
+   {
+    "zh": "这块地的面积是隔壁那块的三倍还多。",
+    "pinyin": "Zhè kuài de de miàn jī shì gé bì nà kuài de sān bèi hái duō。",
+    "en": "This plot's area is more than three times the neighboring one's."
+   },
+   {
+    "zh": "经过大家的努力,销量比上个月翻了一倍。",
+    "pinyin": "Jīng guò dà jiā de nǔ lì, xiāo liàng bǐ shàng gè yuè fān le yí bèi。",
+    "en": "Through everyone's effort, sales doubled compared to last month."
+   },
+   {
+    "zh": "他的阅读量是普通人的好几倍,知识特别渊博。",
+    "pinyin": "Tā de yuè dú liàng shì pǔ tōng rén de hǎo jǐ bèi, zhī shí tè bié yuān bó。",
+    "en": "His reading volume is several times an average person's; he's very learned."
+   },
+   {
+    "zh": "这种进口水果的价格是本地水果的两三倍。",
+    "pinyin": "Zhè zhǒng jìn kǒu shuǐ guǒ de jià gé shì běn dì shuǐ guǒ de liǎng sān bèi。",
+    "en": "This imported fruit costs two or three times the local kind."
+   },
+   {
+    "zh": "经过治理,这条河的水质比几年前好了不止一倍。",
+    "pinyin": "Jīng guò zhì lǐ, zhè tiáo hé de shuǐ zhì bǐ jǐ nián qián hǎo le bù zhǐ yí bèi。",
+    "en": "After treatment, this river's water quality is far more than double what it was."
+   },
+   {
+    "zh": "那家店的营业额是我们这家的四五倍。",
+    "pinyin": "Nà jiā diàn de yíng yè é shì wǒ men zhè jiā de sì wǔ bèi。",
+    "en": "That shop's turnover is four or five times ours."
+   },
+   {
+    "zh": "这次台风的风力是上次的两倍,破坏力惊人。",
+    "pinyin": "Zhè cì tái fēng de fēng lì shì shàng cì de liǎng bèi, pò huài lì jīng rén。",
+    "en": "This typhoon's force is double the last one's; the damage is shocking."
+   },
+   {
+    "zh": "他锻炼的强度是我的好几倍,难怪身体那么好。",
+    "pinyin": "Tā duàn liàn de qiáng dù shì wǒ de hǎo jǐ bèi, nán guài shēn tǐ nà me hǎo。",
+    "en": "His exercise intensity is several times mine; no wonder he's so fit."
+   },
+   {
+    "zh": "这项工程的预算是最初计划的三倍。",
+    "pinyin": "Zhè xiàng gōng chéng de yù suàn shì zuì chū jì huà de sān bèi。",
+    "en": "This project's budget is triple the initial plan."
+   },
+   {
+    "zh": "那棵大树的年龄是这棵小树的十几倍。",
+    "pinyin": "Nà kē dà shù de nián líng shì zhè kē xiǎo shù de shí jǐ bèi。",
+    "en": "That big tree is over ten times the age of this little one."
+   },
+   {
+    "zh": "网上购物的人数这几年增长了不止一倍。",
+    "pinyin": "Wǎng shàng gòu wù de rén shù zhè jǐ nián zēng zhǎng le bù zhǐ yí bèi。",
+    "en": "The number of online shoppers has more than doubled in recent years."
+   },
+   {
+    "zh": "这次的雨量是常年同期的两倍,河水都涨了。",
+    "pinyin": "Zhè cì de yǔ liàng shì cháng nián tóng qī de liǎng bèi, hé shuǐ dōu zhǎng le。",
+    "en": "This rainfall is double the usual for the season; the river rose."
+   },
+   {
+    "zh": "他家的书房面积是卧室的两倍,藏书非常多。",
+    "pinyin": "Tā jiā de shū fáng miàn jī shì wò shì de liǎng bèi, cáng shū fēi cháng duō。",
+    "en": "His study is twice the size of the bedroom, with many books."
+   },
+   {
+    "zh": "这台新电脑的运行速度是旧电脑的好几倍。",
+    "pinyin": "Zhè tái xīn diàn nǎo de yùn xíng sù dù shì jiù diàn nǎo de hǎo jǐ bèi。",
+    "en": "This new computer runs several times faster than the old one."
+   },
+   {
+    "zh": "这几年,来这里旅游的人数增加了好几倍。",
+    "pinyin": "Zhè jǐ nián, lái zhè lǐ lǚ yóu de rén shù zēng jiā le hǎo jǐ bèi。",
+    "en": "In recent years, tourists here have increased several-fold."
+   }
+  ]
+ },
+ {
+  "id": "g253",
+  "level": 3,
+  "title": "\"一点儿也/都不\" ile \"hiç, zerre kadar\"",
+  "titleEn": "Expressing \"not at all\" with \"yidianr ye bu\"",
+  "pattern": "Özne + 一点儿 + 也 / 都 + 不 / 没 + Sıfat/Fiil",
+  "summary": "\"一点儿也/都不...\" güçlü bir olumsuzluk verir: 一点也不累 = hiç yorgun değil; 一点儿都不知道 = zerre kadar bilmiyor.",
+  "explanation": "\"一点儿 + 也/都 + 不/没 + ...\" kalıbı, TAM ve KESİN bir olumsuzluk bildirir: \"hiç, zerre kadar, en ufak bir ... bile değil/yok\". 这道题一点儿也不难 (Bu soru hiç zor değil), 我一点儿都不困 (Hiç uykum yok), 他一点儿也没变 (Zerre kadar değişmemiş). \"一点儿\" en küçük miktarı gösterir; \"也/都\" (ikisi de kullanılabilir) + olumsuzluk onu tümüyle reddeder — yani \"en ufak bir X bile yok\". Sıfatları (不) ve fiil/durumları (不/没) güçlü biçimde olumsuzlar. \"一点儿\" çoğu zaman düşmez, kalıbın parçasıdır. Vurguyu artırmak için \"连一点儿...都不\" da denebilir. Türkçedeki \"hiç, zerre kadar ...-me/değil, en ufak bir ... bile yok\" güçlü olumsuzluk ifadelerine denk gelir; kesin ve vurgulu bir reddin temel yoludur.",
+  "examples": [
+   {
+    "zh": "这道题其实一点儿也不难,你静下心来肯定会做。",
+    "pinyin": "Zhè dào tí qí shí yì diǎn ér yě bù nán, nǐ jìng xià xīn lái kěn dìng huì zuò。",
+    "en": "This problem isn't hard at all; calm down and you'll surely solve it."
+   },
+   {
+    "zh": "忙了一整天,他却一点儿都不觉得累,精神好得很。",
+    "pinyin": "Máng le yī zhěng tiān, tā què yì diǎn ér dōu bù jué de lèi, jīng shén hǎo de hěn。",
+    "en": "Busy all day, yet he doesn't feel tired at all; he's full of energy."
+   },
+   {
+    "zh": "这么多年没见,他一点儿都没变,还是老样子。",
+    "pinyin": "Zhè me duō nián méi jiàn, tā yì diǎn ér dōu méi biàn, hái shì lǎo yàng zi。",
+    "en": "After so many years, he hasn't changed a bit; still the same."
+   },
+   {
+    "zh": "这件事我事先一点儿也不知道,你别怪我。",
+    "pinyin": "Zhè jiàn shì wǒ shì xiān yì diǎn ér yě bù zhī dào, nǐ bié guài wǒ。",
+    "en": "I knew nothing about this beforehand; don't blame me."
+   },
+   {
+    "zh": "这道菜看着辣,吃起来却一点儿也不辣。",
+    "pinyin": "Zhè dào cài kàn zhe là, chī qǐ lái què yì diǎn ér yě bù là。",
+    "en": "This dish looks spicy but isn't spicy at all."
+   },
+   {
+    "zh": "他对钱一点儿也不在乎,只想做自己喜欢的事。",
+    "pinyin": "Tā duì qián yì diǎn ér yě bù zài hū, zhǐ xiǎng zuò zì jǐ xǐ huān de shì。",
+    "en": "He doesn't care about money at all; he just wants to do what he loves."
+   },
+   {
+    "zh": "外面看着挺暖和,其实一点儿都不暖,风大着呢。",
+    "pinyin": "Wài miàn kàn zhe tǐng nuǎn huo, qí shí yì diǎn ér dōu bù nuǎn, fēng dà zhe ne。",
+    "en": "It looks warm out, but it's not warm at all; it's windy."
+   },
+   {
+    "zh": "我对这方面一点儿也不了解,你还是问专业的人吧。",
+    "pinyin": "Wǒ duì zhè fāng miàn yì diǎn ér yě bù liǎo jiě, nǐ hái shì wèn zhuān yè de rén ba。",
+    "en": "I know nothing about this; better ask a professional."
+   },
+   {
+    "zh": "他做事一点儿都不马虎,每个细节都认真对待。",
+    "pinyin": "Tā zuò shì yì diǎn ér dōu bù mǎ hǔ, měi gè xì jié dōu rèn zhēn duì dài。",
+    "en": "He's not careless at all; he handles every detail seriously."
+   },
+   {
+    "zh": "这个消息一点儿也不让人意外,大家早就猜到了。",
+    "pinyin": "Zhè ge xiāo xī yì diǎn ér yě bù ràng rén yì wài, dà jiā zǎo jiù cāi dào le。",
+    "en": "This news isn't surprising at all; everyone guessed it long ago."
+   },
+   {
+    "zh": "虽然输了比赛,可他一点儿都不灰心,准备再来。",
+    "pinyin": "Suī rán shū le bǐ sài, kě tā yì diǎn ér dōu bù huī xīn, zhǔn bèi zài lái。",
+    "en": "Though he lost, he isn't discouraged at all and is ready to try again."
+   },
+   {
+    "zh": "这条路我一点儿也不熟,还是打开导航吧。",
+    "pinyin": "Zhè tiáo lù wǒ yì diǎn ér yě bù shú, hái shì dǎ kāi dǎo háng ba。",
+    "en": "I don't know this road at all; let's use the navigation."
+   },
+   {
+    "zh": "孩子一点儿也不怕生,见了谁都笑眯眯的。",
+    "pinyin": "Hái zi yì diǎn ér yě bù pà shēng, jiàn le shéi dōu xiào mī mī de。",
+    "en": "The child isn't shy at all, smiling at everyone."
+   },
+   {
+    "zh": "他嘴上说不在乎,可我看他一点儿都不轻松。",
+    "pinyin": "Tā zuǐ shàng shuō bù zài hū, kě wǒ kàn tā yì diǎn ér dōu bù qīng sōng。",
+    "en": "He says he doesn't care, but I see he's not relaxed at all."
+   },
+   {
+    "zh": "这台旧机器一点儿也不比新的差,还很好用。",
+    "pinyin": "Zhè tái jiù jī qì yì diǎn ér yě bù bǐ xīn de chà, hái hěn hǎo yòng。",
+    "en": "This old machine is no worse than a new one and still works well."
+   },
+   {
+    "zh": "我一点儿都不后悔当初的选择,哪怕吃了很多苦。",
+    "pinyin": "Wǒ yì diǎn ér dōu bù hòu huǐ dāng chū de xuǎn zé, nǎ pà chī le hěn duō kǔ。",
+    "en": "I don't regret my original choice at all, despite the hardship."
+   },
+   {
+    "zh": "他的解释一点儿也不能让人信服,大家都在摇头。",
+    "pinyin": "Tā de jiě shì yì diǎn ér yě bù néng ràng rén xìn fú, dà jiā dōu zài yáo tóu。",
+    "en": "His explanation is not at all convincing; everyone shook their heads."
+   },
+   {
+    "zh": "这么大的动静,他睡得沉,竟然一点儿都没听见。",
+    "pinyin": "Zhè me dà de dòng jìng, tā shuì de chén, jìng rán yì diǎn ér dōu méi tīng jiàn。",
+    "en": "Such a commotion, yet he slept soundly and heard nothing at all."
+   },
+   {
+    "zh": "她一点儿也不娇气,再苦再累都不喊一声。",
+    "pinyin": "Tā yì diǎn ér yě bù jiāo qì, zài kǔ zài lèi dōu bù hǎn yī shēng。",
+    "en": "She's not delicate at all; however hard, she never complains."
+   },
+   {
+    "zh": "这些年过去了,那段回忆一点儿也没有模糊。",
+    "pinyin": "Zhè xiē nián guò qù le, nà duàn huí yì yì diǎn ér yě méi yǒu mó hú。",
+    "en": "After these years, that memory hasn't faded a bit."
+   },
+   {
+    "zh": "他对名利一点儿都不动心,过着简单的生活。",
+    "pinyin": "Tā duì míng lì yì diǎn ér dōu bù dòng xīn, guò zhe jiǎn dān de shēng huó。",
+    "en": "He's not tempted by fame or fortune at all, living simply."
+   },
+   {
+    "zh": "这个价格一点儿也不便宜,咱们再看看别家吧。",
+    "pinyin": "Zhè ge jià gé yì diǎn ér yě bù biàn yí, zán men zài kàn kàn bié jiā ba。",
+    "en": "This price isn't cheap at all; let's check other shops."
+   },
+   {
+    "zh": "面对镜头,他一点儿也不紧张,表现得非常自然。",
+    "pinyin": "Miàn duì jìng tóu, tā yì diǎn ér yě bù jǐn zhāng, biǎo xiàn de fēi cháng zì rán。",
+    "en": "Facing the camera, he wasn't nervous at all and acted naturally."
+   },
+   {
+    "zh": "我劝了他半天,他一点儿也听不进去,真拿他没办法。",
+    "pinyin": "Wǒ quàn le tā bàn tiān, tā yì diǎn ér yě tīng bù jìn qù, zhēn ná tā méi bàn fǎ。",
+    "en": "I advised him a long time, but he didn't listen at all; I can't with him."
+   },
+   {
+    "zh": "这个道理一点儿都不复杂,小孩子也能明白。",
+    "pinyin": "Zhè ge dào lǐ yì diǎn ér dōu bù fù zá, xiǎo hái zi yě néng míng bái。",
+    "en": "This truth isn't complicated at all; even a child can understand."
+   }
+  ]
+ },
+ {
+  "id": "g254",
+  "level": 3,
+  "title": "\"不知道...好\" ile kararsızlık",
+  "titleEn": "Expressing not knowing how to do something using \"hao\"",
+  "pattern": "Özne + 不知道 + Fiil Öbeği + 好",
+  "summary": "\"不知道...好\" ne yapacağını bilememeyi bildirir: 我不知道说什么好 = Ne diyeceğimi bilemiyorum.",
+  "explanation": "\"不知道 + (nasıl/ne) + fiil + 好\" kalıbı, bir konuda NASIL DAVRANACAĞINI, hangi seçeneğin daha iyi olduğunu bilememeyi, kararsızlığı bildirir: \"...-ecek/...-eceğini bilememek, ne ...-eceğini şaşırmak\". 我不知道说什么好 (Ne diyeceğimi bilemiyorum), 这么多菜,我都不知道点哪个好了 (Bu kadar yemek varken hangisini seçeceğimi bilemedim), 我不知道该怎么办好 (Ne yapmam gerektiğini bilemiyorum). Sondaki \"好\" \"(hangisi/nasıl) daha iyi/uygun\" fikrini taşır ve seçenekler arasında kararsızlığı vurgular. Genelde bir soru sözcüğü (什么, 怎么, 哪个) ile birlikte gelir. Şaşkınlık, çaresizlik ya da nazik bir tereddüt tonu vardır. Türkçedeki \"ne ...-eceğini bilememek, ...-ecek mi ...-mecek mi diye şaşırmak, hangisi daha iyi bilememek\" ifadelerine denk gelir; kararsızlığı ve şaşkınlığı anlatmanın doğal yoludur.",
+  "examples": [
+   {
+    "zh": "面对这么多热情的祝福,我一时都不知道说什么好了。",
+    "pinyin": "Miàn duì zhè me duō rè qíng de zhù fú, wǒ yī shí dōu bù zhī dào shuō shén me hǎo le。",
+    "en": "Facing so many warm wishes, I didn't know what to say for a moment."
+   },
+   {
+    "zh": "这两件衣服我都很喜欢,真不知道买哪件好。",
+    "pinyin": "Zhè liǎng jiàn yī fú wǒ dōu hěn xǐ huān, zhēn bù zhī dào mǎi nǎ jiàn hǎo。",
+    "en": "I like both outfits; I really don't know which to buy."
+   },
+   {
+    "zh": "孩子突然发起了高烧,妈妈急得不知道怎么办好。",
+    "pinyin": "Hái zi tū rán fā qǐ le gāo shāo, mā mā jí de bù zhī dào zěn me bàn hǎo。",
+    "en": "The child suddenly ran a fever, and mom was too anxious to know what to do."
+   },
+   {
+    "zh": "他送了我这么贵重的礼物,我都不知道怎么感谢他好。",
+    "pinyin": "Tā sòng le wǒ zhè me guì zhòng de lǐ wù, wǒ dōu bù zhī dào zěn me gǎn xiè tā hǎo。",
+    "en": "He gave me such a costly gift; I don't know how to thank him."
+   },
+   {
+    "zh": "这几个方案各有各的好处,我们不知道选哪个好。",
+    "pinyin": "Zhè jǐ gè fāng àn gè yǒu gè de hǎo chù, wǒ men bù zhī dào xuǎn nǎ ge hǎo。",
+    "en": "Each plan has its merits; we don't know which to choose."
+   },
+   {
+    "zh": "看到他们吵得那么厉害,我夹在中间,不知道帮谁好。",
+    "pinyin": "Kàn dào tā men chǎo de nà me lì hài, wǒ jiā zài zhōng jiān, bù zhī dào bāng shuí hǎo。",
+    "en": "Seeing them argue so fiercely, caught between them, I didn't know whose side to take."
+   },
+   {
+    "zh": "这么多好吃的摆在面前,孩子不知道先吃哪个好。",
+    "pinyin": "Zhè me duō hǎo chī de bǎi zài miàn qián, hái zi bù zhī dào xiān chī nǎ ge hǎo。",
+    "en": "With so many treats before him, the child didn't know which to eat first."
+   },
+   {
+    "zh": "他一句话把我问住了,我竟然不知道怎么回答好。",
+    "pinyin": "Tā yī jù huà bǎ wǒ wèn zhù le, wǒ jìng rán bù zhī dào zěn me huí dá hǎo。",
+    "en": "His question stumped me; I didn't know how to answer."
+   },
+   {
+    "zh": "面对突如其来的表扬,他有点不好意思,不知道说什么好。",
+    "pinyin": "Miàn duì tū rú qí lái de biǎo yáng, tā yǒu diǎn bù hǎo yì sī, bù zhī dào shuō shén me hǎo。",
+    "en": "At the sudden praise, he was a bit embarrassed, not knowing what to say."
+   },
+   {
+    "zh": "这件事说出来怕伤了大家的和气,我不知道说不说好。",
+    "pinyin": "Zhè jiàn shì shuō chū lái pà shāng le dà jiā de hé qì, wǒ bù zhī dào shuō bù shuō hǎo。",
+    "en": "Saying this might spoil the harmony; I don't know whether to say it."
+   },
+   {
+    "zh": "两位老人都想让我去他们家过节,我不知道去哪家好。",
+    "pinyin": "Liǎng wèi lǎo rén dōu xiǎng ràng wǒ qù tā men jiā guò jié, wǒ bù zhī dào qù nǎ jiā hǎo。",
+    "en": "Both elders want me for the holiday; I don't know whose home to go to."
+   },
+   {
+    "zh": "行李太多了,我不知道先搬哪一件好。",
+    "pinyin": "Xíng lǐ tài duō le, wǒ bù zhī dào xiān bān nǎ yī jiàn hǎo。",
+    "en": "There's too much luggage; I don't know which to move first."
+   },
+   {
+    "zh": "看着满桌的菜,大家都不知道从哪儿下筷子好。",
+    "pinyin": "Kàn zhe mǎn zhuō de cài, dà jiā dōu bù zhī dào cóng nǎ ér xià kuài zi hǎo。",
+    "en": "Looking at the full table, no one knew where to start."
+   },
+   {
+    "zh": "这个消息该不该告诉他,我犹豫了很久,不知道怎么开口好。",
+    "pinyin": "Zhè ge xiāo xī gāi bù gāi gào sù tā, wǒ yóu yù le hěn jiǔ, bù zhī dào zěn me kāi kǒu hǎo。",
+    "en": "Whether to tell him, I hesitated long, not knowing how to broach it."
+   },
+   {
+    "zh": "孩子考砸了,又哭又闹,我真不知道怎么劝好。",
+    "pinyin": "Hái zi kǎo zá le, yòu kū yòu nào, wǒ zhēn bù zhī dào zěn me quàn hǎo。",
+    "en": "The child failed and threw a fit; I really didn't know how to console him."
+   },
+   {
+    "zh": "这么冷的天,穿多了嫌热,穿少了怕冷,不知道穿哪件好。",
+    "pinyin": "Zhè me lěng de tiān, chuān duō le xián rè, chuān shǎo le pà lěng, bù zhī dào chuān nǎ jiàn hǎo。",
+    "en": "In such cold, too much is hot, too little cold; I don't know what to wear."
+   },
+   {
+    "zh": "他们两家的意见完全相反,我夹在中间不知道听谁的好。",
+    "pinyin": "Tā men liǎng jiā de yì jiàn wán quán xiāng fǎn, wǒ jiā zài zhōng jiān bù zhī dào tīng shéi de hǎo。",
+    "en": "The two families' views are opposite; caught between, I don't know whom to heed."
+   },
+   {
+    "zh": "面对这道难题,他抓耳挠腮,半天不知道从哪里入手好。",
+    "pinyin": "Miàn duì zhè dào nán tí, tā zhuā ěr náo sāi, bàn tiān bù zhī dào cóng nǎ lǐ rù shǒu hǎo。",
+    "en": "Facing this tough problem, he scratched his head, unsure where to start."
+   },
+   {
+    "zh": "大家的建议都很好,我一时不知道采纳哪个好。",
+    "pinyin": "Dà jiā de jiàn yì dōu hěn hǎo, wǒ yī shí bù zhī dào cǎi nà nǎ ge hǎo。",
+    "en": "Everyone's suggestions are good; I don't know which to adopt for now."
+   },
+   {
+    "zh": "这封回信该怎么写,我斟酌了半天也不知道怎么写好。",
+    "pinyin": "Zhè fēng huí xìn gāi zěn me xiě, wǒ zhēn zhuó le bàn tiān yě bù zhī dào zěn me xiě hǎo。",
+    "en": "How to word this reply, I mulled over long without knowing how."
+   },
+   {
+    "zh": "看到他难过的样子,我站在一旁,不知道说什么安慰他好。",
+    "pinyin": "Kàn dào tā nán guò de yàng zi, wǒ zhàn zài yī páng, bù zhī dào shuō shén me ān wèi tā hǎo。",
+    "en": "Seeing him sad, I stood by, not knowing what to say to comfort him."
+   },
+   {
+    "zh": "这么重要的决定,我一个人实在不知道怎么定好。",
+    "pinyin": "Zhè me zhòng yào de jué dìng, wǒ yí gè rén shí zài bù zhī dào zěn me dìng hǎo。",
+    "en": "For such an important decision, I really don't know how to decide alone."
+   },
+   {
+    "zh": "客人一下子来了这么多,我都不知道先招呼谁好。",
+    "pinyin": "Kè rén yī xià zi lái le zhè me duō, wǒ dōu bù zhī dào xiān zhāo hū shuí hǎo。",
+    "en": "So many guests came at once; I didn't know whom to attend to first."
+   },
+   {
+    "zh": "面对他的一片好意,拒绝也不是,接受也不是,真不知道怎么办好。",
+    "pinyin": "Miàn duì tā de yī piàn hǎo yì, jù jué yě bú shì, jiē shòu yě bú shì, zhēn bù zhī dào zěn me bàn hǎo。",
+    "en": "Facing his kindness, refusing or accepting both feel wrong; I don't know what to do."
+   },
+   {
+    "zh": "这些旧东西扔了可惜,留着又占地方,不知道怎么处理好。",
+    "pinyin": "Zhè xiē jiù dōng xī rēng le kě xī, liú zhe yòu zhàn dì fāng, bù zhī dào zěn me chǔ lǐ hǎo。",
+    "en": "Tossing these old things is a pity, keeping them takes space; I don't know what to do."
+   }
+  ]
  }
 ]

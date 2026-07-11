@@ -25022,5 +25022,685 @@
     "en": "If you can't decide, then hear what experienced people say."
    }
   ]
+ },
+ {
+  "id": "g185",
+  "level": 3,
+  "title": "\"来\" ile iki fiili bağlama (yöntem-amaç)",
+  "titleEn": "Using \"lai\" to connect two verb phrases",
+  "pattern": "通过 / 用 + Yöntem + 来 + Fiil Öbeği",
+  "summary": "\"来\" bir yöntem ile amacı bağlar: 用行动来证明 = eylemle kanıtlamak (eylem kullanarak kanıtlamak).",
+  "explanation": "\"来\" iki fiil öbeğini bağlayıp birincisinin İKİNCİSİNİ gerçekleştirmek için kullanılan YÖNTEM/araç olduğunu gösterir: (yöntem) + 来 + (amaç/eylem). 用实际行动来表达爱 (Sevgiyi somut eylemlerle ifade etmek), 通过努力来实现梦想 (Çabayla hayali gerçekleştirmek), 他想办法来解决问题 (Sorunu çözmek için bir yol buluyor). Çoğu zaman \"用...来...\" (... kullanarak ...) ya da \"通过...来...\" (... yoluyla ...) kalıbında görülür. Buradaki \"来\" fiziksel \"gelmek\" değil, iki eylem arasında amaç/araç bağı kuran soyut bir bağlaçtır; birinci öbek araç, ikinci öbek hedeftir. Türkçedeki \"...-erek, ... yoluyla, ... için, ... kullanarak\" bağlantılarına denk gelir; yöntem-amaç ilişkisini anlatmanın düzgün bir yoludur.",
+  "examples": [
+   {
+    "zh": "他用自己的实际行动来告诉大家什么叫责任。",
+    "pinyin": "Tā yòng zì jǐ de shí jì xíng dòng lái gào sù dà jiā shén me jiào zé rèn。",
+    "en": "He shows everyone what responsibility means through his own actions."
+   },
+   {
+    "zh": "我们应该通过不断学习来提高自己的能力。",
+    "pinyin": "Wǒ men yīng gāi tōng guò bù duàn xué xí lái tí gāo zì jǐ de néng lì。",
+    "en": "We should improve our abilities through continuous learning."
+   },
+   {
+    "zh": "与其抱怨,不如想办法来改变现在的处境。",
+    "pinyin": "Yǔ qí bào yuàn, bù rú xiǎng bàn fǎ lái gǎi biàn xiàn zài de chǔ jìng。",
+    "en": "Rather than complain, better find a way to change the situation."
+   },
+   {
+    "zh": "他常常用讲故事的方式来教育孩子。",
+    "pinyin": "Tā cháng cháng yòng jiǎng gù shì de fāng shì lái jiào yù hái zi。",
+    "en": "He often educates his children by telling stories."
+   },
+   {
+    "zh": "我们可以通过多沟通来减少彼此的误会。",
+    "pinyin": "Wǒ men kě yǐ tōng guò duō gōu tōng lái jiǎn shǎo bǐ cǐ de wù huì。",
+    "en": "We can reduce misunderstandings through more communication."
+   },
+   {
+    "zh": "她喜欢用音乐来表达内心复杂的情感。",
+    "pinyin": "Tā xǐ huān yòng yīn yuè lái biǎo dá nèi xīn fù zá de qíng gǎn。",
+    "en": "She likes to express her complex inner feelings through music."
+   },
+   {
+    "zh": "公司希望通过降低成本来提高利润。",
+    "pinyin": "Gōng sī xī wàng tōng guò jiàng dī chéng běn lái tí gāo lì rùn。",
+    "en": "The company hopes to raise profits by cutting costs."
+   },
+   {
+    "zh": "他用一个简单的比喻来解释这个复杂的道理。",
+    "pinyin": "Tā yòng yí gè jiǎn dān de bǐ yù lái jiě shì zhè ge fù zá de dào lǐ。",
+    "en": "He uses a simple analogy to explain this complex idea."
+   },
+   {
+    "zh": "我们要用事实来说话,不能凭空猜测。",
+    "pinyin": "Wǒ men yào yòng shì shí lái shuō huà, bù néng píng kōng cāi cè。",
+    "en": "We should let facts speak, not guess baselessly."
+   },
+   {
+    "zh": "老师通过做实验来帮助学生理解抽象的概念。",
+    "pinyin": "Lǎo shī tōng guò zuò shí yàn lái bāng zhù xué shēng lǐ jiě chōu xiàng de gài niàn。",
+    "en": "The teacher helps students grasp abstract concepts through experiments."
+   },
+   {
+    "zh": "他打算用几年的时间来实现自己的创业梦想。",
+    "pinyin": "Tā dǎ suàn yòng jǐ nián de shí jiān lái shí xiàn zì jǐ de chuàng yè mèng xiǎng。",
+    "en": "He plans to spend a few years realizing his dream of starting a business."
+   },
+   {
+    "zh": "与其空想,不如用行动来证明自己的决心。",
+    "pinyin": "Yǔ qí kōng xiǎng, bù rú yòng xíng dòng lái zhèng míng zì jǐ de jué xīn。",
+    "en": "Rather than daydream, prove your resolve through action."
+   },
+   {
+    "zh": "我们通过合理安排时间来提高工作效率。",
+    "pinyin": "Wǒ men tōng guò hé lǐ ān pái shí jiān lái tí gāo gōng zuò xiào lǜ。",
+    "en": "We improve work efficiency by arranging our time wisely."
+   },
+   {
+    "zh": "他总是用幽默来化解尴尬的气氛。",
+    "pinyin": "Tā zǒng shì yòng yōu mò lái huà jiě gān gà de qì fēn。",
+    "en": "He always uses humor to ease awkward moments."
+   },
+   {
+    "zh": "政府希望通过修路来带动这个地区的发展。",
+    "pinyin": "Zhèng fǔ xī wàng tōng guò xiū lù lái dài dòng zhè ge dì qū de fā zhǎn。",
+    "en": "The government hopes to spur the region's growth by building roads."
+   },
+   {
+    "zh": "她用一封长长的信来表达多年的思念。",
+    "pinyin": "Tā yòng yī fēng cháng cháng de xìn lái biǎo dá duō nián de sī niàn。",
+    "en": "She expresses years of longing through a long letter."
+   },
+   {
+    "zh": "我们可以用画图的方法来帮助记忆。",
+    "pinyin": "Wǒ men kě yǐ yòng huà tú de fāng fǎ lái bāng zhù jì yì。",
+    "en": "We can use drawing diagrams to aid memory."
+   },
+   {
+    "zh": "他靠自己的双手来创造美好的生活。",
+    "pinyin": "Tā kào zì jǐ de shuāng shǒu lái chuàng zào měi hǎo de shēng huó。",
+    "en": "He creates a good life with his own two hands."
+   },
+   {
+    "zh": "我们应该用宽容的心来对待别人的过错。",
+    "pinyin": "Wǒ men yīng gāi yòng kuān róng de xīn lái duì dài bié rén de guò cuò。",
+    "en": "We should treat others' mistakes with a tolerant heart."
+   },
+   {
+    "zh": "公司通过培训来提升员工的专业水平。",
+    "pinyin": "Gōng sī tōng guò péi xùn lái tí shēng yuán gōng de zhuān yè shuǐ píng。",
+    "en": "The company raises staff's professional level through training."
+   },
+   {
+    "zh": "他用一生的时间来守护这片古老的森林。",
+    "pinyin": "Tā yòng yī shēng de shí jiān lái shǒu hù zhè piàn gǔ lǎo de sēn lín。",
+    "en": "He devotes his whole life to guarding this ancient forest."
+   },
+   {
+    "zh": "我们要用真诚来打动客户,而不是靠花言巧语。",
+    "pinyin": "Wǒ men yào yòng zhēn chéng lái dǎ dòng kè hù, ér bú shì kào huā yán qiǎo yǔ。",
+    "en": "We should move clients with sincerity, not sweet talk."
+   },
+   {
+    "zh": "她通过坚持锻炼来保持健康和好心情。",
+    "pinyin": "Tā tōng guò jiān chí duàn liàn lái bǎo chí jiàn kāng hé hǎo xīn qíng。",
+    "en": "She stays healthy and cheerful through persistent exercise."
+   },
+   {
+    "zh": "他用节省下来的钱来资助贫困地区的孩子上学。",
+    "pinyin": "Tā yòng jié shěng xià lái de qián lái zī zhù pín kùn dì qū de hái zi shàng xué。",
+    "en": "He uses his saved money to help children in poor areas attend school."
+   },
+   {
+    "zh": "我们可以通过阅读来开阔自己的眼界。",
+    "pinyin": "Wǒ men kě yǐ tōng guò yuè dú lái kāi kuò zì jǐ de yǎn jiè。",
+    "en": "We can broaden our horizons through reading."
+   }
+  ]
+ },
+ {
+  "id": "g186",
+  "level": 3,
+  "title": "Ölçü sözcüğü ikilemesi (\"her biri\")",
+  "titleEn": "Reduplication of measure words",
+  "pattern": "Ölçü + Ölçü (MW-MW)",
+  "summary": "Bir ölçü sözcüğünü ikilemek \"her biri, istisnasız hepsi\" anlamı verir: 个个都很棒 = her biri harika; 天天锻炼 = her gün spor yapmak.",
+  "explanation": "Bir ölçü sözcüğünü (量词) ikilemek \"her bir, istisnasız hepsi\" anlamı verir ve çoğu zaman genellemede kullanılır: 个个 (her biri), 条条 (her bir), 家家 (her ev), 天天 (her gün), 年年 (her yıl), 人人 (herkes). İkilenmiş ölçü çoğu zaman öznedir ve yüklemden önce \"都\" ile pekişir: 他们个个都很聪明 (Her biri çok akıllı), 家家户户都挂上了灯笼 (Her ev fener astı). \"每 + ölçü\"ye (her) çok yakındır ama ikileme daha vurgulu, edebî bir \"istisnasız hepsi\" tonu taşır. Zaman ölçüleri (天/年) ikilenince \"her gün/her yıl\" düzenli tekrarı anlatır: 天天进步 (her gün ilerlemek). Türkçedeki \"her biri, her ..., istisnasız hepsi\" ifadelerine denk gelir; kapsayıcı bir genelleme yapmanın canlı bir yoludur.",
+  "examples": [
+   {
+    "zh": "我们班的同学个个都很努力,成绩一直不错。",
+    "pinyin": "Wǒ men bān de tóng xué gè gè dōu hěn nǔ lì, chéng jì yì zhí bù cuò。",
+    "en": "Every student in our class works hard; grades have stayed good."
+   },
+   {
+    "zh": "过年了,家家户户都贴上了红红的春联。",
+    "pinyin": "Guò nián le, jiā jiā hù hù dōu tiē shàng le hóng hóng de chūn lián。",
+    "en": "At New Year, every household put up red couplets."
+   },
+   {
+    "zh": "他天天坚持晨跑,身体越来越结实了。",
+    "pinyin": "Tā tiān tiān jiān chí chén pǎo, shēn tǐ yuè lái yuè jiē shí le。",
+    "en": "He runs every morning without fail and grows sturdier."
+   },
+   {
+    "zh": "这些孩子个个聪明伶俐,惹人喜爱。",
+    "pinyin": "Zhè xiē hái zi gè gè cōng míng líng lì, rě rén xǐ ài。",
+    "en": "Every one of these children is bright and lovable."
+   },
+   {
+    "zh": "这条街上的小店家家都有自己的特色。",
+    "pinyin": "Zhè tiáo jiē shàng de xiǎo diàn jiā jiā dōu yǒu zì jǐ de tè sè。",
+    "en": "Every little shop on this street has its own character."
+   },
+   {
+    "zh": "我们年年都回老家过春节,已经成了习惯。",
+    "pinyin": "Wǒ men nián nián dōu huí lǎo jiā guò chūn jié, yǐ jīng chéng le xí guàn。",
+    "en": "We return home for the Spring Festival every year; it's become a habit."
+   },
+   {
+    "zh": "展出的作品件件都是精品,让人赞叹不已。",
+    "pinyin": "Zhǎn chū de zuò pǐn jiàn jiàn dōu shì jīng pǐn, ràng rén zàn tàn bù yǐ。",
+    "en": "Every exhibited work is a masterpiece, drawing endless admiration."
+   },
+   {
+    "zh": "他讲的道理句句在理,大家都心服口服。",
+    "pinyin": "Tā jiǎng de dào lǐ jù jù zài lǐ, dà jiā dōu xīn fú kǒu fú。",
+    "en": "Every point he made was reasonable; everyone was convinced."
+   },
+   {
+    "zh": "这片果园里的苹果个个又大又红。",
+    "pinyin": "Zhè piàn guǒ yuán lǐ de píng guǒ gè gè yòu dà yòu hóng。",
+    "en": "Every apple in this orchard is big and red."
+   },
+   {
+    "zh": "这些年轻人人人都怀揣着自己的梦想。",
+    "pinyin": "Zhè xiē nián qīng rén rén rén dōu huái chuāi zhe zì jǐ de mèng xiǎng。",
+    "en": "Every one of these young people holds their own dream."
+   },
+   {
+    "zh": "秋天到了,山上的树叶片片都变成了金黄色。",
+    "pinyin": "Qiū tiān dào le, shān shàng de shù yè piàn piàn dōu biàn chéng le jīn huáng sè。",
+    "en": "Autumn came, and every leaf on the mountain turned golden."
+   },
+   {
+    "zh": "这次考试题题都不简单,考得大家直冒汗。",
+    "pinyin": "Zhè cì kǎo shì tí tí dōu bù jiǎn dān, kǎo de dà jiā zhí mào hàn。",
+    "en": "Every question on this exam was tough; everyone broke a sweat."
+   },
+   {
+    "zh": "他种的花盆盆都开得特别鲜艳。",
+    "pinyin": "Tā zhǒng de huā pén pén dōu kāi de tè bié xiān yàn。",
+    "en": "Every pot of flowers he grows blooms brilliantly."
+   },
+   {
+    "zh": "村里条条道路都通向那片金色的稻田。",
+    "pinyin": "Cūn lǐ tiáo tiáo dào lù dōu tōng xiàng nà piàn jīn sè de dào tián。",
+    "en": "Every road in the village leads to that golden rice field."
+   },
+   {
+    "zh": "这本书页页都写满了他的读书笔记。",
+    "pinyin": "Zhè běn shū yè yè dōu xiě mǎn le tā de dú shū bǐ jì。",
+    "en": "Every page of this book is filled with his reading notes."
+   },
+   {
+    "zh": "他天天早出晚归,就为了给家人更好的生活。",
+    "pinyin": "Tā tiān tiān zǎo chū wǎn guī, jiù wèi le gěi jiā rén gèng hǎo de shēng huó。",
+    "en": "He leaves early and returns late every day, all for his family's better life."
+   },
+   {
+    "zh": "参赛的选手个个身手不凡,比赛非常激烈。",
+    "pinyin": "Cān sài de xuǎn shǒu gè gè shēn shǒu bù fán, bǐ sài fēi cháng jī liè。",
+    "en": "Every contestant was highly skilled; the match was fierce."
+   },
+   {
+    "zh": "这条河两岸,家家都以打鱼为生。",
+    "pinyin": "Zhè tiáo hé liǎng àn, jiā jiā dōu yǐ dǎ yú wéi shēng。",
+    "en": "Along both banks of this river, every family lives by fishing."
+   },
+   {
+    "zh": "他记的账笔笔清楚,从来没有出过差错。",
+    "pinyin": "Tā jì de zhàng bǐ bǐ qīng chǔ, cóng lái méi yǒu chū guò chā cuò。",
+    "en": "Every entry in his accounts is clear; there's never been an error."
+   },
+   {
+    "zh": "春天一到,枝枝丫丫都冒出了嫩绿的新芽。",
+    "pinyin": "Chūn tiān yī dào, zhī zhī yā yā dōu mào chū le nèn lǜ de xīn yá。",
+    "en": "Once spring came, every branch sprouted tender green buds."
+   },
+   {
+    "zh": "这些运动员个个训练刻苦,为国争光。",
+    "pinyin": "Zhè xiē yùn dòng yuán gè gè xùn liàn kè kǔ, wèi guó zhēng guāng。",
+    "en": "Every athlete trains hard, bringing glory to the country."
+   },
+   {
+    "zh": "这里的居民人人都很热情,乐于助人。",
+    "pinyin": "Zhè lǐ de jū mín rén rén dōu hěn rè qíng, lè yú zhù rén。",
+    "en": "Every resident here is warm and glad to help."
+   },
+   {
+    "zh": "他年年被评为先进,是大家学习的榜样。",
+    "pinyin": "Tā nián nián bèi píng wéi xiān jìn, shì dà jiā xué xí de bǎng yàng。",
+    "en": "He's named outstanding every year, a model for all."
+   },
+   {
+    "zh": "这批产品件件都经过了严格的检查。",
+    "pinyin": "Zhè pī chǎn pǐn jiàn jiàn dōu jīng guò le yán gé de jiǎn chá。",
+    "en": "Every item in this batch passed strict inspection."
+   },
+   {
+    "zh": "孩子们个个都盼着假期快点到来。",
+    "pinyin": "Hái zi men gè gè dōu pàn zhe jià qī kuài diǎn dào lái。",
+    "en": "Every child looks forward to the holiday arriving soon."
+   }
+  ]
+ },
+ {
+  "id": "g187",
+  "level": 3,
+  "title": "\"之前/之后\" ile \"-den önce/sonra\"",
+  "titleEn": "Expressing \"before\" and \"after\" with \"zhiqian\" and \"zhihou\"",
+  "pattern": "Olay + 之前 / 之后，...",
+  "summary": "\"之前\" (önce) ve \"之后\" (sonra) bir olayın önündeki/sonrasındaki zamanı belirtir: 睡觉之前 = uyumadan önce; 下课之后 = dersten sonra.",
+  "explanation": "\"之前\" (\"...-den önce\") ve \"之后\" (\"...-den sonra\") bir zaman ya da olayın ARDINA gelip ondan önceki/sonraki dönemi belirtir: 吃饭之前 (yemekten önce), 毕业之后 (mezun olduktan sonra), 三年之前 (üç yıl önce). \"以前/以后\" ile hemen hemen aynı işlevdedir; \"之前/之后\" biraz daha RESMÎ/yazılı dile yakındır. Niteledikleri öbeğin ARKASINDA dururlar (Türkçenin aksine). Tek başına da kullanılabilirler: 之前我不知道 (Önceden bilmiyordum), 之后再联系 (Sonra görüşürüz). Bir olayın öncesini/sonrasını sıralarken, geçmiş/gelecek dönemleri belirtirken kullanılır. Türkçedeki \"...-den önce/sonra, öncesinde/sonrasında\" ifadelerine denk gelir; zaman sıralaması yapmanın temel yollarından biridir.",
+  "examples": [
+   {
+    "zh": "睡觉之前,他习惯看一会儿书,让自己放松下来。",
+    "pinyin": "Shuì jiào zhī qián, tā xí guàn kàn yī huì er shū, ràng zì jǐ fàng sōng xià lái。",
+    "en": "Before sleeping, he likes to read a while to relax."
+   },
+   {
+    "zh": "毕业之后,我们各奔东西,很久都没有再见面。",
+    "pinyin": "Bì yè zhī hòu, wǒ men gè bēn dōng xī, hěn jiǔ dōu méi yǒu zài jiàn miàn。",
+    "en": "After graduation, we went our separate ways and didn't meet for long."
+   },
+   {
+    "zh": "出发之前,请再检查一遍证件和行李。",
+    "pinyin": "Chū fā zhī qián, qǐng zài jiǎn chá yī biàn zhèng jiàn hé xíng lǐ。",
+    "en": "Before setting off, please check your documents and luggage again."
+   },
+   {
+    "zh": "搬到这个城市之后,他慢慢喜欢上了这里的生活。",
+    "pinyin": "Bān dào zhè ge chéng shì zhī hòu, tā màn màn xǐ huān shàng le zhè lǐ de shēng huó。",
+    "en": "After moving to this city, he gradually came to love life here."
+   },
+   {
+    "zh": "考试之前的那个晚上,他紧张得几乎没睡着。",
+    "pinyin": "Kǎo shì zhī qián de nà ge wǎn shàng, tā jǐn zhāng de jī hū méi shuì zháo。",
+    "en": "The night before the exam, he was so nervous he barely slept."
+   },
+   {
+    "zh": "下班之后,我打算去健身房锻炼一个小时。",
+    "pinyin": "Xià bān zhī hòu, wǒ dǎ suàn qù jiàn shēn fáng duàn liàn yí gè xiǎo shí。",
+    "en": "After work, I plan to exercise at the gym for an hour."
+   },
+   {
+    "zh": "结婚之前,他们已经认识了很多年。",
+    "pinyin": "Jié hūn zhī qián, tā men yǐ jīng rèn shí le hěn duō nián。",
+    "en": "Before getting married, they had known each other for many years."
+   },
+   {
+    "zh": "这件事发生之后,我才明白平安健康有多重要。",
+    "pinyin": "Zhè jiàn shì fā shēng zhī hòu, wǒ cái míng bái píng ān jiàn kāng yǒu duō zhòng yào。",
+    "en": "After this happened, I understood how precious health and safety are."
+   },
+   {
+    "zh": "做决定之前,你最好多听听不同的意见。",
+    "pinyin": "Zuò jué dìng zhī qián, nǐ zuì hǎo duō tīng tīng bù tóng de yì jiàn。",
+    "en": "Before deciding, you'd best hear different opinions."
+   },
+   {
+    "zh": "那次谈话之后,我们的关系亲近了许多。",
+    "pinyin": "Nà cì tán huà zhī hòu, wǒ men de guān xì qīn jìn le xǔ duō。",
+    "en": "After that conversation, our relationship grew much closer."
+   },
+   {
+    "zh": "天亮之前,渔船就已经陆续出海了。",
+    "pinyin": "Tiān liàng zhī qián, yú chuán jiù yǐ jīng lù xù chū hǎi le。",
+    "en": "Before dawn, the fishing boats had already set out one after another."
+   },
+   {
+    "zh": "退休之后,爷爷把大部分时间都花在了养花上。",
+    "pinyin": "Tuì xiū zhī hòu, yé yé bǎ dà bù fèn shí jiān dōu huā zài le yǎng huā shàng。",
+    "en": "After retiring, grandpa spent most of his time growing flowers."
+   },
+   {
+    "zh": "开会之前,大家把手机都调成了静音。",
+    "pinyin": "Kāi huì zhī qián, dà jiā bǎ shǒu jī dōu diào chéng le jìng yīn。",
+    "en": "Before the meeting, everyone set their phones to silent."
+   },
+   {
+    "zh": "这场大雨之后,天气一下子凉快了下来。",
+    "pinyin": "Zhè chǎng dà yǔ zhī hòu, tiān qì yī xià zi liáng kuài le xià lái。",
+    "en": "After this heavy rain, the weather suddenly cooled down."
+   },
+   {
+    "zh": "很久之前,这里还是一片荒凉的土地。",
+    "pinyin": "Hěn jiǔ zhī qián, zhè lǐ hái shì yī piàn huāng liáng de tǔ dì。",
+    "en": "Long ago, this was still a stretch of desolate land."
+   },
+   {
+    "zh": "吃药之后,你先躺一会儿,别马上出门。",
+    "pinyin": "Chī yào zhī hòu, nǐ xiān tǎng yī huì er, bié mǎ shàng chū mén。",
+    "en": "After taking the medicine, lie down a while; don't go out at once."
+   },
+   {
+    "zh": "离开家乡之后,他才真正体会到什么叫思念。",
+    "pinyin": "Lí kāi jiā xiāng zhī hòu, tā cái zhēn zhèng tǐ huì dào shén me jiào sī niàn。",
+    "en": "After leaving home, he truly understood what longing means."
+   },
+   {
+    "zh": "比赛之前,教练又把战术仔细地讲了一遍。",
+    "pinyin": "Bǐ sài zhī qián, jiào liàn yòu bǎ zhàn shù zǐ xì de jiǎng le yī biàn。",
+    "en": "Before the match, the coach explained the tactics carefully once more."
+   },
+   {
+    "zh": "看过这部电影之后,我久久不能平静。",
+    "pinyin": "Kàn guò zhè bù diàn yǐng zhī hòu, wǒ jiǔ jiǔ bù néng píng jìng。",
+    "en": "After watching this movie, I couldn't calm down for a long time."
+   },
+   {
+    "zh": "在那之前,我从来没想过自己能做到这些。",
+    "pinyin": "Zài nà zhī qián, wǒ cóng lái méi xiǎng guò zì jǐ néng zuò dào zhè xiē。",
+    "en": "Before that, I never thought I could accomplish these things."
+   },
+   {
+    "zh": "洗手之后再吃东西,这是最基本的卫生习惯。",
+    "pinyin": "Xǐ shǒu zhī hòu zài chī dōng xī, zhè shì zuì jī běn de wèi shēng xí guàn。",
+    "en": "Eat only after washing your hands; it's the most basic hygiene."
+   },
+   {
+    "zh": "生病之后,他更加注意自己的饮食和作息了。",
+    "pinyin": "Shēng bìng zhī hòu, tā gèng jiā zhù yì zì jǐ de yǐn shí hé zuò xī le。",
+    "en": "After falling ill, he paid more attention to his diet and routine."
+   },
+   {
+    "zh": "很多年之后,我依然清楚地记得那个夏天。",
+    "pinyin": "Hěn duō nián zhī hòu, wǒ yī rán qīng chǔ de jì de nà ge xià tiān。",
+    "en": "Many years later, I still clearly remember that summer."
+   },
+   {
+    "zh": "交作业之前,记得再仔细检查一下有没有错误。",
+    "pinyin": "Jiāo zuò yè zhī qián, jì de zài zǐ xì jiǎn chá yī xià yǒu méi yǒu cuò wù。",
+    "en": "Before handing in the homework, check again for mistakes."
+   },
+   {
+    "zh": "那件事之后,他好像变了一个人,成熟了许多。",
+    "pinyin": "Nà jiàn shì zhī hòu, tā hǎo xiàng biàn le yí gè rén, chéng shú le xǔ duō。",
+    "en": "After that event, he seemed a changed person, much more mature."
+   }
+  ]
+ },
+ {
+  "id": "g188",
+  "level": 3,
+  "title": "\"以来\" ile \"...-den beri\"",
+  "titleEn": "Expressing \"ever since\" with \"yilai\"",
+  "pattern": "Zaman / Olay + 以来，...",
+  "summary": "\"以来\" (yǐlái) geçmiş bir noktadan BUGÜNE kadar süren dönemi belirtir: 入学以来 = okula başladığımdan beri.",
+  "explanation": "\"以来\" geçmişteki bir başlangıç noktasından KONUŞMA ANINA kadar SÜREGELEN bir dönemi bildirir: \"...-den beri, ...-dan bu yana\". Bir zaman ya da olayın ARKASINA gelir: 入学以来 (okula başladığımdan beri), 改革开放以来 (reform ve açılımdan bu yana), 长期以来 (uzun zamandır), 三年以来 (üç yıldır). Belirtilen noktadan itibaren bugüne kadar geçen ve hâlâ ilgili olan süreyi vurgular; çoğu zaman o dönemde biriken bir durumu/değişimi anlatır: 认识他以来,我学到了很多 (Onu tanıdığımdan beri çok şey öğrendim). Genelde RESMÎ/yazılı dile yakındır. Başlangıç noktası bir zaman dilimi ya da olay olabilir. Türkçedeki \"...-den beri, ...-dan bu yana, ...-dığından beri\" ifadelerine denk gelir; süregelen bir dönemi vurgulamada kullanılır.",
+  "examples": [
+   {
+    "zh": "入学以来,他的进步非常大,老师都很欣慰。",
+    "pinyin": "Rù xué yǐ lái, tā de jìn bù fēi cháng dà, lǎo shī dōu hěn xīn wèi。",
+    "en": "Since enrolling, he's made great progress; the teachers are pleased."
+   },
+   {
+    "zh": "认识你以来,我的生活发生了很多美好的变化。",
+    "pinyin": "Rèn shí nǐ yǐ lái, wǒ de shēng huó fā shēng le hěn duō měi hǎo de biàn huà。",
+    "en": "Ever since I met you, my life has seen many wonderful changes."
+   },
+   {
+    "zh": "长期以来,这里的居民一直保持着淳朴的风俗。",
+    "pinyin": "Cháng qī yǐ lái, zhè lǐ de jū mín yì zhí bǎo chí zhe chún pǔ de fēng sú。",
+    "en": "For a long time, the residents here have kept their simple customs."
+   },
+   {
+    "zh": "自从搬来这个小区以来,我们和邻居相处得很好。",
+    "pinyin": "Zì cóng bān lái zhè ge xiǎo qū yǐ lái, wǒ men hé lín jū xiāng chǔ de hěn hǎo。",
+    "en": "Ever since moving to this neighborhood, we've gotten on well with neighbors."
+   },
+   {
+    "zh": "参加工作以来,他从没请过一天病假。",
+    "pinyin": "Cān jiā gōng zuò yǐ lái, tā cóng méi qǐng guò yī tiān bìng jià。",
+    "en": "Since starting work, he's never taken a single sick day."
+   },
+   {
+    "zh": "入冬以来,这座城市已经下了好几场大雪。",
+    "pinyin": "Rù dōng yǐ lái, zhè zuò chéng shì yǐ jīng xià le hǎo jǐ chǎng dà xuě。",
+    "en": "Since winter began, this city has had several heavy snows."
+   },
+   {
+    "zh": "开业以来,这家小店的生意一直很红火。",
+    "pinyin": "Kāi yè yǐ lái, zhè jiā xiǎo diàn de shēng yì yì zhí hěn hóng huǒ。",
+    "en": "Since opening, this little shop's business has been thriving."
+   },
+   {
+    "zh": "学习汉语以来,我对中国文化越来越感兴趣了。",
+    "pinyin": "Xué xí hàn yǔ yǐ lái, wǒ duì zhōng guó wén huà yuè lái yuè gǎn xìng qù le。",
+    "en": "Since learning Chinese, I've grown more and more interested in its culture."
+   },
+   {
+    "zh": "有记忆以来,爷爷家门口那棵老槐树就一直在那儿。",
+    "pinyin": "Yǒu jì yì yǐ lái, yé yé jiā mén kǒu nà kē lǎo huái shù jiù yì zhí zài nà ér。",
+    "en": "For as long as I can remember, that old locust tree has stood by grandpa's door."
+   },
+   {
+    "zh": "这项政策实施以来,大家的生活方便了不少。",
+    "pinyin": "Zhè xiàng zhèng cè shí shī yǐ lái, dà jiā de shēng huó fāng biàn le bù shǎo。",
+    "en": "Since this policy took effect, life has become much more convenient."
+   },
+   {
+    "zh": "担任队长以来,他把整个团队带得越来越好。",
+    "pinyin": "Dān rèn duì zhǎng yǐ lái, tā bǎ zhěng gè tuán duì dài de yuè lái yuè hǎo。",
+    "en": "Since becoming captain, he's led the whole team to improve steadily."
+   },
+   {
+    "zh": "很久以来,人们就一直梦想着能够飞上天空。",
+    "pinyin": "Hěn jiǔ yǐ lái, rén men jiù yì zhí mèng xiǎng zhe néng gòu fēi shàng tiān kōng。",
+    "en": "For a long time, people have dreamed of flying into the sky."
+   },
+   {
+    "zh": "毕业以来,我们几个老同学一直保持着联系。",
+    "pinyin": "Bì yè yǐ lái, wǒ men jǐ gè lǎo tóng xué yì zhí bǎo chí zhe lián xì。",
+    "en": "Since graduation, we old classmates have kept in touch."
+   },
+   {
+    "zh": "入夏以来,天气一天比一天热,大家都很少出门。",
+    "pinyin": "Rù xià yǐ lái, tiān qì yī tiān bǐ yī tiān rè, dà jiā dōu hěn shǎo chū mén。",
+    "en": "Since summer began, the weather gets hotter daily and people rarely go out."
+   },
+   {
+    "zh": "自从戒烟以来,他的身体状况明显好转了。",
+    "pinyin": "Zì cóng jiè yān yǐ lái, tā de shēn tǐ zhuàng kuàng míng xiǎn hǎo zhuǎn le。",
+    "en": "Ever since quitting smoking, his health has clearly improved."
+   },
+   {
+    "zh": "这家公司成立以来,始终把产品质量放在第一位。",
+    "pinyin": "Zhè jiā gōng sī chéng lì yǐ lái, shǐ zhōng bǎ chǎn pǐn zhì liàng fàng zài dì yī wèi。",
+    "en": "Since its founding, this company has always put quality first."
+   },
+   {
+    "zh": "生病以来,他更加珍惜和家人在一起的时光。",
+    "pinyin": "Shēng bìng yǐ lái, tā gèng jiā zhēn xī hé jiā rén zài yì qǐ de shí guāng。",
+    "en": "Since falling ill, he cherishes time with family even more."
+   },
+   {
+    "zh": "有史以来,人类从未停止过对未知世界的探索。",
+    "pinyin": "Yǒu shǐ yǐ lái, rén lèi cóng wèi tíng zhǐ guò duì wèi zhī shì jiè de tàn suǒ。",
+    "en": "Throughout history, humans have never stopped exploring the unknown."
+   },
+   {
+    "zh": "接手这个项目以来,他几乎没有休息过一个完整的周末。",
+    "pinyin": "Jiē shǒu zhè ge xiàng mù yǐ lái, tā jī hū méi yǒu xiū xī guò yí gè wán zhěng de zhōu mò。",
+    "en": "Since taking on this project, he's hardly had a full weekend off."
+   },
+   {
+    "zh": "入春以来,公园里的游人明显多了起来。",
+    "pinyin": "Rù chūn yǐ lái, gōng yuán lǐ de yóu rén míng xiǎn duō le qǐ lái。",
+    "en": "Since spring began, park visitors have noticeably increased."
+   },
+   {
+    "zh": "认识这位老师以来,我懂得了很多做人的道理。",
+    "pinyin": "Rèn shí zhè wèi lǎo shī yǐ lái, wǒ dǒng de le hěn duō zuò rén de dào lǐ。",
+    "en": "Since meeting this teacher, I've learned many principles of life."
+   },
+   {
+    "zh": "这座桥建成以来,大大方便了两岸居民的往来。",
+    "pinyin": "Zhè zuò qiáo jiàn chéng yǐ lái, dà dà fāng biàn le liǎng àn jū mín de wǎng lái。",
+    "en": "Since this bridge was built, it's greatly eased travel between the two banks."
+   },
+   {
+    "zh": "自从当了妈妈以来,她的生活重心完全变了。",
+    "pinyin": "Zì cóng dāng le mā mā yǐ lái, tā de shēng huó zhòng xīn wán quán biàn le。",
+    "en": "Ever since becoming a mother, her life's focus has completely shifted."
+   },
+   {
+    "zh": "长期以来,他一直默默地资助着山区的贫困学生。",
+    "pinyin": "Cháng qī yǐ lái, tā yì zhí mò mò de zī zhù zhe shān qū de pín kùn xué shēng。",
+    "en": "For a long time, he's quietly funded poor students in the mountains."
+   },
+   {
+    "zh": "搬进新家以来,一家人的心情都特别舒畅。",
+    "pinyin": "Bān jìn xīn jiā yǐ lái, yī jiā rén de xīn qíng dōu tè bié shū chàng。",
+    "en": "Since moving into the new home, the whole family has felt at ease."
+   }
+  ]
+ },
+ {
+  "id": "g189",
+  "level": 3,
+  "title": "\"时\" ile \"...-dığı zaman\" (resmî)",
+  "titleEn": "Expressing \"when\" with \"shi\"",
+  "pattern": "Zaman / Olay + 时",
+  "summary": "\"时\" (shí) bir öbeğin sonuna gelip \"...-dığı zaman, ...-ırken\" anlamı verir: 离开时 = ayrılırken. \"的时候\"nun daha kısa/resmî biçimidir.",
+  "explanation": "\"时\" bir eylem ya da zaman öbeğinin SONUNA gelip \"...-dığı zaman, ...-ırken, ...-ınca\" anlamı verir: 出门时 (çıkarken), 年轻时 (gençken), 遇到困难时 (zorlukla karşılaşınca). Konuşma dilindeki \"的时候\" ile aynı işlevi görür ama \"时\" daha KISA, RESMÎ ve yazılı dile ait bir biçimdir; çoğu zaman iki heceli ya da daha uzun öbeklerin ardında kullanılır. Niteledikleri öbeğin arkasında yer alır. Bir olayın ne zaman gerçekleştiğini gösteren bir zaman belirteci öbeği kurar. Resmî yazılarda, atasözlerinde, ilan ve uyarılarda çok kullanılır: 使用时请注意安全 (Kullanırken güvenliğe dikkat edin). Türkçedeki \"...-dığı zaman, ...-ırken, ...-ınca\" ifadelerine denk gelir; \"的时候\"nun daha derli toplu, resmî eşdeğeridir.",
+  "examples": [
+   {
+    "zh": "离开家乡时,他回头望了很久,眼里满是不舍。",
+    "pinyin": "Lí kāi jiā xiāng shí, tā huí tóu wàng le hěn jiǔ, yǎn lǐ mǎn shì bù shě。",
+    "en": "Leaving his hometown, he looked back long, his eyes full of reluctance."
+   },
+   {
+    "zh": "使用这台机器时,请务必先阅读说明书。",
+    "pinyin": "Shǐ yòng zhè tái jī qì shí, qǐng wù bì xiān yuè dú shuō míng shū。",
+    "en": "When using this machine, please be sure to read the manual first."
+   },
+   {
+    "zh": "年轻时,他曾经怀揣着改变世界的梦想。",
+    "pinyin": "Nián qīng shí, tā céng jīng huái chuāi zhe gǎi biàn shì jiè de mèng xiǎng。",
+    "en": "In his youth, he once held the dream of changing the world."
+   },
+   {
+    "zh": "遇到困难时,不要慌张,冷静下来总能找到办法。",
+    "pinyin": "Yù dào kùn nán shí, bú yào huāng zhāng, lěng jìng xià lái zǒng néng zhǎo dào bàn fǎ。",
+    "en": "When facing difficulties, don't panic; calm down and you'll find a way."
+   },
+   {
+    "zh": "过马路时,一定要注意来往的车辆。",
+    "pinyin": "Guò mǎ lù shí, yí dìng yào zhù yì lái wǎng de chē liàng。",
+    "en": "When crossing the road, be sure to watch for passing vehicles."
+   },
+   {
+    "zh": "他说这句话时,语气里带着一丝无奈。",
+    "pinyin": "Tā shuō zhè jù huà shí, yǔ qì lǐ dài zhe yī sī wú nài。",
+    "en": "When he said this, there was a hint of helplessness in his tone."
+   },
+   {
+    "zh": "下雨时,这条山路会变得非常泥泞难走。",
+    "pinyin": "Xià yǔ shí, zhè tiáo shān lù huì biàn de fēi cháng ní nìng nán zǒu。",
+    "en": "When it rains, this mountain path becomes muddy and hard to walk."
+   },
+   {
+    "zh": "填写表格时,请用正楷字,字迹要清楚。",
+    "pinyin": "Tián xiě biǎo gé shí, qǐng yòng zhèng kǎi zì, zì jì yào qīng chǔ。",
+    "en": "When filling in the form, please use block letters and write clearly."
+   },
+   {
+    "zh": "告别时,大家都依依不舍,约定以后常联系。",
+    "pinyin": "Gào bié shí, dà jiā dōu yī yī bù shě, yuē dìng yǐ hòu cháng lián xì。",
+    "en": "When parting, everyone was reluctant, promising to keep in touch."
+   },
+   {
+    "zh": "休息时,他喜欢泡一杯茶,静静地看会儿书。",
+    "pinyin": "Xiū xī shí, tā xǐ huān pào yī bēi chá, jìng jìng de kàn huì er shū。",
+    "en": "During breaks, he likes to make a cup of tea and read quietly."
+   },
+   {
+    "zh": "小时候贪玩,长大后才知道读书的重要。",
+    "pinyin": "Xiǎo shí hòu tān wán, zhǎng dà hòu cái zhī dào dú shū de zhòng yào。",
+    "en": "Playful as a child, only when grown did he learn the value of study."
+   },
+   {
+    "zh": "上下楼梯时请扶好扶手,注意脚下安全。",
+    "pinyin": "Shàng xià lóu tī shí qǐng fú hǎo fú shǒu, zhù yì jiǎo xià ān quán。",
+    "en": "When going up or down stairs, hold the rail and mind your step."
+   },
+   {
+    "zh": "回想起当年的情景时,老人的脸上露出了微笑。",
+    "pinyin": "Huí xiǎng qǐ dāng nián de qíng jǐng shí, lǎo rén de liǎn shàng lù chū le wēi xiào。",
+    "en": "Recalling the scene of those years, the old man smiled."
+   },
+   {
+    "zh": "外出旅行时,记得随身带好身份证件。",
+    "pinyin": "Wài chū lǚ xíng shí, jì de suí shēn dài hǎo shēn fèn zhèng jiàn。",
+    "en": "When traveling, remember to carry your identification with you."
+   },
+   {
+    "zh": "困难时,是朋友们的帮助让我重新有了信心。",
+    "pinyin": "Kùn nán shí, shì péng yǒu men de bāng zhù ràng wǒ chóng xīn yǒu le xìn xīn。",
+    "en": "In hard times, it was friends' help that restored my confidence."
+   },
+   {
+    "zh": "签合同时,一定要把每一条款都看仔细。",
+    "pinyin": "Qiān hé tóng shí, yí dìng yào bǎ měi yī tiáo kuǎn dōu kàn zǐ xì。",
+    "en": "When signing a contract, read every clause carefully."
+   },
+   {
+    "zh": "他伤心时,总喜欢一个人到海边走一走。",
+    "pinyin": "Tā shāng xīn shí, zǒng xǐ huān yí gè rén dào hǎi biān zǒu yī zǒu。",
+    "en": "When sad, he always likes to walk alone by the sea."
+   },
+   {
+    "zh": "使用电器时,手上有水千万不要去触碰开关。",
+    "pinyin": "Shǐ yòng diàn qì shí, shǒu shàng yǒu shuǐ qiān wàn bú yào qù chù pèng kāi guān。",
+    "en": "When using appliances, never touch switches with wet hands."
+   },
+   {
+    "zh": "讲课时,老师总是尽量用简单的例子来说明。",
+    "pinyin": "Jiǎng kè shí, lǎo shī zǒng shì jǐn liàng yòng jiǎn dān de lì zi lái shuō míng。",
+    "en": "When lecturing, the teacher always uses simple examples to explain."
+   },
+   {
+    "zh": "紧急情况发生时,请保持冷静,听从工作人员指挥。",
+    "pinyin": "Jǐn jí qíng kuàng fā shēng shí, qǐng bǎo chí lěng jìng, tīng cóng gōng zuò rén yuán zhǐ huī。",
+    "en": "In an emergency, stay calm and follow the staff's instructions."
+   },
+   {
+    "zh": "年少时立下的志向,他一直记在心里,从未忘记。",
+    "pinyin": "Nián shào shí lì xià de zhì xiàng, tā yì zhí jì zài xīn lǐ, cóng wèi wàng jì。",
+    "en": "The ambition he set in youth, he's kept in mind, never forgetting."
+   },
+   {
+    "zh": "吃饭时最好不要一直看手机,对消化不好。",
+    "pinyin": "Chī fàn shí zuì hǎo bù yào yì zhí kàn shǒu jī, duì xiāo huà bù hǎo。",
+    "en": "When eating, best not stare at your phone; it's bad for digestion."
+   },
+   {
+    "zh": "整理旧物时,我意外地发现了那封久违的信。",
+    "pinyin": "Zhěng lǐ jiù wù shí, wǒ yì wài dì fā xiàn le nà fēng jiǔ wéi de xìn。",
+    "en": "Sorting old things, I unexpectedly found that long-lost letter."
+   },
+   {
+    "zh": "演讲时,他自信从容,赢得了阵阵掌声。",
+    "pinyin": "Yǎn jiǎng shí, tā zì xìn cóng róng, yíng de le zhèn zhèn zhǎng shēng。",
+    "en": "During the speech, he was confident and composed, winning rounds of applause."
+   },
+   {
+    "zh": "每当夜深人静时,他就会想起远方的亲人。",
+    "pinyin": "Měi dāng yè shēn rén jìng shí, tā jiù huì xiǎng qǐ yuǎn fāng de qīn rén。",
+    "en": "Whenever the night is deep and quiet, he thinks of his distant family."
+   }
+  ]
  }
 ]

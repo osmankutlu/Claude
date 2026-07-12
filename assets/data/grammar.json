@@ -51270,5 +51270,685 @@
     "en": "The old man beamed ear to ear, praising his clever grandson to all."
    }
   ]
+ },
+ {
+  "id": "g378",
+  "level": 4,
+  "title": "İleri olabilirlik tümleçleri (\"得/不\")",
+  "titleEn": "Advanced potential complements",
+  "pattern": "Fiil + 得 / 不 + Sonuç/Yön tümleci",
+  "summary": "\"得/不\" fiil ile tümleç arasına girip \"yapabilmek/yapamamak\" bildirir: 这么多菜我吃不完 = Bu kadar yemeği bitiremem.",
+  "explanation": "OLABİLİRLİK TÜMLEÇLERİ, bir eylemin sonucuna ULAŞILABİLİR mi ulaşılamaz mı olduğunu, fiil ile sonuç/yön tümleci ARASINA \"得\" (olabilir) ya da \"不\" (olamaz) koyarak bildirir: \"...-ebilmek / ...-ememek\". Kalıp: fiil + 得/不 + tümleç. 这么多东西,我一个人拿不了 (Bu kadar şeyi tek başıma taşıyamam), 声音太小,我听不清 (Ses çok kısık, net duyamıyorum), 这道菜太多了,我吃不完 (Bu yemek çok fazla, bitiremem), 天太黑,我看不见 (Hava çok karanlık, göremiyorum), 时间还早,赶得上那班车 (Vakit erken, o otobüse yetişebiliriz). Sık kullanılan kalıplaşmış olabilirlik tümleçleri: 吃得/不下 (yiyebilmek/yiyememek), 看得/不见 (görebilmek), 听得/不懂 (anlayabilmek), 买得/不起 (alım gücü yetmek), 来得/不及 (yetişebilmek), 受得/不了 (dayanabilmek), 想得/不到 (aklına gelmek). Olumsuzu (不) günlük konuşmada çok yaygındır; olumlusu (得) daha çok soru ve olumlu yanıtlarda geçer. Bu yapı, yeterlilik bildiren \"能\"den farklı olarak, eylemin SONUCUNA fiziksel/nesnel olarak ulaşılıp ulaşılamadığını vurgular. Türkçedeki \"...-ebilmek / ...-ememek\" yeterlik ekine denk gelir.",
+  "examples": [
+   {
+    "zh": "这么多的行李,我一个人怎么也拿不动,你来搭把手吧。",
+    "pinyin": "Zhè me duō de xíng lǐ, wǒ yí gè rén zěn me yě ná bù dòng, nǐ lái dā bǎ shǒu ba。",
+    "en": "I can't carry all this luggage alone; come lend a hand."
+   },
+   {
+    "zh": "他说话声音太小了,坐在后排的我根本听不清楚。",
+    "pinyin": "Tā shuō huà shēng yīn tài xiǎo le, zuò zài hòu pái de wǒ gēn běn tīng bù qīng chǔ。",
+    "en": "He spoke too softly; from the back row I couldn't hear clearly."
+   },
+   {
+    "zh": "桌上这么多菜,我们两个人无论如何也吃不完。",
+    "pinyin": "Zhuō shàng zhè me duō cài, wǒ men liǎng gè rén wú lùn rú hé yě chī bù wán。",
+    "en": "With so many dishes, the two of us can't possibly finish them."
+   },
+   {
+    "zh": "字太小了,我不戴眼镜实在看不清上面写的是什么。",
+    "pinyin": "Zì tài xiǎo le, wǒ bù dài yǎn jìng shí zài kàn bù qīng shàng miàn xiě de shì shén me。",
+    "en": "The print's too small; without glasses I can't read it."
+   },
+   {
+    "zh": "这本专业书太深奥,没有基础的人恐怕看不懂。",
+    "pinyin": "Zhè běn zhuān yè shū tài shēn ào, méi yǒu jī chǔ de rén kǒng pà kàn bù dǒng。",
+    "en": "This technical book is too deep; a novice can't understand it."
+   },
+   {
+    "zh": "那套房子的价格太高了,凭我现在的收入根本买不起。",
+    "pinyin": "Nà tào fáng zi de jià gé tài gāo le, píng wǒ xiàn zài de shōu rù gēn běn mǎi bù qǐ。",
+    "en": "That flat is too pricey; on my income I can't afford it."
+   },
+   {
+    "zh": "再不出发就来不及了,末班车马上就要开走了。",
+    "pinyin": "Zài bù chū fā jiù lái bù jí le, mò bān chē mǎ shàng jiù yào kāi zǒu le。",
+    "en": "If we don't leave now we'll be too late; the last bus is going."
+   },
+   {
+    "zh": "这么吵的环境,我实在受不了,咱们换个地方吧。",
+    "pinyin": "Zhè me chǎo de huán jìng, wǒ shí zài shòu bù liǎo, zán men huàn gè dì fāng ba。",
+    "en": "I can't stand such a noisy place; let's move elsewhere."
+   },
+   {
+    "zh": "真没想到,这么普通的一句话竟然帮了我这么大的忙。",
+    "pinyin": "Zhēn méi xiǎng dào, zhè me pǔ tōng de yī jù huà jìng rán bāng le wǒ zhè me dà de máng。",
+    "en": "I never imagined such a plain remark would help me so much."
+   },
+   {
+    "zh": "箱子塞得太满了,盖子怎么也盖不上。",
+    "pinyin": "Xiāng zi sāi de tài mǎn le, gài zi zěn me yě gài bù shàng。",
+    "en": "The box is too full; the lid just won't close."
+   },
+   {
+    "zh": "外面天太黑,又没有路灯,前面的路我根本看不见。",
+    "pinyin": "Wài miàn tiān tài hēi, yòu méi yǒu lù dēng, qián miàn de lù wǒ gēn běn kàn bú jiàn。",
+    "en": "It's too dark outside with no lamps; I can't see the road ahead."
+   },
+   {
+    "zh": "这道题绕来绕去的,我想了半天也想不明白。",
+    "pinyin": "Zhè dào tí rào lái rào qù de, wǒ xiǎng le bàn tiān yě xiǎng bù míng bái。",
+    "en": "This problem twists around; I puzzled long but couldn't get it."
+   },
+   {
+    "zh": "他讲的是方言,我一句也听不懂,只好请人翻译。",
+    "pinyin": "Tā jiǎng de shì fāng yán, wǒ yī jù yě tīng bù dǒng, zhǐ hǎo qǐng rén fān yì。",
+    "en": "He spoke dialect I couldn't follow, so I had it translated."
+   },
+   {
+    "zh": "那么高的架子,个子矮的我怎么也够不着。",
+    "pinyin": "Nà me gāo de jià zi, gè zi ǎi de wǒ zěn me yě gòu bù zhe。",
+    "en": "That shelf is so high; short as I am, I just can't reach it."
+   },
+   {
+    "zh": "这么重的担子,压得他几乎直不起腰来。",
+    "pinyin": "Zhè me zhòng de dàn zi, yā de tā jī hū zhí bù qǐ yāo lái。",
+    "en": "The load was so heavy he could barely straighten his back."
+   },
+   {
+    "zh": "时间还很充裕,慢慢走也赶得上开场。",
+    "pinyin": "Shí jiān hái hěn chōng yù, màn màn zǒu yě gǎn de shàng kāi chǎng。",
+    "en": "There's plenty of time; even at a stroll we'll make the opening."
+   },
+   {
+    "zh": "这种细微的差别,不仔细看的话根本分辨不出来。",
+    "pinyin": "Zhè zhǒng xì wēi de chā bié, bù zǐ xì kàn de huà gēn běn fèn biàn bù chū lái。",
+    "en": "Such a subtle difference can't be told without a careful look."
+   },
+   {
+    "zh": "屋里挤了这么多人,连转个身都转不开。",
+    "pinyin": "Wū lǐ jǐ le zhè me duō rén, lián zhuǎn gè shēn dōu zhuǎn bù kāi。",
+    "en": "So many people crammed in that one couldn't even turn around."
+   },
+   {
+    "zh": "这些年过去了,当年的很多事我早就记不清了。",
+    "pinyin": "Zhè xiē nián guò qù le, dāng nián de hěn duō shì wǒ zǎo jiù jì bù qīng le。",
+    "en": "Years have passed; much of back then I can no longer recall."
+   },
+   {
+    "zh": "他躲得再快,也逃不过大家雪亮的眼睛。",
+    "pinyin": "Tā duǒ de zài kuài, yě táo bù guò dà jiā xuě liàng de yǎn jīng。",
+    "en": "However fast he dodges, he can't escape everyone's sharp eyes."
+   },
+   {
+    "zh": "这么远的距离,就算大声喊,他也听不见。",
+    "pinyin": "Zhè me yuǎn de jù lí, jiù suàn dà shēng hǎn, tā yě tīng bú jiàn。",
+    "en": "At such a distance, even shouting loud he wouldn't hear."
+   },
+   {
+    "zh": "这顿饭我已经吃得很饱了,一口也吃不下了。",
+    "pinyin": "Zhè dùn fàn wǒ yǐ jīng chī de hěn bǎo le, yī kǒu yě chī bù xià le。",
+    "en": "I'm already stuffed; I can't eat another bite."
+   },
+   {
+    "zh": "你放心,凭他的本事,这点小事一定办得成。",
+    "pinyin": "Nǐ fàng xīn, píng tā de běn shì, zhè diǎn xiǎo shì yí dìng bàn de chéng。",
+    "en": "Rest assured, with his skill this small task can be done."
+   },
+   {
+    "zh": "那件事来得太突然,谁也没料到会是这样的结果。",
+    "pinyin": "Nà jiàn shì lái de tài tū rán, shuí yě méi liào dào huì shì zhè yàng de jié guǒ。",
+    "en": "It came so suddenly; no one foresaw such an outcome."
+   },
+   {
+    "zh": "这么厚的一本书,一个星期我怎么也读不完。",
+    "pinyin": "Zhè me hòu de yī běn shū, yí gè xīng qī wǒ zěn me yě dú bù wán。",
+    "en": "Such a thick book — I can't finish it in a week no matter what."
+   }
+  ]
+ },
+ {
+  "id": "g379",
+  "level": 4,
+  "title": "İleri sonuç tümleçleri: \"住 / 开 / 出来\"",
+  "titleEn": "Advanced result complements \"zhu\", \"kai\", and \"chulai\"",
+  "pattern": "Fiil + 住 / 开 / 出来",
+  "summary": "Bu sonuç tümleçleri eylemin sonucunu belirtir: 记住 (aklında tutmak), 打开 (açmak), 认出来 (tanımak).",
+  "explanation": "İleri SONUÇ TÜMLEÇLERİ olan \"住\", \"开\" ve \"出来\" bir fiile eklenip eylemin ulaştığı özel sonucu bildirir. (1) \"住\" (zhù): bir şeyin SABİTLENDİĞİNİ, tutulduğunu, yerinde kaldığını gösterir — 记住 (aklında tutmak/ezberlemek), 抓住 (sıkıca yakalamak), 站住 (durmak/dur!), 停住 (durup kalmak), 忍不住 (kendini tutamamak). (2) \"开\" (kāi): AÇILMA, ayrılma, dağılma ya da bir yerin boşalmasını gösterir — 打开 (açmak), 分开 (ayırmak), 走开 (çekip gitmek), 想开 (kafaya takmamak), 睁开 (göz açmak), 散开 (dağılmak). (3) \"出来\" (chūlai): gizli/belirsiz bir şeyin ORTAYA ÇIKMASINI, ayırt edilmesini ya da üretilmesini gösterir — 认出来 (tanımak), 看出来 (fark etmek/anlamak), 听出来 (sesinden anlamak), 想出来 (bir fikir bulmak), 做出来 (yapıp ortaya çıkarmak). Bu tümleçler olabilirlik biçimine de girer: 记得住/记不住, 打得开/打不开, 看得出来/看不出来. Her biri eylemin somut bir sonucunu — tutunma, açılma ya da belirme — canlı biçimde ekler. Türkçeye her tümleç kendi anlamıyla (\"tutmak, açmak, ortaya çıkarmak\") çevrilir.",
+  "examples": [
+   {
+    "zh": "老师讲的这几个重点,你们一定要牢牢地记住。",
+    "pinyin": "Lǎo shī jiǎng de zhè jǐ gè zhòng diǎn, nǐ men yí dìng yào láo láo de jì zhù。",
+    "en": "Be sure to firmly remember these key points the teacher gave."
+   },
+   {
+    "zh": "他一把抓住了差点从桌上滑下去的杯子。",
+    "pinyin": "Tā yī bǎ zhuā zhù le chà diǎn cóng zhuō shàng huá xià qù de bēi zi。",
+    "en": "He grabbed the cup just as it was sliding off the table."
+   },
+   {
+    "zh": "请你站住,你的钱包掉在地上了,快捡起来。",
+    "pinyin": "Qǐng nǐ zhàn zhù, nǐ de qián bāo diào zài de shàng le, kuài jiǎn qǐ lái。",
+    "en": "Stop please — your wallet dropped on the floor; pick it up."
+   },
+   {
+    "zh": "听到这个笑话,他忍不住哈哈大笑了起来。",
+    "pinyin": "Tīng dào zhè ge xiào huà, tā rěn bú zhù hā hā dà xiào le qǐ lái。",
+    "en": "At the joke, he couldn't help bursting into laughter."
+   },
+   {
+    "zh": "天气太热了,他一进门就打开了所有的窗户。",
+    "pinyin": "Tiān qì tài rè le, tā yī jìn mén jiù dǎ kāi le suǒ yǒu de chuāng hù。",
+    "en": "It was so hot he opened all the windows the moment he came in."
+   },
+   {
+    "zh": "这两个双胞胎长得太像,我实在分不开谁是谁。",
+    "pinyin": "Zhè liǎng gè shuāng bāo tāi zhǎng de tài xiàng, wǒ shí zài fēn bù kāi shuí shì shuí。",
+    "en": "The twins look so alike I truly can't tell them apart."
+   },
+   {
+    "zh": "你别老站在这儿挡路,快走开让大家过去。",
+    "pinyin": "Nǐ bié lǎo zhàn zài zhè ér dǎng lù, kuài zǒu kāi ràng dà jiā guò qù。",
+    "en": "Don't block the way; step aside and let people pass."
+   },
+   {
+    "zh": "这件事已经过去了,你就想开点,别再放在心上。",
+    "pinyin": "Zhè jiàn shì yǐ jīng guò qù le, nǐ jiù xiǎng kāi diǎn, bié zài fàng zài xīn shàng。",
+    "en": "It's over now; take it easy and don't dwell on it."
+   },
+   {
+    "zh": "即使他化了妆,我还是一眼就把他认了出来。",
+    "pinyin": "Jí shǐ tā huà le zhuāng, wǒ hái shì yī yǎn jiù bǎ tā rèn le chū lái。",
+    "en": "Even in makeup, I recognized him at a glance."
+   },
+   {
+    "zh": "从他的语气里,我听出来他其实并不情愿。",
+    "pinyin": "Cóng tā de yǔ qì lǐ, wǒ tīng chū lái tā qí shí bìng bù qíng yuàn。",
+    "en": "From his tone I could tell he was actually unwilling."
+   },
+   {
+    "zh": "大家一起动脑筋,终于想出来一个两全其美的办法。",
+    "pinyin": "Dà jiā yì qǐ dòng nǎo jīn, zhōng yú xiǎng chū lái yí gè liǎng quán qí měi de bàn fǎ。",
+    "en": "Putting our heads together, we finally came up with a win-win idea."
+   },
+   {
+    "zh": "这么复杂的机器,他居然一个人把它修好了。",
+    "pinyin": "Zhè me fù zá de jī qì, tā jū rán yí gè rén bǎ tā xiū hǎo le。",
+    "en": "Such a complex machine, and he fixed it all by himself."
+   },
+   {
+    "zh": "你脸色这么难看,我一看就看出来你身体不舒服。",
+    "pinyin": "Nǐ liǎn sè zhè me nán kàn, wǒ yī kàn jiù kàn chū lái nǐ shēn tǐ bù shū fú。",
+    "en": "You look so pale; I could tell at once you're unwell."
+   },
+   {
+    "zh": "请大家排好队,不要挤,一个一个慢慢来。",
+    "pinyin": "Qǐng dà jiā pái hǎo duì, bú yào jǐ, yí gè yí gè màn màn lái。",
+    "en": "Please line up and don't push; one at a time, slowly."
+   },
+   {
+    "zh": "孩子紧紧抓住妈妈的衣角,怎么也不肯松开。",
+    "pinyin": "Hái zi jǐn jǐn zhuā zhù mā mā de yī jiǎo, zěn me yě bù kěn sōng kāi。",
+    "en": "The child clutched Mom's hem tightly, refusing to let go."
+   },
+   {
+    "zh": "这个瓶盖拧得太紧了,我怎么也打不开。",
+    "pinyin": "Zhè ge píng gài níng de tài jǐn le, wǒ zěn me yě dǎ bù kāi。",
+    "en": "This bottle cap is screwed on so tight I can't open it."
+   },
+   {
+    "zh": "天刚亮,他就睁开眼睛,开始了新一天的忙碌。",
+    "pinyin": "Tiān gāng liàng, tā jiù zhēng kāi yǎn jīng, kāi shǐ le xīn yī tiān de máng lù。",
+    "en": "At dawn he opened his eyes and began another busy day."
+   },
+   {
+    "zh": "时间太久了,他的名字我怎么也记不住。",
+    "pinyin": "Shí jiān tài jiǔ le, tā de míng zì wǒ zěn me yě jì bú zhù。",
+    "en": "It's been too long; I just can't remember his name."
+   },
+   {
+    "zh": "散会以后,人群很快就从广场上散开了。",
+    "pinyin": "Sàn huì yǐ hòu, rén qún hěn kuài jiù cóng guǎng chǎng shàng sàn kāi le。",
+    "en": "After the meeting, the crowd soon dispersed from the square."
+   },
+   {
+    "zh": "他手艺真好,一块普通的木头也能做出精美的工艺品。",
+    "pinyin": "Tā shǒu yì zhēn hǎo, yī kuài pǔ tōng de mù tou yě néng zuò chū jīng měi de gōng yì pǐn。",
+    "en": "His skill is superb; from plain wood he crafts fine artwork."
+   },
+   {
+    "zh": "警察大喊一声站住,那个人却撒腿就跑。",
+    "pinyin": "Jǐng chá dà hǎn yī shēng zhàn zhù, nà ge rén què sā tuǐ jiù pǎo。",
+    "en": "The officer shouted 'Stop!' but the man bolted away."
+   },
+   {
+    "zh": "你把两件事分开来处理,思路就会清楚很多。",
+    "pinyin": "Nǐ bǎ liǎng jiàn shì fēn kāi lái chǔ lǐ, sī lù jiù huì qīng chǔ hěn duō。",
+    "en": "Handle the two matters separately and your thinking clears up."
+   },
+   {
+    "zh": "这幅画藏了不少细节,不仔细看还真看不出来。",
+    "pinyin": "Zhè fú huà cáng le bù shǎo xì jié, bù zǐ xì kàn hái zhēn kàn bù chū lái。",
+    "en": "The painting hides many details you'd miss without a close look."
+   },
+   {
+    "zh": "他强忍着泪水,却怎么也控制不住地流了下来。",
+    "pinyin": "Tā qiáng rěn zhe lèi shuǐ, què zěn me yě kòng zhì bú zhù de liú le xià lái。",
+    "en": "He fought back tears, but they streamed down beyond control."
+   },
+   {
+    "zh": "经过反复试验,他们终于把这种新材料研制了出来。",
+    "pinyin": "Jīng guò fǎn fù shì yàn, tā men zhōng yú bǎ zhè zhǒng xīn cái liào yán zhì le chū lái。",
+    "en": "After repeated trials, they finally developed the new material."
+   }
+  ]
+ },
+ {
+  "id": "g380",
+  "level": 4,
+  "title": "İleri yön tümleci \"起来\"nin kullanımları",
+  "titleEn": "Advanced uses of direction complement \"-qilai\"",
+  "pattern": "Fiil / Sıfat + 起来",
+  "summary": "\"起来\" başlama, toplama ya da \"...-ınca\" değerlendirmesi bildirir: 大家笑了起来 = Herkes gülmeye başladı; 说起来容易 = Söylemesi kolay.",
+  "explanation": "\"起来\" (qǐlai) temel \"yukarı doğru\" yön anlamının (站起来 ayağa kalkmak) ötesinde birçok MECAZİ işlev kazanır. (1) BAŞLAMA ve sürme: bir eylem/durumun başlayıp devam etmesi — 孩子们唱起歌来 (Çocuklar şarkı söylemeye başladı), 天突然下起雨来 (Birden yağmur başladı), 大家热烈地讨论起来 (Herkes hararetle tartışmaya koyuldu). (2) TOPLAMA/bir araya getirme, kapatma: dağınık olanı birleştirmek ya da saklamak — 把东西收起来 (Eşyaları topla/kaldır), 大家团结起来 (Herkes birleşsin), 把秘密藏起来 (Sırrı sakla). (3) DEĞERLENDİRME \"...-ınca/...-dığında\": bir eylem açısından bakıldığında nasıl olduğunu belirtir — 这件事说起来容易,做起来难 (Bu iş söylemesi kolay, yapması zor), 这道菜闻起来很香 (Bu yemek koklayınca mis gibi), 看起来他今天心情不错 (Görünüşe göre bugün keyfi yerinde). (4) HATIRLAMA/fark etme: 我想起来了 (Hatırladım!), 这才想起来还有件事没办 (Bir işi daha yapmadığım aklıma geldi). Bu kullanımlar \"起来\"yi Çincenin en çok yönlü tümleçlerinden biri yapar. Türkçeye bağlama göre \"...-maya başlamak, toplamak/kaldırmak, ...-ınca (görününce/koklayınca), aklına gelmek\" olarak çevrilir.",
+  "examples": [
+   {
+    "zh": "听到熟悉的旋律,孩子们不由自主地跟着唱了起来。",
+    "pinyin": "Tīng dào shú xī de xuán lǜ, hái zi men bù yóu zì zhǔ de gēn zhe chàng le qǐ lái。",
+    "en": "Hearing the familiar tune, the children began singing along."
+   },
+   {
+    "zh": "刚才还晴朗的天空,忽然下起了瓢泼大雨。",
+    "pinyin": "Gāng cái hái qíng lǎng de tiān kōng, hū rán xià qǐ le piáo pō dà yǔ。",
+    "en": "The sky, clear a moment ago, suddenly poured with rain."
+   },
+   {
+    "zh": "大家围坐在一起,热热闹闹地聊起了家常。",
+    "pinyin": "Dà jiā wéi zuò zài yì qǐ, rè rè nào nào de liáo qǐ le jiā cháng。",
+    "en": "Everyone sat around and chatted merrily about daily life."
+   },
+   {
+    "zh": "请你把桌上的书本收起来,我们要开始考试了。",
+    "pinyin": "Qǐng nǐ bǎ zhuō shàng de shū běn shōu qǐ lái, wǒ men yào kāi shǐ kǎo shì le。",
+    "en": "Please put away the books; we're about to start the exam."
+   },
+   {
+    "zh": "只有大家团结起来,才能战胜眼前的困难。",
+    "pinyin": "Zhǐ yǒu dà jiā tuán jié qǐ lái, cái néng zhàn shèng yǎn qián de kùn nán。",
+    "en": "Only by uniting can we overcome the difficulty before us."
+   },
+   {
+    "zh": "他悄悄把那封信藏了起来,不想让任何人看到。",
+    "pinyin": "Tā qiāo qiāo bǎ nà fēng xìn cáng le qǐ lái, bù xiǎng ràng rèn hé rén kàn dào。",
+    "en": "He quietly hid the letter, wanting no one to see it."
+   },
+   {
+    "zh": "这件事说起来容易,可真正做起来却困难重重。",
+    "pinyin": "Zhè jiàn shì shuō qǐ lái róng yì, kě zhēn zhèng zuò qǐ lái què kùn nán chóng chóng。",
+    "en": "This is easy to say but riddled with difficulty to do."
+   },
+   {
+    "zh": "刚出锅的包子闻起来香喷喷的,让人食欲大开。",
+    "pinyin": "Gāng chū guō de bāo zi wén qǐ lái xiāng pēn pēn de, ràng rén shí yù dà kāi。",
+    "en": "The fresh buns smelled so good they whetted the appetite."
+   },
+   {
+    "zh": "看起来他今天心情很不错,一直笑呵呵的。",
+    "pinyin": "Kàn qǐ lái tā jīn tiān xīn qíng hěn bú cuò, yì zhí xiào hē hē de。",
+    "en": "He seemed in a fine mood today, smiling all the while."
+   },
+   {
+    "zh": "你这么一提醒,我才想起来还有件事没办呢。",
+    "pinyin": "Nǐ zhè me yī tí xǐng, wǒ cái xiǎng qǐ lái hái yǒu jiàn shì méi bàn ne。",
+    "en": "Your reminder made me recall there's still something undone."
+   },
+   {
+    "zh": "讲台上的老师一激动,声音不知不觉高了起来。",
+    "pinyin": "Jiǎng tái shàng de lǎo shī yī jī dòng, shēng yīn bù zhī bù jué gāo le qǐ lái。",
+    "en": "Excited, the teacher's voice rose without her noticing."
+   },
+   {
+    "zh": "天气渐渐暖和起来,公园里的花也都开了。",
+    "pinyin": "Tiān qì jiàn jiàn nuǎn huo qǐ lái, gōng yuán lǐ de huā yě dōu kāi le。",
+    "en": "The weather gradually warmed, and the park flowers all bloomed."
+   },
+   {
+    "zh": "把这些零散的资料整理起来,查找就方便多了。",
+    "pinyin": "Bǎ zhè xiē líng sǎn de zī liào zhěng lǐ qǐ lái, chá zhǎo jiù fāng biàn duō le。",
+    "en": "Sorting these scattered materials makes searching much easier."
+   },
+   {
+    "zh": "这道菜看起来普通,吃起来却别有一番风味。",
+    "pinyin": "Zhè dào cài kàn qǐ lái pǔ tōng, chī qǐ lái què bié yǒu yī fān fēng wèi。",
+    "en": "The dish looks plain but tastes uniquely flavorful."
+   },
+   {
+    "zh": "听他这么一说,大家紧张的心情才慢慢放松了下来。",
+    "pinyin": "Tīng tā zhè me yī shuō, dà jiā jǐn zhāng de xīn qíng cái màn màn fàng sōng le xià lái。",
+    "en": "At his words, everyone's tense mood slowly eased."
+   },
+   {
+    "zh": "孩子一见到妈妈,委屈得当场哭了起来。",
+    "pinyin": "Hái zi yī jiàn dào mā mā, wěi qū de dàng chǎng kū le qǐ lái。",
+    "en": "The moment the child saw Mom, he burst into aggrieved tears."
+   },
+   {
+    "zh": "这个箱子提起来沉甸甸的,里面一定装了不少东西。",
+    "pinyin": "Zhè ge xiāng zi tí qǐ lái chén diàn diàn de, lǐ miàn yí dìng zhuāng le bù shǎo dōng xī。",
+    "en": "This box feels heavy to lift; it must hold a lot."
+   },
+   {
+    "zh": "回想起来,那段艰苦的日子反而最令人怀念。",
+    "pinyin": "Huí xiǎng qǐ lái, nà duàn jiān kǔ de rì zi fǎn ér zuì lìng rén huái niàn。",
+    "en": "Looking back, those hard days are the most missed of all."
+   },
+   {
+    "zh": "大雪一停,孩子们立刻在院子里堆起了雪人。",
+    "pinyin": "Dà xuě yī tíng, hái zi men lì kè zài yuàn zi lǐ duī qǐ le xuě rén。",
+    "en": "The moment the snow stopped, the kids built a snowman in the yard."
+   },
+   {
+    "zh": "这几个方案比较起来,还是第一个更切合实际。",
+    "pinyin": "Zhè jǐ gè fāng àn bǐ jiào qǐ lái, hái shì dì yí gè gèng qiè hé shí jì。",
+    "en": "Compared together, the first plan is the most practical."
+   },
+   {
+    "zh": "他把多年的积蓄一点一点地攒了起来。",
+    "pinyin": "Tā bǎ duō nián de jī xù yì diǎn yì diǎn de zǎn le qǐ lái。",
+    "en": "He saved up his earnings bit by bit over the years."
+   },
+   {
+    "zh": "这台旧收音机修好后,居然又能正常响起来了。",
+    "pinyin": "Zhè tái jiù shōu yīn jī xiū hǎo hòu, jū rán yòu néng zhèng cháng xiǎng qǐ lái le。",
+    "en": "After repair, the old radio could actually play again."
+   },
+   {
+    "zh": "说起小时候的趣事,爷爷立刻来了精神,滔滔不绝。",
+    "pinyin": "Shuō qǐ xiǎo shí hòu de qù shì, yé yé lì kè lái le jīng shén, tāo tāo bù jué。",
+    "en": "At tales of childhood, Grandpa perked up and talked on and on."
+   },
+   {
+    "zh": "远远看起来那座山不高,爬起来才知道有多累。",
+    "pinyin": "Yuǎn yuǎn kàn qǐ lái nà zuò shān bù gāo, pá qǐ lái cái zhī dào yǒu duō lèi。",
+    "en": "From afar the hill looks low; only climbing reveals its toll."
+   },
+   {
+    "zh": "大家动手把散落一地的书本重新摆放整齐起来。",
+    "pinyin": "Dà jiā dòng shǒu bǎ sàn luò yī de de shū běn chóng xīn bǎi fàng zhěng qí qǐ lái。",
+    "en": "Everyone pitched in to tidy the books scattered on the floor."
+   }
+  ]
+ },
+ {
+  "id": "g381",
+  "level": 4,
+  "title": "\"...坏了\" tümleci ile \"aşırı derecede\"",
+  "titleEn": "Complement \"-huai le\"",
+  "pattern": "Fiil / Sıfat + 坏了",
+  "summary": "\"坏了\" bir duyguyu/durumu abartarak \"aşırı, ölesiye\" anlamı verir: 饿坏了 = açlıktan ölmek üzere; 累坏了 = bitkin düşmek.",
+  "explanation": "\"坏了\" (huài le) bir duygu ya da fiziksel durum bildiren sözcüğün ardına gelip onun EN UÇ, dayanılmaz noktaya ulaştığını abartıyla bildirir: \"aşırı derecede ..., ölesiye ..., ...-den ... olmak, bitkin/perişan\". Kalıp: sıfat/fiil + 坏了. 我快饿坏了,一天没吃东西了 (Açlıktan ölmek üzereyim, bütün gün bir şey yemedim), 这几天可把我累坏了 (Bu günler beni bitkin düşürdü), 孩子找不到妈妈,急坏了 (Çocuk annesini bulamayınca telaştan perişan oldu), 听到这个好消息,大家高兴坏了 (Bu güzel haberi duyunca herkes sevincinden uçtu), 这么大的雨,可把我们淋坏了 (Bu yağmur bizi sırılsıklam etti). \"坏了\" özellikle 饿/渴/累/急/吓/乐/高兴/气 gibi durum sözcükleriyle kalıplaşır ve derecenin dayanılmaz olduğunu, kişiyi \"bozacak/yıpratacak\" kadar aşırı olduğunu vurgular. \"极了/死了/得很\" gibi aşırı-derece belirteçleriyle aynı işi görür ama \"坏了\" bir yıpranma/bitkinlik tonu taşır. (Not: \"坏了\" ayrıca gerçek anlamda \"bozuldu\" da demektir: 电视坏了.) Türkçedeki \"aşırı derecede, ölesiye, bitkin, ...-den perişan olmak\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "忙活了一整天,到了晚上,我们几个都累坏了。",
+    "pinyin": "Máng huó le yī zhěng tiān, dào le wǎn shàng, wǒ men jǐ gè dōu lèi huài le。",
+    "en": "After a whole day's toil, by evening we were all worn out."
+   },
+   {
+    "zh": "孩子在商场里找不到妈妈,当时就吓坏了。",
+    "pinyin": "Hái zi zài shāng chǎng lǐ zhǎo bú dào mā mā, dāng shí jiù xià huài le。",
+    "en": "Unable to find Mom in the mall, the child was scared stiff."
+   },
+   {
+    "zh": "走了这么远的路,又没带水,我都快渴坏了。",
+    "pinyin": "Zǒu le zhè me yuǎn de lù, yòu méi dài shuǐ, wǒ dōu kuài kě huài le。",
+    "en": "After such a long walk with no water, I'm parched to death."
+   },
+   {
+    "zh": "听说儿子考上了名校,一家人都高兴坏了。",
+    "pinyin": "Tīng shuō ér zi kǎo shàng le míng xiào, yī jiā rén dōu gāo xìng huài le。",
+    "en": "Hearing the son got into a top school, the family was overjoyed."
+   },
+   {
+    "zh": "他等了整整三个小时也没等到人,急坏了。",
+    "pinyin": "Tā děng le zhěng zhěng sān gè xiǎo shí yě méi děng dào rén, jí huài le。",
+    "en": "He waited a full three hours in vain and grew frantic."
+   },
+   {
+    "zh": "这几天连着加班,可把大家给累坏了。",
+    "pinyin": "Zhè jǐ tiān lián zhe jiā bān, kě bǎ dà jiā gěi lèi huài le。",
+    "en": "Days of back-to-back overtime left everyone exhausted."
+   },
+   {
+    "zh": "一天没顾上吃饭,回到家我已经饿坏了。",
+    "pinyin": "Yī tiān méi gù shàng chī fàn, huí dào jiā wǒ yǐ jīng è huài le。",
+    "en": "Too busy to eat all day, I got home starving."
+   },
+   {
+    "zh": "突然听到身后一声巨响,他吓坏了,差点摔倒。",
+    "pinyin": "Tū rán tīng dào shēn hòu yī shēng jù xiǎng, tā xià huài le, chà diǎn shuāi dǎo。",
+    "en": "A sudden loud bang behind him gave him a terrible fright."
+   },
+   {
+    "zh": "看到孙子平安回来,老人激动得乐坏了。",
+    "pinyin": "Kàn dào sūn zi píng ān huí lái, lǎo rén jī dòng de lè huài le。",
+    "en": "Seeing his grandson home safe, the old man was thrilled to bits."
+   },
+   {
+    "zh": "这么冷的天在外面站了半天,可把他冻坏了。",
+    "pinyin": "Zhè me lěng de tiān zài wài miàn zhàn le bàn tiān, kě bǎ tā dòng huài le。",
+    "en": "Standing out in such cold for hours left him chilled through."
+   },
+   {
+    "zh": "孩子丢了心爱的玩具,伤心坏了,哭个不停。",
+    "pinyin": "Hái zi diū le xīn ài de wán jù, shāng xīn huài le, kū gè bù tíng。",
+    "en": "Losing his favorite toy, the child was heartbroken and wept on."
+   },
+   {
+    "zh": "那件事把她气坏了,一整天都没露出笑脸。",
+    "pinyin": "Nà jiàn shì bǎ tā qì huài le, yī zhěng tiān dōu méi lù chū xiào liǎn。",
+    "en": "That matter infuriated her; she didn't smile all day."
+   },
+   {
+    "zh": "盼星星盼月亮,总算把他给盼回来了,家人乐坏了。",
+    "pinyin": "Pàn xīng xīng pàn yuè liàng, zǒng suàn bǎ tā gěi pàn huí lái le, jiā rén lè huài le。",
+    "en": "After long yearning, he finally returned, and the family rejoiced."
+   },
+   {
+    "zh": "大热天里搬了一下午家具,把两个小伙子热坏了。",
+    "pinyin": "Dà rè tiān lǐ bān le yī xià wǔ jiā jù, bǎ liǎng gè xiǎo huǒ zi rè huài le。",
+    "en": "Moving furniture on a hot afternoon left the two lads sweltering."
+   },
+   {
+    "zh": "听说要去游乐园,孩子们兴奋坏了,一晚上没睡好。",
+    "pinyin": "Tīng shuō yào qù yóu lè yuán, hái zi men xīng fèn huài le, yī wǎn shàng méi shuì hǎo。",
+    "en": "Told they'd go to the park, the kids were too excited to sleep."
+   },
+   {
+    "zh": "暴雨突然袭来,没带伞的行人都被淋坏了。",
+    "pinyin": "Bào yǔ tū rán xí lái, méi dài sǎn de xíng rén dōu bèi lín huài le。",
+    "en": "A sudden downpour drenched the pedestrians without umbrellas."
+   },
+   {
+    "zh": "接连几天的坏消息,可把这一家人愁坏了。",
+    "pinyin": "Jiē lián jǐ tiān de huài xiāo xī, kě bǎ zhè yī jiā rén chóu huài le。",
+    "en": "Days of bad news left the family worried sick."
+   },
+   {
+    "zh": "比赛赢了以后,全队上下都激动得乐坏了。",
+    "pinyin": "Bǐ sài yíng le yǐ hòu, quán duì shàng xià dōu jī dòng de lè huài le。",
+    "en": "After winning, the whole team was beside itself with joy."
+   },
+   {
+    "zh": "孩子发着高烧,一家人急坏了,连夜送去了医院。",
+    "pinyin": "Hái zi fā zhe gāo shāo, yī jiā rén jí huài le, lián yè sòng qù le yī yuàn。",
+    "en": "The child ran a high fever; the anxious family rushed him to hospital."
+   },
+   {
+    "zh": "这么重的担子挑了一路,肩膀都快压坏了。",
+    "pinyin": "Zhè me zhòng de dàn zi tiāo le yī lù, jiān bǎng dōu kuài yā huài le。",
+    "en": "Carrying such a heavy load all the way nearly crushed his shoulders."
+   },
+   {
+    "zh": "好几天没睡个囫囵觉,他整个人都困坏了。",
+    "pinyin": "Hǎo jǐ tiān méi shuì gè hú lún jué, tā zhěng gè rén dōu kùn huài le。",
+    "en": "After nights without proper sleep, he was utterly drowsy."
+   },
+   {
+    "zh": "听到那个突如其来的噩耗,她当场就懵坏了。",
+    "pinyin": "Tīng dào nà ge tū rú qí lái de è hào, tā dāng chǎng jiù měng huài le。",
+    "en": "At the sudden dreadful news, she was stunned on the spot."
+   },
+   {
+    "zh": "孩子第一次坐过山车,又刺激又害怕,吓坏了。",
+    "pinyin": "Hái zi dì yī cì zuò guò shān chē, yòu cì jī yòu hài pà, xià huài le。",
+    "en": "On his first roller coaster, the child was thrilled and terrified."
+   },
+   {
+    "zh": "在太阳底下暴晒了一天,几个工人都晒坏了。",
+    "pinyin": "Zài tài yáng dǐ xià pù shài le yī tiān, jǐ gè gōng rén dōu shài huài le。",
+    "en": "A day baking in the sun left the workers scorched."
+   },
+   {
+    "zh": "久别的老友突然登门,可把他给惊喜坏了。",
+    "pinyin": "Jiǔ bié de lǎo yǒu tū rán dēng mén, kě bǎ tā gěi jīng xǐ huài le。",
+    "en": "A long-lost friend's sudden visit delighted and surprised him."
+   }
+  ]
+ },
+ {
+  "id": "g382",
+  "level": 4,
+  "title": "\"...着\" (zháo) tümleci ile sonuca ulaşma",
+  "titleEn": "Complement \"-zhao\"",
+  "pattern": "Fiil + 着 (zháo)",
+  "summary": "\"着\" (zháo) bir eylemin amacına ulaştığını bildirir: 找着了 = bulundu; 睡着了 = uykuya daldı.",
+  "explanation": "Sonuç tümleci \"着\" (zháo okunur, süreklilik eki \"着\" zhe'den FARKLIDIR) bir eylemin AMACINA/hedefine ULAŞTIĞINI, istenen sonucun gerçekleştiğini bildirir: 找着了 (bulundu — arama başarılı oldu), 睡着了 (uykuya daldı), 买着了 (bulup satın alabildi), 猜着了 (doğru tahmin etti), 点着了 (yandı/tutuştu), 打着了 (çalıştırabildi). Olabilirlik biçimi de vardır: 睡得着/睡不着 (uyuyabilmek/uyuyamamak), 找得着/找不着 (bulabilmek/bulamamak), 买得着/买不着 (bulup alabilmek). \"着\" özellikle bir çabanın SONUÇ verip vermediğini vurgular — eylem yapıldı ama hedefe ulaşıldı mı? 我昨晚怎么也睡不着 (Dün gece bir türlü uyuyamadım), 这种老唱片现在买不着了 (Bu eski plaklar artık bulunmuyor), 火柴受潮了,怎么也划不着 (Kibrit nemlenmiş, bir türlü yanmıyor). \"到\" ile yakındır (找到/找着 ikisi de \"bulmak\") ama \"着\" daha konuşma dilidir ve özellikle 睡着, 点着 gibi kalıplarda yerleşiktir. Türkçeye eylemin başarıya ulaşması olarak (\"bulabilmek, uyuyabilmek, tutuşmak\") çevrilir.",
+  "examples": [
+   {
+    "zh": "忙了一整天,他一挨到枕头就睡着了。",
+    "pinyin": "Máng le yī zhěng tiān, tā yī āi dào zhěn tou jiù shuì zháo le。",
+    "en": "After a busy day, he fell asleep the moment his head hit the pillow."
+   },
+   {
+    "zh": "我把整个房间都翻遍了,总算找着了那把钥匙。",
+    "pinyin": "Wǒ bǎ zhěng gè fáng jiān dōu fān biàn le, zǒng suàn zhǎo zháo le nà bǎ yào shi。",
+    "en": "I turned the whole room over and finally found the key."
+   },
+   {
+    "zh": "这种老式的零件,现在在市面上很难买着了。",
+    "pinyin": "Zhè zhǒng lǎo shì de líng jiàn, xiàn zài zài shì miàn shàng hěn nán mǎi zhe le。",
+    "en": "Such old-style parts are hard to find on the market now."
+   },
+   {
+    "zh": "谜底一公布,原来他早就猜着了,大家都很佩服。",
+    "pinyin": "Mí dǐ yī gōng bù, yuán lái tā zǎo jiù cāi zháo le, dà jiā dōu hěn pèi fú。",
+    "en": "When the answer came, he'd guessed right; all admired him."
+   },
+   {
+    "zh": "火柴受了潮,他划了好几下也没能划着。",
+    "pinyin": "Huǒ chái shòu le cháo, tā huà le hǎo jǐ xià yě méi néng huà zhe。",
+    "en": "The matches were damp; he struck several times without a light."
+   },
+   {
+    "zh": "昨晚心里有事,我翻来覆去怎么也睡不着。",
+    "pinyin": "Zuó wǎn xīn lǐ yǒu shì, wǒ fān lái fù qù zěn me yě shuì bù zhe。",
+    "en": "With something on my mind, I tossed all night and couldn't sleep."
+   },
+   {
+    "zh": "孩子把灯笼里的蜡烛小心地点着了。",
+    "pinyin": "Hái zi bǎ dēng lóng lǐ de là zhú xiǎo xīn dì diǎn zháo le。",
+    "en": "The child carefully lit the candle inside the lantern."
+   },
+   {
+    "zh": "走失的小狗找了三天,今天终于失而复得地找着了。",
+    "pinyin": "Zǒu shī de xiǎo gǒu zhǎo le sān tiān, jīn tiān zhōng yú shī ér fù de de zhǎo zháo le。",
+    "en": "The lost puppy, sought three days, was finally found today."
+   },
+   {
+    "zh": "这么吵的地方,我根本睡不着,只好换了个房间。",
+    "pinyin": "Zhè me chǎo de dì fāng, wǒ gēn běn shuì bù zhe, zhǐ hǎo huàn le gè fáng jiān。",
+    "en": "In such a noisy place I couldn't sleep, so I changed rooms."
+   },
+   {
+    "zh": "他运气真好,排了不到十分钟就买着了最后一张票。",
+    "pinyin": "Tā yùn qì zhēn hǎo, pái le bú dào shí fēn zhōng jiù mǎi zhe le zuì hòu yī zhāng piào。",
+    "en": "Lucky him — under ten minutes in line and he got the last ticket."
+   },
+   {
+    "zh": "天太黑,手电筒又坏了,回家的路怎么也看不着。",
+    "pinyin": "Tiān tài hēi, shǒu diàn tǒng yòu huài le, huí jiā de lù zěn me yě kàn bù zhe。",
+    "en": "It was dark and the torch broke; he couldn't see the way home."
+   },
+   {
+    "zh": "那本绝版的旧书,他跑遍全城也没能买着。",
+    "pinyin": "Nà běn jué bǎn de jiù shū, tā pǎo biàn quán chéng yě méi néng mǎi zhe。",
+    "en": "That out-of-print book — he scoured the city but couldn't get it."
+   },
+   {
+    "zh": "炉子里的火终于点着了,屋子渐渐暖和了起来。",
+    "pinyin": "Lú zi lǐ de huǒ zhōng yú diǎn zháo le, wū zi jiàn jiàn nuǎn huo le qǐ lái。",
+    "en": "The stove finally caught fire, and the room slowly warmed."
+   },
+   {
+    "zh": "他心事重重,一连几个晚上都没能好好睡着。",
+    "pinyin": "Tā xīn shì chóng chóng, yī lián jǐ gè wǎn shàng dōu méi néng hǎo hǎo shuì zháo。",
+    "en": "Weighed by worries, he couldn't sleep well for several nights."
+   },
+   {
+    "zh": "这个问题看似简单,可谁也没能一下子猜着答案。",
+    "pinyin": "Zhè ge wèn tí kàn shì jiǎn dān, kě shuí yě méi néng yī xià zi cāi zháo dá àn。",
+    "en": "The question looked simple, yet no one guessed the answer at once."
+   },
+   {
+    "zh": "那家小店的手工点心,去晚了可就买不着了。",
+    "pinyin": "Nà jiā xiǎo diàn de shǒu gōng diǎn xīn, qù wǎn le kě jiù mǎi bù zhe le。",
+    "en": "The shop's handmade snacks sell out if you go late."
+   },
+   {
+    "zh": "孩子玩累了,靠在妈妈怀里不知不觉就睡着了。",
+    "pinyin": "Hái zi wán lèi le, kào zài mā mā huái lǐ bù zhī bù jué jiù shuì zháo le。",
+    "en": "Tired from play, the child dozed off in Mom's arms."
+   },
+   {
+    "zh": "潮湿的柴火怎么也点不着,急得他满头大汗。",
+    "pinyin": "Cháo shī de chái huǒ zěn me yě diǎn bù zhe, jí de tā mǎn tóu dà hán。",
+    "en": "The damp firewood wouldn't light, leaving him sweating with worry."
+   },
+   {
+    "zh": "多亏你提醒,我才在人群里一眼就找着了他。",
+    "pinyin": "Duō kuī nǐ tí xǐng, wǒ cái zài rén qún lǐ yī yǎn jiù zhǎo zháo le tā。",
+    "en": "Thanks to your tip, I spotted him at once in the crowd."
+   },
+   {
+    "zh": "这种稀有的药材,一般的药店根本买不着。",
+    "pinyin": "Zhè zhǒng xī yǒu de yào cái, yì bān de yào diàn gēn běn mǎi bù zhe。",
+    "en": "Such rare medicinal herbs aren't found in ordinary pharmacies."
+   },
+   {
+    "zh": "他一宿没合眼,直到天快亮才勉强睡着。",
+    "pinyin": "Tā yī xiǔ méi hé yǎn, zhí dào tiān kuài liàng cái miǎn qiǎng shuì zháo。",
+    "en": "He didn't shut his eyes all night, dozing off only near dawn."
+   },
+   {
+    "zh": "野外露营,他们费了好大劲才把篝火点着。",
+    "pinyin": "Yě wài lù yíng, tā men fèi le hǎo dà jìn cái bǎ gōu huǒ diǎn zháo。",
+    "en": "Camping in the wild, they struggled hard to light the bonfire."
+   },
+   {
+    "zh": "我把电话打过去,可怎么也联系不着他本人。",
+    "pinyin": "Wǒ bǎ diàn huà dǎ guò qù, kě zěn me yě lián xì bù zhe tā běn rén。",
+    "en": "I called over, but couldn't reach him in person at all."
+   },
+   {
+    "zh": "这么重要的资料,幸好最后还是被我们找着了。",
+    "pinyin": "Zhè me zhòng yào de zī liào, xìng hǎo zuì hòu hái shì bèi wǒ men zhǎo zháo le。",
+    "en": "Such vital data — luckily we found it in the end."
+   },
+   {
+    "zh": "天气一凉,他晚上总是很快就能睡着了。",
+    "pinyin": "Tiān qì yī liáng, tā wǎn shàng zǒng shì hěn kuài jiù néng shuì zháo le。",
+    "en": "Once the weather cooled, he fell asleep quickly at night."
+   }
+  ]
  }
 ]

@@ -56710,5 +56710,685 @@
     "en": "Restless, after retiring he often fixes things for neighbors, happily."
    }
   ]
+ },
+ {
+  "id": "g418",
+  "level": 4,
+  "title": "\"再\" ile \"又\" farkı (tekrar)",
+  "titleEn": "Comparing \"zai\" and \"you\"",
+  "pattern": "再 (gelecek tekrar) / 又 (geçmiş tekrar)",
+  "summary": "\"再\" henüz olmamış bir tekrarı, \"又\" olmuş bir tekrarı bildirir: 明天再来 / 他又来了。",
+  "explanation": "\"再\" ve \"又\" ikisi de \"yine, tekrar, bir daha\" anlamına gelir ama ZAMAN yönelimleri zıttır. \"再\" (zài) henüz GERÇEKLEŞMEMİŞ, GELECEKteki ya da istenen bir tekrarı bildirir: 你明天再来吧 (Yarın yine gel), 请再说一遍 (Lütfen bir daha söyle), 喝完这杯再走 (Bunu bitir de öyle git), 以后别再迟到了 (Bir daha geç kalma). \"又\" (yòu) ise zaten GERÇEKLEŞMİŞ, GEÇMİŞteki bir tekrarı bildirir: 他昨天又迟到了 (Dün yine geç kaldı), 你怎么又来了? (Yine mi geldin?), 这个月又下了好几场雨 (Bu ay yine birkaç kez yağmur yağdı). Kısacası: gelecekteki/gerçekleşmemiş tekrar → 再; geçmişteki/gerçekleşmiş tekrar → 又. Bu yüzden \"再\" çoğu zaman emir, istek, koşul cümlelerinde; \"又\" ise \"了\" ile biten, olmuş bir olayı anlatan cümlelerde geçer. İstisnalar: kesin olacak gelecek olaylarda \"又\" kullanılabilir (明天又是星期一了 = Yarın yine pazartesi); ayrıca \"又\" iki durumu birlikte sıralar (又高又大 = hem uzun hem büyük) — bu ayrı bir kullanımdır. Türkçedeki \"yine/bir daha (再: gelecek)\" ile \"yine (又: geçmiş)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "这本书很有意思,看完以后我打算再读一遍。",
+    "pinyin": "Zhè běn shū hěn yǒu yì si, kàn wán yǐ hòu wǒ dǎ suàn zài dú yī biàn。",
+    "en": "The book is interesting; I plan to read it again after finishing."
+   },
+   {
+    "zh": "他昨天迟到了,没想到今天又迟到了。",
+    "pinyin": "Tā zuó tiān chí dào le, méi xiǎng dào jīn tiān yòu chí dào le。",
+    "en": "He was late yesterday, and to my surprise late again today."
+   },
+   {
+    "zh": "你先休息一会儿,等精神好点了再继续工作。",
+    "pinyin": "Nǐ xiān xiū xī yī huì er, děng jīng shén hǎo diǎn le zài jì xù gōng zuò。",
+    "en": "Rest a while first; continue working when you feel better."
+   },
+   {
+    "zh": "这个月的电费怎么又涨了,比上个月还多。",
+    "pinyin": "Zhè ge yuè de diàn fèi zěn me yòu zhǎng le, bǐ shàng gè yuè hái duō。",
+    "en": "Why has the electric bill risen again, more than last month?"
+   },
+   {
+    "zh": "请你把刚才的话再重复一遍,我没有听清楚。",
+    "pinyin": "Qǐng nǐ bǎ gāng cái de huà zài chóng fù yī biàn, wǒ méi yǒu tīng qīng chǔ。",
+    "en": "Please repeat what you just said; I didn't catch it."
+   },
+   {
+    "zh": "说好了不再犯的错误,他今天竟然又犯了。",
+    "pinyin": "Shuō hǎo le bù zài fàn de cuò wù, tā jīn tiān jìng rán yòu fàn le。",
+    "en": "The mistake he vowed not to repeat, he made again today."
+   },
+   {
+    "zh": "天色不早了,咱们吃完这顿饭再慢慢聊吧。",
+    "pinyin": "Tiān sè bù zǎo le, zán men chī wán zhè dùn fàn zài màn màn liáo ba。",
+    "en": "It's getting late; let's chat more after this meal."
+   },
+   {
+    "zh": "我刚把地扫干净,小狗一进来又弄得到处是泥。",
+    "pinyin": "Wǒ gāng bǎ de sǎo gān jìng, xiǎo gǒu yī jìn lái yòu nòng dé dào chù shì ní。",
+    "en": "I'd just swept the floor when the dog tracked mud everywhere again."
+   },
+   {
+    "zh": "这道题你要是还不明白,我可以再给你讲一遍。",
+    "pinyin": "Zhè dào tí nǐ yào shì hái bù míng bái, wǒ kě yǐ zài gěi nǐ jiǎng yī biàn。",
+    "en": "If you still don't get the problem, I can explain it once more."
+   },
+   {
+    "zh": "他去年来过一次,今年春天又专程来了一趟。",
+    "pinyin": "Tā qù nián lái guò yī cì, jīn nián chūn tiān yòu zhuān chéng lái le yī tàng。",
+    "en": "He came once last year and made a special trip again this spring."
+   },
+   {
+    "zh": "等雨停了我们再出发,现在走会淋湿的。",
+    "pinyin": "Děng yǔ tíng le wǒ men zài chū fā, xiàn zài zǒu huì lín shī de。",
+    "en": "Let's set off after the rain stops; going now we'd get wet."
+   },
+   {
+    "zh": "这条裙子她上周买了一条,这周居然又买了一条。",
+    "pinyin": "Zhè tiáo qún zi tā shàng zhōu mǎi le yī tiáo, zhè zhōu jū rán yòu mǎi le yī tiáo。",
+    "en": "She bought this skirt last week and, oddly, another this week."
+   },
+   {
+    "zh": "你先把基础打牢,以后再学更难的内容也不迟。",
+    "pinyin": "Nǐ xiān bǎ jī chǔ dǎ láo, yǐ hòu zài xué gèng nán de nèi róng yě bù chí。",
+    "en": "Build your basics first; learning harder content later is fine."
+   },
+   {
+    "zh": "刚修好没几天,这台旧电视又出毛病了。",
+    "pinyin": "Gāng xiū hǎo méi jǐ tiān, zhè tái jiù diàn shì yòu chū máo bìng le。",
+    "en": "Fixed just days ago, the old TV broke down again."
+   },
+   {
+    "zh": "这件事我们下次开会的时候再详细讨论。",
+    "pinyin": "Zhè jiàn shì wǒ men xià cì kāi huì de shí hòu zài xiáng xì tǎo lùn。",
+    "en": "We'll discuss this in detail at the next meeting."
+   },
+   {
+    "zh": "他戒了一阵子烟,最近压力大,结果又抽上了。",
+    "pinyin": "Tā jiè le yī zhèn zi yān, zuì jìn yā lì dà, jié guǒ yòu chōu shàng le。",
+    "en": "He'd quit smoking for a while but took it up again under stress."
+   },
+   {
+    "zh": "你要是喜欢,下回来的时候我再给你多带几个。",
+    "pinyin": "Nǐ yào shì xǐ huān, xià huí lái de shí hòu wǒ zài gěi nǐ duō dài jǐ gè。",
+    "en": "If you like them, I'll bring you more next time."
+   },
+   {
+    "zh": "这个星期他已经加了三次班,今天晚上又要加班。",
+    "pinyin": "Zhè ge xīng qī tā yǐ jīng jiā le sān cì bān, jīn tiān wǎn shàng yòu yào jiā bān。",
+    "en": "He's worked overtime thrice this week and must again tonight."
+   },
+   {
+    "zh": "时间还早,咱们再等他几分钟,他应该快到了。",
+    "pinyin": "Shí jiān hái zǎo, zán men zài děng tā jǐ fēn zhōng, tā yīng gāi kuài dào le。",
+    "en": "It's still early; let's wait a few more minutes — he's nearly here."
+   },
+   {
+    "zh": "孩子刚学会走路,摔倒了爬起来又勇敢地往前走。",
+    "pinyin": "Hái zi gāng xué huì zǒu lù, shuāi dǎo le pá qǐ lái yòu yǒng gǎn de wǎng qián zǒu。",
+    "en": "Newly walking, the child fell, rose, and bravely walked on again."
+   },
+   {
+    "zh": "这道菜的味道你尝一下,不够咸的话我再加点盐。",
+    "pinyin": "Zhè dào cài de wèi dào nǐ cháng yī xià, bù gòu xián de huà wǒ zài jiā diǎn yán。",
+    "en": "Taste the dish; if not salty enough I'll add more salt."
+   },
+   {
+    "zh": "上个月刚聚过,这个月大家又想找机会见一面。",
+    "pinyin": "Shàng gè yuè gāng jù guò, zhè ge yuè dà jiā yòu xiǎng zhǎo jī huì jiàn yí miàn。",
+    "en": "We met last month, and this month everyone wants to meet again."
+   },
+   {
+    "zh": "你先把想法整理好,想清楚了再来找我商量。",
+    "pinyin": "Nǐ xiān bǎ xiǎng fǎ zhěng lǐ hǎo, xiǎng qīng chǔ le zài lái zhǎo wǒ shāng liáng。",
+    "en": "Sort your ideas first; come discuss once you've thought it through."
+   },
+   {
+    "zh": "这几天真是奇怪,好好的天气又突然变冷了。",
+    "pinyin": "Zhè jǐ tiān zhēn shì qí guài, hǎo hǎo de tiān qì yòu tū rán biàn lěng le。",
+    "en": "Strange these days — the fine weather suddenly turned cold again."
+   },
+   {
+    "zh": "这次没考好没关系,下学期再努力,一定能赶上来。",
+    "pinyin": "Zhè cì méi kǎo hǎo méi guān xì, xià xué qī zài nǔ lì, yí dìng néng gǎn shàng lái。",
+    "en": "It's fine if you did poorly; try again next term and you'll catch up."
+   }
+  ]
+ },
+ {
+  "id": "g419",
+  "level": 4,
+  "title": "\"总算\" ile \"终于\" farkı",
+  "titleEn": "Comparing \"zongsuan\" and \"zhongyu\"",
+  "pattern": "总算 (nihayet+rahatlama) / 终于 (sonunda)",
+  "summary": "İkisi de \"sonunda\" demek; \"总算\" beklenen bir sonuca ulaşmanın rahatlamasını, \"终于\" uzun bekleyişin sonucunu vurgular: 总算等到你了 / 他终于成功了。",
+  "explanation": "\"总算\" ve \"终于\" ikisi de \"sonunda, nihayet\" anlamına gelir ama nüansları farklıdır. \"终于\" (zhōngyú): uzun bir SÜRECİN/beklemenin ardından bir sonucun (çoğu zaman olumlu, önemli) gerçekleştiğini nesnel olarak bildirir — \"sonunda, en sonunda, nihayet\": 经过多年努力,他终于实现了自己的梦想 (Yıllarca çabaladıktan sonra sonunda hayalini gerçekleştirdi), 等了很久,火车终于来了 (Uzun bekleyişten sonra tren nihayet geldi). \"总算\" (zǒngsuàn): bir sonuca güçlükle/nihayet ulaşıldığında duyulan RAHATLAMAYI, \"iyi ki oldu, nihayet kurtulduk\" öznel duygusunu vurgular — \"nihayet, çok şükür ..., en azından ...\": 忙了一整天,总算把事情办完了 (Bütün gün uğraştıktan sonra nihayet işi bitirdim [oh be]), 你可总算来了,我等得都急了 (Nihayet geldin, meraktan çatlıyordum). Farklar: (1) \"终于\" nesnel bir \"sonunda\"dır, büyük/önemli başarılarda doğaldır; \"总算\" öznel bir rahatlama/şükran taşır, çoğu zaman zorlukla elde edilen ya da \"asgari düzeyde tatmin edici\" sonuçlarda. (2) \"总算\" ayrıca \"en azından, sayılır\" anlamı da taşıyabilir: 这样总算有个交代了 (Böylece en azından bir açıklama olmuş oldu). Türkçedeki \"sonunda/nihayet (终于)\" ile \"nihayet, çok şükür, en azından (总算)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "经过好几年的不懈努力,他终于实现了自己的理想。",
+    "pinyin": "Jīng guò hǎo jǐ nián de bù xiè nǔ lì, tā zhōng yú shí xiàn le zì jǐ de lǐ xiǎng。",
+    "en": "After years of tireless effort, he finally realized his dream."
+   },
+   {
+    "zh": "忙活了整整一天,总算把这堆材料整理完了。",
+    "pinyin": "Máng huó le zhěng zhěng yī tiān, zǒng suàn bǎ zhè duī cái liào zhěng lǐ wán le。",
+    "en": "After a whole day's work, I finally got the pile sorted — phew."
+   },
+   {
+    "zh": "在站台上等了快一个小时,那趟火车终于缓缓进站了。",
+    "pinyin": "Zài zhàn tái shàng děng le kuài yí gè xiǎo shí, nà tàng huǒ chē zhōng yú huǎn huǎn jìn zhàn le。",
+    "en": "After nearly an hour on the platform, the train finally pulled in."
+   },
+   {
+    "zh": "你可总算回来了,一家人都急得团团转了。",
+    "pinyin": "Nǐ kě zǒng suàn huí lái le, yī jiā rén dōu jí de tuán tuán zhuàn le。",
+    "en": "You're finally back — the whole family was worried sick."
+   },
+   {
+    "zh": "经过反复试验,科学家们终于取得了关键性的突破。",
+    "pinyin": "Jīng guò fǎn fù shì yàn, kē xué jiā men zhōng yú qǔ de le guān jiàn xìng de tū pò。",
+    "en": "After repeated trials, the scientists finally made a key breakthrough."
+   },
+   {
+    "zh": "折腾了大半天,车子总算是修好了,可以上路了。",
+    "pinyin": "Zhē teng le dà bàn tiān, chē zi zǒng suàn shì xiū hǎo le, kě yǐ shàng lù le。",
+    "en": "After hours of fuss, the car's finally fixed and ready to go."
+   },
+   {
+    "zh": "苦练了整整一个夏天,他终于学会了游泳。",
+    "pinyin": "Kǔ liàn le zhěng zhěng yí gè xià tiān, tā zhōng yú xué huì le yóu yǒng。",
+    "en": "After a whole summer of hard practice, he finally learned to swim."
+   },
+   {
+    "zh": "这下把话说清楚了,大家心里总算踏实了。",
+    "pinyin": "Zhè xià bǎ huà shuō qīng chǔ le, dà jiā xīn lǐ zǒng suàn tà shí le。",
+    "en": "With things now clear, everyone finally feels at ease."
+   },
+   {
+    "zh": "盼望已久的假期终于来了,孩子们高兴得跳了起来。",
+    "pinyin": "Pàn wàng yǐ jiǔ de jià qī zhōng yú lái le, hái zi men gāo xìng de tiào le qǐ lái。",
+    "en": "The long-awaited holiday finally came; the kids jumped for joy."
+   },
+   {
+    "zh": "跑了好几家店,总算买到了那本一直想要的书。",
+    "pinyin": "Pǎo le hǎo jǐ jiā diàn, zǒng suàn mǎi dào le nà běn yì zhí xiǎng yào de shū。",
+    "en": "After several shops, I finally got the book I'd long wanted."
+   },
+   {
+    "zh": "他坚持治疗了半年,身体终于慢慢康复了。",
+    "pinyin": "Tā jiān chí zhì liáo le bàn nián, shēn tǐ zhōng yú màn màn kāng fù le。",
+    "en": "After half a year of treatment, his health finally recovered."
+   },
+   {
+    "zh": "雨一直下到傍晚,天色总算放晴了一点。",
+    "pinyin": "Yǔ yì zhí xià dào bàng wǎn, tiān sè zǒng suàn fàng qíng le yì diǎn。",
+    "en": "The rain lasted till evening before the sky finally cleared a bit."
+   },
+   {
+    "zh": "经过大家的共同努力,这个难题终于得到了解决。",
+    "pinyin": "Jīng guò dà jiā de gòng tóng nǔ lì, zhè ge nán tí zhōng yú dé dào le jiě jué。",
+    "en": "Through everyone's joint effort, the problem was finally solved."
+   },
+   {
+    "zh": "孩子终于睡着了,忙碌了一天的她总算能歇口气了。",
+    "pinyin": "Hái zi zhōng yú shuì zháo le, máng lù le yī tiān de tā zǒng suàn néng xiē kǒu qì le。",
+    "en": "The child finally slept, and she, busy all day, could finally rest."
+   },
+   {
+    "zh": "等了这么多年,他终于等到了与家人团聚的那一天。",
+    "pinyin": "Děng le zhè me duō nián, tā zhōng yú děng dào le yǔ jiā rén tuán jù de nà yī tiān。",
+    "en": "After so many years, he finally saw the day of family reunion."
+   },
+   {
+    "zh": "东奔西走了一上午,事情总算有了些眉目。",
+    "pinyin": "Dōng bēn xī zǒu le yī shàng wǔ, shì qíng zǒng suàn yǒu le xiē méi mù。",
+    "en": "After a morning of running about, things finally took shape."
+   },
+   {
+    "zh": "在无数次失败之后,他们终于研制出了新产品。",
+    "pinyin": "Zài wú shù cì shī bài zhī hòu, tā men zhōng yú yán zhì chū le xīn chǎn pǐn。",
+    "en": "After countless failures, they finally developed the new product."
+   },
+   {
+    "zh": "这场误会解开了,两个人的关系总算恢复了正常。",
+    "pinyin": "Zhè chǎng wù huì jiě kāi le, liǎng gè rén de guān xì zǒng suàn huī fù le zhèng cháng。",
+    "en": "The misunderstanding cleared, and their relations finally normalized."
+   },
+   {
+    "zh": "熬过了漫长的寒冬,大地终于迎来了温暖的春天。",
+    "pinyin": "Áo guò le màn cháng de hán dōng, dà de zhōng yú yíng lái le wēn nuǎn de chūn tiān。",
+    "en": "After the long winter, the land finally welcomed warm spring."
+   },
+   {
+    "zh": "跑上跑下忙了半天,手续总算全部办妥了。",
+    "pinyin": "Pǎo shàng pǎo xià máng le bàn tiān, shǒu xù zǒng suàn quán bù bàn tuǒ le。",
+    "en": "After much running around, all the formalities were finally done."
+   },
+   {
+    "zh": "经过长时间的谈判,双方终于达成了一致意见。",
+    "pinyin": "Jīng guò zhǎng shí jiān de tán pàn, shuāng fāng zhōng yú dá chéng le yí zhì yì jiàn。",
+    "en": "After long negotiation, both sides finally reached agreement."
+   },
+   {
+    "zh": "找了整整一个下午,那把丢失的钥匙总算找到了。",
+    "pinyin": "Zhǎo le zhěng zhěng yí gè xià wǔ, nà bǎ diū shī de yào shi zǒng suàn zhǎo dào le。",
+    "en": "After a whole afternoon's search, the lost key was finally found."
+   },
+   {
+    "zh": "坚持写了三年,他的第一本书终于要出版了。",
+    "pinyin": "Jiān chí xiě le sān nián, tā de dì yī běn shū zhōng yú yào chū bǎn le。",
+    "en": "After three years of writing, his first book is finally to be published."
+   },
+   {
+    "zh": "忙到深夜,他总算把明天要用的东西都准备好了。",
+    "pinyin": "Máng dào shēn yè, tā zǒng suàn bǎ míng tiān yào yòng de dōng xī dōu zhǔn bèi hǎo le。",
+    "en": "Working till late, he finally got everything ready for tomorrow."
+   },
+   {
+    "zh": "翻越了一座又一座高山,他们终于到达了目的地。",
+    "pinyin": "Fān yuè le yī zuò yòu yī zuò gāo shān, tā men zhōng yú dào dá le mù dì de。",
+    "en": "After crossing peak upon peak, they finally reached their goal."
+   }
+  ]
+ },
+ {
+  "id": "g420",
+  "level": 4,
+  "title": "\"跟\" ile \"对\" farkı",
+  "titleEn": "Comparing \"gen\" and \"dui\"",
+  "pattern": "跟 (birlikte/karşılıklı) / 对 (yöneltilen)",
+  "summary": "\"跟\" karşılıklı/birlikte, \"对\" tek yönlü hedefi bildirir: 我跟他商量 (karşılıklı) / 我对他说 (ona doğru).",
+  "explanation": "\"跟\" ve \"对\" ikisi de bir eylemin ilgili olduğu kişiyi gösterir ama ilişki türü farklıdır. \"跟\" (gēn) genellikle KARŞILIKLI ya da BİRLİKTE yapılan bir eylemi belirtir — iki taraf da eyleme katılır: 我跟他商量了这件事 (Bu işi onunla görüştüm [karşılıklı]), 你应该跟老师说清楚 (Öğretmenle konuşup açıklamalısın), 别跟我开玩笑 (Benimle şaka yapma), 我跟你一起去 (Seninle birlikte giderim). \"对\" (duì) ise eylemin TEK YÖNLÜ olarak bir hedefe/kişiye YÖNELTİLDİĞİNİ belirtir — eylem A'dan B'ye doğrudur, B karşılık vermez: 他对我笑了笑 (Bana gülümsedi [tek yönlü]), 老师对学生很严格 (Öğretmen öğrencilere karşı katı), 我对这件事很感兴趣 (Bu şeye ilgi duyuyorum), 他对我说了声谢谢 (Bana teşekkür etti). Bazı fiillerle ikisi de olur ama anlam değişir: 我跟他说 (onunla konuştum, karşılıklı olabilir) ≈ 我对他说 (ona [doğru] söyledim, tek yönlü). Genel kural: karşılıklı etkileşim/birliktelik → 跟 (商量/结婚/见面/一起); tek yönlü tutum/duygu/yöneliş → 对 (笑/生气/感兴趣/负责/态度). Türkçedeki \"... ile (跟)\" ile \"...-e karşı, ...-e doğru (对)\" ayrımına yakındır.",
+  "examples": [
+   {
+    "zh": "这件事我想先跟你商量一下,再做最后的决定。",
+    "pinyin": "Zhè jiàn shì wǒ xiǎng xiān gēn nǐ shāng liáng yī xià, zài zuò zuì hòu de jué dìng。",
+    "en": "I'd like to discuss this with you before deciding."
+   },
+   {
+    "zh": "老师对每一个学生都非常耐心,从不轻易发火。",
+    "pinyin": "Lǎo shī duì měi yí gè xué shēng dōu fēi cháng nài xīn, cóng bù qīng yì fā huǒ。",
+    "en": "The teacher is patient with every student, never quick to anger."
+   },
+   {
+    "zh": "有什么想法你可以直接跟我说,不用不好意思。",
+    "pinyin": "Yǒu shén me xiǎng fǎ nǐ kě yǐ zhí jiē gēn wǒ shuō, bù yòng bù hǎo yì sī。",
+    "en": "Share any thoughts with me directly; no need to feel shy."
+   },
+   {
+    "zh": "他对工作认真负责的态度,赢得了大家的尊重。",
+    "pinyin": "Tā duì gōng zuò rèn zhēn fù zé de tài dù, yíng de le dà jiā de zūn zhòng。",
+    "en": "His earnest, responsible attitude to work won everyone's respect."
+   },
+   {
+    "zh": "周末我打算跟几个老同学一起出去聚一聚。",
+    "pinyin": "Zhōu mò wǒ dǎ suàn gēn jǐ gè lǎo tóng xué yì qǐ chū qù jù yī jù。",
+    "en": "This weekend I plan to gather with some old classmates."
+   },
+   {
+    "zh": "她对绘画特别感兴趣,一有空就拿起画笔。",
+    "pinyin": "Tā duì huì huà tè bié gǎn xìng qù, yī yǒu kòng jiù ná qǐ huà bǐ。",
+    "en": "She's especially interested in painting and picks up the brush whenever free."
+   },
+   {
+    "zh": "这个问题你最好跟当事人当面沟通清楚。",
+    "pinyin": "Zhè ge wèn tí nǐ zuì hǎo gēn dāng shì rén dāng miàn gōu tōng qīng chǔ。",
+    "en": "You'd best communicate this clearly with the person involved."
+   },
+   {
+    "zh": "父母对孩子的爱,往往是默默无闻、不求回报的。",
+    "pinyin": "Fù mǔ duì hái zi de ài, wǎng wǎng shì mò mò wú wén、 bù qiú huí bào de。",
+    "en": "Parents' love for children is often quiet and selfless."
+   },
+   {
+    "zh": "有困难就跟朋友说说,别一个人闷在心里。",
+    "pinyin": "Yǒu kùn nán jiù gēn péng yǒu shuō shuō, bié yí gè rén mēn zài xīn lǐ。",
+    "en": "Tell friends your troubles; don't bottle them up alone."
+   },
+   {
+    "zh": "他对陌生人也总是彬彬有礼,让人如沐春风。",
+    "pinyin": "Tā duì mò shēng rén yě zǒng shì bīn bīn yǒu lǐ, ràng rén rú mù chūn fēng。",
+    "en": "He's courteous even to strangers, making one feel at ease."
+   },
+   {
+    "zh": "我昨天跟房东谈了谈,租金的事总算说定了。",
+    "pinyin": "Wǒ zuó tiān gēn fáng dōng tán le tán, zū jīn de shì zǒng suàn shuō dìng le。",
+    "en": "I talked with the landlord yesterday and settled the rent."
+   },
+   {
+    "zh": "这位医生对待病人就像对待亲人一样体贴。",
+    "pinyin": "Zhè wèi yī shēng duì dài bìng rén jiù xiàng duì dài qīn rén yī yàng tǐ tiē。",
+    "en": "The doctor treats patients as tenderly as family."
+   },
+   {
+    "zh": "这么重要的决定,你应该先跟家里人商量商量。",
+    "pinyin": "Zhè me zhòng yào de jué dìng, nǐ yīng gāi xiān gēn jiā lǐ rén shāng liáng shāng liáng。",
+    "en": "For such a big decision, discuss it with your family first."
+   },
+   {
+    "zh": "他对自己要求很高,从不满足于眼前的成绩。",
+    "pinyin": "Tā duì zì jǐ yāo qiú hěn gāo, cóng bù mǎn zú yú yǎn qián de chéng jì。",
+    "en": "He demands much of himself, never content with present results."
+   },
+   {
+    "zh": "如果有意见,欢迎大家跟我们随时反映。",
+    "pinyin": "Rú guǒ yǒu yì jiàn, huān yíng dà jiā gēn wǒ men suí shí fǎn yìng。",
+    "en": "If you have opinions, feel free to raise them with us anytime."
+   },
+   {
+    "zh": "面对困难,他对未来始终保持着乐观的态度。",
+    "pinyin": "Miàn duì kùn nán, tā duì wèi lái shǐ zhōng bǎo chí zhe lè guān de tài dù。",
+    "en": "Facing hardship, he keeps an optimistic attitude toward the future."
+   },
+   {
+    "zh": "周末他常常跟父亲一起去河边钓鱼。",
+    "pinyin": "Zhōu mò tā cháng cháng gēn fù qīn yì qǐ qù hé biān diào yú。",
+    "en": "On weekends he often goes fishing by the river with his father."
+   },
+   {
+    "zh": "大家对这次活动的安排都表示非常满意。",
+    "pinyin": "Dà jiā duì zhè cì huó dòng de ān pái dōu biǎo shì fēi cháng mǎn yì。",
+    "en": "Everyone was very satisfied with the event's arrangements."
+   },
+   {
+    "zh": "这件事我已经跟负责人反复确认过好几遍了。",
+    "pinyin": "Zhè jiàn shì wǒ yǐ jīng gēn fù zé rén fǎn fù què rèn guò hǎo jǐ biàn le。",
+    "en": "I've confirmed this with the person in charge several times."
+   },
+   {
+    "zh": "他对身边的人总是充满善意,乐于伸出援手。",
+    "pinyin": "Tā duì shēn biān de rén zǒng shì chōng mǎn shàn yì, lè yú shēn chū yuán shǒu。",
+    "en": "He's always kind to those around him, glad to lend a hand."
+   },
+   {
+    "zh": "有什么误会,咱们跟对方好好谈谈就能化解。",
+    "pinyin": "Yǒu shén me wù huì, zán men gēn duì fāng hǎo hǎo tán tán jiù néng huà jiě。",
+    "en": "Any misunderstanding can be cleared by talking it out."
+   },
+   {
+    "zh": "老板对新来的员工格外照顾,处处给予指点。",
+    "pinyin": "Lǎo bǎn duì xīn lái de yuán gōng gé wài zhào gù, chù chù jǐ yǔ zhǐ diǎn。",
+    "en": "The boss is especially caring toward new staff, guiding them."
+   },
+   {
+    "zh": "这次旅行我是跟大学时的室友一起去的。",
+    "pinyin": "Zhè cì lǚ xíng wǒ shì gēn dà xué shí de shì yǒu yì qǐ qù de。",
+    "en": "I went on this trip with my roommate from university."
+   },
+   {
+    "zh": "他对生活中的每一个小细节都观察得很仔细。",
+    "pinyin": "Tā duì shēng huó zhōng de měi yí gè xiǎo xì jié dōu guān chá de hěn zǐ xì。",
+    "en": "He observes every small detail of life very carefully."
+   },
+   {
+    "zh": "如果你不方便出面,我可以替你跟他解释。",
+    "pinyin": "Rú guǒ nǐ bù fāng biàn chū miàn, wǒ kě yǐ tì nǐ gēn tā jiě shì。",
+    "en": "If it's awkward for you, I can explain to him on your behalf."
+   }
+  ]
+ },
+ {
+  "id": "g421",
+  "level": 4,
+  "title": "\"朝\"、\"向\"、\"往\" farkı (yön)",
+  "titleEn": "Comparing \"chao\" \"xiang\" and \"wang\"",
+  "pattern": "朝 / 向 / 往 + Yön + Fiil",
+  "summary": "Üçü de \"...-e doğru\" demek; 往 çoğunlukla yer değiştirme fiilleriyle, 向 hem somut hem soyut yönle, 朝 çoğunlukla yönelme/bakışla kullanılır: 往前走 / 向他学习 / 朝我笑。",
+  "explanation": "\"朝\"、\"向\"、\"往\" üçü de bir eylemin YÖNÜNÜ (\"...-e doğru, ...-e\") gösterir ama kullanım alanları farklıdır. \"往\" (wǎng): neredeyse yalnızca SOMUT bir yönde HAREKET/yer değiştirme fiilleriyle gelir ve ardından yer/yön + hareket fiili bulunur: 往前走 (ileri git), 一直往东开 (hep doğuya sür), 往里走一点 (biraz içeri geç). Soyut hedefte kullanılmaz. \"向\" (xiàng): hem SOMUT yönü hem SOYUT yönelmeyi anlatır, en geniş kullanımlıdır; hareket, yönelme ve soyut fiillerle gelir: 向前看 (ileri bak), 向他学习 (ondan/ona bakarak öğren), 向大家表示感谢 (herkese teşekkür et), 向困难挑战 (zorluğa meydan oku). \"朝\" (cháo): bir eylemin/bakışın YÖNELDİĞİ hedefi gösterir; çoğu zaman durağan yönelme ve \"yüzü ...-e dönük\" anlamında, sık sık jest/bakış fiilleriyle: 朝我笑了笑 (bana [dönüp] gülümsedi), 朝那个方向走 (o yöne doğru git), 窗户朝南 (pencere güneye bakıyor). Kabaca: 往 = hareket yönü (yalnız somut); 向 = en genel (somut+soyut); 朝 = yönelme/bakış (çoğu jest ve konum). Soyut hedeflerde (öğrenmek, teşekkür etmek) yalnız \"向\" (bazen 朝) olur, \"往\" olmaz. Türkçedeki \"...-e doğru, ...-e\" yön ifadelerine denk gelir; aradaki fark hangi fiil türüyle geldiğidir.",
+  "examples": [
+   {
+    "zh": "你顺着这条路一直往前走,到第二个路口再往右拐。",
+    "pinyin": "Nǐ shùn zhe zhè tiáo lù yì zhí wǎng qián zǒu, dào dì èr gè lù kǒu zài wǎng yòu guǎi。",
+    "en": "Go straight along this road, then turn right at the second junction."
+   },
+   {
+    "zh": "我们应该向那些默默奉献的人学习,尊敬他们。",
+    "pinyin": "Wǒ men yīng gāi xiàng nà xiē mò mò fèng xiàn de rén xué xí, zūn jìng tā men。",
+    "en": "We should learn from and respect those who quietly give."
+   },
+   {
+    "zh": "他回过头,朝我友好地笑了笑,挥了挥手。",
+    "pinyin": "Tā huí guò tóu, cháo wǒ yǒu hǎo de xiào le xiào, huī le huī shǒu。",
+    "en": "He turned, smiled at me warmly, and waved."
+   },
+   {
+    "zh": "这间屋子的窗户朝南,一年四季都很暖和。",
+    "pinyin": "Zhè jiān wū zi de chuāng hù cháo nán, yī nián sì jì dōu hěn nuǎn huo。",
+    "en": "This room's window faces south, warm all year round."
+   },
+   {
+    "zh": "河水一直往东流,最后汇入了辽阔的大海。",
+    "pinyin": "Hé shuǐ yì zhí wǎng dōng liú, zuì hòu huì rù le liáo kuò de dà hǎi。",
+    "en": "The river flows east and finally joins the vast sea."
+   },
+   {
+    "zh": "在颁奖典礼上,他向所有支持过他的人表示了感谢。",
+    "pinyin": "Zài bān jiǎng diǎn lǐ shàng, tā xiàng suǒ yǒu zhī chí guò tā de rén biǎo shì le gǎn xiè。",
+    "en": "At the ceremony, he thanked all who had supported him."
+   },
+   {
+    "zh": "小狗一见到主人,就摇着尾巴朝他飞奔过去。",
+    "pinyin": "Xiǎo gǒu yī jiàn dào zhǔ rén, jiù yáo zhe wěi ba cháo tā fēi bēn guò qù。",
+    "en": "Seeing its owner, the dog dashed toward him wagging its tail."
+   },
+   {
+    "zh": "请大家往里边走一走,给后面上车的人腾点地方。",
+    "pinyin": "Qǐng dà jiā wǎng lǐ biān zǒu yī zǒu, gěi hòu miàn shàng chē de rén téng diǎn dì fāng。",
+    "en": "Please move inside to make room for those boarding behind."
+   },
+   {
+    "zh": "面对未来的种种挑战,我们要勇敢地向前迈进。",
+    "pinyin": "Miàn duì wèi lái de zhǒng zhǒng tiǎo zhàn, wǒ men yào yǒng gǎn de xiàng qián mài jìn。",
+    "en": "Facing future challenges, we must bravely stride forward."
+   },
+   {
+    "zh": "他站在山顶,朝着家乡的方向久久地凝望着。",
+    "pinyin": "Tā zhàn zài shān dǐng, cháo zhe jiā xiāng de fāng xiàng jiǔ jiǔ de níng wàng zhe。",
+    "en": "Standing on the peak, he gazed long toward his hometown."
+   },
+   {
+    "zh": "车子沿着公路一直往北开,窗外的景色不断变换。",
+    "pinyin": "Chē zi yán zhe gōng lù yì zhí wǎng běi kāi, chuāng wài de jǐng sè bù duàn biàn huàn。",
+    "en": "The car drove north along the road, scenery shifting past."
+   },
+   {
+    "zh": "遇到不懂的问题,要虚心地向别人请教。",
+    "pinyin": "Yù dào bù dǒng de wèn tí, yào xū xīn de xiàng bié rén qǐng jiào。",
+    "en": "When puzzled, humbly seek advice from others."
+   },
+   {
+    "zh": "他快步走上前,朝对方伸出了热情的双手。",
+    "pinyin": "Tā kuài bù zǒu shàng qián, cháo duì fāng shēn chū le rè qíng de shuāng shǒu。",
+    "en": "He stepped up briskly and extended a warm handshake."
+   },
+   {
+    "zh": "那扇门朝里开,你得往里推才能打得开。",
+    "pinyin": "Nà shàn mén cháo lǐ kāi, nǐ děi wǎng lǐ tuī cái néng dǎ de kāi。",
+    "en": "The door opens inward; push it in to open it."
+   },
+   {
+    "zh": "演讲结束后,他向台下的观众深深地鞠了一躬。",
+    "pinyin": "Yǎn jiǎng jié shù hòu, tā xiàng tái xià de guān zhòng shēn shēn de jū le yī gōng。",
+    "en": "After the speech, he bowed deeply to the audience."
+   },
+   {
+    "zh": "迷路的时候,他凭着记忆往有灯光的地方走去。",
+    "pinyin": "Mí lù de shí hòu, tā píng zhe jì yì wǎng yǒu dēng guāng de dì fāng zǒu qù。",
+    "en": "Lost, he walked by memory toward where the lights were."
+   },
+   {
+    "zh": "孩子朝妈妈张开双臂,一头扑进了她温暖的怀里。",
+    "pinyin": "Hái zi cháo mā mā zhāng kāi shuāng bì, yī tóu pū jìn le tā wēn nuǎn de huái lǐ。",
+    "en": "The child opened his arms to Mom and dove into her embrace."
+   },
+   {
+    "zh": "这条大道笔直地往前延伸,一眼望不到尽头。",
+    "pinyin": "Zhè tiáo dà dào bǐ zhí de wǎng qián yán shēn, yī yǎn wàng bú dào jìn tóu。",
+    "en": "This avenue stretches straight ahead, its end out of sight."
+   },
+   {
+    "zh": "在困难面前,他从不退缩,总是迎难而上、向前冲。",
+    "pinyin": "Zài kùn nán miàn qián, tā cóng bù tuì suō, zǒng shì yíng nán ér shàng、 xiàng qián chōng。",
+    "en": "Before difficulty, he never shrinks but charges forward."
+   },
+   {
+    "zh": "老人朝着夕阳的方向,慢慢地走在回家的小路上。",
+    "pinyin": "Lǎo rén cháo zhe xī yáng de fāng xiàng, màn màn de zǒu zài huí jiā de xiǎo lù shàng。",
+    "en": "The old man walked slowly homeward toward the setting sun."
+   },
+   {
+    "zh": "你往窗外看,那座山的轮廓在暮色中格外清晰。",
+    "pinyin": "Nǐ wǎng chuāng wài kàn, nà zuò shān de lún kuò zài mù sè zhōng gé wài qīng xī。",
+    "en": "Look out the window — the mountain's outline is clear at dusk."
+   },
+   {
+    "zh": "我们要善于向生活学习,从平凡中发现智慧。",
+    "pinyin": "Wǒ men yào shàn yú xiàng shēng huó xué xí, cóng píng fán zhōng fā xiàn zhì huì。",
+    "en": "We should learn from life, finding wisdom in the ordinary."
+   },
+   {
+    "zh": "他一边说着,一边朝我使了个眼色,让我别出声。",
+    "pinyin": "Tā yī biān shuō zhe, yī biān cháo wǒ shǐ le gè yǎn sè, ràng wǒ bié chū shēng。",
+    "en": "As he spoke, he winked at me to keep quiet."
+   },
+   {
+    "zh": "顺着人流往前挪,他好不容易才挤出了车站。",
+    "pinyin": "Shùn zhe rén liú wǎng qián nuó, tā hǎo bù róng yì cái jǐ chū le chē zhàn。",
+    "en": "Shuffling forward with the crowd, he barely squeezed out of the station."
+   },
+   {
+    "zh": "面对镜头,运动员们向全国观众挥手致意。",
+    "pinyin": "Miàn duì jìng tóu, yùn dòng yuán men xiàng quán guó guān zhòng huī shǒu zhì yì。",
+    "en": "Facing the cameras, the athletes waved to viewers nationwide."
+   }
+  ]
+ },
+ {
+  "id": "g422",
+  "level": 4,
+  "title": "\"对\" ile \"对于\" farkı",
+  "titleEn": "Comparing \"dui\" and \"duiyu\"",
+  "pattern": "对 / 对于 + Konu，...",
+  "summary": "İkisi de \"...-e ilişkin\" demek; \"对\" hem kişilere hem konulara, \"对于\" daha çok konu/meseleye kullanılır ve kişiler arası tutumda yer almaz: 对我很好 / 对于这个问题...",
+  "explanation": "\"对\" ve \"对于\" ikisi de bir tutumun/görüşün ilgili olduğu KONUYU/nesneyi işaretler ve çoğu bağlamda değiştirilebilir: 对(于)这个问题,我有不同的看法 (Bu konuda farklı bir görüşüm var), 对(于)环境保护,大家越来越重视 (Çevre korumaya giderek daha çok önem veriliyor). Ancak farklar vardır. (1) KİŞİLER ARASI tutum/davranışta yalnız \"对\" kullanılır, \"对于\" KULLANILMAZ: 他对我很好 (Bana çok iyi davranır) — burada 对于 olmaz; 老师对学生很严格 (Öğretmen öğrencilere karşı katı) — 对于 olmaz. (2) \"对\" bir eylemi doğrudan bir kişiye yöneltebilir (对我笑 = bana gülümsedi); \"对于\" bunu yapamaz — \"对于\" yalnız bir konuyu/kapsamı çerçeveler, canlı bir muhataba yönelmez. (3) \"对于\" daha RESMÎ/yazılıdır ve genellikle cümlenin başında bir konuyu ortaya koyar: 对于这次事故,有关部门高度重视 (Bu kazaya ilgili birimler büyük önem verdi). Kural: kişiye yönelik tutum/davranış → yalnız 对; soyut bir konu/mesele → ikisi de olur, resmî başlangıçta 对于 doğaldır. Türkçedeki \"...-e karşı, ...-e ilişkin, ... konusunda, ...-e gelince\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "对于这个复杂的问题,大家一时还很难达成一致意见。",
+    "pinyin": "Duì yú zhè ge fù zá de wèn tí, dà jiā yī shí hái hěn nán dá chéng yí zhì yì jiàn。",
+    "en": "On this complex question, it's hard to reach agreement at once."
+   },
+   {
+    "zh": "这些年来,他对我一直很照顾,像亲人一样。",
+    "pinyin": "Zhè xiē nián lái, tā duì wǒ yì zhí hěn zhào gù, xiàng qīn rén yī yàng。",
+    "en": "Over the years he has cared for me like family."
+   },
+   {
+    "zh": "对于环境保护,现在越来越多的人开始重视起来。",
+    "pinyin": "Duì yú huán jìng bǎo hù, xiàn zài yuè lái yuè duō de rén kāi shǐ zhòng shì qǐ lái。",
+    "en": "More and more people now take environmental protection seriously."
+   },
+   {
+    "zh": "老师对每一个学生都倾注了大量的心血。",
+    "pinyin": "Lǎo shī duì měi yí gè xué shēng dōu qīng zhù le dà liàng de xīn xuè。",
+    "en": "The teacher pours great effort into every student."
+   },
+   {
+    "zh": "对于这次比赛的结果,他早就有了心理准备。",
+    "pinyin": "Duì yú zhè cì bǐ sài de jié guǒ, tā zǎo jiù yǒu le xīn lǐ zhǔn bèi。",
+    "en": "He was mentally prepared for the match's result long ago."
+   },
+   {
+    "zh": "他对工作认真负责,对同事也十分友善。",
+    "pinyin": "Tā duì gōng zuò rèn zhēn fù zé, duì tóng shì yě shí fēn yǒu shàn。",
+    "en": "He is earnest at work and very friendly to colleagues."
+   },
+   {
+    "zh": "对于突如其来的表扬,他显得有些不好意思。",
+    "pinyin": "Duì yú tū rú qí lái de biǎo yáng, tā xiǎn de yǒu xiē bù hǎo yì sī。",
+    "en": "At the sudden praise, he looked a little embarrassed."
+   },
+   {
+    "zh": "父母对孩子的期望,常常寄托着深深的爱。",
+    "pinyin": "Fù mǔ duì hái zi de qī wàng, cháng cháng jì tuō zhe shēn shēn de ài。",
+    "en": "Parents' hopes for their children carry deep love."
+   },
+   {
+    "zh": "对于历史,我们既要铭记,也要从中吸取教训。",
+    "pinyin": "Duì yú lì shǐ, wǒ men jì yào míng jì, yě yào cóng zhōng xī qǔ jiào xùn。",
+    "en": "As for history, we must remember it and learn from it."
+   },
+   {
+    "zh": "他这个人对朋友特别讲义气,从不斤斤计较。",
+    "pinyin": "Tā zhè ge rén duì péng yǒu tè bié jiǎng yì qì, cóng bù jīn jīn jì jiào。",
+    "en": "He is especially loyal to friends and never petty."
+   },
+   {
+    "zh": "对于未来的规划,他心里已经有了清晰的蓝图。",
+    "pinyin": "Duì yú wèi lái de guī huà, tā xīn lǐ yǐ jīng yǒu le qīng xī de lán tú。",
+    "en": "As for future plans, he has a clear blueprint in mind."
+   },
+   {
+    "zh": "这位老人对待晚辈总是格外和蔼可亲。",
+    "pinyin": "Zhè wèi lǎo rén duì dài wǎn bèi zǒng shì gé wài hé ǎi kě qīn。",
+    "en": "The old man is always especially kind to the young."
+   },
+   {
+    "zh": "对于别人的批评,我们应该虚心地加以对待。",
+    "pinyin": "Duì yú bié rén de pī píng, wǒ men yīng gāi xū xīn de jiā yǐ duì dài。",
+    "en": "We should take others' criticism with an open mind."
+   },
+   {
+    "zh": "他对家乡的一草一木都怀有深厚的感情。",
+    "pinyin": "Tā duì jiā xiāng de yī cǎo yī mù dōu huái yǒu shēn hòu de gǎn qíng。",
+    "en": "He holds deep feeling for every plant and tree of his hometown."
+   },
+   {
+    "zh": "对于这项新政策,群众普遍表示欢迎和支持。",
+    "pinyin": "Duì yú zhè xiàng xīn zhèng cè, qún zhòng pǔ biàn biǎo shì huān yíng hé zhī chí。",
+    "en": "The public generally welcomed and supported the new policy."
+   },
+   {
+    "zh": "她对孩子既严格要求,又充满了无限的耐心。",
+    "pinyin": "Tā duì hái zi jì yán gé yāo qiú, yòu chōng mǎn liǎo wú xiàn de nài xīn。",
+    "en": "She is strict with her child yet endlessly patient."
+   },
+   {
+    "zh": "对于这次失败,他没有气馁,反而更加努力了。",
+    "pinyin": "Duì yú zhè cì shī bài, tā méi yǒu qì něi, fǎn ér gèng jiā nǔ lì le。",
+    "en": "As for this failure, he wasn't discouraged but tried harder."
+   },
+   {
+    "zh": "他对陌生人也一样热情,从不摆什么架子。",
+    "pinyin": "Tā duì mò shēng rén yě yī yàng rè qíng, cóng bù bǎi shén me jià zi。",
+    "en": "He is warm even to strangers, never putting on airs."
+   },
+   {
+    "zh": "对于健康,再多的财富也是无法替代的。",
+    "pinyin": "Duì yú jiàn kāng, zài duō de cái fù yě shì wú fǎ tì dài de。",
+    "en": "As for health, no amount of wealth can replace it."
+   },
+   {
+    "zh": "这位领导对下属既严格又体贴,深得人心。",
+    "pinyin": "Zhè wèi lǐng dǎo duì xià shǔ jì yán gé yòu tǐ tiē, shēn de rén xīn。",
+    "en": "The leader is strict yet considerate to subordinates, well liked."
+   },
+   {
+    "zh": "对于这些流言蜚语,他选择一笑置之,毫不在意。",
+    "pinyin": "Duì yú zhè xiē liú yán fēi yǔ, tā xuǎn zé yī xiào zhì zhī, háo bù zài yì。",
+    "en": "As for the rumors, he laughed them off, quite unbothered."
+   },
+   {
+    "zh": "他对自己的祖国怀着一份深沉而炽热的爱。",
+    "pinyin": "Tā duì zì jǐ de zǔ guó huái zhe yī fèn shēn chén ér chì rè de ài。",
+    "en": "He holds a deep and ardent love for his homeland."
+   },
+   {
+    "zh": "对于孩子的教育,这个家庭一向舍得投入。",
+    "pinyin": "Duì yú hái zi de jiào yù, zhè ge jiā tíng yí xiàng shě de tóu rù。",
+    "en": "This family has always been willing to invest in the child's education."
+   },
+   {
+    "zh": "无论对谁,他说话总是和和气气,让人舒服。",
+    "pinyin": "Wú lùn duì shuí, tā shuō huà zǒng shì hé hé qì qì, ràng rén shū fú。",
+    "en": "To anyone, he speaks gently, putting people at ease."
+   },
+   {
+    "zh": "对于这段历史,不同的人往往有着不同的解读。",
+    "pinyin": "Duì yú zhè duàn lì shǐ, bù tóng de rén wǎng wǎng yǒu zhe bù tóng de jiě dú。",
+    "en": "Different people often read this history differently."
+   }
+  ]
  }
 ]

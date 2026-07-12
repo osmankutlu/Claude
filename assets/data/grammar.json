@@ -52630,5 +52630,685 @@
     "en": "Only through time's passage can a bond truly mature."
    }
   ]
+ },
+ {
+  "id": "g388",
+  "level": 4,
+  "title": "\"只有...才\" ile \"ancak ...-se\"",
+  "titleEn": "Expressing \"only if\" with \"zhiyou\"",
+  "pattern": "只有 ...，才 ...",
+  "summary": "\"只有...才\" tek gerekli koşulu bildirir: 只有努力,才能成功 = Ancak çalışırsan başarabilirsin.",
+  "explanation": "\"只有\" (zhǐyǒu) bir sonuç için TEK ve ZORUNLU (gerek) koşulu bildirir: o koşul olmadan sonuç imkânsızdır — \"ancak ...-se, yalnızca ... olursa, ...-medikçe olmaz\". Kalıp: 只有 + gerek koşul，才 + sonuç. 只有付出努力,才能收获成功 (Ancak çaba harcarsan başarıyı elde edebilirsin), 只有亲眼看到,他才肯相信 (Ancak gözüyle görürse inanır), 只有大家团结一致,才能战胜困难 (Ancak hep birlikte olursak zorluğu yenebiliriz). İkinci bölümde her zaman \"才\" bulunur. \"只有...才\" (gerek koşul) ile \"只要...就\" (yeter koşul) karıştırılmamalı: \"只要\" o koşul sağlanınca sonuç KESİN olur (yeter ki → olur); \"只有\" ise o koşul OLMADAN sonuç OLMAZ ama olması da garanti değildir (ancak ...-se → olabilir). Yani \"只有\" o koşulu ZORUNLU/vazgeçilmez kılar. Ayrıca \"除非\" (ancak ... koşuluyla, ...-medikçe) ile de yakındır. \"只有\" gerekli tek yolu, tek şartı vurgular. Türkçedeki \"ancak ...-se, yalnızca ... olursa, ...-medikçe ... olmaz\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "只有脚踏实地地努力,才能真正实现自己的理想。",
+    "pinyin": "Zhǐ yǒu jiǎo tà shí de de nǔ lì, cái néng zhēn zhèng shí xiàn zì jǐ de lǐ xiǎng。",
+    "en": "Only through down-to-earth effort can one truly realize a dream."
+   },
+   {
+    "zh": "只有把身体照顾好,才有精力去做自己想做的事。",
+    "pinyin": "Zhǐ yǒu bǎ shēn tǐ zhào gù hǎo, cái yǒu jīng lì qù zuò zì jǐ xiǎng zuò de shì。",
+    "en": "Only by keeping healthy do you have energy for what you want."
+   },
+   {
+    "zh": "只有大家齐心协力,才能把这件难事办成。",
+    "pinyin": "Zhǐ yǒu dà jiā qí xīn xié lì, cái néng bǎ zhè jiàn nán shì bàn chéng。",
+    "en": "Only by working together can we get this hard task done."
+   },
+   {
+    "zh": "只有亲身经历过,才会明白其中的甘苦。",
+    "pinyin": "Zhǐ yǒu qīn shēn jīng lì guò, cái huì míng bái qí zhōng de gān kǔ。",
+    "en": "Only having lived it can you know its joys and pains."
+   },
+   {
+    "zh": "只有平时多下功夫,考试时才不会手忙脚乱。",
+    "pinyin": "Zhǐ yǒu píng shí duō xià gōng fū, kǎo shì shí cái bú huì shǒu máng jiǎo luàn。",
+    "en": "Only diligence beforehand keeps you calm during the exam."
+   },
+   {
+    "zh": "只有相互理解和包容,感情才能长久地维持下去。",
+    "pinyin": "Zhǐ yǒu xiāng hù lǐ jiě hé bāo róng, gǎn qíng cái néng cháng jiǔ de wéi chí xià qù。",
+    "en": "Only mutual understanding keeps a bond lasting."
+   },
+   {
+    "zh": "只有敢于面对错误,一个人才能真正地成长。",
+    "pinyin": "Zhǐ yǒu gǎn yú miàn duì cuò wù, yí gè rén cái néng zhēn zhèng de chéng zhǎng。",
+    "en": "Only by facing mistakes can a person truly grow."
+   },
+   {
+    "zh": "只有把根基打牢,这座高楼才能建得又稳又高。",
+    "pinyin": "Zhǐ yǒu bǎ gēn jī dǎ láo, zhè zuò gāo lóu cái néng jiàn de yòu wěn yòu gāo。",
+    "en": "Only a solid base lets the tower rise tall and steady."
+   },
+   {
+    "zh": "只有静下心来,才能听清楚内心真正的想法。",
+    "pinyin": "Zhǐ yǒu jìng xià xīn lái, cái néng tīng qīng chǔ nèi xīn zhēn zhèng de xiǎng fǎ。",
+    "en": "Only when calm can you clearly hear your true thoughts."
+   },
+   {
+    "zh": "只有诚实守信,才能赢得别人长久的信任。",
+    "pinyin": "Zhǐ yǒu chéng shí shǒu xìn, cái néng yíng de bié rén cháng jiǔ de xìn rèn。",
+    "en": "Only honesty and good faith earn lasting trust."
+   },
+   {
+    "zh": "只有经过反复的练习,技艺才能日渐娴熟。",
+    "pinyin": "Zhǐ yǒu jīng guò fǎn fù de liàn xí, jì yì cái néng rì jiàn xián shú。",
+    "en": "Only through repeated practice does skill grow refined."
+   },
+   {
+    "zh": "只有懂得珍惜,才不会等到失去时才后悔。",
+    "pinyin": "Zhǐ yǒu dǒng de zhēn xī, cái bú huì děng dào shī qù shí cái hòu huǐ。",
+    "en": "Only knowing to cherish spares you regret when it's gone."
+   },
+   {
+    "zh": "只有勇于尝试,才有可能发现全新的天地。",
+    "pinyin": "Zhǐ yǒu yǒng yú cháng shì, cái yǒu kě néng fā xiàn quán xīn de tiān de。",
+    "en": "Only by daring to try might you find a whole new world."
+   },
+   {
+    "zh": "只有把每一个细节都做好,整体才不会出问题。",
+    "pinyin": "Zhǐ yǒu bǎ měi yí gè xì jié dōu zuò hǎo, zhěng tǐ cái bú huì chū wèn tí。",
+    "en": "Only by getting every detail right does the whole hold up."
+   },
+   {
+    "zh": "只有当你真正放下,心里才能获得真正的平静。",
+    "pinyin": "Zhǐ yǒu dāng nǐ zhēn zhèng fàng xià, xīn lǐ cái néng huò de zhēn zhèng de píng jìng。",
+    "en": "Only when you truly let go can your heart find peace."
+   },
+   {
+    "zh": "只有互相扶持,这一家人才熬过了最艰难的日子。",
+    "pinyin": "Zhǐ yǒu hù xiāng fú chí, zhè yī jiā rén cái áo guò le zuì jiān nán de rì zi。",
+    "en": "Only by supporting each other did the family survive the worst."
+   },
+   {
+    "zh": "只有不断学习新知识,才能跟得上时代的步伐。",
+    "pinyin": "Zhǐ yǒu bù duàn xué xí xīn zhī shí, cái néng gēn de shàng shí dài de bù fá。",
+    "en": "Only by constantly learning can one keep pace with the times."
+   },
+   {
+    "zh": "只有把话说清楚,双方之间的误会才能彻底消除。",
+    "pinyin": "Zhǐ yǒu bǎ huà shuō qīng chǔ, shuāng fāng zhī jiān de wù huì cái néng chè dǐ xiāo chú。",
+    "en": "Only by speaking clearly can the misunderstanding be cleared."
+   },
+   {
+    "zh": "只有亲手种过地,才知道每一粒粮食的来之不易。",
+    "pinyin": "Zhǐ yǒu qīn shǒu zhǒng guò de, cái zhī dào měi yī lì liáng shí de lái zhī bù yì。",
+    "en": "Only having farmed do you know how hard-won each grain is."
+   },
+   {
+    "zh": "只有保持一颗平常心,才能从容地面对得失。",
+    "pinyin": "Zhǐ yǒu bǎo chí yī kē píng cháng xīn, cái néng cóng róng de miàn duì de shī。",
+    "en": "Only an even heart lets you face gain and loss calmly."
+   },
+   {
+    "zh": "只有把安全放在第一位,生产才能顺利进行。",
+    "pinyin": "Zhǐ yǒu bǎ ān quán fàng zài dì yī wèi, shēng chǎn cái néng shùn lì jìn xíng。",
+    "en": "Only with safety first can production run smoothly."
+   },
+   {
+    "zh": "只有敢于突破自己,才能看到更广阔的风景。",
+    "pinyin": "Zhǐ yǒu gǎn yú tū pò zì jǐ, cái néng kàn dào gèng guǎng kuò de fēng jǐng。",
+    "en": "Only by breaking past yourself do you see wider vistas."
+   },
+   {
+    "zh": "只有耐心地倾听,才能真正走进别人的内心。",
+    "pinyin": "Zhǐ yǒu nài xīn de qīng tīng, cái néng zhēn zhèng zǒu jìn bié rén de nèi xīn。",
+    "en": "Only by patient listening can you enter another's heart."
+   },
+   {
+    "zh": "只有经历过寒冬,才会格外珍惜春天的温暖。",
+    "pinyin": "Zhǐ yǒu jīng lì guò hán dōng, cái huì gé wài zhēn xī chūn tiān de wēn nuǎn。",
+    "en": "Only after winter do you truly cherish spring's warmth."
+   },
+   {
+    "zh": "只有坚持到最后一刻,才有机会看到胜利的曙光。",
+    "pinyin": "Zhǐ yǒu jiān chí dào zuì hòu yí kè, cái yǒu jī huì kàn dào shèng lì de shǔ guāng。",
+    "en": "Only by holding to the last do you glimpse victory's dawn."
+   }
+  ]
+ },
+ {
+  "id": "g389",
+  "level": 4,
+  "title": "\"除非\" ile \"...-medikçe / ancak ... koşuluyla\"",
+  "titleEn": "Expressing \"unless\" with \"chufei\"",
+  "pattern": "除非 ...，否则 / 才 ...",
+  "summary": "\"除非\" tek istisnai koşulu bildirir: 除非你答应,否则我不走 = Sen söz vermedikçe gitmem.",
+  "explanation": "\"除非\" (chúfēi) bir sonuç için TEK istisnai/olmazsa olmaz koşulu öne sürer: \"...-medikçe, ancak ... koşuluyla, meğerki ...\". İki kalıbı vardır. (1) 除非 A，否则/不然 B: \"A olmadıkça B olur\" — 除非你亲自去道歉,否则他不会原谅你 (Bizzat gidip özür dilemedikçe seni affetmez), 除非下大雨,不然比赛照常进行 (Şiddetli yağmur olmadıkça maç normal oynanır). (2) 除非 A，(主语) 才 B: \"ancak A koşuluyla B olur\" — 除非你先答应我一个条件,我才告诉你 (Ancak bir şartımı kabul edersen söylerim), 这种病除非及时手术,才有救 (Bu hastalık ancak zamanında ameliyatla kurtarılabilir). \"除非\" o koşulu TEK çıkış/tek istisna olarak vurgular — o koşul olmadan sonuç kesinlikle değişmez. \"只有\" ile yakındır ama \"除非\" \"bunun dışında başka yol yok\" istisna tonunu daha güçlü taşır ve sık sık \"否则/不然\" ile eşlenir. Türkçedeki \"...-medikçe, ancak ... koşuluyla, meğerki ..., ...-mezse (olmaz)\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "除非你亲自去解释清楚,否则这个误会很难消除。",
+    "pinyin": "Chú fēi nǐ qīn zì qù jiě shì qīng chǔ, fǒu zé zhè ge wù huì hěn nán xiāo chú。",
+    "en": "Unless you explain in person, this misunderstanding won't clear."
+   },
+   {
+    "zh": "除非天气突然变坏,否则明天的活动照常举行。",
+    "pinyin": "Chú fēi tiān qì tū rán biàn huài, fǒu zé míng tiān de huó dòng zhào cháng jǔ xíng。",
+    "en": "Unless the weather turns bad, tomorrow's event goes on."
+   },
+   {
+    "zh": "这种病除非及时治疗,否则很可能会越拖越严重。",
+    "pinyin": "Zhè zhǒng bìng chú fēi jí shí zhì liáo, fǒu zé hěn kě néng huì yuè tuō yuè yán zhòng。",
+    "en": "Unless treated promptly, this illness likely worsens."
+   },
+   {
+    "zh": "除非你先把作业写完,不然今天就别想出去玩。",
+    "pinyin": "Chú fēi nǐ xiān bǎ zuò yè xiě wán, bù rán jīn tiān jiù bié xiǎng chū qù wán。",
+    "en": "Unless you finish your homework, no going out to play today."
+   },
+   {
+    "zh": "除非有确凿的证据,否则我们不能随便下结论。",
+    "pinyin": "Chú fēi yǒu què záo de zhèng jù, fǒu zé wǒ men bù néng suí biàn xià jié lùn。",
+    "en": "Unless there's solid evidence, we can't jump to conclusions."
+   },
+   {
+    "zh": "这扇门锁得很牢,除非有钥匙,否则根本打不开。",
+    "pinyin": "Zhè shàn mén suǒ de hěn láo, chú fēi yǒu yào shi, fǒu zé gēn běn dǎ bù kāi。",
+    "en": "The door's firmly locked; without a key it won't open at all."
+   },
+   {
+    "zh": "除非大家都同意,否则这个方案不能算正式通过。",
+    "pinyin": "Chú fēi dà jiā dōu tóng yì, fǒu zé zhè ge fāng àn bù néng suàn zhèng shì tōng guò。",
+    "en": "Unless all agree, the plan can't count as formally passed."
+   },
+   {
+    "zh": "除非他肯低头认错,我才有可能考虑原谅他。",
+    "pinyin": "Chú fēi tā kěn dī tóu rèn cuò, wǒ cái yǒu kě néng kǎo lǜ yuán liàng tā。",
+    "en": "Only if he admits his fault might I consider forgiving him."
+   },
+   {
+    "zh": "除非你把话说清楚,不然谁也猜不透你的真实想法。",
+    "pinyin": "Chú fēi nǐ bǎ huà shuō qīng chǔ, bù rán shuí yě cāi bù tòu nǐ de zhēn shí xiǎng fǎ。",
+    "en": "Unless you speak plainly, no one can read your true mind."
+   },
+   {
+    "zh": "这些机密文件,除非得到批准,否则任何人不得查阅。",
+    "pinyin": "Zhè xiē jī mì wén jiàn, chú fēi dé dào pī zhǔn, fǒu zé rèn hé rén bù de chá yuè。",
+    "en": "These files may not be viewed by anyone without approval."
+   },
+   {
+    "zh": "除非亲眼所见,否则他是绝对不会轻易相信的。",
+    "pinyin": "Chú fēi qīn yǎn suǒ jiàn, fǒu zé tā shì jué duì bú huì qīng yì xiāng xìn de。",
+    "en": "Unless he sees it himself, he won't easily believe it."
+   },
+   {
+    "zh": "这道菜的火候很关键,除非掌握得好,否则很容易失败。",
+    "pinyin": "Zhè dào cài de huǒ hòu hěn guān jiàn, chú fēi zhǎng wò de hǎo, fǒu zé hěn róng yì shī bài。",
+    "en": "The heat is key; unless mastered, the dish easily fails."
+   },
+   {
+    "zh": "除非你现在马上出发,否则肯定赶不上那班火车。",
+    "pinyin": "Chú fēi nǐ xiàn zài mǎ shàng chū fā, fǒu zé kěn dìng gǎn bù shàng nà bān huǒ chē。",
+    "en": "Unless you leave right now, you'll surely miss that train."
+   },
+   {
+    "zh": "除非把根本问题解决掉,否则类似的麻烦还会再出现。",
+    "pinyin": "Chú fēi bǎ gēn běn wèn tí jiě jué diào, fǒu zé lèi sì de má fán hái huì zài chū xiàn。",
+    "en": "Unless the root issue is fixed, such trouble will recur."
+   },
+   {
+    "zh": "这件事除非你出面,才有可能顺利地办下来。",
+    "pinyin": "Zhè jiàn shì chú fēi nǐ chū miàn, cái yǒu kě néng shùn lì de bàn xià lái。",
+    "en": "Only if you step in can this be settled smoothly."
+   },
+   {
+    "zh": "除非彻底改掉这个坏习惯,否则他很难有大的进步。",
+    "pinyin": "Chú fēi chè dǐ gǎi diào zhè ge huài xí guàn, fǒu zé tā hěn nán yǒu dà de jìn bù。",
+    "en": "Unless he drops this bad habit, real progress is hard."
+   },
+   {
+    "zh": "那个地方非常偏僻,除非开车,否则很难到达。",
+    "pinyin": "Nà ge dì fāng fēi cháng piān pì, chú fēi kāi chē, fǒu zé hěn nán dào dá。",
+    "en": "That place is remote; without a car it's hard to reach."
+   },
+   {
+    "zh": "除非价格能再降一些,否则我暂时还不打算购买。",
+    "pinyin": "Chú fēi jià gé néng zài jiàng yī xiē, fǒu zé wǒ zàn shí hái bù dǎ suàn gòu mǎi。",
+    "en": "Unless the price drops more, I won't buy for now."
+   },
+   {
+    "zh": "这种野生动物很警觉,除非十分安静,否则很难靠近。",
+    "pinyin": "Zhè zhǒng yě shēng dòng wù hěn jǐng jué, chú fēi shí fēn ān jìng, fǒu zé hěn nán kào jìn。",
+    "en": "This wild animal is wary; without silence you can't approach."
+   },
+   {
+    "zh": "除非你亲自尝一口,否则永远想象不出它有多好吃。",
+    "pinyin": "Chú fēi nǐ qīn zì cháng yī kǒu, fǒu zé yǒng yuǎn xiǎng xiàng bù chū tā yǒu duō hǎo chī。",
+    "en": "Unless you taste it yourself, you can't imagine how good it is."
+   },
+   {
+    "zh": "除非把地基加固,否则这栋老房子迟早会出问题。",
+    "pinyin": "Chú fēi bǎ de jī jiā gù, fǒu zé zhè dòng lǎo fáng zi chí zǎo huì chū wèn tí。",
+    "en": "Unless the foundation is reinforced, the old house will fail."
+   },
+   {
+    "zh": "这道题非常难,除非有人指点,否则我实在做不出来。",
+    "pinyin": "Zhè dào tí fēi cháng nán, chú fēi yǒu rén zhǐ diǎn, fǒu zé wǒ shí zài zuò bù chū lái。",
+    "en": "The problem is so hard that without guidance I can't solve it."
+   },
+   {
+    "zh": "除非他改变态度,否则我们的合作恐怕很难继续。",
+    "pinyin": "Chú fēi tā gǎi biàn tài dù, fǒu zé wǒ men de hé zuò kǒng pà hěn nán jì xù。",
+    "en": "Unless he changes his attitude, our cooperation can't go on."
+   },
+   {
+    "zh": "这盆花很娇气,除非精心照料,否则很容易枯死。",
+    "pinyin": "Zhè pén huā hěn jiāo qì, chú fēi jīng xīn zhào liào, fǒu zé hěn róng yì kū sǐ。",
+    "en": "This flower is delicate; without care it easily withers."
+   },
+   {
+    "zh": "除非你信得过我,才能把这么重要的事交给我去办。",
+    "pinyin": "Chú fēi nǐ xìn de guò wǒ, cái néng bǎ zhè me zhòng yào de shì jiāo gěi wǒ qù bàn。",
+    "en": "Only if you trust me can you hand me so important a task."
+   }
+  ]
+ },
+ {
+  "id": "g390",
+  "level": 4,
+  "title": "\"把\" yapısının ileri kullanımları",
+  "titleEn": "Advanced uses of \"ba\"",
+  "pattern": "Özne + 把 + Nesne + Fiil + Sonuç/Tümleç",
+  "summary": "\"把\" nesneye bir şey yapılıp onun değiştiğini/işlendiğini vurgular: 他把杯子打碎了 = Bardağı kırdı; 请把窗户打开 = Lütfen pencereyi aç.",
+  "explanation": "\"把\" yapısı, bir NESNEYİ fiilin önüne çekip o nesneye YAPILAN işlemi ve onun ne HÂLE geldiğini vurgular. Temel kalıp: özne + 把 + belirli nesne + fiil + sonuç/tümleç. İleri düzeyde bilinmesi gerekenler: (1) Fiil YALIN olamaz — ardından mutlaka bir sonuç, yön, tekrar, 了 ya da tümleç gelir: 把书放好 (kitabı yerine koy), 把饭吃完 (yemeği bitir), 把门关上 (kapıyı kapat), 把信念一遍 (mektubu bir oku). (2) Nesne BELİRLİ/bilinen olmalıdır (bir 一个... değil). (3) İstenmeyen/beklenmedik sonuçlarda çok kullanılır, hatta \"把\"den sonra bazen \"beklenmedik özne\" gelir: 这场大雨把我们的计划打乱了 (Bu yağmur planımızı altüst etti), 一句话把他说得脸都红了 (Bir söz onu kızartıverdi). (4) Olumsuzluk (没/别/不要) ve yardımcı fiiller (要/能/得) \"把\"nin ÖNÜNE gelir: 我没把这件事忘了 (Bunu unutmadım), 别把秘密说出去 (Sırrı söyleme). (5) \"把 A 当作 B\" (A'yı B saymak), \"把 A 弄/搞 + sonuç\" gibi kalıplarda da yerleşiktir. \"把\" özellikle NESNENİN durumunu değiştiren, yerini/hâlini işleyen eylemlerde doğaldır. Türkçeye çoğu zaman nesneyi belirginleştiren düz bir cümleyle (\"...-i ... etti\") çevrilir.",
+  "examples": [
+   {
+    "zh": "你出门前一定要记得把所有的灯都关掉。",
+    "pinyin": "Nǐ chū mén qián yí dìng yào jì de bǎ suǒ yǒu de dēng dōu guān diào。",
+    "en": "Before leaving, be sure to turn off all the lights."
+   },
+   {
+    "zh": "这场突如其来的大雨,把我们精心安排的计划全打乱了。",
+    "pinyin": "Zhè chǎng tū rú qí lái de dà yǔ, bǎ wǒ men jīng xīn ān pái de jì huà quán dǎ luàn le。",
+    "en": "The sudden downpour threw our carefully arranged plans into disarray."
+   },
+   {
+    "zh": "请你把这份文件仔细地检查一遍再交上去。",
+    "pinyin": "Qǐng nǐ bǎ zhè fèn wén jiàn zǐ xì de jiǎn chá yī biàn zài jiāo shàng qù。",
+    "en": "Please check this document carefully before submitting it."
+   },
+   {
+    "zh": "他一不小心,把桌上那只珍贵的花瓶碰倒了。",
+    "pinyin": "Tā yí bù xiǎo xīn, bǎ zhuō shàng nà zhǐ zhēn guì de huā píng pèng dào le。",
+    "en": "Careless for a moment, he knocked over the precious vase."
+   },
+   {
+    "zh": "妈妈把孩子换下来的脏衣服都洗得干干净净。",
+    "pinyin": "Mā mā bǎ hái zi huàn xià lái de zāng yī fú dōu xǐ de gān gān jìng jìng。",
+    "en": "Mother washed all the child's dirty clothes spotless."
+   },
+   {
+    "zh": "你千万别把这件事的真相告诉任何人。",
+    "pinyin": "Nǐ qiān wàn bié bǎ zhè jiàn shì de zhēn xiàng gào sù rèn hé rén。",
+    "en": "Whatever you do, don't tell anyone the truth of this."
+   },
+   {
+    "zh": "他三下五除二就把那道难题给解开了。",
+    "pinyin": "Tā sān xià wǔ chú èr jiù bǎ nà dào nán tí gěi jiě kāi le。",
+    "en": "In no time he cracked that difficult problem."
+   },
+   {
+    "zh": "请大家把手机调成静音,以免影响会议的进行。",
+    "pinyin": "Qǐng dà jiā bǎ shǒu jī diào chéng jìng yīn, yǐ miǎn yǐng xiǎng huì yì de jìn xíng。",
+    "en": "Please silence your phones so the meeting isn't disturbed."
+   },
+   {
+    "zh": "一句无心的玩笑,竟把好好的气氛给弄僵了。",
+    "pinyin": "Yī jù wú xīn de wán xiào, jìng bǎ hǎo hǎo de qì fēn gěi nòng jiāng le。",
+    "en": "A careless joke soured the whole pleasant mood."
+   },
+   {
+    "zh": "他小心翼翼地把那封旧信重新折好,放回了抽屉。",
+    "pinyin": "Tā xiǎo xīn yì yì de bǎ nà fēng jiù xìn chóng xīn zhé hǎo, fàng huí le chōu tì。",
+    "en": "He carefully refolded the old letter and put it back in the drawer."
+   },
+   {
+    "zh": "你怎么把我叮嘱过的话又给忘到脑后了呢?",
+    "pinyin": "Nǐ zěn me bǎ wǒ dīng zhǔ guò de huà yòu gěi wàng dào nǎo hòu le ne?",
+    "en": "How did you forget again what I so carefully told you?"
+   },
+   {
+    "zh": "大风把院子里晾着的衣服吹得七零八落。",
+    "pinyin": "Dà fēng bǎ yuàn zi lǐ liàng zhe de yī fú chuī de qī líng bā luò。",
+    "en": "The strong wind scattered the clothes drying in the yard."
+   },
+   {
+    "zh": "请把桌上这些散乱的资料按顺序整理好。",
+    "pinyin": "Qǐng bǎ zhuō shàng zhè xiē sǎn luàn de zī liào àn shùn xù zhěng lǐ hǎo。",
+    "en": "Please sort these scattered materials on the desk in order."
+   },
+   {
+    "zh": "他一激动,竟把准备好的台词忘得一干二净。",
+    "pinyin": "Tā yī jī dòng, jìng bǎ zhǔn bèi hǎo de tái cí wàng de yī gān èr jìng。",
+    "en": "Overexcited, he forgot every line he'd prepared."
+   },
+   {
+    "zh": "我们应该把有限的时间和精力用在最重要的事情上。",
+    "pinyin": "Wǒ men yīng gāi bǎ yǒu xiàn de shí jiān hé jīng lì yòng zài zuì zhòng yào de shì qíng shàng。",
+    "en": "We should spend our limited time and energy on what matters most."
+   },
+   {
+    "zh": "孩子把地上的碎纸片一片一片地捡了起来。",
+    "pinyin": "Hái zi bǎ de shàng de suì zhǐ piàn yī piàn yī piàn de jiǎn le qǐ lái。",
+    "en": "The child picked up the torn paper scraps one by one."
+   },
+   {
+    "zh": "请你先把情况的来龙去脉给大家解释清楚。",
+    "pinyin": "Qǐng nǐ xiān bǎ qíng kuàng de lái lóng qù mài gěi dà jiā jiě shì qīng chǔ。",
+    "en": "Please first explain the whole situation clearly to everyone."
+   },
+   {
+    "zh": "他不小心把刚泡好的一杯热茶碰洒在了书上。",
+    "pinyin": "Tā bù xiǎo xīn bǎ gāng pào hǎo de yī bēi rè chá pèng sǎ zài le shū shàng。",
+    "en": "He accidentally spilled the fresh hot tea onto the book."
+   },
+   {
+    "zh": "你能不能把说话的声音稍微放低一点儿?",
+    "pinyin": "Nǐ néng bù néng bǎ shuō huà de shēng yīn shāo wēi fàng dī yì diǎn ér?",
+    "en": "Could you please lower your voice a little?"
+   },
+   {
+    "zh": "这次经历把他磨炼得比以前成熟稳重多了。",
+    "pinyin": "Zhè cì jīng lì bǎ tā mó liàn de bǐ yǐ qián chéng shú wěn zhòng duō le。",
+    "en": "This experience tempered him into someone far more mature."
+   },
+   {
+    "zh": "请务必把贵重物品随身带好,不要放在车上。",
+    "pinyin": "Qǐng wù bì bǎ guì zhòng wù pǐn suí shēn dài hǎo, bú yào fàng zài chē shàng。",
+    "en": "Be sure to keep valuables with you, not left in the car."
+   },
+   {
+    "zh": "他费了好大的劲,才把那个生了锈的螺丝拧下来。",
+    "pinyin": "Tā fèi le hǎo dà de jìn, cái bǎ nà ge shēng le xiù de luó sī níng xià lái。",
+    "en": "With great effort he unscrewed the rusted bolt."
+   },
+   {
+    "zh": "你别把简单的问题想得太复杂,其实很好解决。",
+    "pinyin": "Nǐ bié bǎ jiǎn dān de wèn tí xiǎng de tài fù zá, qí shí hěn hǎo jiě jué。",
+    "en": "Don't overthink a simple problem; it's actually easy to solve."
+   },
+   {
+    "zh": "护士轻轻地把熟睡的病人扶到了病床上。",
+    "pinyin": "Hù shì qīng qīng de bǎ shú shuì de bìng rén fú dào le bìng chuáng shàng。",
+    "en": "The nurse gently helped the sleeping patient onto the bed."
+   },
+   {
+    "zh": "一场大病,几乎把他一辈子的积蓄都花光了。",
+    "pinyin": "Yī cháng dà bìng, jī hū bǎ tā yī bèi zi de jī xù dōu huā guāng le。",
+    "en": "A serious illness nearly used up his life's savings."
+   }
+  ]
+ },
+ {
+  "id": "g391",
+  "level": 4,
+  "title": "\"连...都/也\" yapısının ileri kullanımları",
+  "titleEn": "Advanced uses of \"lian\"",
+  "pattern": "连 + (en uç öğe) + 都 / 也 ...",
+  "summary": "\"连...都/也\" en beklenmedik/en uç örneği vurgular: 他连饭都顾不上吃 = Yemek yemeye bile vakit bulamıyor.",
+  "explanation": "\"连...都/也\" bir öğeyi — çoğu zaman en BEKLENMEDİK, en uç ya da en sıradan örneği — öne çıkararak \"... bile\" anlamıyla bir durumu abartır/pekiştirir. Kalıp: 连 + vurgulanan öğe + 都/也 + (çoğu zaman olumsuz) yüklem. Temel kullanımın ötesinde ileri düzeyde: (1) Öğe ÖZNE olabilir: 连老师都被这个问题难住了 (Bu soru öğretmeni bile şaşırttı). (2) NESNE olabilir ve nesne \"连\" ile öne çekilir: 他连一句谢谢都没说 (Bir teşekkür bile etmedi), 我连他的名字都不知道 (Adını bile bilmiyorum). (3) FİİLİN kendisi vurgulanır, çoğu zaman \"连 V 都没 V\": 他连看都没看我一眼 (Bana bakmadı bile), 这本书我连翻都没翻过 (Bu kitabı açmadım bile). (4) En küçük miktar (一 + ölçü) ile \"hiç\": 连一分钟都不肯等 (Bir dakika bile beklemedi), 连一个字都没写 (Tek bir kelime bile yazmadı). \"连\" vurgulanan öğenin bile geçerli olduğunu belirterek \"böylesi bile öyleyse, ötekiler zaten öyle\" imasını taşır; çoğu zaman şaşkınlık, sitem ya da abartı bildirir. \"甚至\" (hatta) ile yakındır ama \"连...都/也\" kalıbı daha vurgulu ve konuşma dilidir. Türkçedeki \"... bile, hatta ... bile, ...-i dahi\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这几天他忙得连一口热饭都顾不上吃。",
+    "pinyin": "Zhè jǐ tiān tā máng de lián yī kǒu rè fàn dōu gù bù shàng chī。",
+    "en": "These days he's so busy he can't even manage a hot meal."
+   },
+   {
+    "zh": "这个问题太难了,连经验丰富的老师也一时答不上来。",
+    "pinyin": "Zhè ge wèn tí tài nán le, lián jīng yàn fēng fù de lǎo shī yě yī shí dá bù shàng lái。",
+    "en": "The problem was so hard even the veteran teacher was stumped."
+   },
+   {
+    "zh": "他匆匆走了,连一句道别的话都没来得及说。",
+    "pinyin": "Tā cōng cōng zǒu le, lián yī jù dào bié de huà dōu méi lái de jí shuō。",
+    "en": "He left in a hurry, without even a word of farewell."
+   },
+   {
+    "zh": "我跟他并不熟,连他的全名都叫不出来。",
+    "pinyin": "Wǒ gēn tā bìng bù shú, lián tā de quán míng dōu jiào bù chū lái。",
+    "en": "I hardly know him; I can't even say his full name."
+   },
+   {
+    "zh": "那本书我买回来放了半年,连翻都还没翻过。",
+    "pinyin": "Nà běn shū wǒ mǎi huí lái fàng le bàn nián, lián fān dōu hái méi fān guò。",
+    "en": "The book sat half a year; I haven't even opened it."
+   },
+   {
+    "zh": "他气得头也不回地走了,连看都没看我一眼。",
+    "pinyin": "Tā qì de tóu yě bù huí de zǒu le, lián kàn dōu méi kàn wǒ yī yǎn。",
+    "en": "He stormed off without turning, not even a glance at me."
+   },
+   {
+    "zh": "时间实在太紧,他连一分钟都不肯多耽误。",
+    "pinyin": "Shí jiān shí zài tài jǐn, tā lián yì fēn zhōng dōu bù kěn duō dān wù。",
+    "en": "Time was so tight he wouldn't waste even a minute."
+   },
+   {
+    "zh": "这孩子饿坏了,连平时最不爱吃的青菜都吃光了。",
+    "pinyin": "Zhè hái zi è huài le, lián píng shí zuì bù ài chī de qīng cài dōu chī guāng le。",
+    "en": "The starving child even finished the greens he usually hates."
+   },
+   {
+    "zh": "那道题看着简单,可连班上最聪明的学生都做错了。",
+    "pinyin": "Nà dào tí kàn zhe jiǎn dān, kě lián bān shàng zuì cōng míng de xué shēng dōu zuò cuò le。",
+    "en": "The problem looked easy, yet even the brightest got it wrong."
+   },
+   {
+    "zh": "他太累了,回到家连衣服都没脱就睡着了。",
+    "pinyin": "Tā tài lèi le, huí dào jiā lián yī fú dōu méi tuō jiù shuì zháo le。",
+    "en": "So tired, he fell asleep at home without even undressing."
+   },
+   {
+    "zh": "这件事太突然,连一向镇定的他也慌了神。",
+    "pinyin": "Zhè jiàn shì tài tū rán, lián yí xiàng zhèn dìng de tā yě huāng le shén。",
+    "en": "It was so sudden that even the always-calm him panicked."
+   },
+   {
+    "zh": "走得太急,他连钱包和钥匙都忘在了桌子上。",
+    "pinyin": "Zǒu de tài jí, tā lián qián bāo hé yào shi dōu wàng zài le zhuō zi shàng。",
+    "en": "Leaving in haste, he left even his wallet and keys behind."
+   },
+   {
+    "zh": "这么冷的天,连平时最耐冻的他都裹上了厚外套。",
+    "pinyin": "Zhè me lěng de tiān, lián píng shí zuì nài dòng de tā dōu guǒ shàng le hòu wài tào。",
+    "en": "In such cold, even the frost-hardy him bundled up."
+   },
+   {
+    "zh": "她伤心得连最爱的那首歌都没心情听了。",
+    "pinyin": "Tā shāng xīn de lián zuì ài de nà shǒu gē dōu méi xīn qíng tīng le。",
+    "en": "So sad was she that even her favorite song held no charm."
+   },
+   {
+    "zh": "这个道理连三岁的小孩都懂,你怎么会不明白呢?",
+    "pinyin": "Zhè ge dào lǐ lián sān suì de xiǎo hái dōu dǒng, nǐ zěn me huì bù míng bái ne?",
+    "en": "Even a three-year-old gets this; how can you not?"
+   },
+   {
+    "zh": "他专心得连有人进来了都没有察觉。",
+    "pinyin": "Tā zhuān xīn de lián yǒu rén jìn lái le dōu méi yǒu chá jué。",
+    "en": "He was so absorbed he didn't even notice someone come in."
+   },
+   {
+    "zh": "这次考试他准备得太仓促,连课本都没来得及看完。",
+    "pinyin": "Zhè cì kǎo shì tā zhǔn bèi de tài cāng cù, lián kè běn dōu méi lái de jí kàn wán。",
+    "en": "He prepared so hastily he hadn't even finished the textbook."
+   },
+   {
+    "zh": "大家都被逗乐了,连一向严肃的经理也忍不住笑了。",
+    "pinyin": "Dà jiā dōu bèi dòu lè le, lián yí xiàng yán sù de jīng lǐ yě rěn bú zhù xiào le。",
+    "en": "Everyone was tickled; even the stern manager couldn't help laughing."
+   },
+   {
+    "zh": "他把秘密藏得很深,连最亲近的家人都毫不知情。",
+    "pinyin": "Tā bǎ mì mì cáng de hěn shēn, lián zuì qīn jìn de jiā rén dōu háo bù zhī qíng。",
+    "en": "He hid the secret so deep that even close family knew nothing."
+   },
+   {
+    "zh": "那天雨下得太大,连出门买菜都成了一件难事。",
+    "pinyin": "Nà tiān yǔ xià de tài dà, lián chū mén mǎi cài dōu chéng le yī jiàn nán shì。",
+    "en": "The rain was so heavy that even shopping became hard."
+   },
+   {
+    "zh": "他慷慨得很,连素不相识的陌生人也愿意帮上一把。",
+    "pinyin": "Tā kāng kǎi de hěn, lián sù bù xiāng shí de mò shēng rén yě yuàn yì bāng shàng yī bǎ。",
+    "en": "So generous is he that he'd even help a total stranger."
+   },
+   {
+    "zh": "这道菜咸得连一向不挑食的他都皱起了眉头。",
+    "pinyin": "Zhè dào cài xián de lián yí xiàng bù tiāo shí de tā dōu zhòu qǐ le méi tóu。",
+    "en": "The dish was so salty even the never-picky him frowned."
+   },
+   {
+    "zh": "他专注地写着,连窗外下起了大雨都浑然不觉。",
+    "pinyin": "Tā zhuān zhù de xiě zhe, lián chuāng wài xià qǐ le dà yǔ dōu hún rán bù jué。",
+    "en": "He wrote so intently he didn't even sense the rain outside."
+   },
+   {
+    "zh": "消息来得太快,大家连反应的时间都没有。",
+    "pinyin": "Xiāo xī lái de tài kuài, dà jiā lián fǎn yìng de shí jiān dōu méi yǒu。",
+    "en": "The news came so fast no one even had time to react."
+   },
+   {
+    "zh": "他一贫如洗,连最基本的生活都难以维持。",
+    "pinyin": "Tā yī pín rú xǐ, lián zuì jī běn de shēng huó dōu nán yǐ wéi chí。",
+    "en": "Penniless, he could barely even sustain a basic living."
+   }
+  ]
+ },
+ {
+  "id": "g392",
+  "level": 4,
+  "title": "\"不比\" ile karşılaştırmayı olumsuzlama",
+  "titleEn": "Basic comparisons with \"bu bi\"",
+  "pattern": "A 不比 B + (Sıfat)",
+  "summary": "\"A 不比 B\" A'nın B'den üstün OLMADIĞINI (çoğu zaman eşit ya da geride) bildirir: 我不比他高 = Ben ondan uzun değilim.",
+  "explanation": "\"A 不比 B\" karşılaştırma cümlesi \"A 比 B\"nin olumsuzudur ama anlamı inceliklidir: A'nın B'den DAHA ... OLMADIĞINI bildirir — çoğu zaman ikisinin EŞİT olduğunu ya da A'nın geride olduğunu ima eder: \"A, B'den daha ... değil\". 我不比他高 (Ben ondan uzun değilim — ya aynıyız ya o daha uzun), 今年的收成不比去年差 (Bu yılki hasat geçen yıldan kötü değil — en az onun kadar iyi), 他的能力不比谁差 (Yeteneği kimseden aşağı değil). Önemli fark: \"A 没有 B ...\" (A, B kadar ... değil) düz bir eşitsizlik bildirir (我没有他高 = ben onun kadar uzun değilim, kesinlikle daha kısa); oysa \"A 不比 B ...\" bir BEKLENTİYİ/iddiayı çürütür — karşıdaki \"A daha ...\" demiştir, konuşan \"hayır, A ondan daha ... değil\" diye itiraz eder. Bu yüzden \"不比\" çoğu zaman bir tartışma/itiraz bağlamında, \"sandığın gibi üstün değil, aslında denk\" anlamında kullanılır. Türkçedeki \"...-den daha ... değil, ...-den üstün değil, en az ... kadar\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你别小看他,他的本事一点也不比别人差。",
+    "pinyin": "Nǐ bié xiǎo kàn tā, tā de běn shì yì diǎn yě bù bǐ bié rén chà。",
+    "en": "Don't underrate him; his skill is no less than anyone's."
+   },
+   {
+    "zh": "今年的收成不比去年少,大家都松了一口气。",
+    "pinyin": "Jīn nián de shōu chéng bù bǐ qù nián shào, dà jiā dōu sōng le yì kǒu qì。",
+    "en": "This year's harvest is no less than last year's; all felt relieved."
+   },
+   {
+    "zh": "论认真,这个新来的员工不比谁差。",
+    "pinyin": "Lùn rèn zhēn, zhè ge xīn lái de yuán gōng bù bǐ shuí chà。",
+    "en": "In diligence, this new employee is second to none."
+   },
+   {
+    "zh": "我个子不比他矮,只是站的位置靠后而已。",
+    "pinyin": "Wǒ gè zi bù bǐ tā ǎi, zhǐ shì zhàn de wèi zhì kào hòu ér yǐ。",
+    "en": "I'm not shorter than him; I just stood further back."
+   },
+   {
+    "zh": "这家小店的味道其实不比那些大饭店逊色。",
+    "pinyin": "Zhè jiā xiǎo diàn de wèi dào qí shí bù bǐ nà xiē dà fàn diàn xùn sè。",
+    "en": "This little shop's food is really no worse than big restaurants'."
+   },
+   {
+    "zh": "他年纪虽然大了,干起活来却不比年轻人慢。",
+    "pinyin": "Tā nián jì suī rán dà le, gàn qǐ huó lái què bù bǐ nián qīng rén màn。",
+    "en": "Old as he is, he works no slower than the young."
+   },
+   {
+    "zh": "这条乡间小路的风景,不比公园里的差。",
+    "pinyin": "Zhè tiáo xiāng jiān xiǎo lù de fēng jǐng, bù bǐ gōng yuán lǐ de chà。",
+    "en": "The scenery on this country lane is no worse than the park's."
+   },
+   {
+    "zh": "别看她话不多,做起事来不比谁不认真。",
+    "pinyin": "Bié kàn tā huà bù duō, zuò qǐ shì lái bù bǐ shuí bù rèn zhēn。",
+    "en": "She talks little, but works no less earnestly than anyone."
+   },
+   {
+    "zh": "这款国产手机的性能,不比进口的差多少。",
+    "pinyin": "Zhè kuǎn guó chǎn shǒu jī de xìng néng, bù bǐ jìn kǒu de chà duō shǎo。",
+    "en": "This domestic phone performs about as well as imported ones."
+   },
+   {
+    "zh": "论经验,他不比那些老员工少,只是为人低调。",
+    "pinyin": "Lùn jīng yàn, tā bù bǐ nà xiē lǎo yuán gōng shǎo, zhǐ shì wéi rén dī diào。",
+    "en": "In experience he's no less than the veterans; he's just modest."
+   },
+   {
+    "zh": "这里的冬天不比北方暖和,你要多带些厚衣服。",
+    "pinyin": "Zhè lǐ de dōng tiān bù bǐ běi fāng nuǎn huo, nǐ yào duō dài xiē hòu yī fú。",
+    "en": "Winter here is no warmer than the north; bring warm clothes."
+   },
+   {
+    "zh": "他画的这幅画,水平不比专业画家逊色。",
+    "pinyin": "Tā huà de zhè fú huà, shuǐ píng bù bǐ zhuān yè huà jiā xùn sè。",
+    "en": "This painting of his rivals a professional's in quality."
+   },
+   {
+    "zh": "我们队今年的实力不比冠军队弱,很有希望。",
+    "pinyin": "Wǒ men duì jīn nián de shí lì bù bǐ guàn jūn duì ruò, hěn yǒu xī wàng。",
+    "en": "Our team is no weaker than the champions this year; hopes are high."
+   },
+   {
+    "zh": "这个偏僻的小村庄,空气不比任何名胜差。",
+    "pinyin": "Zhè ge piān pì de xiǎo cūn zhuāng, kōng qì bù bǐ rèn hé míng shèng chà。",
+    "en": "This remote village's air is no worse than any famous site's."
+   },
+   {
+    "zh": "她的厨艺一点不比餐馆的大厨差,人人都爱吃。",
+    "pinyin": "Tā de chú yì yì diǎn bù bǐ cān guǎn de dà chú chà, rén rén dōu ài chī。",
+    "en": "Her cooking is no worse than a chef's; everyone loves it."
+   },
+   {
+    "zh": "这条旧裤子穿着不比新的舒服吗?何必扔掉。",
+    "pinyin": "Zhè tiáo jiù kù zi chuān zhe bù bǐ xīn de shū fú ma? hé bì rēng diào。",
+    "en": "Aren't these old trousers as comfy as new? Why toss them."
+   },
+   {
+    "zh": "论耐心,做母亲的往往不比任何人少。",
+    "pinyin": "Lùn nài xīn, zuò mǔ qīn de wǎng wǎng bù bǐ rèn hé rén shǎo。",
+    "en": "In patience, a mother is often second to none."
+   },
+   {
+    "zh": "他自学的水平其实不比科班出身的人低。",
+    "pinyin": "Tā zì xué de shuǐ píng qí shí bù bǐ kē bān chū shēn de rén dī。",
+    "en": "His self-taught level is really no lower than the formally trained."
+   },
+   {
+    "zh": "这次比赛我们的表现不比对手差,只是运气欠佳。",
+    "pinyin": "Zhè cì bǐ sài wǒ men de biǎo xiàn bù bǐ duì shǒu chà, zhǐ shì yùn qì qiàn jiā。",
+    "en": "We performed no worse than our rivals; luck just wasn't with us."
+   },
+   {
+    "zh": "这种普通的食材,做好了不比山珍海味逊色。",
+    "pinyin": "Zhè zhǒng pǔ tōng de shí cái, zuò hǎo le bù bǐ shān zhēn hǎi wèi xùn sè。",
+    "en": "Cooked well, common ingredients rival any delicacy."
+   },
+   {
+    "zh": "小城市的生活节奏虽慢,便利程度却不比大城市差太多。",
+    "pinyin": "Xiǎo chéng shì de shēng huó jié zòu suī màn, biàn lì chéng dù què bù bǐ dà chéng shì chà tài duō。",
+    "en": "A small city's pace is slow, but its convenience isn't far behind."
+   },
+   {
+    "zh": "他嘴上不说,心里的委屈其实不比谁少。",
+    "pinyin": "Tā zuǐ shàng bù shuō, xīn lǐ de wěi qū qí shí bù bǐ shuí shǎo。",
+    "en": "He says nothing, but bears no less grievance than anyone."
+   },
+   {
+    "zh": "这本旧书的价值,不比那些新出版的书低。",
+    "pinyin": "Zhè běn jiù shū de jià zhí, bù bǐ nà xiē xīn chū bǎn de shū dī。",
+    "en": "This old book's value is no less than newly published ones'."
+   },
+   {
+    "zh": "论细心,他这个大男人不比任何人差。",
+    "pinyin": "Lùn xì xīn, tā zhè ge dà nán rén bù bǐ rèn hé rén chà。",
+    "en": "In carefulness, this grown man is no worse than anyone."
+   },
+   {
+    "zh": "我们付出的努力,不比任何一支队伍少。",
+    "pinyin": "Wǒ men fù chū de nǔ lì, bù bǐ rèn hé yī zhī duì wǔ shǎo。",
+    "en": "The effort we put in is no less than any other team's."
+   }
+  ]
  }
 ]

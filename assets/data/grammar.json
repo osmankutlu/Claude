@@ -64054,5 +64054,685 @@
     "en": "He treats each setback as a chance to grow, braver each time."
    }
   ]
+ },
+ {
+  "id": "g472",
+  "level": 5,
+  "title": "\"谅\" ile \"eminim ...-mez / haddine mi\"",
+  "titleEn": "Expressing \"I bet\" using \"liang\"",
+  "pattern": "谅 + Kişi + 也 + 不/不敢 + Fiil",
+  "summary": "\"谅\" konuşanın \"eminim ...-maz/...-e cesaret edemez\" kanaatini bildirir: 谅他也不敢来 = Eminim gelmeye cesaret edemez.",
+  "explanation": "\"谅\" (liàng) burada \"tahmin ederim ki, eminim ki, bahse girerim\" anlamında bir kanaat bildirir; genellikle karşı tarafın bir şeyi YAPAMAYACAĞINA/yapmaya cesaret edemeyeceğine dair güvenli bir yargıdır: \"eminim ...-mez, ...-e cesaret edemez, haddine mi, yapamaz herhâlde\". Kalıp: 谅 + kişi + 也 + 不/不会/不敢 + fiil. 谅他也不敢当面撒谎 (Eminim yüzüme karşı yalan söylemeye cesaret edemez), 谅你也不知道这件事 (Eminim sen bunu bilmezsin), 这么点小事,谅他也不会放在心上 (Bu kadarcık şeyi, eminim umursamaz bile), 谅他一个人也翻不起什么大浪 (Tek başına eminim ciddi bir şey yapamaz). \"谅\" (aslen \"anlayışla karşılamak, tahmin etmek\" — 谅解 gibi) bu kalıpta konuşanın karşı tarafı KÜÇÜMSEYEREK ya da güvenle \"o bunu yapamaz/cesaret edemez\" dediğini gösterir; çoğu zaman \"也\" ve olumsuz bir yüklemle (不敢/不会/不能) gelir ve meydan okuma, güvence ya da hafif küçümseme tonu taşır. Konuşma dilinde ve edebî anlatımda görülür. Türkçedeki \"eminim ...-mez, ...-e cesaret edemez, haddine mi, yapamaz herhâlde\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你放心,谅他也不敢当着大家的面撒这种谎。",
+    "pinyin": "Nǐ fàng xīn, liàng tā yě bù gǎn dāng zhe dà jiā de miàn sā zhè zhǒng huǎng。",
+    "en": "Relax; I bet he wouldn't dare tell such a lie to our faces."
+   },
+   {
+    "zh": "这么晚了,谅他也不会再打电话过来打扰我们。",
+    "pinyin": "Zhè me wǎn le, liàng tā yě bú huì zài dǎ diàn huà guò lái dǎ rǎo wǒ men。",
+    "en": "It's so late; I bet he won't call to disturb us again."
+   },
+   {
+    "zh": "这点小误会而已,谅她也不会真的往心里去。",
+    "pinyin": "Zhè diǎn xiǎo wù huì ér yǐ, liàng tā yě bú huì zhēn de wǎng xīn lǐ qù。",
+    "en": "It's a small misunderstanding; I bet she won't take it to heart."
+   },
+   {
+    "zh": "你就放一百个心吧,谅他一个人也翻不出什么花样。",
+    "pinyin": "Nǐ jiù fàng yì bǎi gè xīn ba, liàng tā yí gè rén yě fān bù chū shén me huā yàng。",
+    "en": "Rest fully assured; alone he can't stir up much trouble."
+   },
+   {
+    "zh": "这么难的题,谅他们也答不上来,大可不必担心。",
+    "pinyin": "Zhè me nán de tí, liàng tā men yě dá bù shàng lái, dà kě bù bì dān xīn。",
+    "en": "Such a hard question — I bet they can't answer; no need to worry."
+   },
+   {
+    "zh": "我把话都说到这份上了,谅他也不好意思再推辞。",
+    "pinyin": "Wǒ bǎ huà dōu shuō dào zhè fèn shàng le, liàng tā yě bù hǎo yì sī zài tuī cí。",
+    "en": "I've said it so plainly; I bet he'll be too embarrassed to refuse."
+   },
+   {
+    "zh": "你别担心了,谅他也不敢把这件事捅出去。",
+    "pinyin": "Nǐ bié dān xīn le, liàng tā yě bù gǎn bǎ zhè jiàn shì tǒng chū qù。",
+    "en": "Don't worry; I bet he wouldn't dare let this out."
+   },
+   {
+    "zh": "这么小的孩子,谅他也不会一个人跑那么远。",
+    "pinyin": "Zhè me xiǎo de hái zi, liàng tā yě bú huì yí gè rén pǎo nà me yuǎn。",
+    "en": "Such a small child — I bet he wouldn't wander that far alone."
+   },
+   {
+    "zh": "凭他那点胆量,谅他也不敢跟老板顶嘴。",
+    "pinyin": "Píng tā nà diǎn dǎn liàng, liàng tā yě bù gǎn gēn lǎo bǎn dǐng zuǐ。",
+    "en": "With his nerve, I bet he wouldn't dare talk back to the boss."
+   },
+   {
+    "zh": "你尽管去,谅那几个人也拦不住你。",
+    "pinyin": "Nǐ jǐn guǎn qù, liàng nà jǐ gè rén yě lán bú zhù nǐ。",
+    "en": "Go ahead; I bet those few can't stop you."
+   },
+   {
+    "zh": "这种小把戏,谅他也骗不了见多识广的老李。",
+    "pinyin": "Zhè zhǒng xiǎo bǎ xì, liàng tā yě piàn bù liǎo jiàn duō shí guǎng de lǎo lǐ。",
+    "en": "Such tricks — I bet they can't fool the worldly Old Li."
+   },
+   {
+    "zh": "你把门锁好,谅那小偷也进不来。",
+    "pinyin": "Nǐ bǎ mén suǒ hǎo, liàng nà xiǎo tōu yě jìn bù lái。",
+    "en": "Lock the door well; I bet the thief can't get in."
+   },
+   {
+    "zh": "这么重的担子,谅他一个人也挑不动。",
+    "pinyin": "Zhè me zhòng de dàn zi, liàng tā yí gè rén yě tiāo bù dòng。",
+    "en": "Such a heavy load — I bet he can't carry it alone."
+   },
+   {
+    "zh": "我早有防备,谅他也占不到什么便宜。",
+    "pinyin": "Wǒ zǎo yǒu fáng bèi, liàng tā yě zhàn bú dào shén me pián yi。",
+    "en": "I was on guard; I bet he can't gain any advantage."
+   },
+   {
+    "zh": "这话我只跟你说,谅你也不会随便传出去。",
+    "pinyin": "Zhè huà wǒ zhǐ gēn nǐ shuō, liàng nǐ yě bú huì suí biàn chuán chū qù。",
+    "en": "I tell only you; I bet you won't spread it carelessly."
+   },
+   {
+    "zh": "凭他那三脚猫的功夫,谅他也赢不了这场比赛。",
+    "pinyin": "Píng tā nà sān jiǎo māo de gōng fu, liàng tā yě yíng bù liǎo zhè chǎng bǐ sài。",
+    "en": "With his shaky skills, I bet he can't win this match."
+   },
+   {
+    "zh": "你就直说吧,谅大家也不会笑话你。",
+    "pinyin": "Nǐ jiù zhí shuō ba, liàng dà jiā yě bú huì xiào huà nǐ。",
+    "en": "Just say it plainly; I bet no one will laugh at you."
+   },
+   {
+    "zh": "这种谣言,谅明白人也不会轻易相信。",
+    "pinyin": "Zhè zhǒng yáo yán, liàng míng bái rén yě bú huì qīng yì xiāng xìn。",
+    "en": "Such rumors — I bet no sensible person would easily believe."
+   },
+   {
+    "zh": "我看得紧紧的,谅他也没机会偷懒耍滑。",
+    "pinyin": "Wǒ kàn de jǐn jǐn de, liàng tā yě méi jī huì tōu lǎn shuǎ huá。",
+    "en": "I watch closely; I bet he gets no chance to slack off."
+   },
+   {
+    "zh": "这么明显的道理,谅他也说不出反驳的话来。",
+    "pinyin": "Zhè me míng xiǎn de dào lǐ, liàng tā yě shuō bù chū fǎn bó de huà lái。",
+    "en": "Such an obvious point — I bet he can't muster a rebuttal."
+   },
+   {
+    "zh": "你把证据都摆出来,谅他也无话可说。",
+    "pinyin": "Nǐ bǎ zhèng jù dōu bǎi chū lái, liàng tā yě wú huà kě shuō。",
+    "en": "Lay out the evidence; I bet he'll have nothing to say."
+   },
+   {
+    "zh": "这么冷的天,谅他也不会大老远跑来看比赛。",
+    "pinyin": "Zhè me lěng de tiān, liàng tā yě bú huì dà lǎo yuǎn pǎo lái kàn bǐ sài。",
+    "en": "In such cold, I bet he won't travel far to watch the game."
+   },
+   {
+    "zh": "凭他现在的处境,谅他也不敢轻举妄动。",
+    "pinyin": "Píng tā xiàn zài de chǔ jìng, liàng tā yě bù gǎn qīng jǔ wàng dòng。",
+    "en": "Given his position, I bet he wouldn't dare act rashly."
+   },
+   {
+    "zh": "我把丑话说在前头,谅他往后也不敢再犯。",
+    "pinyin": "Wǒ bǎ chǒu huà shuō zài qián tou, liàng tā wǎng hòu yě bù gǎn zài fàn。",
+    "en": "I've warned him plainly; I bet he won't dare offend again."
+   },
+   {
+    "zh": "这么点分量,谅这小秤也称不出什么差错。",
+    "pinyin": "Zhè me diǎn fèn liàng, liàng zhè xiǎo chèng yě chēng bù chū shén me chā cuò。",
+    "en": "Such a small weight — I bet this scale won't misread it."
+   }
+  ]
+ },
+ {
+  "id": "g473",
+  "level": 5,
+  "title": "\"在于\" ile \"...-de yatar / ...-e bağlıdır\"",
+  "titleEn": "Expressing \"lies in\" with \"zaiyu\"",
+  "pattern": "... 在于 + Ad / Cümle",
+  "summary": "\"在于\" bir şeyin özünün/anahtarının nerede olduğunu bildirir: 成功在于坚持 = Başarı azimde yatar.",
+  "explanation": "\"在于\" (zàiyú) bir şeyin ÖZÜNÜN, anahtarının, nedeninin ya da amacının NEREDE/NEDE olduğunu belirtir: \"...-de yatar, ...-e bağlıdır, ... ...-dedir, ...-den ibarettir, mesele ...-dir\". Kalıp: (konu) + 在于 + ad/fiil öbeği/cümle. 一年之计在于春 (Yılın planı baharda yatar), 成功的关键在于坚持不懈 (Başarının anahtarı yılmadan sürdürmekte yatar), 这本书的价值在于它真实地记录了那个时代 (Bu kitabın değeri o dönemi gerçekçi biçimde kaydetmesinde yatar), 问题的根源在于沟通不畅 (Sorunun kökeni iletişimsizlikte yatar), 学习的目的不在于分数,而在于真正掌握知识 (Öğrenmenin amacı notta değil, bilgiyi gerçekten kavramakta yatar). \"在于\" bir kavramın (关键/价值/意义/目的/问题/原因/区别) ÖZÜNÜ bir şeye bağlar; çoğu zaman \"关键在于/意义在于/区别在于\" gibi kalıplarla gelir. Sık sık \"不在于 A，而在于 B\" (mesele A'da değil B'dedir) biçiminde karşıtlıkla kullanılır. Resmî/açıklayıcı bir belirtme yapısıdır. \"在\" tek başına konum bildirirken, \"在于\" soyut olarak \"özü/anahtarı ...-dedir\" der. Türkçedeki \"...-de yatar, ...-e bağlıdır, mesele ...-dir, ...-den ibarettir\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "成功的关键往往不在于天赋,而在于持之以恒的努力。",
+    "pinyin": "Chéng gōng de guān jiàn wǎng wǎng bù zài yú tiān fù, ér zài yú chí zhī yǐ héng de nǔ lì。",
+    "en": "The key to success lies less in talent than in steady effort."
+   },
+   {
+    "zh": "这幅画的价值在于它真实地再现了当时的社会风貌。",
+    "pinyin": "Zhè fú huà de jià zhí zài yú tā zhēn shí de zài xiàn liǎo dàng shí de shè huì fēng mào。",
+    "en": "The painting's value lies in truly depicting the society of the time."
+   },
+   {
+    "zh": "解决这个问题的难点,主要在于各方利益难以协调。",
+    "pinyin": "Jiě jué zhè ge wèn tí de nán diǎn, zhǔ yào zài yú gè fāng lì yì nán yǐ xié tiáo。",
+    "en": "The difficulty lies mainly in reconciling all sides' interests."
+   },
+   {
+    "zh": "学习的意义不在于记住多少,而在于会不会运用。",
+    "pinyin": "Xué xí de yì yì bù zài yú jì zhù duō shǎo, ér zài yú huì bú huì yùn yòng。",
+    "en": "Learning's meaning lies not in how much you recall but in applying it."
+   },
+   {
+    "zh": "两种方法最大的区别在于一个重效率,一个重质量。",
+    "pinyin": "Liǎng zhǒng fāng fǎ zuì dà de qū bié zài yú yí gè zhòng xiào lǜ, yí gè zhòng zhì liàng。",
+    "en": "The chief difference lies in one stressing speed, the other quality."
+   },
+   {
+    "zh": "一个人真正的富有,在于内心的充实与安宁。",
+    "pinyin": "Yí gè rén zhēn zhèng de fù yǒu, zài yú nèi xīn de chōng shí yǔ ān níng。",
+    "en": "A person's true wealth lies in inner fullness and peace."
+   },
+   {
+    "zh": "这项政策的意义在于切实减轻了普通百姓的负担。",
+    "pinyin": "Zhè xiàng zhèng cè de yì yì zài yú qiè shí jiǎn qīng le pǔ tōng bǎi xìng de fù dān。",
+    "en": "The policy's significance lies in truly easing ordinary people's burden."
+   },
+   {
+    "zh": "旅行的乐趣,往往不在于目的地,而在于沿途的风景。",
+    "pinyin": "Lǚ xíng de lè qù, wǎng wǎng bù zài yú mù dì de, ér zài yú yán tú de fēng jǐng。",
+    "en": "Travel's joy often lies not in the destination but the journey."
+   },
+   {
+    "zh": "这次失败的原因,归根结底在于事前准备不够充分。",
+    "pinyin": "Zhè cì shī bài de yuán yīn, guī gēn jié dǐ zài yú shì qián zhǔn bèi bù gòu chōng fèn。",
+    "en": "The failure's cause lies, in the end, in insufficient preparation."
+   },
+   {
+    "zh": "教育的根本目的,在于培养健全的人格。",
+    "pinyin": "Jiào yù de gēn běn mù dì, zài yú péi yǎng jiàn quán de rén gé。",
+    "en": "Education's fundamental aim lies in fostering a sound character."
+   },
+   {
+    "zh": "这台机器的优势在于操作简单、性能稳定。",
+    "pinyin": "Zhè tái jī qì de yōu shì zài yú cāo zuò jiǎn dān、 xìng néng wěn dìng。",
+    "en": "The machine's advantage lies in easy use and stable performance."
+   },
+   {
+    "zh": "友谊的可贵之处,在于患难时依然不离不弃。",
+    "pinyin": "Yǒu yì de kě guì zhī chù, zài yú huàn nàn shí yī rán bù lí bù qì。",
+    "en": "Friendship's worth lies in staying by one another in hardship."
+   },
+   {
+    "zh": "这篇文章的高明之处,在于它把复杂的道理说得通俗易懂。",
+    "pinyin": "Zhè piān wén zhāng de gāo míng zhī chù, zài yú tā bǎ fù zá de dào lǐ shuō de tōng sú yì dǒng。",
+    "en": "The essay's brilliance lies in making complex ideas plain."
+   },
+   {
+    "zh": "健康的秘诀,其实就在于规律的作息和适度的运动。",
+    "pinyin": "Jiàn kāng de mì jué, qí shí jiù zài yú guī lǜ de zuò xī hé shì dù de yùn dòng。",
+    "en": "The secret of health lies in regular hours and moderate exercise."
+   },
+   {
+    "zh": "这场比赛的关键,在于双方能否稳住心态、正常发挥。",
+    "pinyin": "Zhè chǎng bǐ sài de guān jiàn, zài yú shuāng fāng néng fǒu wěn zhù xīn tài、 zhèng cháng fā huī。",
+    "en": "The match hinges on both sides keeping calm and playing normally."
+   },
+   {
+    "zh": "这项工程的难度在于地质条件极其复杂多变。",
+    "pinyin": "Zhè xiàng gōng chéng de nán dù zài yú de zhì tiáo jiàn jí qí fù zá duō biàn。",
+    "en": "The project's difficulty lies in the highly complex geology."
+   },
+   {
+    "zh": "一个国家的强大,归根结底在于人才的培养。",
+    "pinyin": "Yí gè guó jiā de qiáng dà, guī gēn jié dǐ zài yú rén cái de péi yǎng。",
+    "en": "A nation's strength lies, ultimately, in cultivating talent."
+   },
+   {
+    "zh": "他成功的秘诀在于永远比别人多付出一份努力。",
+    "pinyin": "Tā chéng gōng de mì jué zài yú yǒng yuǎn bǐ bié rén duō fù chū yī fèn nǔ lì。",
+    "en": "His secret to success lies in always giving a bit more effort."
+   },
+   {
+    "zh": "这段感情能否长久,关键在于彼此的理解和包容。",
+    "pinyin": "Zhè duàn gǎn qíng néng fǒu cháng jiǔ, guān jiàn zài yú bǐ cǐ de lǐ jiě hé bāo róng。",
+    "en": "Whether the bond lasts hinges on mutual understanding."
+   },
+   {
+    "zh": "读书的好处,不仅在于增长见识,更在于修养身心。",
+    "pinyin": "Dú shū de hǎo chù, bù jǐn zài yú zēng zhǎng jiàn shí, gèng zài yú xiū yǎng shēn xīn。",
+    "en": "Reading benefits not only knowledge but also the cultivation of mind."
+   },
+   {
+    "zh": "这道菜好吃的诀窍,就在于火候和调料的精准把握。",
+    "pinyin": "Zhè dào cài hǎo chī de jué qiào, jiù zài yú huǒ hòu hé tiáo liào de jīng zhǔn bǎ wò。",
+    "en": "The dish's secret lies in mastering the heat and seasoning."
+   },
+   {
+    "zh": "问题的症结在于双方缺乏最起码的信任。",
+    "pinyin": "Wèn tí de zhēng jié zài yú shuāng fāng quē fá zuì qǐ mǎ de xìn rèn。",
+    "en": "The crux of the problem lies in a lack of basic trust."
+   },
+   {
+    "zh": "这份工作的挑战在于每天都要面对全新的情况。",
+    "pinyin": "Zhè fèn gōng zuò de tiǎo zhàn zài yú měi tiān dōu yào miàn duì quán xīn de qíng kuàng。",
+    "en": "The job's challenge lies in facing new situations daily."
+   },
+   {
+    "zh": "人生的意义,或许就在于不断地追求和超越自我。",
+    "pinyin": "Rén shēng de yì yì, huò xǔ jiù zài yú bù duàn de zhuī qiú hé chāo yuè zì wǒ。",
+    "en": "Life's meaning perhaps lies in ceaseless pursuit and self-transcendence."
+   },
+   {
+    "zh": "这次改革成败的关键,在于能否得到群众的支持。",
+    "pinyin": "Zhè cì gǎi gé chéng bài de guān jiàn, zài yú néng fǒu dé dào qún zhòng de zhī chí。",
+    "en": "The reform's success hinges on winning the public's support."
+   }
+  ]
+ },
+ {
+  "id": "g474",
+  "level": 5,
+  "title": "\"不屑\" ile \"tenezzül etmemek / değer görmemek\"",
+  "titleEn": "Expressing something is \"not worth doing\" with \"buxie\"",
+  "pattern": "不屑 (于) + Fiil / 不屑一顾",
+  "summary": "\"不屑\" bir şeyi yapmaya/onunla ilgilenmeye tenezzül etmemeyi bildirir: 他不屑做这种事 = Böyle bir şey yapmaya tenezzül etmez.",
+  "explanation": "\"不屑\" (bùxiè) bir şeyi yapmayı ya da onunla ilgilenmeyi KÜÇÜK GÖRÜP tenezzül etmemeyi, değersiz/aşağı bularak reddetmeyi bildirir: \"tenezzül etmemek, değer görmemek, küçümsemek, ...-e lâyık görmemek\". Kalıp: 不屑 (+于/去) + fiil. 他为人清高,不屑于做那些投机取巧的事 (Onurlu biridir, fırsatçılık gibi şeylere tenezzül etmez), 面对别人的挑衅,他不屑一顾,转身就走了 (Kışkırtmayı umursamaya bile tenezzül etmeden dönüp gitti), 他不屑与那些人为伍 (O tür kişilerle bir arada bulunmaya tenezzül etmez), 这种小恩小惠,他根本不屑一顾 (Böyle ufak çıkarları hiç kaale almaz). Yerleşik ifade \"不屑一顾\" (dönüp bakmaya bile tenezzül etmemek, hiç kaale almamak) çok yaygındır. \"不屑\" öznenin bir şeyi kendine YAKIŞTIRMADIĞINI, onu küçük/bayağı bulup gururla reddettiğini gösterir; çoğu zaman bir kibir, onur ya da küçümseme tonu taşır. \"看不起\" (küçümsemek) ile yakındır ama \"不屑\" özellikle \"tenezzül etmeme, uğraşmaya değer görmeme\" nüansı taşır. Türkçedeki \"tenezzül etmemek, değer görmemek, küçümsemek, kaale almamak, ...-e lâyık görmemek\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他为人清高正直,向来不屑于做那些溜须拍马的事。",
+    "pinyin": "Tā wéi rén qīng gāo zhèng zhí, xiàng lái bú xiè yú zuò nà xiē liū xū pāi mǎ de shì。",
+    "en": "Upright and proud, he's never stooped to flattery."
+   },
+   {
+    "zh": "面对无端的挑衅,他不屑一顾,连眼皮都没抬一下。",
+    "pinyin": "Miàn duì wú duān de tiǎo xìn, tā bù xiè yī gù, lián yǎn pí dōu méi tái yī xià。",
+    "en": "At the pointless provocation, he didn't even deign to look up."
+   },
+   {
+    "zh": "这种靠投机取巧得来的成功,他根本不屑一顾。",
+    "pinyin": "Zhè zhǒng kào tóu jī qǔ qiǎo de lái de chéng gōng, tā gēn běn bù xiè yī gù。",
+    "en": "Success gained by trickery he disdains entirely."
+   },
+   {
+    "zh": "他自视甚高,不屑与那些庸庸碌碌的人为伍。",
+    "pinyin": "Tā zì shì shèn gāo, bù xiè yǔ nà xiē yōng yōng lù lù de rén wéi wǔ。",
+    "en": "Thinking highly of himself, he scorns mediocre company."
+   },
+   {
+    "zh": "对于这些无聊的流言,她一向不屑于去理会。",
+    "pinyin": "Duì yú zhè xiē wú liáo de liú yán, tā yí xiàng bú xiè yú qù lǐ huì。",
+    "en": "She's never deigned to heed such idle gossip."
+   },
+   {
+    "zh": "他不屑用花言巧语去讨好别人,只凭真本事说话。",
+    "pinyin": "Tā bù xiè yòng huā yán qiǎo yǔ qù tǎo hǎo bié rén, zhǐ píng zhēn běn shì shuō huà。",
+    "en": "He won't stoop to sweet talk; he lets his skill speak."
+   },
+   {
+    "zh": "这点小恩小惠,在他看来根本不屑一提。",
+    "pinyin": "Zhè diǎn xiǎo ēn xiǎo huì, zài tā kàn lái gēn běn bù xiè yī tí。",
+    "en": "Such petty favors he deems not even worth mentioning."
+   },
+   {
+    "zh": "他不屑于跟人争一时的长短,活得洒脱自在。",
+    "pinyin": "Tā bú xiè yú gēn rén zhēng yī shí de cháng duǎn, huó de sǎ tuō zì zài。",
+    "en": "He won't stoop to petty contests, living free and easy."
+   },
+   {
+    "zh": "对那些背后议论,他不屑辩解,只用行动证明自己。",
+    "pinyin": "Duì nà xiē bèi hòu yì lùn, tā bù xiè biàn jiě, zhǐ yòng xíng dòng zhèng míng zì jǐ。",
+    "en": "He won't deign to explain the gossip, proving himself by deeds."
+   },
+   {
+    "zh": "这种不劳而获的想法,他从心底里不屑。",
+    "pinyin": "Zhè zhǒng bù láo ér huò de xiǎng fǎ, tā cóng xīn dǐ lǐ bù xiè。",
+    "en": "The notion of gain without effort he despises from the heart."
+   },
+   {
+    "zh": "他清高得很,不屑于向权贵低头,更不肯同流合污。",
+    "pinyin": "Tā qīng gāo de hěn, bú xiè yú xiàng quán guì dī tóu, gèng bù kěn tóng liú hé wū。",
+    "en": "So proud is he that he won't bow to the powerful or join the corrupt."
+   },
+   {
+    "zh": "面对对手的冷嘲热讽,他只是不屑地笑了笑。",
+    "pinyin": "Miàn duì duì shǒu de lěng cháo rè fěng, tā zhǐ shì bù xiè de xiào le xiào。",
+    "en": "At the rival's sneers, he merely gave a disdainful smile."
+   },
+   {
+    "zh": "这种偷奸耍滑的手段,正直的他向来不屑去用。",
+    "pinyin": "Zhè zhǒng tōu jiān shuǎ huá de shǒu duàn, zhèng zhí de tā xiàng lái bù xiè qù yòng。",
+    "en": "Such sly tricks the upright man has always disdained."
+   },
+   {
+    "zh": "他把名利看得很淡,不屑于去追逐那些虚荣。",
+    "pinyin": "Tā bǎ míng lì kàn de hěn dàn, bú xiè yú qù zhuī zhú nà xiē xū róng。",
+    "en": "Indifferent to fame, he scorns chasing empty vanity."
+   },
+   {
+    "zh": "对这种低级的玩笑,她不屑一顾,径直走开了。",
+    "pinyin": "Duì zhè zhǒng dī jí de wán xiào, tā bù xiè yī gù, jìng zhí zǒu kāi le。",
+    "en": "At the crude joke, she didn't deign a glance and walked off."
+   },
+   {
+    "zh": "他一身傲骨,宁可清贫,也不屑于阿谀奉承。",
+    "pinyin": "Tā yī shēn ào gǔ, nìng kě qīng pín, yě bú xiè yú ē yú fèng chéng。",
+    "en": "Proud to the bone, he'd rather be poor than flatter."
+   },
+   {
+    "zh": "这些哗众取宠的做法,真正的行家是不屑为之的。",
+    "pinyin": "Zhè xiē huá zhòng qǔ chǒng de zuò fǎ, zhēn zhèng de háng jia shì bù xiè wèi zhī de。",
+    "en": "True experts disdain such crowd-pleasing antics."
+   },
+   {
+    "zh": "他不屑于跟一个不讲理的人多费口舌。",
+    "pinyin": "Tā bú xiè yú gēn yí gè bù jiǎng lǐ de rén duō fèi kǒu shé。",
+    "en": "He won't deign to waste words on an unreasonable person."
+   },
+   {
+    "zh": "对那些唾手可得的荣誉,他反而有些不屑。",
+    "pinyin": "Duì nà xiē tuò shǒu kě de de róng yù, tā fǎn ér yǒu xiē bù xiè。",
+    "en": "He rather disdains honors that come too easily."
+   },
+   {
+    "zh": "他心高气傲,不屑于接受别人的施舍和怜悯。",
+    "pinyin": "Tā xīn gāo qì ào, bú xiè yú jiē shòu bié rén de shī shě hé lián mǐn。",
+    "en": "Proud-hearted, he scorns others' charity and pity."
+   },
+   {
+    "zh": "这种见风使舵的人,他打心眼里不屑与之交往。",
+    "pinyin": "Zhè zhǒng jiàn fēng shǐ duò de rén, tā dǎ xīn yǎn lǐ bù xiè yǔ zhī jiāo wǎng。",
+    "en": "Such fickle opportunists he inwardly scorns to befriend."
+   },
+   {
+    "zh": "面对诱惑,他不屑一顾,始终坚守着自己的底线。",
+    "pinyin": "Miàn duì yòu huò, tā bù xiè yī gù, shǐ zhōng jiān shǒu zhe zì jǐ de dǐ xiàn。",
+    "en": "Facing temptation, he spurns it and holds his bottom line."
+   },
+   {
+    "zh": "他觉得抄袭是可耻的,向来不屑于走这种捷径。",
+    "pinyin": "Tā jué de chāo xí shì kě chǐ de, xiàng lái bú xiè yú zǒu zhè zhǒng jié jìng。",
+    "en": "Deeming plagiarism shameful, he scorns such shortcuts."
+   },
+   {
+    "zh": "对方开出的高价,他不屑地摇了摇头,一口回绝了。",
+    "pinyin": "Duì fāng kāi chū de gāo jià, tā bù xiè de yáo le yáo tóu, yī kǒu huí jué le。",
+    "en": "At the high offer, he shook his head in disdain and refused."
+   },
+   {
+    "zh": "他做事光明磊落,不屑于耍那些上不了台面的手段。",
+    "pinyin": "Tā zuò shì guāng míng lěi luò, bú xiè yú shuǎ nà xiē shàng bù liǎo tái miàn de shǒu duàn。",
+    "en": "Aboveboard in all he does, he scorns underhanded tricks."
+   }
+  ]
+ },
+ {
+  "id": "g475",
+  "level": 5,
+  "title": "\"以便\" ile \"...-mek için / ...-sin diye (kolaylaştırma)\"",
+  "titleEn": "Facilitating an outcome with \"yibian\"",
+  "pattern": "..., 以便 + (kolaylaşan sonuç)",
+  "summary": "\"以便\" bir eylemin, sonraki bir işi kolaylaştırma amacını bildirir: 请留下地址,以便我们联系 = İletişim kurabilmemiz için adresinizi bırakın.",
+  "explanation": "\"以便\" (yǐbiàn) bir eylemin, SONRAKİ bir işi KOLAYLAŞTIRMAK/mümkün kılmak amacıyla yapıldığını bildirir: \"...-mek için, ...-sin diye, ... kolay olsun diye, ...-e imkân vermek üzere\". Kalıp: (hazırlayıcı eylem)，以便 + (kolaylaşan/mümkün olan sonraki eylem). 请提前把材料准备好,以便会上直接使用 (Belgeleri önceden hazırlayın ki toplantıda doğrudan kullanılsın), 他把每天的花销都记下来,以便月底核算 (Ay sonunda hesaplayabilmek için her günkü harcamayı not eder), 我们提前分好了工,以便工作时更有效率 (Çalışırken daha verimli olmak için işi önceden bölüştük), 请留下您的联系方式,以便日后与您联系 (İleride sizinle iletişim kurabilmemiz için iletişim bilginizi bırakın). \"以便\" resmî/yazılı bir AMAÇ bağlacıdır; \"好\" (g408) ile aynı işi görür ama daha resmîdir. \"以免\" (g448) ile karıştırılmamalı: \"以便\" OLUMLU/istenen bir sonucu kolaylaştırır, \"以免\" ise İSTENMEYEN bir sonucu önler. İkinci bölümde çoğu zaman ilk eylemin sağladığı bir imkân/kolaylık bulunur. Türkçedeki \"...-mek için, ...-sin diye, ... kolay olsun diye, ...-e imkân vermek üzere\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "请各位提前把发言稿准备好,以便会上依次发言。",
+    "pinyin": "Qǐng gè wèi tí qián bǎ fā yán gǎo zhǔn bèi hǎo, yǐ biàn huì shàng yī cì fā yán。",
+    "en": "Please prepare your speeches ahead, so you can speak in turn."
+   },
+   {
+    "zh": "他把重要的日期都记在日历上,以便随时查看。",
+    "pinyin": "Tā bǎ zhòng yào de rì qī dōu jì zài rì lì shàng, yǐ biàn suí shí chá kàn。",
+    "en": "He notes key dates on the calendar, so he can check anytime."
+   },
+   {
+    "zh": "请留下您的联系方式,以便我们日后与您取得联系。",
+    "pinyin": "Qǐng liú xià nín de lián xì fāng shì, yǐ biàn wǒ men rì hòu yǔ nín qǔ de lián xì。",
+    "en": "Please leave your contact, so we can reach you later."
+   },
+   {
+    "zh": "我们提前把任务做了分工,以便工作时更有条理。",
+    "pinyin": "Wǒ men tí qián bǎ rèn wù zuò le fēn gōng, yǐ biàn gōng zuò shí gèng yǒu tiáo lǐ。",
+    "en": "We divided the tasks ahead, so the work stays orderly."
+   },
+   {
+    "zh": "他把工具都摆放整齐,以便干活时随手就能拿到。",
+    "pinyin": "Tā bǎ gōng jù dōu bǎi fàng zhěng qí, yǐ biàn gàn huó shí suí shǒu jiù néng ná dào。",
+    "en": "He arranged the tools neatly, so they're at hand while working."
+   },
+   {
+    "zh": "请把身份证复印一份,以便办理相关的手续。",
+    "pinyin": "Qǐng bǎ shēn fèn zhèng fù yìn yī fèn, yǐ biàn bàn lǐ xiāng guān de shǒu xù。",
+    "en": "Please copy your ID, so the procedures can be handled."
+   },
+   {
+    "zh": "他每天坚持记录数据,以便日后进行分析和总结。",
+    "pinyin": "Tā měi tiān jiān chí jì lù shù jù, yǐ biàn rì hòu jìn xíng fēn xī hé zǒng jié。",
+    "en": "He records data daily, so it can be analyzed later."
+   },
+   {
+    "zh": "请提前告知人数,以便我们安排足够的座位。",
+    "pinyin": "Qǐng tí qián gào zhī rén shù, yǐ biàn wǒ men ān pái zú gòu de zuò wèi。",
+    "en": "Please tell us the number ahead, so we can seat everyone."
+   },
+   {
+    "zh": "他把路线提前查好并截了图,以便路上随时对照。",
+    "pinyin": "Tā bǎ lù xiàn tí qián chá hǎo bìng jié le tú, yǐ biàn lù shàng suí shí duì zhào。",
+    "en": "He checked the route and saved it, to compare on the way."
+   },
+   {
+    "zh": "公司设立了意见箱,以便及时听取员工的建议。",
+    "pinyin": "Gōng sī shè lì le yì jiàn xiāng, yǐ biàn jí shí tīng qǔ yuán gōng de jiàn yì。",
+    "en": "The firm set up a suggestion box, to hear staff ideas promptly."
+   },
+   {
+    "zh": "请把问题一条条列出来,以便我们逐一解答。",
+    "pinyin": "Qǐng bǎ wèn tí yī tiáo tiáo liè chū lái, yǐ biàn wǒ men zhú yī jiě dá。",
+    "en": "Please list the questions one by one, so we can answer each."
+   },
+   {
+    "zh": "他随身带着笔记本,以便随时记下突然想到的点子。",
+    "pinyin": "Tā suí shēn dài zhuó bǐ jì běn, yǐ biàn suí shí jì xià tū rán xiǎng dào de diǎn zi。",
+    "en": "He carries a notebook, to jot down ideas as they come."
+   },
+   {
+    "zh": "请提前熟悉一下流程,以便正式操作时不出差错。",
+    "pinyin": "Qǐng tí qián shú xī yī xià liú chéng, yǐ biàn zhèng shì cāo zuò shí bù chū chā cuò。",
+    "en": "Please learn the process ahead, so no errors occur later."
+   },
+   {
+    "zh": "他把常用的词汇整理成表,以便复习时一目了然。",
+    "pinyin": "Tā bǎ cháng yòng de cí huì zhěng lǐ chéng biǎo, yǐ biàn fù xí shí yī mù liǎo rán。",
+    "en": "He tabled common words, so review is clear at a glance."
+   },
+   {
+    "zh": "请把贵重物品登记一下,以便日后核对和领取。",
+    "pinyin": "Qǐng bǎ guì zhòng wù pǐn dēng jì yī xià, yǐ biàn rì hòu hé duì hé lǐng qǔ。",
+    "en": "Please register valuables, so they can be checked and claimed."
+   },
+   {
+    "zh": "我们决定早点出发,以便有充裕的时间从容准备。",
+    "pinyin": "Wǒ men jué dìng zǎo diǎn chū fā, yǐ biàn yǒu chōng yù de shí jiān cóng róng zhǔn bèi。",
+    "en": "We chose to leave early, to have ample time to prepare."
+   },
+   {
+    "zh": "他把账目记得清清楚楚,以便年底一次性结算。",
+    "pinyin": "Tā bǎ zhàng mù jì de qīng qīng chǔ chǔ, yǐ biàn nián dǐ yí cì xìng jié suàn。",
+    "en": "He keeps accounts clear, for a single year-end settlement."
+   },
+   {
+    "zh": "请将表格填写完整,以便工作人员及时为您办理。",
+    "pinyin": "Qǐng jiāng biǎo gé tián xiě wán zhěng, yǐ biàn gōng zuò rén yuán jí shí wèi nín bàn lǐ。",
+    "en": "Please fill in the form fully, so staff can process it promptly."
+   },
+   {
+    "zh": "他提前把行李收拾妥当,以便第二天一早出发。",
+    "pinyin": "Tā tí qián bǎ xíng lǐ shōu shí tuǒ dàng, yǐ biàn dì èr tiān yī zǎo chū fā。",
+    "en": "He packed the luggage ahead, to leave early the next day."
+   },
+   {
+    "zh": "学校公布了详细的日程,以便家长合理安排时间。",
+    "pinyin": "Xué xiào gōng bù le xiáng xì de rì chéng, yǐ biàn jiā zhǎng hé lǐ ān pái shí jiān。",
+    "en": "The school posted the schedule, so parents can plan their time."
+   },
+   {
+    "zh": "请把使用说明保存好,以便日后需要时查阅。",
+    "pinyin": "Qǐng bǎ shǐ yòng shuō míng bǎo cún hǎo, yǐ biàn rì hòu xū yào shí chá yuè。",
+    "en": "Please keep the manual, to consult when needed later."
+   },
+   {
+    "zh": "他把每个环节都拍了照,以便出问题时便于追溯。",
+    "pinyin": "Tā bǎ měi gè huán jié dōu pāi le zhào, yǐ biàn chū wèn tí shí biàn yú zhuī sù。",
+    "en": "He photographed each step, to trace back if problems arise."
+   },
+   {
+    "zh": "请提前预约,以便我们为您预留合适的时间。",
+    "pinyin": "Qǐng tí qián yù yuē, yǐ biàn wǒ men wèi nín yù liú hé shì de shí jiān。",
+    "en": "Please book ahead, so we can reserve a suitable time for you."
+   },
+   {
+    "zh": "他把资料分类归档,以便查找起来又快又方便。",
+    "pinyin": "Tā bǎ zī liào fēn lèi guī dàng, yǐ biàn chá zhǎo qǐ lái yòu kuài yòu fāng biàn。",
+    "en": "He filed the materials by category, for quick and easy searching."
+   },
+   {
+    "zh": "请在包裹上写清地址,以便快递准确无误地送达。",
+    "pinyin": "Qǐng zài bāo guǒ shàng xiě qīng dì zhǐ, yǐ biàn kuài dì zhǔn què wú wù de sòng dá。",
+    "en": "Please write the address clearly, so the parcel arrives correctly."
+   }
+  ]
+ },
+ {
+  "id": "g476",
+  "level": 5,
+  "title": "\"假使\" ile varsayımsal koşul (resmî)",
+  "titleEn": "Expressing \"if… then…\" with \"jiashi\"",
+  "pattern": "假使 ...，(就 / 那么) ...",
+  "summary": "\"假使\" varsayımsal bir koşul kurar (resmî): 假使没有你的帮助,我早就失败了 = Senin yardımın olmasaydı çoktan başarısız olurdum.",
+  "explanation": "\"假使\" (jiǎshǐ) VARSAYIMSAL bir koşul öne sürer; \"如果/假如\"nın daha RESMÎ/edebî eş anlamlısıdır: \"...-se, eğer ..., diyelim ki ..., farz edelim ki ...\". Kalıp: 假使 + koşul，(就/那么/便) + sonuç. 假使当初我们没有坚持,就不会有今天的成果 (Diyelim ki başta direnmeseydik, bugünkü sonuç olmazdı), 假使每个人都只顾自己,社会将变成什么样子? (Herkes yalnız kendini düşünse toplum ne hâle gelirdi?), 假使有一天你遇到了困难,我一定会帮你 (Bir gün zorlukla karşılaşırsan sana mutlaka yardım ederim), 假使这个假设成立,那么结论就完全不同了 (Bu varsayım doğruysa sonuç tümüyle farklı olur). İkinci bölümde çoğu zaman \"就/那么/便\" bulunur. \"假使\" hem gerçekleşmesi olası koşulları hem gerçeğe aykırı varsayımları kurabilir; \"如果/假如/要是\" ile aynı işlevdedir ama daha yazılı/edebî ve biraz eski bir tona sahiptir. \"假若/倘使/倘若\" gibi biçimler de aynı ailedendir. Bir olasılığı ya da hayali durumu düşünüp sonucunu konuşmanın resmî yoludur. Türkçedeki \"...-se, eğer ..., diyelim ki ..., farz edelim ki ...\" koşul ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "假使当初我们没有咬牙坚持下来,就不会有今天的成绩。",
+    "pinyin": "Jiǎ shǐ dāng chū wǒ men méi yǒu yǎo yá jiān chí xià lái, jiù bú huì yǒu jīn tiān de chéng jì。",
+    "en": "Had we not gritted our teeth back then, there'd be no success now."
+   },
+   {
+    "zh": "假使人人都只顾眼前利益,长远来看必将得不偿失。",
+    "pinyin": "Jiǎ shǐ rén rén dōu zhǐ gù yǎn qián lì yì, cháng yuǎn lái kàn bì jiāng de bù cháng shī。",
+    "en": "If all minded only short gains, the long run would cost dearly."
+   },
+   {
+    "zh": "假使有一天你身处困境,我一定会尽全力帮助你。",
+    "pinyin": "Jiǎ shǐ yǒu yī tiān nǐ shēn chù kùn jìng, wǒ yí dìng huì jìn quán lì bāng zhù nǐ。",
+    "en": "If one day you're in trouble, I'll help you with all my might."
+   },
+   {
+    "zh": "假使这个假设能够成立,那么整个结论都要重新推敲。",
+    "pinyin": "Jiǎ shǐ zhè ge jiǎ shè néng gòu chéng lì, nà me zhěng gè jié lùn dōu yào chóng xīn tuī qiāo。",
+    "en": "If this assumption holds, the whole conclusion must be rethought."
+   },
+   {
+    "zh": "假使没有前人的探索,就不会有今天科学的进步。",
+    "pinyin": "Jiǎ shǐ méi yǒu qián rén de tàn suǒ, jiù bú huì yǒu jīn tiān kē xué de jìn bù。",
+    "en": "Without our predecessors' exploration, there'd be no science today."
+   },
+   {
+    "zh": "假使时光可以倒流,他说自己还会做出同样的选择。",
+    "pinyin": "Jiǎ shǐ shí guāng kě yǐ dào liú, tā shuō zì jǐ hái huì zuò chū tóng yàng de xuǎn zé。",
+    "en": "If time could rewind, he says he'd make the same choice."
+   },
+   {
+    "zh": "假使你事先跟我商量一下,也许就不会闹出这样的误会。",
+    "pinyin": "Jiǎ shǐ nǐ shì xiān gēn wǒ shāng liáng yī xià, yě xǔ jiù bú huì nào chū zhè yàng de wù huì。",
+    "en": "Had you consulted me first, this misunderstanding might not arise."
+   },
+   {
+    "zh": "假使明天真的下起大雨,户外的活动只好改期。",
+    "pinyin": "Jiǎ shǐ míng tiān zhēn de xià qǐ dà yǔ, hù wài de huó dòng zhǐ hǎo gǎi qī。",
+    "en": "If it truly pours tomorrow, the outdoor event must be rescheduled."
+   },
+   {
+    "zh": "假使每个环节都能一丝不苟,就不会出现这样的疏漏。",
+    "pinyin": "Jiǎ shǐ měi gè huán jié dōu néng yī sī bù gǒu, jiù bú huì chū xiàn zhè yàng de shū lòu。",
+    "en": "Had every step been meticulous, no such lapse would occur."
+   },
+   {
+    "zh": "假使当年他选择了另一条路,如今的人生也许截然不同。",
+    "pinyin": "Jiǎ shǐ dāng nián tā xuǎn zé le lìng yī tiáo lù, rú jīn de rén shēng yě xǔ jié rán bù tóng。",
+    "en": "Had he taken another road then, his life might be quite different."
+   },
+   {
+    "zh": "假使我们能多一些耐心,很多矛盾其实都可以化解。",
+    "pinyin": "Jiǎ shǐ wǒ men néng duō yī xiē nài xīn, hěn duō máo dùn qí shí dōu kě yǐ huà jiě。",
+    "en": "With a little more patience, many conflicts could be dissolved."
+   },
+   {
+    "zh": "假使这项技术得以推广,将惠及成千上万的家庭。",
+    "pinyin": "Jiǎ shǐ zhè xiàng jì shù dé yǐ tuī guǎng, jiāng huì jí chéng qiān shàng wàn de jiā tíng。",
+    "en": "If this tech spreads, it will benefit countless families."
+   },
+   {
+    "zh": "假使他早点听从劝告,也不至于落到如此地步。",
+    "pinyin": "Jiǎ shǐ tā zǎo diǎn tīng cóng quàn gào, yě bù zhì yú luò dào rú cǐ de bù。",
+    "en": "Had he heeded advice sooner, he wouldn't have come to this."
+   },
+   {
+    "zh": "假使世界上没有了书籍,人类的文明将黯然失色。",
+    "pinyin": "Jiǎ shǐ shì jiè shàng méi yǒu le shū jí, rén lèi de wén míng jiāng àn rán shī sè。",
+    "en": "Without books, human civilization would lose its luster."
+   },
+   {
+    "zh": "假使你愿意给自己一个机会,一切都还来得及。",
+    "pinyin": "Jiǎ shǐ nǐ yuàn yì gěi zì jǐ yí gè jī huì, yī qiè dōu hái lái de jí。",
+    "en": "If you'll give yourself a chance, there's still time for all."
+   },
+   {
+    "zh": "假使当时没有那位好心人相助,后果真是不堪设想。",
+    "pinyin": "Jiǎ shǐ dāng shí méi yǒu nà wèi hǎo xīn rén xiāng zhù, hòu guǒ zhēn shì bù kān shè xiǎng。",
+    "en": "Without that kind person's help then, the outcome would be dire."
+   },
+   {
+    "zh": "假使把这些资源合理利用起来,潜力将不可限量。",
+    "pinyin": "Jiǎ shǐ bǎ zhè xiē zī yuán hé lǐ lì yòng qǐ lái, qián lì jiāng bù kě xiàn liàng。",
+    "en": "If these resources were used well, the potential would be boundless."
+   },
+   {
+    "zh": "假使我们换一个角度去思考,也许就能找到新的出路。",
+    "pinyin": "Jiǎ shǐ wǒ men huàn yí gè jiǎo dù qù sī kǎo, yě xǔ jiù néng zhǎo dào xīn de chū lù。",
+    "en": "If we think from another angle, a new way out may appear."
+   },
+   {
+    "zh": "假使连最基本的信任都没有,合作又从何谈起呢?",
+    "pinyin": "Jiǎ shǐ lián zuì jī běn de xìn rèn dōu méi yǒu, hé zuò yòu cóng hé tán qǐ ne?",
+    "en": "Without even basic trust, how can cooperation begin?"
+   },
+   {
+    "zh": "假使他能虚心接受批评,进步一定会更快一些。",
+    "pinyin": "Jiǎ shǐ tā néng xū xīn jiē shòu pī píng, jìn bù yí dìng huì gèng kuài yī xiē。",
+    "en": "If he humbly took criticism, he'd progress faster."
+   },
+   {
+    "zh": "假使这场雨再晚来几天,庄稼恐怕就要旱死了。",
+    "pinyin": "Jiǎ shǐ zhè chǎng yǔ zài wǎn lái jǐ tiān, zhuāng jià kǒng pà jiù yào hàn sǐ le。",
+    "en": "Had the rain come a few days later, the crops might have dried up."
+   },
+   {
+    "zh": "假使当初多留一个心眼,也不至于上了骗子的当。",
+    "pinyin": "Jiǎ shǐ dāng chū duō liú yí gè xīn yǎn, yě bù zhì yú shàng le piàn zi dí dàng。",
+    "en": "Had he been a bit more alert, he'd not have been scammed."
+   },
+   {
+    "zh": "假使人生可以重来,你还会做出同样的决定吗?",
+    "pinyin": "Jiǎ shǐ rén shēng kě yǐ zhòng lái, nǐ hái huì zuò chū tóng yàng de jué dìng ma?",
+    "en": "If life could start over, would you make the same decision?"
+   },
+   {
+    "zh": "假使我们此刻退缩,之前所有的努力都将付诸东流。",
+    "pinyin": "Jiǎ shǐ wǒ men cǐ kè tuì suō, zhī qián suǒ yǒu de nǔ lì dōu jiāng fù zhū dōng liú。",
+    "en": "If we shrink back now, all prior effort will be washed away."
+   },
+   {
+    "zh": "假使把每一个平凡的日子都过好,人生自然就充实了。",
+    "pinyin": "Jiǎ shǐ bǎ měi yí gè píng fán de rì zi dōu guò hǎo, rén shēng zì rán jiù chōng shí le。",
+    "en": "If you live each ordinary day well, life is naturally full."
+   }
+  ]
  }
 ]

@@ -15,6 +15,6 @@ class ScreenUnlockReceiver : BroadcastReceiver() {
         val ids = appWidgetManager.getAppWidgetIds(ComponentName(context, WordWidgetProvider::class.java))
         if (ids.isEmpty()) return
 
-        WordWidgetProvider.refreshAll(context, appWidgetManager, ids)
+        WordWidgetProvider.onScreenUnlock(context, appWidgetManager, ids)
     }
 }

@@ -34,16 +34,24 @@ class WordWidgetProvider : AppWidgetProvider() {
             editor.remove(WidgetDataStore.levelKey(id))
             editor.remove(WidgetDataStore.displayKey(id))
             editor.remove(WidgetDataStore.itemKey(id))
+            editor.remove(WidgetDataStore.unlockEveryKey(id))
+            editor.remove(WidgetDataStore.unlockCountKey(id))
         }
         editor.apply()
     }
 
     companion object {
-        /** Re-picks a random item for every widget instance (used on screen unlock). */
-        fun refreshAll(context: Context, appWidgetManager: AppWidgetManager, appWidgetIds: IntArray) {
+        /**
+         * Called on screen unlock. Each widget changes its word only when it's
+         * due per the user's configured frequency (every N unlocks, or never
+         * for "manual only"); the rest are left untouched.
+         */
+        fun onScreenUnlock(context: Context, appWidgetManager: AppWidgetManager, appWidgetIds: IntArray) {
             for (appWidgetId in appWidgetIds) {
-                WidgetDataStore.pickRandomItem(context, appWidgetId)
-                renderWidget(context, appWidgetManager, appWidgetId)
+                if (WidgetDataStore.shouldChangeOnUnlock(context, appWidgetId)) {
+                    WidgetDataStore.pickRandomItem(context, appWidgetId)
+                    renderWidget(context, appWidgetManager, appWidgetId)
+                }
             }
         }
 
@@ -61,9 +69,22 @@ class WordWidgetProvider : AppWidgetProvider() {
                 views.setTextViewText(R.id.widget_title, context.getString(R.string.widget_loading))
                 views.setTextViewText(R.id.widget_subtitle, "")
                 views.setViewVisibility(R.id.widget_subtitle, View.GONE)
+                views.setViewVisibility(R.id.widget_fav, View.GONE)
             } else {
                 val item = JSONObject(raw)
                 val mode = item.optString("mode", "word")
+                val itemId = item.optString("itemId")
+
+                // Favorite star reflects whether the current word/topic is
+                // starred, and tapping it toggles that (kept in sync with the
+                // in-app favorites list).
+                val isFav = WidgetDataStore.isFavorite(context, mode, itemId)
+                views.setViewVisibility(R.id.widget_fav, View.VISIBLE)
+                views.setImageViewResource(
+                    R.id.widget_fav,
+                    if (isFav) R.drawable.ic_widget_star_filled else R.drawable.ic_widget_star
+                )
+                views.setOnClickPendingIntent(R.id.widget_fav, favoritePendingIntent(context, appWidgetId))
 
                 if (mode == "grammar") {
                     // Grammar titles are whole phrases — autosizing shrinks
@@ -123,6 +144,22 @@ class WordWidgetProvider : AppWidgetProvider() {
             // direction (-1/1) folded into the low bit keeps prev/next
             // PendingIntents distinct per widget instance.
             val requestCode = appWidgetId * 2 + if (direction < 0) 0 else 1
+            return PendingIntent.getBroadcast(
+                context,
+                requestCode,
+                intent,
+                PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+            )
+        }
+
+        private fun favoritePendingIntent(context: Context, appWidgetId: Int): PendingIntent {
+            val intent = Intent(context, FavoriteReceiver::class.java).apply {
+                action = FavoriteReceiver.ACTION_TOGGLE_FAVORITE
+                putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetId)
+            }
+            // Distinct request code space from prev/next (which use id*2 and
+            // id*2+1) so this PendingIntent doesn't collide with them.
+            val requestCode = appWidgetId * 2 + 100000
             return PendingIntent.getBroadcast(
                 context,
                 requestCode,

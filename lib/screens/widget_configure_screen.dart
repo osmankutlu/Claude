@@ -24,6 +24,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
   String _mode = 'word';
   final Set<int> _levels = {}; // empty means "all levels"
   String _display = 'both'; // 'both' | 'hanzi' | 'pinyin'
+  int _unlockEvery = 1; // change word every N screen unlocks; 0 = manual only
   int? _appWidgetId;
   bool _saving = false;
 
@@ -75,6 +76,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     await HomeWidget.saveWidgetData('widget_mode_$id', _mode);
     await HomeWidget.saveWidgetData('widget_level_$id', levelSpec);
     await HomeWidget.saveWidgetData('widget_display_$id', _display);
+    await HomeWidget.saveWidgetData('widget_unlockevery_$id', _unlockEvery.toString());
     await HomeWidget.updateWidget(androidName: 'WordWidgetProvider');
     await _channel.invokeMethod('finishConfigure');
   }
@@ -133,12 +135,38 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
             selected: {_display},
             onSelectionChanged: (s) => setState(() => _display = s.first),
           ),
+          const SizedBox(height: 28),
+          const Text('Kelime ne zaman değişsin?', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+          const SizedBox(height: 4),
+          const Text(
+            'Telefon ekranı her açıldığında mı, yoksa birkaç açılışta bir mi yeni kelime gelsin? '
+            '"Elle" seçersen sadece oklarla değişir.',
+            style: TextStyle(fontSize: 12, color: Colors.grey),
+          ),
+          const SizedBox(height: 12),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: [
+              (1, 'Her açılışta'),
+              (2, '2 açılışta bir'),
+              (3, '3 açılışta bir'),
+              (5, '5 açılışta bir'),
+              (0, 'Elle (değişmesin)'),
+            ].map((opt) {
+              return ChoiceChip(
+                label: Text(opt.$2),
+                selected: _unlockEvery == opt.$1,
+                onSelected: (_) => setState(() => _unlockEvery = opt.$1),
+              );
+            }).toList(),
+          ),
           const SizedBox(height: 24),
           const Text(
-            "İpucu: Yazı boyutu widget'a göre kendiliğinden ayarlanır — büyütmek için widget'ı büyüt, "
-            "küçültmek için küçült; yazı taşmadan sığar. Oklarla kelime/konu değiştirebilir, ortasına "
-            "dokunarak anlamını açabilirsin. Karakterler tonlarına göre renklidir "
-            "(1. ton mavi, 2. yeşil, 3. sarı, 4. kırmızı, hafif ton gri).",
+            "İpucu: Alttaki ← ve → ile kelimeyi istediğin an değiştir, ★ ile favorilere ekle, "
+            "ortasına dokunarak anlamını ve örneklerini aç. Yazı boyutu widget'a göre kendiliğinden "
+            "ayarlanır — büyütmek için widget'ı büyüt, küçültmek için küçült; yazı taşmadan sığar. "
+            "Karakterler tonlarına göre renklidir (1. ton mavi, 2. yeşil, 3. sarı, 4. kırmızı, hafif ton gri).",
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),
           const SizedBox(height: 24),

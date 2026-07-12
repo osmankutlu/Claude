@@ -19,7 +19,10 @@ android {
         applicationId = "com.osmankutlu.zh_en_dict"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
-        minSdk = flutter.minSdkVersion
+        // Floor at 24 (Android 7): the home-screen widget draws vector
+        // drawables in RemoteViews, which only load reliably in the launcher
+        // process on API 24+.
+        minSdk = maxOf(flutter.minSdkVersion, 24)
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName

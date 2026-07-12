@@ -25,6 +25,69 @@ object WidgetDataStore {
     fun levelKey(appWidgetId: Int) = "widget_level_$appWidgetId"
     fun displayKey(appWidgetId: Int) = "widget_display_$appWidgetId"
     fun itemKey(appWidgetId: Int) = "widget_item_$appWidgetId"
+    // How often (in screen unlocks) the word changes, and the running count.
+    fun unlockEveryKey(appWidgetId: Int) = "widget_unlockevery_$appWidgetId"
+    fun unlockCountKey(appWidgetId: Int) = "widget_unlockcount_$appWidgetId"
+
+    // Favorite id lists — same keys the Flutter FavoritesRepository writes, so
+    // starring from the widget and from inside the app stay in sync.
+    private const val FAV_WORDS = "favorite_word_ids"
+    private const val FAV_GRAMMAR = "favorite_grammar_ids"
+
+    private fun favKey(mode: String) = if (mode == "grammar") FAV_GRAMMAR else FAV_WORDS
+
+    /** The item this widget currently shows, or null if none is stored. */
+    fun currentItem(context: Context, appWidgetId: Int): JSONObject? {
+        val raw = prefs(context).getString(itemKey(appWidgetId), null) ?: return null
+        return try { JSONObject(raw) } catch (e: Exception) { null }
+    }
+
+    fun isFavorite(context: Context, mode: String, itemId: String): Boolean {
+        val raw = prefs(context).getString(favKey(mode), null) ?: return false
+        val arr = try { JSONArray(raw) } catch (e: Exception) { return false }
+        for (i in 0 until arr.length()) if (arr.getString(i) == itemId) return true
+        return false
+    }
+
+    /** Adds/removes [itemId] from the favorites list; returns the new state. */
+    fun toggleFavorite(context: Context, mode: String, itemId: String): Boolean {
+        val prefs = prefs(context)
+        val key = favKey(mode)
+        val arr = try {
+            prefs.getString(key, null)?.let { JSONArray(it) } ?: JSONArray()
+        } catch (e: Exception) { JSONArray() }
+        val ids = mutableListOf<String>()
+        for (i in 0 until arr.length()) ids.add(arr.getString(i))
+        val nowFavorite: Boolean
+        if (ids.contains(itemId)) {
+            ids.remove(itemId)
+            nowFavorite = false
+        } else {
+            ids.add(itemId)
+            nowFavorite = true
+        }
+        prefs.edit().putString(key, JSONArray(ids).toString()).apply()
+        return nowFavorite
+    }
+
+    /**
+     * Called on each screen unlock. Returns true (and resets the counter) when
+     * this widget is due to change its word, honoring the user's configured
+     * frequency. "0" means never auto-change (manual only).
+     */
+    fun shouldChangeOnUnlock(context: Context, appWidgetId: Int): Boolean {
+        val prefs = prefs(context)
+        val every = (prefs.getString(unlockEveryKey(appWidgetId), "1") ?: "1").toIntOrNull() ?: 1
+        if (every <= 0) return false
+        val count = prefs.getInt(unlockCountKey(appWidgetId), 0) + 1
+        return if (count >= every) {
+            prefs.edit().putInt(unlockCountKey(appWidgetId), 0).apply()
+            true
+        } else {
+            prefs.edit().putInt(unlockCountKey(appWidgetId), count).apply()
+            false
+        }
+    }
 
     /**
      * [levelSpec] is either "0" (all levels) or a comma-separated list of

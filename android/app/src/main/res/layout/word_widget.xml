@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- One big word, no chrome. True swipe gestures aren't available to app
-     widgets (the launcher owns horizontal swipes; the only flickable
-     RemoteViews collection, StackView, forces a stacked-deck visual), so
-     the invisible left/right edge zones step prev/next instead: tapping
-     either edge changes the word, tapping the middle opens the popup.
+<!-- One big word plus a small control bar (prev · favorite · next).
 
      The title auto-sizes (android:autoSizeTextType) so the hanzi grows as
      large as fits and shrinks on a short/small widget instead of clipping;
-     the pinyin subtitle sits on its own row (wrap_content) so it's always
-     fully visible under the hanzi. -->
+     the pinyin subtitle sits on its own row so it's always fully visible.
+
+     Tapping the card (the word area) opens the meaning/examples popup; the
+     visible ← / → icons step to the previous/next word on demand; the ★
+     icon favorites the current word/topic. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/widget_root"
     android:layout_width="match_parent"
@@ -18,56 +17,84 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:orientation="horizontal">
+        android:orientation="vertical">
 
         <FrameLayout
-            android:id="@+id/widget_prev"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:contentDescription="@string/widget_previous" />
-
-        <LinearLayout
             android:id="@+id/widget_card"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="3"
-            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:paddingLeft="6dp"
+                android:paddingRight="6dp"
+                android:paddingTop="4dp">
+
+                <TextView
+                    android:id="@+id/widget_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="@color/widget_title"
+                    android:textSize="44sp"
+                    android:textStyle="bold"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:autoSizeTextType="uniform"
+                    android:autoSizeMinTextSize="16sp"
+                    android:autoSizeMaxTextSize="76sp"
+                    android:autoSizeStepGranularity="2sp" />
+
+                <TextView
+                    android:id="@+id/widget_subtitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/widget_subtitle"
+                    android:textSize="15sp"
+                    android:maxLines="1"
+                    android:ellipsize="end" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <!-- Control bar: previous · favorite · next -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
             android:gravity="center"
-            android:padding="4dp">
+            android:paddingBottom="4dp">
 
-            <TextView
-                android:id="@+id/widget_title"
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:gravity="center"
-                android:textColor="@color/widget_title"
-                android:textSize="44sp"
-                android:textStyle="bold"
-                android:maxLines="2"
-                android:ellipsize="end"
-                android:autoSizeTextType="uniform"
-                android:autoSizeMinTextSize="16sp"
-                android:autoSizeMaxTextSize="76sp"
-                android:autoSizeStepGranularity="2sp" />
+            <ImageView
+                android:id="@+id/widget_prev"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:padding="6dp"
+                android:src="@drawable/ic_widget_prev"
+                android:contentDescription="@string/widget_previous" />
 
-            <TextView
-                android:id="@+id/widget_subtitle"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:textColor="@color/widget_subtitle"
-                android:textSize="15sp"
-                android:maxLines="1"
-                android:ellipsize="end" />
+            <ImageView
+                android:id="@+id/widget_fav"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:layout_marginLeft="18dp"
+                android:layout_marginRight="18dp"
+                android:padding="6dp"
+                android:src="@drawable/ic_widget_star"
+                android:contentDescription="@string/widget_favorite" />
+
+            <ImageView
+                android:id="@+id/widget_next"
+                android:layout_width="34dp"
+                android:layout_height="34dp"
+                android:padding="6dp"
+                android:src="@drawable/ic_widget_next"
+                android:contentDescription="@string/widget_next" />
         </LinearLayout>
-
-        <FrameLayout
-            android:id="@+id/widget_next"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1"
-            android:contentDescription="@string/widget_next" />
     </LinearLayout>
 </FrameLayout>

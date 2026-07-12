@@ -51950,5 +51950,685 @@
     "en": "Once the weather cooled, he fell asleep quickly at night."
    }
   ]
+ },
+ {
+  "id": "g383",
+  "level": 4,
+  "title": "\"到\" tümlecinin ince kullanımları",
+  "titleEn": "Tricky uses of \"dao\"",
+  "pattern": "Fiil + 到 + (sonuç / zaman / yer)",
+  "summary": "\"到\" bir eylemin başarıyla ulaştığı sonucu, zamanı ya da yeri belirtir: 想到 (aklına gelmek), 学到 (öğrenmek), 工作到深夜 (gece geç saate kadar çalışmak).",
+  "explanation": "\"到\" (dào) bir fiile eklenen çok yönlü bir tümleçtir; eylemin bir HEDEFE/sonuca ULAŞTIĞINI bildirir. (1) Bir çabanın SONUÇ vermesi (algı/kavrama fiilleriyle): 看到 (görmek), 听到 (işitmek), 想到 (aklına gelmek), 找到 (bulmak), 学到 (öğrenmek), 收到 (almak), 做到 (başarmak/yerine getirmek), 没想到 (hiç aklına gelmemek). Burada \"到\" eylemin başarıyla tamamlandığını, hedefe erişildiğini vurgular. (2) Bir eylemin belli bir ZAMANA kadar sürmesi: 昨晚我工作到很晚 (Dün gece geç saate kadar çalıştım), 会议一直开到中午 (Toplantı öğlene kadar sürdü), 从早忙到晚 (Sabahtan akşama dek meşgul). (3) Bir eylemin belli bir YERE/noktaya ulaşması: 走到路口 (kavşağa kadar yürümek), 一直送到门口 (kapıya kadar geçirmek), 车开到了山顶 (Araç dağın tepesine çıktı). Olabilirlik biçimi: 想得到/想不到, 做得到/做不到, 买得到/买不到. \"到\" böylece hem soyut sonuçları (kavramak, başarmak) hem somut sınırları (zaman/yer) işaretler. Türkçeye \"...-mek (başarıyla), ...-e kadar, ...-e (ulaşacak biçimde)\" olarak çevrilir.",
+  "examples": [
+   {
+    "zh": "我怎么也没想到,多年不见的老友竟然会突然出现。",
+    "pinyin": "Wǒ zěn me yě méi xiǎng dào, duō nián bú jiàn de lǎo yǒu jìng rán huì tū rán chū xiàn。",
+    "en": "I never imagined my long-lost friend would suddenly appear."
+   },
+   {
+    "zh": "经过一番努力,他终于找到了那份丢失多年的档案。",
+    "pinyin": "Jīng guò yī fān nǔ lì, tā zhōng yú zhǎo dào le nà fèn diū shī duō nián de dàng àn。",
+    "en": "After much effort, he finally found the file lost for years."
+   },
+   {
+    "zh": "这些年在社会上,他学到了很多书本上没有的东西。",
+    "pinyin": "Zhè xiē nián zài shè huì shàng, tā xué dào le hěn duō shū běn shàng méi yǒu de dōng xī。",
+    "en": "Over the years in society, he learned much no book teaches."
+   },
+   {
+    "zh": "昨天晚上他为了赶报告,一直工作到凌晨两点。",
+    "pinyin": "Zuó tiān wǎn shàng tā wèi le gǎn bào gào, yì zhí gōng zuò dào líng chén liǎng diǎn。",
+    "en": "To finish the report, he worked until two in the morning."
+   },
+   {
+    "zh": "我们从山脚一直爬到山顶,累得几乎走不动了。",
+    "pinyin": "Wǒ men cóng shān jiǎo yì zhí pá dào shān dǐng, lèi de jī hū zǒu bù dòng le。",
+    "en": "We climbed from foot to summit, nearly too tired to walk."
+   },
+   {
+    "zh": "只要你肯付出努力,当初定下的目标一定能做到。",
+    "pinyin": "Zhǐ yào nǐ kěn fù chū nǔ lì, dāng chū dìng xià de mù biāo yí dìng néng zuò dào。",
+    "en": "As long as you try hard, the goal you set can be achieved."
+   },
+   {
+    "zh": "他答应过的事情,无论多难都会想办法做到。",
+    "pinyin": "Tā dā yìng guò de shì qíng, wú lùn duō nán dū huì xiǎng bàn fǎ zuò dào。",
+    "en": "Whatever he promises, however hard, he finds a way to do."
+   },
+   {
+    "zh": "我昨天收到了你寄来的包裹,里面的东西我很喜欢。",
+    "pinyin": "Wǒ zuó tiān shōu dào le nǐ jì lái de bāo guǒ, lǐ miàn de dōng xī wǒ hěn xǐ huān。",
+    "en": "I got the parcel you sent yesterday; I love what's inside."
+   },
+   {
+    "zh": "这次会议从上午九点一直开到下午三点才结束。",
+    "pinyin": "Zhè cì huì yì cóng shàng wǔ jiǔ diǎn yì zhí kāi dào xià wǔ sān diǎn cái jié shù。",
+    "en": "The meeting ran from nine a.m. till three p.m."
+   },
+   {
+    "zh": "他每天从早忙到晚,几乎没有一点空闲的时间。",
+    "pinyin": "Tā měi tiān cóng zǎo máng dào wǎn, jī hū méi yǒu yì diǎn kòng xián de shí jiān。",
+    "en": "He's busy from dawn to dusk, with hardly a moment free."
+   },
+   {
+    "zh": "走到十字路口的时候,记得往右拐,别走错了。",
+    "pinyin": "Zǒu dào shí zì lù kǒu de shí hòu, jì de wǎng yòu guǎi, bié zǒu cuò le。",
+    "en": "At the crossroads, remember to turn right; don't go wrong."
+   },
+   {
+    "zh": "他一路把客人送到大门口,才依依不舍地告别。",
+    "pinyin": "Tā yī lù bǎ kè rén sòng dào dà mén kǒu, cái yī yī bù shě de gào bié。",
+    "en": "He saw the guest to the gate and bade a reluctant farewell."
+   },
+   {
+    "zh": "这种稀有的手工艺品,现在市面上很难买到了。",
+    "pinyin": "Zhè zhǒng xī yǒu de shǒu gōng yì pǐn, xiàn zài shì miàn shàng hěn nán mǎi dào le。",
+    "en": "Such rare handicrafts are hard to buy on the market now."
+   },
+   {
+    "zh": "真没想到,这么小的孩子居然能背下这么长的诗。",
+    "pinyin": "Zhēn méi xiǎng dào, zhè me xiǎo de hái zi jū rán néng bèi xià zhè me zhǎng de shī。",
+    "en": "Who'd have thought so young a child could recite such a long poem."
+   },
+   {
+    "zh": "他躲在角落里,以为没人能看到他的小动作。",
+    "pinyin": "Tā duǒ zài jiǎo luò lǐ, yǐ wéi méi rén néng kàn dào tā de xiǎo dòng zuò。",
+    "en": "He hid in a corner, thinking no one could see his sneaky move."
+   },
+   {
+    "zh": "这么多年过去了,当年的承诺他始终没有忘到脑后。",
+    "pinyin": "Zhè me duō nián guò qù le, dāng nián de chéng nuò tā shǐ zhōng méi yǒu wàng dào nǎo hòu。",
+    "en": "After so many years, he never cast that old promise aside."
+   },
+   {
+    "zh": "车子一直开到村口,再往里就只能步行了。",
+    "pinyin": "Chē zi yì zhí kāi dào cūn kǒu, zài wǎng lǐ jiù zhǐ néng bù xíng le。",
+    "en": "The car went to the village entrance; beyond that, on foot only."
+   },
+   {
+    "zh": "我们聊得投机,不知不觉就聊到了半夜。",
+    "pinyin": "Wǒ men liáo de tóu jī, bù zhī bù jué jiù liáo dào le bàn yè。",
+    "en": "We chatted so happily we talked into the middle of the night."
+   },
+   {
+    "zh": "他从这本书里领悟到了不少为人处世的道理。",
+    "pinyin": "Tā cóng zhè běn shū lǐ lǐng wù dào le bù shǎo wéi rén chǔ shì de dào lǐ。",
+    "en": "From this book he grasped many truths of dealing with life."
+   },
+   {
+    "zh": "这么冷门的资料,没想到你居然帮我查到了。",
+    "pinyin": "Zhè me lěng mén de zī liào, méi xiǎng dào nǐ jū rán bāng wǒ chá dào le。",
+    "en": "Such obscure data — to think you actually looked it up for me."
+   },
+   {
+    "zh": "孩子第一次自己走到了学校,别提多自豪了。",
+    "pinyin": "Hái zi dì yī cì zì jǐ zǒu dào le xué xiào, bié tí duō zì háo le。",
+    "en": "The child walked to school alone for the first time, so proud."
+   },
+   {
+    "zh": "尽管他一再努力,这个近乎苛刻的要求还是没能做到。",
+    "pinyin": "Jǐn guǎn tā yī zài nǔ lì, zhè ge jìn hū kē kè de yāo qiú hái shì méi néng zuò dào。",
+    "en": "Despite his efforts, the near-harsh demand still went unmet."
+   },
+   {
+    "zh": "我们一直等到最后一班车,也没能等到他回来。",
+    "pinyin": "Wǒ men yì zhí děng dào zuì hòu yī bān chē, yě méi néng děng dào tā huí lái。",
+    "en": "We waited till the last bus but he never came back."
+   },
+   {
+    "zh": "在展览上,他有幸看到了那幅传说中的名画。",
+    "pinyin": "Zài zhǎn lǎn shàng, tā yǒu xìng kàn dào le nà fú chuán shuō zhōng de míng huà。",
+    "en": "At the exhibition, he was lucky to see the fabled masterpiece."
+   },
+   {
+    "zh": "这句话我记到了心里,一辈子也不会忘记。",
+    "pinyin": "Zhè jù huà wǒ jì dào le xīn lǐ, yī bèi zi yě bú huì wàng jì。",
+    "en": "I took these words to heart and will never forget them."
+   }
+  ]
+ },
+ {
+  "id": "g384",
+  "level": 4,
+  "title": "\"来\" ve \"去\" ile ileri geri hareket",
+  "titleEn": "Using \"lai\" and \"qu\" when \"verbing around\"",
+  "pattern": "Fiil + 来 + Fiil + 去",
+  "summary": "\"V来V去\" tekrarlanan, ileri geri süren bir eylemi bildirir: 走来走去 = bir aşağı bir yukarı dolaşmak; 想来想去 = uzun uzun düşünüp taşınmak.",
+  "explanation": "\"V来V去\" (fiil + 来 + aynı ya da ilgili fiil + 去) bir eylemin TEKRAR TEKRAR, ileri geri, oradan oraya SÜRDÜĞÜNÜ anlatan canlı bir kalıptır: \"bir ... bir ..., ...-ip dur-, uzun uzun ..., dönüp dolaşıp ...\". 他在房间里走来走去,显得很不安 (Odada bir aşağı bir yukarı dolaşıp durdu, huzursuzdu), 这个问题我想来想去也没个头绪 (Bu sorunu evirip çevirip düşündüm ama bir sonuca varamadım), 两个人推来推去,谁也不肯先动手 (İkisi işi birbirine attı durdu, kimse başlamak istemedi), 挑来挑去,最后还是买了最普通的那件 (Seçip seçip sonunda en sıradan olanı aldı). Aynı fiilin iki kez (走来走去, 说来说去) ya da anlamca yakın iki fiilin (翻来覆去, 挑来拣去) kullanımı yaygındır. Bu kalıp çoğu zaman eylemin BOŞUNA/sonuçsuz, bıktırıcı ya da kararsız biçimde yinelendiğini ima eder; sabırsızlık ya da beyhudelik tonu taşıyabilir. \"说来说去\" (dönüp dolaşıp aynı şeyi söylemek), \"想来想去\" (uzun uzadıya düşünmek), \"翻来覆去\" (bir o yana bir bu yana dönmek/tekrar tekrar) kalıplaşmıştır. Türkçedeki \"bir ... bir ..., ...-ip dur-, dönüp dolaşıp, evirip çevirip\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他心里烦躁,在屋子里走来走去,怎么也静不下来。",
+    "pinyin": "Tā xīn lǐ fán zào, zài wū zi lǐ zǒu lái zǒu qù, zěn me yě jìng bù xià lái。",
+    "en": "Restless, he paced the room back and forth, unable to calm down."
+   },
+   {
+    "zh": "这道难题我想来想去,始终也想不出一个好办法。",
+    "pinyin": "Zhè dào nán tí wǒ xiǎng lái xiǎng qù, shǐ zhōng yě xiǎng bù chū yí gè hǎo bàn fǎ。",
+    "en": "I turned the problem over and over but found no good solution."
+   },
+   {
+    "zh": "这件事说来说去,最后还是得靠你自己拿主意。",
+    "pinyin": "Zhè jiàn shì shuō lái shuō qù, zuì hòu hái shì de kào nǐ zì jǐ ná zhǔ yì。",
+    "en": "Talk as we might, in the end you must decide for yourself."
+   },
+   {
+    "zh": "孩子昨晚发着烧,翻来覆去,一整夜都没睡踏实。",
+    "pinyin": "Hái zi zuó wǎn fā zhe shāo, fān lái fù qù, yī zhěng yè dōu méi shuì tà shí。",
+    "en": "Feverish, the child tossed and turned all night without rest."
+   },
+   {
+    "zh": "两个人为了这点小事推来推去,谁也不肯让步。",
+    "pinyin": "Liǎng gè rén wéi le zhè diǎn xiǎo shì tuī lái tuī qù, shuí yě bù kěn ràng bù。",
+    "en": "The two kept passing the buck over this trifle, neither yielding."
+   },
+   {
+    "zh": "她在商场里挑来挑去,花了一下午也没买到合心意的。",
+    "pinyin": "Tā zài shāng chǎng lǐ tiāo lái tiāo qù, huā le yī xià wǔ yě méi mǎi dào hé xīn yì de。",
+    "en": "She browsed all afternoon in the mall but found nothing she liked."
+   },
+   {
+    "zh": "这几句话他翻来覆去地说了好几遍,生怕我记不住。",
+    "pinyin": "Zhè jǐ jù huà tā fān lái fù qù de shuō le hǎo jǐ biàn, shēng pà wǒ jì bú zhù。",
+    "en": "He repeated these words again and again, afraid I'd forget."
+   },
+   {
+    "zh": "小猫追着自己的尾巴,在地上转来转去,逗得大家直笑。",
+    "pinyin": "Xiǎo māo zhuī zhe zì jǐ de wěi ba, zài de shàng zhuàn lái zhuàn qù, dòu de dà jiā zhí xiào。",
+    "en": "The kitten chased its tail, spinning round and making all laugh."
+   },
+   {
+    "zh": "他把那封信读来读去,似乎想从中找出别的意思。",
+    "pinyin": "Tā bǎ nà fēng xìn dú lái dú qù, sì hū xiǎng cóng zhōng zhǎo chū bié de yì si。",
+    "en": "He read the letter over and over, as if seeking a hidden meaning."
+   },
+   {
+    "zh": "这个方案改来改去,到最后反而不如最初的版本。",
+    "pinyin": "Zhè ge fāng àn gǎi lái gǎi qù, dào zuì hòu fǎn ér bù rú zuì chū de bǎn běn。",
+    "en": "Revised again and again, the plan ended up worse than at first."
+   },
+   {
+    "zh": "两个孩子把皮球踢来踢去,玩得满头大汗。",
+    "pinyin": "Liǎng gè hái zi bǎ pí qiú tī lái tī qù, wán de mǎn tóu dà hán。",
+    "en": "The two kids kicked the ball to and fro, sweating with delight."
+   },
+   {
+    "zh": "他犹豫不决,在买与不买之间掂量来掂量去。",
+    "pinyin": "Tā yóu yù bù jué, zài mǎi yǔ bù mǎi zhī jiān diān liáng lái diān liáng qù。",
+    "en": "Torn, he weighed buying against not buying back and forth."
+   },
+   {
+    "zh": "这些日子他搬来搬去,始终没能找到一个安稳的住处。",
+    "pinyin": "Zhè xiē rì zi tā bān lái bān qù, shǐ zhōng méi néng zhǎo dào yí gè ān wěn de zhù chù。",
+    "en": "These days he moved around, never finding a stable place to live."
+   },
+   {
+    "zh": "大家讨论来讨论去,最终也没能达成一致的意见。",
+    "pinyin": "Dà jiā tǎo lùn lái tǎo lùn qù, zuì zhōng yě méi néng dá chéng yí zhì de yì jiàn。",
+    "en": "They discussed at length but reached no agreement in the end."
+   },
+   {
+    "zh": "风把窗帘吹得晃来晃去,发出轻微的响声。",
+    "pinyin": "Fēng bǎ chuāng lián chuī de huǎng lái huǎng qù, fā chū qīng wēi de xiǎng shēng。",
+    "en": "The wind swayed the curtain to and fro with a faint rustle."
+   },
+   {
+    "zh": "他拿着那本旧相册,翻来翻去,陷入了深深的回忆。",
+    "pinyin": "Tā ná zhe nà běn jiù xiàng cè, fān lái fān qù, xiàn rù le shēn shēn de huí yì。",
+    "en": "Holding the old album, he flipped through it, lost in memory."
+   },
+   {
+    "zh": "这条鱼在浅浅的水里游来游去,怎么也捞不上来。",
+    "pinyin": "Zhè tiáo yú zài qiǎn qiǎn de shuǐ lǐ yóu lái yóu qù, zěn me yě lāo bù shàng lái。",
+    "en": "The fish darted about in the shallows, impossible to scoop up."
+   },
+   {
+    "zh": "老人拄着拐杖,在门口踱来踱去,像是在等什么人。",
+    "pinyin": "Lǎo rén zhǔ zhe guǎi zhàng, zài mén kǒu duó lái duó qù, xiàng shì zài děng shén me rén。",
+    "en": "The old man paced the doorway with his cane, as if awaiting someone."
+   },
+   {
+    "zh": "这件事他们商量来商量去,还是决定先按兵不动。",
+    "pinyin": "Zhè jiàn shì tā men shāng liáng lái shāng liáng qù, hái shì jué dìng xiān àn bīng bù dòng。",
+    "en": "After much back-and-forth, they decided to hold off for now."
+   },
+   {
+    "zh": "小贩推着车,在巷子里转来转去地叫卖着。",
+    "pinyin": "Xiǎo fàn tuī zhe chē, zài xiàng zi lǐ zhuàn lái zhuàn qù de jiào mài zhe。",
+    "en": "The vendor pushed his cart around the alley, hawking his wares."
+   },
+   {
+    "zh": "他把钥匙在手里抛来抛去,一副满不在乎的样子。",
+    "pinyin": "Tā bǎ yào shi zài shǒu lǐ pāo lái pāo qù, yī fù mǎn bù zài hū de yàng zi。",
+    "en": "He tossed the key about in his hand, looking quite indifferent."
+   },
+   {
+    "zh": "这个念头在他脑海里绕来绕去,始终挥之不去。",
+    "pinyin": "Zhè ge niàn tou zài tā nǎo hǎi lǐ rào lái rào qù, shǐ zhōng huī zhī bù qù。",
+    "en": "The thought circled in his mind, refusing to go away."
+   },
+   {
+    "zh": "两个人你来我往地争论着,谁也说服不了谁。",
+    "pinyin": "Liǎng gè rén nǐ lái wǒ wǎng de zhēng lùn zhe, shuí yě shuō fú bù liǎo shuí。",
+    "en": "The two argued back and forth, neither able to convince the other."
+   },
+   {
+    "zh": "她把那几件旧衣服叠来叠去,舍不得扔掉一件。",
+    "pinyin": "Tā bǎ nà jǐ jiàn jiù yī fú dié lái dié qù, shě bù de rēng diào yī jiàn。",
+    "en": "She folded the old clothes again and again, loath to toss any."
+   },
+   {
+    "zh": "话说来说去,原来他真正担心的还是孩子的将来。",
+    "pinyin": "Huà shuō lái shuō qù, yuán lái tā zhēn zhèng dān xīn de hái shì hái zi de jiāng lái。",
+    "en": "For all his words, what he really feared was his child's future."
+   }
+  ]
+ },
+ {
+  "id": "g385",
+  "level": 4,
+  "title": "\"只要...就\" ile \"...-diği sürece / yeter ki\"",
+  "titleEn": "Expressing \"as long as\" with \"zhiyao\"",
+  "pattern": "只要 ...，就 ...",
+  "summary": "\"只要...就\" yeterli bir koşulu bildirir: 只要努力,就一定会成功 = Yeter ki çalış, mutlaka başarırsın.",
+  "explanation": "\"只要\" (zhǐyào) YETERLİ bir koşulu öne sürer: o koşul sağlandığı takdirde sonucun gerçekleşeceğini bildirir — \"...-diği sürece, yeter ki ..., ...-se yeter, ... olsun da\". Kalıp: 只要 + koşul，就/都 + sonuç. 只要你肯努力,就一定能学好汉语 (Yeter ki çabala, Çinceyi mutlaka iyi öğrenirsin), 只要天气好,我们就去爬山 (Hava iyi olsun da dağa çıkarız), 只要大家齐心协力,再大的困难也能克服 (Yeter ki el ele verelim, en büyük zorluğu bile aşarız), 只要有一线希望,我就不会放弃 (Bir ışık umut olsun da vazgeçmem). İkinci bölümde \"就\" gelir. \"只要\" YETER koşulu belirtir (bu koşul sağlanınca sonuç kesin); \"只有\" (yalnızca ...-se) ise GEREK koşulu belirtir (o koşul olmadan sonuç imkânsız) ve ardında \"才\" gelir — ikisini karıştırmamak gerekir: 只要...就 (yeter ki → olur) ≠ 只有...才 (ancak ...-se → olabilir). \"只要\" bir hedefe ulaşmak için tek bir yeterli şartı vurgular, çoğu zaman teşvik/güvence bildirir. Türkçedeki \"...-diği sürece, yeter ki ..., ...-se yeter, ... olsun da\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "只要你肯下功夫,再难的外语也一定能学好。",
+    "pinyin": "Zhǐ yào nǐ kěn xià gōng fū, zài nán de wài yǔ yě yí dìng néng xué hǎo。",
+    "en": "As long as you put in the effort, any language can be mastered."
+   },
+   {
+    "zh": "只要明天不下雨,我们就按原计划去郊外野餐。",
+    "pinyin": "Zhǐ yào míng tiān bù xià yǔ, wǒ men jiù àn yuán jì huà qù jiāo wài yě cān。",
+    "en": "As long as it doesn't rain tomorrow, we'll picnic as planned."
+   },
+   {
+    "zh": "只要大家齐心协力,再大的困难我们也能克服。",
+    "pinyin": "Zhǐ yào dà jiā qí xīn xié lì, zài dà de kùn nán wǒ men yě néng kè fú。",
+    "en": "As long as we work as one, we can overcome any difficulty."
+   },
+   {
+    "zh": "只要还有一线希望,我们就绝不会轻易放弃。",
+    "pinyin": "Zhǐ yào hái yǒu yī xiàn xī wàng, wǒ men jiù jué bú huì qīng yì fàng qì。",
+    "en": "As long as a shred of hope remains, we won't give up."
+   },
+   {
+    "zh": "只要方向选对了,哪怕走得慢一点也没关系。",
+    "pinyin": "Zhǐ yào fāng xiàng xuǎn duì le, nǎ pà zǒu de màn yì diǎn yě méi guān xì。",
+    "en": "As long as the direction is right, going slowly is fine."
+   },
+   {
+    "zh": "只要你需要,不管多晚,我都会赶过来帮你。",
+    "pinyin": "Zhǐ yào nǐ xū yào, bù guǎn duō wǎn, wǒ dū huì gǎn guò lái bāng nǐ。",
+    "en": "As long as you need me, however late, I'll come to help."
+   },
+   {
+    "zh": "只要每天坚持练习,你的口语就会一天比一天流利。",
+    "pinyin": "Zhǐ yào měi tiān jiān chí liàn xí, nǐ de kǒu yǔ jiù huì yī tiān bǐ yī tiān liú lì。",
+    "en": "As long as you practice daily, your speaking will grow fluent."
+   },
+   {
+    "zh": "只要用心去做,再平凡的工作也能做出成绩。",
+    "pinyin": "Zhǐ yào yòng xīn qù zuò, zài píng fán de gōng zuò yě néng zuò chū chéng jì。",
+    "en": "As long as you do it wholeheartedly, any job can shine."
+   },
+   {
+    "zh": "只要他一句话,大家立刻就会放下手头的事赶来。",
+    "pinyin": "Zhǐ yào tā yī jù huà, dà jiā lì kè jiù huì fàng xià shǒu tóu de shì gǎn lái。",
+    "en": "At just a word from him, everyone drops things and rushes over."
+   },
+   {
+    "zh": "只要身体健康,平平淡淡的日子也是一种幸福。",
+    "pinyin": "Zhǐ yào shēn tǐ jiàn kāng, píng píng dàn dàn de rì zi yě shì yī zhǒng xìng fú。",
+    "en": "As long as one is healthy, even plain days are a blessing."
+   },
+   {
+    "zh": "只要肯虚心求教,不懂的问题总能慢慢弄明白。",
+    "pinyin": "Zhǐ yào kěn xū xīn qiú jiào, bù dǒng de wèn tí zǒng néng màn màn nòng míng bái。",
+    "en": "As long as you humbly ask, unclear things can be understood."
+   },
+   {
+    "zh": "只要把基础打牢,后面的学习就会轻松很多。",
+    "pinyin": "Zhǐ yào bǎ jī chǔ dǎ láo, hòu miàn de xué xí jiù huì qīng sōng hěn duō。",
+    "en": "As long as the basics are solid, later study is much easier."
+   },
+   {
+    "zh": "只要你诚心道歉,我相信他一定会原谅你的。",
+    "pinyin": "Zhǐ yào nǐ chéng xīn dào qiàn, wǒ xiāng xìn tā yí dìng huì yuán liàng nǐ de。",
+    "en": "As long as you sincerely apologize, he'll surely forgive you."
+   },
+   {
+    "zh": "只要坚持每天早睡早起,精神状态就会好起来。",
+    "pinyin": "Zhǐ yào jiān chí měi tiān zǎo shuì zǎo qǐ, jīng shén zhuàng tài jiù huì hǎo qǐ lái。",
+    "en": "As long as you keep early hours, your spirits will improve."
+   },
+   {
+    "zh": "只要功夫深,铁杵磨成针,再难的事也能办成。",
+    "pinyin": "Zhǐ yào gōng fu shēn, tiě chǔ mó chéng zhēn, zài nán de shì yě néng bàn chéng。",
+    "en": "With enough effort, even iron grinds to a needle; all can be done."
+   },
+   {
+    "zh": "只要一家人在一起,住得简朴一点也无所谓。",
+    "pinyin": "Zhǐ yào yī jiā rén zài yì qǐ, zhù de jiǎn piáo yì diǎn yě wú suǒ wèi。",
+    "en": "As long as the family is together, humble lodging doesn't matter."
+   },
+   {
+    "zh": "只要你说一声,这件事我立刻就帮你去办。",
+    "pinyin": "Zhǐ yào nǐ shuō yī shēng, zhè jiàn shì wǒ lì kè jiù bāng nǐ qù bàn。",
+    "en": "Just say the word and I'll go do it for you at once."
+   },
+   {
+    "zh": "只要保持一颗好奇心,学习就永远不会觉得枯燥。",
+    "pinyin": "Zhǐ yào bǎo chí yī kē hào qí xīn, xué xí jiù yǒng yuǎn bú huì jué de kū zào。",
+    "en": "As long as you keep curious, learning never feels dull."
+   },
+   {
+    "zh": "只要方法得当,减肥其实并没有想象中那么难。",
+    "pinyin": "Zhǐ yào fāng fǎ de dàng, jiǎn féi qí shí bìng méi yǒu xiǎng xiàng zhōng nà me nán。",
+    "en": "With the right method, losing weight isn't as hard as thought."
+   },
+   {
+    "zh": "只要天一放晴,农民们就赶紧下地抢收庄稼。",
+    "pinyin": "Zhǐ yào tiān yī fàng qíng, nóng mín men jiù gǎn jǐn xià de qiǎng shōu zhuāng jià。",
+    "en": "The moment it clears up, farmers rush to harvest the crops."
+   },
+   {
+    "zh": "只要肯迈出第一步,后面的路自然会越走越宽。",
+    "pinyin": "Zhǐ yào kěn mài chū dì yī bù, hòu miàn de lù zì rán huì yuè zǒu yuè kuān。",
+    "en": "As long as you take the first step, the road widens ahead."
+   },
+   {
+    "zh": "只要心里装着别人,再小的举动也会温暖人心。",
+    "pinyin": "Zhǐ yào xīn lǐ zhuāng zhe bié rén, zài xiǎo de jǔ dòng yě huì wēn nuǎn rén xīn。",
+    "en": "As long as you think of others, even small acts warm hearts."
+   },
+   {
+    "zh": "只要你按时吃药,好好休息,病很快就会好的。",
+    "pinyin": "Zhǐ yào nǐ àn shí chī yào, hǎo hǎo xiū xī, bìng hěn kuài jiù huì hǎo de。",
+    "en": "As long as you take medicine and rest, you'll recover soon."
+   },
+   {
+    "zh": "只要不违背良心,他做起事来就问心无愧。",
+    "pinyin": "Zhǐ yào bù wéi bèi liáng xīn, tā zuò qǐ shì lái jiù wèn xīn wú kuì。",
+    "en": "As long as it's not against his conscience, he acts with a clear heart."
+   },
+   {
+    "zh": "只要有书读,有饭吃,那段清苦的日子他也觉得满足。",
+    "pinyin": "Zhǐ yào yǒu shū dú, yǒu fàn chī, nà duàn qīng kǔ de rì zi tā yě jué de mǎn zú。",
+    "en": "With books to read and food to eat, he felt content in those lean days."
+   }
+  ]
+ },
+ {
+  "id": "g386",
+  "level": 4,
+  "title": "\"一旦...就\" ile \"bir kez ...-ince / ...-diği an\"",
+  "titleEn": "Expressing \"once...then...\" with \"yidan...jiu...\"",
+  "pattern": "一旦 ...，就 ...",
+  "summary": "\"一旦...就\" bir koşul gerçekleşince hemen bir sonucun olacağını bildirir: 一旦决定了,就不要轻易改变 = Bir kez karar verdin mi kolayca değiştirme.",
+  "explanation": "\"一旦\" (yīdàn) bir durumun bir gün/bir kez GERÇEKLEŞMESİ hâlinde ardından belli bir sonucun olacağını bildirir: \"bir kez ...-ince, ...-diği an, ... olduğu takdirde, ... olursa bir kere\". Kalıp: 一旦 + koşul，(就/便) + sonuç. 一旦养成了坏习惯,以后就很难改掉 (Kötü bir alışkanlık bir kez edinildi mi sonradan bırakması zor), 机会一旦错过,就再也不会回来了 (Fırsat bir kez kaçtı mı bir daha gelmez), 一旦下定了决心,他就再也没有动摇过 (Bir kez karar verince bir daha sarsılmadı), 这种病一旦拖延,后果会很严重 (Bu hastalık bir kez savsaklanırsa sonu ağır olur). İkinci bölümde çoğu zaman \"就\" ya da \"便\" bulunur. \"一旦\" gelecekte gerçekleşmesi olası (çoğu zaman önemli ya da geri dönülmez) bir durumu varsayar ve onun tetikleyeceği sonucu vurgular. \"如果\"tan farkı: \"一旦\" bir eşiğin AŞILMASI/bir olayın bir kez olması ânına ve onun geri dönülmez sonucuna odaklanır, salt koşuldan öte bir \"o an gelince\" duygusu taşır. Hem olumlu hem olumsuz sonuçlarda kullanılır ama çoğu zaman uyarı/sonuç bildirir. Türkçedeki \"bir kez ...-ince, ...-diği an, ... olduğu takdirde\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "一旦养成了拖延的坏习惯,以后想改掉可就难了。",
+    "pinyin": "Yí dàn yǎng chéng le tuō yán de huài xí guàn, yǐ hòu xiǎng gǎi diào kě jiù nán le。",
+    "en": "Once the habit of procrastination forms, it's hard to break."
+   },
+   {
+    "zh": "这样的好机会一旦错过,恐怕就再也不会有了。",
+    "pinyin": "Zhè yàng de hǎo jī huì yí dàn cuò guò, kǒng pà jiù zài yě bú huì yǒu le。",
+    "en": "Once such a good chance is missed, it may never come again."
+   },
+   {
+    "zh": "一旦下定了决心,他就朝着目标一步也不退缩。",
+    "pinyin": "Yí dàn xià dìng le jué xīn, tā jiù cháo zhe mù biāo yī bù yě bù tuì suō。",
+    "en": "Once resolved, he pressed toward his goal without retreat."
+   },
+   {
+    "zh": "感情一旦有了裂痕,想要完全修复就很不容易。",
+    "pinyin": "Gǎn qíng yí dàn yǒu le liè hén, xiǎng yào wán quán xiū fù jiù hěn bù róng yì。",
+    "en": "Once a relationship cracks, fully mending it is hard."
+   },
+   {
+    "zh": "这种小毛病一旦拖久了,很可能会酿成大问题。",
+    "pinyin": "Zhè zhǒng xiǎo máo bìng yí dàn tuō jiǔ le, hěn kě néng huì niàng chéng dà wèn tí。",
+    "en": "Once such a small ailment drags on, it may grow serious."
+   },
+   {
+    "zh": "一旦谎言被拆穿,想要重新赢得信任就太难了。",
+    "pinyin": "Yí dàn huǎng yán bèi chāi chuān, xiǎng yào chóng xīn yíng de xìn rèn jiù tài nán le。",
+    "en": "Once a lie is exposed, regaining trust is very hard."
+   },
+   {
+    "zh": "河水一旦泛滥,沿岸的农田就会遭受严重的损失。",
+    "pinyin": "Hé shuǐ yí dàn fàn làn, yán àn de nóng tián jiù huì zāo shòu yán zhòng de sǔn shī。",
+    "en": "Once the river floods, the riverside farmland suffers greatly."
+   },
+   {
+    "zh": "一旦尝到了成功的甜头,他学习的劲头就更足了。",
+    "pinyin": "Yí dàn cháng dào le chéng gōng de tián tóu, tā xué xí de jìn tóu jiù gèng zú le。",
+    "en": "Once he tasted success, his zeal for study grew even stronger."
+   },
+   {
+    "zh": "这份珍贵的资料一旦丢失,再想找回来几乎不可能。",
+    "pinyin": "Zhè fèn zhēn guì de zī liào yí dàn diū shī, zài xiǎng zhǎo huí lái jī hū bù kě néng。",
+    "en": "Once this precious data is lost, recovering it is near impossible."
+   },
+   {
+    "zh": "一旦答应了别人,无论多难他都会努力做到。",
+    "pinyin": "Yí dàn dā yìng le bié rén, wú lùn duō nán tā dū huì nǔ lì zuò dào。",
+    "en": "Once he promises, however hard, he strives to deliver."
+   },
+   {
+    "zh": "坏消息一旦传开,人们的恐慌情绪就会迅速蔓延。",
+    "pinyin": "Huài xiāo xī yí dàn chuán kāi, rén men de kǒng huāng qíng xù jiù huì xùn sù màn yán。",
+    "en": "Once bad news spreads, panic quickly ripples out."
+   },
+   {
+    "zh": "一旦离开了熟悉的环境,他反而更能看清自己。",
+    "pinyin": "Yí dàn lí kāi le shú xī de huán jìng, tā fǎn ér gèng néng kàn qīng zì jǐ。",
+    "en": "Once away from the familiar, he saw himself more clearly."
+   },
+   {
+    "zh": "机器一旦出现故障,整条生产线都得停下来。",
+    "pinyin": "Jī qì yí dàn chū xiàn gù zhàng, zhěng tiáo shēng chǎn xiàn dōu de tíng xià lái。",
+    "en": "Once the machine fails, the whole production line halts."
+   },
+   {
+    "zh": "一旦上了瘾,想戒掉就需要付出巨大的努力。",
+    "pinyin": "Yí dàn shàng le yǐn, xiǎng jiè diào jiù xū yào fù chū jù dà de nǔ lì。",
+    "en": "Once addicted, quitting demands enormous effort."
+   },
+   {
+    "zh": "这种植物一旦离开了水,很快就会枯萎死去。",
+    "pinyin": "Zhè zhòng zhí wù yí dàn lí kāi le shuǐ, hěn kuài jiù huì kū wěi sǐ qù。",
+    "en": "Once out of water, this plant soon withers and dies."
+   },
+   {
+    "zh": "秘密一旦说出口,就像泼出去的水,再也收不回来。",
+    "pinyin": "Mì mì yí dàn shuō chū kǒu, jiù xiàng pō chū qù de shuǐ, zài yě shōu bù huí lái。",
+    "en": "Once a secret is spoken, like spilled water it can't return."
+   },
+   {
+    "zh": "一旦形成了良好的习惯,人一辈子都会受益。",
+    "pinyin": "Yí dàn xíng chéng le liáng hǎo de xí guàn, rén yī bèi zi dū huì shòu yì。",
+    "en": "Once good habits form, one benefits for a lifetime."
+   },
+   {
+    "zh": "台风一旦登陆,沿海地区就要提前做好防范。",
+    "pinyin": "Tái fēng yí dàn dēng lù, yán hǎi dì qū jiù yào tí qián zuò hǎo fáng fàn。",
+    "en": "Once the typhoon lands, coastal areas must prepare in advance."
+   },
+   {
+    "zh": "一旦失去了健康,再多的财富也换不回来。",
+    "pinyin": "Yí dàn shī qù le jiàn kāng, zài duō de cái fù yě huàn bù huí lái。",
+    "en": "Once health is lost, no amount of wealth can buy it back."
+   },
+   {
+    "zh": "这个念头一旦冒出来,就再也无法从他脑中抹去。",
+    "pinyin": "Zhè ge niàn tou yí dàn mào chū lái, jiù zài yě wú fǎ cóng tā nǎo zhōng mǒ qù。",
+    "en": "Once the thought arose, it could never be erased from his mind."
+   },
+   {
+    "zh": "一旦被眼前的小利迷惑,人就容易忘记长远的目标。",
+    "pinyin": "Yí dàn bèi yǎn qián de xiǎo lì mí huò, rén jiù róng yì wàng jì cháng yuǎn de mù biāo。",
+    "en": "Once dazzled by small gains, one forgets long-term goals."
+   },
+   {
+    "zh": "信任一旦建立起来,合作就会变得顺畅许多。",
+    "pinyin": "Xìn rèn yí dàn jiàn lì qǐ lái, hé zuò jiù huì biàn de shùn chàng xǔ duō。",
+    "en": "Once trust is built, cooperation becomes far smoother."
+   },
+   {
+    "zh": "一旦松懈下来,之前的努力可能就会前功尽弃。",
+    "pinyin": "Yí dàn sōng xiè xià lái, zhī qián de nǔ lì kě néng jiù huì qián gōng jìn qì。",
+    "en": "Once you slack off, prior effort may all come to nothing."
+   },
+   {
+    "zh": "这种野火一旦蔓延开来,后果将不堪设想。",
+    "pinyin": "Zhè zhǒng yě huǒ yí dàn màn yán kāi lái, hòu guǒ jiāng bù kān shè xiǎng。",
+    "en": "Once such a wildfire spreads, the consequences are dire."
+   },
+   {
+    "zh": "一旦你真正爱上了阅读,就会发现一个全新的世界。",
+    "pinyin": "Yí dàn nǐ zhēn zhèng ài shàng le yuè dú, jiù huì fā xiàn yí gè quán xīn de shì jiè。",
+    "en": "Once you truly love reading, a whole new world opens up."
+   }
+  ]
+ },
+ {
+  "id": "g387",
+  "level": 4,
+  "title": "\"才\" ile \"ancak ...-dikten sonra\"",
+  "titleEn": "Expressing \"only after\" with \"cai\"",
+  "pattern": "Koşul / Zaman ...，(özne) 才 ...",
+  "summary": "\"才\" bir sonucun ancak bir koşuldan sonra gerçekleştiğini bildirir: 努力了很久,才取得了成功 = Uzun süre çabaladıktan sonra ancak başardı.",
+  "explanation": "\"才\" (cái) bir eylemin/sonucun ANCAK belli bir koşul, neden ya da zaman gerçekleştikten SONRA olduğunu bildirir; çoğu zaman \"geç\" ya da \"zorlukla\" nüansı taşır: \"ancak ...-dikten sonra, ...-ınca ancak, olsa olsa ...-ince, ta ki ...\". Yapı: koşul/zaman/neden cümlesi + (özne) + 才 + sonuç. 他解释了半天,我才明白是怎么回事 (Uzun uzun açıkladı, ancak o zaman anladım), 直到天黑,他才回到家 (Ta hava kararınca ancak eve döndü), 只有亲身经历过,才能体会那种痛苦 (Ancak bizzat yaşayan o acıyı anlayabilir), 会议推迟了,所以我们才有时间准备 (Toplantı ertelendi, o yüzden ancak hazırlanmaya vaktimiz oldu). \"才\"den sonra fiil genellikle \"了\" ALMAZ (才回到 doğru, 才回到了 değil), çünkü \"才\" eylemin geç/güçlükle gerçekleştiğini vurgular. \"就\" ile karşıtlık: \"就\" eylemin ERKEN/kolayca olduğunu (他六点就来了 = ta altıda geldi bile); \"才\" ise GEÇ/zorlukla olduğunu (他八点才来 = ancak sekizde geldi) bildirir. Ayrıca \"只有...才\" (ancak ...-se ...-ebilir) gerek koşulu kurar. Türkçedeki \"ancak ...-dikten sonra, ...-ınca ancak, ta ki ...-ince\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他反复解释了好几遍,我才终于弄明白了其中的道理。",
+    "pinyin": "Tā fǎn fù jiě shì le hǎo jǐ biàn, wǒ cái zhōng yú nòng míng bái le qí zhōng de dào lǐ。",
+    "en": "He explained several times before I finally grasped the reason."
+   },
+   {
+    "zh": "一直忙到深夜,他才拖着疲惫的身子回到家里。",
+    "pinyin": "Yì zhí máng dào shēn yè, tā cái tuō zhe pí bèi de shēn zi huí dào jiā lǐ。",
+    "en": "Busy till deep night, only then did he drag himself home."
+   },
+   {
+    "zh": "经过好几年的刻苦努力,他才取得了今天的成就。",
+    "pinyin": "Jīng guò hǎo jǐ nián de kè kǔ nǔ lì, tā cái qǔ de le jīn tiān de chéng jiù。",
+    "en": "After years of hard work, he only then achieved today's success."
+   },
+   {
+    "zh": "只有亲身经历过困难,才能真正体会到幸福的可贵。",
+    "pinyin": "Zhǐ yǒu qīn shēn jīng lì guò kùn nán, cái néng zhēn zhèng tǐ huì dào xìng fú de kě guì。",
+    "en": "Only having faced hardship can one truly value happiness."
+   },
+   {
+    "zh": "等所有人都到齐了,会议才正式开始。",
+    "pinyin": "Děng suǒ yǒu rén dōu dào qí le, huì yì cái zhèng shì kāi shǐ。",
+    "en": "Only when everyone had arrived did the meeting formally start."
+   },
+   {
+    "zh": "经过医生的全力抢救,病人才慢慢脱离了危险。",
+    "pinyin": "Jīng guò yī shēng de quán lì qiǎng jiù, bìng rén cái màn màn tuō lí le wēi xiǎn。",
+    "en": "After the doctors' all-out effort, the patient slowly pulled through."
+   },
+   {
+    "zh": "我劝了他半天,他才勉强答应留下来吃顿饭。",
+    "pinyin": "Wǒ quàn le tā bàn tiān, tā cái miǎn qiǎng dā yìng liú xià lái chī dùn fàn。",
+    "en": "I coaxed him a long while before he grudgingly stayed for a meal."
+   },
+   {
+    "zh": "直到看见孩子平安归来,母亲的心才算落了地。",
+    "pinyin": "Zhí dào kàn jiàn hái zi píng ān guī lái, mǔ qīn de xīn cái suàn là le de。",
+    "en": "Only seeing her child home safe did the mother's heart settle."
+   },
+   {
+    "zh": "他把事情从头到尾讲了一遍,大家才恍然大悟。",
+    "pinyin": "Tā bǎ shì qíng cóng tóu dào wěi jiǎng le yī biàn, dà jiā cái huǎng rán dà wù。",
+    "en": "He told the whole story before everyone suddenly understood."
+   },
+   {
+    "zh": "只有把基础打扎实了,以后才能走得更远。",
+    "pinyin": "Zhǐ yǒu bǎ jī chǔ dǎ zhā shí le, yǐ hòu cái néng zǒu de gèng yuǎn。",
+    "en": "Only with a solid foundation can one go further later."
+   },
+   {
+    "zh": "试了无数种办法之后,他们才找到了问题的根源。",
+    "pinyin": "Shì liǎo wú shù zhǒng bàn fǎ zhī hòu, tā men cái zhǎo dào le wèn tí de gēn yuán。",
+    "en": "After countless attempts, they only then found the root cause."
+   },
+   {
+    "zh": "天快亮的时候,操劳了一夜的他才勉强合上了眼。",
+    "pinyin": "Tiān kuài liàng de shí hòu, cāo láo le yī yè de tā cái miǎn qiǎng hé shàng le yǎn。",
+    "en": "Near dawn, after a night's toil, he barely closed his eyes."
+   },
+   {
+    "zh": "这件事只有你亲自去说,他才可能会听得进去。",
+    "pinyin": "Zhè jiàn shì zhǐ yǒu nǐ qīn zì qù shuō, tā cái kě néng huì tīng de jìn qù。",
+    "en": "Only if you speak to him in person might he take it in."
+   },
+   {
+    "zh": "翻遍了整个书房,他才在角落里找到那本旧笔记。",
+    "pinyin": "Fān biàn le zhěng gè shū fáng, tā cái zài jiǎo luò lǐ zhǎo dào nà běn jiù bǐ jì。",
+    "en": "He searched the whole study before finding the old notebook."
+   },
+   {
+    "zh": "经历了这次失败,他才真正懂得了坚持的意义。",
+    "pinyin": "Jīng lì le zhè cì shī bài, tā cái zhēn zhèng dǒng de le jiān chí de yì yì。",
+    "en": "Only through this failure did he grasp what persistence means."
+   },
+   {
+    "zh": "等雨停了以后,被困的游客才陆续下了山。",
+    "pinyin": "Děng yǔ tíng le yǐ hòu, bèi kùn de yóu kè cái lù xù xià le shān。",
+    "en": "Only after the rain stopped did the stranded tourists descend."
+   },
+   {
+    "zh": "父母年纪大了,我才慢慢明白了他们当年的苦心。",
+    "pinyin": "Fù mǔ nián jì dà le, wǒ cái màn màn míng bái le tā men dāng nián de kǔ xīn。",
+    "en": "As my parents aged, I only then understood their old pains."
+   },
+   {
+    "zh": "直到最后一刻,谜底才终于揭晓,全场一片惊叹。",
+    "pinyin": "Zhí dào zuì hòu yí kè, mí dǐ cái zhōng yú jiē xiǎo, quán chǎng yī piàn jīng tàn。",
+    "en": "Only at the last moment was the answer revealed, to gasps."
+   },
+   {
+    "zh": "反复核对了三遍数据,他才放心地把报告交了上去。",
+    "pinyin": "Fǎn fù hé duì le sān biàn shù jù, tā cái fàng xīn de bǎ bào gào jiāo le shàng qù。",
+    "en": "Only after checking the data thrice did he submit the report."
+   },
+   {
+    "zh": "只有当你静下心来,才能听见内心真正的声音。",
+    "pinyin": "Zhǐ yǒu dāng nǐ jìng xià xīn lái, cái néng tīng jiàn nèi xīn zhēn zhèng de shēng yīn。",
+    "en": "Only when you calm down can you hear your inner voice."
+   },
+   {
+    "zh": "跑了好几家医院,他才买到了那种紧缺的药。",
+    "pinyin": "Pǎo le hǎo jǐ jiā yī yuàn, tā cái mǎi dào le nà zhǒng jǐn quē de yào。",
+    "en": "Only after several hospitals did he get the scarce medicine."
+   },
+   {
+    "zh": "经过大家反复劝说,他才勉强改变了原来的主意。",
+    "pinyin": "Jīng guò dà jiā fǎn fù quàn shuō, tā cái miǎn qiǎng gǎi biàn le yuán lái de zhǔ yì。",
+    "en": "After much persuasion did he grudgingly change his mind."
+   },
+   {
+    "zh": "直到彻底冷静下来,他才意识到自己刚才有多冲动。",
+    "pinyin": "Zhí dào chè dǐ lěng jìng xià lái, tā cái yì shí dào zì jǐ gāng cái yǒu duō chōng dòng。",
+    "en": "Only after fully calming did he realize how rash he'd been."
+   },
+   {
+    "zh": "排了整整两个小时的队,我们才终于买到了门票。",
+    "pinyin": "Pái le zhěng zhěng liǎng gè xiǎo shí de duì, wǒ men cái zhōng yú mǎi dào le mén piào。",
+    "en": "After queuing two full hours, we finally got the tickets."
+   },
+   {
+    "zh": "只有经过时间的沉淀,一段感情才能真正成熟。",
+    "pinyin": "Zhǐ yǒu jīng guò shí jiān de chén diàn, yī duàn gǎn qíng cái néng zhēn zhèng chéng shú。",
+    "en": "Only through time's passage can a bond truly mature."
+   }
+  ]
  }
 ]

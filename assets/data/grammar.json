@@ -54670,5 +54670,685 @@
     "en": "He keeps following all news related to his hometown's growth."
    }
   ]
+ },
+ {
+  "id": "g403",
+  "level": 4,
+  "title": "\"所谓\" ile \"sözde / denilen\"",
+  "titleEn": "Expressing \"so-called\" with \"suowei\"",
+  "pattern": "所谓 (的) + Ad",
+  "summary": "\"所谓\" bir terimi \"sözde, denilen\" diye tanıtır ya da küçümser: 所谓幸福,就是知足 = Mutluluk denilen şey, kanaatkâr olmaktır.",
+  "explanation": "\"所谓\" (suǒwèi) bir adın önüne gelip iki işlev görür. (1) Tarafsız \"...denilen, ...adı verilen, ... dediğimiz\": bir terimi tanıtır ya da tanımlar — 所谓幸福,其实就是内心的知足 (Mutluluk denilen şey, aslında içsel kanaattir), 所谓熟能生巧,就是这个道理 (\"Pratik ustalaştırır\" denilen şey, işte bu demektir). (2) Küçümseyici/kuşkulu \"sözde, güya, ...miş\": konuşanın o niteliği gerçek saymadığını, alaycı ya da eleştirel bir tavır aldığını gösterir — 他那些所谓的朋友,一遇到麻烦就都消失了 (O sözde arkadaşları, bir sıkıntı çıkınca hep kayboldu), 这就是你所谓的帮忙?越帮越乱 (Senin yardım dediğin bu mu? Beter ettin), 别信那些所谓的专家 (O sözde uzmanlara inanma). İkinci kullanımda \"所谓\" tırnak içine alınmış gibi bir \"güya\" tonu taşır ve o sıfatın hak edilmediğini ima eder. \"所谓(的) + ad\" biçiminde gelir; \"的\" isteğe bağlıdır. Bağlam olumlu tanımsa nötr, olumsuzsa alaycıdır. Türkçedeki \"...denilen, ...adı verilen; sözde, güya, ...miş\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "所谓真正的朋友,就是在你最困难的时候依然陪着你的人。",
+    "pinyin": "Suǒ wèi zhēn zhèng de péng yǒu, jiù shì zài nǐ zuì kùn nán de shí hòu yī rán péi zhe nǐ de rén。",
+    "en": "A true friend is one who stays with you in your hardest times."
+   },
+   {
+    "zh": "他那些所谓的好心建议,到头来只是想占我的便宜。",
+    "pinyin": "Tā nà xiē suǒ wèi de hǎo xīn jiàn yì, dào tóu lái zhǐ shì xiǎng zhàn wǒ de pián yi。",
+    "en": "His so-called kind advice was just meant to take advantage of me."
+   },
+   {
+    "zh": "所谓熟能生巧,只要多练习,再难的技术也能掌握。",
+    "pinyin": "Suǒ wèi shú néng shēng qiǎo, zhǐ yào duō liàn xí, zài nán de jì shù yě néng zhǎng wò。",
+    "en": "'Practice makes perfect' means any skill can be mastered with drill."
+   },
+   {
+    "zh": "别轻信那些所谓的捷径,踏踏实实才是正道。",
+    "pinyin": "Bié qīng xìn nà xiē suǒ wèi de jié jìng, tà tà shí shí cái shì zhèng dào。",
+    "en": "Don't trust so-called shortcuts; steady effort is the true way."
+   },
+   {
+    "zh": "所谓的名牌,有时候不过是多花钱买个牌子罢了。",
+    "pinyin": "Suǒ wèi de míng pái, yǒu shí hòu bù guò shì duō huā qián mǎi gè pái zi bà le。",
+    "en": "So-called brands sometimes just mean paying more for a label."
+   },
+   {
+    "zh": "所谓知足常乐,说的就是懂得珍惜眼前的幸福。",
+    "pinyin": "Suǒ wèi zhī zú cháng lè, shuō de jiù shì dǒng de zhēn xī yǎn qián de xìng fú。",
+    "en": "'Contentment brings joy' means cherishing the happiness at hand."
+   },
+   {
+    "zh": "他那套所谓的理论,其实经不起任何认真的推敲。",
+    "pinyin": "Tā nà tào suǒ wèi de lǐ lùn, qí shí jīng bù qǐ rèn hé rèn zhēn de tuī qiāo。",
+    "en": "His so-called theory can't stand up to any serious scrutiny."
+   },
+   {
+    "zh": "所谓一分耕耘一分收获,努力总不会白费。",
+    "pinyin": "Suǒ wèi yī fēn gēng yún yī fēn shōu huò, nǔ lì zǒng bú huì bái fèi。",
+    "en": "'You reap what you sow' — effort is never wasted."
+   },
+   {
+    "zh": "那家店所谓的优惠,算下来其实一点也不便宜。",
+    "pinyin": "Nà jiā diàn suǒ wèi de yōu huì, suàn xià lái qí shí yì diǎn yě bù biàn yí。",
+    "en": "The shop's so-called discount works out to no bargain at all."
+   },
+   {
+    "zh": "所谓远亲不如近邻,关键时刻还是邻居帮了大忙。",
+    "pinyin": "Suǒ wèi yuǎn qīn bù rú jìn lín, guān jiàn shí kè hái shì lín jū bāng le dà máng。",
+    "en": "'A near neighbor beats a distant kin' — the neighbor helped most."
+   },
+   {
+    "zh": "他所谓的忙,不过是不想见我的一个借口而已。",
+    "pinyin": "Tā suǒ wèi de máng, bù guò shì bù xiǎng jiàn wǒ de yí gè jiè kǒu ér yǐ。",
+    "en": "His so-called busyness is just an excuse to avoid me."
+   },
+   {
+    "zh": "所谓机会,往往只留给那些有准备的人。",
+    "pinyin": "Suǒ wèi jī huì, wǎng wǎng zhǐ liú gěi nà xiē yǒu zhǔn bèi de rén。",
+    "en": "Opportunity, so to speak, favors those who are prepared."
+   },
+   {
+    "zh": "这些所谓的养生秘方,大多没有任何科学根据。",
+    "pinyin": "Zhè xiē suǒ wèi de yǎng shēng mì fāng, dà duō méi yǒu rèn hé kē xué gēn jù。",
+    "en": "These so-called health remedies mostly lack any scientific basis."
+   },
+   {
+    "zh": "所谓良药苦口,对我们有益的话往往并不好听。",
+    "pinyin": "Suǒ wèi liáng yào kǔ kǒu, duì wǒ men yǒu yì de huà wǎng wǎng bìng bù hǎo tīng。",
+    "en": "'Good medicine tastes bitter' — helpful words often sting."
+   },
+   {
+    "zh": "他那些所谓的成就,水分实在太大,不足为信。",
+    "pinyin": "Tā nà xiē suǒ wèi de chéng jiù, shuǐ fèn shí zài tài dà, bù zú wèi xìn。",
+    "en": "His so-called achievements are too inflated to be believed."
+   },
+   {
+    "zh": "所谓活到老学到老,学习是一辈子的事情。",
+    "pinyin": "Suǒ wèi huó dào lǎo xué dào lǎo, xué xí shì yī bèi zi de shì qíng。",
+    "en": "'Never too old to learn' — learning is a lifelong matter."
+   },
+   {
+    "zh": "网上那些所谓的爆料,很多都是没有根据的谣言。",
+    "pinyin": "Wǎng shàng nà xiē suǒ wèi de bào liào, hěn duō dōu shì méi yǒu gēn jù de yáo yán。",
+    "en": "Those so-called online exposés are often baseless rumors."
+   },
+   {
+    "zh": "所谓精诚所至,金石为开,真心总能打动人。",
+    "pinyin": "Suǒ wèi jīng chéng suǒ zhì, jīn shí wéi kāi, zhēn xīn zǒng néng dǎ dòng rén。",
+    "en": "Utter sincerity can move even stone; a true heart wins people."
+   },
+   {
+    "zh": "他口口声声说的所谓原则,遇到利益就抛到脑后了。",
+    "pinyin": "Tā kǒu kǒu shēng shēng shuō de suǒ wèi yuán zé, yù dào lì yì jiù pāo dào nǎo hòu le。",
+    "en": "The principles he keeps citing vanish the moment profit appears."
+   },
+   {
+    "zh": "所谓授人以鱼不如授人以渔,教方法比给答案更重要。",
+    "pinyin": "Suǒ wèi shòu rén yǐ yú bù rú shòu rén yǐ yú, jiào fāng fǎ bǐ gěi dá àn gèng zhòng yào。",
+    "en": "Teaching how to fish beats giving a fish; method beats answers."
+   },
+   {
+    "zh": "那些所谓的内部消息,大多是别有用心的人编造的。",
+    "pinyin": "Nà xiē suǒ wèi de nèi bù xiāo xī, dà duō shì bié yǒu yòng xīn de rén biān zào de。",
+    "en": "Those so-called inside tips are mostly fabricated with ill intent."
+   },
+   {
+    "zh": "所谓路遥知马力,时间久了才看得出一个人的真心。",
+    "pinyin": "Suǒ wèi lù yáo zhī mǎ lì, shí jiān jiǔ le cái kàn dé chū yí gè rén de zhēn xīn。",
+    "en": "Distance tests a horse; time reveals a person's true heart."
+   },
+   {
+    "zh": "他所谓的道歉,听起来更像是在为自己开脱。",
+    "pinyin": "Tā suǒ wèi de dào qiàn, tīng qǐ lái gèng xiàng shì zài wèi zì jǐ kāi tuō。",
+    "en": "His so-called apology sounds more like excusing himself."
+   },
+   {
+    "zh": "所谓万事开头难,只要迈出第一步,后面就好办了。",
+    "pinyin": "Suǒ wèi wàn shì kāi tóu nán, zhǐ yào mài chū dì yī bù, hòu miàn jiù hǎo bàn le。",
+    "en": "'The start is hardest' — take the first step and the rest eases."
+   },
+   {
+    "zh": "这就是你所谓的帮忙?结果越弄越糟,还不如不帮。",
+    "pinyin": "Zhè jiù shì nǐ suǒ wèi de bāng máng? jié guǒ yuè nòng yuè zāo, hái bù rú bù bāng。",
+    "en": "Is this your so-called help? It only made things worse."
+   }
+  ]
+ },
+ {
+  "id": "g404",
+  "level": 4,
+  "title": "\"越...越...\" ile \"...-dikçe ...-\"",
+  "titleEn": "Expressing \"the more... the more...\" with \"yue… yue…\"",
+  "pattern": "越 + A，越 + B / 越来越 + Sıfat",
+  "summary": "\"越...越...\" bir şeyin artışıyla başka bir şeyin arttığını bildirir: 越学越有意思 = Öğrendikçe daha ilginç geliyor.",
+  "explanation": "\"越 A 越 B\" bir niteliğin/eylemin ARTMASIYLA başka bir niteliğin de orantılı biçimde arttığını bildirir: \"...-dikçe ...-, ne kadar ... o kadar ...\". Kalıp: 越 + fiil/sıfat A，(özne) 越 + fiil/sıfat B. 雨越下越大 (Yağmur yağdıkça arttı), 这本书越读越有意思 (Bu kitap okudukça ilginçleşiyor), 他越说越激动 (Konuştukça heyecanlandı), 事情越想越复杂 (Mesele düşündükçe karmaşıklaşıyor). İki \"越\" aynı özneye ait olabilir (越跑越快 koştukça hızlandı) ya da iki özneyi bağlayabilir (你越急,他越慢). (2) \"越来越 + sıfat\" özel bir biçimdir: zamanla giderek artan bir değişimi anlatır — \"gitgide, giderek daha ...\": 天气越来越冷 (Hava gitgide soğuyor), 他的汉语越来越好 (Çincesi giderek iyileşiyor), 城市越来越热闹 (Şehir gitgide hareketleniyor). (3) \"越是...越是...\" biçimi vurguyu artırır: 越是困难的时候,越要保持冷静 (En zor anda daha da soğukkanlı olmalı). Bu yapı iki değişken arasındaki doğru orantılı ilişkiyi canlı biçimde kurar. Türkçedeki \"...-dikçe ...-, ne kadar ... o kadar ..., gitgide daha ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这场雨越下越大,不一会儿街上就积起了水。",
+    "pinyin": "Zhè chǎng yǔ yuè xià yuè dà, bù yī huì er jiē shàng jiù jī qǐ le shuǐ。",
+    "en": "The rain grew heavier and soon flooded the streets."
+   },
+   {
+    "zh": "这本小说情节曲折,让人越看越想看下去。",
+    "pinyin": "Zhè běn xiǎo shuō qíng jié qū zhé, ràng rén yuè kàn yuè xiǎng kàn xià qù。",
+    "en": "The novel's twists make you want to read on and on."
+   },
+   {
+    "zh": "他越说越激动,到最后声音都有些发颤了。",
+    "pinyin": "Tā yuè shuō yuè jī dòng, dào zuì hòu shēng yīn dōu yǒu xiē fā chàn le。",
+    "en": "The more he spoke, the more worked up he got, voice trembling."
+   },
+   {
+    "zh": "这道题你越是紧张,就越容易想不出思路。",
+    "pinyin": "Zhè dào tí nǐ yuè shì jǐn zhāng, jiù yuè róng yì xiǎng bù chū sī lù。",
+    "en": "The more nervous you get, the harder the idea comes."
+   },
+   {
+    "zh": "天气越来越冷了,大家都换上了厚厚的冬装。",
+    "pinyin": "Tiān qì yuè lái yuè lěng le, dà jiā dōu huàn shàng le hòu hòu de dōng zhuāng。",
+    "en": "The weather grew colder, and everyone put on thick winter clothes."
+   },
+   {
+    "zh": "随着不断练习,他的口语越来越流利了。",
+    "pinyin": "Suí zhe bù duàn liàn xí, tā de kǒu yǔ yuè lái yuè liú lì le。",
+    "en": "With steady practice, his spoken language grew ever more fluent."
+   },
+   {
+    "zh": "这两个孩子越玩越开心,笑声传遍了整个院子。",
+    "pinyin": "Zhè liǎng gè hái zi yuè wán yuè kāi xīn, xiào shēng chuán biàn le zhěng gè yuàn zi。",
+    "en": "The two children grew merrier as they played, filling the yard with laughter."
+   },
+   {
+    "zh": "他越想越觉得不对劲,于是决定亲自去看个究竟。",
+    "pinyin": "Tā yuè xiǎng yuè jué de bú duì jìn, yú shì jué dìng qīn zì qù kàn gè jiū jìng。",
+    "en": "The more he thought, the odder it seemed, so he went to check himself."
+   },
+   {
+    "zh": "路越走越窄,最后几乎只能容一个人通过。",
+    "pinyin": "Lù yuè zǒu yuè zhǎi, zuì hòu jī hū zhǐ néng róng yí gè rén tōng guò。",
+    "en": "The path narrowed until it barely fit one person."
+   },
+   {
+    "zh": "这座城市这些年发展得越来越快,变化日新月异。",
+    "pinyin": "Zhè zuò chéng shì zhè xiē nián fā zhǎn de yuè lái yuè kuài, biàn huà rì xīn yuè yì。",
+    "en": "The city has developed faster and faster, changing day by day."
+   },
+   {
+    "zh": "你越是催他,他反而越慢,一点也急不得。",
+    "pinyin": "Nǐ yuè shì cuī tā, tā fǎn ér yuè màn, yì diǎn yě jí bù de。",
+    "en": "The more you hurry him, the slower he goes; you can't rush him."
+   },
+   {
+    "zh": "经过老师的鼓励,他学习的劲头越来越足了。",
+    "pinyin": "Jīng guò lǎo shī de gǔ lì, tā xué xí de jìn tóu yuè lái yuè zú le。",
+    "en": "After the teacher's encouragement, his zeal for study grew."
+   },
+   {
+    "zh": "锅里的水越烧越开,蒸汽把整个厨房都弥漫了。",
+    "pinyin": "Guō lǐ de shuǐ yuè shāo yuè kāi, zhēng qì bǎ zhěng gè chú fáng dōu mí màn le。",
+    "en": "The water boiled harder, filling the kitchen with steam."
+   },
+   {
+    "zh": "越是到了关键时刻,就越要沉住气,不能自乱阵脚。",
+    "pinyin": "Yuè shì dào le guān jiàn shí kè, jiù yuè yào chén zhù qì, bù néng zì luàn zhèn jiǎo。",
+    "en": "The more crucial the moment, the calmer one must stay."
+   },
+   {
+    "zh": "这首老歌越听越有味道,让人回味无穷。",
+    "pinyin": "Zhè shǒu lǎo gē yuè tīng yuè yǒu wèi dào, ràng rén huí wèi wú qióng。",
+    "en": "The old song grows richer with each listen, endlessly evocative."
+   },
+   {
+    "zh": "随着夜色渐深,四周越来越安静了。",
+    "pinyin": "Suí zhe yè sè jiàn shēn, sì zhōu yuè lái yuè ān jìng le。",
+    "en": "As night deepened, the surroundings grew ever quieter."
+   },
+   {
+    "zh": "他越练越熟,不到一个月就把这门手艺学会了。",
+    "pinyin": "Tā yuè liàn yuè shú, bú dào yí gè yuè jiù bǎ zhè mén shǒu yì xué huì le。",
+    "en": "The more he practiced, the abler he grew, mastering the craft in a month."
+   },
+   {
+    "zh": "孩子的胆子越来越大,现在都敢一个人上台表演了。",
+    "pinyin": "Hái zi de dǎn zi yuè lái yuè dà, xiàn zài dōu gǎn yí gè rén shàng tái biǎo yǎn le。",
+    "en": "The child grew bolder and now dares to perform alone on stage."
+   },
+   {
+    "zh": "大家越讨论越热烈,不知不觉就到了深夜。",
+    "pinyin": "Dà jiā yuè tǎo lùn yuè rè liè, bù zhī bù jué jiù dào le shēn yè。",
+    "en": "The discussion grew livelier until, unnoticed, night fell deep."
+   },
+   {
+    "zh": "越是简单的道理,往往越容易被人忽略。",
+    "pinyin": "Yuè shì jiǎn dān de dào lǐ, wǎng wǎng yuè róng yì bèi rén hū lüè。",
+    "en": "The simpler the truth, the more easily it's overlooked."
+   },
+   {
+    "zh": "这条河的水越流越急,发出哗哗的声响。",
+    "pinyin": "Zhè tiáo hé de shuǐ yuè liú yuè jí, fā chū huā huā de shēng xiǎng。",
+    "en": "The river ran faster and faster, rushing with a roar."
+   },
+   {
+    "zh": "随着了解的加深,我越来越佩服他的为人。",
+    "pinyin": "Suí zhe liǎo jiě de jiā shēn, wǒ yuè lái yuè pèi fú tā de wéi rén。",
+    "en": "As I knew him better, I admired his character more and more."
+   },
+   {
+    "zh": "他越是遇到挫折,就越是不肯轻易低头认输。",
+    "pinyin": "Tā yuè shì yù dào cuò zhé, jiù yuè shì bù kěn qīng yì dī tóu rèn shū。",
+    "en": "The more setbacks he met, the less he'd bow and give in."
+   },
+   {
+    "zh": "天色越来越暗,远处的山峦渐渐看不清了。",
+    "pinyin": "Tiān sè yuè lái yuè àn, yuǎn chù de shān luán jiàn jiàn kàn bù qīng le。",
+    "en": "The sky darkened, and the distant peaks grew hard to see."
+   },
+   {
+    "zh": "这本书我越读越明白,原来其中藏着这么深的道理。",
+    "pinyin": "Zhè běn shū wǒ yuè dú yuè míng bái, yuán lái qí zhōng cáng zhe zhè me shēn de dào lǐ。",
+    "en": "The more I read, the clearer it became — such deep truths within."
+   }
+  ]
+ },
+ {
+  "id": "g405",
+  "level": 4,
+  "title": "\"在...(以)内\" ile \"... içinde / ...-e kadar\"",
+  "titleEn": "Expressing \"within\" a period of time using \"zai... nei\"",
+  "pattern": "在 + Süre/Kapsam + (以)内",
+  "summary": "\"在...内\" belli bir süre/kapsam sınırı içinde olmayı bildirir: 请在一周内完成 = Lütfen bir hafta içinde tamamlayın.",
+  "explanation": "\"在 + süre/kapsam + (以)内\" bir eylemin belli bir SÜRE, mesafe ya da kapsam SINIRI içinde gerçekleştiğini bildirir: \"... içinde, ...-e kadar, ... sınırları içinde\". Kalıp: 在 + miktar/süre + (以)内. 请在三天内把报告交上来 (Raporu üç gün içinde teslim edin), 在一个月内,他跑遍了全国好几个城市 (Bir ay içinde ülkenin birçok şehrini dolaştı), 在五公里以内,骑车比开车还快 (Beş kilometre içinde bisiklet arabadan hızlı), 在我的能力范围以内,我一定尽力帮你 (Elimden geldiğince sana yardım ederim), 在规定的时间以内完成任务 (Belirlenen süre içinde görevi tamamlamak). \"以内\" ve \"内\" çoğunlukla eş anlamlıdır; \"以内\" bir üst sınırı (o değere kadar) vurgular. Karşıtı \"以外\" (... dışında). Bu yapı özellikle süre sınırları (三天内/一年内), mesafe (十公里以内) ve soyut kapsamlar (范围以内/能力以内) için kullanılır. Türkçedeki \"... içinde, ...-e kadar, ... sınırları içinde, ...-i geçmeden\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "请大家务必在这个星期内把材料准备齐全。",
+    "pinyin": "Qǐng dà jiā wù bì zài zhè ge xīng qī nèi bǎ cái liào zhǔn bèi qí quán。",
+    "en": "Please have all materials ready within this week."
+   },
+   {
+    "zh": "在短短一年之内,这家小店就开了好几家分店。",
+    "pinyin": "Zài duǎn duǎn yī nián zhī nèi, zhè jiā xiǎo diàn jiù kāi le hǎo jǐ jiā fēn diàn。",
+    "en": "Within just a year, this small shop opened several branches."
+   },
+   {
+    "zh": "医生说,只要在三天内退烧,就没有大碍。",
+    "pinyin": "Yī shēng shuō, zhǐ yào zài sān tiān nèi tuì shāo, jiù méi yǒu dà ài。",
+    "en": "The doctor said if the fever drops within three days, all is well."
+   },
+   {
+    "zh": "在五公里以内,骑自行车往往比开车更方便。",
+    "pinyin": "Zài wǔ gōng lǐ yǐ nèi, qí zì xíng chē wǎng wǎng bǐ kāi chē gèng fāng biàn。",
+    "en": "Within five kilometers, cycling is often handier than driving."
+   },
+   {
+    "zh": "这项任务必须在规定的期限内保质保量地完成。",
+    "pinyin": "Zhè xiàng rèn wù bì xū zài guī dìng de qī xiàn nèi bǎo zhì bǎo liàng de wán chéng。",
+    "en": "This task must be finished on time and to standard within the deadline."
+   },
+   {
+    "zh": "在我力所能及的范围内,我一定尽力帮你解决。",
+    "pinyin": "Zài wǒ lì suǒ néng jí de fàn wéi nèi, wǒ yí dìng jìn lì bāng nǐ jiě jué。",
+    "en": "Within my ability, I'll do my best to help you solve it."
+   },
+   {
+    "zh": "在方圆几十里以内,他家的手艺是出了名的好。",
+    "pinyin": "Zài fāng yuán jǐ shí lǐ yǐ nèi, tā jiā de shǒu yì shì chū le míng de hǎo。",
+    "en": "Within tens of miles around, his family's craft is famous."
+   },
+   {
+    "zh": "请在保修期内及时联系厂家,不要错过维修时机。",
+    "pinyin": "Qǐng zài bǎo xiū qī nèi jí shí lián xì chǎng jiā, bú yào cuò guò wéi xiū shí jī。",
+    "en": "Contact the maker within the warranty; don't miss the repair window."
+   },
+   {
+    "zh": "在最近半年内,这座城市的面貌发生了巨大的变化。",
+    "pinyin": "Zài zuì jìn bàn nián nèi, zhè zuò chéng shì de miàn mào fā shēng le jù dà de biàn huà。",
+    "en": "In the past half year, the city changed enormously."
+   },
+   {
+    "zh": "凡是在有效期以内的票据,都可以拿来报销。",
+    "pinyin": "Fán shì zài yǒu xiào qī yǐ nèi de piào jù, dōu kě yǐ ná lái bào xiāo。",
+    "en": "Any receipt within its valid period can be reimbursed."
+   },
+   {
+    "zh": "在两小时以内,救援队就赶到了偏远的事故现场。",
+    "pinyin": "Zài liǎng xiǎo shí yǐ nèi, jiù yuán duì jiù gǎn dào le piān yuǎn de shì gù xiàn chǎng。",
+    "en": "Within two hours, the rescue team reached the remote crash site."
+   },
+   {
+    "zh": "请把车速控制在规定的限速以内,注意行车安全。",
+    "pinyin": "Qǐng bǎ chē sù kòng zhì zài guī dìng de xiàn sù yǐ nèi, zhù yì xíng chē ān quán。",
+    "en": "Please keep your speed within the limit and drive safely."
+   },
+   {
+    "zh": "在预算以内,我们尽量把这次活动办得体面一些。",
+    "pinyin": "Zài yù suàn yǐ nèi, wǒ men jǐn liàng bǎ zhè cì huó dòng bàn de tǐ miàn yī xiē。",
+    "en": "Within budget, we'll make the event as decent as we can."
+   },
+   {
+    "zh": "在这几天以内,天气都会比较晴朗,适合出行。",
+    "pinyin": "Zài zhè jǐ tiān yǐ nèi, tiān qì dū huì bǐ jiào qíng lǎng, shì hé chū xíng。",
+    "en": "Within these few days the weather stays clear, good for travel."
+   },
+   {
+    "zh": "这种药必须在开封后一个月内用完,否则就失效了。",
+    "pinyin": "Zhè zhǒng yào bì xū zài kāi fēng hòu yí gè yuè nèi yòng wán, fǒu zé jiù shī xiào le。",
+    "en": "This medicine must be used within a month of opening, or it expires."
+   },
+   {
+    "zh": "在三年之内,他从一个新手成长为了行业里的骨干。",
+    "pinyin": "Zài sān nián zhī nèi, tā cóng yí gè xīn shǒu chéng zhǎng wèi le háng yè lǐ de gǔ gàn。",
+    "en": "Within three years, he grew from a novice to an industry backbone."
+   },
+   {
+    "zh": "在视线所及的范围以内,四周是一望无际的草原。",
+    "pinyin": "Zài shì xiàn suǒ jí de fàn wéi yǐ nèi, sì zhōu shì yí wàng wú jì de cǎo yuán。",
+    "en": "Within eyeshot, boundless grassland stretched all around."
+   },
+   {
+    "zh": "在合同约定的期限以内,双方都应履行各自的义务。",
+    "pinyin": "Zài hé tóng yuē dìng de qī xiàn yǐ nèi, shuāng fāng dōu yīng lǚ xíng gè zì de yì wù。",
+    "en": "Within the contract term, both sides must fulfill their duties."
+   },
+   {
+    "zh": "请在一刻钟以内到达集合地点,过时不候。",
+    "pinyin": "Qǐng zài yī kè zhōng yǐ nèi dào dá jí hé dì diǎn, guò shí bù hòu。",
+    "en": "Please reach the meeting point within fifteen minutes; latecomers wait."
+   },
+   {
+    "zh": "在最近这一段时间内,他的身体恢复得相当不错。",
+    "pinyin": "Zài zuì jìn zhè yī duàn shí jiān nèi, tā de shēn tǐ huī fù de xiāng dāng bù cuò。",
+    "en": "In this recent period, his health recovered quite well."
+   },
+   {
+    "zh": "这些问题都在我们的处理能力以内,请你放心。",
+    "pinyin": "Zhè xiē wèn tí dōu zài wǒ men de chǔ lǐ néng lì yǐ nèi, qǐng nǐ fàng xīn。",
+    "en": "These problems are within our ability to handle; rest assured."
+   },
+   {
+    "zh": "在活动结束后的一周内,所有奖品都会陆续寄出。",
+    "pinyin": "Zài huó dòng jié shù hòu de yī zhōu nèi, suǒ yǒu jiǎng pǐn dū huì lù xù jì chū。",
+    "en": "Within a week after the event, all prizes will be mailed out."
+   },
+   {
+    "zh": "在方圆一公里以内,几乎找不到一家像样的商店。",
+    "pinyin": "Zài fāng yuán yī gōng lǐ yǐ nèi, jī hū zhǎo bú dào yī jiā xiàng yàng de shāng diàn。",
+    "en": "Within a one-kilometer radius, hardly a decent shop can be found."
+   },
+   {
+    "zh": "请在报名截止日期以内提交你的申请材料。",
+    "pinyin": "Qǐng zài bào míng jié zhǐ rì qī yǐ nèi tí jiāo nǐ de shēn qǐng cái liào。",
+    "en": "Please submit your application before the registration deadline."
+   },
+   {
+    "zh": "在有限的时间以内,他们出色地完成了全部任务。",
+    "pinyin": "Zài yǒu xiàn de shí jiān yǐ nèi, tā men chū sè de wán chéng le quán bù rèn wù。",
+    "en": "Within the limited time, they excellently finished all the tasks."
+   }
+  ]
+ },
+ {
+  "id": "g406",
+  "level": 4,
+  "title": "\"宁可...也...\" ile \"...-mektense / ...-e razı olmak\"",
+  "titleEn": "Expressing \"would rather\" with \"ningke\"",
+  "pattern": "宁可 + A，也 + (不) + B",
+  "summary": "\"宁可...也...\" bir seçeneği ötekine yeğlediğini bildirir: 宁可站着死,也不跪着生 = Diz çökerek yaşamaktansa ayakta ölmeyi yeğlerim.",
+  "explanation": "\"宁可\" (nìngkě) iki seçenek arasında birini — çoğu zaman zor/kötü olanı — bir ilke uğruna YEĞLEDİĞİNİ bildirir: \"...-mektense ...-yi yeğlerim, ...-e razı olurum da ...-mem, ...-ansa ...\". İki kalıbı yaygındır. (1) 宁可 A，也不 B: \"B yapmaktansa A'ya razıyım\" — 他宁可自己吃亏,也不愿意占别人的便宜 (Kendi zararına razı olur da başkasının hakkını yemez), 我宁可走着去,也不坐他的车 (Yürüyerek giderim de onun arabasına binmem). (2) 宁可 A，也要 B: \"B uğruna A'ya bile katlanırım\" — 他宁可少睡几个小时,也要把工作做完 (Birkaç saat az uyumaya razı olur da işi bitirir), 宁可多花点钱,也要买质量好的 (Biraz fazla para verir de kaliteliyi alır). \"宁可\" bir bedeli göze alarak yapılan bilinçli bir tercihi, çoğu zaman bir değer/ilke uğruna fedakârlığı vurgular. \"宁愿/宁肯\" ile eş anlamlıdır. \"...也不...\" reddedileni, \"...也要...\" uğruna katlanılan hedefi belirtir. Türkçedeki \"...-mektense ..., ...-e razı olurum da ...-mem, ...-ansa ...-yi yeğlerim\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他为人正直,宁可自己吃点亏,也绝不占别人的便宜。",
+    "pinyin": "Tā wéi rén zhèng zhí, nìng kě zì jǐ chī diǎn kuī, yě jué bù zhàn bié rén de pián yi。",
+    "en": "Upright as he is, he'd take a loss before ever cheating others."
+   },
+   {
+    "zh": "我宁可多走几步路,也不愿意去挤那趟拥挤的公交车。",
+    "pinyin": "Wǒ nìng kě duō zǒu jǐ bù lù, yě bù yuàn yì qù jǐ nà tàng yōng jǐ de gōng jiāo chē。",
+    "en": "I'd rather walk a bit more than squeeze onto that packed bus."
+   },
+   {
+    "zh": "他宁可少睡几个小时,也要把明天的报告准备好。",
+    "pinyin": "Tā nìng kě shǎo shuì jǐ gè xiǎo shí, yě yào bǎ míng tiān de bào gào zhǔn bèi hǎo。",
+    "en": "He'd sleep less to make sure tomorrow's report is ready."
+   },
+   {
+    "zh": "这个姑娘很有骨气,宁可挨饿,也不肯接受别人的施舍。",
+    "pinyin": "Zhè ge gū niáng hěn yǒu gǔ qì, nìng kě ái è, yě bù kěn jiē shòu bié rén de shī shě。",
+    "en": "The proud girl would starve before taking anyone's charity."
+   },
+   {
+    "zh": "为了保证质量,他宁可多花点成本,也不愿偷工减料。",
+    "pinyin": "Wèi le bǎo zhèng zhì liàng, tā nìng kě duō huā diǎn chéng běn, yě bù yuàn tōu gōng jiǎn liào。",
+    "en": "For quality, he'd spend more rather than cut corners."
+   },
+   {
+    "zh": "她宁可自己受累,也不愿意麻烦别人替她操心。",
+    "pinyin": "Tā nìng kě zì jǐ shòu lěi, yě bù yuàn yì má fán bié rén tì tā cāo xīn。",
+    "en": "She'd tire herself out before troubling others on her behalf."
+   },
+   {
+    "zh": "他宁可承认自己的错误,也不愿意把责任推给同事。",
+    "pinyin": "Tā nìng kě chéng rèn zì jǐ de cuò wù, yě bù yuàn yì bǎ zé rèn tuī gěi tóng shì。",
+    "en": "He'd admit his own fault before blaming a colleague."
+   },
+   {
+    "zh": "宁可站着把话说清楚,也不愿意背地里议论别人。",
+    "pinyin": "Nìng kě zhàn zhe bǎ huà shuō qīng chǔ, yě bù yuàn yì bèi de lǐ yì lùn bié rén。",
+    "en": "I'd speak plainly to your face before gossiping behind backs."
+   },
+   {
+    "zh": "为了孩子的教育,父母宁可省吃俭用,也要供他上学。",
+    "pinyin": "Wèi le hái zi de jiào yù, fù mǔ nìng kě shěng chī jiǎn yòng, yě yào gōng tā shàng xué。",
+    "en": "For the child's schooling, the parents would scrimp to send him."
+   },
+   {
+    "zh": "他宁可放弃这次升职的机会,也要坚持自己的原则。",
+    "pinyin": "Tā nìng kě fàng qì zhè cì shēng zhí de jī huì, yě yào jiān chí zì jǐ de yuán zé。",
+    "en": "He'd give up the promotion before betraying his principles."
+   },
+   {
+    "zh": "我宁可实话实说被人埋怨,也不想用谎言来讨好谁。",
+    "pinyin": "Wǒ nìng kě shí huà shí shuō bèi rén mán yuàn, yě bù xiǎng yòng huǎng yán lái tǎo hǎo shuí。",
+    "en": "I'd tell the truth and be blamed before flattering with lies."
+   },
+   {
+    "zh": "那位老人宁可自己多干点,也舍不得让儿女受累。",
+    "pinyin": "Nà wèi lǎo rén nìng kě zì jǐ duō gān diǎn, yě shě bù de ràng ér nǚ shòu lěi。",
+    "en": "The old man would do more himself than let his children toil."
+   },
+   {
+    "zh": "宁可事先多准备一些,也不要临时手忙脚乱。",
+    "pinyin": "Nìng kě shì xiān duō zhǔn bèi yī xiē, yě bú yào lín shí shǒu máng jiǎo luàn。",
+    "en": "Better to over-prepare than to scramble at the last minute."
+   },
+   {
+    "zh": "他宁可淋着雨慢慢走回家,也不肯打车多花钱。",
+    "pinyin": "Tā nìng kě lín zhe yǔ màn màn zǒu huí jiā, yě bù kěn dǎ chē duō huā qián。",
+    "en": "He'd walk home in the rain before spending on a cab."
+   },
+   {
+    "zh": "这位手艺人宁可少接些活儿,也要保证每一件都做到最好。",
+    "pinyin": "Zhè wèi shǒu yì rén nìng kě shǎo jiē xiē huó er, yě yào bǎo zhèng měi yī jiàn dōu zuò dào zuì hǎo。",
+    "en": "The craftsman would take fewer orders to make each one his best."
+   },
+   {
+    "zh": "她宁可自己委屈一点,也不愿意让家里人为她担心。",
+    "pinyin": "Tā nìng kě zì jǐ wěi qū yì diǎn, yě bù yuàn yì ràng jiā lǐ rén wéi tā dān xīn。",
+    "en": "She'd bear a grievance before making family worry for her."
+   },
+   {
+    "zh": "为了不打扰别人,他宁可自己绕远路,也不抄近道。",
+    "pinyin": "Wèi le bù dǎ rǎo bié rén, tā nìng kě zì jǐ rào yuǎn lù, yě bù chāo jìn dào。",
+    "en": "To not disturb others, he'd take the long way, not a shortcut."
+   },
+   {
+    "zh": "他宁可当面被拒绝,也不愿意稀里糊涂地一直等下去。",
+    "pinyin": "Tā nìng kě dāng miàn bèi jù jué, yě bù yuàn yì xī lǐ hú tú de yì zhí děng xià qù。",
+    "en": "He'd rather be refused to his face than wait in confusion."
+   },
+   {
+    "zh": "这个厨师宁可用最新鲜的食材,也绝不用隔夜的东西。",
+    "pinyin": "Zhè ge chú shī nìng kě yòng zuì xīn xiān de shí cái, yě jué bù yòng gé yè de dōng xī。",
+    "en": "The chef would use only the freshest, never anything stale."
+   },
+   {
+    "zh": "宁可慢一点把事情做扎实,也不要图快留下后患。",
+    "pinyin": "Nìng kě màn yì diǎn bǎ shì qíng zuò zhā shí, yě bú yào tú kuài liú xià hòu huàn。",
+    "en": "Better to go slow and do it soundly than rush and leave trouble."
+   },
+   {
+    "zh": "他宁可自己扛下所有压力,也不愿意让团队士气受影响。",
+    "pinyin": "Tā nìng kě zì jǐ káng xià suǒ yǒu yā lì, yě bù yuàn yì ràng tuán duì shì qì shòu yǐng xiǎng。",
+    "en": "He'd shoulder all the pressure before hurting team morale."
+   },
+   {
+    "zh": "那位母亲宁可自己饿着,也要把最好的留给孩子。",
+    "pinyin": "Nà wèi mǔ qīn nìng kě zì jǐ è zhe, yě yào bǎ zuì hǎo de liú gěi hái zi。",
+    "en": "The mother would go hungry to leave the best for her child."
+   },
+   {
+    "zh": "我宁可承认自己不懂,也不想不懂装懂,误导别人。",
+    "pinyin": "Wǒ nìng kě chéng rèn zì jǐ bù dǒng, yě bù xiǎng bù dǒng zhuāng dǒng, wù dǎo bié rén。",
+    "en": "I'd admit I don't know before faking it and misleading others."
+   },
+   {
+    "zh": "他宁可放慢事业的脚步,也要多花时间陪伴家人。",
+    "pinyin": "Tā nìng kě fàng màn shì yè de jiǎo bù, yě yào duō huā shí jiān péi bàn jiā rén。",
+    "en": "He'd slow his career to spend more time with his family."
+   },
+   {
+    "zh": "宁可站着堂堂正正地活,也不愿卑躬屈膝地苟且偷生。",
+    "pinyin": "Nìng kě zhàn zhe táng táng zhèng zhèng de huó, yě bù yuàn bēi gōng qū xī de gǒu qiě tōu shēng。",
+    "en": "Better to live upright and proud than to grovel for survival."
+   }
+  ]
+ },
+ {
+  "id": "g407",
+  "level": 4,
+  "title": "\"就\" ile umursamazlık bildirme",
+  "titleEn": "Expressing indifference with \"jiu\"",
+  "pattern": "... 就 ... 吧 / A 就 A",
+  "summary": "\"就\" bir durumu umursamadan kabullenmeyi bildirir: 不去就不去吧 = Gitmiyorsan gitme, olsun; 累就累点吧 = Yorucuysa yorucu olsun.",
+  "explanation": "\"就\" bir durumu \"olduğu gibi kabul, umurumda değil, öyleyse öyle olsun\" biçiminde UMURSAMAZLIKLA/boş vermişlikle onayladığımızı gösterebilir. Yaygın biçimler. (1) \"A 就 A (吧)\": bir durumu razı olarak kabul — 贵就贵点吧,反正也就买这一次 (Pahalıysa pahalı olsun, nasılsa bir kez alıyorum), 他不来就不来吧,我们照样玩 (Gelmiyorsa gelmesin, biz yine eğleniriz), 错就错了,下次注意就是了 (Yanlışsa yanlış oldu, bir dahakine dikkat ederiz). (2) \"...就...呗/吧\": bir öneriyi/durumu boş vererek kabul — 不够就再买点呗 (Yetmiyorsa biraz daha alırız işte), 累了就歇会儿吧 (Yorulduysan dinlen işte). Bu kullanımda \"就\" bir durumu \"öyleyse öyle, ne olacak ki\" tavrıyla kabullenir; itiraz etmeden, kaygılanmadan boyun eğmeyi ya da aldırmazlığı bildirir. Çoğu zaman sonuna \"吧/呗/就是了\" gelir ve tonu rahat, kayıtsız ya da teselli edicidir. Türkçedeki \"...-sa ...-sın, olsun (varsın öyle olsun), ne olacak ki, ...- diyse ...-di işte\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这件衣服贵就贵点吧,我确实很喜欢它的样式。",
+    "pinyin": "Zhè jiàn yī fú guì jiù guì diǎn ba, wǒ què shí hěn xǐ huān tā de yàng shì。",
+    "en": "If it's a bit pricey, so be it; I really love the style."
+   },
+   {
+    "zh": "他不愿意来就算了吧,我们几个照样玩得开心。",
+    "pinyin": "Tā bù yuàn yì lái jiù suàn le ba, wǒ men jǐ gè zhào yàng wán de kāi xīn。",
+    "en": "If he won't come, never mind; we'll still have fun."
+   },
+   {
+    "zh": "事情已经这样了,错就错了,吸取教训下次注意。",
+    "pinyin": "Shì qíng yǐ jīng zhè yàng le, cuò jiù cuò le, xī qǔ jiào xùn xià cì zhù yì。",
+    "en": "It's done; a mistake's a mistake — learn and do better next time."
+   },
+   {
+    "zh": "天气冷就多穿一件呗,何必为这点小事发愁。",
+    "pinyin": "Tiān qì lěng jiù duō chuān yī jiàn bei, hé bì wèi zhè diǎn xiǎo shì fā chóu。",
+    "en": "If it's cold, just wear more; why fret over such a trifle."
+   },
+   {
+    "zh": "菜不够吃就再点几个呗,别客气,今天我请客。",
+    "pinyin": "Cài bù gòu chī jiù zài diǎn jǐ gè bei, bié kè qì, jīn tiān wǒ qǐng kè。",
+    "en": "If there's not enough, just order more; it's my treat today."
+   },
+   {
+    "zh": "累了就歇一会儿吧,身体要紧,活儿慢慢干。",
+    "pinyin": "Lèi le jiù xiē yī huì er ba, shēn tǐ yào jǐn, huó er màn màn gàn。",
+    "en": "If you're tired, rest a bit; health first, take the work slow."
+   },
+   {
+    "zh": "他想走就让他走吧,强留下来也没什么意思。",
+    "pinyin": "Tā xiǎng zǒu jiù ràng tā zǒu ba, qiǎng liú xià lái yě méi shén me yì si。",
+    "en": "If he wants to go, let him; forcing him to stay is pointless."
+   },
+   {
+    "zh": "下雨就下雨吧,反正我们本来也没打算出门。",
+    "pinyin": "Xià yǔ jiù xià yǔ ba, fǎn zhèng wǒ men běn lái yě méi dǎ suàn chū mén。",
+    "en": "Let it rain; we weren't planning to go out anyway."
+   },
+   {
+    "zh": "你不信就算了,反正我说的都是实话。",
+    "pinyin": "Nǐ bù xìn jiù suàn le, fǎn zhèng wǒ shuō de dōu shì shí huà。",
+    "en": "If you don't believe me, fine; what I said is all true."
+   },
+   {
+    "zh": "东西丢了就丢了吧,别再懊恼了,人没事就好。",
+    "pinyin": "Dōng xī diū le jiù diū le ba, bié zài ào nǎo le, rén méi shì jiù hǎo。",
+    "en": "If it's lost, it's lost; don't fret — you're fine, that's what matters."
+   },
+   {
+    "zh": "嫌远就打个车过去呗,也花不了多少钱。",
+    "pinyin": "Xián yuǎn jiù dǎ gè chē guò qù bei, yě huā bù liǎo duō shǎo qián。",
+    "en": "If it's too far, just take a cab; it won't cost much."
+   },
+   {
+    "zh": "他愿意帮忙就帮,不愿意就算了,别勉强人家。",
+    "pinyin": "Tā yuàn yì bāng máng jiù bāng, bù yuàn yì jiù suàn le, bié miǎn qiǎng rén jiā。",
+    "en": "If he wants to help, fine; if not, let it be — don't force him."
+   },
+   {
+    "zh": "旧就旧点吧,只要还能用,就不必急着换新的。",
+    "pinyin": "Jiù jiù jiù diǎn ba, zhǐ yào hái néng yòng, jiù bù bì jí zhe huàn xīn de。",
+    "en": "A bit old is fine; if it still works, no rush to replace it."
+   },
+   {
+    "zh": "既然大家都同意,那就这么办吧,我没意见。",
+    "pinyin": "Jì rán dà jiā dōu tóng yì, nà jiù zhè me bàn ba, wǒ méi yì jiàn。",
+    "en": "Since all agree, let's do it this way; I've no objection."
+   },
+   {
+    "zh": "忘了就忘了呗,下次拿张纸条记下来就是了。",
+    "pinyin": "Wàng le jiù wàng le bei, xià cì ná zhāng zhǐ tiáo jì xià lái jiù shì le。",
+    "en": "Forgot? Never mind; jot it on a note next time."
+   },
+   {
+    "zh": "他爱怎么说就怎么说吧,我问心无愧,不去理会。",
+    "pinyin": "Tā ài zěn me shuō jiù zěn me shuō ba, wǒ wèn xīn wú kuì, bù qù lǐ huì。",
+    "en": "Let him say what he likes; my conscience is clear, I'll ignore it."
+   },
+   {
+    "zh": "路远就早点出发呗,总比到时候手忙脚乱强。",
+    "pinyin": "Lù yuǎn jiù zǎo diǎn chū fā bei, zǒng bǐ dào shí hòu shǒu máng jiǎo luàn qiáng。",
+    "en": "If it's far, just leave earlier; better than scrambling later."
+   },
+   {
+    "zh": "这点小误会,过去就过去了,别老放在心上。",
+    "pinyin": "Zhè diǎn xiǎo wù huì, guò qù jiù guò qù le, bié lǎo fàng zài xīn shàng。",
+    "en": "Such a small misunderstanding — let it pass, don't dwell on it."
+   },
+   {
+    "zh": "你想吃什么就点什么吧,今天别替我省钱。",
+    "pinyin": "Nǐ xiǎng chī shén me jiù diǎn shén me ba, jīn tiān bié tì wǒ shěng qián。",
+    "en": "Order whatever you like; don't save money for me today."
+   },
+   {
+    "zh": "输了就输了吧,重在参与,大家尽力就好。",
+    "pinyin": "Shū le jiù shū le ba, zhòng zài cān yù, dà jiā jìn lì jiù hǎo。",
+    "en": "If we lost, we lost; it's about taking part and doing our best."
+   },
+   {
+    "zh": "他要生气就让他生一会儿气吧,过后自然就好了。",
+    "pinyin": "Tā yào shēng qì jiù ràng tā shēng yī huì er qì ba, guò hòu zì rán jiù hǎo le。",
+    "en": "If he's angry, let him be for a while; he'll come around."
+   },
+   {
+    "zh": "没赶上这趟车就等下一趟呗,反正时间还早。",
+    "pinyin": "Méi gǎn shàng zhè tàng chē jiù děng xià yī tàng bei, fǎn zhèng shí jiān hái zǎo。",
+    "en": "Missed this bus? Just wait for the next; there's still time."
+   },
+   {
+    "zh": "破就破了吧,这双旧鞋本来也该换了。",
+    "pinyin": "Pò jiù pò le ba, zhè shuāng jiù xié běn lái yě gāi huàn le。",
+    "en": "If it's torn, so be it; these old shoes needed replacing anyway."
+   },
+   {
+    "zh": "你不方便就不用来了,心意我领了就行。",
+    "pinyin": "Nǐ bù fāng biàn jiù bù yòng lái le, xīn yì wǒ lǐng le jiù xíng。",
+    "en": "If it's inconvenient, don't come; your thought is enough."
+   },
+   {
+    "zh": "剩下就剩下吧,晚上热一热还能再吃一顿。",
+    "pinyin": "Shèng xià jiù shèng xià ba, wǎn shàng rè yī rè hái néng zài chī yī dùn。",
+    "en": "If there're leftovers, fine; heat them up for another meal tonight."
+   }
+  ]
  }
 ]

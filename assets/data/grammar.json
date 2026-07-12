@@ -46510,5 +46510,685 @@
     "en": "If not for that decision back then, my life might be entirely different."
    }
   ]
+ },
+ {
+  "id": "g343",
+  "level": 4,
+  "title": "\"多亏\" ile \"sayesinde / iyi ki\"",
+  "titleEn": "Expressing \"thanks to\" with \"duokui\"",
+  "pattern": "多亏 + (了) + Kişi / Durum，...",
+  "summary": "\"多亏\" olumlu bir sonucun birinin/bir şeyin sayesinde gerçekleştiğini bildirir: 多亏你帮忙,事情才顺利 = Senin yardımın sayesinde iş yolunda gitti.",
+  "explanation": "\"多亏\" (duōkuī) iyi bir sonucun BİRİNİN ya da bir DURUMUN sayesinde gerçekleştiğini, minnettarlıkla ya da rahatlamayla belirtir: \"... sayesinde, iyi ki ..., neyse ki ...\". Kalıp: 多亏 (+了) + kişi/durum，(才/否则)... 多亏你及时提醒,我才没有迟到 (İyi ki zamanında hatırlattın, geç kalmadım), 多亏了这场雨,庄稼总算得救了 (Bu yağmur sayesinde ekinler kurtuldu), 多亏有你在,不然我真不知道怎么办 (İyi ki sen vardın, yoksa ne yapardım bilmem). Genellikle ardından \"才\" (ancak o sayede) ya da \"否则/不然\" (yoksa) gelir; ikinci bölüm o yardım olmasa kötü bir sonuç olacağını ima eder. \"要不是\"e yakındır ama \"多亏\" olumlu sonucu ve MİNNETİ öne çıkarır. Türkçedeki \"... sayesinde, iyi ki ..., neyse ki ..., bereket ...\" ifadelerine denk gelir; bir iyiliğe ya da şanslı bir duruma minnet bildirmenin yoludur.",
+  "examples": [
+   {
+    "zh": "多亏你及时提醒了我,我才没有错过这趟重要的火车。",
+    "pinyin": "Duō kuī nǐ jí shí tí xǐng le wǒ, wǒ cái méi yǒu cuò guò zhè tàng zhòng yào de huǒ chē。",
+    "en": "Thanks to your timely reminder, I didn't miss this important train."
+   },
+   {
+    "zh": "多亏了这位好心的路人,迷路的孩子才顺利回到了家。",
+    "pinyin": "Duō kuī le zhè wèi hǎo xīn de lù rén, mí lù de hái zi cái shùn lì huí dào le jiā。",
+    "en": "Thanks to this kind passerby, the lost child made it home safely."
+   },
+   {
+    "zh": "多亏平时坚持锻炼,他这次生病才恢复得这么快。",
+    "pinyin": "Duō kuī píng shí jiān chí duàn liàn, tā zhè cì shēng bìng cái huī fù de zhè me kuài。",
+    "en": "Thanks to regular exercise, he recovered from illness so quickly."
+   },
+   {
+    "zh": "多亏有大家的支持,这次活动才办得这么成功。",
+    "pinyin": "Duō kuī yǒu dà jiā de zhī chí, zhè cì huó dòng cái bàn de zhè me chéng gōng。",
+    "en": "Thanks to everyone's support, this event turned out so successful."
+   },
+   {
+    "zh": "多亏昨天提前买好了菜,今天下雨也不用出门了。",
+    "pinyin": "Duō kuī zuó tiān tí qián mǎi hǎo le cài, jīn tiān xià yǔ yě bù yòng chū mén le。",
+    "en": "Luckily I bought groceries yesterday, so I needn't go out in today's rain."
+   },
+   {
+    "zh": "多亏他反应快,一把拉住了差点摔倒的老人。",
+    "pinyin": "Duō kuī tā fǎn yìng kuài, yī bǎ lā zhù le chà diǎn shuāi dǎo de lǎo rén。",
+    "en": "Thanks to his quick reaction, he caught the old man who nearly fell."
+   },
+   {
+    "zh": "多亏老师耐心讲解,我这道难题总算弄懂了。",
+    "pinyin": "Duō kuī lǎo shī nài xīn jiǎng jiě, wǒ zhè dào nán tí zǒng suàn nòng dǒng le。",
+    "en": "Thanks to the teacher's patient explanation, I finally understood this problem."
+   },
+   {
+    "zh": "多亏你借给我伞,不然我今天肯定被淋成落汤鸡。",
+    "pinyin": "Duō kuī nǐ jiè gěi wǒ sǎn, bù rán wǒ jīn tiān kěn dìng bèi lín chéng luò tāng jī。",
+    "en": "Thanks to your umbrella, I wasn't soaked to the skin today."
+   },
+   {
+    "zh": "多亏了这几年的积蓄,他才能安心地面对这次失业。",
+    "pinyin": "Duō kuī le zhè jǐ nián de jī xù, tā cái néng ān xīn de miàn duì zhè cì shī yè。",
+    "en": "Thanks to these years of savings, he could face this layoff calmly."
+   },
+   {
+    "zh": "多亏邻居帮忙照看,我出差时家里的猫才没饿着。",
+    "pinyin": "Duō kuī lín jū bāng máng zhào kàn, wǒ chū chāi shí jiā lǐ de māo cái méi è zhe。",
+    "en": "Thanks to my neighbor's help, my cat didn't go hungry while I traveled."
+   },
+   {
+    "zh": "多亏消防员来得及时,那场大火才没有造成人员伤亡。",
+    "pinyin": "Duō kuī xiāo fáng yuán lái de jí shí, nà chǎng dà huǒ cái méi yǒu zào chéng rén yuán shāng wáng。",
+    "en": "Thanks to the firefighters' timely arrival, the blaze caused no casualties."
+   },
+   {
+    "zh": "多亏你事先打了个招呼,我才有时间好好准备。",
+    "pinyin": "Duō kuī nǐ shì xiān dǎ le gè zhāo hū, wǒ cái yǒu shí jiān hǎo hǎo zhǔn bèi。",
+    "en": "Thanks to your heads-up, I had time to prepare well."
+   },
+   {
+    "zh": "多亏这条新修的公路,山里的水果才能及时运出去。",
+    "pinyin": "Duō kuī zhè tiáo xīn xiū de gōng lù, shān lǐ de shuǐ guǒ cái néng jí shí yùn chū qù。",
+    "en": "Thanks to this new road, the mountain fruit can be shipped out in time."
+   },
+   {
+    "zh": "多亏了那位医生的果断,病人才转危为安。",
+    "pinyin": "Duō kuī le nà wèi yī shēng de guǒ duàn, bìng rén cái zhuǎn wēi wéi ān。",
+    "en": "Thanks to that doctor's decisiveness, the patient pulled through."
+   },
+   {
+    "zh": "多亏平时养成了记笔记的习惯,复习起来才这么轻松。",
+    "pinyin": "Duō kuī píng shí yǎng chéng le jì bǐ jì de xí guàn, fù xí qǐ lái cái zhè me qīng sōng。",
+    "en": "Thanks to my note-taking habit, reviewing was this easy."
+   },
+   {
+    "zh": "多亏你替我说了几句好话,老板才没有太生气。",
+    "pinyin": "Duō kuī nǐ tì wǒ shuō le jǐ jù hǎo huà, lǎo bǎn cái méi yǒu tài shēng qì。",
+    "en": "Thanks to your putting in a good word, the boss wasn't too angry."
+   },
+   {
+    "zh": "多亏出发前检查了一遍,才发现票买错了日期。",
+    "pinyin": "Duō kuī chū fā qián jiǎn chá le yī biàn, cái fā xiàn piào mǎi cuò le rì qī。",
+    "en": "Luckily I checked before leaving and found the ticket had the wrong date."
+   },
+   {
+    "zh": "多亏有这台老机器撑着,工厂才没有停工。",
+    "pinyin": "Duō kuī yǒu zhè tái lǎo jī qì chēng zhe, gōng chǎng cái méi yǒu tíng gōng。",
+    "en": "Thanks to this old machine holding up, the factory didn't shut down."
+   },
+   {
+    "zh": "多亏朋友们轮流照顾,他住院的那段日子才没那么难熬。",
+    "pinyin": "Duō kuī péng yǒu men lún liú zhào gù, tā zhù yuàn de nà duàn rì zi cái méi nà me nán áo。",
+    "en": "Thanks to friends taking turns, his hospital days weren't so hard."
+   },
+   {
+    "zh": "多亏当初听了你的建议,我才避开了那么大的一个坑。",
+    "pinyin": "Duō kuī dāng chū tīng le nǐ de jiàn yì, wǒ cái bì kāi le nà me dà de yí gè kēng。",
+    "en": "Thanks to taking your advice, I avoided such a big pitfall."
+   },
+   {
+    "zh": "多亏天气突然放晴,原定的户外婚礼才得以顺利举行。",
+    "pinyin": "Duō kuī tiān qì tū rán fàng qíng, yuán dìng de hù wài hūn lǐ cái dé yǐ shùn lì jǔ xíng。",
+    "en": "Thanks to the sudden clear weather, the outdoor wedding went ahead."
+   },
+   {
+    "zh": "多亏这本旧字典,爷爷才把那封老信读了下来。",
+    "pinyin": "Duō kuī zhè běn jiù zì diǎn, yé yé cái bǎ nà fēng lǎo xìn dú le xià lái。",
+    "en": "Thanks to this old dictionary, Grandpa managed to read that old letter."
+   },
+   {
+    "zh": "多亏你们一路上的照顾,老人家才平安到达了目的地。",
+    "pinyin": "Duō kuī nǐ men yī lù shàng de zhào gù, lǎo rén jiā cái píng ān dào dá le mù dì de。",
+    "en": "Thanks to your care along the way, the elderly reached the destination safely."
+   },
+   {
+    "zh": "多亏提前留了备份,电脑坏了那些资料也没丢。",
+    "pinyin": "Duō kuī tí qián liú le bèi fèn, diàn nǎo huài le nà xiē zī liào yě méi diū。",
+    "en": "Thanks to the earlier backup, the data wasn't lost when the computer broke."
+   },
+   {
+    "zh": "多亏他心细,才发现了账单上那个不起眼的错误。",
+    "pinyin": "Duō kuī tā xīn xì, cái fā xiàn liǎo zhàng dān shàng nà ge bù qǐ yǎn de cuò wù。",
+    "en": "Thanks to his care, he spotted that inconspicuous error on the bill."
+   }
+  ]
+ },
+ {
+  "id": "g344",
+  "level": 4,
+  "title": "\"而已\" ile \"...-den ibaret / sadece\"",
+  "titleEn": "Expressing \"that's all\" with \"eryi\"",
+  "pattern": "(只是 / 不过) ... 而已",
+  "summary": "\"而已\" bir durumu küçümser/hafifletir: \"sadece ..., ...-den ibaret, o kadar\": 我只是开个玩笑而已 = Sadece şaka yaptım, o kadar.",
+  "explanation": "\"而已\" cümlenin SONUNA gelip söyleneni KÜÇÜMSER ya da hafifletir; \"başka bir şey değil, sadece bu kadar\" der: \"sadece ..., yalnızca ..., ...-den ibaret, o kadar, hepsi bu\". Çoğu zaman başta \"只是/不过/无非/仅仅\" ile birlikte gelir: 我只是随便说说而已,你别当真 (Sadece öylesine söyledim, ciddiye alma), 这不过是个开始而已,后面还长着呢 (Bu daha bir başlangıç sadece, önümüz uzun), 他也就是嘴上说说而已,不会真做 (O sadece lafta öyle söyler, gerçekte yapmaz). \"而已\" olayın önemsiz/sınırlı olduğunu, abartılacak bir şey olmadığını vurgular; bir beklentiyi ya da endişeyi hafifletir. Cümle sonundadır ve genellikle \"罢了\" ile eş anlamlıdır (\"罢了\" daha konuşma dilidir). Türkçedeki \"sadece ..., yalnızca ..., ...-den ibaret, o kadar, hepsi bu, ... yalnızca\" ifadelerine denk gelir; bir şeyi önemsizleştirmenin ya da hafifletmenin yoludur.",
+  "examples": [
+   {
+    "zh": "你别紧张,这只是一次普通的例行检查而已。",
+    "pinyin": "Nǐ bié jǐn zhāng, zhè zhǐ shì yī cì pǔ tōng de lì xíng jiǎn chá ér yǐ。",
+    "en": "Don't be nervous; this is just a routine checkup, that's all."
+   },
+   {
+    "zh": "我不过是随口一说而已,没想到你竟然当真了。",
+    "pinyin": "Wǒ bù guò shì suí kǒu yī shuō ér yǐ, méi xiǎng dào nǐ jìng rán dàng zhēn le。",
+    "en": "I just said it casually; I didn't expect you'd take it seriously."
+   },
+   {
+    "zh": "这点小事而已,根本用不着你专门跑一趟。",
+    "pinyin": "Zhè diǎn xiǎo shì ér yǐ, gēn běn yòng bù zhe nǐ zhuān mén pǎo yī tàng。",
+    "en": "It's just a trivial thing; you needn't make a special trip."
+   },
+   {
+    "zh": "他嘴上答应得爽快,其实也就是敷衍一下而已。",
+    "pinyin": "Tā zuǐ shàng dā yìng de shuǎng kuài, qí shí yě jiù shì fū yǎn yī xià ér yǐ。",
+    "en": "He agreed readily, but really just to put me off, that's all."
+   },
+   {
+    "zh": "这不过是个开始而已,真正的挑战还在后头呢。",
+    "pinyin": "Zhè bù guò shì gè kāi shǐ ér yǐ, zhēn zhèng de tiǎo zhàn hái zài hòu tou ne。",
+    "en": "This is only a beginning; the real challenge is still ahead."
+   },
+   {
+    "zh": "我只是想提个醒而已,决定还是你自己拿。",
+    "pinyin": "Wǒ zhǐ shì xiǎng tí gè xǐng ér yǐ, jué dìng hái shì nǐ zì jǐ ná。",
+    "en": "I just wanted to give a reminder; the decision is still yours."
+   },
+   {
+    "zh": "别看他说得那么厉害,其实纸上谈兵而已。",
+    "pinyin": "Bié kàn tā shuō de nà me lì hài, qí shí zhǐ shàng tán bīng ér yǐ。",
+    "en": "Don't be fooled by his big talk; it's just armchair theory."
+   },
+   {
+    "zh": "这道菜看着复杂,其实多放了几味调料而已。",
+    "pinyin": "Zhè dào cài kàn zhe fù zá, qí shí duō fàng le jǐ wèi tiáo liào ér yǐ。",
+    "en": "This dish looks complex but just has a few extra seasonings."
+   },
+   {
+    "zh": "我们只是萍水相逢而已,谈不上什么深交。",
+    "pinyin": "Wǒ men zhǐ shì píng shuǐ xiāng féng ér yǐ, tán bù shàng shén me shēn jiāo。",
+    "en": "We just met by chance; it's hardly a deep friendship."
+   },
+   {
+    "zh": "你以为他真在生气?他只是逗你玩而已。",
+    "pinyin": "Nǐ yǐ wéi tā zhēn zài shēng qì? tā zhǐ shì dòu nǐ wán ér yǐ。",
+    "en": "You think he's really angry? He's just teasing you."
+   },
+   {
+    "zh": "这些所谓的捷径,不过是自欺欺人而已。",
+    "pinyin": "Zhè xiē suǒ wèi de jié jìng, bù guò shì zì qī qī rén ér yǐ。",
+    "en": "These so-called shortcuts are merely self-deception."
+   },
+   {
+    "zh": "他所做的,只是尽了一个普通人的本分而已。",
+    "pinyin": "Tā suǒ zuò de, zhǐ shì jǐn le yí gè pǔ tōng rén de běn fèn ér yǐ。",
+    "en": "What he did was merely the duty of an ordinary person."
+   },
+   {
+    "zh": "这幅画卖得贵,其实是名气大而已,技法很一般。",
+    "pinyin": "Zhè fú huà mài de guì, qí shí shì míng qì dà ér yǐ, jì fǎ hěn yì bān。",
+    "en": "The painting sells high just for its fame; the technique is average."
+   },
+   {
+    "zh": "我并不是不想去,只是最近实在太忙了而已。",
+    "pinyin": "Wǒ bìng bú shì bù xiǎng qù, zhǐ shì zuì jìn shí zài tài máng le ér yǐ。",
+    "en": "It's not that I don't want to go; I've just been too busy lately."
+   },
+   {
+    "zh": "说来说去,他不过是想引起大家的注意而已。",
+    "pinyin": "Shuō lái shuō qù, tā bù guò shì xiǎng yǐn qǐ dà jiā de zhù yì ér yǐ。",
+    "en": "In the end, he just wants to draw everyone's attention, that's all."
+   },
+   {
+    "zh": "这次的成功只是运气好而已,可别太得意了。",
+    "pinyin": "Zhè cì de chéng gōng zhǐ shì yùn qì hǎo ér yǐ, kě bié tài dé yì le。",
+    "en": "This success was just luck; don't get too pleased with yourself."
+   },
+   {
+    "zh": "我把知道的都告诉你了,剩下的靠你自己而已。",
+    "pinyin": "Wǒ bǎ zhī dào de dōu gào sù nǐ le, shèng xià de kào nǐ zì jǐ ér yǐ。",
+    "en": "I've told you all I know; the rest is up to you, that's all."
+   },
+   {
+    "zh": "他所谓的忙,不过是不想见我的借口而已。",
+    "pinyin": "Tā suǒ wèi de máng, bù guò shì bù xiǎng jiàn wǒ de jiè kǒu ér yǐ。",
+    "en": "His so-called busyness is merely an excuse to avoid me."
+   },
+   {
+    "zh": "这场比赛输了也没什么,不过是一次经验而已。",
+    "pinyin": "Zhè chǎng bǐ sài shū le yě méi shén me, bù guò shì yī cì jīng yàn ér yǐ。",
+    "en": "Losing this match is nothing; it's just one experience."
+   },
+   {
+    "zh": "你别把他的话放在心上,那只是气话而已。",
+    "pinyin": "Nǐ bié bǎ tā de huà fàng zài xīn shàng, nà zhǐ shì qì huà ér yǐ。",
+    "en": "Don't take his words to heart; they were just said in anger."
+   },
+   {
+    "zh": "我不过是照着说明书做了一遍而已,谈不上什么本事。",
+    "pinyin": "Wǒ bù guò shì zhào zhe shuō míng shū zuò le yī biàn ér yǐ, tán bù shàng shén me běn shì。",
+    "en": "I just followed the manual; it's hardly a skill."
+   },
+   {
+    "zh": "看起来风光,背后不过是日复一日的辛苦而已。",
+    "pinyin": "Kàn qǐ lái fēng guāng, bèi hòu bù guò shì rì fù yí rì de xīn kǔ ér yǐ。",
+    "en": "It looks glamorous, but behind it is just daily toil."
+   },
+   {
+    "zh": "这点困难而已,咬咬牙也就挺过去了。",
+    "pinyin": "Zhè diǎn kùn nán ér yǐ, yǎo yǎo yá yě jiù tǐng guò qù le。",
+    "en": "It's just a small difficulty; grit your teeth and it passes."
+   },
+   {
+    "zh": "他表面上冷淡,其实只是不善于表达而已。",
+    "pinyin": "Tā biǎo miàn shàng lěng dàn, qí shí zhǐ shì bù shàn yú biǎo dá ér yǐ。",
+    "en": "He seems cold, but he's just not good at expressing himself."
+   },
+   {
+    "zh": "我要的不多,只是希望大家能互相理解而已。",
+    "pinyin": "Wǒ yào de bù duō, zhǐ shì xī wàng dà jiā néng hù xiāng lǐ jiě ér yǐ。",
+    "en": "I don't ask for much, just that we understand one another."
+   }
+  ]
+ },
+ {
+  "id": "g345",
+  "level": 4,
+  "title": "\"将\" ile biçimsel \"把\" yapısı",
+  "titleEn": "Using \"jiang\" as a formal \"ba\"",
+  "pattern": "Özne + 将 + Nesne + Fiil + Tümleç",
+  "summary": "\"将\" resmî/yazılı dilde \"把\" gibi nesneyi fiilin önüne çeker: 请将门关好 = Lütfen kapıyı iyice kapatın.",
+  "explanation": "Resmî ve yazılı dilde \"将\" (jiāng), \"把\" ile aynı işlevi görür: NESNEYİ fiilin ÖNÜNE çeker ve o nesneye ne yapıldığını belirtir. Kalıp: özne + 将 + nesne + fiil + tümleç/sonuç. 请将手机调至静音 (Lütfen telefonunuzu sessize alın), 我们将于明天公布结果 anlamındaki gelecek \"将\"dan farklı olarak bu yapıda 将 doğrudan bir nesne alır: 他将文件仔细地检查了一遍 (Belgeyi dikkatle bir kez inceledi), 请将垃圾分类投放 (Lütfen çöpü ayrıştırarak atın), 工作人员将展品小心地搬进了展厅 (Görevliler eserleri dikkatle salona taşıdı). Anlam \"把\" ile aynıdır ama \"将\" daha RESMÎ, yazılı, ilan/duyuru/talimat dilindedir; günlük konuşmada \"把\" yeğlenir. Fiil yalın olamaz; ardından bir tümleç, sonuç ya da tekrar (了/一下/一遍) gelmelidir. Türkçeye çevrildiğinde \"把\" ile aynı biçimde, nesneyi belirginleştiren bir devrik cümle olur; resmî metinlerde \"...-i ...\" biçiminde karşılanır.",
+  "examples": [
+   {
+    "zh": "请各位乘客将随身物品妥善保管好,以免遗失。",
+    "pinyin": "Qǐng gè wèi chéng kè jiāng suí shēn wù pǐn tuǒ shàn bǎo guǎn hǎo, yǐ miǎn yí shī。",
+    "en": "Passengers, please keep your belongings safe to avoid loss."
+   },
+   {
+    "zh": "工作人员将珍贵的文物小心翼翼地搬进了展厅。",
+    "pinyin": "Gōng zuò rén yuán jiāng zhēn guì de wén wù xiǎo xīn yì yì de bān jìn le zhǎn tīng。",
+    "en": "The staff carefully moved the precious relics into the exhibition hall."
+   },
+   {
+    "zh": "请将您填好的表格交到一号窗口。",
+    "pinyin": "Qǐng jiāng nín tián hǎo de biǎo gé jiāo dào yī hào chuāng kǒu。",
+    "en": "Please submit your completed form to window one."
+   },
+   {
+    "zh": "公司将于下月正式将新产品推向市场。",
+    "pinyin": "Gōng sī jiāng yú xià yuè zhèng shì jiāng xīn chǎn pǐn tuī xiàng shì chǎng。",
+    "en": "The company will officially bring the new product to market next month."
+   },
+   {
+    "zh": "他将多年的研究成果整理成了一本厚厚的著作。",
+    "pinyin": "Tā jiāng duō nián de yán jiū chéng guǒ zhěng lǐ chéng le yī běn hòu hòu de zhù zuò。",
+    "en": "He compiled years of research into a thick book."
+   },
+   {
+    "zh": "请将使用过的器材放回原处,方便他人取用。",
+    "pinyin": "Qǐng jiāng shǐ yòng guò de qì cái fàng huí yuán chù, fāng biàn tā rén qǔ yòng。",
+    "en": "Please return used equipment to its place for others' convenience."
+   },
+   {
+    "zh": "消防队员迅速将被困的居民转移到了安全地带。",
+    "pinyin": "Xiāo fáng duì yuán xùn sù jiāng bèi kùn de jū mín zhuǎn yí dào le ān quán dì dài。",
+    "en": "The firefighters quickly moved the trapped residents to safety."
+   },
+   {
+    "zh": "请将手机调至静音模式,以免影响他人。",
+    "pinyin": "Qǐng jiāng shǒu jī diào zhì jìng yīn mó shì, yǐ miǎn yǐng xiǎng tā rén。",
+    "en": "Please set your phone to silent so as not to disturb others."
+   },
+   {
+    "zh": "老师将同学们的作业认真地批改了一遍。",
+    "pinyin": "Lǎo shī jiāng tóng xué men de zuò yè rèn zhēn de pī gǎi le yī biàn。",
+    "en": "The teacher carefully graded the students' homework."
+   },
+   {
+    "zh": "请将垃圾按照类别分别投放到相应的桶里。",
+    "pinyin": "Qǐng jiāng lā jī àn zhào lèi bié fēn bié tóu fàng dào xiāng yìng de tǒng lǐ。",
+    "en": "Please sort the trash into the corresponding bins."
+   },
+   {
+    "zh": "他小心地将那封珍藏多年的信收进了抽屉。",
+    "pinyin": "Tā xiǎo xīn de jiāng nà fēng zhēn cáng duō nián de xìn shōu jìn le chōu tì。",
+    "en": "He carefully put the letter he'd treasured for years into the drawer."
+   },
+   {
+    "zh": "有关部门将这条重要通知张贴在了公告栏上。",
+    "pinyin": "Yǒu guān bù mén jiàng zhè tiáo zhòng yào tōng zhī zhāng tiē zài le gōng gào lán shàng。",
+    "en": "The department posted this important notice on the board."
+   },
+   {
+    "zh": "请务必将实验数据如实记录,不得随意更改。",
+    "pinyin": "Qǐng wù bì jiāng shí yàn shù jù rú shí jì lù, bù de suí yì gēng gǎi。",
+    "en": "Please record the experimental data truthfully; no arbitrary changes."
+   },
+   {
+    "zh": "护士轻轻地将熟睡的婴儿放回了小床上。",
+    "pinyin": "Hù shì qīng qīng de jiāng shú shuì de yīng ér fàng huí le xiǎo chuáng shàng。",
+    "en": "The nurse gently laid the sleeping baby back in the crib."
+   },
+   {
+    "zh": "大会将于明天上午将评选结果正式对外公布。",
+    "pinyin": "Dà huì jiāng yú míng tiān shàng wǔ jiāng píng xuǎn jié guǒ zhèng shì duì wài gōng bù。",
+    "en": "The results will be officially announced tomorrow morning."
+   },
+   {
+    "zh": "请将参观路线牢记在心,不要擅自离队。",
+    "pinyin": "Qǐng jiāng cān guān lù xiàn láo jì zài xīn, bú yào shàn zì lí duì。",
+    "en": "Please memorize the tour route and don't leave the group."
+   },
+   {
+    "zh": "他将桌上凌乱的书本一本一本地摆放整齐。",
+    "pinyin": "Tā jiāng zhuō shàng líng luàn de shū běn yī běn yī běn dì bǎi fàng zhěng qí。",
+    "en": "He arranged the messy books on the desk one by one."
+   },
+   {
+    "zh": "施工人员将破损的路面重新铺设了一遍。",
+    "pinyin": "Shī gōng rén yuán jiāng pò sǔn de lù miàn chóng xīn pū shè le yī biàn。",
+    "en": "The workers repaved the damaged road surface."
+   },
+   {
+    "zh": "请将您的意见和建议填写在问卷的末尾。",
+    "pinyin": "Qǐng jiāng nín de yì jiàn hé jiàn yì tián xiě zài wèn juǎn de mò wěi。",
+    "en": "Please write your comments and suggestions at the end of the questionnaire."
+   },
+   {
+    "zh": "图书管理员将读者归还的书籍逐一放回了书架。",
+    "pinyin": "Tú shū guǎn lǐ yuán jiāng dú zhě guī huán de shū jí zhú yī fàng huí le shū jià。",
+    "en": "The librarian returned each book to the shelf one by one."
+   },
+   {
+    "zh": "他郑重地将奖状颁发到了每一位获奖者手中。",
+    "pinyin": "Tā zhèng zhòng de jiāng jiǎng zhuàng bān fā dào le měi yī wèi huò jiǎng zhě shǒu zhōng。",
+    "en": "He solemnly presented the certificate to each winner."
+   },
+   {
+    "zh": "请将车辆停放在指定区域,不要占用消防通道。",
+    "pinyin": "Qǐng jiāng chē liàng tíng fàng zài zhǐ dìng qū yù, bú yào zhàn yòng xiāo fáng tōng dào。",
+    "en": "Please park in designated areas; don't block the fire lane."
+   },
+   {
+    "zh": "专家将复杂的原理用通俗的语言解释得清清楚楚。",
+    "pinyin": "Zhuān jiā jiāng fù zá de yuán lǐ yòng tōng sú de yǔ yán jiě shì de qīng qīng chǔ chǔ。",
+    "en": "The expert explained the complex principle clearly in plain language."
+   },
+   {
+    "zh": "他默默地将地上的碎玻璃一片片扫进了簸箕。",
+    "pinyin": "Tā mò mò de jiāng de shàng de suì bō lí yī piàn piàn sǎo jìn le bò jī。",
+    "en": "He quietly swept the broken glass into the dustpan piece by piece."
+   },
+   {
+    "zh": "请在离开前将所有门窗仔细地检查一遍。",
+    "pinyin": "Qǐng zài lí kāi qián jiāng suǒ yǒu mén chuāng zǐ xì de jiǎn chá yī biàn。",
+    "en": "Please check all doors and windows carefully before leaving."
+   }
+  ]
+ },
+ {
+  "id": "g346",
+  "level": 4,
+  "title": "\"什么\" ile bir eylemi sorgulama / reddetme",
+  "titleEn": "Challenging a verb with \"shenme\"",
+  "pattern": "Fiil + 什么 / 什么 + Fiil / Ad",
+  "summary": "\"什么\" bir eylemi ya da sözü küçümseyerek reddeder: 你笑什么? = Neye gülüyorsun (gülecek ne var)? 急什么! = Ne acele!",
+  "explanation": "\"什么\" burada gerçek bir soru değil, bir eylemi/sözü/durumu KÜÇÜMSEYEN ya da REDDEDEN belagatli bir kullanımdır: konuşmacı o eylemin yersiz/gereksiz olduğunu ima eder. İki yaygın biçim: (1) fiil + 什么: 你笑什么,有什么好笑的? (Neye gülüyorsun, gülecek ne var?), 急什么,时间还早呢 (Ne acele, daha erken), 哭什么,这点小事不值得 (Ne ağlıyorsun, bu kadar şeye değmez). (2) 什么 + ad/söz (karşıdakinin dediğini reddederek): 什么老师不老师,他根本不懂 (Ne öğretmeni, hiç bilmiyor), 什么忙不忙的,你就是不想来 (Ne meşgulü, sadece gelmek istemiyorsun). Bu kullanım eylemin ya da öne sürülen bahanenin gereksiz/asılsız olduğunu vurgular; sabırsızlık, itiraz ya da küçümseme tonu taşır. Türkçedeki \"neye ...-yorsun, ...-cek ne var, ne ...!, ne ... ne ...ı\" gibi belagatli itiraz kalıplarına denk gelir; günlük konuşmada bir eylemi ya da bahaneyi reddetmenin canlı bir yoludur.",
+  "examples": [
+   {
+    "zh": "你紧张什么,不就是一次普通的面试嘛。",
+    "pinyin": "Nǐ jǐn zhāng shén me, bù jiù shì yī cì pǔ tōng de miàn shì ma。",
+    "en": "What are you nervous about? It's just an ordinary interview."
+   },
+   {
+    "zh": "大家都在专心听讲,你在下面笑什么呢?",
+    "pinyin": "Dà jiā dōu zài zhuān xīn tīng jiǎng, nǐ zài xià miàn xiào shén me ne?",
+    "en": "Everyone's listening carefully; what are you laughing at down there?"
+   },
+   {
+    "zh": "急什么,班车还有二十分钟才来呢。",
+    "pinyin": "Jí shén me, bān chē hái yǒu èr shí fēn zhōng cái lái ne。",
+    "en": "What's the rush? The bus won't come for twenty minutes."
+   },
+   {
+    "zh": "这点小挫折而已,你哭什么,擦干眼泪继续努力。",
+    "pinyin": "Zhè diǎn xiǎo cuò zhé ér yǐ, nǐ kū shén me, cā gàn yǎn lèi jì xù nǔ lì。",
+    "en": "It's a minor setback; why cry? Dry your tears and keep going."
+   },
+   {
+    "zh": "什么忙不忙的,我看你就是不想帮这个忙。",
+    "pinyin": "Shén me máng bù máng de, wǒ kàn nǐ jiù shì bù xiǎng bāng zhè ge máng。",
+    "en": "Busy or not, I think you just don't want to help."
+   },
+   {
+    "zh": "你瞪我做什么,这件事本来就是你不对。",
+    "pinyin": "Nǐ dèng wǒ zuò shén me, zhè jiàn shì běn lái jiù shì nǐ bú duì。",
+    "en": "Why glare at me? You were in the wrong to begin with."
+   },
+   {
+    "zh": "什么难不难的,你先动手试试再说。",
+    "pinyin": "Shén me nán bù nán de, nǐ xiān dòng shǒu shì shì zài shuō。",
+    "en": "Hard or not, just give it a try first."
+   },
+   {
+    "zh": "大晚上的,你敲什么门,吵得邻居都醒了。",
+    "pinyin": "Dà wǎn shàng de, nǐ qiāo shén me mén, chǎo de lín jū dōu xǐng le。",
+    "en": "It's late; why bang on the door and wake the neighbors?"
+   },
+   {
+    "zh": "你叹什么气,办法总比困难多。",
+    "pinyin": "Nǐ tàn shén me qì, bàn fǎ zǒng bǐ kùn nán duō。",
+    "en": "Why sigh? There are always more solutions than problems."
+   },
+   {
+    "zh": "什么贵不贵的,该买的东西还是得买。",
+    "pinyin": "Shén me guì bù guì de, gāi mǎi de dōng xī hái shì de mǎi。",
+    "en": "Expensive or not, what needs buying must be bought."
+   },
+   {
+    "zh": "他不过是随便问问,你激动什么呢?",
+    "pinyin": "Tā bù guò shì suí biàn wèn wèn, nǐ jī dòng shén me ne?",
+    "en": "He just asked casually; what are you getting worked up about?"
+   },
+   {
+    "zh": "你抢什么,东西够大家分,一人一份。",
+    "pinyin": "Nǐ qiǎng shén me, dōng xī gòu dà jiā fēn, yī rén yī fèn。",
+    "en": "Why grab? There's enough for everyone, one each."
+   },
+   {
+    "zh": "什么累不累的,年轻人多干点活儿是应该的。",
+    "pinyin": "Shén me lèi bù lèi de, nián qīng rén duō gān diǎn huó er shì yīng gāi de。",
+    "en": "Tired or not, young people ought to do more work."
+   },
+   {
+    "zh": "这么点雨你躲什么,一会儿就停了。",
+    "pinyin": "Zhè me diǎn yǔ nǐ duǒ shén me, yī huì er jiù tíng le。",
+    "en": "It's just a light rain; why hide? It'll stop soon."
+   },
+   {
+    "zh": "你操什么心,孩子的事让他自己拿主意。",
+    "pinyin": "Nǐ cāo shén me xīn, hái zi de shì ràng tā zì jǐ ná zhǔ yì。",
+    "en": "Why worry so? Let the child decide his own affairs."
+   },
+   {
+    "zh": "什么远不远的,只要想去,再远也不算远。",
+    "pinyin": "Shén me yuǎn bù yuǎn de, zhǐ yào xiǎng qù, zài yuǎn yě bù suàn yuǎn。",
+    "en": "Far or not, if you want to go, no distance is too far."
+   },
+   {
+    "zh": "你嚷嚷什么,有话好好说,别这么大声。",
+    "pinyin": "Nǐ rāng rang shén me, yǒu huà hǎo hǎo shuō, bié zhè me dà shēng。",
+    "en": "Why shout? Say it nicely, not so loudly."
+   },
+   {
+    "zh": "什么忘了忘了,我看你分明是故意不还钱。",
+    "pinyin": "Shén me wàng le wàng le, wǒ kàn nǐ fēn míng shì gù yì bù huán qián。",
+    "en": "Forgot my foot; I think you deliberately won't repay."
+   },
+   {
+    "zh": "你客气什么,咱们都是老朋友了。",
+    "pinyin": "Nǐ kè qì shén me, zán men dōu shì lǎo péng yǒu le。",
+    "en": "Why so polite? We're old friends."
+   },
+   {
+    "zh": "这么简单的题你愁什么,静下心慢慢算。",
+    "pinyin": "Zhè me jiǎn dān de tí nǐ chóu shén me, jìng xià xīn màn màn suàn。",
+    "en": "Such an easy problem, why fret? Calm down and work it out."
+   },
+   {
+    "zh": "什么忙什么闲的,答应了的事就得办到。",
+    "pinyin": "Shén me máng shén me xián de, dā yìng le de shì jiù de bàn dào。",
+    "en": "Busy or free, a promise made must be kept."
+   },
+   {
+    "zh": "你藏什么,脸都红了,肯定有事瞒着我。",
+    "pinyin": "Nǐ cáng shén me, liǎn dōu hóng le, kěn dìng yǒu shì mán zhe wǒ。",
+    "en": "Why hide? Your face is red; you must be keeping something from me."
+   },
+   {
+    "zh": "天还没黑,你催什么,再玩一会儿也不迟。",
+    "pinyin": "Tiān hái méi hēi, nǐ cuī shén me, zài wán yī huì er yě bù chí。",
+    "en": "It's not dark yet; why hurry? A bit more play is fine."
+   },
+   {
+    "zh": "什么懂不懂的,你连书都没翻过就说难。",
+    "pinyin": "Shén me dǒng bù dǒng de, nǐ lián shū dōu méi fān guò jiù shuō nán。",
+    "en": "Understand or not, you call it hard without even opening the book."
+   },
+   {
+    "zh": "你谦虚什么,这次明明是你的功劳最大。",
+    "pinyin": "Nǐ qiān xū shén me, zhè cì míng míng shì nǐ de gōng láo zuì dà。",
+    "en": "Why be modest? This time the credit is clearly mostly yours."
+   }
+  ]
+ },
+ {
+  "id": "g347",
+  "level": 4,
+  "title": "\"像\" ile somut benzetme",
+  "titleEn": "Comparing specifically with \"xiang\"",
+  "pattern": "A + 像 + B + (一样 / 那样 / 似的) + Sıfat / Fiil",
+  "summary": "\"像\" bir şeyi somut olarak başka bir şeye benzetir: 他跑得像风一样快 = Rüzgâr gibi hızlı koşuyor.",
+  "explanation": "\"像\" bir şeyi/kişiyi başka bir şeye SOMUT olarak benzetir; çoğu zaman \"一样/那样/似的\" ile birlikte gelir ve benzetilen özelliği belirtir: \"... gibi, ... kadar, tıpkı ... gibi\". Kalıp: A + 像 + B + (一样/那样/似的) + sıfat/fiil. 他的手冰凉,像冰块一样 (Eli buz gibi soğuk), 时间过得像流水一样快 (Zaman su gibi hızlı akıyor), 这孩子聪明得像个小大人似的 (Bu çocuk küçük bir yetişkin gibi akıllı), 她笑起来像花儿一样美 (Gülüşü çiçek gibi güzel). \"像\" iki şey arasında açık bir BENZERLİK kurar; \"好像\" (sanki/gibi görünmek) belirsiz bir tahmin bildirirken, buradaki \"像...一样\" belirgin, somut bir benzetmedir. \"似的\" (shìde) konuşma dilinde \"一样\"ın yerini tutabilir. Benzetme edebî anlatımda da sıkça kullanılır. Türkçedeki \"... gibi, tıpkı ... gibi, ... kadar, sanki ...\" benzetme ifadelerine denk gelir; iki şey arasında somut bir benzerlik kurmanın yoludur.",
+  "examples": [
+   {
+    "zh": "他跑得像一阵风一样快,一转眼就到了终点。",
+    "pinyin": "Tā pǎo de xiàng yī zhèn fēng yī yàng kuài, yī zhuǎn yǎn jiù dào le zhōng diǎn。",
+    "en": "He ran as fast as the wind, reaching the finish in a flash."
+   },
+   {
+    "zh": "这孩子的皮肤像牛奶一样又白又嫩。",
+    "pinyin": "Zhè hái zi de pí fū xiàng niú nǎi yī yàng yòu bái yòu nèn。",
+    "en": "This child's skin is as white and soft as milk."
+   },
+   {
+    "zh": "时间过得像流水一样,一晃十年就过去了。",
+    "pinyin": "Shí jiān guò de xiàng liú shuǐ yī yàng, yī huǎng shí nián jiù guò qù le。",
+    "en": "Time flows like water; in a blink, ten years passed."
+   },
+   {
+    "zh": "她的眼睛像星星似的,一闪一闪,特别明亮。",
+    "pinyin": "Tā de yǎn jīng xiàng xīng xīng shì de, yī shǎn yī shǎn, tè bié míng liàng。",
+    "en": "Her eyes are like stars, twinkling and especially bright."
+   },
+   {
+    "zh": "外面冷得像冰窖一样,风一吹脸都疼。",
+    "pinyin": "Wài miàn lěng de xiàng bīng jiào yī yàng, fēng yī chuī liǎn dōu téng。",
+    "en": "It's as cold as an icehouse outside; the wind hurts my face."
+   },
+   {
+    "zh": "他心细得像女孩子一样,什么小事都记得清清楚楚。",
+    "pinyin": "Tā xīn xì de xiàng nǚ hái zi yī yàng, shén me xiǎo shì dōu jì de qīng qīng chǔ chǔ。",
+    "en": "He's as careful as a girl, remembering every little thing."
+   },
+   {
+    "zh": "这两姐妹长得像一个模子里刻出来的一样。",
+    "pinyin": "Zhè liǎng jiě mèi zhǎng de xiàng yí gè mú zi lǐ kè chū lái de yī yàng。",
+    "en": "The two sisters look as if cast from the same mold."
+   },
+   {
+    "zh": "湖面平静得像一面镜子,倒映着两岸的青山。",
+    "pinyin": "Hú miàn píng jìng de xiàng yí miàn jìng zi, dào yìng zhe liǎng àn de qīng shān。",
+    "en": "The lake is calm as a mirror, reflecting the green hills."
+   },
+   {
+    "zh": "听到这个消息,他的脸一下子像纸一样白。",
+    "pinyin": "Tīng dào zhè ge xiāo xī, tā de liǎn yī xià zi xiàng zhǐ yī yàng bái。",
+    "en": "At the news, his face turned as white as paper at once."
+   },
+   {
+    "zh": "这块布摸起来像丝绸一样光滑柔软。",
+    "pinyin": "Zhè kuài bù mō qǐ lái xiàng sī chóu yī yàng guāng huá róu ruǎn。",
+    "en": "This cloth feels as smooth and soft as silk."
+   },
+   {
+    "zh": "小家伙吃起东西来,像小老虎似的狼吞虎咽。",
+    "pinyin": "Xiǎo jiā huo chī qǐ dōng xī lái, xiàng xiǎo lǎo hǔ shì de láng tūn hǔ yàn。",
+    "en": "The little one eats like a tiger cub, wolfing it down."
+   },
+   {
+    "zh": "那座山高得像要插到云里去一样。",
+    "pinyin": "Nà zuò shān gāo de xiàng yào chā dào yún lǐ qù yī yàng。",
+    "en": "That mountain is so high it seems to pierce the clouds."
+   },
+   {
+    "zh": "他的性子像火一样急,一点就着。",
+    "pinyin": "Tā de xìng zi xiàng huǒ yī yàng jí, yì diǎn jiù zhe。",
+    "en": "His temper is like fire, flaring at the slightest spark."
+   },
+   {
+    "zh": "雨下得像瓢泼一样,街上的行人都不见了。",
+    "pinyin": "Yǔ xià de xiàng piáo pō yī yàng, jiē shàng de xíng rén dōu bú jiàn le。",
+    "en": "The rain poured as if from buckets; the pedestrians all vanished."
+   },
+   {
+    "zh": "她说起话来像唱歌一样,又轻又好听。",
+    "pinyin": "Tā shuō qǐ huà lái xiàng chàng gē yī yàng, yòu qīng yòu hǎo tīng。",
+    "en": "She speaks as if singing, soft and pleasant."
+   },
+   {
+    "zh": "这条小路弯弯曲曲的,像一条盘着的长蛇。",
+    "pinyin": "Zhè tiáo xiǎo lù wān wān qū qū de, xiàng yī tiáo pán zhe de zhǎng shé。",
+    "en": "This path winds like a coiled snake."
+   },
+   {
+    "zh": "老人的手粗糙得像老树皮一样,布满了岁月的痕迹。",
+    "pinyin": "Lǎo rén de shǒu cū cāo de xiàng lǎo shù pí yī yàng, bù mǎn le suì yuè de hén jì。",
+    "en": "The old man's hands are rough as bark, marked by years."
+   },
+   {
+    "zh": "消息传得像长了翅膀一样快,一天就传遍了全村。",
+    "pinyin": "Xiāo xī chuán de xiàng zhǎng le chì bǎng yī yàng kuài, yī tiān jiù chuán biàn le quán cūn。",
+    "en": "The news spread as if winged, reaching the whole village in a day."
+   },
+   {
+    "zh": "这几天热得像蒸笼一样,让人喘不过气来。",
+    "pinyin": "Zhè jǐ tiān rè de xiàng zhēng lóng yī yàng, ràng rén chuǎn bù guò qì lái。",
+    "en": "These days are as hot as a steamer, leaving one gasping."
+   },
+   {
+    "zh": "他站在那里一动不动,像一尊雕像似的。",
+    "pinyin": "Tā zhàn zài nà lǐ yī dòng bù dòng, xiàng yī zūn diāo xiàng shì de。",
+    "en": "He stood motionless there, like a statue."
+   },
+   {
+    "zh": "小溪的水清得像玻璃一样,连水底的石头都看得见。",
+    "pinyin": "Xiǎo xī de shuǐ qīng de xiàng bō lí yī yàng, lián shuǐ dǐ de shí tou dōu kàn de jiàn。",
+    "en": "The stream is as clear as glass; even the pebbles show."
+   },
+   {
+    "zh": "那朵云白得像棉花糖一样,软软地飘在天上。",
+    "pinyin": "Nà duǒ yún bái de xiàng mián huā táng yī yàng, ruǎn ruǎn de piāo zài tiān shàng。",
+    "en": "That cloud is as white as cotton candy, floating softly."
+   },
+   {
+    "zh": "他的记性好得像录音机一样,听一遍就记住了。",
+    "pinyin": "Tā de jì xìng hǎo de xiàng lù yīn jī yī yàng, tīng yī biàn jiù jì zhù le。",
+    "en": "His memory is like a recorder; one listen and he remembers."
+   },
+   {
+    "zh": "孩子们的笑声像银铃一样,在院子里回荡。",
+    "pinyin": "Hái zi men de xiào shēng xiàng yín líng yī yàng, zài yuàn zi lǐ huí dàng。",
+    "en": "The children's laughter rings like silver bells in the yard."
+   },
+   {
+    "zh": "经历了这些事,他成熟得像变了一个人一样。",
+    "pinyin": "Jīng lì le zhè xiē shì, tā chéng shú de xiàng biàn le yí gè rén yī yàng。",
+    "en": "After all this, he matured as if he'd become another person."
+   }
+  ]
  }
 ]

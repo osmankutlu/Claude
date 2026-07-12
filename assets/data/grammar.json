@@ -62014,5 +62014,685 @@
     "en": "Curiosity is the mother of knowledge and a force of human progress."
    }
   ]
+ },
+ {
+  "id": "g457",
+  "level": 5,
+  "title": "\"被\" ile edilgen yapı (ileri)",
+  "titleEn": "Using the particle \"bei\"",
+  "pattern": "Etkilenen + 被 + (Fail) + Fiil + Tümleç",
+  "summary": "\"被\" edilgen yapı kurar: 窗户被风吹开了 = Pencere rüzgârla açıldı; 他被老师批评了 = Öğretmen tarafından eleştirildi.",
+  "explanation": "\"被\" (bèi) edilgen yapının temel işaretidir: özne eylemden ETKİLENEN taraftır, fail (varsa) \"被\"den sonra gelir. Kalıp: etkilenen + 被 + (fail) + fiil + tümleç/sonuç. İleri düzeyde bilinmesi gerekenler. (1) Fail SÖYLENMEYEBİLİR: 我的自行车被偷了 (Bisikletim çalındı — kimin çaldığı önemsiz), 问题终于被解决了 (Sorun sonunda çözüldü). (2) Fiil YALIN olamaz — ardından sonuç/tümleç/了 gelir: 花瓶被打碎了 (Vazo kırıldı), 他被大家选为组长 (Grup başkanı seçildi). (3) Olumsuzluk (没/不) ve yardımcı fiiller \"被\"nin ÖNÜNE gelir: 这件事还没被发现 (Bu iş henüz fark edilmedi), 他不愿意被别人摆布 (Başkalarınca yönlendirilmek istemiyor). (4) \"被\" klasik olarak İSTENMEYEN/olumsuz olaylarda yaygındı ama bugün OLUMLU durumlarda da kullanılır: 他被评为优秀员工 (En iyi çalışan seçildi). (5) Yakın akrabaları \"让/叫/给\" konuşma dilinde \"被\" yerine geçer ve genelde faili söyler: 杯子让他打碎了 / 叫他打碎了. \"被\" resmî ve yazılı dilde en yaygın edilgenlik işaretidir. Türkçedeki \"...-il/...-in\" edilgen ekine ve \"... tarafından\" yapısına denk gelir.",
+  "examples": [
+   {
+    "zh": "我停在楼下的自行车,昨天晚上竟然被人偷走了。",
+    "pinyin": "Wǒ tíng zài lóu xià de zì xíng chē, zuó tiān wǎn shàng jìng rán bèi rén tōu zǒu le。",
+    "en": "My bike parked downstairs was stolen last night."
+   },
+   {
+    "zh": "由于表现突出,他被公司评为本年度的优秀员工。",
+    "pinyin": "Yóu yú biǎo xiàn tū chū, tā bèi gōng sī píng wèi běn nián dù de yōu xiù yuán gōng。",
+    "en": "For his outstanding work, he was named the year's top employee."
+   },
+   {
+    "zh": "桌上那只珍贵的花瓶,不小心被孩子碰倒打碎了。",
+    "pinyin": "Zhuō shàng nà zhǐ zhēn guì de huā píng, bù xiǎo xīn bèi hái zi pèng dào dǎ suì le。",
+    "en": "The precious vase on the table was knocked over by the child."
+   },
+   {
+    "zh": "这个棘手的问题,经过大家的努力,终于被解决了。",
+    "pinyin": "Zhè ge jí shǒu de wèn tí, jīng guò dà jiā de nǔ lì, zhōng yú bèi jiě jué le。",
+    "en": "The thorny problem was finally solved through everyone's effort."
+   },
+   {
+    "zh": "他的建议很有见地,当场就被大家一致采纳了。",
+    "pinyin": "Tā de jiàn yì hěn yǒu jiàn de, dāng chǎng jiù bèi dà jiā yí zhì cǎi nà le。",
+    "en": "His insightful suggestion was unanimously adopted on the spot."
+   },
+   {
+    "zh": "院子里晾着的衣服,全被突如其来的大雨淋湿了。",
+    "pinyin": "Yuàn zi lǐ liàng zhe de yī fú, quán bèi tū rú qí lái de dà yǔ lín shī le。",
+    "en": "The clothes drying in the yard were all soaked by the sudden rain."
+   },
+   {
+    "zh": "这本书内容精彩,一上市就被读者抢购一空。",
+    "pinyin": "Zhè běn shū nèi róng jīng cǎi, yī shàng shì jiù bèi dú zhě qiǎng gòu yī kōng。",
+    "en": "The excellent book sold out to readers as soon as it launched."
+   },
+   {
+    "zh": "他的一片好心,却被人误解成了别有用心。",
+    "pinyin": "Tā de yī piàn hǎo xīn, què bèi rén wù jiě chéng le bié yǒu yòng xīn。",
+    "en": "His kindness was misread as having ulterior motives."
+   },
+   {
+    "zh": "那棵老树在昨夜的狂风中被连根拔起。",
+    "pinyin": "Nà kē lǎo shù zài zuó yè de kuáng fēng zhōng bèi lián gēn bá qǐ。",
+    "en": "The old tree was uprooted in last night's gale."
+   },
+   {
+    "zh": "经过层层选拔,她最终被选为这次比赛的代表。",
+    "pinyin": "Jīng guò céng céng xuǎn bá, tā zuì zhōng bèi xuǎn wèi zhè cì bǐ sài de dài biǎo。",
+    "en": "After rounds of selection, she was chosen as the contest's representative."
+   },
+   {
+    "zh": "这些流浪的小猫,后来都被好心人一一收养了。",
+    "pinyin": "Zhè xiē liú làng de xiǎo māo, hòu lái dōu bèi hǎo xīn rén yī yī shōu yǎng le。",
+    "en": "The stray kittens were later adopted one by one by kind people."
+   },
+   {
+    "zh": "他辛辛苦苦写的稿子,竟然被电脑故障弄丢了。",
+    "pinyin": "Tā xīn xīn kǔ kǔ xiě de gǎo zi, jìng rán bèi diàn nǎo gù zhàng nòng diū le。",
+    "en": "The draft he toiled over was lost to a computer failure."
+   },
+   {
+    "zh": "这项发明因为实用价值高,很快就被广泛推广了。",
+    "pinyin": "Zhè xiàng fā míng yīn wèi shí yòng jià zhí gāo, hěn kuài jiù bèi guǎng fàn tuī guǎng le。",
+    "en": "The invention, highly practical, was soon widely promoted."
+   },
+   {
+    "zh": "那扇没关好的窗户,半夜被大风吹得砰砰作响。",
+    "pinyin": "Nà shàn méi guān hǎo de chuāng hù, bàn yè bèi dà fēng chuī de pēng pēng zuò xiǎng。",
+    "en": "The unlatched window banged in the wind at midnight."
+   },
+   {
+    "zh": "他的英勇事迹被写成文章,登在了当地的报纸上。",
+    "pinyin": "Tā de yīng yǒng shì jì bèi xiě chéng wén zhāng, dēng zài liǎo dàng dì de bào zhǐ shàng。",
+    "en": "His brave deeds were written up in the local paper."
+   },
+   {
+    "zh": "这笔款项还没有被批准,暂时不能动用。",
+    "pinyin": "Zhè bǐ kuǎn xiàng hái méi yǒu bèi pī zhǔn, zàn shí bù néng dòng yòng。",
+    "en": "The funds haven't been approved and can't be used yet."
+   },
+   {
+    "zh": "会场里,他的精彩发言不时被热烈的掌声打断。",
+    "pinyin": "Huì chǎng lǐ, tā de jīng cǎi fā yán bù shí bèi rè liè de zhǎng shēng dǎ duàn。",
+    "en": "His brilliant speech was often broken by warm applause."
+   },
+   {
+    "zh": "那条小狗因为聪明伶俐,深深被这家人所喜爱。",
+    "pinyin": "Nà tiáo xiǎo gǒu yīn wèi cōng míng líng lì, shēn shēn bèi zhè jiā rén suǒ xǐ ài。",
+    "en": "The clever puppy was deeply loved by the family."
+   },
+   {
+    "zh": "由于长期无人打理,这座园子渐渐被荒草覆盖了。",
+    "pinyin": "Yóu yú cháng qī wú rén dǎ lǐ, zhè zuò yuán zi jiàn jiàn bèi huāng cǎo fù gài le。",
+    "en": "Long unattended, the garden was gradually overgrown with weeds."
+   },
+   {
+    "zh": "他不愿意被外界的种种议论所左右,始终坚持自我。",
+    "pinyin": "Tā bù yuàn yì bèi wài jiè de zhǒng zhǒng yì lùn suǒ zuǒ yòu, shǐ zhōng jiān chí zì wǒ。",
+    "en": "He refused to be swayed by outside talk and stayed true to himself."
+   },
+   {
+    "zh": "这项古老的手艺,如今已被列入非物质文化遗产。",
+    "pinyin": "Zhè xiàng gǔ lǎo de shǒu yì, rú jīn yǐ bèi liè rù fēi wù zhì wén huà yí chǎn。",
+    "en": "This ancient craft is now listed as intangible cultural heritage."
+   },
+   {
+    "zh": "那个谎言最终还是被戳穿了,他羞愧得无地自容。",
+    "pinyin": "Nà ge huǎng yán zuì zhōng hái shì bèi chuō chuān le, tā xiū kuì de wú de zì róng。",
+    "en": "The lie was finally exposed, leaving him deeply ashamed."
+   },
+   {
+    "zh": "他的努力没有被辜负,最终换来了应有的回报。",
+    "pinyin": "Tā de nǔ lì méi yǒu bèi gū fù, zuì zhōng huàn lái le yīng yǒu de huí bào。",
+    "en": "His effort was not in vain and brought its due reward."
+   },
+   {
+    "zh": "孩子的画被老师贴在了教室墙上最显眼的位置。",
+    "pinyin": "Hái zi de huà bèi lǎo shī tiē zài le jiào shì qiáng shàng zuì xiǎn yǎn de wèi zhì。",
+    "en": "The child's drawing was pinned in the most visible spot on the wall."
+   },
+   {
+    "zh": "这片湿地因为生态价值重大,被划为自然保护区。",
+    "pinyin": "Zhè piàn shī de yīn wèi shēng tài jià zhí zhòng dà, bèi huà wèi zì rán bǎo hù qū。",
+    "en": "The wetland, ecologically vital, was made a nature reserve."
+   }
+  ]
+ },
+ {
+  "id": "g458",
+  "level": 5,
+  "title": "\"鉴于\" ile \"... göz önüne alınarak\"",
+  "titleEn": "Expressing \"in light of\" with \"jianyu\"",
+  "pattern": "鉴于 + Durum，...",
+  "summary": "\"鉴于\" bir durumu göz önüne alarak bir karar/sonuç bildirir: 鉴于天气恶劣,活动延期 = Kötü hava göz önüne alınarak etkinlik ertelendi.",
+  "explanation": "\"鉴于\" (jiànyú) resmî dilde bir DURUMU/olguyu göz önünde bulundurarak bir karar, öneri ya da sonuç bildirir: \"... göz önüne alınarak, ... dikkate alınarak, ...-den ötürü, ... nedeniyle\". Kalıp: 鉴于 + durum/neden，(sonuç/karar). 鉴于天气原因,原定的户外活动改期举行 (Hava koşulları göz önüne alınarak açık hava etkinliği ertelendi), 鉴于他一贯的出色表现,公司决定为他升职 (Süregelen başarılı performansı dikkate alınarak şirket onu terfi ettirmeye karar verdi), 鉴于目前的实际情况,我们需要调整原来的计划 (Mevcut durum göz önüne alınınca planı değiştirmemiz gerekiyor), 鉴于事态严重,有关部门立即采取了措施 (Durumun ciddiyeti dikkate alınarak ilgili birimler hemen önlem aldı). \"鉴于\" cümlenin başında gelir; ardından değerlendirilen bir durum/gerçek, sonra ona dayanarak alınan bir karar bulunur. Resmî yazı, duyuru, karar metinleri ve iş dilinde çok yaygındır; günlük konuşmada \"考虑到/因为\" yeğlenir. \"考虑到\" (göz önüne alarak) ile çok yakındır ama \"鉴于\" daha resmî ve genellikle bir gerekçe-karar bağı kurar. Türkçedeki \"... göz önüne alınarak, ... dikkate alınarak, ...-den ötürü\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "鉴于天气突然恶化,原定的登山活动只好临时取消。",
+    "pinyin": "Jiàn yú tiān qì tū rán è huà, yuán dìng de dēng shān huó dòng zhǐ hǎo lín shí qǔ xiāo。",
+    "en": "In light of the sudden bad weather, the climb was canceled."
+   },
+   {
+    "zh": "鉴于他多年来的出色表现,公司决定破格提拔他。",
+    "pinyin": "Jiàn yú tā duō nián lái de chū sè biǎo xiàn, gōng sī jué dìng pò gé tí bá tā。",
+    "en": "In light of his years of excellence, the firm promoted him early."
+   },
+   {
+    "zh": "鉴于目前的实际情况,我们有必要对方案做出调整。",
+    "pinyin": "Jiàn yú mù qián de shí jì qíng kuàng, wǒ men yǒu bì yào duì fāng àn zuò chū tiáo zhěng。",
+    "en": "Given the current situation, we should adjust the plan."
+   },
+   {
+    "zh": "鉴于事态的严重性,有关部门立刻启动了应急预案。",
+    "pinyin": "Jiàn yú shì tài de yán zhòng xìng, yǒu guān bù mén lì kè qǐ dòng le yìng jí yù àn。",
+    "en": "Given the gravity, the department launched an emergency plan."
+   },
+   {
+    "zh": "鉴于双方都做出了让步,这次谈判进行得相当顺利。",
+    "pinyin": "Jiàn yú shuāng fāng dōu zuò chū le ràng bù, zhè cì tán pàn jìn xíng de xiāng dāng shùn lì。",
+    "en": "As both sides compromised, the talks went quite smoothly."
+   },
+   {
+    "zh": "鉴于路况复杂,司机们纷纷放慢了车速。",
+    "pinyin": "Jiàn yú lù kuàng fù zá, sī jī men fēn fēn fàng màn le chē sù。",
+    "en": "Given the complex road conditions, drivers slowed down."
+   },
+   {
+    "zh": "鉴于他年事已高,大家都劝他不要再事事亲力亲为。",
+    "pinyin": "Jiàn yú tā nián shì yǐ gāo, dà jiā dōu quàn tā bú yào zài shì shì qīn lì qīn wéi。",
+    "en": "Given his age, all urged him not to do everything himself."
+   },
+   {
+    "zh": "鉴于这次教训十分深刻,我们必须引以为戒。",
+    "pinyin": "Jiàn yú zhè cì jiào xùn shí fēn shēn kè, wǒ men bì xū yǐn yǐ wéi jiè。",
+    "en": "Given this deep lesson, we must take it as a warning."
+   },
+   {
+    "zh": "鉴于市场需求的变化,工厂及时调整了产品结构。",
+    "pinyin": "Jiàn yú shì chǎng xū qiú de biàn huà, gōng chǎng jí shí diào zhěng le chǎn pǐn jié gòu。",
+    "en": "Given shifting market demand, the factory adjusted its products."
+   },
+   {
+    "zh": "鉴于经费有限,这次活动的规模只好适当缩减。",
+    "pinyin": "Jiàn yú jīng fèi yǒu xiàn, zhè cì huó dòng de guī mó zhǐ hǎo shì dàng suō jiǎn。",
+    "en": "Given limited funds, the event had to be scaled down."
+   },
+   {
+    "zh": "鉴于他态度诚恳,又是初犯,这次就从轻处理了。",
+    "pinyin": "Jiàn yú tā tài dù chéng kěn, yòu shì chū fàn, zhè cì jiù cóng qīng chǔ lǐ le。",
+    "en": "Given his sincerity and first offense, he was dealt with leniently."
+   },
+   {
+    "zh": "鉴于形势的发展,我们有必要重新评估当前的策略。",
+    "pinyin": "Jiàn yú xíng shì de fā zhǎn, wǒ men yǒu bì yào chóng xīn píng gū dāng qián de cè lüè。",
+    "en": "Given how things developed, we should reassess our strategy."
+   },
+   {
+    "zh": "鉴于时间紧迫,会议决定精简议程,直奔主题。",
+    "pinyin": "Jiàn yú shí jiān jǐn pò, huì yì jué dìng jīng jiǎn yì chéng, zhí bēn zhǔ tí。",
+    "en": "Given the tight time, the meeting streamlined its agenda."
+   },
+   {
+    "zh": "鉴于孩子的身体状况,医生建议先住院观察几天。",
+    "pinyin": "Jiàn yú hái zi de shēn tǐ zhuàng kuàng, yī shēng jiàn yì xiān zhù yuàn guān chá jǐ tiān。",
+    "en": "Given the child's condition, the doctor advised a few days' observation."
+   },
+   {
+    "zh": "鉴于以往的合作十分愉快,双方决定继续深化合作。",
+    "pinyin": "Jiàn yú yǐ wǎng de hé zuò shí fēn yú kuài, shuāng fāng jué dìng jì xù shēn huà hé zuò。",
+    "en": "Given past pleasant cooperation, both chose to deepen ties."
+   },
+   {
+    "zh": "鉴于此地生态脆弱,政府决定将其列为保护区。",
+    "pinyin": "Jiàn yú cǐ de shēng tài cuì ruò, zhèng fǔ jué dìng jiāng qí liè wèi bǎo hù qū。",
+    "en": "Given the fragile ecology, the government made it a reserve."
+   },
+   {
+    "zh": "鉴于他的特殊贡献,组委会特意为他颁发了荣誉奖。",
+    "pinyin": "Jiàn yú tā de tè shū gòng xiàn, zǔ wěi huì tè yì wèi tā bān fā le róng yù jiǎng。",
+    "en": "Given his special contribution, the committee gave him an honorary award."
+   },
+   {
+    "zh": "鉴于近期物价上涨,公司决定适当提高员工的补贴。",
+    "pinyin": "Jiàn yú jìn qī wù jià shàng zhǎng, gōng sī jué dìng shì dàng tí gāo yuán gōng de bǔ tiē。",
+    "en": "Given recent price rises, the firm raised staff subsidies."
+   },
+   {
+    "zh": "鉴于问题一再出现,我们必须从根本上查找原因。",
+    "pinyin": "Jiàn yú wèn tí yī zài chū xiàn, wǒ men bì xū cóng gēn běn shàng chá zhǎo yuán yīn。",
+    "en": "Given recurring problems, we must find the root cause."
+   },
+   {
+    "zh": "鉴于路途遥远,他们决定分两天完成这次行程。",
+    "pinyin": "Jiàn yú lù tú yáo yuǎn, tā men jué dìng fēn liǎng tiān wán chéng zhè cì xíng chéng。",
+    "en": "Given the long distance, they split the trip over two days."
+   },
+   {
+    "zh": "鉴于大家意见不一,这件事暂时先搁置,以后再议。",
+    "pinyin": "Jiàn yú dà jiā yì jiàn bù yī, zhè jiàn shì zàn shí xiān gē zhì, yǐ hòu zài yì。",
+    "en": "Given the split views, the matter was shelved for now."
+   },
+   {
+    "zh": "鉴于疫情防控的需要,展览暂时改为线上举办。",
+    "pinyin": "Jiàn yú yì qíng fáng kòng de xū yào, zhǎn lǎn zàn shí gǎi wéi xiàn shàng jǔ bàn。",
+    "en": "Given epidemic control needs, the exhibition moved online."
+   },
+   {
+    "zh": "鉴于他经验丰富,大家一致推举他担任这次的负责人。",
+    "pinyin": "Jiàn yú tā jīng yàn fēng fù, dà jiā yí zhì tuī jǔ tā dān rèn zhè cì de fù zé rén。",
+    "en": "Given his experience, all elected him to lead this time."
+   },
+   {
+    "zh": "鉴于原材料价格上涨,产品的售价也做了相应调整。",
+    "pinyin": "Jiàn yú yuán cái liào jià gé shàng zhǎng, chǎn pǐn de shòu jià yě zuò le xiāng yìng tiáo zhěng。",
+    "en": "Given rising material costs, prices were adjusted accordingly."
+   },
+   {
+    "zh": "鉴于这项技术尚不成熟,我们决定暂缓大规模推广。",
+    "pinyin": "Jiàn yú zhè xiàng jì shù shàng bù chéng shú, wǒ men jué dìng zàn huǎn dà guī mó tuī guǎng。",
+    "en": "Given the tech's immaturity, we postponed large-scale rollout."
+   }
+  ]
+ },
+ {
+  "id": "g459",
+  "level": 5,
+  "title": "\"岂不是\" ile belagatli \"...-mez mi / ... olmaz mı\"",
+  "titleEn": "\"Could it be that\" with \"qibushi\"",
+  "pattern": "... 岂不是 + Sonuç (吗)",
+  "summary": "\"岂不是\" belagatli soruyla apaçık bir sonucu vurgular: 这样岂不是更好? = Böylesi daha iyi olmaz mı?",
+  "explanation": "\"岂不是\" (qǐbùshì) belagatli (yanıt beklemeyen) bir soru kurarak apaçık, kaçınılmaz bir sonucu vurgular: \"...-mez mi, ... olmaz mı, o zaman ... olmaz mı, bu ... demek değil mi\". Kalıp: (durum)，岂不是 + sonuç (+ 吗). 如果大家都能互相谅解,岂不是省去了很多麻烦? (Herkes birbirini anlayabilse, nice zahmet ortadan kalkmaz mı?), 你这样一说,岂不是承认自己错了吗? (Böyle deyince, hatanı kabul etmiş olmuyor musun?), 要是错过了这趟车,我们岂不是要在这儿等一整天? (Bu otobüsü kaçırırsak burada bütün gün beklemez miyiz?), 这么好的机会都放弃,岂不是太可惜了? (Böyle bir fırsatı bırakmak çok yazık olmaz mı?). \"岂\" klasik bir soru sözcüğüdür (\"nasıl olur da, hiç mi\") ve olumsuzla (岂不) birleşince güçlü bir olumlama verir: \"elbette öyle, apaçık öyle\". \"岂不是\" konuşanın öne sürdüğü sonucu tartışmasız/besbelli göstermek, karşısındakini o sonuca ikna etmek ya da bir durumu (çoğu zaman olumsuz/istenmeyen) vurgulamak için kullanılır. \"不就...了吗\" konuşma dilindeki yakın karşılığıdır. Türkçedeki \"...-mez mi, ... olmaz mı, ... demek değil mi, o zaman ... olur\" belagatli ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "如果每个人都能多为别人着想,这世界岂不是更美好?",
+    "pinyin": "Rú guǒ měi gè rén dōu néng duō wèi bié rén zhuó xiǎng, zhè shì jiè qǐ bù shì gèng měi hǎo?",
+    "en": "If all thought more of others, wouldn't the world be better?"
+   },
+   {
+    "zh": "你要是现在就放弃,之前的努力岂不是全都白费了?",
+    "pinyin": "Nǐ yào shì xiàn zài jiù fàng qì, zhī qián de nǔ lì qǐ bù shì quán dōu bái fèi le?",
+    "en": "If you quit now, wouldn't all your prior effort be wasted?"
+   },
+   {
+    "zh": "这么难得的机会你都不去争取,岂不是太可惜了?",
+    "pinyin": "Zhè me nán de de jī huì nǐ dōu bù qù zhēng qǔ, qǐ bù shì tài kě xī le?",
+    "en": "Not seizing such a rare chance — isn't that a great pity?"
+   },
+   {
+    "zh": "要是连你都不相信他,他岂不是更加孤立无援了?",
+    "pinyin": "Yào shì lián nǐ dōu bù xiāng xìn tā, tā qǐ bù shì gèng jiā gū lì wú yuán le?",
+    "en": "If even you don't trust him, isn't he all the more alone?"
+   },
+   {
+    "zh": "大家各让一步,这场纷争岂不是就轻松化解了?",
+    "pinyin": "Dà jiā gè ràng yī bù, zhè chǎng fēn zhēng qǐ bù shì jiù qīng sōng huà jiě le?",
+    "en": "If each yields a step, wouldn't the dispute simply dissolve?"
+   },
+   {
+    "zh": "你把话说得这么绝,岂不是断了自己的后路?",
+    "pinyin": "Nǐ bǎ huà shuō de zhè me jué, qǐ bù shì duàn le zì jǐ de hòu lù?",
+    "en": "Speaking so absolutely — aren't you cutting off your own retreat?"
+   },
+   {
+    "zh": "要是这消息传出去,他岂不是要成为大家的笑柄?",
+    "pinyin": "Yào shì zhè xiāo xī chuán chū qù, tā qǐ bù shì yào chéng wéi dà jiā de xiào bǐng?",
+    "en": "If the news spreads, won't he become everyone's laughingstock?"
+   },
+   {
+    "zh": "既然两条路都能到,走近的那条岂不是更省时间?",
+    "pinyin": "Jì rán liǎng tiáo lù dōu néng dào, zǒu jìn de nà tiáo qǐ bù shì gèng shěng shí jiān?",
+    "en": "Since both roads reach it, isn't the shorter one quicker?"
+   },
+   {
+    "zh": "你连试都不试就认输,岂不是辜负了自己的努力?",
+    "pinyin": "Nǐ lián shì dōu bù shì jiù rèn shū, qǐ bù shì gū fù le zì jǐ de nǔ lì?",
+    "en": "Giving up without trying — isn't that betraying your own effort?"
+   },
+   {
+    "zh": "如果连基本的诚信都没有,做生意岂不是难以长久?",
+    "pinyin": "Rú guǒ lián jī běn de chéng xìn dōu méi yǒu, zuò shēng yì qǐ bù shì nán yǐ cháng jiǔ?",
+    "en": "Without basic integrity, can business really last long?"
+   },
+   {
+    "zh": "要是现在不修好,等到雨季岂不是更加麻烦?",
+    "pinyin": "Yào shì xiàn zài bù xiū hǎo, děng dào yǔ jì qǐ bù shì gèng jiā má fán?",
+    "en": "If not fixed now, won't the rainy season make it worse?"
+   },
+   {
+    "zh": "这么点小事就斤斤计较,岂不是显得太小气了?",
+    "pinyin": "Zhè me diǎn xiǎo shì jiù jīn jīn jì jiào, qǐ bù shì xiǎn de tài xiǎo qì le?",
+    "en": "Fussing over such a trifle — doesn't it seem too petty?"
+   },
+   {
+    "zh": "你既然已经答应了,现在反悔岂不是失信于人?",
+    "pinyin": "Nǐ jì rán yǐ jīng dā yìng le, xiàn zài fǎn huǐ qǐ bù shì shī xìn yú rén?",
+    "en": "Since you agreed, backing out now breaks your word, doesn't it?"
+   },
+   {
+    "zh": "要是把时间都浪费在抱怨上,问题岂不是永远解决不了?",
+    "pinyin": "Yào shì bǎ shí jiān dōu làng fèi zài bào yuàn shàng, wèn tí qǐ bù shì yǒng yuǎn jiě jué bù liǎo?",
+    "en": "Wasting time on complaints — won't the problem never be solved?"
+   },
+   {
+    "zh": "你把所有事情都揽下来,岂不是把自己累坏了?",
+    "pinyin": "Nǐ bǎ suǒ yǒu shì qíng dōu lǎn xià lái, qǐ bù shì bǎ zì jǐ lèi huài le?",
+    "en": "Taking on everything — aren't you wearing yourself out?"
+   },
+   {
+    "zh": "这么好的建议不采纳,岂不是错失了一次改进的机会?",
+    "pinyin": "Zhè me hǎo de jiàn yì bù cǎi nà, qǐ bù shì cuò shī le yī cì gǎi jìn de jī huì?",
+    "en": "Not adopting such good advice — isn't it a missed chance to improve?"
+   },
+   {
+    "zh": "要是大家都只顾自己,这个集体岂不是散了架?",
+    "pinyin": "Yào shì dà jiā dōu zhǐ gù zì jǐ, zhè ge jí tǐ qǐ bù shì sàn le jià?",
+    "en": "If all only mind themselves, wouldn't the group fall apart?"
+   },
+   {
+    "zh": "你连他的解释都不听,岂不是太武断了一些?",
+    "pinyin": "Nǐ lián tā de jiě shì dōu bù tīng, qǐ bù shì tài wǔ duàn le yī xiē?",
+    "en": "Not even hearing his explanation — isn't that too arbitrary?"
+   },
+   {
+    "zh": "既然明天要早起,今晚熬夜岂不是自讨苦吃?",
+    "pinyin": "Jì rán míng tiān yào zǎo qǐ, jīn wǎn áo yè qǐ bù shì zì tǎo kǔ chī?",
+    "en": "Since you rise early tomorrow, isn't staying up asking for trouble?"
+   },
+   {
+    "zh": "要是把这笔钱花光了,以后急用时岂不是措手不及?",
+    "pinyin": "Yào shì bǎ zhè bǐ qián huā guāng le, yǐ hòu jí yòng shí qǐ bù shì cuò shǒu bù jí?",
+    "en": "Spending it all — won't a future emergency catch you off guard?"
+   },
+   {
+    "zh": "这么明显的道理还看不透,岂不是白白吃了这么多苦?",
+    "pinyin": "Zhè me míng xiǎn de dào lǐ hái kàn bù tòu, qǐ bù shì bái bái chī le zhè me duō kǔ?",
+    "en": "Missing so plain a truth — wasn't all that suffering for nothing?"
+   },
+   {
+    "zh": "你现在轻易许诺,将来做不到岂不是更让人失望?",
+    "pinyin": "Nǐ xiàn zài qīng yì xǔ nuò, jiāng lái zuò bú dào qǐ bù shì gèng ràng rén shī wàng?",
+    "en": "Promising lightly now — won't failing later disappoint more?"
+   },
+   {
+    "zh": "要是连自己人都信不过,这队伍岂不是要人心涣散?",
+    "pinyin": "Yào shì lián zì jǐ rén dōu xìn bù guò, zhè duì wǔ qǐ bù shì yào rén xīn huàn sàn?",
+    "en": "If you can't trust your own, won't the team's morale scatter?"
+   },
+   {
+    "zh": "好好的一件喜事,被你这么一闹岂不是变了味?",
+    "pinyin": "Hǎo hǎo de yī jiàn xǐ shì, bèi nǐ zhè me yī nào qǐ bù shì biàn le wèi?",
+    "en": "A happy occasion soured by your fuss — hasn't it lost its flavor?"
+   },
+   {
+    "zh": "既然结果都一样,何必绕远路,直接走岂不是更好?",
+    "pinyin": "Jì rán jié guǒ dōu yī yàng, hé bì rào yuǎn lù, zhí jiē zǒu qǐ bù shì gèng hǎo?",
+    "en": "Since the result's the same, isn't going straight simply better?"
+   }
+  ]
+ },
+ {
+  "id": "g460",
+  "level": 5,
+  "title": "\"非...不可\" ile \"mutlaka / ...-meden olmaz\"",
+  "titleEn": "Adding emphasis with \"fei....buke\"",
+  "pattern": "非 + Fiil/Durum + 不可",
+  "summary": "\"非...不可\" bir şeyin kaçınılmaz/zorunlu olduğunu vurgular: 这件事非你去不可 = Bu işe illa senin gitmen lazım.",
+  "explanation": "\"非 ... 不可\" (fēi ... bùkě) bir eylemin/durumun MUTLAKA gerçekleşmesi gerektiğini ya da kaçınılmaz olduğunu güçlü biçimde vurgular: \"mutlaka ..., illa ..., ...-meden olmaz, ...-mek zorunda, ... kesin olacak\". Kalıp: 非 + fiil/durum + 不可. Üç ana anlam. (1) ZORUNLULUK/gereklilik: 这件事非你亲自去办不可 (Bu işi illa senin bizzat yapman lazım), 想学好一门语言,非下苦功不可 (Bir dili iyi öğrenmek için mutlaka çok emek gerekir). (2) Güçlü İSTEK/kararlılık: 他非要跟我们一起去不可,谁劝都没用 (İlla bizimle gelecek diye tutturdu, kimse vazgeçiremedi). (3) Kaçınılmaz SONUÇ tahmini: 再这样熬夜下去,身体非垮不可 (Böyle geceleri devam ederse sağlığı kesin bozulur), 不带伞出去,非淋成落汤鸡不可 (Şemsiyesiz çıkarsan sırılsıklam olman kesin). \"非\" tek başına \"değil\" demektir ama \"非...不可\" kalıbında çifte olumsuzlama güçlü bir olumlama/zorunluluk verir. Sonundaki \"不可\" yerine bazen \"不行/不成/不成\" da gelir. Konuşma dilinde çok canlı ve vurguludur. Türkçedeki \"mutlaka ..., illa ..., ...-meden olmaz, ... zorunda, kesin ... olur\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这件事关系重大,非你亲自出面不可,别人办不了。",
+    "pinyin": "Zhè jiàn shì guān xì zhòng dà, fēi nǐ qīn zì chū miàn bù kě, bié rén bàn bù liǎo。",
+    "en": "This weighty matter must be handled by you in person."
+   },
+   {
+    "zh": "想把这门手艺学到家,非得下一番苦功夫不可。",
+    "pinyin": "Xiǎng bǎ zhè mén shǒu yì xué dào jiā, fēi de xià yī fān kǔ gōng fu bù kě。",
+    "en": "To truly master this craft, one must put in real hard work."
+   },
+   {
+    "zh": "他认准了的事,非做成不可,九头牛也拉不回来。",
+    "pinyin": "Tā rèn zhǔn le de shì, fēi zuò chéng bù kě, jiǔ tóu niú yě lā bù huí lái。",
+    "en": "Once set on something, he must see it through, come what may."
+   },
+   {
+    "zh": "再这样没日没夜地干下去,他的身体非垮不可。",
+    "pinyin": "Zài zhè yàng méi rì méi yè de gàn xià qù, tā de shēn tǐ fēi kuǎ bù kě。",
+    "en": "Working day and night like this, his health is bound to break."
+   },
+   {
+    "zh": "不提前订票,到了假期非买不到不可,那可就麻烦了。",
+    "pinyin": "Bù tí qián dìng piào, dào le jià qī fēi mǎi bú dào bù kě, nà kě jiù má fán le。",
+    "en": "Without booking early, come the holiday you surely won't get tickets."
+   },
+   {
+    "zh": "孩子非要那个玩具不可,怎么哄都哄不好。",
+    "pinyin": "Hái zi fēi yào nà ge wán jù bù kě, zěn me hǒng dōu hǒng bù hǎo。",
+    "en": "The child insisted on that toy; nothing could soothe him."
+   },
+   {
+    "zh": "这么重要的场合,他非穿得正式一点不可。",
+    "pinyin": "Zhè me zhòng yào de chǎng hé, tā fēi chuān de zhèng shì yì diǎn bù kě。",
+    "en": "For such an important occasion, he must dress formally."
+   },
+   {
+    "zh": "你要是不听劝,一意孤行,将来非吃亏不可。",
+    "pinyin": "Nǐ yào shì bù tīng quàn, yī yì gū xíng, jiāng lái fēi chī kuī bù kě。",
+    "en": "If you ignore advice and go your own way, you'll surely suffer."
+   },
+   {
+    "zh": "想在这个行业站稳脚跟,非有真本事不可。",
+    "pinyin": "Xiǎng zài zhè ge háng yè zhàn wěn jiǎo gēn, fēi yǒu zhēn běn shì bù kě。",
+    "en": "To gain a footing in this field, one must have real skill."
+   },
+   {
+    "zh": "他非要在雨天出门,结果非感冒不可,果然病倒了。",
+    "pinyin": "Tā fēi yào zài yǔ tiān chū mén, jié guǒ fēi gǎn mào bù kě, guǒ rán bìng dào le。",
+    "en": "He insisted on going out in the rain and, sure enough, fell ill."
+   },
+   {
+    "zh": "这道菜的火候非掌握得恰到好处不可,否则就失败了。",
+    "pinyin": "Zhè dào cài de huǒ hòu fēi zhǎng wò de qià dào hǎo chù bù kě, fǒu zé jiù shī bài le。",
+    "en": "The heat for this dish must be just right, or it fails."
+   },
+   {
+    "zh": "大家都劝他歇歇,他却非要连夜把活儿干完不可。",
+    "pinyin": "Dà jiā dōu quàn tā xiē xiē, tā què fēi yào lián yè bǎ huó er gàn wán bù kě。",
+    "en": "All urged him to rest, but he insisted on finishing overnight."
+   },
+   {
+    "zh": "要想赢得别人的信任,非得以诚相待不可。",
+    "pinyin": "Yào xiǎng yíng de bié rén de xìn rèn, fēi dé yǐ chéng xiāng dài bù kě。",
+    "en": "To win others' trust, one must treat them with sincerity."
+   },
+   {
+    "zh": "这个漏洞非马上补上不可,否则后果不堪设想。",
+    "pinyin": "Zhè ge lòu dòng fēi mǎ shàng bǔ shàng bù kě, fǒu zé hòu guǒ bù kān shè xiǎng。",
+    "en": "This loophole must be fixed at once, or the consequences are dire."
+   },
+   {
+    "zh": "他脾气倔,认定的道理非坚持到底不可。",
+    "pinyin": "Tā pí qì jué, rèn dìng de dào lǐ fēi jiān chí dào dǐ bù kě。",
+    "en": "Stubborn as he is, he must hold to his view to the end."
+   },
+   {
+    "zh": "想要身体健康,非坚持锻炼、合理饮食不可。",
+    "pinyin": "Xiǎng yào shēn tǐ jiàn kāng, fēi jiān chí duàn liàn、 hé lǐ yǐn shí bù kě。",
+    "en": "For good health, one must keep exercising and eat sensibly."
+   },
+   {
+    "zh": "这么冷的天不多穿点,非冻感冒不可。",
+    "pinyin": "Zhè me lěng de tiān bù duō chuān diǎn, fēi dòng gǎn mào bù kě。",
+    "en": "Not bundling up in such cold, you're bound to catch a chill."
+   },
+   {
+    "zh": "这件事今天非办完不可,拖到明天就来不及了。",
+    "pinyin": "Zhè jiàn shì jīn tiān fēi bàn wán bù kě, tuō dào míng tiān jiù lái bù jí le。",
+    "en": "This must be finished today; delay to tomorrow won't do."
+   },
+   {
+    "zh": "小侄子非要我讲个故事不可,不讲就不肯睡觉。",
+    "pinyin": "Xiǎo zhí zi fēi yào wǒ jiǎng gè gù shì bù kě, bù jiǎng jiù bù kěn shuì jiào。",
+    "en": "My nephew insisted I tell a story, or he wouldn't sleep."
+   },
+   {
+    "zh": "想把文章写好,非反复修改、字斟句酌不可。",
+    "pinyin": "Xiǎng bǎ wén zhāng xiě hǎo, fēi fǎn fù xiū gǎi、 zì zhēn jù zhuó bù kě。",
+    "en": "To write well, one must revise repeatedly and weigh each word."
+   },
+   {
+    "zh": "你答应过的事,非做到不可,否则以后谁还信你?",
+    "pinyin": "Nǐ dā yìng guò de shì, fēi zuò dào bù kě, fǒu zé yǐ hòu shuí hái xìn nǐ?",
+    "en": "You must keep your promise, or who will trust you again?"
+   },
+   {
+    "zh": "这场硬仗非全力以赴不可,谁也不能有丝毫松懈。",
+    "pinyin": "Zhè chǎng yìng zhàng fēi quán lì yǐ fù bù kě, shuí yě bù néng yǒu sī háo sōng xiè。",
+    "en": "This tough battle demands full effort; no one may slack."
+   },
+   {
+    "zh": "再不刹车,这辆车非撞上前面的护栏不可。",
+    "pinyin": "Zài bù shā chē, zhè liàng chē fēi zhuàng shàng qián miàn de hù lán bù kě。",
+    "en": "Without braking, the car is bound to hit the railing ahead."
+   },
+   {
+    "zh": "要想弄清事情的真相,非亲自去调查一番不可。",
+    "pinyin": "Yào xiǎng nòng qīng shì qíng de zhēn xiàng, fēi qīn zì qù diào chá yī fān bù kě。",
+    "en": "To learn the truth, one must investigate in person."
+   },
+   {
+    "zh": "他非要请我们吃饭不可,盛情难却,只好答应了。",
+    "pinyin": "Tā fēi yào qǐng wǒ men chī fàn bù kě, shèng qíng nán què, zhǐ hǎo dā yìng le。",
+    "en": "He insisted on treating us, and we couldn't refuse his warmth."
+   }
+  ]
+ },
+ {
+  "id": "g461",
+  "level": 5,
+  "title": "\"兼\" ile \"aynı zamanda / hem de\"",
+  "titleEn": "Expressing \"at the same time\" with \"jian\"",
+  "pattern": "A 兼 B",
+  "summary": "\"兼\" iki rolü/niteliği aynı anda taşımayı bildirir: 他是老师兼作家 = O hem öğretmen hem yazar.",
+  "explanation": "\"兼\" (jiān) bir kişinin ya da şeyin İKİ (ya da daha çok) rolü, görevi ya da niteliği AYNI ANDA taşıdığını bildirir: \"aynı zamanda, hem ... hem ..., ...-in yanı sıra, birlikte\". İki adı/rolü doğrudan bağlar: 他是这家公司的董事长兼总经理 (Şirketin hem yönetim kurulu başkanı hem genel müdürü), 这套房子客厅兼作书房 (Bu evin salonu aynı zamanda çalışma odası olarak kullanılıyor), 他身兼数职,忙得不可开交 (Birkaç görevi birden üstlenmiş, işten başını kaldıramıyor), 这是一部集教育兼娱乐于一体的好作品 (Bu, eğitimle eğlenceyi bir arada sunan iyi bir yapıt). \"兼\" özellikle unvan/görev/işlev bildiren adları birleştirir ve tek bir öznenin bu rolleri BİRLİKTE üstlendiğini vurgular. \"兼职\" (ek iş/yan görev), \"兼顾\" (ikisini birden gözetmek), \"品学兼优\" (hem ahlakça hem başarıca üstün), \"德才兼备\" (hem erdemli hem yetenekli) gibi yerleşik ifadelerde de geçer. Resmî/yazılı dilde ve unvan bildiriminde çok yaygındır. \"又是...又是...\" ile anlamca yakındır ama \"兼\" özellikle rolleri/işlevleri tek sözcükle birleştirir. Türkçedeki \"aynı zamanda, hem ... hem ..., ...-in yanı sıra, birlikte\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他是这所学校的校长,兼任语文老师,十分敬业。",
+    "pinyin": "Tā shì zhè suǒ xué xiào de xiào zhǎng, jiān rèn yǔ wén lǎo shī, shí fēn jìng yè。",
+    "en": "He is the school's principal and also teaches Chinese, quite devoted."
+   },
+   {
+    "zh": "这间小屋既是他的卧室,又兼作书房和工作室。",
+    "pinyin": "Zhè jiān xiǎo wū jì shì tā de wò shì, yòu jiān zuò shū fáng hé gōng zuò shì。",
+    "en": "This small room is his bedroom and also study and workshop."
+   },
+   {
+    "zh": "这部作品集知识性与趣味性于一体,教育兼娱乐。",
+    "pinyin": "Zhè bù zuò pǐn jí zhī shí xìng yǔ qù wèi xìng yú yī tǐ, jiào yù jiān yú lè。",
+    "en": "The work blends knowledge and fun, educating and entertaining."
+   },
+   {
+    "zh": "他身兼数职,每天忙得连吃饭的时间都很紧张。",
+    "pinyin": "Tā shēn jiān shù zhí, měi tiān máng de lián chī fàn de shí jiān dōu hěn jǐn zhāng。",
+    "en": "Holding several posts, he's so busy even meals are rushed."
+   },
+   {
+    "zh": "做事要懂得兼顾各方的利益,不能只顾一头。",
+    "pinyin": "Zuò shì yào dǒng de jiān gù gè fāng de lì yì, bù néng zhǐ gù yī tóu。",
+    "en": "One must balance all sides' interests, not just one."
+   },
+   {
+    "zh": "这位年轻人品学兼优,是老师和同学眼中的榜样。",
+    "pinyin": "Zhè wèi nián qīng rén pǐn xué jiān yōu, shì lǎo shī hé tóng xué yǎn zhōng de bǎng yàng。",
+    "en": "The young man excels in character and study, a role model to all."
+   },
+   {
+    "zh": "公司招聘的是一名会计,兼管一部分行政事务。",
+    "pinyin": "Gōng sī zhāo pìn de shì yī míng kuài jì, jiān guǎn yī bù fèn xíng zhèng shì wù。",
+    "en": "The firm seeks an accountant who also handles some admin work."
+   },
+   {
+    "zh": "他是作家兼翻译,几十年来笔耕不辍,著作等身。",
+    "pinyin": "Tā shì zuò jiā jiān fān yì, jǐ shí nián lái bǐ gēng bù chuò, zhù zuò děng shēn。",
+    "en": "He is a writer and translator, prolific for decades."
+   },
+   {
+    "zh": "这款产品外观精美,兼具实用与美观的双重优点。",
+    "pinyin": "Zhè kuǎn chǎn pǐn wài guān jīng měi, jiān jù shí yòng yǔ měi guān de shuāng chóng yōu diǎn。",
+    "en": "The product is beautiful, combining utility and good looks."
+   },
+   {
+    "zh": "她一个人身兼母亲与父亲两种角色,把孩子拉扯大。",
+    "pinyin": "Tā yí gè rén shēn jiān mǔ qīn yǔ fù qīn liǎng zhǒng jué sè, bǎ hái zi lā chě dà。",
+    "en": "She raised the child alone, being both mother and father."
+   },
+   {
+    "zh": "这位老中医医术高明,兼通针灸与推拿。",
+    "pinyin": "Zhè wèi lǎo zhōng yī yī shù gāo míng, jiān tōng zhēn jiǔ yǔ tuī ná。",
+    "en": "The old doctor is skilled, versed in both acupuncture and massage."
+   },
+   {
+    "zh": "好的领导应当德才兼备,既有能力又有品德。",
+    "pinyin": "Hǎo de lǐng dǎo yīng dāng dé cái jiān bèi, jì yǒu néng lì yòu yǒu pǐn dé。",
+    "en": "A good leader should have both virtue and talent."
+   },
+   {
+    "zh": "这个岗位需要一个能兼顾细节与全局的人。",
+    "pinyin": "Zhè ge gǎng wèi xū yào yí gè néng jiān gù xì jié yǔ quán jú de rén。",
+    "en": "This post needs someone who balances detail and the big picture."
+   },
+   {
+    "zh": "他白天上班,晚上还兼职做家教,十分辛苦。",
+    "pinyin": "Tā bái tiān shàng bān, wǎn shàng hái jiān zhí zuò jiā jiào, shí fēn xīn kǔ。",
+    "en": "He works by day and tutors by night — very hard."
+   },
+   {
+    "zh": "这座建筑集办公、居住、休闲兼于一身,功能齐全。",
+    "pinyin": "Zhè zuò jiàn zhù jí bàn gōng、 jū zhù、 xiū xián jiān yú yī shēn, gōng néng qí quán。",
+    "en": "The building combines office, home, and leisure — fully featured."
+   },
+   {
+    "zh": "这次活动寓教于乐,让孩子们学习兼玩耍,收获满满。",
+    "pinyin": "Zhè cì huó dòng yù jiào yú lè, ràng hái zi men xué xí jiān wán shuǎ, shōu huò mǎn mǎn。",
+    "en": "The event mixed learning and play, so children gained much."
+   },
+   {
+    "zh": "他为人正直,又兼有一副热心肠,深受大家爱戴。",
+    "pinyin": "Tā wéi rén zhèng zhí, yòu jiān yǒu yī fù rè xīn cháng, shēn shòu dà jiā ài dài。",
+    "en": "Upright and warm-hearted, he is much beloved by all."
+   },
+   {
+    "zh": "这本词典释义准确,兼收古今词语,十分实用。",
+    "pinyin": "Zhè běn cí diǎn shì yì zhǔn què, jiān shōu gǔ jīn cí yǔ, shí fēn shí yòng。",
+    "en": "The dictionary is accurate, covering old and new words, very useful."
+   },
+   {
+    "zh": "这位教授学识渊博,兼通文史哲多个领域。",
+    "pinyin": "Zhè wèi jiào shòu xué shí yuān bó, jiān tōng wén shǐ zhé duō gè lǐng yù。",
+    "en": "The professor is learned, versed in literature, history, and philosophy."
+   },
+   {
+    "zh": "这道菜色香味俱全,兼顾了营养与口感。",
+    "pinyin": "Zhè dào cài sè xiāng wèi jù quán, jiān gù le yíng yǎng yǔ kǒu gǎn。",
+    "en": "The dish excels in color, aroma, and taste, balancing nutrition and flavor."
+   },
+   {
+    "zh": "他是球队的队长兼主力前锋,是全队的核心。",
+    "pinyin": "Tā shì qiú duì de duì zhǎng jiān zhǔ lì qián fēng, shì quán duì de hé xīn。",
+    "en": "He is the team's captain and star forward, its very core."
+   },
+   {
+    "zh": "这项工作要求应聘者能兼顾质量与效率。",
+    "pinyin": "Zhè xiàng gōng zuò yāo qiú yìng pìn zhě néng jiān gù zhì liàng yǔ xiào lǜ。",
+    "en": "The job requires balancing both quality and efficiency."
+   },
+   {
+    "zh": "这座城市兼具现代的繁华与古典的韵味。",
+    "pinyin": "Zhè zuò chéng shì jiān jù xiàn dài de fán huá yǔ gǔ diǎn de yùn wèi。",
+    "en": "The city has both modern bustle and classical charm."
+   },
+   {
+    "zh": "他做事沉稳,兼有一份年轻人少有的耐心。",
+    "pinyin": "Tā zuò shì chén wěn, jiān yǒu yī fèn nián qīng rén shǎo yǒu de nài xīn。",
+    "en": "Steady in action, he also has a patience rare among the young."
+   },
+   {
+    "zh": "这个方案兼顾了成本、质量和工期,考虑得很周全。",
+    "pinyin": "Zhè ge fāng àn jiān gù le chéng běn、 zhì liàng hé gōng qī, kǎo lǜ de hěn zhōu quán。",
+    "en": "The plan balances cost, quality, and schedule — very thorough."
+   }
+  ]
  }
 ]

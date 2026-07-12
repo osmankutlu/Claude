@@ -58070,5 +58070,549 @@
     "en": "Usually all smiles, today she seemed weighed by worries."
    }
   ]
+ },
+ {
+  "id": "g428",
+  "level": 4,
+  "title": "\"以后\"、\"然后\"、\"后来\" farkı",
+  "titleEn": "Comparing \"yihou\" \"ranhou\" \"houlai\"",
+  "pattern": "以后 (...-den sonra/gelecek) / 然后 (ardından) / 后来 (sonradan-geçmiş)",
+  "summary": "\"以后\" bir andan sonrasını, \"然后\" iki eylemin sırasını, \"后来\" geçmişte sonradan olanı bildirir: 下课以后 / 先...然后... / 后来他走了。",
+  "explanation": "\"以后\"、\"然后\"、\"后来\" üçü de \"sonra\" ile ilgilidir ama farklıdırlar. \"以后\" (yǐhòu): bir andan SONRAKİ zamanı bildirir; tek başına \"bundan sonra, ileride, gelecekte\" (以后我想当医生 = İleride doktor olmak istiyorum) ya da bir olayın ardına eklenip \"...-den sonra\" (下课以后我们去吃饭 = Dersten sonra yemeğe gideriz). Hem gelecek hem geçmiş bağlamda kullanılabilir; bir zaman noktası belirtir. \"然后\" (ránhòu): iki (ya da daha çok) eylemin ARDIŞIK SIRASINI bağlar — \"sonra, ardından, daha sonra\": 我先写完作业,然后再看电视 (Önce ödevi bitiririm, sonra televizyon izlerim), 他洗了手,然后坐下来吃饭 (Ellerini yıkadı, ardından oturup yemek yedi). \"然后\" bir eylemi bir öncekine bağlar (adım adım sıra). \"后来\" (hòulái): yalnız GEÇMİŞTE, bir olaydan sonra gerçekleşen başka bir gelişmeyi anlatır — \"sonradan, daha sonra (geçmişte)\": 我们上学时是好朋友,后来慢慢就失去了联系 (Okulda iyi arkadaştık, sonradan yavaş yavaş kopuştuk), 他起初不同意,后来还是被说服了 (Önce karşıydı, sonradan ikna oldu). \"后来\" gelecekte kullanılamaz. Özet: gelecek/zaman noktası → 以后; ardışık sıra → 然后; geçmişteki sonraki gelişme → 后来. Türkçedeki \"...-den sonra/ileride (以后)\", \"ardından (然后)\", \"sonradan (后来)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "下课以后,我们几个约好一起去图书馆复习功课。",
+    "pinyin": "Xià kè yǐ hòu, wǒ men jǐ gè yuē hǎo yì qǐ qù tú shū guǎn fù xí gōng kè。",
+    "en": "After class, a few of us agreed to review at the library."
+   },
+   {
+    "zh": "他先把材料准备齐全,然后才不慌不忙地开始动手。",
+    "pinyin": "Tā xiān bǎ cái liào zhǔn bèi qí quán, rán hòu cái bù huāng bù máng de kāi shǐ dòng shǒu。",
+    "en": "He got all materials ready, then calmly began."
+   },
+   {
+    "zh": "我们小时候是邻居,后来他家搬走,就渐渐断了联系。",
+    "pinyin": "Wǒ men xiǎo shí hòu shì lín jū, hòu lái tā jiā bān zǒu, jiù jiàn jiàn duàn le lián xì。",
+    "en": "We were neighbors as kids; later his family moved and we lost touch."
+   },
+   {
+    "zh": "等你长大以后,就会慢慢明白父母的良苦用心了。",
+    "pinyin": "Děng nǐ zhǎng dà yǐ hòu, jiù huì màn màn míng bái fù mǔ de liáng kǔ yòng xīn le。",
+    "en": "When you grow up, you'll slowly grasp your parents' care."
+   },
+   {
+    "zh": "你先把这段话读一遍,然后用自己的话复述一下。",
+    "pinyin": "Nǐ xiān bǎ zhè duàn huà dú yī biàn, rán hòu yòng zì jǐ de huà fù shù yī xià。",
+    "en": "Read this passage first, then retell it in your own words."
+   },
+   {
+    "zh": "这件事起初闹得很凶,后来不知怎么就平息了。",
+    "pinyin": "Zhè jiàn shì qǐ chū nào de hěn xiōng, hòu lái bù zhī zěn me jiù píng xī le。",
+    "en": "It caused a stir at first, then somehow died down later."
+   },
+   {
+    "zh": "毕业以后,他决定回到家乡,为村里做点实事。",
+    "pinyin": "Bì yè yǐ hòu, tā jué dìng huí dào jiā xiāng, wèi cūn lǐ zuò diǎn shí shì。",
+    "en": "After graduating, he decided to return home and help the village."
+   },
+   {
+    "zh": "我们先去超市买点东西,然后再顺路去看看奶奶。",
+    "pinyin": "Wǒ men xiān qù chāo shì mǎi diǎn dōng xī, rán hòu zài shùn lù qù kàn kàn nǎi nǎi。",
+    "en": "Let's shop at the market first, then drop by to see Grandma."
+   },
+   {
+    "zh": "他年轻时很爱旅行,后来因为工作忙就很少出门了。",
+    "pinyin": "Tā nián qīng shí hěn ài lǚ xíng, hòu lái yīn wèi gōng zuò máng jiù hěn shǎo chū mén le。",
+    "en": "He loved travel when young; later, busy with work, he rarely went out."
+   },
+   {
+    "zh": "从今以后,我一定要养成早睡早起的好习惯。",
+    "pinyin": "Cóng jīn yǐ hòu, wǒ yí dìng yào yǎng chéng zǎo shuì zǎo qǐ de hǎo xí guàn。",
+    "en": "From now on, I'll cultivate the habit of keeping early hours."
+   },
+   {
+    "zh": "请你先签个字,然后到旁边那个窗口去缴费。",
+    "pinyin": "Qǐng nǐ xiān qiān gè zì, rán hòu dào páng biān nà ge chuāng kǒu qù jiǎo fèi。",
+    "en": "Please sign first, then pay at the window over there."
+   },
+   {
+    "zh": "那天他还答应得好好的,后来却突然变了卦。",
+    "pinyin": "Nà tiān tā hái dā yìng de hǎo hǎo de, hòu lái què tū rán biàn le guà。",
+    "en": "That day he agreed readily, yet later suddenly went back on it."
+   },
+   {
+    "zh": "退休以后,爷爷把大部分时间都花在了养花种草上。",
+    "pinyin": "Tuì xiū yǐ hòu, yé yé bǎ dà bù fèn shí jiān dōu huā zài le yǎng huā zhòng cǎo shàng。",
+    "en": "After retiring, Grandpa spent most of his time gardening."
+   },
+   {
+    "zh": "他把灯关掉,然后轻轻带上门,生怕吵醒孩子。",
+    "pinyin": "Tā bǎ dēng guān diào, rán hòu qīng qīng dài shàng mén, shēng pà chǎo xǐng hái zi。",
+    "en": "He turned off the light, then softly closed the door, lest he wake the child."
+   },
+   {
+    "zh": "我原本不太喜欢这座城市,后来却渐渐爱上了它。",
+    "pinyin": "Wǒ yuán běn bù tài xǐ huān zhè zuò chéng shì, hòu lái què jiàn jiàn ài shàng le tā。",
+    "en": "I didn't like this city at first, but grew to love it later."
+   },
+   {
+    "zh": "等把手头的事忙完以后,我想好好休息几天。",
+    "pinyin": "Děng bǎ shǒu tóu de shì máng wán yǐ hòu, wǒ xiǎng hǎo hǎo xiū xī jǐ tiān。",
+    "en": "Once I finish the work at hand, I want to rest a few days."
+   },
+   {
+    "zh": "你先深呼吸放松一下,然后再慢慢把话说清楚。",
+    "pinyin": "Nǐ xiān shēn hū xī fàng sōng yī xià, rán hòu zài màn màn bǎ huà shuō qīng chǔ。",
+    "en": "Take a deep breath to relax, then explain slowly and clearly."
+   },
+   {
+    "zh": "他起初做得并不顺利,后来慢慢摸索出了门道。",
+    "pinyin": "Tā qǐ chū zuò de bìng bù shùn lì, hòu lái màn màn mō suǒ chū le mén dào。",
+    "en": "He struggled at first, but later found the knack step by step."
+   },
+   {
+    "zh": "孩子长大以后,家里一下子变得冷清了许多。",
+    "pinyin": "Hái zi zhǎng dà yǐ hòu, jiā lǐ yī xià zi biàn de lěng qīng le xǔ duō。",
+    "en": "After the children grew up, the home became much quieter."
+   },
+   {
+    "zh": "我们先商量好分工,然后各自负责各自的部分。",
+    "pinyin": "Wǒ men xiān shāng liáng hǎo fēn gōng, rán hòu gè zì fù zé gè zì de bù fèn。",
+    "en": "Let's agree on the division of labor, then each handle our part."
+   },
+   {
+    "zh": "那件事之后,他消沉了好一阵,后来总算重新振作了起来。",
+    "pinyin": "Nà jiàn shì zhī hòu, tā xiāo chén le hǎo yī zhèn, hòu lái zǒng suàn chóng xīn zhèn zuò le qǐ lái。",
+    "en": "After that he was low for a while, but finally bounced back."
+   },
+   {
+    "zh": "放假以后,他打算把这些年想读的书都好好读一遍。",
+    "pinyin": "Fàng jià yǐ hòu, tā dǎ suàn bǎ zhè xiē nián xiǎng dú de shū dōu hǎo hǎo dú yī biàn。",
+    "en": "During the holiday, he plans to read all the books he'd meant to."
+   },
+   {
+    "zh": "你把水烧开,然后放入面条,煮上三五分钟就好了。",
+    "pinyin": "Nǐ bǎ shuǐ shāo kāi, rán hòu fàng rù miàn tiáo, zhǔ shàng sān wǔ fēn zhōng jiù hǎo le。",
+    "en": "Boil the water, then add the noodles and cook a few minutes."
+   },
+   {
+    "zh": "他们本来是竞争对手,后来竟成了无话不谈的好友。",
+    "pinyin": "Tā men běn lái shì jìng zhēng duì shǒu, hòu lái jìng chéng liǎo wú huà bù tán de hǎo yǒu。",
+    "en": "They were rivals at first, but later became the closest of friends."
+   },
+   {
+    "zh": "天黑以后,山里的气温会一下子降得很低。",
+    "pinyin": "Tiān hēi yǐ hòu, shān lǐ de qì wēn huì yī xià zi jiàng de hěn dī。",
+    "en": "After dark, the mountain temperature drops sharply."
+   }
+  ]
+ },
+ {
+  "id": "g429",
+  "level": 4,
+  "title": "\"以后\" ile \"之后\" farkı",
+  "titleEn": "Comparing \"yihou\" and \"zhihou\"",
+  "pattern": "以后 (bağımsız da gelir) / 之后 (bir olaya bağlı)",
+  "summary": "İkisi de \"...-den sonra\" demek; \"以后\" tek başına \"ileride\" olabilir, \"之后\" çoğunlukla bir olaya/zamana bağlanır: 以后再说 / 三天之后。",
+  "explanation": "\"以后\" ve \"之后\" ikisi de \"...-den sonra\" anlamına gelir ve bir olayın/zamanın ardına eklendiğinde çoğu zaman DEĞİŞTİRİLEBİLİR: 下课以后 = 下课之后 (dersten sonra), 三年以后 = 三年之后 (üç yıl sonra). Ancak farklar vardır. (1) TEK BAŞINA kullanım: \"以后\" bağımsız olarak \"ileride, bundan böyle, gelecekte\" anlamında cümle başında kullanılabilir — 以后我会更加努力 (Bundan sonra daha çok çalışacağım), 以后的事以后再说 (İlerisi ilerde belli olur). \"之后\" ise tek başına, bir dayanağı olmadan bu anlamda pek kullanılmaz; genellikle bir olaya/zamana BAĞLANIR ya da \"在此之后/从那之后\" (bundan sonra) gibi bir gönderme gerektirir. (2) ÜSLUP: \"之后\" biraz daha resmî/yazılıdır; \"以后\" hem konuşma hem yazıda çok yaygındır. (3) \"以后\" gelecek yönelimli \"ileride\" anlamını daha kolay taşır; \"之后\" daha çok belirli bir noktadan sonrasını (ardıllık) vurgular. Bir olaya bağlıyken ikisi de olur; tek başına \"gelecekte\" derken \"以后\" yeğlenir. Türkçedeki \"...-den sonra\" ve \"ileride/bundan sonra\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "大学毕业以后,他一个人去了很远的城市打拼。",
+    "pinyin": "Dà xué bì yè yǐ hòu, tā yí gè rén qù le hěn yuǎn de chéng shì dǎ pīn。",
+    "en": "After graduating, he went alone to a far city to make his way."
+   },
+   {
+    "zh": "经过那次谈话之后,两个人的关系明显缓和了许多。",
+    "pinyin": "Jīng guò nà cì tán huà zhī hòu, liǎng gè rén de guān xì míng xiǎn huǎn hé le xǔ duō。",
+    "en": "After that talk, their relationship clearly eased a great deal."
+   },
+   {
+    "zh": "以后无论遇到什么困难,我们都要互相扶持。",
+    "pinyin": "Yǐ hòu wú lùn yù dào shén me kùn nán, wǒ men dōu yào hù xiāng fú chí。",
+    "en": "From now on, whatever the hardship, we'll support each other."
+   },
+   {
+    "zh": "搬到新家之后,他每天上班的路程缩短了一大半。",
+    "pinyin": "Bān dào xīn jiā zhī hòu, tā měi tiān shàng bān de lù chéng suō duǎn le yī dà bàn。",
+    "en": "After moving to the new home, his commute was more than halved."
+   },
+   {
+    "zh": "以后的日子还长着呢,你不必急于一时。",
+    "pinyin": "Yǐ hòu de rì zi hái zhǎng zhe ne, nǐ bù bì jí yú yī shí。",
+    "en": "The days ahead are long; you needn't rush for the moment."
+   },
+   {
+    "zh": "那场大病之后,他比以前更加注重锻炼身体了。",
+    "pinyin": "Nà chǎng dà bìng zhī hòu, tā bǐ yǐ qián gèng jiā zhù zhòng duàn liàn shēn tǐ le。",
+    "en": "After that serious illness, he paid far more heed to exercise."
+   },
+   {
+    "zh": "你放心,以后有我在,这些事都不用你操心。",
+    "pinyin": "Nǐ fàng xīn, yǐ hòu yǒu wǒ zài, zhè xiē shì dōu bù yòng nǐ cāo xīn。",
+    "en": "Rest assured, with me around, you needn't fret over these things."
+   },
+   {
+    "zh": "看完那部电影之后,我久久沉浸在感动之中。",
+    "pinyin": "Kàn wán nà bù diàn yǐng zhī hòu, wǒ jiǔ jiǔ chén jìn zài gǎn dòng zhī zhōng。",
+    "en": "After that film, I lingered long in a moved mood."
+   },
+   {
+    "zh": "以后想吃我做的菜,随时打个电话就行。",
+    "pinyin": "Yǐ hòu xiǎng chī wǒ zuò de cài, suí shí dǎ gè diàn huà jiù xíng。",
+    "en": "Whenever you want my cooking from now on, just call."
+   },
+   {
+    "zh": "在那件事之后,大家对他的看法悄悄发生了改变。",
+    "pinyin": "Zài nà jiàn shì zhī hòu, dà jiā duì tā de kàn fǎ qiāo qiāo fā shēng le gǎi biàn。",
+    "en": "After that incident, opinions of him quietly shifted."
+   },
+   {
+    "zh": "等孩子上学以后,她打算重新回到工作岗位。",
+    "pinyin": "Děng hái zi shàng xué yǐ hòu, tā dǎ suàn chóng xīn huí dào gōng zuò gǎng wèi。",
+    "en": "Once the child starts school, she plans to return to work."
+   },
+   {
+    "zh": "那次失败之后,他反而更加坚定了自己的信念。",
+    "pinyin": "Nà cì shī bài zhī hòu, tā fǎn ér gèng jiā jiān dìng le zì jǐ de xìn niàn。",
+    "en": "After that failure, his conviction grew all the firmer."
+   },
+   {
+    "zh": "以后我们要多回来看看爸妈,别让他们太孤单。",
+    "pinyin": "Yǐ hòu wǒ men yào duō huí lái kàn kàn bà mā, bié ràng tā men tài gū dān。",
+    "en": "From now on let's visit our parents more, so they're not so lonely."
+   },
+   {
+    "zh": "经过反复练习之后,他终于能熟练地弹奏这首曲子了。",
+    "pinyin": "Jīng guò fǎn fù liàn xí zhī hòu, tā zhōng yú néng shú liàn de dàn zòu zhè shǒu qǔ zi le。",
+    "en": "After much practice, he could finally play the piece skillfully."
+   },
+   {
+    "zh": "以后你要是遇到什么难处,一定要第一时间告诉我。",
+    "pinyin": "Yǐ hòu nǐ yào shì yù dào shén me nán chǔ, yí dìng yào dì yī shí jiān gào sù wǒ。",
+    "en": "If you ever hit trouble, be sure to tell me right away."
+   },
+   {
+    "zh": "那天分别之后,我们竟然再也没有见过面。",
+    "pinyin": "Nà tiān fèn bié zhī hòu, wǒ men jìng rán zài yě méi yǒu jiàn guò miàn。",
+    "en": "After parting that day, we never actually met again."
+   },
+   {
+    "zh": "从今以后,我再也不会轻易相信那些花言巧语了。",
+    "pinyin": "Cóng jīn yǐ hòu, wǒ zài yě bú huì qīng yì xiāng xìn nà xiē huā yán qiǎo yǔ le。",
+    "en": "From now on, I won't easily believe such sweet talk."
+   },
+   {
+    "zh": "仔细考虑之后,他最终还是决定接受这份工作。",
+    "pinyin": "Zǐ xì kǎo lǜ zhī hòu, tā zuì zhōng hái shì jué dìng jiē shòu zhè fèn gōng zuò。",
+    "en": "After careful thought, he finally decided to take the job."
+   },
+   {
+    "zh": "以后你长大了,就会懂得今天这番话的分量。",
+    "pinyin": "Yǐ hòu nǐ zhǎng dà le, jiù huì dǒng de jīn tiān zhè fān huà de fèn liàng。",
+    "en": "When you grow up, you'll grasp the weight of these words."
+   },
+   {
+    "zh": "那件事之后,他仿佛一下子成熟了许多。",
+    "pinyin": "Nà jiàn shì zhī hòu, tā fǎng fú yī xià zi chéng shú le xǔ duō。",
+    "en": "After that matter, he seemed to mature all at once."
+   },
+   {
+    "zh": "以后每逢你生日,我都会亲手给你做一个蛋糕。",
+    "pinyin": "Yǐ hòu měi féng nǐ shēng rì, wǒ dū huì qīn shǒu gěi nǐ zuò yí gè dàn gāo。",
+    "en": "From now on, each birthday I'll make you a cake by hand."
+   },
+   {
+    "zh": "听了老师的一席话之后,我心里豁然开朗。",
+    "pinyin": "Tīng le lǎo shī de yī xí huà zhī hòu, wǒ xīn lǐ huò rán kāi lǎng。",
+    "en": "After the teacher's words, my heart suddenly cleared."
+   },
+   {
+    "zh": "以后的路要靠你自己去走,谁也替代不了你。",
+    "pinyin": "Yǐ hòu de lù yào kào nǐ zì jǐ qù zǒu, shuí yě tì dài bù liǎo nǐ。",
+    "en": "The road ahead is yours to walk; no one can walk it for you."
+   },
+   {
+    "zh": "在经历了那么多之后,他学会了坦然面对得失。",
+    "pinyin": "Zài jīng lì le nà me duō zhī hòu, tā xué huì le tǎn rán miàn duì de shī。",
+    "en": "After going through so much, he learned to face gain and loss calmly."
+   },
+   {
+    "zh": "以后你有了自己的家,就会明白当父母的不容易。",
+    "pinyin": "Yǐ hòu nǐ yǒu le zì jǐ de jiā, jiù huì míng bái dāng fù mǔ de bù róng yì。",
+    "en": "When you have your own family, you'll see how hard being a parent is."
+   }
+  ]
+ },
+ {
+  "id": "g430",
+  "level": 4,
+  "title": "\"看起来\" ile \"看来\" farkı",
+  "titleEn": "Comparing \"kanqilai\" and \"kanlai\"",
+  "pattern": "看起来 (görünüşe göre/... gibi görünmek) / 看来 (anlaşılan, kanaatimce)",
+  "summary": "\"看起来\" bir şeyin dış görünüşünü, \"看来\" konuşanın çıkarımını/kanaatini bildirir: 天看起来要下雨 / 看来他不会来了。",
+  "explanation": "\"看起来\" ve \"看来\" yakındır ama nüansları farklıdır. \"看起来\" (kànqǐlai): bir şeyin DIŞ GÖRÜNÜŞÜNE/izlenimine dayanan bir değerlendirme bildirir — \"... gibi görünmek, görünüşe göre, dıştan ...\": 这道菜看起来很好吃 (Bu yemek lezzetli görünüyor), 他看起来很累 (Yorgun görünüyor), 天看起来要下雨了 (Hava yağmur yağacak gibi görünüyor). Sıklıkla bir öznenin dış hâlini (görsel/duyusal izlenim) tanımlar ve gerçeğin farklı olabileceğini ima edebilir (看起来简单,其实很难 = kolay görünüyor ama aslında zor). \"看来\" (kànlái): konuşanın gözlemlerden çıkardığı bir SONUÇ/kanaat bildirir — \"anlaşılan, görünen o ki, bana kalırsa, öyle görünüyor ki\": 看来他今天不会来了 (Anlaşılan bugün gelmeyecek), 看来这件事没那么简单 (Görünen o ki bu iş o kadar basit değil), 照这样下去,看来我们得改变计划 (Böyle giderse anlaşılan planı değiştirmemiz gerekecek). \"看来\" bütün duruma bakıp bir ÇIKARIM/tahmin yapar; çoğu zaman \"在我看来\" (bence) ya da \"看来 + cümle\" biçiminde gelir ve öznel bir yargı taşır. Fark: \"看起来\" DIŞ GÖRÜNÜM (bir şey ... gibi görünür); \"看来\" ÇIKARIM/kanaat (anlaşılan öyle). Türkçedeki \"... gibi görünmek (看起来)\" ile \"anlaşılan, görünen o ki (看来)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "这道菜看起来色香俱全,吃起来味道果然也很不错。",
+    "pinyin": "Zhè dào cài kàn qǐ lái sè xiāng jù quán, chī qǐ lái wèi dào guǒ rán yě hěn bú cuò。",
+    "en": "The dish looks and smells great, and indeed tastes fine too."
+   },
+   {
+    "zh": "天上乌云密布,看来一场大雨马上就要来了。",
+    "pinyin": "Tiān shàng wū yún mì bù, kàn lái yī cháng dà yǔ mǎ shàng jiù yào lái le。",
+    "en": "The sky is full of dark clouds; it seems a downpour is coming."
+   },
+   {
+    "zh": "他今天脸色不太好,看起来像是没睡好觉。",
+    "pinyin": "Tā jīn tiān liǎn sè bù tài hǎo, kàn qǐ lái xiàng shì méi shuì hǎo jué。",
+    "en": "He looks pale today, as if he hadn't slept well."
+   },
+   {
+    "zh": "大家都不说话,看来这个问题确实不太好回答。",
+    "pinyin": "Dà jiā dōu bù shuō huà, kàn lái zhè ge wèn tí què shí bù tài hǎo huí dá。",
+    "en": "No one speaks; it seems this question is truly hard to answer."
+   },
+   {
+    "zh": "这栋房子看起来有些年头了,墙皮都已经斑驳了。",
+    "pinyin": "Zhè dòng fáng zi kàn qǐ lái yǒu xiē nián tóu le, qiáng pí dōu yǐ jīng bān bó le。",
+    "en": "The house looks old, its walls already mottled and peeling."
+   },
+   {
+    "zh": "照这个进度,看来我们今天是完不成任务了。",
+    "pinyin": "Zhào zhè ge jìn dù, kàn lái wǒ men jīn tiān shì wán bù chéng rèn wù le。",
+    "en": "At this pace, it seems we won't finish the task today."
+   },
+   {
+    "zh": "他穿上这身衣服,看起来一下子精神了许多。",
+    "pinyin": "Tā chuān shàng zhè shēn yī fú, kàn qǐ lái yī xià zi jīng shén le xǔ duō。",
+    "en": "In these clothes, he looks much more spirited all at once."
+   },
+   {
+    "zh": "他连电话都不接,看来是真的在生我的气了。",
+    "pinyin": "Tā lián diàn huà dōu bù jiē, kàn lái shì zhēn de zài shēng wǒ de qì le。",
+    "en": "He won't even answer; it seems he's really angry with me."
+   },
+   {
+    "zh": "这道题看起来复杂,实际上只要找对方法就很简单。",
+    "pinyin": "Zhè dào tí kàn qǐ lái fù zá, shí jì shàng zhǐ yào zhǎo duì fāng fǎ jiù hěn jiǎn dān。",
+    "en": "The problem looks complex but is simple with the right method."
+   },
+   {
+    "zh": "外面的风越刮越大,看来今晚的活动只能取消了。",
+    "pinyin": "Wài miàn de fēng yuè guā yuè dà, kàn lái jīn wǎn de huó dòng zhǐ néng qǔ xiāo le。",
+    "en": "The wind's picking up; it seems tonight's event must be canceled."
+   },
+   {
+    "zh": "这个孩子看起来文文静静的,其实特别调皮。",
+    "pinyin": "Zhè ge hái zi kàn qǐ lái wén wén jìng jìng de, qí shí tè bié tiáo pí。",
+    "en": "The child looks quiet and gentle but is actually very naughty."
+   },
+   {
+    "zh": "他准备得这么充分,看来对这次比赛是志在必得。",
+    "pinyin": "Tā zhǔn bèi de zhè me chōng fèn, kàn lái duì zhè cì bǐ sài shì zhì zài bì de。",
+    "en": "He's so well prepared; it seems he's set on winning."
+   },
+   {
+    "zh": "远处的山峰在晨雾中看起来若隐若现,格外神秘。",
+    "pinyin": "Yuǎn chù de shān fēng zài chén wù zhōng kàn qǐ lái ruò yǐn ruò xiàn, gé wài shén mì。",
+    "en": "The distant peaks loom faintly in the morning mist, mysterious."
+   },
+   {
+    "zh": "你连饭都吃不下,看来病得不轻,还是去医院看看吧。",
+    "pinyin": "Nǐ lián fàn dōu chī bù xià, kàn lái bìng de bù qīng, hái shì qù yī yuàn kàn kàn ba。",
+    "en": "You can't even eat; it seems you're quite ill — see a doctor."
+   },
+   {
+    "zh": "这块布料摸起来很软,看起来质地也相当不错。",
+    "pinyin": "Zhè kuài bù liào mō qǐ lái hěn ruǎn, kàn qǐ lái zhì de yě xiāng dāng bù cuò。",
+    "en": "The fabric feels soft and looks of quite good quality."
+   },
+   {
+    "zh": "他一整天都闷闷不乐,看来是遇到什么烦心事了。",
+    "pinyin": "Tā yī zhěng tiān dōu mèn mèn bù lè, kàn lái shì yù dào shén me fán xīn shì le。",
+    "en": "He's been down all day; it seems something is troubling him."
+   },
+   {
+    "zh": "这些机器看起来很旧,但用起来居然一点毛病都没有。",
+    "pinyin": "Zhè xiē jī qì kàn qǐ lái hěn jiù, dàn yòng qǐ lái jū rán yì diǎn máo bìng dōu méi yǒu。",
+    "en": "The machines look old but work without a single fault."
+   },
+   {
+    "zh": "大家的意见分歧这么大,看来一时半会儿定不下来。",
+    "pinyin": "Dà jiā de yì jiàn fēn qí zhè me dà, kàn lái yī shí bàn huì er dìng bù xià lái。",
+    "en": "Opinions differ so much it seems no decision will come soon."
+   },
+   {
+    "zh": "小家伙笑得那么开心,看起来今天玩得非常尽兴。",
+    "pinyin": "Xiǎo jiā huo xiào de nà me kāi xīn, kàn qǐ lái jīn tiān wán de fēi cháng jìn xìng。",
+    "en": "The little one laughs so happily; he seems to have had great fun."
+   },
+   {
+    "zh": "路上这么堵,看来我们又要迟到了,真让人着急。",
+    "pinyin": "Lù shàng zhè me dǔ, kàn lái wǒ men yòu yào chí dào le, zhēn ràng rén zháo jí。",
+    "en": "Traffic's so bad; it seems we'll be late again — how frustrating."
+   },
+   {
+    "zh": "这幅画远看起来平平无奇,近看才发现别有洞天。",
+    "pinyin": "Zhè fú huà yuǎn kàn qǐ lái píng píng wú qí, jìn kàn cái fā xiàn bié yǒu dòng tiān。",
+    "en": "From afar the painting seems plain, but up close it reveals depth."
+   },
+   {
+    "zh": "他把话说得这么绝,看来是铁了心不肯原谅了。",
+    "pinyin": "Tā bǎ huà shuō de zhè me jué, kàn lái shì tiě le xīn bù kěn yuán liàng le。",
+    "en": "He spoke so firmly; it seems he's set on not forgiving."
+   },
+   {
+    "zh": "窗外的树叶都黄了,看起来秋天是真的到了。",
+    "pinyin": "Chuāng wài de shù yè dōu huáng le, kàn qǐ lái qiū tiān shì zhēn de dào le。",
+    "en": "The leaves outside have yellowed; autumn truly seems to have come."
+   },
+   {
+    "zh": "连他都被难住了,看来这道题的难度确实不小。",
+    "pinyin": "Lián tā dōu bèi nàn zhù le, kàn lái zhè dào tí de nán dù què shí bù xiǎo。",
+    "en": "Even he was stumped; it seems the problem is genuinely hard."
+   },
+   {
+    "zh": "这条鱼看起来还很新鲜,买回去做汤一定很美味。",
+    "pinyin": "Zhè tiáo yú kàn qǐ lái hái hěn xīn xiān, mǎi huí qù zuò tāng yí dìng hěn měi wèi。",
+    "en": "The fish looks fresh; it'll surely make a tasty soup."
+   }
+  ]
+ },
+ {
+  "id": "g431",
+  "level": 4,
+  "title": "\"显得\" ile \"看起来\" farkı",
+  "titleEn": "Comparing \"xiande\" and \"kanqilai\"",
+  "pattern": "显得 (bir izlenim vermek/göstermek) / 看起来 (... gibi görünmek)",
+  "summary": "İkisi de görünümü anlatır; \"显得\" bir niteliğin belirgin biçimde \"görünmesini/hissettirmesini\", \"看起来\" genel dış izlenimi bildirir: 他显得很紧张 / 天看起来要下雨。",
+  "explanation": "\"显得\" ve \"看起来\" ikisi de bir şeyin nasıl GÖRÜNDÜĞÜNÜ anlatır ama farklıdırlar. \"显得\" (xiǎnde): bir öznenin, belli bir bağlam/karşılaştırma nedeniyle belirgin biçimde bir nitelik SERGİLEDİĞİNİ, o izlenimi VERDİĞİNİ bildirir — \"... görünmek, ... bir hâl almak, ...-lık sezdirmek\": 穿上这件衣服,她显得更年轻了 (Bu giysiyle daha genç görünüyor), 在大家面前他显得有些拘束 (Herkesin önünde biraz çekingen görünüyordu), 房间一收拾,显得宽敞多了 (Oda toplanınca çok daha ferah göründü). \"显得\"nin ardında MUTLAKA bir sıfat/nitelik gelir ve çoğu zaman bir NEDEN/karşılaştırma ima eder (bir şey yüzünden o nitelik ortaya çıkar/belirginleşir). \"看起来\" (kànqǐlai): daha genel bir DIŞ İZLENİMİ bildirir — \"... gibi görünmek, dıştan bakınca ...\": 他看起来很和善 (İyi huylu görünüyor), 这个问题看起来不难 (Bu soru zor görünmüyor). Farklar: (1) \"显得\" bir niteliğin bağlama bağlı olarak BELİRGİNLEŞMESİNİ vurgular (çoğu zaman \"...-den dolayı daha ... göründü\"); \"看起来\" salt dış izlenimi verir. (2) \"看起来\" bir tahmin/çıkarıma da kayabilir (看起来要下雨 = yağmur yağacak gibi); \"显得\" yalnız o anki görünen niteliği anlatır, geleceğe dair tahmin bildirmez. Türkçede ikisi de \"görünmek\" olur; \"显得\" bir niteliğin bağlamca belirginleşip \"öyle bir hâl aldığını\", \"看起来\" ise genel dış izlenimi anlatır.",
+  "examples": [
+   {
+    "zh": "换上这身正装以后,他整个人显得成熟稳重了许多。",
+    "pinyin": "Huàn shàng zhè shēn zhèng zhuāng yǐ hòu, tā zhěng gè rén xiǎn de chéng shú wěn zhòng le xǔ duō。",
+    "en": "In this formal wear, he looked much more mature and steady."
+   },
+   {
+    "zh": "这道题看起来很复杂,但只要冷静下来就能解开。",
+    "pinyin": "Zhè dào tí kàn qǐ lái hěn fù zá, dàn zhǐ yào lěng jìng xià lái jiù néng jiě kāi。",
+    "en": "The problem looks complex, but with a calm mind it's solvable."
+   },
+   {
+    "zh": "屋子重新粉刷了一遍,一下子显得亮堂了不少。",
+    "pinyin": "Wū zi chóng xīn fěn shuā le yī biàn, yī xià zi xiǎn de liàng táng le bù shǎo。",
+    "en": "Freshly repainted, the room looked much brighter at once."
+   },
+   {
+    "zh": "他今天穿得很随意,看起来一点也不像要去开会。",
+    "pinyin": "Tā jīn tiān chuān de hěn suí yì, kàn qǐ lái yì diǎn yě bù xiàng yào qù kāi huì。",
+    "en": "Dressed casually today, he didn't look like he'd attend a meeting."
+   },
+   {
+    "zh": "站在高大的哥哥身边,弟弟显得格外瘦小。",
+    "pinyin": "Zhàn zài gāo dà dī gē gē shēn biān, dì di xiǎn de gé wài shòu xiǎo。",
+    "en": "Beside his tall brother, the younger one looked especially small."
+   },
+   {
+    "zh": "这片湖水看起来很平静,水底其实暗流涌动。",
+    "pinyin": "Zhè piàn hú shuǐ kàn qǐ lái hěn píng jìng, shuǐ dǐ qí shí àn liú yǒng dòng。",
+    "en": "The lake looks calm, but hidden currents surge beneath."
+   },
+   {
+    "zh": "经他这么一打扮,原本朴素的房间显得温馨多了。",
+    "pinyin": "Jīng tā zhè me yī dǎ bàn, yuán běn pǔ sù de fáng jiān xiǎn de wēn xīn duō le。",
+    "en": "With his touch, the plain room looked much cozier."
+   },
+   {
+    "zh": "这些水果看起来很新鲜,想必是今天早上刚到的。",
+    "pinyin": "Zhè xiē shuǐ guǒ kàn qǐ lái hěn xīn xiān, xiǎng bì shì jīn tiān zǎo shàng gāng dào de。",
+    "en": "The fruit looks fresh; it must have arrived this morning."
+   },
+   {
+    "zh": "面对突如其来的提问,他显得有些手足无措。",
+    "pinyin": "Miàn duì tū rú qí lái de tí wèn, tā xiǎn de yǒu xiē shǒu zú wú cuò。",
+    "en": "At the sudden question, he looked a bit at a loss."
+   },
+   {
+    "zh": "从外表看起来,谁也想不到他已经七十岁了。",
+    "pinyin": "Cóng wài biǎo kàn qǐ lái, shuí yě xiǎng bú dào tā yǐ jīng qī shí suì le。",
+    "en": "By appearance, no one would guess he's already seventy."
+   },
+   {
+    "zh": "灯光一暗下来,整个房间顿时显得神秘而安静。",
+    "pinyin": "Dēng guāng yī àn xià lái, zhěng gè fáng jiān dùn shí xiǎn de shén mì ér ān jìng。",
+    "en": "As the lights dimmed, the room turned mysterious and quiet."
+   },
+   {
+    "zh": "他的伤看起来不重,可医生说还是得住院观察。",
+    "pinyin": "Tā de shāng kàn qǐ lái bù zhòng, kě yī shēng shuō hái shì de zhù yuàn guān chá。",
+    "en": "His injury looks minor, but the doctor says he must be observed."
+   },
+   {
+    "zh": "和去年相比,今年的他显得憔悴了不少。",
+    "pinyin": "Hé qù nián xiāng bǐ, jīn nián de tā xiǎn de qiáo cuì le bù shǎo。",
+    "en": "Compared with last year, he looked considerably more haggard."
+   },
+   {
+    "zh": "这条街到了晚上看起来冷冷清清,很少有行人。",
+    "pinyin": "Zhè tiáo jiē dào le wǎn shàng kàn qǐ lái lěng lěng qīng qīng, hěn shǎo yǒu xíng rén。",
+    "en": "At night the street looks deserted, with few passersby."
+   },
+   {
+    "zh": "穿上高跟鞋以后,她显得比平时高了一大截。",
+    "pinyin": "Chuān shàng gāo gēn xié yǐ hòu, tā xiǎn de bǐ píng shí gāo le yī dà jié。",
+    "en": "In high heels, she looked much taller than usual."
+   },
+   {
+    "zh": "远处的灯火看起来星星点点,像是撒了一地的碎钻。",
+    "pinyin": "Yuǎn chù de dēng huǒ kàn qǐ lái xīng xīng diǎn diǎn, xiàng shì sā le yī de de suì zuān。",
+    "en": "The distant lights look scattered like strewn diamonds."
+   },
+   {
+    "zh": "经过一夜的休息,他今天显得精神焕发。",
+    "pinyin": "Jīng guò yī yè de xiū xī, tā jīn tiān xiǎn de jīng shén huàn fā。",
+    "en": "After a night's rest, he looked full of vigor today."
+   },
+   {
+    "zh": "这个方案看起来面面俱到,执行起来却困难重重。",
+    "pinyin": "Zhè ge fāng àn kàn qǐ lái miàn miàn jù dào, zhí xíng qǐ lái què kùn nán chóng chóng。",
+    "en": "The plan looks all-encompassing but is riddled with difficulty."
+   },
+   {
+    "zh": "在一片翠绿的衬托下,那朵红花显得分外娇艳。",
+    "pinyin": "Zài yī piàn cuì lǜ de chèn tuō xià, nà duǒ hóng huā xiǎn de fèn wài jiāo yàn。",
+    "en": "Against the green, the red flower looked especially vivid."
+   },
+   {
+    "zh": "他说话的语气看起来很平静,其实内心并不平静。",
+    "pinyin": "Tā shuō huà de yǔ qì kàn qǐ lái hěn píng jìng, qí shí nèi xīn bìng bù píng jìng。",
+    "en": "His tone sounds calm, but inside he's anything but."
+   },
+   {
+    "zh": "空荡荡的大厅里,几件家具显得孤零零的。",
+    "pinyin": "Kōng dàng dàng de dà tīng lǐ, jǐ jiàn jiā jù xiǎn de gū líng líng de。",
+    "en": "In the empty hall, the few pieces of furniture looked forlorn."
+   },
+   {
+    "zh": "这本书看起来很厚,读起来却一点也不觉得枯燥。",
+    "pinyin": "Zhè běn shū kàn qǐ lái hěn hòu, dú qǐ lái què yì diǎn yě bù jué de kū zào。",
+    "en": "The book looks thick but isn't the least bit dull to read."
+   },
+   {
+    "zh": "刮了胡子、理了发,他显得比之前年轻了好几岁。",
+    "pinyin": "Guā le hú zi、 lǐ le fā, tā xiǎn de bǐ zhī qián nián qīng le hǎo jǐ suì。",
+    "en": "Shaved and with a haircut, he looked years younger."
+   },
+   {
+    "zh": "天边的晚霞看起来格外绚烂,把半边天都染红了。",
+    "pinyin": "Tiān biān de wǎn xiá kàn qǐ lái gé wài xuàn làn, bǎ bàn biān tiān dōu rǎn hóng le。",
+    "en": "The sunset glow looks brilliant, reddening half the sky."
+   },
+   {
+    "zh": "在众人的欢声笑语中,只有他一个人显得闷闷不乐。",
+    "pinyin": "Zài zhòng rén de huān shēng xiào yǔ zhōng, zhǐ yǒu tā yí gè rén xiǎn de mèn mèn bù lè。",
+    "en": "Amid the crowd's laughter, only he looked glum."
+   }
+  ]
  }
 ]

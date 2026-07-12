@@ -60654,5 +60654,685 @@
     "en": "Classmates unseen for years reunited by chance in a foreign land."
    }
   ]
+ },
+ {
+  "id": "g447",
+  "level": 5,
+  "title": "\"来着\" ile yakın geçmişi hatırlatma",
+  "titleEn": "Expressing that something has already happened with \"laizhe\"",
+  "pattern": "... Fiil/Cümle + 来着",
+  "summary": "\"来着\" yakın geçmişte olan bir şeyi hatırlatarak sorar/belirtir: 你刚才说什么来着? = Az önce ne diyordun (unuttum)?",
+  "explanation": "\"来着\" (láizhe) cümlenin SONUNA gelen konuşma diline özgü bir parçacıktır; YAKIN GEÇMİŞTE gerçekleşmiş bir durumu hatırlatarak belirtir ya da (çoğu zaman) hatırlamaya çalışırken sorar: \"...-yordu (ne oldu?), ...-mıştı hani, neydi ...\". İki yaygın kullanım. (1) Unutulan bir şeyi HATIRLAMAYA çalışan soru: 他叫什么名字来着? (Adı neydi hani?), 我们刚才说到哪儿来着? (Az önce nerede kalmıştık?), 你说你要买什么来着? (Ne alacağım demiştin?). (2) Yakın geçmişte olmuş bir şeyi BELİRTME: 我刚才还在这儿看书来着 (Az önce burada kitap okuyordum hani), 他昨天还好好的来着,怎么突然病了? (Dün gayet iyiydi hani, nasıl birden hastalandı?). \"来着\" yalnız yakın geçmişteki, konuşma anına yakın olaylar için kullanılır; uzak geçmiş ya da gelecek için kullanılmaz. Cümleye \"hani, ...-yordu, neydi\" gibi hatırlatıcı, gündelik bir ton katar. Olumsuz ya da gelecek cümlelerle gelmez; genellikle basit, tamamlanmış bir eylemi anar. Türkçedeki \"...-yordu hani, neydi ..., ...-mıştı ya\" (hatırlatma/hatırlamaya çalışma) ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你刚才跟我说的那个地址是什么来着?我又忘了。",
+    "pinyin": "Nǐ gāng cái gēn wǒ shuō de nà ge dì zhǐ shì shén me lái zhe? wǒ yòu wàng le。",
+    "en": "What was that address you told me? I forgot again."
+   },
+   {
+    "zh": "我们上次见面好像是在一家咖啡馆来着,对吧?",
+    "pinyin": "Wǒ men shàng cì jiàn miàn hǎo xiàng shì zài yī jiā kā fēi guǎn lái zhe, duì ba?",
+    "en": "Last time we met was at a café, wasn't it?"
+   },
+   {
+    "zh": "他叫什么名字来着?我一时怎么也想不起来了。",
+    "pinyin": "Tā jiào shén me míng zì lái zhe? wǒ yī shí zěn me yě xiǎng bù qǐ lái le。",
+    "en": "What was his name again? I just can't recall."
+   },
+   {
+    "zh": "我记得桌上还放着一把钥匙来着,怎么不见了?",
+    "pinyin": "Wǒ jì de zhuō shàng hái fàng zhe yī bǎ yào shi lái zhe, zěn me bú jiàn le?",
+    "en": "I remember a key was on the table; where did it go?"
+   },
+   {
+    "zh": "你说你老家是哪个城市来着?我记性真是越来越差。",
+    "pinyin": "Nǐ shuō nǐ lǎo jiā shì nǎ ge chéng shì lái zhe? wǒ jì xìng zhēn shì yuè lái yuè chà。",
+    "en": "Which city are you from again? My memory's really failing."
+   },
+   {
+    "zh": "刚才我们说到哪儿来着?被电话一打岔就断了思路。",
+    "pinyin": "Gāng cái wǒ men shuō dào nǎ ér lái zhe? bèi diàn huà yī dǎ chà jiù duàn le sī lù。",
+    "en": "Where were we? The call interrupted my train of thought."
+   },
+   {
+    "zh": "这道菜叫什么名字来着?味道我到现在还记得。",
+    "pinyin": "Zhè dào cài jiào shén me míng zì lái zhe? wèi dào wǒ dào xiàn zài hái jì de。",
+    "en": "What's this dish called again? I still remember its taste."
+   },
+   {
+    "zh": "他昨天还兴致勃勃地跟我聊来着,今天怎么没精神了?",
+    "pinyin": "Tā zuó tiān hái xìng zhì bó bó de gēn wǒ liáo lái zhe, jīn tiān zěn me méi jīng shén le?",
+    "en": "He chatted eagerly yesterday; why is he listless today?"
+   },
+   {
+    "zh": "你上周不是还说要去旅行来着,后来怎么样了?",
+    "pinyin": "Nǐ shàng zhōu bú shì hái shuō yào qù lǚ xíng lái zhe, hòu lái zěn me yàng le?",
+    "en": "Didn't you say last week you'd travel? How did that go?"
+   },
+   {
+    "zh": "我刚才明明把手机放在这儿来着,一转身就找不着了。",
+    "pinyin": "Wǒ gāng cái míng míng bǎ shǒu jī fàng zài zhè ér lái zhe, yī zhuǎn shēn jiù zhǎo bù zhe le。",
+    "en": "I clearly put my phone here just now, and now it's gone."
+   },
+   {
+    "zh": "那家店的老板姓什么来着?我们经常去光顾的那家。",
+    "pinyin": "Nà jiā diàn de lǎo bǎn xìng shén me lái zhe? wǒ men jīng cháng qù guāng gù de nà jiā。",
+    "en": "What was that shop owner's surname? The one we often visit."
+   },
+   {
+    "zh": "你说过要借给我的那本书叫什么来着?",
+    "pinyin": "Nǐ shuō guò yào jiè gěi wǒ de nà běn shū jiào shén me lái zhe?",
+    "en": "What was that book you said you'd lend me called?"
+   },
+   {
+    "zh": "我记得他家好像养了一只猫来着,是白色的吧?",
+    "pinyin": "Wǒ jì de tā jiā hǎo xiàng yǎng le yī zhī māo lái zhe, shì bái sè de ba?",
+    "en": "I recall his family had a cat — a white one, right?"
+   },
+   {
+    "zh": "刚才那位客人点的是什么饮料来着?我忘记记下来了。",
+    "pinyin": "Gāng cái nà wèi kè rén diǎn de shì shén me yǐn liào lái zhe? wǒ wàng jì jì xià lái le。",
+    "en": "What drink did that guest order? I forgot to note it."
+   },
+   {
+    "zh": "你上次推荐给我的那部电影叫什么名字来着?",
+    "pinyin": "Nǐ shàng cì tuī jiàn gěi wǒ de nà bù diàn yǐng jiào shén me míng zì lái zhe?",
+    "en": "What was that film you recommended to me called?"
+   },
+   {
+    "zh": "我们约的是几点见面来着?我怕自己记错了时间。",
+    "pinyin": "Wǒ men yuē de shì jǐ diǎn jiàn miàn lái zhe? wǒ pà zì jǐ jì cuò le shí jiān。",
+    "en": "What time did we agree to meet? I fear I got it wrong."
+   },
+   {
+    "zh": "他刚才还在这屋里坐着来着,一会儿工夫就不见了。",
+    "pinyin": "Tā gāng cái hái zài zhè wū lǐ zuò zhe lái zhe, yī huì er gōng fu jiù bú jiàn le。",
+    "en": "He was sitting in this room just now, gone in a moment."
+   },
+   {
+    "zh": "你说你小时候的梦想是当什么来着?我有点记不清了。",
+    "pinyin": "Nǐ shuō nǐ xiǎo shí hòu de mèng xiǎng shì dāng shén me lái zhe? wǒ yǒu diǎn jì bù qīng le。",
+    "en": "What did you say your childhood dream was? I forget a bit."
+   },
+   {
+    "zh": "那道题的答案是多少来着?我算完就给忘了。",
+    "pinyin": "Nà dào tí de dá àn shì duō shǎo lái zhe? wǒ suàn wán jiù gěi wàng le。",
+    "en": "What was the answer to that problem? I forgot right after."
+   },
+   {
+    "zh": "我们那天不是还在这儿拍过照来着,照片你还留着吗?",
+    "pinyin": "Wǒ men nà tiān bú shì hái zài zhè ér pāi guò zhào lái zhe, zhào piān nǐ hái liú zhe ma?",
+    "en": "Didn't we take a photo here that day? Do you still have it?"
+   },
+   {
+    "zh": "你刚才提到的那个建议挺好的,你说的是什么来着?",
+    "pinyin": "Nǐ gāng cái tí dào de nà ge jiàn yì tǐng hǎo de, nǐ shuō de shì shén me lái zhe?",
+    "en": "That suggestion you made was good; what was it again?"
+   },
+   {
+    "zh": "这条路我们好像走过来着,怎么感觉有点眼熟?",
+    "pinyin": "Zhè tiáo lù wǒ men hǎo xiàng zǒu guò lái zhe, zěn me gǎn jué yǒu diǎn yǎn shú?",
+    "en": "We seem to have walked this road; it looks familiar."
+   },
+   {
+    "zh": "他前几天还答应帮忙来着,怎么现在又反悔了?",
+    "pinyin": "Tā qián jǐ tiān hái dā yìng bāng máng lái zhe, zěn me xiàn zài yòu fǎn huǐ le?",
+    "en": "He agreed to help the other day; why back out now?"
+   },
+   {
+    "zh": "你不是说过最喜欢吃这种点心来着,快尝尝看。",
+    "pinyin": "Nǐ bú shì shuō guò zuì xǐ huān chī zhè zhǒng diǎn xīn lái zhe, kuài cháng cháng kàn。",
+    "en": "Didn't you say this snack was your favorite? Try it."
+   },
+   {
+    "zh": "我们班那位转学走的同学叫什么来着?好久没联系了。",
+    "pinyin": "Wǒ men bān nà wèi zhuǎn xué zǒu de tóng xué jiào shén me lái zhe? hǎo jiǔ méi lián xì le。",
+    "en": "What was the classmate who transferred called? Long out of touch."
+   }
+  ]
+ },
+ {
+  "id": "g448",
+  "level": 5,
+  "title": "\"以免\" ile \"...-mesin diye / önlemek için\"",
+  "titleEn": "\"In order to avoid\" with \"yimian\"",
+  "pattern": "..., 以免 + İstenmeyen durum",
+  "summary": "\"以免\" istenmeyen bir sonucu önlemek amacını bildirir: 早点出发,以免迟到 = Erken çık ki geç kalma.",
+  "explanation": "\"以免\" (yǐmiǎn) bir eylemin, İSTENMEYEN bir sonucu ÖNLEMEK amacıyla yapıldığını bildirir: \"...-mesin diye, ...-mekten kaçınmak için, ...-e meydan vermemek için, aksi hâlde ... olmasın diye\". Kalıp: (önlem eylemi)，以免 + istenmeyen durum. 你最好提前打个电话,以免白跑一趟 (Önceden telefon et ki boşuna gidip gelme), 请把贵重物品随身保管好,以免丢失 (Değerli eşyanı yanında tut ki kaybolmasın), 说话要注意分寸,以免伤了和气 (Konuşurken ölçülü ol ki dostluk zedelenmesin), 出门记得带伞,以免被雨淋湿 (Çıkarken şemsiye al ki yağmurda ıslanmayasın). \"以免\"den SONRA hep İSTENMEYEN, kaçınılmak istenen bir durum gelir (olumsuz sonuç). İlk cümle o kötü sonucu önlemeye yönelik bir tedbir/eylem içerir. \"免得\" ile eş anlamlıdır; \"以免\" biraz daha resmî/yazılıdır, \"免得\" konuşma dilinde yaygındır. Bir amaç bağlacıdır ama olumlu bir hedef değil, KAÇINILAN bir sonuç belirtir (bu yönüyle \"为了\"den ayrılır: 为了 olumlu hedef, 以免 kaçınılan sonuç). Türkçedeki \"...-mesin diye, ...-mekten kaçınmak için, ...-e meydan vermemek için\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你最好提前给他打个电话,以免到时候扑个空。",
+    "pinyin": "Nǐ zuì hǎo tí qián gěi tā dǎ gè diàn huà, yǐ miǎn dào shí hòu pū gè kōng。",
+    "en": "Better call him ahead, lest you make a wasted trip."
+   },
+   {
+    "zh": "请把重要的文件多备份几份,以免不小心丢失。",
+    "pinyin": "Qǐng bǎ zhòng yào de wén jiàn duō bèi fèn jǐ fèn, yǐ miǎn bù xiǎo xīn diū shī。",
+    "en": "Back up key files several times, lest they get lost."
+   },
+   {
+    "zh": "过马路时一定要看好红绿灯,以免发生危险。",
+    "pinyin": "Guò mǎ lù shí yí dìng yào kàn hǎo hóng lǜ dēng, yǐ miǎn fā shēng wēi xiǎn。",
+    "en": "Watch the lights when crossing, lest danger occur."
+   },
+   {
+    "zh": "说话前先想清楚,以免脱口而出伤了别人。",
+    "pinyin": "Shuō huà qián xiān xiǎng qīng chǔ, yǐ miǎn tuō kǒu ér chū shāng le bié rén。",
+    "en": "Think before speaking, lest a slip hurt someone."
+   },
+   {
+    "zh": "出门记得检查一下门窗,以免给小偷可乘之机。",
+    "pinyin": "Chū mén jì de jiǎn chá yī xià mén chuāng, yǐ miǎn gěi xiǎo tōu kě chéng zhī jī。",
+    "en": "Check doors and windows before leaving, lest thieves get a chance."
+   },
+   {
+    "zh": "你把用药的注意事项记下来,以免以后吃错了。",
+    "pinyin": "Nǐ bǎ yòng yào de zhù yì shì xiàng jì xià lái, yǐ miǎn yǐ hòu chī cuò le。",
+    "en": "Note the medicine instructions, lest you take it wrong later."
+   },
+   {
+    "zh": "天气预报说有雨,带把伞吧,以免半路淋湿。",
+    "pinyin": "Tiān qì yù bào shuō yǒu yǔ, dài bǎ sǎn ba, yǐ miǎn bàn lù lín shī。",
+    "en": "The forecast says rain; bring an umbrella, lest you get soaked."
+   },
+   {
+    "zh": "重要的约会最好设个闹钟提醒,以免睡过了头。",
+    "pinyin": "Zhòng yào de yuē huì zuì hǎo shè gè nào zhōng tí xǐng, yǐ miǎn shuì guò le tóu。",
+    "en": "Set an alarm for key appointments, lest you oversleep."
+   },
+   {
+    "zh": "借来的书要爱护好,以免弄脏或者弄丢了。",
+    "pinyin": "Jiè lái de shū yào ài hù hǎo, yǐ miǎn nòng zāng huò zhě nòng diū le。",
+    "en": "Care for borrowed books, lest they get dirty or lost."
+   },
+   {
+    "zh": "有什么想法当面说清楚,以免日后产生误会。",
+    "pinyin": "Yǒu shén me xiǎng fǎ dāng miàn shuō qīng chǔ, yǐ miǎn rì hòu chǎn shēng wù huì。",
+    "en": "Say your thoughts clearly in person, lest misunderstanding arise."
+   },
+   {
+    "zh": "这些药要放在孩子够不到的地方,以免误食。",
+    "pinyin": "Zhè xiē yào yào fàng zài hái zi gòu bú dào de dì fāng, yǐ miǎn wù shí。",
+    "en": "Keep the medicine out of children's reach, lest they swallow it."
+   },
+   {
+    "zh": "提前把路线查好,以免在陌生的地方迷了路。",
+    "pinyin": "Tí qián bǎ lù xiàn chá hǎo, yǐ miǎn zài mò shēng de dì fāng mí le lù。",
+    "en": "Check the route ahead, lest you get lost in a strange place."
+   },
+   {
+    "zh": "买东西记得保留发票,以免出了问题无法退换。",
+    "pinyin": "Mǎi dōng xī jì de bǎo liú fā piào, yǐ miǎn chū le wèn tí wú fǎ tuì huàn。",
+    "en": "Keep receipts when shopping, lest you can't return faulty goods."
+   },
+   {
+    "zh": "开会时手机调静音,以免铃声打扰到别人。",
+    "pinyin": "Kāi huì shí shǒu jī diào jìng yīn, yǐ miǎn líng shēng dǎ rǎo dào bié rén。",
+    "en": "Silence phones in meetings, lest the ring disturb others."
+   },
+   {
+    "zh": "这段话最好再核对一遍,以免出现事实上的错误。",
+    "pinyin": "Zhè duàn huà zuì hǎo zài hé duì yī biàn, yǐ miǎn chū xiàn shì shí shàng de cuò wù。",
+    "en": "Check this passage again, lest there be factual errors."
+   },
+   {
+    "zh": "干活的时候戴好手套,以免手被划伤。",
+    "pinyin": "Gàn huó de shí hòu dài hǎo shǒu tào, yǐ miǎn shǒu bèi huà shāng。",
+    "en": "Wear gloves while working, lest your hands get cut."
+   },
+   {
+    "zh": "你把地址和电话都记清楚,以免临时联系不上。",
+    "pinyin": "Nǐ bǎ dì zhǐ hé diàn huà dōu jì qīng chǔ, yǐ miǎn lín shí lián xì bù shàng。",
+    "en": "Note the address and number clearly, lest you can't reach them."
+   },
+   {
+    "zh": "剩下的饭菜要及时放进冰箱,以免坏掉。",
+    "pinyin": "Shèng xià de fàn cài yào jí shí fàng jìn bīng xiāng, yǐ miǎn huài diào。",
+    "en": "Refrigerate leftovers promptly, lest they spoil."
+   },
+   {
+    "zh": "答应别人之前要量力而行,以免到时候办不到。",
+    "pinyin": "Dā yìng bié rén zhī qián yào liàng lì ér xíng, yǐ miǎn dào shí hòu bàn bú dào。",
+    "en": "Gauge your ability before promising, lest you fail to deliver."
+   },
+   {
+    "zh": "下山时要走稳一点,以免脚下打滑摔倒。",
+    "pinyin": "Xià shān shí yào zǒu wěn yì diǎn, yǐ miǎn jiǎo xià dǎ huá shuāi dǎo。",
+    "en": "Walk steadily coming down, lest you slip and fall."
+   },
+   {
+    "zh": "把行程安排得宽松些,以免赶得太急出岔子。",
+    "pinyin": "Bǎ xíng chéng ān pái de kuān sōng xiē, yǐ miǎn gǎn de tài jí chū chà zi。",
+    "en": "Keep the schedule loose, lest rushing causes mishaps."
+   },
+   {
+    "zh": "这件事先跟家里人商量一下,以免以后后悔。",
+    "pinyin": "Zhè jiàn shì xiān gēn jiā lǐ rén shāng liáng yī xià, yǐ miǎn yǐ hòu hòu huǐ。",
+    "en": "Discuss it with family first, lest you regret it later."
+   },
+   {
+    "zh": "公共场合说话注意音量,以免影响到他人。",
+    "pinyin": "Gōng gòng chǎng hé shuō huà zhù yì yīn liàng, yǐ miǎn yǐng xiǎng dào tā rén。",
+    "en": "Mind your volume in public, lest you disturb others."
+   },
+   {
+    "zh": "把钱和证件分开放,以免一旦丢失全都没了。",
+    "pinyin": "Bǎ qián hé zhèng jiàn fēn kāi fàng, yǐ miǎn yí dàn diū shī quán dōu méi le。",
+    "en": "Keep money and papers apart, lest losing one loses all."
+   },
+   {
+    "zh": "出发前再确认一遍时间,以免记错了耽误行程。",
+    "pinyin": "Chū fā qián zài què rèn yī biàn shí jiān, yǐ miǎn jì cuò le dān wù xíng chéng。",
+    "en": "Confirm the time before leaving, lest an error delay the trip."
+   }
+  ]
+ },
+ {
+  "id": "g449",
+  "level": 5,
+  "title": "\"以及\" ile \"ve ayrıca / ile birlikte\"",
+  "titleEn": "Expressing \"as well as\" with \"yiji\"",
+  "pattern": "A、B 以及 C",
+  "summary": "\"以及\" öğeleri (çoğu zaman ikincil olanları) bağlar: 桌上有书、笔以及一些文件 = Masada kitap, kalem ve ayrıca bazı belgeler var.",
+  "explanation": "\"以及\" (yǐjí) sözcükleri, öbekleri ya da cümlecikleri bağlayan resmî bir bağlaçtır: \"ve, ile birlikte, ve ayrıca, ...-in yanı sıra\". Genellikle bir listenin SONUNDA, daha önce sıralanan ana öğelere EK/ikincil öğe(ler) katmak için kullanılır: 会议讨论了预算、人事以及其他几个问题 (Toplantı bütçe, personel ve ayrıca birkaç konuyu görüştü), 参加者有老师、学生以及部分家长 (Katılanlar öğretmenler, öğrenciler ve ayrıca bazı velilerdi), 这本书介绍了中国的历史、文化以及风土人情 (Bu kitap Çin'in tarihini, kültürünü ve ayrıca örf âdetlerini tanıtır). \"以及\" bağladığı öğeler arasında çoğu zaman bir ÖNEM/öncelik sırası ima eder — \"以及\"den önce gelenler daha ana, sonra gelenler ikincil/ek olur; bu yönüyle eşdeğer öğeleri bağlayan \"和\"dan ince biçimde ayrılır. Hem isimleri hem eylemleri/cümlecikleri bağlayabilir. Resmî/yazılı dile özgüdür; günlük konuşmada \"和/还有\" yeğlenir. Türkçedeki \"ve, ile birlikte, ve ayrıca, ...-in yanı sıra\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这次会议主要讨论了预算、人事以及明年的发展规划。",
+    "pinyin": "Zhè cì huì yì zhǔ yào tǎo lùn le yù suàn、 rén shì yǐ jí míng nián de fā zhǎn guī huà。",
+    "en": "The meeting mainly discussed budget, personnel, and next year's plans."
+   },
+   {
+    "zh": "参加这次活动的有老师、学生以及部分学生家长。",
+    "pinyin": "Cān jiā zhè cì huó dòng de yǒu lǎo shī、 xué shēng yǐ jí bù fèn xué shēng jiā zhǎng。",
+    "en": "Teachers, students, and some parents attended the event."
+   },
+   {
+    "zh": "这本书详细介绍了这座城市的历史、文化以及风土人情。",
+    "pinyin": "Zhè běn shū xiáng xì jiè shào le zhè zuò chéng shì de lì shǐ、 wén huà yǐ jí fēng tǔ rén qíng。",
+    "en": "The book details the city's history, culture, and local customs."
+   },
+   {
+    "zh": "请带上身份证、照片以及相关的证明材料。",
+    "pinyin": "Qǐng dài shàng shēn fèn zhèng、 zhào piān yǐ jí xiāng guān de zhèng míng cái liào。",
+    "en": "Please bring your ID, photos, and relevant supporting documents."
+   },
+   {
+    "zh": "展览展出了绘画、书法以及各种精美的手工艺品。",
+    "pinyin": "Zhǎn lǎn zhǎn chū le huì huà、 shū fǎ yǐ jí gè zhǒng jīng měi de shǒu gōng yì pǐn。",
+    "en": "The exhibition showed paintings, calligraphy, and fine handicrafts."
+   },
+   {
+    "zh": "他的成功离不开自身的努力以及家人的默默支持。",
+    "pinyin": "Tā de chéng gōng lí bù kāi zì shēn de nǔ lì yǐ jí jiā rén de mò mò zhī chí。",
+    "en": "His success owes to his own effort and his family's quiet support."
+   },
+   {
+    "zh": "超市里蔬菜、水果以及各类日用品应有尽有。",
+    "pinyin": "Chāo shì lǐ shū cài、 shuǐ guǒ yǐ jí gè lèi rì yòng pǐn yīng yǒu jìn yǒu。",
+    "en": "The market has vegetables, fruit, and all kinds of daily goods."
+   },
+   {
+    "zh": "这份报告分析了问题的成因、影响以及可能的对策。",
+    "pinyin": "Zhè fèn bào gào fēn xī le wèn tí de chéng yīn、 yǐng xiǎng yǐ jí kě néng de duì cè。",
+    "en": "The report analyzes the causes, impact, and possible solutions."
+   },
+   {
+    "zh": "旅行前要准备好衣物、药品以及必要的证件。",
+    "pinyin": "Lǚ xíng qián yào zhǔn bèi hǎo yī wù、 yào pǐn yǐ jí bì yào de zhèng jiàn。",
+    "en": "Before travel, prepare clothing, medicine, and needed documents."
+   },
+   {
+    "zh": "他精通英语、法语以及一点儿西班牙语。",
+    "pinyin": "Tā jīng tōng yīng yǔ、 fǎ yǔ yǐ jí yì diǎn ér xī bān yá yǔ。",
+    "en": "He is fluent in English, French, and a bit of Spanish."
+   },
+   {
+    "zh": "这项工程涉及道路、桥梁以及周边的绿化改造。",
+    "pinyin": "Zhè xiàng gōng chéng shè jí dào lù、 qiáo liáng yǐ jí zhōu biān de lǜ huà gǎi zào。",
+    "en": "The project covers roads, bridges, and nearby greening work."
+   },
+   {
+    "zh": "晚会上有歌唱、舞蹈以及精彩的小品表演。",
+    "pinyin": "Wǎn huì shàng yǒu gē chàng、 wǔ dǎo yǐ jí jīng cǎi de xiǎo pǐn biǎo yǎn。",
+    "en": "The gala featured singing, dancing, and delightful skits."
+   },
+   {
+    "zh": "他把书桌、书架以及满屋的书都收拾得井井有条。",
+    "pinyin": "Tā bǎ shū zhuō、 shū jià yǐ jí mǎn wū de shū dōu shōu shí de jǐng jǐng yǒu tiáo。",
+    "en": "He kept the desk, shelves, and all the books neatly arranged."
+   },
+   {
+    "zh": "这道菜需要用到葱、姜、蒜以及几种特别的香料。",
+    "pinyin": "Zhè dào cài xū yào yòng dào cōng、 jiāng、 suàn yǐ jí jǐ zhǒng tè bié de xiāng liào。",
+    "en": "The dish needs scallion, ginger, garlic, and some special spices."
+   },
+   {
+    "zh": "公司为员工提供了培训、住宿以及各种福利保障。",
+    "pinyin": "Gōng sī wèi yuán gōng tí gōng le péi xùn、 zhù sù yǐ jí gè zhǒng fú lì bǎo zhàng。",
+    "en": "The firm offers staff training, housing, and various benefits."
+   },
+   {
+    "zh": "这次考试涵盖了听力、阅读以及写作三个部分。",
+    "pinyin": "Zhè cì kǎo shì hán gài le tīng lì、 yuè dú yǐ jí xiě zuò sān gè bù fèn。",
+    "en": "The exam covers listening, reading, and writing in three parts."
+   },
+   {
+    "zh": "他向大家介绍了项目的背景、目标以及具体的实施步骤。",
+    "pinyin": "Tā xiàng dà jiā jiè shào le xiàng mù dì bèi jǐng、 mù biāo yǐ jí jù tǐ de shí shī bù zhòu。",
+    "en": "He introduced the project's background, goals, and steps."
+   },
+   {
+    "zh": "图书馆里有文学、历史以及各种专业的参考书籍。",
+    "pinyin": "Tú shū guǎn lǐ yǒu wén xué、 lì shǐ yǐ jí gè zhǒng zhuān yè de cān kǎo shū jí。",
+    "en": "The library holds literature, history, and various reference books."
+   },
+   {
+    "zh": "要想身体好,合理的饮食、充足的睡眠以及适当的运动缺一不可。",
+    "pinyin": "Yào xiǎng shēn tǐ hǎo, hé lǐ de yǐn shí、 chōng zú de shuì mián yǐ jí shì dàng de yùn dòng quē yī bù kě。",
+    "en": "For health, sensible diet, ample sleep, and exercise are all vital."
+   },
+   {
+    "zh": "这幅画描绘了远山、近水以及岸边悠然垂钓的老人。",
+    "pinyin": "Zhè fú huà miáo huì le yuǎn shān、 jìn shuǐ yǐ jí àn biān yōu rán chuí diào de lǎo rén。",
+    "en": "The painting shows distant hills, near water, and an angler by the shore."
+   },
+   {
+    "zh": "公园里种着松树、柳树以及各种叫不出名字的花草。",
+    "pinyin": "Gōng yuán lǐ zhǒng zhe sōng shù、 liǔ shù yǐ jí gè zhǒng jiào bù chū míng zì de huā cǎo。",
+    "en": "The park has pines, willows, and countless unnamed plants."
+   },
+   {
+    "zh": "他的演讲赢得了同事、领导以及在场所有人的掌声。",
+    "pinyin": "Tā de yǎn jiǎng yíng de le tóng shì、 lǐng dǎo yǐ jí zài chǎng suǒ yǒu rén de zhǎng shēng。",
+    "en": "His speech won applause from colleagues, leaders, and all present."
+   },
+   {
+    "zh": "这次改革涉及制度、流程以及员工观念的方方面面。",
+    "pinyin": "Zhè cì gǎi gé shè jí zhì dù、 liú chéng yǐ jí yuán gōng guān niàn de fāng fāng miàn miàn。",
+    "en": "The reform touches systems, processes, and staff mindset."
+   },
+   {
+    "zh": "桌上摆着水果、点心以及主人亲手泡的一壶好茶。",
+    "pinyin": "Zhuō shàng bǎi zhe shuǐ guǒ、 diǎn xīn yǐ jí zhǔ rén qīn shǒu pào de yī hú hǎo chá。",
+    "en": "On the table were fruit, snacks, and a fine pot of tea by the host."
+   },
+   {
+    "zh": "这份合同明确了双方的权利、义务以及违约的责任。",
+    "pinyin": "Zhè fèn hé tóng míng què le shuāng fāng de quán lì、 yì wù yǐ jí wéi yuē de zé rèn。",
+    "en": "The contract sets out both parties' rights, duties, and breach liability."
+   }
+  ]
+ },
+ {
+  "id": "g450",
+  "level": 5,
+  "title": "\"总之\" ile \"kısacası / sözün özü\"",
+  "titleEn": "Expressing \"in short\" with \"zongzhi\"",
+  "pattern": "..., 总之，...",
+  "summary": "\"总之\" öncekileri özetleyip bir sonuç çıkarır: 总之,这件事必须马上解决 = Kısacası, bu iş hemen çözülmeli.",
+  "explanation": "\"总之\" (zǒngzhī) daha önce söylenenleri ÖZETLEYİP bir sonuç/genel yargı bildirir: \"kısacası, sözün özü, özetle, velhasıl, her hâlükârda, uzun lafın kısası\". İkinci/sonuç cümlesinin başında gelir. İki kullanımı vardır. (1) Sıralanan ayrıntıları TOPARLAYIP özet/sonuç: 又要照顾孩子,又要忙工作,还要操心家里,总之她一刻也闲不下来 (Hem çocuğa bakacak hem işle uğraşacak hem eve kaygılanacak, kısacası bir an bile boş kalmıyor), 这个地方风景美、气候好、人也热情,总之非常适合养老 (Manzarası güzel, iklimi iyi, insanları da sıcak; kısacası emeklilik için çok uygun). (2) Ayrıntıya girmeden bir sonucu KESİN biçimde belirtme: 不管你信不信,总之事情就是这样 (İster inan ister inanma, sözün özü durum böyle), 总之,这件事你就交给我吧 (Her hâlükârda, bu işi bana bırak). \"总之\" ayrıntıları geride bırakıp özü/vargıyı öne çıkarır; çoğu zaman bir konuşmayı ya da paragrafı toparlar. \"总而言之\" daha resmî biçimidir; \"反正\" konuşma dilindeki yakın karşılığıdır. Türkçedeki \"kısacası, sözün özü, özetle, velhasıl, her hâlükârda\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这里环境优美,交通方便,邻里也和睦,总之非常适合居住。",
+    "pinyin": "Zhè lǐ huán jìng yōu měi, jiāo tōng fāng biàn, lín lǐ yě hé mù, zǒng zhī fēi cháng shì hé jū zhù。",
+    "en": "It's scenic, convenient, and neighborly — in short, a great place to live."
+   },
+   {
+    "zh": "又要加班,又要照顾家里,总之他最近忙得脚不沾地。",
+    "pinyin": "Yòu yào jiā bān, yòu yào zhào gù jiā lǐ, zǒng zhī tā zuì jìn máng de jiǎo bù zhān de。",
+    "en": "Overtime and family to mind — in short, he's been terribly busy."
+   },
+   {
+    "zh": "不管过程多么曲折,总之最后的结果还是令人满意的。",
+    "pinyin": "Bù guǎn guò chéng duō me qū zhé, zǒng zhī zuì hòu de jié guǒ hái shì lìng rén mǎn yì de。",
+    "en": "However winding the process, in short the result was satisfying."
+   },
+   {
+    "zh": "他有时严厉,有时温和,总之是一位难得的好老师。",
+    "pinyin": "Tā yǒu shí yán lì, yǒu shí wēn hé, zǒng zhī shì yī wèi nán de de hǎo lǎo shī。",
+    "en": "Stern at times, gentle at others — in short, a rare fine teacher."
+   },
+   {
+    "zh": "菜、汤、主食都准备好了,总之今晚的年夜饭很丰盛。",
+    "pinyin": "Cài、 tāng、 zhǔ shí dōu zhǔn bèi hǎo le, zǒng zhī jīn wǎn de nián yè fàn hěn fēng shèng。",
+    "en": "Dishes, soup, staples all ready — in short, a lavish New Year's feast."
+   },
+   {
+    "zh": "这件事说来话长,总之你放心,我一定替你办妥。",
+    "pinyin": "Zhè jiàn shì shuō lái huà cháng, zǒng zhī nǐ fàng xīn, wǒ yí dìng tì nǐ bàn tuǒ。",
+    "en": "It's a long story; in short, rest assured I'll get it done."
+   },
+   {
+    "zh": "下雨、堵车、又忘带伞,总之今天真是诸事不顺。",
+    "pinyin": "Xià yǔ、 dǔ chē、 yòu wàng dài sǎn, zǒng zhī jīn tiān zhēn shì zhū shì bù shùn。",
+    "en": "Rain, traffic, no umbrella — in short, everything went wrong today."
+   },
+   {
+    "zh": "不管别人怎么说,总之我是相信他的为人的。",
+    "pinyin": "Bù guǎn bié rén zěn me shuō, zǒng zhī wǒ shì xiāng xìn tā de wéi rén de。",
+    "en": "Whatever others say, in short I trust his character."
+   },
+   {
+    "zh": "这本书内容丰富、语言生动,总之很值得一读。",
+    "pinyin": "Zhè běn shū nèi róng fēng fù、 yǔ yán shēng dòng, zǒng zhī hěn zhí de yī dú。",
+    "en": "Rich and vivid — in short, the book is well worth reading."
+   },
+   {
+    "zh": "他会画画,会写字,还会做手工,总之心灵手巧。",
+    "pinyin": "Tā huì huà huà, huì xiě zì, hái huì zuò shǒu gōng, zǒng zhī xīn líng shǒu qiǎo。",
+    "en": "He paints, writes, and crafts — in short, deft and clever."
+   },
+   {
+    "zh": "时间、地点、人物都要交代清楚,总之细节不能马虎。",
+    "pinyin": "Shí jiān、 dì diǎn、 rén wù dōu yào jiāo dài qīng chǔ, zǒng zhī xì jié bù néng mǎ hǔ。",
+    "en": "Time, place, people must be clear — in short, mind the details."
+   },
+   {
+    "zh": "无论花多少钱、费多少力,总之要把这件事办成。",
+    "pinyin": "Wú lùn huā duō shǎo qián、 fèi duō shǎo lì, zǒng zhī yào bǎ zhè jiàn shì bàn chéng。",
+    "en": "However much money or effort — in short, this must get done."
+   },
+   {
+    "zh": "他跑前跑后,又是联系又是安排,总之出了不少力。",
+    "pinyin": "Tā pǎo qián pǎo hòu, yòu shì lián xì yòu shì ān pái, zǒng zhī chū le bù shǎo lì。",
+    "en": "Running about, contacting, arranging — in short, he did a lot."
+   },
+   {
+    "zh": "这几天忽冷忽热,总之天气实在让人捉摸不定。",
+    "pinyin": "Zhè jǐ tiān hū lěng hū rè, zǒng zhī tiān qì shí zài ràng rén zhuō mō bù dìng。",
+    "en": "Hot then cold these days — in short, the weather's unpredictable."
+   },
+   {
+    "zh": "不管你今天有多累,总之这份报告必须完成。",
+    "pinyin": "Bù guǎn nǐ jīn tiān yǒu duō lèi, zǒng zhī zhè fèn bào gào bì xū wán chéng。",
+    "en": "However tired you are, in short this report must be finished."
+   },
+   {
+    "zh": "它既好养活,又开得漂亮,总之是种很省心的花。",
+    "pinyin": "Tā jì hǎo yǎng huó, yòu kāi de piào liàng, zǒng zhī shì zhǒng hěn shěng xīn de huā。",
+    "en": "Easy to keep and pretty — in short, a worry-free flower."
+   },
+   {
+    "zh": "有人赞成,有人反对,总之大家的意见并不统一。",
+    "pinyin": "Yǒu rén zàn chéng, yǒu rén fǎn duì, zǒng zhī dà jiā de yì jiàn bìng bù tǒng yī。",
+    "en": "Some for, some against — in short, opinions weren't united."
+   },
+   {
+    "zh": "他学识渊博,待人又谦和,总之令人由衷敬佩。",
+    "pinyin": "Tā xué shí yuān bó, dài rén yòu qiān hé, zǒng zhī lìng rén yóu zhōng jìng pèi。",
+    "en": "Learned and gentle — in short, truly admirable."
+   },
+   {
+    "zh": "准备、排练、布置样样都做了,总之为这次演出费尽了心思。",
+    "pinyin": "Zhǔn bèi、 pái liàn、 bù zhì yàng yàng dōu zuò le, zǒng zhī wèi zhè cì yǎn chū fèi jǐn le xīn sī。",
+    "en": "Prep, rehearsal, setup all done — in short, great pains for the show."
+   },
+   {
+    "zh": "不管遇到多大的困难,总之我们绝不会轻易放弃。",
+    "pinyin": "Bù guǎn yù dào duō dà de kùn nán, zǒng zhī wǒ men jué bú huì qīng yì fàng qì。",
+    "en": "However great the difficulty, in short we won't give up."
+   },
+   {
+    "zh": "这道菜色、香、味俱全,总之让人食欲大开。",
+    "pinyin": "Zhè dào cài sè、 xiāng、 wèi jù quán, zǒng zhī ràng rén shí yù dà kāi。",
+    "en": "Great color, aroma, taste — in short, it whets the appetite."
+   },
+   {
+    "zh": "他一会儿说东,一会儿说西,总之没个准主意。",
+    "pinyin": "Tā yī huì er shuō dōng, yī huì er shuō xī, zǒng zhī méi gè zhǔn zhǔ yì。",
+    "en": "He says this then that — in short, he has no firm plan."
+   },
+   {
+    "zh": "路远、天热、还带着行李,总之这趟出行相当辛苦。",
+    "pinyin": "Lù yuǎn、 tiān rè、 hái dài zhe xíng lǐ, zǒng zhī zhè tàng chū xíng xiāng dāng xīn kǔ。",
+    "en": "Far, hot, and laden — in short, a rather grueling trip."
+   },
+   {
+    "zh": "无论从哪个角度看,总之这都是一个明智的决定。",
+    "pinyin": "Wú lùn cóng nǎ ge jiǎo dù kàn, zǒng zhī zhè dōu shì yí gè míng zhì de jué dìng。",
+    "en": "From any angle, in short it's a wise decision."
+   },
+   {
+    "zh": "他的优点很多,缺点也有一些,总之是个真实可爱的人。",
+    "pinyin": "Tā de yōu diǎn hěn duō, quē diǎn yě yǒu yī xiē, zǒng zhī shì gè zhēn shí kě ài de rén。",
+    "en": "Many virtues, some flaws — in short, a genuine, likable person."
+   }
+  ]
+ },
+ {
+  "id": "g451",
+  "level": 5,
+  "title": "\"则\" ile karşıtlık kurma (buna karşılık)",
+  "titleEn": "Indicating contrast with \"ze\"",
+  "pattern": "A ...，B 则 ...",
+  "summary": "\"则\" iki durumu karşılaştırır: 哥哥喜欢运动,弟弟则爱看书 = Abi sporu sever, kardeş ise okumayı.",
+  "explanation": "\"则\" (zé) resmî/yazılı dilde iki durumu KARŞILAŞTIRARAK aralarındaki farkı/karşıtlığı vurgular: \"ise, buna karşılık, oysa, ...-e gelince ise\". Kalıp: A 是这样，B 则 是那样 (ikinci öznenin ardından, yüklemden önce gelir). 城市里高楼林立,乡村则一片田园风光 (Şehir gökdelenlerle dolu, kırsal ise baştan başa kır manzarası), 姐姐性格外向,妹妹则文静内向 (Abla dışa dönük, kız kardeş ise sessiz ve içine kapanık), 有人赞成,有人则坚决反对 (Kimi yana, kimi ise kesin karşı). \"则\" iki tarafı KARŞITLIK içinde kurar; ikinci öğenin öznesinin ardından, yüklemin önünde durur ve \"buna karşılık, ise\" anlamı katar. \"而\" ile yakındır ama \"则\" özellikle iki durumun paralel karşıtlığını (birbirinden farklı iki hâli) vurgulamada doğaldır ve daha resmîdir. Ayrıca \"则\" \"...-diğinde ise\" biçiminde koşul-sonuç da kurabilir (用之则行,舍之则藏). Konuşma dilinde bunun yerine genellikle art arda \"..., ...\" ya da \"而\" kullanılır; \"则\" yazı diline özgüdür. Türkçedeki \"ise, buna karşılık, oysa, ...-e gelince ise\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "哥哥性格活泼好动,弟弟则安静内向,喜欢一个人看书。",
+    "pinyin": "Gē gē xìng gé huó pō hào dòng, dì di zé ān jìng nèi xiàng, xǐ huān yí gè rén kàn shū。",
+    "en": "The elder brother is lively, while the younger is quiet and bookish."
+   },
+   {
+    "zh": "白天这里游人如织,到了夜晚则安静得能听见虫鸣。",
+    "pinyin": "Bái tiān zhè lǐ yóu rén rú zhī, dào le yè wǎn zé ān jìng de néng tīng jiàn chóng míng。",
+    "en": "By day it teems with tourists; by night it's quiet enough to hear crickets."
+   },
+   {
+    "zh": "南方的冬天温暖湿润,北方则寒冷干燥,差别很大。",
+    "pinyin": "Nán fāng de dōng tiān wēn nuǎn shī rùn, běi fāng zé hán lěng gān zào, chā bié hěn dà。",
+    "en": "Southern winters are mild and humid; northern ones cold and dry."
+   },
+   {
+    "zh": "有的人喜欢热闹,有的人则偏爱独处的宁静。",
+    "pinyin": "Yǒu de rén xǐ huān rè nào, yǒu de rén zé piān ài dú chǔ de níng jìng。",
+    "en": "Some love the bustle; others prefer the quiet of solitude."
+   },
+   {
+    "zh": "这道题的前半部分很简单,后半部分则相当有难度。",
+    "pinyin": "Zhè dào tí de qián bàn bù fèn hěn jiǎn dān, hòu bàn bù fèn zé xiāng dāng yǒu nán dù。",
+    "en": "The first half of the problem is easy; the latter quite hard."
+   },
+   {
+    "zh": "城里的生活方便快捷,乡下则更贴近自然、悠闲自在。",
+    "pinyin": "Chéng lǐ de shēng huó fāng biàn kuài jié, xiāng xià zé gèng tiē jìn zì rán、 yōu xián zì zài。",
+    "en": "City life is convenient; country life closer to nature and leisurely."
+   },
+   {
+    "zh": "他做事雷厉风行,而他的搭档则沉稳细致,两人正好互补。",
+    "pinyin": "Tā zuò shì léi lì fēng xíng, ér tā de dā dàng zé chén wěn xì zhì, liǎng rén zhèng hǎo hù bǔ。",
+    "en": "He acts decisively; his partner is steady and careful — a good match."
+   },
+   {
+    "zh": "这本书前几章通俗易懂,后几章则专业性较强。",
+    "pinyin": "Zhè běn shū qián jǐ zhāng tōng sú yì dǒng, hòu jǐ zhāng zé zhuān yè xìng jiào qiáng。",
+    "en": "The book's early chapters are accessible; the later ones technical."
+   },
+   {
+    "zh": "有人把困难看作阻碍,有人则把它当成成长的机会。",
+    "pinyin": "Yǒu rén bǎ kùn nán kàn zuò zǔ ài, yǒu rén zé bǎ tā dàng chéng chéng zhǎng de jī huì。",
+    "en": "Some see difficulty as a barrier; others as a chance to grow."
+   },
+   {
+    "zh": "姐姐擅长文科,妹妹则在理科方面很有天赋。",
+    "pinyin": "Jiě jiě shàn cháng wén kē, mèi mèi zé zài lǐ kē fāng miàn hěn yǒu tiān fù。",
+    "en": "The elder sister excels in arts; the younger in sciences."
+   },
+   {
+    "zh": "上半场比赛势均力敌,下半场则被对手逐渐拉开了比分。",
+    "pinyin": "Shàng bàn chǎng bǐ sài shì jūn lì dí, xià bàn chǎng zé bèi duì shǒu zhú jiàn lā kāi le bǐ fēn。",
+    "en": "The first half was even; in the second the rival pulled ahead."
+   },
+   {
+    "zh": "有的地方连年干旱,有的地方则饱受洪涝之苦。",
+    "pinyin": "Yǒu de dì fāng lián nián gān hàn, yǒu de dì fāng zé bǎo shòu hóng lào zhī kǔ。",
+    "en": "Some regions suffer drought; others floods."
+   },
+   {
+    "zh": "这种做法短期内省事,长远来看则可能埋下隐患。",
+    "pinyin": "Zhè zhǒng zuò fǎ duǎn qī nèi xǐng shì, cháng yuǎn lái kàn zé kě néng mái xià yǐn huàn。",
+    "en": "This is handy short-term but may sow long-term hazards."
+   },
+   {
+    "zh": "父亲主张严格管教,母亲则倾向于耐心引导。",
+    "pinyin": "Fù qīn zhǔ zhāng yán gé guǎn jiào, mǔ qīn zé qīng xiàng yú nài xīn yǐn dǎo。",
+    "en": "Father favors strict discipline; mother patient guidance."
+   },
+   {
+    "zh": "表面上他风平浪静,内心则早已波涛汹涌。",
+    "pinyin": "Biǎo miàn shàng tā fēng píng làng jìng, nèi xīn zé zǎo yǐ bō tāo xiōng yǒng。",
+    "en": "On the surface he's calm; inside, a storm rages."
+   },
+   {
+    "zh": "这幅画近看笔触粗犷,远观则意境深远。",
+    "pinyin": "Zhè fú huà jìn kàn bǐ chù cū guǎng, yuǎn guān zé yì jìng shēn yuǎn。",
+    "en": "Up close the brushwork is bold; from afar the mood is profound."
+   },
+   {
+    "zh": "年轻时他四处漂泊,年老之后则渴望安定的生活。",
+    "pinyin": "Nián qīng shí tā sì chù piāo bó, nián lǎo zhī hòu zé kě wàng ān dìng de shēng huó。",
+    "en": "In youth he wandered; in age he yearned for a settled life."
+   },
+   {
+    "zh": "有的顾客注重价格,有的顾客则更看重质量和服务。",
+    "pinyin": "Yǒu de gù kè zhù zhòng jià gé, yǒu de gù kè zé gèng kàn zhòng zhì liàng hé fú wù。",
+    "en": "Some customers mind price; others quality and service."
+   },
+   {
+    "zh": "平原地区适合种植小麦,山区则更适合发展林果业。",
+    "pinyin": "Píng yuán dì qū shì hé zhòng zhí xiǎo mài, shān qū zé gèng shì hé fā zhǎn lín guǒ yè。",
+    "en": "Plains suit wheat; hills suit forestry and fruit."
+   },
+   {
+    "zh": "这个方案成本较高,那个方案则见效较慢,各有利弊。",
+    "pinyin": "Zhè ge fāng àn chéng běn jiào gāo, nà ge fāng àn zé jiàn xiào jiào màn, gè yǒu lì bì。",
+    "en": "This plan costs more; that works slower — each has trade-offs."
+   },
+   {
+    "zh": "他白天忙于工作,晚上则埋头读书,过得十分充实。",
+    "pinyin": "Tā bái tiān máng yú gōng zuò, wǎn shàng zé mái tóu dú shū, guò de shí fēn chōng shí。",
+    "en": "By day he works; by night he buries himself in books — a full life."
+   },
+   {
+    "zh": "对乐观的人而言是机遇,对悲观的人而言则是灾难。",
+    "pinyin": "Duì lè guān de rén ér yán shì jī yù, duì bēi guān de rén ér yán zé shì zāi nàn。",
+    "en": "To optimists it's opportunity; to pessimists, disaster."
+   },
+   {
+    "zh": "这条路虽然近,却坑洼不平;那条路则平坦但绕远。",
+    "pinyin": "Zhè tiáo lù suī rán jìn, què kēng wā bù píng; nà tiáo lù zé píng tǎn dàn rào yuǎn。",
+    "en": "This road is short but bumpy; that one smooth but longer."
+   },
+   {
+    "zh": "有的学生靠死记硬背,有的学生则善于理解和归纳。",
+    "pinyin": "Yǒu de xué shēng kào sǐ jì yìng bèi, yǒu de xué shēng zé shàn yú lǐ jiě hé guī nà。",
+    "en": "Some students cram; others understand and summarize well."
+   },
+   {
+    "zh": "上一代人崇尚节俭,新一代则更注重生活的品质。",
+    "pinyin": "Shàng yí dài rén chóng shàng jié jiǎn, xīn yí dài zé gèng zhù zhòng shēng huó de pǐn zhì。",
+    "en": "The older generation prized thrift; the new values quality of life."
+   }
+  ]
  }
 ]

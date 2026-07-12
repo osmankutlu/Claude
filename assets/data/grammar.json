@@ -66774,5 +66774,821 @@
     "en": "Any judgment should rest on facts, not on feelings."
    }
   ]
+ },
+ {
+  "id": "g492",
+  "level": 5,
+  "title": "\"恢复\" ile \"还原\" farkı",
+  "titleEn": "Comparing \"huifu\" and \"huanyuan\"",
+  "pattern": "恢复 (eski hâline dönmek/getirmek) / 还原 (aslına/orijinaline döndürmek)",
+  "summary": "\"恢复\" bir durumun/işlevin eski hâline dönmesini, \"还原\" bir şeyin özgün/gerçek hâline getirilmesini bildirir: 身体恢复了 / 还原事实真相。",
+  "explanation": "\"恢复\" ve \"还原\" ikisi de \"eski hâline dönmek/döndürmek\" anlamı taşır ama farklıdırlar. \"恢复\" (huīfù): bir DURUMUN, işlevin, sağlığın ya da düzenin eski/normal hâline GERİ DÖNMESİNİ ya da döndürülmesini bildirir — geniş ve yaygın kullanımlıdır: 他的身体已经完全恢复了 (Sağlığı tamamen düzeldi), 通信中断后又恢复了正常 (İletişim kesildikten sonra normale döndü), 恢复体力/健康/秩序/名誉/联系 (gücü/sağlığı/düzeni/itibarı/bağlantıyı geri kazanmak). Hem geçişli (bir şeyi eski hâline getirmek) hem geçişsizdir (kendi eski hâline dönmek). \"还原\" (huányuán): bir şeyi ÖZGÜN/gerçek/başlangıçtaki hâline TAM olarak GETİRMEK, aslına döndürmek anlamındadır — daha dar ve özeldir: 请把用过的工具还原放好 (Kullandığın aletleri yerli yerine koy), 这部电影力求还原历史的真实场景 (Bu film tarihî sahneleri gerçeğe uygun yeniden canlandırmaya çalışır), 还原事情的本来面目 (olayın aslını ortaya koymak), 化学反应中被还原 (kimyada indirgenmek — teknik anlam). Fark: \"恢复\" bir durumun ESKİ/NORMAL hâline dönüşü (sağlık, düzen, işlev); \"还原\" bir şeyin ÖZGÜN/gerçek hâline tam olarak getirilmesi (aslına sadık biçimde geri koymak/canlandırmak). \"恢复\" çok daha yaygın ve geneldir. Türkçedeki \"eski hâline dönmek/getirmek (恢复)\" ile \"aslına/özgün hâline döndürmek (还原)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "经过一段时间的休养,他的身体终于完全恢复了健康。",
+    "pinyin": "Jīng guò yī duàn shí jiān de xiū yǎng, tā de shēn tǐ zhōng yú wán quán huī fù le jiàn kāng。",
+    "en": "After some rest, he fully recovered his health at last."
+   },
+   {
+    "zh": "请大家用完东西后,记得把它还原到原来的位置。",
+    "pinyin": "Qǐng dà jiā yòng wán dōng xī hòu, jì de bǎ tā huán yuán dào yuán lái de wèi zhì。",
+    "en": "After using things, please return them to their place."
+   },
+   {
+    "zh": "停电几个小时后,整个小区的供电才慢慢恢复正常。",
+    "pinyin": "Tíng diàn jǐ gè xiǎo shí hòu, zhěng gè xiǎo qū de gōng diàn cái màn màn huī fù zhèng cháng。",
+    "en": "After hours of outage, the whole area's power slowly returned."
+   },
+   {
+    "zh": "这部纪录片力求真实地还原当年的历史场景。",
+    "pinyin": "Zhè bù jì lù piàn lì qiú zhēn shí de huán yuán dāng nián de lì shǐ chǎng jǐng。",
+    "en": "The documentary strives to faithfully recreate the historic scenes."
+   },
+   {
+    "zh": "大病初愈,他还需要一段时间才能恢复往日的体力。",
+    "pinyin": "Dà bìng chū yù, tā hái xū yào yī duàn shí jiān cái néng huī fù wǎng rì de tǐ lì。",
+    "en": "Just recovered, he needs time to regain his former strength."
+   },
+   {
+    "zh": "侦探根据现场的细节,一步步还原了案发的经过。",
+    "pinyin": "Zhēn tàn gēn jù xiàn chǎng de xì jié, yí bù bù huán yuán le àn fā de jīng guò。",
+    "en": "From scene details, the detective reconstructed the crime step by step."
+   },
+   {
+    "zh": "经过双方的努力,中断多年的联系终于恢复了。",
+    "pinyin": "Jīng guò shuāng fāng de nǔ lì, zhōng duàn duō nián de lián xì zhōng yú huī fù le。",
+    "en": "Through both sides' effort, the long-lost contact was restored."
+   },
+   {
+    "zh": "专家们正设法把这幅受损的古画还原成原来的样子。",
+    "pinyin": "Zhuān jiā men zhèng shè fǎ bǎ zhè fú shòu sǔn de gǔ huà huán yuán chéng yuán lái de yàng zi。",
+    "en": "Experts are trying to restore the damaged old painting to its original look."
+   },
+   {
+    "zh": "受灾地区的生产生活秩序正在逐步恢复。",
+    "pinyin": "Shòu zāi dì qū de shēng chǎn shēng huó zhì xù zhèng zài zhú bù huī fù。",
+    "en": "Production and life in the disaster area are gradually recovering."
+   },
+   {
+    "zh": "请把会议室的桌椅还原摆好,方便下一场使用。",
+    "pinyin": "Qǐng bǎ huì yì shì de zhuō yǐ huán yuán bǎi hǎo, fāng biàn xià yī cháng shǐ yòng。",
+    "en": "Please reset the meeting room's tables and chairs for the next use."
+   },
+   {
+    "zh": "经过精心的治疗,他受伤的手指基本恢复了功能。",
+    "pinyin": "Jīng guò jīng xīn de zhì liáo, tā shòu shāng de shǒu zhǐ jī běn huī fù le gōng néng。",
+    "en": "After careful treatment, his injured finger largely regained function."
+   },
+   {
+    "zh": "这套软件可以帮你把误删的文件还原回来。",
+    "pinyin": "Zhè tào ruǎn jiàn kě yǐ bāng nǐ bǎ wù shān de wén jiàn huán yuán huí lái。",
+    "en": "This software can help you restore accidentally deleted files."
+   },
+   {
+    "zh": "休息了一个晚上,他的精神状态明显恢复了不少。",
+    "pinyin": "Xiū xī le yí gè wǎn shàng, tā de jīng shén zhuàng tài míng xiǎn huī fù le bù shǎo。",
+    "en": "After a night's rest, his spirits clearly recovered a good deal."
+   },
+   {
+    "zh": "为了还原故事的真相,记者进行了长达半年的调查。",
+    "pinyin": "Wèi le huán yuán gù shì de zhēn xiàng, jì zhě jìn xíng le zhǎng dá bàn nián de diào chá。",
+    "en": "To reveal the story's truth, the reporter probed for half a year."
+   },
+   {
+    "zh": "经过多方调解,两家的关系慢慢恢复了往日的和睦。",
+    "pinyin": "Jīng guò duō fāng tiáo jiě, liǎng jiā de guān xì màn màn huī fù le wǎng rì de hé mù。",
+    "en": "After mediation, the two families' harmony slowly returned."
+   },
+   {
+    "zh": "修复师小心翼翼地把破碎的瓷器一片片还原拼接。",
+    "pinyin": "Xiū fù shī xiǎo xīn yì yì de bǎ pò suì de cí qì yī piàn piàn huán yuán pīn jiē。",
+    "en": "The restorer carefully pieced the broken porcelain back together."
+   },
+   {
+    "zh": "适当的运动有助于身体机能的恢复和增强。",
+    "pinyin": "Shì dàng de yùn dòng yǒu zhù yú shēn tǐ jī néng de huī fù hé zēng qiáng。",
+    "en": "Moderate exercise helps restore and strengthen bodily functions."
+   },
+   {
+    "zh": "这个实验的目的,是尽可能地还原当时的真实条件。",
+    "pinyin": "Zhè ge shí yàn de mù dì, shì jǐn kě néng de huán yuán dāng shí de zhēn shí tiáo jiàn。",
+    "en": "The experiment aims to recreate the real conditions of the time as closely as possible."
+   },
+   {
+    "zh": "经过一段时间的调整,市场秩序渐渐恢复了平稳。",
+    "pinyin": "Jīng guò yī duàn shí jiān de tiáo zhěng, shì chǎng zhì xù jiàn jiàn huī fù le píng wěn。",
+    "en": "After some adjustment, market order gradually stabilized."
+   },
+   {
+    "zh": "他凭着记忆,把当年老屋的模样一点点还原了出来。",
+    "pinyin": "Tā píng zhe jì yì, bǎ dāng nián lǎo wū de mú yàng yì diǎn diǎn huán yuán le chū lái。",
+    "en": "From memory, he gradually recreated the old house's look."
+   },
+   {
+    "zh": "他的名誉在事情真相大白之后终于得到了恢复。",
+    "pinyin": "Tā de míng yù zài shì qíng zhēn xiàng dà bái zhī hòu zhōng yú dé dào le huī fù。",
+    "en": "His reputation was finally restored once the truth came out."
+   },
+   {
+    "zh": "这项技术能把模糊的老照片还原得清晰如初。",
+    "pinyin": "Zhè xiàng jì shù néng bǎ mó hú de lǎo zhào piān huán yuán de qīng xī rú chū。",
+    "en": "This tech can restore blurry old photos to their original clarity."
+   },
+   {
+    "zh": "经过几天的休整,队伍的士气很快就恢复了过来。",
+    "pinyin": "Jīng guò jǐ tiān de xiū zhěng, duì wǔ dī shì qì hěn kuài jiù huī fù le guò lái。",
+    "en": "After a few days' rest, the team's morale soon recovered."
+   },
+   {
+    "zh": "翻译时,他力求把原文的意思准确地还原出来。",
+    "pinyin": "Fān yì shí, tā lì qiú bǎ yuán wén de yì si zhǔn què de huán yuán chū lái。",
+    "en": "In translating, he strove to faithfully render the original meaning."
+   },
+   {
+    "zh": "大雨过后,河水的水位才慢慢恢复到了正常。",
+    "pinyin": "Dà yǔ guò hòu, hé shuǐ de shuǐ wèi cái màn màn huī fù dào le zhèng cháng。",
+    "en": "After the heavy rain, the river level slowly returned to normal."
+   }
+  ]
+ },
+ {
+  "id": "g493",
+  "level": 5,
+  "title": "\"居然\" ile \"反而\" farkı",
+  "titleEn": "Comparing \"juran\" and \"fan'er\"",
+  "pattern": "居然 (şaşırtıcı biçimde) / 反而 (beklenenin tersine)",
+  "summary": "\"居然\" salt şaşkınlık, \"反而\" beklenenin TERS yönde sonucunu bildirir: 他居然来了 / 不但没好,反而更严重了。",
+  "explanation": "\"居然\" ve \"反而\" ikisi de beklentiyle çelişen bir durumu anlatır ama farklıdırlar. \"居然\" (jūrán): bir olayın BEKLENMEDİK, şaşırtıcı ya da inanılması güç biçimde gerçekleştiğine dair SALT ŞAŞKINLIK bildirir (= 竟然) — bir yön/karşıtlık belirtmez, sadece \"hayret ki öyle oldu\" der: 这么难的题,他居然一下子就做出来了 (Bu kadar zor soruyu birden çözüverdi, inanılmaz), 分别多年,他居然还记得我 (Yıllar sonra hâlâ beni hatırlıyor, şaşılası), 都这么晚了,外面居然还在下雪 (Bu kadar geç oldu, dışarıda hâlâ kar yağıyor). \"反而\" (fǎn'ér): beklenen sonucun TAM TERSİNİN olduğunu, YÖNLÜ bir karşıtlık bildirir — bir beklenti/neden verilir, sonra onun AKSİNE zıt bir sonuç gelir: 吃了药,病不但没好,反而更严重了 (İlaç içince hastalık iyileşmedi, tersine ağırlaştı), 你越紧张,反而越容易出错 (Ne kadar gerilirsen tersine o kadar hata yaparsın). Fark: \"居然\" yalnızca ŞAŞKINLIK (beklenmedik ama herhangi bir yönde); \"反而\" ise beklentinin ÇÜRÜTÜLÜP TERSİNİN olması (yönlü karşıtlık). \"他居然赢了\" = kazandı (şaşırtıcı); \"他反而输了\" = (kazanması beklenirken) tersine kaybetti. \"居然\" bir olayı, \"反而\" iki durum arasındaki ters ilişkiyi vurgular. Türkçedeki \"hayret ki/inanılmaz ama (居然)\" ile \"tersine/aksine (反而)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "这么复杂的机器,他居然没用说明书就装好了。",
+    "pinyin": "Zhè me fù zá de jī qì, tā jū rán méi yòng shuō míng shū jiù zhuāng hǎo le。",
+    "en": "Such a complex machine, and he assembled it without the manual!"
+   },
+   {
+    "zh": "我本以为道歉能平息他的怒火,反而让他更生气了。",
+    "pinyin": "Wǒ běn yǐ wéi dào qiàn néng píng xī tā de nù huǒ, fǎn ér ràng tā gēng shēng qì le。",
+    "en": "I thought apologizing would calm him, but it angered him more."
+   },
+   {
+    "zh": "分别了整整二十年,他居然还能一眼认出我来。",
+    "pinyin": "Fēn bié le zhěng zhěng èr shí nián, tā jū rán hái néng yī yǎn rèn chū wǒ lái。",
+    "en": "After twenty years apart, he still recognized me at a glance!"
+   },
+   {
+    "zh": "过度的保护非但没帮到孩子,反而剥夺了他成长的机会。",
+    "pinyin": "Guò dù de bǎo hù fēi dàn méi bāng dào hái zi, fǎn ér bō duó le tā chéng zhǎng de jī huì。",
+    "en": "Overprotection didn't help the child but robbed him of growth."
+   },
+   {
+    "zh": "这么重要的约会,他居然睡过了头,真让人哭笑不得。",
+    "pinyin": "Zhè me zhòng yào de yuē huì, tā jū rán shuì guò le tóu, zhēn ràng rén kū xiào bù de。",
+    "en": "For such a key date, he actually overslept — how absurd!"
+   },
+   {
+    "zh": "我劝他慢一点,他反而加快了脚步,一下就冲了出去。",
+    "pinyin": "Wǒ quàn tā màn yì diǎn, tā fǎn ér jiā kuài le jiǎo bù, yī xià jiù chōng le chū qù。",
+    "en": "I told him to slow down, but he sped up and dashed out."
+   },
+   {
+    "zh": "这个不被看好的小队,居然一路杀进了决赛。",
+    "pinyin": "Zhè ge bù bèi kàn hǎo de xiǎo duì, jū rán yī lù shā jìn le jué sài。",
+    "en": "The unfancied team astonishingly fought all the way to the final."
+   },
+   {
+    "zh": "批评太重,不但起不到作用,反而伤了他的自尊心。",
+    "pinyin": "Pī píng tài zhòng, bù dàn qǐ bú dào zuò yòng, fǎn ér shāng le tā de zì zūn xīn。",
+    "en": "Overharsh criticism didn't work but hurt his pride instead."
+   },
+   {
+    "zh": "我随口说的一句话,他居然一直记到了现在。",
+    "pinyin": "Wǒ suí kǒu shuō de yī jù huà, tā jū rán yì zhí jì dào le xiàn zài。",
+    "en": "A casual remark of mine, and he's remembered it till now!"
+   },
+   {
+    "zh": "你越是遮遮掩掩,别人反而越是怀疑你。",
+    "pinyin": "Nǐ yuè shì zhē zhē yǎn yǎn, bié rén fǎn ér yuè shì huái yí nǐ。",
+    "en": "The more you conceal, the more others suspect you."
+   },
+   {
+    "zh": "这么冷的天,他居然只穿了一件薄薄的衬衫。",
+    "pinyin": "Zhè me lěng de tiān, tā jū rán zhǐ chuān le yī jiàn báo báo de chèn shān。",
+    "en": "In such cold, he was astonishingly in just a thin shirt!"
+   },
+   {
+    "zh": "这场大雨没有浇灭大家的热情,反而让气氛更高涨了。",
+    "pinyin": "Zhè chǎng dà yǔ méi yǒu jiāo miè dà jiā de rè qíng, fǎn ér ràng qì fēn gèng gāo zhǎng le。",
+    "en": "The rain didn't dampen spirits but raised them instead."
+   },
+   {
+    "zh": "我以为那本旧书早就绝版了,居然还能买得到。",
+    "pinyin": "Wǒ yǐ wéi nà běn jiù shū zǎo jiù jué bǎn le, jū rán hái néng mǎi dé dào。",
+    "en": "I thought the old book long out of print, yet it's still available!"
+   },
+   {
+    "zh": "他不但没有责怪我,反而耐心地安慰起我来。",
+    "pinyin": "Tā bù dàn méi yǒu zé guài wǒ, fǎn ér nài xīn de ān wèi qǐ wǒ lái。",
+    "en": "Far from blaming me, he patiently comforted me instead."
+   },
+   {
+    "zh": "平时最胆小的他,居然勇敢地跳进河里救了人。",
+    "pinyin": "Píng shí zuì dǎn xiǎo de tā, jū rán yǒng gǎn de tiào jìn hé lǐ jiù le rén。",
+    "en": "The usually timid him bravely jumped in to save someone!"
+   },
+   {
+    "zh": "休息了一天,他不但没觉得轻松,反而更疲惫了。",
+    "pinyin": "Xiū xī le yī tiān, tā bù dàn méi jué de qīng sōng, fǎn ér gèng pí bèi le。",
+    "en": "After a day's rest, he felt not lighter but more tired."
+   },
+   {
+    "zh": "这么大的动静,熟睡中的他居然一点都没察觉。",
+    "pinyin": "Zhè me dà de dòng jìng, shú shuì zhōng de tā jū rán yì diǎn dōu méi chá jué。",
+    "en": "Amid such a din, the sleeping him noticed nothing at all!"
+   },
+   {
+    "zh": "你越想讨好每一个人,反而越容易失去自己。",
+    "pinyin": "Nǐ yuè xiǎng tǎo hǎo měi yí gè rén, fǎn ér yuè róng yì shī qù zì jǐ。",
+    "en": "The more you try to please all, the more you lose yourself."
+   },
+   {
+    "zh": "多年不联系,他居然还清楚地记得我的生日。",
+    "pinyin": "Duō nián bù lián xì, tā jū rán huán qīng chǔ de jì de wǒ de shēng rì。",
+    "en": "Out of touch for years, he still clearly remembered my birthday!"
+   },
+   {
+    "zh": "适当的挫折不是坏事,反而能让人变得更加坚强。",
+    "pinyin": "Shì dàng de cuò zhé bú shì huài shì, fǎn ér néng ràng rén biàn de gèng jiā jiān qiáng。",
+    "en": "Some setbacks aren't bad but make one stronger instead."
+   },
+   {
+    "zh": "这么简单的道理,他居然想了半天都没想明白。",
+    "pinyin": "Zhè me jiǎn dān de dào lǐ, tā jū rán xiǎng le bàn tiān dōu méi xiǎng míng bái。",
+    "en": "Such a simple truth, and he pondered long without getting it!"
+   },
+   {
+    "zh": "我以为帮了倒忙,没想到反而歪打正着,解决了问题。",
+    "pinyin": "Wǒ yǐ wéi bāng le dào máng, méi xiǎng dào fǎn ér wāi dǎ zhèng zháo, jiě jué le wèn tí。",
+    "en": "I thought I'd bungled it, but it accidentally solved the problem."
+   },
+   {
+    "zh": "那个平时不声不响的人,居然当众唱起了歌。",
+    "pinyin": "Nà ge píng shí bù shēng bù xiǎng de rén, jū rán dāng zhòng chàng qǐ le gē。",
+    "en": "That usually quiet person suddenly sang before everyone!"
+   },
+   {
+    "zh": "经历了这场失败,他没有消沉,反而斗志更旺了。",
+    "pinyin": "Jīng lì le zhè chǎng shī bài, tā méi yǒu xiāo chén, fǎn ér dòu zhì gèng wàng le。",
+    "en": "After the failure, he wasn't dispirited but grew more driven."
+   },
+   {
+    "zh": "这么点小事,他居然记恨了这么多年,真没想到。",
+    "pinyin": "Zhè me diǎn xiǎo shì, tā jū rán jì hèn le zhè me duō nián, zhēn méi xiǎng dào。",
+    "en": "Over such a trifle, he actually held a grudge for years!"
+   }
+  ]
+ },
+ {
+  "id": "g494",
+  "level": 5,
+  "title": "\"一时\" ile \"一度\" farkı",
+  "titleEn": "Comparing \"yishi\" and \"yidu\"",
+  "pattern": "一时 (o an/kısa bir süre) / 一度 (bir ara/bir dönem geçmişte)",
+  "summary": "\"一时\" o anki/kısacık bir durumu, \"一度\" geçmişte bir dönem süren durumu bildirir: 一时想不起来 / 他一度想放弃。",
+  "explanation": "\"一时\" ve \"一度\" ikisi de kısa bir zamanla ilgilidir ama farklıdırlar. \"一时\" (yīshí): O ANDAKİ, kısacık, geçici bir durumu bildirir — \"bir an, o anda, birden, kısa bir süre için, hemen\": 我一时想不起他的名字 (Adını bir an hatırlayamadım), 他一时冲动,说了些不该说的话 (Bir anlık dürtüyle söylenmemesi gereken şeyler söyledi), 这件事一时半会儿也说不清楚 (Bu iş çabucak anlatılamaz), 大家一时都愣住了 (Herkes bir an donakaldı). \"一时\" ânlık, geçici, çabuk geçen bir durumu vurgular; sık sık \"一时半会儿\" (çabucak, hemen) biçiminde gelir. \"一度\" (yīdù): GEÇMİŞTE bir DÖNEM/bir ara süren, sonradan değişmiş bir durumu bildirir — \"bir ara, bir dönem, bir zamanlar, bir aralar\": 他一度想放弃学业,后来还是坚持了下来 (Bir ara okulu bırakmayı düşündü ama sonra devam etti), 这种老式的收音机一度非常流行 (Bu eski radyolar bir zamanlar çok popülerdi), 两人的关系一度十分紧张 (İkisinin ilişkisi bir ara çok gergindi). \"一度\" geçmişte belli bir SÜRE devam eden ama artık değişmiş bir durumu anlatır. Fark: \"一时\" ânlık/geçici (o an, kısacık); \"一度\" geçmişte bir dönem süren (bir ara, bir zamanlar). Türkçedeki \"bir an/o anda (一时)\" ile \"bir ara/bir zamanlar (一度)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "我一时想不起来他叫什么名字,话到嘴边又咽了回去。",
+    "pinyin": "Wǒ yī shí xiǎng bù qǐ lái tā jiào shén me míng zì, huà dào zuǐ biān yòu yàn le huí qù。",
+    "en": "I couldn't recall his name for a moment; it slipped away."
+   },
+   {
+    "zh": "他年轻时一度迷上了绘画,后来因为生计放弃了。",
+    "pinyin": "Tā nián qīng shí yí dù mí shàng le huì huà, hòu lái yīn wèi shēng jì fàng qì le。",
+    "en": "In youth he was once into painting but gave it up for a living."
+   },
+   {
+    "zh": "听到这个突如其来的消息,大家一时都愣在了原地。",
+    "pinyin": "Tīng dào zhè ge tū rú qí lái de xiāo xī, dà jiā yī shí dōu lèng zài le yuán de。",
+    "en": "At the sudden news, everyone froze for a moment."
+   },
+   {
+    "zh": "这家老字号曾经一度濒临倒闭,如今又重现了生机。",
+    "pinyin": "Zhè jiā lǎo zì hào céng jīng yí dù bīn lín dǎo bì, rú jīn yòu chóng xiàn le shēng jī。",
+    "en": "This old brand once neared collapse but has revived now."
+   },
+   {
+    "zh": "他一时冲动说出的气话,事后让自己后悔了很久。",
+    "pinyin": "Tā yī shí chōng dòng shuō chū de qì huà, shì hòu ràng zì jǐ hòu huǐ le hěn jiǔ。",
+    "en": "Words said in a moment's temper made him regret long after."
+   },
+   {
+    "zh": "那种复古的裙子,前些年一度非常流行。",
+    "pinyin": "Nà zhǒng fù gǔ de qún zi, qián xiē nián yí dù fēi cháng liú xíng。",
+    "en": "That retro-style skirt was once very popular a few years back."
+   },
+   {
+    "zh": "这件事牵扯太广,一时半会儿恐怕说不清楚。",
+    "pinyin": "Zhè jiàn shì qiān chě tài guǎng, yī shí bàn huì er kǒng pà shuō bù qīng chǔ。",
+    "en": "The matter is too tangled to explain clearly in a short while."
+   },
+   {
+    "zh": "由于经营不善,这家公司一度陷入了严重的危机。",
+    "pinyin": "Yóu yú jīng yíng bù shàn, zhè jiā gōng sī yí dù xiàn rù le yán zhòng de wēi jī。",
+    "en": "Due to poor management, the firm once fell into serious crisis."
+   },
+   {
+    "zh": "面对突然的提问,他一时语塞,不知该如何回答。",
+    "pinyin": "Miàn duì tū rán de tí wèn, tā yī shí yǔ sè, bù zhī gāi rú hé huí dá。",
+    "en": "At the sudden question, he was momentarily lost for words."
+   },
+   {
+    "zh": "他的病情一度十分危急,幸好抢救及时才转危为安。",
+    "pinyin": "Tā de bìng qíng yí dù shí fēn wēi jí, xìng hǎo qiǎng jiù jí shí cái zhuǎn wēi wéi ān。",
+    "en": "His condition was once critical but timely aid pulled him through."
+   },
+   {
+    "zh": "这么多菜一下子端上来,我一时竟不知从哪样吃起。",
+    "pinyin": "Zhè me duō cài yī xià zi duān shàng lái, wǒ yī shí jìng bù zhī cóng nǎ yàng chī qǐ。",
+    "en": "So many dishes at once — I didn't know where to start."
+   },
+   {
+    "zh": "两个人的关系一度非常疏远,后来才慢慢缓和下来。",
+    "pinyin": "Liǎng gè rén de guān xì yí dù fēi cháng shū yuǎn, hòu lái cái màn màn huǎn hé xià lái。",
+    "en": "The two were once quite distant but later gradually warmed."
+   },
+   {
+    "zh": "他一时糊涂,做出了让自己追悔莫及的决定。",
+    "pinyin": "Tā yī shí hú tú, zuò chū le ràng zì jǐ zhuī huǐ mò jí de jué dìng。",
+    "en": "In a moment's folly, he made a decision he'd deeply regret."
+   },
+   {
+    "zh": "这条老街一度十分冷清,近几年又重新热闹了起来。",
+    "pinyin": "Zhè tiáo lǎo jiē yí dù shí fēn lěng qīng, jìn jǐ nián yòu chóng xīn rè nào le qǐ lái。",
+    "en": "The old street was once deserted but has bustled again lately."
+   },
+   {
+    "zh": "大家七嘴八舌地议论着,一时也没个统一的意见。",
+    "pinyin": "Dà jiā qī zuǐ bā shé de yì lùn zhe, yī shí yě méi gè tǒng yī de yì jiàn。",
+    "en": "All chattered at once, reaching no unified view for the moment."
+   },
+   {
+    "zh": "他一度对未来感到迷茫,直到遇见了那位良师。",
+    "pinyin": "Tā yí dù duì wèi lái gǎn dào mí máng, zhí dào yù jiàn le nà wèi liáng shī。",
+    "en": "He was once lost about the future until he met that fine teacher."
+   },
+   {
+    "zh": "这个问题太深奥了,我一时也给不出满意的答案。",
+    "pinyin": "Zhè ge wèn tí tài shēn ào le, wǒ yī shí yě gěi bù chū mǎn yì de dá àn。",
+    "en": "The question is too deep; I can't give a good answer just now."
+   },
+   {
+    "zh": "这种传呼机在上世纪九十年代一度风靡一时。",
+    "pinyin": "Zhè zhǒng chuán hū jī zài shàng shì jì jiǔ shí nián dài yí dù fēng mǐ yī shí。",
+    "en": "This pager was all the rage back in the nineteen-nineties."
+   },
+   {
+    "zh": "他被这突如其来的表扬弄得一时有些不好意思。",
+    "pinyin": "Tā bèi zhè tū rú qí lái de biǎo yáng nòng de yī shí yǒu xiē bù hǎo yì sī。",
+    "en": "The sudden praise made him a bit embarrassed for a moment."
+   },
+   {
+    "zh": "那位歌手一度红极一时,后来却渐渐淡出了人们的视野。",
+    "pinyin": "Nà wèi gē shǒu yí dù hóng jí yī shí, hòu lái què jiàn jiàn dàn chū le rén men de shì yě。",
+    "en": "The singer was once hugely famous but later faded from view."
+   },
+   {
+    "zh": "我一时找不到合适的词来形容当时的心情。",
+    "pinyin": "Wǒ yī shí zhǎo bú dào hé shì de cí lái xíng róng dāng shí de xīn qíng。",
+    "en": "I couldn't find the right word for my mood at that moment."
+   },
+   {
+    "zh": "由于连年干旱,这一带的农业一度受到了严重影响。",
+    "pinyin": "Yóu yú lián nián gān hàn, zhè yī dài de nóng yè yí dù shòu dào le yán zhòng yǐng xiǎng。",
+    "en": "Due to years of drought, farming here was once badly hit."
+   },
+   {
+    "zh": "他一时兴起,报名参加了这次长跑比赛。",
+    "pinyin": "Tā yī shí xīng qǐ, bào míng cān jiā le zhè cì cháng pǎo bǐ sài。",
+    "en": "On a sudden whim, he signed up for the long-distance race."
+   },
+   {
+    "zh": "这个古老的手艺一度濒临失传,如今又有人开始学习了。",
+    "pinyin": "Zhè ge gǔ lǎo de shǒu yì yí dù bīn lín shī chuán, rú jīn yòu yǒu rén kāi shǐ xué xí le。",
+    "en": "The old craft once neared extinction but is being learned again."
+   },
+   {
+    "zh": "面对众人的目光,她一时紧张得说不出话来。",
+    "pinyin": "Miàn duì zhòng rén de mù guāng, tā yī shí jǐn zhāng de shuō bù chū huà lái。",
+    "en": "Under everyone's gaze, she was too nervous to speak for a moment."
+   }
+  ]
+ },
+ {
+  "id": "g495",
+  "level": 5,
+  "title": "\"一直\" ile \"一向\" farkı",
+  "titleEn": "Comparing \"yizhi\" and \"yixiang\"",
+  "pattern": "一直 (kesintisiz süre/yön) / 一向 (öteden beri süregelen alışkanlık)",
+  "summary": "\"一直\" belli bir süre boyunca kesintisiz devamı, \"一向\" öteden beri yerleşik bir alışkanlığı bildirir: 我一直在等你 / 他一向很守时。",
+  "explanation": "\"一直\" ve \"一向\" ikisi de \"sürekli, hep\" anlamı taşır ama farklıdırlar. \"一直\" (yīzhí): (1) belli bir SÜRE boyunca KESİNTİSİZ devam eden bir eylem/durum — \"boyunca, hep, sürekli, ...-den beri aralıksız\": 我一直在门口等你,等了两个小时 (Kapıda hep seni bekledim, iki saat), 从早上到现在他一直在工作 (Sabahtan beri aralıksız çalışıyor), 这件事我一直放在心上 (Bu şeyi hep aklımda tuttum); (2) YÖN/uzam \"dosdoğru, boyunca\": 一直往前走 (dosdoğru ileri git), 一直到山顶 (ta tepeye kadar). \"一向\" (yīxiàng): GEÇMİŞTEN BUGÜNE değişmeden süregelen bir ALIŞKANLIK, tutum ya da özelliği bildirir — \"öteden beri, eskiden beri, hep, her zaman\": 他一向很守时,从不迟到 (Öteden beri hep dakiktir, hiç geç kalmaz), 我一向不喝酒 (Baştan beri içki içmem), 她一向待人热情 (Öteden beri insanlara karşı sıcaktır). Fark: \"一直\" belli bir süre boyunca KESİNTİSİZ SÜREKLİLİK (ve ayrıca yön) bildirir; \"一向\" ise yerleşik, süregelen bir ALIŞKANLIK/özellik (g437'deki \"向来\" ile eş anlamlı). \"一直\" bir eylemin süresine odaklanır (hep ...-yordu), \"一向\" bir kişinin değişmez huyuna (hep öyledir). \"一直\" yön de bildirebilir, \"一向\" bildiremez. Türkçedeki \"boyunca/kesintisiz hep (一直)\" ile \"öteden beri/her zaman (一向)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "从你走后,我就一直站在窗前,望着你离去的方向。",
+    "pinyin": "Cóng nǐ zǒu hòu, wǒ jiù yì zhí zhàn zài chuāng qián, wàng zhe nǐ lí qù de fāng xiàng。",
+    "en": "Since you left, I've stood at the window watching where you went."
+   },
+   {
+    "zh": "他一向为人正直,从来不会做出损人利己的事。",
+    "pinyin": "Tā yí xiàng wéi rén zhèng zhí, cóng lái bú huì zuò chū sǔn rén lì jǐ de shì。",
+    "en": "He's always been upright, never harming others for himself."
+   },
+   {
+    "zh": "这些年来,他一直坚持每天早起跑步,风雨无阻。",
+    "pinyin": "Zhè xiē nián lái, tā yì zhí jiān chí měi tiān zǎo qǐ pǎo bù, fēng yǔ wú zǔ。",
+    "en": "For years he's kept up a daily morning run, come rain or shine."
+   },
+   {
+    "zh": "我们家一向重视孩子的品德教育,胜过成绩。",
+    "pinyin": "Wǒ men jiā yí xiàng zhòng shì hái zi de pǐn dé jiào yù, shèng guò chéng jì。",
+    "en": "Our family has always valued a child's morals over grades."
+   },
+   {
+    "zh": "会议从上午一直开到傍晚,大家都累得筋疲力尽。",
+    "pinyin": "Huì yì cóng shàng wǔ yì zhí kāi dào bàng wǎn, dà jiā dōu lèi de jīn pí lì jìn。",
+    "en": "The meeting ran from morning till dusk, tiring everyone out."
+   },
+   {
+    "zh": "她一向做事细心,交给她的任务从来不用担心。",
+    "pinyin": "Tā yí xiàng zuò shì xì xīn, jiāo gěi tā de rèn wù cóng lái bù yòng dān xīn。",
+    "en": "She's always careful; tasks given to her never worry us."
+   },
+   {
+    "zh": "沿着这条路一直往前走,到路口再往左拐就到了。",
+    "pinyin": "Yán zhe zhè tiáo lù yì zhí wǎng qián zǒu, dào lù kǒu zài wǎng zuǒ guǎi jiù dào le。",
+    "en": "Go straight along this road, turn left at the junction, and you're there."
+   },
+   {
+    "zh": "这位老先生一向淡泊名利,过着简朴的生活。",
+    "pinyin": "Zhè wèi lǎo xiān shēng yí xiàng dàn bó míng lì, guò zhe jiǎn piáo de shēng huó。",
+    "en": "The old gentleman has always shunned fame, living simply."
+   },
+   {
+    "zh": "自从搬来这里,他就一直和邻居们相处得很融洽。",
+    "pinyin": "Zì cóng bān lái zhè lǐ, tā jiù yì zhí hé lín jū men xiāng chǔ de hěn róng qià。",
+    "en": "Since moving here, he's always gotten along well with neighbors."
+   },
+   {
+    "zh": "他一向说话算数,答应过的事从不轻易反悔。",
+    "pinyin": "Tā yí xiàng shuō huà suàn shù, dā yìng guò de shì cóng bù qīng yì fǎn huǐ。",
+    "en": "He's always been true to his word, never lightly reneging."
+   },
+   {
+    "zh": "那盏灯一直亮到天亮,屋里的人似乎一夜没睡。",
+    "pinyin": "Nà zhǎn dēng yì zhí liàng dào tiān liàng, wū lǐ de rén sì hū yī yè méi shuì。",
+    "en": "The lamp stayed on till dawn, as if no one slept all night."
+   },
+   {
+    "zh": "这里的居民一向热情好客,对远客格外照顾。",
+    "pinyin": "Zhè lǐ de jū mín yí xiàng rè qíng hào kè, duì yuǎn kè gé wài zhào gù。",
+    "en": "The residents here have always been warm and hospitable."
+   },
+   {
+    "zh": "这个问题一直困扰着他,直到今天才终于找到答案。",
+    "pinyin": "Zhè ge wèn tí yì zhí kùn rǎo zhe tā, zhí dào jīn tiān cái zhōng yú zhǎo dào dá àn。",
+    "en": "The problem long troubled him until he found the answer today."
+   },
+   {
+    "zh": "他一向不喜欢张扬,取得成绩也总是低调处理。",
+    "pinyin": "Tā yí xiàng bù xǐ huān zhāng yáng, qǔ de chéng jì yě zǒng shì dī diào chǔ lǐ。",
+    "en": "He's always disliked showing off, staying modest about success."
+   },
+   {
+    "zh": "孩子发着高烧,妈妈一整夜一直守在他的床边。",
+    "pinyin": "Hái zi fā zhe gāo shāo, mā mā yī zhěng yè yì zhí shǒu zài tā de chuáng biān。",
+    "en": "The child had a fever, and Mom stayed by his bed all night."
+   },
+   {
+    "zh": "我一向对这类夸大其词的广告持怀疑的态度。",
+    "pinyin": "Wǒ yí xiàng duì zhè lèi kuā dà qí cí de guǎng gào chí huái yí de tài dù。",
+    "en": "I've always been skeptical of such exaggerated ads."
+   },
+   {
+    "zh": "河水一直向东流去,最终汇入了辽阔的大海。",
+    "pinyin": "Hé shuǐ yì zhí xiàng dōng liú qù, zuì zhōng huì rù le liáo kuò de dà hǎi。",
+    "en": "The river flows ever eastward, joining the vast sea at last."
+   },
+   {
+    "zh": "他一向严于律己,对自己的要求比对别人还高。",
+    "pinyin": "Tā yí xiàng yán yú lǜ jǐ, duì zì jǐ de yāo qiú bǐ duì bié rén hái gāo。",
+    "en": "He's always been strict with himself, more than with others."
+   },
+   {
+    "zh": "这些天他心里一直惦记着家里生病的老人。",
+    "pinyin": "Zhè xiē tiān tā xīn lǐ yì zhí diàn jì zhe jiā lǐ shēng bìng de lǎo rén。",
+    "en": "These days he's kept worrying about the sick elder at home."
+   },
+   {
+    "zh": "我们班的学习氛围一向很好,大家都比着上进。",
+    "pinyin": "Wǒ men bān de xué xí fēn wéi yí xiàng hěn hǎo, dà jiā dōu bǐ zhe shàng jìn。",
+    "en": "Our class has always had a good study vibe, all vying to improve."
+   },
+   {
+    "zh": "从年头到年尾,他几乎一直在为这个项目忙碌着。",
+    "pinyin": "Cóng nián tóu dào nián wěi, tā jī hū yì zhí zài wèi zhè ge xiàng mù máng lù zhe。",
+    "en": "From year's start to end, he was busy with this project throughout."
+   },
+   {
+    "zh": "这家老店的口碑一向很好,几十年来从未变过。",
+    "pinyin": "Zhè jiā lǎo diàn de kǒu bēi yí xiàng hěn hǎo, jǐ shí nián lái cóng wèi biàn guò。",
+    "en": "The old shop has always had a fine name, unchanged for decades."
+   },
+   {
+    "zh": "暴风雨一直持续到深夜,才渐渐平息了下来。",
+    "pinyin": "Bào fēng yǔ yì zhí chí xù dào shēn yè, cái jiàn jiàn píng xī le xià lái。",
+    "en": "The storm lasted till late night before slowly dying down."
+   },
+   {
+    "zh": "他一向乐于助人,街坊邻里有困难都爱找他帮忙。",
+    "pinyin": "Tā yí xiàng lè yú zhù rén, jiē fāng lín lǐ yǒu kùn nán dōu ài zhǎo tā bāng máng。",
+    "en": "Ever helpful, neighbors in need always turn to him."
+   },
+   {
+    "zh": "这个信念一直支撑着他,让他熬过了最艰难的日子。",
+    "pinyin": "Zhè ge xìn niàn yì zhí zhī chēng zhe tā, ràng tā áo guò le zuì jiān nán de rì zi。",
+    "en": "This belief kept sustaining him through the hardest days."
+   }
+  ]
+ },
+ {
+  "id": "g496",
+  "level": 5,
+  "title": "\"彼此\" ile \"对方\" farkı",
+  "titleEn": "Comparing \"bici\" and \"duifang\"",
+  "pattern": "彼此 (karşılıklı, iki taraf da) / 对方 (karşı taraf)",
+  "summary": "\"彼此\" iki tarafı birlikte (karşılıklı), \"对方\" ise karşıdaki tek tarafı belirtir: 彼此信任 / 尊重对方。",
+  "explanation": "\"彼此\" ve \"对方\" ikisi de ilişkideki taraflarla ilgilidir ama farklıdırlar. \"彼此\" (bǐcǐ): İKİ TARAFI BİRDEN, \"karşılıklı, birbiri, her ikisi de\" anlamında kapsar — ilişki iki yönlüdür: 他们俩彼此非常信任 (İkisi birbirine çok güvenir), 我们应该彼此尊重、彼此包容 (Birbirimize saygı ve hoşgörü göstermeliyiz), 两个人彼此都很了解 (İkisi birbirini çok iyi tanır), 邻里之间要彼此照应 (Komşular birbirini gözetmeli). \"彼此\" özneyi \"iki taraf birlikte\" olarak alır ve karşılıklılığı vurgular; ayrıca nezaket cevabı olarak \"彼此彼此\" (ben de sana aynısını dilerim / karşılıklı) kalıbı vardır. \"对方\" (duìfāng): KONUŞANIN/bir tarafın KARŞISINDAKİ öteki tarafı belirtir — tek yönlü, \"karşı taraf, öteki taraf, muhatap\": 谈判时要设身处地为对方着想 (Görüşürken karşı tarafın yerine kendini koymalısın), 他一拳就把对方打倒了 (Bir yumrukta rakibini yere serdi), 你要先听听对方的意见 (Önce karşı tarafın görüşünü dinle), 这场比赛,对方实力很强 (Bu maçta rakip çok güçlü). Fark: \"彼此\" HER İKİ tarafı karşılıklı olarak (birbiri); \"对方\" ise KARŞIDAKİ öteki tarafı (tek taraf) belirtir. \"彼此信任\" = iki taraf da birbirine güvenir; \"信任对方\" = karşı tarafa güvenmek. Türkçedeki \"birbiri/karşılıklı (彼此)\" ile \"karşı taraf/öteki taraf (对方)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "真正的友谊,建立在彼此的信任和理解之上。",
+    "pinyin": "Zhēn zhèng de yǒu yì, jiàn lì zài bǐ cǐ de xìn rèn hé lǐ jiě zhī shàng。",
+    "en": "True friendship rests on mutual trust and understanding."
+   },
+   {
+    "zh": "谈判时,要多站在对方的角度考虑问题。",
+    "pinyin": "Tán pàn shí, yào duō zhàn zài duì fāng de jiǎo dù kǎo lǜ wèn tí。",
+    "en": "In talks, consider things more from the other side's view."
+   },
+   {
+    "zh": "多年的老友,彼此之间早已无话不谈。",
+    "pinyin": "Duō nián de lǎo yǒu, bǐ cǐ zhī jiān zǎo yǐ wú huà bù tán。",
+    "en": "Old friends of many years hold nothing back from each other."
+   },
+   {
+    "zh": "在争执中,双方都应该给对方一个解释的机会。",
+    "pinyin": "Zài zhēng zhí zhōng, shuāng fāng dōu yīng gāi gěi duì fāng yí gè jiě shì de jī huì。",
+    "en": "In a dispute, each should give the other a chance to explain."
+   },
+   {
+    "zh": "夫妻之间贵在彼此包容,携手走过人生的风雨。",
+    "pinyin": "Fū qī zhī jiān guì zài bǐ cǐ bāo róng, xié shǒu zǒu guò rén shēng de fēng yǔ。",
+    "en": "In marriage, mutual tolerance carries a couple through storms."
+   },
+   {
+    "zh": "下棋的时候,他总能提前猜到对方的下一步。",
+    "pinyin": "Xià qí de shí hòu, tā zǒng néng tí qián cāi dào duì fāng de xià yī bù。",
+    "en": "In chess, he always guesses the opponent's next move."
+   },
+   {
+    "zh": "邻里之间要彼此关照,遇事互相搭把手。",
+    "pinyin": "Lín lǐ zhī jiān yào bǐ cǐ guān zhào, yù shì hù xiāng dā bǎ shǒu。",
+    "en": "Neighbors should look out for one another and help in need."
+   },
+   {
+    "zh": "这封信是写给对方的,你可别拆错了。",
+    "pinyin": "Zhè fēng xìn shì xiě gěi duì fāng de, nǐ kě bié chāi cuò le。",
+    "en": "The letter is for the other party; don't open it by mistake."
+   },
+   {
+    "zh": "经过这次合作,两家公司彼此加深了了解和信任。",
+    "pinyin": "Jīng guò zhè cì hé zuò, liǎng jiā gōng sī bǐ cǐ jiā shēn liǎo liǎo jiě hé xìn rèn。",
+    "en": "After working together, the two firms deepened mutual trust."
+   },
+   {
+    "zh": "在辩论中,他始终没能说服对方接受自己的观点。",
+    "pinyin": "Zài biàn lùn zhōng, tā shǐ zhōng méi néng shuō fú duì fāng jiē shòu zì jǐ de guān diǎn。",
+    "en": "In the debate, he never convinced the other to accept his view."
+   },
+   {
+    "zh": "我们虽然见面不多,但彼此的心却始终连在一起。",
+    "pinyin": "Wǒ men suī rán jiàn miàn bù duō, dàn bǐ cǐ de xīn què shǐ zhōng lián zài yì qǐ。",
+    "en": "We seldom meet, yet our hearts stay ever connected."
+   },
+   {
+    "zh": "签合同前,双方都要仔细核对对方提供的资料。",
+    "pinyin": "Qiān hé tóng qián, shuāng fāng dōu yào zǐ xì hé duì duì fāng tí gōng de zī liào。",
+    "en": "Before signing, each side should check the other's documents."
+   },
+   {
+    "zh": "经历过风雨的两个人,彼此变得更加珍惜对方了。",
+    "pinyin": "Jīng lì guò fēng yǔ de liǎng gè rén, bǐ cǐ biàn de gèng jiā zhēn xī duì fāng le。",
+    "en": "Having weathered storms, the two grew to cherish each other more."
+   },
+   {
+    "zh": "这场比赛,对方的实力明显在我们之上。",
+    "pinyin": "Zhè chǎng bǐ sài, duì fāng de shí lì míng xiǎn zài wǒ men zhī shàng。",
+    "en": "In this match, the opponent's strength clearly surpassed ours."
+   },
+   {
+    "zh": "好的合作伙伴,懂得彼此尊重,也懂得彼此成全。",
+    "pinyin": "Hǎo de hé zuò huǒ bàn, dǒng de bǐ cǐ zūn zhòng, yě dǒng de bǐ cǐ chéng quán。",
+    "en": "Good partners know to respect and support each other."
+   },
+   {
+    "zh": "他把话说得很重,一时间伤了对方的自尊心。",
+    "pinyin": "Tā bǎ huà shuō de hěn zhòng, yī shí jiān shāng le duì fāng de zì zūn xīn。",
+    "en": "His harsh words momentarily hurt the other's pride."
+   },
+   {
+    "zh": "多年不见,再相聚时,彼此都感慨万千。",
+    "pinyin": "Duō nián bú jiàn, zài xiāng jù shí, bǐ cǐ dōu gǎn kǎi wàn qiān。",
+    "en": "Reunited after years, both were filled with deep feeling."
+   },
+   {
+    "zh": "在交流中,要注意倾听,而不是一味打断对方。",
+    "pinyin": "Zài jiāo liú zhōng, yào zhù yì qīng tīng, ér bú shì yī wèi dǎ duàn duì fāng。",
+    "en": "In talking, listen well rather than keep cutting the other off."
+   },
+   {
+    "zh": "经过一番坦诚的长谈,他们彼此都放下了心结。",
+    "pinyin": "Jīng guò yī fān tǎn chéng de cháng tán, tā men bǐ cǐ dōu fàng xià le xīn jié。",
+    "en": "After a frank talk, both let go of their grudges."
+   },
+   {
+    "zh": "谈生意时,他很善于揣摩对方的真实想法。",
+    "pinyin": "Tán shēng yì shí, tā hěn shàn yú chuǎi mó duì fāng de zhēn shí xiǎng fǎ。",
+    "en": "In business, he's good at reading the other's true intent."
+   },
+   {
+    "zh": "同学之间,理应彼此帮助,共同进步。",
+    "pinyin": "Tóng xué zhī jiān, lǐ yīng bǐ cǐ bāng zhù, gòng tóng jìn bù。",
+    "en": "Classmates ought to help each other and progress together."
+   },
+   {
+    "zh": "他一句话,就巧妙地化解了对方的敌意。",
+    "pinyin": "Tā yī jù huà, jiù qiǎo miào de huà jiě le duì fāng de dí yì。",
+    "en": "A single word from him deftly dissolved the other's hostility."
+   },
+   {
+    "zh": "两个陌生人,因为一次偶然,渐渐熟悉了彼此。",
+    "pinyin": "Liǎng gè mò shēng rén, yīn wèi yī cì ǒu rán, jiàn jiàn shú xī le bǐ cǐ。",
+    "en": "Two strangers, by chance, gradually came to know each other."
+   },
+   {
+    "zh": "在合作中,任何一方都不应该只顾自己而忽视对方。",
+    "pinyin": "Zài hé zuò zhōng, rèn hé yī fāng dōu bù yīng gāi zhǐ gù zì jǐ ér hū shì duì fāng。",
+    "en": "In cooperation, neither side should mind only itself, ignoring the other."
+   },
+   {
+    "zh": "久别重逢,他们紧紧握着对方的手,久久不愿松开。",
+    "pinyin": "Jiǔ bié chóng féng, tā men jǐn jǐn wò zhe duì fāng de shǒu, jiǔ jiǔ bù yuàn sōng kāi。",
+    "en": "Reunited, they clasped each other's hands, loath to let go."
+   }
+  ]
+ },
+ {
+  "id": "g497",
+  "level": 5,
+  "title": "\"反而\" ile \"相反\" farkı",
+  "titleEn": "Comparing \"fan'er\" and \"xiangfan\"",
+  "pattern": "反而 (belirteç: beklenenin tersine) / 相反 (sıfat/bağlaç: zıt; aksine)",
+  "summary": "\"反而\" yüklem önünde \"tersine\" der, \"相反\" bağımsız olarak \"tam tersi, aksine\" der: 他反而笑了 / 结果恰恰相反。",
+  "explanation": "\"反而\" ve \"相反\" ikisi de \"tersine, aksine\" anlamı taşır ama DİLBİLGİSEL rolleri farklıdır. \"反而\" (fǎn'ér): bir BELİRTEÇtir; yüklemin (fiil/sıfat) önüne gelip beklenenin TAM TERSİNİN gerçekleştiğini bildirir — cümle içinde, öznenin ardından durur: 我以为他会难过,他反而笑了 (Üzülür sandım, tersine güldü), 吃了药,病反而更重了 (İlaç içince hastalık tersine ağırlaştı). \"反而\" tek başına cümle kuramaz; hep bir yüklemle gelir. \"相反\" (xiāngfǎn): bir SIFAT ya da BAĞLAÇtır. (1) Sıfat: \"zıt, ters, karşıt\" — 两个人的性格完全相反 (İkisinin huyu taban tabana zıt), 他的做法和我们相反 (Onun yaptığı bizimkinin tersi), 结果和预想的恰恰相反 (Sonuç beklenenin tam tersi çıktı). (2) Bağlaç (cümle başında, çoğu zaman \"相反，...\"): \"aksine, tam tersine\" — 他没有灰心,相反,他变得更加努力了 (Umudunu kesmedi; aksine, daha da çok çalıştı). Fark: \"反而\" yüklem önünde bir BELİRTEÇtir (...-in tersine ...-di); \"相反\" ise bağımsız bir SIFAT (zıt olmak) ya da cümle başı BAĞLAÇtır (aksine). \"他反而生气了\" (belirteç, yüklemle) ↔ \"结果正相反\" (sıfat) / \"相反，他很高兴\" (bağlaç). Türkçedeki \"tersine (反而: belirteç)\" ile \"zıt / aksine (相反: sıfat/bağlaç)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "我本以为批评会让他消沉,他反而更加发愤图强了。",
+    "pinyin": "Wǒ běn yǐ wéi pī píng huì ràng tā xiāo chén, tā fǎn ér gèng jiā fā fèn tú qiáng le。",
+    "en": "I thought criticism would dispirit him, but he strove harder instead."
+   },
+   {
+    "zh": "他们兄弟俩的性格截然相反,一个内向,一个外向。",
+    "pinyin": "Tā men xiōng dì liǎ de xìng gé jié rán xiāng fǎn, yí gè nèi xiàng, yí gè wài xiàng。",
+    "en": "The two brothers are opposite in nature — one shy, one outgoing."
+   },
+   {
+    "zh": "大雨没有浇灭他们的热情,反而让气氛更加热烈了。",
+    "pinyin": "Dà yǔ méi yǒu jiāo miè tā men de rè qíng, fǎn ér ràng qì fēn gèng jiā rè liè le。",
+    "en": "The rain didn't dampen their zeal but heated it up instead."
+   },
+   {
+    "zh": "事情的结果和我们最初的预想恰恰相反。",
+    "pinyin": "Shì qíng de jié guǒ hé wǒ men zuì chū de yù xiǎng qià qià xiāng fǎn。",
+    "en": "The outcome was exactly the opposite of what we expected."
+   },
+   {
+    "zh": "你越是紧张,反而越容易在关键时刻出差错。",
+    "pinyin": "Nǐ yuè shì jǐn zhāng, fǎn ér yuè róng yì zài guān jiàn shí kè chū chā cuò。",
+    "en": "The more nervous you are, the more you err at key moments."
+   },
+   {
+    "zh": "他不但没有生气,相反,还耐心地安慰了我一番。",
+    "pinyin": "Tā bù dàn méi yǒu shēng qì, xiāng fǎn, hái nài xīn de ān wèi le wǒ yī fān。",
+    "en": "Far from angry, he even patiently comforted me instead."
+   },
+   {
+    "zh": "过度的保护对孩子非但没有好处,反而有害。",
+    "pinyin": "Guò dù de bǎo hù duì hái zi fēi dàn méi yǒu hǎo chù, fǎn ér yǒu hài。",
+    "en": "Overprotection does a child no good but harm instead."
+   },
+   {
+    "zh": "这两种做法看似相似,实际的效果却完全相反。",
+    "pinyin": "Zhè liǎng zhǒng zuò fǎ kàn shì xiāng sì, shí jì de xiào guǒ què wán quán xiāng fǎn。",
+    "en": "The two methods seem alike but yield opposite effects."
+   },
+   {
+    "zh": "我以为他会推辞,他反而爽快地答应了下来。",
+    "pinyin": "Wǒ yǐ wéi tā huì tuī cí, tā fǎn ér shuǎng kuài de dā yìng le xià lái。",
+    "en": "I thought he'd decline, but he agreed readily instead."
+   },
+   {
+    "zh": "他并没有因失败而气馁,相反,斗志变得更旺了。",
+    "pinyin": "Tā bìng méi yǒu yīn shī bài ér qì něi, xiāng fǎn, dòu zhì biàn de gèng wàng le。",
+    "en": "He wasn't discouraged by failure; on the contrary, he grew keener."
+   },
+   {
+    "zh": "你越想掩盖真相,反而越容易引起别人的怀疑。",
+    "pinyin": "Nǐ yuè xiǎng yǎn gài zhēn xiàng, fǎn ér yuè róng yì yǐn qǐ bié rén de huái yí。",
+    "en": "The more you hide the truth, the more you rouse suspicion."
+   },
+   {
+    "zh": "这两个人的立场完全相反,谈判自然十分艰难。",
+    "pinyin": "Zhè liǎng gè rén de lì chǎng wán quán xiāng fǎn, tán pàn zì rán shí fēn jiān nán。",
+    "en": "The two hold opposite stances, so the talks are hard."
+   },
+   {
+    "zh": "适当的压力不但不是坏事,反而能激发人的潜能。",
+    "pinyin": "Shì dàng de yā lì bù dàn bú shì huài shì, fǎn ér néng jī fā rén de qián néng。",
+    "en": "Some pressure isn't bad but can spark one's potential instead."
+   },
+   {
+    "zh": "他的话和他的行动,常常是相互矛盾、彼此相反的。",
+    "pinyin": "Tā de huà hé tā de xíng dòng, cháng cháng shì xiāng hù máo dùn、 bǐ cǐ xiāng fǎn de。",
+    "en": "His words and deeds often contradict and oppose each other."
+   },
+   {
+    "zh": "我提醒了他,他反而怪起我多管闲事来了。",
+    "pinyin": "Wǒ tí xǐng le tā, tā fǎn ér guài qǐ wǒ duō guǎn xián shì lái le。",
+    "en": "I reminded him, and he blamed me for meddling instead."
+   },
+   {
+    "zh": "这次他没有随大流,相反,他坚持了自己的选择。",
+    "pinyin": "Zhè cì tā méi yǒu suí dà liú, xiāng fǎn, tā jiān chí le zì jǐ de xuǎn zé。",
+    "en": "This time he didn't follow the crowd; instead, he held his choice."
+   },
+   {
+    "zh": "你越是刻意去追求,幸福反而离你越来越远。",
+    "pinyin": "Nǐ yuè shì kè yì qù zhuī qiú, xìng fú fǎn ér lí nǐ yuè lái yuè yuǎn。",
+    "en": "The more you chase it, the farther happiness drifts."
+   },
+   {
+    "zh": "他们两家的家风大相径庭,教育方式也正好相反。",
+    "pinyin": "Tā men liǎng jiā de jiā fēng dà xiāng jìng tíng, jiào yù fāng shì yě zhèng hǎo xiāng fǎn。",
+    "en": "The two families' ways differ greatly, their upbringing opposite."
+   },
+   {
+    "zh": "我以为道歉能让他息怒,反而火上浇油了。",
+    "pinyin": "Wǒ yǐ wéi dào qiàn néng ràng tā xī nù, fǎn ér huǒ shàng jiāo yóu le。",
+    "en": "I thought apologizing would calm him, but it fanned the flames."
+   },
+   {
+    "zh": "这道题看似简单,相反,里面藏着不少陷阱。",
+    "pinyin": "Zhè dào tí kàn shì jiǎn dān, xiāng fǎn, lǐ miàn cáng zhe bù shǎo xiàn jǐng。",
+    "en": "The problem seems easy; on the contrary, it hides many traps."
+   },
+   {
+    "zh": "经历了这场变故,他没有一蹶不振,反而更坚强了。",
+    "pinyin": "Jīng lì le zhè chǎng biàn gù, tā méi yǒu yī jué bù zhèn, fǎn ér gèng jiān qiáng le。",
+    "en": "After the upheaval, he didn't collapse but grew stronger instead."
+   },
+   {
+    "zh": "我们的意见并不一致,甚至可以说是完全相反的。",
+    "pinyin": "Wǒ men de yì jiàn bìng bù yī zhì, shèn zhì kě yǐ shuō shì wán quán xiāng fǎn de。",
+    "en": "Our views don't agree; indeed, they're quite opposite."
+   },
+   {
+    "zh": "你越是催促,他反而磨磨蹭蹭,一点也快不起来。",
+    "pinyin": "Nǐ yuè shì cuī cù, tā fǎn ér mó mó cèng cèng, yì diǎn yě kuài bù qǐ lái。",
+    "en": "The more you rush him, the more he dawdles instead."
+   },
+   {
+    "zh": "表面上风平浪静,实际的情况却正好相反。",
+    "pinyin": "Biǎo miàn shàng fēng píng làng jìng, shí jì de qíng kuàng què zhèng hǎo xiāng fǎn。",
+    "en": "On the surface it's calm; the reality is just the opposite."
+   },
+   {
+    "zh": "这次失利没有让球队分崩离析,相反,他们更团结了。",
+    "pinyin": "Zhè cì shī lì méi yǒu ràng qiú duì fēn bēng lí xī, xiāng fǎn, tā men gèng tuán jié le。",
+    "en": "The loss didn't split the team; instead, it united them more."
+   }
+  ]
  }
 ]

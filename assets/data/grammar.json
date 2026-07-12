@@ -63374,5 +63374,685 @@
     "en": "After the storm, the sky was blue as if washed, wonderfully clear."
    }
   ]
+ },
+ {
+  "id": "g467",
+  "level": 5,
+  "title": "\"不愧是\" ile \"...-e yaraşır / adına layık\"",
+  "titleEn": "Expressing \"to be worthy of\" with \"bukuishi\"",
+  "pattern": "不愧是 + Ad / Unvan",
+  "summary": "\"不愧是\" birinin/bir şeyin unvanına gerçekten layık olduğunu bildirir: 他不愧是冠军 = Şampiyon olmasına diyecek yok / şampiyonluğuna layık.",
+  "explanation": "\"不愧是\" (bùkuì shì) bir kişinin ya da şeyin bir unvanı, sıfatı ya da beklentiyi GERÇEKTEN HAK ETTİĞİNİ, ona LAYIK olduğunu takdirle bildirir: \"...-e yaraşır, adına layık, ...-e diyecek yok, gerçek bir ..., boşuna değil ...\". Kalıp: (özne) 不愧是 + ad/unvan(，+ açıklama). 他一出手就解决了难题,不愧是这方面的专家 (Sorunu çözüverdi, alanının uzmanı olmasına diyecek yok), 这道菜色香味俱全,不愧是这家店的招牌 (Renk, koku, tat tam; bu dükkânın amiral yemeği olmasına layık), 你一次就考了满分,不愧是我们班的学霸 (İlk seferde tam not aldın, sınıfımızın en çalışkanı olmana diyecek yok), 这座城市历史悠久,不愧是文化名城 (Bu şehir köklü bir tarihe sahip, kültür şehri unvanına yaraşır). \"不愧\" \"utanç duymaz, layık olur\" demektir; \"不愧是 + X\" birinin/bir şeyin X unvanına GÖLGE DÜŞÜRMEDİĞİNİ, onu tam anlamıyla hak ettiğini över. Genellikle bir başarı/nitelik gözlemlendikten sonra takdir/hayranlık bildirir. \"真不愧是\" biçimi vurguyu artırır. \"不愧为\" daha resmî biçimidir. Türkçedeki \"...-e yaraşır, adına layık, ...-e diyecek yok, gerçek bir ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他三言两语就把难题讲透了,不愧是这一行的老专家。",
+    "pinyin": "Tā sān yán liǎng yǔ jiù bǎ nán tí jiǎng tòu le, bù kuì shì zhè yī xíng de lǎo zhuān jiā。",
+    "en": "He clarified the problem in a few words — a true veteran expert."
+   },
+   {
+    "zh": "这幅画构思精巧,笔法老练,不愧是名家之作。",
+    "pinyin": "Zhè fú huà gòu sī jīng qiǎo, bǐ fǎ lǎo liàn, bù kuì shì míng jiā zhī zuò。",
+    "en": "The painting is ingenious and masterful — worthy of a great artist."
+   },
+   {
+    "zh": "你一口气背下了整篇长文,不愧是我们班的记忆高手。",
+    "pinyin": "Nǐ yì kǒu qì bèi xià le zhěng piān zhǎng wén, bù kuì shì wǒ men bān de jì yì gāo shǒu。",
+    "en": "You recited the whole essay in one go — truly our memory champ."
+   },
+   {
+    "zh": "这座古城处处透着历史的厚重,不愧是千年古都。",
+    "pinyin": "Zhè zuò gǔ chéng chù chù tòu zhe lì shǐ de hòu zhòng, bù kuì shì qiān nián gǔ dū。",
+    "en": "The old city breathes history — worthy of its millennia as a capital."
+   },
+   {
+    "zh": "他临危不乱,指挥若定,不愧是经验丰富的老船长。",
+    "pinyin": "Tā lín wēi bù luàn, zhǐ huī ruò dìng, bù kuì shì jīng yàn fēng fù de lǎo chuán zhǎng。",
+    "en": "Calm in crisis and commanding — a seasoned captain indeed."
+   },
+   {
+    "zh": "这道菜色香味俱全,不愧是这家老字号的招牌菜。",
+    "pinyin": "Zhè dào cài sè xiāng wèi jù quán, bù kuì shì zhè jiā lǎo zì hào de zhāo pái cài。",
+    "en": "The dish excels in all respects — worthy of the shop's signature."
+   },
+   {
+    "zh": "他小小年纪就懂得体谅父母,不愧是个懂事的好孩子。",
+    "pinyin": "Tā xiǎo xiǎo nián jì jiù dǒng de tǐ liàng fù mǔ, bù kuì shì gè dǒng shì de hǎo hái zi。",
+    "en": "So young yet considerate of his parents — a truly sensible child."
+   },
+   {
+    "zh": "这台机器连续运转多年从不出错,不愧是名牌产品。",
+    "pinyin": "Zhè tái jī qì lián xù yùn zhuàn duō nián cóng bù chū cuò, bù kuì shì míng pái chǎn pǐn。",
+    "en": "The machine ran flawlessly for years — worthy of its famous brand."
+   },
+   {
+    "zh": "他在赛场上沉着冷静,一举夺冠,不愧是老将。",
+    "pinyin": "Tā zài sài chǎng shàng chén zhuó lěng jìng, yī jǔ duó guàn, bù kuì shì lǎo jiàng。",
+    "en": "Calm on the field and clinching the title — a true veteran."
+   },
+   {
+    "zh": "这篇文章立意深刻,文笔流畅,不愧是获奖作品。",
+    "pinyin": "Zhè piān wén zhāng lì yì shēn kè, wén bǐ liú chàng, bù kuì shì huò jiǎng zuò pǐn。",
+    "en": "The essay is profound and fluent — worthy of its award."
+   },
+   {
+    "zh": "他把复杂的道理讲得深入浅出,不愧是位好老师。",
+    "pinyin": "Tā bǎ fù zá de dào lǐ jiǎng de shēn rù qiǎn chū, bù kuì shì wèi hǎo lǎo shī。",
+    "en": "He explained complex ideas simply — truly a fine teacher."
+   },
+   {
+    "zh": "这座桥历经百年风雨依然坚固,不愧是精工之作。",
+    "pinyin": "Zhè zuò qiáo lì jīng bǎi nián fēng yǔ yī rán jiān gù, bù kuì shì jīng gōng zhī zuò。",
+    "en": "The bridge stands firm after a century — a work of fine craft."
+   },
+   {
+    "zh": "她待人接物落落大方,不愧是见过大世面的人。",
+    "pinyin": "Tā dài rén jiē wù luò luò dà fāng, bù kuì shì jiàn guò dà shì miàn de rén。",
+    "en": "Poised and gracious — clearly someone who's seen the world."
+   },
+   {
+    "zh": "这片园林布局精妙,处处皆景,不愧是江南名园。",
+    "pinyin": "Zhè piàn yuán lín bù jú jīng miào, chù chù jiē jǐng, bù kuì shì jiāng nán míng yuán。",
+    "en": "The garden is exquisitely laid out — worthy of its southern fame."
+   },
+   {
+    "zh": "他遇事从不慌张,总能想出办法,不愧是主心骨。",
+    "pinyin": "Tā yù shì cóng bù huāng zhāng, zǒng néng xiǎng chū bàn fǎ, bù kuì shì zhǔ xīn gǔ。",
+    "en": "Never flustered and always resourceful — truly the mainstay."
+   },
+   {
+    "zh": "这匹马跑得又快又稳,不愧是千里挑一的良驹。",
+    "pinyin": "Zhè pǐ mǎ pǎo de yòu kuài yòu wěn, bù kuì shì qiān lǐ tiāo yī de liáng jū。",
+    "en": "The horse runs fast and steady — a fine steed one in a thousand."
+   },
+   {
+    "zh": "他把每个细节都照顾到了,不愧是办事周到的能手。",
+    "pinyin": "Tā bǎ měi gè xì jié dōu zhào gù dào le, bù kuì shì bàn shì zhōu dào de néng shǒu。",
+    "en": "He minded every detail — a thorough and capable hand indeed."
+   },
+   {
+    "zh": "这本词典释义精准,例句丰富,不愧是权威工具书。",
+    "pinyin": "Zhè běn cí diǎn shì yì jīng zhǔn, lì jù fēng fù, bù kuì shì quán wēi gōng jù shū。",
+    "en": "Accurate and rich in examples — worthy of an authoritative reference."
+   },
+   {
+    "zh": "他年过七十还坚持每天创作,不愧是艺术界的常青树。",
+    "pinyin": "Tā nián guò qī shí hái jiān chí měi tiān chuàng zuò, bù kuì shì yì shù jiè de cháng qīng shù。",
+    "en": "Still creating daily past seventy — an evergreen of the art world."
+   },
+   {
+    "zh": "这场演出精彩绝伦,掌声经久不息,不愧是压轴大戏。",
+    "pinyin": "Zhè chǎng yǎn chū jīng cǎi jué lún, zhǎng shēng jīng jiǔ bù xī, bù kuì shì yā zhòu dà xì。",
+    "en": "The show was superb, applause endless — worthy of the finale."
+   },
+   {
+    "zh": "他一眼就看出了问题的关键,不愧是行家里手。",
+    "pinyin": "Tā yī yǎn jiù kàn chū le wèn tí de guān jiàn, bù kuì shì háng jiā lǐ shǒu。",
+    "en": "He spotted the crux at a glance — a true connoisseur."
+   },
+   {
+    "zh": "这道工序做得一丝不苟,不愧是精益求精的匠人。",
+    "pinyin": "Zhè dào gōng xù zuò de yī sī bù gǒu, bù kuì shì jīng yì qiú jīng de jiàng rén。",
+    "en": "The step was done meticulously — a craftsman who seeks perfection."
+   },
+   {
+    "zh": "她把家里打理得井井有条,不愧是持家的能手。",
+    "pinyin": "Tā bǎ jiā lǐ dǎ lǐ de jǐng jǐng yǒu tiáo, bù kuì shì chí jiā de néng shǒu。",
+    "en": "She keeps the home in perfect order — a capable homemaker indeed."
+   },
+   {
+    "zh": "他在逆境中依然坚持理想,不愧是有志气的年轻人。",
+    "pinyin": "Tā zài nì jìng zhōng yī rán jiān chí lǐ xiǎng, bù kuì shì yǒu zhì qì de nián qīng rén。",
+    "en": "Holding his ideal in adversity — a young man of true resolve."
+   },
+   {
+    "zh": "这款手机性能出色,做工精细,不愧是旗舰机型。",
+    "pinyin": "Zhè kuǎn shǒu jī xìng néng chū sè, zuò gōng jīng xì, bù kuì shì qí jiàn jī xíng。",
+    "en": "Excellent performance and fine build — worthy of a flagship."
+   }
+  ]
+ },
+ {
+  "id": "g468",
+  "level": 5,
+  "title": "\"由...做主\" ile \"kararı ... verir\"",
+  "titleEn": "Expressing who is in charge with \"you... zuozhu\"",
+  "pattern": "由 + Kişi + 做主",
+  "summary": "\"由...做主\" kararı kimin verdiğini bildirir: 这件事由你做主 = Bu işin kararını sen ver.",
+  "explanation": "\"由 + kişi + 做主\" bir konuda KARARI kimin verdiğini, kimin söz sahibi/yetkili olduğunu bildirir: \"kararı ... verir, ...-in dediği olur, ... söz sahibidir, ...-e kalmış\". Kalıp: (iş)，由 + kişi + 做主. 这件事你别问我,由你自己做主 (Bunu bana sorma, kararı sen ver), 家里的大事一向由爷爷做主 (Evdeki önemli işlerde hep dede söz sahibidir), 你们年轻人的事,应该由你们自己做主 (Siz gençlerin işine siz karar vermelisiniz), 这次去哪儿旅行,就由孩子们做主吧 (Bu sefer nereye gidileceğine çocuklar karar versin). \"做主\" \"karar vermek, sahip çıkmak, yetkili olmak\" demektir; \"由 + kişi\" o yetkinin kime ait olduğunu belirtir (\"由\" burada g354'teki gibi bir işi kime düştüğünü gösterir). Bu kalıp bir kararın/sorumluluğun belli bir kişiye AİT olduğunu, o kişinin serbestçe karar verebileceğini vurgular. Ayrıca \"当家做主\" (evin/işin reisi olmak, kendi kaderine hâkim olmak), \"自己做主\" (kendi kararını kendi vermek) gibi yerleşik biçimleri vardır. Türkçedeki \"kararı ... verir, ...-in dediği olur, ... söz sahibidir, ...-e kalmış\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这件事你自己拿主意就行,完全由你做主。",
+    "pinyin": "Zhè jiàn shì nǐ zì jǐ ná zhǔ yì jiù xíng, wán quán yóu nǐ zuò zhǔ。",
+    "en": "Decide it yourself; it's entirely up to you."
+   },
+   {
+    "zh": "家里的大小事情,一向都是由奶奶做主。",
+    "pinyin": "Jiā lǐ de dà xiǎo shì qíng, yí xiàng dōu shì yóu nǎi nǎi zuò zhǔ。",
+    "en": "Matters big and small at home have always been Grandma's to decide."
+   },
+   {
+    "zh": "你们的婚事,应该由你们两个年轻人自己做主。",
+    "pinyin": "Nǐ men de hūn shì, yīng gāi yóu nǐ men liǎng gè nián qīng rén zì jǐ zuò zhǔ。",
+    "en": "Your marriage should be decided by you two young people."
+   },
+   {
+    "zh": "这次团建去哪里,就由大家投票,少数服从多数做主。",
+    "pinyin": "Zhè cì tuán jiàn qù nǎ lǐ, jiù yóu dà jiā tóu piào, shǎo shù fú cóng duō shù zuò zhǔ。",
+    "en": "Where to go this outing is decided by everyone's vote."
+   },
+   {
+    "zh": "公司的重大决策,最终还是由董事会集体做主。",
+    "pinyin": "Gōng sī de zhòng dà jué cè, zuì zhōng hái shì yóu dǒng shì huì jí tǐ zuò zhǔ。",
+    "en": "Major company decisions rest with the board collectively."
+   },
+   {
+    "zh": "孩子选什么专业,还是应该多听听他自己做主。",
+    "pinyin": "Hái zi xuǎn shén me zhuān yè, hái shì yīng gāi duō tīng tīng tā zì jǐ zuò zhǔ。",
+    "en": "What major the child picks should largely be his own call."
+   },
+   {
+    "zh": "这块地怎么用,现在归他了,当然由他做主。",
+    "pinyin": "Zhè kuài de zěn me yòng, xiàn zài guī tā le, dāng rán yóu tā zuò zhǔ。",
+    "en": "How to use this land is his now, so it's his to decide."
+   },
+   {
+    "zh": "买不买这套房子,你说了算,由你做主。",
+    "pinyin": "Mǎi bù mǎi zhè tào fáng zi, nǐ shuō le suàn, yóu nǐ zuò zhǔ。",
+    "en": "Whether to buy this flat is your call to make."
+   },
+   {
+    "zh": "既然把事情交给了他,就该放手让他做主。",
+    "pinyin": "Jì rán bǎ shì qíng jiāo gěi le tā, jiù gāi fàng shǒu ràng tā zuò zhǔ。",
+    "en": "Since the matter's entrusted to him, let him decide freely."
+   },
+   {
+    "zh": "这顿饭点什么菜,今天就由你来做主吧。",
+    "pinyin": "Zhè dùn fàn diǎn shén me cài, jīn tiān jiù yóu nǐ lái zuò zhǔ ba。",
+    "en": "What to order for this meal is yours to decide today."
+   },
+   {
+    "zh": "在自己的地盘上,他终于可以扬眉吐气地当家做主了。",
+    "pinyin": "Zài zì jǐ de de pán shàng, tā zhōng yú kě yǐ yáng méi tǔ qì de dāng jiā zuò zhǔ le。",
+    "en": "On his own turf, he can finally be his own master."
+   },
+   {
+    "zh": "你已经长大了,自己的人生就该由自己做主。",
+    "pinyin": "Nǐ yǐ jīng zhǎng dà le, zì jǐ de rén shēng jiù gāi yóu zì jǐ zuò zhǔ。",
+    "en": "You've grown up; your own life should be yours to decide."
+   },
+   {
+    "zh": "这件礼物送给谁,就由孩子们自己做主好了。",
+    "pinyin": "Zhè jiàn lǐ wù sòng gěi shuí, jiù yóu hái zi men zì jǐ zuò zhǔ hǎo le。",
+    "en": "Whom to give the gift to is for the children to decide."
+   },
+   {
+    "zh": "在这个家里,花钱的事一向由妻子做主。",
+    "pinyin": "Zài zhè ge jiā lǐ, huā qián de shì yí xiàng yóu qī zǐ zuò zhǔ。",
+    "en": "In this home, spending has always been the wife's to decide."
+   },
+   {
+    "zh": "这次活动的具体安排,交给你,由你全权做主。",
+    "pinyin": "Zhè cì huó dòng de jù tǐ ān pái, jiāo gěi nǐ, yóu nǐ quán quán zuò zhǔ。",
+    "en": "The event's arrangements are yours to decide in full."
+   },
+   {
+    "zh": "既然是你的专业领域,这件事当然由你说了算、你做主。",
+    "pinyin": "Jì rán shì nǐ de zhuān yè lǐng yù, zhè jiàn shì dāng rán yóu nǐ shuō le suàn、 nǐ zuò zhǔ。",
+    "en": "Since it's your field, this is naturally yours to decide."
+   },
+   {
+    "zh": "店里的日常经营,老板都放心地交给他做主。",
+    "pinyin": "Diàn lǐ de rì cháng jīng yíng, lǎo bǎn dōu fàng xīn de jiāo gěi tā zuò zhǔ。",
+    "en": "The boss entrusts the shop's daily running to him to decide."
+   },
+   {
+    "zh": "你别什么都问别人,有些事得学着自己做主。",
+    "pinyin": "Nǐ bié shén me dōu wèn bié rén, yǒu xiē shì de xué zhe zì jǐ zuò zhǔ。",
+    "en": "Don't ask others everything; learn to decide some things yourself."
+   },
+   {
+    "zh": "分给你的那部分,你想怎么处理都由你做主。",
+    "pinyin": "Fēn gěi nǐ de nà bù fèn, nǐ xiǎng zěn me chǔ lǐ dōu yóu nǐ zuò zhǔ。",
+    "en": "The share given to you is yours to handle as you decide."
+   },
+   {
+    "zh": "这场演出的节目单,就由导演一个人做主敲定了。",
+    "pinyin": "Zhè chǎng yǎn chū de jié mù dān, jiù yóu dǎo yǎn yí gè rén zuò zhǔ qiāo dìng le。",
+    "en": "The program was finalized by the director's own decision."
+   },
+   {
+    "zh": "孩子的零花钱怎么花,可以适当让他自己做主。",
+    "pinyin": "Hái zi de líng huā qián zěn me huā, kě yǐ shì dàng ràng tā zì jǐ zuò zhǔ。",
+    "en": "How to spend pocket money can be somewhat the child's call."
+   },
+   {
+    "zh": "这次合作的条款,还得由双方代表共同做主才行。",
+    "pinyin": "Zhè cì hé zuò de tiáo kuǎn, hái de yóu shuāng fāng dài biǎo gòng tóng zuò zhǔ cái xíng。",
+    "en": "The terms of this deal must be decided by both sides' reps."
+   },
+   {
+    "zh": "你是这个项目的负责人,遇到问题你就大胆做主。",
+    "pinyin": "Nǐ shì zhè ge xiàng mù dì fù zé rén, yù dào wèn tí nǐ jiù dà dǎn zuò zhǔ。",
+    "en": "As the project lead, decide boldly when problems arise."
+   },
+   {
+    "zh": "既然大家推举了你,这件事就由你放手去做主。",
+    "pinyin": "Jì rán dà jiā tuī jǔ le nǐ, zhè jiàn shì jiù yóu nǐ fàng shǒu qù zuò zhǔ。",
+    "en": "Since all elected you, decide this matter with a free hand."
+   },
+   {
+    "zh": "家里添置什么东西,一般都是他们夫妻俩商量着做主。",
+    "pinyin": "Jiā lǐ tiān zhì shén me dōng xī, yì bān dōu shì tā men fū qī liǎ shāng liáng zhe zuò zhǔ。",
+    "en": "What to add to the home is usually the couple's joint decision."
+   }
+  ]
+ },
+ {
+  "id": "g469",
+  "level": 5,
+  "title": "\"非得...(不可)\" ile \"illa / mutlaka\"",
+  "titleEn": "Expressing \"must\" with \"feidei\"",
+  "pattern": "非得 + Fiil + (不可 / 才行)",
+  "summary": "\"非得\" bir şeyin mutlaka gerektiğini/ısrarla istendiğini bildirir: 这事非得他同意才行 = Bu iş için mutlaka onun onayı gerekir.",
+  "explanation": "\"非得\" (fēiděi) bir eylemin MUTLAKA yapılması/olması gerektiğini ya da birinin ISRARLA bir şey istediğini vurgular: \"mutlaka, illa, ...-mek zorunda, ...-meden olmaz\". Genellikle sonunda \"不可/才行/不成\" ile birlikte gelir (ama bazen tek başına da kullanılır). İki ana anlam. (1) ZORUNLULUK/gereklilik: 这件事非得他亲自出面才行 (Bu işe mutlaka onun bizzat el atması gerek), 想要成功,非得付出艰辛的努力不可 (Başarmak için mutlaka zorlu bir çaba gerekir). (2) İnatçı ISRAR: 我劝他别去,他非得去 (Gitme dedim, illa gidecek diye tutturdu), 孩子非得要买那个玩具 (Çocuk illa o oyuncağı alacak diye tutturdu). \"非得\" = \"非...不可\" kalıbının konuşma dilindeki daha akıcı biçimidir; \"非\" tek başına olumsuzdur ama \"非得...不可/才行\" çifte olumsuzlukla güçlü bir zorunluluk verir. \"得\" (děi = gerekmek) zaten gereklilik bildirir; başına \"非\" gelince vurgu pekişir. Konuşma dilinde çok canlı ve yaygındır. \"非要\" biçimi de özellikle inatçı ısrarda kullanılır. Türkçedeki \"mutlaka, illa, ...-mek zorunda, ...-meden olmaz\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这么重要的合同,非得双方负责人当面签字才行。",
+    "pinyin": "Zhè me zhòng yào de hé tóng, fēi de shuāng fāng fù zé rén dāng miàn qiān zì cái xíng。",
+    "en": "Such a key contract must be signed by both heads in person."
+   },
+   {
+    "zh": "我再三劝他量力而行,他偏偏非得逞强不可。",
+    "pinyin": "Wǒ zài sān quàn tā liàng lì ér xíng, tā piān piān fēi de chěng qiáng bù kě。",
+    "en": "I urged him to know his limits, but he insisted on overreaching."
+   },
+   {
+    "zh": "想把身体养好,非得坚持锻炼、按时作息不可。",
+    "pinyin": "Xiǎng bǎ shēn tǐ yǎng hǎo, fēi de jiān chí duàn liàn、 àn shí zuò xī bù kě。",
+    "en": "To stay healthy, one must keep exercising and keep regular hours."
+   },
+   {
+    "zh": "这道工序马虎不得,非得一步一步做到位才行。",
+    "pinyin": "Zhè dào gōng xù mǎ hǔ bù de, fēi de yí bù yí bù zuò dào wèi cái xíng。",
+    "en": "This step can't be rushed; each part must be done right."
+   },
+   {
+    "zh": "孩子非得让我陪着他一起去,自己怎么都不肯去。",
+    "pinyin": "Hái zi fēi de ràng wǒ péi zhe tā yì qǐ qù, zì jǐ zěn me dōu bù kěn qù。",
+    "en": "The child insisted I go with him; he wouldn't go alone."
+   },
+   {
+    "zh": "这种病非得及时治疗不可,拖久了会很麻烦。",
+    "pinyin": "Zhè zhǒng bìng fēi de jí shí zhì liáo bù kě, tuō jiǔ le huì hěn má fán。",
+    "en": "This illness must be treated in time, or delay brings trouble."
+   },
+   {
+    "zh": "你别劝了,他这个人认准的事非得做到底不可。",
+    "pinyin": "Nǐ bié quàn le, tā zhè ge rén rèn zhǔn de shì fēi de zuò dào dǐ bù kě。",
+    "en": "Save your breath; once set, he must see it through."
+   },
+   {
+    "zh": "想要真正学会一门技术,非得亲自动手实践才行。",
+    "pinyin": "Xiǎng yào zhēn zhèng xué huì yī mén jì shù, fēi de qīn zì dòng shǒu shí jiàn cái xíng。",
+    "en": "To truly master a skill, one must practice hands-on."
+   },
+   {
+    "zh": "这么晚了他非得赶回家不可,说家里还有事。",
+    "pinyin": "Zhè me wǎn le tā fēi de gǎn huí jiā bù kě, shuō jiā lǐ hái yǒu shì。",
+    "en": "So late, yet he insisted on rushing home, saying he had matters."
+   },
+   {
+    "zh": "这件事关系重大,非得慎重考虑清楚了再决定。",
+    "pinyin": "Zhè jiàn shì guān xì zhòng dà, fēi de shèn zhòng kǎo lǜ qīng chǔ le zài jué dìng。",
+    "en": "This weighty matter must be carefully weighed before deciding."
+   },
+   {
+    "zh": "大家都吃饱了,他非得再点一道菜,说是招待客人。",
+    "pinyin": "Dà jiā dōu chī bǎo le, tā fēi de zài diǎn yī dào cài, shuō shì zhāo dài kè rén。",
+    "en": "All were full, yet he insisted on one more dish for the guests."
+   },
+   {
+    "zh": "要想赢得信任,非得用实际行动来证明自己不可。",
+    "pinyin": "Yào xiǎng yíng de xìn rèn, fēi de yòng shí jì xíng dòng lái zhèng míng zì jǐ bù kě。",
+    "en": "To win trust, one must prove oneself by real action."
+   },
+   {
+    "zh": "这台机器出了故障,非得请专业师傅来修才行。",
+    "pinyin": "Zhè tái jī qì chū le gù zhàng, fēi de qǐng zhuān yè shī fù lái xiū cái xíng。",
+    "en": "The machine broke down and must be fixed by a pro."
+   },
+   {
+    "zh": "他非得当着大家的面把话说清楚,一点也不含糊。",
+    "pinyin": "Tā fēi de dāng zhe dà jiā de miàn bǎ huà shuō qīng chǔ, yì diǎn yě bù hán hù。",
+    "en": "He insisted on making it clear before everyone, no ambiguity."
+   },
+   {
+    "zh": "这么珍贵的资料,非得妥善保管好不可,绝不能弄丢。",
+    "pinyin": "Zhè me zhēn guì de zī liào, fēi de tuǒ shàn bǎo guǎn hǎo bù kě, jué bù néng nòng diū。",
+    "en": "Such precious data must be kept safe and never lost."
+   },
+   {
+    "zh": "小侄女非得让我给她讲三个故事才肯睡觉。",
+    "pinyin": "Xiǎo zhí nǚ fēi de ràng wǒ gěi tā jiǎng sān gè gù shì cái kěn shuì jiào。",
+    "en": "My niece insisted on three stories before she'd sleep."
+   },
+   {
+    "zh": "想在这个领域有所建树,非得下一番苦功夫不可。",
+    "pinyin": "Xiǎng zài zhè ge lǐng yù yǒu suǒ jiàn shù, fēi de xià yī fān kǔ gōng fu bù kě。",
+    "en": "To achieve in this field, one must put in real hard work."
+   },
+   {
+    "zh": "路这么滑,你非得开车去吗?坐地铁不是更安全?",
+    "pinyin": "Lù zhè me huá, nǐ fēi de kāi chē qù ma? zuò dì tiě bú shì gèng ān quán?",
+    "en": "The road's so slippery — must you drive? Isn't the subway safer?"
+   },
+   {
+    "zh": "这个结论非得经过反复验证,才能公之于众。",
+    "pinyin": "Zhè ge jié lùn fēi de jīng guò fǎn fù yàn zhèng, cái néng gōng zhī yú zhòng。",
+    "en": "This conclusion must be verified repeatedly before going public."
+   },
+   {
+    "zh": "他非得把今天的活儿干完才休息,谁劝也没用。",
+    "pinyin": "Tā fēi de bǎ jīn tiān de huó er gàn wán cái xiū xī, shuí quàn yě méi yòng。",
+    "en": "He insisted on finishing today's work before resting."
+   },
+   {
+    "zh": "要维持这段关系,非得双方都用心经营才行。",
+    "pinyin": "Yào wéi chí zhè duàn guān xì, fēi de shuāng fāng dōu yòng xīn jīng yíng cái xíng。",
+    "en": "To keep this relationship, both must nurture it with care."
+   },
+   {
+    "zh": "这种精密仪器,非得在恒温环境下才能正常工作。",
+    "pinyin": "Zhè zhǒng jīng mì yí qì, fēi de zài héng wēn huán jìng xià cái néng zhèng cháng gōng zuò。",
+    "en": "This precise instrument must work in a constant-temperature setting."
+   },
+   {
+    "zh": "他非得亲眼看到我平安,才肯放心地离开。",
+    "pinyin": "Tā fēi de qīn yǎn kàn dào wǒ píng ān, cái kěn fàng xīn de lí kāi。",
+    "en": "He insisted on seeing me safe before he'd leave at ease."
+   },
+   {
+    "zh": "想把这篇文章写好,非得反复推敲、字斟句酌不可。",
+    "pinyin": "Xiǎng bǎ zhè piān wén zhāng xiě hǎo, fēi de fǎn fù tuī qiāo、 zì zhēn jù zhuó bù kě。",
+    "en": "To write this well, one must polish and weigh each word."
+   },
+   {
+    "zh": "这么冷的天,你非得穿这么少,不冻感冒才怪。",
+    "pinyin": "Zhè me lěng de tiān, nǐ fēi de chuān zhè me shǎo, bù dòng gǎn mào cái guài。",
+    "en": "In such cold, you must dress so lightly? No wonder you'd catch a chill."
+   }
+  ]
+ },
+ {
+  "id": "g470",
+  "level": 5,
+  "title": "\"一来...二来...\" ile gerekçe sıralama",
+  "titleEn": "Stating two or more reasons with \"yilai...erlai\"",
+  "pattern": "一来 ...，二来 ...（三来 ...）",
+  "summary": "\"一来...二来...\" birden çok neden/yön sıralar: 一来省钱,二来锻炼身体 = Bir yandan para tasarrufu, bir yandan spor.",
+  "explanation": "\"一来 ... 二来 ...\" bir eylemin/kararın birden çok NEDENİNİ ya da YÖNÜNÜ sırayla sayar: \"bir yandan ... bir yandan ..., birincisi ... ikincisi ..., hem ... hem de ...\". Kalıp: 一来 + neden 1，二来 + neden 2 (，三来 + neden 3). 我劝你早点去,一来可以避开高峰,二来也能挑个好位置 (Erken git derim; bir yandan yoğunluktan kaçarsın, bir yandan iyi bir yer kaparsın), 他每天走路上班,一来省钱,二来还能锻炼身体 (Her gün yürüyor; hem para biriktiriyor hem spor yapıyor), 这么做,一来对大家有好处,二来自己也落个轻松 (Böyle yapmak hem herkesin yararına hem de kendisi rahatlar). \"一来...二来...\" bir davranışın ardındaki birkaç gerekçeyi düzenli, konuşma diline yakın biçimde sıralar; her madde bağımsız bir neden/avantaj belirtir. \"三来\" ile üçüncü, hatta \"四来\" ile dördüncü neden eklenebilir. \"一是...二是...\" ve \"首先...其次...\" ile anlamca yakındır; \"一来...二来...\" özellikle bir kararın PRATİK gerekçelerini/avantajlarını sıralamada doğaldır. Türkçedeki \"bir yandan ... bir yandan ..., birincisi ... ikincisi ..., hem ... hem de ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "我建议你早点出发,一来能避开堵车,二来也不至于太赶。",
+    "pinyin": "Wǒ jiàn yì nǐ zǎo diǎn chū fā, yī lái néng bì kāi dǔ chē, èr lái yě bù zhì yú tài gǎn。",
+    "en": "Leave early: you'll avoid traffic and not have to rush."
+   },
+   {
+    "zh": "他坚持每天步行上班,一来省下车费,二来还锻炼了身体。",
+    "pinyin": "Tā jiān chí měi tiān bù xíng shàng bān, yī lái shěng xià chē fèi, èr lái hái duàn liàn le shēn tǐ。",
+    "en": "He walks to work daily: it saves fare and gives exercise."
+   },
+   {
+    "zh": "这么安排比较妥当,一来对大家都公平,二来也省了不少麻烦。",
+    "pinyin": "Zhè me ān pái bǐ jiào tuǒ dàng, yī lái duì dà jiā dōu gōng píng, èr lái yě shěng le bù shǎo má fán。",
+    "en": "This is fitting: it's fair to all and saves much trouble."
+   },
+   {
+    "zh": "我劝他留下来,一来这里机会多,二来离家也近。",
+    "pinyin": "Wǒ quàn tā liú xià lái, yī lái zhè lǐ jī huì duō, èr lái lí jiā yě jìn。",
+    "en": "I urged him to stay: more chances here, and close to home."
+   },
+   {
+    "zh": "自己做饭好处不少,一来干净卫生,二来还能省钱。",
+    "pinyin": "Zì jǐ zuò fàn hǎo chù bù shǎo, yī lái gān jìng wèi shēng, èr lái hái néng shěng qián。",
+    "en": "Cooking yourself has perks: it's clean and saves money."
+   },
+   {
+    "zh": "他没有立刻答应,一来事关重大,二来他也想再考虑考虑。",
+    "pinyin": "Tā méi yǒu lì kè dā yìng, yī lái shì guān zhòng dà, èr lái tā yě xiǎng zài kǎo lǜ kǎo lǜ。",
+    "en": "He didn't agree at once: it's serious, and he wanted to think."
+   },
+   {
+    "zh": "周末去乡下走走,一来呼吸新鲜空气,二来放松心情。",
+    "pinyin": "Zhōu mò qù xiāng xià zǒu zǒu, yī lái hū xī xīn xiān kōng qì, èr lái fàng sōng xīn qíng。",
+    "en": "A country trip on weekends: fresh air and a relaxed mood."
+   },
+   {
+    "zh": "我劝你先别买,一来价格偏高,二来你也未必用得上。",
+    "pinyin": "Wǒ quàn nǐ xiān bié mǎi, yī lái jià gé piān gāo, èr lái nǐ yě wèi bì yòng de shàng。",
+    "en": "Don't buy yet: it's pricey and you may not even need it."
+   },
+   {
+    "zh": "多读书有好处,一来增长知识,二来陶冶情操。",
+    "pinyin": "Duō dú shū yǒu hǎo chù, yī lái zēng zhǎng zhī shí, èr lái táo yě qíng cāo。",
+    "en": "Reading helps: it broadens knowledge and refines character."
+   },
+   {
+    "zh": "他决定亲自去一趟,一来表示诚意,二来也好当面沟通。",
+    "pinyin": "Tā jué dìng qīn zì qù yī tàng, yī lái biǎo shì chéng yì, èr lái yě hǎo dāng miàn gōu tōng。",
+    "en": "He'll go himself: to show sincerity and talk face to face."
+   },
+   {
+    "zh": "这件事最好现在就办,一来趁热打铁,二来免得夜长梦多。",
+    "pinyin": "Zhè jiàn shì zuì hǎo xiàn zài jiù bàn, yī lái chèn rè dǎ tiě, èr lái miǎn de yè cháng mèng duō。",
+    "en": "Best do it now: strike while hot, and avoid delay's risks."
+   },
+   {
+    "zh": "我劝你别太节省,一来身体要紧,二来钱是挣出来的。",
+    "pinyin": "Wǒ quàn nǐ bié tài jié shěng, yī lái shēn tǐ yào jǐn, èr lái qián shì zhēng chū lái de。",
+    "en": "Don't over-scrimp: health matters, and money can be earned."
+   },
+   {
+    "zh": "早睡早起好处多,一来精神好,二来对健康也有益。",
+    "pinyin": "Zǎo shuì zǎo qǐ hǎo chù duō, yī lái jīng shén hǎo, èr lái duì jiàn kāng yě yǒu yì。",
+    "en": "Early hours help: better spirits and better health."
+   },
+   {
+    "zh": "他选择留在小城,一来生活节奏慢,二来能常陪父母。",
+    "pinyin": "Tā xuǎn zé liú zài xiǎo chéng, yī lái shēng huó jié zòu màn, èr lái néng cháng péi fù mǔ。",
+    "en": "He stayed in the small town: slower pace, and near his parents."
+   },
+   {
+    "zh": "提前订票比较好,一来价格实惠,二来座位也有保障。",
+    "pinyin": "Tí qián dìng piào bǐ jiào hǎo, yī lái jià gé shí huì, èr lái zuò wèi yě yǒu bǎo zhàng。",
+    "en": "Booking early is good: cheaper prices and secured seats."
+   },
+   {
+    "zh": "我建议大家分工合作,一来效率高,二来也不容易出错。",
+    "pinyin": "Wǒ jiàn yì dà jiā fēn gōng hé zuò, yī lái xiào lǜ gāo, èr lái yě bù róng yì chū cuò。",
+    "en": "Let's divide the work: it's efficient and less error-prone."
+   },
+   {
+    "zh": "他婉言谢绝了,一来实在太忙,二来也怕给人添麻烦。",
+    "pinyin": "Tā wǎn yán xiè jué le, yī lái shí zài tài máng, èr lái yě pà gěi rén tiān má fán。",
+    "en": "He politely declined: too busy, and loath to trouble others."
+   },
+   {
+    "zh": "常回家看看,一来让老人安心,二来也是尽一份孝心。",
+    "pinyin": "Cháng huí jiā kàn kàn, yī lái ràng lǎo rén ān xīn, èr lái yě shì jǐn yī fèn xiào xīn。",
+    "en": "Visit home often: it eases the elders and shows filial love."
+   },
+   {
+    "zh": "这个方案值得考虑,一来成本低,二来见效也快。",
+    "pinyin": "Zhè ge fāng àn zhí de kǎo lǜ, yī lái chéng běn dī, èr lái jiàn xiào yě kuài。",
+    "en": "The plan's worth considering: low cost and quick results."
+   },
+   {
+    "zh": "我劝你别熬夜,一来伤身体,二来第二天也没精神。",
+    "pinyin": "Wǒ quàn nǐ bié áo yè, yī lái shāng shēn tǐ, èr lái dì èr tiān yě méi jīng shén。",
+    "en": "Don't stay up late: it harms health and saps next-day energy."
+   },
+   {
+    "zh": "他把旧衣服都捐了,一来腾出空间,二来也能帮到别人。",
+    "pinyin": "Tā bǎ jiù yī fú dōu juān le, yī lái téng chū kōng jiān, èr lái yě néng bāng dào bié rén。",
+    "en": "He donated old clothes: freeing space and helping others."
+   },
+   {
+    "zh": "我们决定步行前往,一来路程不远,二来也想边走边看风景。",
+    "pinyin": "Wǒ men jué dìng bù xíng qián wǎng, yī lái lù chéng bù yuǎn, èr lái yě xiǎng biān zǒu biān kàn fēng jǐng。",
+    "en": "We'll walk there: it's near and we can enjoy the scenery."
+   },
+   {
+    "zh": "多和别人交流,一来开阔眼界,二来也能结识新朋友。",
+    "pinyin": "Duō hé bié rén jiāo liú, yī lái kāi kuò yǎn jiè, èr lái yě néng jié shí xīn péng yǒu。",
+    "en": "Talking with others broadens the mind and makes new friends."
+   },
+   {
+    "zh": "他坚持记账,一来清楚花销,二来也便于合理规划。",
+    "pinyin": "Tā jiān chí jì zhàng, yī lái qīng chǔ huā xiāo, èr lái yě biàn yú hé lǐ guī huà。",
+    "en": "He keeps accounts: to track spending and plan wisely."
+   },
+   {
+    "zh": "这么做一举两得,一来解决了难题,二来还积累了经验。",
+    "pinyin": "Zhè me zuò yī jǔ liǎng de, yī lái jiě jué le nán tí, èr lái hái jī lěi le jīng yàn。",
+    "en": "This kills two birds: it solves the problem and builds experience."
+   }
+  ]
+ },
+ {
+  "id": "g471",
+  "level": 5,
+  "title": "\"以...为...\" ile \"...-i ... saymak/yapmak\"",
+  "titleEn": "Using \"yi... wei...\"",
+  "pattern": "以 + A + 为 + B",
+  "summary": "\"以...为...\" A'yı B olarak almayı/saymayı bildirir: 以人为本 = insanı temel almak; 以此为荣 = bununla gurur duymak.",
+  "explanation": "\"以 A 为 B\" resmî/edebî bir kalıptır; A'yı B OLARAK almak, saymak, kabul etmek ya da B hâline getirmek anlamı verir: \"A'yı B saymak/yapmak, A'yı B olarak almak, A'yı B edinmek, temel/ölçüt olarak A'yı almak\". \"以\" = \"把/用\", \"为\" = \"当作/作为/成为\" gibidir. Yaygın biçimler ve kalıplar. (1) A'yı B olarak temel/ölçüt almak: 以人为本 (insanı temel almak), 以质量为核心 (kaliteyi merkez almak), 以事实为依据 (gerçeği dayanak almak), 以德服人 (erdemle insanları ikna etmek — \"以...\" araç). (2) A'yı B saymak/görmek: 以此为荣 (bununla gurur duymak/onu onur saymak), 以...为耻 (... utanç saymak), 以助人为乐 (yardım etmeyi mutluluk saymak), 以...为目标/榜样/中心 (...-i hedef/örnek/merkez almak). (3) B'ye dönüşmek/artmak: 以...为主 (ağırlıklı olarak ..., çoğu ...), 产量逐年以百分之十的速度增长 (üretim her yıl %10 hızla artmak). Bu kalıp çoğu zaman iki heceli, soyut/resmî öğelerle gelir ve özdeyiş, ilke, slogan dilinde çok yaygındır. Türkçede bağlama göre \"...-i ... saymak/yapmak, ... temel/ölçüt almak, ...-i ... edinmek\" olarak karşılanır.",
+  "examples": [
+   {
+    "zh": "这家公司始终坚持以人为本,把员工的福祉放在首位。",
+    "pinyin": "Zhè jiā gōng sī shǐ zhōng jiān chí yǐ rén wéi běn, bǎ yuán gōng de fú zhǐ fàng zài shǒu wèi。",
+    "en": "The firm always puts people first, prioritizing staff welfare."
+   },
+   {
+    "zh": "做学问要以事实为依据,不能凭空想象、主观臆断。",
+    "pinyin": "Zuò xué wèn yào yǐ shì shí wèi yī jù, bù néng píng kōng xiǎng xiàng、 zhǔ guān yì duàn。",
+    "en": "Scholarship must rest on facts, not on mere imagination."
+   },
+   {
+    "zh": "他一生乐善好施,始终以助人为乐,深受乡邻爱戴。",
+    "pinyin": "Tā yī shēng lè shàn hào shī, shǐ zhōng yǐ zhù rén wéi lè, shēn shòu xiāng lín ài dài。",
+    "en": "He gave gladly all his life, taking joy in helping, much loved."
+   },
+   {
+    "zh": "我们要以这次事故为鉴,时刻把安全放在心上。",
+    "pinyin": "Wǒ men yào yǐ zhè cì shì gù wèi jiàn, shí kè bǎ ān quán fàng zài xīn shàng。",
+    "en": "Let this accident be a warning; keep safety always in mind."
+   },
+   {
+    "zh": "这里的居民以打鱼为生,世世代代与大海为伴。",
+    "pinyin": "Zhè lǐ de jū mín yǐ dǎ yú wéi shēng, shì shì dài dài yǔ dà hǎi wèi bàn。",
+    "en": "The locals live by fishing, companions of the sea for generations."
+   },
+   {
+    "zh": "能为家乡的建设出一份力,他一直以此为荣。",
+    "pinyin": "Néng wèi jiā xiāng de jiàn shè chū yī fèn lì, tā yì zhí yǐ cǐ wèi róng。",
+    "en": "He's always proud to have helped build his hometown."
+   },
+   {
+    "zh": "这家餐厅以新鲜的食材为卖点,吸引了众多回头客。",
+    "pinyin": "Zhè jiā cān tīng yǐ xīn xiān de shí cái wèi mài diǎn, xī yǐn le zhòng duō huí tóu kè。",
+    "en": "The restaurant sells on fresh ingredients, drawing many regulars."
+   },
+   {
+    "zh": "这片地区的农业以种植水稻为主,兼顾其他作物。",
+    "pinyin": "Zhè piàn dì qū de nóng yè yǐ zhòng zhí shuǐ dào wéi zhǔ, jiān gù qí tā zuò wù。",
+    "en": "Farming here centers on rice, with other crops too."
+   },
+   {
+    "zh": "他为人正直,一向以诚信为本,从不弄虚作假。",
+    "pinyin": "Tā wéi rén zhèng zhí, yí xiàng yǐ chéng xìn wèi běn, cóng bù nòng xū zuò jiǎ。",
+    "en": "Upright, he holds integrity as his root, never faking."
+   },
+   {
+    "zh": "我们应当以史为镜,从历史中汲取智慧和教训。",
+    "pinyin": "Wǒ men yīng dāng yǐ shǐ wèi jìng, cóng lì shǐ zhōng jí qǔ zhì huì hé jiào xùn。",
+    "en": "We should use history as a mirror, drawing wisdom from it."
+   },
+   {
+    "zh": "这所学校以培养全面发展的人才为办学目标。",
+    "pinyin": "Zhè suǒ xué xiào yǐ péi yǎng quán miàn fā zhǎn de rén cái wèi bàn xué mù biāo。",
+    "en": "The school aims to nurture well-rounded talent."
+   },
+   {
+    "zh": "他把老师当作楷模,一直以老师为学习的榜样。",
+    "pinyin": "Tā bǎ lǎo shī dàng zuò kǎi mó, yì zhí yǐ lǎo shī wèi xué xí de bǎng yàng。",
+    "en": "He takes his teacher as a model to learn from."
+   },
+   {
+    "zh": "会议以提高工作效率为中心,展开了深入的讨论。",
+    "pinyin": "Huì yì yǐ tí gāo gōng zuò xiào lǜ wèi zhōng xīn, zhǎn kāi le shēn rù de tǎo lùn。",
+    "en": "The meeting focused on raising efficiency in deep discussion."
+   },
+   {
+    "zh": "这个团队以团结协作为特色,战胜了一个又一个难关。",
+    "pinyin": "Zhè ge tuán duì yǐ tuán jié xié zuò wéi tè sè, zhàn shèng le yí gè yòu yí gè nán guān。",
+    "en": "The team, marked by unity, overcame hurdle after hurdle."
+   },
+   {
+    "zh": "他做人做事都以问心无愧为准则,活得坦坦荡荡。",
+    "pinyin": "Tā zuò rén zuò shì dōu yǐ wèn xīn wú kuì wèi zhǔn zé, huó de tǎn tǎn dàng dàng。",
+    "en": "He lives by a clear conscience, open and upright."
+   },
+   {
+    "zh": "这套课程以实用为导向,深受在职人员的欢迎。",
+    "pinyin": "Zhè tào kè chéng yǐ shí yòng wèi dǎo xiàng, shēn shòu zài zhí rén yuán de huān yíng。",
+    "en": "The course is practically oriented, popular with working people."
+   },
+   {
+    "zh": "这些年,当地经济以每年百分之八的速度稳步增长。",
+    "pinyin": "Zhè xiē nián, dāng dì jīng jì yǐ měi nián bǎi fēn zhī bā de sù dù wěn bù zēng zhǎng。",
+    "en": "The local economy grew steadily at eight percent a year."
+   },
+   {
+    "zh": "他把读书视为人生一大乐事,常常以书为友。",
+    "pinyin": "Tā bǎ dú shū shì wéi rén shēng yī dà lè shì, cháng cháng yǐ shū wèi yǒu。",
+    "en": "He deems reading a great joy, often keeping books as friends."
+   },
+   {
+    "zh": "这项工程以保护生态环境为前提,力求人与自然和谐。",
+    "pinyin": "Zhè xiàng gōng chéng yǐ bǎo hù shēng tài huán jìng wèi qián tí, lì qiú rén yǔ zì rán hé xié。",
+    "en": "The project puts ecology first, seeking harmony with nature."
+   },
+   {
+    "zh": "好的领导应当以身作则,处处为大家树立榜样。",
+    "pinyin": "Hǎo de lǐng dǎo yīng dāng yǐ shēn zuò zé, chù chù wèi dà jiā shù lì bǎng yàng。",
+    "en": "A good leader leads by example, setting a model everywhere."
+   },
+   {
+    "zh": "这次评选以群众的口碑为主要依据,力求公平公正。",
+    "pinyin": "Zhè cì píng xuǎn yǐ qún zhòng de kǒu bēi wéi zhǔ yào yī jù, lì qiú gōng píng gōng zhèng。",
+    "en": "The selection relied on public reputation, striving for fairness."
+   },
+   {
+    "zh": "他一生淡泊名利,以清白正直为最大的骄傲。",
+    "pinyin": "Tā yī shēng dàn bó míng lì, yǐ qīng bái zhèng zhí wèi zuì dà de jiāo ào。",
+    "en": "Indifferent to fame, he prized honesty as his greatest pride."
+   },
+   {
+    "zh": "这家企业以创新为动力,不断推出新的产品。",
+    "pinyin": "Zhè jiā qǐ yè yǐ chuàng xīn wèi dòng lì, bù duàn tuī chū xīn de chǎn pǐn。",
+    "en": "The firm, driven by innovation, keeps launching new products."
+   },
+   {
+    "zh": "传统节日以团圆为主题,寄托着人们美好的愿望。",
+    "pinyin": "Chuán tǒng jié rì yǐ tuán yuán wéi zhǔ tí, jì tuō zhe rén men měi hǎo de yuàn wàng。",
+    "en": "Traditional festivals center on reunion, holding fond wishes."
+   },
+   {
+    "zh": "他总是以每一次挫折为成长的契机,越挫越勇。",
+    "pinyin": "Tā zǒng shì yǐ měi yī cì cuò zhé wèi chéng zhǎng de qì jī, yuè cuò yuè yǒng。",
+    "en": "He treats each setback as a chance to grow, braver each time."
+   }
+  ]
  }
 ]

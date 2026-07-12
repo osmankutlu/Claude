@@ -50590,5 +50590,685 @@
     "en": "This winter was especially cold; the river iced over thickly early."
    }
   ]
+ },
+ {
+  "id": "g373",
+  "level": 4,
+  "title": "\"由于...所以\" ile \"...-den dolayı\"",
+  "titleEn": "Expressing \"due to…\" with \"youyu\"",
+  "pattern": "由于 ...，(所以 / 因此) ...",
+  "summary": "\"由于\" bir sonucun nedenini resmî olarak bildirir: 由于天气原因,航班延误了 = Hava koşulları nedeniyle uçuş gecikti.",
+  "explanation": "\"由于\" (yóuyú) bir sonucun NEDENİNİ resmî/yazılı dilde bildirir: \"...-den dolayı, ... nedeniyle, ... yüzünden, ... sayesinde\". Kalıp: 由于 + neden，(所以/因此/因而) + sonuç. 由于连日的暴雨,山区的道路多处中断 (Günlerce süren yağmur nedeniyle dağ yolları birçok yerde kesildi), 由于准备充分,这次演出非常成功 (İyi hazırlanıldığı için gösteri çok başarılı oldu), 由于时间关系,今天的讨论就到这里 (Zaman kısıtı nedeniyle bugünkü tartışma burada bitiyor). \"由于\" cümlenin başında ya da öznenin ardından gelir; ikinci bölümde \"所以/因此/因而\" bulunabilir. \"因为\" ile çok yakındır ama iki farkı vardır: (1) \"由于\" daha RESMÎ/yazılıdır; (2) \"由于\" genellikle cümlenin BAŞINDA gelir ve soruya doğrudan yanıt olarak tek başına kullanılmaz (\"为什么? 因为...\" denir, \"由于...\" denmez). Hem olumlu hem olumsuz sonuçların nedenini belirtebilir. Türkçedeki \"...-den dolayı, ... nedeniyle, ... yüzünden, ... sebebiyle\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "由于连日的暴雨,山区的好几条道路都发生了塌方。",
+    "pinyin": "Yóu yú lián rì de bào yǔ, shān qū de hǎo jǐ tiáo dào lù dōu fā shēng le tā fāng。",
+    "en": "Due to days of heavy rain, several mountain roads collapsed."
+   },
+   {
+    "zh": "由于事先做了充分的准备,这次演出获得了圆满成功。",
+    "pinyin": "Yóu yú shì xiān zuò le chōng fèn de zhǔn bèi, zhè cì yǎn chū huò de le yuán mǎn chéng gōng。",
+    "en": "Thanks to ample preparation, the performance was a full success."
+   },
+   {
+    "zh": "由于时间关系,今天的讨论我们就先进行到这里。",
+    "pinyin": "Yóu yú shí jiān guān xì, jīn tiān de tǎo lùn wǒ men jiù xiān jìn xíng dào zhè lǐ。",
+    "en": "Due to time constraints, we'll pause today's discussion here."
+   },
+   {
+    "zh": "由于长期缺乏锻炼,他的身体状况一年不如一年。",
+    "pinyin": "Yóu yú cháng qī quē fá duàn liàn, tā de shēn tǐ zhuàng kuàng yī nián bù rú yī nián。",
+    "en": "Due to long lack of exercise, his health declined year by year."
+   },
+   {
+    "zh": "由于交通管制,附近的几条街道暂时禁止通行。",
+    "pinyin": "Yóu yú jiāo tōng guǎn zhì, fù jìn de jǐ tiáo jiē dào zàn shí jìn zhǐ tōng xíng。",
+    "en": "Due to traffic control, several nearby streets are closed for now."
+   },
+   {
+    "zh": "由于这项技术的推广,农民的收入有了明显的提高。",
+    "pinyin": "Yóu yú zhè xiàng jì shù de tuī guǎng, nóng mín de shōu rù yǒu le míng xiǎn de tí gāo。",
+    "en": "Thanks to this technology, farmers' incomes rose markedly."
+   },
+   {
+    "zh": "由于疏于管理,这座古老的园林渐渐荒废了。",
+    "pinyin": "Yóu yú shū yú guǎn lǐ, zhè zuò gǔ lǎo de yuán lín jiàn jiàn huāng fèi le。",
+    "en": "Due to neglect, this ancient garden gradually fell into ruin."
+   },
+   {
+    "zh": "由于双方都做出了让步,谈判最终顺利达成了协议。",
+    "pinyin": "Yóu yú shuāng fāng dōu zuò chū le ràng bù, tán pàn zuì zhōng shùn lì dá chéng le xié yì。",
+    "en": "As both sides compromised, the talks reached an agreement."
+   },
+   {
+    "zh": "由于突发的暴风雪,原定的登山计划只好临时取消。",
+    "pinyin": "Yóu yú tū fā de bào fēng xuě, yuán dìng de dēng shān jì huà zhǐ hǎo lín shí qǔ xiāo。",
+    "en": "Due to a sudden blizzard, the climb had to be canceled."
+   },
+   {
+    "zh": "由于他工作认真负责,很快就得到了同事们的信任。",
+    "pinyin": "Yóu yú tā gōng zuò rèn zhēn fù zé, hěn kuài jiù dé dào le tóng shì men de xìn rèn。",
+    "en": "Due to his diligence, he soon earned his colleagues' trust."
+   },
+   {
+    "zh": "由于市场需求的变化,这家工厂调整了生产方向。",
+    "pinyin": "Yóu yú shì chǎng xū qiú de biàn huà, zhè jiā gōng chǎng tiáo zhěng le shēng chǎn fāng xiàng。",
+    "en": "Due to shifting market demand, the factory adjusted its output."
+   },
+   {
+    "zh": "由于水源受到了污染,当地居民的用水成了大问题。",
+    "pinyin": "Yóu yú shuǐ yuán shòu dào le wū rǎn, dāng dì jū mín de yòng shuǐ chéng le dà wèn tí。",
+    "en": "Due to polluted water sources, local water use became a big problem."
+   },
+   {
+    "zh": "由于航班延误,他错过了下午重要的商务会谈。",
+    "pinyin": "Yóu yú háng bān yán wù, tā cuò guò le xià wǔ zhòng yào de shāng wù huì tán。",
+    "en": "Due to the flight delay, he missed an important afternoon meeting."
+   },
+   {
+    "zh": "由于资金一时周转不开,这个项目暂时被搁置了。",
+    "pinyin": "Yóu yú zī jīn yī shí zhōu zhuǎn bù kāi, zhè ge xiàng mù zàn shí bèi gē zhì le。",
+    "en": "Due to a cash-flow crunch, the project was temporarily shelved."
+   },
+   {
+    "zh": "由于气候变暖,这一地区的降雪量逐年减少。",
+    "pinyin": "Yóu yú qì hòu biàn nuǎn, zhè yī dì qū de jiàng xuě liàng zhú nián jiǎn shǎo。",
+    "en": "Due to climate warming, the region's snowfall declines yearly."
+   },
+   {
+    "zh": "由于他的耐心讲解,同学们很快就掌握了这个知识点。",
+    "pinyin": "Yóu yú tā de nài xīn jiǎng jiě, tóng xué men hěn kuài jiù zhǎng wò le zhè ge zhī shí diǎn。",
+    "en": "Thanks to his patient explanation, students soon grasped the point."
+   },
+   {
+    "zh": "由于人手不足,这批订单的交货日期不得不推迟。",
+    "pinyin": "Yóu yú rén shǒu bù zú, zhè pī dìng dān de jiāo huò rì qī bù de bù tuī chí。",
+    "en": "Due to short staffing, the order's delivery had to be delayed."
+   },
+   {
+    "zh": "由于长时间盯着屏幕,他的眼睛感到又酸又胀。",
+    "pinyin": "Yóu yú zhǎng shí jiān dīng zhe píng mù, tā de yǎn jīng gǎn dào yòu suān yòu zhàng。",
+    "en": "Due to long screen time, his eyes felt sore and strained."
+   },
+   {
+    "zh": "由于路面结冰,今天早上发生了好几起交通事故。",
+    "pinyin": "Yóu yú lù miàn jié bīng, jīn tiān zǎo shàng fā shēng le hǎo jǐ qǐ jiāo tōng shì gù。",
+    "en": "Due to icy roads, several accidents happened this morning."
+   },
+   {
+    "zh": "由于大家的共同努力,这个难题终于得到了圆满解决。",
+    "pinyin": "Yóu yú dà jiā de gòng tóng nǔ lì, zhè ge nán tí zhōng yú dé dào le yuán mǎn jiě jué。",
+    "en": "Thanks to everyone's joint effort, the problem was solved fully."
+   },
+   {
+    "zh": "由于缺乏经验,他在处理这件事时走了不少弯路。",
+    "pinyin": "Yóu yú quē fá jīng yàn, tā zài chǔ lǐ zhè jiàn shì shí zǒu le bù shǎo wān lù。",
+    "en": "Due to inexperience, he took many detours handling this."
+   },
+   {
+    "zh": "由于城市的快速扩张,周边的农田正在不断减少。",
+    "pinyin": "Yóu yú chéng shì de kuài sù kuò zhāng, zhōu biān de nóng tián zhèng zài bù duàn jiǎn shǎo。",
+    "en": "Due to rapid urban expansion, nearby farmland keeps shrinking."
+   },
+   {
+    "zh": "由于长期的信任和合作,两家公司结成了牢固的伙伴。",
+    "pinyin": "Yóu yú cháng qī de xìn rèn hé hé zuò, liǎng jiā gōng sī jié chéng le láo gù de huǒ bàn。",
+    "en": "Through long trust and cooperation, the two firms became firm partners."
+   },
+   {
+    "zh": "由于身体的原因,这位老教授不得不推迟了讲学计划。",
+    "pinyin": "Yóu yú shēn tǐ de yuán yīn, zhè wèi lǎo jiào shòu bù de bù tuī chí le jiǎng xué jì huà。",
+    "en": "Due to health reasons, the old professor postponed his lectures."
+   },
+   {
+    "zh": "由于操作不当,这台精密的仪器出现了一些故障。",
+    "pinyin": "Yóu yú cāo zuò bù dàng, zhè tái jīng mì de yí qì chū xiàn le yī xiē gù zhàng。",
+    "en": "Due to improper operation, this precise instrument malfunctioned."
+   }
+  ]
+ },
+ {
+  "id": "g374",
+  "level": 4,
+  "title": "\"既然...就\" ile \"madem ki\"",
+  "titleEn": "Expressing \"since\" with \"jiran\"",
+  "pattern": "既然 ...，就 / 那 ...",
+  "summary": "\"既然...就\" kabul edilen bir gerçekten sonuç/öneri çıkarır: 既然来了,就多待一会儿吧 = Madem geldin, biraz daha kal.",
+  "explanation": "\"既然\" (jìrán) zaten BİLİNEN/kabul edilen bir gerçeği ön koşul alır ve ardından ondan mantıklı bir SONUÇ, öneri ya da karar çıkarır: \"madem ki ..., mademki ..., ... olduğuna göre, hazır ...\". Kalıp: 既然 + bilinen gerçek，(就/那/那么) + çıkarım. 既然你已经决定了,我们就全力支持你 (Madem karar verdin, sana tam destek veririz), 既然大家都同意,那就这么办吧 (Madem herkes hemfikir, öyle yapalım), 既然时间还早,不如再喝杯茶 (Madem vakit erken, bir çay daha içelim), 既然知道错了,就应该及时改正 (Madem yanlış olduğunu biliyorsun, hemen düzelt). İkinci bölümde çoğu zaman \"就/那/那么\" bulunur. \"既然\" \"因为\"dan farklıdır: \"因为\" yeni bir nedeni açıklar; \"既然\" ise KONUŞANLARIN İKİSİNİN DE bildiği bir gerçeği temel alıp ondan sonuç türetir — yani neden bilgi değil, çıkarımın dayanağıdır. Genellikle öneri, tavsiye ya da karar bildiren cümlelerde geçer. Türkçedeki \"madem ki, mademki, ... olduğuna göre, hazır ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "既然你已经下定了决心,我们全家就都会支持你。",
+    "pinyin": "Jì rán nǐ yǐ jīng xià dìng le jué xīn, wǒ men quán jiā jiù dū huì zhī chí nǐ。",
+    "en": "Since you've made up your mind, the whole family will back you."
+   },
+   {
+    "zh": "既然大家的意见都一致,那这件事就这么定下来吧。",
+    "pinyin": "Jì rán dà jiā de yì jiàn dōu yí zhì, nà zhè jiàn shì jiù zhè me dìng xià lái ba。",
+    "en": "Since everyone agrees, let's settle the matter this way."
+   },
+   {
+    "zh": "既然来都来了,就别急着走,多陪我们坐一会儿。",
+    "pinyin": "Jì rán lái dōu lái le, jiù bié jí zhe zǒu, duō péi wǒ men zuò yī huì er。",
+    "en": "Since you're already here, don't rush off; stay a while."
+   },
+   {
+    "zh": "既然知道自己错了,就应该主动向对方道个歉。",
+    "pinyin": "Jì rán zhī dào zì jǐ cuò le, jiù yīng gāi zhǔ dòng xiàng duì fāng dào gè qiàn。",
+    "en": "Since you know you're wrong, you should apologize on your own."
+   },
+   {
+    "zh": "既然时间还这么早,我们不如先去喝杯茶再走。",
+    "pinyin": "Jì rán shí jiān hái zhè me zǎo, wǒ men bù rú xiān qù hē bēi chá zài zǒu。",
+    "en": "Since it's still early, let's have some tea before we go."
+   },
+   {
+    "zh": "既然你对这份工作没有兴趣,又何必勉强自己呢?",
+    "pinyin": "Jì rán nǐ duì zhè fèn gōng zuò méi yǒu xìng qù, yòu hé bì miǎn qiǎng zì jǐ ne?",
+    "en": "Since you're not interested in this job, why force yourself?"
+   },
+   {
+    "zh": "既然答应了别人,就一定要想办法把事情办好。",
+    "pinyin": "Jì rán dā yìng le bié rén, jiù yí dìng yào xiǎng bàn fǎ bǎ shì qíng bàn hǎo。",
+    "en": "Since you promised, you must find a way to see it through."
+   },
+   {
+    "zh": "既然身体不舒服,你就在家好好休息,别去上班了。",
+    "pinyin": "Jì rán shēn tǐ bù shū fú, nǐ jiù zài jiā hǎo hǎo xiū xī, bié qù shàng bān le。",
+    "en": "Since you're unwell, rest at home and skip work."
+   },
+   {
+    "zh": "既然这条路走不通,我们就换个思路重新想想。",
+    "pinyin": "Jì rán zhè tiáo lù zǒu bù tōng, wǒ men jiù huàn gè sī lù chóng xīn xiǎng xiǎng。",
+    "en": "Since this way doesn't work, let's rethink from another angle."
+   },
+   {
+    "zh": "既然大家都这么信任我,我就更不能让你们失望。",
+    "pinyin": "Jì rán dà jiā dōu zhè me xìn rèn wǒ, wǒ jiù gèng bù néng ràng nǐ men shī wàng。",
+    "en": "Since you all trust me, I mustn't let you down."
+   },
+   {
+    "zh": "既然事情已经发生了,再抱怨也没有任何意义。",
+    "pinyin": "Jì rán shì qíng yǐ jīng fā shēng le, zài bào yuàn yě méi yǒu rèn hé yì yì。",
+    "en": "Since it's already happened, complaining is pointless."
+   },
+   {
+    "zh": "既然你那么喜欢这本书,就送给你作个纪念吧。",
+    "pinyin": "Jì rán nǐ nà me xǐ huān zhè běn shū, jiù sòng gěi nǐ zuò gè jì niàn ba。",
+    "en": "Since you love this book so much, take it as a keepsake."
+   },
+   {
+    "zh": "既然天气这么好,咱们何不一起出去走走?",
+    "pinyin": "Jì rán tiān qì zhè me hǎo, zán men hé bù yì qǐ chū qù zǒu zǒu?",
+    "en": "Since the weather's so nice, why not go out for a stroll?"
+   },
+   {
+    "zh": "既然决定了要做这件事,就应该坚持到底,不能半途而废。",
+    "pinyin": "Jì rán jué dìng le yào zuò zhè jiàn shì, jiù yīng gāi jiān chí dào dǐ, bù néng bàn tú ér fèi。",
+    "en": "Since you decided to do this, see it through, don't quit halfway."
+   },
+   {
+    "zh": "既然他不愿意说,我们也就不必再追问下去了。",
+    "pinyin": "Jì rán tā bù yuàn yì shuō, wǒ men yě jiù bù bì zài zhuī wèn xià qù le。",
+    "en": "Since he won't talk, there's no need to keep pressing."
+   },
+   {
+    "zh": "既然选择了这条路,再苦再累也要咬牙走下去。",
+    "pinyin": "Jì rán xuǎn zé le zhè tiáo lù, zài kǔ zài lèi yě yào yǎo yá zǒu xià qù。",
+    "en": "Since you chose this road, endure and keep walking, however hard."
+   },
+   {
+    "zh": "既然你已经尽力了,无论结果如何都不必自责。",
+    "pinyin": "Jì rán nǐ yǐ jīng jìn lì le, wú lùn jié guǒ rú hé dōu bù bì zì zé。",
+    "en": "Since you did your best, don't blame yourself whatever the result."
+   },
+   {
+    "zh": "既然错过了这趟车,我们就慢慢等下一趟吧。",
+    "pinyin": "Jì rán cuò guò le zhè tàng chē, wǒ men jiù màn màn děng xià yī tàng ba。",
+    "en": "Since we missed this bus, let's wait for the next."
+   },
+   {
+    "zh": "既然大家都饿了,那就先吃饭,其他事情饭后再说。",
+    "pinyin": "Jì rán dà jiā dōu è le, nà jiù xiān chī fàn, qí tā shì qíng fàn hòu zài shuō。",
+    "en": "Since everyone's hungry, let's eat first and talk later."
+   },
+   {
+    "zh": "既然你信得过我,我就一定不会辜负你的这份托付。",
+    "pinyin": "Jì rán nǐ xìn de guò wǒ, wǒ jiù yí dìng bú huì gū fù nǐ de zhè fèn tuō fù。",
+    "en": "Since you trust me, I won't fail the responsibility you've given."
+   },
+   {
+    "zh": "既然问题的根源找到了,解决起来就容易多了。",
+    "pinyin": "Jì rán wèn tí de gēn yuán zhǎo dào le, jiě jué qǐ lái jiù róng yì duō le。",
+    "en": "Since the root of the problem is found, solving it is far easier."
+   },
+   {
+    "zh": "既然是自己选的路,就算再难走也不能后悔。",
+    "pinyin": "Jì rán shì zì jǐ xuǎn de lù, jiù suàn zài nán zǒu yě bù néng hòu huǐ。",
+    "en": "Since it's the road you chose, no regret even if it's hard."
+   },
+   {
+    "zh": "既然他执意要走,我们也不好再强留他了。",
+    "pinyin": "Jì rán tā zhí yì yào zǒu, wǒ men yě bù hǎo zài qiǎng liú tā le。",
+    "en": "Since he insists on leaving, we can't well keep him."
+   },
+   {
+    "zh": "既然这件衣服你穿着不合适,不如退了重新挑一件。",
+    "pinyin": "Jì rán zhè jiàn yī fú nǐ chuān zhe bù hé shì, bù rú tuì le chóng xīn tiāo yī jiàn。",
+    "en": "Since this outfit doesn't fit you, return it and pick another."
+   },
+   {
+    "zh": "既然机会已经摆在面前,你就应该好好把握住。",
+    "pinyin": "Jì rán jī huì yǐ jīng bǎi zài miàn qián, nǐ jiù yīng gāi hǎo hǎo bǎ wò zhù。",
+    "en": "Since the chance is right before you, you should seize it well."
+   }
+  ]
+ },
+ {
+  "id": "g375",
+  "level": 4,
+  "title": "\"因此\" ile \"bu nedenle / bu yüzden\"",
+  "titleEn": "Expressing \"therefore\" with \"yinci\"",
+  "pattern": "..., 因此 ...",
+  "summary": "\"因此\" önceki nedenden bir sonuç çıkarır: 他准备得很充分,因此表现得非常出色 = Çok iyi hazırlandı, bu nedenle mükemmel bir performans gösterdi.",
+  "explanation": "\"因此\" (yīncǐ) daha önce belirtilen bir nedene dayanarak bir SONUÇ bildirir: \"bu nedenle, bu yüzden, bundan dolayı, dolayısıyla, bu sebeple\". İkinci cümlenin başında gelir: 这条路正在施工,因此暂时无法通行 (Bu yol yapım aşamasında, bu yüzden geçici olarak kapalı), 他从小就热爱绘画,因此选择了美术专业 (Küçüklükten resme tutkundu, bu yüzden güzel sanatları seçti), 资料准备得很充分,因此汇报进行得十分顺利 (Belgeler iyi hazırlanmıştı, dolayısıyla sunum çok akıcı geçti). \"因此\" \"所以\" ile çok yakındır ama daha RESMÎ/yazılıdır ve genellikle bir çıkarımı/sonucu mantıksal olarak bağlar. Sık sık \"由于/因为 ...，因此 ...\" biçiminde neden cümlesinin ardından gelir, ama tek başına da (önceki cümleye gönderme yaparak) kullanılabilir. Neden-sonuç ilişkisinin SONUÇ tarafını işaretler. Türkçedeki \"bu nedenle, bu yüzden, bundan dolayı, dolayısıyla, bu sebeple\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这几天连续下雨,因此原定的运动会只好往后推迟。",
+    "pinyin": "Zhè jǐ tiān lián xù xià yǔ, yīn cǐ yuán dìng de yùn dòng huì zhǐ hǎo wǎng hòu tuī chí。",
+    "en": "It rained for days, so the sports meet had to be postponed."
+   },
+   {
+    "zh": "他事先把每个细节都考虑到了,因此工作进行得很顺利。",
+    "pinyin": "Tā shì xiān bǎ měi gè xì jié dōu kǎo lǜ dào le, yīn cǐ gōng zuò jìn xíng de hěn shùn lì。",
+    "en": "He'd thought of every detail, so the work went smoothly."
+   },
+   {
+    "zh": "这种植物特别耐旱,因此非常适合在沙漠地区种植。",
+    "pinyin": "Zhè zhòng zhí wù tè bié nài hàn, yīn cǐ fēi cháng shì hé zài shā mò dì qū zhòng zhí。",
+    "en": "This plant is drought-hardy, so it suits desert planting well."
+   },
+   {
+    "zh": "他从小就对科学充满好奇,因此后来走上了科研的道路。",
+    "pinyin": "Tā cóng xiǎo jiù duì kē xué chōng mǎn hào qí, yīn cǐ hòu lái zǒu shàng le kē yán de dào lù。",
+    "en": "He was curious about science young, so he took a research path."
+   },
+   {
+    "zh": "这段路正在维修,因此过往的车辆需要绕行。",
+    "pinyin": "Zhè duàn lù zhèng zài wéi xiū, yīn cǐ guò wǎng de chē liàng xū yào rào xíng。",
+    "en": "This road is under repair, so passing vehicles must detour."
+   },
+   {
+    "zh": "公司高度重视产品质量,因此赢得了众多客户的信赖。",
+    "pinyin": "Gōng sī gāo dù zhòng shì chǎn pǐn zhì liàng, yīn cǐ yíng de le zhòng duō kè hù de xìn lài。",
+    "en": "The firm values quality highly, thus winning many clients' trust."
+   },
+   {
+    "zh": "他做事一向认真细致,因此很少出现什么差错。",
+    "pinyin": "Tā zuò shì yí xiàng rèn zhēn xì zhì, yīn cǐ hěn shǎo chū xiàn shén me chā cuò。",
+    "en": "He always works carefully, so he rarely makes mistakes."
+   },
+   {
+    "zh": "这本书语言通俗易懂,因此深受广大读者的喜爱。",
+    "pinyin": "Zhè běn shū yǔ yán tōng sú yì dǒng, yīn cǐ shēn shòu guǎng dà dú zhě de xǐ ài。",
+    "en": "This book is plain and clear, thus loved by many readers."
+   },
+   {
+    "zh": "他们提前预订了车票,因此顺利地赶上了回家的火车。",
+    "pinyin": "Tā men tí qián yù dìng le chē piào, yīn cǐ shùn lì de gǎn shàng le huí jiā de huǒ chē。",
+    "en": "They booked tickets early, so they caught the train home."
+   },
+   {
+    "zh": "这一地区常年干旱少雨,因此水资源显得格外珍贵。",
+    "pinyin": "Zhè yī dì qū cháng nián gān hàn shǎo yǔ, yīn cǐ shuǐ zī yuán xiǎn de gé wài zhēn guì。",
+    "en": "The region is dry year-round, so water is especially precious."
+   },
+   {
+    "zh": "他把大部分精力都投入到了研究中,因此成果十分丰硕。",
+    "pinyin": "Tā bǎ dà bù fèn jīng lì dōu tóu rù dào le yán jiū zhōng, yīn cǐ chéng guǒ shí fēn fēng shuò。",
+    "en": "He poured most of his energy into research, so results were rich."
+   },
+   {
+    "zh": "这款手机操作简单,功能齐全,因此销量一直居高不下。",
+    "pinyin": "Zhè kuǎn shǒu jī cāo zuò jiǎn dān, gōng néng qí quán, yīn cǐ xiāo liàng yì zhí jū gāo bù xià。",
+    "en": "This phone is simple yet full-featured, so sales stay high."
+   },
+   {
+    "zh": "由于长期坚持锻炼,因此他的身体一直非常健康。",
+    "pinyin": "Yóu yú cháng qī jiān chí duàn liàn, yīn cǐ tā de shēn tǐ yì zhí fēi cháng jiàn kāng。",
+    "en": "Thanks to long exercise, his health has stayed excellent."
+   },
+   {
+    "zh": "会议的议程安排得很紧凑,因此大家都不敢有丝毫松懈。",
+    "pinyin": "Huì yì de yì chéng ān pái de hěn jǐn còu, yīn cǐ dà jiā dōu bù gǎn yǒu sī háo sōng xiè。",
+    "en": "The agenda was tight, so no one dared to slack off."
+   },
+   {
+    "zh": "他为人诚恳,乐于助人,因此结交了许多真心的朋友。",
+    "pinyin": "Tā wéi rén chéng kěn, lè yú zhù rén, yīn cǐ jié jiāo le xǔ duō zhēn xīn de péng yǒu。",
+    "en": "Sincere and helpful, he made many true friends."
+   },
+   {
+    "zh": "这次实验的数据非常关键,因此每一步都必须格外谨慎。",
+    "pinyin": "Zhè cì shí yàn de shù jù fēi cháng guān jiàn, yīn cǐ měi yī bù dōu bì xū gé wài jǐn shèn。",
+    "en": "The data is crucial, so every step must be extra careful."
+   },
+   {
+    "zh": "当地的自然风光十分优美,因此吸引了大量游客前来观光。",
+    "pinyin": "Dāng dì de zì rán fēng guāng shí fēn yōu měi, yīn cǐ xī yǐn le dà liàng yóu kè qián lái guān guāng。",
+    "en": "The local scenery is lovely, so it draws many tourists."
+   },
+   {
+    "zh": "他年纪虽小,却懂得体谅父母,因此深受长辈的疼爱。",
+    "pinyin": "Tā nián jì suī xiǎo, què dǒng de tǐ liàng fù mǔ, yīn cǐ shēn shòu zhǎng bèi de téng ài。",
+    "en": "Young as he is, he understands his parents, so elders adore him."
+   },
+   {
+    "zh": "这项政策切实惠及了百姓,因此得到了广泛的支持。",
+    "pinyin": "Zhè xiàng zhèng cè qiè shí huì jí le bǎi xìng, yīn cǐ dé dào le guǎng fàn de zhī chí。",
+    "en": "The policy truly benefits the people, so it won wide support."
+   },
+   {
+    "zh": "产品在设计上别出心裁,因此在市场上很快脱颖而出。",
+    "pinyin": "Chǎn pǐn zài shè jì shàng bié chū xīn cái, yīn cǐ zài shì chǎng shàng hěn kuài tuō yǐng ér chū。",
+    "en": "The product's design was ingenious, so it soon stood out."
+   },
+   {
+    "zh": "他把利弊都分析得清清楚楚,因此大家很快就达成了共识。",
+    "pinyin": "Tā bǎ lì bì dōu fēn xī de qīng qīng chǔ chǔ, yīn cǐ dà jiā hěn kuài jiù dá chéng le gòng shí。",
+    "en": "He analyzed pros and cons clearly, so consensus came fast."
+   },
+   {
+    "zh": "这条河流经多个城市,因此它的治理需要多方共同参与。",
+    "pinyin": "Zhè tiáo hé liú jīng duō gè chéng shì, yīn cǐ tā de zhì lǐ xū yào duō fāng gòng tóng cān yù。",
+    "en": "The river passes many cities, so its management needs joint effort."
+   },
+   {
+    "zh": "他从不轻易许下承诺,因此他说的话总是很有分量。",
+    "pinyin": "Tā cóng bù qīng yì xǔ xià chéng nuò, yīn cǐ tā shuō de huà zǒng shì hěn yǒu fèn liàng。",
+    "en": "He never promises lightly, so his words always carry weight."
+   },
+   {
+    "zh": "这里的冬天特别寒冷漫长,因此房屋大多建得十分厚实。",
+    "pinyin": "Zhè lǐ de dōng tiān tè bié hán lěng màn cháng, yīn cǐ fáng wū dà duō jiàn de shí fēn hòu shí。",
+    "en": "Winters here are long and cold, so houses are built solidly."
+   },
+   {
+    "zh": "他反复权衡了各种可能,因此最终的决定显得格外慎重。",
+    "pinyin": "Tā fǎn fù quán héng le gè zhǒng kě néng, yīn cǐ zuì zhōng de jué dìng xiǎn de gé wài shèn zhòng。",
+    "en": "He weighed all possibilities, so his final decision was very prudent."
+   }
+  ]
+ },
+ {
+  "id": "g376",
+  "level": 4,
+  "title": "\"之所以...是因为\" ile sonucu önce söyleme",
+  "titleEn": "Stating the effect before the cause",
+  "pattern": "Özne + 之所以 + Sonuç，是因为 + Neden",
+  "summary": "\"之所以...是因为\" önce sonucu, sonra nedeni verir: 他之所以成功,是因为一直努力 = Başarılı olmasının nedeni sürekli çabalaması.",
+  "explanation": "\"之所以...是因为...\" bir neden-sonuç ilişkisini TERS SIRAYLA — önce SONUCU, sonra NEDENİ — verir; sonucu vurgular ve ardından açıklamasını yapar: \"...-mesinin nedeni ...-dir, ... eğer ... ise bunun sebebi ...\". Kalıp: özne + 之所以 + sonuç，是因为/是由于 + neden. 他之所以能取得这样的成绩,是因为付出了常人难以想象的努力 (Böyle bir başarı elde edebilmesinin nedeni, sıradan insanın hayal edemeyeceği bir çaba harcaması), 这个地方之所以出名,是因为有一段动人的历史 (Bu yerin ünlü olmasının nedeni dokunaklı bir tarihi olması), 我之所以没告诉你,是因为不想让你担心 (Sana söylememem seni endişelendirmek istememdendi). Normal sıra \"因为...所以...\" (önce neden) iken bu kalıp sırayı tersine çevirip önce dikkat çekici sonucu koyar, sonra \"是因为\" ile nedenini açıklar — çoğu zaman bir yanlış anlamayı düzeltir ya da gerçek nedeni vurgular. \"是因为\" yerine \"是由于\" da gelebilir. Türkçedeki \"...-mesinin nedeni/sebebi ...-dir, eğer ... ise bunun nedeni ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他之所以能取得今天的成就,是因为多年来从未停止努力。",
+    "pinyin": "Tā zhī suǒ yǐ néng qǔ de jīn tiān de chéng jiù, shì yīn wèi duō nián lái cóng wèi tíng zhǐ nǔ lì。",
+    "en": "His achievements today come from years of never-ending effort."
+   },
+   {
+    "zh": "我之所以没有告诉你实情,是因为不想让你跟着一起担心。",
+    "pinyin": "Wǒ zhī suǒ yǐ méi yǒu gào sù nǐ shí qíng, shì yīn wèi bù xiǎng ràng nǐ gēn zhe yì qǐ dān xīn。",
+    "en": "I hid the truth because I didn't want you to worry too."
+   },
+   {
+    "zh": "这个古镇之所以远近闻名,是因为它保存着完好的老建筑。",
+    "pinyin": "Zhè ge gǔ zhèn zhī suǒ yǐ yuǎn jìn wén míng, shì yīn wèi tā bǎo cún zhe wán hǎo de lǎo jiàn zhù。",
+    "en": "The town is famous because it keeps its old buildings intact."
+   },
+   {
+    "zh": "他之所以那么受人尊敬,是因为一生都在默默地帮助别人。",
+    "pinyin": "Tā zhī suǒ yǐ nà me shòu rén zūn jìng, shì yīn wèi yī shēng dōu zài mò mò de bāng zhù bié rén。",
+    "en": "He's so respected because he quietly helped others all his life."
+   },
+   {
+    "zh": "这次比赛之所以失利,是因为大家赛前的准备不够充分。",
+    "pinyin": "Zhè cì bǐ sài zhī suǒ yǐ shī lì, shì yīn wèi dà jiā sài qián de zhǔn bèi bù gòu chōng fèn。",
+    "en": "We lost the match because our pre-game preparation was lacking."
+   },
+   {
+    "zh": "我之所以坚持每天读书,是因为读书让我的内心变得平静。",
+    "pinyin": "Wǒ zhī suǒ yǐ jiān chí měi tiān dú shū, shì yīn wèi dú shū ràng wǒ de nèi xīn biàn de píng jìng。",
+    "en": "I keep reading daily because it calms my heart."
+   },
+   {
+    "zh": "这条河之所以变得清澈,是因为当地进行了长期的治理。",
+    "pinyin": "Zhè tiáo hé zhī suǒ yǐ biàn de qīng chè, shì yīn wèi dāng dì jìn xíng le cháng qī de zhì lǐ。",
+    "en": "The river cleared up because of long-term local management."
+   },
+   {
+    "zh": "他之所以选择留在小镇,是因为舍不得年迈的父母。",
+    "pinyin": "Tā zhī suǒ yǐ xuǎn zé liú zài xiǎo zhèn, shì yīn wèi shě bù de nián mài de fù mǔ。",
+    "en": "He stayed in the town because he couldn't leave his aging parents."
+   },
+   {
+    "zh": "这款产品之所以受欢迎,是因为它真正解决了用户的难题。",
+    "pinyin": "Zhè kuǎn chǎn pǐn zhī suǒ yǐ shòu huān yíng, shì yīn wèi tā zhēn zhèng jiě jué le yòng hù de nán tí。",
+    "en": "The product is popular because it truly solves users' problems."
+   },
+   {
+    "zh": "我之所以劝你三思,是因为这个决定关系到你的未来。",
+    "pinyin": "Wǒ zhī suǒ yǐ quàn nǐ sān sī, shì yīn wèi zhè ge jué dìng guān xì dào nǐ de wèi lái。",
+    "en": "I urge you to think twice because this decision shapes your future."
+   },
+   {
+    "zh": "他之所以进步这么快,是因为肯虚心向别人请教。",
+    "pinyin": "Tā zhī suǒ yǐ jìn bù zhè me kuài, shì yīn wèi kěn xū xīn xiàng bié rén qǐng jiào。",
+    "en": "He improved so fast because he humbly sought others' advice."
+   },
+   {
+    "zh": "这座桥之所以能屹立百年,是因为当年的工艺极为精湛。",
+    "pinyin": "Zhè zuò qiáo zhī suǒ yǐ néng yì lì bǎi nián, shì yīn wèi dāng nián de gōng yì jí wéi jīng zhàn。",
+    "en": "The bridge stood a century thanks to superb old craftsmanship."
+   },
+   {
+    "zh": "她之所以选择当老师,是因为想把知识传给更多的孩子。",
+    "pinyin": "Tā zhī suǒ yǐ xuǎn zé dāng lǎo shī, shì yīn wèi xiǎng bǎ zhī shí chuán gěi gèng duō de hái zi。",
+    "en": "She became a teacher to pass knowledge to more children."
+   },
+   {
+    "zh": "我们之所以能渡过难关,是因为得到了许多好心人的帮助。",
+    "pinyin": "Wǒ men zhī suǒ yǐ néng dù guò nán guān, shì yīn wèi dé dào le xǔ duō hǎo xīn rén de bāng zhù。",
+    "en": "We got through the crisis thanks to many kind people's help."
+   },
+   {
+    "zh": "他之所以对这件事这么上心,是因为它关系到很多人的利益。",
+    "pinyin": "Tā zhī suǒ yǐ duì zhè jiàn shì zhè me shàng xīn, shì yīn wèi tā guān xì dào hěn duō rén de lì yì。",
+    "en": "He cares so much because it concerns many people's interests."
+   },
+   {
+    "zh": "这道菜之所以这么美味,是因为用的都是最新鲜的食材。",
+    "pinyin": "Zhè dào cài zhī suǒ yǐ zhè me měi wèi, shì yīn wèi yòng de dōu shì zuì xīn xiān de shí cái。",
+    "en": "The dish is so tasty because it uses the freshest ingredients."
+   },
+   {
+    "zh": "他之所以能说一口流利的外语,是因为多年坚持不懈地练习。",
+    "pinyin": "Tā zhī suǒ yǐ néng shuō yī kǒu liú lì de wài yǔ, shì yīn wèi duō nián jiān chí bù xiè de liàn xí。",
+    "en": "He speaks fluently thanks to years of unremitting practice."
+   },
+   {
+    "zh": "我之所以还记得那天,是因为那是我们第一次见面。",
+    "pinyin": "Wǒ zhī suǒ yǐ huán jì de nà tiān, shì yīn wèi nà shì wǒ men dì yī cì jiàn miàn。",
+    "en": "I still remember that day because it was our first meeting."
+   },
+   {
+    "zh": "这项工程之所以能提前完工,是因为工人们没日没夜地赶工。",
+    "pinyin": "Zhè xiàng gōng chéng zhī suǒ yǐ néng tí qián wán gōng, shì yīn wèi gōng rén men méi rì méi yè de gǎn gōng。",
+    "en": "The project finished early because workers toiled day and night."
+   },
+   {
+    "zh": "他之所以显得那么从容,是因为早就把一切都准备妥当了。",
+    "pinyin": "Tā zhī suǒ yǐ xiǎn de nà me cóng róng, shì yīn wèi zǎo jiù bǎ yī qiè dōu zhǔn bèi tuǒ dàng le。",
+    "en": "He seemed so composed because he'd prepared everything well ahead."
+   },
+   {
+    "zh": "这些老照片之所以珍贵,是因为它们记录了一段难忘的岁月。",
+    "pinyin": "Zhè xiē lǎo zhào piān zhī suǒ yǐ zhēn guì, shì yīn wèi tā men jì lù le yī duàn nán wàng de suì yuè。",
+    "en": "These old photos are precious for recording unforgettable years."
+   },
+   {
+    "zh": "我之所以选择相信他,是因为他从来没有骗过我。",
+    "pinyin": "Wǒ zhī suǒ yǐ xuǎn zé xiāng xìn tā, shì yīn wèi tā cóng lái méi yǒu piàn guò wǒ。",
+    "en": "I chose to trust him because he'd never once lied to me."
+   },
+   {
+    "zh": "这片森林之所以能保存至今,是因为世代村民悉心守护。",
+    "pinyin": "Zhè piàn sēn lín zhī suǒ yǐ néng bǎo cún zhì jīn, shì yīn wèi shì dài cūn mín xī xīn shǒu hù。",
+    "en": "The forest survives thanks to villagers' care over generations."
+   },
+   {
+    "zh": "他之所以放弃了高薪的工作,是因为想追寻自己真正的理想。",
+    "pinyin": "Tā zhī suǒ yǐ fàng qì le gāo xīn de gōng zuò, shì yīn wèi xiǎng zhuī xún zì jǐ zhēn zhèng de lǐ xiǎng。",
+    "en": "He left the high pay to chase his true ideal."
+   },
+   {
+    "zh": "这本书之所以打动人心,是因为它写的都是最真实的情感。",
+    "pinyin": "Zhè běn shū zhī suǒ yǐ dǎ dòng rén xīn, shì yīn wèi tā xiě de dōu shì zuì zhēn shí de qíng gǎn。",
+    "en": "The book moves people because it writes the most genuine feelings."
+   }
+  ]
+ },
+ {
+  "id": "g377",
+  "level": 4,
+  "title": "İleri derece tümleçleri (\"得\" ile abartılı derece)",
+  "titleEn": "Advanced degree complements",
+  "pattern": "Fiil / Sıfat + 得 + (abartılı derece tümleci)",
+  "summary": "\"得\"ten sonra abartılı bir derece tümleci gelir: 累得连话都说不出来 = Konuşamayacak kadar yorgun.",
+  "explanation": "İleri DERECE TÜMLEÇLERİ, bir sıfatın ya da duygu fiilinin ulaştığı dereceyi \"得\" ile CANLI/abartılı bir sonuçla anlatır: \"...-ecek kadar ..., o kadar ... ki ...\". Temel kalıp \"sıfat/fiil + 得 + tümleç\"tir, ama ileri düzeyde tümleç tam bir CÜMLE ya da mecazi bir tablo olur: 他累得连话都说不出来了 (Konuşamayacak kadar yorgundu), 我饿得前胸贴后背 (Karnım sırtıma yapışacak kadar açım), 高兴得一晚上没睡着 (O kadar sevindi ki bütün gece uyuyamadı), 疼得他直冒冷汗 (Ağrıdan soğuk soğuk terledi), 冷得直打哆嗦 (Titreyecek kadar üşüdü), 气得说不出话来 (Öfkeden dili tutuldu). Ayrıca \"...得很/得不得了/得要命/得不行\" gibi kalıplaşmış aşırı-derece tümleçleri de vardır: 好吃得很 (çok lezzetli), 热得要命 (aşırı sıcak), 疼得不得了 (dayanılmaz ağrılı). Bu tümleçler bir durumun EN UÇ noktasını somut, çoğu zaman mizahi ya da çarpıcı bir görüntüyle canlandırır. Türkçedeki \"...-ecek kadar ..., o kadar ... ki ..., son derece ..., ölesiye ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "忙了一整天,他累得连饭都不想吃,倒头就睡着了。",
+    "pinyin": "Máng le yī zhěng tiān, tā lèi de lián fàn dōu bù xiǎng chī, dǎo tóu jiù shuì zháo le。",
+    "en": "After a busy day, he was too tired to eat and fell right asleep."
+   },
+   {
+    "zh": "听到这个好消息,她高兴得一整晚都没能合上眼。",
+    "pinyin": "Tīng dào zhè ge hǎo xiāo xī, tā gāo xìng de yī zhěng wǎn dōu méi néng hé shàng yǎn。",
+    "en": "At the good news, she was so happy she couldn't sleep all night."
+   },
+   {
+    "zh": "外面冷得刺骨,风一吹,他冻得直打哆嗦。",
+    "pinyin": "Wài miàn lěng de cì gǔ, fēng yī chuī, tā dòng de zhí dǎ duō suo。",
+    "en": "It was bitterly cold; the wind made him shiver all over."
+   },
+   {
+    "zh": "这道题太难了,他想得脑袋都快炸开了也没头绪。",
+    "pinyin": "Zhè dào tí tài nán le, tā xiǎng de nǎo dài dōu kuài zhà kāi le yě méi tóu xù。",
+    "en": "The problem was so hard his head nearly burst with no clue."
+   },
+   {
+    "zh": "那顿饭我饿得前胸贴后背,一口气吃了三大碗。",
+    "pinyin": "Nà dùn fàn wǒ è de qián xiōng tiē hòu bèi, yì kǒu qì chī le sān dà wǎn。",
+    "en": "I was so hungry I wolfed down three big bowls at once."
+   },
+   {
+    "zh": "孩子摔了一跤,疼得哇哇大哭,怎么哄都哄不好。",
+    "pinyin": "Hái zi shuāi le yī jiāo, téng de wā wā dà kū, zěn me hǒng dōu hǒng bù hǎo。",
+    "en": "The child fell and cried so hard from pain nothing could soothe him."
+   },
+   {
+    "zh": "听完那个笑话,大家笑得肚子疼,眼泪都出来了。",
+    "pinyin": "Tīng wán nà ge xiào huà, dà jiā xiào de dǔ zi téng, yǎn lèi dōu chū lái le。",
+    "en": "After the joke, everyone laughed till their sides ached and eyes teared."
+   },
+   {
+    "zh": "等了三个小时也没等到他,我急得像热锅上的蚂蚁。",
+    "pinyin": "Děng le sān gè xiǎo shí yě méi děng dào tā, wǒ jí de xiàng rè guō shàng de mǎ yǐ。",
+    "en": "Waiting three hours in vain, I fretted like an ant on a hot pan."
+   },
+   {
+    "zh": "屋里热得像蒸笼一样,他汗流得像刚洗过澡似的。",
+    "pinyin": "Wū lǐ rè de xiàng zhēng lóng yī yàng, tā hàn liú de xiàng gāng xǐ guò zǎo shì de。",
+    "en": "The room was hot as a steamer; he sweated as if fresh from a bath."
+   },
+   {
+    "zh": "看到那可怕的一幕,她吓得脸色苍白,一句话也说不出。",
+    "pinyin": "Kàn dào nà kě pà de yí mù, tā xià de liǎn sè cāng bái, yī jù huà yě shuō bù chū。",
+    "en": "At the frightening sight, she paled and couldn't utter a word."
+   },
+   {
+    "zh": "这几天他忙得脚不沾地,连喝口水的工夫都没有。",
+    "pinyin": "Zhè jǐ tiān tā máng de jiǎo bù zhān de, lián hē kǒu shuǐ de gōng fu dōu méi yǒu。",
+    "en": "These days he was so busy he hadn't a moment even to drink."
+   },
+   {
+    "zh": "那个消息让他气得浑身发抖,半天说不出一句话。",
+    "pinyin": "Nà ge xiāo xī ràng tā qì de hún shēn fā dǒu, bàn tiān shuō bù chū yī jù huà。",
+    "en": "The news made him tremble with rage, speechless for a while."
+   },
+   {
+    "zh": "孩子们玩得满头大汗,一个个脸蛋红扑扑的。",
+    "pinyin": "Hái zi men wán de mǎn tóu dà hán, yí gè gè liǎn dàn hóng pū pū de。",
+    "en": "The children played till drenched in sweat, cheeks all rosy."
+   },
+   {
+    "zh": "这西瓜甜得像蜜一样,一口下去,整个人都清爽了。",
+    "pinyin": "Zhè xī guā tián de xiàng mì yī yàng, yī kǒu xià qù, zhěng gè rén dōu qīng shuǎng le。",
+    "en": "The melon was sweet as honey; one bite refreshed the whole self."
+   },
+   {
+    "zh": "他紧张得手心直冒汗,连笔都快握不住了。",
+    "pinyin": "Tā jǐn zhāng dé shǒu xīn zhí mào hàn, lián bǐ dōu kuài wò bú zhù le。",
+    "en": "He was so nervous his palms sweated and he could barely hold the pen."
+   },
+   {
+    "zh": "久别重逢,两位老人激动得双手紧紧握在一起。",
+    "pinyin": "Jiǔ bié chóng féng, liǎng wèi lǎo rén jī dòng de shuāng shǒu jǐn jǐn wò zài yì qǐ。",
+    "en": "Reunited after long, the two elders clasped hands in deep emotion."
+   },
+   {
+    "zh": "这几天他愁得整宿整宿地睡不着,头发都白了几根。",
+    "pinyin": "Zhè jǐ tiān tā chóu de zhěng sù zhěng sù de shuì bù zhe, tóu fà dōu bái le jǐ gēn。",
+    "en": "Worry kept him sleepless for nights, greying a few hairs."
+   },
+   {
+    "zh": "演出太精彩了,观众激动得站起来鼓掌,久久不肯停下。",
+    "pinyin": "Yǎn chū tài jīng cǎi le, guān zhòng jī dòng de zhàn qǐ lái gǔ zhǎng, jiǔ jiǔ bù kěn tíng xià。",
+    "en": "The show was so brilliant the audience rose and clapped on and on."
+   },
+   {
+    "zh": "他被这突如其来的问题问得张口结舌,不知如何回答。",
+    "pinyin": "Tā bèi zhè tū rú qí lái de wèn tí wèn de zhāng kǒu jié shé, bù zhī rú hé huí dá。",
+    "en": "The sudden question left him tongue-tied, unsure how to answer."
+   },
+   {
+    "zh": "那碗热汤下肚,他觉得浑身暖和得像春天一样。",
+    "pinyin": "Nà wǎn rè tāng xià dù, tā jué de hún shēn nuǎn huo de xiàng chūn tiān yī yàng。",
+    "en": "After the hot soup, he felt warm all over as in spring."
+   },
+   {
+    "zh": "孩子第一次上台,紧张得两条腿一直在微微发抖。",
+    "pinyin": "Hái zi dì yī cì shàng tái, jǐn zhāng de liǎng tiáo tuǐ yì zhí zài wēi wēi fā dǒu。",
+    "en": "On stage for the first time, the child's legs trembled with nerves."
+   },
+   {
+    "zh": "这几天雨下得没完没了,院子里积水积得能养鱼了。",
+    "pinyin": "Zhè jǐ tiān yǔ xià de méi wán méi liǎo, yuàn zi lǐ jī shuǐ jī de néng yǎng yú le。",
+    "en": "It rained endlessly for days; the yard pooled enough to keep fish."
+   },
+   {
+    "zh": "听到父亲病重的消息,他心里急得火烧火燎的。",
+    "pinyin": "Tīng dào fù qīn bìng zhòng de xiāo xī, tā xīn lǐ jí de huǒ shāo huǒ liǎo de。",
+    "en": "At news of his father's grave illness, his heart burned with worry."
+   },
+   {
+    "zh": "这场球赛精彩得让人目不转睛,谁也舍不得离开座位。",
+    "pinyin": "Zhè chǎng qiú sài jīng cǎi de ràng rén mù bù zhuǎn jīng, shuí yě shě bù de lí kāi zuò wèi。",
+    "en": "The match was so gripping no one could take their eyes off it."
+   },
+   {
+    "zh": "老人乐得合不拢嘴,逢人就夸自己的孙子聪明懂事。",
+    "pinyin": "Lǎo rén lè de hé bù lǒng zuǐ, féng rén jiù kuā zì jǐ de sūn zi cōng míng dǒng shì。",
+    "en": "The old man beamed ear to ear, praising his clever grandson to all."
+   }
+  ]
  }
 ]

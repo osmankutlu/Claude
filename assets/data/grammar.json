@@ -45830,5 +45830,685 @@
     "en": "Is such a trifle worth a big fuss? Everyone calm down."
    }
   ]
+ },
+ {
+  "id": "g338",
+  "level": 4,
+  "title": "\"给\" ile edilgen yapı",
+  "titleEn": "Expressing passive voice with \"gei\"",
+  "pattern": "Etkilenen + 给 + Fail + Fiil / Etkilenen + 被...给 + Fiil",
+  "summary": "\"给\" konuşma dilinde \"被\" gibi edilgen yapı kurar: 我的手机给人偷走了 = Telefonum çalındı.",
+  "explanation": "Konuşma dilinde \"给\" \"被\" gibi EDİLGEN yapı kurabilir; eylemden etkilenen özne olur, fail (varsa) \"给\"den sonra gelir: Etkilenen + 给 + (fail) + fiil + tümleç. 我的自行车给人偷走了 (Bisikletim çalındı), 花瓶给孩子打碎了 (Vazoyu çocuk kırdı / vazo kırıldı). Ayrıca \"被/让/叫\" ile birlikte, fiilin hemen önünde pekiştirici bir \"给\" de gelebilir: 杯子被他给打碎了 (Bardağı o kırdı), 钱包让小偷给偷了 (Cüzdanı hırsız çaldı). Bu ikinci yapıda \"给\" isteğe bağlıdır ve edilgenliği vurgular; \"被...给...\" tamamen konuşma diline özgüdür. \"给\"li edilgen, \"被\"li edilgene çok yakındır ama daha SAMİMİ/konuşma dilidir ve çoğu zaman istenmeyen olaylarda kullanılır. Türkçedeki \"...-ıl/...-ın\" edilgen ekine ve \"... tarafından\" yapısına denk gelir; günlük konuşmada edilgenlik kurmanın yaygın bir yoludur.",
+  "examples": [
+   {
+    "zh": "我的钱包在公交车上给人偷走了,里面还有身份证。",
+    "pinyin": "Wǒ de qián bāo zài gōng jiāo chē shàng gěi rén tōu zǒu le, lǐ miàn hái yǒu shēn fèn zhèng。",
+    "en": "My wallet was stolen on the bus; my ID was in it too."
+   },
+   {
+    "zh": "桌上那盘水果不知道给谁吃光了。",
+    "pinyin": "Zhuō shàng nà pán shuǐ guǒ bù zhī dào gěi shuí chī guāng le。",
+    "en": "That plate of fruit on the table got eaten up by someone."
+   },
+   {
+    "zh": "他辛苦写了一晚上的文件,给电脑一死机全没了。",
+    "pinyin": "Tā xīn kǔ xiě le yī wǎn shàng de wén jiàn, gěi diàn nǎo yī sǐ jī quán méi le。",
+    "en": "The file he wrote all night was lost when the computer crashed."
+   },
+   {
+    "zh": "院子里的花全给昨晚那场大雨打坏了。",
+    "pinyin": "Yuàn zi lǐ de huā quán gěi zuó wǎn nà chǎng dà yǔ dǎ huài le。",
+    "en": "All the flowers in the yard were ruined by last night's heavy rain."
+   },
+   {
+    "zh": "我刚买的新衣服,一不小心给钉子勾破了。",
+    "pinyin": "Wǒ gāng mǎi de xīn yī fú, yí bù xiǎo xīn gěi dīng zi gōu pò le。",
+    "en": "My newly bought clothes got snagged and torn by a nail."
+   },
+   {
+    "zh": "孩子的作业本让弟弟给撕了好几页。",
+    "pinyin": "Hái zi de zuò yè běn ràng dì di gěi sī le hǎo jǐ yè。",
+    "en": "Several pages of the child's homework book were torn out by his brother."
+   },
+   {
+    "zh": "那封重要的信,竟然给他随手扔进了垃圾桶。",
+    "pinyin": "Nà fēng zhòng yào de xìn, jìng rán gěi tā suí shǒu rēng jìn le lā jī tǒng。",
+    "en": "That important letter was casually thrown in the trash by him."
+   },
+   {
+    "zh": "门口的自行车让人给推倒了,也没人扶起来。",
+    "pinyin": "Mén kǒu de zì xíng chē ràng rén gěi tuī dào le, yě méi rén fú qǐ lái。",
+    "en": "The bike at the door was knocked over by someone, with no one to pick it up."
+   },
+   {
+    "zh": "我精心准备的惊喜,提前给他发现了,真扫兴。",
+    "pinyin": "Wǒ jīng xīn zhǔn bèi de jīng xǐ, tí qián gěi tā fā xiàn le, zhēn sǎo xìng。",
+    "en": "The surprise I carefully prepared was discovered by him early; what a letdown."
+   },
+   {
+    "zh": "那本珍贵的旧书,给水一泡,好几页都粘在一起了。",
+    "pinyin": "Nà běn zhēn guì de jiù shū, jǐ shuǐ yī pào, hǎo jǐ yè dōu zhān zài yì qǐ le。",
+    "en": "That precious old book got soaked, and several pages stuck together."
+   },
+   {
+    "zh": "刚种下的小树苗,给淘气的孩子踩坏了。",
+    "pinyin": "Gāng zhòng xià de xiǎo shù miáo, gěi táo qì de hái zi cǎi huài le。",
+    "en": "The newly planted sapling was trampled by a naughty child."
+   },
+   {
+    "zh": "他的计划全给这场突如其来的大雨打乱了。",
+    "pinyin": "Tā de jì huà quán gěi zhè chǎng tū rú qí lái de dà yǔ dǎ luàn le。",
+    "en": "His plans were all thrown off by this sudden downpour."
+   },
+   {
+    "zh": "桌上的文件给风一吹,散落了一地。",
+    "pinyin": "Zhuō shàng de wén jiàn gěi fēng yī chuī, sàn luò le yī de。",
+    "en": "The documents on the desk were blown all over the floor by the wind."
+   },
+   {
+    "zh": "我养的那盆花,一个月没浇水,给旱死了。",
+    "pinyin": "Wǒ yǎng de nà pén huā, yí gè yuè méi jiāo shuǐ, gěi hàn sǐ le。",
+    "en": "The flower I kept died of drought after a month without watering."
+   },
+   {
+    "zh": "好好的一件事,让他这么一搅和给弄砸了。",
+    "pinyin": "Hǎo hǎo de yī jiàn shì, ràng tā zhè me yī jiǎo huo gěi nòng zá le。",
+    "en": "A perfectly good matter was messed up by his meddling."
+   },
+   {
+    "zh": "那块蛋糕还没等我吃,就给他们分光了。",
+    "pinyin": "Nà kuài dàn gāo hái méi děng wǒ chī, jiù gěi tā men fēn guāng le。",
+    "en": "Before I could eat it, that cake was divided up by them."
+   },
+   {
+    "zh": "我的伞不知道给谁拿走了,害我淋了一路雨。",
+    "pinyin": "Wǒ de sǎn bù zhī dào gěi shuí ná zǒu le, hài wǒ lín le yī lù yǔ。",
+    "en": "Someone took my umbrella, so I got rained on all the way."
+   },
+   {
+    "zh": "这么重要的秘密,居然给他不小心说漏了嘴。",
+    "pinyin": "Zhè me zhòng yào de mì mì, jū rán gěi tā bù xiǎo xīn shuō lòu le zuǐ。",
+    "en": "Such an important secret was accidentally let slip by him."
+   },
+   {
+    "zh": "院墙让那场台风给刮倒了一大截。",
+    "pinyin": "Yuàn qiáng ràng nà chǎng tái fēng gěi guā dào le yī dà jié。",
+    "en": "A large section of the wall was blown down by the typhoon."
+   },
+   {
+    "zh": "刚擦干净的地板,又给孩子踩了一串脚印。",
+    "pinyin": "Gāng cā gān jìng de dì bǎn, yòu gěi hái zi cǎi le yī chuàn jiǎo yìn。",
+    "en": "The freshly cleaned floor got a trail of footprints from the child again."
+   },
+   {
+    "zh": "我攒了半天的零钱,给他一下子全借走了。",
+    "pinyin": "Wǒ zǎn le bàn tiān de líng qián, gěi tā yī xià zi quán jiè zǒu le。",
+    "en": "The change I saved for ages was all borrowed away by him at once."
+   },
+   {
+    "zh": "那道好吃的菜,一上桌就给大家抢光了。",
+    "pinyin": "Nà dào hǎo chī de cài, yī shàng zhuō jiù gěi dà jiā qiǎng guāng le。",
+    "en": "That tasty dish was snatched up by everyone as soon as it was served."
+   },
+   {
+    "zh": "他的好意,反倒给人误解成了别有用心。",
+    "pinyin": "Tā de hǎo yì, fǎn dào gěi rén wù jiě chéng le bié yǒu yòng xīn。",
+    "en": "His kindness was misunderstood as having ulterior motives."
+   },
+   {
+    "zh": "窗台上的花盆,给猫一碰就摔到了地上。",
+    "pinyin": "Chuāng tái shàng de huā pén, gěi māo yī pèng jiù shuāi dào le de shàng。",
+    "en": "The flowerpot on the sill was knocked to the floor by the cat."
+   },
+   {
+    "zh": "我藏起来的糖,还是给弟弟给找出来了。",
+    "pinyin": "Wǒ cáng qǐ lái de táng, hái shì gěi dì di gěi zhǎo chū lái le。",
+    "en": "The candy I hid was still found out by my brother."
+   }
+  ]
+ },
+ {
+  "id": "g339",
+  "level": 4,
+  "title": "\"就...(来说/而言)\" ile kapsam sınırlama",
+  "titleEn": "Limiting scope with \"jiu\"",
+  "pattern": "就 + Konu + (来说 / 而言)，...",
+  "summary": "\"就...来说/而言\" bir değerlendirmeyi belli bir açı/kapsamla sınırlar: 就质量而言,这个最好 = Kalite bakımından bu en iyisi.",
+  "explanation": "\"就 + konu + 来说/而言\" bir yargıyı belli bir AÇI, ölçüt ya da kapsamla SINIRLAYAN resmî bir kalıptır: \"... bakımından, ... açısından, ...-e gelince, ... söz konusu olduğunda\". Bir değerlendirmenin hangi yönle sınırlı olduğunu belirtir: 就价格来说,这家店最实惠 (Fiyat açısından bu dükkân en uygunu), 就目前的情况而言,我们还需要更多时间 (Şu andaki durum söz konusu olduğunda daha çok zaman lazım), 就他个人而言,他更喜欢安静的生活 (Onun kişisel açısından, sessiz bir yaşamı yeğler). Buradaki \"就\" (miktar/erkenlik anlamlarından farklı olarak) bir kapsam belirteci gibidir ve \"来说/而言\" ile çerçeveyi tamamlar. \"对...来说/而言\" ile yakındır ama \"就...来说\" özellikle bir DEĞERLENDİRME AÇISINI/ölçütünü daraltır. Cümlenin başında gelir. Türkçedeki \"... bakımından, ... açısından, ...-e gelince, ... söz konusu olduğunda\" ifadelerine denk gelir; bir değerlendirmeyi belli bir yönle sınırlamanın resmî yoludur.",
+  "examples": [
+   {
+    "zh": "就价格来说,这家店的东西确实是最便宜的。",
+    "pinyin": "Jiù jià gé lái shuō, zhè jiā diàn de dōng xī què shí shì zuì pián yi de。",
+    "en": "In terms of price, this shop's goods are indeed the cheapest."
+   },
+   {
+    "zh": "就目前的进度而言,我们很可能无法按时完成。",
+    "pinyin": "Jiù mù qián de jìn dù ér yán, wǒ men hěn kě néng wú fǎ àn shí wán chéng。",
+    "en": "Given the current progress, we likely can't finish on time."
+   },
+   {
+    "zh": "就个人能力而言,他完全可以胜任这份工作。",
+    "pinyin": "Jiù gè rén néng lì ér yán, tā wán quán kě yǐ shèng rèn zhè fèn gōng zuò。",
+    "en": "In terms of personal ability, he's fully capable of this job."
+   },
+   {
+    "zh": "就环境来说,这个小区安静又整洁,很适合居住。",
+    "pinyin": "Jiù huán jìng lái shuō, zhè ge xiǎo qū ān jìng yòu zhěng jié, hěn shì hé jū zhù。",
+    "en": "In terms of environment, this neighborhood is quiet, tidy, and livable."
+   },
+   {
+    "zh": "就这件事来说,我觉得他并没有做错什么。",
+    "pinyin": "Jiù zhè jiàn shì lái shuō, wǒ jué de tā bìng méi yǒu zuò cuò shén me。",
+    "en": "As for this matter, I don't think he did anything wrong."
+   },
+   {
+    "zh": "就口味而言,这两家餐厅各有各的特色。",
+    "pinyin": "Jiù kǒu wèi ér yán, zhè liǎng jiā cān tīng gè yǒu gè de tè sè。",
+    "en": "In terms of taste, these two restaurants each have their own character."
+   },
+   {
+    "zh": "就长远发展来说,学好一门外语是很有必要的。",
+    "pinyin": "Jiù cháng yuǎn fā zhǎn lái shuō, xué hǎo yī mén wài yǔ shì hěn yǒu bì yào de。",
+    "en": "For long-term development, mastering a foreign language is necessary."
+   },
+   {
+    "zh": "就目前的技术水平而言,这个想法还很难实现。",
+    "pinyin": "Jiù mù qián de jì shù shuǐ píng ér yán, zhè ge xiǎng fǎ hái hěn nán shí xiàn。",
+    "en": "Given the current level of technology, this idea is hard to realize."
+   },
+   {
+    "zh": "就规模来说,这只是一家很小的公司。",
+    "pinyin": "Jiù guī mó lái shuō, zhè zhǐ shì yī jiā hěn xiǎo de gōng sī。",
+    "en": "In terms of scale, this is just a very small company."
+   },
+   {
+    "zh": "就我个人而言,我更倾向于选择稳妥的方案。",
+    "pinyin": "Jiù wǒ gè rén ér yán, wǒ gèng qīng xiàng yú xuǎn zé wěn tuǒ de fāng àn。",
+    "en": "Personally speaking, I lean toward the safer option."
+   },
+   {
+    "zh": "就学习态度来说,这个学生是全班最认真的。",
+    "pinyin": "Jiù xué xí tài dù lái shuō, zhè ge xué shēng shì quán bān zuì rèn zhēn de。",
+    "en": "In terms of study attitude, this student is the most serious in class."
+   },
+   {
+    "zh": "就交通便利程度而言,住在市中心确实更方便。",
+    "pinyin": "Jiù jiāo tōng biàn lì chéng dù ér yán, zhù zài shì zhōng xīn què shí gèng fāng biàn。",
+    "en": "In terms of transport convenience, living downtown is indeed easier."
+   },
+   {
+    "zh": "就目前掌握的信息而言,我们还无法下结论。",
+    "pinyin": "Jiù mù qián zhǎng wò de xìn xī ér yán, wǒ men hái wú fǎ xià jié lùn。",
+    "en": "Based on the information we have, we can't yet conclude."
+   },
+   {
+    "zh": "就质量和价格来说,这款产品的性价比很高。",
+    "pinyin": "Jiù zhì liàng hé jià gé lái shuō, zhè kuǎn chǎn pǐn de xìng jià bǐ hěn gāo。",
+    "en": "In terms of quality and price, this product offers great value."
+   },
+   {
+    "zh": "就他的年纪而言,能有这样的见识实在难得。",
+    "pinyin": "Jiù tā de nián jì ér yán, néng yǒu zhè yàng de jiàn shí shí zài nán de。",
+    "en": "For his age, such insight is truly remarkable."
+   },
+   {
+    "zh": "就这次考试来说,难度比往年要大一些。",
+    "pinyin": "Jiù zhè cì kǎo shì lái shuō, nán dù bǐ wǎng nián yào dà yī xiē。",
+    "en": "As for this exam, it was a bit harder than in previous years."
+   },
+   {
+    "zh": "就我们目前的条件而言,还不适合马上扩大规模。",
+    "pinyin": "Jiù wǒ men mù qián de tiáo jiàn ér yán, hái bú shì hé mǎ shàng kuò dà guī mó。",
+    "en": "Given our current conditions, it's not yet right to expand."
+   },
+   {
+    "zh": "就风景来说,这个地方绝对值得专门去一趟。",
+    "pinyin": "Jiù fēng jǐng lái shuō, zhè ge dì fāng jué duì zhí de zhuān mén qù yī tàng。",
+    "en": "In terms of scenery, this place is absolutely worth a special trip."
+   },
+   {
+    "zh": "就他一贯的表现而言,这次的失误确实有点意外。",
+    "pinyin": "Jiù tā yí guàn de biǎo xiàn ér yán, zhè cì de shī wù què shí yǒu diǎn yì wài。",
+    "en": "Given his usual performance, this slip was indeed a bit surprising."
+   },
+   {
+    "zh": "就营养价值来说,这种食物对身体很有好处。",
+    "pinyin": "Jiù yíng yǎng jià zhí lái shuō, zhè zhǒng shí wù duì shēn tǐ hěn yǒu hǎo chù。",
+    "en": "In terms of nutritional value, this food is very good for you."
+   },
+   {
+    "zh": "就整体效果而言,这次活动办得相当成功。",
+    "pinyin": "Jiù zhěng tǐ xiào guǒ ér yán, zhè cì huó dòng bàn de xiāng dāng chéng gōng。",
+    "en": "In terms of overall effect, this event was quite successful."
+   },
+   {
+    "zh": "就气候来说,这里四季分明,非常宜人。",
+    "pinyin": "Jiù qì hòu lái shuō, zhè lǐ sì jì fēn míng, fēi cháng yí rén。",
+    "en": "In terms of climate, here the four seasons are distinct and pleasant."
+   },
+   {
+    "zh": "就这个话题而言,大家的看法还存在不少分歧。",
+    "pinyin": "Jiù zhè ge huà tí ér yán, dà jiā de kàn fǎ hái cún zài bù shǎo fēn qí。",
+    "en": "On this topic, there are still many differences of opinion."
+   },
+   {
+    "zh": "就工作经验来说,他显然比其他应聘者更有优势。",
+    "pinyin": "Jiù gōng zuò jīng yàn lái shuō, tā xiǎn rán bǐ qí tā yìng pìn zhě gèng yǒu yōu shì。",
+    "en": "In terms of work experience, he clearly has an edge over other applicants."
+   },
+   {
+    "zh": "就目前的市场行情而言,现在并不是买入的好时机。",
+    "pinyin": "Jiù mù qián de shì chǎng háng qíng ér yán, xiàn zài bìng bú shì mǎi rù de hǎo shí jī。",
+    "en": "Given the current market, now isn't a good time to buy in."
+   }
+  ]
+ },
+ {
+  "id": "g340",
+  "level": 4,
+  "title": "\"趁\" ile \"...-ken, fırsattan yararlanarak\"",
+  "titleEn": "Opportune timing with \"chen\"",
+  "pattern": "趁 + Durum / Fırsat，...",
+  "summary": "\"趁\" (chèn) uygun bir durumdan/fırsattan yararlanmayı bildirir: 趁热吃 = sıcakken ye; 趁年轻多学点 = gençken çok şey öğren.",
+  "explanation": "\"趁\" bir eylemi UYGUN bir AN/koşul/fırsat varken, o fırsattan yararlanarak yapmayı bildirir: \"...-ken, ...-iken, fırsattan yararlanarak, ... varken\". Ardından bir durum/zaman gelir: 趁热吃吧,凉了就不好吃了 (Sıcakken ye, soğuyunca tadı kaçar), 趁天还没黑,我们赶紧下山 (Hava kararmadan hemen inelim), 趁年轻,多出去看看世界 (Gençken çık dünyayı gez), 趁这个机会,我想说几句 (Bu fırsattan yararlanarak birkaç şey söylemek isterim). \"趁\"den sonra bir sıfat (热/早), bir olumsuz durum (没...), bir isim (机会/假期) ya da bir cümle gelebilir. Bir koşulun elverişli olduğu süre içinde harekete geçmeyi vurgular; kaçırılmaması gereken bir fırsatı işaret eder. \"趁着\" biçimi de yaygındır. Türkçedeki \"...-ken, ...-iken, fırsattan yararlanarak, ... varken, madem fırsat çıkmışken\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "菜刚做好,趁热吃吧,凉了就不好吃了。",
+    "pinyin": "Cài gāng zuò hǎo, chèn rè chī ba, liáng le jiù bù hǎo chī le。",
+    "en": "The food's just done; eat it hot, it won't taste good cold."
+   },
+   {
+    "zh": "趁着天还没黑,我们赶紧把山下的路走完。",
+    "pinyin": "Chèn zhe tiān hái méi hēi, wǒ men gǎn jǐn bǎ shān xià de lù zǒu wán。",
+    "en": "While it's still light, let's hurry and finish the road down the mountain."
+   },
+   {
+    "zh": "趁年轻的时候多学点本事,将来才不会后悔。",
+    "pinyin": "Chèn nián qīng de shí hòu duō xué diǎn běn shì, jiāng lái cái bú huì hòu huǐ。",
+    "en": "Learn skills while you're young, so you won't regret it later."
+   },
+   {
+    "zh": "趁这次难得的机会,你应该好好向他请教。",
+    "pinyin": "Chèn zhè cì nán de de jī huì, nǐ yīng gāi hǎo hǎo xiàng tā qǐng jiào。",
+    "en": "Take this rare chance to ask him for advice properly."
+   },
+   {
+    "zh": "趁孩子睡着了,我赶紧把家里收拾了一下。",
+    "pinyin": "Chèn hái zi shuì zháo le, wǒ gǎn jǐn bǎ jiā lǐ shōu shí le yī xià。",
+    "en": "While the child was asleep, I quickly tidied up the house."
+   },
+   {
+    "zh": "趁现在人少,咱们赶紧把票买了吧。",
+    "pinyin": "Chèn xiàn zài rén shǎo, zán men gǎn jǐn bǎ piào mǎi le ba。",
+    "en": "While it's not crowded, let's hurry and buy the tickets."
+   },
+   {
+    "zh": "趁着放假,他回了一趟老家,看望年迈的父母。",
+    "pinyin": "Chèn zhe fàng jià, tā huí le yī tàng lǎo jiā, kàn wàng nián mài de fù mǔ。",
+    "en": "Taking advantage of the holiday, he went home to see his aging parents."
+   },
+   {
+    "zh": "趁雨还没下,我们快点把晾着的衣服收进来。",
+    "pinyin": "Chèn yǔ hái méi xià, wǒ men kuài diǎn bǎ liàng zhe de yī fú shōu jìn lái。",
+    "en": "Before the rain starts, let's quickly bring in the drying clothes."
+   },
+   {
+    "zh": "趁我还记得,先把这几件重要的事记下来。",
+    "pinyin": "Chèn wǒ hái jì de, xiān bǎ zhè jǐ jiàn zhòng yào de shì jì xià lái。",
+    "en": "While I still remember, let me note down these important things."
+   },
+   {
+    "zh": "趁着周末,一家人一起去郊外呼吸新鲜空气。",
+    "pinyin": "Chèn zhe zhōu mò, yī jiā rén yì qǐ qù jiāo wài hū xī xīn xiān kōng qì。",
+    "en": "Taking the weekend, the family went to the countryside for fresh air."
+   },
+   {
+    "zh": "趁热打铁,咱们把剩下的工作一鼓作气做完。",
+    "pinyin": "Chèn rè dǎ tiě, zán men bǎ shèng xià de gōng zuò yī gǔ zuò qì zuò wán。",
+    "en": "Strike while the iron's hot; let's finish the rest in one go."
+   },
+   {
+    "zh": "趁身体还硬朗,老人想再出去旅行几次。",
+    "pinyin": "Chèn shēn tǐ hái yìng lǎng, lǎo rén xiǎng zài chū qù lǚ xíng jǐ cì。",
+    "en": "While still robust, the old man wants to travel a few more times."
+   },
+   {
+    "zh": "趁大家都在,我把下个月的安排跟你们说一下。",
+    "pinyin": "Chèn dà jiā dōu zài, wǒ bǎ xià gè yuè de ān pái gēn nǐ men shuō yī xià。",
+    "en": "While everyone's here, let me tell you next month's plans."
+   },
+   {
+    "zh": "趁着天气好,快把被子拿出去晒一晒。",
+    "pinyin": "Chèn zhe tiān qì hǎo, kuài bǎ bèi zi ná chū qù shài yī shài。",
+    "en": "While the weather's nice, air out the quilts."
+   },
+   {
+    "zh": "趁价格便宜,他一下子囤了不少日用品。",
+    "pinyin": "Chèn jià gé pián yi, tā yī xià zi dùn le bù shǎo rì yòng pǐn。",
+    "en": "While prices were low, he stocked up on daily necessities."
+   },
+   {
+    "zh": "趁老师还没来,大家赶紧把作业对一下答案。",
+    "pinyin": "Chèn lǎo shī hái méi lái, dà jiā gǎn jǐn bǎ zuò yè duì yī xià dá àn。",
+    "en": "Before the teacher comes, let's quickly check the homework answers."
+   },
+   {
+    "zh": "趁着精力充沛,他把最难的工作先做完了。",
+    "pinyin": "Chèn zhe jīng lì chōng pèi, tā bǎ zuì nán de gōng zuò xiān zuò wán le。",
+    "en": "While full of energy, he finished the hardest work first."
+   },
+   {
+    "zh": "趁还有时间,我们再把发言稿仔细看一遍。",
+    "pinyin": "Chèn hái yǒu shí jiān, wǒ men zài bǎ fā yán gǎo zǐ xì kàn yī biàn。",
+    "en": "While there's still time, let's review the speech carefully once more."
+   },
+   {
+    "zh": "趁孩子们放假,他们计划带全家人去旅行。",
+    "pinyin": "Chèn hái zi men fàng jià, tā men jì huà dài quán jiā rén qù lǚ xíng。",
+    "en": "While the kids are on holiday, they plan a family trip."
+   },
+   {
+    "zh": "趁着这股热情,把想做的事情赶紧付诸行动吧。",
+    "pinyin": "Chèn zhe zhè gǔ rè qíng, bǎ xiǎng zuò de shì qíng gǎn jǐn fù zhū xíng dòng ba。",
+    "en": "Ride this enthusiasm and put your plans into action quickly."
+   },
+   {
+    "zh": "趁现在还来得及,你最好尽快跟他解释清楚。",
+    "pinyin": "Chèn xiàn zài hái lái de jí, nǐ zuì hǎo jǐn kuài gēn tā jiě shì qīng chǔ。",
+    "en": "While there's still time, you'd best explain to him soon."
+   },
+   {
+    "zh": "趁着夜色,他悄悄地离开了那座城市。",
+    "pinyin": "Chèn zhe yè sè, tā qiāo qiāo de lí kāi le nà zuò chéng shì。",
+    "en": "Under cover of night, he quietly left the city."
+   },
+   {
+    "zh": "趁父母还健在,多陪陪他们,别留下遗憾。",
+    "pinyin": "Chèn fù mǔ hái jiàn zài, duō péi péi tā men, bié liú xià yí hàn。",
+    "en": "While your parents are still alive, be with them, don't leave regrets."
+   },
+   {
+    "zh": "趁这几天不忙,我把积攒的书都读了一遍。",
+    "pinyin": "Chèn zhè jǐ tiān bù máng, wǒ bǎ jī zǎn de shū dōu dú le yī biàn。",
+    "en": "While these days aren't busy, I read all the books I'd piled up."
+   },
+   {
+    "zh": "趁热闹的时候,街头的小贩生意特别好。",
+    "pinyin": "Chèn rè nào de shí hòu, jiē tóu de xiǎo fàn shēng yì tè bié hǎo。",
+    "en": "During the busy times, the street vendors' business is especially good."
+   }
+  ]
+ },
+ {
+  "id": "g341",
+  "level": 4,
+  "title": "\"并\" ile olumsuzluğu pekiştirme",
+  "titleEn": "Emphasizing a negation with \"bing\"",
+  "pattern": "Özne + 并 + 不 / 没 + Fiil / Sıfat",
+  "summary": "\"并\" bir olumsuzluğu (beklentinin aksine) pekiştirir: 这件事并不像你想的那么简单 = Bu iş sandığın kadar basit DEĞİL.",
+  "explanation": "\"并\" bir OLUMSUZLUĞUN (不/没) önüne gelip onu pekiştirir ve çoğu zaman karşıdakinin BEKLENTİSİNİ/varsayımını çürütür: \"aslında ... değil, hiç de ... değil, sanıldığı gibi ... değil\". 这道题并不难,你别害怕 (Bu soru hiç de zor değil, korkma), 我并没有生你的气,你别多想 (Sana hiç kızmadım, yanlış düşünme), 事情并不像表面看起来那么简单 (Mesele göründüğü kadar basit değil). \"并\" bir gerçeği vurgulu biçimde düzeltir; dinleyicinin yanlış bir varsayımı olduğunu ima eder ve onu \"aslında öyle değil\" diye çürütür. Yalnız \"不/没\" ile (olumsuzlukla) kullanılır; olumlu cümlede bu anlamda gelmez. Resmî/nesnel bir düzeltme tonu taşır. \"并\" ayrıca \"ve, ayrıca\" (bağlaç) anlamına da gelir ama bu konuda olumsuzluk pekiştirmesini ele alıyoruz. Türkçedeki \"aslında ... değil, hiç de ... değil, sanıldığı gibi ... değil, öyle ... değil\" ifadelerine denk gelir; bir yanlış varsayımı vurgulu biçimde düzeltmenin yoludur.",
+  "examples": [
+   {
+    "zh": "这道题看起来复杂,其实并不难,静下心来就会做。",
+    "pinyin": "Zhè dào tí kàn qǐ lái fù zá, qí shí bìng bù nán, jìng xià xīn lái jiù huì zuò。",
+    "en": "This problem looks complex but isn't really hard; calm down and you'll do it."
+   },
+   {
+    "zh": "我并没有责怪你的意思,你千万别往心里去。",
+    "pinyin": "Wǒ bìng méi yǒu zé guài nǐ de yì si, nǐ qiān wàn bié wǎng xīn lǐ qù。",
+    "en": "I didn't mean to blame you at all; please don't take it to heart."
+   },
+   {
+    "zh": "事情并不像大家想象的那样糟糕,还有转机。",
+    "pinyin": "Shì qíng bìng bù xiàng dà jiā xiǎng xiàng de nà yàng zāo gāo, hái yǒu zhuǎn jī。",
+    "en": "Things aren't as bad as everyone imagines; there's still hope."
+   },
+   {
+    "zh": "他嘴上说不在乎,可心里其实并不轻松。",
+    "pinyin": "Tā zuǐ shàng shuō bù zài hū, kě xīn lǐ qí shí bìng bù qīng sōng。",
+    "en": "He says he doesn't care, but he's not actually at ease."
+   },
+   {
+    "zh": "这件衣服虽然便宜,但质量并不差。",
+    "pinyin": "Zhè jiàn yī fú suī rán pián yi, dàn zhì liàng bìng bù chà。",
+    "en": "Though this outfit is cheap, its quality isn't bad at all."
+   },
+   {
+    "zh": "我并不是不想帮你,只是这件事确实超出了我的能力。",
+    "pinyin": "Wǒ bìng bú shì bù xiǎng bāng nǐ, zhǐ shì zhè jiàn shì què shí chāo chū le wǒ de néng lì。",
+    "en": "It's not that I don't want to help; this is just beyond me."
+   },
+   {
+    "zh": "表面上他很冷淡,但内心并非没有热情。",
+    "pinyin": "Biǎo miàn shàng tā hěn lěng dàn, dàn nèi xīn bìng fēi méi yǒu rè qíng。",
+    "en": "On the surface he's cold, but he's not without warmth inside."
+   },
+   {
+    "zh": "这次考试的失利,并不代表你的努力白费了。",
+    "pinyin": "Zhè cì kǎo shì de shī lì, bìng bù dài biǎo nǐ de nǔ lì bái fèi le。",
+    "en": "This exam failure doesn't mean your effort was wasted."
+   },
+   {
+    "zh": "他年纪虽然不大,处理问题却并不比大人差。",
+    "pinyin": "Tā nián jì suī rán bù dà, chǔ lǐ wèn tí què bìng bù bǐ dà rén chà。",
+    "en": "Though young, he handles problems no worse than adults."
+   },
+   {
+    "zh": "我并没有听说过这件事,你是从哪儿知道的?",
+    "pinyin": "Wǒ bìng méi yǒu tīng shuō guò zhè jiàn shì, nǐ shì cóng nǎ ér zhī dào de?",
+    "en": "I haven't heard about this at all; where did you learn it?"
+   },
+   {
+    "zh": "这条路看着近,走起来却并不轻松。",
+    "pinyin": "Zhè tiáo lù kàn zhe jìn, zǒu qǐ lái què bìng bù qīng sōng。",
+    "en": "This road looks short, but it's not easy to walk."
+   },
+   {
+    "zh": "他的成功并非偶然,而是长期努力的结果。",
+    "pinyin": "Tā de chéng gōng bìng fēi ǒu rán, ér shì cháng qī nǔ lì de jié guǒ。",
+    "en": "His success isn't accidental but the result of long effort."
+   },
+   {
+    "zh": "我们之间的分歧并没有你想的那么严重。",
+    "pinyin": "Wǒ men zhī jiān de fēn qí bìng méi yǒu nǐ xiǎng de nà me yán zhòng。",
+    "en": "The disagreement between us isn't as serious as you think."
+   },
+   {
+    "zh": "这个决定并不是我一个人做出来的,而是大家商量的结果。",
+    "pinyin": "Zhè ge jué dìng bìng bú shì wǒ yí gè rén zuò chū lái de, ér shì dà jiā shāng liáng de jié guǒ。",
+    "en": "This decision wasn't made by me alone but by everyone's discussion."
+   },
+   {
+    "zh": "虽然他话不多,可这并不意味着他没有想法。",
+    "pinyin": "Suī rán tā huà bù duō, kě zhè bìng bù yì wèi zhe tā méi yǒu xiǎng fǎ。",
+    "en": "Though he talks little, that doesn't mean he has no ideas."
+   },
+   {
+    "zh": "这件事并没有结束,后面还有很多工作要做。",
+    "pinyin": "Zhè jiàn shì bìng méi yǒu jié shù, hòu miàn hái yǒu hěn duō gōng zuò yào zuò。",
+    "en": "This matter isn't over; there's still much work ahead."
+   },
+   {
+    "zh": "贵的东西并不一定就是好的,还得看是否适合自己。",
+    "pinyin": "Guì de dōng xī bìng bù yí dìng jiù shì hǎo de, hái de kàn shì fǒu shì hé zì jǐ。",
+    "en": "Expensive things aren't necessarily good; it depends on suitability."
+   },
+   {
+    "zh": "我并不后悔当初的选择,哪怕吃了不少苦。",
+    "pinyin": "Wǒ bìng bù hòu huǐ dāng chū de xuǎn zé, nǎ pà chī le bù shǎo kǔ。",
+    "en": "I don't regret my original choice at all, despite the hardship."
+   },
+   {
+    "zh": "他表面上答应了,内心却并不情愿。",
+    "pinyin": "Tā biǎo miàn shàng dā yìng le, nèi xīn què bìng bù qíng yuàn。",
+    "en": "He agreed on the surface, but wasn't really willing inside."
+   },
+   {
+    "zh": "这种做法看似聪明,实际上并不高明。",
+    "pinyin": "Zhè zhǒng zuò fǎ kàn shì cōng míng, shí jì shàng bìng bù gāo míng。",
+    "en": "This approach seems clever but is actually not wise."
+   },
+   {
+    "zh": "失败并不可怕,可怕的是从此一蹶不振。",
+    "pinyin": "Shī bài bìng bù kě pà, kě pà de shì cóng cǐ yī jué bù zhèn。",
+    "en": "Failure isn't frightening; giving up afterward is."
+   },
+   {
+    "zh": "这些流言并不是真的,你不要轻易相信。",
+    "pinyin": "Zhè xiē liú yán bìng bú shì zhēn de, nǐ bú yào qīng yì xiāng xìn。",
+    "en": "These rumors aren't true; don't easily believe them."
+   },
+   {
+    "zh": "他的沉默并不代表同意,你可别会错了意。",
+    "pinyin": "Tā de chén mò bìng bù dài biǎo tóng yì, nǐ kě bié huì cuò le yì。",
+    "en": "His silence doesn't mean agreement; don't misunderstand."
+   },
+   {
+    "zh": "这个问题并没有标准答案,关键在于你怎么理解。",
+    "pinyin": "Zhè ge wèn tí bìng méi yǒu biāo zhǔn dá àn, guān jiàn zài yú nǐ zěn me lǐ jiě。",
+    "en": "This question has no standard answer; the key is how you understand it."
+   },
+   {
+    "zh": "我们的目标并没有改变,只是方法需要调整。",
+    "pinyin": "Wǒ men de mù biāo bìng méi yǒu gǎi biàn, zhǐ shì fāng fǎ xū yào tiáo zhěng。",
+    "en": "Our goal hasn't changed; only the method needs adjusting."
+   }
+  ]
+ },
+ {
+  "id": "g342",
+  "level": 4,
+  "title": "\"要不是\" ile \"...-mesaydı / iyi ki\"",
+  "titleEn": "Expressing \"if it were not for\" with \"yaobushi\"",
+  "pattern": "要不是 ... (的话)，...",
+  "summary": "\"要不是...\" gerçekleşmemiş bir koşulu ve onun olmadığı takdirde olacak sonucu bildirir: 要不是你提醒我,我就忘了 = Sen hatırlatmasaydın unutacaktım.",
+  "explanation": "\"要不是\" GERÇEĞE AYKIRI (varsayımsal) bir koşul kurar: bir şey OLMASAYDI, farklı (genelde kötü) bir sonucun olacağını bildirir — \"...-mesaydı, ... olmasaydı, iyi ki ...\". Kalıp: 要不是 + koşul (+ 的话)，(就) + sonuç. 要不是你帮忙,这件事我一个人根本做不完 (Sen yardım etmeseydin bunu tek başıma bitiremezdim), 要不是下雨,我们今天就去爬山了 (Yağmur olmasaydı bugün dağa çıkardık), 要不是他及时刹车,后果不堪设想 (Zamanında frene basmasaydı sonu felaketti). İlk bölüm gerçekleşmemiş/aksi bir durumu, ikinci bölüm o durumun tersinde olacak sonucu verir. Aslında olan durumun tersini varsayar; çoğu zaman bir minnettarlık (iyi ki oldu) ya da atlatılan bir tehlike bildirir. \"如果不是\" ile eş anlamlıdır ama \"要不是\" daha konuşma dilidir. Türkçedeki \"...-mesaydı, ... olmasaydı, iyi ki ..., ... olmasa\" karşı olgusal koşul kalıplarına denk gelir.",
+  "examples": [
+   {
+    "zh": "要不是你及时提醒我,我肯定就把这件重要的事忘了。",
+    "pinyin": "Yào bú shì nǐ jí shí tí xǐng wǒ, wǒ kěn dìng jiù bǎ zhè jiàn zhòng yào de shì wàng le。",
+    "en": "If you hadn't reminded me in time, I'd surely have forgotten it."
+   },
+   {
+    "zh": "要不是下这么大的雨,我们今天早就出发了。",
+    "pinyin": "Yào bú shì xià zhè me dà de yǔ, wǒ men jīn tiān zǎo jiù chū fā le。",
+    "en": "If not for this heavy rain, we'd have set off long ago."
+   },
+   {
+    "zh": "要不是有大家的帮助,我一个人根本完成不了。",
+    "pinyin": "Yào bú shì yǒu dà jiā de bāng zhù, wǒ yí gè rén gēn běn wán chéng bù liǎo。",
+    "en": "If not for everyone's help, I couldn't have finished it alone."
+   },
+   {
+    "zh": "要不是他反应快,那个孩子可能就出危险了。",
+    "pinyin": "Yào bú shì tā fǎn yìng kuài, nà ge hái zi kě néng jiù chū wēi xiǎn le。",
+    "en": "If not for his quick reaction, that child might have been in danger."
+   },
+   {
+    "zh": "要不是亲眼所见,我真不敢相信会有这样的事。",
+    "pinyin": "Yào bú shì qīn yǎn suǒ jiàn, wǒ zhēn bù gǎn xiāng xìn huì yǒu zhè yàng de shì。",
+    "en": "If I hadn't seen it myself, I couldn't believe such a thing."
+   },
+   {
+    "zh": "要不是当年坚持了下来,就没有今天的成就了。",
+    "pinyin": "Yào bú shì dāng nián jiān chí le xià lái, jiù méi yǒu jīn tiān de chéng jiù le。",
+    "en": "If not for persevering back then, there'd be no success today."
+   },
+   {
+    "zh": "要不是你借给我钱,我那天真不知道该怎么办。",
+    "pinyin": "Yào bú shì nǐ jiè gěi wǒ qián, wǒ nà tiān zhēn bù zhī dào gāi zěn me bàn。",
+    "en": "If you hadn't lent me money, I wouldn't have known what to do."
+   },
+   {
+    "zh": "要不是路上堵车,我们本来可以准时到的。",
+    "pinyin": "Yào bú shì lù shàng dǔ chē, wǒ men běn lái kě yǐ zhǔn shí dào de。",
+    "en": "If not for the traffic, we could have arrived on time."
+   },
+   {
+    "zh": "要不是老师耐心的教导,我不可能有这么大的进步。",
+    "pinyin": "Yào bú shì lǎo shī nài xīn de jiào dǎo, wǒ bù kě néng yǒu zhè me dà de jìn bù。",
+    "en": "If not for the teacher's patient guidance, I couldn't have improved so much."
+   },
+   {
+    "zh": "要不是身体的原因,他绝不会放弃这么好的机会。",
+    "pinyin": "Yào bú shì shēn tǐ de yuán yīn, tā jué bú huì fàng qì zhè me hǎo de jī huì。",
+    "en": "If not for his health, he'd never give up such a good chance."
+   },
+   {
+    "zh": "要不是你陪着我,我一个人在医院真的会很害怕。",
+    "pinyin": "Yào bú shì nǐ péi zhe wǒ, wǒ yí gè rén zài yī yuàn zhēn de huì hěn hài pà。",
+    "en": "If you weren't with me, I'd be really scared alone at the hospital."
+   },
+   {
+    "zh": "要不是提前订了票,这个假期我们恐怕哪儿也去不了。",
+    "pinyin": "Yào bú shì tí qián dìng le piào, zhè ge jià qī wǒ men kǒng pà nǎ ér yě qù bù liǎo。",
+    "en": "If not for booking early, we couldn't have gone anywhere this holiday."
+   },
+   {
+    "zh": "要不是这场大雪,今年的收成不会这么差。",
+    "pinyin": "Yào bú shì zhè chǎng dà xuě, jīn nián de shōu chéng bú huì zhè me chà。",
+    "en": "If not for this heavy snow, this year's harvest wouldn't be so poor."
+   },
+   {
+    "zh": "要不是他一再坚持,这个项目早就被放弃了。",
+    "pinyin": "Yào bú shì tā yī zài jiān chí, zhè ge xiàng mù zǎo jiù bèi fàng qì le。",
+    "en": "If not for his repeated insistence, this project would've been dropped."
+   },
+   {
+    "zh": "要不是有人在背后默默付出,哪有这么好的成果。",
+    "pinyin": "Yào bú shì yǒu rén zài bèi hòu mò mò fù chū, nǎ yǒu zhè me hǎo de chéng guǒ。",
+    "en": "If not for someone's quiet effort behind the scenes, there'd be no such result."
+   },
+   {
+    "zh": "要不是这次经历,我可能永远不会明白这个道理。",
+    "pinyin": "Yào bú shì zhè cì jīng lì, wǒ kě néng yǒng yuǎn bú huì míng bái zhè ge dào lǐ。",
+    "en": "If not for this experience, I might never have understood this."
+   },
+   {
+    "zh": "要不是天气突然变冷,他们的野餐计划就成功了。",
+    "pinyin": "Yào bú shì tiān qì tū rán biàn lěng, tā men de yě cān jì huà jiù chéng gōng le。",
+    "en": "If not for the sudden cold, their picnic plan would've succeeded."
+   },
+   {
+    "zh": "要不是你们的鼓励,我早就想放弃了。",
+    "pinyin": "Yào bú shì nǐ men de gǔ lì, wǒ zǎo jiù xiǎng fàng qì le。",
+    "en": "If not for your encouragement, I'd have given up long ago."
+   },
+   {
+    "zh": "要不是这位好心人相助,那位老人恐怕就摔倒了。",
+    "pinyin": "Yào bú shì zhè wèi hǎo xīn rén xiāng zhù, nà wèi lǎo rén kǒng pà jiù shuāi dǎo le。",
+    "en": "If not for this kind person's help, the old man might have fallen."
+   },
+   {
+    "zh": "要不是提前做了准备,这次我们肯定应付不过来。",
+    "pinyin": "Yào bú shì tí qián zuò le zhǔn bèi, zhè cì wǒ men kěn dìng yìng fù bù guò lái。",
+    "en": "If not for preparing ahead, we couldn't have coped this time."
+   },
+   {
+    "zh": "要不是他一句提醒,我差点儿就上了骗子的当。",
+    "pinyin": "Yào bú shì tā yī jù tí xǐng, wǒ chà diǎn ér jiù shàng le piàn zi dí dàng。",
+    "en": "If not for his one reminder, I'd almost have fallen for the scam."
+   },
+   {
+    "zh": "要不是这些年攒了点钱,这次生病真是措手不及。",
+    "pinyin": "Yào bú shì zhè xiē nián zǎn le diǎn qián, zhè cì shēng bìng zhēn shì cuò shǒu bù jí。",
+    "en": "If not for the savings of these years, this illness would've caught us off guard."
+   },
+   {
+    "zh": "要不是你们让着我,这盘棋我早就输了。",
+    "pinyin": "Yào bú shì nǐ men ràng zhe wǒ, zhè pán qí wǒ zǎo jiù shū le。",
+    "en": "If not for you letting me win, I'd have lost this chess game."
+   },
+   {
+    "zh": "要不是心中还怀着希望,他早就撑不下去了。",
+    "pinyin": "Yào bú shì xīn zhōng hái huái zhe xī wàng, tā zǎo jiù chēng bù xià qù le。",
+    "en": "If not for the hope in his heart, he'd have given up long ago."
+   },
+   {
+    "zh": "要不是当初那个决定,我的人生也许完全是另一个样子。",
+    "pinyin": "Yào bú shì dāng chū nà ge jué dìng, wǒ de rén shēng yě xǔ wán quán shì lìng yí gè yàng zi。",
+    "en": "If not for that decision back then, my life might be entirely different."
+   }
+  ]
  }
 ]

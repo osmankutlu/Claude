@@ -53310,5 +53310,685 @@
     "en": "The effort we put in is no less than any other team's."
    }
   ]
+ },
+ {
+  "id": "g393",
+  "level": 4,
+  "title": "\"要...就...\" ile koşul ve tercih",
+  "titleEn": "Conditions with \"yao\" and \"jiu\"",
+  "pattern": "(要 ...，就 ...) / (要不 ...，就 ...)",
+  "summary": "\"要...就\" bir koşulu, \"要不...就\" bir seçeneği bildirir: 要去就早点去 = Gideceksen erken git; 要不你去,要不我去 = Ya sen git ya ben.",
+  "explanation": "\"要\" konuşma dilinde \"要是/如果\" gibi bir KOŞUL kurar ve ardından \"就\" ile sonucu gelir: \"...-ecek/-acaksa ..., ... istiyorsan ...\". (1) 要...就...: 你要真想学,就得下功夫 (Gerçekten öğrenmek istiyorsan emek vereceksin), 要去就早点去,别磨蹭 (Gideceksen erken git, oyalanma), 这件事要做就做好 (Bu işi yapacaksan iyi yap). Bu kalıp bir koşulu ve ondan çıkan doğal gereği/kararı bildirir. (2) \"要不...(就)...\" bir SEÇENEK/öneri sunar (\"要不然\"ın kısası): 要不你先走,我随后就到 (İstersen sen önden git, ben hemen gelirim), 时间不早了,要不咱们改天再去? (Vakit geç, istersen başka gün gidelim?), 要不这样吧,大家分头去找 (Şöyle yapalım, ayrı ayrı arayalım). \"要不\" bir alternatif önerir ya da \"yoksa/aksi hâlde\" anlamı taşır: 快走吧,要不就迟到了 (Hadi çıkalım, yoksa geç kalırız). Böylece \"要...就\" koşul-sonuç, \"要不...就\" ise öneri/alternatif kurar; ikisi de günlük konuşmaya özgüdür. Türkçedeki \"...-ecek/-acaksa ..., ... istiyorsan ...; ya da ..., istersen ..., yoksa ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这件事你要做,就一定要有始有终,不能半途而废。",
+    "pinyin": "Zhè jiàn shì nǐ yào zuò, jiù yí dìng yào yǒu shǐ yǒu zhōng, bù néng bàn tú ér fèi。",
+    "en": "If you're going to do this, see it through to the end."
+   },
+   {
+    "zh": "要去看电影就早点订票,不然好座位都被抢光了。",
+    "pinyin": "Yào qù kàn diàn yǐng jiù zǎo diǎn dìng piào, bù rán hǎo zuò wèi dōu bèi qiǎng guāng le。",
+    "en": "If you want to see the film, book early or good seats are gone."
+   },
+   {
+    "zh": "你要真心想学好,就得踏踏实实地下苦功夫。",
+    "pinyin": "Nǐ yào zhēn xīn xiǎng xué hǎo, jiù de tà tà shí shí de xià kǔ gōng fu。",
+    "en": "If you truly want to master it, put in solid hard work."
+   },
+   {
+    "zh": "时间不早了,要不咱们改天再详细商量这件事吧。",
+    "pinyin": "Shí jiān bù zǎo le, yào bù zán men gǎi tiān zài xiáng xì shāng liáng zhè jiàn shì ba。",
+    "en": "It's late; how about we discuss this in detail another day?"
+   },
+   {
+    "zh": "你要是累了,要不先歇一会儿,活儿一会儿再干也不迟。",
+    "pinyin": "Nǐ yào shì lèi le, yào bù xiān xiē yī huì er, huó er yī huì er zài gàn yě bù chí。",
+    "en": "If you're tired, rest a while; the work can wait a bit."
+   },
+   {
+    "zh": "这道题要不你先自己想想,实在不会我再教你。",
+    "pinyin": "Zhè dào tí yào bù nǐ xiān zì jǐ xiǎng xiǎng, shí zài bú huì wǒ zài jiào nǐ。",
+    "en": "Why not think it over yourself first; I'll teach you if stuck."
+   },
+   {
+    "zh": "你要嫌麻烦,就干脆别做了,免得半途又后悔。",
+    "pinyin": "Nǐ yào xián má fán, jiù gān cuì bié zuò le, miǎn de bàn tú yòu hòu huǐ。",
+    "en": "If you find it a bother, just don't do it and avoid regret."
+   },
+   {
+    "zh": "要说就一次说清楚,别遮遮掩掩,让人猜来猜去。",
+    "pinyin": "Yào shuō jiù yī cì shuō qīng chǔ, bié zhē zhē yǎn yǎn, ràng rén cāi lái cāi qù。",
+    "en": "If you'll speak, say it clearly; don't be evasive."
+   },
+   {
+    "zh": "快点出发吧,要不就赶不上那班末班车了。",
+    "pinyin": "Kuài diǎn chū fā ba, yào bù jiù gǎn bù shàng nà bān mò bān chē le。",
+    "en": "Let's set off; otherwise we'll miss the last bus."
+   },
+   {
+    "zh": "你要真喜欢这只小狗,就好好照顾它一辈子。",
+    "pinyin": "Nǐ yào zhēn xǐ huān zhè zhǐ xiǎo gǒu, jiù hǎo hǎo zhào gù tā yī bèi zi。",
+    "en": "If you really love this puppy, care for it all its life."
+   },
+   {
+    "zh": "要不这样吧,我们各退一步,谁也别太计较。",
+    "pinyin": "Yào bù zhè yàng ba, wǒ men gè tuì yī bù, shuí yě bié tài jì jiào。",
+    "en": "How about this: we each step back and no one fusses."
+   },
+   {
+    "zh": "这件衣服你要不喜欢,趁着还没剪吊牌赶紧去退。",
+    "pinyin": "Zhè jiàn yī fú nǐ yào bù xǐ huān, chèn zhe hái méi jiǎn diào pái gǎn jǐn qù tuì。",
+    "en": "If you dislike this outfit, return it before the tag's off."
+   },
+   {
+    "zh": "你要想让别人尊重你,就先学会尊重别人。",
+    "pinyin": "Nǐ yào xiǎng ràng bié rén zūn zhòng nǐ, jiù xiān xué huì zūn zhòng bié rén。",
+    "en": "If you want respect, first learn to respect others."
+   },
+   {
+    "zh": "外面风大,要不你多穿一件,别到时候冻感冒了。",
+    "pinyin": "Wài miàn fēng dà, yào bù nǐ duō chuān yī jiàn, bié dào shí hòu dòng gǎn mào le。",
+    "en": "It's windy out; wear an extra layer lest you catch a cold."
+   },
+   {
+    "zh": "这话你要说,就当着大家的面说,别在背后议论。",
+    "pinyin": "Zhè huà nǐ yào shuō, jiù dāng zhe dà jiā de miàn shuō, bié zài bèi hòu yì lùn。",
+    "en": "If you'll say it, say it to all, not behind backs."
+   },
+   {
+    "zh": "要想把身体养好,就得坚持早睡早起,合理饮食。",
+    "pinyin": "Yào xiǎng bǎ shēn tǐ yǎng hǎo, jiù de jiān chí zǎo shuì zǎo qǐ, hé lǐ yǐn shí。",
+    "en": "To stay healthy, keep early hours and eat sensibly."
+   },
+   {
+    "zh": "快走吧,要不老师该点名了,咱们就算迟到了。",
+    "pinyin": "Kuài zǒu ba, yào bù lǎo shī gāi diǎn míng le, zán men jiù suàn chí dào le。",
+    "en": "Hurry, or the teacher will call the roll and we'll be late."
+   },
+   {
+    "zh": "你要不放心,就亲自去看看,眼见为实嘛。",
+    "pinyin": "Nǐ yào bù fàng xīn, jiù qīn zì qù kàn kàn, yǎn jiàn wèi shí ma。",
+    "en": "If you're uneasy, go see for yourself; seeing is believing."
+   },
+   {
+    "zh": "这件事要办就趁早办,拖得越久越麻烦。",
+    "pinyin": "Zhè jiàn shì yào bàn jiù chèn zǎo bàn, tuō de yuè jiǔ yuè má fán。",
+    "en": "If it's to be done, do it soon; delay only brings trouble."
+   },
+   {
+    "zh": "要不我陪你一起去吧,一个人办这些事太辛苦了。",
+    "pinyin": "Yào bù wǒ péi nǐ yì qǐ qù ba, yí gè rén bàn zhè xiē shì tài xīn kǔ le。",
+    "en": "Let me go with you; handling all this alone is too tiring."
+   },
+   {
+    "zh": "你要真下定了决心,就别再犹豫,勇敢地去闯一闯。",
+    "pinyin": "Nǐ yào zhēn xià dìng le jué xīn, jiù bié zài yóu yù, yǒng gǎn de qù chuǎng yī chuǎng。",
+    "en": "If you're truly resolved, stop hesitating and go for it."
+   },
+   {
+    "zh": "天快黑了,要不咱们加快脚步,争取天黑前赶到。",
+    "pinyin": "Tiān kuài hēi le, yào bù zán men jiā kuài jiǎo bù, zhēng qǔ tiān hēi qián gǎn dào。",
+    "en": "It's getting dark; let's quicken our pace to arrive before night."
+   },
+   {
+    "zh": "要买就买质量好一点的,便宜货往往用不了多久。",
+    "pinyin": "Yào mǎi jiù mǎi zhì liàng hǎo yì diǎn de, pián yí huò wǎng wǎng yòng bù liǎo duō jiǔ。",
+    "en": "If you'll buy, buy quality; cheap stuff seldom lasts."
+   },
+   {
+    "zh": "你要不方便接电话,发条消息告诉我一声也行。",
+    "pinyin": "Nǐ yào bù fāng biàn jiē diàn huà, fā tiáo xiāo xī gào sù wǒ yī shēng yě xíng。",
+    "en": "If you can't take the call, a message to tell me is fine."
+   },
+   {
+    "zh": "这个机会你要抓住就得马上行动,犹豫就会错过。",
+    "pinyin": "Zhè ge jī huì nǐ yào zhuā zhù jiù de mǎ shàng xíng dòng, yóu yù jiù huì cuò guò。",
+    "en": "To seize this chance, act now; hesitation loses it."
+   }
+  ]
+ },
+ {
+  "id": "g394",
+  "level": 4,
+  "title": "\"任何\" ile \"herhangi bir / hiçbir\"",
+  "titleEn": "Expressing \"any\" with \"renhe\"",
+  "pattern": "任何 + Ad + 都 / 也 ...",
+  "summary": "\"任何\" istisnasız \"her/hiçbir\" anlamı verir: 任何人都不能例外 = Hiç kimse istisna olamaz.",
+  "explanation": "\"任何\" (rènhé) bir adın önüne gelip \"istisnasız hepsi\" ya da (olumsuzla) \"hiçbiri\" anlamı verir: \"herhangi bir, her ..., hiçbir ...\". Neredeyse her zaman ardından \"都\" ya da \"也\" gelir. Olumlu yüklemle \"her/hepsi\": 任何困难都难不倒他 (Hiçbir zorluk onu yıldıramaz), 任何人都有犯错的时候 (Herkesin hata yaptığı olur). Olumsuz yüklemle \"hiçbir\": 我没有任何理由拒绝 (Reddetmek için hiçbir nedenim yok), 这件事跟他没有任何关系 (Bu işin onunla hiçbir ilgisi yok), 任何时候都不要放弃希望 (Hiçbir zaman umudu bırakma). \"任何\" istisna tanımaz, mutlak bir kapsam bildirir; ardından çoğu zaman soyut/genel bir ad (人/事/困难/时候/理由/情况/地方) gelir ve \"任何 + ad + 都/也\" kalıbıyla \"ne olursa olsun hepsi/hiçbiri\" der. \"每\" (her tek tek) ya da \"所有\" (bütün) ile yakındır ama \"任何\" özellikle \"hangisi olursa olsun fark etmez\" vurgusunu taşır ve olumsuzda \"hiçbir\" için idealdir. Türkçedeki \"herhangi bir, her ..., hiçbir ..., ne olursa olsun\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "我相信,任何困难都无法阻挡我们前进的脚步。",
+    "pinyin": "Wǒ xiāng xìn, rèn hé kùn nán dōu wú fǎ zǔ dǎng wǒ men qián jìn de jiǎo bù。",
+    "en": "I believe no difficulty can stop our advance."
+   },
+   {
+    "zh": "在法律面前,任何人都是平等的,谁也没有特权。",
+    "pinyin": "Zài fǎ lǜ miàn qián, rèn hé rén dōu shì píng děng de, shuí yě méi yǒu tè quán。",
+    "en": "Before the law all are equal; no one has privilege."
+   },
+   {
+    "zh": "这件事从头到尾都跟他没有任何关系。",
+    "pinyin": "Zhè jiàn shì cóng tóu dào wěi dōu gēn tā méi yǒu rèn hé guān xì。",
+    "en": "This matter has nothing whatsoever to do with him."
+   },
+   {
+    "zh": "无论遇到任何情况,都要保持冷静,切忌慌乱。",
+    "pinyin": "Wú lùn yù dào rèn hé qíng kuàng, dōu yào bǎo chí lěng jìng, qiè jì huāng luàn。",
+    "en": "Whatever the situation, stay calm and avoid panic."
+   },
+   {
+    "zh": "他做事一向严谨,不允许出现任何一点差错。",
+    "pinyin": "Tā zuò shì yí xiàng yán jǐn, bù yǔn xǔ chū xiàn rèn hé yì diǎn chā cuò。",
+    "en": "He works so rigorously he allows not the slightest error."
+   },
+   {
+    "zh": "在任何时候,诚实都是做人最基本的原则。",
+    "pinyin": "Zài rèn hé shí hòu, chéng shí dōu shì zuò rén zuì jī běn de yuán zé。",
+    "en": "At any time, honesty is the most basic principle of being human."
+   },
+   {
+    "zh": "经过再三考虑,我没有任何理由拒绝这个提议。",
+    "pinyin": "Jīng guò zài sān kǎo lǜ, wǒ méi yǒu rèn hé lǐ yóu jù jué zhè ge tí yì。",
+    "en": "After much thought, I have no reason to refuse this offer."
+   },
+   {
+    "zh": "这种珍稀的植物,在任何普通的花市都买不到。",
+    "pinyin": "Zhè zhǒng zhēn xī de zhí wù, zài rèn hé pǔ tōng de huā shì dōu mǎi bú dào。",
+    "en": "This rare plant can't be found in any ordinary flower market."
+   },
+   {
+    "zh": "他把话说得很绝,不给对方留下任何回旋的余地。",
+    "pinyin": "Tā bǎ huà shuō de hěn jué, bù gěi duì fāng liú xià rèn hé huí xuán de yú de。",
+    "en": "He spoke so firmly he left no room for maneuver."
+   },
+   {
+    "zh": "任何一个微小的细节,都有可能影响最终的结果。",
+    "pinyin": "Rèn hé yí gè wēi xiǎo de xì jié, dōu yǒu kě néng yǐng xiǎng zuì zhōng de jié guǒ。",
+    "en": "Any tiny detail may affect the final outcome."
+   },
+   {
+    "zh": "面对突如其来的变故,她没有表现出任何慌张。",
+    "pinyin": "Miàn duì tū rú qí lái de biàn gù, tā méi yǒu biǎo xiàn chū rèn hé huāng zhāng。",
+    "en": "Facing the sudden turn, she showed no panic at all."
+   },
+   {
+    "zh": "这项决定是大家共同做出的,不是任何个人的意思。",
+    "pinyin": "Zhè xiàng jué dìng shì dà jiā gòng tóng zuò chū de, bú shì rèn hé gè rén de yì si。",
+    "en": "This decision was made jointly, not any one person's will."
+   },
+   {
+    "zh": "无论在任何地方,他都能很快地适应新的环境。",
+    "pinyin": "Wú lùn zài rèn hé dì fāng, tā dōu néng hěn kuài de shì yìng xīn de huán jìng。",
+    "en": "Anywhere he goes, he quickly adapts to the new setting."
+   },
+   {
+    "zh": "请记住,任何成功的背后,都少不了辛勤的付出。",
+    "pinyin": "Qǐng jì zhù, rèn hé chéng gōng de bèi hòu, dōu shào bù liǎo xīn qín de fù chū。",
+    "en": "Remember, behind any success lies hard toil."
+   },
+   {
+    "zh": "这么多年来,他从未向任何人抱怨过一句。",
+    "pinyin": "Zhè me duō nián lái, tā cóng wèi xiàng rèn hé rén bào yuàn guò yī jù。",
+    "en": "In all these years he never once complained to anyone."
+   },
+   {
+    "zh": "在关键时刻,任何一点犹豫都可能导致失败。",
+    "pinyin": "Zài guān jiàn shí kè, rèn hé yì diǎn yóu yù dōu kě néng dǎo zhì shī bài。",
+    "en": "At the crucial moment, any hesitation may lead to failure."
+   },
+   {
+    "zh": "他为人正直,从不占别人任何一点便宜。",
+    "pinyin": "Tā wéi rén zhèng zhí, cóng bù zhàn bié rén rèn hé yì diǎn pián yi。",
+    "en": "Upright as he is, he never takes any advantage of others."
+   },
+   {
+    "zh": "这份珍贵的友谊,是任何金钱都换不来的。",
+    "pinyin": "Zhè fèn zhēn guì de yǒu yì, shì rèn hé jīn qián dōu huàn bù lái de。",
+    "en": "This precious friendship no amount of money can buy."
+   },
+   {
+    "zh": "任何时候,只要你需要,我都会第一时间赶到。",
+    "pinyin": "Rèn hé shí hòu, zhǐ yào nǐ xū yào, wǒ dū huì dì yī shí jiān gǎn dào。",
+    "en": "Anytime you need me, I'll be there right away."
+   },
+   {
+    "zh": "科学研究容不得任何虚假和马虎。",
+    "pinyin": "Kē xué yán jiū róng bù de rèn hé xū jiǎ hé mǎ hǔ。",
+    "en": "Scientific research tolerates no falsehood or carelessness."
+   },
+   {
+    "zh": "他把全部积蓄都投了进去,没有留任何退路。",
+    "pinyin": "Tā bǎ quán bù jī xù dōu tóu le jìn qù, méi yǒu liú rèn hé tuì lù。",
+    "en": "He put in all his savings, leaving no way back."
+   },
+   {
+    "zh": "这个古老的秘密,从没向任何外人透露过。",
+    "pinyin": "Zhè ge gǔ lǎo de mì mì, cóng méi xiàng rèn hé wài rén tòu lù guò。",
+    "en": "This ancient secret was never revealed to any outsider."
+   },
+   {
+    "zh": "他坚信,任何付出都不会白费,总会有回报。",
+    "pinyin": "Tā jiān xìn, rèn hé fù chū dōu bú huì bái fèi, zǒng huì yǒu huí bào。",
+    "en": "He firmly believes no effort is wasted; it always pays off."
+   },
+   {
+    "zh": "在任何艰难的处境里,他都没有丢掉那份乐观。",
+    "pinyin": "Zài rèn hé jiān nán de chǔ jìng lǐ, tā dōu méi yǒu diū diào nà fèn lè guān。",
+    "en": "In any hard situation, he never lost his optimism."
+   },
+   {
+    "zh": "这条规定对任何人都适用,没有任何例外。",
+    "pinyin": "Zhè tiáo guī dìng duì rèn hé rén dōu shì yòng, méi yǒu rèn hé lì wài。",
+    "en": "This rule applies to everyone, with no exception at all."
+   }
+  ]
+ },
+ {
+  "id": "g395",
+  "level": 4,
+  "title": "\"既...又...\" ile \"hem ... hem de ...\"",
+  "titleEn": "Expressing \"both… and…\" with \"ji...you\"",
+  "pattern": "既 + A，又 + B",
+  "summary": "\"既...又...\" iki niteliği/durumu bir arada bildirir: 这个方法既省钱又省事 = Bu yöntem hem parayı hem zahmeti azaltır.",
+  "explanation": "\"既...又...\" (jì...yòu...) aynı özneye ait İKİ niteliği, durumu ya da eylemi eşdeğer biçimde yan yana koyar: \"hem ... hem de ..., aynı zamanda ... ve ...\". Kalıp: 既 + A，又 + B. İki bölümün yapısı DENK olmalıdır (ikisi de sıfat, ikisi de fiil...): 这个孩子既聪明又懂事 (Bu çocuk hem akıllı hem terbiyeli), 这样做既浪费时间,又没有效果 (Böyle yapmak hem zaman kaybı hem de sonuçsuz), 他既会唱歌,又会跳舞 (Hem şarkı söyleyebiliyor hem dans edebiliyor). İki nitelik aynı yönde (ikisi de olumlu ya da ikisi de olumsuz) olur; çelişen iki şey \"既...又...\" ile bağlanmaz. \"又...又...\" ile çok yakındır; \"既...又...\" biraz daha resmî/dengelidir ve genellikle SIFAT ya da soyut niteliklerde doğaldır, \"又...又...\" ise somut/gündelik durumlarda. İkiden çok nitelik için \"既...又...又...\" biçiminde uzatılabilir. Türkçedeki \"hem ... hem de ..., aynı zamanda ..., ... olduğu kadar ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这个办法既能节省时间,又能提高效率,真是一举两得。",
+    "pinyin": "Zhè ge bàn fǎ jì néng jié shěng shí jiān, yòu néng tí gāo xiào lǜ, zhēn shì yī jǔ liǎng de。",
+    "en": "This method saves time and boosts efficiency — a win-win."
+   },
+   {
+    "zh": "这孩子既聪明又懂事,老师和同学们都很喜欢他。",
+    "pinyin": "Zhè hái zi jì cōng míng yòu dǒng shì, lǎo shī hé tóng xué men dōu hěn xǐ huān tā。",
+    "en": "The child is clever and sensible, loved by teachers and peers."
+   },
+   {
+    "zh": "在乡下住既安静又舒适,空气也格外清新。",
+    "pinyin": "Zài xiāng xià zhù jì ān jìng yòu shū shì, kōng qì yě gé wài qīng xīn。",
+    "en": "Living in the country is quiet, cozy, and the air is fresh."
+   },
+   {
+    "zh": "他既是我的老师,又是我最信任的朋友。",
+    "pinyin": "Tā jì shì wǒ de lǎo shī, yòu shì wǒ zuì xìn rèn de péng yǒu。",
+    "en": "He is both my teacher and my most trusted friend."
+   },
+   {
+    "zh": "这样处理既不伤和气,又能把问题解决,最好不过。",
+    "pinyin": "Zhè yàng chǔ lǐ jì bù shāng hé qì, yòu néng bǎ wèn tí jiě jué, zuì hǎo bù guò。",
+    "en": "This keeps the peace and solves the problem — ideal."
+   },
+   {
+    "zh": "那家餐厅的菜既美味又实惠,难怪天天客满。",
+    "pinyin": "Nà jiā cān tīng de cài jì měi wèi yòu shí huì, nán guài tiān tiān kè mǎn。",
+    "en": "The restaurant's food is tasty and cheap, so it's always full."
+   },
+   {
+    "zh": "坚持锻炼既能强身健体,又能让心情变得舒畅。",
+    "pinyin": "Jiān chí duàn liàn jì néng qiáng shēn jiàn tǐ, yòu néng ràng xīn qíng biàn de shū chàng。",
+    "en": "Regular exercise strengthens the body and lifts the mood."
+   },
+   {
+    "zh": "他做事既认真又细心,交给他的任务从不出错。",
+    "pinyin": "Tā zuò shì jì rèn zhēn yòu xì xīn, jiāo gěi tā de rèn wù cóng bù chū cuò。",
+    "en": "He works earnestly and carefully; his tasks never go wrong."
+   },
+   {
+    "zh": "这款设计既美观又实用,很快就受到了大家的欢迎。",
+    "pinyin": "Zhè kuǎn shè jì jì měi guān yòu shí yòng, hěn kuài jiù shòu dào le dà jiā de huān yíng。",
+    "en": "This design is pretty and practical, so it caught on fast."
+   },
+   {
+    "zh": "这本书的语言既生动又通俗,连小孩都爱不释手。",
+    "pinyin": "Zhè běn shū de yǔ yán jì shēng dòng yòu tōng sú, lián xiǎo hái dōu ài bù shì shǒu。",
+    "en": "The book is vivid and plain, so even kids can't put it down."
+   },
+   {
+    "zh": "独自旅行既能开阔眼界,又能锻炼独立生活的能力。",
+    "pinyin": "Dú zì lǚ xíng jì néng kāi kuò yǎn jiè, yòu néng duàn liàn dú lì shēng huó de néng lì。",
+    "en": "Solo travel broadens the mind and builds independence."
+   },
+   {
+    "zh": "这条围巾既保暖又漂亮,是送人的好礼物。",
+    "pinyin": "Zhè tiáo wéi jīn jì bǎo nuǎn yòu piào liàng, shì sòng rén de hǎo lǐ wù。",
+    "en": "This scarf is warm and pretty, a fine gift to give."
+   },
+   {
+    "zh": "他的话既有道理,又说得委婉,让人听了心服口服。",
+    "pinyin": "Tā de huà jì yǒu dào lǐ, yòu shuō de wěi wǎn, ràng rén tīng le xīn fú kǒu fú。",
+    "en": "His words were sound yet gentle, winning full agreement."
+   },
+   {
+    "zh": "多读好书既能增长知识,又能陶冶人的情操。",
+    "pinyin": "Duō dú hǎo shū jì néng zēng zhǎng zhī shí, yòu néng táo yě rén de qíng cāo。",
+    "en": "Reading good books adds knowledge and refines character."
+   },
+   {
+    "zh": "这个方案既考虑了成本,又兼顾了质量,十分周全。",
+    "pinyin": "Zhè ge fāng àn jì kǎo lǜ le chéng běn, yòu jiān gù le zhì liàng, shí fēn zhōu quán。",
+    "en": "The plan weighs cost and quality — very thorough."
+   },
+   {
+    "zh": "秋天的天气既凉爽又干燥,是出游的好季节。",
+    "pinyin": "Qiū tiān de tiān qì jì liáng shuǎng yòu gān zào, shì chū yóu de hǎo jì jié。",
+    "en": "Autumn weather is cool and dry — a fine season to travel."
+   },
+   {
+    "zh": "她既要照顾生病的母亲,又要忙于工作,十分辛苦。",
+    "pinyin": "Tā jì yào zhào gù shēng bìng de mǔ qīn, yòu yào máng yú gōng zuò, shí fēn xīn kǔ。",
+    "en": "She cares for her sick mother and works too — very hard."
+   },
+   {
+    "zh": "这种材料既结实耐用,又轻便环保,应用很广。",
+    "pinyin": "Zhè zhǒng cái liào jì jiē shí nài yòng, yòu qīng biàn huán bǎo, yìng yòng hěn guǎng。",
+    "en": "This material is durable, light, and eco-friendly, widely used."
+   },
+   {
+    "zh": "他讲课既深入浅出,又风趣幽默,学生都爱听。",
+    "pinyin": "Tā jiǎng kè jì shēn rù qiǎn chū, yòu fēng qù yōu mò, xué shēng dōu ài tīng。",
+    "en": "His lessons are clear and witty, so students love them."
+   },
+   {
+    "zh": "在家办公既节省了通勤时间,又能照顾到家里。",
+    "pinyin": "Zài jiā bàn gōng jì jié shěng le tōng qín shí jiān, yòu néng zhào gù dào jiā lǐ。",
+    "en": "Working from home saves commuting and lets you mind the family."
+   },
+   {
+    "zh": "这座公园既有山又有水,是市民休闲的好去处。",
+    "pinyin": "Zhè zuò gōng yuán jì yǒu shān yòu yǒu shuǐ, shì shì mín xiū xián de hǎo qù chù。",
+    "en": "The park has hills and water — a fine spot to relax."
+   },
+   {
+    "zh": "这份工作既能发挥他的特长,又能不断学到新东西。",
+    "pinyin": "Zhè fèn gōng zuò jì néng fā huī tā de tè cháng, yòu néng bù duàn xué dào xīn dōng xī。",
+    "en": "The job uses his strengths and keeps teaching him new things."
+   },
+   {
+    "zh": "他为人既谦虚又热情,身边总是围着许多朋友。",
+    "pinyin": "Tā wéi rén jì qiān xū yòu rè qíng, shēn biān zǒng shì wéi zhe xǔ duō péng yǒu。",
+    "en": "He's modest and warm, always surrounded by friends."
+   },
+   {
+    "zh": "这套方法既简单又有效,新手也能很快上手。",
+    "pinyin": "Zhè tào fāng fǎ jì jiǎn dān yòu yǒu xiào, xīn shǒu yě néng hěn kuài shàng shǒu。",
+    "en": "This method is simple and effective; even novices pick it up fast."
+   },
+   {
+    "zh": "这次活动既丰富了大家的生活,又增进了彼此的感情。",
+    "pinyin": "Zhè cì huó dòng jì fēng fù le dà jiā de shēng huó, yòu zēng jìn le bǐ cǐ de gǎn qíng。",
+    "en": "The event enriched everyone's life and deepened their bonds."
+   }
+  ]
+ },
+ {
+  "id": "g396",
+  "level": 4,
+  "title": "\"少不了\" ile \"olmazsa olmaz / kaçınılmaz\"",
+  "titleEn": "Expressing \"can't do without\" with \"shaobuliao\"",
+  "pattern": "少不了 + Ad / Fiil",
+  "summary": "\"少不了\" bir şeyin vazgeçilmez ya da kaçınılmaz olduğunu bildirir: 过年少不了饺子 = Yeni yılda mantı olmazsa olmaz.",
+  "explanation": "\"少不了\" (shǎobuliǎo) bir şeyin GEREKLİ/vazgeçilmez olduğunu ya da bir durumun KAÇINILMAZ olduğunu bildirir. İki anlamı vardır. (1) \"...-sız olmaz, olmazsa olmaz, mutlaka gerekir\": 做这道菜少不了葱姜蒜 (Bu yemekte soğan-zencefil-sarımsak olmazsa olmaz), 一个团队的成功少不了每个人的努力 (Bir takımın başarısı herkesin çabası olmadan olmaz), 这件事少不了你的帮忙 (Bu işte senin yardımın şart). (2) \"kaçınılmaz, mutlaka olacak, başa gelecek\": 刚开始学,出点错是少不了的 (Yeni öğrenirken hata yapmak kaçınılmaz), 逢年过节,免不了少不了要走亲访友 (Bayramlarda akraba ziyareti kaçınılmaz), 这么做少不了要挨批评 (Böyle yaparsan eleştiri alman kaçınılmaz). Yapısı olabilirlik tümlecidir (少 + 不 + 了); olumlusu \"少得了\" seyrektir, çoğunlukla olumsuz \"少不了\" biçiminde kalıplaşmıştır. Bir şeyin eksikliğinin düşünülemeyeceğini ya da bir sonucun mutlaka geleceğini vurgular. \"免不了\" (kaçınılmaz) ve \"离不开\" (onsuz olamaz) ile anlamca yakındır. Türkçedeki \"...-sız olmaz, olmazsa olmaz, mutlaka gerekir, kaçınılmaz\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "每逢过年,家家户户的餐桌上都少不了一盘热腾腾的饺子。",
+    "pinyin": "Měi féng guò nián, jiā jiā hù hù de cān zhuō shàng dōu shào bù liǎo yī pán rè téng téng de jiǎo zi。",
+    "en": "Every New Year, every table has a plate of steaming dumplings."
+   },
+   {
+    "zh": "要办成这么大的事,少不了大家齐心协力地帮忙。",
+    "pinyin": "Yào bàn chéng zhè me dà de shì, shào bù liǎo dà jiā qí xīn xié lì de bāng máng。",
+    "en": "To pull off something this big, everyone's joint help is essential."
+   },
+   {
+    "zh": "做这道传统名菜,葱姜蒜等作料是少不了的。",
+    "pinyin": "Zuò zhè dào chuán tǒng míng cài, cōng jiāng suàn děng zuò liào shì shào bù liǎo de。",
+    "en": "For this traditional dish, scallion, ginger, and garlic are a must."
+   },
+   {
+    "zh": "刚开始学骑车,摔上几跤是少不了的,别灰心。",
+    "pinyin": "Gāng kāi shǐ xué qí chē, shuāi shàng jǐ jiāo shì shào bù liǎo de, bié huī xīn。",
+    "en": "Learning to cycle, a few falls are inevitable; don't lose heart."
+   },
+   {
+    "zh": "一场成功的演出,背后少不了无数次的排练。",
+    "pinyin": "Yī cháng chéng gōng de yǎn chū, bèi hòu shào bù liǎo wú shù cì de pái liàn。",
+    "en": "Behind a successful show lie countless rehearsals."
+   },
+   {
+    "zh": "逢年过节,走亲访友的应酬总是少不了的。",
+    "pinyin": "Féng nián guò jié, zǒu qīn fǎng yǒu de yìng chóu zǒng shì shào bù liǎo de。",
+    "en": "At festivals, visiting relatives and friends is unavoidable."
+   },
+   {
+    "zh": "孩子的成长过程中,父母的关爱是绝对少不了的。",
+    "pinyin": "Hái zi de chéng zhǎng guò chéng zhōng, fù mǔ de guān ài shì jué duì shào bù liǎo de。",
+    "en": "In a child's growth, parents' love is absolutely indispensable."
+   },
+   {
+    "zh": "你要是这么冒失,挨顿批评恐怕是少不了的。",
+    "pinyin": "Nǐ yào shì zhè me mào shī, āi dùn pī píng kǒng pà shì shào bù liǎo de。",
+    "en": "If you're so rash, a scolding is probably unavoidable."
+   },
+   {
+    "zh": "这项研究能取得突破,少不了整个团队的通力合作。",
+    "pinyin": "Zhè xiàng yán jiū néng qǔ de tū pò, shào bù liǎo zhěng gè tuán duì de tōng lì hé zuò。",
+    "en": "The breakthrough owed much to the whole team's cooperation."
+   },
+   {
+    "zh": "盖一栋结实的房子,好的地基是少不了的。",
+    "pinyin": "Gài yī dòng jiē shí de fáng zi, hǎo de de jī shì shào bù liǎo de。",
+    "en": "To build a solid house, a good foundation is a must."
+   },
+   {
+    "zh": "刚到一个新单位,免不了少不了要和大家慢慢磨合。",
+    "pinyin": "Gāng dào yí gè xīn dān wèi, miǎn bù liǎo shào bù liǎo yào hé dà jiā màn màn mó hé。",
+    "en": "New at a workplace, a period of adjustment is inevitable."
+   },
+   {
+    "zh": "要想把外语学好,平时的积累和练习是少不了的。",
+    "pinyin": "Yào xiǎng bǎ wài yǔ xué hǎo, píng shí de jī lěi hé liàn xí shì shào bù liǎo de。",
+    "en": "To master a language, daily buildup and practice are essential."
+   },
+   {
+    "zh": "这么重要的场合,一身得体的衣着是少不了的。",
+    "pinyin": "Zhè me zhòng yào de chǎng hé, yī shēn de tǐ de yī zhuó shì shào bù liǎo de。",
+    "en": "For such an occasion, proper attire is indispensable."
+   },
+   {
+    "zh": "农民种地,风吹日晒的辛苦是少不了的。",
+    "pinyin": "Nóng mín zhòng de, fēng chuī rì shài de xīn kǔ shì shào bù liǎo de。",
+    "en": "In farming, toil under wind and sun is unavoidable."
+   },
+   {
+    "zh": "一顿丰盛的年夜饭,鱼和肉自然是少不了的。",
+    "pinyin": "Yī dùn fēng shèng de nián yè fàn, yú hé ròu zì rán shì shào bù liǎo de。",
+    "en": "For a lavish New Year's dinner, fish and meat are a given."
+   },
+   {
+    "zh": "创业的路上,遇到挫折和困难是少不了的。",
+    "pinyin": "Chuàng yè de lù shàng, yù dào cuò zhé hé kùn nán shì shào bù liǎo de。",
+    "en": "On the road of starting a business, setbacks are inevitable."
+   },
+   {
+    "zh": "这件事能办得这么顺利,少不了他在背后出的力。",
+    "pinyin": "Zhè jiàn shì néng bàn de zhè me shùn lì, shào bù liǎo tā zài bèi hòu chū de lì。",
+    "en": "It went so smoothly thanks in no small part to his efforts."
+   },
+   {
+    "zh": "招待远道而来的客人,一桌好菜是少不了的。",
+    "pinyin": "Zhāo dài yuǎn dào ér lái de kè rén, yī zhuō hǎo cài shì shào bù liǎo de。",
+    "en": "To host guests from afar, a table of good food is a must."
+   },
+   {
+    "zh": "在陌生的城市生活,刚开始的种种不便是少不了的。",
+    "pinyin": "Zài mò shēng de chéng shì shēng huó, gāng kāi shǐ de zhǒng zhǒng bù biàn shì shào bù liǎo de。",
+    "en": "Living in a strange city, early inconveniences are unavoidable."
+   },
+   {
+    "zh": "要维持身体健康,均衡的饮食和适当的运动少不了。",
+    "pinyin": "Yào wéi chí shēn tǐ jiàn kāng, jūn héng de yǐn shí hé shì dàng de yùn dòng shào bù liǎo。",
+    "en": "To stay healthy, balanced diet and exercise are essential."
+   },
+   {
+    "zh": "这么调皮的孩子,家里少不了要多操些心。",
+    "pinyin": "Zhè me tiáo pí de hái zi, jiā lǐ shào bù liǎo yào duō cāo xiē xīn。",
+    "en": "With such a mischievous child, the family must fret more."
+   },
+   {
+    "zh": "一部好电影,精彩的剧本和用心的表演都少不了。",
+    "pinyin": "Yī bù hǎo diàn yǐng, jīng cǎi de jù běn hé yòng xīn de biǎo yǎn dōu shào bù liǎo。",
+    "en": "A good film needs both a fine script and heartfelt acting."
+   },
+   {
+    "zh": "你既然接手了这份工作,加班加点恐怕是少不了的。",
+    "pinyin": "Nǐ jì rán jiē shǒu le zhè fèn gōng zuò, jiā bān jiā diǎn kǒng pà shì shào bù liǎo de。",
+    "en": "Having taken this job, overtime is probably unavoidable."
+   },
+   {
+    "zh": "举办这样的大型活动,细致的筹备工作是少不了的。",
+    "pinyin": "Jǔ bàn zhè yàng de dà xíng huó dòng, xì zhì de chóu bèi gōng zuò shì shào bù liǎo de。",
+    "en": "Hosting such a big event demands meticulous preparation."
+   },
+   {
+    "zh": "邻里之间相处,平时的互相照应是少不了的。",
+    "pinyin": "Lín lǐ zhī jiān xiāng chǔ, píng shí de hù xiāng zhào yìng shì shào bù liǎo de。",
+    "en": "Among neighbors, looking out for one another is a must."
+   }
+  ]
+ },
+ {
+  "id": "g397",
+  "level": 4,
+  "title": "\"等于\" ile \"...-e eşit / demektir\"",
+  "titleEn": "Expressing \"equal to\" with \"dengyu\"",
+  "pattern": "A 等于 B / 等于 + Fiil öbeği",
+  "summary": "\"等于\" iki şeyin eşit olduğunu ya da bir eylemin bir şeye denk geldiğini bildirir: 你这么做等于白费力气 = Böyle yapman boşa emek harcamak demek.",
+  "explanation": "\"等于\" (děngyú) iki şeyin EŞİT/denk olduğunu bildirir. (1) Matematiksel/nesnel eşitlik: 二加三等于五 (İki artı üç beş eder), 一公斤等于一千克 (Bir kilo bin grama eşittir). (2) Mecazi olarak bir eylemin/durumun başka bir şeye DENK geldiğini, aslında o demek olduğunu bildirir: \"... demektir, ...-e eşdeğerdir, ... ile aynı kapıya çıkar, sanki ...\": 你不回答就等于默认了 (Yanıt vermemen kabul etmiş sayılır), 放弃现在等于放弃将来 (Şimdiyi bırakmak geleceği bırakmak demektir), 帮他撒谎等于害了他 (Yalanına ortak olmak ona kötülük etmek demek), 这点钱对他来说等于九牛一毛 (Bu para onun için devede kulak). Sık sık \"就等于\" (tam da ... demektir) ve \"几乎等于/差不多等于\" (neredeyse ... sayılır) biçiminde gelir. \"等于\" bir şeyin gerçekte/sonuçta başka bir şeye vardığını, onunla aynı değerde olduğunu vurgular; çoğu zaman bir uyarı ya da değerlendirme bildirir. Türkçedeki \"...-e eşit, ... demektir, ...-e eşdeğer, ... sayılır, aynı kapıya çıkar\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你现在放弃,就等于把之前所有的努力都白白浪费了。",
+    "pinyin": "Nǐ xiàn zài fàng qì, jiù děng yú bǎ zhī qián suǒ yǒu de nǔ lì dōu bái bái làng fèi le。",
+    "en": "Giving up now means wasting all your prior effort."
+   },
+   {
+    "zh": "对于这个问题,他一直保持沉默,这几乎等于默认了。",
+    "pinyin": "Duì yú zhè ge wèn tí, tā yì zhí bǎo chí chén mò, zhè jī hū děng yú mò rèn le。",
+    "en": "His continued silence on this all but admits it."
+   },
+   {
+    "zh": "浪费粮食,在某种意义上就等于不尊重农民的劳动。",
+    "pinyin": "Làng fèi liáng shí, zài mǒu zhǒng yì yì shàng jiù děng yú bù zūn zhòng nóng mín de láo dòng。",
+    "en": "Wasting food is, in a sense, disrespecting farmers' labor."
+   },
+   {
+    "zh": "你不听劝阻执意去冒险,这等于拿自己的生命开玩笑。",
+    "pinyin": "Nǐ bù tīng quàn zǔ zhí yì qù mào xiǎn, zhè děng yú ná zì jǐ de shēng mìng kāi wán xiào。",
+    "en": "Ignoring warnings to take the risk is gambling with your life."
+   },
+   {
+    "zh": "对他这样的富翁来说,这点钱几乎等于九牛一毛。",
+    "pinyin": "Duì tā zhè yàng de fù wēng lái shuō, zhè diǎn qián jī hū děng yú jiǔ niú yì máo。",
+    "en": "To a tycoon like him, this money is a mere drop in the bucket."
+   },
+   {
+    "zh": "帮着他一起隐瞒错误,其实就等于害了他。",
+    "pinyin": "Bāng zhe tā yì qǐ yǐn mán cuò wù, qí shí jiù děng yú hài le tā。",
+    "en": "Helping him hide his mistake actually harms him."
+   },
+   {
+    "zh": "失去了信任,两个人的关系也就差不多等于结束了。",
+    "pinyin": "Shī qù le xìn rèn, liǎng gè rén de guān xì yě jiù chà bu duō děng yú jié shù le。",
+    "en": "With trust gone, their relationship is nearly over."
+   },
+   {
+    "zh": "你把方法教给别人,并不等于自己的本事就减少了。",
+    "pinyin": "Nǐ bǎ fāng fǎ jiāo gěi bié rén, bìng bù děng yú zì jǐ de běn shì jiù jiǎn shǎo le。",
+    "en": "Teaching your method to others doesn't lessen your own skill."
+   },
+   {
+    "zh": "对一个作家来说,停止阅读几乎等于停止了成长。",
+    "pinyin": "Duì yí gè zuò jiā lái shuō, tíng zhǐ yuè dú jī hū děng yú tíng zhǐ le chéng zhǎng。",
+    "en": "For a writer, ceasing to read all but ceases to grow."
+   },
+   {
+    "zh": "在关键时刻退缩,等于把机会拱手让给了对手。",
+    "pinyin": "Zài guān jiàn shí kè tuì suō, děng yú bǎ jī huì gǒng shǒu ràng gěi le duì shǒu。",
+    "en": "Shrinking back at the key moment hands the chance to rivals."
+   },
+   {
+    "zh": "忽视身体发出的警告,等于给健康埋下了隐患。",
+    "pinyin": "Hū shì shēn tǐ fā chū de jǐng gào, děng yú gěi jiàn kāng mái xià le yǐn huàn。",
+    "en": "Ignoring the body's warnings sows hidden risks to health."
+   },
+   {
+    "zh": "你替他把事情全做了,反而等于剥夺了他锻炼的机会。",
+    "pinyin": "Nǐ tì tā bǎ shì qíng quán zuò le, fǎn ér děng yú bō duó le tā duàn liàn de jī huì。",
+    "en": "Doing it all for him actually robs him of a chance to grow."
+   },
+   {
+    "zh": "在沙漠里,一瓶水有时候几乎等于一条命。",
+    "pinyin": "Zài shā mò lǐ, yī píng shuǐ yǒu shí hòu jī hū děng yú yī tiáo mìng。",
+    "en": "In the desert, a bottle of water can nearly equal a life."
+   },
+   {
+    "zh": "光有想法而不去行动,基本上等于什么都没做。",
+    "pinyin": "Guāng yǒu xiǎng fǎ ér bù qù xíng dòng, jī běn shàng děng yú shén me dōu méi zuò。",
+    "en": "Having ideas without acting is basically doing nothing."
+   },
+   {
+    "zh": "对老人来说,子女常回家看看就等于最大的孝顺。",
+    "pinyin": "Duì lǎo rén lái shuō, zǐ nǚ cháng huí jiā kàn kàn jiù děng yú zuì dà de xiào shùn。",
+    "en": "To the elderly, children visiting often is the greatest filial love."
+   },
+   {
+    "zh": "你若一味迁就他的错误,就等于纵容他继续犯错。",
+    "pinyin": "Nǐ ruò yī wèi qiān jiù tā de cuò wù, jiù děng yú zòng róng tā jì xù fàn cuò。",
+    "en": "Endlessly indulging his faults amounts to condoning them."
+   },
+   {
+    "zh": "在这个行业里,失去了口碑几乎就等于失去了一切。",
+    "pinyin": "Zài zhè ge háng yè lǐ, shī qù le kǒu bēi jī hū jiù děng yú shī qù le yī qiè。",
+    "en": "In this trade, losing your reputation is losing nearly all."
+   },
+   {
+    "zh": "轻易许下做不到的承诺,等于在欺骗信任你的人。",
+    "pinyin": "Qīng yì xǔ xià zuò bú dào de chéng nuò, děng yú zài qī piàn xìn rèn nǐ de rén。",
+    "en": "Rashly promising the undoable amounts to deceiving those who trust you."
+   },
+   {
+    "zh": "对学生而言,一位好老师的鼓励有时等于莫大的动力。",
+    "pinyin": "Duì xué shēng ér yán, yī wèi hǎo lǎo shī de gǔ lì yǒu shí děng yú mò dà de dòng lì。",
+    "en": "For a student, a good teacher's encouragement can be huge motivation."
+   },
+   {
+    "zh": "你把秘密告诉了他,几乎就等于告诉了全世界。",
+    "pinyin": "Nǐ bǎ mì mì gào sù le tā, jī hū jiù děng yú gào sù le quán shì jiè。",
+    "en": "Telling him the secret is nearly telling the whole world."
+   },
+   {
+    "zh": "放任小问题不管,往往就等于给大麻烦让路。",
+    "pinyin": "Fàng rèn xiǎo wèn tí bù guǎn, wǎng wǎng jiù děng yú gěi dà má fán ràng lù。",
+    "en": "Letting small problems slide often paves the way for big trouble."
+   },
+   {
+    "zh": "对运动员来说,受伤有时几乎等于职业生涯的中断。",
+    "pinyin": "Duì yùn dòng yuán lái shuō, shòu shāng yǒu shí jī hū děng yú zhí yè shēng yá de zhōng duàn。",
+    "en": "For an athlete, injury can nearly mean a career interruption."
+   },
+   {
+    "zh": "你连尝试都不肯,就等于提前宣布了自己的失败。",
+    "pinyin": "Nǐ lián cháng shì dōu bù kěn, jiù děng yú tí qián xuān bù le zì jǐ de shī bài。",
+    "en": "Refusing even to try is declaring your defeat in advance."
+   },
+   {
+    "zh": "在他心里,能守住这份手艺就等于守住了根。",
+    "pinyin": "Zài tā xīn lǐ, néng shǒu zhù zhè fèn shǒu yì jiù děng yú shǒu zhù le gēn。",
+    "en": "In his heart, keeping this craft is keeping his roots."
+   },
+   {
+    "zh": "对读书人来说,一间安静的书房几乎等于整个世界。",
+    "pinyin": "Duì dú shū rén lái shuō, yī jiān ān jìng de shū fáng jī hū děng yú zhěng gè shì jiè。",
+    "en": "To a scholar, a quiet study is nearly the whole world."
+   }
+  ]
  }
 ]

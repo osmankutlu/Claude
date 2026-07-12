@@ -24,6 +24,7 @@ object WidgetDataStore {
     fun modeKey(appWidgetId: Int) = "widget_mode_$appWidgetId"
     fun levelKey(appWidgetId: Int) = "widget_level_$appWidgetId"
     fun displayKey(appWidgetId: Int) = "widget_display_$appWidgetId"
+    fun textscaleKey(appWidgetId: Int) = "widget_textscale_$appWidgetId"
     fun itemKey(appWidgetId: Int) = "widget_item_$appWidgetId"
 
     /**

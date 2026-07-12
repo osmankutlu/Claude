@@ -24,6 +24,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
   String _mode = 'word';
   final Set<int> _levels = {}; // empty means "all levels"
   String _display = 'both'; // 'both' | 'hanzi' | 'pinyin'
+  String _textScale = 'large'; // 'small' | 'medium' | 'large' | 'xlarge'
   int? _appWidgetId;
   bool _saving = false;
 
@@ -75,6 +76,7 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
     await HomeWidget.saveWidgetData('widget_mode_$id', _mode);
     await HomeWidget.saveWidgetData('widget_level_$id', levelSpec);
     await HomeWidget.saveWidgetData('widget_display_$id', _display);
+    await HomeWidget.saveWidgetData('widget_textscale_$id', _textScale);
     await HomeWidget.updateWidget(androidName: 'WordWidgetProvider');
     await _channel.invokeMethod('finishConfigure');
   }
@@ -133,9 +135,27 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
             selected: {_display},
             onSelectionChanged: (s) => setState(() => _display = s.first),
           ),
+          const SizedBox(height: 28),
+          const Text('Yazı Boyutu', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
+          const SizedBox(height: 4),
+          const Text(
+            'Widget küçükse "Küçük", büyük ve okunaklı istiyorsan "Çok Büyük" seç.',
+            style: TextStyle(fontSize: 12, color: Colors.grey),
+          ),
+          const SizedBox(height: 12),
+          SegmentedButton<String>(
+            segments: const [
+              ButtonSegment(value: 'small', label: Text('Küçük')),
+              ButtonSegment(value: 'medium', label: Text('Orta')),
+              ButtonSegment(value: 'large', label: Text('Büyük')),
+              ButtonSegment(value: 'xlarge', label: Text('Çok Büyük')),
+            ],
+            selected: {_textScale},
+            onSelectionChanged: (s) => setState(() => _textScale = s.first),
+          ),
           const SizedBox(height: 24),
           const Text(
-            "İpucu: Widget'taki oklarla kelime/konu değiştirebilir, ortasına dokunarak anlamını ve örneklerini açabilirsin.",
+            "İpucu: Widget'taki oklarla kelime/konu değiştirebilir, ortasına dokunarak anlamını ve örneklerini açabilirsin. Karakterler tonlarına göre renklidir (1. ton mavi, 2. yeşil, 3. sarı, 4. kırmızı, hafif ton gri).",
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),
           const SizedBox(height: 24),

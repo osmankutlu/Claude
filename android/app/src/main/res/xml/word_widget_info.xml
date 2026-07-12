@@ -5,12 +5,12 @@
      screen unlock, via the prev/next arrows, or when the widget is
      placed/reconfigured. -->
 <appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
-    android:minWidth="140dp"
-    android:minHeight="90dp"
-    android:minResizeWidth="140dp"
-    android:minResizeHeight="80dp"
+    android:minWidth="110dp"
+    android:minHeight="48dp"
+    android:minResizeWidth="110dp"
+    android:minResizeHeight="40dp"
     android:targetCellWidth="3"
-    android:targetCellHeight="3"
+    android:targetCellHeight="2"
     android:updatePeriodMillis="0"
     android:initialLayout="@layout/word_widget"
     android:configure="com.osmankutlu.zh_en_dict.WidgetConfigureActivity"

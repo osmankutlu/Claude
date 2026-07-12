@@ -5,7 +5,6 @@ import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.Context
 import android.content.Intent
-import android.util.TypedValue
 import android.view.View
 import android.widget.RemoteViews
 import org.json.JSONObject
@@ -34,7 +33,6 @@ class WordWidgetProvider : AppWidgetProvider() {
             editor.remove(WidgetDataStore.modeKey(id))
             editor.remove(WidgetDataStore.levelKey(id))
             editor.remove(WidgetDataStore.displayKey(id))
-            editor.remove(WidgetDataStore.textscaleKey(id))
             editor.remove(WidgetDataStore.itemKey(id))
         }
         editor.apply()
@@ -53,19 +51,14 @@ class WordWidgetProvider : AppWidgetProvider() {
             val prefs = WidgetDataStore.prefs(context)
             val raw = prefs.getString(WidgetDataStore.itemKey(appWidgetId), null)
             val displayMode = prefs.getString(WidgetDataStore.displayKey(appWidgetId), "both") ?: "both"
-            // User-chosen text size: scales all widget font sizes so the same
-            // widget can be big and readable or small enough to shrink down.
-            val scale = when (prefs.getString(WidgetDataStore.textscaleKey(appWidgetId), "large")) {
-                "small" -> 0.7f
-                "medium" -> 1.0f
-                "xlarge" -> 1.7f
-                else -> 1.35f // "large" (default) — bigger than the old fixed size
-            }
             val views = RemoteViews(context.packageName, R.layout.word_widget)
 
+            // The title auto-sizes to fill the widget (see word_widget.xml), so
+            // we never set an explicit text size here — that would disable
+            // autosizing and bring back the clipping. We only set the text
+            // (tone-colored) and the subtitle's visibility.
             if (raw == null) {
                 views.setTextViewText(R.id.widget_title, context.getString(R.string.widget_loading))
-                views.setTextViewTextSize(R.id.widget_title, TypedValue.COMPLEX_UNIT_SP, 18f)
                 views.setTextViewText(R.id.widget_subtitle, "")
                 views.setViewVisibility(R.id.widget_subtitle, View.GONE)
             } else {
@@ -73,10 +66,9 @@ class WordWidgetProvider : AppWidgetProvider() {
                 val mode = item.optString("mode", "word")
 
                 if (mode == "grammar") {
-                    // Grammar titles are whole phrases — the layout's huge
-                    // hanzi size would overflow, so scale down for them.
+                    // Grammar titles are whole phrases — autosizing shrinks
+                    // them to fit instead of clipping.
                     views.setTextViewText(R.id.widget_title, item.optString("title"))
-                    views.setTextViewTextSize(R.id.widget_title, TypedValue.COMPLEX_UNIT_SP, 22f * scale)
                     views.setViewVisibility(R.id.widget_subtitle, View.GONE)
                 } else {
                     val showHanzi = displayMode != "pinyin"
@@ -88,38 +80,18 @@ class WordWidgetProvider : AppWidgetProvider() {
                     // the pinyin can't be aligned.
                     if (showHanzi) {
                         val html = PinyinTone.hanziHtml(hanzi, pinyin)
-                        if (html != null) {
-                            views.setTextViewText(R.id.widget_title, PinyinTone.fromHtml(html))
-                        } else {
-                            views.setTextViewText(R.id.widget_title, hanzi)
-                        }
+                        views.setTextViewText(R.id.widget_title, if (html != null) PinyinTone.fromHtml(html) else hanzi)
                     } else {
                         val html = PinyinTone.pinyinHtml(pinyin)
-                        if (html != null) {
-                            views.setTextViewText(R.id.widget_title, PinyinTone.fromHtml(html))
-                        } else {
-                            views.setTextViewText(R.id.widget_title, pinyin)
-                        }
+                        views.setTextViewText(R.id.widget_title, if (html != null) PinyinTone.fromHtml(html) else pinyin)
                     }
-                    // Pinyin strings run much longer than their hanzi, so
-                    // pinyin-only mode gets a smaller size to avoid clipping.
-                    views.setTextViewTextSize(
-                        R.id.widget_title,
-                        TypedValue.COMPLEX_UNIT_SP,
-                        (if (showHanzi) 44f else 26f) * scale
-                    )
                     views.setViewVisibility(
                         R.id.widget_subtitle,
                         if (showHanzi && showPinyin) View.VISIBLE else View.GONE
                     )
                     if (showHanzi && showPinyin) {
                         val subHtml = PinyinTone.pinyinHtml(pinyin)
-                        if (subHtml != null) {
-                            views.setTextViewText(R.id.widget_subtitle, PinyinTone.fromHtml(subHtml))
-                        } else {
-                            views.setTextViewText(R.id.widget_subtitle, pinyin)
-                        }
-                        views.setTextViewTextSize(R.id.widget_subtitle, TypedValue.COMPLEX_UNIT_SP, 16f * scale)
+                        views.setTextViewText(R.id.widget_subtitle, if (subHtml != null) PinyinTone.fromHtml(subHtml) else pinyin)
                     }
                 }
 

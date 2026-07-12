@@ -24,11 +24,33 @@ class TtsService {
     // Block speak() until the utterance actually finishes/errors, so a
     // failure is observable rather than fire-and-forget.
     await _tts.awaitSpeakCompletion(true);
+    // Prefer Google's TTS engine when it's installed. Many phones (Samsung in
+    // particular) default to a vendor engine whose Mandarin voice is poor or
+    // missing; Google's neural zh-CN voice pronounces tones far more
+    // accurately, so switch to it before configuring language/voice.
+    await _selectGoogleEngine();
     await _tts.setSpeechRate(0.45);
     await _tts.setPitch(1.0);
     await _tts.setLanguage('zh-CN');
     await _selectBestChineseVoice();
     _initialized = true;
+  }
+
+  /// Switches to Google Text-to-speech (com.google.android.tts) when it's one
+  /// of the installed engines. No-op on platforms/devices where it isn't
+  /// available, or where engine enumeration isn't supported.
+  Future<void> _selectGoogleEngine() async {
+    try {
+      final engines = await _tts.getEngines;
+      if (engines is! List) return;
+      const google = 'com.google.android.tts';
+      if (engines.any((e) => e?.toString() == google)) {
+        await _tts.setEngine(google);
+      }
+    } catch (_) {
+      // Engine listing/switching isn't supported everywhere (e.g. web/iOS);
+      // fall back silently to the system default engine.
+    }
   }
 
   /// The system TTS engine (Google TTS on most Android phones) can have

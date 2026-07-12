@@ -57390,5 +57390,685 @@
     "en": "Different people often read this history differently."
    }
   ]
+ },
+ {
+  "id": "g423",
+  "level": 4,
+  "title": "\"对于\" ile \"至于\" farkı",
+  "titleEn": "Comparing \"duiyu\" and \"zhiyu\"",
+  "pattern": "对于 (...-e ilişkin) / 至于 (...-e gelince)",
+  "summary": "\"对于\" bir konuya ilişkin tutumu, \"至于\" ise yeni bir konuya geçişi bildirir: 对于这件事... / 至于结果,以后再说。",
+  "explanation": "\"对于\" ve \"至于\" ikisi de bir konuyu ortaya koyar ama işlevleri farklıdır. \"对于\" (duìyú): bir tutumun/görüşün ilgili olduğu KONUYU çerçeveler — \"...-e ilişkin, ... konusunda, ...-e dair\": 对于这个问题,我还需要再想想 (Bu konuda biraz daha düşünmem gerek), 对于他的建议,大家都很赞成 (Onun önerisine herkes çok sıcak baktı). \"至于\" (zhìyú): bir konudan BAŞKA/YENİ bir konuya GEÇİŞİ işaretler — \"...-e gelince, ...-a gelirsek, o ayrı konu\": 我今天先讲这些,至于细节,我们下次再谈 (Bugün bunları anlatayım, ayrıntılara gelince onları başka sefer konuşuruz), 事情我会尽力,至于成不成,那就难说了 (İş için elimden geleni yaparım; olup olmayacağına gelince, o belli olmaz). Farklar: (1) \"对于\" bir konuya YÖNELEN tutumu tanıtır; \"至于\" önceki konudan ayrı, İKİNCİ bir konuya geçer ve genellikle onu bir ölçüde önemsizleştirir ya da erteler. (2) \"至于\" ayrıca \"至于 + ...吗/这样\" biçiminde \"o kadarına gerek var mı, bu kadar ...-e değer mi\" anlamı taşır: 不就是迟到了一次吗,至于生这么大气吗? (Bir kez geç kaldı diye bu kadar öfkelenmeye değer mi?). Kısacası: konuya yönelme → 对于; konu değiştirme/erteleme → 至于. Türkçedeki \"...-e ilişkin (对于)\" ile \"...-e gelince, o ayrı mesele (至于)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "对于这次活动的安排,大家还有什么补充意见吗?",
+    "pinyin": "Duì yú zhè cì huó dòng de ān pái, dà jiā hái yǒu shén me bǔ chōng yì jiàn ma?",
+    "en": "Regarding this event's arrangements, any further suggestions?"
+   },
+   {
+    "zh": "我先把主要的思路说一下,至于具体做法,咱们再商量。",
+    "pinyin": "Wǒ xiān bǎ zhǔ yào de sī lù shuō yī xià, zhì yú jù tǐ zuò fǎ, zán men zài shāng liáng。",
+    "en": "Let me outline the main idea; as for details, we'll discuss."
+   },
+   {
+    "zh": "对于孩子的教育问题,这对父母一向非常重视。",
+    "pinyin": "Duì yú hái zi de jiào yù wèn tí, zhè duì fù mǔ yí xiàng fēi cháng zhòng shì。",
+    "en": "Regarding their child's education, the parents always care greatly."
+   },
+   {
+    "zh": "我会尽力去争取,至于最后能不能成,还很难说。",
+    "pinyin": "Wǒ huì jìn lì qù zhēng qǔ, zhì yú zuì hòu néng bù néng chéng, hái hěn nán shuō。",
+    "en": "I'll try my best; as for whether it works out, it's hard to say."
+   },
+   {
+    "zh": "对于别人的误解,他从来都是一笑置之,不去计较。",
+    "pinyin": "Duì yú bié rén de wù jiě, tā cóng lái dōu shì yī xiào zhì zhī, bù qù jì jiào。",
+    "en": "As for others' misunderstandings, he shrugs them off."
+   },
+   {
+    "zh": "这件事我负责联系,至于费用,由公司统一承担。",
+    "pinyin": "Zhè jiàn shì wǒ fù zé lián xì, zhì yú fèi yòng, yóu gōng sī tǒng yī chéng dān。",
+    "en": "I'll handle the contacts; as for costs, the company covers them."
+   },
+   {
+    "zh": "对于这个陌生的领域,他表现出了浓厚的兴趣。",
+    "pinyin": "Duì yú zhè ge mò shēng de lǐng yù, tā biǎo xiàn chū le nóng hòu de xìng qù。",
+    "en": "Toward this unfamiliar field, he showed keen interest."
+   },
+   {
+    "zh": "你先把身体养好,至于工作,等康复了再说也不迟。",
+    "pinyin": "Nǐ xiān bǎ shēn tǐ yǎng hǎo, zhì yú gōng zuò, děng kāng fù le zài shuō yě bù chí。",
+    "en": "Get well first; as for work, it can wait till you recover."
+   },
+   {
+    "zh": "对于家乡的变化,离家多年的他感到既熟悉又陌生。",
+    "pinyin": "Duì yú jiā xiāng de biàn huà, lí jiā duō nián de tā gǎn dào jì shú xī yòu mò shēng。",
+    "en": "As for his hometown's changes, he felt both familiar and strange."
+   },
+   {
+    "zh": "原则问题我绝不让步,至于一些小节,倒可以商量。",
+    "pinyin": "Yuán zé wèn tí wǒ jué bù ràng bù, zhì yú yī xiē xiǎo jié, dào kě yǐ shāng liáng。",
+    "en": "On principles I won't yield; as for minor points, we can talk."
+   },
+   {
+    "zh": "对于这项决定,不同的人有着截然不同的看法。",
+    "pinyin": "Duì yú zhè xiàng jué dìng, bù tóng de rén yǒu zhe jié rán bù tóng de kàn fǎ。",
+    "en": "On this decision, different people hold quite opposite views."
+   },
+   {
+    "zh": "先把眼前的难关渡过去,至于以后,以后再说。",
+    "pinyin": "Xiān bǎ yǎn qián de nán guān dù guò qù, zhì yú yǐ hòu, yǐ hòu zài shuō。",
+    "en": "Let's get past the present hurdle; the future can wait."
+   },
+   {
+    "zh": "对于这些流言,他懒得去解释,清者自清。",
+    "pinyin": "Duì yú zhè xiē liú yán, tā lǎn de qù jiě shì, qīng zhě zì qīng。",
+    "en": "As for the rumors, he won't bother explaining; truth speaks for itself."
+   },
+   {
+    "zh": "我只管把事情做好,至于别人怎么评价,我不太在意。",
+    "pinyin": "Wǒ zhǐ guǎn bǎ shì qíng zuò hǎo, zhì yú bié rén zěn me píng jià, wǒ bù tài zài yì。",
+    "en": "I just do things well; as for others' judgments, I mind little."
+   },
+   {
+    "zh": "对于陌生人的求助,她总是尽自己所能地伸出援手。",
+    "pinyin": "Duì yú mò shēng rén de qiú zhù, tā zǒng shì jǐn zì jǐ suǒ néng de shēn chū yuán shǒu。",
+    "en": "To strangers in need, she always helps as best she can."
+   },
+   {
+    "zh": "不过是件小事罢了,至于闹得满城风雨吗?",
+    "pinyin": "Bù guò shì jiàn xiǎo shì bà le, zhì yú nào de mǎn chéng fēng yǔ ma?",
+    "en": "It's just a small matter; is it worth such an uproar?"
+   },
+   {
+    "zh": "对于未来的方向,他心里其实早就有了打算。",
+    "pinyin": "Duì yú wèi lái de fāng xiàng, tā xīn lǐ qí shí zǎo jiù yǒu le dǎ suàn。",
+    "en": "As for the future direction, he'd long made up his mind."
+   },
+   {
+    "zh": "材料我来准备,至于谁去汇报,大家可以推举一下。",
+    "pinyin": "Cái liào wǒ lái zhǔn bèi, zhì yú shuí qù huì bào, dà jiā kě yǐ tuī jǔ yī xià。",
+    "en": "I'll prepare the materials; as for who reports, let's nominate."
+   },
+   {
+    "zh": "对于这段感情,她始终抱着认真而慎重的态度。",
+    "pinyin": "Duì yú zhè duàn gǎn qíng, tā shǐ zhōng bào zhe rèn zhēn ér shèn zhòng de tài dù。",
+    "en": "Toward this relationship, she held a serious, careful attitude."
+   },
+   {
+    "zh": "只是一点小误会而已,至于生这么大的气吗?",
+    "pinyin": "Zhǐ shì yì diǎn xiǎo wù huì ér yǐ, zhì yú shēng zhè me dà de qì ma?",
+    "en": "It's just a small misunderstanding; is such anger warranted?"
+   },
+   {
+    "zh": "对于长辈的教诲,我们应当心怀感激,牢记在心。",
+    "pinyin": "Duì yú zhǎng bèi de jiào huì, wǒ men yīng dāng xīn huái gǎn jī, láo jì zài xīn。",
+    "en": "Toward elders' teachings, we should be grateful and remember them."
+   },
+   {
+    "zh": "先把该做的事情做完,至于休息,那是以后的事。",
+    "pinyin": "Xiān bǎ gāi zuò de shì qíng zuò wán, zhì yú xiū xī, nà shì yǐ hòu de shì。",
+    "en": "Finish what must be done first; rest is a later matter."
+   },
+   {
+    "zh": "对于这次难得的机会,他自然是格外珍惜。",
+    "pinyin": "Duì yú zhè cì nán de de jī huì, tā zì rán shì gé wài zhēn xī。",
+    "en": "As for this rare chance, he naturally cherished it greatly."
+   },
+   {
+    "zh": "我把利弊都分析给你听,至于怎么选,由你自己决定。",
+    "pinyin": "Wǒ bǎ lì bì dōu fēn xī gěi nǐ tīng, zhì yú zěn me xuǎn, yóu nǐ zì jǐ jué dìng。",
+    "en": "I'll lay out the pros and cons; the choice is yours."
+   },
+   {
+    "zh": "对于这些新出现的问题,专家们正在抓紧研究对策。",
+    "pinyin": "Duì yú zhè xiē xīn chū xiàn de wèn tí, zhuān jiā men zhèng zài zhuā jǐn yán jiū duì cè。",
+    "en": "On these new problems, experts are urgently studying solutions."
+   }
+  ]
+ },
+ {
+  "id": "g424",
+  "level": 4,
+  "title": "\"给\" ile \"为\" farkı (birinin için)",
+  "titleEn": "Comparing \"gei\" and \"wei\"",
+  "pattern": "给 (birine, verme/hizmet) / 为 (birinin uğruna/iyiliği için)",
+  "summary": "\"给\" bir eylemin alıcısını, \"为\" ise uğruna/iyiliği için yapılanı bildirir: 给我倒杯水 / 为大家服务。",
+  "explanation": "\"给\" ve \"为\" ikisi de \"...-e, ... için\" diye çevrilebilir ama farklıdırlar. \"给\" (gěi): bir eylemin doğrudan ALICISINI ya da hizmet edileni gösterir — \"...-e, ... için (verme/yapma)\": 请给我倒杯水 (Bana bir bardak su koy), 我给你写封信 (Sana bir mektup yazayım), 妈妈给孩子做饭 (Anne çocuğa/çocuk için yemek yapar), 医生给病人看病 (Doktor hastaya bakar). \"给\" somut bir aktarma/hizmet ilişkisi kurar; alıcı eylemden doğrudan bir şey \"alır\". \"为\" (wèi): bir eylemin KİMİN UĞRUNA, kimin İYİLİĞİ/yararı için yapıldığını gösterir — \"... için, ... uğruna, ...-in adına\": 他为大家服务了一辈子 (Ömrü boyunca herkes için hizmet etti), 父母为子女操碎了心 (Anne baba evlatları için çok kaygılandı), 为祖国的发展贡献力量 (Ülkenin gelişimi için güç katmak), 我真为你感到高兴 (Senin adına gerçekten sevindim). \"为\" daha soyut bir amaç/fayda ilişkisi kurar; çoğu zaman fedakârlık, duygu ya da yüksek bir amaç içerir. Bazı fiillerle ikisi de olur: 给你帮忙 / 为你帮忙 — ama \"给\" doğrudan yardımı, \"为\" senin iyiliğin için oluşu vurgular. Türkçedeki \"...-e (给: verme/hizmet)\" ile \"... için, ... uğruna (为: amaç/fayda)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "天气这么热,快给大家倒杯凉茶解解渴吧。",
+    "pinyin": "Tiān qì zhè me rè, kuài gěi dà jiā dào bēi liáng chá jiě jiě kě ba。",
+    "en": "It's so hot; pour everyone some cool tea to quench their thirst."
+   },
+   {
+    "zh": "他为这个项目付出了整整三年的心血。",
+    "pinyin": "Tā wèi zhè ge xiàng mù fù chū le zhěng zhěng sān nián de xīn xuè。",
+    "en": "He poured three whole years of effort into this project."
+   },
+   {
+    "zh": "妈妈每天早早起床,给全家人准备可口的早餐。",
+    "pinyin": "Mā mā měi tiān zǎo zǎo qǐ chuáng, gěi quán jiā rén zhǔn bèi kě kǒu de zǎo cān。",
+    "en": "Mother rises early daily to make the family a tasty breakfast."
+   },
+   {
+    "zh": "老师为了学生的成长,常常牺牲自己的休息时间。",
+    "pinyin": "Lǎo shī wèi le xué shēng de chéng zhǎng, cháng cháng xī shēng zì jǐ de xiū xī shí jiān。",
+    "en": "For students' growth, the teacher often sacrifices her rest."
+   },
+   {
+    "zh": "你能不能给我讲讲这道题到底该怎么做?",
+    "pinyin": "Nǐ néng bù néng gěi wǒ jiǎng jiǎng zhè dào tí dào dǐ gāi zěn me zuò?",
+    "en": "Could you explain to me how to do this problem?"
+   },
+   {
+    "zh": "父母含辛茹苦,为子女操劳了大半辈子。",
+    "pinyin": "Fù mǔ hán xīn rú kǔ, wèi zǐ nǚ cāo láo le dà bàn bèi zi。",
+    "en": "The parents toiled bitterly for their children most of their lives."
+   },
+   {
+    "zh": "护士轻手轻脚地给熟睡的病人盖好了被子。",
+    "pinyin": "Hù shì qīng shǒu qīng jiǎo de gěi shú shuì de bìng rén gài hǎo le bèi zi。",
+    "en": "The nurse gently tucked the blanket over the sleeping patient."
+   },
+   {
+    "zh": "听说你考上了理想的大学,我真为你感到骄傲。",
+    "pinyin": "Tīng shuō nǐ kǎo shàng le lǐ xiǎng de dà xué, wǒ zhēn wèi nǐ gǎn dào jiāo ào。",
+    "en": "Hearing you got into your dream school, I'm truly proud of you."
+   },
+   {
+    "zh": "请你给我留个联系方式,以后好方便联系。",
+    "pinyin": "Qǐng nǐ gěi wǒ liú gè lián xì fāng shì, yǐ hòu hǎo fāng biàn lián xì。",
+    "en": "Please leave me your contact so we can keep in touch."
+   },
+   {
+    "zh": "无数科研人员为国家的发展默默奉献着青春。",
+    "pinyin": "Wú shù kē yán rén yuán wèi guó jiā de fā zhǎn mò mò fèng xiàn zhe qīng chūn。",
+    "en": "Countless researchers quietly gave their youth for the nation."
+   },
+   {
+    "zh": "奶奶戴上老花镜,一针一线地给孙子织毛衣。",
+    "pinyin": "Nǎi nǎi dài shàng lǎo huā jìng, yī zhēn yī xiàn de gěi sūn zi zhī máo yī。",
+    "en": "Grandma put on her glasses and knitted a sweater for her grandson."
+   },
+   {
+    "zh": "他一生都在为改善家乡的面貌而不懈努力。",
+    "pinyin": "Tā yī shēng dōu zài wèi gǎi shàn jiā xiāng de miàn mào ér bù xiè nǔ lì。",
+    "en": "All his life he strove to improve his hometown."
+   },
+   {
+    "zh": "你先给他打个电话,问问他到底来不来。",
+    "pinyin": "Nǐ xiān gěi tā dǎ gè diàn huà, wèn wèn tā dào dǐ lái bù lái。",
+    "en": "Call him first to ask whether he's coming."
+   },
+   {
+    "zh": "大家都在为即将到来的比赛加紧训练。",
+    "pinyin": "Dà jiā dōu zài wèi jí jiāng dào lái de bǐ sài jiā jǐn xùn liàn。",
+    "en": "Everyone is training hard for the coming competition."
+   },
+   {
+    "zh": "售货员热情地给顾客介绍着各种商品。",
+    "pinyin": "Shòu huò yuán rè qíng de gěi gù kè jiè shào zhe gè zhǒng shāng pǐn。",
+    "en": "The clerk warmly introduced various goods to the customers."
+   },
+   {
+    "zh": "他不图回报,一心只为别人着想。",
+    "pinyin": "Tā bù tú huí bào, yī xīn zhǐ wèi bié rén zhuó xiǎng。",
+    "en": "He seeks no reward, thinking only of others."
+   },
+   {
+    "zh": "请给我们提提意见,好让我们把工作做得更好。",
+    "pinyin": "Qǐng gěi wǒ men tí tí yì jiàn, hǎo ràng wǒ men bǎ gōng zuò zuò de gèng hǎo。",
+    "en": "Please give us suggestions so we can do better work."
+   },
+   {
+    "zh": "为了给孩子创造更好的条件,他们省吃俭用。",
+    "pinyin": "Wèi le gěi hái zi chuàng zào gèng hǎo de tiáo jiàn, tā men shěng chī jiǎn yòng。",
+    "en": "To give their child better conditions, they scrimped and saved."
+   },
+   {
+    "zh": "你放心,我会给你保守这个秘密的。",
+    "pinyin": "Nǐ fàng xīn, wǒ huì gěi nǐ bǎo shǒu zhè ge mì mì de。",
+    "en": "Rest assured, I'll keep this secret for you."
+   },
+   {
+    "zh": "正是无数普通人的付出,为这座城市增添了温暖。",
+    "pinyin": "Zhèng shì wú shù pǔ tōng rén de fù chū, wèi zhè zuò chéng shì zēng tiān le wēn nuǎn。",
+    "en": "It's countless ordinary people's giving that warms this city."
+   },
+   {
+    "zh": "他耐心地给迷路的老人指明了回家的方向。",
+    "pinyin": "Tā nài xīn de gěi mí lù de lǎo rén zhǐ míng liǎo huí jiā de fāng xiàng。",
+    "en": "He patiently pointed the lost old man the way home."
+   },
+   {
+    "zh": "多年来,她一直默默为社区的孤寡老人送去关怀。",
+    "pinyin": "Duō nián lái, tā yì zhí mò mò wèi shè qū de gū guǎ lǎo rén sòng qù guān huái。",
+    "en": "For years she quietly cared for the community's lonely elders."
+   },
+   {
+    "zh": "你能不能给我推荐一本适合初学者的好书?",
+    "pinyin": "Nǐ néng bù néng gěi wǒ tuī jiàn yī běn shì hé chū xué zhě de hǎo shū?",
+    "en": "Could you recommend me a good book for beginners?"
+   },
+   {
+    "zh": "看到儿女们都过得幸福,老人打心底里为他们高兴。",
+    "pinyin": "Kàn dào ér nǚ men dōu guò de xìng fú, lǎo rén dǎ xīn dǐ lǐ wèi tā men gāo xìng。",
+    "en": "Seeing her children happy, the old woman rejoiced from the heart."
+   },
+   {
+    "zh": "师傅手把手地给徒弟传授着多年积累的经验。",
+    "pinyin": "Shī fù shǒu bǎ shǒu de gěi tú dì chuán shòu zhe duō nián jī lěi de jīng yàn。",
+    "en": "The master hands-on taught his apprentice years of experience."
+   }
+  ]
+ },
+ {
+  "id": "g425",
+  "level": 4,
+  "title": "\"关于\" ile \"对于\" farkı",
+  "titleEn": "Comparing \"guanyu\" and \"duiyu\"",
+  "pattern": "关于 (... hakkında/konusu) / 对于 (...-e karşı tutum)",
+  "summary": "\"关于\" konunun ne olduğunu (kapsam), \"对于\" ona yönelik tutumu bildirir: 关于这件事的报道 / 对于这件事,我很生气。",
+  "explanation": "\"关于\" ve \"对于\" ikisi de bir konuyu ortaya koyar ama odakları farklıdır. \"关于\" (guānyú): bir şeyin KONUSUNUN/kapsamının ne olduğunu belirtir — \"... hakkında, ... konusunda, ...-e dair, ... ile ilgili\": 关于这次事故的原因,还在进一步调查 (Bu kazanın nedeni hakkında hâlâ inceleme sürüyor), 这是一本关于中国历史的书 (Bu, Çin tarihi hakkında bir kitap), 关于明天的安排,我来说几句 (Yarınki program hakkında birkaç şey söyleyeyim). \"对于\" (duìyú): bir konuya yönelik TUTUMU/görüşü/duyguyu belirtir — \"...-e karşı, ...-e ilişkin (tavır)\": 对于这次事故,大家都感到十分痛心 (Bu kazaya herkes çok üzüldü), 对于这个建议,我完全赞成 (Bu öneriye tümüyle katılıyorum). Farklar: (1) \"关于\" konunun İÇERİĞİNİ/kapsamını tanıtır ve bir başlık gibidir; \"对于\" o konuya YÖNELEN bir tutum/tepki gerektirir. (2) \"关于\" bir adı niteleyip başlık kurabilir (关于...的书/报道/规定 = ... hakkında kitap/haber/kural); \"对于\" bunu yapamaz. (3) \"对于\" ardından çoğu zaman bir değerlendirme/duygu gelir; \"关于\" ardından konunun kendisi anlatılır. Kısaca: konu/kapsam bildirmek → 关于; o konuya tutum bildirmek → 对于. Türkçedeki \"... hakkında, ...-e dair (关于)\" ile \"...-e karşı, ...-e ilişkin tutum (对于)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "关于这次事故的具体原因,有关部门还在进一步调查。",
+    "pinyin": "Guān yú zhè cì shì gù de jù tǐ yuán yīn, yǒu guān bù mén hái zài jìn yí bù diào chá。",
+    "en": "The exact cause of the accident is still under investigation."
+   },
+   {
+    "zh": "对于这次事故,当地群众都感到十分痛心和惋惜。",
+    "pinyin": "Duì yú zhè cì shì gù, dāng dì qún zhòng dōu gǎn dào shí fēn tòng xīn hé wǎn xī。",
+    "en": "Toward this accident, locals felt deep grief and regret."
+   },
+   {
+    "zh": "这是一本关于中国传统文化的通俗读物,深入浅出。",
+    "pinyin": "Zhè shì yī běn guān yú zhōng guó chuán tǒng wén huà de tōng sú dú wù, shēn rù qiǎn chū。",
+    "en": "This is a popular book on traditional Chinese culture, clear and simple."
+   },
+   {
+    "zh": "对于传统文化,我们应当取其精华,去其糟粕。",
+    "pinyin": "Duì yú chuán tǒng wén huà, wǒ men yīng dāng qǔ qí jīng huá, qù qí zāo pò。",
+    "en": "Toward traditional culture, we should keep the good and drop the bad."
+   },
+   {
+    "zh": "关于明天旅行的路线,我已经提前查好了地图。",
+    "pinyin": "Guān yú míng tiān lǚ xíng de lù xiàn, wǒ yǐ jīng tí qián chá hǎo le dì tú。",
+    "en": "About tomorrow's travel route, I've checked the map in advance."
+   },
+   {
+    "zh": "对于这次旅行的安排,大家都表示非常满意。",
+    "pinyin": "Duì yú zhè cì lǚ xíng de ān pái, dà jiā dōu biǎo shì fēi cháng mǎn yì。",
+    "en": "Everyone was very satisfied with the trip's arrangements."
+   },
+   {
+    "zh": "会上讨论了不少关于环境保护的具体措施。",
+    "pinyin": "Huì shàng tǎo lùn le bù shǎo guān yú huán jìng bǎo hù de jù tǐ cuò shī。",
+    "en": "The meeting discussed many concrete environmental measures."
+   },
+   {
+    "zh": "对于环境污染问题,越来越多的人开始重视起来。",
+    "pinyin": "Duì yú huán jìng wū rǎn wèn tí, yuè lái yuè duō de rén kāi shǐ zhòng shì qǐ lái。",
+    "en": "More people are now paying attention to pollution problems."
+   },
+   {
+    "zh": "图书馆里有很多关于历史和地理的参考资料。",
+    "pinyin": "Tú shū guǎn lǐ yǒu hěn duō guān yú lì shǐ hé dì lǐ de cān kǎo zī liào。",
+    "en": "The library holds much reference material on history and geography."
+   },
+   {
+    "zh": "对于历史,我们既要铭记,更要从中汲取教训。",
+    "pinyin": "Duì yú lì shǐ, wǒ men jì yào míng jì, gèng yào cóng zhōng jí qǔ jiào xùn。",
+    "en": "Toward history, we must remember and draw lessons from it."
+   },
+   {
+    "zh": "关于这项新规定的细节,请大家仔细阅读通知。",
+    "pinyin": "Guān yú zhè xiàng xīn guī dìng de xì jié, qǐng dà jiā zǐ xì yuè dú tōng zhī。",
+    "en": "For details of this new rule, please read the notice carefully."
+   },
+   {
+    "zh": "对于这项新规定,大部分员工都表示理解和支持。",
+    "pinyin": "Duì yú zhè xiàng xīn guī dìng, dà bù fèn yuán gōng dōu biǎo shì lǐ jiě hé zhī chí。",
+    "en": "Toward the new rule, most staff showed understanding and support."
+   },
+   {
+    "zh": "老师给我们讲了许多关于科学家的有趣故事。",
+    "pinyin": "Lǎo shī gěi wǒ men jiǎng le xǔ duō guān yú kē xué jiā de yǒu qù gù shì。",
+    "en": "The teacher told us many interesting stories about scientists."
+   },
+   {
+    "zh": "对于科学研究,他始终抱着一丝不苟的严谨态度。",
+    "pinyin": "Duì yú kē xué yán jiū, tā shǐ zhōng bào zhe yī sī bù gǒu de yán jǐn tài dù。",
+    "en": "Toward research, he always held a meticulous, rigorous attitude."
+   },
+   {
+    "zh": "网上流传着不少关于这位名人的传闻和轶事。",
+    "pinyin": "Wǎng shàng liú chuán zhe bù shǎo guān yú zhè wèi míng rén de chuán wén hé yì shì。",
+    "en": "Many rumors and anecdotes about the celebrity circulate online."
+   },
+   {
+    "zh": "对于那些无端的猜测,他向来是不予理会的。",
+    "pinyin": "Duì yú nà xiē wú duān de cāi cè, tā xiàng lái shì bù yǔ lǐ huì de。",
+    "en": "Toward baseless speculation, he never bothered to respond."
+   },
+   {
+    "zh": "这份报告详细阐述了关于城市发展的长远规划。",
+    "pinyin": "Zhè fèn bào gào xiáng xì chǎn shù le guān yú chéng shì fā zhǎn de cháng yuǎn guī huà。",
+    "en": "The report elaborates a long-term plan on urban development."
+   },
+   {
+    "zh": "对于城市未来的发展,市民们纷纷提出了自己的建议。",
+    "pinyin": "Duì yú chéng shì wèi lái de fā zhǎn, shì mín men fēn fēn tí chū le zì jǐ de jiàn yì。",
+    "en": "On the city's future, citizens offered their own suggestions."
+   },
+   {
+    "zh": "讲座的主题是关于如何培养良好的阅读习惯。",
+    "pinyin": "Jiǎng zuò de zhǔ tí shì guān yú rú hé péi yǎng liáng hǎo de yuè dú xí guàn。",
+    "en": "The lecture's theme is how to develop good reading habits."
+   },
+   {
+    "zh": "对于孩子的阅读习惯,家长的引导起着关键作用。",
+    "pinyin": "Duì yú hái zi de yuè dú xí guàn, jiā zhǎng de yǐn dǎo qǐ zhe guān jiàn zuò yòng。",
+    "en": "In a child's reading habits, parental guidance is key."
+   },
+   {
+    "zh": "他收集了大量关于这段历史的珍贵图片和文献。",
+    "pinyin": "Tā shōu jí le dà liàng guān yú zhè duàn lì shǐ de zhēn guì tú piàn hé wén xiàn。",
+    "en": "He gathered much precious imagery and text on this history."
+   },
+   {
+    "zh": "对于别人给予的帮助,他一直心存感激。",
+    "pinyin": "Duì yú bié rén jǐ yǔ de bāng zhù, tā yì zhí xīn cún gǎn jī。",
+    "en": "Toward others' help, he has always been grateful."
+   },
+   {
+    "zh": "这篇文章主要谈的是关于时间管理的一些方法。",
+    "pinyin": "Zhè piān wén zhāng zhǔ yào tán de shì guān yú shí jiān guǎn lǐ de yī xiē fāng fǎ。",
+    "en": "The article mainly discusses some methods of time management."
+   },
+   {
+    "zh": "对于如何管理时间,每个人都有自己的一套办法。",
+    "pinyin": "Duì yú rú hé guǎn lǐ shí jiān, měi gè rén dōu yǒu zì jǐ de yī tào bàn fǎ。",
+    "en": "On managing time, everyone has their own approach."
+   },
+   {
+    "zh": "关于这次比赛的规则,裁判在赛前做了详细说明。",
+    "pinyin": "Guān yú zhè cì bǐ sài de guī zé, cái pàn zài sài qián zuò le xiáng xì shuō míng。",
+    "en": "About the match's rules, the referee explained in detail beforehand."
+   }
+  ]
+ },
+ {
+  "id": "g426",
+  "level": 4,
+  "title": "\"适合\" ile \"合适\" farkı",
+  "titleEn": "Comparing \"shihe\" and \"heshi\"",
+  "pattern": "适合 (fiil: ...-e uygun olmak) / 合适 (sıfat: uygun)",
+  "summary": "\"适合\" bir fiildir ve nesne alır, \"合适\" bir sıfattır: 这工作适合你 / 这件衣服很合适。",
+  "explanation": "\"适合\" ve \"合适\" aynı \"uygun\" anlamını taşır ama DİLBİLGİSEL rolleri farklıdır. \"适合\" (shìhé): bir FİİLDİR ve doğrudan NESNE alır — \"...-e uygun olmak, ...-e yakışmak, ... için elverişli olmak\": 这份工作很适合你 (Bu iş sana çok uygun), 这里的气候适合种茶 (Buranın iklimi çay yetiştirmeye uygun), 这本书适合初学者阅读 (Bu kitap yeni başlayanların okumasına uygun). \"适合\" ardından bir isim ya da fiil öbeği (nesne) gelir. \"合适\" (héshì): bir SIFATTIR, nesne ALMAZ; yüklem ya da niteleyici olur — \"uygun, yerinde, tam, oturmuş\": 这件衣服很合适 (Bu giysi tam oturdu), 你来得正合适 (Tam zamanında geldin), 找个合适的机会跟他谈谈 (Uygun bir fırsat bulup konuş), 这个价钱挺合适的 (Bu fiyat gayet uygun). Kural: nesne varsa (bir şeye/birine uygun) → 适合 (适合你/适合孩子); nesne yoksa, salt \"uygun\" niteliği bildiriliyorsa → 合适 (很合适/不合适/合适的时间). Yani \"这双鞋适合你\" (bu ayakkabı sana uygun) ama \"这双鞋很合适\" (bu ayakkabı çok uygun) — 适合 nesne alır, 合适 almaz. Türkçede ikisi de \"uygun\" olur; fark Çincede birinin fiil, ötekinin sıfat oluşudur.",
+  "examples": [
+   {
+    "zh": "这份既稳定又有发展的工作,其实非常适合你。",
+    "pinyin": "Zhè fèn jì wěn dìng yòu yǒu fā zhǎn de gōng zuò, qí shí fēi cháng shì hé nǐ。",
+    "en": "This stable, promising job actually suits you very well."
+   },
+   {
+    "zh": "这件衣服你穿着大小正合适,颜色也很衬你。",
+    "pinyin": "Zhè jiàn yī fú nǐ chuān zhe dà xiǎo zhèng hé shì, yán sè yě hěn chèn nǐ。",
+    "en": "This outfit fits you just right, and the color suits you too."
+   },
+   {
+    "zh": "这里四季分明、土壤肥沃,很适合种植各种水果。",
+    "pinyin": "Zhè lǐ sì jì fēn míng、 tǔ rǎng féi wò, hěn shì hé zhòng zhí gè zhǒng shuǐ guǒ。",
+    "en": "With distinct seasons and rich soil, it's ideal for growing fruit."
+   },
+   {
+    "zh": "现在时机还不太合适,咱们不妨再等一等。",
+    "pinyin": "Xiàn zài shí jī hái bù tài hé shì, zán men bù fáng zài děng yī děng。",
+    "en": "The timing isn't quite right now; let's wait a bit."
+   },
+   {
+    "zh": "这本书内容浅显生动,特别适合小朋友阅读。",
+    "pinyin": "Zhè běn shū nèi róng qiǎn xiǎn shēng dòng, tè bié shì hé xiǎo péng yǒu yuè dú。",
+    "en": "The book is simple and lively, especially suited for children."
+   },
+   {
+    "zh": "你来得正合适,我正想找个人帮忙搭把手呢。",
+    "pinyin": "Nǐ lái de zhèng hé shì, wǒ zhèng xiǎng zhǎo gè rén bāng máng dā bǎ shǒu ne。",
+    "en": "You've come at just the right time; I needed a hand."
+   },
+   {
+    "zh": "这种轻缓的运动比较适合上了年纪的老人。",
+    "pinyin": "Zhè zhǒng qīng huǎn de yùn dòng bǐ jiào shì hé shàng le nián jì de lǎo rén。",
+    "en": "This gentle exercise is fairly suitable for older people."
+   },
+   {
+    "zh": "这双鞋样子好看,可惜尺码不太合适。",
+    "pinyin": "Zhè shuāng xié yàng zi hǎo kàn, kě xī chǐ mǎ bù tài hé shì。",
+    "en": "The shoes look nice, but the size isn't quite right."
+   },
+   {
+    "zh": "安静又通风的房间,最适合用来读书和工作。",
+    "pinyin": "Ān jìng yòu tōng fēng de fáng jiān, zuì shì hé yòng lái dú shū hé gōng zuò。",
+    "en": "A quiet, airy room is best for reading and working."
+   },
+   {
+    "zh": "请你挑一个合适的时间,咱们坐下来好好谈谈。",
+    "pinyin": "Qǐng nǐ tiāo yí gè hé shì de shí jiān, zán men zuò xià lái hǎo hǎo tán tán。",
+    "en": "Please pick a suitable time for us to sit and talk."
+   },
+   {
+    "zh": "这个凉爽的季节,非常适合一家人出去郊游。",
+    "pinyin": "Zhè ge liáng shuǎng de jì jié, fēi cháng shì hé yī jiā rén chū qù jiāo yóu。",
+    "en": "This cool season is perfect for a family outing."
+   },
+   {
+    "zh": "这份礼物送给老师,我觉得再合适不过了。",
+    "pinyin": "Zhè fèn lǐ wù sòng gěi lǎo shī, wǒ jué de zài hé shì bù guò le。",
+    "en": "This gift for the teacher couldn't be more fitting."
+   },
+   {
+    "zh": "他性格外向、口才又好,很适合做销售工作。",
+    "pinyin": "Tā xìng gé wài xiàng、 kǒu cái yòu hǎo, hěn shì hé zuò xiāo shòu gōng zuò。",
+    "en": "Outgoing and eloquent, he's well suited to sales work."
+   },
+   {
+    "zh": "这条裤子腰有点大,穿在他身上不太合适。",
+    "pinyin": "Zhè tiáo kù zi yāo yǒu diǎn dà, chuān zài tā shēn shàng bù tài hé shì。",
+    "en": "These trousers are a bit loose at the waist, not quite right on him."
+   },
+   {
+    "zh": "这套教材循序渐进,适合零基础的人自学。",
+    "pinyin": "Zhè tào jiào cái xún xù jiàn jìn, shì hé líng jī chǔ de rén zì xué。",
+    "en": "This textbook is progressive, suited for self-study from scratch."
+   },
+   {
+    "zh": "你说话要注意场合,在这里开玩笑不太合适。",
+    "pinyin": "Nǐ shuō huà yào zhù yì chǎng hé, zài zhè lǐ kāi wán xiào bù tài hé shì。",
+    "en": "Mind the occasion; joking here isn't quite appropriate."
+   },
+   {
+    "zh": "这种耐旱的植物,很适合在干燥的地区生长。",
+    "pinyin": "Zhè zhǒng nài hàn de zhí wù, hěn shì hé zài gān zào de dì qū shēng zhǎng。",
+    "en": "This drought-hardy plant is well suited to dry regions."
+   },
+   {
+    "zh": "这个位置光线好、又安静,当书房很合适。",
+    "pinyin": "Zhè ge wèi zhì guāng xiàn hǎo、 yòu ān jìng, dāng shū fáng hěn hé shì。",
+    "en": "This spot is bright and quiet, quite suitable as a study."
+   },
+   {
+    "zh": "这样轻松愉快的话题,很适合在饭桌上聊。",
+    "pinyin": "Zhè yàng qīng sōng yú kuài de huà tí, hěn shì hé zài fàn zhuō shàng liáo。",
+    "en": "Such light, cheerful topics suit chatting at the table."
+   },
+   {
+    "zh": "大小、款式都挑好了,这套家具摆在这儿正合适。",
+    "pinyin": "Dà xiǎo、 kuǎn shì dōu tiāo hǎo le, zhè tào jiā jù bǎi zài zhè ér zhèng hé shì。",
+    "en": "The size and style are chosen; this furniture fits here just right."
+   },
+   {
+    "zh": "这类需要耐心和细心的工作,其实很适合她。",
+    "pinyin": "Zhè lèi xū yào nài xīn hé xì xīn de gōng zuò, qí shí hěn shì hé tā。",
+    "en": "Work needing patience and care actually suits her well."
+   },
+   {
+    "zh": "你现在情绪激动,恐怕不太合适做重要的决定。",
+    "pinyin": "Nǐ xiàn zài qíng xù jī dòng, kǒng pà bù tài hé shì zuò zhòng yào de jué dìng。",
+    "en": "You're emotional now, so it's not the right time for big decisions."
+   },
+   {
+    "zh": "温暖湿润的南方,特别适合喜欢潮湿的植物生长。",
+    "pinyin": "Wēn nuǎn shī rùn de nán fāng, tè bié shì hé xǐ huān cháo shī de zhí wù shēng zhǎng。",
+    "en": "The warm, humid south suits moisture-loving plants."
+   },
+   {
+    "zh": "这个价钱不高不低,我觉得挺合适的,就买了吧。",
+    "pinyin": "Zhè ge jià qián bù gāo bù dī, wǒ jué de tǐng hé shì de, jiù mǎi le ba。",
+    "en": "The price is neither high nor low; it seems right, let's buy it."
+   },
+   {
+    "zh": "像他这样细致又有耐心的人,最适合做研究工作。",
+    "pinyin": "Xiàng tā zhè yàng xì zhì yòu yǒu nài xīn de rén, zuì shì hé zuò yán jiū gōng zuò。",
+    "en": "Someone as careful and patient as he suits research best."
+   }
+  ]
+ },
+ {
+  "id": "g427",
+  "level": 4,
+  "title": "\"平时\" ile \"平常\" farkı",
+  "titleEn": "Comparing \"pingshi\" and \"pingchang\"",
+  "pattern": "平时 (her zamanki vakit) / 平常 (sıradan; genellikle)",
+  "summary": "\"平时\" \"her zamanki günlerde\" (zaman), \"平常\" hem \"sıradan\" (sıfat) hem \"genellikle\" anlamına gelir: 平时很忙 / 他是个平常人。",
+  "explanation": "\"平时\" ve \"平常\" büyük ölçüde örtüşür (\"normalde, genellikle\") ama farkları vardır. \"平时\" (píngshí): bir ZAMAN adıdır — özel/olağan dışı zamanların (tatil, sınav, acil durum) DIŞINDAKİ sıradan günleri ifade eder: \"her zamanki günlerde, normal zamanlarda, genelde\": 他平时很少喝酒,只有过节才喝一点 (Normalde pek içmez, yalnız bayramda azıcık içer), 平时我坐地铁上班,今天才打车 (Normalde metroyla işe giderim, bugün taksiye bindim), 平时不烧香,临时抱佛脚 (Vakit varken hazırlanmayıp son anda telaşlanmak). \"平常\" (píngcháng): iki işlevi var. (1) \"平时\" gibi ZAMAN belirteci — normalde: 他平常总是很早就到 (Normalde hep erken gelir) [bu anlamda 平时 ile eş anlamlı]. (2) SIFAT olarak \"sıradan, olağan, alelade\": 这只是件很平常的小事 (Bu sıradan küçük bir şey), 他是个平常人,却做了不平常的事 (Sıradan biri ama sıra dışı bir iş yaptı). Fark: \"平时\" yalnız ZAMAN bildirir (sıfat olamaz); \"平常\" hem zaman hem \"sıradan\" sıfatı olur. Yani \"很平常的事\" (sıradan bir şey) denir ama \"很平时的事\" DENMEZ. Zaman anlamında ikisi çoğu yerde birbirinin yerini tutar. Türkçedeki \"normalde/her zaman (平时,平常-zaman)\" ile \"sıradan/alelade (平常-sıfat)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "他平时很少生病,这次感冒来得让人有点意外。",
+    "pinyin": "Tā píng shí hěn shǎo shēng bìng, zhè cì gǎn mào lái de ràng rén yǒu diǎn yì wài。",
+    "en": "He rarely falls ill; this cold came as a bit of a surprise."
+   },
+   {
+    "zh": "这只是一件很平常的小事,你不必放在心上。",
+    "pinyin": "Zhè zhǐ shì yī jiàn hěn píng cháng de xiǎo shì, nǐ bù bì fàng zài xīn shàng。",
+    "en": "It's just an ordinary little thing; don't take it to heart."
+   },
+   {
+    "zh": "平时我都是骑车上班,今天下雨才改坐地铁。",
+    "pinyin": "Píng shí wǒ dōu shì qí chē shàng bān, jīn tiān xià yǔ cái gǎi zuò dì tiě。",
+    "en": "I usually cycle to work; today's rain made me take the subway."
+   },
+   {
+    "zh": "在他看来,再平常不过的一天,也值得好好珍惜。",
+    "pinyin": "Zài tā kàn lái, zài píng cháng bù guò de yī tiān, yě zhí de hǎo hǎo zhēn xī。",
+    "en": "To him, even the most ordinary day is worth cherishing."
+   },
+   {
+    "zh": "你平时多下点功夫,考试的时候就不会那么紧张。",
+    "pinyin": "Nǐ píng shí duō xià diǎn gōng fu, kǎo shì de shí hòu jiù bú huì nà me jǐn zhāng。",
+    "en": "Put in effort daily, and you won't be so tense at exams."
+   },
+   {
+    "zh": "这些看似平常的举动,却体现出他为人的细心。",
+    "pinyin": "Zhè xiē kàn shì píng cháng de jǔ dòng, què tǐ xiàn chū tā wéi rén de xì xīn。",
+    "en": "These seemingly ordinary acts reveal his thoughtfulness."
+   },
+   {
+    "zh": "平时不注意保养身体,等生了病才后悔就晚了。",
+    "pinyin": "Píng shí bù zhù yì bǎo yǎng shēn tǐ, děng shēng le bìng cái hòu huǐ jiù wǎn le。",
+    "en": "Neglect your health daily, and regret comes too late when ill."
+   },
+   {
+    "zh": "他虽然是个平常人,却做出了很多不平常的贡献。",
+    "pinyin": "Tā suī rán shì gè píng cháng rén, què zuò chū le hěn duō bù píng cháng de gòng xiàn。",
+    "en": "Though an ordinary man, he made many extraordinary contributions."
+   },
+   {
+    "zh": "妈妈平时对我们要求很严,但心里其实很疼我们。",
+    "pinyin": "Mā mā píng shí duì wǒ men yāo qiú hěn yán, dàn xīn lǐ qí shí hěn téng wǒ men。",
+    "en": "Mother is strict with us daily, but loves us dearly at heart."
+   },
+   {
+    "zh": "这道菜的做法很平常,可味道却出奇地好。",
+    "pinyin": "Zhè dào cài de zuò fǎ hěn píng cháng, kě wèi dào què chū qí de hǎo。",
+    "en": "The recipe is quite ordinary, yet it tastes surprisingly good."
+   },
+   {
+    "zh": "平时大家各自忙碌,只有过节才能聚在一起。",
+    "pinyin": "Píng shí dà jiā gè zì máng lù, zhǐ yǒu guò jié cái néng jù zài yì qǐ。",
+    "en": "Usually all are busy; only holidays bring us together."
+   },
+   {
+    "zh": "对他来说,加班到深夜早已是再平常不过的事了。",
+    "pinyin": "Duì tā lái shuō, jiā bān dào shēn yè zǎo yǐ shì zài píng cháng bù guò de shì le。",
+    "en": "For him, working late into the night is nothing unusual."
+   },
+   {
+    "zh": "你平时怎么练习,关键时刻就会怎么发挥。",
+    "pinyin": "Nǐ píng shí zěn me liàn xí, guān jiàn shí kè jiù huì zěn me fā huī。",
+    "en": "How you practice daily is how you'll perform when it counts."
+   },
+   {
+    "zh": "他用最平常的语言,讲出了最深刻的道理。",
+    "pinyin": "Tā yòng zuì píng cháng de yǔ yán, jiǎng chū le zuì shēn kè de dào lǐ。",
+    "en": "In the plainest words, he conveyed the most profound truth."
+   },
+   {
+    "zh": "平时省吃俭用惯了,一下子花这么多钱他很不习惯。",
+    "pinyin": "Píng shí shěng chī jiǎn yòng guàn le, yī xià zi huā zhè me duō qián tā hěn bù xí guàn。",
+    "en": "Used to scrimping, he found spending so much at once uneasy."
+   },
+   {
+    "zh": "看似平常的坚持,日积月累就成了了不起的本领。",
+    "pinyin": "Kàn shì píng cháng de jiān chí, rì jī yuè lěi jiù chéng liǎo liǎo bù qǐ de běn lǐng。",
+    "en": "Seemingly ordinary persistence becomes remarkable skill over time."
+   },
+   {
+    "zh": "他平时话不多,可一旦讲起专业来就滔滔不绝。",
+    "pinyin": "Tā píng shí huà bù duō, kě yí dàn jiǎng qǐ zhuān yè lái jiù tāo tāo bù jué。",
+    "en": "He speaks little usually, but goes on and on about his field."
+   },
+   {
+    "zh": "这是个平常的周末,一家人在家享受着难得的清闲。",
+    "pinyin": "Zhè shì gè píng cháng de zhōu mò, yī jiā rén zài jiā xiǎng shòu zhe nán de de qīng xián。",
+    "en": "It was an ordinary weekend, the family enjoying rare leisure at home."
+   },
+   {
+    "zh": "平时多积累一些词汇,写起文章来才会得心应手。",
+    "pinyin": "Píng shí duō jī lěi yī xiē cí huì, xiě qǐ wén zhāng lái cái huì de xīn yìng shǒu。",
+    "en": "Build vocabulary daily, and writing will come with ease."
+   },
+   {
+    "zh": "在平常的日子里,他也总是把家里收拾得井井有条。",
+    "pinyin": "Zài píng cháng de rì zi lǐ, tā yě zǒng shì bǎ jiā lǐ shōu shí de jǐng jǐng yǒu tiáo。",
+    "en": "Even on ordinary days, he keeps the home neat and orderly."
+   },
+   {
+    "zh": "你平时那么爱运动,怎么这几天一次都没去?",
+    "pinyin": "Nǐ píng shí nà me ài yùn dòng, zěn me zhè jǐ tiān yī cì dōu méi qù?",
+    "en": "You usually love exercise; why haven't you gone at all lately?"
+   },
+   {
+    "zh": "这种平常的野花,开在山间也别有一番韵味。",
+    "pinyin": "Zhè zhǒng píng cháng de yě huā, kāi zài shān jiān yě bié yǒu yī fān yùn wèi。",
+    "en": "Such common wildflowers have their own charm on the hills."
+   },
+   {
+    "zh": "平时养成好习惯,遇到大事才能沉着应对。",
+    "pinyin": "Píng shí yǎng chéng hǎo xí guàn, yù dào dà shì cái néng chén zhuó yìng duì。",
+    "en": "Good daily habits let you stay calm in big matters."
+   },
+   {
+    "zh": "他把每一个平常的日子,都过得认真而充实。",
+    "pinyin": "Tā bǎ měi yí gè píng cháng de rì zi, dōu guò de rèn zhēn ér chōng shí。",
+    "en": "He lives every ordinary day earnestly and fully."
+   },
+   {
+    "zh": "平时她总是笑眯眯的,今天却显得有些心事重重。",
+    "pinyin": "Píng shí tā zǒng shì xiào mī mī de, jīn tiān què xiǎn de yǒu xiē xīn shì chóng chóng。",
+    "en": "Usually all smiles, today she seemed weighed by worries."
+   }
+  ]
  }
 ]

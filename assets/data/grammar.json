@@ -66094,5 +66094,685 @@
     "en": "He always acts on principle, never bending for favors."
    }
   ]
+ },
+ {
+  "id": "g487",
+  "level": 5,
+  "title": "\"不得不\" ile \"只好\" farkı",
+  "titleEn": "Comparing \"budebu\" and \"zhihao\"",
+  "pattern": "不得不 (mecburen) / 只好 (başka çare yok)",
+  "summary": "İkisi de çaresizlik bildirir; \"不得不\" \"mecbur kalmak\", \"只好\" \"tek çare olarak\" vurgular: 我不得不去 / 我只好答应了。",
+  "explanation": "\"不得不\" ve \"只好\" ikisi de bir eylemi ÇARESİZLİKTEN, mecburen yaptığımızı bildirir ama vurguları farklıdır. \"不得不\" (bùdébù): çifte olumsuzlukla (\"...-memek olmaz\") güçlü bir MECBURİYETİ bildirir — dış koşullar bir eylemi ZORUNLU kılar: \"...-mek zorunda kalmak, mecburen ..., ...-memek elde değil\": 天太晚了,我不得不提前离开 (Çok geç oldu, erkenden ayrılmak zorunda kaldım), 面对这些证据,他不得不承认了错误 (Bu kanıtlar karşısında hatasını itiraf etmek zorunda kaldı). \"只好\" (zhǐhǎo): başka seçenek kalmadığı için \"TEK ÇARE olarak\" bir yola başvurmayı bildirir — vurgu \"başka yol yok, mecburen bu\"dadır: \"başka çare olmadığından ..., mecburen ..., ...-mekten başka çare kalmamak\": 末班车已经走了,我们只好走回家 (Son otobüs gitmişti, mecburen eve yürüdük), 他不在家,我只好留了张纸条 (Evde yoktu, mecburen bir not bıraktım). Fark: \"不得不\" DIŞ ZORLAMAYI/mecburiyeti (yapmak zorundayım), \"只好\" ise SEÇENEKSİZLİĞİ/tek çareyi (başka yolum yok) vurgular. Çoğu durumda ikisi de kullanılabilir; \"不得不\" gerekliliği, \"只好\" çaresiz tercihi öne çıkarır. Türkçedeki \"...-mek zorunda kalmak (不得不)\" ile \"başka çare olmadığından, mecburen (只好)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "由于临时有急事,他不得不取消了这次期待已久的旅行。",
+    "pinyin": "Yóu yú lín shí yǒu jí shì, tā bù de bù qǔ xiāo le zhè cì qī dài yǐ jiǔ de lǚ xíng。",
+    "en": "Due to a sudden emergency, he had to cancel the long-awaited trip."
+   },
+   {
+    "zh": "末班车已经开走了,我们只好步行回家。",
+    "pinyin": "Mò bān chē yǐ jīng kāi zǒu le, wǒ men zhǐ hǎo bù xíng huí jiā。",
+    "en": "The last bus had gone, so we could only walk home."
+   },
+   {
+    "zh": "面对铁一般的事实,他不得不低头承认了自己的错误。",
+    "pinyin": "Miàn duì tiě yì bān de shì shí, tā bù de bù dī tóu chéng rèn le zì jǐ de cuò wù。",
+    "en": "Faced with the hard facts, he had to admit his mistake."
+   },
+   {
+    "zh": "店里的东西都卖光了,我只好空着手回来了。",
+    "pinyin": "Diàn lǐ de dōng xī dōu mài guāng le, wǒ zhǐ hǎo kōng zhuó shǒu huí lái le。",
+    "en": "The shop had sold out, so I came back empty-handed."
+   },
+   {
+    "zh": "因为身体实在支撑不住,他不得不请假休息了几天。",
+    "pinyin": "Yīn wèi shēn tǐ shí zài zhī chēng bú zhù, tā bù de bù qǐng jià xiū xī le jǐ tiān。",
+    "en": "Unable to hold on, he had to take a few days' leave."
+   },
+   {
+    "zh": "既然大家都不同意,这个方案只好暂时搁置了。",
+    "pinyin": "Jì rán dà jiā dōu bù tóng yì, zhè ge fāng àn zhǐ hǎo zàn shí gē zhì le。",
+    "en": "Since all disagreed, the plan had to be shelved for now."
+   },
+   {
+    "zh": "为了赶上早班飞机,我们不得不半夜就起床出发。",
+    "pinyin": "Wèi le gǎn shàng zǎo bān fēi jī, wǒ men bù de bù bàn yè jiù qǐ chuáng chū fā。",
+    "en": "To catch the early flight, we had to rise and set off at midnight."
+   },
+   {
+    "zh": "外面下起了大雨,原定的活动只好改在室内举行。",
+    "pinyin": "Wài miàn xià qǐ le dà yǔ, yuán dìng de huó dòng zhǐ hǎo gǎi zài shì nèi jǔ xíng。",
+    "en": "It rained hard, so the event had to move indoors."
+   },
+   {
+    "zh": "面对上涨的成本,工厂不得不适当提高了产品的价格。",
+    "pinyin": "Miàn duì shàng zhǎng de chéng běn, gōng chǎng bù de bù shì dàng tí gāo le chǎn pǐn de jià gé。",
+    "en": "Facing rising costs, the factory had to raise prices somewhat."
+   },
+   {
+    "zh": "联系不上负责人,我只好先把情况记录了下来。",
+    "pinyin": "Lián xì bù shàng fù zé rén, wǒ zhǐ hǎo xiān bǎ qíng kuàng jì lù le xià lái。",
+    "en": "Unable to reach the head, I could only note the situation down."
+   },
+   {
+    "zh": "由于资金链断裂,这家公司不得不宣布停业。",
+    "pinyin": "Yóu yú zī jīn liàn duàn liè, zhè jiā gōng sī bù de bù xuān bù tíng yè。",
+    "en": "With its cash flow broken, the firm had to announce closure."
+   },
+   {
+    "zh": "既然他执意要走,我们也只好尊重他的选择。",
+    "pinyin": "Jì rán tā zhí yì yào zǒu, wǒ men yě zhǐ hǎo zūn zhòng tā de xuǎn zé。",
+    "en": "Since he insisted on leaving, we could only respect his choice."
+   },
+   {
+    "zh": "因为孩子突然生病,她不得不放下手头所有的工作。",
+    "pinyin": "Yīn wèi hái zi tū rán shēng bìng, tā bù de bù fàng xià shǒu tóu suǒ yǒu de gōng zuò。",
+    "en": "As her child fell ill, she had to drop all her work."
+   },
+   {
+    "zh": "眼看时间来不及了,他只好把没做完的题先空着。",
+    "pinyin": "Yǎn kàn shí jiān lái bù jí le, tā zhǐ hǎo bǎ méi zuò wán de tí xiān kōng zhe。",
+    "en": "Running out of time, he had to leave the unfinished questions blank."
+   },
+   {
+    "zh": "面对多方的压力,他最终不得不改变了原来的决定。",
+    "pinyin": "Miàn duì duō fāng de yā lì, tā zuì zhōng bù de bù gǎi biàn le yuán lái de jué dìng。",
+    "en": "Under pressure from all sides, he finally had to change his decision."
+   },
+   {
+    "zh": "钥匙锁在了屋里,我只好打电话叫开锁师傅。",
+    "pinyin": "Yào shi suǒ zài le wū lǐ, wǒ zhǐ hǎo dǎ diàn huà jiào kāi suǒ shī fù。",
+    "en": "The key was locked inside, so I had to call a locksmith."
+   },
+   {
+    "zh": "因为连日的暴雨,这段公路不得不暂时封闭。",
+    "pinyin": "Yīn wèi lián rì de bào yǔ, zhè duàn gōng lù bù de bù zàn shí fēng bì。",
+    "en": "Due to days of rain, the road had to be closed temporarily."
+   },
+   {
+    "zh": "大家都推辞不去,最后只好由我一个人代表出席。",
+    "pinyin": "Dà jiā dōu tuī cí bù qù, zuì hòu zhǐ hǎo yóu wǒ yí gè rén dài biǎo chū xí。",
+    "en": "As all declined, I ended up attending as the sole representative."
+   },
+   {
+    "zh": "为了照顾年迈的父母,他不得不放弃了外地的工作。",
+    "pinyin": "Wèi le zhào gù nián mài de fù mǔ, tā bù de bù fàng qì le wài dì de gōng zuò。",
+    "en": "To care for his aged parents, he had to give up a job elsewhere."
+   },
+   {
+    "zh": "材料还没准备好,会议只好推迟到下周再开。",
+    "pinyin": "Cái liào hái méi zhǔn bèi hǎo, huì yì zhǐ hǎo tuī chí dào xià zhōu zài kāi。",
+    "en": "The materials weren't ready, so the meeting was pushed to next week."
+   },
+   {
+    "zh": "由于观众反响强烈,主办方不得不加开了一场演出。",
+    "pinyin": "Yóu yú guān zhòng fǎn xiǎng qiáng liè, zhǔ bàn fāng bù de bù jiā kāi le yī cháng yǎn chū。",
+    "en": "Due to strong response, the organizers had to add a show."
+   },
+   {
+    "zh": "那条路正在施工,我们只好绕了一大圈才到。",
+    "pinyin": "Nà tiáo lù zhèng zài shī gōng, wǒ men zhǐ hǎo rào le yī dà quān cái dào。",
+    "en": "The road was under repair, so we had to take a big detour."
+   },
+   {
+    "zh": "面对突如其来的变故,他不得不一夜之间成熟了起来。",
+    "pinyin": "Miàn duì tū rú qí lái de biàn gù, tā bù de bù yī yè zhī jiān chéng shú le qǐ lái。",
+    "en": "Facing the sudden change, he had to grow up overnight."
+   },
+   {
+    "zh": "既然误了这趟车,我们只好在车站多等一个小时。",
+    "pinyin": "Jì rán wù le zhè tàng chē, wǒ men zhǐ hǎo zài chē zhàn duō děng yí gè xiǎo shí。",
+    "en": "Having missed the train, we had to wait an extra hour."
+   },
+   {
+    "zh": "因为预算实在有限,这次装修不得不能省则省。",
+    "pinyin": "Yīn wèi yù suàn shí zài yǒu xiàn, zhè cì zhuāng xiū bù de bù néng shěng zé shěng。",
+    "en": "With a tight budget, the renovation had to save wherever possible."
+   }
+  ]
+ },
+ {
+  "id": "g488",
+  "level": 5,
+  "title": "\"不断\" ile \"不停\" farkı",
+  "titleEn": "Comparing \"buduan\" and \"buting\"",
+  "pattern": "不断 (aralıklı süregiden) / 不停 (aralıksız süren)",
+  "summary": "\"不断\" tekrar tekrar/kesintisiz gelişen bir süreci, \"不停\" hiç durmadan süren bir eylemi bildirir: 不断进步 / 雨下个不停。",
+  "explanation": "\"不断\" ve \"不停\" ikisi de \"durmadan, sürekli\" anlamı taşır ama farklıdırlar. \"不断\" (bùduàn): bir şeyin KESİNTİSİZ ama çoğu zaman TEKRAR TEKRAR, aşama aşama sürdüğünü/geliştiğini bildirir — vurgu \"aralıksız devam eden bir SÜREÇ/dizi\"dedir: \"sürekli, durmadan, aralıksız, gitgide, tekrar tekrar\": 他的技术在不断提高 (Becerisi sürekli gelişiyor), 新的问题不断出现 (Yeni sorunlar durmadan ortaya çıkıyor), 我们要不断努力 (Sürekli çabalamalıyız). \"不断\" genellikle iki heceli fiillerle ve soyut, gelişen/yinelenen süreçlerle gelir; belirteç olarak fiilin önündedir. \"不停\" (bùtíng): bir eylemin fiilen HİÇ DURMADAN, aralıksız sürdüğünü bildirir — vurgu \"durmaksızın devam eden tek bir EYLEM\"dedir: \"durmadan, hiç durmadan, aralıksız, bir türlü durmayan\": 雨下个不停 (Yağmur durmadan yağıyor), 他嘴里说个不停 (Ağzı durmadan konuşuyor), 电话响个不停 (Telefon durmadan çalıyor). \"不停\" çoğu zaman \"V个不停\" (durmadan V-mek) biçiminde, somut, sürekli bir eylemi anlatır. Fark: \"不断\" gelişen/yinelenen bir süreç (soyut, ilerleme); \"不停\" fiziksel olarak durmayan tek bir eylem (somut, süreklilik). Türkçedeki \"sürekli/durmadan gelişen (不断)\" ile \"hiç durmadan/aralıksız (不停)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "这些年,他的专业水平在实践中不断得到提高。",
+    "pinyin": "Zhè xiē nián, tā de zhuān yè shuǐ píng zài shí jiàn zhōng bù duàn dé dào tí gāo。",
+    "en": "Over the years his skills steadily improved through practice."
+   },
+   {
+    "zh": "外面的雨从早上一直下个不停,到现在也没停。",
+    "pinyin": "Wài miàn de yǔ cóng zǎo shàng yì zhí xià gè bù tíng, dào xiàn zài yě méi tíng。",
+    "en": "The rain has poured nonstop since morning and still hasn't stopped."
+   },
+   {
+    "zh": "随着科技的进步,人们的生活方式在不断地发生变化。",
+    "pinyin": "Suí zhe kē jì de jìn bù, rén men de shēng huó fāng shì zài bù duàn de fā shēng biàn huà。",
+    "en": "As technology advances, lifestyles keep changing."
+   },
+   {
+    "zh": "孩子兴奋得手舞足蹈,嘴里叽叽喳喳说个不停。",
+    "pinyin": "Hái zi xīng fèn dé shǒu wǔ zú dǎo, zuǐ lǐ jī jī zhā zhā shuō gè bù tíng。",
+    "en": "The excited child gestured and chattered nonstop."
+   },
+   {
+    "zh": "为了实现梦想,他一直在不断地努力和坚持。",
+    "pinyin": "Wèi le shí xiàn mèng xiǎng, tā yì zhí zài bù duàn de nǔ lì hé jiān chí。",
+    "en": "To realize his dream, he kept striving and persevering."
+   },
+   {
+    "zh": "那只小狗对着门口不停地叫,好像来了陌生人。",
+    "pinyin": "Nà zhǐ xiǎo gǒu duì zhe mén kǒu bù tíng de jiào, hǎo xiàng lái le mò shēng rén。",
+    "en": "The puppy barked nonstop at the door, as if a stranger came."
+   },
+   {
+    "zh": "公司的规模在不断扩大,员工人数也逐年增加。",
+    "pinyin": "Gōng sī de guī mó zài bù duàn kuò dà, yuán gōng rén shù yě zhú nián zēng jiā。",
+    "en": "The firm keeps expanding, its staff growing year by year."
+   },
+   {
+    "zh": "他紧张得两只手不停地搓着,一句话也说不出来。",
+    "pinyin": "Tā jǐn zhāng de liǎng zhǐ shǒu bù tíng de cuō zhe, yī jù huà yě shuō bù chū lái。",
+    "en": "So nervous, he kept rubbing his hands, unable to speak."
+   },
+   {
+    "zh": "在老师的帮助下,他的成绩在不断进步。",
+    "pinyin": "Zài lǎo shī de bāng zhù xià, tā de chéng jì zài bù duàn jìn bù。",
+    "en": "With the teacher's help, his grades kept improving."
+   },
+   {
+    "zh": "电话铃声响个不停,他忙得连接听的时间都没有。",
+    "pinyin": "Diàn huà líng shēng xiǎng gè bù tíng, tā máng de lián jiē tīng de shí jiān dōu méi yǒu。",
+    "en": "The phone rang nonstop; he was too busy to answer."
+   },
+   {
+    "zh": "人类对未知世界的探索,从来没有停止,而是不断深入。",
+    "pinyin": "Rén lèi duì wèi zhī shì jiè de tàn suǒ, cóng lái méi yǒu tíng zhǐ, ér shì bù duàn shēn rù。",
+    "en": "Humanity's exploration of the unknown never stops but deepens."
+   },
+   {
+    "zh": "她一边听着伤心的故事,一边不停地擦着眼泪。",
+    "pinyin": "Tā yī biān tīng zhe shāng xīn de gù shì, yī biān bù tíng de cā zhuó yǎn lèi。",
+    "en": "Listening to the sad story, she kept wiping her tears."
+   },
+   {
+    "zh": "随着经验的积累,他解决问题的能力在不断增强。",
+    "pinyin": "Suí zhe jīng yàn de jī lěi, tā jiě jué wèn tí de néng lì zài bù duàn zēng qiáng。",
+    "en": "As experience grew, his problem-solving ability kept strengthening."
+   },
+   {
+    "zh": "风刮得很大,窗户被吹得不停地砰砰作响。",
+    "pinyin": "Fēng guā de hěn dà, chuāng hù bèi chuī de bù tíng de pēng pēng zuò xiǎng。",
+    "en": "The strong wind kept the window banging nonstop."
+   },
+   {
+    "zh": "这座城市日新月异,面貌在不断地更新和改善。",
+    "pinyin": "Zhè zuò chéng shì rì xīn yuè yì, miàn mào zài bù duàn de gēng xīn hé gǎi shàn。",
+    "en": "The city changes daily, its look constantly renewed."
+   },
+   {
+    "zh": "他饿极了,狼吞虎咽,嘴巴几乎没停过。",
+    "pinyin": "Tā è jí le, láng tūn hǔ yàn, zuǐ bā jī hū méi tíng guò。",
+    "en": "Starving, he wolfed his food, his mouth barely stopping."
+   },
+   {
+    "zh": "在不断的失败和总结中,他终于找到了正确的方法。",
+    "pinyin": "Zài bù duàn de shī bài hé zǒng jié zhōng, tā zhōng yú zhǎo dào le zhèng què de fāng fǎ。",
+    "en": "Through repeated failure and reflection, he found the right way."
+   },
+   {
+    "zh": "小溪的水日夜不停地流淌,发出悦耳的声响。",
+    "pinyin": "Xiǎo xī de shuǐ rì yè bù tíng de liú tǎng, fā chū yuè ěr de shēng xiǎng。",
+    "en": "The stream flowed day and night nonstop with a pleasant sound."
+   },
+   {
+    "zh": "市场的需求在不断变化,企业必须及时做出调整。",
+    "pinyin": "Shì chǎng de xū qiú zài bù duàn biàn huà, qǐ yè bì xū jí shí zuò chū tiáo zhěng。",
+    "en": "Market demand keeps shifting, so firms must adjust in time."
+   },
+   {
+    "zh": "他激动得心跳不停,手心里全是汗。",
+    "pinyin": "Tā jī dòng de xīn tiào bù tíng, shǒu xīn lǐ quán shì hàn。",
+    "en": "So excited, his heart raced nonstop and his palms sweated."
+   },
+   {
+    "zh": "随着阅读量的不断增加,他的写作能力也提高了。",
+    "pinyin": "Suí zhe yuè dú liàng de bù duàn zēng jiā, tā de xiě zuò néng lì yě tí gāo le。",
+    "en": "As his reading grew, his writing ability improved too."
+   },
+   {
+    "zh": "孩子们在操场上跑来跑去,笑声一刻也没停。",
+    "pinyin": "Hái zi men zài cāo chǎng shàng pǎo lái pǎo qù, xiào shēng yī kè yě méi tíng。",
+    "en": "The children ran about the field, their laughter never ceasing."
+   },
+   {
+    "zh": "科学家们不断尝试新的方法,力求取得突破。",
+    "pinyin": "Kē xué jiā men bù duàn cháng shì xīn de fāng fǎ, lì qiú qǔ de tū pò。",
+    "en": "Scientists keep trying new methods, seeking a breakthrough."
+   },
+   {
+    "zh": "她手里的针线活一直没停,一坐就是一下午。",
+    "pinyin": "Tā shǒu lǐ de zhēn xiàn huó yì zhí méi tíng, yī zuò jiù shì yī xià wǔ。",
+    "en": "Her needlework never stopped; she sat at it a whole afternoon."
+   },
+   {
+    "zh": "在时代的浪潮中,我们只有不断学习才能不被淘汰。",
+    "pinyin": "Zài shí dài de làng cháo zhōng, wǒ men zhǐ yǒu bù duàn xué xí cái néng bù bèi táo tài。",
+    "en": "In the tide of the times, only constant learning keeps us afloat."
+   }
+  ]
+ },
+ {
+  "id": "g489",
+  "level": 5,
+  "title": "\"反而\" ile \"却\" farkı",
+  "titleEn": "Comparing \"fan'er\" and \"que\"",
+  "pattern": "反而 (beklenenin tam tersi) / 却 (basit karşıtlık)",
+  "summary": "\"反而\" beklenenin TAM TERSİ bir sonucu, \"却\" ise genel bir karşıtlığı bildirir: 越劝他,他反而越生气 / 他很累,却不肯休息。",
+  "explanation": "\"反而\" ve \"却\" ikisi de bir KARŞITLIK/beklentiye aykırılık bildirir ama farklıdırlar. \"却\" (què): iki durum arasında GENEL bir karşıtlık/zıtlık kurar — \"ama, oysa, buna karşılık, gel gör ki\": 他年纪不大,却懂得很多道理 (Yaşı küçük ama çok şey biliyor), 我等了很久,他却始终没有来 (Uzun bekledim, oysa o hiç gelmedi). \"却\" beklentiyle çelişen ama ille de TERSİ olmayan bir durumu belirtir; yüklemin önünde, öznenin ardında gelir. \"反而\" (fǎn'ér): beklenen sonucun TAM TERSİNİN gerçekleştiğini bildirir — genellikle bir neden/beklenti verilir, sonra onun aksine ZIT bir sonuç gelir: \"tersine, aksine, beklenenin tam tersi\": 吃了药,病不但没好,反而更严重了 (İlaç içince hastalık iyileşmedi, tersine daha da ağırlaştı), 我以为他会生气,他反而笑了 (Kızar sandım, tersine güldü), 你越是紧张,反而越容易出错 (Ne kadar gerilirsen tersine o kadar çok hata yaparsın). Fark: \"却\" salt \"ama/oysa\" (karşıtlık); \"反而\" ise \"tersine, beklenenin tam aksine\" (beklentinin çürütülüp zıddının olması) — daha güçlü ve yönlüdür. \"反而\" çoğu zaman \"不但不/没...，反而...\" biçiminde gelir. \"却\" her karşıtlıkta, \"反而\" özellikle \"beklenenin tersi\" durumunda kullanılır. Türkçedeki \"ama/oysa (却)\" ile \"tersine/aksine (反而)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "我本想安慰他几句,没想到反而勾起了他的伤心事。",
+    "pinyin": "Wǒ běn xiǎng ān wèi tā jǐ jù, méi xiǎng dào fǎn ér gōu qǐ le tā de shāng xīn shì。",
+    "en": "I meant to comfort him, but instead stirred up his sorrows."
+   },
+   {
+    "zh": "他年纪虽然不大,处理起事情来却十分老练。",
+    "pinyin": "Tā nián jì suī rán bù dà, chǔ lǐ qǐ shì qíng lái què shí fēn lǎo liàn。",
+    "en": "Young as he is, he handles matters with great skill."
+   },
+   {
+    "zh": "你越是催他,他做起来反而越慢,一点也急不得。",
+    "pinyin": "Nǐ yuè shì cuī tā, tā zuò qǐ lái fǎn ér yuè màn, yì diǎn yě jí bù de。",
+    "en": "The more you rush him, the slower he goes."
+   },
+   {
+    "zh": "这道题看着复杂,做起来却比想象中简单得多。",
+    "pinyin": "Zhè dào tí kàn zhe fù zá, zuò qǐ lái què bǐ xiǎng xiàng zhōng jiǎn dān de duō。",
+    "en": "The problem looks complex but is far simpler to do."
+   },
+   {
+    "zh": "批评过重,不但起不到作用,反而会伤了孩子的自尊。",
+    "pinyin": "Pī píng guò zhòng, bù dàn qǐ bú dào zuò yòng, fǎn ér huì shāng le hái zi de zì zūn。",
+    "en": "Overharsh criticism doesn't help but wounds a child's pride."
+   },
+   {
+    "zh": "大家都以为他会推辞,他却爽快地答应了下来。",
+    "pinyin": "Dà jiā dōu yǐ wéi tā huì tuī cí, tā què shuǎng kuài de dā yìng le xià lái。",
+    "en": "All thought he'd decline, but he agreed readily."
+   },
+   {
+    "zh": "经历了这次挫折,他没有气馁,反而更加坚强了。",
+    "pinyin": "Jīng lì le zhè cì cuò zhé, tā méi yǒu qì něi, fǎn ér gèng jiā jiān qiáng le。",
+    "en": "After the setback, he wasn't discouraged but grew stronger."
+   },
+   {
+    "zh": "这件衣服价格不贵,质量却出乎意料地好。",
+    "pinyin": "Zhè jiàn yī fú jià gé bù guì, zhì liàng què chū hū yì liào de hǎo。",
+    "en": "The outfit is cheap, yet its quality is unexpectedly good."
+   },
+   {
+    "zh": "你越想掩饰,反而越容易引起别人的怀疑。",
+    "pinyin": "Nǐ yuè xiǎng yǎn shì, fǎn ér yuè róng yì yǐn qǐ bié rén de huái yí。",
+    "en": "The more you hide it, the more you rouse suspicion."
+   },
+   {
+    "zh": "外面吵得很,屋里却出奇地安静。",
+    "pinyin": "Wài miàn chǎo de hěn, wū lǐ què chū qí de ān jìng。",
+    "en": "It's noisy outside, yet the room is strangely quiet."
+   },
+   {
+    "zh": "他不但没有责怪我,反而耐心地帮我分析原因。",
+    "pinyin": "Tā bù dàn méi yǒu zé guài wǒ, fǎn ér nài xīn de bāng wǒ fēn xī yuán yīn。",
+    "en": "Far from blaming me, he patiently helped me analyze the cause."
+   },
+   {
+    "zh": "这条路虽然近,走起来却坑坑洼洼,很不好走。",
+    "pinyin": "Zhè tiáo lù suī rán jìn, zǒu qǐ lái què kēng kēng wā wā, hěn bù hǎo zǒu。",
+    "en": "Though short, the road is bumpy and hard to walk."
+   },
+   {
+    "zh": "过分的溺爱,不但帮不了孩子,反而会害了他。",
+    "pinyin": "Guò fèn de nì ài, bù dàn bāng bù liǎo hái zi, fǎn ér huì hài le tā。",
+    "en": "Overindulgence doesn't help a child but harms him."
+   },
+   {
+    "zh": "我提醒了他好几次,他却始终没放在心上。",
+    "pinyin": "Wǒ tí xǐng le tā hǎo jǐ cì, tā què shǐ zhōng méi fàng zài xīn shàng。",
+    "en": "I reminded him several times, yet he never took heed."
+   },
+   {
+    "zh": "适当的压力不是坏事,反而能激发人的潜力。",
+    "pinyin": "Shì dàng de yā lì bú shì huài shì, fǎn ér néng jī fā rén de qián lì。",
+    "en": "Moderate pressure isn't bad but can spark one's potential."
+   },
+   {
+    "zh": "他明明很在意,嘴上却装作满不在乎的样子。",
+    "pinyin": "Tā míng míng hěn zài yì, zuǐ shàng què zhuāng zuò mǎn bù zài hū de yàng zi。",
+    "en": "He clearly minds, yet pretends not to care at all."
+   },
+   {
+    "zh": "你越是刻意去讨好,别人反而越不领情。",
+    "pinyin": "Nǐ yuè shì kè yì qù tǎo hǎo, bié rén fǎn ér yuè bù lǐng qíng。",
+    "en": "The more you try to please, the less others appreciate it."
+   },
+   {
+    "zh": "这件事说起来简单,做起来却困难重重。",
+    "pinyin": "Zhè jiàn shì shuō qǐ lái jiǎn dān, zuò qǐ lái què kùn nán chóng chóng。",
+    "en": "It's simple to say but riddled with difficulty to do."
+   },
+   {
+    "zh": "盲目节食不但减不了肥,反而会损害身体健康。",
+    "pinyin": "Máng mù jié shí bù dàn jiǎn bù liǎo féi, fǎn ér huì sǔn hài shēn tǐ jiàn kāng。",
+    "en": "Blind dieting won't slim you but harms your health."
+   },
+   {
+    "zh": "大家都累坏了,他却还是精神抖擞,毫无倦意。",
+    "pinyin": "Dà jiā dōu lèi huài le, tā què hái shì jīng shén dǒu sǒu, háo wú juàn yì。",
+    "en": "All were exhausted, yet he stayed energetic and fresh."
+   },
+   {
+    "zh": "你把话挑明了,反而让彼此都轻松了许多。",
+    "pinyin": "Nǐ bǎ huà tiǎo míng le, fǎn ér ràng bǐ cǐ dōu qīng sōng le xǔ duō。",
+    "en": "Speaking plainly actually eased things for both."
+   },
+   {
+    "zh": "这种花看似娇弱,生命力却异常顽强。",
+    "pinyin": "Zhè zhòng huā kàn shì jiāo ruò, shēng mìng lì què yì cháng wán qiáng。",
+    "en": "The flower looks delicate, yet its vitality is remarkably strong."
+   },
+   {
+    "zh": "他非但没有生气,反而请我们大家吃了顿饭。",
+    "pinyin": "Tā fēi dàn méi yǒu shēng qì, fǎn ér qǐng wǒ men dà jiā chī le dùn fàn。",
+    "en": "Not only wasn't he angry, he even treated us to a meal."
+   },
+   {
+    "zh": "我以为这本书很枯燥,读起来却津津有味。",
+    "pinyin": "Wǒ yǐ wéi zhè běn shū hěn kū zào, dú qǐ lái què jīn jīn yǒu wèi。",
+    "en": "I thought the book dull, yet it was engrossing to read."
+   },
+   {
+    "zh": "越是困难的时候,他反而越显得从容和镇定。",
+    "pinyin": "Yuè shì kùn nán de shí hòu, tā fǎn ér yuè xiǎn de cóng róng hé zhèn dìng。",
+    "en": "The harder the times, the more composed he appeared."
+   }
+  ]
+ },
+ {
+  "id": "g490",
+  "level": 5,
+  "title": "\"根本\" ile \"到底\" farkı",
+  "titleEn": "Comparing \"genben\" and \"daodi\"",
+  "pattern": "根本 (kökten/hiç) / 到底 (bir türlü/sonunda; e nihayet)",
+  "summary": "\"根本\" \"kökten, hiç\" (çoğu olumsuz), \"到底\" \"bir türlü / ne yapıp edip / sonunda\" anlamındadır: 我根本不知道 / 你到底想说什么?",
+  "explanation": "\"根本\" ve \"到底\" belirteç olarak farklı işlevler görür. \"根本\" (gēnběn): \"kökten, temelden, tümüyle, hiç\" anlamıyla bir durumu KESİN biçimde nitelemede kullanılır; özellikle OLUMSUZ cümlelerde \"hiç, asla, en baştan\" vurgusu verir: 我根本不知道这件事 (Bu şeyden hiç haberim yok), 这个问题根本没那么复杂 (Bu sorun hiç de o kadar karmaşık değil), 他根本就没打算来 (En baştan gelmeye hiç niyeti yoktu). Olumlu kullanımda \"kökten, temelden\" (根本改变 = kökten değiştirmek). \"到底\" (dàodǐ): iki temel anlamı vardır. (1) SORUDA sabırsızlık/ısrar \"bir türlü, ne yapıp edip, aslında\": 你到底想说什么? (Sen aslında ne demek istiyorsun?), 这件事到底是谁做的? (Bu işi bir türlü kim yaptı?). (2) BİLDİRMEDE \"sonunda, nihayet, en sonunda\" (= 终于): 努力了这么久,到底成功了 (Bunca çabadan sonra sonunda başardık); ayrıca \"ne de olsa, sonuçta\" (到底是老手,一下就看出来了 = Ne de olsa usta, hemen anladı). Fark: \"根本\" kesinlik/kökenlik (hiç/tümüyle), çoğu zaman olumsuzla; \"到底\" ya soruda ısrar (bir türlü/aslında) ya bildirmede \"sonunda/ne de olsa\". İkisi karışmaz. Türkçedeki \"kökten/hiç (根本)\" ile \"bir türlü/aslında; sonunda/ne de olsa (到底)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "你说的这件事,我事先根本就不知道,是刚刚才听说的。",
+    "pinyin": "Nǐ shuō de zhè jiàn shì, wǒ shì xiān gēn běn jiù bù zhī dào, shì gāng gāng cái tīng shuō de。",
+    "en": "I knew nothing of this beforehand; I just heard of it now."
+   },
+   {
+    "zh": "你到底想说什么,能不能一次性说清楚?",
+    "pinyin": "Nǐ dào dǐ xiǎng shuō shén me, néng bù néng yí cì xìng shuō qīng chǔ?",
+    "en": "What exactly do you want to say? Can you say it clearly at once?"
+   },
+   {
+    "zh": "这个问题其实根本没有你想象的那么难。",
+    "pinyin": "Zhè ge wèn tí qí shí gēn běn méi yǒu nǐ xiǎng xiàng de nà me nán。",
+    "en": "This problem is really not as hard as you imagine."
+   },
+   {
+    "zh": "忙了整整一年,这个项目到底顺利完成了。",
+    "pinyin": "Máng le zhěng zhěng yī nián, zhè ge xiàng mù dào dǐ shùn lì wán chéng le。",
+    "en": "After a whole year's work, the project was finally completed."
+   },
+   {
+    "zh": "他根本就没把这件小事放在心上,你别多想了。",
+    "pinyin": "Tā gēn běn jiù méi bǎ zhè jiàn xiǎo shì fàng zài xīn shàng, nǐ bié duō xiǎng le。",
+    "en": "He never took this trifle to heart at all; don't overthink."
+   },
+   {
+    "zh": "这么晚了他还不回来,到底出了什么事?",
+    "pinyin": "Zhè me wǎn le tā hái bù huí lái, dào dǐ chū le shén me shì?",
+    "en": "It's so late and he's not back — what on earth happened?"
+   },
+   {
+    "zh": "没有调查就没有发言权,他根本不了解真实情况。",
+    "pinyin": "Méi yǒu diào chá jiù méi yǒu fā yán quán, tā gēn běn bù liǎo jiě zhēn shí qíng kuàng。",
+    "en": "Without inquiry there's no say; he knows nothing of the real situation."
+   },
+   {
+    "zh": "到底是经验丰富的老师傅,几下子就把机器修好了。",
+    "pinyin": "Dào dǐ shì jīng yàn fēng fù de lǎo shī fù, jǐ xià zi jiù bǎ jī qì xiū hǎo le。",
+    "en": "A veteran indeed — he fixed the machine in a few moves."
+   },
+   {
+    "zh": "这种谣言根本经不起推敲,稍加分析就露了馅。",
+    "pinyin": "Zhè zhǒng yáo yán gēn běn jīng bù qǐ tuī qiāo, shāo jiā fēn xī jiù lù le xiàn。",
+    "en": "The rumor can't stand scrutiny; a little analysis exposes it."
+   },
+   {
+    "zh": "你到底去还是不去,给个准话,大家都等着呢。",
+    "pinyin": "Nǐ dào dǐ qù hái shì bù qù, gěi gè zhǔn huà, dà jiā dōu děng zhe ne。",
+    "en": "Are you going or not? Give a firm answer; all are waiting."
+   },
+   {
+    "zh": "他嘴上答应了,心里却根本不打算去做。",
+    "pinyin": "Tā zuǐ shàng dā yìng le, xīn lǐ què gēn běn bù dǎ suàn qù zuò。",
+    "en": "He agreed aloud but had no intention of doing it at all."
+   },
+   {
+    "zh": "试了那么多次,他到底还是把这道难题解开了。",
+    "pinyin": "Shì le nà me duō cì, tā dào dǐ hái shì bǎ zhè dào nán tí jiě kāi le。",
+    "en": "After many tries, he finally cracked the tough problem."
+   },
+   {
+    "zh": "这两件事根本没有任何关系,你不要混为一谈。",
+    "pinyin": "Zhè liǎng jiàn shì gēn běn méi yǒu rèn hé guān xì, nǐ bú yào hùn wéi yī tán。",
+    "en": "The two matters are utterly unrelated; don't lump them together."
+   },
+   {
+    "zh": "闹了半天,这件事到底是谁的责任,还是没弄清楚。",
+    "pinyin": "Nào le bàn tiān, zhè jiàn shì dào dǐ shì shéi de zé rèn, hái shì méi nòng qīng chǔ。",
+    "en": "After all the fuss, whose fault it was is still unclear."
+   },
+   {
+    "zh": "凭他现在的能力,根本无法胜任这么重要的岗位。",
+    "pinyin": "Píng tā xiàn zài de néng lì, gēn běn wú fǎ shèng rèn zhè me zhòng yào de gǎng wèi。",
+    "en": "With his current ability, he simply can't fill so key a post."
+   },
+   {
+    "zh": "到底是年轻人,精力就是旺盛,干一天活也不觉得累。",
+    "pinyin": "Dào dǐ shì nián qīng rén, jīng lì jiù shì wàng shèng, gàn yī tiān huó yě bù jué de lèi。",
+    "en": "The young indeed have energy; a day's work doesn't tire them."
+   },
+   {
+    "zh": "这些所谓的传言,根本就是有人凭空捏造出来的。",
+    "pinyin": "Zhè xiē suǒ wèi de chuán yán, gēn běn jiù shì yǒu rén píng kōng niē zào chū lái de。",
+    "en": "These so-called rumors were simply fabricated out of thin air."
+   },
+   {
+    "zh": "你到底有没有认真听我讲,怎么一问三不知?",
+    "pinyin": "Nǐ dào dǐ yǒu méi yǒu rèn zhēn tīng wǒ jiǎng, zěn me yī wèn sān bù zhī?",
+    "en": "Were you even listening? How do you know nothing when asked?"
+   },
+   {
+    "zh": "这点困难对他来说根本不算什么,他早就习惯了。",
+    "pinyin": "Zhè diǎn kùn nán duì tā lái shuō gēn běn bù suàn shén me, tā zǎo jiù xí guàn le。",
+    "en": "This difficulty is nothing to him; he's long used to it."
+   },
+   {
+    "zh": "经过反复的协商,双方到底达成了一致的意见。",
+    "pinyin": "Jīng guò fǎn fù de xié shāng, shuāng fāng dào dǐ dá chéng le yí zhì de yì jiàn。",
+    "en": "After repeated talks, both sides finally reached agreement."
+   },
+   {
+    "zh": "你别装了,你的那点小心思我根本一眼就看穿了。",
+    "pinyin": "Nǐ bié zhuāng le, nǐ de nà diǎn xiǎo xīn sī wǒ gēn běn yī yǎn jiù kàn chuān le。",
+    "en": "Stop pretending; I saw through your little scheme at once."
+   },
+   {
+    "zh": "大家争论了很久,这件事到底该怎么办才好呢?",
+    "pinyin": "Dà jiā zhēng lùn le hěn jiǔ, zhè jiàn shì dào dǐ gāi zěn me bàn cái hǎo ne?",
+    "en": "We argued long — how on earth should this be handled?"
+   },
+   {
+    "zh": "他连门都没进过,对里面的情况根本一无所知。",
+    "pinyin": "Tā lián mén dōu méi jìn guò, duì lǐ miàn de qíng kuàng gēn běn yī wú suǒ zhī。",
+    "en": "He's never even entered; he knows nothing of what's inside."
+   },
+   {
+    "zh": "到底是自己的家乡,一草一木都让他倍感亲切。",
+    "pinyin": "Dào dǐ shì zì jǐ de jiā xiāng, yī cǎo yī mù dōu ràng tā bèi gǎn qīn qiè。",
+    "en": "It's his hometown after all; every plant feels dear to him."
+   },
+   {
+    "zh": "这种方法根本行不通,我们还是另想办法吧。",
+    "pinyin": "Zhè zhǒng fāng fǎ gēn běn háng bù tōng, wǒ men hái shì lìng xiǎng bàn fǎ ba。",
+    "en": "This method simply won't work; let's think of another."
+   }
+  ]
+ },
+ {
+  "id": "g491",
+  "level": 5,
+  "title": "\"根据\" ile \"据\" farkı",
+  "titleEn": "Comparing \"genju\" and \"ju\"",
+  "pattern": "根据 (tam sözcük, dayanak) / 据 (edebî, çoğu \"据说/据报道\")",
+  "summary": "İkisi de \"...-e dayanarak\" demek; \"根据\" tam ve genel, \"据\" edebî ve çoğu zaman kalıplaşmış: 根据规定 / 据说、据报道。",
+  "explanation": "\"根据\" ve \"据\" ikisi de \"...-e dayanarak, ...-e göre\" anlamı taşır; \"据\" aslında \"根据\"nın kısaltılmış, edebî/resmî biçimidir. Farklar. \"根据\" (gēnjù): tam, genel ve serbest kullanımlı bir sözcüktür; hem edat (根据规定/情况/资料) hem de isim (有根据 = dayanağı var, 毫无根据 = tümüyle asılsız) olabilir; konuşma ve yazıda her yerde geçer: 根据天气预报,明天有雨 (Hava tahminine göre yarın yağmur var), 这种说法毫无科学根据 (Bu iddianın hiçbir bilimsel dayanağı yok). \"据\" (jù): daha KISA, edebî/resmî ve çoğu zaman KALIPLAŞMIŞ biçimlerde kullanılır — özellikle bir bilginin KAYNAĞINI belirtirken: 据说 (söylendiğine göre, güya), 据报道 (haberlere göre), 据了解/据悉 (öğrenildiğine göre), 据统计 (istatistiklere göre), 据我所知 (bildiğim kadarıyla), 据专家分析 (uzmanların analizine göre). \"据\" tek başına isim OLAMAZ (\"有据\" tek başına \"dayanağı var\" demez; \"有根据\" denir). Kural: serbest, tam kullanım ve isim işlevi → 根据; kısa, resmî, çoğu zaman kaynak bildiren kalıplar → 据 (据说/据报道/据悉...). Anlamları aynıdır; fark üslup ve kalıptadır. Türkçedeki \"...-e dayanarak/göre (根据)\" ile \"...-e göre, ...-e bakılırsa (据: söylendiğine göre vb.)\" ayrımına denk gelir.",
+  "examples": [
+   {
+    "zh": "根据现有的资料,我们还无法对这件事下最终的结论。",
+    "pinyin": "Gēn jù xiàn yǒu de zī liào, wǒ men hái wú fǎ duì zhè jiàn shì xià zuì zhōng de jié lùn。",
+    "en": "Based on the data we have, we can't yet reach a final conclusion."
+   },
+   {
+    "zh": "据说这座古寺已经有上千年的历史了。",
+    "pinyin": "Jù shuō zhè zuò gǔ sì yǐ jīng yǒu shàng qiān nián de lì shǐ le。",
+    "en": "It's said this old temple is over a thousand years old."
+   },
+   {
+    "zh": "根据双方签订的合同,货物必须在月底之前交付。",
+    "pinyin": "Gēn jù shuāng fāng qiān dìng de hé tóng, huò wù bì xū zài yuè dǐ zhī qián jiāo fù。",
+    "en": "Per the signed contract, the goods must be delivered by month-end."
+   },
+   {
+    "zh": "据报道,这次活动吸引了来自各地的上万名游客。",
+    "pinyin": "Jù bào dào, zhè cì huó dòng xī yǐn le lái zì gè dì de shàng wàn míng yóu kè。",
+    "en": "It's reported the event drew tens of thousands from all over."
+   },
+   {
+    "zh": "这种毫无根据的猜测,只会徒增大家的烦恼。",
+    "pinyin": "Zhè zhǒng háo wú gēn jù de cāi cè, zhǐ huì tú zēng dà jiā de fán nǎo。",
+    "en": "Such baseless speculation only adds to everyone's worry."
+   },
+   {
+    "zh": "据我所知,他这几年一直在国外从事科研工作。",
+    "pinyin": "Jù wǒ suǒ zhī, tā zhè jǐ nián yì zhí zài guó wài cóng shì kē yán gōng zuò。",
+    "en": "As far as I know, he's done research abroad these years."
+   },
+   {
+    "zh": "根据老师的建议,他调整了自己的复习计划。",
+    "pinyin": "Gēn jù lǎo shī de jiàn yì, tā tiáo zhěng le zì jǐ de fù xí jì huà。",
+    "en": "On the teacher's advice, he adjusted his review plan."
+   },
+   {
+    "zh": "据了解,这项新政策将从下个月开始正式实施。",
+    "pinyin": "Jù liǎo jiě, zhè xiàng xīn zhèng cè jiāng cóng xià gè yuè kāi shǐ zhèng shì shí shī。",
+    "en": "It's understood the new policy takes effect next month."
+   },
+   {
+    "zh": "警方根据现场的蛛丝马迹,一步步还原了事情的经过。",
+    "pinyin": "Jǐng fāng gēn jù xiàn chǎng de zhū sī mǎ jì, yí bù bù huán yuán liǎo shì qíng de jīng guò。",
+    "en": "From scene traces, police reconstructed events step by step."
+   },
+   {
+    "zh": "据统计,今年报考这所学校的人数创下了新高。",
+    "pinyin": "Jù tǒng jì, jīn nián bào kǎo zhè suǒ xué xiào de rén shù chuàng xià le xīn gāo。",
+    "en": "By the figures, applicants to this school hit a new high."
+   },
+   {
+    "zh": "你这样说是有根据的吗,还是仅仅凭空猜测?",
+    "pinyin": "Nǐ zhè yàng shuō shì yǒu gēn jù de ma, hái shì jǐn jǐn píng kōng cāi cè?",
+    "en": "Do you have grounds for saying so, or is it mere guessing?"
+   },
+   {
+    "zh": "据专家分析,这种现象在未来还会持续一段时间。",
+    "pinyin": "Jù zhuān jiā fēn xī, zhè zhǒng xiàn xiàng zài wèi lái hái huì chí xù yī duàn shí jiān。",
+    "en": "Experts analyze that the phenomenon will persist for a while."
+   },
+   {
+    "zh": "根据实际情况,我们对原来的方案做了必要的修改。",
+    "pinyin": "Gēn jù shí jì qíng kuàng, wǒ men duì yuán lái de fāng àn zuò le bì yào de xiū gǎi。",
+    "en": "Based on the real situation, we made needed changes to the plan."
+   },
+   {
+    "zh": "据悉,有关部门已经着手调查这起事故的原因。",
+    "pinyin": "Jù xī, yǒu guān bù mén yǐ jīng zhuó shǒu diào chá zhè qǐ shì gù de yuán yīn。",
+    "en": "It's learned the department has begun probing the accident's cause."
+   },
+   {
+    "zh": "这个结论是根据大量实验数据得出来的,十分可靠。",
+    "pinyin": "Zhè ge jié lùn shì gēn jù dà liàng shí yàn shù jù dé chū lái de, shí fēn kě kào。",
+    "en": "The conclusion, drawn from ample data, is quite reliable."
+   },
+   {
+    "zh": "据传,这位老艺人年轻时曾在宫廷里表演过。",
+    "pinyin": "Jù chuán, zhè wèi lǎo yì rén nián qīng shí céng zài gōng tíng lǐ biǎo yǎn guò。",
+    "en": "It's rumored the old artist once performed at court in his youth."
+   },
+   {
+    "zh": "我们应当根据孩子的兴趣,来引导他的学习方向。",
+    "pinyin": "Wǒ men yīng dāng gēn jù hái zi de xìng qù, lái yǐn dǎo tā de xué xí fāng xiàng。",
+    "en": "We should guide a child's learning based on his interests."
+   },
+   {
+    "zh": "据气象部门预测,今年的雨季会来得比往年早一些。",
+    "pinyin": "Jù qì xiàng bù mén yù cè, jīn nián de yǔ jì huì lái de bǐ wǎng nián zǎo yī xiē。",
+    "en": "Meteorologists predict the rainy season will come early this year."
+   },
+   {
+    "zh": "根据规定,未满十八岁的青少年不得进入网吧。",
+    "pinyin": "Gēn jù guī dìng, wèi mǎn shí bā suì de qīng shào nián bù de jìn rù wǎng ba。",
+    "en": "By the rules, minors under eighteen may not enter internet cafés."
+   },
+   {
+    "zh": "据当地居民介绍,这条老街几十年来几乎没什么变化。",
+    "pinyin": "Jù dāng dì jū mín jiè shào, zhè tiáo lǎo jiē jǐ shí nián lái jī hū méi shén me biàn huà。",
+    "en": "Per locals, the old street has barely changed in decades."
+   },
+   {
+    "zh": "这项决定并不是凭空做出的,而是有充分根据的。",
+    "pinyin": "Zhè xiàng jué dìng bìng bú shì píng kōng zuò chū de, ér shì yǒu chōng fèn gēn jù de。",
+    "en": "The decision wasn't made arbitrarily but on ample grounds."
+   },
+   {
+    "zh": "据史料记载,这一带在古代曾是繁华的商业重镇。",
+    "pinyin": "Jù shǐ liào jì zǎi, zhè yī dài zài gǔ dài céng shì fán huá de shāng yè zhòng zhèn。",
+    "en": "Per records, this area was once a thriving commercial hub."
+   },
+   {
+    "zh": "医生会根据你的具体病情,开出相应的药方。",
+    "pinyin": "Yī shēng huì gēn jù nǐ de jù tǐ bìng qíng, kāi chū xiāng yìng de yào fāng。",
+    "en": "The doctor will prescribe based on your specific condition."
+   },
+   {
+    "zh": "据不完全统计,参与这次捐款的人数已经过万。",
+    "pinyin": "Jù bù wán quán tǒng jì, cān yù zhè cì juān kuǎn de rén shù yǐ jīng guò wàn。",
+    "en": "By rough count, over ten thousand joined this donation."
+   },
+   {
+    "zh": "我们做任何判断,都应该根据事实,而不是凭感觉。",
+    "pinyin": "Wǒ men zuò rèn hé pàn duàn, dōu yīng gāi gēn jù shì shí, ér bú shì píng gǎn jué。",
+    "en": "Any judgment should rest on facts, not on feelings."
+   }
+  ]
  }
 ]

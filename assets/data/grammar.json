@@ -45150,5 +45150,685 @@
     "en": "As I came to know him better, I appreciated his character more."
    }
   ]
+ },
+ {
+  "id": "g333",
+  "level": 4,
+  "title": "\"自从\" ile \"...-den beri\"",
+  "titleEn": "Expressing \"ever since\" with \"zicong\"",
+  "pattern": "自从 + Geçmiş Olay，...",
+  "summary": "\"自从\" (zìcóng) geçmişteki bir başlangıç noktasından beri geçen süreyi bildirir: 自从他走了以后,家里冷清了很多 = O gittiğinden beri ev çok sessizleşti.",
+  "explanation": "\"自从\" (kısaca \"从\") geçmişteki bir BAŞLANGIÇ NOKTASINI/olayını işaret eder ve o andan itibaren süregelen bir durumu/değişimi anlatır: \"...-den beri, ...-dığından bu yana\". Cümlenin başında gelir ve genelde bir sonuç/değişim cümlesiyle tamamlanır: 自从上了大学,他就很少回家了 (Üniversiteye başladığından beri eve pek gelmez oldu), 自从那次谈话以后,我们的关系改善了很多 (O konuşmadan sonra ilişkimiz epey düzeldi). \"自从\"dan sonra çoğu zaman \"...以后/以来\" gelebilir (自从...以后). \"以来\" ile yakındır ama \"自从\" özellikle bir OLAYI başlangıç noktası olarak vurgular ve ardından bir değişim gelir. Yalnız GEÇMİŞ bir başlangıç için kullanılır (gelecek için değil). Türkçedeki \"...-den beri, ...-dığından bu yana, ...-dıktan sonra\" ifadelerine denk gelir; geçmiş bir noktadan başlayan süregelen bir durumu anlatmanın yoludur.",
+  "examples": [
+   {
+    "zh": "自从搬到这个小区,我们和邻居相处得非常融洽。",
+    "pinyin": "Zì cóng bān dào zhè ge xiǎo qū, wǒ men hé lín jū xiāng chǔ de fēi cháng róng qià。",
+    "en": "Ever since moving here, we've gotten on very well with the neighbors."
+   },
+   {
+    "zh": "自从他戒了烟以后,身体明显比以前好了。",
+    "pinyin": "Zì cóng tā jiè le yān yǐ hòu, shēn tǐ míng xiǎn bǐ yǐ qián hǎo le。",
+    "en": "Ever since he quit smoking, his health has clearly improved."
+   },
+   {
+    "zh": "自从上了大学,他就很少有时间回家看父母了。",
+    "pinyin": "Zì cóng shàng le dà xué, tā jiù hěn shǎo yǒu shí jiān huí jiā kàn fù mǔ le。",
+    "en": "Ever since starting university, he's rarely had time to visit his parents."
+   },
+   {
+    "zh": "自从那次生病以后,他变得更加注重养生了。",
+    "pinyin": "Zì cóng nà cì shēng bìng yǐ hòu, tā biàn de gèng jiā zhù zhòng yǎng shēng le。",
+    "en": "Ever since that illness, he's paid much more attention to his health."
+   },
+   {
+    "zh": "自从孩子出生,这个家里就充满了欢声笑语。",
+    "pinyin": "Zì cóng hái zi chū shēng, zhè ge jiā lǐ jiù chōng mǎn le huān shēng xiào yǔ。",
+    "en": "Ever since the child was born, the home has been full of laughter."
+   },
+   {
+    "zh": "自从换了新工作,他每天都过得很充实。",
+    "pinyin": "Zì cóng huàn le xīn gōng zuò, tā měi tiān dōu guò de hěn chōng shí。",
+    "en": "Ever since changing jobs, he's spent every day fulfilled."
+   },
+   {
+    "zh": "自从那次误会以后,他们就很少来往了。",
+    "pinyin": "Zì cóng nà cì wù huì yǐ hòu, tā men jiù hěn shǎo lái wǎng le。",
+    "en": "Ever since that misunderstanding, they've rarely been in touch."
+   },
+   {
+    "zh": "自从开始坚持跑步,我的睡眠质量好了很多。",
+    "pinyin": "Zì cóng kāi shǐ jiān chí pǎo bù, wǒ de shuì mián zhì liàng hǎo le hěn duō。",
+    "en": "Ever since I started running regularly, my sleep has much improved."
+   },
+   {
+    "zh": "自从他当上了队长,整个团队的士气都提高了。",
+    "pinyin": "Zì cóng tā dāng shàng le duì zhǎng, zhěng gè tuán duì dī shì qì dōu tí gāo le。",
+    "en": "Ever since he became captain, the whole team's morale has risen."
+   },
+   {
+    "zh": "自从爷爷去世后,那间老屋就一直空着。",
+    "pinyin": "Zì cóng yé yé qù shì hòu, nà jiān lǎo wū jiù yì zhí kōng zhe。",
+    "en": "Ever since grandpa passed, that old house has stood empty."
+   },
+   {
+    "zh": "自从看了那本书,他对历史产生了浓厚的兴趣。",
+    "pinyin": "Zì cóng kàn le nà běn shū, tā duì lì shǐ chǎn shēng le nóng hòu de xìng qù。",
+    "en": "Ever since reading that book, he's developed a keen interest in history."
+   },
+   {
+    "zh": "自从下了那场大雪,山路就一直没法通行。",
+    "pinyin": "Zì cóng xià le nà chǎng dà xuě, shān lù jiù yì zhí méi fǎ tōng xíng。",
+    "en": "Ever since that heavy snow, the mountain road has been impassable."
+   },
+   {
+    "zh": "自从女儿去外地上学,妈妈就常常一个人发呆。",
+    "pinyin": "Zì cóng nǚ ér qù wài dì shàng xué, mā mā jiù cháng cháng yí gè rén fā dāi。",
+    "en": "Ever since the daughter left to study away, mom often sits lost in thought."
+   },
+   {
+    "zh": "自从用了这个方法,他的学习效率提高了不少。",
+    "pinyin": "Zì cóng yòng le zhè ge fāng fǎ, tā de xué xí xiào lǜ tí gāo le bù shǎo。",
+    "en": "Ever since using this method, his study efficiency has risen a lot."
+   },
+   {
+    "zh": "自从公司搬了新址,上班就方便多了。",
+    "pinyin": "Zì cóng gōng sī bān le xīn zhǐ, shàng bān jiù fāng biàn duō le。",
+    "en": "Ever since the company moved, commuting has been much easier."
+   },
+   {
+    "zh": "自从那次旅行,我们就成了无话不谈的好朋友。",
+    "pinyin": "Zì cóng nà cì lǚ xíng, wǒ men jiù chéng liǎo wú huà bù tán de hǎo péng yǒu。",
+    "en": "Ever since that trip, we've been close friends who tell each other everything."
+   },
+   {
+    "zh": "自从养了这只狗,他每天都坚持出去散步。",
+    "pinyin": "Zì cóng yǎng le zhè zhǐ gǒu, tā měi tiān dōu jiān chí chū qù sàn bù。",
+    "en": "Ever since getting this dog, he goes out for a walk every day."
+   },
+   {
+    "zh": "自从退休以后,他把大部分时间都花在了种花上。",
+    "pinyin": "Zì cóng tuì xiū yǐ hòu, tā bǎ dà bù fèn shí jiān dōu huā zài le zhòng huā shàng。",
+    "en": "Ever since retiring, he's spent most of his time growing flowers."
+   },
+   {
+    "zh": "自从那件事发生后,他就变得沉默寡言了。",
+    "pinyin": "Zì cóng nà jiàn shì fā shēng hòu, tā jiù biàn de chén mò guǎ yán le。",
+    "en": "Ever since that happened, he's become quiet and withdrawn."
+   },
+   {
+    "zh": "自从学会了做饭,他就很少在外面吃了。",
+    "pinyin": "Zì cóng xué huì le zuò fàn, tā jiù hěn shǎo zài wài miàn chī le。",
+    "en": "Ever since learning to cook, he rarely eats out."
+   },
+   {
+    "zh": "自从有了手机导航,我就再也没迷过路。",
+    "pinyin": "Zì cóng yǒu le shǒu jī dǎo háng, wǒ jiù zài yě méi mí guò lù。",
+    "en": "Ever since getting phone navigation, I've never gotten lost again."
+   },
+   {
+    "zh": "自从他来了以后,办公室的气氛活跃了许多。",
+    "pinyin": "Zì cóng tā lái le yǐ hòu, bàn gōng shì de qì fēn huó yuè le xǔ duō。",
+    "en": "Ever since he arrived, the office atmosphere has become much livelier."
+   },
+   {
+    "zh": "自从那年分别,我们就再也没有见过面。",
+    "pinyin": "Zì cóng nà nián fèn bié, wǒ men jiù zài yě méi yǒu jiàn guò miàn。",
+    "en": "Ever since parting that year, we've never met again."
+   },
+   {
+    "zh": "自从坚持早睡早起,他的精神状态好多了。",
+    "pinyin": "Zì cóng jiān chí zǎo shuì zǎo qǐ, tā de jīng shén zhuàng tài hǎo duō le。",
+    "en": "Ever since keeping early hours, his state of mind has much improved."
+   },
+   {
+    "zh": "自从下决心改变,他的生活一天比一天好。",
+    "pinyin": "Zì cóng xià jué xīn gǎi biàn, tā de shēng huó yī tiān bǐ yī tiān hǎo。",
+    "en": "Ever since resolving to change, his life has gotten better each day."
+   }
+  ]
+ },
+ {
+  "id": "g334",
+  "level": 4,
+  "title": "\"对...而言\" ile \"...-e göre, ... açısından\"",
+  "titleEn": "Expressing \"for…\" with \"eryan\"",
+  "pattern": "对 + Kişi / Grup + 而言，...",
+  "summary": "\"对...而言\" bir bakış açısını/ölçütü tanıtır: 对我而言,家人最重要 = Bana göre en önemlisi ailedir.",
+  "explanation": "\"对...而言\" (ya da \"就...而言\") bir konuyu belli bir KİŞİNİN AÇISINDAN ya da belli bir KAPSAM/ölçüt bakımından ele alan resmî bir kalıptır: \"...-e göre, ... açısından, ... bakımından, ... için\". 对我而言,这次经历意义重大 (Bana göre bu deneyim çok anlamlı), 对刚入门的人而言,这个概念有点儿难 (Yeni başlayanlar açısından bu kavram biraz zor), 就目前的情况而言,我们还需要更多时间 (Şu andaki duruma bakılırsa daha çok zaman lazım). Cümlenin başında bir perspektif/çerçeve kurar ve ardından o açıdan bir değerlendirme gelir. \"对...来说\" (bkz. ayrı konu) ile aynı işlevi görür ama \"而言\" daha RESMÎ/yazılıdır. \"就...而言\" ise bir kapsamla sınırlama yapar (... bakımından). Türkçedeki \"...-e göre, ... açısından, ... bakımından, ... için\" ifadelerine denk gelir; \"对...来说\"ın resmî/yazılı eşdeğeridir ve bir konuyu belli bir açıdan çerçevelemenin yoludur.",
+  "examples": [
+   {
+    "zh": "对我而言,能陪在家人身边就是最大的幸福。",
+    "pinyin": "Duì wǒ ér yán, néng péi zài jiā rén shēn biān jiù shì zuì dà de xìng fú。",
+    "en": "For me, being with my family is the greatest happiness."
+   },
+   {
+    "zh": "对刚开始学习汉语的人而言,声调是最大的难点。",
+    "pinyin": "Duì gāng kāi shǐ xué xí hàn yǔ de rén ér yán, shēng diào shì zuì dà de nán diǎn。",
+    "en": "For beginners of Chinese, tones are the biggest hurdle."
+   },
+   {
+    "zh": "就目前的情况而言,我们暂时还不能做出决定。",
+    "pinyin": "Jiù mù qián de qíng kuàng ér yán, wǒ men zàn shí hái bù néng zuò chū jué dìng。",
+    "en": "As things stand, we can't make a decision for now."
+   },
+   {
+    "zh": "对一个母亲而言,孩子的健康永远是第一位的。",
+    "pinyin": "Duì yí gè mǔ qīn ér yán, hái zi de jiàn kāng yǒng yuǎn shì dì yī wèi de。",
+    "en": "For a mother, the child's health always comes first."
+   },
+   {
+    "zh": "对上班族而言,周末的休息时间显得格外宝贵。",
+    "pinyin": "Duì shàng bān zú ér yán, zhōu mò de xiū xī shí jiān xiǎn de gé wài bǎo guì。",
+    "en": "For office workers, weekend rest is especially precious."
+   },
+   {
+    "zh": "就质量而言,这个牌子的产品确实值得信赖。",
+    "pinyin": "Jiù zhì liàng ér yán, zhè ge pái zi de chǎn pǐn què shí zhí de xìn lài。",
+    "en": "In terms of quality, this brand's products are truly reliable."
+   },
+   {
+    "zh": "对他而言,这次失败反而成了一次宝贵的经验。",
+    "pinyin": "Duì tā ér yán, zhè cì shī bài fǎn ér chéng le yī cì bǎo guì de jīng yàn。",
+    "en": "For him, this failure became a valuable experience instead."
+   },
+   {
+    "zh": "对普通消费者而言,价格往往是最重要的考虑因素。",
+    "pinyin": "Duì pǔ tōng xiāo fèi zhě ér yán, jià gé wǎng wǎng shì zuì zhòng yào de kǎo lǜ yīn sù。",
+    "en": "For ordinary consumers, price is often the biggest concern."
+   },
+   {
+    "zh": "就长远而言,坚持读书对一个人的影响是巨大的。",
+    "pinyin": "Jiù cháng yuǎn ér yán, jiān chí dú shū duì yí gè rén de yǐng xiǎng shì jù dà de。",
+    "en": "In the long run, persistent reading has a huge impact on a person."
+   },
+   {
+    "zh": "对老年人而言,居住环境的安静和便利尤为重要。",
+    "pinyin": "Duì lǎo nián rén ér yán, jū zhù huán jìng de ān jìng hé biàn lì yóu wèi zhòng yào。",
+    "en": "For the elderly, a quiet and convenient living environment matters most."
+   },
+   {
+    "zh": "对我们团队而言,这次合作是一个难得的机会。",
+    "pinyin": "Duì wǒ men tuán duì ér yán, zhè cì hé zuò shì yí gè nán de de jī huì。",
+    "en": "For our team, this collaboration is a rare opportunity."
+   },
+   {
+    "zh": "就我个人而言,我更倾向于选择稳妥的方案。",
+    "pinyin": "Jiù wǒ gè rén ér yán, wǒ gèng qīng xiàng yú xuǎn zé wěn tuǒ de fāng àn。",
+    "en": "Personally speaking, I lean toward the safer option."
+   },
+   {
+    "zh": "对孩子而言,父母的陪伴比任何礼物都重要。",
+    "pinyin": "Duì hái zi ér yán, fù mǔ de péi bàn bǐ rèn hé lǐ wù dōu zhòng yào。",
+    "en": "For children, their parents' company matters more than any gift."
+   },
+   {
+    "zh": "就目前的技术水平而言,这个目标还很难实现。",
+    "pinyin": "Jiù mù qián de jì shù shuǐ píng ér yán, zhè ge mù biāo hái hěn nán shí xiàn。",
+    "en": "Given the current level of technology, this goal is still hard to reach."
+   },
+   {
+    "zh": "对留学生而言,适应新的文化环境需要一个过程。",
+    "pinyin": "Duì liú xué shēng ér yán, shì yìng xīn de wén huà huán jìng xū yào yí gè guò chéng。",
+    "en": "For international students, adapting to a new culture takes time."
+   },
+   {
+    "zh": "对企业而言,诚信是长久发展的根本。",
+    "pinyin": "Duì qǐ yè ér yán, chéng xìn shì cháng jiǔ fā zhǎn de gēn běn。",
+    "en": "For a business, integrity is the foundation of lasting growth."
+   },
+   {
+    "zh": "就眼前的利益而言,这样做似乎划算,可长远看却未必。",
+    "pinyin": "Jiù yǎn qián de lì yì ér yán, zhè yàng zuò sì hū huá suàn, kě cháng yuǎn kàn què wèi bì。",
+    "en": "In terms of immediate gain it seems worthwhile, but not in the long run."
+   },
+   {
+    "zh": "对他这个年纪的人而言,能有这样的成就实属不易。",
+    "pinyin": "Duì tā zhè ge nián jì de rén ér yán, néng yǒu zhè yàng de chéng jiù shí shǔ bù yì。",
+    "en": "For someone his age, such achievement is truly no easy feat."
+   },
+   {
+    "zh": "对我们这些外地人而言,融入这座城市并不容易。",
+    "pinyin": "Duì wǒ men zhè xiē wài dì rén ér yán, róng rù zhè zuò chéng shì bìng bù róng yì。",
+    "en": "For us outsiders, fitting into this city isn't easy."
+   },
+   {
+    "zh": "就健康而言,规律的作息比什么补品都管用。",
+    "pinyin": "Jiù jiàn kāng ér yán, guī lǜ de zuò xī bǐ shén me bǔ pǐn dōu guǎn yòng。",
+    "en": "In terms of health, a regular routine beats any supplement."
+   },
+   {
+    "zh": "对一个刚创业的人而言,资金和人脉都很关键。",
+    "pinyin": "Duì yí gè gāng chuàng yè de rén ér yán, zī jīn hé rén mài dōu hěn guān jiàn。",
+    "en": "For someone just starting a business, funds and connections are both key."
+   },
+   {
+    "zh": "对读者而言,一本好书能带来长久的启发。",
+    "pinyin": "Duì dú zhě ér yán, yī běn hǎo shū néng dài lái cháng jiǔ de qǐ fā。",
+    "en": "For readers, a good book can bring lasting inspiration."
+   },
+   {
+    "zh": "就这件事而言,我觉得他的处理方式非常妥当。",
+    "pinyin": "Jiù zhè jiàn shì ér yán, wǒ jué de tā de chǔ lǐ fāng shì fēi cháng tuǒ dàng。",
+    "en": "As for this matter, I think he handled it very properly."
+   },
+   {
+    "zh": "对我们全家而言,那次搬迁是一个重要的转折点。",
+    "pinyin": "Duì wǒ men quán jiā ér yán, nà cì bān qiān shì yí gè zhòng yào de zhuǎn zhé diǎn。",
+    "en": "For our whole family, that move was an important turning point."
+   },
+   {
+    "zh": "对追求梦想的年轻人而言,失败并不可怕。",
+    "pinyin": "Duì zhuī qiú mèng xiǎng de nián qīng rén ér yán, shī bài bìng bù kě pà。",
+    "en": "For young people chasing dreams, failure is nothing to fear."
+   }
+  ]
+ },
+ {
+  "id": "g335",
+  "level": 4,
+  "title": "\"(包括)...在内\" ile \"... dahil\"",
+  "titleEn": "Expressing \"including\" with \"zainei\"",
+  "pattern": "(包括) ... 在内，...",
+  "summary": "\"(包括)...在内\" bir öğeyi kapsama dahil eder: 包括我在内,一共有十个人 = Ben dahil toplam on kişiyiz.",
+  "explanation": "\"(包括)...在内\" bir öğeyi/kişiyi bir bütüne/sayıma DAHİL ettiğini vurgular: \"... dahil, ...-i de içine alarak, ... da sayılırsa\". Kalıp: (包括) + öğe + 在内. 包括他在内,我们组一共有五个人 (Onu da dahil edersek grubumuz beş kişi), 这几天,连周末在内都在加班 (Bu günlerde hafta sonu dahil sürekli mesaideyiz), 所有费用,包括税在内,一共两千块 (Vergi dahil bütün masraf iki bin lira). \"包括\" (dahil etmek) genelde başta gelir, \"在内\" (içinde) ise dahil edilen öğenin sonunda; ikisi çerçeveyi tamamlar (\"包括\" bazen düşebilir). Bir sayımın ya da kümenin sınırlarını netleştirir; özellikle beklenmedik/vurgulanmak istenen bir öğenin de kapsandığını belirtmede kullanılır. Karşıtı \"除...以外\" (... hariç). Türkçedeki \"... dahil, ...-i de içine alarak, ... da sayılırsa, ... buna dahil\" ifadelerine denk gelir; bir öğeyi kapsama dahil etmenin resmî yoludur.",
+  "examples": [
+   {
+    "zh": "包括我在内,一共有十二个人报名参加了这次活动。",
+    "pinyin": "Bāo kuò wǒ zài nèi, yī gòng yǒu shí èr gè rén bào míng cān jiā le zhè cì huó dòng。",
+    "en": "Including me, twelve people signed up for this event."
+   },
+   {
+    "zh": "这个价格包括税和服务费在内,不会再有别的费用。",
+    "pinyin": "Zhè ge jià gé bāo kuò shuì hé fú wù fèi zài nèi, bú huì zài yǒu bié de fèi yòng。",
+    "en": "This price includes tax and service fee; there are no other charges."
+   },
+   {
+    "zh": "这几天,连周末在内,他几乎每天都在加班。",
+    "pinyin": "Zhè jǐ tiān, lián zhōu mò zài nèi, tā jī hū měi tiān dōu zài jiā bān。",
+    "en": "These days, weekends included, he's been working overtime almost daily."
+   },
+   {
+    "zh": "包括校长在内,所有老师都参加了这次培训。",
+    "pinyin": "Bāo kuò xiào zhǎng zài nèi, suǒ yǒu lǎo shī dōu cān jiā le zhè cì péi xùn。",
+    "en": "Including the principal, all teachers attended this training."
+   },
+   {
+    "zh": "这套家具,包括安装在内,一共花了八千多块。",
+    "pinyin": "Zhè tào jiā jù, bāo kuò ān zhuāng zài nèi, yī gòng huā le bā qiān duō kuài。",
+    "en": "This furniture, installation included, cost over eight thousand yuan."
+   },
+   {
+    "zh": "我们全组,包括新来的实习生在内,都很努力。",
+    "pinyin": "Wǒ men quán zǔ, bāo kuò xīn lái de shí xí shēng zài nèi, dōu hěn nǔ lì。",
+    "en": "Our whole group, including the new intern, works hard."
+   },
+   {
+    "zh": "这次旅行的费用,包括机票和住宿在内,并不算贵。",
+    "pinyin": "Zhè cì lǚ xíng de fèi yòng, bāo kuò jī piào hé zhù sù zài nèi, bìng bù suàn guì。",
+    "en": "The trip's cost, flights and lodging included, isn't expensive."
+   },
+   {
+    "zh": "包括他自己在内,谁也没料到会有这样的结果。",
+    "pinyin": "Bāo kuò tā zì jǐ zài nèi, shuí yě méi liào dào huì yǒu zhè yàng de jié guǒ。",
+    "en": "Including himself, no one expected such a result."
+   },
+   {
+    "zh": "这份合同的条款,包括违约责任在内,都要仔细看清楚。",
+    "pinyin": "Zhè fèn hé tóng de tiáo kuǎn, bāo kuò wéi yuē zé rèn zài nèi, dōu yào zǐ xì kàn qīng chǔ。",
+    "en": "The contract's terms, breach liability included, must be read carefully."
+   },
+   {
+    "zh": "全公司,包括保洁和保安在内,都收到了年终奖。",
+    "pinyin": "Quán gōng sī, bāo kuò bǎo jié hé bǎo ān zài nèi, dōu shōu dào le nián zhōng jiǎng。",
+    "en": "The whole company, cleaners and guards included, got a year-end bonus."
+   },
+   {
+    "zh": "包括这次在内,他已经连续三年获得这个奖项了。",
+    "pinyin": "Bāo kuò zhè cì zài nèi, tā yǐ jīng lián xù sān nián huò de zhè ge jiǎng xiàng le。",
+    "en": "Including this time, he's won the award three years running."
+   },
+   {
+    "zh": "这些菜,包括那道汤在内,都是她一个人做的。",
+    "pinyin": "Zhè xiē cài, bāo kuò nà dào tāng zài nèi, dōu shì tā yí gè rén zuò de。",
+    "en": "These dishes, that soup included, were all made by her alone."
+   },
+   {
+    "zh": "班里所有同学,包括平时最调皮的在内,都很认真。",
+    "pinyin": "Bān lǐ suǒ yǒu tóng xué, bāo kuò píng shí zuì tiáo pí de zài nèi, dōu hěn rèn zhēn。",
+    "en": "All classmates, even the naughtiest, were very serious."
+   },
+   {
+    "zh": "这次的损失,包括时间和精力在内,是很难估量的。",
+    "pinyin": "Zhè cì de sǔn shī, bāo kuò shí jiān hé jīng lì zài nèi, shì hěn nán gū liáng de。",
+    "en": "This loss, time and energy included, is hard to measure."
+   },
+   {
+    "zh": "我们一家人,包括年迈的爷爷在内,都去看了那场演出。",
+    "pinyin": "Wǒ men yī jiā rén, bāo kuò nián mài de yé yé zài nèi, dōu qù kàn le nà chǎng yǎn chū。",
+    "en": "Our whole family, even elderly grandpa, went to see the show."
+   },
+   {
+    "zh": "这个方案的所有细节,包括预算在内,都已经确定了。",
+    "pinyin": "Zhè ge fāng àn de suǒ yǒu xì jié, bāo kuò yù suàn zài nèi, dōu yǐ jīng què dìng le。",
+    "en": "All the plan's details, budget included, have been finalized."
+   },
+   {
+    "zh": "包括押金在内,你一共需要付三个月的房租。",
+    "pinyin": "Bāo kuò yā jīn zài nèi, nǐ yī gòng xū yào fù sān gè yuè de fáng zū。",
+    "en": "Including the deposit, you need to pay three months' rent in total."
+   },
+   {
+    "zh": "在场的每个人,包括他的对手在内,都为他鼓掌。",
+    "pinyin": "Zài chǎng de měi gè rén, bāo kuò tā de duì shǒu zài nèi, dōu wèi tā gǔ zhǎng。",
+    "en": "Everyone present, even his rival, applauded him."
+   },
+   {
+    "zh": "这些书,包括那几本很旧的在内,他都舍不得扔。",
+    "pinyin": "Zhè xiē shū, bāo kuò nà jǐ běn hěn jiù de zài nèi, tā dōu shě bù de rēng。",
+    "en": "These books, even the very old ones, he can't bear to throw away."
+   },
+   {
+    "zh": "这次会议,包括线上参会的人在内,一共有上百人。",
+    "pinyin": "Zhè cì huì yì, bāo kuò xiàn shàng cān huì de rén zài nèi, yī gòng yǒu shàng bǎi rén。",
+    "en": "This meeting, online attendees included, had over a hundred people."
+   },
+   {
+    "zh": "我们几个,包括平时不爱运动的小李在内,都报名跑步了。",
+    "pinyin": "Wǒ men jǐ gè, bāo kuò píng shí bù ài yùn dòng de xiǎo lǐ zài nèi, dōu bào míng pǎo bù le。",
+    "en": "A few of us, even Xiao Li who dislikes sports, signed up to run."
+   },
+   {
+    "zh": "这道题的解法,包括老师提到的在内,一共有三种。",
+    "pinyin": "Zhè dào tí de xiè fǎ, bāo kuò lǎo shī tí dào de zài nèi, yī gòng yǒu sān zhǒng。",
+    "en": "This problem's solutions, the one the teacher mentioned included, number three."
+   },
+   {
+    "zh": "整个流程,包括审核在内,大概需要一个星期。",
+    "pinyin": "Zhěng gè liú chéng, bāo kuò shěn hé zài nèi, dà gài xū yào yí gè xīng qī。",
+    "en": "The whole process, review included, takes about a week."
+   },
+   {
+    "zh": "我们要为所有人,包括那些默默付出的人在内,鼓掌致敬。",
+    "pinyin": "Wǒ men yào wèi suǒ yǒu rén, bāo kuò nà xiē mò mò fù chū de rén zài nèi, gǔ zhǎng zhì jìng。",
+    "en": "We salute everyone, including those who quietly give."
+   },
+   {
+    "zh": "这批货,包括运费在内,总共不到一万块。",
+    "pinyin": "Zhè pī huò, bāo kuò yùn fèi zài nèi, zǒng gòng bú dào yī wàn kuài。",
+    "en": "This batch of goods, shipping included, totals under ten thousand yuan."
+   }
+  ]
+ },
+ {
+  "id": "g336",
+  "level": 4,
+  "title": "\"凭\" ile \"...-e dayanarak, ... sayesinde\"",
+  "titleEn": "Expressing \"on the basis of\" with \"ping\"",
+  "pattern": "凭 + Dayanak，...",
+  "summary": "\"凭\" (píng) bir eylemin dayandığı temeli/kanıtı bildirir: 凭他的能力,一定能做好 = Yeteneğine dayanarak (onunla) mutlaka başarır.",
+  "explanation": "\"凭\" bir eylemin/sonucun neye DAYANDIĞINI, hangi temele/kanıta/araca yaslandığını bildirir: \"...-e dayanarak, ... sayesinde, ... ile, ...-e göre, ...-e güvenerek\". 他凭自己的努力考上了大学 (Kendi çabasıyla üniversiteyi kazandı), 凭这张票可以免费入场 (Bu biletle ücretsiz girilebilir), 你凭什么这么说? (Neye dayanarak böyle söylüyorsun?). Bir başarının/hakkın dayanağını (yetenek, çaba, belge, kanıt) gösterir. \"凭\" ayrıca \"凭什么\" (neye dayanarak / ne hakla) biçiminde bir itiraz/sorgu da kurar. \"靠\" (...-e dayanmak/güvenmek) ile yakındır ama \"凭\" daha çok bir DAYANAK/kanıt/nitelik sunma anlamı taşır ve resmî/yazılıdır. \"凭着\" biçimi de kullanılır. Türkçedeki \"...-e dayanarak, ... sayesinde, ... ile, ...-e göre, ne hakla/neye dayanarak\" ifadelerine denk gelir; bir şeyin dayanağını belirtmenin yoludur.",
+  "examples": [
+   {
+    "zh": "他凭着自己多年的努力,终于实现了创业的梦想。",
+    "pinyin": "Tā píng zhe zì jǐ duō nián de nǔ lì, zhōng yú shí xiàn le chuàng yè de mèng xiǎng。",
+    "en": "Through years of his own effort, he finally realized his business dream."
+   },
+   {
+    "zh": "凭这张会员卡,你可以享受九折优惠。",
+    "pinyin": "Píng zhè zhāng huì yuán kǎ, nǐ kě yǐ xiǎng shòu jiǔ zhé yōu huì。",
+    "en": "With this membership card, you can get a ten percent discount."
+   },
+   {
+    "zh": "你凭什么这么肯定他一定会来?",
+    "pinyin": "Nǐ píng shén me zhè me kěn dìng tā yí dìng huì lái?",
+    "en": "On what basis are you so sure he'll come?"
+   },
+   {
+    "zh": "凭他的经验和能力,处理这种事根本不在话下。",
+    "pinyin": "Píng tā de jīng yàn hé néng lì, chǔ lǐ zhè zhǒng shì gēn běn bù zài huà xià。",
+    "en": "With his experience and ability, handling this is no problem at all."
+   },
+   {
+    "zh": "请凭有效证件到前台办理入住手续。",
+    "pinyin": "Qǐng píng yǒu xiào zhèng jiàn dào qián tái bàn lǐ rù zhù shǒu xù。",
+    "en": "Please check in at the front desk with valid ID."
+   },
+   {
+    "zh": "他不靠家里,完全是凭自己的本事闯出来的。",
+    "pinyin": "Tā bù kào jiā lǐ, wán quán shì píng zì jǐ de běn shì chuǎng chū lái de。",
+    "en": "He didn't rely on family; he made it entirely on his own ability."
+   },
+   {
+    "zh": "凭着一股不服输的劲头,他战胜了一个又一个困难。",
+    "pinyin": "Píng zhe yī gǔ bù fú shū de jìn tóu, tā zhàn shèng le yí gè yòu yí gè kùn nán。",
+    "en": "With an unyielding spirit, he overcame one difficulty after another."
+   },
+   {
+    "zh": "光凭一时的热情是不够的,还得有长久的坚持。",
+    "pinyin": "Guāng píng yī shí de rè qíng shì bù gòu de, hái de yǒu cháng jiǔ de jiān chí。",
+    "en": "Momentary enthusiasm alone isn't enough; you need lasting persistence."
+   },
+   {
+    "zh": "你凭印象说话可不行,得拿出确凿的证据来。",
+    "pinyin": "Nǐ píng yìn xiàng shuō huà kě bù xíng, de ná chū què záo de zhèng jù lái。",
+    "en": "Speaking from impression won't do; you need solid evidence."
+   },
+   {
+    "zh": "凭这几年积累的口碑,这家小店的生意越来越好。",
+    "pinyin": "Píng zhè jǐ nián jī lěi de kǒu bēi, zhè jiā xiǎo diàn de shēng yì yuè lái yuè hǎo。",
+    "en": "On its reputation built over years, this shop's business keeps growing."
+   },
+   {
+    "zh": "他凭着惊人的记忆力,把整本书都背了下来。",
+    "pinyin": "Tā píng zhe jīng rén de jì yì lì, bǎ zhěng běn shū dōu bèi le xià lái。",
+    "en": "With his amazing memory, he memorized the whole book."
+   },
+   {
+    "zh": "请凭票入场,没有票的观众恕不接待。",
+    "pinyin": "Qǐng píng piào rù chǎng, méi yǒu piào de guān zhòng shù bù jiē dài。",
+    "en": "Please enter with a ticket; those without won't be admitted."
+   },
+   {
+    "zh": "做生意讲究的是诚信,不能光凭花言巧语。",
+    "pinyin": "Zuò shēng yì jiǎng jiū de shì chéng xìn, bù néng guāng píng huā yán qiǎo yǔ。",
+    "en": "Business is about integrity, not just sweet talk."
+   },
+   {
+    "zh": "凭我对他的了解,他绝不会做出这种事。",
+    "pinyin": "Píng wǒ duì tā de liǎo jiě, tā jué bú huì zuò chū zhè zhǒng shì。",
+    "en": "Based on what I know of him, he'd never do such a thing."
+   },
+   {
+    "zh": "他凭一手好厨艺,在这条街上小有名气。",
+    "pinyin": "Tā píng yī shǒu hǎo chú yì, zài zhè tiáo jiē shàng xiǎo yǒu míng qì。",
+    "en": "With his fine cooking, he's gained some fame on this street."
+   },
+   {
+    "zh": "凭着顽强的毅力,老人终于战胜了病魔。",
+    "pinyin": "Píng zhe wán qiáng de yì lì, lǎo rén zhōng yú zhàn shèng le bìng mó。",
+    "en": "With tenacious willpower, the old man finally overcame his illness."
+   },
+   {
+    "zh": "你不能凭空猜测,得根据事实来判断。",
+    "pinyin": "Nǐ bù néng píng kōng cāi cè, de gēn jù shì shí lái pàn duàn。",
+    "en": "You can't guess out of thin air; judge based on facts."
+   },
+   {
+    "zh": "凭这份成绩单,他顺利地申请到了奖学金。",
+    "pinyin": "Píng zhè fèn chéng jì dān, tā shùn lì de shēn qǐng dào le jiǎng xué jīn。",
+    "en": "With this transcript, he successfully applied for a scholarship."
+   },
+   {
+    "zh": "他凭着一腔热血,投身到了公益事业当中。",
+    "pinyin": "Tā píng zhe yī qiāng rè xuè, tóu shēn dào le gōng yì shì yè dāng zhōng。",
+    "en": "With wholehearted passion, he devoted himself to charity work."
+   },
+   {
+    "zh": "光凭运气是走不远的,实力才是最可靠的。",
+    "pinyin": "Guāng píng yùn qì shì zǒu bù yuǎn de, shí lì cái shì zuì kě kào de。",
+    "en": "Luck alone won't take you far; real ability is most reliable."
+   },
+   {
+    "zh": "你凭什么断定这件事一定会失败呢?",
+    "pinyin": "Nǐ píng shén me duàn dìng zhè jiàn shì yí dìng huì shī bài ne?",
+    "en": "On what basis do you conclude this is bound to fail?"
+   },
+   {
+    "zh": "凭着这些年建立起来的信任,大家都愿意跟他合作。",
+    "pinyin": "Píng zhe zhè xiē nián jiàn lì qǐ lái de xìn rèn, dà jiā dōu yuàn yì gēn tā hé zuò。",
+    "en": "On the trust built over years, everyone's willing to work with him."
+   },
+   {
+    "zh": "他做事从来不凭感觉,而是靠周密的分析。",
+    "pinyin": "Tā zuò shì cóng lái bù píng gǎn jué, ér shì kào zhōu mì de fēn xī。",
+    "en": "He never acts on feeling, but on careful analysis."
+   },
+   {
+    "zh": "请凭此单据到指定窗口领取您的物品。",
+    "pinyin": "Qǐng píng cǐ dān jù dào zhǐ dìng chuāng kǒu lǐng qǔ nín de wù pǐn。",
+    "en": "Please collect your items at the designated window with this receipt."
+   },
+   {
+    "zh": "凭着一双勤劳的手,他把日子过得越来越红火。",
+    "pinyin": "Píng zhe yī shuāng qín láo de shǒu, tā bǎ rì zi guò de yuè lái yuè hóng huǒ。",
+    "en": "With his own hardworking hands, he made his life more and more prosperous."
+   }
+  ]
+ },
+ {
+  "id": "g337",
+  "level": 4,
+  "title": "\"至于\" ile \"...-e gelince; ...-e varacak kadar\"",
+  "titleEn": "Expressing \"with regards to\" with \"zhiyu\"",
+  "pattern": "至于 + Konu，Yorum",
+  "summary": "\"至于\" (zhìyú) yeni bir konuya geçer: \"...-e gelince\": 至于费用,你不用担心 = Masrafa gelince, sen merak etme. Ayrıca \"(不)至于\" = \"...-e varacak kadar (değil)\".",
+  "explanation": "\"至于\" iki işlev taşır: (1) KONU GEÇİŞİ — bir konudan başka bir konuya geçerken \"...-e gelince, ...-e gelirsek, ... konusuna gelince\" der; cümle başında yeni bir tema tanıtır: 这件事我来处理,至于费用问题,咱们回头再谈 (Bu işi ben hallederim, masraf meselesine gelince sonra konuşuruz), 他很聪明,至于能不能成功,就要看他的努力了 (Çok akıllı; başarıp başaramamasına gelince, bu onun çabasına bağlı). (2) DERECE — \"(不)至于\" biçiminde bir şeyin belli bir aşırı noktaya varıp varmadığını belirtir: 他不至于连这点道理都不懂 (Bu kadarını anlamayacak kadar da değil), 至于吗?为这点小事就生这么大气 (Bu kadar da olur mu? Şu ufacık şeye bu kadar kızılır mı?). İlk anlamda konu bağlacı, ikincisinde derece belirtir. Türkçedeki \"...-e gelince, ... konusuna gelince\" (konu) ve \"...-e varacak kadar (değil), o kadar da olmaz\" (derece) ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这件事我会尽力去办,至于结果如何,现在还很难说。",
+    "pinyin": "Zhè jiàn shì wǒ huì jìn lì qù bàn, zhì yú jié guǒ rú hé, xiàn zài hái hěn nán shuō。",
+    "en": "I'll do my best with this; as for the outcome, it's hard to say now."
+   },
+   {
+    "zh": "你先把身体养好,至于工作,等病好了再考虑也不迟。",
+    "pinyin": "Nǐ xiān bǎ shēn tǐ yǎng hǎo, zhì yú gōng zuò, děng bìng hǎo le zài kǎo lǜ yě bù chí。",
+    "en": "Get your health back first; as for work, consider it after you recover."
+   },
+   {
+    "zh": "我们负责设计,至于施工,会交给专业的团队。",
+    "pinyin": "Wǒ men fù zé shè jì, zhì yú shī gōng, huì jiāo gěi zhuān yè de tuán duì。",
+    "en": "We handle the design; as for construction, a professional team will do it."
+   },
+   {
+    "zh": "他确实很有才华,至于能不能坚持下去,还得看他自己。",
+    "pinyin": "Tā què shí hěn yǒu cái huá, zhì yú néng bù néng jiān chí xià qù, hái de kàn tā zì jǐ。",
+    "en": "He is indeed talented; whether he can persist is up to him."
+   },
+   {
+    "zh": "这些钱先用来交房租,至于剩下的,留着应急吧。",
+    "pinyin": "Zhè xiē qián xiān yòng lái jiāo fáng zū, zhì yú shèng xià de, liú zhe yìng jí ba。",
+    "en": "Use this money for rent first; as for the rest, keep it for emergencies."
+   },
+   {
+    "zh": "你别把事情想得太严重,不至于那么糟糕。",
+    "pinyin": "Nǐ bié bǎ shì qíng xiǎng de tài yán zhòng, bù zhì yú nà me zāo gāo。",
+    "en": "Don't think it so serious; it's not that bad."
+   },
+   {
+    "zh": "他为人一向可靠,不至于连这点小事都办不好。",
+    "pinyin": "Tā wéi rén yí xiàng kě kào, bù zhì yú lián zhè diǎn xiǎo shì dōu bàn bù hǎo。",
+    "en": "He's always reliable; he wouldn't fail even at such a small task."
+   },
+   {
+    "zh": "至于吗?不就是一次小小的失误,用得着这么自责吗?",
+    "pinyin": "Zhì yú ma? bù jiù shì yī cì xiǎo xiǎo de shī wù, yòng de zhe zhè me zì zé ma?",
+    "en": "Come on — it's just a small slip; is such self-blame necessary?"
+   },
+   {
+    "zh": "我先把大概的情况说一下,至于细节,咱们边做边商量。",
+    "pinyin": "Wǒ xiān bǎ dà gài de qíng kuàng shuō yī xià, zhì yú xì jié, zán men biān zuò biān shāng liáng。",
+    "en": "Let me outline the situation; details we'll discuss as we go."
+   },
+   {
+    "zh": "这道菜的味道还不错,至于摆盘,就有点儿马虎了。",
+    "pinyin": "Zhè dào cài de wèi dào hái bú cuò, zhì yú bǎi pán, jiù yǒu diǎn ér mǎ hǔ le。",
+    "en": "This dish tastes fine; as for plating, it was a bit careless."
+   },
+   {
+    "zh": "他只是有点儿累,还不至于要去医院。",
+    "pinyin": "Tā zhǐ shì yǒu diǎn ér lèi, hái bù zhì yú yào qù yī yuàn。",
+    "en": "He's just a bit tired; it's not so bad as to need a hospital."
+   },
+   {
+    "zh": "你先选好日子,至于地点,我来帮你安排。",
+    "pinyin": "Nǐ xiān xuǎn hǎo rì zi, zhì yú dì diǎn, wǒ lái bāng nǐ ān pái。",
+    "en": "Pick the date first; as for the venue, I'll arrange it for you."
+   },
+   {
+    "zh": "大家的热情很高,至于能筹到多少钱,还很难预料。",
+    "pinyin": "Dà jiā de rè qíng hěn gāo, zhì yú néng chóu dào duō shǎo qián, hái hěn nán yù liào。",
+    "en": "Everyone's enthusiastic; how much money can be raised is hard to predict."
+   },
+   {
+    "zh": "这点小误会而已,不至于影响你们多年的友谊。",
+    "pinyin": "Zhè diǎn xiǎo wù huì ér yǐ, bù zhì yú yǐng xiǎng nǐ men duō nián de yǒu yì。",
+    "en": "It's just a small misunderstanding; it won't affect your long friendship."
+   },
+   {
+    "zh": "他表现得很出色,至于最后能否获奖,就看评委的了。",
+    "pinyin": "Tā biǎo xiàn de hěn chū sè, zhì yú zuì hòu néng fǒu huò jiǎng, jiù kàn píng wěi de le。",
+    "en": "He performed excellently; whether he wins is up to the judges."
+   },
+   {
+    "zh": "你先把要点记下来,至于怎么展开,回去慢慢想。",
+    "pinyin": "Nǐ xiān bǎ yào diǎn jì xià lái, zhì yú zěn me zhǎn kāi, huí qù màn màn xiǎng。",
+    "en": "Note the key points first; how to expand them, think over at home."
+   },
+   {
+    "zh": "再忙也得吃饭啊,不至于连饭都顾不上吃吧。",
+    "pinyin": "Zài máng yě de chī fàn a, bù zhì yú lián fàn dōu gù bù shàng chī ba。",
+    "en": "However busy, you must eat; surely not too busy even for a meal."
+   },
+   {
+    "zh": "这次先派几个人过去,至于其他人,视情况再定。",
+    "pinyin": "Zhè cì xiān pài jǐ gè rén guò qù, zhì yú qí tā rén, shì qíng kuàng zài dìng。",
+    "en": "Send a few people over first; as for the others, decide as needed."
+   },
+   {
+    "zh": "他不过是开个玩笑,你不至于当真吧?",
+    "pinyin": "Tā bù guò shì kāi gè wán xiào, nǐ bù zhì yú dàng zhēn ba?",
+    "en": "He was just joking; surely you didn't take it seriously?"
+   },
+   {
+    "zh": "产品的质量我们能保证,至于销量,还要看市场反应。",
+    "pinyin": "Chǎn pǐn de zhì liàng wǒ men néng bǎo zhèng, zhì yú xiāo liàng, hái yào kàn shì chǎng fǎn yìng。",
+    "en": "We can guarantee quality; as for sales, it depends on the market."
+   },
+   {
+    "zh": "这点儿路你走得动,还不至于要打车吧。",
+    "pinyin": "Zhè diǎn ér lù nǐ zǒu de dòng, hái bù zhì yú yào dǎ chē ba。",
+    "en": "You can walk this short distance; surely no need for a taxi."
+   },
+   {
+    "zh": "先解决温饱问题,至于更高的追求,以后再说。",
+    "pinyin": "Xiān jiě jué wēn bǎo wèn tí, zhì yú gèng gāo de zhuī qiú, yǐ hòu zài shuō。",
+    "en": "First solve the basic needs; higher pursuits can wait."
+   },
+   {
+    "zh": "他只是一时糊涂,不至于故意害你。",
+    "pinyin": "Tā zhǐ shì yī shí hú tú, bù zhì yú gù yì hài nǐ。",
+    "en": "He was just muddled for a moment; he wouldn't harm you on purpose."
+   },
+   {
+    "zh": "这个方案的大方向没问题,至于具体安排,再慢慢完善。",
+    "pinyin": "Zhè ge fāng àn de dà fāng xiàng méi wèn tí, zhì yú jù tǐ ān pái, zài màn màn wán shàn。",
+    "en": "The plan's direction is fine; the specifics can be refined gradually."
+   },
+   {
+    "zh": "为这么点儿小事至于闹得不可开交吗?大家冷静一下。",
+    "pinyin": "Wèi zhè me diǎn er xiǎo shì zhì yú nào de bù kě kāi jiāo ma? dà jiā lěng jìng yī xià。",
+    "en": "Is such a trifle worth a big fuss? Everyone calm down."
+   }
+  ]
  }
 ]

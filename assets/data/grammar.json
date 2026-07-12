@@ -48550,5 +48550,685 @@
     "en": "Though the journey was hard, the scenery made it all worth it."
    }
   ]
+ },
+ {
+  "id": "g358",
+  "level": 4,
+  "title": "\"害得\" ile olumsuz etki bildirme",
+  "titleEn": "Indicating negative impact with \"haide\"",
+  "pattern": "Neden + 害得 + Kişi + Kötü Sonuç",
+  "summary": "\"害得\" bir şeyin/kişinin yol açtığı olumsuz sonucu bildirir: 都怪你,害得我迟到了 = Hep senin yüzünden, geç kaldım.",
+  "explanation": "\"害得\" bir kişinin ya da durumun BAŞKASINA olumsuz/istenmeyen bir sonuç yaşattığını, sıkıntıya soktuğunu bildirir: \"...-in yüzünden ..., ...-e ...-e yol açtı, ... ...-i ... ettirdi\". Kalıp: neden + 害得 + etkilenen kişi + kötü sonuç. 都怪这场大雨,害得我们全身都湿透了 (Hep bu yağmurun yüzünden sırılsıklam olduk), 他一句话,害得我尴尬了好半天 (Onun bir lafı beni epeyce mahcup etti), 闹钟没响,害得我上班迟到了 (Çalar saat çalmayınca işe geç kaldım). \"害得\" her zaman OLUMSUZ bir sonuç bildirir; suçlama ya da sitem tonu taşır. Öznesi bir kişi, bir söz ya da bir olay olabilir; ardından etkilenen kişi ve o kişinin başına gelen kötü durum gelir. Çoğu zaman başında \"都怪/就怪\" (hep ... yüzünden) bulunur. \"弄得/搞得\" ile yakındır ama \"害得\" özellikle ZARAR/sıkıntı verme anlamını ve sitemi vurgular. Türkçedeki \"...-in yüzünden, ... ...-e yol açtı, ... ...-i ... etti/soktu\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "都怪这场突如其来的大雨,害得我们全身都湿透了。",
+    "pinyin": "Dōu guài zhè chǎng tū rú qí lái de dà yǔ, hài de wǒ men quán shēn dōu shī tòu le。",
+    "en": "Blame this sudden downpour; it left us soaked to the skin."
+   },
+   {
+    "zh": "他随口的一句玩笑,害得我尴尬了好半天。",
+    "pinyin": "Tā suí kǒu de yī jù wán xiào, hài de wǒ gān gà le hǎo bàn tiān。",
+    "en": "His offhand joke left me embarrassed for quite a while."
+   },
+   {
+    "zh": "闹钟没响,害得我上班迟到,被领导批评了一顿。",
+    "pinyin": "Nào zhōng méi xiǎng, hài de wǒ shàng bān chí dào, bèi lǐng dǎo pī píng le yī dùn。",
+    "en": "The alarm didn't ring, making me late and scolded by the boss."
+   },
+   {
+    "zh": "邻居装修的噪音,害得我一整天都没能好好休息。",
+    "pinyin": "Lín jū zhuāng xiū de zào yīn, hài de wǒ yī zhěng tiān dōu méi néng hǎo hǎo xiū xī。",
+    "en": "The neighbor's renovation noise kept me from resting all day."
+   },
+   {
+    "zh": "你把地址记错了,害得我们在路上多绕了半小时。",
+    "pinyin": "Nǐ bǎ dì zhǐ jì cuò le, hài de wǒ men zài lù shàng duō rào le bàn xiǎo shí。",
+    "en": "You got the address wrong, making us circle for half an hour."
+   },
+   {
+    "zh": "这条假消息,害得不少人白白担心了一整晚。",
+    "pinyin": "Zhè tiáo jiǎ xiāo xī, hài de bù shǎo rén bái bái dān xīn le yī zhěng wǎn。",
+    "en": "This fake news made many people worry all night for nothing."
+   },
+   {
+    "zh": "他临时变卦,害得整个计划都得推倒重来。",
+    "pinyin": "Tā lín shí biàn guà, hài de zhěng gè jì huà dōu de tuī dào zhòng lái。",
+    "en": "His last-minute change forced the whole plan to be redone."
+   },
+   {
+    "zh": "孩子的一场大病,害得全家人都跟着提心吊胆。",
+    "pinyin": "Hái zi de yī cháng dà bìng, hài de quán jiā rén dōu gēn zhe tí xīn diào dǎn。",
+    "en": "The child's serious illness kept the whole family on edge."
+   },
+   {
+    "zh": "停电停了大半天,害得冰箱里的东西全坏了。",
+    "pinyin": "Tíng diàn tíng le dà bàn tiān, hài de bīng xiāng lǐ de dōng xī quán huài le。",
+    "en": "The long power outage spoiled everything in the fridge."
+   },
+   {
+    "zh": "他忘了带钥匙,害得一家人在门外等了好久。",
+    "pinyin": "Tā wàng le dài yào shi, hài de yī jiā rén zài mén wài děng le hǎo jiǔ。",
+    "en": "He forgot the key, leaving the family waiting outside for long."
+   },
+   {
+    "zh": "这场误会,害得两个多年的好朋友差点绝交。",
+    "pinyin": "Zhè chǎng wù huì, hài de liǎng gè duō nián de hǎo péng yǒu chà diǎn jué jiāo。",
+    "en": "This misunderstanding nearly ended a years-long friendship."
+   },
+   {
+    "zh": "路上突然堵车,害得我们错过了那班早班车。",
+    "pinyin": "Lù shàng tū rán dǔ chē, hài de wǒ men cuò guò le nà bān zǎo bān chē。",
+    "en": "A sudden traffic jam made us miss the early bus."
+   },
+   {
+    "zh": "你说话不算数,害得大家白等了你一个下午。",
+    "pinyin": "Nǐ shuō huà bù suàn shù, hài de dà jiā bái děng le nǐ yí gè xià wǔ。",
+    "en": "Your broken word left everyone waiting a whole afternoon."
+   },
+   {
+    "zh": "那本书一直没还,害得图书馆一次次地催我。",
+    "pinyin": "Nà běn shū yì zhí méi hái, hài de tú shū guǎn yī cì cì de cuī wǒ。",
+    "en": "The unreturned book kept the library reminding me again and again."
+   },
+   {
+    "zh": "他粗心填错了表格,害得我们又跑了一趟。",
+    "pinyin": "Tā cū xīn tián cuò le biǎo gé, hài de wǒ men yòu pǎo le yī tàng。",
+    "en": "His careless form error made us take another trip."
+   },
+   {
+    "zh": "这几天连续加班,害得他累得连饭都不想吃。",
+    "pinyin": "Zhè jǐ tiān lián xù jiā bān, hài de tā lèi de lián fàn dōu bù xiǎng chī。",
+    "en": "Days of overtime left him too tired to even want to eat."
+   },
+   {
+    "zh": "小狗把花盆打翻了,害得满地都是泥土。",
+    "pinyin": "Xiǎo gǒu bǎ huā pén dǎ fān le, hài de mǎn de dōu shì ní tǔ。",
+    "en": "The puppy knocked over the pot, leaving dirt all over the floor."
+   },
+   {
+    "zh": "信号突然断了,害得我们的通话没能说完。",
+    "pinyin": "Xìn hào tū rán duàn le, hài de wǒ men de tōng huà méi néng shuō wán。",
+    "en": "The signal cut out, leaving our call unfinished."
+   },
+   {
+    "zh": "他一时冲动说的气话,害得母亲伤心了好几天。",
+    "pinyin": "Tā yī shí chōng dòng shuō de qì huà, hài de mǔ qīn shāng xīn le hǎo jǐ tiān。",
+    "en": "His impulsive angry words hurt his mother for days."
+   },
+   {
+    "zh": "这场大雪,害得许多回家过节的人被困在了车站。",
+    "pinyin": "Zhè chǎng dà xuě, hài de xǔ duō huí jiā guò jié de rén bèi kùn zài le chē zhàn。",
+    "en": "This heavy snow stranded many holiday travelers at the station."
+   },
+   {
+    "zh": "你忘了关水龙头,害得厨房淹了一地的水。",
+    "pinyin": "Nǐ wàng le guān shuǐ lóng tóu, hài de chú fáng yān le yī de de shuǐ。",
+    "en": "You left the tap on, flooding the kitchen floor."
+   },
+   {
+    "zh": "他中途掉链子,害得整个团队的努力都白费了。",
+    "pinyin": "Tā zhōng tú diào liàn zi, hài de zhěng gè tuán duì de nǔ lì dōu bái fèi le。",
+    "en": "His dropping the ball wasted the whole team's effort."
+   },
+   {
+    "zh": "这道题印错了,害得不少考生浪费了宝贵的时间。",
+    "pinyin": "Zhè dào tí yìn cuò le, hài de bù shǎo kǎo shēng làng fèi le bǎo guì de shí jiān。",
+    "en": "The misprinted question wasted many test-takers' precious time."
+   },
+   {
+    "zh": "他一句无心的话,害得气氛一下子变得很紧张。",
+    "pinyin": "Tā yī jù wú xīn de huà, hài de qì fēn yī xià zi biàn de hěn jǐn zhāng。",
+    "en": "His careless remark suddenly made the mood tense."
+   },
+   {
+    "zh": "车子半路抛锚,害得我们在荒郊野外等了两个钟头。",
+    "pinyin": "Chē zi bàn lù pāo máo, hài de wǒ men zài huāng jiāo yě wài děng le liǎng gè zhōng tóu。",
+    "en": "The car broke down, stranding us in the wilds for two hours."
+   }
+  ]
+ },
+ {
+  "id": "g359",
+  "level": 4,
+  "title": "\"受\" ile edilgen fiiller",
+  "titleEn": "Passive verbs with \"shou\"",
+  "pattern": "Özne + 受 (到) + Ad (etki/muamele)",
+  "summary": "\"受\" bir öznenin bir etkiye/muameleye maruz kaldığını bildirir: 他受到了大家的欢迎 = Herkesin ilgisini gördü / karşılandı.",
+  "explanation": "\"受\" (shòu) bir öznenin bir etkiye, muameleye ya da eyleme MARUZ kaldığını, onu \"aldığını/gördüğünü\" bildirerek edilgen bir anlam kurar: \"...-e uğramak, ... görmek, ...-e maruz kalmak, ... almak\". İki biçimi vardır. (1) 受 + iki heceli ad: 受教育 (eğitim görmek), 受影响 (etkilenmek), 受伤 (yaralanmak), 受欢迎 (rağbet görmek), 受批评 (eleştiri almak). (2) 受到 + ad (daha vurgulu): 他受到了大家的热烈欢迎 (Herkesin sıcak karşılamasını gördü), 这件事受到了广泛的关注 (Bu olay geniş ilgi gördü), 农作物受到了霜冻的严重影响 (Ekinler dondan ciddi etkilendi). \"受\" edilgenliği bir AD (etki/muamele) aracılığıyla kurar — \"被\" gibi doğrudan bir fiil almaz. Genellikle soyut etkiler, muameleler ya da duygusal/toplumsal durumlar için kullanılır ve hem olumlu (受欢迎, 受表扬) hem olumsuz (受批评, 受伤, 受骗) olabilir. Türkçedeki \"...-e uğramak, ... görmek, ...-e maruz kalmak, ... almak\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这位年轻的老师因为讲课生动,很受学生们的欢迎。",
+    "pinyin": "Zhè wèi nián qīng de lǎo shī yīn wèi jiǎng kè shēng dòng, hěn shòu xué shēng men de huān yíng。",
+    "en": "This young teacher, with lively lessons, is popular with students."
+   },
+   {
+    "zh": "这次意外让好几名工人受了不同程度的伤。",
+    "pinyin": "Zhè cì yì wài ràng hǎo jǐ míng gōng rén shòu le bù tóng chéng dù de shāng。",
+    "en": "The accident left several workers injured to varying degrees."
+   },
+   {
+    "zh": "他的观点新颖独到,受到了在场专家的一致好评。",
+    "pinyin": "Tā de guān diǎn xīn yǐng dú dào, shòu dào le zài chǎng zhuān jiā de yí zhì hǎo píng。",
+    "en": "His fresh, original views won unanimous praise from the experts."
+   },
+   {
+    "zh": "今年的收成受到了持续干旱的严重影响。",
+    "pinyin": "Jīn nián de shōu chéng shòu dào le chí xù gān hàn de yán zhòng yǐng xiǎng。",
+    "en": "This year's harvest was severely affected by prolonged drought."
+   },
+   {
+    "zh": "由于工作出色,他多次受到公司的表扬和奖励。",
+    "pinyin": "Yóu yú gōng zuò chū sè, tā duō cì shòu dào gōng sī de biǎo yáng hé jiǎng lì。",
+    "en": "For his fine work, he was repeatedly praised and rewarded."
+   },
+   {
+    "zh": "这些流浪的小动物一直受到爱心人士的照顾。",
+    "pinyin": "Zhè xiē liú làng de xiǎo dòng wù yì zhí shòu dào ài xīn rén shì de zhào gù。",
+    "en": "These stray animals have long been cared for by kind people."
+   },
+   {
+    "zh": "老人一时轻信,受了骗子的骗,损失了不少钱。",
+    "pinyin": "Lǎo rén yī shí qīng xìn, shòu le piàn zi de piàn, sǔn shī le bù shǎo qián。",
+    "en": "The old man was fooled by a swindler and lost much money."
+   },
+   {
+    "zh": "这项技术因为实用可靠,越来越受到市场的青睐。",
+    "pinyin": "Zhè xiàng jì shù yīn wèi shí yòng kě kào, yuè lái yuè shòu dào shì chǎng de qīng lài。",
+    "en": "Practical and reliable, this tech is increasingly favored by the market."
+   },
+   {
+    "zh": "他从小就受到良好的家庭教育,举止十分得体。",
+    "pinyin": "Tā cóng xiǎo jiù shòu dào liáng hǎo de jiā tíng jiào yù, jǔ zhǐ shí fēn de tǐ。",
+    "en": "Raised with good family education, he behaves impeccably."
+   },
+   {
+    "zh": "这部纪录片一经播出,便受到了观众的广泛关注。",
+    "pinyin": "Zhè bù jì lù piàn yī jīng bō chū, biàn shòu dào le guān zhòng de guǎng fàn guān zhù。",
+    "en": "Once aired, the documentary drew wide public attention."
+   },
+   {
+    "zh": "因为一时疏忽,他受到了上级严厉的批评。",
+    "pinyin": "Yīn wèi yì shí shū hū, tā shòu dào le shàng jí yán lì de pī píng。",
+    "en": "For a momentary lapse, he was sternly criticized by his superior."
+   },
+   {
+    "zh": "这座古城的建筑风格,明显受到了外来文化的影响。",
+    "pinyin": "Zhè zuò gǔ chéng de jiàn zhù fēng gé, míng xiǎn shòu dào le wài lái wén huà de yǐng xiǎng。",
+    "en": "The old city's architecture is clearly influenced by foreign culture."
+   },
+   {
+    "zh": "在这次比赛中表现出色的选手都受到了热烈的祝贺。",
+    "pinyin": "Zài zhè cì bǐ sài zhōng biǎo xiàn chū sè de xuǎn shǒu dōu shòu dào le rè liè de zhù hè。",
+    "en": "The standout players in the match all received warm congratulations."
+   },
+   {
+    "zh": "那位见义勇为的青年受到了社会各界的高度赞扬。",
+    "pinyin": "Nà wèi jiàn yì yǒng wéi de qīng nián shòu dào le shè huì gè jiè de gāo dù zàn yáng。",
+    "en": "The brave young man won high praise from all walks of society."
+   },
+   {
+    "zh": "由于长期的不良习惯,他的健康受到了很大的损害。",
+    "pinyin": "Yóu yú cháng qī de bù liáng xí guàn, tā de jiàn kāng shòu dào le hěn dà de sǔn hài。",
+    "en": "Long bad habits did great harm to his health."
+   },
+   {
+    "zh": "这项政策一出台,就受到了广大群众的热烈拥护。",
+    "pinyin": "Zhè xiàng zhèng cè yī chū tái, jiù shòu dào le guǎng dà qún zhòng de rè liè yōng hù。",
+    "en": "Once issued, the policy won warm support from the public."
+   },
+   {
+    "zh": "小树苗在寒流中受了冻,好几棵都没能挺过来。",
+    "pinyin": "Xiǎo shù miáo zài hán liú zhōng shòu le dòng, hǎo jǐ kē dōu méi néng tǐng guò lái。",
+    "en": "The saplings got frostbitten in the cold snap; several didn't survive."
+   },
+   {
+    "zh": "他为人正直,处处受人尊敬,大家都愿意亲近他。",
+    "pinyin": "Tā wéi rén zhèng zhí, chù chù shòu rén zūn jìng, dà jiā dōu yuàn yì qīn jìn tā。",
+    "en": "Upright in character, he's respected everywhere and easy to befriend."
+   },
+   {
+    "zh": "这次改革让当地的经济发展受到了明显的推动。",
+    "pinyin": "Zhè cì gǎi gé ràng dāng dì de jīng jì fā zhǎn shòu dào le míng xiǎn de tuī dòng。",
+    "en": "The reform gave clear impetus to the local economy."
+   },
+   {
+    "zh": "那些无辜的孩子在战乱中受到了难以想象的伤害。",
+    "pinyin": "Nà xiē wú gū de hái zi zài zhàn luàn zhōng shòu dào le nán yǐ xiǎng xiàng de shāng hài。",
+    "en": "The innocent children suffered unimaginable harm in the war."
+   },
+   {
+    "zh": "他的努力终于得到了回报,能力受到了大家的认可。",
+    "pinyin": "Tā de nǔ lì zhōng yú dé dào le huí bào, néng lì shòu dào le dà jiā de rèn kě。",
+    "en": "His effort finally paid off; his ability won everyone's recognition."
+   },
+   {
+    "zh": "由于连日的暴雨,沿岸的许多村庄都受了灾。",
+    "pinyin": "Yóu yú lián rì de bào yǔ, yán àn de xǔ duō cūn zhuāng dōu shòu le zāi。",
+    "en": "Days of heavy rain brought disaster to many riverside villages."
+   },
+   {
+    "zh": "这位作家的作品深受年轻读者的喜爱。",
+    "pinyin": "Zhè wèi zuò jiā de zuò pǐn shēn shòu nián qīng dú zhě de xǐ ài。",
+    "en": "This writer's works are deeply loved by young readers."
+   },
+   {
+    "zh": "在他最困难的时候,受到了许多陌生人的帮助。",
+    "pinyin": "Zài tā zuì kùn nán de shí hòu, shòu dào le xǔ duō mò shēng rén de bāng zhù。",
+    "en": "In his hardest times, he received help from many strangers."
+   },
+   {
+    "zh": "这项发明因为方便实用,很快就受到了人们的追捧。",
+    "pinyin": "Zhè xiàng fā míng yīn wèi fāng biàn shí yòng, hěn kuài jiù shòu dào le rén men de zhuī pěng。",
+    "en": "Convenient and practical, this invention was quickly sought after."
+   }
+  ]
+ },
+ {
+  "id": "g360",
+  "level": 4,
+  "title": "\"着\" ile süregelen / eş zamanlı eylem",
+  "titleEn": "Using \"zhe\" when \"verbing away\"",
+  "pattern": "Fiil 1 + 着 + Fiil 2 / Fiil + 着 + (durum)",
+  "summary": "\"着\" bir eylemin sürdüğünü ya da başka bir eyleme eşlik ettiğini bildirir: 他笑着说 = Gülerek söyledi; 门开着 = Kapı açık duruyor.",
+  "explanation": "\"着\" (zhe) bir eylemin ya da durumun SÜRDÜĞÜNÜ / devam ettiğini gösterir. İki temel kullanımı vardır. (1) Bir DURUMUN sürmesi: 门开着呢 (Kapı açık [duruyor]), 墙上挂着一幅画 (Duvarda bir resim asılı), 他手里拿着一本书 (Elinde bir kitap tutuyor). (2) İki eylemi birleştirip birincisinin İKİNCİYE EŞLİK ETTİĞİNİ, ikincinin \"...-erek/...-arak\" yapıldığını bildirmek: 他笑着对我说 (Bana gülerek dedi), 大家站着聊天 (Herkes ayakta durup sohbet ediyor), 她哼着歌走进了厨房 (Bir şarkı mırıldanarak mutfağa girdi), 老师指着黑板讲解 (Öğretmen tahtayı göstererek anlatıyor). Bu ikinci kullanımda ilk fiil + 着 asıl eyleme eşlik eden tarzı/durumu belirtir. \"V着V着\" biçimi ise bir eylem sürerken başka bir şeyin olduğunu anlatır: 说着说着他就哭了 (Konuşurken bir anda ağladı). Türkçedeki \"...-erek/...-arak\", \"...-e ...-e\" ulaç eklerine ve \"... hâlde/durumda\" anlamına denk gelir; sürekliliği ve eş zamanlılığı bildirmenin yoludur.",
+  "examples": [
+   {
+    "zh": "他笑着对我说,一切都会好起来的,让我别担心。",
+    "pinyin": "Tā xiào zhe duì wǒ shuō, yī qiè dū huì hǎo qǐ lái de, ràng wǒ bié dān xīn。",
+    "en": "He said to me with a smile that all would be fine, not to worry."
+   },
+   {
+    "zh": "奶奶哼着一首古老的歌谣,慢慢地摇着手中的蒲扇。",
+    "pinyin": "Nǎi nǎi hēng zhe yī shǒu gǔ lǎo de gē yáo, màn màn de yáo zhuó shǒu zhōng de pú shàn。",
+    "en": "Grandma hummed an old tune, slowly waving her palm-leaf fan."
+   },
+   {
+    "zh": "孩子们围着篝火,唱着歌,跳着舞,玩得不亦乐乎。",
+    "pinyin": "Hái zi men wéi zhe gōu huǒ, chàng zhe gē, tiào zhe wǔ, wán de bù yì lè hū。",
+    "en": "The children circled the bonfire, singing and dancing merrily."
+   },
+   {
+    "zh": "他低着头,红着脸,半天说不出一句完整的话。",
+    "pinyin": "Tā dī zhe tóu, hóng zhe liǎn, bàn tiān shuō bù chū yī jù wán zhěng de huà。",
+    "en": "Head down and face red, he couldn't get out a full sentence."
+   },
+   {
+    "zh": "客厅的墙上挂着一幅山水画,窗台上摆着几盆花。",
+    "pinyin": "Kè tīng de qiáng shàng guà zhe yī fú shān shuǐ huà, chuāng tái shàng bǎi zhe jǐ pén huā。",
+    "en": "A landscape hangs on the wall; potted flowers sit on the sill."
+   },
+   {
+    "zh": "大家静静地坐着,听着老人讲述那段难忘的往事。",
+    "pinyin": "Dà jiā jìng jìng de zuò zhe, tīng zhe lǎo rén jiǎng shù nà duàn nán wàng de wǎng shì。",
+    "en": "Everyone sat quietly, listening to the old man's unforgettable tale."
+   },
+   {
+    "zh": "她一边走着,一边看着手机,差点撞上路边的电线杆。",
+    "pinyin": "Tā yī biān zǒu zhe, yī biān kàn zhuó shǒu jī, chà diǎn zhuàng shàng lù biān de diàn xiàn gān。",
+    "en": "Walking while staring at her phone, she nearly hit a pole."
+   },
+   {
+    "zh": "说着说着,他的眼眶就红了,声音也哽咽了起来。",
+    "pinyin": "Shuō zhe shuō zhe, tā de yǎn kuàng jiù hóng le, shēng yīn yě gěng yè le qǐ lái。",
+    "en": "As he spoke on, his eyes reddened and his voice choked up."
+   },
+   {
+    "zh": "他背着沉重的行李,踏着夜色,独自走在回家的路上。",
+    "pinyin": "Tā bèi zhe chén zhòng de xíng lǐ, tà zhe yè sè, dú zì zǒu zài huí jiā de lù shàng。",
+    "en": "Bearing heavy luggage under the night sky, he walked home alone."
+   },
+   {
+    "zh": "小猫趴在窗台上,眯着眼睛,享受着温暖的阳光。",
+    "pinyin": "Xiǎo māo pā zài chuāng tái shàng, mī zhuó yǎn jīng, xiǎng shòu zhe wēn nuǎn de yáng guāng。",
+    "en": "The kitten lay on the sill, eyes half-shut, basking in the warm sun."
+   },
+   {
+    "zh": "老师指着黑板上的图,耐心地给大家讲解着。",
+    "pinyin": "Lǎo shī zhǐ zhe hēi bǎn shàng de tú, nài xīn de gěi dà jiā jiǎng jiě zhe。",
+    "en": "The teacher pointed to the diagram, patiently explaining it."
+   },
+   {
+    "zh": "门开着,灯亮着,可屋里却一个人也没有。",
+    "pinyin": "Mén kāi zhe, dēng liàng zhe, kě wū lǐ què yí gè rén yě méi yǒu。",
+    "en": "The door was open and the light on, yet no one was inside."
+   },
+   {
+    "zh": "他攥着那张旧照片,望着窗外,陷入了深深的回忆。",
+    "pinyin": "Tā zuàn zhe nà zhāng jiù zhào piān, wàng zhe chuāng wài, xiàn rù le shēn shēn de huí yì。",
+    "en": "Clutching the old photo, he gazed out, lost in deep memories."
+   },
+   {
+    "zh": "孩子拉着妈妈的手,蹦蹦跳跳地朝公园跑去。",
+    "pinyin": "Hái zi lā zhe mā mā de shǒu, bèng bèng tiào tiào de cháo gōng yuán pǎo qù。",
+    "en": "Holding Mom's hand, the child skipped happily toward the park."
+   },
+   {
+    "zh": "大家举着蜡烛,唱着生日歌,慢慢走进了房间。",
+    "pinyin": "Dà jiā jǔ zhe là zhú, chàng zhe shēng rì gē, màn màn zǒu jìn le fáng jiān。",
+    "en": "Holding candles and singing, they slowly entered the room."
+   },
+   {
+    "zh": "他躺在草地上,望着天上的白云,想着遥远的故乡。",
+    "pinyin": "Tā tǎng zài cǎo dì shàng, wàng zhe tiān shàng de bái yún, xiǎng zhe yáo yuǎn de gù xiāng。",
+    "en": "Lying on the grass, he watched the clouds, thinking of his far home."
+   },
+   {
+    "zh": "她红着眼睛,却依然强忍着笑,向大家挥手告别。",
+    "pinyin": "Tā hóng zhuó yǎn jīng, què yī rán qiáng rěn zhe xiào, xiàng dà jiā huī shǒu gào bié。",
+    "en": "Eyes red, she still forced a smile and waved everyone goodbye."
+   },
+   {
+    "zh": "老人拄着拐杖,颤颤巍巍地走过那条熟悉的小巷。",
+    "pinyin": "Lǎo rén zhǔ zhe guǎi zhàng, chàn chàn wēi wēi de zǒu guò nà tiáo shú xī de xiǎo xiàng。",
+    "en": "Leaning on a cane, the old man tottered through the familiar lane."
+   },
+   {
+    "zh": "他数着天花板上的裂缝,翻来覆去,怎么也睡不着。",
+    "pinyin": "Tā shù zhe tiān huā bǎn shàng de liè fèng, fān lái fù qù, zěn me yě shuì bù zhe。",
+    "en": "Counting cracks on the ceiling, he tossed and couldn't sleep."
+   },
+   {
+    "zh": "小贩挑着担子,吆喝着,沿街叫卖新鲜的水果。",
+    "pinyin": "Xiǎo fàn tiāo zhe dàn zi, yāo hē zhe, yán jiē jiào mài xīn xiān de shuǐ guǒ。",
+    "en": "The vendor carried his load, calling out and selling fresh fruit."
+   },
+   {
+    "zh": "听着听着,他忽然想起了一件早已忘记的往事。",
+    "pinyin": "Tīng zhe tīng zhe, tā hū rán xiǎng qǐ le yī jiàn zǎo yǐ wàng jì de wǎng shì。",
+    "en": "As he listened on, he suddenly recalled a long-forgotten past."
+   },
+   {
+    "zh": "她抱着刚睡着的婴儿,轻轻地在房间里踱着步。",
+    "pinyin": "Tā bào zhe gāng shuì zháo de yīng ér, qīng qīng de zài fáng jiān lǐ duó zhe bù。",
+    "en": "Holding the just-sleeping baby, she paced gently in the room."
+   },
+   {
+    "zh": "我们顶着烈日,冒着酷暑,在田里忙碌了一整天。",
+    "pinyin": "Wǒ men dǐng zhe liè rì, mào zhe kù shǔ, zài tián lǐ máng lù le yī zhěng tiān。",
+    "en": "Under the blazing sun and heat, we toiled in the field all day."
+   },
+   {
+    "zh": "他握着笔,盯着空白的稿纸,却迟迟写不出一个字。",
+    "pinyin": "Tā wò zhuó bǐ, dīng zhe kòng bái de gǎo zhǐ, què chí chí xiě bù chū yí gè zì。",
+    "en": "Pen in hand, he stared at the blank paper but couldn't write a word."
+   },
+   {
+    "zh": "孩子睁着一双好奇的大眼睛,认真地听着爷爷讲故事。",
+    "pinyin": "Hái zi zhēng zhe yī shuāng hào qí de dà yǎn jīng, rèn zhēn de tīng zhe yé yé jiǎng gù shì。",
+    "en": "With curious wide eyes, the child listened as Grandpa told stories."
+   }
+  ]
+ },
+ {
+  "id": "g361",
+  "level": 4,
+  "title": "\"尽管\" ile \"...-e rağmen / gerçi\"",
+  "titleEn": "Expressing \"although\" with \"jinguan\"",
+  "pattern": "尽管 ...，(但是 / 却 / 还是) ...",
+  "summary": "\"尽管\" bir gerçeğe rağmen tersinin olduğunu bildirir: 尽管下着雨,他还是来了 = Yağmura rağmen yine de geldi.",
+  "explanation": "\"尽管\" (jǐnguǎn) gerçekleşmiş/kabul edilen bir durumu belirtir, ardından ona RAĞMEN beklenmedik bir sonucun geldiğini bildirir: \"...-e rağmen, gerçi ..., her ne kadar ... olsa da\". Kalıp: 尽管 + gerçek durum，(但是/可是/却/还是/仍然) + zıt sonuç. 尽管外面下着大雨,他还是准时赶到了 (Dışarıda şiddetli yağmura rağmen zamanında geldi), 尽管困难重重,他们始终没有放弃 (Nice zorluğa rağmen hiç vazgeçmediler), 尽管年纪大了,老人的记性却一点也不差 (Yaşına rağmen hafızası hiç zayıf değil). İkinci bölümde çoğu zaman \"但是/可是/却/还是/仍然\" bulunur. \"尽管\" gerçek/kesin bir durumu kabul eder (\"虽然\" ile çok yakındır); \"即使\" (varsayımsal \"...-se bile\") ile karıştırılmamalı — \"尽管\" olmuş bir gerçeği, \"即使\" varsayımı bildirir. (Ayrıca \"尽管\"ın \"çekinmeden, gönlünce\" anlamı da vardır: 有话尽管说 — bu ayrı bir kullanımdır.) Türkçedeki \"...-e rağmen, gerçi ..., her ne kadar ... olsa da, ... olduğu hâlde\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "尽管外面下着倾盆大雨,他还是准时赶到了约定的地点。",
+    "pinyin": "Jǐn guǎn wài miàn xià zhe qīng pén dà yǔ, tā hái shì zhǔn shí gǎn dào le yuē dìng de dì diǎn。",
+    "en": "Despite the pouring rain, he arrived on time at the meeting spot."
+   },
+   {
+    "zh": "尽管困难重重,团队始终没有放弃最初的目标。",
+    "pinyin": "Jǐn guǎn kùn nán chóng chóng, tuán duì shǐ zhōng méi yǒu fàng qì zuì chū de mù biāo。",
+    "en": "Despite many difficulties, the team never gave up its goal."
+   },
+   {
+    "zh": "尽管年纪大了,这位老人的记性却比年轻人还好。",
+    "pinyin": "Jǐn guǎn nián jì dà le, zhè wèi lǎo rén de jì xìng què bǐ nián qīng rén hái hǎo。",
+    "en": "Despite his age, the old man's memory beats the young."
+   },
+   {
+    "zh": "尽管我一再解释,他却依然固执地坚持自己的看法。",
+    "pinyin": "Jǐn guǎn wǒ yī zài jiě shì, tā què yī rán gù zhí de jiān chí zì jǐ de kàn fǎ。",
+    "en": "Though I explained repeatedly, he stubbornly held his view."
+   },
+   {
+    "zh": "尽管这份工作又累又辛苦,她却做得津津有味。",
+    "pinyin": "Jǐn guǎn zhè fèn gōng zuò yòu lèi yòu xīn kǔ, tā què zuò de jīn jīn yǒu wèi。",
+    "en": "Though the job is tiring, she does it with real relish."
+   },
+   {
+    "zh": "尽管家境并不富裕,父母还是尽力供他上完了大学。",
+    "pinyin": "Jǐn guǎn jiā jìng bìng bù fù yù, fù mǔ hái shì jìn lì gōng tā shàng wán le dà xué。",
+    "en": "Though not well-off, his parents managed to see him through college."
+   },
+   {
+    "zh": "尽管失败了很多次,他仍然满怀信心地继续尝试。",
+    "pinyin": "Jǐn guǎn shī bài le hěn duō cì, tā réng rán mǎn huái xìn xīn de jì xù cháng shì。",
+    "en": "Despite many failures, he kept trying with full confidence."
+   },
+   {
+    "zh": "尽管两人相隔很远,可他们的友谊一直没有变淡。",
+    "pinyin": "Jǐn guǎn liǎng rén xiāng gé hěn yuǎn, kě tā men de yǒu yì yì zhí méi yǒu biàn dàn。",
+    "en": "Though far apart, their friendship never faded."
+   },
+   {
+    "zh": "尽管天气异常寒冷,广场上却依然聚集了许多人。",
+    "pinyin": "Jǐn guǎn tiān qì yì cháng hán lěng, guǎng chǎng shàng què yī rán jù jí le xǔ duō rén。",
+    "en": "Despite the bitter cold, a crowd still gathered in the square."
+   },
+   {
+    "zh": "尽管他嘴上说不在乎,心里其实还是很在意的。",
+    "pinyin": "Jǐn guǎn tā zuǐ shàng shuō bù zài hū, xīn lǐ qí shí hái shì hěn zài yì de。",
+    "en": "Though he says he doesn't care, he actually minds a lot."
+   },
+   {
+    "zh": "尽管准备得十分充分,上台时他还是有些紧张。",
+    "pinyin": "Jǐn guǎn zhǔn bèi de shí fēn chōng fèn, shàng tái shí tā hái shì yǒu xiē jǐn zhāng。",
+    "en": "Though well prepared, he was still a bit nervous on stage."
+   },
+   {
+    "zh": "尽管道路崎岖难行,大家的脚步却丝毫没有放慢。",
+    "pinyin": "Jǐn guǎn dào lù qí qū nán xíng, dà jiā de jiǎo bù què sī háo méi yǒu fàng màn。",
+    "en": "Though the road was rugged, no one slowed their pace."
+   },
+   {
+    "zh": "尽管遭到了不少反对,他还是坚持推行这项改革。",
+    "pinyin": "Jǐn guǎn zāo dào le bù shǎo fǎn duì, tā hái shì jiān chí tuī xíng zhè xiàng gǎi gé。",
+    "en": "Despite much opposition, he pushed the reform through."
+   },
+   {
+    "zh": "尽管条件艰苦,那批科研人员却取得了重大突破。",
+    "pinyin": "Jǐn guǎn tiáo jiàn jiān kǔ, nà pī kē yán rén yuán què qǔ de le zhòng dà tū pò。",
+    "en": "Despite harsh conditions, the researchers made a major breakthrough."
+   },
+   {
+    "zh": "尽管我们素不相识,他却毫不犹豫地伸出了援手。",
+    "pinyin": "Jǐn guǎn wǒ men sù bù xiāng shí, tā què háo bù yóu yù de shēn chū le yuán shǒu。",
+    "en": "Though strangers, he offered help without hesitation."
+   },
+   {
+    "zh": "尽管时间过去了这么久,那段记忆却依旧清晰如昨。",
+    "pinyin": "Jǐn guǎn shí jiān guò qù le zhè me jiǔ, nà duàn jì yì què yī jiù qīng xī rú zuó。",
+    "en": "Though so long has passed, the memory stays clear as yesterday."
+   },
+   {
+    "zh": "尽管销量一路下滑,老板仍然对未来充满信心。",
+    "pinyin": "Jǐn guǎn xiāo liàng yī lù xià huá, lǎo bǎn réng rán duì wèi lái chōng mǎn xìn xīn。",
+    "en": "Though sales kept falling, the boss stayed confident about the future."
+   },
+   {
+    "zh": "尽管身体不太舒服,她还是坚持把工作做完了。",
+    "pinyin": "Jǐn guǎn shēn tǐ bù tài shū fú, tā hái shì jiān chí bǎ gōng zuò zuò wán le。",
+    "en": "Though unwell, she insisted on finishing the work."
+   },
+   {
+    "zh": "尽管路途遥远,他每年都要回一趟老家看望父母。",
+    "pinyin": "Jǐn guǎn lù tú yáo yuǎn, tā měi nián dōu yào huí yī tàng lǎo jiā kàn wàng fù mǔ。",
+    "en": "Despite the long journey, he returns yearly to see his parents."
+   },
+   {
+    "zh": "尽管遇到了种种阻碍,这个项目最终还是顺利完成了。",
+    "pinyin": "Jǐn guǎn yù dào le zhǒng zhǒng zǔ ài, zhè ge xiàng mù zuì zhōng hái shì shùn lì wán chéng le。",
+    "en": "Despite various obstacles, the project was completed smoothly."
+   },
+   {
+    "zh": "尽管大家都劝他休息,他却还是坚持连夜赶工。",
+    "pinyin": "Jǐn guǎn dà jiā dōu quàn tā xiū xī, tā què hái shì jiān chí lián yè gǎn gōng。",
+    "en": "Though everyone urged him to rest, he worked through the night."
+   },
+   {
+    "zh": "尽管这道菜卖相普通,味道却出人意料地好。",
+    "pinyin": "Jǐn guǎn zhè dào cài mài xiàng pǔ tōng, wèi dào què chū rén yì liào de hǎo。",
+    "en": "Though plain-looking, the dish tasted surprisingly good."
+   },
+   {
+    "zh": "尽管他表面上很平静,内心其实早已波涛汹涌。",
+    "pinyin": "Jǐn guǎn tā biǎo miàn shàng hěn píng jìng, nèi xīn qí shí zǎo yǐ bō tāo xiōng yǒng。",
+    "en": "Though calm on the surface, he was in turmoil inside."
+   },
+   {
+    "zh": "尽管收入不高,他每个月还是坚持存下一点钱。",
+    "pinyin": "Jǐn guǎn shōu rù bù gāo, tā měi gè yuè hái shì jiān chí cún xià yì diǎn qián。",
+    "en": "Though his income is low, he saves a bit each month."
+   },
+   {
+    "zh": "尽管遭遇了不小的挫折,他们的热情却丝毫未减。",
+    "pinyin": "Jǐn guǎn zāo yù le bù xiǎo de cuò zhé, tā men de rè qíng què sī háo wèi jiǎn。",
+    "en": "Despite a big setback, their enthusiasm didn't wane at all."
+   }
+  ]
+ },
+ {
+  "id": "g362",
+  "level": 4,
+  "title": "\"即使\" ile \"...-se bile\"",
+  "titleEn": "Expressing \"even if…\" with \"jishi\"",
+  "pattern": "即使 ...，也 ...",
+  "summary": "\"即使\" varsayımsal bir durumu ve ona rağmen değişmeyen sonucu bildirir: 即使再难,我也不会放弃 = Ne kadar zor olsa da vazgeçmem.",
+  "explanation": "\"即使\" (jíshǐ) VARSAYIMSAL ya da uç bir durumu öne sürer ve ardından \"也\" ile o durumda bile sonucun DEĞİŞMEYECEĞİNİ bildirir: \"...-se bile, ...-se dahi, olsa olsa, ne olursa olsun\". Kalıp: 即使 + varsayım，(主语) 也 + sonuç. 即使再苦再累,我也一定要坚持到底 (Ne kadar zor olsa da sonuna dek dayanacağım), 即使失败了,这段经历也很有价值 (Başarısız olsam bile bu deneyim değerli), 即使你不说,我也能猜到发生了什么 (Söylemesen de ne olduğunu tahmin ederim), 即使大家都反对,他也不会改变主意 (Herkes karşı çıksa da fikrini değiştirmez). İkinci bölümde \"也\" neredeyse zorunludur. \"即使\" GERÇEKLEŞMEMİŞ/varsayılan bir durumu bildirir; bu yönüyle gerçek bir durumu kabul eden \"尽管\"tan ayrılır (即使下雨 = yağmur yağsa bile [belki yağmaz]; 尽管下雨 = yağmura rağmen [gerçekten yağıyor]). \"就算/哪怕\" ile eş anlamlıdır. Türkçedeki \"...-se bile, ...-se dahi, ne olursa olsun, olsa olsa\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "即使前方的路再艰难,我也绝不会轻易放弃自己的梦想。",
+    "pinyin": "Jí shǐ qián fāng de lù zài jiān nán, wǒ yě jué bú huì qīng yì fàng qì zì jǐ de mèng xiǎng。",
+    "en": "Even if the road ahead is hard, I'll never lightly give up my dream."
+   },
+   {
+    "zh": "即使这次失败了,这段宝贵的经历也不会白白浪费。",
+    "pinyin": "Jí shǐ zhè cì shī bài le, zhè duàn bǎo guì de jīng lì yě bú huì bái bái làng fèi。",
+    "en": "Even if I fail this time, this valuable experience won't be wasted."
+   },
+   {
+    "zh": "即使你什么都不说,我也能猜到究竟发生了什么事。",
+    "pinyin": "Jí shǐ nǐ shén me dōu bù shuō, wǒ yě néng cāi dào jiū jìng fā shēng le shén me shì。",
+    "en": "Even if you say nothing, I can guess what really happened."
+   },
+   {
+    "zh": "即使全世界都不相信他,母亲也会永远站在他这一边。",
+    "pinyin": "Jí shǐ quán shì jiè dōu bù xiāng xìn tā, mǔ qīn yě huì yǒng yuǎn zhàn zài tā zhè yī biān。",
+    "en": "Even if the world doubts him, his mother will always stand by him."
+   },
+   {
+    "zh": "即使再忙,他每天也一定会抽时间陪陪年幼的女儿。",
+    "pinyin": "Jí shǐ zài máng, tā měi tiān yě yí dìng huì chōu shí jiān péi péi nián yòu de nǚ ér。",
+    "en": "However busy, he always makes time daily for his young daughter."
+   },
+   {
+    "zh": "即使条件再差,那群志愿者也从没有一句怨言。",
+    "pinyin": "Jí shǐ tiáo jiàn zài chà, nà qún zhì yuàn zhě yě cóng méi yǒu yī jù yuàn yán。",
+    "en": "However poor the conditions, the volunteers never complained."
+   },
+   {
+    "zh": "即使赢的希望很渺茫,队员们也决心拼到最后一刻。",
+    "pinyin": "Jí shǐ yíng de xī wàng hěn miǎo máng, duì yuán men yě jué xīn pīn dào zuì hòu yí kè。",
+    "en": "Even with slim hope of winning, the players fought to the last."
+   },
+   {
+    "zh": "即使明知会碰壁,他还是想亲自去尝试一次。",
+    "pinyin": "Jí shǐ míng zhī huì pèng bì, tā hái shì xiǎng qīn zì qù cháng shì yī cì。",
+    "en": "Even knowing he'd hit a wall, he wanted to try it himself."
+   },
+   {
+    "zh": "即使别人都误解我,我也要坚持把这件事做对。",
+    "pinyin": "Jí shǐ bié rén dōu wù jiě wǒ, wǒ yě yào jiān chí bǎ zhè jiàn shì zuò duì。",
+    "en": "Even if others misunderstand me, I'll insist on doing this right."
+   },
+   {
+    "zh": "即使身处逆境,他脸上也始终挂着乐观的笑容。",
+    "pinyin": "Jí shǐ shēn chù nì jìng, tā liǎn shàng yě shǐ zhōng guà zhe lè guān de xiào róng。",
+    "en": "Even in adversity, an optimistic smile never left his face."
+   },
+   {
+    "zh": "即使天气再冷,老人也坚持每天到公园里散步。",
+    "pinyin": "Jí shǐ tiān qì zài lěng, lǎo rén yě jiān chí měi tiān dào gōng yuán lǐ sàn bù。",
+    "en": "However cold it gets, the old man walks in the park daily."
+   },
+   {
+    "zh": "即使这份工作报酬不高,他也做得踏踏实实。",
+    "pinyin": "Jí shǐ zhè fèn gōng zuò bào chóu bù gāo, tā yě zuò de tà tà shí shí。",
+    "en": "Even though the job pays little, he does it conscientiously."
+   },
+   {
+    "zh": "即使路上堵得再厉害,我们也得想办法准时赶到。",
+    "pinyin": "Jí shǐ lù shàng dǔ de zài lì hài, wǒ men yě de xiǎng bàn fǎ zhǔn shí gǎn dào。",
+    "en": "However bad the traffic, we must find a way to arrive on time."
+   },
+   {
+    "zh": "即使只有百分之一的希望,我们也要尽百分之百的努力。",
+    "pinyin": "Jí shǐ zhǐ yǒu bǎi fēn zhī yī de xī wàng, wǒ men yě yào jǐn bǎi fēn zhī bǎi de nǔ lì。",
+    "en": "Even with one percent hope, we'll give a hundred percent effort."
+   },
+   {
+    "zh": "即使他把话说得再动听,我也不会轻易相信。",
+    "pinyin": "Jí shǐ tā bǎ huà shuō de zài dòng tīng, wǒ yě bú huì qīng yì xiāng xìn。",
+    "en": "However sweetly he talks, I won't easily believe him."
+   },
+   {
+    "zh": "即使遇到再大的困难,这个团队也从未想过退缩。",
+    "pinyin": "Jí shǐ yù dào zài dà de kùn nán, zhè ge tuán duì yě cóng wèi xiǎng guò tuì suō。",
+    "en": "However great the difficulty, this team never thought of retreating."
+   },
+   {
+    "zh": "即使没有人看好这个计划,他也决定放手一搏。",
+    "pinyin": "Jí shǐ méi yǒu rén kàn hǎo zhè ge jì huà, tā yě jué dìng fàng shǒu yī bó。",
+    "en": "Even with no one favoring the plan, he decided to go all in."
+   },
+   {
+    "zh": "即使身在异乡,他也没有忘记家乡的一草一木。",
+    "pinyin": "Jí shǐ shēn zài yì xiāng, tā yě méi yǒu wàng jì jiā xiāng de yī cǎo yī mù。",
+    "en": "Even far from home, he never forgot every blade of grass there."
+   },
+   {
+    "zh": "即使别人给再多的钱,他也不肯出卖自己的良心。",
+    "pinyin": "Jí shǐ bié rén gěi zài duō de qián, tā yě bù kěn chū mài zì jǐ de liáng xīn。",
+    "en": "However much money offered, he won't sell his conscience."
+   },
+   {
+    "zh": "即使把整间屋子翻个底朝天,我也要把那把钥匙找出来。",
+    "pinyin": "Jí shǐ bǎ zhěng jiān wū zi fān gè dǐ cháo tiān, wǒ yě yào bǎ nà bǎ yào shi zhǎo chū lái。",
+    "en": "Even if I turn the whole house upside down, I'll find that key."
+   },
+   {
+    "zh": "即使全班同学都笑话他,他也坚持说出了真相。",
+    "pinyin": "Jí shǐ quán bān tóng xué dōu xiào huà tā, tā yě jiān chí shuō chū le zhēn xiàng。",
+    "en": "Even with the whole class laughing, he insisted on the truth."
+   },
+   {
+    "zh": "即使工作再累,回到家他也要给孩子讲个睡前故事。",
+    "pinyin": "Jí shǐ gōng zuò zài lèi, huí dào jiā tā yě yào gěi hái zi jiǎng gè shuì qián gù shì。",
+    "en": "However tired from work, he tells his child a bedtime story."
+   },
+   {
+    "zh": "即使这条路走不通,我们也还有别的办法可以尝试。",
+    "pinyin": "Jí shǐ zhè tiáo lù zǒu bù tōng, wǒ men yě hái yǒu bié de bàn fǎ kě yǐ cháng shì。",
+    "en": "Even if this way fails, we still have other methods to try."
+   },
+   {
+    "zh": "即使明天就要离开,今晚他也想再看一眼这座城市。",
+    "pinyin": "Jí shǐ míng tiān jiù yào lí kāi, jīn wǎn tā yě xiǎng zài kàn yī yǎn zhè zuò chéng shì。",
+    "en": "Even if leaving tomorrow, he wants one more look at the city tonight."
+   },
+   {
+    "zh": "即使所有人都劝他放弃,他心里的那团火也没有熄灭。",
+    "pinyin": "Jí shǐ suǒ yǒu rén dōu quàn tā fàng qì, tā xīn lǐ de nà tuán huǒ yě méi yǒu xī miè。",
+    "en": "Even with everyone urging him to quit, the fire in him never died."
+   }
+  ]
  }
 ]

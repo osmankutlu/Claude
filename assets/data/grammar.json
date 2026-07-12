@@ -49230,5 +49230,685 @@
     "en": "Even with everyone urging him to quit, the fire in him never died."
    }
   ]
+ },
+ {
+  "id": "g363",
+  "level": 4,
+  "title": "\"就是...也\" ile \"...-se bile\"",
+  "titleEn": "Expressing \"even if…\" with \"jiushi\"",
+  "pattern": "就是 ...，也 ...",
+  "summary": "\"就是...也\" varsayımsal bir uç durumu ve ona rağmen değişmeyen sonucu bildirir: 就是天塌下来,我也不怕 = Gök çökse bile korkmam.",
+  "explanation": "\"就是\" konuşma dilinde \"即使\" gibi VARSAYIMSAL/uç bir durumu öne sürer ve ardından \"也\" ile o durumda bile sonucun DEĞİŞMEYECEĞİNİ bildirir: \"...-se bile, olsa olsa, ne olursa olsun\". Kalıp: 就是 + varsayım，(主语) 也 + sonuç. 就是天塌下来,也有高个子顶着 (Gök çökse bile onu tutacak uzun boylular var), 就是再忙,他也会抽空看看书 (Ne kadar meşgul olsa da kitap okumaya vakit ayırır), 这件事就是你不说,大家心里也都清楚 (Sen söylemesen de herkes zaten biliyor). İkinci bölümde \"也\" gelir. Bu \"就是\" — vurgu/\"tam da o\" anlamındaki \"就是\"tan (这就是我要找的书) farklı olarak — bir KOŞUL bağlacıdır ve \"即使\" ile eş anlamlıdır; ancak daha konuşma dilidir. GERÇEKLEŞMEMİŞ, varsayılan bir durumu bildirir. Türkçedeki \"...-se bile, olsa olsa, ne olursa olsun, ... dahi olsa\" ifadelerine denk gelir; günlük konuşmada uç bir varsayımı öne sürmenin yaygın yoludur.",
+  "examples": [
+   {
+    "zh": "你放心,这件事就是天大的困难,我也一定帮你办成。",
+    "pinyin": "Nǐ fàng xīn, zhè jiàn shì jiù shì tiān dà de kùn nán, wǒ yě yí dìng bāng nǐ bàn chéng。",
+    "en": "Rest assured, however huge the difficulty, I'll get it done for you."
+   },
+   {
+    "zh": "就是再苦再累,只要能看到孩子的笑脸,他也觉得值。",
+    "pinyin": "Jiù shì zài kǔ zài lèi, zhǐ yào néng kàn dào hái zi de xiào liǎn, tā yě jué de zhí。",
+    "en": "However hard and tiring, seeing his child smile makes it worth it."
+   },
+   {
+    "zh": "这道理就是我不说,聪明的你也一定早就明白了。",
+    "pinyin": "Zhè dào lǐ jiù shì wǒ bù shuō, cōng míng de nǐ yě yí dìng zǎo jiù míng bái le。",
+    "en": "Even if I don't say it, clever you surely already understood."
+   },
+   {
+    "zh": "就是把整座城市翻遍,我也要把丢失的猫找回来。",
+    "pinyin": "Jiù shì bǎ zhěng zuò chéng shì fān biàn, wǒ yě yào bǎ diū shī de māo zhǎo huí lái。",
+    "en": "Even if I search the whole city, I'll find my lost cat."
+   },
+   {
+    "zh": "他脾气倔,就是别人说破了嘴,他也不肯改主意。",
+    "pinyin": "Tā pí qì jué, jiù shì bié rén shuō pò le zuǐ, tā yě bù kěn gǎi zhǔ yì。",
+    "en": "He's stubborn; even if you talk yourself hoarse, he won't budge."
+   },
+   {
+    "zh": "就是刮风下雨,那位老邮递员也从不耽误送信。",
+    "pinyin": "Jiù shì guā fēng xià yǔ, nà wèi lǎo yóu dì yuán yě cóng bù dān wù sòng xìn。",
+    "en": "Even in wind and rain, the old postman never delays the mail."
+   },
+   {
+    "zh": "这点小钱,就是全都丢了,也不至于让我们过不下去。",
+    "pinyin": "Zhè diǎn xiǎo qián, jiù shì quán dōu diū le, yě bù zhì yú ràng wǒ men guò bù xià qù。",
+    "en": "This bit of money, even if all lost, won't ruin us."
+   },
+   {
+    "zh": "就是走到天涯海角,我也忘不了家乡那条小河。",
+    "pinyin": "Jiù shì zǒu dào tiān yá hǎi jiǎo, wǒ yě wàng bù liǎo jiā xiāng nà tiáo xiǎo hé。",
+    "en": "Even at the ends of the earth, I won't forget my hometown stream."
+   },
+   {
+    "zh": "你别担心,就是所有人都反对,我也会支持你的决定。",
+    "pinyin": "Nǐ bié dān xīn, jiù shì suǒ yǒu rén dōu fǎn duì, wǒ yě huì zhī chí nǐ de jué dìng。",
+    "en": "Don't worry; even if all object, I'll back your decision."
+   },
+   {
+    "zh": "就是再给他十次机会,恐怕他也做不好这件事。",
+    "pinyin": "Jiù shì zài gěi tā shí cì jī huì, kǒng pà tā yě zuò bù hǎo zhè jiàn shì。",
+    "en": "Even given ten more chances, he probably still couldn't do it."
+   },
+   {
+    "zh": "这份情谊,就是过了几十年,我心里也一直记着。",
+    "pinyin": "Zhè fèn qíng yì, jiù shì guò le jǐ shí nián, wǒ xīn lǐ yě yì zhí jì zhe。",
+    "en": "This bond, even after decades, I've kept in my heart."
+   },
+   {
+    "zh": "就是饿着肚子,那几个孩子也舍不得卖掉心爱的书。",
+    "pinyin": "Jiù shì è zhe dǔ zi, nà jǐ gè hái zi yě shě bù de mài diào xīn ài de shū。",
+    "en": "Even hungry, the children couldn't bear to sell their beloved books."
+   },
+   {
+    "zh": "就是熬上一整夜,他也决心把这个难题彻底解决。",
+    "pinyin": "Jiù shì áo shàng yī zhěng yè, tā yě jué xīn bǎ zhè ge nán tí chè dǐ jiě jué。",
+    "en": "Even staying up all night, he's set on fully solving the problem."
+   },
+   {
+    "zh": "这条路就是再远,为了见你一面,我也心甘情愿。",
+    "pinyin": "Zhè tiáo lù jiù shì zài yuǎn, wèi le jiàn nǐ yí miàn, wǒ yě xīn gān qíng yuàn。",
+    "en": "However far this road, to see you once I'd gladly go."
+   },
+   {
+    "zh": "就是别人都不看好,他也坚信自己的选择没有错。",
+    "pinyin": "Jiù shì bié rén dōu bù kàn hǎo, tā yě jiān xìn zì jǐ de xuǎn zé méi yǒu cuò。",
+    "en": "Even if no one favors it, he firmly believes his choice is right."
+   },
+   {
+    "zh": "就是把嗓子喊哑了,山谷里也听不到一点回音。",
+    "pinyin": "Jiù shì bǎ sǎng zi hǎn yǎ le, shān gǔ lǐ yě tīng bú dào yì diǎn huí yīn。",
+    "en": "Even shouting yourself hoarse, no echo returns from the valley."
+   },
+   {
+    "zh": "这件传家宝,就是出再高的价钱,我们也绝不会卖。",
+    "pinyin": "Zhè jiàn chuán jiā bǎo, jiù shì chū zài gāo de jià qián, wǒ men yě jué bú huì mài。",
+    "en": "This heirloom, however high the price, we'll never sell."
+   },
+   {
+    "zh": "就是天气再恶劣,救援队也没有停下前进的脚步。",
+    "pinyin": "Jiù shì tiān qì zài è liè, jiù yuán duì yě méi yǒu tíng xià qián jìn de jiǎo bù。",
+    "en": "However foul the weather, the rescue team never stopped advancing."
+   },
+   {
+    "zh": "你尽管说实话,就是说错了,大家也不会怪你的。",
+    "pinyin": "Nǐ jǐn guǎn shuō shí huà, jiù shì shuō cuò le, dà jiā yě bú huì guài nǐ de。",
+    "en": "Just speak the truth; even if wrong, no one will blame you."
+   },
+   {
+    "zh": "就是搬到很远的地方,这些老邻居也约定常来常往。",
+    "pinyin": "Jiù shì bān dào hěn yuǎn de dì fāng, zhè xiē lǎo lín jū yě yuē dìng cháng lái cháng wǎng。",
+    "en": "Even after moving far, the old neighbors vowed to visit often."
+   },
+   {
+    "zh": "就是再难开口,该说的话他最终也还是说了出来。",
+    "pinyin": "Jiù shì zài nán kāi kǒu, gāi shuō de huà tā zuì zhōng yě hái shì shuō le chū lái。",
+    "en": "However hard to say, he finally spoke the words that needed saying."
+   },
+   {
+    "zh": "这份手艺,就是没人欣赏,老匠人也一直默默坚持着。",
+    "pinyin": "Zhè fèn shǒu yì, jiù shì méi rén xīn shǎng, lǎo jiàng rén yě yì zhí mò mò jiān chí zhe。",
+    "en": "Even unappreciated, the old craftsman quietly kept at his craft."
+   },
+   {
+    "zh": "就是把道理讲上一百遍,不想听的人也听不进去。",
+    "pinyin": "Jiù shì bǎ dào lǐ jiǎng shàng yì bǎi biàn, bù xiǎng tīng de rén yě tīng bù jìn qù。",
+    "en": "Even explained a hundred times, the unwilling won't take it in."
+   },
+   {
+    "zh": "就是前面是万丈深渊,为了救人他也会毫不犹豫地跳。",
+    "pinyin": "Jiù shì qián miàn shì wàn zhàng shēn yuān, wèi le jiù rén tā yě huì háo bù yóu yù de tiào。",
+    "en": "Even before a bottomless abyss, he'd leap without hesitation to save a life."
+   },
+   {
+    "zh": "这个约定,就是等上一辈子,我也愿意一直等下去。",
+    "pinyin": "Zhè ge yuē dìng, jiù shì děng shàng yī bèi zi, wǒ yě yuàn yì yì zhí děng xià qù。",
+    "en": "This promise, even if it takes a lifetime, I'm willing to keep waiting."
+   }
+  ]
+ },
+ {
+  "id": "g364",
+  "level": 4,
+  "title": "\"就算...也\" ile \"...-se bile / diyelim ki\"",
+  "titleEn": "Expressing \"even if…\" with \"jiusuan\"",
+  "pattern": "就算 ...，也 ...",
+  "summary": "\"就算...也\" bir durumu varsayıp ona rağmen sonucun değişmeyeceğini bildirir: 就算你不同意,事情也已经定了 = Katılmasan da iş çoktan karara bağlandı.",
+  "explanation": "\"就算\" (jiùsuàn) konuşma dilinde bir durumu \"diyelim ki öyle olsun\" diye VARSAYAR ve ardından \"也\" ile o durumda bile sonucun değişmeyeceğini bildirir: \"...-se bile, diyelim ki ..., öyle olsa bile, tut ki ...\". Kalıp: 就算 + varsayım，(主语) 也 + sonuç. 就算你现在道歉,也已经太迟了 (Şimdi özür dilesen bile artık çok geç), 就算天气不好,活动也照常进行 (Hava kötü olsa bile etkinlik yine de yapılacak), 就算大家都不帮忙,我一个人也要把它做完 (Kimse yardım etmese bile tek başıma bitireceğim). İkinci bölümde \"也\" gelir. \"就算\" özellikle karşıdakinin öne sürebileceği bir durumu \"öyle kabul edelim ama\" diyerek geçersizleştirir; bir tavizi verip yine de sonucun değişmediğini vurgular. \"即使/哪怕/就是\" ile eş anlamlıdır ama \"就算\" \"diyelim ki, tut ki\" tonuyla en konuşma dilidir. Varsayımsal (gerçekleşmemiş) bir durumu bildirir. Türkçedeki \"...-se bile, diyelim ki ..., tut ki ..., öyle olsa bile\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "就算你现在跟他道歉,恐怕也很难挽回他的心了。",
+    "pinyin": "Jiù suàn nǐ xiàn zài gēn tā dào qiàn, kǒng pà yě hěn nán wǎn huí tā de xīn le。",
+    "en": "Even if you apologize now, it's hard to win his heart back."
+   },
+   {
+    "zh": "就算今天天气不太好,这次的户外活动也照常举行。",
+    "pinyin": "Jiù suàn jīn tiān tiān qì bù tài hǎo, zhè cì de hù wài huó dòng yě zhào cháng jǔ xíng。",
+    "en": "Even if the weather's poor, the outdoor event goes on as planned."
+   },
+   {
+    "zh": "就算所有人都不看好我,我也要坚持把梦想追下去。",
+    "pinyin": "Jiù suàn suǒ yǒu rén dōu bù kàn hǎo wǒ, wǒ yě yào jiān chí bǎ mèng xiǎng zhuī xià qù。",
+    "en": "Even if no one believes in me, I'll keep chasing my dream."
+   },
+   {
+    "zh": "就算这次考砸了,也不代表你以后就没有希望了。",
+    "pinyin": "Jiù suàn zhè cì kǎo zá le, yě bù dài biǎo nǐ yǐ hòu jiù méi yǒu xī wàng le。",
+    "en": "Even if you flunked this time, it doesn't mean there's no hope."
+   },
+   {
+    "zh": "就算他说的都是真的,这种做法也未免太自私了。",
+    "pinyin": "Jiù suàn tā shuō de dōu shì zhēn de, zhè zhǒng zuò fǎ yě wèi miǎn tài zì sī liǎo。",
+    "en": "Even if all he says is true, this approach is too selfish."
+   },
+   {
+    "zh": "就算再给我一次机会,我恐怕也做不出更好的选择了。",
+    "pinyin": "Jiù suàn zài gěi wǒ yī cì jī huì, wǒ kǒng pà yě zuò bù chū gèng hǎo de xuǎn zé le。",
+    "en": "Even given another chance, I couldn't have chosen better."
+   },
+   {
+    "zh": "就算路上会遇到再多困难,我们也决定继续走下去。",
+    "pinyin": "Jiù suàn lù shàng huì yù dào zài duō kùn nán, wǒ men yě jué dìng jì xù zǒu xià qù。",
+    "en": "However many hardships lie ahead, we're set on going on."
+   },
+   {
+    "zh": "就算把这些钱都花光,也换不回失去的健康。",
+    "pinyin": "Jiù suàn bǎ zhè xiē qián dōu huā guāng, yě huàn bù huí shī qù de jiàn kāng。",
+    "en": "Even spending all this money can't buy back lost health."
+   },
+   {
+    "zh": "就算你不告诉我,我迟早也会从别人那里知道的。",
+    "pinyin": "Jiù suàn nǐ bù gào sù wǒ, wǒ chí zǎo yě huì cóng bié rén nà lǐ zhī dào de。",
+    "en": "Even if you don't tell me, I'll learn it from others sooner or later."
+   },
+   {
+    "zh": "就算工作再忙,他每周也一定会给父母打个电话。",
+    "pinyin": "Jiù suàn gōng zuò zài máng, tā měi zhōu yě yí dìng huì gěi fù mǔ dǎ gè diàn huà。",
+    "en": "However busy at work, he calls his parents every week."
+   },
+   {
+    "zh": "就算别人怎么劝,倔强的他也听不进半句。",
+    "pinyin": "Jiù suàn bié rén zěn me quàn, jué jiàng de tā yě tīng bù jìn bàn jù。",
+    "en": "However others persuade, stubborn as he is, he won't listen."
+   },
+   {
+    "zh": "就算这道菜做得再难吃,看在他的心意上我也会吃完。",
+    "pinyin": "Jiù suàn zhè dào cài zuò de zài nán chī, kàn zài tā de xīn yì shàng wǒ yě huì chī wán。",
+    "en": "However bad the dish, for his effort's sake I'll finish it."
+   },
+   {
+    "zh": "就算失败一百次,只要还有希望,我就会再试一次。",
+    "pinyin": "Jiù suàn shī bài yì bǎi cì, zhǐ yào hái yǒu xī wàng, wǒ jiù huì zài shì yī cì。",
+    "en": "Even failing a hundred times, with hope left I'll try again."
+   },
+   {
+    "zh": "就算你把理由说得再充分,我也不能答应这种要求。",
+    "pinyin": "Jiù suàn nǐ bǎ lǐ yóu shuō de zài chōng fèn, wǒ yě bù néng dā yìng zhè zhǒng yāo qiú。",
+    "en": "However well you reason, I can't agree to such a request."
+   },
+   {
+    "zh": "就算全世界都在下雨,他的心里也始终有一片晴天。",
+    "pinyin": "Jiù suàn quán shì jiè dōu zài xià yǔ, tā de xīn lǐ yě shǐ zhōng yǒu yī piàn qíng tiān。",
+    "en": "Even if the whole world rains, his heart holds a clear sky."
+   },
+   {
+    "zh": "就算把家里翻个底朝天,那份文件也没能找到。",
+    "pinyin": "Jiù suàn bǎ jiā lǐ fān gè dǐ cháo tiān, nà fèn wén jiàn yě méi néng zhǎo dào。",
+    "en": "Even turning the house upside down, the document wasn't found."
+   },
+   {
+    "zh": "就算大家都觉得没戏,他也想拼尽全力试上一试。",
+    "pinyin": "Jiù suàn dà jiā dōu jué de méi xì, tā yě xiǎng pīn jìn quán lì shì shàng yī shì。",
+    "en": "Even if all think it's hopeless, he wants to give it his all."
+   },
+   {
+    "zh": "就算这条路再难走,我们也不能半途而废。",
+    "pinyin": "Jiù suàn zhè tiáo lù zài nán zǒu, wǒ men yě bù néng bàn tú ér fèi。",
+    "en": "However hard this road, we can't give up halfway."
+   },
+   {
+    "zh": "就算你把话说得再好听,我也不会轻易改变主意。",
+    "pinyin": "Jiù suàn nǐ bǎ huà shuō de zài hǎo tīng, wǒ yě bú huì qīng yì gǎi biàn zhǔ yì。",
+    "en": "However nicely you put it, I won't easily change my mind."
+   },
+   {
+    "zh": "就算只剩下最后一点力气,他也要坚持跑到终点。",
+    "pinyin": "Jiù suàn zhǐ shèng xià zuì hòu yì diǎn lì qì, tā yě yào jiān chí pǎo dào zhōng diǎn。",
+    "en": "Even with the last bit of strength, he'll run to the finish."
+   },
+   {
+    "zh": "就算别人不理解,做自己认为对的事总归没有错。",
+    "pinyin": "Jiù suàn bié rén bù lǐ jiě, zuò zì jǐ rèn wéi duì de shì zǒng guī méi yǒu cuò。",
+    "en": "Even if misunderstood, doing what you think right is never wrong."
+   },
+   {
+    "zh": "就算天塌下来,一家人只要在一起就什么都不怕。",
+    "pinyin": "Jiù suàn tiān tā xià lái, yī jiā rén zhǐ yào zài yì qǐ jiù shén me dōu bù pà。",
+    "en": "Even if the sky falls, a family together fears nothing."
+   },
+   {
+    "zh": "就算这件事再小,答应了别人就一定要做到。",
+    "pinyin": "Jiù suàn zhè jiàn shì zài xiǎo, dā yìng le bié rén jiù yí dìng yào zuò dào。",
+    "en": "However small the matter, a promise made must be kept."
+   },
+   {
+    "zh": "就算前方一片漆黑,只要心中有光,就不会迷路。",
+    "pinyin": "Jiù suàn qián fāng yī piàn qī hēi, zhǐ yào xīn zhōng yǒu guāng, jiù bú huì mí lù。",
+    "en": "Even in pitch dark ahead, with light in the heart one won't get lost."
+   },
+   {
+    "zh": "就算过去有再多遗憾,日子也总得往前看着过。",
+    "pinyin": "Jiù suàn guò qù yǒu zài duō yí hàn, rì zi yě zǒng de wǎng qián kàn zhe guò。",
+    "en": "However many past regrets, life must be lived looking forward."
+   }
+  ]
+ },
+ {
+  "id": "g365",
+  "level": 4,
+  "title": "\"哪怕...也\" ile \"...-se bile / velev ki\"",
+  "titleEn": "Expressing \"even if…\" with \"napa\"",
+  "pattern": "哪怕 ...，也 ...",
+  "summary": "\"哪怕...也\" en küçük/en uç bir durumu varsayıp ona rağmen sonucun değişmeyeceğini bildirir: 哪怕只有一线希望,我也不放弃 = Bir tek umut ışığı bile olsa vazgeçmem.",
+  "explanation": "\"哪怕\" (nǎpà) bir durumu — çoğu zaman EN UÇ ya da EN KÜÇÜK bir olasılığı — varsayıp ardından \"也/都\" ile o durumda bile sonucun değişmeyeceğini bildirir: \"...-se bile, velev ki ..., ...-se dahi, bir ... bile olsa\". Kalıp: 哪怕 + (uç) varsayım，(主语) 也/都 + sonuç. 哪怕只有一线希望,我们也绝不放弃 (Bir tek umut ışığı bile olsa asla vazgeçmeyiz), 哪怕再晚,他也要把今天的活儿干完 (Ne kadar geç olsa da bugünkü işi bitirecek), 哪怕是一点点小事,也不能马虎大意 (Küçücük bir şey bile olsa özensizlik olmaz). İkinci bölümde \"也\" ya da \"都\" gelir. \"哪怕\" özellikle çok küçük bir miktarı (哪怕一分钟, 哪怕一次) ya da çok zor bir koşulu abartarak öne çıkarır ve \"böyle bir durumda bile\" der. \"即使/就算\" ile eş anlamlıdır; \"哪怕\" en uç/en az olanı vurgulamada özellikle doğaldır ve konuşma dilinde çok yaygındır. Varsayımsal bir durum bildirir. Türkçedeki \"...-se bile, velev ki ..., bir ... bile olsa, ...-se dahi\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "哪怕只剩下最后一丝希望,我们也绝不会轻言放弃。",
+    "pinyin": "Nǎ pà zhǐ shèng xià zuì hòu yī sī xī wàng, wǒ men yě jué bú huì qīng yán fàng qì。",
+    "en": "Even with one last shred of hope, we'll never lightly give up."
+   },
+   {
+    "zh": "哪怕再晚,他也一定要把今天该做的活儿全部做完。",
+    "pinyin": "Nǎ pà zài wǎn, tā yě yí dìng yào bǎ jīn tiān gāi zuò de huó er quán bù zuò wán。",
+    "en": "However late, he insists on finishing all of today's work."
+   },
+   {
+    "zh": "哪怕是一件微不足道的小事,他做起来也一丝不苟。",
+    "pinyin": "Nǎ pà shì yī jiàn wēi bù zú dào de xiǎo shì, tā zuò qǐ lái yě yī sī bù gǒu。",
+    "en": "Even a trivial matter, he does with utter care."
+   },
+   {
+    "zh": "哪怕每天只进步一点点,长年累月也会有大变化。",
+    "pinyin": "Nǎ pà měi tiān zhǐ jìn bù yì diǎn diǎn, cháng nián lěi yuè yě huì yǒu dà biàn huà。",
+    "en": "Even a bit of progress daily brings big change over years."
+   },
+   {
+    "zh": "哪怕全世界都误解我,只要你懂我,我就知足了。",
+    "pinyin": "Nǎ pà quán shì jiè dōu wù jiě wǒ, zhǐ yào nǐ dǒng wǒ, wǒ jiù zhī zú le。",
+    "en": "Even if the world misreads me, your understanding is enough."
+   },
+   {
+    "zh": "哪怕只有一个观众,这位老演员也会认真地演完全场。",
+    "pinyin": "Nǎ pà zhǐ yǒu yí gè guān zhòng, zhè wèi lǎo yǎn yuán yě huì rèn zhēn de yǎn wán quán chǎng。",
+    "en": "Even for one viewer, the old actor performs the whole play earnestly."
+   },
+   {
+    "zh": "哪怕路途再遥远,过年时他也一定要赶回家团聚。",
+    "pinyin": "Nǎ pà lù tú zài yáo yuǎn, guò nián shí tā yě yí dìng yào gǎn huí jiā tuán jù。",
+    "en": "However far the road, he returns home for the New Year reunion."
+   },
+   {
+    "zh": "哪怕手头再紧,母亲也从没让孩子饿过一顿饭。",
+    "pinyin": "Nǎ pà shǒu tóu zài jǐn, mǔ qīn yě cóng méi ràng hái zi è guò yī dùn fàn。",
+    "en": "However tight on money, Mother never let her child go hungry."
+   },
+   {
+    "zh": "哪怕天气再冷,坚持晨跑的人们也没有一个偷懒。",
+    "pinyin": "Nǎ pà tiān qì zài lěng, jiān chí chén pǎo de rén men yě méi yǒu yí gè tōu lǎn。",
+    "en": "However cold, none of the morning runners slacked off."
+   },
+   {
+    "zh": "哪怕只是举手之劳,能帮到别人他也觉得很开心。",
+    "pinyin": "Nǎ pà zhǐ shì jǔ shǒu zhī láo, néng bāng dào bié rén tā yě jué de hěn kāi xīn。",
+    "en": "Even a small effort to help others makes him happy."
+   },
+   {
+    "zh": "哪怕再难开口,该说的道歉他最终还是说了出来。",
+    "pinyin": "Nǎ pà zài nán kāi kǒu, gāi shuō de dào qiàn tā zuì zhōng hái shì shuō le chū lái。",
+    "en": "However hard to say, he finally offered the apology owed."
+   },
+   {
+    "zh": "哪怕别人都不相信,他也要用行动证明自己的清白。",
+    "pinyin": "Nǎ pà bié rén dōu bù xiāng xìn, tā yě yào yòng xíng dòng zhèng míng zì jǐ de qīng bái。",
+    "en": "Even if none believe him, he'll prove his innocence by deeds."
+   },
+   {
+    "zh": "哪怕只有百分之一的可能,消防员也不会放弃救人。",
+    "pinyin": "Nǎ pà zhǐ yǒu bǎi fēn zhī yī de kě néng, xiāo fáng yuán yě bú huì fàng qì jiù rén。",
+    "en": "Even with one percent chance, firefighters won't give up saving lives."
+   },
+   {
+    "zh": "哪怕省吃俭用,他也要供两个孩子读完大学。",
+    "pinyin": "Nǎ pà shěng chī jiǎn yòng, tā yě yào gōng liǎng gè hái zi dú wán dà xué。",
+    "en": "Even scrimping, he'll see both children through college."
+   },
+   {
+    "zh": "哪怕失败很多次,他脸上的笑容也从来没有消失过。",
+    "pinyin": "Nǎ pà shī bài hěn duō cì, tā liǎn shàng de xiào róng yě cóng lái méi yǒu xiāo shī guò。",
+    "en": "Even after many failures, the smile never left his face."
+   },
+   {
+    "zh": "哪怕再忙,睡前给女儿讲个故事是他雷打不动的习惯。",
+    "pinyin": "Nǎ pà zài máng, shuì qián gěi nǚ ér jiǎng gè gù shì shì tā léi dǎ bù dòng de xí guàn。",
+    "en": "However busy, a bedtime story for his daughter is his firm habit."
+   },
+   {
+    "zh": "哪怕只是一句简单的问候,也足以温暖人心。",
+    "pinyin": "Nǎ pà zhǐ shì yī jù jiǎn dān de wèn hòu, yě zú yǐ wēn nuǎn rén xīn。",
+    "en": "Even a simple greeting is enough to warm the heart."
+   },
+   {
+    "zh": "哪怕前方困难重重,探险队的脚步也没有丝毫退缩。",
+    "pinyin": "Nǎ pà qián fāng kùn nán chóng chóng, tàn xiǎn duì de jiǎo bù yě méi yǒu sī háo tuì suō。",
+    "en": "However great the difficulties, the expedition never shrank back."
+   },
+   {
+    "zh": "哪怕代价再大,他也决心把这项研究进行到底。",
+    "pinyin": "Nǎ pà dài jià zài dà, tā yě jué xīn bǎ zhè xiàng yán jiū jìn xíng dào dǐ。",
+    "en": "However high the cost, he's set on finishing the research."
+   },
+   {
+    "zh": "哪怕只有一点线索,警方也会顺着它一查到底。",
+    "pinyin": "Nǎ pà zhǐ yǒu yì diǎn xiàn suǒ, jǐng fāng yě huì shùn zhe tā yī chá dào dǐ。",
+    "en": "Even with one clue, the police will follow it to the end."
+   },
+   {
+    "zh": "哪怕再苦再累,想到家人,他浑身就又充满了力量。",
+    "pinyin": "Nǎ pà zài kǔ zài lèi, xiǎng dào jiā rén, tā hún shēn jiù yòu chōng mǎn le lì liàng。",
+    "en": "However hard, thinking of family fills him with strength again."
+   },
+   {
+    "zh": "哪怕大家都劝他歇一歇,他也坚持要把稿子改完。",
+    "pinyin": "Nǎ pà dà jiā dōu quàn tā xiē yī xiē, tā yě jiān chí yào bǎ gǎo zi gǎi wán。",
+    "en": "Even urged to rest, he insisted on finishing the draft."
+   },
+   {
+    "zh": "哪怕外面风雪交加,屋里的一家人也其乐融融。",
+    "pinyin": "Nǎ pà wài miàn fēng xuě jiāo jiā, wū lǐ de yī jiā rén yě qí lè róng róng。",
+    "en": "Even amid wind and snow outside, the family inside is warm and happy."
+   },
+   {
+    "zh": "哪怕只是短短的一面之缘,她也一直记在心里。",
+    "pinyin": "Nǎ pà zhǐ shì duǎn duǎn de yí miàn zhī yuán, tā yě yì zhí jì zài xīn lǐ。",
+    "en": "Even a brief chance meeting, she kept in her heart."
+   },
+   {
+    "zh": "哪怕机会再渺茫,只要不试试,就永远没有可能。",
+    "pinyin": "Nǎ pà jī huì zài miǎo máng, zhǐ yào bù shì shì, jiù yǒng yuǎn méi yǒu kě néng。",
+    "en": "However slim the chance, without trying there's never a possibility."
+   }
+  ]
+ },
+ {
+  "id": "g366",
+  "level": 4,
+  "title": "\"假如...就/那么\" ile varsayımsal koşul",
+  "titleEn": "Expressing \"if… then…\" with \"jiaru\"",
+  "pattern": "假如 ...，(就 / 那么) ...",
+  "summary": "\"假如\" varsayımsal bir koşul kurar: 假如我是你,我就不会那么做 = Yerinde olsam öyle yapmazdım.",
+  "explanation": "\"假如\" (jiǎrú) VARSAYIMSAL bir koşul öne sürer ve ardından o koşulun sonucunu bildirir: \"...-se, eğer ..., diyelim ki ..., ... olsa\". Kalıp: 假如 + koşul，(就/那么/的话) + sonuç. 假如明天下雨,我们就改天再去 (Yarın yağmur yağarsa başka güne erteleriz), 假如你是我,你会怎么选择呢? (Sen benim yerimde olsan nasıl seçerdin?), 假如没有大家的帮助,我根本坚持不到今天 (Herkesin yardımı olmasa bugüne asla gelemezdim). İkinci bölümde çoğu zaman \"就/那么\" bulunur; sonda \"的话\" da eklenebilir (假如...的话). \"假如\" hem gerçekleşmesi olası koşulları hem de gerçeğe aykırı varsayımları (yerinde olsam...) kurabilir; \"如果\" ile neredeyse eş anlamlıdır ama \"假如\" biraz daha edebî/varsayımsal bir tona sahiptir. Bir olasılığı ya da hayali durumu düşünüp sonucunu konuşmanın yoludur. Türkçedeki \"...-se, eğer ..., diyelim ki ..., ... olsa (o zaman)\" koşul ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "假如明天真的下起大雨,我们就把郊游改到下周吧。",
+    "pinyin": "Jiǎ rú míng tiān zhēn de xià qǐ dà yǔ, wǒ men jiù bǎ jiāo yóu gǎi dào xià zhōu ba。",
+    "en": "If it really pours tomorrow, let's move the outing to next week."
+   },
+   {
+    "zh": "假如你是他,面对这样的处境,你又会怎么做呢?",
+    "pinyin": "Jiǎ rú nǐ shì tā, miàn duì zhè yàng de chǔ jìng, nǐ yòu huì zěn me zuò ne?",
+    "en": "If you were him, how would you act in such a situation?"
+   },
+   {
+    "zh": "假如当初我听了你的劝告,也许就不会走这么多弯路。",
+    "pinyin": "Jiǎ rú dāng chū wǒ tīng le nǐ de quàn gào, yě xǔ jiù bú huì zǒu zhè me duō wān lù。",
+    "en": "Had I heeded your advice then, I'd have avoided many detours."
+   },
+   {
+    "zh": "假如没有大家一路上的帮助,我根本坚持不到今天。",
+    "pinyin": "Jiǎ rú méi yǒu dà jiā yī lù shàng de bāng zhù, wǒ gēn běn jiān chí bú dào jīn tiān。",
+    "en": "Without everyone's help along the way, I couldn't have made it."
+   },
+   {
+    "zh": "假如这次实验成功了,那么整个研究就有了突破口。",
+    "pinyin": "Jiǎ rú zhè cì shí yàn chéng gōng le, nà me zhěng gè yán jiū jiù yǒu le tū pò kǒu。",
+    "en": "If this experiment succeeds, the whole study gets a breakthrough."
+   },
+   {
+    "zh": "假如时间可以倒流,我一定会好好珍惜和他相处的日子。",
+    "pinyin": "Jiǎ rú shí jiān kě yǐ dào liú, wǒ yí dìng huì hǎo hǎo zhēn xī hé tā xiāng chǔ de rì zi。",
+    "en": "If time could rewind, I'd cherish the days with him."
+   },
+   {
+    "zh": "假如你实在不方便来,提前打个电话说一声也行。",
+    "pinyin": "Jiǎ rú nǐ shí zài bù fāng biàn lái, tí qián dǎ gè diàn huà shuō yī shēng yě xíng。",
+    "en": "If you truly can't come, a call ahead to say so is fine."
+   },
+   {
+    "zh": "假如每个人都乱扔垃圾,这座城市会变成什么样子?",
+    "pinyin": "Jiǎ rú měi gè rén dōu luàn rēng lā jī, zhè zuò chéng shì huì biàn chéng shén me yàng zi?",
+    "en": "If everyone littered, what would this city become?"
+   },
+   {
+    "zh": "假如我中了大奖,第一件事就是带父母去环游世界。",
+    "pinyin": "Jiǎ rú wǒ zhōng le dà jiǎng, dì yī jiàn shì jiù shì dài fù mǔ qù huán yóu shì jiè。",
+    "en": "If I won the jackpot, I'd first take my parents around the world."
+   },
+   {
+    "zh": "假如你把这些时间用在学习上,成绩早就上去了。",
+    "pinyin": "Jiǎ rú nǐ bǎ zhè xiē shí jiān yòng zài xué xí shàng, chéng jì zǎo jiù shàng qù le。",
+    "en": "Had you spent this time studying, your grades would have risen."
+   },
+   {
+    "zh": "假如天气一直这么干旱下去,今年的庄稼恐怕要减产。",
+    "pinyin": "Jiǎ rú tiān qì yì zhí zhè me gān hàn xià qù, jīn nián de zhuāng jià kǒng pà yào jiǎn chǎn。",
+    "en": "If the drought keeps on, this year's crops may fall short."
+   },
+   {
+    "zh": "假如换成别人,遇到这种事早就急得团团转了。",
+    "pinyin": "Jiǎ rú huàn chéng bié rén, yù dào zhè zhǒng shì zǎo jiù jí de tuán tuán zhuàn le。",
+    "en": "Had it been someone else, they'd have panicked at such a thing."
+   },
+   {
+    "zh": "假如你愿意,我们可以一起把这个计划重新完善一下。",
+    "pinyin": "Jiǎ rú nǐ yuàn yì, wǒ men kě yǐ yì qǐ bǎ zhè ge jì huà chóng xīn wán shàn yī xià。",
+    "en": "If you're willing, we can refine this plan together."
+   },
+   {
+    "zh": "假如那天我早出门五分钟,也许就赶上那班车了。",
+    "pinyin": "Jiǎ rú nà tiān wǒ zǎo chū mén wǔ fēn zhōng, yě xǔ jiù gǎn shàng nà bān chē le。",
+    "en": "Had I left five minutes earlier that day, I'd have caught the bus."
+   },
+   {
+    "zh": "假如世界上没有了书籍,人类的文明将失去多少光彩。",
+    "pinyin": "Jiǎ rú shì jiè shàng méi yǒu le shū jí, rén lèi de wén míng jiāng shī qù duō shǎo guāng cǎi。",
+    "en": "If the world had no books, how much luster civilization would lose."
+   },
+   {
+    "zh": "假如你现在开始努力,一切都还来得及。",
+    "pinyin": "Jiǎ rú nǐ xiàn zài kāi shǐ nǔ lì, yī qiè dōu hái lái de jí。",
+    "en": "If you start trying now, there's still time for everything."
+   },
+   {
+    "zh": "假如这条路走不通,我们再想别的办法也不迟。",
+    "pinyin": "Jiǎ rú zhè tiáo lù zǒu bù tōng, wǒ men zài xiǎng bié de bàn fǎ yě bù chí。",
+    "en": "If this way doesn't work, it's not too late to think of another."
+   },
+   {
+    "zh": "假如他能虚心一点,大家也许更愿意帮助他。",
+    "pinyin": "Jiǎ rú tā néng xū xīn yì diǎn, dà jiā yě xǔ gèng yuàn yì bāng zhù tā。",
+    "en": "If he were a bit humbler, people might be gladder to help him."
+   },
+   {
+    "zh": "假如没有那次偶然的相遇,我们也许一辈子都不会相识。",
+    "pinyin": "Jiǎ rú méi yǒu nà cì ǒu rán de xiāng yù, wǒ men yě xǔ yī bèi zi dōu bú huì xiāng shí。",
+    "en": "Without that chance meeting, we might never have known each other."
+   },
+   {
+    "zh": "假如把这笔钱存起来,几年后就是一笔不小的积蓄。",
+    "pinyin": "Jiǎ rú bǎ zhè bǐ qián cún qǐ lái, jǐ nián hòu jiù shì yī bǐ bù xiǎo de jī xù。",
+    "en": "If this money were saved, in years it'd be a sizable sum."
+   },
+   {
+    "zh": "假如你事先跟我说一声,我一定会留在家里等你。",
+    "pinyin": "Jiǎ rú nǐ shì xiān gēn wǒ shuō yī shēng, wǒ yí dìng huì liú zài jiā lǐ děng nǐ。",
+    "en": "Had you told me in advance, I'd have stayed home to wait."
+   },
+   {
+    "zh": "假如再多一点耐心,他也许就能等到最后的转机。",
+    "pinyin": "Jiǎ rú zài duō yì diǎn nài xīn, tā yě xǔ jiù néng děng dào zuì hòu de zhuǎn jī。",
+    "en": "With a little more patience, he might have awaited the turning point."
+   },
+   {
+    "zh": "假如这个消息是真的,那可就太让人高兴了。",
+    "pinyin": "Jiǎ rú zhè ge xiāo xī shì zhēn de, nà kě jiù tài ràng rén gāo xìng le。",
+    "en": "If this news is true, it would be truly delightful."
+   },
+   {
+    "zh": "假如大家齐心协力,再大的困难也一定能克服。",
+    "pinyin": "Jiǎ rú dà jiā qí xīn xié lì, zài dà de kùn nán yě yí dìng néng kè fú。",
+    "en": "If all pull together, even great difficulties can be overcome."
+   },
+   {
+    "zh": "假如可以重新选择,他说自己还是会走这条路。",
+    "pinyin": "Jiǎ rú kě yǐ chóng xīn xuǎn zé, tā shuō zì jǐ hái shì huì zǒu zhè tiáo lù。",
+    "en": "Given the choice again, he says he'd still take this road."
+   }
+  ]
+ },
+ {
+  "id": "g367",
+  "level": 4,
+  "title": "\"要是...就\" ile koşul (konuşma dili)",
+  "titleEn": "Expressing \"if… then…\" with \"yaoshi\"",
+  "pattern": "要是 ...，就 ...",
+  "summary": "\"要是...就\" konuşma dilinde koşul kurar: 要是你早点说,我就帮你了 = Erken söyleseydin sana yardım ederdim.",
+  "explanation": "\"要是\" (yàoshi) konuşma dilinde bir koşul öne sürer; \"如果\"nın günlük, samimi karşılığıdır: \"...-se, eğer ..., ... olursa\". Kalıp: 要是 + koşul，(就) + sonuç. 要是明天不下雨,我们就去爬山 (Yarın yağmur yağmazsa dağa çıkarız), 要是你早点告诉我,我就不会走错路了 (Bana erken söyleseydin yolu şaşırmazdım), 要是有什么问题,随时给我打电话 (Bir sorun olursa istediğin zaman ara). İkinci bölümde çoğu zaman \"就\" bulunur; sonda \"的话\" da eklenebilir (要是...的话). \"要是\" hem olası koşulları hem gerçeğe aykırı varsayımları kurabilir ve tümüyle konuşma diline özgüdür (\"如果/假如\"dan daha gündeliktir). Bir koşulu ve onun doğal sonucunu belirtmenin en yaygın günlük yoludur. (Not: buradaki \"要\" bir fiil değil, koşul bağlacının parçasıdır.) Türkçedeki \"...-se, eğer ..., ... olursa (o zaman)\" koşul ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "要是明天天气好的话,我们就一起去郊外骑车吧。",
+    "pinyin": "Yào shì míng tiān tiān qì hǎo de huà, wǒ men jiù yì qǐ qù jiāo wài qí chē ba。",
+    "en": "If the weather's nice tomorrow, let's go cycling in the country."
+   },
+   {
+    "zh": "要是你早点告诉我这件事,我肯定会想办法帮你。",
+    "pinyin": "Yào shì nǐ zǎo diǎn gào sù wǒ zhè jiàn shì, wǒ kěn dìng huì xiǎng bàn fǎ bāng nǐ。",
+    "en": "Had you told me earlier, I'd surely have found a way to help."
+   },
+   {
+    "zh": "要是路上遇到什么麻烦,记得随时给家里打电话。",
+    "pinyin": "Yào shì lù shàng yù dào shén me má fán, jì de suí shí gěi jiā lǐ dǎ diàn huà。",
+    "en": "If you hit any trouble on the way, call home anytime."
+   },
+   {
+    "zh": "要是这次能顺利通过考试,我就请大家吃顿好的。",
+    "pinyin": "Yào shì zhè cì néng shùn lì tōng guò kǎo shì, wǒ jiù qǐng dà jiā chī dùn hǎo de。",
+    "en": "If I pass the exam smoothly, I'll treat everyone to a good meal."
+   },
+   {
+    "zh": "要是当时再坚持一下,说不定结果就完全不一样了。",
+    "pinyin": "Yào shì dāng shí zài jiān chí yī xià, shuō bù dìng jié guǒ jiù wán quán bù yí yàng le。",
+    "en": "Had he held on a bit longer, the outcome might have differed."
+   },
+   {
+    "zh": "要是你实在不喜欢这份工作,不如趁早换一个。",
+    "pinyin": "Yào shì nǐ shí zài bù xǐ huān zhè fèn gōng zuò, bù rú chèn zǎo huàn yí gè。",
+    "en": "If you really dislike this job, better change it early."
+   },
+   {
+    "zh": "要是没有你及时提醒,我差点就把重要的约会忘了。",
+    "pinyin": "Yào shì méi yǒu nǐ jí shí tí xǐng, wǒ chà diǎn jiù bǎ zhòng yào de yuē huì wàng le。",
+    "en": "Without your timely reminder, I'd nearly have forgotten the appointment."
+   },
+   {
+    "zh": "要是天再冷一点,门口的那盆花恐怕就要冻坏了。",
+    "pinyin": "Yào shì tiān zài lěng yì diǎn, mén kǒu de nà pén huā kǒng pà jiù yào dòng huài le。",
+    "en": "If it gets a bit colder, the potted plant outside may freeze."
+   },
+   {
+    "zh": "要是大家都能守时,会议就不会一再往后拖了。",
+    "pinyin": "Yào shì dà jiā dōu néng shǒu shí, huì yì jiù bú huì yī zài wǎng hòu tuō le。",
+    "en": "If all were punctual, the meeting wouldn't keep getting delayed."
+   },
+   {
+    "zh": "要是你愿意的话,周末我们可以一起去看那场展览。",
+    "pinyin": "Yào shì nǐ yuàn yì de huà, zhōu mò wǒ men kě yǐ yì qǐ qù kàn nà chǎng zhǎn lǎn。",
+    "en": "If you like, we can see that exhibition together this weekend."
+   },
+   {
+    "zh": "要是早知道这里这么堵,我们就该提前一小时出发。",
+    "pinyin": "Yào shì zǎo zhī dào zhè lǐ zhè me dǔ, wǒ men jiù gāi tí qián yī xiǎo shí chū fā。",
+    "en": "Had we known it'd be so jammed, we'd have left an hour earlier."
+   },
+   {
+    "zh": "要是他能把这个坏毛病改掉,前途一定会更好。",
+    "pinyin": "Yào shì tā néng bǎ zhè ge huài máo bìng gǎi diào, qián tú yí dìng huì gèng hǎo。",
+    "en": "If he could break this bad habit, his future would be brighter."
+   },
+   {
+    "zh": "要是这道题你实在不会,可以先跳过去做后面的。",
+    "pinyin": "Yào shì zhè dào tí nǐ shí zài bú huì, kě yǐ xiān tiào guò qù zuò hòu miàn de。",
+    "en": "If you truly can't do this problem, skip to the later ones first."
+   },
+   {
+    "zh": "要是明天堵车,我们恐怕就赶不上那班火车了。",
+    "pinyin": "Yào shì míng tiān dǔ chē, wǒ men kǒng pà jiù gǎn bù shàng nà bān huǒ chē le。",
+    "en": "If there's traffic tomorrow, we may miss that train."
+   },
+   {
+    "zh": "要是你觉得累了,就先歇一会儿,别硬撑着。",
+    "pinyin": "Yào shì nǐ jué de lèi le, jiù xiān xiē yī huì er, bié yìng chēng zhe。",
+    "en": "If you feel tired, rest a while; don't force yourself."
+   },
+   {
+    "zh": "要是当初多存点钱,现在也不至于这么紧张了。",
+    "pinyin": "Yào shì dāng chū duō cún diǎn qián, xiàn zài yě bù zhì yú zhè me jǐn zhāng le。",
+    "en": "Had we saved more back then, we wouldn't be so tight now."
+   },
+   {
+    "zh": "要是你们能早点和好,这场误会也就不会闹这么大。",
+    "pinyin": "Yào shì nǐ men néng zǎo diǎn hé hǎo, zhè chǎng wù huì yě jiù bú huì nào zhè me dà。",
+    "en": "Had you made up sooner, this misunderstanding wouldn't have grown."
+   },
+   {
+    "zh": "要是这次机会错过了,下次还不知道要等到什么时候。",
+    "pinyin": "Yào shì zhè cì jī huì cuò guò le, xià cì hái bù zhī dào yào děng dào shén me shí hòu。",
+    "en": "If we miss this chance, who knows when the next will come."
+   },
+   {
+    "zh": "要是他肯听劝,也不会把事情弄到今天这个地步。",
+    "pinyin": "Yào shì tā kěn tīng quàn, yě bú huì bǎ shì qíng nòng dào jīn tiān zhè ge de bù。",
+    "en": "Had he heeded advice, things wouldn't have come to this."
+   },
+   {
+    "zh": "要是有一天我能环游世界,那该是多么美好的事啊。",
+    "pinyin": "Yào shì yǒu yī tiān wǒ néng huán yóu shì jiè, nà gāi shì duō me měi hǎo de shì a。",
+    "en": "If one day I could travel the world, how wonderful that would be."
+   },
+   {
+    "zh": "要是你把说明书仔细看一遍,这些问题都能自己解决。",
+    "pinyin": "Yào shì nǐ bǎ shuō míng shū zǐ xì kàn yī biàn, zhè xiē wèn tí dōu néng zì jǐ jiě jué。",
+    "en": "If you'd read the manual carefully, you could solve these yourself."
+   },
+   {
+    "zh": "要是再给他一点时间,他一定能把这幅画画完。",
+    "pinyin": "Yào shì zài gěi tā yì diǎn shí jiān, tā yí dìng néng bǎ zhè fú huà huà wán。",
+    "en": "Given a little more time, he could surely finish the painting."
+   },
+   {
+    "zh": "要是大家都不愿意出头,这件事就永远办不成了。",
+    "pinyin": "Yào shì dà jiā dōu bù yuàn yì chū tóu, zhè jiàn shì jiù yǒng yuǎn bàn bù chéng le。",
+    "en": "If no one steps up, this matter will never get done."
+   },
+   {
+    "zh": "要是你信得过我,就把这件事放心地交给我去办。",
+    "pinyin": "Yào shì nǐ xìn de guò wǒ, jiù bǎ zhè jiàn shì fàng xīn de jiāo gěi wǒ qù bàn。",
+    "en": "If you trust me, hand this matter to me with peace of mind."
+   },
+   {
+    "zh": "要是我年轻的时候多读点书,今天也许会有不同的人生。",
+    "pinyin": "Yào shì wǒ nián qīng de shí hòu duō dú diǎn shū, jīn tiān yě xǔ huì yǒu bù tóng de rén shēng。",
+    "en": "Had I read more when young, my life today might be different."
+   }
+  ]
  }
 ]

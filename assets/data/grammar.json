@@ -55350,5 +55350,685 @@
     "en": "If there're leftovers, fine; heat them up for another meal tonight."
    }
   ]
+ },
+ {
+  "id": "g408",
+  "level": 4,
+  "title": "\"好\" ile amaç bildirme (...ki ...-sin diye)",
+  "titleEn": "Expressing purpose with \"hao\"",
+  "pattern": "..., 好 + (İkinci eylem/amaç)",
+  "summary": "\"好\" bir eylemin amacını, kolaylaşacak sonucu bildirir: 早点睡,好明天早起 = Erken yat ki yarın erken kalkabilesin.",
+  "explanation": "\"好\" (hǎo) iki cümle arasına girip ilk eylemin AMACINI — ikinci eylemi mümkün/kolay kılmak için yapıldığını — bildirir: \"...-sin diye, ...-mek için, ki ...-ebilsin\". Kalıp: (önce yapılan eylem)，好 + (kolaylaşan/mümkün olan ikinci eylem). 你把地址写下来,我好照着去找 (Adresi yaz da ona bakarak bulabileyim), 早点休息,好养足精神迎接明天的比赛 (Erken dinlen ki yarınki maça hazır olasın), 请把窗户打开,好让新鲜空气进来 (Pencereyi aç ki taze hava girsin), 我先把材料准备好,开会时好拿出来用 (Belgeleri önceden hazırlayayım ki toplantıda kullanabileyim). Buradaki \"好\" \"iyi\" sıfatı değil, bir AMAÇ bağlacıdır (\"以便\" ile eş anlamlı) ve ikinci cümlenin ilk eylem sayesinde kolaylaşacağını/gerçekleşebileceğini vurgular. İlk cümlede genellikle bir hazırlık/önlem eylemi, ikincisinde onun sağladığı imkân bulunur. \"好\"dan sonra sık sık \"让\" (ki ... -sin) gelebilir: 好让大家... Türkçedeki \"...-sin diye, ...-mek için, ki ...-ebilsin, ...-mek üzere\" amaç ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "你把要买的东西写在纸上,我好照着单子去采购。",
+    "pinyin": "Nǐ bǎ yào mǎi de dōng xī xiě zài zhǐ shàng, wǒ hǎo zhào zhe dān zi qù cǎi gòu。",
+    "en": "Write down what to buy, so I can shop from the list."
+   },
+   {
+    "zh": "大家今晚早点休息,好养足精神迎接明天的比赛。",
+    "pinyin": "Dà jiā jīn wǎn zǎo diǎn xiū xī, hǎo yǎng zú jīng shén yíng jiē míng tiān de bǐ sài。",
+    "en": "Everyone rest early tonight, so you're fresh for tomorrow's match."
+   },
+   {
+    "zh": "请你留个电话号码,以后有事我好随时联系你。",
+    "pinyin": "Qǐng nǐ liú gè diàn huà hào mǎ, yǐ hòu yǒu shì wǒ hǎo suí shí lián xì nǐ。",
+    "en": "Please leave a number, so I can reach you anytime."
+   },
+   {
+    "zh": "我先把行李收拾好,明天一早好准时出发。",
+    "pinyin": "Wǒ xiān bǎ xíng lǐ shōu shí hǎo, míng tiān yī zǎo hǎo zhǔn shí chū fā。",
+    "en": "Let me pack the luggage, so we can leave on time at dawn."
+   },
+   {
+    "zh": "把窗户打开一点吧,好让屋里的空气流通一下。",
+    "pinyin": "Bǎ chuāng hù dǎ kāi yì diǎn ba, hǎo ràng wū lǐ de kōng qì liú tōng yī xià。",
+    "en": "Open the window a bit, so the air in the room can circulate."
+   },
+   {
+    "zh": "你把步骤讲清楚,我好一步一步地跟着做。",
+    "pinyin": "Nǐ bǎ bù zhòu jiǎng qīng chǔ, wǒ hǎo yí bù yí bù de gēn zhe zuò。",
+    "en": "Explain the steps clearly, so I can follow one by one."
+   },
+   {
+    "zh": "我们提前订好票,好避免到时候买不到座位。",
+    "pinyin": "Wǒ men tí qián dìng hǎo piào, hǎo bì miǎn dào shí hòu mǎi bú dào zuò wèi。",
+    "en": "Let's book tickets early, so we don't end up without seats."
+   },
+   {
+    "zh": "请把不懂的地方标出来,上课时好重点问老师。",
+    "pinyin": "Qǐng bǎ bù dǒng de dì fāng biāo chū lái, shàng kè shí hǎo zhòng diǎn wèn lǎo shī。",
+    "en": "Mark what you don't get, so you can ask the teacher in class."
+   },
+   {
+    "zh": "你先把情况跟我说说,我好心里有个数。",
+    "pinyin": "Nǐ xiān bǎ qíng kuàng gēn wǒ shuō shuō, wǒ hǎo xīn lǐ yǒu gè shù。",
+    "en": "Tell me the situation first, so I have some idea in mind."
+   },
+   {
+    "zh": "趁着天没黑,咱们快点下山,好在天黑前赶回家。",
+    "pinyin": "Chèn zhe tiān méi hēi, zán men kuài diǎn xià shān, hǎo zài tiān hēi qián gǎn huí jiā。",
+    "en": "While it's light, let's hurry down, so we get home before dark."
+   },
+   {
+    "zh": "把重要的资料多备份几份,好防止不小心弄丢。",
+    "pinyin": "Bǎ zhòng yào de zī liào duō bèi fèn jǐ fèn, hǎo fáng zhǐ bù xiǎo xīn nòng diū。",
+    "en": "Back up the key data a few times, so it won't get lost."
+   },
+   {
+    "zh": "你把门开着吧,好让晚归的家人能直接进来。",
+    "pinyin": "Nǐ bǎ mén kāi zhe ba, hǎo ràng wǎn guī de jiā rén néng zhí jiē jìn lái。",
+    "en": "Leave the door open, so latecomers can come right in."
+   },
+   {
+    "zh": "我把地图打印出来,路上好随时对照着看。",
+    "pinyin": "Wǒ bǎ dì tú dǎ yìn chū lái, lù shàng hǎo suí shí duì zhào zhe kàn。",
+    "en": "Let me print the map, so I can check it along the way."
+   },
+   {
+    "zh": "请大家把座位往里坐一坐,好给后来的人腾点地方。",
+    "pinyin": "Qǐng dà jiā bǎ zuò wèi wǎng lǐ zuò yī zuò, hǎo gěi hòu lái de rén téng diǎn dì fāng。",
+    "en": "Please move in a seat, so there's room for latecomers."
+   },
+   {
+    "zh": "你把这几个生词多念几遍,好记得更牢一些。",
+    "pinyin": "Nǐ bǎ zhè jǐ gè shēng cí duō niàn jǐ biàn, hǎo jì de gèng láo yī xiē。",
+    "en": "Read these new words a few more times, so they stick better."
+   },
+   {
+    "zh": "我们先把预算算清楚,好决定这次旅行去哪里。",
+    "pinyin": "Wǒ men xiān bǎ yù suàn suàn qīng chǔ, hǎo jué dìng zhè cì lǚ xíng qù nǎ lǐ。",
+    "en": "Let's tally the budget, so we can decide where to travel."
+   },
+   {
+    "zh": "你把想法都写下来,开会时好跟大家一起讨论。",
+    "pinyin": "Nǐ bǎ xiǎng fǎ dōu xiě xià lái, kāi huì shí hǎo gēn dà jiā yì qǐ tǎo lùn。",
+    "en": "Write down your ideas, so we can discuss them at the meeting."
+   },
+   {
+    "zh": "提前把工具准备好,干活的时候好随手就能用上。",
+    "pinyin": "Tí qián bǎ gōng jù zhǔn bèi hǎo, gàn huó de shí hòu hǎo suí shǒu jiù néng yòng shàng。",
+    "en": "Prep the tools ahead, so they're at hand while you work."
+   },
+   {
+    "zh": "你把病情如实告诉医生,他好对症下药。",
+    "pinyin": "Nǐ bǎ bìng qíng rú shí gào sù yī shēng, tā hǎo duì zhèng xià yào。",
+    "en": "Tell the doctor your symptoms truly, so he can treat rightly."
+   },
+   {
+    "zh": "咱们把桌子擦干净,好把新买的花摆上去。",
+    "pinyin": "Zán men bǎ zhuō zi cā gān jìng, hǎo bǎ xīn mǎi de huā bǎi shàng qù。",
+    "en": "Let's wipe the table clean, so we can set the new flowers on it."
+   },
+   {
+    "zh": "你把钥匙放在固定的地方,好每次都能一下子找到。",
+    "pinyin": "Nǐ bǎ yào shi fàng zài gù dìng de dì fāng, hǎo měi cì dōu néng yī xià zi zhǎo dào。",
+    "en": "Keep the key in a fixed spot, so you find it at once each time."
+   },
+   {
+    "zh": "我先把稿子改好,好在截止之前顺利交上去。",
+    "pinyin": "Wǒ xiān bǎ gǎo zi gǎi hǎo, hǎo zài jié zhǐ zhī qián shùn lì jiāo shàng qù。",
+    "en": "Let me revise the draft, so I can submit it before the deadline."
+   },
+   {
+    "zh": "请把人数统计一下,好安排合适数量的座位。",
+    "pinyin": "Qǐng bǎ rén shù tǒng jì yī xià, hǎo ān pái hé shì shù liàng de zuò wèi。",
+    "en": "Please count the people, so we can arrange enough seats."
+   },
+   {
+    "zh": "你把当天的安排告诉我,我好提前做好准备。",
+    "pinyin": "Nǐ bǎ dàng tiān de ān pái gào sù wǒ, wǒ hǎo tí qián zuò hǎo zhǔn bèi。",
+    "en": "Tell me that day's schedule, so I can prepare in advance."
+   },
+   {
+    "zh": "趁现在有空,把该学的先学了,好腾出时间做别的。",
+    "pinyin": "Chèn xiàn zài yǒu kòng, bǎ gāi xué de xiān xué le, hǎo téng chū shí jiān zuò bié de。",
+    "en": "While free now, learn what you must, so you free time for else."
+   }
+  ]
+ },
+ {
+  "id": "g409",
+  "level": 4,
+  "title": "\"一面...一面...\" ile eş zamanlı eylemler",
+  "titleEn": "Expressing simultaneous actions with \"yimian\"",
+  "pattern": "一面 + A，一面 + B",
+  "summary": "\"一面...一面...\" iki eylemin aynı anda yapıldığını bildirir: 他一面走一面看书 = Hem yürüyor hem kitap okuyor.",
+  "explanation": "\"一面 A，一面 B\" aynı öznenin İKİ eylemi AYNI ANDA yaptığını bildirir: \"hem ... hem ..., bir yandan ... bir yandan ..., ...-erken aynı zamanda ...\". Kalıp: (özne) 一面 + fiil A，一面 + fiil B. 他一面听音乐,一面写作业 (Hem müzik dinliyor hem ödev yapıyor), 妈妈一面做饭,一面照看着孩子 (Anne bir yandan yemek yapıyor bir yandan çocuğa bakıyor), 老师一面讲解,一面在黑板上画图 (Öğretmen hem anlatıyor hem tahtaya çiziyor), 他一面走一面回头张望 (Yürürken bir yandan da dönüp bakıyor). İki eylem eş zamanlı ve aynı özneye aittir. \"一边...一边...\" ile aynı anlamdadır; \"一面...一面...\" biraz daha resmî/yazılıdır, \"一边...一边...\" ise günlük konuşmada daha yaygındır. Ayrıca \"一面\" iki YÖNÜ/yanı da anlatabilir: 这件事一面有好处,一面也有风险 (Bu işin bir yanı yararlı, bir yanı riskli) — ama temel kullanım eş zamanlı eylemlerdir. \"一面\" tek başına \"一面之词\" (tek taraflı söz) gibi \"bir yan/taraf\" anlamı da taşır. Türkçedeki \"hem ... hem ..., bir yandan ... bir yandan ..., ...-erken aynı zamanda ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他一面认真地听着老师讲课,一面飞快地做着笔记。",
+    "pinyin": "Tā yí miàn rèn zhēn de tīng zhe lǎo shī jiǎng kè, yí miàn fēi kuài de zuò zhuó bǐ jì。",
+    "en": "He listened attentively to the lecture while taking quick notes."
+   },
+   {
+    "zh": "妈妈一面在厨房里做饭,一面留意着院子里玩耍的孩子。",
+    "pinyin": "Mā mā yí miàn zài chú fáng lǐ zuò fàn, yí miàn liú yì zhe yuàn zi lǐ wán shuǎ de hái zi。",
+    "en": "Mother cooked in the kitchen while watching the children play."
+   },
+   {
+    "zh": "老师一面在黑板上写字,一面耐心地给大家讲解。",
+    "pinyin": "Lǎo shī yí miàn zài hēi bǎn shàng xiě zì, yí miàn nài xīn de gěi dà jiā jiǎng jiě。",
+    "en": "The teacher wrote on the board while patiently explaining."
+   },
+   {
+    "zh": "他一面往前走,一面不时回头张望,似乎在等什么人。",
+    "pinyin": "Tā yí miàn wǎng qián zǒu, yí miàn bù shí huí tóu zhāng wàng, sì hū zài děng shén me rén。",
+    "en": "He walked on, glancing back now and then as if waiting for someone."
+   },
+   {
+    "zh": "大家一面吃着热腾腾的饭菜,一面聊着一年来的趣事。",
+    "pinyin": "Dà jiā yí miàn chī zhe rè téng téng de fàn cài, yí miàn liáo zhe yī nián lái de qù shì。",
+    "en": "They ate the hot meal while chatting about the year's fun."
+   },
+   {
+    "zh": "她一面收拾着散乱的房间,一面哼着轻快的小曲。",
+    "pinyin": "Tā yí miàn shōu shí zhe sǎn luàn de fáng jiān, yí miàn hēng zhe qīng kuài de xiǎo qǔ。",
+    "en": "She tidied the messy room while humming a cheerful tune."
+   },
+   {
+    "zh": "他一面开着车,一面留意着路边的指示牌。",
+    "pinyin": "Tā yí miàn kāi zhe chē, yí miàn liú yì zhe lù biān de zhǐ shì pái。",
+    "en": "He drove while keeping an eye on the roadside signs."
+   },
+   {
+    "zh": "工人们一面搬运材料,一面商量着接下来的施工方案。",
+    "pinyin": "Gōng rén men yí miàn bān yùn cái liào, yí miàn shāng liáng zhe jiē xià lái de shī gōng fāng àn。",
+    "en": "The workers carried materials while discussing the next plan."
+   },
+   {
+    "zh": "小女孩一面荡着秋千,一面开心地放声大笑。",
+    "pinyin": "Xiǎo nǚ hái yí miàn dàng zhe qiū qiān, yí miàn kāi xīn de fàng shēng dà xiào。",
+    "en": "The little girl swung while laughing out loud with joy."
+   },
+   {
+    "zh": "他一面翻看着旧照片,一面向我讲述当年的故事。",
+    "pinyin": "Tā yí miàn fān kàn zhe jiù zhào piān, yí miàn xiàng wǒ jiǎng shù dāng nián de gù shì。",
+    "en": "He flipped through old photos while telling me the old story."
+   },
+   {
+    "zh": "护士一面轻声安慰病人,一面熟练地为他包扎伤口。",
+    "pinyin": "Hù shì yí miàn qīng shēng ān wèi bìng rén, yí miàn shú liàn de wèi tā bāo zā shāng kǒu。",
+    "en": "The nurse soothed the patient while deftly dressing the wound."
+   },
+   {
+    "zh": "爷爷一面喝着茶,一面给我们讲他年轻时的经历。",
+    "pinyin": "Yé yé yí miàn hē zhe chá, yí miàn gěi wǒ men jiǎng tā nián qīng shí de jīng lì。",
+    "en": "Grandpa sipped tea while telling us of his youth."
+   },
+   {
+    "zh": "他一面在心里盘算着,一面不动声色地观察着对方。",
+    "pinyin": "Tā yí miàn zài xīn lǐ pán suàn zhe, yí miàn bù dòng shēng sè de guān chá zhe duì fāng。",
+    "en": "He calculated inwardly while quietly observing the other."
+   },
+   {
+    "zh": "孩子们一面唱着歌,一面手拉手围成了一个大圆圈。",
+    "pinyin": "Hái zi men yí miàn chàng zhe gē, yí miàn shǒu lā shǒu wéi chéng le yí gè dà yuán quān。",
+    "en": "The children sang while joining hands into a big circle."
+   },
+   {
+    "zh": "她一面织着毛衣,一面听着收音机里的评书。",
+    "pinyin": "Tā yí miàn zhī zhe máo yī, yí miàn tīng zhe shōu yīn jī lǐ de píng shū。",
+    "en": "She knitted a sweater while listening to storytelling on the radio."
+   },
+   {
+    "zh": "他一面擦着额头的汗,一面继续埋头苦干。",
+    "pinyin": "Tā yí miàn cā zhe é tóu de hàn, yí miàn jì xù mái tóu kǔ gàn。",
+    "en": "He wiped the sweat from his brow while toiling on."
+   },
+   {
+    "zh": "导游一面带着大家参观,一面绘声绘色地讲解历史。",
+    "pinyin": "Dǎo yóu yí miàn dài zhe dà jiā cān guān, yí miàn huì shēng huì sè de jiǎng jiě lì shǐ。",
+    "en": "The guide led the tour while vividly recounting the history."
+   },
+   {
+    "zh": "他一面安慰着哭泣的孩子,一面帮他把玩具捡起来。",
+    "pinyin": "Tā yí miàn ān wèi zhe kū qì de hái zi, yí miàn bāng tā bǎ wán jù jiǎn qǐ lái。",
+    "en": "He comforted the crying child while picking up the toys."
+   },
+   {
+    "zh": "农民们一面收割着庄稼,一面留意着天边的乌云。",
+    "pinyin": "Nóng mín men yí miàn shōu gē zhe zhuāng jià, yí miàn liú yì zhe tiān biān de wū yún。",
+    "en": "The farmers harvested while watching the dark clouds afar."
+   },
+   {
+    "zh": "她一面认真地听着,一面时不时地点头表示赞同。",
+    "pinyin": "Tā yí miàn rèn zhēn de tīng zhe, yí miàn shí bù shí dì diǎn tóu biǎo shì zàn tóng。",
+    "en": "She listened carefully while nodding now and then in agreement."
+   },
+   {
+    "zh": "他一面往锅里加着调料,一面尝了尝汤的味道。",
+    "pinyin": "Tā yí miàn wǎng guō lǐ jiā zhe tiáo liào, yí miàn cháng le cháng tāng de wèi dào。",
+    "en": "He added seasoning to the pot while tasting the soup."
+   },
+   {
+    "zh": "售货员一面热情地介绍,一面把商品递到顾客手里。",
+    "pinyin": "Shòu huò yuán yí miàn rè qíng de jiè shào, yí miàn bǎ shāng pǐn dì dào gù kè shǒu lǐ。",
+    "en": "The clerk introduced warmly while handing the goods over."
+   },
+   {
+    "zh": "他一面走一面思考,竟不知不觉走过了自己家门口。",
+    "pinyin": "Tā yí miàn zǒu yí miàn sī kǎo, jìng bù zhī bù jué zǒu guò le zì jǐ jiā mén kǒu。",
+    "en": "Walking and thinking, he unwittingly passed his own door."
+   },
+   {
+    "zh": "老人一面晒着太阳,一面慢悠悠地摇着蒲扇。",
+    "pinyin": "Lǎo rén yí miàn shài zhe tài yáng, yí miàn màn yōu yōu de yáo zhe pú shàn。",
+    "en": "The old man basked in the sun while slowly waving his fan."
+   },
+   {
+    "zh": "他一面处理着手头的工作,一面接听着不断打来的电话。",
+    "pinyin": "Tā yí miàn chǔ lǐ zhuó shǒu tóu de gōng zuò, yí miàn jiē tīng zhe bù duàn dǎ lái de diàn huà。",
+    "en": "He handled his work while answering the endless calls."
+   }
+  ]
+ },
+ {
+  "id": "g410",
+  "level": 4,
+  "title": "\"不是...就是...\" ile iki olasılık",
+  "titleEn": "Expressing the only two possibilities",
+  "pattern": "不是 + A，就是 + B",
+  "summary": "\"不是...就是...\" yalnızca iki olasılık olduğunu bildirir: 他不是在看书,就是在睡觉 = Ya kitap okuyordur ya da uyuyordur.",
+  "explanation": "\"不是 A，就是 B\" bir durumun yalnızca İKİ olasılıktan biri olduğunu, üçüncü bir ihtimal bulunmadığını bildirir: \"ya ... ya ..., ...-mese ..., ikisinden biri\". Kalıp: 不是 + A，就是 + B. 这么晚还不回来,他不是加班,就是又堵在路上了 (Bu saate dek gelmediyse ya mesaide ya da yolda trafikte kalmıştır), 每天不是刮风,就是下雨,天气糟透了 (Her gün ya rüzgâr ya yağmur, hava berbat), 桌上的东西不是他的,就是你的,不会是别人的 (Masadakiler ya onun ya senin, başkasının olamaz). İki olasılıktan birinin mutlaka geçerli olduğunu, arada başka seçenek olmadığını vurgular; çoğu zaman bir çıkarım ya da (yinelenen iki durum söz konusuysa) bir sitem/bıkkınlık bildirir. Not: aynı kalıp bazen \"hem ... hem ...\" gibi iki durumun sürekli değişimini de anlatır (yukarıdaki hava örneği gibi). \"要么...要么...\" ile yakındır ama \"不是...就是...\" bir ÇIKARIMI (mantıkça bu ikisinden biri) vurgularken, \"要么...要么...\" bir SEÇİM/tercih sunar. Türkçedeki \"ya ... ya ..., ...-mese ..., ikisinden biri mutlaka\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这么晚还没到家,他不是在加班,就是又堵在路上了。",
+    "pinyin": "Zhè me wǎn hái méi dào jiā, tā bú shì zài jiā bān, jiù shì yòu dǔ zài lù shàng le。",
+    "en": "So late and not home — he's either working late or stuck in traffic."
+   },
+   {
+    "zh": "最近的天气真糟糕,不是刮大风,就是下大雨。",
+    "pinyin": "Zuì jìn de tiān qì zhēn zāo gāo, bú shì guā dà fēng, jiù shì xià dà yǔ。",
+    "en": "The weather's awful lately — either strong wind or heavy rain."
+   },
+   {
+    "zh": "桌上这本书不是你的,就是他的,反正不会是我的。",
+    "pinyin": "Zhuō shàng zhè běn shū bú shì nǐ de, jiù shì tā de, fǎn zhèng bú huì shì wǒ de。",
+    "en": "This book is either yours or his; it's certainly not mine."
+   },
+   {
+    "zh": "他一到周末,不是在家睡懒觉,就是出去爬山。",
+    "pinyin": "Tā yī dào zhōu mò, bú shì zài jiā shuì lǎn jiào, jiù shì chū qù pá shān。",
+    "en": "Come the weekend, he's either sleeping in or out hiking."
+   },
+   {
+    "zh": "这孩子放学后不是踢球,就是打游戏,很少看书。",
+    "pinyin": "Zhè hái zi fàng xué hòu bú shì tī qiú, jiù shì dǎ yóu xì, hěn shǎo kàn shū。",
+    "en": "After school the kid either plays ball or games, rarely reading."
+   },
+   {
+    "zh": "能把这件事办成的,不是老王,就是小李,别人都不行。",
+    "pinyin": "Néng bǎ zhè jiàn shì bàn chéng de, bú shì lǎo wáng, jiù shì xiǎo lǐ, bié rén dōu bù xíng。",
+    "en": "Only Old Wang or Young Li can pull this off, no one else."
+   },
+   {
+    "zh": "他每次打电话来,不是借钱,就是求我帮忙。",
+    "pinyin": "Tā měi cì dǎ diàn huà lái, bú shì jiè qián, jiù shì qiú wǒ bāng máng。",
+    "en": "Every time he calls, it's to borrow money or ask a favor."
+   },
+   {
+    "zh": "这道菜的味道不对,不是盐放多了,就是火候过了。",
+    "pinyin": "Zhè dào cài de wèi dào bú duì, bú shì yán fàng duō le, jiù shì huǒ hòu guò le。",
+    "en": "The dish tastes off — either too much salt or overcooked."
+   },
+   {
+    "zh": "这几天他脸色不好,不是没睡好,就是有什么心事。",
+    "pinyin": "Zhè jǐ tiān tā liǎn sè bù hǎo, bú shì méi shuì hǎo, jiù shì yǒu shén me xīn shì。",
+    "en": "He's looked off lately — either poor sleep or something on his mind."
+   },
+   {
+    "zh": "周末的公园里,不是一家老小,就是三五成群的年轻人。",
+    "pinyin": "Zhōu mò de gōng yuán lǐ, bú shì yī jiā lǎo xiǎo, jiù shì sān wǔ chéng qún de nián qīng rén。",
+    "en": "Weekends at the park bring families or clusters of young folk."
+   },
+   {
+    "zh": "他说的话不是夸张,就是完全在开玩笑,别太当真。",
+    "pinyin": "Tā shuō de huà bú shì kuā zhāng, jiù shì wán quán zài kāi wán xiào, bié tài dàng zhēn。",
+    "en": "What he says is either exaggeration or pure joking; don't take it seriously."
+   },
+   {
+    "zh": "这份礼物不是妈妈准备的,就是姐姐买的,肯定没错。",
+    "pinyin": "Zhè fèn lǐ wù bú shì mā mā zhǔn bèi de, jiù shì jiě jiě mǎi de, kěn dìng méi cuò。",
+    "en": "This gift is either from Mom or my sister, no doubt about it."
+   },
+   {
+    "zh": "那条街上的店铺,不是卖小吃的,就是卖纪念品的。",
+    "pinyin": "Nà tiáo jiē shàng de diàn pù, bú shì mài xiǎo chī de, jiù shì mài jì niàn pǐn de。",
+    "en": "The shops on that street sell either snacks or souvenirs."
+   },
+   {
+    "zh": "他一有空,不是摆弄花草,就是修理家里的旧东西。",
+    "pinyin": "Tā yī yǒu kòng, bú shì bǎi nòng huā cǎo, jiù shì xiū lǐ jiā lǐ de jiù dōng xī。",
+    "en": "Whenever free, he tends plants or fixes old things at home."
+   },
+   {
+    "zh": "这么冷的天穿这么少,你不是感冒,就是冻着。",
+    "pinyin": "Zhè me lěng de tiān chuān zhè me shǎo, nǐ bú shì gǎn mào, jiù shì dòng zhe。",
+    "en": "Dressed so lightly in this cold, you'll catch a cold or a chill."
+   },
+   {
+    "zh": "这道题做错了,不是审题不清,就是计算出了差错。",
+    "pinyin": "Zhè dào tí zuò cuò le, bú shì shěn tí bù qīng, jiù shì jì suàn chū le chā cuò。",
+    "en": "This wrong answer is either from misreading or a calculation slip."
+   },
+   {
+    "zh": "他床头堆的不是小说,就是杂志,全是他爱看的书。",
+    "pinyin": "Tā chuáng tóu duī de bú shì xiǎo shuō, jiù shì zá zhì, quán shì tā ài kàn de shū。",
+    "en": "His bedside holds novels or magazines, all his favorites."
+   },
+   {
+    "zh": "这家餐厅一到饭点,不是满座,就是要排队。",
+    "pinyin": "Zhè jiā cān tīng yī dào fàn diǎn, bú shì mǎn zuò, jiù shì yào pái duì。",
+    "en": "At mealtimes this restaurant is either full or has a queue."
+   },
+   {
+    "zh": "能这么了解内情的人,不是他,就是他身边的亲信。",
+    "pinyin": "Néng zhè me liǎo jiě nèi qíng de rén, bú shì tā, jiù shì tā shēn biān de qīn xìn。",
+    "en": "Only he or his close aide could know the inside so well."
+   },
+   {
+    "zh": "这几年他忙得很,不是出差,就是加班,很少着家。",
+    "pinyin": "Zhè jǐ nián tā máng de hěn, bú shì chū chāi, jiù shì jiā bān, hěn shǎo zhe jiā。",
+    "en": "Busy these years, he's away or working late, seldom home."
+   },
+   {
+    "zh": "弄坏花瓶的,不是那只猫,就是调皮的小侄子。",
+    "pinyin": "Nòng huài huā píng de, bú shì nà zhǐ māo, jiù shì tiáo pí de xiǎo zhí zi。",
+    "en": "The vase was broken by either the cat or the naughty nephew."
+   },
+   {
+    "zh": "他给的理由不是身体不舒服,就是临时有事,总在推脱。",
+    "pinyin": "Tā gěi de lǐ yóu bú shì shēn tǐ bù shū fú, jiù shì lín shí yǒu shì, zǒng zài tuī tuō。",
+    "en": "His reasons are always illness or a sudden matter — always excuses."
+   },
+   {
+    "zh": "这个点儿还亮着灯,他不是在写东西,就是在看书。",
+    "pinyin": "Zhè ge diǎn ér hái liàng zhe dēng, tā bú shì zài xiě dōng xī, jiù shì zài kàn shū。",
+    "en": "Lights on at this hour — he's either writing or reading."
+   },
+   {
+    "zh": "送来的快递不是网上买的书,就是日用品,很少有别的。",
+    "pinyin": "Sòng lái de kuài dì bú shì wǎng shàng mǎi de shū, jiù shì rì yòng pǐn, hěn shǎo yǒu bié de。",
+    "en": "The parcels are either books ordered online or daily goods."
+   },
+   {
+    "zh": "这件事的原因,不是沟通出了问题,就是彼此有了误会。",
+    "pinyin": "Zhè jiàn shì de yuán yīn, bú shì gōu tōng chū le wèn tí, jiù shì bǐ cǐ yǒu le wù huì。",
+    "en": "The cause is either poor communication or a mutual misunderstanding."
+   }
+  ]
+ },
+ {
+  "id": "g411",
+  "level": 4,
+  "title": "\"或者...或者...\" ile seçenek sunma",
+  "titleEn": "Providing two options with double \"huozhe\"",
+  "pattern": "或者 + A，或者 + B",
+  "summary": "\"或者...或者...\" iki (ya da daha çok) seçeneği sıralar: 或者你来,或者我去,总得见一面 = Ya sen gel ya ben geleyim, bir görüşmeliyiz.",
+  "explanation": "\"或者 A，或者 B\" iki ya da daha çok seçeneği DÜZ CÜMLEDE sıralar: \"ya ... ya ..., veya ..., ister ... ister ...\". Kalıp: 或者 + A，或者 + B(，或者 C). 周末或者去爬山,或者去看电影,你来定 (Hafta sonu ya dağa çıkarız ya sinemaya gideriz, sen karar ver), 这件事或者你去说,或者我去说,总得有人开口 (Bunu ya sen söyle ya ben, biri konuşmalı), 你可以坐地铁,或者打车,或者干脆走过去 (Metroya binebilir, taksiye binebilir ya da yürüyebilirsin). Önemli ayrım: \"或者\" DÜZ (bildirme) cümlelerde seçenek sıralar; \"还是\" ise SORU cümlelerinde \"... mı yoksa ... mı?\" için kullanılır (你喝茶还是喝咖啡? = Çay mı kahve mi içersin?). Yani \"或者\" ≈ İngilizce \"or\" (düz cümlede), \"还是\" ≈ soru \"or\". \"或者\" tek başına da (bir kez) kullanılabilir; \"或者...或者...\" biçiminde ikilenince seçenekler daha belirgin, dengeli sıralanır. Bazen \"要么...要么...\" (kesin ikilem) yerine daha yumuşak, açık uçlu bir seçenek listesi verir. Türkçedeki \"ya ... ya ..., veya ..., ister ... ister ...\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这个周末,或者去郊外走走,或者在家好好休息,由你决定。",
+    "pinyin": "Zhè ge zhōu mò, huò zhě qù jiāo wài zǒu zǒu, huò zhě zài jiā hǎo hǎo xiū xī, yóu nǐ jué dìng。",
+    "en": "This weekend, either go out or rest at home — you decide."
+   },
+   {
+    "zh": "这件事或者你亲自去说,或者写封信,总得给个交代。",
+    "pinyin": "Zhè jiàn shì huò zhě nǐ qīn zì qù shuō, huò zhě xiě fēng xìn, zǒng de gěi gè jiāo dài。",
+    "en": "Either tell him yourself or write a letter; give some account."
+   },
+   {
+    "zh": "去那儿,或者坐公交,或者骑车,或者干脆步行都行。",
+    "pinyin": "Qù nà ér, huò zhě zuò gōng jiāo, huò zhě qí chē, huò zhě gān cuì bù xíng dōu xíng。",
+    "en": "To get there, take the bus, cycle, or simply walk — any works."
+   },
+   {
+    "zh": "有问题或者当面问我,或者发消息,我都会及时回复。",
+    "pinyin": "Yǒu wèn tí huò zhě dāng miàn wèn wǒ, huò zhě fā xiāo xī, wǒ dū huì jí shí huí fù。",
+    "en": "With questions, ask in person or message me; I'll reply promptly."
+   },
+   {
+    "zh": "晚饭或者吃面条,或者煮点粥,简单一点就好。",
+    "pinyin": "Wǎn fàn huò zhě chī miàn tiáo, huò zhě zhǔ diǎn zhōu, jiǎn dān yì diǎn jiù hǎo。",
+    "en": "For dinner, noodles or some porridge — keep it simple."
+   },
+   {
+    "zh": "这本书你或者自己买一本,或者去图书馆借,都很方便。",
+    "pinyin": "Zhè běn shū nǐ huò zhě zì jǐ mǎi yī běn, huò zhě qù tú shū guǎn jiè, dōu hěn fāng biàn。",
+    "en": "You can buy the book yourself or borrow it — both are easy."
+   },
+   {
+    "zh": "放假了,或者回老家看看,或者出去旅行,散散心也好。",
+    "pinyin": "Fàng jià le, huò zhě huí lǎo jiā kàn kàn, huò zhě chū qù lǚ xíng, sàn sàn xīn yě hǎo。",
+    "en": "On holiday, visit home or travel — either lifts the spirits."
+   },
+   {
+    "zh": "这道题或者用这种方法,或者换个思路,都能算出来。",
+    "pinyin": "Zhè dào tí huò zhě yòng zhè zhǒng fāng fǎ, huò zhě huàn gè sī lù, dōu néng suàn chū lái。",
+    "en": "This problem yields to this method or another approach."
+   },
+   {
+    "zh": "你或者现在就走,或者再等我一会儿,我很快就好。",
+    "pinyin": "Nǐ huò zhě xiàn zài jiù zǒu, huò zhě zài děng wǒ yī huì er, wǒ hěn kuài jiù hǎo。",
+    "en": "Either go now or wait a moment; I'll be quick."
+   },
+   {
+    "zh": "礼物或者送一本书,或者送束花,心意到了就行。",
+    "pinyin": "Lǐ wù huò zhě sòng yī běn shū, huò zhě sòng shù huā, xīn yì dào le jiù xíng。",
+    "en": "As a gift, a book or a bouquet — it's the thought that counts."
+   },
+   {
+    "zh": "这些旧衣服或者捐出去,或者留着当抹布,别浪费了。",
+    "pinyin": "Zhè xiē jiù yī fú huò zhě juān chū qù, huò zhě liú zhe dāng mā bù, bié làng fèi le。",
+    "en": "These old clothes — donate them or keep them as rags, don't waste."
+   },
+   {
+    "zh": "联系他,或者打电话,或者发邮件,总有一样能找到人。",
+    "pinyin": "Lián xì tā, huò zhě dǎ diàn huà, huò zhě fā yóu jiàn, zǒng yǒu yī yàng néng zhǎo dào rén。",
+    "en": "To reach him, call or email; one way will find him."
+   },
+   {
+    "zh": "周末的活动,或者打球,或者游泳,大家投票来定。",
+    "pinyin": "Zhōu mò de huó dòng, huò zhě dǎ qiú, huò zhě yóu yǒng, dà jiā tóu piào lái dìng。",
+    "en": "For the weekend, ball games or swimming — let's vote."
+   },
+   {
+    "zh": "这笔钱或者存起来,或者用来报个培训班,你自己拿主意。",
+    "pinyin": "Zhè bǐ qián huò zhě cún qǐ lái, huò zhě yòng lái bào gè péi xùn bān, nǐ zì jǐ ná zhǔ yì。",
+    "en": "This money — save it or take a course; you decide."
+   },
+   {
+    "zh": "累的时候,或者听听音乐,或者出去散散步,都能放松。",
+    "pinyin": "Lèi de shí hòu, huò zhě tīng tīng yīn yuè, huò zhě chū qù sàn sàn bù, dōu néng fàng sōng。",
+    "en": "When tired, listen to music or take a walk; both relax you."
+   },
+   {
+    "zh": "这份材料或者打印出来,或者直接发到我邮箱都可以。",
+    "pinyin": "Zhè fèn cái liào huò zhě dǎ yìn chū lái, huò zhě zhí jiē fā dào wǒ yóu xiāng dōu kě yǐ。",
+    "en": "This document — print it or email it to me, either's fine."
+   },
+   {
+    "zh": "有空的话,或者一起吃个饭,或者喝杯茶,聊聊近况。",
+    "pinyin": "Yǒu kòng de huà, huò zhě yì qǐ chī gè fàn, huò zhě hē bēi chá, liáo liáo jìn kuàng。",
+    "en": "If free, let's have a meal or tea and catch up."
+   },
+   {
+    "zh": "孩子的作业,或者我来辅导,或者请个家教,都得管起来。",
+    "pinyin": "Hái zi de zuò yè, huò zhě wǒ lái fǔ dǎo, huò zhě qǐng gè jiā jiào, dōu de guǎn qǐ lái。",
+    "en": "For the child's homework, I'll tutor or hire one — it must be handled."
+   },
+   {
+    "zh": "去开会,或者坐早班车,或者头天晚上就过去,别迟到了。",
+    "pinyin": "Qù kāi huì, huò zhě zuò zǎo bān chē, huò zhě tóu tiān wǎn shàng jiù guò qù, bié chí dào le。",
+    "en": "For the meeting, take an early bus or go the night before."
+   },
+   {
+    "zh": "这道墙或者刷成白色,或者贴上壁纸,看你喜欢哪种。",
+    "pinyin": "Zhè dào qiáng huò zhě shuā chéng bái sè, huò zhě tiē shàng bì zhǐ, kàn nǐ xǐ huān nǎ zhǒng。",
+    "en": "This wall — paint it white or hang wallpaper, as you like."
+   },
+   {
+    "zh": "有困难或者找家人商量,或者找朋友帮忙,别一个人扛。",
+    "pinyin": "Yǒu kùn nán huò zhě zhǎo jiā rén shāng liáng, huò zhě zhǎo péng yǒu bāng máng, bié yí gè rén káng。",
+    "en": "In trouble, talk to family or ask friends; don't bear it alone."
+   },
+   {
+    "zh": "这个假期或者学门新手艺,或者好好读几本书,别荒废了。",
+    "pinyin": "Zhè ge jià qī huò zhě xué mén xīn shǒu yì, huò zhě hǎo hǎo dú jǐ běn shū, bié huāng fèi le。",
+    "en": "This break, learn a skill or read some books; don't waste it."
+   },
+   {
+    "zh": "你或者先垫上,或者等发了工资再还,都不着急。",
+    "pinyin": "Nǐ huò zhě xiān diàn shàng, huò zhě děng fā le gōng zī zài hái, dōu bù zháo jí。",
+    "en": "You can cover it first or repay after payday; no rush."
+   },
+   {
+    "zh": "锻炼身体,或者早上跑步,或者晚上散步,贵在坚持。",
+    "pinyin": "Duàn liàn shēn tǐ, huò zhě zǎo shàng pǎo bù, huò zhě wǎn shàng sàn bù, guì zài jiān chí。",
+    "en": "For exercise, run in the morning or walk at night — persist."
+   },
+   {
+    "zh": "这件事或者今天办完,或者明天一早再说,别拖太久。",
+    "pinyin": "Zhè jiàn shì huò zhě jīn tiān bàn wán, huò zhě míng tiān yī zǎo zài shuō, bié tuō tài jiǔ。",
+    "en": "This matter — finish it today or first thing tomorrow, don't delay."
+   }
+  ]
+ },
+ {
+  "id": "g412",
+  "level": 4,
+  "title": "\"别说...就连...\" ile \"...-i bırak, ... bile\"",
+  "titleEn": "Expressing \"let alone\" with \"bie shuo\"",
+  "pattern": "别说 + A，就(连) + B + 都 / 也 ...",
+  "summary": "\"别说...就连...都\" bir uç örneği vurgular: 别说孩子,就连大人都害怕 = Çocuğu bırak, yetişkin bile korkuyor.",
+  "explanation": "\"别说 A，(就)连 B 都/也 ...\" kalıbı iki durumu KARŞILAŞTIRARAK B'yi (daha küçük/daha kolay/daha temel olanı) vurgular ve \"B bile öyleyse, A zaten öyle\" mantığını kurar: \"...-i bırak, ... bile; nerede kaldı ki ...; ...-i geç, ... bile\". Kalıp: 别说 + A(daha büyük/beklenen olan)，(就)连 + B(daha küçük/temel olan) + 都/也 + yüklem. 别说外国人,就连很多中国人都写不出这个字 (Yabancıları bırak, birçok Çinli bile bu karakteri yazamıyor), 这几天忙得别说休息,就连吃饭的时间都没有 (Bu günler o kadar meşgulüm ki dinlenmeyi geç, yemek yiyecek vaktim bile yok), 别说帮忙,他连一句安慰的话都没说 (Yardımı bırak, bir teselli sözü bile etmedi). Mantık: en temel/en kolay olan B bile gerçekleşmiyorsa (ya da gerçekleşiyorsa), daha zor/daha büyük olan A hakkında konuşmaya bile gerek yok. \"别说\" reddedilen/geçilen büyük durumu, \"连...都/也\" ise şaşırtıcı temel örneği işaretler. \"别提\" ile de kurulabilir. Türkçedeki \"...-i bırak(ın), ... bile; nerede kaldı ki ...; ...-i geç, ... bile\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "这几天忙得团团转,别说休息,就连喝口水的工夫都没有。",
+    "pinyin": "Zhè jǐ tiān máng de tuán tuán zhuàn, bié shuō xiū xī, jiù lián hē kǒu shuǐ de gōng fu dōu méi yǒu。",
+    "en": "So swamped these days — forget rest, no time even for water."
+   },
+   {
+    "zh": "那个字太生僻了,别说外国人,就连不少中国人也不认识。",
+    "pinyin": "Nà ge zì tài shēng pì le, bié shuō wài guó rén, jiù lián bù shǎo zhōng guó rén yě bù rèn shí。",
+    "en": "That character is so rare even many Chinese don't know it, let alone foreigners."
+   },
+   {
+    "zh": "他刚来的时候,别说朋友,就连一个说话的人都没有。",
+    "pinyin": "Tā gāng lái de shí hòu, bié shuō péng yǒu, jiù lián yí gè shuō huà de rén dōu méi yǒu。",
+    "en": "When he first came he had no one to talk to, let alone friends."
+   },
+   {
+    "zh": "这道题难得很,别说学生,就连老师也想了好一会儿。",
+    "pinyin": "Zhè dào tí nán de hěn, bié shuō xué shēng, jiù lián lǎo shī yě xiǎng le hǎo yī huì er。",
+    "en": "The problem was so hard even the teacher paused, let alone students."
+   },
+   {
+    "zh": "天太黑了,别说远处,就连眼前的路都看不清楚。",
+    "pinyin": "Tiān tài hēi le, bié shuō yuǎn chù, jiù lián yǎn qián de lù dōu kàn bù qīng chǔ。",
+    "en": "It was so dark he couldn't see the path ahead, let alone afar."
+   },
+   {
+    "zh": "他忙得不可开交,别说陪家人,就连自己都顾不上。",
+    "pinyin": "Tā máng de bù kě kāi jiāo, bié shuō péi jiā rén, jiù lián zì jǐ dōu gù bù shàng。",
+    "en": "So busy he couldn't even mind himself, let alone the family."
+   },
+   {
+    "zh": "这种深山里,别说商店,就连人家都很少见到。",
+    "pinyin": "Zhè zhǒng shēn shān lǐ, bié shuō shāng diàn, jiù lián rén jiā dōu hěn shǎo jiàn dào。",
+    "en": "Deep in these mountains, houses are rare, let alone shops."
+   },
+   {
+    "zh": "他伤得不轻,别说走路,就连站起来都很吃力。",
+    "pinyin": "Tā shāng de bù qīng, bié shuō zǒu lù, jiù lián zhàn qǐ lái dōu hěn chī lì。",
+    "en": "Badly hurt, he could barely stand, let alone walk."
+   },
+   {
+    "zh": "这么大的动静,别说大人,就连熟睡的婴儿都被惊醒了。",
+    "pinyin": "Zhè me dà de dòng jìng, bié shuō dà rén, jiù lián shú shuì de yīng ér dōu bèi jīng xǐng le。",
+    "en": "Such a din woke even the sleeping baby, let alone adults."
+   },
+   {
+    "zh": "他为人小气,别说请客,就连借支笔都舍不得。",
+    "pinyin": "Tā wéi rén xiǎo qì, bié shuō qǐng kè, jiù lián jiè zhī bǐ dōu shě bù de。",
+    "en": "So stingy he won't lend a pen, let alone treat anyone."
+   },
+   {
+    "zh": "这地方偏得很,别说打车,就连问路都找不到人。",
+    "pinyin": "Zhè dì fāng piān de hěn, bié shuō dǎ chē, jiù lián wèn lù dōu zhǎo bú dào rén。",
+    "en": "So remote here you can't even find someone to ask, let alone a cab."
+   },
+   {
+    "zh": "那件事他守口如瓶,别说外人,就连家里人都不知道。",
+    "pinyin": "Nà jiàn shì tā shǒu kǒu rú píng, bié shuō wài rén, jiù lián jiā lǐ rén dōu bù zhī dào。",
+    "en": "He kept it so secret that even family didn't know, let alone outsiders."
+   },
+   {
+    "zh": "这么贵的东西,别说买,他连碰都不敢碰一下。",
+    "pinyin": "Zhè me guì de dōng xī, bié shuō mǎi, tā lián pèng dōu bù gǎn pèng yī xià。",
+    "en": "So pricey he dared not even touch it, let alone buy it."
+   },
+   {
+    "zh": "刚学游泳时,别说游远,就连在水里站稳都很难。",
+    "pinyin": "Gāng xué yóu yǒng shí, bié shuō yóu yuǎn, jiù lián zài shuǐ lǐ zhàn wěn dōu hěn nán。",
+    "en": "New to swimming, he could hardly stand in water, let alone swim far."
+   },
+   {
+    "zh": "屋里冷得很,别说脱外套,就连手都不想伸出来。",
+    "pinyin": "Wū lǐ lěng de hěn, bié shuō tuō wài tào, jiù lián shǒu dōu bù xiǎng shēn chū lái。",
+    "en": "The room was so cold he wouldn't even bare his hands, let alone his coat."
+   },
+   {
+    "zh": "这本古书太珍贵了,别说外借,就连翻看都要戴手套。",
+    "pinyin": "Zhè běn gǔ shū tài zhēn guì le, bié shuō wài jiè, jiù lián fān kàn dōu yào dài shǒu tào。",
+    "en": "The book is so precious you wear gloves to turn it, let alone borrow it."
+   },
+   {
+    "zh": "他记性差,别说去年的事,就连昨天说的话都忘了。",
+    "pinyin": "Tā jì xìng chà, bié shuō qù nián de shì, jiù lián zuó tiān shuō de huà dōu wàng le。",
+    "en": "His memory is poor — he forgot yesterday's words, let alone last year's."
+   },
+   {
+    "zh": "那阵子生活紧巴,别说买新衣,就连吃饱都成问题。",
+    "pinyin": "Nà zhèn zi shēng huó jǐn bā, bié shuō mǎi xīn yī, jiù lián chī bǎo dōu chéng wèn tí。",
+    "en": "In those tight times, even eating enough was hard, let alone new clothes."
+   },
+   {
+    "zh": "这么复杂的机器,别说修,他连怎么开都不知道。",
+    "pinyin": "Zhè me fù zá de jī qì, bié shuō xiū, tā lián zěn me kāi dōu bù zhī dào。",
+    "en": "Such a complex machine — he can't even start it, let alone fix it."
+   },
+   {
+    "zh": "暴风雪里,别说赶路,就连睁开眼睛都十分困难。",
+    "pinyin": "Bào fēng xuě lǐ, bié shuō gǎn lù, jiù lián zhēng kāi yǎn jīng dōu shí fēn kùn nán。",
+    "en": "In the blizzard, even opening one's eyes was hard, let alone traveling."
+   },
+   {
+    "zh": "他刚起步的时候,别说盈利,就连保本都很勉强。",
+    "pinyin": "Tā gāng qǐ bù de shí hòu, bié shuō yíng lì, jiù lián bǎo běn dōu hěn miǎn qiǎng。",
+    "en": "When he started, even breaking even was a stretch, let alone profit."
+   },
+   {
+    "zh": "这道菜的做法太讲究,别说做,一般人听都没听说过。",
+    "pinyin": "Zhè dào cài de zuò fǎ tài jiǎng jiū, bié shuō zuò, yì bān rén tīng dōu méi tīng shuō guò。",
+    "en": "The recipe is so elaborate most haven't even heard of it, let alone made it."
+   },
+   {
+    "zh": "那天他累极了,别说说话,就连抬抬手都没力气。",
+    "pinyin": "Nà tiān tā lèi jí le, bié shuō shuō huà, jiù lián tái tái shǒu dōu méi lì qì。",
+    "en": "That day he was so tired he couldn't lift a hand, let alone speak."
+   },
+   {
+    "zh": "这种野草生命力极强,别说浇水,就连不管它也能活。",
+    "pinyin": "Zhè zhǒng yě cǎo shēng mìng lì jí qiáng, bié shuō jiāo shuǐ, jiù lián bù guǎn tā yě néng huó。",
+    "en": "This weed is so hardy it lives untended, let alone watered."
+   },
+   {
+    "zh": "消息来得太突然,别说准备,就连反应的时间都没有。",
+    "pinyin": "Xiāo xī lái de tài tū rán, bié shuō zhǔn bèi, jiù lián fǎn yìng de shí jiān dōu méi yǒu。",
+    "en": "The news came so suddenly there was no time even to react, let alone prepare."
+   }
+  ]
  }
 ]

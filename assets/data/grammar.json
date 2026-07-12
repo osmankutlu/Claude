@@ -44470,5 +44470,685 @@
     "en": "Over these years, the little trees back then have grown big."
    }
   ]
+ },
+ {
+  "id": "g328",
+  "level": 4,
+  "title": "\"了\" ve tümleç bir arada (ileri)",
+  "titleEn": "Advanced \"le\" with complements",
+  "pattern": "Özne + Fiil + 了 + Sonuç/Süre Tümleci",
+  "summary": "Bir sonuç/süre tümleciyle birlikte \"了\" eylemin tamamlanıp bir sonuç doğurduğunu bildirir: 他病了三天了 = Üç gündür hasta; 我们走了很远 = Çok uzun yürüdük.",
+  "explanation": "İleri düzeyde \"了\", sonuç/derece/süre tümleçleriyle birlikte kullanıldığında ince anlamlar taşır. Başlıca durumlar: (1) FİİL + 了 + SÜRE — eylemin ne kadar sürdüğü (tamamlanmış): 我等了半个小时 (Yarım saat bekledim); ikinci bir \"了\" ile \"hâlâ sürüyor\": 我等了半个小时了 (Yarım saattir bekliyorum). (2) FİİL + 了 + sonuç tümleci — 我看错了 (yanlış gördüm/anladım), 他喝多了 (fazla içti), 你来晚了 (geç geldin): burada \"了\" tümlecin bildirdiği sonucun gerçekleştiğini pekiştirir. (3) Miktar değişimi: 苹果吃了一半了 (Elmanın yarısı yendi bile). Bu yapılarda \"了\" hem tamamlanmayı hem de (cümle sonundaysa) yeni durumu vurgular; tümleç eylemin nasıl sonuçlandığını ekler. Yerleşim önemlidir: fiil-sonu \"了\" tamamlanma, cümle-sonu \"了\" durum değişimi bildirir. Türkçedeki \"...-dı (ve şu sonuçla), ...-alı ... oldu, yanlış/fazla/geç ...-dı\" anlamlarına bağlama göre denk gelir.",
+  "examples": [
+   {
+    "zh": "我等了他半个多小时了,他怎么还没来?",
+    "pinyin": "Wǒ děng le tā bàn gè duō xiǎo shí le, tā zěn me hái méi lái?",
+    "en": "I've been waiting for him over half an hour; why isn't he here?"
+   },
+   {
+    "zh": "对不起,我看错了时间,把会议记成了下午。",
+    "pinyin": "Duì bù qǐ, wǒ kàn cuò le shí jiān, bǎ huì yì jì chéng le xià wǔ。",
+    "en": "Sorry, I misread the time and thought the meeting was in the afternoon."
+   },
+   {
+    "zh": "昨天晚上他喝多了,今天一整天都没精神。",
+    "pinyin": "Zuó tiān wǎn shàng tā hē duō le, jīn tiān yī zhěng tiān dōu méi jīng shén。",
+    "en": "He drank too much last night and has been listless all day."
+   },
+   {
+    "zh": "你来晚了一步,他刚刚离开,你没碰上。",
+    "pinyin": "Nǐ lái wǎn le yī bù, tā gāng gāng lí kāi, nǐ méi pèng shàng。",
+    "en": "You came a step too late; he just left, so you missed him."
+   },
+   {
+    "zh": "这本书我已经看了一大半了,快看完了。",
+    "pinyin": "Zhè běn shū wǒ yǐ jīng kàn le yī dà bàn le, kuài kàn wán le。",
+    "en": "I've read well over half this book; I'll finish it soon."
+   },
+   {
+    "zh": "他在这家公司干了十年了,对这里很有感情。",
+    "pinyin": "Tā zài zhè jiā gōng sī gàn le shí nián le, duì zhè lǐ hěn yǒu gǎn qíng。",
+    "en": "He's worked at this company for ten years and is attached to it."
+   },
+   {
+    "zh": "这道题我算了三遍,结果每次都不一样。",
+    "pinyin": "Zhè dào tí wǒ suàn le sān biàn, jié guǒ měi cì dōu bù yí yàng。",
+    "en": "I calculated this problem three times, with different results each time."
+   },
+   {
+    "zh": "你说得太快了,我一句都没听清楚。",
+    "pinyin": "Nǐ shuō de tài kuài le, wǒ yī jù dōu méi tīng qīng chǔ。",
+    "en": "You spoke too fast; I didn't catch a single word."
+   },
+   {
+    "zh": "那盘水果放了太久了,已经不太新鲜了。",
+    "pinyin": "Nà pán shuǐ guǒ fàng le tài jiǔ le, yǐ jīng bù tài xīn xiān le。",
+    "en": "That plate of fruit sat too long and isn't very fresh anymore."
+   },
+   {
+    "zh": "他跑了整整十公里,累得几乎站不起来。",
+    "pinyin": "Tā pǎo le zhěng zhěng shí gōng lǐ, lèi de jī hū zhàn bù qǐ lái。",
+    "en": "He ran a full ten kilometers, so tired he could barely stand."
+   },
+   {
+    "zh": "我们在山里走了一天了,还没到目的地。",
+    "pinyin": "Wǒ men zài shān lǐ zǒu le yī tiān le, hái méi dào mù dì de。",
+    "en": "We've been walking in the mountains all day and still haven't arrived."
+   },
+   {
+    "zh": "这件衣服你买小了,穿上有点儿紧。",
+    "pinyin": "Zhè jiàn yī fú nǐ mǎi xiǎo le, chuān shàng yǒu diǎn ér jǐn。",
+    "en": "You bought this outfit too small; it's a bit tight on you."
+   },
+   {
+    "zh": "菜做咸了,你再加点水煮一煮吧。",
+    "pinyin": "Cài zuò xián le, nǐ zài jiā diǎn shuǐ zhǔ yī zhǔ ba。",
+    "en": "The dish came out too salty; add some water and simmer it."
+   },
+   {
+    "zh": "他学汉语学了三年了,现在说得很流利。",
+    "pinyin": "Tā xué hàn yǔ xué le sān nián le, xiàn zài shuō de hěn liú lì。",
+    "en": "He's studied Chinese for three years and now speaks fluently."
+   },
+   {
+    "zh": "我把地址记错了,绕了好大一圈才找到。",
+    "pinyin": "Wǒ bǎ dì zhǐ jì cuò le, rào le hǎo dà yī quān cái zhǎo dào。",
+    "en": "I got the address wrong and circled around a lot before finding it."
+   },
+   {
+    "zh": "这场雨下了两天了,河水都涨起来了。",
+    "pinyin": "Zhè chǎng yǔ xià le liǎng tiān le, hé shuǐ dōu zhǎng qǐ lái le。",
+    "en": "It's been raining for two days, and the river has risen."
+   },
+   {
+    "zh": "你把盐放多了,这道汤有点儿咸了。",
+    "pinyin": "Nǐ bǎ yán fàng duō le, zhè dào tāng yǒu diǎn ér xián le。",
+    "en": "You put in too much salt; this soup is a bit salty."
+   },
+   {
+    "zh": "我们认识好几年了,可是一直没机会好好聊聊。",
+    "pinyin": "Wǒ men rèn shí hǎo jǐ nián le, kě shì yì zhí méi jī huì hǎo hǎo liáo liáo。",
+    "en": "We've known each other for years but never had a good chat."
+   },
+   {
+    "zh": "他睡过头了,结果错过了早班的火车。",
+    "pinyin": "Tā shuì guò tóu le, jié guǒ cuò guò le zǎo bān de huǒ chē。",
+    "en": "He overslept and ended up missing the morning train."
+   },
+   {
+    "zh": "这台机器用了很多年了,最近老出毛病。",
+    "pinyin": "Zhè tái jī qì yòng le hěn duō nián le, zuì jìn lǎo chū máo bìng。",
+    "en": "This machine's been used for many years and keeps breaking down lately."
+   },
+   {
+    "zh": "你把这个字写错了,应该是这样写才对。",
+    "pinyin": "Nǐ bǎ zhè ge zì xiě cuò le, yīng gāi shì zhè yàng xiě cái duì。",
+    "en": "You wrote this character wrong; it should be written like this."
+   },
+   {
+    "zh": "我在门口站了半天了,腿都站酸了。",
+    "pinyin": "Wǒ zài mén kǒu zhàn le bàn tiān le, tuǐ dōu zhàn suān le。",
+    "en": "I've been standing at the door a long while; my legs ache."
+   },
+   {
+    "zh": "孩子长高了不少,去年的衣服都穿不下了。",
+    "pinyin": "Hái zi zhǎng gāo le bù shǎo, qù nián de yī fú dōu chuān bù xià le。",
+    "en": "The child has grown a lot; last year's clothes no longer fit."
+   },
+   {
+    "zh": "他把话说重了,事后一直觉得很过意不去。",
+    "pinyin": "Tā bǎ huà shuō zhòng le, shì hòu yì zhí jué de hěn guò yì bù qù。",
+    "en": "He spoke too harshly and felt bad about it afterward."
+   },
+   {
+    "zh": "这些照片存了好多年了,如今看来格外珍贵。",
+    "pinyin": "Zhè xiē zhào piān cún le hǎo duō nián le, rú jīn kàn lái gé wài zhēn guì。",
+    "en": "These photos have been kept for years; they seem especially precious now."
+   }
+  ]
+ },
+ {
+  "id": "g329",
+  "level": 4,
+  "title": "\"嘛\" ile konu belirtme/duraksama",
+  "titleEn": "Marking a topic with \"ma\"",
+  "pattern": "Konu + 嘛，Yorum",
+  "summary": "Cümle içinde bir konudan sonra \"嘛\" konuyu vurgulayıp bir duraksama/açıklama getirir: 学习嘛,靠的是坚持 = Öğrenmek denen şey işte, sebat ister.",
+  "explanation": "\"嘛\" (self-evident işlevi dışında, bkz. ayrı konu) bir cümle içinde bir KONUNUN/öğenin ardına gelip onu öne çıkarır ve ardından bir açıklama/yorum getirir — bir tür duraksama/konu-işaretleme parçacığıdır: \"... denen şey işte, ... meselesine gelince, ... ya\". 工作嘛,总有忙的时候 (İş dediğin işte, yoğun zamanları hep olur), 孩子嘛,难免会犯点错 (Çocuk işte, hata yapar tabii), 你嘛,就是太爱操心了 (Sen ya, işte çok fazla kaygılanıyorsun). \"嘛\" bir konuyu belirtip ona karşı yumuşak, açıklayıcı ya da hoşgörülü bir tutum sunar; konuşmayı yumuşatır ve söyleneni \"malum, doğal olan bu\" tonuyla verir. Cümle içinde bir öğeden (konu, özne) sonra virgülle gelir. Türkçedeki \"... denen şey işte, ... meselesine gelince, ... ya, ... canım\" gibi konuyu öne çıkarıp yumuşatan ifadelere denk gelir.",
+  "examples": [
+   {
+    "zh": "学习嘛,最重要的就是持之以恒,不能三天打鱼两天晒网。",
+    "pinyin": "Xué xí ma, zuì zhòng yào de jiù shì chí zhī yǐ héng, bù néng sān tiān dǎ yú liǎng tiān shài wǎng。",
+    "en": "As for study, what matters most is persistence, not on-and-off effort."
+   },
+   {
+    "zh": "孩子嘛,总有不听话的时候,你别太较真。",
+    "pinyin": "Hái zi ma, zǒng yǒu bù tīng huà de shí hòu, nǐ bié tài jiào zhēn。",
+    "en": "Children, after all, have disobedient moments; don't be too serious."
+   },
+   {
+    "zh": "工作嘛,难免会遇到不顺心的事,慢慢就习惯了。",
+    "pinyin": "Gōng zuò ma, nán miǎn huì yù dào bù shùn xīn de shì, màn màn jiù xí guàn le。",
+    "en": "As for work, unpleasant things happen; you get used to it."
+   },
+   {
+    "zh": "你嘛,就是心太软,别人一求你就答应。",
+    "pinyin": "Nǐ ma, jiù shì xīn tài ruǎn, bié rén yī qiú nǐ jiù dā yìng。",
+    "en": "You, really, are too soft-hearted; you agree the moment someone asks."
+   },
+   {
+    "zh": "钱嘛,够花就行,不必看得太重。",
+    "pinyin": "Qián ma, gòu huā jiù xíng, bù bì kàn de tài zhòng。",
+    "en": "As for money, enough to spend is fine; no need to value it too much."
+   },
+   {
+    "zh": "朋友嘛,就是要在困难的时候互相帮助。",
+    "pinyin": "Péng yǒu ma, jiù shì yào zài kùn nán de shí hòu hù xiāng bāng zhù。",
+    "en": "Friends, after all, are meant to help each other in hard times."
+   },
+   {
+    "zh": "生活嘛,总是有苦有甜,重要的是保持乐观。",
+    "pinyin": "Shēng huó ma, zǒng shì yǒu kǔ yǒu tián, zhòng yào de shì bǎo chí lè guān。",
+    "en": "Life, after all, has its bitter and sweet; the key is staying optimistic."
+   },
+   {
+    "zh": "他嘛,人是不错,就是有时候太固执了。",
+    "pinyin": "Tā ma, rén shì bù cuò, jiù shì yǒu shí hòu tài gù zhí le。",
+    "en": "As for him, he's a good person, just sometimes too stubborn."
+   },
+   {
+    "zh": "年轻人嘛,就应该多出去闯一闯,增长见识。",
+    "pinyin": "Nián qīng rén ma, jiù yīng gāi duō chū qù chuǎng yī chuǎng, zēng zhǎng jiàn shí。",
+    "en": "Young people, after all, should go out and broaden their horizons."
+   },
+   {
+    "zh": "规矩嘛,是死的,人是活的,可以灵活一点。",
+    "pinyin": "Guī jǔ ma, shì sǐ de, rén shì huó de, kě yǐ líng huó yì diǎn。",
+    "en": "Rules are rigid, but people aren't; we can be a bit flexible."
+   },
+   {
+    "zh": "感情嘛,是需要用心去经营的,不能不管不问。",
+    "pinyin": "Gǎn qíng ma, shì xū yào yòng xīn qù jīng yíng de, bù néng bù guǎn bù wèn。",
+    "en": "Relationships, after all, need care and attention, not neglect."
+   },
+   {
+    "zh": "这点小事嘛,你就别放在心上了,大家都理解。",
+    "pinyin": "Zhè diǎn xiǎo shì ma, nǐ jiù bié fàng zài xīn shàng le, dà jiā dōu lǐ jiě。",
+    "en": "Such a trifle — don't take it to heart; everyone understands."
+   },
+   {
+    "zh": "面子嘛,固然重要,可也不能因此伤了和气。",
+    "pinyin": "Miàn zi ma, gù rán zhòng yào, kě yě bù néng yīn cǐ shāng le hé qì。",
+    "en": "Face matters, of course, but not at the cost of harmony."
+   },
+   {
+    "zh": "习惯嘛,一旦养成,想改就没那么容易了。",
+    "pinyin": "Xí guàn ma, yí dàn yǎng chéng, xiǎng gǎi jiù méi nà me róng yì le。",
+    "en": "Habits, once formed, aren't so easy to change."
+   },
+   {
+    "zh": "老人嘛,就喜欢热闹,你们多回去陪陪他。",
+    "pinyin": "Lǎo rén ma, jiù xǐ huān rè nào, nǐ men duō huí qù péi péi tā。",
+    "en": "The elderly, after all, love company; go back and be with him more."
+   },
+   {
+    "zh": "困难嘛,谁的一生都会遇到,关键是怎么面对。",
+    "pinyin": "Kùn nán ma, shéi de yī shēng dū huì yù dào, guān jiàn shì zěn me miàn duì。",
+    "en": "Difficulties, after all, come to everyone; the key is how you face them."
+   },
+   {
+    "zh": "这道菜嘛,做法其实很简单,你也能学会。",
+    "pinyin": "Zhè dào cài ma, zuò fǎ qí shí hěn jiǎn dān, nǐ yě néng xué huì。",
+    "en": "As for this dish, it's actually simple to make; you can learn it too."
+   },
+   {
+    "zh": "身体嘛,是革命的本钱,再忙也要注意休息。",
+    "pinyin": "Shēn tǐ ma, shì gé mìng de běn qián, zài máng yě yào zhù yì xiū xī。",
+    "en": "Health, after all, is the basis of everything; rest even when busy."
+   },
+   {
+    "zh": "他这个人嘛,刀子嘴豆腐心,你别跟他一般见识。",
+    "pinyin": "Tā zhè ge rén ma, dāo zi zuǐ dòu fǔ xīn, nǐ bié gēn tā yī bān jiàn shí。",
+    "en": "As for him, he's sharp-tongued but soft-hearted; don't take offense."
+   },
+   {
+    "zh": "时间嘛,挤一挤总还是有的,就看你想不想做。",
+    "pinyin": "Shí jiān ma, jǐ yī jǐ zǒng hái shì yǒu de, jiù kàn nǐ xiǎng bù xiǎng zuò。",
+    "en": "Time, after all, can be squeezed out; it depends on whether you want to."
+   },
+   {
+    "zh": "礼物嘛,贵不贵不重要,重要的是那份心意。",
+    "pinyin": "Lǐ wù ma, guì bù guì bú zhòng yào, zhòng yào de shì nà fèn xīn yì。",
+    "en": "As for a gift, its price doesn't matter; the thought is what counts."
+   },
+   {
+    "zh": "失败嘛,是成功之母,吸取教训重新再来就是了。",
+    "pinyin": "Shī bài ma, shì chéng gōng zhī mǔ, xī qǔ jiào xùn chóng xīn zài lái jiù shì le。",
+    "en": "Failure, after all, is the mother of success; learn and try again."
+   },
+   {
+    "zh": "邻里之间嘛,抬头不见低头见,还是和气一点好。",
+    "pinyin": "Lín lǐ zhī jiān ma, tái tóu bú jiàn dī tóu jiàn, hái shì hé qì yì diǎn hǎo。",
+    "en": "As for neighbors, you see each other daily; better to be friendly."
+   },
+   {
+    "zh": "你的想法嘛,我基本上是赞同的,只是细节还得商量。",
+    "pinyin": "Nǐ de xiǎng fǎ ma, wǒ jī běn shàng shì zàn tóng de, zhǐ shì xì jié hái de shāng liáng。",
+    "en": "As for your idea, I basically agree; only the details need discussing."
+   },
+   {
+    "zh": "缘分嘛,有时候真是强求不来的,一切顺其自然吧。",
+    "pinyin": "Yuán fēn ma, yǒu shí hòu zhēn shì qiǎng qiú bù lái de, yī qiè shùn qí zì rán ba。",
+    "en": "Fate, after all, can't be forced; just let things take their course."
+   }
+  ]
+ },
+ {
+  "id": "g330",
+  "level": 4,
+  "title": "\"呢\" ile soruyu yumuşatma",
+  "titleEn": "Softening the tone of questions with \"ne\"",
+  "pattern": "... 呢？",
+  "summary": "Cümle sonundaki \"呢\" bir soruyu yumuşatır, meraklı/samimi bir ton katar: 你怎么还不睡呢? = Neden hâlâ uyumadın ki?",
+  "explanation": "\"呢\" bir soru cümlesinin sonuna gelip onu YUMUŞATIR, meraklı, samimi ya da düşünceli bir ton katar; sert/doğrudan bir soruyu daha nazik ve ilgili hâle getirir. Özellikle soru sözcüklü sorularda (什么, 怎么, 为什么, 哪儿, 谁) kullanılır: 你在想什么呢? (Ne düşünüyorsun bakayım?), 他怎么还没来呢? (Neden hâlâ gelmedi ki?), 我们该怎么办呢? (Ne yapsak acaba?). \"呢\" merakı, ilgiyi ya da bir konu üzerinde düşünmeyi yansıtır ve soruyu daha içten, daha az sorgulayıcı yapar. \"吗\"lı evet/hayır sorularının sonuna GELMEZ (\"你去吗呢\" yanlış); soru sözcüklü ya da eksiltili (你呢?) sorularda kullanılır. Ayrıca süregelen bir durumu vurgular (还...呢 = hâlâ ...). Türkçedeki \"...ki?, ... acaba?, ... bakayım?, ...ya?\" gibi yumuşatıcı soru tonlarına denk gelir; bir soruyu nazik ve meraklı biçimde sormanın yoludur.",
+  "examples": [
+   {
+    "zh": "这么晚了,你怎么还不睡觉呢?明天还要早起。",
+    "pinyin": "Zhè me wǎn le, nǐ zěn me hái bù shuì jiào ne? míng tiān hái yào zǎo qǐ。",
+    "en": "It's so late; why aren't you asleep yet? You have to rise early."
+   },
+   {
+    "zh": "咦,我刚放在桌上的钥匙怎么不见了呢?",
+    "pinyin": "Yí, wǒ gāng fàng zài zhuō shàng de yào shi zěn me bú jiàn le ne?",
+    "en": "Huh, where did the keys I just put on the table go?"
+   },
+   {
+    "zh": "你一个人坐在这儿,在想什么呢?",
+    "pinyin": "Nǐ yí gè rén zuò zài zhè ér, zài xiǎng shén me ne?",
+    "en": "Sitting here alone, what are you thinking about?"
+   },
+   {
+    "zh": "这件事到底该怎么处理呢?我一时也没了主意。",
+    "pinyin": "Zhè jiàn shì dào dǐ gāi zěn me chǔ lǐ ne? wǒ yī shí yě méi le zhǔ yì。",
+    "en": "How exactly should this be handled? I'm at a loss for now."
+   },
+   {
+    "zh": "大家都到齐了,就差他一个,他去哪儿了呢?",
+    "pinyin": "Dà jiā dōu dào qí le, jiù chà tā yí gè, tā qù nǎ ér le ne?",
+    "en": "Everyone's here except him; where has he gone?"
+   },
+   {
+    "zh": "这么好的天气,不出去走走多可惜呢。",
+    "pinyin": "Zhè me hǎo de tiān qì, bù chū qù zǒu zǒu duō kě xī ne。",
+    "en": "Such nice weather — what a pity not to go out for a walk."
+   },
+   {
+    "zh": "你说,咱们周末去哪儿玩比较好呢?",
+    "pinyin": "Nǐ shuō, zán men zhōu mò qù nǎ ér wán bǐ jiào hǎo ne?",
+    "en": "Tell me, where would be nice to go this weekend?"
+   },
+   {
+    "zh": "他学得这么快,到底是用了什么方法呢?",
+    "pinyin": "Tā xué de zhè me kuài, dào dǐ shì yòng le shén me fāng fǎ ne?",
+    "en": "He learns so fast; what method did he use?"
+   },
+   {
+    "zh": "这道菜为什么总是做不好呢?我明明照着菜谱做的。",
+    "pinyin": "Zhè dào cài wèi shén me zǒng shì zuò bù hǎo ne? wǒ míng míng zhào zhe cài pǔ zuò de。",
+    "en": "Why can't I make this dish right? I followed the recipe exactly."
+   },
+   {
+    "zh": "孩子们都去哪儿了呢?家里怎么这么安静?",
+    "pinyin": "Hái zi men dōu qù nǎ ér le ne? jiā lǐ zěn me zhè me ān jìng?",
+    "en": "Where have the children all gone? Why is the house so quiet?"
+   },
+   {
+    "zh": "你说他会不会已经知道这件事了呢?",
+    "pinyin": "Nǐ shuō tā huì bú huì yǐ jīng zhī dào zhè jiàn shì le ne?",
+    "en": "Do you think he might already know about this?"
+   },
+   {
+    "zh": "这么重要的资料,怎么会突然找不到了呢?",
+    "pinyin": "Zhè me zhòng yào de zī liào, zěn me huì tū rán zhǎo bú dào le ne?",
+    "en": "Such important material — how could it suddenly go missing?"
+   },
+   {
+    "zh": "外面下着雨,我们是等一等还是现在就走呢?",
+    "pinyin": "Wài miàn xià zhe yǔ, wǒ men shì děng yī děng hái shì xiàn zài jiù zǒu ne?",
+    "en": "It's raining outside; shall we wait or leave now?"
+   },
+   {
+    "zh": "他明明答应了,怎么临时又变卦了呢?",
+    "pinyin": "Tā míng míng dā yìng le, zěn me lín shí yòu biàn guà le ne?",
+    "en": "He clearly agreed; why did he suddenly back out?"
+   },
+   {
+    "zh": "你说,这么大的困难,我们该怎么克服呢?",
+    "pinyin": "Nǐ shuō, zhè me dà de kùn nán, wǒ men gāi zěn me kè fú ne?",
+    "en": "Tell me, how should we overcome such a big difficulty?"
+   },
+   {
+    "zh": "这个周末的安排,你有什么好的建议呢?",
+    "pinyin": "Zhè ge zhōu mò de ān pái, nǐ yǒu shén me hǎo de jiàn yì ne?",
+    "en": "For this weekend's plan, do you have any good suggestions?"
+   },
+   {
+    "zh": "他为什么突然对这件事这么感兴趣了呢?",
+    "pinyin": "Tā wèi shén me tū rán duì zhè jiàn shì zhè me gǎn xìng qù le ne?",
+    "en": "Why did he suddenly become so interested in this?"
+   },
+   {
+    "zh": "这么晚了他还不回来,会不会出什么事了呢?",
+    "pinyin": "Zhè me wǎn le tā hái bù huí lái, huì bú huì chū shén me shì le ne?",
+    "en": "It's so late and he's not back; could something have happened?"
+   },
+   {
+    "zh": "这些多出来的钱,我们该怎么处理才好呢?",
+    "pinyin": "Zhè xiē duō chū lái de qián, wǒ men gāi zěn me chǔ lǐ cái hǎo ne?",
+    "en": "How should we best deal with this extra money?"
+   },
+   {
+    "zh": "你猜,今天来的会是谁呢?保证你想不到。",
+    "pinyin": "Nǐ cāi, jīn tiān lái de huì shì shuí ne? bǎo zhèng nǐ xiǎng bú dào。",
+    "en": "Guess who's coming today? You'll never guess."
+   },
+   {
+    "zh": "这么难得的机会,你怎么舍得放弃呢?",
+    "pinyin": "Zhè me nán de de jī huì, nǐ zěn me shě de fàng qì ne?",
+    "en": "Such a rare chance — how can you bear to give it up?"
+   },
+   {
+    "zh": "他到底喜欢什么样的礼物呢?我实在猜不出来。",
+    "pinyin": "Tā dào dǐ xǐ huān shén me yàng de lǐ wù ne? wǒ shí zài cāi bù chū lái。",
+    "en": "What kind of gift does he actually like? I really can't guess."
+   },
+   {
+    "zh": "咱们是先吃饭,还是先把活儿干完呢?",
+    "pinyin": "Zán men shì xiān chī fàn, hái shì xiān bǎ huó er gàn wán ne?",
+    "en": "Shall we eat first, or finish the work first?"
+   },
+   {
+    "zh": "这幅画到底好在哪里呢?你能给我讲讲吗?",
+    "pinyin": "Zhè fú huà dào dǐ hǎo zài nǎ lǐ ne? nǐ néng gěi wǒ jiǎng jiǎng ma?",
+    "en": "What exactly makes this painting good? Can you explain?"
+   },
+   {
+    "zh": "这么冷的天,他怎么穿这么少呢?也不怕感冒。",
+    "pinyin": "Zhè me lěng de tiān, tā zěn me chuān zhè me shǎo ne? yě bù pà gǎn mào。",
+    "en": "In such cold, why is he dressed so lightly? Not afraid of a cold?"
+   }
+  ]
+ },
+ {
+  "id": "g331",
+  "level": 4,
+  "title": "\"以上/以下\" ile üst/alt sınır",
+  "titleEn": "Defining upper and lower limits",
+  "pattern": "Sayı / Derece + 以上 / 以下",
+  "summary": "\"以上\" (ve üstü) ve \"以下\" (ve altı) bir sınır belirtir: 十八岁以上 = on sekiz yaş ve üstü; 五十分以下 = elli puan ve altı.",
+  "explanation": "\"以上\" ve \"以下\" bir sayı, derece ya da sıranın ÜST ya da ALT sınırını belirtir ve o değeri de KAPSAR: \"以上\" = o değer ve üstü, \"以下\" = o değer ve altı. Kalıp: sayı/derece + 以上/以下. 这个游戏适合六岁以上的孩子 (Bu oyun altı yaş ve üstü çocuklar için uygun), 气温降到了零度以下 (Sıcaklık sıfırın altına düştü), 一百块以上包邮 (Yüz lira ve üstü ücretsiz kargo). \"以上\" ayrıca \"yukarıda söylenenler\" (以上是...), \"以下\" ise \"aşağıdakiler\" anlamına da gelir (以下几点). Benzer sınır sözcükleri: 以内 (... içinde/altında), 以外 (... dışında), 左右 (yaklaşık). \"以上/以下\" bir eşiği ve o eşiğin bir yanını kapsar. Bütün sayılar Çince rakamlarla yazılır. Türkçedeki \"... ve üstü, ... ve altı, ...-den fazla/az, ... üzeri\" ifadelerine denk gelir; nicel sınırları belirtmenin temel yoludur.",
+  "examples": [
+   {
+    "zh": "这个游乐项目只对一米二以上的孩子开放。",
+    "pinyin": "Zhè ge yóu lè xiàng mù zhǐ duì yī mǐ èr yǐ shàng de hái zi kāi fàng。",
+    "en": "This ride is open only to children over 1.2 meters tall."
+   },
+   {
+    "zh": "这份工作要求应聘者有三年以上的相关经验。",
+    "pinyin": "Zhè fèn gōng zuò yāo qiú yìng pìn zhě yǒu sān nián yǐ shàng de xiāng guān jīng yàn。",
+    "en": "This job requires applicants to have over three years of relevant experience."
+   },
+   {
+    "zh": "今天晚上气温会降到零度以下,记得多穿点。",
+    "pinyin": "Jīn tiān wǎn shàng qì wēn huì jiàng dào líng dù yǐ xià, jì de duō chuān diǎn。",
+    "en": "Tonight the temperature will drop below zero; dress warmly."
+   },
+   {
+    "zh": "这次考试,九十分以上的同学有二十多个。",
+    "pinyin": "Zhè cì kǎo shì, jiǔ shí fēn yǐ shàng de tóng xué yǒu èr shí duō gè。",
+    "en": "In this exam, over twenty students scored above ninety."
+   },
+   {
+    "zh": "这种电影不适合十二岁以下的儿童观看。",
+    "pinyin": "Zhè zhǒng diàn yǐng bú shì hé shí èr suì yǐ xià de ér tóng guān kàn。",
+    "en": "This kind of film isn't suitable for children under twelve."
+   },
+   {
+    "zh": "网上买东西,满一百元以上就可以免运费。",
+    "pinyin": "Wǎng shàng mǎi dōng xī, mǎn yì bǎi yuán yǐ shàng jiù kě yǐ miǎn yùn fèi。",
+    "en": "Shopping online, orders over a hundred yuan get free shipping."
+   },
+   {
+    "zh": "这个岗位面向本科以上学历的求职者。",
+    "pinyin": "Zhè ge gǎng wèi miàn xiàng běn kē yǐ shàng xué lì de qiú zhí zhě。",
+    "en": "This position is for job-seekers with a bachelor's degree or above."
+   },
+   {
+    "zh": "会员消费达到一千元以上,可以享受更多优惠。",
+    "pinyin": "Huì yuán xiāo fèi dá dào yī qiān yuán yǐ shàng, kě yǐ xiǎng shòu gèng duō yōu huì。",
+    "en": "Members spending over a thousand yuan enjoy more discounts."
+   },
+   {
+    "zh": "这座桥能承受五十吨以上的重量,非常结实。",
+    "pinyin": "Zhè zuò qiáo néng chéng shòu wǔ shí dūn yǐ shàng de zhòng liàng, fēi cháng jiē shí。",
+    "en": "This bridge can bear over fifty tons; it's very sturdy."
+   },
+   {
+    "zh": "六十岁以上的老人参观公园可以免票。",
+    "pinyin": "Liù shí suì yǐ shàng de lǎo rén shēn guān gōng yuán kě yǐ miǎn piào。",
+    "en": "Seniors over sixty can visit the park for free."
+   },
+   {
+    "zh": "这份报告,以下几点需要特别注意。",
+    "pinyin": "Zhè fèn bào gào, yǐ xià jǐ diǎn xū yào tè bié zhù yì。",
+    "en": "In this report, the following few points need special attention."
+   },
+   {
+    "zh": "这道题的正确率在百分之八十以上,大家做得不错。",
+    "pinyin": "Zhè dào tí de zhèng què lǜ zài bǎi fēn zhī bā shí yǐ shàng, dà jiā zuò de bù cuò。",
+    "en": "The accuracy on this question was over eighty percent; well done."
+   },
+   {
+    "zh": "身高一米五以下的儿童乘车半价。",
+    "pinyin": "Shēn gāo yī mǐ wǔ yǐ xià de ér tóng chéng chē bàn jià。",
+    "en": "Children under 1.5 meters ride at half price."
+   },
+   {
+    "zh": "这台空调适合二十平米以上的房间使用。",
+    "pinyin": "Zhè tái kōng tiáo shì hé èr shí píng mǐ yǐ shàng de fáng jiān shǐ yòng。",
+    "en": "This air conditioner suits rooms over twenty square meters."
+   },
+   {
+    "zh": "参赛者的年龄必须在十八岁以上。",
+    "pinyin": "Cān sài zhě de nián líng bì xū zài shí bā suì yǐ shàng。",
+    "en": "Contestants must be over eighteen years old."
+   },
+   {
+    "zh": "这几天的最高气温都在三十五度以上,非常炎热。",
+    "pinyin": "Zhè jǐ tiān de zuì gāo qì wēn dōu zài sān shí wǔ dù yǐ shàng, fēi cháng yán rè。",
+    "en": "The highs these days are all above thirty-five degrees, very hot."
+   },
+   {
+    "zh": "成绩在及格线以下的同学需要参加补考。",
+    "pinyin": "Chéng jì zài jí gé xiàn yǐ xià de tóng xué xū yào cān jiā bǔ kǎo。",
+    "en": "Students scoring below the passing line must take a resit."
+   },
+   {
+    "zh": "这种药,十岁以下的孩子要减半服用。",
+    "pinyin": "Zhè zhǒng yào, shí suì yǐ xià de hái zi yào jiǎn bàn fú yòng。",
+    "en": "For this medicine, children under ten should take half the dose."
+   },
+   {
+    "zh": "公司规定,工龄五年以上的员工可享受额外的假期。",
+    "pinyin": "Gōng sī guī dìng, gōng líng wǔ nián yǐ shàng de yuán gōng kě xiǎng shòu é wài de jià qī。",
+    "en": "Employees with over five years' service get extra leave."
+   },
+   {
+    "zh": "这些商品的价格大多在两百元以下,很实惠。",
+    "pinyin": "Zhè xiē shāng pǐn de jià gé dà duō zài liǎng bǎi yuán yǐ xià, hěn shí huì。",
+    "en": "Most of these goods are priced under two hundred yuan, quite affordable."
+   },
+   {
+    "zh": "这场比赛,只有排名前十以上的选手能进入决赛。",
+    "pinyin": "Zhè chǎng bǐ sài, zhǐ yǒu pái míng qián shí yǐ shàng de xuǎn shǒu néng jìn rù jué sài。",
+    "en": "In this match, only the top ten advance to the finals."
+   },
+   {
+    "zh": "这条河的水深在三米以上,禁止游泳。",
+    "pinyin": "Zhè tiáo hé de shuǐ shēn zài sān mǐ yǐ shàng, jìn zhǐ yóu yǒng。",
+    "en": "This river is over three meters deep; swimming is prohibited."
+   },
+   {
+    "zh": "以上就是我今天要说的全部内容,谢谢大家。",
+    "pinyin": "Yǐ shàng jiù shì wǒ jīn tiān yào shuō de quán bù nèi róng, xiè xiè dà jiā。",
+    "en": "That concludes all I wanted to say today; thank you all."
+   },
+   {
+    "zh": "这种材料能承受一百度以上的高温而不变形。",
+    "pinyin": "Zhè zhǒng cái liào néng chéng shòu yì bǎi dù yǐ shàng de gāo wēn ér bù biàn xíng。",
+    "en": "This material can withstand over a hundred degrees without deforming."
+   },
+   {
+    "zh": "凡是年满十六岁以上的人,都可以报名参加。",
+    "pinyin": "Fán shì nián mǎn shí liù suì yǐ shàng de rén, dōu kě yǐ bào míng cān jiā。",
+    "en": "Anyone aged sixteen or above may sign up to participate."
+   }
+  ]
+ },
+ {
+  "id": "g332",
+  "level": 4,
+  "title": "\"随着\" ile \"...-e paralel olarak, ...-dıkça\"",
+  "titleEn": "Expressing \"along with…\" with \"suizhe\"",
+  "pattern": "随着 + A，Özne + Yüklem",
+  "summary": "\"随着\" (suízhe) bir şeyin başka bir şeye BAĞLI olarak değiştiğini bildirir: 随着年龄的增长,他越来越成熟了 = Yaş ilerledikçe giderek olgunlaştı.",
+  "explanation": "\"随着\" bir durumun/eylemin BAŞKA bir gelişmeye PARALEL, ona bağlı olarak değiştiğini bildirir: \"...-e paralel olarak, ...-dıkça, ...-le birlikte, ...-in artmasıyla\". Cümlenin başında bir değişen etken tanıtır, ardından ona bağlı sonuç gelir: 随着科技的发展,我们的生活越来越方便 (Teknoloji geliştikçe hayatımız kolaylaşıyor), 随着时间的推移,伤痛渐渐淡了 (Zaman geçtikçe acı yavaş yavaş hafifledi), 随着天气变暖,花儿都开了 (Hava ısındıkça çiçekler açtı). \"随着\"den sonra çoğu zaman \"...的 + isim\" (bir sürecin adı: 发展/增长/推移/变化) gelir. İki olgunun birlikte, orantılı değiştiğini vurgular ve genelde bir eğilimi/gelişimi anlatır; resmî/yazılı bir tondur. Türkçedeki \"...-e paralel olarak, ...-dıkça, ...-le birlikte, ...-in artmasıyla, ...-e bağlı olarak\" ifadelerine denk gelir; iki olgunun bağlantılı değişimini anlatmanın yoludur.",
+  "examples": [
+   {
+    "zh": "随着科技的不断发展,人们的生活变得越来越便利。",
+    "pinyin": "Suí zhe kē jì de bù duàn fā zhǎn, rén men de shēng huó biàn de yuè lái yuè biàn lì。",
+    "en": "As technology keeps developing, people's lives grow ever more convenient."
+   },
+   {
+    "zh": "随着年龄的增长,他慢慢懂得了父母的良苦用心。",
+    "pinyin": "Suí zhe nián líng de zēng zhǎng, tā màn màn dǒng de le fù mǔ de liáng kǔ yòng xīn。",
+    "en": "As he grew older, he gradually understood his parents' care."
+   },
+   {
+    "zh": "随着时间的推移,当年的伤痛渐渐被淡忘了。",
+    "pinyin": "Suí zhe shí jiān de tuī yí, dāng nián de shāng tòng jiàn jiàn bèi dàn wàng le。",
+    "en": "As time passed, the old pain was gradually forgotten."
+   },
+   {
+    "zh": "随着天气逐渐变暖,公园里的花都开了。",
+    "pinyin": "Suí zhe tiān qì zhú jiàn biàn nuǎn, gōng yuán lǐ de huā dōu kāi le。",
+    "en": "As the weather gradually warmed, the flowers in the park bloomed."
+   },
+   {
+    "zh": "随着城市的发展,越来越多的年轻人来这里工作。",
+    "pinyin": "Suí zhe chéng shì de fā zhǎn, yuè lái yuè duō de nián qīng rén lái zhè lǐ gōng zuò。",
+    "en": "As the city develops, more and more young people come here to work."
+   },
+   {
+    "zh": "随着收入的提高,他们的生活水平也明显改善了。",
+    "pinyin": "Suí zhe shōu rù de tí gāo, tā men de shēng huó shuǐ píng yě míng xiǎn gǎi shàn le。",
+    "en": "As their income rose, their standard of living clearly improved."
+   },
+   {
+    "zh": "随着经验的积累,他处理问题越来越得心应手。",
+    "pinyin": "Suí zhe jīng yàn de jī lěi, tā chǔ lǐ wèn tí yuè lái yuè de xīn yìng shǒu。",
+    "en": "As he gained experience, he handled problems with growing ease."
+   },
+   {
+    "zh": "随着夜幕的降临,街上的行人渐渐少了。",
+    "pinyin": "Suí zhe yè mù de jiàng lín, jiē shàng de xíng rén jiàn jiàn shǎo le。",
+    "en": "As night fell, the pedestrians on the street gradually thinned."
+   },
+   {
+    "zh": "随着孩子一天天长大,家里也越来越热闹了。",
+    "pinyin": "Suí zhe hái zi yī tiān tiān zhǎng dà, jiā lǐ yě yuè lái yuè rè nào le。",
+    "en": "As the child grew day by day, the home grew livelier."
+   },
+   {
+    "zh": "随着交通越来越方便,两地之间的往来也频繁了。",
+    "pinyin": "Suí zhe jiāo tōng yuè lái yuè fāng biàn, liǎng de zhī jiān de wǎng lái yě pín fán le。",
+    "en": "As transport grew more convenient, exchanges between the two places increased."
+   },
+   {
+    "zh": "随着比赛的深入,双方的竞争越来越激烈。",
+    "pinyin": "Suí zhe bǐ sài de shēn rù, shuāng fāng de jìng zhēng yuè lái yuè jī liè。",
+    "en": "As the match progressed, the competition grew ever more intense."
+   },
+   {
+    "zh": "随着人们健康意识的提高,越来越多人开始锻炼。",
+    "pinyin": "Suí zhe rén men jiàn kāng yì shí de tí gāo, yuè lái yuè duō rén kāi shǐ duàn liàn。",
+    "en": "As health awareness rose, more and more people began exercising."
+   },
+   {
+    "zh": "随着秋天的到来,树叶渐渐变黄,纷纷飘落。",
+    "pinyin": "Suí zhe qiū tiān de dào lái, shù yè jiàn jiàn biàn huáng, fēn fēn piāo luò。",
+    "en": "As autumn came, the leaves gradually yellowed and fell."
+   },
+   {
+    "zh": "随着工作的深入,他发现了许多以前没注意到的问题。",
+    "pinyin": "Suí zhe gōng zuò de shēn rù, tā fā xiàn le xǔ duō yǐ qián méi zhù yì dào de wèn tí。",
+    "en": "As the work deepened, he found many issues he hadn't noticed."
+   },
+   {
+    "zh": "随着社会的进步,人们的观念也在不断变化。",
+    "pinyin": "Suí zhe shè huì de jìn bù, rén men de guān niàn yě zài bù duàn biàn huà。",
+    "en": "As society advances, people's ideas keep changing."
+   },
+   {
+    "zh": "随着音乐响起,全场观众都安静了下来。",
+    "pinyin": "Suí zhe yīn yuè xiǎng qǐ, quán chǎng guān zhòng dōu ān jìng le xià lái。",
+    "en": "As the music started, the whole audience quieted down."
+   },
+   {
+    "zh": "随着距离的拉近,家乡的轮廓渐渐清晰了。",
+    "pinyin": "Suí zhe jù lí de lā jìn, jiā xiāng de lún kuò jiàn jiàn qīng xī le。",
+    "en": "As the distance closed, the hometown's outline gradually grew clear."
+   },
+   {
+    "zh": "随着网络的普及,人们获取信息的方式发生了巨大变化。",
+    "pinyin": "Suí zhe wǎng luò de pǔ jí, rén men huò qǔ xìn xī de fāng shì fā shēng le jù dà biàn huà。",
+    "en": "As the internet spread, how people get information changed enormously."
+   },
+   {
+    "zh": "随着谈话的深入,两个人的距离也慢慢近了。",
+    "pinyin": "Suí zhe tán huà de shēn rù, liǎng gè rén de jù lí yě màn màn jìn le。",
+    "en": "As the conversation deepened, the two grew slowly closer."
+   },
+   {
+    "zh": "随着气温的下降,河面上开始结起了薄薄的冰。",
+    "pinyin": "Suí zhe qì wēn de xià jiàng, hé miàn shàng kāi shǐ jié qǐ le báo báo de bīng。",
+    "en": "As the temperature dropped, thin ice began forming on the river."
+   },
+   {
+    "zh": "随着阅历的丰富,他看问题变得更加全面了。",
+    "pinyin": "Suí zhe yuè lì de fēng fù, tā kàn wèn tí biàn de gèng jiā quán miàn le。",
+    "en": "As his experience broadened, he came to see things more comprehensively."
+   },
+   {
+    "zh": "随着新技术的应用,生产效率提高了一大截。",
+    "pinyin": "Suí zhe xīn jì shù de yìng yòng, shēng chǎn xiào lǜ tí gāo le yī dà jié。",
+    "en": "With the application of new technology, efficiency rose considerably."
+   },
+   {
+    "zh": "随着假期的临近,同学们都变得越来越兴奋。",
+    "pinyin": "Suí zhe jià qī de lín jìn, tóng xué men dōu biàn de yuè lái yuè xīng fèn。",
+    "en": "As the holiday drew near, the students grew more and more excited."
+   },
+   {
+    "zh": "随着人口的增加,这座小城也一天天扩大起来。",
+    "pinyin": "Suí zhe rén kǒu de zēng jiā, zhè zuò xiǎo chéng yě yī tiān tiān kuò dà qǐ lái。",
+    "en": "As the population grew, this small town expanded day by day."
+   },
+   {
+    "zh": "随着了解的加深,我越来越欣赏他的为人。",
+    "pinyin": "Suí zhe liǎo jiě de jiā shēn, wǒ yuè lái yuè xīn shǎng tā de wéi rén。",
+    "en": "As I came to know him better, I appreciated his character more."
+   }
+  ]
  }
 ]

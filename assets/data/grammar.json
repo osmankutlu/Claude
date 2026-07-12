@@ -47190,5 +47190,685 @@
     "en": "After all this, he matured as if he'd become another person."
    }
   ]
+ },
+ {
+  "id": "g348",
+  "level": 4,
+  "title": "\"比起\" ile karşılaştırma",
+  "titleEn": "Comparisons with \"biqi\"",
+  "pattern": "比起 + A (来)，(B) 更 ...",
+  "summary": "\"比起\" bir şeyi başka bir şeye kıyasla değerlendirir: 比起坐飞机,我更喜欢坐火车 = Uçağa kıyasla treni daha çok severim.",
+  "explanation": "\"比起\" bir şeyi (A) başka bir şeyle KIYASLAYARAK öne çıkarır; genellikle ardından \"来\" ve ikinci bölümde \"更/还\" gelir: \"...-e kıyasla, ...-e göre, ... ile karşılaştırınca\". Kalıp: 比起 + A (+来)，B + 更 + sıfat/fiil. 比起城市,我更喜欢乡下的宁静 (Şehre kıyasla kırın huzurunu daha çok severim), 比起去年,今年的情况好多了 (Geçen yıla göre bu yıl durum çok daha iyi), 比起金钱,他更看重时间 (Paraya kıyasla zamana daha çok değer verir). \"比\" doğrudan iki şeyi karşılaştırıp fark verirken (A 比 B 高), \"比起\" bir REFERANS/kıyas noktası kurup asıl vurgulanan tarafı ikinci bölümde belirtir; A çoğu zaman cümlenin başına çekilir. Bir tercihi ya da göreli değerlendirmeyi öne çıkarmak için kullanılır. Türkçedeki \"...-e kıyasla, ...-e göre, ... ile karşılaştırınca, ...-e nazaran\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "比起大城市的喧闹,我更喜欢小镇上安静的生活。",
+    "pinyin": "Bǐ qǐ dà chéng shì de xuān nào, wǒ gèng xǐ huān xiǎo zhèn shàng ān jìng de shēng huó。",
+    "en": "Compared with the big city's noise, I prefer the quiet small-town life."
+   },
+   {
+    "zh": "比起坐飞机,他反而更喜欢慢悠悠地坐火车旅行。",
+    "pinyin": "Bǐ qǐ zuò fēi jī, tā fǎn ér gèng xǐ huān màn yōu yōu de zuò huǒ chē lǚ xíng。",
+    "en": "Compared with flying, he prefers leisurely train travel."
+   },
+   {
+    "zh": "比起去年这个时候,今年的天气明显暖和多了。",
+    "pinyin": "Bǐ qǐ qù nián zhè ge shí hòu, jīn nián de tiān qì míng xiǎn nuǎn huo duō le。",
+    "en": "Compared with this time last year, this year is clearly warmer."
+   },
+   {
+    "zh": "比起结果,老师其实更看重你努力的过程。",
+    "pinyin": "Bǐ qǐ jié guǒ, lǎo shī qí shí gèng kàn zhòng nǐ nǔ lì de guò chéng。",
+    "en": "Compared with the result, the teacher values your effort more."
+   },
+   {
+    "zh": "比起华丽的辞藻,朴实真诚的话更能打动人。",
+    "pinyin": "Bǐ qǐ huá lì de cí zǎo, pǔ shí zhēn chéng de huà gèng néng dǎ dòng rén。",
+    "en": "Compared with fancy words, plain sincere ones move people more."
+   },
+   {
+    "zh": "比起以前,他现在处理问题成熟稳重多了。",
+    "pinyin": "Bǐ qǐ yǐ qián, tā xiàn zài chǔ lǐ wèn tí chéng shú wěn zhòng duō le。",
+    "en": "Compared with before, he now handles problems far more maturely."
+   },
+   {
+    "zh": "比起打游戏,我觉得读一本好书更有意思。",
+    "pinyin": "Bǐ qǐ dǎ yóu xì, wǒ jué de dú yī běn hǎo shū gèng yǒu yì si。",
+    "en": "Compared with gaming, I find reading a good book more interesting."
+   },
+   {
+    "zh": "比起金钱上的回报,他更在意工作本身的意义。",
+    "pinyin": "Bǐ qǐ jīn qián shàng de huí bào, tā gèng zài yì gōng zuò běn shēn de yì yì。",
+    "en": "Compared with monetary return, he cares more about the work's meaning."
+   },
+   {
+    "zh": "比起夏天,我个人还是更喜欢凉爽的秋天。",
+    "pinyin": "Bǐ qǐ xià tiān, wǒ gè rén hái shì gèng xǐ huān liáng shuǎng de qiū tiān。",
+    "en": "Compared with summer, I personally prefer the cool autumn."
+   },
+   {
+    "zh": "比起讲道理,有时候一个拥抱更能安慰人。",
+    "pinyin": "Bǐ qǐ jiǎng dào lǐ, yǒu shí hòu yí gè yōng bào gèng néng ān wèi rén。",
+    "en": "Compared with reasoning, sometimes a hug comforts more."
+   },
+   {
+    "zh": "比起从前的破旧模样,这条老街如今焕然一新。",
+    "pinyin": "Bǐ qǐ cóng qián de pò jiù mú yàng, zhè tiáo lǎo jiē rú jīn huàn rán yì xīn。",
+    "en": "Compared with its old shabby look, this street is now brand new."
+   },
+   {
+    "zh": "比起独自奋斗,和大家一起努力让他更有干劲。",
+    "pinyin": "Bǐ qǐ dú zì fèn dòu, hé dà jiā yì qǐ nǔ lì ràng tā gèng yǒu gàn jìn。",
+    "en": "Compared with struggling alone, working with others energizes him more."
+   },
+   {
+    "zh": "比起考试的分数,家长更应该关注孩子的心理健康。",
+    "pinyin": "Bǐ qǐ kǎo shì de fēn shù, jiā zhǎng gèng yīng gāi guān zhù hái zi de xīn lǐ jiàn kāng。",
+    "en": "Compared with exam scores, parents should mind children's mental health more."
+   },
+   {
+    "zh": "比起听别人讲,亲自动手试一次记得更牢。",
+    "pinyin": "Bǐ qǐ tīng bié rén jiǎng, qīn zì dòng shǒu shì yī cì jì de gèng láo。",
+    "en": "Compared with hearing others, trying it yourself sticks better."
+   },
+   {
+    "zh": "比起城里的高楼,他更怀念老家门前的那棵大树。",
+    "pinyin": "Bǐ qǐ chéng lǐ de gāo lóu, tā gèng huái niàn lǎo jiā mén qián de nà kē dà shù。",
+    "en": "Compared with city towers, he misses the big tree back home."
+   },
+   {
+    "zh": "比起责备,鼓励往往更能激发孩子的自信。",
+    "pinyin": "Bǐ qǐ zé bèi, gǔ lì wǎng wǎng gèng néng jī fā hái zi de zì xìn。",
+    "en": "Compared with blame, encouragement better sparks a child's confidence."
+   },
+   {
+    "zh": "比起昂贵的礼物,她更看重你亲手做的这份心意。",
+    "pinyin": "Bǐ qǐ áng guì de lǐ wù, tā gèng kàn zhòng nǐ qīn shǒu zuò de zhè fèn xīn yì。",
+    "en": "Compared with pricey gifts, she values your handmade gesture more."
+   },
+   {
+    "zh": "比起从前,现在的通讯方式实在是方便太多了。",
+    "pinyin": "Bǐ qǐ cóng qián, xiàn zài de tōng xùn fāng shì shí zài shì fāng biàn tài duō le。",
+    "en": "Compared with before, communication now is so much more convenient."
+   },
+   {
+    "zh": "比起单纯的说教,一个好故事更容易让人接受。",
+    "pinyin": "Bǐ qǐ dān chún de shuō jiào, yí gè hǎo gù shì gèng róng yì ràng rén jiē shòu。",
+    "en": "Compared with plain preaching, a good story is easier to accept."
+   },
+   {
+    "zh": "比起速度,做这件事更重要的是保证质量。",
+    "pinyin": "Bǐ qǐ sù dù, zuò zhè jiàn shì gèng zhòng yào de shì bǎo zhèng zhì liàng。",
+    "en": "Compared with speed, ensuring quality matters more here."
+   },
+   {
+    "zh": "比起当年的青涩,如今的他显得从容多了。",
+    "pinyin": "Bǐ qǐ dāng nián de qīng sè, rú jīn de tā xiǎn de cóng róng duō le。",
+    "en": "Compared with his youthful rawness, he now seems far more composed."
+   },
+   {
+    "zh": "比起热闹的聚会,她更享受一个人安静地看书。",
+    "pinyin": "Bǐ qǐ rè nào de jù huì, tā gèng xiǎng shòu yí gè rén ān jìng de kàn shū。",
+    "en": "Compared with lively parties, she enjoys reading alone in quiet."
+   },
+   {
+    "zh": "比起口头的承诺,实实在在的行动更让人信服。",
+    "pinyin": "Bǐ qǐ kǒu tóu de chéng nuò, shí shí zài zài de xíng dòng gèng ràng rén xìn fú。",
+    "en": "Compared with verbal promises, real action is more convincing."
+   },
+   {
+    "zh": "比起城市的便利,乡下的空气和风景更让他向往。",
+    "pinyin": "Bǐ qǐ chéng shì de biàn lì, xiāng xià de kōng qì hé fēng jǐng gèng ràng tā xiàng wǎng。",
+    "en": "Compared with city convenience, he longs for the country's air and views."
+   },
+   {
+    "zh": "比起一时的输赢,长久的坚持才是最难能可贵的。",
+    "pinyin": "Bǐ qǐ yī shí de shū yíng, cháng jiǔ de jiān chí cái shì zuì nán néng kě guì de。",
+    "en": "Compared with momentary wins, lasting persistence is most precious."
+   }
+  ]
+ },
+ {
+  "id": "g349",
+  "level": 4,
+  "title": "\"不如\" ile \"...-den daha iyi / ...-mektense\"",
+  "titleEn": "Comparisons with \"buru\"",
+  "pattern": "A 不如 B (+ 好 / 大 ...) / (与其...) 不如 ...",
+  "summary": "\"不如\" A'nın B kadar iyi olmadığını ya da bir seçeneğin daha iyi olacağını bildirir: 说不如做 = Söylemektense yapmak daha iyi.",
+  "explanation": "\"不如\" iki kullanımıyla karşılaştırma yapar. (1) A 不如 B: A'nın B KADAR iyi/çok olmadığını bildirir — \"A, B kadar değil, A B'den geride\": 今年的收成不如去年 (Bu yılki hasat geçen yıl kadar değil), 我的记性不如你 (Benim hafızam seninki kadar iyi değil). Sıfat eklenirse hep olumlu yönde okunur: 这条路不如那条近 (Bu yol o yol kadar yakın değil = o daha yakın). (2) Bir öneri/tercih: \"...-mektense ... daha iyi, bari ...\": 与其在这儿等,不如我们先走 (Burada beklemektense gitsek daha iyi), 求人不如求己 (Başkasına yalvarmaktansa kendine güven), 时间不早了,不如明天再说吧 (Vakit geç, bari yarın konuşalım). \"与其 A 不如 B\" kalıbı \"A yerine B'yi yeğ tut\" der. \"不如\" bir şeyin daha iyi/üstün olduğunu ya da bir seçeneğin daha akıllıca olduğunu belirtir. Türkçedeki \"... kadar değil, ...-den geride, ...-mektense, bari ..., ... yerine\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "今年的收成不如去年,雨水少了不少。",
+    "pinyin": "Jīn nián de shōu chéng bù rú qù nián, yǔ shuǐ shǎo le bù shǎo。",
+    "en": "This year's harvest isn't as good as last year's; there was less rain."
+   },
+   {
+    "zh": "论细心,我实在不如她,她总能发现别人忽略的地方。",
+    "pinyin": "Lùn xì xīn, wǒ shí zài bù rú tā, tā zǒng néng fā xiàn bié rén hū lüè de dì fāng。",
+    "en": "In carefulness I'm no match for her; she spots what others miss."
+   },
+   {
+    "zh": "与其在家里干着急,不如出门想想办法。",
+    "pinyin": "Yǔ qí zài jiā lǐ gān zháo jí, bù rú chū mén xiǎng xiǎng bàn fǎ。",
+    "en": "Rather than fretting at home, it's better to go out and find a way."
+   },
+   {
+    "zh": "这条小路虽然近,可路况不如大路好走。",
+    "pinyin": "Zhè tiáo xiǎo lù suī rán jìn, kě lù kuàng bù rú dà lù hǎo zǒu。",
+    "en": "Though this path is shorter, it's not as easy to walk as the main road."
+   },
+   {
+    "zh": "求人办事往往不如靠自己来得踏实。",
+    "pinyin": "Qiú rén bàn shì wǎng wǎng bù rú kào zì jǐ lái de tà shí。",
+    "en": "Asking others is often less reliable than depending on yourself."
+   },
+   {
+    "zh": "与其买这么多便宜货,不如攒钱买件耐用的。",
+    "pinyin": "Yǔ qí mǎi zhè me duō pián yí huò, bù rú zǎn qián mǎi jiàn nài yòng de。",
+    "en": "Rather than buying cheap stuff, save for something durable."
+   },
+   {
+    "zh": "他嘴上说得好听,做起事来却远不如你踏实。",
+    "pinyin": "Tā zuǐ shàng shuō de hǎo tīng, zuò qǐ shì lái què yuǎn bù rú nǐ tà shí。",
+    "en": "He talks nicely but is far less steady than you in action."
+   },
+   {
+    "zh": "时间不早了,与其硬撑,不如早点回去休息。",
+    "pinyin": "Shí jiān bù zǎo le, yǔ qí yìng chēng, bù rú zǎo diǎn huí qù xiū xī。",
+    "en": "It's late; rather than forcing it, better to rest earlier."
+   },
+   {
+    "zh": "这家餐厅的味道不如以前了,人也少了很多。",
+    "pinyin": "Zhè jiā cān tīng de wèi dào bù rú yǐ qián le, rén yě shǎo le hěn duō。",
+    "en": "This restaurant's taste isn't what it was, and it's far less busy."
+   },
+   {
+    "zh": "与其羡慕别人,不如踏踏实实提升自己。",
+    "pinyin": "Yǔ qí xiàn mù bié rén, bù rú tà tà shí shí tí shēng zì jǐ。",
+    "en": "Rather than envying others, better to steadily improve yourself."
+   },
+   {
+    "zh": "百闻不如一见,这地方的风景果然名不虚传。",
+    "pinyin": "Bǎi wén bù rú yī jiàn, zhè dì fāng de fēng jǐng guǒ rán míng bù xū chuán。",
+    "en": "Seeing once beats hearing a hundred times; the scenery lives up to its name."
+   },
+   {
+    "zh": "论力气我不如他,可论耐心他就比不上我了。",
+    "pinyin": "Lùn lì qì wǒ bù rú tā, kě lùn nài xīn tā jiù bǐ bù shàng wǒ le。",
+    "en": "In strength I'm no match for him, but in patience he can't match me."
+   },
+   {
+    "zh": "与其抱怨环境,不如想办法改变自己的处境。",
+    "pinyin": "Yǔ qí bào yuàn huán jìng, bù rú xiǎng bàn fǎ gǎi biàn zì jǐ de chǔ jìng。",
+    "en": "Rather than complaining, better to change your own situation."
+   },
+   {
+    "zh": "这台旧电脑的速度早就不如从前了。",
+    "pinyin": "Zhè tái jiù diàn nǎo de sù dù zǎo jiù bù rú cóng qián le。",
+    "en": "This old computer's speed is long gone from what it was."
+   },
+   {
+    "zh": "与其把话憋在心里,不如坦诚地说出来。",
+    "pinyin": "Yǔ qí bǎ huà biē zài xīn lǐ, bù rú tǎn chéng de shuō chū lái。",
+    "en": "Rather than bottling it up, better to speak frankly."
+   },
+   {
+    "zh": "光靠嘴说不如动手做,行动才最有说服力。",
+    "pinyin": "Guāng kào zuǐ shuō bù rú dòng shǒu zuò, xíng dòng cái zuì yǒu shuō fú lì。",
+    "en": "Talking is worse than doing; action is most convincing."
+   },
+   {
+    "zh": "他今年的状态明显不如去年,需要好好调整。",
+    "pinyin": "Tā jīn nián de zhuàng tài míng xiǎn bù rú qù nián, xū yào hǎo hǎo tiáo zhěng。",
+    "en": "His form this year is clearly worse than last; he needs to adjust."
+   },
+   {
+    "zh": "与其临时抱佛脚,不如平时就打好基础。",
+    "pinyin": "Yǔ qí lín shí bào fó jiǎo, bù rú píng shí jiù dǎ hǎo jī chǔ。",
+    "en": "Rather than cramming last minute, build a foundation early."
+   },
+   {
+    "zh": "这种塑料的椅子坐着不如木头的舒服。",
+    "pinyin": "Zhè zhǒng sù liào de yǐ zi zuò zhe bù rú mù tou de shū fú。",
+    "en": "This plastic chair isn't as comfy to sit on as a wooden one."
+   },
+   {
+    "zh": "与其一个人苦苦支撑,不如向朋友们求助。",
+    "pinyin": "Yǔ qí yí gè rén kǔ kǔ zhī chēng, bù rú xiàng péng yǒu men qiú zhù。",
+    "en": "Rather than struggling alone, better to ask friends for help."
+   },
+   {
+    "zh": "论经验他不如老师傅,但学得比谁都认真。",
+    "pinyin": "Lùn jīng yàn tā bù rú lǎo shī fù, dàn xué de bǐ shéi dōu rèn zhēn。",
+    "en": "In experience he's no match for the old master, but he learns hardest."
+   },
+   {
+    "zh": "与其送贵重的礼物,不如常回家看看老人。",
+    "pinyin": "Yǔ qí sòng guì zhòng de lǐ wù, bù rú cháng huí jiā kàn kàn lǎo rén。",
+    "en": "Rather than costly gifts, better to visit the elders often."
+   },
+   {
+    "zh": "今天的天气不如昨天,风大了,也冷了些。",
+    "pinyin": "Jīn tiān de tiān qì bù rú zuó tiān, fēng dà le, yě lěng le xiē。",
+    "en": "Today's weather is worse than yesterday's — windier and colder."
+   },
+   {
+    "zh": "与其空想那些遥远的目标,不如先做好眼前的事。",
+    "pinyin": "Yǔ qí kōng xiǎng nà xiē yáo yuǎn de mù biāo, bù rú xiān zuò hǎo yǎn qián de shì。",
+    "en": "Rather than daydreaming of far goals, do what's at hand first."
+   },
+   {
+    "zh": "这次的表现不如上次,看来还得多加练习。",
+    "pinyin": "Zhè cì de biǎo xiàn bù rú shàng cì, kàn lái hái de duō jiā liàn xí。",
+    "en": "This performance wasn't as good as last time; more practice is needed."
+   }
+  ]
+ },
+ {
+  "id": "g350",
+  "level": 4,
+  "title": "\"化\" ile \"-leştirmek / -laşmak\" fiilleri",
+  "titleEn": "Making \"-ize\" and \"-ify\" verbs with \"hua\"",
+  "pattern": "İki heceli sıfat / ad + 化",
+  "summary": "\"化\" bir sıfat/ada eklenip \"...-leştirmek, ...-laşmak\" anlamı verir: 现代化 = modernleş(tir)mek, 简单化 = basitleştirmek.",
+  "explanation": "\"化\" iki heceli bir SIFAT ya da ADA eklenerek \"o niteliğe dönüş(tür)mek\" anlamında fiil/isim yapar; Türkçedeki \"...-leştirmek/...-laştırmak\" ve \"...-leşmek/...-laşmak\" eklerine, İngilizcedeki \"-ize/-ify\"a denk gelir: 现代化 (modernleş[tir]me), 简单化 (basitleştirme), 美化 (güzelleştirme), 绿化 (yeşillendirme), 自动化 (otomatikleştirme), 恶化 (kötüleşme), 老化 (yaşlanma/eskime). Genellikle iki heceli köklere eklenir (tek heceye seyrek: 绿化, 美化 gibi köklerde kök tek hece olabilir). Hem geçişli (bir şeyi o hâle getirmek: 美化环境 çevreyi güzelleştirmek) hem geçişsiz (o hâle gelmek: 病情恶化 hastalık kötüleşti) kullanılır. Sonuç sözcük çoğu zaman hem eylem hem ad olur: 城市的现代化 (şehrin modernleşmesi). Soyut/teknik/toplumsal süreçleri anlatmada çok yaygındır. Türkçeye \"...-leşme/...-leştirme\" olarak çevrilir; bir niteliğe dönüşmeyi ya da dönüştürmeyi anlatmanın üretken bir yoludur.",
+  "examples": [
+   {
+    "zh": "这座城市这些年的现代化进程快得让人吃惊。",
+    "pinyin": "Zhè zuò chéng shì zhè xiē nián de xiàn dài huà jìn chéng kuài de ràng rén chī jīng。",
+    "en": "The city's modernization in recent years is astonishingly fast."
+   },
+   {
+    "zh": "我们不应该把这么复杂的问题简单化。",
+    "pinyin": "Wǒ men bù yīng gāi bǎ zhè me fù zá de wèn tí jiǎn dān huà。",
+    "en": "We shouldn't oversimplify such a complex problem."
+   },
+   {
+    "zh": "政府投入大量资金来绿化城市的每一个角落。",
+    "pinyin": "Zhèng fǔ tóu rù dà liàng zī jīn lái lǜ huà chéng shì de měi yí gè jiǎo luò。",
+    "en": "The government invests heavily to green every corner of the city."
+   },
+   {
+    "zh": "如果不及时治疗,他的病情很可能会进一步恶化。",
+    "pinyin": "Rú guǒ bù jí shí zhì liáo, tā de bìng qíng hěn kě néng huì jìn yí bù è huà。",
+    "en": "Without timely treatment, his condition may well worsen."
+   },
+   {
+    "zh": "这家工厂已经实现了生产线的全面自动化。",
+    "pinyin": "Zhè jiā gōng chǎng yǐ jīng shí xiàn le shēng chǎn xiàn de quán miàn zì dòng huà。",
+    "en": "This factory has fully automated its production line."
+   },
+   {
+    "zh": "随着年龄增长,人的皮肤会慢慢老化。",
+    "pinyin": "Suí zhe nián líng zēng zhǎng, rén de pí fū huì màn màn lǎo huà。",
+    "en": "As people age, their skin gradually ages."
+   },
+   {
+    "zh": "学校正努力美化校园,种了许多花草树木。",
+    "pinyin": "Xué xiào zhèng nǔ lì měi huà xiào yuán, zhǒng le xǔ duō huā cǎo shù mù。",
+    "en": "The school is beautifying the campus with many plants and trees."
+   },
+   {
+    "zh": "把知识生活化,学生学起来才更有兴趣。",
+    "pinyin": "Bǎ zhī shí shēng huó huà, xué shēng xué qǐ lái cái gèng yǒu xìng qù。",
+    "en": "Making knowledge part of life makes students more interested."
+   },
+   {
+    "zh": "这项政策的目的是推动农业的机械化。",
+    "pinyin": "Zhè xiàng zhèng cè de mù dì shì tuī dòng nóng yè de jī xiè huà。",
+    "en": "This policy aims to promote agricultural mechanization."
+   },
+   {
+    "zh": "过度商业化让这个古镇失去了原有的味道。",
+    "pinyin": "Guò dù shāng yè huà ràng zhè ge gǔ zhèn shī qù le yuán yǒu de wèi dào。",
+    "en": "Over-commercialization has stripped this old town of its flavor."
+   },
+   {
+    "zh": "公司决定把内部流程标准化,以提高效率。",
+    "pinyin": "Gōng sī jué dìng bǎ nèi bù liú chéng biāo zhǔn huà, yǐ tí gāo xiào lǜ。",
+    "en": "The company decided to standardize internal processes for efficiency."
+   },
+   {
+    "zh": "空气长期污染,导致周边环境不断恶化。",
+    "pinyin": "Kōng qì cháng qī wū rǎn, dǎo zhì zhōu biān huán jìng bù duàn è huà。",
+    "en": "Prolonged air pollution keeps worsening the surrounding environment."
+   },
+   {
+    "zh": "我们要把抽象的道理具体化,大家才容易理解。",
+    "pinyin": "Wǒ men yào bǎ chōu xiàng de dào lǐ jù tǐ huà, dà jiā cái róng yì lǐ jiě。",
+    "en": "We should make abstract principles concrete so people grasp them."
+   },
+   {
+    "zh": "信息技术正深刻地改变着社会的方方面面。",
+    "pinyin": "Xìn xī jì shù zhèng shēn kè de gǎi biàn zhe shè huì de fāng fāng miàn miàn。",
+    "en": "Information technology is profoundly reshaping every aspect of society."
+   },
+   {
+    "zh": "这种材料在高温下容易发生变化甚至软化。",
+    "pinyin": "Zhè zhǒng cái liào zài gāo wēn xià róng yì fā shēng biàn huà shèn zhì ruǎn huà。",
+    "en": "This material easily changes or even softens under high heat."
+   },
+   {
+    "zh": "把复杂的手续简化之后,办事效率明显提高了。",
+    "pinyin": "Bǎ fù zá de shǒu xù jiǎn huà zhī hòu, bàn shì xiào lǜ míng xiǎn tí gāo le。",
+    "en": "After simplifying the procedures, efficiency clearly rose."
+   },
+   {
+    "zh": "为了防止水土流失,山坡上进行了大面积绿化。",
+    "pinyin": "Wèi le fáng zhǐ shuǐ tǔ liú shī, shān pō shàng jìn xíng le dà miàn jī lǜ huà。",
+    "en": "To prevent erosion, the slopes were extensively greened."
+   },
+   {
+    "zh": "随着城市化的加快,越来越多的年轻人涌入城市。",
+    "pinyin": "Suí zhe chéng shì huà de jiā kuài, yuè lái yuè duō de nián qīng rén yǒng rù chéng shì。",
+    "en": "As urbanization speeds up, more youth pour into cities."
+   },
+   {
+    "zh": "这部作品把普通人的生活艺术化地呈现了出来。",
+    "pinyin": "Zhè bù zuò pǐn bǎ pǔ tōng rén de shēng huó yì shù huà de chéng xiàn le chū lái。",
+    "en": "This work presents ordinary life in an artistic way."
+   },
+   {
+    "zh": "长期不用的机器容易生锈,零件也会老化。",
+    "pinyin": "Cháng qī bù yòng de jī qì róng yì shēng xiù, líng jiàn yě huì lǎo huà。",
+    "en": "Long-unused machines rust easily, and parts age too."
+   },
+   {
+    "zh": "我们要避免把人的形象简单化或者标签化。",
+    "pinyin": "Wǒ men yào bì miǎn bǎ rén de xíng xiàng jiǎn dān huà huò zhě biāo qiān huà。",
+    "en": "We should avoid oversimplifying or labeling people."
+   },
+   {
+    "zh": "这条河经过治理,水质明显得到了净化。",
+    "pinyin": "Zhè tiáo hé jīng guò zhì lǐ, shuǐ zhì míng xiǎn dé dào le jìng huà。",
+    "en": "After treatment, the river's water was clearly purified."
+   },
+   {
+    "zh": "公司正在把管理制度进一步规范化。",
+    "pinyin": "Gōng sī zhèng zài bǎ guǎn lǐ zhì dù jìn yí bù guī fàn huà。",
+    "en": "The company is further standardizing its management system."
+   },
+   {
+    "zh": "盲目西化并不可取,应该结合自身的实际。",
+    "pinyin": "Máng mù xī huà bìng bù kě qǔ, yīng gāi jié hé zì shēn de shí jì。",
+    "en": "Blind Westernization is unwise; one should fit one's own reality."
+   },
+   {
+    "zh": "科技的进步让人们的生活变得越来越便利化。",
+    "pinyin": "Kē jì de jìn bù ràng rén men de shēng huó biàn de yuè lái yuè biàn lì huà。",
+    "en": "Technological progress makes life ever more convenient."
+   }
+  ]
+ },
+ {
+  "id": "g351",
+  "level": 4,
+  "title": "\"难怪\" ile \"demek ki / şaşılmaz\"",
+  "titleEn": "Using \"nanguai\" as a verb",
+  "pattern": "难怪 + Olgu / 也难怪 + Kişi",
+  "summary": "\"难怪\" bir nedeni öğrenince \"demek ki, buna şaşmamalı\" anlamı verir: 难怪他没来,原来病了 = Demek gelmedi, meğer hastaymış.",
+  "explanation": "\"难怪\" bir NEDEN öğrenildiğinde önceki bir durumun artık anlaşıldığını, ona şaşmamak gerektiğini bildirir. İki işlevi vardır. (1) Belirteç gibi: bir olguyu duyunca \"demek ki, ha demek, buna şaşmamalı, ne de olsa\": 难怪今天这么冷,原来下雪了 (Demek bugün bu kadar soğuk, meğer kar yağmış), 难怪他汉语这么好,原来在中国住过十年 (Çincesinin bu kadar iyi olmasına şaşmamalı, meğer Çin'de on yıl yaşamış). Genellikle \"原来\" (meğer) ile birlikte gelir. (2) Fiil gibi \"birini suçlamamak, hoş görmek\": 这也难怪他,毕竟他是第一次做 (Bunda onu suçlamamalı, ne de olsa ilk kez yapıyor), 也难怪你不知道,这事我没跟你说过 (Bilmemene şaşmamalı, sana söylememiştim). Kısacası bir sonucun nedeni ortaya çıkınca \"işte bu yüzden, demek bundanmış\" duygusunu verir. Türkçedeki \"demek ki, buna şaşmamalı, ha demek, ne de olsa, onu da suçlamamalı\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "难怪今天这么冷,原来昨晚悄悄下了一场雪。",
+    "pinyin": "Nán guài jīn tiān zhè me lěng, yuán lái zuó wǎn qiāo qiāo xià le yī cháng xuě。",
+    "en": "No wonder it's so cold today; it snowed quietly last night."
+   },
+   {
+    "zh": "难怪他的汉语说得这么地道,原来在北京住了十年。",
+    "pinyin": "Nán guài tā de hàn yǔ shuō de zhè me dì dào, yuán lái zài běi jīng zhù le shí nián。",
+    "en": "No wonder his Chinese is so idiomatic; he lived in Beijing ten years."
+   },
+   {
+    "zh": "难怪教室里一个人都没有,原来今天放假。",
+    "pinyin": "Nán guài jiào shì lǐ yí gè rén dōu méi yǒu, yuán lái jīn tiān fàng jià。",
+    "en": "No wonder the classroom's empty; it's a holiday today."
+   },
+   {
+    "zh": "难怪她今天特别高兴,原来是收到了录取通知书。",
+    "pinyin": "Nán guài tā jīn tiān tè bié gāo xìng, yuán lái shì shōu dào le lù qǔ tōng zhī shū。",
+    "en": "No wonder she's so happy today; she got the admission letter."
+   },
+   {
+    "zh": "难怪这道菜这么香,原来放了不少他自制的酱料。",
+    "pinyin": "Nán guài zhè dào cài zhè me xiāng, yuán lái fàng le bù shǎo tā zì zhì de jiàng liào。",
+    "en": "No wonder this dish smells so good; he added his homemade sauce."
+   },
+   {
+    "zh": "难怪最近总是找不到他,原来出差去了外地。",
+    "pinyin": "Nán guài zuì jìn zǒng shì zhǎo bú dào tā, yuán lái chū chāi qù le wài dì。",
+    "en": "No wonder I couldn't reach him; he was away on business."
+   },
+   {
+    "zh": "难怪路上这么堵,原来前面出了点小事故。",
+    "pinyin": "Nán guài lù shàng zhè me dǔ, yuán lái qián miàn chū le diǎn xiǎo shì gù。",
+    "en": "No wonder the road's so jammed; there was a minor accident ahead."
+   },
+   {
+    "zh": "难怪他对这一带这么熟,原来从小就在这儿长大。",
+    "pinyin": "Nán guài tā duì zhè yī dài zhè me shú, yuán lái cóng xiǎo jiù zài zhè ér zhǎng dà。",
+    "en": "No wonder he knows this area so well; he grew up here."
+   },
+   {
+    "zh": "难怪弟弟一直在偷笑,原来他早就知道了这个秘密。",
+    "pinyin": "Nán guài dì di yì zhí zài tōu xiào, yuán lái tā zǎo jiù zhī dào le zhè ge mì mì。",
+    "en": "No wonder my brother kept giggling; he'd known the secret all along."
+   },
+   {
+    "zh": "难怪灯不亮,原来是灯泡坏了,该换个新的了。",
+    "pinyin": "Nán guài dēng bù liàng, yuán lái shì dēng pào huài le, gāi huàn gè xīn de le。",
+    "en": "No wonder the light's off; the bulb's dead and needs replacing."
+   },
+   {
+    "zh": "难怪这几天他闷闷不乐,原来家里出了点事。",
+    "pinyin": "Nán guài zhè jǐ tiān tā mèn mèn bù lè, yuán lái jiā lǐ chū le diǎn shì。",
+    "en": "No wonder he's been down these days; something happened at home."
+   },
+   {
+    "zh": "这也难怪孩子,毕竟这么难的题连大人都不会。",
+    "pinyin": "Zhè yě nán guài hái zi, bì jìng zhè me nán de tí lián dà rén dōu bú huì。",
+    "en": "You can't blame the child; even adults can't do such a hard problem."
+   },
+   {
+    "zh": "难怪院子里这么香,原来那几棵桂花全开了。",
+    "pinyin": "Nán guài yuàn zi lǐ zhè me xiāng, yuán lái nà jǐ kē guì huā quán kāi le。",
+    "en": "No wonder the yard smells so sweet; the osmanthus is all in bloom."
+   },
+   {
+    "zh": "难怪他做菜这么拿手,原来当过好几年厨师。",
+    "pinyin": "Nán guài tā zuò cài zhè me ná shǒu, yuán lái dāng guò hǎo jǐ nián chú shī。",
+    "en": "No wonder he cooks so well; he was a chef for years."
+   },
+   {
+    "zh": "也难怪你不知道,这件事我确实没跟任何人提过。",
+    "pinyin": "Yě nán guài nǐ bù zhī dào, zhè jiàn shì wǒ què shí méi gēn rèn hé rén tí guò。",
+    "en": "No wonder you didn't know; I truly told no one about it."
+   },
+   {
+    "zh": "难怪她的画这么有灵气,原来是从小就跟名师学的。",
+    "pinyin": "Nán guài tā de huà zhè me yǒu líng qì, yuán lái shì cóng xiǎo jiù gēn míng shī xué de。",
+    "en": "No wonder her paintings are so vivid; she studied under a master young."
+   },
+   {
+    "zh": "难怪今天大家都穿得这么正式,原来有重要客人来。",
+    "pinyin": "Nán guài jīn tiān dà jiā dōu chuān de zhè me zhèng shì, yuán lái yǒu zhòng yào kè rén lái。",
+    "en": "No wonder everyone dressed formally today; an important guest came."
+   },
+   {
+    "zh": "难怪这条鱼这么新鲜,原来是今天一早刚打上来的。",
+    "pinyin": "Nán guài zhè tiáo yú zhè me xīn xiān, yuán lái shì jīn tiān yī zǎo gāng dǎ shàng lái de。",
+    "en": "No wonder this fish is so fresh; it was caught this morning."
+   },
+   {
+    "zh": "难怪他一提起那件事就沉默,原来有段伤心的往事。",
+    "pinyin": "Nán guài tā yī tí qǐ nà jiàn shì jiù chén mò, yuán lái yǒu duàn shāng xīn de wǎng shì。",
+    "en": "No wonder he goes quiet at that topic; there's a sad past behind it."
+   },
+   {
+    "zh": "难怪最近水费这么高,原来水管一直在悄悄漏水。",
+    "pinyin": "Nán guài zuì jìn shuǐ fèi zhè me gāo, yuán lái shuǐ guǎn yì zhí zài qiāo qiāo lòu shuǐ。",
+    "en": "No wonder the water bill's high; a pipe's been quietly leaking."
+   },
+   {
+    "zh": "这也难怪他生气,换了谁被这样误会都受不了。",
+    "pinyin": "Zhè yě nán guài tā shēng qì, huàn le shuí bèi zhè yàng wù huì dōu shòu bù liǎo。",
+    "en": "You can't blame his anger; anyone so misunderstood would mind."
+   },
+   {
+    "zh": "难怪这块地种什么都长得好,原来土质特别肥沃。",
+    "pinyin": "Nán guài zhè kuài de zhǒng shén me dōu zhǎng de hǎo, yuán lái tǔ zhì tè bié féi wò。",
+    "en": "No wonder crops thrive here; the soil is especially fertile."
+   },
+   {
+    "zh": "难怪他今天精神这么好,原来昨晚睡了个好觉。",
+    "pinyin": "Nán guài tā jīn tiān jīng shén zhè me hǎo, yuán lái zuó wǎn shuì le gè hǎo jué。",
+    "en": "No wonder he's so energetic today; he slept well last night."
+   },
+   {
+    "zh": "难怪这本书这么受欢迎,原来内容确实写得精彩。",
+    "pinyin": "Nán guài zhè běn shū zhè me shòu huān yíng, yuán lái nèi róng què shí xiě de jīng cǎi。",
+    "en": "No wonder this book is popular; its content is truly excellent."
+   },
+   {
+    "zh": "也难怪大家没认出他,毕竟这些年他变化实在太大了。",
+    "pinyin": "Yě nán guài dà jiā méi rèn chū tā, bì jìng zhè xiē nián tā biàn huà shí zài tài dà le。",
+    "en": "No wonder no one recognized him; he's changed so much over the years."
+   }
+  ]
+ },
+ {
+  "id": "g352",
+  "level": 4,
+  "title": "\"将\" ile gelecek zaman (resmî)",
+  "titleEn": "Expressing future with \"jiang\"",
+  "pattern": "Özne + 将 (+ 于 zaman) + Fiil",
+  "summary": "\"将\" resmî dilde gelecek zamanı bildirir: 大会将于明天开幕 = Kongre yarın açılacak.",
+  "explanation": "Resmî ve yazılı dilde \"将\" (jiāng) bir eylemin GELECEKTE olacağını bildirir; \"会/要\"nın resmî karşılığıdır: \"...-ecek, ...-acaktır\". Kalıp: özne + 将 (+于 + zaman/yer) + fiil. 大会将于明天上午九点正式开幕 (Kongre yarın saat dokuzda açılacak), 公司将推出一系列新产品 (Şirket yeni ürünler çıkaracak), 这项政策将从下月起正式实施 (Bu politika gelecek aydan itibaren yürürlüğe girecek), 未来几天将有一次大范围降温 (Önümüzdeki günlerde geniş çaplı bir soğuma olacak). Sık sık \"于\" (... tarihinde/yerinde), \"即将\" (yaklaşmakta, birazdan) ve \"将要\" ile birlikte gelir. Bu \"将\" haber dili, duyuru, resmî açıklama ve tahminlerde kullanılır; günlük konuşmada \"会/要\" yeğlenir. (Not: \"将\" ayrıca biçimsel \"把\" olarak nesne de alabilir — o ayrı bir kullanımdır; burada gelecek zaman bildiren \"将\"ı ele alıyoruz.) Türkçedeki \"...-ecek, ...-acaktır, ... olacak\" gelecek zaman ifadelerine denk gelir; resmî/yazılı dilde geleceği bildirmenin yoludur.",
+  "examples": [
+   {
+    "zh": "本次大会将于明天上午九点在市中心正式开幕。",
+    "pinyin": "Běn cì dà huì jiāng yú míng tiān shàng wǔ jiǔ diǎn zài shì zhōng xīn zhèng shì kāi mù。",
+    "en": "This conference will formally open tomorrow at nine downtown."
+   },
+   {
+    "zh": "据气象台预报,未来三天将有一次明显的降温。",
+    "pinyin": "Jù qì xiàng tái yù bào, wèi lái sān tiān jiāng yǒu yī cì míng xiǎn de jiàng wēn。",
+    "en": "Per the weather bureau, a marked cooldown will come in three days."
+   },
+   {
+    "zh": "公司将于下周正式对外发布这款期待已久的新产品。",
+    "pinyin": "Gōng sī jiāng yú xià zhōu zhèng shì duì wài fā bù zhè kuǎn qī dài yǐ jiǔ de xīn chǎn pǐn。",
+    "en": "The company will officially release this long-awaited product next week."
+   },
+   {
+    "zh": "这条新建的地铁线路将大大方便沿线居民的出行。",
+    "pinyin": "Zhè tiáo xīn jiàn de dì tiě xiàn lù jiāng dà dà fāng biàn yán xiàn jū mín de chū xíng。",
+    "en": "This new subway line will greatly ease travel for residents along it."
+   },
+   {
+    "zh": "有关部门表示,这项惠民政策将从下月起全面实施。",
+    "pinyin": "Yǒu guān bù mén biǎo shì, zhè xiàng huì mín zhèng cè jiāng cóng xià yuè qǐ quán miàn shí shī。",
+    "en": "Officials say this policy will be fully implemented from next month."
+   },
+   {
+    "zh": "随着科技的发展,人们的生活方式将发生深刻的改变。",
+    "pinyin": "Suí zhe kē jì de fā zhǎn, rén men de shēng huó fāng shì jiāng fā shēng shēn kè de gǎi biàn。",
+    "en": "With tech advancing, people's lifestyles will change profoundly."
+   },
+   {
+    "zh": "这座历史悠久的博物馆将在修缮后重新对外开放。",
+    "pinyin": "Zhè zuò lì shǐ yōu jiǔ de bó wù guǎn jiāng zài xiū shàn hòu chóng xīn duì wài kāi fàng。",
+    "en": "This historic museum will reopen after renovation."
+   },
+   {
+    "zh": "专家预测,这一领域将在未来十年迎来飞速发展。",
+    "pinyin": "Zhuān jiā yù cè, zhè yī lǐng yù jiāng zài wèi lái shí nián yíng lái fēi sù fā zhǎn。",
+    "en": "Experts predict this field will grow rapidly in the next decade."
+   },
+   {
+    "zh": "代表团一行将于本周五启程前往邻国进行访问。",
+    "pinyin": "Dài biǎo tuán yī xíng jiāng yú běn zhōu wǔ qǐ chéng qián wǎng lín guó jìn xíng fǎng wèn。",
+    "en": "The delegation will set off Friday to visit a neighboring country."
+   },
+   {
+    "zh": "这次改革将惠及全国千千万万的普通家庭。",
+    "pinyin": "Zhè cì gǎi gé jiāng huì jí quán guó qiān qiān wàn wàn de pǔ tōng jiā tíng。",
+    "en": "This reform will benefit millions of ordinary families nationwide."
+   },
+   {
+    "zh": "学校将在暑假期间对老旧的教学楼进行全面翻新。",
+    "pinyin": "Xué xiào jiāng zài shǔ jià qī jiān duì lǎo jiù de jiào xué lóu jìn xíng quán miàn fān xīn。",
+    "en": "The school will fully renovate the old classroom building over summer."
+   },
+   {
+    "zh": "据悉,这部备受关注的影片将于下月与观众见面。",
+    "pinyin": "Jù xī, zhè bù bèi shòu guān zhù de yǐng piàn jiāng yú xià yuè yǔ guān zhòng jiàn miàn。",
+    "en": "The much-anticipated film will meet audiences next month."
+   },
+   {
+    "zh": "随着人口老龄化,养老问题将日益受到社会的关注。",
+    "pinyin": "Suí zhe rén kǒu lǎo líng huà, yǎng lǎo wèn tí jiāng rì yì shòu dào shè huì de guān zhù。",
+    "en": "As the population ages, elderly care will draw growing attention."
+   },
+   {
+    "zh": "这项国际赛事将吸引来自世界各地的顶尖选手参加。",
+    "pinyin": "Zhè xiàng guó jì sài shì jiāng xī yǐn lái zì shì jiè gè dì de dǐng jiān xuǎn shǒu cān jiā。",
+    "en": "This international event will draw top players from around the world."
+   },
+   {
+    "zh": "专家提醒,今后一段时间空气质量将有所下降。",
+    "pinyin": "Zhuān jiā tí xǐng, jīn hòu yī duàn shí jiān kōng qì zhì liàng jiāng yǒu suǒ xià jiàng。",
+    "en": "Experts warn that air quality will decline for some time ahead."
+   },
+   {
+    "zh": "新的图书馆建成后将向全体市民免费开放。",
+    "pinyin": "Xīn de tú shū guǎn jiàn chéng hòu jiāng xiàng quán tǐ shì mín miǎn fèi kāi fàng。",
+    "en": "Once built, the new library will be free to all citizens."
+   },
+   {
+    "zh": "这项技术一旦成熟,将彻底改变整个行业的面貌。",
+    "pinyin": "Zhè xiàng jì shù yí dàn chéng shú, jiāng chè dǐ gǎi biàn zhěng gè háng yè de miàn mào。",
+    "en": "Once mature, this technology will transform the whole industry."
+   },
+   {
+    "zh": "公司高层表示,明年将把重心转向海外市场。",
+    "pinyin": "Gōng sī gāo céng biǎo shì, míng nián jiāng bǎ zhòng xīn zhuǎn xiàng hǎi wài shì chǎng。",
+    "en": "Executives say next year they'll shift focus to overseas markets."
+   },
+   {
+    "zh": "这场大雨将持续到明天凌晨,请大家注意出行安全。",
+    "pinyin": "Zhè chǎng dà yǔ jiāng chí xù dào míng tiān líng chén, qǐng dà jiā zhù yì chū xíng ān quán。",
+    "en": "This heavy rain will last till early tomorrow; travel carefully."
+   },
+   {
+    "zh": "随着假期临近,各大车站的客流量将明显增加。",
+    "pinyin": "Suí zhe jià qī lín jìn, gè dà chē zhàn de kè liú liàng jiāng míng xiǎn zēng jiā。",
+    "en": "As the holiday nears, station passenger flow will rise noticeably."
+   },
+   {
+    "zh": "这次合作将为两家企业带来更广阔的发展空间。",
+    "pinyin": "Zhè cì hé zuò jiāng wèi liǎng jiā qǐ yè dài lái gèng guǎng kuò de fā zhǎn kōng jiān。",
+    "en": "This cooperation will bring both firms wider room to grow."
+   },
+   {
+    "zh": "新政策的出台将有效缓解年轻人的住房压力。",
+    "pinyin": "Xīn zhèng cè de chū tái jiāng yǒu xiào huǎn jiě nián qīng rén de zhù fáng yā lì。",
+    "en": "The new policy will effectively ease young people's housing pressure."
+   },
+   {
+    "zh": "这座跨海大桥建成后将成为连接两地的重要通道。",
+    "pinyin": "Zhè zuò kuà hǎi dà qiáo jiàn chéng hòu jiāng chéng wéi lián jiē liǎng de de zhòng yào tōng dào。",
+    "en": "Once built, this sea bridge will be a key link between the two places."
+   },
+   {
+    "zh": "据介绍,该项目将分三个阶段逐步推进。",
+    "pinyin": "Jù jiè shào, gāi xiàng mù jiāng fēn sān gè jiē duàn zhú bù tuī jìn。",
+    "en": "It's said the project will advance in three stages."
+   },
+   {
+    "zh": "未来,人工智能将在越来越多的领域发挥重要作用。",
+    "pinyin": "Wèi lái, rén gōng zhì néng jiāng zài yuè lái yuè duō de lǐng yù fā huī zhòng yào zuò yòng。",
+    "en": "In the future, AI will play a key role in ever more fields."
+   }
+  ]
  }
 ]

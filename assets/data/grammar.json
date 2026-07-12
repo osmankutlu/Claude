@@ -64734,5 +64734,685 @@
     "en": "If you live each ordinary day well, life is naturally full."
    }
   ]
+ },
+ {
+  "id": "g477",
+  "level": 5,
+  "title": "\"因...而...\" ile neden-sonuç (resmî)",
+  "titleEn": "Using \"because\" with \"er\" to indicate effect",
+  "pattern": "因 + Neden + 而 + Sonuç",
+  "summary": "\"因...而...\" bir nedenden doğan sonucu bildirir: 他因努力而成功 = O, çabası sayesinde başarılı oldu.",
+  "explanation": "\"因 A 而 B\" resmî/edebî dilde bir NEDEN (A) ile ondan doğan SONUCU/tepkiyi (B) tek cümlede sıkı biçimde bağlar: \"...-den dolayı ..., ... yüzünden ..., ... nedeniyle ..., ... sayesinde ...\". Kalıp: (özne) 因 + neden + 而 + sonuç. 他因刻苦努力而取得了优异的成绩 (Sıkı çalışması sayesinde üstün başarı elde etti), 这座城市因这条河而闻名 (Bu şehir bu nehir sayesinde ün kazandı), 大家不必因一时的挫折而灰心 (Anlık bir başarısızlık yüzünden umutsuzluğa kapılmayın), 生活因梦想而精彩 (Hayat hayaller sayesinde güzelleşir), 他因这件小事而懊恼了很久 (Bu ufak şey yüzünden uzun süre üzüldü). \"因\" nedeni, \"而\" sonuca geçişi işaretler; ikisi arasında doğrudan bir neden-sonuç bağı vardır. Bu kalıp \"因为...所以...\"ya göre daha SIKIŞTIRILMIŞ, resmî ve edebîdir; genellikle tek bir özneye ait neden ve sonucu birleştirir. Sık sık \"因...而...\" biçiminde özdeyiş, slogan ve resmî anlatımda geçer (生活因你而美丽). Hem olumlu hem olumsuz sonuçlarda kullanılır. Türkçedeki \"...-den dolayı, ... yüzünden, ... nedeniyle, ... sayesinde\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "他因长年坚持不懈的努力而最终取得了非凡的成就。",
+    "pinyin": "Tā yīn cháng nián jiān chí bù xiè de nǔ lì ér zuì zhōng qǔ de le fēi fán de chéng jiù。",
+    "en": "Through years of relentless effort, he finally achieved greatly."
+   },
+   {
+    "zh": "这座小城因一位诗人的名篇而声名远扬。",
+    "pinyin": "Zhè zuò xiǎo chéng yīn yī wèi shī rén de míng piān ér shēng míng yuǎn yáng。",
+    "en": "The small town became famous through a poet's masterpiece."
+   },
+   {
+    "zh": "我们不应因一时的失败而丧失继续前进的勇气。",
+    "pinyin": "Wǒ men bù yīng yīn yī shí de shī bài ér sàng shī jì xù qián jìn de yǒng qì。",
+    "en": "We shouldn't lose courage to go on over a momentary failure."
+   },
+   {
+    "zh": "生活因为有了梦想和追求而变得格外精彩。",
+    "pinyin": "Shēng huó yīn wèi yǒu le mèng xiǎng hé zhuī qiú ér biàn de gé wài jīng cǎi。",
+    "en": "Life becomes wonderfully rich because of dreams and pursuits."
+   },
+   {
+    "zh": "他因一句无心的玩笑而懊恼自责了好几天。",
+    "pinyin": "Tā yīn yī jù wú xīn de wán xiào ér ào nǎo zì zé le hǎo jǐ tiān。",
+    "en": "He fretted and blamed himself for days over a careless joke."
+   },
+   {
+    "zh": "这片湿地因珍稀的候鸟而成为著名的观鸟胜地。",
+    "pinyin": "Zhè piàn shī de yīn zhēn xī de hòu niǎo ér chéng wéi zhù míng de guān niǎo shèng de。",
+    "en": "The wetland became a famous birding spot for its rare migrants."
+   },
+   {
+    "zh": "许多矛盾往往因缺乏沟通而变得越来越尖锐。",
+    "pinyin": "Xǔ duō máo dùn wǎng wǎng yīn quē fá gōu tōng ér biàn de yuè lái yuè jiān ruì。",
+    "en": "Many conflicts sharpen for lack of communication."
+   },
+   {
+    "zh": "他并没有因别人的质疑而动摇自己的信念。",
+    "pinyin": "Tā bìng méi yǒu yīn bié rén de zhì yí ér dòng yáo zì jǐ de xìn niàn。",
+    "en": "He didn't waver in his conviction over others' doubts."
+   },
+   {
+    "zh": "这段友谊因彼此的真诚与包容而愈发深厚。",
+    "pinyin": "Zhè duàn yǒu yì yīn bǐ cǐ de zhēn chéng yǔ bāo róng ér yù fā shēn hòu。",
+    "en": "The friendship deepened through mutual sincerity and tolerance."
+   },
+   {
+    "zh": "大地因春天的到来而重新披上了一片新绿。",
+    "pinyin": "Dà de yīn chūn tiān de dào lái ér chóng xīn pī shàng le yī piàn xīn lǜ。",
+    "en": "The land donned fresh green again at spring's arrival."
+   },
+   {
+    "zh": "他因帮助过无数陌生人而受到了大家的敬重。",
+    "pinyin": "Tā yīn bāng zhù guò wú shù mò shēng rén ér shòu dào le dà jiā de jìng zhòng。",
+    "en": "He earned everyone's respect by helping countless strangers."
+   },
+   {
+    "zh": "这项工程因资金短缺而不得不暂时停了下来。",
+    "pinyin": "Zhè xiàng gōng chéng yīn zī jīn duǎn quē ér bù de bù zàn shí tíng le xià lái。",
+    "en": "The project had to pause for a shortage of funds."
+   },
+   {
+    "zh": "他的名字因这项伟大的发明而载入了史册。",
+    "pinyin": "Tā de míng zì yīn zhè xiàng wěi dà de fā míng ér zài rù le shǐ cè。",
+    "en": "His name entered history through this great invention."
+   },
+   {
+    "zh": "我们不能因害怕失败而放弃尝试的勇气。",
+    "pinyin": "Wǒ men bù néng yīn hài pà shī bài ér fàng qì cháng shì de yǒng qì。",
+    "en": "We mustn't abandon the courage to try for fear of failure."
+   },
+   {
+    "zh": "这条老街因保留了古朴的风貌而吸引着游客。",
+    "pinyin": "Zhè tiáo lǎo jiē yīn bǎo liú le gǔ piáo de fēng mào ér xī yǐn zhe yóu kè。",
+    "en": "The old street draws tourists by keeping its quaint charm."
+   },
+   {
+    "zh": "他因一次善意的举动而结识了一位知心的朋友。",
+    "pinyin": "Tā yīn yī cì shàn yì de jǔ dòng ér jié shí le yī wèi zhī xīn de péng yǒu。",
+    "en": "A kind act led him to a close and trusted friend."
+   },
+   {
+    "zh": "整个团队因这次成功而信心大增,士气高涨。",
+    "pinyin": "Zhěng gè tuán duì yīn zhè cì chéng gōng ér xìn xīn dà zēng, shì qì gāo zhǎng。",
+    "en": "The whole team gained confidence and morale from this success."
+   },
+   {
+    "zh": "他并未因身处逆境而放弃对美好生活的向往。",
+    "pinyin": "Tā bìng wèi yīn shēn chù nì jìng ér fàng qì duì měi hǎo shēng huó de xiàng wǎng。",
+    "en": "He never gave up his yearning for a good life in adversity."
+   },
+   {
+    "zh": "这座桥因年久失修而存在着不小的安全隐患。",
+    "pinyin": "Zhè zuò qiáo yīn nián jiǔ shī xiū ér cún zài zhe bù xiǎo de ān quán yǐn huàn。",
+    "en": "Long unrepaired, the bridge poses no small safety hazard."
+   },
+   {
+    "zh": "孩子的世界,常常因一件小事而充满了欢乐。",
+    "pinyin": "Hái zi de shì jiè, cháng cháng yīn yī jiàn xiǎo shì ér chōng mǎn le huān lè。",
+    "en": "A child's world often fills with joy over a small thing."
+   },
+   {
+    "zh": "他因坚持诚信经营而赢得了顾客长久的信赖。",
+    "pinyin": "Tā yīn jiān chí chéng xìn jīng yíng ér yíng de le gù kè cháng jiǔ de xìn lài。",
+    "en": "By honest business he won customers' lasting trust."
+   },
+   {
+    "zh": "这位老人因乐于助人而深受街坊邻里的爱戴。",
+    "pinyin": "Zhè wèi lǎo rén yīn lè yú zhù rén ér shēn shòu jiē fāng lín lǐ de ài dài。",
+    "en": "The old man, ever helpful, is beloved by his neighbors."
+   },
+   {
+    "zh": "很多误会都因将心比心而在无形中化解了。",
+    "pinyin": "Hěn duō wù huì dōu yīn jiāng xīn bǐ xīn ér zài wú xíng zhōng huà jiě le。",
+    "en": "Many misunderstandings quietly dissolve through empathy."
+   },
+   {
+    "zh": "这幅古画因历经战乱而变得残破不全,十分可惜。",
+    "pinyin": "Zhè fú gǔ huà yīn lì jīng zhàn luàn ér biàn de cán pò bù quán, shí fēn kě xī。",
+    "en": "The old painting, ravaged by war, is sadly damaged."
+   },
+   {
+    "zh": "他因懂得知足而活得比许多富人还要快乐。",
+    "pinyin": "Tā yīn dǒng de zhī zú ér huó de bǐ xǔ duō fù rén hái yào kuài lè。",
+    "en": "Knowing contentment, he lives happier than many rich men."
+   }
+  ]
+ },
+ {
+  "id": "g478",
+  "level": 5,
+  "title": "\"打着...的旗号/名义\" ile \"... adı altında / kisvesiyle\"",
+  "titleEn": "Additional way to express \"in the name of\"",
+  "pattern": "打着 + Ad + 的旗号 / 名义 + ...",
+  "summary": "\"打着...的旗号\" bir şeyi bahane/kisve olarak kullanmayı bildirir: 打着慈善的旗号骗钱 = Hayırseverlik kisvesiyle para dolandırmak.",
+  "explanation": "\"打着 ... 的旗号/名义\" (dǎzhe ... de qíhào/míngyì) bir kişinin, GERÇEK amacını gizleyerek görünüşte başka (çoğu zaman saygın) bir gerekçeyi BAHANE/KİSVE olarak kullandığını bildirir: \"... adı altında, ... kisvesiyle, ... bahanesiyle, ... maskesi altında, sözde ... adına\". Kalıp: 打着 + ad + 的旗号/名义 + (asıl, çoğu zaman kötü niyetli eylem). 有些人打着慈善的旗号,实际上却在中饱私囊 (Bazıları hayırseverlik kisvesiyle aslında kendi ceplerini dolduruyor), 他打着为你好的名义,干涉你的一切 (Senin iyiliğin için diyerek her şeyine karışıyor), 骗子常常打着高回报的旗号引诱受害者 (Dolandırıcılar çoğu zaman yüksek getiri vaadi kisvesiyle kurbanları kandırır), 不能打着改革的旗号损害群众的利益 (Reform adı altında halkın çıkarına zarar verilemez). \"打着 ... 的旗号\" neredeyse her zaman OLUMSUZ/eleştirel bir bağlamda kullanılır: görünürdeki güzel gerekçenin ARDINDA gizli, çoğu zaman bencil ya da kötü bir niyet olduğunu ima eder. \"旗号\" (bayrak/sancak) ve \"名义\" (ad/unvan) ikisi de burada \"maske, bahane\" anlamı kazanır. \"以...的名义\" (g481) daha nötrken, \"打着...的旗号\" küçümseme/eleştiri taşır. Türkçedeki \"... adı altında, ... kisvesiyle, ... bahanesiyle, ... maskesi altında\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "有些人打着慈善的旗号四处募捐,背地里却中饱私囊。",
+    "pinyin": "Yǒu xiē rén dǎ zhe cí shàn de qí hào sì chù mù juān, bèi de lǐ què zhōng bǎo sī náng。",
+    "en": "Some raise funds under charity's banner while lining their own pockets."
+   },
+   {
+    "zh": "他打着为公司着想的名义,实际上是在排挤竞争对手。",
+    "pinyin": "Tā dǎ zhe wèi gōng sī zhuó xiǎng de míng yì, shí jì shàng shì zài pái jǐ jìng zhēng duì shǒu。",
+    "en": "He claims to act for the firm while actually squeezing out rivals."
+   },
+   {
+    "zh": "骗子常常打着高额回报的旗号,引诱人们上当受骗。",
+    "pinyin": "Piàn zi cháng cháng dǎ zhe gāo é huí bào de qí hào, yǐn yòu rén men shàng dàng shòu piàn。",
+    "en": "Swindlers lure victims under the banner of high returns."
+   },
+   {
+    "zh": "不能打着改革的旗号,去损害普通群众的切身利益。",
+    "pinyin": "Bù néng dǎ zhe gǎi gé de qí hào, qù sǔn hài pǔ tōng qún zhòng de qiè shēn lì yì。",
+    "en": "One mustn't harm ordinary people's interests in reform's name."
+   },
+   {
+    "zh": "他打着关心你的名义,却处处干涉你的私人生活。",
+    "pinyin": "Tā dǎ zhe guān xīn nǐ de míng yì, què chù chù gān shè nǐ de sī rén shēng huó。",
+    "en": "He meddles in your private life under the guise of caring."
+   },
+   {
+    "zh": "有人打着环保的旗号,做的却是破坏环境的勾当。",
+    "pinyin": "Yǒu rén dǎ zhe huán bǎo de qí hào, zuò de què shì pò huài huán jìng de gòu dàng。",
+    "en": "Some, under an eco banner, actually wreck the environment."
+   },
+   {
+    "zh": "那些人打着专家的名义,四处兜售毫无根据的偏方。",
+    "pinyin": "Nà xiē rén dǎ zhe zhuān jiā de míng yì, sì chù dōu shòu háo wú gēn jù de piān fāng。",
+    "en": "Those people peddle baseless remedies under the name of experts."
+   },
+   {
+    "zh": "他打着为集体好的旗号,谋取的却是个人的私利。",
+    "pinyin": "Tā dǎ zhe wèi jí tǐ hǎo de qí hào, móu qǔ de què shì gè rén de sī lì。",
+    "en": "He seeks private gain under the banner of the collective good."
+   },
+   {
+    "zh": "有些广告打着科学的旗号,内容却经不起任何推敲。",
+    "pinyin": "Yǒu xiē guǎng gào dǎ zhe kē xué de qí hào, nèi róng què jīng bù qǐ rèn hé tuī qiāo。",
+    "en": "Some ads invoke science yet can't stand any scrutiny."
+   },
+   {
+    "zh": "他打着朋友的名义接近我,原来只是想利用我。",
+    "pinyin": "Tā dǎ zhe péng yǒu de míng yì jiē jìn wǒ, yuán lái zhǐ shì xiǎng lì yòng wǒ。",
+    "en": "He approached me as a friend only to use me, it turned out."
+   },
+   {
+    "zh": "不能打着传统的旗号,去为一些陋习进行辩护。",
+    "pinyin": "Bù néng dǎ zhe chuán tǒng de qí hào, qù wèi yī xiē lòu xí jìn xíng biàn hù。",
+    "en": "One can't defend bad customs under tradition's banner."
+   },
+   {
+    "zh": "那家机构打着助学的名义,实则收取高额的费用。",
+    "pinyin": "Nà jiā jī gòu dǎ zhe zhù xué de míng yì, shí zé shōu qǔ gāo é de fèi yòng。",
+    "en": "The agency, under the guise of aiding students, charges high fees."
+   },
+   {
+    "zh": "他总是打着大家的旗号,替自己谋好处。",
+    "pinyin": "Tā zǒng shì dǎ zhe dà jiā de qí hào, tì zì jǐ móu hǎo chù。",
+    "en": "He always invokes 'everyone' to seek benefits for himself."
+   },
+   {
+    "zh": "有人打着爱国的旗号,做出的却是损害国家的事。",
+    "pinyin": "Yǒu rén dǎ zhe ài guó de qí hào, zuò chū de què shì sǔn hài guó jiā de shì。",
+    "en": "Some, waving a patriotic banner, actually harm the nation."
+   },
+   {
+    "zh": "他打着体验生活的名义,其实只是想逃避责任。",
+    "pinyin": "Tā dǎ zhe tǐ yàn shēng huó de míng yì, qí shí zhǐ shì xiǎng táo bì zé rèn。",
+    "en": "He claims to 'experience life' while really dodging responsibility."
+   },
+   {
+    "zh": "这些人打着维权的旗号,实际是在无理取闹。",
+    "pinyin": "Zhè xiē rén dǎ zhe wéi quán de qí hào, shí jì shì zài wú lǐ qǔ nào。",
+    "en": "These people make trouble under the banner of defending rights."
+   },
+   {
+    "zh": "他打着请教的名义,实际上是想打探公司的机密。",
+    "pinyin": "Tā dǎ zhe qǐng jiào de míng yì, shí jì shàng shì xiǎng dǎ tàn gōng sī de jī mì。",
+    "en": "Under the guise of seeking advice, he probed company secrets."
+   },
+   {
+    "zh": "不能打着自由的旗号,去侵犯别人的正当权益。",
+    "pinyin": "Bù néng dǎ zhe zì yóu de qí hào, qù qīn fàn bié rén de zhèng dāng quán yì。",
+    "en": "One can't infringe others' rights under freedom's banner."
+   },
+   {
+    "zh": "那个人打着投资的名义,骗走了不少人的血汗钱。",
+    "pinyin": "Nà ge rén dǎ zhe tóu zī de míng yì, piàn zǒu le bù shǎo rén de xuè hàn qián。",
+    "en": "That man swindled many of their savings in investment's name."
+   },
+   {
+    "zh": "他打着为你好的旗号,却从不真正尊重你的选择。",
+    "pinyin": "Tā dǎ zhe wèi nǐ hǎo de qí hào, què cóng bù zhēn zhèng zūn zhòng nǐ de xuǎn zé。",
+    "en": "He invokes 'for your good' yet never respects your choices."
+   },
+   {
+    "zh": "有些商家打着清仓的名义,把价格反而抬得更高。",
+    "pinyin": "Yǒu xiē shāng jiā dǎ zhe qīng cāng de míng yì, bǎ jià gé fǎn ér tái de gèng gāo。",
+    "en": "Some sellers raise prices under the guise of clearance."
+   },
+   {
+    "zh": "他打着学术交流的旗号,做的却是抄袭剽窃的勾当。",
+    "pinyin": "Tā dǎ zhe xué shù jiāo liú de qí hào, zuò de què shì chāo xí piāo qiè de gòu dàng。",
+    "en": "Under academic exchange, he engaged in plagiarism."
+   },
+   {
+    "zh": "那些人打着扶贫的名义,把好处都揽到了自己手里。",
+    "pinyin": "Nà xiē rén dǎ zhe fú pín de míng yì, bǎ hǎo chù dōu lǎn dào le zì jǐ shǒu lǐ。",
+    "en": "Those people grabbed the benefits under poverty-relief's name."
+   },
+   {
+    "zh": "他打着替天行道的旗号,干的却是伤天害理的事。",
+    "pinyin": "Tā dǎ zhe tì tiān xíng dào de qí hào, gàn de què shì shāng tiān hài lǐ de shì。",
+    "en": "He does heinous deeds under the banner of righteous justice."
+   },
+   {
+    "zh": "有人打着弘扬文化的名义,实际上是在借机敛财。",
+    "pinyin": "Yǒu rén dǎ zhe hóng yáng wén huà de míng yì, shí jì shàng shì zài jiè jī liǎn cái。",
+    "en": "Some amass wealth under the guise of promoting culture."
+   }
+  ]
+ },
+ {
+  "id": "g479",
+  "level": 5,
+  "title": "\"为...而...\" ile amaç bildirme",
+  "titleEn": "Explaining purpose with \"wei... er...\"",
+  "pattern": "为 + Amaç + 而 + Fiil",
+  "summary": "\"为...而...\" bir eylemin amacını/uğruna yapıldığını bildirir: 为理想而奋斗 = İdeal uğruna mücadele etmek.",
+  "explanation": "\"为 A 而 B\" resmî/edebî dilde bir eylemin (B) belli bir AMAÇ, hedef ya da UĞRUNA (A) yapıldığını bildirir: \"... için ..., ... uğruna ..., ...-mek amacıyla ..., ...-den dolayı ...\". Kalıp: 为 + amaç/neden + 而 + eylem. 为理想而努力奋斗 (İdeal uğruna canla başla çalışmak), 无数先辈为民族的独立而英勇献身 (Nice ata, ulusun bağımsızlığı uğruna kahramanca can verdi), 我们要为共同的目标而团结协作 (Ortak hedef için el birliği etmeliyiz), 他为自己的选择而感到自豪 (Seçiminden dolayı gurur duyuyor), 大家为这来之不易的胜利而欢呼 (Herkes bu zorlu zafer için sevinç naraları attı). \"为\" amacı/nedeni, \"而\" ona bağlı eylemi/tepkiyi işaretler. İki anlam katmanı vardır: (1) AMAÇ — bir hedef uğruna eylem (为...而奋斗/努力/工作); (2) NEDEN/duygu — bir şeyden dolayı duygu (为...而高兴/自豪/骄傲/感动/担心). \"为了...\"ya göre daha sıkıştırılmış, resmî ve edebîdir; özellikle yüksek/soyut amaçlarda ve duygusal tepkilerde doğaldır. Türkçedeki \"... için, ... uğruna, ...-mek amacıyla, ...-den dolayı\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "无数革命先辈为民族的独立和解放而英勇奋斗。",
+    "pinyin": "Wú shù gé mìng xiān bèi wèi mín zú de dú lì hé jiě fàng ér yīng yǒng fèn dòu。",
+    "en": "Countless forebears fought bravely for the nation's independence."
+   },
+   {
+    "zh": "他一生都在为自己钟爱的科研事业而默默奉献。",
+    "pinyin": "Tā yī shēng dōu zài wèi zì jǐ zhōng ài de kē yán shì yè ér mò mò fèng xiàn。",
+    "en": "He devoted his life quietly to the research he loved."
+   },
+   {
+    "zh": "我们应当为共同的理想而携手并肩、团结奋进。",
+    "pinyin": "Wǒ men yīng dāng wèi gòng tóng de lǐ xiǎng ér xié shǒu bìng jiān、 tuán jié fèn jìn。",
+    "en": "We should march forward together for our shared ideal."
+   },
+   {
+    "zh": "看到孩子取得优异的成绩,父母都为他而感到骄傲。",
+    "pinyin": "Kàn dào hái zi qǔ de yōu yì de chéng jì, fù mǔ dōu wèi tā ér gǎn dào jiāo ào。",
+    "en": "Seeing the child's fine results, the parents felt proud of him."
+   },
+   {
+    "zh": "大家为这来之不易的胜利而由衷地欢呼雀跃。",
+    "pinyin": "Dà jiā wèi zhè lái zhī bù yì de shèng lì ér yóu zhōng de huān hū què yuè。",
+    "en": "All cheered heartily for this hard-won victory."
+   },
+   {
+    "zh": "他为了不辜负大家的期望而拼尽了全力。",
+    "pinyin": "Tā wèi le bù gū fù dà jiā de qī wàng ér pīn jǐn le quán lì。",
+    "en": "He gave his all so as not to fail everyone's hopes."
+   },
+   {
+    "zh": "许多人为守护这片绿水青山而默默付出着。",
+    "pinyin": "Xǔ duō rén wéi shǒu hù zhè piàn lǜ shuǐ qīng shān ér mò mò fù chū zhe。",
+    "en": "Many quietly give to protect these green hills and clear waters."
+   },
+   {
+    "zh": "我们不该为一时的名利而放弃做人的原则。",
+    "pinyin": "Wǒ men bù gāi wèi yī shí de míng lì ér fàng qì zuò rén de yuán zé。",
+    "en": "We shouldn't abandon our principles for fleeting fame or gain."
+   },
+   {
+    "zh": "他为自己曾经的鲁莽而深感懊悔和自责。",
+    "pinyin": "Tā wèi zì jǐ céng jīng de lǔ mǎng ér shēn gǎn ào huǐ hé zì zé。",
+    "en": "He deeply regretted and blamed himself for his past rashness."
+   },
+   {
+    "zh": "运动员们为祖国的荣誉而在赛场上奋力拼搏。",
+    "pinyin": "Yùn dòng yuán men wèi zǔ guó de róng yù ér zài sài chǎng shàng fèn lì pīn bó。",
+    "en": "The athletes strove on the field for their country's honor."
+   },
+   {
+    "zh": "她为帮助更多的孩子而毅然放弃了城里的工作。",
+    "pinyin": "Tā wèi bāng zhù gèng duō de hái zi ér yì rán fàng qì le chéng lǐ de gōng zuò。",
+    "en": "She resolutely quit her city job to help more children."
+   },
+   {
+    "zh": "我们要为建设更美好的家园而贡献自己的一份力量。",
+    "pinyin": "Wǒ men yào wèi jiàn shè gèng měi hǎo de jiā yuán ér gòng xiàn zì jǐ de yī fèn lì liàng。",
+    "en": "We should contribute our share to building a better home."
+   },
+   {
+    "zh": "他为一句承诺而坚守了整整二十年,从未动摇。",
+    "pinyin": "Tā wèi yī jù chéng nuò ér jiān shǒu le zhěng zhěng èr shí nián, cóng wèi dòng yáo。",
+    "en": "He kept a single promise for twenty years, never wavering."
+   },
+   {
+    "zh": "大家都为他的英勇事迹而深深地感动着。",
+    "pinyin": "Dà jiā dōu wèi tā de yīng yǒng shì jì ér shēn shēn de gǎn dòng zhe。",
+    "en": "All were deeply moved by his brave deeds."
+   },
+   {
+    "zh": "他为追求心中的那份纯粹而甘愿过清贫的生活。",
+    "pinyin": "Tā wèi zhuī qiú xīn zhōng de nà fèn chún cuì ér gān yuàn guò qīng pín de shēng huó。",
+    "en": "He gladly lived poor to pursue the purity in his heart."
+   },
+   {
+    "zh": "无数医护人员为守护人民的健康而日夜坚守。",
+    "pinyin": "Wú shù yī hù rén yuán wèi shǒu hù rén mín de jiàn kāng ér rì yè jiān shǒu。",
+    "en": "Countless medics stood guard day and night for people's health."
+   },
+   {
+    "zh": "我们为能参与这样一项伟大的事业而感到无比自豪。",
+    "pinyin": "Wǒ men wèi néng cān yù zhè yàng yī xiàng wěi dà de shì yè ér gǎn dào wú bǐ zì háo。",
+    "en": "We are immensely proud to join so great a cause."
+   },
+   {
+    "zh": "他为实现儿时的梦想而付出了常人难以想象的努力。",
+    "pinyin": "Tā wèi shí xiàn ér shí de mèng xiǎng ér fù chū le cháng rén nán yǐ xiǎng xiàng de nǔ lì。",
+    "en": "He made unimaginable efforts to realize his childhood dream."
+   },
+   {
+    "zh": "大家不必为这点小小的挫折而灰心丧气。",
+    "pinyin": "Dà jiā bù bì wèi zhè diǎn xiǎo xiǎo de cuò zhé ér huī xīn sàng qì。",
+    "en": "There's no need to lose heart over such a small setback."
+   },
+   {
+    "zh": "他为家乡的教育事业而奔波了大半辈子。",
+    "pinyin": "Tā wèi jiā xiāng de jiào yù shì yè ér bēn bō le dà bàn bèi zi。",
+    "en": "He toiled most of his life for his hometown's education."
+   },
+   {
+    "zh": "无数普通劳动者为城市的运转而默默地忙碌着。",
+    "pinyin": "Wú shù pǔ tōng láo dòng zhě wèi chéng shì de yùn zhuàn ér mò mò de máng lù zhe。",
+    "en": "Countless ordinary workers labor quietly to keep the city running."
+   },
+   {
+    "zh": "他为坚守心中的正义而不惜与所有人为敌。",
+    "pinyin": "Tā wèi jiān shǒu xīn zhōng de zhèng yì ér bù xī yǔ suǒ yǒu rén wéi dí。",
+    "en": "He stood for justice even at the cost of opposing everyone."
+   },
+   {
+    "zh": "我们都为这个平凡而伟大的选择而肃然起敬。",
+    "pinyin": "Wǒ men dōu wèi zhè ge píng fán ér wěi dà de xuǎn zé ér sù rán qǐ jìng。",
+    "en": "We all felt deep respect for this humble yet great choice."
+   },
+   {
+    "zh": "她为照顾生病的母亲而放弃了出国深造的机会。",
+    "pinyin": "Tā wèi zhào gù shēng bìng de mǔ qīn ér fàng qì le chū guó shēn zào de jī huì。",
+    "en": "She gave up studying abroad to care for her sick mother."
+   },
+   {
+    "zh": "先辈们为后人能过上好日子而付出了巨大的牺牲。",
+    "pinyin": "Xiān bèi men wèi hòu rén néng guò shàng hǎo rì zi ér fù chū le jù dà de xī shēng。",
+    "en": "The forebears made great sacrifices for their descendants' good life."
+   }
+  ]
+ },
+ {
+  "id": "g480",
+  "level": 5,
+  "title": "\"通过...使...\" ile araç ve sonuç",
+  "titleEn": "Express an action and its effect by using \"tongguo… shi\"",
+  "pattern": "通过 + Araç/Yol，使 + Nesne + Sonuç",
+  "summary": "\"通过...使...\" bir aracın yol açtığı sonucu bildirir: 通过努力,使成绩提高了 = Çaba sayesinde notlar yükseldi.",
+  "explanation": "\"通过 A，使 B ...\" bir ARAÇ/yöntem/süreç (A) aracılığıyla bir SONUCA (B'nin değişmesine) ulaşıldığını bildirir: \"... yoluyla/aracılığıyla ...-i ... yapmak, ... sayesinde ... ...-di\". Kalıp: 通过 + araç/yol/yöntem，使 + etkilenen özne + sonuç. 通过反复的练习,使他的口语水平有了明显的提高 (Tekrarlı alıştırma sayesinde konuşma düzeyi belirgin biçimde yükseldi), 通过这次活动,使大家增进了彼此的了解 (Bu etkinlik aracılığıyla herkes birbirini daha iyi tanıdı), 通过合理的锻炼,可以使身体更加强健 (Uygun egzersizle vücut daha da güçlenir), 通过改进工艺,使产品的质量得到了保证 (Üretim yöntemini geliştirerek ürün kalitesi güvence altına alındı). \"通过\" kullanılan aracı/yolu, \"使\" ise o araç sayesinde bir öznede meydana gelen DEĞİŞİMİ/sonucu işaretler (\"使\" = \"-e ... yaptırmak, ...-e yol açmak\"). Bu kalıp resmî/açıklayıcı dilde, bir yöntemin etkisini anlatırken çok yaygındır. Not: \"使\" öznesiz bir sonuç fiili aldığından, cümlenin gerçek öznesi \"使\"den sonraki öğedir. Türkçedeki \"... yoluyla/aracılığıyla/sayesinde ...-i ... yapmak, ... sonucunda ... ...-di\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "通过持之以恒的锻炼,使他原本虚弱的身体强健了起来。",
+    "pinyin": "Tōng guò chí zhī yǐ héng de duàn liàn, shǐ tā yuán běn xū ruò de shēn tǐ qiáng jiàn le qǐ lái。",
+    "en": "Through steady exercise, his once-frail body grew strong."
+   },
+   {
+    "zh": "通过这次深入的交流,使双方消除了长期以来的误会。",
+    "pinyin": "Tōng guò zhè cì shēn rù de jiāo liú, shǐ shuāng fāng xiāo chú le cháng qī yǐ lái de wù huì。",
+    "en": "Through this deep talk, both cleared up a long misunderstanding."
+   },
+   {
+    "zh": "通过改进生产工艺,使产品的合格率大大提高了。",
+    "pinyin": "Tōng guò gǎi jìn shēng chǎn gōng yì, shǐ chǎn pǐn de hé gé lǜ dà dà tí gāo le。",
+    "en": "By improving the process, the pass rate rose greatly."
+   },
+   {
+    "zh": "通过大量的阅读,使他的视野变得越来越开阔。",
+    "pinyin": "Tōng guò dà liàng de yuè dú, shǐ tā de shì yě biàn de yuè lái yuè kāi kuò。",
+    "en": "Through wide reading, his horizons grew ever broader."
+   },
+   {
+    "zh": "通过合理的引导,使孩子渐渐养成了良好的学习习惯。",
+    "pinyin": "Tōng guò hé lǐ de yǐn dǎo, shǐ hái zi jiàn jiàn yǎng chéng le liáng hǎo de xué xí xí guàn。",
+    "en": "Through proper guidance, the child gradually formed good study habits."
+   },
+   {
+    "zh": "通过一系列的宣传,使更多的人了解了环保的重要性。",
+    "pinyin": "Tōng guò yī xì liè de xuān chuán, shǐ gèng duō de rén liǎo jiě le huán bǎo de zhòng yào xìng。",
+    "en": "Through a series of campaigns, more came to see the value of eco-protection."
+   },
+   {
+    "zh": "通过反复的试验,终于使这项技术趋于成熟稳定。",
+    "pinyin": "Tōng guò fǎn fù de shì yàn, zhōng yú shǐ zhè xiàng jì shù qū yú chéng shú wěn dìng。",
+    "en": "Through repeated trials, the technology finally matured and stabilized."
+   },
+   {
+    "zh": "通过大家的共同努力,使这个偏僻的山村焕然一新。",
+    "pinyin": "Tōng guò dà jiā de gòng tóng nǔ lì, shǐ zhè ge piān pì de shān cūn huàn rán yì xīn。",
+    "en": "Through joint effort, the remote village took on a whole new look."
+   },
+   {
+    "zh": "通过科学的管理,使企业的运营效率明显提升。",
+    "pinyin": "Tōng guò kē xué de guǎn lǐ, shǐ qǐ yè de yùn yíng xiào lǜ míng xiǎn tí shēng。",
+    "en": "Through scientific management, the firm's efficiency clearly rose."
+   },
+   {
+    "zh": "通过耐心的疏导,使他慢慢走出了心理的阴影。",
+    "pinyin": "Tōng guò nài xīn de shū dǎo, shǐ tā màn màn zǒu chū le xīn lǐ de yīn yǐng。",
+    "en": "Through patient counseling, he slowly emerged from his gloom."
+   },
+   {
+    "zh": "通过这次实地考察,使我们对当地情况有了直观的认识。",
+    "pinyin": "Tōng guò zhè cì shí de kǎo chá, shǐ wǒ men duì dāng dì qíng kuàng yǒu le zhí guān de rèn shí。",
+    "en": "The field trip gave us a direct grasp of local conditions."
+   },
+   {
+    "zh": "通过合理的饮食搭配,可以使身体保持健康的状态。",
+    "pinyin": "Tōng guò hé lǐ de yǐn shí dā pèi, kě yǐ shǐ shēn tǐ bǎo chí jiàn kāng de zhuàng tài。",
+    "en": "A balanced diet can keep the body in a healthy state."
+   },
+   {
+    "zh": "通过不断的技术革新,使这家老企业重新焕发了活力。",
+    "pinyin": "Tōng guò bù duàn de jì shù gé xīn, shǐ zhè jiā lǎo qǐ yè chóng xīn huàn fā le huó lì。",
+    "en": "Through constant innovation, the old firm regained its vigor."
+   },
+   {
+    "zh": "通过丰富多彩的活动,使孩子们的课余生活充实了许多。",
+    "pinyin": "Tōng guò fēng fù duō cǎi de huó dòng, shǐ hái zi men de kè yú shēng huó chōng shí le xǔ duō。",
+    "en": "Through varied activities, the children's spare time grew fuller."
+   },
+   {
+    "zh": "通过长期的观察记录,使研究人员发现了其中的规律。",
+    "pinyin": "Tōng guò cháng qī de guān chá jì lù, shǐ yán jiū rén yuán fā xiàn le qí zhōng de guī lǜ。",
+    "en": "Through long observation, the researchers found the pattern."
+   },
+   {
+    "zh": "通过一次又一次的练习,使他的动作变得越来越娴熟。",
+    "pinyin": "Tōng guò yī cì yòu yī cì de liàn xí, shǐ tā de dòng zuò biàn de yuè lái yuè xián shú。",
+    "en": "Through repeated practice, his movements grew ever more skilled."
+   },
+   {
+    "zh": "通过引进先进的设备,使工厂的产量翻了一番。",
+    "pinyin": "Tōng guò yǐn jìn xiān jìn de shè bèi, shǐ gōng chǎng de chǎn liàng fān le yī fān。",
+    "en": "By introducing advanced equipment, the factory doubled its output."
+   },
+   {
+    "zh": "通过真诚的沟通,使原本紧张的关系得到了缓和。",
+    "pinyin": "Tōng guò zhēn chéng de gōu tōng, shǐ yuán běn jǐn zhāng de guān xì dé dào le huǎn hé。",
+    "en": "Through sincere talk, the once-tense relationship eased."
+   },
+   {
+    "zh": "通过系统的培训,使新员工很快熟悉了各项业务。",
+    "pinyin": "Tōng guò xì tǒng de péi xùn, shǐ xīn yuán gōng hěn kuài shú xī le gè xiàng yè wù。",
+    "en": "Through systematic training, new staff quickly learned the work."
+   },
+   {
+    "zh": "通过多方的协调,使这个棘手的难题得到了圆满解决。",
+    "pinyin": "Tōng guò duō fāng de xié tiáo, shǐ zhè ge jí shǒu de nán tí dé dào le yuán mǎn jiě jué。",
+    "en": "Through wide coordination, the thorny problem was fully solved."
+   },
+   {
+    "zh": "通过榜样的力量,使更多的人加入到了公益的行列。",
+    "pinyin": "Tōng guò bǎng yàng de lì liàng, shǐ gèng duō de rén jiā rù dào le gōng yì de háng liè。",
+    "en": "Through the power of example, more joined the charity ranks."
+   },
+   {
+    "zh": "通过合理的规划,使有限的资金发挥出了最大的效益。",
+    "pinyin": "Tōng guò hé lǐ de guī huà, shǐ yǒu xiàn de zī jīn fà huī chū le zuì dà de xiào yì。",
+    "en": "Through sound planning, limited funds yielded the greatest benefit."
+   },
+   {
+    "zh": "通过日复一日的坚持,使一个平凡的梦想终成现实。",
+    "pinyin": "Tōng guò rì fù yí rì de jiān chí, shǐ yí gè píng fán de mèng xiǎng zhōng chéng xiàn shí。",
+    "en": "Through daily persistence, an ordinary dream became reality."
+   },
+   {
+    "zh": "通过这本书,使我对那段历史有了全新的理解。",
+    "pinyin": "Tōng guò zhè běn shū, shǐ wǒ duì nà duàn lì shǐ yǒu le quán xīn de lǐ jiě。",
+    "en": "Through this book, I gained a fresh understanding of that history."
+   },
+   {
+    "zh": "通过不懈的治理,使这条曾经污浊的河流重现了清澈。",
+    "pinyin": "Tōng guò bù xiè de zhì lǐ, shǐ zhè tiáo céng jīng wū zhuó de hé liú chóng xiàn le qīng chè。",
+    "en": "Through ceaseless efforts, the once-murky river turned clear again."
+   }
+  ]
+ },
+ {
+  "id": "g481",
+  "level": 5,
+  "title": "\"以...的名义\" ile \"... adına / ... adıyla\"",
+  "titleEn": "Expressing \"in the name of\" with \"yi... de mingyi\"",
+  "pattern": "以 + Kişi/Kurum + 的名义 + ...",
+  "summary": "\"以...的名义\" bir eylemi kimin/neyin adına yaptığını bildirir: 以公司的名义发出邀请 = Şirket adına davet göndermek.",
+  "explanation": "\"以 ... 的名义\" (yǐ ... de míngyì) bir eylemin KİMİN ya da NEYİN ADINA, hangi sıfat/yetkiyle yapıldığını bildirir: \"... adına, ... adıyla, ... namına, ... sıfatıyla\". Kalıp: 以 + kişi/kurum/kavram + 的名义 + eylem. 我谨以个人的名义,向你表示衷心的感谢 (Şahsım adına sana içten teşekkür ederim), 这份邀请函是以公司的名义正式发出的 (Bu davetiye şirket adına resmî olarak gönderildi), 他以父亲的名义,给孩子写了一封长信 (Baba sıfatıyla çocuğa uzun bir mektup yazdı), 我们以全体员工的名义,向您致以节日的问候 (Tüm çalışanlar adına size bayram tebriklerimizi sunarız). \"以...的名义\" bir eylemin resmî/temsilî DAYANAĞINI, hangi kimlik ya da yetkiyle yapıldığını belirtir; genellikle NÖTR ya da resmî bir bağlamda kullanılır (bir kurumu/kişiyi temsilen, bir sıfatla). Bu yönüyle çoğu zaman olumsuz/eleştirel olan \"打着...的旗号\"dan (g478) ayrılır: \"以...的名义\" gerçek bir temsil/yetki bildirebilirken, \"打着...旗号\" sahte bir bahaneyi ima eder. Bağlama göre \"以...的名义\" da kötüye kullanımı anlatabilir ama temel tonu nötr/resmîdir. Türkçedeki \"... adına, ... adıyla, ... namına, ... sıfatıyla\" ifadelerine denk gelir.",
+  "examples": [
+   {
+    "zh": "我谨以个人的名义,向所有帮助过我的人致以深深的谢意。",
+    "pinyin": "Wǒ jǐn yǐ gè rén de míng yì, xiàng suǒ yǒu bāng zhù guò wǒ de rén zhì yǐ shēn shēn de xiè yì。",
+    "en": "In my own name, I offer deep thanks to all who helped me."
+   },
+   {
+    "zh": "这封邀请函是以公司的名义正式向您发出的。",
+    "pinyin": "Zhè fēng yāo qǐng hán shì yǐ gōng sī de míng yì zhèng shì xiàng nín fā chū de。",
+    "en": "This invitation is issued formally in the company's name."
+   },
+   {
+    "zh": "他以老朋友的名义,劝我一定要保重身体。",
+    "pinyin": "Tā yǐ lǎo péng yǒu de míng yì, quàn wǒ yí dìng yào bǎo zhòng shēn tǐ。",
+    "en": "As an old friend, he urged me to take care of my health."
+   },
+   {
+    "zh": "大会以组委会的名义,向所有的志愿者表示感谢。",
+    "pinyin": "Dà huì yǐ zǔ wěi huì de míng yì, xiàng suǒ yǒu de zhì yuàn zhě biǎo shì gǎn xiè。",
+    "en": "The assembly thanked all volunteers in the committee's name."
+   },
+   {
+    "zh": "他以父亲的名义,给远在他乡的儿子写了一封家书。",
+    "pinyin": "Tā yǐ fù qīn de míng yì, gěi yuǎn zài tā xiāng de ér zi xiě le yī fēng jiā shū。",
+    "en": "As a father, he wrote a letter to his son far away."
+   },
+   {
+    "zh": "这笔捐款是以全体师生的名义,送到灾区的。",
+    "pinyin": "Zhè bǐ juān kuǎn shì yǐ quán tǐ shī shēng de míng yì, sòng dào zāi qū de。",
+    "en": "The donation was sent to the disaster area in all staff and students' name."
+   },
+   {
+    "zh": "我以主人的名义,热烈欢迎各位远道而来的宾客。",
+    "pinyin": "Wǒ yǐ zhǔ rén de míng yì, rè liè huān yíng gè wèi yuǎn dào ér lái de bīn kè。",
+    "en": "As host, I warmly welcome the guests who came from afar."
+   },
+   {
+    "zh": "他以协会代表的名义,在会上做了简短的发言。",
+    "pinyin": "Tā yǐ xié huì dài biǎo de míng yì, zài huì shàng zuò le jiǎn duǎn de fā yán。",
+    "en": "As the association's rep, he spoke briefly at the meeting."
+   },
+   {
+    "zh": "这份声明是以双方共同的名义郑重发布的。",
+    "pinyin": "Zhè fèn shēng míng shì yǐ shuāng fāng gòng tóng de míng yì zhèng zhòng fā bù de。",
+    "en": "The statement was solemnly issued in both parties' name."
+   },
+   {
+    "zh": "她以志愿者的名义,长期资助着几个贫困的孩子。",
+    "pinyin": "Tā yǐ zhì yuàn zhě de míng yì, cháng qī zī zhù zhe jǐ gè pín kùn de hái zi。",
+    "en": "As a volunteer, she has long funded several poor children."
+   },
+   {
+    "zh": "请允许我以东道主的名义,向大家表示热烈的欢迎。",
+    "pinyin": "Qǐng yǔn xǔ wǒ yǐ dōng dào zhǔ de míng yì, xiàng dà jiā biǎo shì rè liè de huān yíng。",
+    "en": "Allow me, as host, to extend a warm welcome to all."
+   },
+   {
+    "zh": "他以班长的名义,组织同学们开展了一次义务劳动。",
+    "pinyin": "Tā yǐ bān zhǎng de míng yì, zǔ zhī tóng xué men kāi zhǎn le yī cì yì wù láo dòng。",
+    "en": "As class monitor, he organized a volunteer work session."
+   },
+   {
+    "zh": "这份礼物,是以我们全家的名义送给您的。",
+    "pinyin": "Zhè fèn lǐ wù, shì yǐ wǒ men quán jiā de míng yì sòng gěi nín de。",
+    "en": "This gift is given to you in the name of our whole family."
+   },
+   {
+    "zh": "他以退休老教师的名义,给学校提了不少中肯的建议。",
+    "pinyin": "Tā yǐ tuì xiū lǎo jiào shī de míng yì, gěi xué xiào tí le bù shǎo zhōng kěn de jiàn yì。",
+    "en": "As a retired teacher, he gave the school many apt suggestions."
+   },
+   {
+    "zh": "公司以答谢老客户的名义,举办了一场联谊活动。",
+    "pinyin": "Gōng sī yǐ dá xiè lǎo kè hù de míng yì, jǔ bàn le yī cháng lián yì huó dòng。",
+    "en": "The firm held a gathering in the name of thanking old clients."
+   },
+   {
+    "zh": "他以见证人的名义,如实地陈述了当时的经过。",
+    "pinyin": "Tā yǐ jiàn zhèng rén de míng yì, rú shí de chén shù liǎo dàng shí de jīng guò。",
+    "en": "As a witness, he truthfully recounted what had happened."
+   },
+   {
+    "zh": "我们以校友会的名义,为母校捐建了一座图书馆。",
+    "pinyin": "Wǒ men yǐ xiào yǒu huì de míng yì, wèi mǔ xiào juān jiàn le yī zuò tú shū guǎn。",
+    "en": "In the alumni association's name, we funded a library for the school."
+   },
+   {
+    "zh": "他以父母的名义,叮嘱远行的孩子一路平安。",
+    "pinyin": "Tā yǐ fù mǔ de míng yì, dīng zhǔ yuǎn xíng de hái zi yí lù píng ān。",
+    "en": "As parents, they bade their departing child a safe journey."
+   },
+   {
+    "zh": "这次义演是以慈善基金会的名义组织的。",
+    "pinyin": "Zhè cì yì yǎn shì yǐ cí shàn jī jīn huì de míng yì zǔ zhī de。",
+    "en": "The benefit performance was organized in the foundation's name."
+   },
+   {
+    "zh": "请以书面的名义提出申请,以便存档和查询。",
+    "pinyin": "Qǐng yǐ shū miàn de míng yì tí chū shēn qǐng, yǐ biàn cún dàng hé chá xún。",
+    "en": "Please apply in writing, so it can be filed and looked up."
+   },
+   {
+    "zh": "他以队长的名义,鼓励队员们在赛场上全力以赴。",
+    "pinyin": "Tā yǐ duì zhǎng de míng yì, gǔ lì duì yuán men zài sài chǎng shàng quán lì yǐ fù。",
+    "en": "As captain, he urged the players to give their all."
+   },
+   {
+    "zh": "这封感谢信,是以受助家庭的名义送来的。",
+    "pinyin": "Zhè fēng gǎn xiè xìn, shì yǐ shòu zhù jiā tíng de míng yì sòng lái de。",
+    "en": "This thank-you letter came in the name of the aided family."
+   },
+   {
+    "zh": "他以专家的名义,对这个方案提出了专业的意见。",
+    "pinyin": "Tā yǐ zhuān jiā de míng yì, duì zhè ge fāng àn tí chū le zhuān yè de yì jiàn。",
+    "en": "As an expert, he gave professional views on the plan."
+   },
+   {
+    "zh": "我谨以主办方的名义,宣布本次大会正式开幕。",
+    "pinyin": "Wǒ jǐn yǐ zhǔ bàn fāng de míng yì, xuān bù běn cì dà huì zhèng shì kāi mù。",
+    "en": "In the organizer's name, I declare this assembly open."
+   },
+   {
+    "zh": "他以长辈的名义,语重心长地跟年轻人谈了许多。",
+    "pinyin": "Tā yǐ zhǎng bèi de míng yì, yǔ zhòng xīn cháng de gēn nián qīng rén tán le xǔ duō。",
+    "en": "As an elder, he earnestly talked with the young at length."
+   }
+  ]
  }
 ]

@@ -1,0 +1,64 @@
+name: Build Android APK
+
+# Derlemeyi bu dala her push'ta ve elle (Actions sekmesinden "Run workflow") çalıştırır.
+on:
+  push:
+    branches:
+      - claude/chinese-english-dict-android-btj6vn
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kaynak kodu çek
+        uses: actions/checkout@v4
+
+      - name: JDK 17 kur
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Flutter kur (stable)
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Flutter sürümü
+        run: flutter --version
+
+      - name: Bağımlılıkları indir
+        run: flutter pub get
+
+      - name: Release APK derle
+        run: flutter build apk --release
+
+      - name: APK'yı yeniden adlandır
+        run: |
+          mkdir -p dist
+          cp build/app/outputs/flutter-apk/app-release.apk \
+             dist/zh-en-dict-${{ github.run_number }}.apk
+
+      - name: APK'yı artifact olarak yükle
+        uses: actions/upload-artifact@v4
+        with:
+          name: zh-en-dict-apk
+          path: dist/zh-en-dict-${{ github.run_number }}.apk
+          if-no-files-found: error
+
+      - name: GitHub Release olarak yayınla
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: apk-build-${{ github.run_number }}
+          name: "APK derlemesi #${{ github.run_number }}"
+          body: |
+            Çince-İngilizce Sözlük uygulamasının Android APK'sı.
+            Telefonunuza indirip kurabilirsiniz (bilinmeyen kaynaklara izin vermeniz gerekebilir).
+            İmzalama: debug anahtarı ile (yan yükleme/deneme için).
+          files: dist/zh-en-dict-${{ github.run_number }}.apk
+          make_latest: true

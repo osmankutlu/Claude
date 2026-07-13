@@ -5,15 +5,15 @@ import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.Context
 import android.content.Intent
-import android.net.Uri
-import android.os.Build
+import android.view.View
 import android.widget.RemoteViews
+import org.json.JSONObject
 
 /**
- * The home-screen widget: a swipeable StackView deck of word/grammar cards.
- * The cards themselves come from [WordWidgetFactory]; this provider just wires
- * up the adapter, the tap template (popup / favorite), the settings button,
- * and reshuffles the deck on placement and on due screen unlocks.
+ * The home-screen widget: a single word/grammar card on a faux stacked-deck
+ * background — exactly one word on screen. Tapping the card shows the next
+ * random word; ⚙ opens settings, ★ favorites the word, ⓘ opens the popup.
+ * The word also changes on screen unlock, per the configured frequency.
  */
 class WordWidgetProvider : AppWidgetProvider() {
 
@@ -23,8 +23,7 @@ class WordWidgetProvider : AppWidgetProvider() {
         appWidgetIds: IntArray
     ) {
         for (appWidgetId in appWidgetIds) {
-            // Fresh deck on (re)placement or when settings are saved.
-            WidgetDataStore.setReshuffle(context, appWidgetId, true)
+            WidgetDataStore.pickRandomItem(context, appWidgetId)
             renderWidget(context, appWidgetManager, appWidgetId)
         }
     }
@@ -37,68 +36,135 @@ class WordWidgetProvider : AppWidgetProvider() {
             editor.remove(WidgetDataStore.displayKey(id))
             editor.remove(WidgetDataStore.unlockEveryKey(id))
             editor.remove(WidgetDataStore.unlockCountKey(id))
-            editor.remove(WidgetDataStore.reshuffleKey(id))
+            editor.remove(WidgetDataStore.itemKey(id))
         }
         editor.apply()
     }
 
     companion object {
         /**
-         * On screen unlock, reshuffle the deck of every widget that's due per
-         * its configured frequency (every N unlocks; "0" = manual only).
+         * On screen unlock, change the word of every widget that's due per its
+         * configured frequency (every N unlocks; "0" = manual only).
          */
         fun onScreenUnlock(context: Context, appWidgetManager: AppWidgetManager, appWidgetIds: IntArray) {
             for (appWidgetId in appWidgetIds) {
                 if (WidgetDataStore.shouldChangeOnUnlock(context, appWidgetId)) {
-                    WidgetDataStore.setReshuffle(context, appWidgetId, true)
-                    appWidgetManager.notifyAppWidgetViewDataChanged(appWidgetId, R.id.widget_stack)
+                    WidgetDataStore.pickRandomItem(context, appWidgetId)
+                    renderWidget(context, appWidgetManager, appWidgetId)
                 }
             }
         }
 
         fun renderWidget(context: Context, appWidgetManager: AppWidgetManager, appWidgetId: Int) {
+            val prefs = WidgetDataStore.prefs(context)
+            var raw = prefs.getString(WidgetDataStore.itemKey(appWidgetId), null)
+            if (raw == null) {
+                WidgetDataStore.pickRandomItem(context, appWidgetId)
+                raw = prefs.getString(WidgetDataStore.itemKey(appWidgetId), null)
+            }
+            val displayMode = prefs.getString(WidgetDataStore.displayKey(appWidgetId), "both") ?: "both"
             val views = RemoteViews(context.packageName, R.layout.word_widget)
 
-            // The StackView's cards are provided by WordWidgetService. A unique
-            // data Uri per widget id keeps each instance's factory separate.
-            val serviceIntent = Intent(context, WordWidgetService::class.java).apply {
-                putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetId)
-                data = Uri.parse(toUri(Intent.URI_INTENT_SCHEME))
-            }
-            views.setRemoteAdapter(R.id.widget_stack, serviceIntent)
-            views.setEmptyView(R.id.widget_stack, R.id.widget_empty)
+            // Settings (⚙) is available even while loading.
+            views.setOnClickPendingIntent(R.id.widget_settings, configPendingIntent(context, appWidgetId))
 
-            // Tap template for the cards: the card body opens the popup and the
-            // ★ toggles favorite (the action + item id come from each card's
-            // fill-in intent). Must be mutable so those extras can merge in.
-            val templateIntent = Intent(context, WidgetItemReceiver::class.java).apply {
-                action = WidgetItemReceiver.ACTION_ITEM
+            if (raw == null) {
+                views.setTextViewText(R.id.widget_title, context.getString(R.string.widget_loading))
+                views.setTextViewText(R.id.widget_subtitle, "")
+                views.setViewVisibility(R.id.widget_subtitle, View.GONE)
+                views.setViewVisibility(R.id.widget_fav, View.GONE)
+                views.setViewVisibility(R.id.widget_info, View.GONE)
+                appWidgetManager.updateAppWidget(appWidgetId, views)
+                return
             }
-            val mutableFlag = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.S)
-                PendingIntent.FLAG_MUTABLE else 0
-            val templatePending = PendingIntent.getBroadcast(
-                context,
-                appWidgetId,
-                templateIntent,
-                PendingIntent.FLAG_UPDATE_CURRENT or mutableFlag
+
+            val item = JSONObject(raw)
+            val mode = item.optString("mode", "word")
+            val itemId = item.optString("itemId")
+
+            if (mode == "grammar") {
+                views.setTextViewText(R.id.widget_title, item.optString("title"))
+                views.setViewVisibility(R.id.widget_subtitle, View.GONE)
+            } else {
+                val showHanzi = displayMode != "pinyin"
+                val showPinyin = displayMode != "hanzi"
+                val hanzi = item.optString("hanzi")
+                val pinyin = item.optString("pinyin")
+                if (showHanzi) {
+                    val html = PinyinTone.hanziHtml(hanzi, pinyin)
+                    views.setTextViewText(R.id.widget_title, if (html != null) PinyinTone.fromHtml(html) else hanzi)
+                } else {
+                    val html = PinyinTone.pinyinHtml(pinyin)
+                    views.setTextViewText(R.id.widget_title, if (html != null) PinyinTone.fromHtml(html) else pinyin)
+                }
+                if (showHanzi && showPinyin) {
+                    val subHtml = PinyinTone.pinyinHtml(pinyin)
+                    views.setTextViewText(R.id.widget_subtitle, if (subHtml != null) PinyinTone.fromHtml(subHtml) else pinyin)
+                    views.setViewVisibility(R.id.widget_subtitle, View.VISIBLE)
+                } else {
+                    views.setViewVisibility(R.id.widget_subtitle, View.GONE)
+                }
+            }
+
+            // Favorite star reflects state; tap toggles it.
+            val isFav = WidgetDataStore.isFavorite(context, mode, itemId)
+            views.setViewVisibility(R.id.widget_fav, View.VISIBLE)
+            views.setImageViewResource(
+                R.id.widget_fav,
+                if (isFav) R.drawable.ic_widget_star_filled else R.drawable.ic_widget_star
             )
-            views.setPendingIntentTemplate(R.id.widget_stack, templatePending)
+            views.setOnClickPendingIntent(
+                R.id.widget_fav,
+                actionPendingIntent(context, appWidgetId, WidgetActionReceiver.ACTION_FAVORITE)
+            )
 
-            // Settings (⚙) → reopen the widget configure screen.
-            val configIntent = Intent(context, WidgetConfigureActivity::class.java).apply {
+            // Tap the card → next random word.
+            views.setOnClickPendingIntent(
+                R.id.widget_card,
+                actionPendingIntent(context, appWidgetId, WidgetActionReceiver.ACTION_CHANGE)
+            )
+
+            // ⓘ → meaning/examples popup for the current item.
+            views.setViewVisibility(R.id.widget_info, View.VISIBLE)
+            val popupIntent = Intent(context, WordPopupActivity::class.java).apply {
+                putExtra(WordPopupActivity.EXTRA_MODE, mode)
+                putExtra(WordPopupActivity.EXTRA_ITEM_ID, itemId)
+            }
+            views.setOnClickPendingIntent(
+                R.id.widget_info,
+                PendingIntent.getActivity(
+                    context, appWidgetId * 10 + 3, popupIntent,
+                    PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+                )
+            )
+
+            appWidgetManager.updateAppWidget(appWidgetId, views)
+        }
+
+        private fun actionPendingIntent(context: Context, appWidgetId: Int, action: String): PendingIntent {
+            val intent = Intent(context, WidgetActionReceiver::class.java).apply {
+                putExtra(WidgetActionReceiver.EXTRA_ACTION, action)
+                putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetId)
+                // Distinct action string in the data keeps change/favorite
+                // PendingIntents from being treated as the same one.
+                data = android.net.Uri.parse("zhendict://widget/$appWidgetId/$action")
+            }
+            val requestCode = appWidgetId * 10 + if (action == WidgetActionReceiver.ACTION_FAVORITE) 2 else 1
+            return PendingIntent.getBroadcast(
+                context, requestCode, intent,
+                PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+            )
+        }
+
+        private fun configPendingIntent(context: Context, appWidgetId: Int): PendingIntent {
+            val intent = Intent(context, WidgetConfigureActivity::class.java).apply {
                 putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetId)
                 addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
             }
-            val configPending = PendingIntent.getActivity(
-                context,
-                appWidgetId + 500000,
-                configIntent,
+            return PendingIntent.getActivity(
+                context, appWidgetId * 10 + 4, intent,
                 PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
             )
-            views.setOnClickPendingIntent(R.id.widget_settings, configPending)
-
-            appWidgetManager.updateAppWidget(appWidgetId, views)
-            appWidgetManager.notifyAppWidgetViewDataChanged(appWidgetId, R.id.widget_stack)
         }
     }
 }

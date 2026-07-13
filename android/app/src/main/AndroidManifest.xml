@@ -69,17 +69,10 @@
             </intent-filter>
         </receiver>
 
-        <!-- Handles taps inside the StackView cards (popup / favorite). -->
+        <!-- Handles the widget's tap actions (next word / favorite). -->
         <receiver
-            android:name=".WidgetItemReceiver"
+            android:name=".WidgetActionReceiver"
             android:exported="false"/>
-
-        <!-- Serves the StackView deck's cards. BIND_REMOTEVIEWS restricts
-             binding to the system, as required for RemoteViewsService. -->
-        <service
-            android:name=".WordWidgetService"
-            android:permission="android.permission.BIND_REMOTEVIEWS"
-            android:exported="false" />
 
 
         <!-- Don't delete the meta-data below.

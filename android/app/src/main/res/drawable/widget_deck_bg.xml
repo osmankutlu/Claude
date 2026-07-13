@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Faux stacked-deck look (like Hanping): two dim cards peeking out to the
+     bottom-right behind the solid front card. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="14dp" android:top="12dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#55000000" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <item android:left="7dp" android:top="6dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#88000000" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <item android:right="14dp" android:bottom="12dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/widget_background" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+</layer-list>

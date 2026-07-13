@@ -28,6 +28,32 @@ object WidgetDataStore {
     // How often (in screen unlocks) the word changes, and the running count.
     fun unlockEveryKey(appWidgetId: Int) = "widget_unlockevery_$appWidgetId"
     fun unlockCountKey(appWidgetId: Int) = "widget_unlockcount_$appWidgetId"
+    // Set when the StackView deck should be reshuffled on the next data reload
+    // (placement / screen unlock), so a plain favorite-toggle refresh doesn't
+    // reorder the cards.
+    fun reshuffleKey(appWidgetId: Int) = "widget_reshuffle_$appWidgetId"
+
+    fun setReshuffle(context: Context, appWidgetId: Int, value: Boolean) {
+        prefs(context).edit().putBoolean(reshuffleKey(appWidgetId), value).apply()
+    }
+
+    fun consumeReshuffle(context: Context, appWidgetId: Int): Boolean {
+        val prefs = prefs(context)
+        val v = prefs.getBoolean(reshuffleKey(appWidgetId), true)
+        if (v) prefs.edit().putBoolean(reshuffleKey(appWidgetId), false).apply()
+        return v
+    }
+
+    /** The word/grammar items this widget should show, per its mode+level. */
+    fun itemsFor(context: Context, appWidgetId: Int): List<JSONObject> {
+        val prefs = prefs(context)
+        val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
+        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
+        return filtered(context, mode, level)
+    }
+
+    fun displayModeFor(context: Context, appWidgetId: Int): String =
+        prefs(context).getString(displayKey(appWidgetId), "both") ?: "both"
 
     // Favorite id lists — same keys the Flutter FavoritesRepository writes, so
     // starring from the widget and from inside the app stay in sync.

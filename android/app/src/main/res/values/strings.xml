@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="widget_description">HSK kelime veya gramer konusu gösterir; oklarla değiştir, dokununca anlamı ve örnekleri aç.</string>
+    <string name="widget_description">HSK kelime veya gramer konusu gösterir; kaydırarak değiştir, dokununca anlamı ve örnekleri aç.</string>
     <string name="widget_loading">Yükleniyor…</string>
     <string name="widget_previous">Önceki</string>
     <string name="widget_next">Sonraki</string>
     <string name="widget_favorite">Favori</string>
+    <string name="widget_settings">Ayarlar</string>
 </resources>

@@ -163,10 +163,10 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
           ),
           const SizedBox(height: 24),
           const Text(
-            "İpucu: Alttaki ← ve → ile kelimeyi istediğin an değiştir, ★ ile favorilere ekle, "
-            "ortasına dokunarak anlamını ve örneklerini aç. Yazı boyutu widget'a göre kendiliğinden "
-            "ayarlanır — büyütmek için widget'ı büyüt, küçültmek için küçült; yazı taşmadan sığar. "
-            "Karakterler tonlarına göre renklidir (1. ton mavi, 2. yeşil, 3. sarı, 4. kırmızı, hafif ton gri).",
+            "İpucu: Widget üzerinde yukarı/aşağı kaydırarak kelimeyi değiştir; karta dokununca anlamı "
+            "ve örnekleri açılır; sağ üstteki ★ ile favorilere ekle; sol üstteki ⚙ ile bu ayarları "
+            "tekrar aç. Yazı boyutu widget'a göre kendiliğinden ayarlanır — büyütmek için widget'ı "
+            "büyüt. Karakterler tonlarına göre renklidir (1. ton mavi, 2. yeşil, 3. sarı, 4. kırmızı, hafif ton gri).",
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),
           const SizedBox(height: 24),

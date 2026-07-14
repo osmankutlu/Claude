@@ -163,9 +163,9 @@ class _WidgetConfigureScreenState extends State<WidgetConfigureScreen> {
           ),
           const SizedBox(height: 24),
           const Text(
-            "İpucu: Karta dokununca sonraki kelimeye geçer; sağ üstteki ★ favoriye ekler, sol üstteki "
-            "⚙ bu ayarları açar, sağ alttaki ⓘ anlamı ve örnekleri gösterir. Ekran her açıldığında da "
-            "(yukarıdaki sıklığa göre) kelime değişir. Yazı boyutu widget'a göre kendiliğinden ayarlanır. "
+            "İpucu: Kartın sağ tarafına dokununca sonraki, sol tarafına dokununca önceki kelimeye "
+            "geçer; sağ üstteki ★ favoriye ekler, sol üstteki ⚙ ayarları açar, sağ alttaki ⓘ anlamı "
+            "ve örnekleri gösterir. Ekran her açıldığında da (yukarıdaki sıklığa göre) kelime değişir. "
             "Karakterler tonlarına göre renklidir (1. ton mavi, 2. yeşil, 3. sarı, 4. kırmızı, hafif ton gri).",
             style: TextStyle(fontSize: 12, color: Colors.grey),
           ),

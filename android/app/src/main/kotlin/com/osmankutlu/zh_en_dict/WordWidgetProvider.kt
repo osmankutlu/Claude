@@ -118,10 +118,14 @@ class WordWidgetProvider : AppWidgetProvider() {
                 actionPendingIntent(context, appWidgetId, WidgetActionReceiver.ACTION_FAVORITE)
             )
 
-            // Tap the card → next random word.
+            // Tap the left half → previous word, right half → next word.
             views.setOnClickPendingIntent(
-                R.id.widget_card,
-                actionPendingIntent(context, appWidgetId, WidgetActionReceiver.ACTION_CHANGE)
+                R.id.widget_prev,
+                actionPendingIntent(context, appWidgetId, WidgetActionReceiver.ACTION_PREV)
+            )
+            views.setOnClickPendingIntent(
+                R.id.widget_next,
+                actionPendingIntent(context, appWidgetId, WidgetActionReceiver.ACTION_NEXT)
             )
 
             // ⓘ → meaning/examples popup for the current item.
@@ -149,7 +153,12 @@ class WordWidgetProvider : AppWidgetProvider() {
                 // PendingIntents from being treated as the same one.
                 data = android.net.Uri.parse("zhendict://widget/$appWidgetId/$action")
             }
-            val requestCode = appWidgetId * 10 + if (action == WidgetActionReceiver.ACTION_FAVORITE) 2 else 1
+            val requestCode = appWidgetId * 10 + when (action) {
+                WidgetActionReceiver.ACTION_NEXT -> 1
+                WidgetActionReceiver.ACTION_PREV -> 5
+                WidgetActionReceiver.ACTION_FAVORITE -> 2
+                else -> 6
+            }
             return PendingIntent.getBroadcast(
                 context, requestCode, intent,
                 PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE

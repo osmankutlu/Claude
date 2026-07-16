@@ -140635,5 +140635,854 @@
         "en": "Bu şirket özellikle elektronik ürünlerin ithalat ihracatıyla uğraşıyor."
       }
     ]
+  },
+  {
+    "id": "w4102",
+    "hanzi": "进度",
+    "pinyin": "jìndù",
+    "meaning": "ilerleme hızı, program",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工程进度比预期快。",
+        "pinyin": "Gōngchéng jìndù bǐ yùqī kuài.",
+        "en": "Proje ilerleme hızı beklenenden daha hızlı."
+      },
+      {
+        "zh": "请汇报一下项目的进度。",
+        "pinyin": "Qǐng huìbào yíxià xiàngmù de jìndù.",
+        "en": "Lütfen projenin ilerleme durumunu bildirin."
+      },
+      {
+        "zh": "学习进度要跟上课程安排。",
+        "pinyin": "Xuéxí jìndù yào gēnshàng kèchéng ānpái.",
+        "en": "Öğrenme temposunun ders programına uyması gerekir."
+      },
+      {
+        "zh": "由于天气原因，施工进度受到了影响。",
+        "pinyin": "Yóuyú tiānqì yuányīn, shīgōng jìndù shòudàole yǐngxiǎng.",
+        "en": "Hava koşulları nedeniyle inşaat temposu etkilendi."
+      },
+      {
+        "zh": "我们需要加快工作进度。",
+        "pinyin": "Wǒmen xūyào jiākuài gōngzuò jìndù.",
+        "en": "İş temposunu hızlandırmamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4103",
+    "hanzi": "进攻",
+    "pinyin": "jìngōng",
+    "meaning": "saldırıya geçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队发动了进攻。",
+        "pinyin": "Jūnduì fādòngle jìngōng.",
+        "en": "Ordu saldırıya geçti."
+      },
+      {
+        "zh": "敌人从北面进攻了城市。",
+        "pinyin": "Dírén cóng běimiàn jìngōngle chéngshì.",
+        "en": "Düşman şehri kuzeyden saldırdı."
+      },
+      {
+        "zh": "球队采取了积极的进攻战术。",
+        "pinyin": "Qiúduì cǎiqǔle jījí de jìngōng zhànshù.",
+        "en": "Takım aktif bir saldırı taktiği benimsedi."
+      },
+      {
+        "zh": "他们对敌军发起了猛烈进攻。",
+        "pinyin": "Tāmen duì díjūn fāqǐle měngliè jìngōng.",
+        "en": "Düşman ordusuna şiddetli bir saldırı başlattılar."
+      },
+      {
+        "zh": "我方成功抵挡了对方的进攻。",
+        "pinyin": "Wǒfāng chénggōng dǐdǎngle duìfāng de jìngōng.",
+        "en": "Tarafımız karşı tarafın saldırısını başarıyla püskürttü."
+      }
+    ]
+  },
+  {
+    "id": "w4104",
+    "hanzi": "进化",
+    "pinyin": "jìnhuà",
+    "meaning": "evrim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "达尔文提出了进化论。",
+        "pinyin": "Dá'ěrwén tíchūle jìnhuàlùn.",
+        "en": "Darwin evrim teorisini ortaya attı."
+      },
+      {
+        "zh": "人类经过漫长的进化才成为现在的样子。",
+        "pinyin": "Rénlèi jīngguò màncháng de jìnhuà cái chéngwéi xiànzài de yàngzi.",
+        "en": "İnsanlık uzun bir evrim sürecinden geçerek günümüzdeki halini aldı."
+      },
+      {
+        "zh": "生物的进化是一个缓慢的过程。",
+        "pinyin": "Shēngwù de jìnhuà shì yí ge huǎnmàn de guòchéng.",
+        "en": "Canlıların evrimi yavaş bir süreçtir."
+      },
+      {
+        "zh": "科技的进化速度非常快。",
+        "pinyin": "Kējì de jìnhuà sùdù fēicháng kuài.",
+        "en": "Teknolojinin evrim hızı çok yüksek."
+      },
+      {
+        "zh": "这个物种在进化中逐渐消失了。",
+        "pinyin": "Zhège wùzhǒng zài jìnhuà zhōng zhújiàn xiāoshī le.",
+        "en": "Bu tür evrim sürecinde giderek yok oldu."
+      }
+    ]
+  },
+  {
+    "id": "w4105",
+    "hanzi": "进货",
+    "pinyin": "jìnhuò",
+    "meaning": "stok almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "老板每周去进货。",
+        "pinyin": "Lǎobǎn měi zhōu qù jìnhuò.",
+        "en": "Patron her hafta stok almaya gider."
+      },
+      {
+        "zh": "这家商店正在进货。",
+        "pinyin": "Zhè jiā shāngdiàn zhèngzài jìnhuò.",
+        "en": "Bu dükkân şu anda stok alıyor."
+      },
+      {
+        "zh": "进货成本上涨影响了利润。",
+        "pinyin": "Jìnhuò chéngběn shàngzhǎng yǐngxiǎngle lìrùn.",
+        "en": "Tedarik maliyetlerinin artması kârı etkiledi."
+      },
+      {
+        "zh": "他们从工厂直接进货。",
+        "pinyin": "Tāmen cóng gōngchǎng zhíjiē jìnhuò.",
+        "en": "Doğrudan fabrikadan mal alıyorlar."
+      },
+      {
+        "zh": "春节前商家都会大量进货。",
+        "pinyin": "Chūnjié qián shāngjiā dōu huì dàliàng jìnhuò.",
+        "en": "Bahar Bayramı öncesi işletmeler bol miktarda mal alır."
+      }
+    ]
+  },
+  {
+    "id": "w4106",
+    "hanzi": "进军",
+    "pinyin": "jìnjūn",
+    "meaning": "hedefe doğru ilerlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队向边境进军。",
+        "pinyin": "Jūnduì xiàng biānjìng jìnjūn.",
+        "en": "Ordu sınıra doğru ilerledi."
+      },
+      {
+        "zh": "这家公司正在进军国际市场。",
+        "pinyin": "Zhè jiā gōngsī zhèngzài jìnjūn guójì shìchǎng.",
+        "en": "Bu şirket uluslararası pazara açılıyor."
+      },
+      {
+        "zh": "他们决心进军半决赛。",
+        "pinyin": "Tāmen juéxīn jìnjūn bànjuésài.",
+        "en": "Yarı finale ilerlemeye kararlılar."
+      },
+      {
+        "zh": "公司计划进军新能源领域。",
+        "pinyin": "Gōngsī jìhuà jìnjūn xīn néngyuán lǐngyù.",
+        "en": "Şirket yenilenebilir enerji alanına girmeyi planlıyor."
+      },
+      {
+        "zh": "部队日夜兼程向前线进军。",
+        "pinyin": "Bùduì rìyè jiānchéng xiàng qiánxiàn jìnjūn.",
+        "en": "Birlik gece gündüz demeden cepheye doğru ilerledi."
+      }
+    ]
+  },
+  {
+    "id": "w4107",
+    "hanzi": "进来",
+    "pinyin": "jìnlái",
+    "meaning": "içeri girmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请进来坐吧。",
+        "pinyin": "Qǐng jìnlái zuò ba.",
+        "en": "Lütfen içeri gelip oturun."
+      },
+      {
+        "zh": "他敲了门就进来了。",
+        "pinyin": "Tā qiāole mén jiù jìnlái le.",
+        "en": "Kapıyı çalıp içeri girdi."
+      },
+      {
+        "zh": "外面很冷，快进来吧。",
+        "pinyin": "Wàimiàn hěn lěng, kuài jìnlái ba.",
+        "en": "Dışarısı çok soğuk, çabuk içeri gel."
+      },
+      {
+        "zh": "猫从窗户跳了进来。",
+        "pinyin": "Māo cóng chuānghu tiàole jìnlái.",
+        "en": "Kedi pencereden içeri atladı."
+      },
+      {
+        "zh": "有人敲门，让他进来吧。",
+        "pinyin": "Yǒurén qiāomén, ràng tā jìnlái ba.",
+        "en": "Biri kapıyı çalıyor, içeri gelsin."
+      }
+    ]
+  },
+  {
+    "id": "w4108",
+    "hanzi": "进取",
+    "pinyin": "jìnqǔ",
+    "meaning": "girişken olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是一个积极进取的人。",
+        "pinyin": "Tā shì yí ge jījí jìnqǔ de rén.",
+        "en": "O aktif ve girişken bir insan."
+      },
+      {
+        "zh": "年轻人应该保持进取精神。",
+        "pinyin": "Niánqīngrén yīnggāi bǎochí jìnqǔ jīngshén.",
+        "en": "Gençler girişken bir ruh sergilemeli."
+      },
+      {
+        "zh": "她对工作充满了进取心。",
+        "pinyin": "Tā duì gōngzuò chōngmǎnle jìnqǔxīn.",
+        "en": "İşine karşı büyük bir girişkenlik hissi taşıyor."
+      },
+      {
+        "zh": "缺乏进取心会限制个人发展。",
+        "pinyin": "Quēfá jìnqǔxīn huì xiànzhì gèrén fāzhǎn.",
+        "en": "Girişkenlik eksikliği kişisel gelişimi sınırlandırabilir."
+      },
+      {
+        "zh": "他勇于进取，从不满足现状。",
+        "pinyin": "Tā yǒngyú jìnqǔ, cóng bù mǎnzú xiànzhuàng.",
+        "en": "Cesurca ilerlemeye çalışır, mevcut durumla hiç yetinmez."
+      }
+    ]
+  },
+  {
+    "id": "w4109",
+    "hanzi": "进去",
+    "pinyin": "jìnqù",
+    "meaning": "içeri girmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "门开着，你可以进去。",
+        "pinyin": "Mén kāizhe, nǐ kěyǐ jìnqù.",
+        "en": "Kapı açık, içeri girebilirsin."
+      },
+      {
+        "zh": "他推开门走了进去。",
+        "pinyin": "Tā tuīkāi mén zǒule jìnqù.",
+        "en": "Kapıyı itip içeri girdi."
+      },
+      {
+        "zh": "别进去，房间里有人。",
+        "pinyin": "Bié jìnqù, fángjiān lǐ yǒurén.",
+        "en": "İçeri girme, odada biri var."
+      },
+      {
+        "zh": "请把行李放进去。",
+        "pinyin": "Qǐng bǎ xíngli fàng jìnqù.",
+        "en": "Lütfen bagajı içine koyun."
+      },
+      {
+        "zh": "我们排队等着进去。",
+        "pinyin": "Wǒmen páiduì děngzhe jìnqù.",
+        "en": "Sıra bekleyerek içeri girmeyi bekliyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w4110",
+    "hanzi": "进一步",
+    "pinyin": "jìnyíbù",
+    "meaning": "bir adım daha ileri",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我们需要进一步研究这个问题。",
+        "pinyin": "Wǒmen xūyào jìnyíbù yánjiū zhège wèntí.",
+        "en": "Bu sorunu daha ileri düzeyde araştırmamız gerekiyor."
+      },
+      {
+        "zh": "双方决定进一步加强合作。",
+        "pinyin": "Shuāngfāng juédìng jìnyíbù jiāqiáng hézuò.",
+        "en": "İki taraf işbirliğini daha da güçlendirmeye karar verdi."
+      },
+      {
+        "zh": "请进一步说明你的观点。",
+        "pinyin": "Qǐng jìnyíbù shuōmíng nǐ de guāndiǎn.",
+        "en": "Görüşünüzü daha detaylı açıklayın lütfen."
+      },
+      {
+        "zh": "这项政策将进一步改善民生。",
+        "pinyin": "Zhè xiàng zhèngcè jiāng jìnyíbù gǎishàn mínshēng.",
+        "en": "Bu politika halkın yaşamını daha da iyileştirecek."
+      },
+      {
+        "zh": "他们的关系进一步发展了。",
+        "pinyin": "Tāmen de guānxi jìnyíbù fāzhǎn le.",
+        "en": "İlişkileri daha da gelişti."
+      }
+    ]
+  },
+  {
+    "id": "w4111",
+    "hanzi": "进展",
+    "pinyin": "jìnzhǎn",
+    "meaning": "ilerleme kaydetmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "项目进展顺利。",
+        "pinyin": "Xiàngmù jìnzhǎn shùnlì.",
+        "en": "Proje sorunsuz bir şekilde ilerliyor."
+      },
+      {
+        "zh": "谈判没有取得任何进展。",
+        "pinyin": "Tánpàn méiyǒu qǔdé rènhé jìnzhǎn.",
+        "en": "Görüşmelerde hiçbir ilerleme kaydedilmedi."
+      },
+      {
+        "zh": "研究工作正在稳步进展。",
+        "pinyin": "Yánjiū gōngzuò zhèngzài wěnbù jìnzhǎn.",
+        "en": "Araştırma çalışması istikrarlı bir şekilde ilerliyor."
+      },
+      {
+        "zh": "请告诉我们工作的最新进展。",
+        "pinyin": "Qǐng gàosu wǒmen gōngzuò de zuìxīn jìnzhǎn.",
+        "en": "Bize işin en son ilerleme durumunu bildirin."
+      },
+      {
+        "zh": "病情有了明显的进展。",
+        "pinyin": "Bìngqíng yǒule míngxiǎn de jìnzhǎn.",
+        "en": "Hastalığın durumunda belirgin bir ilerleme oldu."
+      }
+    ]
+  },
+  {
+    "id": "w4112",
+    "hanzi": "近海",
+    "pinyin": "jìnhǎi",
+    "meaning": "kıyı denizi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "这片近海海域鱼类丰富。",
+        "pinyin": "Zhè piàn jìnhǎi hǎiyù yúlèi fēngfù.",
+        "en": "Bu kıyı denizi bölgesinde balık türleri zengin."
+      },
+      {
+        "zh": "渔民们在近海捕鱼。",
+        "pinyin": "Yúmínmen zài jìnhǎi bǔyú.",
+        "en": "Balıkçılar kıyı denizinde balık tutuyor."
+      },
+      {
+        "zh": "近海地区容易受到污染。",
+        "pinyin": "Jìnhǎi dìqū róngyì shòudào wūrǎn.",
+        "en": "Kıyı deniz bölgeleri kolayca kirlenebilir."
+      },
+      {
+        "zh": "这座城市位于近海地带。",
+        "pinyin": "Zhè zuò chéngshì wèiyú jìnhǎi dìdài.",
+        "en": "Bu şehir kıyı deniz bölgesinde yer alıyor."
+      },
+      {
+        "zh": "近海石油开采带来了经济效益。",
+        "pinyin": "Jìnhǎi shíyóu kāicǎi dàiláile jīngjì xiàoyì.",
+        "en": "Kıyı denizinde petrol çıkarımı ekonomik fayda sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w4113",
+    "hanzi": "近郊",
+    "pinyin": "jìnjiāo",
+    "meaning": "şehir varoşları",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他们住在城市近郊。",
+        "pinyin": "Tāmen zhù zài chéngshì jìnjiāo.",
+        "en": "Şehrin varoşlarında yaşıyorlar."
+      },
+      {
+        "zh": "近郊的房价比市区便宜。",
+        "pinyin": "Jìnjiāo de fángjià bǐ shìqū piányi.",
+        "en": "Varoşların ev fiyatları şehir merkezinden daha ucuz."
+      },
+      {
+        "zh": "我们周末去近郊踏青。",
+        "pinyin": "Wǒmen zhōumò qù jìnjiāo tàqīng.",
+        "en": "Hafta sonu varoşlara doğa yürüyüşüne gidiyoruz."
+      },
+      {
+        "zh": "近郊有很多农场。",
+        "pinyin": "Jìnjiāo yǒu hěn duō nóngchǎng.",
+        "en": "Varoşlarda birçok çiftlik var."
+      },
+      {
+        "zh": "他在近郊买了一套别墅。",
+        "pinyin": "Tā zài jìnjiāo mǎile yí tào biéshù.",
+        "en": "Varoşlarda bir villa satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4114",
+    "hanzi": "近来",
+    "pinyin": "jìnlái",
+    "meaning": "son zamanlarda",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "近来他工作很忙。",
+        "pinyin": "Jìnlái tā gōngzuò hěn máng.",
+        "en": "Son zamanlarda işi çok yoğun."
+      },
+      {
+        "zh": "近来天气变化很大。",
+        "pinyin": "Jìnlái tiānqì biànhuà hěn dà.",
+        "en": "Son zamanlarda hava büyük ölçüde değişti."
+      },
+      {
+        "zh": "近来物价上涨了不少。",
+        "pinyin": "Jìnlái wùjià shàngzhǎngle bù shǎo.",
+        "en": "Son zamanlarda fiyatlar epey arttı."
+      },
+      {
+        "zh": "近来他身体不太好。",
+        "pinyin": "Jìnlái tā shēntǐ bú tài hǎo.",
+        "en": "Son zamanlarda sağlığı pek iyi değil."
+      },
+      {
+        "zh": "近来我们经常见面。",
+        "pinyin": "Jìnlái wǒmen jīngcháng jiànmiàn.",
+        "en": "Son zamanlarda sık sık görüşüyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w4115",
+    "hanzi": "近邻",
+    "pinyin": "jìnlín",
+    "meaning": "komşu (ülke)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "中国和越南是近邻。",
+        "pinyin": "Zhōngguó hé Yuènán shì jìnlín.",
+        "en": "Çin ve Vietnam komşu ülkelerdir."
+      },
+      {
+        "zh": "两国是近邻，交往密切。",
+        "pinyin": "Liǎng guó shì jìnlín, jiāowǎng mìqiè.",
+        "en": "İki ülke komşu, ilişkileri sıkı."
+      },
+      {
+        "zh": "我们和隔壁是近邻。",
+        "pinyin": "Wǒmen hé gébì shì jìnlín.",
+        "en": "Yan komşumuzla yakın komşuyuz."
+      },
+      {
+        "zh": "近邻之间应该友好相处。",
+        "pinyin": "Jìnlín zhījiān yīnggāi yǒuhǎo xiāngchǔ.",
+        "en": "Komşular arasında dostane ilişkiler kurulmalı."
+      },
+      {
+        "zh": "这两个国家作为近邻，经济往来频繁。",
+        "pinyin": "Zhè liǎng ge guójiā zuòwéi jìnlín, jīngjì wǎnglái pínfán.",
+        "en": "Bu iki ülke komşu olarak sık sık ekonomik ilişki içindeler."
+      }
+    ]
+  },
+  {
+    "id": "w4116",
+    "hanzi": "近期",
+    "pinyin": "jìnqī",
+    "meaning": "yakın gelecek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "近期我们有一个重要项目。",
+        "pinyin": "Jìnqī wǒmen yǒu yí ge zhòngyào xiàngmù.",
+        "en": "Yakın zamanda önemli bir projemiz var."
+      },
+      {
+        "zh": "近期股市波动较大。",
+        "pinyin": "Jìnqī gǔshì bōdòng jiào dà.",
+        "en": "Son zamanlarda borsa büyük dalgalanma gösterdi."
+      },
+      {
+        "zh": "我们近期会公布结果。",
+        "pinyin": "Wǒmen jìnqī huì gōngbù jiéguǒ.",
+        "en": "Sonuçları yakın zamanda açıklayacağız."
+      },
+      {
+        "zh": "近期天气比较不稳定。",
+        "pinyin": "Jìnqī tiānqì bǐjiào bù wěndìng.",
+        "en": "Son zamanlarda hava oldukça istikrarsız."
+      },
+      {
+        "zh": "公司近期将推出新产品。",
+        "pinyin": "Gōngsī jìnqī jiāng tuīchū xīn chǎnpǐn.",
+        "en": "Şirket yakın zamanda yeni bir ürün çıkaracak."
+      }
+    ]
+  },
+  {
+    "id": "w4117",
+    "hanzi": "近日",
+    "pinyin": "jìnrì",
+    "meaning": "son günlerde",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "近日天气持续炎热。",
+        "pinyin": "Jìnrì tiānqì chíxù yánrè.",
+        "en": "Son günlerde hava sürekli sıcak."
+      },
+      {
+        "zh": "近日发生了一件大事。",
+        "pinyin": "Jìnrì fāshēngle yí jiàn dàshì.",
+        "en": "Son günlerde büyük bir olay yaşandı."
+      },
+      {
+        "zh": "近日我收到了一封重要的信。",
+        "pinyin": "Jìnrì wǒ shōudàole yì fēng zhòngyào de xìn.",
+        "en": "Son günlerde önemli bir mektup aldım."
+      },
+      {
+        "zh": "近日物价有所波动。",
+        "pinyin": "Jìnrì wùjià yǒu suǒ bōdòng.",
+        "en": "Son günlerde fiyatlarda dalgalanma oldu."
+      },
+      {
+        "zh": "近日他心情不太好。",
+        "pinyin": "Jìnrì tā xīnqíng bú tài hǎo.",
+        "en": "Son günlerde canı pek iyi değil."
+      }
+    ]
+  },
+  {
+    "id": "w4118",
+    "hanzi": "近视",
+    "pinyin": "jìnshì",
+    "meaning": "miyop",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他有近视，需要戴眼镜。",
+        "pinyin": "Tā yǒu jìnshì, xūyào dài yǎnjìng.",
+        "en": "Miyop olduğu için gözlük takması gerekiyor."
+      },
+      {
+        "zh": "长时间看手机容易导致近视。",
+        "pinyin": "Chángshíjiān kàn shǒujī róngyì dǎozhì jìnshì.",
+        "en": "Uzun süre telefona bakmak kolayca miyopa neden olabilir."
+      },
+      {
+        "zh": "她的近视越来越严重了。",
+        "pinyin": "Tā de jìnshì yuèláiyuè yánzhòng le.",
+        "en": "Miyopu giderek ağırlaşıyor."
+      },
+      {
+        "zh": "现在很多青少年都有近视问题。",
+        "pinyin": "Xiànzài hěn duō qīngshàonián dōu yǒu jìnshì wèntí.",
+        "en": "Günümüzde birçok genç miyop sorunu yaşıyor."
+      },
+      {
+        "zh": "定期检查眼睛可以预防近视加重。",
+        "pinyin": "Dìngqī jiǎnchá yǎnjing kěyǐ yùfáng jìnshì jiāzhòng.",
+        "en": "Düzenli göz kontrolü miyopun ağırlaşmasını önleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4119",
+    "hanzi": "晋级",
+    "pinyin": "jìnjí",
+    "meaning": "terfi etmek, üst seviyeye geçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他成功晋级到了下一轮。",
+        "pinyin": "Tā chénggōng jìnjí dàole xià yì lún.",
+        "en": "Bir sonraki tura başarıyla geçti."
+      },
+      {
+        "zh": "这支球队晋级了决赛。",
+        "pinyin": "Zhè zhī qiúduì jìnjíle juésài.",
+        "en": "Bu takım finale yükseldi."
+      },
+      {
+        "zh": "他因表现出色而晋级。",
+        "pinyin": "Tā yīn biǎoxiàn chūsè ér jìnjí.",
+        "en": "Üstün performansı nedeniyle terfi etti."
+      },
+      {
+        "zh": "通过考试后就可以晋级。",
+        "pinyin": "Tōngguò kǎoshì hòu jiù kěyǐ jìnjí.",
+        "en": "Sınavı geçtikten sonra bir üst seviyeye geçilebilir."
+      },
+      {
+        "zh": "她晋级为公司的高级经理。",
+        "pinyin": "Tā jìnjí wéi gōngsī de gāojí jīnglǐ.",
+        "en": "Şirketin üst düzey müdürü olarak terfi etti."
+      }
+    ]
+  },
+  {
+    "id": "w4120",
+    "hanzi": "禁运",
+    "pinyin": "jìnyùn",
+    "meaning": "ambargo koymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "联合国对该国实施了禁运。",
+        "pinyin": "Liánhéguó duì gāi guó shíshīle jìnyùn.",
+        "en": "Birleşmiş Milletler bu ülkeye ambargo uyguladı."
+      },
+      {
+        "zh": "石油禁运导致该国经济陷入困境。",
+        "pinyin": "Shíyóu jìnyùn dǎozhì gāi guó jīngjì xiànrù kùnjìng.",
+        "en": "Petrol ambargosu bu ülkenin ekonomisini zora soktu."
+      }
+    ]
+  },
+  {
+    "id": "w4121",
+    "hanzi": "劲头",
+    "pinyin": "jìntóu",
+    "meaning": "hız, enerji, istek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他工作的劲头很足。",
+        "pinyin": "Tā gōngzuò de jìntóu hěn zú.",
+        "en": "İşini yaparken enerjisi çok yüksek."
+      },
+      {
+        "zh": "大家干活的劲头都很高。",
+        "pinyin": "Dàjiā gànhuó de jìntóu dōu hěn gāo.",
+        "en": "Herkesin çalışma isteği çok yüksek."
+      },
+      {
+        "zh": "看到成果，他更有劲头了。",
+        "pinyin": "Kàndào chéngguǒ, tā gèng yǒu jìntóu le.",
+        "en": "Sonuçları görünce daha da hevesli oldu."
+      },
+      {
+        "zh": "这场胜利让球队重新找回了劲头。",
+        "pinyin": "Zhè chǎng shènglì ràng qiúduì chóngxīn zhǎohuíle jìntóu.",
+        "en": "Bu galibiyet takımın enerjisini yeniden kazanmasını sağladı."
+      },
+      {
+        "zh": "他一开始很有劲头，后来就松懈了。",
+        "pinyin": "Tā yìkāishǐ hěn yǒu jìntóu, hòulái jiù sōngxiè le.",
+        "en": "Başlangıçta çok hevesliydi, sonra gevşedi."
+      }
+    ]
+  },
+  {
+    "id": "w4122",
+    "hanzi": "尽情",
+    "pinyin": "jìnqíng",
+    "meaning": "doyasıya, canının istediği kadar",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "大家尽情享受这次聚会。",
+        "pinyin": "Dàjiā jìnqíng xiǎngshòu zhè cì jùhuì.",
+        "en": "Herkes bu toplantının tadını doyasıya çıkardı."
+      },
+      {
+        "zh": "孩子们在草地上尽情玩耍。",
+        "pinyin": "Háizimen zài cǎodì shàng jìnqíng wánshuǎ.",
+        "en": "Çocuklar çimenlikte doyasıya oynadı."
+      },
+      {
+        "zh": "我们在演唱会上尽情歌唱。",
+        "pinyin": "Wǒmen zài yǎnchànghuì shàng jìnqíng gēchàng.",
+        "en": "Konserde doyasıya şarkı söyledik."
+      },
+      {
+        "zh": "他尽情表达了自己的感情。",
+        "pinyin": "Tā jìnqíng biǎodále zìjǐ de gǎnqíng.",
+        "en": "Duygularını doyasıya ifade etti."
+      },
+      {
+        "zh": "大家尽情跳舞到深夜。",
+        "pinyin": "Dàjiā jìnqíng tiàowǔ dào shēnyè.",
+        "en": "Herkes gece geç saatlere kadar doyasıya dans etti."
+      }
+    ]
+  },
+  {
+    "id": "w4123",
+    "hanzi": "尽头",
+    "pinyin": "jìntóu",
+    "meaning": "son, sınır",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "走到路的尽头就是海边。",
+        "pinyin": "Zǒudào lù de jìntóu jiùshì hǎibiān.",
+        "en": "Yolun sonuna kadar yürürseniz sahile ulaşırsınız."
+      },
+      {
+        "zh": "他们的旅程终于到了尽头。",
+        "pinyin": "Tāmen de lǚchéng zhōngyú dàole jìntóu.",
+        "en": "Yolculukları sonunda sona erdi."
+      },
+      {
+        "zh": "隧道的尽头有一道光。",
+        "pinyin": "Suìdào de jìntóu yǒu yí dào guāng.",
+        "en": "Tünelin sonunda bir ışık var."
+      },
+      {
+        "zh": "走廊的尽头是他的办公室。",
+        "pinyin": "Zǒuláng de jìntóu shì tā de bàngōngshì.",
+        "en": "Koridorun sonunda onun ofisi var."
+      },
+      {
+        "zh": "这条河的尽头是一个湖。",
+        "pinyin": "Zhè tiáo hé de jìntóu shì yí ge hú.",
+        "en": "Bu nehrin sonu bir göldür."
+      }
+    ]
+  },
+  {
+    "id": "w4124",
+    "hanzi": "京城",
+    "pinyin": "jīngchéng",
+    "meaning": "başkent",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "古代的京城非常繁华。",
+        "pinyin": "Gǔdài de jīngchéng fēicháng fánhuá.",
+        "en": "Eski dönem başkenti çok gelişmişti."
+      },
+      {
+        "zh": "他从小在京城长大。",
+        "pinyin": "Tā cóngxiǎo zài jīngchéng zhǎngdà.",
+        "en": "Küçüklüğünden beri başkentte büyüdü."
+      },
+      {
+        "zh": "京城的建筑非常宏伟。",
+        "pinyin": "Jīngchéng de jiànzhù fēicháng hóngwěi.",
+        "en": "Başkentin binaları çok görkemli."
+      },
+      {
+        "zh": "他进京城求学。",
+        "pinyin": "Tā jìn jīngchéng qiúxué.",
+        "en": "Eğitim almak için başkente gitti."
+      },
+      {
+        "zh": "京城是全国的政治中心。",
+        "pinyin": "Jīngchéng shì quánguó de zhèngzhì zhōngxīn.",
+        "en": "Başkent, ülkenin siyasi merkezi."
+      }
+    ]
+  },
+  {
+    "id": "w4125",
+    "hanzi": "惊动",
+    "pinyin": "jīngdòng",
+    "meaning": "rahatsız etmek, tedirgin etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "别惊动孩子，他正在睡觉。",
+        "pinyin": "Bié jīngdòng háizi, tā zhèngzài shuìjiào.",
+        "en": "Çocuğu rahatsız etme, uyuyor."
+      },
+      {
+        "zh": "这件事惊动了整个村子。",
+        "pinyin": "Zhè jiàn shì jīngdòngle zhěnggè cūnzi.",
+        "en": "Bu olay tüm köyü tedirgin etti."
+      },
+      {
+        "zh": "我们悄悄进屋，没有惊动任何人。",
+        "pinyin": "Wǒmen qiāoqiāo jìn wū, méiyǒu jīngdòng rènhé rén.",
+        "en": "Sessizce eve girdik, kimseyi rahatsız etmedik."
+      },
+      {
+        "zh": "这个消息惊动了整个公司。",
+        "pinyin": "Zhège xiāoxi jīngdòngle zhěnggè gōngsī.",
+        "en": "Bu haber tüm şirketi tedirgin etti."
+      },
+      {
+        "zh": "猫轻轻走过，没有惊动老鼠。",
+        "pinyin": "Māo qīngqīng zǒuguò, méiyǒu jīngdòng lǎoshǔ.",
+        "en": "Kedi sessizce geçti, fareyi rahatsız etmedi."
+      }
+    ]
   }
 ]

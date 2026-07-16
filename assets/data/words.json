@@ -119884,5 +119884,569 @@
         "en": "Polis ifadeye dayanarak daha fazla soruşturma başlattı."
       }
     ]
+  },
+  {
+    "id": "w3487",
+    "hanzi": "购买",
+    "pinyin": "gòumǎi",
+    "meaning": "satın almak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "她购买了一件新衣服。",
+        "pinyin": "Tā gòumǎi le yí jiàn xīn yīfu.",
+        "en": "Yeni bir kıyafet satın aldı."
+      },
+      {
+        "zh": "我们打算购买一套房子。",
+        "pinyin": "Wǒmen dǎsuàn gòumǎi yí tào fángzi.",
+        "en": "Bir ev satın almayı planlıyoruz."
+      },
+      {
+        "zh": "请问在哪里可以购买车票？",
+        "pinyin": "Qǐngwèn zài nǎlǐ kěyǐ gòumǎi chēpiào?",
+        "en": "Nerede bilet satın alabilirim acaba?"
+      },
+      {
+        "zh": "消费者购买力有所提高。",
+        "pinyin": "Xiāofèizhě gòumǎilì yǒu suǒ tígāo.",
+        "en": "Tüketicilerin satın alma gücü biraz arttı."
+      },
+      {
+        "zh": "公司决定购买新设备。",
+        "pinyin": "Gōngsī juédìng gòumǎi xīn shèbèi.",
+        "en": "Şirket yeni ekipman satın almaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3488",
+    "hanzi": "孤独",
+    "pinyin": "gūdú",
+    "meaning": "yalnız",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他一个人生活，感到很孤独。",
+        "pinyin": "Tā yí ge rén shēnghuó, gǎndào hěn gūdú.",
+        "en": "Tek başına yaşıyor ve çok yalnız hissediyor."
+      },
+      {
+        "zh": "老年人容易感到孤独。",
+        "pinyin": "Lǎonián rén róngyì gǎndào gūdú.",
+        "en": "Yaşlılar kolayca yalnızlık hissedebilir."
+      },
+      {
+        "zh": "她学会了享受孤独。",
+        "pinyin": "Tā xuéhuì le xiǎngshòu gūdú.",
+        "en": "Yalnızlığın tadını çıkarmayı öğrendi."
+      },
+      {
+        "zh": "孤独并不总是坏事。",
+        "pinyin": "Gūdú bìng bù zǒngshì huàishì.",
+        "en": "Yalnızlık her zaman kötü bir şey değildir."
+      },
+      {
+        "zh": "他的内心十分孤独。",
+        "pinyin": "Tā de nèixīn shífēn gūdú.",
+        "en": "İçi son derece yalnız."
+      }
+    ]
+  },
+  {
+    "id": "w3489",
+    "hanzi": "共产党",
+    "pinyin": "gòngchǎndǎng",
+    "meaning": "Komünist Parti",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "中国共产党成立于1921年。",
+        "pinyin": "Zhōngguó Gòngchǎndǎng chénglì yú yījiǔèryī nián.",
+        "en": "Çin Komünist Partisi 1921 yılında kuruldu."
+      },
+      {
+        "zh": "他是一名共产党员。",
+        "pinyin": "Tā shì yì míng gòngchǎndǎngyuán.",
+        "en": "O bir Komünist Parti üyesidir."
+      },
+      {
+        "zh": "共产党领导了这场革命。",
+        "pinyin": "Gòngchǎndǎng lǐngdǎo le zhè chǎng gémìng.",
+        "en": "Komünist Parti bu devrime öncülük etti."
+      },
+      {
+        "zh": "这本书讲述了共产党的历史。",
+        "pinyin": "Zhè běn shū jiǎngshù le gòngchǎndǎng de lìshǐ.",
+        "en": "Bu kitap Komünist Parti'nin tarihini anlatıyor."
+      },
+      {
+        "zh": "共产党提出了新的发展方针。",
+        "pinyin": "Gòngchǎndǎng tíchū le xīn de fāzhǎn fāngzhēn.",
+        "en": "Komünist Parti yeni bir kalkınma politikası önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w3490",
+    "hanzi": "共和",
+    "pinyin": "gònghé",
+    "meaning": "cumhuriyet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个国家实行共和制度。",
+        "pinyin": "Zhège guójiā shíxíng gònghé zhìdù.",
+        "en": "Bu ülke cumhuriyet sistemini uyguluyor."
+      },
+      {
+        "zh": "共和制强调权力的分立与制衡。",
+        "pinyin": "Gònghézhì qiángdiào quánlì de fēnlì yǔ zhìhéng.",
+        "en": "Cumhuriyet sistemi güçler ayrılığı ve dengesini vurgular."
+      },
+      {
+        "zh": "这是一个民主共和国家。",
+        "pinyin": "Zhè shì yí ge mínzhǔ gònghé guójiā.",
+        "en": "Bu demokratik bir cumhuriyettir."
+      },
+      {
+        "zh": "共和国的宪法保障公民权利。",
+        "pinyin": "Gònghéguó de xiànfǎ bǎozhàng gōngmín quánlì.",
+        "en": "Cumhuriyetin anayasası vatandaşlık haklarını güvence altına alır."
+      },
+      {
+        "zh": "他们建立了一个共和政府。",
+        "pinyin": "Tāmen jiànlì le yí ge gònghé zhèngfǔ.",
+        "en": "Cumhuriyetçi bir hükümet kurdular."
+      }
+    ]
+  },
+  {
+    "id": "w3491",
+    "hanzi": "共识",
+    "pinyin": "gòngshí",
+    "meaning": "ortak anlayış, mutabakat",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "双方最终达成了共识。",
+        "pinyin": "Shuāngfāng zuìzhōng dáchéng le gòngshí.",
+        "en": "İki taraf sonunda mutabakata vardı."
+      },
+      {
+        "zh": "我们需要就这个问题达成共识。",
+        "pinyin": "Wǒmen xūyào jiù zhège wèntí dáchéng gòngshí.",
+        "en": "Bu konuda mutabakata varmamız gerekiyor."
+      },
+      {
+        "zh": "经过讨论，大家形成了共识。",
+        "pinyin": "Jīngguò tǎolùn, dàjiā xíngchéng le gòngshí.",
+        "en": "Tartışmadan sonra herkes bir mutabakat oluşturdu."
+      },
+      {
+        "zh": "各国就气候变化问题达成了共识。",
+        "pinyin": "Gèguó jiù qìhòu biànhuà wèntí dáchéng le gòngshí.",
+        "en": "Ülkeler iklim değişikliği konusunda mutabakata vardı."
+      },
+      {
+        "zh": "这个共识来之不易。",
+        "pinyin": "Zhège gòngshí lái zhī búyì.",
+        "en": "Bu mutabakat kolay elde edilmedi."
+      }
+    ]
+  },
+  {
+    "id": "w3492",
+    "hanzi": "沟渠",
+    "pinyin": "gōuqú",
+    "meaning": "hendek, kanal",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "田间的沟渠用来排水灌溉。",
+        "pinyin": "Tiánjiān de gōuqú yònglái páishuǐ guàngài.",
+        "en": "Tarladaki kanallar drenaj ve sulama için kullanılır."
+      },
+      {
+        "zh": "雨水顺着沟渠流走了。",
+        "pinyin": "Yǔshuǐ shùn zhe gōuqú liúzǒu le.",
+        "en": "Yağmur suyu kanal boyunca akıp gitti."
+      },
+      {
+        "zh": "农民疏通了堵塞的沟渠。",
+        "pinyin": "Nóngmín shūtōng le dǔsè de gōuqú.",
+        "en": "Çiftçi tıkanmış kanalı açtı."
+      },
+      {
+        "zh": "这条沟渠已经年久失修。",
+        "pinyin": "Zhè tiáo gōuqú yǐjīng niánjiǔ-shīxiū.",
+        "en": "Bu kanal uzun zamandır bakımsız kalmış."
+      },
+      {
+        "zh": "沟渠里长满了杂草。",
+        "pinyin": "Gōuqú lǐ zhǎngmǎn le zácǎo.",
+        "en": "Kanal yabani otlarla kaplanmış."
+      }
+    ]
+  },
+  {
+    "id": "w3493",
+    "hanzi": "构思",
+    "pinyin": "gòusī",
+    "meaning": "kurgu, tasarlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这部小说的构思非常巧妙。",
+        "pinyin": "Zhè bù xiǎoshuō de gòusī fēicháng qiǎomiào.",
+        "en": "Bu romanın kurgusu çok ustaca yapılmış."
+      },
+      {
+        "zh": "他花了很长时间构思这幅画。",
+        "pinyin": "Tā huā le hěn cháng shíjiān gòusī zhè fú huà.",
+        "en": "Bu resmi tasarlamak için uzun zaman harcadı."
+      },
+      {
+        "zh": "作家正在构思新作品的情节。",
+        "pinyin": "Zuòjiā zhèngzài gòusī xīn zuòpǐn de qíngjié.",
+        "en": "Yazar yeni eserinin kurgusunu tasarlıyor."
+      },
+      {
+        "zh": "这个广告的构思很有创意。",
+        "pinyin": "Zhège guǎnggào de gòusī hěn yǒu chuàngyì.",
+        "en": "Bu reklamın kurgusu çok yaratıcı."
+      },
+      {
+        "zh": "建筑师精心构思了这栋建筑的设计。",
+        "pinyin": "Jiànzhùshī jīngxīn gòusī le zhè dòng jiànzhù de shèjì.",
+        "en": "Mimar bu binanın tasarımını özenle kurguladı."
+      }
+    ]
+  },
+  {
+    "id": "w3494",
+    "hanzi": "构造",
+    "pinyin": "gòuzào",
+    "meaning": "yapı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台机器的构造非常复杂。",
+        "pinyin": "Zhè tái jīqì de gòuzào fēicháng fùzá.",
+        "en": "Bu makinenin yapısı çok karmaşık."
+      },
+      {
+        "zh": "老师讲解了人体的构造。",
+        "pinyin": "Lǎoshī jiǎngjiě le réntǐ de gòuzào.",
+        "en": "Öğretmen insan vücudunun yapısını anlattı."
+      },
+      {
+        "zh": "这座建筑的构造很独特。",
+        "pinyin": "Zhè zuò jiànzhù de gòuzào hěn dútè.",
+        "en": "Bu binanın yapısı çok özgün."
+      },
+      {
+        "zh": "科学家研究了细胞的构造。",
+        "pinyin": "Kēxuéjiā yánjiū le xìbāo de gòuzào.",
+        "en": "Bilim insanları hücrenin yapısını araştırdı."
+      },
+      {
+        "zh": "这个句子的构造比较特殊。",
+        "pinyin": "Zhège jùzi de gòuzào bǐjiào tèshū.",
+        "en": "Bu cümlenin yapısı oldukça özel."
+      }
+    ]
+  },
+  {
+    "id": "w3495",
+    "hanzi": "估价",
+    "pinyin": "gūjià",
+    "meaning": "değer biçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "专家为这幅画估价。",
+        "pinyin": "Zhuānjiā wèi zhè fú huà gūjià.",
+        "en": "Uzman bu resme değer biçti."
+      },
+      {
+        "zh": "这套房子的估价超出了预期。",
+        "pinyin": "Zhè tào fángzi de gūjià chāochū le yùqī.",
+        "en": "Bu evin değer biçilmesi beklenenden yüksek çıktı."
+      },
+      {
+        "zh": "我们请了专业人士来估价。",
+        "pinyin": "Wǒmen qǐng le zhuānyè rénshì lái gūjià.",
+        "en": "Değer biçilmesi için profesyonel biri çağırdık."
+      },
+      {
+        "zh": "这件古董的估价非常高。",
+        "pinyin": "Zhè jiàn gǔdǒng de gūjià fēicháng gāo.",
+        "en": "Bu antikanın değeri çok yüksek biçildi."
+      },
+      {
+        "zh": "汽车经销商给出了一个合理的估价。",
+        "pinyin": "Qìchē jīngxiāoshāng gěichū le yí ge hélǐ de gūjià.",
+        "en": "Araba satıcısı makul bir değer biçti."
+      }
+    ]
+  },
+  {
+    "id": "w3496",
+    "hanzi": "孤儿",
+    "pinyin": "gū'ér",
+    "meaning": "yetim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这个孤儿被一对夫妇收养了。",
+        "pinyin": "Zhège gū'ér bèi yí duì fūfù shōuyǎng le.",
+        "en": "Bu yetim bir çift tarafından evlat edinildi."
+      },
+      {
+        "zh": "孤儿院里住着很多孩子。",
+        "pinyin": "Gū'éryuàn lǐ zhù zhe hěn duō háizi.",
+        "en": "Yetimhanede birçok çocuk yaşıyor."
+      },
+      {
+        "zh": "她小时候是一名孤儿。",
+        "pinyin": "Tā xiǎoshíhou shì yì míng gū'ér.",
+        "en": "Küçükken bir yetimdi."
+      },
+      {
+        "zh": "政府为孤儿提供了帮助。",
+        "pinyin": "Zhèngfǔ wèi gū'ér tígōng le bāngzhù.",
+        "en": "Hükümet yetimlere yardım sağladı."
+      },
+      {
+        "zh": "这部电影讲述了一个孤儿的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshù le yí ge gū'ér de gùshi.",
+        "en": "Bu film bir yetimin hikayesini anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3497",
+    "hanzi": "古迹",
+    "pinyin": "gǔjì",
+    "meaning": "tarihi yer",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这座城市有很多历史古迹。",
+        "pinyin": "Zhè zuò chéngshì yǒu hěn duō lìshǐ gǔjì.",
+        "en": "Bu şehirde birçok tarihi eser var."
+      },
+      {
+        "zh": "游客们参观了古迹遗址。",
+        "pinyin": "Yóukèmen cānguān le gǔjì yízhǐ.",
+        "en": "Turistler tarihi kalıntıları ziyaret etti."
+      },
+      {
+        "zh": "这处古迹已经有上千年历史。",
+        "pinyin": "Zhè chù gǔjì yǐjīng yǒu shàng qiān nián lìshǐ.",
+        "en": "Bu tarihi yerin binlerce yıllık bir tarihi var."
+      },
+      {
+        "zh": "政府投入资金保护这些古迹。",
+        "pinyin": "Zhèngfǔ tóurù zījīn bǎohù zhèxiē gǔjì.",
+        "en": "Hükümet bu tarihi eserleri korumak için fon ayırdı."
+      },
+      {
+        "zh": "这座古迹是国家重点保护单位。",
+        "pinyin": "Zhè zuò gǔjì shì guójiā zhòngdiǎn bǎohù dānwèi.",
+        "en": "Bu tarihi eser devletin önemli koruma altındaki bir birimidir."
+      }
+    ]
+  },
+  {
+    "id": "w3498",
+    "hanzi": "共鸣",
+    "pinyin": "gòngmíng",
+    "meaning": "rezonans, empati",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这首歌引起了很多人的共鸣。",
+        "pinyin": "Zhè shǒu gē yǐnqǐ le hěn duō rén de gòngmíng.",
+        "en": "Bu şarkı birçok insanda yankı uyandırdı."
+      },
+      {
+        "zh": "他的演讲引发了观众的共鸣。",
+        "pinyin": "Tā de yǎnjiǎng yǐnfā le guānzhòng de gòngmíng.",
+        "en": "Konuşması izleyicilerde yankı uyandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3499",
+    "hanzi": "够格",
+    "pinyin": "gòugé",
+    "meaning": "standartlara uymak, layık olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的能力完全够格担任这个职位。",
+        "pinyin": "Tā de nénglì wánquán gòugé dānrèn zhège zhíwèi.",
+        "en": "Yeteneği bu görevi üstlenmek için fazlasıyla yeterli."
+      },
+      {
+        "zh": "这份作品还不够格获奖。",
+        "pinyin": "Zhè fèn zuòpǐn hái bú gòugé huòjiǎng.",
+        "en": "Bu eser henüz ödül almaya layık değil."
+      }
+    ]
+  },
+  {
+    "id": "w3500",
+    "hanzi": "构件",
+    "pinyin": "gòujiàn",
+    "meaning": "parça, bileşen",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这座建筑由许多预制构件组成。",
+        "pinyin": "Zhè zuò jiànzhù yóu xǔduō yùzhì gòujiàn zǔchéng.",
+        "en": "Bu bina birçok prefabrik parçadan oluşuyor."
+      },
+      {
+        "zh": "工人正在安装钢结构构件。",
+        "pinyin": "Gōngrén zhèngzài ānzhuāng gāng jiégòu gòujiàn.",
+        "en": "İşçiler çelik yapı parçalarını monte ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3501",
+    "hanzi": "购置",
+    "pinyin": "gòuzhì",
+    "meaning": "satın alma (mal edinme)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "公司购置了一批新设备。",
+        "pinyin": "Gōngsī gòuzhì le yì pī xīn shèbèi.",
+        "en": "Şirket bir parti yeni ekipman satın aldı."
+      },
+      {
+        "zh": "他们最近购置了一套新房。",
+        "pinyin": "Tāmen zuìjìn gòuzhì le yí tào xīn fáng.",
+        "en": "Yakın zamanda yeni bir ev satın aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w3502",
+    "hanzi": "辜负",
+    "pinyin": "gūfù",
+    "meaning": "hayal kırıklığına uğratmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我不会辜负你的期望。",
+        "pinyin": "Wǒ bú huì gūfù nǐ de qīwàng.",
+        "en": "Beklentilerini boşa çıkarmayacağım."
+      },
+      {
+        "zh": "他辜负了父母的一片苦心。",
+        "pinyin": "Tā gūfù le fùmǔ de yí piàn kǔxīn.",
+        "en": "Ebeveynlerinin özverisini boşa çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w3503",
+    "hanzi": "姑且",
+    "pinyin": "gūqiě",
+    "meaning": "şimdilik, geçici olarak",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "我们姑且相信他的说法。",
+        "pinyin": "Wǒmen gūqiě xiāngxìn tā de shuōfǎ.",
+        "en": "Şimdilik onun söylediklerine inanalım."
+      },
+      {
+        "zh": "这个方案姑且先这样定下来。",
+        "pinyin": "Zhège fāng'àn gūqiě xiān zhèyàng dìng xiàlái.",
+        "en": "Bu plan şimdilik böyle kalsın."
+      }
+    ]
+  },
+  {
+    "id": "w3504",
+    "hanzi": "鼓吹",
+    "pinyin": "gǔchuī",
+    "meaning": "desteklemek, propaganda yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他一直在鼓吹这个新理论。",
+        "pinyin": "Tā yìzhí zài gǔchuī zhège xīn lǐlùn.",
+        "en": "Sürekli bu yeni teoriyi savunuyor."
+      },
+      {
+        "zh": "媒体不应该鼓吹暴力。",
+        "pinyin": "Méitǐ bù yīnggāi gǔchuī bàolì.",
+        "en": "Medya şiddeti teşvik etmemelidir."
+      }
+    ]
+  },
+  {
+    "id": "w3505",
+    "hanzi": "鼓动",
+    "pinyin": "gǔdòng",
+    "meaning": "kışkırtmak, harekete geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他鼓动大家一起参与这项活动。",
+        "pinyin": "Tā gǔdòng dàjiā yìqǐ cānyù zhè xiàng huódòng.",
+        "en": "Herkesi bu etkinliğe katılmaya teşvik etti."
+      },
+      {
+        "zh": "有人在鼓动工人罢工。",
+        "pinyin": "Yǒurén zài gǔdòng gōngrén bàgōng.",
+        "en": "Birileri işçileri greve teşvik ediyor."
+      }
+    ]
   }
 ]

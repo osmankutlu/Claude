@@ -108418,5 +108418,665 @@
         "en": "Fabrikada zehirli gaz sızıntısı meydana geldi."
       }
     ]
+  },
+  {
+    "id": "w3106",
+    "hanzi": "读者",
+    "pinyin": "dúzhě",
+    "meaning": "okuyucu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这本书吸引了很多读者。",
+        "pinyin": "Zhè běn shū xīyǐn le hěn duō dúzhě.",
+        "en": "Bu kitap birçok okuyucuyu cezbetti."
+      },
+      {
+        "zh": "作者感谢所有的读者。",
+        "pinyin": "Zuòzhě gǎnxiè suǒyǒu de dúzhě.",
+        "en": "Yazar tüm okuyucularına teşekkür etti."
+      },
+      {
+        "zh": "这份杂志的读者主要是年轻人。",
+        "pinyin": "Zhè fèn zázhì de dúzhě zhǔyào shì niánqīng rén.",
+        "en": "Bu derginin okuyucuları çoğunlukla gençlerdir."
+      },
+      {
+        "zh": "读者可以在网上留言评论。",
+        "pinyin": "Dúzhě kěyǐ zài wǎngshàng liúyán pínglùn.",
+        "en": "Okuyucular internette yorum bırakabilir."
+      },
+      {
+        "zh": "这个故事深深打动了读者。",
+        "pinyin": "Zhège gùshi shēnshēn dǎdòng le dúzhě.",
+        "en": "Bu hikaye okuyucuları derinden etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w3107",
+    "hanzi": "读音",
+    "pinyin": "dúyīn",
+    "meaning": "telaffuz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这个字的读音很难。",
+        "pinyin": "Zhège zì de dúyīn hěn nán.",
+        "en": "Bu karakterin telaffuzu zor."
+      },
+      {
+        "zh": "请纠正我的读音。",
+        "pinyin": "Qǐng jiūzhèng wǒ de dúyīn.",
+        "en": "Lütfen telaffuzumu düzeltin."
+      },
+      {
+        "zh": "不同地区的读音可能不一样。",
+        "pinyin": "Bùtóng dìqū de dúyīn kěnéng bù yíyàng.",
+        "en": "Farklı bölgelerin telaffuzu farklı olabilir."
+      },
+      {
+        "zh": "这个词有两种读音。",
+        "pinyin": "Zhège cí yǒu liǎng zhǒng dúyīn.",
+        "en": "Bu kelimenin iki farklı telaffuzu var."
+      },
+      {
+        "zh": "老师示范了正确的读音。",
+        "pinyin": "Lǎoshī shìfàn le zhèngquè de dúyīn.",
+        "en": "Öğretmen doğru telaffuzu örnek olarak gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w3108",
+    "hanzi": "赌博",
+    "pinyin": "dǔbó",
+    "meaning": "kumar oynamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "赌博会让人倾家荡产。",
+        "pinyin": "Dǔbó huì ràng rén qīngjiā-dàngchǎn.",
+        "en": "Kumar insanı iflasa sürükleyebilir."
+      },
+      {
+        "zh": "他因为赌博欠了很多债。",
+        "pinyin": "Tā yīnwèi dǔbó qiàn le hěn duō zhài.",
+        "en": "Kumar yüzünden çok borçlandı."
+      },
+      {
+        "zh": "政府禁止公共场所赌博。",
+        "pinyin": "Zhèngfǔ jìnzhǐ gōnggòng chǎngsuǒ dǔbó.",
+        "en": "Hükümet kamuya açık alanlarda kumarı yasakladı."
+      },
+      {
+        "zh": "他戒掉了赌博的坏习惯。",
+        "pinyin": "Tā jièdiào le dǔbó de huài xíguàn.",
+        "en": "Kumar oynama alışkanlığını bıraktı."
+      },
+      {
+        "zh": "赌博破坏了他的家庭生活。",
+        "pinyin": "Dǔbó pòhuài le tā de jiātíng shēnghuó.",
+        "en": "Kumar aile hayatını mahvetti."
+      }
+    ]
+  },
+  {
+    "id": "w3109",
+    "hanzi": "渡口",
+    "pinyin": "dùkǒu",
+    "meaning": "iskele, geçiş noktası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "渡口边停靠着几艘小船。",
+        "pinyin": "Dùkǒu biān tíngkào zhe jǐ sōu xiǎo chuán.",
+        "en": "İskelede birkaç küçük tekne bağlı."
+      },
+      {
+        "zh": "我们在渡口等船过河。",
+        "pinyin": "Wǒmen zài dùkǒu děng chuán guò hé.",
+        "en": "Nehri geçmek için iskelede tekne bekliyoruz."
+      },
+      {
+        "zh": "这个渡口是重要的交通枢纽。",
+        "pinyin": "Zhège dùkǒu shì zhòngyào de jiāotōng shūniǔ.",
+        "en": "Bu iskele önemli bir ulaşım merkezidir."
+      },
+      {
+        "zh": "渡口每天都有很多人来往。",
+        "pinyin": "Dùkǒu měitiān dōu yǒu hěn duō rén láiwǎng.",
+        "en": "İskeleden her gün birçok kişi gelip geçer."
+      },
+      {
+        "zh": "古代渡口曾是繁忙的商贸中心。",
+        "pinyin": "Gǔdài dùkǒu céng shì fánmáng de shāngmào zhōngxīn.",
+        "en": "Antik iskele bir zamanlar yoğun bir ticaret merkeziydi."
+      }
+    ]
+  },
+  {
+    "id": "w3110",
+    "hanzi": "短路",
+    "pinyin": "duǎnlù",
+    "meaning": "kısa devre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "电线短路引发了火灾。",
+        "pinyin": "Diànxiàn duǎnlù yǐnfā le huǒzāi.",
+        "en": "Kablodaki kısa devre yangına yol açtı."
+      },
+      {
+        "zh": "电工检查出是短路造成的故障。",
+        "pinyin": "Diàngōng jiǎnchá chū shì duǎnlù zàochéng de gùzhàng.",
+        "en": "Elektrikçi arızanın kısa devreden kaynaklandığını tespit etti."
+      },
+      {
+        "zh": "请注意用电安全，避免短路。",
+        "pinyin": "Qǐng zhùyì yòngdiàn ānquán, bìmiǎn duǎnlù.",
+        "en": "Lütfen elektrik güvenliğine dikkat edin, kısa devreden kaçının."
+      },
+      {
+        "zh": "这台设备因短路而停止工作。",
+        "pinyin": "Zhè tái shèbèi yīn duǎnlù ér tíngzhǐ gōngzuò.",
+        "en": "Bu cihaz kısa devre nedeniyle çalışmayı durdurdu."
+      },
+      {
+        "zh": "老鼠咬断电线导致了短路。",
+        "pinyin": "Lǎoshǔ yǎoduàn diànxiàn dǎozhì le duǎnlù.",
+        "en": "Fare kabloyu kemirerek kısa devreye neden oldu."
+      }
+    ]
+  },
+  {
+    "id": "w3111",
+    "hanzi": "短期",
+    "pinyin": "duǎnqī",
+    "meaning": "kısa vadeli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他制定了一个短期计划。",
+        "pinyin": "Tā zhìdìng le yí ge duǎnqī jìhuà.",
+        "en": "Kısa vadeli bir plan hazırladı."
+      },
+      {
+        "zh": "这是一份短期工作合同。",
+        "pinyin": "Zhè shì yí fèn duǎnqī gōngzuò hétong.",
+        "en": "Bu kısa vadeli bir iş sözleşmesi."
+      },
+      {
+        "zh": "短期内很难看到明显效果。",
+        "pinyin": "Duǎnqī nèi hěn nán kàndào míngxiǎn xiàoguǒ.",
+        "en": "Kısa vadede belirgin bir sonuç görmek zor."
+      },
+      {
+        "zh": "她只打算短期居住在这里。",
+        "pinyin": "Tā zhǐ dǎsuàn duǎnqī jūzhù zài zhèlǐ.",
+        "en": "Burada sadece kısa süreliğine yaşamayı planlıyor."
+      },
+      {
+        "zh": "公司提供短期培训课程。",
+        "pinyin": "Gōngsī tígōng duǎnqī péixùn kèchéng.",
+        "en": "Şirket kısa süreli eğitim kursları sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w3112",
+    "hanzi": "短语",
+    "pinyin": "duǎnyǔ",
+    "meaning": "deyim, kısa ibare",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请用这个短语造句。",
+        "pinyin": "Qǐng yòng zhège duǎnyǔ zàojù.",
+        "en": "Lütfen bu ibareyi kullanarak cümle kurun."
+      },
+      {
+        "zh": "这个短语的意思是什么？",
+        "pinyin": "Zhège duǎnyǔ de yìsi shì shénme?",
+        "en": "Bu ibarenin anlamı nedir?"
+      },
+      {
+        "zh": "她学会了很多常用短语。",
+        "pinyin": "Tā xuéhuì le hěn duō chángyòng duǎnyǔ.",
+        "en": "Birçok yaygın kullanılan ibareyi öğrendi."
+      },
+      {
+        "zh": "这个短语在口语中经常使用。",
+        "pinyin": "Zhège duǎnyǔ zài kǒuyǔ zhōng jīngcháng shǐyòng.",
+        "en": "Bu ibare günlük konuşmada sıkça kullanılır."
+      },
+      {
+        "zh": "老师让我们记住这些短语。",
+        "pinyin": "Lǎoshī ràng wǒmen jìzhu zhèxiē duǎnyǔ.",
+        "en": "Öğretmen bu ibareleri ezberlememizi istedi."
+      }
+    ]
+  },
+  {
+    "id": "w3113",
+    "hanzi": "短暂",
+    "pinyin": "duǎnzàn",
+    "meaning": "kısa, geçici",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这段快乐时光十分短暂。",
+        "pinyin": "Zhè duàn kuàilè shíguāng shífēn duǎnzàn.",
+        "en": "Bu mutlu an çok kısaydı."
+      },
+      {
+        "zh": "假期总是过得很短暂。",
+        "pinyin": "Jiàqī zǒngshì guò de hěn duǎnzàn.",
+        "en": "Tatiller her zaman çok kısa geçer."
+      },
+      {
+        "zh": "生命是短暂的，要珍惜每一天。",
+        "pinyin": "Shēngmìng shì duǎnzàn de, yào zhēnxī měi yì tiān.",
+        "en": "Hayat kısadır, her günü değerlendirmeliyiz."
+      },
+      {
+        "zh": "他们只有短暂的相处时间。",
+        "pinyin": "Tāmen zhǐyǒu duǎnzàn de xiāngchǔ shíjiān.",
+        "en": "Sadece kısa bir birliktelik süreleri var."
+      },
+      {
+        "zh": "这场雨来得快，去得也短暂。",
+        "pinyin": "Zhè chǎng yǔ lái de kuài, qù de yě duǎnzàn.",
+        "en": "Bu yağmur hızlı geldi, geçmesi de kısa sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w3114",
+    "hanzi": "段落",
+    "pinyin": "duànluò",
+    "meaning": "paragraf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "请阅读第一个段落。",
+        "pinyin": "Qǐng yuèdú dì-yī ge duànluò.",
+        "en": "Lütfen ilk paragrafı okuyun."
+      },
+      {
+        "zh": "这篇文章分成了三个段落。",
+        "pinyin": "Zhè piān wénzhāng fēnchéng le sān ge duànluò.",
+        "en": "Bu makale üç paragrafa bölünmüştür."
+      },
+      {
+        "zh": "每个段落都应该有一个中心思想。",
+        "pinyin": "Měi ge duànluò dōu yīnggāi yǒu yí ge zhōngxīn sīxiǎng.",
+        "en": "Her paragrafın bir ana fikri olmalıdır."
+      },
+      {
+        "zh": "老师让我们总结这个段落的意思。",
+        "pinyin": "Lǎoshī ràng wǒmen zǒngjié zhège duànluò de yìsi.",
+        "en": "Öğretmen bu paragrafın anlamını özetlememizi istedi."
+      },
+      {
+        "zh": "请在这个段落之间加一个空行。",
+        "pinyin": "Qǐng zài zhège duànluò zhījiān jiā yí ge kōngháng.",
+        "en": "Lütfen bu paragraflar arasına bir boş satır ekleyin."
+      }
+    ]
+  },
+  {
+    "id": "w3115",
+    "hanzi": "对策",
+    "pinyin": "duìcè",
+    "meaning": "karşı önlem, strateji",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "政府正在制定应对气候变化的对策。",
+        "pinyin": "Zhèngfǔ zhèngzài zhìdìng yìngduì qìhòu biànhuà de duìcè.",
+        "en": "Hükümet iklim değişikliğine karşı stratejiler geliştiriyor."
+      },
+      {
+        "zh": "我们需要想出一个有效的对策。",
+        "pinyin": "Wǒmen xūyào xiǎngchū yí ge yǒuxiào de duìcè.",
+        "en": "Etkili bir çözüm bulmamız gerekiyor."
+      },
+      {
+        "zh": "面对困难，他很快找到了对策。",
+        "pinyin": "Miànduì kùnnan, tā hěn kuài zhǎodào le duìcè.",
+        "en": "Zorlukla karşılaştığında hızlıca bir çözüm buldu."
+      },
+      {
+        "zh": "公司制定了新的市场对策。",
+        "pinyin": "Gōngsī zhìdìng le xīn de shìchǎng duìcè.",
+        "en": "Şirket yeni bir pazar stratejisi geliştirdi."
+      },
+      {
+        "zh": "专家提出了几种可行的对策。",
+        "pinyin": "Zhuānjiā tíchū le jǐ zhǒng kěxíng de duìcè.",
+        "en": "Uzmanlar birkaç uygulanabilir çözüm önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w3116",
+    "hanzi": "对付",
+    "pinyin": "duìfu",
+    "meaning": "başa çıkmak, idare etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们要想办法对付这个问题。",
+        "pinyin": "Wǒmen yào xiǎng bànfǎ duìfu zhège wèntí.",
+        "en": "Bu sorunla başa çıkmanın bir yolunu bulmalıyız."
+      },
+      {
+        "zh": "他很擅长对付难缠的顾客。",
+        "pinyin": "Tā hěn shàncháng duìfu nánchán de gùkè.",
+        "en": "Zor müşterilerle başa çıkmakta çok iyidir."
+      },
+      {
+        "zh": "这种药可以对付大部分细菌。",
+        "pinyin": "Zhè zhǒng yào kěyǐ duìfu dà bùfen xìjūn.",
+        "en": "Bu ilaç bakterilerin çoğuyla başa çıkabilir."
+      },
+      {
+        "zh": "面对压力，她学会了如何对付。",
+        "pinyin": "Miànduì yālì, tā xuéhuì le rúhé duìfu.",
+        "en": "Baskıyla nasıl başa çıkacağını öğrendi."
+      },
+      {
+        "zh": "这件事情不好对付。",
+        "pinyin": "Zhè jiàn shìqing bù hǎo duìfu.",
+        "en": "Bu iş kolay değil, idare etmesi zor."
+      }
+    ]
+  },
+  {
+    "id": "w3117",
+    "hanzi": "对抗",
+    "pinyin": "duìkàng",
+    "meaning": "direnmek, karşı koymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "人民奋起对抗侵略者。",
+        "pinyin": "Rénmín fènqǐ duìkàng qīnlüèzhě.",
+        "en": "Halk işgalcilere karşı direndi."
+      },
+      {
+        "zh": "身体需要抵抗力来对抗病毒。",
+        "pinyin": "Shēntǐ xūyào dǐkànglì lái duìkàng bìngdú.",
+        "en": "Vücudun virüslere karşı direnç göstermesi gerekir."
+      },
+      {
+        "zh": "两队在比赛中激烈对抗。",
+        "pinyin": "Liǎng duì zài bǐsài zhōng jīliè duìkàng.",
+        "en": "İki takım maçta şiddetle mücadele etti."
+      },
+      {
+        "zh": "他选择用和平方式对抗不公。",
+        "pinyin": "Tā xuǎnzé yòng hépíng fāngshì duìkàng bùgōng.",
+        "en": "Adaletsizliğe karşı barışçıl bir yöntemle direnmeyi seçti."
+      },
+      {
+        "zh": "公司之间的对抗越来越激烈。",
+        "pinyin": "Gōngsī zhījiān de duìkàng yuè lái yuè jīliè.",
+        "en": "Şirketler arasındaki rekabet giderek şiddetleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w3118",
+    "hanzi": "对联",
+    "pinyin": "duìlián",
+    "meaning": "karşıt beyit",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "春节时家家户户都贴对联。",
+        "pinyin": "Chūnjié shí jiājiāhùhù dōu tiē duìlián.",
+        "en": "Bahar Bayramı'nda her ev kapılarına dizeler asar."
+      },
+      {
+        "zh": "这副对联写得非常工整。",
+        "pinyin": "Zhè fù duìlián xiě de fēicháng gōngzhěng.",
+        "en": "Bu beyit çok düzgün yazılmış."
+      },
+      {
+        "zh": "他擅长写春联和对联。",
+        "pinyin": "Tā shàncháng xiě chūnlián hé duìlián.",
+        "en": "Bahar dizeleri ve karşıt beyitler yazmakta ustadır."
+      },
+      {
+        "zh": "门上的对联表达了美好的祝愿。",
+        "pinyin": "Mén shàng de duìlián biǎodá le měihǎo de zhùyuàn.",
+        "en": "Kapının üzerindeki dizeler güzel dilekleri ifade ediyor."
+      },
+      {
+        "zh": "老师教我们怎么写对联。",
+        "pinyin": "Lǎoshī jiāo wǒmen zěnme xiě duìlián.",
+        "en": "Öğretmen bize nasıl beyit yazılacağını öğretti."
+      }
+    ]
+  },
+  {
+    "id": "w3119",
+    "hanzi": "对应",
+    "pinyin": "duìyìng",
+    "meaning": "karşılık gelen, uygun",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "每个问题都有对应的答案。",
+        "pinyin": "Měi ge wèntí dōu yǒu duìyìng de dá'àn.",
+        "en": "Her sorunun karşılık gelen bir cevabı vardır."
+      },
+      {
+        "zh": "这两个词在意义上是对应的。",
+        "pinyin": "Zhè liǎng ge cí zài yìyì shàng shì duìyìng de.",
+        "en": "Bu iki kelime anlam bakımından birbirine karşılık geliyor."
+      },
+      {
+        "zh": "请找出图表中对应的数字。",
+        "pinyin": "Qǐng zhǎochū túbiǎo zhōng duìyìng de shùzì.",
+        "en": "Lütfen tablodaki karşılık gelen sayıyı bulun."
+      },
+      {
+        "zh": "每种颜色对应一种情绪。",
+        "pinyin": "Měi zhǒng yánsè duìyìng yì zhǒng qíngxù.",
+        "en": "Her renk bir duyguya karşılık gelir."
+      },
+      {
+        "zh": "这个中文词没有对应的英文单词。",
+        "pinyin": "Zhège Zhōngwén cí méiyǒu duìyìng de Yīngwén dāncí.",
+        "en": "Bu Çince kelimenin karşılığı olan bir İngilizce kelime yok."
+      }
+    ]
+  },
+  {
+    "id": "w3120",
+    "hanzi": "对照",
+    "pinyin": "duìzhào",
+    "meaning": "karşılaştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请把这两份文件对照一下。",
+        "pinyin": "Qǐng bǎ zhè liǎng fèn wénjiàn duìzhào yíxià.",
+        "en": "Lütfen bu iki belgeyi karşılaştırın."
+      },
+      {
+        "zh": "我们把答案和标准答案对照。",
+        "pinyin": "Wǒmen bǎ dá'àn hé biāozhǔn dá'àn duìzhào.",
+        "en": "Cevaplarımızı standart cevaplarla karşılaştırdık."
+      },
+      {
+        "zh": "通过对照可以发现很多差异。",
+        "pinyin": "Tōngguò duìzhào kěyǐ fāxiàn hěn duō chāyì.",
+        "en": "Karşılaştırma yoluyla birçok fark keşfedilebilir."
+      },
+      {
+        "zh": "这本书是中英对照的。",
+        "pinyin": "Zhè běn shū shì Zhōng-Yīng duìzhào de.",
+        "en": "Bu kitap Çince-İngilizce karşılaştırmalıdır."
+      },
+      {
+        "zh": "请对照原文检查翻译是否准确。",
+        "pinyin": "Qǐng duìzhào yuánwén jiǎnchá fānyì shìfǒu zhǔnquè.",
+        "en": "Lütfen orijinal metinle karşılaştırarak çevirinin doğruluğunu kontrol edin."
+      }
+    ]
+  },
+  {
+    "id": "w3121",
+    "hanzi": "兑换",
+    "pinyin": "duìhuàn",
+    "meaning": "para değiştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "我想把美元兑换成人民币。",
+        "pinyin": "Wǒ xiǎng bǎ Měiyuán duìhuàn chéng Rénmínbì.",
+        "en": "Doları Yuan'a çevirmek istiyorum."
+      },
+      {
+        "zh": "银行提供外币兑换服务。",
+        "pinyin": "Yínháng tígōng wàibì duìhuàn fúwù.",
+        "en": "Banka döviz değişim hizmeti sunuyor."
+      },
+      {
+        "zh": "请问在哪里可以兑换外币？",
+        "pinyin": "Qǐngwèn zài nǎlǐ kěyǐ duìhuàn wàibì?",
+        "en": "Nerede döviz değiştirebilirim acaba?"
+      },
+      {
+        "zh": "今天的兑换汇率不太好。",
+        "pinyin": "Jīntiān de duìhuàn huìlǜ bú tài hǎo.",
+        "en": "Bugünkü döviz kuru pek iyi değil."
+      },
+      {
+        "zh": "他去机场兑换了一些日元。",
+        "pinyin": "Tā qù jīchǎng duìhuàn le yìxiē Rìyuán.",
+        "en": "Havaalanında biraz Japon Yeni'ne para bozdurdu."
+      }
+    ]
+  },
+  {
+    "id": "w3122",
+    "hanzi": "杜绝",
+    "pinyin": "dùjué",
+    "meaning": "önlemek, kesinlikle engellemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们必须杜绝浪费现象。",
+        "pinyin": "Wǒmen bìxū dùjué làngfèi xiànxiàng.",
+        "en": "İsraf olgusunu kesinlikle önlemeliyiz."
+      },
+      {
+        "zh": "学校采取措施杜绝作弊行为。",
+        "pinyin": "Xuéxiào cǎiqǔ cuòshī dùjué zuòbì xíngwéi.",
+        "en": "Okul kopya çekmeyi önlemek için önlemler aldı."
+      }
+    ]
+  },
+  {
+    "id": "w3123",
+    "hanzi": "短缺",
+    "pinyin": "duǎnquē",
+    "meaning": "eksiklik, kıtlık",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这个地区面临水资源短缺问题。",
+        "pinyin": "Zhège dìqū miànlín shuǐ zīyuán duǎnquē wèntí.",
+        "en": "Bu bölge su kaynakları kıtlığı sorunuyla karşı karşıya."
+      },
+      {
+        "zh": "公司正面临人才短缺的困境。",
+        "pinyin": "Gōngsī zhèng miànlín réncái duǎnquē de kùnjìng.",
+        "en": "Şirket yetenekli personel eksikliği sıkıntısı yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3124",
+    "hanzi": "断定",
+    "pinyin": "duàndìng",
+    "meaning": "kesin karar vermek, hükmetmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "医生断定他患的是普通感冒。",
+        "pinyin": "Yīshēng duàndìng tā huàn de shì pǔtōng gǎnmào.",
+        "en": "Doktor onun normal bir soğuk algınlığı geçirdiğine kesin karar verdi."
+      },
+      {
+        "zh": "警方还不能断定这是意外事故。",
+        "pinyin": "Jǐngfāng hái bù néng duàndìng zhè shì yìwài shìgù.",
+        "en": "Polis bunun kaza olduğuna henüz kesin karar veremiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3125",
+    "hanzi": "断绝",
+    "pinyin": "duànjué",
+    "meaning": "kesmek, koparmak (ilişki)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他和家人断绝了联系。",
+        "pinyin": "Tā hé jiārén duànjué le liánxì.",
+        "en": "Ailesiyle ilişkisini kesti."
+      },
+      {
+        "zh": "两国断绝了外交关系。",
+        "pinyin": "Liǎng guó duànjué le wàijiāo guānxi.",
+        "en": "İki ülke diplomatik ilişkilerini kesti."
+      }
+    ]
   }
 ]

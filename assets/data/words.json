@@ -117451,5 +117451,599 @@
         "en": "Örgüt net bir eylem programı belirledi."
       }
     ]
+  },
+  {
+    "id": "w3406",
+    "hanzi": "高度",
+    "pinyin": "gāodù",
+    "meaning": "yükseklik",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "ölçüm",
+    "examples": [
+      {
+        "zh": "这座塔的高度是一百米。",
+        "pinyin": "Zhè zuò tǎ de gāodù shì yìbǎi mǐ.",
+        "en": "Bu kulenin yüksekliği yüz metredir."
+      },
+      {
+        "zh": "飞机正在调整飞行高度。",
+        "pinyin": "Fēijī zhèngzài tiáozhěng fēixíng gāodù.",
+        "en": "Uçak uçuş yüksekliğini ayarlıyor."
+      },
+      {
+        "zh": "请测量一下这棵树的高度。",
+        "pinyin": "Qǐng cèliáng yíxià zhè kē shù de gāodù.",
+        "en": "Lütfen bu ağacın yüksekliğini ölçün."
+      },
+      {
+        "zh": "山的高度超过了三千米。",
+        "pinyin": "Shān de gāodù chāoguò le sānqiān mǐ.",
+        "en": "Dağın yüksekliği üç bin metreyi aştı."
+      },
+      {
+        "zh": "我们对这个问题给予高度重视。",
+        "pinyin": "Wǒmen duì zhège wèntí jǐyǔ gāodù zhòngshì.",
+        "en": "Bu soruna büyük önem veriyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w3408",
+    "hanzi": "高温",
+    "pinyin": "gāowēn",
+    "meaning": "yüksek sıcaklık",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "今天是高温天气。",
+        "pinyin": "Jīntiān shì gāowēn tiānqì.",
+        "en": "Bugün hava sıcak."
+      },
+      {
+        "zh": "请注意防止高温中暑。",
+        "pinyin": "Qǐng zhùyì fángzhǐ gāowēn zhòngshǔ.",
+        "en": "Lütfen sıcak çarpmasına karşı dikkatli olun."
+      },
+      {
+        "zh": "高温使食物容易变质。",
+        "pinyin": "Gāowēn shǐ shíwù róngyì biànzhì.",
+        "en": "Yüksek sıcaklık yiyeceklerin kolayca bozulmasına neden olur."
+      },
+      {
+        "zh": "这种材料能承受高温。",
+        "pinyin": "Zhè zhǒng cáiliào néng chéngshòu gāowēn.",
+        "en": "Bu malzeme yüksek sıcaklığa dayanabilir."
+      },
+      {
+        "zh": "连续高温天气持续了一周。",
+        "pinyin": "Liánxù gāowēn tiānqì chíxù le yì zhōu.",
+        "en": "Sürekli sıcak hava bir hafta boyunca devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w3409",
+    "hanzi": "糕点",
+    "pinyin": "gāodiǎn",
+    "meaning": "pasta, hamur işi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "她做了很多美味的糕点。",
+        "pinyin": "Tā zuò le hěn duō měiwèi de gāodiǎn.",
+        "en": "Birçok lezzetli hamur işi yaptı."
+      },
+      {
+        "zh": "这家店的糕点很有名。",
+        "pinyin": "Zhè jiā diàn de gāodiǎn hěn yǒumíng.",
+        "en": "Bu dükkanın hamur işleri çok meşhur."
+      },
+      {
+        "zh": "中秋节要吃传统糕点。",
+        "pinyin": "Zhōngqiūjié yào chī chuántǒng gāodiǎn.",
+        "en": "Sonbahar Ortası Bayramı'nda geleneksel hamur işleri yenir."
+      },
+      {
+        "zh": "妈妈买了一盒精致的糕点。",
+        "pinyin": "Māma mǎi le yì hé jīngzhì de gāodiǎn.",
+        "en": "Annem güzel bir kutu hamur işi aldı."
+      },
+      {
+        "zh": "他喜欢下午茶时间吃糕点。",
+        "pinyin": "Tā xǐhuan xiàwǔchá shíjiān chī gāodiǎn.",
+        "en": "İkindi çayı vaktinde hamur işi yemeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w3410",
+    "hanzi": "岗位",
+    "pinyin": "gǎngwèi",
+    "meaning": "mevki, görev yeri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他坚守在自己的工作岗位上。",
+        "pinyin": "Tā jiānshǒu zài zìjǐ de gōngzuò gǎngwèi shàng.",
+        "en": "Kendi görev yerinde sebat ediyor."
+      },
+      {
+        "zh": "这个岗位需要丰富的经验。",
+        "pinyin": "Zhège gǎngwèi xūyào fēngfù de jīngyàn.",
+        "en": "Bu görev yeri zengin deneyim gerektiriyor."
+      },
+      {
+        "zh": "她被调到了新的岗位。",
+        "pinyin": "Tā bèi diào dào le xīn de gǎngwèi.",
+        "en": "Yeni bir göreve nakledildi."
+      },
+      {
+        "zh": "每个岗位都有明确的职责。",
+        "pinyin": "Měi ge gǎngwèi dōu yǒu míngquè de zhízé.",
+        "en": "Her görev yerinin net sorumlulukları vardır."
+      },
+      {
+        "zh": "他在这个岗位上工作了十年。",
+        "pinyin": "Tā zài zhège gǎngwèi shàng gōngzuò le shí nián.",
+        "en": "Bu görevde on yıl çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w3411",
+    "hanzi": "高潮",
+    "pinyin": "gāocháo",
+    "meaning": "zirve, doruk (olay örgüsü)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "故事在这里达到了高潮。",
+        "pinyin": "Gùshi zài zhèlǐ dádào le gāocháo.",
+        "en": "Hikaye burada doruk noktasına ulaştı."
+      },
+      {
+        "zh": "演唱会进入了高潮部分。",
+        "pinyin": "Yǎnchànghuì jìnrù le gāocháo bùfen.",
+        "en": "Konser zirve bölümüne girdi."
+      },
+      {
+        "zh": "比赛的高潮出现在最后一分钟。",
+        "pinyin": "Bǐsài de gāocháo chūxiàn zài zuìhòu yì fēnzhōng.",
+        "en": "Maçın doruk noktası son dakikada yaşandı."
+      },
+      {
+        "zh": "这部电影的高潮令人印象深刻。",
+        "pinyin": "Zhè bù diànyǐng de gāocháo lìng rén yìnxiàng shēnkè.",
+        "en": "Bu filmin doruk noktası insanda derin izlenim bırakıyor."
+      },
+      {
+        "zh": "会议在讨论中达到了高潮。",
+        "pinyin": "Huìyì zài tǎolùn zhōng dádào le gāocháo.",
+        "en": "Toplantı tartışma sırasında doruğa ulaştı."
+      }
+    ]
+  },
+  {
+    "id": "w3412",
+    "hanzi": "高等",
+    "pinyin": "gāoděng",
+    "meaning": "yüksek, ileri (eğitim)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他接受了高等教育。",
+        "pinyin": "Tā jiēshòu le gāoděng jiàoyù.",
+        "en": "Yüksek öğrenim gördü."
+      },
+      {
+        "zh": "这所大学是一所高等学府。",
+        "pinyin": "Zhè suǒ dàxué shì yì suǒ gāoděng xuéfǔ.",
+        "en": "Bu üniversite bir yüksek öğrenim kurumudur."
+      },
+      {
+        "zh": "高等数学对很多学生来说很难。",
+        "pinyin": "Gāoděng shùxué duì hěn duō xuésheng láishuō hěn nán.",
+        "en": "Yüksek matematik birçok öğrenci için zordur."
+      },
+      {
+        "zh": "越来越多的人接受高等教育。",
+        "pinyin": "Yuè lái yuè duō de rén jiēshòu gāoděng jiàoyù.",
+        "en": "Giderek daha fazla insan yüksek öğrenim görüyor."
+      },
+      {
+        "zh": "这个专业需要高等院校的学历。",
+        "pinyin": "Zhège zhuānyè xūyào gāoděng yuànxiào de xuélì.",
+        "en": "Bu meslek yüksek öğrenim diploması gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3413",
+    "hanzi": "高贵",
+    "pinyin": "gāoguì",
+    "meaning": "asil, soylu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她举止高贵优雅。",
+        "pinyin": "Tā jǔzhǐ gāoguì yōuyǎ.",
+        "en": "Davranışları asil ve zarif."
+      },
+      {
+        "zh": "这件礼服显得非常高贵。",
+        "pinyin": "Zhè jiàn lǐfú xiǎnde fēicháng gāoguì.",
+        "en": "Bu elbise son derece asil görünüyor."
+      },
+      {
+        "zh": "他拥有高贵的品格。",
+        "pinyin": "Tā yōngyǒu gāoguì de pǐngé.",
+        "en": "Asil bir karaktere sahip."
+      },
+      {
+        "zh": "皇室成员通常表现得十分高贵。",
+        "pinyin": "Huángshì chéngyuán tōngcháng biǎoxiàn de shífēn gāoguì.",
+        "en": "Kraliyet üyeleri genellikle son derece asil davranır."
+      },
+      {
+        "zh": "她散发出一种高贵的气质。",
+        "pinyin": "Tā sànfāchū yì zhǒng gāoguì de qìzhì.",
+        "en": "Asil bir hava yayıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3414",
+    "hanzi": "高手",
+    "pinyin": "gāoshǒu",
+    "meaning": "usta, uzman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是象棋高手。",
+        "pinyin": "Tā shì xiàngqí gāoshǒu.",
+        "en": "O bir satranç ustasıdır."
+      },
+      {
+        "zh": "这次比赛聚集了很多武术高手。",
+        "pinyin": "Zhè cì bǐsài jùjí le hěn duō wǔshù gāoshǒu.",
+        "en": "Bu yarışma birçok dövüş sanatları ustasını bir araya getirdi."
+      },
+      {
+        "zh": "她是烹饪高手。",
+        "pinyin": "Tā shì pēngrèn gāoshǒu.",
+        "en": "O bir yemek pişirme ustasıdır."
+      },
+      {
+        "zh": "他很快就成为了游戏高手。",
+        "pinyin": "Tā hěn kuài jiù chéngwéi le yóuxì gāoshǒu.",
+        "en": "Kısa sürede oyun ustası oldu."
+      },
+      {
+        "zh": "高手过招总是精彩纷呈。",
+        "pinyin": "Gāoshǒu guòzhāo zǒngshì jīngcǎi fēnchéng.",
+        "en": "Ustaların karşılaşması her zaman heyecan vericidir."
+      }
+    ]
+  },
+  {
+    "id": "w3415",
+    "hanzi": "高血压",
+    "pinyin": "gāoxuèyā",
+    "meaning": "yüksek tansiyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他患有高血压。",
+        "pinyin": "Tā huàn yǒu gāoxuèyā.",
+        "en": "Yüksek tansiyon hastasıdır."
+      },
+      {
+        "zh": "医生建议他减少盐分摄入以控制高血压。",
+        "pinyin": "Yīshēng jiànyì tā jiǎnshǎo yánfèn shèrù yǐ kòngzhì gāoxuèyā.",
+        "en": "Doktor yüksek tansiyonu kontrol altına almak için tuz alımını azaltmasını önerdi."
+      },
+      {
+        "zh": "高血压是常见的慢性病之一。",
+        "pinyin": "Gāoxuèyā shì chángjiàn de mànxìngbìng zhī yī.",
+        "en": "Yüksek tansiyon yaygın kronik hastalıklardan biridir."
+      },
+      {
+        "zh": "定期测量血压有助于早期发现高血压。",
+        "pinyin": "Dìngqī cèliáng xuèyā yǒuzhùyú zǎoqī fāxiàn gāoxuèyā.",
+        "en": "Düzenli tansiyon ölçümü yüksek tansiyonun erken tespit edilmesine yardımcı olur."
+      },
+      {
+        "zh": "高血压患者需要注意饮食习惯。",
+        "pinyin": "Gāoxuèyā huànzhě xūyào zhùyì yǐnshí xíguàn.",
+        "en": "Yüksek tansiyon hastalarının beslenme alışkanlıklarına dikkat etmesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3416",
+    "hanzi": "高压",
+    "pinyin": "gāoyā",
+    "meaning": "yüksek basınç/voltaj",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这条电线是高压电线，非常危险。",
+        "pinyin": "Zhè tiáo diànxiàn shì gāoyā diànxiàn, fēicháng wēixiǎn.",
+        "en": "Bu kablo yüksek voltajlı bir kablo, çok tehlikeli."
+      },
+      {
+        "zh": "高压锅可以更快地煮熟食物。",
+        "pinyin": "Gāoyāguō kěyǐ gèng kuài de zhǔshú shíwù.",
+        "en": "Düdüklü tencere yemeği daha hızlı pişirebilir."
+      },
+      {
+        "zh": "请远离高压电塔。",
+        "pinyin": "Qǐng yuǎnlí gāoyā diàntǎ.",
+        "en": "Lütfen yüksek gerilim direklerinden uzak durun."
+      },
+      {
+        "zh": "高压环境下工作压力很大。",
+        "pinyin": "Gāoyā huánjìng xià gōngzuò yālì hěn dà.",
+        "en": "Yüksek baskılı bir ortamda çalışmak çok stresli."
+      },
+      {
+        "zh": "这台设备能承受很高的压力。",
+        "pinyin": "Zhè tái shèbèi néng chéngshòu hěn gāo de yālì.",
+        "en": "Bu cihaz çok yüksek basınca dayanabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3417",
+    "hanzi": "高原",
+    "pinyin": "gāoyuán",
+    "meaning": "yayla, plato",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "青藏高原是世界上海拔最高的高原。",
+        "pinyin": "Qīngzàng gāoyuán shì shìjiè shàng hǎibá zuì gāo de gāoyuán.",
+        "en": "Tibet Platosu dünyanın en yüksek platosudur."
+      },
+      {
+        "zh": "高原气候比较寒冷干燥。",
+        "pinyin": "Gāoyuán qìhòu bǐjiào hánlěng gānzào.",
+        "en": "Yayla iklimi oldukça soğuk ve kurudur."
+      },
+      {
+        "zh": "他们前往高原地区进行科学考察。",
+        "pinyin": "Tāmen qiánwǎng gāoyuán dìqū jìnxíng kēxué kǎochá.",
+        "en": "Bilimsel araştırma için yayla bölgesine gittiler."
+      },
+      {
+        "zh": "高原上的空气比较稀薄。",
+        "pinyin": "Gāoyuán shàng de kōngqì bǐjiào xībó.",
+        "en": "Yaylalardaki hava nispeten seyrektir."
+      },
+      {
+        "zh": "这片高原风景壮丽。",
+        "pinyin": "Zhè piàn gāoyuán fēngjǐng zhuànglì.",
+        "en": "Bu yayla manzarası muhteşem."
+      }
+    ]
+  },
+  {
+    "id": "w3418",
+    "hanzi": "搞定",
+    "pinyin": "gǎodìng",
+    "meaning": "halletmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这件事已经搞定了。",
+        "pinyin": "Zhè jiàn shì yǐjīng gǎodìng le.",
+        "en": "Bu iş zaten halledildi."
+      },
+      {
+        "zh": "他很快就搞定了这个问题。",
+        "pinyin": "Tā hěn kuài jiù gǎodìng le zhège wèntí.",
+        "en": "Bu sorunu çok hızlı halletti."
+      },
+      {
+        "zh": "别担心，我会搞定的。",
+        "pinyin": "Bié dānxīn, wǒ huì gǎodìng de.",
+        "en": "Endişelenme, ben hallederim."
+      },
+      {
+        "zh": "我们需要在今天之内搞定这份合同。",
+        "pinyin": "Wǒmen xūyào zài jīntiān zhī nèi gǎodìng zhè fèn hétong.",
+        "en": "Bugün içinde bu sözleşmeyi halletmemiz gerekiyor."
+      },
+      {
+        "zh": "他终于搞定了签证手续。",
+        "pinyin": "Tā zhōngyú gǎodìng le qiānzhèng shǒuxù.",
+        "en": "Sonunda vize işlemlerini halletti."
+      }
+    ]
+  },
+  {
+    "id": "w3419",
+    "hanzi": "割断",
+    "pinyin": "gēduàn",
+    "meaning": "kesmek, koparmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用刀割断了绳子。",
+        "pinyin": "Tā yòng dāo gēduàn le shéngzi.",
+        "en": "Bıçakla ipi kesti."
+      },
+      {
+        "zh": "事故割断了电线。",
+        "pinyin": "Shìgù gēduàn le diànxiàn.",
+        "en": "Kaza elektrik kablosunu kopardı."
+      },
+      {
+        "zh": "请把这根线割断。",
+        "pinyin": "Qǐng bǎ zhè gēn xiàn gēduàn.",
+        "en": "Lütfen bu ipi kes."
+      },
+      {
+        "zh": "他决定割断与过去的联系。",
+        "pinyin": "Tā juédìng gēduàn yǔ guòqù de liánxì.",
+        "en": "Geçmişiyle olan bağlarını koparmaya karar verdi."
+      },
+      {
+        "zh": "台风割断了岛屿与大陆的联系。",
+        "pinyin": "Táifēng gēduàn le dǎoyǔ yǔ dàlù de liánxì.",
+        "en": "Tayfun adayı anakaradan kopardı."
+      }
+    ]
+  },
+  {
+    "id": "w3420",
+    "hanzi": "高龄",
+    "pinyin": "gāolíng",
+    "meaning": "ileri yaş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "她是一位高龄产妇。",
+        "pinyin": "Tā shì yí wèi gāolíng chǎnfù.",
+        "en": "İleri yaşta doğum yapan bir anne."
+      },
+      {
+        "zh": "这位高龄老人身体依然硬朗。",
+        "pinyin": "Zhè wèi gāolíng lǎorén shēntǐ yīrán yìnglǎng.",
+        "en": "Bu ileri yaştaki yaşlı hâlâ sağlıklı ve dinç."
+      }
+    ]
+  },
+  {
+    "id": "w3421",
+    "hanzi": "高尚",
+    "pinyin": "gāoshàng",
+    "meaning": "asil, yüce (karakter)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他有高尚的品德。",
+        "pinyin": "Tā yǒu gāoshàng de pǐndé.",
+        "en": "Yüce bir ahlaka sahiptir."
+      },
+      {
+        "zh": "帮助他人是一种高尚的行为。",
+        "pinyin": "Bāngzhù tārén shì yì zhǒng gāoshàng de xíngwéi.",
+        "en": "Başkalarına yardım etmek asil bir davranıştır."
+      }
+    ]
+  },
+  {
+    "id": "w3422",
+    "hanzi": "稿件",
+    "pinyin": "gǎojiàn",
+    "meaning": "taslak, müsvedde metin",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "编辑正在审阅这篇稿件。",
+        "pinyin": "Biānjí zhèngzài shěnyuè zhè piān gǎojiàn.",
+        "en": "Editör bu taslak metni inceliyor."
+      },
+      {
+        "zh": "请把稿件按时提交给出版社。",
+        "pinyin": "Qǐng bǎ gǎojiàn ànshí tíjiāo gěi chūbǎnshè.",
+        "en": "Lütfen taslağı zamanında yayınevine teslim edin."
+      }
+    ]
+  },
+  {
+    "id": "w3423",
+    "hanzi": "告辞",
+    "pinyin": "gàocí",
+    "meaning": "vedalaşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "时间不早了，我该告辞了。",
+        "pinyin": "Shíjiān bù zǎo le, wǒ gāi gàocí le.",
+        "en": "Vakit geç oldu, artık vedalaşmalıyım."
+      },
+      {
+        "zh": "他向主人告辞后离开了。",
+        "pinyin": "Tā xiàng zhǔrén gàocí hòu líkāi le.",
+        "en": "Ev sahibiyle vedalaştıktan sonra ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3424",
+    "hanzi": "告诫",
+    "pinyin": "gàojiè",
+    "meaning": "uyarmak, tembih etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "老师告诫学生们要遵守纪律。",
+        "pinyin": "Lǎoshī gàojiè xuéshengmen yào zūnshǒu jìlǜ.",
+        "en": "Öğretmen öğrencileri disipline uymaları konusunda uyardı."
+      },
+      {
+        "zh": "父母告诫他不要轻信陌生人。",
+        "pinyin": "Fùmǔ gàojiè tā búyào qīngxìn mòshēngrén.",
+        "en": "Ebeveynleri yabancılara kolayca güvenmemesi konusunda onu uyardı."
+      }
+    ]
+  },
+  {
+    "id": "w3425",
+    "hanzi": "革新",
+    "pinyin": "géxīn",
+    "meaning": "yenilik yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "公司致力于技术革新。",
+        "pinyin": "Gōngsī zhìlì yú jìshù géxīn.",
+        "en": "Şirket teknolojik yeniliğe çalışıyor."
+      },
+      {
+        "zh": "他提出了一系列的革新方案。",
+        "pinyin": "Tā tíchū le yíxìliè de géxīn fāng'àn.",
+        "en": "Bir dizi yenilik önerisi sundu."
+      }
+    ]
   }
 ]

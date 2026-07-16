@@ -94738,5 +94738,344 @@
         "en": "Modern teknoloji hayata birçok kolaylık sağladı."
       }
     ]
+  },
+  {
+    "id": "w2661",
+    "hanzi": "便于",
+    "pinyin": "biànyú",
+    "meaning": "elverişli olmak, kolaylık sağlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种设计便于携带。",
+        "pinyin": "Zhè zhǒng shèjì biànyú xiédài.",
+        "en": "Bu tasarım taşımayı kolaylaştırıyor."
+      },
+      {
+        "zh": "请把文件分类，便于查找。",
+        "pinyin": "Qǐng bǎ wénjiàn fēnlèi, biànyú cházhǎo.",
+        "en": "Lütfen dosyaları sınıflandırın, böylece bulmak kolaylaşır."
+      },
+      {
+        "zh": "这个软件便于操作。",
+        "pinyin": "Zhège ruǎnjiàn biànyú cāozuò.",
+        "en": "Bu yazılımın kullanımı kolay."
+      },
+      {
+        "zh": "我们应该用简单的语言，便于理解。",
+        "pinyin": "Wǒmen yīnggāi yòng jiǎndān de yǔyán, biànyú lǐjiě.",
+        "en": "Anlaşılması kolay olsun diye basit bir dil kullanmalıyız."
+      },
+      {
+        "zh": "这个位置便于观察全局。",
+        "pinyin": "Zhège wèizhi biànyú guānchá quánjú.",
+        "en": "Bu konum genel durumu gözlemlemek için elverişli."
+      }
+    ]
+  },
+  {
+    "id": "w2662",
+    "hanzi": "标记",
+    "pinyin": "biāojì",
+    "meaning": "işaret, iz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请在重要的地方做个标记。",
+        "pinyin": "Qǐng zài zhòngyào de dìfang zuò ge biāojì.",
+        "en": "Lütfen önemli yerlere bir işaret koyun."
+      },
+      {
+        "zh": "地图上有很多标记。",
+        "pinyin": "Dìtú shàng yǒu hěn duō biāojì.",
+        "en": "Haritada birçok işaret var."
+      },
+      {
+        "zh": "她在书上做了标记。",
+        "pinyin": "Tā zài shū shàng zuò le biāojì.",
+        "en": "Kitaba işaret koydu."
+      },
+      {
+        "zh": "这个标记代表危险。",
+        "pinyin": "Zhège biāojì dàibiǎo wēixiǎn.",
+        "en": "Bu işaret tehlikeyi temsil ediyor."
+      },
+      {
+        "zh": "请找到带有红色标记的文件。",
+        "pinyin": "Qǐng zhǎodào dàiyǒu hóngsè biāojì de wénjiàn.",
+        "en": "Lütfen kırmızı işaretli belgeyi bulun."
+      }
+    ]
+  },
+  {
+    "id": "w2663",
+    "hanzi": "表白",
+    "pinyin": "biǎobái",
+    "meaning": "aşkını itiraf etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他终于向她表白了。",
+        "pinyin": "Tā zhōngyú xiàng tā biǎobái le.",
+        "en": "Sonunda ona aşkını itiraf etti."
+      },
+      {
+        "zh": "她紧张地准备着表白的话。",
+        "pinyin": "Tā jǐnzhāng de zhǔnbèi zhe biǎobái de huà.",
+        "en": "Aşk itirafı için gergin bir şekilde hazırlanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w2664",
+    "hanzi": "表决",
+    "pinyin": "biǎojué",
+    "meaning": "oylama yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "大家举手表决这个提议。",
+        "pinyin": "Dàjiā jǔshǒu biǎojué zhège tíyì.",
+        "en": "Herkes bu öneriyi el kaldırarak oyladı."
+      },
+      {
+        "zh": "会议最后进行了表决。",
+        "pinyin": "Huìyì zuìhòu jìnxíng le biǎojué.",
+        "en": "Toplantının sonunda oylama yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w2665",
+    "hanzi": "表述",
+    "pinyin": "biǎoshù",
+    "meaning": "ifade etmek, dile getirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "她清楚地表述了自己的观点。",
+        "pinyin": "Tā qīngchu de biǎoshù le zìjǐ de guāndiǎn.",
+        "en": "Kendi görüşünü açıkça ifade etti."
+      },
+      {
+        "zh": "请用简单的语言表述这个问题。",
+        "pinyin": "Qǐng yòng jiǎndān de yǔyán biǎoshù zhège wèntí.",
+        "en": "Lütfen bu sorunu basit bir dille ifade edin."
+      }
+    ]
+  },
+  {
+    "id": "w2666",
+    "hanzi": "表态",
+    "pinyin": "biǎotài",
+    "meaning": "tavrını açıkça belirtmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "领导还没有对这件事表态。",
+        "pinyin": "Lǐngdǎo hái méiyǒu duì zhè jiàn shì biǎotài.",
+        "en": "Yönetici henüz bu konuda tavrını belirtmedi."
+      },
+      {
+        "zh": "请大家就这个问题表态。",
+        "pinyin": "Qǐng dàjiā jiù zhège wèntí biǎotài.",
+        "en": "Lütfen herkes bu konuda tavrını belirtsin."
+      }
+    ]
+  },
+  {
+    "id": "w2667",
+    "hanzi": "表彰",
+    "pinyin": "biǎozhāng",
+    "meaning": "takdir etmek, onurlandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "学校表彰了成绩优秀的学生。",
+        "pinyin": "Xuéxiào biǎozhāng le chéngjì yōuxiù de xuésheng.",
+        "en": "Okul başarılı öğrencileri onurlandırdı."
+      },
+      {
+        "zh": "政府表彰了这位见义勇为的市民。",
+        "pinyin": "Zhèngfǔ biǎozhāng le zhè wèi jiànyìyǒngwéi de shìmín.",
+        "en": "Hükümet bu kahraman vatandaşı onurlandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w2668",
+    "hanzi": "别扭",
+    "pinyin": "bièniu",
+    "meaning": "tuhaf, garip, uyumsuz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这句话听起来有点别扭。",
+        "pinyin": "Zhè jù huà tīngqǐlái yǒudiǎn bièniu.",
+        "en": "Bu cümle biraz tuhaf geliyor."
+      },
+      {
+        "zh": "他们俩闹别扭了。",
+        "pinyin": "Tāmen liǎ nào bièniu le.",
+        "en": "İkisi küstü, ters düştüler."
+      }
+    ]
+  },
+  {
+    "id": "w2669",
+    "hanzi": "濒临",
+    "pinyin": "bīnlín",
+    "meaning": "eşiğinde olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种动物濒临灭绝。",
+        "pinyin": "Zhè zhǒng dòngwù bīnlín mièjué.",
+        "en": "Bu hayvan türü yok olmanın eşiğinde."
+      },
+      {
+        "zh": "公司濒临破产的边缘。",
+        "pinyin": "Gōngsī bīnlín pòchǎn de biānyuán.",
+        "en": "Şirket iflasın eşiğinde."
+      }
+    ]
+  },
+  {
+    "id": "w2670",
+    "hanzi": "宾语",
+    "pinyin": "bīnyǔ",
+    "meaning": "nesne (dilbilgisi)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "在这句话中，\"苹果\"是宾语。",
+        "pinyin": "Zài zhè jù huà zhōng, \"píngguǒ\" shì bīnyǔ.",
+        "en": "Bu cümlede \"elma\" nesnedir."
+      },
+      {
+        "zh": "学习语法时要了解主语、谓语和宾语。",
+        "pinyin": "Xuéxí yǔfǎ shí yào liǎojiě zhǔyǔ, wèiyǔ hé bīnyǔ.",
+        "en": "Dilbilgisi öğrenirken özne, yüklem ve nesneyi anlamak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w2671",
+    "hanzi": "饼",
+    "pinyin": "bǐng",
+    "meaning": "pasta, yassı ekmek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "妈妈做了一张大饼。",
+        "pinyin": "Māma zuò le yì zhāng dà bǐng.",
+        "en": "Annem büyük bir yassı ekmek yaptı."
+      },
+      {
+        "zh": "他喜欢吃煎饼。",
+        "pinyin": "Tā xǐhuan chī jiānbǐng.",
+        "en": "Kızarmış yassı ekmek yemeyi sever."
+      },
+      {
+        "zh": "中秋节要吃月饼。",
+        "pinyin": "Zhōngqiū jié yào chī yuèbǐng.",
+        "en": "Sonbahar Ortası Bayramı'nda ay keki yenir."
+      },
+      {
+        "zh": "她烤了一个饼给我吃。",
+        "pinyin": "Tā kǎo le yí ge bǐng gěi wǒ chī.",
+        "en": "Bana yemem için bir yassı ekmek pişirdi."
+      },
+      {
+        "zh": "这种饼又香又脆。",
+        "pinyin": "Zhè zhǒng bǐng yòu xiāng yòu cuì.",
+        "en": "Bu tür yassı ekmek hem kokulu hem de çıtır."
+      }
+    ]
+  },
+  {
+    "id": "w2672",
+    "hanzi": "表露",
+    "pinyin": "biǎolù",
+    "meaning": "açığa vurmak, göstermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她没有表露出任何不满。",
+        "pinyin": "Tā méiyǒu biǎolù chū rènhé bùmǎn.",
+        "en": "Herhangi bir memnuniyetsizlik göstermedi."
+      },
+      {
+        "zh": "他的表情表露了内心的紧张。",
+        "pinyin": "Tā de biǎoqíng biǎolù le nèixīn de jǐnzhāng.",
+        "en": "İfadesi içindeki gerginliği ele veriyordu."
+      }
+    ]
+  },
+  {
+    "id": "w2673",
+    "hanzi": "别针",
+    "pinyin": "biézhēn",
+    "meaning": "çengelli iğne, broş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她用别针别住了衣服的边角。",
+        "pinyin": "Tā yòng biézhēn biézhù le yīfu de biānjiǎo.",
+        "en": "Kıyafetin kenarını çengelli iğneyle tuttu."
+      },
+      {
+        "zh": "她别了一枚漂亮的别针。",
+        "pinyin": "Tā bié le yì méi piàoliang de biézhēn.",
+        "en": "Güzel bir broş taktı."
+      }
+    ]
+  },
+  {
+    "id": "w2674",
+    "hanzi": "宾客",
+    "pinyin": "bīnkè",
+    "meaning": "misafirler",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "婚礼上来了很多宾客。",
+        "pinyin": "Hūnlǐ shàng lái le hěn duō bīnkè.",
+        "en": "Düğüne birçok misafir geldi."
+      },
+      {
+        "zh": "主人热情地招待了宾客。",
+        "pinyin": "Zhǔrén rèqíng de zhāodài le bīnkè.",
+        "en": "Ev sahibi misafirleri sıcak bir şekilde ağırladı."
+      }
+    ]
   }
 ]

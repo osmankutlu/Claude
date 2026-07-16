@@ -144910,5 +144910,854 @@
         "en": "Deprem şiddetli bir sarsıntıya neden oldu."
       }
     ]
+  },
+  {
+    "id": "w4222",
+    "hanzi": "卷入",
+    "pinyin": "juǎnrù",
+    "meaning": "içine sürüklenmek, karışmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他不小心卷入了这场纠纷。",
+        "pinyin": "Tā bù xiǎoxīn juǎnrùle zhè chǎng jiūfēn.",
+        "en": "Farkında olmadan bu anlaşmazlığa karıştı."
+      },
+      {
+        "zh": "这个国家被卷入了战争。",
+        "pinyin": "Zhège guójiā bèi juǎnrùle zhànzhēng.",
+        "en": "Bu ülke savaşa sürüklendi."
+      },
+      {
+        "zh": "他被卷入了一场丑闻。",
+        "pinyin": "Tā bèi juǎnrùle yì chǎng chǒuwén.",
+        "en": "Bir skandala karıştı."
+      },
+      {
+        "zh": "公司卷入了一场法律纠纷。",
+        "pinyin": "Gōngsī juǎnrùle yì chǎng fǎlǜ jiūfēn.",
+        "en": "Şirket bir hukuki anlaşmazlığa karıştı."
+      },
+      {
+        "zh": "他不想卷入他们的争吵。",
+        "pinyin": "Tā bù xiǎng juǎnrù tāmen de zhēngchǎo.",
+        "en": "Onların tartışmasına karışmak istemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4223",
+    "hanzi": "卷烟",
+    "pinyin": "juǎnyān",
+    "meaning": "sigara",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "他每天抽一包卷烟。",
+        "pinyin": "Tā měitiān chōu yì bāo juǎnyān.",
+        "en": "Her gün bir paket sigara içiyor."
+      },
+      {
+        "zh": "卷烟对健康有害。",
+        "pinyin": "Juǎnyān duì jiànkāng yǒuhài.",
+        "en": "Sigara sağlığa zararlıdır."
+      },
+      {
+        "zh": "他戒掉了卷烟。",
+        "pinyin": "Tā jièdiàole juǎnyān.",
+        "en": "Sigarayı bıraktı."
+      },
+      {
+        "zh": "商店里卖各种品牌的卷烟。",
+        "pinyin": "Shāngdiàn lǐ mài gèzhǒng pǐnpái de juǎnyān.",
+        "en": "Dükkânda çeşitli marka sigaralar satılıyor."
+      },
+      {
+        "zh": "政府提高了卷烟的税率。",
+        "pinyin": "Zhèngfǔ tígāole juǎnyān de shuìlǜ.",
+        "en": "Hükümet sigaranın vergi oranını artırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4224",
+    "hanzi": "决策",
+    "pinyin": "juécè",
+    "meaning": "stratejik karar vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "公司领导做出了重要决策。",
+        "pinyin": "Gōngsī lǐngdǎo zuòchūle zhòngyào juécè.",
+        "en": "Şirket yönetimi önemli bir karar aldı."
+      },
+      {
+        "zh": "这个决策关系到公司的未来。",
+        "pinyin": "Zhège juécè guānxi dào gōngsī de wèilái.",
+        "en": "Bu karar şirketin geleceğiyle ilgilidir."
+      },
+      {
+        "zh": "他参与了公司的重大决策。",
+        "pinyin": "Tā cānyùle gōngsī de zhòngdà juécè.",
+        "en": "Şirketin önemli kararlarına katıldı."
+      },
+      {
+        "zh": "政府的决策影响了整个社会。",
+        "pinyin": "Zhèngfǔ de juécè yǐngxiǎngle zhěnggè shèhuì.",
+        "en": "Hükümetin kararı tüm toplumu etkiledi."
+      },
+      {
+        "zh": "他们经过慎重考虑才做出决策。",
+        "pinyin": "Tāmen jīngguò shènzhòng kǎolǜ cái zuòchū juécè.",
+        "en": "Dikkatli bir değerlendirmeden sonra karar aldılar."
+      }
+    ]
+  },
+  {
+    "id": "w4225",
+    "hanzi": "决断",
+    "pinyin": "juéduàn",
+    "meaning": "kesin karar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做事很有决断力。",
+        "pinyin": "Tā zuòshì hěn yǒu juéduànlì.",
+        "en": "İşleri yaparken kararlıdır."
+      },
+      {
+        "zh": "面对危机，他迅速做出了决断。",
+        "pinyin": "Miànduì wēijī, tā xùnsù zuòchūle juéduàn.",
+        "en": "Kriz karşısında hızla kesin bir karar aldı."
+      },
+      {
+        "zh": "领导需要果断的决断能力。",
+        "pinyin": "Lǐngdǎo xūyào guǒduàn de juéduàn nénglì.",
+        "en": "Liderin kararlı bir karar verme yeteneğine ihtiyacı var."
+      },
+      {
+        "zh": "他缺乏决断，总是犹豫不决。",
+        "pinyin": "Tā quēfá juéduàn, zǒngshì yóuyù bùjué.",
+        "en": "Kararlılıktan yoksun, hep tereddüt eder."
+      },
+      {
+        "zh": "这需要果断的决断，不能再拖延了。",
+        "pinyin": "Zhè xūyào guǒduàn de juéduàn, bù néng zài tuōyán le.",
+        "en": "Bu kesin bir karar gerektiriyor, artık ertelenemez."
+      }
+    ]
+  },
+  {
+    "id": "w4226",
+    "hanzi": "决裂",
+    "pinyin": "juéliè",
+    "meaning": "ilişkiyi kesmek, bozuşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他们最终决裂了。",
+        "pinyin": "Tāmen zuìzhōng juéliè le.",
+        "en": "Sonunda ilişkilerini kestiler."
+      },
+      {
+        "zh": "谈判破裂，双方彻底决裂。",
+        "pinyin": "Tánpàn pòliè, shuāngfāng chèdǐ juéliè.",
+        "en": "Görüşmeler çöktü, iki taraf tamamen bozuştu."
+      }
+    ]
+  },
+  {
+    "id": "w4227",
+    "hanzi": "决议",
+    "pinyin": "juéyì",
+    "meaning": "karar (resmi)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "会议通过了一项重要决议。",
+        "pinyin": "Huìyì tōngguòle yí xiàng zhòngyào juéyì.",
+        "en": "Toplantı önemli bir karar aldı."
+      },
+      {
+        "zh": "联合国安理会通过了这项决议。",
+        "pinyin": "Liánhéguó Ānlǐhuì tōngguòle zhè xiàng juéyì.",
+        "en": "BM Güvenlik Konseyi bu kararı kabul etti."
+      },
+      {
+        "zh": "这项决议得到了广泛支持。",
+        "pinyin": "Zhè xiàng juéyì dédàole guǎngfàn zhīchí.",
+        "en": "Bu karar geniş bir destek buldu."
+      },
+      {
+        "zh": "代表们对决议进行了投票。",
+        "pinyin": "Dàibiǎomen duì juéyì jìnxíngle tóupiào.",
+        "en": "Temsilciler karar için oylama yaptı."
+      },
+      {
+        "zh": "决议要求各方停止冲突。",
+        "pinyin": "Juéyì yāoqiú gèfāng tíngzhǐ chōngtū.",
+        "en": "Karar, tüm tarafların çatışmayı durdurmasını talep ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w4228",
+    "hanzi": "决战",
+    "pinyin": "juézhàn",
+    "meaning": "kesin sonuç savaşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两军即将展开决战。",
+        "pinyin": "Liǎng jūn jíjiāng zhǎnkāi juézhàn.",
+        "en": "İki ordu kesin savaşa girmek üzere."
+      },
+      {
+        "zh": "这是一场决定命运的决战。",
+        "pinyin": "Zhè shì yì chǎng juédìng mìngyùn de juézhàn.",
+        "en": "Bu, kaderin belirleyeceği kesin bir savaş."
+      },
+      {
+        "zh": "决战的结果将影响整个战局。",
+        "pinyin": "Juézhàn de jiéguǒ jiāng yǐngxiǎng zhěnggè zhànjú.",
+        "en": "Kesin savaşın sonucu tüm savaş durumunu etkileyecek."
+      },
+      {
+        "zh": "双方为决战做好了充分准备。",
+        "pinyin": "Shuāngfāng wèi juézhàn zuòhǎole chōngfèn zhǔnbèi.",
+        "en": "İki taraf kesin savaş için tam hazırlık yaptı."
+      },
+      {
+        "zh": "明天将是决战的日子。",
+        "pinyin": "Míngtiān jiāng shì juézhàn de rìzi.",
+        "en": "Yarın kesin savaşın günü olacak."
+      }
+    ]
+  },
+  {
+    "id": "w4229",
+    "hanzi": "抉择",
+    "pinyin": "juézé",
+    "meaning": "seçmek, seçim yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他面临一个艰难的抉择。",
+        "pinyin": "Tā miànlín yí ge jiānnán de juézé.",
+        "en": "Zor bir seçimle karşı karşıya."
+      },
+      {
+        "zh": "人生充满了各种抉择。",
+        "pinyin": "Rénshēng chōngmǎnle gèzhǒng juézé.",
+        "en": "Hayat çeşitli seçimlerle doludur."
+      },
+      {
+        "zh": "她做出了明智的抉择。",
+        "pinyin": "Tā zuòchūle míngzhì de juézé.",
+        "en": "Akıllıca bir seçim yaptı."
+      },
+      {
+        "zh": "面对两难的抉择，他犹豫不决。",
+        "pinyin": "Miànduì liǎngnán de juézé, tā yóuyù bùjué.",
+        "en": "İkilemli bir seçim karşısında tereddüt etti."
+      },
+      {
+        "zh": "这是一次改变命运的抉择。",
+        "pinyin": "Zhè shì yí cì gǎibiàn mìngyùn de juézé.",
+        "en": "Bu, kaderi değiştiren bir seçimdi."
+      }
+    ]
+  },
+  {
+    "id": "w4230",
+    "hanzi": "掘",
+    "pinyin": "jué",
+    "meaning": "kazmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工人们正在掘井。",
+        "pinyin": "Gōngrénmen zhèngzài juéjǐng.",
+        "en": "İşçiler kuyu kazıyor."
+      },
+      {
+        "zh": "他们在地下掘出了古老的宝藏。",
+        "pinyin": "Tāmen zài dìxià juéchūle gǔlǎo de bǎozàng.",
+        "en": "Yerin altında eski bir hazine buldular."
+      },
+      {
+        "zh": "考古学家掘出了许多文物。",
+        "pinyin": "Kǎogǔ xuéjiā juéchūle xǔduō wénwù.",
+        "en": "Arkeologlar birçok tarihi eser çıkardı."
+      },
+      {
+        "zh": "他们挖掘了一条运河。",
+        "pinyin": "Tāmen wājuéle yì tiáo yùnhé.",
+        "en": "Bir kanal kazdılar."
+      },
+      {
+        "zh": "农民掘地种下了种子。",
+        "pinyin": "Nóngmín juédì zhòngxiàle zhǒngzi.",
+        "en": "Çiftçi toprağı kazıp tohum ekti."
+      }
+    ]
+  },
+  {
+    "id": "w4231",
+    "hanzi": "崛起",
+    "pinyin": "juéqǐ",
+    "meaning": "aniden yükselmek, ortaya çıkmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个国家近年来迅速崛起。",
+        "pinyin": "Zhège guójiā jìnnián lái xùnsù juéqǐ.",
+        "en": "Bu ülke son yıllarda hızla yükseldi."
+      },
+      {
+        "zh": "新兴市场正在崛起。",
+        "pinyin": "Xīnxīng shìchǎng zhèngzài juéqǐ.",
+        "en": "Gelişmekte olan pazarlar yükseliyor."
+      },
+      {
+        "zh": "这家公司的崛起令人瞩目。",
+        "pinyin": "Zhè jiā gōngsī de juéqǐ lìng rén zhǔmù.",
+        "en": "Bu şirketin yükselişi dikkat çekici."
+      },
+      {
+        "zh": "亚洲经济的崛起改变了世界格局。",
+        "pinyin": "Yàzhōu jīngjì de juéqǐ gǎibiànle shìjiè géjú.",
+        "en": "Asya ekonomisinin yükselişi dünya düzenini değiştirdi."
+      },
+      {
+        "zh": "这位年轻歌手迅速崛起成为明星。",
+        "pinyin": "Zhè wèi niánqīng gēshǒu xùnsù juéqǐ chéngwéi míngxīng.",
+        "en": "Bu genç şarkıcı hızla yükselip yıldız oldu."
+      }
+    ]
+  },
+  {
+    "id": "w4232",
+    "hanzi": "倔强",
+    "pinyin": "juéjiàng",
+    "meaning": "inatçı, dik başlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他性格倔强，从不轻易服输。",
+        "pinyin": "Tā xìnggé juéjiàng, cóng bù qīngyì fúshū.",
+        "en": "Karakteri inatçı, kolayca yenilgiyi kabul etmez."
+      },
+      {
+        "zh": "这个孩子非常倔强。",
+        "pinyin": "Zhège háizi fēicháng juéjiàng.",
+        "en": "Bu çocuk çok inatçı."
+      },
+      {
+        "zh": "她的倔强让她坚持到了最后。",
+        "pinyin": "Tā de juéjiàng ràng tā jiānchí dàole zuìhòu.",
+        "en": "İnatçılığı sonuna kadar dayanmasını sağladı."
+      },
+      {
+        "zh": "他倔强地拒绝了所有帮助。",
+        "pinyin": "Tā juéjiàng de jùjuéle suǒyǒu bāngzhù.",
+        "en": "İnatla tüm yardımları reddetti."
+      },
+      {
+        "zh": "尽管很累，他还是倔强地坚持下去。",
+        "pinyin": "Jǐnguǎn hěn lèi, tā háishi juéjiàng de jiānchí xiàqù.",
+        "en": "Çok yorgun olsa da inatla devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w4233",
+    "hanzi": "绝望",
+    "pinyin": "juéwàng",
+    "meaning": "umutsuzluğa düşmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他对未来感到绝望。",
+        "pinyin": "Tā duì wèilái gǎndào juéwàng.",
+        "en": "Geleceğe karşı umutsuzluk hissediyor."
+      },
+      {
+        "zh": "失去工作让他一度绝望。",
+        "pinyin": "Shīqù gōngzuò ràng tā yídù juéwàng.",
+        "en": "İşini kaybetmek onu bir süreliğine umutsuzluğa düşürdü."
+      },
+      {
+        "zh": "不要绝望，事情总会好起来的。",
+        "pinyin": "Bú yào juéwàng, shìqing zǒng huì hǎo qǐlai de.",
+        "en": "Umutsuzluğa kapılma, işler her zaman düzelir."
+      },
+      {
+        "zh": "她在绝望中找到了新的希望。",
+        "pinyin": "Tā zài juéwàng zhōng zhǎodàole xīn de xīwàng.",
+        "en": "Umutsuzluk içinde yeni bir umut buldu."
+      },
+      {
+        "zh": "病情恶化让全家人都感到绝望。",
+        "pinyin": "Bìngqíng èhuà ràng quánjiā rén dōu gǎndào juéwàng.",
+        "en": "Hastalığın kötüleşmesi tüm aileyi umutsuzluğa düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w4234",
+    "hanzi": "绝食",
+    "pinyin": "juéshí",
+    "meaning": "açlık grevi yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "囚犯们开始了绝食抗议。",
+        "pinyin": "Qiúfànmen kāishǐle juéshí kàngyì.",
+        "en": "Mahkumlar açlık grevi protestosu başlattı."
+      },
+      {
+        "zh": "他绝食三天以表达抗议。",
+        "pinyin": "Tā juéshí sān tiān yǐ biǎodá kàngyì.",
+        "en": "Protesto olarak üç gün açlık grevi yaptı."
+      },
+      {
+        "zh": "绝食对身体伤害很大。",
+        "pinyin": "Juéshí duì shēntǐ shānghài hěn dà.",
+        "en": "Açlık grevi vücuda büyük zarar verir."
+      },
+      {
+        "zh": "他因绝食而身体虚弱。",
+        "pinyin": "Tā yīn juéshí ér shēntǐ xūruò.",
+        "en": "Açlık grevi nedeniyle vücudu zayıfladı."
+      },
+      {
+        "zh": "他们决定继续绝食直到诉求得到回应。",
+        "pinyin": "Tāmen juédìng jìxù juéshí zhídào sùqiú dédào huíyìng.",
+        "en": "Talepleri cevaplanana kadar açlık grevine devam etmeye karar verdiler."
+      }
+    ]
+  },
+  {
+    "id": "w4235",
+    "hanzi": "绝缘",
+    "pinyin": "juéyuán",
+    "meaning": "yalıtım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种材料具有良好的绝缘性能。",
+        "pinyin": "Zhè zhǒng cáiliào jùyǒu liánghǎo de juéyuán xìngnéng.",
+        "en": "Bu malzeme iyi bir yalıtım özelliğine sahip."
+      },
+      {
+        "zh": "电线外面包着绝缘层。",
+        "pinyin": "Diànxiàn wàimiàn bāozhe juéyuán céng.",
+        "en": "Elektrik telinin dışı yalıtım tabakasıyla kaplı."
+      },
+      {
+        "zh": "工人使用绝缘手套操作电器。",
+        "pinyin": "Gōngrén shǐyòng juéyuán shǒutào cāozuò diànqì.",
+        "en": "İşçi elektronik cihazı kullanırken yalıtımlı eldiven kullanıyor."
+      },
+      {
+        "zh": "塑料是常见的绝缘材料。",
+        "pinyin": "Sùliào shì chángjiàn de juéyuán cáiliào.",
+        "en": "Plastik yaygın bir yalıtım malzemesidir."
+      },
+      {
+        "zh": "绝缘不良可能导致触电事故。",
+        "pinyin": "Juéyuán bùliáng kěnéng dǎozhì chùdiàn shìgù.",
+        "en": "Kötü yalıtım elektrik çarpması kazasına yol açabilir."
+      }
+    ]
+  },
+  {
+    "id": "w4236",
+    "hanzi": "绝种",
+    "pinyin": "juézhǒng",
+    "meaning": "soyu tükenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这种动物已经绝种了。",
+        "pinyin": "Zhè zhǒng dòngwù yǐjīng juézhǒng le.",
+        "en": "Bu hayvan türünün soyu tükendi."
+      },
+      {
+        "zh": "过度捕猎导致这种鱼类接近绝种。",
+        "pinyin": "Guòdù bǔliè dǎozhì zhè zhǒng yúlèi jiējìn juézhǒng.",
+        "en": "Aşırı avlanma bu balık türünün soyunun tükenmeye yaklaşmasına neden oldu."
+      },
+      {
+        "zh": "我们要保护濒临绝种的动物。",
+        "pinyin": "Wǒmen yào bǎohù bīnlín juézhǒng de dòngwù.",
+        "en": "Nesli tükenmekte olan hayvanları korumalıyız."
+      },
+      {
+        "zh": "恐龙在几千万年前就已经绝种了。",
+        "pinyin": "Kǒnglóng zài jǐ qiānwàn nián qián jiù yǐjīng juézhǒng le.",
+        "en": "Dinozorlar milyonlarca yıl önce soyları tükendi."
+      },
+      {
+        "zh": "许多植物因环境破坏而面临绝种。",
+        "pinyin": "Xǔduō zhíwù yīn huánjìng pòhuài ér miànlín juézhǒng.",
+        "en": "Birçok bitki çevre tahribatı nedeniyle nesli tükenme tehlikesiyle karşı karşıya."
+      }
+    ]
+  },
+  {
+    "id": "w4237",
+    "hanzi": "均等",
+    "pinyin": "jūnděng",
+    "meaning": "eşit",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "每个人得到的机会应该均等。",
+        "pinyin": "Měi ge rén dédào de jīhuì yīnggāi jūnděng.",
+        "en": "Herkesin elde ettiği fırsatlar eşit olmalı."
+      },
+      {
+        "zh": "财富分配不均等会导致社会不满。",
+        "pinyin": "Cáifù fēnpèi bù jūnděng huì dǎozhì shèhuì bùmǎn.",
+        "en": "Servetin eşitsiz dağılımı toplumsal memnuniyetsizliğe yol açabilir."
+      },
+      {
+        "zh": "我们提倡教育机会均等。",
+        "pinyin": "Wǒmen tíchàng jiàoyù jīhuì jūnděng.",
+        "en": "Eşit eğitim fırsatlarını savunuyoruz."
+      },
+      {
+        "zh": "资源应该均等地分配给每个部门。",
+        "pinyin": "Zīyuán yīnggāi jūnděng de fēnpèi gěi měi ge bùmén.",
+        "en": "Kaynaklar her departmana eşit şekilde dağıtılmalı."
+      },
+      {
+        "zh": "男女应该享有均等的权利。",
+        "pinyin": "Nánnǚ yīnggāi xiǎngyǒu jūnděng de quánlì.",
+        "en": "Kadın ve erkekler eşit haklara sahip olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w4238",
+    "hanzi": "均衡",
+    "pinyin": "jūnhéng",
+    "meaning": "dengeli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "饮食要均衡才健康。",
+        "pinyin": "Yǐnshí yào jūnhéng cái jiànkāng.",
+        "en": "Beslenmenin sağlıklı olması için dengeli olması gerekir."
+      },
+      {
+        "zh": "这个地区的经济发展比较均衡。",
+        "pinyin": "Zhège dìqū de jīngjì fāzhǎn bǐjiào jūnhéng.",
+        "en": "Bu bölgenin ekonomik gelişimi oldukça dengeli."
+      },
+      {
+        "zh": "我们要保持营养均衡。",
+        "pinyin": "Wǒmen yào bǎochí yíngyǎng jūnhéng.",
+        "en": "Beslenme dengesini korumalıyız."
+      },
+      {
+        "zh": "政府努力实现地区均衡发展。",
+        "pinyin": "Zhèngfǔ nǔlì shíxiàn dìqū jūnhéng fāzhǎn.",
+        "en": "Hükümet bölgesel dengeli kalkınmayı sağlamaya çalışıyor."
+      },
+      {
+        "zh": "均衡的生活方式对健康很重要。",
+        "pinyin": "Jūnhéng de shēnghuó fāngshì duì jiànkāng hěn zhòngyào.",
+        "en": "Dengeli bir yaşam tarzı sağlık için önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w4239",
+    "hanzi": "菌",
+    "pinyin": "jūn",
+    "meaning": "mantar, bakteri",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种蘑菇是可食用的菌类。",
+        "pinyin": "Zhè zhǒng mógu shì kě shíyòng de jūnlèi.",
+        "en": "Bu mantar türü yenilebilir bir mantar türüdür."
+      },
+      {
+        "zh": "细菌是一种微小的生物。",
+        "pinyin": "Xìjūn shì yì zhǒng wēixiǎo de shēngwù.",
+        "en": "Bakteri küçük bir canlı türüdür."
+      },
+      {
+        "zh": "病菌会导致疾病传播。",
+        "pinyin": "Bìngjūn huì dǎozhì jíbìng chuánbō.",
+        "en": "Patojen mikroorganizmalar hastalık yayılmasına neden olabilir."
+      },
+      {
+        "zh": "这种真菌生长在潮湿的环境中。",
+        "pinyin": "Zhè zhǒng zhēnjūn shēngzhǎng zài cháoshī de huánjìng zhōng.",
+        "en": "Bu tür mantar nemli ortamlarda büyür."
+      },
+      {
+        "zh": "医生开了抗菌药物给他。",
+        "pinyin": "Yīshēng kāile kàngjūn yàowù gěi tā.",
+        "en": "Doktor ona antibakteriyel ilaç yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w4240",
+    "hanzi": "军队",
+    "pinyin": "jūnduì",
+    "meaning": "ordu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队正在边境驻扎。",
+        "pinyin": "Jūnduì zhèngzài biānjìng zhùzhā.",
+        "en": "Ordu sınırda konuşlanmış."
+      },
+      {
+        "zh": "他加入了军队。",
+        "pinyin": "Tā jiārùle jūnduì.",
+        "en": "Orduya katıldı."
+      },
+      {
+        "zh": "军队负责维护国家安全。",
+        "pinyin": "Jūnduì fùzé wéihù guójiā ānquán.",
+        "en": "Ordu ülke güvenliğini korumaktan sorumlu."
+      },
+      {
+        "zh": "这支军队装备精良。",
+        "pinyin": "Zhè zhī jūnduì zhuāngbèi jīngliáng.",
+        "en": "Bu ordu mükemmel donanımlı."
+      },
+      {
+        "zh": "军队接到了撤退的命令。",
+        "pinyin": "Jūnduì jiēdàole chètuì de mìnglìng.",
+        "en": "Ordu geri çekilme emri aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4241",
+    "hanzi": "军官",
+    "pinyin": "jūnguān",
+    "meaning": "subay",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是一名高级军官。",
+        "pinyin": "Tā shì yì míng gāojí jūnguān.",
+        "en": "O üst düzey bir subay."
+      },
+      {
+        "zh": "军官们在开会讨论作战计划。",
+        "pinyin": "Jūnguānmen zài kāihuì tǎolùn zuòzhàn jìhuà.",
+        "en": "Subaylar savaş planını görüşmek için toplantı yapıyor."
+      },
+      {
+        "zh": "他从士兵晋升为军官。",
+        "pinyin": "Tā cóng shìbīng jìnshēng wéi jūnguān.",
+        "en": "Askerlikten subaylığa terfi etti."
+      },
+      {
+        "zh": "这位军官指挥了这场战役。",
+        "pinyin": "Zhè wèi jūnguān zhǐhuīle zhè chǎng zhànyì.",
+        "en": "Bu subay bu savaşı yönetti."
+      },
+      {
+        "zh": "军官必须遵守严格的纪律。",
+        "pinyin": "Jūnguān bìxū zūnshǒu yángé de jìlǜ.",
+        "en": "Subaylar sıkı disipline uymak zorundadır."
+      }
+    ]
+  },
+  {
+    "id": "w4242",
+    "hanzi": "军舰",
+    "pinyin": "jūnjiàn",
+    "meaning": "savaş gemisi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这艘军舰正在进行海上演习。",
+        "pinyin": "Zhè sōu jūnjiàn zhèngzài jìnxíng hǎishàng yǎnxí.",
+        "en": "Bu savaş gemisi deniz tatbikatı yapıyor."
+      },
+      {
+        "zh": "军舰停靠在港口。",
+        "pinyin": "Jūnjiàn tíngkào zài gǎngkǒu.",
+        "en": "Savaş gemisi limanda demirledi."
+      },
+      {
+        "zh": "这支舰队拥有多艘军舰。",
+        "pinyin": "Zhè zhī jiànduì yōngyǒu duō sōu jūnjiàn.",
+        "en": "Bu filo birçok savaş gemisine sahip."
+      },
+      {
+        "zh": "军舰配备了先进的武器系统。",
+        "pinyin": "Jūnjiàn pèibèile xiānjìn de wǔqì xìtǒng.",
+        "en": "Savaş gemisi gelişmiş silah sistemleriyle donatıldı."
+      },
+      {
+        "zh": "这艘军舰参加了海军阅兵式。",
+        "pinyin": "Zhè sōu jūnjiàn cānjiāle hǎijūn yuèbīngshì.",
+        "en": "Bu savaş gemisi deniz kuvvetleri geçit törenine katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4243",
+    "hanzi": "军人",
+    "pinyin": "jūnrén",
+    "meaning": "asker",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是一名退伍军人。",
+        "pinyin": "Tā shì yì míng tuìwǔ jūnrén.",
+        "en": "O emekli bir asker."
+      },
+      {
+        "zh": "军人为国家做出了巨大贡献。",
+        "pinyin": "Jūnrén wèi guójiā zuòchūle jùdà gòngxiàn.",
+        "en": "Askerler ülkeye büyük katkı sağladı."
+      },
+      {
+        "zh": "他从小就想成为一名军人。",
+        "pinyin": "Tā cóngxiǎo jiù xiǎng chéngwéi yì míng jūnrén.",
+        "en": "Küçüklüğünden beri asker olmak istiyordu."
+      },
+      {
+        "zh": "军人的责任感非常强。",
+        "pinyin": "Jūnrén de zérèngǎn fēicháng qiáng.",
+        "en": "Askerlerin sorumluluk duygusu çok güçlüdür."
+      },
+      {
+        "zh": "这位军人在战场上表现英勇。",
+        "pinyin": "Zhè wèi jūnrén zài zhànchǎng shàng biǎoxiàn yīngyǒng.",
+        "en": "Bu asker savaş alanında cesurca davrandı."
+      }
+    ]
+  },
+  {
+    "id": "w4244",
+    "hanzi": "军服",
+    "pinyin": "jūnfú",
+    "meaning": "askeri üniforma",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "士兵们穿着整齐的军服。",
+        "pinyin": "Shìbīngmen chuānzhe zhěngqí de jūnfú.",
+        "en": "Askerler düzgün üniformalar giyiyor."
+      },
+      {
+        "zh": "他把军服挂在了衣柜里。",
+        "pinyin": "Tā bǎ jūnfú guà zài yīguì lǐ.",
+        "en": "Askeri üniformasını dolaba astı."
+      },
+      {
+        "zh": "这套军服是特别设计的。",
+        "pinyin": "Zhè tào jūnfú shì tèbié shèjì de.",
+        "en": "Bu üniforma özel olarak tasarlanmıştır."
+      },
+      {
+        "zh": "他退伍后仍保留着自己的军服。",
+        "pinyin": "Tā tuìwǔ hòu réng bǎoliúzhe zìjǐ de jūnfú.",
+        "en": "Emekli olduktan sonra bile üniformasını sakladı."
+      },
+      {
+        "zh": "军服上有勋章和标志。",
+        "pinyin": "Jūnfú shàng yǒu xūnzhāng hé biāozhì.",
+        "en": "Üniformada madalya ve rozetler var."
+      }
+    ]
+  },
+  {
+    "id": "w4245",
+    "hanzi": "军费",
+    "pinyin": "jūnfèi",
+    "meaning": "askeri harcama",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这个国家的军费开支很高。",
+        "pinyin": "Zhège guójiā de jūnfèi kāizhī hěn gāo.",
+        "en": "Bu ülkenin askeri harcamaları çok yüksek."
+      },
+      {
+        "zh": "政府增加了军费预算。",
+        "pinyin": "Zhèngfǔ zēngjiāle jūnfèi yùsuàn.",
+        "en": "Hükümet askeri bütçeyi artırdı."
+      },
+      {
+        "zh": "军费开支占了国家预算的很大一部分。",
+        "pinyin": "Jūnfèi kāizhī zhànle guójiā yùsuàn de hěn dà yíbùfen.",
+        "en": "Askeri harcamalar devlet bütçesinin büyük bir kısmını oluşturuyor."
+      },
+      {
+        "zh": "削减军费引发了争议。",
+        "pinyin": "Xuējiǎn jūnfèi yǐnfāle zhēngyì.",
+        "en": "Askeri harcamaların kesilmesi tartışmalara neden oldu."
+      },
+      {
+        "zh": "各国的军费投入各不相同。",
+        "pinyin": "Gèguó de jūnfèi tóurù gè bù xiāngtóng.",
+        "en": "Ülkelerin askeri harcamaları birbirinden farklıdır."
+      }
+    ]
   }
 ]

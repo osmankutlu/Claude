@@ -139816,5 +139816,824 @@
         "en": "Onları kurtarmanın bir yolunu bulmalıyız."
       }
     ]
+  },
+  {
+    "id": "w4078",
+    "hanzi": "解开",
+    "pinyin": "jiěkāi",
+    "meaning": "açmak, çözmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他解开了绳子上的结。",
+        "pinyin": "Tā jiěkāile shéngzi shàng de jié.",
+        "en": "İpteki düğümü çözdü."
+      },
+      {
+        "zh": "请解开你的安全带。",
+        "pinyin": "Qǐng jiěkāi nǐ de ānquándài.",
+        "en": "Lütfen emniyet kemerinizi açın."
+      },
+      {
+        "zh": "这个谜题终于被解开了。",
+        "pinyin": "Zhège mítí zhōngyú bèi jiěkāi le.",
+        "en": "Bu bilmece sonunda çözüldü."
+      },
+      {
+        "zh": "他解开了衣服的扣子。",
+        "pinyin": "Tā jiěkāile yīfu de kòuzi.",
+        "en": "Kıyafetinin düğmelerini açtı."
+      },
+      {
+        "zh": "我们要解开这个误会。",
+        "pinyin": "Wǒmen yào jiěkāi zhège wùhuì.",
+        "en": "Bu yanlış anlaşılmayı çözmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4079",
+    "hanzi": "解散",
+    "pinyin": "jiěsàn",
+    "meaning": "dağılmak, feshetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "会议结束后大家解散了。",
+        "pinyin": "Huìyì jiéshù hòu dàjiā jiěsàn le.",
+        "en": "Toplantı bittikten sonra herkes dağıldı."
+      },
+      {
+        "zh": "政府解散了这个组织。",
+        "pinyin": "Zhèngfǔ jiěsànle zhège zǔzhī.",
+        "en": "Hükümet bu örgütü feshetti."
+      },
+      {
+        "zh": "议会被总统解散了。",
+        "pinyin": "Yìhuì bèi zǒngtǒng jiěsàn le.",
+        "en": "Meclis cumhurbaşkanı tarafından feshedildi."
+      },
+      {
+        "zh": "队伍解散前进行了最后的合影。",
+        "pinyin": "Duìwu jiěsàn qián jìnxíngle zuìhòu de héyǐng.",
+        "en": "Grup dağılmadan önce son bir toplu fotoğraf çekti."
+      },
+      {
+        "zh": "公司因经营不善而解散了。",
+        "pinyin": "Gōngsī yīn jīngyíng búshàn ér jiěsàn le.",
+        "en": "Şirket kötü yönetim nedeniyle feshedildi."
+      }
+    ]
+  },
+  {
+    "id": "w4080",
+    "hanzi": "解体",
+    "pinyin": "jiětǐ",
+    "meaning": "parçalanmak, çökmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "苏联在1991年解体了。",
+        "pinyin": "Sūlián zài yī jiǔ jiǔ yī nián jiětǐ le.",
+        "en": "Sovyetler Birliği 1991'de dağıldı."
+      },
+      {
+        "zh": "这架飞机在空中解体了。",
+        "pinyin": "Zhè jià fēijī zài kōngzhōng jiětǐ le.",
+        "en": "Bu uçak havada parçalandı."
+      }
+    ]
+  },
+  {
+    "id": "w4081",
+    "hanzi": "解脱",
+    "pinyin": "jiětuō",
+    "meaning": "kurtulmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他终于从痛苦中解脱出来。",
+        "pinyin": "Tā zhōngyú cóng tòngkǔ zhōng jiětuō chūlái.",
+        "en": "Sonunda acısından kurtuldu."
+      },
+      {
+        "zh": "她通过旅行寻求解脱。",
+        "pinyin": "Tā tōngguò lǚxíng xúnqiú jiětuō.",
+        "en": "Seyahat ederek rahatlamayı arıyor."
+      },
+      {
+        "zh": "完成任务后他感到解脱。",
+        "pinyin": "Wánchéng rènwu hòu tā gǎndào jiětuō.",
+        "en": "Görevi tamamladıktan sonra rahatladı."
+      },
+      {
+        "zh": "死亡对他来说也许是一种解脱。",
+        "pinyin": "Sǐwáng duì tā láishuō yěxǔ shì yì zhǒng jiětuō.",
+        "en": "Ölüm onun için belki de bir kurtuluştur."
+      },
+      {
+        "zh": "他从繁重的工作中解脱出来。",
+        "pinyin": "Tā cóng fánzhòng de gōngzuò zhōng jiětuō chūlái.",
+        "en": "Ağır iş yükünden kurtuldu."
+      }
+    ]
+  },
+  {
+    "id": "w4082",
+    "hanzi": "介入",
+    "pinyin": "jièrù",
+    "meaning": "müdahale etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府决定介入这场纠纷。",
+        "pinyin": "Zhèngfǔ juédìng jièrù zhè chǎng jiūfēn.",
+        "en": "Hükümet bu anlaşmazlığa müdahale etmeye karar verdi."
+      },
+      {
+        "zh": "警方介入调查了这起事件。",
+        "pinyin": "Jǐngfāng jièrù diàochále zhè qǐ shìjiàn.",
+        "en": "Polis bu olayı soruşturmak için müdahale etti."
+      },
+      {
+        "zh": "他不想介入他们的争吵。",
+        "pinyin": "Tā bù xiǎng jièrù tāmen de zhēngchǎo.",
+        "en": "Onların tartışmasına müdahale etmek istemiyor."
+      },
+      {
+        "zh": "国际社会开始介入这场冲突。",
+        "pinyin": "Guójì shèhuì kāishǐ jièrù zhè chǎng chōngtū.",
+        "en": "Uluslararası toplum bu çatışmaya müdahale etmeye başladı."
+      },
+      {
+        "zh": "医生及时介入挽救了病人的生命。",
+        "pinyin": "Yīshēng jíshí jièrù wǎnjiùle bìngrén de shēngmìng.",
+        "en": "Doktor zamanında müdahale ederek hastanın hayatını kurtardı."
+      }
+    ]
+  },
+  {
+    "id": "w4083",
+    "hanzi": "芥末",
+    "pinyin": "jièmo",
+    "meaning": "hardal",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "他喜欢在寿司上蘸芥末。",
+        "pinyin": "Tā xǐhuan zài shòusī shàng zhàn jièmo.",
+        "en": "Suşiyi hardala banmayı sever."
+      },
+      {
+        "zh": "这种芥末非常辣。",
+        "pinyin": "Zhè zhǒng jièmo fēicháng là.",
+        "en": "Bu hardal çok acı."
+      },
+      {
+        "zh": "三明治里加了一点芥末酱。",
+        "pinyin": "Sānmíngzhì lǐ jiāle yìdiǎn jièmojiàng.",
+        "en": "Sandviçe biraz hardal sosu eklendi."
+      },
+      {
+        "zh": "芥末可以帮助开胃。",
+        "pinyin": "Jièmo kěyǐ bāngzhù kāiwèi.",
+        "en": "Hardal iştah açmaya yardımcı olabilir."
+      },
+      {
+        "zh": "他不小心吃多了芥末，辣得流眼泪。",
+        "pinyin": "Tā bù xiǎoxīn chī duōle jièmo, là de liú yǎnlèi.",
+        "en": "Farkında olmadan çok fazla hardal yedi, acılıktan gözyaşı döktü."
+      }
+    ]
+  },
+  {
+    "id": "w4084",
+    "hanzi": "戒",
+    "pinyin": "jiè",
+    "meaning": "bırakmak (kötü alışkanlık), sakınmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他决心戒烟。",
+        "pinyin": "Tā juéxīn jièyān.",
+        "en": "Sigarayı bırakmaya karar verdi."
+      },
+      {
+        "zh": "医生建议他戒酒。",
+        "pinyin": "Yīshēng jiànyì tā jièjiǔ.",
+        "en": "Doktor içkiyi bırakmasını önerdi."
+      },
+      {
+        "zh": "她终于戒掉了咬指甲的习惯。",
+        "pinyin": "Tā zhōngyú jièdiàole yǎo zhǐjia de xíguàn.",
+        "en": "Sonunda tırnak yeme alışkanlığını bıraktı."
+      },
+      {
+        "zh": "戒骄戒躁，脚踏实地。",
+        "pinyin": "Jiè jiāo jiè zào, jiǎotà-shídì.",
+        "en": "Kibirden ve telaştan sakınıp gerçekçi ol."
+      },
+      {
+        "zh": "他戒掉了熬夜的坏习惯。",
+        "pinyin": "Tā jièdiàole áoyè de huài xíguàn.",
+        "en": "Geç saatlere kadar uyanık kalma kötü alışkanlığını bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w4085",
+    "hanzi": "戒备",
+    "pinyin": "jièbèi",
+    "meaning": "tetikte olmak, önlem almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方加强了戒备措施。",
+        "pinyin": "Jǐngfāng jiāqiángle jièbèi cuòshī.",
+        "en": "Polis güvenlik önlemlerini artırdı."
+      },
+      {
+        "zh": "边境地区处于高度戒备状态。",
+        "pinyin": "Biānjìng dìqū chǔyú gāodù jièbèi zhuàngtài.",
+        "en": "Sınır bölgesi yüksek alarm durumunda."
+      }
+    ]
+  },
+  {
+    "id": "w4086",
+    "hanzi": "界限",
+    "pinyin": "jièxiàn",
+    "meaning": "sınır",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这两个概念之间没有明确的界限。",
+        "pinyin": "Zhè liǎng ge gàiniàn zhījiān méiyǒu míngquè de jièxiàn.",
+        "en": "Bu iki kavram arasında net bir sınır yok."
+      },
+      {
+        "zh": "他清楚地划定了责任的界限。",
+        "pinyin": "Tā qīngchu de huàdìngle zérèn de jièxiàn.",
+        "en": "Sorumluluğun sınırlarını net bir şekilde belirledi."
+      },
+      {
+        "zh": "我们应该分清是非的界限。",
+        "pinyin": "Wǒmen yīnggāi fēnqīng shìfēi de jièxiàn.",
+        "en": "Doğru ve yanlış arasındaki sınırı net bir şekilde ayırt etmeliyiz."
+      },
+      {
+        "zh": "忍耐是有界限的。",
+        "pinyin": "Rěnnài shì yǒu jièxiàn de.",
+        "en": "Sabrın bir sınırı vardır."
+      },
+      {
+        "zh": "他们之间的关系已经超出了朋友的界限。",
+        "pinyin": "Tāmen zhījiān de guānxi yǐjīng chāochūle péngyou de jièxiàn.",
+        "en": "Aralarındaki ilişki arkadaşlık sınırını çoktan aştı."
+      }
+    ]
+  },
+  {
+    "id": "w4087",
+    "hanzi": "借鉴",
+    "pinyin": "jièjiàn",
+    "meaning": "örnek almak, ders çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们可以借鉴其他国家的经验。",
+        "pinyin": "Wǒmen kěyǐ jièjiàn qítā guójiā de jīngyàn.",
+        "en": "Diğer ülkelerin deneyimlerinden ders çıkarabiliriz."
+      },
+      {
+        "zh": "这项政策借鉴了国外的成功模式。",
+        "pinyin": "Zhè xiàng zhèngcè jièjiànle guówài de chénggōng móshì.",
+        "en": "Bu politika yurt dışındaki başarılı modellerden esinlendi."
+      },
+      {
+        "zh": "他借鉴了前人的研究成果。",
+        "pinyin": "Tā jièjiànle qiánrén de yánjiū chéngguǒ.",
+        "en": "Öncekilerin araştırma sonuçlarından yararlandı."
+      },
+      {
+        "zh": "这本书值得我们借鉴。",
+        "pinyin": "Zhè běn shū zhídé wǒmen jièjiàn.",
+        "en": "Bu kitap örnek almaya değer."
+      },
+      {
+        "zh": "企业应该借鉴同行的成功经验。",
+        "pinyin": "Qǐyè yīnggāi jièjiàn tóngháng de chénggōng jīngyàn.",
+        "en": "İşletmeler rakiplerinin başarı deneyimlerinden ders çıkarmalı."
+      }
+    ]
+  },
+  {
+    "id": "w4088",
+    "hanzi": "借助",
+    "pinyin": "jièzhù",
+    "meaning": "yardımıyla, desteğiyle",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他借助字典学习新单词。",
+        "pinyin": "Tā jièzhù zìdiǎn xuéxí xīn dāncí.",
+        "en": "Sözlük yardımıyla yeni kelimeler öğreniyor."
+      },
+      {
+        "zh": "我们借助科技提高了工作效率。",
+        "pinyin": "Wǒmen jièzhù kējì tígāole gōngzuò xiàolǜ.",
+        "en": "Teknoloji sayesinde iş verimliliğini artırdık."
+      },
+      {
+        "zh": "他借助朋友的帮助找到了工作。",
+        "pinyin": "Tā jièzhù péngyou de bāngzhù zhǎodàole gōngzuò.",
+        "en": "Arkadaşının yardımıyla bir iş buldu."
+      },
+      {
+        "zh": "学生借助笔记复习功课。",
+        "pinyin": "Xuésheng jièzhù bǐjì fùxí gōngkè.",
+        "en": "Öğrenci notlarının yardımıyla derslerini tekrar ediyor."
+      },
+      {
+        "zh": "他借助望远镜观察远处的鸟。",
+        "pinyin": "Tā jièzhù wàngyuǎnjìng guānchá yuǎnchù de niǎo.",
+        "en": "Dürbün yardımıyla uzaktaki kuşu gözlemliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4089",
+    "hanzi": "今",
+    "pinyin": "jīn",
+    "meaning": "şimdiki, bugünkü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "古为今用。",
+        "pinyin": "Gǔ wéi jīn yòng.",
+        "en": "Eskiyi bugüne uyarlamak."
+      },
+      {
+        "zh": "现今社会变化很快。",
+        "pinyin": "Xiànjīn shèhuì biànhuà hěn kuài.",
+        "en": "Günümüz toplumu çok hızlı değişiyor."
+      },
+      {
+        "zh": "从古至今，这个传统一直保留着。",
+        "pinyin": "Cóng gǔ zhì jīn, zhège chuántǒng yìzhí bǎoliúzhe.",
+        "en": "Eskiden bugüne bu gelenek hep korunmuştur."
+      },
+      {
+        "zh": "至今没有人能解开这个谜。",
+        "pinyin": "Zhìjīn méiyǒu rén néng jiěkāi zhège mí.",
+        "en": "Şimdiye kadar hiç kimse bu gizemi çözemedi."
+      },
+      {
+        "zh": "迄今为止，情况一切正常。",
+        "pinyin": "Qìjīn wéizhǐ, qíngkuàng yíqiè zhèngcháng.",
+        "en": "Şimdiye kadar her şey normal."
+      }
+    ]
+  },
+  {
+    "id": "w4090",
+    "hanzi": "金",
+    "pinyin": "jīn",
+    "meaning": "altın",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这枚戒指是纯金做的。",
+        "pinyin": "Zhè méi jièzhi shì chúnjīn zuò de.",
+        "en": "Bu yüzük saf altından yapılmış."
+      },
+      {
+        "zh": "他找到了一块金矿石。",
+        "pinyin": "Tā zhǎodàole yí kuài jīn kuàngshí.",
+        "en": "Bir altın cevheri buldu."
+      },
+      {
+        "zh": "金的价格最近上涨了。",
+        "pinyin": "Jīn de jiàgé zuìjìn shàngzhǎng le.",
+        "en": "Altının fiyatı son zamanlarda yükseldi."
+      },
+      {
+        "zh": "她的项链是用金做的。",
+        "pinyin": "Tā de xiàngliàn shì yòng jīn zuò de.",
+        "en": "Kolyesi altından yapılmış."
+      },
+      {
+        "zh": "金和银都是贵重金属。",
+        "pinyin": "Jīn hé yín dōu shì guìzhòng jīnshǔ.",
+        "en": "Altın ve gümüş değerli metallerdir."
+      }
+    ]
+  },
+  {
+    "id": "w4091",
+    "hanzi": "金额",
+    "pinyin": "jīn'é",
+    "meaning": "para miktarı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这笔交易的金额很大。",
+        "pinyin": "Zhè bǐ jiāoyì de jīn'é hěn dà.",
+        "en": "Bu işlemin tutarı çok büyük."
+      },
+      {
+        "zh": "请填写转账金额。",
+        "pinyin": "Qǐng tiánxiě zhuǎnzhàng jīn'é.",
+        "en": "Lütfen havale tutarını doldurun."
+      },
+      {
+        "zh": "他捐赠的金额超过了十万元。",
+        "pinyin": "Tā juānzèng de jīn'é chāoguòle shí wàn yuán.",
+        "en": "Bağış tutarı yüz bin yuanı geçti."
+      },
+      {
+        "zh": "合同上写明了付款金额。",
+        "pinyin": "Hétong shàng xiěmíngle fùkuǎn jīn'é.",
+        "en": "Sözleşmede ödeme tutarı açıkça belirtildi."
+      },
+      {
+        "zh": "这个项目的投资金额相当可观。",
+        "pinyin": "Zhège xiàngmù de tóuzī jīn'é xiāngdāng kěguān.",
+        "en": "Bu projenin yatırım tutarı oldukça yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w4092",
+    "hanzi": "金黄",
+    "pinyin": "jīnhuáng",
+    "meaning": "altın sarısı",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "秋天的稻田一片金黄。",
+        "pinyin": "Qiūtiān de dàotián yí piàn jīnhuáng.",
+        "en": "Sonbaharda pirinç tarlaları tamamen altın sarısı."
+      },
+      {
+        "zh": "她的头发是金黄色的。",
+        "pinyin": "Tā de tóufa shì jīnhuángsè de.",
+        "en": "Saçları altın sarısı renkte."
+      },
+      {
+        "zh": "夕阳把天空染成了金黄色。",
+        "pinyin": "Xīyáng bǎ tiānkōng rǎnchéngle jīnhuángsè.",
+        "en": "Gün batımı gökyüzünü altın sarısına boyadı."
+      },
+      {
+        "zh": "树叶变成了金黄色。",
+        "pinyin": "Shùyè biànchéngle jīnhuángsè.",
+        "en": "Yapraklar altın sarısına döndü."
+      },
+      {
+        "zh": "金黄的麦田非常美丽。",
+        "pinyin": "Jīnhuáng de màitián fēicháng měilì.",
+        "en": "Altın sarısı buğday tarlaları çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w4093",
+    "hanzi": "金钱",
+    "pinyin": "jīnqián",
+    "meaning": "para",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "金钱不是万能的。",
+        "pinyin": "Jīnqián bú shì wànnéng de.",
+        "en": "Para her şeye yetmez."
+      },
+      {
+        "zh": "他把金钱看得很重要。",
+        "pinyin": "Tā bǎ jīnqián kàn de hěn zhòngyào.",
+        "en": "Parayı çok önemli görüyor."
+      },
+      {
+        "zh": "健康比金钱更重要。",
+        "pinyin": "Jiànkāng bǐ jīnqián gèng zhòngyào.",
+        "en": "Sağlık paradan daha önemlidir."
+      },
+      {
+        "zh": "他不为金钱所动。",
+        "pinyin": "Tā bù wèi jīnqián suǒ dòng.",
+        "en": "Para tarafından etkilenmiyor."
+      },
+      {
+        "zh": "友谊无法用金钱衡量。",
+        "pinyin": "Yǒuyì wúfǎ yòng jīnqián héngliáng.",
+        "en": "Dostluk parayla ölçülemez."
+      }
+    ]
+  },
+  {
+    "id": "w4094",
+    "hanzi": "金融",
+    "pinyin": "jīnróng",
+    "meaning": "finans, bankacılık",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他在金融行业工作。",
+        "pinyin": "Tā zài jīnróng hángyè gōngzuò.",
+        "en": "Finans sektöründe çalışıyor."
+      },
+      {
+        "zh": "这次金融危机影响了很多国家。",
+        "pinyin": "Zhè cì jīnróng wēijī yǐngxiǎngle hěn duō guójiā.",
+        "en": "Bu finansal kriz birçok ülkeyi etkiledi."
+      },
+      {
+        "zh": "他学习的是金融专业。",
+        "pinyin": "Tā xuéxí de shì jīnróng zhuānyè.",
+        "en": "Finans alanında okuyor."
+      },
+      {
+        "zh": "金融市场今天波动很大。",
+        "pinyin": "Jīnróng shìchǎng jīntiān bōdòng hěn dà.",
+        "en": "Finans piyasası bugün büyük dalgalanma yaşadı."
+      },
+      {
+        "zh": "这家银行是金融机构。",
+        "pinyin": "Zhè jiā yínháng shì jīnróng jīgòu.",
+        "en": "Bu banka bir finans kurumudur."
+      }
+    ]
+  },
+  {
+    "id": "w4095",
+    "hanzi": "金字塔",
+    "pinyin": "jīnzìtǎ",
+    "meaning": "piramit",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "埃及的金字塔非常有名。",
+        "pinyin": "Āijí de jīnzìtǎ fēicháng yǒumíng.",
+        "en": "Mısır'ın piramitleri çok meşhur."
+      },
+      {
+        "zh": "我们去参观了金字塔。",
+        "pinyin": "Wǒmen qù cānguānle jīnzìtǎ.",
+        "en": "Piramitleri ziyaret etmeye gittik."
+      },
+      {
+        "zh": "金字塔是古代文明的象征。",
+        "pinyin": "Jīnzìtǎ shì gǔdài wénmíng de xiàngzhēng.",
+        "en": "Piramitler antik uygarlığın simgesidir."
+      },
+      {
+        "zh": "建造金字塔花费了很多年。",
+        "pinyin": "Jiànzào jīnzìtǎ huāfèile hěn duō nián.",
+        "en": "Piramit inşası yıllarca sürdü."
+      },
+      {
+        "zh": "这座金字塔的规模非常宏大。",
+        "pinyin": "Zhè zuò jīnzìtǎ de guīmó fēicháng hóngdà.",
+        "en": "Bu piramidin ölçeği çok büyük."
+      }
+    ]
+  },
+  {
+    "id": "w4096",
+    "hanzi": "筋",
+    "pinyin": "jīn",
+    "meaning": "kas, kiriş, sinir",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他扭伤了脚上的筋。",
+        "pinyin": "Tā niǔshāngle jiǎo shàng de jīn.",
+        "en": "Ayağındaki kirişi burktu."
+      },
+      {
+        "zh": "运动后他的腿部筋肉很酸痛。",
+        "pinyin": "Yùndòng hòu tā de tuǐbù jīnròu hěn suāntòng.",
+        "en": "Egzersizden sonra bacak kasları çok ağrıyor."
+      },
+      {
+        "zh": "他伤了脚筋，不能走路了。",
+        "pinyin": "Tā shāngle jiǎojīn, bù néng zǒulù le.",
+        "en": "Ayak kirişini incittiği için yürüyemiyor."
+      },
+      {
+        "zh": "老年人筋骨容易受伤。",
+        "pinyin": "Lǎonián rén jīngǔ róngyì shòushāng.",
+        "en": "Yaşlı insanların kas ve kemikleri kolayca yaralanabilir."
+      },
+      {
+        "zh": "长期锻炼可以增强筋骨。",
+        "pinyin": "Chángqī duànliàn kěyǐ zēngqiáng jīngǔ.",
+        "en": "Uzun süreli egzersiz kasları güçlendirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4097",
+    "hanzi": "筋疲力尽",
+    "pinyin": "jīnpí-lìjìn",
+    "meaning": "yorgunluktan bitkin",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "跑完马拉松后他筋疲力尽。",
+        "pinyin": "Pǎowán mǎlāsōng hòu tā jīnpí-lìjìn.",
+        "en": "Maratonu koştuktan sonra yorgunluktan bitkin düştü."
+      },
+      {
+        "zh": "忙碌了一整天，她感到筋疲力尽。",
+        "pinyin": "Mánglùle yì zhěng tiān, tā gǎndào jīnpí-lìjìn.",
+        "en": "Bütün gün yoğun geçirdikten sonra yorgunluktan bitkin hissetti."
+      }
+    ]
+  },
+  {
+    "id": "w4098",
+    "hanzi": "斤",
+    "pinyin": "jīn",
+    "meaning": "jin (yarım kilogram ağırlık birimi)",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "ölçüm",
+    "examples": [
+      {
+        "zh": "请给我买两斤苹果。",
+        "pinyin": "Qǐng gěi wǒ mǎi liǎng jīn píngguǒ.",
+        "en": "Bana iki jin elma alın lütfen."
+      },
+      {
+        "zh": "这条鱼有三斤重。",
+        "pinyin": "Zhè tiáo yú yǒu sān jīn zhòng.",
+        "en": "Bu balık üç jin ağırlığında."
+      },
+      {
+        "zh": "一斤等于五百克。",
+        "pinyin": "Yì jīn děngyú wǔbǎi kè.",
+        "en": "Bir jin beş yüz grama eşittir."
+      },
+      {
+        "zh": "她买了半斤肉。",
+        "pinyin": "Tā mǎile bàn jīn ròu.",
+        "en": "Yarım jin et satın aldı."
+      },
+      {
+        "zh": "白菜多少钱一斤？",
+        "pinyin": "Báicài duōshao qián yì jīn?",
+        "en": "Lahana bir jin kaç para?"
+      }
+    ]
+  },
+  {
+    "id": "w4099",
+    "hanzi": "仅",
+    "pinyin": "jǐn",
+    "meaning": "sadece, yalnızca",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "全班仅他一人及格。",
+        "pinyin": "Quán bān jǐn tā yì rén jígé.",
+        "en": "Tüm sınıfta sadece o geçti."
+      },
+      {
+        "zh": "这个村庄仅有百余人。",
+        "pinyin": "Zhège cūnzhuāng jǐn yǒu bǎi yú rén.",
+        "en": "Bu köyde sadece yüz kadar insan var."
+      },
+      {
+        "zh": "剩下的时间仅够我们完成一半。",
+        "pinyin": "Shèngxià de shíjiān jǐn gòu wǒmen wánchéng yíbàn.",
+        "en": "Kalan süre sadece yarısını bitirmemize yetiyor."
+      },
+      {
+        "zh": "这项工作仅需三天完成。",
+        "pinyin": "Zhè xiàng gōngzuò jǐn xū sān tiān wánchéng.",
+        "en": "Bu iş sadece üç günde tamamlanabilir."
+      },
+      {
+        "zh": "他仅用一年就学会了汉语。",
+        "pinyin": "Tā jǐn yòng yì nián jiù xuéhuìle Hànyǔ.",
+        "en": "Sadece bir yılda Çince öğrendi."
+      }
+    ]
+  },
+  {
+    "id": "w4100",
+    "hanzi": "仅仅",
+    "pinyin": "jǐnjǐn",
+    "meaning": "sadece, yalnızca",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这仅仅是个开始。",
+        "pinyin": "Zhè jǐnjǐn shì ge kāishǐ.",
+        "en": "Bu sadece bir başlangıç."
+      },
+      {
+        "zh": "他仅仅说了一句话。",
+        "pinyin": "Tā jǐnjǐn shuōle yí jù huà.",
+        "en": "Sadece bir cümle söyledi."
+      },
+      {
+        "zh": "我们仅仅是普通朋友。",
+        "pinyin": "Wǒmen jǐnjǐn shì pǔtōng péngyou.",
+        "en": "Biz sadece sıradan arkadaşız."
+      },
+      {
+        "zh": "这仅仅是表面现象。",
+        "pinyin": "Zhè jǐnjǐn shì biǎomiàn xiànxiàng.",
+        "en": "Bu sadece yüzeysel bir görünüm."
+      },
+      {
+        "zh": "他们仅仅相处了一个月。",
+        "pinyin": "Tāmen jǐnjǐn xiāngchǔle yí ge yuè.",
+        "en": "Sadece bir ay birlikte vakit geçirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w4101",
+    "hanzi": "进出口",
+    "pinyin": "jìn-chūkǒu",
+    "meaning": "ithalat ihracat",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他在一家进出口公司工作。",
+        "pinyin": "Tā zài yì jiā jìn-chūkǒu gōngsī gōngzuò.",
+        "en": "Bir ithalat ihracat şirketinde çalışıyor."
+      },
+      {
+        "zh": "这个国家的进出口贸易发展迅速。",
+        "pinyin": "Zhège guójiā de jìn-chūkǒu màoyì fāzhǎn xùnsù.",
+        "en": "Bu ülkenin ithalat ihracat ticareti hızla gelişiyor."
+      },
+      {
+        "zh": "进出口货物需要经过海关检查。",
+        "pinyin": "Jìn-chūkǒu huòwù xūyào jīngguò hǎiguān jiǎnchá.",
+        "en": "İthalat ihracat malları gümrük kontrolünden geçmesi gerekir."
+      },
+      {
+        "zh": "进出口平衡对经济很重要。",
+        "pinyin": "Jìn-chūkǒu pínghéng duì jīngjì hěn zhòngyào.",
+        "en": "İthalat ihracat dengesi ekonomi için çok önemlidir."
+      },
+      {
+        "zh": "这家公司专门从事电子产品进出口。",
+        "pinyin": "Zhè jiā gōngsī zhuānmén cóngshì diànzǐ chǎnpǐn jìn-chūkǒu.",
+        "en": "Bu şirket özellikle elektronik ürünlerin ithalat ihracatıyla uğraşıyor."
+      }
+    ]
   }
 ]

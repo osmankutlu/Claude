@@ -133174,5 +133174,809 @@
         "en": "Masada bir hesap makinesi duruyor."
       }
     ]
+  },
+  {
+    "id": "w3886",
+    "hanzi": "技能",
+    "pinyin": "jìnéng",
+    "meaning": "beceri, yetenek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他掌握了多种技能。",
+        "pinyin": "Tā zhǎngwòle duō zhǒng jìnéng.",
+        "en": "Birçok beceriye hakim."
+      },
+      {
+        "zh": "这份工作需要专业技能。",
+        "pinyin": "Zhè fèn gōngzuò xūyào zhuānyè jìnéng.",
+        "en": "Bu iş mesleki beceri gerektiriyor."
+      },
+      {
+        "zh": "她通过培训提高了自己的技能。",
+        "pinyin": "Tā tōngguò péixùn tígāole zìjǐ de jìnéng.",
+        "en": "Eğitim yoluyla becerilerini geliştirdi."
+      },
+      {
+        "zh": "学习一门新技能需要时间和耐心。",
+        "pinyin": "Xuéxí yì mén xīn jìnéng xūyào shíjiān hé nàixīn.",
+        "en": "Yeni bir beceri öğrenmek zaman ve sabır gerektirir."
+      },
+      {
+        "zh": "他的沟通技能非常出色。",
+        "pinyin": "Tā de gōutōng jìnéng fēicháng chūsè.",
+        "en": "İletişim becerisi çok üst düzey."
+      }
+    ]
+  },
+  {
+    "id": "w3887",
+    "hanzi": "技师",
+    "pinyin": "jìshī",
+    "meaning": "teknisyen",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是一名汽车修理技师。",
+        "pinyin": "Tā shì yì míng qìchē xiūlǐ jìshī.",
+        "en": "Bir otomobil tamir teknisyeni."
+      },
+      {
+        "zh": "技师检查了机器的故障。",
+        "pinyin": "Jìshī jiǎnchále jīqì de gùzhàng.",
+        "en": "Teknisyen makinedeki arızayı kontrol etti."
+      },
+      {
+        "zh": "请找一位专业技师来维修。",
+        "pinyin": "Qǐng zhǎo yí wèi zhuānyè jìshī lái wéixiū.",
+        "en": "Lütfen tamir için uzman bir teknisyen bulun."
+      },
+      {
+        "zh": "他从技师升为了工程师。",
+        "pinyin": "Tā cóng jìshī shēngwéile gōngchéngshī.",
+        "en": "Teknisyenlikten mühendisliğe terfi etti."
+      },
+      {
+        "zh": "这位技师经验非常丰富。",
+        "pinyin": "Zhè wèi jìshī jīngyàn fēicháng fēngfù.",
+        "en": "Bu teknisyenin deneyimi çok zengin."
+      }
+    ]
+  },
+  {
+    "id": "w3888",
+    "hanzi": "技艺",
+    "pinyin": "jìyì",
+    "meaning": "ustalık, sanat becerisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他的雕刻技艺非常精湛。",
+        "pinyin": "Tā de diāokè jìyì fēicháng jīngzhàn.",
+        "en": "Oymacılık becerisi son derece ustaca."
+      },
+      {
+        "zh": "这门技艺已经流传了几百年。",
+        "pinyin": "Zhè mén jìyì yǐjīng liúchuánle jǐ bǎi nián.",
+        "en": "Bu sanat yüzyıllardır aktarılıyor."
+      },
+      {
+        "zh": "他向师傅学习传统技艺。",
+        "pinyin": "Tā xiàng shīfu xuéxí chuántǒng jìyì.",
+        "en": "Ustadan geleneksel bir sanatı öğreniyor."
+      },
+      {
+        "zh": "她的刺绣技艺令人赞叹。",
+        "pinyin": "Tā de cìxiù jìyì lìng rén zàntàn.",
+        "en": "Nakış becerisi hayranlık uyandırıyor."
+      },
+      {
+        "zh": "这项技艺被列为非物质文化遗产。",
+        "pinyin": "Zhè xiàng jìyì bèi lièwéi fēiwùzhì wénhuà yíchǎn.",
+        "en": "Bu sanat somut olmayan kültürel miras olarak kabul edildi."
+      }
+    ]
+  },
+  {
+    "id": "w3889",
+    "hanzi": "寄存",
+    "pinyin": "jìcún",
+    "meaning": "emanet bırakmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "我把行李寄存在车站了。",
+        "pinyin": "Wǒ bǎ xíngli jìcún zài chēzhàn le.",
+        "en": "Bagajımı istasyona emanet bıraktım."
+      },
+      {
+        "zh": "你可以在这里寄存你的包。",
+        "pinyin": "Nǐ kěyǐ zài zhèlǐ jìcún nǐ de bāo.",
+        "en": "Çantanı burada emanet bırakabilirsin."
+      },
+      {
+        "zh": "寄存处在一楼。",
+        "pinyin": "Jìcúnchù zài yī lóu.",
+        "en": "Emanet bölümü birinci katta."
+      },
+      {
+        "zh": "他把贵重物品寄存在银行保险箱里。",
+        "pinyin": "Tā bǎ guìzhòng wùpǐn jìcún zài yínháng bǎoxiǎnxiāng lǐ.",
+        "en": "Değerli eşyalarını banka kasasına emanet bıraktı."
+      },
+      {
+        "zh": "请出示凭证领取寄存的物品。",
+        "pinyin": "Qǐng chūshì píngzhèng lǐngqǔ jìcún de wùpǐn.",
+        "en": "Emanet eşyayı almak için lütfen fişi gösterin."
+      }
+    ]
+  },
+  {
+    "id": "w3890",
+    "hanzi": "寄生虫",
+    "pinyin": "jìshēngchóng",
+    "meaning": "asalak, parazit",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "这种寄生虫会寄居在人体内。",
+        "pinyin": "Zhè zhǒng jìshēngchóng huì jìjū zài réntǐ nèi.",
+        "en": "Bu tür asalaklar insan vücudunda yaşayabilir."
+      },
+      {
+        "zh": "狗身上有寄生虫。",
+        "pinyin": "Gǒu shēnshang yǒu jìshēngchóng.",
+        "en": "Köpeğin üstünde parazit var."
+      },
+      {
+        "zh": "医生检查了病人是否感染了寄生虫。",
+        "pinyin": "Yīshēng jiǎnchále bìngrén shìfǒu gǎnrǎnle jìshēngchóng.",
+        "en": "Doktor hastanın parazit kapıp kapmadığını kontrol etti."
+      },
+      {
+        "zh": "不干净的水可能含有寄生虫。",
+        "pinyin": "Bù gānjìng de shuǐ kěnéng hányǒu jìshēngchóng.",
+        "en": "Kirli su parazit içerebilir."
+      },
+      {
+        "zh": "他被诊断出感染了寄生虫。",
+        "pinyin": "Tā bèi zhěnduàn chū gǎnrǎnle jìshēngchóng.",
+        "en": "Parazit kapmış olduğu teşhis edildi."
+      }
+    ]
+  },
+  {
+    "id": "w3891",
+    "hanzi": "寄宿",
+    "pinyin": "jìsù",
+    "meaning": "yatılı kalmak, pansiyoner olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他在学校寄宿。",
+        "pinyin": "Tā zài xuéxiào jìsù.",
+        "en": "Okulda yatılı kalıyor."
+      },
+      {
+        "zh": "这所学校提供寄宿服务。",
+        "pinyin": "Zhè suǒ xuéxiào tígōng jìsù fúwù.",
+        "en": "Bu okul yatılı hizmet sunuyor."
+      },
+      {
+        "zh": "她从小就在寄宿家庭生活。",
+        "pinyin": "Tā cóngxiǎo jiù zài jìsù jiātíng shēnghuó.",
+        "en": "Küçüklüğünden beri bir konukçu ailede yaşıyor."
+      },
+      {
+        "zh": "寄宿生活让他更加独立。",
+        "pinyin": "Jìsù shēnghuó ràng tā gèngjiā dúlì.",
+        "en": "Yatılı hayat onu daha bağımsız yaptı."
+      },
+      {
+        "zh": "他申请了寄宿学校。",
+        "pinyin": "Tā shēnqǐngle jìsù xuéxiào.",
+        "en": "Yatılı okula başvurdu."
+      }
+    ]
+  },
+  {
+    "id": "w3892",
+    "hanzi": "季风",
+    "pinyin": "jìfēng",
+    "meaning": "muson",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "这个地区受季风影响很大。",
+        "pinyin": "Zhège dìqū shòu jìfēng yǐngxiǎng hěn dà.",
+        "en": "Bu bölge musondan büyük ölçüde etkileniyor."
+      },
+      {
+        "zh": "夏季季风带来大量降雨。",
+        "pinyin": "Xiàjì jìfēng dàilái dàliàng jiàngyǔ.",
+        "en": "Yaz musonu bol yağış getiriyor."
+      },
+      {
+        "zh": "季风气候四季分明。",
+        "pinyin": "Jìfēng qìhòu sìjì fēnmíng.",
+        "en": "Muson iklimi belirgin mevsimlere sahiptir."
+      },
+      {
+        "zh": "季风的变化影响着农业生产。",
+        "pinyin": "Jìfēng de biànhuà yǐngxiǎngzhe nóngyè shēngchǎn.",
+        "en": "Musondaki değişimler tarımsal üretimi etkiliyor."
+      },
+      {
+        "zh": "东南亚地区常年受季风影响。",
+        "pinyin": "Dōngnányà dìqū chángnián shòu jìfēng yǐngxiǎng.",
+        "en": "Güneydoğu Asya bölgesi yıl boyunca monsun etkisi altındadır."
+      }
+    ]
+  },
+  {
+    "id": "w3893",
+    "hanzi": "记载",
+    "pinyin": "jìzǎi",
+    "meaning": "kaydetmek; kayıt",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这本书记载了这段历史。",
+        "pinyin": "Zhè běn shū jìzǎile zhè duàn lìshǐ.",
+        "en": "Bu kitap bu tarihi kaydetmiştir."
+      },
+      {
+        "zh": "古书上有关于这个事件的记载。",
+        "pinyin": "Gǔshū shàng yǒu guānyú zhège shìjiàn de jìzǎi.",
+        "en": "Eski kitaplarda bu olayla ilgili kayıtlar var."
+      },
+      {
+        "zh": "史料详细记载了当时的情况。",
+        "pinyin": "Shǐliào xiángxì jìzǎile dāngshí de qíngkuàng.",
+        "en": "Tarihi kaynaklar o dönemin durumunu detaylı bir şekilde kaydetmiştir."
+      },
+      {
+        "zh": "这些文字记载非常珍贵。",
+        "pinyin": "Zhèxiē wénzì jìzǎi fēicháng zhēnguì.",
+        "en": "Bu yazılı kayıtlar çok değerlidir."
+      },
+      {
+        "zh": "相关记载已经失传。",
+        "pinyin": "Xiāngguān jìzǎi yǐjīng shīchuán.",
+        "en": "İlgili kayıtlar artık kaybolmuş."
+      }
+    ]
+  },
+  {
+    "id": "w3894",
+    "hanzi": "继承",
+    "pinyin": "jìchéng",
+    "meaning": "miras almak, devam ettirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他继承了父亲的家业。",
+        "pinyin": "Tā jìchéngle fùqin de jiāyè.",
+        "en": "Babasının işini devraldı."
+      },
+      {
+        "zh": "她继承了一大笔遗产。",
+        "pinyin": "Tā jìchéngle yí dà bǐ yíchǎn.",
+        "en": "Büyük bir miras devraldı."
+      },
+      {
+        "zh": "我们要继承和发扬优良传统。",
+        "pinyin": "Wǒmen yào jìchéng hé fāyáng yōuliáng chuántǒng.",
+        "en": "İyi gelenekleri devralıp geliştirmeliyiz."
+      },
+      {
+        "zh": "他继承了父亲的性格。",
+        "pinyin": "Tā jìchéngle fùqin de xìnggé.",
+        "en": "Babasının karakterini devraldı."
+      },
+      {
+        "zh": "儿子继承了父亲的公司。",
+        "pinyin": "Érzi jìchéngle fùqin de gōngsī.",
+        "en": "Oğul babasının şirketini devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w3895",
+    "hanzi": "继承人",
+    "pinyin": "jìchéngrén",
+    "meaning": "mirasçı, varis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他是这家公司的合法继承人。",
+        "pinyin": "Tā shì zhè jiā gōngsī de héfǎ jìchéngrén.",
+        "en": "Bu şirketin yasal varisidir."
+      },
+      {
+        "zh": "国王指定了自己的继承人。",
+        "pinyin": "Guówáng zhǐdìngle zìjǐ de jìchéngrén.",
+        "en": "Kral kendi varisini belirledi."
+      },
+      {
+        "zh": "她被认定为遗产的唯一继承人。",
+        "pinyin": "Tā bèi rèndìngwéi yíchǎn de wéiyī jìchéngrén.",
+        "en": "Mirasın tek varisi olarak kabul edildi."
+      },
+      {
+        "zh": "家族没有合适的继承人。",
+        "pinyin": "Jiāzú méiyǒu héshì de jìchéngrén.",
+        "en": "Ailede uygun bir varis yok."
+      },
+      {
+        "zh": "他被选为公司的继承人。",
+        "pinyin": "Tā bèi xuǎnwéi gōngsī de jìchéngrén.",
+        "en": "Şirketin varisi olarak seçildi."
+      }
+    ]
+  },
+  {
+    "id": "w3896",
+    "hanzi": "继而",
+    "pinyin": "jì'ér",
+    "meaning": "daha sonra, ardından",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他先愣了一下，继而笑了起来。",
+        "pinyin": "Tā xiān lèngle yíxià, jì'ér xiàole qǐlai.",
+        "en": "Önce şaşırdı, ardından gülmeye başladı."
+      },
+      {
+        "zh": "会议先讨论了预算问题，继而讨论了人事安排。",
+        "pinyin": "Huìyì xiān tǎolùnle yùsuàn wèntí, jì'ér tǎolùnle rénshì ānpái.",
+        "en": "Toplantıda önce bütçe konusu, ardından personel düzenlemesi tartışıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3897",
+    "hanzi": "继父",
+    "pinyin": "jìfù",
+    "meaning": "üvey baba",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他的继父对他很好。",
+        "pinyin": "Tā de jìfù duì tā hěn hǎo.",
+        "en": "Üvey babası ona karşı çok iyi."
+      },
+      {
+        "zh": "她从小和继父一起生活。",
+        "pinyin": "Tā cóngxiǎo hé jìfù yìqǐ shēnghuó.",
+        "en": "Küçüklüğünden beri üvey babasıyla yaşıyor."
+      },
+      {
+        "zh": "继父给了他很多支持。",
+        "pinyin": "Jìfù gěile tā hěn duō zhīchí.",
+        "en": "Üvey babası ona çok destek verdi."
+      },
+      {
+        "zh": "他终于接受了继父。",
+        "pinyin": "Tā zhōngyú jiēshòule jìfù.",
+        "en": "Sonunda üvey babasını kabullendi."
+      },
+      {
+        "zh": "继父像亲生父亲一样照顾她。",
+        "pinyin": "Jìfù xiàng qīnshēng fùqin yíyàng zhàogù tā.",
+        "en": "Üvey babası ona öz babası gibi bakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3898",
+    "hanzi": "继母",
+    "pinyin": "jìmǔ",
+    "meaning": "üvey anne",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "她的继母对她很严厉。",
+        "pinyin": "Tā de jìmǔ duì tā hěn yánlì.",
+        "en": "Üvey annesi ona karşı çok sert."
+      },
+      {
+        "zh": "灰姑娘的故事里有一个坏继母。",
+        "pinyin": "Huīgūniang de gùshi lǐ yǒu yí ge huài jìmǔ.",
+        "en": "Külkedisi hikayesinde kötü bir üvey anne var."
+      },
+      {
+        "zh": "他和继母的关系渐渐好转了。",
+        "pinyin": "Tā hé jìmǔ de guānxi jiànjiàn hǎozhuǎn le.",
+        "en": "Üvey annesiyle ilişkisi giderek düzeldi."
+      },
+      {
+        "zh": "继母对他视如己出。",
+        "pinyin": "Jìmǔ duì tā shì rú jǐ chū.",
+        "en": "Üvey annesi ona öz evladı gibi davranıyor."
+      },
+      {
+        "zh": "她小时候由继母抚养长大。",
+        "pinyin": "Tā xiǎoshíhou yóu jìmǔ fǔyǎng zhǎngdà.",
+        "en": "Küçükken üvey annesi tarafından büyütüldü."
+      }
+    ]
+  },
+  {
+    "id": "w3899",
+    "hanzi": "忌讳",
+    "pinyin": "jìhuì",
+    "meaning": "tabu; sakınmak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "在中国文化中，数字四是一种忌讳。",
+        "pinyin": "Zài Zhōngguó wénhuà zhōng, shùzì sì shì yì zhǒng jìhuì.",
+        "en": "Çin kültüründe dört sayısı bir tabudur."
+      },
+      {
+        "zh": "谈论年龄在有些场合是一种忌讳。",
+        "pinyin": "Tánlùn niánlíng zài yǒuxiē chǎnghé shì yì zhǒng jìhuì.",
+        "en": "Yaştan bahsetmek bazı ortamlarda bir tabudur."
+      }
+    ]
+  },
+  {
+    "id": "w3900",
+    "hanzi": "加倍",
+    "pinyin": "jiābèi",
+    "meaning": "ikiye katlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们要加倍努力。",
+        "pinyin": "Wǒmen yào jiābèi nǔlì.",
+        "en": "İki kat daha çok çaba göstermeliyiz."
+      },
+      {
+        "zh": "他的痛苦加倍了。",
+        "pinyin": "Tā de tòngkǔ jiābèi le.",
+        "en": "Acısı ikiye katlandı."
+      },
+      {
+        "zh": "公司决定加倍投资研发。",
+        "pinyin": "Gōngsī juédìng jiābèi tóuzī yánfā.",
+        "en": "Şirket Ar-Ge yatırımını ikiye katlamaya karar verdi."
+      },
+      {
+        "zh": "他加倍小心地处理这件事。",
+        "pinyin": "Tā jiābèi xiǎoxīn de chǔlǐ zhè jiàn shì.",
+        "en": "Bu işi iki kat daha dikkatli ele aldı."
+      },
+      {
+        "zh": "遇到困难时更要加倍坚强。",
+        "pinyin": "Yùdào kùnnan shí gèng yào jiābèi jiānqiáng.",
+        "en": "Zorluklarla karşılaşınca iki kat daha güçlü olmak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3901",
+    "hanzi": "加害",
+    "pinyin": "jiāhài",
+    "meaning": "zarar vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "有人企图加害于他。",
+        "pinyin": "Yǒurén qǐtú jiāhài yú tā.",
+        "en": "Birisi ona zarar vermeye çalıştı."
+      },
+      {
+        "zh": "警方调查了加害者的动机。",
+        "pinyin": "Jǐngfāng diàochále jiāhàizhě de dòngjī.",
+        "en": "Polis zarar verenin motivini araştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3902",
+    "hanzi": "加紧",
+    "pinyin": "jiājǐn",
+    "meaning": "hızlandırmak, sıkılaştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工人们加紧施工进度。",
+        "pinyin": "Gōngrénmen jiājǐn shīgōng jìndù.",
+        "en": "İşçiler inşaat hızını artırdı."
+      },
+      {
+        "zh": "我们要加紧准备考试。",
+        "pinyin": "Wǒmen yào jiājǐn zhǔnbèi kǎoshì.",
+        "en": "Sınava hazırlanmayı hızlandırmalıyız."
+      },
+      {
+        "zh": "政府加紧应对疫情。",
+        "pinyin": "Zhèngfǔ jiājǐn yìngduì yìqíng.",
+        "en": "Hükümet salgına karşı önlemleri hızlandırdı."
+      },
+      {
+        "zh": "他们加紧完成剩下的任务。",
+        "pinyin": "Tāmen jiājǐn wánchéng shèngxià de rènwu.",
+        "en": "Kalan görevleri hızlandırarak tamamlıyorlar."
+      },
+      {
+        "zh": "大家加紧脚步赶路。",
+        "pinyin": "Dàjiā jiājǐn jiǎobù gǎnlù.",
+        "en": "Herkes adımlarını hızlandırarak yola devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w3903",
+    "hanzi": "加剧",
+    "pinyin": "jiājù",
+    "meaning": "şiddetlenmek, ağırlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "病情正在加剧。",
+        "pinyin": "Bìngqíng zhèngzài jiājù.",
+        "en": "Hastalık ağırlaşıyor."
+      },
+      {
+        "zh": "环境污染问题日益加剧。",
+        "pinyin": "Huánjìng wūrǎn wèntí rìyì jiājù.",
+        "en": "Çevre kirliliği sorunu giderek ağırlaşıyor."
+      },
+      {
+        "zh": "双方矛盾进一步加剧。",
+        "pinyin": "Shuāngfāng máodùn jìnyíbù jiājù.",
+        "en": "İki taraf arasındaki çatışma daha da şiddetlendi."
+      },
+      {
+        "zh": "经济危机加剧了社会不安。",
+        "pinyin": "Jīngjì wēijī jiājùle shèhuì bù'ān.",
+        "en": "Ekonomik kriz toplumsal huzursuzluğu artırdı."
+      },
+      {
+        "zh": "缺水问题在夏季加剧。",
+        "pinyin": "Quēshuǐ wèntí zài xiàjì jiājù.",
+        "en": "Su sıkıntısı sorunu yazın şiddetleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w3904",
+    "hanzi": "加盟",
+    "pinyin": "jiāméng",
+    "meaning": "katılmak (birliğe, franchise'a)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他决定加盟这家公司。",
+        "pinyin": "Tā juédìng jiāméng zhè jiā gōngsī.",
+        "en": "Bu şirkete katılmaya karar verdi."
+      },
+      {
+        "zh": "这个品牌开放了加盟。",
+        "pinyin": "Zhège pǐnpái kāifàngle jiāméng.",
+        "en": "Bu marka franchise sistemini açtı."
+      },
+      {
+        "zh": "他花了不少钱加盟这家连锁店。",
+        "pinyin": "Tā huāle bù shǎo qián jiāméng zhè jiā liánsuǒdiàn.",
+        "en": "Bu zincir mağazaya katılmak için epey para harcadı."
+      },
+      {
+        "zh": "这名球员将加盟新球队。",
+        "pinyin": "Zhè míng qiúyuán jiāng jiāméng xīn qiúduì.",
+        "en": "Bu oyuncu yeni takıma katılacak."
+      },
+      {
+        "zh": "越来越多的商家选择加盟模式。",
+        "pinyin": "Yuèláiyuè duō de shāngjiā xuǎnzé jiāméng móshì.",
+        "en": "Giderek daha fazla işletme franchise modelini tercih ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3905",
+    "hanzi": "加深",
+    "pinyin": "jiāshēn",
+    "meaning": "derinleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这次旅行加深了我们的友谊。",
+        "pinyin": "Zhè cì lǚxíng jiāshēnle wǒmen de yǒuyì.",
+        "en": "Bu gezi dostluğumuzu derinleştirdi."
+      },
+      {
+        "zh": "随着交流增多，误解逐渐加深。",
+        "pinyin": "Suízhe jiāoliú zēngduō, wùjiě zhújiàn jiāshēn.",
+        "en": "İletişim arttıkça yanlış anlaşılma giderek derinleşti."
+      },
+      {
+        "zh": "这本书加深了我对历史的理解。",
+        "pinyin": "Zhè běn shū jiāshēnle wǒ duì lìshǐ de lǐjiě.",
+        "en": "Bu kitap tarihe dair anlayışımı derinleştirdi."
+      },
+      {
+        "zh": "两国合作正在不断加深。",
+        "pinyin": "Liǎng guó hézuò zhèngzài búduàn jiāshēn.",
+        "en": "İki ülke arasındaki işbirliği sürekli derinleşiyor."
+      },
+      {
+        "zh": "他们的矛盾进一步加深了。",
+        "pinyin": "Tāmen de máodùn jìnyíbù jiāshēn le.",
+        "en": "Aralarındaki çatışma daha da derinleşti."
+      }
+    ]
+  },
+  {
+    "id": "w3906",
+    "hanzi": "加以",
+    "pinyin": "jiāyǐ",
+    "meaning": "işlem yapmak, ele almak (bir konuda)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "对这个问题要认真加以研究。",
+        "pinyin": "Duì zhège wèntí yào rènzhēn jiāyǐ yánjiū.",
+        "en": "Bu soruna ciddi bir şekilde eğilmek gerekir."
+      },
+      {
+        "zh": "相关部门已经加以调查。",
+        "pinyin": "Xiāngguān bùmén yǐjīng jiāyǐ diàochá.",
+        "en": "İlgili birimler bu konuda soruşturma yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w3907",
+    "hanzi": "家境",
+    "pinyin": "jiājìng",
+    "meaning": "ailenin maddi durumu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他家境不太好。",
+        "pinyin": "Tā jiājìng bú tài hǎo.",
+        "en": "Ailesinin maddi durumu pek iyi değil."
+      },
+      {
+        "zh": "她出身于富裕的家境。",
+        "pinyin": "Tā chūshēn yú fùyù de jiājìng.",
+        "en": "Zengin bir ailenin çocuğu olarak doğdu."
+      },
+      {
+        "zh": "家境贫寒的孩子更懂得珍惜。",
+        "pinyin": "Jiājìng pínhán de háizi gèng dǒngde zhēnxī.",
+        "en": "Fakir ailelerin çocukları değer bilmeyi daha iyi öğrenir."
+      },
+      {
+        "zh": "虽然家境一般，他仍努力学习。",
+        "pinyin": "Suīrán jiājìng yìbān, tā réng nǔlì xuéxí.",
+        "en": "Ailesinin durumu sıradan olsa da çalışmaya devam etti."
+      },
+      {
+        "zh": "他靠自己的努力改变了家境。",
+        "pinyin": "Tā kào zìjǐ de nǔlì gǎibiànle jiājìng.",
+        "en": "Kendi çabasıyla ailesinin durumunu değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3908",
+    "hanzi": "家禽",
+    "pinyin": "jiāqín",
+    "meaning": "kümes hayvanı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "农场里养了很多家禽。",
+        "pinyin": "Nóngchǎng lǐ yǎngle hěn duō jiāqín.",
+        "en": "Çiftlikte birçok kümes hayvanı besleniyor."
+      },
+      {
+        "zh": "鸡和鸭都是常见的家禽。",
+        "pinyin": "Jī hé yā dōu shì chángjiàn de jiāqín.",
+        "en": "Tavuk ve ördek yaygın kümes hayvanlarıdır."
+      },
+      {
+        "zh": "他每天早上去喂家禽。",
+        "pinyin": "Tā měitiān zǎoshang qù wèi jiāqín.",
+        "en": "Her sabah kümes hayvanlarını besliyor."
+      },
+      {
+        "zh": "这个市场专门卖家禽。",
+        "pinyin": "Zhège shìchǎng zhuānmén mài jiāqín.",
+        "en": "Bu pazar özellikle kümes hayvanı satıyor."
+      },
+      {
+        "zh": "家禽疫病需要及时防控。",
+        "pinyin": "Jiāqín yìbìng xūyào jíshí fángkòng.",
+        "en": "Kümes hayvanı hastalıkları zamanında önlenmeli."
+      }
+    ]
+  },
+  {
+    "id": "w3909",
+    "hanzi": "家属",
+    "pinyin": "jiāshǔ",
+    "meaning": "aile üyeleri, aile efradı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "病人的家属都很担心。",
+        "pinyin": "Bìngrén de jiāshǔ dōu hěn dānxīn.",
+        "en": "Hastanın aile üyeleri çok endişeli."
+      },
+      {
+        "zh": "医院通知了病人的家属。",
+        "pinyin": "Yīyuàn tōngzhīle bìngrén de jiāshǔ.",
+        "en": "Hastane hastanın ailesine haber verdi."
+      },
+      {
+        "zh": "员工家属也可以参加公司活动。",
+        "pinyin": "Yuángōng jiāshǔ yě kěyǐ cānjiā gōngsī huódòng.",
+        "en": "Çalışanların aile üyeleri de şirket etkinliklerine katılabilir."
+      },
+      {
+        "zh": "士兵家属受到了政府的照顾。",
+        "pinyin": "Shìbīng jiāshǔ shòudàole zhèngfǔ de zhàogù.",
+        "en": "Askerlerin aile üyeleri hükümet tarafından gözetildi."
+      },
+      {
+        "zh": "遇难者家属得到了赔偿。",
+        "pinyin": "Yùnànzhě jiāshǔ dédàole péicháng.",
+        "en": "Kurbanların aile üyeleri tazminat aldı."
+      }
+    ]
   }
 ]

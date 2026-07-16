@@ -134827,5 +134827,839 @@
         "en": "Fabrikanın üretim sürecini denetlemekten sorumlu."
       }
     ]
+  },
+  {
+    "id": "w3934",
+    "hanzi": "监禁",
+    "pinyin": "jiānjìn",
+    "meaning": "hapsetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被监禁了五年。",
+        "pinyin": "Tā bèi jiānjìnle wǔ nián.",
+        "en": "Beş yıl hapsedildi."
+      },
+      {
+        "zh": "法院判处他终身监禁。",
+        "pinyin": "Fǎyuàn pànchǔ tā zhōngshēn jiānjìn.",
+        "en": "Mahkeme ona ömür boyu hapis cezası verdi."
+      },
+      {
+        "zh": "他因盗窃被监禁在监狱里。",
+        "pinyin": "Tā yīn dàoqiè bèi jiānjìn zài jiānyù lǐ.",
+        "en": "Hırsızlık nedeniyle hapishanede tutuldu."
+      },
+      {
+        "zh": "政府监禁了这些反对者。",
+        "pinyin": "Zhèngfǔ jiānjìnle zhèxiē fǎnduìzhě.",
+        "en": "Hükümet bu muhalifleri hapsetti."
+      },
+      {
+        "zh": "他被非法监禁了一个月。",
+        "pinyin": "Tā bèi fēifǎ jiānjìnle yí ge yuè.",
+        "en": "Bir ay boyunca yasadışı bir şekilde alıkonuldu."
+      }
+    ]
+  },
+  {
+    "id": "w3935",
+    "hanzi": "监视",
+    "pinyin": "jiānshì",
+    "meaning": "gözetlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方一直在监视这个嫌疑人。",
+        "pinyin": "Jǐngfāng yìzhí zài jiānshì zhège xiányírén.",
+        "en": "Polis bu şüpheliyi sürekli izliyordu."
+      },
+      {
+        "zh": "摄像头正在监视这条街道。",
+        "pinyin": "Shèxiàngtóu zhèngzài jiānshì zhè tiáo jiēdào.",
+        "en": "Kameralar bu caddeyi gözetliyor."
+      },
+      {
+        "zh": "他感觉自己被人监视了。",
+        "pinyin": "Tā gǎnjué zìjǐ bèi rén jiānshì le.",
+        "en": "Birinin kendisini gözetlediğini hissetti."
+      },
+      {
+        "zh": "政府对边境进行严密监视。",
+        "pinyin": "Zhèngfǔ duì biānjìng jìnxíng yánmì jiānshì.",
+        "en": "Hükümet sınırları sıkı bir şekilde gözetliyor."
+      },
+      {
+        "zh": "他们悄悄监视着敌人的动向。",
+        "pinyin": "Tāmen qiāoqiāo jiānshìzhe dírén de dòngxiàng.",
+        "en": "Düşmanın hareketlerini sessizce izliyorlardı."
+      }
+    ]
+  },
+  {
+    "id": "w3936",
+    "hanzi": "监狱",
+    "pinyin": "jiānyù",
+    "meaning": "hapishane",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被送进了监狱。",
+        "pinyin": "Tā bèi sòngjìnle jiānyù.",
+        "en": "Hapishaneye gönderildi."
+      },
+      {
+        "zh": "这座监狱管理很严格。",
+        "pinyin": "Zhè zuò jiānyù guǎnlǐ hěn yángé.",
+        "en": "Bu hapishanenin yönetimi çok katı."
+      },
+      {
+        "zh": "他在监狱里待了十年。",
+        "pinyin": "Tā zài jiānyù lǐ dāile shí nián.",
+        "en": "Hapishanede on yıl kaldı."
+      },
+      {
+        "zh": "监狱里的生活非常艰苦。",
+        "pinyin": "Jiānyù lǐ de shēnghuó fēicháng jiānkǔ.",
+        "en": "Hapishanedeki hayat çok zordur."
+      },
+      {
+        "zh": "他刑满释放，离开了监狱。",
+        "pinyin": "Tā xíngmǎn shìfàng, líkāile jiānyù.",
+        "en": "Cezasını tamamlayıp hapishaneden serbest bırakıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3937",
+    "hanzi": "坚定",
+    "pinyin": "jiāndìng",
+    "meaning": "sağlam, kararlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他态度坚定，绝不动摇。",
+        "pinyin": "Tā tàidu jiāndìng, jué bú dòngyáo.",
+        "en": "Tavrı kararlı, asla sarsılmıyor."
+      },
+      {
+        "zh": "她的信念非常坚定。",
+        "pinyin": "Tā de xìnniàn fēicháng jiāndìng.",
+        "en": "İnancı çok sağlam."
+      },
+      {
+        "zh": "他坚定地拒绝了这个提议。",
+        "pinyin": "Tā jiāndìng de jùjuéle zhège tíyì.",
+        "en": "Bu öneriyi kararlılıkla reddetti."
+      },
+      {
+        "zh": "面对困难，他依然坚定。",
+        "pinyin": "Miànduì kùnnan, tā yīrán jiāndìng.",
+        "en": "Zorluklar karşısında hâlâ kararlı."
+      },
+      {
+        "zh": "我们要坚定信心，克服困难。",
+        "pinyin": "Wǒmen yào jiāndìng xìnxīn, kèfú kùnnan.",
+        "en": "Güvenimizi sağlamlaştırıp zorlukların üstesinden gelmeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w3938",
+    "hanzi": "坚固",
+    "pinyin": "jiāngù",
+    "meaning": "sağlam, dayanıklı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这座桥非常坚固。",
+        "pinyin": "Zhè zuò qiáo fēicháng jiāngù.",
+        "en": "Bu köprü çok sağlam."
+      },
+      {
+        "zh": "房子建得很坚固。",
+        "pinyin": "Fángzi jiàn de hěn jiāngù.",
+        "en": "Ev çok sağlam inşa edilmiş."
+      },
+      {
+        "zh": "这种材料十分坚固耐用。",
+        "pinyin": "Zhè zhǒng cáiliào shífēn jiāngù nàiyòng.",
+        "en": "Bu malzeme çok sağlam ve dayanıklıdır."
+      },
+      {
+        "zh": "城墙经历千年依然坚固。",
+        "pinyin": "Chéngqiáng jīnglì qiānnián yīrán jiāngù.",
+        "en": "Şehir surları bin yıl geçmesine rağmen hâlâ sağlam."
+      },
+      {
+        "zh": "这把锁十分坚固。",
+        "pinyin": "Zhè bǎ suǒ shífēn jiāngù.",
+        "en": "Bu kilit çok sağlam."
+      }
+    ]
+  },
+  {
+    "id": "w3939",
+    "hanzi": "坚实",
+    "pinyin": "jiānshí",
+    "meaning": "sağlam, güçlü",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他为公司打下了坚实的基础。",
+        "pinyin": "Tā wèi gōngsī dǎxiàle jiānshí de jīchǔ.",
+        "en": "Şirket için sağlam bir temel attı."
+      },
+      {
+        "zh": "这项研究有坚实的数据支持。",
+        "pinyin": "Zhè xiàng yánjiū yǒu jiānshí de shùjù zhīchí.",
+        "en": "Bu araştırma sağlam verilerle destekleniyor."
+      },
+      {
+        "zh": "他的体格非常坚实。",
+        "pinyin": "Tā de tǐgé fēicháng jiānshí.",
+        "en": "Vücut yapısı çok sağlam."
+      },
+      {
+        "zh": "两国建立了坚实的合作关系。",
+        "pinyin": "Liǎng guó jiànlìle jiānshí de hézuò guānxi.",
+        "en": "İki ülke sağlam bir işbirliği ilişkisi kurdu."
+      },
+      {
+        "zh": "良好的习惯是成功的坚实基础。",
+        "pinyin": "Liánghǎo de xíguàn shì chénggōng de jiānshí jīchǔ.",
+        "en": "İyi alışkanlıklar başarının sağlam temelidir."
+      }
+    ]
+  },
+  {
+    "id": "w3940",
+    "hanzi": "尖",
+    "pinyin": "jiān",
+    "meaning": "sivri, keskin",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这把刀很尖。",
+        "pinyin": "Zhè bǎ dāo hěn jiān.",
+        "en": "Bu bıçak çok sivri."
+      },
+      {
+        "zh": "铅笔的尖断了。",
+        "pinyin": "Qiānbǐ de jiān duàn le.",
+        "en": "Kalemin ucu kırıldı."
+      },
+      {
+        "zh": "她的声音很尖。",
+        "pinyin": "Tā de shēngyīn hěn jiān.",
+        "en": "Sesi çok tiz."
+      },
+      {
+        "zh": "塔顶又尖又高。",
+        "pinyin": "Tǎdǐng yòu jiān yòu gāo.",
+        "en": "Kulenin tepesi hem sivri hem yüksek."
+      },
+      {
+        "zh": "他的批评很尖锐。",
+        "pinyin": "Tā de pīpíng hěn jiānruì.",
+        "en": "Eleştirisi çok keskin."
+      }
+    ]
+  },
+  {
+    "id": "w3941",
+    "hanzi": "奸商",
+    "pinyin": "jiānshāng",
+    "meaning": "vurguncu, hileci tüccar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "有些奸商趁机哄抬物价。",
+        "pinyin": "Yǒuxiē jiānshāng chènjī hōngtái wùjià.",
+        "en": "Bazı vurguncu tüccarlar fırsatçılıkla fiyatları yükseltiyor."
+      },
+      {
+        "zh": "政府严厉打击了这些奸商。",
+        "pinyin": "Zhèngfǔ yánlì dǎjīle zhèxiē jiānshāng.",
+        "en": "Hükümet bu vurguncu tüccarları sert bir şekilde cezalandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3942",
+    "hanzi": "简报",
+    "pinyin": "jiǎnbào",
+    "meaning": "kısa rapor, bülten",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他向领导汇报了一份简报。",
+        "pinyin": "Tā xiàng lǐngdǎo huìbàole yí fèn jiǎnbào.",
+        "en": "Yöneticiye kısa bir rapor sundu."
+      },
+      {
+        "zh": "会议开始前先看一下简报。",
+        "pinyin": "Huìyì kāishǐ qián xiān kàn yíxià jiǎnbào.",
+        "en": "Toplantı başlamadan önce özet raporu göz atalım."
+      },
+      {
+        "zh": "这份简报总结了本季度的工作。",
+        "pinyin": "Zhè fèn jiǎnbào zǒngjiéle běn jìdù de gōngzuò.",
+        "en": "Bu rapor bu çeyreğin çalışmalarını özetliyor."
+      },
+      {
+        "zh": "他每天写一份工作简报。",
+        "pinyin": "Tā měitiān xiě yí fèn gōngzuò jiǎnbào.",
+        "en": "Her gün bir iş özeti yazıyor."
+      },
+      {
+        "zh": "简报要写得清楚简洁。",
+        "pinyin": "Jiǎnbào yào xiě de qīngchu jiǎnjié.",
+        "en": "Kısa raporun açık ve öz yazılması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3943",
+    "hanzi": "简称",
+    "pinyin": "jiǎnchēng",
+    "meaning": "kısaltma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "\"北大\"是北京大学的简称。",
+        "pinyin": "\"Běidà\" shì Běijīng Dàxué de jiǎnchēng.",
+        "en": "\"Beida\", Pekin Üniversitesi'nin kısaltmasıdır."
+      },
+      {
+        "zh": "这个词组常用简称。",
+        "pinyin": "Zhège cízǔ chángyòng jiǎnchēng.",
+        "en": "Bu kelime grubu genellikle kısaltılarak kullanılır."
+      },
+      {
+        "zh": "联合国的简称是\"联合国\"。",
+        "pinyin": "Liánhéguó de jiǎnchēng shì \"Liánhéguó\".",
+        "en": "Birleşmiş Milletler'in kısaltması \"BM\"dir."
+      },
+      {
+        "zh": "大家习惯用简称来称呼这个组织。",
+        "pinyin": "Dàjiā xíguàn yòng jiǎnchēng lái chēnghu zhège zǔzhī.",
+        "en": "Herkes bu kuruluşu kısaltmasıyla anmaya alıştı."
+      },
+      {
+        "zh": "这个简称容易让人混淆。",
+        "pinyin": "Zhège jiǎnchēng róngyì ràng rén hùnxiáo.",
+        "en": "Bu kısaltma insanları kolayca karıştırabiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3944",
+    "hanzi": "简短",
+    "pinyin": "jiǎnduǎn",
+    "meaning": "kısa, özet",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他做了一个简短的发言。",
+        "pinyin": "Tā zuòle yí ge jiǎnduǎn de fāyán.",
+        "en": "Kısa bir konuşma yaptı."
+      },
+      {
+        "zh": "请给我一个简短的答复。",
+        "pinyin": "Qǐng gěi wǒ yí ge jiǎnduǎn de dáfù.",
+        "en": "Bana kısa bir cevap verin lütfen."
+      },
+      {
+        "zh": "会议只用了简短的时间就结束了。",
+        "pinyin": "Huìyì zhǐ yòngle jiǎnduǎn de shíjiān jiù jiéshù le.",
+        "en": "Toplantı sadece kısa bir süre içinde bitti."
+      },
+      {
+        "zh": "这封信写得很简短。",
+        "pinyin": "Zhè fēng xìn xiě de hěn jiǎnduǎn.",
+        "en": "Bu mektup çok kısa yazılmış."
+      },
+      {
+        "zh": "他用简短的话概括了整件事。",
+        "pinyin": "Tā yòng jiǎnduǎn de huà gàikuòle zhěng jiàn shì.",
+        "en": "Tüm olayı kısa sözlerle özetledi."
+      }
+    ]
+  },
+  {
+    "id": "w3945",
+    "hanzi": "简化",
+    "pinyin": "jiǎnhuà",
+    "meaning": "basitleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个流程可以进一步简化。",
+        "pinyin": "Zhège liúchéng kěyǐ jìnyíbù jiǎnhuà.",
+        "en": "Bu süreç daha da basitleştirilebilir."
+      },
+      {
+        "zh": "政府简化了办理手续。",
+        "pinyin": "Zhèngfǔ jiǎnhuàle bànlǐ shǒuxù.",
+        "en": "Hükümet işlem prosedürlerini basitleştirdi."
+      },
+      {
+        "zh": "我们要简化这份报告。",
+        "pinyin": "Wǒmen yào jiǎnhuà zhè fèn bàogào.",
+        "en": "Bu raporu sadeleştirmemiz gerekiyor."
+      },
+      {
+        "zh": "这套软件简化了数据处理过程。",
+        "pinyin": "Zhè tào ruǎnjiàn jiǎnhuàle shùjù chǔlǐ guòchéng.",
+        "en": "Bu yazılım veri işleme sürecini basitleştirdi."
+      },
+      {
+        "zh": "简化的汉字更容易学习。",
+        "pinyin": "Jiǎnhuà de hànzì gèng róngyì xuéxí.",
+        "en": "Basitleştirilmiş Çince karakterler öğrenmesi daha kolaydır."
+      }
+    ]
+  },
+  {
+    "id": "w3946",
+    "hanzi": "简洁",
+    "pinyin": "jiǎnjié",
+    "meaning": "özlü, kısa ve net",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他的表达十分简洁。",
+        "pinyin": "Tā de biǎodá shífēn jiǎnjié.",
+        "en": "İfadesi çok özlü."
+      },
+      {
+        "zh": "这篇文章语言简洁明了。",
+        "pinyin": "Zhè piān wénzhāng yǔyán jiǎnjié míngliǎo.",
+        "en": "Bu makalenin dili özlü ve açıktır."
+      },
+      {
+        "zh": "设计风格简洁大方。",
+        "pinyin": "Shèjì fēnggé jiǎnjié dàfang.",
+        "en": "Tasarım tarzı sade ve şık."
+      },
+      {
+        "zh": "请用简洁的语言回答问题。",
+        "pinyin": "Qǐng yòng jiǎnjié de yǔyán huídá wèntí.",
+        "en": "Lütfen soruyu özlü bir dille yanıtlayın."
+      },
+      {
+        "zh": "简洁的表达更容易被理解。",
+        "pinyin": "Jiǎnjié de biǎodá gèng róngyì bèi lǐjiě.",
+        "en": "Öz bir ifade daha kolay anlaşılır."
+      }
+    ]
+  },
+  {
+    "id": "w3947",
+    "hanzi": "简明",
+    "pinyin": "jiǎnmíng",
+    "meaning": "kısa ve açık",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这本书写得简明易懂。",
+        "pinyin": "Zhè běn shū xiě de jiǎnmíng yìdǒng.",
+        "en": "Bu kitap kısa ve anlaşılır bir şekilde yazılmış."
+      },
+      {
+        "zh": "请用简明的语言解释一下。",
+        "pinyin": "Qǐng yòng jiǎnmíng de yǔyán jiěshì yíxià.",
+        "en": "Lütfen kısa ve açık bir dille açıklayın."
+      },
+      {
+        "zh": "这份说明书写得非常简明。",
+        "pinyin": "Zhè fèn shuōmíngshū xiě de fēicháng jiǎnmíng.",
+        "en": "Bu kılavuz çok kısa ve açık yazılmış."
+      },
+      {
+        "zh": "老师用简明的例子讲解了这个概念。",
+        "pinyin": "Lǎoshī yòng jiǎnmíng de lìzi jiǎngjiěle zhège gàiniàn.",
+        "en": "Öğretmen bu kavramı kısa ve açık örneklerle anlattı."
+      },
+      {
+        "zh": "简明扼要地介绍一下情况。",
+        "pinyin": "Jiǎnmíng èyào de jièshào yíxià qíngkuàng.",
+        "en": "Durumu kısa ve öz bir şekilde anlatın."
+      }
+    ]
+  },
+  {
+    "id": "w3948",
+    "hanzi": "简易",
+    "pinyin": "jiǎnyì",
+    "meaning": "basit ve kolay",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他们搭建了一个简易的帐篷。",
+        "pinyin": "Tāmen dājiànle yí ge jiǎnyì de zhàngpeng.",
+        "en": "Basit bir çadır kurdular."
+      },
+      {
+        "zh": "这个简易方法非常有效。",
+        "pinyin": "Zhège jiǎnyì fāngfǎ fēicháng yǒuxiào.",
+        "en": "Bu basit yöntem çok etkili."
+      },
+      {
+        "zh": "路边搭了一个简易棚子。",
+        "pinyin": "Lùbiān dāle yí ge jiǎnyì péngzi.",
+        "en": "Yol kenarında basit bir gölgelik kuruldu."
+      },
+      {
+        "zh": "这是一份简易操作指南。",
+        "pinyin": "Zhè shì yí fèn jiǎnyì cāozuò zhǐnán.",
+        "en": "Bu basit bir kullanım kılavuzudur."
+      },
+      {
+        "zh": "他们用简易设备完成了实验。",
+        "pinyin": "Tāmen yòng jiǎnyì shèbèi wánchéngle shíyàn.",
+        "en": "Basit ekipmanla deneyi tamamladılar."
+      }
+    ]
+  },
+  {
+    "id": "w3949",
+    "hanzi": "剪",
+    "pinyin": "jiǎn",
+    "meaning": "makas; kesmek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她用剪刀剪断了绳子。",
+        "pinyin": "Tā yòng jiǎndāo jiǎnduànle shéngzi.",
+        "en": "Makasla ipi kesti."
+      },
+      {
+        "zh": "请把这张纸剪成两半。",
+        "pinyin": "Qǐng bǎ zhè zhāng zhǐ jiǎnchéng liǎng bàn.",
+        "en": "Lütfen bu kağıdı ikiye kesin."
+      },
+      {
+        "zh": "他去理发店剪了头发。",
+        "pinyin": "Tā qù lǐfàdiàn jiǎnle tóufa.",
+        "en": "Kuaföre gidip saçını kestirdi."
+      },
+      {
+        "zh": "妈妈帮我剪指甲。",
+        "pinyin": "Māma bāng wǒ jiǎn zhǐjia.",
+        "en": "Annem tırnaklarımı kesmeme yardım etti."
+      },
+      {
+        "zh": "花匠正在剪树枝。",
+        "pinyin": "Huājiang zhèngzài jiǎn shùzhī.",
+        "en": "Bahçıvan dal budamakla meşgul."
+      }
+    ]
+  },
+  {
+    "id": "w3950",
+    "hanzi": "剪彩",
+    "pinyin": "jiǎncǎi",
+    "meaning": "kurdele kesmek (açılış)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "市长为新桥剪彩。",
+        "pinyin": "Shìzhǎng wèi xīn qiáo jiǎncǎi.",
+        "en": "Belediye başkanı yeni köprünün açılışında kurdele kesti."
+      },
+      {
+        "zh": "开业当天，老板亲自剪彩。",
+        "pinyin": "Kāiyè dāngtiān, lǎobǎn qīnzì jiǎncǎi.",
+        "en": "Açılış günü patron bizzat kurdele kesti."
+      }
+    ]
+  },
+  {
+    "id": "w3951",
+    "hanzi": "剪辑",
+    "pinyin": "jiǎnjí",
+    "meaning": "film montajı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他负责这部电影的剪辑工作。",
+        "pinyin": "Tā fùzé zhè bù diànyǐng de jiǎnjí gōngzuò.",
+        "en": "Bu filmin montaj işinden sorumlu."
+      },
+      {
+        "zh": "视频剪辑需要专业软件。",
+        "pinyin": "Shìpín jiǎnjí xūyào zhuānyè ruǎnjiàn.",
+        "en": "Video montajı için profesyonel yazılım gerekir."
+      },
+      {
+        "zh": "她学习了视频剪辑技术。",
+        "pinyin": "Tā xuéxíle shìpín jiǎnjí jìshù.",
+        "en": "Video montaj tekniklerini öğrendi."
+      },
+      {
+        "zh": "这部纪录片的剪辑非常出色。",
+        "pinyin": "Zhè bù jìlùpiàn de jiǎnjí fēicháng chūsè.",
+        "en": "Bu belgeselin montajı çok başarılı."
+      },
+      {
+        "zh": "剪辑师花了几周时间完成这部片子。",
+        "pinyin": "Jiǎnjíshī huāle jǐ zhōu shíjiān wánchéng zhè bù piānzi.",
+        "en": "Kurgu editörü bu filmi tamamlamak için birkaç hafta harcadı."
+      }
+    ]
+  },
+  {
+    "id": "w3952",
+    "hanzi": "剪纸",
+    "pinyin": "jiǎnzhǐ",
+    "meaning": "kağıt kesme sanatı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "剪纸是中国传统民间艺术。",
+        "pinyin": "Jiǎnzhǐ shì Zhōngguó chuántǒng mínjiān yìshù.",
+        "en": "Kağıt kesme sanatı Çin'in geleneksel halk sanatıdır."
+      },
+      {
+        "zh": "她擅长剪纸手艺。",
+        "pinyin": "Tā shàncháng jiǎnzhǐ shǒuyì.",
+        "en": "Kağıt kesme sanatında ustadır."
+      },
+      {
+        "zh": "春节时人们喜欢贴剪纸。",
+        "pinyin": "Chūnjié shí rénmen xǐhuan tiē jiǎnzhǐ.",
+        "en": "Bahar Bayramı'nda insanlar kesilmiş kağıt süsleri asmayı sever."
+      },
+      {
+        "zh": "这幅剪纸作品非常精美。",
+        "pinyin": "Zhè fú jiǎnzhǐ zuòpǐn fēicháng jīngměi.",
+        "en": "Bu kağıt kesme eseri çok zarif."
+      },
+      {
+        "zh": "老师教学生们制作剪纸。",
+        "pinyin": "Lǎoshī jiāo xuéshengmen zhìzuò jiǎnzhǐ.",
+        "en": "Öğretmen öğrencilere kağıt kesme sanatını öğretiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3953",
+    "hanzi": "减",
+    "pinyin": "jiǎn",
+    "meaning": "çıkarmak, azaltmak",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "十减五等于五。",
+        "pinyin": "Shí jiǎn wǔ děngyú wǔ.",
+        "en": "On eksi beş, beşe eşittir."
+      },
+      {
+        "zh": "请把价格减一点。",
+        "pinyin": "Qǐng bǎ jiàgé jiǎn yìdiǎn.",
+        "en": "Lütfen fiyatı biraz düşürün."
+      },
+      {
+        "zh": "医生建议他减少盐分摄入。",
+        "pinyin": "Yīshēng jiànyì tā jiǎnshǎo yánfèn shèrù.",
+        "en": "Doktor tuz alımını azaltmasını önerdi."
+      },
+      {
+        "zh": "这个数字要减去一半。",
+        "pinyin": "Zhège shùzì yào jiǎnqù yíbàn.",
+        "en": "Bu sayının yarısı çıkarılmalı."
+      },
+      {
+        "zh": "工厂减少了废气排放。",
+        "pinyin": "Gōngchǎng jiǎnshǎole fèiqì páifàng.",
+        "en": "Fabrika egzoz gazı salınımını azalttı."
+      }
+    ]
+  },
+  {
+    "id": "w3954",
+    "hanzi": "减轻",
+    "pinyin": "jiǎnqīng",
+    "meaning": "hafifletmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种药可以减轻疼痛。",
+        "pinyin": "Zhè zhǒng yào kěyǐ jiǎnqīng téngtòng.",
+        "en": "Bu ilaç ağrıyı hafifletebilir."
+      },
+      {
+        "zh": "大家一起帮忙减轻了他的负担。",
+        "pinyin": "Dàjiā yìqǐ bāngmáng jiǎnqīngle tā de fùdān.",
+        "en": "Herkes yardım ederek onun yükünü hafifletti."
+      },
+      {
+        "zh": "政府采取措施减轻民众压力。",
+        "pinyin": "Zhèngfǔ cǎiqǔ cuòshī jiǎnqīng mínzhòng yālì.",
+        "en": "Hükümet halkın baskısını hafifletmek için önlemler aldı."
+      },
+      {
+        "zh": "休息可以减轻疲劳。",
+        "pinyin": "Xiūxi kěyǐ jiǎnqīng píláo.",
+        "en": "Dinlenmek yorgunluğu hafifletebilir."
+      },
+      {
+        "zh": "这项政策减轻了企业负担。",
+        "pinyin": "Zhè xiàng zhèngcè jiǎnqīngle qǐyè fùdān.",
+        "en": "Bu politika işletmelerin yükünü hafifletti."
+      }
+    ]
+  },
+  {
+    "id": "w3955",
+    "hanzi": "减弱",
+    "pinyin": "jiǎnruò",
+    "meaning": "zayıflamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "台风的威力正在减弱。",
+        "pinyin": "Táifēng de wēilì zhèngzài jiǎnruò.",
+        "en": "Tayfunun gücü zayıflıyor."
+      },
+      {
+        "zh": "信号在山区容易减弱。",
+        "pinyin": "Xìnhào zài shānqū róngyì jiǎnruò.",
+        "en": "Sinyal dağlık bölgelerde kolayca zayıflar."
+      },
+      {
+        "zh": "他的听力逐渐减弱。",
+        "pinyin": "Tā de tīnglì zhújiàn jiǎnruò.",
+        "en": "İşitme yeteneği giderek zayıflıyor."
+      },
+      {
+        "zh": "光线随着距离增加而减弱。",
+        "pinyin": "Guāngxiàn suízhe jùlí zēngjiā ér jiǎnruò.",
+        "en": "Işık mesafe arttıkça zayıflar."
+      },
+      {
+        "zh": "病毒的传播力正在减弱。",
+        "pinyin": "Bìngdú de chuánbōlì zhèngzài jiǎnruò.",
+        "en": "Virüsün yayılma gücü zayıflıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3956",
+    "hanzi": "渐渐",
+    "pinyin": "jiànjiàn",
+    "meaning": "yavaş yavaş",
+    "partOfSpeech": "zarf",
+    "level": 3,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "天渐渐黑了。",
+        "pinyin": "Tiān jiànjiàn hēi le.",
+        "en": "Hava yavaş yavaş karardı."
+      },
+      {
+        "zh": "他的病渐渐好了。",
+        "pinyin": "Tā de bìng jiànjiàn hǎo le.",
+        "en": "Hastalığı yavaş yavaş iyileşti."
+      },
+      {
+        "zh": "花儿渐渐开了。",
+        "pinyin": "Huār jiànjiàn kāi le.",
+        "en": "Çiçekler yavaş yavaş açtı."
+      },
+      {
+        "zh": "我渐渐习惯了这里的生活。",
+        "pinyin": "Wǒ jiànjiàn xíguànle zhèlǐ de shēnghuó.",
+        "en": "Buradaki hayata yavaş yavaş alıştım."
+      },
+      {
+        "zh": "天气渐渐暖和起来了。",
+        "pinyin": "Tiānqì jiànjiàn nuǎnhuo qǐlai le.",
+        "en": "Hava yavaş yavaş ısınmaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w3957",
+    "hanzi": "间接",
+    "pinyin": "jiànjiē",
+    "meaning": "dolaylı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这是一个间接的证据。",
+        "pinyin": "Zhè shì yí ge jiànjiē de zhèngjù.",
+        "en": "Bu dolaylı bir kanıt."
+      },
+      {
+        "zh": "他间接地表达了自己的想法。",
+        "pinyin": "Tā jiànjiē de biǎodále zìjǐ de xiǎngfǎ.",
+        "en": "Fikirlerini dolaylı bir şekilde ifade etti."
+      },
+      {
+        "zh": "这种影响是间接的。",
+        "pinyin": "Zhè zhǒng yǐngxiǎng shì jiànjiē de.",
+        "en": "Bu tür bir etki dolaylıdır."
+      },
+      {
+        "zh": "他通过间接方式帮助了我们。",
+        "pinyin": "Tā tōngguò jiànjiē fāngshì bāngzhùle wǒmen.",
+        "en": "Dolaylı bir yolla bize yardım etti."
+      },
+      {
+        "zh": "这场事故是间接原因造成的。",
+        "pinyin": "Zhè chǎng shìgù shì jiànjiē yuányīn zàochéng de.",
+        "en": "Bu kaza dolaylı bir nedenden kaynaklandı."
+      }
+    ]
   }
 ]

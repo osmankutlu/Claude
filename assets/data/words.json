@@ -110263,5 +110263,608 @@
         "en": "Kanaldan pis bir koku geliyor."
       }
     ]
+  },
+  {
+    "id": "w3166",
+    "hanzi": "发出",
+    "pinyin": "fāchū",
+    "meaning": "göndermek, yaymak (ses/ışık)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他发出了警告信号。",
+        "pinyin": "Tā fāchū le jǐnggào xìnhào.",
+        "en": "Bir uyarı sinyali gönderdi."
+      },
+      {
+        "zh": "灯泡发出明亮的光。",
+        "pinyin": "Dēngpào fāchū míngliàng de guāng.",
+        "en": "Ampul parlak bir ışık saçıyor."
+      },
+      {
+        "zh": "门发出了吱呀的声音。",
+        "pinyin": "Mén fāchū le zhīyā de shēngyīn.",
+        "en": "Kapı gıcırtılı bir ses çıkardı."
+      },
+      {
+        "zh": "公司发出了通知。",
+        "pinyin": "Gōngsī fāchū le tōngzhī.",
+        "en": "Şirket bir bildirim gönderdi."
+      },
+      {
+        "zh": "她发出了一声惊叫。",
+        "pinyin": "Tā fāchū le yì shēng jīngjiào.",
+        "en": "Şaşkınlık çığlığı attı."
+      }
+    ]
+  },
+  {
+    "id": "w3168",
+    "hanzi": "耳光",
+    "pinyin": "ěrguāng",
+    "meaning": "tokat, şamar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她给了他一记耳光。",
+        "pinyin": "Tā gěi le tā yí jì ěrguāng.",
+        "en": "Ona bir tokat attı."
+      },
+      {
+        "zh": "他被打了一巴掌耳光。",
+        "pinyin": "Tā bèi dǎ le yì bāzhang ěrguāng.",
+        "en": "Yüzüne bir tokat yedi."
+      },
+      {
+        "zh": "老师从不体罚学生，更别说打耳光了。",
+        "pinyin": "Lǎoshī cóng bù tǐfá xuésheng, gèng biéshuō dǎ ěrguāng le.",
+        "en": "Öğretmen öğrencilere hiç fiziksel ceza vermez, tokat atmak şöyle dursun."
+      },
+      {
+        "zh": "那记耳光让他清醒了过来。",
+        "pinyin": "Nà jì ěrguāng ràng tā qīngxǐng le guòlái.",
+        "en": "O tokat onu kendine getirdi."
+      },
+      {
+        "zh": "打耳光是一种侮辱性的行为。",
+        "pinyin": "Dǎ ěrguāng shì yì zhǒng wǔrǔxìng de xíngwéi.",
+        "en": "Tokat atmak aşağılayıcı bir davranıştır."
+      }
+    ]
+  },
+  {
+    "id": "w3169",
+    "hanzi": "发布",
+    "pinyin": "fābù",
+    "meaning": "yayınlamak, ilan etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "公司发布了新产品。",
+        "pinyin": "Gōngsī fābù le xīn chǎnpǐn.",
+        "en": "Şirket yeni bir ürün duyurdu."
+      },
+      {
+        "zh": "政府发布了最新政策。",
+        "pinyin": "Zhèngfǔ fābù le zuìxīn zhèngcè.",
+        "en": "Hükümet en son politikayı yayınladı."
+      },
+      {
+        "zh": "他们在网上发布了这条消息。",
+        "pinyin": "Tāmen zài wǎngshàng fābù le zhè tiáo xiāoxi.",
+        "en": "Bu haberi internette yayınladılar."
+      },
+      {
+        "zh": "气象局发布了台风预警。",
+        "pinyin": "Qìxiàngjú fābù le táifēng yùjǐng.",
+        "en": "Meteoroloji dairesi tayfun uyarısı yayınladı."
+      },
+      {
+        "zh": "明天将正式发布这个报告。",
+        "pinyin": "Míngtiān jiāng zhèngshì fābù zhège bàogào.",
+        "en": "Yarın bu rapor resmi olarak yayınlanacak."
+      }
+    ]
+  },
+  {
+    "id": "w3170",
+    "hanzi": "发财",
+    "pinyin": "fācái",
+    "meaning": "zengin olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他做生意发财了。",
+        "pinyin": "Tā zuò shēngyi fācái le.",
+        "en": "İş yaparak zengin oldu."
+      },
+      {
+        "zh": "大家都祝他新年发财。",
+        "pinyin": "Dàjiā dōu zhù tā xīnnián fācái.",
+        "en": "Herkes yeni yılda zengin olmasını diliyor."
+      },
+      {
+        "zh": "她一直梦想着发财致富。",
+        "pinyin": "Tā yìzhí mèngxiǎng zhe fācái zhìfù.",
+        "en": "Her zaman zengin olup varlıklı olmayı hayal etmiştir."
+      },
+      {
+        "zh": "他靠投资股票发财了。",
+        "pinyin": "Tā kào tóuzī gǔpiào fācái le.",
+        "en": "Hisse senedi yatırımıyla zengin oldu."
+      },
+      {
+        "zh": "想发财没有捷径，需要努力工作。",
+        "pinyin": "Xiǎng fācái méiyǒu jiéjìng, xūyào nǔlì gōngzuò.",
+        "en": "Zengin olmanın kestirme yolu yok, çok çalışmak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3171",
+    "hanzi": "发呆",
+    "pinyin": "fādāi",
+    "meaning": "dalıp gitmek, boş boş bakınmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她一个人坐在窗边发呆。",
+        "pinyin": "Tā yí ge rén zuò zài chuāngbiān fādāi.",
+        "en": "Pencerenin kenarında yalnız başına dalıp gitmiş oturuyordu."
+      },
+      {
+        "zh": "上课的时候他总是发呆。",
+        "pinyin": "Shàngkè de shíhou tā zǒngshì fādāi.",
+        "en": "Ders sırasında sürekli dalıp gidiyor."
+      },
+      {
+        "zh": "他望着远方发呆了很久。",
+        "pinyin": "Tā wàng zhe yuǎnfāng fādāi le hěn jiǔ.",
+        "en": "Uzaklara bakarak uzun süre dalıp gitti."
+      },
+      {
+        "zh": "别发呆了，快点干活。",
+        "pinyin": "Bié fādāi le, kuài diǎn gànhuó.",
+        "en": "Dalıp gitme, çabuk çalışmaya başla."
+      },
+      {
+        "zh": "她心事重重，坐在那里发呆。",
+        "pinyin": "Tā xīnshì chóngchóng, zuò zài nàlǐ fādāi.",
+        "en": "Kafası dolu olduğu için orada oturmuş dalıp gidiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3172",
+    "hanzi": "发电",
+    "pinyin": "fādiàn",
+    "meaning": "elektrik üretmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "这座水坝用来发电。",
+        "pinyin": "Zhè zuò shuǐbà yònglái fādiàn.",
+        "en": "Bu baraj elektrik üretmek için kullanılır."
+      },
+      {
+        "zh": "太阳能可以用来发电。",
+        "pinyin": "Tàiyángnéng kěyǐ yònglái fādiàn.",
+        "en": "Güneş enerjisi elektrik üretmek için kullanılabilir."
+      },
+      {
+        "zh": "这个国家主要靠煤炭发电。",
+        "pinyin": "Zhège guójiā zhǔyào kào méitàn fādiàn.",
+        "en": "Bu ülke elektrik üretimini büyük ölçüde kömüre dayandırıyor."
+      },
+      {
+        "zh": "风力发电越来越普遍。",
+        "pinyin": "Fēnglì fādiàn yuè lái yuè pǔbiàn.",
+        "en": "Rüzgar enerjisiyle elektrik üretimi giderek yaygınlaşıyor."
+      },
+      {
+        "zh": "核能发电存在一定风险。",
+        "pinyin": "Hénéng fādiàn cúnzài yídìng fēngxiǎn.",
+        "en": "Nükleer enerjiyle elektrik üretiminin belirli riskleri vardır."
+      }
+    ]
+  },
+  {
+    "id": "w3173",
+    "hanzi": "发动",
+    "pinyin": "fādòng",
+    "meaning": "başlatmak, harekete geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他发动了汽车的引擎。",
+        "pinyin": "Tā fādòng le qìchē de yǐnqíng.",
+        "en": "Arabanın motorunu çalıştırdı."
+      },
+      {
+        "zh": "政府发动了一场反腐运动。",
+        "pinyin": "Zhèngfǔ fādòng le yì chǎng fǎnfǔ yùndòng.",
+        "en": "Hükümet bir yolsuzlukla mücadele kampanyası başlattı."
+      },
+      {
+        "zh": "他们发动了群众参与环保活动。",
+        "pinyin": "Tāmen fādòng le qúnzhòng cānyù huánbǎo huódòng.",
+        "en": "Halkı çevre koruma etkinliklerine katılmaya teşvik ettiler."
+      },
+      {
+        "zh": "敌军突然发动了进攻。",
+        "pinyin": "Díjūn tūrán fādòng le jìngōng.",
+        "en": "Düşman ordusu aniden saldırı başlattı."
+      },
+      {
+        "zh": "这次活动是由学生自发发动的。",
+        "pinyin": "Zhè cì huódòng shì yóu xuésheng zìfā fādòng de.",
+        "en": "Bu etkinlik öğrenciler tarafından kendiliğinden başlatıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3174",
+    "hanzi": "发疯",
+    "pinyin": "fāfēng",
+    "meaning": "çıldırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他气得快要发疯了。",
+        "pinyin": "Tā qì de kuàiyào fāfēng le.",
+        "en": "Öfkeden neredeyse çıldıracaktı."
+      },
+      {
+        "zh": "别再逼我了，我快发疯了。",
+        "pinyin": "Bié zài bī wǒ le, wǒ kuài fāfēng le.",
+        "en": "Beni daha fazla zorlama, çıldırmak üzereyim."
+      },
+      {
+        "zh": "她因为压力太大差点发疯。",
+        "pinyin": "Tā yīnwèi yālì tài dà chàdiǎn fāfēng.",
+        "en": "Baskı çok fazla olduğu için neredeyse çıldıracaktı."
+      },
+      {
+        "zh": "这种噪音会让人发疯的。",
+        "pinyin": "Zhè zhǒng zàoyīn huì ràng rén fāfēng de.",
+        "en": "Bu tür bir gürültü insanı çıldırtabilir."
+      },
+      {
+        "zh": "他发疯似地在房间里走来走去。",
+        "pinyin": "Tā fāfēng shì de zài fángjiān lǐ zǒulái-zǒuqù.",
+        "en": "Deli gibi odada bir aşağı bir yukarı yürüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3175",
+    "hanzi": "发光",
+    "pinyin": "fāguāng",
+    "meaning": "ışık saçmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "星星在夜空中发光。",
+        "pinyin": "Xīngxing zài yèkōng zhōng fāguāng.",
+        "en": "Yıldızlar gece gökyüzünde parlıyor."
+      },
+      {
+        "zh": "这种材料在黑暗中会发光。",
+        "pinyin": "Zhè zhǒng cáiliào zài hēi'àn zhōng huì fāguāng.",
+        "en": "Bu tür malzeme karanlıkta ışık saçar."
+      },
+      {
+        "zh": "萤火虫的尾部能发光。",
+        "pinyin": "Yínghuǒchóng de wěibù néng fāguāng.",
+        "en": "Ateş böceğinin kuyruğu ışık saçabilir."
+      },
+      {
+        "zh": "这块宝石在灯光下闪闪发光。",
+        "pinyin": "Zhè kuài bǎoshí zài dēngguāng xià shǎnshǎn fāguāng.",
+        "en": "Bu mücevher ışık altında parıl parıl parlıyor."
+      },
+      {
+        "zh": "她的眼睛因为兴奋而发光。",
+        "pinyin": "Tā de yǎnjing yīnwèi xīngfèn ér fāguāng.",
+        "en": "Gözleri heyecandan parlıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3176",
+    "hanzi": "发誓",
+    "pinyin": "fāshì",
+    "meaning": "yemin etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他发誓再也不会说谎了。",
+        "pinyin": "Tā fāshì zài yě bú huì shuōhuǎng le.",
+        "en": "Bir daha asla yalan söylemeyeceğine yemin etti."
+      },
+      {
+        "zh": "她对天发誓自己是无辜的。",
+        "pinyin": "Tā duì tiān fāshì zìjǐ shì wúgū de.",
+        "en": "Masum olduğuna yemin etti."
+      },
+      {
+        "zh": "我发誓一定会完成这个任务。",
+        "pinyin": "Wǒ fāshì yídìng huì wánchéng zhège rènwu.",
+        "en": "Bu görevi kesinlikle tamamlayacağıma söz veriyorum."
+      },
+      {
+        "zh": "他向她发誓永远爱她。",
+        "pinyin": "Tā xiàng tā fāshì yǒngyuǎn ài tā.",
+        "en": "Ona sonsuza kadar seveceğine yemin etti."
+      },
+      {
+        "zh": "我发誓这是真的。",
+        "pinyin": "Wǒ fāshì zhè shì zhēn de.",
+        "en": "Yemin ederim bu doğru."
+      }
+    ]
+  },
+  {
+    "id": "w3177",
+    "hanzi": "发行",
+    "pinyin": "fāxíng",
+    "meaning": "yayımlamak (kitap/para)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这本书刚刚发行。",
+        "pinyin": "Zhè běn shū gānggāng fāxíng.",
+        "en": "Bu kitap yeni yayımlandı."
+      },
+      {
+        "zh": "央行发行了新版货币。",
+        "pinyin": "Yāngháng fāxíng le xīnbǎn huòbì.",
+        "en": "Merkez bankası yeni tasarım para çıkardı."
+      },
+      {
+        "zh": "这张专辑将于下个月发行。",
+        "pinyin": "Zhè zhāng zhuānjí jiāng yú xià ge yuè fāxíng.",
+        "en": "Bu albüm gelecek ay piyasaya çıkacak."
+      },
+      {
+        "zh": "公司发行了新股票。",
+        "pinyin": "Gōngsī fāxíng le xīn gǔpiào.",
+        "en": "Şirket yeni hisse senetleri çıkardı."
+      },
+      {
+        "zh": "这份杂志每月发行一次。",
+        "pinyin": "Zhè fèn zázhì měi yuè fāxíng yí cì.",
+        "en": "Bu dergi ayda bir kez yayımlanır."
+      }
+    ]
+  },
+  {
+    "id": "w3178",
+    "hanzi": "发芽",
+    "pinyin": "fāyá",
+    "meaning": "filizlenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "春天到了，种子开始发芽。",
+        "pinyin": "Chūntiān dào le, zhǒngzi kāishǐ fāyá.",
+        "en": "İlkbahar geldi, tohumlar filizlenmeye başladı."
+      },
+      {
+        "zh": "这些豆子几天就发芽了。",
+        "pinyin": "Zhèxiē dòuzi jǐ tiān jiù fāyá le.",
+        "en": "Bu fasulyeler birkaç günde filizlendi."
+      },
+      {
+        "zh": "土豆放久了会发芽。",
+        "pinyin": "Tǔdòu fàng jiǔ le huì fāyá.",
+        "en": "Patates uzun süre tutulursa filizlenir."
+      },
+      {
+        "zh": "树苗已经发芽了。",
+        "pinyin": "Shùmiáo yǐjīng fāyá le.",
+        "en": "Fidan zaten filizlenmiş."
+      },
+      {
+        "zh": "花园里的种子都发芽了。",
+        "pinyin": "Huāyuán lǐ de zhǒngzi dōu fāyá le.",
+        "en": "Bahçedeki tüm tohumlar filizlendi."
+      }
+    ]
+  },
+  {
+    "id": "w3179",
+    "hanzi": "发言人",
+    "pinyin": "fāyánrén",
+    "meaning": "sözcü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "政府发言人回答了记者的问题。",
+        "pinyin": "Zhèngfǔ fāyánrén huídá le jìzhě de wèntí.",
+        "en": "Hükümet sözcüsü gazetecinin sorusunu yanıtladı."
+      },
+      {
+        "zh": "她被任命为公司发言人。",
+        "pinyin": "Tā bèi rènmìng wéi gōngsī fāyánrén.",
+        "en": "Şirketin sözcüsü olarak atandı."
+      },
+      {
+        "zh": "发言人在新闻发布会上宣布了这个消息。",
+        "pinyin": "Fāyánrén zài xīnwén fābùhuì shàng xuānbù le zhège xiāoxi.",
+        "en": "Sözcü basın toplantısında bu haberi duyurdu."
+      },
+      {
+        "zh": "外交部发言人对此作出了回应。",
+        "pinyin": "Wàijiāobù fāyánrén duì cǐ zuòchū le huíyìng.",
+        "en": "Dışişleri Bakanlığı sözcüsü bu konuda açıklama yaptı."
+      },
+      {
+        "zh": "他担任了球队的发言人。",
+        "pinyin": "Tā dānrèn le qiúduì de fāyánrén.",
+        "en": "Takımın sözcüsü olarak görev yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w3180",
+    "hanzi": "发炎",
+    "pinyin": "fāyán",
+    "meaning": "iltihaplanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的伤口发炎了。",
+        "pinyin": "Tā de shāngkǒu fāyán le.",
+        "en": "Yarası iltihaplandı."
+      },
+      {
+        "zh": "医生说这是嗓子发炎引起的。",
+        "pinyin": "Yīshēng shuō zhè shì sǎngzi fāyán yǐnqǐ de.",
+        "en": "Doktor bunun boğaz iltihabından kaynaklandığını söyledi."
+      },
+      {
+        "zh": "眼睛发炎要及时治疗。",
+        "pinyin": "Yǎnjing fāyán yào jíshí zhìliáo.",
+        "en": "Göz iltihaplanması zamanında tedavi edilmelidir."
+      },
+      {
+        "zh": "她的手指因为感染而发炎了。",
+        "pinyin": "Tā de shǒuzhǐ yīnwèi gǎnrǎn ér fāyán le.",
+        "en": "Parmağı enfeksiyon nedeniyle iltihaplandı."
+      },
+      {
+        "zh": "牙龈发炎会引起疼痛。",
+        "pinyin": "Yáyín fāyán huì yǐnqǐ téngtòng.",
+        "en": "Diş eti iltihabı ağrıya neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3181",
+    "hanzi": "发育",
+    "pinyin": "fāyù",
+    "meaning": "gelişme, büyüme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "孩子正处于发育阶段。",
+        "pinyin": "Háizi zhèng chǔyú fāyù jiēduàn.",
+        "en": "Çocuk gelişim aşamasındadır."
+      },
+      {
+        "zh": "良好的营养有助于身体发育。",
+        "pinyin": "Liánghǎo de yíngyǎng yǒuzhùyú shēntǐ fāyù.",
+        "en": "İyi beslenme vücut gelişimine yardımcı olur."
+      },
+      {
+        "zh": "医生检查了孩子的发育情况。",
+        "pinyin": "Yīshēng jiǎnchá le háizi de fāyù qíngkuàng.",
+        "en": "Doktor çocuğun gelişim durumunu kontrol etti."
+      },
+      {
+        "zh": "青少年时期是身体发育的关键期。",
+        "pinyin": "Qīngshàonián shíqī shì shēntǐ fāyù de guānjiànqī.",
+        "en": "Ergenlik dönemi vücut gelişiminin kritik dönemidir."
+      },
+      {
+        "zh": "缺乏运动会影响孩子的发育。",
+        "pinyin": "Quēfá yùndòng huì yǐngxiǎng háizi de fāyù.",
+        "en": "Hareketsizlik çocuğun gelişimini etkileyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3182",
+    "hanzi": "恶意",
+    "pinyin": "èyì",
+    "meaning": "kötü niyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他没有恶意，只是开个玩笑。",
+        "pinyin": "Tā méiyǒu èyì, zhǐshì kāi ge wánxiào.",
+        "en": "Kötü niyeti yok, sadece şaka yapıyor."
+      },
+      {
+        "zh": "这条评论充满了恶意。",
+        "pinyin": "Zhè tiáo pínglùn chōngmǎn le èyì.",
+        "en": "Bu yorum kötü niyetle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w3184",
+    "hanzi": "恩爱",
+    "pinyin": "ēn'ài",
+    "meaning": "karı koca sevgisi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们夫妻俩非常恩爱。",
+        "pinyin": "Tāmen fūqī liǎ fēicháng ēn'ài.",
+        "en": "Karı koca birbirlerini çok seviyorlar."
+      },
+      {
+        "zh": "结婚三十年，他们依然恩爱如初。",
+        "pinyin": "Jiéhūn sānshí nián, tāmen yīrán ēn'ài rúchū.",
+        "en": "Otuz yıllık evliliklerine rağmen hâlâ ilk günkü gibi birbirlerini seviyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w3185",
+    "hanzi": "发福",
+    "pinyin": "fāfú",
+    "meaning": "kilo almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他最近发福了不少。",
+        "pinyin": "Tā zuìjìn fāfú le bù shǎo.",
+        "en": "Son zamanlarda epey kilo aldı."
+      },
+      {
+        "zh": "中年后很多人容易发福。",
+        "pinyin": "Zhōngnián hòu hěn duō rén róngyì fāfú.",
+        "en": "Orta yaştan sonra birçok insan kolayca kilo alır."
+      }
+    ]
   }
 ]

@@ -90790,5 +90790,461 @@
         "en": "Çiftçi turp söküyor."
       }
     ]
+  },
+  {
+    "id": "w2528",
+    "hanzi": "把关",
+    "pinyin": "bǎguān",
+    "meaning": "kontrol etmek, denetlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "质量检查员负责把关产品质量。",
+        "pinyin": "Zhìliàng jiǎnchá yuán fùzé bǎguān chǎnpǐn zhìliàng.",
+        "en": "Kalite kontrolörü ürün kalitesini denetlemekten sorumlu."
+      },
+      {
+        "zh": "老师帮我们把关论文的内容。",
+        "pinyin": "Lǎoshī bāng wǒmen bǎguān lùnwén de nèiróng.",
+        "en": "Öğretmen tez içeriğimizi kontrol etmemize yardımcı oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w2529",
+    "hanzi": "把手",
+    "pinyin": "bǎshǒu",
+    "meaning": "tutamaç, kulp",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请握紧门的把手。",
+        "pinyin": "Qǐng wòjǐn mén de bǎshǒu.",
+        "en": "Lütfen kapının tutamacını sıkıca tutun."
+      },
+      {
+        "zh": "这个杯子的把手断了。",
+        "pinyin": "Zhège bēizi de bǎshǒu duàn le.",
+        "en": "Bu bardağın kulpu kırıldı."
+      },
+      {
+        "zh": "他抓住自行车的把手。",
+        "pinyin": "Tā zhuāzhù zìxíngchē de bǎshǒu.",
+        "en": "Bisikletin gidonunu tuttu."
+      },
+      {
+        "zh": "箱子上有一个把手。",
+        "pinyin": "Xiāngzi shàng yǒu yí ge bǎshǒu.",
+        "en": "Kutunun üzerinde bir tutamaç var."
+      },
+      {
+        "zh": "请拉住楼梯的把手。",
+        "pinyin": "Qǐng lāzhù lóutī de bǎshǒu.",
+        "en": "Lütfen merdiven tırabzanını tutun."
+      }
+    ]
+  },
+  {
+    "id": "w2530",
+    "hanzi": "罢工",
+    "pinyin": "bàgōng",
+    "meaning": "grev yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工人们决定罢工抗议。",
+        "pinyin": "Gōngrénmen juédìng bàgōng kàngyì.",
+        "en": "İşçiler protesto etmek için grev yapmaya karar verdi."
+      },
+      {
+        "zh": "这次罢工持续了一个星期。",
+        "pinyin": "Zhè cì bàgōng chíxù le yí ge xīngqī.",
+        "en": "Bu grev bir hafta sürdü."
+      },
+      {
+        "zh": "由于工资问题，工厂发生了罢工。",
+        "pinyin": "Yóuyú gōngzī wèntí, gōngchǎng fāshēng le bàgōng.",
+        "en": "Maaş sorunu yüzünden fabrikada grev yaşandı."
+      },
+      {
+        "zh": "罢工结束后，工人们回到了岗位。",
+        "pinyin": "Bàgōng jiéshù hòu, gōngrénmen huídào le gǎngwèi.",
+        "en": "Grev bittikten sonra işçiler işbaşı yaptı."
+      },
+      {
+        "zh": "公司担心罢工会影响生产。",
+        "pinyin": "Gōngsī dānxīn bàgōng huì yǐngxiǎng shēngchǎn.",
+        "en": "Şirket grevin üretimi etkileyeceğinden endişeleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w2531",
+    "hanzi": "罢了",
+    "pinyin": "bàle",
+    "meaning": "sadece, hepsi bu",
+    "partOfSpeech": "parçacık",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这没什么，只是开个玩笑罢了。",
+        "pinyin": "Zhè méi shénme, zhǐshì kāi ge wánxiào bàle.",
+        "en": "Önemli değil, sadece şaka yaptım."
+      },
+      {
+        "zh": "他不过是个普通职员罢了。",
+        "pinyin": "Tā búguò shì ge pǔtōng zhíyuán bàle.",
+        "en": "O sadece sıradan bir çalışan, hepsi bu."
+      }
+    ]
+  },
+  {
+    "id": "w2532",
+    "hanzi": "白白",
+    "pinyin": "báibái",
+    "meaning": "boşuna, boş yere",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他白白浪费了很多时间。",
+        "pinyin": "Tā báibái làngfèi le hěn duō shíjiān.",
+        "en": "Boşuna çok zaman harcadı."
+      },
+      {
+        "zh": "别让机会白白溜走。",
+        "pinyin": "Bié ràng jīhuì báibái liūzǒu.",
+        "en": "Fırsatın boşuna kaçmasına izin verme."
+      },
+      {
+        "zh": "这笔钱不能白白花掉。",
+        "pinyin": "Zhè bǐ qián bù néng báibái huādiào.",
+        "en": "Bu para boş yere harcanmamalı."
+      },
+      {
+        "zh": "他白白地等了一个小时。",
+        "pinyin": "Tā báibái de děng le yí ge xiǎoshí.",
+        "en": "Boşuna bir saat bekledi."
+      },
+      {
+        "zh": "努力不会白白付出。",
+        "pinyin": "Nǔlì bú huì báibái fùchū.",
+        "en": "Çaba boşa gitmez."
+      }
+    ]
+  },
+  {
+    "id": "w2533",
+    "hanzi": "白菜",
+    "pinyin": "báicài",
+    "meaning": "Çin lahanası",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "妈妈买了很多白菜。",
+        "pinyin": "Māma mǎi le hěn duō báicài.",
+        "en": "Annem çok fazla Çin lahanası aldı."
+      },
+      {
+        "zh": "白菜炒肉很好吃。",
+        "pinyin": "Báicài chǎo ròu hěn hǎochī.",
+        "en": "Etli lahana kızartması çok lezzetli."
+      },
+      {
+        "zh": "冬天的白菜特别新鲜。",
+        "pinyin": "Dōngtiān de báicài tèbié xīnxiān.",
+        "en": "Kışın Çin lahanası özellikle taze olur."
+      },
+      {
+        "zh": "她用白菜包饺子。",
+        "pinyin": "Tā yòng báicài bāo jiǎozi.",
+        "en": "Çin lahanasıyla mantı yaptı."
+      },
+      {
+        "zh": "市场上白菜很便宜。",
+        "pinyin": "Shìchǎng shàng báicài hěn piányi.",
+        "en": "Pazarda Çin lahanası çok ucuz."
+      }
+    ]
+  },
+  {
+    "id": "w2534",
+    "hanzi": "白费",
+    "pinyin": "báifèi",
+    "meaning": "boşa harcamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "你的努力不会白费的。",
+        "pinyin": "Nǐ de nǔlì bú huì báifèi de.",
+        "en": "Çaban boşa gitmeyecek."
+      },
+      {
+        "zh": "别白费力气了，这样做没用。",
+        "pinyin": "Bié báifèi lìqi le, zhèyàng zuò méiyòng.",
+        "en": "Boşuna uğraşma, bu şekilde yapmanın faydası yok."
+      }
+    ]
+  },
+  {
+    "id": "w2535",
+    "hanzi": "白酒",
+    "pinyin": "báijiǔ",
+    "meaning": "baijiu (Çin usulü sert içki)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "他喜欢喝白酒。",
+        "pinyin": "Tā xǐhuan hē báijiǔ.",
+        "en": "Baijiu içmeyi sever."
+      },
+      {
+        "zh": "中国的白酒度数很高。",
+        "pinyin": "Zhōngguó de báijiǔ dùshù hěn gāo.",
+        "en": "Çin usulü baijiu'nun alkol oranı çok yüksek."
+      },
+      {
+        "zh": "宴会上大家喝了很多白酒。",
+        "pinyin": "Yànhuì shàng dàjiā hē le hěn duō báijiǔ.",
+        "en": "Ziyafette herkes çok fazla baijiu içti."
+      },
+      {
+        "zh": "这瓶白酒是朋友送的。",
+        "pinyin": "Zhè píng báijiǔ shì péngyou sòng de.",
+        "en": "Bu şişe baijiu bir arkadaşımın hediyesiydi."
+      },
+      {
+        "zh": "他不太能喝白酒。",
+        "pinyin": "Tā bú tài néng hē báijiǔ.",
+        "en": "Baijiu'ya pek dayanamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2536",
+    "hanzi": "白色",
+    "pinyin": "báisè",
+    "meaning": "beyaz (renk)",
+    "partOfSpeech": "isim/sıfat",
+    "level": 2,
+    "category": "renk",
+    "examples": [
+      {
+        "zh": "她穿着一件白色的裙子。",
+        "pinyin": "Tā chuānzhe yí jiàn báisè de qúnzi.",
+        "en": "Beyaz bir elbise giyiyor."
+      },
+      {
+        "zh": "白色代表纯洁。",
+        "pinyin": "Báisè dàibiǎo chúnjié.",
+        "en": "Beyaz saflığı temsil eder."
+      },
+      {
+        "zh": "这辆车是白色的。",
+        "pinyin": "Zhè liàng chē shì báisè de.",
+        "en": "Bu araba beyaz renkte."
+      },
+      {
+        "zh": "我喜欢白色的墙壁。",
+        "pinyin": "Wǒ xǐhuan báisè de qiángbì.",
+        "en": "Beyaz duvarları severim."
+      },
+      {
+        "zh": "他买了一双白色的鞋子。",
+        "pinyin": "Tā mǎi le yì shuāng báisè de xiézi.",
+        "en": "Beyaz bir ayakkabı satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w2537",
+    "hanzi": "白糖",
+    "pinyin": "báitáng",
+    "meaning": "toz şeker",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "请给我一勺白糖。",
+        "pinyin": "Qǐng gěi wǒ yì sháo báitáng.",
+        "en": "Bana bir kaşık toz şeker verin lütfen."
+      },
+      {
+        "zh": "咖啡里加了一点白糖。",
+        "pinyin": "Kāfēi lǐ jiā le yìdiǎn báitáng.",
+        "en": "Kahveye biraz toz şeker eklendi."
+      },
+      {
+        "zh": "白糖比红糖更常见。",
+        "pinyin": "Báitáng bǐ hóngtáng gèng chángjiàn.",
+        "en": "Toz şeker esmer şekerden daha yaygın."
+      },
+      {
+        "zh": "她做蛋糕时用了很多白糖。",
+        "pinyin": "Tā zuò dàngāo shí yòng le hěn duō báitáng.",
+        "en": "Kek yaparken çok fazla toz şeker kullandı."
+      },
+      {
+        "zh": "医生建议少吃白糖。",
+        "pinyin": "Yīshēng jiànyì shǎo chī báitáng.",
+        "en": "Doktor az şeker tüketmeyi önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w2538",
+    "hanzi": "白天",
+    "pinyin": "báitiān",
+    "meaning": "gündüz",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "我白天上班，晚上上课。",
+        "pinyin": "Wǒ báitiān shàngbān, wǎnshang shàngkè.",
+        "en": "Gündüz çalışıyorum, akşam derse gidiyorum."
+      },
+      {
+        "zh": "白天的时候天气很热。",
+        "pinyin": "Báitiān de shíhou tiānqì hěn rè.",
+        "en": "Gündüz hava çok sıcak oluyor."
+      },
+      {
+        "zh": "他白天很少在家。",
+        "pinyin": "Tā báitiān hěn shǎo zài jiā.",
+        "en": "Gündüz nadiren evde oluyor."
+      },
+      {
+        "zh": "白天和晚上温差很大。",
+        "pinyin": "Báitiān hé wǎnshang wēnchā hěn dà.",
+        "en": "Gündüz ve gece arasındaki sıcaklık farkı çok büyük."
+      },
+      {
+        "zh": "她喜欢白天出去散步。",
+        "pinyin": "Tā xǐhuan báitiān chūqù sànbù.",
+        "en": "Gündüz dışarı çıkıp yürüyüş yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w2539",
+    "hanzi": "白银",
+    "pinyin": "báiyín",
+    "meaning": "gümüş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这枚戒指是用白银做的。",
+        "pinyin": "Zhè méi jièzhi shì yòng báiyín zuò de.",
+        "en": "Bu yüzük gümüşten yapılmış."
+      },
+      {
+        "zh": "古代人常用白银交易。",
+        "pinyin": "Gǔdài rén cháng yòng báiyín jiāoyì.",
+        "en": "Eski insanlar sık sık gümüşle alışveriş yapardı."
+      }
+    ]
+  },
+  {
+    "id": "w2540",
+    "hanzi": "白纸黑字",
+    "pinyin": "báizhǐhēizì",
+    "meaning": "yazılı/kesin kanıt (siyah üstüne beyaz)",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这份合同白纸黑字写得很清楚。",
+        "pinyin": "Zhè fèn hétong báizhǐhēizì xiě de hěn qīngchu.",
+        "en": "Bu sözleşme siyah beyaz açıkça yazılmış."
+      },
+      {
+        "zh": "他说的话都是白纸黑字，不能反悔。",
+        "pinyin": "Tā shuō de huà dōu shì báizhǐhēizì, bù néng fǎnhuǐ.",
+        "en": "Söyledikleri yazılı belge niteliğinde, caymak mümkün değil."
+      }
+    ]
+  },
+  {
+    "id": "w2541",
+    "hanzi": "靶子",
+    "pinyin": "bǎzi",
+    "meaning": "hedef tahtası, nişangâh",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他一箭射中了靶子的中心。",
+        "pinyin": "Tā yí jiàn shèzhòng le bǎzi de zhōngxīn.",
+        "en": "Bir okla hedef tahtasının tam ortasını vurdu."
+      },
+      {
+        "zh": "士兵们在训练场练习打靶子。",
+        "pinyin": "Shìbīngmen zài xùnliànchǎng liànxí dǎ bǎzi.",
+        "en": "Askerler talim alanında hedef tahtasına atış talimi yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2542",
+    "hanzi": "掰",
+    "pinyin": "bāi",
+    "meaning": "elle koparmak, ikiye ayırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他把面包掰成两半。",
+        "pinyin": "Tā bǎ miànbāo bāi chéng liǎng bàn.",
+        "en": "Ekmeği ikiye böldü."
+      },
+      {
+        "zh": "她掰了一块巧克力给我。",
+        "pinyin": "Tā bāi le yí kuài qiǎokèlì gěi wǒ.",
+        "en": "Bana bir parça çikolata koparıp verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2543",
+    "hanzi": "白手起家",
+    "pinyin": "báishǒuqǐjiā",
+    "meaning": "sıfırdan başlamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他白手起家，创办了这家公司。",
+        "pinyin": "Tā báishǒuqǐjiā, chuàngbàn le zhè jiā gōngsī.",
+        "en": "Sıfırdan başlayarak bu şirketi kurdu."
+      },
+      {
+        "zh": "很多成功的企业家都是白手起家的。",
+        "pinyin": "Hěn duō chénggōng de qǐyèjiā dōu shì báishǒuqǐjiā de.",
+        "en": "Birçok başarılı girişimci sıfırdan başlamıştır."
+      }
+    ]
   }
 ]

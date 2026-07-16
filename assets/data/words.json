@@ -91246,5 +91246,563 @@
         "en": "Birçok başarılı girişimci sıfırdan başlamıştır."
       }
     ]
+  },
+  {
+    "id": "w2544",
+    "hanzi": "百万",
+    "pinyin": "bǎiwàn",
+    "meaning": "milyon",
+    "partOfSpeech": "sayı",
+    "level": 4,
+    "category": "Sayılar",
+    "examples": [
+      {
+        "zh": "这座城市有一百万人口。",
+        "pinyin": "Zhè zuò chéngshì yǒu yìbǎiwàn rénkǒu.",
+        "en": "Bu şehrin nüfusu bir milyon."
+      },
+      {
+        "zh": "他中了一百万彩票。",
+        "pinyin": "Tā zhòng le yìbǎiwàn cǎipiào.",
+        "en": "Bir milyonluk piyango kazandı."
+      },
+      {
+        "zh": "公司投资了几百万元。",
+        "pinyin": "Gōngsī tóuzī le jǐ bǎiwàn yuán.",
+        "en": "Şirket birkaç milyon yuan yatırım yaptı."
+      },
+      {
+        "zh": "这部电影的票房超过了一百万。",
+        "pinyin": "Zhè bù diànyǐng de piàofáng chāoguò le yìbǎiwàn.",
+        "en": "Bu filmin gişe hasılatı bir milyonu geçti."
+      },
+      {
+        "zh": "世界上有几百万种生物。",
+        "pinyin": "Shìjiè shàng yǒu jǐ bǎiwàn zhǒng shēngwù.",
+        "en": "Dünyada birkaç milyon canlı türü var."
+      }
+    ]
+  },
+  {
+    "id": "w2545",
+    "hanzi": "百姓",
+    "pinyin": "bǎixìng",
+    "meaning": "halk, vatandaş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "政府应该关心老百姓的生活。",
+        "pinyin": "Zhèngfǔ yīnggāi guānxīn lǎobǎixìng de shēnghuó.",
+        "en": "Hükümet sıradan halkın hayatıyla ilgilenmeli."
+      },
+      {
+        "zh": "这项政策对老百姓有利。",
+        "pinyin": "Zhè xiàng zhèngcè duì lǎobǎixìng yǒulì.",
+        "en": "Bu politika halk için faydalı."
+      },
+      {
+        "zh": "老百姓都希望过上好日子。",
+        "pinyin": "Lǎobǎixìng dōu xīwàng guò shàng hǎo rìzi.",
+        "en": "Halk iyi bir hayat sürmeyi umuyor."
+      },
+      {
+        "zh": "这位官员很受百姓爱戴。",
+        "pinyin": "Zhè wèi guānyuán hěn shòu bǎixìng àidài.",
+        "en": "Bu memur halk tarafından çok seviliyor."
+      },
+      {
+        "zh": "百姓们纷纷提出了自己的意见。",
+        "pinyin": "Bǎixìngmen fēnfēn tíchū le zìjǐ de yìjiàn.",
+        "en": "Halk birbiri ardına kendi görüşünü sundu."
+      }
+    ]
+  },
+  {
+    "id": "w2546",
+    "hanzi": "摆脱",
+    "pinyin": "bǎituō",
+    "meaning": "kurtulmak, sıyrılmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他终于摆脱了债务的困扰。",
+        "pinyin": "Tā zhōngyú bǎituō le zhàiwù de kùnrǎo.",
+        "en": "Sonunda borç sıkıntısından kurtuldu."
+      },
+      {
+        "zh": "她想摆脱这段不愉快的记忆。",
+        "pinyin": "Tā xiǎng bǎituō zhè duàn bù yúkuài de jìyì.",
+        "en": "Bu mutsuz anıdan kurtulmak istiyor."
+      },
+      {
+        "zh": "我们必须摆脱旧的观念。",
+        "pinyin": "Wǒmen bìxū bǎituō jiù de guānniàn.",
+        "en": "Eski düşüncelerden kurtulmalıyız."
+      },
+      {
+        "zh": "他努力摆脱贫穷的生活。",
+        "pinyin": "Tā nǔlì bǎituō pínqióng de shēnghuó.",
+        "en": "Yoksul hayattan kurtulmak için çabalıyor."
+      },
+      {
+        "zh": "她想尽办法摆脱麻烦。",
+        "pinyin": "Tā xiǎng jìn bànfǎ bǎituō máfan.",
+        "en": "Beladan kurtulmak için her yolu denedi."
+      }
+    ]
+  },
+  {
+    "id": "w2547",
+    "hanzi": "拜访",
+    "pinyin": "bàifǎng",
+    "meaning": "ziyaret etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他明天要去拜访老师。",
+        "pinyin": "Tā míngtiān yào qù bàifǎng lǎoshī.",
+        "en": "Yarın öğretmenini ziyaret edecek."
+      },
+      {
+        "zh": "我们拜访了很多客户。",
+        "pinyin": "Wǒmen bàifǎng le hěn duō kèhù.",
+        "en": "Birçok müşteriyi ziyaret ettik."
+      },
+      {
+        "zh": "她经常拜访生病的朋友。",
+        "pinyin": "Tā jīngcháng bàifǎng shēngbìng de péngyou.",
+        "en": "Sık sık hasta arkadaşlarını ziyaret eder."
+      },
+      {
+        "zh": "感谢您今天的拜访。",
+        "pinyin": "Gǎnxiè nín jīntiān de bàifǎng.",
+        "en": "Bugünkü ziyaretiniz için teşekkür ederim."
+      },
+      {
+        "zh": "他专程去拜访了那位教授。",
+        "pinyin": "Tā zhuānchéng qù bàifǎng le nà wèi jiàoshòu.",
+        "en": "O profesörü özellikle ziyaret etmeye gitti."
+      }
+    ]
+  },
+  {
+    "id": "w2548",
+    "hanzi": "拜托",
+    "pinyin": "bàituō",
+    "meaning": "rica etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "拜托你帮我一个忙。",
+        "pinyin": "Bàituō nǐ bāng wǒ yí ge máng.",
+        "en": "Bana bir yardım etmeni rica ediyorum."
+      },
+      {
+        "zh": "我拜托朋友照顾我的猫。",
+        "pinyin": "Wǒ bàituō péngyou zhàogù wǒ de māo.",
+        "en": "Kedimin bakımını arkadaşımdan rica ettim."
+      },
+      {
+        "zh": "拜托各位多多关照。",
+        "pinyin": "Bàituō gèwèi duōduō guānzhào.",
+        "en": "Herkesten ilgi ve destek rica ediyorum."
+      },
+      {
+        "zh": "这件事就拜托你了。",
+        "pinyin": "Zhè jiàn shì jiù bàituō nǐ le.",
+        "en": "Bu işi senden rica ediyorum."
+      },
+      {
+        "zh": "他拜托同事帮忙处理文件。",
+        "pinyin": "Tā bàituō tóngshì bāngmáng chǔlǐ wénjiàn.",
+        "en": "Belgeleri işleme koymak için meslektaşından rica etti."
+      }
+    ]
+  },
+  {
+    "id": "w2549",
+    "hanzi": "败坏",
+    "pinyin": "bàihuài",
+    "meaning": "bozmak, lekelemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的行为败坏了公司的名声。",
+        "pinyin": "Tā de xíngwéi bàihuài le gōngsī de míngshēng.",
+        "en": "Davranışı şirketin itibarını lekeledi."
+      },
+      {
+        "zh": "这种谣言会败坏她的形象。",
+        "pinyin": "Zhè zhǒng yáoyán huì bàihuài tā de xíngxiàng.",
+        "en": "Bu tür bir dedikodu onun imajını zedeleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w2550",
+    "hanzi": "斑马",
+    "pinyin": "bānmǎ",
+    "meaning": "zebra",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "动物园里有几只斑马。",
+        "pinyin": "Dòngwùyuán lǐ yǒu jǐ zhī bānmǎ.",
+        "en": "Hayvanat bahçesinde birkaç zebra var."
+      },
+      {
+        "zh": "斑马身上有黑白条纹。",
+        "pinyin": "Bānmǎ shēnshang yǒu hēibái tiáowén.",
+        "en": "Zebranın vücudunda siyah beyaz çizgiler var."
+      },
+      {
+        "zh": "孩子们喜欢看斑马奔跑。",
+        "pinyin": "Háizimen xǐhuan kàn bānmǎ bēnpǎo.",
+        "en": "Çocuklar zebraların koşmasını izlemeyi sever."
+      },
+      {
+        "zh": "斑马生活在非洲草原上。",
+        "pinyin": "Bānmǎ shēnghuó zài Fēizhōu cǎoyuán shàng.",
+        "en": "Zebralar Afrika savanlarında yaşar."
+      },
+      {
+        "zh": "这只斑马跑得很快。",
+        "pinyin": "Zhè zhī bānmǎ pǎo de hěn kuài.",
+        "en": "Bu zebra çok hızlı koşuyor."
+      }
+    ]
+  },
+  {
+    "id": "w2551",
+    "hanzi": "扳手",
+    "pinyin": "bānshou",
+    "meaning": "İngiliz anahtarı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他用扳手拧紧了螺丝。",
+        "pinyin": "Tā yòng bānshou nǐngjǐn le luósī.",
+        "en": "İngiliz anahtarıyla vidayı sıktı."
+      },
+      {
+        "zh": "工具箱里有一把扳手。",
+        "pinyin": "Gōngjùxiāng lǐ yǒu yì bǎ bānshou.",
+        "en": "Alet kutusunda bir İngiliz anahtarı var."
+      }
+    ]
+  },
+  {
+    "id": "w2552",
+    "hanzi": "颁布",
+    "pinyin": "bānbù",
+    "meaning": "resmen ilan etmek, yürürlüğe koymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府颁布了一项新法律。",
+        "pinyin": "Zhèngfǔ bānbù le yí xiàng xīn fǎlǜ.",
+        "en": "Hükümet yeni bir yasayı yürürlüğe koydu."
+      },
+      {
+        "zh": "这项政策将于下月颁布。",
+        "pinyin": "Zhè xiàng zhèngcè jiāng yú xiàyuè bānbù.",
+        "en": "Bu politika gelecek ay yürürlüğe girecek."
+      }
+    ]
+  },
+  {
+    "id": "w2553",
+    "hanzi": "颁发",
+    "pinyin": "bānfā",
+    "meaning": "(ödül/diploma) vermek, dağıtmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "校长为优秀学生颁发了奖状。",
+        "pinyin": "Xiàozhǎng wèi yōuxiù xuésheng bānfā le jiǎngzhuàng.",
+        "en": "Müdür başarılı öğrencilere ödül belgesi verdi."
+      },
+      {
+        "zh": "政府向他颁发了荣誉证书。",
+        "pinyin": "Zhèngfǔ xiàng tā bānfā le róngyù zhèngshū.",
+        "en": "Hükümet ona onur belgesi verdi."
+      },
+      {
+        "zh": "毕业典礼上颁发了毕业证书。",
+        "pinyin": "Bìyè diǎnlǐ shàng bānfā le bìyè zhèngshū.",
+        "en": "Mezuniyet töreninde diplomalar dağıtıldı."
+      },
+      {
+        "zh": "公司给他颁发了年度奖金。",
+        "pinyin": "Gōngsī gěi tā bānfā le niándù jiǎngjīn.",
+        "en": "Şirket ona yıllık ikramiye verdi."
+      },
+      {
+        "zh": "大会向获奖者颁发了奖杯。",
+        "pinyin": "Dàhuì xiàng huòjiǎngzhě bānfā le jiǎngbēi.",
+        "en": "Kongre ödül kazananlara kupa verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2554",
+    "hanzi": "搬家",
+    "pinyin": "bānjiā",
+    "meaning": "taşınmak (ev)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "我们下个月要搬家。",
+        "pinyin": "Wǒmen xià ge yuè yào bānjiā.",
+        "en": "Gelecek ay taşınacağız."
+      },
+      {
+        "zh": "搬家的时候要小心那些易碎品。",
+        "pinyin": "Bānjiā de shíhou yào xiǎoxīn nàxiē yìsuìpǐn.",
+        "en": "Taşınırken kırılabilir eşyalara dikkat etmek gerekir."
+      },
+      {
+        "zh": "他帮朋友搬家了一整天。",
+        "pinyin": "Tā bāng péngyou bānjiā le yìzhěng tiān.",
+        "en": "Bütün gün arkadaşının taşınmasına yardım etti."
+      },
+      {
+        "zh": "我们请了搬家公司帮忙。",
+        "pinyin": "Wǒmen qǐng le bānjiā gōngsī bāngmáng.",
+        "en": "Yardım için nakliye şirketi tuttuk."
+      },
+      {
+        "zh": "搬家后，她开始适应新环境。",
+        "pinyin": "Bānjiā hòu, tā kāishǐ shìyìng xīn huánjìng.",
+        "en": "Taşındıktan sonra yeni ortama alışmaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w2555",
+    "hanzi": "搬运",
+    "pinyin": "bānyùn",
+    "meaning": "taşımak, nakletmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工人们正在搬运货物。",
+        "pinyin": "Gōngrénmen zhèngzài bānyùn huòwù.",
+        "en": "İşçiler malları taşıyor."
+      },
+      {
+        "zh": "这些箱子需要用车搬运。",
+        "pinyin": "Zhèxiē xiāngzi xūyào yòng chē bānyùn.",
+        "en": "Bu kutuların araçla taşınması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w2556",
+    "hanzi": "版本",
+    "pinyin": "bǎnběn",
+    "meaning": "versiyon, baskı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "这是这个软件的最新版本。",
+        "pinyin": "Zhè shì zhège ruǎnjiàn de zuìxīn bǎnběn.",
+        "en": "Bu, bu yazılımın en yeni versiyonu."
+      },
+      {
+        "zh": "这本书有很多不同的版本。",
+        "pinyin": "Zhè běn shū yǒu hěn duō bùtóng de bǎnběn.",
+        "en": "Bu kitabın birçok farklı baskısı var."
+      },
+      {
+        "zh": "请下载最新版本的应用程序。",
+        "pinyin": "Qǐng xiàzài zuìxīn bǎnběn de yìngyòng chéngxù.",
+        "en": "Lütfen uygulamanın en yeni versiyonunu indirin."
+      },
+      {
+        "zh": "这个故事有好几个版本。",
+        "pinyin": "Zhège gùshi yǒu hǎojǐ ge bǎnběn.",
+        "en": "Bu hikayenin birkaç farklı versiyonu var."
+      },
+      {
+        "zh": "电影和小说的版本有些不同。",
+        "pinyin": "Diànyǐng hé xiǎoshuō de bǎnběn yǒuxiē bùtóng.",
+        "en": "Filmin ve romanın versiyonları biraz farklı."
+      }
+    ]
+  },
+  {
+    "id": "w2557",
+    "hanzi": "版权",
+    "pinyin": "bǎnquán",
+    "meaning": "telif hakkı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这本书的版权属于作者。",
+        "pinyin": "Zhè běn shū de bǎnquán shǔyú zuòzhě.",
+        "en": "Bu kitabın telif hakkı yazara aittir."
+      },
+      {
+        "zh": "未经授权使用会侵犯版权。",
+        "pinyin": "Wèi jīng shòuquán shǐyòng huì qīnfàn bǎnquán.",
+        "en": "İzinsiz kullanım telif hakkını ihlal eder."
+      }
+    ]
+  },
+  {
+    "id": "w2558",
+    "hanzi": "板凳",
+    "pinyin": "bǎndèng",
+    "meaning": "tahta tabure, bank",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他坐在一个小板凳上。",
+        "pinyin": "Tā zuò zài yí ge xiǎo bǎndèng shàng.",
+        "en": "Küçük bir tahta taburede oturuyor."
+      },
+      {
+        "zh": "教室里摆着几张板凳。",
+        "pinyin": "Jiàoshì lǐ bǎizhe jǐ zhāng bǎndèng.",
+        "en": "Sınıfta birkaç bank yerleştirilmiş."
+      },
+      {
+        "zh": "她搬来一张板凳给客人坐。",
+        "pinyin": "Tā bānlái yì zhāng bǎndèng gěi kèrén zuò.",
+        "en": "Misafirin oturması için bir tabure getirdi."
+      },
+      {
+        "zh": "这张板凳有点摇晃。",
+        "pinyin": "Zhè zhāng bǎndèng yǒudiǎn yáohuàng.",
+        "en": "Bu tabure biraz sallanıyor."
+      },
+      {
+        "zh": "孩子们坐在板凳上听故事。",
+        "pinyin": "Háizimen zuò zài bǎndèng shàng tīng gùshi.",
+        "en": "Çocuklar taburelerde oturup hikaye dinliyor."
+      }
+    ]
+  },
+  {
+    "id": "w2559",
+    "hanzi": "办公",
+    "pinyin": "bàngōng",
+    "meaning": "ofis işi yapmak, çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他每天在办公室里办公。",
+        "pinyin": "Tā měitiān zài bàngōngshì lǐ bàngōng.",
+        "en": "Her gün ofiste çalışıyor."
+      },
+      {
+        "zh": "公司要求员工按时办公。",
+        "pinyin": "Gōngsī yāoqiú yuángōng ànshí bàngōng.",
+        "en": "Şirket çalışanların zamanında ofiste olmasını istiyor."
+      },
+      {
+        "zh": "我们在新大楼里办公。",
+        "pinyin": "Wǒmen zài xīn dàlóu lǐ bàngōng.",
+        "en": "Yeni binada çalışıyoruz."
+      },
+      {
+        "zh": "他习惯早上八点开始办公。",
+        "pinyin": "Tā xíguàn zǎoshang bā diǎn kāishǐ bàngōng.",
+        "en": "Sabah saat sekizde çalışmaya başlamaya alışkın."
+      },
+      {
+        "zh": "现在很多人在家办公。",
+        "pinyin": "Xiànzài hěn duō rén zài jiā bàngōng.",
+        "en": "Şimdi birçok kişi evden çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2560",
+    "hanzi": "办事",
+    "pinyin": "bànshì",
+    "meaning": "iş/işlerini halletmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他办事很认真。",
+        "pinyin": "Tā bànshì hěn rènzhēn.",
+        "en": "İşleri çok ciddiyetle halleder."
+      },
+      {
+        "zh": "我去银行办事了。",
+        "pinyin": "Wǒ qù yínháng bànshì le.",
+        "en": "Bankaya iş halletmeye gittim."
+      },
+      {
+        "zh": "她办事效率很高。",
+        "pinyin": "Tā bànshì xiàolǜ hěn gāo.",
+        "en": "İşleri hızlı halleder, verimliliği yüksek."
+      },
+      {
+        "zh": "请按规定办事。",
+        "pinyin": "Qǐng àn guīdìng bànshì.",
+        "en": "Lütfen kurallara göre hareket edin."
+      },
+      {
+        "zh": "他去政府部门办事了。",
+        "pinyin": "Tā qù zhèngfǔ bùmén bànshì le.",
+        "en": "Devlet dairesine iş halletmeye gitti."
+      }
+    ]
+  },
+  {
+    "id": "w2561",
+    "hanzi": "般配",
+    "pinyin": "bānpèi",
+    "meaning": "birbirine yakışan (çift)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他们两个人很般配。",
+        "pinyin": "Tāmen liǎng ge rén hěn bānpèi.",
+        "en": "İkisi birbirine çok yakışıyor."
+      },
+      {
+        "zh": "这对夫妻看起来非常般配。",
+        "pinyin": "Zhè duì fūqī kànqǐlái fēicháng bānpèi.",
+        "en": "Bu çift birbirine çok yakışıyor gibi görünüyor."
+      }
+    ]
   }
 ]

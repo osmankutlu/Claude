@@ -111451,5 +111451,635 @@
         "en": "Sözleri herkeste antipati uyandırdı."
       }
     ]
+  },
+  {
+    "id": "w3206",
+    "hanzi": "饭菜",
+    "pinyin": "fàncài",
+    "meaning": "yemek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "妈妈做了一桌丰盛的饭菜。",
+        "pinyin": "Māma zuò le yì zhuō fēngshèng de fàncài.",
+        "en": "Annem sofra dolusu yemek yaptı."
+      },
+      {
+        "zh": "这里的饭菜味道很好。",
+        "pinyin": "Zhèlǐ de fàncài wèidao hěn hǎo.",
+        "en": "Buradaki yemeklerin tadı çok güzel."
+      },
+      {
+        "zh": "请把饭菜端上桌。",
+        "pinyin": "Qǐng bǎ fàncài duān shàng zhuō.",
+        "en": "Lütfen yemekleri masaya getir."
+      },
+      {
+        "zh": "他每天自己做饭菜。",
+        "pinyin": "Tā měitiān zìjǐ zuò fàncài.",
+        "en": "Her gün kendi yemeğini kendisi yapıyor."
+      },
+      {
+        "zh": "饭菜已经凉了。",
+        "pinyin": "Fàncài yǐjīng liáng le.",
+        "en": "Yemekler soğudu bile."
+      }
+    ]
+  },
+  {
+    "id": "w3207",
+    "hanzi": "反面",
+    "pinyin": "fǎnmiàn",
+    "meaning": "zıt taraf, arka yüz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请看纸的反面。",
+        "pinyin": "Qǐng kàn zhǐ de fǎnmiàn.",
+        "en": "Lütfen kağıdın arka yüzüne bakın."
+      },
+      {
+        "zh": "这件事也有反面的影响。",
+        "pinyin": "Zhè jiàn shì yě yǒu fǎnmiàn de yǐngxiǎng.",
+        "en": "Bu olayın olumsuz bir etkisi de var."
+      },
+      {
+        "zh": "从反面来看，这个决定也有好处。",
+        "pinyin": "Cóng fǎnmiàn lái kàn, zhège juédìng yě yǒu hǎochù.",
+        "en": "Diğer yönden bakıldığında, bu kararın da faydaları var."
+      },
+      {
+        "zh": "硬币的反面刻着图案。",
+        "pinyin": "Yìngbì de fǎnmiàn kè zhe tú'àn.",
+        "en": "Madeni paranın arka yüzünde bir desen var."
+      },
+      {
+        "zh": "他常常扮演反面角色。",
+        "pinyin": "Tā chángcháng bànyǎn fǎnmiàn juésè.",
+        "en": "Sık sık kötü karakter rolü oynuyor."
+      }
+    ]
+  },
+  {
+    "id": "w3208",
+    "hanzi": "犯法",
+    "pinyin": "fànfǎ",
+    "meaning": "kanuna karşı gelmek, suç işlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "偷东西是犯法的。",
+        "pinyin": "Tōu dōngxi shì fànfǎ de.",
+        "en": "Hırsızlık yapmak kanunlara aykırıdır."
+      },
+      {
+        "zh": "他因为犯法被逮捕了。",
+        "pinyin": "Tā yīnwèi fànfǎ bèi dàibǔ le.",
+        "en": "Kanuna karşı geldiği için tutuklandı."
+      },
+      {
+        "zh": "我们应该遵守法律，不能犯法。",
+        "pinyin": "Wǒmen yīnggāi zūnshǒu fǎlǜ, bù néng fànfǎ.",
+        "en": "Kanunlara uymalı, kanunları çiğnememeliyiz."
+      },
+      {
+        "zh": "酒驾是严重的犯法行为。",
+        "pinyin": "Jiǔjià shì yánzhòng de fànfǎ xíngwéi.",
+        "en": "Alkollü araç kullanmak ciddi bir kanun ihlalidir."
+      },
+      {
+        "zh": "他不知道自己已经犯法了。",
+        "pinyin": "Tā bù zhīdào zìjǐ yǐjīng fànfǎ le.",
+        "en": "Zaten kanuna karşı geldiğinin farkında değildi."
+      }
+    ]
+  },
+  {
+    "id": "w3209",
+    "hanzi": "犯规",
+    "pinyin": "fànguī",
+    "meaning": "faul",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "那名球员犯规了。",
+        "pinyin": "Nà míng qiúyuán fànguī le.",
+        "en": "O oyuncu faul yaptı."
+      },
+      {
+        "zh": "裁判判了他犯规。",
+        "pinyin": "Cáipàn pàn le tā fànguī.",
+        "en": "Hakem onu faul yapmakla suçladı."
+      },
+      {
+        "zh": "这次犯规导致对方获得罚球。",
+        "pinyin": "Zhè cì fànguī dǎozhì duìfāng huòdé fáqiú.",
+        "en": "Bu faul karşı tarafa penaltı kazandırdı."
+      },
+      {
+        "zh": "他因为多次犯规被罚下场。",
+        "pinyin": "Tā yīnwèi duōcì fànguī bèi fá xiàchǎng.",
+        "en": "Birçok kez faul yaptığı için oyundan çıkarıldı."
+      },
+      {
+        "zh": "裁判没有看到这次犯规。",
+        "pinyin": "Cáipàn méiyǒu kàndào zhè cì fànguī.",
+        "en": "Hakem bu faulü görmedi."
+      }
+    ]
+  },
+  {
+    "id": "w3210",
+    "hanzi": "犯人",
+    "pinyin": "fànrén",
+    "meaning": "mahkum, suçlu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "犯人被关在监狱里。",
+        "pinyin": "Fànrén bèi guān zài jiānyù lǐ.",
+        "en": "Mahkum hapishanede tutuluyor."
+      },
+      {
+        "zh": "那名犯人被判了十年监禁。",
+        "pinyin": "Nà míng fànrén bèi pàn le shí nián jiānjìn.",
+        "en": "O mahkuma on yıl hapis cezası verildi."
+      },
+      {
+        "zh": "犯人在庭上认罪了。",
+        "pinyin": "Fànrén zài tíng shàng rènzuì le.",
+        "en": "Mahkum mahkemede suçunu kabul etti."
+      },
+      {
+        "zh": "警察正在追捕逃跑的犯人。",
+        "pinyin": "Jǐngchá zhèngzài zhuībǔ táopǎo de fànrén.",
+        "en": "Polis kaçan mahkumu yakalamaya çalışıyor."
+      },
+      {
+        "zh": "这名犯人表现良好，提前获释。",
+        "pinyin": "Zhè míng fànrén biǎoxiàn liánghǎo, tíqián huòshì.",
+        "en": "Bu mahkum iyi hal gösterdiği için erken salıverildi."
+      }
+    ]
+  },
+  {
+    "id": "w3211",
+    "hanzi": "犯罪",
+    "pinyin": "fànzuì",
+    "meaning": "suç işlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他因为犯罪被判刑。",
+        "pinyin": "Tā yīnwèi fànzuì bèi pànxíng.",
+        "en": "Suç işlediği için mahkum edildi."
+      },
+      {
+        "zh": "警方正在调查这起犯罪案件。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá zhè qǐ fànzuì ànjiàn.",
+        "en": "Polis bu suç vakasını araştırıyor."
+      },
+      {
+        "zh": "预防犯罪是社会的重要任务。",
+        "pinyin": "Yùfáng fànzuì shì shèhuì de zhòngyào rènwu.",
+        "en": "Suçu önlemek toplumun önemli bir görevidir."
+      },
+      {
+        "zh": "他从未犯罪过。",
+        "pinyin": "Tā cóng wèi fànzuì guò.",
+        "en": "Hiç suç işlemedi."
+      },
+      {
+        "zh": "青少年犯罪问题引起了社会关注。",
+        "pinyin": "Qīngshàonián fànzuì wèntí yǐnqǐ le shèhuì guānzhù.",
+        "en": "Gençlik suçu sorunu toplumun dikkatini çekti."
+      }
+    ]
+  },
+  {
+    "id": "w3212",
+    "hanzi": "范例",
+    "pinyin": "fànlì",
+    "meaning": "örnek, numune",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这篇作文是一个很好的范例。",
+        "pinyin": "Zhè piān zuòwén shì yí ge hěn hǎo de fànlì.",
+        "en": "Bu kompozisyon çok iyi bir örnektir."
+      },
+      {
+        "zh": "老师给我们展示了几个范例。",
+        "pinyin": "Lǎoshī gěi wǒmen zhǎnshì le jǐ ge fànlì.",
+        "en": "Öğretmen bize birkaç örnek gösterdi."
+      },
+      {
+        "zh": "这个项目可以作为其他学校的范例。",
+        "pinyin": "Zhège xiàngmù kěyǐ zuòwéi qítā xuéxiào de fànlì.",
+        "en": "Bu proje diğer okullar için örnek teşkil edebilir."
+      },
+      {
+        "zh": "请参考以下范例完成作业。",
+        "pinyin": "Qǐng cānkǎo yǐxià fànlì wánchéng zuòyè.",
+        "en": "Lütfen aşağıdaki örneğe bakarak ödevi tamamlayın."
+      },
+      {
+        "zh": "他的成功是值得学习的范例。",
+        "pinyin": "Tā de chénggōng shì zhídé xuéxí de fànlì.",
+        "en": "Başarısı öğrenilmeye değer bir örnektir."
+      }
+    ]
+  },
+  {
+    "id": "w3213",
+    "hanzi": "饭碗",
+    "pinyin": "fànwǎn",
+    "meaning": "geçim kaynağı, iş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "他很珍惜自己的饭碗。",
+        "pinyin": "Tā hěn zhēnxī zìjǐ de fànwǎn.",
+        "en": "İşine çok değer veriyor."
+      },
+      {
+        "zh": "失业让他丢了饭碗。",
+        "pinyin": "Shīyè ràng tā diū le fànwǎn.",
+        "en": "İşsizlik onun geçim kaynağını kaybetmesine neden oldu."
+      },
+      {
+        "zh": "这份工作是他的铁饭碗。",
+        "pinyin": "Zhè fèn gōngzuò shì tā de tiě fànwǎn.",
+        "en": "Bu iş onun garantili geçim kaynağıdır."
+      },
+      {
+        "zh": "别得罪领导，小心丢了饭碗。",
+        "pinyin": "Bié dézuì lǐngdǎo, xiǎoxīn diū le fànwǎn.",
+        "en": "Yöneticini gücendirme, işini kaybetmemeye dikkat et."
+      },
+      {
+        "zh": "他靠一技之长保住了饭碗。",
+        "pinyin": "Tā kào yíjìzhīcháng bǎozhù le fànwǎn.",
+        "en": "Bir yeteneği sayesinde işini korudu."
+      }
+    ]
+  },
+  {
+    "id": "w3214",
+    "hanzi": "方才",
+    "pinyin": "fāngcái",
+    "meaning": "az önce",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "方才我看见他从这里经过。",
+        "pinyin": "Fāngcái wǒ kànjiàn tā cóng zhèlǐ jīngguò.",
+        "en": "Az önce onun buradan geçtiğini gördüm."
+      },
+      {
+        "zh": "方才发生了什么事？",
+        "pinyin": "Fāngcái fāshēng le shénme shì?",
+        "en": "Az önce ne oldu?"
+      },
+      {
+        "zh": "我方才还在想这个问题。",
+        "pinyin": "Wǒ fāngcái hái zài xiǎng zhège wèntí.",
+        "en": "Az önce bu konuyu düşünüyordum."
+      },
+      {
+        "zh": "他方才说的话让我很吃惊。",
+        "pinyin": "Tā fāngcái shuō de huà ràng wǒ hěn chījīng.",
+        "en": "Az önce söylediği söz beni çok şaşırttı."
+      },
+      {
+        "zh": "方才那阵雨来得真快。",
+        "pinyin": "Fāngcái nà zhèn yǔ lái de zhēn kuài.",
+        "en": "Az önceki o sağanak çok hızlı geldi."
+      }
+    ]
+  },
+  {
+    "id": "w3215",
+    "hanzi": "方程",
+    "pinyin": "fāngchéng",
+    "meaning": "denklem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请解这个方程。",
+        "pinyin": "Qǐng jiě zhège fāngchéng.",
+        "en": "Lütfen bu denklemi çözün."
+      },
+      {
+        "zh": "这是一个二次方程。",
+        "pinyin": "Zhè shì yí ge èrcì fāngchéng.",
+        "en": "Bu bir ikinci dereceden denklemdir."
+      },
+      {
+        "zh": "老师在黑板上写了一个方程。",
+        "pinyin": "Lǎoshī zài hēibǎn shàng xiě le yí ge fāngchéng.",
+        "en": "Öğretmen tahtaya bir denklem yazdı."
+      },
+      {
+        "zh": "这道方程有两个解。",
+        "pinyin": "Zhè dào fāngchéng yǒu liǎng ge jiě.",
+        "en": "Bu denklemin iki çözümü var."
+      },
+      {
+        "zh": "学生们正在练习解方程。",
+        "pinyin": "Xuéshengmen zhèngzài liànxí jiě fāngchéng.",
+        "en": "Öğrenciler denklem çözme alıştırması yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3216",
+    "hanzi": "方位",
+    "pinyin": "fāngwèi",
+    "meaning": "yön, pozisyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "请确认一下正确的方位。",
+        "pinyin": "Qǐng quèrèn yíxià zhèngquè de fāngwèi.",
+        "en": "Lütfen doğru yönü teyit edin."
+      },
+      {
+        "zh": "他用指南针辨别方位。",
+        "pinyin": "Tā yòng zhǐnánzhēn biànbié fāngwèi.",
+        "en": "Pusula ile yön belirliyor."
+      },
+      {
+        "zh": "这栋房子的方位很好，采光充足。",
+        "pinyin": "Zhè dòng fángzi de fāngwèi hěn hǎo, cǎiguāng chōngzú.",
+        "en": "Bu evin yönü iyi, ışık alımı yeterli."
+      },
+      {
+        "zh": "迷路后他失去了方位感。",
+        "pinyin": "Mílù hòu tā shīqù le fāngwèi gǎn.",
+        "en": "Kaybolduktan sonra yön duygusunu kaybetti."
+      },
+      {
+        "zh": "请根据地图确定我们的方位。",
+        "pinyin": "Qǐng gēnjù dìtú quèdìng wǒmen de fāngwèi.",
+        "en": "Lütfen haritaya göre konumumuzu belirleyin."
+      }
+    ]
+  },
+  {
+    "id": "w3217",
+    "hanzi": "防止",
+    "pinyin": "fángzhǐ",
+    "meaning": "engellemek, önlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们需要采取措施防止事故发生。",
+        "pinyin": "Wǒmen xūyào cǎiqǔ cuòshī fángzhǐ shìgù fāshēng.",
+        "en": "Kaza olmasını önlemek için tedbir almamız gerekiyor."
+      },
+      {
+        "zh": "这种药可以防止感染。",
+        "pinyin": "Zhè zhǒng yào kěyǐ fángzhǐ gǎnrǎn.",
+        "en": "Bu ilaç enfeksiyonu önleyebilir."
+      },
+      {
+        "zh": "为了防止火灾，请不要吸烟。",
+        "pinyin": "Wèile fángzhǐ huǒzāi, qǐng búyào xīyān.",
+        "en": "Yangını önlemek için lütfen sigara içmeyin."
+      },
+      {
+        "zh": "政府采取行动防止污染扩散。",
+        "pinyin": "Zhèngfǔ cǎiqǔ xíngdòng fángzhǐ wūrǎn kuòsàn.",
+        "en": "Hükümet kirliliğin yayılmasını önlemek için harekete geçti."
+      },
+      {
+        "zh": "我们应该防止类似的错误再次发生。",
+        "pinyin": "Wǒmen yīnggāi fángzhǐ lèisì de cuòwù zàicì fāshēng.",
+        "en": "Benzer hataların tekrar yaşanmasını önlemeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w3218",
+    "hanzi": "防御",
+    "pinyin": "fángyù",
+    "meaning": "savunma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队加强了边境的防御。",
+        "pinyin": "Jūnduì jiāqiáng le biānjìng de fángyù.",
+        "en": "Ordu sınırın savunmasını güçlendirdi."
+      },
+      {
+        "zh": "这座城堡的防御系统非常坚固。",
+        "pinyin": "Zhè zuò chéngbǎo de fángyù xìtǒng fēicháng jiāngù.",
+        "en": "Bu kalenin savunma sistemi çok sağlamdır."
+      },
+      {
+        "zh": "球队加强了防御策略。",
+        "pinyin": "Qiúduì jiāqiáng le fángyù cèlüè.",
+        "en": "Takım savunma stratejisini güçlendirdi."
+      },
+      {
+        "zh": "免疫系统是身体的天然防御机制。",
+        "pinyin": "Miǎnyì xìtǒng shì shēntǐ de tiānrán fángyù jīzhì.",
+        "en": "Bağışıklık sistemi vücudun doğal savunma mekanizmasıdır."
+      },
+      {
+        "zh": "他们建立了坚固的防御工事。",
+        "pinyin": "Tāmen jiànlì le jiāngù de fángyù gōngshì.",
+        "en": "Sağlam savunma tesisleri kurdular."
+      }
+    ]
+  },
+  {
+    "id": "w3219",
+    "hanzi": "房屋",
+    "pinyin": "fángwū",
+    "meaning": "evler, binalar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "地震损坏了很多房屋。",
+        "pinyin": "Dìzhèn sǔnhuài le hěn duō fángwū.",
+        "en": "Deprem birçok evi hasara uğrattı."
+      },
+      {
+        "zh": "这个小区的房屋都很新。",
+        "pinyin": "Zhège xiǎoqū de fángwū dōu hěn xīn.",
+        "en": "Bu mahalledeki evlerin hepsi yeni."
+      },
+      {
+        "zh": "政府为受灾群众重建了房屋。",
+        "pinyin": "Zhèngfǔ wèi shòuzāi qúnzhòng chóngjiàn le fángwū.",
+        "en": "Hükümet afetzedeler için evler yeniden inşa etti."
+      },
+      {
+        "zh": "这栋房屋已经有一百年历史了。",
+        "pinyin": "Zhè dòng fángwū yǐjīng yǒu yìbǎi nián lìshǐ le.",
+        "en": "Bu bina yüz yıllık bir tarihe sahip."
+      },
+      {
+        "zh": "他们打算出租这套房屋。",
+        "pinyin": "Tāmen dǎsuàn chūzū zhè tào fángwū.",
+        "en": "Bu evi kiraya vermeyi planlıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w3220",
+    "hanzi": "反射",
+    "pinyin": "fǎnshè",
+    "meaning": "yansıtmak, refleks",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "光线反射到墙上。",
+        "pinyin": "Guāngxiàn fǎnshè dào qiáng shàng.",
+        "en": "Işık duvara yansıyor."
+      },
+      {
+        "zh": "膝跳反射是一种本能反应。",
+        "pinyin": "Xītiào fǎnshè shì yì zhǒng běnnéng fǎnyìng.",
+        "en": "Diz refleksi bir tür içgüdüsel tepkidir."
+      }
+    ]
+  },
+  {
+    "id": "w3221",
+    "hanzi": "泛滥",
+    "pinyin": "fànlàn",
+    "meaning": "taşmak, kontrolsüz yayılmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "河水泛滥淹没了农田。",
+        "pinyin": "Héshuǐ fànlàn yānmò le nóngtián.",
+        "en": "Nehir taşarak tarım arazilerini sular altında bıraktı."
+      },
+      {
+        "zh": "虚假信息在网上泛滥。",
+        "pinyin": "Xūjiǎ xìnxī zài wǎngshàng fànlàn.",
+        "en": "Yanlış bilgiler internette kontrolsüzce yayılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3222",
+    "hanzi": "范畴",
+    "pinyin": "fànchóu",
+    "meaning": "alan, kategori",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个问题属于哲学的范畴。",
+        "pinyin": "Zhège wèntí shǔyú zhéxué de fànchóu.",
+        "en": "Bu konu felsefe alanına aittir."
+      },
+      {
+        "zh": "环保属于社会责任的范畴。",
+        "pinyin": "Huánbǎo shǔyú shèhuì zérèn de fànchóu.",
+        "en": "Çevre koruma toplumsal sorumluluk kategorisine girer."
+      }
+    ]
+  },
+  {
+    "id": "w3223",
+    "hanzi": "贩卖",
+    "pinyin": "fànmài",
+    "meaning": "alıp satmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "他因贩卖假货被拘留。",
+        "pinyin": "Tā yīn fànmài jiǎhuò bèi jūliú.",
+        "en": "Sahte ürün sattığı için gözaltına alındı."
+      },
+      {
+        "zh": "非法贩卖野生动物是犯罪行为。",
+        "pinyin": "Fēifǎ fànmài yěshēng dòngwù shì fànzuì xíngwéi.",
+        "en": "Yaban hayvanlarını yasa dışı satmak suçtur."
+      }
+    ]
+  },
+  {
+    "id": "w3224",
+    "hanzi": "方针",
+    "pinyin": "fāngzhēn",
+    "meaning": "yol, prensip, politika",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "公司确定了未来的发展方针。",
+        "pinyin": "Gōngsī quèdìng le wèilái de fāzhǎn fāngzhēn.",
+        "en": "Şirket geleceğe yönelik gelişim politikasını belirledi."
+      },
+      {
+        "zh": "教育方针应该以学生为中心。",
+        "pinyin": "Jiàoyù fāngzhēn yīnggāi yǐ xuésheng wéi zhōngxīn.",
+        "en": "Eğitim politikası öğrenci merkezli olmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w3225",
+    "hanzi": "防备",
+    "pinyin": "fángbèi",
+    "meaning": "önlem almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们要防备可能发生的风险。",
+        "pinyin": "Wǒmen yào fángbèi kěnéng fāshēng de fēngxiǎn.",
+        "en": "Olası risklere karşı önlem almalıyız."
+      },
+      {
+        "zh": "他早有防备，没有被骗。",
+        "pinyin": "Tā zǎo yǒu fángbèi, méiyǒu bèi piàn.",
+        "en": "Önceden tedbirli olduğu için dolandırılmadı."
+      }
+    ]
   }
 ]

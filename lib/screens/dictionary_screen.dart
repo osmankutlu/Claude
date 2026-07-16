@@ -26,14 +26,14 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Çince-İngilizce Sözlük')),
+      appBar: AppBar(title: const Text('Çince-Türkçe Sözlük')),
       body: Column(
         children: [
           Padding(
             padding: const EdgeInsets.fromLTRB(16, 12, 16, 4),
             child: TextField(
               decoration: InputDecoration(
-                hintText: 'Kelime ara (hanzi, pinyin veya İngilizce)',
+                hintText: 'Kelime ara (hanzi, pinyin veya Türkçe)',
                 prefixIcon: const Icon(Icons.search),
                 border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
               ),

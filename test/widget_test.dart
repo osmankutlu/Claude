@@ -12,7 +12,7 @@ void main() {
       await tester.pump(const Duration(milliseconds: 100));
     }
 
-    expect(find.text('Çince-İngilizce Sözlük'), findsOneWidget);
+    expect(find.text('Çince-Türkçe Sözlük'), findsOneWidget);
     expect(find.byIcon(Icons.menu_book), findsOneWidget);
     expect(find.byIcon(Icons.style), findsOneWidget);
     expect(find.byIcon(Icons.school), findsOneWidget);

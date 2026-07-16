@@ -1,6 +1,6 @@
-# Çince-İngilizce Sözlük (zh_en_dict)
+# Çince-Türkçe Sözlük (zh_en_dict)
 
-Android için Çince-İngilizce sözlük, flashcard ile çalışma modu ve gramer
+Android için Çince-Türkçe sözlük, flashcard ile çalışma modu ve gramer
 konuları içeren bir Flutter uygulaması. Aynı kod tabanı hem Android'e hem de
 tarayıcıya (web) derlenebiliyor; bu sayede geliştirme sırasında PC'de
 tarayıcıda görsel olarak test edebilirsin.

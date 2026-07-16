@@ -57,7 +57,7 @@ jobs:
           tag_name: apk-build-${{ github.run_number }}
           name: "APK derlemesi #${{ github.run_number }}"
           body: |
-            Çince-İngilizce Sözlük uygulamasının Android APK'sı.
+            Çince-Türkçe Sözlük uygulamasının Android APK'sı.
             Telefonunuza indirip kurabilirsiniz (bilinmeyen kaynaklara izin vermeniz gerekebilir).
             İmzalama: debug anahtarı ile (yan yükleme/deneme için).
           files: dist/zh-en-dict-${{ github.run_number }}.apk

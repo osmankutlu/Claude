@@ -129064,5 +129064,794 @@
         "en": "Anne derin uykudaki çocuğu yavaşça uyandırdı."
       }
     ]
+  },
+  {
+    "id": "w3766",
+    "hanzi": "幻觉",
+    "pinyin": "huànjué",
+    "meaning": "halüsinasyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因为发烧产生了幻觉。",
+        "pinyin": "Tā yīnwèi fāshāo chǎnshēngle huànjué.",
+        "en": "Ateşten dolayı halüsinasyon gördü."
+      },
+      {
+        "zh": "长期缺觉会导致幻觉。",
+        "pinyin": "Chángqī quē jiào huì dǎozhì huànjué.",
+        "en": "Uzun süreli uykusuzluk halüsinasyona yol açabilir."
+      },
+      {
+        "zh": "病人描述了他看到的幻觉。",
+        "pinyin": "Bìngrén miáoshùle tā kàndào de huànjué.",
+        "en": "Hasta gördüğü halüsinasyonu anlattı."
+      },
+      {
+        "zh": "这种药物可能引起幻觉。",
+        "pinyin": "Zhè zhǒng yàowù kěnéng yǐnqǐ huànjué.",
+        "en": "Bu ilaç halüsinasyona neden olabilir."
+      },
+      {
+        "zh": "她怀疑自己出现了幻觉。",
+        "pinyin": "Tā huáiyí zìjǐ chūxiànle huànjué.",
+        "en": "Kendisinin halüsinasyon gördüğünden şüphelendi."
+      }
+    ]
+  },
+  {
+    "id": "w3767",
+    "hanzi": "幻灯",
+    "pinyin": "huàndēng",
+    "meaning": "slayt, projeksiyon",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "老师用幻灯给我们讲课。",
+        "pinyin": "Lǎoshī yòng huàndēng gěi wǒmen jiǎngkè.",
+        "en": "Öğretmen bize slayt ile ders anlattı."
+      },
+      {
+        "zh": "幻灯机坏了，没法放映。",
+        "pinyin": "Huàndēngjī huài le, méifǎ fàngyìng.",
+        "en": "Projeksiyon makinesi bozuldu, gösterim yapılamıyor."
+      },
+      {
+        "zh": "他准备了一份幻灯演示文稿。",
+        "pinyin": "Tā zhǔnbèile yí fèn huàndēng yǎnshì wéngǎo.",
+        "en": "Bir slayt sunumu hazırladı."
+      },
+      {
+        "zh": "会议室里播放着幻灯片。",
+        "pinyin": "Huìyìshì lǐ bòfàngzhe huàndēngpiàn.",
+        "en": "Toplantı salonunda slaytlar gösteriliyor."
+      },
+      {
+        "zh": "这个幻灯展示了公司的历史。",
+        "pinyin": "Zhège huàndēng zhǎnshìle gōngsī de lìshǐ.",
+        "en": "Bu slayt gösterisi şirketin tarihini anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w3768",
+    "hanzi": "慌",
+    "pinyin": "huāng",
+    "meaning": "telaşlı, korkmuş",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "听到这个消息，他心里很慌。",
+        "pinyin": "Tīngdào zhège xiāoxi, tā xīnlǐ hěn huāng.",
+        "en": "Bu haberi duyunca çok telaşlandı."
+      },
+      {
+        "zh": "别慌，慢慢来。",
+        "pinyin": "Bié huāng, mànmàn lái.",
+        "en": "Telaşlanma, yavaş yavaş yap."
+      },
+      {
+        "zh": "他一慌就说不出话来了。",
+        "pinyin": "Tā yì huāng jiù shuōbuchū huà lái le.",
+        "en": "Telaşlanınca konuşamaz oldu."
+      },
+      {
+        "zh": "面对突发情况，他有点慌。",
+        "pinyin": "Miànduì tūfā qíngkuàng, tā yǒudiǎn huāng.",
+        "en": "Ani durum karşısında biraz telaşlandı."
+      },
+      {
+        "zh": "她心慌意乱，不知道怎么办。",
+        "pinyin": "Tā xīnhuāng-yìluàn, bù zhīdào zěnme bàn.",
+        "en": "Telaş içinde ne yapacağını bilemedi."
+      }
+    ]
+  },
+  {
+    "id": "w3769",
+    "hanzi": "慌乱",
+    "pinyin": "huāngluàn",
+    "meaning": "telaşlı, panik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "火灾发生时，人群一片慌乱。",
+        "pinyin": "Huǒzāi fāshēng shí, rénqún yí piàn huāngluàn.",
+        "en": "Yangın çıktığında kalabalık büyük bir panik içindeydi."
+      },
+      {
+        "zh": "他慌乱地收拾东西准备离开。",
+        "pinyin": "Tā huāngluàn de shōushi dōngxi zhǔnbèi líkāi.",
+        "en": "Telaşla eşyalarını toplayıp gitmeye hazırlandı."
+      },
+      {
+        "zh": "面对危险，她并没有慌乱。",
+        "pinyin": "Miànduì wēixiǎn, tā bìng méiyǒu huāngluàn.",
+        "en": "Tehlike karşısında hiç paniklemedi."
+      },
+      {
+        "zh": "大家在慌乱中四处逃散。",
+        "pinyin": "Dàjiā zài huāngluàn zhōng sìchù táosàn.",
+        "en": "Herkes panik içinde her yöne kaçıştı."
+      },
+      {
+        "zh": "他慌乱地按响了报警器。",
+        "pinyin": "Tā huāngluàn de ànxiǎngle bàojǐngqì.",
+        "en": "Telaşla alarmı çaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3770",
+    "hanzi": "慌忙",
+    "pinyin": "huāngmáng",
+    "meaning": "aceleyle, telaşla",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他慌忙跑出了教室。",
+        "pinyin": "Tā huāngmáng pǎochūle jiàoshì.",
+        "en": "Aceleyle sınıftan koşarak çıktı."
+      },
+      {
+        "zh": "她慌忙关上了窗户。",
+        "pinyin": "Tā huāngmáng guānshàngle chuānghu.",
+        "en": "Aceleyle pencereyi kapattı."
+      },
+      {
+        "zh": "听到铃声，他慌忙起床。",
+        "pinyin": "Tīngdào língshēng, tā huāngmáng qǐchuáng.",
+        "en": "Zil sesini duyunca aceleyle yataktan kalktı."
+      },
+      {
+        "zh": "他慌忙把文件藏了起来。",
+        "pinyin": "Tā huāngmáng bǎ wénjiàn cángle qǐlai.",
+        "en": "Aceleyle belgeleri sakladı."
+      },
+      {
+        "zh": "她慌忙道歉，希望得到原谅。",
+        "pinyin": "Tā huāngmáng dàoqiàn, xīwàng dédào yuánliàng.",
+        "en": "Aceleyle özür diledi, affedilmeyi umuyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3771",
+    "hanzi": "荒地",
+    "pinyin": "huāngdì",
+    "meaning": "ekilmemiş toprak, boş arazi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "这块荒地已经很多年没有耕种了。",
+        "pinyin": "Zhè kuài huāngdì yǐjīng hěn duō nián méiyǒu gēngzhòng le.",
+        "en": "Bu boş arazi yıllardır ekilmiyor."
+      },
+      {
+        "zh": "他们计划把荒地开垦成农田。",
+        "pinyin": "Tāmen jìhuà bǎ huāngdì kāikěn chéng nóngtián.",
+        "en": "Boş araziyi tarım arazisine dönüştürmeyi planlıyorlar."
+      },
+      {
+        "zh": "村外有一大片荒地。",
+        "pinyin": "Cūn wài yǒu yí dà piàn huāngdì.",
+        "en": "Köyün dışında geniş bir boş arazi var."
+      },
+      {
+        "zh": "政府鼓励农民开发荒地。",
+        "pinyin": "Zhèngfǔ gǔlì nóngmín kāifā huāngdì.",
+        "en": "Hükümet çiftçileri boş arazileri işlemeye teşvik ediyor."
+      },
+      {
+        "zh": "这片荒地长满了野草。",
+        "pinyin": "Zhè piàn huāngdì zhǎngmǎnle yěcǎo.",
+        "en": "Bu boş arazi yabani otlarla kaplandı."
+      }
+    ]
+  },
+  {
+    "id": "w3772",
+    "hanzi": "荒废",
+    "pinyin": "huāngfèi",
+    "meaning": "ihmal etmek, işlek olmaktan çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他因为工作太忙荒废了学习。",
+        "pinyin": "Tā yīnwèi gōngzuò tài máng huāngfèile xuéxí.",
+        "en": "İş yoğunluğu yüzünden çalışmayı ihmal etti."
+      },
+      {
+        "zh": "这块土地已经荒废多年。",
+        "pinyin": "Zhè kuài tǔdì yǐjīng huāngfèi duō nián.",
+        "en": "Bu arazi yıllardır işlenmeden bırakıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3773",
+    "hanzi": "荒凉",
+    "pinyin": "huāngliáng",
+    "meaning": "ıssız, terk edilmiş",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "那个地方非常荒凉。",
+        "pinyin": "Nàge dìfang fēicháng huāngliáng.",
+        "en": "O yer çok ıssız."
+      },
+      {
+        "zh": "沙漠里一片荒凉。",
+        "pinyin": "Shāmò lǐ yí piàn huāngliáng.",
+        "en": "Çölde her yer ıssız."
+      },
+      {
+        "zh": "这座村庄如今显得十分荒凉。",
+        "pinyin": "Zhè zuò cūnzhuāng rújīn xiǎnde shífēn huāngliáng.",
+        "en": "Bu köy şimdi oldukça ıssız görünüyor."
+      },
+      {
+        "zh": "冬天的山区显得格外荒凉。",
+        "pinyin": "Dōngtiān de shānqū xiǎnde géwài huāngliáng.",
+        "en": "Dağlık bölge kışın özellikle ıssız görünüyor."
+      },
+      {
+        "zh": "他们经过一片荒凉的原野。",
+        "pinyin": "Tāmen jīngguò yí piàn huāngliáng de yuányě.",
+        "en": "Issız bir kırdan geçtiler."
+      }
+    ]
+  },
+  {
+    "id": "w3774",
+    "hanzi": "荒谬",
+    "pinyin": "huāngmiù",
+    "meaning": "saçma, akıl almaz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个说法太荒谬了。",
+        "pinyin": "Zhège shuōfǎ tài huāngmiù le.",
+        "en": "Bu iddia çok saçma."
+      },
+      {
+        "zh": "他的想法荒谬得让人难以置信。",
+        "pinyin": "Tā de xiǎngfǎ huāngmiù de ràng rén nányǐ zhìxìn.",
+        "en": "Fikri inanılmayacak kadar saçma."
+      }
+    ]
+  },
+  {
+    "id": "w3775",
+    "hanzi": "荒唐",
+    "pinyin": "huāngtáng",
+    "meaning": "saçma, inanılmaz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个计划太荒唐了。",
+        "pinyin": "Zhège jìhuà tài huāngtáng le.",
+        "en": "Bu plan çok saçma."
+      },
+      {
+        "zh": "他年轻时做过一些荒唐的事。",
+        "pinyin": "Tā niánqīng shí zuòguo yìxiē huāngtáng de shì.",
+        "en": "Gençken bazı saçma şeyler yaptı."
+      },
+      {
+        "zh": "这种说法真是荒唐。",
+        "pinyin": "Zhè zhǒng shuōfǎ zhēnshi huāngtáng.",
+        "en": "Bu tür bir iddia gerçekten saçma."
+      },
+      {
+        "zh": "他的行为荒唐可笑。",
+        "pinyin": "Tā de xíngwéi huāngtáng kěxiào.",
+        "en": "Davranışı saçma ve gülünç."
+      },
+      {
+        "zh": "别再做那些荒唐的事了。",
+        "pinyin": "Bié zài zuò nàxiē huāngtáng de shì le.",
+        "en": "Artık o saçma şeyleri yapma."
+      }
+    ]
+  },
+  {
+    "id": "w3776",
+    "hanzi": "黄昏",
+    "pinyin": "huánghūn",
+    "meaning": "alacakaranlık, akşam üzeri",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "黄昏时分，天空变得很美。",
+        "pinyin": "Huánghūn shífēn, tiānkōng biàn de hěn měi.",
+        "en": "Alacakaranlıkta gökyüzü çok güzel oluyor."
+      },
+      {
+        "zh": "我们喜欢在黄昏时散步。",
+        "pinyin": "Wǒmen xǐhuan zài huánghūn shí sànbù.",
+        "en": "Alacakaranlıkta yürüyüş yapmayı severiz."
+      },
+      {
+        "zh": "黄昏的阳光很柔和。",
+        "pinyin": "Huánghūn de yángguāng hěn róuhé.",
+        "en": "Alacakaranlığın güneş ışığı çok yumuşak."
+      },
+      {
+        "zh": "他们在黄昏时到达了海边。",
+        "pinyin": "Tāmen zài huánghūn shí dàodále hǎibiān.",
+        "en": "Alacakaranlıkta sahile vardılar."
+      },
+      {
+        "zh": "黄昏渐渐降临，天色暗了下来。",
+        "pinyin": "Huánghūn jiànjiàn jiànglín, tiānsè àn le xiàlai.",
+        "en": "Alacakaranlık yavaş yavaş çöktü, hava karardı."
+      }
+    ]
+  },
+  {
+    "id": "w3777",
+    "hanzi": "黄色",
+    "pinyin": "huángsè",
+    "meaning": "sarı renk",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "她穿着一件黄色的裙子。",
+        "pinyin": "Tā chuānzhe yí jiàn huángsè de qúnzi.",
+        "en": "Sarı bir elbise giyiyor."
+      },
+      {
+        "zh": "这朵花是黄色的。",
+        "pinyin": "Zhè duǒ huā shì huángsè de.",
+        "en": "Bu çiçek sarı renkte."
+      },
+      {
+        "zh": "我喜欢黄色的向日葵。",
+        "pinyin": "Wǒ xǐhuan huángsè de xiàngrìkuí.",
+        "en": "Sarı ayçiçeklerini severim."
+      },
+      {
+        "zh": "出租车大多是黄色的。",
+        "pinyin": "Chūzūchē dàduō shì huángsè de.",
+        "en": "Taksiler çoğunlukla sarı renktedir."
+      },
+      {
+        "zh": "秋天树叶变成了黄色。",
+        "pinyin": "Qiūtiān shùyè biànchéngle huángsè.",
+        "en": "Sonbaharda yapraklar sarıya döndü."
+      }
+    ]
+  },
+  {
+    "id": "w3778",
+    "hanzi": "黄豆",
+    "pinyin": "huángdòu",
+    "meaning": "soya fasulyesi",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "黄豆是做豆腐的原料。",
+        "pinyin": "Huángdòu shì zuò dòufu de yuánliào.",
+        "en": "Soya fasulyesi, tofu yapımının ana malzemesidir."
+      },
+      {
+        "zh": "妈妈煮了一锅黄豆。",
+        "pinyin": "Māma zhǔle yì guō huángdòu.",
+        "en": "Annem bir tencere soya fasulyesi pişirdi."
+      },
+      {
+        "zh": "黄豆富含蛋白质。",
+        "pinyin": "Huángdòu fùhán dànbáizhì.",
+        "en": "Soya fasulyesi protein bakımından zengindir."
+      },
+      {
+        "zh": "农民种植了大片黄豆。",
+        "pinyin": "Nóngmín zhòngzhíle dà piàn huángdòu.",
+        "en": "Çiftçiler geniş bir alanda soya fasulyesi yetiştirdi."
+      },
+      {
+        "zh": "黄豆芽是常见的蔬菜。",
+        "pinyin": "Huángdòuyá shì chángjiàn de shūcài.",
+        "en": "Soya fasulyesi filizi yaygın bir sebzedir."
+      }
+    ]
+  },
+  {
+    "id": "w3779",
+    "hanzi": "黄油",
+    "pinyin": "huángyóu",
+    "meaning": "tereyağ",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "面包上涂了一层黄油。",
+        "pinyin": "Miànbāo shàng túle yì céng huángyóu.",
+        "en": "Ekmeğin üzerine bir kat tereyağ sürüldü."
+      },
+      {
+        "zh": "她用黄油煎鸡蛋。",
+        "pinyin": "Tā yòng huángyóu jiān jīdàn.",
+        "en": "Tereyağıyla yumurta kızarttı."
+      },
+      {
+        "zh": "这道菜里加了很多黄油。",
+        "pinyin": "Zhè dào cài lǐ jiāle hěn duō huángyóu.",
+        "en": "Bu yemeğe bolca tereyağ eklendi."
+      },
+      {
+        "zh": "黄油放在冰箱里保存更好。",
+        "pinyin": "Huángyóu fàng zài bīngxiāng lǐ bǎocún gèng hǎo.",
+        "en": "Tereyağını buzdolabında saklamak daha iyidir."
+      },
+      {
+        "zh": "他喜欢在早餐吃涂黄油的吐司。",
+        "pinyin": "Tā xǐhuan zài zǎocān chī tú huángyóu de tǔsī.",
+        "en": "Kahvaltıda tereyağlı tost yemeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w3780",
+    "hanzi": "谎话",
+    "pinyin": "huǎnghuà",
+    "meaning": "yalan",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他从不说谎话。",
+        "pinyin": "Tā cóng bù shuō huǎnghuà.",
+        "en": "O hiç yalan söylemez."
+      },
+      {
+        "zh": "别再编造谎话了。",
+        "pinyin": "Bié zài biānzào huǎnghuà le.",
+        "en": "Artık yalan uydurma."
+      },
+      {
+        "zh": "她一眼就看穿了他的谎话。",
+        "pinyin": "Tā yì yǎn jiù kànchuānle tā de huǎnghuà.",
+        "en": "Bir bakışta yalanını fark etti."
+      },
+      {
+        "zh": "说谎话是不对的行为。",
+        "pinyin": "Shuō huǎnghuà shì bú duì de xíngwéi.",
+        "en": "Yalan söylemek yanlış bir davranıştır."
+      },
+      {
+        "zh": "他因为一句谎话失去了朋友的信任。",
+        "pinyin": "Tā yīnwèi yí jù huǎnghuà shīqùle péngyou de xìnrèn.",
+        "en": "Söylediği bir yalan yüzünden arkadaşının güvenini kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w3781",
+    "hanzi": "谎言",
+    "pinyin": "huǎngyán",
+    "meaning": "yalan söz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他编织了一个谎言。",
+        "pinyin": "Tā biānzhīle yí ge huǎngyán.",
+        "en": "Bir yalan uydurdu."
+      },
+      {
+        "zh": "谎言总有一天会被揭穿。",
+        "pinyin": "Huǎngyán zǒng yǒu yìtiān huì bèi jiēchuān.",
+        "en": "Yalan bir gün mutlaka açığa çıkar."
+      },
+      {
+        "zh": "她相信了他的谎言。",
+        "pinyin": "Tā xiāngxìnle tā de huǎngyán.",
+        "en": "Onun yalanına inandı."
+      },
+      {
+        "zh": "这个谎言让所有人都很失望。",
+        "pinyin": "Zhège huǎngyán ràng suǒyǒu rén dōu hěn shīwàng.",
+        "en": "Bu yalan herkesi hayal kırıklığına uğrattı."
+      },
+      {
+        "zh": "他用谎言掩盖了真相。",
+        "pinyin": "Tā yòng huǎngyán yǎngàile zhēnxiàng.",
+        "en": "Gerçeği yalanlarla örttü."
+      }
+    ]
+  },
+  {
+    "id": "w3782",
+    "hanzi": "恍惚",
+    "pinyin": "huǎnghū",
+    "meaning": "dalgın, sersem, kendinden geçmiş",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她精神恍惚，好像在想什么心事。",
+        "pinyin": "Tā jīngshén huǎnghū, hǎoxiàng zài xiǎng shénme xīnshì.",
+        "en": "Dalgın görünüyordu, sanki bir şeyi düşünüyordu."
+      },
+      {
+        "zh": "生病之后，他常常感到精神恍惚。",
+        "pinyin": "Shēngbìng zhīhòu, tā chángcháng gǎndào jīngshén huǎnghū.",
+        "en": "Hastalandıktan sonra sık sık dalgın hissediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3783",
+    "hanzi": "灰色",
+    "pinyin": "huīsè",
+    "meaning": "gri; karamsar",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他穿着一件灰色的外套。",
+        "pinyin": "Tā chuānzhe yí jiàn huīsè de wàitào.",
+        "en": "Gri bir ceket giyiyor."
+      },
+      {
+        "zh": "天空变成了灰色。",
+        "pinyin": "Tiānkōng biànchéngle huīsè.",
+        "en": "Gökyüzü griye döndü."
+      },
+      {
+        "zh": "这堵墙是灰色的。",
+        "pinyin": "Zhè dǔ qiáng shì huīsè de.",
+        "en": "Bu duvar gri renkte."
+      },
+      {
+        "zh": "他对未来抱有灰色的看法。",
+        "pinyin": "Tā duì wèilái bàoyǒu huīsè de kànfǎ.",
+        "en": "Geleceğe karşı karamsar bir bakış açısına sahip."
+      },
+      {
+        "zh": "她买了一辆灰色的汽车。",
+        "pinyin": "Tā mǎile yí liàng huīsè de qìchē.",
+        "en": "Gri renkli bir araba satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w3784",
+    "hanzi": "灰烬",
+    "pinyin": "huījìn",
+    "meaning": "kül",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "大火过后，只剩下一片灰烬。",
+        "pinyin": "Dàhuǒ guòhòu, zhǐ shèngxià yí piàn huījìn.",
+        "en": "Büyük yangından sonra sadece bir kül yığını kaldı."
+      },
+      {
+        "zh": "房子被烧成了灰烬。",
+        "pinyin": "Fángzi bèi shāochéngle huījìn.",
+        "en": "Ev yanarak küle döndü."
+      }
+    ]
+  },
+  {
+    "id": "w3785",
+    "hanzi": "挥动",
+    "pinyin": "huīdòng",
+    "meaning": "sallamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他挥动着手臂打招呼。",
+        "pinyin": "Tā huīdòngzhe shǒubì dǎ zhāohu.",
+        "en": "Kolunu sallayarak selam verdi."
+      },
+      {
+        "zh": "士兵挥动着旗帜。",
+        "pinyin": "Shìbīng huīdòngzhe qízhì.",
+        "en": "Asker bayrağı sallıyordu."
+      },
+      {
+        "zh": "她挥动着扇子扇风。",
+        "pinyin": "Tā huīdòngzhe shànzi shànfēng.",
+        "en": "Yelpazesini sallayarak kendini serinletiyordu."
+      },
+      {
+        "zh": "他挥动球拍打出了一记好球。",
+        "pinyin": "Tā huīdòng qiúpāi dǎchūle yí jì hǎo qiú.",
+        "en": "Raketini sallayarak iyi bir vuruş yaptı."
+      },
+      {
+        "zh": "孩子们挥动着小手告别。",
+        "pinyin": "Háizimen huīdòngzhe xiǎoshǒu gàobié.",
+        "en": "Çocuklar küçük ellerini sallayarak vedalaştı."
+      }
+    ]
+  },
+  {
+    "id": "w3786",
+    "hanzi": "挥发",
+    "pinyin": "huīfā",
+    "meaning": "buharlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "酒精很容易挥发。",
+        "pinyin": "Jiǔjīng hěn róngyì huīfā.",
+        "en": "Alkol çok kolay buharlaşır."
+      },
+      {
+        "zh": "汽油挥发后会产生刺激性气味。",
+        "pinyin": "Qìyóu huīfā hòu huì chǎnshēng cìjīxìng qìwèi.",
+        "en": "Benzin buharlaştığında keskin bir koku ortaya çıkar."
+      },
+      {
+        "zh": "水分在阳光下迅速挥发。",
+        "pinyin": "Shuǐfèn zài yángguāng xià xùnsù huīfā.",
+        "en": "Nem güneş altında hızla buharlaşır."
+      },
+      {
+        "zh": "这种化学品挥发速度很快。",
+        "pinyin": "Zhè zhǒng huàxuépǐn huīfā sùdù hěn kuài.",
+        "en": "Bu kimyasal madde çok hızlı buharlaşır."
+      },
+      {
+        "zh": "打开瓶盖后香水会逐渐挥发。",
+        "pinyin": "Dǎkāi pínggài hòu xiāngshuǐ huì zhújiàn huīfā.",
+        "en": "Şişenin kapağı açıldıktan sonra parfüm yavaş yavaş buharlaşır."
+      }
+    ]
+  },
+  {
+    "id": "w3787",
+    "hanzi": "挥霍",
+    "pinyin": "huīhuò",
+    "meaning": "savurmak, saçıp savurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他把父母的钱都挥霍光了。",
+        "pinyin": "Tā bǎ fùmǔ de qián dōu huīhuò guāng le.",
+        "en": "Ailesinin parasının hepsini saçıp savurdu."
+      },
+      {
+        "zh": "年轻时不要挥霍时间和金钱。",
+        "pinyin": "Niánqīng shí bú yào huīhuò shíjiān hé jīnqián.",
+        "en": "Gençken zamanı ve parayı savurmamak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3788",
+    "hanzi": "挥手",
+    "pinyin": "huīshǒu",
+    "meaning": "el sallamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他向我们挥手告别。",
+        "pinyin": "Tā xiàng wǒmen huīshǒu gàobié.",
+        "en": "Bize el sallayarak vedalaştı."
+      },
+      {
+        "zh": "她在窗边挥手示意。",
+        "pinyin": "Tā zài chuāng biān huīshǒu shìyì.",
+        "en": "Pencerede el sallayarak işaret verdi."
+      },
+      {
+        "zh": "大家都在向火车挥手。",
+        "pinyin": "Dàjiā dōu zài xiàng huǒchē huīshǒu.",
+        "en": "Herkes trene el sallıyordu."
+      },
+      {
+        "zh": "他远远地向朋友挥手。",
+        "pinyin": "Tā yuǎnyuǎn de xiàng péngyou huīshǒu.",
+        "en": "Uzaktan arkadaşına el salladı."
+      },
+      {
+        "zh": "孩子们挥手欢迎客人。",
+        "pinyin": "Háizimen huīshǒu huānyíng kèrén.",
+        "en": "Çocuklar el sallayarak misafirleri karşıladı."
+      }
+    ]
+  },
+  {
+    "id": "w3789",
+    "hanzi": "辉煌",
+    "pinyin": "huīhuáng",
+    "meaning": "muhteşem, ışıl ışıl, görkemli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这座宫殿非常辉煌。",
+        "pinyin": "Zhè zuò gōngdiàn fēicháng huīhuáng.",
+        "en": "Bu saray çok görkemli."
+      },
+      {
+        "zh": "他取得了辉煌的成就。",
+        "pinyin": "Tā qǔdéle huīhuáng de chéngjiù.",
+        "en": "Muhteşem başarılar elde etti."
+      },
+      {
+        "zh": "夜晚的城市灯火辉煌。",
+        "pinyin": "Yèwǎn de chéngshì dēnghuǒ huīhuáng.",
+        "en": "Gece şehrin ışıkları pırıl pırıl parlıyordu."
+      },
+      {
+        "zh": "这段历史十分辉煌。",
+        "pinyin": "Zhè duàn lìshǐ shífēn huīhuáng.",
+        "en": "Bu tarih dönemi son derece görkemli."
+      },
+      {
+        "zh": "球队度过了辉煌的一个赛季。",
+        "pinyin": "Qiúduì dùguòle huīhuáng de yí ge sàijì.",
+        "en": "Takım muhteşem bir sezon geçirdi."
+      }
+    ]
   }
 ]

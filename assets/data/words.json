@@ -100468,5 +100468,506 @@
         "en": "Kapıda tereddütle durup ilerlemiyordu."
       }
     ]
+  },
+  {
+    "id": "w2853",
+    "hanzi": "出汗",
+    "pinyin": "chūhàn",
+    "meaning": "terlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "运动后他出了很多汗。",
+        "pinyin": "Yùndòng hòu tā chū le hěn duō hàn.",
+        "en": "Egzersizden sonra çok terledi."
+      },
+      {
+        "zh": "天气太热，我一直在出汗。",
+        "pinyin": "Tiānqì tài rè, wǒ yìzhí zài chūhàn.",
+        "en": "Hava çok sıcak, sürekli terliyorum."
+      },
+      {
+        "zh": "她紧张得手心出汗。",
+        "pinyin": "Tā jǐnzhāng de shǒuxīn chūhàn.",
+        "en": "Gerginlikten avuçları terledi."
+      },
+      {
+        "zh": "运动能促进出汗，排出毒素。",
+        "pinyin": "Yùndòng néng cùjìn chūhàn, páichū dúsù.",
+        "en": "Egzersiz terlemeyi teşvik eder ve toksinleri atar."
+      },
+      {
+        "zh": "他发烧后开始出汗。",
+        "pinyin": "Tā fāshāo hòu kāishǐ chūhàn.",
+        "en": "Ateşlendikten sonra terlemeye başladı."
+      }
+    ]
+  },
+  {
+    "id": "w2854",
+    "hanzi": "出名",
+    "pinyin": "chūmíng",
+    "meaning": "ünlü olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "她因为这首歌出名了。",
+        "pinyin": "Tā yīnwèi zhè shǒu gē chūmíng le.",
+        "en": "Bu şarkı sayesinde ünlü oldu."
+      },
+      {
+        "zh": "这家餐厅以美味的菜出名。",
+        "pinyin": "Zhè jiā cāntīng yǐ měiwèi de cài chūmíng.",
+        "en": "Bu restoran lezzetli yemekleriyle ünlü."
+      },
+      {
+        "zh": "他很小就出名了。",
+        "pinyin": "Tā hěn xiǎo jiù chūmíng le.",
+        "en": "Çok küçük yaşta ünlü oldu."
+      },
+      {
+        "zh": "这个地方以美丽的风景出名。",
+        "pinyin": "Zhège dìfang yǐ měilì de fēngjǐng chūmíng.",
+        "en": "Bu yer güzel manzarasıyla ünlü."
+      },
+      {
+        "zh": "她希望自己有一天能出名。",
+        "pinyin": "Tā xīwàng zìjǐ yǒu yìtiān néng chūmíng.",
+        "en": "Bir gün ünlü olmayı umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w2855",
+    "hanzi": "出于",
+    "pinyin": "chūyú",
+    "meaning": "-den kaynaklanmak, -den ötürü",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他这样做出于好意。",
+        "pinyin": "Tā zhèyàng zuò chūyú hǎoyì.",
+        "en": "Bunu iyi niyetinden dolayı yaptı."
+      },
+      {
+        "zh": "出于安全考虑，我们取消了这次活动。",
+        "pinyin": "Chūyú ānquán kǎolǜ, wǒmen qǔxiāo le zhè cì huódòng.",
+        "en": "Güvenlik nedeniyle bu etkinliği iptal ettik."
+      },
+      {
+        "zh": "她出于好奇问了很多问题。",
+        "pinyin": "Tā chūyú hàoqí wèn le hěn duō wèntí.",
+        "en": "Merakından dolayı birçok soru sordu."
+      },
+      {
+        "zh": "出于礼貌，他没有直接拒绝。",
+        "pinyin": "Chūyú lǐmào, tā méiyǒu zhíjiē jùjué.",
+        "en": "Nezaketen doğrudan reddetmedi."
+      },
+      {
+        "zh": "出于对家人的爱，他放弃了这个机会。",
+        "pinyin": "Chūyú duì jiārén de ài, tā fàngqì le zhège jīhuì.",
+        "en": "Ailesine olan sevgisinden dolayı bu fırsatı bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w2856",
+    "hanzi": "出院",
+    "pinyin": "chūyuàn",
+    "meaning": "hastaneden taburcu olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他今天出院了。",
+        "pinyin": "Tā jīntiān chūyuàn le.",
+        "en": "Bugün hastaneden taburcu oldu."
+      },
+      {
+        "zh": "医生说她下周可以出院。",
+        "pinyin": "Yīshēng shuō tā xià zhōu kěyǐ chūyuàn.",
+        "en": "Doktor önümüzdeki hafta taburcu olabileceğini söyledi."
+      },
+      {
+        "zh": "出院后她需要在家继续休养。",
+        "pinyin": "Chūyuàn hòu tā xūyào zài jiā jìxù xiūyǎng.",
+        "en": "Taburcu olduktan sonra evde dinlenmeye devam etmesi gerekiyor."
+      },
+      {
+        "zh": "他恢复得很好，很快就能出院了。",
+        "pinyin": "Tā huīfù de hěn hǎo, hěn kuài jiù néng chūyuàn le.",
+        "en": "Çok iyi iyileşiyor, yakında taburcu olabilecek."
+      },
+      {
+        "zh": "家人来接他出院了。",
+        "pinyin": "Jiārén lái jiē tā chūyuàn le.",
+        "en": "Ailesi onu taburcu olmak için almaya geldi."
+      }
+    ]
+  },
+  {
+    "id": "w2857",
+    "hanzi": "出租",
+    "pinyin": "chūzū",
+    "meaning": "kiraya vermek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他把房子出租给了一个学生。",
+        "pinyin": "Tā bǎ fángzi chūzū gěi le yí ge xuésheng.",
+        "en": "Evi bir öğrenciye kiraya verdi."
+      },
+      {
+        "zh": "这套公寓正在出租。",
+        "pinyin": "Zhè tào gōngyù zhèngzài chūzū.",
+        "en": "Bu daire kiralanmaya hazır."
+      },
+      {
+        "zh": "他们出租了一辆车去旅行。",
+        "pinyin": "Tāmen chūzū le yí liàng chē qù lǚxíng.",
+        "en": "Seyahat için bir araba kiraladılar."
+      },
+      {
+        "zh": "这家商店出租各种婚纱。",
+        "pinyin": "Zhè jiā shāngdiàn chūzū gèzhǒng hūnshā.",
+        "en": "Bu dükkan çeşitli gelinlik kiralıyor."
+      },
+      {
+        "zh": "她想把多余的房间出租出去。",
+        "pinyin": "Tā xiǎng bǎ duōyú de fángjiān chūzū chūqù.",
+        "en": "Fazladan olan odayı kiraya vermek istiyor."
+      }
+    ]
+  },
+  {
+    "id": "w2858",
+    "hanzi": "初步",
+    "pinyin": "chūbù",
+    "meaning": "ilk, başlangıç",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们已经达成了初步共识。",
+        "pinyin": "Wǒmen yǐjīng dáchéng le chūbù gòngshí.",
+        "en": "Zaten ilk ortak görüşe vardık."
+      },
+      {
+        "zh": "这只是一个初步的计划。",
+        "pinyin": "Zhè zhǐshì yí ge chūbù de jìhuà.",
+        "en": "Bu sadece ilk aşamadaki bir plan."
+      },
+      {
+        "zh": "医生做了初步诊断。",
+        "pinyin": "Yīshēng zuò le chūbù zhěnduàn.",
+        "en": "Doktor ilk teşhisi koydu."
+      },
+      {
+        "zh": "我们对这个问题有了初步的了解。",
+        "pinyin": "Wǒmen duì zhège wèntí yǒu le chūbù de liǎojiě.",
+        "en": "Bu konu hakkında ilk anlayışımız oluştu."
+      },
+      {
+        "zh": "这项工作还处于初步阶段。",
+        "pinyin": "Zhè xiàng gōngzuò hái chǔyú chūbù jiēduàn.",
+        "en": "Bu iş hâlâ başlangıç aşamasında."
+      }
+    ]
+  },
+  {
+    "id": "w2859",
+    "hanzi": "初次",
+    "pinyin": "chūcì",
+    "meaning": "ilk kez",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这是我们初次见面。",
+        "pinyin": "Zhè shì wǒmen chūcì jiànmiàn.",
+        "en": "Bu ilk kez tanışmamız."
+      },
+      {
+        "zh": "初次来到这个城市，他感到很新奇。",
+        "pinyin": "Chūcì láidào zhège chéngshì, tā gǎndào hěn xīnqí.",
+        "en": "Bu şehre ilk kez gelince kendini çok merak içinde hissetti."
+      },
+      {
+        "zh": "初次约会她有点紧张。",
+        "pinyin": "Chūcì yuēhuì tā yǒudiǎn jǐnzhāng.",
+        "en": "İlk buluşmasında biraz gergindi."
+      },
+      {
+        "zh": "初次尝试，效果还不错。",
+        "pinyin": "Chūcì chángshì, xiàoguǒ hái búcuò.",
+        "en": "İlk denemede sonuç oldukça iyiydi."
+      },
+      {
+        "zh": "初次见面，请多关照。",
+        "pinyin": "Chūcì jiànmiàn, qǐng duō guānzhào.",
+        "en": "İlk tanışmamız, lütfen bana iyi davranın."
+      }
+    ]
+  },
+  {
+    "id": "w2860",
+    "hanzi": "厨师",
+    "pinyin": "chúshī",
+    "meaning": "aşçı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是一位有名的厨师。",
+        "pinyin": "Tā shì yí wèi yǒumíng de chúshī.",
+        "en": "O tanınmış bir aşçı."
+      },
+      {
+        "zh": "这家餐厅的厨师做的菜很好吃。",
+        "pinyin": "Zhè jiā cāntīng de chúshī zuò de cài hěn hǎochī.",
+        "en": "Bu restoranın aşçısının yaptığı yemekler çok lezzetli."
+      },
+      {
+        "zh": "她的梦想是成为一名厨师。",
+        "pinyin": "Tā de mèngxiǎng shì chéngwéi yì míng chúshī.",
+        "en": "Hayali bir aşçı olmak."
+      },
+      {
+        "zh": "厨师正在准备今天的菜单。",
+        "pinyin": "Chúshī zhèngzài zhǔnbèi jīntiān de càidān.",
+        "en": "Aşçı bugünün menüsünü hazırlıyor."
+      },
+      {
+        "zh": "这位厨师擅长做中国菜。",
+        "pinyin": "Zhè wèi chúshī shàncháng zuò Zhōngguó cài.",
+        "en": "Bu aşçı Çin yemekleri yapmakta usta."
+      }
+    ]
+  },
+  {
+    "id": "w2861",
+    "hanzi": "储存",
+    "pinyin": "chǔcún",
+    "meaning": "depolamak, saklamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "请把食物储存在冰箱里。",
+        "pinyin": "Qǐng bǎ shíwù chǔcún zài bīngxiāng lǐ.",
+        "en": "Lütfen yiyecekleri buzdolabında saklayın."
+      },
+      {
+        "zh": "这些文件被储存在电脑里。",
+        "pinyin": "Zhèxiē wénjiàn bèi chǔcún zài diànnǎo lǐ.",
+        "en": "Bu belgeler bilgisayarda saklanıyor."
+      },
+      {
+        "zh": "我们需要储存足够的水和食物。",
+        "pinyin": "Wǒmen xūyào chǔcún zúgòu de shuǐ hé shíwù.",
+        "en": "Yeterli su ve yiyecek depolamamız gerekiyor."
+      },
+      {
+        "zh": "数据被安全地储存在云端。",
+        "pinyin": "Shùjù bèi ānquán de chǔcún zài yúnduān.",
+        "en": "Veriler bulutta güvenli bir şekilde saklanıyor."
+      },
+      {
+        "zh": "谷物储存在仓库里。",
+        "pinyin": "Gǔwù chǔcún zài cāngkù lǐ.",
+        "en": "Tahıllar depoda saklanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2862",
+    "hanzi": "储蓄",
+    "pinyin": "chǔxù",
+    "meaning": "biriktirmek; tasarruf",
+    "partOfSpeech": "fiil/isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他每个月都储蓄一部分工资。",
+        "pinyin": "Tā měi ge yuè dōu chǔxù yíbùfen gōngzī.",
+        "en": "Her ay maaşının bir kısmını biriktiriyor."
+      },
+      {
+        "zh": "她有一笔可观的储蓄。",
+        "pinyin": "Tā yǒu yì bǐ kěguān de chǔxù.",
+        "en": "Kayda değer bir tasarrufu var."
+      },
+      {
+        "zh": "我们应该养成储蓄的习惯。",
+        "pinyin": "Wǒmen yīnggāi yǎngchéng chǔxù de xíguàn.",
+        "en": "Tasarruf alışkanlığı edinmeliyiz."
+      },
+      {
+        "zh": "他把储蓄都存进了银行。",
+        "pinyin": "Tā bǎ chǔxù dōu cún jìn le yínháng.",
+        "en": "Tüm birikimini bankaya yatırdı."
+      },
+      {
+        "zh": "她开始为退休储蓄。",
+        "pinyin": "Tā kāishǐ wèi tuìxiū chǔxù.",
+        "en": "Emeklilik için birikim yapmaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w2863",
+    "hanzi": "处于",
+    "pinyin": "chǔyú",
+    "meaning": "belirli bir durumda olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "公司目前处于困难时期。",
+        "pinyin": "Gōngsī mùqián chǔyú kùnnan shíqī.",
+        "en": "Şirket şu anda zor bir dönemde."
+      },
+      {
+        "zh": "这个国家处于战争状态。",
+        "pinyin": "Zhège guójiā chǔyú zhànzhēng zhuàngtài.",
+        "en": "Bu ülke savaş halinde."
+      },
+      {
+        "zh": "他现在处于危险之中。",
+        "pinyin": "Tā xiànzài chǔyú wēixiǎn zhī zhōng.",
+        "en": "Şu anda tehlike içinde."
+      },
+      {
+        "zh": "这个地区处于地震带。",
+        "pinyin": "Zhège dìqū chǔyú dìzhèndài.",
+        "en": "Bu bölge deprem kuşağında bulunuyor."
+      },
+      {
+        "zh": "谈判目前处于僵局。",
+        "pinyin": "Tánpàn mùqián chǔyú jiāngjú.",
+        "en": "Müzakereler şu anda çıkmazda."
+      }
+    ]
+  },
+  {
+    "id": "w2864",
+    "hanzi": "处方",
+    "pinyin": "chǔfāng",
+    "meaning": "reçete",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他开了处方。",
+        "pinyin": "Yīshēng gěi tā kāi le chǔfāng.",
+        "en": "Doktor ona reçete yazdı."
+      },
+      {
+        "zh": "这种药需要凭处方购买。",
+        "pinyin": "Zhè zhǒng yào xūyào píng chǔfāng gòumǎi.",
+        "en": "Bu ilaç reçeteyle satın alınabilir."
+      }
+    ]
+  },
+  {
+    "id": "w2865",
+    "hanzi": "出路",
+    "pinyin": "chūlù",
+    "meaning": "çıkış yolu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们需要找到一条出路。",
+        "pinyin": "Wǒmen xūyào zhǎodào yì tiáo chūlù.",
+        "en": "Bir çıkış yolu bulmamız gerekiyor."
+      },
+      {
+        "zh": "这个问题目前还没有出路。",
+        "pinyin": "Zhège wèntí mùqián hái méiyǒu chūlù.",
+        "en": "Bu sorunun şu an için bir çıkış yolu yok."
+      }
+    ]
+  },
+  {
+    "id": "w2866",
+    "hanzi": "出众",
+    "pinyin": "chūzhòng",
+    "meaning": "göze çarpan, üstün",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "她的才华出众。",
+        "pinyin": "Tā de cáihuá chūzhòng.",
+        "en": "Yeteneği çok üstün."
+      },
+      {
+        "zh": "他在球场上的表现十分出众。",
+        "pinyin": "Tā zài qiúchǎng shàng de biǎoxiàn shífēn chūzhòng.",
+        "en": "Sahadaki performansı gerçekten göz kamaştırıcı."
+      }
+    ]
+  },
+  {
+    "id": "w2867",
+    "hanzi": "处境",
+    "pinyin": "chǔjìng",
+    "meaning": "durum, hal",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他现在的处境十分艰难。",
+        "pinyin": "Tā xiànzài de chǔjìng shífēn jiānnán.",
+        "en": "Şu anki durumu son derece zor."
+      },
+      {
+        "zh": "我们要理解她的处境。",
+        "pinyin": "Wǒmen yào lǐjiě tā de chǔjìng.",
+        "en": "Onun durumunu anlamalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w2868",
+    "hanzi": "处罚",
+    "pinyin": "chǔfá",
+    "meaning": "cezalandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "违反规定的人将受到处罚。",
+        "pinyin": "Wéifǎn guīdìng de rén jiāng shòudào chǔfá.",
+        "en": "Kurallara uymayanlar cezalandırılacak."
+      },
+      {
+        "zh": "他因为超速被处罚了。",
+        "pinyin": "Tā yīnwèi chāosù bèi chǔfá le.",
+        "en": "Hız sınırını aştığı için cezalandırıldı."
+      }
+    ]
   }
 ]

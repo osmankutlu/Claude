@@ -124279,5 +124279,767 @@
         "en": "Askerler düzenli bir sıra oluşturdu."
       }
     ]
+  },
+  {
+    "id": "w3626",
+    "hanzi": "好多",
+    "pinyin": "hǎoduō",
+    "meaning": "bir sürü, çok fazla",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他有好多朋友。",
+        "pinyin": "Tā yǒu hǎoduō péngyou.",
+        "en": "Onun bir sürü arkadaşı var."
+      },
+      {
+        "zh": "这里有好多书。",
+        "pinyin": "Zhèlǐ yǒu hǎoduō shū.",
+        "en": "Burada bir sürü kitap var."
+      },
+      {
+        "zh": "我等了好多年。",
+        "pinyin": "Wǒ děngle hǎoduō nián.",
+        "en": "Uzun yıllar bekledim."
+      },
+      {
+        "zh": "好多人都喜欢这首歌。",
+        "pinyin": "Hǎoduō rén dōu xǐhuan zhè shǒu gē.",
+        "en": "Bir sürü insan bu şarkıyı seviyor."
+      },
+      {
+        "zh": "冰箱里有好多水果。",
+        "pinyin": "Bīngxiāng lǐ yǒu hǎoduō shuǐguǒ.",
+        "en": "Buzdolabında bir sürü meyve var."
+      }
+    ]
+  },
+  {
+    "id": "w3627",
+    "hanzi": "好看",
+    "pinyin": "hǎokàn",
+    "meaning": "güzel, hoş görünen",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这件衣服很好看。",
+        "pinyin": "Zhè jiàn yīfu hěn hǎokàn.",
+        "en": "Bu kıyafet çok güzel."
+      },
+      {
+        "zh": "她长得很好看。",
+        "pinyin": "Tā zhǎng de hěn hǎokàn.",
+        "en": "O çok güzel görünüyor."
+      },
+      {
+        "zh": "这部电影很好看。",
+        "pinyin": "Zhè bù diànyǐng hěn hǎokàn.",
+        "en": "Bu film çok güzel."
+      },
+      {
+        "zh": "花园里的花很好看。",
+        "pinyin": "Huāyuán lǐ de huā hěn hǎokàn.",
+        "en": "Bahçedeki çiçekler çok güzel."
+      },
+      {
+        "zh": "这本书的封面很好看。",
+        "pinyin": "Zhè běn shū de fēngmiàn hěn hǎokàn.",
+        "en": "Bu kitabın kapağı çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w3628",
+    "hanzi": "好听",
+    "pinyin": "hǎotīng",
+    "meaning": "dinlemesi hoş, kulağa hoş gelen",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这首歌很好听。",
+        "pinyin": "Zhè shǒu gē hěn hǎotīng.",
+        "en": "Bu şarkı çok güzel."
+      },
+      {
+        "zh": "她的声音很好听。",
+        "pinyin": "Tā de shēngyīn hěn hǎotīng.",
+        "en": "Onun sesi çok güzel."
+      },
+      {
+        "zh": "这个名字很好听。",
+        "pinyin": "Zhège míngzi hěn hǎotīng.",
+        "en": "Bu isim kulağa çok hoş geliyor."
+      },
+      {
+        "zh": "音乐会上的音乐很好听。",
+        "pinyin": "Yīnyuèhuì shàng de yīnyuè hěn hǎotīng.",
+        "en": "Konserdeki müzik çok güzeldi."
+      },
+      {
+        "zh": "他讲故事讲得很好听。",
+        "pinyin": "Tā jiǎng gùshi jiǎng de hěn hǎotīng.",
+        "en": "O hikayeyi çok güzel anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3629",
+    "hanzi": "好玩儿",
+    "pinyin": "hǎowánr",
+    "meaning": "eğlenceli",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这个游戏很好玩儿。",
+        "pinyin": "Zhège yóuxì hěn hǎowánr.",
+        "en": "Bu oyun çok eğlenceli."
+      },
+      {
+        "zh": "公园里很好玩儿。",
+        "pinyin": "Gōngyuán lǐ hěn hǎowánr.",
+        "en": "Parkta çok eğlenceli."
+      },
+      {
+        "zh": "这次旅行很好玩儿。",
+        "pinyin": "Zhè cì lǚxíng hěn hǎowánr.",
+        "en": "Bu gezi çok eğlenceliydi."
+      },
+      {
+        "zh": "小猫很好玩儿。",
+        "pinyin": "Xiǎomāo hěn hǎowánr.",
+        "en": "Küçük kedi çok eğlenceli."
+      },
+      {
+        "zh": "这个玩具真好玩儿。",
+        "pinyin": "Zhège wánjù zhēn hǎowánr.",
+        "en": "Bu oyuncak gerçekten eğlenceli."
+      }
+    ]
+  },
+  {
+    "id": "w3630",
+    "hanzi": "好笑",
+    "pinyin": "hǎoxiào",
+    "meaning": "gülünç, komik",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这个笑话很好笑。",
+        "pinyin": "Zhège xiàohua hěn hǎoxiào.",
+        "en": "Bu şaka çok komik."
+      },
+      {
+        "zh": "他的样子很好笑。",
+        "pinyin": "Tā de yàngzi hěn hǎoxiào.",
+        "en": "Onun hali çok komikti."
+      },
+      {
+        "zh": "这部喜剧很好笑。",
+        "pinyin": "Zhè bù xǐjù hěn hǎoxiào.",
+        "en": "Bu komedi filmi çok komik."
+      },
+      {
+        "zh": "说真的，这一点也不好笑。",
+        "pinyin": "Shuō zhēn de, zhè yìdiǎn yě bù hǎoxiào.",
+        "en": "Gerçekten, bu hiç komik değil."
+      },
+      {
+        "zh": "大家都觉得这件事很好笑。",
+        "pinyin": "Dàjiā dōu juéde zhè jiàn shì hěn hǎoxiào.",
+        "en": "Herkes bu olayın çok komik olduğunu düşünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w3631",
+    "hanzi": "好心",
+    "pinyin": "hǎoxīn",
+    "meaning": "iyi niyet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是好心帮助我们的。",
+        "pinyin": "Tā shì hǎoxīn bāngzhù wǒmen de.",
+        "en": "O bize iyi niyetle yardım etti."
+      },
+      {
+        "zh": "谢谢你的好心。",
+        "pinyin": "Xièxie nǐ de hǎoxīn.",
+        "en": "İyi niyetin için teşekkür ederim."
+      },
+      {
+        "zh": "她是个好心人。",
+        "pinyin": "Tā shì ge hǎoxīnrén.",
+        "en": "O iyi kalpli bir insan."
+      },
+      {
+        "zh": "好心却办了坏事。",
+        "pinyin": "Hǎoxīn què bànle huàishì.",
+        "en": "İyi niyetle yapıldı ama kötü sonuçlandı."
+      },
+      {
+        "zh": "他好心提醒我小心。",
+        "pinyin": "Tā hǎoxīn tíxǐng wǒ xiǎoxīn.",
+        "en": "İyi niyetle bana dikkatli olmamı hatırlattı."
+      }
+    ]
+  },
+  {
+    "id": "w3632",
+    "hanzi": "好感",
+    "pinyin": "hǎogǎn",
+    "meaning": "iyi izlenim, sempati",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我对他有好感。",
+        "pinyin": "Wǒ duì tā yǒu hǎogǎn.",
+        "en": "Ona karşı iyi bir izlenimim var."
+      },
+      {
+        "zh": "第一次见面就给人留下好感。",
+        "pinyin": "Dì-yī cì jiànmiàn jiù gěi rén liúxià hǎogǎn.",
+        "en": "İlk görüşmede iyi bir izlenim bıraktı."
+      },
+      {
+        "zh": "她对这个城市很有好感。",
+        "pinyin": "Tā duì zhège chéngshì hěn yǒu hǎogǎn.",
+        "en": "Bu şehre karşı çok olumlu duygular besliyor."
+      },
+      {
+        "zh": "他的态度让我对他产生了好感。",
+        "pinyin": "Tā de tàidu ràng wǒ duì tā chǎnshēngle hǎogǎn.",
+        "en": "Tavrı bende ona karşı sempati uyandırdı."
+      },
+      {
+        "zh": "我对这个提议没有好感。",
+        "pinyin": "Wǒ duì zhège tíyì méiyǒu hǎogǎn.",
+        "en": "Bu öneriye karşı iyi bir izlenimim yok."
+      }
+    ]
+  },
+  {
+    "id": "w3633",
+    "hanzi": "好汉",
+    "pinyin": "hǎohàn",
+    "meaning": "yiğit, mert adam",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是条好汉。",
+        "pinyin": "Tā shì tiáo hǎohàn.",
+        "en": "O gerçek bir yiğit."
+      },
+      {
+        "zh": "好汉做事好汉当。",
+        "pinyin": "Hǎohàn zuò shì hǎohàn dāng.",
+        "en": "Yiğit yaptığının sorumluluğunu üstlenir."
+      },
+      {
+        "zh": "他被称为当地的好汉。",
+        "pinyin": "Tā bèi chēngwéi dāngdì de hǎohàn.",
+        "en": "O yerel bir kahraman olarak biliniyor."
+      },
+      {
+        "zh": "好汉不吃眼前亏。",
+        "pinyin": "Hǎohàn bù chī yǎnqián kuī.",
+        "en": "Akıllı adam gereksiz risk almaz."
+      },
+      {
+        "zh": "大家都佩服这个好汉。",
+        "pinyin": "Dàjiā dōu pèifú zhège hǎohàn.",
+        "en": "Herkes bu yiğide hayran."
+      }
+    ]
+  },
+  {
+    "id": "w3634",
+    "hanzi": "好意思",
+    "pinyin": "hǎoyìsi",
+    "meaning": "yüzü olmak, utanmamak",
+    "partOfSpeech": "deyim",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "你还好意思说！",
+        "pinyin": "Nǐ hái hǎoyìsi shuō!",
+        "en": "Bunu söylemeye yüzün mü var!"
+      },
+      {
+        "zh": "他真好意思跟我借钱。",
+        "pinyin": "Tā zhēn hǎoyìsi gēn wǒ jiè qián.",
+        "en": "Benden borç istemeye gerçekten yüzü var."
+      },
+      {
+        "zh": "我不好意思拒绝他。",
+        "pinyin": "Wǒ bù hǎoyìsi jùjué tā.",
+        "en": "Onu reddetmeye içim el vermedi."
+      },
+      {
+        "zh": "迟到了，真不好意思。",
+        "pinyin": "Chídàole, zhēn bù hǎoyìsi.",
+        "en": "Geç kaldım, gerçekten özür dilerim."
+      },
+      {
+        "zh": "她不好意思地笑了笑。",
+        "pinyin": "Tā bù hǎoyìsi de xiàolexiào.",
+        "en": "Utanarak gülümsedi."
+      }
+    ]
+  },
+  {
+    "id": "w3635",
+    "hanzi": "好转",
+    "pinyin": "hǎozhuǎn",
+    "meaning": "iyileşmek, iyiye dönmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的病情有所好转。",
+        "pinyin": "Tā de bìngqíng yǒu suǒ hǎozhuǎn.",
+        "en": "Onun sağlık durumu biraz iyileşti."
+      },
+      {
+        "zh": "天气正在好转。",
+        "pinyin": "Tiānqì zhèngzài hǎozhuǎn.",
+        "en": "Hava iyiye gidiyor."
+      },
+      {
+        "zh": "经济形势逐渐好转。",
+        "pinyin": "Jīngjì xíngshì zhújiàn hǎozhuǎn.",
+        "en": "Ekonomik durum giderek iyileşiyor."
+      },
+      {
+        "zh": "两国关系正在好转。",
+        "pinyin": "Liǎng guó guānxi zhèngzài hǎozhuǎn.",
+        "en": "İki ülke arasındaki ilişkiler iyiye gidiyor."
+      },
+      {
+        "zh": "病人的情况明显好转。",
+        "pinyin": "Bìngrén de qíngkuàng míngxiǎn hǎozhuǎn.",
+        "en": "Hastanın durumu belirgin biçimde iyileşti."
+      }
+    ]
+  },
+  {
+    "id": "w3636",
+    "hanzi": "号召",
+    "pinyin": "hàozhào",
+    "meaning": "çağrı yapmak; çağrı",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府号召大家节约用水。",
+        "pinyin": "Zhèngfǔ hàozhào dàjiā jiéyuē yòng shuǐ.",
+        "en": "Hükümet herkesi suyu tasarruflu kullanmaya çağırdı."
+      },
+      {
+        "zh": "他响应了号召。",
+        "pinyin": "Tā xiǎngyìngle hàozhào.",
+        "en": "O çağrıya uydu."
+      },
+      {
+        "zh": "学校号召学生们参加志愿活动。",
+        "pinyin": "Xuéxiào hàozhào xuéshengmen cānjiā zhìyuàn huódòng.",
+        "en": "Okul öğrencileri gönüllü faaliyetlere katılmaya çağırdı."
+      },
+      {
+        "zh": "这项号召得到了广泛响应。",
+        "pinyin": "Zhè xiàng hàozhào dédàole guǎngfàn xiǎngyìng.",
+        "en": "Bu çağrı geniş bir yankı buldu."
+      },
+      {
+        "zh": "他号召大家团结起来。",
+        "pinyin": "Tā hàozhào dàjiā tuánjié qǐlai.",
+        "en": "Herkesi birlik olmaya çağırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3637",
+    "hanzi": "好客",
+    "pinyin": "hàokè",
+    "meaning": "misafirperver",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "中国人很好客。",
+        "pinyin": "Zhōngguórén hěn hàokè.",
+        "en": "Çinliler çok misafirperverdir."
+      },
+      {
+        "zh": "这家人非常好客。",
+        "pinyin": "Zhè jiā rén fēicháng hàokè.",
+        "en": "Bu aile çok misafirperver."
+      },
+      {
+        "zh": "他们以好客闻名。",
+        "pinyin": "Tāmen yǐ hàokè wénmíng.",
+        "en": "Misafirperverlikleriyle tanınırlar."
+      },
+      {
+        "zh": "主人热情好客。",
+        "pinyin": "Zhǔrén rèqíng hàokè.",
+        "en": "Ev sahibi sıcak ve misafirperverdir."
+      },
+      {
+        "zh": "这个村子的人都很好客。",
+        "pinyin": "Zhège cūnzi de rén dōu hěn hàokè.",
+        "en": "Bu köyün insanları çok misafirperver."
+      }
+    ]
+  },
+  {
+    "id": "w3638",
+    "hanzi": "耗费",
+    "pinyin": "hàofèi",
+    "meaning": "sarf etmek, harcamak, tüketmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这项工程耗费了大量资金。",
+        "pinyin": "Zhè xiàng gōngchéng hàofèile dàliàng zījīn.",
+        "en": "Bu proje büyük miktarda para harcadı."
+      },
+      {
+        "zh": "他耗费了很多时间。",
+        "pinyin": "Tā hàofèile hěn duō shíjiān.",
+        "en": "O çok fazla zaman harcadı."
+      },
+      {
+        "zh": "别再耗费精力了。",
+        "pinyin": "Bié zài hàofèi jīnglì le.",
+        "en": "Artık enerjini boşa harcama."
+      },
+      {
+        "zh": "这个决定耗费了大量人力。",
+        "pinyin": "Zhège juédìng hàofèile dàliàng rénlì.",
+        "en": "Bu karar büyük miktarda iş gücü harcadı."
+      },
+      {
+        "zh": "修建这座桥耗费了三年时间。",
+        "pinyin": "Xiūjiàn zhè zuò qiáo hàofèile sān nián shíjiān.",
+        "en": "Bu köprünün inşası üç yıl sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w3639",
+    "hanzi": "耗子",
+    "pinyin": "hàozi",
+    "meaning": "fare, sıçan",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "屋里有一只耗子。",
+        "pinyin": "Wū lǐ yǒu yì zhī hàozi.",
+        "en": "Odada bir fare var."
+      },
+      {
+        "zh": "猫抓住了耗子。",
+        "pinyin": "Māo zhuāzhùle hàozi.",
+        "en": "Kedi fareyi yakaladı."
+      },
+      {
+        "zh": "耗子最怕猫。",
+        "pinyin": "Hàozi zuì pà māo.",
+        "en": "Fareler en çok kediden korkar."
+      },
+      {
+        "zh": "家里的耗子把面包吃了。",
+        "pinyin": "Jiā lǐ de hàozi bǎ miànbāo chī le.",
+        "en": "Evdeki fare ekmeği yedi."
+      },
+      {
+        "zh": "他设了个夹子来抓耗子。",
+        "pinyin": "Tā shèle ge jiāzi lái zhuā hàozi.",
+        "en": "Fare yakalamak için bir kapan kurdu."
+      }
+    ]
+  },
+  {
+    "id": "w3640",
+    "hanzi": "合并",
+    "pinyin": "hébìng",
+    "meaning": "birleştirmek, birleşmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "两家公司决定合并。",
+        "pinyin": "Liǎng jiā gōngsī juédìng hébìng.",
+        "en": "İki şirket birleşmeye karar verdi."
+      },
+      {
+        "zh": "这两个部门将要合并。",
+        "pinyin": "Zhè liǎng ge bùmén jiāngyào hébìng.",
+        "en": "Bu iki bölüm birleşecek."
+      },
+      {
+        "zh": "合并后公司规模更大了。",
+        "pinyin": "Hébìng hòu gōngsī guīmó gèng dà le.",
+        "en": "Birleşmeden sonra şirketin ölçeği daha büyüdü."
+      },
+      {
+        "zh": "他们把两个文件合并成一个。",
+        "pinyin": "Tāmen bǎ liǎng ge wénjiàn hébìng chéng yí ge.",
+        "en": "İki dosyayı bir dosya haline getirdiler."
+      },
+      {
+        "zh": "这两所学校已经合并了。",
+        "pinyin": "Zhè liǎng suǒ xuéxiào yǐjīng hébìng le.",
+        "en": "Bu iki okul zaten birleşti."
+      }
+    ]
+  },
+  {
+    "id": "w3641",
+    "hanzi": "合唱",
+    "pinyin": "héchàng",
+    "meaning": "koro; koro halinde şarkı söylemek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "学生们在合唱。",
+        "pinyin": "Xuéshengmen zài héchàng.",
+        "en": "Öğrenciler koro halinde şarkı söylüyor."
+      },
+      {
+        "zh": "他参加了学校的合唱团。",
+        "pinyin": "Tā cānjiāle xuéxiào de héchàngtuán.",
+        "en": "O okulun korosuna katıldı."
+      },
+      {
+        "zh": "这首歌很适合合唱。",
+        "pinyin": "Zhè shǒu gē hěn shìhé héchàng.",
+        "en": "Bu şarkı koro için çok uygun."
+      },
+      {
+        "zh": "合唱比赛明天举行。",
+        "pinyin": "Héchàng bǐsài míngtiān jǔxíng.",
+        "en": "Koro yarışması yarın yapılacak."
+      },
+      {
+        "zh": "全班同学一起合唱了这首歌。",
+        "pinyin": "Quán bān tóngxué yìqǐ héchàngle zhè shǒu gē.",
+        "en": "Tüm sınıf bu şarkıyı birlikte koro halinde söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w3642",
+    "hanzi": "合成",
+    "pinyin": "héchéng",
+    "meaning": "birleştirmek, sentezlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种材料是人工合成的。",
+        "pinyin": "Zhè zhǒng cáiliào shì réngōng héchéng de.",
+        "en": "Bu malzeme yapay olarak sentezlenmiştir."
+      },
+      {
+        "zh": "科学家合成了一种新药物。",
+        "pinyin": "Kēxuéjiā héchéngle yì zhǒng xīn yàowù.",
+        "en": "Bilim insanları yeni bir ilaç sentezledi."
+      },
+      {
+        "zh": "这张照片是电脑合成的。",
+        "pinyin": "Zhè zhāng zhàopiàn shì diànnǎo héchéng de.",
+        "en": "Bu fotoğraf bilgisayarda birleştirilmiştir."
+      },
+      {
+        "zh": "塑料是一种合成材料。",
+        "pinyin": "Sùliào shì yì zhǒng héchéng cáiliào.",
+        "en": "Plastik bir sentetik malzemedir."
+      },
+      {
+        "zh": "这首歌的声音是后期合成的。",
+        "pinyin": "Zhè shǒu gē de shēngyīn shì hòuqī héchéng de.",
+        "en": "Bu şarkının sesi sonradan birleştirildi."
+      }
+    ]
+  },
+  {
+    "id": "w3643",
+    "hanzi": "合伙",
+    "pinyin": "héhuǒ",
+    "meaning": "ortaklık kurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们两人合伙开了一家餐厅。",
+        "pinyin": "Tāmen liǎng rén héhuǒ kāile yì jiā cāntīng.",
+        "en": "İkisi ortaklaşa bir restoran açtı."
+      },
+      {
+        "zh": "我们打算合伙做生意。",
+        "pinyin": "Wǒmen dǎsuàn héhuǒ zuò shēngyi.",
+        "en": "Ortaklaşa iş yapmayı planlıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w3644",
+    "hanzi": "合金",
+    "pinyin": "héjīn",
+    "meaning": "alaşım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个零件是用合金做的。",
+        "pinyin": "Zhège língjiàn shì yòng héjīn zuò de.",
+        "en": "Bu parça alaşımdan yapılmıştır."
+      },
+      {
+        "zh": "钢是铁和碳的合金。",
+        "pinyin": "Gāng shì tiě hé tàn de héjīn.",
+        "en": "Çelik, demir ve karbonun bir alaşımıdır."
+      },
+      {
+        "zh": "这种合金非常坚固。",
+        "pinyin": "Zhè zhǒng héjīn fēicháng jiāngù.",
+        "en": "Bu alaşım çok sağlamdır."
+      },
+      {
+        "zh": "飞机机身用的是特殊合金。",
+        "pinyin": "Fēijī jīshēn yòng de shì tèshū héjīn.",
+        "en": "Uçak gövdesinde özel bir alaşım kullanılır."
+      },
+      {
+        "zh": "他研究新型合金材料。",
+        "pinyin": "Tā yánjiū xīnxíng héjīn cáiliào.",
+        "en": "O yeni tip alaşım malzemeleri araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3645",
+    "hanzi": "合群",
+    "pinyin": "héqún",
+    "meaning": "sosyal, toplulukla uyumlu",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他不太合群。",
+        "pinyin": "Tā bú tài héqún.",
+        "en": "O pek sosyal değil."
+      },
+      {
+        "zh": "这个孩子很合群，很快就交到了新朋友。",
+        "pinyin": "Zhège háizi hěn héqún, hěn kuài jiù jiāodàole xīn péngyou.",
+        "en": "Bu çocuk çok sosyal, hemen yeni arkadaşlar edindi."
+      }
+    ]
+  },
+  {
+    "id": "w3646",
+    "hanzi": "行情",
+    "pinyin": "hángqíng",
+    "meaning": "piyasa fiyatı, rayiç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "最近股市行情不太好。",
+        "pinyin": "Zuìjìn gǔshì hángqíng bú tài hǎo.",
+        "en": "Son zamanlarda borsa piyasası pek iyi değil."
+      },
+      {
+        "zh": "他每天都关注市场行情。",
+        "pinyin": "Tā měitiān dōu guānzhù shìchǎng hángqíng.",
+        "en": "O her gün piyasa fiyatlarını takip ediyor."
+      },
+      {
+        "zh": "房地产行情正在上涨。",
+        "pinyin": "Fángdìchǎn hángqíng zhèngzài shàngzhǎng.",
+        "en": "Emlak piyasası fiyatları yükseliyor."
+      },
+      {
+        "zh": "这个价格符合市场行情。",
+        "pinyin": "Zhège jiàgé fúhé shìchǎng hángqíng.",
+        "en": "Bu fiyat piyasa rayicine uygun."
+      },
+      {
+        "zh": "行情不好，很多人都在观望。",
+        "pinyin": "Hángqíng bù hǎo, hěn duō rén dōu zài guānwàng.",
+        "en": "Piyasa kötü olduğu için birçok kişi bekle-gör tutumunda."
+      }
+    ]
+  },
+  {
+    "id": "w3647",
+    "hanzi": "毫",
+    "pinyin": "háo",
+    "meaning": "hiç (olumsuzlukla birlikte); mili-",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他毫不犹豫地答应了。",
+        "pinyin": "Tā háo bù yóuyù de dāying le.",
+        "en": "Hiç tereddüt etmeden kabul etti."
+      },
+      {
+        "zh": "这件事跟我毫无关系。",
+        "pinyin": "Zhè jiàn shì gēn wǒ háo wú guānxi.",
+        "en": "Bu olayın benimle hiçbir ilgisi yok."
+      },
+      {
+        "zh": "他毫不在乎别人的看法。",
+        "pinyin": "Tā háo bú zàihu biérén de kànfǎ.",
+        "en": "Başkalarının fikirlerini hiç umursamıyor."
+      },
+      {
+        "zh": "她毫不费力地解决了问题。",
+        "pinyin": "Tā háo bú fèilì de jiějuéle wèntí.",
+        "en": "Sorunu hiç zorlanmadan çözdü."
+      },
+      {
+        "zh": "这个消息毫无根据。",
+        "pinyin": "Zhège xiāoxi háo wú gēnjù.",
+        "en": "Bu haberin hiçbir dayanağı yok."
+      }
+    ]
   }
 ]

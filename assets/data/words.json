@@ -153391,5 +153391,797 @@
         "en": "Bu planın riski çok büyük, üstelik maliyeti de yüksek."
       }
     ]
+  },
+  {
+    "id": "w4458",
+    "hanzi": "窥视",
+    "pinyin": "kuīshì",
+    "meaning": "Gözetlemek, dikizlemek, gizlice bakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "有人在窗外窥视我们。",
+        "pinyin": "Yǒurén zài chuāng wài kuīshì wǒmen.",
+        "en": "Biri pencereden bizi gözetliyor."
+      },
+      {
+        "zh": "他被指控窥视邻居的隐私。",
+        "pinyin": "Tā bèi zhǐkòng kuīshì línjū de yǐnsī.",
+        "en": "Komşusunun mahremiyetini gözetlemekle suçlandı."
+      },
+      {
+        "zh": "猫悄悄窥视着窗外的小鸟。",
+        "pinyin": "Māo qiāoqiāo kuīshìzhe chuāng wài de xiǎoniǎo.",
+        "en": "Kedi sessizce pencerenin dışındaki kuşu gözlüyordu."
+      },
+      {
+        "zh": "有人透过门缝窥视屋内的情况。",
+        "pinyin": "Yǒurén tòuguò ménfèng kuīshì wūnèi de qíngkuàng.",
+        "en": "Biri kapı aralığından odanın içini gözetliyordu."
+      },
+      {
+        "zh": "他心怀不轨,一直窥视着这笔财产。",
+        "pinyin": "Tā xīnhuái bùguǐ, yìzhí kuīshìzhe zhè bǐ cáichǎn.",
+        "en": "Kötü niyetli, sürekli bu mal varlığına göz dikiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4459",
+    "hanzi": "亏",
+    "pinyin": "kuī",
+    "meaning": "Zarar etmek, kaybetmek; kayıp, zarar",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这笔生意亏了不少钱。",
+        "pinyin": "Zhè bǐ shēngyi kuī le bùshǎo qián.",
+        "en": "Bu iş epeyce zarar etti."
+      },
+      {
+        "zh": "多亏你的帮助,我才顺利完成任务。",
+        "pinyin": "Duōkuī nǐ de bāngzhù, wǒ cái shùnlì wánchéng rènwu.",
+        "en": "Senin yardımın sayesinde görevi başarıyla tamamlayabildim."
+      },
+      {
+        "zh": "他理亏,不敢再说话。",
+        "pinyin": "Tā lǐkuī, bù gǎn zài shuōhuà.",
+        "en": "Haksız olduğu için tekrar konuşmaya cesaret edemedi."
+      },
+      {
+        "zh": "他这次亏大了。",
+        "pinyin": "Tā zhè cì kuī dà le.",
+        "en": "Bu sefer büyük zarar etti."
+      },
+      {
+        "zh": "你这样做真是亏心。",
+        "pinyin": "Nǐ zhèyàng zuò zhēnshi kuīxīn.",
+        "en": "Böyle yapman gerçekten vicdansızca."
+      }
+    ]
+  },
+  {
+    "id": "w4460",
+    "hanzi": "亏本",
+    "pinyin": "kuīběn",
+    "meaning": "Zarar etmek (ticarette)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这次投资让他亏本了。",
+        "pinyin": "Zhè cì tóuzī ràng tā kuīběn le.",
+        "en": "Bu yatırım onu zarar ettirdi."
+      },
+      {
+        "zh": "店铺经营不善,已经亏本了。",
+        "pinyin": "Diànpù jīngyíng búshàn, yǐjīng kuīběn le.",
+        "en": "Mağazanın işletmesi kötü gitti, zaten zarar ediyor."
+      },
+      {
+        "zh": "他宁愿亏本也要把货卖出去。",
+        "pinyin": "Tā nìngyuàn kuīběn yě yào bǎ huò màichūqù.",
+        "en": "Zarar etmeyi göze alsa da malı satmak istiyor."
+      },
+      {
+        "zh": "由于亏本严重,公司决定关闭这家分店。",
+        "pinyin": "Yóuyú kuīběn yánzhòng, gōngsī juédìng guānbì zhè jiā fēndiàn.",
+        "en": "Ciddi zarar nedeniyle şirket bu şubeyi kapatmaya karar verdi."
+      },
+      {
+        "zh": "这个季度公司出现了亏本。",
+        "pinyin": "Zhège jìdù gōngsī chūxiàn le kuīběn.",
+        "en": "Bu çeyrekte şirket zarar etti."
+      }
+    ]
+  },
+  {
+    "id": "w4461",
+    "hanzi": "亏损",
+    "pinyin": "kuīsǔn",
+    "meaning": "Zarar, kayıp, açık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "公司今年出现了严重亏损。",
+        "pinyin": "Gōngsī jīnnián chūxiàn le yánzhòng kuīsǔn.",
+        "en": "Şirket bu yıl ciddi bir zarar yaşadı."
+      },
+      {
+        "zh": "这项业务连续三年亏损。",
+        "pinyin": "Zhè xiàng yèwù liánxù sān nián kuīsǔn.",
+        "en": "Bu iş kolu üç yıl üst üste zarar etti."
+      },
+      {
+        "zh": "他们采取措施减少亏损。",
+        "pinyin": "Tāmen cǎiqǔ cuòshī jiǎnshǎo kuīsǔn.",
+        "en": "Zararı azaltmak için önlemler aldılar."
+      },
+      {
+        "zh": "这家企业已经扭亏为盈。",
+        "pinyin": "Zhè jiā qǐyè yǐjīng niǔkuī-wéiyíng.",
+        "en": "Bu işletme zarardan kâra döndü."
+      },
+      {
+        "zh": "亏损的原因是市场需求下降。",
+        "pinyin": "Kuīsǔn de yuányīn shì shìchǎng xūqiú xiàjiàng.",
+        "en": "Zararın nedeni piyasa talebinin azalmasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4462",
+    "hanzi": "盔甲",
+    "pinyin": "kuījiǎ",
+    "meaning": "Zırh",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "古代武士穿着厚重的盔甲。",
+        "pinyin": "Gǔdài wǔshì chuānzhe hòuzhòng de kuījiǎ.",
+        "en": "Eski çağ savaşçıları ağır zırhlar giyerdi."
+      },
+      {
+        "zh": "博物馆展出了一套完整的盔甲。",
+        "pinyin": "Bówùguǎn zhǎnchū le yí tào wánzhěng de kuījiǎ.",
+        "en": "Müzede tam bir zırh takımı sergileniyor."
+      },
+      {
+        "zh": "他脱下盔甲,露出疲惫的脸庞。",
+        "pinyin": "Tā tuōxià kuījiǎ, lùchū píbèi de liǎnpáng.",
+        "en": "Zırhını çıkarıp yorgun yüzünü açığa çıkardı."
+      },
+      {
+        "zh": "骑士穿上盔甲准备出征。",
+        "pinyin": "Qíshì chuānshàng kuījiǎ zhǔnbèi chūzhēng.",
+        "en": "Şövalye sefere çıkmak için zırhını giydi."
+      },
+      {
+        "zh": "这副盔甲是国王赐予的礼物。",
+        "pinyin": "Zhè fù kuījiǎ shì guówáng cìyǔ de lǐwù.",
+        "en": "Bu zırh kralın bahşettiği bir hediyeydi."
+      }
+    ]
+  },
+  {
+    "id": "w4463",
+    "hanzi": "溃败",
+    "pinyin": "kuìbài",
+    "meaning": "Yenilgiye uğramak, bozguna uğramak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "敌军全线溃败。",
+        "pinyin": "Díjūn quánxiàn kuìbài.",
+        "en": "Düşman ordusu tüm cephede bozguna uğradı."
+      },
+      {
+        "zh": "球队在这场比赛中溃败。",
+        "pinyin": "Qiúduì zài zhè chǎng bǐsài zhōng kuìbài.",
+        "en": "Takım bu maçta ağır bir yenilgi aldı."
+      },
+      {
+        "zh": "军队溃败后四散逃跑。",
+        "pinyin": "Jūnduì kuìbài hòu sìsàn táopǎo.",
+        "en": "Ordu bozguna uğradıktan sonra dağılıp kaçtı."
+      },
+      {
+        "zh": "他的计划最终以溃败告终。",
+        "pinyin": "Tā de jìhuà zuìzhōng yǐ kuìbài gàozhōng.",
+        "en": "Planı sonunda bozgunla sona erdi."
+      },
+      {
+        "zh": "这次商业竞争让对手彻底溃败。",
+        "pinyin": "Zhè cì shāngyè jìngzhēng ràng duìshǒu chèdǐ kuìbài.",
+        "en": "Bu ticari rekabet rakibi tamamen bozguna uğrattı."
+      }
+    ]
+  },
+  {
+    "id": "w4464",
+    "hanzi": "溃烂",
+    "pinyin": "kuìlàn",
+    "meaning": "İrinlenmek, yara açılmak, çürümek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "伤口感染后开始溃烂。",
+        "pinyin": "Shāngkǒu gǎnrǎn hòu kāishǐ kuìlàn.",
+        "en": "Yara enfekte olduktan sonra irinlenmeye başladı."
+      },
+      {
+        "zh": "他的皮肤溃烂,需要及时治疗。",
+        "pinyin": "Tā de pífū kuìlàn, xūyào jíshí zhìliáo.",
+        "en": "Cildi çürüyor, zamanında tedavi gerekiyor."
+      },
+      {
+        "zh": "长期不愈的伤口容易溃烂。",
+        "pinyin": "Chángqī bú yù de shāngkǒu róngyì kuìlàn.",
+        "en": "Uzun süre iyileşmeyen yaralar kolayca çürüyebilir."
+      },
+      {
+        "zh": "医生清理了溃烂的组织。",
+        "pinyin": "Yīshēng qīnglǐ le kuìlàn de zǔzhī.",
+        "en": "Doktor çürümüş dokuyu temizledi."
+      },
+      {
+        "zh": "溃烂的伤口散发出难闻的气味。",
+        "pinyin": "Kuìlàn de shāngkǒu sànfāchū nánwén de qìwèi.",
+        "en": "Çürümüş yaradan kötü bir koku yayılıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4465",
+    "hanzi": "溃疡",
+    "pinyin": "kuìyáng",
+    "meaning": "Ülser, açık yara",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他患有胃溃疡。",
+        "pinyin": "Tā huànyǒu wèi kuìyáng.",
+        "en": "Mide ülseri var."
+      },
+      {
+        "zh": "口腔溃疡让他吃饭很痛苦。",
+        "pinyin": "Kǒuqiāng kuìyáng ràng tā chīfàn hěn tòngkǔ.",
+        "en": "Ağız yarası yemek yerken ona çok acı veriyor."
+      },
+      {
+        "zh": "长期压力会引发溃疡。",
+        "pinyin": "Chángqī yālì huì yǐnfā kuìyáng.",
+        "en": "Uzun süreli stres ülsere yol açabilir."
+      },
+      {
+        "zh": "医生建议他做溃疡检查。",
+        "pinyin": "Yīshēng jiànyì tā zuò kuìyáng jiǎnchá.",
+        "en": "Doktor ülser kontrolü yaptırmasını önerdi."
+      },
+      {
+        "zh": "溃疡愈合需要一段时间。",
+        "pinyin": "Kuìyáng yùhé xūyào yí duàn shíjiān.",
+        "en": "Ülserin iyileşmesi bir süre alır."
+      }
+    ]
+  },
+  {
+    "id": "w4466",
+    "hanzi": "昆虫",
+    "pinyin": "kūnchóng",
+    "meaning": "Böcek, haşarat",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "夏天有很多昆虫。",
+        "pinyin": "Xiàtiān yǒu hěn duō kūnchóng.",
+        "en": "Yazın çok fazla böcek olur."
+      },
+      {
+        "zh": "他喜欢观察各种昆虫。",
+        "pinyin": "Tā xǐhuan guānchá gèzhǒng kūnchóng.",
+        "en": "Çeşitli böcekleri gözlemlemeyi sever."
+      },
+      {
+        "zh": "蝴蝶是一种美丽的昆虫。",
+        "pinyin": "Húdié shì yì zhǒng měilì de kūnchóng.",
+        "en": "Kelebek güzel bir böcek türüdür."
+      },
+      {
+        "zh": "这本书介绍了各种昆虫的特点。",
+        "pinyin": "Zhè běn shū jièshào le gèzhǒng kūnchóng de tèdiǎn.",
+        "en": "Bu kitap çeşitli böceklerin özelliklerini tanıtıyor."
+      },
+      {
+        "zh": "有些昆虫对农作物有害。",
+        "pinyin": "Yǒuxiē kūnchóng duì nóngzuòwù yǒuhài.",
+        "en": "Bazı böcekler tarım ürünlerine zararlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4467",
+    "hanzi": "捆绑",
+    "pinyin": "kǔnbǎng",
+    "meaning": "Bağlamak, iple bağlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把行李用绳子捆绑好。",
+        "pinyin": "Tā bǎ xíngli yòng shéngzi kǔnbǎng hǎo.",
+        "en": "Bavulunu iple sıkıca bağladı."
+      },
+      {
+        "zh": "绑匪把人质捆绑起来。",
+        "pinyin": "Bǎngfěi bǎ rénzhì kǔnbǎng qǐlai.",
+        "en": "Kaçıranlar rehineyi bağladı."
+      },
+      {
+        "zh": "这些商品是捆绑销售的。",
+        "pinyin": "Zhèxiē shāngpǐn shì kǔnbǎng xiāoshòu de.",
+        "en": "Bu ürünler paket halinde satılıyor."
+      },
+      {
+        "zh": "他被绳子牢牢捆绑在椅子上。",
+        "pinyin": "Tā bèi shéngzi láoláo kǔnbǎng zài yǐzi shàng.",
+        "en": "İple sandalyeye sımsıkı bağlanmıştı."
+      },
+      {
+        "zh": "工人把树苗捆绑成一捆。",
+        "pinyin": "Gōngrén bǎ shùmiáo kǔnbǎng chéng yì kǔn.",
+        "en": "İşçi fidanları bir demet halinde bağladı."
+      }
+    ]
+  },
+  {
+    "id": "w4468",
+    "hanzi": "困惑",
+    "pinyin": "kùnhuò",
+    "meaning": "Kafası karışmış, şaşkın, şaşırmış",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这个问题让我很困惑。",
+        "pinyin": "Zhège wèntí ràng wǒ hěn kùnhuò.",
+        "en": "Bu sorun beni çok şaşırttı."
+      },
+      {
+        "zh": "他一脸困惑地看着我。",
+        "pinyin": "Tā yì liǎn kùnhuò de kànzhe wǒ.",
+        "en": "Şaşkın bir ifadeyle bana baktı."
+      },
+      {
+        "zh": "面对复杂的局面,他感到十分困惑。",
+        "pinyin": "Miànduì fùzá de júmiàn, tā gǎndào shífēn kùnhuò.",
+        "en": "Karmaşık durum karşısında oldukça kafası karıştı."
+      },
+      {
+        "zh": "她对未来感到困惑和迷茫。",
+        "pinyin": "Tā duì wèilái gǎndào kùnhuò hé mímáng.",
+        "en": "Geleceğe dair kafası karışık ve belirsiz hissediyor."
+      },
+      {
+        "zh": "老师解答了学生们的困惑。",
+        "pinyin": "Lǎoshī jiědá le xuéshengmen de kùnhuò.",
+        "en": "Öğretmen öğrencilerin kafa karışıklıklarını giderdi."
+      }
+    ]
+  },
+  {
+    "id": "w4469",
+    "hanzi": "困境",
+    "pinyin": "kùnjìng",
+    "meaning": "Zor durum, güç durum, sıkıntı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "公司正陷入困境。",
+        "pinyin": "Gōngsī zhèng xiànrù kùnjìng.",
+        "en": "Şirket zor bir duruma düştü."
+      },
+      {
+        "zh": "他帮助朋友走出了困境。",
+        "pinyin": "Tā bāngzhù péngyou zǒuchū le kùnjìng.",
+        "en": "Arkadaşının zor durumdan çıkmasına yardım etti."
+      },
+      {
+        "zh": "面对困境,他没有放弃希望。",
+        "pinyin": "Miànduì kùnjìng, tā méiyǒu fàngqì xīwàng.",
+        "en": "Zor durum karşısında umudunu kaybetmedi."
+      },
+      {
+        "zh": "这个国家的经济正处于困境。",
+        "pinyin": "Zhège guójiā de jīngjì zhèng chǔyú kùnjìng.",
+        "en": "Bu ülkenin ekonomisi zor bir dönemden geçiyor."
+      },
+      {
+        "zh": "他靠自己的努力摆脱了困境。",
+        "pinyin": "Tā kào zìjǐ de nǔlì bǎituō le kùnjìng.",
+        "en": "Kendi çabasıyla zor durumdan kurtuldu."
+      }
+    ]
+  },
+  {
+    "id": "w4470",
+    "hanzi": "困倦",
+    "pinyin": "kùnjuàn",
+    "meaning": "Uykulu, yorgun",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他一整天都感到十分困倦。",
+        "pinyin": "Tā yì zhěngtiān dōu gǎndào shífēn kùnjuàn.",
+        "en": "Bütün gün boyunca çok yorgun hissetti."
+      },
+      {
+        "zh": "长时间工作让她十分困倦。",
+        "pinyin": "Cháng shíjiān gōngzuò ràng tā shífēn kùnjuàn.",
+        "en": "Uzun süreli çalışma onu çok yordu."
+      },
+      {
+        "zh": "他打了个哈欠,感到困倦。",
+        "pinyin": "Tā dǎ le gè hāqian, gǎndào kùnjuàn.",
+        "en": "Esnedi, uykusu geldiğini hissetti."
+      },
+      {
+        "zh": "开车时感到困倦一定要停车休息。",
+        "pinyin": "Kāichē shí gǎndào kùnjuàn yídìng yào tíngchē xiūxi.",
+        "en": "Araba sürerken uyku bastırırsa mutlaka durup dinlenmek gerekir."
+      },
+      {
+        "zh": "喝杯咖啡可以缓解困倦。",
+        "pinyin": "Hē bēi kāfēi kěyǐ huǎnjiě kùnjuàn.",
+        "en": "Bir fincan kahve içmek yorgunluğu hafifletebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4471",
+    "hanzi": "困苦",
+    "pinyin": "kùnkǔ",
+    "meaning": "Yoksul, sıkıntılı, zor",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们经历了艰难困苦的生活。",
+        "pinyin": "Tāmen jīnglì le jiānnán-kùnkǔ de shēnghuó.",
+        "en": "Zorlu ve sıkıntılı bir hayat yaşadılar."
+      },
+      {
+        "zh": "他从小生活困苦。",
+        "pinyin": "Tā cóngxiǎo shēnghuó kùnkǔ.",
+        "en": "Küçüklüğünden beri yoksul bir hayat yaşadı."
+      },
+      {
+        "zh": "在困苦的日子里,他从未放弃希望。",
+        "pinyin": "Zài kùnkǔ de rìzi lǐ, tā cóng wèi fàngqì xīwàng.",
+        "en": "Zor günlerde asla umudunu kaybetmedi."
+      },
+      {
+        "zh": "政府为困苦家庭提供帮助。",
+        "pinyin": "Zhèngfǔ wèi kùnkǔ jiātíng tígōng bāngzhù.",
+        "en": "Hükümet zor durumdaki ailelere yardım sağlıyor."
+      },
+      {
+        "zh": "他战胜了生活中的种种困苦。",
+        "pinyin": "Tā zhànshèng le shēnghuó zhōng de zhǒngzhǒng kùnkǔ.",
+        "en": "Hayatındaki türlü zorlukları yendi."
+      }
+    ]
+  },
+  {
+    "id": "w4472",
+    "hanzi": "阔",
+    "pinyin": "kuò",
+    "meaning": "Geniş, açık; zengin, servet sahibi",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这条路又长又阔。",
+        "pinyin": "Zhè tiáo lù yòu cháng yòu kuò.",
+        "en": "Bu yol hem uzun hem geniş."
+      },
+      {
+        "zh": "他现在阔了,买了新房子。",
+        "pinyin": "Tā xiànzài kuò le, mǎi le xīn fángzi.",
+        "en": "Artık zengin oldu, yeni bir ev satın aldı."
+      },
+      {
+        "zh": "他的心胸十分阔达。",
+        "pinyin": "Tā de xīnxiōng shífēn kuòdá.",
+        "en": "Gönlü son derece geniş."
+      },
+      {
+        "zh": "他家阔气,常常请客吃饭。",
+        "pinyin": "Tā jiā kuòqi, chángcháng qǐngkè chīfàn.",
+        "en": "Ailesi zengin, sık sık misafir ağırlar."
+      },
+      {
+        "zh": "多年不见,他阔多了。",
+        "pinyin": "Duō nián bú jiàn, tā kuò duō le.",
+        "en": "Yıllardır görüşmediğimiz için, artık çok zenginleşmiş."
+      }
+    ]
+  },
+  {
+    "id": "w4473",
+    "hanzi": "阔绰",
+    "pinyin": "kuòchuò",
+    "meaning": "Lüks ve savurgan, müsrif",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他出手阔绰,从不吝啬。",
+        "pinyin": "Tā chūshǒu kuòchuò, cóng bù lìnsè.",
+        "en": "El açıklığı çok fazla, hiç cimri değil."
+      },
+      {
+        "zh": "他过着阔绰的生活。",
+        "pinyin": "Tā guòzhe kuòchuò de shēnghuó.",
+        "en": "Lüks bir hayat sürüyor."
+      },
+      {
+        "zh": "他花钱十分阔绰。",
+        "pinyin": "Tā huāqián shífēn kuòchuò.",
+        "en": "Para harcarken oldukça savurgan davranıyor."
+      },
+      {
+        "zh": "他阔绰地请大家吃了一顿饭。",
+        "pinyin": "Tā kuòchuò de qǐng dàjiā chī le yí dùn fàn.",
+        "en": "Herkese cömertçe bir yemek ısmarladı."
+      },
+      {
+        "zh": "他家境阔绰,从不为钱发愁。",
+        "pinyin": "Tā jiājìng kuòchuò, cóng bù wèi qián fāchóu.",
+        "en": "Ailesinin durumu iyi, hiç para konusunda endişelenmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4474",
+    "hanzi": "扩充",
+    "pinyin": "kuòchōng",
+    "meaning": "Genişletmek, büyütmek, güçlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "公司准备扩充生产规模。",
+        "pinyin": "Gōngsī zhǔnbèi kuòchōng shēngchǎn guīmó.",
+        "en": "Şirket üretim ölçeğini büyütmeye hazırlanıyor."
+      },
+      {
+        "zh": "军队正在扩充兵力。",
+        "pinyin": "Jūnduì zhèngzài kuòchōng bīnglì.",
+        "en": "Ordu askeri gücünü artırıyor."
+      },
+      {
+        "zh": "学校打算扩充图书馆藏书。",
+        "pinyin": "Xuéxiào dǎsuàn kuòchōng túshūguǎn cángshū.",
+        "en": "Okul kütüphane koleksiyonunu genişletmeyi planlıyor."
+      },
+      {
+        "zh": "公司扩充了销售团队。",
+        "pinyin": "Gōngsī kuòchōng le xiāoshòu tuánduì.",
+        "en": "Şirket satış ekibini büyüttü."
+      },
+      {
+        "zh": "他们扩充了业务范围。",
+        "pinyin": "Tāmen kuòchōng le yèwù fànwéi.",
+        "en": "İş kapsamlarını genişlettiler."
+      }
+    ]
+  },
+  {
+    "id": "w4475",
+    "hanzi": "扩散",
+    "pinyin": "kuòsàn",
+    "meaning": "Yayılmak, dağılmak (haber, hastalık, madde)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "谣言迅速在网上扩散。",
+        "pinyin": "Yáoyán xùnsù zài wǎngshàng kuòsàn.",
+        "en": "Söylenti internette hızla yayıldı."
+      },
+      {
+        "zh": "污染物在空气中扩散。",
+        "pinyin": "Wūrǎnwù zài kōngqì zhōng kuòsàn.",
+        "en": "Kirletici maddeler havada yayılıyor."
+      },
+      {
+        "zh": "医生担心癌细胞已经扩散。",
+        "pinyin": "Yīshēng dānxīn ái xìbāo yǐjīng kuòsàn.",
+        "en": "Doktor kanser hücrelerinin zaten yayılmış olmasından endişe ediyor."
+      },
+      {
+        "zh": "病毒在人群中迅速扩散。",
+        "pinyin": "Bìngdú zài rénqún zhōng xùnsù kuòsàn.",
+        "en": "Virüs kalabalıklar arasında hızla yayıldı."
+      },
+      {
+        "zh": "消息一经扩散,引起了广泛关注。",
+        "pinyin": "Xiāoxi yìjīng kuòsàn, yǐnqǐ le guǎngfàn guānzhù.",
+        "en": "Haber yayılır yayılmaz geniş bir ilgi uyandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4476",
+    "hanzi": "扩音器",
+    "pinyin": "kuòyīnqì",
+    "meaning": "Megafon, hoparlör, ses yükseltici",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "老师用扩音器讲话。",
+        "pinyin": "Lǎoshī yòng kuòyīnqì jiǎnghuà.",
+        "en": "Öğretmen megafonla konuşuyor."
+      },
+      {
+        "zh": "警察拿着扩音器指挥交通。",
+        "pinyin": "Jǐngchá názhe kuòyīnqì zhǐhuī jiāotōng.",
+        "en": "Polis megafonla trafiği yönetiyor."
+      },
+      {
+        "zh": "他用扩音器通知大家集合。",
+        "pinyin": "Tā yòng kuòyīnqì tōngzhī dàjiā jíhé.",
+        "en": "Megafonla herkese toplanma çağrısı yaptı."
+      },
+      {
+        "zh": "扩音器的声音很大。",
+        "pinyin": "Kuòyīnqì de shēngyīn hěn dà.",
+        "en": "Hoparlörün sesi çok yüksek."
+      },
+      {
+        "zh": "工人用扩音器提醒行人注意安全。",
+        "pinyin": "Gōngrén yòng kuòyīnqì tíxǐng xíngrén zhùyì ānquán.",
+        "en": "İşçi megafonla yayaları güvenlik konusunda uyardı."
+      }
+    ]
+  },
+  {
+    "id": "w4477",
+    "hanzi": "扩展",
+    "pinyin": "kuòzhǎn",
+    "meaning": "Genişletmek, yaymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "公司正在扩展海外市场。",
+        "pinyin": "Gōngsī zhèngzài kuòzhǎn hǎiwài shìchǎng.",
+        "en": "Şirket yurt dışı pazarını genişletiyor."
+      },
+      {
+        "zh": "他们计划扩展业务范围。",
+        "pinyin": "Tāmen jìhuà kuòzhǎn yèwù fànwéi.",
+        "en": "İş kapsamlarını genişletmeyi planlıyorlar."
+      },
+      {
+        "zh": "城市不断向外扩展。",
+        "pinyin": "Chéngshì búduàn xiàng wài kuòzhǎn.",
+        "en": "Şehir sürekli dışa doğru genişliyor."
+      },
+      {
+        "zh": "他扩展了自己的社交圈子。",
+        "pinyin": "Tā kuòzhǎn le zìjǐ de shèjiāo quānzi.",
+        "en": "Kendi sosyal çevresini genişletti."
+      },
+      {
+        "zh": "这项研究扩展了我们的知识边界。",
+        "pinyin": "Zhè xiàng yánjiū kuòzhǎn le wǒmen de zhīshi biānjiè.",
+        "en": "Bu araştırma bilgi sınırlarımızı genişletti."
+      }
+    ]
+  },
+  {
+    "id": "w4478",
+    "hanzi": "扩张",
+    "pinyin": "kuòzhāng",
+    "meaning": "Genişletmek, büyütmek, yayılmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这家公司正在快速扩张。",
+        "pinyin": "Zhè jiā gōngsī zhèngzài kuàisù kuòzhāng.",
+        "en": "Bu şirket hızla büyüyor."
+      },
+      {
+        "zh": "血管扩张会导致血压下降。",
+        "pinyin": "Xuèguǎn kuòzhāng huì dǎozhì xuèyā xiàjiàng.",
+        "en": "Damarların genişlemesi tansiyonun düşmesine neden olabilir."
+      },
+      {
+        "zh": "该国推行了对外扩张的政策。",
+        "pinyin": "Gāi guó tuīxíng le duìwài kuòzhāng de zhèngcè.",
+        "en": "Bu ülke dışa yayılma politikası izledi."
+      },
+      {
+        "zh": "公司通过并购实现快速扩张。",
+        "pinyin": "Gōngsī tōngguò bìnggòu shíxiàn kuàisù kuòzhāng.",
+        "en": "Şirket birleşme ve satın almalar yoluyla hızlı büyümeyi gerçekleştirdi."
+      },
+      {
+        "zh": "过度扩张给企业带来了风险。",
+        "pinyin": "Guòdù kuòzhāng gěi qǐyè dàilái le fēngxiǎn.",
+        "en": "Aşırı büyüme işletmeye risk getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w4479",
+    "hanzi": "括号",
+    "pinyin": "kuòhào",
+    "meaning": "Parantez",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请把答案写在括号里。",
+        "pinyin": "Qǐng bǎ dá'àn xiě zài kuòhào lǐ.",
+        "en": "Lütfen cevabı parantez içine yazın."
+      },
+      {
+        "zh": "这个词的解释在括号中。",
+        "pinyin": "Zhège cí de jiěshì zài kuòhào zhōng.",
+        "en": "Bu kelimenin açıklaması parantez içinde."
+      },
+      {
+        "zh": "他忘了加上括号。",
+        "pinyin": "Tā wàng le jiāshàng kuòhào.",
+        "en": "Parantez eklemeyi unuttu."
+      },
+      {
+        "zh": "括号里的内容是补充说明。",
+        "pinyin": "Kuòhào lǐ de nèiróng shì bǔchōng shuōmíng.",
+        "en": "Parantez içindeki içerik ek açıklamadır."
+      },
+      {
+        "zh": "数学公式中使用了括号。",
+        "pinyin": "Shùxué gōngshì zhōng shǐyòng le kuòhào.",
+        "en": "Matematik formülünde parantez kullanılmış."
+      }
+    ]
   }
 ]

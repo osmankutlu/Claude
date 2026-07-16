@@ -90277,5 +90277,518 @@
         "en": "AIDS ciddi bir bulaşıcı hastalıktır."
       }
     ]
+  },
+  {
+    "id": "w2510",
+    "hanzi": "暗示",
+    "pinyin": "ànshì",
+    "meaning": "ima etmek, üstü kapalı anlatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "她用眼神暗示我该走了。",
+        "pinyin": "Tā yòng yǎnshén ànshì wǒ gāi zǒu le.",
+        "en": "Gitmem gerektiğini bakışlarıyla ima etti."
+      },
+      {
+        "zh": "老师暗示了考试的重点。",
+        "pinyin": "Lǎoshī ànshì le kǎoshì de zhòngdiǎn.",
+        "en": "Öğretmen sınavın önemli noktalarını ima etti."
+      },
+      {
+        "zh": "他的话暗示着某种危险。",
+        "pinyin": "Tā de huà ànshì zhe mǒu zhǒng wēixiǎn.",
+        "en": "Sözleri bir tür tehlikeyi ima ediyor."
+      },
+      {
+        "zh": "这篇文章暗示了故事的结局。",
+        "pinyin": "Zhè piān wénzhāng ànshì le gùshi de jiéjú.",
+        "en": "Bu yazı hikayenin sonunu ima etti."
+      },
+      {
+        "zh": "她暗示他别再打电话来。",
+        "pinyin": "Tā ànshì tā bié zài dǎ diànhuà lái.",
+        "en": "Bir daha telefon etmemesi gerektiğini ima etti."
+      }
+    ]
+  },
+  {
+    "id": "w2511",
+    "hanzi": "暗杀",
+    "pinyin": "ànshā",
+    "meaning": "suikast düzenlemek; suikast",
+    "partOfSpeech": "fiil/isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "那位总统遭到了暗杀。",
+        "pinyin": "Nà wèi zǒngtǒng zāodào le ànshā.",
+        "en": "O başkan suikaste uğradı."
+      },
+      {
+        "zh": "警方正在调查这起暗杀事件。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá zhè qǐ ànshā shìjiàn.",
+        "en": "Polis bu suikast olayını araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2512",
+    "hanzi": "案件",
+    "pinyin": "ànjiàn",
+    "meaning": "dava, olay",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "警察正在调查这起案件。",
+        "pinyin": "Jǐngchá zhèngzài diàochá zhè qǐ ànjiàn.",
+        "en": "Polis bu davayı araştırıyor."
+      },
+      {
+        "zh": "这是一起复杂的案件。",
+        "pinyin": "Zhè shì yì qǐ fùzá de ànjiàn.",
+        "en": "Bu karmaşık bir dava."
+      },
+      {
+        "zh": "律师负责这个案件。",
+        "pinyin": "Lǜshī fùzé zhège ànjiàn.",
+        "en": "Avukat bu davadan sorumlu."
+      },
+      {
+        "zh": "这起案件终于结案了。",
+        "pinyin": "Zhè qǐ ànjiàn zhōngyú jié'àn le.",
+        "en": "Bu dava sonunda karara bağlandı."
+      },
+      {
+        "zh": "法院正在审理这起案件。",
+        "pinyin": "Fǎyuàn zhèngzài shěnlǐ zhè qǐ ànjiàn.",
+        "en": "Mahkeme bu davayı görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w2513",
+    "hanzi": "案例",
+    "pinyin": "ànlì",
+    "meaning": "örnek olay, vaka",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "老师举了一个真实的案例。",
+        "pinyin": "Lǎoshī jǔ le yí ge zhēnshí de ànlì.",
+        "en": "Öğretmen gerçek bir vaka örneği verdi."
+      },
+      {
+        "zh": "这本书里有很多商业案例。",
+        "pinyin": "Zhè běn shū lǐ yǒu hěn duō shāngyè ànlì.",
+        "en": "Bu kitapta birçok ticari vaka örneği var."
+      },
+      {
+        "zh": "医生分析了这个病人的案例。",
+        "pinyin": "Yīshēng fēnxī le zhège bìngrén de ànlì.",
+        "en": "Doktor bu hastanın vakasını analiz etti."
+      },
+      {
+        "zh": "这是一个成功的案例。",
+        "pinyin": "Zhè shì yí ge chénggōng de ànlì.",
+        "en": "Bu başarılı bir örnek olay."
+      },
+      {
+        "zh": "我们应该研究失败的案例。",
+        "pinyin": "Wǒmen yīnggāi yánjiū shībài de ànlì.",
+        "en": "Başarısız vakaları incelemeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w2514",
+    "hanzi": "按",
+    "pinyin": "àn",
+    "meaning": "bastırmak; -e göre",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "请按一下这个按钮。",
+        "pinyin": "Qǐng àn yíxià zhège ànniǔ.",
+        "en": "Lütfen bu düğmeye basın."
+      },
+      {
+        "zh": "他按了门铃。",
+        "pinyin": "Tā àn le ménlíng.",
+        "en": "Kapı zilini çaldı."
+      },
+      {
+        "zh": "我们要按计划进行。",
+        "pinyin": "Wǒmen yào àn jìhuà jìnxíng.",
+        "en": "Plana göre ilerlemeliyiz."
+      },
+      {
+        "zh": "请按顺序排队。",
+        "pinyin": "Qǐng àn shùnxù páiduì.",
+        "en": "Lütfen sıraya göre kuyruğa girin."
+      },
+      {
+        "zh": "她按时完成了作业。",
+        "pinyin": "Tā ànshí wánchéng le zuòyè.",
+        "en": "Ödevini zamanında tamamladı."
+      }
+    ]
+  },
+  {
+    "id": "w2515",
+    "hanzi": "按理",
+    "pinyin": "ànlǐ",
+    "meaning": "normalde, mantıken",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "按理，他现在应该已经到了。",
+        "pinyin": "Ànlǐ, tā xiànzài yīnggāi yǐjīng dào le.",
+        "en": "Normalde şimdiye kadar varmış olması gerekirdi."
+      },
+      {
+        "zh": "按理这件事不应该这么复杂。",
+        "pinyin": "Ànlǐ zhè jiàn shì bù yīnggāi zhème fùzá.",
+        "en": "Mantıken bu iş bu kadar karmaşık olmamalı."
+      }
+    ]
+  },
+  {
+    "id": "w2516",
+    "hanzi": "昂贵",
+    "pinyin": "ángguì",
+    "meaning": "pahalı, masraflı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这件衣服很昂贵。",
+        "pinyin": "Zhè jiàn yīfu hěn ángguì.",
+        "en": "Bu kıyafet çok pahalı."
+      },
+      {
+        "zh": "昂贵的价格让很多人望而却步。",
+        "pinyin": "Ángguì de jiàgé ràng hěn duō rén wàng'érquèbù.",
+        "en": "Yüksek fiyat birçok kişiyi caydırdı."
+      },
+      {
+        "zh": "这家餐厅的菜很昂贵。",
+        "pinyin": "Zhè jiā cāntīng de cài hěn ángguì.",
+        "en": "Bu restoranın yemekleri çok pahalı."
+      },
+      {
+        "zh": "治疗这种病需要昂贵的费用。",
+        "pinyin": "Zhìliáo zhè zhǒng bìng xūyào ángguì de fèiyòng.",
+        "en": "Bu hastalığı tedavi etmek pahalıya mal oluyor."
+      },
+      {
+        "zh": "他买了一辆昂贵的汽车。",
+        "pinyin": "Tā mǎi le yí liàng ángguì de qìchē.",
+        "en": "Pahalı bir araba satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w2517",
+    "hanzi": "肮脏",
+    "pinyin": "āngzāng",
+    "meaning": "kirli, pis",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这条河水很肮脏。",
+        "pinyin": "Zhè tiáo héshuǐ hěn āngzāng.",
+        "en": "Bu nehrin suyu çok kirli."
+      },
+      {
+        "zh": "他的手非常肮脏。",
+        "pinyin": "Tā de shǒu fēicháng āngzāng.",
+        "en": "Elleri çok kirli."
+      },
+      {
+        "zh": "街道变得肮脏不堪。",
+        "pinyin": "Jiēdào biàn de āngzāng bùkān.",
+        "en": "Sokak son derece kirli hale geldi."
+      },
+      {
+        "zh": "这是一件肮脏的事情。",
+        "pinyin": "Zhè shì yí jiàn āngzāng de shìqing.",
+        "en": "Bu kirli, ahlaksız bir iş."
+      },
+      {
+        "zh": "请把肮脏的衣服放进洗衣机。",
+        "pinyin": "Qǐng bǎ āngzāng de yīfu fàng jìn xǐyījī.",
+        "en": "Lütfen kirli kıyafetleri çamaşır makinesine koy."
+      }
+    ]
+  },
+  {
+    "id": "w2518",
+    "hanzi": "凹",
+    "pinyin": "āo",
+    "meaning": "içbükey, çukur",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这块木板中间是凹的。",
+        "pinyin": "Zhè kuài mùbǎn zhōngjiān shì āo de.",
+        "en": "Bu tahtanın ortası çukur."
+      },
+      {
+        "zh": "路面上有一个凹下去的地方。",
+        "pinyin": "Lùmiàn shàng yǒu yí ge āo xiàqù de dìfang.",
+        "en": "Yol yüzeyinde çukur bir yer var."
+      }
+    ]
+  },
+  {
+    "id": "w2519",
+    "hanzi": "熬夜",
+    "pinyin": "áoyè",
+    "meaning": "gece geç saate kadar uyumamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他经常熬夜工作。",
+        "pinyin": "Tā jīngcháng áoyè gōngzuò.",
+        "en": "Sık sık geceleri geç saate kadar çalışıyor."
+      },
+      {
+        "zh": "熬夜对身体不好。",
+        "pinyin": "Áoyè duì shēntǐ bù hǎo.",
+        "en": "Geç saatlere kadar uyumamak sağlığa zararlı."
+      },
+      {
+        "zh": "我昨晚熬夜看书了。",
+        "pinyin": "Wǒ zuówǎn áoyè kànshū le.",
+        "en": "Dün gece geç saate kadar kitap okudum."
+      },
+      {
+        "zh": "考试前她经常熬夜复习。",
+        "pinyin": "Kǎoshì qián tā jīngcháng áoyè fùxí.",
+        "en": "Sınavdan önce sık sık geceleri geç saate kadar tekrar yapıyor."
+      },
+      {
+        "zh": "别再熬夜了，早点休息吧。",
+        "pinyin": "Bié zài áoyè le, zǎodiǎn xiūxi ba.",
+        "en": "Artık geceleri geç yatma, erken dinlen."
+      }
+    ]
+  },
+  {
+    "id": "w2520",
+    "hanzi": "傲慢",
+    "pinyin": "àomàn",
+    "meaning": "kibirli, kendini beğenmiş",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的态度很傲慢。",
+        "pinyin": "Tā de tàidu hěn àomàn.",
+        "en": "Tavrı çok kibirli."
+      },
+      {
+        "zh": "没有人喜欢傲慢的人。",
+        "pinyin": "Méiyǒu rén xǐhuan àomàn de rén.",
+        "en": "Kimse kibirli insanları sevmez."
+      }
+    ]
+  },
+  {
+    "id": "w2521",
+    "hanzi": "懊悔",
+    "pinyin": "àohuǐ",
+    "meaning": "pişman olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他对自己的决定感到懊悔。",
+        "pinyin": "Tā duì zìjǐ de juédìng gǎndào àohuǐ.",
+        "en": "Kendi kararından pişmanlık duyuyor."
+      },
+      {
+        "zh": "她懊悔当初没有努力学习。",
+        "pinyin": "Tā àohuǐ dāngchū méiyǒu nǔlì xuéxí.",
+        "en": "O zaman çok çalışmadığı için pişman."
+      }
+    ]
+  },
+  {
+    "id": "w2522",
+    "hanzi": "奥秘",
+    "pinyin": "àomì",
+    "meaning": "gizem, sır",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "科学家们努力探索宇宙的奥秘。",
+        "pinyin": "Kēxuéjiāmen nǔlì tànsuǒ yǔzhòu de àomì.",
+        "en": "Bilim insanları evrenin gizemini keşfetmeye çalışıyor."
+      },
+      {
+        "zh": "这个古老传说充满了奥秘。",
+        "pinyin": "Zhège gǔlǎo chuánshuō chōngmǎn le àomì.",
+        "en": "Bu eski efsane gizemlerle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w2523",
+    "hanzi": "巴不得",
+    "pinyin": "bābude",
+    "meaning": "can atmak, çok istemek",
+    "partOfSpeech": "fiil öbeği",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他巴不得马上放假。",
+        "pinyin": "Tā bābude mǎshàng fàngjià.",
+        "en": "Hemen tatile çıkmak için can atıyor."
+      },
+      {
+        "zh": "孩子们巴不得早点吃到蛋糕。",
+        "pinyin": "Háizimen bābude zǎodiǎn chīdào dàngāo.",
+        "en": "Çocuklar bir an önce keki yemek için can atıyorlardı."
+      }
+    ]
+  },
+  {
+    "id": "w2524",
+    "hanzi": "巴掌",
+    "pinyin": "bāzhang",
+    "meaning": "el ayası, tokat",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他打了孩子一巴掌。",
+        "pinyin": "Tā dǎ le háizi yì bāzhang.",
+        "en": "Çocuğa bir tokat attı."
+      },
+      {
+        "zh": "她的手掌只有巴掌那么大。",
+        "pinyin": "Tā de shǒuzhǎng zhǐyǒu bāzhang nàme dà.",
+        "en": "Eli sadece bir avuç kadar büyük."
+      },
+      {
+        "zh": "请不要打人巴掌。",
+        "pinyin": "Qǐng búyào dǎ rén bāzhang.",
+        "en": "Lütfen kimseye tokat atma."
+      },
+      {
+        "zh": "他伸出巴掌想打苍蝇。",
+        "pinyin": "Tā shēnchū bāzhang xiǎng dǎ cāngying.",
+        "en": "Sineği öldürmek için elini uzattı."
+      },
+      {
+        "zh": "她气得给了他一巴掌。",
+        "pinyin": "Tā qì de gěi le tā yì bāzhang.",
+        "en": "Öfkeyle ona bir tokat attı."
+      }
+    ]
+  },
+  {
+    "id": "w2525",
+    "hanzi": "疤痕",
+    "pinyin": "bāhén",
+    "meaning": "yara izi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的手臂上有一道疤痕。",
+        "pinyin": "Tā de shǒubì shàng yǒu yí dào bāhén.",
+        "en": "Kolunda bir yara izi var."
+      },
+      {
+        "zh": "这个疤痕是小时候留下的。",
+        "pinyin": "Zhège bāhén shì xiǎoshíhou liú xià de.",
+        "en": "Bu yara izi çocukluktan kalma."
+      }
+    ]
+  },
+  {
+    "id": "w2526",
+    "hanzi": "八成",
+    "pinyin": "bāchéng",
+    "meaning": "büyük ihtimalle; yüzde seksen",
+    "partOfSpeech": "zarf/isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他八成不会来了。",
+        "pinyin": "Tā bāchéng bú huì lái le.",
+        "en": "Büyük ihtimalle gelmeyecek."
+      },
+      {
+        "zh": "这件事八成是真的。",
+        "pinyin": "Zhè jiàn shì bāchéng shì zhēn de.",
+        "en": "Bu olay büyük ihtimalle doğru."
+      }
+    ]
+  },
+  {
+    "id": "w2527",
+    "hanzi": "拔",
+    "pinyin": "bá",
+    "meaning": "çekmek, sökmek, çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "医生帮他拔了一颗牙。",
+        "pinyin": "Yīshēng bāng tā bá le yì kē yá.",
+        "en": "Doktor bir dişini çekti."
+      },
+      {
+        "zh": "她把杂草都拔掉了。",
+        "pinyin": "Tā bǎ zácǎo dōu bádiào le.",
+        "en": "Bütün yabani otları söktü."
+      },
+      {
+        "zh": "他用力拔出了钉子。",
+        "pinyin": "Tā yònglì bá chū le dīngzi.",
+        "en": "Çiviyi zorlukla çekip çıkardı."
+      },
+      {
+        "zh": "请把插头拔下来。",
+        "pinyin": "Qǐng bǎ chātóu bá xiàlái.",
+        "en": "Lütfen fişi çek."
+      },
+      {
+        "zh": "农民正在拔萝卜。",
+        "pinyin": "Nóngmín zhèngzài bá luóbo.",
+        "en": "Çiftçi turp söküyor."
+      }
+    ]
   }
 ]

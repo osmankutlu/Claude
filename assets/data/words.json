@@ -128260,5 +128260,809 @@
         "en": "Toplantı salonunda sadece bir mikrofon var."
       }
     ]
+  },
+  {
+    "id": "w3742",
+    "hanzi": "画家",
+    "pinyin": "huàjiā",
+    "meaning": "ressam",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他是一位著名的画家。",
+        "pinyin": "Tā shì yí wèi zhùmíng de huàjiā.",
+        "en": "O ünlü bir ressam."
+      },
+      {
+        "zh": "这位画家画了很多风景画。",
+        "pinyin": "Zhè wèi huàjiā huàle hěn duō fēngjǐnghuà.",
+        "en": "Bu ressam birçok manzara resmi yaptı."
+      },
+      {
+        "zh": "我长大想成为一名画家。",
+        "pinyin": "Wǒ zhǎngdà xiǎng chéngwéi yì míng huàjiā.",
+        "en": "Büyüyünce bir ressam olmak istiyorum."
+      },
+      {
+        "zh": "那位画家的作品非常有名。",
+        "pinyin": "Nà wèi huàjiā de zuòpǐn fēicháng yǒumíng.",
+        "en": "O ressamın eserleri çok meşhur."
+      },
+      {
+        "zh": "画家在画布上专心作画。",
+        "pinyin": "Huàjiā zài huàbù shàng zhuānxīn zuòhuà.",
+        "en": "Ressam tuvalde dikkatle resim yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3743",
+    "hanzi": "画廊",
+    "pinyin": "huàláng",
+    "meaning": "resim galerisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "我们去参观了一家画廊。",
+        "pinyin": "Wǒmen qù cānguānle yì jiā huàláng.",
+        "en": "Bir resim galerisini ziyaret ettik."
+      },
+      {
+        "zh": "这家画廊展出了很多现代艺术作品。",
+        "pinyin": "Zhè jiā huàláng zhǎnchūle hěn duō xiàndài yìshù zuòpǐn.",
+        "en": "Bu galeri birçok modern sanat eseri sergiliyor."
+      },
+      {
+        "zh": "画廊里挂满了油画。",
+        "pinyin": "Huàláng lǐ guàmǎnle yóuhuà.",
+        "en": "Galeri yağlı boya tablolarla dolu."
+      },
+      {
+        "zh": "他在画廊工作了十年。",
+        "pinyin": "Tā zài huàláng gōngzuòle shí nián.",
+        "en": "Galeride on yıl çalıştı."
+      },
+      {
+        "zh": "这条街有很多小画廊。",
+        "pinyin": "Zhè tiáo jiē yǒu hěn duō xiǎo huàláng.",
+        "en": "Bu sokakta birçok küçük galeri var."
+      }
+    ]
+  },
+  {
+    "id": "w3744",
+    "hanzi": "画面",
+    "pinyin": "huàmiàn",
+    "meaning": "görüntü, sahne, kare",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这部电影的画面很美。",
+        "pinyin": "Zhè bù diànyǐng de huàmiàn hěn měi.",
+        "en": "Bu filmin görüntüleri çok güzel."
+      },
+      {
+        "zh": "我脑海中浮现出那个画面。",
+        "pinyin": "Wǒ nǎohǎi zhōng fúxiàn chū nàge huàmiàn.",
+        "en": "Zihnimde o sahne belirdi."
+      },
+      {
+        "zh": "这张照片的画面构图很好。",
+        "pinyin": "Zhè zhāng zhàopiàn de huàmiàn gòutú hěn hǎo.",
+        "en": "Bu fotoğrafın kompozisyonu çok iyi."
+      },
+      {
+        "zh": "电视上的画面突然消失了。",
+        "pinyin": "Diànshì shàng de huàmiàn tūrán xiāoshī le.",
+        "en": "Televizyondaki görüntü aniden kayboldu."
+      },
+      {
+        "zh": "那个感人的画面让人难忘。",
+        "pinyin": "Nàge gǎnrén de huàmiàn ràng rén nánwàng.",
+        "en": "O dokunaklı sahne unutulmaz."
+      }
+    ]
+  },
+  {
+    "id": "w3745",
+    "hanzi": "画像",
+    "pinyin": "huàxiàng",
+    "meaning": "portre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "墙上挂着一幅画像。",
+        "pinyin": "Qiáng shàng guàzhe yì fú huàxiàng.",
+        "en": "Duvarda bir portre asılı."
+      },
+      {
+        "zh": "画家为她画了一幅画像。",
+        "pinyin": "Huàjiā wèi tā huàle yì fú huàxiàng.",
+        "en": "Ressam onun için bir portre çizdi."
+      },
+      {
+        "zh": "这幅画像画得非常逼真。",
+        "pinyin": "Zhè fú huàxiàng huà de fēicháng bīzhēn.",
+        "en": "Bu portre çok gerçekçi çizilmiş."
+      },
+      {
+        "zh": "博物馆收藏了皇帝的画像。",
+        "pinyin": "Bówùguǎn shōucángle huángdì de huàxiàng.",
+        "en": "Müze imparatorun portresini saklıyor."
+      },
+      {
+        "zh": "他请人给自己画了一幅画像。",
+        "pinyin": "Tā qǐng rén gěi zìjǐ huàle yì fú huàxiàng.",
+        "en": "Kendisine bir portre çizdirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3746",
+    "hanzi": "画展",
+    "pinyin": "huàzhǎn",
+    "meaning": "resim sergisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这个周末有一场画展。",
+        "pinyin": "Zhège zhōumò yǒu yì chǎng huàzhǎn.",
+        "en": "Bu hafta sonu bir resim sergisi var."
+      },
+      {
+        "zh": "我们去参观了画展。",
+        "pinyin": "Wǒmen qù cānguānle huàzhǎn.",
+        "en": "Resim sergisini ziyaret ettik."
+      },
+      {
+        "zh": "这次画展展出了很多名家作品。",
+        "pinyin": "Zhè cì huàzhǎn zhǎnchūle hěn duō míngjiā zuòpǐn.",
+        "en": "Bu sergide birçok ünlü sanatçının eseri sergilendi."
+      },
+      {
+        "zh": "他的画展吸引了很多观众。",
+        "pinyin": "Tā de huàzhǎn xīyǐnle hěn duō guānzhòng.",
+        "en": "Onun sergisi çok sayıda izleyici çekti."
+      },
+      {
+        "zh": "画展将持续一个月。",
+        "pinyin": "Huàzhǎn jiāng chíxù yí ge yuè.",
+        "en": "Sergi bir ay boyunca devam edecek."
+      }
+    ]
+  },
+  {
+    "id": "w3747",
+    "hanzi": "怀抱",
+    "pinyin": "huáibào",
+    "meaning": "kucak, bağır; (duygu, umut) beslemek",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "孩子在妈妈的怀抱里睡着了。",
+        "pinyin": "Háizi zài māma de huáibào lǐ shuìzháo le.",
+        "en": "Çocuk annesinin kucağında uyuyakaldı."
+      },
+      {
+        "zh": "他一直怀抱着实现梦想的希望。",
+        "pinyin": "Tā yìzhí huáibàozhe shíxiàn mèngxiǎng de xīwàng.",
+        "en": "Hayalini gerçekleştirme umudunu hep besledi."
+      }
+    ]
+  },
+  {
+    "id": "w3748",
+    "hanzi": "怀恨",
+    "pinyin": "huáihèn",
+    "meaning": "kin beslemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他对那件事一直怀恨在心。",
+        "pinyin": "Tā duì nà jiàn shì yìzhí huáihèn zài xīn.",
+        "en": "O olaya karşı içinde hep kin besledi."
+      },
+      {
+        "zh": "不要对别人怀恨太久。",
+        "pinyin": "Bú yào duì biérén huáihèn tài jiǔ.",
+        "en": "Başkalarına karşı uzun süre kin beslemeyin."
+      }
+    ]
+  },
+  {
+    "id": "w3749",
+    "hanzi": "怀旧",
+    "pinyin": "huáijiù",
+    "meaning": "eskiyi özlemek, nostalji",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他常常怀旧，想起小时候的事。",
+        "pinyin": "Tā chángcháng huáijiù, xiǎngqǐ xiǎoshíhou de shì.",
+        "en": "Sık sık nostaljik olur, çocukluğunu hatırlar."
+      },
+      {
+        "zh": "这首歌让我很怀旧。",
+        "pinyin": "Zhè shǒu gē ràng wǒ hěn huáijiù.",
+        "en": "Bu şarkı bende nostalji uyandırdı."
+      },
+      {
+        "zh": "老照片总能引起人们的怀旧之情。",
+        "pinyin": "Lǎo zhàopiàn zǒng néng yǐnqǐ rénmen de huáijiù zhī qíng.",
+        "en": "Eski fotoğraflar hep insanlarda nostalji duygusu uyandırır."
+      },
+      {
+        "zh": "他喜欢在怀旧的音乐中放松。",
+        "pinyin": "Tā xǐhuan zài huáijiù de yīnyuè zhōng fàngsōng.",
+        "en": "Nostaljik müzik dinleyerek rahatlamayı sever."
+      },
+      {
+        "zh": "我们去了一家怀旧风格的咖啡馆。",
+        "pinyin": "Wǒmen qùle yì jiā huáijiù fēnggé de kāfēiguǎn.",
+        "en": "Nostaljik tarzda bir kafeye gittik."
+      }
+    ]
+  },
+  {
+    "id": "w3750",
+    "hanzi": "怀孕",
+    "pinyin": "huáiyùn",
+    "meaning": "hamile olmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她怀孕了。",
+        "pinyin": "Tā huáiyùn le.",
+        "en": "O hamile."
+      },
+      {
+        "zh": "她怀孕三个月了。",
+        "pinyin": "Tā huáiyùn sān ge yuè le.",
+        "en": "Üç aylık hamile."
+      },
+      {
+        "zh": "怀孕期间要注意饮食。",
+        "pinyin": "Huáiyùn qījiān yào zhùyì yǐnshí.",
+        "en": "Hamilelik döneminde beslenmeye dikkat etmek gerekir."
+      },
+      {
+        "zh": "她怀孕后经常感到疲劳。",
+        "pinyin": "Tā huáiyùn hòu jīngcháng gǎndào píláo.",
+        "en": "Hamile kaldıktan sonra sık sık yorgunluk hissediyor."
+      },
+      {
+        "zh": "他们很高兴地宣布妻子怀孕了。",
+        "pinyin": "Tāmen hěn gāoxìng de xuānbù qīzi huáiyùn le.",
+        "en": "Eşinin hamile olduğunu mutlulukla duyurdular."
+      }
+    ]
+  },
+  {
+    "id": "w3751",
+    "hanzi": "坏处",
+    "pinyin": "huàichu",
+    "meaning": "zarar, kötü yön",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "抽烟对身体有很多坏处。",
+        "pinyin": "Chōuyān duì shēntǐ yǒu hěn duō huàichu.",
+        "en": "Sigara içmek vücuda birçok zarar verir."
+      },
+      {
+        "zh": "熬夜的坏处很多。",
+        "pinyin": "Áoyè de huàichu hěn duō.",
+        "en": "Geç saatlere kadar uyanık kalmanın birçok zararı var."
+      },
+      {
+        "zh": "这样做有什么坏处吗？",
+        "pinyin": "Zhèyàng zuò yǒu shénme huàichu ma?",
+        "en": "Bunu böyle yapmanın ne zararı var?"
+      },
+      {
+        "zh": "多吃糖对牙齿有坏处。",
+        "pinyin": "Duō chī táng duì yáchǐ yǒu huàichu.",
+        "en": "Çok şeker yemek dişlere zarar verir."
+      },
+      {
+        "zh": "凡事都有好处和坏处。",
+        "pinyin": "Fánshì dōu yǒu hǎochù hé huàichu.",
+        "en": "Her şeyin bir iyi bir kötü yönü vardır."
+      }
+    ]
+  },
+  {
+    "id": "w3752",
+    "hanzi": "坏蛋",
+    "pinyin": "huàidàn",
+    "meaning": "alçak, kötü adam",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是个真正的坏蛋。",
+        "pinyin": "Tā shì ge zhēnzhèng de huàidàn.",
+        "en": "O gerçek bir alçak."
+      },
+      {
+        "zh": "这部电影里的坏蛋最后被抓住了。",
+        "pinyin": "Zhè bù diànyǐng lǐ de huàidàn zuìhòu bèi zhuāzhù le.",
+        "en": "Bu filmdeki kötü adam sonunda yakalandı."
+      },
+      {
+        "zh": "别相信那个坏蛋说的话。",
+        "pinyin": "Bié xiāngxìn nàge huàidàn shuō de huà.",
+        "en": "O alçağın söylediklerine inanma."
+      },
+      {
+        "zh": "他从小就是个小坏蛋。",
+        "pinyin": "Tā cóngxiǎo jiù shì ge xiǎo huàidàn.",
+        "en": "Küçüklüğünden beri yaramaz bir çocuktu."
+      },
+      {
+        "zh": "警察终于抓住了这个坏蛋。",
+        "pinyin": "Jǐngchá zhōngyú zhuāzhùle zhège huàidàn.",
+        "en": "Polis sonunda bu kötü adamı yakaladı."
+      }
+    ]
+  },
+  {
+    "id": "w3753",
+    "hanzi": "坏话",
+    "pinyin": "huàihuà",
+    "meaning": "kötü söz, çekiştirme",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "不要在背后说别人的坏话。",
+        "pinyin": "Bú yào zài bèihòu shuō biérén de huàihuà.",
+        "en": "Başkalarının arkasından kötü konuşma."
+      },
+      {
+        "zh": "他从不说别人坏话。",
+        "pinyin": "Tā cóng bù shuō biérén huàihuà.",
+        "en": "O hiç kimsenin arkasından kötü konuşmaz."
+      },
+      {
+        "zh": "我听到有人在说我的坏话。",
+        "pinyin": "Wǒ tīngdào yǒurén zài shuō wǒ de huàihuà.",
+        "en": "Birinin arkamdan kötü konuştuğunu duydum."
+      },
+      {
+        "zh": "说别人坏话是不礼貌的行为。",
+        "pinyin": "Shuō biérén huàihuà shì bù lǐmào de xíngwéi.",
+        "en": "Başkaları hakkında kötü konuşmak kaba bir davranıştır."
+      },
+      {
+        "zh": "她因为坏话跟朋友吵了一架。",
+        "pinyin": "Tā yīnwèi huàihuà gēn péngyou chǎole yí jià.",
+        "en": "Dedikodu yüzünden arkadaşıyla kavga etti."
+      }
+    ]
+  },
+  {
+    "id": "w3754",
+    "hanzi": "欢畅",
+    "pinyin": "huānchàng",
+    "meaning": "keyifli, coşkulu",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "大家在聚会上聊得非常欢畅。",
+        "pinyin": "Dàjiā zài jùhuì shàng liáo de fēicháng huānchàng.",
+        "en": "Herkes toplantıda çok keyifli sohbet etti."
+      },
+      {
+        "zh": "他心情欢畅，唱起了歌。",
+        "pinyin": "Tā xīnqíng huānchàng, chàngqǐle gē.",
+        "en": "Keyfi yerinde olduğu için şarkı söylemeye başladı."
+      }
+    ]
+  },
+  {
+    "id": "w3755",
+    "hanzi": "欢度",
+    "pinyin": "huāndù",
+    "meaning": "keyifle geçirmek (bayram vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "我们一起欢度春节。",
+        "pinyin": "Wǒmen yìqǐ huāndù Chūnjié.",
+        "en": "Bahar Bayramı'nı birlikte kutlayarak geçirdik."
+      },
+      {
+        "zh": "全家人欢度国庆假期。",
+        "pinyin": "Quánjiārén huāndù Guóqìng jiàqī.",
+        "en": "Tüm aile Ulusal Bayram tatilini keyifle geçirdi."
+      },
+      {
+        "zh": "大家欢度中秋佳节。",
+        "pinyin": "Dàjiā huāndù Zhōngqiū jiājié.",
+        "en": "Herkes Ortasonbahar Bayramı'nı keyifle geçirdi."
+      },
+      {
+        "zh": "我们一起欢度美好的时光。",
+        "pinyin": "Wǒmen yìqǐ huāndù měihǎo de shíguāng.",
+        "en": "Güzel zamanları birlikte keyifle geçirdik."
+      },
+      {
+        "zh": "全校师生欢度儿童节。",
+        "pinyin": "Quán xiào shīshēng huāndù Értóngjié.",
+        "en": "Tüm okul öğretmen ve öğrencileri Çocuk Bayramı'nı kutladı."
+      }
+    ]
+  },
+  {
+    "id": "w3756",
+    "hanzi": "欢快",
+    "pinyin": "huānkuài",
+    "meaning": "neşeli, canlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "孩子们在草地上欢快地玩耍。",
+        "pinyin": "Háizimen zài cǎodì shàng huānkuài de wánshuǎ.",
+        "en": "Çocuklar çimenlikte neşeyle oynuyor."
+      },
+      {
+        "zh": "这首歌曲节奏欢快。",
+        "pinyin": "Zhè shǒu gēqǔ jiézòu huānkuài.",
+        "en": "Bu şarkının ritmi neşeli."
+      },
+      {
+        "zh": "大家欢快地跳起了舞。",
+        "pinyin": "Dàjiā huānkuài de tiàoqǐle wǔ.",
+        "en": "Herkes neşeyle dans etmeye başladı."
+      },
+      {
+        "zh": "节日的气氛非常欢快。",
+        "pinyin": "Jiérì de qìfēn fēicháng huānkuài.",
+        "en": "Bayram havası çok neşeli."
+      },
+      {
+        "zh": "小鸟欢快地歌唱着。",
+        "pinyin": "Xiǎoniǎo huānkuài de gēchàngzhe.",
+        "en": "Küçük kuş neşeyle şarkı söylüyor."
+      }
+    ]
+  },
+  {
+    "id": "w3757",
+    "hanzi": "欢送",
+    "pinyin": "huānsòng",
+    "meaning": "uğurlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "同事们为他举行了欢送会。",
+        "pinyin": "Tóngshìmen wèi tā jǔxíngle huānsònghuì.",
+        "en": "İş arkadaşları onun için bir uğurlama töreni düzenledi."
+      },
+      {
+        "zh": "大家在机场欢送他出国留学。",
+        "pinyin": "Dàjiā zài jīchǎng huānsòng tā chūguó liúxué.",
+        "en": "Herkes onu yurt dışında okumaya gitmesi için havaalanında uğurladı."
+      },
+      {
+        "zh": "学校为退休老师举办了欢送仪式。",
+        "pinyin": "Xuéxiào wèi tuìxiū lǎoshī jǔbànle huānsòng yíshì.",
+        "en": "Okul emekli olan öğretmen için bir uğurlama töreni düzenledi."
+      },
+      {
+        "zh": "朋友们来车站欢送我。",
+        "pinyin": "Péngyoumen lái chēzhàn huānsòng wǒ.",
+        "en": "Arkadaşlarım beni istasyonda uğurlamaya geldi."
+      },
+      {
+        "zh": "大家依依不舍地欢送队伍出发。",
+        "pinyin": "Dàjiā yīyī bùshě de huānsòng duìwu chūfā.",
+        "en": "Herkes gönülsüzce ekibi yolcu etti."
+      }
+    ]
+  },
+  {
+    "id": "w3758",
+    "hanzi": "还击",
+    "pinyin": "huánjī",
+    "meaning": "karşı saldırıya geçmek, karşılık vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "敌人进攻后，我军立刻还击。",
+        "pinyin": "Dírén jìngōng hòu, wǒ jūn lìkè huánjī.",
+        "en": "Düşman saldırdıktan sonra ordumuz hemen karşı saldırıya geçti."
+      },
+      {
+        "zh": "面对对方的攻击，他冷静地进行了还击。",
+        "pinyin": "Miànduì duìfāng de gōngjī, tā lěngjìng de jìnxíngle huánjī.",
+        "en": "Rakibin saldırısı karşısında sakin bir şekilde karşılık verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3759",
+    "hanzi": "还价",
+    "pinyin": "huánjià",
+    "meaning": "pazarlık yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "买东西的时候他喜欢还价。",
+        "pinyin": "Mǎi dōngxi de shíhou tā xǐhuan huánjià.",
+        "en": "Alışveriş yaparken pazarlık yapmayı sever."
+      },
+      {
+        "zh": "这家店不允许还价。",
+        "pinyin": "Zhè jiā diàn bù yǔnxǔ huánjià.",
+        "en": "Bu dükkânda pazarlık yapmaya izin verilmiyor."
+      },
+      {
+        "zh": "他跟卖家还价，最后便宜了不少。",
+        "pinyin": "Tā gēn màijiā huánjià, zuìhòu piányile bù shǎo.",
+        "en": "Satıcıyla pazarlık yaptı, sonunda epey ucuza aldı."
+      },
+      {
+        "zh": "在市场上还价是很正常的。",
+        "pinyin": "Zài shìchǎng shàng huánjià shì hěn zhèngcháng de.",
+        "en": "Pazarda pazarlık yapmak çok normaldir."
+      },
+      {
+        "zh": "她擅长和商贩还价。",
+        "pinyin": "Tā shàncháng hé shāngfàn huánjià.",
+        "en": "Satıcılarla pazarlık yapmakta ustadır."
+      }
+    ]
+  },
+  {
+    "id": "w3760",
+    "hanzi": "还原",
+    "pinyin": "huányuán",
+    "meaning": "eski haline döndürmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "警方还原了案发现场。",
+        "pinyin": "Jǐngfāng huányuánle ànfā xiànchǎng.",
+        "en": "Polis olay yerini yeniden kurdu."
+      },
+      {
+        "zh": "这段视频还原了当时的情景。",
+        "pinyin": "Zhè duàn shìpín huányuánle dāngshí de qíngjǐng.",
+        "en": "Bu video o anki durumu yeniden canlandırdı."
+      },
+      {
+        "zh": "专家试图还原历史真相。",
+        "pinyin": "Zhuānjiā shìtú huányuán lìshǐ zhēnxiàng.",
+        "en": "Uzmanlar tarihsel gerçeği ortaya çıkarmaya çalışıyor."
+      },
+      {
+        "zh": "化学反应中，氧化物被还原成金属。",
+        "pinyin": "Huàxué fǎnyìng zhōng, yǎnghuàwù bèi huányuán chéng jīnshǔ.",
+        "en": "Kimyasal reaksiyonda oksit metale indirgeniyor."
+      },
+      {
+        "zh": "修复人员努力还原文物原貌。",
+        "pinyin": "Xiūfù rényuán nǔlì huányuán wénwù yuánmào.",
+        "en": "Restoratörler eserin orijinal görünümünü geri kazandırmaya çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3761",
+    "hanzi": "缓和",
+    "pinyin": "huǎnhé",
+    "meaning": "yumuşatmak, sakinleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "双方关系逐渐缓和。",
+        "pinyin": "Shuāngfāng guānxi zhújiàn huǎnhé.",
+        "en": "İki taraf arasındaki ilişki giderek yumuşadı."
+      },
+      {
+        "zh": "他试图缓和紧张的气氛。",
+        "pinyin": "Tā shìtú huǎnhé jǐnzhāng de qìfēn.",
+        "en": "Gergin havayı yumuşatmaya çalıştı."
+      },
+      {
+        "zh": "医生用药物缓和了病人的疼痛。",
+        "pinyin": "Yīshēng yòng yàowù huǎnhéle bìngrén de téngtòng.",
+        "en": "Doktor ilaçla hastanın ağrısını hafifletti."
+      },
+      {
+        "zh": "局势有所缓和。",
+        "pinyin": "Júshì yǒu suǒ huǎnhé.",
+        "en": "Durum biraz yumuşadı."
+      },
+      {
+        "zh": "这句话缓和了尴尬的场面。",
+        "pinyin": "Zhè jù huà huǎnhéle gāngà de chǎngmiàn.",
+        "en": "Bu söz garip ortamı yumuşattı."
+      }
+    ]
+  },
+  {
+    "id": "w3762",
+    "hanzi": "缓慢",
+    "pinyin": "huǎnmàn",
+    "meaning": "yavaş, ağır",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他走路的速度很缓慢。",
+        "pinyin": "Tā zǒulù de sùdù hěn huǎnmàn.",
+        "en": "Yürüme hızı çok yavaş."
+      },
+      {
+        "zh": "经济增长速度缓慢。",
+        "pinyin": "Jīngjì zēngzhǎng sùdù huǎnmàn.",
+        "en": "Ekonomik büyüme hızı yavaş."
+      },
+      {
+        "zh": "老人的动作变得缓慢。",
+        "pinyin": "Lǎorén de dòngzuò biàn de huǎnmàn.",
+        "en": "Yaşlı adamın hareketleri yavaşladı."
+      },
+      {
+        "zh": "病情恢复得比较缓慢。",
+        "pinyin": "Bìngqíng huīfù de bǐjiào huǎnmàn.",
+        "en": "Hastalık nispeten yavaş iyileşiyor."
+      },
+      {
+        "zh": "车辆缓慢地行驶在拥堵的道路上。",
+        "pinyin": "Chēliàng huǎnmàn de xíngshǐ zài yōngdǔ de dàolù shàng.",
+        "en": "Araç trafiği sıkışık yolda yavaşça ilerliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3763",
+    "hanzi": "患者",
+    "pinyin": "huànzhě",
+    "meaning": "hasta",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医院里有很多患者。",
+        "pinyin": "Yīyuàn lǐ yǒu hěn duō huànzhě.",
+        "en": "Hastanede birçok hasta var."
+      },
+      {
+        "zh": "这位患者需要马上手术。",
+        "pinyin": "Zhè wèi huànzhě xūyào mǎshàng shǒushù.",
+        "en": "Bu hastanın hemen ameliyat olması gerekiyor."
+      },
+      {
+        "zh": "医生每天要检查很多患者。",
+        "pinyin": "Yīshēng měitiān yào jiǎnchá hěn duō huànzhě.",
+        "en": "Doktor her gün birçok hastayı muayene eder."
+      },
+      {
+        "zh": "糖尿病患者要注意饮食。",
+        "pinyin": "Tángniàobìng huànzhě yào zhùyì yǐnshí.",
+        "en": "Şeker hastaları beslenmeye dikkat etmeli."
+      },
+      {
+        "zh": "患者的病情正在好转。",
+        "pinyin": "Huànzhě de bìngqíng zhèngzài hǎozhuǎn.",
+        "en": "Hastanın durumu iyiye gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3764",
+    "hanzi": "换取",
+    "pinyin": "huànqǔ",
+    "meaning": "takas etmek, karşılığında elde etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他用劳动换取报酬。",
+        "pinyin": "Tā yòng láodòng huànqǔ bàochou.",
+        "en": "Emeği karşılığında ücret elde ediyor."
+      },
+      {
+        "zh": "我们用旧物换取新东西。",
+        "pinyin": "Wǒmen yòng jiùwù huànqǔ xīn dōngxi.",
+        "en": "Eski eşyaları yenileriyle takas ediyoruz."
+      },
+      {
+        "zh": "他牺牲休息时间换取更多收入。",
+        "pinyin": "Tā xīshēng xiūxi shíjiān huànqǔ gèng duō shōurù.",
+        "en": "Dinlenme zamanından fedakârlık ederek daha fazla gelir elde ediyor."
+      },
+      {
+        "zh": "用积分可以换取礼品。",
+        "pinyin": "Yòng jīfēn kěyǐ huànqǔ lǐpǐn.",
+        "en": "Puanlarla hediye alınabilir."
+      },
+      {
+        "zh": "他用诚实换取了大家的信任。",
+        "pinyin": "Tā yòng chéngshí huànqǔle dàjiā de xìnrèn.",
+        "en": "Dürüstlüğüyle herkesin güvenini kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w3765",
+    "hanzi": "唤醒",
+    "pinyin": "huànxǐng",
+    "meaning": "uyandırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "闹钟把我唤醒了。",
+        "pinyin": "Nàozhōng bǎ wǒ huànxǐng le.",
+        "en": "Çalar saat beni uyandırdı."
+      },
+      {
+        "zh": "这本书唤醒了我对绘画的兴趣。",
+        "pinyin": "Zhè běn shū huànxǐngle wǒ duì huìhuà de xìngqù.",
+        "en": "Bu kitap resme olan ilgimi uyandırdı."
+      },
+      {
+        "zh": "他被一阵响声唤醒了。",
+        "pinyin": "Tā bèi yí zhèn xiǎngshēng huànxǐng le.",
+        "en": "Bir gürültü onu uyandırdı."
+      },
+      {
+        "zh": "这场演讲唤醒了大家的责任感。",
+        "pinyin": "Zhè chǎng yǎnjiǎng huànxǐngle dàjiā de zérèngǎn.",
+        "en": "Bu konuşma herkesin sorumluluk duygusunu uyandırdı."
+      },
+      {
+        "zh": "母亲轻轻地唤醒了熟睡的孩子。",
+        "pinyin": "Mǔqīn qīngqīng de huànxǐngle shúshuì de háizi.",
+        "en": "Anne derin uykudaki çocuğu yavaşça uyandırdı."
+      }
+    ]
   }
 ]

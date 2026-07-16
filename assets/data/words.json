@@ -145759,5 +145759,941 @@
         "en": "Ülkelerin askeri harcamaları birbirinden farklıdır."
       }
     ]
+  },
+  {
+    "id": "w4246",
+    "hanzi": "军工",
+    "pinyin": "jūngōng",
+    "meaning": "Askeri sanayi, savaş sanayii",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这家工厂是军工企业。",
+        "pinyin": "Zhè jiā gōngchǎng shì jūngōng qǐyè.",
+        "en": "Bu fabrika bir savunma sanayii şirketidir."
+      },
+      {
+        "zh": "军工技术发展很快。",
+        "pinyin": "Jūngōng jìshù fāzhǎn hěn kuài.",
+        "en": "Askeri sanayi teknolojisi hızla gelişiyor."
+      },
+      {
+        "zh": "他在军工部门工作。",
+        "pinyin": "Tā zài jūngōng bùmén gōngzuò.",
+        "en": "O, savunma sanayii biriminde çalışıyor."
+      },
+      {
+        "zh": "军工产品出口受到限制。",
+        "pinyin": "Jūngōng chǎnpǐn chūkǒu shòudào xiànzhì.",
+        "en": "Askeri ürünlerin ihracatı kısıtlanmıştır."
+      },
+      {
+        "zh": "这座城市以军工业闻名。",
+        "pinyin": "Zhè zuò chéngshì yǐ jūngōngyè wénmíng.",
+        "en": "Bu şehir savunma sanayisiyle ünlüdür."
+      }
+    ]
+  },
+  {
+    "id": "w4247",
+    "hanzi": "军火",
+    "pinyin": "jūnhuǒ",
+    "meaning": "Silah ve mühimmat, cephane",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方查获了一批军火。",
+        "pinyin": "Jǐngfāng cháhuò le yì pī jūnhuǒ.",
+        "en": "Polis bir parti silah ve mühimmat ele geçirdi."
+      },
+      {
+        "zh": "这个国家禁止军火交易。",
+        "pinyin": "Zhège guójiā jìnzhǐ jūnhuǒ jiāoyì.",
+        "en": "Bu ülke silah ticaretini yasaklıyor."
+      },
+      {
+        "zh": "军火商从战争中获利。",
+        "pinyin": "Jūnhuǒshāng cóng zhànzhēng zhōng huòlì.",
+        "en": "Silah tüccarları savaştan kâr elde ediyor."
+      },
+      {
+        "zh": "船上装满了军火。",
+        "pinyin": "Chuán shàng zhuāngmǎn le jūnhuǒ.",
+        "en": "Gemi silah ve mühimmatla doluydu."
+      },
+      {
+        "zh": "非法军火交易十分危险。",
+        "pinyin": "Fēifǎ jūnhuǒ jiāoyì shífēn wēixiǎn.",
+        "en": "Yasa dışı silah ticareti son derece tehlikelidir."
+      }
+    ]
+  },
+  {
+    "id": "w4248",
+    "hanzi": "军区",
+    "pinyin": "jūnqū",
+    "meaning": "Askeri bölge, askeri komutanlık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被调往南方军区。",
+        "pinyin": "Tā bèi diàowǎng nánfāng jūnqū.",
+        "en": "O, güney askeri bölgesine tayin edildi."
+      },
+      {
+        "zh": "这个军区负责边境防御。",
+        "pinyin": "Zhège jūnqū fùzé biānjìng fángyù.",
+        "en": "Bu askeri bölge sınır savunmasından sorumludur."
+      },
+      {
+        "zh": "军区司令部设在这里。",
+        "pinyin": "Jūnqū sīlìngbù shè zài zhèlǐ.",
+        "en": "Askeri bölge karargâhı burada bulunuyor."
+      },
+      {
+        "zh": "两个军区进行了联合演习。",
+        "pinyin": "Liǎng gè jūnqū jìnxíng le liánhé yǎnxí.",
+        "en": "İki askeri bölge ortak tatbikat yaptı."
+      },
+      {
+        "zh": "他在军区担任参谋。",
+        "pinyin": "Tā zài jūnqū dānrèn cānmóu.",
+        "en": "O, askeri bölgede kurmay olarak görev yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4249",
+    "hanzi": "军师",
+    "pinyin": "jūnshī",
+    "meaning": "Strateji uzmanı, danışman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是老板的军师。",
+        "pinyin": "Tā shì lǎobǎn de jūnshī.",
+        "en": "O, patronun baş danışmanıdır."
+      },
+      {
+        "zh": "诸葛亮是一位著名的军师。",
+        "pinyin": "Zhūgě Liàng shì yí wèi zhùmíng de jūnshī.",
+        "en": "Zhuge Liang ünlü bir stratejist idi."
+      },
+      {
+        "zh": "每次决策他都要请教军师。",
+        "pinyin": "Měi cì juécè tā dōu yào qǐngjiào jūnshī.",
+        "en": "Her kararda danışmanına fikir soruyor."
+      },
+      {
+        "zh": "他给球队当军师出谋划策。",
+        "pinyin": "Tā gěi qiúduì dāng jūnshī chūmóu-huàcè.",
+        "en": "Takıma stratejist olarak akıl veriyor."
+      },
+      {
+        "zh": "这位军师足智多谋。",
+        "pinyin": "Zhè wèi jūnshī zúzhì-duōmóu.",
+        "en": "Bu danışman son derece akıllı ve becerikli."
+      }
+    ]
+  },
+  {
+    "id": "w4250",
+    "hanzi": "军衔",
+    "pinyin": "jūnxián",
+    "meaning": "Askeri rütbe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他的军衔是上校。",
+        "pinyin": "Tā de jūnxián shì shàngxiào.",
+        "en": "Onun rütbesi albaydır."
+      },
+      {
+        "zh": "他因为立功被提升了军衔。",
+        "pinyin": "Tā yīnwèi lìgōng bèi tíshēng le jūnxián.",
+        "en": "Gösterdiği başarıdan dolayı rütbesi yükseltildi."
+      },
+      {
+        "zh": "不同军衔的军服有区别。",
+        "pinyin": "Bùtóng jūnxián de jūnfú yǒu qūbié.",
+        "en": "Farklı rütbelerin üniformaları birbirinden farklıdır."
+      },
+      {
+        "zh": "他军衔虽低,但很受尊敬。",
+        "pinyin": "Tā jūnxián suī dī, dàn hěn shòu zūnjìng.",
+        "en": "Rütbesi düşük olsa da çok saygı görüyor."
+      },
+      {
+        "zh": "军衔标志佩戴在肩上。",
+        "pinyin": "Jūnxián biāozhì pèidài zài jiān shàng.",
+        "en": "Rütbe işaretleri omuzda taşınır."
+      }
+    ]
+  },
+  {
+    "id": "w4251",
+    "hanzi": "军医",
+    "pinyin": "jūnyī",
+    "meaning": "Askeri doktor, tabip subay",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "军医给伤员做了手术。",
+        "pinyin": "Jūnyī gěi shāngyuán zuò le shǒushù.",
+        "en": "Askeri doktor yaralı askere ameliyat yaptı."
+      },
+      {
+        "zh": "他毕业后当了一名军医。",
+        "pinyin": "Tā bìyè hòu dāng le yì míng jūnyī.",
+        "en": "Mezun olduktan sonra askeri doktor oldu."
+      },
+      {
+        "zh": "军医随部队一起出发。",
+        "pinyin": "Jūnyī suí bùduì yìqǐ chūfā.",
+        "en": "Askeri doktor birlikle beraber yola çıktı."
+      },
+      {
+        "zh": "军医院里有很多军医。",
+        "pinyin": "Jūn yīyuàn lǐ yǒu hěn duō jūnyī.",
+        "en": "Askeri hastanede birçok askeri doktor var."
+      },
+      {
+        "zh": "军医的工作十分辛苦。",
+        "pinyin": "Jūnyī de gōngzuò shífēn xīnkǔ.",
+        "en": "Askeri doktorların işi oldukça yorucudur."
+      }
+    ]
+  },
+  {
+    "id": "w4252",
+    "hanzi": "军营",
+    "pinyin": "jūnyíng",
+    "meaning": "Askeri kışla, ordugâh",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "士兵们住在军营里。",
+        "pinyin": "Shìbīngmen zhù zài jūnyíng lǐ.",
+        "en": "Askerler kışlada kalıyor."
+      },
+      {
+        "zh": "新兵今天进入军营。",
+        "pinyin": "Xīnbīng jīntiān jìnrù jūnyíng.",
+        "en": "Acemi erler bugün kışlaya girdi."
+      },
+      {
+        "zh": "军营里的生活很规律。",
+        "pinyin": "Jūnyíng lǐ de shēnghuó hěn guīlǜ.",
+        "en": "Kışladaki yaşam çok düzenlidir."
+      },
+      {
+        "zh": "他们参观了这座军营。",
+        "pinyin": "Tāmen cānguān le zhè zuò jūnyíng.",
+        "en": "Bu kışlayı ziyaret ettiler."
+      },
+      {
+        "zh": "军营周围有高高的围墙。",
+        "pinyin": "Jūnyíng zhōuwéi yǒu gāogāo de wéiqiáng.",
+        "en": "Kışlanın etrafında yüksek duvarlar var."
+      }
+    ]
+  },
+  {
+    "id": "w4253",
+    "hanzi": "军装",
+    "pinyin": "jūnzhuāng",
+    "meaning": "Askeri üniforma",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "他穿着一身军装。",
+        "pinyin": "Tā chuānzhe yì shēn jūnzhuāng.",
+        "en": "Üzerinde askeri üniforma var."
+      },
+      {
+        "zh": "军装穿在身上很威武。",
+        "pinyin": "Jūnzhuāng chuān zài shēn shàng hěn wēiwǔ.",
+        "en": "Üniformayı giymek onu çok heybetli gösteriyor."
+      },
+      {
+        "zh": "士兵们领到了新军装。",
+        "pinyin": "Shìbīngmen lǐngdào le xīn jūnzhuāng.",
+        "en": "Askerler yeni üniformalarını aldılar."
+      },
+      {
+        "zh": "他脱下军装换上便服。",
+        "pinyin": "Tā tuōxià jūnzhuāng huàn shàng biànfú.",
+        "en": "Askeri üniformasını çıkarıp sivil kıyafet giydi."
+      },
+      {
+        "zh": "军装的颜色是墨绿色。",
+        "pinyin": "Jūnzhuāng de yánsè shì mòlǜsè.",
+        "en": "Askeri üniformanın rengi koyu yeşildir."
+      }
+    ]
+  },
+  {
+    "id": "w4254",
+    "hanzi": "龟裂",
+    "pinyin": "jūnliè",
+    "meaning": "Çatlamak (kuraklıktan toprak, cilt vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "干旱使土地龟裂。",
+        "pinyin": "Gānhàn shǐ tǔdì jūnliè.",
+        "en": "Kuraklık toprağın çatlamasına neden oldu."
+      },
+      {
+        "zh": "他的双手因寒冷而龟裂。",
+        "pinyin": "Tā de shuāngshǒu yīn hánlěng ér jūnliè.",
+        "en": "Elleri soğuktan çatladı."
+      },
+      {
+        "zh": "这片田地已经龟裂了。",
+        "pinyin": "Zhè piàn tiándì yǐjīng jūnliè le.",
+        "en": "Bu tarla artık çatlamış durumda."
+      },
+      {
+        "zh": "墙面龟裂需要修补。",
+        "pinyin": "Qiángmiàn jūnliè xūyào xiūbǔ.",
+        "en": "Duvardaki çatlaklar onarılmalı."
+      },
+      {
+        "zh": "长期缺水导致河床龟裂。",
+        "pinyin": "Chángqī quēshuǐ dǎozhì héchuáng jūnliè.",
+        "en": "Uzun süreli su eksikliği nehir yatağının çatlamasına yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w4255",
+    "hanzi": "君",
+    "pinyin": "jūn",
+    "meaning": "Hükümdar, kral; bey, efendi (hitap sözcüğü)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "古代君王掌握大权。",
+        "pinyin": "Gǔdài jūnwáng zhǎngwò dàquán.",
+        "en": "Eski çağ hükümdarları büyük güç elinde tutardı."
+      },
+      {
+        "zh": "请君入座。",
+        "pinyin": "Qǐng jūn rùzuò.",
+        "en": "Lütfen buyurun, oturun beyefendi."
+      },
+      {
+        "zh": "此事全凭君决定。",
+        "pinyin": "Cǐ shì quán píng jūn juédìng.",
+        "en": "Bu konu tamamen sizin kararınıza bağlı."
+      },
+      {
+        "zh": "君临天下,四方臣服。",
+        "pinyin": "Jūnlín tiānxià, sìfāng chénfú.",
+        "en": "Ülkeye hükmediyor, her yandan boyun eğiliyor."
+      },
+      {
+        "zh": "李君,好久不见。",
+        "pinyin": "Lǐ jūn, hǎojiǔ bú jiàn.",
+        "en": "Bay Li, uzun zamandır görüşemedik."
+      }
+    ]
+  },
+  {
+    "id": "w4256",
+    "hanzi": "君主",
+    "pinyin": "jūnzhǔ",
+    "meaning": "Hükümdar, kral, monark",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个国家实行君主制。",
+        "pinyin": "Zhège guójiā shíxíng jūnzhǔzhì.",
+        "en": "Bu ülke monarşi ile yönetiliyor."
+      },
+      {
+        "zh": "君主拥有最高权力。",
+        "pinyin": "Jūnzhǔ yōngyǒu zuìgāo quánlì.",
+        "en": "Hükümdar en yüksek güce sahiptir."
+      },
+      {
+        "zh": "新君主刚刚即位。",
+        "pinyin": "Xīn jūnzhǔ gānggāng jíwèi.",
+        "en": "Yeni hükümdar az önce tahta çıktı."
+      },
+      {
+        "zh": "现在很多国家已经没有君主了。",
+        "pinyin": "Xiànzài hěn duō guójiā yǐjīng méiyǒu jūnzhǔ le.",
+        "en": "Artık birçok ülkede hükümdar kalmadı."
+      },
+      {
+        "zh": "君主专制早已被废除。",
+        "pinyin": "Jūnzhǔ zhuānzhì zǎoyǐ bèi fèichú.",
+        "en": "Mutlak monarşi çoktan kaldırılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w4257",
+    "hanzi": "峻峭",
+    "pinyin": "jùnqiào",
+    "meaning": "Sarp, dik (dağ, kaya vb.)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这座山峰十分峻峭。",
+        "pinyin": "Zhè zuò shānfēng shífēn jùnqiào.",
+        "en": "Bu dağ zirvesi son derece sarptır."
+      },
+      {
+        "zh": "峻峭的悬崖令人望而生畏。",
+        "pinyin": "Jùnqiào de xuányá lìng rén wàng'érshēngwèi.",
+        "en": "Sarp uçurum insanı ürkütüyor."
+      },
+      {
+        "zh": "他们攀登了一座峻峭的山峰。",
+        "pinyin": "Tāmen pāndēng le yí zuò jùnqiào de shānfēng.",
+        "en": "Sarp bir dağ zirvesine tırmandılar."
+      },
+      {
+        "zh": "山路峻峭难行。",
+        "pinyin": "Shānlù jùnqiào nán xíng.",
+        "en": "Dağ yolu dik ve yürümesi zordur."
+      },
+      {
+        "zh": "峻峭的山脉横亘眼前。",
+        "pinyin": "Jùnqiào de shānmài hénggèn yǎnqián.",
+        "en": "Sarp dağ silsilesi önümüzde uzanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4258",
+    "hanzi": "骏马",
+    "pinyin": "jùnmǎ",
+    "meaning": "Küheylan, iyi cins at",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "他骑着一匹骏马。",
+        "pinyin": "Tā qízhe yì pǐ jùnmǎ.",
+        "en": "Bir küheylana biniyor."
+      },
+      {
+        "zh": "草原上奔驰着骏马。",
+        "pinyin": "Cǎoyuán shàng bēnchízhe jùnmǎ.",
+        "en": "Bozkırda küheylanlar dörtnala koşuyor."
+      },
+      {
+        "zh": "这匹骏马跑得飞快。",
+        "pinyin": "Zhè pǐ jùnmǎ pǎo de fēikuài.",
+        "en": "Bu küheylan çok hızlı koşuyor."
+      },
+      {
+        "zh": "英雄配骏马。",
+        "pinyin": "Yīngxióng pèi jùnmǎ.",
+        "en": "Kahramana küheylan yakışır."
+      },
+      {
+        "zh": "他花重金买了一匹骏马。",
+        "pinyin": "Tā huā zhòngjīn mǎi le yì pǐ jùnmǎ.",
+        "en": "Büyük bir para karşılığında bir küheylan satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4259",
+    "hanzi": "俊",
+    "pinyin": "jùn",
+    "meaning": "Yakışıklı",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个小伙子长得很俊。",
+        "pinyin": "Zhège xiǎohuǒzi zhǎng de hěn jùn.",
+        "en": "Bu delikanlı çok yakışıklı."
+      },
+      {
+        "zh": "她喜欢俊男美女。",
+        "pinyin": "Tā xǐhuan jùnnán měinǚ.",
+        "en": "Yakışıklı erkeklerden ve güzel kadınlardan hoşlanıyor."
+      },
+      {
+        "zh": "他是村里公认的俊后生。",
+        "pinyin": "Tā shì cūnlǐ gōngrèn de jùn hòushēng.",
+        "en": "Köyde herkesin kabul ettiği yakışıklı genç odur."
+      },
+      {
+        "zh": "俊俏的模样惹人喜爱。",
+        "pinyin": "Jùnqiào de múyàng rě rén xǐ'ài.",
+        "en": "Yakışıklı görünüşü insanları çekiyor."
+      },
+      {
+        "zh": "这幅画中的人物眉目清俊。",
+        "pinyin": "Zhè fú huà zhōng de rénwù méimù qīngjùn.",
+        "en": "Bu resimdeki kişinin yüz hatları güzel ve yakışıklı."
+      }
+    ]
+  },
+  {
+    "id": "w4260",
+    "hanzi": "卡",
+    "pinyin": "kǎ",
+    "meaning": "Kart; kalori",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Temel Kelimeler",
+    "examples": [
+      {
+        "zh": "请出示您的身份卡。",
+        "pinyin": "Qǐng chūshì nín de shēnfèn kǎ.",
+        "en": "Lütfen kimlik kartınızı gösterin."
+      },
+      {
+        "zh": "我用信用卡付款。",
+        "pinyin": "Wǒ yòng xìnyòngkǎ fùkuǎn.",
+        "en": "Ödemeyi kredi kartımla yapıyorum."
+      },
+      {
+        "zh": "这瓶饮料有多少卡热量?",
+        "pinyin": "Zhè píng yǐnliào yǒu duōshao kǎ rèliàng?",
+        "en": "Bu içecekte kaç kalori var?"
+      },
+      {
+        "zh": "他给我发了一张贺卡。",
+        "pinyin": "Tā gěi wǒ fā le yì zhāng hèkǎ.",
+        "en": "Bana bir tebrik kartı gönderdi."
+      },
+      {
+        "zh": "手机卡丢了要马上补办。",
+        "pinyin": "Shǒujī kǎ diū le yào mǎshàng bǔbàn.",
+        "en": "Telefon kartı kaybolduysa hemen yenisini çıkartmak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4261",
+    "hanzi": "卡片",
+    "pinyin": "kǎpiàn",
+    "meaning": "Kart",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "我做了一张生日卡片。",
+        "pinyin": "Wǒ zuò le yì zhāng shēngrì kǎpiàn.",
+        "en": "Bir doğum günü kartı yaptım."
+      },
+      {
+        "zh": "把地址写在卡片上。",
+        "pinyin": "Bǎ dìzhǐ xiě zài kǎpiàn shàng.",
+        "en": "Adresi kartın üzerine yaz."
+      },
+      {
+        "zh": "他收藏了很多明信卡片。",
+        "pinyin": "Tā shōucáng le hěn duō míngxìn kǎpiàn.",
+        "en": "Birçok kartpostal biriktirdi."
+      },
+      {
+        "zh": "这张卡片上写着我的名字。",
+        "pinyin": "Zhè zhāng kǎpiàn shàng xiězhe wǒ de míngzi.",
+        "en": "Bu kartın üzerinde adım yazıyor."
+      },
+      {
+        "zh": "老师用卡片教孩子们认字。",
+        "pinyin": "Lǎoshī yòng kǎpiàn jiāo háizimen rènzì.",
+        "en": "Öğretmen kartlar kullanarak çocuklara okuma öğretiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4262",
+    "hanzi": "卡通",
+    "pinyin": "kǎtōng",
+    "meaning": "Çizgi film",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "孩子们喜欢看卡通片。",
+        "pinyin": "Háizimen xǐhuan kàn kǎtōngpiàn.",
+        "en": "Çocuklar çizgi film izlemeyi sever."
+      },
+      {
+        "zh": "这是我最喜欢的卡通人物。",
+        "pinyin": "Zhè shì wǒ zuì xǐhuan de kǎtōng rénwù.",
+        "en": "Bu benim en sevdiğim çizgi film karakteri."
+      },
+      {
+        "zh": "他画卡通画得很好。",
+        "pinyin": "Tā huà kǎtōng huà de hěn hǎo.",
+        "en": "Çizgi film çizmede çok başarılı."
+      },
+      {
+        "zh": "这部卡通电影很受欢迎。",
+        "pinyin": "Zhè bù kǎtōng diànyǐng hěn shòu huānyíng.",
+        "en": "Bu çizgi film çok popüler."
+      },
+      {
+        "zh": "她的房间贴满了卡通海报。",
+        "pinyin": "Tā de fángjiān tiēmǎn le kǎtōng hǎibào.",
+        "en": "Odası çizgi film posterleriyle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w4263",
+    "hanzi": "开办",
+    "pinyin": "kāibàn",
+    "meaning": "Açmak, kurmak (okul, işletme vb.)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们开办了一所语言学校。",
+        "pinyin": "Tāmen kāibàn le yì suǒ yǔyán xuéxiào.",
+        "en": "Bir dil okulu kurdular."
+      },
+      {
+        "zh": "公司准备开办新的培训班。",
+        "pinyin": "Gōngsī zhǔnbèi kāibàn xīn de péixùnbān.",
+        "en": "Şirket yeni bir eğitim kursu açmaya hazırlanıyor."
+      },
+      {
+        "zh": "这家医院是去年开办的。",
+        "pinyin": "Zhè jiā yīyuàn shì qùnián kāibàn de.",
+        "en": "Bu hastane geçen yıl açıldı."
+      },
+      {
+        "zh": "他打算开办一家小超市。",
+        "pinyin": "Tā dǎsuàn kāibàn yì jiā xiǎo chāoshì.",
+        "en": "Küçük bir market açmayı düşünüyor."
+      },
+      {
+        "zh": "政府支持开办中小企业。",
+        "pinyin": "Zhèngfǔ zhīchí kāibàn zhōngxiǎo qǐyè.",
+        "en": "Hükümet küçük ve orta ölçekli işletmelerin kurulmasını destekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4264",
+    "hanzi": "开采",
+    "pinyin": "kāicǎi",
+    "meaning": "Çıkarmak, işletmek (maden, petrol vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这里正在开采煤矿。",
+        "pinyin": "Zhèlǐ zhèngzài kāicǎi méikuàng.",
+        "en": "Burada kömür madeni çıkarılıyor."
+      },
+      {
+        "zh": "石油开采需要先进设备。",
+        "pinyin": "Shíyóu kāicǎi xūyào xiānjìn shèbèi.",
+        "en": "Petrol çıkarma işlemi ileri teknolojiye ihtiyaç duyar."
+      },
+      {
+        "zh": "过度开采破坏了环境。",
+        "pinyin": "Guòdù kāicǎi pòhuài le huánjìng.",
+        "en": "Aşırı çıkarma çevreyi tahrip etti."
+      },
+      {
+        "zh": "这座矿山已经停止开采。",
+        "pinyin": "Zhè zuò kuàngshān yǐjīng tíngzhǐ kāicǎi.",
+        "en": "Bu maden ocağında çıkarma işlemi durduruldu."
+      },
+      {
+        "zh": "新技术提高了开采效率。",
+        "pinyin": "Xīn jìshù tígāo le kāicǎi xiàolǜ.",
+        "en": "Yeni teknoloji çıkarma verimliliğini artırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4265",
+    "hanzi": "开场",
+    "pinyin": "kāichǎng",
+    "meaning": "Başlamak (gösteri, oyun vb.)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "晚会马上就要开场了。",
+        "pinyin": "Wǎnhuì mǎshàng jiù yào kāichǎng le.",
+        "en": "Gece gösterisi hemen başlayacak."
+      },
+      {
+        "zh": "电影开场就很吸引人。",
+        "pinyin": "Diànyǐng kāichǎng jiù hěn xīyǐn rén.",
+        "en": "Filmin başlangıcı çok ilgi çekiciydi."
+      },
+      {
+        "zh": "主持人用一段笑话开场。",
+        "pinyin": "Zhǔchírén yòng yí duàn xiàohua kāichǎng.",
+        "en": "Sunucu bir fıkrayla programı açtı."
+      },
+      {
+        "zh": "比赛开场十分钟就进球了。",
+        "pinyin": "Bǐsài kāichǎng shí fēnzhōng jiù jìnqiú le.",
+        "en": "Maçın başlamasından on dakika sonra gol atıldı."
+      },
+      {
+        "zh": "开场白讲得很精彩。",
+        "pinyin": "Kāichǎngbái jiǎng de hěn jīngcǎi.",
+        "en": "Açılış konuşması çok etkileyiciydi."
+      }
+    ]
+  },
+  {
+    "id": "w4266",
+    "hanzi": "开车",
+    "pinyin": "kāichē",
+    "meaning": "Araba sürmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "你会开车吗?",
+        "pinyin": "Nǐ huì kāichē ma?",
+        "en": "Araba sürebiliyor musun?"
+      },
+      {
+        "zh": "他每天开车上班。",
+        "pinyin": "Tā měitiān kāichē shàngbān.",
+        "en": "Her gün arabayla işe gidiyor."
+      },
+      {
+        "zh": "请不要一边开车一边打电话。",
+        "pinyin": "Qǐng bú yào yìbiān kāichē yìbiān dǎ diànhuà.",
+        "en": "Lütfen araba sürerken telefonla konuşmayın."
+      },
+      {
+        "zh": "开车太快很危险。",
+        "pinyin": "Kāichē tài kuài hěn wēixiǎn.",
+        "en": "Çok hızlı araba sürmek tehlikelidir."
+      },
+      {
+        "zh": "我姐姐正在学开车。",
+        "pinyin": "Wǒ jiějie zhèngzài xué kāichē.",
+        "en": "Ablam araba sürmeyi öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w4267",
+    "hanzi": "开除",
+    "pinyin": "kāichú",
+    "meaning": "Kovmak, atmak (okuldan, işten)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他因为迟到被公司开除了。",
+        "pinyin": "Tā yīnwèi chídào bèi gōngsī kāichú le.",
+        "en": "Geç kaldığı için şirketten kovuldu."
+      },
+      {
+        "zh": "作弊的学生会被开除学籍。",
+        "pinyin": "Zuòbì de xuésheng huì bèi kāichú xuéjí.",
+        "en": "Kopya çeken öğrenciler okuldan atılır."
+      },
+      {
+        "zh": "公司决定开除那名员工。",
+        "pinyin": "Gōngsī juédìng kāichú nà míng yuángōng.",
+        "en": "Şirket o çalışanı kovmaya karar verdi."
+      },
+      {
+        "zh": "他被开除后一直没找到工作。",
+        "pinyin": "Tā bèi kāichú hòu yìzhí méi zhǎodào gōngzuò.",
+        "en": "Kovulduktan sonra hâlâ iş bulamadı."
+      },
+      {
+        "zh": "严重违反规定会遭到开除。",
+        "pinyin": "Yánzhòng wéifǎn guīdìng huì zāodào kāichú.",
+        "en": "Kuralları ciddi biçimde çiğnemek işten atılmaya yol açar."
+      }
+    ]
+  },
+  {
+    "id": "w4268",
+    "hanzi": "开创",
+    "pinyin": "kāichuàng",
+    "meaning": "Kurmak, başlatmak, öncülük etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他开创了一个新的时代。",
+        "pinyin": "Tā kāichuàng le yí gè xīn de shídài.",
+        "en": "Yeni bir çağ başlattı."
+      },
+      {
+        "zh": "这项技术开创了新的可能性。",
+        "pinyin": "Zhè xiàng jìshù kāichuàng le xīn de kěnéngxìng.",
+        "en": "Bu teknoloji yeni olanaklar yarattı."
+      },
+      {
+        "zh": "他们共同开创了这家公司。",
+        "pinyin": "Tāmen gòngtóng kāichuàng le zhè jiā gōngsī.",
+        "en": "Bu şirketi birlikte kurdular."
+      },
+      {
+        "zh": "他为艺术开创了新的风格。",
+        "pinyin": "Tā wèi yìshù kāichuàng le xīn de fēnggé.",
+        "en": "Sanat için yeni bir tarz yarattı."
+      },
+      {
+        "zh": "科学家们开创了这个研究领域。",
+        "pinyin": "Kēxuéjiāmen kāichuàng le zhège yánjiū lǐngyù.",
+        "en": "Bilim insanları bu araştırma alanını başlattı."
+      }
+    ]
+  },
+  {
+    "id": "w4269",
+    "hanzi": "开刀",
+    "pinyin": "kāidāo",
+    "meaning": "Ameliyat olmak/etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生决定给他开刀。",
+        "pinyin": "Yīshēng juédìng gěi tā kāidāo.",
+        "en": "Doktor onu ameliyat etmeye karar verdi."
+      },
+      {
+        "zh": "他明天要开刀。",
+        "pinyin": "Tā míngtiān yào kāidāo.",
+        "en": "Yarın ameliyat olacak."
+      },
+      {
+        "zh": "开刀之后需要好好休养。",
+        "pinyin": "Kāidāo zhīhòu xūyào hǎohǎo xiūyǎng.",
+        "en": "Ameliyattan sonra iyi dinlenmek gerekir."
+      },
+      {
+        "zh": "他很害怕开刀。",
+        "pinyin": "Tā hěn hàipà kāidāo.",
+        "en": "Ameliyattan çok korkuyor."
+      },
+      {
+        "zh": "这次改革先拿财政开刀。",
+        "pinyin": "Zhè cì gǎigé xiān ná cáizhèng kāidāo.",
+        "en": "Bu reformda önce maliyeye el atıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4270",
+    "hanzi": "开口",
+    "pinyin": "kāikǒu",
+    "meaning": "Ağzını açmak, konuşmaya başlamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他半天没有开口。",
+        "pinyin": "Tā bàntiān méiyǒu kāikǒu.",
+        "en": "Uzun süre ağzını açmadı."
+      },
+      {
+        "zh": "我不好意思开口借钱。",
+        "pinyin": "Wǒ bù hǎoyìsi kāikǒu jiè qián.",
+        "en": "Para istemeye utanıyorum."
+      },
+      {
+        "zh": "他终于开口说了实话。",
+        "pinyin": "Tā zhōngyú kāikǒu shuō le shíhuà.",
+        "en": "Sonunda ağzını açıp gerçeği söyledi."
+      },
+      {
+        "zh": "她一开口就哭了。",
+        "pinyin": "Tā yì kāikǒu jiù kū le.",
+        "en": "Konuşmaya başlar başlamaz ağladı."
+      },
+      {
+        "zh": "在会上没人敢开口。",
+        "pinyin": "Zài huì shàng méi rén gǎn kāikǒu.",
+        "en": "Toplantıda kimse konuşmaya cesaret edemedi."
+      }
+    ]
+  },
+  {
+    "id": "w4271",
+    "hanzi": "开阔",
+    "pinyin": "kāikuò",
+    "meaning": "Geniş, açık; (görüş, düşünce vb.) genişletmek",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这里视野很开阔。",
+        "pinyin": "Zhèlǐ shìyě hěn kāikuò.",
+        "en": "Buradan manzara çok geniş."
+      },
+      {
+        "zh": "旅行可以开阔眼界。",
+        "pinyin": "Lǚxíng kěyǐ kāikuò yǎnjiè.",
+        "en": "Seyahat ufku genişletebilir."
+      },
+      {
+        "zh": "他性格开阔,不斤斤计较。",
+        "pinyin": "Tā xìnggé kāikuò, bù jīnjīn-jìjiào.",
+        "en": "Karakteri açık fikirli, küçük hesaplar yapmaz."
+      },
+      {
+        "zh": "站在山顶,视野格外开阔。",
+        "pinyin": "Zhàn zài shāndǐng, shìyě géwài kāikuò.",
+        "en": "Dağın tepesinde durunca manzara çok daha geniş görünüyor."
+      },
+      {
+        "zh": "读书能开阔思路。",
+        "pinyin": "Dúshū néng kāikuò sīlù.",
+        "en": "Kitap okumak düşünce ufkunu genişletebilir."
+      }
+    ]
   }
 ]

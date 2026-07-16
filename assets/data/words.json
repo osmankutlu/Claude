@@ -158539,5 +158539,617 @@
         "en": "Bu antik şehir tarih boyunca hep siyasi merkez olmuştur."
       }
     ]
+  },
+  {
+    "id": "w4601",
+    "hanzi": "立",
+    "pinyin": "lì",
+    "meaning": "Ayağa kalkmak, dikilmek; kurmak, inşa etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他站立在门口。",
+        "pinyin": "Tā zhànlì zài ménkǒu.",
+        "en": "Kapının önünde dikiliyor."
+      },
+      {
+        "zh": "他们立了一块纪念碑。",
+        "pinyin": "Tāmen lì le yí kuài jìniànbēi.",
+        "en": "Bir anıt diktiler."
+      },
+      {
+        "zh": "国家于1949年成立。",
+        "pinyin": "Guójiā yú yījiǔsìjiǔ nián chénglì.",
+        "en": "Devlet 1949 yılında kuruldu."
+      },
+      {
+        "zh": "他立志成为一名医生。",
+        "pinyin": "Tā lìzhì chéngwéi yì míng yīshēng.",
+        "en": "Doktor olmaya azmetti."
+      },
+      {
+        "zh": "这个规定已经立了法。",
+        "pinyin": "Zhège guīdìng yǐjīng lì le fǎ.",
+        "en": "Bu kural zaten yasalaştırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4602",
+    "hanzi": "立场",
+    "pinyin": "lìchǎng",
+    "meaning": "Duruş, tutum, pozisyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他坚持自己的立场。",
+        "pinyin": "Tā jiānchí zìjǐ de lìchǎng.",
+        "en": "Kendi tutumunda ısrar ediyor."
+      },
+      {
+        "zh": "我们要站在客观的立场看问题。",
+        "pinyin": "Wǒmen yào zhàn zài kèguān de lìchǎng kàn wèntí.",
+        "en": "Sorunlara tarafsız bir bakış açısıyla bakmalıyız."
+      },
+      {
+        "zh": "他改变了自己的政治立场。",
+        "pinyin": "Tā gǎibiàn le zìjǐ de zhèngzhì lìchǎng.",
+        "en": "Kendi siyasi tutumunu değiştirdi."
+      },
+      {
+        "zh": "他的立场十分坚定。",
+        "pinyin": "Tā de lìchǎng shífēn jiāndìng.",
+        "en": "Tutumu son derece kararlı."
+      },
+      {
+        "zh": "双方立场不同,谈判陷入僵局。",
+        "pinyin": "Shuāngfāng lìchǎng bùtóng, tánpàn xiànrù jiāngjú.",
+        "en": "İki tarafın tutumu farklı olduğu için müzakereler çıkmaza girdi."
+      }
+    ]
+  },
+  {
+    "id": "w4603",
+    "hanzi": "立法",
+    "pinyin": "lìfǎ",
+    "meaning": "Yasama, kanun yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国会负责立法工作。",
+        "pinyin": "Guóhuì fùzé lìfǎ gōngzuò.",
+        "en": "Meclis yasama işlerinden sorumludur."
+      },
+      {
+        "zh": "政府正在推动新的立法。",
+        "pinyin": "Zhèngfǔ zhèngzài tuīdòng xīn de lìfǎ.",
+        "en": "Hükümet yeni bir yasa çalışmasını hızlandırıyor."
+      },
+      {
+        "zh": "环保立法保护了自然资源。",
+        "pinyin": "Huánbǎo lìfǎ bǎohù le zìrán zīyuán.",
+        "en": "Çevre koruma yasası doğal kaynakları korudu."
+      },
+      {
+        "zh": "这是一项重要的立法程序。",
+        "pinyin": "Zhè shì yí xiàng zhòngyào de lìfǎ chéngxù.",
+        "en": "Bu önemli bir yasama sürecidir."
+      },
+      {
+        "zh": "立法机关审议了这项法案。",
+        "pinyin": "Lìfǎ jīguān shěnyì le zhè xiàng fǎ'àn.",
+        "en": "Yasama organı bu yasa tasarısını görüştü."
+      }
+    ]
+  },
+  {
+    "id": "w4604",
+    "hanzi": "立交桥",
+    "pinyin": "lìjiāoqiáo",
+    "meaning": "Üst geçit, kavşak köprüsü",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这座立交桥缓解了交通拥堵。",
+        "pinyin": "Zhè zuò lìjiāoqiáo huǎnjiě le jiāotōng yōngdǔ.",
+        "en": "Bu üst geçit trafik sıkışıklığını hafifletti."
+      },
+      {
+        "zh": "他在立交桥下等车。",
+        "pinyin": "Tā zài lìjiāoqiáo xià děng chē.",
+        "en": "Üst geçidin altında araç bekliyordu."
+      },
+      {
+        "zh": "这个城市新建了一座立交桥。",
+        "pinyin": "Zhège chéngshì xīnjiàn le yí zuò lìjiāoqiáo.",
+        "en": "Bu şehirde yeni bir üst geçit inşa edildi."
+      },
+      {
+        "zh": "立交桥上车辆川流不息。",
+        "pinyin": "Lìjiāoqiáo shàng chēliàng chuānliú-bùxī.",
+        "en": "Üst geçitte araçlar durmadan akıyor."
+      },
+      {
+        "zh": "从立交桥下面走比较快。",
+        "pinyin": "Cóng lìjiāoqiáo xiàmiàn zǒu bǐjiào kuài.",
+        "en": "Üst geçidin altından yürümek daha hızlı."
+      }
+    ]
+  },
+  {
+    "id": "w4605",
+    "hanzi": "立体",
+    "pinyin": "lìtǐ",
+    "meaning": "Üç boyutlu",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这是一个立体图形。",
+        "pinyin": "Zhè shì yí gè lìtǐ túxíng.",
+        "en": "Bu üç boyutlu bir şekildir."
+      },
+      {
+        "zh": "他们戴上眼镜看立体电影。",
+        "pinyin": "Tāmen dàishàng yǎnjìng kàn lìtǐ diànyǐng.",
+        "en": "Gözlüklerini takıp üç boyutlu film izlediler."
+      },
+      {
+        "zh": "这幅画有很强的立体感。",
+        "pinyin": "Zhè fú huà yǒu hěn qiáng de lìtǐgǎn.",
+        "en": "Bu resimde güçlü bir üç boyutluluk hissi var."
+      },
+      {
+        "zh": "立体停车场节省了空间。",
+        "pinyin": "Lìtǐ tíngchēchǎng jiéshěng le kōngjiān.",
+        "en": "Katlı otopark alandan tasarruf sağladı."
+      },
+      {
+        "zh": "他用立体思维分析问题。",
+        "pinyin": "Tā yòng lìtǐ sīwéi fēnxī wèntí.",
+        "en": "Sorunu çok yönlü bir düşünceyle analiz ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w4606",
+    "hanzi": "立正",
+    "pinyin": "lìzhèng",
+    "meaning": "Hazır ol (askeri komut)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "教官喊道:立正!",
+        "pinyin": "Jiàoguān hǎndào: Lìzhèng!",
+        "en": "Eğitmen 'Hazır ol!' diye bağırdı."
+      },
+      {
+        "zh": "士兵们迅速立正站好。",
+        "pinyin": "Shìbīngmen xùnsù lìzhèng zhàn hǎo.",
+        "en": "Askerler hızla hazır ol pozisyonuna geçti."
+      },
+      {
+        "zh": "听到口令,他立即立正。",
+        "pinyin": "Tīngdào kǒulìng, tā lìjí lìzhèng.",
+        "en": "Komutu duyunca hemen hazır ol vaziyeti aldı."
+      },
+      {
+        "zh": "他们练习了立正和敬礼的动作。",
+        "pinyin": "Tāmen liànxí le lìzhèng hé jìnglǐ de dòngzuò.",
+        "en": "Hazır ol ve selam verme hareketlerini pratik yaptılar."
+      },
+      {
+        "zh": "全体人员立正,准备接受检阅。",
+        "pinyin": "Quántǐ rényuán lìzhèng, zhǔnbèi jiēshòu jiǎnyuè.",
+        "en": "Tüm personel hazır ol duruşuna geçti, denetime hazırlanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4607",
+    "hanzi": "立志",
+    "pinyin": "lìzhì",
+    "meaning": "Azmetmek, karar vermek (bir hedefe)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他从小立志当一名科学家。",
+        "pinyin": "Tā cóngxiǎo lìzhì dāng yì míng kēxuéjiā.",
+        "en": "Küçüklüğünden beri bilim insanı olmaya azmetmiş."
+      },
+      {
+        "zh": "她立志成为一名优秀的教师。",
+        "pinyin": "Tā lìzhì chéngwéi yì míng yōuxiù de jiàoshī.",
+        "en": "İyi bir öğretmen olmaya azmetti."
+      },
+      {
+        "zh": "他立志改变自己的命运。",
+        "pinyin": "Tā lìzhì gǎibiàn zìjǐ de mìngyùn.",
+        "en": "Kendi kaderini değiştirmeye karar verdi."
+      },
+      {
+        "zh": "青年时期他就立志报效国家。",
+        "pinyin": "Qīngnián shíqī tā jiù lìzhì bàoxiào guójiā.",
+        "en": "Gençliğinde ülkesine hizmet etmeye azmetmişti."
+      },
+      {
+        "zh": "他立志要成为最好的运动员。",
+        "pinyin": "Tā lìzhì yào chéngwéi zuì hǎo de yùndòngyuán.",
+        "en": "En iyi sporcu olmaya azmetti."
+      }
+    ]
+  },
+  {
+    "id": "w4608",
+    "hanzi": "粒子",
+    "pinyin": "lìzǐ",
+    "meaning": "Parçacık, tanecik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "科学家研究基本粒子。",
+        "pinyin": "Kēxuéjiā yánjiū jīběn lìzǐ.",
+        "en": "Bilim insanları temel parçacıkları araştırıyor."
+      },
+      {
+        "zh": "灰尘粒子在空气中飘浮。",
+        "pinyin": "Huīchén lìzǐ zài kōngqì zhōng piāofú.",
+        "en": "Toz zerreleri havada süzülüyor."
+      },
+      {
+        "zh": "粒子加速器是重要的科研设备。",
+        "pinyin": "Lìzǐ jiāsùqì shì zhòngyào de kēyán shèbèi.",
+        "en": "Parçacık hızlandırıcı önemli bir araştırma cihazıdır."
+      },
+      {
+        "zh": "光具有波和粒子的双重性质。",
+        "pinyin": "Guāng jùyǒu bō hé lìzǐ de shuāngchóng xìngzhì.",
+        "en": "Işık hem dalga hem parçacık özelliğine sahiptir."
+      },
+      {
+        "zh": "这些微小粒子对人体有害。",
+        "pinyin": "Zhèxiē wēixiǎo lìzǐ duì réntǐ yǒuhài.",
+        "en": "Bu mikro parçacıklar insan vücuduna zararlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4609",
+    "hanzi": "栗",
+    "pinyin": "lì",
+    "meaning": "Kestane",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "秋天是栗子成熟的季节。",
+        "pinyin": "Qiūtiān shì lìzi chéngshú de jìjié.",
+        "en": "Sonbahar kestanenin olgunlaştığı mevsimdir."
+      },
+      {
+        "zh": "糖炒栗子非常香甜。",
+        "pinyin": "Táng chǎo lìzi fēicháng xiāngtián.",
+        "en": "Şekerle kavrulmuş kestane çok tatlı ve lezzetli."
+      },
+      {
+        "zh": "他捡起了地上的栗子。",
+        "pinyin": "Tā jiǎnqǐ le dìshàng de lìzi.",
+        "en": "Yerdeki kestaneyi topladı."
+      },
+      {
+        "zh": "妈妈用栗子做了甜品。",
+        "pinyin": "Māma yòng lìzi zuò le tiánpǐn.",
+        "en": "Annem kestaneyle bir tatlı yaptı."
+      },
+      {
+        "zh": "这道菜里加了几颗栗子。",
+        "pinyin": "Zhè dào cài lǐ jiā le jǐ kē lìzi.",
+        "en": "Bu yemeğe birkaç kestane eklendi."
+      }
+    ]
+  },
+  {
+    "id": "w4610",
+    "hanzi": "例",
+    "pinyin": "lì",
+    "meaning": "Örnek, emsal",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请举个例来说明一下。",
+        "pinyin": "Qǐng jǔ gè lì lái shuōmíng yíxià.",
+        "en": "Lütfen bir örnek vererek açıklayın."
+      },
+      {
+        "zh": "这是一个成功的例子。",
+        "pinyin": "Zhè shì yí gè chénggōng de lìzi.",
+        "en": "Bu başarılı bir örnektir."
+      },
+      {
+        "zh": "他打破了旧例,做出了新的决定。",
+        "pinyin": "Tā dǎpò le jiùlì, zuòchū le xīn de juédìng.",
+        "en": "Eski usulü bozup yeni bir karar verdi."
+      },
+      {
+        "zh": "这样的例子并不少见。",
+        "pinyin": "Zhèyàng de lìzi bìng bù shǎojiàn.",
+        "en": "Bu tür örnekler az görülmez."
+      },
+      {
+        "zh": "他破例让我提前离开。",
+        "pinyin": "Tā pòlì ràng wǒ tíqián líkāi.",
+        "en": "İstisna olarak erken ayrılmama izin verdi."
+      }
+    ]
+  },
+  {
+    "id": "w4611",
+    "hanzi": "例句",
+    "pinyin": "lìjù",
+    "meaning": "Örnek cümle",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "老师给了我们几个例句。",
+        "pinyin": "Lǎoshī gěi le wǒmen jǐ gè lìjù.",
+        "en": "Öğretmen bize birkaç örnek cümle verdi."
+      },
+      {
+        "zh": "请用这个词造一个例句。",
+        "pinyin": "Qǐng yòng zhège cí zào yí gè lìjù.",
+        "en": "Lütfen bu kelimeyle bir örnek cümle kurun."
+      },
+      {
+        "zh": "词典里有很多有用的例句。",
+        "pinyin": "Cídiǎn lǐ yǒu hěn duō yǒuyòng de lìjù.",
+        "en": "Sözlükte birçok faydalı örnek cümle var."
+      },
+      {
+        "zh": "他记住了课本上的所有例句。",
+        "pinyin": "Tā jìzhù le kèběn shàng de suǒyǒu lìjù.",
+        "en": "Ders kitabındaki tüm örnek cümleleri ezberledi."
+      },
+      {
+        "zh": "通过例句更容易理解语法。",
+        "pinyin": "Tōngguò lìjù gèng róngyì lǐjiě yǔfǎ.",
+        "en": "Örnek cümleler sayesinde grameri anlamak daha kolay oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w4612",
+    "hanzi": "例外",
+    "pinyin": "lìwài",
+    "meaning": "İstisna",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这条规则没有例外。",
+        "pinyin": "Zhè tiáo guīzé méiyǒu lìwài.",
+        "en": "Bu kuralın istisnası yoktur."
+      },
+      {
+        "zh": "他是这个规则的例外。",
+        "pinyin": "Tā shì zhège guīzé de lìwài.",
+        "en": "O bu kuralın istisnasıdır."
+      },
+      {
+        "zh": "每个人都要遵守规定,没有例外。",
+        "pinyin": "Měi gè rén dōu yào zūnshǒu guīdìng, méiyǒu lìwài.",
+        "en": "Herkes kurallara uymalı, istisnasız."
+      },
+      {
+        "zh": "这次考试不会有任何例外。",
+        "pinyin": "Zhè cì kǎoshì bú huì yǒu rènhé lìwài.",
+        "en": "Bu sınavda hiçbir istisna olmayacak."
+      },
+      {
+        "zh": "对特殊情况,我们可以适当例外处理。",
+        "pinyin": "Duì tèshū qíngkuàng, wǒmen kěyǐ shìdàng lìwài chǔlǐ.",
+        "en": "Özel durumlarda uygun bir istisna uygulayabiliriz."
+      }
+    ]
+  },
+  {
+    "id": "w4613",
+    "hanzi": "例子",
+    "pinyin": "lìzi",
+    "meaning": "Örnek",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请举一个例子说明。",
+        "pinyin": "Qǐng jǔ yí gè lìzi shuōmíng.",
+        "en": "Lütfen bir örnek vererek açıklayın."
+      },
+      {
+        "zh": "他就是一个很好的例子。",
+        "pinyin": "Tā jiùshì yí gè hěn hǎo de lìzi.",
+        "en": "O gerçekten iyi bir örnek."
+      },
+      {
+        "zh": "这个例子很有说服力。",
+        "pinyin": "Zhège lìzi hěn yǒu shuōfúlì.",
+        "en": "Bu örnek oldukça ikna edici."
+      },
+      {
+        "zh": "老师用一个简单的例子解释了这个概念。",
+        "pinyin": "Lǎoshī yòng yí gè jiǎndān de lìzi jiěshì le zhège gàiniàn.",
+        "en": "Öğretmen bu kavramı basit bir örnekle açıkladı."
+      },
+      {
+        "zh": "这样的例子很常见。",
+        "pinyin": "Zhèyàng de lìzi hěn chángjiàn.",
+        "en": "Bu tür örnekler oldukça yaygındır."
+      }
+    ]
+  },
+  {
+    "id": "w4614",
+    "hanzi": "沥青",
+    "pinyin": "lìqīng",
+    "meaning": "Zift, asfalt",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工人们正在铺沥青路面。",
+        "pinyin": "Gōngrénmen zhèngzài pū lìqīng lùmiàn.",
+        "en": "İşçiler asfalt yol döşüyor."
+      },
+      {
+        "zh": "这条路的沥青已经老化开裂。",
+        "pinyin": "Zhè tiáo lù de lìqīng yǐjīng lǎohuà kāiliè.",
+        "en": "Bu yolun asfaltı eskimiş ve çatlamış."
+      },
+      {
+        "zh": "沥青在高温下会变得柔软。",
+        "pinyin": "Lìqīng zài gāowēn xià huì biàn de róuruǎn.",
+        "en": "Asfalt yüksek sıcaklıkta yumuşar."
+      },
+      {
+        "zh": "这批沥青用于道路修建。",
+        "pinyin": "Zhè pī lìqīng yòngyú dàolù xiūjiàn.",
+        "en": "Bu asfalt partisi yol inşaatında kullanılıyor."
+      },
+      {
+        "zh": "沥青的气味十分刺鼻。",
+        "pinyin": "Lìqīng de qìwèi shífēn cìbí.",
+        "en": "Asfaltın kokusu oldukça keskindir."
+      }
+    ]
+  },
+  {
+    "id": "w4615",
+    "hanzi": "荔枝",
+    "pinyin": "lìzhī",
+    "meaning": "Liçi (tropikal meyve)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "荔枝的味道甜美多汁。",
+        "pinyin": "Lìzhī de wèidao tiánměi duōzhī.",
+        "en": "Liçinin tadı tatlı ve sulu."
+      },
+      {
+        "zh": "这个季节荔枝很便宜。",
+        "pinyin": "Zhège jìjié lìzhī hěn piányi.",
+        "en": "Bu mevsimde liçi çok ucuz."
+      },
+      {
+        "zh": "杨贵妃喜欢吃荔枝。",
+        "pinyin": "Yáng Guìfēi xǐhuan chī lìzhī.",
+        "en": "Yang Guifei liçi yemeyi severdi."
+      },
+      {
+        "zh": "我买了一箱新鲜的荔枝。",
+        "pinyin": "Wǒ mǎi le yì xiāng xīnxiān de lìzhī.",
+        "en": "Bir kutu taze liçi satın aldım."
+      },
+      {
+        "zh": "荔枝不能吃太多,容易上火。",
+        "pinyin": "Lìzhī bùnéng chī tài duō, róngyì shànghuǒ.",
+        "en": "Liçi çok fazla yenilmemeli, kolayca vücutta ısınmaya neden olur."
+      }
+    ]
+  },
+  {
+    "id": "w4616",
+    "hanzi": "励志",
+    "pinyin": "lìzhì",
+    "meaning": "Motive edici, kendini geliştirmeye teşvik eden",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是一本励志书籍。",
+        "pinyin": "Zhè shì yì běn lìzhì shūjí.",
+        "en": "Bu motivasyon veren bir kitap."
+      },
+      {
+        "zh": "他的故事非常励志。",
+        "pinyin": "Tā de gùshi fēicháng lìzhì.",
+        "en": "Onun hikayesi son derece ilham verici."
+      },
+      {
+        "zh": "这部电影传递了励志的信息。",
+        "pinyin": "Zhè bù diànyǐng chuándì le lìzhì de xìnxī.",
+        "en": "Bu film motive edici bir mesaj veriyor."
+      },
+      {
+        "zh": "他喜欢听励志演讲。",
+        "pinyin": "Tā xǐhuan tīng lìzhì yǎnjiǎng.",
+        "en": "Motivasyon konuşmaları dinlemeyi sever."
+      },
+      {
+        "zh": "这句励志名言激励了很多人。",
+        "pinyin": "Zhè jù lìzhì míngyán jīlì le hěn duō rén.",
+        "en": "Bu ilham verici söz birçok insanı motive etti."
+      }
+    ]
+  },
+  {
+    "id": "w4617",
+    "hanzi": "隶属",
+    "pinyin": "lìshǔ",
+    "meaning": "Bağlı olmak, tabi olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个部门隶属于教育局。",
+        "pinyin": "Zhège bùmén lìshǔyú jiàoyùjú.",
+        "en": "Bu birim eğitim müdürlüğüne bağlıdır."
+      },
+      {
+        "zh": "这座城市隶属哪个省?",
+        "pinyin": "Zhè zuò chéngshì lìshǔ nǎge shěng?",
+        "en": "Bu şehir hangi eyalete bağlıdır?"
+      },
+      {
+        "zh": "该公司隶属一家大型集团。",
+        "pinyin": "Gāi gōngsī lìshǔ yì jiā dàxíng jítuán.",
+        "en": "Bu şirket büyük bir gruba bağlıdır."
+      },
+      {
+        "zh": "这支球队隶属于本地体育局。",
+        "pinyin": "Zhè zhī qiúduì lìshǔyú běndì tǐyùjú.",
+        "en": "Bu takım yerel spor müdürlüğüne bağlıdır."
+      },
+      {
+        "zh": "这个村庄隶属邻县管辖。",
+        "pinyin": "Zhège cūnzhuāng lìshǔ lín xiàn guǎnxiá.",
+        "en": "Bu köy komşu ilçenin idaresine bağlıdır."
+      }
+    ]
   }
 ]

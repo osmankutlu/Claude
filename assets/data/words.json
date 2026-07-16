@@ -138982,5 +138982,839 @@
         "en": "Nehir suyu buz tuttu, artık buz pateni yapılabilir."
       }
     ]
+  },
+  {
+    "id": "w4054",
+    "hanzi": "姐",
+    "pinyin": "jiě",
+    "meaning": "abla, kız kardeş",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "我姐比我大两岁。",
+        "pinyin": "Wǒ jiě bǐ wǒ dà liǎng suì.",
+        "en": "Ablam benden iki yaş büyük."
+      },
+      {
+        "zh": "姐，你在做什么？",
+        "pinyin": "Jiě, nǐ zài zuò shénme?",
+        "en": "Abla, ne yapıyorsun?"
+      },
+      {
+        "zh": "我姐今天来看我了。",
+        "pinyin": "Wǒ jiě jīntiān lái kàn wǒ le.",
+        "en": "Ablam bugün beni ziyarete geldi."
+      },
+      {
+        "zh": "她是我最好的姐。",
+        "pinyin": "Tā shì wǒ zuì hǎo de jiě.",
+        "en": "O benim en iyi ablam."
+      },
+      {
+        "zh": "我有一个姐和一个弟弟。",
+        "pinyin": "Wǒ yǒu yí ge jiě hé yí ge dìdi.",
+        "en": "Bir ablam ve bir erkek kardeşim var."
+      }
+    ]
+  },
+  {
+    "id": "w4055",
+    "hanzi": "姐夫",
+    "pinyin": "jiěfu",
+    "meaning": "eniştenin (ablanın kocası)",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "我姐夫在银行工作。",
+        "pinyin": "Wǒ jiěfu zài yínháng gōngzuò.",
+        "en": "Eniştem bankada çalışıyor."
+      },
+      {
+        "zh": "姐夫对我很好。",
+        "pinyin": "Jiěfu duì wǒ hěn hǎo.",
+        "en": "Eniştem bana karşı çok iyi."
+      },
+      {
+        "zh": "我姐夫是个医生。",
+        "pinyin": "Wǒ jiěfu shì ge yīshēng.",
+        "en": "Eniştem doktor."
+      },
+      {
+        "zh": "姐夫开车带我们去了机场。",
+        "pinyin": "Jiěfu kāichē dài wǒmen qùle jīchǎng.",
+        "en": "Eniştem bizi arabayla havaalanına götürdü."
+      },
+      {
+        "zh": "春节的时候姐夫也会来我们家。",
+        "pinyin": "Chūnjié de shíhou jiěfu yě huì lái wǒmen jiā.",
+        "en": "Bahar Bayramı'nda enişte de bize gelir."
+      }
+    ]
+  },
+  {
+    "id": "w4056",
+    "hanzi": "今年",
+    "pinyin": "jīnnián",
+    "meaning": "bu yıl",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "今年我二十岁了。",
+        "pinyin": "Jīnnián wǒ èrshí suì le.",
+        "en": "Bu yıl yirmi yaşındayım."
+      },
+      {
+        "zh": "今年夏天特别热。",
+        "pinyin": "Jīnnián xiàtiān tèbié rè.",
+        "en": "Bu yılın yazı özellikle sıcak."
+      },
+      {
+        "zh": "我们今年要去中国旅行。",
+        "pinyin": "Wǒmen jīnnián yào qù Zhōngguó lǚxíng.",
+        "en": "Bu yıl Çin'e seyahate gideceğiz."
+      },
+      {
+        "zh": "今年是个丰收年。",
+        "pinyin": "Jīnnián shì ge fēngshōu nián.",
+        "en": "Bu yıl bereketli bir yıl oldu."
+      },
+      {
+        "zh": "今年公司的业绩很好。",
+        "pinyin": "Jīnnián gōngsī de yèjì hěn hǎo.",
+        "en": "Bu yıl şirketin performansı çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w4057",
+    "hanzi": "今后",
+    "pinyin": "jīnhòu",
+    "meaning": "bundan sonra",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "今后我会更加努力。",
+        "pinyin": "Jīnhòu wǒ huì gèngjiā nǔlì.",
+        "en": "Bundan sonra daha çok çalışacağım."
+      },
+      {
+        "zh": "今后请多多关照。",
+        "pinyin": "Jīnhòu qǐng duōduō guānzhào.",
+        "en": "Bundan sonra lütfen bana iyi davranın."
+      },
+      {
+        "zh": "今后我们要更加小心。",
+        "pinyin": "Jīnhòu wǒmen yào gèngjiā xiǎoxīn.",
+        "en": "Bundan sonra daha dikkatli olmalıyız."
+      },
+      {
+        "zh": "今后的路还很长。",
+        "pinyin": "Jīnhòu de lù hái hěn cháng.",
+        "en": "Bundan sonraki yol daha uzun."
+      },
+      {
+        "zh": "今后我们会保持联系。",
+        "pinyin": "Jīnhòu wǒmen huì bǎochí liánxì.",
+        "en": "Bundan sonra iletişimde kalacağız."
+      }
+    ]
+  },
+  {
+    "id": "w4058",
+    "hanzi": "今日",
+    "pinyin": "jīnrì",
+    "meaning": "bugün",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "今日事今日毕。",
+        "pinyin": "Jīnrì shì jīnrì bì.",
+        "en": "Bugünün işi bugün bitirilmeli."
+      },
+      {
+        "zh": "今日新闻头条是什么？",
+        "pinyin": "Jīnrì xīnwén tóutiáo shì shénme?",
+        "en": "Bugünün haber manşeti nedir?"
+      },
+      {
+        "zh": "今日天气晴朗。",
+        "pinyin": "Jīnrì tiānqì qínglǎng.",
+        "en": "Bugün hava açık."
+      },
+      {
+        "zh": "今日的会议非常重要。",
+        "pinyin": "Jīnrì de huìyì fēicháng zhòngyào.",
+        "en": "Bugünkü toplantı çok önemli."
+      },
+      {
+        "zh": "今日市场行情有所上涨。",
+        "pinyin": "Jīnrì shìchǎng hángqíng yǒu suǒ shàngzhǎng.",
+        "en": "Bugün piyasa fiyatları biraz yükseldi."
+      }
+    ]
+  },
+  {
+    "id": "w4059",
+    "hanzi": "结成",
+    "pinyin": "jiéchéng",
+    "meaning": "kurmak, oluşturmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他们结成了长期合作关系。",
+        "pinyin": "Tāmen jiéchéngle chángqī hézuò guānxi.",
+        "en": "Uzun vadeli bir işbirliği ilişkisi kurdular."
+      },
+      {
+        "zh": "两国结成了同盟。",
+        "pinyin": "Liǎng guó jiéchéngle tóngméng.",
+        "en": "İki ülke bir ittifak kurdu."
+      },
+      {
+        "zh": "他们在困难中结成了深厚的友谊。",
+        "pinyin": "Tāmen zài kùnnan zhōng jiéchéngle shēnhòu de yǒuyì.",
+        "en": "Zorluklar içinde derin bir dostluk kurdular."
+      },
+      {
+        "zh": "水汽结成了冰。",
+        "pinyin": "Shuǐqì jiéchéngle bīng.",
+        "en": "Su buharı buza dönüştü."
+      },
+      {
+        "zh": "他们结成了夫妻。",
+        "pinyin": "Tāmen jiéchéngle fūqī.",
+        "en": "Karı koca oldular."
+      }
+    ]
+  },
+  {
+    "id": "w4060",
+    "hanzi": "结交",
+    "pinyin": "jiéjiāo",
+    "meaning": "arkadaşlık kurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他喜欢结交新朋友。",
+        "pinyin": "Tā xǐhuan jiéjiāo xīn péngyou.",
+        "en": "Yeni arkadaşlar edinmeyi sever."
+      },
+      {
+        "zh": "他在大学结交了很多好朋友。",
+        "pinyin": "Tā zài dàxué jiéjiāole hěn duō hǎo péngyou.",
+        "en": "Üniversitede birçok iyi arkadaş edindi."
+      },
+      {
+        "zh": "结交益友对成长很有帮助。",
+        "pinyin": "Jiéjiāo yìyǒu duì chéngzhǎng hěn yǒu bāngzhù.",
+        "en": "İyi arkadaşlar edinmek gelişim için çok faydalıdır."
+      },
+      {
+        "zh": "他不轻易结交陌生人。",
+        "pinyin": "Tā bù qīngyì jiéjiāo mòshēngrén.",
+        "en": "Yabancılarla kolayca arkadaşlık kurmaz."
+      },
+      {
+        "zh": "他通过工作结交了许多同行。",
+        "pinyin": "Tā tōngguò gōngzuò jiéjiāole xǔduō tóngháng.",
+        "en": "İş sayesinde birçok meslektaş edindi."
+      }
+    ]
+  },
+  {
+    "id": "w4061",
+    "hanzi": "结晶",
+    "pinyin": "jiéjīng",
+    "meaning": "kristal; emeğin ürünü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "盐是水分蒸发后的结晶。",
+        "pinyin": "Yán shì shuǐfèn zhēngfā hòu de jiéjīng.",
+        "en": "Tuz, suyun buharlaşmasından sonra oluşan kristaldir."
+      },
+      {
+        "zh": "这本书是他多年研究的结晶。",
+        "pinyin": "Zhè běn shū shì tā duō nián yánjiū de jiéjīng.",
+        "en": "Bu kitap onun yıllarca süren araştırmasının ürünüdür."
+      }
+    ]
+  },
+  {
+    "id": "w4062",
+    "hanzi": "结局",
+    "pinyin": "jiéjú",
+    "meaning": "son, sonuç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这部电影的结局很感人。",
+        "pinyin": "Zhè bù diànyǐng de jiéjú hěn gǎnrén.",
+        "en": "Bu filmin sonu çok dokunaklı."
+      },
+      {
+        "zh": "故事的结局出人意料。",
+        "pinyin": "Gùshi de jiéjú chūrén yìliào.",
+        "en": "Hikayenin sonu beklenmedikti."
+      },
+      {
+        "zh": "他们的爱情有一个美好的结局。",
+        "pinyin": "Tāmen de àiqíng yǒu yí ge měihǎo de jiéjú.",
+        "en": "Aşk hikayeleri güzel bir sonla bitti."
+      },
+      {
+        "zh": "这场比赛的结局令人失望。",
+        "pinyin": "Zhè chǎng bǐsài de jiéjú lìng rén shīwàng.",
+        "en": "Bu maçın sonucu hayal kırıklığı yarattı."
+      },
+      {
+        "zh": "小说的结局留下了悬念。",
+        "pinyin": "Xiǎoshuō de jiéjú liúxiàle xuánniàn.",
+        "en": "Romanın sonu merak uyandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4063",
+    "hanzi": "结识",
+    "pinyin": "jiéshí",
+    "meaning": "tanışmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "我在旅行中结识了很多朋友。",
+        "pinyin": "Wǒ zài lǚxíng zhōng jiéshíle hěn duō péngyou.",
+        "en": "Seyahat sırasında birçok arkadaş edindim."
+      },
+      {
+        "zh": "他很高兴结识了这位教授。",
+        "pinyin": "Tā hěn gāoxìng jiéshíle zhè wèi jiàoshòu.",
+        "en": "Bu profesörle tanıştığı için çok mutlu."
+      },
+      {
+        "zh": "我们是在一次会议上结识的。",
+        "pinyin": "Wǒmen shì zài yí cì huìyì shàng jiéshí de.",
+        "en": "Bir toplantıda tanıştık."
+      },
+      {
+        "zh": "结识新朋友让人开心。",
+        "pinyin": "Jiéshí xīn péngyou ràng rén kāixīn.",
+        "en": "Yeni arkadaşlar tanımak insanı mutlu eder."
+      },
+      {
+        "zh": "他结识了不少商界人士。",
+        "pinyin": "Tā jiéshíle bù shǎo shāngjiè rénshì.",
+        "en": "Birçok iş insanı ile tanıştı."
+      }
+    ]
+  },
+  {
+    "id": "w4064",
+    "hanzi": "结算",
+    "pinyin": "jiésuàn",
+    "meaning": "hesap kapatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "请到柜台结算账单。",
+        "pinyin": "Qǐng dào guìtái jiésuàn zhàngdān.",
+        "en": "Lütfen kasaya gidip hesabı ödeyin."
+      },
+      {
+        "zh": "公司每月进行财务结算。",
+        "pinyin": "Gōngsī měi yuè jìnxíng cáiwù jiésuàn.",
+        "en": "Şirket her ay mali hesaplaşma yapıyor."
+      },
+      {
+        "zh": "我们要结算这个月的费用。",
+        "pinyin": "Wǒmen yào jiésuàn zhège yuè de fèiyòng.",
+        "en": "Bu ayın masraflarını hesaplamamız gerekiyor."
+      },
+      {
+        "zh": "结算方式有多种选择。",
+        "pinyin": "Jiésuàn fāngshì yǒu duō zhǒng xuǎnzé.",
+        "en": "Ödeme yöntemi konusunda birçok seçenek var."
+      },
+      {
+        "zh": "结算完毕后可以离开了。",
+        "pinyin": "Jiésuàn wánbì hòu kěyǐ líkāi le.",
+        "en": "Hesap kapatıldıktan sonra ayrılabilirsiniz."
+      }
+    ]
+  },
+  {
+    "id": "w4065",
+    "hanzi": "结尾",
+    "pinyin": "jiéwěi",
+    "meaning": "son bölüm, sonuç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这篇文章的结尾很精彩。",
+        "pinyin": "Zhè piān wénzhāng de jiéwěi hěn jīngcǎi.",
+        "en": "Bu makalenin sonu çok başarılı."
+      },
+      {
+        "zh": "电影的结尾出乎意料。",
+        "pinyin": "Diànyǐng de jiéwěi chūhū yìliào.",
+        "en": "Filmin sonu beklenmedikti."
+      },
+      {
+        "zh": "演讲的结尾要有力量。",
+        "pinyin": "Yǎnjiǎng de jiéwěi yào yǒu lìliang.",
+        "en": "Konuşmanın sonu etkileyici olmalı."
+      },
+      {
+        "zh": "他重新写了故事的结尾。",
+        "pinyin": "Tā chóngxīn xiěle gùshi de jiéwěi.",
+        "en": "Hikayenin sonunu yeniden yazdı."
+      },
+      {
+        "zh": "这首歌的结尾非常动人。",
+        "pinyin": "Zhè shǒu gē de jiéwěi fēicháng dòngrén.",
+        "en": "Bu şarkının sonu çok dokunaklı."
+      }
+    ]
+  },
+  {
+    "id": "w4066",
+    "hanzi": "节俭",
+    "pinyin": "jiéjiǎn",
+    "meaning": "tutumlu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他生活非常节俭。",
+        "pinyin": "Tā shēnghuó fēicháng jiéjiǎn.",
+        "en": "Hayatı çok tutumludur."
+      },
+      {
+        "zh": "节俭是一种美德。",
+        "pinyin": "Jiéjiǎn shì yì zhǒng měidé.",
+        "en": "Tutumluluk bir erdemdir."
+      },
+      {
+        "zh": "她从小就养成了节俭的习惯。",
+        "pinyin": "Tā cóngxiǎo jiù yǎngchéngle jiéjiǎn de xíguàn.",
+        "en": "Küçüklüğünden beri tutumlu olmayı alışkanlık haline getirdi."
+      },
+      {
+        "zh": "他节俭地花每一分钱。",
+        "pinyin": "Tā jiéjiǎn de huā měi yì fēn qián.",
+        "en": "Her kuruşu tutumlu bir şekilde harcıyor."
+      },
+      {
+        "zh": "节俭持家是他们家的传统。",
+        "pinyin": "Jiéjiǎn chíjiā shì tāmen jiā de chuántǒng.",
+        "en": "Tutumlu ev idaresi ailelerinin bir geleneği."
+      }
+    ]
+  },
+  {
+    "id": "w4067",
+    "hanzi": "节食",
+    "pinyin": "jiéshí",
+    "meaning": "perhiz yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她正在节食减肥。",
+        "pinyin": "Tā zhèngzài jiéshí jiǎnféi.",
+        "en": "Kilo vermek için perhiz yapıyor."
+      },
+      {
+        "zh": "长期节食对身体不好。",
+        "pinyin": "Chángqī jiéshí duì shēntǐ bù hǎo.",
+        "en": "Uzun süreli perhiz vücuda zararlıdır."
+      },
+      {
+        "zh": "他每天坚持节食。",
+        "pinyin": "Tā měitiān jiānchí jiéshí.",
+        "en": "Her gün perhiz yapmaya devam ediyor."
+      },
+      {
+        "zh": "节食期间要注意营养均衡。",
+        "pinyin": "Jiéshí qījiān yào zhùyì yíngyǎng jūnhéng.",
+        "en": "Perhiz döneminde beslenme dengesine dikkat etmek gerekir."
+      },
+      {
+        "zh": "她通过节食成功减掉了体重。",
+        "pinyin": "Tā tōngguò jiéshí chénggōng jiǎndiàole tǐzhòng.",
+        "en": "Perhiz yoluyla başarıyla kilo verdi."
+      }
+    ]
+  },
+  {
+    "id": "w4068",
+    "hanzi": "节制",
+    "pinyin": "jiézhì",
+    "meaning": "kontrol etmek, ölçülü olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他饮食节制，很少吃甜食。",
+        "pinyin": "Tā yǐnshí jiézhì, hěn shǎo chī tiánshí.",
+        "en": "Beslenmesinde ölçülü, nadiren tatlı yer."
+      },
+      {
+        "zh": "我们要节制自己的欲望。",
+        "pinyin": "Wǒmen yào jiézhì zìjǐ de yùwàng.",
+        "en": "Kendi arzularımızı kontrol altında tutmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w4069",
+    "hanzi": "节奏",
+    "pinyin": "jiézòu",
+    "meaning": "ritim",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这首歌的节奏很欢快。",
+        "pinyin": "Zhè shǒu gē de jiézòu hěn huānkuài.",
+        "en": "Bu şarkının ritmi çok neşeli."
+      },
+      {
+        "zh": "他跟着音乐的节奏跳舞。",
+        "pinyin": "Tā gēnzhe yīnyuè de jiézòu tiàowǔ.",
+        "en": "Müziğin ritmine uyarak dans ediyor."
+      },
+      {
+        "zh": "生活的节奏越来越快。",
+        "pinyin": "Shēnghuó de jiézòu yuèláiyuè kuài.",
+        "en": "Hayatın ritmi giderek hızlanıyor."
+      },
+      {
+        "zh": "这首诗的节奏感很强。",
+        "pinyin": "Zhè shǒu shī de jiézòu gǎn hěn qiáng.",
+        "en": "Bu şiirin ritim hissi çok güçlü."
+      },
+      {
+        "zh": "他打鼓的节奏非常稳定。",
+        "pinyin": "Tā dǎgǔ de jiézòu fēicháng wěndìng.",
+        "en": "Davul çalarken ritmi çok istikrarlı."
+      }
+    ]
+  },
+  {
+    "id": "w4070",
+    "hanzi": "洁白",
+    "pinyin": "jiébái",
+    "meaning": "bembeyaz, tertemiz beyaz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "她穿着一件洁白的婚纱。",
+        "pinyin": "Tā chuānzhe yí jiàn jiébái de hūnshā.",
+        "en": "Bembeyaz bir gelinlik giyiyor."
+      },
+      {
+        "zh": "洁白的雪覆盖了整个山谷。",
+        "pinyin": "Jiébái de xuě fùgàile zhěnggè shāngǔ.",
+        "en": "Bembeyaz kar tüm vadiyi kapladı."
+      },
+      {
+        "zh": "他的牙齿非常洁白。",
+        "pinyin": "Tā de yáchǐ fēicháng jiébái.",
+        "en": "Dişleri çok bembeyaz."
+      },
+      {
+        "zh": "洁白的墙壁让房间显得更亮。",
+        "pinyin": "Jiébái de qiángbì ràng fángjiān xiǎnde gèng liàng.",
+        "en": "Tertemiz beyaz duvarlar odayı daha aydınlık gösteriyor."
+      },
+      {
+        "zh": "她心地洁白，从不做坏事。",
+        "pinyin": "Tā xīndì jiébái, cóng bú zuò huàishì.",
+        "en": "Kalbi tertemiz, hiç kötülük yapmaz."
+      }
+    ]
+  },
+  {
+    "id": "w4071",
+    "hanzi": "截止",
+    "pinyin": "jiézhǐ",
+    "meaning": "son bulmak, sona ermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "报名截止日期是本月底。",
+        "pinyin": "Bàomíng jiézhǐ rìqī shì běn yuè dǐ.",
+        "en": "Kayıt son tarihi bu ayın sonu."
+      },
+      {
+        "zh": "申请已经截止了。",
+        "pinyin": "Shēnqǐng yǐjīng jiézhǐ le.",
+        "en": "Başvurular sona erdi."
+      },
+      {
+        "zh": "请在截止时间前提交作业。",
+        "pinyin": "Qǐng zài jiézhǐ shíjiān qián tíjiāo zuòyè.",
+        "en": "Lütfen son teslim tarihinden önce ödevi teslim edin."
+      },
+      {
+        "zh": "活动截止到本周五。",
+        "pinyin": "Huódòng jiézhǐ dào běn zhōu wǔ.",
+        "en": "Etkinlik bu cuma günü sona eriyor."
+      },
+      {
+        "zh": "报名人数截止时已经超过预期。",
+        "pinyin": "Bàomíng rénshù jiézhǐ shí yǐjīng chāoguò yùqī.",
+        "en": "Kayıtlar sona erdiğinde katılımcı sayısı beklenenin üzerine çıkmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w4072",
+    "hanzi": "杰出",
+    "pinyin": "jiéchū",
+    "meaning": "seçkin, üstün",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是一位杰出的科学家。",
+        "pinyin": "Tā shì yí wèi jiéchū de kēxuéjiā.",
+        "en": "O seçkin bir bilim insanı."
+      },
+      {
+        "zh": "她在音乐领域取得了杰出的成就。",
+        "pinyin": "Tā zài yīnyuè lǐngyù qǔdéle jiéchū de chéngjiù.",
+        "en": "Müzik alanında üstün başarılar elde etti."
+      },
+      {
+        "zh": "这是一项杰出的发明。",
+        "pinyin": "Zhè shì yí xiàng jiéchū de fāmíng.",
+        "en": "Bu, üstün bir buluş."
+      },
+      {
+        "zh": "他是团队中最杰出的成员。",
+        "pinyin": "Tā shì tuánduì zhōng zuì jiéchū de chéngyuán.",
+        "en": "Ekibin en seçkin üyesi."
+      },
+      {
+        "zh": "这位杰出的领导人改变了国家的命运。",
+        "pinyin": "Zhè wèi jiéchū de lǐngdǎorén gǎibiànle guójiā de mìngyùn.",
+        "en": "Bu üstün lider ülkenin kaderini değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w4073",
+    "hanzi": "杰作",
+    "pinyin": "jiézuò",
+    "meaning": "başyapıt",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这幅画是他的杰作。",
+        "pinyin": "Zhè fú huà shì tā de jiézuò.",
+        "en": "Bu tablo onun başyapıtı."
+      },
+      {
+        "zh": "这部小说被誉为文学杰作。",
+        "pinyin": "Zhè bù xiǎoshuō bèi yùwéi wénxué jiézuò.",
+        "en": "Bu roman edebi bir başyapıt olarak nitelendiriliyor."
+      },
+      {
+        "zh": "这座建筑是建筑史上的杰作。",
+        "pinyin": "Zhè zuò jiànzhù shì jiànzhùshǐ shàng de jiézuò.",
+        "en": "Bu yapı, mimarlık tarihinin bir başyapıtı."
+      },
+      {
+        "zh": "他一生只留下了这一部杰作。",
+        "pinyin": "Tā yìshēng zhǐ liúxiàle zhè yí bù jiézuò.",
+        "en": "Hayatı boyunca sadece bu bir başyapıtı bıraktı."
+      },
+      {
+        "zh": "这首交响乐是他的传世杰作。",
+        "pinyin": "Zhè shǒu jiāoxiǎngyuè shì tā de chuánshì jiézuò.",
+        "en": "Bu senfoni onun kalıcı başyapıtı."
+      }
+    ]
+  },
+  {
+    "id": "w4074",
+    "hanzi": "解除",
+    "pinyin": "jiěchú",
+    "meaning": "kaldırmak, sona erdirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "双方解除了合同关系。",
+        "pinyin": "Shuāngfāng jiěchúle hétong guānxi.",
+        "en": "İki taraf sözleşme ilişkisini sona erdirdi."
+      },
+      {
+        "zh": "警报已经解除。",
+        "pinyin": "Jǐngbào yǐjīng jiěchú.",
+        "en": "Alarm kaldırıldı."
+      },
+      {
+        "zh": "这种药可以解除疼痛。",
+        "pinyin": "Zhè zhǒng yào kěyǐ jiěchú téngtòng.",
+        "en": "Bu ilaç ağrıyı giderebilir."
+      },
+      {
+        "zh": "他们决定解除婚约。",
+        "pinyin": "Tāmen juédìng jiěchú hūnyuē.",
+        "en": "Nişanı bozmaya karar verdiler."
+      },
+      {
+        "zh": "政府解除了旅行限制。",
+        "pinyin": "Zhèngfǔ jiěchúle lǚxíng xiànzhì.",
+        "en": "Hükümet seyahat kısıtlamalarını kaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4075",
+    "hanzi": "解答",
+    "pinyin": "jiědá",
+    "meaning": "cevaplamak, açıklamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "老师解答了学生的疑问。",
+        "pinyin": "Lǎoshī jiědále xuésheng de yíwèn.",
+        "en": "Öğretmen öğrencinin sorusunu yanıtladı."
+      },
+      {
+        "zh": "请帮我解答这个问题。",
+        "pinyin": "Qǐng bāng wǒ jiědá zhège wèntí.",
+        "en": "Bu soruyu çözmeme yardım edin lütfen."
+      },
+      {
+        "zh": "专家解答了大家的疑惑。",
+        "pinyin": "Zhuānjiā jiědále dàjiā de yíhuò.",
+        "en": "Uzman herkesin şüphelerini giderdi."
+      },
+      {
+        "zh": "他耐心地解答了每一个问题。",
+        "pinyin": "Tā nàixīn de jiědále měi yí ge wèntí.",
+        "en": "Her soruyu sabırla yanıtladı."
+      },
+      {
+        "zh": "这本书解答了我的很多疑问。",
+        "pinyin": "Zhè běn shū jiědále wǒ de hěn duō yíwèn.",
+        "en": "Bu kitap birçok sorumu yanıtladı."
+      }
+    ]
+  },
+  {
+    "id": "w4076",
+    "hanzi": "解雇",
+    "pinyin": "jiěgù",
+    "meaning": "işten çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他因迟到被解雇了。",
+        "pinyin": "Tā yīn chídào bèi jiěgù le.",
+        "en": "Geç kaldığı için işten çıkarıldı."
+      },
+      {
+        "zh": "公司解雇了几名员工。",
+        "pinyin": "Gōngsī jiěgùle jǐ míng yuángōng.",
+        "en": "Şirket birkaç çalışanı işten çıkardı."
+      },
+      {
+        "zh": "她被无理由解雇了。",
+        "pinyin": "Tā bèi wú lǐyóu jiěgù le.",
+        "en": "Sebepsiz yere işten çıkarıldı."
+      },
+      {
+        "zh": "老板威胁要解雇他。",
+        "pinyin": "Lǎobǎn wēixié yào jiěgù tā.",
+        "en": "Patron onu işten çıkarmakla tehdit etti."
+      },
+      {
+        "zh": "经济不景气导致大量员工被解雇。",
+        "pinyin": "Jīngjì bù jǐngqì dǎozhì dàliàng yuángōng bèi jiěgù.",
+        "en": "Ekonomik durgunluk birçok çalışanın işten çıkarılmasına neden oldu."
+      }
+    ]
+  },
+  {
+    "id": "w4077",
+    "hanzi": "解救",
+    "pinyin": "jiějiù",
+    "meaning": "kurtarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "消防员解救了被困的居民。",
+        "pinyin": "Xiāofángyuán jiějiùle bèikùn de jūmín.",
+        "en": "İtfaiyeciler mahsur kalan sakinleri kurtardı."
+      },
+      {
+        "zh": "医生及时解救了病人的生命。",
+        "pinyin": "Yīshēng jíshí jiějiùle bìngrén de shēngmìng.",
+        "en": "Doktor hastanın hayatını zamanında kurtardı."
+      },
+      {
+        "zh": "警方解救了被绑架的孩子。",
+        "pinyin": "Jǐngfāng jiějiùle bèi bǎngjià de háizi.",
+        "en": "Polis kaçırılan çocuğu kurtardı."
+      },
+      {
+        "zh": "他冒险解救了落水的儿童。",
+        "pinyin": "Tā màoxiǎn jiějiùle luòshuǐ de értóng.",
+        "en": "Suya düşen çocuğu riske girerek kurtardı."
+      },
+      {
+        "zh": "我们要想办法解救他们。",
+        "pinyin": "Wǒmen yào xiǎng bànfǎ jiějiù tāmen.",
+        "en": "Onları kurtarmanın bir yolunu bulmalıyız."
+      }
+    ]
   }
 ]

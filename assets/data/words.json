@@ -147631,5 +147631,941 @@
         "en": "Dergi çok sayıda okuyucu mektubu yayımladı."
       }
     ]
+  },
+  {
+    "id": "w4298",
+    "hanzi": "刊物",
+    "pinyin": "kānwù",
+    "meaning": "Yayın, süreli yayın (gazete, dergi vb.)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这本刊物很受欢迎。",
+        "pinyin": "Zhè běn kānwù hěn shòu huānyíng.",
+        "en": "Bu yayın çok popüler."
+      },
+      {
+        "zh": "他订阅了好几种刊物。",
+        "pinyin": "Tā dìngyuè le hǎojǐ zhǒng kānwù.",
+        "en": "Birkaç farklı yayına abone oldu."
+      },
+      {
+        "zh": "这份刊物每月出版一次。",
+        "pinyin": "Zhè fèn kānwù měi yuè chūbǎn yí cì.",
+        "en": "Bu yayın ayda bir kez çıkıyor."
+      },
+      {
+        "zh": "学术刊物需要严格审稿。",
+        "pinyin": "Xuéshù kānwù xūyào yángé shěngǎo.",
+        "en": "Akademik yayınlar sıkı bir hakem sürecinden geçer."
+      },
+      {
+        "zh": "图书馆有很多外文刊物。",
+        "pinyin": "Túshūguǎn yǒu hěn duō wàiwén kānwù.",
+        "en": "Kütüphanede birçok yabancı dilde yayın var."
+      }
+    ]
+  },
+  {
+    "id": "w4299",
+    "hanzi": "看守",
+    "pinyin": "kānshǒu",
+    "meaning": "Korumak, nöbet tutmak; gardiyan",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他负责看守大门。",
+        "pinyin": "Tā fùzé kānshǒu dàmén.",
+        "en": "Ana kapıda nöbet tutmaktan sorumlu."
+      },
+      {
+        "zh": "看守所里关押着几名犯人。",
+        "pinyin": "Kānshǒusuǒ lǐ guānyāzhe jǐ míng fànrén.",
+        "en": "Nezarethanede birkaç mahkum tutuluyor."
+      },
+      {
+        "zh": "士兵们轮流看守仓库。",
+        "pinyin": "Shìbīngmen lúnliú kānshǒu cāngkù.",
+        "en": "Askerler sırayla depoyu koruyor."
+      },
+      {
+        "zh": "他被指派看守这批货物。",
+        "pinyin": "Tā bèi zhǐpài kānshǒu zhè pī huòwù.",
+        "en": "Bu mal partisini korumakla görevlendirildi."
+      },
+      {
+        "zh": "狗负责看守院子。",
+        "pinyin": "Gǒu fùzé kānshǒu yuànzi.",
+        "en": "Köpek bahçeyi bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4300",
+    "hanzi": "看病",
+    "pinyin": "kànbìng",
+    "meaning": "Hastaya bakmak; doktora görünmek",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "我今天要去医院看病。",
+        "pinyin": "Wǒ jīntiān yào qù yīyuàn kànbìng.",
+        "en": "Bugün doktora görünmeye hastaneye gideceğim."
+      },
+      {
+        "zh": "医生正在给病人看病。",
+        "pinyin": "Yīshēng zhèngzài gěi bìngrén kànbìng.",
+        "en": "Doktor hastaya bakıyor."
+      },
+      {
+        "zh": "看病要先挂号。",
+        "pinyin": "Kànbìng yào xiān guàhào.",
+        "en": "Doktora görünmeden önce randevu almak gerekir."
+      },
+      {
+        "zh": "他生病了,去看病了。",
+        "pinyin": "Tā shēngbìng le, qù kànbìng le.",
+        "en": "Hastalandı, doktora gitti."
+      },
+      {
+        "zh": "在这里看病很方便。",
+        "pinyin": "Zài zhèlǐ kànbìng hěn fāngbiàn.",
+        "en": "Burada muayene olmak çok kolay."
+      }
+    ]
+  },
+  {
+    "id": "w4301",
+    "hanzi": "看成",
+    "pinyin": "kànchéng",
+    "meaning": "Saymak, olarak görmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我把他看成好朋友。",
+        "pinyin": "Wǒ bǎ tā kànchéng hǎo péngyou.",
+        "en": "Onu iyi bir arkadaş olarak görüyorum."
+      },
+      {
+        "zh": "别把困难看成不可克服的障碍。",
+        "pinyin": "Bié bǎ kùnnan kànchéng bùkě kèfú de zhàng'ài.",
+        "en": "Zorlukları aşılamaz engeller olarak görme."
+      },
+      {
+        "zh": "她把工作看成一种享受。",
+        "pinyin": "Tā bǎ gōngzuò kànchéng yì zhǒng xiǎngshòu.",
+        "en": "İşi bir keyif olarak görüyor."
+      },
+      {
+        "zh": "老师把学生看成自己的孩子。",
+        "pinyin": "Lǎoshī bǎ xuésheng kànchéng zìjǐ de háizi.",
+        "en": "Öğretmen öğrencileri kendi çocukları gibi görüyor."
+      },
+      {
+        "zh": "他把失败看成成功的开始。",
+        "pinyin": "Tā bǎ shībài kànchéng chénggōng de kāishǐ.",
+        "en": "Başarısızlığı başarının başlangıcı olarak görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w4302",
+    "hanzi": "看出",
+    "pinyin": "kànchū",
+    "meaning": "Fark etmek, anlamak, çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我一眼就看出他不高兴。",
+        "pinyin": "Wǒ yì yǎn jiù kànchū tā bù gāoxìng.",
+        "en": "Bir bakışta üzgün olduğunu anladım."
+      },
+      {
+        "zh": "老师看出了我的心思。",
+        "pinyin": "Lǎoshī kànchū le wǒ de xīnsi.",
+        "en": "Öğretmen ne düşündüğümü fark etti."
+      },
+      {
+        "zh": "他看出了这道题的规律。",
+        "pinyin": "Tā kànchū le zhè dào tí de guīlǜ.",
+        "en": "Bu sorunun kuralını fark etti."
+      },
+      {
+        "zh": "医生看出了病情的变化。",
+        "pinyin": "Yīshēng kànchū le bìngqíng de biànhuà.",
+        "en": "Doktor hastalıktaki değişimi fark etti."
+      },
+      {
+        "zh": "从她的表情可以看出她很紧张。",
+        "pinyin": "Cóng tā de biǎoqíng kěyǐ kànchū tā hěn jǐnzhāng.",
+        "en": "İfadesinden gergin olduğu anlaşılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4303",
+    "hanzi": "看待",
+    "pinyin": "kàndài",
+    "meaning": "Ele almak, muamele etmek, değerlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他平等看待每一个人。",
+        "pinyin": "Tā píngděng kàndài měi yí gè rén.",
+        "en": "Herkese eşit muamele ediyor."
+      },
+      {
+        "zh": "我们应该客观地看待这个问题。",
+        "pinyin": "Wǒmen yīnggāi kèguān de kàndài zhège wèntí.",
+        "en": "Bu sorunu tarafsız bir şekilde ele almalıyız."
+      },
+      {
+        "zh": "他被公司当作重要人才看待。",
+        "pinyin": "Tā bèi gōngsī dàngzuò zhòngyào réncái kàndài.",
+        "en": "Şirket tarafından önemli bir yetenek olarak görülüyor."
+      },
+      {
+        "zh": "不同文化看待时间的方式不同。",
+        "pinyin": "Bùtóng wénhuà kàndài shíjiān de fāngshì bùtóng.",
+        "en": "Farklı kültürler zamanı farklı şekillerde ele alıyor."
+      },
+      {
+        "zh": "他用不同的眼光看待这件事。",
+        "pinyin": "Tā yòng bùtóng de yǎnguāng kàndài zhè jiàn shì.",
+        "en": "Bu olaya farklı bir bakış açısıyla yaklaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4304",
+    "hanzi": "看到",
+    "pinyin": "kàndào",
+    "meaning": "Görmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Temel Kelimeler",
+    "examples": [
+      {
+        "zh": "我看到了一只小猫。",
+        "pinyin": "Wǒ kàndào le yì zhī xiǎomāo.",
+        "en": "Küçük bir kedi gördüm."
+      },
+      {
+        "zh": "你看到我的手机了吗?",
+        "pinyin": "Nǐ kàndào wǒ de shǒujī le ma?",
+        "en": "Telefonumu gördün mü?"
+      },
+      {
+        "zh": "他在路上看到了老朋友。",
+        "pinyin": "Tā zài lùshang kàndào le lǎo péngyou.",
+        "en": "Yolda eski bir arkadaşını gördü."
+      },
+      {
+        "zh": "我们看到了美丽的风景。",
+        "pinyin": "Wǒmen kàndào le měilì de fēngjǐng.",
+        "en": "Güzel bir manzara gördük."
+      },
+      {
+        "zh": "她看到消息后很惊讶。",
+        "pinyin": "Tā kàndào xiāoxi hòu hěn jīngyà.",
+        "en": "Haberi görünce çok şaşırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4305",
+    "hanzi": "看得起",
+    "pinyin": "kàndeqǐ",
+    "meaning": "Değer vermek, saygı duymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他很看得起自己的同事。",
+        "pinyin": "Tā hěn kàndeqǐ zìjǐ de tóngshì.",
+        "en": "Meslektaşlarına çok değer veriyor."
+      },
+      {
+        "zh": "谢谢你这么看得起我。",
+        "pinyin": "Xièxie nǐ zhème kàndeqǐ wǒ.",
+        "en": "Bana bu kadar değer verdiğin için teşekkür ederim."
+      },
+      {
+        "zh": "老板很看得起这个年轻人。",
+        "pinyin": "Lǎobǎn hěn kàndeqǐ zhège niánqīngrén.",
+        "en": "Patron bu gence çok değer veriyor."
+      },
+      {
+        "zh": "他从不看得起穷苦人家。",
+        "pinyin": "Tā cóng bù kàndeqǐ qióngkǔ rénjiā.",
+        "en": "Fakir ailelere hiç değer vermiyor."
+      },
+      {
+        "zh": "她被大家看得起。",
+        "pinyin": "Tā bèi dàjiā kàndeqǐ.",
+        "en": "Herkes ona değer veriyor."
+      }
+    ]
+  },
+  {
+    "id": "w4306",
+    "hanzi": "看齐",
+    "pinyin": "kànqí",
+    "meaning": "Ayak uydurmak, hizaya gelmek, örnek almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们要向先进国家看齐。",
+        "pinyin": "Wǒmen yào xiàng xiānjìn guójiā kànqí.",
+        "en": "Gelişmiş ülkelere ayak uydurmalıyız."
+      },
+      {
+        "zh": "士兵们向前看齐。",
+        "pinyin": "Shìbīngmen xiàng qián kànqí.",
+        "en": "Askerler öne doğru hizaya geçti."
+      },
+      {
+        "zh": "他努力向优秀学生看齐。",
+        "pinyin": "Tā nǔlì xiàng yōuxiù xuésheng kànqí.",
+        "en": "Başarılı öğrencileri örnek almak için çabalıyor."
+      },
+      {
+        "zh": "公司要向国际标准看齐。",
+        "pinyin": "Gōngsī yào xiàng guójì biāozhǔn kànqí.",
+        "en": "Şirket uluslararası standartlara ayak uydurmalı."
+      },
+      {
+        "zh": "他决心向榜样看齐。",
+        "pinyin": "Tā juéxīn xiàng bǎngyàng kànqí.",
+        "en": "Örnek aldığı kişiye ulaşmaya kararlı."
+      }
+    ]
+  },
+  {
+    "id": "w4307",
+    "hanzi": "看透",
+    "pinyin": "kàntòu",
+    "meaning": "Tamamen anlamak, içini görmek, sırrını çözmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他早就看透了这件事。",
+        "pinyin": "Tā zǎo jiù kàntòu le zhè jiàn shì.",
+        "en": "Bu olayı çoktan tamamen anlamıştı."
+      },
+      {
+        "zh": "她看透了他的心思。",
+        "pinyin": "Tā kàntòu le tā de xīnsi.",
+        "en": "Onun ne düşündüğünü tamamen anladı."
+      },
+      {
+        "zh": "他看透了人生的道理。",
+        "pinyin": "Tā kàntòu le rénshēng de dàolǐ.",
+        "en": "Hayatın gerçeğini tamamen kavradı."
+      },
+      {
+        "zh": "老师一眼就看透了学生的把戏。",
+        "pinyin": "Lǎoshī yì yǎn jiù kàntòu le xuésheng de bǎxì.",
+        "en": "Öğretmen öğrencinin oyununu bir bakışta anladı."
+      },
+      {
+        "zh": "他看透了这个骗局。",
+        "pinyin": "Tā kàntòu le zhège piànjú.",
+        "en": "Bu dolabın içyüzünü tamamen gördü."
+      }
+    ]
+  },
+  {
+    "id": "w4308",
+    "hanzi": "看望",
+    "pinyin": "kànwàng",
+    "meaning": "Ziyaret etmek, görmeye gitmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "周末我要去看望奶奶。",
+        "pinyin": "Zhōumò wǒ yào qù kànwàng nǎinai.",
+        "en": "Hafta sonu büyükanneme ziyarete gideceğim."
+      },
+      {
+        "zh": "他每年都去看望老师。",
+        "pinyin": "Tā měi nián dōu qù kànwàng lǎoshī.",
+        "en": "Her yıl öğretmenini ziyaret ediyor."
+      },
+      {
+        "zh": "朋友们来医院看望他。",
+        "pinyin": "Péngyoumen lái yīyuàn kànwàng tā.",
+        "en": "Arkadaşları onu hastanede ziyarete geldi."
+      },
+      {
+        "zh": "我们买了水果去看望病人。",
+        "pinyin": "Wǒmen mǎi le shuǐguǒ qù kànwàng bìngrén.",
+        "en": "Meyve alıp hastayı ziyarete gittik."
+      },
+      {
+        "zh": "他常常看望孤寡老人。",
+        "pinyin": "Tā chángcháng kànwàng gūguǎ lǎorén.",
+        "en": "Sık sık kimsesiz yaşlıları ziyaret ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w4309",
+    "hanzi": "看中",
+    "pinyin": "kànzhòng",
+    "meaning": "Beğenmek, gözüne kestirmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我看中了这件衣服。",
+        "pinyin": "Wǒ kànzhòng le zhè jiàn yīfu.",
+        "en": "Bu kıyafeti beğendim."
+      },
+      {
+        "zh": "他看中了那套房子。",
+        "pinyin": "Tā kànzhòng le nà tào fángzi.",
+        "en": "O evi beğendi."
+      },
+      {
+        "zh": "公司看中了他的才能。",
+        "pinyin": "Gōngsī kànzhòng le tā de cáinéng.",
+        "en": "Şirket onun yeteneğini beğendi."
+      },
+      {
+        "zh": "她看中了一款新手机。",
+        "pinyin": "Tā kànzhòng le yì kuǎn xīn shǒujī.",
+        "en": "Yeni bir telefon modelini beğendi."
+      },
+      {
+        "zh": "投资者看中了这个项目的潜力。",
+        "pinyin": "Tóuzīzhě kànzhòng le zhège xiàngmù de qiánlì.",
+        "en": "Yatırımcılar bu projenin potansiyelini beğendi."
+      }
+    ]
+  },
+  {
+    "id": "w4310",
+    "hanzi": "看重",
+    "pinyin": "kànzhòng",
+    "meaning": "Önem vermek, değer vermek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他很看重朋友之间的信任。",
+        "pinyin": "Tā hěn kànzhòng péngyou zhījiān de xìnrèn.",
+        "en": "Arkadaşlar arasındaki güvene çok önem veriyor."
+      },
+      {
+        "zh": "公司很看重员工的经验。",
+        "pinyin": "Gōngsī hěn kànzhòng yuángōng de jīngyàn.",
+        "en": "Şirket çalışanların deneyimine çok önem veriyor."
+      },
+      {
+        "zh": "她看重的是人品而不是外表。",
+        "pinyin": "Tā kànzhòng de shì rénpǐn ér búshì wàibiǎo.",
+        "en": "Önem verdiği şey görünüş değil, karakterdir."
+      },
+      {
+        "zh": "父母很看重孩子的教育。",
+        "pinyin": "Fùmǔ hěn kànzhòng háizi de jiàoyù.",
+        "en": "Ebeveynler çocukların eğitimine çok önem veriyor."
+      },
+      {
+        "zh": "他看重的是过程而不是结果。",
+        "pinyin": "Tā kànzhòng de shì guòchéng ér búshì jiéguǒ.",
+        "en": "Onun için önemli olan sonuç değil süreçtir."
+      }
+    ]
+  },
+  {
+    "id": "w4311",
+    "hanzi": "康复",
+    "pinyin": "kāngfù",
+    "meaning": "İyileşmek, eski sağlığına kavuşmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "祝你早日康复!",
+        "pinyin": "Zhù nǐ zǎorì kāngfù!",
+        "en": "Bir an önce iyileşmeni dilerim!"
+      },
+      {
+        "zh": "他手术后正在康复。",
+        "pinyin": "Tā shǒushù hòu zhèngzài kāngfù.",
+        "en": "Ameliyattan sonra iyileşme sürecinde."
+      },
+      {
+        "zh": "经过治疗,他已经完全康复了。",
+        "pinyin": "Jīngguò zhìliáo, tā yǐjīng wánquán kāngfù le.",
+        "en": "Tedaviden sonra tamamen iyileşti."
+      },
+      {
+        "zh": "康复中心帮助病人恢复健康。",
+        "pinyin": "Kāngfù zhōngxīn bāngzhù bìngrén huīfù jiànkāng.",
+        "en": "Rehabilitasyon merkezi hastaların sağlığına kavuşmasına yardımcı oluyor."
+      },
+      {
+        "zh": "医生说他需要几个月才能康复。",
+        "pinyin": "Yīshēng shuō tā xūyào jǐ gè yuè cáinéng kāngfù.",
+        "en": "Doktor iyileşmesinin birkaç ay süreceğini söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w4312",
+    "hanzi": "慷慨",
+    "pinyin": "kāngkǎi",
+    "meaning": "Cömert, eli açık",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人非常慷慨。",
+        "pinyin": "Tā wéirén fēicháng kāngkǎi.",
+        "en": "Çok cömert bir insandır."
+      },
+      {
+        "zh": "她慷慨地帮助了穷人。",
+        "pinyin": "Tā kāngkǎi de bāngzhù le qióngrén.",
+        "en": "Fakirlere cömertçe yardım etti."
+      },
+      {
+        "zh": "他慷慨地捐出了自己的积蓄。",
+        "pinyin": "Tā kāngkǎi de juānchū le zìjǐ de jīxù.",
+        "en": "Birikimlerini cömertçe bağışladı."
+      },
+      {
+        "zh": "老板对员工很慷慨。",
+        "pinyin": "Lǎobǎn duì yuángōng hěn kāngkǎi.",
+        "en": "Patron çalışanlarına karşı çok cömerttir."
+      },
+      {
+        "zh": "他慷慨地分享了自己的经验。",
+        "pinyin": "Tā kāngkǎi de fēnxiǎng le zìjǐ de jīngyàn.",
+        "en": "Deneyimlerini cömertçe paylaştı."
+      }
+    ]
+  },
+  {
+    "id": "w4313",
+    "hanzi": "扛",
+    "pinyin": "káng",
+    "meaning": "Omuzda taşımak, omuzlamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他扛着一袋米回家。",
+        "pinyin": "Tā kángzhe yí dài mǐ huíjiā.",
+        "en": "Bir çuval pirinci omuzlayarak eve gitti."
+      },
+      {
+        "zh": "工人们扛着木头走过来。",
+        "pinyin": "Gōngrénmen kángzhe mùtou zǒu guòlai.",
+        "en": "İşçiler odunları omuzlarında taşıyarak geldi."
+      },
+      {
+        "zh": "他一个人扛不动这个箱子。",
+        "pinyin": "Tā yí gè rén kángbudòng zhège xiāngzi.",
+        "en": "Bu kutuyu tek başına omuzlayamıyor."
+      },
+      {
+        "zh": "士兵扛着枪站岗。",
+        "pinyin": "Shìbīng kángzhe qiāng zhàngǎng.",
+        "en": "Asker omzunda silahla nöbet tutuyor."
+      },
+      {
+        "zh": "他扛起责任,独自解决问题。",
+        "pinyin": "Tā kángqǐ zérèn, dúzì jiějué wèntí.",
+        "en": "Sorumluluğu üstlenip sorunu tek başına çözdü."
+      }
+    ]
+  },
+  {
+    "id": "w4314",
+    "hanzi": "炕",
+    "pinyin": "kàng",
+    "meaning": "Kang (Çin'in kuzeyinde altı ısıtılan yatak/sedir)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "冬天全家人都睡在炕上。",
+        "pinyin": "Dōngtiān quán jiā rén dōu shuì zài kàng shàng.",
+        "en": "Kışın tüm aile ısıtmalı sedirde uyur."
+      },
+      {
+        "zh": "奶奶坐在炕上做针线活。",
+        "pinyin": "Nǎinai zuò zài kàng shàng zuò zhēnxiànhuó.",
+        "en": "Büyükanne sedirin üzerinde dikiş dikiyordu."
+      },
+      {
+        "zh": "他在炕上铺了一床厚被子。",
+        "pinyin": "Tā zài kàng shàng pū le yì chuáng hòu bèizi.",
+        "en": "Sedirin üzerine kalın bir yorgan serdi."
+      },
+      {
+        "zh": "这种炕在东北很常见。",
+        "pinyin": "Zhè zhǒng kàng zài dōngběi hěn chángjiàn.",
+        "en": "Bu tür sedirler Kuzeydoğu Çin'de çok yaygındır."
+      },
+      {
+        "zh": "炕烧得很热,睡着很舒服。",
+        "pinyin": "Kàng shāo de hěn rè, shuìzháo hěn shūfu.",
+        "en": "Sedir çok sıcak yanıyor, üzerinde uyumak çok rahat."
+      }
+    ]
+  },
+  {
+    "id": "w4315",
+    "hanzi": "抗",
+    "pinyin": "kàng",
+    "meaning": "Direnmek, karşı koymak, reddetmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他勇敢地抗住了压力。",
+        "pinyin": "Tā yǒnggǎn de kàngzhù le yālì.",
+        "en": "Baskıya cesurca direndi."
+      },
+      {
+        "zh": "人民奋起反抗侵略。",
+        "pinyin": "Rénmín fènqǐ fǎnkàng qīnlüè.",
+        "en": "Halk işgale karşı ayaklandı."
+      },
+      {
+        "zh": "他抗不住诱惑,买下了这件衣服。",
+        "pinyin": "Tā kàngbuzhù yòuhuò, mǎixià le zhè jiàn yīfu.",
+        "en": "Cazibeye direnemedi ve bu kıyafeti satın aldı."
+      },
+      {
+        "zh": "他坚决抗争到底。",
+        "pinyin": "Tā jiānjué kàngzhēng dàodǐ.",
+        "en": "Sonuna kadar kararlılıkla direniyor."
+      },
+      {
+        "zh": "这种材料能抗高温。",
+        "pinyin": "Zhè zhǒng cáiliào néng kàng gāowēn.",
+        "en": "Bu malzeme yüksek sıcaklığa dayanabiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4316",
+    "hanzi": "抗菌素",
+    "pinyin": "kàngjūnsù",
+    "meaning": "Antibiyotik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他开了抗菌素。",
+        "pinyin": "Yīshēng gěi tā kāi le kàngjūnsù.",
+        "en": "Doktor ona antibiyotik yazdı."
+      },
+      {
+        "zh": "滥用抗菌素对身体有害。",
+        "pinyin": "Lànyòng kàngjūnsù duì shēntǐ yǒuhài.",
+        "en": "Antibiyotiklerin kötüye kullanımı vücuda zarar verir."
+      },
+      {
+        "zh": "这种病需要用抗菌素治疗。",
+        "pinyin": "Zhè zhǒng bìng xūyào yòng kàngjūnsù zhìliáo.",
+        "en": "Bu hastalık antibiyotik ile tedavi edilmelidir."
+      },
+      {
+        "zh": "他对这种抗菌素过敏。",
+        "pinyin": "Tā duì zhè zhǒng kàngjūnsù guòmǐn.",
+        "en": "Bu antibiyotiğe alerjisi var."
+      },
+      {
+        "zh": "医院严格控制抗菌素的使用。",
+        "pinyin": "Yīyuàn yángé kòngzhì kàngjūnsù de shǐyòng.",
+        "en": "Hastane antibiyotik kullanımını sıkı bir şekilde kontrol ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w4317",
+    "hanzi": "抗日战争",
+    "pinyin": "Kàng Rì zhànzhēng",
+    "meaning": "Japon işgaline karşı direniş savaşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "抗日战争持续了八年。",
+        "pinyin": "Kàng Rì zhànzhēng chíxù le bā nián.",
+        "en": "Direniş savaşı sekiz yıl sürdü."
+      },
+      {
+        "zh": "他的祖父参加过抗日战争。",
+        "pinyin": "Tā de zǔfù cānjiā guò Kàng Rì zhànzhēng.",
+        "en": "Dedesi direniş savaşına katılmıştı."
+      },
+      {
+        "zh": "这部电影讲述了抗日战争的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshù le Kàng Rì zhànzhēng de gùshi.",
+        "en": "Bu film direniş savaşı hakkındaki bir hikayeyi anlatıyor."
+      },
+      {
+        "zh": "博物馆展出了抗日战争的历史文物。",
+        "pinyin": "Bówùguǎn zhǎnchū le Kàng Rì zhànzhēng de lìshǐ wénwù.",
+        "en": "Müzede direniş savaşına ait tarihi eserler sergileniyor."
+      },
+      {
+        "zh": "学生们学习抗日战争的历史。",
+        "pinyin": "Xuéshengmen xuéxí Kàng Rì zhànzhēng de lìshǐ.",
+        "en": "Öğrenciler direniş savaşının tarihini öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w4318",
+    "hanzi": "抗体",
+    "pinyin": "kàngtǐ",
+    "meaning": "Antikor",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "疫苗能帮助身体产生抗体。",
+        "pinyin": "Yìmiáo néng bāngzhù shēntǐ chǎnshēng kàngtǐ.",
+        "en": "Aşı vücudun antikor üretmesine yardımcı olur."
+      },
+      {
+        "zh": "他的血液中检测到了抗体。",
+        "pinyin": "Tā de xuèyè zhōng jiǎncè dào le kàngtǐ.",
+        "en": "Kanında antikor tespit edildi."
+      },
+      {
+        "zh": "抗体可以抵抗病毒的侵袭。",
+        "pinyin": "Kàngtǐ kěyǐ dǐkàng bìngdú de qīnxí.",
+        "en": "Antikorlar virüs saldırısına karşı koyabilir."
+      },
+      {
+        "zh": "感染后身体会产生抗体。",
+        "pinyin": "Gǎnrǎn hòu shēntǐ huì chǎnshēng kàngtǐ.",
+        "en": "Enfeksiyondan sonra vücut antikor üretir."
+      },
+      {
+        "zh": "科学家在研究新的抗体。",
+        "pinyin": "Kēxuéjiā zài yánjiū xīn de kàngtǐ.",
+        "en": "Bilim insanları yeni bir antikor üzerinde araştırma yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4319",
+    "hanzi": "靠",
+    "pinyin": "kào",
+    "meaning": "Yaslanmak, dayanmak; güvenmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他靠在墙上休息。",
+        "pinyin": "Tā kào zài qiáng shàng xiūxi.",
+        "en": "Duvara yaslanarak dinleniyor."
+      },
+      {
+        "zh": "我们靠自己的努力取得了成功。",
+        "pinyin": "Wǒmen kào zìjǐ de nǔlì qǔdé le chénggōng.",
+        "en": "Kendi çabalarımızla başarıya ulaştık."
+      },
+      {
+        "zh": "他靠打工赚学费。",
+        "pinyin": "Tā kào dǎgōng zhuàn xuéfèi.",
+        "en": "Okul harçlığını part-time çalışarak kazanıyor."
+      },
+      {
+        "zh": "船靠了岸。",
+        "pinyin": "Chuán kào le àn.",
+        "en": "Gemi kıyıya yanaştı."
+      },
+      {
+        "zh": "遇到困难要靠大家共同解决。",
+        "pinyin": "Yùdào kùnnan yào kào dàjiā gòngtóng jiějué.",
+        "en": "Zorluklarla karşılaşınca herkesin birlikte çözmesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4320",
+    "hanzi": "靠不住",
+    "pinyin": "kàobuzhù",
+    "meaning": "Güvenilmez",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个消息靠不住。",
+        "pinyin": "Zhège xiāoxi kàobuzhù.",
+        "en": "Bu haber güvenilir değil."
+      },
+      {
+        "zh": "他这个人靠不住。",
+        "pinyin": "Tā zhège rén kàobuzhù.",
+        "en": "Bu adama güvenilmez."
+      },
+      {
+        "zh": "这台旧机器已经靠不住了。",
+        "pinyin": "Zhè tái jiù jīqì yǐjīng kàobuzhù le.",
+        "en": "Bu eski makine artık güvenilir değil."
+      },
+      {
+        "zh": "他的承诺总是靠不住。",
+        "pinyin": "Tā de chéngnuò zǒngshì kàobuzhù.",
+        "en": "Verdiği sözler hep güvenilmez çıkıyor."
+      },
+      {
+        "zh": "网上的传言大多靠不住。",
+        "pinyin": "Wǎngshàng de chuányán dàduō kàobuzhù.",
+        "en": "İnternetteki söylentilerin çoğu güvenilmezdir."
+      }
+    ]
+  },
+  {
+    "id": "w4321",
+    "hanzi": "靠得住",
+    "pinyin": "kàodezhù",
+    "meaning": "Güvenilir, sağlam",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他是一个靠得住的人。",
+        "pinyin": "Tā shì yí gè kàodezhù de rén.",
+        "en": "O güvenilir bir insan."
+      },
+      {
+        "zh": "这个消息来源靠得住吗?",
+        "pinyin": "Zhège xiāoxi láiyuán kàodezhù ma?",
+        "en": "Bu haberin kaynağı güvenilir mi?"
+      },
+      {
+        "zh": "这台设备质量靠得住。",
+        "pinyin": "Zhè tái shèbèi zhìliàng kàodezhù.",
+        "en": "Bu cihazın kalitesi güvenilir."
+      },
+      {
+        "zh": "找一个靠得住的朋友帮忙。",
+        "pinyin": "Zhǎo yí gè kàodezhù de péngyou bāngmáng.",
+        "en": "Güvenilir bir arkadaştan yardım iste."
+      },
+      {
+        "zh": "他的判断一向靠得住。",
+        "pinyin": "Tā de pànduàn yíxiàng kàodezhù.",
+        "en": "Onun kararları her zaman güvenilirdir."
+      }
+    ]
+  },
+  {
+    "id": "w4322",
+    "hanzi": "靠山",
+    "pinyin": "kàoshān",
+    "meaning": "Arka, destekçi, güvenilecek kişi/kurum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他在公司里有很大的靠山。",
+        "pinyin": "Tā zài gōngsī lǐ yǒu hěn dà de kàoshān.",
+        "en": "Şirkette güçlü bir arkası var."
+      },
+      {
+        "zh": "父母永远是孩子最坚强的靠山。",
+        "pinyin": "Fùmǔ yǒngyuǎn shì háizi zuì jiānqiáng de kàoshān.",
+        "en": "Anne baba her zaman çocuğun en güçlü desteğidir."
+      },
+      {
+        "zh": "没有靠山,他只能靠自己。",
+        "pinyin": "Méiyǒu kàoshān, tā zhǐ néng kào zìjǐ.",
+        "en": "Arkası olmadığı için sadece kendine güvenebiliyor."
+      },
+      {
+        "zh": "他把老师当作自己的靠山。",
+        "pinyin": "Tā bǎ lǎoshī dàngzuò zìjǐ de kàoshān.",
+        "en": "Öğretmenini kendi desteği olarak görüyor."
+      },
+      {
+        "zh": "这家公司的靠山是政府。",
+        "pinyin": "Zhè jiā gōngsī de kàoshān shì zhèngfǔ.",
+        "en": "Bu şirketin arkasında hükümet var."
+      }
+    ]
+  },
+  {
+    "id": "w4323",
+    "hanzi": "看不惯",
+    "pinyin": "kànbuguàn",
+    "meaning": "Görmeye tahammül edememek, hoşlanmamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我看不惯他这种态度。",
+        "pinyin": "Wǒ kànbuguàn tā zhè zhǒng tàidù.",
+        "en": "Onun bu tavrına tahammül edemiyorum."
+      },
+      {
+        "zh": "她看不惯浪费粮食的行为。",
+        "pinyin": "Tā kànbuguàn làngfèi liángshi de xíngwéi.",
+        "en": "Yiyecek israfına tahammül edemiyor."
+      },
+      {
+        "zh": "老一辈看不惯年轻人的生活方式。",
+        "pinyin": "Lǎoyíbèi kànbuguàn niánqīngrén de shēnghuó fāngshì.",
+        "en": "Yaşlı nesil gençlerin yaşam tarzına tahammül edemiyor."
+      },
+      {
+        "zh": "他看不惯别人插队。",
+        "pinyin": "Tā kànbuguàn biérén chāduì.",
+        "en": "Başkalarının kuyruğa girmesine tahammül edemiyor."
+      },
+      {
+        "zh": "我实在看不惯这种不公平的做法。",
+        "pinyin": "Wǒ shízài kànbuguàn zhè zhǒng bù gōngpíng de zuòfǎ.",
+        "en": "Bu adaletsiz tutuma gerçekten tahammül edemiyorum."
+      }
+    ]
   }
 ]

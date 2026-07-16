@@ -98200,5 +98200,455 @@
         "en": "Önündeki her şeye şaşkınlıkla baktı."
       }
     ]
+  },
+  {
+    "id": "w2774",
+    "hanzi": "产量",
+    "pinyin": "chǎnliàng",
+    "meaning": "üretim miktarı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "今年小麦产量很高。",
+        "pinyin": "Jīnnián xiǎomài chǎnliàng hěn gāo.",
+        "en": "Bu yıl buğday üretimi çok yüksek."
+      },
+      {
+        "zh": "工厂提高了产品的产量。",
+        "pinyin": "Gōngchǎng tígāo le chǎnpǐn de chǎnliàng.",
+        "en": "Fabrika ürünün üretim miktarını artırdı."
+      },
+      {
+        "zh": "这块地的水稻产量下降了。",
+        "pinyin": "Zhè kuài dì de shuǐdào chǎnliàng xiàjiàng le.",
+        "en": "Bu arazinin pirinç üretimi azaldı."
+      },
+      {
+        "zh": "石油产量影响着国际油价。",
+        "pinyin": "Shíyóu chǎnliàng yǐngxiǎng zhe guójì yóujià.",
+        "en": "Petrol üretim miktarı uluslararası petrol fiyatlarını etkiliyor."
+      },
+      {
+        "zh": "我们希望明年的产量能翻倍。",
+        "pinyin": "Wǒmen xīwàng míngnián de chǎnliàng néng fānbèi.",
+        "en": "Gelecek yılki üretimin iki katına çıkmasını umuyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w2775",
+    "hanzi": "产业",
+    "pinyin": "chǎnyè",
+    "meaning": "sanayi, endüstri",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "旅游业是这个城市的支柱产业。",
+        "pinyin": "Lǚyóuyè shì zhège chéngshì de zhīzhù chǎnyè.",
+        "en": "Turizm bu şehrin temel endüstrisidir."
+      },
+      {
+        "zh": "政府大力发展高科技产业。",
+        "pinyin": "Zhèngfǔ dàlì fāzhǎn gāo kējì chǎnyè.",
+        "en": "Hükümet yüksek teknoloji sanayisini güçlü bir şekilde geliştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w2776",
+    "hanzi": "阐述",
+    "pinyin": "chǎnshù",
+    "meaning": "ayrıntılarıyla açıklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他详细阐述了自己的观点。",
+        "pinyin": "Tā xiángxì chǎnshù le zìjǐ de guāndiǎn.",
+        "en": "Kendi görüşünü ayrıntılı olarak açıkladı."
+      },
+      {
+        "zh": "这篇论文阐述了一个新理论。",
+        "pinyin": "Zhè piān lùnwén chǎnshù le yí ge xīn lǐlùn.",
+        "en": "Bu makale yeni bir teoriyi açıklıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2777",
+    "hanzi": "忏悔",
+    "pinyin": "chànhuǐ",
+    "meaning": "pişman olmak, itiraf etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他为自己的错误深深忏悔。",
+        "pinyin": "Tā wèi zìjǐ de cuòwù shēnshēn chànhuǐ.",
+        "en": "Kendi hatası için derinden pişmanlık duyuyor."
+      },
+      {
+        "zh": "她向朋友忏悔了自己的过错。",
+        "pinyin": "Tā xiàng péngyou chànhuǐ le zìjǐ de guòcuò.",
+        "en": "Arkadaşına kendi hatasını itiraf etti."
+      }
+    ]
+  },
+  {
+    "id": "w2778",
+    "hanzi": "颤抖",
+    "pinyin": "chàndǒu",
+    "meaning": "titremek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他冷得浑身颤抖。",
+        "pinyin": "Tā lěng de húnshēn chàndǒu.",
+        "en": "Soğuktan tüm vücudu titriyordu."
+      },
+      {
+        "zh": "她的双手因为紧张而颤抖。",
+        "pinyin": "Tā de shuāngshǒu yīnwèi jǐnzhāng ér chàndǒu.",
+        "en": "Elleri gerginlikten titriyordu."
+      }
+    ]
+  },
+  {
+    "id": "w2779",
+    "hanzi": "长处",
+    "pinyin": "chángchù",
+    "meaning": "iyi yönler, güçlü yanlar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "每个人都有自己的长处。",
+        "pinyin": "Měi ge rén dōu yǒu zìjǐ de chángchù.",
+        "en": "Herkesin kendine özgü güçlü yönleri vardır."
+      },
+      {
+        "zh": "她的长处是善于沟通。",
+        "pinyin": "Tā de chángchù shì shànyú gōutōng.",
+        "en": "Güçlü yanı iletişim becerisi."
+      },
+      {
+        "zh": "我们应该发挥自己的长处。",
+        "pinyin": "Wǒmen yīnggāi fāhuī zìjǐ de chángchù.",
+        "en": "Kendi güçlü yönlerimizi ortaya koymalıyız."
+      },
+      {
+        "zh": "他善于发现别人的长处。",
+        "pinyin": "Tā shànyú fāxiàn biérén de chángchù.",
+        "en": "Başkalarının iyi yönlerini fark etmede başarılı."
+      },
+      {
+        "zh": "每种方法都有自己的长处和短处。",
+        "pinyin": "Měi zhǒng fāngfǎ dōu yǒu zìjǐ de chángchù hé duǎnchù.",
+        "en": "Her yöntemin kendine has güçlü ve zayıf yönleri vardır."
+      }
+    ]
+  },
+  {
+    "id": "w2780",
+    "hanzi": "长度",
+    "pinyin": "chángdù",
+    "meaning": "uzunluk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "ölçüm",
+    "examples": [
+      {
+        "zh": "请测量一下这根绳子的长度。",
+        "pinyin": "Qǐng cèliáng yíxià zhè gēn shéngzi de chángdù.",
+        "en": "Lütfen bu ipin uzunluğunu ölçün."
+      },
+      {
+        "zh": "这条河的长度超过一千公里。",
+        "pinyin": "Zhè tiáo hé de chángdù chāoguò yìqiān gōnglǐ.",
+        "en": "Bu nehrin uzunluğu bin kilometreyi aşıyor."
+      },
+      {
+        "zh": "视频的长度大约是十分钟。",
+        "pinyin": "Shìpín de chángdù dàyuē shì shí fēnzhōng.",
+        "en": "Videonun süresi yaklaşık on dakika."
+      },
+      {
+        "zh": "桌子的长度是两米。",
+        "pinyin": "Zhuōzi de chángdù shì liǎng mǐ.",
+        "en": "Masanın uzunluğu iki metre."
+      },
+      {
+        "zh": "这篇文章的长度合适吗？",
+        "pinyin": "Zhè piān wénzhāng de chángdù héshì ma?",
+        "en": "Bu makalenin uzunluğu uygun mu?"
+      }
+    ]
+  },
+  {
+    "id": "w2781",
+    "hanzi": "长方形",
+    "pinyin": "chángfāngxíng",
+    "meaning": "dikdörtgen",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这张桌子是长方形的。",
+        "pinyin": "Zhè zhāng zhuōzi shì chángfāngxíng de.",
+        "en": "Bu masa dikdörtgen şeklinde."
+      },
+      {
+        "zh": "请画一个长方形。",
+        "pinyin": "Qǐng huà yí ge chángfāngxíng.",
+        "en": "Bir dikdörtgen çizin."
+      },
+      {
+        "zh": "这块地是长方形的。",
+        "pinyin": "Zhè kuài dì shì chángfāngxíng de.",
+        "en": "Bu arazi dikdörtgen şeklinde."
+      },
+      {
+        "zh": "长方形有四个直角。",
+        "pinyin": "Chángfāngxíng yǒu sì ge zhíjiǎo.",
+        "en": "Dikdörtgenin dört dik açısı vardır."
+      },
+      {
+        "zh": "这个房间是长方形的。",
+        "pinyin": "Zhège fángjiān shì chángfāngxíng de.",
+        "en": "Bu oda dikdörtgen şeklinde."
+      }
+    ]
+  },
+  {
+    "id": "w2782",
+    "hanzi": "长颈鹿",
+    "pinyin": "chángjǐnglù",
+    "meaning": "zürafa",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "长颈鹿的脖子非常长。",
+        "pinyin": "Chángjǐnglù de bózi fēicháng cháng.",
+        "en": "Zürafanın boynu çok uzun."
+      },
+      {
+        "zh": "动物园里有几只长颈鹿。",
+        "pinyin": "Dòngwùyuán lǐ yǒu jǐ zhī chángjǐnglù.",
+        "en": "Hayvanat bahçesinde birkaç zürafa var."
+      },
+      {
+        "zh": "孩子们喜欢看长颈鹿吃树叶。",
+        "pinyin": "Háizimen xǐhuan kàn chángjǐnglù chī shùyè.",
+        "en": "Çocuklar zürafaların yaprak yemesini izlemeyi sever."
+      },
+      {
+        "zh": "长颈鹿是世界上最高的动物。",
+        "pinyin": "Chángjǐnglù shì shìjiè shàng zuì gāo de dòngwù.",
+        "en": "Zürafa dünyanın en uzun boylu hayvanıdır."
+      },
+      {
+        "zh": "这只长颈鹿正在悠闲地散步。",
+        "pinyin": "Zhè zhī chángjǐnglù zhèngzài yōuxián de sànbù.",
+        "en": "Bu zürafa rahatça geziniyor."
+      }
+    ]
+  },
+  {
+    "id": "w2783",
+    "hanzi": "长久",
+    "pinyin": "chángjiǔ",
+    "meaning": "uzun süreli, kalıcı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他们希望友谊能长久保持下去。",
+        "pinyin": "Tāmen xīwàng yǒuyì néng chángjiǔ bǎochí xiàqù.",
+        "en": "Dostluklarının uzun süre devam etmesini umuyorlar."
+      },
+      {
+        "zh": "这不是长久之计。",
+        "pinyin": "Zhè búshì chángjiǔ zhī jì.",
+        "en": "Bu kalıcı bir çözüm değil."
+      },
+      {
+        "zh": "幸福的婚姻需要长久的经营。",
+        "pinyin": "Xìngfú de hūnyīn xūyào chángjiǔ de jīngyíng.",
+        "en": "Mutlu bir evlilik uzun süreli emek gerektirir."
+      },
+      {
+        "zh": "这种方法不能长久有效。",
+        "pinyin": "Zhè zhǒng fāngfǎ bù néng chángjiǔ yǒuxiào.",
+        "en": "Bu yöntem uzun vadede etkili olamaz."
+      },
+      {
+        "zh": "他们希望公司能长久发展下去。",
+        "pinyin": "Tāmen xīwàng gōngsī néng chángjiǔ fāzhǎn xiàqù.",
+        "en": "Şirketin uzun süre gelişmeye devam etmesini umuyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w2784",
+    "hanzi": "长期",
+    "pinyin": "chángqī",
+    "meaning": "uzun vadeli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他们签订了长期合同。",
+        "pinyin": "Tāmen qiāndìng le chángqī hétong.",
+        "en": "Uzun vadeli bir sözleşme imzaladılar."
+      },
+      {
+        "zh": "长期熬夜对健康不好。",
+        "pinyin": "Chángqī áoyè duì jiànkāng bù hǎo.",
+        "en": "Uzun süre geç saatlere kadar uyumamak sağlığa zararlı."
+      },
+      {
+        "zh": "这是一个长期的计划。",
+        "pinyin": "Zhè shì yí ge chángqī de jìhuà.",
+        "en": "Bu uzun vadeli bir plan."
+      },
+      {
+        "zh": "他在这家公司长期工作。",
+        "pinyin": "Tā zài zhè jiā gōngsī chángqī gōngzuò.",
+        "en": "Bu şirkette uzun süredir çalışıyor."
+      },
+      {
+        "zh": "长期的压力会影响身体健康。",
+        "pinyin": "Chángqī de yālì huì yǐngxiǎng shēntǐ jiànkāng.",
+        "en": "Uzun süreli stres sağlığı etkileyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w2785",
+    "hanzi": "长远",
+    "pinyin": "chángyuǎn",
+    "meaning": "uzun vadeli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "我们要有长远的眼光。",
+        "pinyin": "Wǒmen yào yǒu chángyuǎn de yǎnguāng.",
+        "en": "Uzun vadeli bir bakış açımız olmalı."
+      },
+      {
+        "zh": "这项投资有长远的价值。",
+        "pinyin": "Zhè xiàng tóuzī yǒu chángyuǎn de jiàzhí.",
+        "en": "Bu yatırımın uzun vadeli bir değeri var."
+      },
+      {
+        "zh": "公司制定了长远发展规划。",
+        "pinyin": "Gōngsī zhìdìng le chángyuǎn fāzhǎn guīhuà.",
+        "en": "Şirket uzun vadeli gelişim planı hazırladı."
+      },
+      {
+        "zh": "教育对国家的长远发展至关重要。",
+        "pinyin": "Jiàoyù duì guójiā de chángyuǎn fāzhǎn zhìguān zhòngyào.",
+        "en": "Eğitim, ülkenin uzun vadeli gelişimi için son derece önemli."
+      },
+      {
+        "zh": "我们应该从长远的角度考虑问题。",
+        "pinyin": "Wǒmen yīnggāi cóng chángyuǎn de jiǎodù kǎolǜ wèntí.",
+        "en": "Sorunları uzun vadeli bir açıdan düşünmeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w2786",
+    "hanzi": "厂家",
+    "pinyin": "chǎngjiā",
+    "meaning": "üretici",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这个产品是知名厂家生产的。",
+        "pinyin": "Zhège chǎnpǐn shì zhīmíng chǎngjiā shēngchǎn de.",
+        "en": "Bu ürün tanınmış bir üretici tarafından yapılmış."
+      },
+      {
+        "zh": "厂家提供两年质保。",
+        "pinyin": "Chǎngjiā tígōng liǎng nián zhìbǎo.",
+        "en": "Üretici iki yıl garanti sağlıyor."
+      },
+      {
+        "zh": "我们直接联系了厂家。",
+        "pinyin": "Wǒmen zhíjiē liánxì le chǎngjiā.",
+        "en": "Doğrudan üreticiyle iletişime geçtik."
+      },
+      {
+        "zh": "这家厂家生产各种电器。",
+        "pinyin": "Zhè jiā chǎngjiā shēngchǎn gèzhǒng diànqì.",
+        "en": "Bu üretici çeşitli elektronik eşyalar üretiyor."
+      },
+      {
+        "zh": "厂家承诺尽快解决问题。",
+        "pinyin": "Chǎngjiā chéngnuò jǐnkuài jiějué wèntí.",
+        "en": "Üretici sorunu en kısa sürede çözeceğine söz verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2787",
+    "hanzi": "柴油",
+    "pinyin": "cháiyóu",
+    "meaning": "mazot, dizel",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这辆卡车用柴油发动。",
+        "pinyin": "Zhè liàng kǎchē yòng cháiyóu fādòng.",
+        "en": "Bu kamyon mazotla çalışır."
+      },
+      {
+        "zh": "柴油的价格最近上涨了。",
+        "pinyin": "Cháiyóu de jiàgé zuìjìn shàngzhǎng le.",
+        "en": "Mazot fiyatı son zamanlarda arttı."
+      }
+    ]
+  },
+  {
+    "id": "w2788",
+    "hanzi": "长寿",
+    "pinyin": "chángshòu",
+    "meaning": "uzun ömür",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他祝爷爷健康长寿。",
+        "pinyin": "Tā zhù yéye jiànkāng chángshòu.",
+        "en": "Dedesine sağlıklı ve uzun ömürlü olmasını diledi."
+      },
+      {
+        "zh": "长寿是很多人的心愿。",
+        "pinyin": "Chángshòu shì hěn duō rén de xīnyuàn.",
+        "en": "Uzun ömür birçok insanın dileğidir."
+      }
+    ]
   }
 ]

@@ -101890,5 +101890,440 @@
         "en": "Bu sadece yaklaşık bir tahmin."
       }
     ]
+  },
+  {
+    "id": "w2900",
+    "hanzi": "催促",
+    "pinyin": "cuīcù",
+    "meaning": "acele ettirmek, sıkıştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "妈妈催促我快点起床。",
+        "pinyin": "Māma cuīcù wǒ kuàidiǎn qǐchuáng.",
+        "en": "Annem çabuk kalkmam için beni acele ettirdi."
+      },
+      {
+        "zh": "老板不断催促我们完成工作。",
+        "pinyin": "Lǎobǎn búduàn cuīcù wǒmen wánchéng gōngzuò.",
+        "en": "Patron sürekli işimizi bitirmemiz için bizi sıkıştırıyor."
+      },
+      {
+        "zh": "她催促孩子快点写作业。",
+        "pinyin": "Tā cuīcù háizi kuàidiǎn xiě zuòyè.",
+        "en": "Çocuğunu ödevini çabuk yapması için sıkıştırdı."
+      },
+      {
+        "zh": "请不要催促我，我需要时间考虑。",
+        "pinyin": "Qǐng búyào cuīcù wǒ, wǒ xūyào shíjiān kǎolǜ.",
+        "en": "Lütfen beni sıkıştırma, düşünmek için zamana ihtiyacım var."
+      },
+      {
+        "zh": "他被朋友催促着出门。",
+        "pinyin": "Tā bèi péngyou cuīcù zhe chūmén.",
+        "en": "Arkadaşı tarafından dışarı çıkması için sıkıştırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w2901",
+    "hanzi": "摧毁",
+    "pinyin": "cuīhuǐ",
+    "meaning": "yıkmak, mahvetmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "地震摧毁了整个村庄。",
+        "pinyin": "Dìzhèn cuīhuǐ le zhěnggè cūnzhuāng.",
+        "en": "Deprem tüm köyü mahvetti."
+      },
+      {
+        "zh": "这场大火摧毁了他们的家园。",
+        "pinyin": "Zhè chǎng dàhuǒ cuīhuǐ le tāmen de jiāyuán.",
+        "en": "Bu büyük yangın yurtlarını yerle bir etti."
+      }
+    ]
+  },
+  {
+    "id": "w2902",
+    "hanzi": "村",
+    "pinyin": "cūn",
+    "meaning": "köy",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他出生在一个小村里。",
+        "pinyin": "Tā chūshēng zài yí ge xiǎo cūn lǐ.",
+        "en": "Küçük bir köyde doğdu."
+      },
+      {
+        "zh": "这个村的人都很热情。",
+        "pinyin": "Zhège cūn de rén dōu hěn rèqíng.",
+        "en": "Bu köyün insanları çok sıcakkanlı."
+      },
+      {
+        "zh": "我们开车去了一个偏远的村子。",
+        "pinyin": "Wǒmen kāichē qù le yí ge piānyuǎn de cūnzi.",
+        "en": "Arabayla uzak bir köye gittik."
+      },
+      {
+        "zh": "村里的孩子在田野里玩耍。",
+        "pinyin": "Cūn lǐ de háizi zài tiányě lǐ wánshuǎ.",
+        "en": "Köydeki çocuklar tarlalarda oynuyor."
+      },
+      {
+        "zh": "这个村有几百年的历史。",
+        "pinyin": "Zhège cūn yǒu jǐ bǎi nián de lìshǐ.",
+        "en": "Bu köyün birkaç yüz yıllık tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w2903",
+    "hanzi": "存款",
+    "pinyin": "cúnkuǎn",
+    "meaning": "mevduat, tasarruf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他有一笔可观的存款。",
+        "pinyin": "Tā yǒu yì bǐ kěguān de cúnkuǎn.",
+        "en": "Kayda değer bir birikimi var."
+      },
+      {
+        "zh": "她把存款都投资到房地产上了。",
+        "pinyin": "Tā bǎ cúnkuǎn dōu tóuzī dào fángdìchǎn shàng le.",
+        "en": "Tüm birikimini gayrimenkule yatırdı."
+      },
+      {
+        "zh": "请查询一下我的存款余额。",
+        "pinyin": "Qǐng cháxún yíxià wǒ de cúnkuǎn yú'é.",
+        "en": "Lütfen mevduat bakiyemi kontrol edin."
+      },
+      {
+        "zh": "他们打算用存款买一套新房子。",
+        "pinyin": "Tāmen dǎsuàn yòng cúnkuǎn mǎi yí tào xīn fángzi.",
+        "en": "Birikimleriyle yeni bir ev almayı planlıyorlar."
+      },
+      {
+        "zh": "每个月她都会增加一些存款。",
+        "pinyin": "Měi ge yuè tā dōu huì zēngjiā yìxiē cúnkuǎn.",
+        "en": "Her ay birikimini biraz artırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2904",
+    "hanzi": "挫折",
+    "pinyin": "cuòzhé",
+    "meaning": "aksilik, başarısızlık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "生活中难免会遇到挫折。",
+        "pinyin": "Shēnghuó zhōng nánmiǎn huì yùdào cuòzhé.",
+        "en": "Hayatta kaçınılmaz olarak aksiliklerle karşılaşılır."
+      },
+      {
+        "zh": "他没有因为挫折而放弃。",
+        "pinyin": "Tā méiyǒu yīnwèi cuòzhé ér fàngqì.",
+        "en": "Aksilikler yüzünden pes etmedi."
+      },
+      {
+        "zh": "每次挫折都让她变得更坚强。",
+        "pinyin": "Měi cì cuòzhé dōu ràng tā biàn de gèng jiānqiáng.",
+        "en": "Her aksilik onu daha güçlü hale getirdi."
+      },
+      {
+        "zh": "面对挫折，我们要保持乐观。",
+        "pinyin": "Miànduì cuòzhé, wǒmen yào bǎochí lèguān.",
+        "en": "Aksiliklerle karşılaştığımızda iyimser kalmalıyız."
+      },
+      {
+        "zh": "他经历了很多挫折才成功。",
+        "pinyin": "Tā jīnglì le hěn duō cuòzhé cái chénggōng.",
+        "en": "Başarılı olmadan önce birçok aksilik yaşadı."
+      }
+    ]
+  },
+  {
+    "id": "w2905",
+    "hanzi": "错过",
+    "pinyin": "cuòguò",
+    "meaning": "kaçırmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他错过了最后一班公交车。",
+        "pinyin": "Tā cuòguò le zuìhòu yì bān gōngjiāochē.",
+        "en": "Son otobüsü kaçırdı."
+      },
+      {
+        "zh": "别错过这个难得的机会。",
+        "pinyin": "Bié cuòguò zhège nándé de jīhuì.",
+        "en": "Bu ender fırsatı kaçırma."
+      },
+      {
+        "zh": "她因为堵车错过了会议。",
+        "pinyin": "Tā yīnwèi dǔchē cuòguò le huìyì.",
+        "en": "Trafik yüzünden toplantıyı kaçırdı."
+      },
+      {
+        "zh": "我们错过了那部电影的首映。",
+        "pinyin": "Wǒmen cuòguò le nà bù diànyǐng de shǒuyìng.",
+        "en": "O filmin galasını kaçırdık."
+      },
+      {
+        "zh": "不要错过精彩的表演。",
+        "pinyin": "Búyào cuòguò jīngcǎi de biǎoyǎn.",
+        "en": "Muhteşem gösteriyi kaçırma."
+      }
+    ]
+  },
+  {
+    "id": "w2906",
+    "hanzi": "答复",
+    "pinyin": "dáfù",
+    "meaning": "cevap vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "请尽快答复我们的邮件。",
+        "pinyin": "Qǐng jǐnkuài dáfù wǒmen de yóujiàn.",
+        "en": "Lütfen e-postamıza en kısa sürede yanıt verin."
+      },
+      {
+        "zh": "公司还没有给出正式答复。",
+        "pinyin": "Gōngsī hái méiyǒu gěichū zhèngshì dáfù.",
+        "en": "Şirket henüz resmi bir yanıt vermedi."
+      },
+      {
+        "zh": "我们期待您的答复。",
+        "pinyin": "Wǒmen qīdài nín de dáfù.",
+        "en": "Yanıtınızı bekliyoruz."
+      },
+      {
+        "zh": "他很快就答复了我的问题。",
+        "pinyin": "Tā hěn kuài jiù dáfù le wǒ de wèntí.",
+        "en": "Sorumu çok çabuk yanıtladı."
+      },
+      {
+        "zh": "请给我一个明确的答复。",
+        "pinyin": "Qǐng gěi wǒ yí ge míngquè de dáfù.",
+        "en": "Lütfen bana net bir cevap verin."
+      }
+    ]
+  },
+  {
+    "id": "w2907",
+    "hanzi": "搭配",
+    "pinyin": "dāpèi",
+    "meaning": "eşleştirmek, uyumlu hale getirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "这件衣服和那双鞋搭配得很好。",
+        "pinyin": "Zhè jiàn yīfu hé nà shuāng xié dāpèi de hěn hǎo.",
+        "en": "Bu kıyafet ve o ayakkabılar çok uyumlu."
+      },
+      {
+        "zh": "请合理搭配你的饮食。",
+        "pinyin": "Qǐng hélǐ dāpèi nǐ de yǐnshí.",
+        "en": "Lütfen beslenmenizi dengeli bir şekilde ayarlayın."
+      },
+      {
+        "zh": "她很擅长搭配颜色。",
+        "pinyin": "Tā hěn shàncháng dāpèi yánsè.",
+        "en": "Renkleri eşleştirmede çok başarılı."
+      },
+      {
+        "zh": "这两个人搭配得很默契。",
+        "pinyin": "Zhè liǎng ge rén dāpèi de hěn mòqì.",
+        "en": "Bu iki kişi çok uyumlu çalışıyor."
+      },
+      {
+        "zh": "她给孩子搭配了营养均衡的午餐。",
+        "pinyin": "Tā gěi háizi dāpèi le yíngyǎng jūnhéng de wǔcān.",
+        "en": "Çocuğuna dengeli bir öğle yemeği hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w2908",
+    "hanzi": "打败",
+    "pinyin": "dǎbài",
+    "meaning": "yenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "我们的球队打败了对手。",
+        "pinyin": "Wǒmen de qiúduì dǎbài le duìshǒu.",
+        "en": "Takımımız rakibi yendi."
+      },
+      {
+        "zh": "他在比赛中打败了所有对手。",
+        "pinyin": "Tā zài bǐsài zhōng dǎbài le suǒyǒu duìshǒu.",
+        "en": "Yarışmada tüm rakiplerini yendi."
+      },
+      {
+        "zh": "她最终打败了自己的恐惧。",
+        "pinyin": "Tā zuìzhōng dǎbài le zìjǐ de kǒngjù.",
+        "en": "Sonunda kendi korkusunu yendi."
+      },
+      {
+        "zh": "这支军队打败了敌军。",
+        "pinyin": "Zhè zhī jūnduì dǎbài le díjūn.",
+        "en": "Bu ordu düşman ordusunu yendi."
+      },
+      {
+        "zh": "他被自己的懒惰打败了。",
+        "pinyin": "Tā bèi zìjǐ de lǎnduò dǎbài le.",
+        "en": "Kendi tembelliği tarafından yenildi."
+      }
+    ]
+  },
+  {
+    "id": "w2909",
+    "hanzi": "催眠",
+    "pinyin": "cuīmián",
+    "meaning": "hipnotize etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生用催眠疗法帮助他戒烟。",
+        "pinyin": "Yīshēng yòng cuīmián liáofǎ bāngzhù tā jièyān.",
+        "en": "Doktor sigarayı bırakmasına yardımcı olmak için hipnoz terapisi kullandı."
+      },
+      {
+        "zh": "单调的声音让她昏昏欲睡，像被催眠了一样。",
+        "pinyin": "Dāndiào de shēngyīn ràng tā hūnhūn-yùshuì, xiàng bèi cuīmián le yíyàng.",
+        "en": "Monoton ses onu uykuya sürükledi, sanki hipnotize edilmiş gibiydi."
+      }
+    ]
+  },
+  {
+    "id": "w2910",
+    "hanzi": "存折",
+    "pinyin": "cúnzhé",
+    "meaning": "banka defteri, hesap cüzdanı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "请出示您的存折。",
+        "pinyin": "Qǐng chūshì nín de cúnzhé.",
+        "en": "Lütfen hesap cüzdanınızı gösterin."
+      },
+      {
+        "zh": "他把存折放在抽屉里。",
+        "pinyin": "Tā bǎ cúnzhé fàng zài chōuti lǐ.",
+        "en": "Hesap cüzdanını çekmecede tutuyor."
+      }
+    ]
+  },
+  {
+    "id": "w2911",
+    "hanzi": "磋商",
+    "pinyin": "cuōshāng",
+    "meaning": "müzakere etmek, görüşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "双方就合同细节进行了磋商。",
+        "pinyin": "Shuāngfāng jiù hétong xìjié jìnxíng le cuōshāng.",
+        "en": "İki taraf sözleşme detayları hakkında görüştü."
+      },
+      {
+        "zh": "两国代表进行了友好磋商。",
+        "pinyin": "Liǎng guó dàibiǎo jìnxíng le yǒuhǎo cuōshāng.",
+        "en": "İki ülkenin temsilcileri dostane bir görüşme yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w2912",
+    "hanzi": "措辞",
+    "pinyin": "cuòcí",
+    "meaning": "ifade tarzı, üslup",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他的措辞非常谨慎。",
+        "pinyin": "Tā de cuòcí fēicháng jǐnshèn.",
+        "en": "İfade tarzı çok temkinli."
+      },
+      {
+        "zh": "请注意信件的措辞。",
+        "pinyin": "Qǐng zhùyì xìnjiàn de cuòcí.",
+        "en": "Lütfen mektubun ifade tarzına dikkat edin."
+      }
+    ]
+  },
+  {
+    "id": "w2913",
+    "hanzi": "搭档",
+    "pinyin": "dādàng",
+    "meaning": "ortak, partner",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们是多年的工作搭档。",
+        "pinyin": "Tāmen shì duō nián de gōngzuò dādàng.",
+        "en": "Yıllardır iş ortağıdırlar."
+      },
+      {
+        "zh": "她找到了一个很好的合作搭档。",
+        "pinyin": "Tā zhǎodào le yí ge hěn hǎo de hézuò dādàng.",
+        "en": "İyi bir iş ortağı buldu."
+      }
+    ]
+  },
+  {
+    "id": "w2914",
+    "hanzi": "答辩",
+    "pinyin": "dábiàn",
+    "meaning": "savunma yapmak (tez vs.)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他明天要进行论文答辩。",
+        "pinyin": "Tā míngtiān yào jìnxíng lùnwén dábiàn.",
+        "en": "Yarın tez savunması yapacak."
+      },
+      {
+        "zh": "她顺利通过了博士答辩。",
+        "pinyin": "Tā shùnlì tōngguò le bóshì dábiàn.",
+        "en": "Doktora savunmasını başarıyla geçti."
+      }
+    ]
   }
 ]

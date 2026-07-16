@@ -133978,5 +133978,854 @@
         "en": "Kurbanların aile üyeleri tazminat aldı."
       }
     ]
+  },
+  {
+    "id": "w3910",
+    "hanzi": "家长",
+    "pinyin": "jiāzhǎng",
+    "meaning": "ebeveyn, veli",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "家长会明天举行。",
+        "pinyin": "Jiāzhǎnghuì míngtiān jǔxíng.",
+        "en": "Veli toplantısı yarın yapılacak."
+      },
+      {
+        "zh": "家长应该多陪伴孩子。",
+        "pinyin": "Jiāzhǎng yīnggāi duō péibàn háizi.",
+        "en": "Ebeveynler çocuklarına daha çok zaman ayırmalı."
+      },
+      {
+        "zh": "学校邀请家长参加活动。",
+        "pinyin": "Xuéxiào yāoqǐng jiāzhǎng cānjiā huódòng.",
+        "en": "Okul velileri etkinliğe davet etti."
+      },
+      {
+        "zh": "很多家长对孩子的教育非常重视。",
+        "pinyin": "Hěn duō jiāzhǎng duì háizi de jiàoyù fēicháng zhòngshì.",
+        "en": "Birçok ebeveyn çocuklarının eğitimine büyük önem veriyor."
+      },
+      {
+        "zh": "家长要为孩子树立好榜样。",
+        "pinyin": "Jiāzhǎng yào wèi háizi shùlì hǎo bǎngyàng.",
+        "en": "Ebeveynler çocuklarına iyi örnek olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w3911",
+    "hanzi": "家族",
+    "pinyin": "jiāzú",
+    "meaning": "aile, klan, soy",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "这是一个古老的家族。",
+        "pinyin": "Zhè shì yí ge gǔlǎo de jiāzú.",
+        "en": "Bu köklü bir ailedir."
+      },
+      {
+        "zh": "他的家族世代经商。",
+        "pinyin": "Tā de jiāzú shìdài jīngshāng.",
+        "en": "Ailesi nesiller boyu ticaret yapmış."
+      },
+      {
+        "zh": "家族聚会每年都会举行。",
+        "pinyin": "Jiāzú jùhuì měinián dōu huì jǔxíng.",
+        "en": "Aile toplantısı her yıl yapılır."
+      },
+      {
+        "zh": "这个家族拥有悠久的历史。",
+        "pinyin": "Zhège jiāzú yōngyǒu yōujiǔ de lìshǐ.",
+        "en": "Bu ailenin köklü bir tarihi var."
+      },
+      {
+        "zh": "他继承了家族企业。",
+        "pinyin": "Tā jìchéngle jiāzú qǐyè.",
+        "en": "Aile şirketini devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w3912",
+    "hanzi": "佳",
+    "pinyin": "jiā",
+    "meaning": "güzel, iyi, harika",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这道菜味道极佳。",
+        "pinyin": "Zhè dào cài wèidao jí jiā.",
+        "en": "Bu yemeğin tadı son derece güzel."
+      },
+      {
+        "zh": "他考试成绩甚佳。",
+        "pinyin": "Tā kǎoshì chéngjì shèn jiā.",
+        "en": "Sınav notu çok iyi."
+      },
+      {
+        "zh": "今天天气甚佳。",
+        "pinyin": "Jīntiān tiānqì shèn jiā.",
+        "en": "Bugün hava çok güzel."
+      },
+      {
+        "zh": "这是解决问题的最佳方案。",
+        "pinyin": "Zhè shì jiějué wèntí de zuì jiā fāng'àn.",
+        "en": "Bu, sorunu çözmenin en iyi yöntemi."
+      },
+      {
+        "zh": "他表现极佳，赢得了大家的赞赏。",
+        "pinyin": "Tā biǎoxiàn jí jiā, yíngdéle dàjiā de zànshǎng.",
+        "en": "Performansı çok iyiydi, herkesin takdirini kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w3913",
+    "hanzi": "佳话",
+    "pinyin": "jiāhuà",
+    "meaning": "dilden dile dolaşan güzel hikaye",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他们的友情成了一段佳话。",
+        "pinyin": "Tāmen de yǒuqíng chéngle yí duàn jiāhuà.",
+        "en": "Dostlukları dilden dile dolaşan bir hikaye oldu."
+      },
+      {
+        "zh": "这个善举被传为佳话。",
+        "pinyin": "Zhège shànjǔ bèi chuánwéi jiāhuà.",
+        "en": "Bu iyilik dilden dile anlatılan bir hikaye haline geldi."
+      }
+    ]
+  },
+  {
+    "id": "w3914",
+    "hanzi": "佳人",
+    "pinyin": "jiārén",
+    "meaning": "güzel kadın",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她被誉为绝代佳人。",
+        "pinyin": "Tā bèi yùwéi juédài jiārén.",
+        "en": "O, eşsiz bir güzel olarak nitelendirildi."
+      },
+      {
+        "zh": "才子佳人的故事一直很受欢迎。",
+        "pinyin": "Cáizǐ jiārén de gùshi yìzhí hěn shòu huānyíng.",
+        "en": "Yetenekli erkek ve güzel kadın hikayeleri hep popülerdir."
+      },
+      {
+        "zh": "她真是一位难得的佳人。",
+        "pinyin": "Tā zhēnshi yí wèi nándé de jiārén.",
+        "en": "O gerçekten ender bulunan bir güzellik."
+      },
+      {
+        "zh": "画中的佳人栩栩如生。",
+        "pinyin": "Huà zhōng de jiārén xǔxǔ-rúshēng.",
+        "en": "Tablodaki güzel kadın adeta canlı gibi."
+      },
+      {
+        "zh": "这位佳人举止优雅。",
+        "pinyin": "Zhè wèi jiārén jǔzhǐ yōuyǎ.",
+        "en": "Bu güzel hanım zarif tavırlara sahip."
+      }
+    ]
+  },
+  {
+    "id": "w3915",
+    "hanzi": "佳音",
+    "pinyin": "jiāyīn",
+    "meaning": "iyi haber",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "我们期待着你的佳音。",
+        "pinyin": "Wǒmen qīdàizhe nǐ de jiāyīn.",
+        "en": "İyi haberini bekliyoruz."
+      },
+      {
+        "zh": "终于等来了佳音。",
+        "pinyin": "Zhōngyú děngláile jiāyīn.",
+        "en": "Sonunda beklenen iyi haber geldi."
+      },
+      {
+        "zh": "请告诉我们你的佳音。",
+        "pinyin": "Qǐng gàosu wǒmen nǐ de jiāyīn.",
+        "en": "Lütfen bize iyi haberini söyle."
+      },
+      {
+        "zh": "大家都在盼望佳音。",
+        "pinyin": "Dàjiā dōu zài pànwàng jiāyīn.",
+        "en": "Herkes iyi haber bekliyor."
+      },
+      {
+        "zh": "他带来了令人振奋的佳音。",
+        "pinyin": "Tā dàiláile lìng rén zhènfèn de jiāyīn.",
+        "en": "Heyecan verici bir iyi haber getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3916",
+    "hanzi": "嘉奖",
+    "pinyin": "jiājiǎng",
+    "meaning": "ödüllendirmek, taltif etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府嘉奖了这位英雄。",
+        "pinyin": "Zhèngfǔ jiājiǎngle zhè wèi yīngxióng.",
+        "en": "Hükümet bu kahramanı ödüllendirdi."
+      },
+      {
+        "zh": "学校嘉奖了表现优秀的学生。",
+        "pinyin": "Xuéxiào jiājiǎngle biǎoxiàn yōuxiù de xuésheng.",
+        "en": "Okul başarılı öğrencileri ödüllendirdi."
+      },
+      {
+        "zh": "他因见义勇为受到嘉奖。",
+        "pinyin": "Tā yīn jiànyì-yǒngwéi shòudào jiājiǎng.",
+        "en": "Cesur davranışı nedeniyle ödüllendirildi."
+      },
+      {
+        "zh": "公司嘉奖了业绩突出的员工。",
+        "pinyin": "Gōngsī jiājiǎngle yèjì tūchū de yuángōng.",
+        "en": "Şirket üstün performans gösteren çalışanları ödüllendirdi."
+      },
+      {
+        "zh": "他受到了上级的嘉奖。",
+        "pinyin": "Tā shòudàole shàngjí de jiājiǎng.",
+        "en": "Üstlerinden takdir aldı."
+      }
+    ]
+  },
+  {
+    "id": "w3917",
+    "hanzi": "茄克",
+    "pinyin": "jiākè",
+    "meaning": "ceket, mont",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "他穿了一件黑色茄克。",
+        "pinyin": "Tā chuānle yí jiàn hēisè jiākè.",
+        "en": "Siyah bir ceket giydi."
+      },
+      {
+        "zh": "这件茄克很保暖。",
+        "pinyin": "Zhè jiàn jiākè hěn bǎonuǎn.",
+        "en": "Bu ceket çok sıcak tutuyor."
+      },
+      {
+        "zh": "她买了一件新茄克。",
+        "pinyin": "Tā mǎile yí jiàn xīn jiākè.",
+        "en": "Yeni bir ceket satın aldı."
+      },
+      {
+        "zh": "这件茄克是皮的。",
+        "pinyin": "Zhè jiàn jiākè shì pí de.",
+        "en": "Bu ceket deriden."
+      },
+      {
+        "zh": "他的茄克上有很多口袋。",
+        "pinyin": "Tā de jiākè shàng yǒu hěn duō kǒudai.",
+        "en": "Ceketinde birçok cep var."
+      }
+    ]
+  },
+  {
+    "id": "w3918",
+    "hanzi": "甲板",
+    "pinyin": "jiǎbǎn",
+    "meaning": "güverte",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "我们站在甲板上看日出。",
+        "pinyin": "Wǒmen zhàn zài jiǎbǎn shàng kàn rìchū.",
+        "en": "Güvertede durup gün doğumunu izledik."
+      },
+      {
+        "zh": "船员在甲板上工作。",
+        "pinyin": "Chuányuán zài jiǎbǎn shàng gōngzuò.",
+        "en": "Gemi mürettebatı güvertede çalışıyor."
+      },
+      {
+        "zh": "甲板上挤满了乘客。",
+        "pinyin": "Jiǎbǎn shàng jǐmǎnle chéngkè.",
+        "en": "Güverte yolcularla doldu."
+      },
+      {
+        "zh": "大风把甲板上的东西吹走了。",
+        "pinyin": "Dàfēng bǎ jiǎbǎn shàng de dōngxi chuīzǒu le.",
+        "en": "Şiddetli rüzgar güvertedeki eşyaları uçurdu."
+      },
+      {
+        "zh": "游客们在甲板上拍照留念。",
+        "pinyin": "Yóukèmen zài jiǎbǎn shàng pāizhào liúniàn.",
+        "en": "Turistler güvertede hatıra fotoğrafı çekti."
+      }
+    ]
+  },
+  {
+    "id": "w3919",
+    "hanzi": "价钱",
+    "pinyin": "jiàqian",
+    "meaning": "fiyat",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这个价钱太贵了。",
+        "pinyin": "Zhège jiàqian tài guì le.",
+        "en": "Bu fiyat çok pahalı."
+      },
+      {
+        "zh": "你能便宜点价钱吗？",
+        "pinyin": "Nǐ néng piányi diǎn jiàqian ma?",
+        "en": "Fiyatı biraz indirebilir misiniz?"
+      },
+      {
+        "zh": "这里的价钱很合理。",
+        "pinyin": "Zhèlǐ de jiàqian hěn hélǐ.",
+        "en": "Buradaki fiyatlar çok makul."
+      },
+      {
+        "zh": "我们商量了一下价钱。",
+        "pinyin": "Wǒmen shāngliangle yíxià jiàqian.",
+        "en": "Fiyat üzerine biraz konuştuk."
+      },
+      {
+        "zh": "不同商店的价钱不一样。",
+        "pinyin": "Bùtóng shāngdiàn de jiàqian bù yíyàng.",
+        "en": "Farklı mağazalarda fiyatlar değişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3920",
+    "hanzi": "假期",
+    "pinyin": "jiàqī",
+    "meaning": "tatil, izin",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "暑假是一个长假期。",
+        "pinyin": "Shǔjià shì yí ge cháng jiàqī.",
+        "en": "Yaz tatili uzun bir tatildir."
+      },
+      {
+        "zh": "我打算利用假期去旅行。",
+        "pinyin": "Wǒ dǎsuàn lìyòng jiàqī qù lǚxíng.",
+        "en": "Tatili gezi yapmak için değerlendirmeyi planlıyorum."
+      },
+      {
+        "zh": "假期结束后我们要开学了。",
+        "pinyin": "Jiàqī jiéshù hòu wǒmen yào kāixué le.",
+        "en": "Tatil bittikten sonra okula başlayacağız."
+      },
+      {
+        "zh": "假期里他在家学习。",
+        "pinyin": "Jiàqī lǐ tā zài jiā xuéxí.",
+        "en": "Tatilde evde ders çalıştı."
+      },
+      {
+        "zh": "假期过得非常愉快。",
+        "pinyin": "Jiàqī guò de fēicháng yúkuài.",
+        "en": "Tatili çok keyifli geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3921",
+    "hanzi": "假日",
+    "pinyin": "jiàrì",
+    "meaning": "tatil günü",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "假日商场里人特别多。",
+        "pinyin": "Jiàrì shāngchǎng lǐ rén tèbié duō.",
+        "en": "Tatil gününde alışveriş merkezinde çok insan olur."
+      },
+      {
+        "zh": "我们打算假日去公园野餐。",
+        "pinyin": "Wǒmen dǎsuàn jiàrì qù gōngyuán yěcān.",
+        "en": "Tatil gününde parkta piknik yapmayı planlıyoruz."
+      },
+      {
+        "zh": "假日里孩子们可以尽情玩耍。",
+        "pinyin": "Jiàrì lǐ háizimen kěyǐ jìnqíng wánshuǎ.",
+        "en": "Tatil gününde çocuklar dilediklerince oynayabilir."
+      },
+      {
+        "zh": "国庆假日期间高速公路很拥堵。",
+        "pinyin": "Guóqìng jiàrì qījiān gāosù gōnglù hěn yōngdǔ.",
+        "en": "Ulusal Bayram tatili sırasında otoyollar çok tıkalı olur."
+      },
+      {
+        "zh": "假日结束后我们又要上班了。",
+        "pinyin": "Jiàrì jiéshù hòu wǒmen yòu yào shàngbān le.",
+        "en": "Tatil bittikten sonra tekrar işe gideceğiz."
+      }
+    ]
+  },
+  {
+    "id": "w3922",
+    "hanzi": "假扮",
+    "pinyin": "jiǎbàn",
+    "meaning": "kılık değiştirmek, gibi görünmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他假扮成医生进入了病房。",
+        "pinyin": "Tā jiǎbàn chéng yīshēng jìnrùle bìngfáng.",
+        "en": "Doktor kılığına girip hasta odasına girdi."
+      },
+      {
+        "zh": "她假扮成陌生人接近了他。",
+        "pinyin": "Tā jiǎbàn chéng mòshēngrén jiējìnle tā.",
+        "en": "Yabancı gibi davranarak ona yaklaştı."
+      },
+      {
+        "zh": "演员假扮成老人参加了活动。",
+        "pinyin": "Yǎnyuán jiǎbàn chéng lǎorén cānjiāle huódòng.",
+        "en": "Oyuncu yaşlı biri kılığına girip etkinliğe katıldı."
+      },
+      {
+        "zh": "他假扮成保安混进了大楼。",
+        "pinyin": "Tā jiǎbàn chéng bǎo'ān hùnjìnle dàlóu.",
+        "en": "Güvenlik görevlisi kılığına girip binaya sızdı."
+      },
+      {
+        "zh": "小孩子喜欢假扮成动画角色。",
+        "pinyin": "Xiǎoháizi xǐhuan jiǎbàn chéng dònghuà juésè.",
+        "en": "Küçük çocuklar çizgi film karakteri gibi davranmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w3923",
+    "hanzi": "假定",
+    "pinyin": "jiǎdìng",
+    "meaning": "varsaymak, farz etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "我们假定这个数字是正确的。",
+        "pinyin": "Wǒmen jiǎdìng zhège shùzì shì zhèngquè de.",
+        "en": "Bu sayının doğru olduğunu varsayıyoruz."
+      },
+      {
+        "zh": "假定明天下雨，我们该怎么办？",
+        "pinyin": "Jiǎdìng míngtiān xiàyǔ, wǒmen gāi zěnme bàn?",
+        "en": "Yarın yağmur yağdığını varsayarsak ne yapmalıyız?"
+      },
+      {
+        "zh": "这个理论建立在一个假定之上。",
+        "pinyin": "Zhège lǐlùn jiànlì zài yí ge jiǎdìng zhī shàng.",
+        "en": "Bu teori bir varsayım üzerine kuruludur."
+      },
+      {
+        "zh": "请假定所有条件都相同。",
+        "pinyin": "Qǐng jiǎdìng suǒyǒu tiáojiàn dōu xiāngtóng.",
+        "en": "Lütfen tüm koşulların aynı olduğunu varsayın."
+      },
+      {
+        "zh": "科学家做出了一个大胆的假定。",
+        "pinyin": "Kēxuéjiā zuòchūle yí ge dàdǎn de jiǎdìng.",
+        "en": "Bilim insanı cesur bir varsayımda bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w3924",
+    "hanzi": "假发",
+    "pinyin": "jiǎfà",
+    "meaning": "peruk",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "她戴着一顶假发。",
+        "pinyin": "Tā dàizhe yì dǐng jiǎfà.",
+        "en": "Bir peruk takıyor."
+      },
+      {
+        "zh": "演员为了角色戴上了假发。",
+        "pinyin": "Yǎnyuán wèile juésè dàishàngle jiǎfà.",
+        "en": "Oyuncu rolü için peruk taktı."
+      },
+      {
+        "zh": "这顶假发看起来非常自然。",
+        "pinyin": "Zhè dǐng jiǎfà kàn qǐlai fēicháng zìrán.",
+        "en": "Bu peruk çok doğal görünüyor."
+      },
+      {
+        "zh": "他因为脱发戴上了假发。",
+        "pinyin": "Tā yīnwèi tuōfà dàishàngle jiǎfà.",
+        "en": "Saç dökülmesi nedeniyle peruk taktı."
+      },
+      {
+        "zh": "假发店里有各种颜色的假发。",
+        "pinyin": "Jiǎfàdiàn lǐ yǒu gèzhǒng yánsè de jiǎfà.",
+        "en": "Peruk dükkanında çeşitli renklerde perukalar var."
+      }
+    ]
+  },
+  {
+    "id": "w3925",
+    "hanzi": "假话",
+    "pinyin": "jiǎhuà",
+    "meaning": "yalan, sahte söz",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他从不说假话。",
+        "pinyin": "Tā cóng bù shuō jiǎhuà.",
+        "en": "Hiç yalan söylemez."
+      },
+      {
+        "zh": "别相信他的假话。",
+        "pinyin": "Bié xiāngxìn tā de jiǎhuà.",
+        "en": "Onun yalanlarına inanma."
+      },
+      {
+        "zh": "她被识破了假话。",
+        "pinyin": "Tā bèi shípòle jiǎhuà.",
+        "en": "Yalanı ortaya çıktı."
+      },
+      {
+        "zh": "说假话是不诚实的表现。",
+        "pinyin": "Shuō jiǎhuà shì bù chéngshí de biǎoxiàn.",
+        "en": "Yalan söylemek dürüst olmamanın bir göstergesidir."
+      },
+      {
+        "zh": "他为了掩盖错误说了假话。",
+        "pinyin": "Tā wèile yǎngài cuòwù shuōle jiǎhuà.",
+        "en": "Hatasını örtbas etmek için yalan söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w3926",
+    "hanzi": "假冒",
+    "pinyin": "jiǎmào",
+    "meaning": "sahte olarak taklit etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "市场上有很多假冒产品。",
+        "pinyin": "Shìchǎng shàng yǒu hěn duō jiǎmào chǎnpǐn.",
+        "en": "Pazarda birçok sahte ürün var."
+      },
+      {
+        "zh": "他因假冒他人身份被捕。",
+        "pinyin": "Tā yīn jiǎmào tārén shēnfèn bèi bǔ.",
+        "en": "Başkasının kimliğine bürünmesi nedeniyle tutuklandı."
+      },
+      {
+        "zh": "这些是假冒名牌商品。",
+        "pinyin": "Zhèxiē shì jiǎmào míngpái shāngpǐn.",
+        "en": "Bunlar sahte marka ürünler."
+      },
+      {
+        "zh": "警方查获了一批假冒药品。",
+        "pinyin": "Jǐngfāng cháhuòle yì pī jiǎmào yàopǐn.",
+        "en": "Polis bir grup sahte ilaç ele geçirdi."
+      },
+      {
+        "zh": "消费者应警惕假冒商品。",
+        "pinyin": "Xiāofèizhě yīng jǐngtì jiǎmào shāngpǐn.",
+        "en": "Tüketiciler sahte ürünlere karşı dikkatli olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w3927",
+    "hanzi": "假设",
+    "pinyin": "jiǎshè",
+    "meaning": "varsaymak, faraziyede bulunmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "假设这个说法是真的。",
+        "pinyin": "Jiǎshè zhège shuōfǎ shì zhēn de.",
+        "en": "Bu iddianın doğru olduğunu varsayalım."
+      },
+      {
+        "zh": "科学研究常常从假设开始。",
+        "pinyin": "Kēxué yánjiū chángcháng cóng jiǎshè kāishǐ.",
+        "en": "Bilimsel araştırmalar sıklıkla bir varsayımla başlar."
+      },
+      {
+        "zh": "他提出了一个新的假设。",
+        "pinyin": "Tā tíchūle yí ge xīn de jiǎshè.",
+        "en": "Yeni bir varsayım öne sürdü."
+      },
+      {
+        "zh": "我们需要验证这个假设。",
+        "pinyin": "Wǒmen xūyào yànzhèng zhège jiǎshè.",
+        "en": "Bu varsayımı doğrulamamız gerekiyor."
+      },
+      {
+        "zh": "假设条件成立，结果会如何？",
+        "pinyin": "Jiǎshè tiáojiàn chénglì, jiéguǒ huì rúhé?",
+        "en": "Koşulun sağlandığını varsayarsak sonuç ne olur?"
+      }
+    ]
+  },
+  {
+    "id": "w3928",
+    "hanzi": "假牙",
+    "pinyin": "jiǎyá",
+    "meaning": "takma diş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "爷爷戴着假牙。",
+        "pinyin": "Yéye dàizhe jiǎyá.",
+        "en": "Dedem takma diş takıyor."
+      },
+      {
+        "zh": "他去牙医那里定做了假牙。",
+        "pinyin": "Tā qù yáyī nàlǐ dìngzuòle jiǎyá.",
+        "en": "Diş hekimine gidip takma diş yaptırdı."
+      },
+      {
+        "zh": "假牙需要每天清洗。",
+        "pinyin": "Jiǎyá xūyào měitiān qīngxǐ.",
+        "en": "Takma dişler her gün temizlenmelidir."
+      },
+      {
+        "zh": "她的假牙掉了。",
+        "pinyin": "Tā de jiǎyá diào le.",
+        "en": "Takma dişi düştü."
+      },
+      {
+        "zh": "现在的假牙技术越来越先进。",
+        "pinyin": "Xiànzài de jiǎyá jìshù yuèláiyuè xiānjìn.",
+        "en": "Günümüzdeki takma diş teknolojisi giderek gelişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3929",
+    "hanzi": "架子",
+    "pinyin": "jiàzi",
+    "meaning": "raf, çerçeve, iskelet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "书都放在架子上。",
+        "pinyin": "Shū dōu fàng zài jiàzi shàng.",
+        "en": "Kitapların hepsi rafta duruyor."
+      },
+      {
+        "zh": "他搭了一个木头架子。",
+        "pinyin": "Tā dāle yí ge mùtou jiàzi.",
+        "en": "Bir tahta çerçeve kurdu."
+      },
+      {
+        "zh": "这个架子可以放很多东西。",
+        "pinyin": "Zhège jiàzi kěyǐ fàng hěn duō dōngxi.",
+        "en": "Bu raf birçok eşya taşıyabilir."
+      },
+      {
+        "zh": "衣服挂在衣架子上。",
+        "pinyin": "Yīfu guà zài yījiàzi shàng.",
+        "en": "Kıyafetler askıda asılı."
+      },
+      {
+        "zh": "他架子太大，不好相处。",
+        "pinyin": "Tā jiàzi tài dà, bù hǎo xiāngchǔ.",
+        "en": "Kibirli davrandığı için onunla geçinmek zor."
+      }
+    ]
+  },
+  {
+    "id": "w3930",
+    "hanzi": "驾照",
+    "pinyin": "jiàzhào",
+    "meaning": "ehliyet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他刚拿到驾照。",
+        "pinyin": "Tā gāng nádào jiàzhào.",
+        "en": "Yeni ehliyet aldı."
+      },
+      {
+        "zh": "开车必须带驾照。",
+        "pinyin": "Kāichē bìxū dài jiàzhào.",
+        "en": "Araba kullanırken ehliyet yanında olmalı."
+      },
+      {
+        "zh": "她考了三次才拿到驾照。",
+        "pinyin": "Tā kǎole sān cì cái nádào jiàzhào.",
+        "en": "Üç kez sınava girdikten sonra ehliyet aldı."
+      },
+      {
+        "zh": "他的驾照被吊销了。",
+        "pinyin": "Tā de jiàzhào bèi diàoxiāo le.",
+        "en": "Ehliyeti iptal edildi."
+      },
+      {
+        "zh": "请出示您的驾照。",
+        "pinyin": "Qǐng chūshì nín de jiàzhào.",
+        "en": "Lütfen ehliyetinizi gösterin."
+      }
+    ]
+  },
+  {
+    "id": "w3931",
+    "hanzi": "肩",
+    "pinyin": "jiān",
+    "meaning": "omuz",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的肩很宽。",
+        "pinyin": "Tā de jiān hěn kuān.",
+        "en": "Omuzları geniş."
+      },
+      {
+        "zh": "她把包背在肩上。",
+        "pinyin": "Tā bǎ bāo bēi zài jiān shàng.",
+        "en": "Çantayı omzuna astı."
+      },
+      {
+        "zh": "他肩上扛着一袋米。",
+        "pinyin": "Tā jiān shàng kángzhe yí dài mǐ.",
+        "en": "Omzunda bir çuval pirinç taşıyor."
+      },
+      {
+        "zh": "医生检查了他的肩关节。",
+        "pinyin": "Yīshēng jiǎnchále tā de jiān guānjié.",
+        "en": "Doktor omuz eklemini kontrol etti."
+      },
+      {
+        "zh": "她轻轻拍了拍他的肩。",
+        "pinyin": "Tā qīngqīng pāile pāi tā de jiān.",
+        "en": "Omzuna hafifçe vurdu."
+      }
+    ]
+  },
+  {
+    "id": "w3932",
+    "hanzi": "兼职",
+    "pinyin": "jiānzhí",
+    "meaning": "yarı zamanlı iş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他在做兼职工作。",
+        "pinyin": "Tā zài zuò jiānzhí gōngzuò.",
+        "en": "Yarı zamanlı bir iş yapıyor."
+      },
+      {
+        "zh": "大学生常常做一些兼职。",
+        "pinyin": "Dàxuéshēng chángcháng zuò yìxiē jiānzhí.",
+        "en": "Üniversite öğrencileri sıklıkla yarı zamanlı işler yapar."
+      },
+      {
+        "zh": "这份兼职收入不错。",
+        "pinyin": "Zhè fèn jiānzhí shōurù búcuò.",
+        "en": "Bu yarı zamanlı işin geliri fena değil."
+      },
+      {
+        "zh": "他除了正职外还有兼职。",
+        "pinyin": "Tā chúle zhèngzhí wài hái yǒu jiānzhí.",
+        "en": "Asıl işinin yanında yarı zamanlı bir işi de var."
+      },
+      {
+        "zh": "她找到了一份兼职家教工作。",
+        "pinyin": "Tā zhǎodàole yí fèn jiānzhí jiājiào gōngzuò.",
+        "en": "Yarı zamanlı bir özel ders işi buldu."
+      }
+    ]
+  },
+  {
+    "id": "w3933",
+    "hanzi": "监督",
+    "pinyin": "jiāndū",
+    "meaning": "denetlemek, gözetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府监督各项政策的执行。",
+        "pinyin": "Zhèngfǔ jiāndū gè xiàng zhèngcè de zhíxíng.",
+        "en": "Hükümet çeşitli politikaların uygulanmasını denetliyor."
+      },
+      {
+        "zh": "老师监督学生完成作业。",
+        "pinyin": "Lǎoshī jiāndū xuésheng wánchéng zuòyè.",
+        "en": "Öğretmen öğrencilerin ödevlerini tamamlamasını denetliyor."
+      },
+      {
+        "zh": "工程质量需要严格监督。",
+        "pinyin": "Gōngchéng zhìliàng xūyào yángé jiāndū.",
+        "en": "İnşaat kalitesi sıkı bir şekilde denetlenmelidir."
+      },
+      {
+        "zh": "公众有权监督政府的行为。",
+        "pinyin": "Gōngzhòng yǒu quán jiāndū zhèngfǔ de xíngwéi.",
+        "en": "Halkın hükümetin davranışlarını denetleme hakkı var."
+      },
+      {
+        "zh": "他负责监督工厂的生产过程。",
+        "pinyin": "Tā fùzé jiāndū gōngchǎng de shēngchǎn guòchéng.",
+        "en": "Fabrikanın üretim sürecini denetlemekten sorumlu."
+      }
+    ]
   }
 ]

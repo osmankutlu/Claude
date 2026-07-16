@@ -129853,5 +129853,824 @@
         "en": "Takım muhteşem bir sezon geçirdi."
       }
     ]
+  },
+  {
+    "id": "w3790",
+    "hanzi": "徽章",
+    "pinyin": "huīzhāng",
+    "meaning": "rozet, nişan",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他胸前戴着一枚徽章。",
+        "pinyin": "Tā xiōng qián dàizhe yì méi huīzhāng.",
+        "en": "Göğsünde bir rozet takıyor."
+      },
+      {
+        "zh": "这枚徽章代表着荣誉。",
+        "pinyin": "Zhè méi huīzhāng dàibiǎozhe róngyù.",
+        "en": "Bu rozet onuru temsil ediyor."
+      },
+      {
+        "zh": "学校发给每位毕业生一枚徽章。",
+        "pinyin": "Xuéxiào fāgěi měi wèi bìyèshēng yì méi huīzhāng.",
+        "en": "Okul her mezuna bir rozet verdi."
+      },
+      {
+        "zh": "他收集了很多不同的徽章。",
+        "pinyin": "Tā shōujíle hěn duō bùtóng de huīzhāng.",
+        "en": "Birçok farklı rozet topladı."
+      },
+      {
+        "zh": "警察的徽章上有编号。",
+        "pinyin": "Jǐngchá de huīzhāng shàng yǒu biānhào.",
+        "en": "Polisin rozetinde bir numara var."
+      }
+    ]
+  },
+  {
+    "id": "w3791",
+    "hanzi": "回避",
+    "pinyin": "huíbì",
+    "meaning": "kaçmak, kaçınmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他总是回避这个问题。",
+        "pinyin": "Tā zǒngshì huíbì zhège wèntí.",
+        "en": "Her zaman bu sorundan kaçınıyor."
+      },
+      {
+        "zh": "我们不能回避现实。",
+        "pinyin": "Wǒmen bù néng huíbì xiànshí.",
+        "en": "Gerçeklikten kaçamayız."
+      },
+      {
+        "zh": "她回避了记者的提问。",
+        "pinyin": "Tā huíbìle jìzhě de tíwèn.",
+        "en": "Gazetecinin sorularından kaçındı."
+      },
+      {
+        "zh": "遇到矛盾不要一味回避。",
+        "pinyin": "Yùdào máodùn bú yào yíwèi huíbì.",
+        "en": "Çatışmalarla karşılaşınca sürekli kaçınmamak gerekir."
+      },
+      {
+        "zh": "他有意回避与她见面。",
+        "pinyin": "Tā yǒuyì huíbì yǔ tā jiànmiàn.",
+        "en": "Onunla görüşmekten bilerek kaçınıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3792",
+    "hanzi": "回来",
+    "pinyin": "huílai",
+    "meaning": "geri dönmek, geri gelmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他明天回来。",
+        "pinyin": "Tā míngtiān huílai.",
+        "en": "Yarın geri dönecek."
+      },
+      {
+        "zh": "妈妈已经回来了。",
+        "pinyin": "Māma yǐjīng huílai le.",
+        "en": "Annem çoktan döndü."
+      },
+      {
+        "zh": "你什么时候回来？",
+        "pinyin": "Nǐ shénme shíhou huílai?",
+        "en": "Ne zaman geri dönüyorsun?"
+      },
+      {
+        "zh": "他出去了，还没回来。",
+        "pinyin": "Tā chūqù le, hái méi huílai.",
+        "en": "Dışarı çıktı, henüz dönmedi."
+      },
+      {
+        "zh": "快回来吃饭吧。",
+        "pinyin": "Kuài huílai chīfàn ba.",
+        "en": "Çabuk gel, yemek yiyelim."
+      }
+    ]
+  },
+  {
+    "id": "w3793",
+    "hanzi": "回去",
+    "pinyin": "huíqù",
+    "meaning": "geri gitmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我该回去了。",
+        "pinyin": "Wǒ gāi huíqù le.",
+        "en": "Artık geri gitmem gerekiyor."
+      },
+      {
+        "zh": "他决定回去看看父母。",
+        "pinyin": "Tā juédìng huíqù kànkan fùmǔ.",
+        "en": "Ailesini görmek için geri gitmeye karar verdi."
+      },
+      {
+        "zh": "我们明天就回去。",
+        "pinyin": "Wǒmen míngtiān jiù huíqù.",
+        "en": "Biz yarın geri gidiyoruz."
+      },
+      {
+        "zh": "请你把这本书带回去。",
+        "pinyin": "Qǐng nǐ bǎ zhè běn shū dài huíqù.",
+        "en": "Lütfen bu kitabı geri götür."
+      },
+      {
+        "zh": "天晚了，我们该回去了。",
+        "pinyin": "Tiān wǎn le, wǒmen gāi huíqù le.",
+        "en": "Hava geç oldu, geri gitmemiz gerek."
+      }
+    ]
+  },
+  {
+    "id": "w3794",
+    "hanzi": "回声",
+    "pinyin": "huíshēng",
+    "meaning": "yankı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "山谷里有回声。",
+        "pinyin": "Shāngǔ lǐ yǒu huíshēng.",
+        "en": "Vadide yankı var."
+      },
+      {
+        "zh": "他在山洞里听到了自己的回声。",
+        "pinyin": "Tā zài shāndòng lǐ tīngdàole zìjǐ de huíshēng.",
+        "en": "Mağarada kendi yankısını duydu."
+      },
+      {
+        "zh": "大声喊叫会引起回声。",
+        "pinyin": "Dàshēng hǎnjiào huì yǐnqǐ huíshēng.",
+        "en": "Yüksek sesle bağırmak yankıya neden olur."
+      },
+      {
+        "zh": "这个房间的回声很明显。",
+        "pinyin": "Zhège fángjiān de huíshēng hěn míngxiǎn.",
+        "en": "Bu odanın yankısı çok belirgin."
+      },
+      {
+        "zh": "声波遇到障碍物会产生回声。",
+        "pinyin": "Shēngbō yùdào zhàng'àiwù huì chǎnshēng huíshēng.",
+        "en": "Ses dalgaları engelle karşılaşınca yankı oluşturur."
+      }
+    ]
+  },
+  {
+    "id": "w3795",
+    "hanzi": "回收",
+    "pinyin": "huíshōu",
+    "meaning": "geri dönüştürmek, geri toplamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "我们应该回收利用废纸。",
+        "pinyin": "Wǒmen yīnggāi huíshōu lìyòng fèizhǐ.",
+        "en": "Atık kağıdı geri dönüştürerek kullanmalıyız."
+      },
+      {
+        "zh": "这些瓶子可以回收。",
+        "pinyin": "Zhèxiē píngzi kěyǐ huíshōu.",
+        "en": "Bu şişeler geri dönüştürülebilir."
+      },
+      {
+        "zh": "政府鼓励垃圾分类回收。",
+        "pinyin": "Zhèngfǔ gǔlì lājī fēnlèi huíshōu.",
+        "en": "Hükümet çöp ayrıştırma ve geri dönüşümü teşvik ediyor."
+      },
+      {
+        "zh": "工厂回收了大量废旧金属。",
+        "pinyin": "Gōngchǎng huíshōule dàliàng fèijiù jīnshǔ.",
+        "en": "Fabrika büyük miktarda hurda metal geri topladı."
+      },
+      {
+        "zh": "旧手机也可以拿去回收。",
+        "pinyin": "Jiù shǒujī yě kěyǐ ná qù huíshōu.",
+        "en": "Eski telefonlar da geri dönüşüme verilebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3796",
+    "hanzi": "回头",
+    "pinyin": "huítóu",
+    "meaning": "başını çevirmek; pişman olmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他听到声音回头看了一眼。",
+        "pinyin": "Tā tīngdào shēngyīn huítóu kànle yì yǎn.",
+        "en": "Sesi duyunca başını çevirip baktı."
+      },
+      {
+        "zh": "现在后悔已经来不及了，回头是岸。",
+        "pinyin": "Xiànzài hòuhuǐ yǐjīng láibují le, huítóu shì àn.",
+        "en": "Şimdi pişman olmak geç kaldı ama dönüş yolu her zaman vardır."
+      },
+      {
+        "zh": "她走远了也没有回头。",
+        "pinyin": "Tā zǒuyuǎn le yě méiyǒu huítóu.",
+        "en": "Uzaklaştı ama arkasına bile bakmadı."
+      },
+      {
+        "zh": "我们回头再谈这件事。",
+        "pinyin": "Wǒmen huítóu zài tán zhè jiàn shì.",
+        "en": "Bu konuyu sonra tekrar konuşalım."
+      },
+      {
+        "zh": "他劝她回头是岸，别再犯错。",
+        "pinyin": "Tā quàn tā huítóu shì àn, bié zài fàncuò.",
+        "en": "Ona dönüş yapıp hata yapmamasını tavsiye etti."
+      }
+    ]
+  },
+  {
+    "id": "w3797",
+    "hanzi": "回味",
+    "pinyin": "huíwèi",
+    "meaning": "ağızda kalan tat; anıyı yeniden tatmak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "这道菜很有回味。",
+        "pinyin": "Zhè dào cài hěn yǒu huíwèi.",
+        "en": "Bu yemeğin ağızda kalan tadı çok güzel."
+      },
+      {
+        "zh": "茶喝完后回味无穷。",
+        "pinyin": "Chá hēwán hòu huíwèi wúqióng.",
+        "en": "Çayı içtikten sonra ağızda kalan tadı sonsuz."
+      },
+      {
+        "zh": "他细细回味着童年的快乐时光。",
+        "pinyin": "Tā xìxì huíwèizhe tóngnián de kuàilè shíguāng.",
+        "en": "Çocukluğunun mutlu zamanlarını dikkatle hatırladı."
+      },
+      {
+        "zh": "这部电影让人回味无穷。",
+        "pinyin": "Zhè bù diànyǐng ràng rén huíwèi wúqióng.",
+        "en": "Bu film insanı düşündürüp derin bir tat bırakıyor."
+      },
+      {
+        "zh": "这道汤越喝越回味。",
+        "pinyin": "Zhè dào tāng yuè hē yuè huíwèi.",
+        "en": "Bu çorbayı içtikçe tadı daha da güzelleşiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3798",
+    "hanzi": "回想",
+    "pinyin": "huíxiǎng",
+    "meaning": "hatırlamak, anımsamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他回想起了小时候的事情。",
+        "pinyin": "Tā huíxiǎngqǐle xiǎoshíhou de shìqing.",
+        "en": "Çocukluğundaki olayları hatırladı."
+      },
+      {
+        "zh": "我常常回想那段美好的时光。",
+        "pinyin": "Wǒ chángcháng huíxiǎng nà duàn měihǎo de shíguāng.",
+        "en": "O güzel zamanları sık sık hatırlıyorum."
+      },
+      {
+        "zh": "回想起来，那真是一段难忘的经历。",
+        "pinyin": "Huíxiǎng qǐlai, nà zhēnshi yí duàn nánwàng de jīnglì.",
+        "en": "Düşününce, gerçekten unutulmaz bir deneyimdi."
+      },
+      {
+        "zh": "她努力回想事情发生的经过。",
+        "pinyin": "Tā nǔlì huíxiǎng shìqing fāshēng de jīngguò.",
+        "en": "Olayın nasıl geliştiğini hatırlamaya çalıştı."
+      },
+      {
+        "zh": "每次回想起那件事，他都很后悔。",
+        "pinyin": "Měi cì huíxiǎngqǐ nà jiàn shì, tā dōu hěn hòuhuǐ.",
+        "en": "O olayı her hatırladığında çok pişman oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w3799",
+    "hanzi": "回信",
+    "pinyin": "huíxìn",
+    "meaning": "cevap yazmak; cevap mektubu",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "我给他写了一封回信。",
+        "pinyin": "Wǒ gěi tā xiěle yì fēng huíxìn.",
+        "en": "Ona bir cevap mektubu yazdım."
+      },
+      {
+        "zh": "请尽快给我回信。",
+        "pinyin": "Qǐng jǐnkuài gěi wǒ huíxìn.",
+        "en": "Lütfen bana en kısa sürede cevap yaz."
+      },
+      {
+        "zh": "他一直没有回信。",
+        "pinyin": "Tā yìzhí méiyǒu huíxìn.",
+        "en": "Hâlâ cevap yazmadı."
+      },
+      {
+        "zh": "收到回信后，她非常高兴。",
+        "pinyin": "Shōudào huíxìn hòu, tā fēicháng gāoxìng.",
+        "en": "Cevap mektubunu alınca çok mutlu oldu."
+      },
+      {
+        "zh": "我在等他的回信。",
+        "pinyin": "Wǒ zài děng tā de huíxìn.",
+        "en": "Onun cevabını bekliyorum."
+      }
+    ]
+  },
+  {
+    "id": "w3800",
+    "hanzi": "回音",
+    "pinyin": "huíyīn",
+    "meaning": "yankı; cevap",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "我给你发了消息，还没收到回音。",
+        "pinyin": "Wǒ gěi nǐ fāle xiāoxi, hái méi shōudào huíyīn.",
+        "en": "Sana mesaj gönderdim, henüz cevap almadım."
+      },
+      {
+        "zh": "请尽快给我一个回音。",
+        "pinyin": "Qǐng jǐnkuài gěi wǒ yí ge huíyīn.",
+        "en": "Lütfen en kısa sürede bana cevap ver."
+      },
+      {
+        "zh": "山谷中传来阵阵回音。",
+        "pinyin": "Shāngǔ zhōng chuánlái zhènzhèn huíyīn.",
+        "en": "Vadiden yankılar geliyordu."
+      },
+      {
+        "zh": "我等了很久，一直没有回音。",
+        "pinyin": "Wǒ děngle hěn jiǔ, yìzhí méiyǒu huíyīn.",
+        "en": "Uzun süre bekledim, hiç cevap gelmedi."
+      },
+      {
+        "zh": "他给公司发了申请，正在等回音。",
+        "pinyin": "Tā gěi gōngsī fāle shēnqǐng, zhèngzài děng huíyīn.",
+        "en": "Şirkete başvuru gönderdi, cevap bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3801",
+    "hanzi": "悔",
+    "pinyin": "huǐ",
+    "meaning": "pişman olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他后悔没有听父母的话。",
+        "pinyin": "Tā hòuhuǐ méiyǒu tīng fùmǔ de huà.",
+        "en": "Ailesinin sözünü dinlemediği için pişman."
+      },
+      {
+        "zh": "做错事之后要悔改。",
+        "pinyin": "Zuòcuò shì zhīhòu yào huǐgǎi.",
+        "en": "Hata yaptıktan sonra pişman olup düzeltmek gerekir."
+      },
+      {
+        "zh": "事已至此，悔之晚矣。",
+        "pinyin": "Shì yǐ zhìcǐ, huǐ zhī wǎn yǐ.",
+        "en": "İş bu noktaya geldiğinde pişmanlık artık geç."
+      },
+      {
+        "zh": "他心中充满了悔意。",
+        "pinyin": "Tā xīnzhōng chōngmǎnle huǐyì.",
+        "en": "İçi pişmanlıkla dolu."
+      },
+      {
+        "zh": "她悔不该那样说话。",
+        "pinyin": "Tā huǐ bù gāi nàyàng shuōhuà.",
+        "en": "Öyle konuştuğu için pişman oldu."
+      }
+    ]
+  },
+  {
+    "id": "w3802",
+    "hanzi": "悔恨",
+    "pinyin": "huǐhèn",
+    "meaning": "içten pişmanlık duymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他悔恨自己当初的决定。",
+        "pinyin": "Tā huǐhèn zìjǐ dāngchū de juédìng.",
+        "en": "O zamanki kararı için derinden pişmanlık duyuyor."
+      },
+      {
+        "zh": "她悔恨没有珍惜和家人在一起的时光。",
+        "pinyin": "Tā huǐhèn méiyǒu zhēnxī hé jiārén zài yìqǐ de shíguāng.",
+        "en": "Aile ile geçirdiği zamanı değerlendirmediği için pişmanlık duyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w3803",
+    "hanzi": "毁",
+    "pinyin": "huǐ",
+    "meaning": "yıkmak, mahvetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "大火毁了他的家。",
+        "pinyin": "Dàhuǒ huǐle tā de jiā.",
+        "en": "Büyük yangın evini yok etti."
+      },
+      {
+        "zh": "这场地震毁了整个村庄。",
+        "pinyin": "Zhè chǎng dìzhèn huǐle zhěnggè cūnzhuāng.",
+        "en": "Bu deprem tüm köyü yıktı."
+      },
+      {
+        "zh": "他一时冲动毁了自己的前途。",
+        "pinyin": "Tā yìshí chōngdòng huǐle zìjǐ de qiántú.",
+        "en": "Bir anlık öfkeyle geleceğini mahvetti."
+      },
+      {
+        "zh": "不要因小失大，毁掉多年的努力。",
+        "pinyin": "Bú yào yīn xiǎo shī dà, huǐdiào duō nián de nǔlì.",
+        "en": "Ufak bir hata yüzünden yılların çabasını mahvetme."
+      },
+      {
+        "zh": "洪水毁了大片农田。",
+        "pinyin": "Hóngshuǐ huǐle dà piàn nóngtián.",
+        "en": "Sel geniş bir tarım alanını yok etti."
+      }
+    ]
+  },
+  {
+    "id": "w3804",
+    "hanzi": "毁坏",
+    "pinyin": "huǐhuài",
+    "meaning": "zarar vermek, tahrip etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "台风毁坏了很多房屋。",
+        "pinyin": "Táifēng huǐhuàile hěn duō fángwū.",
+        "en": "Tayfun birçok evi tahrip etti."
+      },
+      {
+        "zh": "请不要毁坏公共设施。",
+        "pinyin": "Qǐng bú yào huǐhuài gōnggòng shèshī.",
+        "en": "Lütfen kamu tesislerine zarar vermeyin."
+      },
+      {
+        "zh": "战争毁坏了这座城市。",
+        "pinyin": "Zhànzhēng huǐhuàile zhè zuò chéngshì.",
+        "en": "Savaş bu şehri tahrip etti."
+      },
+      {
+        "zh": "这些文物遭到了严重毁坏。",
+        "pinyin": "Zhèxiē wénwù zāodàole yánzhòng huǐhuài.",
+        "en": "Bu tarihi eserler ciddi şekilde tahrip edildi."
+      },
+      {
+        "zh": "大火毁坏了工厂的设备。",
+        "pinyin": "Dàhuǒ huǐhuàile gōngchǎng de shèbèi.",
+        "en": "Büyük yangın fabrikanın ekipmanlarını tahrip etti."
+      }
+    ]
+  },
+  {
+    "id": "w3805",
+    "hanzi": "毁灭",
+    "pinyin": "huǐmiè",
+    "meaning": "yok etmek, imha etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "战争几乎毁灭了这座城市。",
+        "pinyin": "Zhànzhēng jīhū huǐmièle zhè zuò chéngshì.",
+        "en": "Savaş bu şehri neredeyse yok etti."
+      },
+      {
+        "zh": "核武器有毁灭整个世界的力量。",
+        "pinyin": "Héwǔqì yǒu huǐmiè zhěnggè shìjiè de lìliang.",
+        "en": "Nükleer silahlar tüm dünyayı yok edecek güce sahiptir."
+      }
+    ]
+  },
+  {
+    "id": "w3806",
+    "hanzi": "会场",
+    "pinyin": "huìchǎng",
+    "meaning": "toplantı yeri, salon",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "会场里坐满了人。",
+        "pinyin": "Huìchǎng lǐ zuòmǎnle rén.",
+        "en": "Toplantı salonu insanlarla doldu."
+      },
+      {
+        "zh": "请大家有序进入会场。",
+        "pinyin": "Qǐng dàjiā yǒuxù jìnrù huìchǎng.",
+        "en": "Herkes lütfen düzenli bir şekilde salona girsin."
+      },
+      {
+        "zh": "会场布置得很漂亮。",
+        "pinyin": "Huìchǎng bùzhì de hěn piàoliang.",
+        "en": "Salon çok güzel düzenlenmiş."
+      },
+      {
+        "zh": "会场外挂着欢迎的横幅。",
+        "pinyin": "Huìchǎng wài guàzhe huānyíng de héngfú.",
+        "en": "Salonun dışında karşılama pankartı asılı."
+      },
+      {
+        "zh": "会议在大会场举行。",
+        "pinyin": "Huìyì zài dà huìchǎng jǔxíng.",
+        "en": "Toplantı büyük salonda yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3807",
+    "hanzi": "会费",
+    "pinyin": "huìfèi",
+    "meaning": "üyelik aidatı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "每年需要交一次会费。",
+        "pinyin": "Měinián xūyào jiāo yí cì huìfèi.",
+        "en": "Her yıl bir kez üyelik aidatı ödemek gerekiyor."
+      },
+      {
+        "zh": "会费是多少钱？",
+        "pinyin": "Huìfèi shì duōshao qián?",
+        "en": "Üyelik aidatı ne kadar?"
+      },
+      {
+        "zh": "他忘了交会费。",
+        "pinyin": "Tā wàngle jiāo huìfèi.",
+        "en": "Üyelik aidatını ödemeyi unuttu."
+      },
+      {
+        "zh": "会费用于组织各种活动。",
+        "pinyin": "Huìfèi yòngyú zǔzhī gèzhǒng huódòng.",
+        "en": "Aidatlar çeşitli etkinlikler düzenlemek için kullanılıyor."
+      },
+      {
+        "zh": "新会员需要缴纳入会费。",
+        "pinyin": "Xīn huìyuán xūyào jiǎonà rùhuìfèi.",
+        "en": "Yeni üyelerin katılım aidatı ödemesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3808",
+    "hanzi": "会见",
+    "pinyin": "huìjiàn",
+    "meaning": "görüşmek, buluşmak (resmi)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "总统今天会见了外国代表团。",
+        "pinyin": "Zǒngtǒng jīntiān huìjiànle wàiguó dàibiǎotuán.",
+        "en": "Cumhurbaşkanı bugün yabancı heyeti kabul etti."
+      },
+      {
+        "zh": "两国领导人举行了会见。",
+        "pinyin": "Liǎng guó lǐngdǎorén jǔxíngle huìjiàn.",
+        "en": "İki ülke lideri bir görüşme gerçekleştirdi."
+      },
+      {
+        "zh": "校长会见了新入学的学生代表。",
+        "pinyin": "Xiàozhǎng huìjiànle xīn rùxué de xuésheng dàibiǎo.",
+        "en": "Rektör yeni kayıt olan öğrenci temsilcileriyle görüştü."
+      },
+      {
+        "zh": "部长今天下午会见了记者。",
+        "pinyin": "Bùzhǎng jīntiān xiàwǔ huìjiànle jìzhě.",
+        "en": "Bakan bu öğleden sonra gazetecilerle görüştü."
+      },
+      {
+        "zh": "双方进行了友好的会见。",
+        "pinyin": "Shuāngfāng jìnxíngle yǒuhǎo de huìjiàn.",
+        "en": "İki taraf dostane bir görüşme gerçekleştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3809",
+    "hanzi": "会员",
+    "pinyin": "huìyuán",
+    "meaning": "üye",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是这个俱乐部的会员。",
+        "pinyin": "Tā shì zhège jùlèbù de huìyuán.",
+        "en": "O bu kulübün bir üyesi."
+      },
+      {
+        "zh": "成为会员可以享受折扣。",
+        "pinyin": "Chéngwéi huìyuán kěyǐ xiǎngshòu zhékòu.",
+        "en": "Üye olunca indirimden faydalanabilirsiniz."
+      },
+      {
+        "zh": "图书馆的会员可以借更多书。",
+        "pinyin": "Túshūguǎn de huìyuán kěyǐ jiè gèng duō shū.",
+        "en": "Kütüphane üyeleri daha fazla kitap ödünç alabilir."
+      },
+      {
+        "zh": "这个协会目前有上千名会员。",
+        "pinyin": "Zhège xiéhuì mùqián yǒu shàng qiān míng huìyuán.",
+        "en": "Bu derneğin şu anda binlerce üyesi var."
+      },
+      {
+        "zh": "只有会员才能参加这次活动。",
+        "pinyin": "Zhǐyǒu huìyuán cái néng cānjiā zhè cì huódòng.",
+        "en": "Sadece üyeler bu etkinliğe katılabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3810",
+    "hanzi": "汇款",
+    "pinyin": "huìkuǎn",
+    "meaning": "para havale etmek; havale",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他给家人汇款了。",
+        "pinyin": "Tā gěi jiārén huìkuǎn le.",
+        "en": "Ailesine para havale etti."
+      },
+      {
+        "zh": "我通过银行汇款。",
+        "pinyin": "Wǒ tōngguò yínháng huìkuǎn.",
+        "en": "Bankadan para havalesi yaptım."
+      },
+      {
+        "zh": "这笔汇款已经到账了。",
+        "pinyin": "Zhè bǐ huìkuǎn yǐjīng dàozhàng le.",
+        "en": "Bu havale hesaba geçti."
+      },
+      {
+        "zh": "汇款需要几个工作日才能到达。",
+        "pinyin": "Huìkuǎn xūyào jǐ ge gōngzuòrì cái néng dàodá.",
+        "en": "Havalenin ulaşması birkaç iş günü sürer."
+      },
+      {
+        "zh": "他每个月都给父母汇款。",
+        "pinyin": "Tā měi ge yuè dōu gěi fùmǔ huìkuǎn.",
+        "en": "Her ay ailesine para gönderiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3811",
+    "hanzi": "贿赂",
+    "pinyin": "huìlù",
+    "meaning": "rüşvet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他因收受贿赂被捕。",
+        "pinyin": "Tā yīn shōushòu huìlù bèi bǔ.",
+        "en": "Rüşvet aldığı için tutuklandı."
+      },
+      {
+        "zh": "官员不能接受任何形式的贿赂。",
+        "pinyin": "Guānyuán bù néng jiēshòu rènhé xíngshì de huìlù.",
+        "en": "Memurlar hiçbir şekilde rüşvet kabul edemez."
+      }
+    ]
+  },
+  {
+    "id": "w3812",
+    "hanzi": "绘画",
+    "pinyin": "huìhuà",
+    "meaning": "resim çizme sanatı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "她从小就喜欢绘画。",
+        "pinyin": "Tā cóngxiǎo jiù xǐhuan huìhuà.",
+        "en": "Küçüklüğünden beri resim yapmayı sever."
+      },
+      {
+        "zh": "他在大学学习绘画专业。",
+        "pinyin": "Tā zài dàxué xuéxí huìhuà zhuānyè.",
+        "en": "Üniversitede resim bölümünde okuyor."
+      },
+      {
+        "zh": "绘画是一门艺术。",
+        "pinyin": "Huìhuà shì yì mén yìshù.",
+        "en": "Resim bir sanattır."
+      },
+      {
+        "zh": "他的绘画技巧非常高超。",
+        "pinyin": "Tā de huìhuà jìqiǎo fēicháng gāochāo.",
+        "en": "Resim tekniği çok üst düzey."
+      },
+      {
+        "zh": "孩子们在课堂上学习绘画。",
+        "pinyin": "Háizimen zài kètáng shàng xuéxí huìhuà.",
+        "en": "Çocuklar sınıfta resim öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w3813",
+    "hanzi": "昏迷",
+    "pinyin": "hūnmí",
+    "meaning": "bilinç kaybı, koma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因为车祸陷入昏迷。",
+        "pinyin": "Tā yīnwèi chēhuò xiànrù hūnmí.",
+        "en": "Trafik kazası sonucu komaya girdi."
+      },
+      {
+        "zh": "病人已经昏迷了三天。",
+        "pinyin": "Bìngrén yǐjīng hūnmíle sān tiān.",
+        "en": "Hasta üç gündür komada."
+      },
+      {
+        "zh": "医生正在抢救昏迷的病人。",
+        "pinyin": "Yīshēng zhèngzài qiǎngjiù hūnmí de bìngrén.",
+        "en": "Doktor komadaki hastayı kurtarmaya çalışıyor."
+      },
+      {
+        "zh": "她突然昏迷倒地。",
+        "pinyin": "Tā tūrán hūnmí dǎodì.",
+        "en": "Aniden bilincini kaybedip yere düştü."
+      },
+      {
+        "zh": "经过治疗，他终于脱离了昏迷状态。",
+        "pinyin": "Jīngguò zhìliáo, tā zhōngyú tuōlíle hūnmí zhuàngtài.",
+        "en": "Tedaviden sonra sonunda komadan çıktı."
+      }
+    ]
   }
 ]

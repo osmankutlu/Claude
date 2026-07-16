@@ -89674,5 +89674,608 @@
         "en": "Kompozisyonu öğretmenden övgü aldı."
       }
     ]
+  },
+  {
+    "id": "w2492",
+    "hanzi": "安",
+    "pinyin": "ān",
+    "meaning": "kurmak, takmak, monte etmek",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他安了一个新门铃。",
+        "pinyin": "Tā ān le yí ge xīn ménlíng.",
+        "en": "Yeni bir kapı zili taktı."
+      },
+      {
+        "zh": "请帮我安一下这个灯泡。",
+        "pinyin": "Qǐng bāng wǒ ān yíxià zhège dēngpào.",
+        "en": "Lütfen bu ampulü takmama yardım et."
+      },
+      {
+        "zh": "工人正在安窗户。",
+        "pinyin": "Gōngrén zhèngzài ān chuānghu.",
+        "en": "İşçi pencere takıyor."
+      },
+      {
+        "zh": "她把新锁安好了。",
+        "pinyin": "Tā bǎ xīn suǒ ān hǎo le.",
+        "en": "Yeni kilidi taktı."
+      },
+      {
+        "zh": "这台机器还没安好。",
+        "pinyin": "Zhè tái jīqì hái méi ān hǎo.",
+        "en": "Bu makine henüz kurulmadı."
+      }
+    ]
+  },
+  {
+    "id": "w2493",
+    "hanzi": "爱国",
+    "pinyin": "àiguó",
+    "meaning": "vatanını sevmek, vatansever olmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他是一个爱国的人。",
+        "pinyin": "Tā shì yí ge àiguó de rén.",
+        "en": "O vatansever bir insan."
+      },
+      {
+        "zh": "我们从小接受爱国教育。",
+        "pinyin": "Wǒmen cóngxiǎo jiēshòu àiguó jiàoyù.",
+        "en": "Küçüklükten beri vatanseverlik eğitimi alıyoruz."
+      },
+      {
+        "zh": "士兵们为爱国精神而战斗。",
+        "pinyin": "Shìbīngmen wèi àiguó jīngshén ér zhàndòu.",
+        "en": "Askerler vatanseverlik ruhu için savaştı."
+      },
+      {
+        "zh": "这首歌表达了强烈的爱国感情。",
+        "pinyin": "Zhè shǒu gē biǎodá le qiángliè de àiguó gǎnqíng.",
+        "en": "Bu şarkı güçlü bir vatanseverlik duygusunu ifade ediyor."
+      },
+      {
+        "zh": "爱国是每个公民的责任。",
+        "pinyin": "Àiguó shì měi ge gōngmín de zérèn.",
+        "en": "Vatanını sevmek her vatandaşın sorumluluğudur."
+      }
+    ]
+  },
+  {
+    "id": "w2494",
+    "hanzi": "爱人",
+    "pinyin": "àiren",
+    "meaning": "eş, karı/koca; sevgili",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他的爱人是医生。",
+        "pinyin": "Tā de àiren shì yīshēng.",
+        "en": "Eşi doktor."
+      },
+      {
+        "zh": "她经常和爱人一起散步。",
+        "pinyin": "Tā jīngcháng hé àiren yìqǐ sànbù.",
+        "en": "Sık sık eşiyle birlikte yürüyüş yapar."
+      },
+      {
+        "zh": "我想给爱人买一件礼物。",
+        "pinyin": "Wǒ xiǎng gěi àiren mǎi yí jiàn lǐwù.",
+        "en": "Eşime bir hediye almak istiyorum."
+      },
+      {
+        "zh": "他向爱人求婚了。",
+        "pinyin": "Tā xiàng àiren qiúhūn le.",
+        "en": "Sevgilisine evlenme teklif etti."
+      },
+      {
+        "zh": "她的爱人在外地工作。",
+        "pinyin": "Tā de àiren zài wàidì gōngzuò.",
+        "en": "Eşi başka bir şehirde çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2495",
+    "hanzi": "安心",
+    "pinyin": "ānxīn",
+    "meaning": "içi rahat etmek, rahatlamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "听到这个消息，我终于安心了。",
+        "pinyin": "Tīngdào zhège xiāoxi, wǒ zhōngyú ānxīn le.",
+        "en": "Bu haberi duyunca sonunda içim rahatladı."
+      },
+      {
+        "zh": "你安心休息吧，别担心工作。",
+        "pinyin": "Nǐ ānxīn xiūxi ba, bié dānxīn gōngzuò.",
+        "en": "Rahat rahat dinlen, iş için endişelenme."
+      },
+      {
+        "zh": "孩子在家，妈妈才能安心工作。",
+        "pinyin": "Háizi zài jiā, māma cái néng ānxīn gōngzuò.",
+        "en": "Çocuk evde olunca annesi rahat çalışabiliyor."
+      },
+      {
+        "zh": "他做事总是让人不安心。",
+        "pinyin": "Tā zuòshì zǒngshì ràng rén bù ānxīn.",
+        "en": "Onun iş yapış şekli insanı hep tedirgin ediyor."
+      },
+      {
+        "zh": "医生说没事，我们就安心了。",
+        "pinyin": "Yīshēng shuō méishì, wǒmen jiù ānxīn le.",
+        "en": "Doktor sorun yok deyince rahatladık."
+      }
+    ]
+  },
+  {
+    "id": "w2496",
+    "hanzi": "安定",
+    "pinyin": "āndìng",
+    "meaning": "istikrarlı, sakin; istikrar kazandırmak",
+    "partOfSpeech": "sıfat/fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个国家的局势逐渐安定下来。",
+        "pinyin": "Zhège guójiā de júshì zhújiàn āndìng xiàlái.",
+        "en": "Bu ülkenin durumu giderek istikrar kazandı."
+      },
+      {
+        "zh": "她过着安定的生活。",
+        "pinyin": "Tā guòzhe āndìng de shēnghuó.",
+        "en": "İstikrarlı bir hayat sürüyor."
+      },
+      {
+        "zh": "政府努力安定民心。",
+        "pinyin": "Zhèngfǔ nǔlì āndìng mínxīn.",
+        "en": "Hükümet halkın gönlünü rahatlatmaya çalışıyor."
+      },
+      {
+        "zh": "有了稳定的工作，他的生活变得安定了。",
+        "pinyin": "Yǒu le wěndìng de gōngzuò, tā de shēnghuó biàn de āndìng le.",
+        "en": "İstikrarlı bir işe sahip olunca hayatı düzene girdi."
+      },
+      {
+        "zh": "这个地区一直不太安定。",
+        "pinyin": "Zhège dìqū yìzhí bú tài āndìng.",
+        "en": "Bu bölge hep pek istikrarlı olmadı."
+      }
+    ]
+  },
+  {
+    "id": "w2497",
+    "hanzi": "安顿",
+    "pinyin": "āndùn",
+    "meaning": "yerleştirmek, yerleşmek, düzene koymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把家人安顿好了才去上班。",
+        "pinyin": "Tā bǎ jiārén āndùn hǎo le cái qù shàngbān.",
+        "en": "Ailesini yerleştirdikten sonra işe gitti."
+      },
+      {
+        "zh": "我们到了新城市，先安顿下来。",
+        "pinyin": "Wǒmen dào le xīn chéngshì, xiān āndùn xiàlái.",
+        "en": "Yeni şehre vardık, önce yerleşelim."
+      },
+      {
+        "zh": "她帮老人安顿好了住处。",
+        "pinyin": "Tā bāng lǎorén āndùn hǎo le zhùchù.",
+        "en": "Yaşlıya kalacak yer bulup yerleştirmesine yardım etti."
+      },
+      {
+        "zh": "公司为新员工安顿好了宿舍。",
+        "pinyin": "Gōngsī wèi xīn yuángōng āndùn hǎo le sùshè.",
+        "en": "Şirket yeni çalışanlar için yurtları düzenledi."
+      },
+      {
+        "zh": "他花了几天时间才安顿下来。",
+        "pinyin": "Tā huā le jǐ tiān shíjiān cái āndùn xiàlái.",
+        "en": "Yerleşmesi birkaç gün sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w2498",
+    "hanzi": "安放",
+    "pinyin": "ānfàng",
+    "meaning": "yerleştirmek, koymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把花瓶安放在桌子中央。",
+        "pinyin": "Tā bǎ huāpíng ānfàng zài zhuōzi zhōngyāng.",
+        "en": "Vazoyu masanın ortasına yerleştirdi."
+      },
+      {
+        "zh": "这些设备应该安放在安全的地方。",
+        "pinyin": "Zhèxiē shèbèi yīnggāi ānfàng zài ānquán de dìfang.",
+        "en": "Bu ekipmanlar güvenli bir yere yerleştirilmeli."
+      },
+      {
+        "zh": "工人把机器安放好了。",
+        "pinyin": "Gōngrén bǎ jīqì ānfàng hǎo le.",
+        "en": "İşçiler makineyi yerleştirdi."
+      },
+      {
+        "zh": "她小心地把画安放在墙上。",
+        "pinyin": "Tā xiǎoxīn de bǎ huà ānfàng zài qiáng shàng.",
+        "en": "Tabloyu dikkatlice duvara yerleştirdi."
+      },
+      {
+        "zh": "请把箱子安放在角落里。",
+        "pinyin": "Qǐng bǎ xiāngzi ānfàng zài jiǎoluò lǐ.",
+        "en": "Lütfen kutuyu köşeye yerleştirin."
+      }
+    ]
+  },
+  {
+    "id": "w2499",
+    "hanzi": "安宁",
+    "pinyin": "ānníng",
+    "meaning": "huzurlu, sakin",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个小镇的生活很安宁。",
+        "pinyin": "Zhège xiǎozhèn de shēnghuó hěn ānníng.",
+        "en": "Bu kasabanın hayatı çok huzurlu."
+      },
+      {
+        "zh": "战争结束后，人们渴望安宁的生活。",
+        "pinyin": "Zhànzhēng jiéshù hòu, rénmen kěwàng ānníng de shēnghuó.",
+        "en": "Savaş bittikten sonra insanlar huzurlu bir hayat özlüyordu."
+      },
+      {
+        "zh": "请保持安宁，不要吵闹。",
+        "pinyin": "Qǐng bǎochí ānníng, búyào chǎonào.",
+        "en": "Lütfen sessizliği koruyun, gürültü yapmayın."
+      },
+      {
+        "zh": "她心里感到一片安宁。",
+        "pinyin": "Tā xīnlǐ gǎndào yí piàn ānníng.",
+        "en": "Kalbinde bir huzur hissetti."
+      },
+      {
+        "zh": "这座寺庙给人一种安宁的感觉。",
+        "pinyin": "Zhè zuò sìmiào gěi rén yì zhǒng ānníng de gǎnjué.",
+        "en": "Bu tapınak insana huzurlu bir his veriyor."
+      }
+    ]
+  },
+  {
+    "id": "w2500",
+    "hanzi": "安稳",
+    "pinyin": "ānwěn",
+    "meaning": "sağlam ve güvenli, sakin",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他睡得很安稳。",
+        "pinyin": "Tā shuì de hěn ānwěn.",
+        "en": "Çok rahat ve derin uyudu."
+      },
+      {
+        "zh": "这把椅子放得不安稳。",
+        "pinyin": "Zhè bǎ yǐzi fàng de bù ānwěn.",
+        "en": "Bu sandalye sağlam durmuyor."
+      },
+      {
+        "zh": "火车行驶得很安稳。",
+        "pinyin": "Huǒchē xíngshǐ de hěn ānwěn.",
+        "en": "Tren çok sakin bir şekilde ilerliyor."
+      },
+      {
+        "zh": "她希望过上安稳的日子。",
+        "pinyin": "Tā xīwàng guò shàng ānwěn de rìzi.",
+        "en": "İstikrarlı ve güvenli bir hayat sürmeyi umuyor."
+      },
+      {
+        "zh": "请坐安稳一点。",
+        "pinyin": "Qǐng zuò ānwěn yìdiǎn.",
+        "en": "Lütfen daha sağlam otur."
+      }
+    ]
+  },
+  {
+    "id": "w2501",
+    "hanzi": "安置",
+    "pinyin": "ānzhì",
+    "meaning": "yerleştirmek, iş/yer ayarlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "政府为灾民安置了临时住所。",
+        "pinyin": "Zhèngfǔ wèi zāimín ānzhì le línshí zhùsuǒ.",
+        "en": "Hükümet afetzedeler için geçici barınak sağladı."
+      },
+      {
+        "zh": "公司把他安置在新的部门。",
+        "pinyin": "Gōngsī bǎ tā ānzhì zài xīn de bùmén.",
+        "en": "Şirket onu yeni bir departmana yerleştirdi."
+      },
+      {
+        "zh": "她把行李安置好了。",
+        "pinyin": "Tā bǎ xíngli ānzhì hǎo le.",
+        "en": "Bavullarını yerleştirdi."
+      },
+      {
+        "zh": "学校为留学生安置了宿舍。",
+        "pinyin": "Xuéxiào wèi liúxuéshēng ānzhì le sùshè.",
+        "en": "Okul yabancı öğrenciler için yurt ayarladı."
+      },
+      {
+        "zh": "他被安置到一个新的岗位。",
+        "pinyin": "Tā bèi ānzhì dào yí ge xīn de gǎngwèi.",
+        "en": "Yeni bir göreve yerleştirildi."
+      }
+    ]
+  },
+  {
+    "id": "w2502",
+    "hanzi": "暗暗",
+    "pinyin": "àn'àn",
+    "meaning": "gizlice, içten içe",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "她暗暗下定了决心。",
+        "pinyin": "Tā àn'àn xiàdìng le juéxīn.",
+        "en": "İçten içe kararını verdi."
+      },
+      {
+        "zh": "他暗暗为自己的失败感到难过。",
+        "pinyin": "Tā àn'àn wèi zìjǐ de shībài gǎndào nánguò.",
+        "en": "Başarısızlığından dolayı içten içe üzüldü."
+      },
+      {
+        "zh": "我暗暗希望他能成功。",
+        "pinyin": "Wǒ àn'àn xīwàng tā néng chénggōng.",
+        "en": "İçimden onun başarılı olmasını umuyorum."
+      },
+      {
+        "zh": "她暗暗观察着周围的情况。",
+        "pinyin": "Tā àn'àn guānchá zhe zhōuwéi de qíngkuàng.",
+        "en": "Etrafındaki durumu gizlice gözlemliyordu."
+      },
+      {
+        "zh": "他暗暗佩服她的勇气。",
+        "pinyin": "Tā àn'àn pèifú tā de yǒngqì.",
+        "en": "İçten içe onun cesaretine hayran kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w2503",
+    "hanzi": "暗淡",
+    "pinyin": "àndàn",
+    "meaning": "donuk, sönük, karanlık",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "天空一片暗淡。",
+        "pinyin": "Tiānkōng yí piàn àndàn.",
+        "en": "Gökyüzü tamamen kasvetliydi."
+      },
+      {
+        "zh": "她的眼神变得暗淡无光。",
+        "pinyin": "Tā de yǎnshén biàn de àndàn wúguāng.",
+        "en": "Bakışları sönükleşti."
+      },
+      {
+        "zh": "这个房间的灯光很暗淡。",
+        "pinyin": "Zhège fángjiān de dēngguāng hěn àndàn.",
+        "en": "Bu odanın ışığı çok loş."
+      },
+      {
+        "zh": "公司的前景变得暗淡了。",
+        "pinyin": "Gōngsī de qiánjǐng biàn de àndàn le.",
+        "en": "Şirketin geleceği kasvetli hale geldi."
+      },
+      {
+        "zh": "他的脸色显得暗淡。",
+        "pinyin": "Tā de liǎnsè xiǎnde àndàn.",
+        "en": "Yüzü solgun görünüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w2504",
+    "hanzi": "暗地里",
+    "pinyin": "àndìlǐ",
+    "meaning": "gizlice, el altından",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他暗地里帮助了很多人。",
+        "pinyin": "Tā àndìlǐ bāngzhù le hěn duō rén.",
+        "en": "Gizlice birçok insana yardım etti."
+      },
+      {
+        "zh": "她暗地里为考试做了很多准备。",
+        "pinyin": "Tā àndìlǐ wèi kǎoshì zuò le hěn duō zhǔnbèi.",
+        "en": "Sınav için gizlice çok hazırlık yaptı."
+      },
+      {
+        "zh": "他们暗地里策划了这个计划。",
+        "pinyin": "Tāmen àndìlǐ cèhuà le zhège jìhuà.",
+        "en": "Bu planı gizlice hazırladılar."
+      },
+      {
+        "zh": "她暗地里哭了很久。",
+        "pinyin": "Tā àndìlǐ kū le hěn jiǔ.",
+        "en": "Gizlice uzun süre ağladı."
+      },
+      {
+        "zh": "公司暗地里调查了这件事。",
+        "pinyin": "Gōngsī àndìlǐ diàochá le zhè jiàn shì.",
+        "en": "Şirket bu konuyu gizlice araştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w2505",
+    "hanzi": "暗号",
+    "pinyin": "ànhào",
+    "meaning": "gizli işaret, şifre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他们约定了一个暗号。",
+        "pinyin": "Tāmen yuēdìng le yí ge ànhào.",
+        "en": "Gizli bir işaret üzerinde anlaştılar."
+      },
+      {
+        "zh": "士兵们用暗号互相联系。",
+        "pinyin": "Shìbīngmen yòng ànhào hùxiāng liánxì.",
+        "en": "Askerler gizli işaretlerle birbirleriyle iletişim kurdu."
+      },
+      {
+        "zh": "敲三下门是我们的暗号。",
+        "pinyin": "Qiāo sān xià mén shì wǒmen de ànhào.",
+        "en": "Kapıya üç kere vurmak bizim şifremiz."
+      },
+      {
+        "zh": "这个暗号只有我们两个人知道。",
+        "pinyin": "Zhège ànhào zhǐyǒu wǒmen liǎng ge rén zhīdào.",
+        "en": "Bu şifreyi sadece ikimiz biliyoruz."
+      },
+      {
+        "zh": "他忘记了昨天约好的暗号。",
+        "pinyin": "Tā wàngjì le zuótiān yuē hǎo de ànhào.",
+        "en": "Dün kararlaştırılan şifreyi unuttu."
+      }
+    ]
+  },
+  {
+    "id": "w2506",
+    "hanzi": "矮小",
+    "pinyin": "ǎixiǎo",
+    "meaning": "ufak tefek, kısa boylu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他身材矮小，但很有力气。",
+        "pinyin": "Tā shēncái ǎixiǎo, dàn hěn yǒu lìqi.",
+        "en": "Boyu kısa ama çok güçlü."
+      },
+      {
+        "zh": "这棵树长得矮小。",
+        "pinyin": "Zhè kē shù zhǎng de ǎixiǎo.",
+        "en": "Bu ağaç bodur büyümüş."
+      },
+      {
+        "zh": "那个矮小的男孩跑得很快。",
+        "pinyin": "Nàge ǎixiǎo de nánhái pǎo de hěn kuài.",
+        "en": "O ufak tefek çocuk çok hızlı koşuyor."
+      },
+      {
+        "zh": "房子看起来又矮小又破旧。",
+        "pinyin": "Fángzi kànqǐlái yòu ǎixiǎo yòu pòjiù.",
+        "en": "Ev hem küçük hem de eski görünüyor."
+      },
+      {
+        "zh": "他因为矮小而常常被人忽视。",
+        "pinyin": "Tā yīnwèi ǎixiǎo ér chángcháng bèi rén hūshì.",
+        "en": "Kısa boylu olduğu için sık sık göz ardı ediliyor."
+      }
+    ]
+  },
+  {
+    "id": "w2507",
+    "hanzi": "爱慕",
+    "pinyin": "àimù",
+    "meaning": "hayran olmak, gönül vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他默默地爱慕着她。",
+        "pinyin": "Tā mòmò de àimù zhe tā.",
+        "en": "Sessizce ona gönül vermişti."
+      },
+      {
+        "zh": "很多人爱慕她的才华。",
+        "pinyin": "Hěn duō rén àimù tā de cáihuá.",
+        "en": "Birçok insan onun yeteneğine hayran."
+      }
+    ]
+  },
+  {
+    "id": "w2508",
+    "hanzi": "安逸",
+    "pinyin": "ānyì",
+    "meaning": "rahat ve kaygısız",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他过着安逸的退休生活。",
+        "pinyin": "Tā guòzhe ānyì de tuìxiū shēnghuó.",
+        "en": "Rahat bir emeklilik hayatı sürüyor."
+      },
+      {
+        "zh": "年轻人不应该只追求安逸。",
+        "pinyin": "Niánqīngrén bù yīnggāi zhǐ zhuīqiú ānyì.",
+        "en": "Gençler sadece rahatlığın peşinden koşmamalı."
+      }
+    ]
+  },
+  {
+    "id": "w2509",
+    "hanzi": "艾滋病",
+    "pinyin": "àizībìng",
+    "meaning": "AIDS",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生向大家介绍了艾滋病的预防知识。",
+        "pinyin": "Yīshēng xiàng dàjiā jièshào le àizībìng de yùfáng zhīshi.",
+        "en": "Doktor herkese AIDS'ten korunma bilgisini anlattı."
+      },
+      {
+        "zh": "艾滋病是一种严重的传染病。",
+        "pinyin": "Àizībìng shì yì zhǒng yánzhòng de chuánrǎnbìng.",
+        "en": "AIDS ciddi bir bulaşıcı hastalıktır."
+      }
+    ]
   }
 ]

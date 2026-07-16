@@ -107128,5 +107128,635 @@
         "en": "Bu teorem geometrinin temelidir."
       }
     ]
+  },
+  {
+    "id": "w3066",
+    "hanzi": "订单",
+    "pinyin": "dìngdān",
+    "meaning": "sipariş listesi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "我们收到了一份新订单。",
+        "pinyin": "Wǒmen shōudào le yí fèn xīn dìngdān.",
+        "en": "Yeni bir sipariş aldık."
+      },
+      {
+        "zh": "请尽快处理这份订单。",
+        "pinyin": "Qǐng jǐnkuài chǔlǐ zhè fèn dìngdān.",
+        "en": "Lütfen bu siparişi bir an önce işleme alın."
+      },
+      {
+        "zh": "这个月的订单量增加了。",
+        "pinyin": "Zhège yuè de dìngdān liàng zēngjiā le.",
+        "en": "Bu ayki sipariş miktarı arttı."
+      },
+      {
+        "zh": "客户取消了订单。",
+        "pinyin": "Kèhù qǔxiāo le dìngdān.",
+        "en": "Müşteri siparişi iptal etti."
+      },
+      {
+        "zh": "请检查订单是否正确。",
+        "pinyin": "Qǐng jiǎnchá dìngdān shìfǒu zhèngquè.",
+        "en": "Lütfen siparişin doğru olup olmadığını kontrol edin."
+      }
+    ]
+  },
+  {
+    "id": "w3067",
+    "hanzi": "丢失",
+    "pinyin": "diūshī",
+    "meaning": "kaybetmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他丢失了自己的钱包。",
+        "pinyin": "Tā diūshī le zìjǐ de qiánbāo.",
+        "en": "Cüzdanını kaybetti."
+      },
+      {
+        "zh": "请小心，不要丢失护照。",
+        "pinyin": "Qǐng xiǎoxīn, búyào diūshī hùzhào.",
+        "en": "Dikkatli olun, pasaportunuzu kaybetmeyin."
+      },
+      {
+        "zh": "我的手机昨天丢失了。",
+        "pinyin": "Wǒ de shǒujī zuótiān diūshī le.",
+        "en": "Telefonum dün kayboldu."
+      },
+      {
+        "zh": "丢失文件后他很着急。",
+        "pinyin": "Diūshī wénjiàn hòu tā hěn zháojí.",
+        "en": "Belgeleri kaybettikten sonra çok telaşlandı."
+      },
+      {
+        "zh": "她在旅行中丢失了行李。",
+        "pinyin": "Tā zài lǚxíng zhōng diūshī le xíngli.",
+        "en": "Seyahatinde bavulunu kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w3068",
+    "hanzi": "动词",
+    "pinyin": "dòngcí",
+    "meaning": "fiil (dilbilgisi)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这句话里的动词是\"跑\"。",
+        "pinyin": "Zhè jù huà lǐ de dòngcí shì \"pǎo\".",
+        "en": "Bu cümledeki fiil \"koşmak\"tır."
+      },
+      {
+        "zh": "老师让我们找出句子中的动词。",
+        "pinyin": "Lǎoshī ràng wǒmen zhǎochū jùzi zhōng de dòngcí.",
+        "en": "Öğretmen cümledeki fiili bulmamızı istedi."
+      },
+      {
+        "zh": "中文的动词没有时态变化。",
+        "pinyin": "Zhōngwén de dòngcí méiyǒu shítài biànhuà.",
+        "en": "Çincedeki fiillerde zaman değişimi yoktur."
+      },
+      {
+        "zh": "请用这个动词造一个句子。",
+        "pinyin": "Qǐng yòng zhège dòngcí zào yí ge jùzi.",
+        "en": "Lütfen bu fiili kullanarak bir cümle kur."
+      },
+      {
+        "zh": "这个动词有多种意思。",
+        "pinyin": "Zhège dòngcí yǒu duō zhǒng yìsi.",
+        "en": "Bu fiilin birden fazla anlamı var."
+      }
+    ]
+  },
+  {
+    "id": "w3069",
+    "hanzi": "订购",
+    "pinyin": "dìnggòu",
+    "meaning": "sipariş vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "我在网上订购了一些书。",
+        "pinyin": "Wǒ zài wǎngshàng dìnggòu le yìxiē shū.",
+        "en": "İnternetten birkaç kitap sipariş ettim."
+      },
+      {
+        "zh": "他订购了一台新电脑。",
+        "pinyin": "Tā dìnggòu le yì tái xīn diànnǎo.",
+        "en": "Yeni bir bilgisayar sipariş etti."
+      },
+      {
+        "zh": "这批货物是客户订购的。",
+        "pinyin": "Zhè pī huòwù shì kèhù dìnggòu de.",
+        "en": "Bu parti mal müşterinin siparişidir."
+      },
+      {
+        "zh": "请提前订购车票。",
+        "pinyin": "Qǐng tíqián dìnggòu chēpiào.",
+        "en": "Lütfen tren biletlerini önceden sipariş edin."
+      },
+      {
+        "zh": "我们向工厂订购了原材料。",
+        "pinyin": "Wǒmen xiàng gōngchǎng dìnggòu le yuáncáiliào.",
+        "en": "Fabrikadan hammadde sipariş ettik."
+      }
+    ]
+  },
+  {
+    "id": "w3070",
+    "hanzi": "订阅",
+    "pinyin": "dìngyuè",
+    "meaning": "abone olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "我订阅了这个杂志。",
+        "pinyin": "Wǒ dìngyuè le zhège zázhì.",
+        "en": "Bu dergiye abone oldum."
+      },
+      {
+        "zh": "请订阅我们的频道。",
+        "pinyin": "Qǐng dìngyuè wǒmen de píndào.",
+        "en": "Lütfen kanalımıza abone olun."
+      },
+      {
+        "zh": "她订阅了很多新闻邮件。",
+        "pinyin": "Tā dìngyuè le hěn duō xīnwén yóujiàn.",
+        "en": "Birçok haber e-postasına abone oldu."
+      },
+      {
+        "zh": "订阅费用是每月十元。",
+        "pinyin": "Dìngyuè fèiyòng shì měi yuè shí yuán.",
+        "en": "Abonelik ücreti aylık on yuan."
+      },
+      {
+        "zh": "我取消了这个网站的订阅。",
+        "pinyin": "Wǒ qǔxiāo le zhège wǎngzhàn de dìngyuè.",
+        "en": "Bu sitenin aboneliğini iptal ettim."
+      }
+    ]
+  },
+  {
+    "id": "w3071",
+    "hanzi": "丢弃",
+    "pinyin": "diūqì",
+    "meaning": "atmak, terk etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请不要随意丢弃垃圾。",
+        "pinyin": "Qǐng búyào suíyì diūqì lājī.",
+        "en": "Lütfen çöpü rastgele atmayın."
+      },
+      {
+        "zh": "他把旧衣服都丢弃了。",
+        "pinyin": "Tā bǎ jiù yīfu dōu diūqì le.",
+        "en": "Eski kıyafetlerinin hepsini attı."
+      },
+      {
+        "zh": "这些废弃物应该正确丢弃。",
+        "pinyin": "Zhèxiē fèiqìwù yīnggāi zhèngquè diūqì.",
+        "en": "Bu atıklar doğru şekilde atılmalıdır."
+      },
+      {
+        "zh": "他丢弃了原来的计划。",
+        "pinyin": "Tā diūqì le yuánlái de jìhuà.",
+        "en": "İlk planını terk etti."
+      },
+      {
+        "zh": "不要轻易丢弃自己的梦想。",
+        "pinyin": "Búyào qīngyì diūqì zìjǐ de mèngxiǎng.",
+        "en": "Hayallerinizi kolayca terk etmeyin."
+      }
+    ]
+  },
+  {
+    "id": "w3072",
+    "hanzi": "冬眠",
+    "pinyin": "dōngmián",
+    "meaning": "kış uykusu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "熊在冬天会冬眠。",
+        "pinyin": "Xióng zài dōngtiān huì dōngmián.",
+        "en": "Ayılar kışın kış uykusuna yatar."
+      },
+      {
+        "zh": "有些动物通过冬眠来度过寒冬。",
+        "pinyin": "Yǒuxiē dòngwù tōngguò dōngmián lái dùguò hándōng.",
+        "en": "Bazı hayvanlar soğuk kışı kış uykusuyla geçirir."
+      },
+      {
+        "zh": "蛇在冬眠期间几乎不吃东西。",
+        "pinyin": "Shé zài dōngmián qījiān jīhū bù chī dōngxi.",
+        "en": "Yılanlar kış uykusu sırasında neredeyse hiçbir şey yemez."
+      },
+      {
+        "zh": "青蛙也会冬眠。",
+        "pinyin": "Qīngwā yě huì dōngmián.",
+        "en": "Kurbağalar da kış uykusuna yatar."
+      },
+      {
+        "zh": "冬眠可以帮助动物节省能量。",
+        "pinyin": "Dōngmián kěyǐ bāngzhù dòngwù jiéshěng néngliàng.",
+        "en": "Kış uykusu hayvanların enerji tasarrufu yapmasına yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w3073",
+    "hanzi": "懂事",
+    "pinyin": "dǒngshì",
+    "meaning": "anlayışlı, olgun",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "这个孩子非常懂事。",
+        "pinyin": "Zhège háizi fēicháng dǒngshì.",
+        "en": "Bu çocuk çok anlayışlı."
+      },
+      {
+        "zh": "她从小就很懂事，帮妈妈做家务。",
+        "pinyin": "Tā cóngxiǎo jiù hěn dǒngshì, bāng māma zuò jiāwù.",
+        "en": "Küçüklüğünden beri çok olgundur, annesine ev işlerinde yardım eder."
+      },
+      {
+        "zh": "长大后他变得更加懂事了。",
+        "pinyin": "Zhǎngdà hòu tā biàn de gèngjiā dǒngshì le.",
+        "en": "Büyüdükçe daha olgun hale geldi."
+      },
+      {
+        "zh": "懂事的孩子让父母很省心。",
+        "pinyin": "Dǒngshì de háizi ràng fùmǔ hěn shěngxīn.",
+        "en": "Anlayışlı çocuklar ebeveynleri rahatlatır."
+      },
+      {
+        "zh": "他还小，不太懂事。",
+        "pinyin": "Tā hái xiǎo, bú tài dǒngshì.",
+        "en": "Hâlâ küçük, pek olgun değil."
+      }
+    ]
+  },
+  {
+    "id": "w3074",
+    "hanzi": "动机",
+    "pinyin": "dòngjī",
+    "meaning": "güdü, motivasyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他做这件事的动机很单纯。",
+        "pinyin": "Tā zuò zhè jiàn shì de dòngjī hěn dānchún.",
+        "en": "Bunu yapmasının nedeni çok basit."
+      },
+      {
+        "zh": "警方正在调查犯罪动机。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá fànzuì dòngjī.",
+        "en": "Polis suç güdüsünü araştırıyor."
+      },
+      {
+        "zh": "她的学习动机很强。",
+        "pinyin": "Tā de xuéxí dòngjī hěn qiáng.",
+        "en": "Öğrenme motivasyonu çok güçlü."
+      },
+      {
+        "zh": "我不理解他的真实动机。",
+        "pinyin": "Wǒ bù lǐjiě tā de zhēnshí dòngjī.",
+        "en": "Gerçek niyetini anlamıyorum."
+      },
+      {
+        "zh": "良好的动机不一定带来好结果。",
+        "pinyin": "Liánghǎo de dòngjī bù yídìng dàilái hǎo jiéguǒ.",
+        "en": "İyi bir niyet her zaman iyi bir sonuç getirmez."
+      }
+    ]
+  },
+  {
+    "id": "w3075",
+    "hanzi": "动力",
+    "pinyin": "dònglì",
+    "meaning": "güç, itici güç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "兴趣是学习的最大动力。",
+        "pinyin": "Xìngqù shì xuéxí de zuìdà dònglì.",
+        "en": "İlgi, öğrenmenin en büyük itici gücüdür."
+      },
+      {
+        "zh": "这台机器由电力提供动力。",
+        "pinyin": "Zhè tái jīqì yóu diànlì tígōng dònglì.",
+        "en": "Bu makine elektrik gücüyle çalışır."
+      },
+      {
+        "zh": "他把家人当作前进的动力。",
+        "pinyin": "Tā bǎ jiārén dàngzuò qiánjìn de dònglì.",
+        "en": "Ailesini ilerlemek için itici güç olarak görüyor."
+      },
+      {
+        "zh": "竞争是提高效率的动力之一。",
+        "pinyin": "Jìngzhēng shì tígāo xiàolǜ de dònglì zhī yī.",
+        "en": "Rekabet, verimliliği artırmanın itici güçlerinden biridir."
+      },
+      {
+        "zh": "缺乏动力让他很难坚持锻炼。",
+        "pinyin": "Quēfá dònglì ràng tā hěn nán jiānchí duànliàn.",
+        "en": "Motivasyon eksikliği egzersizi sürdürmesini zorlaştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3076",
+    "hanzi": "动身",
+    "pinyin": "dòngshēn",
+    "meaning": "yola çıkmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "我们明天早上动身去旅行。",
+        "pinyin": "Wǒmen míngtiān zǎoshang dòngshēn qù lǚxíng.",
+        "en": "Yarın sabah seyahate çıkıyoruz."
+      },
+      {
+        "zh": "他已经动身前往机场了。",
+        "pinyin": "Tā yǐjīng dòngshēn qiánwǎng jīchǎng le.",
+        "en": "Havaalanına doğru yola çıktı bile."
+      },
+      {
+        "zh": "我们打算天一亮就动身。",
+        "pinyin": "Wǒmen dǎsuàn tiān yí liàng jiù dòngshēn.",
+        "en": "Hava aydınlanır aydınlanmaz yola çıkmayı planlıyoruz."
+      },
+      {
+        "zh": "请准时动身，别误了火车。",
+        "pinyin": "Qǐng zhǔnshí dòngshēn, bié wù le huǒchē.",
+        "en": "Lütfen zamanında yola çık, treni kaçırma."
+      },
+      {
+        "zh": "队伍已经动身出发了。",
+        "pinyin": "Duìwu yǐjīng dòngshēn chūfā le.",
+        "en": "Ekip zaten yola çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w3077",
+    "hanzi": "动态",
+    "pinyin": "dòngtài",
+    "meaning": "gelişmeler, durum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请随时关注市场动态。",
+        "pinyin": "Qǐng suíshí guānzhù shìchǎng dòngtài.",
+        "en": "Lütfen piyasa gelişmelerini her an takip edin."
+      },
+      {
+        "zh": "这个软件可以更新社交动态。",
+        "pinyin": "Zhège ruǎnjiàn kěyǐ gēngxīn shèjiāo dòngtài.",
+        "en": "Bu yazılım sosyal medya durumlarını güncelleyebilir."
+      },
+      {
+        "zh": "我们需要了解行业最新动态。",
+        "pinyin": "Wǒmen xūyào liǎojiě hángyè zuìxīn dòngtài.",
+        "en": "Sektördeki en son gelişmeleri bilmemiz gerekiyor."
+      },
+      {
+        "zh": "她经常在网上分享自己的动态。",
+        "pinyin": "Tā jīngcháng zài wǎngshàng fēnxiǎng zìjǐ de dòngtài.",
+        "en": "Sık sık internette kendi güncellemelerini paylaşır."
+      },
+      {
+        "zh": "政府发布了经济动态报告。",
+        "pinyin": "Zhèngfǔ fābù le jīngjì dòngtài bàogào.",
+        "en": "Hükümet ekonomik gelişme raporu yayınladı."
+      }
+    ]
+  },
+  {
+    "id": "w3078",
+    "hanzi": "冻结",
+    "pinyin": "dòngjié",
+    "meaning": "dondurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "银行冻结了他的账户。",
+        "pinyin": "Yínháng dòngjié le tā de zhànghù.",
+        "en": "Banka hesabını dondurdu."
+      },
+      {
+        "zh": "由于调查，资产被冻结了。",
+        "pinyin": "Yóuyú diàochá, zīchǎn bèi dòngjié le.",
+        "en": "Soruşturma nedeniyle varlıklar donduruldu."
+      },
+      {
+        "zh": "公司决定冻结员工工资。",
+        "pinyin": "Gōngsī juédìng dòngjié yuángōng gōngzī.",
+        "en": "Şirket çalışan maaşlarını dondurmaya karar verdi."
+      },
+      {
+        "zh": "这项政策冻结了土地价格。",
+        "pinyin": "Zhè xiàng zhèngcè dòngjié le tǔdì jiàgé.",
+        "en": "Bu politika arazi fiyatlarını dondurdu."
+      },
+      {
+        "zh": "冻结的资金无法取出。",
+        "pinyin": "Dòngjié de zījīn wúfǎ qǔchū.",
+        "en": "Dondurulan fonlar çekilemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3079",
+    "hanzi": "洞穴",
+    "pinyin": "dòngxué",
+    "meaning": "mağara",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "探险队发现了一个古老的洞穴。",
+        "pinyin": "Tànxiǎnduì fāxiàn le yí ge gǔlǎo de dòngxué.",
+        "en": "Kaşif ekibi eski bir mağara keşfetti."
+      },
+      {
+        "zh": "洞穴里非常黑暗潮湿。",
+        "pinyin": "Dòngxué lǐ fēicháng hēi'àn cháoshī.",
+        "en": "Mağaranın içi çok karanlık ve nemli."
+      },
+      {
+        "zh": "蝙蝠喜欢住在洞穴里。",
+        "pinyin": "Biānfú xǐhuan zhù zài dòngxué lǐ.",
+        "en": "Yarasalar mağaralarda yaşamayı sever."
+      },
+      {
+        "zh": "他们在洞穴里发现了古代壁画。",
+        "pinyin": "Tāmen zài dòngxué lǐ fāxiàn le gǔdài bìhuà.",
+        "en": "Mağarada antik duvar resimleri buldular."
+      },
+      {
+        "zh": "这个洞穴非常深，很少有人探索过。",
+        "pinyin": "Zhège dòngxué fēicháng shēn, hěn shǎo yǒurén tànsuǒ guò.",
+        "en": "Bu mağara çok derin, çok az insan keşfetmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w3080",
+    "hanzi": "定律",
+    "pinyin": "dìnglǜ",
+    "meaning": "kanun, yasa",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "牛顿发现了万有引力定律。",
+        "pinyin": "Niúdùn fāxiàn le wànyǒu yǐnlì dìnglǜ.",
+        "en": "Newton evrensel çekim yasasını buldu."
+      },
+      {
+        "zh": "这个物理定律很难理解。",
+        "pinyin": "Zhège wùlǐ dìnglǜ hěn nán lǐjiě.",
+        "en": "Bu fizik kanunu anlaşılması zor."
+      }
+    ]
+  },
+  {
+    "id": "w3081",
+    "hanzi": "董事",
+    "pinyin": "dǒngshì",
+    "meaning": "yönetim kurulu üyesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是公司的董事之一。",
+        "pinyin": "Tā shì gōngsī de dǒngshì zhī yī.",
+        "en": "Şirketin yönetim kurulu üyelerinden biridir."
+      },
+      {
+        "zh": "董事会决定了公司的发展方向。",
+        "pinyin": "Dǒngshìhuì juédìng le gōngsī de fāzhǎn fāngxiàng.",
+        "en": "Yönetim kurulu şirketin gelişim yönünü belirledi."
+      }
+    ]
+  },
+  {
+    "id": "w3082",
+    "hanzi": "动产",
+    "pinyin": "dòngchǎn",
+    "meaning": "taşınır mal",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "汽车属于动产。",
+        "pinyin": "Qìchē shǔyú dòngchǎn.",
+        "en": "Araba taşınır mal kapsamındadır."
+      },
+      {
+        "zh": "他的财产包括动产和不动产。",
+        "pinyin": "Tā de cáichǎn bāokuò dòngchǎn hé bú dòngchǎn.",
+        "en": "Malvarlığı taşınır ve taşınmaz malları içeriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3083",
+    "hanzi": "动脉",
+    "pinyin": "dòngmài",
+    "meaning": "atardamar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "医生检查了他的动脉。",
+        "pinyin": "Yīshēng jiǎnchá le tā de dòngmài.",
+        "en": "Doktor atardamarını kontrol etti."
+      },
+      {
+        "zh": "动脉硬化是常见的健康问题。",
+        "pinyin": "Dòngmài yìnghuà shì chángjiàn de jiànkāng wèntí.",
+        "en": "Damar sertleşmesi yaygın bir sağlık sorunudur."
+      }
+    ]
+  },
+  {
+    "id": "w3084",
+    "hanzi": "动摇",
+    "pinyin": "dòngyáo",
+    "meaning": "sarsmak, kararsız hale gelmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这次失败没有动摇他的信心。",
+        "pinyin": "Zhè cì shībài méiyǒu dòngyáo tā de xìnxīn.",
+        "en": "Bu başarısızlık özgüvenini sarsmadı."
+      },
+      {
+        "zh": "他的决心从未动摇过。",
+        "pinyin": "Tā de juéxīn cóng wèi dòngyáo guò.",
+        "en": "Kararlılığı hiç sarsılmadı."
+      }
+    ]
+  },
+  {
+    "id": "w3085",
+    "hanzi": "动员",
+    "pinyin": "dòngyuán",
+    "meaning": "seferber etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "政府动员全民参与环保活动。",
+        "pinyin": "Zhèngfǔ dòngyuán quánmín cānyù huánbǎo huódòng.",
+        "en": "Hükümet tüm halkı çevre koruma etkinliklerine katılmaya seferber etti."
+      },
+      {
+        "zh": "他动员了所有的朋友来帮忙。",
+        "pinyin": "Tā dòngyuán le suǒyǒu de péngyou lái bāngmáng.",
+        "en": "Tüm arkadaşlarını yardım etmeleri için seferber etti."
+      }
+    ]
   }
 ]

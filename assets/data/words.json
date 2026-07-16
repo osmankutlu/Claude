@@ -3603,7 +3603,7 @@
     "id": "w101",
     "hanzi": "睡觉",
     "pinyin": "shuìjiào",
-    "meaning": "to sleep",
+    "meaning": "uyumak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -3611,27 +3611,27 @@
       {
         "zh": "我想睡觉。",
         "pinyin": "Wǒ xiǎng shuìjiào.",
-        "en": "I want to sleep."
+        "en": "Uyumak istiyorum."
       },
       {
         "zh": "她十点睡觉。",
         "pinyin": "Tā shí diǎn shuìjiào.",
-        "en": "She sleeps at ten o'clock."
+        "en": "O saat onda uyuyor."
       },
       {
         "zh": "你几点睡觉？",
         "pinyin": "Nǐ jǐ diǎn shuìjiào?",
-        "en": "What time do you sleep?"
+        "en": "Saat kaçta uyuyorsun?"
       },
       {
         "zh": "猫在睡觉。",
         "pinyin": "Māo zài shuìjiào.",
-        "en": "The cat is sleeping."
+        "en": "Kedi uyuyor."
       },
       {
         "zh": "我今天没睡觉。",
         "pinyin": "Wǒ jīntiān méi shuìjiào.",
-        "en": "I didn't sleep today."
+        "en": "Bugün uyumadım."
       }
     ]
   },
@@ -3639,7 +3639,7 @@
     "id": "w102",
     "hanzi": "说话",
     "pinyin": "shuōhuà",
-    "meaning": "to speak",
+    "meaning": "konuşmak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -3647,27 +3647,27 @@
       {
         "zh": "她在说话。",
         "pinyin": "Tā zài shuōhuà.",
-        "en": "She is speaking."
+        "en": "O konuşuyor."
       },
       {
         "zh": "请你说话。",
         "pinyin": "Qǐng nǐ shuōhuà.",
-        "en": "Please speak."
+        "en": "Lütfen konuş."
       },
       {
         "zh": "他说话很少。",
         "pinyin": "Tā shuōhuà hěn shǎo.",
-        "en": "He speaks very little."
+        "en": "O çok az konuşur."
       },
       {
         "zh": "我们在说话。",
         "pinyin": "Wǒmen zài shuōhuà.",
-        "en": "We are talking."
+        "en": "Konuşuyoruz."
       },
       {
         "zh": "她不喜欢说话。",
         "pinyin": "Tā bù xǐhuan shuōhuà.",
-        "en": "She doesn't like talking."
+        "en": "O konuşmayı sevmiyor."
       }
     ]
   },
@@ -3675,7 +3675,7 @@
     "id": "w103",
     "hanzi": "四",
     "pinyin": "sì",
-    "meaning": "four",
+    "meaning": "dört",
     "partOfSpeech": "sayı",
     "level": 1,
     "category": "Sayılar",
@@ -3683,27 +3683,27 @@
       {
         "zh": "我有四本书。",
         "pinyin": "Wǒ yǒu sì běn shū.",
-        "en": "I have four books."
+        "en": "Dört kitabım var."
       },
       {
         "zh": "现在是四点。",
         "pinyin": "Xiànzài shì sì diǎn.",
-        "en": "It's four o'clock now."
+        "en": "Şimdi saat dört."
       },
       {
         "zh": "她四岁了。",
         "pinyin": "Tā sì suì le.",
-        "en": "She is four years old."
+        "en": "O dört yaşında."
       },
       {
         "zh": "四月天气很好。",
         "pinyin": "Sì yuè tiānqì hěn hǎo.",
-        "en": "The weather in April is nice."
+        "en": "Nisanda hava çok güzel."
       },
       {
         "zh": "我们四个人。",
         "pinyin": "Wǒmen sì ge rén.",
-        "en": "There are four of us."
+        "en": "Dört kişiyiz."
       }
     ]
   },
@@ -3711,7 +3711,7 @@
     "id": "w104",
     "hanzi": "岁",
     "pinyin": "suì",
-    "meaning": "years old",
+    "meaning": "yaş",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Zaman",
@@ -3719,27 +3719,27 @@
       {
         "zh": "我八岁了。",
         "pinyin": "Wǒ bā suì le.",
-        "en": "I am eight years old."
+        "en": "Ben sekiz yaşındayım."
       },
       {
         "zh": "她几岁了？",
         "pinyin": "Tā jǐ suì le?",
-        "en": "How old is she?"
+        "en": "O kaç yaşında?"
       },
       {
         "zh": "我儿子五岁了。",
         "pinyin": "Wǒ érzi wǔ suì le.",
-        "en": "My son is five years old."
+        "en": "Oğlum beş yaşında."
       },
       {
         "zh": "我爸爸四十岁了。",
         "pinyin": "Wǒ bàba sìshí suì le.",
-        "en": "My dad is forty years old."
+        "en": "Babam kırk yaşında."
       },
       {
         "zh": "你女儿几岁了？",
         "pinyin": "Nǐ nǚ'ér jǐ suì le?",
-        "en": "How old is your daughter?"
+        "en": "Kızın kaç yaşında?"
       }
     ]
   },
@@ -3747,7 +3747,7 @@
     "id": "w105",
     "hanzi": "他",
     "pinyin": "tā",
-    "meaning": "he; him",
+    "meaning": "o (erkek)",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Zamirler",
@@ -3755,27 +3755,27 @@
       {
         "zh": "他是老师。",
         "pinyin": "Tā shì lǎoshī.",
-        "en": "He is a teacher."
+        "en": "O öğretmen."
       },
       {
         "zh": "我认识他。",
         "pinyin": "Wǒ rènshi tā.",
-        "en": "I know him."
+        "en": "Onu tanıyorum."
       },
       {
         "zh": "他在家吗？",
         "pinyin": "Tā zài jiā ma?",
-        "en": "Is he home?"
+        "en": "O evde mi?"
       },
       {
         "zh": "他喜欢喝茶。",
         "pinyin": "Tā xǐhuan hē chá.",
-        "en": "He likes drinking tea."
+        "en": "O çay içmeyi sever."
       },
       {
         "zh": "他叫什么名字？",
         "pinyin": "Tā jiào shénme míngzi?",
-        "en": "What is his name?"
+        "en": "Onun adı ne?"
       }
     ]
   },
@@ -3783,7 +3783,7 @@
     "id": "w106",
     "hanzi": "她",
     "pinyin": "tā",
-    "meaning": "she; her",
+    "meaning": "o (kadın)",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Zamirler",
@@ -3791,27 +3791,27 @@
       {
         "zh": "她是学生。",
         "pinyin": "Tā shì xuésheng.",
-        "en": "She is a student."
+        "en": "O öğrenci."
       },
       {
         "zh": "我认识她。",
         "pinyin": "Wǒ rènshi tā.",
-        "en": "I know her."
+        "en": "Onu tanıyorum."
       },
       {
         "zh": "她在哪儿？",
         "pinyin": "Tā zài nǎr?",
-        "en": "Where is she?"
+        "en": "O nerede?"
       },
       {
         "zh": "她很漂亮。",
         "pinyin": "Tā hěn piàoliang.",
-        "en": "She is very pretty."
+        "en": "O çok güzel."
       },
       {
         "zh": "她叫什么名字？",
         "pinyin": "Tā jiào shénme míngzi?",
-        "en": "What is her name?"
+        "en": "Onun adı ne?"
       }
     ]
   },
@@ -3819,7 +3819,7 @@
     "id": "w107",
     "hanzi": "太",
     "pinyin": "tài",
-    "meaning": "too; extremely",
+    "meaning": "çok; aşırı",
     "partOfSpeech": "zarf",
     "level": 1,
     "category": "Dilbilgisi Kelimeleri",
@@ -3827,27 +3827,27 @@
       {
         "zh": "太好了！",
         "pinyin": "Tài hǎo le!",
-        "en": "Great!"
+        "en": "Harika!"
       },
       {
         "zh": "这个太多了。",
         "pinyin": "Zhège tài duō le.",
-        "en": "This is too much."
+        "en": "Bu çok fazla."
       },
       {
         "zh": "水太热了。",
         "pinyin": "Shuǐ tài rè le.",
-        "en": "The water is too hot."
+        "en": "Su çok sıcak."
       },
       {
         "zh": "你太漂亮了。",
         "pinyin": "Nǐ tài piàoliang le.",
-        "en": "You are so pretty."
+        "en": "Çok güzelsin."
       },
       {
         "zh": "这个太大了。",
         "pinyin": "Zhège tài dà le.",
-        "en": "This is too big."
+        "en": "Bu çok büyük."
       }
     ]
   },
@@ -3855,7 +3855,7 @@
     "id": "w108",
     "hanzi": "天气",
     "pinyin": "tiānqì",
-    "meaning": "weather",
+    "meaning": "hava durumu",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Hava Durumu",
@@ -3863,27 +3863,27 @@
       {
         "zh": "今天天气很好。",
         "pinyin": "Jīntiān tiānqì hěn hǎo.",
-        "en": "The weather is nice today."
+        "en": "Bugün hava çok güzel."
       },
       {
         "zh": "北京天气怎么样？",
         "pinyin": "Běijīng tiānqì zěnmeyàng?",
-        "en": "How's the weather in Beijing?"
+        "en": "Pekin'de hava nasıl?"
       },
       {
         "zh": "天气很冷。",
         "pinyin": "Tiānqì hěn lěng.",
-        "en": "The weather is cold."
+        "en": "Hava soğuk."
       },
       {
         "zh": "我不喜欢这个天气。",
         "pinyin": "Wǒ bù xǐhuan zhège tiānqì.",
-        "en": "I don't like this weather."
+        "en": "Bu havayı sevmiyorum."
       },
       {
         "zh": "明天天气很热。",
         "pinyin": "Míngtiān tiānqì hěn rè.",
-        "en": "Tomorrow's weather will be hot."
+        "en": "Yarın hava çok sıcak olacak."
       }
     ]
   },
@@ -3891,7 +3891,7 @@
     "id": "w109",
     "hanzi": "听",
     "pinyin": "tīng",
-    "meaning": "to listen",
+    "meaning": "dinlemek",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -3899,27 +3899,27 @@
       {
         "zh": "我在听。",
         "pinyin": "Wǒ zài tīng.",
-        "en": "I am listening."
+        "en": "Dinliyorum."
       },
       {
         "zh": "你听我说。",
         "pinyin": "Nǐ tīng wǒ shuō.",
-        "en": "Listen to me."
+        "en": "Beni dinle."
       },
       {
         "zh": "她喜欢听老师说话。",
         "pinyin": "Tā xǐhuan tīng lǎoshī shuōhuà.",
-        "en": "She likes listening to the teacher."
+        "en": "O öğretmeni dinlemeyi sever."
       },
       {
         "zh": "我没听见。",
         "pinyin": "Wǒ méi tīngjiàn.",
-        "en": "I didn't hear it."
+        "en": "Duymadım."
       },
       {
         "zh": "我们听老师说话。",
         "pinyin": "Wǒmen tīng lǎoshī shuōhuà.",
-        "en": "We listen to the teacher speak."
+        "en": "Öğretmeni dinliyoruz."
       }
     ]
   },
@@ -3927,7 +3927,7 @@
     "id": "w110",
     "hanzi": "同学",
     "pinyin": "tóngxué",
-    "meaning": "classmate",
+    "meaning": "sınıf arkadaşı",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Aile ve İnsanlar",
@@ -3935,27 +3935,27 @@
       {
         "zh": "她是我的同学。",
         "pinyin": "Tā shì wǒ de tóngxué.",
-        "en": "She is my classmate."
+        "en": "O benim sınıf arkadaşım."
       },
       {
         "zh": "我们是同学。",
         "pinyin": "Wǒmen shì tóngxué.",
-        "en": "We are classmates."
+        "en": "Biz sınıf arkadaşıyız."
       },
       {
         "zh": "我的同学很多。",
         "pinyin": "Wǒ de tóngxué hěn duō.",
-        "en": "I have many classmates."
+        "en": "Çok sınıf arkadaşım var."
       },
       {
         "zh": "这个同学叫什么名字？",
         "pinyin": "Zhège tóngxué jiào shénme míngzi?",
-        "en": "What is this classmate's name?"
+        "en": "Bu sınıf arkadaşının adı ne?"
       },
       {
         "zh": "我同学在学校。",
         "pinyin": "Wǒ tóngxué zài xuéxiào.",
-        "en": "My classmate is at school."
+        "en": "Sınıf arkadaşım okulda."
       }
     ]
   },
@@ -3963,7 +3963,7 @@
     "id": "w111",
     "hanzi": "喂",
     "pinyin": "wèi",
-    "meaning": "hello (on the phone)",
+    "meaning": "alo (telefonda)",
     "partOfSpeech": "ünlem",
     "level": 1,
     "category": "Temel Kelimeler",
@@ -3971,27 +3971,27 @@
       {
         "zh": "喂，你好。",
         "pinyin": "Wèi, nǐ hǎo.",
-        "en": "Hello, hi."
+        "en": "Alo, merhaba."
       },
       {
         "zh": "喂，是谁？",
         "pinyin": "Wèi, shì shéi?",
-        "en": "Hello, who is this?"
+        "en": "Alo, kim o?"
       },
       {
         "zh": "喂，我是小明。",
         "pinyin": "Wèi, wǒ shì Xiǎo Míng.",
-        "en": "Hello, this is Xiao Ming."
+        "en": "Alo, ben Xiao Ming."
       },
       {
         "zh": "喂，你在哪儿？",
         "pinyin": "Wèi, nǐ zài nǎr?",
-        "en": "Hello, where are you?"
+        "en": "Alo, sen neredesin?"
       },
       {
         "zh": "喂，她在家吗？",
         "pinyin": "Wèi, tā zài jiā ma?",
-        "en": "Hello, is she home?"
+        "en": "Alo, o evde mi?"
       }
     ]
   },
@@ -3999,7 +3999,7 @@
     "id": "w112",
     "hanzi": "我",
     "pinyin": "wǒ",
-    "meaning": "I; me",
+    "meaning": "ben",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Zamirler",
@@ -4007,27 +4007,27 @@
       {
         "zh": "我是学生。",
         "pinyin": "Wǒ shì xuésheng.",
-        "en": "I am a student."
+        "en": "Öğrenciyim."
       },
       {
         "zh": "我叫小明。",
         "pinyin": "Wǒ jiào Xiǎo Míng.",
-        "en": "My name is Xiao Ming."
+        "en": "Adım Xiao Ming."
       },
       {
         "zh": "我在家。",
         "pinyin": "Wǒ zài jiā.",
-        "en": "I'm at home."
+        "en": "Evdeyim."
       },
       {
         "zh": "这是我的书。",
         "pinyin": "Zhè shì wǒ de shū.",
-        "en": "This is my book."
+        "en": "Bu benim kitabım."
       },
       {
         "zh": "我喜欢喝茶。",
         "pinyin": "Wǒ xǐhuan hē chá.",
-        "en": "I like drinking tea."
+        "en": "Çay içmeyi severim."
       }
     ]
   },
@@ -4035,7 +4035,7 @@
     "id": "w113",
     "hanzi": "我们",
     "pinyin": "wǒmen",
-    "meaning": "we; us",
+    "meaning": "biz",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Zamirler",
@@ -4043,27 +4043,27 @@
       {
         "zh": "我们是学生。",
         "pinyin": "Wǒmen shì xuésheng.",
-        "en": "We are students."
+        "en": "Biz öğrenciyiz."
       },
       {
         "zh": "我们去商店。",
         "pinyin": "Wǒmen qù shāngdiàn.",
-        "en": "We're going to the store."
+        "en": "Mağazaya gidiyoruz."
       },
       {
         "zh": "我们是朋友。",
         "pinyin": "Wǒmen shì péngyou.",
-        "en": "We are friends."
+        "en": "Biz arkadaşız."
       },
       {
         "zh": "我们都很高兴。",
         "pinyin": "Wǒmen dōu hěn gāoxìng.",
-        "en": "We are all very happy."
+        "en": "Hepimiz çok mutluyuz."
       },
       {
         "zh": "我们家有五个人。",
         "pinyin": "Wǒmen jiā yǒu wǔ ge rén.",
-        "en": "There are five people in our family."
+        "en": "Ailemizde beş kişi var."
       }
     ]
   },
@@ -4071,7 +4071,7 @@
     "id": "w114",
     "hanzi": "五",
     "pinyin": "wǔ",
-    "meaning": "five",
+    "meaning": "beş",
     "partOfSpeech": "sayı",
     "level": 1,
     "category": "Sayılar",
@@ -4079,27 +4079,27 @@
       {
         "zh": "我有五本书。",
         "pinyin": "Wǒ yǒu wǔ běn shū.",
-        "en": "I have five books."
+        "en": "Beş kitabım var."
       },
       {
         "zh": "现在是五点。",
         "pinyin": "Xiànzài shì wǔ diǎn.",
-        "en": "It's five o'clock now."
+        "en": "Şimdi saat beş."
       },
       {
         "zh": "她五岁了。",
         "pinyin": "Tā wǔ suì le.",
-        "en": "She is five years old."
+        "en": "O beş yaşında."
       },
       {
         "zh": "五月天气很好。",
         "pinyin": "Wǔ yuè tiānqì hěn hǎo.",
-        "en": "The weather in May is nice."
+        "en": "Mayısta hava çok güzel."
       },
       {
         "zh": "我们五个人。",
         "pinyin": "Wǒmen wǔ ge rén.",
-        "en": "There are five of us."
+        "en": "Beş kişiyiz."
       }
     ]
   },
@@ -4107,7 +4107,7 @@
     "id": "w115",
     "hanzi": "喜欢",
     "pinyin": "xǐhuan",
-    "meaning": "to like",
+    "meaning": "hoşlanmak; sevmek",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -4115,27 +4115,27 @@
       {
         "zh": "我喜欢你。",
         "pinyin": "Wǒ xǐhuan nǐ.",
-        "en": "I like you."
+        "en": "Seni seviyorum."
       },
       {
         "zh": "她喜欢喝茶。",
         "pinyin": "Tā xǐhuan hē chá.",
-        "en": "She likes drinking tea."
+        "en": "O çay içmeyi sever."
       },
       {
         "zh": "你喜欢什么？",
         "pinyin": "Nǐ xǐhuan shénme?",
-        "en": "What do you like?"
+        "en": "Neyi seviyorsun?"
       },
       {
         "zh": "我不喜欢猫。",
         "pinyin": "Wǒ bù xǐhuan māo.",
-        "en": "I don't like cats."
+        "en": "Kedileri sevmiyorum."
       },
       {
         "zh": "我们都喜欢北京。",
         "pinyin": "Wǒmen dōu xǐhuan Běijīng.",
-        "en": "We all like Beijing."
+        "en": "Hepimiz Pekin'i seviyoruz."
       }
     ]
   },
@@ -4143,7 +4143,7 @@
     "id": "w116",
     "hanzi": "下",
     "pinyin": "xià",
-    "meaning": "down; next",
+    "meaning": "aşağı; gelecek (hafta vb.)",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Dilbilgisi Kelimeleri",
@@ -4151,27 +4151,27 @@
       {
         "zh": "猫在桌子下。",
         "pinyin": "Māo zài zhuōzi xià.",
-        "en": "The cat is under the table."
+        "en": "Kedi masanın altında."
       },
       {
         "zh": "下个星期我去北京。",
         "pinyin": "Xià ge xīngqī wǒ qù Běijīng.",
-        "en": "I'm going to Beijing next week."
+        "en": "Gelecek hafta Pekin'e gidiyorum."
       },
       {
         "zh": "下个月她回家。",
         "pinyin": "Xià ge yuè tā huí jiā.",
-        "en": "She's going home next month."
+        "en": "Gelecek ay eve dönüyor."
       },
       {
         "zh": "我下午去商店。",
         "pinyin": "Wǒ xiàwǔ qù shāngdiàn.",
-        "en": "I'm going to the store this afternoon."
+        "en": "Öğleden sonra mağazaya gidiyorum."
       },
       {
         "zh": "请你下来。",
         "pinyin": "Qǐng nǐ xiàlái.",
-        "en": "Please come down."
+        "en": "Lütfen aşağı gel."
       }
     ]
   },
@@ -4179,7 +4179,7 @@
     "id": "w117",
     "hanzi": "下午",
     "pinyin": "xiàwǔ",
-    "meaning": "afternoon",
+    "meaning": "öğleden sonra",
     "partOfSpeech": "zaman sözcüğü",
     "level": 1,
     "category": "Zaman",
@@ -4187,27 +4187,27 @@
       {
         "zh": "我下午去学校。",
         "pinyin": "Wǒ xiàwǔ qù xuéxiào.",
-        "en": "I go to school in the afternoon."
+        "en": "Öğleden sonra okula gidiyorum."
       },
       {
         "zh": "她下午工作。",
         "pinyin": "Tā xiàwǔ gōngzuò.",
-        "en": "She works in the afternoon."
+        "en": "O öğleden sonra çalışıyor."
       },
       {
         "zh": "下午三点我在家。",
         "pinyin": "Xiàwǔ sān diǎn wǒ zài jiā.",
-        "en": "I'm home at three in the afternoon."
+        "en": "Öğleden sonra saat üçte evdeyim."
       },
       {
         "zh": "今天下午天气很热。",
         "pinyin": "Jīntiān xiàwǔ tiānqì hěn rè.",
-        "en": "This afternoon's weather is hot."
+        "en": "Bu öğleden sonra hava çok sıcak."
       },
       {
         "zh": "明天下午你来吗？",
         "pinyin": "Míngtiān xiàwǔ nǐ lái ma?",
-        "en": "Are you coming tomorrow afternoon?"
+        "en": "Yarın öğleden sonra geliyor musun?"
       }
     ]
   },
@@ -4215,7 +4215,7 @@
     "id": "w118",
     "hanzi": "下雨",
     "pinyin": "xiàyǔ",
-    "meaning": "to rain",
+    "meaning": "yağmur yağmak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Hava Durumu",
@@ -4223,27 +4223,27 @@
       {
         "zh": "今天下雨了。",
         "pinyin": "Jīntiān xiàyǔ le.",
-        "en": "It rained today."
+        "en": "Bugün yağmur yağdı."
       },
       {
         "zh": "明天会下雨吗？",
         "pinyin": "Míngtiān huì xiàyǔ ma?",
-        "en": "Will it rain tomorrow?"
+        "en": "Yarın yağmur yağar mı?"
       },
       {
         "zh": "下雨了，我不去了。",
         "pinyin": "Xiàyǔ le, wǒ bú qù le.",
-        "en": "It's raining, I'm not going."
+        "en": "Yağmur yağıyor, gitmiyorum."
       },
       {
         "zh": "她不喜欢下雨天。",
         "pinyin": "Tā bù xǐhuan xiàyǔ tiān.",
-        "en": "She doesn't like rainy days."
+        "en": "O yağmurlu günleri sevmiyor."
       },
       {
         "zh": "下雨的时候我在家。",
         "pinyin": "Xiàyǔ de shíhou wǒ zài jiā.",
-        "en": "I'm home when it rains."
+        "en": "Yağmur yağarken evdeyim."
       }
     ]
   },
@@ -4251,7 +4251,7 @@
     "id": "w119",
     "hanzi": "先生",
     "pinyin": "xiānsheng",
-    "meaning": "mister; sir",
+    "meaning": "bay; efendi",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Aile ve İnsanlar",
@@ -4259,27 +4259,27 @@
       {
         "zh": "这个先生认识我。",
         "pinyin": "Zhège xiānsheng rènshi wǒ.",
-        "en": "This gentleman knows me."
+        "en": "Bu bey beni tanıyor."
       },
       {
         "zh": "先生，你好。",
         "pinyin": "Xiānsheng, nǐ hǎo.",
-        "en": "Hello, sir."
+        "en": "Merhaba bayım."
       },
       {
         "zh": "那个先生是老师。",
         "pinyin": "Nàge xiānsheng shì lǎoshī.",
-        "en": "That gentleman is a teacher."
+        "en": "O bey öğretmen."
       },
       {
         "zh": "先生，请坐。",
         "pinyin": "Xiānsheng, qǐng zuò.",
-        "en": "Sir, please sit."
+        "en": "Bayım, lütfen oturun."
       },
       {
         "zh": "这个先生我不认识。",
         "pinyin": "Zhège xiānsheng wǒ bú rènshi.",
-        "en": "I don't know this gentleman."
+        "en": "Bu beyi tanımıyorum."
       }
     ]
   },
@@ -4287,7 +4287,7 @@
     "id": "w120",
     "hanzi": "现在",
     "pinyin": "xiànzài",
-    "meaning": "now",
+    "meaning": "şimdi",
     "partOfSpeech": "zaman sözcüğü",
     "level": 1,
     "category": "Zaman",
@@ -4295,27 +4295,27 @@
       {
         "zh": "现在几点？",
         "pinyin": "Xiànzài jǐ diǎn?",
-        "en": "What time is it now?"
+        "en": "Şimdi saat kaç?"
       },
       {
         "zh": "我现在在家。",
         "pinyin": "Wǒ xiànzài zài jiā.",
-        "en": "I'm home now."
+        "en": "Şu anda evdeyim."
       },
       {
         "zh": "她现在工作。",
         "pinyin": "Tā xiànzài gōngzuò.",
-        "en": "She is working now."
+        "en": "O şimdi çalışıyor."
       },
       {
         "zh": "现在天气很好。",
         "pinyin": "Xiànzài tiānqì hěn hǎo.",
-        "en": "The weather is nice now."
+        "en": "Şu anda hava çok güzel."
       },
       {
         "zh": "我现在很高兴。",
         "pinyin": "Wǒ xiànzài hěn gāoxìng.",
-        "en": "I'm very happy now."
+        "en": "Şu anda çok mutluyum."
       }
     ]
   },
@@ -4323,7 +4323,7 @@
     "id": "w121",
     "hanzi": "想",
     "pinyin": "xiǎng",
-    "meaning": "to want; to think",
+    "meaning": "istemek; düşünmek",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -4331,27 +4331,27 @@
       {
         "zh": "我想喝茶。",
         "pinyin": "Wǒ xiǎng hē chá.",
-        "en": "I want to drink tea."
+        "en": "Çay içmek istiyorum."
       },
       {
         "zh": "她想去北京。",
         "pinyin": "Tā xiǎng qù Běijīng.",
-        "en": "She wants to go to Beijing."
+        "en": "O Pekin'e gitmek istiyor."
       },
       {
         "zh": "你想吃什么？",
         "pinyin": "Nǐ xiǎng chī shénme?",
-        "en": "What do you want to eat?"
+        "en": "Ne yemek istiyorsun?"
       },
       {
         "zh": "我想我的家。",
         "pinyin": "Wǒ xiǎng wǒ de jiā.",
-        "en": "I miss my home."
+        "en": "Evimi özlüyorum."
       },
       {
         "zh": "我不想去。",
         "pinyin": "Wǒ bù xiǎng qù.",
-        "en": "I don't want to go."
+        "en": "Gitmek istemiyorum."
       }
     ]
   },
@@ -4359,7 +4359,7 @@
     "id": "w122",
     "hanzi": "小",
     "pinyin": "xiǎo",
-    "meaning": "small",
+    "meaning": "küçük",
     "partOfSpeech": "sıfat",
     "level": 1,
     "category": "Sıfatlar",
@@ -4367,27 +4367,27 @@
       {
         "zh": "这个杯子很小。",
         "pinyin": "Zhège bēizi hěn xiǎo.",
-        "en": "This cup is small."
+        "en": "Bu bardak çok küçük."
       },
       {
         "zh": "她的猫很小。",
         "pinyin": "Tā de māo hěn xiǎo.",
-        "en": "Her cat is small."
+        "en": "Onun kedisi çok küçük."
       },
       {
         "zh": "这本书太小了。",
         "pinyin": "Zhè běn shū tài xiǎo le.",
-        "en": "This book is too small."
+        "en": "Bu kitap çok küçük."
       },
       {
         "zh": "我们学校很小。",
         "pinyin": "Wǒmen xuéxiào hěn xiǎo.",
-        "en": "Our school is small."
+        "en": "Okulumuz küçük."
       },
       {
         "zh": "这个东西不小。",
         "pinyin": "Zhège dōngxi bù xiǎo.",
-        "en": "This thing isn't small."
+        "en": "Bu şey küçük değil."
       }
     ]
   },
@@ -4395,7 +4395,7 @@
     "id": "w123",
     "hanzi": "小姐",
     "pinyin": "xiǎojiě",
-    "meaning": "miss; young lady",
+    "meaning": "hanımefendi; genç kadın",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Aile ve İnsanlar",
@@ -4403,27 +4403,27 @@
       {
         "zh": "这个小姐认识我。",
         "pinyin": "Zhège xiǎojiě rènshi wǒ.",
-        "en": "This young lady knows me."
+        "en": "Bu hanımefendi beni tanıyor."
       },
       {
         "zh": "小姐，你好。",
         "pinyin": "Xiǎojiě, nǐ hǎo.",
-        "en": "Hello, miss."
+        "en": "Merhaba hanımefendi."
       },
       {
         "zh": "那个小姐是老师。",
         "pinyin": "Nàge xiǎojiě shì lǎoshī.",
-        "en": "That young lady is a teacher."
+        "en": "O hanımefendi öğretmen."
       },
       {
         "zh": "小姐，请坐。",
         "pinyin": "Xiǎojiě, qǐng zuò.",
-        "en": "Miss, please sit."
+        "en": "Hanımefendi, lütfen oturun."
       },
       {
         "zh": "这个小姐我不认识。",
         "pinyin": "Zhège xiǎojiě wǒ bú rènshi.",
-        "en": "I don't know this young lady."
+        "en": "Bu hanımefendiyi tanımıyorum."
       }
     ]
   },
@@ -4431,7 +4431,7 @@
     "id": "w124",
     "hanzi": "些",
     "pinyin": "xiē",
-    "meaning": "some",
+    "meaning": "birkaç; bazı",
     "partOfSpeech": "ölçü sözcüğü",
     "level": 1,
     "category": "Dilbilgisi Kelimeleri",
@@ -4439,27 +4439,27 @@
       {
         "zh": "我买了一些东西。",
         "pinyin": "Wǒ mǎi le yìxiē dōngxi.",
-        "en": "I bought some things."
+        "en": "Birkaç şey aldım."
       },
       {
         "zh": "这些是我的书。",
         "pinyin": "Zhèxiē shì wǒ de shū.",
-        "en": "These are my books."
+        "en": "Bunlar benim kitaplarım."
       },
       {
         "zh": "那些人是谁？",
         "pinyin": "Nàxiē rén shì shéi?",
-        "en": "Who are those people?"
+        "en": "O insanlar kim?"
       },
       {
         "zh": "她喝了一些水。",
         "pinyin": "Tā hē le yìxiē shuǐ.",
-        "en": "She drank some water."
+        "en": "O biraz su içti."
       },
       {
         "zh": "这些苹果很好。",
         "pinyin": "Zhèxiē píngguǒ hěn hǎo.",
-        "en": "These apples are good."
+        "en": "Bu elmalar çok iyi."
       }
     ]
   },
@@ -4467,7 +4467,7 @@
     "id": "w125",
     "hanzi": "写",
     "pinyin": "xiě",
-    "meaning": "to write",
+    "meaning": "yazmak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -4475,27 +4475,27 @@
       {
         "zh": "我在写字。",
         "pinyin": "Wǒ zài xiě zì.",
-        "en": "I am writing characters."
+        "en": "Karakter yazıyorum."
       },
       {
         "zh": "她会写汉语。",
         "pinyin": "Tā huì xiě Hànyǔ.",
-        "en": "She can write Chinese."
+        "en": "O Çince yazabiliyor."
       },
       {
         "zh": "请写你的名字。",
         "pinyin": "Qǐng xiě nǐ de míngzi.",
-        "en": "Please write your name."
+        "en": "Lütfen adını yaz."
       },
       {
         "zh": "他不会写字。",
         "pinyin": "Tā bú huì xiě zì.",
-        "en": "He can't write characters."
+        "en": "O yazı yazamıyor."
       },
       {
         "zh": "我们在学校写字。",
         "pinyin": "Wǒmen zài xuéxiào xiě zì.",
-        "en": "We write at school."
+        "en": "Okulda yazı yazıyoruz."
       }
     ]
   },
@@ -4503,7 +4503,7 @@
     "id": "w126",
     "hanzi": "谢谢",
     "pinyin": "xièxie",
-    "meaning": "thank you",
+    "meaning": "teşekkür ederim",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Temel Kelimeler",
@@ -4511,27 +4511,27 @@
       {
         "zh": "谢谢你！",
         "pinyin": "Xièxie nǐ!",
-        "en": "Thank you!"
+        "en": "Teşekkür ederim!"
       },
       {
         "zh": "谢谢老师。",
         "pinyin": "Xièxie lǎoshī.",
-        "en": "Thank you, teacher."
+        "en": "Teşekkürler öğretmenim."
       },
       {
         "zh": "谢谢，不客气。",
         "pinyin": "Xièxie, bú kèqi.",
-        "en": "Thanks, you're welcome."
+        "en": "Teşekkürler, rica ederim."
       },
       {
         "zh": "她说谢谢。",
         "pinyin": "Tā shuō xièxie.",
-        "en": "She said thank you."
+        "en": "O teşekkür etti."
       },
       {
         "zh": "谢谢你的书。",
         "pinyin": "Xièxie nǐ de shū.",
-        "en": "Thanks for your book."
+        "en": "Kitabın için teşekkürler."
       }
     ]
   },
@@ -4539,7 +4539,7 @@
     "id": "w127",
     "hanzi": "星期",
     "pinyin": "xīngqī",
-    "meaning": "week",
+    "meaning": "hafta",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Zaman",
@@ -4547,27 +4547,27 @@
       {
         "zh": "今天星期几？",
         "pinyin": "Jīntiān xīngqī jǐ?",
-        "en": "What day of the week is it?"
+        "en": "Bugün haftanın hangi günü?"
       },
       {
         "zh": "我下个星期去北京。",
         "pinyin": "Wǒ xià ge xīngqī qù Běijīng.",
-        "en": "I'm going to Beijing next week."
+        "en": "Gelecek hafta Pekin'e gidiyorum."
       },
       {
         "zh": "这个星期天气很好。",
         "pinyin": "Zhège xīngqī tiānqì hěn hǎo.",
-        "en": "The weather this week is nice."
+        "en": "Bu hafta hava çok güzel."
       },
       {
         "zh": "上个星期我很高兴。",
         "pinyin": "Shàng ge xīngqī wǒ hěn gāoxìng.",
-        "en": "I was very happy last week."
+        "en": "Geçen hafta çok mutluydum."
       },
       {
         "zh": "这个星期天气很冷。",
         "pinyin": "Zhège xīngqī tiānqì hěn lěng.",
-        "en": "The weather is cold this week."
+        "en": "Bu hafta hava çok soğuk."
       }
     ]
   },
@@ -4575,7 +4575,7 @@
     "id": "w128",
     "hanzi": "学生",
     "pinyin": "xuésheng",
-    "meaning": "student",
+    "meaning": "öğrenci",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Aile ve İnsanlar",
@@ -4583,27 +4583,27 @@
       {
         "zh": "我是学生。",
         "pinyin": "Wǒ shì xuésheng.",
-        "en": "I am a student."
+        "en": "Öğrenciyim."
       },
       {
         "zh": "她是我们学校的学生。",
         "pinyin": "Tā shì wǒmen xuéxiào de xuésheng.",
-        "en": "She is a student at our school."
+        "en": "O bizim okulumuzun öğrencisi."
       },
       {
         "zh": "这个学生很好。",
         "pinyin": "Zhège xuésheng hěn hǎo.",
-        "en": "This student is very good."
+        "en": "Bu öğrenci çok iyi."
       },
       {
         "zh": "学校有很多学生。",
         "pinyin": "Xuéxiào yǒu hěn duō xuésheng.",
-        "en": "The school has many students."
+        "en": "Okulda çok öğrenci var."
       },
       {
         "zh": "你是不是学生？",
         "pinyin": "Nǐ shì bu shì xuésheng?",
-        "en": "Are you a student?"
+        "en": "Öğrenci misin değil misin?"
       }
     ]
   },
@@ -4611,7 +4611,7 @@
     "id": "w129",
     "hanzi": "学习",
     "pinyin": "xuéxí",
-    "meaning": "to study",
+    "meaning": "ders çalışmak; öğrenmek",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -4619,27 +4619,27 @@
       {
         "zh": "我在学习汉语。",
         "pinyin": "Wǒ zài xuéxí Hànyǔ.",
-        "en": "I am studying Chinese."
+        "en": "Çince çalışıyorum."
       },
       {
         "zh": "她喜欢学习。",
         "pinyin": "Tā xǐhuan xuéxí.",
-        "en": "She likes studying."
+        "en": "O ders çalışmayı sever."
       },
       {
         "zh": "我们在学校学习。",
         "pinyin": "Wǒmen zài xuéxiào xuéxí.",
-        "en": "We study at school."
+        "en": "Okulda ders çalışıyoruz."
       },
       {
         "zh": "他今天学习。",
         "pinyin": "Tā jīntiān xuéxí.",
-        "en": "He is studying today."
+        "en": "O bugün ders çalışıyor."
       },
       {
         "zh": "你学习什么？",
         "pinyin": "Nǐ xuéxí shénme?",
-        "en": "What are you studying?"
+        "en": "Ne çalışıyorsun?"
       }
     ]
   },
@@ -4647,7 +4647,7 @@
     "id": "w130",
     "hanzi": "学校",
     "pinyin": "xuéxiào",
-    "meaning": "school",
+    "meaning": "okul",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Yerler",
@@ -4655,27 +4655,27 @@
       {
         "zh": "我在学校。",
         "pinyin": "Wǒ zài xuéxiào.",
-        "en": "I'm at school."
+        "en": "Okuldayım."
       },
       {
         "zh": "学校很大。",
         "pinyin": "Xuéxiào hěn dà.",
-        "en": "The school is big."
+        "en": "Okul çok büyük."
       },
       {
         "zh": "她去学校学习。",
         "pinyin": "Tā qù xuéxiào xuéxí.",
-        "en": "She goes to school to study."
+        "en": "O ders çalışmak için okula gidiyor."
       },
       {
         "zh": "学校里有很多学生。",
         "pinyin": "Xuéxiào lǐ yǒu hěn duō xuésheng.",
-        "en": "There are many students in the school."
+        "en": "Okulda çok öğrenci var."
       },
       {
         "zh": "我们的学校很漂亮。",
         "pinyin": "Wǒmen de xuéxiào hěn piàoliang.",
-        "en": "Our school is very pretty."
+        "en": "Okulumuz çok güzel."
       }
     ]
   },
@@ -4683,7 +4683,7 @@
     "id": "w131",
     "hanzi": "一",
     "pinyin": "yī",
-    "meaning": "one",
+    "meaning": "bir",
     "partOfSpeech": "sayı",
     "level": 1,
     "category": "Sayılar",
@@ -4691,27 +4691,27 @@
       {
         "zh": "我有一本书。",
         "pinyin": "Wǒ yǒu yì běn shū.",
-        "en": "I have one book."
+        "en": "Bir kitabım var."
       },
       {
         "zh": "现在是一点。",
         "pinyin": "Xiànzài shì yī diǎn.",
-        "en": "It's one o'clock now."
+        "en": "Şimdi saat bir."
       },
       {
         "zh": "她一岁了。",
         "pinyin": "Tā yí suì le.",
-        "en": "She is one year old."
+        "en": "O bir yaşında."
       },
       {
         "zh": "一月天气很冷。",
         "pinyin": "Yī yuè tiānqì hěn lěng.",
-        "en": "The weather in January is cold."
+        "en": "Ocakta hava çok soğuk."
       },
       {
         "zh": "我们一个人。",
         "pinyin": "Wǒmen yí ge rén.",
-        "en": "There's just one of us."
+        "en": "Sadece biriz."
       }
     ]
   },
@@ -4719,7 +4719,7 @@
     "id": "w132",
     "hanzi": "衣服",
     "pinyin": "yīfu",
-    "meaning": "clothes",
+    "meaning": "kıyafet",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Nesneler",
@@ -4727,27 +4727,27 @@
       {
         "zh": "这是我的衣服。",
         "pinyin": "Zhè shì wǒ de yīfu.",
-        "en": "These are my clothes."
+        "en": "Bunlar benim kıyafetlerim."
       },
       {
         "zh": "她的衣服很漂亮。",
         "pinyin": "Tā de yīfu hěn piàoliang.",
-        "en": "Her clothes are very pretty."
+        "en": "Onun kıyafetleri çok güzel."
       },
       {
         "zh": "我想买衣服。",
         "pinyin": "Wǒ xiǎng mǎi yīfu.",
-        "en": "I want to buy clothes."
+        "en": "Kıyafet almak istiyorum."
       },
       {
         "zh": "这个衣服多少钱？",
         "pinyin": "Zhège yīfu duōshao qián?",
-        "en": "How much are these clothes?"
+        "en": "Bu kıyafet ne kadar?"
       },
       {
         "zh": "这些衣服是谁的？",
         "pinyin": "Zhèxiē yīfu shì shéi de?",
-        "en": "Whose clothes are these?"
+        "en": "Bu kıyafetler kimin?"
       }
     ]
   },
@@ -4755,7 +4755,7 @@
     "id": "w133",
     "hanzi": "医生",
     "pinyin": "yīshēng",
-    "meaning": "doctor",
+    "meaning": "doktor",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Aile ve İnsanlar",
@@ -4763,27 +4763,27 @@
       {
         "zh": "她是医生。",
         "pinyin": "Tā shì yīshēng.",
-        "en": "She is a doctor."
+        "en": "O doktor."
       },
       {
         "zh": "我爸爸是医生。",
         "pinyin": "Wǒ bàba shì yīshēng.",
-        "en": "My dad is a doctor."
+        "en": "Babam doktor."
       },
       {
         "zh": "医生在医院工作。",
         "pinyin": "Yīshēng zài yīyuàn gōngzuò.",
-        "en": "The doctor works at the hospital."
+        "en": "Doktor hastanede çalışıyor."
       },
       {
         "zh": "我想认识那个医生。",
         "pinyin": "Wǒ xiǎng rènshi nàge yīshēng.",
-        "en": "I want to meet that doctor."
+        "en": "O doktoru tanımak istiyorum."
       },
       {
         "zh": "她是我们的医生。",
         "pinyin": "Tā shì wǒmen de yīshēng.",
-        "en": "She is our doctor."
+        "en": "O bizim doktorumuz."
       }
     ]
   },
@@ -4791,7 +4791,7 @@
     "id": "w134",
     "hanzi": "医院",
     "pinyin": "yīyuàn",
-    "meaning": "hospital",
+    "meaning": "hastane",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Yerler",
@@ -4799,27 +4799,27 @@
       {
         "zh": "医院在哪儿？",
         "pinyin": "Yīyuàn zài nǎr?",
-        "en": "Where is the hospital?"
+        "en": "Hastane nerede?"
       },
       {
         "zh": "她在医院工作。",
         "pinyin": "Tā zài yīyuàn gōngzuò.",
-        "en": "She works at the hospital."
+        "en": "O hastanede çalışıyor."
       },
       {
         "zh": "这个医院很大。",
         "pinyin": "Zhège yīyuàn hěn dà.",
-        "en": "This hospital is big."
+        "en": "Bu hastane çok büyük."
       },
       {
         "zh": "我去医院看医生。",
         "pinyin": "Wǒ qù yīyuàn kàn yīshēng.",
-        "en": "I'm going to the hospital to see a doctor."
+        "en": "Doktora görünmek için hastaneye gidiyorum."
       },
       {
         "zh": "医院里有很多人。",
         "pinyin": "Yīyuàn lǐ yǒu hěn duō rén.",
-        "en": "There are many people in the hospital."
+        "en": "Hastanede çok insan var."
       }
     ]
   },
@@ -4827,7 +4827,7 @@
     "id": "w135",
     "hanzi": "椅子",
     "pinyin": "yǐzi",
-    "meaning": "chair",
+    "meaning": "sandalye",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Nesneler",
@@ -4835,27 +4835,27 @@
       {
         "zh": "这是我的椅子。",
         "pinyin": "Zhè shì wǒ de yǐzi.",
-        "en": "This is my chair."
+        "en": "Bu benim sandalyem."
       },
       {
         "zh": "猫在椅子上。",
         "pinyin": "Māo zài yǐzi shàng.",
-        "en": "The cat is on the chair."
+        "en": "Kedi sandalyenin üstünde."
       },
       {
         "zh": "这个椅子很小。",
         "pinyin": "Zhège yǐzi hěn xiǎo.",
-        "en": "This chair is small."
+        "en": "Bu sandalye çok küçük."
       },
       {
         "zh": "请坐这个椅子。",
         "pinyin": "Qǐng zuò zhège yǐzi.",
-        "en": "Please sit on this chair."
+        "en": "Lütfen bu sandalyeye otur."
       },
       {
         "zh": "椅子在桌子前面。",
         "pinyin": "Yǐzi zài zhuōzi qiánmiàn.",
-        "en": "The chair is in front of the table."
+        "en": "Sandalye masanın önünde."
       }
     ]
   },
@@ -4863,7 +4863,7 @@
     "id": "w136",
     "hanzi": "有",
     "pinyin": "yǒu",
-    "meaning": "to have",
+    "meaning": "sahip olmak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -4871,27 +4871,27 @@
       {
         "zh": "我有一本书。",
         "pinyin": "Wǒ yǒu yì běn shū.",
-        "en": "I have a book."
+        "en": "Bir kitabım var."
       },
       {
         "zh": "她有很多朋友。",
         "pinyin": "Tā yǒu hěn duō péngyou.",
-        "en": "She has many friends."
+        "en": "Onun çok arkadaşı var."
       },
       {
         "zh": "你有钱吗？",
         "pinyin": "Nǐ yǒu qián ma?",
-        "en": "Do you have money?"
+        "en": "Paran var mı?"
       },
       {
         "zh": "我没有电脑。",
         "pinyin": "Wǒ méiyǒu diànnǎo.",
-        "en": "I don't have a computer."
+        "en": "Bilgisayarım yok."
       },
       {
         "zh": "我家有五个人。",
         "pinyin": "Wǒ jiā yǒu wǔ ge rén.",
-        "en": "There are five people in my family."
+        "en": "Ailemde beş kişi var."
       }
     ]
   },
@@ -4899,7 +4899,7 @@
     "id": "w137",
     "hanzi": "月",
     "pinyin": "yuè",
-    "meaning": "month; moon",
+    "meaning": "ay (takvim)",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Zaman",
@@ -4907,27 +4907,27 @@
       {
         "zh": "现在是几月？",
         "pinyin": "Xiànzài shì jǐ yuè?",
-        "en": "What month is it now?"
+        "en": "Şimdi hangi ay?"
       },
       {
         "zh": "我一月去北京。",
         "pinyin": "Wǒ yī yuè qù Běijīng.",
-        "en": "I'm going to Beijing in January."
+        "en": "Ocak ayında Pekin'e gidiyorum."
       },
       {
         "zh": "她八月来。",
         "pinyin": "Tā bā yuè lái.",
-        "en": "She's coming in August."
+        "en": "O Ağustos'ta geliyor."
       },
       {
         "zh": "这个月天气很好。",
         "pinyin": "Zhège yuè tiānqì hěn hǎo.",
-        "en": "The weather is nice this month."
+        "en": "Bu ay hava çok güzel."
       },
       {
         "zh": "下个月我们回家。",
         "pinyin": "Xià ge yuè wǒmen huí jiā.",
-        "en": "We're going home next month."
+        "en": "Gelecek ay eve dönüyoruz."
       }
     ]
   },
@@ -4935,7 +4935,7 @@
     "id": "w138",
     "hanzi": "再见",
     "pinyin": "zàijiàn",
-    "meaning": "goodbye",
+    "meaning": "hoşça kal",
     "partOfSpeech": "öbek",
     "level": 1,
     "category": "Temel Kelimeler",
@@ -4943,27 +4943,27 @@
       {
         "zh": "再见！",
         "pinyin": "Zàijiàn!",
-        "en": "Goodbye!"
+        "en": "Hoşça kal!"
       },
       {
         "zh": "明天见，再见。",
         "pinyin": "Míngtiān jiàn, zàijiàn.",
-        "en": "See you tomorrow, goodbye."
+        "en": "Yarın görüşürüz, hoşça kal."
       },
       {
         "zh": "她说了再见。",
         "pinyin": "Tā shuō le zàijiàn.",
-        "en": "She said goodbye."
+        "en": "O hoşça kal dedi."
       },
       {
         "zh": "我们明天再见。",
         "pinyin": "Wǒmen míngtiān zàijiàn.",
-        "en": "See you tomorrow."
+        "en": "Yarın görüşürüz."
       },
       {
         "zh": "老师，再见！",
         "pinyin": "Lǎoshī, zàijiàn!",
-        "en": "Goodbye, teacher!"
+        "en": "Hoşça kalın öğretmenim!"
       }
     ]
   },
@@ -4971,7 +4971,7 @@
     "id": "w139",
     "hanzi": "在",
     "pinyin": "zài",
-    "meaning": "at; to be located",
+    "meaning": "-de; bulunmak",
     "partOfSpeech": "edat",
     "level": 1,
     "category": "Dilbilgisi Kelimeleri",
@@ -4979,27 +4979,27 @@
       {
         "zh": "我在家。",
         "pinyin": "Wǒ zài jiā.",
-        "en": "I am at home."
+        "en": "Evdeyim."
       },
       {
         "zh": "她在学校。",
         "pinyin": "Tā zài xuéxiào.",
-        "en": "She is at school."
+        "en": "O okulda."
       },
       {
         "zh": "猫在桌子上。",
         "pinyin": "Māo zài zhuōzi shàng.",
-        "en": "The cat is on the table."
+        "en": "Kedi masanın üstünde."
       },
       {
         "zh": "你在哪儿？",
         "pinyin": "Nǐ zài nǎr?",
-        "en": "Where are you?"
+        "en": "Sen neredesin?"
       },
       {
         "zh": "我在看书。",
         "pinyin": "Wǒ zài kàn shū.",
-        "en": "I am reading a book."
+        "en": "Kitap okuyorum."
       }
     ]
   },
@@ -5007,7 +5007,7 @@
     "id": "w140",
     "hanzi": "怎么",
     "pinyin": "zěnme",
-    "meaning": "how",
+    "meaning": "nasıl",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Soru Kelimeleri",
@@ -5015,27 +5015,27 @@
       {
         "zh": "这个字怎么写？",
         "pinyin": "Zhège zì zěnme xiě?",
-        "en": "How do you write this character?"
+        "en": "Bu karakter nasıl yazılır?"
       },
       {
         "zh": "你怎么去学校？",
         "pinyin": "Nǐ zěnme qù xuéxiào?",
-        "en": "How do you go to school?"
+        "en": "Okula nasıl gidiyorsun?"
       },
       {
         "zh": "这个怎么说？",
         "pinyin": "Zhège zěnme shuō?",
-        "en": "How do you say this?"
+        "en": "Bu nasıl söylenir?"
       },
       {
         "zh": "你怎么了？",
         "pinyin": "Nǐ zěnme le?",
-        "en": "What's wrong with you?"
+        "en": "Sana ne oldu?"
       },
       {
         "zh": "她怎么没来？",
         "pinyin": "Tā zěnme méi lái?",
-        "en": "How come she didn't come?"
+        "en": "O neden gelmedi?"
       }
     ]
   },
@@ -5043,7 +5043,7 @@
     "id": "w141",
     "hanzi": "怎么样",
     "pinyin": "zěnmeyàng",
-    "meaning": "how about; how is it",
+    "meaning": "nasıl; ne durumda",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Soru Kelimeleri",
@@ -5051,27 +5051,27 @@
       {
         "zh": "今天天气怎么样？",
         "pinyin": "Jīntiān tiānqì zěnmeyàng?",
-        "en": "How's the weather today?"
+        "en": "Bugün hava nasıl?"
       },
       {
         "zh": "这个怎么样？",
         "pinyin": "Zhège zěnmeyàng?",
-        "en": "How about this one?"
+        "en": "Bu nasıl?"
       },
       {
         "zh": "你现在怎么样？",
         "pinyin": "Nǐ xiànzài zěnmeyàng?",
-        "en": "How are you doing now?"
+        "en": "Şu anda nasılsın?"
       },
       {
         "zh": "这本书怎么样？",
         "pinyin": "Zhè běn shū zěnmeyàng?",
-        "en": "How is this book?"
+        "en": "Bu kitap nasıl?"
       },
       {
         "zh": "我们去看电影，怎么样？",
         "pinyin": "Wǒmen qù kàn diànyǐng, zěnmeyàng?",
-        "en": "Let's go watch a movie, how about it?"
+        "en": "Sinemaya gidelim, nasıl olur?"
       }
     ]
   },
@@ -5079,7 +5079,7 @@
     "id": "w142",
     "hanzi": "这",
     "pinyin": "zhè",
-    "meaning": "this",
+    "meaning": "bu",
     "partOfSpeech": "zamir",
     "level": 1,
     "category": "Zamirler",
@@ -5087,27 +5087,27 @@
       {
         "zh": "这是我的书。",
         "pinyin": "Zhè shì wǒ de shū.",
-        "en": "This is my book."
+        "en": "Bu benim kitabım."
       },
       {
         "zh": "这个很好。",
         "pinyin": "Zhège hěn hǎo.",
-        "en": "This one is good."
+        "en": "Bu iyi."
       },
       {
         "zh": "这是谁的猫？",
         "pinyin": "Zhè shì shéi de māo?",
-        "en": "Whose cat is this?"
+        "en": "Bu kimin kedisi?"
       },
       {
         "zh": "这本书不是我的。",
         "pinyin": "Zhè běn shū bú shì wǒ de.",
-        "en": "This book isn't mine."
+        "en": "Bu kitap benim değil."
       },
       {
         "zh": "这些是什么？",
         "pinyin": "Zhèxiē shì shénme?",
-        "en": "What are these?"
+        "en": "Bunlar ne?"
       }
     ]
   },
@@ -5115,7 +5115,7 @@
     "id": "w143",
     "hanzi": "中国",
     "pinyin": "Zhōngguó",
-    "meaning": "China",
+    "meaning": "Çin",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Yerler",
@@ -5123,27 +5123,27 @@
       {
         "zh": "我是中国人。",
         "pinyin": "Wǒ shì Zhōngguó rén.",
-        "en": "I am Chinese."
+        "en": "Ben Çinliyim."
       },
       {
         "zh": "北京是中国的。",
         "pinyin": "Běijīng shì Zhōngguó de.",
-        "en": "Beijing belongs to China."
+        "en": "Pekin Çin'e ait."
       },
       {
         "zh": "她想去中国。",
         "pinyin": "Tā xiǎng qù Zhōngguó.",
-        "en": "She wants to go to China."
+        "en": "O Çin'e gitmek istiyor."
       },
       {
         "zh": "中国人喜欢喝茶。",
         "pinyin": "Zhōngguó rén xǐhuan hē chá.",
-        "en": "Chinese people like drinking tea."
+        "en": "Çinliler çay içmeyi sever."
       },
       {
         "zh": "我在中国工作。",
         "pinyin": "Wǒ zài Zhōngguó gōngzuò.",
-        "en": "I work in China."
+        "en": "Çin'de çalışıyorum."
       }
     ]
   },
@@ -5151,7 +5151,7 @@
     "id": "w144",
     "hanzi": "中午",
     "pinyin": "zhōngwǔ",
-    "meaning": "noon",
+    "meaning": "öğle",
     "partOfSpeech": "zaman sözcüğü",
     "level": 1,
     "category": "Zaman",
@@ -5159,27 +5159,27 @@
       {
         "zh": "我们中午吃饭。",
         "pinyin": "Wǒmen zhōngwǔ chī fàn.",
-        "en": "We eat at noon."
+        "en": "Öğlen yemek yiyoruz."
       },
       {
         "zh": "中午十二点了。",
         "pinyin": "Zhōngwǔ shí'èr diǎn le.",
-        "en": "It's noon now."
+        "en": "Şimdi öğlen saat on iki."
       },
       {
         "zh": "她中午回家。",
         "pinyin": "Tā zhōngwǔ huí jiā.",
-        "en": "She goes home at noon."
+        "en": "O öğlen eve gidiyor."
       },
       {
         "zh": "今天中午天气很热。",
         "pinyin": "Jīntiān zhōngwǔ tiānqì hěn rè.",
-        "en": "It's hot at noon today."
+        "en": "Bugün öğlen hava çok sıcak."
       },
       {
         "zh": "中午你在哪儿？",
         "pinyin": "Zhōngwǔ nǐ zài nǎr?",
-        "en": "Where are you at noon?"
+        "en": "Öğlen neredesin?"
       }
     ]
   },
@@ -5187,7 +5187,7 @@
     "id": "w145",
     "hanzi": "住",
     "pinyin": "zhù",
-    "meaning": "to live; to reside",
+    "meaning": "oturmak; yaşamak (ikamet)",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -5195,27 +5195,27 @@
       {
         "zh": "我住在北京。",
         "pinyin": "Wǒ zhù zài Běijīng.",
-        "en": "I live in Beijing."
+        "en": "Pekin'de yaşıyorum."
       },
       {
         "zh": "你住在哪儿？",
         "pinyin": "Nǐ zhù zài nǎr?",
-        "en": "Where do you live?"
+        "en": "Nerede yaşıyorsun?"
       },
       {
         "zh": "她住在学校。",
         "pinyin": "Tā zhù zài xuéxiào.",
-        "en": "She lives at the school."
+        "en": "O okulda kalıyor."
       },
       {
         "zh": "我们都住在这儿。",
         "pinyin": "Wǒmen dōu zhù zài zhèr.",
-        "en": "We all live here."
+        "en": "Hepimiz burada yaşıyoruz."
       },
       {
         "zh": "他住在这儿。",
         "pinyin": "Tā zhù zài zhèr.",
-        "en": "He lives here."
+        "en": "O burada yaşıyor."
       }
     ]
   },
@@ -5223,7 +5223,7 @@
     "id": "w146",
     "hanzi": "桌子",
     "pinyin": "zhuōzi",
-    "meaning": "table; desk",
+    "meaning": "masa",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Nesneler",
@@ -5231,27 +5231,27 @@
       {
         "zh": "书在桌子上。",
         "pinyin": "Shū zài zhuōzi shàng.",
-        "en": "The book is on the table."
+        "en": "Kitap masanın üstünde."
       },
       {
         "zh": "这个桌子很大。",
         "pinyin": "Zhège zhuōzi hěn dà.",
-        "en": "This table is big."
+        "en": "Bu masa çok büyük."
       },
       {
         "zh": "猫在桌子下。",
         "pinyin": "Māo zài zhuōzi xià.",
-        "en": "The cat is under the table."
+        "en": "Kedi masanın altında."
       },
       {
         "zh": "这是谁的桌子？",
         "pinyin": "Zhè shì shéi de zhuōzi?",
-        "en": "Whose table is this?"
+        "en": "Bu kimin masası?"
       },
       {
         "zh": "桌子上有杯子。",
         "pinyin": "Zhuōzi shàng yǒu bēizi.",
-        "en": "There is a cup on the table."
+        "en": "Masanın üstünde bir bardak var."
       }
     ]
   },
@@ -5259,7 +5259,7 @@
     "id": "w147",
     "hanzi": "字",
     "pinyin": "zì",
-    "meaning": "character; letter",
+    "meaning": "karakter; harf",
     "partOfSpeech": "isim",
     "level": 1,
     "category": "Temel Kelimeler",
@@ -5267,27 +5267,27 @@
       {
         "zh": "我在写字。",
         "pinyin": "Wǒ zài xiě zì.",
-        "en": "I'm writing characters."
+        "en": "Karakter yazıyorum."
       },
       {
         "zh": "这个字怎么写？",
         "pinyin": "Zhège zì zěnme xiě?",
-        "en": "How do you write this character?"
+        "en": "Bu karakter nasıl yazılır?"
       },
       {
         "zh": "她认识很多字。",
         "pinyin": "Tā rènshi hěn duō zì.",
-        "en": "She knows many characters."
+        "en": "O çok karakter biliyor."
       },
       {
         "zh": "这本书的字很小。",
         "pinyin": "Zhè běn shū de zì hěn xiǎo.",
-        "en": "This book's characters are small."
+        "en": "Bu kitabın harfleri çok küçük."
       },
       {
         "zh": "我不认识这个字。",
         "pinyin": "Wǒ bú rènshi zhège zì.",
-        "en": "I don't know this character."
+        "en": "Bu karakteri bilmiyorum."
       }
     ]
   },
@@ -5295,7 +5295,7 @@
     "id": "w148",
     "hanzi": "昨天",
     "pinyin": "zuótiān",
-    "meaning": "yesterday",
+    "meaning": "dün",
     "partOfSpeech": "zaman sözcüğü",
     "level": 1,
     "category": "Zaman",
@@ -5303,27 +5303,27 @@
       {
         "zh": "昨天我在家。",
         "pinyin": "Zuótiān wǒ zài jiā.",
-        "en": "I was home yesterday."
+        "en": "Dün evdeydim."
       },
       {
         "zh": "昨天天气很冷。",
         "pinyin": "Zuótiān tiānqì hěn lěng.",
-        "en": "It was cold yesterday."
+        "en": "Dün hava soğuktu."
       },
       {
         "zh": "她昨天来了。",
         "pinyin": "Tā zuótiān lái le.",
-        "en": "She came yesterday."
+        "en": "O dün geldi."
       },
       {
         "zh": "昨天你去哪儿了？",
         "pinyin": "Zuótiān nǐ qù nǎr le?",
-        "en": "Where did you go yesterday?"
+        "en": "Dün nereye gittin?"
       },
       {
         "zh": "我昨天没工作。",
         "pinyin": "Wǒ zuótiān méi gōngzuò.",
-        "en": "I didn't work yesterday."
+        "en": "Dün çalışmadım."
       }
     ]
   },
@@ -5331,7 +5331,7 @@
     "id": "w149",
     "hanzi": "坐",
     "pinyin": "zuò",
-    "meaning": "to sit",
+    "meaning": "oturmak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -5339,27 +5339,27 @@
       {
         "zh": "请坐。",
         "pinyin": "Qǐng zuò.",
-        "en": "Please sit."
+        "en": "Lütfen otur."
       },
       {
         "zh": "她坐在椅子上。",
         "pinyin": "Tā zuò zài yǐzi shàng.",
-        "en": "She sits on the chair."
+        "en": "O sandalyede oturuyor."
       },
       {
         "zh": "我坐出租车去。",
         "pinyin": "Wǒ zuò chūzūchē qù.",
-        "en": "I take a taxi there."
+        "en": "Taksiyle oraya gidiyorum."
       },
       {
         "zh": "我们坐飞机去北京。",
         "pinyin": "Wǒmen zuò fēijī qù Běijīng.",
-        "en": "We take a plane to Beijing."
+        "en": "Pekin'e uçakla gidiyoruz."
       },
       {
         "zh": "你坐这儿。",
         "pinyin": "Nǐ zuò zhèr.",
-        "en": "You sit here."
+        "en": "Buraya otur."
       }
     ]
   },
@@ -5367,7 +5367,7 @@
     "id": "w150",
     "hanzi": "做",
     "pinyin": "zuò",
-    "meaning": "to do; to make",
+    "meaning": "yapmak; hazırlamak",
     "partOfSpeech": "fiil",
     "level": 1,
     "category": "Fiiller",
@@ -5375,27 +5375,27 @@
       {
         "zh": "你在做什么？",
         "pinyin": "Nǐ zài zuò shénme?",
-        "en": "What are you doing?"
+        "en": "Ne yapıyorsun?"
       },
       {
         "zh": "妈妈做菜。",
         "pinyin": "Māma zuò cài.",
-        "en": "Mom cooks."
+        "en": "Annem yemek yapıyor."
       },
       {
         "zh": "她做的菜很好吃。",
         "pinyin": "Tā zuò de cài hěn hǎochī.",
-        "en": "The food she makes is delicious."
+        "en": "Onun yaptığı yemek çok lezzetli."
       },
       {
         "zh": "我做了三个杯子。",
         "pinyin": "Wǒ zuò le sān ge bēizi.",
-        "en": "I made three cups."
+        "en": "Üç bardak yaptım."
       },
       {
         "zh": "他不做饭。",
         "pinyin": "Tā bú zuò fàn.",
-        "en": "He doesn't cook."
+        "en": "O yemek pişirmiyor."
       }
     ]
   },
@@ -5403,7 +5403,7 @@
     "id": "w151",
     "hanzi": "吧",
     "pinyin": "ba",
-    "meaning": "suggestion particle",
+    "meaning": "öneri parçacığı",
     "partOfSpeech": "parçacık",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -5411,27 +5411,27 @@
       {
         "zh": "我们走吧。",
         "pinyin": "Wǒmen zǒu ba.",
-        "en": "Let's go."
+        "en": "Hadi gidelim."
       },
       {
         "zh": "你说吧。",
         "pinyin": "Nǐ shuō ba.",
-        "en": "Go ahead and speak."
+        "en": "Hadi söyle."
       },
       {
         "zh": "我们喝茶吧。",
         "pinyin": "Wǒmen hē chá ba.",
-        "en": "Let's drink tea."
+        "en": "Çay içelim."
       },
       {
         "zh": "你是学生吧？",
         "pinyin": "Nǐ shì xuésheng ba?",
-        "en": "You're a student, right?"
+        "en": "Öğrencisin, değil mi?"
       },
       {
         "zh": "我们去看电影吧。",
         "pinyin": "Wǒmen qù kàn diànyǐng ba.",
-        "en": "Let's go watch a movie."
+        "en": "Sinemaya gidelim."
       }
     ]
   },
@@ -5439,7 +5439,7 @@
     "id": "w152",
     "hanzi": "白",
     "pinyin": "bái",
-    "meaning": "white",
+    "meaning": "beyaz",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -5447,27 +5447,27 @@
       {
         "zh": "这件衣服是白的。",
         "pinyin": "Zhè jiàn yīfu shì bái de.",
-        "en": "This piece of clothing is white."
+        "en": "Bu kıyafet beyaz."
       },
       {
         "zh": "我喜欢白色。",
         "pinyin": "Wǒ xǐhuan báisè.",
-        "en": "I like the color white."
+        "en": "Beyaz rengi severim."
       },
       {
         "zh": "她的猫是白的。",
         "pinyin": "Tā de māo shì bái de.",
-        "en": "Her cat is white."
+        "en": "Onun kedisi beyaz."
       },
       {
         "zh": "这本书是白色的。",
         "pinyin": "Zhè běn shū shì báisè de.",
-        "en": "This book is white."
+        "en": "Bu kitap beyaz renkli."
       },
       {
         "zh": "这个杯子不是白的。",
         "pinyin": "Zhège bēizi bú shì bái de.",
-        "en": "This cup isn't white."
+        "en": "Bu bardak beyaz değil."
       }
     ]
   },
@@ -5475,7 +5475,7 @@
     "id": "w153",
     "hanzi": "百",
     "pinyin": "bǎi",
-    "meaning": "hundred",
+    "meaning": "yüz (100)",
     "partOfSpeech": "sayı",
     "level": 2,
     "category": "Sayılar",
@@ -5483,27 +5483,27 @@
       {
         "zh": "这个一百块钱。",
         "pinyin": "Zhège yìbǎi kuài qián.",
-        "en": "This costs a hundred yuan."
+        "en": "Bu yüz yuan."
       },
       {
         "zh": "我们学校有五百个学生。",
         "pinyin": "Wǒmen xuéxiào yǒu wǔbǎi ge xuésheng.",
-        "en": "Our school has five hundred students."
+        "en": "Okulumuzda beş yüz öğrenci var."
       },
       {
         "zh": "她有一百本书。",
         "pinyin": "Tā yǒu yìbǎi běn shū.",
-        "en": "She has a hundred books."
+        "en": "Onun yüz kitabı var."
       },
       {
         "zh": "这个飞机票三百块。",
         "pinyin": "Zhège fēijī piào sānbǎi kuài.",
-        "en": "This plane ticket is three hundred yuan."
+        "en": "Bu uçak bileti üç yüz yuan."
       },
       {
         "zh": "这是第一百个。",
         "pinyin": "Zhè shì dì yìbǎi ge.",
-        "en": "This is the hundredth one."
+        "en": "Bu yüzüncüsü."
       }
     ]
   },
@@ -5511,7 +5511,7 @@
     "id": "w154",
     "hanzi": "帮助",
     "pinyin": "bāngzhù",
-    "meaning": "to help",
+    "meaning": "yardım etmek",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -5519,27 +5519,27 @@
       {
         "zh": "我能帮助你吗？",
         "pinyin": "Wǒ néng bāngzhù nǐ ma?",
-        "en": "Can I help you?"
+        "en": "Sana yardım edebilir miyim?"
       },
       {
         "zh": "她帮助我学习汉语。",
         "pinyin": "Tā bāngzhù wǒ xuéxí Hànyǔ.",
-        "en": "She helps me study Chinese."
+        "en": "O Çince çalışmama yardım ediyor."
       },
       {
         "zh": "谢谢你的帮助。",
         "pinyin": "Xièxie nǐ de bāngzhù.",
-        "en": "Thank you for your help."
+        "en": "Yardımın için teşekkürler."
       },
       {
         "zh": "老师帮助学生。",
         "pinyin": "Lǎoshī bāngzhù xuésheng.",
-        "en": "The teacher helps the students."
+        "en": "Öğretmen öğrencilere yardım ediyor."
       },
       {
         "zh": "我想帮助她。",
         "pinyin": "Wǒ xiǎng bāngzhù tā.",
-        "en": "I want to help her."
+        "en": "Ona yardım etmek istiyorum."
       }
     ]
   },
@@ -5547,7 +5547,7 @@
     "id": "w155",
     "hanzi": "报纸",
     "pinyin": "bàozhǐ",
-    "meaning": "newspaper",
+    "meaning": "gazete",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Nesneler",
@@ -5555,27 +5555,27 @@
       {
         "zh": "我在看报纸。",
         "pinyin": "Wǒ zài kàn bàozhǐ.",
-        "en": "I'm reading the newspaper."
+        "en": "Gazete okuyorum."
       },
       {
         "zh": "这是今天的报纸。",
         "pinyin": "Zhè shì jīntiān de bàozhǐ.",
-        "en": "This is today's newspaper."
+        "en": "Bu bugünün gazetesi."
       },
       {
         "zh": "她买了一个报纸。",
         "pinyin": "Tā mǎi le yí ge bàozhǐ.",
-        "en": "She bought a newspaper."
+        "en": "O bir gazete aldı."
       },
       {
         "zh": "报纸在桌子上。",
         "pinyin": "Bàozhǐ zài zhuōzi shàng.",
-        "en": "The newspaper is on the table."
+        "en": "Gazete masanın üstünde."
       },
       {
         "zh": "爸爸每天看报纸。",
         "pinyin": "Bàba měitiān kàn bàozhǐ.",
-        "en": "Dad reads the newspaper every day."
+        "en": "Babam her gün gazete okur."
       }
     ]
   },
@@ -5583,7 +5583,7 @@
     "id": "w156",
     "hanzi": "比",
     "pinyin": "bǐ",
-    "meaning": "compared to",
+    "meaning": "-e kıyasla; -den daha",
     "partOfSpeech": "edat",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -5591,27 +5591,27 @@
       {
         "zh": "她比我高。",
         "pinyin": "Tā bǐ wǒ gāo.",
-        "en": "She is taller than me."
+        "en": "O benden uzun."
       },
       {
         "zh": "这个比那个好。",
         "pinyin": "Zhège bǐ nàge hǎo.",
-        "en": "This one is better than that one."
+        "en": "Bu ondan daha iyi."
       },
       {
         "zh": "今天比昨天冷。",
         "pinyin": "Jīntiān bǐ zuótiān lěng.",
-        "en": "Today is colder than yesterday."
+        "en": "Bugün dünden daha soğuk."
       },
       {
         "zh": "我的书比你的多。",
         "pinyin": "Wǒ de shū bǐ nǐ de duō.",
-        "en": "I have more books than you."
+        "en": "Benim kitabım seninkinden daha fazla."
       },
       {
         "zh": "弟弟比我小三岁。",
         "pinyin": "Dìdi bǐ wǒ xiǎo sān suì.",
-        "en": "My younger brother is three years younger than me."
+        "en": "Küçük kardeşim benden üç yaş küçük."
       }
     ]
   },
@@ -5619,7 +5619,7 @@
     "id": "w157",
     "hanzi": "便宜",
     "pinyin": "piányi",
-    "meaning": "cheap",
+    "meaning": "ucuz",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -5627,27 +5627,27 @@
       {
         "zh": "这个很便宜。",
         "pinyin": "Zhège hěn piányi.",
-        "en": "This is very cheap."
+        "en": "Bu çok ucuz."
       },
       {
         "zh": "这本书不便宜。",
         "pinyin": "Zhè běn shū bù piányi.",
-        "en": "This book isn't cheap."
+        "en": "Bu kitap ucuz değil."
       },
       {
         "zh": "这个商店的东西很便宜。",
         "pinyin": "Zhège shāngdiàn de dōngxi hěn piányi.",
-        "en": "This store's things are cheap."
+        "en": "Bu mağazanın eşyaları ucuz."
       },
       {
         "zh": "你能便宜一点吗？",
         "pinyin": "Nǐ néng piányi yìdiǎn ma?",
-        "en": "Can you make it a bit cheaper?"
+        "en": "Biraz daha ucuza yapabilir misin?"
       },
       {
         "zh": "这些衣服很便宜。",
         "pinyin": "Zhèxiē yīfu hěn piányi.",
-        "en": "These clothes are cheap."
+        "en": "Bu kıyafetler ucuz."
       }
     ]
   },
@@ -5655,7 +5655,7 @@
     "id": "w158",
     "hanzi": "别",
     "pinyin": "bié",
-    "meaning": "don't",
+    "meaning": "yapma; etme",
     "partOfSpeech": "zarf",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -5663,27 +5663,27 @@
       {
         "zh": "别说话。",
         "pinyin": "Bié shuōhuà.",
-        "en": "Don't talk."
+        "en": "Konuşma."
       },
       {
         "zh": "别笑了。",
         "pinyin": "Bié xiào le.",
-        "en": "Stop laughing."
+        "en": "Gülmeyi kes."
       },
       {
         "zh": "你别去了。",
         "pinyin": "Nǐ bié qù le.",
-        "en": "Don't go."
+        "en": "Gitme."
       },
       {
         "zh": "别问了。",
         "pinyin": "Bié wèn le.",
-        "en": "Stop asking."
+        "en": "Sormayı kes."
       },
       {
         "zh": "别这样。",
         "pinyin": "Bié zhèyàng.",
-        "en": "Don't be like this."
+        "en": "Böyle yapma."
       }
     ]
   },
@@ -5691,7 +5691,7 @@
     "id": "w159",
     "hanzi": "唱歌",
     "pinyin": "chànggē",
-    "meaning": "to sing",
+    "meaning": "şarkı söylemek",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -5699,27 +5699,27 @@
       {
         "zh": "我喜欢唱歌。",
         "pinyin": "Wǒ xǐhuan chànggē.",
-        "en": "I like singing."
+        "en": "Şarkı söylemeyi seviyorum."
       },
       {
         "zh": "她唱歌唱得很好。",
         "pinyin": "Tā chànggē chàng de hěn hǎo.",
-        "en": "She sings very well."
+        "en": "O çok güzel şarkı söylüyor."
       },
       {
         "zh": "我们一起唱歌吧。",
         "pinyin": "Wǒmen yìqǐ chànggē ba.",
-        "en": "Let's sing together."
+        "en": "Beraber şarkı söyleyelim."
       },
       {
         "zh": "他不会唱歌。",
         "pinyin": "Tā bú huì chànggē.",
-        "en": "He can't sing."
+        "en": "O şarkı söyleyemiyor."
       },
       {
         "zh": "我们在学校唱歌。",
         "pinyin": "Wǒmen zài xuéxiào chànggē.",
-        "en": "We sing at school."
+        "en": "Okulda şarkı söylüyoruz."
       }
     ]
   },
@@ -5727,7 +5727,7 @@
     "id": "w160",
     "hanzi": "出",
     "pinyin": "chū",
-    "meaning": "to go out; to exit",
+    "meaning": "çıkmak; dışarı çıkmak",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -5735,27 +5735,27 @@
       {
         "zh": "她出去了。",
         "pinyin": "Tā chūqù le.",
-        "en": "She went out."
+        "en": "O dışarı çıktı."
       },
       {
         "zh": "我要出去买东西。",
         "pinyin": "Wǒ yào chūqù mǎi dōngxi.",
-        "en": "I'm going out to buy things."
+        "en": "Bir şeyler almak için dışarı çıkacağım."
       },
       {
         "zh": "你什么时候出来？",
         "pinyin": "Nǐ shénme shíhou chūlái?",
-        "en": "When are you coming out?"
+        "en": "Ne zaman dışarı çıkıyorsun?"
       },
       {
         "zh": "他从家里出来了。",
         "pinyin": "Tā cóng jiā lǐ chūlái le.",
-        "en": "He came out of the house."
+        "en": "O evden çıktı."
       },
       {
         "zh": "请出去。",
         "pinyin": "Qǐng chūqù.",
-        "en": "Please go out."
+        "en": "Lütfen dışarı çık."
       }
     ]
   },
@@ -5763,7 +5763,7 @@
     "id": "w161",
     "hanzi": "穿",
     "pinyin": "chuān",
-    "meaning": "to wear",
+    "meaning": "giymek",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -5771,27 +5771,27 @@
       {
         "zh": "她穿白色的衣服。",
         "pinyin": "Tā chuān báisè de yīfu.",
-        "en": "She wears white clothes."
+        "en": "O beyaz kıyafet giyiyor."
       },
       {
         "zh": "我今天穿新衣服。",
         "pinyin": "Wǒ jīntiān chuān xīn yīfu.",
-        "en": "I'm wearing new clothes today."
+        "en": "Bugün yeni kıyafet giyiyorum."
       },
       {
         "zh": "你穿这个吧。",
         "pinyin": "Nǐ chuān zhège ba.",
-        "en": "Wear this one."
+        "en": "Bunu giy."
       },
       {
         "zh": "他穿的衣服很漂亮。",
         "pinyin": "Tā chuān de yīfu hěn piàoliang.",
-        "en": "The clothes he wears are pretty."
+        "en": "Onun giydiği kıyafetler çok güzel."
       },
       {
         "zh": "今天很冷，多穿衣服。",
         "pinyin": "Jīntiān hěn lěng, duō chuān yīfu.",
-        "en": "It's cold today, wear more clothes."
+        "en": "Bugün hava soğuk, kalın giyin."
       }
     ]
   },
@@ -5799,7 +5799,7 @@
     "id": "w162",
     "hanzi": "船",
     "pinyin": "chuán",
-    "meaning": "boat; ship",
+    "meaning": "tekne; gemi",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Yerler",
@@ -5807,27 +5807,27 @@
       {
         "zh": "我们坐船去。",
         "pinyin": "Wǒmen zuò chuán qù.",
-        "en": "We go by boat."
+        "en": "Tekneyle gidiyoruz."
       },
       {
         "zh": "这是一个大船。",
         "pinyin": "Zhè shì yí ge dà chuán.",
-        "en": "This is a big boat."
+        "en": "Bu büyük bir tekne."
       },
       {
         "zh": "船在水上。",
         "pinyin": "Chuán zài shuǐ shàng.",
-        "en": "The boat is on the water."
+        "en": "Tekne suyun üstünde."
       },
       {
         "zh": "她喜欢坐船。",
         "pinyin": "Tā xǐhuan zuò chuán.",
-        "en": "She likes taking boats."
+        "en": "O tekneye binmeyi sever."
       },
       {
         "zh": "船几点开？",
         "pinyin": "Chuán jǐ diǎn kāi?",
-        "en": "What time does the boat leave?"
+        "en": "Tekne saat kaçta kalkıyor?"
       }
     ]
   },
@@ -5835,7 +5835,7 @@
     "id": "w163",
     "hanzi": "次",
     "pinyin": "cì",
-    "meaning": "measure word for times/occurrences",
+    "meaning": "kez; kere (ölçü sözcüğü)",
     "partOfSpeech": "ölçü sözcüğü",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -5843,27 +5843,27 @@
       {
         "zh": "我去了一次北京。",
         "pinyin": "Wǒ qù le yí cì Běijīng.",
-        "en": "I went to Beijing once."
+        "en": "Pekin'e bir kez gittim."
       },
       {
         "zh": "这是第一次。",
         "pinyin": "Zhè shì dì yī cì.",
-        "en": "This is the first time."
+        "en": "Bu ilk sefer."
       },
       {
         "zh": "她来了两次。",
         "pinyin": "Tā lái le liǎng cì.",
-        "en": "She came twice."
+        "en": "O iki kez geldi."
       },
       {
         "zh": "我每次都很高兴。",
         "pinyin": "Wǒ měi cì dōu hěn gāoxìng.",
-        "en": "I'm happy every time."
+        "en": "Her seferinde çok mutlu oluyorum."
       },
       {
         "zh": "这次我不去。",
         "pinyin": "Zhè cì wǒ bú qù.",
-        "en": "I'm not going this time."
+        "en": "Bu sefer gitmiyorum."
       }
     ]
   },
@@ -5871,7 +5871,7 @@
     "id": "w164",
     "hanzi": "从",
     "pinyin": "cóng",
-    "meaning": "from",
+    "meaning": "-den (kaynak)",
     "partOfSpeech": "edat",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -5879,27 +5879,27 @@
       {
         "zh": "我从北京来。",
         "pinyin": "Wǒ cóng Běijīng lái.",
-        "en": "I come from Beijing."
+        "en": "Pekin'den geliyorum."
       },
       {
         "zh": "她从学校回家。",
         "pinyin": "Tā cóng xuéxiào huí jiā.",
-        "en": "She goes home from school."
+        "en": "O okuldan eve gidiyor."
       },
       {
         "zh": "从这儿到那儿很远。",
         "pinyin": "Cóng zhèr dào nàr hěn yuǎn.",
-        "en": "It's far from here to there."
+        "en": "Buradan oraya uzak."
       },
       {
         "zh": "从明天开始工作。",
         "pinyin": "Cóng míngtiān kāishǐ gōngzuò.",
-        "en": "Starting tomorrow, I'll work."
+        "en": "Yarından itibaren çalışıyorum."
       },
       {
         "zh": "从早上到晚上他都在工作。",
         "pinyin": "Cóng zǎoshang dào wǎnshang tā dōu zài gōngzuò.",
-        "en": "He works from morning until evening."
+        "en": "O sabahtan akşama kadar çalışıyor."
       }
     ]
   },
@@ -5907,7 +5907,7 @@
     "id": "w165",
     "hanzi": "错",
     "pinyin": "cuò",
-    "meaning": "wrong",
+    "meaning": "yanlış",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -5915,27 +5915,27 @@
       {
         "zh": "你错了。",
         "pinyin": "Nǐ cuò le.",
-        "en": "You're wrong."
+        "en": "Yanılıyorsun."
       },
       {
         "zh": "这个字写错了。",
         "pinyin": "Zhège zì xiě cuò le.",
-        "en": "This character is written wrong."
+        "en": "Bu karakter yanlış yazılmış."
       },
       {
         "zh": "不错！",
         "pinyin": "Búcuò!",
-        "en": "Not bad!"
+        "en": "Fena değil!"
       },
       {
         "zh": "我没有错。",
         "pinyin": "Wǒ méiyǒu cuò.",
-        "en": "I'm not wrong."
+        "en": "Yanlışım yok."
       },
       {
         "zh": "这本书不错。",
         "pinyin": "Zhè běn shū búcuò.",
-        "en": "This book is pretty good."
+        "en": "Bu kitap oldukça iyi."
       }
     ]
   },
@@ -5943,7 +5943,7 @@
     "id": "w166",
     "hanzi": "打篮球",
     "pinyin": "dǎ lánqiú",
-    "meaning": "to play basketball",
+    "meaning": "basketbol oynamak",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -5951,27 +5951,27 @@
       {
         "zh": "我喜欢打篮球。",
         "pinyin": "Wǒ xǐhuan dǎ lánqiú.",
-        "en": "I like playing basketball."
+        "en": "Basketbol oynamayı seviyorum."
       },
       {
         "zh": "他在打篮球。",
         "pinyin": "Tā zài dǎ lánqiú.",
-        "en": "He is playing basketball."
+        "en": "O basketbol oynuyor."
       },
       {
         "zh": "我们一起打篮球吧。",
         "pinyin": "Wǒmen yìqǐ dǎ lánqiú ba.",
-        "en": "Let's play basketball together."
+        "en": "Beraber basketbol oynayalım."
       },
       {
         "zh": "她不会打篮球。",
         "pinyin": "Tā bú huì dǎ lánqiú.",
-        "en": "She can't play basketball."
+        "en": "O basketbol oynayamıyor."
       },
       {
         "zh": "我们学校的学生喜欢打篮球。",
         "pinyin": "Wǒmen xuéxiào de xuésheng xǐhuan dǎ lánqiú.",
-        "en": "Our school's students like playing basketball."
+        "en": "Okulumuzun öğrencileri basketbol oynamayı sever."
       }
     ]
   },
@@ -5979,7 +5979,7 @@
     "id": "w167",
     "hanzi": "大家",
     "pinyin": "dàjiā",
-    "meaning": "everyone",
+    "meaning": "herkes",
     "partOfSpeech": "zamir",
     "level": 2,
     "category": "Zamirler",
@@ -5987,27 +5987,27 @@
       {
         "zh": "大家好！",
         "pinyin": "Dàjiā hǎo!",
-        "en": "Hello everyone!"
+        "en": "Herkese merhaba!"
       },
       {
         "zh": "大家都很高兴。",
         "pinyin": "Dàjiā dōu hěn gāoxìng.",
-        "en": "Everyone is very happy."
+        "en": "Herkes çok mutlu."
       },
       {
         "zh": "大家都是学生。",
         "pinyin": "Dàjiā dōu shì xuésheng.",
-        "en": "Everyone is a student."
+        "en": "Herkes öğrenci."
       },
       {
         "zh": "大家请坐。",
         "pinyin": "Dàjiā qǐng zuò.",
-        "en": "Everyone please sit."
+        "en": "Herkes lütfen otursun."
       },
       {
         "zh": "大家都喜欢她。",
         "pinyin": "Dàjiā dōu xǐhuan tā.",
-        "en": "Everyone likes her."
+        "en": "Herkes onu seviyor."
       }
     ]
   },
@@ -6015,7 +6015,7 @@
     "id": "w168",
     "hanzi": "但是",
     "pinyin": "dànshì",
-    "meaning": "but",
+    "meaning": "ama; fakat",
     "partOfSpeech": "bağlaç",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -6023,27 +6023,27 @@
       {
         "zh": "我想去，但是我很忙。",
         "pinyin": "Wǒ xiǎng qù, dànshì wǒ hěn máng.",
-        "en": "I want to go, but I'm busy."
+        "en": "Gitmek istiyorum ama çok meşgulüm."
       },
       {
         "zh": "她很漂亮，但是不高。",
         "pinyin": "Tā hěn piàoliang, dànshì bù gāo.",
-        "en": "She's pretty, but not tall."
+        "en": "O güzel ama uzun boylu değil."
       },
       {
         "zh": "这个便宜，但是不好吃。",
         "pinyin": "Zhège piányi, dànshì bù hǎochī.",
-        "en": "This is cheap, but not tasty."
+        "en": "Bu ucuz ama lezzetli değil."
       },
       {
         "zh": "我喜欢他，但是他不认识我。",
         "pinyin": "Wǒ xǐhuan tā, dànshì tā bú rènshi wǒ.",
-        "en": "I like him, but he doesn't know me."
+        "en": "Onu seviyorum ama o beni tanımıyor."
       },
       {
         "zh": "今天很冷，但是天气很好。",
         "pinyin": "Jīntiān hěn lěng, dànshì tiānqì hěn hǎo.",
-        "en": "It's cold today, but the weather is nice."
+        "en": "Bugün soğuk ama hava güzel."
       }
     ]
   },
@@ -6051,7 +6051,7 @@
     "id": "w169",
     "hanzi": "到",
     "pinyin": "dào",
-    "meaning": "to arrive",
+    "meaning": "varmak; ulaşmak",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -6059,27 +6059,27 @@
       {
         "zh": "我到家了。",
         "pinyin": "Wǒ dào jiā le.",
-        "en": "I've arrived home."
+        "en": "Eve vardım."
       },
       {
         "zh": "她几点到？",
         "pinyin": "Tā jǐ diǎn dào?",
-        "en": "What time does she arrive?"
+        "en": "O saat kaçta varıyor?"
       },
       {
         "zh": "火车到了。",
         "pinyin": "Huǒchē dào le.",
-        "en": "The train has arrived."
+        "en": "Tren geldi."
       },
       {
         "zh": "从这儿到学校很近。",
         "pinyin": "Cóng zhèr dào xuéxiào hěn jìn.",
-        "en": "It's close from here to school."
+        "en": "Buradan okula yakın."
       },
       {
         "zh": "我们到北京了。",
         "pinyin": "Wǒmen dào Běijīng le.",
-        "en": "We've arrived in Beijing."
+        "en": "Pekin'e vardık."
       }
     ]
   },
@@ -6087,7 +6087,7 @@
     "id": "w170",
     "hanzi": "得",
     "pinyin": "de",
-    "meaning": "structural particle (verb complement)",
+    "meaning": "yapısal parçacık (fiil tamamlayıcısı)",
     "partOfSpeech": "parçacık",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -6095,27 +6095,27 @@
       {
         "zh": "她说得很好。",
         "pinyin": "Tā shuō de hěn hǎo.",
-        "en": "She speaks very well."
+        "en": "O çok güzel konuşuyor."
       },
       {
         "zh": "他写字写得很快。",
         "pinyin": "Tā xiě zì xiě de hěn kuài.",
-        "en": "He writes characters very fast."
+        "en": "O çok hızlı yazı yazıyor."
       },
       {
         "zh": "你唱歌唱得真好。",
         "pinyin": "Nǐ chànggē chàng de zhēn hǎo.",
-        "en": "You sing really well."
+        "en": "Gerçekten güzel şarkı söylüyorsun."
       },
       {
         "zh": "她跑步跑得很慢。",
         "pinyin": "Tā pǎobù pǎo de hěn màn.",
-        "en": "She runs very slowly."
+        "en": "O çok yavaş koşuyor."
       },
       {
         "zh": "他做得不错。",
         "pinyin": "Tā zuò de búcuò.",
-        "en": "He did it pretty well."
+        "en": "O oldukça iyi yaptı."
       }
     ]
   },
@@ -6123,7 +6123,7 @@
     "id": "w171",
     "hanzi": "弟弟",
     "pinyin": "dìdi",
-    "meaning": "younger brother",
+    "meaning": "küçük erkek kardeş",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Aile ve İnsanlar",
@@ -6131,27 +6131,27 @@
       {
         "zh": "这是我弟弟。",
         "pinyin": "Zhè shì wǒ dìdi.",
-        "en": "This is my younger brother."
+        "en": "Bu benim küçük kardeşim."
       },
       {
         "zh": "我弟弟是学生。",
         "pinyin": "Wǒ dìdi shì xuésheng.",
-        "en": "My younger brother is a student."
+        "en": "Küçük kardeşim öğrenci."
       },
       {
         "zh": "弟弟比我小。",
         "pinyin": "Dìdi bǐ wǒ xiǎo.",
-        "en": "My younger brother is younger than me."
+        "en": "Küçük kardeşim benden küçük."
       },
       {
         "zh": "我弟弟喜欢打篮球。",
         "pinyin": "Wǒ dìdi xǐhuan dǎ lánqiú.",
-        "en": "My younger brother likes playing basketball."
+        "en": "Küçük kardeşim basketbol oynamayı sever."
       },
       {
         "zh": "弟弟在家吗？",
         "pinyin": "Dìdi zài jiā ma?",
-        "en": "Is your younger brother home?"
+        "en": "Küçük kardeşin evde mi?"
       }
     ]
   },
@@ -6159,7 +6159,7 @@
     "id": "w172",
     "hanzi": "第一",
     "pinyin": "dì yī",
-    "meaning": "first",
+    "meaning": "birinci",
     "partOfSpeech": "sayı",
     "level": 2,
     "category": "Sayılar",
@@ -6167,27 +6167,27 @@
       {
         "zh": "这是第一次。",
         "pinyin": "Zhè shì dì yī cì.",
-        "en": "This is the first time."
+        "en": "Bu ilk sefer."
       },
       {
         "zh": "她是第一个学生。",
         "pinyin": "Tā shì dì yī ge xuésheng.",
-        "en": "She is the first student."
+        "en": "O ilk öğrenci."
       },
       {
         "zh": "这是我第一次来北京。",
         "pinyin": "Zhè shì wǒ dì yī cì lái Běijīng.",
-        "en": "This is my first time coming to Beijing."
+        "en": "Bu Pekin'e ilk gelişim."
       },
       {
         "zh": "他是第一。",
         "pinyin": "Tā shì dì yī.",
-        "en": "He is number one."
+        "en": "O birinci."
       },
       {
         "zh": "这是第一本书。",
         "pinyin": "Zhè shì dì yī běn shū.",
-        "en": "This is the first book."
+        "en": "Bu ilk kitap."
       }
     ]
   },
@@ -6195,7 +6195,7 @@
     "id": "w173",
     "hanzi": "懂",
     "pinyin": "dǒng",
-    "meaning": "to understand",
+    "meaning": "anlamak",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -6203,27 +6203,27 @@
       {
         "zh": "我懂了。",
         "pinyin": "Wǒ dǒng le.",
-        "en": "I understand."
+        "en": "Anladım."
       },
       {
         "zh": "你懂不懂？",
         "pinyin": "Nǐ dǒng bu dǒng?",
-        "en": "Do you understand or not?"
+        "en": "Anlıyor musun anlamıyor musun?"
       },
       {
         "zh": "她不懂汉语。",
         "pinyin": "Tā bù dǒng Hànyǔ.",
-        "en": "She doesn't understand Chinese."
+        "en": "O Çince anlamıyor."
       },
       {
         "zh": "我看不懂这本书。",
         "pinyin": "Wǒ kàn bu dǒng zhè běn shū.",
-        "en": "I can't understand this book."
+        "en": "Bu kitabı anlayamıyorum."
       },
       {
         "zh": "他懂得很多。",
         "pinyin": "Tā dǒng de hěn duō.",
-        "en": "He understands a lot."
+        "en": "O çok şey anlıyor."
       }
     ]
   },
@@ -6231,7 +6231,7 @@
     "id": "w174",
     "hanzi": "房间",
     "pinyin": "fángjiān",
-    "meaning": "room",
+    "meaning": "oda",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Nesneler",
@@ -6239,27 +6239,27 @@
       {
         "zh": "这是我的房间。",
         "pinyin": "Zhè shì wǒ de fángjiān.",
-        "en": "This is my room."
+        "en": "Bu benim odam."
       },
       {
         "zh": "房间里有一张桌子。",
         "pinyin": "Fángjiān lǐ yǒu yì zhāng zhuōzi.",
-        "en": "There's a table in the room."
+        "en": "Odada bir masa var."
       },
       {
         "zh": "她的房间很大。",
         "pinyin": "Tā de fángjiān hěn dà.",
-        "en": "Her room is big."
+        "en": "Onun odası büyük."
       },
       {
         "zh": "这个房间很漂亮。",
         "pinyin": "Zhège fángjiān hěn piàoliang.",
-        "en": "This room is pretty."
+        "en": "Bu oda çok güzel."
       },
       {
         "zh": "房间里没有人。",
         "pinyin": "Fángjiān lǐ méiyǒu rén.",
-        "en": "There's no one in the room."
+        "en": "Odada kimse yok."
       }
     ]
   },
@@ -6267,7 +6267,7 @@
     "id": "w175",
     "hanzi": "非常",
     "pinyin": "fēicháng",
-    "meaning": "very; extremely",
+    "meaning": "çok; son derece",
     "partOfSpeech": "zarf",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -6275,27 +6275,27 @@
       {
         "zh": "我非常高兴。",
         "pinyin": "Wǒ fēicháng gāoxìng.",
-        "en": "I'm extremely happy."
+        "en": "Son derece mutluyum."
       },
       {
         "zh": "这个非常好吃。",
         "pinyin": "Zhège fēicháng hǎochī.",
-        "en": "This is extremely delicious."
+        "en": "Bu son derece lezzetli."
       },
       {
         "zh": "她非常漂亮。",
         "pinyin": "Tā fēicháng piàoliang.",
-        "en": "She is extremely pretty."
+        "en": "O son derece güzel."
       },
       {
         "zh": "今天非常热。",
         "pinyin": "Jīntiān fēicháng rè.",
-        "en": "Today is extremely hot."
+        "en": "Bugün son derece sıcak."
       },
       {
         "zh": "我非常喜欢这本书。",
         "pinyin": "Wǒ fēicháng xǐhuan zhè běn shū.",
-        "en": "I like this book very much."
+        "en": "Bu kitabı çok seviyorum."
       }
     ]
   },
@@ -6303,7 +6303,7 @@
     "id": "w176",
     "hanzi": "服务员",
     "pinyin": "fúwùyuán",
-    "meaning": "waiter; attendant",
+    "meaning": "garson",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Aile ve İnsanlar",
@@ -6311,27 +6311,27 @@
       {
         "zh": "服务员，请给我一杯茶。",
         "pinyin": "Fúwùyuán, qǐng gěi wǒ yì bēi chá.",
-        "en": "Waiter, please give me a cup of tea."
+        "en": "Garson, bana bir çay verir misin."
       },
       {
         "zh": "她是服务员。",
         "pinyin": "Tā shì fúwùyuán.",
-        "en": "She is a waitress."
+        "en": "O garson."
       },
       {
         "zh": "这个饭馆的服务员很好。",
         "pinyin": "Zhège fànguǎn de fúwùyuán hěn hǎo.",
-        "en": "This restaurant's staff are nice."
+        "en": "Bu restoranın garsonları çok iyi."
       },
       {
         "zh": "服务员在哪儿？",
         "pinyin": "Fúwùyuán zài nǎr?",
-        "en": "Where is the waiter?"
+        "en": "Garson nerede?"
       },
       {
         "zh": "他是这个商店的服务员。",
         "pinyin": "Tā shì zhège shāngdiàn de fúwùyuán.",
-        "en": "He is this store's attendant."
+        "en": "O bu mağazanın görevlisi."
       }
     ]
   },
@@ -6339,7 +6339,7 @@
     "id": "w177",
     "hanzi": "高",
     "pinyin": "gāo",
-    "meaning": "tall; high",
+    "meaning": "uzun boylu; yüksek",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -6347,27 +6347,27 @@
       {
         "zh": "他很高。",
         "pinyin": "Tā hěn gāo.",
-        "en": "He is tall."
+        "en": "O uzun boylu."
       },
       {
         "zh": "这个房间很高。",
         "pinyin": "Zhège fángjiān hěn gāo.",
-        "en": "This room is tall."
+        "en": "Bu oda çok yüksek."
       },
       {
         "zh": "她比我高。",
         "pinyin": "Tā bǐ wǒ gāo.",
-        "en": "She is taller than me."
+        "en": "O benden uzun."
       },
       {
         "zh": "这个桌子不高。",
         "pinyin": "Zhège zhuōzi bù gāo.",
-        "en": "This table isn't tall."
+        "en": "Bu masa yüksek değil."
       },
       {
         "zh": "我弟弟很高。",
         "pinyin": "Wǒ dìdi hěn gāo.",
-        "en": "My younger brother is tall."
+        "en": "Küçük kardeşim uzun boylu."
       }
     ]
   },
@@ -6375,7 +6375,7 @@
     "id": "w178",
     "hanzi": "告诉",
     "pinyin": "gàosu",
-    "meaning": "to tell",
+    "meaning": "söylemek; bildirmek",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -6383,27 +6383,27 @@
       {
         "zh": "我告诉你一件事。",
         "pinyin": "Wǒ gàosu nǐ yí jiàn shì.",
-        "en": "I'll tell you something."
+        "en": "Sana bir şey söyleyeceğim."
       },
       {
         "zh": "她告诉我她的名字。",
         "pinyin": "Tā gàosu wǒ tā de míngzi.",
-        "en": "She told me her name."
+        "en": "O bana adını söyledi."
       },
       {
         "zh": "请告诉我。",
         "pinyin": "Qǐng gàosu wǒ.",
-        "en": "Please tell me."
+        "en": "Lütfen bana söyle."
       },
       {
         "zh": "我没告诉他。",
         "pinyin": "Wǒ méi gàosu tā.",
-        "en": "I didn't tell him."
+        "en": "Ona söylemedim."
       },
       {
         "zh": "老师告诉我们明天考试。",
         "pinyin": "Lǎoshī gàosu wǒmen míngtiān kǎoshì.",
-        "en": "The teacher told us there's an exam tomorrow."
+        "en": "Öğretmen bize yarın sınav olduğunu söyledi."
       }
     ]
   },
@@ -6411,7 +6411,7 @@
     "id": "w179",
     "hanzi": "哥哥",
     "pinyin": "gēge",
-    "meaning": "older brother",
+    "meaning": "büyük erkek kardeş",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Aile ve İnsanlar",
@@ -6419,27 +6419,27 @@
       {
         "zh": "这是我哥哥。",
         "pinyin": "Zhè shì wǒ gēge.",
-        "en": "This is my older brother."
+        "en": "Bu benim ağabeyim."
       },
       {
         "zh": "我哥哥是医生。",
         "pinyin": "Wǒ gēge shì yīshēng.",
-        "en": "My older brother is a doctor."
+        "en": "Ağabeyim doktor."
       },
       {
         "zh": "哥哥比我高。",
         "pinyin": "Gēge bǐ wǒ gāo.",
-        "en": "My older brother is taller than me."
+        "en": "Ağabeyim benden uzun."
       },
       {
         "zh": "我哥哥喜欢唱歌。",
         "pinyin": "Wǒ gēge xǐhuan chànggē.",
-        "en": "My older brother likes singing."
+        "en": "Ağabeyim şarkı söylemeyi sever."
       },
       {
         "zh": "哥哥在公司工作。",
         "pinyin": "Gēge zài gōngsī gōngzuò.",
-        "en": "My older brother works at a company."
+        "en": "Ağabeyim bir şirkette çalışıyor."
       }
     ]
   },
@@ -6447,7 +6447,7 @@
     "id": "w180",
     "hanzi": "给",
     "pinyin": "gěi",
-    "meaning": "to give; for",
+    "meaning": "vermek; için",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -6455,27 +6455,27 @@
       {
         "zh": "我给你一本书。",
         "pinyin": "Wǒ gěi nǐ yì běn shū.",
-        "en": "I'll give you a book."
+        "en": "Sana bir kitap vereceğim."
       },
       {
         "zh": "她给我打电话。",
         "pinyin": "Tā gěi wǒ dǎ diànhuà.",
-        "en": "She calls me."
+        "en": "O beni arıyor."
       },
       {
         "zh": "请给我一杯水。",
         "pinyin": "Qǐng gěi wǒ yì bēi shuǐ.",
-        "en": "Please give me a glass of water."
+        "en": "Lütfen bana bir bardak su ver."
       },
       {
         "zh": "我给妈妈买了衣服。",
         "pinyin": "Wǒ gěi māma mǎi le yīfu.",
-        "en": "I bought clothes for mom."
+        "en": "Anneme kıyafet aldım."
       },
       {
         "zh": "他给我们介绍了这本书。",
         "pinyin": "Tā gěi wǒmen jièshào le zhè běn shū.",
-        "en": "He introduced this book to us."
+        "en": "O bize bu kitabı tanıttı."
       }
     ]
   },
@@ -6483,7 +6483,7 @@
     "id": "w181",
     "hanzi": "公共汽车",
     "pinyin": "gōnggòngqìchē",
-    "meaning": "bus",
+    "meaning": "otobüs",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Yerler",
@@ -6491,27 +6491,27 @@
       {
         "zh": "我坐公共汽车去学校。",
         "pinyin": "Wǒ zuò gōnggòngqìchē qù xuéxiào.",
-        "en": "I take the bus to school."
+        "en": "Okula otobüsle gidiyorum."
       },
       {
         "zh": "公共汽车来了。",
         "pinyin": "Gōnggòngqìchē lái le.",
-        "en": "The bus has arrived."
+        "en": "Otobüs geldi."
       },
       {
         "zh": "公共汽车站在哪儿？",
         "pinyin": "Gōnggòngqìchē zhàn zài nǎr?",
-        "en": "Where is the bus stop?"
+        "en": "Otobüs durağı nerede?"
       },
       {
         "zh": "这个公共汽车去火车站吗？",
         "pinyin": "Zhège gōnggòngqìchē qù huǒchēzhàn ma?",
-        "en": "Does this bus go to the train station?"
+        "en": "Bu otobüs tren istasyonuna gidiyor mu?"
       },
       {
         "zh": "她不喜欢坐公共汽车。",
         "pinyin": "Tā bù xǐhuan zuò gōnggòngqìchē.",
-        "en": "She doesn't like taking the bus."
+        "en": "O otobüse binmeyi sevmiyor."
       }
     ]
   },
@@ -6527,27 +6527,27 @@
       {
         "zh": "这个苹果一公斤。",
         "pinyin": "Zhège píngguǒ yì gōngjīn.",
-        "en": "This apple is one kilogram."
+        "en": "Bu elma bir kilo."
       },
       {
         "zh": "我要两公斤水果。",
         "pinyin": "Wǒ yào liǎng gōngjīn shuǐguǒ.",
-        "en": "I want two kilograms of fruit."
+        "en": "İki kilo meyve istiyorum."
       },
       {
         "zh": "这个鱼三公斤。",
         "pinyin": "Zhège yú sān gōngjīn.",
-        "en": "This fish is three kilograms."
+        "en": "Bu balık üç kilo."
       },
       {
         "zh": "她买了五公斤米饭。",
         "pinyin": "Tā mǎi le wǔ gōngjīn mǐfàn.",
-        "en": "She bought five kilograms of rice."
+        "en": "O beş kilo pilav aldı."
       },
       {
         "zh": "这个西瓜有几公斤？",
         "pinyin": "Zhège xīguā yǒu jǐ gōngjīn?",
-        "en": "How many kilograms is this watermelon?"
+        "en": "Bu karpuz kaç kilo?"
       }
     ]
   },
@@ -6555,7 +6555,7 @@
     "id": "w183",
     "hanzi": "公司",
     "pinyin": "gōngsī",
-    "meaning": "company",
+    "meaning": "şirket",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Yerler",
@@ -6563,27 +6563,27 @@
       {
         "zh": "我在公司工作。",
         "pinyin": "Wǒ zài gōngsī gōngzuò.",
-        "en": "I work at a company."
+        "en": "Şirkette çalışıyorum."
       },
       {
         "zh": "她的公司很大。",
         "pinyin": "Tā de gōngsī hěn dà.",
-        "en": "Her company is big."
+        "en": "Onun şirketi büyük."
       },
       {
         "zh": "这个公司在北京。",
         "pinyin": "Zhège gōngsī zài Běijīng.",
-        "en": "This company is in Beijing."
+        "en": "Bu şirket Pekin'de."
       },
       {
         "zh": "我爸爸的公司很好。",
         "pinyin": "Wǒ bàba de gōngsī hěn hǎo.",
-        "en": "My dad's company is good."
+        "en": "Babamın şirketi çok iyi."
       },
       {
         "zh": "她去公司上班。",
         "pinyin": "Tā qù gōngsī shàngbān.",
-        "en": "She goes to the company for work."
+        "en": "O işe gidiyor."
       }
     ]
   },
@@ -6591,7 +6591,7 @@
     "id": "w184",
     "hanzi": "贵",
     "pinyin": "guì",
-    "meaning": "expensive",
+    "meaning": "pahalı",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -6599,27 +6599,27 @@
       {
         "zh": "这个太贵了。",
         "pinyin": "Zhège tài guì le.",
-        "en": "This is too expensive."
+        "en": "Bu çok pahalı."
       },
       {
         "zh": "这本书不贵。",
         "pinyin": "Zhè běn shū bú guì.",
-        "en": "This book isn't expensive."
+        "en": "Bu kitap pahalı değil."
       },
       {
         "zh": "这个饭馆很贵。",
         "pinyin": "Zhège fànguǎn hěn guì.",
-        "en": "This restaurant is expensive."
+        "en": "Bu restoran pahalı."
       },
       {
         "zh": "她的衣服很贵。",
         "pinyin": "Tā de yīfu hěn guì.",
-        "en": "Her clothes are expensive."
+        "en": "Onun kıyafetleri pahalı."
       },
       {
         "zh": "这个手机多少钱？很贵吗？",
         "pinyin": "Zhège shǒujī duōshao qián? Hěn guì ma?",
-        "en": "How much is this phone? Is it expensive?"
+        "en": "Bu telefon ne kadar? Pahalı mı?"
       }
     ]
   },
@@ -6627,7 +6627,7 @@
     "id": "w185",
     "hanzi": "还",
     "pinyin": "hái",
-    "meaning": "still; also",
+    "meaning": "hâlâ; henüz; ayrıca",
     "partOfSpeech": "zarf",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -6635,27 +6635,27 @@
       {
         "zh": "我还没吃饭。",
         "pinyin": "Wǒ hái méi chī fàn.",
-        "en": "I haven't eaten yet."
+        "en": "Henüz yemek yemedim."
       },
       {
         "zh": "她还在学校。",
         "pinyin": "Tā hái zài xuéxiào.",
-        "en": "She is still at school."
+        "en": "O hâlâ okulda."
       },
       {
         "zh": "我还想喝茶。",
         "pinyin": "Wǒ hái xiǎng hē chá.",
-        "en": "I still want to drink tea."
+        "en": "Hâlâ çay içmek istiyorum."
       },
       {
         "zh": "他还没来。",
         "pinyin": "Tā hái méi lái.",
-        "en": "He hasn't come yet."
+        "en": "O henüz gelmedi."
       },
       {
         "zh": "这个还不错。",
         "pinyin": "Zhège hái búcuò.",
-        "en": "This is still pretty good."
+        "en": "Bu hâlâ oldukça iyi."
       }
     ]
   },
@@ -6663,7 +6663,7 @@
     "id": "w186",
     "hanzi": "孩子",
     "pinyin": "háizi",
-    "meaning": "child",
+    "meaning": "çocuk",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Aile ve İnsanlar",
@@ -6671,27 +6671,27 @@
       {
         "zh": "这是我的孩子。",
         "pinyin": "Zhè shì wǒ de háizi.",
-        "en": "This is my child."
+        "en": "Bu benim çocuğum."
       },
       {
         "zh": "她有两个孩子。",
         "pinyin": "Tā yǒu liǎng ge háizi.",
-        "en": "She has two children."
+        "en": "Onun iki çocuğu var."
       },
       {
         "zh": "这个孩子很漂亮。",
         "pinyin": "Zhège háizi hěn piàoliang.",
-        "en": "This child is pretty."
+        "en": "Bu çocuk çok güzel."
       },
       {
         "zh": "孩子在学校。",
         "pinyin": "Háizi zài xuéxiào.",
-        "en": "The child is at school."
+        "en": "Çocuk okulda."
       },
       {
         "zh": "我们的孩子喜欢唱歌。",
         "pinyin": "Wǒmen de háizi xǐhuan chànggē.",
-        "en": "Our child likes singing."
+        "en": "Çocuğumuz şarkı söylemeyi seviyor."
       }
     ]
   },
@@ -6699,7 +6699,7 @@
     "id": "w187",
     "hanzi": "好吃",
     "pinyin": "hǎochī",
-    "meaning": "delicious",
+    "meaning": "lezzetli",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Yiyecek ve İçecek",
@@ -6707,27 +6707,27 @@
       {
         "zh": "这个菜很好吃。",
         "pinyin": "Zhège cài hěn hǎochī.",
-        "en": "This dish is delicious."
+        "en": "Bu yemek çok lezzetli."
       },
       {
         "zh": "这个苹果好吃吗？",
         "pinyin": "Zhège píngguǒ hǎochī ma?",
-        "en": "Is this apple delicious?"
+        "en": "Bu elma lezzetli mi?"
       },
       {
         "zh": "妈妈做的菜很好吃。",
         "pinyin": "Māma zuò de cài hěn hǎochī.",
-        "en": "Mom's cooking is delicious."
+        "en": "Annemin yaptığı yemek çok lezzetli."
       },
       {
         "zh": "这个饭馆的菜很好吃。",
         "pinyin": "Zhège fànguǎn de cài hěn hǎochī.",
-        "en": "This restaurant's food is delicious."
+        "en": "Bu restoranın yemekleri çok lezzetli."
       },
       {
         "zh": "这个鱼不好吃。",
         "pinyin": "Zhège yú bù hǎochī.",
-        "en": "This fish isn't delicious."
+        "en": "Bu balık lezzetli değil."
       }
     ]
   },
@@ -6735,7 +6735,7 @@
     "id": "w188",
     "hanzi": "号",
     "pinyin": "hào",
-    "meaning": "number; day of the month",
+    "meaning": "numara; ayın günü",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Zaman",
@@ -6743,27 +6743,27 @@
       {
         "zh": "今天几号？",
         "pinyin": "Jīntiān jǐ hào?",
-        "en": "What is today's date?"
+        "en": "Bugün ayın kaçı?"
       },
       {
         "zh": "今天是八月一号。",
         "pinyin": "Jīntiān shì bā yuè yī hào.",
-        "en": "Today is August first."
+        "en": "Bugün Ağustos'un biri."
       },
       {
         "zh": "我住在五号房间。",
         "pinyin": "Wǒ zhù zài wǔ hào fángjiān.",
-        "en": "I live in room number five."
+        "en": "Beş numaralı odada oturuyorum."
       },
       {
         "zh": "她的手机号是多少？",
         "pinyin": "Tā de shǒujī hào shì duōshao?",
-        "en": "What is her phone number?"
+        "en": "Onun telefon numarası ne?"
       },
       {
         "zh": "这是几号车？",
         "pinyin": "Zhè shì jǐ hào chē?",
-        "en": "What number is this bus?"
+        "en": "Bu kaç numaralı araç?"
       }
     ]
   },
@@ -6771,7 +6771,7 @@
     "id": "w189",
     "hanzi": "黑",
     "pinyin": "hēi",
-    "meaning": "black",
+    "meaning": "siyah",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -6779,27 +6779,27 @@
       {
         "zh": "这是黑色的。",
         "pinyin": "Zhè shì hēisè de.",
-        "en": "This is black."
+        "en": "Bu siyah renkli."
       },
       {
         "zh": "她穿黑色的衣服。",
         "pinyin": "Tā chuān hēisè de yīfu.",
-        "en": "She wears black clothes."
+        "en": "O siyah kıyafet giyiyor."
       },
       {
         "zh": "我的猫是黑的。",
         "pinyin": "Wǒ de māo shì hēi de.",
-        "en": "My cat is black."
+        "en": "Kedim siyah."
       },
       {
         "zh": "这个杯子是黑色的。",
         "pinyin": "Zhège bēizi shì hēisè de.",
-        "en": "This cup is black."
+        "en": "Bu bardak siyah renkli."
       },
       {
         "zh": "他的狗是黑白的。",
         "pinyin": "Tā de gǒu shì hēi bái de.",
-        "en": "His dog is black and white."
+        "en": "Onun köpeği siyah beyaz."
       }
     ]
   },
@@ -6807,7 +6807,7 @@
     "id": "w190",
     "hanzi": "红",
     "pinyin": "hóng",
-    "meaning": "red",
+    "meaning": "kırmızı",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -6815,27 +6815,27 @@
       {
         "zh": "这是红色的。",
         "pinyin": "Zhè shì hóngsè de.",
-        "en": "This is red."
+        "en": "Bu kırmızı renkli."
       },
       {
         "zh": "她喜欢红色。",
         "pinyin": "Tā xǐhuan hóngsè.",
-        "en": "She likes the color red."
+        "en": "O kırmızı rengi sever."
       },
       {
         "zh": "这件衣服是红的。",
         "pinyin": "Zhè jiàn yīfu shì hóng de.",
-        "en": "This piece of clothing is red."
+        "en": "Bu kıyafet kırmızı."
       },
       {
         "zh": "这个苹果是红色的。",
         "pinyin": "Zhège píngguǒ shì hóngsè de.",
-        "en": "This apple is red."
+        "en": "Bu elma kırmızı renkli."
       },
       {
         "zh": "我不喜欢红色的杯子。",
         "pinyin": "Wǒ bù xǐhuan hóngsè de bēizi.",
-        "en": "I don't like red cups."
+        "en": "Kırmızı bardakları sevmiyorum."
       }
     ]
   },
@@ -6843,7 +6843,7 @@
     "id": "w191",
     "hanzi": "欢迎",
     "pinyin": "huānyíng",
-    "meaning": "welcome",
+    "meaning": "hoş geldin",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Temel Kelimeler",
@@ -6851,27 +6851,27 @@
       {
         "zh": "欢迎你来我家。",
         "pinyin": "Huānyíng nǐ lái wǒ jiā.",
-        "en": "Welcome to my home."
+        "en": "Evime hoş geldin."
       },
       {
         "zh": "欢迎来北京。",
         "pinyin": "Huānyíng lái Běijīng.",
-        "en": "Welcome to Beijing."
+        "en": "Pekin'e hoş geldiniz."
       },
       {
         "zh": "欢迎大家。",
         "pinyin": "Huānyíng dàjiā.",
-        "en": "Welcome everyone."
+        "en": "Herkese hoş geldiniz."
       },
       {
         "zh": "我们欢迎你。",
         "pinyin": "Wǒmen huānyíng nǐ.",
-        "en": "We welcome you."
+        "en": "Sizi karşılamaktan mutluluk duyarız."
       },
       {
         "zh": "欢迎来我们公司。",
         "pinyin": "Huānyíng lái wǒmen gōngsī.",
-        "en": "Welcome to our company."
+        "en": "Şirketimize hoş geldiniz."
       }
     ]
   },
@@ -6879,7 +6879,7 @@
     "id": "w192",
     "hanzi": "回答",
     "pinyin": "huídá",
-    "meaning": "to answer",
+    "meaning": "cevaplamak",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -6887,27 +6887,27 @@
       {
         "zh": "请回答我的问题。",
         "pinyin": "Qǐng huídá wǒ de wèntí.",
-        "en": "Please answer my question."
+        "en": "Lütfen sorumu cevapla."
       },
       {
         "zh": "她回答得很好。",
         "pinyin": "Tā huídá de hěn hǎo.",
-        "en": "She answered very well."
+        "en": "O çok iyi cevapladı."
       },
       {
         "zh": "我不知道怎么回答。",
         "pinyin": "Wǒ bù zhīdào zěnme huídá.",
-        "en": "I don't know how to answer."
+        "en": "Nasıl cevaplayacağımı bilmiyorum."
       },
       {
         "zh": "学生回答老师的问题。",
         "pinyin": "Xuésheng huídá lǎoshī de wèntí.",
-        "en": "The student answers the teacher's question."
+        "en": "Öğrenci öğretmenin sorusunu cevaplıyor."
       },
       {
         "zh": "他没有回答。",
         "pinyin": "Tā méiyǒu huídá.",
-        "en": "He didn't answer."
+        "en": "O cevap vermedi."
       }
     ]
   },
@@ -6915,7 +6915,7 @@
     "id": "w193",
     "hanzi": "机场",
     "pinyin": "jīchǎng",
-    "meaning": "airport",
+    "meaning": "havaalanı",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Yerler",
@@ -6923,27 +6923,27 @@
       {
         "zh": "我们去机场。",
         "pinyin": "Wǒmen qù jīchǎng.",
-        "en": "We're going to the airport."
+        "en": "Havaalanına gidiyoruz."
       },
       {
         "zh": "机场在哪儿？",
         "pinyin": "Jīchǎng zài nǎr?",
-        "en": "Where is the airport?"
+        "en": "Havaalanı nerede?"
       },
       {
         "zh": "我坐出租车去机场。",
         "pinyin": "Wǒ zuò chūzūchē qù jīchǎng.",
-        "en": "I take a taxi to the airport."
+        "en": "Havaalanına taksiyle gidiyorum."
       },
       {
         "zh": "机场很大。",
         "pinyin": "Jīchǎng hěn dà.",
-        "en": "The airport is big."
+        "en": "Havaalanı çok büyük."
       },
       {
         "zh": "她在机场工作。",
         "pinyin": "Tā zài jīchǎng gōngzuò.",
-        "en": "She works at the airport."
+        "en": "O havaalanında çalışıyor."
       }
     ]
   },
@@ -6951,7 +6951,7 @@
     "id": "w194",
     "hanzi": "鸡蛋",
     "pinyin": "jīdàn",
-    "meaning": "egg",
+    "meaning": "yumurta",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Yiyecek ve İçecek",
@@ -6959,27 +6959,27 @@
       {
         "zh": "我喜欢吃鸡蛋。",
         "pinyin": "Wǒ xǐhuan chī jīdàn.",
-        "en": "I like eating eggs."
+        "en": "Yumurta yemeyi seviyorum."
       },
       {
         "zh": "她买了十个鸡蛋。",
         "pinyin": "Tā mǎi le shí ge jīdàn.",
-        "en": "She bought ten eggs."
+        "en": "O on yumurta aldı."
       },
       {
         "zh": "这个鸡蛋多少钱？",
         "pinyin": "Zhège jīdàn duōshao qián?",
-        "en": "How much are these eggs?"
+        "en": "Bu yumurtalar ne kadar?"
       },
       {
         "zh": "妈妈做了鸡蛋。",
         "pinyin": "Māma zuò le jīdàn.",
-        "en": "Mom made eggs."
+        "en": "Annem yumurta yaptı."
       },
       {
         "zh": "我早上吃鸡蛋。",
         "pinyin": "Wǒ zǎoshang chī jīdàn.",
-        "en": "I eat eggs in the morning."
+        "en": "Sabahları yumurta yerim."
       }
     ]
   },
@@ -6987,7 +6987,7 @@
     "id": "w195",
     "hanzi": "件",
     "pinyin": "jiàn",
-    "meaning": "measure word for clothes/matters",
+    "meaning": "kıyafet/konular için ölçü sözcüğü",
     "partOfSpeech": "ölçü sözcüğü",
     "level": 2,
     "category": "Dilbilgisi Kelimeleri",
@@ -6995,27 +6995,27 @@
       {
         "zh": "这件衣服很漂亮。",
         "pinyin": "Zhè jiàn yīfu hěn piàoliang.",
-        "en": "This piece of clothing is pretty."
+        "en": "Bu kıyafet çok güzel."
       },
       {
         "zh": "我有一件事告诉你。",
         "pinyin": "Wǒ yǒu yí jiàn shì gàosu nǐ.",
-        "en": "I have something to tell you."
+        "en": "Sana söyleyecek bir şeyim var."
       },
       {
         "zh": "她买了三件衣服。",
         "pinyin": "Tā mǎi le sān jiàn yīfu.",
-        "en": "She bought three pieces of clothing."
+        "en": "O üç kıyafet aldı."
       },
       {
         "zh": "这件事很好。",
         "pinyin": "Zhè jiàn shì hěn hǎo.",
-        "en": "This matter is good."
+        "en": "Bu konu çok iyi."
       },
       {
         "zh": "那件红色的衣服多少钱？",
         "pinyin": "Nà jiàn hóngsè de yīfu duōshao qián?",
-        "en": "How much is that red piece of clothing?"
+        "en": "O kırmızı kıyafet ne kadar?"
       }
     ]
   },
@@ -7023,7 +7023,7 @@
     "id": "w196",
     "hanzi": "教室",
     "pinyin": "jiàoshì",
-    "meaning": "classroom",
+    "meaning": "sınıf (derslik)",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Yerler",
@@ -7031,27 +7031,27 @@
       {
         "zh": "我们在教室学习。",
         "pinyin": "Wǒmen zài jiàoshì xuéxí.",
-        "en": "We study in the classroom."
+        "en": "Sınıfta ders çalışıyoruz."
       },
       {
         "zh": "教室里有很多学生。",
         "pinyin": "Jiàoshì lǐ yǒu hěn duō xuésheng.",
-        "en": "There are many students in the classroom."
+        "en": "Sınıfta çok öğrenci var."
       },
       {
         "zh": "老师在教室。",
         "pinyin": "Lǎoshī zài jiàoshì.",
-        "en": "The teacher is in the classroom."
+        "en": "Öğretmen sınıfta."
       },
       {
         "zh": "这个教室很大。",
         "pinyin": "Zhège jiàoshì hěn dà.",
-        "en": "This classroom is big."
+        "en": "Bu sınıf çok büyük."
       },
       {
         "zh": "教室里没有人。",
         "pinyin": "Jiàoshì lǐ méiyǒu rén.",
-        "en": "There's no one in the classroom."
+        "en": "Sınıfta kimse yok."
       }
     ]
   },
@@ -7059,7 +7059,7 @@
     "id": "w197",
     "hanzi": "介绍",
     "pinyin": "jièshào",
-    "meaning": "to introduce",
+    "meaning": "tanıtmak; sunmak",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -7067,27 +7067,27 @@
       {
         "zh": "我来介绍一下。",
         "pinyin": "Wǒ lái jièshào yíxià.",
-        "en": "Let me introduce."
+        "en": "Kendimi tanıtayım."
       },
       {
         "zh": "她给我们介绍了这个公司。",
         "pinyin": "Tā gěi wǒmen jièshào le zhège gōngsī.",
-        "en": "She introduced this company to us."
+        "en": "O bize bu şirketi tanıttı."
       },
       {
         "zh": "请介绍一下。",
         "pinyin": "Qǐng jièshào yíxià.",
-        "en": "Please introduce it."
+        "en": "Lütfen tanıt."
       },
       {
         "zh": "老师介绍了这本书。",
         "pinyin": "Lǎoshī jièshào le zhè běn shū.",
-        "en": "The teacher introduced this book."
+        "en": "Öğretmen bu kitabı tanıttı."
       },
       {
         "zh": "我想介绍我的朋友。",
         "pinyin": "Wǒ xiǎng jièshào wǒ de péngyou.",
-        "en": "I want to introduce my friend."
+        "en": "Arkadaşımı tanıtmak istiyorum."
       }
     ]
   },
@@ -7095,7 +7095,7 @@
     "id": "w198",
     "hanzi": "姐姐",
     "pinyin": "jiějie",
-    "meaning": "older sister",
+    "meaning": "büyük kız kardeş",
     "partOfSpeech": "isim",
     "level": 2,
     "category": "Aile ve İnsanlar",
@@ -7103,27 +7103,27 @@
       {
         "zh": "这是我姐姐。",
         "pinyin": "Zhè shì wǒ jiějie.",
-        "en": "This is my older sister."
+        "en": "Bu benim ablam."
       },
       {
         "zh": "我姐姐是老师。",
         "pinyin": "Wǒ jiějie shì lǎoshī.",
-        "en": "My older sister is a teacher."
+        "en": "Ablam öğretmen."
       },
       {
         "zh": "姐姐比我高。",
         "pinyin": "Jiějie bǐ wǒ gāo.",
-        "en": "My older sister is taller than me."
+        "en": "Ablam benden uzun."
       },
       {
         "zh": "我姐姐喜欢唱歌。",
         "pinyin": "Wǒ jiějie xǐhuan chànggē.",
-        "en": "My older sister likes singing."
+        "en": "Ablam şarkı söylemeyi sever."
       },
       {
         "zh": "姐姐在公司工作。",
         "pinyin": "Jiějie zài gōngsī gōngzuò.",
-        "en": "My older sister works at a company."
+        "en": "Ablam bir şirkette çalışıyor."
       }
     ]
   },
@@ -7131,7 +7131,7 @@
     "id": "w199",
     "hanzi": "近",
     "pinyin": "jìn",
-    "meaning": "near; close",
+    "meaning": "yakın",
     "partOfSpeech": "sıfat",
     "level": 2,
     "category": "Sıfatlar",
@@ -7139,27 +7139,27 @@
       {
         "zh": "学校很近。",
         "pinyin": "Xuéxiào hěn jìn.",
-        "en": "The school is very close."
+        "en": "Okul çok yakın."
       },
       {
         "zh": "我家离学校很近。",
         "pinyin": "Wǒ jiā lí xuéxiào hěn jìn.",
-        "en": "My home is close to the school."
+        "en": "Evim okula çok yakın."
       },
       {
         "zh": "商店离这儿近吗？",
         "pinyin": "Shāngdiàn lí zhèr jìn ma?",
-        "en": "Is the store close to here?"
+        "en": "Mağaza buraya yakın mı?"
       },
       {
         "zh": "医院很近。",
         "pinyin": "Yīyuàn hěn jìn.",
-        "en": "The hospital is close."
+        "en": "Hastane yakın."
       },
       {
         "zh": "这个不近。",
         "pinyin": "Zhège bú jìn.",
-        "en": "This isn't close."
+        "en": "Bu yakın değil."
       }
     ]
   },
@@ -7167,7 +7167,7 @@
     "id": "w200",
     "hanzi": "进",
     "pinyin": "jìn",
-    "meaning": "to enter",
+    "meaning": "girmek",
     "partOfSpeech": "fiil",
     "level": 2,
     "category": "Fiiller",
@@ -7175,27 +7175,27 @@
       {
         "zh": "请进。",
         "pinyin": "Qǐng jìn.",
-        "en": "Please come in."
+        "en": "Lütfen içeri girin."
       },
       {
         "zh": "她进教室了。",
         "pinyin": "Tā jìn jiàoshì le.",
-        "en": "She entered the classroom."
+        "en": "O sınıfa girdi."
       },
       {
         "zh": "我们进去吧。",
         "pinyin": "Wǒmen jìnqù ba.",
-        "en": "Let's go in."
+        "en": "İçeri girelim."
       },
       {
         "zh": "他进来了。",
         "pinyin": "Tā jìnlái le.",
-        "en": "He came in."
+        "en": "O içeri girdi."
       },
       {
         "zh": "你可以进来。",
         "pinyin": "Nǐ kěyǐ jìnlái.",
-        "en": "You can come in."
+        "en": "İçeri girebilirsin."
       }
     ]
   },

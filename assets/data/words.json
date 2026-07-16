@@ -121015,5 +121015,650 @@
         "en": "Bu yöntem kuşkusuz etkili, ancak maliyeti daha yüksek."
       }
     ]
+  },
+  {
+    "id": "w3526",
+    "hanzi": "拐角",
+    "pinyin": "guǎijiǎo",
+    "meaning": "köşe, dönemeç",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "邮局就在前面的拐角处。",
+        "pinyin": "Yóujú jiù zài qiánmiàn de guǎijiǎo chù.",
+        "en": "Postane hemen ilerideki köşede."
+      },
+      {
+        "zh": "请在拐角处等我。",
+        "pinyin": "Qǐng zài guǎijiǎo chù děng wǒ.",
+        "en": "Lütfen köşede beni bekle."
+      },
+      {
+        "zh": "拐角有一家小咖啡馆。",
+        "pinyin": "Guǎijiǎo yǒu yì jiā xiǎo kāfēiguǎn.",
+        "en": "Köşede küçük bir kafe var."
+      },
+      {
+        "zh": "汽车在拐角处慢了下来。",
+        "pinyin": "Qìchē zài guǎijiǎo chù màn le xiàlái.",
+        "en": "Araba köşede yavaşladı."
+      },
+      {
+        "zh": "拐角处的路灯坏了。",
+        "pinyin": "Guǎijiǎo chù de lùdēng huài le.",
+        "en": "Köşedeki sokak lambası bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w3527",
+    "hanzi": "观看",
+    "pinyin": "guānkàn",
+    "meaning": "izlemek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们一起观看了这场比赛。",
+        "pinyin": "Wǒmen yìqǐ guānkàn le zhè chǎng bǐsài.",
+        "en": "Bu maçı birlikte izledik."
+      },
+      {
+        "zh": "很多人在电视机前观看开幕式。",
+        "pinyin": "Hěn duō rén zài diànshìjī qián guānkàn kāimùshì.",
+        "en": "Birçok kişi televizyonun başında açılış törenini izliyor."
+      },
+      {
+        "zh": "请大家安静观看表演。",
+        "pinyin": "Qǐng dàjiā ānjìng guānkàn biǎoyǎn.",
+        "en": "Herkes sessizce gösteriyi izlesin."
+      },
+      {
+        "zh": "他喜欢观看纪录片。",
+        "pinyin": "Tā xǐhuan guānkàn jìlùpiàn.",
+        "en": "Belgesel izlemeyi sever."
+      },
+      {
+        "zh": "观众们热情地观看了这部电影。",
+        "pinyin": "Guānzhòngmen rèqíng de guānkàn le zhè bù diànyǐng.",
+        "en": "Seyirciler bu filmi coşkuyla izledi."
+      }
+    ]
+  },
+  {
+    "id": "w3528",
+    "hanzi": "关注",
+    "pinyin": "guānzhù",
+    "meaning": "dikkatini vermek, ilgilenmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们应该关注这个问题。",
+        "pinyin": "Wǒmen yīnggāi guānzhù zhège wèntí.",
+        "en": "Bu soruna dikkat etmeliyiz."
+      },
+      {
+        "zh": "大家都很关注这次比赛的结果。",
+        "pinyin": "Dàjiā dōu hěn guānzhù zhè cì bǐsài de jiéguǒ.",
+        "en": "Herkes bu maçın sonucuyla çok ilgileniyor."
+      },
+      {
+        "zh": "请多多关注孩子的心理健康。",
+        "pinyin": "Qǐng duōduō guānzhù háizi de xīnlǐ jiànkāng.",
+        "en": "Lütfen çocuğun ruh sağlığına daha fazla dikkat edin."
+      },
+      {
+        "zh": "这项政策引起了广泛关注。",
+        "pinyin": "Zhè xiàng zhèngcè yǐnqǐ le guǎngfàn guānzhù.",
+        "en": "Bu politika geniş ilgi uyandırdı."
+      },
+      {
+        "zh": "我一直在关注这个话题。",
+        "pinyin": "Wǒ yìzhí zài guānzhù zhège huàtí.",
+        "en": "Bu konuyu sürekli takip ediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w3529",
+    "hanzi": "挂念",
+    "pinyin": "guàniàn",
+    "meaning": "endişelenmek, merak etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "妈妈总是挂念在外的孩子。",
+        "pinyin": "Māma zǒngshì guàniàn zài wài de háizi.",
+        "en": "Anne her zaman dışarıdaki çocuğunu merak eder."
+      },
+      {
+        "zh": "请不要挂念我，我很好。",
+        "pinyin": "Qǐng búyào guàniàn wǒ, wǒ hěn hǎo.",
+        "en": "Beni merak etme, ben iyiyim."
+      },
+      {
+        "zh": "她一直挂念着家乡的父母。",
+        "pinyin": "Tā yìzhí guàniàn zhe jiāxiāng de fùmǔ.",
+        "en": "Memleketteki ailesini hep merak ediyor."
+      },
+      {
+        "zh": "出门在外，他很挂念家人。",
+        "pinyin": "Chūmén zài wài, tā hěn guàniàn jiārén.",
+        "en": "Evinden uzakta olduğu için ailesini çok merak ediyor."
+      },
+      {
+        "zh": "老师挂念着生病的学生。",
+        "pinyin": "Lǎoshī guàniàn zhe shēngbìng de xuésheng.",
+        "en": "Öğretmen hasta öğrenciyi merak ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3530",
+    "hanzi": "关联",
+    "pinyin": "guānlián",
+    "meaning": "ilgili olmak, bağlantılı",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这两件事之间有一定关联。",
+        "pinyin": "Zhè liǎng jiàn shì zhījiān yǒu yídìng guānlián.",
+        "en": "Bu iki olay arasında belirli bir bağlantı var."
+      },
+      {
+        "zh": "研究发现吸烟与肺癌有密切关联。",
+        "pinyin": "Yánjiū fāxiàn xīyān yǔ fèi'ái yǒu mìqiè guānlián.",
+        "en": "Araştırmalar sigara ile akciğer kanseri arasında sıkı bir bağlantı olduğunu ortaya koydu."
+      },
+      {
+        "zh": "这两个案件可能存在关联。",
+        "pinyin": "Zhè liǎng ge ànjiàn kěnéng cúnzài guānlián.",
+        "en": "Bu iki dava arasında bağlantı olabilir."
+      },
+      {
+        "zh": "收入水平和教育程度有一定关联。",
+        "pinyin": "Shōurù shuǐpíng hé jiàoyù chéngdù yǒu yídìng guānlián.",
+        "en": "Gelir düzeyi ile eğitim seviyesi arasında belirli bir bağlantı var."
+      },
+      {
+        "zh": "这些数据之间没有明显的关联。",
+        "pinyin": "Zhèxiē shùjù zhījiān méiyǒu míngxiǎn de guānlián.",
+        "en": "Bu veriler arasında belirgin bir bağlantı yok."
+      }
+    ]
+  },
+  {
+    "id": "w3531",
+    "hanzi": "关照",
+    "pinyin": "guānzhào",
+    "meaning": "göz kulak olmak, dikkat etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "请多多关照我的家人。",
+        "pinyin": "Qǐng duōduō guānzhào wǒ de jiārén.",
+        "en": "Lütfen aileme çok dikkat edin."
+      },
+      {
+        "zh": "谢谢你一直以来的关照。",
+        "pinyin": "Xièxie nǐ yìzhí yǐlái de guānzhào.",
+        "en": "Şimdiye kadarki ilginiz için teşekkür ederim."
+      },
+      {
+        "zh": "新同事需要大家多多关照。",
+        "pinyin": "Xīn tóngshì xūyào dàjiā duōduō guānzhào.",
+        "en": "Yeni iş arkadaşının herkesten daha fazla ilgi görmesi gerekiyor."
+      },
+      {
+        "zh": "老师对学生们的关照让人感动。",
+        "pinyin": "Lǎoshī duì xuéshengmen de guānzhào ràng rén gǎndòng.",
+        "en": "Öğretmenin öğrencilere gösterdiği ilgi insanı duygulandırıyor."
+      },
+      {
+        "zh": "请互相关照，一路平安。",
+        "pinyin": "Qǐng hùxiāng guānzhào, yílù píng'ān.",
+        "en": "Birbirinize göz kulak olun, iyi yolculuklar."
+      }
+    ]
+  },
+  {
+    "id": "w3532",
+    "hanzi": "观测",
+    "pinyin": "guāncè",
+    "meaning": "gözlemlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "科学家正在观测这颗新发现的星球。",
+        "pinyin": "Kēxuéjiā zhèngzài guāncè zhè kē xīn fāxiàn de xīngqiú.",
+        "en": "Bilim insanları yeni keşfedilen bu gezegeni gözlemliyor."
+      },
+      {
+        "zh": "气象站每天观测天气变化。",
+        "pinyin": "Qìxiàngzhàn měitiān guāncè tiānqì biànhuà.",
+        "en": "Meteoroloji istasyonu her gün hava değişimlerini gözlemliyor."
+      },
+      {
+        "zh": "天文台用望远镜观测星空。",
+        "pinyin": "Tiānwéntái yòng wàngyuǎnjìng guāncè xīngkōng.",
+        "en": "Gözlemevi teleskopla yıldızlı gökyüzünü gözlemliyor."
+      },
+      {
+        "zh": "他们连续观测了三个月的数据。",
+        "pinyin": "Tāmen liánxù guāncè le sān ge yuè de shùjù.",
+        "en": "Üç aylık verileri sürekli olarak gözlemlediler."
+      },
+      {
+        "zh": "卫星可以观测地球表面的变化。",
+        "pinyin": "Wèixīng kěyǐ guāncè dìqiú biǎomiàn de biànhuà.",
+        "en": "Uydu dünya yüzeyindeki değişiklikleri gözlemleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3533",
+    "hanzi": "观光",
+    "pinyin": "guānguāng",
+    "meaning": "turistik gezi yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "我们打算去南方观光旅游。",
+        "pinyin": "Wǒmen dǎsuàn qù nánfāng guānguāng lǚyóu.",
+        "en": "Güneye turistik bir gezi yapmayı planlıyoruz."
+      },
+      {
+        "zh": "这个城市吸引了很多观光客。",
+        "pinyin": "Zhège chéngshì xīyǐn le hěn duō guānguāngkè.",
+        "en": "Bu şehir birçok turisti çekiyor."
+      },
+      {
+        "zh": "观光巴士带我们游览了整座城市。",
+        "pinyin": "Guānguāng bāshì dài wǒmen yóulǎn le zhěng zuò chéngshì.",
+        "en": "Turistik otobüs bizi tüm şehri gezdirdi."
+      },
+      {
+        "zh": "这里的观光景点非常丰富。",
+        "pinyin": "Zhèlǐ de guānguāng jǐngdiǎn fēicháng fēngfù.",
+        "en": "Buradaki turistik yerler çok çeşitli."
+      },
+      {
+        "zh": "他们花了一周时间观光这座古城。",
+        "pinyin": "Tāmen huā le yì zhōu shíjiān guānguāng zhè zuò gǔchéng.",
+        "en": "Bu antik şehri gezmek için bir hafta harcadılar."
+      }
+    ]
+  },
+  {
+    "id": "w3534",
+    "hanzi": "观赏",
+    "pinyin": "guānshǎng",
+    "meaning": "seyrederek keyif almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "我们在公园里观赏了美丽的花朵。",
+        "pinyin": "Wǒmen zài gōngyuán lǐ guānshǎng le měilì de huāduǒ.",
+        "en": "Parkta güzel çiçekleri seyrederek keyif aldık."
+      },
+      {
+        "zh": "游客们停下来观赏日落。",
+        "pinyin": "Yóukèmen tíng xiàlái guānshǎng rìluò.",
+        "en": "Turistler durup gün batımını seyretti."
+      },
+      {
+        "zh": "这是一种珍贵的观赏鱼。",
+        "pinyin": "Zhè shì yì zhǒng zhēnguì de guānshǎngyú.",
+        "en": "Bu değerli bir süs balığıdır."
+      },
+      {
+        "zh": "大家一起观赏了精彩的烟花表演。",
+        "pinyin": "Dàjiā yìqǐ guānshǎng le jīngcǎi de yānhuā biǎoyǎn.",
+        "en": "Herkes birlikte muhteşem havai fişek gösterisini izledi."
+      },
+      {
+        "zh": "这种植物主要用于观赏。",
+        "pinyin": "Zhè zhǒng zhíwù zhǔyào yòngyú guānshǎng.",
+        "en": "Bu bitki esas olarak süs amaçlı kullanılır."
+      }
+    ]
+  },
+  {
+    "id": "w3535",
+    "hanzi": "官方",
+    "pinyin": "guānfāng",
+    "meaning": "resmi",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这是政府的官方声明。",
+        "pinyin": "Zhè shì zhèngfǔ de guānfāng shēngmíng.",
+        "en": "Bu, hükümetin resmi açıklamasıdır."
+      },
+      {
+        "zh": "请以官方网站的信息为准。",
+        "pinyin": "Qǐng yǐ guānfāng wǎngzhàn de xìnxī wéizhǔn.",
+        "en": "Lütfen resmi web sitesindeki bilgileri esas alın."
+      },
+      {
+        "zh": "官方数据显示经济正在增长。",
+        "pinyin": "Guānfāng shùjù xiǎnshì jīngjì zhèngzài zēngzhǎng.",
+        "en": "Resmi veriler ekonominin büyüdüğünü gösteriyor."
+      },
+      {
+        "zh": "这条消息还没有得到官方证实。",
+        "pinyin": "Zhè tiáo xiāoxi hái méiyǒu dédào guānfāng zhèngshí.",
+        "en": "Bu haber henüz resmi olarak doğrulanmadı."
+      },
+      {
+        "zh": "官方发言人回答了记者的提问。",
+        "pinyin": "Guānfāng fāyánrén huídá le jìzhě de tíwèn.",
+        "en": "Resmi sözcü gazetecinin sorusunu yanıtladı."
+      }
+    ]
+  },
+  {
+    "id": "w3536",
+    "hanzi": "管道",
+    "pinyin": "guǎndào",
+    "meaning": "boru hattı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工人正在铺设新的水管道。",
+        "pinyin": "Gōngrén zhèngzài pūshè xīn de shuǐ guǎndào.",
+        "en": "İşçiler yeni su boru hattı döşüyor."
+      },
+      {
+        "zh": "这条天然气管道穿越了几个省份。",
+        "pinyin": "Zhè tiáo tiānránqì guǎndào chuānyuè le jǐ ge shěngfèn.",
+        "en": "Bu doğalgaz boru hattı birkaç eyaletten geçiyor."
+      },
+      {
+        "zh": "管道破裂导致了漏水。",
+        "pinyin": "Guǎndào pòliè dǎozhì le lòushuǐ.",
+        "en": "Boru hattının çatlaması su sızıntısına neden oldu."
+      },
+      {
+        "zh": "请检查一下厨房的排水管道。",
+        "pinyin": "Qǐng jiǎnchá yíxià chúfáng de páishuǐ guǎndào.",
+        "en": "Lütfen mutfaktaki drenaj borusunu kontrol edin."
+      },
+      {
+        "zh": "这项工程涉及大量管道铺设。",
+        "pinyin": "Zhè xiàng gōngchéng shèjí dàliàng guǎndào pūshè.",
+        "en": "Bu proje büyük miktarda boru hattı döşemeyi içeriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3537",
+    "hanzi": "管家",
+    "pinyin": "guǎnjiā",
+    "meaning": "kahya, uşak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这栋豪宅雇了一位管家。",
+        "pinyin": "Zhè dòng háozhái gù le yí wèi guǎnjiā.",
+        "en": "Bu malikane bir kahya tuttu."
+      },
+      {
+        "zh": "管家负责打理家中的一切事务。",
+        "pinyin": "Guǎnjiā fùzé dǎlǐ jiā zhōng de yíqiè shìwù.",
+        "en": "Kahya evdeki her şeyden sorumludur."
+      },
+      {
+        "zh": "老管家在这个家庭工作了三十年。",
+        "pinyin": "Lǎo guǎnjiā zài zhège jiātíng gōngzuò le sānshí nián.",
+        "en": "Yaşlı kahya bu ailede otuz yıl çalıştı."
+      },
+      {
+        "zh": "她是一位经验丰富的管家。",
+        "pinyin": "Tā shì yí wèi jīngyàn fēngfù de guǎnjiā.",
+        "en": "Deneyimli bir kahyadır."
+      },
+      {
+        "zh": "管家迎接客人的到来。",
+        "pinyin": "Guǎnjiā yíngjiē kèrén de dàolái.",
+        "en": "Kahya misafirleri karşıladı."
+      }
+    ]
+  },
+  {
+    "id": "w3538",
+    "hanzi": "馆子",
+    "pinyin": "guǎnzi",
+    "meaning": "lokanta",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "我们去馆子吃了一顿饭。",
+        "pinyin": "Wǒmen qù guǎnzi chī le yí dùn fàn.",
+        "en": "Lokantaya gidip bir öğün yemek yedik."
+      },
+      {
+        "zh": "这家馆子的菜很好吃。",
+        "pinyin": "Zhè jiā guǎnzi de cài hěn hǎochī.",
+        "en": "Bu lokantanın yemekleri çok lezzetli."
+      },
+      {
+        "zh": "附近有一家老字号馆子。",
+        "pinyin": "Fùjìn yǒu yì jiā lǎozìhào guǎnzi.",
+        "en": "Yakınlarda köklü bir lokanta var."
+      },
+      {
+        "zh": "他们经常下馆子聚餐。",
+        "pinyin": "Tāmen jīngcháng xià guǎnzi jùcān.",
+        "en": "Sık sık dışarıda toplu yemek yerler."
+      },
+      {
+        "zh": "这家馆子生意很兴隆。",
+        "pinyin": "Zhè jiā guǎnzi shēngyi hěn xīnglóng.",
+        "en": "Bu lokantanın işi çok iyi gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3539",
+    "hanzi": "灌溉",
+    "pinyin": "guàngài",
+    "meaning": "sulamak (toprak)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "农民用河水灌溉农田。",
+        "pinyin": "Nóngmín yòng héshuǐ guàngài nóngtián.",
+        "en": "Çiftçiler nehir suyuyla tarlaları suluyor."
+      },
+      {
+        "zh": "这个地区缺乏灌溉水源。",
+        "pinyin": "Zhège dìqū quēfá guàngài shuǐyuán.",
+        "en": "Bu bölgede sulama suyu kaynağı yetersiz."
+      },
+      {
+        "zh": "灌溉系统需要定期维护。",
+        "pinyin": "Guàngài xìtǒng xūyào dìngqī wéihù.",
+        "en": "Sulama sistemi düzenli bakım gerektirir."
+      },
+      {
+        "zh": "政府修建了新的灌溉渠道。",
+        "pinyin": "Zhèngfǔ xiūjiàn le xīn de guàngài qúdào.",
+        "en": "Hükümet yeni sulama kanalları inşa etti."
+      },
+      {
+        "zh": "现代农业依靠先进的灌溉技术。",
+        "pinyin": "Xiàndài nóngyè yīkào xiānjìn de guàngài jìshù.",
+        "en": "Modern tarım gelişmiş sulama teknolojisine dayanır."
+      }
+    ]
+  },
+  {
+    "id": "w3540",
+    "hanzi": "灌木",
+    "pinyin": "guànmù",
+    "meaning": "çalı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "花园里种了很多灌木。",
+        "pinyin": "Huāyuán lǐ zhòng le hěn duō guànmù.",
+        "en": "Bahçede birçok çalı yetiştirildi."
+      },
+      {
+        "zh": "这片灌木丛是鸟儿的栖息地。",
+        "pinyin": "Zhè piàn guànmùcóng shì niǎor de qīxīdì.",
+        "en": "Bu çalılık kuşların yaşam alanıdır."
+      },
+      {
+        "zh": "灌木的根系可以防止水土流失。",
+        "pinyin": "Guànmù de gēnxì kěyǐ fángzhǐ shuǐtǔ liúshī.",
+        "en": "Çalıların kök sistemi toprak erozyonunu önleyebilir."
+      },
+      {
+        "zh": "园丁正在修剪灌木。",
+        "pinyin": "Yuándīng zhèngzài xiūjiǎn guànmù.",
+        "en": "Bahçıvan çalıları buduyor."
+      },
+      {
+        "zh": "灌木和乔木组成了这片植被。",
+        "pinyin": "Guànmù hé qiáomù zǔchéng le zhè piàn zhíbèi.",
+        "en": "Çalılar ve ağaçlar bu bitki örtüsünü oluşturuyor."
+      }
+    ]
+  },
+  {
+    "id": "w3541",
+    "hanzi": "关切",
+    "pinyin": "guānqiè",
+    "meaning": "çok ilgilenmek, endişe göstermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "领导对员工的生活表示了关切。",
+        "pinyin": "Lǐngdǎo duì yuángōng de shēnghuó biǎoshì le guānqiè.",
+        "en": "Yönetici çalışanların hayatına ilgi ve endişe gösterdi."
+      },
+      {
+        "zh": "大家对他的病情深表关切。",
+        "pinyin": "Dàjiā duì tā de bìngqíng shēn biǎo guānqiè.",
+        "en": "Herkes onun sağlık durumu hakkında derin bir kaygı duyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w3542",
+    "hanzi": "管制",
+    "pinyin": "guǎnzhì",
+    "meaning": "kontrol etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府对武器实施严格管制。",
+        "pinyin": "Zhèngfǔ duì wǔqì shíshī yángé guǎnzhì.",
+        "en": "Hükümet silahlar üzerinde sıkı kontrol uyguluyor."
+      },
+      {
+        "zh": "疫情期间部分地区实行了交通管制。",
+        "pinyin": "Yìqíng qījiān bùfen dìqū shíxíng le jiāotōng guǎnzhì.",
+        "en": "Salgın döneminde bazı bölgelerde trafik kontrolü uygulandı."
+      }
+    ]
+  },
+  {
+    "id": "w3543",
+    "hanzi": "官僚",
+    "pinyin": "guānliáo",
+    "meaning": "bürokrat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他批评了政府机构的官僚作风。",
+        "pinyin": "Tā pīpíng le zhèngfǔ jīgòu de guānliáo zuòfēng.",
+        "en": "Hükümet kurumlarının bürokratik tavrını eleştirdi."
+      },
+      {
+        "zh": "过度的官僚主义降低了办事效率。",
+        "pinyin": "Guòdù de guānliáozhǔyì jiàngdī le bànshì xiàolǜ.",
+        "en": "Aşırı bürokrasi işlerin verimliliğini düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w3544",
+    "hanzi": "贯彻",
+    "pinyin": "guànchè",
+    "meaning": "uygulamak, yerine getirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "我们要贯彻执行这项政策。",
+        "pinyin": "Wǒmen yào guànchè zhíxíng zhè xiàng zhèngcè.",
+        "en": "Bu politikayı sonuna kadar uygulamalıyız."
+      },
+      {
+        "zh": "公司决定贯彻新的管理制度。",
+        "pinyin": "Gōngsī juédìng guànchè xīn de guǎnlǐ zhìdù.",
+        "en": "Şirket yeni yönetim sistemini uygulamaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3545",
+    "hanzi": "贯穿",
+    "pinyin": "guànchuān",
+    "meaning": "baştan sona geçmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这条河流贯穿了整个城市。",
+        "pinyin": "Zhè tiáo héliú guànchuān le zhěnggè chéngshì.",
+        "en": "Bu nehir tüm şehri baştan sona kat ediyor."
+      },
+      {
+        "zh": "这个主题贯穿了整部小说。",
+        "pinyin": "Zhège zhǔtí guànchuān le zhěng bù xiǎoshuō.",
+        "en": "Bu tema tüm romanı baştan sona kaplıyor."
+      }
+    ]
   }
 ]

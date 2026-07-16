@@ -152599,5 +152599,797 @@
         "en": "Uçsuz bucaksız deniz insanın ruhunu ferahlatıyor."
       }
     ]
+  },
+  {
+    "id": "w4436",
+    "hanzi": "宽宏大量",
+    "pinyin": "kuānhóng-dàliàng",
+    "meaning": "Geniş gönüllü, hoşgörülü, affedici",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人宽宏大量,从不计较小事。",
+        "pinyin": "Tā wéirén kuānhóng-dàliàng, cóng bú jìjiào xiǎoshì.",
+        "en": "Geniş gönüllü bir insan, küçük şeyleri asla dert etmez."
+      },
+      {
+        "zh": "希望你能宽宏大量地原谅我。",
+        "pinyin": "Xīwàng nǐ néng kuānhóng-dàliàng de yuánliàng wǒ.",
+        "en": "Umarım geniş gönüllülükle beni affedersin."
+      },
+      {
+        "zh": "老师对学生的错误宽宏大量。",
+        "pinyin": "Lǎoshī duì xuésheng de cuòwù kuānhóng-dàliàng.",
+        "en": "Öğretmen öğrencilerin hatalarına karşı hoşgörülüdür."
+      },
+      {
+        "zh": "她是一个宽宏大量的领导。",
+        "pinyin": "Tā shì yí gè kuānhóng-dàliàng de lǐngdǎo.",
+        "en": "O geniş gönüllü bir liderdir."
+      },
+      {
+        "zh": "他宽宏大量,没有责怪任何人。",
+        "pinyin": "Tā kuānhóng-dàliàng, méiyǒu zéguài rènhé rén.",
+        "en": "Geniş gönüllüydü, kimseyi suçlamadı."
+      }
+    ]
+  },
+  {
+    "id": "w4437",
+    "hanzi": "宽厚",
+    "pinyin": "kuānhòu",
+    "meaning": "Cömert, içten, hoşgörülü",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人宽厚,深受大家喜爱。",
+        "pinyin": "Tā wéirén kuānhòu, shēn shòu dàjiā xǐ'ài.",
+        "en": "İçten ve hoşgörülü bir insan, herkes onu çok sever."
+      },
+      {
+        "zh": "她待人宽厚,从不苛责别人。",
+        "pinyin": "Tā dàirén kuānhòu, cóng bù kēzé biérén.",
+        "en": "İnsanlara karşı içtendir, hiç kimseyi sert bir şekilde eleştirmez."
+      },
+      {
+        "zh": "老板对员工十分宽厚。",
+        "pinyin": "Lǎobǎn duì yuángōng shífēn kuānhòu.",
+        "en": "Patron çalışanlarına karşı çok cömert ve hoşgörülü."
+      },
+      {
+        "zh": "他的性格宽厚温和。",
+        "pinyin": "Tā de xìnggé kuānhòu wēnhé.",
+        "en": "Karakteri içten ve yumuşaktır."
+      },
+      {
+        "zh": "祖父是个宽厚的老人。",
+        "pinyin": "Zǔfù shì gè kuānhòu de lǎorén.",
+        "en": "Büyükbabam içten ve hoşgörülü bir yaşlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4438",
+    "hanzi": "宽阔",
+    "pinyin": "kuānkuò",
+    "meaning": "Geniş, engin",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这条河十分宽阔。",
+        "pinyin": "Zhè tiáo hé shífēn kuānkuò.",
+        "en": "Bu nehir oldukça geniş."
+      },
+      {
+        "zh": "广场宽阔,可以容纳很多人。",
+        "pinyin": "Guǎngchǎng kuānkuò, kěyǐ róngnà hěn duō rén.",
+        "en": "Meydan geniş, birçok kişiyi barındırabilir."
+      },
+      {
+        "zh": "他有着宽阔的胸怀。",
+        "pinyin": "Tā yǒuzhe kuānkuò de xiōnghuái.",
+        "en": "Geniş bir gönlü var."
+      },
+      {
+        "zh": "宽阔的马路两旁种满了树。",
+        "pinyin": "Kuānkuò de mǎlù liǎngpáng zhòngmǎn le shù.",
+        "en": "Geniş caddenin her iki yanına ağaçlar dikilmiş."
+      },
+      {
+        "zh": "站在山顶,视野十分宽阔。",
+        "pinyin": "Zhàn zài shāndǐng, shìyě shífēn kuānkuò.",
+        "en": "Dağın tepesinde durunca manzara çok geniş."
+      }
+    ]
+  },
+  {
+    "id": "w4439",
+    "hanzi": "宽容",
+    "pinyin": "kuānróng",
+    "meaning": "Hoşgörülü, hoşgören",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "父母对孩子应该多一点宽容。",
+        "pinyin": "Fùmǔ duì háizi yīnggāi duō yìdiǎn kuānróng.",
+        "en": "Ebeveynlerin çocuklara karşı daha hoşgörülü olması gerekir."
+      },
+      {
+        "zh": "她对朋友的错误很宽容。",
+        "pinyin": "Tā duì péngyou de cuòwù hěn kuānróng.",
+        "en": "Arkadaşlarının hatalarına karşı çok hoşgörülü."
+      },
+      {
+        "zh": "宽容是一种美德。",
+        "pinyin": "Kuānróng shì yì zhǒng měidé.",
+        "en": "Hoşgörü bir erdemdir."
+      },
+      {
+        "zh": "他学会了宽容对待他人。",
+        "pinyin": "Tā xuéhuì le kuānróng duìdài tārén.",
+        "en": "Başkalarına karşı hoşgörülü olmayı öğrendi."
+      },
+      {
+        "zh": "社会需要更多的宽容与理解。",
+        "pinyin": "Shèhuì xūyào gèng duō de kuānróng yǔ lǐjiě.",
+        "en": "Toplumun daha fazla hoşgörü ve anlayışa ihtiyacı var."
+      }
+    ]
+  },
+  {
+    "id": "w4440",
+    "hanzi": "宽恕",
+    "pinyin": "kuānshù",
+    "meaning": "Affetmek, bağışlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他请求家人宽恕自己的过错。",
+        "pinyin": "Tā qǐngqiú jiārén kuānshù zìjǐ de guòcuò.",
+        "en": "Ailesinden kendi hatasını bağışlamalarını istedi."
+      },
+      {
+        "zh": "她最终宽恕了那个欺骗她的人。",
+        "pinyin": "Tā zuìzhōng kuānshù le nàge qīpiàn tā de rén.",
+        "en": "Sonunda kendisini aldatan kişiyi affetti."
+      },
+      {
+        "zh": "上天会宽恕真心悔过的人。",
+        "pinyin": "Shàngtiān huì kuānshù zhēnxīn huǐguò de rén.",
+        "en": "Tanrı, içtenlikle pişman olanları bağışlar."
+      },
+      {
+        "zh": "他很难宽恕这样的背叛。",
+        "pinyin": "Tā hěn nán kuānshù zhèyàng de bèipàn.",
+        "en": "Böyle bir ihaneti bağışlaması çok zor."
+      },
+      {
+        "zh": "她学会了宽恕过去的伤痛。",
+        "pinyin": "Tā xuéhuì le kuānshù guòqù de shāngtòng.",
+        "en": "Geçmişteki acıları bağışlamayı öğrendi."
+      }
+    ]
+  },
+  {
+    "id": "w4441",
+    "hanzi": "宽松",
+    "pinyin": "kuānsōng",
+    "meaning": "Rahat, gevşek, ferah",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这件衣服穿着很宽松。",
+        "pinyin": "Zhè jiàn yīfu chuānzhe hěn kuānsōng.",
+        "en": "Bu kıyafet giyildiğinde çok rahat."
+      },
+      {
+        "zh": "公司的管理制度比较宽松。",
+        "pinyin": "Gōngsī de guǎnlǐ zhìdù bǐjiào kuānsōng.",
+        "en": "Şirketin yönetim politikası oldukça esnek."
+      },
+      {
+        "zh": "考试时间比较宽松。",
+        "pinyin": "Kǎoshì shíjiān bǐjiào kuānsōng.",
+        "en": "Sınav süresi oldukça rahat."
+      },
+      {
+        "zh": "他喜欢宽松舒适的生活方式。",
+        "pinyin": "Tā xǐhuan kuānsōng shūshì de shēnghuó fāngshì.",
+        "en": "Rahat ve konforlu bir yaşam tarzını seviyor."
+      },
+      {
+        "zh": "近年来政策变得更加宽松。",
+        "pinyin": "Jìnnián lái zhèngcè biàn de gèngjiā kuānsōng.",
+        "en": "Son yıllarda politikalar daha esnek hâle geldi."
+      }
+    ]
+  },
+  {
+    "id": "w4442",
+    "hanzi": "宽裕",
+    "pinyin": "kuānyù",
+    "meaning": "Hali vakti yerinde, varlıklı, ferah",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他家经济条件比较宽裕。",
+        "pinyin": "Tā jiā jīngjì tiáojiàn bǐjiào kuānyù.",
+        "en": "Ailesinin ekonomik durumu oldukça iyi."
+      },
+      {
+        "zh": "现在时间还很宽裕,不用着急。",
+        "pinyin": "Xiànzài shíjiān hái hěn kuānyù, búyòng zháojí.",
+        "en": "Şu anda zamanımız hâlâ bol, acele etmeye gerek yok."
+      },
+      {
+        "zh": "生活宽裕之后,他开始帮助别人。",
+        "pinyin": "Shēnghuó kuānyù zhīhòu, tā kāishǐ bāngzhù biérén.",
+        "en": "Hayatı ferahladıktan sonra başkalarına yardım etmeye başladı."
+      },
+      {
+        "zh": "公司预算并不宽裕。",
+        "pinyin": "Gōngsī yùsuàn bìng bù kuānyù.",
+        "en": "Şirketin bütçesi pek de bol değil."
+      },
+      {
+        "zh": "他的收入越来越宽裕了。",
+        "pinyin": "Tā de shōurù yuè lái yuè kuānyù le.",
+        "en": "Geliri gitgide daha rahat hâle geldi."
+      }
+    ]
+  },
+  {
+    "id": "w4443",
+    "hanzi": "筐",
+    "pinyin": "kuāng",
+    "meaning": "Sepet, küfe",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她提着一个筐去买菜。",
+        "pinyin": "Tā tízhe yí gè kuāng qù mǎi cài.",
+        "en": "Bir sepet alarak alışverişe gitti."
+      },
+      {
+        "zh": "筐里装满了水果。",
+        "pinyin": "Kuāng lǐ zhuāngmǎn le shuǐguǒ.",
+        "en": "Sepet meyveyle doldu."
+      },
+      {
+        "zh": "农民用筐把苹果运到市场。",
+        "pinyin": "Nóngmín yòng kuāng bǎ píngguǒ yùndào shìchǎng.",
+        "en": "Çiftçi elmaları küfe ile pazara taşıdı."
+      },
+      {
+        "zh": "他编了一个竹筐。",
+        "pinyin": "Tā biān le yí gè zhúkuāng.",
+        "en": "Bambudan bir sepet ördü."
+      },
+      {
+        "zh": "垃圾筐已经满了。",
+        "pinyin": "Lājīkuāng yǐjīng mǎn le.",
+        "en": "Çöp sepeti artık dolu."
+      }
+    ]
+  },
+  {
+    "id": "w4444",
+    "hanzi": "狂",
+    "pinyin": "kuáng",
+    "meaning": "Deli, çılgın; şiddetli, sert",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "外面刮起了狂风。",
+        "pinyin": "Wàimiàn guāqǐ le kuángfēng.",
+        "en": "Dışarıda şiddetli bir rüzgar esmeye başladı."
+      },
+      {
+        "zh": "他高兴得像发狂一样。",
+        "pinyin": "Tā gāoxìng de xiàng fākuáng yíyàng.",
+        "en": "Çıldırmış gibi mutluydu."
+      },
+      {
+        "zh": "球迷们狂热地为球队加油。",
+        "pinyin": "Qiúmímen kuángrè de wèi qiúduì jiāyóu.",
+        "en": "Taraftarlar çılgınca takımı destekledi."
+      },
+      {
+        "zh": "他做事总是很狂。",
+        "pinyin": "Tā zuòshì zǒngshì hěn kuáng.",
+        "en": "İşlerinde her zaman aşırıya kaçar."
+      },
+      {
+        "zh": "夏天常常有狂风暴雨。",
+        "pinyin": "Xiàtiān chángcháng yǒu kuángfēng-bàoyǔ.",
+        "en": "Yazın sık sık şiddetli fırtınalar olur."
+      }
+    ]
+  },
+  {
+    "id": "w4445",
+    "hanzi": "狂欢",
+    "pinyin": "kuánghuān",
+    "meaning": "Coşkulu kutlama, çılgınca eğlenme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "人们在广场上狂欢庆祝。",
+        "pinyin": "Rénmen zài guǎngchǎng shàng kuánghuān qìngzhù.",
+        "en": "İnsanlar meydanda coşkuyla kutlama yaptı."
+      },
+      {
+        "zh": "球队夺冠后球迷彻夜狂欢。",
+        "pinyin": "Qiúduì duóguàn hòu qiúmí chèyè kuánghuān.",
+        "en": "Takım şampiyon olunca taraftarlar tüm gece coşkuyla eğlendi."
+      },
+      {
+        "zh": "狂欢节吸引了许多游客。",
+        "pinyin": "Kuánghuānjié xīyǐn le xǔduō yóukè.",
+        "en": "Karnaval birçok turisti çekti."
+      },
+      {
+        "zh": "新年前夜,大家聚在一起狂欢。",
+        "pinyin": "Xīnnián qiányè, dàjiā jù zài yìqǐ kuánghuān.",
+        "en": "Yeni yıl arifesinde herkes bir araya gelip coşkuyla eğlendi."
+      },
+      {
+        "zh": "他们在音乐节上尽情狂欢。",
+        "pinyin": "Tāmen zài yīnyuèjié shàng jìnqíng kuánghuān.",
+        "en": "Müzik festivalinde doyasıya eğlendiler."
+      }
+    ]
+  },
+  {
+    "id": "w4446",
+    "hanzi": "狂热",
+    "pinyin": "kuángrè",
+    "meaning": "Fanatik, aşırı hevesli, taassuplu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是一个狂热的足球迷。",
+        "pinyin": "Tā shì yí gè kuángrè de zúqiúmí.",
+        "en": "O fanatik bir futbol taraftarıdır."
+      },
+      {
+        "zh": "她对音乐有着狂热的爱好。",
+        "pinyin": "Tā duì yīnyuè yǒuzhe kuángrè de àihào.",
+        "en": "Müziğe karşı tutkulu bir sevgisi var."
+      },
+      {
+        "zh": "粉丝们对偶像的狂热让人惊讶。",
+        "pinyin": "Fěnsīmen duì ǒuxiàng de kuángrè ràng rén jīngyà.",
+        "en": "Hayranların idole olan tutkusu insanı şaşırtıyor."
+      },
+      {
+        "zh": "他年轻时对政治十分狂热。",
+        "pinyin": "Tā niánqīng shí duì zhèngzhì shífēn kuángrè.",
+        "en": "Gençken siyasete karşı son derece hevesliydi."
+      },
+      {
+        "zh": "过度狂热有时会让人失去理智。",
+        "pinyin": "Guòdù kuángrè yǒushí huì ràng rén shīqù lǐzhì.",
+        "en": "Aşırı fanatiklik bazen insanın aklını yitirmesine neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w4447",
+    "hanzi": "狂妄",
+    "pinyin": "kuángwàng",
+    "meaning": "Küstah ve kibirli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人狂妄自大。",
+        "pinyin": "Tā wéirén kuángwàng zìdà.",
+        "en": "Küstah ve kendini beğenmiş bir insandır."
+      },
+      {
+        "zh": "不要说这种狂妄的话。",
+        "pinyin": "Bú yào shuō zhè zhǒng kuángwàng de huà.",
+        "en": "Bu tür küstahça sözler söyleme."
+      },
+      {
+        "zh": "他的狂妄态度让大家很反感。",
+        "pinyin": "Tā de kuángwàng tàidù ràng dàjiā hěn fǎngǎn.",
+        "en": "Küstah tavrı herkesi rahatsız ediyor."
+      },
+      {
+        "zh": "年轻时他有些狂妄。",
+        "pinyin": "Niánqīng shí tā yǒuxiē kuángwàng.",
+        "en": "Gençken biraz küstahtı."
+      },
+      {
+        "zh": "他狂妄地宣称自己无所不能。",
+        "pinyin": "Tā kuángwàng de xuānchēng zìjǐ wúsuǒbùnéng.",
+        "en": "Küstahça her şeyi yapabileceğini iddia etti."
+      }
+    ]
+  },
+  {
+    "id": "w4448",
+    "hanzi": "旷工",
+    "pinyin": "kuànggōng",
+    "meaning": "İzinsiz işe gelmemek, işi asmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他因为旷工被公司警告。",
+        "pinyin": "Tā yīnwèi kuànggōng bèi gōngsī jǐnggào.",
+        "en": "İzinsiz işe gelmediği için şirket tarafından uyarıldı."
+      },
+      {
+        "zh": "连续旷工三天会被开除。",
+        "pinyin": "Liánxù kuànggōng sān tiān huì bèi kāichú.",
+        "en": "Üst üste üç gün izinsiz gelmemek işten atılmaya neden olur."
+      },
+      {
+        "zh": "他从来没有旷工过。",
+        "pinyin": "Tā cónglái méiyǒu kuànggōng guò.",
+        "en": "Hiç izinsiz işe gelmemişliği yoktur."
+      },
+      {
+        "zh": "旷工要扣工资。",
+        "pinyin": "Kuànggōng yào kòu gōngzī.",
+        "en": "İzinsiz gelmemek maaştan kesintiye neden olur."
+      },
+      {
+        "zh": "公司严格禁止无故旷工。",
+        "pinyin": "Gōngsī yángé jìnzhǐ wúgù kuànggōng.",
+        "en": "Şirket sebepsiz izinsiz devamsızlığı sıkı bir şekilde yasaklıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4449",
+    "hanzi": "旷课",
+    "pinyin": "kuàngkè",
+    "meaning": "Dersten kaçmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他经常旷课去打游戏。",
+        "pinyin": "Tā jīngcháng kuàngkè qù dǎ yóuxì.",
+        "en": "Sık sık oyun oynamak için dersten kaçıyor."
+      },
+      {
+        "zh": "旷课太多会影响成绩。",
+        "pinyin": "Kuàngkè tài duō huì yǐngxiǎng chéngjì.",
+        "en": "Çok fazla dersten kaçmak notları etkiler."
+      },
+      {
+        "zh": "老师批评了旷课的学生。",
+        "pinyin": "Lǎoshī pīpíng le kuàngkè de xuésheng.",
+        "en": "Öğretmen dersten kaçan öğrencileri eleştirdi."
+      },
+      {
+        "zh": "他因为生病没来上课,不算旷课。",
+        "pinyin": "Tā yīnwèi shēngbìng méi lái shàngkè, bú suàn kuàngkè.",
+        "en": "Hastalandığı için derse gelmedi, bu dersten kaçma sayılmaz."
+      },
+      {
+        "zh": "旷课的学生要写检讨书。",
+        "pinyin": "Kuàngkè de xuésheng yào xiě jiǎntǎoshū.",
+        "en": "Dersten kaçan öğrenciler özeleştiri yazısı yazmak zorundadır."
+      }
+    ]
+  },
+  {
+    "id": "w4450",
+    "hanzi": "框架",
+    "pinyin": "kuàngjià",
+    "meaning": "Çerçeve, iskelet, yapı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这栋楼的框架已经建好了。",
+        "pinyin": "Zhè dòng lóu de kuàngjià yǐjīng jiànhǎo le.",
+        "en": "Bu binanın iskeleti tamamlandı."
+      },
+      {
+        "zh": "我们先确定报告的框架。",
+        "pinyin": "Wǒmen xiān quèdìng bàogào de kuàngjià.",
+        "en": "Önce raporun çerçevesini belirleyelim."
+      },
+      {
+        "zh": "这个理论提供了一个新的分析框架。",
+        "pinyin": "Zhège lǐlùn tígōng le yí gè xīn de fēnxī kuàngjià.",
+        "en": "Bu teori yeni bir analiz çerçevesi sunuyor."
+      },
+      {
+        "zh": "法律框架内的自由是有限的。",
+        "pinyin": "Fǎlǜ kuàngjià nèi de zìyóu shì yǒuxiàn de.",
+        "en": "Yasal çerçeve içindeki özgürlük sınırlıdır."
+      },
+      {
+        "zh": "他打破了传统的思维框架。",
+        "pinyin": "Tā dǎpò le chuántǒng de sīwéi kuàngjià.",
+        "en": "Geleneksel düşünce kalıbını kırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4451",
+    "hanzi": "矿藏",
+    "pinyin": "kuàngcáng",
+    "meaning": "Yeraltı maden kaynakları",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个地区矿藏丰富。",
+        "pinyin": "Zhège dìqū kuàngcáng fēngfù.",
+        "en": "Bu bölgede zengin maden kaynakları var."
+      },
+      {
+        "zh": "国家正在勘探新的矿藏。",
+        "pinyin": "Guójiā zhèngzài kāntàn xīn de kuàngcáng.",
+        "en": "Ülke yeni maden kaynaklarını araştırıyor."
+      },
+      {
+        "zh": "这片山区蕴藏着丰富的矿藏。",
+        "pinyin": "Zhè piàn shānqū yùncángzhe fēngfù de kuàngcáng.",
+        "en": "Bu dağlık bölge zengin maden kaynakları barındırıyor."
+      },
+      {
+        "zh": "矿藏是国家重要的自然资源。",
+        "pinyin": "Kuàngcáng shì guójiā zhòngyào de zìrán zīyuán.",
+        "en": "Maden kaynakları ülkenin önemli doğal kaynaklarıdır."
+      },
+      {
+        "zh": "过度开采会耗尽矿藏。",
+        "pinyin": "Guòdù kāicǎi huì hàojìn kuàngcáng.",
+        "en": "Aşırı çıkarma maden kaynaklarını tüketebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4452",
+    "hanzi": "矿产",
+    "pinyin": "kuàngchǎn",
+    "meaning": "Maden, mineral kaynağı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个国家矿产资源丰富。",
+        "pinyin": "Zhège guójiā kuàngchǎn zīyuán fēngfù.",
+        "en": "Bu ülkenin maden kaynakları zengindir."
+      },
+      {
+        "zh": "矿产开发要注意环境保护。",
+        "pinyin": "Kuàngchǎn kāifā yào zhùyì huánjìng bǎohù.",
+        "en": "Maden kaynaklarının geliştirilmesinde çevre korumasına dikkat edilmelidir."
+      },
+      {
+        "zh": "该地区蕴藏多种矿产。",
+        "pinyin": "Gāi dìqū yùncáng duō zhǒng kuàngchǎn.",
+        "en": "Bu bölgede birçok maden kaynağı bulunuyor."
+      },
+      {
+        "zh": "政府加大了矿产勘查力度。",
+        "pinyin": "Zhèngfǔ jiādà le kuàngchǎn kānchá lìdù.",
+        "en": "Hükümet maden araştırma çalışmalarını artırdı."
+      },
+      {
+        "zh": "矿产出口是这个国家的重要收入来源。",
+        "pinyin": "Kuàngchǎn chūkǒu shì zhège guójiā de zhòngyào shōurù láiyuán.",
+        "en": "Maden ihracatı bu ülkenin önemli bir gelir kaynağıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4453",
+    "hanzi": "矿工",
+    "pinyin": "kuànggōng",
+    "meaning": "Maden işçisi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "矿工们在井下工作。",
+        "pinyin": "Kuànggōngmen zài jǐngxià gōngzuò.",
+        "en": "Maden işçileri yerin altında çalışıyor."
+      },
+      {
+        "zh": "矿工的工作十分危险。",
+        "pinyin": "Kuànggōng de gōngzuò shífēn wēixiǎn.",
+        "en": "Maden işçilerinin işi son derece tehlikelidir."
+      },
+      {
+        "zh": "这次事故中有几名矿工受伤。",
+        "pinyin": "Zhè cì shìgù zhōng yǒu jǐ míng kuànggōng shòushāng.",
+        "en": "Bu kazada birkaç maden işçisi yaralandı."
+      },
+      {
+        "zh": "他的父亲曾是一名矿工。",
+        "pinyin": "Tā de fùqīn céng shì yì míng kuànggōng.",
+        "en": "Babası eskiden maden işçisiydi."
+      },
+      {
+        "zh": "矿工需要接受严格的安全培训。",
+        "pinyin": "Kuànggōng xūyào jiēshòu yángé de ānquán péixùn.",
+        "en": "Maden işçilerinin sıkı bir güvenlik eğitimi alması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4454",
+    "hanzi": "矿山",
+    "pinyin": "kuàngshān",
+    "meaning": "Maden ocağı, maden yatağı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这座矿山已经关闭了。",
+        "pinyin": "Zhè zuò kuàngshān yǐjīng guānbì le.",
+        "en": "Bu maden ocağı kapatıldı."
+      },
+      {
+        "zh": "矿山附近的空气污染很严重。",
+        "pinyin": "Kuàngshān fùjìn de kōngqì wūrǎn hěn yánzhòng.",
+        "en": "Maden ocağının yakınındaki hava kirliliği çok ciddi."
+      },
+      {
+        "zh": "他在矿山工作了二十年。",
+        "pinyin": "Tā zài kuàngshān gōngzuò le èrshí nián.",
+        "en": "Yirmi yıl maden ocağında çalıştı."
+      },
+      {
+        "zh": "这座矿山储量丰富。",
+        "pinyin": "Zhè zuò kuàngshān chǔliàng fēngfù.",
+        "en": "Bu maden ocağının rezervleri oldukça zengin."
+      },
+      {
+        "zh": "政府关停了一批不安全的矿山。",
+        "pinyin": "Zhèngfǔ guāntíng le yì pī bù ānquán de kuàngshān.",
+        "en": "Hükümet bir grup güvenli olmayan maden ocağını kapattı."
+      }
+    ]
+  },
+  {
+    "id": "w4455",
+    "hanzi": "矿石",
+    "pinyin": "kuàngshí",
+    "meaning": "Maden cevheri",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这批矿石含铁量很高。",
+        "pinyin": "Zhè pī kuàngshí hán tiěliàng hěn gāo.",
+        "en": "Bu maden cevheri partisi yüksek oranda demir içeriyor."
+      },
+      {
+        "zh": "工人们把矿石运出矿井。",
+        "pinyin": "Gōngrénmen bǎ kuàngshí yùnchū kuàngjǐng.",
+        "en": "İşçiler maden cevherini maden ocağından çıkardı."
+      },
+      {
+        "zh": "这种矿石可以提炼出黄金。",
+        "pinyin": "Zhè zhǒng kuàngshí kěyǐ tíliàn chū huángjīn.",
+        "en": "Bu tür cevherden altın elde edilebilir."
+      },
+      {
+        "zh": "矿石加工需要专业设备。",
+        "pinyin": "Kuàngshí jiāgōng xūyào zhuānyè shèbèi.",
+        "en": "Cevher işleme özel ekipman gerektirir."
+      },
+      {
+        "zh": "他们发现了一块珍贵的矿石。",
+        "pinyin": "Tāmen fāxiàn le yí kuài zhēnguì de kuàngshí.",
+        "en": "Değerli bir maden cevheri buldular."
+      }
+    ]
+  },
+  {
+    "id": "w4456",
+    "hanzi": "矿物",
+    "pinyin": "kuàngwù",
+    "meaning": "Mineral, maden",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这块石头含有多种矿物。",
+        "pinyin": "Zhè kuài shítou hányǒu duō zhǒng kuàngwù.",
+        "en": "Bu taş birçok mineral içeriyor."
+      },
+      {
+        "zh": "身体需要摄入各种矿物质。",
+        "pinyin": "Shēntǐ xūyào shèrù gèzhǒng kuàngwùzhì.",
+        "en": "Vücudun çeşitli mineraller alması gerekir."
+      },
+      {
+        "zh": "地质学家研究各种矿物的成分。",
+        "pinyin": "Dìzhìxuéjiā yánjiū gèzhǒng kuàngwù de chéngfèn.",
+        "en": "Jeologlar çeşitli minerallerin bileşimini araştırıyor."
+      },
+      {
+        "zh": "这种矿物在自然界中很稀有。",
+        "pinyin": "Zhè zhǒng kuàngwù zài zìránjiè zhōng hěn xīyǒu.",
+        "en": "Bu mineral doğada oldukça nadirdir."
+      },
+      {
+        "zh": "水果和蔬菜富含矿物质。",
+        "pinyin": "Shuǐguǒ hé shūcài fùhán kuàngwùzhì.",
+        "en": "Meyve ve sebzeler mineral bakımından zengindir."
+      }
+    ]
+  },
+  {
+    "id": "w4457",
+    "hanzi": "况且",
+    "pinyin": "kuàngqiě",
+    "meaning": "Üstelik, bundan başka, ayrıca",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这件衣服太贵了,况且颜色也不好看。",
+        "pinyin": "Zhè jiàn yīfu tài guì le, kuàngqiě yánsè yě bù hǎokàn.",
+        "en": "Bu kıyafet çok pahalı, üstelik rengi de güzel değil."
+      },
+      {
+        "zh": "我不想去,况且天气也不好。",
+        "pinyin": "Wǒ bù xiǎng qù, kuàngqiě tiānqì yě bù hǎo.",
+        "en": "Gitmek istemiyorum, üstelik hava da kötü."
+      },
+      {
+        "zh": "他不适合这份工作,况且他自己也不喜欢。",
+        "pinyin": "Tā bú shìhé zhè fèn gōngzuò, kuàngqiě tā zìjǐ yě bù xǐhuan.",
+        "en": "Bu iş ona uygun değil, üstelik kendisi de sevmiyor."
+      },
+      {
+        "zh": "现在太晚了,况且我们也累了。",
+        "pinyin": "Xiànzài tài wǎn le, kuàngqiě wǒmen yě lèi le.",
+        "en": "Artık çok geç oldu, üstelik biz de yorulduk."
+      },
+      {
+        "zh": "这个计划风险太大,况且成本也高。",
+        "pinyin": "Zhège jìhuà fēngxiǎn tài dà, kuàngqiě chéngběn yě gāo.",
+        "en": "Bu planın riski çok büyük, üstelik maliyeti de yüksek."
+      }
+    ]
   }
 ]

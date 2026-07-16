@@ -103504,5 +103504,464 @@
         "en": "Başarıyı elde etmek için bir bedel ödememiz gerekiyor."
       }
     ]
+  },
+  {
+    "id": "w2949",
+    "hanzi": "单词",
+    "pinyin": "dāncí",
+    "meaning": "kelime",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "我每天背二十个单词。",
+        "pinyin": "Wǒ měitiān bèi èrshí ge dāncí.",
+        "en": "Her gün yirmi kelime ezberliyorum."
+      },
+      {
+        "zh": "请查一下这个单词的意思。",
+        "pinyin": "Qǐng chá yíxià zhège dāncí de yìsi.",
+        "en": "Lütfen bu kelimenin anlamını kontrol edin."
+      },
+      {
+        "zh": "这个单词很难记。",
+        "pinyin": "Zhège dāncí hěn nán jì.",
+        "en": "Bu kelimeyi hatırlamak çok zor."
+      },
+      {
+        "zh": "老师让我们造句用这个单词。",
+        "pinyin": "Lǎoshī ràng wǒmen zàojù yòng zhège dāncí.",
+        "en": "Öğretmen bu kelimeyle cümle kurmamızı istedi."
+      },
+      {
+        "zh": "她认识很多英语单词。",
+        "pinyin": "Tā rènshi hěn duō Yīngyǔ dāncí.",
+        "en": "Birçok İngilizce kelime biliyor."
+      }
+    ]
+  },
+  {
+    "id": "w2952",
+    "hanzi": "胆固醇",
+    "pinyin": "dǎngùchún",
+    "meaning": "kolesterol",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生建议他少吃高胆固醇的食物。",
+        "pinyin": "Yīshēng jiànyì tā shǎo chī gāo dǎngùchún de shíwù.",
+        "en": "Doktor yüksek kolesterollü yiyeceklerden az yemesini önerdi."
+      },
+      {
+        "zh": "他的胆固醇水平偏高。",
+        "pinyin": "Tā de dǎngùchún shuǐpíng piān gāo.",
+        "en": "Kolesterol düzeyi biraz yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w2953",
+    "hanzi": "胆小",
+    "pinyin": "dǎnxiǎo",
+    "meaning": "korkak",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他从小就很胆小。",
+        "pinyin": "Tā cóngxiǎo jiù hěn dǎnxiǎo.",
+        "en": "Küçüklüğünden beri çok korkak."
+      },
+      {
+        "zh": "她胆小，不敢一个人走夜路。",
+        "pinyin": "Tā dǎnxiǎo, bù gǎn yí ge rén zǒu yèlù.",
+        "en": "Korkak olduğu için tek başına gece yürümeye cesaret edemiyor."
+      },
+      {
+        "zh": "别笑他胆小，每个人都有害怕的东西。",
+        "pinyin": "Bié xiào tā dǎnxiǎo, měi ge rén dōu yǒu hàipà de dōngxi.",
+        "en": "Korkak diye gülme, herkesin korktuğu bir şey vardır."
+      },
+      {
+        "zh": "这只小狗很胆小。",
+        "pinyin": "Zhè zhī xiǎogǒu hěn dǎnxiǎo.",
+        "en": "Bu yavru köpek çok ürkek."
+      },
+      {
+        "zh": "他胆小怕事，从不惹麻烦。",
+        "pinyin": "Tā dǎnxiǎo pàshì, cóng bù rě máfan.",
+        "en": "Çekingen biri, hiç sorun çıkarmaz."
+      }
+    ]
+  },
+  {
+    "id": "w2954",
+    "hanzi": "淡水",
+    "pinyin": "dànshuǐ",
+    "meaning": "tatlı su",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这条河的水是淡水。",
+        "pinyin": "Zhè tiáo hé de shuǐ shì dànshuǐ.",
+        "en": "Bu nehrin suyu tatlı sudur."
+      },
+      {
+        "zh": "世界上淡水资源十分有限。",
+        "pinyin": "Shìjiè shàng dànshuǐ zīyuán shífēn yǒuxiàn.",
+        "en": "Dünyadaki tatlı su kaynakları oldukça sınırlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w2955",
+    "hanzi": "但愿",
+    "pinyin": "dànyuàn",
+    "meaning": "umarım, inşallah",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "但愿明天天气好。",
+        "pinyin": "Dànyuàn míngtiān tiānqì hǎo.",
+        "en": "İnşallah yarın hava güzel olur."
+      },
+      {
+        "zh": "但愿她能早日康复。",
+        "pinyin": "Dànyuàn tā néng zǎorì kāngfù.",
+        "en": "Umarım en kısa sürede iyileşir."
+      }
+    ]
+  },
+  {
+    "id": "w2956",
+    "hanzi": "诞生",
+    "pinyin": "dànshēng",
+    "meaning": "doğmak, ortaya çıkmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个理论诞生于二十世纪初。",
+        "pinyin": "Zhège lǐlùn dànshēng yú èrshí shìjì chū.",
+        "en": "Bu teori yirminci yüzyılın başında ortaya çıktı."
+      },
+      {
+        "zh": "一个新生命诞生了。",
+        "pinyin": "Yí ge xīn shēngmìng dànshēng le.",
+        "en": "Yeni bir hayat doğdu."
+      },
+      {
+        "zh": "这个组织诞生于战争年代。",
+        "pinyin": "Zhège zǔzhī dànshēng yú zhànzhēng niándài.",
+        "en": "Bu örgüt savaş döneminde ortaya çıktı."
+      },
+      {
+        "zh": "新技术的诞生改变了人们的生活。",
+        "pinyin": "Xīn jìshù de dànshēng gǎibiàn le rénmen de shēnghuó.",
+        "en": "Yeni teknolojinin ortaya çıkışı insanların hayatını değiştirdi."
+      },
+      {
+        "zh": "这座城市诞生了许多伟大的艺术家。",
+        "pinyin": "Zhè zuò chéngshì dànshēng le xǔduō wěidà de yìshùjiā.",
+        "en": "Bu şehir birçok büyük sanatçı yetiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w2957",
+    "hanzi": "蛋白质",
+    "pinyin": "dànbáizhì",
+    "meaning": "protein",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "肉类含有丰富的蛋白质。",
+        "pinyin": "Ròulèi hányǒu fēngfù de dànbáizhì.",
+        "en": "Et ürünleri bol miktarda protein içerir."
+      },
+      {
+        "zh": "我们每天都需要摄入蛋白质。",
+        "pinyin": "Wǒmen měitiān dōu xūyào shèrù dànbáizhì.",
+        "en": "Her gün protein almamız gerekiyor."
+      },
+      {
+        "zh": "鸡蛋是很好的蛋白质来源。",
+        "pinyin": "Jīdàn shì hěn hǎo de dànbáizhì láiyuán.",
+        "en": "Yumurta iyi bir protein kaynağıdır."
+      },
+      {
+        "zh": "豆类食品也富含蛋白质。",
+        "pinyin": "Dòulèi shípǐn yě fùhán dànbáizhì.",
+        "en": "Baklagiller de protein açısından zengindir."
+      },
+      {
+        "zh": "运动员需要摄入更多的蛋白质。",
+        "pinyin": "Yùndòngyuán xūyào shèrù gèng duō de dànbáizhì.",
+        "en": "Sporcuların daha fazla protein alması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w2958",
+    "hanzi": "当兵",
+    "pinyin": "dāngbīng",
+    "meaning": "askere gitmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他去年去当兵了。",
+        "pinyin": "Tā qùnián qù dāngbīng le.",
+        "en": "Geçen yıl askere gitti."
+      },
+      {
+        "zh": "很多年轻人愿意当兵报效祖国。",
+        "pinyin": "Hěn duō niánqīngrén yuànyì dāngbīng bàoxiào zǔguó.",
+        "en": "Birçok genç vatana hizmet etmek için askere gitmeyi istiyor."
+      },
+      {
+        "zh": "他的哥哥在部队当兵。",
+        "pinyin": "Tā de gēge zài bùduì dāngbīng.",
+        "en": "Ağabeyi orduda askerlik yapıyor."
+      },
+      {
+        "zh": "他当了三年兵。",
+        "pinyin": "Tā dāng le sān nián bīng.",
+        "en": "Üç yıl askerlik yaptı."
+      },
+      {
+        "zh": "当兵的日子很辛苦但很有意义。",
+        "pinyin": "Dāngbīng de rìzi hěn xīnkǔ dàn hěn yǒu yìyì.",
+        "en": "Askerlik günleri zor ama çok anlamlı."
+      }
+    ]
+  },
+  {
+    "id": "w2959",
+    "hanzi": "当场",
+    "pinyin": "dāngchǎng",
+    "meaning": "o anda, olay yerinde",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他当场承认了错误。",
+        "pinyin": "Tā dāngchǎng chéngrèn le cuòwù.",
+        "en": "Olay yerinde hatasını kabul etti."
+      },
+      {
+        "zh": "警察当场逮捕了嫌疑人。",
+        "pinyin": "Jǐngchá dāngchǎng dàibǔ le xiányírén.",
+        "en": "Polis şüpheliyi olay yerinde tutukladı."
+      },
+      {
+        "zh": "她当场就哭了出来。",
+        "pinyin": "Tā dāngchǎng jiù kū le chūlái.",
+        "en": "O anda ağlamaya başladı."
+      },
+      {
+        "zh": "老板当场宣布了这个决定。",
+        "pinyin": "Lǎobǎn dāngchǎng xuānbù le zhège juédìng.",
+        "en": "Patron bu kararı o anda açıkladı."
+      },
+      {
+        "zh": "他被当场抓住了。",
+        "pinyin": "Tā bèi dāngchǎng zhuāzhù le.",
+        "en": "Suçüstü yakalandı."
+      }
+    ]
+  },
+  {
+    "id": "w2960",
+    "hanzi": "当初",
+    "pinyin": "dāngchū",
+    "meaning": "başlangıçta, ilk başta",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "当初我们并没有想到会成功。",
+        "pinyin": "Dāngchū wǒmen bìng méiyǒu xiǎngdào huì chénggōng.",
+        "en": "Başlangıçta başarılı olacağımızı hiç düşünmemiştik."
+      },
+      {
+        "zh": "她后悔当初的决定。",
+        "pinyin": "Tā hòuhuǐ dāngchū de juédìng.",
+        "en": "İlk başta verdiği kararı pişman."
+      },
+      {
+        "zh": "当初他反对这个计划。",
+        "pinyin": "Dāngchū tā fǎnduì zhège jìhuà.",
+        "en": "Başlangıçta bu plana karşıydı."
+      },
+      {
+        "zh": "我们当初认识的时候还是学生。",
+        "pinyin": "Wǒmen dāngchū rènshi de shíhou háishi xuésheng.",
+        "en": "İlk tanıştığımızda hâlâ öğrenciydik."
+      },
+      {
+        "zh": "当初谁也没想到事情会这样发展。",
+        "pinyin": "Dāngchū shéi yě méi xiǎngdào shìqing huì zhèyàng fāzhǎn.",
+        "en": "Başlangıçta kimse işlerin böyle gelişeceğini düşünmemişti."
+      }
+    ]
+  },
+  {
+    "id": "w2962",
+    "hanzi": "当面",
+    "pinyin": "dāngmiàn",
+    "meaning": "yüz yüze",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "请当面向她道歉。",
+        "pinyin": "Qǐng dāngmiàn xiàng tā dàoqiàn.",
+        "en": "Lütfen yüz yüze ondan özür dile."
+      },
+      {
+        "zh": "我想当面和你谈这个问题。",
+        "pinyin": "Wǒ xiǎng dāngmiàn hé nǐ tán zhège wèntí.",
+        "en": "Bu konuyu seninle yüz yüze konuşmak istiyorum."
+      },
+      {
+        "zh": "他当面拒绝了我的请求。",
+        "pinyin": "Tā dāngmiàn jùjué le wǒ de qǐngqiú.",
+        "en": "İsteğimi yüzüme karşı reddetti."
+      },
+      {
+        "zh": "有话请当面说清楚。",
+        "pinyin": "Yǒu huà qǐng dāngmiàn shuō qīngchu.",
+        "en": "Söyleyeceğin varsa lütfen yüz yüze açıkça söyle."
+      },
+      {
+        "zh": "她当面表达了自己的感激之情。",
+        "pinyin": "Tā dāngmiàn biǎodá le zìjǐ de gǎnjī zhī qíng.",
+        "en": "Minnettarlığını yüz yüze ifade etti."
+      }
+    ]
+  },
+  {
+    "id": "w2963",
+    "hanzi": "当年",
+    "pinyin": "dāngnián",
+    "meaning": "o yıl",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "当年他们一起创办了这家公司。",
+        "pinyin": "Dāngnián tāmen yìqǐ chuàngbàn le zhè jiā gōngsī.",
+        "en": "O yıl bu şirketi birlikte kurdular."
+      },
+      {
+        "zh": "我还记得当年的情景。",
+        "pinyin": "Wǒ hái jìde dāngnián de qíngjǐng.",
+        "en": "O yılın anılarını hâlâ hatırlıyorum."
+      },
+      {
+        "zh": "当年他还是个年轻的学生。",
+        "pinyin": "Dāngnián tā háishi ge niánqīng de xuésheng.",
+        "en": "O yıl hâlâ genç bir öğrenciydi."
+      },
+      {
+        "zh": "当年的梦想现在实现了。",
+        "pinyin": "Dāngnián de mèngxiǎng xiànzài shíxiàn le.",
+        "en": "O yıllardaki hayal şimdi gerçekleşti."
+      },
+      {
+        "zh": "当年这里还是一片荒地。",
+        "pinyin": "Dāngnián zhèlǐ háishi yí piàn huāngdì.",
+        "en": "O yıllarda burası hâlâ boş bir arazi idi."
+      }
+    ]
+  },
+  {
+    "id": "w2964",
+    "hanzi": "当心",
+    "pinyin": "dāngxīn",
+    "meaning": "dikkatli olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "过马路的时候要当心。",
+        "pinyin": "Guò mǎlù de shíhou yào dāngxīn.",
+        "en": "Yolu geçerken dikkatli olmak gerekir."
+      },
+      {
+        "zh": "当心地上很滑。",
+        "pinyin": "Dāngxīn dìshang hěn huá.",
+        "en": "Dikkat et, zemin çok kaygan."
+      },
+      {
+        "zh": "他提醒大家当心小偷。",
+        "pinyin": "Tā tíxǐng dàjiā dāngxīn xiǎotōu.",
+        "en": "Herkesi hırsızlara karşı dikkatli olmaları konusunda uyardı."
+      },
+      {
+        "zh": "当心别着凉了。",
+        "pinyin": "Dāngxīn bié zháoliáng le.",
+        "en": "Dikkat et, üşütme."
+      },
+      {
+        "zh": "开车时一定要当心行人。",
+        "pinyin": "Kāichē shí yídìng yào dāngxīn xíngrén.",
+        "en": "Araba kullanırken kesinlikle yayalara dikkat etmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w2965",
+    "hanzi": "党",
+    "pinyin": "dǎng",
+    "meaning": "parti (siyasi)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是这个党的成员。",
+        "pinyin": "Tā shì zhège dǎng de chéngyuán.",
+        "en": "Bu partinin üyesi."
+      },
+      {
+        "zh": "这个国家有很多政党。",
+        "pinyin": "Zhège guójiā yǒu hěn duō zhèngdǎng.",
+        "en": "Bu ülkede birçok siyasi parti var."
+      },
+      {
+        "zh": "她加入了执政党。",
+        "pinyin": "Tā jiārù le zhízhèngdǎng.",
+        "en": "İktidar partisine katıldı."
+      },
+      {
+        "zh": "各党派进行了激烈的辩论。",
+        "pinyin": "Gè dǎngpài jìnxíng le jīliè de biànlùn.",
+        "en": "Farklı partiler ateşli bir tartışma yaptı."
+      },
+      {
+        "zh": "这个党在选举中获胜了。",
+        "pinyin": "Zhège dǎng zài xuǎnjǔ zhōng huòshèng le.",
+        "en": "Bu parti seçimde kazandı."
+      }
+    ]
   }
 ]

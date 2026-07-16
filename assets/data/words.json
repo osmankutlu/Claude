@@ -125041,5 +125041,767 @@
         "en": "Bu haberin hiçbir dayanağı yok."
       }
     ]
+  },
+  {
+    "id": "w3648",
+    "hanzi": "合身",
+    "pinyin": "héshēn",
+    "meaning": "(giysi) tam oturmak, vücuda uymak",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "这件衣服很合身。",
+        "pinyin": "Zhè jiàn yīfu hěn héshēn.",
+        "en": "Bu kıyafet tam oturuyor."
+      },
+      {
+        "zh": "裤子不太合身。",
+        "pinyin": "Kùzi bú tài héshēn.",
+        "en": "Pantolon pek tam oturmuyor."
+      },
+      {
+        "zh": "这件外套穿在你身上很合身。",
+        "pinyin": "Zhè jiàn wàitào chuān zài nǐ shēnshang hěn héshēn.",
+        "en": "Bu ceket üzerinde çok güzel duruyor."
+      },
+      {
+        "zh": "她订做了一件合身的旗袍。",
+        "pinyin": "Tā dìngzuòle yí jiàn héshēn de qípáo.",
+        "en": "Kendine tam oturan bir qipao diktirdi."
+      },
+      {
+        "zh": "买衣服要选合身的。",
+        "pinyin": "Mǎi yīfu yào xuǎn héshēn de.",
+        "en": "Kıyafet alırken tam oturanı seçmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3649",
+    "hanzi": "合算",
+    "pinyin": "hésuàn",
+    "meaning": "hesaplı, kârlı, değer",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这个价钱很合算。",
+        "pinyin": "Zhège jiàqián hěn hésuàn.",
+        "en": "Bu fiyat çok hesaplı."
+      },
+      {
+        "zh": "买大包装更合算。",
+        "pinyin": "Mǎi dà bāozhuāng gèng hésuàn.",
+        "en": "Büyük paket almak daha hesaplı."
+      },
+      {
+        "zh": "坐火车比坐飞机更合算。",
+        "pinyin": "Zuò huǒchē bǐ zuò fēijī gèng hésuàn.",
+        "en": "Trenle gitmek uçaktan daha hesaplı."
+      },
+      {
+        "zh": "这样做不太合算。",
+        "pinyin": "Zhèyàng zuò bú tài hésuàn.",
+        "en": "Bunu böyle yapmak pek hesaplı değil."
+      },
+      {
+        "zh": "从长远看，这笔投资很合算。",
+        "pinyin": "Cóng chángyuǎn kàn, zhè bǐ tóuzī hěn hésuàn.",
+        "en": "Uzun vadede bu yatırım oldukça kârlı."
+      }
+    ]
+  },
+  {
+    "id": "w3650",
+    "hanzi": "合资",
+    "pinyin": "hézī",
+    "meaning": "ortak sermaye ile yatırım yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "两家公司合资成立了一家新企业。",
+        "pinyin": "Liǎng jiā gōngsī hézī chénglìle yì jiā xīn qǐyè.",
+        "en": "İki şirket ortak sermayeyle yeni bir işletme kurdu."
+      },
+      {
+        "zh": "这是一家中外合资企业。",
+        "pinyin": "Zhè shì yì jiā Zhōng-wài hézī qǐyè.",
+        "en": "Bu, Çin-yabancı ortaklığıyla kurulmuş bir şirket."
+      },
+      {
+        "zh": "他们打算合资建厂。",
+        "pinyin": "Tāmen dǎsuàn hézī jiàn chǎng.",
+        "en": "Ortak sermayeyle bir fabrika kurmayı planlıyorlar."
+      },
+      {
+        "zh": "合资公司的利润要按比例分配。",
+        "pinyin": "Hézī gōngsī de lìrùn yào àn bǐlì fēnpèi.",
+        "en": "Ortak şirketin kârı orana göre paylaştırılmalı."
+      },
+      {
+        "zh": "我们和一家外国企业合资经营。",
+        "pinyin": "Wǒmen hé yì jiā wàiguó qǐyè hézī jīngyíng.",
+        "en": "Yabancı bir şirketle ortak sermayeyle işletiyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w3651",
+    "hanzi": "何",
+    "pinyin": "hé",
+    "meaning": "ne, hangi (yazı dilinde soru sözcüğü)",
+    "partOfSpeech": "zamir",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这是何物？",
+        "pinyin": "Zhè shì hé wù?",
+        "en": "Bu nedir?"
+      },
+      {
+        "zh": "有何不可？",
+        "pinyin": "Yǒu hé bùkě?",
+        "en": "Ne sakıncası var?"
+      },
+      {
+        "zh": "此话从何说起？",
+        "pinyin": "Cǐ huà cóng hé shuō qǐ?",
+        "en": "Bu söze nereden başlamalı?"
+      },
+      {
+        "zh": "你意欲何为？",
+        "pinyin": "Nǐ yìyù hé wéi?",
+        "en": "Ne yapmak istiyorsun?"
+      },
+      {
+        "zh": "这究竟是为何？",
+        "pinyin": "Zhè jiūjìng shì wèihé?",
+        "en": "Bu aslında neden?"
+      }
+    ]
+  },
+  {
+    "id": "w3652",
+    "hanzi": "何不",
+    "pinyin": "hébù",
+    "meaning": "neden yapmıyorsun ki, olsa iyi olur",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "你何不早说？",
+        "pinyin": "Nǐ hébù zǎo shuō?",
+        "en": "Neden daha önce söylemedin?"
+      },
+      {
+        "zh": "天气这么好，何不出去走走？",
+        "pinyin": "Tiānqì zhème hǎo, hébù chūqù zǒuzou?",
+        "en": "Hava bu kadar güzelken neden dışarı çıkıp yürümüyorsun?"
+      },
+      {
+        "zh": "既然你有空，何不来帮帮我？",
+        "pinyin": "Jìrán nǐ yǒu kòng, hébù lái bāngbang wǒ?",
+        "en": "Madem vaktin var, neden gelip bana yardım etmiyorsun?"
+      },
+      {
+        "zh": "何不试一试呢？",
+        "pinyin": "Hébù shì yi shì ne?",
+        "en": "Neden bir denemiyorsun?"
+      },
+      {
+        "zh": "何不趁现在解决这个问题？",
+        "pinyin": "Hébù chèn xiànzài jiějué zhège wèntí?",
+        "en": "Neden bu sorunu şimdi çözmüyorsun?"
+      }
+    ]
+  },
+  {
+    "id": "w3653",
+    "hanzi": "何苦",
+    "pinyin": "hékǔ",
+    "meaning": "neden bu kadar uğraşıyorsun ki, değmez",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "你何苦为这点小事生气呢？",
+        "pinyin": "Nǐ hékǔ wèi zhè diǎn xiǎoshì shēngqì ne?",
+        "en": "Bu kadar küçük bir şey için neden bu kadar kızıyorsun ki?"
+      },
+      {
+        "zh": "何苦花这么多钱买这个东西？",
+        "pinyin": "Hékǔ huā zhème duō qián mǎi zhège dōngxi?",
+        "en": "Bu şey için bu kadar para harcamaya değer mi?"
+      }
+    ]
+  },
+  {
+    "id": "w3654",
+    "hanzi": "和好",
+    "pinyin": "héhǎo",
+    "meaning": "barışmak, aralarını bulmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们吵架后又和好了。",
+        "pinyin": "Tāmen chǎojià hòu yòu héhǎo le.",
+        "en": "Kavga ettikten sonra tekrar barıştılar."
+      },
+      {
+        "zh": "我希望你们能和好。",
+        "pinyin": "Wǒ xīwàng nǐmen néng héhǎo.",
+        "en": "Barışmanızı umuyorum."
+      },
+      {
+        "zh": "他主动去找朋友和好。",
+        "pinyin": "Tā zhǔdòng qù zhǎo péngyou héhǎo.",
+        "en": "Kendi isteğiyle arkadaşıyla barışmaya gitti."
+      },
+      {
+        "zh": "两国领导人努力促成和好。",
+        "pinyin": "Liǎng guó lǐngdǎorén nǔlì cùchéng héhǎo.",
+        "en": "İki ülkenin liderleri barışmayı sağlamak için çaba gösterdi."
+      },
+      {
+        "zh": "兄弟俩终于和好如初。",
+        "pinyin": "Xiōngdì liǎ zhōngyú héhǎo rúchū.",
+        "en": "İki kardeş sonunda eskisi gibi barıştı."
+      }
+    ]
+  },
+  {
+    "id": "w3655",
+    "hanzi": "和睦",
+    "pinyin": "hémù",
+    "meaning": "uyumlu, dostça",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他们一家人相处得很和睦。",
+        "pinyin": "Tāmen yì jiā rén xiāngchǔ de hěn hémù.",
+        "en": "Aile içinde çok uyumlu geçiniyorlar."
+      },
+      {
+        "zh": "邻里之间要和睦相处。",
+        "pinyin": "Línlǐ zhījiān yào hémù xiāngchǔ.",
+        "en": "Komşular arasında uyum içinde yaşamak gerekir."
+      },
+      {
+        "zh": "夫妻和睦是家庭幸福的基础。",
+        "pinyin": "Fūqī hémù shì jiātíng xìngfú de jīchǔ.",
+        "en": "Eşler arasındaki uyum, aile mutluluğunun temelidir."
+      },
+      {
+        "zh": "兄弟姐妹之间应该和睦相处。",
+        "pinyin": "Xiōngdì jiěmèi zhījiān yīnggāi hémù xiāngchǔ.",
+        "en": "Kardeşler arasında uyum içinde yaşanmalı."
+      },
+      {
+        "zh": "两国一直保持和睦关系。",
+        "pinyin": "Liǎng guó yìzhí bǎochí hémù guānxi.",
+        "en": "İki ülke sürekli dostane ilişkiler sürdürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w3656",
+    "hanzi": "和气",
+    "pinyin": "héqì",
+    "meaning": "nazik, sıcak, güler yüzlü",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他说话很和气。",
+        "pinyin": "Tā shuōhuà hěn héqì.",
+        "en": "Nazik konuşuyor."
+      },
+      {
+        "zh": "她对每个人都很和气。",
+        "pinyin": "Tā duì měi ge rén dōu hěn héqì.",
+        "en": "Herkese karşı çok naziktir."
+      },
+      {
+        "zh": "老板对员工很和气。",
+        "pinyin": "Lǎobǎn duì yuángōng hěn héqì.",
+        "en": "Patron çalışanlarına karşı çok naziktir."
+      },
+      {
+        "zh": "大家应该和气相处。",
+        "pinyin": "Dàjiā yīnggāi héqì xiāngchǔ.",
+        "en": "Herkes birbirine karşı nazik davranmalı."
+      },
+      {
+        "zh": "他态度和气，很受欢迎。",
+        "pinyin": "Tā tàidu héqì, hěn shòu huānyíng.",
+        "en": "Tavrı nazik olduğu için çok seviliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3657",
+    "hanzi": "和善",
+    "pinyin": "héshàn",
+    "meaning": "kibar ve nazik, sevimli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她的笑容很和善。",
+        "pinyin": "Tā de xiàoróng hěn héshàn.",
+        "en": "Onun gülümsemesi çok sevecen."
+      },
+      {
+        "zh": "老师对学生非常和善。",
+        "pinyin": "Lǎoshī duì xuésheng fēicháng héshàn.",
+        "en": "Öğretmen öğrencilerine karşı çok sevecendir."
+      },
+      {
+        "zh": "他是个和善的老人。",
+        "pinyin": "Tā shì ge héshàn de lǎorén.",
+        "en": "O sevecen bir yaşlı adam."
+      },
+      {
+        "zh": "她说话的语气很和善。",
+        "pinyin": "Tā shuōhuà de yǔqì hěn héshàn.",
+        "en": "Konuşma tonu çok naziktir."
+      },
+      {
+        "zh": "邻居对我们一直很和善。",
+        "pinyin": "Línjū duì wǒmen yìzhí hěn héshàn.",
+        "en": "Komşumuz bize karşı hep naziktir."
+      }
+    ]
+  },
+  {
+    "id": "w3658",
+    "hanzi": "和尚",
+    "pinyin": "héshàng",
+    "meaning": "budist rahip",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "寺庙里住着几位和尚。",
+        "pinyin": "Sìmiào lǐ zhùzhe jǐ wèi héshàng.",
+        "en": "Tapınakta birkaç rahip yaşıyor."
+      },
+      {
+        "zh": "那个和尚每天早上念经。",
+        "pinyin": "Nàge héshàng měitiān zǎoshang niànjīng.",
+        "en": "O rahip her sabah dua okur."
+      },
+      {
+        "zh": "他年轻时出家当了和尚。",
+        "pinyin": "Tā niánqīng shí chūjiā dāngle héshàng.",
+        "en": "Gençken evini terk edip rahip oldu."
+      },
+      {
+        "zh": "和尚不吃肉。",
+        "pinyin": "Héshàng bù chī ròu.",
+        "en": "Rahipler et yemez."
+      },
+      {
+        "zh": "山上有一座和尚庙。",
+        "pinyin": "Shān shàng yǒu yí zuò héshàng miào.",
+        "en": "Dağda bir Budist tapınağı var."
+      }
+    ]
+  },
+  {
+    "id": "w3659",
+    "hanzi": "和谈",
+    "pinyin": "hétán",
+    "meaning": "barış görüşmeleri",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "双方同意举行和谈。",
+        "pinyin": "Shuāngfāng tóngyì jǔxíng hétán.",
+        "en": "Her iki taraf barış görüşmeleri yapmayı kabul etti."
+      },
+      {
+        "zh": "和谈进行得很顺利。",
+        "pinyin": "Hétán jìnxíng de hěn shùnlì.",
+        "en": "Barış görüşmeleri sorunsuz ilerliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3660",
+    "hanzi": "和谐",
+    "pinyin": "héxié",
+    "meaning": "ahenkli, uyumlu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个家庭很和谐。",
+        "pinyin": "Zhège jiātíng hěn héxié.",
+        "en": "Bu aile çok uyumlu."
+      },
+      {
+        "zh": "我们要建设一个和谐的社会。",
+        "pinyin": "Wǒmen yào jiànshè yí ge héxié de shèhuì.",
+        "en": "Uyumlu bir toplum inşa etmeliyiz."
+      },
+      {
+        "zh": "色彩搭配得很和谐。",
+        "pinyin": "Sècǎi dāpèi de hěn héxié.",
+        "en": "Renk uyumu çok başarılı."
+      },
+      {
+        "zh": "人与自然要和谐相处。",
+        "pinyin": "Rén yǔ zìrán yào héxié xiāngchǔ.",
+        "en": "İnsan ve doğa uyum içinde yaşamalı."
+      },
+      {
+        "zh": "团队合作需要和谐的关系。",
+        "pinyin": "Tuánduì hézuò xūyào héxié de guānxi.",
+        "en": "Ekip çalışması uyumlu ilişkiler gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w3661",
+    "hanzi": "鹤",
+    "pinyin": "hè",
+    "meaning": "turna",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "湖边有几只白鹤。",
+        "pinyin": "Hú biān yǒu jǐ zhī báihè.",
+        "en": "Gölün kenarında birkaç beyaz turna var."
+      },
+      {
+        "zh": "鹤是一种优雅的鸟。",
+        "pinyin": "Hè shì yì zhǒng yōuyǎ de niǎo.",
+        "en": "Turna, zarif bir kuş türüdür."
+      },
+      {
+        "zh": "这幅画上画着一只鹤。",
+        "pinyin": "Zhè fú huà shàng huàzhe yì zhī hè.",
+        "en": "Bu resimde bir turna çizilmiş."
+      },
+      {
+        "zh": "鹤在中国文化中象征长寿。",
+        "pinyin": "Hè zài Zhōngguó wénhuà zhōng xiàngzhēng chángshòu.",
+        "en": "Turna, Çin kültüründe uzun ömrü simgeler."
+      },
+      {
+        "zh": "我们在动物园看到了丹顶鹤。",
+        "pinyin": "Wǒmen zài dòngwùyuán kàndàole dāndǐnghè.",
+        "en": "Hayvanat bahçesinde kızıl taçlı turna gördük."
+      }
+    ]
+  },
+  {
+    "id": "w3662",
+    "hanzi": "贺",
+    "pinyin": "hè",
+    "meaning": "tebrik etmek, kutlamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "大家都来祝贺他。",
+        "pinyin": "Dàjiā dōu lái zhùhè tā.",
+        "en": "Herkes onu tebrik etmeye geldi."
+      },
+      {
+        "zh": "我向你表示祝贺。",
+        "pinyin": "Wǒ xiàng nǐ biǎoshì zhùhè.",
+        "en": "Sana tebriklerimi sunuyorum."
+      },
+      {
+        "zh": "他写信贺我生日快乐。",
+        "pinyin": "Tā xiěxìn hè wǒ shēngrì kuàilè.",
+        "en": "Doğum günümü kutlamak için mektup yazdı."
+      },
+      {
+        "zh": "亲朋好友都来贺喜。",
+        "pinyin": "Qīnpéng hǎoyǒu dōu lái hè xǐ.",
+        "en": "Akraba ve dostlar mutlu haberi kutlamaya geldi."
+      },
+      {
+        "zh": "大家举杯贺新年。",
+        "pinyin": "Dàjiā jǔ bēi hè xīnnián.",
+        "en": "Herkes kadeh kaldırıp yeni yılı kutladı."
+      }
+    ]
+  },
+  {
+    "id": "w3663",
+    "hanzi": "黑暗",
+    "pinyin": "hēi'àn",
+    "meaning": "karanlık",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "房间里很黑暗。",
+        "pinyin": "Fángjiān lǐ hěn hēi'àn.",
+        "en": "Oda çok karanlık."
+      },
+      {
+        "zh": "他害怕黑暗。",
+        "pinyin": "Tā hàipà hēi'àn.",
+        "en": "O karanlıktan korkuyor."
+      },
+      {
+        "zh": "那是一个黑暗的年代。",
+        "pinyin": "Nà shì yí ge hēi'àn de niándài.",
+        "en": "O karanlık bir dönemdi."
+      },
+      {
+        "zh": "森林里一片黑暗。",
+        "pinyin": "Sēnlín lǐ yí piàn hēi'àn.",
+        "en": "Ormanın içi tamamen karanlıktı."
+      },
+      {
+        "zh": "光明终将战胜黑暗。",
+        "pinyin": "Guāngmíng zhōng jiāng zhànshèng hēi'àn.",
+        "en": "Işık sonunda karanlığı yenecek."
+      }
+    ]
+  },
+  {
+    "id": "w3664",
+    "hanzi": "黑白",
+    "pinyin": "hēibái",
+    "meaning": "siyah beyaz; doğru ve yanlış",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这是一张黑白照片。",
+        "pinyin": "Zhè shì yì zhāng hēibái zhàopiàn.",
+        "en": "Bu siyah beyaz bir fotoğraf."
+      },
+      {
+        "zh": "老电影大多是黑白的。",
+        "pinyin": "Lǎo diànyǐng dàduō shì hēibái de.",
+        "en": "Eski filmlerin çoğu siyah beyazdır."
+      },
+      {
+        "zh": "他不分黑白，胡乱指责别人。",
+        "pinyin": "Tā bù fēn hēibái, húluàn zhǐzé biérén.",
+        "en": "Doğru yanlış ayırt etmeden başkalarını suçluyor."
+      },
+      {
+        "zh": "这台电视是黑白的。",
+        "pinyin": "Zhè tái diànshì shì hēibái de.",
+        "en": "Bu televizyon siyah beyazdır."
+      },
+      {
+        "zh": "我们要分清黑白是非。",
+        "pinyin": "Wǒmen yào fēnqīng hēibái shìfēi.",
+        "en": "Doğru ile yanlışı net biçimde ayırt etmeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w3665",
+    "hanzi": "黑名单",
+    "pinyin": "hēimíngdān",
+    "meaning": "kara liste",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被列入了黑名单。",
+        "pinyin": "Tā bèi lièrù le hēimíngdān.",
+        "en": "O kara listeye alındı."
+      },
+      {
+        "zh": "这家公司上了黑名单。",
+        "pinyin": "Zhè jiā gōngsī shàngle hēimíngdān.",
+        "en": "Bu şirket kara listeye girdi."
+      },
+      {
+        "zh": "政府公布了一份黑名单。",
+        "pinyin": "Zhèngfǔ gōngbùle yí fèn hēimíngdān.",
+        "en": "Hükümet bir kara liste yayınladı."
+      },
+      {
+        "zh": "他的名字从黑名单上删除了。",
+        "pinyin": "Tā de míngzi cóng hēimíngdān shàng shānchú le.",
+        "en": "Adı kara listeden silindi."
+      },
+      {
+        "zh": "这些商家因欺诈被列入黑名单。",
+        "pinyin": "Zhèxiē shāngjiā yīn qīzhà bèi lièrù hēimíngdān.",
+        "en": "Bu işletmeler dolandırıcılık nedeniyle kara listeye alındı."
+      }
+    ]
+  },
+  {
+    "id": "w3666",
+    "hanzi": "黑人",
+    "pinyin": "hēirén",
+    "meaning": "siyahi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他是一位著名的黑人歌手。",
+        "pinyin": "Tā shì yí wèi zhùmíng de hēirén gēshǒu.",
+        "en": "O ünlü bir siyahi şarkıcıdır."
+      },
+      {
+        "zh": "美国有很多黑人。",
+        "pinyin": "Měiguó yǒu hěn duō hēirén.",
+        "en": "Amerika'da birçok siyahi insan var."
+      },
+      {
+        "zh": "黑人文化对音乐影响很大。",
+        "pinyin": "Hēirén wénhuà duì yīnyuè yǐngxiǎng hěn dà.",
+        "en": "Siyahi kültürü müziği büyük ölçüde etkiledi."
+      },
+      {
+        "zh": "他和一位黑人女孩结婚了。",
+        "pinyin": "Tā hé yí wèi hēirén nǚhái jiéhūn le.",
+        "en": "Siyahi bir kadınla evlendi."
+      },
+      {
+        "zh": "这部电影讲述了黑人的历史。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshùle hēirén de lìshǐ.",
+        "en": "Bu film siyahilerin tarihini anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3667",
+    "hanzi": "黑市",
+    "pinyin": "hēishì",
+    "meaning": "karaborsa",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这些货物是从黑市买来的。",
+        "pinyin": "Zhèxiē huòwù shì cóng hēishì mǎilái de.",
+        "en": "Bu mallar karaborsadan alındı."
+      },
+      {
+        "zh": "黑市上的价格比正常价格高。",
+        "pinyin": "Hēishì shàng de jiàgé bǐ zhèngcháng jiàgé gāo.",
+        "en": "Karaborsadaki fiyatlar normal fiyattan yüksek."
+      },
+      {
+        "zh": "政府打击黑市交易。",
+        "pinyin": "Zhèngfǔ dǎjī hēishì jiāoyì.",
+        "en": "Hükümet karaborsa ticaretini engelliyor."
+      },
+      {
+        "zh": "外汇黑市依然存在。",
+        "pinyin": "Wàihuì hēishì yīrán cúnzài.",
+        "en": "Döviz karaborsası hâlâ mevcut."
+      },
+      {
+        "zh": "他因参与黑市交易被捕。",
+        "pinyin": "Tā yīn cānyù hēishì jiāoyì bèi bǔ.",
+        "en": "Karaborsa ticaretine karıştığı için tutuklandı."
+      }
+    ]
+  },
+  {
+    "id": "w3668",
+    "hanzi": "黑夜",
+    "pinyin": "hēiyè",
+    "meaning": "gece, karanlık gece",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "黑夜降临了。",
+        "pinyin": "Hēiyè jiànglín le.",
+        "en": "Karanlık gece çöktü."
+      },
+      {
+        "zh": "他在黑夜中独自行走。",
+        "pinyin": "Tā zài hēiyè zhōng dúzì xíngzǒu.",
+        "en": "Karanlık gecede tek başına yürüyordu."
+      },
+      {
+        "zh": "白天和黑夜交替出现。",
+        "pinyin": "Báitiān hé hēiyè jiāotì chūxiàn.",
+        "en": "Gündüz ve gece birbirini takip eder."
+      },
+      {
+        "zh": "黑夜里星星特别亮。",
+        "pinyin": "Hēiyè lǐ xīngxing tèbié liàng.",
+        "en": "Karanlık gecede yıldızlar özellikle parlaktır."
+      },
+      {
+        "zh": "我们在黑夜中赶路。",
+        "pinyin": "Wǒmen zài hēiyè zhōng gǎnlù.",
+        "en": "Karanlık gecede yolumuza devam ettik."
+      }
+    ]
+  },
+  {
+    "id": "w3669",
+    "hanzi": "痕迹",
+    "pinyin": "hénjì",
+    "meaning": "iz, kalıntı, eser",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "墙上留下了火烧的痕迹。",
+        "pinyin": "Qiáng shàng liúxiàle huǒshāo de hénjì.",
+        "en": "Duvarda yanık izleri kaldı."
+      },
+      {
+        "zh": "岁月在他脸上留下了痕迹。",
+        "pinyin": "Suìyuè zài tā liǎn shàng liúxiàle hénjì.",
+        "en": "Yıllar yüzünde izler bıraktı."
+      },
+      {
+        "zh": "雪地上留下了动物的痕迹。",
+        "pinyin": "Xuědì shàng liúxiàle dòngwù de hénjì.",
+        "en": "Karda hayvan izleri kaldı."
+      },
+      {
+        "zh": "这场事故没有留下明显痕迹。",
+        "pinyin": "Zhè chǎng shìgù méiyǒu liúxià míngxiǎn hénjì.",
+        "en": "Bu kaza belirgin izler bırakmadı."
+      },
+      {
+        "zh": "历史的痕迹随处可见。",
+        "pinyin": "Lìshǐ de hénjì suíchù kějiàn.",
+        "en": "Tarihin izleri her yerde görülebilir."
+      }
+    ]
   }
 ]

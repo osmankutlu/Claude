@@ -118045,5 +118045,635 @@
         "en": "Bir dizi yenilik önerisi sundu."
       }
     ]
+  },
+  {
+    "id": "w3426",
+    "hanzi": "更新",
+    "pinyin": "gēngxīn",
+    "meaning": "güncellemek, yenilemek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "请更新你的手机系统。",
+        "pinyin": "Qǐng gēngxīn nǐ de shǒujī xìtǒng.",
+        "en": "Lütfen telefonunuzun sistemini güncelleyin."
+      },
+      {
+        "zh": "网站信息每天都在更新。",
+        "pinyin": "Wǎngzhàn xìnxī měitiān dōu zài gēngxīn.",
+        "en": "Web sitesi bilgileri her gün güncelleniyor."
+      },
+      {
+        "zh": "这个软件需要更新了。",
+        "pinyin": "Zhège ruǎnjiàn xūyào gēngxīn le.",
+        "en": "Bu yazılımın güncellenmesi gerekiyor."
+      },
+      {
+        "zh": "公司更新了办公设备。",
+        "pinyin": "Gōngsī gēngxīn le bàngōng shèbèi.",
+        "en": "Şirket ofis ekipmanlarını yeniledi."
+      },
+      {
+        "zh": "请及时更新你的密码。",
+        "pinyin": "Qǐng jíshí gēngxīn nǐ de mìmǎ.",
+        "en": "Lütfen şifrenizi zamanında güncelleyin."
+      }
+    ]
+  },
+  {
+    "id": "w3427",
+    "hanzi": "工程",
+    "pinyin": "gōngchéng",
+    "meaning": "mühendislik, proje",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这项工程预计明年完工。",
+        "pinyin": "Zhè xiàng gōngchéng yùjì míngnián wángōng.",
+        "en": "Bu projenin gelecek yıl tamamlanması bekleniyor."
+      },
+      {
+        "zh": "他学的是土木工程专业。",
+        "pinyin": "Tā xué de shì tǔmù gōngchéng zhuānyè.",
+        "en": "İnşaat mühendisliği okuyor."
+      },
+      {
+        "zh": "这座大桥是一项浩大的工程。",
+        "pinyin": "Zhè zuò dàqiáo shì yí xiàng hàodà de gōngchéng.",
+        "en": "Bu büyük köprü devasa bir projedir."
+      },
+      {
+        "zh": "工程队正在加紧施工。",
+        "pinyin": "Gōngchéngduì zhèngzài jiājǐn shīgōng.",
+        "en": "İnşaat ekibi hızla çalışıyor."
+      },
+      {
+        "zh": "这项工程投资巨大。",
+        "pinyin": "Zhè xiàng gōngchéng tóuzī jùdà.",
+        "en": "Bu proje büyük bir yatırım gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3428",
+    "hanzi": "工地",
+    "pinyin": "gōngdì",
+    "meaning": "şantiye",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工地上很多工人在忙碌工作。",
+        "pinyin": "Gōngdì shàng hěn duō gōngrén zài mánglù gōngzuò.",
+        "en": "Şantiyede birçok işçi yoğun bir şekilde çalışıyor."
+      },
+      {
+        "zh": "请勿进入施工工地。",
+        "pinyin": "Qǐng wù jìnrù shīgōng gōngdì.",
+        "en": "Lütfen inşaat sahasına girmeyin."
+      },
+      {
+        "zh": "工地上堆放着建筑材料。",
+        "pinyin": "Gōngdì shàng duīfàng zhe jiànzhù cáiliào.",
+        "en": "Şantiyede inşaat malzemeleri yığılmış."
+      },
+      {
+        "zh": "他每天要去工地检查进度。",
+        "pinyin": "Tā měitiān yào qù gōngdì jiǎnchá jìndù.",
+        "en": "Her gün ilerlemeyi kontrol etmek için şantiyeye gidiyor."
+      },
+      {
+        "zh": "工地上必须戴安全帽。",
+        "pinyin": "Gōngdì shàng bìxū dài ānquánmào.",
+        "en": "Şantiyede baret takılması zorunludur."
+      }
+    ]
+  },
+  {
+    "id": "w3429",
+    "hanzi": "格式",
+    "pinyin": "géshì",
+    "meaning": "format, biçim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "请按照正确的格式提交文件。",
+        "pinyin": "Qǐng ànzhào zhèngquè de géshì tíjiāo wénjiàn.",
+        "en": "Lütfen dosyayı doğru formatta gönderin."
+      },
+      {
+        "zh": "这个文档的格式不对。",
+        "pinyin": "Zhège wéndàng de géshì bú duì.",
+        "en": "Bu belgenin formatı yanlış."
+      },
+      {
+        "zh": "请调整一下报告的格式。",
+        "pinyin": "Qǐng tiáozhěng yíxià bàogào de géshì.",
+        "en": "Lütfen raporun formatını ayarlayın."
+      },
+      {
+        "zh": "不同的软件支持不同的文件格式。",
+        "pinyin": "Bùtóng de ruǎnjiàn zhīchí bùtóng de wénjiàn géshì.",
+        "en": "Farklı yazılımlar farklı dosya formatlarını destekler."
+      },
+      {
+        "zh": "这封信的格式非常正式。",
+        "pinyin": "Zhè fēng xìn de géshì fēicháng zhèngshì.",
+        "en": "Bu mektubun formatı çok resmi."
+      }
+    ]
+  },
+  {
+    "id": "w3430",
+    "hanzi": "格言",
+    "pinyin": "géyán",
+    "meaning": "özdeyiş, vecize",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这句格言很有哲理。",
+        "pinyin": "Zhè jù géyán hěn yǒu zhélǐ.",
+        "en": "Bu özdeyiş çok felsefi."
+      },
+      {
+        "zh": "他的书桌上贴着一句格言。",
+        "pinyin": "Tā de shūzhuō shàng tiē zhe yí jù géyán.",
+        "en": "Çalışma masasına bir özdeyiş yapıştırılmış."
+      },
+      {
+        "zh": "老师经常引用名人格言。",
+        "pinyin": "Lǎoshī jīngcháng yǐnyòng míngrén géyán.",
+        "en": "Öğretmen sık sık ünlü kişilerin özdeyişlerinden alıntı yapar."
+      },
+      {
+        "zh": "这本书收录了许多经典格言。",
+        "pinyin": "Zhè běn shū shōulù le xǔduō jīngdiǎn géyán.",
+        "en": "Bu kitap birçok klasik özdeyişi içeriyor."
+      },
+      {
+        "zh": "她把这句格言当作座右铭。",
+        "pinyin": "Tā bǎ zhè jù géyán dàngzuò zuòyòumíng.",
+        "en": "Bu özdeyişi kendine düstur edindi."
+      }
+    ]
+  },
+  {
+    "id": "w3431",
+    "hanzi": "个体",
+    "pinyin": "gètǐ",
+    "meaning": "birey",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "每个人都是独立的个体。",
+        "pinyin": "Měi ge rén dōu shì dúlì de gètǐ.",
+        "en": "Her insan bağımsız bir bireydir."
+      },
+      {
+        "zh": "社会由无数个体组成。",
+        "pinyin": "Shèhuì yóu wúshù gètǐ zǔchéng.",
+        "en": "Toplum sayısız bireyden oluşur."
+      },
+      {
+        "zh": "尊重个体差异很重要。",
+        "pinyin": "Zūnzhòng gètǐ chāyì hěn zhòngyào.",
+        "en": "Bireysel farklılıklara saygı göstermek önemlidir."
+      },
+      {
+        "zh": "他经营着一家个体商店。",
+        "pinyin": "Tā jīngyíng zhe yì jiā gètǐ shāngdiàn.",
+        "en": "Bireysel bir dükkan işletiyor."
+      },
+      {
+        "zh": "每个个体都有自己的价值。",
+        "pinyin": "Měi ge gètǐ dōu yǒu zìjǐ de jiàzhí.",
+        "en": "Her birey kendine has bir değere sahiptir."
+      }
+    ]
+  },
+  {
+    "id": "w3432",
+    "hanzi": "跟随",
+    "pinyin": "gēnsuí",
+    "meaning": "takip etmek, peşinden gitmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "小狗一直跟随着主人。",
+        "pinyin": "Xiǎogǒu yìzhí gēnsuí zhe zhǔrén.",
+        "en": "Köpek sürekli sahibini takip ediyor."
+      },
+      {
+        "zh": "请大家跟随导游前进。",
+        "pinyin": "Qǐng dàjiā gēnsuí dǎoyóu qiánjìn.",
+        "en": "Lütfen herkes rehberi takip etsin."
+      },
+      {
+        "zh": "他决定跟随自己的内心。",
+        "pinyin": "Tā juédìng gēnsuí zìjǐ de nèixīn.",
+        "en": "Kendi kalbini takip etmeye karar verdi."
+      },
+      {
+        "zh": "士兵们跟随将军冲锋陷阵。",
+        "pinyin": "Shìbīngmen gēnsuí jiāngjūn chōngfēng-xiànzhèn.",
+        "en": "Askerler generali takip ederek saldırıya geçti."
+      },
+      {
+        "zh": "越来越多的人跟随这一潮流。",
+        "pinyin": "Yuè lái yuè duō de rén gēnsuí zhè yī cháoliú.",
+        "en": "Giderek daha fazla insan bu trendi takip ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3433",
+    "hanzi": "跟踪",
+    "pinyin": "gēnzōng",
+    "meaning": "yakından takip etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "警察正在跟踪嫌疑犯。",
+        "pinyin": "Jǐngchá zhèngzài gēnzōng xiányífàn.",
+        "en": "Polis şüpheliyi takip ediyor."
+      },
+      {
+        "zh": "这个软件可以跟踪快递的位置。",
+        "pinyin": "Zhège ruǎnjiàn kěyǐ gēnzōng kuàidì de wèizhi.",
+        "en": "Bu yazılım kargonun konumunu takip edebilir."
+      },
+      {
+        "zh": "记者一直跟踪报道这个事件。",
+        "pinyin": "Jìzhě yìzhí gēnzōng bàodào zhège shìjiàn.",
+        "en": "Muhabir bu olayı sürekli takip ederek haber yaptı."
+      },
+      {
+        "zh": "卫星可以跟踪飓风的移动路径。",
+        "pinyin": "Wèixīng kěyǐ gēnzōng jùfēng de yídòng lùjìng.",
+        "en": "Uydu kasırganın hareket yolunu takip edebilir."
+      },
+      {
+        "zh": "他怀疑有人在跟踪他。",
+        "pinyin": "Tā huáiyí yǒurén zài gēnzōng tā.",
+        "en": "Birinin onu takip ettiğinden şüpheleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w3434",
+    "hanzi": "更改",
+    "pinyin": "gēnggǎi",
+    "meaning": "değiştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请不要随意更改计划。",
+        "pinyin": "Qǐng búyào suíyì gēnggǎi jìhuà.",
+        "en": "Lütfen planı keyfi olarak değiştirmeyin."
+      },
+      {
+        "zh": "他更改了自己的姓名。",
+        "pinyin": "Tā gēnggǎi le zìjǐ de xìngmíng.",
+        "en": "Kendi adını değiştirdi."
+      },
+      {
+        "zh": "合同条款不能随便更改。",
+        "pinyin": "Hétong tiáokuǎn bù néng suíbiàn gēnggǎi.",
+        "en": "Sözleşme maddeleri keyfi olarak değiştirilemez."
+      },
+      {
+        "zh": "请及时更改航班信息。",
+        "pinyin": "Qǐng jíshí gēnggǎi hángbān xìnxī.",
+        "en": "Lütfen uçuş bilgilerini zamanında değiştirin."
+      },
+      {
+        "zh": "密码更改后需要重新登录。",
+        "pinyin": "Mìmǎ gēnggǎi hòu xūyào chóngxīn dēnglù.",
+        "en": "Şifre değiştirildikten sonra yeniden giriş yapılması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3435",
+    "hanzi": "耕地",
+    "pinyin": "gēngdì",
+    "meaning": "tarım arazisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这片耕地面积很大。",
+        "pinyin": "Zhè piàn gēngdì miànjī hěn dà.",
+        "en": "Bu tarım arazisinin yüzölçümü çok büyük."
+      },
+      {
+        "zh": "政府保护耕地资源。",
+        "pinyin": "Zhèngfǔ bǎohù gēngdì zīyuán.",
+        "en": "Hükümet tarım arazisi kaynaklarını koruyor."
+      },
+      {
+        "zh": "农民辛勤耕地。",
+        "pinyin": "Nóngmín xīnqín gēngdì.",
+        "en": "Çiftçi tarlayı özenle sürüyor."
+      },
+      {
+        "zh": "城市扩张占用了大量耕地。",
+        "pinyin": "Chéngshì kuòzhāng zhànyòng le dàliàng gēngdì.",
+        "en": "Şehrin genişlemesi büyük miktarda tarım arazisi işgal etti."
+      },
+      {
+        "zh": "这个村庄的耕地非常肥沃。",
+        "pinyin": "Zhège cūnzhuāng de gēngdì fēicháng féiwò.",
+        "en": "Bu köyün tarım arazisi çok verimli."
+      }
+    ]
+  },
+  {
+    "id": "w3436",
+    "hanzi": "供应",
+    "pinyin": "gōngyìng",
+    "meaning": "tedarik etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这家工厂供应原材料给我们。",
+        "pinyin": "Zhè jiā gōngchǎng gōngyìng yuáncáiliào gěi wǒmen.",
+        "en": "Bu fabrika bize hammadde tedarik ediyor."
+      },
+      {
+        "zh": "电力供应出现了问题。",
+        "pinyin": "Diànlì gōngyìng chūxiàn le wèntí.",
+        "en": "Elektrik tedarikinde sorun yaşandı."
+      },
+      {
+        "zh": "市场食品供应充足。",
+        "pinyin": "Shìchǎng shípǐn gōngyìng chōngzú.",
+        "en": "Piyasada yiyecek tedariki yeterli."
+      },
+      {
+        "zh": "公司需要稳定的供应商。",
+        "pinyin": "Gōngsī xūyào wěndìng de gōngyìngshāng.",
+        "en": "Şirketin istikrarlı bir tedarikçiye ihtiyacı var."
+      },
+      {
+        "zh": "水资源供应紧张。",
+        "pinyin": "Shuǐ zīyuán gōngyìng jǐnzhāng.",
+        "en": "Su kaynağı tedariki sıkıntılı."
+      }
+    ]
+  },
+  {
+    "id": "w3437",
+    "hanzi": "攻击",
+    "pinyin": "gōngjī",
+    "meaning": "saldırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "敌军突然发动了攻击。",
+        "pinyin": "Díjūn tūrán fādòng le gōngjī.",
+        "en": "Düşman ordusu aniden saldırıya geçti."
+      },
+      {
+        "zh": "请不要用言语攻击别人。",
+        "pinyin": "Qǐng búyào yòng yányǔ gōngjī biérén.",
+        "en": "Lütfen sözle başkalarına saldırmayın."
+      },
+      {
+        "zh": "这种病毒会攻击人体免疫系统。",
+        "pinyin": "Zhè zhǒng bìngdú huì gōngjī réntǐ miǎnyì xìtǒng.",
+        "en": "Bu virüs insan bağışıklık sistemine saldırır."
+      },
+      {
+        "zh": "网络攻击给公司造成了损失。",
+        "pinyin": "Wǎngluò gōngjī gěi gōngsī zàochéng le sǔnshī.",
+        "en": "Siber saldırı şirkete zarar verdi."
+      },
+      {
+        "zh": "球队采取了猛烈的进攻。",
+        "pinyin": "Qiúduì cǎiqǔ le měngliè de jìngōng.",
+        "en": "Takım şiddetli bir hücum stratejisi izledi."
+      }
+    ]
+  },
+  {
+    "id": "w3438",
+    "hanzi": "阁楼",
+    "pinyin": "gélóu",
+    "meaning": "çatı katı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他们把阁楼改造成了书房。",
+        "pinyin": "Tāmen bǎ gélóu gǎizào chéng le shūfáng.",
+        "en": "Çatı katını çalışma odasına dönüştürdüler."
+      },
+      {
+        "zh": "阁楼里堆满了旧家具。",
+        "pinyin": "Gélóu lǐ duīmǎn le jiù jiājù.",
+        "en": "Çatı katı eski mobilyalarla dolu."
+      },
+      {
+        "zh": "这栋房子有一个漂亮的阁楼。",
+        "pinyin": "Zhè dòng fángzi yǒu yí ge piàoliang de gélóu.",
+        "en": "Bu evin güzel bir çatı katı var."
+      },
+      {
+        "zh": "孩子们喜欢在阁楼里探险。",
+        "pinyin": "Háizimen xǐhuan zài gélóu lǐ tànxiǎn.",
+        "en": "Çocuklar çatı katında keşfetmeyi seviyor."
+      },
+      {
+        "zh": "阁楼的窗户很小。",
+        "pinyin": "Gélóu de chuānghu hěn xiǎo.",
+        "en": "Çatı katının penceresi çok küçük."
+      }
+    ]
+  },
+  {
+    "id": "w3439",
+    "hanzi": "隔离",
+    "pinyin": "gélí",
+    "meaning": "izole etmek, ayırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "病人需要隔离治疗。",
+        "pinyin": "Bìngrén xūyào gélí zhìliáo.",
+        "en": "Hastanın izole tedavi edilmesi gerekiyor."
+      },
+      {
+        "zh": "医院设立了专门的隔离病房。",
+        "pinyin": "Yīyuàn shèlì le zhuānmén de gélí bìngfáng.",
+        "en": "Hastane özel bir izolasyon koğuşu oluşturdu."
+      },
+      {
+        "zh": "传染病患者要被隔离。",
+        "pinyin": "Chuánrǎnbìng huànzhě yào bèi gélí.",
+        "en": "Bulaşıcı hastalık hastalarının izole edilmesi gerekir."
+      },
+      {
+        "zh": "他们隔离观察了这批动物。",
+        "pinyin": "Tāmen gélí guānchá le zhè pī dòngwù.",
+        "en": "Bu hayvan partisini izole ederek gözlemlediler."
+      },
+      {
+        "zh": "隔离期结束后他终于回家了。",
+        "pinyin": "Gélíqī jiéshù hòu tā zhōngyú huíjiā le.",
+        "en": "İzolasyon süresi bittikten sonra sonunda eve döndü."
+      }
+    ]
+  },
+  {
+    "id": "w3440",
+    "hanzi": "隔断",
+    "pinyin": "géduàn",
+    "meaning": "bölmek, ayırmak (fiziksel)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们用木板隔断了房间。",
+        "pinyin": "Tāmen yòng mùbǎn géduàn le fángjiān.",
+        "en": "Odayı tahtayla böldüler."
+      },
+      {
+        "zh": "这堵墙把客厅隔断成两部分。",
+        "pinyin": "Zhè dǔ qiáng bǎ kètīng géduàn chéng liǎng bùfen.",
+        "en": "Bu duvar oturma odasını iki bölüme ayırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3441",
+    "hanzi": "格局",
+    "pinyin": "géjú",
+    "meaning": "düzen, yapı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这套房子的格局很合理。",
+        "pinyin": "Zhè tào fángzi de géjú hěn hélǐ.",
+        "en": "Bu evin planı çok mantıklı."
+      },
+      {
+        "zh": "国际政治格局正在发生变化。",
+        "pinyin": "Guójì zhèngzhì géjú zhèngzài fāshēng biànhuà.",
+        "en": "Uluslararası siyasi düzen değişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3442",
+    "hanzi": "各行各业",
+    "pinyin": "gèháng-gèyè",
+    "meaning": "her meslek, her sektör",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "各行各业都需要创新人才。",
+        "pinyin": "Gèháng-gèyè dōu xūyào chuàngxīn réncái.",
+        "en": "Her sektörde yenilikçi yetenekler gereklidir."
+      },
+      {
+        "zh": "这场展会吸引了各行各业的人才。",
+        "pinyin": "Zhè chǎng zhǎnhuì xīyǐn le gèháng-gèyè de réncái.",
+        "en": "Bu fuar farklı sektörlerden yetenekleri çekti."
+      }
+    ]
+  },
+  {
+    "id": "w3443",
+    "hanzi": "更正",
+    "pinyin": "gēngzhèng",
+    "meaning": "düzeltme yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请更正这份文件中的错误。",
+        "pinyin": "Qǐng gēngzhèng zhè fèn wénjiàn zhōng de cuòwù.",
+        "en": "Lütfen bu belgedeki hataları düzeltin."
+      },
+      {
+        "zh": "报纸对昨天的报道进行了更正。",
+        "pinyin": "Bàozhǐ duì zuótiān de bàodào jìnxíng le gēngzhèng.",
+        "en": "Gazete dünkü haberi düzeltti."
+      }
+    ]
+  },
+  {
+    "id": "w3444",
+    "hanzi": "耿直",
+    "pinyin": "gěngzhí",
+    "meaning": "dürüst, doğru sözlü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人耿直，从不说谎。",
+        "pinyin": "Tā wéirén gěngzhí, cóng bù shuōhuǎng.",
+        "en": "Karakteri dürüst, hiç yalan söylemez."
+      },
+      {
+        "zh": "她的耿直性格有时会得罪人。",
+        "pinyin": "Tā de gěngzhí xìnggé yǒushí huì dézuì rén.",
+        "en": "Doğru sözlü karakteri bazen insanları gücendirebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3445",
+    "hanzi": "攻克",
+    "pinyin": "gōngkè",
+    "meaning": "ele geçirmek, üstesinden gelmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "科学家们攻克了这项技术难题。",
+        "pinyin": "Kēxuéjiāmen gōngkè le zhè xiàng jìshù nántí.",
+        "en": "Bilim insanları bu teknik zorluğun üstesinden geldi."
+      },
+      {
+        "zh": "军队最终攻克了这座城市。",
+        "pinyin": "Jūnduì zuìzhōng gōngkè le zhè zuò chéngshì.",
+        "en": "Ordu sonunda bu şehri ele geçirdi."
+      }
+    ]
   }
 ]

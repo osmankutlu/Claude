@@ -130672,5 +130672,869 @@
         "en": "Tedaviden sonra sonunda komadan çıktı."
       }
     ]
+  },
+  {
+    "id": "w3814",
+    "hanzi": "婚事",
+    "pinyin": "hūnshì",
+    "meaning": "evlilik işleri, düğün",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile ve İnsanlar",
+    "examples": [
+      {
+        "zh": "他们正在筹备婚事。",
+        "pinyin": "Tāmen zhèngzài chóubèi hūnshì.",
+        "en": "Düğün hazırlıkları yapıyorlar."
+      },
+      {
+        "zh": "父母为孩子的婚事操心。",
+        "pinyin": "Fùmǔ wèi háizi de hūnshì cāoxīn.",
+        "en": "Ebeveynler çocuklarının evliliği için endişeleniyor."
+      },
+      {
+        "zh": "婚事定在下个月。",
+        "pinyin": "Hūnshì dìng zài xià ge yuè.",
+        "en": "Düğün gelecek aya belirlendi."
+      },
+      {
+        "zh": "他们的婚事得到了双方家庭的祝福。",
+        "pinyin": "Tāmen de hūnshì dédàole shuāngfāng jiātíng de zhùfú.",
+        "en": "Evlilikleri her iki ailenin de kutlamasıyla gerçekleşti."
+      },
+      {
+        "zh": "婚事办得非常隆重。",
+        "pinyin": "Hūnshì bàn de fēicháng lóngzhòng.",
+        "en": "Düğün çok görkemli bir şekilde yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3815",
+    "hanzi": "浑身",
+    "pinyin": "húnshēn",
+    "meaning": "tüm vücut, baştan aşağı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他浑身都湿透了。",
+        "pinyin": "Tā húnshēn dōu shītòu le.",
+        "en": "Baştan aşağı sırılsıklam oldu."
+      },
+      {
+        "zh": "跑完步后我浑身是汗。",
+        "pinyin": "Pǎowán bù hòu wǒ húnshēn shì hàn.",
+        "en": "Koşudan sonra tüm vücudum ter içinde kaldı."
+      },
+      {
+        "zh": "她浑身发抖。",
+        "pinyin": "Tā húnshēn fādǒu.",
+        "en": "Tüm vücudu titriyordu."
+      },
+      {
+        "zh": "他浑身是劲，一点也不累。",
+        "pinyin": "Tā húnshēn shì jìn, yìdiǎn yě bú lèi.",
+        "en": "Tüm vücudu enerjiyle dolu, hiç yorgun değil."
+      },
+      {
+        "zh": "摔倒后他浑身都疼。",
+        "pinyin": "Shuāidǎo hòu tā húnshēn dōu téng.",
+        "en": "Düştükten sonra her yeri ağrıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3816",
+    "hanzi": "活力",
+    "pinyin": "huólì",
+    "meaning": "canlılık, enerji",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "年轻人充满活力。",
+        "pinyin": "Niánqīngrén chōngmǎn huólì.",
+        "en": "Gençler enerji doludur."
+      },
+      {
+        "zh": "运动可以让人更有活力。",
+        "pinyin": "Yùndòng kěyǐ ràng rén gèng yǒu huólì.",
+        "en": "Spor insanı daha enerjik yapabilir."
+      },
+      {
+        "zh": "这座城市充满了活力。",
+        "pinyin": "Zhè zuò chéngshì chōngmǎnle huólì.",
+        "en": "Bu şehir canlılıkla dolu."
+      },
+      {
+        "zh": "早晨的空气让人感到活力四射。",
+        "pinyin": "Zǎochén de kōngqì ràng rén gǎndào huólì sìshè.",
+        "en": "Sabahın havası insana enerji dolu hissettiriyor."
+      },
+      {
+        "zh": "他脸上洋溢着青春的活力。",
+        "pinyin": "Tā liǎn shàng yángyìzhe qīngchūn de huólì.",
+        "en": "Yüzünde gençliğin canlılığı parlıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3817",
+    "hanzi": "火车",
+    "pinyin": "huǒchē",
+    "meaning": "tren",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "我们坐火车去北京。",
+        "pinyin": "Wǒmen zuò huǒchē qù Běijīng.",
+        "en": "Pekin'e trenle gidiyoruz."
+      },
+      {
+        "zh": "火车马上就要开了。",
+        "pinyin": "Huǒchē mǎshàng jiù yào kāi le.",
+        "en": "Tren hemen kalkacak."
+      },
+      {
+        "zh": "这趟火车晚点了。",
+        "pinyin": "Zhè tàng huǒchē wǎndiǎn le.",
+        "en": "Bu tren gecikti."
+      },
+      {
+        "zh": "火车站离这里不远。",
+        "pinyin": "Huǒchēzhàn lí zhèlǐ bù yuǎn.",
+        "en": "Tren istasyonu buradan uzak değil."
+      },
+      {
+        "zh": "他每天坐火车上班。",
+        "pinyin": "Tā měitiān zuò huǒchē shàngbān.",
+        "en": "Her gün işe trenle gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3818",
+    "hanzi": "火把",
+    "pinyin": "huǒbǎ",
+    "meaning": "meşale",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他们举着火把走在黑暗中。",
+        "pinyin": "Tāmen jǔzhe huǒbǎ zǒu zài hēi'àn zhōng.",
+        "en": "Karanlıkta meşale taşıyarak yürüyorlardı."
+      },
+      {
+        "zh": "古代人用火把照明。",
+        "pinyin": "Gǔdài rén yòng huǒbǎ zhàomíng.",
+        "en": "Eski insanlar aydınlanmak için meşale kullanırdı."
+      },
+      {
+        "zh": "村民们点燃了火把庆祝节日。",
+        "pinyin": "Cūnmínmen diǎnránle huǒbǎ qìngzhù jiérì.",
+        "en": "Köylüler bayramı kutlamak için meşale yaktı."
+      },
+      {
+        "zh": "探险队用火把探索山洞。",
+        "pinyin": "Tànxiǎnduì yòng huǒbǎ tànsuǒ shāndòng.",
+        "en": "Kâşif ekibi mağarayı meşale ile keşfetti."
+      },
+      {
+        "zh": "他手里拿着一支火把。",
+        "pinyin": "Tā shǒu lǐ názhe yì zhī huǒbǎ.",
+        "en": "Elinde bir meşale tutuyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3819",
+    "hanzi": "火花",
+    "pinyin": "huǒhuā",
+    "meaning": "kıvılcım",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "电线短路产生了火花。",
+        "pinyin": "Diànxiàn duǎnlù chǎnshēngle huǒhuā.",
+        "en": "Elektrik teli kısa devre yapınca kıvılcım çıktı."
+      },
+      {
+        "zh": "铁匠打铁时溅出了火花。",
+        "pinyin": "Tiějiang dǎtiě shí jiànchūle huǒhuā.",
+        "en": "Demirci demir dövdüğünde kıvılcım sıçradı."
+      },
+      {
+        "zh": "那次谈话碰撞出了思想的火花。",
+        "pinyin": "Nà cì tánhuà pèngzhuàng chūle sīxiǎng de huǒhuā.",
+        "en": "O sohbet düşünce kıvılcımları ortaya çıkardı."
+      },
+      {
+        "zh": "打火机点不着，只冒出火花。",
+        "pinyin": "Dǎhuǒjī diǎn bù zháo, zhǐ mào chū huǒhuā.",
+        "en": "Çakmak yanmadı, sadece kıvılcım çıktı."
+      },
+      {
+        "zh": "焊接时会产生大量火花。",
+        "pinyin": "Hànjiē shí huì chǎnshēng dàliàng huǒhuā.",
+        "en": "Kaynak yapılırken çok fazla kıvılcım oluşur."
+      }
+    ]
+  },
+  {
+    "id": "w3820",
+    "hanzi": "火箭",
+    "pinyin": "huǒjiàn",
+    "meaning": "roket",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "火箭发射成功了。",
+        "pinyin": "Huǒjiàn fāshè chénggōng le.",
+        "en": "Roket fırlatma başarılı oldu."
+      },
+      {
+        "zh": "这枚火箭把卫星送入了太空。",
+        "pinyin": "Zhè méi huǒjiàn bǎ wèixīng sòngrù le tàikōng.",
+        "en": "Bu roket uyduyu uzaya gönderdi."
+      },
+      {
+        "zh": "孩子们对火箭模型很感兴趣。",
+        "pinyin": "Háizimen duì huǒjiàn móxíng hěn gǎn xìngqù.",
+        "en": "Çocuklar roket modeline çok ilgi gösteriyor."
+      },
+      {
+        "zh": "科学家正在研究新型火箭技术。",
+        "pinyin": "Kēxuéjiā zhèngzài yánjiū xīnxíng huǒjiàn jìshù.",
+        "en": "Bilim insanları yeni tip roket teknolojisi üzerinde çalışıyor."
+      },
+      {
+        "zh": "这次火箭发射吸引了全世界的关注。",
+        "pinyin": "Zhè cì huǒjiàn fāshè xīyǐnle quán shìjiè de guānzhù.",
+        "en": "Bu roket fırlatması tüm dünyanın dikkatini çekti."
+      }
+    ]
+  },
+  {
+    "id": "w3821",
+    "hanzi": "火警",
+    "pinyin": "huǒjǐng",
+    "meaning": "yangın alarmı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "火警响了，大家赶紧撤离。",
+        "pinyin": "Huǒjǐng xiǎng le, dàjiā gǎnjǐn chèlí.",
+        "en": "Yangın alarmı çaldı, herkes hemen tahliye oldu."
+      },
+      {
+        "zh": "请拨打火警电话报警。",
+        "pinyin": "Qǐng bōdǎ huǒjǐng diànhuà bàojǐng.",
+        "en": "Lütfen yangın ihbar hattını arayın."
+      },
+      {
+        "zh": "火警发出后，消防车迅速赶到。",
+        "pinyin": "Huǒjǐng fāchū hòu, xiāofángchē xùnsù gǎndào.",
+        "en": "Yangın alarmı verildikten sonra itfaiye hızla geldi."
+      },
+      {
+        "zh": "学校定期进行火警演习。",
+        "pinyin": "Xuéxiào dìngqī jìnxíng huǒjǐng yǎnxí.",
+        "en": "Okul düzenli olarak yangın tatbikatı yapıyor."
+      },
+      {
+        "zh": "听到火警声，大家都很紧张。",
+        "pinyin": "Tīngdào huǒjǐng shēng, dàjiā dōu hěn jǐnzhāng.",
+        "en": "Yangın alarmı sesini duyunca herkes gerildi."
+      }
+    ]
+  },
+  {
+    "id": "w3822",
+    "hanzi": "火力",
+    "pinyin": "huǒlì",
+    "meaning": "ateş gücü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队集中了火力进行反击。",
+        "pinyin": "Jūnduì jízhōngle huǒlì jìnxíng fǎnjī.",
+        "en": "Ordu karşı saldırı için ateş gücünü topladı."
+      },
+      {
+        "zh": "这个国家拥有强大的火力。",
+        "pinyin": "Zhège guójiā yōngyǒu qiángdà de huǒlì.",
+        "en": "Bu ülkenin güçlü bir ateş gücü var."
+      },
+      {
+        "zh": "敌军的火力十分猛烈。",
+        "pinyin": "Díjūn de huǒlì shífēn měngliè.",
+        "en": "Düşman ordusunun ateş gücü çok şiddetliydi."
+      },
+      {
+        "zh": "我方成功压制了对方的火力。",
+        "pinyin": "Wǒfāng chénggōng yāzhìle duìfāng de huǒlì.",
+        "en": "Tarafımız karşı tarafın ateş gücünü başarıyla bastırdı."
+      },
+      {
+        "zh": "战场上火力交织。",
+        "pinyin": "Zhànchǎng shàng huǒlì jiāozhī.",
+        "en": "Savaş alanında ateş gücü iç içe geçmişti."
+      }
+    ]
+  },
+  {
+    "id": "w3823",
+    "hanzi": "火炉",
+    "pinyin": "huǒlú",
+    "meaning": "soba, ocak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "冬天家家户户都用火炉取暖。",
+        "pinyin": "Dōngtiān jiājiā-hùhù dōu yòng huǒlú qǔnuǎn.",
+        "en": "Kışın her ev sobayla ısınır."
+      },
+      {
+        "zh": "他坐在火炉旁看书。",
+        "pinyin": "Tā zuò zài huǒlú páng kànshū.",
+        "en": "Sobanın yanında oturup kitap okuyor."
+      },
+      {
+        "zh": "火炉里的火烧得很旺。",
+        "pinyin": "Huǒlú lǐ de huǒ shāo de hěn wàng.",
+        "en": "Sobadaki ateş güçlü bir şekilde yanıyor."
+      },
+      {
+        "zh": "妈妈往火炉里添了些木柴。",
+        "pinyin": "Māma wǎng huǒlú lǐ tiānle xiē mùchái.",
+        "en": "Annem sobaya biraz odun ekledi."
+      },
+      {
+        "zh": "这个老式火炉已经用了很多年。",
+        "pinyin": "Zhège lǎoshì huǒlú yǐjīng yòngle hěn duō nián.",
+        "en": "Bu eski tip soba yıllardır kullanılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3824",
+    "hanzi": "火苗",
+    "pinyin": "huǒmiáo",
+    "meaning": "alev",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "蜡烛的火苗轻轻摇曳。",
+        "pinyin": "Làzhú de huǒmiáo qīngqīng yáoyè.",
+        "en": "Mumun alevi hafifçe dalgalanıyordu."
+      },
+      {
+        "zh": "火苗越烧越旺。",
+        "pinyin": "Huǒmiáo yuè shāo yuè wàng.",
+        "en": "Alev gittikçe büyüdü."
+      },
+      {
+        "zh": "一阵风吹灭了火苗。",
+        "pinyin": "Yí zhèn fēng chuīmièle huǒmiáo.",
+        "en": "Bir rüzgar alevi söndürdü."
+      },
+      {
+        "zh": "炉子里跳动着蓝色的火苗。",
+        "pinyin": "Lúzi lǐ tiàodòngzhe lánsè de huǒmiáo.",
+        "en": "Ocakta mavi alevler dans ediyordu."
+      },
+      {
+        "zh": "他小心翼翼地保护着火苗。",
+        "pinyin": "Tā xiǎoxīn-yìyì de bǎohùzhe huǒmiáo.",
+        "en": "Alevi dikkatlice koruyordu."
+      }
+    ]
+  },
+  {
+    "id": "w3825",
+    "hanzi": "火速",
+    "pinyin": "huǒsù",
+    "meaning": "son sürat, hemen",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "消防队火速赶到现场。",
+        "pinyin": "Xiāofángduì huǒsù gǎndào xiànchǎng.",
+        "en": "İtfaiye ekibi son sürat olay yerine ulaştı."
+      },
+      {
+        "zh": "请火速处理这件事。",
+        "pinyin": "Qǐng huǒsù chǔlǐ zhè jiàn shì.",
+        "en": "Lütfen bu işi hemen halledin."
+      },
+      {
+        "zh": "医生火速赶来救治病人。",
+        "pinyin": "Yīshēng huǒsù gǎnlái jiùzhì bìngrén.",
+        "en": "Doktor hastayı tedavi etmek için son sürat geldi."
+      },
+      {
+        "zh": "他火速通知了大家。",
+        "pinyin": "Tā huǒsù tōngzhīle dàjiā.",
+        "en": "Herkese hemen haber verdi."
+      },
+      {
+        "zh": "部队火速集结准备出发。",
+        "pinyin": "Bùduì huǒsù jíjié zhǔnbèi chūfā.",
+        "en": "Birlik hemen toplanıp yola çıkmaya hazırlandı."
+      }
+    ]
+  },
+  {
+    "id": "w3826",
+    "hanzi": "火腿",
+    "pinyin": "huǒtuǐ",
+    "meaning": "jambon",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "三明治里有火腿和奶酪。",
+        "pinyin": "Sānmíngzhì lǐ yǒu huǒtuǐ hé nǎilào.",
+        "en": "Sandviçte jambon ve peynir var."
+      },
+      {
+        "zh": "她买了一些火腿做早餐。",
+        "pinyin": "Tā mǎile yìxiē huǒtuǐ zuò zǎocān.",
+        "en": "Kahvaltı için biraz jambon aldı."
+      },
+      {
+        "zh": "这种火腿是本地特产。",
+        "pinyin": "Zhè zhǒng huǒtuǐ shì běndì tèchǎn.",
+        "en": "Bu tür jambon yerel bir üründür."
+      },
+      {
+        "zh": "他喜欢在披萨上放火腿。",
+        "pinyin": "Tā xǐhuan zài pīsà shàng fàng huǒtuǐ.",
+        "en": "Pizzanın üzerine jambon koymayı sever."
+      },
+      {
+        "zh": "冰箱里有一些火腿片。",
+        "pinyin": "Bīngxiāng lǐ yǒu yìxiē huǒtuǐpiàn.",
+        "en": "Buzdolabında birkaç dilim jambon var."
+      }
+    ]
+  },
+  {
+    "id": "w3827",
+    "hanzi": "火焰",
+    "pinyin": "huǒyàn",
+    "meaning": "alev",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "火焰在风中摇晃。",
+        "pinyin": "Huǒyàn zài fēng zhōng yáohuàng.",
+        "en": "Alev rüzgarda titriyordu."
+      },
+      {
+        "zh": "熊熊火焰照亮了夜空。",
+        "pinyin": "Xióngxióng huǒyàn zhàoliàngle yèkōng.",
+        "en": "Alevler geceyi aydınlattı."
+      },
+      {
+        "zh": "消防员努力扑灭火焰。",
+        "pinyin": "Xiāofángyuán nǔlì pūmiè huǒyàn.",
+        "en": "İtfaiyeciler alevleri söndürmek için çabaladı."
+      },
+      {
+        "zh": "蜡烛的火焰忽明忽暗。",
+        "pinyin": "Làzhú de huǒyàn hū míng hū àn.",
+        "en": "Mumun alevi bir parlıyor bir sönüyordu."
+      },
+      {
+        "zh": "火焰迅速蔓延到了整栋楼。",
+        "pinyin": "Huǒyàn xùnsù mànyán dàole zhěng dòng lóu.",
+        "en": "Alevler hızla tüm binaya yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3828",
+    "hanzi": "火药",
+    "pinyin": "huǒyào",
+    "meaning": "barut",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "中国古代发明了火药。",
+        "pinyin": "Zhōngguó gǔdài fāmíngle huǒyào.",
+        "en": "Eski Çin'de barut icat edildi."
+      },
+      {
+        "zh": "火药是四大发明之一。",
+        "pinyin": "Huǒyào shì sì dà fāmíng zhī yī.",
+        "en": "Barut, dört büyük icattan biridir."
+      },
+      {
+        "zh": "这种炸药含有大量火药成分。",
+        "pinyin": "Zhè zhǒng zhàyào hányǒu dàliàng huǒyào chéngfèn.",
+        "en": "Bu patlayıcı büyük miktarda barut içeriyor."
+      },
+      {
+        "zh": "火药最初用于制作烟花。",
+        "pinyin": "Huǒyào zuìchū yòngyú zhìzuò yānhuā.",
+        "en": "Barut ilk olarak havai fişek yapımında kullanıldı."
+      },
+      {
+        "zh": "火药的发明改变了战争的方式。",
+        "pinyin": "Huǒyào de fāmíng gǎibiànle zhànzhēng de fāngshì.",
+        "en": "Barutun icadı savaş şeklini değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3829",
+    "hanzi": "火灾",
+    "pinyin": "huǒzāi",
+    "meaning": "yangın",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "昨晚发生了一场火灾。",
+        "pinyin": "Zuówǎn fāshēngle yì chǎng huǒzāi.",
+        "en": "Dün gece bir yangın çıktı."
+      },
+      {
+        "zh": "火灾造成了严重的损失。",
+        "pinyin": "Huǒzāi zàochéngle yánzhòng de sǔnshī.",
+        "en": "Yangın ciddi hasara neden oldu."
+      },
+      {
+        "zh": "消防员迅速扑灭了火灾。",
+        "pinyin": "Xiāofángyuán xùnsù pūmièle huǒzāi.",
+        "en": "İtfaiyeciler yangını hızla söndürdü."
+      },
+      {
+        "zh": "这场火灾没有造成人员伤亡。",
+        "pinyin": "Zhè chǎng huǒzāi méiyǒu zàochéng rényuán shāngwáng.",
+        "en": "Bu yangında can kaybı olmadı."
+      },
+      {
+        "zh": "我们要提高防范火灾的意识。",
+        "pinyin": "Wǒmen yào tígāo fángfàn huǒzāi de yìshí.",
+        "en": "Yangına karşı önlem alma bilincimizi artırmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w3830",
+    "hanzi": "伙计",
+    "pinyin": "huǒjì",
+    "meaning": "ortak; ahbap",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是我的老伙计。",
+        "pinyin": "Tā shì wǒ de lǎo huǒjì.",
+        "en": "O benim eski ahbabım."
+      },
+      {
+        "zh": "我们是多年的生意伙计。",
+        "pinyin": "Wǒmen shì duō nián de shēngyi huǒjì.",
+        "en": "Biz yıllardır iş ortağıyız."
+      },
+      {
+        "zh": "嘿，伙计，最近怎么样？",
+        "pinyin": "Hēi, huǒjì, zuìjìn zěnmeyàng?",
+        "en": "Hey, ahbap, son zamanlarda nasılsın?"
+      },
+      {
+        "zh": "他们俩是好伙计。",
+        "pinyin": "Tāmen liǎ shì hǎo huǒjì.",
+        "en": "İkisi iyi arkadaş."
+      },
+      {
+        "zh": "店里的伙计忙着招呼客人。",
+        "pinyin": "Diàn lǐ de huǒjì mángzhe zhāohu kèrén.",
+        "en": "Dükkândaki tezgâhtar müşterilerle ilgilenmekle meşgul."
+      }
+    ]
+  },
+  {
+    "id": "w3831",
+    "hanzi": "伙食",
+    "pinyin": "huǒshí",
+    "meaning": "yemek, karavana",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "学校食堂的伙食不错。",
+        "pinyin": "Xuéxiào shítáng de huǒshí búcuò.",
+        "en": "Okul yemekhanesinin yemekleri fena değil."
+      },
+      {
+        "zh": "部队里的伙食很丰富。",
+        "pinyin": "Bùduì lǐ de huǒshí hěn fēngfù.",
+        "en": "Ordudaki yemek çok çeşitli."
+      },
+      {
+        "zh": "他抱怨公司的伙食太差。",
+        "pinyin": "Tā bàoyuàn gōngsī de huǒshí tài chà.",
+        "en": "Şirketin yemeklerinin çok kötü olduğundan şikayet etti."
+      },
+      {
+        "zh": "宿舍的伙食标准提高了。",
+        "pinyin": "Sùshè de huǒshí biāozhǔn tígāo le.",
+        "en": "Yurdun yemek standardı yükseldi."
+      },
+      {
+        "zh": "他们负责准备大家的伙食。",
+        "pinyin": "Tāmen fùzé zhǔnbèi dàjiā de huǒshí.",
+        "en": "Herkesin yemeğini hazırlamaktan onlar sorumlu."
+      }
+    ]
+  },
+  {
+    "id": "w3832",
+    "hanzi": "祸",
+    "pinyin": "huò",
+    "meaning": "felaket, bela",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这件事给他带来了大祸。",
+        "pinyin": "Zhè jiàn shì gěi tā dàiláile dà huò.",
+        "en": "Bu olay ona büyük bir bela getirdi."
+      },
+      {
+        "zh": "他闯了大祸。",
+        "pinyin": "Tā chuǎngle dà huò.",
+        "en": "Büyük bir bela açtı."
+      },
+      {
+        "zh": "谁也没料到会惹出这样的祸。",
+        "pinyin": "Shéi yě méi liàodào huì rěchū zhèyàng de huò.",
+        "en": "Kimse böyle bir belanın çıkacağını tahmin etmemişti."
+      },
+      {
+        "zh": "骄兵必败，福祸相依。",
+        "pinyin": "Jiāobīng bì bài, fú huò xiāngyī.",
+        "en": "Kibirli asker mutlaka yenilir, mutluluk ve felaket iç içedir."
+      },
+      {
+        "zh": "他终于闯下了大祸。",
+        "pinyin": "Tā zhōngyú chuǎngxiàle dà huò.",
+        "en": "Sonunda büyük bir bela açtı."
+      }
+    ]
+  },
+  {
+    "id": "w3833",
+    "hanzi": "获奖",
+    "pinyin": "huòjiǎng",
+    "meaning": "ödül kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他这次获奖了。",
+        "pinyin": "Tā zhè cì huòjiǎng le.",
+        "en": "Bu sefer ödül kazandı."
+      },
+      {
+        "zh": "这部电影获奖无数。",
+        "pinyin": "Zhè bù diànyǐng huòjiǎng wúshù.",
+        "en": "Bu film sayısız ödül aldı."
+      },
+      {
+        "zh": "她因这幅画获奖了。",
+        "pinyin": "Tā yīn zhè fú huà huòjiǎng le.",
+        "en": "Bu resim sayesinde ödül kazandı."
+      },
+      {
+        "zh": "获奖作品将在展览中展出。",
+        "pinyin": "Huòjiǎng zuòpǐn jiāng zài zhǎnlǎn zhōng zhǎnchū.",
+        "en": "Ödül alan eserler sergide gösterilecek."
+      },
+      {
+        "zh": "他很高兴地宣布自己获奖的消息。",
+        "pinyin": "Tā hěn gāoxìng de xuānbù zìjǐ huòjiǎng de xiāoxi.",
+        "en": "Ödül aldığı haberini mutlulukla duyurdu."
+      }
+    ]
+  },
+  {
+    "id": "w3834",
+    "hanzi": "获救",
+    "pinyin": "huòjiù",
+    "meaning": "kurtarılmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "落水的孩子终于获救了。",
+        "pinyin": "Luòshuǐ de háizi zhōngyú huòjiù le.",
+        "en": "Suya düşen çocuk sonunda kurtarıldı."
+      },
+      {
+        "zh": "被困矿工全部获救。",
+        "pinyin": "Bèikùn kuànggōng quánbù huòjiù.",
+        "en": "Mahsur kalan tüm madenciler kurtarıldı."
+      },
+      {
+        "zh": "消防员及时赶到，居民获救了。",
+        "pinyin": "Xiāofángyuán jíshí gǎndào, jūmín huòjiù le.",
+        "en": "İtfaiyeciler zamanında geldi, sakinler kurtarıldı."
+      },
+      {
+        "zh": "船员们在海上漂流三天后获救。",
+        "pinyin": "Chuányuánmen zài hǎishàng piāoliú sān tiān hòu huòjiù.",
+        "en": "Denizciler denizde üç gün sürüklendikten sonra kurtarıldı."
+      },
+      {
+        "zh": "幸运的是，所有乘客都安全获救。",
+        "pinyin": "Xìngyùn de shì, suǒyǒu chéngkè dōu ānquán huòjiù.",
+        "en": "Neyse ki tüm yolcular güvenli bir şekilde kurtarıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3835",
+    "hanzi": "获取",
+    "pinyin": "huòqǔ",
+    "meaning": "elde etmek, kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他通过努力获取了成功。",
+        "pinyin": "Tā tōngguò nǔlì huòqǔle chénggōng.",
+        "en": "Çabası sayesinde başarı elde etti."
+      },
+      {
+        "zh": "我们需要获取更多信息。",
+        "pinyin": "Wǒmen xūyào huòqǔ gèng duō xìnxī.",
+        "en": "Daha fazla bilgi edinmemiz gerekiyor."
+      },
+      {
+        "zh": "他非法获取了他人的资料。",
+        "pinyin": "Tā fēifǎ huòqǔle tārén de zīliào.",
+        "en": "Başkasının verilerini yasa dışı yollarla elde etti."
+      },
+      {
+        "zh": "这个软件可以帮助你获取数据。",
+        "pinyin": "Zhège ruǎnjiàn kěyǐ bāngzhù nǐ huòqǔ shùjù.",
+        "en": "Bu yazılım veri elde etmenize yardımcı olabilir."
+      },
+      {
+        "zh": "他从这次经历中获取了宝贵的经验。",
+        "pinyin": "Tā cóng zhè cì jīnglì zhōng huòqǔle bǎoguì de jīngyàn.",
+        "en": "Bu deneyimden değerli tecrübeler edindi."
+      }
+    ]
+  },
+  {
+    "id": "w3836",
+    "hanzi": "获胜",
+    "pinyin": "huòshèng",
+    "meaning": "zafer kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们的球队获胜了。",
+        "pinyin": "Wǒmen de qiúduì huòshèng le.",
+        "en": "Takımımız kazandı."
+      },
+      {
+        "zh": "他在比赛中获胜。",
+        "pinyin": "Tā zài bǐsài zhōng huòshèng.",
+        "en": "Yarışmada kazandı."
+      },
+      {
+        "zh": "最终他们凭借实力获胜。",
+        "pinyin": "Zuìzhōng tāmen píngjiè shílì huòshèng.",
+        "en": "Sonunda güçleri sayesinde galip geldiler."
+      },
+      {
+        "zh": "这场辩论赛他们获胜了。",
+        "pinyin": "Zhè chǎng biànlùnsài tāmen huòshèng le.",
+        "en": "Bu münazara yarışmasını kazandılar."
+      },
+      {
+        "zh": "获胜的队伍将获得奖杯。",
+        "pinyin": "Huòshèng de duìwu jiāng huòdé jiǎngbēi.",
+        "en": "Kazanan takım kupayı alacak."
+      }
+    ]
+  },
+  {
+    "id": "w3837",
+    "hanzi": "或许",
+    "pinyin": "huòxǔ",
+    "meaning": "belki",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他或许已经知道这件事了。",
+        "pinyin": "Tā huòxǔ yǐjīng zhīdào zhè jiàn shì le.",
+        "en": "Belki bu olayı zaten biliyordur."
+      },
+      {
+        "zh": "明天或许会下雨。",
+        "pinyin": "Míngtiān huòxǔ huì xiàyǔ.",
+        "en": "Yarın belki yağmur yağar."
+      },
+      {
+        "zh": "或许我们应该换个方法。",
+        "pinyin": "Huòxǔ wǒmen yīnggāi huàn ge fāngfǎ.",
+        "en": "Belki bir yöntem değiştirmeliyiz."
+      },
+      {
+        "zh": "他或许不知道真相。",
+        "pinyin": "Tā huòxǔ bù zhīdào zhēnxiàng.",
+        "en": "Belki gerçeği bilmiyordur."
+      },
+      {
+        "zh": "或许这就是最好的结果。",
+        "pinyin": "Huòxǔ zhè jiùshì zuì hǎo de jiéguǒ.",
+        "en": "Belki de en iyi sonuç bu."
+      }
+    ]
   }
 ]

@@ -122335,5 +122335,665 @@
         "en": "Bu ekibe karşı güçlü bir aidiyet hissi taşıyor."
       }
     ]
+  },
+  {
+    "id": "w3566",
+    "hanzi": "柜",
+    "pinyin": "guì",
+    "meaning": "dolap",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请把衣服放进柜子里。",
+        "pinyin": "Qǐng bǎ yīfu fàng jìn guìzi lǐ.",
+        "en": "Lütfen kıyafetleri dolaba koy."
+      },
+      {
+        "zh": "这个柜子太小了，装不下这么多东西。",
+        "pinyin": "Zhège guìzi tài xiǎo le, zhuāng bu xià zhème duō dōngxi.",
+        "en": "Bu dolap çok küçük, bu kadar çok şeyi almıyor."
+      },
+      {
+        "zh": "书柜里摆满了各种书籍。",
+        "pinyin": "Shūguì lǐ bǎimǎn le gèzhǒng shūjí.",
+        "en": "Kitap dolabı çeşitli kitaplarla dolu."
+      },
+      {
+        "zh": "她打开柜子找钥匙。",
+        "pinyin": "Tā dǎkāi guìzi zhǎo yàoshi.",
+        "en": "Anahtarı bulmak için dolabı açtı."
+      },
+      {
+        "zh": "这个柜子是实木做的。",
+        "pinyin": "Zhège guìzi shì shímù zuò de.",
+        "en": "Bu dolap masif ahşaptan yapılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w3567",
+    "hanzi": "国歌",
+    "pinyin": "guógē",
+    "meaning": "milli marş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "运动员们庄严地唱起了国歌。",
+        "pinyin": "Yùndòngyuánmen zhuāngyán de chàng qǐ le guógē.",
+        "en": "Sporcular ciddiyetle milli marşı söylemeye başladı."
+      },
+      {
+        "zh": "升旗仪式上响起了国歌。",
+        "pinyin": "Shēngqí yíshì shàng xiǎngqǐ le guógē.",
+        "en": "Bayrak töreninde milli marş çaldı."
+      },
+      {
+        "zh": "每个学生都应该会唱国歌。",
+        "pinyin": "Měi ge xuésheng dōu yīnggāi huì chàng guógē.",
+        "en": "Her öğrenci milli marşı söyleyebilmelidir."
+      },
+      {
+        "zh": "国歌象征着国家的尊严。",
+        "pinyin": "Guógē xiàngzhēng zhe guójiā de zūnyán.",
+        "en": "Milli marş ülkenin onurunu simgeler."
+      },
+      {
+        "zh": "听到国歌，他心潮澎湃。",
+        "pinyin": "Tīngdào guógē, tā xīncháo péngpài.",
+        "en": "Milli marşı duyunca kalbi heyecanla çarptı."
+      }
+    ]
+  },
+  {
+    "id": "w3568",
+    "hanzi": "国内",
+    "pinyin": "guónèi",
+    "meaning": "yurtiçi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这是一款国内知名品牌。",
+        "pinyin": "Zhè shì yì kuǎn guónèi zhīmíng pǐnpái.",
+        "en": "Bu ülke içinde tanınmış bir markadır."
+      },
+      {
+        "zh": "他很少出国，大部分时间在国内工作。",
+        "pinyin": "Tā hěn shǎo chūguó, dàbùfen shíjiān zài guónèi gōngzuò.",
+        "en": "Nadiren yurtdışına çıkar, çoğu zaman yurtiçinde çalışır."
+      },
+      {
+        "zh": "国内经济持续增长。",
+        "pinyin": "Guónèi jīngjì chíxù zēngzhǎng.",
+        "en": "Yurtiçi ekonomi büyümeye devam ediyor."
+      },
+      {
+        "zh": "这次旅行是国内游。",
+        "pinyin": "Zhè cì lǚxíng shì guónèi yóu.",
+        "en": "Bu seyahat yurtiçi bir gezidir."
+      },
+      {
+        "zh": "国内市场竞争激烈。",
+        "pinyin": "Guónèi shìchǎng jìngzhēng jīliè.",
+        "en": "Yurtiçi piyasa rekabeti yoğun."
+      }
+    ]
+  },
+  {
+    "id": "w3569",
+    "hanzi": "国旗",
+    "pinyin": "guóqí",
+    "meaning": "ulusal bayrak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "广场上升起了国旗。",
+        "pinyin": "Guǎngchǎng shàng shēngqǐ le guóqí.",
+        "en": "Meydanda ulusal bayrak yükseltildi."
+      },
+      {
+        "zh": "学校每周一都要举行升国旗仪式。",
+        "pinyin": "Xuéxiào měi zhōu yī dōu yào jǔxíng shēng guóqí yíshì.",
+        "en": "Okul her pazartesi bayrak töreni düzenler."
+      },
+      {
+        "zh": "国旗代表着国家的荣誉。",
+        "pinyin": "Guóqí dàibiǎo zhe guójiā de róngyù.",
+        "en": "Ulusal bayrak ülkenin onurunu temsil eder."
+      },
+      {
+        "zh": "他家门口挂着一面国旗。",
+        "pinyin": "Tā jiā ménkǒu guà zhe yí miàn guóqí.",
+        "en": "Evinin kapısında bir ulusal bayrak asılı."
+      },
+      {
+        "zh": "运动员站在领奖台上，国旗缓缓升起。",
+        "pinyin": "Yùndòngyuán zhàn zài lǐngjiǎngtái shàng, guóqí huǎnhuǎn shēngqǐ.",
+        "en": "Sporcu ödül platformunda dururken ulusal bayrak yavaşça yükseldi."
+      }
+    ]
+  },
+  {
+    "id": "w3570",
+    "hanzi": "国庆",
+    "pinyin": "guóqìng",
+    "meaning": "ulusal bayram",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "国庆节放假七天。",
+        "pinyin": "Guóqìngjié fàngjià qī tiān.",
+        "en": "Ulusal bayramda yedi gün tatil yapılıyor."
+      },
+      {
+        "zh": "国庆期间到处都是游客。",
+        "pinyin": "Guóqìng qījiān dàochù dōu shì yóukè.",
+        "en": "Ulusal bayram döneminde her yer turistlerle dolu."
+      },
+      {
+        "zh": "广场上举行了盛大的国庆庆典。",
+        "pinyin": "Guǎngchǎng shàng jǔxíng le shèngdà de guóqìng qìngdiǎn.",
+        "en": "Meydanda görkemli bir ulusal bayram kutlaması düzenlendi."
+      },
+      {
+        "zh": "我们一家人打算国庆去旅游。",
+        "pinyin": "Wǒmen yìjiārén dǎsuàn guóqìng qù lǚyóu.",
+        "en": "Ailece ulusal bayramda seyahate çıkmayı planlıyoruz."
+      },
+      {
+        "zh": "国庆当天，城市里挂满了彩旗。",
+        "pinyin": "Guóqìng dàngtiān, chéngshì lǐ guàmǎn le cǎiqí.",
+        "en": "Ulusal bayram günü şehir renkli bayraklarla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w3571",
+    "hanzi": "国外",
+    "pinyin": "guówài",
+    "meaning": "yurtdışı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他打算去国外留学。",
+        "pinyin": "Tā dǎsuàn qù guówài liúxué.",
+        "en": "Yurtdışında okumayı planlıyor."
+      },
+      {
+        "zh": "这种水果是从国外进口的。",
+        "pinyin": "Zhè zhǒng shuǐguǒ shì cóng guówài jìnkǒu de.",
+        "en": "Bu meyve yurtdışından ithal edilmiştir."
+      },
+      {
+        "zh": "她在国外工作了三年。",
+        "pinyin": "Tā zài guówài gōngzuò le sān nián.",
+        "en": "Yurtdışında üç yıl çalıştı."
+      },
+      {
+        "zh": "国外的生活让他增长了不少见识。",
+        "pinyin": "Guówài de shēnghuó ràng tā zēngzhǎng le bù shǎo jiànshi.",
+        "en": "Yurtdışındaki hayatı ona epey deneyim kazandırdı."
+      },
+      {
+        "zh": "他的父母移民到了国外。",
+        "pinyin": "Tā de fùmǔ yímín dào le guówài.",
+        "en": "Ebeveynleri yurtdışına göç etti."
+      }
+    ]
+  },
+  {
+    "id": "w3572",
+    "hanzi": "国王",
+    "pinyin": "guówáng",
+    "meaning": "kral",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "古代国王住在宫殿里。",
+        "pinyin": "Gǔdài guówáng zhù zài gōngdiàn lǐ.",
+        "en": "Antik kral sarayda yaşardı."
+      },
+      {
+        "zh": "这个国家的国王受到人民的尊敬。",
+        "pinyin": "Zhège guójiā de guówáng shòudào rénmín de zūnjìng.",
+        "en": "Bu ülkenin kralı halkın saygısını kazanmış."
+      },
+      {
+        "zh": "国王颁布了新的法令。",
+        "pinyin": "Guówáng bānbù le xīn de fǎlìng.",
+        "en": "Kral yeni bir kanun yayınladı."
+      },
+      {
+        "zh": "王子继承了国王的王位。",
+        "pinyin": "Wángzǐ jìchéng le guówáng de wángwèi.",
+        "en": "Prens kralın tahtını devraldı."
+      },
+      {
+        "zh": "这个故事讲述了一位睿智的国王。",
+        "pinyin": "Zhège gùshi jiǎngshù le yí wèi ruìzhì de guówáng.",
+        "en": "Bu hikaye bilge bir kralı anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3573",
+    "hanzi": "桂花",
+    "pinyin": "guìhuā",
+    "meaning": "defne çiçeği (osmanthus)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "秋天，桂花的香味弥漫在空气中。",
+        "pinyin": "Qiūtiān, guìhuā de xiāngwèi mímàn zài kōngqì zhōng.",
+        "en": "Sonbaharda osmanthus çiçeğinin kokusu havada yayılır."
+      },
+      {
+        "zh": "她喜欢用桂花做糕点。",
+        "pinyin": "Tā xǐhuan yòng guìhuā zuò gāodiǎn.",
+        "en": "Osmanthus çiçeğiyle tatlı yapmayı sever."
+      },
+      {
+        "zh": "公园里种满了桂花树。",
+        "pinyin": "Gōngyuán lǐ zhòngmǎn le guìhuā shù.",
+        "en": "Parkta osmanthus ağaçları dolu."
+      },
+      {
+        "zh": "桂花茶有独特的香气。",
+        "pinyin": "Guìhuā chá yǒu dútè de xiāngqì.",
+        "en": "Osmanthus çayının kendine özgü bir kokusu vardır."
+      },
+      {
+        "zh": "桂花盛开时非常美丽。",
+        "pinyin": "Guìhuā shèngkāi shí fēicháng měilì.",
+        "en": "Osmanthus çiçekleri açtığında çok güzel oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w3574",
+    "hanzi": "国防",
+    "pinyin": "guófáng",
+    "meaning": "ulusal savunma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国防是国家安全的重要保障。",
+        "pinyin": "Guófáng shì guójiā ānquán de zhòngyào bǎozhàng.",
+        "en": "Ulusal savunma, ülke güvenliğinin önemli bir güvencesidir."
+      },
+      {
+        "zh": "政府增加了国防预算。",
+        "pinyin": "Zhèngfǔ zēngjiā le guófáng yùsuàn.",
+        "en": "Hükümet savunma bütçesini artırdı."
+      },
+      {
+        "zh": "他毕业于国防大学。",
+        "pinyin": "Tā bìyè yú guófáng dàxué.",
+        "en": "Ulusal savunma üniversitesinden mezun oldu."
+      },
+      {
+        "zh": "国防科技的发展至关重要。",
+        "pinyin": "Guófáng kējì de fāzhǎn zhìguān zhòngyào.",
+        "en": "Savunma teknolojisinin gelişimi son derece önemlidir."
+      },
+      {
+        "zh": "每个公民都有维护国防的责任。",
+        "pinyin": "Měi ge gōngmín dōu yǒu wéihù guófáng de zérèn.",
+        "en": "Her vatandaşın ulusal savunmayı koruma sorumluluğu vardır."
+      }
+    ]
+  },
+  {
+    "id": "w3575",
+    "hanzi": "国会",
+    "pinyin": "guóhuì",
+    "meaning": "meclis, parlamento",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国会通过了这项新法案。",
+        "pinyin": "Guóhuì tōngguò le zhè xiàng xīn fǎ'àn.",
+        "en": "Meclis bu yeni yasa tasarısını kabul etti."
+      },
+      {
+        "zh": "国会议员们正在讨论预算问题。",
+        "pinyin": "Guóhuì yìyuánmen zhèngzài tǎolùn yùsuàn wèntí.",
+        "en": "Milletvekilleri bütçe konusunu tartışıyor."
+      },
+      {
+        "zh": "这项法律需要经过国会审议。",
+        "pinyin": "Zhè xiàng fǎlǜ xūyào jīngguò guóhuì shěnyì.",
+        "en": "Bu kanunun meclis tarafından incelenmesi gerekiyor."
+      },
+      {
+        "zh": "国会大厦是这座城市的标志性建筑。",
+        "pinyin": "Guóhuì dàshà shì zhè zuò chéngshì de biāozhìxìng jiànzhù.",
+        "en": "Meclis binası bu şehrin simgesel bir yapısıdır."
+      },
+      {
+        "zh": "国会选举将于下个月举行。",
+        "pinyin": "Guóhuì xuǎnjǔ jiāng yú xià ge yuè jǔxíng.",
+        "en": "Meclis seçimleri önümüzdeki ay yapılacak."
+      }
+    ]
+  },
+  {
+    "id": "w3576",
+    "hanzi": "国界",
+    "pinyin": "guójiè",
+    "meaning": "ulusal sınır",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "这条河流是两国的国界。",
+        "pinyin": "Zhè tiáo héliú shì liǎng guó de guójiè.",
+        "en": "Bu nehir iki ülkenin sınırıdır."
+      },
+      {
+        "zh": "士兵们守卫着国界。",
+        "pinyin": "Shìbīngmen shǒuwèi zhe guójiè.",
+        "en": "Askerler sınırı koruyor."
+      },
+      {
+        "zh": "他们越过国界进入了邻国。",
+        "pinyin": "Tāmen yuèguò guójiè jìnrù le línguó.",
+        "en": "Sınırı geçerek komşu ülkeye girdiler."
+      },
+      {
+        "zh": "国界的划定经历了长期的谈判。",
+        "pinyin": "Guójiè de huàdìng jīnglì le chángqī de tánpàn.",
+        "en": "Sınırın belirlenmesi uzun müzakereler sonucunda gerçekleşti."
+      },
+      {
+        "zh": "这座山脉构成了自然的国界。",
+        "pinyin": "Zhè zuò shānmài gòuchéng le zìrán de guójiè.",
+        "en": "Bu dağ silsilesi doğal bir sınır oluşturuyor."
+      }
+    ]
+  },
+  {
+    "id": "w3577",
+    "hanzi": "国境",
+    "pinyin": "guójìng",
+    "meaning": "ülke sınırı/toprağı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "他们抵达了国境线。",
+        "pinyin": "Tāmen dǐdá le guójìng xiàn.",
+        "en": "Sınır hattına ulaştılar."
+      },
+      {
+        "zh": "国境线上设有检查站。",
+        "pinyin": "Guójìng xiàn shàng shè yǒu jiǎncházhàn.",
+        "en": "Sınır hattında kontrol noktaları bulunuyor."
+      },
+      {
+        "zh": "货物顺利通过了国境。",
+        "pinyin": "Huòwù shùnlì tōngguò le guójìng.",
+        "en": "Mallar sorunsuz bir şekilde sınırdan geçti."
+      },
+      {
+        "zh": "国境地区的安全至关重要。",
+        "pinyin": "Guójìng dìqū de ānquán zhìguān zhòngyào.",
+        "en": "Sınır bölgesinin güvenliği son derece önemlidir."
+      },
+      {
+        "zh": "他非法越过了国境。",
+        "pinyin": "Tā fēifǎ yuèguò le guójìng.",
+        "en": "Sınırı yasadışı olarak geçti."
+      }
+    ]
+  },
+  {
+    "id": "w3578",
+    "hanzi": "国民",
+    "pinyin": "guómín",
+    "meaning": "halk, vatandaş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国民享有言论自由的权利。",
+        "pinyin": "Guómín xiǎngyǒu yánlùn zìyóu de quánlì.",
+        "en": "Vatandaşların ifade özgürlüğü hakkı vardır."
+      },
+      {
+        "zh": "提高国民收入是政府的重要目标。",
+        "pinyin": "Tígāo guómín shōurù shì zhèngfǔ de zhòngyào mùbiāo.",
+        "en": "Vatandaş gelirini artırmak hükümetin önemli bir hedefidir."
+      },
+      {
+        "zh": "国民教育水平近年来显著提高。",
+        "pinyin": "Guómín jiàoyù shuǐpíng jìnnián lái xiǎnzhù tígāo.",
+        "en": "Son yıllarda halkın eğitim seviyesi belirgin şekilde arttı."
+      },
+      {
+        "zh": "政府关注国民的健康福祉。",
+        "pinyin": "Zhèngfǔ guānzhù guómín de jiànkāng fúzhǐ.",
+        "en": "Hükümet halkın sağlık refahına önem veriyor."
+      },
+      {
+        "zh": "国民经济持续稳步发展。",
+        "pinyin": "Guómín jīngjì chíxù wěnbù fāzhǎn.",
+        "en": "Ulusal ekonomi istikrarlı bir şekilde gelişmeye devam ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3579",
+    "hanzi": "国土",
+    "pinyin": "guótǔ",
+    "meaning": "ülke toprakları",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "这片国土资源丰富。",
+        "pinyin": "Zhè piàn guótǔ zīyuán fēngfù.",
+        "en": "Bu ülke toprağı zengin kaynaklara sahip."
+      },
+      {
+        "zh": "保卫国土是每个公民的责任。",
+        "pinyin": "Bǎowèi guótǔ shì měi ge gōngmín de zérèn.",
+        "en": "Ülke topraklarını korumak her vatandaşın sorumluluğudur."
+      },
+      {
+        "zh": "国土面积决定了资源的丰富程度。",
+        "pinyin": "Guótǔ miànjī juédìng le zīyuán de fēngfù chéngdù.",
+        "en": "Ülke topraklarının büyüklüğü kaynakların zenginlik derecesini belirler."
+      },
+      {
+        "zh": "他为保护国土完整而战斗。",
+        "pinyin": "Tā wèi bǎohù guótǔ wánzhěng ér zhàndòu.",
+        "en": "Ülke topraklarının bütünlüğünü korumak için savaştı."
+      },
+      {
+        "zh": "这个国家的国土横跨多个气候带。",
+        "pinyin": "Zhège guójiā de guótǔ héngkuà duō ge qìhòudài.",
+        "en": "Bu ülkenin toprakları birçok iklim kuşağını kapsıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3580",
+    "hanzi": "过错",
+    "pinyin": "guòcuò",
+    "meaning": "hata, kusur",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是我的过错，我会承担责任。",
+        "pinyin": "Zhè shì wǒ de guòcuò, wǒ huì chéngdān zérèn.",
+        "en": "Bu benim hatam, sorumluluğunu alacağım."
+      },
+      {
+        "zh": "他承认了自己的过错。",
+        "pinyin": "Tā chéngrèn le zìjǐ de guòcuò.",
+        "en": "Kendi hatasını kabul etti."
+      },
+      {
+        "zh": "不要总是把过错归咎于别人。",
+        "pinyin": "Búyào zǒngshì bǎ guòcuò guījiù yú biérén.",
+        "en": "Hataları sürekli başkalarına yükleme."
+      },
+      {
+        "zh": "这次事故是由人为过错造成的。",
+        "pinyin": "Zhè cì shìgù shì yóu rénwéi guòcuò zàochéng de.",
+        "en": "Bu kaza insan hatasından kaynaklandı."
+      },
+      {
+        "zh": "他为自己的过错道歉了。",
+        "pinyin": "Tā wèi zìjǐ de guòcuò dàoqiàn le.",
+        "en": "Kendi hatası için özür diledi."
+      }
+    ]
+  },
+  {
+    "id": "w3581",
+    "hanzi": "过度",
+    "pinyin": "guòdù",
+    "meaning": "aşırı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "过度饮酒对身体有害。",
+        "pinyin": "Guòdù yǐnjiǔ duì shēntǐ yǒuhài.",
+        "en": "Aşırı alkol tüketimi sağlığa zararlıdır."
+      },
+      {
+        "zh": "请不要过度担心。",
+        "pinyin": "Qǐng búyào guòdù dānxīn.",
+        "en": "Lütfen aşırı endişelenme."
+      },
+      {
+        "zh": "过度使用手机会影响视力。",
+        "pinyin": "Guòdù shǐyòng shǒujī huì yǐngxiǎng shìlì.",
+        "en": "Telefonu aşırı kullanmak görme yeteneğini etkileyebilir."
+      },
+      {
+        "zh": "他因为过度劳累而生病了。",
+        "pinyin": "Tā yīnwèi guòdù láolèi ér shēngbìng le.",
+        "en": "Aşırı yorgunluktan hastalandı."
+      },
+      {
+        "zh": "过度的压力对健康不利。",
+        "pinyin": "Guòdù de yālì duì jiànkāng búlì.",
+        "en": "Aşırı stres sağlığa zararlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w3582",
+    "hanzi": "国际法",
+    "pinyin": "guójìfǎ",
+    "meaning": "uluslararası hukuk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这项行为违反了国际法。",
+        "pinyin": "Zhè xiàng xíngwéi wéifǎn le guójìfǎ.",
+        "en": "Bu davranış uluslararası hukuku ihlal etti."
+      },
+      {
+        "zh": "他是研究国际法的专家。",
+        "pinyin": "Tā shì yánjiū guójìfǎ de zhuānjiā.",
+        "en": "Uluslararası hukuk araştıran bir uzmandır."
+      }
+    ]
+  },
+  {
+    "id": "w3583",
+    "hanzi": "国营",
+    "pinyin": "guóyíng",
+    "meaning": "devlet işletmesi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这是一家国营企业。",
+        "pinyin": "Zhè shì yì jiā guóyíng qǐyè.",
+        "en": "Bu bir devlet işletmesidir."
+      },
+      {
+        "zh": "国营企业的改革一直在推进。",
+        "pinyin": "Guóyíng qǐyè de gǎigé yìzhí zài tuījìn.",
+        "en": "Devlet işletmelerinin reformu sürekli ilerliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3584",
+    "hanzi": "国有",
+    "pinyin": "guóyǒu",
+    "meaning": "devlete ait",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这块土地属于国有资产。",
+        "pinyin": "Zhè kuài tǔdì shǔyú guóyǒu zīchǎn.",
+        "en": "Bu arazi devlet mülkiyetine aittir."
+      },
+      {
+        "zh": "国有银行提供了大量贷款。",
+        "pinyin": "Guóyǒu yínháng tígōng le dàliàng dàikuǎn.",
+        "en": "Devlete ait bankalar büyük miktarda kredi sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w3585",
+    "hanzi": "过渡",
+    "pinyin": "guòdù",
+    "meaning": "geçiş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是一个重要的过渡阶段。",
+        "pinyin": "Zhè shì yí ge zhòngyào de guòdù jiēduàn.",
+        "en": "Bu önemli bir geçiş dönemidir."
+      },
+      {
+        "zh": "国家正处于经济过渡时期。",
+        "pinyin": "Guójiā zhèng chǔyú jīngjì guòdù shíqī.",
+        "en": "Ülke ekonomik bir geçiş döneminden geçiyor."
+      }
+    ]
   }
 ]

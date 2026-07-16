@@ -92326,5 +92326,638 @@
         "en": "Yarı final maçı çok çekişmeliydi."
       }
     ]
+  },
+  {
+    "id": "w2579",
+    "hanzi": "保安",
+    "pinyin": "bǎo'ān",
+    "meaning": "güvenlik görevlisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "大楼门口有一名保安。",
+        "pinyin": "Dàlóu ménkǒu yǒu yì míng bǎo'ān.",
+        "en": "Binanın girişinde bir güvenlik görevlisi var."
+      },
+      {
+        "zh": "保安检查了每个人的证件。",
+        "pinyin": "Bǎo'ān jiǎnchá le měi ge rén de zhèngjiàn.",
+        "en": "Güvenlik görevlisi herkesin kimliğini kontrol etti."
+      },
+      {
+        "zh": "他在一家公司当保安。",
+        "pinyin": "Tā zài yì jiā gōngsī dāng bǎo'ān.",
+        "en": "Bir şirkette güvenlik görevlisi olarak çalışıyor."
+      },
+      {
+        "zh": "保安负责维护小区的安全。",
+        "pinyin": "Bǎo'ān fùzé wéihù xiǎoqū de ānquán.",
+        "en": "Güvenlik görevlisi mahallenin güvenliğinden sorumlu."
+      },
+      {
+        "zh": "晚上保安会巡逻。",
+        "pinyin": "Wǎnshang bǎo'ān huì xúnluó.",
+        "en": "Akşamları güvenlik görevlisi devriye geziyor."
+      }
+    ]
+  },
+  {
+    "id": "w2580",
+    "hanzi": "保管",
+    "pinyin": "bǎoguǎn",
+    "meaning": "muhafaza etmek, saklamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "请帮我保管这个包裹。",
+        "pinyin": "Qǐng bāng wǒ bǎoguǎn zhège bāoguǒ.",
+        "en": "Lütfen bu paketi benim için saklayın."
+      },
+      {
+        "zh": "这些文件由她负责保管。",
+        "pinyin": "Zhèxiē wénjiàn yóu tā fùzé bǎoguǎn.",
+        "en": "Bu belgelerin muhafazasından o sorumlu."
+      },
+      {
+        "zh": "请把贵重物品保管好。",
+        "pinyin": "Qǐng bǎ guìzhòng wùpǐn bǎoguǎn hǎo.",
+        "en": "Lütfen değerli eşyalarınızı iyi saklayın."
+      },
+      {
+        "zh": "图书馆保管着许多珍贵的书籍。",
+        "pinyin": "Túshūguǎn bǎoguǎn zhe xǔduō zhēnguì de shūjí.",
+        "en": "Kütüphane birçok değerli kitabı muhafaza ediyor."
+      },
+      {
+        "zh": "银行帮客户保管贵重物品。",
+        "pinyin": "Yínháng bāng kèhù bǎoguǎn guìzhòng wùpǐn.",
+        "en": "Banka müşterilerin değerli eşyalarını saklıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2581",
+    "hanzi": "保守",
+    "pinyin": "bǎoshǒu",
+    "meaning": "korumak; tutucu",
+    "partOfSpeech": "fiil/sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的观念比较保守。",
+        "pinyin": "Tā de guānniàn bǐjiào bǎoshǒu.",
+        "en": "Düşünceleri oldukça tutucu."
+      },
+      {
+        "zh": "请保守这个秘密。",
+        "pinyin": "Qǐng bǎoshǒu zhège mìmì.",
+        "en": "Lütfen bu sırrı sakla."
+      },
+      {
+        "zh": "老一辈的人思想更保守一些。",
+        "pinyin": "Lǎo yíbèi de rén sīxiǎng gèng bǎoshǒu yìxiē.",
+        "en": "Eski nesil daha tutucu düşünüyor."
+      },
+      {
+        "zh": "他在投资上很保守。",
+        "pinyin": "Tā zài tóuzī shàng hěn bǎoshǒu.",
+        "en": "Yatırım konusunda çok temkinli."
+      },
+      {
+        "zh": "她保守着这个家族的传统。",
+        "pinyin": "Tā bǎoshǒu zhe zhège jiāzú de chuántǒng.",
+        "en": "Bu ailenin geleneklerini koruyor."
+      }
+    ]
+  },
+  {
+    "id": "w2582",
+    "hanzi": "保养",
+    "pinyin": "bǎoyǎng",
+    "meaning": "bakım yapmak, kendine bakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她很注重保养自己的皮肤。",
+        "pinyin": "Tā hěn zhùzhòng bǎoyǎng zìjǐ de pífū.",
+        "en": "Cildinin bakımına çok önem veriyor."
+      },
+      {
+        "zh": "汽车需要定期保养。",
+        "pinyin": "Qìchē xūyào dìngqī bǎoyǎng.",
+        "en": "Arabanın düzenli bakıma ihtiyacı var."
+      },
+      {
+        "zh": "他每天坚持保养身体。",
+        "pinyin": "Tā měitiān jiānchí bǎoyǎng shēntǐ.",
+        "en": "Her gün vücuduna bakım yapmaya devam ediyor."
+      },
+      {
+        "zh": "这台机器保养得很好。",
+        "pinyin": "Zhè tái jīqì bǎoyǎng de hěn hǎo.",
+        "en": "Bu makinenin bakımı çok iyi yapılmış."
+      },
+      {
+        "zh": "她坚持每天做保养。",
+        "pinyin": "Tā jiānchí měitiān zuò bǎoyǎng.",
+        "en": "Her gün cilt bakımı yapmaya devam ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w2583",
+    "hanzi": "保障",
+    "pinyin": "bǎozhàng",
+    "meaning": "güvence altına almak; güvence",
+    "partOfSpeech": "fiil/isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "法律保障公民的权利。",
+        "pinyin": "Fǎlǜ bǎozhàng gōngmín de quánlì.",
+        "en": "Kanun vatandaşların haklarını güvence altına alır."
+      },
+      {
+        "zh": "社会保障制度很重要。",
+        "pinyin": "Shèhuì bǎozhàng zhìdù hěn zhòngyào.",
+        "en": "Sosyal güvenlik sistemi çok önemli."
+      },
+      {
+        "zh": "公司为员工提供医疗保障。",
+        "pinyin": "Gōngsī wèi yuángōng tígōng yīliáo bǎozhàng.",
+        "en": "Şirket çalışanlara sağlık güvencesi sağlıyor."
+      },
+      {
+        "zh": "政府努力保障人民的生活水平。",
+        "pinyin": "Zhèngfǔ nǔlì bǎozhàng rénmín de shēnghuó shuǐpíng.",
+        "en": "Hükümet halkın yaşam standardını güvence altına almaya çalışıyor."
+      },
+      {
+        "zh": "这项措施保障了工人的安全。",
+        "pinyin": "Zhè xiàng cuòshī bǎozhàng le gōngrén de ānquán.",
+        "en": "Bu önlem işçilerin güvenliğini garanti altına aldı."
+      }
+    ]
+  },
+  {
+    "id": "w2584",
+    "hanzi": "保重",
+    "pinyin": "bǎozhòng",
+    "meaning": "kendine iyi bakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "请多保重身体。",
+        "pinyin": "Qǐng duō bǎozhòng shēntǐ.",
+        "en": "Lütfen sağlığına iyi bak."
+      },
+      {
+        "zh": "天冷了，要保重身体啊。",
+        "pinyin": "Tiān lěng le, yào bǎozhòng shēntǐ a.",
+        "en": "Hava soğudu, kendine iyi bak."
+      },
+      {
+        "zh": "出门在外，一定要保重。",
+        "pinyin": "Chūmén zàiwài, yídìng yào bǎozhòng.",
+        "en": "Uzaktayken kesinlikle kendine dikkat et."
+      },
+      {
+        "zh": "她临走前叮嘱我保重身体。",
+        "pinyin": "Tā lín zǒu qián dīngzhǔ wǒ bǎozhòng shēntǐ.",
+        "en": "Gitmeden önce bana kendime iyi bakmamı tembih etti."
+      },
+      {
+        "zh": "保重，我们下次再见。",
+        "pinyin": "Bǎozhòng, wǒmen xiàcì zàijiàn.",
+        "en": "Kendine iyi bak, tekrar görüşürüz."
+      }
+    ]
+  },
+  {
+    "id": "w2585",
+    "hanzi": "报仇",
+    "pinyin": "bàochóu",
+    "meaning": "intikam almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他发誓要为父亲报仇。",
+        "pinyin": "Tā fāshì yào wèi fùqīn bàochóu.",
+        "en": "Babasının intikamını almaya yemin etti."
+      },
+      {
+        "zh": "她一直想找机会报仇。",
+        "pinyin": "Tā yìzhí xiǎng zhǎo jīhuì bàochóu.",
+        "en": "Sürekli intikam alacak bir fırsat arıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w2586",
+    "hanzi": "报酬",
+    "pinyin": "bàochou",
+    "meaning": "ücret, karşılık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他为这份工作得到了丰厚的报酬。",
+        "pinyin": "Tā wèi zhè fèn gōngzuò dédào le fēnghòu de bàochou.",
+        "en": "Bu iş için yüksek bir ücret aldı."
+      },
+      {
+        "zh": "这份工作的报酬不算高。",
+        "pinyin": "Zhè fèn gōngzuò de bàochou bú suàn gāo.",
+        "en": "Bu işin ücreti pek yüksek sayılmaz."
+      },
+      {
+        "zh": "他不计报酬地帮助别人。",
+        "pinyin": "Tā bú jì bàochou de bāngzhù biérén.",
+        "en": "Karşılık beklemeden başkalarına yardım ediyor."
+      },
+      {
+        "zh": "公司按时支付报酬。",
+        "pinyin": "Gōngsī ànshí zhīfù bàochou.",
+        "en": "Şirket ücretleri zamanında ödüyor."
+      },
+      {
+        "zh": "她希望得到应有的报酬。",
+        "pinyin": "Tā xīwàng dédào yīngyǒu de bàochou.",
+        "en": "Hak ettiği ücreti almayı umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w2587",
+    "hanzi": "报答",
+    "pinyin": "bàodá",
+    "meaning": "karşılığını vermek, minnetini ödemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我想报答父母的养育之恩。",
+        "pinyin": "Wǒ xiǎng bàodá fùmǔ de yǎngyù zhī ēn.",
+        "en": "Ailemin beni yetiştirmesinin karşılığını vermek istiyorum."
+      },
+      {
+        "zh": "他用行动来报答老师的关心。",
+        "pinyin": "Tā yòng xíngdòng lái bàodá lǎoshī de guānxīn.",
+        "en": "Öğretmenin ilgisine eylemleriyle karşılık verdi."
+      },
+      {
+        "zh": "她努力工作，想报答公司的信任。",
+        "pinyin": "Tā nǔlì gōngzuò, xiǎng bàodá gōngsī de xìnrèn.",
+        "en": "Şirketin güvenine karşılık vermek için çok çalışıyor."
+      },
+      {
+        "zh": "我不知道该怎么报答你的帮助。",
+        "pinyin": "Wǒ bù zhīdào gāi zěnme bàodá nǐ de bāngzhù.",
+        "en": "Yardımına nasıl karşılık vereceğimi bilmiyorum."
+      },
+      {
+        "zh": "他决心报答国家的培养。",
+        "pinyin": "Tā juéxīn bàodá guójiā de péiyǎng.",
+        "en": "Devletin kendisini yetiştirmesine karşılık vermeye kararlı."
+      }
+    ]
+  },
+  {
+    "id": "w2588",
+    "hanzi": "报到",
+    "pinyin": "bàodào",
+    "meaning": "kayıt yaptırmak, gelişini bildirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "新生今天去学校报到。",
+        "pinyin": "Xīnshēng jīntiān qù xuéxiào bàodào.",
+        "en": "Yeni öğrenciler bugün okula kayıt yaptırmaya gitti."
+      },
+      {
+        "zh": "请大家按时去报到。",
+        "pinyin": "Qǐng dàjiā ànshí qù bàodào.",
+        "en": "Lütfen herkes zamanında kayıt için gitsin."
+      },
+      {
+        "zh": "他明天要去公司报到。",
+        "pinyin": "Tā míngtiān yào qù gōngsī bàodào.",
+        "en": "Yarın işe başlamak için şirkete gidecek."
+      },
+      {
+        "zh": "报到时请带上身份证。",
+        "pinyin": "Bàodào shí qǐng dài shàng shēnfènzhèng.",
+        "en": "Kayıt sırasında lütfen kimliğinizi getirin."
+      },
+      {
+        "zh": "新员工第一天去公司报到。",
+        "pinyin": "Xīn yuángōng dì yī tiān qù gōngsī bàodào.",
+        "en": "Yeni çalışan ilk gün şirkete kayıt için gitti."
+      }
+    ]
+  },
+  {
+    "id": "w2589",
+    "hanzi": "报复",
+    "pinyin": "bàofù",
+    "meaning": "intikam almak, misilleme yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他不想采取报复行动。",
+        "pinyin": "Tā bù xiǎng cǎiqǔ bàofù xíngdòng.",
+        "en": "İntikam eylemi gerçekleştirmek istemiyor."
+      },
+      {
+        "zh": "她害怕对方会报复自己。",
+        "pinyin": "Tā hàipà duìfāng huì bàofù zìjǐ.",
+        "en": "Karşı tarafın kendisinden intikam alacağından korkuyor."
+      },
+      {
+        "zh": "我们不应该以暴力报复暴力。",
+        "pinyin": "Wǒmen bù yīnggāi yǐ bàolì bàofù bàolì.",
+        "en": "Şiddete şiddetle karşılık vermemeliyiz."
+      },
+      {
+        "zh": "他被解雇后想报复公司。",
+        "pinyin": "Tā bèi jiěgù hòu xiǎng bàofù gōngsī.",
+        "en": "İşten çıkarıldıktan sonra şirketten intikam almak istedi."
+      },
+      {
+        "zh": "她选择原谅，而不是报复。",
+        "pinyin": "Tā xuǎnzé yuánliàng, ér búshì bàofù.",
+        "en": "İntikam almak yerine affetmeyi seçti."
+      }
+    ]
+  },
+  {
+    "id": "w2590",
+    "hanzi": "报警",
+    "pinyin": "bàojǐng",
+    "meaning": "polise haber vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "发现小偷后，他立刻报警了。",
+        "pinyin": "Fāxiàn xiǎotōu hòu, tā lìkè bàojǐng le.",
+        "en": "Hırsızı fark edince hemen polise haber verdi."
+      },
+      {
+        "zh": "请大家遇到危险时及时报警。",
+        "pinyin": "Qǐng dàjiā yùdào wēixiǎn shí jíshí bàojǐng.",
+        "en": "Herkes tehlikeyle karşılaştığında derhal polise haber versin."
+      },
+      {
+        "zh": "邻居听到吵闹声就报警了。",
+        "pinyin": "Línjū tīngdào chǎonào shēng jiù bàojǐng le.",
+        "en": "Komşu gürültü sesini duyunca polise haber verdi."
+      },
+      {
+        "zh": "她报警说家里被盗了。",
+        "pinyin": "Tā bàojǐng shuō jiā lǐ bèi dào le.",
+        "en": "Evinin soyulduğunu bildirmek için polisi aradı."
+      },
+      {
+        "zh": "火警报警器响了。",
+        "pinyin": "Huǒjǐng bàojǐngqì xiǎng le.",
+        "en": "Yangın alarmı çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w2591",
+    "hanzi": "报社",
+    "pinyin": "bàoshè",
+    "meaning": "gazete şirketi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "medya",
+    "examples": [
+      {
+        "zh": "他在一家报社工作。",
+        "pinyin": "Tā zài yì jiā bàoshè gōngzuò.",
+        "en": "Bir gazete şirketinde çalışıyor."
+      },
+      {
+        "zh": "这家报社发行了很多份报纸。",
+        "pinyin": "Zhè jiā bàoshè fāxíng le hěn duō fèn bàozhǐ.",
+        "en": "Bu gazete şirketi birçok gazete yayınladı."
+      },
+      {
+        "zh": "她大学毕业后进入了报社。",
+        "pinyin": "Tā dàxué bìyè hòu jìnrù le bàoshè.",
+        "en": "Üniversiteden mezun olduktan sonra bir gazete şirketine girdi."
+      },
+      {
+        "zh": "报社的记者去现场采访了。",
+        "pinyin": "Bàoshè de jìzhě qù xiànchǎng cǎifǎng le.",
+        "en": "Gazetenin muhabiri olay yerine röportaj yapmaya gitti."
+      },
+      {
+        "zh": "这篇报道发表在当地报社的报纸上。",
+        "pinyin": "Zhè piān bàodào fābiǎo zài dāngdì bàoshè de bàozhǐ shàng.",
+        "en": "Bu haber yerel gazetede yayınlandı."
+      }
+    ]
+  },
+  {
+    "id": "w2592",
+    "hanzi": "抱怨",
+    "pinyin": "bàoyuàn",
+    "meaning": "şikayet etmek, yakınmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他总是抱怨工作太累。",
+        "pinyin": "Tā zǒngshì bàoyuàn gōngzuò tài lèi.",
+        "en": "Her zaman işin çok yorucu olduğundan şikayet ediyor."
+      },
+      {
+        "zh": "别抱怨了，努力解决问题吧。",
+        "pinyin": "Bié bàoyuàn le, nǔlì jiějué wèntí ba.",
+        "en": "Şikayet etme, sorunu çözmeye çalış."
+      },
+      {
+        "zh": "她抱怨天气太热。",
+        "pinyin": "Tā bàoyuàn tiānqì tài rè.",
+        "en": "Havanın çok sıcak olduğundan yakınıyor."
+      },
+      {
+        "zh": "顾客抱怨服务态度不好。",
+        "pinyin": "Gùkè bàoyuàn fúwù tàidu bù hǎo.",
+        "en": "Müşteri hizmet tutumundan şikayet etti."
+      },
+      {
+        "zh": "他从不抱怨自己的处境。",
+        "pinyin": "Tā cóng bù bàoyuàn zìjǐ de chǔjìng.",
+        "en": "Kendi durumundan asla şikayet etmez."
+      }
+    ]
+  },
+  {
+    "id": "w2593",
+    "hanzi": "暴风雨",
+    "pinyin": "bàofēngyǔ",
+    "meaning": "fırtına",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "昨晚下了一场暴风雨。",
+        "pinyin": "Zuówǎn xià le yì chǎng bàofēngyǔ.",
+        "en": "Dün gece şiddetli bir fırtına yaşandı."
+      },
+      {
+        "zh": "暴风雨来临前，天空变得很暗。",
+        "pinyin": "Bàofēngyǔ láilín qián, tiānkōng biàn de hěn àn.",
+        "en": "Fırtınadan önce gökyüzü çok kararıyor."
+      },
+      {
+        "zh": "渔民们赶紧回港躲避暴风雨。",
+        "pinyin": "Yúmínmen gǎnjǐn huí gǎng duǒbì bàofēngyǔ.",
+        "en": "Balıkçılar fırtınadan kaçmak için hemen limana döndü."
+      },
+      {
+        "zh": "这场暴风雨造成了很大损失。",
+        "pinyin": "Zhè chǎng bàofēngyǔ zàochéng le hěn dà sǔnshī.",
+        "en": "Bu fırtına büyük hasara yol açtı."
+      },
+      {
+        "zh": "暴风雨过后，天空出现了彩虹。",
+        "pinyin": "Bàofēngyǔ guòhòu, tiānkōng chūxiàn le cǎihóng.",
+        "en": "Fırtınadan sonra gökyüzünde gökkuşağı belirdi."
+      }
+    ]
+  },
+  {
+    "id": "w2594",
+    "hanzi": "爆发",
+    "pinyin": "bàofā",
+    "meaning": "patlak vermek, patlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "战争突然爆发了。",
+        "pinyin": "Zhànzhēng tūrán bàofā le.",
+        "en": "Savaş aniden patlak verdi."
+      },
+      {
+        "zh": "火山爆发造成了严重的破坏。",
+        "pinyin": "Huǒshān bàofā zàochéng le yánzhòng de pòhuài.",
+        "en": "Yanardağ patlaması ciddi hasara yol açtı."
+      },
+      {
+        "zh": "他的愤怒终于爆发了出来。",
+        "pinyin": "Tā de fènnù zhōngyú bàofā le chūlái.",
+        "en": "Öfkesi sonunda patlak verdi."
+      },
+      {
+        "zh": "这次冲突随时可能爆发。",
+        "pinyin": "Zhè cì chōngtū suíshí kěnéng bàofā.",
+        "en": "Bu çatışma her an patlak verebilir."
+      },
+      {
+        "zh": "疫情在这个城市爆发了。",
+        "pinyin": "Yìqíng zài zhège chéngshì bàofā le.",
+        "en": "Salgın bu şehirde patlak verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2595",
+    "hanzi": "暴力",
+    "pinyin": "bàolì",
+    "meaning": "şiddet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们反对任何形式的暴力。",
+        "pinyin": "Wǒmen fǎnduì rènhé xíngshì de bàolì.",
+        "en": "Her türlü şiddete karşıyız."
+      },
+      {
+        "zh": "电影里有很多暴力场面。",
+        "pinyin": "Diànyǐng lǐ yǒu hěn duō bàolì chǎngmiàn.",
+        "en": "Filmde birçok şiddet sahnesi var."
+      },
+      {
+        "zh": "家庭暴力是一个严重的社会问题。",
+        "pinyin": "Jiātíng bàolì shì yí ge yánzhòng de shèhuì wèntí.",
+        "en": "Aile içi şiddet ciddi bir toplumsal sorundur."
+      },
+      {
+        "zh": "学校应该防止校园暴力。",
+        "pinyin": "Xuéxiào yīnggāi fángzhǐ xiàoyuán bàolì.",
+        "en": "Okullar okul içi şiddeti önlemelidir."
+      },
+      {
+        "zh": "他从不用暴力解决问题。",
+        "pinyin": "Tā cóng bú yòng bàolì jiějué wèntí.",
+        "en": "Sorunları asla şiddetle çözmez."
+      }
+    ]
+  },
+  {
+    "id": "w2596",
+    "hanzi": "暴露",
+    "pinyin": "bàolù",
+    "meaning": "ifşa etmek, ortaya çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他的谎言最终暴露了。",
+        "pinyin": "Tā de huǎngyán zuìzhōng bàolù le.",
+        "en": "Yalanı sonunda ortaya çıktı."
+      },
+      {
+        "zh": "这次调查暴露了很多问题。",
+        "pinyin": "Zhè cì diàochá bàolù le hěn duō wèntí.",
+        "en": "Bu soruşturma birçok sorunu ortaya çıkardı."
+      },
+      {
+        "zh": "她不想暴露自己的身份。",
+        "pinyin": "Tā bù xiǎng bàolù zìjǐ de shēnfèn.",
+        "en": "Kimliğini ifşa etmek istemiyor."
+      },
+      {
+        "zh": "这份文件暴露了公司的秘密。",
+        "pinyin": "Zhè fèn wénjiàn bàolù le gōngsī de mìmì.",
+        "en": "Bu belge şirketin sırrını ortaya çıkardı."
+      },
+      {
+        "zh": "长时间暴露在阳光下对皮肤不好。",
+        "pinyin": "Cháng shíjiān bàolù zài yángguāng xià duì pífū bù hǎo.",
+        "en": "Uzun süre güneş ışığına maruz kalmak cilt için zararlı."
+      }
+    ]
   }
 ]

@@ -95977,5 +95977,557 @@
         "en": "Bu şirket özellikle gayrimenkul alım satımıyla uğraşıyor."
       }
     ]
+  },
+  {
+    "id": "w2705",
+    "hanzi": "不妨",
+    "pinyin": "bùfáng",
+    "meaning": "zararı yok, -se de olur",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "你不妨试试这个方法。",
+        "pinyin": "Nǐ bùfáng shìshi zhège fāngfǎ.",
+        "en": "Bu yöntemi denemende zarar yok."
+      },
+      {
+        "zh": "有问题不妨直接问老师。",
+        "pinyin": "Yǒu wèntí bùfáng zhíjiē wèn lǎoshī.",
+        "en": "Sorun varsa doğrudan öğretmene sormanda sakınca yok."
+      },
+      {
+        "zh": "我们不妨先听听他的意见。",
+        "pinyin": "Wǒmen bùfáng xiān tīngting tā de yìjiàn.",
+        "en": "Önce onun görüşünü dinlememizde bir sakınca yok."
+      },
+      {
+        "zh": "时间还早，你不妨再等一会儿。",
+        "pinyin": "Shíjiān hái zǎo, nǐ bùfáng zài děng yíhuìr.",
+        "en": "Vakit henüz erken, biraz daha beklemende sakınca yok."
+      },
+      {
+        "zh": "不妨换个角度考虑这个问题。",
+        "pinyin": "Bùfáng huàn ge jiǎodù kǎolǜ zhège wèntí.",
+        "en": "Bu soruna farklı bir açıdan bakmakta fayda var."
+      }
+    ]
+  },
+  {
+    "id": "w2706",
+    "hanzi": "不服",
+    "pinyin": "bùfú",
+    "meaning": "kabul etmemek, boyun eğmemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他对判决结果不服。",
+        "pinyin": "Tā duì pànjué jiéguǒ bùfú.",
+        "en": "Karar sonucunu kabul etmiyor."
+      },
+      {
+        "zh": "她不服输，继续努力训练。",
+        "pinyin": "Tā bùfú shū, jìxù nǔlì xùnliàn.",
+        "en": "Yenilgiyi kabul etmiyor, çalışmaya devam ediyor."
+      },
+      {
+        "zh": "我对这个结果表示不服。",
+        "pinyin": "Wǒ duì zhège jiéguǒ biǎoshì bùfú.",
+        "en": "Bu sonucu kabul etmediğimi belirtiyorum."
+      },
+      {
+        "zh": "他一直不服老，坚持锻炼身体。",
+        "pinyin": "Tā yìzhí bùfú lǎo, jiānchí duànliàn shēntǐ.",
+        "en": "Yaşlanmayı kabullenmiyor, spor yapmaya devam ediyor."
+      },
+      {
+        "zh": "她不服气地反驳了老师的说法。",
+        "pinyin": "Tā bùfúqì de fǎnbó le lǎoshī de shuōfǎ.",
+        "en": "Kabullenemeyerek öğretmenin görüşüne itiraz etti."
+      }
+    ]
+  },
+  {
+    "id": "w2707",
+    "hanzi": "不够",
+    "pinyin": "bùgòu",
+    "meaning": "yetersiz, yetmez",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "钱不够，我们再等等吧。",
+        "pinyin": "Qián bùgòu, wǒmen zài děngdeng ba.",
+        "en": "Para yetmiyor, biraz daha bekleyelim."
+      },
+      {
+        "zh": "时间不够，我做不完作业了。",
+        "pinyin": "Shíjiān bùgòu, wǒ zuò bu wán zuòyè le.",
+        "en": "Zaman yetmiyor, ödevi bitiremeyeceğim."
+      },
+      {
+        "zh": "这些食物不够大家吃。",
+        "pinyin": "Zhèxiē shíwù bùgòu dàjiā chī.",
+        "en": "Bu yiyecekler herkese yetmiyor."
+      },
+      {
+        "zh": "他觉得自己的努力还不够。",
+        "pinyin": "Tā juéde zìjǐ de nǔlì hái bùgòu.",
+        "en": "Kendi çabasının hâlâ yetersiz olduğunu düşünüyor."
+      },
+      {
+        "zh": "房间的空间不够放这张床。",
+        "pinyin": "Fángjiān de kōngjiān bùgòu fàng zhè zhāng chuáng.",
+        "en": "Odanın alanı bu yatağı koymaya yetmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w2708",
+    "hanzi": "不顾",
+    "pinyin": "bùgù",
+    "meaning": "önemsememek, aldırmamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他不顾大家的反对，坚持自己的想法。",
+        "pinyin": "Tā bùgù dàjiā de fǎnduì, jiānchí zìjǐ de xiǎngfǎ.",
+        "en": "Herkesin karşı çıkmasına rağmen kendi fikrinde ısrar etti."
+      },
+      {
+        "zh": "她不顾危险冲进了火场。",
+        "pinyin": "Tā bùgù wēixiǎn chōng jìn le huǒchǎng.",
+        "en": "Tehlikeyi umursamadan yangın alanına daldı."
+      },
+      {
+        "zh": "他不顾一切地追求自己的梦想。",
+        "pinyin": "Tā bùgù yíqiè de zhuīqiú zìjǐ de mèngxiǎng.",
+        "en": "Her şeyi göze alarak hayalinin peşinden koştu."
+      },
+      {
+        "zh": "她不顾身体不适，坚持工作。",
+        "pinyin": "Tā bùgù shēntǐ búshì, jiānchí gōngzuò.",
+        "en": "Rahatsızlığına aldırmadan çalışmaya devam etti."
+      },
+      {
+        "zh": "他不顾家人的担心，出国留学了。",
+        "pinyin": "Tā bùgù jiārén de dānxīn, chūguó liúxué le.",
+        "en": "Ailesinin endişesine aldırmadan yurt dışında okumaya gitti."
+      }
+    ]
+  },
+  {
+    "id": "w2709",
+    "hanzi": "不禁",
+    "pinyin": "bùjīn",
+    "meaning": "elinde olmadan, kendini tutamayarak",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "听到这个消息，她不禁哭了起来。",
+        "pinyin": "Tīngdào zhège xiāoxi, tā bùjīn kū le qǐlái.",
+        "en": "Bu haberi duyunca kendini tutamayıp ağlamaya başladı."
+      },
+      {
+        "zh": "看到这么美的风景，他不禁赞叹起来。",
+        "pinyin": "Kàndào zhème měi de fēngjǐng, tā bùjīn zàntàn qǐlái.",
+        "en": "Bu kadar güzel manzarayı görünce kendini tutamayıp hayranlıkla haykırdı."
+      },
+      {
+        "zh": "我不禁笑了出来。",
+        "pinyin": "Wǒ bùjīn xiào le chūlái.",
+        "en": "Kendimi tutamayıp güldüm."
+      },
+      {
+        "zh": "听了他的故事，大家不禁感动落泪。",
+        "pinyin": "Tīng le tā de gùshi, dàjiā bùjīn gǎndòng luòlèi.",
+        "en": "Onun hikayesini dinleyince herkes kendini tutamayıp duygulanarak ağladı."
+      },
+      {
+        "zh": "她不禁想起了童年的往事。",
+        "pinyin": "Tā bùjīn xiǎngqǐ le tóngnián de wǎngshì.",
+        "en": "Kendini tutamayıp çocukluk anılarını hatırladı."
+      }
+    ]
+  },
+  {
+    "id": "w2710",
+    "hanzi": "不可思议",
+    "pinyin": "bùkěsīyì",
+    "meaning": "inanılmaz, akıl almaz",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个结果真是不可思议。",
+        "pinyin": "Zhège jiéguǒ zhēnshi bùkěsīyì.",
+        "en": "Bu sonuç gerçekten inanılmaz."
+      },
+      {
+        "zh": "他的记忆力不可思议地好。",
+        "pinyin": "Tā de jìyìlì bùkěsīyì de hǎo.",
+        "en": "Hafızası inanılmaz derecede iyi."
+      },
+      {
+        "zh": "这种事情听起来不可思议。",
+        "pinyin": "Zhè zhǒng shìqing tīngqǐlái bùkěsīyì.",
+        "en": "Bu tür bir olay kulağa akıl almaz geliyor."
+      },
+      {
+        "zh": "大自然的力量真是不可思议。",
+        "pinyin": "Dàzìrán de lìliang zhēnshi bùkěsīyì.",
+        "en": "Doğanın gücü gerçekten akıl almaz."
+      },
+      {
+        "zh": "他用不可思议的速度完成了任务。",
+        "pinyin": "Tā yòng bùkěsīyì de sùdù wánchéng le rènwu.",
+        "en": "Görevi inanılmaz bir hızla tamamladı."
+      }
+    ]
+  },
+  {
+    "id": "w2711",
+    "hanzi": "不利",
+    "pinyin": "bùlì",
+    "meaning": "elverişsiz, dezavantajlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个决定对公司不利。",
+        "pinyin": "Zhège juédìng duì gōngsī bùlì.",
+        "en": "Bu karar şirket için elverişsiz."
+      },
+      {
+        "zh": "天气不利，比赛推迟了。",
+        "pinyin": "Tiānqì bùlì, bǐsài tuīchí le.",
+        "en": "Hava koşulları elverişsiz olduğu için maç ertelendi."
+      },
+      {
+        "zh": "这种做法对健康不利。",
+        "pinyin": "Zhè zhǒng zuòfǎ duì jiànkāng bùlì.",
+        "en": "Bu tür bir yaklaşım sağlık için zararlı."
+      },
+      {
+        "zh": "经济形势对小企业不利。",
+        "pinyin": "Jīngjì xíngshì duì xiǎo qǐyè bùlì.",
+        "en": "Ekonomik durum küçük işletmeler için elverişsiz."
+      },
+      {
+        "zh": "他处在一个不利的位置。",
+        "pinyin": "Tā chǔ zài yí ge bùlì de wèizhi.",
+        "en": "Dezavantajlı bir konumda bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w2712",
+    "hanzi": "不良",
+    "pinyin": "bùliáng",
+    "meaning": "kötü, zararlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "熬夜对健康有不良影响。",
+        "pinyin": "Áoyè duì jiànkāng yǒu bùliáng yǐngxiǎng.",
+        "en": "Geç saatlere kadar uyumamak sağlığa kötü etki eder."
+      },
+      {
+        "zh": "他有一些不良的生活习惯。",
+        "pinyin": "Tā yǒu yìxiē bùliáng de shēnghuó xíguàn.",
+        "en": "Bazı kötü yaşam alışkanlıkları var."
+      },
+      {
+        "zh": "这种食品会造成不良反应。",
+        "pinyin": "Zhè zhǒng shípǐn huì zàochéng bùliáng fǎnyìng.",
+        "en": "Bu tür gıdalar olumsuz tepkilere neden olabilir."
+      },
+      {
+        "zh": "学校应该纠正学生的不良行为。",
+        "pinyin": "Xuéxiào yīnggāi jiūzhèng xuésheng de bùliáng xíngwéi.",
+        "en": "Okullar öğrencilerin kötü davranışlarını düzeltmeli."
+      },
+      {
+        "zh": "长期压力会带来不良后果。",
+        "pinyin": "Chángqī yālì huì dàilái bùliáng hòuguǒ.",
+        "en": "Uzun süreli stres olumsuz sonuçlar doğurabilir."
+      }
+    ]
+  },
+  {
+    "id": "w2713",
+    "hanzi": "不料",
+    "pinyin": "bùliào",
+    "meaning": "beklenmedik şekilde",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他本想早点回家，不料被临时叫去加班。",
+        "pinyin": "Tā běn xiǎng zǎodiǎn huíjiā, bùliào bèi línshí jiào qù jiābān.",
+        "en": "Erken eve dönmeyi düşünüyordu, ama beklenmedik bir şekilde fazla mesaiye çağrıldı."
+      },
+      {
+        "zh": "我们准备出门，不料下起了大雨。",
+        "pinyin": "Wǒmen zhǔnbèi chūmén, bùliào xià qǐ le dàyǔ.",
+        "en": "Dışarı çıkmaya hazırlanıyorduk ki beklenmedik bir şekilde şiddetli yağmur yağmaya başladı."
+      },
+      {
+        "zh": "他信心满满，不料考试失败了。",
+        "pinyin": "Tā xìnxīn mǎnmǎn, bùliào kǎoshì shībài le.",
+        "en": "Özgüveni tamdı, fakat beklenmedik şekilde sınavda başarısız oldu."
+      },
+      {
+        "zh": "她原本以为会很顺利，不料遇到了很多困难。",
+        "pinyin": "Tā yuánběn yǐwéi huì hěn shùnlì, bùliào yùdào le hěn duō kùnnan.",
+        "en": "İşlerin kolay geçeceğini düşünüyordu, ama beklenmedik şekilde birçok zorlukla karşılaştı."
+      },
+      {
+        "zh": "他们本来打算去爬山，不料天气突然变坏了。",
+        "pinyin": "Tāmen běnlái dǎsuàn qù pá shān, bùliào tiānqì tūrán biàn huài le.",
+        "en": "Dağa tırmanmayı planlıyorlardı, ama beklenmedik şekilde hava aniden bozdu."
+      }
+    ]
+  },
+  {
+    "id": "w2714",
+    "hanzi": "不满",
+    "pinyin": "bùmǎn",
+    "meaning": "memnuniyetsiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他对这次的结果很不满。",
+        "pinyin": "Tā duì zhè cì de jiéguǒ hěn bùmǎn.",
+        "en": "Bu sonuçtan çok memnun değil."
+      },
+      {
+        "zh": "员工们对新政策表示不满。",
+        "pinyin": "Yuángōngmen duì xīn zhèngcè biǎoshì bùmǎn.",
+        "en": "Çalışanlar yeni politikadan memnuniyetsizliklerini dile getirdi."
+      },
+      {
+        "zh": "她心中充满了不满情绪。",
+        "pinyin": "Tā xīnzhōng chōngmǎn le bùmǎn qíngxù.",
+        "en": "İçi memnuniyetsizlik duygusuyla dolu."
+      },
+      {
+        "zh": "顾客对服务态度感到不满。",
+        "pinyin": "Gùkè duì fúwù tàidu gǎndào bùmǎn.",
+        "en": "Müşteri hizmet tutumundan memnun değil."
+      },
+      {
+        "zh": "他的不满情绪终于爆发了。",
+        "pinyin": "Tā de bùmǎn qíngxù zhōngyú bàofā le.",
+        "en": "Memnuniyetsizlik duyguları sonunda patlak verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2715",
+    "hanzi": "不巧",
+    "pinyin": "bùqiǎo",
+    "meaning": "ne yazık ki, maalesef",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我去找他的时候，不巧他不在家。",
+        "pinyin": "Wǒ qù zhǎo tā de shíhou, bùqiǎo tā bú zài jiā.",
+        "en": "Onu bulmaya gittiğimde, maalesef evde değildi."
+      },
+      {
+        "zh": "真不巧，我们的航班被取消了。",
+        "pinyin": "Zhēn bùqiǎo, wǒmen de hángbān bèi qǔxiāo le.",
+        "en": "Ne yazık ki uçuşumuz iptal edildi."
+      },
+      {
+        "zh": "不巧的是，那天正好下大雨。",
+        "pinyin": "Bùqiǎo de shì, nà tiān zhènghǎo xià dàyǔ.",
+        "en": "Ne yazık ki o gün tam da şiddetli yağmur yağıyordu."
+      },
+      {
+        "zh": "我想请他帮忙，不巧他正在忙。",
+        "pinyin": "Wǒ xiǎng qǐng tā bāngmáng, bùqiǎo tā zhèngzài máng.",
+        "en": "Ondan yardım istemek istedim, maalesef o sırada meşguldü."
+      },
+      {
+        "zh": "不巧我们错过了那趟火车。",
+        "pinyin": "Bùqiǎo wǒmen cuòguò le nà tàng huǒchē.",
+        "en": "Maalesef o treni kaçırdık."
+      }
+    ]
+  },
+  {
+    "id": "w2716",
+    "hanzi": "不适",
+    "pinyin": "bùshì",
+    "meaning": "rahatsız, keyifsiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她今天感到身体不适。",
+        "pinyin": "Tā jīntiān gǎndào shēntǐ búshì.",
+        "en": "Bugün kendini fiziksel olarak rahatsız hissediyor."
+      },
+      {
+        "zh": "吃了这种药后，他感到有些不适。",
+        "pinyin": "Chī le zhè zhǒng yào hòu, tā gǎndào yǒuxiē búshì.",
+        "en": "Bu ilacı aldıktan sonra biraz rahatsızlık hissetti."
+      },
+      {
+        "zh": "长时间坐着会让人感到不适。",
+        "pinyin": "Cháng shíjiān zuòzhe huì ràng rén gǎndào búshì.",
+        "en": "Uzun süre oturmak insanı rahatsız eder."
+      },
+      {
+        "zh": "如果感到不适，请立即就医。",
+        "pinyin": "Rúguǒ gǎndào búshì, qǐng lìjí jiùyī.",
+        "en": "Rahatsızlık hissederseniz lütfen derhal doktora gidin."
+      },
+      {
+        "zh": "她胃部有些不适。",
+        "pinyin": "Tā wèi bù yǒuxiē búshì.",
+        "en": "Midesinde biraz rahatsızlık var."
+      }
+    ]
+  },
+  {
+    "id": "w2717",
+    "hanzi": "不同",
+    "pinyin": "bùtóng",
+    "meaning": "farklı",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "每个人的想法都不同。",
+        "pinyin": "Měi ge rén de xiǎngfǎ dōu bùtóng.",
+        "en": "Herkesin düşüncesi farklı."
+      },
+      {
+        "zh": "这两件衣服的颜色不同。",
+        "pinyin": "Zhè liǎng jiàn yīfu de yánsè bùtóng.",
+        "en": "Bu iki kıyafetin rengi farklı."
+      },
+      {
+        "zh": "不同的文化有不同的习俗。",
+        "pinyin": "Bùtóng de wénhuà yǒu bùtóng de xísú.",
+        "en": "Farklı kültürlerin farklı gelenekleri vardır."
+      },
+      {
+        "zh": "他们对这个问题有不同的看法。",
+        "pinyin": "Tāmen duì zhège wèntí yǒu bùtóng de kànfǎ.",
+        "en": "Bu konuda farklı görüşleri var."
+      },
+      {
+        "zh": "每个国家的法律都不同。",
+        "pinyin": "Měi ge guójiā de fǎlǜ dōu bùtóng.",
+        "en": "Her ülkenin kanunları farklıdır."
+      }
+    ]
+  },
+  {
+    "id": "w2718",
+    "hanzi": "不合",
+    "pinyin": "bùhé",
+    "meaning": "uymamak, uygun olmamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这双鞋不合我的脚。",
+        "pinyin": "Zhè shuāng xié bùhé wǒ de jiǎo.",
+        "en": "Bu ayakkabı ayağıma uymuyor."
+      },
+      {
+        "zh": "他的做法不合规定。",
+        "pinyin": "Tā de zuòfǎ bùhé guīdìng.",
+        "en": "Onun yaptığı kurallara uygun değil."
+      }
+    ]
+  },
+  {
+    "id": "w2719",
+    "hanzi": "不解",
+    "pinyin": "bùjiě",
+    "meaning": "anlamamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "大家对他的决定感到不解。",
+        "pinyin": "Dàjiā duì tā de juédìng gǎndào bùjiě.",
+        "en": "Herkes onun kararını anlayamadı."
+      },
+      {
+        "zh": "她一脸不解地看着我。",
+        "pinyin": "Tā yì liǎn bùjiě de kànzhe wǒ.",
+        "en": "Anlamamış bir ifadeyle bana baktı."
+      }
+    ]
+  },
+  {
+    "id": "w2720",
+    "hanzi": "不明",
+    "pinyin": "bùmíng",
+    "meaning": "belirsiz, bilinmeyen",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "事故的原因目前还不明。",
+        "pinyin": "Shìgù de yuányīn mùqián hái bùmíng.",
+        "en": "Kazanın nedeni şu an hâlâ belirsiz."
+      },
+      {
+        "zh": "他因身份不明被拒绝入境。",
+        "pinyin": "Tā yīn shēnfèn bùmíng bèi jùjué rùjìng.",
+        "en": "Kimliği belirsiz olduğu için giriş yapması reddedildi."
+      }
+    ]
+  },
+  {
+    "id": "w2721",
+    "hanzi": "不妥",
+    "pinyin": "bùtuǒ",
+    "meaning": "uygunsuz, yersiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这样做似乎有些不妥。",
+        "pinyin": "Zhèyàng zuò sìhū yǒuxiē bùtuǒ.",
+        "en": "Böyle yapmak biraz uygunsuz görünüyor."
+      },
+      {
+        "zh": "他觉得这个安排不妥。",
+        "pinyin": "Tā juéde zhège ānpái bùtuǒ.",
+        "en": "Bu düzenlemeyi uygunsuz buluyor."
+      }
+    ]
   }
 ]

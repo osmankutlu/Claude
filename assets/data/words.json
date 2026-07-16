@@ -159151,5 +159151,689 @@
         "en": "Bu köy komşu ilçenin idaresine bağlıdır."
       }
     ]
+  },
+  {
+    "id": "w4618",
+    "hanzi": "联邦",
+    "pinyin": "liánbāng",
+    "meaning": "Federasyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "美国是一个联邦制国家。",
+        "pinyin": "Měiguó shì yí gè liánbāngzhì guójiā.",
+        "en": "Amerika bir federal ülkedir."
+      },
+      {
+        "zh": "联邦政府负责国家层面的事务。",
+        "pinyin": "Liánbāng zhèngfǔ fùzé guójiā céngmiàn de shìwù.",
+        "en": "Federal hükümet ulusal düzeydeki işlerden sorumludur."
+      },
+      {
+        "zh": "这个国家由多个州组成联邦。",
+        "pinyin": "Zhège guójiā yóu duō gè zhōu zǔchéng liánbāng.",
+        "en": "Bu ülke birçok eyaletten oluşan bir federasyondur."
+      },
+      {
+        "zh": "联邦法律适用于全国。",
+        "pinyin": "Liánbāng fǎlǜ shìyòng yú quánguó.",
+        "en": "Federal yasalar tüm ülkede geçerlidir."
+      },
+      {
+        "zh": "德国也是联邦制国家之一。",
+        "pinyin": "Déguó yě shì liánbāngzhì guójiā zhī yī.",
+        "en": "Almanya da federal devletlerden biridir."
+      }
+    ]
+  },
+  {
+    "id": "w4619",
+    "hanzi": "廉价",
+    "pinyin": "liánjià",
+    "meaning": "Ucuz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "这家超市卖廉价商品。",
+        "pinyin": "Zhè jiā chāoshì mài liánjià shāngpǐn.",
+        "en": "Bu süpermarket ucuz ürünler satıyor."
+      },
+      {
+        "zh": "他买了一件廉价的外套。",
+        "pinyin": "Tā mǎi le yí jiàn liánjià de wàitào.",
+        "en": "Ucuz bir mont satın aldı."
+      },
+      {
+        "zh": "廉价航空公司提供便宜的机票。",
+        "pinyin": "Liánjià hángkōng gōngsī tígōng piányi de jīpiào.",
+        "en": "Ucuz havayolu şirketi uygun fiyatlı biletler sunuyor."
+      },
+      {
+        "zh": "别贪图廉价而买质量差的东西。",
+        "pinyin": "Bié tāntú liánjià ér mǎi zhìliàng chà de dōngxi.",
+        "en": "Ucuza kaçıp kalitesiz şeyler satın alma."
+      },
+      {
+        "zh": "这些原材料价格廉价。",
+        "pinyin": "Zhèxiē yuáncáiliào jiàgé liánjià.",
+        "en": "Bu hammaddelerin fiyatı ucuzdur."
+      }
+    ]
+  },
+  {
+    "id": "w4620",
+    "hanzi": "廉洁",
+    "pinyin": "liánjié",
+    "meaning": "Dürüst, temiz (yolsuzluksuz)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是一位廉洁的官员。",
+        "pinyin": "Tā shì yí wèi liánjié de guānyuán.",
+        "en": "O dürüst bir memurdur."
+      },
+      {
+        "zh": "政府提倡廉洁从政。",
+        "pinyin": "Zhèngfǔ tíchàng liánjié cóngzhèng.",
+        "en": "Hükümet dürüst bir yönetimi teşvik ediyor."
+      },
+      {
+        "zh": "廉洁自律是每个公务员应有的品质。",
+        "pinyin": "Liánjié zìlǜ shì měi gè gōngwùyuán yīngyǒu de pǐnzhì.",
+        "en": "Dürüstlük ve öz denetim, her memurun sahip olması gereken niteliktir."
+      },
+      {
+        "zh": "他一生廉洁奉公。",
+        "pinyin": "Tā yìshēng liánjié fènggōng.",
+        "en": "Hayatı boyunca dürüst bir şekilde kamu görevini yerine getirdi."
+      },
+      {
+        "zh": "廉洁政府赢得了民众的信任。",
+        "pinyin": "Liánjié zhèngfǔ yíngdé le mínzhòng de xìnrèn.",
+        "en": "Temiz bir hükümet halkın güvenini kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w4621",
+    "hanzi": "连词",
+    "pinyin": "liáncí",
+    "meaning": "Bağlaç",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "'和'是一个常用的连词。",
+        "pinyin": "'Hé' shì yí gè chángyòng de liáncí.",
+        "en": "'Ve' sık kullanılan bir bağlaçtır."
+      },
+      {
+        "zh": "他学习了各种连词的用法。",
+        "pinyin": "Tā xuéxí le gèzhǒng liáncí de yòngfǎ.",
+        "en": "Çeşitli bağlaçların kullanımını öğrendi."
+      },
+      {
+        "zh": "这句话缺少一个连词。",
+        "pinyin": "Zhè jù huà quēshǎo yí gè liáncí.",
+        "en": "Bu cümlede bir bağlaç eksik."
+      },
+      {
+        "zh": "连词可以连接两个句子。",
+        "pinyin": "Liáncí kěyǐ liánjiē liǎng gè jùzi.",
+        "en": "Bağlaçlar iki cümleyi birbirine bağlayabilir."
+      },
+      {
+        "zh": "老师讲解了转折连词的用法。",
+        "pinyin": "Lǎoshī jiǎngjiě le zhuǎnzhé liáncí de yòngfǎ.",
+        "en": "Öğretmen zıtlık bağlaçlarının kullanımını açıkladı."
+      }
+    ]
+  },
+  {
+    "id": "w4622",
+    "hanzi": "连接",
+    "pinyin": "liánjiē",
+    "meaning": "Bağlamak, birleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这座桥连接了两个城市。",
+        "pinyin": "Zhè zuò qiáo liánjiē le liǎng gè chéngshì.",
+        "en": "Bu köprü iki şehri birbirine bağlıyor."
+      },
+      {
+        "zh": "请把电脑连接到网络。",
+        "pinyin": "Qǐng bǎ diànnǎo liánjiē dào wǎngluò.",
+        "en": "Lütfen bilgisayarı internete bağlayın."
+      },
+      {
+        "zh": "这条铁路连接了南北两地。",
+        "pinyin": "Zhè tiáo tiělù liánjiē le nán-běi liǎng dì.",
+        "en": "Bu demiryolu güney ve kuzeyi birbirine bağlıyor."
+      },
+      {
+        "zh": "两个词之间用连字符连接。",
+        "pinyin": "Liǎng gè cí zhījiān yòng liánzìfú liánjiē.",
+        "en": "İki kelime arasında tire ile bağlantı kuruluyor."
+      },
+      {
+        "zh": "他们通过网络紧密连接在一起。",
+        "pinyin": "Tāmen tōngguò wǎngluò jǐnmì liánjiē zài yìqǐ.",
+        "en": "İnternet aracılığıyla sıkı bir şekilde birbirlerine bağlılar."
+      }
+    ]
+  },
+  {
+    "id": "w4623",
+    "hanzi": "连累",
+    "pinyin": "liánlěi",
+    "meaning": "Başkasını da problemine sokmak, zahmet vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的错误连累了整个团队。",
+        "pinyin": "Tā de cuòwù liánlěi le zhěnggè tuánduì.",
+        "en": "Hatası tüm ekibi zora soktu."
+      },
+      {
+        "zh": "别因为自己的问题连累别人。",
+        "pinyin": "Bié yīnwèi zìjǐ de wèntí liánlěi biérén.",
+        "en": "Kendi sorunun yüzünden başkalarını zora sokma."
+      },
+      {
+        "zh": "他不想连累家人。",
+        "pinyin": "Tā bù xiǎng liánlěi jiārén.",
+        "en": "Ailesini zora sokmak istemiyor."
+      },
+      {
+        "zh": "公司的失误连累了合作伙伴。",
+        "pinyin": "Gōngsī de shīwù liánlěi le hézuò huǒbàn.",
+        "en": "Şirketin hatası iş ortaklarını da etkiledi."
+      },
+      {
+        "zh": "他因为朋友的错误被连累了。",
+        "pinyin": "Tā yīnwèi péngyou de cuòwù bèi liánlěi le.",
+        "en": "Arkadaşının hatası yüzünden zor duruma düştü."
+      }
+    ]
+  },
+  {
+    "id": "w4624",
+    "hanzi": "连任",
+    "pinyin": "liánrèn",
+    "meaning": "Yeniden seçilmek, görevde kalmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他成功连任了总统。",
+        "pinyin": "Tā chénggōng liánrèn le zǒngtǒng.",
+        "en": "Başarıyla başkan olarak yeniden seçildi."
+      },
+      {
+        "zh": "这位市长已经连任三届。",
+        "pinyin": "Zhè wèi shìzhǎng yǐjīng liánrèn sān jiè.",
+        "en": "Bu belediye başkanı üç dönem üst üste görevde kaldı."
+      },
+      {
+        "zh": "他希望能够连任理事会主席。",
+        "pinyin": "Tā xīwàng nénggòu liánrèn lǐshìhuì zhǔxí.",
+        "en": "Yönetim kurulu başkanlığına yeniden seçilmeyi umuyor."
+      },
+      {
+        "zh": "法律规定总统不得连任超过两届。",
+        "pinyin": "Fǎlǜ guīdìng zǒngtǒng bùdé liánrèn chāoguò liǎng jiè.",
+        "en": "Yasaya göre başkan iki dönemden fazla görevde kalamaz."
+      },
+      {
+        "zh": "他连任协会主席一职。",
+        "pinyin": "Tā liánrèn xiéhuì zhǔxí yì zhí.",
+        "en": "Dernek başkanlığı görevini sürdürdü."
+      }
+    ]
+  },
+  {
+    "id": "w4625",
+    "hanzi": "连锁反应",
+    "pinyin": "liánsuǒ fǎnyìng",
+    "meaning": "Zincirleme reaksiyon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这件事引发了连锁反应。",
+        "pinyin": "Zhè jiàn shì yǐnfā le liánsuǒ fǎnyìng.",
+        "en": "Bu olay zincirleme bir tepki başlattı."
+      },
+      {
+        "zh": "核反应堆中发生了连锁反应。",
+        "pinyin": "Hé fǎnyìngduī zhōng fāshēng le liánsuǒ fǎnyìng.",
+        "en": "Nükleer reaktörde zincirleme reaksiyon meydana geldi."
+      },
+      {
+        "zh": "一个小错误可能引发连锁反应。",
+        "pinyin": "Yí gè xiǎo cuòwù kěnéng yǐnfā liánsuǒ fǎnyìng.",
+        "en": "Küçük bir hata zincirleme bir tepkiyi tetikleyebilir."
+      },
+      {
+        "zh": "经济危机产生了连锁反应,影响了很多行业。",
+        "pinyin": "Jīngjì wēijī chǎnshēng le liánsuǒ fǎnyìng, yǐngxiǎng le hěn duō hángyè.",
+        "en": "Ekonomik kriz zincirleme bir etki yarattı ve birçok sektörü etkiledi."
+      },
+      {
+        "zh": "科学家研究了这种连锁反应的机理。",
+        "pinyin": "Kēxuéjiā yánjiū le zhè zhǒng liánsuǒ fǎnyìng de jīlǐ.",
+        "en": "Bilim insanları bu zincirleme reaksiyonun mekanizmasını araştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4626",
+    "hanzi": "连同",
+    "pinyin": "liántóng",
+    "meaning": "İle birlikte",
+    "partOfSpeech": "edat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请把发票连同货物一起送来。",
+        "pinyin": "Qǐng bǎ fāpiào liántóng huòwù yìqǐ sònglái.",
+        "en": "Lütfen faturayı mallarla birlikte gönderin."
+      },
+      {
+        "zh": "他连同全家人一起搬到了新家。",
+        "pinyin": "Tā liántóng quánjiārén yìqǐ bāndào le xīnjiā.",
+        "en": "Tüm aile ile birlikte yeni eve taşındı."
+      },
+      {
+        "zh": "这份合同连同附件一并寄出。",
+        "pinyin": "Zhè fèn hétong liántóng fùjiàn yìbìng jìchū.",
+        "en": "Bu sözleşme ekleriyle birlikte gönderildi."
+      },
+      {
+        "zh": "他连同同事们一起去了展览会。",
+        "pinyin": "Tā liántóng tóngshìmen yìqǐ qù le zhǎnlǎnhuì.",
+        "en": "Meslektaşlarıyla birlikte sergiye gitti."
+      },
+      {
+        "zh": "他把书连同笔记本一起交给了老师。",
+        "pinyin": "Tā bǎ shū liántóng bǐjìběn yìqǐ jiāo gěi le lǎoshī.",
+        "en": "Kitabı defterle birlikte öğretmenine teslim etti."
+      }
+    ]
+  },
+  {
+    "id": "w4627",
+    "hanzi": "连续",
+    "pinyin": "liánxù",
+    "meaning": "Aralıksız, arka arkaya, sürekli",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他连续工作了三天。",
+        "pinyin": "Tā liánxù gōngzuò le sān tiān.",
+        "en": "Üç gün üst üste çalıştı."
+      },
+      {
+        "zh": "这个团队连续获得了冠军。",
+        "pinyin": "Zhège tuánduì liánxù huòdé le guànjūn.",
+        "en": "Bu takım arka arkaya şampiyon oldu."
+      },
+      {
+        "zh": "他连续三次考试都得了满分。",
+        "pinyin": "Tā liánxù sān cì kǎoshì dōu dé le mǎnfēn.",
+        "en": "Üç sınavda üst üste tam not aldı."
+      },
+      {
+        "zh": "这部电视剧连续播出了三十集。",
+        "pinyin": "Zhè bù diànshìjù liánxù bōchū le sānshí jí.",
+        "en": "Bu dizi arka arkaya otuz bölüm yayınlandı."
+      },
+      {
+        "zh": "他连续下雨的天气感到烦闷。",
+        "pinyin": "Tā liánxù xiàyǔ de tiānqì gǎndào fánmèn.",
+        "en": "Aralıksız yağmurlu havadan bunaldı."
+      }
+    ]
+  },
+  {
+    "id": "w4628",
+    "hanzi": "连衣裙",
+    "pinyin": "liányīqún",
+    "meaning": "Elbise (kadın giysisi, tek parça)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "她穿了一条漂亮的连衣裙。",
+        "pinyin": "Tā chuān le yì tiáo piàoliang de liányīqún.",
+        "en": "Güzel bir elbise giydi."
+      },
+      {
+        "zh": "这条连衣裙很适合夏天穿。",
+        "pinyin": "Zhè tiáo liányīqún hěn shìhé xiàtiān chuān.",
+        "en": "Bu elbise yaz için çok uygun."
+      },
+      {
+        "zh": "她买了一条白色的连衣裙。",
+        "pinyin": "Tā mǎi le yì tiáo báisè de liányīqún.",
+        "en": "Beyaz bir elbise satın aldı."
+      },
+      {
+        "zh": "这条连衣裙的花纹很好看。",
+        "pinyin": "Zhè tiáo liányīqún de huāwén hěn hǎokàn.",
+        "en": "Bu elbisenin deseni çok güzel."
+      },
+      {
+        "zh": "她穿着连衣裙参加了聚会。",
+        "pinyin": "Tā chuānzhe liányīqún cānjiā le jùhuì.",
+        "en": "Elbise giyerek partiye katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4629",
+    "hanzi": "连载",
+    "pinyin": "liánzǎi",
+    "meaning": "Dizi halinde yayınlamak (roman, hikaye)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这部小说正在杂志上连载。",
+        "pinyin": "Zhè bù xiǎoshuō zhèngzài zázhì shàng liánzǎi.",
+        "en": "Bu roman dergide dizi halinde yayınlanıyor."
+      },
+      {
+        "zh": "他每周关注这部漫画的连载。",
+        "pinyin": "Tā měi zhōu guānzhù zhè bù mànhuà de liánzǎi.",
+        "en": "Her hafta bu çizgi romanın dizi yayınını takip ediyor."
+      },
+      {
+        "zh": "这部作品连载了整整一年。",
+        "pinyin": "Zhè bù zuòpǐn liánzǎi le zhěngzhěng yì nián.",
+        "en": "Bu eser tam bir yıl boyunca dizi halinde yayınlandı."
+      },
+      {
+        "zh": "该小说连载结束后出版了单行本。",
+        "pinyin": "Gāi xiǎoshuō liánzǎi jiéshù hòu chūbǎn le dānxíngběn.",
+        "en": "Bu roman dizi yayınının bitmesinden sonra tek cilt halinde basıldı."
+      },
+      {
+        "zh": "读者们期待着下一期的连载。",
+        "pinyin": "Dúzhěmen qīdàizhe xià yì qī de liánzǎi.",
+        "en": "Okuyucular bir sonraki dizi bölümünü bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4630",
+    "hanzi": "连长",
+    "pinyin": "liánzhǎng",
+    "meaning": "Bölük komutanı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "连长给士兵们下达了命令。",
+        "pinyin": "Liánzhǎng gěi shìbīngmen xiàdá le mìnglìng.",
+        "en": "Bölük komutanı askerlere emir verdi."
+      },
+      {
+        "zh": "他被提拔为连长。",
+        "pinyin": "Tā bèi tíbá wéi liánzhǎng.",
+        "en": "Bölük komutanlığına terfi etti."
+      },
+      {
+        "zh": "连长负责整个连队的训练。",
+        "pinyin": "Liánzhǎng fùzé zhěnggè liánduì de xùnliàn.",
+        "en": "Bölük komutanı tüm bölüğün eğitiminden sorumludur."
+      },
+      {
+        "zh": "连长亲自带队冲锋。",
+        "pinyin": "Liánzhǎng qīnzì dàiduì chōngfēng.",
+        "en": "Bölük komutanı bizzat birliğine öncülük ederek saldırıya geçti."
+      },
+      {
+        "zh": "连长向上级汇报了战况。",
+        "pinyin": "Liánzhǎng xiàng shàngjí huìbào le zhànkuàng.",
+        "en": "Bölük komutanı üstlerine savaş durumunu rapor etti."
+      }
+    ]
+  },
+  {
+    "id": "w4631",
+    "hanzi": "莲花",
+    "pinyin": "liánhuā",
+    "meaning": "Lotus çiçeği",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "池塘里开满了莲花。",
+        "pinyin": "Chítáng lǐ kāimǎn le liánhuā.",
+        "en": "Gölette lotus çiçekleri açmış."
+      },
+      {
+        "zh": "莲花象征着纯洁。",
+        "pinyin": "Liánhuā xiàngzhēngzhe chúnjié.",
+        "en": "Lotus çiçeği saflığı simgeler."
+      },
+      {
+        "zh": "夏天是莲花盛开的季节。",
+        "pinyin": "Xiàtiān shì liánhuā shèngkāi de jìjié.",
+        "en": "Yaz, lotus çiçeğinin açtığı mevsimdir."
+      },
+      {
+        "zh": "他在画中描绘了一朵莲花。",
+        "pinyin": "Tā zài huà zhōng miáohuì le yì duǒ liánhuā.",
+        "en": "Resimde bir lotus çiçeği betimledi."
+      },
+      {
+        "zh": "莲花出淤泥而不染。",
+        "pinyin": "Liánhuā chū yūní ér bù rǎn.",
+        "en": "Lotus çiçeği çamurdan çıkar ama kirlenmez."
+      }
+    ]
+  },
+  {
+    "id": "w4632",
+    "hanzi": "脸红",
+    "pinyin": "liǎnhóng",
+    "meaning": "Yüzü kızarmak (utanç, öfke)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她害羞得脸红了。",
+        "pinyin": "Tā hàixiū de liǎnhóng le.",
+        "en": "Utanarak yüzü kızardı."
+      },
+      {
+        "zh": "他一紧张就脸红。",
+        "pinyin": "Tā yì jǐnzhāng jiù liǎnhóng.",
+        "en": "Gerginleştiğinde hemen yüzü kızarır."
+      },
+      {
+        "zh": "被老师表扬,她高兴得脸红了。",
+        "pinyin": "Bèi lǎoshī biǎoyáng, tā gāoxìng de liǎnhóng le.",
+        "en": "Öğretmen tarafından övülünce sevinçten yüzü kızardı."
+      },
+      {
+        "zh": "他生气得脸红脖子粗。",
+        "pinyin": "Tā shēngqì de liǎnhóng bózi cū.",
+        "en": "Öfkeden yüzü kıpkırmızı oldu."
+      },
+      {
+        "zh": "提到那件事,他有点脸红。",
+        "pinyin": "Tídào nà jiàn shì, tā yǒudiǎn liǎnhóng.",
+        "en": "O olaydan bahsedince biraz yüzü kızardı."
+      }
+    ]
+  },
+  {
+    "id": "w4633",
+    "hanzi": "脸颊",
+    "pinyin": "liǎnjiá",
+    "meaning": "Yanak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的脸颊红润健康。",
+        "pinyin": "Tā de liǎnjiá hóngrùn jiànkāng.",
+        "en": "Yanakları pembemsi ve sağlıklı görünüyor."
+      },
+      {
+        "zh": "眼泪顺着脸颊流下来。",
+        "pinyin": "Yǎnlèi shùnzhe liǎnjiá liúxiàlai.",
+        "en": "Gözyaşları yanaklarından aşağı süzülüyordu."
+      },
+      {
+        "zh": "妈妈亲了亲孩子的脸颊。",
+        "pinyin": "Māma qīnleqīn háizi de liǎnjiá.",
+        "en": "Anne çocuğunun yanağını öptü."
+      },
+      {
+        "zh": "他的脸颊因寒冷而通红。",
+        "pinyin": "Tā de liǎnjiá yīn hánlěng ér tōnghóng.",
+        "en": "Yanakları soğuktan kıpkırmızı oldu."
+      },
+      {
+        "zh": "她轻轻抚摸着孩子的脸颊。",
+        "pinyin": "Tā qīngqīng fǔmōzhe háizi de liǎnjiá.",
+        "en": "Çocuğunun yanağını hafifçe okşadı."
+      }
+    ]
+  },
+  {
+    "id": "w4634",
+    "hanzi": "脸色",
+    "pinyin": "liǎnsè",
+    "meaning": "Yüz ifadesi, ten rengi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他脸色苍白,好像生病了。",
+        "pinyin": "Tā liǎnsè cāngbái, hǎoxiàng shēngbìng le.",
+        "en": "Yüzü solgun, sanki hasta gibi."
+      },
+      {
+        "zh": "看到老板的脸色,他知道情况不妙。",
+        "pinyin": "Kàndào lǎobǎn de liǎnsè, tā zhīdào qíngkuàng búmiào.",
+        "en": "Patronun yüz ifadesini görünce durumun iyi olmadığını anladı."
+      },
+      {
+        "zh": "她脸色红润,看起来很健康。",
+        "pinyin": "Tā liǎnsè hóngrùn, kànqǐlai hěn jiànkāng.",
+        "en": "Yüzü pembemsi görünüyor, oldukça sağlıklı gözüküyor."
+      },
+      {
+        "zh": "他的脸色突然变了。",
+        "pinyin": "Tā de liǎnsè tūrán biàn le.",
+        "en": "Yüz ifadesi aniden değişti."
+      },
+      {
+        "zh": "别看他脸色行事。",
+        "pinyin": "Bié kàn tā liǎnsè xíngshì.",
+        "en": "Onun yüz ifadesine göre hareket etme."
+      }
+    ]
+  },
+  {
+    "id": "w4635",
+    "hanzi": "练",
+    "pinyin": "liàn",
+    "meaning": "Alıştırma yapmak, pratik yapmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他每天早上练太极拳。",
+        "pinyin": "Tā měitiān zǎoshang liàn tàijíquán.",
+        "en": "Her sabah tai çi pratik yapıyor."
+      },
+      {
+        "zh": "她在家练钢琴。",
+        "pinyin": "Tā zài jiā liàn gāngqín.",
+        "en": "Evde piyano çalışıyor."
+      },
+      {
+        "zh": "多练习才能提高水平。",
+        "pinyin": "Duō liànxí cáinéng tígāo shuǐpíng.",
+        "en": "Ancak çok pratik yaparak seviye yükseltilebilir."
+      },
+      {
+        "zh": "他练了三年书法。",
+        "pinyin": "Tā liàn le sān nián shūfǎ.",
+        "en": "Üç yıl hat sanatı çalıştı."
+      },
+      {
+        "zh": "他很想练一身好功夫。",
+        "pinyin": "Tā hěn xiǎng liàn yì shēn hǎo gōngfu.",
+        "en": "İyi bir kungfu becerisi geliştirmek istiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4636",
+    "hanzi": "炼钢",
+    "pinyin": "liàngāng",
+    "meaning": "Çelik üretimi, çelik dövmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这座工厂专门炼钢。",
+        "pinyin": "Zhè zuò gōngchǎng zhuānmén liàngāng.",
+        "en": "Bu fabrika özellikle çelik üretimi yapıyor."
+      },
+      {
+        "zh": "炼钢工艺经历了很大变化。",
+        "pinyin": "Liàngāng gōngyì jīnglì le hěn dà biànhuà.",
+        "en": "Çelik üretim tekniği büyük değişimler geçirdi."
+      },
+      {
+        "zh": "他在钢厂从事炼钢工作。",
+        "pinyin": "Tā zài gāngchǎng cóngshì liàngāng gōngzuò.",
+        "en": "Çelik fabrikasında çelik üretimi işiyle uğraşıyor."
+      },
+      {
+        "zh": "炼钢需要极高的温度。",
+        "pinyin": "Liàngāng xūyào jí gāo de wēndù.",
+        "en": "Çelik üretimi çok yüksek sıcaklık gerektirir."
+      },
+      {
+        "zh": "这家企业以炼钢起家。",
+        "pinyin": "Zhè jiā qǐyè yǐ liàngāng qǐjiā.",
+        "en": "Bu işletme çelik üretimiyle başladı."
+      }
+    ]
   }
 ]

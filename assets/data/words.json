@@ -150907,5 +150907,869 @@
         "en": "Bu şikayet sonunda mahkeme tarafından reddedildi."
       }
     ]
+  },
+  {
+    "id": "w4389",
+    "hanzi": "控股公司",
+    "pinyin": "kònggǔ gōngsī",
+    "meaning": "Holding şirketi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这家控股公司拥有多家子公司。",
+        "pinyin": "Zhè jiā kònggǔ gōngsī yōngyǒu duō jiā zǐgōngsī.",
+        "en": "Bu holding şirketinin birçok bağlı şirketi var."
+      },
+      {
+        "zh": "他是控股公司的董事长。",
+        "pinyin": "Tā shì kònggǔ gōngsī de dǒngshìzhǎng.",
+        "en": "O, holding şirketinin yönetim kurulu başkanıdır."
+      },
+      {
+        "zh": "这笔收购是通过控股公司完成的。",
+        "pinyin": "Zhè bǐ shōugòu shì tōngguò kònggǔ gōngsī wánchéng de.",
+        "en": "Bu satın alma işlemi holding şirketi aracılığıyla gerçekleştirildi."
+      },
+      {
+        "zh": "控股公司负责管理集团业务。",
+        "pinyin": "Kònggǔ gōngsī fùzé guǎnlǐ jítuán yèwù.",
+        "en": "Holding şirketi, grup işlerini yönetmekten sorumludur."
+      },
+      {
+        "zh": "他成立了一家新的控股公司。",
+        "pinyin": "Tā chénglì le yì jiā xīn de kònggǔ gōngsī.",
+        "en": "Yeni bir holding şirketi kurdu."
+      }
+    ]
+  },
+  {
+    "id": "w4390",
+    "hanzi": "控诉",
+    "pinyin": "kòngsù",
+    "meaning": "İhbar etmek, suçlamak, itham etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他向法庭控诉对方的罪行。",
+        "pinyin": "Tā xiàng fǎtíng kòngsù duìfāng de zuìxíng.",
+        "en": "Mahkemede karşı tarafın suçunu ihbar etti."
+      },
+      {
+        "zh": "受害者控诉自己遭受的不公。",
+        "pinyin": "Shòuhàizhě kòngsù zìjǐ zāoshòu de bùgōng.",
+        "en": "Mağdur, yaşadığı adaletsizliği ihbar etti."
+      },
+      {
+        "zh": "她在信中控诉了社会的不公。",
+        "pinyin": "Tā zài xìn zhōng kòngsù le shèhuì de bùgōng.",
+        "en": "Mektubunda toplumsal adaletsizliği eleştirdi."
+      },
+      {
+        "zh": "这部电影控诉了战争的残酷。",
+        "pinyin": "Zhè bù diànyǐng kòngsù le zhànzhēng de cánkù.",
+        "en": "Bu film savaşın acımasızlığını ortaya koyuyor."
+      },
+      {
+        "zh": "他公开控诉公司的不法行为。",
+        "pinyin": "Tā gōngkāi kòngsù gōngsī de bùfǎ xíngwéi.",
+        "en": "Şirketin yasa dışı davranışlarını açıkça ifşa etti."
+      }
+    ]
+  },
+  {
+    "id": "w4391",
+    "hanzi": "口岸",
+    "pinyin": "kǒu'àn",
+    "meaning": "Liman, sınır kapısı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Seyahat",
+    "examples": [
+      {
+        "zh": "这是一个重要的贸易口岸。",
+        "pinyin": "Zhè shì yí gè zhòngyào de màoyì kǒu'àn.",
+        "en": "Bu önemli bir ticaret limanıdır."
+      },
+      {
+        "zh": "货物从这个口岸进口。",
+        "pinyin": "Huòwù cóng zhège kǒu'àn jìnkǒu.",
+        "en": "Mallar bu limandan ithal ediliyor."
+      },
+      {
+        "zh": "边境口岸的检查十分严格。",
+        "pinyin": "Biānjìng kǒu'àn de jiǎnchá shífēn yángé.",
+        "en": "Sınır kapısındaki kontroller çok sıkı."
+      },
+      {
+        "zh": "这个口岸每天有大量货车通过。",
+        "pinyin": "Zhège kǒu'àn měitiān yǒu dàliàng huòchē tōngguò.",
+        "en": "Bu sınır kapısından her gün çok sayıda kamyon geçiyor."
+      },
+      {
+        "zh": "该口岸的通关时间缩短了。",
+        "pinyin": "Gāi kǒu'àn de tōngguān shíjiān suōduǎn le.",
+        "en": "Bu gümrük kapısının geçiş süresi kısaldı."
+      }
+    ]
+  },
+  {
+    "id": "w4392",
+    "hanzi": "口才",
+    "pinyin": "kǒucái",
+    "meaning": "Belagat, konuşma yeteneği",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的口才非常好。",
+        "pinyin": "Tā de kǒucái fēicháng hǎo.",
+        "en": "Konuşma yeteneği çok iyi."
+      },
+      {
+        "zh": "她凭借出色的口才说服了大家。",
+        "pinyin": "Tā píngjiè chūsè de kǒucái shuōfú le dàjiā.",
+        "en": "Mükemmel konuşma yeteneğiyle herkesi ikna etti."
+      },
+      {
+        "zh": "律师需要有很好的口才。",
+        "pinyin": "Lǜshī xūyào yǒu hěn hǎo de kǒucái.",
+        "en": "Avukatların iyi bir hitabet yeteneğine sahip olması gerekir."
+      },
+      {
+        "zh": "他练习口才,准备演讲比赛。",
+        "pinyin": "Tā liànxí kǒucái, zhǔnbèi yǎnjiǎng bǐsài.",
+        "en": "Konuşma yarışması için hitabet becerisini geliştiriyor."
+      },
+      {
+        "zh": "老师夸他口才不错。",
+        "pinyin": "Lǎoshī kuā tā kǒucái búcuò.",
+        "en": "Öğretmen onun konuşma yeteneğini övdü."
+      }
+    ]
+  },
+  {
+    "id": "w4393",
+    "hanzi": "口吃",
+    "pinyin": "kǒuchī",
+    "meaning": "Kekelemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他小时候有口吃的毛病。",
+        "pinyin": "Tā xiǎo shíhou yǒu kǒuchī de máobìng.",
+        "en": "Çocukken kekemelik sorunu vardı."
+      },
+      {
+        "zh": "紧张的时候他会口吃。",
+        "pinyin": "Jǐnzhāng de shíhou tā huì kǒuchī.",
+        "en": "Gerginleştiğinde kekeliyor."
+      },
+      {
+        "zh": "他通过治疗克服了口吃。",
+        "pinyin": "Tā tōngguò zhìliáo kèfú le kǒuchī.",
+        "en": "Tedavi sayesinde kekemeliği yendi."
+      },
+      {
+        "zh": "口吃并不影响他的学习成绩。",
+        "pinyin": "Kǒuchī bìng bù yǐngxiǎng tā de xuéxí chéngjì.",
+        "en": "Kekemelik onun okul başarısını etkilemiyor."
+      },
+      {
+        "zh": "他慢慢说话,不再口吃了。",
+        "pinyin": "Tā mànmàn shuōhuà, bú zài kǒuchī le.",
+        "en": "Yavaş konuşarak artık kekelemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4394",
+    "hanzi": "口袋",
+    "pinyin": "kǒudai",
+    "meaning": "Cep, çanta, çuval",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他把钱放进口袋里。",
+        "pinyin": "Tā bǎ qián fàngjìn kǒudai lǐ.",
+        "en": "Parayı cebine koydu."
+      },
+      {
+        "zh": "这条裤子有两个口袋。",
+        "pinyin": "Zhè tiáo kùzi yǒu liǎng gè kǒudai.",
+        "en": "Bu pantolonun iki cebi var."
+      },
+      {
+        "zh": "他从口袋里掏出手机。",
+        "pinyin": "Tā cóng kǒudai lǐ tāochū shǒujī.",
+        "en": "Cebinden telefonunu çıkardı."
+      },
+      {
+        "zh": "一个口袋装满了土豆。",
+        "pinyin": "Yí gè kǒudai zhuāngmǎn le tǔdòu.",
+        "en": "Bir çuval patatesle doldu."
+      },
+      {
+        "zh": "他把钥匙放在裤子口袋里。",
+        "pinyin": "Tā bǎ yàoshi fàng zài kùzi kǒudai lǐ.",
+        "en": "Anahtarını pantolonun cebine koydu."
+      }
+    ]
+  },
+  {
+    "id": "w4395",
+    "hanzi": "口号",
+    "pinyin": "kǒuhào",
+    "meaning": "Slogan, parola",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他们喊着口号走上街头。",
+        "pinyin": "Tāmen hǎnzhe kǒuhào zǒushàng jiētóu.",
+        "en": "Slogan atarak sokaklara çıktılar."
+      },
+      {
+        "zh": "这个广告口号很有创意。",
+        "pinyin": "Zhège guǎnggào kǒuhào hěn yǒu chuàngyì.",
+        "en": "Bu reklam sloganı çok yaratıcı."
+      },
+      {
+        "zh": "环保口号提醒人们保护地球。",
+        "pinyin": "Huánbǎo kǒuhào tíxǐng rénmen bǎohù dìqiú.",
+        "en": "Çevre koruma sloganı insanlara dünyayı korumalarını hatırlatıyor."
+      },
+      {
+        "zh": "光喊口号没有用,要付诸行动。",
+        "pinyin": "Guāng hǎn kǒuhào méiyǒu yòng, yào fùzhū xíngdòng.",
+        "en": "Sadece slogan atmanın faydası yok, harekete geçmek gerekir."
+      },
+      {
+        "zh": "学校墙上贴着励志口号。",
+        "pinyin": "Xuéxiào qiáng shàng tiēzhe lìzhì kǒuhào.",
+        "en": "Okul duvarında motive edici sloganlar asılı."
+      }
+    ]
+  },
+  {
+    "id": "w4396",
+    "hanzi": "口红",
+    "pinyin": "kǒuhóng",
+    "meaning": "Ruj, dudak boyası",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她涂了一支红色口红。",
+        "pinyin": "Tā tú le yì zhī hóngsè kǒuhóng.",
+        "en": "Kırmızı bir ruj sürdü."
+      },
+      {
+        "zh": "这支口红颜色很正。",
+        "pinyin": "Zhè zhī kǒuhóng yánsè hěn zhèng.",
+        "en": "Bu rujun rengi çok güzel."
+      },
+      {
+        "zh": "她的口红掉在了包里。",
+        "pinyin": "Tā de kǒuhóng diào zài le bāo lǐ.",
+        "en": "Rujunu çantasının içine düşürdü."
+      },
+      {
+        "zh": "生日她收到一支新口红。",
+        "pinyin": "Shēngrì tā shōudào yì zhī xīn kǒuhóng.",
+        "en": "Doğum gününde yeni bir ruj hediye aldı."
+      },
+      {
+        "zh": "她出门前补了口红。",
+        "pinyin": "Tā chūmén qián bǔ le kǒuhóng.",
+        "en": "Dışarı çıkmadan önce rujunu tazeledi."
+      }
+    ]
+  },
+  {
+    "id": "w4397",
+    "hanzi": "口渴",
+    "pinyin": "kǒukě",
+    "meaning": "Susamış",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "我口渴了,想喝水。",
+        "pinyin": "Wǒ kǒukě le, xiǎng hē shuǐ.",
+        "en": "Susadım, su içmek istiyorum."
+      },
+      {
+        "zh": "跑步后他感到口渴。",
+        "pinyin": "Pǎobù hòu tā gǎndào kǒukě.",
+        "en": "Koşudan sonra susadığını hissetti."
+      },
+      {
+        "zh": "天气太热,大家都口渴了。",
+        "pinyin": "Tiānqì tài rè, dàjiā dōu kǒukě le.",
+        "en": "Hava çok sıcak, herkes susadı."
+      },
+      {
+        "zh": "口渴的时候不要喝太凉的水。",
+        "pinyin": "Kǒukě de shíhou bú yào hē tài liáng de shuǐ.",
+        "en": "Susadığında çok soğuk su içme."
+      },
+      {
+        "zh": "孩子口渴了,一直哭闹。",
+        "pinyin": "Háizi kǒukě le, yìzhí kūnào.",
+        "en": "Çocuk susamıştı, sürekli ağlıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4398",
+    "hanzi": "口令",
+    "pinyin": "kǒulìng",
+    "meaning": "Parola, komut, emir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "请输入正确的口令。",
+        "pinyin": "Qǐng shūrù zhèngquè de kǒulìng.",
+        "en": "Lütfen doğru parolayı girin."
+      },
+      {
+        "zh": "士兵按照口令行动。",
+        "pinyin": "Shìbīng ànzhào kǒulìng xíngdòng.",
+        "en": "Askerler komuta göre hareket ediyor."
+      },
+      {
+        "zh": "他忘记了系统的口令。",
+        "pinyin": "Tā wàngjì le xìtǒng de kǒulìng.",
+        "en": "Sistemin parolasını unuttu."
+      },
+      {
+        "zh": "教练一声口令,队员们立刻集合。",
+        "pinyin": "Jiàoliàn yì shēng kǒulìng, duìyuánmen lìkè jíhé.",
+        "en": "Antrenörün komutuyla oyuncular hemen toplandı."
+      },
+      {
+        "zh": "这个口令只有内部人员知道。",
+        "pinyin": "Zhège kǒulìng zhǐyǒu nèibù rényuán zhīdào.",
+        "en": "Bu parolayı yalnızca iç personel biliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4399",
+    "hanzi": "口气",
+    "pinyin": "kǒuqì",
+    "meaning": "Konuşma tonu, üslup",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他说话的口气很生硬。",
+        "pinyin": "Tā shuōhuà de kǒuqì hěn shēngyìng.",
+        "en": "Konuşma tonu oldukça sertti."
+      },
+      {
+        "zh": "她用温柔的口气安慰了我。",
+        "pinyin": "Tā yòng wēnróu de kǒuqì ānwèi le wǒ.",
+        "en": "Yumuşak bir tonla beni teselli etti."
+      },
+      {
+        "zh": "从他的口气可以听出他很生气。",
+        "pinyin": "Cóng tā de kǒuqì kěyǐ tīngchū tā hěn shēngqì.",
+        "en": "Konuşma tonundan sinirli olduğu anlaşılıyor."
+      },
+      {
+        "zh": "别用那种命令的口气跟我说话。",
+        "pinyin": "Bié yòng nà zhǒng mìnglìng de kǒuqì gēn wǒ shuōhuà.",
+        "en": "Benimle o emir veren tonla konuşma."
+      },
+      {
+        "zh": "他的口气突然变得客气起来。",
+        "pinyin": "Tā de kǒuqì tūrán biàn de kèqi qǐlai.",
+        "en": "Konuşma tonu birden nazikleşti."
+      }
+    ]
+  },
+  {
+    "id": "w4400",
+    "hanzi": "口琴",
+    "pinyin": "kǒuqín",
+    "meaning": "Armonika, mızıka",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他会吹口琴。",
+        "pinyin": "Tā huì chuī kǒuqín.",
+        "en": "Armonika çalabiliyor."
+      },
+      {
+        "zh": "爷爷送我一把口琴。",
+        "pinyin": "Yéye sòng wǒ yì bǎ kǒuqín.",
+        "en": "Büyükbabam bana bir armonika hediye etti."
+      },
+      {
+        "zh": "他用口琴吹了一首曲子。",
+        "pinyin": "Tā yòng kǒuqín chuī le yì shǒu qǔzi.",
+        "en": "Armonikayla bir parça çaldı."
+      },
+      {
+        "zh": "这把口琴的声音很好听。",
+        "pinyin": "Zhè bǎ kǒuqín de shēngyīn hěn hǎotīng.",
+        "en": "Bu armonikanın sesi çok güzel."
+      },
+      {
+        "zh": "他每天练习吹口琴。",
+        "pinyin": "Tā měitiān liànxí chuī kǒuqín.",
+        "en": "Her gün armonika çalma pratiği yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4401",
+    "hanzi": "口腔",
+    "pinyin": "kǒuqiāng",
+    "meaning": "Ağız boşluğu, ağız",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "要保持口腔卫生。",
+        "pinyin": "Yào bǎochí kǒuqiāng wèishēng.",
+        "en": "Ağız hijyenini korumak gerekir."
+      },
+      {
+        "zh": "医生检查了他的口腔。",
+        "pinyin": "Yīshēng jiǎnchá le tā de kǒuqiāng.",
+        "en": "Doktor ağız boşluğunu muayene etti."
+      },
+      {
+        "zh": "他去口腔科看牙医。",
+        "pinyin": "Tā qù kǒuqiāngkē kàn yáyī.",
+        "en": "Diş polikliniğine diş hekimine gitti."
+      },
+      {
+        "zh": "口腔溃疡让他吃饭很痛苦。",
+        "pinyin": "Kǒuqiāng kuìyáng ràng tā chīfàn hěn tòngkǔ.",
+        "en": "Ağız yarası yemek yemesini acı veriyor."
+      },
+      {
+        "zh": "刷牙可以保护口腔健康。",
+        "pinyin": "Shuāyá kěyǐ bǎohù kǒuqiāng jiànkāng.",
+        "en": "Diş fırçalamak ağız sağlığını korur."
+      }
+    ]
+  },
+  {
+    "id": "w4402",
+    "hanzi": "口述",
+    "pinyin": "kǒushù",
+    "meaning": "Sözlü olarak anlatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他口述了事情的经过。",
+        "pinyin": "Tā kǒushù le shìqing de jīngguò.",
+        "en": "Olayın gelişimini sözlü olarak anlattı."
+      },
+      {
+        "zh": "老人口述了自己的一生。",
+        "pinyin": "Lǎorén kǒushù le zìjǐ de yìshēng.",
+        "en": "Yaşlı adam kendi hayatını sözlü olarak anlattı."
+      },
+      {
+        "zh": "秘书记录了他的口述内容。",
+        "pinyin": "Mìshū jìlù le tā de kǒushù nèiróng.",
+        "en": "Sekreter onun sözlü anlattıklarını kaydetti."
+      },
+      {
+        "zh": "这本书是根据口述历史编写的。",
+        "pinyin": "Zhè běn shū shì gēnjù kǒushù lìshǐ biānxiě de.",
+        "en": "Bu kitap sözlü tarih anlatımlarına dayanarak yazıldı."
+      },
+      {
+        "zh": "他口述遗嘱,由律师记录。",
+        "pinyin": "Tā kǒushù yízhǔ, yóu lǜshī jìlù.",
+        "en": "Vasiyetini sözlü olarak anlattı, avukat kaydetti."
+      }
+    ]
+  },
+  {
+    "id": "w4403",
+    "hanzi": "口水",
+    "pinyin": "kǒushuǐ",
+    "meaning": "Salya, tükürük",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "宝宝流了很多口水。",
+        "pinyin": "Bǎobao liú le hěn duō kǒushuǐ.",
+        "en": "Bebek çok fazla salya akıttı."
+      },
+      {
+        "zh": "看到美食,他直流口水。",
+        "pinyin": "Kàndào měishí, tā zhí liú kǒushuǐ.",
+        "en": "Lezzetli yemeği görünce ağzının suyu aktı."
+      },
+      {
+        "zh": "狗看到肉就流口水。",
+        "pinyin": "Gǒu kàndào ròu jiù liú kǒushuǐ.",
+        "en": "Köpek eti görünce salyası aktı."
+      },
+      {
+        "zh": "他睡觉的时候流口水了。",
+        "pinyin": "Tā shuìjiào de shíhou liú kǒushuǐ le.",
+        "en": "Uyurken ağzından salya aktı."
+      },
+      {
+        "zh": "别担心,这只是口水而已。",
+        "pinyin": "Bié dānxīn, zhè zhǐshì kǒushuǐ éryǐ.",
+        "en": "Endişelenme, bu sadece tükürük."
+      }
+    ]
+  },
+  {
+    "id": "w4404",
+    "hanzi": "口头",
+    "pinyin": "kǒutóu",
+    "meaning": "Sözlü, ağızdan",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这只是口头协议,没有签合同。",
+        "pinyin": "Zhè zhǐshì kǒutóu xiéyì, méiyǒu qiān hétong.",
+        "en": "Bu sadece sözlü bir anlaşma, sözleşme imzalanmadı."
+      },
+      {
+        "zh": "老师给了他口头警告。",
+        "pinyin": "Lǎoshī gěi le tā kǒutóu jǐnggào.",
+        "en": "Öğretmen ona sözlü uyarıda bulundu."
+      },
+      {
+        "zh": "他做了口头汇报。",
+        "pinyin": "Tā zuò le kǒutóu huìbào.",
+        "en": "Sözlü bir rapor sundu."
+      },
+      {
+        "zh": "口头承诺不如书面协议可靠。",
+        "pinyin": "Kǒutóu chéngnuò bùrú shūmiàn xiéyì kěkào.",
+        "en": "Sözlü sözler yazılı anlaşmalar kadar güvenilir değildir."
+      },
+      {
+        "zh": "他口头上答应了,但没有行动。",
+        "pinyin": "Tā kǒutóu shàng dāying le, dàn méiyǒu xíngdòng.",
+        "en": "Sözlü olarak kabul etti, ama harekete geçmedi."
+      }
+    ]
+  },
+  {
+    "id": "w4405",
+    "hanzi": "口音",
+    "pinyin": "kǒuyīn",
+    "meaning": "Aksan, ağız (bölgesel telaffuz)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他说话带有南方口音。",
+        "pinyin": "Tā shuōhuà dàiyǒu nánfāng kǒuyīn.",
+        "en": "Konuşurken güney aksanı var."
+      },
+      {
+        "zh": "我听得出他是外国人的口音。",
+        "pinyin": "Wǒ tīngdechū tā shì wàiguórén de kǒuyīn.",
+        "en": "Aksanından yabancı olduğunu anlayabiliyorum."
+      },
+      {
+        "zh": "他努力改掉了自己的口音。",
+        "pinyin": "Tā nǔlì gǎidiào le zìjǐ de kǒuyīn.",
+        "en": "Aksanını düzeltmek için çabaladı."
+      },
+      {
+        "zh": "她的普通话没有一点口音。",
+        "pinyin": "Tā de pǔtōnghuà méiyǒu yìdiǎn kǒuyīn.",
+        "en": "Standart Çincesi hiç aksanlı değil."
+      },
+      {
+        "zh": "不同地方的人有不同的口音。",
+        "pinyin": "Bùtóng dìfang de rén yǒu bùtóng de kǒuyīn.",
+        "en": "Farklı bölgelerden insanların farklı aksanları var."
+      }
+    ]
+  },
+  {
+    "id": "w4406",
+    "hanzi": "口语",
+    "pinyin": "kǒuyǔ",
+    "meaning": "Konuşma dili",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他的口语说得很流利。",
+        "pinyin": "Tā de kǒuyǔ shuō de hěn liúlì.",
+        "en": "Konuşma dilinde çok akıcı."
+      },
+      {
+        "zh": "我想提高我的汉语口语。",
+        "pinyin": "Wǒ xiǎng tígāo wǒ de Hànyǔ kǒuyǔ.",
+        "en": "Çince konuşma becerimi geliştirmek istiyorum."
+      },
+      {
+        "zh": "这本书是口语教材。",
+        "pinyin": "Zhè běn shū shì kǒuyǔ jiàocái.",
+        "en": "Bu kitap konuşma dili ders materyalidir."
+      },
+      {
+        "zh": "多说多练能提高口语水平。",
+        "pinyin": "Duō shuō duō liàn néng tígāo kǒuyǔ shuǐpíng.",
+        "en": "Çok konuşmak ve pratik yapmak konuşma seviyesini yükseltir."
+      },
+      {
+        "zh": "他的口语考试成绩不错。",
+        "pinyin": "Tā de kǒuyǔ kǎoshì chéngjì búcuò.",
+        "en": "Konuşma sınavı sonucu oldukça iyi."
+      }
+    ]
+  },
+  {
+    "id": "w4407",
+    "hanzi": "口罩",
+    "pinyin": "kǒuzhào",
+    "meaning": "Ağız maskesi",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "出门时请戴上口罩。",
+        "pinyin": "Chūmén shí qǐng dàishàng kǒuzhào.",
+        "en": "Dışarı çıkarken lütfen maske takın."
+      },
+      {
+        "zh": "医生手术时都戴着口罩。",
+        "pinyin": "Yīshēng shǒushù shí dōu dàizhe kǒuzhào.",
+        "en": "Doktorlar ameliyat sırasında maske takar."
+      },
+      {
+        "zh": "药店卖各种口罩。",
+        "pinyin": "Yàodiàn mài gèzhǒng kǒuzhào.",
+        "en": "Eczane çeşitli maskeler satıyor."
+      },
+      {
+        "zh": "他忘记戴口罩了。",
+        "pinyin": "Tā wàngjì dài kǒuzhào le.",
+        "en": "Maske takmayı unuttu."
+      },
+      {
+        "zh": "空气污染严重时应该戴口罩。",
+        "pinyin": "Kōngqì wūrǎn yánzhòng shí yīnggāi dài kǒuzhào.",
+        "en": "Hava kirliliği ciddi olduğunda maske takılmalı."
+      }
+    ]
+  },
+  {
+    "id": "w4408",
+    "hanzi": "扣除",
+    "pinyin": "kòuchú",
+    "meaning": "Kesmek, düşmek, çıkarmak (hesaptan)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "工资要扣除税款。",
+        "pinyin": "Gōngzī yào kòuchú shuìkuǎn.",
+        "en": "Maaştan vergi kesilir."
+      },
+      {
+        "zh": "迟到会被扣除奖金。",
+        "pinyin": "Chídào huì bèi kòuchú jiǎngjīn.",
+        "en": "Geç kalınırsa primden kesinti yapılır."
+      },
+      {
+        "zh": "扣除费用后还剩多少钱?",
+        "pinyin": "Kòuchú fèiyòng hòu hái shèng duōshao qián?",
+        "en": "Masraflar düşüldükten sonra ne kadar para kalıyor?"
+      },
+      {
+        "zh": "公司从工资中扣除了保险费。",
+        "pinyin": "Gōngsī cóng gōngzī zhōng kòuchú le bǎoxiǎnfèi.",
+        "en": "Şirket maaştan sigorta ücretini kesti."
+      },
+      {
+        "zh": "扣除所有开支,他还有盈余。",
+        "pinyin": "Kòuchú suǒyǒu kāizhī, tā hái yǒu yíngyú.",
+        "en": "Tüm masraflar düşüldükten sonra hâlâ karı var."
+      }
+    ]
+  },
+  {
+    "id": "w4409",
+    "hanzi": "扣留",
+    "pinyin": "kòuliú",
+    "meaning": "Alıkoymak, tutuklamak, el koymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "海关扣留了这批走私货物。",
+        "pinyin": "Hǎiguān kòuliú le zhè pī zǒusī huòwù.",
+        "en": "Gümrük bu kaçak malları el koydu."
+      },
+      {
+        "zh": "警方扣留了嫌疑人。",
+        "pinyin": "Jǐngfāng kòuliú le xiányírén.",
+        "en": "Polis şüpheliyi alıkoydu."
+      },
+      {
+        "zh": "他的护照被暂时扣留了。",
+        "pinyin": "Tā de hùzhào bèi zànshí kòuliú le.",
+        "en": "Pasaportuna geçici olarak el kondu."
+      },
+      {
+        "zh": "船只被当地政府扣留了。",
+        "pinyin": "Chuánzhī bèi dāngdì zhèngfǔ kòuliú le.",
+        "en": "Gemi yerel hükümet tarafından alıkonuldu."
+      },
+      {
+        "zh": "他被非法扣留了三天。",
+        "pinyin": "Tā bèi fēifǎ kòuliú le sān tiān.",
+        "en": "Üç gün boyunca yasa dışı olarak alıkonuldu."
+      }
+    ]
+  },
+  {
+    "id": "w4410",
+    "hanzi": "枯萎",
+    "pinyin": "kūwěi",
+    "meaning": "Solmak, kurumak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "花园里的花都枯萎了。",
+        "pinyin": "Huāyuán lǐ de huā dōu kūwěi le.",
+        "en": "Bahçedeki çiçekler tamamen soldu."
+      },
+      {
+        "zh": "缺水使植物枯萎。",
+        "pinyin": "Quēshuǐ shǐ zhíwù kūwěi.",
+        "en": "Su eksikliği bitkilerin kurumasına neden oldu."
+      },
+      {
+        "zh": "这棵树已经枯萎了。",
+        "pinyin": "Zhè kē shù yǐjīng kūwěi le.",
+        "en": "Bu ağaç artık kurumuş durumda."
+      },
+      {
+        "zh": "秋天到了,树叶开始枯萎。",
+        "pinyin": "Qiūtiān dào le, shùyè kāishǐ kūwěi.",
+        "en": "Sonbahar geldi, yapraklar solmaya başladı."
+      },
+      {
+        "zh": "他每天浇水,防止花朵枯萎。",
+        "pinyin": "Tā měitiān jiāoshuǐ, fángzhǐ huāduǒ kūwěi.",
+        "en": "Çiçeklerin solmasını önlemek için her gün su veriyor."
+      }
+    ]
+  },
+  {
+    "id": "w4411",
+    "hanzi": "枯燥",
+    "pinyin": "kūzào",
+    "meaning": "Monoton, sıkıcı, çekici olmayan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这份工作十分枯燥。",
+        "pinyin": "Zhè fèn gōngzuò shífēn kūzào.",
+        "en": "Bu iş oldukça monoton."
+      },
+      {
+        "zh": "他觉得课程内容很枯燥。",
+        "pinyin": "Tā juéde kèchéng nèiróng hěn kūzào.",
+        "en": "Ders içeriğini çok sıkıcı buluyor."
+      },
+      {
+        "zh": "生活不能只是枯燥的重复。",
+        "pinyin": "Shēnghuó bùnéng zhǐshì kūzào de chóngfù.",
+        "en": "Hayat sadece monoton bir tekrardan ibaret olmamalı."
+      },
+      {
+        "zh": "这本书写得很枯燥。",
+        "pinyin": "Zhè běn shū xiě de hěn kūzào.",
+        "en": "Bu kitap çok sıkıcı yazılmış."
+      },
+      {
+        "zh": "为了避免枯燥,老师用了很多游戏。",
+        "pinyin": "Wèile bìmiǎn kūzào, lǎoshī yòng le hěn duō yóuxì.",
+        "en": "Sıkıcılığı önlemek için öğretmen birçok oyun kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w4412",
+    "hanzi": "哭泣",
+    "pinyin": "kūqì",
+    "meaning": "Ağlamak, gözyaşı dökmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她独自在房间里哭泣。",
+        "pinyin": "Tā dúzì zài fángjiān lǐ kūqì.",
+        "en": "Odasında yalnız başına ağlıyordu."
+      },
+      {
+        "zh": "听到这个消息,他忍不住哭泣起来。",
+        "pinyin": "Tīngdào zhège xiāoxi, tā rěnbuzhù kūqì qǐlai.",
+        "en": "Bu haberi duyunca kendini tutamayıp ağlamaya başladı."
+      },
+      {
+        "zh": "孩子在哭泣,妈妈赶紧安慰他。",
+        "pinyin": "Háizi zài kūqì, māma gǎnjǐn ānwèi tā.",
+        "en": "Çocuk ağlıyordu, annesi hemen onu teselli etti."
+      },
+      {
+        "zh": "她轻声哭泣,不想让别人听到。",
+        "pinyin": "Tā qīngshēng kūqì, bù xiǎng ràng biérén tīngdào.",
+        "en": "Sessizce ağlıyordu, başkalarının duymasını istemiyordu."
+      },
+      {
+        "zh": "他看着照片默默哭泣。",
+        "pinyin": "Tā kànzhe zhàopiàn mòmò kūqì.",
+        "en": "Fotoğrafa bakarak sessizce ağladı."
+      }
+    ]
   }
 ]

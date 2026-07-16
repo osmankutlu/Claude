@@ -142333,5 +142333,869 @@
         "en": "Bütçe yetersizliği etkinliğin ölçeğini sınırladı."
       }
     ]
+  },
+  {
+    "id": "w4150",
+    "hanzi": "经受",
+    "pinyin": "jīngshòu",
+    "meaning": "katlanmak, tecrübe etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他经受住了巨大的压力。",
+        "pinyin": "Tā jīngshòu zhùle jùdà de yālì.",
+        "en": "Büyük baskıya dayandı."
+      },
+      {
+        "zh": "这座桥经受住了地震的考验。",
+        "pinyin": "Zhè zuò qiáo jīngshòu zhùle dìzhèn de kǎoyàn.",
+        "en": "Bu köprü depremin sınavına dayandı."
+      },
+      {
+        "zh": "她经受了很多苦难。",
+        "pinyin": "Tā jīngshòule hěn duō kǔnàn.",
+        "en": "Birçok zorluğa katlandı."
+      },
+      {
+        "zh": "这种材料能经受高温考验。",
+        "pinyin": "Zhè zhǒng cáiliào néng jīngshòu gāowēn kǎoyàn.",
+        "en": "Bu malzeme yüksek sıcaklığa dayanabilir."
+      },
+      {
+        "zh": "他经受住了失败的打击。",
+        "pinyin": "Tā jīngshòu zhùle shībài de dǎjī.",
+        "en": "Başarısızlığın darbesine dayandı."
+      }
+    ]
+  },
+  {
+    "id": "w4151",
+    "hanzi": "经销",
+    "pinyin": "jīngxiāo",
+    "meaning": "satmak, satışını yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这家公司经销进口汽车。",
+        "pinyin": "Zhè jiā gōngsī jīngxiāo jìnkǒu qìchē.",
+        "en": "Bu şirket ithal otomobil satışı yapıyor."
+      },
+      {
+        "zh": "我们是这个品牌的经销商。",
+        "pinyin": "Wǒmen shì zhège pǐnpái de jīngxiāoshāng.",
+        "en": "Bu markanın distribütörüyüz."
+      },
+      {
+        "zh": "该产品在全国各地经销。",
+        "pinyin": "Gāi chǎnpǐn zài quánguó gèdì jīngxiāo.",
+        "en": "Bu ürün ülke çapında satılıyor."
+      },
+      {
+        "zh": "他负责经销这种新产品。",
+        "pinyin": "Tā fùzé jīngxiāo zhè zhǒng xīn chǎnpǐn.",
+        "en": "Bu yeni ürünün satışından sorumlu."
+      },
+      {
+        "zh": "经销商需要保证产品质量。",
+        "pinyin": "Jīngxiāoshāng xūyào bǎozhèng chǎnpǐn zhìliàng.",
+        "en": "Distribütörlerin ürün kalitesini garanti etmesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4152",
+    "hanzi": "井",
+    "pinyin": "jǐng",
+    "meaning": "kuyu",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "村里有一口古老的井。",
+        "pinyin": "Cūn lǐ yǒu yì kǒu gǔlǎo de jǐng.",
+        "en": "Köyde eski bir kuyu var."
+      },
+      {
+        "zh": "他们从井里打水。",
+        "pinyin": "Tāmen cóng jǐng lǐ dǎshuǐ.",
+        "en": "Kuyudan su çekiyorlar."
+      },
+      {
+        "zh": "这口井已经干涸了。",
+        "pinyin": "Zhè kǒu jǐng yǐjīng gānhé le.",
+        "en": "Bu kuyu kurumuş."
+      },
+      {
+        "zh": "小时候我常常去井边玩。",
+        "pinyin": "Xiǎoshíhou wǒ chángcháng qù jǐng biān wán.",
+        "en": "Küçükken sık sık kuyunun yanında oynardım."
+      },
+      {
+        "zh": "他不小心掉进了井里。",
+        "pinyin": "Tā bù xiǎoxīn diàojìnle jǐng lǐ.",
+        "en": "Farkında olmadan kuyuya düştü."
+      }
+    ]
+  },
+  {
+    "id": "w4153",
+    "hanzi": "景点",
+    "pinyin": "jǐngdiǎn",
+    "meaning": "turistik yer",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Seyahat",
+    "examples": [
+      {
+        "zh": "这个城市有很多著名景点。",
+        "pinyin": "Zhège chéngshì yǒu hěn duō zhùmíng jǐngdiǎn.",
+        "en": "Bu şehirde birçok ünlü turistik yer var."
+      },
+      {
+        "zh": "我们打算去参观几个景点。",
+        "pinyin": "Wǒmen dǎsuàn qù cānguān jǐ ge jǐngdiǎn.",
+        "en": "Birkaç turistik yeri gezmeyi planlıyoruz."
+      },
+      {
+        "zh": "这个景点每天都有很多游客。",
+        "pinyin": "Zhège jǐngdiǎn měitiān dōu yǒu hěn duō yóukè.",
+        "en": "Bu turistik yere her gün birçok turist gelir."
+      },
+      {
+        "zh": "长城是中国著名的景点。",
+        "pinyin": "Chángchéng shì Zhōngguó zhùmíng de jǐngdiǎn.",
+        "en": "Çin Seddi, Çin'in ünlü bir turistik mekânıdır."
+      },
+      {
+        "zh": "我们下一站去哪个景点？",
+        "pinyin": "Wǒmen xià yí zhàn qù nǎge jǐngdiǎn?",
+        "en": "Bir sonraki durağımız hangi turistik yer?"
+      }
+    ]
+  },
+  {
+    "id": "w4154",
+    "hanzi": "景观",
+    "pinyin": "jǐngguān",
+    "meaning": "manzara",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这里的自然景观非常美丽。",
+        "pinyin": "Zhèlǐ de zìrán jǐngguān fēicháng měilì.",
+        "en": "Buradaki doğal manzara çok güzel."
+      },
+      {
+        "zh": "城市景观发生了很大变化。",
+        "pinyin": "Chéngshì jǐngguān fāshēngle hěn dà biànhuà.",
+        "en": "Şehir manzarası büyük ölçüde değişti."
+      },
+      {
+        "zh": "他们设计了一个新的城市景观。",
+        "pinyin": "Tāmen shèjìle yí ge xīn de chéngshì jǐngguān.",
+        "en": "Yeni bir şehir manzarası tasarladılar."
+      },
+      {
+        "zh": "这片区域的景观得到了很好的保护。",
+        "pinyin": "Zhè piàn qūyù de jǐngguān dédàole hěn hǎo de bǎohù.",
+        "en": "Bu bölgenin manzarası iyi bir şekilde korunmuş."
+      },
+      {
+        "zh": "山顶的景观令人陶醉。",
+        "pinyin": "Shāndǐng de jǐngguān lìng rén táozuì.",
+        "en": "Dağ tepesindeki manzara insanı büyülüyor."
+      }
+    ]
+  },
+  {
+    "id": "w4155",
+    "hanzi": "景气",
+    "pinyin": "jǐngqì",
+    "meaning": "ekonomik canlılık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "今年的经济景气不太好。",
+        "pinyin": "Jīnnián de jīngjì jǐngqì bú tài hǎo.",
+        "en": "Bu yılın ekonomik canlılığı pek iyi değil."
+      },
+      {
+        "zh": "市场景气逐渐回升。",
+        "pinyin": "Shìchǎng jǐngqì zhújiàn huíshēng.",
+        "en": "Piyasa canlılığı giderek yükseliyor."
+      },
+      {
+        "zh": "房地产市场景气度下降了。",
+        "pinyin": "Fángdìchǎn shìchǎng jǐngqìdù xiàjiàng le.",
+        "en": "Emlak piyasasının canlılığı düştü."
+      },
+      {
+        "zh": "经济不景气影响了很多企业。",
+        "pinyin": "Jīngjì bù jǐngqì yǐngxiǎngle hěn duō qǐyè.",
+        "en": "Ekonomik durgunluk birçok işletmeyi etkiledi."
+      },
+      {
+        "zh": "这个行业目前很景气。",
+        "pinyin": "Zhège hángyè mùqián hěn jǐngqì.",
+        "en": "Bu sektör şu anda çok canlı."
+      }
+    ]
+  },
+  {
+    "id": "w4156",
+    "hanzi": "警报",
+    "pinyin": "jǐngbào",
+    "meaning": "alarm",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "火警响起了警报。",
+        "pinyin": "Huǒjǐng xiǎngqǐle jǐngbào.",
+        "en": "Yangın alarmı çaldı."
+      },
+      {
+        "zh": "听到警报，大家赶紧撤离。",
+        "pinyin": "Tīngdào jǐngbào, dàjiā gǎnjǐn chèlí.",
+        "en": "Alarmı duyunca herkes hemen tahliye oldu."
+      },
+      {
+        "zh": "防空警报响彻整个城市。",
+        "pinyin": "Fángkōng jǐngbào xiǎngchè zhěnggè chéngshì.",
+        "en": "Hava saldırısı alarmı tüm şehirde yankılandı."
+      },
+      {
+        "zh": "警报解除后大家才放心。",
+        "pinyin": "Jǐngbào jiěchú hòu dàjiā cái fàngxīn.",
+        "en": "Alarm kaldırıldıktan sonra herkes rahatladı."
+      },
+      {
+        "zh": "这个系统会自动发出警报。",
+        "pinyin": "Zhège xìtǒng huì zìdòng fāchū jǐngbào.",
+        "en": "Bu sistem otomatik olarak alarm verir."
+      }
+    ]
+  },
+  {
+    "id": "w4157",
+    "hanzi": "警告",
+    "pinyin": "jǐnggào",
+    "meaning": "uyarmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "医生警告他不要再抽烟了。",
+        "pinyin": "Yīshēng jǐnggào tā bú yào zài chōuyān le.",
+        "en": "Doktor artık sigara içmemesi için onu uyardı."
+      },
+      {
+        "zh": "老师警告学生不要迟到。",
+        "pinyin": "Lǎoshī jǐnggào xuésheng bú yào chídào.",
+        "en": "Öğretmen öğrencileri geç kalmamaları konusunda uyardı."
+      },
+      {
+        "zh": "他受到了公司的正式警告。",
+        "pinyin": "Tā shòudàole gōngsī de zhèngshì jǐnggào.",
+        "en": "Şirketten resmi bir uyarı aldı."
+      },
+      {
+        "zh": "天气预报警告有台风来袭。",
+        "pinyin": "Tiānqì yùbào jǐnggào yǒu táifēng láixí.",
+        "en": "Hava durumu bir tayfun geleceğini uyardı."
+      },
+      {
+        "zh": "警告标志提醒司机减速。",
+        "pinyin": "Jǐnggào biāozhì tíxǐng sījī jiǎnsù.",
+        "en": "Uyarı işareti sürücüleri hız kesmeleri konusunda uyarıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4158",
+    "hanzi": "警惕",
+    "pinyin": "jǐngtì",
+    "meaning": "tetikte olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "我们要时刻保持警惕。",
+        "pinyin": "Wǒmen yào shíkè bǎochí jǐngtì.",
+        "en": "Her zaman tetikte olmalıyız."
+      },
+      {
+        "zh": "他对陌生人保持警惕。",
+        "pinyin": "Tā duì mòshēngrén bǎochí jǐngtì.",
+        "en": "Yabancılara karşı tetikte."
+      },
+      {
+        "zh": "大家要警惕电信诈骗。",
+        "pinyin": "Dàjiā yào jǐngtì diànxìn zhàpiàn.",
+        "en": "Herkes telefon dolandırıcılığına karşı dikkatli olmalı."
+      },
+      {
+        "zh": "他警惕地环顾四周。",
+        "pinyin": "Tā jǐngtì de huángù sìzhōu.",
+        "en": "Etrafına tetikte bakındı."
+      },
+      {
+        "zh": "我们应该对可疑行为保持警惕。",
+        "pinyin": "Wǒmen yīnggāi duì kěyí xíngwéi bǎochí jǐngtì.",
+        "en": "Şüpheli davranışlara karşı tetikte olmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w4159",
+    "hanzi": "境地",
+    "pinyin": "jìngdì",
+    "meaning": "durum, hal",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他陷入了困难的境地。",
+        "pinyin": "Tā xiànrùle kùnnan de jìngdì.",
+        "en": "Zor bir duruma düştü."
+      },
+      {
+        "zh": "公司面临着严峻的境地。",
+        "pinyin": "Gōngsī miànlínzhe yánjùn de jìngdì.",
+        "en": "Şirket ciddi bir durumla karşı karşıya."
+      },
+      {
+        "zh": "他把自己逼到了绝望的境地。",
+        "pinyin": "Tā bǎ zìjǐ bīdàole juéwàng de jìngdì.",
+        "en": "Kendini umutsuz bir duruma sokmuştu."
+      },
+      {
+        "zh": "我们要摆脱这种被动的境地。",
+        "pinyin": "Wǒmen yào bǎituō zhè zhǒng bèidòng de jìngdì.",
+        "en": "Bu pasif durumdan kurtulmalıyız."
+      },
+      {
+        "zh": "他陷入了进退两难的境地。",
+        "pinyin": "Tā xiànrùle jìntuì liǎngnán de jìngdì.",
+        "en": "İkilemli bir duruma düştü."
+      }
+    ]
+  },
+  {
+    "id": "w4160",
+    "hanzi": "境界",
+    "pinyin": "jìngjiè",
+    "meaning": "sınır, seviye",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他达到了艺术的最高境界。",
+        "pinyin": "Tā dádàole yìshù de zuì gāo jìngjiè.",
+        "en": "Sanatın en yüksek seviyesine ulaştı."
+      },
+      {
+        "zh": "这是一种超凡脱俗的境界。",
+        "pinyin": "Zhè shì yì zhǒng chāofán-tuōsú de jìngjiè.",
+        "en": "Bu, sıradanlığın ötesinde bir seviye."
+      },
+      {
+        "zh": "修炼多年，他终于达到了新境界。",
+        "pinyin": "Xiūliàn duō nián, tā zhōngyú dádàole xīn jìngjiè.",
+        "en": "Yıllarca çalıştıktan sonra sonunda yeni bir seviyeye ulaştı."
+      },
+      {
+        "zh": "他的思想境界很高。",
+        "pinyin": "Tā de sīxiǎng jìngjiè hěn gāo.",
+        "en": "Düşünce seviyesi çok yüksek."
+      },
+      {
+        "zh": "这幅画表现出了很高的艺术境界。",
+        "pinyin": "Zhè fú huà biǎoxiàn chūle hěn gāo de yìshù jìngjiè.",
+        "en": "Bu tablo yüksek bir sanatsal seviye sergiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4161",
+    "hanzi": "镜",
+    "pinyin": "jìng",
+    "meaning": "ayna, mercek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她照了照镜子。",
+        "pinyin": "Tā zhàole zhào jìngzi.",
+        "en": "Aynaya baktı."
+      },
+      {
+        "zh": "这副眼镜的镜片是新的。",
+        "pinyin": "Zhè fù yǎnjìng de jìngpiàn shì xīn de.",
+        "en": "Bu gözlüğün camları yeni."
+      },
+      {
+        "zh": "显微镜下可以看到细胞。",
+        "pinyin": "Xiǎnwēijìng xià kěyǐ kàndào xìbāo.",
+        "en": "Mikroskop altında hücreler görülebilir."
+      },
+      {
+        "zh": "他戴上了太阳镜。",
+        "pinyin": "Tā dàishàngle tàiyángjìng.",
+        "en": "Güneş gözlüğü taktı."
+      },
+      {
+        "zh": "望远镜可以看到远处的星星。",
+        "pinyin": "Wàngyuǎnjìng kěyǐ kàndào yuǎnchù de xīngxing.",
+        "en": "Teleskop uzaktaki yıldızları görebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4162",
+    "hanzi": "镜头",
+    "pinyin": "jìngtóu",
+    "meaning": "kamera lensi, sahne",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这台相机的镜头质量很好。",
+        "pinyin": "Zhè tái xiàngjī de jìngtóu zhìliàng hěn hǎo.",
+        "en": "Bu fotoğraf makinesinin lens kalitesi çok iyi."
+      },
+      {
+        "zh": "这部电影的镜头非常精彩。",
+        "pinyin": "Zhè bù diànyǐng de jìngtóu fēicháng jīngcǎi.",
+        "en": "Bu filmin sahneleri çok başarılı."
+      },
+      {
+        "zh": "摄影师捕捉到了精彩的镜头。",
+        "pinyin": "Shèyǐngshī bǔzhuō dàole jīngcǎi de jìngtóu.",
+        "en": "Fotoğrafçı harika bir kare yakaladı."
+      },
+      {
+        "zh": "他对准镜头微笑。",
+        "pinyin": "Tā duìzhǔn jìngtóu wéixiào.",
+        "en": "Objektife gülümsedi."
+      },
+      {
+        "zh": "这个镜头拍得非常美。",
+        "pinyin": "Zhège jìngtóu pāi de fēicháng měi.",
+        "en": "Bu sahne çok güzel çekilmiş."
+      }
+    ]
+  },
+  {
+    "id": "w4163",
+    "hanzi": "竞技",
+    "pinyin": "jìngjì",
+    "meaning": "spor müsabakası",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他喜欢各种竞技运动。",
+        "pinyin": "Tā xǐhuan gèzhǒng jìngjì yùndòng.",
+        "en": "Çeşitli spor müsabakalarını sever."
+      },
+      {
+        "zh": "竞技体育需要长期训练。",
+        "pinyin": "Jìngjì tǐyù xūyào chángqī xùnliàn.",
+        "en": "Rekabetçi spor uzun süreli antrenman gerektirir."
+      },
+      {
+        "zh": "他是一名职业竞技选手。",
+        "pinyin": "Tā shì yì míng zhíyè jìngjì xuǎnshǒu.",
+        "en": "O profesyonel bir yarışmacı."
+      },
+      {
+        "zh": "竞技场上气氛十分紧张。",
+        "pinyin": "Jìngjìchǎng shàng qìfēn shífēn jǐnzhāng.",
+        "en": "Yarışma alanındaki hava çok gergindi."
+      },
+      {
+        "zh": "这项竞技运动很受欢迎。",
+        "pinyin": "Zhè xiàng jìngjì yùndòng hěn shòu huānyíng.",
+        "en": "Bu rekabetçi spor çok popüler."
+      }
+    ]
+  },
+  {
+    "id": "w4164",
+    "hanzi": "竞赛",
+    "pinyin": "jìngsài",
+    "meaning": "yarışma",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "学校举行了数学竞赛。",
+        "pinyin": "Xuéxiào jǔxíngle shùxué jìngsài.",
+        "en": "Okul bir matematik yarışması düzenledi."
+      },
+      {
+        "zh": "他在这次竞赛中获得了第一名。",
+        "pinyin": "Tā zài zhè cì jìngsài zhōng huòdéle dì-yī míng.",
+        "en": "Bu yarışmada birinci oldu."
+      },
+      {
+        "zh": "各国之间存在着激烈的竞赛。",
+        "pinyin": "Gèguó zhījiān cúnzàizhe jīliè de jìngsài.",
+        "en": "Ülkeler arasında şiddetli bir yarış var."
+      },
+      {
+        "zh": "这项竞赛吸引了许多参赛者。",
+        "pinyin": "Zhè xiàng jìngsài xīyǐnle xǔduō cānsàizhě.",
+        "en": "Bu yarışma birçok katılımcının ilgisini çekti."
+      },
+      {
+        "zh": "我们要为即将到来的竞赛做好准备。",
+        "pinyin": "Wǒmen yào wèi jíjiāng dàolái de jìngsài zuòhǎo zhǔnbèi.",
+        "en": "Yaklaşan yarışmaya iyi hazırlanmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w4165",
+    "hanzi": "竞选",
+    "pinyin": "jìngxuǎn",
+    "meaning": "seçim yarışına girmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他决定竞选市长。",
+        "pinyin": "Tā juédìng jìngxuǎn shìzhǎng.",
+        "en": "Belediye başkanlığı için yarışmaya karar verdi."
+      },
+      {
+        "zh": "竞选活动已经开始了。",
+        "pinyin": "Jìngxuǎn huódòng yǐjīng kāishǐ le.",
+        "en": "Seçim kampanyası başladı."
+      },
+      {
+        "zh": "她是这次竞选的热门候选人。",
+        "pinyin": "Tā shì zhè cì jìngxuǎn de rèmén hòuxuǎnrén.",
+        "en": "Bu seçimin popüler adaylarından biri."
+      },
+      {
+        "zh": "他为竞选投入了大量精力。",
+        "pinyin": "Tā wèi jìngxuǎn tóurùle dàliàng jīnglì.",
+        "en": "Seçim için büyük bir enerji harcadı."
+      },
+      {
+        "zh": "竞选演讲吸引了很多听众。",
+        "pinyin": "Jìngxuǎn yǎnjiǎng xīyǐnle hěn duō tīngzhòng.",
+        "en": "Seçim konuşması birçok dinleyicinin ilgisini çekti."
+      }
+    ]
+  },
+  {
+    "id": "w4166",
+    "hanzi": "净化",
+    "pinyin": "jìnghuà",
+    "meaning": "arıtmak, temizlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台设备可以净化空气。",
+        "pinyin": "Zhè tái shèbèi kěyǐ jìnghuà kōngqì.",
+        "en": "Bu cihaz havayı arıtabilir."
+      },
+      {
+        "zh": "我们需要净化水源。",
+        "pinyin": "Wǒmen xūyào jìnghuà shuǐyuán.",
+        "en": "Su kaynağını arıtmamız gerekiyor."
+      },
+      {
+        "zh": "音乐可以净化心灵。",
+        "pinyin": "Yīnyuè kěyǐ jìnghuà xīnlíng.",
+        "en": "Müzik ruhu arındırabilir."
+      },
+      {
+        "zh": "这项技术能有效净化污水。",
+        "pinyin": "Zhè xiàng jìshù néng yǒuxiào jìnghuà wūshuǐ.",
+        "en": "Bu teknoloji kirli suyu etkili bir şekilde arıtabilir."
+      },
+      {
+        "zh": "净化剂可以清除有害物质。",
+        "pinyin": "Jìnghuàjì kěyǐ qīngchú yǒuhài wùzhì.",
+        "en": "Arıtıcı zararlı maddeleri temizleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4167",
+    "hanzi": "静",
+    "pinyin": "jìng",
+    "meaning": "sessiz, sakin",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "教室里很静。",
+        "pinyin": "Jiàoshì lǐ hěn jìng.",
+        "en": "Sınıf çok sessiz."
+      },
+      {
+        "zh": "请安静一点。",
+        "pinyin": "Qǐng ānjìng yìdiǎn.",
+        "en": "Lütfen biraz sessiz olun."
+      },
+      {
+        "zh": "夜晚的湖面十分平静。",
+        "pinyin": "Yèwǎn de húmiàn shífēn píngjìng.",
+        "en": "Gecenin göl yüzeyi son derece sakin."
+      },
+      {
+        "zh": "他喜欢安静的环境。",
+        "pinyin": "Tā xǐhuan ānjìng de huánjìng.",
+        "en": "Sessiz bir ortamı sever."
+      },
+      {
+        "zh": "图书馆需要保持安静。",
+        "pinyin": "Túshūguǎn xūyào bǎochí ānjìng.",
+        "en": "Kütüphanede sessizliği korumak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4168",
+    "hanzi": "静脉",
+    "pinyin": "jìngmài",
+    "meaning": "toplardamar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "护士在他的静脉上打了针。",
+        "pinyin": "Hùshi zài tā de jìngmài shàng dǎle zhēn.",
+        "en": "Hemşire toplardamarına iğne yaptı."
+      },
+      {
+        "zh": "静脉血是暗红色的。",
+        "pinyin": "Jìngmài xiě shì ànhóngsè de.",
+        "en": "Toplardamar kanı koyu kırmızıdır."
+      },
+      {
+        "zh": "医生检查了他手臂上的静脉。",
+        "pinyin": "Yīshēng jiǎnchále tā shǒubì shàng de jìngmài.",
+        "en": "Doktor kolundaki toplardamarları kontrol etti."
+      },
+      {
+        "zh": "静脉曲张是常见的血管疾病。",
+        "pinyin": "Jìngmài qūzhāng shì chángjiàn de xuèguǎn jíbìng.",
+        "en": "Variköz damar yaygın bir damar hastalığıdır."
+      },
+      {
+        "zh": "他通过静脉注射接受治疗。",
+        "pinyin": "Tā tōngguò jìngmài zhùshè jiēshòu zhìliáo.",
+        "en": "Toplardamardan iğne yoluyla tedavi görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w4169",
+    "hanzi": "静止",
+    "pinyin": "jìngzhǐ",
+    "meaning": "hareketsiz olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "物体处于静止状态。",
+        "pinyin": "Wùtǐ chǔyú jìngzhǐ zhuàngtài.",
+        "en": "Cisim hareketsiz durumda."
+      },
+      {
+        "zh": "时钟突然静止了。",
+        "pinyin": "Shízhōng tūrán jìngzhǐ le.",
+        "en": "Saat aniden durdu."
+      },
+      {
+        "zh": "静止的水面像一面镜子。",
+        "pinyin": "Jìngzhǐ de shuǐmiàn xiàng yí miàn jìngzi.",
+        "en": "Durgun su yüzeyi ayna gibi."
+      },
+      {
+        "zh": "汽车在路口静止不动。",
+        "pinyin": "Qìchē zài lùkǒu jìngzhǐ búdòng.",
+        "en": "Araba kavşakta hareketsiz duruyor."
+      },
+      {
+        "zh": "河水结冰后变得静止了。",
+        "pinyin": "Héshuǐ jiébīng hòu biàn de jìngzhǐ le.",
+        "en": "Nehir suyu donduktan sonra hareketsiz hale geldi."
+      }
+    ]
+  },
+  {
+    "id": "w4170",
+    "hanzi": "敬",
+    "pinyin": "jìng",
+    "meaning": "saygı göstermek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他向老师敬了个礼。",
+        "pinyin": "Tā xiàng lǎoshī jìngle ge lǐ.",
+        "en": "Öğretmenine saygıyla selam verdi."
+      },
+      {
+        "zh": "学生们敬爱他们的老师。",
+        "pinyin": "Xuéshengmen jìng'ài tāmen de lǎoshī.",
+        "en": "Öğrenciler öğretmenlerine saygı ve sevgi duyar."
+      },
+      {
+        "zh": "我们敬重那些为国家做出贡献的人。",
+        "pinyin": "Wǒmen jìngzhòng nàxiē wèi guójiā zuòchū gòngxiàn de rén.",
+        "en": "Ülkeye katkı sağlayanlara saygı duyarız."
+      },
+      {
+        "zh": "他敬了长辈一杯酒。",
+        "pinyin": "Tā jìngle zhǎngbèi yì bēi jiǔ.",
+        "en": "Büyüğüne saygı göstererek bir kadeh sundu."
+      },
+      {
+        "zh": "大家都很敬佩他的勇气。",
+        "pinyin": "Dàjiā dōu hěn jìngpèi tā de yǒngqì.",
+        "en": "Herkes cesaretine büyük saygı duyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w4171",
+    "hanzi": "敬酒",
+    "pinyin": "jìngjiǔ",
+    "meaning": "kadeh kaldırmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他向客人敬酒。",
+        "pinyin": "Tā xiàng kèrén jìngjiǔ.",
+        "en": "Misafirlere kadeh kaldırdı."
+      },
+      {
+        "zh": "婚礼上新人向宾客敬酒。",
+        "pinyin": "Hūnlǐ shàng xīnrén xiàng bīnkè jìngjiǔ.",
+        "en": "Düğünde yeni evliler misafirlere kadeh kaldırdı."
+      },
+      {
+        "zh": "他举杯向大家敬酒。",
+        "pinyin": "Tā jǔ bēi xiàng dàjiā jìngjiǔ.",
+        "en": "Kadehini kaldırıp herkese içki teklif etti."
+      },
+      {
+        "zh": "敬酒的时候要说些祝福的话。",
+        "pinyin": "Jìngjiǔ de shíhou yào shuō xiē zhùfú de huà.",
+        "en": "Kadeh kaldırırken tebrik sözleri söylemek gerekir."
+      },
+      {
+        "zh": "他给长辈敬酒表示尊重。",
+        "pinyin": "Tā gěi zhǎngbèi jìngjiǔ biǎoshì zūnzhòng.",
+        "en": "Büyüğüne saygısını göstermek için kadeh kaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w4172",
+    "hanzi": "敬佩",
+    "pinyin": "jìngpèi",
+    "meaning": "takdir etmek, hayranlık duymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我非常敬佩他的毅力。",
+        "pinyin": "Wǒ fēicháng jìngpèi tā de yìlì.",
+        "en": "Onun azmine çok hayranlık duyuyorum."
+      },
+      {
+        "zh": "大家都敬佩这位英雄的勇敢。",
+        "pinyin": "Dàjiā dōu jìngpèi zhè wèi yīngxióng de yǒnggǎn.",
+        "en": "Herkes bu kahramanın cesaretine hayranlık duyuyor."
+      },
+      {
+        "zh": "我敬佩她坚持不懈的精神。",
+        "pinyin": "Wǒ jìngpèi tā jiānchí búxiè de jīngshén.",
+        "en": "Onun azimli ruhuna hayranlık duyuyorum."
+      },
+      {
+        "zh": "我们敬佩他为科学做出的贡献。",
+        "pinyin": "Wǒmen jìngpèi tā wèi kēxué zuòchū de gòngxiàn.",
+        "en": "Bilime yaptığı katkılara hayranlık duyuyoruz."
+      },
+      {
+        "zh": "他的诚实让人敬佩。",
+        "pinyin": "Tā de chéngshí ràng rén jìngpèi.",
+        "en": "Dürüstlüğü insanlara hayranlık uyandırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4173",
+    "hanzi": "敬意",
+    "pinyin": "jìngyì",
+    "meaning": "saygı, hürmet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他向老师表达了深深的敬意。",
+        "pinyin": "Tā xiàng lǎoshī biǎodále shēnshēn de jìngyì.",
+        "en": "Öğretmenine derin saygısını ifade etti."
+      },
+      {
+        "zh": "我们向所有的医护人员致以敬意。",
+        "pinyin": "Wǒmen xiàng suǒyǒu de yīhù rényuán zhìyǐ jìngyì.",
+        "en": "Tüm sağlık çalışanlarına saygılarımızı sunuyoruz."
+      },
+      {
+        "zh": "他献花以表敬意。",
+        "pinyin": "Tā xiànhuā yǐ biǎo jìngyì.",
+        "en": "Saygısını göstermek için çiçek sundu."
+      },
+      {
+        "zh": "人们对烈士表示崇高的敬意。",
+        "pinyin": "Rénmen duì lièshì biǎoshì chónggāo de jìngyì.",
+        "en": "İnsanlar şehitlere en yüce saygılarını sunuyor."
+      },
+      {
+        "zh": "他心怀敬意地聆听长者的教诲。",
+        "pinyin": "Tā xīnhuái jìngyì de língtīng zhǎngzhě de jiàohuì.",
+        "en": "Saygıyla büyüklerin öğütlerini dinledi."
+      }
+    ]
   }
 ]

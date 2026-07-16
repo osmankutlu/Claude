@@ -151771,5 +151771,833 @@
         "en": "Fotoğrafa bakarak sessizce ağladı."
       }
     ]
+  },
+  {
+    "id": "w4413",
+    "hanzi": "窟窿",
+    "pinyin": "kūlong",
+    "meaning": "Delik, oyuk, boşluk; açık (borç)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "墙上有一个窟窿。",
+        "pinyin": "Qiáng shàng yǒu yí gè kūlong.",
+        "en": "Duvarda bir delik var."
+      },
+      {
+        "zh": "他的袜子上破了一个窟窿。",
+        "pinyin": "Tā de wàzi shàng pò le yí gè kūlong.",
+        "en": "Çorabında bir delik açıldı."
+      },
+      {
+        "zh": "公司财务上出现了大窟窿。",
+        "pinyin": "Gōngsī cáiwù shàng chūxiàn le dà kūlong.",
+        "en": "Şirketin mali durumunda büyük bir açık ortaya çıktı."
+      },
+      {
+        "zh": "他借钱补上了这个窟窿。",
+        "pinyin": "Tā jiè qián bǔshàng le zhège kūlong.",
+        "en": "Bu açığı kapatmak için borç aldı."
+      },
+      {
+        "zh": "冰面上出现了一个窟窿。",
+        "pinyin": "Bīngmiàn shàng chūxiàn le yí gè kūlong.",
+        "en": "Buzun üzerinde bir delik oluştu."
+      }
+    ]
+  },
+  {
+    "id": "w4414",
+    "hanzi": "苦闷",
+    "pinyin": "kǔmèn",
+    "meaning": "Morali bozuk, sıkıntılı, kederli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "最近他心情很苦闷。",
+        "pinyin": "Zuìjìn tā xīnqíng hěn kǔmèn.",
+        "en": "Son zamanlarda morali çok bozuk."
+      },
+      {
+        "zh": "工作压力让他感到苦闷。",
+        "pinyin": "Gōngzuò yālì ràng tā gǎndào kǔmèn.",
+        "en": "İş baskısı onu sıkıntıya soktu."
+      },
+      {
+        "zh": "她在日记里写下了自己的苦闷。",
+        "pinyin": "Tā zài rìjì lǐ xiěxià le zìjǐ de kǔmèn.",
+        "en": "Günlüğüne kendi sıkıntısını yazdı."
+      },
+      {
+        "zh": "他因为失业而苦闷不已。",
+        "pinyin": "Tā yīnwèi shīyè ér kǔmèn bùyǐ.",
+        "en": "İşsiz kaldığı için derin bir sıkıntı içinde."
+      },
+      {
+        "zh": "找朋友聊天可以缓解苦闷。",
+        "pinyin": "Zhǎo péngyou liáotiān kěyǐ huǎnjiě kǔmèn.",
+        "en": "Arkadaşlarla sohbet etmek sıkıntıyı hafifletebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4415",
+    "hanzi": "苦难",
+    "pinyin": "kǔnàn",
+    "meaning": "Acı, ıstırap, felaket",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他经历了很多苦难。",
+        "pinyin": "Tā jīnglì le hěn duō kǔnàn.",
+        "en": "Birçok acı yaşadı."
+      },
+      {
+        "zh": "战争带给人民深重的苦难。",
+        "pinyin": "Zhànzhēng dàigěi rénmín shēnzhòng de kǔnàn.",
+        "en": "Savaş halka derin bir acı getirdi."
+      },
+      {
+        "zh": "他在苦难中变得更加坚强。",
+        "pinyin": "Tā zài kǔnàn zhōng biàn de gèngjiā jiānqiáng.",
+        "en": "Acılar içinde daha da güçlendi."
+      },
+      {
+        "zh": "这部小说描写了主人公的苦难命运。",
+        "pinyin": "Zhè bù xiǎoshuō miáoxiě le zhǔréngōng de kǔnàn mìngyùn.",
+        "en": "Bu roman, kahramanın ıstıraplı kaderini betimliyor."
+      },
+      {
+        "zh": "人们共同度过了那段苦难岁月。",
+        "pinyin": "Rénmen gòngtóng dùguò le nà duàn kǔnàn suìyuè.",
+        "en": "İnsanlar o zorlu yılları birlikte atlattı."
+      }
+    ]
+  },
+  {
+    "id": "w4416",
+    "hanzi": "苦恼",
+    "pinyin": "kǔnǎo",
+    "meaning": "Üzgün, kederli, canı sıkkın",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他为这件事感到十分苦恼。",
+        "pinyin": "Tā wèi zhè jiàn shì gǎndào shífēn kǔnǎo.",
+        "en": "Bu konuda çok canı sıkkın."
+      },
+      {
+        "zh": "找不到工作让她很苦恼。",
+        "pinyin": "Zhǎobudào gōngzuò ràng tā hěn kǔnǎo.",
+        "en": "İş bulamamak onu çok üzüyor."
+      },
+      {
+        "zh": "他苦恼地挠了挠头。",
+        "pinyin": "Tā kǔnǎo de náo le náo tóu.",
+        "en": "Canı sıkkın bir şekilde başını kaşıdı."
+      },
+      {
+        "zh": "别为小事苦恼了。",
+        "pinyin": "Bié wèi xiǎoshì kǔnǎo le.",
+        "en": "Küçük şeyler için üzülme."
+      },
+      {
+        "zh": "这个问题一直困扰着他,让他很苦恼。",
+        "pinyin": "Zhège wèntí yìzhí kùnrǎozhe tā, ràng tā hěn kǔnǎo.",
+        "en": "Bu sorun onu sürekli rahatsız ediyor ve çok canını sıkıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4417",
+    "hanzi": "苦笑",
+    "pinyin": "kǔxiào",
+    "meaning": "Acı gülümseme, zoraki gülümsemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他苦笑了一下,没有说话。",
+        "pinyin": "Tā kǔxiào le yíxià, méiyǒu shuōhuà.",
+        "en": "Acı bir şekilde gülümsedi ve hiçbir şey söylemedi."
+      },
+      {
+        "zh": "听到这个结果,她只能苦笑。",
+        "pinyin": "Tīngdào zhège jiéguǒ, tā zhǐ néng kǔxiào.",
+        "en": "Bu sonucu duyunca sadece zoraki gülümseyebildi."
+      },
+      {
+        "zh": "他苦笑着摇了摇头。",
+        "pinyin": "Tā kǔxiàozhe yáo le yáo tóu.",
+        "en": "Acı bir gülümsemeyle başını salladı."
+      },
+      {
+        "zh": "面对失败,他苦笑一声。",
+        "pinyin": "Miànduì shībài, tā kǔxiào yì shēng.",
+        "en": "Başarısızlıkla karşılaşınca acı acı güldü."
+      },
+      {
+        "zh": "她苦笑着说自己太天真了。",
+        "pinyin": "Tā kǔxiàozhe shuō zìjǐ tài tiānzhēn le.",
+        "en": "Acı bir gülümsemeyle kendisinin çok saf olduğunu söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w4418",
+    "hanzi": "酷",
+    "pinyin": "kù",
+    "meaning": "Zalim, acımasız; harika, süper (argo)",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这双鞋看起来很酷。",
+        "pinyin": "Zhè shuāng xié kàn qǐlai hěn kù.",
+        "en": "Bu ayakkabı çok havalı görünüyor."
+      },
+      {
+        "zh": "他的表演真酷!",
+        "pinyin": "Tā de biǎoyǎn zhēn kù!",
+        "en": "Onun performansı gerçekten harika!"
+      },
+      {
+        "zh": "统治者的手段十分酷烈。",
+        "pinyin": "Tǒngzhìzhě de shǒuduàn shífēn kùliè.",
+        "en": "Yöneticinin yöntemleri son derece acımasızdı."
+      },
+      {
+        "zh": "年轻人都觉得这个造型很酷。",
+        "pinyin": "Niánqīngrén dōu juéde zhège zàoxíng hěn kù.",
+        "en": "Gençler bu tarzın çok havalı olduğunu düşünüyor."
+      },
+      {
+        "zh": "他开着一辆很酷的跑车。",
+        "pinyin": "Tā kāizhe yí liàng hěn kù de pǎochē.",
+        "en": "Çok havalı bir spor araba kullanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4419",
+    "hanzi": "酷爱",
+    "pinyin": "kù'ài",
+    "meaning": "Çok sevmek, düşkün olmak, hevesli olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他酷爱音乐。",
+        "pinyin": "Tā kù'ài yīnyuè.",
+        "en": "Müziğe çok düşkün."
+      },
+      {
+        "zh": "她从小就酷爱阅读。",
+        "pinyin": "Tā cóngxiǎo jiù kù'ài yuèdú.",
+        "en": "Küçüklüğünden beri kitap okumaya çok meraklı."
+      },
+      {
+        "zh": "他酷爱旅行,去过很多国家。",
+        "pinyin": "Tā kù'ài lǚxíng, qùguò hěn duō guójiā.",
+        "en": "Seyahat etmeye çok düşkün, birçok ülkeye gitti."
+      },
+      {
+        "zh": "他酷爱古典音乐。",
+        "pinyin": "Tā kù'ài gǔdiǎn yīnyuè.",
+        "en": "Klasik müziğe çok düşkün."
+      },
+      {
+        "zh": "他酷爱这项运动,每天都练习。",
+        "pinyin": "Tā kù'ài zhè xiàng yùndòng, měitiān dōu liànxí.",
+        "en": "Bu spora çok düşkün, her gün antrenman yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4420",
+    "hanzi": "库",
+    "pinyin": "kù",
+    "meaning": "Depo, ambar",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "货物放在库里。",
+        "pinyin": "Huòwù fàng zài kù lǐ.",
+        "en": "Mallar depoda saklanıyor."
+      },
+      {
+        "zh": "这个仓库很大。",
+        "pinyin": "Zhège cāngkù hěn dà.",
+        "en": "Bu depo çok büyük."
+      },
+      {
+        "zh": "武器都存放在军械库里。",
+        "pinyin": "Wǔqì dōu cúnfàng zài jūnxièkù lǐ.",
+        "en": "Silahlar cephanelikte saklanıyor."
+      },
+      {
+        "zh": "数据库中储存了大量信息。",
+        "pinyin": "Shùjùkù zhōng chǔcún le dàliàng xìnxī.",
+        "en": "Veritabanında büyük miktarda bilgi saklanıyor."
+      },
+      {
+        "zh": "图书馆的藏书库不对外开放。",
+        "pinyin": "Túshūguǎn de cángshūkù bú duìwài kāifàng.",
+        "en": "Kütüphanenin kitap deposu halka açık değildir."
+      }
+    ]
+  },
+  {
+    "id": "w4421",
+    "hanzi": "库存",
+    "pinyin": "kùcún",
+    "meaning": "Stok, envanter",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这款产品库存不多了。",
+        "pinyin": "Zhè kuǎn chǎnpǐn kùcún bù duō le.",
+        "en": "Bu ürünün stoğu az kaldı."
+      },
+      {
+        "zh": "公司正在清理库存。",
+        "pinyin": "Gōngsī zhèngzài qīnglǐ kùcún.",
+        "en": "Şirket stokları eritmeye çalışıyor."
+      },
+      {
+        "zh": "库存商品打折出售。",
+        "pinyin": "Kùcún shāngpǐn dǎzhé chūshòu.",
+        "en": "Stok ürünleri indirimli satılıyor."
+      },
+      {
+        "zh": "他们每月盘点一次库存。",
+        "pinyin": "Tāmen měi yuè pándiǎn yí cì kùcún.",
+        "en": "Her ay bir kez stok sayımı yapıyorlar."
+      },
+      {
+        "zh": "库存过多会增加成本。",
+        "pinyin": "Kùcún guòduō huì zēngjiā chéngběn.",
+        "en": "Fazla stok maliyeti artırabilir."
+      }
+    ]
+  },
+  {
+    "id": "w4422",
+    "hanzi": "夸大",
+    "pinyin": "kuādà",
+    "meaning": "Abartmak, büyütmek, şişirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他夸大了事情的严重性。",
+        "pinyin": "Tā kuādà le shìqing de yánzhòngxìng.",
+        "en": "Olayın ciddiyetini abarttı."
+      },
+      {
+        "zh": "广告经常夸大产品的效果。",
+        "pinyin": "Guǎnggào chángcháng kuādà chǎnpǐn de xiàoguǒ.",
+        "en": "Reklamlar genellikle ürünün etkisini abartır."
+      },
+      {
+        "zh": "别夸大自己的功劳。",
+        "pinyin": "Bié kuādà zìjǐ de gōngláo.",
+        "en": "Kendi katkını abartma."
+      },
+      {
+        "zh": "他没有夸大问题的困难程度。",
+        "pinyin": "Tā méiyǒu kuādà wèntí de kùnnan chéngdù.",
+        "en": "Sorunun zorluğunu abartmadı."
+      },
+      {
+        "zh": "这份报道夸大了灾情的规模。",
+        "pinyin": "Zhè fèn bàodào kuādà le zāiqíng de guīmó.",
+        "en": "Bu haber, felaketin boyutunu abarttı."
+      }
+    ]
+  },
+  {
+    "id": "w4423",
+    "hanzi": "夸奖",
+    "pinyin": "kuājiǎng",
+    "meaning": "Övmek, methetmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老师夸奖了他的作文。",
+        "pinyin": "Lǎoshī kuājiǎng le tā de zuòwén.",
+        "en": "Öğretmen kompozisyonunu övdü."
+      },
+      {
+        "zh": "父母经常夸奖孩子的努力。",
+        "pinyin": "Fùmǔ chángcháng kuājiǎng háizi de nǔlì.",
+        "en": "Ebeveynler çocuğun çabasını sıkça övüyor."
+      },
+      {
+        "zh": "他被大家夸奖为工作认真。",
+        "pinyin": "Tā bèi dàjiā kuājiǎng wéi gōngzuò rènzhēn.",
+        "en": "İşinde ciddi olduğu için herkes tarafından övüldü."
+      },
+      {
+        "zh": "她因为帮助别人而受到夸奖。",
+        "pinyin": "Tā yīnwèi bāngzhù biérén ér shòudào kuājiǎng.",
+        "en": "Başkalarına yardım ettiği için övgü aldı."
+      },
+      {
+        "zh": "老板夸奖了这个新项目的表现。",
+        "pinyin": "Lǎobǎn kuājiǎng le zhège xīn xiàngmù de biǎoxiàn.",
+        "en": "Patron bu yeni projenin performansını övdü."
+      }
+    ]
+  },
+  {
+    "id": "w4424",
+    "hanzi": "夸耀",
+    "pinyin": "kuāyào",
+    "meaning": "Övünmek, böbürlenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他总是夸耀自己的成就。",
+        "pinyin": "Tā zǒngshì kuāyào zìjǐ de chéngjiù.",
+        "en": "Her zaman başarılarıyla övünüyor."
+      },
+      {
+        "zh": "别在别人面前夸耀财富。",
+        "pinyin": "Bié zài biérén miànqián kuāyào cáifù.",
+        "en": "Başkalarının önünde zenginliğinle böbürlenme."
+      },
+      {
+        "zh": "她喜欢夸耀自己的孩子有多聪明。",
+        "pinyin": "Tā xǐhuan kuāyào zìjǐ de háizi yǒu duō cōngming.",
+        "en": "Çocuğunun ne kadar zeki olduğuyla övünmeyi sever."
+      },
+      {
+        "zh": "他向朋友夸耀自己的新车。",
+        "pinyin": "Tā xiàng péngyou kuāyào zìjǐ de xīnchē.",
+        "en": "Arkadaşlarına yeni arabasıyla övündü."
+      },
+      {
+        "zh": "他从不夸耀自己的成绩。",
+        "pinyin": "Tā cóngbù kuāyào zìjǐ de chéngjì.",
+        "en": "Kendi başarılarıyla asla böbürlenmez."
+      }
+    ]
+  },
+  {
+    "id": "w4425",
+    "hanzi": "夸张",
+    "pinyin": "kuāzhāng",
+    "meaning": "Abartmak; abartma, mübalağa",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他说话总是有点夸张。",
+        "pinyin": "Tā shuōhuà zǒngshì yǒudiǎn kuāzhāng.",
+        "en": "Konuşurken hep biraz abartıyor."
+      },
+      {
+        "zh": "这个说法太夸张了。",
+        "pinyin": "Zhège shuōfǎ tài kuāzhāng le.",
+        "en": "Bu ifade çok abartılı."
+      },
+      {
+        "zh": "作者用夸张的手法描写了人物。",
+        "pinyin": "Zuòzhě yòng kuāzhāng de shǒufǎ miáoxiě le rénwù.",
+        "en": "Yazar karakteri abartılı bir üslupla betimledi."
+      },
+      {
+        "zh": "他的反应有点夸张。",
+        "pinyin": "Tā de fǎnyìng yǒudiǎn kuāzhāng.",
+        "en": "Tepkisi biraz abartılıydı."
+      },
+      {
+        "zh": "别夸张,事情没有那么严重。",
+        "pinyin": "Bié kuāzhāng, shìqing méiyǒu nàme yánzhòng.",
+        "en": "Abartma, olay o kadar da ciddi değil."
+      }
+    ]
+  },
+  {
+    "id": "w4426",
+    "hanzi": "垮台",
+    "pinyin": "kuǎtái",
+    "meaning": "Yıkılmak, çökmek, güç kaybetmek (rejim, iktidar)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个政权最终垮台了。",
+        "pinyin": "Zhège zhèngquán zuìzhōng kuǎtái le.",
+        "en": "Bu rejim sonunda çöktü."
+      },
+      {
+        "zh": "腐败导致公司垮台。",
+        "pinyin": "Fǔbài dǎozhì gōngsī kuǎtái.",
+        "en": "Yolsuzluk şirketin çökmesine neden oldu."
+      },
+      {
+        "zh": "经济危机让许多企业垮台。",
+        "pinyin": "Jīngjì wēijī ràng xǔduō qǐyè kuǎtái.",
+        "en": "Ekonomik kriz birçok işletmeyi çökertti."
+      },
+      {
+        "zh": "他的事业因为一次错误决定而垮台。",
+        "pinyin": "Tā de shìyè yīnwèi yí cì cuòwù juédìng ér kuǎtái.",
+        "en": "Kariyeri bir yanlış karar yüzünden çöktü."
+      },
+      {
+        "zh": "这个王朝在内乱中垮台。",
+        "pinyin": "Zhège wángcháo zài nèiluàn zhōng kuǎtái.",
+        "en": "Bu hanedan iç karışıklıklar içinde yıkıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4427",
+    "hanzi": "跨",
+    "pinyin": "kuà",
+    "meaning": "Adım atmak; (bir şeyin üzerinden) aşmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他跨过了那条小溪。",
+        "pinyin": "Tā kuàguò le nà tiáo xiǎoxī.",
+        "en": "O küçük dereyi aştı."
+      },
+      {
+        "zh": "她跨上自行车骑走了。",
+        "pinyin": "Tā kuàshàng zìxíngchē qízǒu le.",
+        "en": "Bisiklete atlayıp gitti."
+      },
+      {
+        "zh": "这座桥跨越了整条河。",
+        "pinyin": "Zhè zuò qiáo kuàyuè le zhěng tiáo hé.",
+        "en": "Bu köprü tüm nehri geçiyor."
+      },
+      {
+        "zh": "他一步跨进了房间。",
+        "pinyin": "Tā yí bù kuàjìn le fángjiān.",
+        "en": "Bir adımda odaya girdi."
+      },
+      {
+        "zh": "这个企业跨行业发展。",
+        "pinyin": "Zhège qǐyè kuà hángyè fāzhǎn.",
+        "en": "Bu işletme farklı sektörlere yayılarak gelişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4428",
+    "hanzi": "跨越",
+    "pinyin": "kuàyuè",
+    "meaning": "Aşmak, geçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他跨越了重重困难。",
+        "pinyin": "Tā kuàyuè le chóngchóng kùnnan.",
+        "en": "Pek çok zorluğu aştı."
+      },
+      {
+        "zh": "这座大桥跨越了长江。",
+        "pinyin": "Zhè zuò dàqiáo kuàyuè le Chángjiāng.",
+        "en": "Bu büyük köprü Yangtze Nehri'ni geçiyor."
+      },
+      {
+        "zh": "科技的发展跨越了地域的限制。",
+        "pinyin": "Kējì de fāzhǎn kuàyuè le dìyù de xiànzhì.",
+        "en": "Teknolojinin gelişmesi coğrafi sınırları aştı."
+      },
+      {
+        "zh": "他成功跨越了人生的低谷。",
+        "pinyin": "Tā chénggōng kuàyuè le rénshēng de dīgǔ.",
+        "en": "Hayatının en zor dönemini başarıyla aştı."
+      },
+      {
+        "zh": "这项技术跨越了时代。",
+        "pinyin": "Zhè xiàng jìshù kuàyuè le shídài.",
+        "en": "Bu teknoloji çağını aştı."
+      }
+    ]
+  },
+  {
+    "id": "w4429",
+    "hanzi": "款待",
+    "pinyin": "kuǎndài",
+    "meaning": "Ağırlamak, konuk etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "主人热情款待了客人。",
+        "pinyin": "Zhǔrén rèqíng kuǎndài le kèrén.",
+        "en": "Ev sahibi misafiri sıcak bir şekilde ağırladı."
+      },
+      {
+        "zh": "他们受到了盛情款待。",
+        "pinyin": "Tāmen shòudào le shèngqíng kuǎndài.",
+        "en": "Coşkulu bir şekilde ağırlandılar."
+      },
+      {
+        "zh": "我们准备了丰盛的晚宴款待客人。",
+        "pinyin": "Wǒmen zhǔnbèi le fēngshèng de wǎnyàn kuǎndài kèrén.",
+        "en": "Misafirleri ağırlamak için zengin bir akşam yemeği hazırladık."
+      },
+      {
+        "zh": "谢谢你的热情款待。",
+        "pinyin": "Xièxie nǐ de rèqíng kuǎndài.",
+        "en": "Sıcak ağırlaman için teşekkür ederim."
+      },
+      {
+        "zh": "他专程去款待远方来的朋友。",
+        "pinyin": "Tā zhuānchéng qù kuǎndài yuǎnfāng lái de péngyou.",
+        "en": "Uzaktan gelen arkadaşını özel olarak ağırlamaya gitti."
+      }
+    ]
+  },
+  {
+    "id": "w4430",
+    "hanzi": "款式",
+    "pinyin": "kuǎnshì",
+    "meaning": "Stil, tasarım, model",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "这件衣服的款式很流行。",
+        "pinyin": "Zhè jiàn yīfu de kuǎnshì hěn liúxíng.",
+        "en": "Bu kıyafetin tasarımı çok moda."
+      },
+      {
+        "zh": "这家店有很多新款式。",
+        "pinyin": "Zhè jiā diàn yǒu hěn duō xīn kuǎnshì.",
+        "en": "Bu mağazada birçok yeni tasarım var."
+      },
+      {
+        "zh": "他喜欢简单大方的款式。",
+        "pinyin": "Tā xǐhuan jiǎndān dàfang de kuǎnshì.",
+        "en": "Sade ve şık tasarımları sever."
+      },
+      {
+        "zh": "这款手机的款式非常时尚。",
+        "pinyin": "Zhè kuǎn shǒujī de kuǎnshì fēicháng shíshàng.",
+        "en": "Bu telefonun tasarımı oldukça modern."
+      },
+      {
+        "zh": "她挑选了一个适合自己的款式。",
+        "pinyin": "Tā tiāoxuǎn le yí gè shìhé zìjǐ de kuǎnshì.",
+        "en": "Kendine uygun bir model seçti."
+      }
+    ]
+  },
+  {
+    "id": "w4431",
+    "hanzi": "款项",
+    "pinyin": "kuǎnxiàng",
+    "meaning": "Toplam para, sermaye, fon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这笔款项已经打到账户里了。",
+        "pinyin": "Zhè bǐ kuǎnxiàng yǐjīng dǎdào zhànghù lǐ le.",
+        "en": "Bu para hesaba yatırıldı."
+      },
+      {
+        "zh": "公司需要一笔款项支付货款。",
+        "pinyin": "Gōngsī xūyào yì bǐ kuǎnxiàng zhīfù huòkuǎn.",
+        "en": "Şirketin mal bedelini ödemek için bir fona ihtiyacı var."
+      },
+      {
+        "zh": "这笔款项用于慈善事业。",
+        "pinyin": "Zhè bǐ kuǎnxiàng yòngyú císhàn shìyè.",
+        "en": "Bu fon hayır işleri için kullanılacak."
+      },
+      {
+        "zh": "他核实了款项的来源。",
+        "pinyin": "Tā héshí le kuǎnxiàng de láiyuán.",
+        "en": "Paranın kaynağını doğruladı."
+      },
+      {
+        "zh": "这笔款项还没有到账。",
+        "pinyin": "Zhè bǐ kuǎnxiàng hái méiyǒu dàozhàng.",
+        "en": "Bu tutar henüz hesaba geçmedi."
+      }
+    ]
+  },
+  {
+    "id": "w4432",
+    "hanzi": "宽敞",
+    "pinyin": "kuānchang",
+    "meaning": "Geniş, ferah",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这间房子很宽敞。",
+        "pinyin": "Zhè jiān fángzi hěn kuānchang.",
+        "en": "Bu ev çok geniş."
+      },
+      {
+        "zh": "客厅布置得宽敞明亮。",
+        "pinyin": "Kètīng bùzhì de kuānchang míngliàng.",
+        "en": "Oturma odası geniş ve aydınlık düzenlenmiş."
+      },
+      {
+        "zh": "新校园的教室十分宽敞。",
+        "pinyin": "Xīn xiàoyuán de jiàoshì shífēn kuānchang.",
+        "en": "Yeni kampüsün sınıfları oldukça geniş."
+      },
+      {
+        "zh": "这条路比以前宽敞多了。",
+        "pinyin": "Zhè tiáo lù bǐ yǐqián kuānchang duō le.",
+        "en": "Bu yol öncekinden çok daha geniş."
+      },
+      {
+        "zh": "他们住在一套宽敞的公寓里。",
+        "pinyin": "Tāmen zhù zài yí tào kuānchang de gōngyù lǐ.",
+        "en": "Geniş bir dairede yaşıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w4433",
+    "hanzi": "宽大",
+    "pinyin": "kuāndà",
+    "meaning": "Geniş, ferah; hoşgörülü, affedici",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他穿着一件宽大的外套。",
+        "pinyin": "Tā chuānzhe yí jiàn kuāndà de wàitào.",
+        "en": "Bol bir palto giyiyor."
+      },
+      {
+        "zh": "法官对他从宽大处理。",
+        "pinyin": "Fǎguān duì tā cóng kuāndà chǔlǐ.",
+        "en": "Hakim ona hoşgörülü bir ceza verdi."
+      },
+      {
+        "zh": "这个大厅十分宽大。",
+        "pinyin": "Zhège dàtīng shífēn kuāndà.",
+        "en": "Bu salon oldukça geniş."
+      },
+      {
+        "zh": "他为人宽大,不计较小事。",
+        "pinyin": "Tā wéirén kuāndà, bú jìjiào xiǎoshì.",
+        "en": "Hoşgörülü bir insan, küçük şeyleri dert etmez."
+      },
+      {
+        "zh": "政府对认错的人采取宽大政策。",
+        "pinyin": "Zhèngfǔ duì rèncuò de rén cǎiqǔ kuāndà zhèngcè.",
+        "en": "Hükümet hatasını kabul edenlere karşı hoşgörülü bir politika izliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4434",
+    "hanzi": "宽度",
+    "pinyin": "kuāndù",
+    "meaning": "Genişlik, en",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "ölçüm",
+    "examples": [
+      {
+        "zh": "这条河的宽度大约有五十米。",
+        "pinyin": "Zhè tiáo hé de kuāndù dàyuē yǒu wǔshí mǐ.",
+        "en": "Bu nehrin genişliği yaklaşık elli metredir."
+      },
+      {
+        "zh": "请测量一下桌子的宽度。",
+        "pinyin": "Qǐng cèliáng yíxià zhuōzi de kuāndù.",
+        "en": "Lütfen masanın genişliğini ölçün."
+      },
+      {
+        "zh": "这条路的宽度不够两辆车并行。",
+        "pinyin": "Zhè tiáo lù de kuāndù búgòu liǎng liàng chē bìngxíng.",
+        "en": "Bu yolun genişliği iki aracın yan yana geçmesine yetmiyor."
+      },
+      {
+        "zh": "屏幕的宽度和高度比例很重要。",
+        "pinyin": "Píngmù de kuāndù hé gāodù bǐlì hěn zhòngyào.",
+        "en": "Ekranın genişlik ve yükseklik oranı çok önemlidir."
+      },
+      {
+        "zh": "这座桥的宽度可以通行三辆卡车。",
+        "pinyin": "Zhè zuò qiáo de kuāndù kěyǐ tōngxíng sān liàng kǎchē.",
+        "en": "Bu köprünün genişliği üç kamyonun geçmesine yetiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4435",
+    "hanzi": "宽广",
+    "pinyin": "kuānguǎng",
+    "meaning": "Geniş, uçsuz bucaksız",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "草原一望无际,十分宽广。",
+        "pinyin": "Cǎoyuán yíwàng-wújì, shífēn kuānguǎng.",
+        "en": "Bozkır göz alabildiğine uzanıyor, çok geniş."
+      },
+      {
+        "zh": "他有着宽广的胸怀。",
+        "pinyin": "Tā yǒuzhe kuānguǎng de xiōnghuái.",
+        "en": "Geniş bir gönlü var."
+      },
+      {
+        "zh": "这个领域的发展前景十分宽广。",
+        "pinyin": "Zhège lǐngyù de fāzhǎn qiánjǐng shífēn kuānguǎng.",
+        "en": "Bu alanın gelişim potansiyeli oldukça geniştir."
+      },
+      {
+        "zh": "他的知识面十分宽广。",
+        "pinyin": "Tā de zhīshimiàn shífēn kuānguǎng.",
+        "en": "Bilgi birikimi oldukça geniştir."
+      },
+      {
+        "zh": "宽广的海洋让人心情开阔。",
+        "pinyin": "Kuānguǎng de hǎiyáng ràng rén xīnqíng kāikuò.",
+        "en": "Uçsuz bucaksız deniz insanın ruhunu ferahlatıyor."
+      }
+    ]
   }
 ]

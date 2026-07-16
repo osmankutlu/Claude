@@ -118675,5 +118675,629 @@
         "en": "Ordu sonunda bu şehri ele geçirdi."
       }
     ]
+  },
+  {
+    "id": "w3446",
+    "hanzi": "功课",
+    "pinyin": "gōngkè",
+    "meaning": "ev ödevi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "请先完成功课再玩游戏。",
+        "pinyin": "Qǐng xiān wánchéng gōngkè zài wán yóuxì.",
+        "en": "Önce ödevini bitir sonra oyun oyna."
+      },
+      {
+        "zh": "他每天认真做功课。",
+        "pinyin": "Tā měitiān rènzhēn zuò gōngkè.",
+        "en": "Her gün ödevini titizlikle yapıyor."
+      },
+      {
+        "zh": "老师检查了学生的功课。",
+        "pinyin": "Lǎoshī jiǎnchá le xuésheng de gōngkè.",
+        "en": "Öğretmen öğrencinin ödevini kontrol etti."
+      },
+      {
+        "zh": "她的功课总是完成得很好。",
+        "pinyin": "Tā de gōngkè zǒngshì wánchéng de hěn hǎo.",
+        "en": "Ödevini her zaman iyi tamamlar."
+      },
+      {
+        "zh": "我今天有很多功课要做。",
+        "pinyin": "Wǒ jīntiān yǒu hěn duō gōngkè yào zuò.",
+        "en": "Bugün yapmam gereken çok ödevim var."
+      }
+    ]
+  },
+  {
+    "id": "w3447",
+    "hanzi": "公共",
+    "pinyin": "gōnggòng",
+    "meaning": "kamusal, genel",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请保持公共场所的清洁。",
+        "pinyin": "Qǐng bǎochí gōnggòng chǎngsuǒ de qīngjié.",
+        "en": "Lütfen kamuya açık alanları temiz tutun."
+      },
+      {
+        "zh": "图书馆是公共设施之一。",
+        "pinyin": "Túshūguǎn shì gōnggòng shèshī zhī yī.",
+        "en": "Kütüphane kamu tesislerinden biridir."
+      },
+      {
+        "zh": "我们应该爱护公共财物。",
+        "pinyin": "Wǒmen yīnggāi àihù gōnggòng cáiwù.",
+        "en": "Kamu mallarına özen göstermeliyiz."
+      },
+      {
+        "zh": "这是一个公共休息区。",
+        "pinyin": "Zhè shì yí ge gōnggòng xiūxī qū.",
+        "en": "Burası ortak bir dinlenme alanıdır."
+      },
+      {
+        "zh": "公共交通系统非常方便。",
+        "pinyin": "Gōnggòng jiāotōng xìtǒng fēicháng fāngbiàn.",
+        "en": "Toplu taşıma sistemi çok pratik."
+      }
+    ]
+  },
+  {
+    "id": "w3448",
+    "hanzi": "公路",
+    "pinyin": "gōnglù",
+    "meaning": "anayol",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这条公路直通市中心。",
+        "pinyin": "Zhè tiáo gōnglù zhítōng shìzhōngxīn.",
+        "en": "Bu anayol doğrudan şehir merkezine ulaşır."
+      },
+      {
+        "zh": "高速公路上车速很快。",
+        "pinyin": "Gāosù gōnglù shàng chēsù hěn kuài.",
+        "en": "Otoyolda araç hızı çok yüksek."
+      },
+      {
+        "zh": "这条公路正在维修。",
+        "pinyin": "Zhè tiáo gōnglù zhèngzài wéixiū.",
+        "en": "Bu anayol bakımda."
+      },
+      {
+        "zh": "公路两旁种满了树木。",
+        "pinyin": "Gōnglù liǎngpáng zhòngmǎn le shùmù.",
+        "en": "Anayolun iki yanı ağaçlarla dolu."
+      },
+      {
+        "zh": "我们沿着公路开了很久。",
+        "pinyin": "Wǒmen yánzhe gōnglù kāi le hěn jiǔ.",
+        "en": "Anayol boyunca uzun süre araba sürdük."
+      }
+    ]
+  },
+  {
+    "id": "w3450",
+    "hanzi": "功劳",
+    "pinyin": "gōngláo",
+    "meaning": "emek ve fedakarlık, katkı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这次成功离不开大家的功劳。",
+        "pinyin": "Zhè cì chénggōng lí bù kāi dàjiā de gōngláo.",
+        "en": "Bu başarı herkesin emeği sayesinde gerçekleşti."
+      },
+      {
+        "zh": "他为公司立下了汗马功劳。",
+        "pinyin": "Tā wèi gōngsī lìxià le hànmǎ-gōngláo.",
+        "en": "Şirket için büyük katkılarda bulundu."
+      },
+      {
+        "zh": "老师的功劳不可忽视。",
+        "pinyin": "Lǎoshī de gōngláo bùkě hūshì.",
+        "en": "Öğretmenin katkısı göz ardı edilemez."
+      },
+      {
+        "zh": "团队的成功是大家共同的功劳。",
+        "pinyin": "Tuánduì de chénggōng shì dàjiā gòngtóng de gōngláo.",
+        "en": "Ekibin başarısı herkesin ortak emeğidir."
+      },
+      {
+        "zh": "他把功劳归于团队而不是自己。",
+        "pinyin": "Tā bǎ gōngláo guīyú tuánduì ér búshì zìjǐ.",
+        "en": "Başarıyı kendine değil ekibe atfetti."
+      }
+    ]
+  },
+  {
+    "id": "w3451",
+    "hanzi": "功效",
+    "pinyin": "gōngxiào",
+    "meaning": "fayda, etki",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种药有很好的功效。",
+        "pinyin": "Zhè zhǒng yào yǒu hěn hǎo de gōngxiào.",
+        "en": "Bu ilacın çok iyi bir etkisi var."
+      },
+      {
+        "zh": "这项政策的功效还有待观察。",
+        "pinyin": "Zhè xiàng zhèngcè de gōngxiào hái yǒudài guānchá.",
+        "en": "Bu politikanın etkisi henüz gözlemlenmeyi bekliyor."
+      },
+      {
+        "zh": "这个方法的功效非常明显。",
+        "pinyin": "Zhège fāngfǎ de gōngxiào fēicháng míngxiǎn.",
+        "en": "Bu yöntemin etkisi çok belirgin."
+      },
+      {
+        "zh": "广告夸大了产品的功效。",
+        "pinyin": "Guǎnggào kuādà le chǎnpǐn de gōngxiào.",
+        "en": "Reklam ürünün etkisini abarttı."
+      },
+      {
+        "zh": "这款护肤品的功效因人而异。",
+        "pinyin": "Zhè kuǎn hùfūpǐn de gōngxiào yīn rén ér yì.",
+        "en": "Bu cilt bakım ürününün etkisi kişiden kişiye değişir."
+      }
+    ]
+  },
+  {
+    "id": "w3452",
+    "hanzi": "恭喜",
+    "pinyin": "gōngxǐ",
+    "meaning": "tebrikler",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "恭喜你考上了理想的大学！",
+        "pinyin": "Gōngxǐ nǐ kǎoshàng le lǐxiǎng de dàxué!",
+        "en": "Hayalindeki üniversiteyi kazandığın için tebrikler!"
+      },
+      {
+        "zh": "大家纷纷向他表示恭喜。",
+        "pinyin": "Dàjiā fēnfēn xiàng tā biǎoshì gōngxǐ.",
+        "en": "Herkes ona tebriklerini iletti."
+      },
+      {
+        "zh": "恭喜你们喜结连理！",
+        "pinyin": "Gōngxǐ nǐmen xǐjié-liánlǐ!",
+        "en": "Evliliğiniz kutlu olsun!"
+      },
+      {
+        "zh": "恭喜发财，万事如意！",
+        "pinyin": "Gōngxǐ fācái, wànshì rúyì!",
+        "en": "Zengin olun, her işiniz yolunda gitsin!"
+      },
+      {
+        "zh": "听到这个好消息，我要向你恭喜。",
+        "pinyin": "Tīngdào zhège hǎo xiāoxi, wǒ yào xiàng nǐ gōngxǐ.",
+        "en": "Bu güzel haberi duyunca seni tebrik etmek istiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w3453",
+    "hanzi": "公安",
+    "pinyin": "gōng'ān",
+    "meaning": "kamu güvenliği, polis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是一名公安干警。",
+        "pinyin": "Tā shì yì míng gōng'ān gānjǐng.",
+        "en": "O bir emniyet görevlisidir."
+      },
+      {
+        "zh": "公安局正在调查这起案件。",
+        "pinyin": "Gōng'ānjú zhèngzài diàochá zhè qǐ ànjiàn.",
+        "en": "Emniyet müdürlüğü bu davayı soruşturuyor."
+      },
+      {
+        "zh": "我们要配合公安部门的工作。",
+        "pinyin": "Wǒmen yào pèihé gōng'ān bùmén de gōngzuò.",
+        "en": "Emniyet biriminin çalışmalarına destek olmalıyız."
+      },
+      {
+        "zh": "公安人员迅速赶到了现场。",
+        "pinyin": "Gōng'ān rényuán xùnsù gǎndào le xiànchǎng.",
+        "en": "Emniyet görevlileri hızla olay yerine ulaştı."
+      },
+      {
+        "zh": "他向公安机关报了案。",
+        "pinyin": "Tā xiàng gōng'ān jīguān bào le àn.",
+        "en": "Emniyet birimine şikayette bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w3454",
+    "hanzi": "公告",
+    "pinyin": "gōnggào",
+    "meaning": "ilan, bildiri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "学校发布了一则重要公告。",
+        "pinyin": "Xuéxiào fābù le yì zé zhòngyào gōnggào.",
+        "en": "Okul önemli bir bildiri yayınladı."
+      },
+      {
+        "zh": "请仔细阅读这份公告。",
+        "pinyin": "Qǐng zǐxì yuèdú zhè fèn gōnggào.",
+        "en": "Lütfen bu bildiriyi dikkatle okuyun."
+      },
+      {
+        "zh": "公司在网站上公布了公告。",
+        "pinyin": "Gōngsī zài wǎngzhàn shàng gōngbù le gōnggào.",
+        "en": "Şirket web sitesinde bir bildiri yayınladı."
+      },
+      {
+        "zh": "政府发布了紧急公告。",
+        "pinyin": "Zhèngfǔ fābù le jǐnjí gōnggào.",
+        "en": "Hükümet acil bir bildiri yayınladı."
+      },
+      {
+        "zh": "公告栏上贴着最新通知。",
+        "pinyin": "Gōnggàolán shàng tiē zhe zuìxīn tōngzhī.",
+        "en": "İlan panosunda en son duyuru asılı."
+      }
+    ]
+  },
+  {
+    "id": "w3455",
+    "hanzi": "公民",
+    "pinyin": "gōngmín",
+    "meaning": "vatandaş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "每个公民都有选举权。",
+        "pinyin": "Měi ge gōngmín dōu yǒu xuǎnjǔquán.",
+        "en": "Her vatandaşın oy hakkı vardır."
+      },
+      {
+        "zh": "遵守法律是公民的义务。",
+        "pinyin": "Zūnshǒu fǎlǜ shì gōngmín de yìwù.",
+        "en": "Kanunlara uymak vatandaşlık görevidir."
+      },
+      {
+        "zh": "他是这个国家的合法公民。",
+        "pinyin": "Tā shì zhège guójiā de héfǎ gōngmín.",
+        "en": "Bu ülkenin yasal bir vatandaşıdır."
+      },
+      {
+        "zh": "公民应该享有平等的权利。",
+        "pinyin": "Gōngmín yīnggāi xiǎngyǒu píngděng de quánlì.",
+        "en": "Vatandaşlar eşit haklara sahip olmalıdır."
+      },
+      {
+        "zh": "这项政策关系到每一位公民的利益。",
+        "pinyin": "Zhè xiàng zhèngcè guānxi dào měi yí wèi gōngmín de lìyì.",
+        "en": "Bu politika her vatandaşın çıkarlarını ilgilendiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3456",
+    "hanzi": "公式",
+    "pinyin": "gōngshì",
+    "meaning": "formül",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请记住这个数学公式。",
+        "pinyin": "Qǐng jìzhu zhège shùxué gōngshì.",
+        "en": "Lütfen bu matematik formülünü ezberleyin."
+      },
+      {
+        "zh": "老师推导了这个物理公式。",
+        "pinyin": "Lǎoshī tuīdǎo le zhège wùlǐ gōngshì.",
+        "en": "Öğretmen bu fizik formülünü türetti."
+      },
+      {
+        "zh": "这个公式在计算中经常用到。",
+        "pinyin": "Zhège gōngshì zài jìsuàn zhōng jīngcháng yòngdào.",
+        "en": "Bu formül hesaplamalarda sık sık kullanılır."
+      },
+      {
+        "zh": "请用公式计算面积。",
+        "pinyin": "Qǐng yòng gōngshì jìsuàn miànjī.",
+        "en": "Lütfen formülü kullanarak alanı hesaplayın."
+      },
+      {
+        "zh": "成功没有固定的公式。",
+        "pinyin": "Chénggōng méiyǒu gùdìng de gōngshì.",
+        "en": "Başarının sabit bir formülü yoktur."
+      }
+    ]
+  },
+  {
+    "id": "w3457",
+    "hanzi": "公务员",
+    "pinyin": "gōngwùyuán",
+    "meaning": "devlet memuru",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他通过考试成为了一名公务员。",
+        "pinyin": "Tā tōngguò kǎoshì chéngwéi le yì míng gōngwùyuán.",
+        "en": "Sınavı geçerek devlet memuru oldu."
+      },
+      {
+        "zh": "公务员的工作比较稳定。",
+        "pinyin": "Gōngwùyuán de gōngzuò bǐjiào wěndìng.",
+        "en": "Devlet memurluğu işi nispeten istikrarlıdır."
+      },
+      {
+        "zh": "很多年轻人希望成为公务员。",
+        "pinyin": "Hěn duō niánqīng rén xīwàng chéngwéi gōngwùyuán.",
+        "en": "Birçok genç devlet memuru olmayı istiyor."
+      },
+      {
+        "zh": "公务员考试竞争非常激烈。",
+        "pinyin": "Gōngwùyuán kǎoshì jìngzhēng fēicháng jīliè.",
+        "en": "Devlet memurluğu sınavı rekabeti çok yoğun."
+      },
+      {
+        "zh": "他在政府部门担任公务员。",
+        "pinyin": "Tā zài zhèngfǔ bùmén dānrèn gōngwùyuán.",
+        "en": "Hükümet biriminde devlet memuru olarak görev yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3458",
+    "hanzi": "公众",
+    "pinyin": "gōngzhòng",
+    "meaning": "halk, kamu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项政策受到了公众的关注。",
+        "pinyin": "Zhè xiàng zhèngcè shòudào le gōngzhòng de guānzhù.",
+        "en": "Bu politika halkın ilgisini çekti."
+      },
+      {
+        "zh": "公众有权知道真相。",
+        "pinyin": "Gōngzhòng yǒu quán zhīdào zhēnxiàng.",
+        "en": "Halkın gerçeği bilme hakkı vardır."
+      },
+      {
+        "zh": "这场活动向公众开放。",
+        "pinyin": "Zhè chǎng huódòng xiàng gōngzhòng kāifàng.",
+        "en": "Bu etkinlik halka açık."
+      },
+      {
+        "zh": "公众意见对决策很重要。",
+        "pinyin": "Gōngzhòng yìjiàn duì juécè hěn zhòngyào.",
+        "en": "Kamuoyu görüşü karar almada önemlidir."
+      },
+      {
+        "zh": "他经常在公众场合发表演讲。",
+        "pinyin": "Tā jīngcháng zài gōngzhòng chǎnghé fābiǎo yǎnjiǎng.",
+        "en": "Sık sık halka açık ortamlarda konuşma yapar."
+      }
+    ]
+  },
+  {
+    "id": "w3459",
+    "hanzi": "公正",
+    "pinyin": "gōngzhèng",
+    "meaning": "adil, tarafsız",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "法官应该公正地判决案件。",
+        "pinyin": "Fǎguān yīnggāi gōngzhèng de pànjué ànjiàn.",
+        "en": "Hâkim davayı adil bir şekilde karara bağlamalıdır."
+      },
+      {
+        "zh": "我们需要一个公正的评判标准。",
+        "pinyin": "Wǒmen xūyào yí ge gōngzhèng de píngpàn biāozhǔn.",
+        "en": "Adil bir değerlendirme standardına ihtiyacımız var."
+      },
+      {
+        "zh": "他一向公正无私。",
+        "pinyin": "Tā yíxiàng gōngzhèng wúsī.",
+        "en": "Her zaman adil ve tarafsızdır."
+      },
+      {
+        "zh": "这个决定得到了大家的公正评价。",
+        "pinyin": "Zhège juédìng dédào le dàjiā de gōngzhèng píngjià.",
+        "en": "Bu karar herkesten adil bir değerlendirme aldı."
+      },
+      {
+        "zh": "媒体应该保持公正客观的态度。",
+        "pinyin": "Méitǐ yīnggāi bǎochí gōngzhèng kèguān de tàidu.",
+        "en": "Medya adil ve nesnel bir tutum sergilemelidir."
+      }
+    ]
+  },
+  {
+    "id": "w3460",
+    "hanzi": "宫殿",
+    "pinyin": "gōngdiàn",
+    "meaning": "saray",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这座宫殿建于明朝。",
+        "pinyin": "Zhè zuò gōngdiàn jiàn yú Míngcháo.",
+        "en": "Bu saray Ming Hanedanlığı döneminde inşa edilmiştir."
+      },
+      {
+        "zh": "游客们参观了古代宫殿。",
+        "pinyin": "Yóukèmen cānguān le gǔdài gōngdiàn.",
+        "en": "Turistler antik sarayı ziyaret etti."
+      },
+      {
+        "zh": "宫殿内部装饰得富丽堂皇。",
+        "pinyin": "Gōngdiàn nèibù zhuāngshì de fùlì-tánghuáng.",
+        "en": "Sarayın içi görkemli bir şekilde dekore edilmiş."
+      },
+      {
+        "zh": "这座宫殿曾是皇帝的居所。",
+        "pinyin": "Zhè zuò gōngdiàn céng shì huángdì de jūsuǒ.",
+        "en": "Bu saray bir zamanlar imparatorun ikametgahıydı."
+      },
+      {
+        "zh": "宫殿周围环绕着高大的城墙。",
+        "pinyin": "Gōngdiàn zhōuwéi huánrào zhe gāodà de chéngqiáng.",
+        "en": "Sarayın etrafı yüksek surlarla çevrili."
+      }
+    ]
+  },
+  {
+    "id": "w3461",
+    "hanzi": "拱门",
+    "pinyin": "gǒngmén",
+    "meaning": "kemerli kapı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "城市入口有一座古老的拱门。",
+        "pinyin": "Chéngshì rùkǒu yǒu yí zuò gǔlǎo de gǒngmén.",
+        "en": "Şehir girişinde eski bir kemerli kapı var."
+      },
+      {
+        "zh": "婚礼现场搭建了鲜花拱门。",
+        "pinyin": "Hūnlǐ xiànchǎng dājiàn le xiānhuā gǒngmén.",
+        "en": "Düğün alanında çiçeklerle süslenmiş bir kemer kuruldu."
+      },
+      {
+        "zh": "这座拱门是罗马建筑的经典代表。",
+        "pinyin": "Zhè zuò gǒngmén shì Luómǎ jiànzhù de jīngdiǎn dàibiǎo.",
+        "en": "Bu kemerli kapı Roma mimarisinin klasik bir örneğidir."
+      },
+      {
+        "zh": "游客们喜欢在拱门下拍照。",
+        "pinyin": "Yóukèmen xǐhuan zài gǒngmén xià pāizhào.",
+        "en": "Turistler kemerli kapının altında fotoğraf çekmeyi sever."
+      },
+      {
+        "zh": "这座石头拱门已经有几百年历史了。",
+        "pinyin": "Zhè zuò shítou gǒngmén yǐjīng yǒu jǐbǎi nián lìshǐ le.",
+        "en": "Bu taş kemer birkaç yüzyıllık bir tarihe sahip."
+      }
+    ]
+  },
+  {
+    "id": "w3462",
+    "hanzi": "恭敬",
+    "pinyin": "gōngjìng",
+    "meaning": "saygılı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他对长辈总是恭恭敬敬的。",
+        "pinyin": "Tā duì zhǎngbèi zǒngshì gōnggōngjìngjìng de.",
+        "en": "Büyüklerine karşı her zaman saygılı davranır."
+      },
+      {
+        "zh": "学生们恭敬地向老师问好。",
+        "pinyin": "Xuéshengmen gōngjìng de xiàng lǎoshī wènhǎo.",
+        "en": "Öğrenciler öğretmene saygıyla selam verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3463",
+    "hanzi": "公道",
+    "pinyin": "gōngdào",
+    "meaning": "adalet, hak; adil",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请给我们一个公道的说法。",
+        "pinyin": "Qǐng gěi wǒmen yí ge gōngdào de shuōfǎ.",
+        "en": "Lütfen bize adil bir açıklama yapın."
+      },
+      {
+        "zh": "他一直坚持自己的做法是公道的。",
+        "pinyin": "Tā yìzhí jiānchí zìjǐ de zuòfǎ shì gōngdào de.",
+        "en": "Kendi yönteminin adil olduğunda ısrar ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w3464",
+    "hanzi": "巩固",
+    "pinyin": "gǒnggù",
+    "meaning": "sağlamlaştırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们需要巩固已经取得的成果。",
+        "pinyin": "Wǒmen xūyào gǒnggù yǐjīng qǔdé de chéngguǒ.",
+        "en": "Elde ettiğimiz sonuçları pekiştirmemiz gerekiyor."
+      },
+      {
+        "zh": "复习可以巩固所学的知识。",
+        "pinyin": "Fùxí kěyǐ gǒnggù suǒ xué de zhīshi.",
+        "en": "Tekrar yapmak öğrenilen bilgiyi pekiştirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3465",
+    "hanzi": "攻势",
+    "pinyin": "gōngshì",
+    "meaning": "hücum, saldırı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队发起了猛烈的攻势。",
+        "pinyin": "Jūnduì fāqǐ le měngliè de gōngshì.",
+        "en": "Ordu şiddetli bir saldırı başlattı."
+      },
+      {
+        "zh": "球队在下半场加强了攻势。",
+        "pinyin": "Qiúduì zài xiàbànchǎng jiāqiáng le gōngshì.",
+        "en": "Takım ikinci yarıda hücumunu güçlendirdi."
+      }
+    ]
   }
 ]

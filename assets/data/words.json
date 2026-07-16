@@ -112081,5 +112081,605 @@
         "en": "Önceden tedbirli olduğu için dolandırılmadı."
       }
     ]
+  },
+  {
+    "id": "w3226",
+    "hanzi": "房租",
+    "pinyin": "fángzū",
+    "meaning": "ev kirası",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "这个月的房租还没交。",
+        "pinyin": "Zhège yuè de fángzū hái méi jiāo.",
+        "en": "Bu ayın kirası henüz ödenmedi."
+      },
+      {
+        "zh": "房租每年都在上涨。",
+        "pinyin": "Fángzū měi nián dōu zài shàngzhǎng.",
+        "en": "Kiralar her yıl artıyor."
+      },
+      {
+        "zh": "他们分摊房租。",
+        "pinyin": "Tāmen fēntān fángzū.",
+        "en": "Kirayı paylaşıyorlar."
+      },
+      {
+        "zh": "这里的房租比市中心便宜。",
+        "pinyin": "Zhèlǐ de fángzū bǐ shìzhōngxīn piányi.",
+        "en": "Buradaki kira şehir merkezinden daha ucuz."
+      },
+      {
+        "zh": "房东提高了房租。",
+        "pinyin": "Fángdōng tígāo le fángzū.",
+        "en": "Ev sahibi kirayı artırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3227",
+    "hanzi": "放大",
+    "pinyin": "fàngdà",
+    "meaning": "büyütmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请把这张照片放大。",
+        "pinyin": "Qǐng bǎ zhè zhāng zhàopiàn fàngdà.",
+        "en": "Lütfen bu fotoğrafı büyütün."
+      },
+      {
+        "zh": "用放大镜可以看清楚细节。",
+        "pinyin": "Yòng fàngdàjìng kěyǐ kàn qīngchu xìjié.",
+        "en": "Büyüteç kullanarak ayrıntıları net görebilirsiniz."
+      },
+      {
+        "zh": "他把音量放大了。",
+        "pinyin": "Tā bǎ yīnliàng fàngdà le.",
+        "en": "Ses seviyesini yükseltti."
+      },
+      {
+        "zh": "不要把这件小事放大。",
+        "pinyin": "Búyào bǎ zhè jiàn xiǎoshì fàngdà.",
+        "en": "Bu küçük olayı büyütme."
+      },
+      {
+        "zh": "请放大字体，我看不清楚。",
+        "pinyin": "Qǐng fàngdà zìtǐ, wǒ kàn bu qīngchu.",
+        "en": "Lütfen yazı tipini büyütün, net göremiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w3228",
+    "hanzi": "纺织",
+    "pinyin": "fǎngzhī",
+    "meaning": "tekstil",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这个地区的纺织业很发达。",
+        "pinyin": "Zhège dìqū de fǎngzhīyè hěn fādá.",
+        "en": "Bu bölgenin tekstil sektörü çok gelişmiştir."
+      },
+      {
+        "zh": "她在一家纺织厂工作。",
+        "pinyin": "Tā zài yì jiā fǎngzhīchǎng gōngzuò.",
+        "en": "Bir tekstil fabrikasında çalışıyor."
+      },
+      {
+        "zh": "中国是重要的纺织品出口国。",
+        "pinyin": "Zhōngguó shì zhòngyào de fǎngzhīpǐn chūkǒuguó.",
+        "en": "Çin önemli bir tekstil ürünleri ihracatçısıdır."
+      },
+      {
+        "zh": "纺织技术不断更新。",
+        "pinyin": "Fǎngzhī jìshù búduàn gēngxīn.",
+        "en": "Tekstil teknolojisi sürekli yenileniyor."
+      },
+      {
+        "zh": "这所大学有纺织专业。",
+        "pinyin": "Zhè suǒ dàxué yǒu fǎngzhī zhuānyè.",
+        "en": "Bu üniversitede tekstil bölümü var."
+      }
+    ]
+  },
+  {
+    "id": "w3229",
+    "hanzi": "放牧",
+    "pinyin": "fàngmù",
+    "meaning": "hayvan otlatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "牧民在草原上放牧。",
+        "pinyin": "Mùmín zài cǎoyuán shàng fàngmù.",
+        "en": "Çobanlar bozkırda hayvan otlatıyor."
+      },
+      {
+        "zh": "他从小跟着父亲放牧。",
+        "pinyin": "Tā cóngxiǎo gēn zhe fùqīn fàngmù.",
+        "en": "Küçüklüğünden beri babasıyla birlikte hayvan otlatır."
+      },
+      {
+        "zh": "春天是放牧的好季节。",
+        "pinyin": "Chūntiān shì fàngmù de hǎo jìjié.",
+        "en": "İlkbahar hayvan otlatmak için iyi bir mevsimdir."
+      },
+      {
+        "zh": "这片山坡适合放牧。",
+        "pinyin": "Zhè piàn shānpō shìhé fàngmù.",
+        "en": "Bu yamaç hayvan otlatmak için uygundur."
+      },
+      {
+        "zh": "过度放牧会破坏草原。",
+        "pinyin": "Guòdù fàngmù huì pòhuài cǎoyuán.",
+        "en": "Aşırı otlatma bozkırı tahrip edebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3230",
+    "hanzi": "放屁",
+    "pinyin": "fàngpì",
+    "meaning": "osurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他不小心放屁了，很尴尬。",
+        "pinyin": "Tā bù xiǎoxīn fàngpì le, hěn gāngà.",
+        "en": "Yanlışlıkla osurdu, çok utandı."
+      },
+      {
+        "zh": "吃太多豆子容易放屁。",
+        "pinyin": "Chī tài duō dòuzi róngyì fàngpì.",
+        "en": "Çok fazla fasulye yemek osurmaya neden olabilir."
+      },
+      {
+        "zh": "别乱放屁！这是不礼貌的。",
+        "pinyin": "Bié luàn fàngpì! Zhè shì bù lǐmào de.",
+        "en": "Öylesine osurma! Bu kaba bir davranış."
+      },
+      {
+        "zh": "婴儿放屁是正常的生理现象。",
+        "pinyin": "Yīng'ér fàngpì shì zhèngcháng de shēnglǐ xiànxiàng.",
+        "en": "Bebeklerin osurması normal bir fizyolojik olaydır."
+      },
+      {
+        "zh": "你别在这儿放屁，出去说！",
+        "pinyin": "Nǐ bié zài zhèr fàngpì, chūqù shuō!",
+        "en": "Burada saçmalama, dışarı çık ve konuş!"
+      }
+    ]
+  },
+  {
+    "id": "w3231",
+    "hanzi": "放映",
+    "pinyin": "fàngyìng",
+    "meaning": "göstermek (film)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这部电影正在电影院放映。",
+        "pinyin": "Zhè bù diànyǐng zhèngzài diànyǐngyuàn fàngyìng.",
+        "en": "Bu film şu anda sinemada gösteriliyor."
+      },
+      {
+        "zh": "电影将在周五晚上放映。",
+        "pinyin": "Diànyǐng jiāng zài zhōuwǔ wǎnshang fàngyìng.",
+        "en": "Film cuma akşamı gösterilecek."
+      },
+      {
+        "zh": "这部纪录片首次公开放映。",
+        "pinyin": "Zhè bù jìlùpiàn shǒucì gōngkāi fàngyìng.",
+        "en": "Bu belgesel ilk kez halka açık gösterildi."
+      },
+      {
+        "zh": "放映结束后观众热烈鼓掌。",
+        "pinyin": "Fàngyìng jiéshù hòu guānzhòng rèliè gǔzhǎng.",
+        "en": "Gösterim bittikten sonra izleyiciler coşkuyla alkışladı."
+      },
+      {
+        "zh": "学校组织学生观看放映的爱国电影。",
+        "pinyin": "Xuéxiào zǔzhī xuésheng guānkàn fàngyìng de àiguó diànyǐng.",
+        "en": "Okul, öğrencilerin gösterilen vatansever filmi izlemesini sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w3232",
+    "hanzi": "放宽",
+    "pinyin": "fàngkuān",
+    "meaning": "gevşetmek, genişletmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "政府放宽了移民政策。",
+        "pinyin": "Zhèngfǔ fàngkuān le yímín zhèngcè.",
+        "en": "Hükümet göçmenlik politikasını gevşetti."
+      },
+      {
+        "zh": "银行放宽了贷款条件。",
+        "pinyin": "Yínháng fàngkuān le dàikuǎn tiáojiàn.",
+        "en": "Banka kredi koşullarını gevşetti."
+      },
+      {
+        "zh": "请放宽心，一切都会好起来的。",
+        "pinyin": "Qǐng fàngkuān xīn, yíqiè dōu huì hǎo qǐlái de.",
+        "en": "Lütfen rahatla, her şey yoluna girecek."
+      },
+      {
+        "zh": "学校放宽了入学要求。",
+        "pinyin": "Xuéxiào fàngkuān le rùxué yāoqiú.",
+        "en": "Okul kabul şartlarını gevşetti."
+      },
+      {
+        "zh": "公司放宽了工作时间的限制。",
+        "pinyin": "Gōngsī fàngkuān le gōngzuò shíjiān de xiànzhì.",
+        "en": "Şirket çalışma saatleri kısıtlamasını gevşetti."
+      }
+    ]
+  },
+  {
+    "id": "w3233",
+    "hanzi": "飞船",
+    "pinyin": "fēichuán",
+    "meaning": "uzay gemisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "宇宙飞船成功升空。",
+        "pinyin": "Yǔzhòu fēichuán chénggōng shēngkōng.",
+        "en": "Uzay gemisi başarıyla fırlatıldı."
+      },
+      {
+        "zh": "飞船正在绕地球飞行。",
+        "pinyin": "Fēichuán zhèngzài rào dìqiú fēixíng.",
+        "en": "Uzay gemisi dünyanın etrafında dönüyor."
+      },
+      {
+        "zh": "这艘飞船搭载了三名宇航员。",
+        "pinyin": "Zhè sōu fēichuán dāzài le sān míng yǔhángyuán.",
+        "en": "Bu uzay gemisi üç astronot taşıyor."
+      },
+      {
+        "zh": "飞船安全返回了地球。",
+        "pinyin": "Fēichuán ānquán fǎnhuí le dìqiú.",
+        "en": "Uzay gemisi güvenli bir şekilde dünyaya döndü."
+      },
+      {
+        "zh": "科学家正在研发新型飞船。",
+        "pinyin": "Kēxuéjiā zhèngzài yánfā xīnxíng fēichuán.",
+        "en": "Bilim insanları yeni tip bir uzay gemisi geliştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3234",
+    "hanzi": "飞翔",
+    "pinyin": "fēixiáng",
+    "meaning": "uçmak, süzülmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "老鹰在天空中自由飞翔。",
+        "pinyin": "Lǎoyīng zài tiānkōng zhōng zìyóu fēixiáng.",
+        "en": "Kartal gökyüzünde özgürce süzülüyor."
+      },
+      {
+        "zh": "鸟儿在树林间飞翔。",
+        "pinyin": "Niǎor zài shùlín jiān fēixiáng.",
+        "en": "Kuşlar ormanda uçuyor."
+      },
+      {
+        "zh": "他梦想像鸟儿一样飞翔。",
+        "pinyin": "Tā mèngxiǎng xiàng niǎor yíyàng fēixiáng.",
+        "en": "Kuşlar gibi uçmayı hayal ediyor."
+      },
+      {
+        "zh": "大雁成群飞翔在天空中。",
+        "pinyin": "Dàyàn chéngqún fēixiáng zài tiānkōng zhōng.",
+        "en": "Kazlar sürü halinde gökyüzünde uçuyor."
+      },
+      {
+        "zh": "风筝在空中自由飞翔。",
+        "pinyin": "Fēngzheng zài kōngzhōng zìyóu fēixiáng.",
+        "en": "Uçurtma gökyüzünde özgürce süzülüyor."
+      }
+    ]
+  },
+  {
+    "id": "w3235",
+    "hanzi": "飞行",
+    "pinyin": "fēixíng",
+    "meaning": "havacılık, uçuş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这次飞行大约需要八个小时。",
+        "pinyin": "Zhè cì fēixíng dàyuē xūyào bā ge xiǎoshí.",
+        "en": "Bu uçuş yaklaşık sekiz saat sürecek."
+      },
+      {
+        "zh": "他从小就梦想成为飞行员。",
+        "pinyin": "Tā cóngxiǎo jiù mèngxiǎng chéngwéi fēixíngyuán.",
+        "en": "Küçüklüğünden beri pilot olmayı hayal ediyor."
+      },
+      {
+        "zh": "恶劣天气影响了飞行安全。",
+        "pinyin": "Èliè tiānqì yǐngxiǎng le fēixíng ānquán.",
+        "en": "Kötü hava koşulları uçuş güvenliğini etkiledi."
+      },
+      {
+        "zh": "这架飞机的飞行高度是一万米。",
+        "pinyin": "Zhè jià fēijī de fēixíng gāodù shì yíwàn mǐ.",
+        "en": "Bu uçağın uçuş yüksekliği on bin metredir."
+      },
+      {
+        "zh": "飞行途中飞机遇到了气流。",
+        "pinyin": "Fēixíng túzhōng fēijī yùdào le qìliú.",
+        "en": "Uçuş sırasında uçak türbülansla karşılaştı."
+      }
+    ]
+  },
+  {
+    "id": "w3236",
+    "hanzi": "非法",
+    "pinyin": "fēifǎ",
+    "meaning": "yasadışı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "非法交易是违法行为。",
+        "pinyin": "Fēifǎ jiāoyì shì wéifǎ xíngwéi.",
+        "en": "Yasadışı ticaret kanuna aykırı bir eylemdir."
+      },
+      {
+        "zh": "警方逮捕了非法移民。",
+        "pinyin": "Jǐngfāng dàibǔ le fēifǎ yímín.",
+        "en": "Polis yasadışı göçmenleri tutukladı."
+      },
+      {
+        "zh": "这种药物在中国是非法的。",
+        "pinyin": "Zhè zhǒng yàowù zài Zhōngguó shì fēifǎ de.",
+        "en": "Bu tür bir madde Çin'de yasadışıdır."
+      },
+      {
+        "zh": "非法建筑被政府拆除了。",
+        "pinyin": "Fēifǎ jiànzhù bèi zhèngfǔ chāichú le.",
+        "en": "Kaçak yapı hükümet tarafından yıkıldı."
+      },
+      {
+        "zh": "他因非法持有武器被起诉。",
+        "pinyin": "Tā yīn fēifǎ chíyǒu wǔqì bèi qǐsù.",
+        "en": "Yasadışı silah bulundurmaktan dava edildi."
+      }
+    ]
+  },
+  {
+    "id": "w3237",
+    "hanzi": "肥料",
+    "pinyin": "féiliào",
+    "meaning": "gübre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "农民给庄稼施肥料。",
+        "pinyin": "Nóngmín gěi zhuāngjia shī féiliào.",
+        "en": "Çiftçiler ekinlere gübre veriyor."
+      },
+      {
+        "zh": "这种肥料能提高产量。",
+        "pinyin": "Zhè zhǒng féiliào néng tígāo chǎnliàng.",
+        "en": "Bu gübre üretimi artırabilir."
+      },
+      {
+        "zh": "有机肥料对环境更友好。",
+        "pinyin": "Yǒujī féiliào duì huánjìng gèng yǒuhǎo.",
+        "en": "Organik gübre çevreye daha dosttur."
+      },
+      {
+        "zh": "过量使用化学肥料会污染土壤。",
+        "pinyin": "Guòliàng shǐyòng huàxué féiliào huì wūrǎn tǔrǎng.",
+        "en": "Kimyasal gübrenin aşırı kullanımı toprağı kirletebilir."
+      },
+      {
+        "zh": "他们研发了一种新型肥料。",
+        "pinyin": "Tāmen yánfā le yì zhǒng xīnxíng féiliào.",
+        "en": "Yeni bir tür gübre geliştirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w3238",
+    "hanzi": "妨害",
+    "pinyin": "fánghài",
+    "meaning": "zarar vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "吸烟妨害健康。",
+        "pinyin": "Xīyān fánghài jiànkāng.",
+        "en": "Sigara içmek sağlığa zarar verir."
+      },
+      {
+        "zh": "这种行为妨害了公共秩序。",
+        "pinyin": "Zhè zhǒng xíngwéi fánghài le gōnggòng zhìxù.",
+        "en": "Bu davranış kamu düzenine zarar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3239",
+    "hanzi": "仿造",
+    "pinyin": "fǎngzào",
+    "meaning": "taklidini yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这家工厂仿造名牌产品。",
+        "pinyin": "Zhè jiā gōngchǎng fǎngzào míngpái chǎnpǐn.",
+        "en": "Bu fabrika markalı ürünlerin taklidini yapıyor."
+      },
+      {
+        "zh": "仿造他人的设计是违法的。",
+        "pinyin": "Fǎngzào tārén de shèjì shì wéifǎ de.",
+        "en": "Başkasının tasarımını taklit etmek yasa dışıdır."
+      }
+    ]
+  },
+  {
+    "id": "w3240",
+    "hanzi": "放射",
+    "pinyin": "fàngshè",
+    "meaning": "ışın yaymak, radyasyon",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种物质会放射有害射线。",
+        "pinyin": "Zhè zhǒng wùzhì huì fàngshè yǒuhài shèxiàn.",
+        "en": "Bu madde zararlı ışınlar yayabilir."
+      },
+      {
+        "zh": "医院使用放射技术检查病人。",
+        "pinyin": "Yīyuàn shǐyòng fàngshè jìshù jiǎnchá bìngrén.",
+        "en": "Hastane hastaları kontrol etmek için radyasyon teknolojisi kullanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3241",
+    "hanzi": "放肆",
+    "pinyin": "fàngsì",
+    "meaning": "küstah, terbiyesiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他说话太放肆了。",
+        "pinyin": "Tā shuōhuà tài fàngsì le.",
+        "en": "Konuşurken çok küstahtı."
+      },
+      {
+        "zh": "别对长辈这么放肆。",
+        "pinyin": "Bié duì zhǎngbèi zhème fàngsì.",
+        "en": "Büyüklere karşı bu kadar küstah olma."
+      }
+    ]
+  },
+  {
+    "id": "w3242",
+    "hanzi": "飞跃",
+    "pinyin": "fēiyuè",
+    "meaning": "sıçrama, hızlı ilerleme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项技术实现了质的飞跃。",
+        "pinyin": "Zhè xiàng jìshù shíxiàn le zhì de fēiyuè.",
+        "en": "Bu teknoloji nitel bir sıçrama gerçekleştirdi."
+      },
+      {
+        "zh": "公司业绩取得了飞跃式发展。",
+        "pinyin": "Gōngsī yèjì qǔdé le fēiyuè shì fāzhǎn.",
+        "en": "Şirketin performansı sıçramalı bir gelişme kaydetti."
+      }
+    ]
+  },
+  {
+    "id": "w3243",
+    "hanzi": "非但",
+    "pinyin": "fēidàn",
+    "meaning": "sadece değil",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他非但没有生气，反而笑了。",
+        "pinyin": "Tā fēidàn méiyǒu shēngqì, fǎn'ér xiào le.",
+        "en": "Sadece kızmadı, aksine güldü."
+      },
+      {
+        "zh": "这个方法非但没用，还带来了麻烦。",
+        "pinyin": "Zhège fāngfǎ fēidàn méiyòng, hái dàilái le máfan.",
+        "en": "Bu yöntem sadece işe yaramadı, üstelik soruna da yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w3244",
+    "hanzi": "非凡",
+    "pinyin": "fēifán",
+    "meaning": "olağanüstü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他展现出了非凡的才华。",
+        "pinyin": "Tā zhǎnxiàn chū le fēifán de cáihuá.",
+        "en": "Olağanüstü bir yetenek sergiledi."
+      },
+      {
+        "zh": "这是一次非凡的成就。",
+        "pinyin": "Zhè shì yí cì fēifán de chéngjiù.",
+        "en": "Bu olağanüstü bir başarıdır."
+      }
+    ]
+  },
+  {
+    "id": "w3245",
+    "hanzi": "妃子",
+    "pinyin": "fēizi",
+    "meaning": "imparatoriçe, cariye",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这位妃子深受皇帝宠爱。",
+        "pinyin": "Zhè wèi fēizi shēn shòu huángdì chǒng'ài.",
+        "en": "Bu cariye imparator tarafından çok seviliyordu."
+      },
+      {
+        "zh": "历史上有很多关于妃子的故事。",
+        "pinyin": "Lìshǐ shàng yǒu hěn duō guānyú fēizi de gùshi.",
+        "en": "Tarihte cariyeler hakkında birçok hikaye vardır."
+      }
+    ]
   }
 ]

@@ -99202,5 +99202,440 @@
         "en": "Lütfen iletişimi açık tutun."
       }
     ]
+  },
+  {
+    "id": "w2806",
+    "hanzi": "陈旧",
+    "pinyin": "chénjiù",
+    "meaning": "eski, modası geçmiş",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这台机器已经很陈旧了。",
+        "pinyin": "Zhè tái jīqì yǐjīng hěn chénjiù le.",
+        "en": "Bu makine artık çok eski."
+      },
+      {
+        "zh": "他的观念比较陈旧。",
+        "pinyin": "Tā de guānniàn bǐjiào chénjiù.",
+        "en": "Düşünceleri oldukça eski kafalı."
+      },
+      {
+        "zh": "这栋房子的装修很陈旧。",
+        "pinyin": "Zhè dòng fángzi de zhuāngxiū hěn chénjiù.",
+        "en": "Bu evin dekorasyonu çok eski."
+      },
+      {
+        "zh": "我们需要淘汰陈旧的设备。",
+        "pinyin": "Wǒmen xūyào táotài chénjiù de shèbèi.",
+        "en": "Eski ekipmanları elden çıkarmamız gerekiyor."
+      },
+      {
+        "zh": "这些陈旧的规定应该修改了。",
+        "pinyin": "Zhèxiē chénjiù de guīdìng yīnggāi xiūgǎi le.",
+        "en": "Bu eski kurallar değiştirilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w2807",
+    "hanzi": "陈列",
+    "pinyin": "chénliè",
+    "meaning": "sergilemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "商店里陈列着各种商品。",
+        "pinyin": "Shāngdiàn lǐ chénliè zhe gèzhǒng shāngpǐn.",
+        "en": "Dükkanda çeşitli ürünler sergileniyor."
+      },
+      {
+        "zh": "博物馆陈列了许多古代文物。",
+        "pinyin": "Bówùguǎn chénliè le xǔduō gǔdài wénwù.",
+        "en": "Müzede birçok antik eser sergileniyor."
+      }
+    ]
+  },
+  {
+    "id": "w2808",
+    "hanzi": "陈述",
+    "pinyin": "chénshù",
+    "meaning": "ifade etmek, açıklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "请陈述一下事情的经过。",
+        "pinyin": "Qǐng chénshù yíxià shìqing de jīngguò.",
+        "en": "Lütfen olayın gelişimini açıklayın."
+      },
+      {
+        "zh": "他在法庭上陈述了自己的证词。",
+        "pinyin": "Tā zài fǎtíng shàng chénshù le zìjǐ de zhèngcí.",
+        "en": "Mahkemede kendi ifadesini sundu."
+      }
+    ]
+  },
+  {
+    "id": "w2809",
+    "hanzi": "沉浸",
+    "pinyin": "chénjìn",
+    "meaning": "dalıp gitmek, kapılmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她沉浸在美好的回忆中。",
+        "pinyin": "Tā chénjìn zài měihǎo de huíyì zhōng.",
+        "en": "Güzel anılara dalıp gitmiş."
+      },
+      {
+        "zh": "他完全沉浸在书的世界里。",
+        "pinyin": "Tā wánquán chénjìn zài shū de shìjiè lǐ.",
+        "en": "Tamamen kitabın dünyasına dalmış durumda."
+      },
+      {
+        "zh": "大家都沉浸在节日的气氛中。",
+        "pinyin": "Dàjiā dōu chénjìn zài jiérì de qìfēn zhōng.",
+        "en": "Herkes bayram atmosferine kapılmış."
+      },
+      {
+        "zh": "她沉浸在音乐中，忘记了时间。",
+        "pinyin": "Tā chénjìn zài yīnyuè zhōng, wàngjì le shíjiān.",
+        "en": "Müziğe dalmış, zamanı unutmuş."
+      },
+      {
+        "zh": "他沉浸在悲伤中无法自拔。",
+        "pinyin": "Tā chénjìn zài bēishāng zhōng wúfǎ zìbá.",
+        "en": "Kederin içine gömülmüş, çıkamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2810",
+    "hanzi": "沉没",
+    "pinyin": "chénmò",
+    "meaning": "batmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "那艘船在海上沉没了。",
+        "pinyin": "Nà sōu chuán zài hǎi shàng chénmò le.",
+        "en": "O gemi denizde battı."
+      },
+      {
+        "zh": "太阳渐渐沉没在地平线下。",
+        "pinyin": "Tàiyáng jiànjiàn chénmò zài dìpíngxiàn xià.",
+        "en": "Güneş yavaş yavaş ufkun altına battı."
+      }
+    ]
+  },
+  {
+    "id": "w2811",
+    "hanzi": "沉思",
+    "pinyin": "chénsī",
+    "meaning": "düşüncelere dalmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "他坐在窗边沉思。",
+        "pinyin": "Tā zuò zài chuāng biān chénsī.",
+        "en": "Pencerenin yanında oturup düşüncelere dalmış."
+      },
+      {
+        "zh": "她陷入了长久的沉思。",
+        "pinyin": "Tā xiànrù le chángjiǔ de chénsī.",
+        "en": "Uzun bir düşünceye daldı."
+      }
+    ]
+  },
+  {
+    "id": "w2812",
+    "hanzi": "沉重",
+    "pinyin": "chénzhòng",
+    "meaning": "ağır",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个箱子很沉重。",
+        "pinyin": "Zhège xiāngzi hěn chénzhòng.",
+        "en": "Bu kutu çok ağır."
+      },
+      {
+        "zh": "他的心情十分沉重。",
+        "pinyin": "Tā de xīnqíng shífēn chénzhòng.",
+        "en": "Ruh hali çok ağır."
+      },
+      {
+        "zh": "这个消息让大家感到沉重。",
+        "pinyin": "Zhège xiāoxi ràng dàjiā gǎndào chénzhòng.",
+        "en": "Bu haber herkesi ağırlaştırdı."
+      },
+      {
+        "zh": "沉重的负担压得他喘不过气来。",
+        "pinyin": "Chénzhòng de fùdān yā de tā chuǎn bú guò qì lái.",
+        "en": "Ağır yük onu nefessiz bırakıyor."
+      },
+      {
+        "zh": "他迈着沉重的脚步走出了办公室。",
+        "pinyin": "Tā màizhe chénzhòng de jiǎobù zǒuchū le bàngōngshì.",
+        "en": "Ağır adımlarla ofisten çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w2813",
+    "hanzi": "沉着",
+    "pinyin": "chénzhuó",
+    "meaning": "soğukkanlı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "面对危险，她表现得很沉着。",
+        "pinyin": "Miànduì wēixiǎn, tā biǎoxiàn de hěn chénzhuó.",
+        "en": "Tehlikeyle karşılaştığında çok soğukkanlı davrandı."
+      },
+      {
+        "zh": "他遇事总是很沉着冷静。",
+        "pinyin": "Tā yùshì zǒngshì hěn chénzhuó lěngjìng.",
+        "en": "Olaylarla karşılaştığında her zaman soğukkanlı ve sakin."
+      }
+    ]
+  },
+  {
+    "id": "w2815",
+    "hanzi": "呈现",
+    "pinyin": "chéngxiàn",
+    "meaning": "ortaya çıkarmak, göstermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "这幅画呈现了美丽的自然风光。",
+        "pinyin": "Zhè fú huà chéngxiàn le měilì de zìrán fēngguāng.",
+        "en": "Bu tablo güzel bir doğa manzarası sunuyor."
+      },
+      {
+        "zh": "这份报告呈现了很多有用的数据。",
+        "pinyin": "Zhè fèn bàogào chéngxiàn le hěn duō yǒuyòng de shùjù.",
+        "en": "Bu rapor birçok faydalı veri sunuyor."
+      },
+      {
+        "zh": "城市呈现出一片繁荣的景象。",
+        "pinyin": "Chéngshì chéngxiàn chū yí piàn fánróng de jǐngxiàng.",
+        "en": "Şehir bir refah manzarası sergiliyor."
+      },
+      {
+        "zh": "她的脸上呈现出幸福的表情。",
+        "pinyin": "Tā de liǎn shàng chéngxiàn chū xìngfú de biǎoqíng.",
+        "en": "Yüzünde mutlu bir ifade beliriyor."
+      },
+      {
+        "zh": "这项研究呈现了新的发现。",
+        "pinyin": "Zhè xiàng yánjiū chéngxiàn le xīn de fāxiàn.",
+        "en": "Bu araştırma yeni bir bulgu ortaya koyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w2816",
+    "hanzi": "成本",
+    "pinyin": "chéngběn",
+    "meaning": "maliyet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "生产成本上升了。",
+        "pinyin": "Shēngchǎn chéngběn shàngshēng le.",
+        "en": "Üretim maliyeti arttı."
+      },
+      {
+        "zh": "公司想办法降低成本。",
+        "pinyin": "Gōngsī xiǎng bànfǎ jiàngdī chéngběn.",
+        "en": "Şirket maliyeti düşürmenin yolunu arıyor."
+      },
+      {
+        "zh": "这个项目的成本超出了预算。",
+        "pinyin": "Zhège xiàngmù de chéngběn chāochū le yùsuàn.",
+        "en": "Bu projenin maliyeti bütçeyi aştı."
+      },
+      {
+        "zh": "我们需要控制运营成本。",
+        "pinyin": "Wǒmen xūyào kòngzhì yùnyíng chéngběn.",
+        "en": "İşletme maliyetini kontrol etmemiz gerekiyor."
+      },
+      {
+        "zh": "原材料成本影响了产品价格。",
+        "pinyin": "Yuáncáiliào chéngběn yǐngxiǎng le chǎnpǐn jiàgé.",
+        "en": "Hammadde maliyeti ürün fiyatını etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w2817",
+    "hanzi": "成见",
+    "pinyin": "chéngjiàn",
+    "meaning": "önyargı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们不应该对别人抱有成见。",
+        "pinyin": "Wǒmen bù yīnggāi duì biérén bàoyǒu chéngjiàn.",
+        "en": "Başkalarına karşı önyargılı olmamalıyız."
+      },
+      {
+        "zh": "她放下了对他的成见。",
+        "pinyin": "Tā fàngxià le duì tā de chéngjiàn.",
+        "en": "Ona karşı olan önyargısını bir kenara bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w2818",
+    "hanzi": "成年",
+    "pinyin": "chéngnián",
+    "meaning": "yetişkin olmak, büyümek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他已经成年了，可以自己做决定。",
+        "pinyin": "Tā yǐjīng chéngnián le, kěyǐ zìjǐ zuò juédìng.",
+        "en": "Artık yetişkin, kendi kararlarını verebilir."
+      },
+      {
+        "zh": "成年人应该对自己的行为负责。",
+        "pinyin": "Chéngnián rén yīnggāi duì zìjǐ de xíngwéi fùzé.",
+        "en": "Yetişkinler kendi davranışlarından sorumlu olmalıdır."
+      },
+      {
+        "zh": "他成年后离开了家乡。",
+        "pinyin": "Tā chéngnián hòu líkāi le jiāxiāng.",
+        "en": "Yetişkin olduktan sonra memleketinden ayrıldı."
+      },
+      {
+        "zh": "未成年人不能购买酒精饮料。",
+        "pinyin": "Wèi chéngnián rén bù néng gòumǎi jiǔjīng yǐnliào.",
+        "en": "Reşit olmayanlar alkollü içecek satın alamaz."
+      },
+      {
+        "zh": "她成年以后开始独立生活。",
+        "pinyin": "Tā chéngnián yǐhòu kāishǐ dúlì shēnghuó.",
+        "en": "Yetişkin olduktan sonra bağımsız bir hayata başladı."
+      }
+    ]
+  },
+  {
+    "id": "w2819",
+    "hanzi": "成效",
+    "pinyin": "chéngxiào",
+    "meaning": "etki, sonuç",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项政策取得了显著成效。",
+        "pinyin": "Zhè xiàng zhèngcè qǔdé le xiǎnzhù chéngxiào.",
+        "en": "Bu politika belirgin sonuçlar elde etti."
+      },
+      {
+        "zh": "他的努力终于见到了成效。",
+        "pinyin": "Tā de nǔlì zhōngyú jiàndào le chéngxiào.",
+        "en": "Çabası sonunda meyvesini verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2820",
+    "hanzi": "成员",
+    "pinyin": "chéngyuán",
+    "meaning": "üye",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "我们家有四个成员。",
+        "pinyin": "Wǒmen jiā yǒu sì ge chéngyuán.",
+        "en": "Ailemizin dört üyesi var."
+      },
+      {
+        "zh": "他是这个团队的重要成员。",
+        "pinyin": "Tā shì zhège tuánduì de zhòngyào chéngyuán.",
+        "en": "Bu ekibin önemli bir üyesi."
+      },
+      {
+        "zh": "每个成员都要遵守规则。",
+        "pinyin": "Měi ge chéngyuán dōu yào zūnshǒu guīzé.",
+        "en": "Her üye kurallara uymalıdır."
+      },
+      {
+        "zh": "委员会由五名成员组成。",
+        "pinyin": "Wěiyuánhuì yóu wǔ míng chéngyuán zǔchéng.",
+        "en": "Komite beş üyeden oluşuyor."
+      },
+      {
+        "zh": "新成员今天正式加入了。",
+        "pinyin": "Xīn chéngyuán jīntiān zhèngshì jiārù le.",
+        "en": "Yeni üye bugün resmen katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w2821",
+    "hanzi": "城堡",
+    "pinyin": "chéngbǎo",
+    "meaning": "kale",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这座城堡有几百年的历史。",
+        "pinyin": "Zhè zuò chéngbǎo yǒu jǐ bǎi nián de lìshǐ.",
+        "en": "Bu kalenin birkaç yüz yıllık tarihi var."
+      },
+      {
+        "zh": "我们参观了一座古老的城堡。",
+        "pinyin": "Wǒmen cānguān le yí zuò gǔlǎo de chéngbǎo.",
+        "en": "Eski bir kaleyi ziyaret ettik."
+      },
+      {
+        "zh": "孩子们用积木搭了一座城堡。",
+        "pinyin": "Háizimen yòng jīmù dā le yí zuò chéngbǎo.",
+        "en": "Çocuklar bloklarla bir kale inşa etti."
+      },
+      {
+        "zh": "城堡周围有一条护城河。",
+        "pinyin": "Chéngbǎo zhōuwéi yǒu yì tiáo hùchénghé.",
+        "en": "Kalenin çevresinde bir hendek var."
+      },
+      {
+        "zh": "这座城堡矗立在山顶上。",
+        "pinyin": "Zhè zuò chéngbǎo chùlì zài shāndǐng shàng.",
+        "en": "Bu kale dağın tepesinde yükseliyor."
+      }
+    ]
   }
 ]

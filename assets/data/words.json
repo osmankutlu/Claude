@@ -135661,5 +135661,809 @@
         "en": "Bu kaza dolaylı bir nedenden kaynaklandı."
       }
     ]
+  },
+  {
+    "id": "w3958",
+    "hanzi": "践踏",
+    "pinyin": "jiàntà",
+    "meaning": "ayaklar altına almak, çiğnemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "请勿践踏草坪。",
+        "pinyin": "Qǐng wù jiàntà cǎopíng.",
+        "en": "Lütfen çimenlere basmayın."
+      },
+      {
+        "zh": "他们的行为是在践踏法律。",
+        "pinyin": "Tāmen de xíngwéi shì zài jiàntà fǎlǜ.",
+        "en": "Davranışları kanunu çiğniyor."
+      }
+    ]
+  },
+  {
+    "id": "w3959",
+    "hanzi": "贱",
+    "pinyin": "jiàn",
+    "meaning": "ucuz; aşağılık",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这些水果卖得很贱。",
+        "pinyin": "Zhèxiē shuǐguǒ mài de hěn jiàn.",
+        "en": "Bu meyveler çok ucuza satılıyor."
+      },
+      {
+        "zh": "他的话说得很贱。",
+        "pinyin": "Tā de huà shuō de hěn jiàn.",
+        "en": "Sözleri çok aşağılıkça."
+      },
+      {
+        "zh": "物以稀为贵，多了就贱。",
+        "pinyin": "Wù yǐ xī wéi guì, duō le jiù jiàn.",
+        "en": "Nadir olan şey değerlidir, çok olan ucuzlar."
+      },
+      {
+        "zh": "他不该说那种贱话。",
+        "pinyin": "Tā bù gāi shuō nà zhǒng jiàn huà.",
+        "en": "Öyle aşağılık laflar etmemeliydi."
+      },
+      {
+        "zh": "今年蔬菜价格很贱。",
+        "pinyin": "Jīnnián shūcài jiàgé hěn jiàn.",
+        "en": "Bu yıl sebze fiyatları çok ucuz."
+      }
+    ]
+  },
+  {
+    "id": "w3960",
+    "hanzi": "溅",
+    "pinyin": "jiàn",
+    "meaning": "sıçramak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "水花溅到了他的衣服上。",
+        "pinyin": "Shuǐhuā jiàndàole tā de yīfu shàng.",
+        "en": "Su damlaları kıyafetine sıçradı."
+      },
+      {
+        "zh": "车子经过时溅了我一身泥。",
+        "pinyin": "Chēzi jīngguò shí jiànle wǒ yìshēn ní.",
+        "en": "Araba geçerken üstüme çamur sıçrattı."
+      },
+      {
+        "zh": "油溅到了锅外面。",
+        "pinyin": "Yóu jiàndàole guō wàimiàn.",
+        "en": "Yağ tavanın dışına sıçradı."
+      },
+      {
+        "zh": "孩子们在水池边玩得水花四溅。",
+        "pinyin": "Háizimen zài shuǐchí biān wán de shuǐhuā sìjiàn.",
+        "en": "Çocuklar havuz kenarında oynarken sular her yere sıçradı."
+      },
+      {
+        "zh": "雨水溅在窗户上。",
+        "pinyin": "Yǔshuǐ jiàn zài chuānghu shàng.",
+        "en": "Yağmur suyu pencereye sıçradı."
+      }
+    ]
+  },
+  {
+    "id": "w3961",
+    "hanzi": "鉴别",
+    "pinyin": "jiànbié",
+    "meaning": "ayırt etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "专家鉴别了这幅画的真伪。",
+        "pinyin": "Zhuānjiā jiànbiéle zhè fú huà de zhēnwěi.",
+        "en": "Uzmanlar bu tablonun gerçek olup olmadığını ayırt etti."
+      },
+      {
+        "zh": "我们要学会鉴别信息的真假。",
+        "pinyin": "Wǒmen yào xuéhuì jiànbié xìnxī de zhēnjiǎ.",
+        "en": "Bilginin doğruluğunu ayırt etmeyi öğrenmeliyiz."
+      },
+      {
+        "zh": "他能鉴别出各种茶叶的品质。",
+        "pinyin": "Tā néng jiànbié chū gèzhǒng cháyè de pǐnzhì.",
+        "en": "Çeşitli çayların kalitesini ayırt edebiliyor."
+      },
+      {
+        "zh": "医生通过检查鉴别了病因。",
+        "pinyin": "Yīshēng tōngguò jiǎnchá jiànbiéle bìngyīn.",
+        "en": "Doktor muayene yoluyla hastalığın nedenini teşhis etti."
+      },
+      {
+        "zh": "鉴别真假货币需要专业知识。",
+        "pinyin": "Jiànbié zhēnjiǎ huòbì xūyào zhuānyè zhīshi.",
+        "en": "Sahte parayı ayırt etmek uzmanlık bilgisi gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w3962",
+    "hanzi": "鉴定",
+    "pinyin": "jiàndìng",
+    "meaning": "değerlendirmek, ekspertiz yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "专家对这件文物进行了鉴定。",
+        "pinyin": "Zhuānjiā duì zhè jiàn wénwù jìnxíngle jiàndìng.",
+        "en": "Uzmanlar bu tarihi eseri ekspertize tabi tuttu."
+      },
+      {
+        "zh": "医院对样本进行了鉴定。",
+        "pinyin": "Yīyuàn duì yàngběn jìnxíngle jiàndìng.",
+        "en": "Hastane numuneyi test etti."
+      },
+      {
+        "zh": "这份鉴定报告非常详细。",
+        "pinyin": "Zhè fèn jiàndìng bàogào fēicháng xiángxì.",
+        "en": "Bu ekspertiz raporu çok detaylı."
+      },
+      {
+        "zh": "警方委托专家做了DNA鉴定。",
+        "pinyin": "Jǐngfāng wěituō zhuānjiā zuòle DNA jiàndìng.",
+        "en": "Polis uzmanlara DNA testi yaptırdı."
+      },
+      {
+        "zh": "他的作品得到了专业人士的鉴定。",
+        "pinyin": "Tā de zuòpǐn dédàole zhuānyè rénshì de jiàndìng.",
+        "en": "Eseri uzmanlar tarafından değerlendirildi."
+      }
+    ]
+  },
+  {
+    "id": "w3963",
+    "hanzi": "鉴赏",
+    "pinyin": "jiànshǎng",
+    "meaning": "değerlendirip takdir etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他喜欢鉴赏古代艺术品。",
+        "pinyin": "Tā xǐhuan jiànshǎng gǔdài yìshùpǐn.",
+        "en": "Antik sanat eserlerini incelemekten hoşlanır."
+      },
+      {
+        "zh": "这场展览为观众提供了鉴赏名画的机会。",
+        "pinyin": "Zhè chǎng zhǎnlǎn wèi guānzhòng tígōngle jiànshǎng mínghuà de jīhuì.",
+        "en": "Bu sergi izleyicilere ünlü tabloları takdir etme fırsatı sundu."
+      }
+    ]
+  },
+  {
+    "id": "w3964",
+    "hanzi": "鉴于",
+    "pinyin": "jiànyú",
+    "meaning": "göz önünde bulundurarak",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "鉴于当前形势，我们决定推迟计划。",
+        "pinyin": "Jiànyú dāngqián xíngshì, wǒmen juédìng tuīchí jìhuà.",
+        "en": "Mevcut durumu göz önünde bulundurarak planı ertelemeye karar verdik."
+      },
+      {
+        "zh": "鉴于他的贡献，公司授予了他特别奖励。",
+        "pinyin": "Jiànyú tā de gòngxiàn, gōngsī shòuyǔle tā tèbié jiǎnglì.",
+        "en": "Katkılarını göz önünde bulundurarak şirket ona özel bir ödül verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3965",
+    "hanzi": "舰",
+    "pinyin": "jiàn",
+    "meaning": "savaş gemisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这艘舰正在海上巡逻。",
+        "pinyin": "Zhè sōu jiàn zhèngzài hǎishàng xúnluó.",
+        "en": "Bu savaş gemisi denizde devriye geziyor."
+      },
+      {
+        "zh": "海军新建了一艘军舰。",
+        "pinyin": "Hǎijūn xīnjiànle yì sōu jūnjiàn.",
+        "en": "Deniz kuvvetleri yeni bir savaş gemisi inşa etti."
+      },
+      {
+        "zh": "这艘舰装备了先进的雷达系统。",
+        "pinyin": "Zhè sōu jiàn zhuāngbèile xiānjìn de léidá xìtǒng.",
+        "en": "Bu gemi gelişmiş bir radar sistemiyle donatıldı."
+      },
+      {
+        "zh": "战舰在港口停靠。",
+        "pinyin": "Zhànjiàn zài gǎngkǒu tíngkào.",
+        "en": "Savaş gemisi limanda demirledi."
+      },
+      {
+        "zh": "这艘舰参加了海上演习。",
+        "pinyin": "Zhè sōu jiàn cānjiāle hǎishàng yǎnxí.",
+        "en": "Bu gemi deniz tatbikatına katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3966",
+    "hanzi": "建交",
+    "pinyin": "jiànjiāo",
+    "meaning": "diplomatik ilişki kurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两国正式建交了。",
+        "pinyin": "Liǎng guó zhèngshì jiànjiāo le.",
+        "en": "İki ülke resmi olarak diplomatik ilişki kurdu."
+      },
+      {
+        "zh": "这标志着两国建交五十周年。",
+        "pinyin": "Zhè biāozhìzhe liǎng guó jiànjiāo wǔshí zhōunián.",
+        "en": "Bu, iki ülkenin diplomatik ilişkilerinin ellinci yıl dönümünü işaret ediyor."
+      },
+      {
+        "zh": "建交后两国贸易迅速增长。",
+        "pinyin": "Jiànjiāo hòu liǎng guó màoyì xùnsù zēngzhǎng.",
+        "en": "Diplomatik ilişki kurulduktan sonra iki ülke arasındaki ticaret hızla arttı."
+      },
+      {
+        "zh": "两国准备正式建交。",
+        "pinyin": "Liǎng guó zhǔnbèi zhèngshì jiànjiāo.",
+        "en": "İki ülke resmi diplomatik ilişki kurmaya hazırlanıyor."
+      },
+      {
+        "zh": "建交仪式在首都举行。",
+        "pinyin": "Jiànjiāo yíshì zài shǒudū jǔxíng.",
+        "en": "Diplomatik ilişki kurma töreni başkentte gerçekleşti."
+      }
+    ]
+  },
+  {
+    "id": "w3967",
+    "hanzi": "建造",
+    "pinyin": "jiànzào",
+    "meaning": "inşa etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们正在建造一座大桥。",
+        "pinyin": "Tāmen zhèngzài jiànzào yí zuò dà qiáo.",
+        "en": "Büyük bir köprü inşa ediyorlar."
+      },
+      {
+        "zh": "这座建筑是十年前建造的。",
+        "pinyin": "Zhè zuò jiànzhù shì shí nián qián jiànzào de.",
+        "en": "Bu bina on yıl önce inşa edildi."
+      },
+      {
+        "zh": "工人们花了两年时间建造这座工厂。",
+        "pinyin": "Gōngrénmen huāle liǎng nián shíjiān jiànzào zhè zuò gōngchǎng.",
+        "en": "İşçiler bu fabrikayı inşa etmek için iki yıl harcadı."
+      },
+      {
+        "zh": "他梦想建造一所自己的房子。",
+        "pinyin": "Tā mèngxiǎng jiànzào yì suǒ zìjǐ de fángzi.",
+        "en": "Kendi evini inşa etmeyi hayal ediyor."
+      },
+      {
+        "zh": "这艘船是在本地船厂建造的。",
+        "pinyin": "Zhè sōu chuán shì zài běndì chuánchǎng jiànzào de.",
+        "en": "Bu gemi yerel bir tersanede inşa edildi."
+      }
+    ]
+  },
+  {
+    "id": "w3968",
+    "hanzi": "健全",
+    "pinyin": "jiànquán",
+    "meaning": "sağlam, eksiksiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他身体健全，头脑清醒。",
+        "pinyin": "Tā shēntǐ jiànquán, tóunǎo qīngxǐng.",
+        "en": "Bedeni sağlıklı, zihni açık."
+      },
+      {
+        "zh": "我们需要建立健全的制度。",
+        "pinyin": "Wǒmen xūyào jiànlì jiànquán de zhìdù.",
+        "en": "Sağlam bir sistem kurmamız gerekiyor."
+      },
+      {
+        "zh": "法律体系正在逐步健全。",
+        "pinyin": "Fǎlǜ tǐxì zhèngzài zhúbù jiànquán.",
+        "en": "Hukuk sistemi giderek sağlamlaşıyor."
+      },
+      {
+        "zh": "健全的人格需要长期培养。",
+        "pinyin": "Jiànquán de réngé xūyào chángqī péiyǎng.",
+        "en": "Sağlıklı bir kişilik uzun süreli bir eğitim gerektirir."
+      },
+      {
+        "zh": "公司正在完善健全内部管理机制。",
+        "pinyin": "Gōngsī zhèngzài wánshàn jiànquán nèibù guǎnlǐ jīzhì.",
+        "en": "Şirket iç yönetim mekanizmasını sağlamlaştırıp geliştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3969",
+    "hanzi": "健身",
+    "pinyin": "jiànshēn",
+    "meaning": "spor yapmak, fitness",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他每天去健身房健身。",
+        "pinyin": "Tā měitiān qù jiànshēnfáng jiànshēn.",
+        "en": "Her gün spor salonuna gidip spor yapıyor."
+      },
+      {
+        "zh": "健身对身体很有好处。",
+        "pinyin": "Jiànshēn duì shēntǐ hěn yǒu hǎochu.",
+        "en": "Spor yapmak vücuda çok faydalıdır."
+      },
+      {
+        "zh": "她坚持健身已经三年了。",
+        "pinyin": "Tā jiānchí jiànshēn yǐjīng sān nián le.",
+        "en": "Üç yıldır spor yapmaya devam ediyor."
+      },
+      {
+        "zh": "健身可以增强体质。",
+        "pinyin": "Jiànshēn kěyǐ zēngqiáng tǐzhì.",
+        "en": "Spor yapmak beden gücünü artırabilir."
+      },
+      {
+        "zh": "他制定了一份健身计划。",
+        "pinyin": "Tā zhìdìngle yí fèn jiànshēn jìhuà.",
+        "en": "Bir fitness planı hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w3970",
+    "hanzi": "健忘",
+    "pinyin": "jiànwàng",
+    "meaning": "unutkan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他最近变得很健忘。",
+        "pinyin": "Tā zuìjìn biàn de hěn jiànwàng.",
+        "en": "Son zamanlarda çok unutkan oldu."
+      },
+      {
+        "zh": "年纪大了容易健忘。",
+        "pinyin": "Niánjì dà le róngyì jiànwàng.",
+        "en": "Yaş ilerledikçe unutkanlık kolaylaşır."
+      },
+      {
+        "zh": "她总是健忘，忘了带钥匙。",
+        "pinyin": "Tā zǒngshì jiànwàng, wàngle dài yàoshi.",
+        "en": "Sürekli unutkan, anahtarını almayı unuttu."
+      },
+      {
+        "zh": "他健忘的毛病一直没改。",
+        "pinyin": "Tā jiànwàng de máobìng yìzhí méi gǎi.",
+        "en": "Unutkanlık huyu hiç düzelmedi."
+      },
+      {
+        "zh": "我最近特别健忘，什么都记不住。",
+        "pinyin": "Wǒ zuìjìn tèbié jiànwàng, shénme dōu jìbuzhù.",
+        "en": "Son zamanlarda çok unutkanım, hiçbir şeyi hatırlayamıyorum."
+      }
+    ]
+  },
+  {
+    "id": "w3971",
+    "hanzi": "健壮",
+    "pinyin": "jiànzhuàng",
+    "meaning": "sağlıklı ve güçlü",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他身材健壮，充满力量。",
+        "pinyin": "Tā shēncái jiànzhuàng, chōngmǎn lìliang.",
+        "en": "Vücudu sağlıklı ve güçlü, enerji dolu."
+      },
+      {
+        "zh": "这匹马非常健壮。",
+        "pinyin": "Zhè pǐ mǎ fēicháng jiànzhuàng.",
+        "en": "Bu at çok sağlıklı ve güçlü."
+      },
+      {
+        "zh": "健壮的体魄来自长期锻炼。",
+        "pinyin": "Jiànzhuàng de tǐpò láizì chángqī duànliàn.",
+        "en": "Sağlıklı ve güçlü bir vücut, uzun süreli egzersizden gelir."
+      },
+      {
+        "zh": "他的父亲身体依然健壮。",
+        "pinyin": "Tā de fùqin shēntǐ yīrán jiànzhuàng.",
+        "en": "Babasının vücudu hâlâ sağlıklı ve güçlü."
+      },
+      {
+        "zh": "那头牛长得又高又健壮。",
+        "pinyin": "Nà tóu niú zhǎng de yòu gāo yòu jiànzhuàng.",
+        "en": "O öküz hem uzun hem güçlü büyüdü."
+      }
+    ]
+  },
+  {
+    "id": "w3972",
+    "hanzi": "将近",
+    "pinyin": "jiāngjìn",
+    "meaning": "-e yakın",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "现在将近十点了。",
+        "pinyin": "Xiànzài jiāngjìn shí diǎn le.",
+        "en": "Şimdi saat ona yakın."
+      },
+      {
+        "zh": "这个项目投资将近一百万。",
+        "pinyin": "Zhège xiàngmù tóuzī jiāngjìn yìbǎi wàn.",
+        "en": "Bu proje bir milyona yakın yatırım aldı."
+      },
+      {
+        "zh": "他们已经工作了将近十年。",
+        "pinyin": "Tāmen yǐjīng gōngzuòle jiāngjìn shí nián.",
+        "en": "On yıla yakın süredir çalışıyorlar."
+      },
+      {
+        "zh": "会议将近结束时突然出了问题。",
+        "pinyin": "Huìyì jiāngjìn jiéshù shí tūrán chūle wèntí.",
+        "en": "Toplantı bitmek üzereyken aniden bir sorun çıktı."
+      },
+      {
+        "zh": "参加人数将近五百人。",
+        "pinyin": "Cānjiā rénshù jiāngjìn wǔbǎi rén.",
+        "en": "Katılımcı sayısı beş yüze yakındı."
+      }
+    ]
+  },
+  {
+    "id": "w3973",
+    "hanzi": "将军",
+    "pinyin": "jiāngjūn",
+    "meaning": "general",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是一位著名的将军。",
+        "pinyin": "Tā shì yí wèi zhùmíng de jiāngjūn.",
+        "en": "O ünlü bir general."
+      },
+      {
+        "zh": "将军指挥了这场战役。",
+        "pinyin": "Jiāngjūn zhǐhuīle zhè chǎng zhànyì.",
+        "en": "General bu savaşı yönetti."
+      },
+      {
+        "zh": "这位将军经验丰富。",
+        "pinyin": "Zhè wèi jiāngjūn jīngyàn fēngfù.",
+        "en": "Bu general çok deneyimli."
+      },
+      {
+        "zh": "将军对士兵们发表了讲话。",
+        "pinyin": "Jiāngjūn duì shìbīngmen fābiǎole jiǎnghuà.",
+        "en": "General askerlere bir konuşma yaptı."
+      },
+      {
+        "zh": "他从上尉一路晋升为将军。",
+        "pinyin": "Tā cóng shàngwèi yílù jìnshēngwéi jiāngjūn.",
+        "en": "Yüzbaşılıktan generalliğe kadar terfi etti."
+      }
+    ]
+  },
+  {
+    "id": "w3974",
+    "hanzi": "将要",
+    "pinyin": "jiāngyào",
+    "meaning": "yakında ...-ecek",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他将要出国留学。",
+        "pinyin": "Tā jiāngyào chūguó liúxué.",
+        "en": "Yurt dışında okumaya gidecek."
+      },
+      {
+        "zh": "我们将要迎来新的挑战。",
+        "pinyin": "Wǒmen jiāngyào yínglái xīn de tiǎozhàn.",
+        "en": "Yeni bir zorlukla karşılaşacağız."
+      },
+      {
+        "zh": "会议将要在下周举行。",
+        "pinyin": "Huìyì jiāngyào zài xià zhōu jǔxíng.",
+        "en": "Toplantı önümüzdeki hafta yapılacak."
+      },
+      {
+        "zh": "她将要成为一名医生。",
+        "pinyin": "Tā jiāngyào chéngwéi yì míng yīshēng.",
+        "en": "Bir doktor olacak."
+      },
+      {
+        "zh": "这个项目将要在年底完成。",
+        "pinyin": "Zhège xiàngmù jiāngyào zài niándǐ wánchéng.",
+        "en": "Bu proje yıl sonunda tamamlanacak."
+      }
+    ]
+  },
+  {
+    "id": "w3975",
+    "hanzi": "江",
+    "pinyin": "jiāng",
+    "meaning": "nehir, ırmak",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "长江是中国最长的江。",
+        "pinyin": "Chángjiāng shì Zhōngguó zuì cháng de jiāng.",
+        "en": "Yangtze, Çin'in en uzun nehridir."
+      },
+      {
+        "zh": "江水缓缓流淌。",
+        "pinyin": "Jiāngshuǐ huǎnhuǎn liútǎng.",
+        "en": "Nehir suyu yavaşça akıyor."
+      },
+      {
+        "zh": "他们坐船沿江而下。",
+        "pinyin": "Tāmen zuò chuán yán jiāng ér xià.",
+        "en": "Nehir boyunca teknede aşağı doğru gittiler."
+      },
+      {
+        "zh": "这条江贯穿了整个城市。",
+        "pinyin": "Zhè tiáo jiāng guànchuānle zhěnggè chéngshì.",
+        "en": "Bu nehir tüm şehri boydan boya geçiyor."
+      },
+      {
+        "zh": "江边风景非常美丽。",
+        "pinyin": "Jiāngbiān fēngjǐng fēicháng měilì.",
+        "en": "Nehir kıyısının manzarası çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w3976",
+    "hanzi": "江湖",
+    "pinyin": "jiānghú",
+    "meaning": "sosyal yaşam çevresi, dünya",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他年轻时闯荡江湖。",
+        "pinyin": "Tā niánqīng shí chuǎngdàng jiānghú.",
+        "en": "Gençken dünyayı dolaşarak yaşadı."
+      },
+      {
+        "zh": "江湖险恶，你要小心行事。",
+        "pinyin": "Jiānghú xiǎn'è, nǐ yào xiǎoxīn xíngshì.",
+        "en": "Dünya tehlikelidir, dikkatli davranmalısın."
+      }
+    ]
+  },
+  {
+    "id": "w3977",
+    "hanzi": "姜",
+    "pinyin": "jiāng",
+    "meaning": "zencefil",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "做菜时放一点姜。",
+        "pinyin": "Zuòcài shí fàng yìdiǎn jiāng.",
+        "en": "Yemek yaparken biraz zencefil ekle."
+      },
+      {
+        "zh": "姜茶对感冒很有效。",
+        "pinyin": "Jiāngchá duì gǎnmào hěn yǒuxiào.",
+        "en": "Zencefil çayı soğuk algınlığına çok etkilidir."
+      },
+      {
+        "zh": "她切了几片姜放进汤里。",
+        "pinyin": "Tā qiēle jǐ piàn jiāng fàngjìn tāng lǐ.",
+        "en": "Birkaç dilim zencefili çorbaya ekledi."
+      },
+      {
+        "zh": "生姜可以驱寒。",
+        "pinyin": "Shēngjiāng kěyǐ qūhán.",
+        "en": "Taze zencefil soğuğu def eder."
+      },
+      {
+        "zh": "这道菜里加了很多姜。",
+        "pinyin": "Zhè dào cài lǐ jiāle hěn duō jiāng.",
+        "en": "Bu yemeğe çok fazla zencefil eklendi."
+      }
+    ]
+  },
+  {
+    "id": "w3978",
+    "hanzi": "讲稿",
+    "pinyin": "jiǎnggǎo",
+    "meaning": "konuşma metni",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他准备了详细的讲稿。",
+        "pinyin": "Tā zhǔnbèile xiángxì de jiǎnggǎo.",
+        "en": "Detaylı bir konuşma metni hazırladı."
+      },
+      {
+        "zh": "他忘记带讲稿了。",
+        "pinyin": "Tā wàngjì dài jiǎnggǎo le.",
+        "en": "Konuşma metnini getirmeyi unuttu."
+      },
+      {
+        "zh": "这份讲稿写得非常精彩。",
+        "pinyin": "Zhè fèn jiǎnggǎo xiě de fēicháng jīngcǎi.",
+        "en": "Bu konuşma metni çok başarılı yazılmış."
+      },
+      {
+        "zh": "他反复修改了讲稿。",
+        "pinyin": "Tā fǎnfù xiūgǎile jiǎnggǎo.",
+        "en": "Konuşma metnini defalarca revize etti."
+      },
+      {
+        "zh": "演讲前他熟读了讲稿。",
+        "pinyin": "Yǎnjiǎng qián tā shúdúle jiǎnggǎo.",
+        "en": "Konuşmadan önce metni iyice okudu."
+      }
+    ]
+  },
+  {
+    "id": "w3979",
+    "hanzi": "讲和",
+    "pinyin": "jiǎnghé",
+    "meaning": "barışmak, uzlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们终于讲和了。",
+        "pinyin": "Tāmen zhōngyú jiǎnghé le.",
+        "en": "Sonunda barıştılar."
+      },
+      {
+        "zh": "两国经过谈判决定讲和。",
+        "pinyin": "Liǎng guó jīngguò tánpàn juédìng jiǎnghé.",
+        "en": "İki ülke müzakereler sonrasında barışmaya karar verdi."
+      },
+      {
+        "zh": "他主动去找朋友讲和。",
+        "pinyin": "Tā zhǔdòng qù zhǎo péngyou jiǎnghé.",
+        "en": "Kendi isteğiyle arkadaşıyla barışmaya gitti."
+      },
+      {
+        "zh": "争吵之后他们很快就讲和了。",
+        "pinyin": "Zhēngchǎo zhīhòu tāmen hěn kuài jiù jiǎnghé le.",
+        "en": "Kavgadan sonra hızlıca barıştılar."
+      },
+      {
+        "zh": "双方同意讲和，结束了争端。",
+        "pinyin": "Shuāngfāng tóngyì jiǎnghé, jiéshùle zhēngduān.",
+        "en": "İki taraf barışmayı kabul etti ve anlaşmazlığı sona erdirdi."
+      }
+    ]
+  },
+  {
+    "id": "w3980",
+    "hanzi": "讲解",
+    "pinyin": "jiǎngjiě",
+    "meaning": "açıklamak, izah etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "老师详细讲解了这道题。",
+        "pinyin": "Lǎoshī xiángxì jiǎngjiěle zhè dào tí.",
+        "en": "Öğretmen bu soruyu detaylı bir şekilde açıkladı."
+      },
+      {
+        "zh": "导游给我们讲解了历史背景。",
+        "pinyin": "Dǎoyóu gěi wǒmen jiǎngjiěle lìshǐ bèijǐng.",
+        "en": "Rehber bize tarihi arka planı anlattı."
+      },
+      {
+        "zh": "他耐心地讲解了操作方法。",
+        "pinyin": "Tā nàixīn de jiǎngjiěle cāozuò fāngfǎ.",
+        "en": "Kullanım yöntemini sabırla anlattı."
+      },
+      {
+        "zh": "专家为我们讲解了这项技术。",
+        "pinyin": "Zhuānjiā wèi wǒmen jiǎngjiěle zhè xiàng jìshù.",
+        "en": "Uzman bize bu teknolojiyi açıkladı."
+      },
+      {
+        "zh": "教授讲解得很清楚。",
+        "pinyin": "Jiàoshòu jiǎngjiě de hěn qīngchu.",
+        "en": "Profesör çok açık bir şekilde anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w3981",
+    "hanzi": "讲师",
+    "pinyin": "jiǎngshī",
+    "meaning": "okutman",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是大学的讲师。",
+        "pinyin": "Tā shì dàxué de jiǎngshī.",
+        "en": "Üniversitede okutman."
+      },
+      {
+        "zh": "这位讲师讲课很生动。",
+        "pinyin": "Zhè wèi jiǎngshī jiǎngkè hěn shēngdòng.",
+        "en": "Bu okutmanın anlatımı çok canlı."
+      },
+      {
+        "zh": "她被聘为客座讲师。",
+        "pinyin": "Tā bèi pìnwéi kèzuò jiǎngshī.",
+        "en": "Misafir öğretim görevlisi olarak atandı."
+      },
+      {
+        "zh": "讲师负责教授这门课程。",
+        "pinyin": "Jiǎngshī fùzé jiāoshòu zhè mén kèchéng.",
+        "en": "Okutman bu dersi vermekten sorumlu."
+      },
+      {
+        "zh": "他从讲师晋升为教授。",
+        "pinyin": "Tā cóng jiǎngshī jìnshēngwéi jiàoshòu.",
+        "en": "Okutmanlıktan profesörlüğe terfi etti."
+      }
+    ]
   }
 ]

@@ -123664,5 +123664,620 @@
         "en": "Çocukluk dönemi anıları zihninde derin izler bırakmıştır."
       }
     ]
+  },
+  {
+    "id": "w3606",
+    "hanzi": "寒冷",
+    "pinyin": "hánlěng",
+    "meaning": "soğuk",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "冬天的天气非常寒冷。",
+        "pinyin": "Dōngtiān de tiānqì fēicháng hánlěng.",
+        "en": "Kış havası çok soğuk."
+      },
+      {
+        "zh": "请穿暖和一点，外面很寒冷。",
+        "pinyin": "Qǐng chuān nuǎnhuo yìdiǎn, wàimiàn hěn hánlěng.",
+        "en": "Lütfen sıcak giyin, dışarısı çok soğuk."
+      },
+      {
+        "zh": "北方的冬天格外寒冷。",
+        "pinyin": "Běifāng de dōngtiān géwài hánlěng.",
+        "en": "Kuzeydeki kış özellikle soğuktur."
+      },
+      {
+        "zh": "寒冷的天气让人不想出门。",
+        "pinyin": "Hánlěng de tiānqì ràng rén bù xiǎng chūmén.",
+        "en": "Soğuk hava insanın dışarı çıkmak istememesine neden oluyor."
+      },
+      {
+        "zh": "他们在寒冷的夜晚生起了篝火。",
+        "pinyin": "Tāmen zài hánlěng de yèwǎn shēngqǐ le gōuhuǒ.",
+        "en": "Soğuk gecede kamp ateşi yaktılar."
+      }
+    ]
+  },
+  {
+    "id": "w3607",
+    "hanzi": "汉字",
+    "pinyin": "Hànzì",
+    "meaning": "Çince karakterler",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "学习汉字需要不断练习。",
+        "pinyin": "Xuéxí Hànzì xūyào búduàn liànxí.",
+        "en": "Çince karakterleri öğrenmek sürekli pratik gerektirir."
+      },
+      {
+        "zh": "这个汉字怎么读？",
+        "pinyin": "Zhège Hànzì zěnme dú?",
+        "en": "Bu Çince karakter nasıl okunur?"
+      },
+      {
+        "zh": "汉字有几千年的历史。",
+        "pinyin": "Hànzì yǒu jǐ qiān nián de lìshǐ.",
+        "en": "Çince karakterlerin binlerce yıllık bir tarihi vardır."
+      },
+      {
+        "zh": "他能写出一手漂亮的汉字。",
+        "pinyin": "Tā néng xiěchū yìshǒu piàoliang de Hànzì.",
+        "en": "Güzel bir el yazısıyla Çince karakterler yazabiliyor."
+      },
+      {
+        "zh": "每个汉字都有自己的意思。",
+        "pinyin": "Měi ge Hànzì dōu yǒu zìjǐ de yìsi.",
+        "en": "Her Çince karakterin kendine ait bir anlamı vardır."
+      }
+    ]
+  },
+  {
+    "id": "w3608",
+    "hanzi": "航空",
+    "pinyin": "hángkōng",
+    "meaning": "havacılık",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他在一家航空公司工作。",
+        "pinyin": "Tā zài yì jiā hángkōng gōngsī gōngzuò.",
+        "en": "Bir havayolu şirketinde çalışıyor."
+      },
+      {
+        "zh": "航空技术近年来发展迅速。",
+        "pinyin": "Hángkōng jìshù jìnnián lái fāzhǎn xùnsù.",
+        "en": "Havacılık teknolojisi son yıllarda hızla gelişiyor."
+      },
+      {
+        "zh": "她梦想成为一名航空工程师。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yì míng hángkōng gōngchéngshī.",
+        "en": "Havacılık mühendisi olmayı hayal ediyor."
+      },
+      {
+        "zh": "这家航空公司提供优质的服务。",
+        "pinyin": "Zhè jiā hángkōng gōngsī tígōng yōuzhì de fúwù.",
+        "en": "Bu havayolu şirketi kaliteli hizmet sunuyor."
+      },
+      {
+        "zh": "航空运输比海运更快捷。",
+        "pinyin": "Hángkōng yùnshū bǐ hǎiyùn gèng kuàijié.",
+        "en": "Hava taşımacılığı deniz taşımacılığından daha hızlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w3609",
+    "hanzi": "害处",
+    "pinyin": "hàichù",
+    "meaning": "zarar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "抽烟对身体只有害处，没有好处。",
+        "pinyin": "Chōuyān duì shēntǐ zhǐyǒu hàichù, méiyǒu hǎochù.",
+        "en": "Sigara içmek vücuda sadece zarar verir, faydası yoktur."
+      },
+      {
+        "zh": "过度使用手机有很多害处。",
+        "pinyin": "Guòdù shǐyòng shǒujī yǒu hěn duō hàichù.",
+        "en": "Telefonu aşırı kullanmanın birçok zararı vardır."
+      },
+      {
+        "zh": "熬夜对健康有很大害处。",
+        "pinyin": "Áoyè duì jiànkāng yǒu hěn dà hàichù.",
+        "en": "Gece geç yatmak sağlığa büyük zarar verir."
+      },
+      {
+        "zh": "我们应该认识到这样做的害处。",
+        "pinyin": "Wǒmen yīnggāi rènshi dào zhèyàng zuò de hàichù.",
+        "en": "Böyle yapmanın zararlarını fark etmeliyiz."
+      },
+      {
+        "zh": "这种药物如果滥用会有害处。",
+        "pinyin": "Zhè zhǒng yàowù rúguǒ lànyòng huì yǒu hàichù.",
+        "en": "Bu ilaç kötüye kullanılırsa zararlı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3610",
+    "hanzi": "含义",
+    "pinyin": "hányì",
+    "meaning": "anlam, mana",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这个词有多种含义。",
+        "pinyin": "Zhège cí yǒu duō zhǒng hányì.",
+        "en": "Bu kelimenin birden fazla anlamı var."
+      },
+      {
+        "zh": "请解释一下这句话的含义。",
+        "pinyin": "Qǐng jiěshì yíxià zhè jù huà de hányì.",
+        "en": "Lütfen bu cümlenin anlamını açıklayın."
+      },
+      {
+        "zh": "这首诗的含义十分深刻。",
+        "pinyin": "Zhè shǒu shī de hányì shífēn shēnkè.",
+        "en": "Bu şiirin anlamı çok derin."
+      },
+      {
+        "zh": "他的话里含义丰富。",
+        "pinyin": "Tā de huà lǐ hányì fēngfù.",
+        "en": "Sözlerinin içinde zengin anlamlar var."
+      },
+      {
+        "zh": "我没有完全理解这句话的含义。",
+        "pinyin": "Wǒ méiyǒu wánquán lǐjiě zhè jù huà de hányì.",
+        "en": "Bu cümlenin anlamını tam olarak anlayamadım."
+      }
+    ]
+  },
+  {
+    "id": "w3611",
+    "hanzi": "寒带",
+    "pinyin": "hándài",
+    "meaning": "kutup bölgesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "寒带地区常年寒冷。",
+        "pinyin": "Hándài dìqū chángnián hánlěng.",
+        "en": "Kutup bölgesi tüm yıl boyunca soğuktur."
+      },
+      {
+        "zh": "北极熊生活在寒带。",
+        "pinyin": "Běijíxióng shēnghuó zài hándài.",
+        "en": "Kutup ayısı kutup bölgesinde yaşar."
+      },
+      {
+        "zh": "寒带植物种类相对较少。",
+        "pinyin": "Hándài zhíwù zhǒnglèi xiāngduì jiào shǎo.",
+        "en": "Kutup bölgesinde bitki çeşitleri nispeten azdır."
+      },
+      {
+        "zh": "寒带气候使农业发展受限。",
+        "pinyin": "Hándài qìhòu shǐ nóngyè fāzhǎn shòuxiàn.",
+        "en": "Kutup iklimi tarımın gelişmesini sınırlar."
+      },
+      {
+        "zh": "科学家在寒带进行了长期考察。",
+        "pinyin": "Kēxuéjiā zài hándài jìnxíng le chángqī kǎochá.",
+        "en": "Bilim insanları kutup bölgesinde uzun süreli bir araştırma yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w3612",
+    "hanzi": "旱季",
+    "pinyin": "hànjì",
+    "meaning": "kurak mevsim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "旱季这里几乎不下雨。",
+        "pinyin": "Hànjì zhèlǐ jīhū bú xiàyǔ.",
+        "en": "Kurak mevsimde burada neredeyse hiç yağmur yağmaz."
+      },
+      {
+        "zh": "旱季期间农作物很难生长。",
+        "pinyin": "Hànjì qījiān nóngzuòwù hěn nán shēngzhǎng.",
+        "en": "Kurak mevsim döneminde tarım ürünlerinin büyümesi zordur."
+      },
+      {
+        "zh": "这个地区的旱季持续了六个月。",
+        "pinyin": "Zhège dìqū de hànjì chíxù le liù ge yuè.",
+        "en": "Bu bölgenin kurak mevsimi altı ay sürdü."
+      },
+      {
+        "zh": "旱季结束后，雨季随即到来。",
+        "pinyin": "Hànjì jiéshù hòu, yǔjì suíjí dàolái.",
+        "en": "Kurak mevsim bittikten sonra yağmur mevsimi hemen başlar."
+      },
+      {
+        "zh": "农民们担心旱季会影响收成。",
+        "pinyin": "Nóngmínmen dānxīn hànjì huì yǐngxiǎng shōuchéng.",
+        "en": "Çiftçiler kurak mevsimin hasadı etkileyeceğinden endişeleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w3613",
+    "hanzi": "汉族",
+    "pinyin": "Hànzú",
+    "meaning": "Han halkı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "汉族是中国人口最多的民族。",
+        "pinyin": "Hànzú shì Zhōngguó rénkǒu zuì duō de mínzú.",
+        "en": "Han halkı Çin'in en kalabalık etnik grubudur."
+      },
+      {
+        "zh": "汉族有着悠久的历史文化。",
+        "pinyin": "Hànzú yǒu zhe yōujiǔ de lìshǐ wénhuà.",
+        "en": "Han halkının uzun bir tarihi ve kültürü vardır."
+      },
+      {
+        "zh": "中国有五十六个民族，汉族占大多数。",
+        "pinyin": "Zhōngguó yǒu wǔshíliù ge mínzú, Hànzú zhàn dàduōshù.",
+        "en": "Çin'de elli altı etnik grup var, Han halkı çoğunluğu oluşturuyor."
+      },
+      {
+        "zh": "汉族的传统节日包括春节和中秋节。",
+        "pinyin": "Hànzú de chuántǒng jiérì bāokuò Chūnjié hé Zhōngqiūjié.",
+        "en": "Han halkının geleneksel bayramları arasında Bahar Bayramı ve Sonbahar Ortası Bayramı vardır."
+      },
+      {
+        "zh": "汉族与其他少数民族和谐相处。",
+        "pinyin": "Hànzú yǔ qítā shǎoshù mínzú héxié xiāngchǔ.",
+        "en": "Han halkı diğer azınlık etnik gruplarıyla uyum içinde yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3614",
+    "hanzi": "航海",
+    "pinyin": "hánghǎi",
+    "meaning": "denizcilik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他从小就热爱航海。",
+        "pinyin": "Tā cóngxiǎo jiù rè'ài hánghǎi.",
+        "en": "Küçüklüğünden beri denizciliği sever."
+      },
+      {
+        "zh": "航海技术在古代就已经很发达。",
+        "pinyin": "Hánghǎi jìshù zài gǔdài jiù yǐjīng hěn fādá.",
+        "en": "Denizcilik teknolojisi antik çağda bile çok gelişmişti."
+      },
+      {
+        "zh": "他梦想成为一名航海家。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yì míng hánghǎijiā.",
+        "en": "Bir denizci olmayı hayal ediyor."
+      },
+      {
+        "zh": "这艘船完成了一次环球航海。",
+        "pinyin": "Zhè sōu chuán wánchéng le yí cì huánqiú hánghǎi.",
+        "en": "Bu gemi bir dünya turu denizciliği tamamladı."
+      },
+      {
+        "zh": "航海需要丰富的天文知识。",
+        "pinyin": "Hánghǎi xūyào fēngfù de tiānwén zhīshi.",
+        "en": "Denizcilik zengin bir gökbilim bilgisi gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w3615",
+    "hanzi": "航天",
+    "pinyin": "hángtiān",
+    "meaning": "uzay uçuşu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "中国的航天事业发展迅速。",
+        "pinyin": "Zhōngguó de hángtiān shìyè fāzhǎn xùnsù.",
+        "en": "Çin'in uzay çalışmaları hızla gelişiyor."
+      },
+      {
+        "zh": "他是一名航天工程师。",
+        "pinyin": "Tā shì yì míng hángtiān gōngchéngshī.",
+        "en": "O bir uzay mühendisidir."
+      },
+      {
+        "zh": "这次航天任务取得了圆满成功。",
+        "pinyin": "Zhè cì hángtiān rènwu qǔdé le yuánmǎn chénggōng.",
+        "en": "Bu uzay görevi tam bir başarı elde etti."
+      },
+      {
+        "zh": "航天技术推动了很多领域的发展。",
+        "pinyin": "Hángtiān jìshù tuīdòng le hěn duō lǐngyù de fāzhǎn.",
+        "en": "Uzay teknolojisi birçok alanın gelişimini destekledi."
+      },
+      {
+        "zh": "孩子们对航天充满了好奇心。",
+        "pinyin": "Háizimen duì hángtiān chōngmǎn le hàoqíxīn.",
+        "en": "Çocuklar uzay uçuşuna karşı merakla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w3616",
+    "hanzi": "航行",
+    "pinyin": "hángxíng",
+    "meaning": "sefer yapmak (deniz/hava)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这艘船正在大海上航行。",
+        "pinyin": "Zhè sōu chuán zhèngzài dàhǎi shàng hángxíng.",
+        "en": "Bu gemi denizde sefer yapıyor."
+      },
+      {
+        "zh": "飞机安全航行了十个小时。",
+        "pinyin": "Fēijī ānquán hángxíng le shí ge xiǎoshí.",
+        "en": "Uçak on saat güvenli bir şekilde uçtu."
+      },
+      {
+        "zh": "恶劣天气影响了船只的航行。",
+        "pinyin": "Èliè tiānqì yǐngxiǎng le chuánzhī de hángxíng.",
+        "en": "Kötü hava koşulları geminin seferini etkiledi."
+      },
+      {
+        "zh": "这条航线适合长途航行。",
+        "pinyin": "Zhè tiáo hángxiàn shìhé chángtú hángxíng.",
+        "en": "Bu rota uzun mesafeli seferler için uygundur."
+      },
+      {
+        "zh": "帆船依靠风力航行。",
+        "pinyin": "Fānchuán yīkào fēnglì hángxíng.",
+        "en": "Yelkenli tekne rüzgar gücüyle yol alır."
+      }
+    ]
+  },
+  {
+    "id": "w3617",
+    "hanzi": "航运",
+    "pinyin": "hángyùn",
+    "meaning": "havayolu/deniz taşımacılığı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这家公司专门从事航运业务。",
+        "pinyin": "Zhè jiā gōngsī zhuānmén cóngshì hángyùn yèwù.",
+        "en": "Bu şirket özellikle taşımacılık işiyle uğraşıyor."
+      },
+      {
+        "zh": "航运业受到全球贸易的影响。",
+        "pinyin": "Hángyùnyè shòudào quánqiú màoyì de yǐngxiǎng.",
+        "en": "Taşımacılık sektörü küresel ticaretten etkileniyor."
+      },
+      {
+        "zh": "港口是航运的重要枢纽。",
+        "pinyin": "Gǎngkǒu shì hángyùn de zhòngyào shūniǔ.",
+        "en": "Liman, taşımacılığın önemli bir merkezi."
+      },
+      {
+        "zh": "航运费用近期有所上涨。",
+        "pinyin": "Hángyùn fèiyòng jìnqī yǒu suǒ shàngzhǎng.",
+        "en": "Taşımacılık ücretleri son zamanlarda biraz arttı."
+      },
+      {
+        "zh": "这条航线是国际航运的重要通道。",
+        "pinyin": "Zhè tiáo hángxiàn shì guójì hángyùn de zhòngyào tōngdào.",
+        "en": "Bu rota uluslararası taşımacılığın önemli bir yoludur."
+      }
+    ]
+  },
+  {
+    "id": "w3618",
+    "hanzi": "行家",
+    "pinyin": "hángjia",
+    "meaning": "uzman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是这方面的行家。",
+        "pinyin": "Tā shì zhè fāngmiàn de hángjia.",
+        "en": "Bu konuda bir uzmandır."
+      },
+      {
+        "zh": "请教一下这位行家的意见。",
+        "pinyin": "Qǐngjiào yíxià zhè wèi hángjia de yìjiàn.",
+        "en": "Lütfen bu uzmanın görüşünü sorun."
+      },
+      {
+        "zh": "他在古董鉴定方面是个行家。",
+        "pinyin": "Tā zài gǔdǒng jiàndìng fāngmiàn shì ge hángjia.",
+        "en": "Antika değerlendirme konusunda bir uzmandır."
+      },
+      {
+        "zh": "一看就知道他是个行家。",
+        "pinyin": "Yí kàn jiù zhīdào tā shì ge hángjia.",
+        "en": "Bir bakışta uzman olduğu anlaşılıyor."
+      },
+      {
+        "zh": "这位老师傅是修理这类机器的行家。",
+        "pinyin": "Zhè wèi lǎoshīfu shì xiūlǐ zhè lèi jīqì de hángjia.",
+        "en": "Bu usta, bu tür makineleri tamir etmede bir uzmandır."
+      }
+    ]
+  },
+  {
+    "id": "w3619",
+    "hanzi": "骸骨",
+    "pinyin": "háigǔ",
+    "meaning": "iskelet, kemik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "考古学家发现了古代人的骸骨。",
+        "pinyin": "Kǎogǔ xuéjiā fāxiàn le gǔdài rén de háigǔ.",
+        "en": "Arkeologlar antik insan iskeleti buldu."
+      },
+      {
+        "zh": "这些骸骨保存得非常完整。",
+        "pinyin": "Zhèxiē háigǔ bǎocún de fēicháng wánzhěng.",
+        "en": "Bu iskeletler çok iyi korunmuş durumda."
+      }
+    ]
+  },
+  {
+    "id": "w3620",
+    "hanzi": "含糊",
+    "pinyin": "hánhu",
+    "meaning": "belirsiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他的回答很含糊，没有明确表态。",
+        "pinyin": "Tā de huídá hěn hánhu, méiyǒu míngquè biǎotài.",
+        "en": "Cevabı çok belirsizdi, net bir tutum sergilemedi."
+      },
+      {
+        "zh": "请不要含糊其辞，直接说明情况。",
+        "pinyin": "Qǐng búyào hánhu qící, zhíjiē shuōmíng qíngkuàng.",
+        "en": "Lütfen belirsiz konuşma, durumu doğrudan açıkla."
+      }
+    ]
+  },
+  {
+    "id": "w3621",
+    "hanzi": "寒暄",
+    "pinyin": "hánxuān",
+    "meaning": "hal hatır sormak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "见面后他们先寒暄了几句。",
+        "pinyin": "Jiànmiàn hòu tāmen xiān hánxuān le jǐ jù.",
+        "en": "Karşılaştıktan sonra önce birkaç hal hatır sordular."
+      },
+      {
+        "zh": "简单寒暄之后，会议正式开始了。",
+        "pinyin": "Jiǎndān hánxuān zhīhòu, huìyì zhèngshì kāishǐ le.",
+        "en": "Kısa bir hal hatırdan sonra toplantı resmi olarak başladı."
+      }
+    ]
+  },
+  {
+    "id": "w3622",
+    "hanzi": "涵盖",
+    "pinyin": "hángài",
+    "meaning": "kapsamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这门课程涵盖了很多领域。",
+        "pinyin": "Zhè mén kèchéng hángài le hěn duō lǐngyù.",
+        "en": "Bu ders birçok alanı kapsıyor."
+      },
+      {
+        "zh": "这份报告涵盖了公司所有部门的数据。",
+        "pinyin": "Zhè fèn bàogào hángài le gōngsī suǒyǒu bùmén de shùjù.",
+        "en": "Bu rapor şirketin tüm departmanlarının verilerini kapsıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3623",
+    "hanzi": "焊接",
+    "pinyin": "hànjiē",
+    "meaning": "kaynak yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工人正在焊接钢管。",
+        "pinyin": "Gōngrén zhèngzài hànjiē gāngguǎn.",
+        "en": "İşçi çelik boruları kaynaklıyor."
+      },
+      {
+        "zh": "这项工作需要专业的焊接技术。",
+        "pinyin": "Zhè xiàng gōngzuò xūyào zhuānyè de hànjiē jìshù.",
+        "en": "Bu iş profesyonel kaynak tekniği gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3624",
+    "hanzi": "捍卫",
+    "pinyin": "hànwèi",
+    "meaning": "savunmak, korumak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "士兵们誓死捍卫祖国。",
+        "pinyin": "Shìbīngmen shìsǐ hànwèi zǔguó.",
+        "en": "Askerler vatanlarını canları pahasına savunmaya yemin etti."
+      },
+      {
+        "zh": "我们要捍卫自己的权利。",
+        "pinyin": "Wǒmen yào hànwèi zìjǐ de quánlì.",
+        "en": "Kendi haklarımızı savunmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w3625",
+    "hanzi": "行列",
+    "pinyin": "hángliè",
+    "meaning": "sıra, erat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他加入了志愿者的行列。",
+        "pinyin": "Tā jiārù le zhìyuànzhě de hángliè.",
+        "en": "Gönüllüler safına katıldı."
+      },
+      {
+        "zh": "士兵们排成整齐的行列。",
+        "pinyin": "Shìbīngmen pái chéng zhěngqí de hángliè.",
+        "en": "Askerler düzenli bir sıra oluşturdu."
+      }
+    ]
   }
 ]

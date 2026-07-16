@@ -96529,5 +96529,695 @@
         "en": "Bu düzenlemeyi uygunsuz buluyor."
       }
     ]
+  },
+  {
+    "id": "w2722",
+    "hanzi": "不幸",
+    "pinyin": "bùxìng",
+    "meaning": "talihsizlik; talihsiz",
+    "partOfSpeech": "isim/sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这是一场不幸的事故。",
+        "pinyin": "Zhè shì yì chǎng bùxìng de shìgù.",
+        "en": "Bu talihsiz bir kazaydı."
+      },
+      {
+        "zh": "她经历了很多不幸。",
+        "pinyin": "Tā jīnglì le hěn duō bùxìng.",
+        "en": "Birçok talihsizlik yaşadı."
+      },
+      {
+        "zh": "不幸的是，他们没能及时赶到。",
+        "pinyin": "Bùxìng de shì, tāmen méi néng jíshí gǎndào.",
+        "en": "Ne yazık ki zamanında yetişemediler."
+      },
+      {
+        "zh": "面对不幸，她依然保持乐观。",
+        "pinyin": "Miànduì bùxìng, tā yīrán bǎochí lèguān.",
+        "en": "Talihsizlikle karşılaşsa da iyimserliğini koruyor."
+      },
+      {
+        "zh": "这个家庭遭遇了很大的不幸。",
+        "pinyin": "Zhège jiātíng zāoyù le hěn dà de bùxìng.",
+        "en": "Bu aile büyük bir talihsizlikle karşılaştı."
+      }
+    ]
+  },
+  {
+    "id": "w2723",
+    "hanzi": "不许",
+    "pinyin": "bùxǔ",
+    "meaning": "izin vermemek, yasaklamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "老师不许我们迟到。",
+        "pinyin": "Lǎoshī bùxǔ wǒmen chídào.",
+        "en": "Öğretmen geç kalmamıza izin vermiyor."
+      },
+      {
+        "zh": "这里不许抽烟。",
+        "pinyin": "Zhèlǐ bùxǔ chōuyān.",
+        "en": "Burada sigara içmeye izin verilmiyor."
+      },
+      {
+        "zh": "父母不许她一个人出去玩。",
+        "pinyin": "Fùmǔ bùxǔ tā yí ge rén chūqù wán.",
+        "en": "Ebeveynleri onun tek başına dışarı çıkmasına izin vermiyor."
+      },
+      {
+        "zh": "不许说谎！",
+        "pinyin": "Bùxǔ shuōhuǎng!",
+        "en": "Yalan söylemek yasak!"
+      },
+      {
+        "zh": "医生不许他吃辣的食物。",
+        "pinyin": "Yīshēng bùxǔ tā chī là de shíwù.",
+        "en": "Doktor acılı yiyecek yemesine izin vermiyor."
+      }
+    ]
+  },
+  {
+    "id": "w2724",
+    "hanzi": "不要",
+    "pinyin": "bùyào",
+    "meaning": "yapma, etme",
+    "partOfSpeech": "zarf",
+    "level": 2,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "不要迟到。",
+        "pinyin": "Bùyào chídào.",
+        "en": "Geç kalma."
+      },
+      {
+        "zh": "请不要在这里吸烟。",
+        "pinyin": "Qǐng búyào zài zhèlǐ xīyān.",
+        "en": "Lütfen burada sigara içmeyin."
+      },
+      {
+        "zh": "不要担心，一切都会好起来的。",
+        "pinyin": "Bùyào dānxīn, yíqiè dōu huì hǎo qǐlái de.",
+        "en": "Endişelenme, her şey düzelecek."
+      },
+      {
+        "zh": "不要碰这个东西。",
+        "pinyin": "Bùyào pèng zhège dōngxi.",
+        "en": "Bu şeye dokunma."
+      },
+      {
+        "zh": "不要忘记给我打电话。",
+        "pinyin": "Bùyào wàngjì gěi wǒ dǎ diànhuà.",
+        "en": "Beni aramayı unutma."
+      }
+    ]
+  },
+  {
+    "id": "w2725",
+    "hanzi": "不用",
+    "pinyin": "bùyòng",
+    "meaning": "gerek yok",
+    "partOfSpeech": "zarf",
+    "level": 3,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "不用谢。",
+        "pinyin": "Bùyòng xiè.",
+        "en": "Rica ederim."
+      },
+      {
+        "zh": "你不用担心这个问题。",
+        "pinyin": "Nǐ bùyòng dānxīn zhège wèntí.",
+        "en": "Bu konuda endişelenmene gerek yok."
+      },
+      {
+        "zh": "不用送我，我自己走就行。",
+        "pinyin": "Bùyòng sòng wǒ, wǒ zìjǐ zǒu jiù xíng.",
+        "en": "Beni geçirmene gerek yok, kendim giderim."
+      },
+      {
+        "zh": "明天不用上班。",
+        "pinyin": "Míngtiān bùyòng shàngbān.",
+        "en": "Yarın işe gitmeme gerek yok."
+      },
+      {
+        "zh": "不用着急，还有时间。",
+        "pinyin": "Bùyòng zháojí, hái yǒu shíjiān.",
+        "en": "Acele etmene gerek yok, hâlâ vakit var."
+      }
+    ]
+  },
+  {
+    "id": "w2726",
+    "hanzi": "不准",
+    "pinyin": "bùzhǔn",
+    "meaning": "yasaklamak, izin vermemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "学校不准学生带手机。",
+        "pinyin": "Xuéxiào bùzhǔn xuésheng dài shǒujī.",
+        "en": "Okul öğrencilerin telefon getirmesine izin vermiyor."
+      },
+      {
+        "zh": "这里不准停车。",
+        "pinyin": "Zhèlǐ bùzhǔn tíngchē.",
+        "en": "Burada park etmek yasak."
+      },
+      {
+        "zh": "老师不准我们在课堂上说话。",
+        "pinyin": "Lǎoshī bùzhǔn wǒmen zài kètáng shàng shuōhuà.",
+        "en": "Öğretmen derste konuşmamıza izin vermiyor."
+      },
+      {
+        "zh": "图书馆不准大声喧哗。",
+        "pinyin": "Túshūguǎn bùzhǔn dàshēng xuānhuá.",
+        "en": "Kütüphanede yüksek sesle konuşmak yasak."
+      },
+      {
+        "zh": "公司不准员工迟到早退。",
+        "pinyin": "Gōngsī bùzhǔn yuángōng chídào zǎotuì.",
+        "en": "Şirket çalışanların geç gelip erken çıkmasına izin vermiyor."
+      }
+    ]
+  },
+  {
+    "id": "w2727",
+    "hanzi": "部队",
+    "pinyin": "bùduì",
+    "meaning": "ordu, askeri birlik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他在部队服役了三年。",
+        "pinyin": "Tā zài bùduì fúyì le sān nián.",
+        "en": "Orduda üç yıl askerlik yaptı."
+      },
+      {
+        "zh": "部队正在进行训练。",
+        "pinyin": "Bùduì zhèngzài jìnxíng xùnliàn.",
+        "en": "Askeri birlik tatbikat yapıyor."
+      },
+      {
+        "zh": "他的父亲曾是部队的军官。",
+        "pinyin": "Tā de fùqīn céng shì bùduì de jūnguān.",
+        "en": "Babası eskiden ordu subayıydı."
+      },
+      {
+        "zh": "部队按时抵达了目的地。",
+        "pinyin": "Bùduì ànshí dǐdá le mùdìdì.",
+        "en": "Ordu birliği zamanında hedefe ulaştı."
+      },
+      {
+        "zh": "他年轻时参加了部队。",
+        "pinyin": "Tā niánqīng shí cānjiā le bùduì.",
+        "en": "Gençken orduya katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w2728",
+    "hanzi": "部署",
+    "pinyin": "bùshǔ",
+    "meaning": "konuşlandırmak, planlamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府部署了新的经济政策。",
+        "pinyin": "Zhèngfǔ bùshǔ le xīn de jīngjì zhèngcè.",
+        "en": "Hükümet yeni ekonomi politikasını planladı."
+      },
+      {
+        "zh": "军队在边境部署了大量兵力。",
+        "pinyin": "Jūnduì zài biānjìng bùshǔ le dàliàng bīnglì.",
+        "en": "Ordu sınıra büyük miktarda asker konuşlandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w2729",
+    "hanzi": "部位",
+    "pinyin": "bùwèi",
+    "meaning": "konum, bölge",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "疼痛的部位在哪里？",
+        "pinyin": "Téngtòng de bùwèi zài nǎlǐ?",
+        "en": "Ağrının olduğu bölge nerede?"
+      },
+      {
+        "zh": "医生检查了受伤的部位。",
+        "pinyin": "Yīshēng jiǎnchá le shòushāng de bùwèi.",
+        "en": "Doktor yaralanan bölgeyi kontrol etti."
+      },
+      {
+        "zh": "这个部位很容易受伤。",
+        "pinyin": "Zhège bùwèi hěn róngyì shòushāng.",
+        "en": "Bu bölge kolayca yaralanabilir."
+      },
+      {
+        "zh": "请指出疼痛的具体部位。",
+        "pinyin": "Qǐng zhǐchū téngtòng de jùtǐ bùwèi.",
+        "en": "Lütfen ağrının tam olarak hangi bölgede olduğunu gösterin."
+      },
+      {
+        "zh": "手术需要在特定部位进行。",
+        "pinyin": "Shǒushù xūyào zài tèdìng bùwèi jìnxíng.",
+        "en": "Ameliyatın belirli bir bölgede yapılması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w2730",
+    "hanzi": "部长",
+    "pinyin": "bùzhǎng",
+    "meaning": "bakan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被任命为教育部长。",
+        "pinyin": "Tā bèi rènmìng wéi jiàoyù bùzhǎng.",
+        "en": "Eğitim bakanı olarak atandı."
+      },
+      {
+        "zh": "部长今天发表了重要讲话。",
+        "pinyin": "Bùzhǎng jīntiān fābiǎo le zhòngyào jiǎnghuà.",
+        "en": "Bakan bugün önemli bir konuşma yaptı."
+      },
+      {
+        "zh": "外交部长访问了这个国家。",
+        "pinyin": "Wàijiāo bùzhǎng fǎngwèn le zhège guójiā.",
+        "en": "Dışişleri bakanı bu ülkeyi ziyaret etti."
+      },
+      {
+        "zh": "部长出席了这次会议。",
+        "pinyin": "Bùzhǎng chūxí le zhè cì huìyì.",
+        "en": "Bakan bu toplantıya katıldı."
+      },
+      {
+        "zh": "这位部长很受人民尊敬。",
+        "pinyin": "Zhè wèi bùzhǎng hěn shòu rénmín zūnjìng.",
+        "en": "Bu bakan halk tarafından çok saygı görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w2731",
+    "hanzi": "布置",
+    "pinyin": "bùzhì",
+    "meaning": "düzenlemek, dekore etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她精心布置了新房。",
+        "pinyin": "Tā jīngxīn bùzhì le xīnfáng.",
+        "en": "Yeni odayı özenle dekore etti."
+      },
+      {
+        "zh": "老师布置了今天的作业。",
+        "pinyin": "Lǎoshī bùzhì le jīntiān de zuòyè.",
+        "en": "Öğretmen bugünkü ödevi verdi."
+      },
+      {
+        "zh": "我们一起布置了圣诞树。",
+        "pinyin": "Wǒmen yìqǐ bùzhì le shèngdànshù.",
+        "en": "Birlikte Noel ağacını süsledik."
+      },
+      {
+        "zh": "房间布置得很温馨。",
+        "pinyin": "Fángjiān bùzhì de hěn wēnxīn.",
+        "en": "Oda çok sıcak bir şekilde dekore edilmiş."
+      },
+      {
+        "zh": "学校布置了教室来迎接新学期。",
+        "pinyin": "Xuéxiào bùzhì le jiàoshì lái yíngjiē xīn xuéqī.",
+        "en": "Okul yeni dönemi karşılamak için sınıfı düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "w2732",
+    "hanzi": "步伐",
+    "pinyin": "bùfá",
+    "meaning": "adım, tempo",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他迈着坚定的步伐向前走。",
+        "pinyin": "Tā màizhe jiāndìng de bùfá xiàng qián zǒu.",
+        "en": "Kararlı adımlarla ileriye yürüdü."
+      },
+      {
+        "zh": "我们要跟上时代的步伐。",
+        "pinyin": "Wǒmen yào gēnshàng shídài de bùfá.",
+        "en": "Zamanın temposuna ayak uydurmalıyız."
+      },
+      {
+        "zh": "她的步伐轻快而优雅。",
+        "pinyin": "Tā de bùfá qīngkuài ér yōuyǎ.",
+        "en": "Adımları hafif ve zarif."
+      },
+      {
+        "zh": "队伍迈着整齐的步伐前进。",
+        "pinyin": "Duìwu màizhe zhěngqí de bùfá qiánjìn.",
+        "en": "Kafile düzenli adımlarla ilerliyor."
+      },
+      {
+        "zh": "经济发展的步伐加快了。",
+        "pinyin": "Jīngjì fāzhǎn de bùfá jiākuài le.",
+        "en": "Ekonomik gelişmenin temposu hızlandı."
+      }
+    ]
+  },
+  {
+    "id": "w2733",
+    "hanzi": "步行",
+    "pinyin": "bùxíng",
+    "meaning": "yürüyerek gitmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他每天步行上班。",
+        "pinyin": "Tā měitiān bùxíng shàngbān.",
+        "en": "Her gün yürüyerek işe gidiyor."
+      },
+      {
+        "zh": "从这里步行到车站需要十分钟。",
+        "pinyin": "Cóng zhèlǐ bùxíng dào chēzhàn xūyào shí fēnzhōng.",
+        "en": "Buradan istasyona yürüyerek on dakika sürüyor."
+      },
+      {
+        "zh": "她喜欢步行去公园。",
+        "pinyin": "Tā xǐhuan bùxíng qù gōngyuán.",
+        "en": "Yürüyerek parka gitmeyi sever."
+      },
+      {
+        "zh": "我们决定步行回家。",
+        "pinyin": "Wǒmen juédìng bùxíng huíjiā.",
+        "en": "Yürüyerek eve dönmeye karar verdik."
+      },
+      {
+        "zh": "这条街是步行街。",
+        "pinyin": "Zhè tiáo jiē shì bùxíngjiē.",
+        "en": "Bu sokak yaya caddesidir."
+      }
+    ]
+  },
+  {
+    "id": "w2734",
+    "hanzi": "猜测",
+    "pinyin": "cāicè",
+    "meaning": "tahmin etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "大家都在猜测比赛的结果。",
+        "pinyin": "Dàjiā dōu zài cāicè bǐsài de jiéguǒ.",
+        "en": "Herkes maçın sonucunu tahmin ediyor."
+      },
+      {
+        "zh": "我猜测他今天不会来了。",
+        "pinyin": "Wǒ cāicè tā jīntiān bú huì lái le.",
+        "en": "Bugün gelmeyeceğini tahmin ediyorum."
+      },
+      {
+        "zh": "请不要随意猜测别人的想法。",
+        "pinyin": "Qǐng búyào suíyì cāicè biérén de xiǎngfǎ.",
+        "en": "Lütfen başkalarının düşüncelerini rastgele tahmin etmeyin."
+      },
+      {
+        "zh": "媒体对这件事进行了各种猜测。",
+        "pinyin": "Méitǐ duì zhè jiàn shì jìnxíng le gèzhǒng cāicè.",
+        "en": "Medya bu konuda çeşitli tahminler yaptı."
+      },
+      {
+        "zh": "她的猜测被证明是正确的。",
+        "pinyin": "Tā de cāicè bèi zhèngmíng shì zhèngquè de.",
+        "en": "Tahmininin doğru olduğu kanıtlandı."
+      }
+    ]
+  },
+  {
+    "id": "w2735",
+    "hanzi": "猜想",
+    "pinyin": "cāixiǎng",
+    "meaning": "sanmak, tahmin etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Fiiller",
+    "examples": [
+      {
+        "zh": "我猜想他会同意这个提议。",
+        "pinyin": "Wǒ cāixiǎng tā huì tóngyì zhège tíyì.",
+        "en": "Bu öneriyi kabul edeceğini tahmin ediyorum."
+      },
+      {
+        "zh": "她猜想事情不会那么简单。",
+        "pinyin": "Tā cāixiǎng shìqing bú huì nàme jiǎndān.",
+        "en": "İşin o kadar basit olmayacağını tahmin ediyor."
+      },
+      {
+        "zh": "你能猜想到接下来会发生什么吗？",
+        "pinyin": "Nǐ néng cāixiǎng dào jiēxiàlái huì fāshēng shénme ma?",
+        "en": "Bundan sonra ne olacağını tahmin edebiliyor musun?"
+      },
+      {
+        "zh": "他猜想她已经离开了这座城市。",
+        "pinyin": "Tā cāixiǎng tā yǐjīng líkāi le zhè zuò chéngshì.",
+        "en": "Onun bu şehirden ayrılmış olduğunu düşünüyor."
+      },
+      {
+        "zh": "我们猜想这可能是一次误会。",
+        "pinyin": "Wǒmen cāixiǎng zhè kěnéng shì yí cì wùhuì.",
+        "en": "Bunun bir yanlış anlaşılma olabileceğini düşünüyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w2736",
+    "hanzi": "才华",
+    "pinyin": "cáihuá",
+    "meaning": "yetenek (sanatsal)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "她的音乐才华得到了大家的认可。",
+        "pinyin": "Tā de yīnyuè cáihuá dédào le dàjiā de rènkě.",
+        "en": "Müzik yeteneği herkes tarafından takdir edildi."
+      },
+      {
+        "zh": "他从小就展现出绘画才华。",
+        "pinyin": "Tā cóngxiǎo jiù zhǎnxiàn chū huìhuà cáihuá.",
+        "en": "Küçüklüğünden beri resim yeteneği gösterdi."
+      },
+      {
+        "zh": "这位作家才华横溢。",
+        "pinyin": "Zhè wèi zuòjiā cáihuá héngyì.",
+        "en": "Bu yazar yetenek dolu."
+      },
+      {
+        "zh": "她希望能发挥自己的才华。",
+        "pinyin": "Tā xīwàng néng fāhuī zìjǐ de cáihuá.",
+        "en": "Kendi yeteneğini ortaya koymayı umuyor."
+      },
+      {
+        "zh": "他的写作才华令人钦佩。",
+        "pinyin": "Tā de xiězuò cáihuá lìng rén qīnpèi.",
+        "en": "Yazma yeteneği hayranlık uyandırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w2737",
+    "hanzi": "才能",
+    "pinyin": "cáinéng",
+    "meaning": "yetenek, kabiliyet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他有很强的领导才能。",
+        "pinyin": "Tā yǒu hěn qiáng de lǐngdǎo cáinéng.",
+        "en": "Güçlü bir liderlik yeteneği var."
+      },
+      {
+        "zh": "每个孩子都有自己独特的才能。",
+        "pinyin": "Měi ge háizi dōu yǒu zìjǐ dútè de cáinéng.",
+        "en": "Her çocuğun kendine özgü bir yeteneği vardır."
+      },
+      {
+        "zh": "她的组织才能非常出色。",
+        "pinyin": "Tā de zǔzhī cáinéng fēicháng chūsè.",
+        "en": "Organizasyon yeteneği çok üstün."
+      },
+      {
+        "zh": "公司需要有才能的员工。",
+        "pinyin": "Gōngsī xūyào yǒu cáinéng de yuángōng.",
+        "en": "Şirketin yetenekli çalışanlara ihtiyacı var."
+      },
+      {
+        "zh": "他利用自己的才能帮助了很多人。",
+        "pinyin": "Tā lìyòng zìjǐ de cáinéng bāngzhù le hěn duō rén.",
+        "en": "Kendi yeteneğini kullanarak birçok kişiye yardım etti."
+      }
+    ]
+  },
+  {
+    "id": "w2738",
+    "hanzi": "裁缝",
+    "pinyin": "cáifeng",
+    "meaning": "terzi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "我请裁缝修改了这件衣服。",
+        "pinyin": "Wǒ qǐng cáifeng xiūgǎi le zhè jiàn yīfu.",
+        "en": "Bu kıyafeti tadil ettirmek için terziye götürdüm."
+      },
+      {
+        "zh": "那位裁缝手艺非常好。",
+        "pinyin": "Nà wèi cáifeng shǒuyì fēicháng hǎo.",
+        "en": "O terzi çok iyi bir zanaatkâr."
+      }
+    ]
+  },
+  {
+    "id": "w2739",
+    "hanzi": "裁判",
+    "pinyin": "cáipàn",
+    "meaning": "hakem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "裁判吹响了比赛结束的哨声。",
+        "pinyin": "Cáipàn chuīxiǎng le bǐsài jiéshù de shàoshēng.",
+        "en": "Hakem maçın bitiş düdüğünü çaldı."
+      },
+      {
+        "zh": "球员对裁判的判罚表示不满。",
+        "pinyin": "Qiúyuán duì cáipàn de pànfá biǎoshì bùmǎn.",
+        "en": "Oyuncu hakemin kararından memnun değil."
+      },
+      {
+        "zh": "裁判宣布了比赛的最终结果。",
+        "pinyin": "Cáipàn xuānbù le bǐsài de zuìzhōng jiéguǒ.",
+        "en": "Hakem maçın nihai sonucunu açıkladı."
+      },
+      {
+        "zh": "这位裁判非常公正。",
+        "pinyin": "Zhè wèi cáipàn fēicháng gōngzhèng.",
+        "en": "Bu hakem çok adil."
+      },
+      {
+        "zh": "裁判判了一个点球。",
+        "pinyin": "Cáipàn pàn le yí ge diǎnqiú.",
+        "en": "Hakem penaltı verdi."
+      }
+    ]
+  },
+  {
+    "id": "w2740",
+    "hanzi": "财务",
+    "pinyin": "cáiwù",
+    "meaning": "mali işler, finans",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "她负责公司的财务工作。",
+        "pinyin": "Tā fùzé gōngsī de cáiwù gōngzuò.",
+        "en": "Şirketin mali işlerinden sorumlu."
+      },
+      {
+        "zh": "公司的财务状况良好。",
+        "pinyin": "Gōngsī de cáiwù zhuàngkuàng liánghǎo.",
+        "en": "Şirketin mali durumu iyi."
+      },
+      {
+        "zh": "请把这些发票交给财务部门。",
+        "pinyin": "Qǐng bǎ zhèxiē fāpiào jiāo gěi cáiwù bùmén.",
+        "en": "Lütfen bu faturaları mali işler bölümüne teslim edin."
+      },
+      {
+        "zh": "他在银行的财务部工作。",
+        "pinyin": "Tā zài yínháng de cáiwù bù gōngzuò.",
+        "en": "Bankanın mali işler biriminde çalışıyor."
+      },
+      {
+        "zh": "财务报表显示公司盈利了。",
+        "pinyin": "Cáiwù bàobiǎo xiǎnshì gōngsī yínglì le.",
+        "en": "Mali tablolar şirketin kâr ettiğini gösteriyor."
+      }
+    ]
+  },
+  {
+    "id": "w2741",
+    "hanzi": "采购",
+    "pinyin": "cǎigòu",
+    "meaning": "satın almak (toplu)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Alışveriş",
+    "examples": [
+      {
+        "zh": "公司每月采购一次原材料。",
+        "pinyin": "Gōngsī měi yuè cǎigòu yí cì yuáncáiliào.",
+        "en": "Şirket ayda bir kez hammadde satın alıyor."
+      },
+      {
+        "zh": "她负责公司的采购工作。",
+        "pinyin": "Tā fùzé gōngsī de cǎigòu gōngzuò.",
+        "en": "Şirketin satın alma işlerinden sorumlu."
+      },
+      {
+        "zh": "我们去超市采购食品。",
+        "pinyin": "Wǒmen qù chāoshì cǎigòu shípǐn.",
+        "en": "Süpermarkete gıda almaya gittik."
+      },
+      {
+        "zh": "公司计划采购新的设备。",
+        "pinyin": "Gōngsī jìhuà cǎigòu xīn de shèbèi.",
+        "en": "Şirket yeni ekipman satın almayı planlıyor."
+      },
+      {
+        "zh": "节日前，大家都忙着采购年货。",
+        "pinyin": "Jiérì qián, dàjiā dōu mángzhe cǎigòu niánhuò.",
+        "en": "Bayramdan önce herkes yılbaşı alışverişiyle meşgul."
+      }
+    ]
   }
 ]

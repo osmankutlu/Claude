@@ -120448,5 +120448,572 @@
         "en": "Birileri işçileri greve teşvik ediyor."
       }
     ]
+  },
+  {
+    "id": "w3506",
+    "hanzi": "谷物",
+    "pinyin": "gǔwù",
+    "meaning": "tahıl",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "这个地区盛产各种谷物。",
+        "pinyin": "Zhège dìqū shèngchǎn gèzhǒng gǔwù.",
+        "en": "Bu bölgede çeşitli tahıllar bol miktarda yetiştirilir."
+      },
+      {
+        "zh": "谷物是人类的主要粮食来源。",
+        "pinyin": "Gǔwù shì rénlèi de zhǔyào liángshi láiyuán.",
+        "en": "Tahıl insanların temel gıda kaynağıdır."
+      },
+      {
+        "zh": "早餐吃谷物有益健康。",
+        "pinyin": "Zǎocān chī gǔwù yǒuyì jiànkāng.",
+        "en": "Kahvaltıda tahıl yemek sağlığa faydalıdır."
+      },
+      {
+        "zh": "农民们正在收割谷物。",
+        "pinyin": "Nóngmínmen zhèngzài shōugē gǔwù.",
+        "en": "Çiftçiler tahıl hasadı yapıyor."
+      },
+      {
+        "zh": "这种谷物富含蛋白质。",
+        "pinyin": "Zhè zhǒng gǔwù fùhán dànbáizhì.",
+        "en": "Bu tahıl bol miktarda protein içerir."
+      }
+    ]
+  },
+  {
+    "id": "w3507",
+    "hanzi": "故乡",
+    "pinyin": "gùxiāng",
+    "meaning": "memleket",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他非常想念自己的故乡。",
+        "pinyin": "Tā fēicháng xiǎngniàn zìjǐ de gùxiāng.",
+        "en": "Memleketini çok özlüyor."
+      },
+      {
+        "zh": "每年过年他都会回故乡。",
+        "pinyin": "Měi nián guònián tā dōu huì huí gùxiāng.",
+        "en": "Her yıl yeni yılda memleketine döner."
+      },
+      {
+        "zh": "她的故乡是一个美丽的小镇。",
+        "pinyin": "Tā de gùxiāng shì yí ge měilì de xiǎozhèn.",
+        "en": "Memleketi güzel bir küçük kasabadır."
+      },
+      {
+        "zh": "离开故乡多年，他依然乡音未改。",
+        "pinyin": "Líkāi gùxiāng duō nián, tā yīrán xiāngyīn wèi gǎi.",
+        "en": "Memleketinden yıllarca uzak kalmasına rağmen şivesi hâlâ değişmedi."
+      },
+      {
+        "zh": "故乡的一草一木都让他感到亲切。",
+        "pinyin": "Gùxiāng de yìcǎo-yímù dōu ràng tā gǎndào qīnqiè.",
+        "en": "Memleketindeki her bir bitki bile ona sıcak geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3509",
+    "hanzi": "骨骼",
+    "pinyin": "gǔgé",
+    "meaning": "iskelet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "人体骨骼由206块骨头组成。",
+        "pinyin": "Réntǐ gǔgé yóu èrbǎilíngliù kuài gǔtou zǔchéng.",
+        "en": "İnsan iskeleti 206 kemikten oluşur."
+      },
+      {
+        "zh": "医生检查了他的骨骼健康状况。",
+        "pinyin": "Yīshēng jiǎnchá le tā de gǔgé jiànkāng zhuàngkuàng.",
+        "en": "Doktor iskelet sağlığını kontrol etti."
+      },
+      {
+        "zh": "钙质对骨骼发育很重要。",
+        "pinyin": "Gàizhì duì gǔgé fāyù hěn zhòngyào.",
+        "en": "Kalsiyum iskelet gelişimi için çok önemlidir."
+      },
+      {
+        "zh": "这个模型展示了动物的骨骼结构。",
+        "pinyin": "Zhège móxíng zhǎnshì le dòngwù de gǔgé jiégòu.",
+        "en": "Bu model hayvanın iskelet yapısını gösteriyor."
+      },
+      {
+        "zh": "老年人的骨骼容易变脆弱。",
+        "pinyin": "Lǎonián rén de gǔgé róngyì biàn cuìruò.",
+        "en": "Yaşlıların iskeleti kolayca zayıflayabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3510",
+    "hanzi": "骨科",
+    "pinyin": "gǔkē",
+    "meaning": "ortopedi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因为骨折被转到骨科治疗。",
+        "pinyin": "Tā yīnwèi gǔzhé bèi zhuǎn dào gǔkē zhìliáo.",
+        "en": "Kırık nedeniyle tedavi için ortopediye sevk edildi."
+      },
+      {
+        "zh": "这家医院的骨科很有名。",
+        "pinyin": "Zhè jiā yīyuàn de gǔkē hěn yǒumíng.",
+        "en": "Bu hastanenin ortopedi bölümü çok ünlüdür."
+      },
+      {
+        "zh": "她是一名骨科医生。",
+        "pinyin": "Tā shì yì míng gǔkē yīshēng.",
+        "en": "O bir ortopedi doktorudur."
+      },
+      {
+        "zh": "骨科手术需要精细的技术。",
+        "pinyin": "Gǔkē shǒushù xūyào jīngxì de jìshù.",
+        "en": "Ortopedik ameliyatlar hassas teknik gerektirir."
+      },
+      {
+        "zh": "他去骨科做了复查。",
+        "pinyin": "Tā qù gǔkē zuò le fùchá.",
+        "en": "Kontrol için ortopediye gitti."
+      }
+    ]
+  },
+  {
+    "id": "w3511",
+    "hanzi": "骨折",
+    "pinyin": "gǔzhé",
+    "meaning": "kırık (kemik)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他摔倒后手臂骨折了。",
+        "pinyin": "Tā shuāidǎo hòu shǒubì gǔzhé le.",
+        "en": "Düştükten sonra kolu kırıldı."
+      },
+      {
+        "zh": "医生给他的骨折处打了石膏。",
+        "pinyin": "Yīshēng gěi tā de gǔzhé chù dǎ le shígāo.",
+        "en": "Doktor kırık bölgesine alçı koydu."
+      },
+      {
+        "zh": "骨折后需要几个月才能痊愈。",
+        "pinyin": "Gǔzhé hòu xūyào jǐ ge yuè cáinéng quányù.",
+        "en": "Kırıktan sonra iyileşmek birkaç ay sürer."
+      },
+      {
+        "zh": "这种运动容易导致骨折。",
+        "pinyin": "Zhè zhǒng yùndòng róngyì dǎozhì gǔzhé.",
+        "en": "Bu tür bir spor kırığa neden olabilir."
+      },
+      {
+        "zh": "老年人骨折后恢复得比较慢。",
+        "pinyin": "Lǎonián rén gǔzhé hòu huīfù de bǐjiào màn.",
+        "en": "Yaşlılar kırıktan sonra daha yavaş iyileşir."
+      }
+    ]
+  },
+  {
+    "id": "w3512",
+    "hanzi": "股东",
+    "pinyin": "gǔdōng",
+    "meaning": "hissedar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "公司股东召开了年度会议。",
+        "pinyin": "Gōngsī gǔdōng zhàokāi le niándù huìyì.",
+        "en": "Şirket hissedarları yıllık toplantı yaptı."
+      },
+      {
+        "zh": "他是这家公司的大股东。",
+        "pinyin": "Tā shì zhè jiā gōngsī de dà gǔdōng.",
+        "en": "Bu şirketin büyük bir hissedarıdır."
+      },
+      {
+        "zh": "股东们对公司的业绩表示满意。",
+        "pinyin": "Gǔdōngmen duì gōngsī de yèjì biǎoshì mǎnyì.",
+        "en": "Hissedarlar şirketin performansından memnun."
+      },
+      {
+        "zh": "公司需要向股东汇报财务状况。",
+        "pinyin": "Gōngsī xūyào xiàng gǔdōng huìbào cáiwù zhuàngkuàng.",
+        "en": "Şirket hissedarlara mali durumu bildirmesi gerekiyor."
+      },
+      {
+        "zh": "新股东加入了董事会。",
+        "pinyin": "Xīn gǔdōng jiārù le dǒngshìhuì.",
+        "en": "Yeni hissedar yönetim kuruluna katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w3513",
+    "hanzi": "股份",
+    "pinyin": "gǔfèn",
+    "meaning": "hisse",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他持有公司百分之二十的股份。",
+        "pinyin": "Tā chíyǒu gōngsī bǎifēnzhī èrshí de gǔfèn.",
+        "en": "Şirketin yüzde yirmilik hissesine sahip."
+      },
+      {
+        "zh": "这家企业出售了部分股份。",
+        "pinyin": "Zhè jiā qǐyè chūshòu le bùfen gǔfèn.",
+        "en": "Bu işletme hissesinin bir kısmını sattı."
+      },
+      {
+        "zh": "股份公司需要遵守相关法规。",
+        "pinyin": "Gǔfèn gōngsī xūyào zūnshǒu xiāngguān fǎguī.",
+        "en": "Hisse senedi şirketleri ilgili düzenlemelere uymak zorundadır."
+      },
+      {
+        "zh": "他把部分股份转让给了合伙人。",
+        "pinyin": "Tā bǎ bùfen gǔfèn zhuǎnràng gěi le héhuǒrén.",
+        "en": "Hissesinin bir kısmını ortağına devretti."
+      },
+      {
+        "zh": "这次收购将使他们获得多数股份。",
+        "pinyin": "Zhè cì shōugòu jiāng shǐ tāmen huòdé duōshù gǔfèn.",
+        "en": "Bu satın alma onların çoğunluk hissesini elde etmesini sağlayacak."
+      }
+    ]
+  },
+  {
+    "id": "w3514",
+    "hanzi": "股市",
+    "pinyin": "gǔshì",
+    "meaning": "borsa",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "今天股市大涨。",
+        "pinyin": "Jīntiān gǔshì dà zhǎng.",
+        "en": "Bugün borsa büyük bir yükseliş yaşadı."
+      },
+      {
+        "zh": "他每天关注股市动态。",
+        "pinyin": "Tā měitiān guānzhù gǔshì dòngtài.",
+        "en": "Her gün borsa gelişmelerini takip ediyor."
+      },
+      {
+        "zh": "股市波动很大，风险较高。",
+        "pinyin": "Gǔshì bōdòng hěn dà, fēngxiǎn jiào gāo.",
+        "en": "Borsa çok dalgalı, risk oldukça yüksek."
+      },
+      {
+        "zh": "这条新闻影响了股市走势。",
+        "pinyin": "Zhè tiáo xīnwén yǐngxiǎng le gǔshì zǒushì.",
+        "en": "Bu haber borsa trendini etkiledi."
+      },
+      {
+        "zh": "他在股市中赚了不少钱。",
+        "pinyin": "Tā zài gǔshì zhōng zhuàn le bù shǎo qián.",
+        "en": "Borsada epey para kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w3515",
+    "hanzi": "雇员",
+    "pinyin": "gùyuán",
+    "meaning": "çalışan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司为雇员提供了健康保险。",
+        "pinyin": "Gōngsī wèi gùyuán tígōng le jiànkāng bǎoxiǎn.",
+        "en": "Şirket çalışanlarına sağlık sigortası sağlıyor."
+      },
+      {
+        "zh": "雇员的权益需要得到保护。",
+        "pinyin": "Gùyuán de quányì xūyào dédào bǎohù.",
+        "en": "Çalışanların hakları korunmalıdır."
+      },
+      {
+        "zh": "这家公司有五百名雇员。",
+        "pinyin": "Zhè jiā gōngsī yǒu wǔbǎi míng gùyuán.",
+        "en": "Bu şirketin beş yüz çalışanı var."
+      },
+      {
+        "zh": "雇员们对新政策提出了意见。",
+        "pinyin": "Gùyuánmen duì xīn zhèngcè tíchū le yìjiàn.",
+        "en": "Çalışanlar yeni politika hakkında görüş bildirdi."
+      },
+      {
+        "zh": "公司定期对雇员进行培训。",
+        "pinyin": "Gōngsī dìngqī duì gùyuán jìnxíng péixùn.",
+        "en": "Şirket çalışanlarına düzenli olarak eğitim veriyor."
+      }
+    ]
+  },
+  {
+    "id": "w3516",
+    "hanzi": "雇主",
+    "pinyin": "gùzhǔ",
+    "meaning": "işveren",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "雇主应该按时支付工资。",
+        "pinyin": "Gùzhǔ yīnggāi ànshí zhīfù gōngzī.",
+        "en": "İşverenin maaşları zamanında ödemesi gerekir."
+      },
+      {
+        "zh": "他和雇主签订了劳动合同。",
+        "pinyin": "Tā hé gùzhǔ qiāndìng le láodòng hétong.",
+        "en": "İşvereniyle iş sözleşmesi imzaladı."
+      },
+      {
+        "zh": "好的雇主会关心员工的福利。",
+        "pinyin": "Hǎo de gùzhǔ huì guānxīn yuángōng de fúlì.",
+        "en": "İyi bir işveren çalışanların refahını önemser."
+      },
+      {
+        "zh": "雇主不能随意解雇员工。",
+        "pinyin": "Gùzhǔ bù néng suíyì jiěgù yuángōng.",
+        "en": "İşveren çalışanları keyfi olarak işten çıkaramaz."
+      },
+      {
+        "zh": "他向雇主提出了加薪的请求。",
+        "pinyin": "Tā xiàng gùzhǔ tíchū le jiāxīn de qǐngqiú.",
+        "en": "İşverenden zam talebinde bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w3517",
+    "hanzi": "故障",
+    "pinyin": "gùzhàng",
+    "meaning": "arıza",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "这台电脑出现了故障。",
+        "pinyin": "Zhè tái diànnǎo chūxiàn le gùzhàng.",
+        "en": "Bu bilgisayarda arıza oluştu."
+      },
+      {
+        "zh": "技术人员正在排除故障。",
+        "pinyin": "Jìshù rényuán zhèngzài páichú gùzhàng.",
+        "en": "Teknisyenler arızayı gideriyor."
+      },
+      {
+        "zh": "飞机因为机械故障延误了起飞。",
+        "pinyin": "Fēijī yīnwèi jīxiè gùzhàng yánwù le qǐfēi.",
+        "en": "Uçak mekanik arıza nedeniyle kalkışta gecikti."
+      },
+      {
+        "zh": "请检查一下汽车的故障原因。",
+        "pinyin": "Qǐng jiǎnchá yíxià qìchē de gùzhàng yuányīn.",
+        "en": "Lütfen aracın arıza nedenini kontrol edin."
+      },
+      {
+        "zh": "系统出现故障，暂时无法使用。",
+        "pinyin": "Xìtǒng chūxiàn gùzhàng, zànshí wúfǎ shǐyòng.",
+        "en": "Sistemde arıza oluştu, geçici olarak kullanılamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3518",
+    "hanzi": "顾问",
+    "pinyin": "gùwèn",
+    "meaning": "danışman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他担任公司的法律顾问。",
+        "pinyin": "Tā dānrèn gōngsī de fǎlǜ gùwèn.",
+        "en": "Şirketin hukuk danışmanı olarak görev yapıyor."
+      },
+      {
+        "zh": "我们请了一位专业顾问。",
+        "pinyin": "Wǒmen qǐng le yí wèi zhuānyè gùwèn.",
+        "en": "Profesyonel bir danışman çağırdık."
+      },
+      {
+        "zh": "这位顾问给出了宝贵的建议。",
+        "pinyin": "Zhè wèi gùwèn gěichū le bǎoguì de jiànyì.",
+        "en": "Bu danışman değerli öneriler sundu."
+      },
+      {
+        "zh": "他是这个项目的技术顾问。",
+        "pinyin": "Tā shì zhège xiàngmù de jìshù gùwèn.",
+        "en": "Bu projenin teknik danışmanıdır."
+      },
+      {
+        "zh": "公司聘请了一名财务顾问。",
+        "pinyin": "Gōngsī pìnqǐng le yì míng cáiwù gùwèn.",
+        "en": "Şirket bir mali danışman işe aldı."
+      }
+    ]
+  },
+  {
+    "id": "w3520",
+    "hanzi": "固执",
+    "pinyin": "gùzhí",
+    "meaning": "inatçı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他性格固执，很难说服。",
+        "pinyin": "Tā xìnggé gùzhí, hěn nán shuōfú.",
+        "en": "Karakteri inatçı, ikna etmek çok zor."
+      },
+      {
+        "zh": "别那么固执，听听别人的意见。",
+        "pinyin": "Bié nàme gùzhí, tīngting biérén de yìjiàn.",
+        "en": "Bu kadar inat etme, başkalarının fikrini de dinle."
+      },
+      {
+        "zh": "她固执地坚持自己的想法。",
+        "pinyin": "Tā gùzhí de jiānchí zìjǐ de xiǎngfǎ.",
+        "en": "İnatla kendi fikrinde ısrar etti."
+      },
+      {
+        "zh": "老人的想法比较固执。",
+        "pinyin": "Lǎorén de xiǎngfǎ bǐjiào gùzhí.",
+        "en": "Yaşlı adamın düşünceleri oldukça katı."
+      },
+      {
+        "zh": "固执己见有时会错过好机会。",
+        "pinyin": "Gùzhíjǐjiàn yǒushí huì cuòguò hǎo jīhuì.",
+        "en": "Kendi fikrinde ısrar etmek bazen iyi fırsatları kaçırmaya neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3522",
+    "hanzi": "关节",
+    "pinyin": "guānjié",
+    "meaning": "eklem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的膝盖关节疼痛。",
+        "pinyin": "Tā de xīgài guānjié téngtòng.",
+        "en": "Diz eklemi ağrıyor."
+      },
+      {
+        "zh": "老年人容易患关节炎。",
+        "pinyin": "Lǎonián rén róngyì huàn guānjiéyán.",
+        "en": "Yaşlılar kolayca eklem iltihabı yaşayabilir."
+      },
+      {
+        "zh": "医生检查了他的关节活动范围。",
+        "pinyin": "Yīshēng jiǎnchá le tā de guānjié huódòng fànwéi.",
+        "en": "Doktor eklem hareket aralığını kontrol etti."
+      },
+      {
+        "zh": "天冷的时候关节容易疼。",
+        "pinyin": "Tiān lěng de shíhou guānjié róngyì téng.",
+        "en": "Hava soğuk olduğunda eklemler kolayca ağrır."
+      },
+      {
+        "zh": "运动前要做好关节热身。",
+        "pinyin": "Yùndòng qián yào zuò hǎo guānjié rèshēn.",
+        "en": "Egzersizden önce eklemleri ısıtmak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w3523",
+    "hanzi": "骨干",
+    "pinyin": "gǔgàn",
+    "meaning": "omurga, temel kadro",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是团队的骨干力量。",
+        "pinyin": "Tā shì tuánduì de gǔgàn lìliang.",
+        "en": "Ekibin temel gücüdür."
+      },
+      {
+        "zh": "这些员工是公司的骨干。",
+        "pinyin": "Zhèxiē yuángōng shì gōngsī de gǔgàn.",
+        "en": "Bu çalışanlar şirketin çekirdek kadrosudur."
+      }
+    ]
+  },
+  {
+    "id": "w3524",
+    "hanzi": "骨髓",
+    "pinyin": "gǔsuǐ",
+    "meaning": "kemik iliği",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他需要接受骨髓移植手术。",
+        "pinyin": "Tā xūyào jiēshòu gǔsuǐ yízhí shǒushù.",
+        "en": "Kemik iliği nakli ameliyatı olması gerekiyor."
+      },
+      {
+        "zh": "骨髓可以产生血细胞。",
+        "pinyin": "Gǔsuǐ kěyǐ chǎnshēng xuèxìbāo.",
+        "en": "Kemik iliği kan hücreleri üretebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3525",
+    "hanzi": "固然",
+    "pinyin": "gùrán",
+    "meaning": "kuşkusuz",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "努力固然重要，方法也很关键。",
+        "pinyin": "Nǔlì gùrán zhòngyào, fāngfǎ yě hěn guānjiàn.",
+        "en": "Çaba kuşkusuz önemli, ama yöntem de çok önemli."
+      },
+      {
+        "zh": "这个方法固然有效，但成本较高。",
+        "pinyin": "Zhège fāngfǎ gùrán yǒuxiào, dàn chéngběn jiào gāo.",
+        "en": "Bu yöntem kuşkusuz etkili, ancak maliyeti daha yüksek."
+      }
+    ]
   }
 ]

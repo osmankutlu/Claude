@@ -141484,5 +141484,854 @@
         "en": "Kedi sessizce geçti, fareyi rahatsız etmedi."
       }
     ]
+  },
+  {
+    "id": "w4126",
+    "hanzi": "惊慌",
+    "pinyin": "jīnghuāng",
+    "meaning": "korkmuş ve paniklemiş",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "听到爆炸声，大家都惊慌起来。",
+        "pinyin": "Tīngdào bàozhà shēng, dàjiā dōu jīnghuāng qǐlai.",
+        "en": "Patlama sesini duyunca herkes paniğe kapıldı."
+      },
+      {
+        "zh": "他惊慌地跑出了房间。",
+        "pinyin": "Tā jīnghuāng de pǎochūle fángjiān.",
+        "en": "Panik içinde odadan koşarak çıktı."
+      },
+      {
+        "zh": "面对危险，她没有惊慌失措。",
+        "pinyin": "Miànduì wēixiǎn, tā méiyǒu jīnghuāng shīcuò.",
+        "en": "Tehlike karşısında paniğe kapılmadı."
+      },
+      {
+        "zh": "火灾发生时，人群一片惊慌。",
+        "pinyin": "Huǒzāi fāshēng shí, rénqún yí piàn jīnghuāng.",
+        "en": "Yangın çıktığında kalabalık büyük bir panik içindeydi."
+      },
+      {
+        "zh": "他惊慌地看着眼前的一切。",
+        "pinyin": "Tā jīnghuāng de kànzhe yǎnqián de yíqiè.",
+        "en": "Gözünün önündeki her şeye panik içinde bakıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4127",
+    "hanzi": "惊奇",
+    "pinyin": "jīngqí",
+    "meaning": "şaşırmış, hayrete düşmüş",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "大家都对这个结果感到惊奇。",
+        "pinyin": "Dàjiā dōu duì zhège jiéguǒ gǎndào jīngqí.",
+        "en": "Herkes bu sonuca şaşırdı."
+      },
+      {
+        "zh": "孩子用惊奇的眼神看着魔术师。",
+        "pinyin": "Háizi yòng jīngqí de yǎnshén kànzhe móshùshī.",
+        "en": "Çocuk hayretle sihirbaza bakıyordu."
+      },
+      {
+        "zh": "他惊奇地发现房间已经被打扫干净了。",
+        "pinyin": "Tā jīngqí de fāxiàn fángjiān yǐjīng bèi dǎsǎo gānjìng le.",
+        "en": "Odanın temizlendiğini görünce şaşırdı."
+      },
+      {
+        "zh": "这个消息让所有人都感到惊奇。",
+        "pinyin": "Zhège xiāoxi ràng suǒyǒu rén dōu gǎndào jīngqí.",
+        "en": "Bu haber herkesi şaşırttı."
+      },
+      {
+        "zh": "她用惊奇的目光望着窗外的雪景。",
+        "pinyin": "Tā yòng jīngqí de mùguāng wàngzhe chuāngwài de xuějǐng.",
+        "en": "Pencereden dışarıdaki kar manzarasına hayretle baktı."
+      }
+    ]
+  },
+  {
+    "id": "w4128",
+    "hanzi": "惊人",
+    "pinyin": "jīngrén",
+    "meaning": "şaşırtıcı, hayret verici",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他的进步速度令人惊人。",
+        "pinyin": "Tā de jìnbù sùdù lìng rén jīngrén.",
+        "en": "Gelişim hızı gerçekten şaşırtıcı."
+      },
+      {
+        "zh": "这座建筑的规模十分惊人。",
+        "pinyin": "Zhè zuò jiànzhù de guīmó shífēn jīngrén.",
+        "en": "Bu binanın ölçeği son derece şaşırtıcı."
+      },
+      {
+        "zh": "他的记忆力惊人。",
+        "pinyin": "Tā de jìyìlì jīngrén.",
+        "en": "Hafızası şaşırtıcı derecede güçlü."
+      },
+      {
+        "zh": "这项发明的意义十分惊人。",
+        "pinyin": "Zhè xiàng fāmíng de yìyì shífēn jīngrén.",
+        "en": "Bu buluşun önemi son derece şaşırtıcı."
+      },
+      {
+        "zh": "销售额增长得非常惊人。",
+        "pinyin": "Xiāoshòu'é zēngzhǎng de fēicháng jīngrén.",
+        "en": "Satış rakamları çok şaşırtıcı bir şekilde arttı."
+      }
+    ]
+  },
+  {
+    "id": "w4129",
+    "hanzi": "惊叹",
+    "pinyin": "jīngtàn",
+    "meaning": "hayret etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "大家都为这幅画的美丽而惊叹。",
+        "pinyin": "Dàjiā dōu wèi zhè fú huà de měilì ér jīngtàn.",
+        "en": "Herkes bu resmin güzelliğine hayran kaldı."
+      },
+      {
+        "zh": "游客们惊叹于长城的壮观。",
+        "pinyin": "Yóukèmen jīngtàn yú Chángchéng de zhuàngguān.",
+        "en": "Turistler Çin Seddi'nin görkeminden hayret içinde kaldı."
+      },
+      {
+        "zh": "观众为演员的精彩表演而惊叹。",
+        "pinyin": "Guānzhòng wèi yǎnyuán de jīngcǎi biǎoyǎn ér jīngtàn.",
+        "en": "İzleyiciler oyuncunun harika performansına hayret ettiler."
+      },
+      {
+        "zh": "他惊叹于大自然的鬼斧神工。",
+        "pinyin": "Tā jīngtàn yú dàzìrán de guǐfǔ-shéngōng.",
+        "en": "Doğanın olağanüstü işçiliğine hayran kaldı."
+      },
+      {
+        "zh": "参观者对博物馆的展品惊叹不已。",
+        "pinyin": "Cānguānzhě duì bówùguǎn de zhǎnpǐn jīngtàn bùyǐ.",
+        "en": "Ziyaretçiler müzedeki eserlere sürekli hayret ediyorlardı."
+      }
+    ]
+  },
+  {
+    "id": "w4130",
+    "hanzi": "惊喜",
+    "pinyin": "jīngxǐ",
+    "meaning": "sürpriz",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "生日聚会给了她一个惊喜。",
+        "pinyin": "Shēngrì jùhuì gěile tā yí ge jīngxǐ.",
+        "en": "Doğum günü partisi ona bir sürpriz oldu."
+      },
+      {
+        "zh": "他为妻子准备了一份惊喜礼物。",
+        "pinyin": "Tā wèi qīzi zhǔnbèile yí fèn jīngxǐ lǐwù.",
+        "en": "Eşi için sürpriz bir hediye hazırladı."
+      },
+      {
+        "zh": "这个好消息让她感到惊喜。",
+        "pinyin": "Zhège hǎo xiāoxi ràng tā gǎndào jīngxǐ.",
+        "en": "Bu güzel haber onu sürprizle sevindirdi."
+      },
+      {
+        "zh": "朋友们给了他一个大惊喜。",
+        "pinyin": "Péngyoumen gěile tā yí ge dà jīngxǐ.",
+        "en": "Arkadaşları ona büyük bir sürpriz yaptı."
+      },
+      {
+        "zh": "收到礼物时她既惊讶又惊喜。",
+        "pinyin": "Shōudào lǐwù shí tā jì jīngyà yòu jīngxǐ.",
+        "en": "Hediyeyi alınca hem şaşırdı hem sevindi."
+      }
+    ]
+  },
+  {
+    "id": "w4131",
+    "hanzi": "惊吓",
+    "pinyin": "jīngxià",
+    "meaning": "korkmak, ürkmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "那声巨响吓了他一大跳。",
+        "pinyin": "Nà shēng jùxiǎng xiàle tā yí dà tiào.",
+        "en": "O büyük gürültü onu ürküttü."
+      },
+      {
+        "zh": "孩子被巨大的声音惊吓到了。",
+        "pinyin": "Háizi bèi jùdà de shēngyīn jīngxià dào le.",
+        "en": "Çocuk büyük ses tarafından korkutuldu."
+      },
+      {
+        "zh": "她的脸色因惊吓而变得苍白。",
+        "pinyin": "Tā de liǎnsè yīn jīngxià ér biàn de cāngbái.",
+        "en": "Korkudan yüzü bembeyaz oldu."
+      },
+      {
+        "zh": "猫被突然出现的狗惊吓得逃跑了。",
+        "pinyin": "Māo bèi tūrán chūxiàn de gǒu jīngxià de táopǎo le.",
+        "en": "Kedi aniden beliren köpekten korkarak kaçtı."
+      },
+      {
+        "zh": "别惊吓婴儿，他很容易受惊。",
+        "pinyin": "Bié jīngxià yīng'ér, tā hěn róngyì shòujīng.",
+        "en": "Bebeği korkutma, kolayca ürkebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4132",
+    "hanzi": "惊险",
+    "pinyin": "jīngxiǎn",
+    "meaning": "heyecanlı, tehlikeli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这是一部惊险刺激的电影。",
+        "pinyin": "Zhè shì yí bù jīngxiǎn cìjī de diànyǐng.",
+        "en": "Bu heyecan verici ve tehlikeli bir film."
+      },
+      {
+        "zh": "他经历了一次惊险的冒险。",
+        "pinyin": "Tā jīnglìle yí cì jīngxiǎn de màoxiǎn.",
+        "en": "Heyecanlı bir macera yaşadı."
+      },
+      {
+        "zh": "这场比赛过程十分惊险。",
+        "pinyin": "Zhè chǎng bǐsài guòchéng shífēn jīngxiǎn.",
+        "en": "Bu maçın süreci son derece heyecanlıydı."
+      },
+      {
+        "zh": "小说的情节非常惊险。",
+        "pinyin": "Xiǎoshuō de qíngjié fēicháng jīngxiǎn.",
+        "en": "Romanın olay örgüsü çok heyecan verici."
+      },
+      {
+        "zh": "他们经历了一场惊险的逃亡。",
+        "pinyin": "Tāmen jīnglìle yì chǎng jīngxiǎn de táowáng.",
+        "en": "Heyecanlı bir kaçış yaşadılar."
+      }
+    ]
+  },
+  {
+    "id": "w4133",
+    "hanzi": "惊讶",
+    "pinyin": "jīngyà",
+    "meaning": "şaşkın",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他惊讶地看着眼前发生的一切。",
+        "pinyin": "Tā jīngyà de kànzhe yǎnqián fāshēng de yíqiè.",
+        "en": "Gözünün önünde olan biteni şaşkınlıkla izliyordu."
+      },
+      {
+        "zh": "这个结果让大家非常惊讶。",
+        "pinyin": "Zhège jiéguǒ ràng dàjiā fēicháng jīngyà.",
+        "en": "Bu sonuç herkesi çok şaşırttı."
+      },
+      {
+        "zh": "她惊讶地发现自己已经忘记了密码。",
+        "pinyin": "Tā jīngyà de fāxiàn zìjǐ yǐjīng wàngjìle mìmǎ.",
+        "en": "Şifresini unuttuğunu fark edince şaşırdı."
+      },
+      {
+        "zh": "我对这个消息感到十分惊讶。",
+        "pinyin": "Wǒ duì zhège xiāoxi gǎndào shífēn jīngyà.",
+        "en": "Bu habere çok şaşırdım."
+      },
+      {
+        "zh": "他惊讶地张大了嘴巴。",
+        "pinyin": "Tā jīngyà de zhāngdàle zuǐba.",
+        "en": "Şaşkınlıktan ağzı açık kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w4134",
+    "hanzi": "鲸鱼",
+    "pinyin": "jīngyú",
+    "meaning": "balina",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "大海里有很多鲸鱼。",
+        "pinyin": "Dàhǎi lǐ yǒu hěn duō jīngyú.",
+        "en": "Denizde birçok balina var."
+      },
+      {
+        "zh": "鲸鱼是世界上最大的动物之一。",
+        "pinyin": "Jīngyú shì shìjiè shàng zuì dà de dòngwù zhīyī.",
+        "en": "Balina dünyanın en büyük hayvanlarından biridir."
+      },
+      {
+        "zh": "我们在海边看到了一头鲸鱼。",
+        "pinyin": "Wǒmen zài hǎibiān kàndàole yì tóu jīngyú.",
+        "en": "Sahilde bir balina gördük."
+      },
+      {
+        "zh": "这种鲸鱼喜欢在深海游泳。",
+        "pinyin": "Zhè zhǒng jīngyú xǐhuan zài shēnhǎi yóuyǒng.",
+        "en": "Bu tür balina derin denizde yüzmeyi sever."
+      },
+      {
+        "zh": "科学家在研究鲸鱼的迁徙路线。",
+        "pinyin": "Kēxuéjiā zài yánjiū jīngyú de qiānxǐ lùxiàn.",
+        "en": "Bilim insanları balinaların göç yolunu araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4135",
+    "hanzi": "荆棘",
+    "pinyin": "jīngjí",
+    "meaning": "diken",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "前进的道路上布满荆棘。",
+        "pinyin": "Qiánjìn de dàolù shàng bùmǎn jīngjí.",
+        "en": "İlerleme yolu dikenlerle dolu."
+      },
+      {
+        "zh": "他穿过荆棘丛，终于到达了目的地。",
+        "pinyin": "Tā chuānguò jīngjí cóng, zhōngyú dàodále mùdìdì.",
+        "en": "Diken çalılığından geçerek sonunda hedefine ulaştı."
+      }
+    ]
+  },
+  {
+    "id": "w4136",
+    "hanzi": "晶体",
+    "pinyin": "jīngtǐ",
+    "meaning": "kristal",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "盐是一种晶体。",
+        "pinyin": "Yán shì yì zhǒng jīngtǐ.",
+        "en": "Tuz bir kristaldir."
+      },
+      {
+        "zh": "科学家在实验室培养了晶体。",
+        "pinyin": "Kēxuéjiā zài shíyànshì péiyǎngle jīngtǐ.",
+        "en": "Bilim insanları laboratuvarda kristal yetiştirdi."
+      },
+      {
+        "zh": "这种晶体在阳光下闪闪发光。",
+        "pinyin": "Zhè zhǒng jīngtǐ zài yángguāng xià shǎnshǎn fāguāng.",
+        "en": "Bu tür kristal güneş ışığında parıldıyor."
+      },
+      {
+        "zh": "冰是水分子形成的晶体。",
+        "pinyin": "Bīng shì shuǐ fēnzǐ xíngchéng de jīngtǐ.",
+        "en": "Buz, su moleküllerinin oluşturduğu bir kristaldir."
+      },
+      {
+        "zh": "这块晶体非常美丽透明。",
+        "pinyin": "Zhè kuài jīngtǐ fēicháng měilì tòumíng.",
+        "en": "Bu kristal parçası çok güzel ve şeffaf."
+      }
+    ]
+  },
+  {
+    "id": "w4137",
+    "hanzi": "精简",
+    "pinyin": "jīngjiǎn",
+    "meaning": "sadeleştirmek, küçültmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司决定精简部门。",
+        "pinyin": "Gōngsī juédìng jīngjiǎn bùmén.",
+        "en": "Şirket departmanları küçültmeye karar verdi."
+      },
+      {
+        "zh": "政府正在精简机构。",
+        "pinyin": "Zhèngfǔ zhèngzài jīngjiǎn jīgòu.",
+        "en": "Hükümet kurumları sadeleştiriyor."
+      },
+      {
+        "zh": "这份报告需要精简一下。",
+        "pinyin": "Zhè fèn bàogào xūyào jīngjiǎn yíxià.",
+        "en": "Bu raporun sadeleştirilmesi gerekiyor."
+      },
+      {
+        "zh": "精简人员是为了提高效率。",
+        "pinyin": "Jīngjiǎn rényuán shì wèile tígāo xiàolǜ.",
+        "en": "Personel azaltılması verimliliği artırmak içindir."
+      },
+      {
+        "zh": "他把演讲内容精简到十分钟。",
+        "pinyin": "Tā bǎ yǎnjiǎng nèiróng jīngjiǎn dào shí fēnzhōng.",
+        "en": "Konuşma içeriğini on dakikaya sadeleştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w4138",
+    "hanzi": "精美",
+    "pinyin": "jīngměi",
+    "meaning": "zarif, ince",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这是一件精美的工艺品。",
+        "pinyin": "Zhè shì yí jiàn jīngměi de gōngyìpǐn.",
+        "en": "Bu zarif bir el sanatı eseri."
+      },
+      {
+        "zh": "她收到了一份精美的礼物。",
+        "pinyin": "Tā shōudàole yí fèn jīngměi de lǐwù.",
+        "en": "İnce bir hediye aldı."
+      },
+      {
+        "zh": "这本书的插图非常精美。",
+        "pinyin": "Zhè běn shū de chātú fēicháng jīngměi.",
+        "en": "Bu kitabın resimlemeleri çok zarif."
+      },
+      {
+        "zh": "这家餐厅的餐具十分精美。",
+        "pinyin": "Zhè jiā cāntīng de cānjù shífēn jīngměi.",
+        "en": "Bu restoranın sofra takımları çok zarif."
+      },
+      {
+        "zh": "这枚精美的胸针吸引了很多人的目光。",
+        "pinyin": "Zhè méi jīngměi de xiōngzhēn xīyǐnle hěn duō rén de mùguāng.",
+        "en": "Bu zarif broş birçok kişinin dikkatini çekti."
+      }
+    ]
+  },
+  {
+    "id": "w4139",
+    "hanzi": "精明",
+    "pinyin": "jīngmíng",
+    "meaning": "zeki, kurnaz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是个精明的生意人。",
+        "pinyin": "Tā shì ge jīngmíng de shēngyi rén.",
+        "en": "O zeki bir iş adamı."
+      },
+      {
+        "zh": "她精明能干，深受老板信任。",
+        "pinyin": "Tā jīngmíng nénggàn, shēnshòu lǎobǎn xìnrèn.",
+        "en": "Zeki ve becerikli, patronunun büyük güvenini kazanmış."
+      },
+      {
+        "zh": "他做事精明，从不吃亏。",
+        "pinyin": "Tā zuòshì jīngmíng, cóng bù chīkuī.",
+        "en": "İşleri zeki bir şekilde yapar, hiç zarar etmez."
+      },
+      {
+        "zh": "精明的顾客会货比三家。",
+        "pinyin": "Jīngmíng de gùkè huì huò bǐ sān jiā.",
+        "en": "Zeki müşteriler fiyat karşılaştırması yapar."
+      },
+      {
+        "zh": "他精明的判断挽救了公司。",
+        "pinyin": "Tā jīngmíng de pànduàn wǎnjiùle gōngsī.",
+        "en": "Onun akıllı kararı şirketi kurtardı."
+      }
+    ]
+  },
+  {
+    "id": "w4140",
+    "hanzi": "精品",
+    "pinyin": "jīngpǐn",
+    "meaning": "kaliteli ürün",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这家商店专卖精品服装。",
+        "pinyin": "Zhè jiā shāngdiàn zhuānmài jīngpǐn fúzhuāng.",
+        "en": "Bu dükkân özellikle kaliteli giyim satıyor."
+      },
+      {
+        "zh": "这幅画堪称艺术精品。",
+        "pinyin": "Zhè fú huà kānchēng yìshù jīngpǐn.",
+        "en": "Bu tablo sanatsal bir başyapıt olarak nitelendirilebilir."
+      },
+      {
+        "zh": "商场里有很多精品店。",
+        "pinyin": "Shāngchǎng lǐ yǒu hěn duō jīngpǐndiàn.",
+        "en": "Alışveriş merkezinde birçok butik mağaza var."
+      },
+      {
+        "zh": "这本书是文学精品。",
+        "pinyin": "Zhè běn shū shì wénxué jīngpǐn.",
+        "en": "Bu kitap bir edebi başyapıttır."
+      },
+      {
+        "zh": "精品咖啡越来越受欢迎。",
+        "pinyin": "Jīngpǐn kāfēi yuèláiyuè shòu huānyíng.",
+        "en": "Özel kahve giderek daha popüler oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w4141",
+    "hanzi": "精巧",
+    "pinyin": "jīngqiǎo",
+    "meaning": "ustaca, ince işçilikli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个玩具设计得非常精巧。",
+        "pinyin": "Zhège wánjù shèjì de fēicháng jīngqiǎo.",
+        "en": "Bu oyuncak çok ustaca tasarlanmış."
+      },
+      {
+        "zh": "手表的机芯十分精巧。",
+        "pinyin": "Shǒubiǎo de jīxīn shífēn jīngqiǎo.",
+        "en": "Saatin mekanizması son derece ustaca yapılmış."
+      },
+      {
+        "zh": "这座桥的设计非常精巧。",
+        "pinyin": "Zhè zuò qiáo de shèjì fēicháng jīngqiǎo.",
+        "en": "Bu köprünün tasarımı çok ustaca."
+      },
+      {
+        "zh": "她做的手工艺品十分精巧。",
+        "pinyin": "Tā zuò de shǒugōngyìpǐn shífēn jīngqiǎo.",
+        "en": "Yaptığı el sanatları çok ince işçiliklidir."
+      },
+      {
+        "zh": "这个装置的构造很精巧。",
+        "pinyin": "Zhège zhuāngzhì de gòuzào hěn jīngqiǎo.",
+        "en": "Bu aletin yapısı çok ustaca tasarlanmış."
+      }
+    ]
+  },
+  {
+    "id": "w4142",
+    "hanzi": "精确",
+    "pinyin": "jīngquè",
+    "meaning": "hassas, tam doğru",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个数据非常精确。",
+        "pinyin": "Zhège shùjù fēicháng jīngquè.",
+        "en": "Bu veri çok hassas."
+      },
+      {
+        "zh": "我们需要精确的测量结果。",
+        "pinyin": "Wǒmen xūyào jīngquè de cèliáng jiéguǒ.",
+        "en": "Hassas ölçüm sonuçlarına ihtiyacımız var."
+      },
+      {
+        "zh": "这台仪器可以进行精确的分析。",
+        "pinyin": "Zhè tái yíqì kěyǐ jìnxíng jīngquè de fēnxī.",
+        "en": "Bu cihaz hassas analiz yapabilir."
+      },
+      {
+        "zh": "他计算得非常精确。",
+        "pinyin": "Tā jìsuàn de fēicháng jīngquè.",
+        "en": "Hesabı çok hassas yaptı."
+      },
+      {
+        "zh": "精确的时间对实验非常重要。",
+        "pinyin": "Jīngquè de shíjiān duì shíyàn fēicháng zhòngyào.",
+        "en": "Hassas zamanlama deney için çok önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w4143",
+    "hanzi": "精神病",
+    "pinyin": "jīngshénbìng",
+    "meaning": "akıl hastalığı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他患有严重的精神病。",
+        "pinyin": "Tā huànyǒu yánzhòng de jīngshénbìng.",
+        "en": "Ağır bir akıl hastalığına sahip."
+      },
+      {
+        "zh": "精神病需要专业治疗。",
+        "pinyin": "Jīngshénbìng xūyào zhuānyè zhìliáo.",
+        "en": "Akıl hastalığı profesyonel tedavi gerektirir."
+      },
+      {
+        "zh": "精神病患者应该得到社会的理解。",
+        "pinyin": "Jīngshénbìng huànzhě yīnggāi dédào shèhuì de lǐjiě.",
+        "en": "Akıl hastalarının toplum tarafından anlaşılması gerekir."
+      },
+      {
+        "zh": "医生诊断他患有精神病。",
+        "pinyin": "Yīshēng zhěnduàn tā huànyǒu jīngshénbìng.",
+        "en": "Doktor akıl hastalığı olduğunu teşhis etti."
+      },
+      {
+        "zh": "精神病医院正在收治病人。",
+        "pinyin": "Jīngshénbìng yīyuàn zhèngzài shōuzhì bìngrén.",
+        "en": "Akıl hastanesi hastaları kabul ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w4144",
+    "hanzi": "精通",
+    "pinyin": "jīngtōng",
+    "meaning": "bir işte usta olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他精通三门外语。",
+        "pinyin": "Tā jīngtōng sān mén wàiyǔ.",
+        "en": "Üç yabancı dile hakim."
+      },
+      {
+        "zh": "她精通计算机编程。",
+        "pinyin": "Tā jīngtōng jìsuànjī biānchéng.",
+        "en": "Bilgisayar programlamada usta."
+      },
+      {
+        "zh": "他精通中国传统文化。",
+        "pinyin": "Tā jīngtōng Zhōngguó chuántǒng wénhuà.",
+        "en": "Çin geleneksel kültürüne hakim."
+      },
+      {
+        "zh": "精通一门技艺需要多年练习。",
+        "pinyin": "Jīngtōng yì mén jìyì xūyào duō nián liànxí.",
+        "en": "Bir sanatta ustalaşmak yıllarca pratik gerektirir."
+      },
+      {
+        "zh": "他精通各种乐器。",
+        "pinyin": "Tā jīngtōng gèzhǒng yuèqì.",
+        "en": "Çeşitli enstrümanlarda ustadır."
+      }
+    ]
+  },
+  {
+    "id": "w4145",
+    "hanzi": "精细",
+    "pinyin": "jīngxì",
+    "meaning": "ince, dikkatli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这项工作需要精细的操作。",
+        "pinyin": "Zhè xiàng gōngzuò xūyào jīngxì de cāozuò.",
+        "en": "Bu iş ince bir işlem gerektiriyor."
+      },
+      {
+        "zh": "他做事一向精细认真。",
+        "pinyin": "Tā zuòshì yíxiàng jīngxì rènzhēn.",
+        "en": "İşlerini hep dikkatli ve ciddi yapar."
+      },
+      {
+        "zh": "这幅刺绣工艺十分精细。",
+        "pinyin": "Zhè fú cìxiù gōngyì shífēn jīngxì.",
+        "en": "Bu nakış işçiliği çok ince."
+      },
+      {
+        "zh": "精细的管理提高了工作效率。",
+        "pinyin": "Jīngxì de guǎnlǐ tígāole gōngzuò xiàolǜ.",
+        "en": "Dikkatli yönetim iş verimliliğini artırdı."
+      },
+      {
+        "zh": "他的绘画技巧十分精细。",
+        "pinyin": "Tā de huìhuà jìqiǎo shífēn jīngxì.",
+        "en": "Resim tekniği son derece ince ve dikkatlidir."
+      }
+    ]
+  },
+  {
+    "id": "w4146",
+    "hanzi": "精心",
+    "pinyin": "jīngxīn",
+    "meaning": "özenle, itina ile",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她精心准备了这顿晚餐。",
+        "pinyin": "Tā jīngxīn zhǔnbèile zhè dùn wǎncān.",
+        "en": "Bu akşam yemeğini özenle hazırladı."
+      },
+      {
+        "zh": "他精心设计了这个花园。",
+        "pinyin": "Tā jīngxīn shèjìle zhège huāyuán.",
+        "en": "Bu bahçeyi özenle tasarladı."
+      },
+      {
+        "zh": "老师精心批改了每份作业。",
+        "pinyin": "Lǎoshī jīngxīn pīgǎile měi fèn zuòyè.",
+        "en": "Öğretmen her ödevi özenle düzeltti."
+      },
+      {
+        "zh": "她精心照顾着生病的父亲。",
+        "pinyin": "Tā jīngxīn zhàogùzhe shēngbìng de fùqin.",
+        "en": "Hasta babasına özenle bakıyor."
+      },
+      {
+        "zh": "他精心策划了这次活动。",
+        "pinyin": "Tā jīngxīn cèhuàle zhè cì huódòng.",
+        "en": "Bu etkinliği özenle planladı."
+      }
+    ]
+  },
+  {
+    "id": "w4147",
+    "hanzi": "精致",
+    "pinyin": "jīngzhì",
+    "meaning": "zarif, ince, kaliteli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "这个盒子做得非常精致。",
+        "pinyin": "Zhège hézi zuò de fēicháng jīngzhì.",
+        "en": "Bu kutu çok zarif yapılmış."
+      },
+      {
+        "zh": "她的妆容精致优雅。",
+        "pinyin": "Tā de zhuāngróng jīngzhì yōuyǎ.",
+        "en": "Makyajı zarif ve şık."
+      },
+      {
+        "zh": "这道菜摆盘十分精致。",
+        "pinyin": "Zhè dào cài bǎipán shífēn jīngzhì.",
+        "en": "Bu yemeğin sunumu çok zarif."
+      },
+      {
+        "zh": "房间布置得精致又温馨。",
+        "pinyin": "Fángjiān bùzhì de jīngzhì yòu wēnxīn.",
+        "en": "Oda hem zarif hem de sıcak bir şekilde döşenmiş."
+      },
+      {
+        "zh": "他收藏了很多精致的瓷器。",
+        "pinyin": "Tā shōucángle hěn duō jīngzhì de cíqì.",
+        "en": "Birçok zarif porselen eser topladı."
+      }
+    ]
+  },
+  {
+    "id": "w4148",
+    "hanzi": "经度",
+    "pinyin": "jīngdù",
+    "meaning": "boylam",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "coğrafya",
+    "examples": [
+      {
+        "zh": "这座城市位于东经120度。",
+        "pinyin": "Zhè zuò chéngshì wèiyú dōngjīng yìbǎi'èrshí dù.",
+        "en": "Bu şehir doğu boylamı 120 derecede yer alıyor."
+      },
+      {
+        "zh": "经度和纬度可以确定地球上的位置。",
+        "pinyin": "Jīngdù hé wěidù kěyǐ quèdìng dìqiú shàng de wèizhì.",
+        "en": "Boylam ve enlem dünya üzerindeki bir konumu belirleyebilir."
+      },
+      {
+        "zh": "每条经度线都通过南北极。",
+        "pinyin": "Měi tiáo jīngdù xiàn dōu tōngguò nánběijí.",
+        "en": "Her boylam çizgisi kuzey ve güney kutuplarından geçer."
+      },
+      {
+        "zh": "飞机沿着一定的经度飞行。",
+        "pinyin": "Fēijī yánzhe yídìng de jīngdù fēixíng.",
+        "en": "Uçak belirli bir boylam boyunca uçuyor."
+      },
+      {
+        "zh": "他记录了这个地点的经度和纬度。",
+        "pinyin": "Tā jìlùle zhège dìdiǎn de jīngdù hé wěidù.",
+        "en": "Bu yerin boylam ve enlemini kaydetti."
+      }
+    ]
+  },
+  {
+    "id": "w4149",
+    "hanzi": "经费",
+    "pinyin": "jīngfèi",
+    "meaning": "masraf, bütçe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "学校的经费有限。",
+        "pinyin": "Xuéxiào de jīngfèi yǒuxiàn.",
+        "en": "Okulun bütçesi sınırlı."
+      },
+      {
+        "zh": "这个项目需要大量经费。",
+        "pinyin": "Zhège xiàngmù xūyào dàliàng jīngfèi.",
+        "en": "Bu proje büyük miktarda bütçe gerektiriyor."
+      },
+      {
+        "zh": "政府拨了一笔经费用于研究。",
+        "pinyin": "Zhèngfǔ bōle yì bǐ jīngfèi yòngyú yánjiū.",
+        "en": "Hükümet araştırma için bir bütçe ayırdı."
+      },
+      {
+        "zh": "我们需要合理分配经费。",
+        "pinyin": "Wǒmen xūyào hélǐ fēnpèi jīngfèi.",
+        "en": "Bütçeyi mantıklı bir şekilde dağıtmamız gerekiyor."
+      },
+      {
+        "zh": "经费不足限制了活动的规模。",
+        "pinyin": "Jīngfèi bùzú xiànzhìle huódòng de guīmó.",
+        "en": "Bütçe yetersizliği etkinliğin ölçeğini sınırladı."
+      }
+    ]
   }
 ]

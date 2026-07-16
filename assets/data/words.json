@@ -112681,5 +112681,620 @@
         "en": "Tarihte cariyeler hakkında birçok hikaye vardır."
       }
     ]
+  },
+  {
+    "id": "w3246",
+    "hanzi": "分手",
+    "pinyin": "fēnshǒu",
+    "meaning": "ayrılmak (sevgililer)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们上个月分手了。",
+        "pinyin": "Tāmen shàng ge yuè fēnshǒu le.",
+        "en": "Geçen ay ayrıldılar."
+      },
+      {
+        "zh": "分手后她很难过。",
+        "pinyin": "Fēnshǒu hòu tā hěn nánguò.",
+        "en": "Ayrıldıktan sonra çok üzüldü."
+      },
+      {
+        "zh": "我们和平分手了。",
+        "pinyin": "Wǒmen hépíng fēnshǒu le.",
+        "en": "Barışçıl bir şekilde ayrıldık."
+      },
+      {
+        "zh": "他不明白为什么她要分手。",
+        "pinyin": "Tā bù míngbai wèishénme tā yào fēnshǒu.",
+        "en": "Neden ayrılmak istediğini anlamıyor."
+      },
+      {
+        "zh": "分手是一个艰难的决定。",
+        "pinyin": "Fēnshǒu shì yí ge jiānnán de juédìng.",
+        "en": "Ayrılmak zor bir karardır."
+      }
+    ]
+  },
+  {
+    "id": "w3247",
+    "hanzi": "分享",
+    "pinyin": "fēnxiǎng",
+    "meaning": "paylaşmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "请和大家分享你的经验。",
+        "pinyin": "Qǐng hé dàjiā fēnxiǎng nǐ de jīngyàn.",
+        "en": "Lütfen deneyimini herkesle paylaş."
+      },
+      {
+        "zh": "她喜欢在网上分享照片。",
+        "pinyin": "Tā xǐhuan zài wǎngshàng fēnxiǎng zhàopiàn.",
+        "en": "İnternette fotoğraf paylaşmayı sever."
+      },
+      {
+        "zh": "我们应该分享快乐和悲伤。",
+        "pinyin": "Wǒmen yīnggāi fēnxiǎng kuàilè hé bēishāng.",
+        "en": "Mutluluğu ve üzüntüyü paylaşmalıyız."
+      },
+      {
+        "zh": "他把美食分享给了朋友们。",
+        "pinyin": "Tā bǎ měishí fēnxiǎng gěi le péngyoumen.",
+        "en": "Lezzetli yemeği arkadaşlarıyla paylaştı."
+      },
+      {
+        "zh": "分享知识可以帮助更多人。",
+        "pinyin": "Fēnxiǎng zhīshi kěyǐ bāngzhù gèng duō rén.",
+        "en": "Bilgi paylaşmak daha çok insana yardımcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w3248",
+    "hanzi": "肥胖",
+    "pinyin": "féipàng",
+    "meaning": "şişman, obez",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "肥胖会增加患病的风险。",
+        "pinyin": "Féipàng huì zēngjiā huànbìng de fēngxiǎn.",
+        "en": "Obezite hastalanma riskini artırır."
+      },
+      {
+        "zh": "他因为肥胖开始节食。",
+        "pinyin": "Tā yīnwèi féipàng kāishǐ jiéshí.",
+        "en": "Obezite nedeniyle diyet yapmaya başladı."
+      },
+      {
+        "zh": "儿童肥胖问题越来越严重。",
+        "pinyin": "Értóng féipàng wèntí yuè lái yuè yánzhòng.",
+        "en": "Çocukluk obezitesi sorunu giderek ciddileşiyor."
+      },
+      {
+        "zh": "医生建议他控制体重以防肥胖。",
+        "pinyin": "Yīshēng jiànyì tā kòngzhì tǐzhòng yǐ fáng féipàng.",
+        "en": "Doktor obeziteyi önlemek için kilosunu kontrol etmesini önerdi."
+      },
+      {
+        "zh": "缺乏运动是导致肥胖的原因之一。",
+        "pinyin": "Quēfá yùndòng shì dǎozhì féipàng de yuányīn zhī yī.",
+        "en": "Hareketsizlik obeziteye yol açan nedenlerden biridir."
+      }
+    ]
+  },
+  {
+    "id": "w3249",
+    "hanzi": "肥沃",
+    "pinyin": "féiwò",
+    "meaning": "verimli, bereketli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这片土地非常肥沃。",
+        "pinyin": "Zhè piàn tǔdì fēicháng féiwò.",
+        "en": "Bu toprak çok verimli."
+      },
+      {
+        "zh": "河流冲积形成了肥沃的平原。",
+        "pinyin": "Héliú chōngjī xíngchéng le féiwò de píngyuán.",
+        "en": "Nehir sedimentasyonu verimli bir ova oluşturdu."
+      },
+      {
+        "zh": "肥沃的土壤适合种植各种作物。",
+        "pinyin": "Féiwò de tǔrǎng shìhé zhòngzhí gèzhǒng zuòwù.",
+        "en": "Verimli toprak çeşitli ürünler yetiştirmek için uygundur."
+      },
+      {
+        "zh": "这个地区因肥沃的土地而闻名。",
+        "pinyin": "Zhège dìqū yīn féiwò de tǔdì ér wénmíng.",
+        "en": "Bu bölge verimli topraklarıyla ünlüdür."
+      },
+      {
+        "zh": "农民们珍视这片肥沃的土地。",
+        "pinyin": "Nóngmínmen zhēnshì zhè piàn féiwò de tǔdì.",
+        "en": "Çiftçiler bu verimli toprağa değer verir."
+      }
+    ]
+  },
+  {
+    "id": "w3250",
+    "hanzi": "费劲",
+    "pinyin": "fèijìn",
+    "meaning": "zahmetli, yorucu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "搬这些箱子真费劲。",
+        "pinyin": "Bān zhèxiē xiāngzi zhēn fèijìn.",
+        "en": "Bu kutuları taşımak gerçekten yorucu."
+      },
+      {
+        "zh": "说服他费了不少劲。",
+        "pinyin": "Shuōfú tā fèi le bù shǎo jìn.",
+        "en": "Onu ikna etmek epey zor oldu."
+      },
+      {
+        "zh": "这个问题很费劲才解决。",
+        "pinyin": "Zhège wèntí hěn fèijìn cái jiějué.",
+        "en": "Bu sorun ancak büyük çaba ile çözüldü."
+      },
+      {
+        "zh": "爬这座山非常费劲。",
+        "pinyin": "Pá zhè zuò shān fēicháng fèijìn.",
+        "en": "Bu dağa tırmanmak çok yorucu."
+      },
+      {
+        "zh": "教这个孩子写字很费劲。",
+        "pinyin": "Jiāo zhège háizi xiězì hěn fèijìn.",
+        "en": "Bu çocuğa yazı yazmayı öğretmek çok zahmetli."
+      }
+    ]
+  },
+  {
+    "id": "w3251",
+    "hanzi": "费力",
+    "pinyin": "fèilì",
+    "meaning": "emek gerektirmek, gayret gerektirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这项工作既费时又费力。",
+        "pinyin": "Zhè xiàng gōngzuò jì fèishí yòu fèilì.",
+        "en": "Bu iş hem zaman hem de emek gerektiriyor."
+      },
+      {
+        "zh": "他不费力就解决了这个问题。",
+        "pinyin": "Tā bú fèilì jiù jiějué le zhège wèntí.",
+        "en": "Bu sorunu hiç zorlanmadan çözdü."
+      },
+      {
+        "zh": "说服他需要费力。",
+        "pinyin": "Shuōfú tā xūyào fèilì.",
+        "en": "Onu ikna etmek çaba gerektiriyor."
+      },
+      {
+        "zh": "这台机器让搬运不再费力。",
+        "pinyin": "Zhè tái jīqì ràng bānyùn bú zài fèilì.",
+        "en": "Bu makine taşımayı artık zahmetsiz hale getirdi."
+      },
+      {
+        "zh": "学习一门新语言很费力。",
+        "pinyin": "Xuéxí yì mén xīn yǔyán hěn fèilì.",
+        "en": "Yeni bir dil öğrenmek çok emek gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w3252",
+    "hanzi": "废墟",
+    "pinyin": "fèixū",
+    "meaning": "enkaz, harabe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "地震后城市变成了一片废墟。",
+        "pinyin": "Dìzhèn hòu chéngshì biànchéng le yí piàn fèixū.",
+        "en": "Depremden sonra şehir bir enkaz yığınına dönüştü."
+      },
+      {
+        "zh": "考古学家在废墟中发现了古代文物。",
+        "pinyin": "Kǎogǔ xuéjiā zài fèixū zhōng fāxiàn le gǔdài wénwù.",
+        "en": "Arkeologlar harabelerde antik eserler buldu."
+      },
+      {
+        "zh": "战争把这座城市变成了废墟。",
+        "pinyin": "Zhànzhēng bǎ zhè zuò chéngshì biànchéng le fèixū.",
+        "en": "Savaş bu şehri harabeye çevirdi."
+      },
+      {
+        "zh": "他们在废墟中搜寻幸存者。",
+        "pinyin": "Tāmen zài fèixū zhōng sōuxún xìngcúnzhě.",
+        "en": "Enkazda hayatta kalanları arıyorlar."
+      },
+      {
+        "zh": "这座古老的废墟吸引了很多游客。",
+        "pinyin": "Zhè zuò gǔlǎo de fèixū xīyǐn le hěn duō yóukè.",
+        "en": "Bu eski harabe birçok turisti çekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3253",
+    "hanzi": "肺炎",
+    "pinyin": "fèiyán",
+    "meaning": "zatürre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因为肺炎住院了。",
+        "pinyin": "Tā yīnwèi fèiyán zhùyuàn le.",
+        "en": "Zatürre nedeniyle hastaneye yattı."
+      },
+      {
+        "zh": "肺炎的症状包括发烧和咳嗽。",
+        "pinyin": "Fèiyán de zhèngzhuàng bāokuò fāshāo hé késou.",
+        "en": "Zatürrenin belirtileri ateş ve öksürüğü içerir."
+      },
+      {
+        "zh": "老年人得肺炎的风险更高。",
+        "pinyin": "Lǎonián rén dé fèiyán de fēngxiǎn gèng gāo.",
+        "en": "Yaşlılarda zatürre riski daha yüksektir."
+      },
+      {
+        "zh": "医生诊断他患有肺炎。",
+        "pinyin": "Yīshēng zhěnduàn tā huàn yǒu fèiyán.",
+        "en": "Doktor zatürre teşhisi koydu."
+      },
+      {
+        "zh": "及时治疗可以预防肺炎恶化。",
+        "pinyin": "Jíshí zhìliáo kěyǐ yùfáng fèiyán èhuà.",
+        "en": "Zamanında tedavi zatürrenin kötüleşmesini önleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3254",
+    "hanzi": "分辨",
+    "pinyin": "fēnbiàn",
+    "meaning": "ayırt etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我无法分辨这两种颜色。",
+        "pinyin": "Wǒ wúfǎ fēnbiàn zhè liǎng zhǒng yánsè.",
+        "en": "Bu iki rengi ayırt edemiyorum."
+      },
+      {
+        "zh": "他能分辨真假消息。",
+        "pinyin": "Tā néng fēnbiàn zhēnjiǎ xiāoxi.",
+        "en": "Gerçek ve sahte haberleri ayırt edebiliyor."
+      },
+      {
+        "zh": "双胞胎很难分辨。",
+        "pinyin": "Shuāngbāotāi hěn nán fēnbiàn.",
+        "en": "İkizleri ayırt etmek çok zor."
+      },
+      {
+        "zh": "孩子学会了分辨对错。",
+        "pinyin": "Háizi xuéhuì le fēnbiàn duìcuò.",
+        "en": "Çocuk doğru ile yanlışı ayırt etmeyi öğrendi."
+      },
+      {
+        "zh": "请仔细分辨这两个字的区别。",
+        "pinyin": "Qǐng zǐxì fēnbiàn zhè liǎng ge zì de qūbié.",
+        "en": "Lütfen bu iki karakterin farkını dikkatle ayırt edin."
+      }
+    ]
+  },
+  {
+    "id": "w3255",
+    "hanzi": "分担",
+    "pinyin": "fēndān",
+    "meaning": "sorumluluğu paylaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "家务应该由全家人分担。",
+        "pinyin": "Jiāwù yīnggāi yóu quánjiārén fēndān.",
+        "en": "Ev işleri tüm aile üyeleri tarafından paylaşılmalıdır."
+      },
+      {
+        "zh": "他愿意分担这份工作的压力。",
+        "pinyin": "Tā yuànyì fēndān zhè fèn gōngzuò de yālì.",
+        "en": "Bu işin baskısını paylaşmaya istekli."
+      },
+      {
+        "zh": "朋友们分担了他的悲伤。",
+        "pinyin": "Péngyoumen fēndān le tā de bēishāng.",
+        "en": "Arkadaşları onun üzüntüsünü paylaştı."
+      },
+      {
+        "zh": "请大家分担一下这些费用。",
+        "pinyin": "Qǐng dàjiā fēndān yíxià zhèxiē fèiyòng.",
+        "en": "Lütfen herkes bu masrafları paylaşsın."
+      },
+      {
+        "zh": "团队成员共同分担了责任。",
+        "pinyin": "Tuánduì chéngyuán gòngtóng fēndān le zérèn.",
+        "en": "Ekip üyeleri sorumluluğu birlikte paylaştı."
+      }
+    ]
+  },
+  {
+    "id": "w3256",
+    "hanzi": "分工",
+    "pinyin": "fēngōng",
+    "meaning": "iş bölümü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "团队中每个人都有明确的分工。",
+        "pinyin": "Tuánduì zhōng měi ge rén dōu yǒu míngquè de fēngōng.",
+        "en": "Ekipteki herkesin net bir iş bölümü var."
+      },
+      {
+        "zh": "家庭中的分工应该合理。",
+        "pinyin": "Jiātíng zhōng de fēngōng yīnggāi hélǐ.",
+        "en": "Aile içindeki iş bölümü makul olmalı."
+      },
+      {
+        "zh": "他们按照分工完成了这个项目。",
+        "pinyin": "Tāmen ànzhào fēngōng wánchéng le zhège xiàngmù.",
+        "en": "Bu projeyi iş bölümüne göre tamamladılar."
+      },
+      {
+        "zh": "良好的分工可以提高效率。",
+        "pinyin": "Liánghǎo de fēngōng kěyǐ tígāo xiàolǜ.",
+        "en": "İyi bir iş bölümü verimliliği artırabilir."
+      },
+      {
+        "zh": "我们需要重新调整分工。",
+        "pinyin": "Wǒmen xūyào chóngxīn tiáozhěng fēngōng.",
+        "en": "İş bölümünü yeniden düzenlememiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w3257",
+    "hanzi": "分号",
+    "pinyin": "fēnhào",
+    "meaning": "noktalı virgül",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这两个句子之间应该用分号。",
+        "pinyin": "Zhè liǎng ge jùzi zhījiān yīnggāi yòng fēnhào.",
+        "en": "Bu iki cümle arasında noktalı virgül kullanılmalı."
+      },
+      {
+        "zh": "分号用来分隔两个相关的分句。",
+        "pinyin": "Fēnhào yònglái fēngé liǎng ge xiāngguān de fēnjù.",
+        "en": "Noktalı virgül, iki ilişkili cümleyi ayırmak için kullanılır."
+      },
+      {
+        "zh": "他忘记在句子中加分号了。",
+        "pinyin": "Tā wàngjì zài jùzi zhōng jiā fēnhào le.",
+        "en": "Cümleye noktalı virgül eklemeyi unuttu."
+      },
+      {
+        "zh": "老师讲解了分号的正确用法。",
+        "pinyin": "Lǎoshī jiǎngjiě le fēnhào de zhèngquè yòngfǎ.",
+        "en": "Öğretmen noktalı virgülün doğru kullanımını anlattı."
+      },
+      {
+        "zh": "请检查这段话中分号的使用是否正确。",
+        "pinyin": "Qǐng jiǎnchá zhè duàn huà zhōng fēnhào de shǐyòng shìfǒu zhèngquè.",
+        "en": "Lütfen bu paragraftaki noktalı virgül kullanımının doğru olup olmadığını kontrol edin."
+      }
+    ]
+  },
+  {
+    "id": "w3258",
+    "hanzi": "分散",
+    "pinyin": "fēnsàn",
+    "meaning": "dağılmak, yayılmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "人群很快分散开了。",
+        "pinyin": "Rénqún hěn kuài fēnsàn kāi le.",
+        "en": "Kalabalık çok hızlı dağıldı."
+      },
+      {
+        "zh": "请把注意力集中，不要分散。",
+        "pinyin": "Qǐng bǎ zhùyìlì jízhōng, búyào fēnsàn.",
+        "en": "Lütfen dikkatinizi toplayın, dağıtmayın."
+      },
+      {
+        "zh": "投资分散可以降低风险。",
+        "pinyin": "Tóuzī fēnsàn kěyǐ jiàngdī fēngxiǎn.",
+        "en": "Yatırımı dağıtmak riski azaltabilir."
+      },
+      {
+        "zh": "学生们分散在图书馆各处学习。",
+        "pinyin": "Xuéshengmen fēnsàn zài túshūguǎn gèchù xuéxí.",
+        "en": "Öğrenciler kütüphanenin farklı yerlerine dağılarak çalışıyor."
+      },
+      {
+        "zh": "噪音让他很难集中，容易分散注意力。",
+        "pinyin": "Zàoyīn ràng tā hěn nán jízhōng, róngyì fēnsàn zhùyìlì.",
+        "en": "Gürültü onun odaklanmasını zorlaştırıyor, dikkati kolayca dağılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3259",
+    "hanzi": "诽谤",
+    "pinyin": "fěibàng",
+    "meaning": "iftira etmek, karalamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "他因诽谤他人而被起诉。",
+        "pinyin": "Tā yīn fěibàng tārén ér bèi qǐsù.",
+        "en": "Başkasına iftira attığı için dava edildi."
+      },
+      {
+        "zh": "这篇文章充满了诽谤性言论。",
+        "pinyin": "Zhè piān wénzhāng chōngmǎn le fěibàngxìng yánlùn.",
+        "en": "Bu makale iftira niteliğinde ifadelerle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w3260",
+    "hanzi": "废除",
+    "pinyin": "fèichú",
+    "meaning": "yürürlükten kaldırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这项法律已经被废除了。",
+        "pinyin": "Zhè xiàng fǎlǜ yǐjīng bèi fèichú le.",
+        "en": "Bu kanun zaten yürürlükten kaldırıldı."
+      },
+      {
+        "zh": "政府决定废除这项旧制度。",
+        "pinyin": "Zhèngfǔ juédìng fèichú zhè xiàng jiù zhìdù.",
+        "en": "Hükümet bu eski sistemi kaldırmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3261",
+    "hanzi": "分寸",
+    "pinyin": "fēncùn",
+    "meaning": "ölçü, uygunluk (davranışta)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "说话要有分寸。",
+        "pinyin": "Shuōhuà yào yǒu fēncùn.",
+        "en": "Konuşurken ölçülü olmak gerekir."
+      },
+      {
+        "zh": "他做事总是很有分寸。",
+        "pinyin": "Tā zuòshì zǒngshì hěn yǒu fēncùn.",
+        "en": "İşlerinde her zaman ölçülü davranır."
+      }
+    ]
+  },
+  {
+    "id": "w3262",
+    "hanzi": "分居",
+    "pinyin": "fēnjū",
+    "meaning": "ayrı yaşamak (evli çift)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们已经分居两年了。",
+        "pinyin": "Tāmen yǐjīng fēnjū liǎng nián le.",
+        "en": "İki yıldır ayrı yaşıyorlar."
+      },
+      {
+        "zh": "分居后他们仍然保持联系。",
+        "pinyin": "Fēnjū hòu tāmen réngrán bǎochí liánxì.",
+        "en": "Ayrı yaşamalarına rağmen hâlâ iletişim halindeler."
+      }
+    ]
+  },
+  {
+    "id": "w3263",
+    "hanzi": "分裂",
+    "pinyin": "fēnliè",
+    "meaning": "bölünmek, parçalanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国家不能分裂。",
+        "pinyin": "Guójiā bù néng fēnliè.",
+        "en": "Ülke bölünemez."
+      },
+      {
+        "zh": "内部意见分裂导致了组织解散。",
+        "pinyin": "Nèibù yìjiàn fēnliè dǎozhì le zǔzhī jiěsàn.",
+        "en": "İç görüş ayrılıkları örgütün dağılmasına neden oldu."
+      }
+    ]
+  },
+  {
+    "id": "w3264",
+    "hanzi": "分泌",
+    "pinyin": "fēnmì",
+    "meaning": "salgılamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这种腺体分泌激素。",
+        "pinyin": "Zhè zhǒng xiàntǐ fēnmì jīsù.",
+        "en": "Bu bez hormon salgılıyor."
+      },
+      {
+        "zh": "压力会影响身体的激素分泌。",
+        "pinyin": "Yālì huì yǐngxiǎng shēntǐ de jīsù fēnmì.",
+        "en": "Stres vücudun hormon salgılamasını etkileyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w3265",
+    "hanzi": "分歧",
+    "pinyin": "fēnqí",
+    "meaning": "anlaşmazlık, farklılık",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "双方在这个问题上存在分歧。",
+        "pinyin": "Shuāngfāng zài zhège wèntí shàng cúnzài fēnqí.",
+        "en": "Bu konuda iki taraf arasında anlaşmazlık var."
+      },
+      {
+        "zh": "他们成功解决了意见分歧。",
+        "pinyin": "Tāmen chénggōng jiějué le yìjiàn fēnqí.",
+        "en": "Görüş ayrılıklarını başarıyla çözdüler."
+      }
+    ]
   }
 ]

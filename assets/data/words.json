@@ -132340,5 +132340,839 @@
         "en": "Tarihten deneyim ve dersler çıkarmalıyız."
       }
     ]
+  },
+  {
+    "id": "w3862",
+    "hanzi": "集会",
+    "pinyin": "jíhuì",
+    "meaning": "toplantı, miting",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "学生们在广场举行集会。",
+        "pinyin": "Xuéshengmen zài guǎngchǎng jǔxíng jíhuì.",
+        "en": "Öğrenciler meydanda bir miting düzenledi."
+      },
+      {
+        "zh": "这次集会吸引了很多人参加。",
+        "pinyin": "Zhè cì jíhuì xīyǐnle hěn duō rén cānjiā.",
+        "en": "Bu miting birçok kişinin katılımını çekti."
+      },
+      {
+        "zh": "政府禁止未经批准的集会。",
+        "pinyin": "Zhèngfǔ jìnzhǐ wèi jīng pīzhǔn de jíhuì.",
+        "en": "Hükümet izinsiz mitingleri yasaklıyor."
+      },
+      {
+        "zh": "工人们举行集会要求提高工资。",
+        "pinyin": "Gōngrénmen jǔxíng jíhuì yāoqiú tígāo gōngzī.",
+        "en": "İşçiler ücret artışı talep etmek için miting düzenledi."
+      },
+      {
+        "zh": "集会现场秩序井然。",
+        "pinyin": "Jíhuì xiànchǎng zhìxù jǐngrán.",
+        "en": "Miting alanında düzen çok iyiydi."
+      }
+    ]
+  },
+  {
+    "id": "w3863",
+    "hanzi": "集团",
+    "pinyin": "jítuán",
+    "meaning": "grup, holding",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这是一家大型企业集团。",
+        "pinyin": "Zhè shì yì jiā dàxíng qǐyè jítuán.",
+        "en": "Bu büyük bir şirketler grubu."
+      },
+      {
+        "zh": "他在一家跨国集团工作。",
+        "pinyin": "Tā zài yì jiā kuàguó jítuán gōngzuò.",
+        "en": "Uluslararası bir grup şirkette çalışıyor."
+      },
+      {
+        "zh": "这个犯罪集团被警方摧毁了。",
+        "pinyin": "Zhège fànzuì jítuán bèi jǐngfāng cuīhuǐ le.",
+        "en": "Bu suç örgütü polis tarafından çökertildi."
+      },
+      {
+        "zh": "该集团旗下有多家子公司。",
+        "pinyin": "Gāi jítuán qíxià yǒu duō jiā zǐgōngsī.",
+        "en": "Bu grubun altında birçok yan şirket var."
+      },
+      {
+        "zh": "利益集团影响着政策制定。",
+        "pinyin": "Lìyì jítuán yǐngxiǎngzhe zhèngcè zhìdìng.",
+        "en": "Çıkar grupları politika oluşturmayı etkiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w3864",
+    "hanzi": "集市",
+    "pinyin": "jíshì",
+    "meaning": "pazar (panayır)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "农民把蔬菜拿到集市上卖。",
+        "pinyin": "Nóngmín bǎ shūcài ná dào jíshì shàng mài.",
+        "en": "Çiftçi sebzeleri pazara satmaya götürdü."
+      },
+      {
+        "zh": "集市上人来人往，非常热闹。",
+        "pinyin": "Jíshì shàng rén lái rén wǎng, fēicháng rènao.",
+        "en": "Pazarda insan gelip gidiyor, çok kalabalık."
+      },
+      {
+        "zh": "我们每周去一次集市。",
+        "pinyin": "Wǒmen měi zhōu qù yí cì jíshì.",
+        "en": "Her hafta bir kez pazara gidiyoruz."
+      },
+      {
+        "zh": "集市上什么都能买到。",
+        "pinyin": "Jíshì shàng shénme dōu néng mǎidào.",
+        "en": "Pazarda her şey bulunabiliyor."
+      },
+      {
+        "zh": "这个小镇的集市已经有上百年历史。",
+        "pinyin": "Zhège xiǎozhèn de jíshì yǐjīng yǒu shàng bǎi nián lìshǐ.",
+        "en": "Bu kasabanın pazarının yüz yılı aşkın bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w3865",
+    "hanzi": "集邮",
+    "pinyin": "jíyóu",
+    "meaning": "pul koleksiyonculuğu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他从小就喜欢集邮。",
+        "pinyin": "Tā cóngxiǎo jiù xǐhuan jíyóu.",
+        "en": "Küçüklüğünden beri pul koleksiyonu yapmayı sever."
+      },
+      {
+        "zh": "集邮是一项有趣的爱好。",
+        "pinyin": "Jíyóu shì yí xiàng yǒuqù de àihào.",
+        "en": "Pul koleksiyonu ilginç bir hobidir."
+      },
+      {
+        "zh": "他收藏了几百枚邮票。",
+        "pinyin": "Tā shōucángle jǐ bǎi méi yóupiào.",
+        "en": "Yüzlerce pul biriktirdi."
+      },
+      {
+        "zh": "集邮爱好者经常互相交换邮票。",
+        "pinyin": "Jíyóu àihàozhě jīngcháng hùxiāng jiāohuàn yóupiào.",
+        "en": "Pul meraklıları sık sık birbirleriyle pul takas eder."
+      },
+      {
+        "zh": "这枚珍贵的邮票是他集邮生涯的骄傲。",
+        "pinyin": "Zhè méi zhēnguì de yóupiào shì tā jíyóu shēngyá de jiāo'ào.",
+        "en": "Bu değerli pul, koleksiyonculuk hayatının gururu."
+      }
+    ]
+  },
+  {
+    "id": "w3866",
+    "hanzi": "集装箱",
+    "pinyin": "jízhuāngxiāng",
+    "meaning": "konteyner",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "港口停靠着许多集装箱船。",
+        "pinyin": "Gǎngkǒu tíngkàozhe xǔduō jízhuāngxiāngchuán.",
+        "en": "Limanda birçok konteyner gemisi demirli."
+      },
+      {
+        "zh": "这些货物用集装箱运输。",
+        "pinyin": "Zhèxiē huòwù yòng jízhuāngxiāng yùnshū.",
+        "en": "Bu mallar konteynerle taşınıyor."
+      },
+      {
+        "zh": "一个集装箱可以装很多货物。",
+        "pinyin": "Yí ge jízhuāngxiāng kěyǐ zhuāng hěn duō huòwù.",
+        "en": "Bir konteyner çok fazla eşya taşıyabilir."
+      },
+      {
+        "zh": "工人们正在装卸集装箱。",
+        "pinyin": "Gōngrénmen zhèngzài zhuāngxiè jízhuāngxiāng.",
+        "en": "İşçiler konteynerleri yüklüyor ve boşaltıyor."
+      },
+      {
+        "zh": "集装箱运输大大提高了物流效率。",
+        "pinyin": "Jízhuāngxiāng yùnshū dàdà tígāole wùliú xiàolǜ.",
+        "en": "Konteyner taşımacılığı lojistik verimliliği büyük ölçüde artırdı."
+      }
+    ]
+  },
+  {
+    "id": "w3867",
+    "hanzi": "集资",
+    "pinyin": "jízī",
+    "meaning": "sermaye toplamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "村民们集资修建了一条公路。",
+        "pinyin": "Cūnmínmen jízī xiūjiànle yì tiáo gōnglù.",
+        "en": "Köylüler para toplayarak bir yol yaptırdı."
+      },
+      {
+        "zh": "公司通过集资扩大了生产规模。",
+        "pinyin": "Gōngsī tōngguò jízī kuòdàle shēngchǎn guīmó.",
+        "en": "Şirket sermaye toplayarak üretim ölçeğini genişletti."
+      }
+    ]
+  },
+  {
+    "id": "w3868",
+    "hanzi": "极点",
+    "pinyin": "jídiǎn",
+    "meaning": "en uç nokta, sınır",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "他的耐心已经到了极点。",
+        "pinyin": "Tā de nàixīn yǐjīng dàole jídiǎn.",
+        "en": "Sabrı son noktasına ulaştı."
+      },
+      {
+        "zh": "这种痛苦达到了极点。",
+        "pinyin": "Zhè zhǒng tòngkǔ dádàole jídiǎn.",
+        "en": "Bu acı en uç noktaya ulaştı."
+      },
+      {
+        "zh": "他的愤怒已经到达极点。",
+        "pinyin": "Tā de fènnù yǐjīng dàodá jídiǎn.",
+        "en": "Öfkesi son noktasına ulaştı."
+      },
+      {
+        "zh": "气温降到了极点。",
+        "pinyin": "Qìwēn jiàngdàole jídiǎn.",
+        "en": "Sıcaklık en düşük seviyeye indi."
+      },
+      {
+        "zh": "快乐达到了极点。",
+        "pinyin": "Kuàilè dádàole jídiǎn.",
+        "en": "Mutluluk zirveye ulaştı."
+      }
+    ]
+  },
+  {
+    "id": "w3869",
+    "hanzi": "极度",
+    "pinyin": "jídù",
+    "meaning": "aşırı derecede",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他感到极度疲惫。",
+        "pinyin": "Tā gǎndào jídù píbèi.",
+        "en": "Aşırı derecede yorgun hissediyor."
+      },
+      {
+        "zh": "这个消息让她极度兴奋。",
+        "pinyin": "Zhège xiāoxi ràng tā jídù xīngfèn.",
+        "en": "Bu haber onu aşırı derecede heyecanlandırdı."
+      },
+      {
+        "zh": "病人处于极度虚弱的状态。",
+        "pinyin": "Bìngrén chǔyú jídù xūruò de zhuàngtài.",
+        "en": "Hasta aşırı derecede zayıf bir durumda."
+      },
+      {
+        "zh": "他对这个结果极度不满。",
+        "pinyin": "Tā duì zhège jiéguǒ jídù bùmǎn.",
+        "en": "Bu sonuçtan aşırı derecede memnuniyetsiz."
+      },
+      {
+        "zh": "极度的压力让他难以入睡。",
+        "pinyin": "Jídù de yālì ràng tā nányǐ rùshuì.",
+        "en": "Aşırı stres uykuya dalmasını zorlaştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3870",
+    "hanzi": "极端",
+    "pinyin": "jíduān",
+    "meaning": "aşırı, uç",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他的想法很极端。",
+        "pinyin": "Tā de xiǎngfǎ hěn jíduān.",
+        "en": "Fikri çok aşırı."
+      },
+      {
+        "zh": "不要采取极端的做法。",
+        "pinyin": "Bú yào cǎiqǔ jíduān de zuòfǎ.",
+        "en": "Aşırı yöntemler benimsemeyin."
+      },
+      {
+        "zh": "这种极端天气很少见。",
+        "pinyin": "Zhè zhǒng jíduān tiānqì hěn shǎojiàn.",
+        "en": "Bu tür aşırı hava koşulları nadir görülür."
+      },
+      {
+        "zh": "他因极端情绪失去了理智。",
+        "pinyin": "Tā yīn jíduān qíngxù shīqùle lǐzhì.",
+        "en": "Aşırı duygular yüzünden aklını kaybetti."
+      },
+      {
+        "zh": "双方立场都很极端。",
+        "pinyin": "Shuāngfāng lìchǎng dōu hěn jíduān.",
+        "en": "İki tarafın da tutumu çok uç."
+      }
+    ]
+  },
+  {
+    "id": "w3871",
+    "hanzi": "极力",
+    "pinyin": "jílì",
+    "meaning": "elinden geldiğince",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他极力劝说我留下来。",
+        "pinyin": "Tā jílì quànshuō wǒ liú xiàlai.",
+        "en": "Beni kalmam için elinden geleni yaparak ikna etmeye çalıştı."
+      },
+      {
+        "zh": "大家极力反对这个提议。",
+        "pinyin": "Dàjiā jílì fǎnduì zhège tíyì.",
+        "en": "Herkes bu öneriye şiddetle karşı çıktı."
+      },
+      {
+        "zh": "他极力掩饰自己的紧张。",
+        "pinyin": "Tā jílì yǎnshì zìjǐ de jǐnzhāng.",
+        "en": "Gerginliğini elinden geldiğince gizlemeye çalıştı."
+      },
+      {
+        "zh": "老师极力鼓励学生们发言。",
+        "pinyin": "Lǎoshī jílì gǔlì xuéshengmen fāyán.",
+        "en": "Öğretmen öğrencileri konuşmaya elinden geldiğince teşvik etti."
+      },
+      {
+        "zh": "政府极力控制通货膨胀。",
+        "pinyin": "Zhèngfǔ jílì kòngzhì tōnghuò péngzhàng.",
+        "en": "Hükümet enflasyonu elinden geldiğince kontrol etmeye çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w3872",
+    "hanzi": "极限",
+    "pinyin": "jíxiàn",
+    "meaning": "sınır, limit",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "他挑战了自己的体能极限。",
+        "pinyin": "Tā tiǎozhànle zìjǐ de tǐnéng jíxiàn.",
+        "en": "Kendi fiziksel sınırlarına meydan okudu."
+      },
+      {
+        "zh": "这台机器已经达到了工作极限。",
+        "pinyin": "Zhè tái jīqì yǐjīng dádàole gōngzuò jíxiàn.",
+        "en": "Bu makine çalışma sınırına ulaştı."
+      },
+      {
+        "zh": "人的忍耐是有极限的。",
+        "pinyin": "Rén de rěnnài shì yǒu jíxiàn de.",
+        "en": "İnsanın sabrının bir sınırı vardır."
+      },
+      {
+        "zh": "运动员挑战了速度的极限。",
+        "pinyin": "Yùndòngyuán tiǎozhànle sùdù de jíxiàn.",
+        "en": "Sporcu hız sınırına meydan okudu."
+      },
+      {
+        "zh": "这项技术已经接近极限。",
+        "pinyin": "Zhè xiàng jìshù yǐjīng jiējìn jíxiàn.",
+        "en": "Bu teknoloji sınırına yaklaştı."
+      }
+    ]
+  },
+  {
+    "id": "w3873",
+    "hanzi": "即便",
+    "pinyin": "jíbiàn",
+    "meaning": "hatta...olsa bile",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "即便下雨，我们也要去。",
+        "pinyin": "Jíbiàn xiàyǔ, wǒmen yě yào qù.",
+        "en": "Yağmur yağsa bile gideceğiz."
+      },
+      {
+        "zh": "即便再难，他也不会放弃。",
+        "pinyin": "Jíbiàn zài nán, tā yě bú huì fàngqì.",
+        "en": "Ne kadar zor olursa olsun vazgeçmeyecek."
+      }
+    ]
+  },
+  {
+    "id": "w3874",
+    "hanzi": "即将",
+    "pinyin": "jíjiāng",
+    "meaning": "yakında, -mek üzere",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "火车即将到站。",
+        "pinyin": "Huǒchē jíjiāng dàozhàn.",
+        "en": "Tren istasyona varmak üzere."
+      },
+      {
+        "zh": "春节即将来临。",
+        "pinyin": "Chūnjié jíjiāng láilín.",
+        "en": "Bahar Bayramı yakında geliyor."
+      },
+      {
+        "zh": "他即将大学毕业。",
+        "pinyin": "Tā jíjiāng dàxué bìyè.",
+        "en": "Üniversiteden mezun olmak üzere."
+      },
+      {
+        "zh": "会议即将开始。",
+        "pinyin": "Huìyì jíjiāng kāishǐ.",
+        "en": "Toplantı başlamak üzere."
+      },
+      {
+        "zh": "新产品即将上市。",
+        "pinyin": "Xīn chǎnpǐn jíjiāng shàngshì.",
+        "en": "Yeni ürün yakında piyasaya çıkacak."
+      }
+    ]
+  },
+  {
+    "id": "w3875",
+    "hanzi": "即刻",
+    "pinyin": "jíkè",
+    "meaning": "hemen, derhal",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "请即刻回复我的邮件。",
+        "pinyin": "Qǐng jíkè huífù wǒ de yóujiàn.",
+        "en": "Lütfen mailime hemen cevap verin."
+      },
+      {
+        "zh": "他即刻动身前往机场。",
+        "pinyin": "Tā jíkè dòngshēn qiánwǎng jīchǎng.",
+        "en": "Hemen yola çıkıp havaalanına gitti."
+      },
+      {
+        "zh": "收到通知后请即刻处理。",
+        "pinyin": "Shōudào tōngzhī hòu qǐng jíkè chǔlǐ.",
+        "en": "Bildirimi aldıktan sonra lütfen hemen işlem yapın."
+      },
+      {
+        "zh": "命令下达后部队即刻出发。",
+        "pinyin": "Mìnglìng xiàdá hòu bùduì jíkè chūfā.",
+        "en": "Emir verildikten sonra birlik hemen yola çıktı."
+      },
+      {
+        "zh": "请即刻联系我们的客服。",
+        "pinyin": "Qǐng jíkè liánxì wǒmen de kèfú.",
+        "en": "Lütfen hemen müşteri hizmetlerimizle iletişime geçin."
+      }
+    ]
+  },
+  {
+    "id": "w3876",
+    "hanzi": "即兴",
+    "pinyin": "jíxìng",
+    "meaning": "doğaçlama",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他即兴发表了一段演讲。",
+        "pinyin": "Tā jíxìng fābiǎole yí duàn yǎnjiǎng.",
+        "en": "Doğaçlama bir konuşma yaptı."
+      },
+      {
+        "zh": "这首曲子是他即兴创作的。",
+        "pinyin": "Zhè shǒu qǔzi shì tā jíxìng chuàngzuò de.",
+        "en": "Bu parça onun doğaçlama bestesi."
+      },
+      {
+        "zh": "演员们进行了即兴表演。",
+        "pinyin": "Yǎnyuánmen jìnxíngle jíxìng biǎoyǎn.",
+        "en": "Oyuncular doğaçlama bir gösteri yaptı."
+      },
+      {
+        "zh": "他擅长即兴发挥。",
+        "pinyin": "Tā shàncháng jíxìng fāhuī.",
+        "en": "Doğaçlama yapmakta ustadır."
+      },
+      {
+        "zh": "这场即兴音乐会非常精彩。",
+        "pinyin": "Zhè chǎng jíxìng yīnyuèhuì fēicháng jīngcǎi.",
+        "en": "Bu doğaçlama konser çok başarılıydı."
+      }
+    ]
+  },
+  {
+    "id": "w3877",
+    "hanzi": "急件",
+    "pinyin": "jíjiàn",
+    "meaning": "acil belge, acil evrak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这是一份急件，请尽快处理。",
+        "pinyin": "Zhè shì yí fèn jíjiàn, qǐng jǐnkuài chǔlǐ.",
+        "en": "Bu acil bir evrak, lütfen en kısa sürede halledin."
+      },
+      {
+        "zh": "秘书把急件送到了经理办公室。",
+        "pinyin": "Mìshū bǎ jíjiàn sòngdàole jīnglǐ bàngōngshì.",
+        "en": "Sekreter acil evrakı müdürün ofisine götürdü."
+      },
+      {
+        "zh": "邮局提供急件快递服务。",
+        "pinyin": "Yóujú tígōng jíjiàn kuàidì fúwù.",
+        "en": "Postane acil kargo hizmeti sunuyor."
+      },
+      {
+        "zh": "这批急件必须今天寄出。",
+        "pinyin": "Zhè pī jíjiàn bìxū jīntiān jì chū.",
+        "en": "Bu acil evraklar bugün gönderilmek zorunda."
+      },
+      {
+        "zh": "他负责处理公司的急件。",
+        "pinyin": "Tā fùzé chǔlǐ gōngsī de jíjiàn.",
+        "en": "Şirketin acil evraklarını işlemekten sorumlu."
+      }
+    ]
+  },
+  {
+    "id": "w3878",
+    "hanzi": "急救",
+    "pinyin": "jíjiù",
+    "meaning": "ilk yardım",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他学过急救知识。",
+        "pinyin": "Tā xuéguo jíjiù zhīshi.",
+        "en": "İlk yardım bilgisi öğrenmiş."
+      },
+      {
+        "zh": "医生对伤者进行了急救。",
+        "pinyin": "Yīshēng duì shāngzhě jìnxíngle jíjiù.",
+        "en": "Doktor yaralıya ilk yardım uyguladı."
+      },
+      {
+        "zh": "每个人都应该学习基本的急救技能。",
+        "pinyin": "Měi ge rén dōu yīnggāi xuéxí jīběn de jíjiù jìnéng.",
+        "en": "Herkes temel ilk yardım becerilerini öğrenmeli."
+      },
+      {
+        "zh": "急救车很快赶到了现场。",
+        "pinyin": "Jíjiùchē hěn kuài gǎndàole xiànchǎng.",
+        "en": "Ambulans hızla olay yerine geldi."
+      },
+      {
+        "zh": "他用急救箱处理了伤口。",
+        "pinyin": "Tā yòng jíjiùxiāng chǔlǐle shāngkǒu.",
+        "en": "İlk yardım çantasıyla yarayı tedavi etti."
+      }
+    ]
+  },
+  {
+    "id": "w3879",
+    "hanzi": "急迫",
+    "pinyin": "jípò",
+    "meaning": "acil, ivedi",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "情况十分急迫。",
+        "pinyin": "Qíngkuàng shífēn jípò.",
+        "en": "Durum oldukça acil."
+      },
+      {
+        "zh": "我们面临着急迫的任务。",
+        "pinyin": "Wǒmen miànlínzhe jípò de rènwu.",
+        "en": "Acil bir görevle karşı karşıyayız."
+      },
+      {
+        "zh": "他的语气显得非常急迫。",
+        "pinyin": "Tā de yǔqì xiǎnde fēicháng jípò.",
+        "en": "Konuşma tonu çok aciliyet gösteriyordu."
+      },
+      {
+        "zh": "这个问题需要急迫解决。",
+        "pinyin": "Zhège wèntí xūyào jípò jiějué.",
+        "en": "Bu sorunun acilen çözülmesi gerekiyor."
+      },
+      {
+        "zh": "时间十分急迫，我们必须马上行动。",
+        "pinyin": "Shíjiān shífēn jípò, wǒmen bìxū mǎshàng xíngdòng.",
+        "en": "Zaman çok kısıtlı, hemen harekete geçmeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w3880",
+    "hanzi": "急于",
+    "pinyin": "jíyú",
+    "meaning": "sabırsızlanmak, hemen yapmak istemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他急于知道结果。",
+        "pinyin": "Tā jíyú zhīdào jiéguǒ.",
+        "en": "Sonucu bir an önce öğrenmek istiyordu."
+      },
+      {
+        "zh": "别急于下结论。",
+        "pinyin": "Bié jíyú xià jiélùn.",
+        "en": "Hemen sonuca varma."
+      },
+      {
+        "zh": "她急于向大家证明自己。",
+        "pinyin": "Tā jíyú xiàng dàjiā zhèngmíng zìjǐ.",
+        "en": "Herkese kendini kanıtlamak için sabırsızlanıyor."
+      },
+      {
+        "zh": "他急于完成这项任务。",
+        "pinyin": "Tā jíyú wánchéng zhè xiàng rènwu.",
+        "en": "Bu görevi bir an önce tamamlamak istiyor."
+      },
+      {
+        "zh": "不要急于求成。",
+        "pinyin": "Bú yào jíyú qiúchéng.",
+        "en": "Sonuca acele ile ulaşmaya çalışma."
+      }
+    ]
+  },
+  {
+    "id": "w3881",
+    "hanzi": "急躁",
+    "pinyin": "jízào",
+    "meaning": "sabırsız, çabuk kızan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的性格很急躁。",
+        "pinyin": "Tā de xìnggé hěn jízào.",
+        "en": "Karakteri çok sabırsız."
+      },
+      {
+        "zh": "不要急躁，慢慢来。",
+        "pinyin": "Bú yào jízào, mànmàn lái.",
+        "en": "Sabırsızlanma, yavaş yavaş yap."
+      },
+      {
+        "zh": "她一遇到问题就变得急躁。",
+        "pinyin": "Tā yí yùdào wèntí jiù biàn de jízào.",
+        "en": "Bir sorunla karşılaşınca hemen sabırsızlanıyor."
+      },
+      {
+        "zh": "急躁的情绪会影响判断力。",
+        "pinyin": "Jízào de qíngxù huì yǐngxiǎng pànduànlì.",
+        "en": "Sabırsız duygular karar verme yeteneğini etkileyebilir."
+      },
+      {
+        "zh": "他因为急躁犯了不少错误。",
+        "pinyin": "Tā yīnwèi jízào fànle bù shǎo cuòwù.",
+        "en": "Sabırsızlığı yüzünden birçok hata yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w3882",
+    "hanzi": "急诊",
+    "pinyin": "jízhěn",
+    "meaning": "acil servis",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他被送到医院急诊。",
+        "pinyin": "Tā bèi sòngdào yīyuàn jízhěn.",
+        "en": "Hastanenin acil servisine götürüldü."
+      },
+      {
+        "zh": "急诊室里非常忙碌。",
+        "pinyin": "Jízhěnshì lǐ fēicháng mánglù.",
+        "en": "Acil servis çok yoğundu."
+      },
+      {
+        "zh": "医生在急诊部值班。",
+        "pinyin": "Yīshēng zài jízhěnbù zhíbān.",
+        "en": "Doktor acil serviste nöbet tutuyor."
+      },
+      {
+        "zh": "半夜她突然去了急诊。",
+        "pinyin": "Bànyè tā tūrán qùle jízhěn.",
+        "en": "Gece yarısı aniden acil servise gitti."
+      },
+      {
+        "zh": "急诊医生反应非常迅速。",
+        "pinyin": "Jízhěn yīshēng fǎnyìng fēicháng xùnsù.",
+        "en": "Acil servis doktorları çok hızlı tepki verdi."
+      }
+    ]
+  },
+  {
+    "id": "w3883",
+    "hanzi": "计较",
+    "pinyin": "jìjiào",
+    "meaning": "hesaba katmak, takmak (küçük şeyleri)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他不喜欢和别人计较。",
+        "pinyin": "Tā bù xǐhuan hé biérén jìjiào.",
+        "en": "Başkalarıyla küçük şeyleri tartışmayı sevmez."
+      },
+      {
+        "zh": "别为这点小事斤斤计较。",
+        "pinyin": "Bié wèi zhè diǎn xiǎoshì jīnjīn-jìjiào.",
+        "en": "Bu kadar küçük bir şey için didişme."
+      },
+      {
+        "zh": "她对钱从不计较。",
+        "pinyin": "Tā duì qián cóng bù jìjiào.",
+        "en": "Para konusunda hiç titiz değildir."
+      },
+      {
+        "zh": "他计较得失，犹豫不决。",
+        "pinyin": "Tā jìjiào déshī, yóuyù bùjué.",
+        "en": "Kazanç ve kayıpları hesaplayarak kararsız kaldı."
+      },
+      {
+        "zh": "我们不要再计较过去的事了。",
+        "pinyin": "Wǒmen bú yào zài jìjiào guòqù de shì le.",
+        "en": "Geçmişteki olayları artık dert etmeyelim."
+      }
+    ]
+  },
+  {
+    "id": "w3884",
+    "hanzi": "计算机",
+    "pinyin": "jìsuànjī",
+    "meaning": "bilgisayar",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "他每天都用计算机工作。",
+        "pinyin": "Tā měitiān dōu yòng jìsuànjī gōngzuò.",
+        "en": "Her gün bilgisayar ile çalışıyor."
+      },
+      {
+        "zh": "这台计算机运行速度很快。",
+        "pinyin": "Zhè tái jìsuànjī yùnxíng sùdù hěn kuài.",
+        "en": "Bu bilgisayarın çalışma hızı çok yüksek."
+      },
+      {
+        "zh": "他在大学学习计算机专业。",
+        "pinyin": "Tā zài dàxué xuéxí jìsuànjī zhuānyè.",
+        "en": "Üniversitede bilgisayar bölümünde okuyor."
+      },
+      {
+        "zh": "计算机技术发展非常迅速。",
+        "pinyin": "Jìsuànjī jìshù fāzhǎn fēicháng xùnsù.",
+        "en": "Bilgisayar teknolojisi çok hızlı gelişiyor."
+      },
+      {
+        "zh": "她修好了这台坏了的计算机。",
+        "pinyin": "Tā xiūhǎole zhè tái huàile de jìsuànjī.",
+        "en": "Bozulan bu bilgisayarı tamir etti."
+      }
+    ]
+  },
+  {
+    "id": "w3885",
+    "hanzi": "计算器",
+    "pinyin": "jìsuànqì",
+    "meaning": "hesap makinesi",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "他用计算器算账。",
+        "pinyin": "Tā yòng jìsuànqì suànzhàng.",
+        "en": "Hesap makinesiyle hesap yapıyor."
+      },
+      {
+        "zh": "这个计算器可以做复杂的运算。",
+        "pinyin": "Zhège jìsuànqì kěyǐ zuò fùzá de yùnsuàn.",
+        "en": "Bu hesap makinesi karmaşık işlemler yapabilir."
+      },
+      {
+        "zh": "考试时可以使用计算器。",
+        "pinyin": "Kǎoshì shí kěyǐ shǐyòng jìsuànqì.",
+        "en": "Sınavda hesap makinesi kullanılabilir."
+      },
+      {
+        "zh": "他的计算器没电了。",
+        "pinyin": "Tā de jìsuànqì méi diàn le.",
+        "en": "Hesap makinesinin pili bitti."
+      },
+      {
+        "zh": "桌子上放着一个计算器。",
+        "pinyin": "Zhuōzi shàng fàngzhe yí ge jìsuànqì.",
+        "en": "Masada bir hesap makinesi duruyor."
+      }
+    ]
   }
 ]

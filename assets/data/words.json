@@ -138133,5 +138133,854 @@
         "en": "Bu okulda yüzden fazla öğretmen var."
       }
     ]
+  },
+  {
+    "id": "w4030",
+    "hanzi": "街",
+    "pinyin": "jiē",
+    "meaning": "sokak, cadde",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这条街很热闹。",
+        "pinyin": "Zhè tiáo jiē hěn rènao.",
+        "en": "Bu cadde çok hareketli."
+      },
+      {
+        "zh": "我家就在这条街上。",
+        "pinyin": "Wǒ jiā jiù zài zhè tiáo jiē shàng.",
+        "en": "Evim bu caddede."
+      },
+      {
+        "zh": "他们在街上散步。",
+        "pinyin": "Tāmen zài jiē shàng sànbù.",
+        "en": "Sokakta yürüyüş yapıyorlar."
+      },
+      {
+        "zh": "街两旁种满了树。",
+        "pinyin": "Jiē liǎngpáng zhòngmǎnle shù.",
+        "en": "Caddenin iki yanına ağaçlar dikilmiş."
+      },
+      {
+        "zh": "过马路要小心街上的车。",
+        "pinyin": "Guò mǎlù yào xiǎoxīn jiē shàng de chē.",
+        "en": "Yolu geçerken sokaktaki araçlara dikkat etmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4031",
+    "hanzi": "教堂",
+    "pinyin": "jiàotáng",
+    "meaning": "kilise",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这座教堂建于百年前。",
+        "pinyin": "Zhè zuò jiàotáng jiànyú bǎi nián qián.",
+        "en": "Bu kilise yüz yıl önce inşa edilmiş."
+      },
+      {
+        "zh": "他们在教堂举行了婚礼。",
+        "pinyin": "Tāmen zài jiàotáng jǔxíngle hūnlǐ.",
+        "en": "Kilisede düğün töreni yaptılar."
+      },
+      {
+        "zh": "每周日人们都会去教堂。",
+        "pinyin": "Měi zhōurì rénmen dōu huì qù jiàotáng.",
+        "en": "İnsanlar her pazar kiliseye gider."
+      },
+      {
+        "zh": "这座教堂的建筑非常壮观。",
+        "pinyin": "Zhè zuò jiàotáng de jiànzhù fēicháng zhuàngguān.",
+        "en": "Bu kilisenin mimarisi çok görkemli."
+      },
+      {
+        "zh": "教堂里传来了钟声。",
+        "pinyin": "Jiàotáng lǐ chuánláile zhōngshēng.",
+        "en": "Kiliseden çan sesi geldi."
+      }
+    ]
+  },
+  {
+    "id": "w4032",
+    "hanzi": "教徒",
+    "pinyin": "jiàotú",
+    "meaning": "din mensubu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他是一名虔诚的教徒。",
+        "pinyin": "Tā shì yì míng qiánchéng de jiàotú.",
+        "en": "O dindar bir din mensubu."
+      },
+      {
+        "zh": "教徒们聚集在教堂做礼拜。",
+        "pinyin": "Jiàotúmen jùjí zài jiàotáng zuò lǐbài.",
+        "en": "Din mensupları ibadet için kilisede toplandı."
+      },
+      {
+        "zh": "这座城市有很多不同宗教的教徒。",
+        "pinyin": "Zhè zuò chéngshì yǒu hěn duō bùtóng zōngjiào de jiàotú.",
+        "en": "Bu şehirde farklı dinlere mensup birçok kişi var."
+      },
+      {
+        "zh": "他从小就是一名教徒。",
+        "pinyin": "Tā cóngxiǎo jiù shì yì míng jiàotú.",
+        "en": "Küçüklüğünden beri din mensubu."
+      },
+      {
+        "zh": "教徒们遵守教规。",
+        "pinyin": "Jiàotúmen zūnshǒu jiàoguī.",
+        "en": "Din mensupları dini kurallara uyar."
+      }
+    ]
+  },
+  {
+    "id": "w4033",
+    "hanzi": "教学",
+    "pinyin": "jiàoxué",
+    "meaning": "öğretim",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他从事教学工作二十年了。",
+        "pinyin": "Tā cóngshì jiàoxué gōngzuò èrshí nián le.",
+        "en": "Yirmi yıldır öğretmenlik yapıyor."
+      },
+      {
+        "zh": "这种教学方法很有效。",
+        "pinyin": "Zhè zhǒng jiàoxué fāngfǎ hěn yǒuxiào.",
+        "en": "Bu öğretim yöntemi çok etkili."
+      },
+      {
+        "zh": "学校非常重视教学质量。",
+        "pinyin": "Xuéxiào fēicháng zhòngshì jiàoxué zhìliàng.",
+        "en": "Okul öğretim kalitesine çok önem veriyor."
+      },
+      {
+        "zh": "他改进了教学方式。",
+        "pinyin": "Tā gǎijìnle jiàoxué fāngshì.",
+        "en": "Öğretim şeklini geliştirdi."
+      },
+      {
+        "zh": "这门课程的教学内容很丰富。",
+        "pinyin": "Zhè mén kèchéng de jiàoxué nèiróng hěn fēngfù.",
+        "en": "Bu dersin öğretim içeriği çok zengin."
+      }
+    ]
+  },
+  {
+    "id": "w4034",
+    "hanzi": "叫喊",
+    "pinyin": "jiàohǎn",
+    "meaning": "bağırmak, haykırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在人群中大声叫喊。",
+        "pinyin": "Tā zài rénqún zhōng dàshēng jiàohǎn.",
+        "en": "Kalabalığın içinde yüksek sesle bağırdı."
+      },
+      {
+        "zh": "孩子们兴奋地叫喊起来。",
+        "pinyin": "Háizimen xīngfèn de jiàohǎn qǐlai.",
+        "en": "Çocuklar heyecanla bağırmaya başladı."
+      },
+      {
+        "zh": "他痛得叫喊出声。",
+        "pinyin": "Tā tòng de jiàohǎn chū shēng.",
+        "en": "Acıdan bağırarak sesini yükseltti."
+      },
+      {
+        "zh": "有人在远处叫喊求救。",
+        "pinyin": "Yǒurén zài yuǎnchù jiàohǎn qiújiù.",
+        "en": "Birisi uzaktan yardım için bağırıyordu."
+      },
+      {
+        "zh": "别叫喊了，安静一点。",
+        "pinyin": "Bié jiàohǎn le, ānjìng yìdiǎn.",
+        "en": "Bağırma, biraz sessiz ol."
+      }
+    ]
+  },
+  {
+    "id": "w4035",
+    "hanzi": "叫卖",
+    "pinyin": "jiàomài",
+    "meaning": "bağırarak satış yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "小贩在街上大声叫卖。",
+        "pinyin": "Xiǎofàn zài jiē shàng dàshēng jiàomài.",
+        "en": "Seyyar satıcı sokakta yüksek sesle bağırarak satış yapıyordu."
+      },
+      {
+        "zh": "他叫卖的声音很有特色。",
+        "pinyin": "Tā jiàomài de shēngyīn hěn yǒu tèsè.",
+        "en": "Bağırarak satış yapma sesi çok kendine özgü."
+      },
+      {
+        "zh": "水果摊主正在叫卖新鲜水果。",
+        "pinyin": "Shuǐguǒ tānzhǔ zhèngzài jiàomài xīnxiān shuǐguǒ.",
+        "en": "Meyve satıcısı taze meyveleri bağırarak satıyor."
+      },
+      {
+        "zh": "这条街上到处是小贩的叫卖声。",
+        "pinyin": "Zhè tiáo jiē shàng dàochù shì xiǎofàn de jiàomài shēng.",
+        "en": "Bu sokakta her yerde seyyar satıcıların bağırma sesi var."
+      },
+      {
+        "zh": "他从小就跟着父亲叫卖商品。",
+        "pinyin": "Tā cóngxiǎo jiù gēnzhe fùqin jiàomài shāngpǐn.",
+        "en": "Küçüklüğünden beri babasıyla birlikte bağırarak mal satıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4036",
+    "hanzi": "轿车",
+    "pinyin": "jiàochē",
+    "meaning": "otomobil",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他买了一辆新轿车。",
+        "pinyin": "Tā mǎile yí liàng xīn jiàochē.",
+        "en": "Yeni bir otomobil satın aldı."
+      },
+      {
+        "zh": "这辆轿车非常豪华。",
+        "pinyin": "Zhè liàng jiàochē fēicháng háohuá.",
+        "en": "Bu otomobil çok lüks."
+      },
+      {
+        "zh": "街上停满了各种轿车。",
+        "pinyin": "Jiē shàng tíngmǎnle gèzhǒng jiàochē.",
+        "en": "Sokak çeşitli otomobillerle doldu."
+      },
+      {
+        "zh": "他开着轿车去上班。",
+        "pinyin": "Tā kāizhe jiàochē qù shàngbān.",
+        "en": "Otomobiliyle işe gidiyor."
+      },
+      {
+        "zh": "这款轿车很省油。",
+        "pinyin": "Zhè kuǎn jiàochē hěn shěngyóu.",
+        "en": "Bu model otomobil çok az yakıt tüketiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4037",
+    "hanzi": "接班",
+    "pinyin": "jiēbān",
+    "meaning": "vardiyayı devralmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "下一班工人马上来接班。",
+        "pinyin": "Xià yì bān gōngrén mǎshàng lái jiēbān.",
+        "en": "Sonraki vardiya işçileri hemen vardiyayı devralacak."
+      },
+      {
+        "zh": "他准备接班父亲的公司。",
+        "pinyin": "Tā zhǔnbèi jiēbān fùqin de gōngsī.",
+        "en": "Babasının şirketini devralmaya hazırlanıyor."
+      },
+      {
+        "zh": "护士轮流接班照顾病人。",
+        "pinyin": "Hùshi lúnliú jiēbān zhàogù bìngrén.",
+        "en": "Hemşireler sırayla vardiyayı devralarak hastaya bakıyor."
+      },
+      {
+        "zh": "年轻一代要接班老一辈的事业。",
+        "pinyin": "Niánqīng yídài yào jiēbān lǎo yíbèi de shìyè.",
+        "en": "Genç nesil eski neslin işini devralmalı."
+      },
+      {
+        "zh": "他晚上十点来接班。",
+        "pinyin": "Tā wǎnshang shí diǎn lái jiēbān.",
+        "en": "Akşam saat onda vardiyayı devralmaya geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4038",
+    "hanzi": "接管",
+    "pinyin": "jiēguǎn",
+    "meaning": "devralmak (yönetimi)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "新经理接管了这个部门。",
+        "pinyin": "Xīn jīnglǐ jiēguǎnle zhège bùmén.",
+        "en": "Yeni müdür bu bölümü devraldı."
+      },
+      {
+        "zh": "政府接管了这家破产公司。",
+        "pinyin": "Zhèngfǔ jiēguǎnle zhè jiā pòchǎn gōngsī.",
+        "en": "Hükümet bu iflas eden şirketi devraldı."
+      },
+      {
+        "zh": "他接管了父亲的事业。",
+        "pinyin": "Tā jiēguǎnle fùqin de shìyè.",
+        "en": "Babasının işini devraldı."
+      },
+      {
+        "zh": "军队接管了城市的治安。",
+        "pinyin": "Jūnduì jiēguǎnle chéngshì de zhì'ān.",
+        "en": "Ordu şehrin güvenliğini devraldı."
+      },
+      {
+        "zh": "新团队接管了这个项目。",
+        "pinyin": "Xīn tuánduì jiēguǎnle zhège xiàngmù.",
+        "en": "Yeni ekip bu projeyi devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w4039",
+    "hanzi": "接见",
+    "pinyin": "jiējiàn",
+    "meaning": "kabul etmek (resmi görüşme)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "总统接见了外国代表团。",
+        "pinyin": "Zǒngtǒng jiējiànle wàiguó dàibiǎotuán.",
+        "en": "Cumhurbaşkanı yabancı heyeti kabul etti."
+      },
+      {
+        "zh": "校长接见了新入学的学生。",
+        "pinyin": "Xiàozhǎng jiējiànle xīn rùxué de xuésheng.",
+        "en": "Rektör yeni kayıt olan öğrencileri kabul etti."
+      },
+      {
+        "zh": "部长今天接见了几位企业家。",
+        "pinyin": "Bùzhǎng jīntiān jiējiànle jǐ wèi qǐyèjiā.",
+        "en": "Bakan bugün birkaç girişimciyi kabul etti."
+      },
+      {
+        "zh": "国王在王宫接见了使者。",
+        "pinyin": "Guówáng zài wánggōng jiējiànle shǐzhě.",
+        "en": "Kral sarayda elçiyi kabul etti."
+      },
+      {
+        "zh": "他被邀请接受领导人的接见。",
+        "pinyin": "Tā bèi yāoqǐng jiēshòu lǐngdǎorén de jiējiàn.",
+        "en": "Lider tarafından kabul edilmek üzere davet edildi."
+      }
+    ]
+  },
+  {
+    "id": "w4040",
+    "hanzi": "接力",
+    "pinyin": "jiēlì",
+    "meaning": "bayrak yarışı, sırayla yapmak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他参加了接力比赛。",
+        "pinyin": "Tā cānjiāle jiēlì bǐsài.",
+        "en": "Bayrak yarışına katıldı."
+      },
+      {
+        "zh": "接力赛需要团队配合。",
+        "pinyin": "Jiēlìsài xūyào tuánduì pèihé.",
+        "en": "Bayrak yarışı takım uyumu gerektirir."
+      },
+      {
+        "zh": "他们的接力队获得了冠军。",
+        "pinyin": "Tāmen de jiēlìduì huòdéle guànjūn.",
+        "en": "Bayrak yarışı takımları şampiyon oldu."
+      },
+      {
+        "zh": "接力棒交接得非常顺利。",
+        "pinyin": "Jiēlìbàng jiāojiē de fēicháng shùnlì.",
+        "en": "Bayrak değişimi çok sorunsuz gerçekleşti."
+      },
+      {
+        "zh": "这场接力赛非常激烈。",
+        "pinyin": "Zhè chǎng jiēlìsài fēicháng jīliè.",
+        "en": "Bu bayrak yarışı çok heyecanlıydı."
+      }
+    ]
+  },
+  {
+    "id": "w4041",
+    "hanzi": "接连",
+    "pinyin": "jiēlián",
+    "meaning": "art arda, aralıksız",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他接连打了三个电话。",
+        "pinyin": "Tā jiēlián dǎle sān ge diànhuà.",
+        "en": "Art arda üç telefon açtı."
+      },
+      {
+        "zh": "这几天接连下雨。",
+        "pinyin": "Zhè jǐ tiān jiēlián xiàyǔ.",
+        "en": "Bu birkaç gündür aralıksız yağmur yağıyor."
+      },
+      {
+        "zh": "公司接连推出了新产品。",
+        "pinyin": "Gōngsī jiēlián tuīchūle xīn chǎnpǐn.",
+        "en": "Şirket art arda yeni ürünler çıkardı."
+      },
+      {
+        "zh": "他接连遭遇了几次失败。",
+        "pinyin": "Tā jiēlián zāoyùle jǐ cì shībài.",
+        "en": "Art arda birkaç başarısızlıkla karşılaştı."
+      },
+      {
+        "zh": "这支球队接连赢得了三场比赛。",
+        "pinyin": "Zhè zhī qiúduì jiēlián yíngdéle sān chǎng bǐsài.",
+        "en": "Bu takım art arda üç maç kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w4042",
+    "hanzi": "接纳",
+    "pinyin": "jiēnà",
+    "meaning": "kabul etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "学校接纳了这位新生。",
+        "pinyin": "Xuéxiào jiēnàle zhè wèi xīnshēng.",
+        "en": "Okul bu yeni öğrenciyi kabul etti."
+      },
+      {
+        "zh": "他被这个团队接纳了。",
+        "pinyin": "Tā bèi zhège tuánduì jiēnà le.",
+        "en": "Bu ekip tarafından kabul edildi."
+      },
+      {
+        "zh": "社会应该接纳不同的意见。",
+        "pinyin": "Shèhuì yīnggāi jiēnà bùtóng de yìjiàn.",
+        "en": "Toplum farklı görüşleri kabul etmeli."
+      },
+      {
+        "zh": "委员会接纳了他的申请。",
+        "pinyin": "Wěiyuánhuì jiēnàle tā de shēnqǐng.",
+        "en": "Komite başvurusunu kabul etti."
+      },
+      {
+        "zh": "大家很快就接纳了这个新成员。",
+        "pinyin": "Dàjiā hěn kuài jiù jiēnàle zhège xīn chéngyuán.",
+        "en": "Herkes yeni üyeyi hızlıca kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w4043",
+    "hanzi": "接收",
+    "pinyin": "jiēshōu",
+    "meaning": "almak (sinyal), devralmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "这台收音机接收信号不太好。",
+        "pinyin": "Zhè tái shōuyīnjī jiēshōu xìnhào bú tài hǎo.",
+        "en": "Bu radyo sinyali pek iyi almıyor."
+      },
+      {
+        "zh": "卫星接收了地面发送的数据。",
+        "pinyin": "Wèixīng jiēshōule dìmiàn fāsòng de shùjù.",
+        "en": "Uydu yerden gönderilen verileri aldı."
+      },
+      {
+        "zh": "我们已经接收了你的邮件。",
+        "pinyin": "Wǒmen yǐjīng jiēshōule nǐ de yóujiàn.",
+        "en": "Mailinizi zaten aldık."
+      },
+      {
+        "zh": "他负责接收和分发文件。",
+        "pinyin": "Tā fùzé jiēshōu hé fēnfā wénjiàn.",
+        "en": "Belgeleri almak ve dağıtmakla sorumlu."
+      },
+      {
+        "zh": "政府接收了这批捐赠物资。",
+        "pinyin": "Zhèngfǔ jiēshōule zhè pī juānzèng wùzī.",
+        "en": "Hükümet bu bağış malzemelerini teslim aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4044",
+    "hanzi": "接替",
+    "pinyin": "jiētì",
+    "meaning": "yerine geçmek, devralmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他接替了退休经理的职位。",
+        "pinyin": "Tā jiētìle tuìxiū jīnglǐ de zhíwèi.",
+        "en": "Emekli olan müdürün yerine geçti."
+      },
+      {
+        "zh": "新员工接替了他的工作。",
+        "pinyin": "Xīn yuángōng jiētìle tā de gōngzuò.",
+        "en": "Yeni çalışan onun işini devraldı."
+      },
+      {
+        "zh": "谁来接替这个岗位？",
+        "pinyin": "Shéi lái jiētì zhège gǎngwèi?",
+        "en": "Bu görevi kim devralacak?"
+      },
+      {
+        "zh": "他被安排接替原来的负责人。",
+        "pinyin": "Tā bèi ānpái jiētì yuánlái de fùzérén.",
+        "en": "Eski sorumlunun yerine geçmesi planlandı."
+      },
+      {
+        "zh": "副手接替了主管的职责。",
+        "pinyin": "Fùshǒu jiētìle zhǔguǎn de zhízé.",
+        "en": "Yardımcı, yöneticinin görevlerini devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w4045",
+    "hanzi": "接通",
+    "pinyin": "jiētōng",
+    "meaning": "bağlanmak (telefon vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "teknoloji",
+    "examples": [
+      {
+        "zh": "电话终于接通了。",
+        "pinyin": "Diànhuà zhōngyú jiētōng le.",
+        "en": "Telefon sonunda bağlandı."
+      },
+      {
+        "zh": "请稍等，我给您接通。",
+        "pinyin": "Qǐng shāo děng, wǒ gěi nín jiētōng.",
+        "en": "Lütfen bekleyin, sizi bağlıyorum."
+      },
+      {
+        "zh": "网络信号接通了。",
+        "pinyin": "Wǎngluò xìnhào jiētōng le.",
+        "en": "İnternet bağlantısı sağlandı."
+      },
+      {
+        "zh": "工人接通了电源线路。",
+        "pinyin": "Gōngrén jiētōngle diànyuán xiànlù.",
+        "en": "İşçi elektrik hattını bağladı."
+      },
+      {
+        "zh": "电话一直没接通。",
+        "pinyin": "Diànhuà yìzhí méi jiētōng.",
+        "en": "Telefon bir türlü bağlanmadı."
+      }
+    ]
+  },
+  {
+    "id": "w4046",
+    "hanzi": "接吻",
+    "pinyin": "jiēwěn",
+    "meaning": "öpüşmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们在电影结尾接吻了。",
+        "pinyin": "Tāmen zài diànyǐng jiéwěi jiēwěn le.",
+        "en": "Filmin sonunda öpüştüler."
+      },
+      {
+        "zh": "情侣们喜欢在公园接吻。",
+        "pinyin": "Qínglǚmen xǐhuan zài gōngyuán jiēwěn.",
+        "en": "Aşıklar parkta öpüşmeyi sever."
+      },
+      {
+        "zh": "婚礼上新人接吻了。",
+        "pinyin": "Hūnlǐ shàng xīnrén jiēwěn le.",
+        "en": "Düğünde yeni evliler öpüştü."
+      },
+      {
+        "zh": "妈妈在孩子的额头上接吻。",
+        "pinyin": "Māma zài háizi de é tóu shàng jiēwěn.",
+        "en": "Anne çocuğunun alnından öptü."
+      },
+      {
+        "zh": "电影里的接吻场景很浪漫。",
+        "pinyin": "Diànyǐng lǐ de jiēwěn chǎngjǐng hěn làngmàn.",
+        "en": "Filmdeki öpüşme sahnesi çok romantikti."
+      }
+    ]
+  },
+  {
+    "id": "w4047",
+    "hanzi": "接种",
+    "pinyin": "jiēzhòng",
+    "meaning": "aşı yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "孩子们要按时接种疫苗。",
+        "pinyin": "Háizimen yào ànshí jiēzhòng yìmiáo.",
+        "en": "Çocukların zamanında aşı olması gerekir."
+      },
+      {
+        "zh": "他去医院接种了流感疫苗。",
+        "pinyin": "Tā qù yīyuàn jiēzhòngle liúgǎn yìmiáo.",
+        "en": "Hastaneye gidip grip aşısı oldu."
+      },
+      {
+        "zh": "接种疫苗可以预防疾病。",
+        "pinyin": "Jiēzhòng yìmiáo kěyǐ yùfáng jíbìng.",
+        "en": "Aşı yaptırmak hastalıkları önleyebilir."
+      },
+      {
+        "zh": "全国正在推进疫苗接种工作。",
+        "pinyin": "Quánguó zhèngzài tuījìn yìmiáo jiēzhòng gōngzuò.",
+        "en": "Tüm ülkede aşılama çalışmaları yürütülüyor."
+      },
+      {
+        "zh": "医生给婴儿接种了第一针疫苗。",
+        "pinyin": "Yīshēng gěi yīng'ér jiēzhòngle dì-yī zhēn yìmiáo.",
+        "en": "Doktor bebeğe ilk aşıyı yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w4048",
+    "hanzi": "揭穿",
+    "pinyin": "jiēchuān",
+    "meaning": "ortaya çıkarmak, ifşa etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "记者揭穿了这个骗局。",
+        "pinyin": "Jìzhě jiēchuānle zhège piànjú.",
+        "en": "Gazeteci bu dolandırıcılığı ortaya çıkardı."
+      },
+      {
+        "zh": "他的谎言最终被揭穿了。",
+        "pinyin": "Tā de huǎngyán zuìzhōng bèi jiēchuān le.",
+        "en": "Yalanı sonunda ortaya çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w4049",
+    "hanzi": "揭晓",
+    "pinyin": "jiēxiǎo",
+    "meaning": "açıklamak, ilan etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İletişim",
+    "examples": [
+      {
+        "zh": "比赛结果即将揭晓。",
+        "pinyin": "Bǐsài jiéguǒ jíjiāng jiēxiǎo.",
+        "en": "Yarışma sonucu yakında açıklanacak."
+      },
+      {
+        "zh": "获奖名单已经揭晓。",
+        "pinyin": "Huòjiǎng míngdān yǐjīng jiēxiǎo.",
+        "en": "Ödül listesi açıklandı."
+      },
+      {
+        "zh": "谜底终于揭晓了。",
+        "pinyin": "Mídǐ zhōngyú jiēxiǎo le.",
+        "en": "Bilmecenin cevabı sonunda açıklandı."
+      },
+      {
+        "zh": "考试成绩将于下周揭晓。",
+        "pinyin": "Kǎoshì chéngjì jiāng yú xià zhōu jiēxiǎo.",
+        "en": "Sınav sonuçları gelecek hafta açıklanacak."
+      },
+      {
+        "zh": "大选结果尚未揭晓。",
+        "pinyin": "Dàxuǎn jiéguǒ shàngwèi jiēxiǎo.",
+        "en": "Genel seçim sonuçları henüz açıklanmadı."
+      }
+    ]
+  },
+  {
+    "id": "w4050",
+    "hanzi": "阶层",
+    "pinyin": "jiēcéng",
+    "meaning": "sosyal tabaka",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "社会各阶层都受到了影响。",
+        "pinyin": "Shèhuì gè jiēcéng dōu shòudàole yǐngxiǎng.",
+        "en": "Toplumun her kesimi etkilendi."
+      },
+      {
+        "zh": "中产阶层正在不断壮大。",
+        "pinyin": "Zhōngchǎn jiēcéng zhèngzài búduàn zhuàngdà.",
+        "en": "Orta sınıf giderek büyüyor."
+      },
+      {
+        "zh": "不同阶层的人有不同的生活方式。",
+        "pinyin": "Bùtóng jiēcéng de rén yǒu bùtóng de shēnghuó fāngshì.",
+        "en": "Farklı sosyal tabakadan insanların farklı yaşam tarzları vardır."
+      },
+      {
+        "zh": "这项政策有利于低收入阶层。",
+        "pinyin": "Zhè xiàng zhèngcè yǒulì yú dī shōurù jiēcéng.",
+        "en": "Bu politika düşük gelirli kesim için faydalıdır."
+      },
+      {
+        "zh": "他来自社会底层阶层。",
+        "pinyin": "Tā láizì shèhuì dǐcéng jiēcéng.",
+        "en": "Toplumun en alt kesiminden geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4051",
+    "hanzi": "阶级",
+    "pinyin": "jiējí",
+    "meaning": "sosyal sınıf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这本书分析了不同的社会阶级。",
+        "pinyin": "Zhè běn shū fēnxīle bùtóng de shèhuì jiējí.",
+        "en": "Bu kitap farklı sosyal sınıfları inceliyor."
+      },
+      {
+        "zh": "工人阶级为社会做出了巨大贡献。",
+        "pinyin": "Gōngrén jiējí wèi shèhuì zuòchūle jùdà gòngxiàn.",
+        "en": "İşçi sınıfı topluma büyük katkı sağladı."
+      },
+      {
+        "zh": "阶级差异导致了社会矛盾。",
+        "pinyin": "Jiējí chāyì dǎozhìle shèhuì máodùn.",
+        "en": "Sınıf farklılıkları toplumsal çatışmalara yol açtı."
+      },
+      {
+        "zh": "他研究了阶级流动性问题。",
+        "pinyin": "Tā yánjiūle jiējí liúdòngxìng wèntí.",
+        "en": "Sınıf hareketliliği sorununu araştırdı."
+      },
+      {
+        "zh": "这场革命改变了社会的阶级结构。",
+        "pinyin": "Zhè chǎng gémìng gǎibiànle shèhuì de jiējí jiégòu.",
+        "en": "Bu devrim toplumun sınıf yapısını değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w4052",
+    "hanzi": "阶梯",
+    "pinyin": "jiētī",
+    "meaning": "merdiven, basamak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他一步一步爬上了阶梯。",
+        "pinyin": "Tā yí bù yí bù pá shàngle jiētī.",
+        "en": "Merdiveni adım adım tırmandı."
+      },
+      {
+        "zh": "教育是成功的阶梯。",
+        "pinyin": "Jiàoyù shì chénggōng de jiētī.",
+        "en": "Eğitim başarının basamağıdır."
+      },
+      {
+        "zh": "这座建筑有很多阶梯。",
+        "pinyin": "Zhè zuò jiànzhù yǒu hěn duō jiētī.",
+        "en": "Bu bina birçok merdivene sahip."
+      },
+      {
+        "zh": "阶梯教室里坐满了学生。",
+        "pinyin": "Jiētī jiàoshì lǐ zuòmǎnle xuésheng.",
+        "en": "Amfi tarzı sınıf öğrencilerle doldu."
+      },
+      {
+        "zh": "他小心翼翼地走下阶梯。",
+        "pinyin": "Tā xiǎoxīn-yìyì de zǒuxià jiētī.",
+        "en": "Dikkatlice merdivenlerden aşağı indi."
+      }
+    ]
+  },
+  {
+    "id": "w4053",
+    "hanzi": "结冰",
+    "pinyin": "jiébīng",
+    "meaning": "buz tutmak, donmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "湖面结冰了。",
+        "pinyin": "Húmiàn jiébīng le.",
+        "en": "Gölün yüzeyi buz tuttu."
+      },
+      {
+        "zh": "冬天路面容易结冰。",
+        "pinyin": "Dōngtiān lùmiàn róngyì jiébīng.",
+        "en": "Kışın yol yüzeyleri kolayca buz tutar."
+      },
+      {
+        "zh": "水管结冰导致爆裂。",
+        "pinyin": "Shuǐguǎn jiébīng dǎozhì bàoliè.",
+        "en": "Su borusu donarak patladı."
+      },
+      {
+        "zh": "昨晚气温很低，窗户上结冰了。",
+        "pinyin": "Zuówǎn qìwēn hěn dī, chuānghu shàng jiébīng le.",
+        "en": "Dün gece sıcaklık çok düşüktü, pencerede buz tuttu."
+      },
+      {
+        "zh": "河水已经结冰，可以滑冰了。",
+        "pinyin": "Héshuǐ yǐjīng jiébīng, kěyǐ huábīng le.",
+        "en": "Nehir suyu buz tuttu, artık buz pateni yapılabilir."
+      }
+    ]
   }
 ]

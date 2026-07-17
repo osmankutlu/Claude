@@ -178972,5 +178972,938 @@
         "en": "Karakteri herkesin saygısını kazandı."
       }
     ]
+  },
+  {
+    "id": "w5169",
+    "hanzi": "品质",
+    "pinyin": "pǐnzhì",
+    "meaning": "karakter, kişilik; kalite, nitelik",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种产品的品质很好。",
+        "pinyin": "Zhè zhǒng chǎnpǐn de pǐnzhì hěn hǎo.",
+        "en": "Bu ürünün kalitesi çok iyi."
+      },
+      {
+        "zh": "他是一个品质高尚的人。",
+        "pinyin": "Tā shì yí ge pǐnzhì gāoshàng de rén.",
+        "en": "O yüksek karakterli bir insandır."
+      },
+      {
+        "zh": "公司注重产品的品质。",
+        "pinyin": "Gōngsī zhùzhòng chǎnpǐn de pǐnzhì.",
+        "en": "Şirket ürün kalitesine önem veriyor."
+      },
+      {
+        "zh": "诚实是他最大的品质。",
+        "pinyin": "Chéngshí shì tā zuìdà de pǐnzhì.",
+        "en": "Dürüstlük onun en büyük özelliğidir."
+      },
+      {
+        "zh": "这块布料的品质非常好。",
+        "pinyin": "Zhè kuài bùliào de pǐnzhì fēicháng hǎo.",
+        "en": "Bu kumaşın kalitesi çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w5170",
+    "hanzi": "聘请",
+    "pinyin": "pìnqǐng",
+    "meaning": "davet etmek, ücretle tutmak, işe almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司聘请了一位新经理。",
+        "pinyin": "Gōngsī pìnqǐng le yí wèi xīn jīnglǐ.",
+        "en": "Şirket yeni bir müdür işe aldı."
+      },
+      {
+        "zh": "学校聘请了一位外教。",
+        "pinyin": "Xuéxiào pìnqǐng le yí wèi wàijiào.",
+        "en": "Okul bir yabancı öğretmen işe aldı."
+      },
+      {
+        "zh": "他们打算聘请专业律师。",
+        "pinyin": "Tāmen dǎsuàn pìnqǐng zhuānyè lǜshī.",
+        "en": "Profesyonel bir avukat tutmayı planlıyorlar."
+      },
+      {
+        "zh": "医院聘请了几位专家。",
+        "pinyin": "Yīyuàn pìnqǐng le jǐ wèi zhuānjiā.",
+        "en": "Hastane birkaç uzman işe aldı."
+      },
+      {
+        "zh": "公司正在聘请新的员工。",
+        "pinyin": "Gōngsī zhèngzài pìnqǐng xīn de yuángōng.",
+        "en": "Şirket yeni çalışanlar işe alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5171",
+    "hanzi": "乒乓",
+    "pinyin": "pīngpāng",
+    "meaning": "masa tenisi, pinpon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他每天打乒乓球。",
+        "pinyin": "Tā měitiān dǎ pīngpāng qiú.",
+        "en": "Her gün masa tenisi oynuyor."
+      },
+      {
+        "zh": "乒乓是中国的国球。",
+        "pinyin": "Pīngpāng shì Zhōngguó de guóqiú.",
+        "en": "Masa tenisi Çin'in ulusal sporudur."
+      },
+      {
+        "zh": "我们去体育馆打乒乓。",
+        "pinyin": "Wǒmen qù tǐyùguǎn dǎ pīngpāng.",
+        "en": "Spor salonuna masa tenisi oynamaya gidiyoruz."
+      },
+      {
+        "zh": "他是学校的乒乓冠军。",
+        "pinyin": "Tā shì xuéxiào de pīngpāng guànjūn.",
+        "en": "O okulun masa tenisi şampiyonu."
+      },
+      {
+        "zh": "乒乓球拍坏了。",
+        "pinyin": "Pīngpāng qiúpāi huài le.",
+        "en": "Masa tenisi raketi bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w5172",
+    "hanzi": "平安",
+    "pinyin": "píng'ān",
+    "meaning": "güvenli, huzurlu, selametli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "祝你一路平安。",
+        "pinyin": "Zhù nǐ yílù píng'ān.",
+        "en": "Yolculuğun güvenli geçsin (hayırlı yolculuklar)."
+      },
+      {
+        "zh": "他们全家都平平安安的。",
+        "pinyin": "Tāmen quánjiā dōu píngpíng'ān'ān de.",
+        "en": "Tüm aileleri huzur içinde ve güvende."
+      },
+      {
+        "zh": "希望大家平安健康。",
+        "pinyin": "Xīwàng dàjiā píng'ān jiànkāng.",
+        "en": "Herkesin sağlıklı ve huzurlu olmasını umuyorum."
+      },
+      {
+        "zh": "飞机平安降落了。",
+        "pinyin": "Fēijī píng'ān jiàngluò le.",
+        "en": "Uçak güvenli bir şekilde indi."
+      },
+      {
+        "zh": "他平安地回到了家。",
+        "pinyin": "Tā píng'ān de huídào le jiā.",
+        "en": "Güvenli bir şekilde eve döndü."
+      }
+    ]
+  },
+  {
+    "id": "w5173",
+    "hanzi": "平房",
+    "pinyin": "píngfáng",
+    "meaning": "tek katlı ev",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他们家住在一间平房里。",
+        "pinyin": "Tāmen jiā zhù zài yì jiān píngfáng lǐ.",
+        "en": "Aileleri tek katlı bir evde yaşıyor."
+      },
+      {
+        "zh": "这个村子里都是平房。",
+        "pinyin": "Zhège cūnzi lǐ dōu shì píngfáng.",
+        "en": "Bu köyün tamamı tek katlı evlerden oluşuyor."
+      },
+      {
+        "zh": "老人喜欢住平房，方便出入。",
+        "pinyin": "Lǎorén xǐhuan zhù píngfáng, fāngbiàn chūrù.",
+        "en": "Yaşlılar giriş çıkışı kolay olduğu için tek katlı evlerde yaşamayı sever."
+      },
+      {
+        "zh": "他们把平房改造成了小院子。",
+        "pinyin": "Tāmen bǎ píngfáng gǎizào chéng le xiǎo yuànzi.",
+        "en": "Tek katlı evi küçük bir avluya dönüştürdüler."
+      },
+      {
+        "zh": "这座平房有很多年历史了。",
+        "pinyin": "Zhè zuò píngfáng yǒu hěnduō nián lìshǐ le.",
+        "en": "Bu tek katlı evin uzun bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w5174",
+    "hanzi": "平分",
+    "pinyin": "píngfēn",
+    "meaning": "eşit şekilde bölüştürmek, paylaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们把蛋糕平分成四块。",
+        "pinyin": "Tāmen bǎ dàngāo píngfēn chéng sì kuài.",
+        "en": "Pastayı dört eşit parçaya böldüler."
+      },
+      {
+        "zh": "利润按人数平分。",
+        "pinyin": "Lìrùn àn rénshù píngfēn.",
+        "en": "Kâr kişi sayısına göre eşit paylaştırılıyor."
+      },
+      {
+        "zh": "两队平分了比赛的积分。",
+        "pinyin": "Liǎng duì píngfēn le bǐsài de jīfēn.",
+        "en": "İki takım maç puanlarını eşit paylaştı."
+      },
+      {
+        "zh": "土地被平分给了村民。",
+        "pinyin": "Tǔdì bèi píngfēn gěi le cūnmín.",
+        "en": "Toprak köylülere eşit şekilde bölüştürüldü."
+      },
+      {
+        "zh": "我们把任务平分一下。",
+        "pinyin": "Wǒmen bǎ rènwu píngfēn yíxià.",
+        "en": "Görevi eşit olarak paylaşalım."
+      }
+    ]
+  },
+  {
+    "id": "w5175",
+    "hanzi": "平和",
+    "pinyin": "pínghé",
+    "meaning": "ılımlı, yumuşak huylu, sakin",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他性格平和，很少发脾气。",
+        "pinyin": "Tā xìnggé pínghé, hěnshǎo fā píqi.",
+        "en": "Karakteri sakin, nadiren sinirlenir."
+      },
+      {
+        "zh": "她用平和的语气说话。",
+        "pinyin": "Tā yòng pínghé de yǔqì shuōhuà.",
+        "en": "Sakin bir tonla konuşuyor."
+      },
+      {
+        "zh": "老师的态度一直很平和。",
+        "pinyin": "Lǎoshī de tàidù yìzhí hěn pínghé.",
+        "en": "Öğretmenin tavrı hep ılımlı."
+      },
+      {
+        "zh": "遇到困难要保持平和的心态。",
+        "pinyin": "Yùdào kùnnán yào bǎochí pínghé de xīntài.",
+        "en": "Zorluklarla karşılaşınca sakin bir ruh hali korunmalı."
+      },
+      {
+        "zh": "他平和地解决了这场争论。",
+        "pinyin": "Tā pínghé de jiějué le zhè chǎng zhēnglùn.",
+        "en": "Bu tartışmayı sakin bir şekilde çözdü."
+      }
+    ]
+  },
+  {
+    "id": "w5176",
+    "hanzi": "平滑",
+    "pinyin": "pínghuá",
+    "meaning": "düz ve pürüzsüz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这张桌子的表面很平滑。",
+        "pinyin": "Zhè zhāng zhuōzi de biǎomiàn hěn pínghuá.",
+        "en": "Bu masanın yüzeyi çok düz ve pürüzsüz."
+      },
+      {
+        "zh": "婴儿的皮肤非常平滑。",
+        "pinyin": "Yīng'ér de pífū fēicháng pínghuá.",
+        "en": "Bebeğin cildi çok pürüzsüz."
+      },
+      {
+        "zh": "这条路修得很平滑。",
+        "pinyin": "Zhè tiáo lù xiū de hěn pínghuá.",
+        "en": "Bu yol çok düzgün yapılmış."
+      },
+      {
+        "zh": "石头被水冲刷得平滑光亮。",
+        "pinyin": "Shítou bèi shuǐ chōngshuā de pínghuá guāngliàng.",
+        "en": "Taş suyla aşınarak pürüzsüz ve parlak hale gelmiş."
+      },
+      {
+        "zh": "她想让皮肤更加平滑。",
+        "pinyin": "Tā xiǎng ràng pífū gèngjiā pínghuá.",
+        "en": "Cildinin daha pürüzsüz olmasını istiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5177",
+    "hanzi": "平面",
+    "pinyin": "píngmiàn",
+    "meaning": "düzlem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这是一个平面图形。",
+        "pinyin": "Zhè shì yí ge píngmiàn túxíng.",
+        "en": "Bu bir düzlem şeklidir."
+      },
+      {
+        "zh": "他设计了房屋的平面图。",
+        "pinyin": "Tā shèjì le fángwū de píngmiàn tú.",
+        "en": "Evin kat planını tasarladı."
+      },
+      {
+        "zh": "数学课上学习了平面几何。",
+        "pinyin": "Shùxué kè shàng xuéxí le píngmiàn jǐhé.",
+        "en": "Matematik dersinde düzlem geometrisi öğrendik."
+      },
+      {
+        "zh": "这块地是一个平面。",
+        "pinyin": "Zhè kuài dì shì yí ge píngmiàn.",
+        "en": "Bu arazi bir düzlemdir."
+      },
+      {
+        "zh": "平面设计需要良好的审美。",
+        "pinyin": "Píngmiàn shèjì xūyào liánghǎo de shěnměi.",
+        "en": "Grafik tasarım iyi bir estetik anlayış gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5178",
+    "hanzi": "平民",
+    "pinyin": "píngmín",
+    "meaning": "sıradan halk, sivil halk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "战争中很多平民受到伤害。",
+        "pinyin": "Zhànzhēng zhōng hěnduō píngmín shòudào shānghài.",
+        "en": "Savaşta pek çok sivil zarar gördü."
+      },
+      {
+        "zh": "他出身平民家庭。",
+        "pinyin": "Tā chūshēn píngmín jiātíng.",
+        "en": "Sıradan bir aileden geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5179",
+    "hanzi": "平坦",
+    "pinyin": "píngtǎn",
+    "meaning": "düz, engebesiz",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这条路很平坦。",
+        "pinyin": "Zhè tiáo lù hěn píngtǎn.",
+        "en": "Bu yol çok düz."
+      },
+      {
+        "zh": "平坦的道路适合骑自行车。",
+        "pinyin": "Píngtǎn de dàolù shìhé qí zìxíngchē.",
+        "en": "Düz yollar bisiklet sürmek için uygundur."
+      },
+      {
+        "zh": "这片土地非常平坦。",
+        "pinyin": "Zhè piàn tǔdì fēicháng píngtǎn.",
+        "en": "Bu arazi çok düz."
+      },
+      {
+        "zh": "人生的道路并不总是平坦的。",
+        "pinyin": "Rénshēng de dàolù bìngbù zǒngshì píngtǎn de.",
+        "en": "Hayatın yolu her zaman düz değildir."
+      },
+      {
+        "zh": "他们在平坦的草地上野餐。",
+        "pinyin": "Tāmen zài píngtǎn de cǎodì shàng yěcān.",
+        "en": "Düz bir çayırda piknik yapıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w5180",
+    "hanzi": "平稳",
+    "pinyin": "píngwěn",
+    "meaning": "düzgün ve sabit, istikrarlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "飞机平稳地降落了。",
+        "pinyin": "Fēijī píngwěn de jiàngluò le.",
+        "en": "Uçak sorunsuz bir şekilde indi."
+      },
+      {
+        "zh": "经济正在平稳发展。",
+        "pinyin": "Jīngjì zhèngzài píngwěn fāzhǎn.",
+        "en": "Ekonomi istikrarlı bir şekilde gelişiyor."
+      },
+      {
+        "zh": "他的情绪一直很平稳。",
+        "pinyin": "Tā de qíngxù yìzhí hěn píngwěn.",
+        "en": "Ruh hali hep dengeli ve sakin."
+      },
+      {
+        "zh": "公司希望保持平稳的增长。",
+        "pinyin": "Gōngsī xīwàng bǎochí píngwěn de zēngzhǎng.",
+        "en": "Şirket istikrarlı bir büyüme sürdürmeyi umuyor."
+      },
+      {
+        "zh": "车子行驶得很平稳。",
+        "pinyin": "Chēzi xíngshǐ de hěn píngwěn.",
+        "en": "Araba çok sabit ve düzgün ilerliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5181",
+    "hanzi": "平行",
+    "pinyin": "píngxíng",
+    "meaning": "paralel; eşit düzeyde",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这两条线是平行的。",
+        "pinyin": "Zhè liǎng tiáo xiàn shì píngxíng de.",
+        "en": "Bu iki çizgi paraleldir."
+      },
+      {
+        "zh": "两个项目正在平行进行。",
+        "pinyin": "Liǎng ge xiàngmù zhèngzài píngxíng jìnxíng.",
+        "en": "İki proje aynı anda paralel olarak yürütülüyor."
+      },
+      {
+        "zh": "铁路和公路平行延伸。",
+        "pinyin": "Tiělù hé gōnglù píngxíng yánshēn.",
+        "en": "Demiryolu ve karayolu paralel uzanıyor."
+      },
+      {
+        "zh": "他们处于平行的地位。",
+        "pinyin": "Tāmen chǔyú píngxíng de dìwèi.",
+        "en": "Eşit bir konumdalar."
+      },
+      {
+        "zh": "两条河流大致平行流淌。",
+        "pinyin": "Liǎng tiáo héliú dàzhì píngxíng liútǎng.",
+        "en": "İki nehir kabaca paralel akıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5182",
+    "hanzi": "平庸",
+    "pinyin": "píngyōng",
+    "meaning": "sıradan, vasat",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这部电影很平庸，没什么新意。",
+        "pinyin": "Zhè bù diànyǐng hěn píngyōng, méi shénme xīnyì.",
+        "en": "Bu film çok sıradan, yeni bir şey yok."
+      },
+      {
+        "zh": "他不甘心过平庸的生活。",
+        "pinyin": "Tā bùgānxīn guò píngyōng de shēnghuó.",
+        "en": "Sıradan bir hayat yaşamaya razı değil."
+      }
+    ]
+  },
+  {
+    "id": "w5183",
+    "hanzi": "平原",
+    "pinyin": "píngyuán",
+    "meaning": "ova",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这里是一片广阔的平原。",
+        "pinyin": "Zhèlǐ shì yí piàn guǎngkuò de píngyuán.",
+        "en": "Burası geniş bir ovadır."
+      },
+      {
+        "zh": "华北平原盛产小麦。",
+        "pinyin": "Huáběi píngyuán shèngchǎn xiǎomài.",
+        "en": "Kuzey Çin Ovası buğday üretiminde zengindir."
+      },
+      {
+        "zh": "农民在平原上种植水稻。",
+        "pinyin": "Nóngmín zài píngyuán shàng zhòngzhí shuǐdào.",
+        "en": "Çiftçiler ovada pirinç yetiştiriyor."
+      },
+      {
+        "zh": "从山上望去，平原一望无际。",
+        "pinyin": "Cóng shān shàng wàngqù, píngyuán yíwàngwújì.",
+        "en": "Dağdan bakınca ova göz alabildiğine uzanıyor."
+      },
+      {
+        "zh": "这条河流经一片肥沃的平原。",
+        "pinyin": "Zhè tiáo hé liújīng yí piàn féiwò de píngyuán.",
+        "en": "Bu nehir verimli bir ovadan geçiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5184",
+    "hanzi": "瓶",
+    "pinyin": "píng",
+    "meaning": "şişe, kavanoz, vazo",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请给我一瓶水。",
+        "pinyin": "Qǐng gěi wǒ yì píng shuǐ.",
+        "en": "Bana bir şişe su verir misin."
+      },
+      {
+        "zh": "这个瓶子是空的。",
+        "pinyin": "Zhège píngzi shì kōng de.",
+        "en": "Bu şişe boş."
+      },
+      {
+        "zh": "桌上放着一瓶花。",
+        "pinyin": "Zhuō shàng fàngzhe yì píng huā.",
+        "en": "Masanın üstünde bir vazo çiçek duruyor."
+      },
+      {
+        "zh": "他买了一瓶酒。",
+        "pinyin": "Tā mǎi le yì píng jiǔ.",
+        "en": "Bir şişe içki aldı."
+      },
+      {
+        "zh": "把瓶盖拧紧。",
+        "pinyin": "Bǎ pínggài nǐngjǐn.",
+        "en": "Şişenin kapağını sıkıca kapat."
+      }
+    ]
+  },
+  {
+    "id": "w5185",
+    "hanzi": "屏幕",
+    "pinyin": "píngmù",
+    "meaning": "ekran",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "手机屏幕破了。",
+        "pinyin": "Shǒujī píngmù pò le.",
+        "en": "Telefonun ekranı kırıldı."
+      },
+      {
+        "zh": "电脑屏幕太亮了。",
+        "pinyin": "Diànnǎo píngmù tài liàng le.",
+        "en": "Bilgisayarın ekranı çok parlak."
+      },
+      {
+        "zh": "请看屏幕上的内容。",
+        "pinyin": "Qǐng kàn píngmù shàng de nèiróng.",
+        "en": "Lütfen ekrandaki içeriğe bakın."
+      },
+      {
+        "zh": "这台电视的屏幕很大。",
+        "pinyin": "Zhè tái diànshì de píngmù hěn dà.",
+        "en": "Bu televizyonun ekranı çok büyük."
+      },
+      {
+        "zh": "他长时间盯着屏幕工作。",
+        "pinyin": "Tā chángshíjiān dīngzhe píngmù gōngzuò.",
+        "en": "Uzun süre ekrana bakarak çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5186",
+    "hanzi": "评论",
+    "pinyin": "pínglùn",
+    "meaning": "yorum yapmak, eleştirmek; yorum",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "很多人在网上评论这部电影。",
+        "pinyin": "Hěnduō rén zài wǎngshàng pínglùn zhè bù diànyǐng.",
+        "en": "Birçok kişi bu filmi internette değerlendiriyor."
+      },
+      {
+        "zh": "他对这件事发表了自己的评论。",
+        "pinyin": "Tā duì zhè jiàn shì fābiǎo le zìjǐ de pínglùn.",
+        "en": "Bu konu hakkında kendi görüşünü açıkladı."
+      },
+      {
+        "zh": "请不要随便评论别人。",
+        "pinyin": "Qǐng búyào suíbiàn pínglùn biéren.",
+        "en": "Lütfen başkaları hakkında rastgele yorum yapma."
+      },
+      {
+        "zh": "这篇文章的评论很多。",
+        "pinyin": "Zhè piān wénzhāng de pínglùn hěnduō.",
+        "en": "Bu makalenin yorumları çok fazla."
+      },
+      {
+        "zh": "记者对政策进行了评论。",
+        "pinyin": "Jìzhě duì zhèngcè jìnxíng le pínglùn.",
+        "en": "Gazeteci politika hakkında yorum yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w5187",
+    "hanzi": "评估",
+    "pinyin": "pínggū",
+    "meaning": "değerlendirmek, değer biçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司对项目进行了评估。",
+        "pinyin": "Gōngsī duì xiàngmù jìnxíng le pínggū.",
+        "en": "Şirket projeyi değerlendirdi."
+      },
+      {
+        "zh": "专家评估了这座建筑的安全性。",
+        "pinyin": "Zhuānjiā pínggū le zhè zuò jiànzhù de ānquánxìng.",
+        "en": "Uzmanlar bu binanın güvenliğini değerlendirdi."
+      },
+      {
+        "zh": "我们需要评估这个方案的可行性。",
+        "pinyin": "Wǒmen xūyào pínggū zhège fāng'àn de kěxíngxìng.",
+        "en": "Bu planın uygulanabilirliğini değerlendirmemiz gerekiyor."
+      },
+      {
+        "zh": "老师会对学生的表现进行评估。",
+        "pinyin": "Lǎoshī huì duì xuésheng de biǎoxiàn jìnxíng pínggū.",
+        "en": "Öğretmen öğrencilerin performansını değerlendirecek."
+      },
+      {
+        "zh": "这套房子的价值被重新评估了。",
+        "pinyin": "Zhè tào fángzi de jiàzhí bèi chóngxīn pínggū le.",
+        "en": "Bu evin değeri yeniden değerlendirildi."
+      }
+    ]
+  },
+  {
+    "id": "w5188",
+    "hanzi": "凭借",
+    "pinyin": "píngjiè",
+    "meaning": "-e dayanarak, -in yardımıyla, aracılığıyla",
+    "partOfSpeech": "edat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他凭借努力取得了成功。",
+        "pinyin": "Tā píngjiè nǔlì qǔdé le chénggōng.",
+        "en": "Çabası sayesinde başarıya ulaştı."
+      },
+      {
+        "zh": "她凭借自己的能力找到了工作。",
+        "pinyin": "Tā píngjiè zìjǐ de nénglì zhǎodào le gōngzuò.",
+        "en": "Kendi yeteneği sayesinde iş buldu."
+      },
+      {
+        "zh": "他凭借经验解决了问题。",
+        "pinyin": "Tā píngjiè jīngyàn jiějué le wèntí.",
+        "en": "Deneyimine dayanarak sorunu çözdü."
+      },
+      {
+        "zh": "球队凭借顽强的意志赢得了比赛。",
+        "pinyin": "Qiúduì píngjiè wánqiáng de yìzhì yíngdé le bǐsài.",
+        "en": "Takım azimli iradesi sayesinde maçı kazandı."
+      },
+      {
+        "zh": "他凭借这份证明进入了大楼。",
+        "pinyin": "Tā píngjiè zhè fèn zhèngmíng jìnrù le dàlóu.",
+        "en": "Bu belge sayesinde binaya girdi."
+      }
+    ]
+  },
+  {
+    "id": "w5189",
+    "hanzi": "凭证",
+    "pinyin": "píngzhèng",
+    "meaning": "kanıt, belge",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "请保留购物凭证。",
+        "pinyin": "Qǐng bǎoliú gòuwù píngzhèng.",
+        "en": "Lütfen alışveriş belgesini saklayın."
+      },
+      {
+        "zh": "这是报销的重要凭证。",
+        "pinyin": "Zhè shì bàoxiāo de zhòngyào píngzhèng.",
+        "en": "Bu, masraf iadesi için önemli bir belgedir."
+      }
+    ]
+  },
+  {
+    "id": "w5190",
+    "hanzi": "泼",
+    "pinyin": "pō",
+    "meaning": "serpmek, dökmek, sıçratmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不小心把水泼在了衣服上。",
+        "pinyin": "Tā bùxiǎoxīn bǎ shuǐ pō zài le yīfu shàng.",
+        "en": "Yanlışlıkla suyu kıyafetin üstüne döktü."
+      },
+      {
+        "zh": "小心，别把汤泼出来。",
+        "pinyin": "Xiǎoxīn, bié bǎ tāng pō chūlái.",
+        "en": "Dikkat et, çorbayı dökme."
+      },
+      {
+        "zh": "她把脏水泼到了院子里。",
+        "pinyin": "Tā bǎ zāngshuǐ pō dào le yuànzi lǐ.",
+        "en": "Kirli suyu avluya döktü."
+      },
+      {
+        "zh": "雨水泼在窗户上。",
+        "pinyin": "Yǔshuǐ pō zài chuānghu shàng.",
+        "en": "Yağmur suyu pencereye çarpıyor."
+      },
+      {
+        "zh": "他生气地泼了一盆冷水。",
+        "pinyin": "Tā shēngqì de pō le yì pén lěngshuǐ.",
+        "en": "Öfkeyle bir kova soğuk su döktü."
+      }
+    ]
+  },
+  {
+    "id": "w5191",
+    "hanzi": "婆婆",
+    "pinyin": "pópó",
+    "meaning": "kayınvalide; büyükanne (halk dilinde)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她和婆婆的关系很好。",
+        "pinyin": "Tā hé pópó de guānxì hěn hǎo.",
+        "en": "Kayınvalidesiyle ilişkisi çok iyi."
+      },
+      {
+        "zh": "婆婆经常帮忙照顾孩子。",
+        "pinyin": "Pópó jīngcháng bāngmáng zhàogù háizi.",
+        "en": "Kayınvalide sık sık çocuğa bakmaya yardım ediyor."
+      },
+      {
+        "zh": "婆婆做的菜很好吃。",
+        "pinyin": "Pópó zuò de cài hěn hǎochī.",
+        "en": "Kayınvalidenin yaptığı yemekler çok lezzetli."
+      },
+      {
+        "zh": "她过年回婆婆家过节。",
+        "pinyin": "Tā guònián huí pópó jiā guòjié.",
+        "en": "Yılbaşında kayınvalidesinin evine giderek bayramı geçirdi."
+      },
+      {
+        "zh": "婆婆对她像亲女儿一样。",
+        "pinyin": "Pópó duì tā xiàng qīn nǚ'ér yíyàng.",
+        "en": "Kayınvalidesi ona öz kızı gibi davranıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5192",
+    "hanzi": "破裂",
+    "pinyin": "pòliè",
+    "meaning": "kırılmak, çatlamak; (ilişki için) bozulmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "水管破裂了，水流了一地。",
+        "pinyin": "Shuǐguǎn pòliè le, shuǐ liú le yí dì.",
+        "en": "Su borusu patladı, yer su içinde kaldı."
+      },
+      {
+        "zh": "两国的外交关系破裂了。",
+        "pinyin": "Liǎng guó de wàijiāo guānxì pòliè le.",
+        "en": "İki ülke arasındaki diplomatik ilişkiler bozuldu."
+      },
+      {
+        "zh": "他们的婚姻最终破裂了。",
+        "pinyin": "Tāmen de hūnyīn zuìzhōng pòliè le.",
+        "en": "Evlilikleri sonunda bozuldu."
+      },
+      {
+        "zh": "花瓶不小心破裂了。",
+        "pinyin": "Huāpíng bùxiǎoxīn pòliè le.",
+        "en": "Vazo yanlışlıkla kırıldı."
+      },
+      {
+        "zh": "合作关系因为误会而破裂。",
+        "pinyin": "Hézuò guānxì yīnwèi wùhuì ér pòliè.",
+        "en": "İşbirliği ilişkisi yanlış anlaşılma yüzünden bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w5193",
+    "hanzi": "破烂",
+    "pinyin": "pòlàn",
+    "meaning": "yırtık pırtık, eski püskü; hurda",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他穿着一件破烂的衣服。",
+        "pinyin": "Tā chuānzhe yí jiàn pòlàn de yīfu.",
+        "en": "Yırtık pırtık bir kıyafet giyiyor."
+      },
+      {
+        "zh": "这座房子已经很破烂了。",
+        "pinyin": "Zhè zuò fángzi yǐjīng hěn pòlàn le.",
+        "en": "Bu ev artık çok harap durumda."
+      },
+      {
+        "zh": "他捡起了地上的破烂东西。",
+        "pinyin": "Tā jiǎnqǐ le dìshàng de pòlàn dōngxi.",
+        "en": "Yerdeki hurda eşyaları topladı."
+      },
+      {
+        "zh": "这辆自行车又破又烂。",
+        "pinyin": "Zhè liàng zìxíngchē yòu pò yòu làn.",
+        "en": "Bu bisiklet hem kırık hem eski."
+      },
+      {
+        "zh": "他把破烂的家具扔掉了。",
+        "pinyin": "Tā bǎ pòlàn de jiājù rēngdiào le.",
+        "en": "Eskimiş mobilyaları çöpe attı."
+      }
+    ]
+  },
+  {
+    "id": "w5194",
+    "hanzi": "破碎",
+    "pinyin": "pòsuì",
+    "meaning": "kırık, paramparça",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "玻璃杯掉在地上破碎了。",
+        "pinyin": "Bōlibēi diào zài dì shàng pòsuì le.",
+        "en": "Bardak yere düşüp paramparça oldu."
+      },
+      {
+        "zh": "她的心已经破碎了。",
+        "pinyin": "Tā de xīn yǐjīng pòsuì le.",
+        "en": "Kalbi zaten paramparça oldu."
+      },
+      {
+        "zh": "战争让这个国家变得破碎不堪。",
+        "pinyin": "Zhànzhēng ràng zhège guójiā biànde pòsuì bùkān.",
+        "en": "Savaş bu ülkeyi paramparça etti."
+      },
+      {
+        "zh": "地上散落着破碎的瓷片。",
+        "pinyin": "Dìshàng sànluòzhe pòsuì de cípiàn.",
+        "en": "Yerde kırık porselen parçaları dağılmış halde."
+      },
+      {
+        "zh": "他捡起了破碎的镜子。",
+        "pinyin": "Tā jiǎnqǐ le pòsuì de jìngzi.",
+        "en": "Kırık aynayı topladı."
+      }
+    ]
+  },
+  {
+    "id": "w5195",
+    "hanzi": "破绽",
+    "pinyin": "pòzhàn",
+    "meaning": "kusur, açık, zayıf nokta",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的谎言很快就露出了破绽。",
+        "pinyin": "Tā de huǎngyán hěn kuài jiù lùchū le pòzhàn.",
+        "en": "Yalanı çok geçmeden açığa çıktı."
+      },
+      {
+        "zh": "警察发现了这个计划的破绽。",
+        "pinyin": "Jǐngchá fāxiàn le zhège jìhuà de pòzhàn.",
+        "en": "Polis bu planın açığını fark etti."
+      }
+    ]
+  },
+  {
+    "id": "w5196",
+    "hanzi": "魄力",
+    "pinyin": "pòlì",
+    "meaning": "cesaret, atılganlık",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做事很有魄力。",
+        "pinyin": "Tā zuòshì hěn yǒu pòlì.",
+        "en": "İşleri yaparken çok cesur ve atılgan davranır."
+      },
+      {
+        "zh": "领导需要有魄力和决断力。",
+        "pinyin": "Lǐngdǎo xūyào yǒu pòlì hé juéduànlì.",
+        "en": "Liderlerin cesaret ve karar verme gücüne sahip olması gerekir."
+      }
+    ]
   }
 ]

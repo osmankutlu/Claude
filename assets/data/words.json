@@ -219982,5 +219982,833 @@
         "en": "Damat düğünde bir teşekkür konuşması yaptı."
       }
     ]
+  },
+  {
+    "id": "w6599",
+    "hanzi": "新奇",
+    "pinyin": "xīnqí",
+    "meaning": "yeni ve farklı, alışılmışın dışında",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这个玩具很新奇。",
+        "pinyin": "Zhège wánjù hěn xīnqí.",
+        "en": "Bu oyuncak çok yeni ve farklı."
+      },
+      {
+        "zh": "孩子对什么都感到新奇。",
+        "pinyin": "Háizi duì shénme dōu gǎndào xīnqí.",
+        "en": "Çocuk her şeyi ilginç ve yeni buluyor."
+      },
+      {
+        "zh": "他有一个新奇的想法。",
+        "pinyin": "Tā yǒu yī gè xīnqí de xiǎngfǎ.",
+        "en": "Onun ilginç bir fikri var."
+      },
+      {
+        "zh": "这种技术在当时非常新奇。",
+        "pinyin": "Zhè zhǒng jìshù zài dāngshí fēicháng xīnqí.",
+        "en": "Bu teknoloji o dönemde çok yeniydi."
+      },
+      {
+        "zh": "商店里摆满了各种新奇的商品。",
+        "pinyin": "Shāngdiàn lǐ bǎimǎnle gèzhǒng xīnqí de shāngpǐn.",
+        "en": "Dükkanda çeşitli ilginç ürünler sergileniyor."
+      }
+    ]
+  },
+  {
+    "id": "w6600",
+    "hanzi": "新生",
+    "pinyin": "xīnshēng",
+    "meaning": "yeni doğmuş; yeni öğrenci",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "学校欢迎新生入学。",
+        "pinyin": "Xuéxiào huānyíng xīnshēng rùxué.",
+        "en": "Okul yeni öğrencileri karşılıyor."
+      },
+      {
+        "zh": "新生们正在办理注册手续。",
+        "pinyin": "Xīnshēngmen zhèngzài bànlǐ zhùcè shǒuxù.",
+        "en": "Yeni öğrenciler kayıt işlemlerini yapıyorlar."
+      },
+      {
+        "zh": "这是一个新生的婴儿。",
+        "pinyin": "Zhè shì yī gè xīnshēng de yīng'ér.",
+        "en": "Bu yeni doğmuş bir bebek."
+      },
+      {
+        "zh": "国家迎来了新生的希望。",
+        "pinyin": "Guójiā yíngláile xīnshēng de xīwàng.",
+        "en": "Ülke yeni bir umutla karşılaştı."
+      },
+      {
+        "zh": "他是这所大学的新生代表。",
+        "pinyin": "Tā shì zhè suǒ dàxué de xīnshēng dàibiǎo.",
+        "en": "O bu üniversitenin yeni öğrenci temsilcisi."
+      }
+    ]
+  },
+  {
+    "id": "w6601",
+    "hanzi": "新手",
+    "pinyin": "xīnshǒu",
+    "meaning": "acemi, yeni başlayan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "我在这个领域还是个新手。",
+        "pinyin": "Wǒ zài zhège lǐngyù hái shì gè xīnshǒu.",
+        "en": "Ben bu alanda hâlâ acemiyim."
+      },
+      {
+        "zh": "作为新手,他学得很快。",
+        "pinyin": "Zuòwéi xīnshǒu, tā xué de hěn kuài.",
+        "en": "Bir acemi olarak o çok hızlı öğreniyor."
+      },
+      {
+        "zh": "新手司机开车比较小心。",
+        "pinyin": "Xīnshǒu sījī kāichē bǐjiào xiǎoxīn.",
+        "en": "Acemi sürücüler daha dikkatli araba kullanır."
+      },
+      {
+        "zh": "这个游戏对新手很友好。",
+        "pinyin": "Zhège yóuxì duì xīnshǒu hěn yǒuhǎo.",
+        "en": "Bu oyun acemi oyuncular için uygun."
+      },
+      {
+        "zh": "老手会耐心指导新手。",
+        "pinyin": "Lǎoshǒu huì nàixīn zhǐdǎo xīnshǒu.",
+        "en": "Deneyimli kişiler acemilere sabırla rehberlik eder."
+      }
+    ]
+  },
+  {
+    "id": "w6602",
+    "hanzi": "新兴",
+    "pinyin": "xīnxīng",
+    "meaning": "yeni kurulmuş, gelişmekte olan",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这是一个新兴的行业。",
+        "pinyin": "Zhè shì yī gè xīnxīng de hángyè.",
+        "en": "Bu yeni gelişmekte olan bir sektördür."
+      },
+      {
+        "zh": "新兴市场吸引了大量投资。",
+        "pinyin": "Xīnxīng shìchǎng xīyǐnle dàliàng tóuzī.",
+        "en": "Gelişmekte olan piyasalar büyük miktarda yatırım çekti."
+      }
+    ]
+  },
+  {
+    "id": "w6603",
+    "hanzi": "新型",
+    "pinyin": "xīnxíng",
+    "meaning": "yeni tip, yeni model",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "公司推出了新型手机。",
+        "pinyin": "Gōngsī tuīchūle xīnxíng shǒujī.",
+        "en": "Şirket yeni model bir telefon çıkardı."
+      },
+      {
+        "zh": "这是一种新型的建筑材料。",
+        "pinyin": "Zhè shì yī zhǒng xīnxíng de jiànzhù cáiliào.",
+        "en": "Bu yeni tip bir inşaat malzemesidir."
+      },
+      {
+        "zh": "医院引进了新型医疗设备。",
+        "pinyin": "Yīyuàn yǐnjìnle xīnxíng yīliáo shèbèi.",
+        "en": "Hastane yeni tip tıbbi ekipman getirdi."
+      },
+      {
+        "zh": "科学家研发了新型疫苗。",
+        "pinyin": "Kēxuéjiā yánfāle xīnxíng yìmiáo.",
+        "en": "Bilim insanları yeni tip bir aşı geliştirdi."
+      },
+      {
+        "zh": "这座工厂使用新型能源发电。",
+        "pinyin": "Zhè zuò gōngchǎng shǐyòng xīnxíng néngyuán fādiàn.",
+        "en": "Bu fabrika elektrik üretmek için yeni tip enerji kullanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6604",
+    "hanzi": "新颖",
+    "pinyin": "xīnyǐng",
+    "meaning": "yeni ve özgün, alışılmışın dışında",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的设计非常新颖。",
+        "pinyin": "Tā de shèjì fēicháng xīnyǐng.",
+        "en": "Onun tasarımı son derece özgün."
+      },
+      {
+        "zh": "这个想法很新颖,值得尝试。",
+        "pinyin": "Zhège xiǎngfǎ hěn xīnyǐng, zhídé chángshì.",
+        "en": "Bu fikir çok yeni, denemeye değer."
+      }
+    ]
+  },
+  {
+    "id": "w6605",
+    "hanzi": "薪",
+    "pinyin": "xīn",
+    "meaning": "maaş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他每月按时领薪。",
+        "pinyin": "Tā měi yuè ànshí lǐng xīn.",
+        "en": "O her ay zamanında maaşını alıyor."
+      },
+      {
+        "zh": "这份工作薪水不错。",
+        "pinyin": "Zhè fèn gōngzuò xīnshuǐ bùcuò.",
+        "en": "Bu işin maaşı fena değil."
+      },
+      {
+        "zh": "公司决定给员工加薪。",
+        "pinyin": "Gōngsī juédìng gěi yuángōng jiāxīn.",
+        "en": "Şirket çalışanlara zam yapmaya karar verdi."
+      },
+      {
+        "zh": "他薪金很高,但工作很累。",
+        "pinyin": "Tā xīnjīn hěn gāo, dàn gōngzuò hěn lèi.",
+        "en": "Onun maaşı yüksek ama işi çok yorucu."
+      },
+      {
+        "zh": "他因薪资问题辞职了。",
+        "pinyin": "Tā yīn xīnzī wèntí cízhí le.",
+        "en": "O maaş sorunu yüzünden istifa etti."
+      }
+    ]
+  },
+  {
+    "id": "w6606",
+    "hanzi": "欣慰",
+    "pinyin": "xīnwèi",
+    "meaning": "memnun, huzurlu, rahatlamış",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "看到孩子的成绩,妈妈感到很欣慰。",
+        "pinyin": "Kàndào háizi de chéngjì, māma gǎndào hěn xīnwèi.",
+        "en": "Çocuğunun notlarını görünce annesi çok memnun oldu."
+      },
+      {
+        "zh": "老师对学生的进步感到欣慰。",
+        "pinyin": "Lǎoshī duì xuésheng de jìnbù gǎndào xīnwèi.",
+        "en": "Öğretmen öğrencinin ilerlemesinden memnun oldu."
+      }
+    ]
+  },
+  {
+    "id": "w6607",
+    "hanzi": "欣喜",
+    "pinyin": "xīnxǐ",
+    "meaning": "mutlu, sevinçli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "听到这个好消息,他十分欣喜。",
+        "pinyin": "Tīngdào zhège hǎo xiāoxi, tā shífēn xīnxǐ.",
+        "en": "Bu güzel haberi duyunca çok sevindi."
+      },
+      {
+        "zh": "她欣喜地跳了起来。",
+        "pinyin": "Tā xīnxǐ de tiàole qǐlai.",
+        "en": "O sevinçle sıçradı."
+      }
+    ]
+  },
+  {
+    "id": "w6608",
+    "hanzi": "信贷",
+    "pinyin": "xìndài",
+    "meaning": "kredi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "银行提供了低息信贷。",
+        "pinyin": "Yínháng tígōngle dīxī xìndài.",
+        "en": "Banka düşük faizli kredi sundu."
+      },
+      {
+        "zh": "这家公司靠信贷维持运营。",
+        "pinyin": "Zhè jiā gōngsī kào xìndài wéichí yùnyíng.",
+        "en": "Bu şirket kredi ile faaliyetlerini sürdürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6609",
+    "hanzi": "信件",
+    "pinyin": "xìnjiàn",
+    "meaning": "mektup, posta",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他每天都要处理很多信件。",
+        "pinyin": "Tā měitiān dōu yào chǔlǐ hěn duō xìnjiàn.",
+        "en": "O her gün birçok mektubu işleme koyuyor."
+      },
+      {
+        "zh": "这封信件是从国外寄来的。",
+        "pinyin": "Zhè fēng xìnjiàn shì cóng guówài jì lái de.",
+        "en": "Bu mektup yurt dışından gönderildi."
+      },
+      {
+        "zh": "请把信件放在桌子上。",
+        "pinyin": "Qǐng bǎ xìnjiàn fàng zài zhuōzi shàng.",
+        "en": "Lütfen mektupları masanın üzerine koy."
+      },
+      {
+        "zh": "他保存了所有旧的信件。",
+        "pinyin": "Tā bǎocúnle suǒyǒu jiù de xìnjiàn.",
+        "en": "O tüm eski mektupları sakladı."
+      },
+      {
+        "zh": "邮递员每天送来大量信件。",
+        "pinyin": "Yóudìyuán měitiān sòng lái dàliàng xìnjiàn.",
+        "en": "Postacı her gün çok sayıda mektup getiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6610",
+    "hanzi": "信赖",
+    "pinyin": "xìnlài",
+    "meaning": "güvenmek, güvenilir olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "顾客对这个品牌非常信赖。",
+        "pinyin": "Gùkè duì zhège pǐnpái fēicháng xìnlài.",
+        "en": "Müşteriler bu markaya çok güveniyor."
+      },
+      {
+        "zh": "他是一个值得信赖的朋友。",
+        "pinyin": "Tā shì yī gè zhídé xìnlài de péngyou.",
+        "en": "O güvenilir bir arkadaş."
+      }
+    ]
+  },
+  {
+    "id": "w6611",
+    "hanzi": "信念",
+    "pinyin": "xìnniàn",
+    "meaning": "inanç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他有坚定的信念。",
+        "pinyin": "Tā yǒu jiāndìng de xìnniàn.",
+        "en": "O sağlam bir inanca sahip."
+      },
+      {
+        "zh": "信念支撑着他走过困难时期。",
+        "pinyin": "Xìnniàn zhīchēngzhe tā zǒuguò kùnnan shíqī.",
+        "en": "İnancı, onun zorlu dönemi atlatmasını sağladı."
+      },
+      {
+        "zh": "她从不动摇自己的信念。",
+        "pinyin": "Tā cóng bù dòngyáo zìjǐ de xìnniàn.",
+        "en": "O kendi inancından asla vazgeçmedi."
+      },
+      {
+        "zh": "坚定的信念是成功的基础。",
+        "pinyin": "Jiāndìng de xìnniàn shì chénggōng de jīchǔ.",
+        "en": "Sağlam inanç başarının temelidir."
+      },
+      {
+        "zh": "他为了自己的信念坚持不懈。",
+        "pinyin": "Tā wèile zìjǐ de xìnniàn jiānchí bùxiè.",
+        "en": "O kendi inancı için sürekli mücadele etti."
+      }
+    ]
+  },
+  {
+    "id": "w6612",
+    "hanzi": "信箱",
+    "pinyin": "xìnxiāng",
+    "meaning": "posta kutusu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请把信放进信箱。",
+        "pinyin": "Qǐng bǎ xìn fàng jìn xìnxiāng.",
+        "en": "Lütfen mektubu posta kutusuna koy."
+      },
+      {
+        "zh": "他每天都去检查信箱。",
+        "pinyin": "Tā měitiān dōu qù jiǎnchá xìnxiāng.",
+        "en": "O her gün posta kutusunu kontrol ediyor."
+      },
+      {
+        "zh": "信箱里有一封重要的信。",
+        "pinyin": "Xìnxiāng lǐ yǒu yī fēng zhòngyào de xìn.",
+        "en": "Posta kutusunda önemli bir mektup var."
+      },
+      {
+        "zh": "电子信箱可以随时收发邮件。",
+        "pinyin": "Diànzǐ xìnxiāng kěyǐ suíshí shōufā yóujiàn.",
+        "en": "E-posta kutusu istenilen zaman e-posta alıp gönderebilir."
+      },
+      {
+        "zh": "小区门口安装了信箱。",
+        "pinyin": "Xiǎoqū ménkǒu ānzhuāngle xìnxiāng.",
+        "en": "Sitenin girişine posta kutusu kuruldu."
+      }
+    ]
+  },
+  {
+    "id": "w6613",
+    "hanzi": "兴起",
+    "pinyin": "xīngqǐ",
+    "meaning": "ortaya çıkıp hızla büyümek, yükselmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个行业最近兴起了。",
+        "pinyin": "Zhège hángyè zuìjìn xīngqǐ le.",
+        "en": "Bu sektör son zamanlarda hızla büyüdü."
+      },
+      {
+        "zh": "网络购物在近年迅速兴起。",
+        "pinyin": "Wǎngluò gòuwù zài jìnnián xùnsù xīngqǐ.",
+        "en": "Çevrimiçi alışveriş son yıllarda hızla gelişti."
+      }
+    ]
+  },
+  {
+    "id": "w6614",
+    "hanzi": "兴旺",
+    "pinyin": "xīngwàng",
+    "meaning": "müreffeh, gelişmiş, gönençli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们家生意很兴旺。",
+        "pinyin": "Tāmen jiā shēngyì hěn xīngwàng.",
+        "en": "Onların ailesinin işi çok başarılı gidiyor."
+      },
+      {
+        "zh": "这个国家经济日益兴旺。",
+        "pinyin": "Zhège guójiā jīngjì rìyì xīngwàng.",
+        "en": "Bu ülkenin ekonomisi gittikçe gelişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6615",
+    "hanzi": "星",
+    "pinyin": "xīng",
+    "meaning": "yıldız",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "今晚的星特别多。",
+        "pinyin": "Jīnwǎn de xīng tèbié duō.",
+        "en": "Bu akşam çok fazla yıldız var."
+      },
+      {
+        "zh": "他是一颗明星。",
+        "pinyin": "Tā shì yī kē míngxīng.",
+        "en": "O bir ünlü kişidir."
+      },
+      {
+        "zh": "孩子们喜欢数星星。",
+        "pinyin": "Háizimen xǐhuān shǔ xīngxing.",
+        "en": "Çocuklar yıldızları saymayı sever."
+      },
+      {
+        "zh": "夜空中的星闪闪发光。",
+        "pinyin": "Yèkōng zhōng de xīng shǎnshǎn fāguāng.",
+        "en": "Gece gökyüzündeki yıldızlar parlıyor."
+      },
+      {
+        "zh": "这颗星距离地球很远。",
+        "pinyin": "Zhè kē xīng jùlí dìqiú hěn yuǎn.",
+        "en": "Bu yıldız dünyaya çok uzak."
+      }
+    ]
+  },
+  {
+    "id": "w6616",
+    "hanzi": "星球",
+    "pinyin": "xīngqiú",
+    "meaning": "gezegen, yıldız",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "地球是我们生活的星球。",
+        "pinyin": "Dìqiú shì wǒmen shēnghuó de xīngqiú.",
+        "en": "Dünya bizim yaşadığımız gezegendir."
+      },
+      {
+        "zh": "科学家发现了一颗新星球。",
+        "pinyin": "Kēxuéjiā fāxiànle yī kē xīn xīngqiú.",
+        "en": "Bilim insanları yeni bir gezegen keşfetti."
+      },
+      {
+        "zh": "太阳系有八颗星球。",
+        "pinyin": "Tàiyángxì yǒu bā kē xīngqiú.",
+        "en": "Güneş sisteminde sekiz gezegen var."
+      },
+      {
+        "zh": "这个星球上没有生命存在。",
+        "pinyin": "Zhège xīngqiú shàng méiyǒu shēngmìng cúnzài.",
+        "en": "Bu gezegende hayat bulunmamaktadır."
+      },
+      {
+        "zh": "我们的星球正面临气候变化的威胁。",
+        "pinyin": "Wǒmen de xīngqiú zhèng miànlín qìhòu biànhuà de wēixié.",
+        "en": "Gezegenimiz iklim değişikliği tehdidiyle karşı karşıya."
+      }
+    ]
+  },
+  {
+    "id": "w6617",
+    "hanzi": "星座",
+    "pinyin": "xīngzuò",
+    "meaning": "burç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "你是什么星座?",
+        "pinyin": "Nǐ shì shénme xīngzuò?",
+        "en": "Sen hangi burçsun?"
+      },
+      {
+        "zh": "她很喜欢看星座运势。",
+        "pinyin": "Tā hěn xǐhuān kàn xīngzuò yùnshì.",
+        "en": "O burç yorumlarını okumayı çok sever."
+      },
+      {
+        "zh": "十二星座各有不同的性格。",
+        "pinyin": "Shí'èr xīngzuò gè yǒu bùtóng de xìnggé.",
+        "en": "On iki burcun her birinin farklı karakteri vardır."
+      },
+      {
+        "zh": "他相信星座能反映人的性格。",
+        "pinyin": "Tā xiāngxìn xīngzuò néng fǎnyìng rén de xìnggé.",
+        "en": "O burçların insan karakterini yansıtabileceğine inanıyor."
+      },
+      {
+        "zh": "夜空中可以看到很多星座。",
+        "pinyin": "Yèkōng zhōng kěyǐ kàndào hěn duō xīngzuò.",
+        "en": "Gece gökyüzünde birçok takımyıldız görülebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6618",
+    "hanzi": "形",
+    "pinyin": "xíng",
+    "meaning": "şekil, biçim; vücut, beden",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这块石头呈圆形。",
+        "pinyin": "Zhè kuài shítou chéng yuánxíng.",
+        "en": "Bu taş yuvarlak bir şekle sahip."
+      },
+      {
+        "zh": "他的身形很瘦。",
+        "pinyin": "Tā de shēnxíng hěn shòu.",
+        "en": "Onun vücut yapısı çok zayıf."
+      },
+      {
+        "zh": "这两个形状很相似。",
+        "pinyin": "Zhè liǎng gè xíngzhuàng hěn xiāngsì.",
+        "en": "Bu iki şekil birbirine çok benziyor."
+      },
+      {
+        "zh": "云的形状不断变化。",
+        "pinyin": "Yún de xíngzhuàng bùduàn biànhuà.",
+        "en": "Bulutun şekli sürekli değişiyor."
+      },
+      {
+        "zh": "他把想法画成了图形。",
+        "pinyin": "Tā bǎ xiǎngfǎ huàchéngle túxíng.",
+        "en": "O fikrini bir şekil halinde çizdi."
+      }
+    ]
+  },
+  {
+    "id": "w6619",
+    "hanzi": "形容词",
+    "pinyin": "xíngróngcí",
+    "meaning": "sıfat (dilbilgisi)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "“漂亮”是一个形容词。",
+        "pinyin": "\"Piàoliang\" shì yī gè xíngróngcí.",
+        "en": "'Güzel' bir sıfattır."
+      },
+      {
+        "zh": "请找出句子中的形容词。",
+        "pinyin": "Qǐng zhǎochū jùzi zhōng de xíngróngcí.",
+        "en": "Lütfen cümledeki sıfatı bulun."
+      },
+      {
+        "zh": "汉语中的形容词有很多种用法。",
+        "pinyin": "Hànyǔ zhōng de xíngróngcí yǒu hěn duō zhǒng yòngfǎ.",
+        "en": "Çincedeki sıfatların birçok kullanım şekli vardır."
+      },
+      {
+        "zh": "形容词通常用来修饰名词。",
+        "pinyin": "Xíngróngcí tōngcháng yòng lái xiūshì míngcí.",
+        "en": "Sıfatlar genellikle isimleri nitelemek için kullanılır."
+      },
+      {
+        "zh": "老师讲解了形容词的用法。",
+        "pinyin": "Lǎoshī jiǎngjiěle xíngróngcí de yòngfǎ.",
+        "en": "Öğretmen sıfatın kullanımını anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w6620",
+    "hanzi": "形态",
+    "pinyin": "xíngtài",
+    "meaning": "şekil, biçim, form",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种物质有多种形态。",
+        "pinyin": "Zhè zhǒng wùzhì yǒu duō zhǒng xíngtài.",
+        "en": "Bu madde birçok farklı formda bulunabilir."
+      },
+      {
+        "zh": "社会的经济形态在不断变化。",
+        "pinyin": "Shèhuì de jīngjì xíngtài zài bùduàn biànhuà.",
+        "en": "Toplumun ekonomik şekli sürekli değişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6621",
+    "hanzi": "刑法",
+    "pinyin": "xíngfǎ",
+    "meaning": "ceza hukuku",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他正在研究刑法。",
+        "pinyin": "Tā zhèngzài yánjiū xíngfǎ.",
+        "en": "O ceza hukuku üzerinde çalışıyor."
+      },
+      {
+        "zh": "这个案件涉及刑法条款。",
+        "pinyin": "Zhège ànjiàn shèjí xíngfǎ tiáokuǎn.",
+        "en": "Bu dava ceza hukuku maddelerini kapsıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6622",
+    "hanzi": "型号",
+    "pinyin": "xínghào",
+    "meaning": "model, çeşit",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这款手机有好几种型号。",
+        "pinyin": "Zhè kuǎn shǒujī yǒu hǎojǐ zhǒng xínghào.",
+        "en": "Bu telefon modelinin birkaç çeşidi var."
+      },
+      {
+        "zh": "请提供设备的型号信息。",
+        "pinyin": "Qǐng tígōng shèbèi de xínghào xìnxī.",
+        "en": "Lütfen cihazın model bilgisini sağlayın."
+      }
+    ]
+  },
+  {
+    "id": "w6623",
+    "hanzi": "行李",
+    "pinyin": "xíngli",
+    "meaning": "bagaj, valiz",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "请拿好你的行李。",
+        "pinyin": "Qǐng ná hǎo nǐ de xíngli.",
+        "en": "Lütfen bagajını al."
+      },
+      {
+        "zh": "他的行李很多。",
+        "pinyin": "Tā de xíngli hěn duō.",
+        "en": "Onun bagajı çok fazla."
+      },
+      {
+        "zh": "我们在机场托运了行李。",
+        "pinyin": "Wǒmen zài jīchǎng tuōyùnle xíngli.",
+        "en": "Havaalanında bagajımızı teslim ettik."
+      },
+      {
+        "zh": "请检查一下你的行李是否齐全。",
+        "pinyin": "Qǐng jiǎnchá yīxià nǐ de xíngli shìfǒu qíquán.",
+        "en": "Lütfen bagajının eksiksiz olup olmadığını kontrol et."
+      },
+      {
+        "zh": "行李箱放在车后备箱里。",
+        "pinyin": "Xínglixiāng fàng zài chē hòubèixiāng lǐ.",
+        "en": "Bavul arabanın bagajına konuldu."
+      }
+    ]
+  },
+  {
+    "id": "w6624",
+    "hanzi": "幸好",
+    "pinyin": "xìnghǎo",
+    "meaning": "çok şükür, iyi ki, bereket versin",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "幸好我们及时赶到了。",
+        "pinyin": "Xìnghǎo wǒmen jíshí gǎndào le.",
+        "en": "Çok şükür zamanında yetiştik."
+      },
+      {
+        "zh": "幸好带了雨伞。",
+        "pinyin": "Xìnghǎo dàile yǔsǎn.",
+        "en": "İyi ki şemsiye getirmişim."
+      },
+      {
+        "zh": "幸好没有出什么大问题。",
+        "pinyin": "Xìnghǎo méiyǒu chū shénme dà wèntí.",
+        "en": "Çok şükür büyük bir sorun çıkmadı."
+      },
+      {
+        "zh": "幸好有你在,我才没有迷路。",
+        "pinyin": "Xìnghǎo yǒu nǐ zài, wǒ cái méiyǒu mílù.",
+        "en": "İyi ki sen yanımdaydın, yoksa kaybolurdum."
+      },
+      {
+        "zh": "幸好医生及时诊断出了病情。",
+        "pinyin": "Xìnghǎo yīshēng jíshí zhěnduàn chūle bìngqíng.",
+        "en": "Çok şükür doktor hastalığı zamanında teşhis etti."
+      }
+    ]
+  },
+  {
+    "id": "w6625",
+    "hanzi": "性命",
+    "pinyin": "xìngmìng",
+    "meaning": "hayat, can",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生救了他的性命。",
+        "pinyin": "Yīshēng jiùle tā de xìngmìng.",
+        "en": "Doktor onun canını kurtardı."
+      },
+      {
+        "zh": "这场事故差点要了他的性命。",
+        "pinyin": "Zhè chǎng shìgù chàdiǎn yàole tā de xìngmìng.",
+        "en": "Bu kaza az kalsın onun canına mal oluyordu."
+      }
+    ]
+  },
+  {
+    "id": "w6626",
+    "hanzi": "性能",
+    "pinyin": "xìngnéng",
+    "meaning": "işlev, fonksiyon, performans",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台电脑的性能很好。",
+        "pinyin": "Zhè tái diànnǎo de xìngnéng hěn hǎo.",
+        "en": "Bu bilgisayarın performansı çok iyi."
+      },
+      {
+        "zh": "新车的性能得到了提升。",
+        "pinyin": "Xīn chē de xìngnéng dédàole tíshēng.",
+        "en": "Yeni arabanın performansı geliştirildi."
+      },
+      {
+        "zh": "这款软件性能稳定。",
+        "pinyin": "Zhè kuǎn ruǎnjiàn xìngnéng wěndìng.",
+        "en": "Bu yazılımın performansı istikrarlı."
+      },
+      {
+        "zh": "他们测试了产品的各项性能。",
+        "pinyin": "Tāmen cèshìle chǎnpǐn de gèxiàng xìngnéng.",
+        "en": "Onlar ürünün çeşitli performans özelliklerini test etti."
+      },
+      {
+        "zh": "高性能设备价格较高。",
+        "pinyin": "Gāo xìngnéng shèbèi jiàgé jiào gāo.",
+        "en": "Yüksek performanslı ekipmanların fiyatı daha yüksektir."
+      }
+    ]
   }
 ]

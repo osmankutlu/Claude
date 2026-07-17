@@ -255811,5 +255811,788 @@
         "en": "Bahar yağmuru toprağı nemlendirdi."
       }
     ]
+  },
+  {
+    "id": "w7799",
+    "hanzi": "滋生",
+    "pinyin": "zīshēng",
+    "meaning": "üremek, çoğalmak (genellikle olumsuz bağlamda)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "潮湿环境容易滋生细菌。",
+        "pinyin": "Cháoshī huánjìng róngyì zīshēng xìjūn.",
+        "en": "Nemli ortam bakteri üremesine yol açar."
+      },
+      {
+        "zh": "垃圾堆积会滋生蚊虫。",
+        "pinyin": "Lājī duījī huì zīshēng wénchóng.",
+        "en": "Çöp birikimi sivrisinek üremesine neden olur."
+      }
+    ]
+  },
+  {
+    "id": "w7800",
+    "hanzi": "滋味",
+    "pinyin": "zīwèi",
+    "meaning": "tat, lezzet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yemek",
+    "examples": [
+      {
+        "zh": "这道菜滋味鲜美。",
+        "pinyin": "Zhè dào cài zīwèi xiānměi.",
+        "en": "Bu yemeğin tadı çok lezzetli."
+      },
+      {
+        "zh": "他细细品尝这道菜的滋味。",
+        "pinyin": "Tā xìxì pǐncháng zhè dào cài de zīwèi.",
+        "en": "Bu yemeğin tadını dikkatle inceledi."
+      },
+      {
+        "zh": "失败的滋味不好受。",
+        "pinyin": "Shībài de zīwèi bù hǎoshòu.",
+        "en": "Başarısızlığın tadı hoş değil."
+      },
+      {
+        "zh": "初恋的滋味让人难忘。",
+        "pinyin": "Chūliàn de zīwèi ràng rén nánwàng.",
+        "en": "İlk aşkın tadı unutulmazdır."
+      },
+      {
+        "zh": "这碗汤的滋味很独特。",
+        "pinyin": "Zhè wǎn tāng de zīwèi hěn dútè.",
+        "en": "Bu çorbanın tadı çok özgün."
+      }
+    ]
+  },
+  {
+    "id": "w7801",
+    "hanzi": "滋养",
+    "pinyin": "zīyǎng",
+    "meaning": "beslemek, büyütmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "阅读滋养了他的心灵。",
+        "pinyin": "Yuèdú zīyǎngle tā de xīnlíng.",
+        "en": "Okumak ruhunu besledi."
+      },
+      {
+        "zh": "这道汤能滋养身体。",
+        "pinyin": "Zhè dào tāng néng zīyǎng shēntǐ.",
+        "en": "Bu çorba vücudu besleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w7802",
+    "hanzi": "滋长",
+    "pinyin": "zīzhǎng",
+    "meaning": "büyümek, gelişmek (genellikle olumsuz)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "骄傲情绪逐渐滋长。",
+        "pinyin": "Jiāo'ào qíngxù zhújiàn zīzhǎng.",
+        "en": "Gurur duygusu giderek büyüdü."
+      },
+      {
+        "zh": "不满情绪在员工中滋长。",
+        "pinyin": "Bùmǎn qíngxù zài yuángōng zhōng zīzhǎng.",
+        "en": "Memnuniyetsizlik duygusu çalışanlar arasında yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7803",
+    "hanzi": "吱声",
+    "pinyin": "zīshēng",
+    "meaning": "ses çıkarmak, konuşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他一声不吱地走了。",
+        "pinyin": "Tā yìshēng bù zī de zǒu le.",
+        "en": "Hiç ses çıkarmadan gitti."
+      },
+      {
+        "zh": "有意见就吱声，别闷在心里。",
+        "pinyin": "Yǒu yìjiàn jiù zīshēng, bié mèn zài xīnlǐ.",
+        "en": "Fikrin varsa söyle, içine atma."
+      }
+    ]
+  },
+  {
+    "id": "w7804",
+    "hanzi": "孜孜不倦",
+    "pinyin": "zīzī-bùjuàn",
+    "meaning": "durmadan, azimle çalışmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他孜孜不倦地学习。",
+        "pinyin": "Tā zīzī-bùjuàn de xuéxí.",
+        "en": "Durmadan azimle çalışıyor."
+      },
+      {
+        "zh": "科学家们孜孜不倦地探索真理。",
+        "pinyin": "Kēxuéjiāmen zīzī-bùjuàn de tànsuǒ zhēnlǐ.",
+        "en": "Bilim insanları durmadan gerçeği araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7805",
+    "hanzi": "紫罗兰",
+    "pinyin": "zǐluólán",
+    "meaning": "menekşe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "花园里种了紫罗兰。",
+        "pinyin": "Huāyuán lǐ zhòngle zǐluólán.",
+        "en": "Bahçeye menekşe ekildi."
+      },
+      {
+        "zh": "紫罗兰的香气很淡雅。",
+        "pinyin": "Zǐluólán de xiāngqì hěn dànyǎ.",
+        "en": "Menekşenin kokusu hafif ve zarif."
+      },
+      {
+        "zh": "她最喜欢紫罗兰色。",
+        "pinyin": "Tā zuì xǐhuan zǐluólánsè.",
+        "en": "En sevdiği renk menekşe rengi."
+      },
+      {
+        "zh": "他送给她一束紫罗兰。",
+        "pinyin": "Tā sòng gěi tā yí shù zǐluólán.",
+        "en": "Ona bir demet menekşe verdi."
+      },
+      {
+        "zh": "紫罗兰适合在春天种植。",
+        "pinyin": "Zǐluólán shìhé zài chūntiān zhòngzhí.",
+        "en": "Menekşe baharda ekilmeye uygundur."
+      }
+    ]
+  },
+  {
+    "id": "w7806",
+    "hanzi": "紫外线",
+    "pinyin": "zǐwàixiàn",
+    "meaning": "mor ötesi ışın",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "夏天紫外线很强。",
+        "pinyin": "Xiàtiān zǐwàixiàn hěn qiáng.",
+        "en": "Yazın mor ötesi ışınlar çok güçlü."
+      },
+      {
+        "zh": "防晒霜可以阻挡紫外线。",
+        "pinyin": "Fángshàishuāng kěyǐ zǔdǎng zǐwàixiàn.",
+        "en": "Güneş kremi mor ötesi ışınları engelleyebilir."
+      },
+      {
+        "zh": "紫外线会损伤皮肤。",
+        "pinyin": "Zǐwàixiàn huì sǔnshāng pífū.",
+        "en": "Mor ötesi ışınlar cilde zarar verebilir."
+      },
+      {
+        "zh": "臭氧层能过滤大部分紫外线。",
+        "pinyin": "Chòuyǎngcéng néng guòlǜ dà bùfen zǐwàixiàn.",
+        "en": "Ozon tabakası mor ötesi ışınların çoğunu süzebilir."
+      },
+      {
+        "zh": "出门要注意防紫外线。",
+        "pinyin": "Chūmén yào zhùyì fáng zǐwàixiàn.",
+        "en": "Dışarı çıkarken mor ötesi ışınlara karşı korunma dikkat edilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7807",
+    "hanzi": "姊妹",
+    "pinyin": "zǐmèi",
+    "meaning": "kız kardeşler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她们是亲姊妹。",
+        "pinyin": "Tāmen shì qīn zǐmèi.",
+        "en": "Onlar öz kız kardeşler."
+      },
+      {
+        "zh": "这两所学校是姊妹学校。",
+        "pinyin": "Zhè liǎng suǒ xuéxiào shì zǐmèi xuéxiào.",
+        "en": "Bu iki okul kardeş okuldur."
+      },
+      {
+        "zh": "姊妹俩感情很好。",
+        "pinyin": "Zǐmèi liǎ gǎnqíng hěn hǎo.",
+        "en": "İki kız kardeşin arası çok iyi."
+      },
+      {
+        "zh": "两个城市结为姊妹城市。",
+        "pinyin": "Liǎng gè chéngshì jié wéi zǐmèi chéngshì.",
+        "en": "İki şehir kardeş şehir oldu."
+      },
+      {
+        "zh": "她把闺蜜当作姊妹一样。",
+        "pinyin": "Tā bǎ guīmì dàngzuò zǐmèi yíyàng.",
+        "en": "En yakın arkadaşını kız kardeşi gibi görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7808",
+    "hanzi": "子",
+    "pinyin": "zǐ",
+    "meaning": "oğul, çocuk; çekirdek, tane",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他是家中的独子。",
+        "pinyin": "Tā shì jiā zhōng de dúzǐ.",
+        "en": "Ailenin tek erkek çocuğu o."
+      },
+      {
+        "zh": "这是一颗棋子。",
+        "pinyin": "Zhè shì yì kē qízǐ.",
+        "en": "Bu bir satranç taşı."
+      },
+      {
+        "zh": "西瓜有很多籽儿。",
+        "pinyin": "Xīguā yǒu hěn duō zǐr.",
+        "en": "Karpuzun birçok çekirdeği var."
+      },
+      {
+        "zh": "父母望子成龙。",
+        "pinyin": "Fùmǔ wàngzǐchénglóng.",
+        "en": "Ebeveynler evlatlarının başarılı olmasını umuyor."
+      },
+      {
+        "zh": "他是孔子的弟子。",
+        "pinyin": "Tā shì Kǒngzǐ de dìzǐ.",
+        "en": "O, Konfüçyüs'ün öğrencisidir."
+      }
+    ]
+  },
+  {
+    "id": "w7809",
+    "hanzi": "子弹",
+    "pinyin": "zǐdàn",
+    "meaning": "kurşun, mermi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他中了一枪子弹。",
+        "pinyin": "Tā zhòngle yì qiāng zǐdàn.",
+        "en": "Bir kurşun isabet etti."
+      },
+      {
+        "zh": "枪里还有几发子弹。",
+        "pinyin": "Qiāng lǐ hái yǒu jǐ fā zǐdàn.",
+        "en": "Silahta hâlâ birkaç mermi var."
+      },
+      {
+        "zh": "子弹擦过他的手臂。",
+        "pinyin": "Zǐdàn cāguò tā de shǒubì.",
+        "en": "Kurşun kolunu sıyırıp geçti."
+      },
+      {
+        "zh": "警方在现场找到了子弹壳。",
+        "pinyin": "Jǐngfāng zài xiànchǎng zhǎodàole zǐdànké.",
+        "en": "Polis olay yerinde kovan buldu."
+      },
+      {
+        "zh": "他往枪里装了子弹。",
+        "pinyin": "Tā wǎng qiāng lǐ zhuāngle zǐdàn.",
+        "en": "Silaha mermi doldurdu."
+      }
+    ]
+  },
+  {
+    "id": "w7810",
+    "hanzi": "子弟",
+    "pinyin": "zǐdì",
+    "meaning": "evlat, genç nesil",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这所学校专门招收军人子弟。",
+        "pinyin": "Zhè suǒ xuéxiào zhuānmén zhāoshōu jūnrén zǐdì.",
+        "en": "Bu okul özellikle askerlerin çocuklarını kabul ediyor."
+      },
+      {
+        "zh": "他是本地的知名子弟。",
+        "pinyin": "Tā shì běndì de zhīmíng zǐdì.",
+        "en": "O bu bölgenin tanınmış gençlerinden."
+      }
+    ]
+  },
+  {
+    "id": "w7811",
+    "hanzi": "子宫",
+    "pinyin": "zǐgōng",
+    "meaning": "rahim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生检查了她的子宫。",
+        "pinyin": "Yīshēng jiǎnchále tā de zǐgōng.",
+        "en": "Doktor rahmini muayene etti."
+      },
+      {
+        "zh": "胎儿在子宫里发育。",
+        "pinyin": "Tāi'ér zài zǐgōng lǐ fāyù.",
+        "en": "Fetüs rahimde gelişiyor."
+      },
+      {
+        "zh": "她因子宫肌瘤住院了。",
+        "pinyin": "Tā yīn zǐgōng jīliú zhùyuàn le.",
+        "en": "Rahim miyomu nedeniyle hastaneye yattı."
+      },
+      {
+        "zh": "定期妇科检查有助于子宫健康。",
+        "pinyin": "Dìngqī fùkē jiǎnchá yǒuzhùyú zǐgōng jiànkāng.",
+        "en": "Düzenli jinekolojik muayeneler rahim sağlığına yardımcı olur."
+      },
+      {
+        "zh": "她做了子宫手术。",
+        "pinyin": "Tā zuòle zǐgōng shǒushù.",
+        "en": "Rahim ameliyatı oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7812",
+    "hanzi": "子公司",
+    "pinyin": "zǐgōngsī",
+    "meaning": "yan şirket, bağlı şirket",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这是母公司在海外的子公司。",
+        "pinyin": "Zhè shì mǔgōngsī zài hǎiwài de zǐgōngsī.",
+        "en": "Bu, ana şirketin yurt dışındaki bağlı şirketidir."
+      },
+      {
+        "zh": "子公司要向母公司汇报业绩。",
+        "pinyin": "Zǐgōngsī yào xiàng mǔgōngsī huìbào yèjì.",
+        "en": "Yan şirket performansını ana şirkete raporlamalı."
+      },
+      {
+        "zh": "公司在多个国家设立了子公司。",
+        "pinyin": "Gōngsī zài duō gè guójiā shèlìle zǐgōngsī.",
+        "en": "Şirket birçok ülkede yan şirket kurdu."
+      },
+      {
+        "zh": "这家子公司业务发展迅速。",
+        "pinyin": "Zhè jiā zǐgōngsī yèwù fāzhǎn xùnsù.",
+        "en": "Bu yan şirketin işleri hızla gelişiyor."
+      },
+      {
+        "zh": "母公司控股这家子公司。",
+        "pinyin": "Mǔgōngsī kònggǔ zhè jiā zǐgōngsī.",
+        "en": "Ana şirket bu yan şirketin çoğunluk hissesine sahip."
+      }
+    ]
+  },
+  {
+    "id": "w7813",
+    "hanzi": "子女",
+    "pinyin": "zǐnǚ",
+    "meaning": "evlatlar (kız ve erkek çocuklar)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他有两个子女。",
+        "pinyin": "Tā yǒu liǎng gè zǐnǚ.",
+        "en": "İki çocuğu var."
+      },
+      {
+        "zh": "父母都很关心子女的教育。",
+        "pinyin": "Fùmǔ dōu hěn guānxīn zǐnǚ de jiàoyù.",
+        "en": "Ebeveynler çocuklarının eğitimiyle çok ilgileniyor."
+      },
+      {
+        "zh": "他把子女养大成人。",
+        "pinyin": "Tā bǎ zǐnǚ yǎngdà chéngrén.",
+        "en": "Çocuklarını büyütüp yetişkin yaptı."
+      },
+      {
+        "zh": "很多父母为子女的婚事操心。",
+        "pinyin": "Hěn duō fùmǔ wèi zǐnǚ de hūnshì cāoxīn.",
+        "en": "Birçok ebeveyn çocuklarının evliliği için endişeleniyor."
+      },
+      {
+        "zh": "子女应该孝顺父母。",
+        "pinyin": "Zǐnǚ yīnggāi xiàoshùn fùmǔ.",
+        "en": "Çocuklar ebeveynlerine saygı göstermeli."
+      }
+    ]
+  },
+  {
+    "id": "w7814",
+    "hanzi": "子孙",
+    "pinyin": "zǐsūn",
+    "meaning": "torunlar, gelecek nesiller",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们希望子孙后代能生活得更好。",
+        "pinyin": "Tāmen xīwàng zǐsūn hòudài néng shēnghuó de gèng hǎo.",
+        "en": "Torunlarının ve gelecek nesillerin daha iyi yaşamasını umuyorlar."
+      },
+      {
+        "zh": "他为子孙留下了一笔财产。",
+        "pinyin": "Tā wèi zǐsūn liúxiàle yì bǐ cáichǎn.",
+        "en": "Torunları için bir servet bıraktı."
+      },
+      {
+        "zh": "我们要保护环境，造福子孙。",
+        "pinyin": "Wǒmen yào bǎohù huánjìng, zàofú zǐsūn.",
+        "en": "Çevreyi korumalıyız, bu gelecek nesillere fayda sağlar."
+      },
+      {
+        "zh": "这个传统代代相传给子孙。",
+        "pinyin": "Zhège chuántǒng dàidài xiāngchuán gěi zǐsūn.",
+        "en": "Bu gelenek kuşaktan kuşağa torunlara aktarılıyor."
+      },
+      {
+        "zh": "他希望子孙能延续家族事业。",
+        "pinyin": "Tā xīwàng zǐsūn néng yánxù jiāzú shìyè.",
+        "en": "Torunlarının aile işini devam ettirmesini umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w7815",
+    "hanzi": "子午线",
+    "pinyin": "zǐwǔxiàn",
+    "meaning": "meridyen",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "格林尼治子午线是零度经线。",
+        "pinyin": "Gélínízhì zǐwǔxiàn shì líng dù jīngxiàn.",
+        "en": "Greenwich meridyeni sıfır derece boylamdır."
+      },
+      {
+        "zh": "这座城市位于本初子午线附近。",
+        "pinyin": "Zhè zuò chéngshì wèiyú běnchū zǐwǔxiàn fùjìn.",
+        "en": "Bu şehir başlangıç meridyeninin yakınında yer alır."
+      }
+    ]
+  },
+  {
+    "id": "w7816",
+    "hanzi": "子夜",
+    "pinyin": "zǐyè",
+    "meaning": "gece yarısı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他工作到子夜才回家。",
+        "pinyin": "Tā gōngzuò dào zǐyè cái huíjiā.",
+        "en": "Gece yarısına kadar çalışıp eve döndü."
+      },
+      {
+        "zh": "钟声在子夜敲响。",
+        "pinyin": "Zhōngshēng zài zǐyè qiāoxiǎng.",
+        "en": "Çan sesi gece yarısı çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7817",
+    "hanzi": "自",
+    "pinyin": "zì",
+    "meaning": "kendi, kendisi; -den",
+    "partOfSpeech": "zamir",
+    "level": 3,
+    "category": "Zamir",
+    "examples": [
+      {
+        "zh": "他自言自语。",
+        "pinyin": "Tā zìyán-zìyǔ.",
+        "en": "Kendi kendine konuşuyor."
+      },
+      {
+        "zh": "这列车来自北京。",
+        "pinyin": "Zhè lièchē láizì Běijīng.",
+        "en": "Bu tren Pekin'den geliyor."
+      },
+      {
+        "zh": "他自幼喜欢音乐。",
+        "pinyin": "Tā zìyòu xǐhuan yīnyuè.",
+        "en": "Küçüklüğünden beri müziği seviyor."
+      },
+      {
+        "zh": "一切自有安排。",
+        "pinyin": "Yíqiè zì yǒu ānpái.",
+        "en": "Her şey kendi düzeninde gelişecek."
+      },
+      {
+        "zh": "他自认为很聪明。",
+        "pinyin": "Tā zì rènwéi hěn cōngmíng.",
+        "en": "Kendini zeki sanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7818",
+    "hanzi": "自爱",
+    "pinyin": "zì'ài",
+    "meaning": "kendine saygı duymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "一个人首先要学会自爱。",
+        "pinyin": "Yí gè rén shǒuxiān yào xuéhuì zì'ài.",
+        "en": "Bir insan önce kendine saygı duymayı öğrenmeli."
+      },
+      {
+        "zh": "自爱才能被别人尊重。",
+        "pinyin": "Zì'ài cái néng bèi biérén zūnzhòng.",
+        "en": "Ancak kendine saygı duyanlar başkaları tarafından saygı görebilir."
+      }
+    ]
+  },
+  {
+    "id": "w7819",
+    "hanzi": "自拔",
+    "pinyin": "zìbá",
+    "meaning": "kendini kurtarmak (kötü durumdan)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他深陷困境，无法自拔。",
+        "pinyin": "Tā shēnxiàn kùnjìng, wúfǎ zìbá.",
+        "en": "Zor durumun içine derinden batmış, kendini kurtaramıyor."
+      },
+      {
+        "zh": "她沉迷游戏，难以自拔。",
+        "pinyin": "Tā chénmí yóuxì, nányǐ zìbá.",
+        "en": "Oyuna kaptırılmış, kendini kurtaramıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7820",
+    "hanzi": "自白",
+    "pinyin": "zìbái",
+    "meaning": "itiraf",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他写了一份自白书。",
+        "pinyin": "Tā xiěle yí fèn zìbáishū.",
+        "en": "Bir itiraf metni yazdı."
+      },
+      {
+        "zh": "他在法庭上做了自白。",
+        "pinyin": "Tā zài fǎtíng shàng zuòle zìbái.",
+        "en": "Mahkemede itirafta bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w7821",
+    "hanzi": "自暴自弃",
+    "pinyin": "zìbào-zìqì",
+    "meaning": "kendini bırakmak, umutsuzluğa kapılmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "失败后他没有自暴自弃。",
+        "pinyin": "Shībài hòu tā méiyǒu zìbào-zìqì.",
+        "en": "Başarısızlıktan sonra kendini bırakmadı."
+      },
+      {
+        "zh": "别自暴自弃，重新开始吧。",
+        "pinyin": "Bié zìbào-zìqì, chóngxīn kāishǐ ba.",
+        "en": "Kendini bırakma, yeniden başla."
+      }
+    ]
+  },
+  {
+    "id": "w7822",
+    "hanzi": "自卑",
+    "pinyin": "zìbēi",
+    "meaning": "aşağılık kompleksi, özgüvensiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他因为长得矮而自卑。",
+        "pinyin": "Tā yīnwèi zhǎng de ǎi ér zìbēi.",
+        "en": "Kısa boylu olduğu için aşağılık kompleksi yaşıyor."
+      },
+      {
+        "zh": "别自卑，你其实很优秀。",
+        "pinyin": "Bié zìbēi, nǐ qíshí hěn yōuxiù.",
+        "en": "Kendini küçümseme, aslında çok başarılısın."
+      },
+      {
+        "zh": "她小时候因家境贫穷而感到自卑。",
+        "pinyin": "Tā xiǎoshíhou yīn jiājìng pínqióng ér gǎndào zìbēi.",
+        "en": "Çocukken ailesinin maddi durumu yüzünden özgüvensiz hissediyordu."
+      },
+      {
+        "zh": "自卑让他不敢在公众场合发言。",
+        "pinyin": "Zìbēi ràng tā bùgǎn zài gōngzhòng chǎnghé fāyán.",
+        "en": "Özgüvensizlik toplum önünde konuşmasına engel oluyor."
+      },
+      {
+        "zh": "他努力克服自卑心理。",
+        "pinyin": "Tā nǔlì kèfú zìbēi xīnlǐ.",
+        "en": "Aşağılık kompleksini aşmaya çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7823",
+    "hanzi": "自惭形秽",
+    "pinyin": "zìcán-xínghuì",
+    "meaning": "kendini başkalarından aşağı hissetmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "看到她的成就，我自惭形秽。",
+        "pinyin": "Kàndào tā de chéngjiù, wǒ zìcán-xínghuì.",
+        "en": "Onun başarısını görünce kendimi çok küçük hissettim."
+      },
+      {
+        "zh": "他因家境贫寒而自惭形秽。",
+        "pinyin": "Tā yīn jiājìng pínhán ér zìcán-xínghuì.",
+        "en": "Ailesinin fakirliği yüzünden kendini başkalarından aşağı hissediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7824",
+    "hanzi": "自称",
+    "pinyin": "zìchēng",
+    "meaning": "kendini ... olarak tanıtmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他自称是专家。",
+        "pinyin": "Tā zìchēng shì zhuānjiā.",
+        "en": "Kendini uzman olarak tanıtıyor."
+      },
+      {
+        "zh": "她自称认识很多名人。",
+        "pinyin": "Tā zìchēng rènshi hěn duō míngrén.",
+        "en": "Birçok ünlüyü tanıdığını iddia ediyor."
+      },
+      {
+        "zh": "这个人自称是律师。",
+        "pinyin": "Zhège rén zìchēng shì lǜshī.",
+        "en": "Bu kişi kendini avukat olarak tanıtıyor."
+      },
+      {
+        "zh": "他自称从不撒谎。",
+        "pinyin": "Tā zìchēng cóng bù sāhuǎng.",
+        "en": "Hiç yalan söylemediğini iddia ediyor."
+      },
+      {
+        "zh": "这款产品自称有神奇功效。",
+        "pinyin": "Zhè kuǎn chǎnpǐn zìchēng yǒu shénqí gōngxiào.",
+        "en": "Bu ürün mucizevi etkileri olduğunu iddia ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7825",
+    "hanzi": "自持",
+    "pinyin": "zìchí",
+    "meaning": "kendine hakim olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他情绪激动，难以自持。",
+        "pinyin": "Tā qíngxù jīdòng, nányǐ zìchí.",
+        "en": "Duygusal olarak heyecanlanmış, kendine hakim olamıyor."
+      },
+      {
+        "zh": "遇到困难要学会自持冷静。",
+        "pinyin": "Yùdào kùnnán yào xuéhuì zìchí lěngjìng.",
+        "en": "Zorluklarla karşılaşınca sakin kalmayı öğrenmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w7826",
+    "hanzi": "自吹自擂",
+    "pinyin": "zìchuī-zìléi",
+    "meaning": "kendini övmek, kendi kendini pazarlamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他总是自吹自擂。",
+        "pinyin": "Tā zǒngshì zìchuī-zìléi.",
+        "en": "Sürekli kendini övüyor."
+      },
+      {
+        "zh": "别自吹自擂了，拿实力说话。",
+        "pinyin": "Bié zìchuī-zìléi le, ná shílì shuōhuà.",
+        "en": "Kendini övmeyi bırak, yeteneğinle konuş."
+      }
+    ]
   }
 ]

@@ -164119,5 +164119,617 @@
         "en": "Kendi düşüncesizliğinden pişmanlık duyuyor."
       }
     ]
+  },
+  {
+    "id": "w4756",
+    "hanzi": "鹿",
+    "pinyin": "lù",
+    "meaning": "Geyik",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "森林里有一群鹿。",
+        "pinyin": "Sēnlín lǐ yǒu yì qún lù.",
+        "en": "Ormanda bir grup geyik var."
+      },
+      {
+        "zh": "小鹿在草地上奔跑。",
+        "pinyin": "Xiǎolù zài cǎodì shàng bēnpǎo.",
+        "en": "Küçük geyik çayırda koşuyor."
+      },
+      {
+        "zh": "鹿的角很漂亮。",
+        "pinyin": "Lù de jiǎo hěn piàoliang.",
+        "en": "Geyiğin boynuzları çok güzel."
+      },
+      {
+        "zh": "孩子们在动物园里看到了鹿。",
+        "pinyin": "Háizimen zài dòngwùyuán lǐ kàndào le lù.",
+        "en": "Çocuklar hayvanat bahçesinde geyik gördü."
+      },
+      {
+        "zh": "鹿是一种温顺的动物。",
+        "pinyin": "Lù shì yì zhǒng wēnshùn de dòngwù.",
+        "en": "Geyik uysal bir hayvandır."
+      }
+    ]
+  },
+  {
+    "id": "w4757",
+    "hanzi": "驴",
+    "pinyin": "lǘ",
+    "meaning": "Eşek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "农民骑着驴去集市。",
+        "pinyin": "Nóngmín qízhe lǘ qù jíshì.",
+        "en": "Çiftçi eşeğe binerek pazara gitti."
+      },
+      {
+        "zh": "驴可以驮很重的东西。",
+        "pinyin": "Lǘ kěyǐ tuó hěn zhòng de dōngxi.",
+        "en": "Eşek çok ağır şeyler taşıyabilir."
+      },
+      {
+        "zh": "这头驴很倔强。",
+        "pinyin": "Zhè tóu lǘ hěn juéjiàng.",
+        "en": "Bu eşek çok inatçı."
+      },
+      {
+        "zh": "驴的耳朵比马长。",
+        "pinyin": "Lǘ de ěrduo bǐ mǎ cháng.",
+        "en": "Eşeğin kulakları attan daha uzundur."
+      },
+      {
+        "zh": "村里有一头老驴。",
+        "pinyin": "Cūn lǐ yǒu yì tóu lǎo lǘ.",
+        "en": "Köyde yaşlı bir eşek var."
+      }
+    ]
+  },
+  {
+    "id": "w4758",
+    "hanzi": "旅馆",
+    "pinyin": "lǚguǎn",
+    "meaning": "Otel, han",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Seyahat",
+    "examples": [
+      {
+        "zh": "我们住在一家小旅馆里。",
+        "pinyin": "Wǒmen zhù zài yì jiā xiǎo lǚguǎn lǐ.",
+        "en": "Küçük bir otelde kalıyoruz."
+      },
+      {
+        "zh": "这家旅馆价格便宜。",
+        "pinyin": "Zhè jiā lǚguǎn jiàgé piányi.",
+        "en": "Bu otelin fiyatı ucuz."
+      },
+      {
+        "zh": "他在旅馆前台办理了入住手续。",
+        "pinyin": "Tā zài lǚguǎn qiántái bànlǐ le rùzhù shǒuxù.",
+        "en": "Otel resepsiyonunda giriş işlemlerini yaptı."
+      },
+      {
+        "zh": "这家旅馆的服务很周到。",
+        "pinyin": "Zhè jiā lǚguǎn de fúwù hěn zhōudào.",
+        "en": "Bu otelin hizmeti çok özenli."
+      },
+      {
+        "zh": "旅馆离火车站很近。",
+        "pinyin": "Lǚguǎn lí huǒchēzhàn hěn jìn.",
+        "en": "Otel tren istasyonuna çok yakın."
+      }
+    ]
+  },
+  {
+    "id": "w4759",
+    "hanzi": "旅客",
+    "pinyin": "lǚkè",
+    "meaning": "Yolcu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Seyahat",
+    "examples": [
+      {
+        "zh": "机场里挤满了旅客。",
+        "pinyin": "Jīchǎng lǐ jǐmǎn le lǚkè.",
+        "en": "Havalimanı yolcularla dolmuştu."
+      },
+      {
+        "zh": "工作人员帮助旅客办理登机手续。",
+        "pinyin": "Gōngzuò rényuán bāngzhù lǚkè bànlǐ dēngjī shǒuxù.",
+        "en": "Görevliler yolcuların check-in işlemlerine yardımcı oldu."
+      },
+      {
+        "zh": "旅客们排队等候安检。",
+        "pinyin": "Lǚkèmen páiduì děnghòu ānjiǎn.",
+        "en": "Yolcular güvenlik kontrolü için sırada bekliyordu."
+      },
+      {
+        "zh": "这趟航班载有二百名旅客。",
+        "pinyin": "Zhè tàng hángbān zàiyǒu èrbǎi míng lǚkè.",
+        "en": "Bu uçuşta iki yüz yolcu bulunuyordu."
+      },
+      {
+        "zh": "旅客可以在此办理退税手续。",
+        "pinyin": "Lǚkè kěyǐ zài cǐ bànlǐ tuìshuì shǒuxù.",
+        "en": "Yolcular burada vergi iadesi işlemlerini yapabilir."
+      }
+    ]
+  },
+  {
+    "id": "w4760",
+    "hanzi": "履历",
+    "pinyin": "lǚlì",
+    "meaning": "Özgeçmiş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "请附上你的履历。",
+        "pinyin": "Qǐng fùshàng nǐ de lǚlì.",
+        "en": "Lütfen özgeçmişinizi ekleyin."
+      },
+      {
+        "zh": "他的履历十分丰富。",
+        "pinyin": "Tā de lǚlì shífēn fēngfù.",
+        "en": "Özgeçmişi oldukça zengin."
+      },
+      {
+        "zh": "面试官仔细看了他的履历表。",
+        "pinyin": "Miànshìguān zǐxì kàn le tā de lǚlìbiǎo.",
+        "en": "Mülakatı yapan kişi özgeçmişini dikkatlice inceledi."
+      },
+      {
+        "zh": "他更新了自己的履历。",
+        "pinyin": "Tā gēngxīn le zìjǐ de lǚlì.",
+        "en": "Kendi özgeçmişini güncelledi."
+      },
+      {
+        "zh": "招聘方要求提供详细的履历。",
+        "pinyin": "Zhāopìnfāng yāoqiú tígōng xiángxì de lǚlì.",
+        "en": "İşveren detaylı bir özgeçmiş talep etti."
+      }
+    ]
+  },
+  {
+    "id": "w4761",
+    "hanzi": "履行",
+    "pinyin": "lǚxíng",
+    "meaning": "Yerine getirmek (görev, sözleşme)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他履行了自己的承诺。",
+        "pinyin": "Tā lǚxíng le zìjǐ de chéngnuò.",
+        "en": "Kendi sözünü yerine getirdi."
+      },
+      {
+        "zh": "双方都应该履行合同义务。",
+        "pinyin": "Shuāngfāng dōu yīnggāi lǚxíng hétong yìwù.",
+        "en": "Her iki taraf da sözleşme yükümlülüklerini yerine getirmelidir."
+      },
+      {
+        "zh": "他忠实地履行了自己的职责。",
+        "pinyin": "Tā zhōngshí de lǚxíng le zìjǐ de zhízé.",
+        "en": "Kendi görevini sadakatle yerine getirdi."
+      },
+      {
+        "zh": "公司未能履行合约。",
+        "pinyin": "Gōngsī wèi néng lǚxíng héyuē.",
+        "en": "Şirket sözleşmeyi yerine getiremedi."
+      },
+      {
+        "zh": "他坚决履行了自己的义务。",
+        "pinyin": "Tā jiānjué lǚxíng le zìjǐ de yìwù.",
+        "en": "Kendi yükümlülüğünü kararlılıkla yerine getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w4762",
+    "hanzi": "绿茶",
+    "pinyin": "lǜchá",
+    "meaning": "Yeşil çay",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "我喜欢喝绿茶。",
+        "pinyin": "Wǒ xǐhuan hē lǜchá.",
+        "en": "Yeşil çay içmeyi severim."
+      },
+      {
+        "zh": "绿茶对健康有益。",
+        "pinyin": "Lǜchá duì jiànkāng yǒuyì.",
+        "en": "Yeşil çay sağlık için faydalıdır."
+      },
+      {
+        "zh": "他每天早上都泡一杯绿茶。",
+        "pinyin": "Tā měitiān zǎoshang dōu pào yì bēi lǜchá.",
+        "en": "Her sabah bir bardak yeşil çay demliyor."
+      },
+      {
+        "zh": "这种绿茶产自中国南方。",
+        "pinyin": "Zhè zhǒng lǜchá chǎnzì Zhōngguó nánfāng.",
+        "en": "Bu tür yeşil çay Çin'in güneyinden üretilir."
+      },
+      {
+        "zh": "绿茶富含抗氧化物质。",
+        "pinyin": "Lǜchá fùhán kàngyǎnghuà wùzhì.",
+        "en": "Yeşil çay antioksidan maddeler bakımından zengindir."
+      }
+    ]
+  },
+  {
+    "id": "w4763",
+    "hanzi": "绿灯",
+    "pinyin": "lǜdēng",
+    "meaning": "Yeşil ışık",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "看到绿灯亮了,他才通过马路。",
+        "pinyin": "Kàndào lǜdēng liàng le, tā cái tōngguò mǎlù.",
+        "en": "Yeşil ışığın yandığını görünce yolu geçti."
+      },
+      {
+        "zh": "红灯停,绿灯行。",
+        "pinyin": "Hóngdēng tíng, lǜdēng xíng.",
+        "en": "Kırmızıda dur, yeşilde geç."
+      },
+      {
+        "zh": "这个项目获得了政府的绿灯。",
+        "pinyin": "Zhège xiàngmù huòdé le zhèngfǔ de lǜdēng.",
+        "en": "Bu proje hükümetten onay aldı."
+      },
+      {
+        "zh": "路口的绿灯持续了三十秒。",
+        "pinyin": "Lùkǒu de lǜdēng chíxù le sānshí miǎo.",
+        "en": "Kavşaktaki yeşil ışık otuz saniye sürdü."
+      },
+      {
+        "zh": "他闯了红灯,没等绿灯。",
+        "pinyin": "Tā chuǎng le hóngdēng, méi děng lǜdēng.",
+        "en": "Yeşil ışığı beklemeden kırmızı ışıkta geçti."
+      }
+    ]
+  },
+  {
+    "id": "w4764",
+    "hanzi": "绿化",
+    "pinyin": "lǜhuà",
+    "meaning": "Yeşillendirmek, ağaçlandırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "政府正在推动城市绿化工作。",
+        "pinyin": "Zhèngfǔ zhèngzài tuīdòng chéngshì lǜhuà gōngzuò.",
+        "en": "Hükümet şehir ağaçlandırma çalışmalarını hızlandırıyor."
+      },
+      {
+        "zh": "这个小区的绿化面积很大。",
+        "pinyin": "Zhège xiǎoqū de lǜhuà miànjī hěn dà.",
+        "en": "Bu mahallenin yeşil alan miktarı çok geniş."
+      },
+      {
+        "zh": "他们种树来绿化荒山。",
+        "pinyin": "Tāmen zhòng shù lái lǜhuà huāngshān.",
+        "en": "Çıplak dağı ağaçlandırmak için ağaç dikiyorlar."
+      },
+      {
+        "zh": "校园的绿化环境非常好。",
+        "pinyin": "Xiàoyuán de lǜhuà huánjìng fēicháng hǎo.",
+        "en": "Kampüsün yeşil ortamı çok iyi."
+      },
+      {
+        "zh": "绿化能改善空气质量。",
+        "pinyin": "Lǜhuà néng gǎishàn kōngqì zhìliàng.",
+        "en": "Ağaçlandırma hava kalitesini iyileştirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w4765",
+    "hanzi": "绿色",
+    "pinyin": "lǜsè",
+    "meaning": "Yeşil renk",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "renk",
+    "examples": [
+      {
+        "zh": "她喜欢穿绿色的衣服。",
+        "pinyin": "Tā xǐhuan chuān lǜsè de yīfu.",
+        "en": "Yeşil renkli kıyafetler giymeyi sever."
+      },
+      {
+        "zh": "树叶是绿色的。",
+        "pinyin": "Shùyè shì lǜsè de.",
+        "en": "Yapraklar yeşil renklidir."
+      },
+      {
+        "zh": "他们提倡绿色出行。",
+        "pinyin": "Tāmen tíchàng lǜsè chūxíng.",
+        "en": "Çevre dostu ulaşımı teşvik ediyorlar."
+      },
+      {
+        "zh": "这是一种绿色食品。",
+        "pinyin": "Zhè shì yì zhǒng lǜsè shípǐn.",
+        "en": "Bu doğal/organik bir gıda türü."
+      },
+      {
+        "zh": "绿色代表着希望和生机。",
+        "pinyin": "Lǜsè dàibiǎozhe xīwàng hé shēngjī.",
+        "en": "Yeşil renk umut ve canlılığı temsil eder."
+      }
+    ]
+  },
+  {
+    "id": "w4766",
+    "hanzi": "绿洲",
+    "pinyin": "lǜzhōu",
+    "meaning": "Vaha",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "沙漠中有一片绿洲。",
+        "pinyin": "Shāmò zhōng yǒu yí piàn lǜzhōu.",
+        "en": "Çölde bir vaha var."
+      },
+      {
+        "zh": "商队在绿洲休息。",
+        "pinyin": "Shāngduì zài lǜzhōu xiūxi.",
+        "en": "Kervan vahada dinlendi."
+      },
+      {
+        "zh": "绿洲里长满了棕榈树。",
+        "pinyin": "Lǜzhōu lǐ zhǎngmǎn le zōnglǘshù.",
+        "en": "Vahada hurma ağaçları büyümüş."
+      },
+      {
+        "zh": "这座城市就像沙漠中的绿洲。",
+        "pinyin": "Zhè zuò chéngshì jiù xiàng shāmò zhōng de lǜzhōu.",
+        "en": "Bu şehir çölün ortasındaki bir vaha gibidir."
+      },
+      {
+        "zh": "绿洲为旅行者提供了水源。",
+        "pinyin": "Lǜzhōu wèi lǚxíngzhě tígōng le shuǐyuán.",
+        "en": "Vaha, gezginlere su kaynağı sağlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4767",
+    "hanzi": "率",
+    "pinyin": "lǜ",
+    "meaning": "Oran, nispet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个国家的失业率很低。",
+        "pinyin": "Zhège guójiā de shīyèlǜ hěn dī.",
+        "en": "Bu ülkenin işsizlik oranı çok düşük."
+      },
+      {
+        "zh": "出生率逐年下降。",
+        "pinyin": "Chūshēnglǜ zhúnián xiàjiàng.",
+        "en": "Doğum oranı yıldan yıla azalıyor."
+      },
+      {
+        "zh": "这项技术的成功率很高。",
+        "pinyin": "Zhè xiàng jìshù de chénggōnglǜ hěn gāo.",
+        "en": "Bu teknolojinin başarı oranı çok yüksek."
+      },
+      {
+        "zh": "犯罪率在下降。",
+        "pinyin": "Fànzuìlǜ zài xiàjiàng.",
+        "en": "Suç oranı düşüyor."
+      },
+      {
+        "zh": "这个班的及格率是百分之九十。",
+        "pinyin": "Zhège bān de jígélǜ shì bǎifēnzhī jiǔshí.",
+        "en": "Bu sınıfın geçme oranı yüzde doksan."
+      }
+    ]
+  },
+  {
+    "id": "w4768",
+    "hanzi": "孪生",
+    "pinyin": "luánshēng",
+    "meaning": "İkiz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们是一对孪生兄弟。",
+        "pinyin": "Tāmen shì yí duì luánshēng xiōngdì.",
+        "en": "Onlar ikiz kardeşlerdir."
+      },
+      {
+        "zh": "孪生姐妹长得非常像。",
+        "pinyin": "Luánshēng jiěmèi zhǎng de fēicháng xiàng.",
+        "en": "İkiz kız kardeşler birbirlerine çok benziyor."
+      },
+      {
+        "zh": "她生下了一对孪生子。",
+        "pinyin": "Tā shēngxià le yí duì luánshēngzǐ.",
+        "en": "Bir çift ikiz doğurdu."
+      },
+      {
+        "zh": "这对孪生兄弟性格却完全不同。",
+        "pinyin": "Zhè duì luánshēng xiōngdì xìnggé què wánquán bùtóng.",
+        "en": "Bu ikiz kardeşlerin karakterleri tamamen farklı."
+      },
+      {
+        "zh": "孪生婴儿的出生率并不算高。",
+        "pinyin": "Luánshēng yīng'ér de chūshēnglǜ bìng bú suàn gāo.",
+        "en": "İkiz bebek doğum oranı çok yüksek sayılmaz."
+      }
+    ]
+  },
+  {
+    "id": "w4769",
+    "hanzi": "卵",
+    "pinyin": "luǎn",
+    "meaning": "Yumurta (biyolojik)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "鱼在水中产卵。",
+        "pinyin": "Yú zài shuǐ zhōng chǎnluǎn.",
+        "en": "Balık suda yumurta bırakır."
+      },
+      {
+        "zh": "青蛙的卵孵化成蝌蚪。",
+        "pinyin": "Qīngwā de luǎn fūhuà chéng kēdǒu.",
+        "en": "Kurbağa yumurtaları kurbağa yavrusuna dönüşür."
+      },
+      {
+        "zh": "昆虫在叶子上产卵。",
+        "pinyin": "Kūnchóng zài yèzi shàng chǎnluǎn.",
+        "en": "Böcek yaprağa yumurta bırakır."
+      },
+      {
+        "zh": "科学家研究了细胞卵的结构。",
+        "pinyin": "Kēxuéjiā yánjiū le xìbāo luǎn de jiégòu.",
+        "en": "Bilim insanları hücre yumurtasının yapısını araştırdı."
+      },
+      {
+        "zh": "女性体内有卵细胞。",
+        "pinyin": "Nǚxìng tǐnèi yǒu luǎn xìbāo.",
+        "en": "Kadınların vücudunda yumurta hücresi bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w4770",
+    "hanzi": "卵巢",
+    "pinyin": "luǎncháo",
+    "meaning": "Yumurtalık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她做了卵巢检查。",
+        "pinyin": "Tā zuò le luǎncháo jiǎnchá.",
+        "en": "Yumurtalık kontrolü yaptırdı."
+      },
+      {
+        "zh": "卵巢是女性生殖系统的重要器官。",
+        "pinyin": "Luǎncháo shì nǚxìng shēngzhí xìtǒng de zhòngyào qìguān.",
+        "en": "Yumurtalıklar kadın üreme sisteminin önemli bir organıdır."
+      },
+      {
+        "zh": "她被诊断出卵巢囊肿。",
+        "pinyin": "Tā bèi zhěnduàn chū luǎncháo nángzhǒng.",
+        "en": "Yumurtalık kisti teşhisi konuldu."
+      },
+      {
+        "zh": "医生建议她定期检查卵巢功能。",
+        "pinyin": "Yīshēng jiànyì tā dìngqī jiǎnchá luǎncháo gōngnéng.",
+        "en": "Doktor yumurtalık işlevini düzenli kontrol etmesini önerdi."
+      },
+      {
+        "zh": "卵巢会随着年龄变化。",
+        "pinyin": "Luǎncháo huì suízhe niánlíng biànhuà.",
+        "en": "Yumurtalıklar yaşla birlikte değişir."
+      }
+    ]
+  },
+  {
+    "id": "w4771",
+    "hanzi": "乱七八糟",
+    "pinyin": "luànqībāzāo",
+    "meaning": "Karmakarışık, dağınık",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的房间乱七八糟的。",
+        "pinyin": "Tā de fángjiān luànqībāzāo de.",
+        "en": "Odası karmakarışık."
+      },
+      {
+        "zh": "文件被弄得乱七八糟。",
+        "pinyin": "Wénjiàn bèi nòng de luànqībāzāo.",
+        "en": "Belgeler tamamen karıştırıldı."
+      },
+      {
+        "zh": "他的思路乱七八糟,说不清楚。",
+        "pinyin": "Tā de sīlù luànqībāzāo, shuōbuqīngchu.",
+        "en": "Düşünceleri karmakarışık, net anlatamıyor."
+      },
+      {
+        "zh": "桌子上东西堆得乱七八糟。",
+        "pinyin": "Zhuōzi shàng dōngxi duī de luànqībāzāo.",
+        "en": "Masada eşyalar karmakarışık bir şekilde yığılmış."
+      },
+      {
+        "zh": "他把事情搞得乱七八糟。",
+        "pinyin": "Tā bǎ shìqing gǎo de luànqībāzāo.",
+        "en": "İşleri tamamen karman çorman etti."
+      }
+    ]
+  },
+  {
+    "id": "w4772",
+    "hanzi": "掠夺",
+    "pinyin": "lüèduó",
+    "meaning": "Yağmalamak, talan etmek, soymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "侵略者掠夺了当地的资源。",
+        "pinyin": "Qīnlüèzhě lüèduó le dāngdì de zīyuán.",
+        "en": "İşgalciler yerel kaynakları yağmaladı."
+      },
+      {
+        "zh": "殖民者曾大肆掠夺当地财富。",
+        "pinyin": "Zhímínzhě céng dàsì lüèduó dāngdì cáifù.",
+        "en": "Sömürgeciler bir zamanlar yerel serveti büyük ölçüde yağmaladı."
+      },
+      {
+        "zh": "他们掠夺了村庄里的粮食。",
+        "pinyin": "Tāmen lüèduó le cūnzhuāng lǐ de liángshi.",
+        "en": "Köydeki tahılları yağmaladılar."
+      },
+      {
+        "zh": "战争带来了大量的掠夺行为。",
+        "pinyin": "Zhànzhēng dàilái le dàliàng de lüèduó xíngwéi.",
+        "en": "Savaş büyük çapta yağmalama davranışları getirdi."
+      },
+      {
+        "zh": "这家企业被指控掠夺性定价。",
+        "pinyin": "Zhè jiā qǐyè bèi zhǐkòng lüèduóxìng dìngjià.",
+        "en": "Bu şirket yıkıcı fiyatlandırma yapmakla suçlandı."
+      }
+    ]
   }
 ]

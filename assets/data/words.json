@@ -258145,5 +258145,788 @@
         "en": "Tatil köyünde uzun boylu palmiye ağaçları var."
       }
     ]
+  },
+  {
+    "id": "w7883",
+    "hanzi": "棕色",
+    "pinyin": "zōngsè",
+    "meaning": "kahverengi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Renkler",
+    "examples": [
+      {
+        "zh": "她穿了一件棕色的外套。",
+        "pinyin": "Tā chuānle yí jiàn zōngsè de wàitào.",
+        "en": "Kahverengi bir ceket giymiş."
+      },
+      {
+        "zh": "这只熊是棕色的。",
+        "pinyin": "Zhè zhī xióng shì zōngsè de.",
+        "en": "Bu ayı kahverengi."
+      },
+      {
+        "zh": "他的头发是棕色的。",
+        "pinyin": "Tā de tóufa shì zōngsè de.",
+        "en": "Saçları kahverengi."
+      },
+      {
+        "zh": "桌子是棕色的木头做的。",
+        "pinyin": "Zhuōzi shì zōngsè de mùtou zuò de.",
+        "en": "Masa kahverengi ahşaptan yapılmış."
+      },
+      {
+        "zh": "她把墙刷成了棕色。",
+        "pinyin": "Tā bǎ qiáng shuāchéngle zōngsè.",
+        "en": "Duvarı kahverengiye boyadı."
+      }
+    ]
+  },
+  {
+    "id": "w7884",
+    "hanzi": "总",
+    "pinyin": "zǒng",
+    "meaning": "toplam; her zaman",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "总共花了多少钱？",
+        "pinyin": "Zǒnggòng huāle duōshao qián?",
+        "en": "Toplamda ne kadar para harcandı?"
+      },
+      {
+        "zh": "他总是很忙。",
+        "pinyin": "Tā zǒngshì hěn máng.",
+        "en": "Her zaman çok meşgul."
+      },
+      {
+        "zh": "这是总经理办公室。",
+        "pinyin": "Zhè shì zǒngjīnglǐ bàngōngshì.",
+        "en": "Bu genel müdürün ofisi."
+      },
+      {
+        "zh": "他总归会成功的。",
+        "pinyin": "Tā zǒngguī huì chénggōng de.",
+        "en": "Sonunda başaracaktır."
+      },
+      {
+        "zh": "总的来说，这次任务完成得不错。",
+        "pinyin": "Zǒng de láishuō, zhè cì rènwu wánchéng de búcuò.",
+        "en": "Genel olarak, bu görev başarıyla tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w7885",
+    "hanzi": "总领事",
+    "pinyin": "zǒnglǐngshì",
+    "meaning": "başkonsolos",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "总领事出席了开幕仪式。",
+        "pinyin": "Zǒnglǐngshì chūxíle kāimù yíshì.",
+        "en": "Başkonsolos açılış törenine katıldı."
+      },
+      {
+        "zh": "他被任命为驻外总领事。",
+        "pinyin": "Tā bèi rènmìng wéi zhùwài zǒnglǐngshì.",
+        "en": "Yurt dışı başkonsolos olarak atandı."
+      }
+    ]
+  },
+  {
+    "id": "w7886",
+    "hanzi": "总路线",
+    "pinyin": "zǒnglùxiàn",
+    "meaning": "genel çizgi, genel politika",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府制定了发展的总路线。",
+        "pinyin": "Zhèngfǔ zhìdìngle fāzhǎn de zǒnglùxiàn.",
+        "en": "Hükümet kalkınmanın genel çizgisini belirledi."
+      },
+      {
+        "zh": "他坚持这一总路线不动摇。",
+        "pinyin": "Tā jiānchí zhè yī zǒnglùxiàn bú dòngyáo.",
+        "en": "Bu genel çizgide hiç sapmadan ısrar etti."
+      }
+    ]
+  },
+  {
+    "id": "w7887",
+    "hanzi": "总数",
+    "pinyin": "zǒngshù",
+    "meaning": "toplam miktar",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "参加会议的总数是五十人。",
+        "pinyin": "Cānjiā huìyì de zǒngshù shì wǔshí rén.",
+        "en": "Toplantıya katılanların toplam sayısı elli kişidir."
+      },
+      {
+        "zh": "这些商品的总数超过了预期。",
+        "pinyin": "Zhèxiē shāngpǐn de zǒngshù chāoguòle yùqī.",
+        "en": "Bu ürünlerin toplam sayısı beklenenden fazlaydı."
+      },
+      {
+        "zh": "订单总数已经统计好了。",
+        "pinyin": "Dìngdān zǒngshù yǐjīng tǒngjì hǎo le.",
+        "en": "Sipariş toplam sayısı hesaplandı."
+      },
+      {
+        "zh": "全班学生总数是三十人。",
+        "pinyin": "Quán bān xuésheng zǒngshù shì sānshí rén.",
+        "en": "Sınıftaki toplam öğrenci sayısı otuz kişidir."
+      },
+      {
+        "zh": "支出总数超过了预算。",
+        "pinyin": "Zhīchū zǒngshù chāoguòle yùsuàn.",
+        "en": "Toplam gider bütçeyi aştı."
+      }
+    ]
+  },
+  {
+    "id": "w7888",
+    "hanzi": "总体",
+    "pinyin": "zǒngtǐ",
+    "meaning": "genel, bütün olarak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "总体来看，情况还不错。",
+        "pinyin": "Zǒngtǐ láikàn, qíngkuàng hái búcuò.",
+        "en": "Genel olarak bakıldığında, durum fena değil."
+      },
+      {
+        "zh": "总体规划已经完成。",
+        "pinyin": "Zǒngtǐ guīhuà yǐjīng wánchéng.",
+        "en": "Genel plan tamamlandı."
+      },
+      {
+        "zh": "总体质量有所提升。",
+        "pinyin": "Zǒngtǐ zhìliàng yǒusuǒ tíshēng.",
+        "en": "Genel kalite bir miktar arttı."
+      },
+      {
+        "zh": "从总体上看，这个方案是可行的。",
+        "pinyin": "Cóng zǒngtǐ shàng kàn, zhège fāng'àn shì kěxíng de.",
+        "en": "Genel olarak bakıldığında, bu plan uygulanabilir."
+      },
+      {
+        "zh": "公司的总体战略正在调整。",
+        "pinyin": "Gōngsī de zǒngtǐ zhànlüè zhèngzài tiáozhěng.",
+        "en": "Şirketin genel stratejisi yeniden düzenleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w7889",
+    "hanzi": "总务",
+    "pinyin": "zǒngwù",
+    "meaning": "genel işler; idari sorumlu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他负责公司的总务工作。",
+        "pinyin": "Tā fùzé gōngsī de zǒngwù gōngzuò.",
+        "en": "Şirketin idari işlerinden sorumlu."
+      },
+      {
+        "zh": "请联系总务部处理这件事。",
+        "pinyin": "Qǐng liánxì zǒngwùbù chǔlǐ zhè jiàn shì.",
+        "en": "Bu konuyu halletmek için lütfen idari işler bölümüyle iletişime geçin."
+      }
+    ]
+  },
+  {
+    "id": "w7890",
+    "hanzi": "纵",
+    "pinyin": "zòng",
+    "meaning": "dikey; serbest bırakmak",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他把线纵向排列。",
+        "pinyin": "Tā bǎ xiàn zòngxiàng páiliè.",
+        "en": "Çizgileri dikey olarak sıraladı."
+      },
+      {
+        "zh": "他纵身跳入了水中。",
+        "pinyin": "Tā zòngshēn tiàorù le shuǐ zhōng.",
+        "en": "Bir sıçrayışla suya atladı."
+      },
+      {
+        "zh": "父母不能纵容孩子的坏习惯。",
+        "pinyin": "Fùmǔ bùnéng zòngróng háizi de huài xíguàn.",
+        "en": "Ebeveynler çocuğun kötü alışkanlığına göz yummamalı."
+      },
+      {
+        "zh": "这条河纵贯全省。",
+        "pinyin": "Zhè tiáo hé zòngguàn quán shěng.",
+        "en": "Bu nehir tüm eyaleti dikey olarak geçiyor."
+      },
+      {
+        "zh": "纵然困难重重，他也没有放弃。",
+        "pinyin": "Zòngrán kùnnán chóngchóng, tā yě méiyǒu fàngqì.",
+        "en": "Zorluklar çok olsa da, vazgeçmedi."
+      }
+    ]
+  },
+  {
+    "id": "w7891",
+    "hanzi": "纵队",
+    "pinyin": "zòngduì",
+    "meaning": "sıra, kol nizamı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "士兵们排成纵队前进。",
+        "pinyin": "Shìbīngmen páichéng zòngduì qiánjìn.",
+        "en": "Askerler sıra düzeninde ilerledi."
+      },
+      {
+        "zh": "游行队伍排成整齐的纵队。",
+        "pinyin": "Yóuxíng duìwu páichéng zhěngqí de zòngduì.",
+        "en": "Yürüyüş kortejleri düzenli bir sıra oluşturdu."
+      }
+    ]
+  },
+  {
+    "id": "w7892",
+    "hanzi": "纵横",
+    "pinyin": "zònghéng",
+    "meaning": "dikey ve yatay, her yöne yayılmış",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他驰骋纵横于商界多年。",
+        "pinyin": "Tā chíchěng zònghéng yú shāngjiè duō nián.",
+        "en": "Yıllardır iş dünyasında serbestçe dolaşıyor."
+      },
+      {
+        "zh": "田野里道路纵横交错。",
+        "pinyin": "Tiányě lǐ dàolù zònghéng jiāocuò.",
+        "en": "Tarlalarda yollar her yöne uzanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7893",
+    "hanzi": "纵火",
+    "pinyin": "zònghuǒ",
+    "meaning": "kundakçılık yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "警方怀疑这是纵火案。",
+        "pinyin": "Jǐngfāng huáiyí zhè shì zònghuǒ àn.",
+        "en": "Polis bunun kundaklama olayı olduğundan şüpheleniyor."
+      },
+      {
+        "zh": "他因纵火被捕。",
+        "pinyin": "Tā yīn zònghuǒ bèi bǔ.",
+        "en": "Kundaklama nedeniyle tutuklandı."
+      }
+    ]
+  },
+  {
+    "id": "w7894",
+    "hanzi": "纵情",
+    "pinyin": "zòngqíng",
+    "meaning": "doyasıya, canının istediği gibi",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "大家纵情欢唱。",
+        "pinyin": "Dàjiā zòngqíng huānchàng.",
+        "en": "Herkes doyasıya şarkı söyledi."
+      },
+      {
+        "zh": "他纵情享受着假期。",
+        "pinyin": "Tā zòngqíng xiǎngshòuzhe jiàqī.",
+        "en": "Tatilin tadını doyasıya çıkarıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7895",
+    "hanzi": "纵容",
+    "pinyin": "zòngróng",
+    "meaning": "göz yummak, hoş görmek (kötü davranışa)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "家长不应纵容孩子的错误。",
+        "pinyin": "Jiāzhǎng bù yīng zòngróng háizi de cuòwù.",
+        "en": "Ebeveynler çocuklarının hatalarına göz yummamalı."
+      },
+      {
+        "zh": "领导纵容了这种不良行为。",
+        "pinyin": "Lǐngdǎo zòngróngle zhè zhǒng bùliáng xíngwéi.",
+        "en": "Yönetici bu kötü davranışa göz yumdu."
+      }
+    ]
+  },
+  {
+    "id": "w7896",
+    "hanzi": "纵深",
+    "pinyin": "zòngshēn",
+    "meaning": "derinlik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "改革需要向纵深发展。",
+        "pinyin": "Gǎigé xūyào xiàng zòngshēn fāzhǎn.",
+        "en": "Reform derinlemesine geliştirilmeli."
+      },
+      {
+        "zh": "部队向敌方纵深推进。",
+        "pinyin": "Bùduì xiàng dífāng zòngshēn tuījìn.",
+        "en": "Birlik düşman bölgesinin derinliklerine ilerledi."
+      }
+    ]
+  },
+  {
+    "id": "w7897",
+    "hanzi": "走动",
+    "pinyin": "zǒudòng",
+    "meaning": "yürümek, dolaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "饭后走动有助于消化。",
+        "pinyin": "Fàn hòu zǒudòng yǒuzhùyú xiāohuà.",
+        "en": "Yemekten sonra yürümek sindirime yardımcı olur."
+      },
+      {
+        "zh": "他在房间里走动着思考问题。",
+        "pinyin": "Tā zài fángjiān lǐ zǒudòngzhe sīkǎo wèntí.",
+        "en": "Odada dolaşarak sorunu düşünüyor."
+      },
+      {
+        "zh": "老人每天早上都要走动走动。",
+        "pinyin": "Lǎorén měitiān zǎoshang dōu yào zǒudòng zǒudòng.",
+        "en": "Yaşlı adam her sabah biraz dolaşıyor."
+      },
+      {
+        "zh": "两家人经常走动。",
+        "pinyin": "Liǎng jiā rén jīngcháng zǒudòng.",
+        "en": "İki aile sık sık birbirini ziyaret ediyor."
+      },
+      {
+        "zh": "他走动了一会儿，脚就不疼了。",
+        "pinyin": "Tā zǒudòngle yíhuìr, jiǎo jiù bù téng le.",
+        "en": "Bir süre dolaştıktan sonra ayağı ağrımadı."
+      }
+    ]
+  },
+  {
+    "id": "w7898",
+    "hanzi": "走访",
+    "pinyin": "zǒufǎng",
+    "meaning": "ziyaret ederek görüşmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "记者走访了当地居民。",
+        "pinyin": "Jìzhě zǒufǎngle dāngdì jūmín.",
+        "en": "Muhabir yerel sakinleri ziyaret ederek görüştü."
+      },
+      {
+        "zh": "干部下乡走访贫困户。",
+        "pinyin": "Gànbù xiàxiāng zǒufǎng pínkùnhù.",
+        "en": "Yetkililer köye giderek yoksul aileleri ziyaret etti."
+      },
+      {
+        "zh": "他走访了多家公司了解市场行情。",
+        "pinyin": "Tā zǒufǎngle duō jiā gōngsī liǎojiě shìchǎng hángqíng.",
+        "en": "Piyasa durumunu öğrenmek için birçok şirketi ziyaret etti."
+      },
+      {
+        "zh": "老师走访了学生的家庭。",
+        "pinyin": "Lǎoshī zǒufǎngle xuésheng de jiātíng.",
+        "en": "Öğretmen öğrencinin ailesini ziyaret etti."
+      },
+      {
+        "zh": "他们计划走访更多的客户。",
+        "pinyin": "Tāmen jìhuà zǒufǎng gèng duō de kèhù.",
+        "en": "Daha fazla müşteriyi ziyaret etmeyi planlıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w7899",
+    "hanzi": "走过场",
+    "pinyin": "zǒuguòchǎng",
+    "meaning": "işi göstermelik yapmak, üstünkörü geçmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这次检查只是走过场。",
+        "pinyin": "Zhè cì jiǎnchá zhǐshì zǒuguòchǎng.",
+        "en": "Bu denetim sadece göstermelik."
+      },
+      {
+        "zh": "别走过场，要认真解决问题。",
+        "pinyin": "Bié zǒuguòchǎng, yào rènzhēn jiějué wèntí.",
+        "en": "Üstünkörü geçme, sorunu ciddiyetle çöz."
+      }
+    ]
+  },
+  {
+    "id": "w7900",
+    "hanzi": "走后门",
+    "pinyin": "zǒuhòumén",
+    "meaning": "arka kapıdan iş halletmek, torpil yapmak",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他靠走后门找到了工作。",
+        "pinyin": "Tā kào zǒuhòumén zhǎodàole gōngzuò.",
+        "en": "Torpille iş buldu."
+      },
+      {
+        "zh": "我们反对走后门的行为。",
+        "pinyin": "Wǒmen fǎnduì zǒuhòumén de xíngwéi.",
+        "en": "Torpil yapma davranışına karşıyız."
+      }
+    ]
+  },
+  {
+    "id": "w7901",
+    "hanzi": "走廊",
+    "pinyin": "zǒuláng",
+    "meaning": "koridor",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他在走廊里等着。",
+        "pinyin": "Tā zài zǒuláng lǐ děngzhe.",
+        "en": "Koridorda bekliyor."
+      },
+      {
+        "zh": "医院的走廊很长。",
+        "pinyin": "Yīyuàn de zǒuláng hěn cháng.",
+        "en": "Hastanenin koridoru çok uzun."
+      },
+      {
+        "zh": "教室外面是一条走廊。",
+        "pinyin": "Jiàoshì wàimian shì yì tiáo zǒuláng.",
+        "en": "Sınıfın dışında bir koridor var."
+      },
+      {
+        "zh": "他沿着走廊走向办公室。",
+        "pinyin": "Tā yánzhe zǒuláng zǒuxiàng bàngōngshì.",
+        "en": "Koridor boyunca yürüyerek ofise gitti."
+      },
+      {
+        "zh": "走廊两侧挂满了照片。",
+        "pinyin": "Zǒuláng liǎng cè guàmǎnle zhàopiàn.",
+        "en": "Koridorun iki tarafı fotoğraflarla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w7902",
+    "hanzi": "走路",
+    "pinyin": "zǒulù",
+    "meaning": "yürümek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他每天走路上班。",
+        "pinyin": "Tā měitiān zǒulù shàngbān.",
+        "en": "Her gün yürüyerek işe gidiyor."
+      },
+      {
+        "zh": "孩子刚学会走路。",
+        "pinyin": "Háizi gāng xuéhuì zǒulù.",
+        "en": "Çocuk yeni yürümeyi öğrendi."
+      },
+      {
+        "zh": "他走路速度很快。",
+        "pinyin": "Tā zǒulù sùdù hěn kuài.",
+        "en": "Yürüme hızı çok hızlı."
+      },
+      {
+        "zh": "小心走路，路很滑。",
+        "pinyin": "Xiǎoxīn zǒulù, lù hěn huá.",
+        "en": "Dikkatli yürü, yol çok kaygan."
+      },
+      {
+        "zh": "我们走路去公园吧。",
+        "pinyin": "Wǒmen zǒulù qù gōngyuán ba.",
+        "en": "Parka yürüyerek gidelim."
+      }
+    ]
+  },
+  {
+    "id": "w7903",
+    "hanzi": "走马看花",
+    "pinyin": "zǒumǎ-kànhuā",
+    "meaning": "yüzeysel olarak gelişigüzel incelemek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这次考察只是走马看花。",
+        "pinyin": "Zhè cì kǎochá zhǐshì zǒumǎ-kànhuā.",
+        "en": "Bu inceleme sadece yüzeysel oldu."
+      },
+      {
+        "zh": "旅游不能走马看花，要细细体会。",
+        "pinyin": "Lǚyóu bùnéng zǒumǎ-kànhuā, yào xìxì tǐhuì.",
+        "en": "Gezinti yüzeysel olmamalı, ayrıntılı deneyimlenmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7904",
+    "hanzi": "走南闯北",
+    "pinyin": "zǒunán-chuǎngběi",
+    "meaning": "çok seyahat etmek, ülkenin her yerini gezmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他年轻时走南闯北做生意。",
+        "pinyin": "Tā niánqīng shí zǒunán-chuǎngběi zuò shēngyi.",
+        "en": "Gençken her yeri gezerek ticaret yaptı."
+      },
+      {
+        "zh": "走南闯北让他见识了很多。",
+        "pinyin": "Zǒunán-chuǎngběi ràng tā jiànshíle hěn duō.",
+        "en": "Çok seyahat etmek ona büyük tecrübe kazandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w7905",
+    "hanzi": "走失",
+    "pinyin": "zǒushī",
+    "meaning": "kaybolmak (yürürken)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "孩子在商场走失了。",
+        "pinyin": "Háizi zài shāngchǎng zǒushī le.",
+        "en": "Çocuk AVM'de kayboldu."
+      },
+      {
+        "zh": "他家的狗走失了。",
+        "pinyin": "Tā jiā de gǒu zǒushī le.",
+        "en": "Ailenin köpeği kayboldu."
+      },
+      {
+        "zh": "警方帮助寻找走失的老人。",
+        "pinyin": "Jǐngfāng bāngzhù xúnzhǎo zǒushī de lǎorén.",
+        "en": "Polis kaybolan yaşlı adamı bulmaya yardım ediyor."
+      },
+      {
+        "zh": "他们在人群中走失了。",
+        "pinyin": "Tāmen zài rénqún zhōng zǒushī le.",
+        "en": "Kalabalıkta birbirlerini kaybettiler."
+      },
+      {
+        "zh": "走失儿童的照片被张贴出来。",
+        "pinyin": "Zǒushī értóng de zhàopiàn bèi zhāntiē chūlái.",
+        "en": "Kaybolan çocuğun fotoğrafı asıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7906",
+    "hanzi": "走兽",
+    "pinyin": "zǒushòu",
+    "meaning": "yabani hayvan (kara hayvanı)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "森林里有各种飞禽走兽。",
+        "pinyin": "Sēnlín lǐ yǒu gèzhǒng fēiqín-zǒushòu.",
+        "en": "Ormanda çeşitli kuşlar ve kara hayvanları var."
+      },
+      {
+        "zh": "这片草原上生活着许多走兽。",
+        "pinyin": "Zhè piàn cǎoyuán shàng shēnghuózhe xǔduō zǒushòu.",
+        "en": "Bu bozkırda birçok yabani hayvan yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7907",
+    "hanzi": "走私",
+    "pinyin": "zǒusī",
+    "meaning": "kaçakçılık yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他因走私被捕。",
+        "pinyin": "Tā yīn zǒusī bèi bǔ.",
+        "en": "Kaçakçılık nedeniyle tutuklandı."
+      },
+      {
+        "zh": "海关查获了大量走私货物。",
+        "pinyin": "Hǎiguān cháhuòle dàliàng zǒusī huòwù.",
+        "en": "Gümrük büyük miktarda kaçak mal ele geçirdi."
+      },
+      {
+        "zh": "走私活动严重扰乱了市场秩序。",
+        "pinyin": "Zǒusī huódòng yánzhòng rǎoluànle shìchǎng zhìxù.",
+        "en": "Kaçakçılık faaliyetleri piyasa düzenini ciddi şekilde bozdu."
+      },
+      {
+        "zh": "他们参与了武器走私。",
+        "pinyin": "Tāmen cānyùle wǔqì zǒusī.",
+        "en": "Silah kaçakçılığına karıştılar."
+      },
+      {
+        "zh": "打击走私是海关的重要职责。",
+        "pinyin": "Dǎjī zǒusī shì hǎiguān de zhòngyào zhízé.",
+        "en": "Kaçakçılıkla mücadele gümrüğün önemli görevidir."
+      }
+    ]
+  },
+  {
+    "id": "w7908",
+    "hanzi": "走投无路",
+    "pinyin": "zǒutóu-wúlù",
+    "meaning": "çıkmaza girmek, yolun sonuna gelmek",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他感到走投无路。",
+        "pinyin": "Tā gǎndào zǒutóu-wúlù.",
+        "en": "Kendini çıkmaz bir durumda hissediyor."
+      },
+      {
+        "zh": "公司资金链断裂，走投无路。",
+        "pinyin": "Gōngsī zījīnliàn duànliè, zǒutóu-wúlù.",
+        "en": "Şirketin nakit akışı koptu, çıkmaza girdi."
+      },
+      {
+        "zh": "被逼得走投无路，他只好求助朋友。",
+        "pinyin": "Bèi bīde zǒutóu-wúlù, tā zhǐhǎo qiúzhù péngyou.",
+        "en": "Çıkmaza sürüklendiği için arkadaşından yardım istemek zorunda kaldı."
+      },
+      {
+        "zh": "他走投无路，只能向父母求助。",
+        "pinyin": "Tā zǒutóu-wúlù, zhǐ néng xiàng fùmǔ qiúzhù.",
+        "en": "Çıkmaza girmiş, sadece ailesinden yardım isteyebilirdi."
+      },
+      {
+        "zh": "面对债务，他感到走投无路。",
+        "pinyin": "Miànduì zhàiwù, tā gǎndào zǒutóu-wúlù.",
+        "en": "Borçlarla karşı karşıya kalınca kendini çıkmaz bir durumda hissetti."
+      }
+    ]
+  },
+  {
+    "id": "w7909",
+    "hanzi": "走弯路",
+    "pinyin": "zǒuwānlù",
+    "meaning": "yanlış yol izlemek, dolambaçlı gitmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他在事业上走了不少弯路。",
+        "pinyin": "Tā zài shìyè shàng zǒule bù shǎo wānlù.",
+        "en": "Kariyerinde birçok dolambaçlı yol izledi."
+      },
+      {
+        "zh": "听取前辈的建议可以少走弯路。",
+        "pinyin": "Tīngqǔ qiánbèi de jiànyì kěyǐ shǎo zǒu wānlù.",
+        "en": "Büyüklerin tavsiyesini dinlemek dolambaçlı yolları azaltabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7910",
+    "hanzi": "走向",
+    "pinyin": "zǒuxiàng",
+    "meaning": "yönelmek, seyir; yön",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "经济正走向复苏。",
+        "pinyin": "Jīngjì zhèng zǒuxiàng fùsū.",
+        "en": "Ekonomi toparlanmaya doğru gidiyor."
+      },
+      {
+        "zh": "他一步步走向成功。",
+        "pinyin": "Tā yíbùbù zǒuxiàng chénggōng.",
+        "en": "Adım adım başarıya doğru ilerliyor."
+      },
+      {
+        "zh": "两国关系正走向紧张。",
+        "pinyin": "Liǎng guó guānxi zhèng zǒuxiàng jǐnzhāng.",
+        "en": "İki ülke arasındaki ilişkiler gerilmeye doğru gidiyor."
+      },
+      {
+        "zh": "这条河流走向东南方向。",
+        "pinyin": "Zhè tiáo héliú zǒuxiàng dōngnán fāngxiàng.",
+        "en": "Bu nehir güneydoğu yönüne doğru akıyor."
+      },
+      {
+        "zh": "市场走向仍不明朗。",
+        "pinyin": "Shìchǎng zǒuxiàng réng bù mínglǎng.",
+        "en": "Piyasanın yönelimi hâlâ belirsiz."
+      }
+    ]
   }
 ]

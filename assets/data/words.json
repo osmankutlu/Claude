@@ -222406,5 +222406,833 @@
         "en": "Onun cildi bembeyaz ve pürüzsüz."
       }
     ]
+  },
+  {
+    "id": "w6683",
+    "hanzi": "雪花",
+    "pinyin": "xuěhuā",
+    "meaning": "kar tanesi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "外面下起了雪花。",
+        "pinyin": "Wàimian xiàqǐle xuěhuā.",
+        "en": "Dışarıda kar yağmaya başladı."
+      },
+      {
+        "zh": "孩子们伸手接雪花。",
+        "pinyin": "Háizimen shēnshǒu jiē xuěhuā.",
+        "en": "Çocuklar ellerini uzatıp kar tanesi tutuyor."
+      },
+      {
+        "zh": "雪花轻轻飘落在地上。",
+        "pinyin": "Xuěhuā qīngqīng piāoluò zài dìshàng.",
+        "en": "Kar taneleri hafifçe yere düşüyor."
+      },
+      {
+        "zh": "每片雪花的形状都不一样。",
+        "pinyin": "Měi piàn xuěhuā de xíngzhuàng dōu bù yīyàng.",
+        "en": "Her kar tanesinin şekli farklıdır."
+      },
+      {
+        "zh": "大片的雪花覆盖了整个城市。",
+        "pinyin": "Dà piàn de xuěhuā fùgàile zhěnggè chéngshì.",
+        "en": "İri kar taneleri tüm şehri kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w6684",
+    "hanzi": "血迹",
+    "pinyin": "xuèjì",
+    "meaning": "kan lekesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "地上留有血迹。",
+        "pinyin": "Dìshàng liú yǒu xuèjì.",
+        "en": "Yerde kan lekesi var."
+      },
+      {
+        "zh": "警察在现场发现了血迹。",
+        "pinyin": "Jǐngchá zài xiànchǎng fāxiànle xuèjì.",
+        "en": "Polis olay yerinde kan lekesi buldu."
+      }
+    ]
+  },
+  {
+    "id": "w6685",
+    "hanzi": "寻",
+    "pinyin": "xún",
+    "meaning": "aramak, araştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他四处寻找丢失的钥匙。",
+        "pinyin": "Tā sìchù xúnzhǎo diūshī de yàoshi.",
+        "en": "O kaybettiği anahtarı her yerde arıyor."
+      },
+      {
+        "zh": "她正在寻一个安静的地方休息。",
+        "pinyin": "Tā zhèngzài xún yī gè ānjìng de dìfang xiūxi.",
+        "en": "O dinlenmek için sessiz bir yer arıyor."
+      },
+      {
+        "zh": "他寻到了失散多年的亲人。",
+        "pinyin": "Tā xúndàole shīsàn duō nián de qīnrén.",
+        "en": "O yıllardır ayrı kalan akrabasını buldu."
+      },
+      {
+        "zh": "警察正在寻访目击者。",
+        "pinyin": "Jǐngchá zhèngzài xúnfǎng mùjīzhě.",
+        "en": "Polis görgü tanıklarını arıyor."
+      },
+      {
+        "zh": "他寻遍了整个城市也没找到。",
+        "pinyin": "Tā xún biànle zhěnggè chéngshì yě méi zhǎodào.",
+        "en": "O tüm şehri arasa da bulamadı."
+      }
+    ]
+  },
+  {
+    "id": "w6686",
+    "hanzi": "寻常",
+    "pinyin": "xúncháng",
+    "meaning": "olağan, sıradan, alışılmış",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这只是一件寻常的小事。",
+        "pinyin": "Zhè zhǐshì yī jiàn xúncháng de xiǎoshì.",
+        "en": "Bu sadece sıradan küçük bir olay."
+      },
+      {
+        "zh": "他的行为异于寻常。",
+        "pinyin": "Tā de xíngwéi yìyú xúncháng.",
+        "en": "Onun davranışı olağandışı."
+      }
+    ]
+  },
+  {
+    "id": "w6687",
+    "hanzi": "寻求",
+    "pinyin": "xúnqiú",
+    "meaning": "aramak, peşinde koşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们正在寻求解决办法。",
+        "pinyin": "Tāmen zhèngzài xúnqiú jiějué bànfǎ.",
+        "en": "Onlar bir çözüm yolu arıyor."
+      },
+      {
+        "zh": "她寻求朋友的帮助。",
+        "pinyin": "Tā xúnqiú péngyou de bāngzhù.",
+        "en": "O arkadaşından yardım arıyor."
+      },
+      {
+        "zh": "公司正在寻求新的合作伙伴。",
+        "pinyin": "Gōngsī zhèngzài xúnqiú xīn de hézuò huǒbàn.",
+        "en": "Şirket yeni bir iş ortağı arıyor."
+      },
+      {
+        "zh": "他一直在寻求人生的意义。",
+        "pinyin": "Tā yīzhí zài xúnqiú rénshēng de yìyì.",
+        "en": "O hep hayatın anlamını arıyor."
+      },
+      {
+        "zh": "我们应该寻求共同发展。",
+        "pinyin": "Wǒmen yīnggāi xúnqiú gòngtóng fāzhǎn.",
+        "en": "Ortak gelişme aramalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w6688",
+    "hanzi": "循环",
+    "pinyin": "xúnhuán",
+    "meaning": "devir daim etmek, döngü, dolaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "血液在体内循环。",
+        "pinyin": "Xuèyè zài tǐnèi xúnhuán.",
+        "en": "Kan vücutta dolaşır."
+      },
+      {
+        "zh": "水在自然界中不断循环。",
+        "pinyin": "Shuǐ zài zìránjiè zhōng bùduàn xúnhuán.",
+        "en": "Su doğada sürekli döngü halindedir."
+      },
+      {
+        "zh": "这是一个恶性循环。",
+        "pinyin": "Zhè shì yī gè èxìng xúnhuán.",
+        "en": "Bu kısır bir döngüdür."
+      },
+      {
+        "zh": "四季循环往复。",
+        "pinyin": "Sìjì xúnhuán wǎngfù.",
+        "en": "Dört mevsim tekrar tekrar döner."
+      },
+      {
+        "zh": "这台机器可以循环利用能源。",
+        "pinyin": "Zhè tái jīqì kěyǐ xúnhuán lìyòng néngyuán.",
+        "en": "Bu makine enerjiyi geri dönüştürerek kullanabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6689",
+    "hanzi": "巡逻",
+    "pinyin": "xúnluó",
+    "meaning": "devriye gezmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警察每晚都在街上巡逻。",
+        "pinyin": "Jǐngchá měi wǎn dōu zài jiē shàng xúnluó.",
+        "en": "Polis her gece sokakta devriye geziyor."
+      },
+      {
+        "zh": "边防部队日夜巡逻边境。",
+        "pinyin": "Biānfáng bùduì rìyè xúnluó biānjìng.",
+        "en": "Sınır muhafızları gece gündüz sınırda devriye geziyor."
+      }
+    ]
+  },
+  {
+    "id": "w6690",
+    "hanzi": "训斥",
+    "pinyin": "xùnchì",
+    "meaning": "şiddetle azarlamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老师严厉地训斥了他。",
+        "pinyin": "Lǎoshī yánlì de xùnchìle tā.",
+        "en": "Öğretmen onu sertçe azarladı."
+      },
+      {
+        "zh": "他因迟到被上司训斥。",
+        "pinyin": "Tā yīn chídào bèi shàngsi xùnchì.",
+        "en": "O geç kaldığı için amiri tarafından azarlandı."
+      }
+    ]
+  },
+  {
+    "id": "w6691",
+    "hanzi": "迅猛",
+    "pinyin": "xùnměng",
+    "meaning": "hızlı ve şiddetli, hızlı ve sert",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "经济发展速度迅猛。",
+        "pinyin": "Jīngjì fāzhǎn sùdù xùnměng.",
+        "en": "Ekonomik gelişim hızı çok hızlı ve şiddetli."
+      },
+      {
+        "zh": "科技的进步十分迅猛。",
+        "pinyin": "Kējì de jìnbù shífēn xùnměng.",
+        "en": "Teknolojik ilerleme son derece hızlı."
+      }
+    ]
+  },
+  {
+    "id": "w6692",
+    "hanzi": "驯服",
+    "pinyin": "xùnfú",
+    "meaning": "uysal; evcilleştirmek",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "这匹马已经被驯服了。",
+        "pinyin": "Zhè pǐ mǎ yǐjīng bèi xùnfú le.",
+        "en": "Bu at zaten evcilleştirilmiş."
+      },
+      {
+        "zh": "这只狗很驯服,不会咬人。",
+        "pinyin": "Zhè zhī gǒu hěn xùnfú, bùhuì yǎo rén.",
+        "en": "Bu köpek çok uysal, insan ısırmaz."
+      }
+    ]
+  },
+  {
+    "id": "w6693",
+    "hanzi": "押金",
+    "pinyin": "yājīn",
+    "meaning": "depozito",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "租房需要交押金。",
+        "pinyin": "Zūfáng xūyào jiāo yājīn.",
+        "en": "Ev kiralamak için depozito ödenmesi gerekiyor."
+      },
+      {
+        "zh": "退房时押金会退还。",
+        "pinyin": "Tuìfáng shí yājīn huì tuìhuán.",
+        "en": "Ev boşaltılırken depozito iade edilecek."
+      },
+      {
+        "zh": "他交了两个月的押金。",
+        "pinyin": "Tā jiāole liǎng gè yuè de yājīn.",
+        "en": "O iki aylık depozito ödedi."
+      },
+      {
+        "zh": "自行车租赁需要押金。",
+        "pinyin": "Zìxíngchē zūlìn xūyào yājīn.",
+        "en": "Bisiklet kiralamak için depozito gerekiyor."
+      },
+      {
+        "zh": "押金金额取决于合同条款。",
+        "pinyin": "Yājīn jīné qǔjuéyú hétong tiáokuǎn.",
+        "en": "Depozito miktarı sözleşme şartlarına bağlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6694",
+    "hanzi": "鸭",
+    "pinyin": "yā",
+    "meaning": "ördek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "湖里有很多鸭。",
+        "pinyin": "Hú lǐ yǒu hěn duō yā.",
+        "en": "Gölde çok fazla ördek var."
+      },
+      {
+        "zh": "北京烤鸭很有名。",
+        "pinyin": "Běijīng kǎoyā hěn yǒumíng.",
+        "en": "Pekin kızarmış ördeği çok ünlüdür."
+      },
+      {
+        "zh": "农场里养了几只鸭。",
+        "pinyin": "Nóngchǎng lǐ yǎngle jǐ zhī yā.",
+        "en": "Çiftlikte birkaç ördek besleniyor."
+      },
+      {
+        "zh": "小鸭子跟着妈妈游泳。",
+        "pinyin": "Xiǎo yāzi gēnzhe māma yóuyǒng.",
+        "en": "Yavru ördek anasını takip ederek yüzüyor."
+      },
+      {
+        "zh": "这道菜是用鸭肉做的。",
+        "pinyin": "Zhè dào cài shì yòng yāròu zuò de.",
+        "en": "Bu yemek ördek etinden yapılmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w6695",
+    "hanzi": "压",
+    "pinyin": "yā",
+    "meaning": "bastırmak, sıkıştırmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用手压住了纸。",
+        "pinyin": "Tā yòng shǒu yā zhùle zhǐ.",
+        "en": "O eliyle kağıdı bastırdı."
+      },
+      {
+        "zh": "书太重,压坏了桌子。",
+        "pinyin": "Shū tài zhòng, yā huàile zhuōzi.",
+        "en": "Kitaplar çok ağır, masayı çökertti."
+      },
+      {
+        "zh": "工作压得他喘不过气来。",
+        "pinyin": "Gōngzuò yā de tā chuǎn bù guò qì lái.",
+        "en": "İş onu nefes alamayacak kadar bastırıyor."
+      },
+      {
+        "zh": "请把这些文件压平。",
+        "pinyin": "Qǐng bǎ zhèxiē wénjiàn yāpíng.",
+        "en": "Lütfen bu belgeleri düzleştir."
+      },
+      {
+        "zh": "他把音量压低了。",
+        "pinyin": "Tā bǎ yīnliàng yādī le.",
+        "en": "O sesin seviyesini düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w6696",
+    "hanzi": "压倒",
+    "pinyin": "yādǎo",
+    "meaning": "alt etmek, ezmek, yenmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他以压倒性优势获胜。",
+        "pinyin": "Tā yǐ yādǎoxìng yōushì huòshèng.",
+        "en": "O ezici bir üstünlükle kazandı."
+      },
+      {
+        "zh": "困难没有压倒他。",
+        "pinyin": "Kùnnan méiyǒu yādǎo tā.",
+        "en": "Zorluklar onu yenemedi."
+      }
+    ]
+  },
+  {
+    "id": "w6697",
+    "hanzi": "压迫",
+    "pinyin": "yāpò",
+    "meaning": "bunaltmak, baskı yapmak, ezmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "人民反抗封建压迫。",
+        "pinyin": "Rénmín fǎnkàng fēngjiàn yāpò.",
+        "en": "Halk feodal baskıya karşı direniyor."
+      },
+      {
+        "zh": "肿瘤压迫了神经。",
+        "pinyin": "Zhǒngliú yāpòle shénjīng.",
+        "en": "Tümör siniri baskı altına aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6698",
+    "hanzi": "压岁钱",
+    "pinyin": "yāsuìqián",
+    "meaning": "yılbaşı harçlığı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "过年时长辈给孩子压岁钱。",
+        "pinyin": "Guònián shí zhǎngbèi gěi háizi yāsuìqián.",
+        "en": "Bahar bayramında büyükler çocuklara harçlık verir."
+      },
+      {
+        "zh": "他收到了不少压岁钱。",
+        "pinyin": "Tā shōudàole bù shǎo yāsuìqián.",
+        "en": "O oldukça fazla harçlık aldı."
+      },
+      {
+        "zh": "压岁钱一般装在红包里。",
+        "pinyin": "Yāsuìqián yībān zhuāng zài hóngbāo lǐ.",
+        "en": "Harçlık genellikle kırmızı zarfa konur."
+      },
+      {
+        "zh": "孩子们很期待收压岁钱。",
+        "pinyin": "Háizimen hěn qídài shōu yāsuìqián.",
+        "en": "Çocuklar harçlık almayı dört gözle bekliyor."
+      },
+      {
+        "zh": "他把压岁钱存进了银行。",
+        "pinyin": "Tā bǎ yāsuìqián cún jìnle yínháng.",
+        "en": "O harçlığını bankaya yatırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6699",
+    "hanzi": "压缩",
+    "pinyin": "yāsuō",
+    "meaning": "sıkıştırmak, azaltmak, kısmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "文件太大,需要压缩。",
+        "pinyin": "Wénjiàn tài dà, xūyào yāsuō.",
+        "en": "Dosya çok büyük, sıkıştırılması gerekiyor."
+      },
+      {
+        "zh": "公司决定压缩开支。",
+        "pinyin": "Gōngsī juédìng yāsuō kāizhī.",
+        "en": "Şirket harcamaları azaltmaya karar verdi."
+      },
+      {
+        "zh": "气体被压缩后体积变小。",
+        "pinyin": "Qìtǐ bèi yāsuō hòu tǐjī biàn xiǎo.",
+        "en": "Gaz sıkıştırıldıktan sonra hacmi küçülür."
+      },
+      {
+        "zh": "他压缩了旅行的时间。",
+        "pinyin": "Tā yāsuōle lǚxíng de shíjiān.",
+        "en": "O seyahat süresini kısalttı."
+      },
+      {
+        "zh": "压缩包解压后就能使用。",
+        "pinyin": "Yāsuōbāo jiěyā hòu jiù néng shǐyòng.",
+        "en": "Sıkıştırılmış dosya açıldıktan sonra kullanılabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6700",
+    "hanzi": "压抑",
+    "pinyin": "yāyì",
+    "meaning": "bastırmak, dizginlemek, baskı altında hissetmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他一直压抑着自己的情绪。",
+        "pinyin": "Tā yīzhí yāyìzhe zìjǐ de qíngxù.",
+        "en": "O sürekli kendi duygularını bastırıyor."
+      },
+      {
+        "zh": "这种氛围让人感到很压抑。",
+        "pinyin": "Zhè zhǒng fēnwéi ràng rén gǎndào hěn yāyì.",
+        "en": "Bu atmosfer insanı çok baskı altında hissettiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6701",
+    "hanzi": "鸦片",
+    "pinyin": "yāpiàn",
+    "meaning": "afyon",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "鸦片战争改变了中国的历史。",
+        "pinyin": "Yāpiàn zhànzhēng gǎibiànle Zhōngguó de lìshǐ.",
+        "en": "Afyon Savaşı Çin'in tarihini değiştirdi."
+      },
+      {
+        "zh": "鸦片对人体危害极大。",
+        "pinyin": "Yāpiàn duì réntǐ wēihài jí dà.",
+        "en": "Afyon insan vücuduna son derece zararlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6702",
+    "hanzi": "牙",
+    "pinyin": "yá",
+    "meaning": "diş",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他每天刷两次牙。",
+        "pinyin": "Tā měitiān shuā liǎng cì yá.",
+        "en": "O her gün iki kez dişlerini fırçalar."
+      },
+      {
+        "zh": "孩子长出了第一颗牙。",
+        "pinyin": "Háizi zhǎngchūle dìyī kē yá.",
+        "en": "Çocuğun ilk dişi çıktı."
+      },
+      {
+        "zh": "他的牙有点疼。",
+        "pinyin": "Tā de yá yǒudiǎn téng.",
+        "en": "Onun dişi biraz ağrıyor."
+      },
+      {
+        "zh": "医生检查了他的牙。",
+        "pinyin": "Yīshēng jiǎnchále tā de yá.",
+        "en": "Doktor onun dişlerini kontrol etti."
+      },
+      {
+        "zh": "老人的牙都掉光了。",
+        "pinyin": "Lǎorén de yá dōu diàoguāng le.",
+        "en": "Yaşlı adamın tüm dişleri döküldü."
+      }
+    ]
+  },
+  {
+    "id": "w6703",
+    "hanzi": "牙齿",
+    "pinyin": "yáchǐ",
+    "meaning": "diş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的牙齿很整齐。",
+        "pinyin": "Tā de yáchǐ hěn zhěngqí.",
+        "en": "Onun dişleri çok düzgün."
+      },
+      {
+        "zh": "要保护好牙齿健康。",
+        "pinyin": "Yào bǎohù hǎo yáchǐ jiànkāng.",
+        "en": "Diş sağlığını iyi korumak gerekir."
+      },
+      {
+        "zh": "他的牙齿又白又亮。",
+        "pinyin": "Tā de yáchǐ yòu bái yòu liàng.",
+        "en": "Onun dişleri hem beyaz hem parlak."
+      },
+      {
+        "zh": "吃糖太多会损害牙齿。",
+        "pinyin": "Chī táng tài duō huì sǔnhài yáchǐ.",
+        "en": "Fazla şeker yemek dişlere zarar verebilir."
+      },
+      {
+        "zh": "牙齿松动了要去看牙医。",
+        "pinyin": "Yáchǐ sōngdòng le yào qù kàn yáyī.",
+        "en": "Diş gevşediyse dişçiye gitmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6704",
+    "hanzi": "牙科",
+    "pinyin": "yákē",
+    "meaning": "dişçilik bölümü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "我预约了牙科医生。",
+        "pinyin": "Wǒ yùyuēle yákē yīshēng.",
+        "en": "Bir diş hekimiyle randevu aldım."
+      },
+      {
+        "zh": "牙科诊所就在附近。",
+        "pinyin": "Yákē zhěnsuǒ jiù zài fùjìn.",
+        "en": "Diş kliniği hemen yakında."
+      },
+      {
+        "zh": "他去牙科检查了牙齿。",
+        "pinyin": "Tā qù yákē jiǎnchále yáchǐ.",
+        "en": "O dişçiye giderek dişlerini kontrol ettirdi."
+      },
+      {
+        "zh": "牙科手术需要打麻药。",
+        "pinyin": "Yákē shǒushù xūyào dǎ máyào.",
+        "en": "Diş ameliyatı için anestezi yapılması gerekir."
+      },
+      {
+        "zh": "医院新开设了儿童牙科。",
+        "pinyin": "Yīyuàn xīn kāishèle értóng yákē.",
+        "en": "Hastane yeni bir çocuk diş bölümü açtı."
+      }
+    ]
+  },
+  {
+    "id": "w6705",
+    "hanzi": "牙刷",
+    "pinyin": "yáshuā",
+    "meaning": "diş fırçası",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请拿一支新牙刷给我。",
+        "pinyin": "Qǐng ná yī zhī xīn yáshuā gěi wǒ.",
+        "en": "Bana yeni bir diş fırçası ver lütfen."
+      },
+      {
+        "zh": "他每天用牙刷刷牙。",
+        "pinyin": "Tā měitiān yòng yáshuā shuāyá.",
+        "en": "O her gün diş fırçasıyla dişlerini fırçalıyor."
+      },
+      {
+        "zh": "牙刷应该定期更换。",
+        "pinyin": "Yáshuā yīnggāi dìngqī gēnghuàn.",
+        "en": "Diş fırçası düzenli olarak değiştirilmelidir."
+      },
+      {
+        "zh": "电动牙刷更容易清洁牙齿。",
+        "pinyin": "Diàndòng yáshuā gèng róngyì qīngjié yáchǐ.",
+        "en": "Elektrikli diş fırçası dişleri daha kolay temizler."
+      },
+      {
+        "zh": "我把牙刷放在杯子里。",
+        "pinyin": "Wǒ bǎ yáshuā fàng zài bēizi lǐ.",
+        "en": "Diş fırçamı bardağa koydum."
+      }
+    ]
+  },
+  {
+    "id": "w6706",
+    "hanzi": "牙痛",
+    "pinyin": "yátòng",
+    "meaning": "diş ağrısı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因为牙痛去看医生了。",
+        "pinyin": "Tā yīnwèi yátòng qù kàn yīshēng le.",
+        "en": "O diş ağrısı yüzünden doktora gitti."
+      },
+      {
+        "zh": "昨晚我牙痛得睡不着。",
+        "pinyin": "Zuówǎn wǒ yátòng de shuì bùzháo.",
+        "en": "Dün gece diş ağrısından uyuyamadım."
+      },
+      {
+        "zh": "吃冷的东西会引起牙痛。",
+        "pinyin": "Chī lěng de dōngxi huì yǐnqǐ yátòng.",
+        "en": "Soğuk şeyler yemek diş ağrısına yol açabilir."
+      },
+      {
+        "zh": "牙痛真让人受不了。",
+        "pinyin": "Yátòng zhēn ràng rén shòubuliǎo.",
+        "en": "Diş ağrısı gerçekten dayanılmaz."
+      },
+      {
+        "zh": "他吃了止痛药缓解牙痛。",
+        "pinyin": "Tā chīle zhǐtòngyào huǎnjiě yátòng.",
+        "en": "O diş ağrısını hafifletmek için ağrı kesici aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6707",
+    "hanzi": "芽",
+    "pinyin": "yá",
+    "meaning": "filiz, tomurcuk, gonca",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "春天树木发芽了。",
+        "pinyin": "Chūntiān shùmù fāyá le.",
+        "en": "Baharda ağaçlar filizlendi."
+      },
+      {
+        "zh": "种子已经长出了嫩芽。",
+        "pinyin": "Zhǒngzi yǐjīng zhǎngchūle nènyá.",
+        "en": "Tohum zaten körpe bir filiz çıkardı."
+      },
+      {
+        "zh": "豆芽是一种常见的蔬菜。",
+        "pinyin": "Dòuyá shì yī zhǒng chángjiàn de shūcài.",
+        "en": "Fasulye filizi yaygın bir sebzedir."
+      },
+      {
+        "zh": "这棵树刚长出新芽。",
+        "pinyin": "Zhè kē shù gāng zhǎngchū xīn yá.",
+        "en": "Bu ağaç yeni filiz vermeye başladı."
+      },
+      {
+        "zh": "土豆发芽了就不能吃了。",
+        "pinyin": "Tǔdòu fāyá le jiù bùnéng chī le.",
+        "en": "Patates filizlenirse artık yenilmez."
+      }
+    ]
+  },
+  {
+    "id": "w6708",
+    "hanzi": "哑",
+    "pinyin": "yǎ",
+    "meaning": "dilsiz, sessiz, kısık (ses)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他天生就是哑的。",
+        "pinyin": "Tā tiānshēng jiùshì yǎ de.",
+        "en": "O doğuştan dilsizdir."
+      },
+      {
+        "zh": "喊了太久,她的嗓子哑了。",
+        "pinyin": "Hǎnle tài jiǔ, tā de sǎngzi yǎ le.",
+        "en": "Çok uzun bağırdığı için sesi kısıldı."
+      },
+      {
+        "zh": "他哑口无言,不知道该说什么。",
+        "pinyin": "Tā yǎkǒu-wúyán, bùzhīdào gāi shuō shénme.",
+        "en": "O ne diyeceğini bilemeyip sessiz kaldı."
+      },
+      {
+        "zh": "感冒后他的声音变哑了。",
+        "pinyin": "Gǎnmào hòu tā de shēngyīn biàn yǎ le.",
+        "en": "Soğuk algınlığından sonra sesi kısıldı."
+      },
+      {
+        "zh": "聋哑学校专门教育听障学生。",
+        "pinyin": "Lóngyǎ xuéxiào zhuānmén jiàoyù tīngzhàng xuésheng.",
+        "en": "Sağır ve dilsiz okulu özellikle işitme engelli öğrencileri eğitiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6709",
+    "hanzi": "雅致",
+    "pinyin": "yǎzhì",
+    "meaning": "kibar, nazik, zevkli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这间屋子布置得很雅致。",
+        "pinyin": "Zhè jiān wūzi bùzhì de hěn yǎzhì.",
+        "en": "Bu oda çok zevkli döşenmiş."
+      },
+      {
+        "zh": "她穿着雅致,举止得体。",
+        "pinyin": "Tā chuānzhe yǎzhì, jǔzhǐ détǐ.",
+        "en": "O zevkli giyiniyor, tavırları da yerinde."
+      }
+    ]
+  },
+  {
+    "id": "w6710",
+    "hanzi": "亚热带",
+    "pinyin": "yàrèdài",
+    "meaning": "yarı tropikal bölge",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个地区属于亚热带气候。",
+        "pinyin": "Zhège dìqū shǔyú yàrèdài qìhòu.",
+        "en": "Bu bölge yarı tropikal iklime sahiptir."
+      },
+      {
+        "zh": "亚热带植物种类丰富。",
+        "pinyin": "Yàrèdài zhíwù zhǒnglèi fēngfù.",
+        "en": "Yarı tropikal bitki türleri çok çeşitlidir."
+      }
+    ]
   }
 ]

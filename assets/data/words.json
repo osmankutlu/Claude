@@ -172615,5 +172615,545 @@
         "en": "Ailedeki tek erkek evlattır."
       }
     ]
+  },
+  {
+    "id": "w4992",
+    "hanzi": "男孩儿",
+    "pinyin": "nánháir",
+    "meaning": "Erkek çocuk, oğlan",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "那个男孩儿在踢足球。",
+        "pinyin": "Nàge nánháir zài tī zúqiú.",
+        "en": "O erkek çocuk futbol oynuyor."
+      },
+      {
+        "zh": "她生了一个男孩儿。",
+        "pinyin": "Tā shēng le yí gè nánháir.",
+        "en": "Bir erkek çocuk doğurdu."
+      },
+      {
+        "zh": "这个男孩儿很聪明。",
+        "pinyin": "Zhège nánháir hěn cōngming.",
+        "en": "Bu erkek çocuk çok zeki."
+      },
+      {
+        "zh": "邻居家的男孩儿常来我家玩。",
+        "pinyin": "Línjū jiā de nánháir cháng lái wǒ jiā wán.",
+        "en": "Komşunun erkek çocuğu sık sık bize oynamaya geliyor."
+      },
+      {
+        "zh": "男孩儿们喜欢玩打闹游戏。",
+        "pinyin": "Nánháirmen xǐhuan wán dǎnào yóuxì.",
+        "en": "Erkek çocuklar itiş kakış oyunlar oynamayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w4993",
+    "hanzi": "男朋友",
+    "pinyin": "nán péngyou",
+    "meaning": "Erkek arkadaş",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她有一个男朋友。",
+        "pinyin": "Tā yǒu yí gè nán péngyou.",
+        "en": "Bir erkek arkadaşı var."
+      },
+      {
+        "zh": "她的男朋友在国外工作。",
+        "pinyin": "Tā de nán péngyou zài guówài gōngzuò.",
+        "en": "Erkek arkadaşı yurt dışında çalışıyor."
+      },
+      {
+        "zh": "她带男朋友去见了父母。",
+        "pinyin": "Tā dài nán péngyou qù jiàn le fùmǔ.",
+        "en": "Erkek arkadaşını ailesiyle tanıştırmaya götürdü."
+      },
+      {
+        "zh": "她的男朋友对她很好。",
+        "pinyin": "Tā de nán péngyou duì tā hěn hǎo.",
+        "en": "Erkek arkadaşı ona çok iyi davranıyor."
+      },
+      {
+        "zh": "她和男朋友已经交往三年了。",
+        "pinyin": "Tā hé nán péngyou yǐjīng jiāowǎng sān nián le.",
+        "en": "Erkek arkadaşıyla üç yıldır beraberler."
+      }
+    ]
+  },
+  {
+    "id": "w4994",
+    "hanzi": "男生",
+    "pinyin": "nánshēng",
+    "meaning": "Erkek öğrenci",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "班里的男生比女生多。",
+        "pinyin": "Bān lǐ de nánshēng bǐ nǚshēng duō.",
+        "en": "Sınıftaki erkek öğrenciler kız öğrencilerden daha fazla."
+      },
+      {
+        "zh": "这个男生成绩很好。",
+        "pinyin": "Zhège nánshēng chéngjì hěn hǎo.",
+        "en": "Bu erkek öğrencinin notları çok iyi."
+      },
+      {
+        "zh": "男生宿舍在东边的楼。",
+        "pinyin": "Nánshēng sùshè zài dōngbian de lóu.",
+        "en": "Erkek öğrenci yurdu doğu binasında."
+      },
+      {
+        "zh": "他是班里最高的男生。",
+        "pinyin": "Tā shì bān lǐ zuì gāo de nánshēng.",
+        "en": "Sınıftaki en uzun erkek öğrencidir."
+      },
+      {
+        "zh": "很多男生喜欢打篮球。",
+        "pinyin": "Hěn duō nánshēng xǐhuan dǎ lánqiú.",
+        "en": "Birçok erkek öğrenci basketbol oynamayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w4995",
+    "hanzi": "男性",
+    "pinyin": "nánxìng",
+    "meaning": "Erkek cinsiyeti",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项工作男性和女性都可以做。",
+        "pinyin": "Zhè xiàng gōngzuò nánxìng hé nǚxìng dōu kěyǐ zuò.",
+        "en": "Bu işi erkekler ve kadınlar da yapabilir."
+      },
+      {
+        "zh": "男性平均身高比女性高。",
+        "pinyin": "Nánxìng píngjūn shēngāo bǐ nǚxìng gāo.",
+        "en": "Erkeklerin ortalama boyu kadınlardan daha yüksektir."
+      },
+      {
+        "zh": "这家公司男性员工占多数。",
+        "pinyin": "Zhè jiā gōngsī nánxìng yuángōng zhàn duōshù.",
+        "en": "Bu şirkette çoğunluğu erkek çalışanlar oluşturuyor."
+      },
+      {
+        "zh": "这种疾病在男性中更常见。",
+        "pinyin": "Zhè zhǒng jíbìng zài nánxìng zhōng gèng chángjiàn.",
+        "en": "Bu hastalık erkeklerde daha yaygındır."
+      },
+      {
+        "zh": "男性和女性的思维方式常常不同。",
+        "pinyin": "Nánxìng hé nǚxìng de sīwéi fāngshì chángcháng bùtóng.",
+        "en": "Erkeklerin ve kadınların düşünme şekli genellikle farklıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4996",
+    "hanzi": "男子",
+    "pinyin": "nánzǐ",
+    "meaning": "Erkek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Temel Kelimeler",
+    "examples": [
+      {
+        "zh": "一名男子走进了商店。",
+        "pinyin": "Yì míng nánzǐ zǒujìn le shāngdiàn.",
+        "en": "Bir erkek mağazaya girdi."
+      },
+      {
+        "zh": "这是男子百米赛跑决赛。",
+        "pinyin": "Zhè shì nánzǐ bǎimǐ sàipǎo juésài.",
+        "en": "Bu, erkekler yüz metre koşusu finalidir."
+      },
+      {
+        "zh": "警方正在寻找这名男子。",
+        "pinyin": "Jǐngfāng zhèngzài xúnzhǎo zhè míng nánzǐ.",
+        "en": "Polis bu erkeği arıyor."
+      },
+      {
+        "zh": "一名中年男子向他问路。",
+        "pinyin": "Yì míng zhōngnián nánzǐ xiàng tā wènlù.",
+        "en": "Orta yaşlı bir erkek ona yol sordu."
+      },
+      {
+        "zh": "这项赛事分男子组和女子组。",
+        "pinyin": "Zhè xiàng sàishì fēn nánzǐ zǔ hé nǚzǐ zǔ.",
+        "en": "Bu yarışma erkekler ve kadınlar grubuna ayrılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4997",
+    "hanzi": "男子汉",
+    "pinyin": "nánzǐhàn",
+    "meaning": "Delikanlı, yiğit erkek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他是一个真正的男子汉。",
+        "pinyin": "Tā shì yí gè zhēnzhèng de nánzǐhàn.",
+        "en": "O gerçek bir erkektir."
+      },
+      {
+        "zh": "男子汉大丈夫,说话要算数。",
+        "pinyin": "Nánzǐhàn dàzhàngfu, shuōhuà yào suànshù.",
+        "en": "Gerçek bir erkek sözünün eri olmalıdır."
+      },
+      {
+        "zh": "他从小就被教育要做一个男子汉。",
+        "pinyin": "Tā cóngxiǎo jiù bèi jiàoyù yào zuò yí gè nánzǐhàn.",
+        "en": "Küçüklüğünden beri yiğit bir erkek olması öğütlendi."
+      },
+      {
+        "zh": "他勇敢地承担责任,表现出了男子汉的气概。",
+        "pinyin": "Tā yǒnggǎn de chéngdān zérèn, biǎoxiàn chū le nánzǐhàn de qìgài.",
+        "en": "Cesurca sorumluluk üstlenerek yiğit bir erkek karakteri sergiledi."
+      },
+      {
+        "zh": "他希望儿子长大后成为一个顶天立地的男子汉。",
+        "pinyin": "Tā xīwàng érzi zhǎngdà hòu chéngwéi yí gè dǐngtiān-lìdì de nánzǐhàn.",
+        "en": "Oğlunun büyüdüğünde dimdik ayakta duran bir erkek olmasını umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w4998",
+    "hanzi": "难得",
+    "pinyin": "nándé",
+    "meaning": "Nadir bulunan, ele geçmesi zor",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一个难得的机会。",
+        "pinyin": "Zhè shì yí gè nándé de jīhuì.",
+        "en": "Bu nadir bulunan bir fırsattır."
+      },
+      {
+        "zh": "他难得回一次家。",
+        "pinyin": "Tā nándé huí yí cì jiā.",
+        "en": "Nadiren eve geliyor."
+      },
+      {
+        "zh": "这样的人才实在难得。",
+        "pinyin": "Zhèyàng de réncái shízài nándé.",
+        "en": "Böyle bir yetenek gerçekten nadirdir."
+      },
+      {
+        "zh": "今天难得放晴了。",
+        "pinyin": "Jīntiān nándé fàngqíng le.",
+        "en": "Bugün nadiren güneş açtı."
+      },
+      {
+        "zh": "难得有空,我们一起出去玩吧。",
+        "pinyin": "Nándé yǒu kòng, wǒmen yìqǐ chūqù wán ba.",
+        "en": "Nadiren boş vaktimiz var, hadi dışarı çıkıp eğlenelim."
+      }
+    ]
+  },
+  {
+    "id": "w4999",
+    "hanzi": "难关",
+    "pinyin": "nánguān",
+    "meaning": "Engel, zorluk, kriz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他们一起度过了那段艰难关。",
+        "pinyin": "Tāmen yìqǐ dùguò le nà duàn jiānnán guān.",
+        "en": "O zor dönemi birlikte atlattılar."
+      },
+      {
+        "zh": "公司正面临资金上的难关。",
+        "pinyin": "Gōngsī zhèng miànlín zījīn shàng de nánguān.",
+        "en": "Şirket mali açıdan zorluklarla karşı karşıya."
+      },
+      {
+        "zh": "他成功克服了这次难关。",
+        "pinyin": "Tā chénggōng kèfú le zhè cì nánguān.",
+        "en": "Bu zorluğun üstesinden başarıyla geldi."
+      },
+      {
+        "zh": "他们携手渡过了创业的难关。",
+        "pinyin": "Tāmen xiéshǒu dùguò le chuàngyè de nánguān.",
+        "en": "Girişimcilik sürecindeki zorlukları el ele atlattılar."
+      },
+      {
+        "zh": "度过这个难关后,情况会好转。",
+        "pinyin": "Dùguò zhège nánguān hòu, qíngkuàng huì hǎozhuǎn.",
+        "en": "Bu zorluğu atlattıktan sonra durum düzelecek."
+      }
+    ]
+  },
+  {
+    "id": "w5000",
+    "hanzi": "难堪",
+    "pinyin": "nánkān",
+    "meaning": "Utanmış, mahcup",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他在众人面前感到十分难堪。",
+        "pinyin": "Tā zài zhòngrén miànqián gǎndào shífēn nánkān.",
+        "en": "Herkesin önünde çok mahcup hissetti."
+      },
+      {
+        "zh": "这个问题让他很难堪。",
+        "pinyin": "Zhège wèntí ràng tā hěn nánkān.",
+        "en": "Bu soru onu çok mahcup etti."
+      },
+      {
+        "zh": "他的话让场面十分难堪。",
+        "pinyin": "Tā de huà ràng chǎngmiàn shífēn nánkān.",
+        "en": "Sözleri ortamı çok garip bir hale getirdi."
+      },
+      {
+        "zh": "别让他陷入难堪的境地。",
+        "pinyin": "Bié ràng tā xiànrù nánkān de jìngdì.",
+        "en": "Onu utanç verici bir duruma sokma."
+      },
+      {
+        "zh": "他强忍住内心的难堪。",
+        "pinyin": "Tā qiángrěnzhù nèixīn de nánkān.",
+        "en": "İçindeki mahcubiyeti zorlukla bastırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5001",
+    "hanzi": "难免",
+    "pinyin": "nánmiǎn",
+    "meaning": "Kaçınılmaz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "犯错误是难免的。",
+        "pinyin": "Fàn cuòwù shì nánmiǎn de.",
+        "en": "Hata yapmak kaçınılmazdır."
+      },
+      {
+        "zh": "工作中难免会遇到困难。",
+        "pinyin": "Gōngzuò zhōng nánmiǎn huì yùdào kùnnan.",
+        "en": "İşte zorluklarla karşılaşmak kaçınılmazdır."
+      },
+      {
+        "zh": "初学者难免会犯这样的错误。",
+        "pinyin": "Chūxuézhě nánmiǎn huì fàn zhèyàng de cuòwù.",
+        "en": "Yeni başlayanların bu tür hatalar yapması kaçınılmazdır."
+      },
+      {
+        "zh": "意见不合也是难免的。",
+        "pinyin": "Yìjiàn bùhé yě shì nánmiǎn de.",
+        "en": "Görüş ayrılıkları da kaçınılmazdır."
+      },
+      {
+        "zh": "这场雨水造成的损失难免。",
+        "pinyin": "Zhè chǎng yǔshuǐ zàochéng de sǔnshī nánmiǎn.",
+        "en": "Bu yağmurun neden olduğu zarar kaçınılmazdı."
+      }
+    ]
+  },
+  {
+    "id": "w5002",
+    "hanzi": "难以",
+    "pinyin": "nányǐ",
+    "meaning": "-mesi zor, güç",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这件事让人难以置信。",
+        "pinyin": "Zhè jiàn shì ràng rén nányǐ zhìxìn.",
+        "en": "Bu olay inanılması güç bir şey."
+      },
+      {
+        "zh": "他的态度让人难以理解。",
+        "pinyin": "Tā de tàidù ràng rén nányǐ lǐjiě.",
+        "en": "Tutumu insanın anlaması zor bir şey."
+      },
+      {
+        "zh": "这种感觉难以言表。",
+        "pinyin": "Zhè zhǒng gǎnjué nányǐ yánbiǎo.",
+        "en": "Bu duygu kelimelerle ifade edilmesi zor bir şey."
+      },
+      {
+        "zh": "他的成绩难以令人满意。",
+        "pinyin": "Tā de chéngjì nányǐ lìng rén mǎnyì.",
+        "en": "Notları insanı tatmin etmesi zor bir düzeyde."
+      },
+      {
+        "zh": "这个问题难以解决。",
+        "pinyin": "Zhège wèntí nányǐ jiějué.",
+        "en": "Bu sorunun çözülmesi güç."
+      }
+    ]
+  },
+  {
+    "id": "w5003",
+    "hanzi": "南半球",
+    "pinyin": "nánbànqiú",
+    "meaning": "Güney yarım küre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "澳大利亚位于南半球。",
+        "pinyin": "Àodàlìyà wèiyú nánbànqiú.",
+        "en": "Avustralya güney yarım kürede yer alır."
+      },
+      {
+        "zh": "南半球的季节与北半球相反。",
+        "pinyin": "Nánbànqiú de jìjié yǔ běibànqiú xiāngfǎn.",
+        "en": "Güney yarım kürenin mevsimleri kuzey yarım küreninkinin tersidir."
+      },
+      {
+        "zh": "南半球的冬天正是北半球的夏天。",
+        "pinyin": "Nánbànqiú de dōngtiān zhèngshì běibànqiú de xiàtiān.",
+        "en": "Güney yarım kürenin kışı tam olarak kuzey yarım kürenin yazına denk gelir."
+      },
+      {
+        "zh": "南极洲位于南半球。",
+        "pinyin": "Nánjízhōu wèiyú nánbànqiú.",
+        "en": "Antarktika güney yarım kürede yer alır."
+      },
+      {
+        "zh": "南半球有很多独特的动植物。",
+        "pinyin": "Nánbànqiú yǒu hěn duō dútè de dòngzhíwù.",
+        "en": "Güney yarım kürede birçok özgün hayvan ve bitki bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w5004",
+    "hanzi": "南北",
+    "pinyin": "nánběi",
+    "meaning": "Kuzey ve güney",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这条铁路贯穿南北。",
+        "pinyin": "Zhè tiáo tiělù guànchuān nánběi.",
+        "en": "Bu demiryolu kuzeyden güneye uzanıyor."
+      },
+      {
+        "zh": "中国南北气候差异很大。",
+        "pinyin": "Zhōngguó nánběi qìhòu chāyì hěn dà.",
+        "en": "Çin'in kuzeyi ve güneyi arasında iklim farkı çok büyüktür."
+      },
+      {
+        "zh": "南北方的饮食习惯不同。",
+        "pinyin": "Nánběifāng de yǐnshí xíguàn bùtóng.",
+        "en": "Kuzey ve güneyin yeme alışkanlıkları farklıdır."
+      },
+      {
+        "zh": "他南北奔波,忙于工作。",
+        "pinyin": "Tā nánběi bēnbō, mángyú gōngzuò.",
+        "en": "Kuzeyden güneye koşturarak işiyle meşgul oluyor."
+      },
+      {
+        "zh": "这场比赛是南北两队的对决。",
+        "pinyin": "Zhè chǎng bǐsài shì nánběi liǎng duì de duìjué.",
+        "en": "Bu maç kuzey ve güney takımlarının karşılaşmasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5005",
+    "hanzi": "囊",
+    "pinyin": "náng",
+    "meaning": "Torba, çanta, çuval",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他背着行囊出发了。",
+        "pinyin": "Tā bēizhe xíngnáng chūfā le.",
+        "en": "Sırt çantasını sırtlayıp yola çıktı."
+      },
+      {
+        "zh": "他把钱放进了口袋的暗囊里。",
+        "pinyin": "Tā bǎ qián fàngjìn le kǒudai de ànnáng lǐ.",
+        "en": "Parayı cebinin gizli bölmesine koydu."
+      },
+      {
+        "zh": "他随身携带一个小药囊。",
+        "pinyin": "Tā suíshēn xiédài yí gè xiǎo yàonáng.",
+        "en": "Yanında küçük bir ilaç kesesi taşıyor."
+      },
+      {
+        "zh": "他这次旅行只带了简单的行囊。",
+        "pinyin": "Tā zhè cì lǚxíng zhǐ dài le jiǎndān de xíngnáng.",
+        "en": "Bu seyahatinde sadece basit bir çanta getirdi."
+      },
+      {
+        "zh": "他的钱囊已经空了。",
+        "pinyin": "Tā de qiánnáng yǐjīng kōng le.",
+        "en": "Para kesesi zaten boşaldı."
+      }
+    ]
+  },
+  {
+    "id": "w5006",
+    "hanzi": "脑",
+    "pinyin": "nǎo",
+    "meaning": "Beyin",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他脑受了伤。",
+        "pinyin": "Tā nǎo shòu le shāng.",
+        "en": "Beyni yaralandı."
+      },
+      {
+        "zh": "医生检查了他的脑部。",
+        "pinyin": "Yīshēng jiǎnchá le tā de nǎobù.",
+        "en": "Doktor beyin bölgesini muayene etti."
+      },
+      {
+        "zh": "人脑十分复杂神奇。",
+        "pinyin": "Rénnǎo shífēn fùzá shénqí.",
+        "en": "İnsan beyni son derece karmaşık ve şaşırtıcıdır."
+      },
+      {
+        "zh": "多用脑可以让人更聪明。",
+        "pinyin": "Duō yòng nǎo kěyǐ ràng rén gèng cōngming.",
+        "en": "Beyni çok kullanmak insanı daha zeki yapabilir."
+      },
+      {
+        "zh": "他脑子转得很快。",
+        "pinyin": "Tā nǎozi zhuàn de hěn kuài.",
+        "en": "Beyni çok hızlı çalışıyor."
+      }
+    ]
   }
 ]

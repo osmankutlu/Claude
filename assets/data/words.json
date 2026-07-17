@@ -161527,5 +161527,545 @@
         "en": "Son anda planı değiştirmeye karar verdi."
       }
     ]
+  },
+  {
+    "id": "w4684",
+    "hanzi": "临床",
+    "pinyin": "línchuáng",
+    "meaning": "Klinik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这种药还在临床试验阶段。",
+        "pinyin": "Zhè zhǒng yào hái zài línchuáng shìyàn jiēduàn.",
+        "en": "Bu ilaç hâlâ klinik deneme aşamasında."
+      },
+      {
+        "zh": "他是一名临床医生。",
+        "pinyin": "Tā shì yì míng línchuáng yīshēng.",
+        "en": "O bir klinik doktordur."
+      },
+      {
+        "zh": "这些数据来自大规模临床研究。",
+        "pinyin": "Zhèxiē shùjù láizì dàguīmó línchuáng yánjiū.",
+        "en": "Bu veriler büyük ölçekli klinik araştırmalardan elde edildi."
+      },
+      {
+        "zh": "他有丰富的临床经验。",
+        "pinyin": "Tā yǒu fēngfù de línchuáng jīngyàn.",
+        "en": "Zengin bir klinik deneyimi var."
+      },
+      {
+        "zh": "这种疗法通过了临床验证。",
+        "pinyin": "Zhè zhǒng liáofǎ tōngguò le línchuáng yànzhèng.",
+        "en": "Bu tedavi yöntemi klinik olarak doğrulandı."
+      }
+    ]
+  },
+  {
+    "id": "w4685",
+    "hanzi": "吝啬",
+    "pinyin": "lìnsè",
+    "meaning": "Cimri, pinti",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人吝啬,从不请客。",
+        "pinyin": "Tā wéirén lìnsè, cóng bù qǐngkè.",
+        "en": "Cimri bir insandır, hiç ikram etmez."
+      },
+      {
+        "zh": "别对朋友这么吝啬。",
+        "pinyin": "Bié duì péngyou zhème lìnsè.",
+        "en": "Arkadaşlarına karşı bu kadar cimri olma."
+      },
+      {
+        "zh": "他不吝啬地分享了自己的经验。",
+        "pinyin": "Tā bú lìnsè de fēnxiǎng le zìjǐ de jīngyàn.",
+        "en": "Kendi deneyimlerini cömertçe paylaştı."
+      },
+      {
+        "zh": "他吝啬得连一分钱都不肯多花。",
+        "pinyin": "Tā lìnsè de lián yì fēn qián dōu bù kěn duō huā.",
+        "en": "O kadar cimri ki bir kuruş bile fazla harcamak istemiyor."
+      },
+      {
+        "zh": "老板对表扬员工从不吝啬。",
+        "pinyin": "Lǎobǎn duì biǎoyáng yuángōng cóng bù lìnsè.",
+        "en": "Patron çalışanları övmekte hiç cimri davranmaz."
+      }
+    ]
+  },
+  {
+    "id": "w4686",
+    "hanzi": "零散",
+    "pinyin": "língsǎn",
+    "meaning": "Dağınık, yayılmış, düzensiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的笔记本上写着零散的想法。",
+        "pinyin": "Tā de bǐjìběn shàng xiězhe língsǎn de xiǎngfǎ.",
+        "en": "Not defterinde dağınık düşünceler yazılı."
+      },
+      {
+        "zh": "这些资料很零散,需要整理。",
+        "pinyin": "Zhèxiē zīliào hěn língsǎn, xūyào zhěnglǐ.",
+        "en": "Bu belgeler dağınık, düzenlenmesi gerekiyor."
+      },
+      {
+        "zh": "他零散地记得一些细节。",
+        "pinyin": "Tā língsǎn de jìde yìxiē xìjié.",
+        "en": "Bazı ayrıntıları parça parça hatırlıyor."
+      },
+      {
+        "zh": "农田零散地分布在山谷里。",
+        "pinyin": "Nóngtián língsǎn de fēnbù zài shāngǔ lǐ.",
+        "en": "Tarlalar vadide dağınık bir şekilde yayılmış."
+      },
+      {
+        "zh": "他利用零散的时间学习英语。",
+        "pinyin": "Tā lìyòng língsǎn de shíjiān xuéxí Yīngyǔ.",
+        "en": "Dağınık boş zamanlarını İngilizce öğrenmek için değerlendiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w4687",
+    "hanzi": "零售",
+    "pinyin": "língshòu",
+    "meaning": "Perakende satış",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这家公司主要做零售生意。",
+        "pinyin": "Zhè jiā gōngsī zhǔyào zuò língshòu shēngyi.",
+        "en": "Bu şirket esas olarak perakende ticaret yapıyor."
+      },
+      {
+        "zh": "零售价比批发价贵。",
+        "pinyin": "Língshòujià bǐ pīfājià guì.",
+        "en": "Perakende fiyatı toptan fiyattan daha pahalıdır."
+      },
+      {
+        "zh": "线上零售发展迅速。",
+        "pinyin": "Xiànshàng língshòu fāzhǎn xùnsù.",
+        "en": "Çevrimiçi perakende hızla gelişiyor."
+      },
+      {
+        "zh": "这个品牌有很多零售门店。",
+        "pinyin": "Zhège pǐnpái yǒu hěn duō língshòu méndiàn.",
+        "en": "Bu markanın birçok perakende mağazası var."
+      },
+      {
+        "zh": "零售行业竞争十分激烈。",
+        "pinyin": "Língshòu hángyè jìngzhēng shífēn jīliè.",
+        "en": "Perakende sektöründeki rekabet çok yoğun."
+      }
+    ]
+  },
+  {
+    "id": "w4688",
+    "hanzi": "零星",
+    "pinyin": "língxīng",
+    "meaning": "Dağınık, az, parça parça",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "外面下着零星小雨。",
+        "pinyin": "Wàimiàn xiàzhe língxīng xiǎoyǔ.",
+        "en": "Dışarıda hafif ve dağınık bir yağmur yağıyor."
+      },
+      {
+        "zh": "他只记得一些零星的片段。",
+        "pinyin": "Tā zhǐ jìde yìxiē língxīng de piànduàn.",
+        "en": "Sadece bazı dağınık parçaları hatırlıyor."
+      },
+      {
+        "zh": "他花了很多零星时间读这本书。",
+        "pinyin": "Tā huā le hěn duō língxīng shíjiān dú zhè běn shū.",
+        "en": "Bu kitabı okumak için birçok parça parça zaman harcadı."
+      },
+      {
+        "zh": "商店里还有一些零星的存货。",
+        "pinyin": "Shāngdiàn lǐ hái yǒu yìxiē língxīng de cúnhuò.",
+        "en": "Dükkanda hâlâ bazı dağınık stok kalmış."
+      },
+      {
+        "zh": "路上偶尔能看到零星的行人。",
+        "pinyin": "Lùshang ǒu'ěr néng kàndào língxīng de xíngrén.",
+        "en": "Yolda ara sıra dağınık yayalar görülebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4689",
+    "hanzi": "零用",
+    "pinyin": "língyòng",
+    "meaning": "Harçlık, cepte kalan para",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "妈妈每周给我一些零用钱。",
+        "pinyin": "Māma měi zhōu gěi wǒ yìxiē língyòngqián.",
+        "en": "Annem her hafta bana biraz harçlık veriyor."
+      },
+      {
+        "zh": "他把零用钱存起来买自行车。",
+        "pinyin": "Tā bǎ língyòngqián cún qǐlai mǎi zìxíngchē.",
+        "en": "Bisiklet almak için harçlığını biriktiriyor."
+      },
+      {
+        "zh": "他每个月都会理性规划零用开支。",
+        "pinyin": "Tā měi gè yuè dōu huì lǐxìng guīhuà língyòng kāizhī.",
+        "en": "Her ay harçlık harcamalarını akılcı bir şekilde planlıyor."
+      },
+      {
+        "zh": "孩子的零用钱应该合理控制。",
+        "pinyin": "Háizi de língyòngqián yīnggāi hélǐ kòngzhì.",
+        "en": "Çocuğun harçlığı makul bir şekilde kontrol edilmeli."
+      },
+      {
+        "zh": "他用零用钱买了一本漫画书。",
+        "pinyin": "Tā yòng língyòngqián mǎi le yì běn mànhuàshū.",
+        "en": "Harçlığıyla bir çizgi roman satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4690",
+    "hanzi": "凌乱",
+    "pinyin": "língluàn",
+    "meaning": "Düzensiz, karışık",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "房间里一片凌乱。",
+        "pinyin": "Fángjiān lǐ yí piàn língluàn.",
+        "en": "Oda tamamen düzensiz."
+      },
+      {
+        "zh": "她的头发被风吹得很凌乱。",
+        "pinyin": "Tā de tóufa bèi fēng chuī de hěn língluàn.",
+        "en": "Saçları rüzgardan çok karıştı."
+      },
+      {
+        "zh": "桌子上摆满了凌乱的文件。",
+        "pinyin": "Zhuōzi shàng bǎimǎn le língluàn de wénjiàn.",
+        "en": "Masa dağınık evraklarla dolu."
+      },
+      {
+        "zh": "他的思路有点凌乱。",
+        "pinyin": "Tā de sīlù yǒudiǎn língluàn.",
+        "en": "Düşünceleri biraz karışık."
+      },
+      {
+        "zh": "地震后现场一片凌乱。",
+        "pinyin": "Dìzhèn hòu xiànchǎng yí piàn língluàn.",
+        "en": "Depremden sonra ortalık tamamen dağıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4691",
+    "hanzi": "陵墓",
+    "pinyin": "língmù",
+    "meaning": "Anıt mezar, mozole",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这座陵墓是古代帝王的安葬之地。",
+        "pinyin": "Zhè zuò língmù shì gǔdài dìwáng de ānzàng zhī dì.",
+        "en": "Bu anıt mezar eski çağ hükümdarının gömülü olduğu yerdir."
+      },
+      {
+        "zh": "游客们参观了古老的陵墓。",
+        "pinyin": "Yóukèmen cānguān le gǔlǎo de língmù.",
+        "en": "Turistler eski anıt mezarı ziyaret etti."
+      },
+      {
+        "zh": "考古学家在陵墓中发现了大量文物。",
+        "pinyin": "Kǎogǔxuéjiā zài língmù zhōng fāxiàn le dàliàng wénwù.",
+        "en": "Arkeologlar anıt mezarda çok sayıda tarihi eser buldu."
+      },
+      {
+        "zh": "这座陵墓建于两千多年前。",
+        "pinyin": "Zhè zuò língmù jiàn yú liǎngqiān duō nián qián.",
+        "en": "Bu anıt mezar iki bin yıldan fazla önce inşa edilmiştir."
+      },
+      {
+        "zh": "陵墓周围种满了松树。",
+        "pinyin": "Língmù zhōuwéi zhòngmǎn le sōngshù.",
+        "en": "Anıt mezarın etrafına çam ağaçları dikilmiş."
+      }
+    ]
+  },
+  {
+    "id": "w4692",
+    "hanzi": "灵感",
+    "pinyin": "línggǎn",
+    "meaning": "İlham",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这首诗给了他很多灵感。",
+        "pinyin": "Zhè shǒu shī gěi le tā hěn duō línggǎn.",
+        "en": "Bu şiir ona büyük ilham verdi."
+      },
+      {
+        "zh": "他的灵感来自大自然。",
+        "pinyin": "Tā de línggǎn láizì dàzìrán.",
+        "en": "İlhamını doğadan alıyor."
+      },
+      {
+        "zh": "画家突然有了创作的灵感。",
+        "pinyin": "Huàjiā tūrán yǒu le chuàngzuò de línggǎn.",
+        "en": "Ressamın aniden yaratıcı bir ilhamı geldi."
+      },
+      {
+        "zh": "旅行常常能激发灵感。",
+        "pinyin": "Lǚxíng chángcháng néng jīfā línggǎn.",
+        "en": "Seyahat genellikle ilham verir."
+      },
+      {
+        "zh": "这部电影是根据真实故事获得灵感的。",
+        "pinyin": "Zhè bù diànyǐng shì gēnjù zhēnshí gùshi huòdé línggǎn de.",
+        "en": "Bu film gerçek bir hikayeden ilham alarak yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4693",
+    "hanzi": "灵魂",
+    "pinyin": "línghún",
+    "meaning": "Ruh",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他相信人死后灵魂不灭。",
+        "pinyin": "Tā xiāngxìn rén sǐ hòu línghún bú miè.",
+        "en": "İnsan öldükten sonra ruhun ölmediğine inanıyor."
+      },
+      {
+        "zh": "这本书触动了我的灵魂。",
+        "pinyin": "Zhè běn shū chùdòng le wǒ de línghún.",
+        "en": "Bu kitap ruhumu dokundu."
+      },
+      {
+        "zh": "音乐能净化人的灵魂。",
+        "pinyin": "Yīnyuè néng jìnghuà rén de línghún.",
+        "en": "Müzik insanın ruhunu arındırabilir."
+      },
+      {
+        "zh": "他是这个团队的灵魂人物。",
+        "pinyin": "Tā shì zhège tuánduì de línghún rénwù.",
+        "en": "O bu ekibin ruhu, en önemli kişisidir."
+      },
+      {
+        "zh": "他用灵魂在演唱这首歌。",
+        "pinyin": "Tā yòng línghún zài yǎnchàng zhè shǒu gē.",
+        "en": "Bu şarkıyı ruhuyla söylüyor."
+      }
+    ]
+  },
+  {
+    "id": "w4694",
+    "hanzi": "灵敏",
+    "pinyin": "língmǐn",
+    "meaning": "Hassas, duyarlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个传感器非常灵敏。",
+        "pinyin": "Zhège chuángǎnqì fēicháng língmǐn.",
+        "en": "Bu sensör çok hassas."
+      },
+      {
+        "zh": "他的反应十分灵敏。",
+        "pinyin": "Tā de fǎnyìng shífēn língmǐn.",
+        "en": "Tepkisi son derece çabuk ve hassas."
+      },
+      {
+        "zh": "猎犬的嗅觉十分灵敏。",
+        "pinyin": "Liègǒu de xiùjué shífēn língmǐn.",
+        "en": "Av köpeğinin koku alma duyusu çok hassastır."
+      },
+      {
+        "zh": "这台机器的仪表非常灵敏。",
+        "pinyin": "Zhè tái jīqì de yíbiǎo fēicháng língmǐn.",
+        "en": "Bu makinenin göstergeleri çok hassas."
+      },
+      {
+        "zh": "他的头脑十分灵敏。",
+        "pinyin": "Tā de tóunǎo shífēn língmǐn.",
+        "en": "Zihni son derece çabuk ve keskin."
+      }
+    ]
+  },
+  {
+    "id": "w4695",
+    "hanzi": "灵巧",
+    "pinyin": "língqiǎo",
+    "meaning": "Becerikli, hünerli, çevik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她的手非常灵巧。",
+        "pinyin": "Tā de shǒu fēicháng língqiǎo.",
+        "en": "Elleri çok becerikli."
+      },
+      {
+        "zh": "他能灵巧地修理各种机器。",
+        "pinyin": "Tā néng língqiǎo de xiūlǐ gèzhǒng jīqì.",
+        "en": "Çeşitli makineleri becerikli bir şekilde tamir edebilir."
+      },
+      {
+        "zh": "这只小猴子动作十分灵巧。",
+        "pinyin": "Zhè zhī xiǎo hóuzi dòngzuò shífēn língqiǎo.",
+        "en": "Bu küçük maymunun hareketleri çok çevik."
+      },
+      {
+        "zh": "她灵巧地编织出一条围巾。",
+        "pinyin": "Tā língqiǎo de biānzhī chū yì tiáo wéijīn.",
+        "en": "Beceriyle bir atkı ördü."
+      },
+      {
+        "zh": "他的手指十分灵巧,弹钢琴很好。",
+        "pinyin": "Tā de shǒuzhǐ shífēn língqiǎo, tán gāngqín hěn hǎo.",
+        "en": "Parmakları çok becerikli, piyanoyu çok iyi çalıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4696",
+    "hanzi": "聆听",
+    "pinyin": "língtīng",
+    "meaning": "Dikkatlice dinlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他静静地聆听音乐。",
+        "pinyin": "Tā jìngjìng de língtīng yīnyuè.",
+        "en": "Sessizce müziği dinliyordu."
+      },
+      {
+        "zh": "我们要学会聆听别人的意见。",
+        "pinyin": "Wǒmen yào xuéhuì língtīng biérén de yìjiàn.",
+        "en": "Başkalarının fikirlerini dikkatlice dinlemeyi öğrenmeliyiz."
+      },
+      {
+        "zh": "他认真聆听了老师的讲解。",
+        "pinyin": "Tā rènzhēn língtīng le lǎoshī de jiǎngjiě.",
+        "en": "Öğretmenin açıklamalarını dikkatlice dinledi."
+      },
+      {
+        "zh": "她喜欢聆听大自然的声音。",
+        "pinyin": "Tā xǐhuan língtīng dàzìrán de shēngyīn.",
+        "en": "Doğanın seslerini dinlemeyi sever."
+      },
+      {
+        "zh": "领导应该多聆听员工的心声。",
+        "pinyin": "Lǐngdǎo yīnggāi duō língtīng yuángōng de xīnshēng.",
+        "en": "Yöneticinin çalışanların iç seslerini daha çok dinlemesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w4697",
+    "hanzi": "伶俐",
+    "pinyin": "línglì",
+    "meaning": "Akıllı, zeki, çevik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "这个孩子聪明伶俐。",
+        "pinyin": "Zhège háizi cōngming línglì.",
+        "en": "Bu çocuk zeki ve çevik."
+      },
+      {
+        "zh": "她说话伶牙俐齿。",
+        "pinyin": "Tā shuōhuà língyá-lìchǐ.",
+        "en": "Konuşurken çok zeki ve akıcı."
+      },
+      {
+        "zh": "他反应伶俐,很快就明白了问题。",
+        "pinyin": "Tā fǎnyìng línglì, hěn kuài jiù míngbai le wèntí.",
+        "en": "Zeki bir tepki verdi, sorunu çabucak anladı."
+      },
+      {
+        "zh": "这只小狗动作伶俐,十分讨人喜欢。",
+        "pinyin": "Zhè zhī xiǎogǒu dòngzuò línglì, shífēn tǎorén-xǐhuan.",
+        "en": "Bu küçük köpeğin hareketleri çevik, çok sevimli."
+      },
+      {
+        "zh": "她从小就机灵伶俐。",
+        "pinyin": "Tā cóngxiǎo jiù jīling-línglì.",
+        "en": "Küçüklüğünden beri zeki ve çeviktir."
+      }
+    ]
+  },
+  {
+    "id": "w4698",
+    "hanzi": "领",
+    "pinyin": "lǐng",
+    "meaning": "Yaka; yönetmek, önderlik etmek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的衣领有点脏了。",
+        "pinyin": "Tā de yīlǐng yǒudiǎn zāng le.",
+        "en": "Kıyafetinin yakası biraz kirlenmiş."
+      },
+      {
+        "zh": "老师带领学生们参观了博物馆。",
+        "pinyin": "Lǎoshī dàilǐng xuéshengmen cānguān le bówùguǎn.",
+        "en": "Öğretmen öğrencileri müzeyi gezmeye götürdü."
+      },
+      {
+        "zh": "他去邮局领取了包裹。",
+        "pinyin": "Tā qù yóujú lǐngqǔ le bāoguǒ.",
+        "en": "Postaneye gidip paketi teslim aldı."
+      },
+      {
+        "zh": "队长领着大家完成了任务。",
+        "pinyin": "Duìzhǎng lǐngzhe dàjiā wánchéng le rènwu.",
+        "en": "Kaptan herkese önderlik ederek görevi tamamladı."
+      },
+      {
+        "zh": "他领会了老师的意图。",
+        "pinyin": "Tā lǐnghuì le lǎoshī de yìtú.",
+        "en": "Öğretmenin amacını kavradı."
+      }
+    ]
   }
 ]

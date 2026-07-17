@@ -262105,5 +262105,248 @@
         "en": "Görüşü biraz dar kapsamlı."
       }
     ]
+  },
+  {
+    "id": "w8023",
+    "hanzi": "坐冷板凳",
+    "pinyin": "zuò lěngbǎndèng",
+    "meaning": "önemsiz/gözden düşmüş bir pozisyonda olmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他在公司坐了三年冷板凳。",
+        "pinyin": "Tā zài gōngsī zuòle sān nián lěngbǎndèng.",
+        "en": "Şirkette üç yıl boyunca göz ardı edilmiş bir pozisyonda kaldı."
+      },
+      {
+        "zh": "新人常常要坐冷板凳。",
+        "pinyin": "Xīnrén chángcháng yào zuò lěngbǎndèng.",
+        "en": "Yeni gelenler sık sık geri planda kalmak zorunda kalır."
+      }
+    ]
+  },
+  {
+    "id": "w8024",
+    "hanzi": "坐立不安",
+    "pinyin": "zuòlì-bù'ān",
+    "meaning": "oturup kalkmaya huzursuz olmak, tedirgin olmak",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "等待结果时他坐立不安。",
+        "pinyin": "Děngdài jiéguǒ shí tā zuòlì-bù'ān.",
+        "en": "Sonucu beklerken tedirgin bir haldeydi."
+      },
+      {
+        "zh": "考试前她紧张得坐立不安。",
+        "pinyin": "Kǎoshì qián tā jǐnzhāng de zuòlì-bù'ān.",
+        "en": "Sınavdan önce gerginlikten yerinde duramıyordu."
+      },
+      {
+        "zh": "他因担心孩子而坐立不安。",
+        "pinyin": "Tā yīn dānxīn háizi ér zuòlì-bù'ān.",
+        "en": "Çocuğu için endişelendiğinden huzursuzdu."
+      },
+      {
+        "zh": "整个晚上她都坐立不安。",
+        "pinyin": "Zhěnggè wǎnshang tā dōu zuòlì-bù'ān.",
+        "en": "Bütün gece huzursuz bir şekilde geçirdi."
+      },
+      {
+        "zh": "面试前他紧张得坐立不安。",
+        "pinyin": "Miànshì qián tā jǐnzhāng de zuòlì-bù'ān.",
+        "en": "Mülakattan önce gerginlikten yerinde duramıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w8025",
+    "hanzi": "坐以待毙",
+    "pinyin": "zuòyǐdàibì",
+    "meaning": "hiçbir şey yapmadan sonu beklemek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "我们不能坐以待毙，要想办法自救。",
+        "pinyin": "Wǒmen bùnéng zuòyǐdàibì, yào xiǎng bànfǎ zìjiù.",
+        "en": "Elimizi kolumuzu bağlayıp beklemek yerine kendimizi kurtaracak bir yol bulmalıyız."
+      },
+      {
+        "zh": "公司面临危机，不能坐以待毙。",
+        "pinyin": "Gōngsī miànlín wēijī, bùnéng zuòyǐdàibì.",
+        "en": "Şirket kriz ile karşı karşıya, hiçbir şey yapmadan beklenemez."
+      }
+    ]
+  },
+  {
+    "id": "w8026",
+    "hanzi": "坐月子",
+    "pinyin": "zuò yuèzi",
+    "meaning": "lohusalık dönemini geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她正在家坐月子。",
+        "pinyin": "Tā zhèngzài jiā zuò yuèzi.",
+        "en": "Şu anda evde lohusalık dönemini geçiriyor."
+      },
+      {
+        "zh": "坐月子期间要注意休息。",
+        "pinyin": "Zuò yuèzi qījiān yào zhùyì xiūxi.",
+        "en": "Lohusalık döneminde dinlenmeye dikkat edilmeli."
+      },
+      {
+        "zh": "婆婆帮她坐月子。",
+        "pinyin": "Pópo bāng tā zuò yuèzi.",
+        "en": "Kayınvalidesi lohusalık döneminde ona yardım ediyor."
+      },
+      {
+        "zh": "坐月子的饮食有很多讲究。",
+        "pinyin": "Zuò yuèzi de yǐnshí yǒu hěn duō jiǎngjiu.",
+        "en": "Lohusalık dönemi beslenmesinin birçok kuralı var."
+      },
+      {
+        "zh": "她在月子中心坐月子。",
+        "pinyin": "Tā zài yuèzi zhōngxīn zuò yuèzi.",
+        "en": "Lohusalık bakım merkezinde bu dönemi geçiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w8027",
+    "hanzi": "座上客",
+    "pinyin": "zuòshàngkè",
+    "meaning": "onur konuğu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他是今晚宴会的座上客。",
+        "pinyin": "Tā shì jīnwǎn yànhuì de zuòshàngkè.",
+        "en": "Bu akşamki ziyafetin onur konuğu o."
+      },
+      {
+        "zh": "作为座上客，他受到了热情款待。",
+        "pinyin": "Zuòwéi zuòshàngkè, tā shòudàole rèqíng kuǎndài.",
+        "en": "Onur konuğu olarak sıcak bir şekilde ağırlandı."
+      }
+    ]
+  },
+  {
+    "id": "w8028",
+    "hanzi": "座谈",
+    "pinyin": "zuòtán",
+    "meaning": "sohbet toplantısı yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们举行了一次座谈会。",
+        "pinyin": "Tāmen jǔxíngle yí cì zuòtánhuì.",
+        "en": "Bir sohbet toplantısı düzenlediler."
+      },
+      {
+        "zh": "专家们座谈了当前的经济形势。",
+        "pinyin": "Zhuānjiāmen zuòtánle dāngqián de jīngjì xíngshì.",
+        "en": "Uzmanlar mevcut ekonomik durumu sohbet ederek tartıştı."
+      },
+      {
+        "zh": "校长与学生代表座谈交流。",
+        "pinyin": "Xiàozhǎng yǔ xuésheng dàibiǎo zuòtán jiāoliú.",
+        "en": "Müdür öğrenci temsilcileriyle sohbet toplantısı yaptı."
+      },
+      {
+        "zh": "我们下午有一场座谈会。",
+        "pinyin": "Wǒmen xiàwǔ yǒu yì chǎng zuòtánhuì.",
+        "en": "Öğleden sonra bir sohbet toplantımız var."
+      },
+      {
+        "zh": "他们就这一话题座谈了很久。",
+        "pinyin": "Tāmen jiù zhè yī huàtí zuòtánle hěn jiǔ.",
+        "en": "Bu konu hakkında uzun süre sohbet ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w8029",
+    "hanzi": "座右铭",
+    "pinyin": "zuòyòumíng",
+    "meaning": "düstur, ilke sözü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这句话是我的座右铭。",
+        "pinyin": "Zhè jù huà shì wǒ de zuòyòumíng.",
+        "en": "Bu söz benim düsturumdur."
+      },
+      {
+        "zh": "他把这句名言当作座右铭。",
+        "pinyin": "Tā bǎ zhè jù míngyán dàngzuò zuòyòumíng.",
+        "en": "Bu ünlü sözü kendine düstur edindi."
+      },
+      {
+        "zh": "“天道酬勤”是他的座右铭。",
+        "pinyin": "\"Tiāndào-chóuqín\" shì tā de zuòyòumíng.",
+        "en": "\"Emek boşa gitmez\" onun düsturudur."
+      },
+      {
+        "zh": "每个人都应该有自己的座右铭。",
+        "pinyin": "Měi gè rén dōu yīnggāi yǒu zìjǐ de zuòyòumíng.",
+        "en": "Herkesin kendi düsturu olmalı."
+      },
+      {
+        "zh": "他把座右铭写在了笔记本上。",
+        "pinyin": "Tā bǎ zuòyòumíng xiě zài le bǐjìběn shàng.",
+        "en": "Düsturunu not defterine yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w8030",
+    "hanzi": "座钟",
+    "pinyin": "zuòzhōng",
+    "meaning": "masa saati",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "客厅里摆着一台座钟。",
+        "pinyin": "Kètīng lǐ bǎizhe yì tái zuòzhōng.",
+        "en": "Oturma odasında bir masa saati duruyor."
+      },
+      {
+        "zh": "这台座钟走得很准。",
+        "pinyin": "Zhè tái zuòzhōng zǒu de hěn zhǔn.",
+        "en": "Bu masa saati çok doğru çalışıyor."
+      },
+      {
+        "zh": "他收藏了一台古董座钟。",
+        "pinyin": "Tā shōucángle yì tái gǔdǒng zuòzhōng.",
+        "en": "Antika bir masa saati topladı."
+      },
+      {
+        "zh": "座钟发出了清脆的报时声。",
+        "pinyin": "Zuòzhōng fāchūle qīngcuì de bàoshí shēng.",
+        "en": "Masa saati net bir zil sesiyle saati bildirdi."
+      },
+      {
+        "zh": "书桌上放着一台小巧的座钟。",
+        "pinyin": "Shūzhuō shàng fàngzhe yì tái xiǎoqiǎo de zuòzhōng.",
+        "en": "Çalışma masasında küçük bir masa saati duruyor."
+      }
+    ]
   }
 ]

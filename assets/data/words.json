@@ -257302,5 +257302,848 @@
         "en": "Boş zamanlarını kullanarak kendi kendine yabancı dil öğreniyor."
       }
     ]
+  },
+  {
+    "id": "w7855",
+    "hanzi": "自选",
+    "pinyin": "zìxuǎn",
+    "meaning": "kendi kendine seçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "学生可以自选课程。",
+        "pinyin": "Xuésheng kěyǐ zìxuǎn kèchéng.",
+        "en": "Öğrenciler kendi derslerini seçebilir."
+      },
+      {
+        "zh": "这是自选动作，不是必修的。",
+        "pinyin": "Zhè shì zìxuǎn dòngzuò, bú shì bìxiū de.",
+        "en": "Bu serbest seçmeli bir hareket, zorunlu değil."
+      },
+      {
+        "zh": "自选超市可以随意挑选商品。",
+        "pinyin": "Zìxuǎn chāoshì kěyǐ suíyì tiāoxuǎn shāngpǐn.",
+        "en": "Self servis marketlerde ürünler istediğin gibi seçilebilir."
+      },
+      {
+        "zh": "请从菜单中自选喜欢的菜。",
+        "pinyin": "Qǐng cóng càidān zhōng zìxuǎn xǐhuan de cài.",
+        "en": "Lütfen menüden sevdiğiniz yemeği seçin."
+      },
+      {
+        "zh": "运动员表演了自选动作。",
+        "pinyin": "Yùndòngyuán biǎoyǎnle zìxuǎn dòngzuò.",
+        "en": "Sporcu serbest seçmeli hareketi sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w7856",
+    "hanzi": "自学",
+    "pinyin": "zìxué",
+    "meaning": "kendi kendine öğrenmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他自学了英语。",
+        "pinyin": "Tā zìxuéle Yīngyǔ.",
+        "en": "İngilizceyi kendi kendine öğrendi."
+      },
+      {
+        "zh": "自学能力对学生很重要。",
+        "pinyin": "Zìxué nénglì duì xuésheng hěn zhòngyào.",
+        "en": "Kendi kendine öğrenme yeteneği öğrenciler için çok önemlidir."
+      },
+      {
+        "zh": "她通过自学考取了证书。",
+        "pinyin": "Tā tōngguò zìxué kǎoqǔle zhèngshū.",
+        "en": "Kendi kendine öğrenerek bir sertifika kazandı."
+      },
+      {
+        "zh": "他利用业余时间自学编程。",
+        "pinyin": "Tā lìyòng yèyú shíjiān zìxué biānchéng.",
+        "en": "Boş zamanlarını kullanarak kendi kendine programlama öğreniyor."
+      },
+      {
+        "zh": "自学是一种重要的学习能力。",
+        "pinyin": "Zìxué shì yì zhǒng zhòngyào de xuéxí nénglì.",
+        "en": "Kendi kendine öğrenme önemli bir öğrenme becerisidir."
+      }
+    ]
+  },
+  {
+    "id": "w7857",
+    "hanzi": "自言自语",
+    "pinyin": "zìyán-zìyǔ",
+    "meaning": "kendi kendine konuşmak",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他总是自言自语。",
+        "pinyin": "Tā zǒngshì zìyán-zìyǔ.",
+        "en": "Sürekli kendi kendine konuşur."
+      },
+      {
+        "zh": "她一边走一边自言自语。",
+        "pinyin": "Tā yìbiān zǒu yìbiān zìyán-zìyǔ.",
+        "en": "Yürürken kendi kendine konuşuyordu."
+      },
+      {
+        "zh": "他自言自语地思考着问题。",
+        "pinyin": "Tā zìyán-zìyǔ de sīkǎozhe wèntí.",
+        "en": "Kendi kendine konuşarak sorunu düşünüyor."
+      },
+      {
+        "zh": "老人常常自言自语。",
+        "pinyin": "Lǎorén chángcháng zìyán-zìyǔ.",
+        "en": "Yaşlı adam sık sık kendi kendine konuşur."
+      },
+      {
+        "zh": "他自言自语地说了一句什么。",
+        "pinyin": "Tā zìyán-zìyǔ de shuōle yí jù shénme.",
+        "en": "Kendi kendine bir şeyler mırıldandı."
+      }
+    ]
+  },
+  {
+    "id": "w7858",
+    "hanzi": "自以为是",
+    "pinyin": "zìyǐwéishì",
+    "meaning": "kendini haklı sanmak, kendi görüşünü doğru zannetmek",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他总是自以为是。",
+        "pinyin": "Tā zǒngshì zìyǐwéishì.",
+        "en": "Sürekli kendini haklı sanıyor."
+      },
+      {
+        "zh": "别自以为是，多听听别人的意见。",
+        "pinyin": "Bié zìyǐwéishì, duō tīngting biérén de yìjiàn.",
+        "en": "Kendini haklı sanma, başkalarının fikirlerini de dinle."
+      },
+      {
+        "zh": "他自以为是的态度让人反感。",
+        "pinyin": "Tā zìyǐwéishì de tàidù ràng rén fǎngǎn.",
+        "en": "Kendini haklı sanan tavrı insanları rahatsız ediyor."
+      },
+      {
+        "zh": "她太自以为是，从不承认错误。",
+        "pinyin": "Tā tài zìyǐwéishì, cóng bù chéngrèn cuòwù.",
+        "en": "Kendini çok haklı sanıyor, hiç hatasını kabul etmiyor."
+      },
+      {
+        "zh": "自以为是往往导致失败。",
+        "pinyin": "Zìyǐwéishì wǎngwǎng dǎozhì shībài.",
+        "en": "Kendini haklı sanmak genellikle başarısızlığa yol açar."
+      }
+    ]
+  },
+  {
+    "id": "w7859",
+    "hanzi": "自圆其说",
+    "pinyin": "zìyuánqíshuō",
+    "meaning": "kendi görüşünü mantıklı bir şekilde savunmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他很难自圆其说。",
+        "pinyin": "Tā hěn nán zìyuánqíshuō.",
+        "en": "Kendi görüşünü mantıklı savunmakta zorlanıyor."
+      },
+      {
+        "zh": "他的解释无法自圆其说。",
+        "pinyin": "Tā de jiěshì wúfǎ zìyuánqíshuō.",
+        "en": "Açıklaması kendi içinde tutarlı değil."
+      }
+    ]
+  },
+  {
+    "id": "w7860",
+    "hanzi": "自在",
+    "pinyin": "zìzai",
+    "meaning": "rahat, serbest",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他过得很自在。",
+        "pinyin": "Tā guò de hěn zìzai.",
+        "en": "Çok rahat bir hayat sürüyor."
+      },
+      {
+        "zh": "在家里他觉得更自在。",
+        "pinyin": "Zài jiā lǐ tā juéde gèng zìzai.",
+        "en": "Evde kendini daha rahat hissediyor."
+      },
+      {
+        "zh": "退休后他生活得逍遥自在。",
+        "pinyin": "Tuìxiū hòu tā shēnghuó de xiāoyáo-zìzai.",
+        "en": "Emekli olduktan sonra özgür ve rahat bir hayat sürüyor."
+      },
+      {
+        "zh": "她穿着舒适的衣服，感觉很自在。",
+        "pinyin": "Tā chuānzhe shūshì de yīfu, gǎnjué hěn zìzai.",
+        "en": "Rahat kıyafetler giyiyor, kendini çok rahat hissediyor."
+      },
+      {
+        "zh": "他在新环境里还不太自在。",
+        "pinyin": "Tā zài xīn huánjìng lǐ hái bú tài zìzai.",
+        "en": "Yeni ortamda henüz pek rahat hissetmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7861",
+    "hanzi": "自找",
+    "pinyin": "zìzhǎo",
+    "meaning": "kendine (zarar vb.) getirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这是他自找的麻烦。",
+        "pinyin": "Zhè shì tā zìzhǎo de máfan.",
+        "en": "Bu kendi başına getirdiği bir sorun."
+      },
+      {
+        "zh": "别自找苦吃。",
+        "pinyin": "Bié zìzhǎo kǔ chī.",
+        "en": "Kendine dert açma."
+      }
+    ]
+  },
+  {
+    "id": "w7862",
+    "hanzi": "自知之明",
+    "pinyin": "zìzhīzhīmíng",
+    "meaning": "kendini iyi tanıma, kendi eksik ve üstünlüklerini bilme",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他很有自知之明。",
+        "pinyin": "Tā hěn yǒu zìzhīzhīmíng.",
+        "en": "Kendini çok iyi tanıyor."
+      },
+      {
+        "zh": "人贵有自知之明。",
+        "pinyin": "Rén guì yǒu zìzhīzhīmíng.",
+        "en": "İnsanın kendini iyi tanıması değerlidir."
+      }
+    ]
+  },
+  {
+    "id": "w7863",
+    "hanzi": "自治",
+    "pinyin": "zìzhì",
+    "meaning": "özerklik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个地区实行自治。",
+        "pinyin": "Zhège dìqū shíxíng zìzhì.",
+        "en": "Bu bölge özerklik uyguluyor."
+      },
+      {
+        "zh": "自治区拥有一定的立法权。",
+        "pinyin": "Zìzhìqū yōngyǒu yídìng de lìfǎquán.",
+        "en": "Özerk bölgenin belirli yasama yetkisi vardır."
+      },
+      {
+        "zh": "学生会实行自治管理。",
+        "pinyin": "Xuéshenghuì shíxíng zìzhì guǎnlǐ.",
+        "en": "Öğrenci konseyi özerk bir yönetim uyguluyor."
+      },
+      {
+        "zh": "村民自治是基层民主的一种形式。",
+        "pinyin": "Cūnmín zìzhì shì jīcéng mínzhǔ de yì zhǒng xíngshì.",
+        "en": "Köylü özerkliği tabana yayılmış demokrasinin bir biçimidir."
+      },
+      {
+        "zh": "这个大学享有较高的自治权。",
+        "pinyin": "Zhège dàxué xiǎngyǒu jiào gāo de zìzhìquán.",
+        "en": "Bu üniversite oldukça yüksek özerklik hakkına sahip."
+      }
+    ]
+  },
+  {
+    "id": "w7864",
+    "hanzi": "自主",
+    "pinyin": "zìzhǔ",
+    "meaning": "kendi kararını vermek, özerk",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他可以自主决定自己的未来。",
+        "pinyin": "Tā kěyǐ zìzhǔ juédìng zìjǐ de wèilái.",
+        "en": "Kendi geleceğine bağımsız olarak karar verebilir."
+      },
+      {
+        "zh": "公司拥有自主经营权。",
+        "pinyin": "Gōngsī yōngyǒu zìzhǔ jīngyíngquán.",
+        "en": "Şirketin bağımsız işletme hakkı var."
+      },
+      {
+        "zh": "学生应该培养自主学习能力。",
+        "pinyin": "Xuésheng yīnggāi péiyǎng zìzhǔ xuéxí nénglì.",
+        "en": "Öğrenciler bağımsız öğrenme becerisi geliştirmeli."
+      },
+      {
+        "zh": "国家拥有自主研发的技术。",
+        "pinyin": "Guójiā yōngyǒu zìzhǔ yánfā de jìshù.",
+        "en": "Ülkenin kendi geliştirdiği teknolojisi var."
+      },
+      {
+        "zh": "他做事很有自主性。",
+        "pinyin": "Tā zuòshì hěn yǒu zìzhǔxìng.",
+        "en": "İşlerinde bağımsız bir tutum sergiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7865",
+    "hanzi": "自助",
+    "pinyin": "zìzhù",
+    "meaning": "self servis",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "这是一家自助餐厅。",
+        "pinyin": "Zhè shì yì jiā zìzhù cāntīng.",
+        "en": "Bu self servis bir restoran."
+      },
+      {
+        "zh": "我们去吃自助餐吧。",
+        "pinyin": "Wǒmen qù chī zìzhùcān ba.",
+        "en": "Açık büfe yemeğe gidelim."
+      },
+      {
+        "zh": "机场有自助值机设备。",
+        "pinyin": "Jīchǎng yǒu zìzhù zhíjī shèbèi.",
+        "en": "Havaalanında self servis check-in cihazları var."
+      },
+      {
+        "zh": "他用自助洗衣机洗衣服。",
+        "pinyin": "Tā yòng zìzhù xǐyījī xǐ yīfu.",
+        "en": "Self servis çamaşır makinesiyle çamaşır yıkıyor."
+      },
+      {
+        "zh": "超市新增了自助结账通道。",
+        "pinyin": "Chāoshì xīnzēngle zìzhù jiézhàng tōngdào.",
+        "en": "Market self servis ödeme kanalı ekledi."
+      }
+    ]
+  },
+  {
+    "id": "w7866",
+    "hanzi": "自传",
+    "pinyin": "zìzhuàn",
+    "meaning": "otobiyografi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他写了一本自传。",
+        "pinyin": "Tā xiěle yì běn zìzhuàn.",
+        "en": "Bir otobiyografi yazdı."
+      },
+      {
+        "zh": "这本自传很畅销。",
+        "pinyin": "Zhè běn zìzhuàn hěn chàngxiāo.",
+        "en": "Bu otobiyografi çok satan bir kitap."
+      },
+      {
+        "zh": "她的自传讲述了艰辛的成长历程。",
+        "pinyin": "Tā de zìzhuàn jiǎngshùle jiānxīn de chéngzhǎng lìchéng.",
+        "en": "Otobiyografisi zorlu büyüme sürecini anlatıyor."
+      },
+      {
+        "zh": "他晚年开始撰写自传。",
+        "pinyin": "Tā wǎnnián kāishǐ zhuànxiě zìzhuàn.",
+        "en": "Yaşlılığında otobiyografi yazmaya başladı."
+      },
+      {
+        "zh": "我最近在读一本名人自传。",
+        "pinyin": "Wǒ zuìjìn zài dú yì běn míngrén zìzhuàn.",
+        "en": "Son zamanlarda ünlü bir kişinin otobiyografisini okuyorum."
+      }
+    ]
+  },
+  {
+    "id": "w7867",
+    "hanzi": "自尊",
+    "pinyin": "zìzūn",
+    "meaning": "özsaygı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他很有自尊心。",
+        "pinyin": "Tā hěn yǒu zìzūnxīn.",
+        "en": "Çok özsaygısı var."
+      },
+      {
+        "zh": "别伤害他的自尊。",
+        "pinyin": "Bié shānghài tā de zìzūn.",
+        "en": "Onun özsaygısını incitme."
+      },
+      {
+        "zh": "她的话伤了我的自尊心。",
+        "pinyin": "Tā de huà shāngle wǒ de zìzūnxīn.",
+        "en": "Sözleri özsaygımı incitti."
+      },
+      {
+        "zh": "保持自尊很重要。",
+        "pinyin": "Bǎochí zìzūn hěn zhòngyào.",
+        "en": "Özsaygıyı korumak çok önemli."
+      },
+      {
+        "zh": "他从小就有很强的自尊心。",
+        "pinyin": "Tā cóngxiǎo jiù yǒu hěn qiáng de zìzūnxīn.",
+        "en": "Küçüklüğünden beri güçlü bir özsaygıya sahip."
+      }
+    ]
+  },
+  {
+    "id": "w7868",
+    "hanzi": "自作自受",
+    "pinyin": "zìzuò-zìshòu",
+    "meaning": "kendi ektiğini biçmek, kendi hatasının bedelini ödemek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这是他自作自受。",
+        "pinyin": "Zhè shì tā zìzuò-zìshòu.",
+        "en": "Bu kendi ektiğini biçmesi."
+      },
+      {
+        "zh": "他自作自受，没人同情他。",
+        "pinyin": "Tā zìzuò-zìshòu, méi rén tóngqíng tā.",
+        "en": "Kendi hatasının bedelini ödüyor, kimse ona acımıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7869",
+    "hanzi": "自作聪明",
+    "pinyin": "zìzuò-cōngmíng",
+    "meaning": "kendini akıllı sanıp aceleci davranmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "别自作聪明，听专家的建议。",
+        "pinyin": "Bié zìzuò-cōngmíng, tīng zhuānjiā de jiànyì.",
+        "en": "Kendini akıllı sanma, uzmanların önerisini dinle."
+      },
+      {
+        "zh": "他自作聪明，结果搞砸了。",
+        "pinyin": "Tā zìzuò-cōngmíng, jiéguǒ gǎozá le.",
+        "en": "Kendini akıllı sanarak hareket etti, sonunda işi berbat etti."
+      }
+    ]
+  },
+  {
+    "id": "w7870",
+    "hanzi": "字迹",
+    "pinyin": "zìjì",
+    "meaning": "el yazısı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他的字迹很工整。",
+        "pinyin": "Tā de zìjì hěn gōngzhěng.",
+        "en": "El yazısı çok düzgün."
+      },
+      {
+        "zh": "这封信的字迹很潦草。",
+        "pinyin": "Zhè fēng xìn de zìjì hěn liáocǎo.",
+        "en": "Bu mektubun yazısı çok karışık."
+      },
+      {
+        "zh": "警方通过字迹鉴定确认了作者。",
+        "pinyin": "Jǐngfāng tōngguò zìjì jiàndìng quèrènle zuòzhě.",
+        "en": "Polis el yazısı analizi ile yazarı doğruladı."
+      },
+      {
+        "zh": "她的字迹娟秀漂亮。",
+        "pinyin": "Tā de zìjì juānxiù piàoliang.",
+        "en": "El yazısı zarif ve güzel."
+      },
+      {
+        "zh": "老人的字迹依然清晰有力。",
+        "pinyin": "Lǎorén de zìjì yīrán qīngxī yǒulì.",
+        "en": "Yaşlı adamın el yazısı hâlâ net ve güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w7871",
+    "hanzi": "字句",
+    "pinyin": "zìjù",
+    "meaning": "kelimeler ve cümleler",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他反复推敲文章的字句。",
+        "pinyin": "Tā fǎnfù tuīqiāo wénzhāng de zìjù.",
+        "en": "Makalenin kelimelerini ve cümlelerini defalarca üzerinde düşündü."
+      },
+      {
+        "zh": "这篇文章的字句很优美。",
+        "pinyin": "Zhè piān wénzhāng de zìjù hěn yōuměi.",
+        "en": "Bu yazının kelime ve cümleleri çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w7872",
+    "hanzi": "字据",
+    "pinyin": "zìjù",
+    "meaning": "imzalı belge",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他们立了一份字据。",
+        "pinyin": "Tāmen lìle yí fèn zìjù.",
+        "en": "İmzalı bir belge düzenlediler."
+      },
+      {
+        "zh": "借钱要留字据作为凭证。",
+        "pinyin": "Jièqián yào liú zìjù zuòwéi píngzhèng.",
+        "en": "Para borç verirken kanıt olarak imzalı bir belge alınmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7873",
+    "hanzi": "字里行间",
+    "pinyin": "zìlǐ-hángjiān",
+    "meaning": "satır aralarında (örtük anlam)",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "字里行间流露出他的思乡之情。",
+        "pinyin": "Zìlǐ-hángjiān liúlùchū tā de sīxiāng zhī qíng.",
+        "en": "Satır aralarından memleket özlemi hissediliyor."
+      },
+      {
+        "zh": "从字里行间能感受到她的悲伤。",
+        "pinyin": "Cóng zìlǐ-hángjiān néng gǎnshòudào tā de bēishāng.",
+        "en": "Satır aralarından üzüntüsü hissedilebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7874",
+    "hanzi": "字面",
+    "pinyin": "zìmiàn",
+    "meaning": "lafzi, kelimenin tam anlamı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "别只看字面意思。",
+        "pinyin": "Bié zhǐ kàn zìmiàn yìsi.",
+        "en": "Sadece lafzi anlama bakma."
+      },
+      {
+        "zh": "这个成语的字面意思和实际意思不同。",
+        "pinyin": "Zhège chéngyǔ de zìmiàn yìsi hé shíjì yìsi bùtóng.",
+        "en": "Bu deyimin lafzi anlamı ile gerçek anlamı farklı."
+      },
+      {
+        "zh": "从字面上理解会产生误会。",
+        "pinyin": "Cóng zìmiàn shàng lǐjiě huì chǎnshēng wùhuì.",
+        "en": "Lafzi olarak anlamak yanlış anlaşılmaya neden olabilir."
+      },
+      {
+        "zh": "他只是字面上翻译了这句话。",
+        "pinyin": "Tā zhǐshì zìmiàn shàng fānyìle zhè jù huà.",
+        "en": "Bu cümleyi sadece birebir çevirdi."
+      },
+      {
+        "zh": "字面意思之外还有深层含义。",
+        "pinyin": "Zìmiàn yìsi zhī wài hái yǒu shēncéng hányì.",
+        "en": "Lafzi anlamın dışında derin bir anlam da var."
+      }
+    ]
+  },
+  {
+    "id": "w7875",
+    "hanzi": "字母",
+    "pinyin": "zìmǔ",
+    "meaning": "harf (alfabede)",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "英语有二十六个字母。",
+        "pinyin": "Yīngyǔ yǒu èrshíliù gè zìmǔ.",
+        "en": "İngilizcede yirmi altı harf var."
+      },
+      {
+        "zh": "他还不会拼写字母。",
+        "pinyin": "Tā hái bú huì pīnxiě zìmǔ.",
+        "en": "Henüz harfleri yazmasını bilmiyor."
+      },
+      {
+        "zh": "拼音是用拉丁字母表示的。",
+        "pinyin": "Pīnyīn shì yòng Lādīng zìmǔ biǎoshì de.",
+        "en": "Pinyin Latin harfleriyle gösterilir."
+      },
+      {
+        "zh": "他大声地念出每个字母。",
+        "pinyin": "Tā dàshēng de niànchū měi gè zìmǔ.",
+        "en": "Her harfi yüksek sesle okudu."
+      },
+      {
+        "zh": "希腊字母在数学中经常使用。",
+        "pinyin": "Xīlà zìmǔ zài shùxué zhōng jīngcháng shǐyòng.",
+        "en": "Yunan harfleri matematikte sık sık kullanılır."
+      }
+    ]
+  },
+  {
+    "id": "w7876",
+    "hanzi": "字体",
+    "pinyin": "zìtǐ",
+    "meaning": "yazı tipi, font",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请把字体改大一点。",
+        "pinyin": "Qǐng bǎ zìtǐ gǎi dà yìdiǎn.",
+        "en": "Lütfen yazı tipini biraz büyütün."
+      },
+      {
+        "zh": "这个字体看起来很清晰。",
+        "pinyin": "Zhège zìtǐ kànqǐlái hěn qīngxī.",
+        "en": "Bu yazı tipi çok net görünüyor."
+      },
+      {
+        "zh": "标题用了粗体字体。",
+        "pinyin": "Biāotí yòngle cūtǐ zìtǐ.",
+        "en": "Başlıkta kalın yazı tipi kullanıldı."
+      },
+      {
+        "zh": "他喜欢用手写体的字体。",
+        "pinyin": "Tā xǐhuan yòng shǒuxiětǐ de zìtǐ.",
+        "en": "El yazısı stilinde yazı tipini kullanmayı sever."
+      },
+      {
+        "zh": "网页设计需要选择合适的字体。",
+        "pinyin": "Wǎngyè shèjì xūyào xuǎnzé héshì de zìtǐ.",
+        "en": "Web tasarımı uygun yazı tipinin seçilmesini gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w7877",
+    "hanzi": "字眼",
+    "pinyin": "zìyǎn",
+    "meaning": "ifade, kelime seçimi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他说话很注意字眼。",
+        "pinyin": "Tā shuōhuà hěn zhùyì zìyǎn.",
+        "en": "Konuşurken kelime seçimine çok dikkat ediyor."
+      },
+      {
+        "zh": "这个字眼用得不太合适。",
+        "pinyin": "Zhège zìyǎn yòng de bú tài héshì.",
+        "en": "Bu kelime seçimi pek uygun değil."
+      }
+    ]
+  },
+  {
+    "id": "w7878",
+    "hanzi": "宗",
+    "pinyin": "zōng",
+    "meaning": "ata; hizip, grup",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是这个家族的祖宗。",
+        "pinyin": "Tā shì zhège jiāzú de zǔzōng.",
+        "en": "O bu ailenin atasıdır."
+      },
+      {
+        "zh": "这两件事都是一宗案子。",
+        "pinyin": "Zhè liǎng jiàn shì dōu shì yì zōng ànzi.",
+        "en": "Bu iki olay aynı davaya ait."
+      },
+      {
+        "zh": "他继承了祖宗留下的家业。",
+        "pinyin": "Tā jìchéngle zǔzōng liúxià de jiāyè.",
+        "en": "Atalarının bıraktığı aile mirasını devraldı."
+      },
+      {
+        "zh": "这是本宗族的传统。",
+        "pinyin": "Zhè shì běn zōngzú de chuántǒng.",
+        "en": "Bu bu ailenin geleneğidir."
+      },
+      {
+        "zh": "他修建祠堂祭拜祖宗。",
+        "pinyin": "Tā xiūjiàn cítáng jìbài zǔzōng.",
+        "en": "Atalarına ibadet etmek için tapınak inşa etti."
+      }
+    ]
+  },
+  {
+    "id": "w7879",
+    "hanzi": "宗派",
+    "pinyin": "zōngpài",
+    "meaning": "tarikat, hizip, mezhep",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他反对搞宗派活动。",
+        "pinyin": "Tā fǎnduì gǎo zōngpài huódòng.",
+        "en": "Hizip faaliyetlerine karşı çıkıyor."
+      },
+      {
+        "zh": "党内不能形成宗派。",
+        "pinyin": "Dǎng nèi bùnéng xíngchéng zōngpài.",
+        "en": "Parti içinde hizip oluşturulamaz."
+      }
+    ]
+  },
+  {
+    "id": "w7880",
+    "hanzi": "宗旨",
+    "pinyin": "zōngzhǐ",
+    "meaning": "amaç, gaye",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个组织的宗旨是帮助弱势群体。",
+        "pinyin": "Zhège zǔzhī de zōngzhǐ shì bāngzhù ruòshì qúntǐ.",
+        "en": "Bu kuruluşun amacı dezavantajlı gruplara yardım etmektir."
+      },
+      {
+        "zh": "公司始终坚持诚信经营的宗旨。",
+        "pinyin": "Gōngsī shǐzhōng jiānchí chéngxìn jīngyíng de zōngzhǐ.",
+        "en": "Şirket her zaman dürüst iş yapma ilkesini benimsemiştir."
+      },
+      {
+        "zh": "他忘记了创业时的初心和宗旨。",
+        "pinyin": "Tā wàngjìle chuàngyè shí de chūxīn hé zōngzhǐ.",
+        "en": "Girişimciliğe başlarken sahip olduğu amacı ve niyeti unuttu."
+      },
+      {
+        "zh": "教育的宗旨是培养全面发展的人才。",
+        "pinyin": "Jiàoyù de zōngzhǐ shì péiyǎng quánmiàn fāzhǎn de réncái.",
+        "en": "Eğitimin amacı bütünsel gelişmiş yetenekler yetiştirmektir."
+      },
+      {
+        "zh": "这项政策的宗旨是促进社会公平。",
+        "pinyin": "Zhè xiàng zhèngcè de zōngzhǐ shì cùjìn shèhuì gōngpíng.",
+        "en": "Bu politikanın amacı toplumsal adaleti teşvik etmektir."
+      }
+    ]
+  },
+  {
+    "id": "w7881",
+    "hanzi": "宗族",
+    "pinyin": "zōngzú",
+    "meaning": "klan, boy, aile soyu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这个村子由一个大宗族组成。",
+        "pinyin": "Zhège cūnzi yóu yí gè dà zōngzú zǔchéng.",
+        "en": "Bu köy büyük bir aile soyundan oluşuyor."
+      },
+      {
+        "zh": "宗族观念在这里依然很重。",
+        "pinyin": "Zōngzú guānniàn zài zhèlǐ yīrán hěn zhòng.",
+        "en": "Klan anlayışı burada hâlâ çok güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w7882",
+    "hanzi": "棕榈",
+    "pinyin": "zōnglǘ",
+    "meaning": "palmiye",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "海边种满了棕榈树。",
+        "pinyin": "Hǎibiān zhòngmǎnle zōnglǘshù.",
+        "en": "Sahil boyunca palmiye ağaçları dikilmiş."
+      },
+      {
+        "zh": "棕榈树能承受强风。",
+        "pinyin": "Zōnglǘshù néng chéngshòu qiángfēng.",
+        "en": "Palmiye ağaçları güçlü rüzgara dayanabilir."
+      },
+      {
+        "zh": "这个岛上到处都是棕榈树。",
+        "pinyin": "Zhège dǎo shàng dàochù dōu shì zōnglǘshù.",
+        "en": "Bu adada her yerde palmiye ağacı var."
+      },
+      {
+        "zh": "棕榈油被广泛用于食品加工。",
+        "pinyin": "Zōnglǘyóu bèi guǎngfàn yòng yú shípǐn jiāgōng.",
+        "en": "Palmiye yağı gıda işlemede yaygın olarak kullanılır."
+      },
+      {
+        "zh": "度假村里种着高大的棕榈树。",
+        "pinyin": "Dùjiàcūn lǐ zhòngzhe gāodà de zōnglǘshù.",
+        "en": "Tatil köyünde uzun boylu palmiye ağaçları var."
+      }
+    ]
   }
 ]

@@ -248554,5 +248554,773 @@
         "en": "Bu sergiye birçok marka katıldı."
       }
     ]
+  },
+  {
+    "id": "w7547",
+    "hanzi": "众口难调",
+    "pinyin": "zhòngkǒu-nántiáo",
+    "meaning": "herkesi memnun etmek zordur",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "众口难调，我们只能尽力而为。",
+        "pinyin": "Zhòngkǒu-nántiáo, wǒmen zhǐ néng jìnlì-érwéi.",
+        "en": "Herkesi memnun etmek zor, elimizden geleni yapabiliriz."
+      },
+      {
+        "zh": "食堂的菜众口难调。",
+        "pinyin": "Shítáng de cài zhòngkǒu-nántiáo.",
+        "en": "Yemekhanenin yemekleri herkesi memnun edemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7548",
+    "hanzi": "众目睽睽",
+    "pinyin": "zhòngmù-kuíkuí",
+    "meaning": "herkesin gözü önünde",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他在众目睽睽之下摔倒了。",
+        "pinyin": "Tā zài zhòngmù-kuíkuí zhīxià shuāidǎo le.",
+        "en": "Herkesin gözü önünde düştü."
+      },
+      {
+        "zh": "众目睽睽之下，他不敢撒谎。",
+        "pinyin": "Zhòngmù-kuíkuí zhīxià, tā bùgǎn sāhuǎng.",
+        "en": "Herkesin gözü önünde yalan söylemeye cesaret edemedi."
+      }
+    ]
+  },
+  {
+    "id": "w7549",
+    "hanzi": "众叛亲离",
+    "pinyin": "zhòngpàn-qīnlí",
+    "meaning": "herkes tarafından terk edilmek, yalnız kalmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他做了坏事，最终众叛亲离。",
+        "pinyin": "Tā zuòle huàishì, zuìzhōng zhòngpàn-qīnlí.",
+        "en": "Kötü işler yaptı, sonunda herkes onu terk etti."
+      },
+      {
+        "zh": "这个领导人已众叛亲离。",
+        "pinyin": "Zhège lǐngdǎorén yǐ zhòngpàn-qīnlí.",
+        "en": "Bu lider artık herkes tarafından terk edilmiş durumda."
+      }
+    ]
+  },
+  {
+    "id": "w7550",
+    "hanzi": "众矢之的",
+    "pinyin": "zhòngshǐ-zhīdì",
+    "meaning": "herkesin hedefi, eleştiri odağı",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他成了众矢之的。",
+        "pinyin": "Tā chéngle zhòngshǐ-zhīdì.",
+        "en": "Herkesin eleştiri odağı haline geldi."
+      },
+      {
+        "zh": "这项政策成为舆论的众矢之的。",
+        "pinyin": "Zhè xiàng zhèngcè chéngwéi yúlùn de zhòngshǐ-zhīdì.",
+        "en": "Bu politika kamuoyunun eleştiri odağı oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7551",
+    "hanzi": "众说纷纭",
+    "pinyin": "zhòngshuō-fēnyún",
+    "meaning": "farklı görüşler ileri sürülmek, ortak fikir olmamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "对于这件事，众说纷纭。",
+        "pinyin": "Duìyú zhè jiàn shì, zhòngshuō-fēnyún.",
+        "en": "Bu konuda farklı görüşler var."
+      },
+      {
+        "zh": "事故原因众说纷纭，至今没有定论。",
+        "pinyin": "Shìgù yuányīn zhòngshuō-fēnyún, zhìjīn méiyǒu dìnglùn.",
+        "en": "Kazanın nedeni hakkında farklı görüşler var, hâlâ kesin bir sonuç yok."
+      }
+    ]
+  },
+  {
+    "id": "w7552",
+    "hanzi": "众所周知",
+    "pinyin": "zhòngsuǒzhōuzhī",
+    "meaning": "herkesin bildiği gibi",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "众所周知，地球围绕太阳转。",
+        "pinyin": "Zhòngsuǒzhōuzhī, dìqiú wéirào tàiyáng zhuàn.",
+        "en": "Herkesin bildiği gibi, dünya güneşin etrafında döner."
+      },
+      {
+        "zh": "众所周知，健康比金钱更重要。",
+        "pinyin": "Zhòngsuǒzhōuzhī, jiànkāng bǐ jīnqián gèng zhòngyào.",
+        "en": "Herkesin bildiği gibi, sağlık paradan daha önemlidir."
+      },
+      {
+        "zh": "这个道理众所周知。",
+        "pinyin": "Zhège dàolǐ zhòngsuǒzhōuzhī.",
+        "en": "Bu gerçek herkesçe bilinir."
+      },
+      {
+        "zh": "众所周知，他工作很努力。",
+        "pinyin": "Zhòngsuǒzhōuzhī, tā gōngzuò hěn nǔlì.",
+        "en": "Herkesin bildiği gibi, çok çalışkan biridir."
+      },
+      {
+        "zh": "众所周知，这是一个古老的传统。",
+        "pinyin": "Zhòngsuǒzhōuzhī, zhè shì yí gè gǔlǎo de chuántǒng.",
+        "en": "Herkesin bildiği gibi, bu eski bir gelenektir."
+      }
+    ]
+  },
+  {
+    "id": "w7553",
+    "hanzi": "众志成城",
+    "pinyin": "zhòngzhì-chéngchéng",
+    "meaning": "birlikten kuvvet doğar",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "众志成城，我们一定能克服困难。",
+        "pinyin": "Zhòngzhì-chéngchéng, wǒmen yídìng néng kèfú kùnnán.",
+        "en": "Birlikten kuvvet doğar, zorlukları mutlaka aşabiliriz."
+      },
+      {
+        "zh": "全民众志成城，共同抗击疫情。",
+        "pinyin": "Quánmín zhòngzhì-chéngchéng, gòngtóng kàngjī yìqíng.",
+        "en": "Tüm halk birleşerek salgınla birlikte mücadele etti."
+      }
+    ]
+  },
+  {
+    "id": "w7554",
+    "hanzi": "中标",
+    "pinyin": "zhòngbiāo",
+    "meaning": "ihaleyi kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们公司中标了这个项目。",
+        "pinyin": "Tāmen gōngsī zhòngbiāole zhège xiàngmù.",
+        "en": "Şirketleri bu projenin ihalesini kazandı."
+      },
+      {
+        "zh": "中标企业将负责工程建设。",
+        "pinyin": "Zhòngbiāo qǐyè jiāng fùzé gōngchéng jiànshè.",
+        "en": "İhaleyi kazanan şirket inşaat işinden sorumlu olacak."
+      }
+    ]
+  },
+  {
+    "id": "w7555",
+    "hanzi": "中彩",
+    "pinyin": "zhòngcǎi",
+    "meaning": "piyango kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他买彩票中彩了。",
+        "pinyin": "Tā mǎi cǎipiào zhòngcǎi le.",
+        "en": "Piyango bileti aldı ve kazandı."
+      },
+      {
+        "zh": "中彩的概率很低。",
+        "pinyin": "Zhòngcǎi de gàilǜ hěn dī.",
+        "en": "Piyango kazanma olasılığı çok düşük."
+      }
+    ]
+  },
+  {
+    "id": "w7556",
+    "hanzi": "中毒",
+    "pinyin": "zhòngdú",
+    "meaning": "zehirlenmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他吃坏了东西中毒了。",
+        "pinyin": "Tā chīhuàile dōngxi zhòngdú le.",
+        "en": "Bozuk bir şey yiyip zehirlendi."
+      },
+      {
+        "zh": "煤气中毒非常危险。",
+        "pinyin": "Méiqì zhòngdú fēicháng wēixiǎn.",
+        "en": "Gaz zehirlenmesi çok tehlikelidir."
+      },
+      {
+        "zh": "食物中毒的症状包括呕吐和腹泻。",
+        "pinyin": "Shíwù zhòngdú de zhèngzhuàng bāokuò ǒutù hé fùxiè.",
+        "en": "Gıda zehirlenmesinin belirtileri arasında kusma ve ishal vardır."
+      },
+      {
+        "zh": "他因蘑菇中毒住进了医院。",
+        "pinyin": "Tā yīn mógu zhòngdú zhùjìnle yīyuàn.",
+        "en": "Mantar zehirlenmesi nedeniyle hastaneye kaldırıldı."
+      },
+      {
+        "zh": "医生正在抢救中毒病人。",
+        "pinyin": "Yīshēng zhèngzài qiǎngjiù zhòngdú bìngrén.",
+        "en": "Doktor zehirlenen hastayı kurtarmaya çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7557",
+    "hanzi": "中风",
+    "pinyin": "zhòngfēng",
+    "meaning": "felç, inme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他爷爷中风了。",
+        "pinyin": "Tā yéye zhòngfēng le.",
+        "en": "Büyükbabası felç geçirdi."
+      },
+      {
+        "zh": "中风后需要长期康复训练。",
+        "pinyin": "Zhòngfēng hòu xūyào chángqī kāngfù xùnliàn.",
+        "en": "İnme sonrası uzun süreli rehabilitasyon gerekiyor."
+      },
+      {
+        "zh": "高血压是中风的危险因素之一。",
+        "pinyin": "Gāoxuèyā shì zhòngfēng de wēixiǎn yīnsù zhīyī.",
+        "en": "Yüksek tansiyon, felcin risk faktörlerinden biridir."
+      },
+      {
+        "zh": "他中风后半身不遂。",
+        "pinyin": "Tā zhòngfēng hòu bànshēn-búsuì.",
+        "en": "İnme sonrası vücudunun bir tarafı felç oldu."
+      },
+      {
+        "zh": "预防中风要控制血压。",
+        "pinyin": "Yùfáng zhòngfēng yào kòngzhì xuèyā.",
+        "en": "İnmeyi önlemek için tansiyon kontrol edilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7558",
+    "hanzi": "中计",
+    "pinyin": "zhòngjì",
+    "meaning": "tuzağa düşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不小心中计了。",
+        "pinyin": "Tā bù xiǎoxīn zhòngjì le.",
+        "en": "Dikkatsizlik yüzünden tuzağa düştü."
+      },
+      {
+        "zh": "对方设了一个陷阱，我们差点中计。",
+        "pinyin": "Duìfāng shèle yí gè xiànjǐng, wǒmen chàdiǎn zhòngjì.",
+        "en": "Karşı taraf bir tuzak kurdu, az kalsın tuzağa düşecektik."
+      }
+    ]
+  },
+  {
+    "id": "w7559",
+    "hanzi": "中奖",
+    "pinyin": "zhòngjiǎng",
+    "meaning": "ikramiye/ödül kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他抽奖中奖了。",
+        "pinyin": "Tā chōujiǎng zhòngjiǎng le.",
+        "en": "Çekilişte ikramiye kazandı."
+      },
+      {
+        "zh": "中奖号码已经公布。",
+        "pinyin": "Zhòngjiǎng hàomǎ yǐjīng gōngbù.",
+        "en": "Kazanan numaralar açıklandı."
+      },
+      {
+        "zh": "他梦想有一天能中奖。",
+        "pinyin": "Tā mèngxiǎng yǒu yìtiān néng zhòngjiǎng.",
+        "en": "Bir gün ikramiye kazanmayı hayal ediyor."
+      },
+      {
+        "zh": "这次抽奖活动中奖率很高。",
+        "pinyin": "Zhè cì chōujiǎng huódòng zhòngjiǎnglǜ hěn gāo.",
+        "en": "Bu çekiliş etkinliğinde kazanma oranı çok yüksek."
+      },
+      {
+        "zh": "中奖后他捐了一部分钱。",
+        "pinyin": "Zhòngjiǎng hòu tā juānle yí bùfen qián.",
+        "en": "İkramiye kazandıktan sonra paranın bir kısmını bağışladı."
+      }
+    ]
+  },
+  {
+    "id": "w7560",
+    "hanzi": "中肯",
+    "pinyin": "zhòngkěn",
+    "meaning": "yerinde, isabetli (söz)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的评论很中肯。",
+        "pinyin": "Tā de pínglùn hěn zhòngkěn.",
+        "en": "Yorumu çok yerinde."
+      },
+      {
+        "zh": "老师给了中肯的建议。",
+        "pinyin": "Lǎoshī gěile zhòngkěn de jiànyì.",
+        "en": "Öğretmen isabetli bir öneride bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w7561",
+    "hanzi": "中伤",
+    "pinyin": "zhòngshāng",
+    "meaning": "iftira atmak, karalamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他被人恶意中伤。",
+        "pinyin": "Tā bèi rén èyì zhòngshāng.",
+        "en": "Kötü niyetle iftiraya uğradı."
+      },
+      {
+        "zh": "别听信这些中伤别人的话。",
+        "pinyin": "Bié tīngxìn zhèxiē zhòngshāng biérén de huà.",
+        "en": "Başkalarını karalayan bu sözlere inanma."
+      }
+    ]
+  },
+  {
+    "id": "w7562",
+    "hanzi": "中暑",
+    "pinyin": "zhòngshǔ",
+    "meaning": "güneş çarpması, sıcak çarpması",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他在烈日下中暑了。",
+        "pinyin": "Tā zài lièrì xià zhòngshǔ le.",
+        "en": "Kavurucu güneş altında sıcak çarpması geçirdi."
+      },
+      {
+        "zh": "夏天要防止中暑。",
+        "pinyin": "Xiàtiān yào fángzhǐ zhòngshǔ.",
+        "en": "Yazın sıcak çarpmasını önlemek gerekir."
+      },
+      {
+        "zh": "中暑的症状包括头晕和恶心。",
+        "pinyin": "Zhòngshǔ de zhèngzhuàng bāokuò tóuyūn hé ěxin.",
+        "en": "Sıcak çarpmasının belirtileri baş dönmesi ve mide bulantısını içerir."
+      },
+      {
+        "zh": "他中暑后被送往医院。",
+        "pinyin": "Tā zhòngshǔ hòu bèi sòngwǎng yīyuàn.",
+        "en": "Sıcak çarpması geçirdikten sonra hastaneye kaldırıldı."
+      },
+      {
+        "zh": "多喝水可以预防中暑。",
+        "pinyin": "Duō hē shuǐ kěyǐ yùfáng zhòngshǔ.",
+        "en": "Bol su içmek sıcak çarpmasını önleyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w7563",
+    "hanzi": "中意",
+    "pinyin": "zhòngyì",
+    "meaning": "hoşuna gitmek, beğenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这件衣服我很中意。",
+        "pinyin": "Zhè jiàn yīfu wǒ hěn zhòngyì.",
+        "en": "Bu kıyafeti çok beğendim."
+      },
+      {
+        "zh": "他对这份工作很中意。",
+        "pinyin": "Tā duì zhè fèn gōngzuò hěn zhòngyì.",
+        "en": "Bu işi çok beğendi."
+      },
+      {
+        "zh": "她终于找到了中意的房子。",
+        "pinyin": "Tā zhōngyú zhǎodàole zhòngyì de fángzi.",
+        "en": "Sonunda beğendiği evi buldu."
+      },
+      {
+        "zh": "这个礼物很合她的中意。",
+        "pinyin": "Zhège lǐwù hěn hé tā de zhòngyì.",
+        "en": "Bu hediye onun beğenisine uygun."
+      },
+      {
+        "zh": "他对这个方案不太中意。",
+        "pinyin": "Tā duì zhège fāng'àn bú tài zhòngyì.",
+        "en": "Bu planı pek beğenmedi."
+      }
+    ]
+  },
+  {
+    "id": "w7564",
+    "hanzi": "种地",
+    "pinyin": "zhòngdì",
+    "meaning": "tarla ekmek, çiftçilik yapmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他的爷爷一辈子种地。",
+        "pinyin": "Tā de yéye yíbèizi zhòngdì.",
+        "en": "Büyükbabası hayatı boyunca tarım yaptı."
+      },
+      {
+        "zh": "村民们靠种地为生。",
+        "pinyin": "Cūnmínmen kào zhòngdì wéishēng.",
+        "en": "Köylüler geçimlerini tarım ile sağlıyor."
+      },
+      {
+        "zh": "现代化设备让种地更轻松。",
+        "pinyin": "Xiàndàihuà shèbèi ràng zhòngdì gèng qīngsōng.",
+        "en": "Modern ekipmanlar tarımı kolaylaştırıyor."
+      },
+      {
+        "zh": "他辞职回老家种地了。",
+        "pinyin": "Tā cízhí huí lǎojiā zhòngdì le.",
+        "en": "İşinden istifa edip memleketine dönüp çiftçilik yapmaya başladı."
+      },
+      {
+        "zh": "种地需要看天气。",
+        "pinyin": "Zhòngdì xūyào kàn tiānqì.",
+        "en": "Tarım yaparken havaya dikkat etmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w7565",
+    "hanzi": "种田",
+    "pinyin": "zhòngtián",
+    "meaning": "tarla sürmek, tarım yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他一直在家乡种田。",
+        "pinyin": "Tā yìzhí zài jiāxiāng zhòngtián.",
+        "en": "Memleketinde tarım yapmaya devam ediyor."
+      },
+      {
+        "zh": "父亲教他怎么种田。",
+        "pinyin": "Fùqin jiāo tā zěnme zhòngtián.",
+        "en": "Babası ona nasıl tarım yapılacağını öğretti."
+      },
+      {
+        "zh": "种田是很辛苦的工作。",
+        "pinyin": "Zhòngtián shì hěn xīnkǔ de gōngzuò.",
+        "en": "Tarım yapmak çok zahmetli bir iştir."
+      },
+      {
+        "zh": "他家世代种田。",
+        "pinyin": "Tā jiā shìdài zhòngtián.",
+        "en": "Ailesi kuşaklar boyunca tarımla uğraşmış."
+      },
+      {
+        "zh": "他放弃了城市生活，回去种田。",
+        "pinyin": "Tā fàngqìle chéngshì shēnghuó, huíqù zhòngtián.",
+        "en": "Şehir hayatından vazgeçip tarım yapmaya döndü."
+      }
+    ]
+  },
+  {
+    "id": "w7566",
+    "hanzi": "重大",
+    "pinyin": "zhòngdà",
+    "meaning": "büyük, önemli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一个重大的决定。",
+        "pinyin": "Zhè shì yí gè zhòngdà de juédìng.",
+        "en": "Bu önemli bir karardır."
+      },
+      {
+        "zh": "他取得了重大成就。",
+        "pinyin": "Tā qǔdéle zhòngdà chéngjiù.",
+        "en": "Büyük bir başarı elde etti."
+      },
+      {
+        "zh": "这次事故造成了重大损失。",
+        "pinyin": "Zhè cì shìgù zàochéngle zhòngdà sǔnshī.",
+        "en": "Bu kaza büyük bir kayba neden oldu."
+      },
+      {
+        "zh": "这是国家的重大战略。",
+        "pinyin": "Zhè shì guójiā de zhòngdà zhànlüè.",
+        "en": "Bu ülkenin önemli bir stratejisidir."
+      },
+      {
+        "zh": "会议将讨论几个重大问题。",
+        "pinyin": "Huìyì jiāng tǎolùn jǐ gè zhòngdà wèntí.",
+        "en": "Toplantıda birkaç önemli konu tartışılacak."
+      }
+    ]
+  },
+  {
+    "id": "w7567",
+    "hanzi": "重担",
+    "pinyin": "zhòngdàn",
+    "meaning": "ağır yük, ağır sorumluluk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他肩负着家庭的重担。",
+        "pinyin": "Tā jiānfùzhe jiātíng de zhòngdàn.",
+        "en": "Ailesinin ağır yükünü omuzluyor."
+      },
+      {
+        "zh": "这个重担压得他喘不过气。",
+        "pinyin": "Zhège zhòngdàn yā de tā chuǎnbuguòqì.",
+        "en": "Bu ağır yük onu nefes alamaz hale getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7568",
+    "hanzi": "重读",
+    "pinyin": "zhòngdú",
+    "meaning": "vurgulamak (dilde)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这个音节需要重读。",
+        "pinyin": "Zhège yīnjié xūyào zhòngdú.",
+        "en": "Bu hece vurgulanmalıdır."
+      },
+      {
+        "zh": "重读音节要发得更响亮。",
+        "pinyin": "Zhòngdú yīnjié yào fā de gèng xiǎngliàng.",
+        "en": "Vurgulu hece daha yüksek sesle telaffuz edilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7569",
+    "hanzi": "重负",
+    "pinyin": "zhòngfù",
+    "meaning": "ağır sorumluluk, ağır yük",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他终于卸下了心中的重负。",
+        "pinyin": "Tā zhōngyú xièxiàle xīnzhōng de zhòngfù.",
+        "en": "Sonunda içindeki ağır yükten kurtuldu."
+      },
+      {
+        "zh": "过重的课业重负影响了孩子的健康。",
+        "pinyin": "Guò zhòng de kèyè zhòngfù yǐngxiǎngle háizi de jiànkāng.",
+        "en": "Aşırı ders yükü çocuğun sağlığını etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w7570",
+    "hanzi": "重工业",
+    "pinyin": "zhònggōngyè",
+    "meaning": "ağır sanayi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "这个城市以重工业闻名。",
+        "pinyin": "Zhège chéngshì yǐ zhònggōngyè wénmíng.",
+        "en": "Bu şehir ağır sanayisiyle ünlüdür."
+      },
+      {
+        "zh": "钢铁属于重工业。",
+        "pinyin": "Gāngtiě shǔyú zhònggōngyè.",
+        "en": "Çelik ağır sanayiye dahildir."
+      }
+    ]
+  },
+  {
+    "id": "w7571",
+    "hanzi": "重音",
+    "pinyin": "zhòngyīn",
+    "meaning": "vurgu (dilde)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这个词的重音在第二个音节。",
+        "pinyin": "Zhège cí de zhòngyīn zài dì-èr gè yīnjié.",
+        "en": "Bu kelimenin vurgusu ikinci hecededir."
+      },
+      {
+        "zh": "请注意句子的重音。",
+        "pinyin": "Qǐng zhùyì jùzi de zhòngyīn.",
+        "en": "Lütfen cümlenin vurgusuna dikkat edin."
+      },
+      {
+        "zh": "重音放错了位置。",
+        "pinyin": "Zhòngyīn fàngcuòle wèizhi.",
+        "en": "Vurgu yanlış yere konmuş."
+      },
+      {
+        "zh": "英语的重音很重要。",
+        "pinyin": "Yīngyǔ de zhòngyīn hěn zhòngyào.",
+        "en": "İngilizcede vurgu çok önemlidir."
+      },
+      {
+        "zh": "老师纠正了他的重音错误。",
+        "pinyin": "Lǎoshī jiūzhèngle tā de zhòngyīn cuòwù.",
+        "en": "Öğretmen onun vurgu hatasını düzeltti."
+      }
+    ]
+  },
+  {
+    "id": "w7572",
+    "hanzi": "州",
+    "pinyin": "zhōu",
+    "meaning": "eyalet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "美国有五十个州。",
+        "pinyin": "Měiguó yǒu wǔshí gè zhōu.",
+        "en": "Amerika'da elli eyalet vardır."
+      },
+      {
+        "zh": "他住在加利福尼亚州。",
+        "pinyin": "Tā zhù zài Jiālìfúníyà Zhōu.",
+        "en": "Kaliforniya eyaletinde yaşıyor."
+      },
+      {
+        "zh": "每个州都有自己的法律。",
+        "pinyin": "Měi gè zhōu dōu yǒu zìjǐ de fǎlǜ.",
+        "en": "Her eyaletin kendi kanunları vardır."
+      },
+      {
+        "zh": "他从一个州搬到了另一个州。",
+        "pinyin": "Tā cóng yí gè zhōu bāndàole lìng yí gè zhōu.",
+        "en": "Bir eyaletten diğerine taşındı."
+      },
+      {
+        "zh": "这个州的经济发展很快。",
+        "pinyin": "Zhège zhōu de jīngjì fāzhǎn hěn kuài.",
+        "en": "Bu eyaletin ekonomisi hızla gelişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7573",
+    "hanzi": "洲",
+    "pinyin": "zhōu",
+    "meaning": "kıta",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Coğrafya",
+    "examples": [
+      {
+        "zh": "世界有七大洲。",
+        "pinyin": "Shìjiè yǒu qī dà zhōu.",
+        "en": "Dünyada yedi kıta vardır."
+      },
+      {
+        "zh": "亚洲是最大的洲。",
+        "pinyin": "Yàzhōu shì zuìdà de zhōu.",
+        "en": "Asya en büyük kıtadır."
+      },
+      {
+        "zh": "他去过五大洲旅行。",
+        "pinyin": "Tā qùguò wǔ dà zhōu lǚxíng.",
+        "en": "Beş kıtayı gezmiş."
+      },
+      {
+        "zh": "非洲有很多野生动物。",
+        "pinyin": "Fēizhōu yǒu hěn duō yěshēng dòngwù.",
+        "en": "Afrika'da birçok yabani hayvan var."
+      },
+      {
+        "zh": "欧洲有很多历史古迹。",
+        "pinyin": "Ōuzhōu yǒu hěn duō lìshǐ gǔjì.",
+        "en": "Avrupa'da birçok tarihi eser vardır."
+      }
+    ]
+  },
+  {
+    "id": "w7574",
+    "hanzi": "舟",
+    "pinyin": "zhōu",
+    "meaning": "sandal, kayık",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "一叶扁舟漂在湖面上。",
+        "pinyin": "Yí yè piānzhōu piāo zài húmiàn shàng.",
+        "en": "Küçük bir kayık gölün yüzeyinde süzülüyordu."
+      },
+      {
+        "zh": "同舟共济，才能渡过难关。",
+        "pinyin": "Tóngzhōu-gòngjì, cái néng dùguò nánguān.",
+        "en": "Aynı kayıkta olup birlikte çabalayarak zorlukları aşabiliriz."
+      }
+    ]
   }
 ]

@@ -251761,5 +251761,773 @@
         "en": "Lütfen metindeki dipnotları dikkatlice okuyun."
       }
     ]
+  },
+  {
+    "id": "w7659",
+    "hanzi": "注销",
+    "pinyin": "zhùxiāo",
+    "meaning": "iptal etmek (kayıt, ruhsat vb.)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他注销了公司的营业执照。",
+        "pinyin": "Tā zhùxiāole gōngsī de yíngyè zhízhào.",
+        "en": "Şirketin ticaret ruhsatını iptal etti."
+      },
+      {
+        "zh": "这张信用卡已经注销了。",
+        "pinyin": "Zhè zhāng xìnyòngkǎ yǐjīng zhùxiāo le.",
+        "en": "Bu kredi kartı iptal edildi."
+      }
+    ]
+  },
+  {
+    "id": "w7660",
+    "hanzi": "柱石",
+    "pinyin": "zhùshí",
+    "meaning": "sütun, temel dayanak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是公司的柱石。",
+        "pinyin": "Tā shì gōngsī de zhùshí.",
+        "en": "Şirketin temel direğidir."
+      },
+      {
+        "zh": "教育是国家发展的柱石。",
+        "pinyin": "Jiàoyù shì guójiā fāzhǎn de zhùshí.",
+        "en": "Eğitim, ülke kalkınmasının temel dayanağıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7661",
+    "hanzi": "著",
+    "pinyin": "zhù",
+    "meaning": "yazmak (kitap)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他著有多部小说。",
+        "pinyin": "Tā zhùyǒu duō bù xiǎoshuō.",
+        "en": "Birçok roman yazmıştır."
+      },
+      {
+        "zh": "这本书是他晚年所著。",
+        "pinyin": "Zhè běn shū shì tā wǎnnián suǒ zhù.",
+        "en": "Bu kitap onun yaşlılığında yazdığı bir eser."
+      },
+      {
+        "zh": "这位学者著述丰富。",
+        "pinyin": "Zhè wèi xuézhě zhùshù fēngfù.",
+        "en": "Bu bilgin zengin eserler kaleme almıştır."
+      },
+      {
+        "zh": "他花了十年时间著书。",
+        "pinyin": "Tā huāle shí nián shíjiān zhùshū.",
+        "en": "Kitap yazmak için on yıl harcadı."
+      },
+      {
+        "zh": "这部著作影响深远。",
+        "pinyin": "Zhè bù zhùzuò yǐngxiǎng shēnyuǎn.",
+        "en": "Bu eser derin bir etki bırakmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w7662",
+    "hanzi": "著称",
+    "pinyin": "zhùchēng",
+    "meaning": "ile ünlü olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这座城市以美食著称。",
+        "pinyin": "Zhè zuò chéngshì yǐ měishí zhùchēng.",
+        "en": "Bu şehir lezzetli yemekleriyle ünlüdür."
+      },
+      {
+        "zh": "他以严谨著称。",
+        "pinyin": "Tā yǐ yánjǐn zhùchēng.",
+        "en": "Titizliğiyle tanınır."
+      }
+    ]
+  },
+  {
+    "id": "w7663",
+    "hanzi": "著作",
+    "pinyin": "zhùzuò",
+    "meaning": "eser, yapıt",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这是他的代表著作。",
+        "pinyin": "Zhè shì tā de dàibiǎo zhùzuò.",
+        "en": "Bu onun en önemli eseridir."
+      },
+      {
+        "zh": "图书馆收藏了大量学术著作。",
+        "pinyin": "Túshūguǎn shōucángle dàliàng xuéshù zhùzuò.",
+        "en": "Kütüphane büyük miktarda akademik eser barındırıyor."
+      },
+      {
+        "zh": "他一生留下了许多著作。",
+        "pinyin": "Tā yìshēng liúxiàle xǔduō zhùzuò.",
+        "en": "Hayatı boyunca birçok eser bıraktı."
+      },
+      {
+        "zh": "这部著作被翻译成多种语言。",
+        "pinyin": "Zhè bù zhùzuò bèi fānyì chéng duō zhǒng yǔyán.",
+        "en": "Bu eser birçok dile çevrildi."
+      },
+      {
+        "zh": "他的著作对后世影响很大。",
+        "pinyin": "Tā de zhùzuò duì hòushì yǐngxiǎng hěn dà.",
+        "en": "Eserleri sonraki nesiller üzerinde büyük etki yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7664",
+    "hanzi": "助",
+    "pinyin": "zhù",
+    "meaning": "yardım etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他助我完成了任务。",
+        "pinyin": "Tā zhù wǒ wánchéngle rènwu.",
+        "en": "Görevi tamamlamama yardım etti."
+      },
+      {
+        "zh": "这笔资金助他渡过难关。",
+        "pinyin": "Zhè bǐ zījīn zhù tā dùguò nánguān.",
+        "en": "Bu fon onun zor durumu atlatmasına yardımcı oldu."
+      },
+      {
+        "zh": "他乐于助人。",
+        "pinyin": "Tā lèyú zhùrén.",
+        "en": "İnsanlara yardım etmekten hoşlanıyor."
+      },
+      {
+        "zh": "希望这个方法能助你成功。",
+        "pinyin": "Xīwàng zhège fāngfǎ néng zhù nǐ chénggōng.",
+        "en": "Umarım bu yöntem başarılı olmana yardımcı olur."
+      },
+      {
+        "zh": "有他相助，事情顺利多了。",
+        "pinyin": "Yǒu tā xiāngzhù, shìqing shùnlì duō le.",
+        "en": "Onun yardımıyla işler çok daha kolay ilerledi."
+      }
+    ]
+  },
+  {
+    "id": "w7665",
+    "hanzi": "助词",
+    "pinyin": "zhùcí",
+    "meaning": "yardımcı kelime (dilbilgisi)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "“了”是一个常见的助词。",
+        "pinyin": "\"Le\" shì yí gè chángjiàn de zhùcí.",
+        "en": "\"Le\" yaygın bir yardımcı kelimedir."
+      },
+      {
+        "zh": "汉语中有很多助词。",
+        "pinyin": "Hànyǔ zhōng yǒu hěn duō zhùcí.",
+        "en": "Çincede birçok yardımcı kelime vardır."
+      }
+    ]
+  },
+  {
+    "id": "w7666",
+    "hanzi": "助教",
+    "pinyin": "zhùjiào",
+    "meaning": "asistan (akademik pozisyon)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他是这门课的助教。",
+        "pinyin": "Tā shì zhè mén kè de zhùjiào.",
+        "en": "Bu dersin asistanı o."
+      },
+      {
+        "zh": "助教负责批改作业。",
+        "pinyin": "Zhùjiào fùzé pīgǎi zuòyè.",
+        "en": "Asistan ödevleri değerlendirmekten sorumlu."
+      }
+    ]
+  },
+  {
+    "id": "w7667",
+    "hanzi": "助理",
+    "pinyin": "zhùlǐ",
+    "meaning": "asistan, yardımcı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "她是经理的助理。",
+        "pinyin": "Tā shì jīnglǐ de zhùlǐ.",
+        "en": "O, müdürün asistanı."
+      },
+      {
+        "zh": "他招聘了一名私人助理。",
+        "pinyin": "Tā zhāopìnle yì míng sīrén zhùlǐ.",
+        "en": "Bir kişisel asistan işe aldı."
+      },
+      {
+        "zh": "助理负责安排他的日程。",
+        "pinyin": "Zhùlǐ fùzé ānpái tā de rìchéng.",
+        "en": "Asistan onun programını düzenlemekten sorumlu."
+      },
+      {
+        "zh": "她从助理升职为经理。",
+        "pinyin": "Tā cóng zhùlǐ shēngzhí wéi jīnglǐ.",
+        "en": "Asistanlıktan müdürlüğe terfi etti."
+      },
+      {
+        "zh": "助理正在整理会议记录。",
+        "pinyin": "Zhùlǐ zhèngzài zhěnglǐ huìyì jìlù.",
+        "en": "Asistan toplantı notlarını düzenliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7668",
+    "hanzi": "助手",
+    "pinyin": "zhùshǒu",
+    "meaning": "yardımcı, asistan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是我最得力的助手。",
+        "pinyin": "Tā shì wǒ zuì délì de zhùshǒu.",
+        "en": "O benim en yetenekli yardımcım."
+      },
+      {
+        "zh": "她担任教授的科研助手。",
+        "pinyin": "Tā dānrèn jiàoshòu de kēyán zhùshǒu.",
+        "en": "Profesörün araştırma asistanlığını yapıyor."
+      },
+      {
+        "zh": "医生需要一位手术助手。",
+        "pinyin": "Yīshēng xūyào yí wèi shǒushù zhùshǒu.",
+        "en": "Doktorun ameliyat asistanına ihtiyacı var."
+      },
+      {
+        "zh": "他是老板的得力助手。",
+        "pinyin": "Tā shì lǎobǎn de délì zhùshǒu.",
+        "en": "Patronun güvendiği yardımcısı o."
+      },
+      {
+        "zh": "智能助手可以帮你安排日程。",
+        "pinyin": "Zhìnéng zhùshǒu kěyǐ bāng nǐ ānpái rìchéng.",
+        "en": "Akıllı asistan programını düzenlemene yardımcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7669",
+    "hanzi": "助听器",
+    "pinyin": "zhùtīngqì",
+    "meaning": "işitme cihazı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "奶奶戴上了助听器。",
+        "pinyin": "Nǎinai dàishàngle zhùtīngqì.",
+        "en": "Büyükannem işitme cihazı taktı."
+      },
+      {
+        "zh": "助听器能改善听力。",
+        "pinyin": "Zhùtīngqì néng gǎishàn tīnglì.",
+        "en": "İşitme cihazı işitmeyi iyileştirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w7670",
+    "hanzi": "助威",
+    "pinyin": "zhùwēi",
+    "meaning": "tezahürat yapmak, destek olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "球迷们大声为球队助威。",
+        "pinyin": "Qiúmímen dàshēng wèi qiúduì zhùwēi.",
+        "en": "Taraftarlar yüksek sesle takım için tezahürat yaptı."
+      },
+      {
+        "zh": "我们去现场为他助威。",
+        "pinyin": "Wǒmen qù xiànchǎng wèi tā zhùwēi.",
+        "en": "Onun için sahaya destek vermeye gittik."
+      }
+    ]
+  },
+  {
+    "id": "w7671",
+    "hanzi": "助兴",
+    "pinyin": "zhùxìng",
+    "meaning": "neşe katmak, keyfi artırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他唱歌为聚会助兴。",
+        "pinyin": "Tā chànggē wèi jùhuì zhùxìng.",
+        "en": "Partiye neşe katmak için şarkı söyledi."
+      },
+      {
+        "zh": "大家表演节目助兴。",
+        "pinyin": "Dàjiā biǎoyǎn jiémù zhùxìng.",
+        "en": "Herkes eğlenceye katkı için gösteri yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7672",
+    "hanzi": "助学金",
+    "pinyin": "zhùxuéjīn",
+    "meaning": "öğrenim bursu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他申请了助学金。",
+        "pinyin": "Tā shēnqǐngle zhùxuéjīn.",
+        "en": "Öğrenim bursuna başvurdu."
+      },
+      {
+        "zh": "贫困学生可以获得助学金。",
+        "pinyin": "Pínkùn xuésheng kěyǐ huòdé zhùxuéjīn.",
+        "en": "Maddi durumu zayıf öğrenciler burs alabilir."
+      },
+      {
+        "zh": "助学金帮助他完成了学业。",
+        "pinyin": "Zhùxuéjīn bāngzhù tā wánchéngle xuéyè.",
+        "en": "Öğrenim bursu eğitimini tamamlamasına yardımcı oldu."
+      },
+      {
+        "zh": "学校设立了多项助学金。",
+        "pinyin": "Xuéxiào shèlìle duō xiàng zhùxuéjīn.",
+        "en": "Okul birçok burs programı oluşturdu."
+      },
+      {
+        "zh": "他每月都会收到助学金。",
+        "pinyin": "Tā měi yuè dōu huì shōudào zhùxuéjīn.",
+        "en": "Her ay burs alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7673",
+    "hanzi": "助长",
+    "pinyin": "zhùzhǎng",
+    "meaning": "cesaretlendirmek, körüklemek (genellikle olumsuz)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "溺爱会助长孩子的坏习惯。",
+        "pinyin": "Nì'ài huì zhùzhǎng háizi de huài xíguàn.",
+        "en": "Aşırı şımartma çocuğun kötü alışkanlıklarını körükler."
+      },
+      {
+        "zh": "这种做法助长了不良风气。",
+        "pinyin": "Zhè zhǒng zuòfǎ zhùzhǎngle bùliáng fēngqì.",
+        "en": "Bu davranış kötü bir eğilimi körükledi."
+      }
+    ]
+  },
+  {
+    "id": "w7674",
+    "hanzi": "筑",
+    "pinyin": "zhù",
+    "meaning": "inşa etmek, kurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们在河边筑了一座桥。",
+        "pinyin": "Tāmen zài hébiān zhùle yí zuò qiáo.",
+        "en": "Nehir kenarında bir köprü inşa ettiler."
+      },
+      {
+        "zh": "工人们正在筑路。",
+        "pinyin": "Gōngrénmen zhèngzài zhùlù.",
+        "en": "İşçiler yol inşa ediyor."
+      },
+      {
+        "zh": "村民自己筑了一道堤坝。",
+        "pinyin": "Cūnmín zìjǐ zhùle yí dào dībà.",
+        "en": "Köylüler kendileri bir set inşa etti."
+      },
+      {
+        "zh": "他们筑起了一道防洪墙。",
+        "pinyin": "Tāmen zhùqǐle yí dào fánghóng qiáng.",
+        "en": "Taşkın önleme duvarı inşa ettiler."
+      },
+      {
+        "zh": "这座城堡是几百年前筑成的。",
+        "pinyin": "Zhè zuò chéngbǎo shì jǐ bǎi nián qián zhùchéng de.",
+        "en": "Bu kale yüzyıllar önce inşa edilmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w7675",
+    "hanzi": "铸造",
+    "pinyin": "zhùzào",
+    "meaning": "döküm yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这尊铜像是铸造出来的。",
+        "pinyin": "Zhè zūn tóngxiàng shì zhùzào chūlái de.",
+        "en": "Bu bronz heykel döküm yöntemiyle yapılmıştır."
+      },
+      {
+        "zh": "工厂专门铸造机械零件。",
+        "pinyin": "Gōngchǎng zhuānmén zhùzào jīxiè língjiàn.",
+        "en": "Fabrika özellikle makine parçaları dökümü yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7676",
+    "hanzi": "抓",
+    "pinyin": "zhuā",
+    "meaning": "tutmak, yakalamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他一把抓住了绳子。",
+        "pinyin": "Tā yìbǎ zhuāzhùle shéngzi.",
+        "en": "İpi bir hamlede tuttu."
+      },
+      {
+        "zh": "警察抓住了小偷。",
+        "pinyin": "Jǐngchá zhuāzhùle xiǎotōu.",
+        "en": "Polis hırsızı yakaladı."
+      },
+      {
+        "zh": "猫抓住了老鼠。",
+        "pinyin": "Māo zhuāzhùle lǎoshǔ.",
+        "en": "Kedi fareyi yakaladı."
+      },
+      {
+        "zh": "他抓着扶手上了车。",
+        "pinyin": "Tā zhuāzhe fúshǒu shàngle chē.",
+        "en": "Tutamağa tutunarak araca bindi."
+      },
+      {
+        "zh": "老师抓紧时间讲完了课程。",
+        "pinyin": "Lǎoshī zhuājǐn shíjiān jiǎngwánle kèchéng.",
+        "en": "Öğretmen zamanı en iyi şekilde kullanarak dersi tamamladı."
+      }
+    ]
+  },
+  {
+    "id": "w7677",
+    "hanzi": "抓权",
+    "pinyin": "zhuāquán",
+    "meaning": "gücü ele geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他一心想抓权。",
+        "pinyin": "Tā yìxīn xiǎng zhuāquán.",
+        "en": "Bütün derdi gücü ele geçirmek."
+      },
+      {
+        "zh": "抓权不如为民做事。",
+        "pinyin": "Zhuāquán bùrú wèi mín zuòshì.",
+        "en": "Güç peşinde koşmaktansa halk için çalışmak daha iyidir."
+      }
+    ]
+  },
+  {
+    "id": "w7678",
+    "hanzi": "抓药",
+    "pinyin": "zhuāyào",
+    "meaning": "reçeteli Çin bitkisel ilacı almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他去药店抓药。",
+        "pinyin": "Tā qù yàodiàn zhuāyào.",
+        "en": "İlaç almak için eczaneye gitti."
+      },
+      {
+        "zh": "大夫开了方子让他去抓药。",
+        "pinyin": "Dàifu kāile fāngzi ràng tā qù zhuāyào.",
+        "en": "Doktor reçete yazıp ilacı almasını söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w7679",
+    "hanzi": "拽",
+    "pinyin": "zhuài",
+    "meaning": "çekmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用力拽了一下绳子。",
+        "pinyin": "Tā yònglì zhuàile yíxià shéngzi.",
+        "en": "İpi güçlü bir şekilde çekti."
+      },
+      {
+        "zh": "孩子拽着妈妈的衣角。",
+        "pinyin": "Háizi zhuàizhe māma de yījiǎo.",
+        "en": "Çocuk annesinin eteğini çekiyor."
+      },
+      {
+        "zh": "他被人拽到了一边。",
+        "pinyin": "Tā bèi rén zhuàidàole yìbiān.",
+        "en": "Biri onu bir kenara çekti."
+      },
+      {
+        "zh": "别拽我的袖子。",
+        "pinyin": "Bié zhuài wǒ de xiùzi.",
+        "en": "Kolumu çekme."
+      },
+      {
+        "zh": "他一把拽住了她的手臂。",
+        "pinyin": "Tā yìbǎ zhuàizhùle tā de shǒubì.",
+        "en": "Bir hamlede kolunu tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w7680",
+    "hanzi": "专",
+    "pinyin": "zhuān",
+    "meaning": "özel, uzman; tek bir şeye adanmış",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他专心学习。",
+        "pinyin": "Tā zhuānxīn xuéxí.",
+        "en": "Tüm dikkatiyle çalışıyor."
+      },
+      {
+        "zh": "这是专为你准备的礼物。",
+        "pinyin": "Zhè shì zhuān wèi nǐ zhǔnbèi de lǐwù.",
+        "en": "Bu özellikle senin için hazırlanmış bir hediye."
+      },
+      {
+        "zh": "他专攻医学领域。",
+        "pinyin": "Tā zhuāngōng yīxué lǐngyù.",
+        "en": "Tıp alanında uzmanlaşmış."
+      },
+      {
+        "zh": "这是他的专业方向。",
+        "pinyin": "Zhè shì tā de zhuānyè fāngxiàng.",
+        "en": "Bu onun uzmanlık alanı."
+      },
+      {
+        "zh": "他专程赶来看你。",
+        "pinyin": "Tā zhuānchéng gǎnlái kàn nǐ.",
+        "en": "Seni görmek için özellikle geldi."
+      }
+    ]
+  },
+  {
+    "id": "w7681",
+    "hanzi": "专长",
+    "pinyin": "zhuāncháng",
+    "meaning": "özel beceri, uzmanlık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他的专长是编程。",
+        "pinyin": "Tā de zhuāncháng shì biānchéng.",
+        "en": "Onun uzmanlığı programlama."
+      },
+      {
+        "zh": "每个人都有自己的专长。",
+        "pinyin": "Měi gè rén dōu yǒu zìjǐ de zhuāncháng.",
+        "en": "Herkesin kendi uzmanlık alanı vardır."
+      },
+      {
+        "zh": "他发挥自己的专长解决了问题。",
+        "pinyin": "Tā fāhuī zìjǐ de zhuāncháng jiějuéle wèntí.",
+        "en": "Kendi uzmanlığını kullanarak sorunu çözdü."
+      },
+      {
+        "zh": "她的专长是外语翻译。",
+        "pinyin": "Tā de zhuāncháng shì wàiyǔ fānyì.",
+        "en": "Onun uzmanlığı yabancı dil çevirisi."
+      },
+      {
+        "zh": "公司需要有专长的人才。",
+        "pinyin": "Gōngsī xūyào yǒu zhuāncháng de réncái.",
+        "en": "Şirketin uzmanlığı olan yeteneklere ihtiyacı var."
+      }
+    ]
+  },
+  {
+    "id": "w7682",
+    "hanzi": "专程",
+    "pinyin": "zhuānchéng",
+    "meaning": "özel olarak, sırf bunun için",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "我专程来看望您。",
+        "pinyin": "Wǒ zhuānchéng lái kànwàng nín.",
+        "en": "Sizi ziyaret etmek için özellikle geldim."
+      },
+      {
+        "zh": "他专程从国外赶回来参加婚礼。",
+        "pinyin": "Tā zhuānchéng cóng guówài gǎn huílái cānjiā hūnlǐ.",
+        "en": "Düğüne katılmak için özellikle yurt dışından geldi."
+      }
+    ]
+  },
+  {
+    "id": "w7683",
+    "hanzi": "专断",
+    "pinyin": "zhuānduàn",
+    "meaning": "danışmadan karar vermek, keyfi davranmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做事很专断。",
+        "pinyin": "Tā zuòshì hěn zhuānduàn.",
+        "en": "İşleri keyfi bir şekilde yapıyor."
+      },
+      {
+        "zh": "领导不能一味专断。",
+        "pinyin": "Lǐngdǎo bùnéng yíwèi zhuānduàn.",
+        "en": "Yönetici hep tek başına karar vermemeli."
+      }
+    ]
+  },
+  {
+    "id": "w7684",
+    "hanzi": "专横",
+    "pinyin": "zhuānhèng",
+    "meaning": "otoriter, zorba",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人专横跋扈。",
+        "pinyin": "Tā wéirén zhuānhèng-báhù.",
+        "en": "Kişiliği otoriter ve zorba."
+      },
+      {
+        "zh": "她不满上司的专横态度。",
+        "pinyin": "Tā bùmǎn shàngsi de zhuānhèng tàidù.",
+        "en": "Amirinin otoriter tavrından memnun değil."
+      }
+    ]
+  },
+  {
+    "id": "w7685",
+    "hanzi": "专机",
+    "pinyin": "zhuānjī",
+    "meaning": "özel uçak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "总统乘坐专机出访。",
+        "pinyin": "Zǒngtǒng chéngzuò zhuānjī chūfǎng.",
+        "en": "Cumhurbaşkanı özel uçakla resmi ziyarete gitti."
+      },
+      {
+        "zh": "他有一架私人专机。",
+        "pinyin": "Tā yǒu yí jià sīrén zhuānjī.",
+        "en": "Kişisel bir özel uçağı var."
+      }
+    ]
+  },
+  {
+    "id": "w7686",
+    "hanzi": "专科学校",
+    "pinyin": "zhuānkē xuéxiào",
+    "meaning": "meslek yüksekokulu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他毕业于一所医学专科学校。",
+        "pinyin": "Tā bìyè yú yì suǒ yīxué zhuānkē xuéxiào.",
+        "en": "Bir tıp meslek yüksekokulundan mezun oldu."
+      },
+      {
+        "zh": "专科学校注重实践能力培养。",
+        "pinyin": "Zhuānkē xuéxiào zhùzhòng shíjiàn nénglì péiyǎng.",
+        "en": "Meslek yüksekokulları uygulama becerisini geliştirmeye önem verir."
+      },
+      {
+        "zh": "她考上了一所艺术专科学校。",
+        "pinyin": "Tā kǎoshàngle yì suǒ yìshù zhuānkē xuéxiào.",
+        "en": "Bir sanat meslek yüksekokulunu kazandı."
+      },
+      {
+        "zh": "这所专科学校就业率很高。",
+        "pinyin": "Zhè suǒ zhuānkē xuéxiào jiùyèlǜ hěn gāo.",
+        "en": "Bu meslek yüksekokulunun istihdam oranı çok yüksek."
+      },
+      {
+        "zh": "他在专科学校学习护理专业。",
+        "pinyin": "Tā zài zhuānkē xuéxiào xuéxí hùlǐ zhuānyè.",
+        "en": "Meslek yüksekokulunda hemşirelik okuyor."
+      }
+    ]
   }
 ]

@@ -184738,5 +184738,803 @@
         "en": "Mahsur kalanlar imdat sinyali gönderdi."
       }
     ]
+  },
+  {
+    "id": "w5365",
+    "hanzi": "求生",
+    "pinyin": "qiúshēng",
+    "meaning": "hayatta kalmaya çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "在沙漠中求生非常艰难。",
+        "pinyin": "Zài shāmò zhōng qiúshēng fēicháng jiānnán.",
+        "en": "Çölde hayatta kalmaya çalışmak çok zordur."
+      },
+      {
+        "zh": "他们靠求生本能活了下来。",
+        "pinyin": "Tāmen kào qiúshēng běnnéng huó le xiàlái.",
+        "en": "Hayatta kalma içgüdüleriyle ayakta kaldılar."
+      }
+    ]
+  },
+  {
+    "id": "w5366",
+    "hanzi": "求学",
+    "pinyin": "qiúxué",
+    "meaning": "eğitim almak, ilim tahsil etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他远赴国外求学。",
+        "pinyin": "Tā yuǎnfù guówài qiúxué.",
+        "en": "Eğitim almak için yurt dışına gitti."
+      },
+      {
+        "zh": "求学的道路并不容易。",
+        "pinyin": "Qiúxué de dàolù bìngbù róngyì.",
+        "en": "Eğitim yolu hiç kolay değil."
+      }
+    ]
+  },
+  {
+    "id": "w5367",
+    "hanzi": "球门",
+    "pinyin": "qiúmén",
+    "meaning": "kale (futbol)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他把球踢进了球门。",
+        "pinyin": "Tā bǎ qiú tī jìn le qiúmén.",
+        "en": "Topu kaleye vurdu."
+      },
+      {
+        "zh": "守门员站在球门前。",
+        "pinyin": "Shǒuményuán zhàn zài qiúmén qián.",
+        "en": "Kaleci kalenin önünde duruyor."
+      },
+      {
+        "zh": "球差点飞进球门。",
+        "pinyin": "Qiú chàdiǎn fēijìn qiúmén.",
+        "en": "Top az kalsın kaleye giriyordu."
+      },
+      {
+        "zh": "他的射门直冲球门。",
+        "pinyin": "Tā de shèmén zhí chōng qiúmén.",
+        "en": "Şutu doğrudan kaleye gitti."
+      },
+      {
+        "zh": "两队的球门都被严密防守。",
+        "pinyin": "Liǎng duì de qiúmén dōu bèi yánmì fángshǒu.",
+        "en": "İki takımın kalesi de sıkı bir şekilde savunuluyor."
+      }
+    ]
+  },
+  {
+    "id": "w5368",
+    "hanzi": "曲折",
+    "pinyin": "qūzhé",
+    "meaning": "dolambaçlı, karmaşık, engebeli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这条山路十分曲折。",
+        "pinyin": "Zhè tiáo shānlù shífēn qūzhé.",
+        "en": "Bu dağ yolu oldukça dolambaçlı."
+      },
+      {
+        "zh": "他的人生经历十分曲折。",
+        "pinyin": "Tā de rénshēng jīnglì shífēn qūzhé.",
+        "en": "Hayat deneyimi oldukça karmaşık ve zorlu geçti."
+      }
+    ]
+  },
+  {
+    "id": "w5369",
+    "hanzi": "曲线",
+    "pinyin": "qūxiàn",
+    "meaning": "eğri çizgi, kavis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个图表显示了销售曲线。",
+        "pinyin": "Zhège túbiǎo xiǎnshì le xiāoshòu qūxiàn.",
+        "en": "Bu grafik satış eğrisini gösteriyor."
+      },
+      {
+        "zh": "这条曲线代表了气温变化。",
+        "pinyin": "Zhè tiáo qūxiàn dàibiǎo le qìwēn biànhuà.",
+        "en": "Bu eğri sıcaklık değişimini temsil ediyor."
+      },
+      {
+        "zh": "河流的曲线十分优美。",
+        "pinyin": "Héliú de qūxiàn shífēn yōuměi.",
+        "en": "Nehrin kıvrımı çok güzel."
+      },
+      {
+        "zh": "工程师画出了一条曲线图。",
+        "pinyin": "Gōngchéngshī huàchū le yì tiáo qūxiàn tú.",
+        "en": "Mühendis bir eğri grafiği çizdi."
+      },
+      {
+        "zh": "这座桥的设计充满了曲线美。",
+        "pinyin": "Zhè zuò qiáo de shèjì chōngmǎn le qūxiàn měi.",
+        "en": "Bu köprünün tasarımı kıvrımlı bir güzellikle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w5370",
+    "hanzi": "区域",
+    "pinyin": "qūyù",
+    "meaning": "alan, bölge, yöre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这个区域禁止停车。",
+        "pinyin": "Zhège qūyù jìnzhǐ tíngchē.",
+        "en": "Bu bölgede park yapmak yasaktır."
+      },
+      {
+        "zh": "他们负责这片区域的安全。",
+        "pinyin": "Tāmen fùzé zhè piàn qūyù de ānquán.",
+        "en": "Bu bölgenin güvenliğinden sorumlular."
+      },
+      {
+        "zh": "公司在多个区域设有分部。",
+        "pinyin": "Gōngsī zài duō ge qūyù shèyǒu fēnbù.",
+        "en": "Şirketin birçok bölgede şubesi var."
+      },
+      {
+        "zh": "这项政策适用于整个区域。",
+        "pinyin": "Zhè xiàng zhèngcè shìyòng yú zhěnggè qūyù.",
+        "en": "Bu politika tüm bölge için geçerlidir."
+      },
+      {
+        "zh": "该区域的经济发展很快。",
+        "pinyin": "Gāi qūyù de jīngjì fāzhǎn hěn kuài.",
+        "en": "Bu bölgenin ekonomik gelişimi çok hızlı."
+      }
+    ]
+  },
+  {
+    "id": "w5371",
+    "hanzi": "躯干",
+    "pinyin": "qūgàn",
+    "meaning": "gövde, beden",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "运动可以锻炼躯干肌肉。",
+        "pinyin": "Yùndòng kěyǐ duànliàn qūgàn jīròu.",
+        "en": "Egzersiz gövde kaslarını çalıştırabilir."
+      },
+      {
+        "zh": "他的躯干十分强壮。",
+        "pinyin": "Tā de qūgàn shífēn qiángzhuàng.",
+        "en": "Gövdesi oldukça güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w5372",
+    "hanzi": "驱除",
+    "pinyin": "qūchú",
+    "meaning": "bertaraf etmek, gidermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这种药可以驱除体内的寄生虫。",
+        "pinyin": "Zhè zhǒng yào kěyǐ qūchú tǐnèi de jìshēngchóng.",
+        "en": "Bu ilaç vücuttaki parazitleri giderebilir."
+      },
+      {
+        "zh": "热茶能驱除寒气。",
+        "pinyin": "Rè chá néng qūchú hánqì.",
+        "en": "Sıcak çay soğuğu giderebilir."
+      }
+    ]
+  },
+  {
+    "id": "w5373",
+    "hanzi": "驱散",
+    "pinyin": "qūsàn",
+    "meaning": "dağıtmak, defetmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "警察驱散了聚集的人群。",
+        "pinyin": "Jǐngchá qūsàn le jùjí de rénqún.",
+        "en": "Polis toplanan kalabalığı dağıttı."
+      },
+      {
+        "zh": "阳光驱散了清晨的雾气。",
+        "pinyin": "Yángguāng qūsàn le qīngchén de wùqì.",
+        "en": "Güneş ışığı sabahın sisini dağıttı."
+      }
+    ]
+  },
+  {
+    "id": "w5374",
+    "hanzi": "驱使",
+    "pinyin": "qūshǐ",
+    "meaning": "teşvik etmek, harekete geçirmek, sevk etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "好奇心驱使他去探索未知的世界。",
+        "pinyin": "Hàoqíxīn qūshǐ tā qù tànsuǒ wèizhī de shìjiè.",
+        "en": "Merak onu bilinmeyen dünyayı keşfetmeye sevk etti."
+      },
+      {
+        "zh": "他被欲望驱使做出了错误的决定。",
+        "pinyin": "Tā bèi yùwàng qūshǐ zuòchū le cuòwù de juédìng.",
+        "en": "Arzu tarafından sevk edilerek yanlış bir karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5375",
+    "hanzi": "驱逐",
+    "pinyin": "qūzhú",
+    "meaning": "kovmak, sürgün etmek, uzaklaştırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他被驱逐出境了。",
+        "pinyin": "Tā bèi qūzhú chūjìng le.",
+        "en": "Ülkeden sınır dışı edildi."
+      },
+      {
+        "zh": "士兵们驱逐了入侵的敌人。",
+        "pinyin": "Shìbīngmen qūzhú le rùqīn de dírén.",
+        "en": "Askerler istila eden düşmanı kovdu."
+      }
+    ]
+  },
+  {
+    "id": "w5376",
+    "hanzi": "屈服",
+    "pinyin": "qūfú",
+    "meaning": "boyun eğmek, teslim olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他从不向困难屈服。",
+        "pinyin": "Tā cóngbù xiàng kùnnán qūfú.",
+        "en": "Zorluklara asla boyun eğmez."
+      },
+      {
+        "zh": "面对压力，她没有屈服。",
+        "pinyin": "Miànduì yālì, tā méiyǒu qūfú.",
+        "en": "Baskı karşısında boyun eğmedi."
+      },
+      {
+        "zh": "士兵们誓死不屈服。",
+        "pinyin": "Shìbīngmen shìsǐ bù qūfú.",
+        "en": "Askerler ölümüne kadar teslim olmamaya yemin etti."
+      },
+      {
+        "zh": "他被迫屈服于对方的要求。",
+        "pinyin": "Tā bèipò qūfú yú duìfāng de yāoqiú.",
+        "en": "Karşı tarafın taleplerine boyun eğmek zorunda kaldı."
+      },
+      {
+        "zh": "我们决不屈服于任何威胁。",
+        "pinyin": "Wǒmen juébù qūfú yú rènhé wēixié.",
+        "en": "Hiçbir tehdide asla boyun eğmeyeceğiz."
+      }
+    ]
+  },
+  {
+    "id": "w5377",
+    "hanzi": "屈辱",
+    "pinyin": "qūrǔ",
+    "meaning": "küçük düşürülme, aşağılanma, rezillik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他忍受了很大的屈辱。",
+        "pinyin": "Tā rěnshòu le hěn dà de qūrǔ.",
+        "en": "Büyük bir aşağılanmaya katlandı."
+      },
+      {
+        "zh": "这段历史充满了屈辱。",
+        "pinyin": "Zhè duàn lìshǐ chōngmǎn le qūrǔ.",
+        "en": "Bu tarihi dönem aşağılanmalarla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w5378",
+    "hanzi": "渠道",
+    "pinyin": "qúdào",
+    "meaning": "kanal, yol, mecra",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他们通过正规渠道解决了问题。",
+        "pinyin": "Tāmen tōngguò zhèngguī qúdào jiějué le wèntí.",
+        "en": "Sorunu resmi kanallardan çözdüler."
+      },
+      {
+        "zh": "这是获取信息的重要渠道。",
+        "pinyin": "Zhè shì huòqǔ xìnxī de zhòngyào qúdào.",
+        "en": "Bu, bilgi edinmenin önemli bir yoludur."
+      },
+      {
+        "zh": "公司拓展了销售渠道。",
+        "pinyin": "Gōngsī tuòzhǎn le xiāoshòu qúdào.",
+        "en": "Şirket satış kanallarını genişletti."
+      },
+      {
+        "zh": "请通过正当渠道反映意见。",
+        "pinyin": "Qǐng tōngguò zhèngdàng qúdào fǎnyìng yìjiàn.",
+        "en": "Lütfen görüşlerinizi uygun kanallar aracılığıyla iletin."
+      },
+      {
+        "zh": "他们开辟了新的合作渠道。",
+        "pinyin": "Tāmen kāipì le xīn de hézuò qúdào.",
+        "en": "Yeni bir işbirliği kanalı açtılar."
+      }
+    ]
+  },
+  {
+    "id": "w5379",
+    "hanzi": "取代",
+    "pinyin": "qǔdài",
+    "meaning": "yerini almak, yerine geçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "机器人正在取代一些人工工作。",
+        "pinyin": "Jīqìrén zhèngzài qǔdài yìxiē réngōng gōngzuò.",
+        "en": "Robotlar bazı insan işlerinin yerini alıyor."
+      },
+      {
+        "zh": "新技术取代了旧的方法。",
+        "pinyin": "Xīn jìshù qǔdài le jiù de fāngfǎ.",
+        "en": "Yeni teknoloji eski yöntemlerin yerini aldı."
+      },
+      {
+        "zh": "没有什么可以取代母爱。",
+        "pinyin": "Méiyǒu shénme kěyǐ qǔdài mǔ'ài.",
+        "en": "Hiçbir şey anne sevgisinin yerini tutamaz."
+      },
+      {
+        "zh": "电子邮件逐渐取代了信件。",
+        "pinyin": "Diànzǐ yóujiàn zhújiàn qǔdài le xìnjiàn.",
+        "en": "E-posta yavaş yavaş mektupların yerini aldı."
+      },
+      {
+        "zh": "他被新员工取代了。",
+        "pinyin": "Tā bèi xīn yuángōng qǔdài le.",
+        "en": "Yerini yeni bir çalışan aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5380",
+    "hanzi": "取得",
+    "pinyin": "qǔdé",
+    "meaning": "almak, edinmek, elde etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他取得了很好的成绩。",
+        "pinyin": "Tā qǔdé le hěn hǎo de chéngjì.",
+        "en": "Çok iyi bir sonuç elde etti."
+      },
+      {
+        "zh": "公司取得了巨大的成功。",
+        "pinyin": "Gōngsī qǔdé le jùdà de chénggōng.",
+        "en": "Şirket büyük bir başarı elde etti."
+      },
+      {
+        "zh": "他终于取得了驾照。",
+        "pinyin": "Tā zhōngyú qǔdé le jiàzhào.",
+        "en": "Sonunda ehliyet aldı."
+      },
+      {
+        "zh": "这项研究取得了重要进展。",
+        "pinyin": "Zhè xiàng yánjiū qǔdé le zhòngyào jìnzhǎn.",
+        "en": "Bu araştırma önemli ilerleme kaydetti."
+      },
+      {
+        "zh": "我们要取得对方的信任。",
+        "pinyin": "Wǒmen yào qǔdé duìfāng de xìnrèn.",
+        "en": "Karşı tarafın güvenini kazanmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w5381",
+    "hanzi": "取笑",
+    "pinyin": "qǔxiào",
+    "meaning": "alay etmek, dalga geçmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "别取笑他的口音。",
+        "pinyin": "Bié qǔxiào tā de kǒuyīn.",
+        "en": "Onun aksanıyla dalga geçme."
+      },
+      {
+        "zh": "同学们取笑他的新发型。",
+        "pinyin": "Tóngxuémen qǔxiào tā de xīn fàxíng.",
+        "en": "Sınıf arkadaşları yeni saç modeliyle alay etti."
+      }
+    ]
+  },
+  {
+    "id": "w5382",
+    "hanzi": "趣味",
+    "pinyin": "qùwèi",
+    "meaning": "ilgi, zevk, çekicilik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这本书充满了趣味。",
+        "pinyin": "Zhè běn shū chōngmǎn le qùwèi.",
+        "en": "Bu kitap ilgi çekici bir zevkle dolu."
+      },
+      {
+        "zh": "他讲课很有趣味。",
+        "pinyin": "Tā jiǎngkè hěn yǒu qùwèi.",
+        "en": "Dersi çok zevkli anlatıyor."
+      },
+      {
+        "zh": "生活需要一点趣味。",
+        "pinyin": "Shēnghuó xūyào yìdiǎn qùwèi.",
+        "en": "Hayatın biraz zevke ihtiyacı var."
+      },
+      {
+        "zh": "这个活动增添了不少趣味。",
+        "pinyin": "Zhège huódòng zēngtiān le bùshǎo qùwèi.",
+        "en": "Bu etkinlik oldukça fazla eğlence kattı."
+      },
+      {
+        "zh": "他对历史很有趣味。",
+        "pinyin": "Tā duì lìshǐ hěn yǒu qùwèi.",
+        "en": "Tarihe karşı büyük bir ilgisi var."
+      }
+    ]
+  },
+  {
+    "id": "w5383",
+    "hanzi": "全力",
+    "pinyin": "quánlì",
+    "meaning": "tüm gücüyle",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他全力以赴地完成了任务。",
+        "pinyin": "Tā quánlì yǐfù de wánchéng le rènwu.",
+        "en": "Görevi tüm gücüyle tamamladı."
+      },
+      {
+        "zh": "医生全力抢救病人。",
+        "pinyin": "Yīshēng quánlì qiǎngjiù bìngrén.",
+        "en": "Doktor hastayı kurtarmak için tüm gücüyle çalıştı."
+      },
+      {
+        "zh": "我们会全力支持你。",
+        "pinyin": "Wǒmen huì quánlì zhīchí nǐ.",
+        "en": "Seni tüm gücümüzle destekleyeceğiz."
+      },
+      {
+        "zh": "他全力冲刺，终于赢得了比赛。",
+        "pinyin": "Tā quánlì chōngcì, zhōngyú yíngdé le bǐsài.",
+        "en": "Tüm gücüyle son sürat koşarak sonunda yarışı kazandı."
+      },
+      {
+        "zh": "公司全力开发新产品。",
+        "pinyin": "Gōngsī quánlì kāifā xīn chǎnpǐn.",
+        "en": "Şirket tüm gücüyle yeni ürün geliştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5384",
+    "hanzi": "全球",
+    "pinyin": "quánqiú",
+    "meaning": "küresel, tüm dünya",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这是一个全球性的问题。",
+        "pinyin": "Zhè shì yí ge quánqiúxìng de wèntí.",
+        "en": "Bu küresel bir sorundur."
+      },
+      {
+        "zh": "这家公司在全球都有分支机构。",
+        "pinyin": "Zhè jiā gōngsī zài quánqiú dōu yǒu fēnzhī jīgòu.",
+        "en": "Bu şirketin tüm dünyada şubeleri var."
+      },
+      {
+        "zh": "全球气候正在发生变化。",
+        "pinyin": "Quánqiú qìhòu zhèngzài fāshēng biànhuà.",
+        "en": "Küresel iklim değişiyor."
+      },
+      {
+        "zh": "这项技术在全球范围内得到了应用。",
+        "pinyin": "Zhè xiàng jìshù zài quánqiú fànwéi nèi dédào le yìngyòng.",
+        "en": "Bu teknoloji dünya çapında uygulama buldu."
+      },
+      {
+        "zh": "他是全球知名的科学家。",
+        "pinyin": "Tā shì quánqiú zhīmíng de kēxuéjiā.",
+        "en": "O dünya çapında tanınan bir bilim insanı."
+      }
+    ]
+  },
+  {
+    "id": "w5385",
+    "hanzi": "全体",
+    "pinyin": "quántǐ",
+    "meaning": "bütün, tamamı, hepsi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "全体师生参加了这次活动。",
+        "pinyin": "Quántǐ shīshēng cānjiā le zhè cì huódòng.",
+        "en": "Tüm öğretmen ve öğrenciler bu etkinliğe katıldı."
+      },
+      {
+        "zh": "全体员工都很努力工作。",
+        "pinyin": "Quántǐ yuángōng dōu hěn nǔlì gōngzuò.",
+        "en": "Tüm çalışanlar çok çalışıyor."
+      },
+      {
+        "zh": "全体成员一致同意这个方案。",
+        "pinyin": "Quántǐ chéngyuán yízhì tóngyì zhège fāng'àn.",
+        "en": "Tüm üyeler bu plan üzerinde hemfikir oldu."
+      },
+      {
+        "zh": "请全体起立。",
+        "pinyin": "Qǐng quántǐ qǐlì.",
+        "en": "Herkes ayağa kalksın."
+      },
+      {
+        "zh": "全体人员安全撤离了现场。",
+        "pinyin": "Quántǐ rényuán ānquán chèlí le xiànchǎng.",
+        "en": "Tüm personel olay yerinden güvenli bir şekilde tahliye edildi."
+      }
+    ]
+  },
+  {
+    "id": "w5386",
+    "hanzi": "全心全意",
+    "pinyin": "quánxīnquányì",
+    "meaning": "tüm kalbiyle, tüm samimiyetiyle",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他全心全意为大家服务。",
+        "pinyin": "Tā quánxīnquányì wèi dàjiā fúwù.",
+        "en": "Herkese tüm kalbiyle hizmet ediyor."
+      },
+      {
+        "zh": "她全心全意地照顾家人。",
+        "pinyin": "Tā quánxīnquányì de zhàogù jiārén.",
+        "en": "Ailesine tüm samimiyetiyle bakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5387",
+    "hanzi": "拳",
+    "pinyin": "quán",
+    "meaning": "yumruk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他握紧了拳头。",
+        "pinyin": "Tā wòjǐn le quántou.",
+        "en": "Yumruğunu sıkıca sıktı."
+      },
+      {
+        "zh": "他一拳打在了桌子上。",
+        "pinyin": "Tā yì quán dǎ zài le zhuōzi shàng.",
+        "en": "Masaya bir yumruk vurdu."
+      },
+      {
+        "zh": "小孩举起拳头表示胜利。",
+        "pinyin": "Xiǎohái jǔqǐ quántou biǎoshì shènglì.",
+        "en": "Çocuk zaferi göstermek için yumruğunu kaldırdı."
+      },
+      {
+        "zh": "他练了很多年拳法。",
+        "pinyin": "Tā liàn le hěnduō nián quánfǎ.",
+        "en": "Yıllarca yumruk tekniği (dövüş sanatı) çalıştı."
+      },
+      {
+        "zh": "他愤怒地挥了挥拳头。",
+        "pinyin": "Tā fènnù de huī le huī quántou.",
+        "en": "Öfkeyle yumruğunu salladı."
+      }
+    ]
+  },
+  {
+    "id": "w5388",
+    "hanzi": "拳击",
+    "pinyin": "quánjī",
+    "meaning": "boks",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他是一名职业拳击手。",
+        "pinyin": "Tā shì yì míng zhíyè quánjīshǒu.",
+        "en": "O profesyonel bir boksör."
+      },
+      {
+        "zh": "拳击比赛非常激烈。",
+        "pinyin": "Quánjī bǐsài fēicháng jīliè.",
+        "en": "Boks maçı çok çekişmeliydi."
+      }
+    ]
+  },
+  {
+    "id": "w5389",
+    "hanzi": "权",
+    "pinyin": "quán",
+    "meaning": "hak, yetki, güç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "每个人都有受教育的权利。",
+        "pinyin": "Měige rén dōu yǒu shòu jiàoyù de quánlì.",
+        "en": "Herkesin eğitim alma hakkı vardır."
+      },
+      {
+        "zh": "他没有决定权。",
+        "pinyin": "Tā méiyǒu juédìngquán.",
+        "en": "Onun karar verme yetkisi yok."
+      },
+      {
+        "zh": "这项权力属于总经理。",
+        "pinyin": "Zhè xiàng quánlì shǔyú zǒngjīnglǐ.",
+        "en": "Bu yetki genel müdüre aittir."
+      },
+      {
+        "zh": "公民享有言论自由的权利。",
+        "pinyin": "Gōngmín xiǎngyǒu yánlùn zìyóu de quánlì.",
+        "en": "Vatandaşlar ifade özgürlüğü hakkına sahiptir."
+      },
+      {
+        "zh": "他放弃了继承权。",
+        "pinyin": "Tā fàngqì le jìchéngquán.",
+        "en": "Miras hakkından feragat etti."
+      }
+    ]
+  },
+  {
+    "id": "w5390",
+    "hanzi": "权威",
+    "pinyin": "quánwēi",
+    "meaning": "otorite, uzman, bilirkişi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是这个领域的权威。",
+        "pinyin": "Tā shì zhège lǐngyù de quánwēi.",
+        "en": "O bu alanda bir otorite."
+      },
+      {
+        "zh": "这份研究报告很有权威性。",
+        "pinyin": "Zhè fèn yánjiū bàogào hěn yǒu quánwēixìng.",
+        "en": "Bu araştırma raporu oldukça otoriter (güvenilir)."
+      }
+    ]
+  },
+  {
+    "id": "w5391",
+    "hanzi": "痊愈",
+    "pinyin": "quányù",
+    "meaning": "tamamen iyileşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "祝你早日痊愈。",
+        "pinyin": "Zhù nǐ zǎorì quányù.",
+        "en": "En kısa sürede tamamen iyileşmeni dilerim."
+      },
+      {
+        "zh": "经过治疗，他已经完全痊愈了。",
+        "pinyin": "Jīngguò zhìliáo, tā yǐjīng wánquán quányù le.",
+        "en": "Tedaviden sonra tamamen iyileşti."
+      }
+    ]
+  },
+  {
+    "id": "w5392",
+    "hanzi": "泉水",
+    "pinyin": "quánshuǐ",
+    "meaning": "kaynak suyu, pınar suyu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "山上有一股清澈的泉水。",
+        "pinyin": "Shānshàng yǒu yì gǔ qīngchè de quánshuǐ.",
+        "en": "Dağda berrak bir pınar suyu var."
+      },
+      {
+        "zh": "他们喝着甘甜的泉水。",
+        "pinyin": "Tāmen hēzhe gāntián de quánshuǐ.",
+        "en": "Tatlı kaynak suyunu içiyorlar."
+      },
+      {
+        "zh": "这瓶水是天然泉水。",
+        "pinyin": "Zhè píng shuǐ shì tiānrán quánshuǐ.",
+        "en": "Bu şişedeki su doğal kaynak suyudur."
+      },
+      {
+        "zh": "泉水从山缝里流出来。",
+        "pinyin": "Quánshuǐ cóng shānfèng lǐ liú chūlái.",
+        "en": "Kaynak suyu dağın yarığından akıyor."
+      },
+      {
+        "zh": "村民们用泉水灌溉农田。",
+        "pinyin": "Cūnmínmen yòng quánshuǐ guàngài nóngtián.",
+        "en": "Köylüler tarlaları kaynak suyuyla sulıyor."
+      }
+    ]
   }
 ]

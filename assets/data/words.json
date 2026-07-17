@@ -220810,5 +220810,788 @@
         "en": "Yüksek performanslı ekipmanların fiyatı daha yüksektir."
       }
     ]
+  },
+  {
+    "id": "w6627",
+    "hanzi": "性情",
+    "pinyin": "xìngqíng",
+    "meaning": "huy, mizaç, tabiat",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的性情很温和。",
+        "pinyin": "Tā de xìngqíng hěn wēnhé.",
+        "en": "Onun mizacı çok yumuşak."
+      },
+      {
+        "zh": "她性情开朗,大家都喜欢她。",
+        "pinyin": "Tā xìngqíng kāilǎng, dàjiā dōu xǐhuān tā.",
+        "en": "Onun mizacı neşeli, herkes onu seviyor."
+      },
+      {
+        "zh": "每个人的性情都不一样。",
+        "pinyin": "Měi gè rén de xìngqíng dōu bù yīyàng.",
+        "en": "Herkesin mizacı farklıdır."
+      },
+      {
+        "zh": "他性情急躁,容易生气。",
+        "pinyin": "Tā xìngqíng jízào, róngyì shēngqì.",
+        "en": "Onun mizacı sabırsız, kolayca sinirlenir."
+      },
+      {
+        "zh": "经历过挫折后他的性情变得成熟了。",
+        "pinyin": "Jīnglìguò cuòzhé hòu tā de xìngqíng biàn de chéngshú le.",
+        "en": "Zorluklar yaşadıktan sonra mizacı olgunlaştı."
+      }
+    ]
+  },
+  {
+    "id": "w6628",
+    "hanzi": "姓名",
+    "pinyin": "xìngmíng",
+    "meaning": "ad soyad",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请填写您的姓名。",
+        "pinyin": "Qǐng tiánxiě nín de xìngmíng.",
+        "en": "Lütfen ad soyadınızı yazın."
+      },
+      {
+        "zh": "他的姓名很难记。",
+        "pinyin": "Tā de xìngmíng hěn nán jì.",
+        "en": "Onun ad soyadını hatırlamak zor."
+      },
+      {
+        "zh": "请在表格上签下您的姓名。",
+        "pinyin": "Qǐng zài biǎogé shàng qiān xià nín de xìngmíng.",
+        "en": "Lütfen formda ad soyadınızı imzalayın."
+      },
+      {
+        "zh": "证件上写着他的姓名和出生日期。",
+        "pinyin": "Zhèngjiàn shàng xiězhe tā de xìngmíng hé chūshēng rìqī.",
+        "en": "Belgede onun ad soyadı ve doğum tarihi yazılı."
+      },
+      {
+        "zh": "他更改了自己的姓名。",
+        "pinyin": "Tā gēnggǎile zìjǐ de xìngmíng.",
+        "en": "O kendi adını soyadını değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6629",
+    "hanzi": "兄长",
+    "pinyin": "xiōngzhǎng",
+    "meaning": "ağabey, büyük ağabey",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他把我当作自己的兄长一样尊敬。",
+        "pinyin": "Tā bǎ wǒ dàngzuò zìjǐ de xiōngzhǎng yīyàng zūnjìng.",
+        "en": "O bana kendi ağabeyiymişim gibi saygı gösteriyor."
+      },
+      {
+        "zh": "他视兄长为榜样。",
+        "pinyin": "Tā shì xiōngzhǎng wéi bǎngyàng.",
+        "en": "O ağabeyini örnek alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6630",
+    "hanzi": "凶恶",
+    "pinyin": "xiōng'è",
+    "meaning": "zalim, merhametsiz, korkunç",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的表情十分凶恶。",
+        "pinyin": "Tā de biǎoqíng shífēn xiōng'è.",
+        "en": "Onun ifadesi son derece korkutucu."
+      },
+      {
+        "zh": "那只狗看起来很凶恶。",
+        "pinyin": "Nà zhī gǒu kànqǐlái hěn xiōng'è.",
+        "en": "O köpek çok saldırgan görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6631",
+    "hanzi": "凶手",
+    "pinyin": "xiōngshǒu",
+    "meaning": "katil",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方最终抓到了凶手。",
+        "pinyin": "Jǐngfāng zuìzhōng zhuādàole xiōngshǒu.",
+        "en": "Polis sonunda katili yakaladı."
+      },
+      {
+        "zh": "这部电影讲述了寻找凶手的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshùle xúnzhǎo xiōngshǒu de gùshi.",
+        "en": "Bu film katili bulma hikayesini anlatıyor."
+      },
+      {
+        "zh": "凶手在逃,警方正在追捕。",
+        "pinyin": "Xiōngshǒu zàitáo, jǐngfāng zhèngzài zhuībǔ.",
+        "en": "Katil kaçıyor, polis peşinde."
+      },
+      {
+        "zh": "侦探根据线索找到了凶手。",
+        "pinyin": "Zhēntàn gēnjù xiànsuǒ zhǎodàole xiōngshǒu.",
+        "en": "Dedektif ipucuna dayanarak katili buldu."
+      },
+      {
+        "zh": "凶手最终被判处死刑。",
+        "pinyin": "Xiōngshǒu zuìzhōng bèi pànchǔ sǐxíng.",
+        "en": "Katil sonunda idam cezasına çarptırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6632",
+    "hanzi": "胸怀",
+    "pinyin": "xiōnghuái",
+    "meaning": "gönül, kalp; ideal, arzu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他胸怀大志。",
+        "pinyin": "Tā xiōnghuái dàzhì.",
+        "en": "O büyük idealler taşıyor."
+      },
+      {
+        "zh": "她胸怀宽广,从不计较小事。",
+        "pinyin": "Tā xiōnghuái kuānguǎng, cóng bù jìjiào xiǎoshì.",
+        "en": "Onun gönlü geniş, küçük şeylere takılmaz."
+      }
+    ]
+  },
+  {
+    "id": "w6633",
+    "hanzi": "胸口",
+    "pinyin": "xiōngkǒu",
+    "meaning": "göğüs, mide boşluğu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他感到胸口很闷。",
+        "pinyin": "Tā gǎndào xiōngkǒu hěn mèn.",
+        "en": "O göğsünün sıkıştığını hissediyor."
+      },
+      {
+        "zh": "她把手放在胸口。",
+        "pinyin": "Tā bǎ shǒu fàng zài xiōngkǒu.",
+        "en": "O elini göğsüne koydu."
+      },
+      {
+        "zh": "他胸口疼得厉害。",
+        "pinyin": "Tā xiōngkǒu téng de lìhai.",
+        "en": "Onun göğsü çok fena ağrıyor."
+      },
+      {
+        "zh": "紧张的时候她胸口跳得很快。",
+        "pinyin": "Jǐnzhāng de shíhou tā xiōngkǒu tiào de hěn kuài.",
+        "en": "Gergin olduğunda kalbi göğsünde hızlı çarpıyor."
+      },
+      {
+        "zh": "他把奖章挂在胸口。",
+        "pinyin": "Tā bǎ jiǎngzhāng guà zài xiōngkǒu.",
+        "en": "O madalyasını göğsüne astı."
+      }
+    ]
+  },
+  {
+    "id": "w6634",
+    "hanzi": "胸膛",
+    "pinyin": "xiōngtáng",
+    "meaning": "göğüs",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他挺起胸膛,充满自信。",
+        "pinyin": "Tā tǐngqǐ xiōngtáng, chōngmǎn zìxìn.",
+        "en": "O göğsünü gererek özgüvenle duruyor."
+      },
+      {
+        "zh": "他拍了拍自己的胸膛。",
+        "pinyin": "Tā pāile pāi zìjǐ de xiōngtáng.",
+        "en": "O kendi göğsüne vurdu."
+      },
+      {
+        "zh": "士兵们挺着胸膛前进。",
+        "pinyin": "Shìbīngmen tǐngzhe xiōngtáng qiánjìn.",
+        "en": "Askerler göğüslerini gererek ilerliyor."
+      },
+      {
+        "zh": "他的胸膛很宽阔。",
+        "pinyin": "Tā de xiōngtáng hěn kuānkuò.",
+        "en": "Onun göğsü çok geniş."
+      },
+      {
+        "zh": "她把头靠在他的胸膛上。",
+        "pinyin": "Tā bǎ tóu kào zài tā de xiōngtáng shàng.",
+        "en": "O başını onun göğsüne dayadı."
+      }
+    ]
+  },
+  {
+    "id": "w6635",
+    "hanzi": "雄厚",
+    "pinyin": "xiónghòu",
+    "meaning": "güçlü, zengin (kaynak, sermaye vb.)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这家公司实力雄厚。",
+        "pinyin": "Zhè jiā gōngsī shílì xiónghòu.",
+        "en": "Bu şirketin gücü çok yüksek."
+      },
+      {
+        "zh": "他们拥有雄厚的技术基础。",
+        "pinyin": "Tāmen yōngyǒu xiónghòu de jìshù jīchǔ.",
+        "en": "Onların güçlü bir teknik altyapısı var."
+      }
+    ]
+  },
+  {
+    "id": "w6636",
+    "hanzi": "雄壮",
+    "pinyin": "xióngzhuàng",
+    "meaning": "görkemli, ihtişamlı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "军乐队奏起了雄壮的乐曲。",
+        "pinyin": "Jūnyuèduì zòuqǐle xióngzhuàng de yuèqǔ.",
+        "en": "Askeri bando görkemli bir müzik çalmaya başladı."
+      },
+      {
+        "zh": "长城显得十分雄壮。",
+        "pinyin": "Chángchéng xiǎnde shífēn xióngzhuàng.",
+        "en": "Çin Seddi son derece görkemli görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6637",
+    "hanzi": "熊",
+    "pinyin": "xióng",
+    "meaning": "ayı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "动物园里有一只大熊。",
+        "pinyin": "Dòngwùyuán lǐ yǒu yī zhī dà xióng.",
+        "en": "Hayvanat bahçesinde büyük bir ayı var."
+      },
+      {
+        "zh": "熊在冬天会冬眠。",
+        "pinyin": "Xióng zài dōngtiān huì dōngmián.",
+        "en": "Ayılar kışın kış uykusuna yatar."
+      },
+      {
+        "zh": "熊喜欢吃蜂蜜。",
+        "pinyin": "Xióng xǐhuān chī fēngmì.",
+        "en": "Ayılar bal yemeyi sever."
+      },
+      {
+        "zh": "他在森林里遇到了一只黑熊。",
+        "pinyin": "Tā zài sēnlín lǐ yùdàole yī zhī hēixióng.",
+        "en": "O ormanda bir kara ayıyla karşılaştı."
+      },
+      {
+        "zh": "北极熊生活在寒冷的地区。",
+        "pinyin": "Běijíxióng shēnghuó zài hánlěng de dìqū.",
+        "en": "Kutup ayısı soğuk bölgelerde yaşar."
+      }
+    ]
+  },
+  {
+    "id": "w6638",
+    "hanzi": "修长",
+    "pinyin": "xiūcháng",
+    "meaning": "ince ve uzun",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她有一双修长的腿。",
+        "pinyin": "Tā yǒu yī shuāng xiūcháng de tuǐ.",
+        "en": "Onun ince uzun bacakları var."
+      },
+      {
+        "zh": "他身材修长,气质优雅。",
+        "pinyin": "Tā shēncái xiūcháng, qìzhì yōuyǎ.",
+        "en": "Onun vücut yapısı ince uzun, tavırları zarif."
+      }
+    ]
+  },
+  {
+    "id": "w6639",
+    "hanzi": "修建",
+    "pinyin": "xiūjiàn",
+    "meaning": "inşa etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "政府正在修建一座新桥。",
+        "pinyin": "Zhèngfǔ zhèngzài xiūjiàn yī zuò xīn qiáo.",
+        "en": "Hükümet yeni bir köprü inşa ediyor."
+      },
+      {
+        "zh": "这条铁路是十年前修建的。",
+        "pinyin": "Zhè tiáo tiělù shì shí nián qián xiūjiàn de.",
+        "en": "Bu demiryolu on yıl önce inşa edildi."
+      },
+      {
+        "zh": "村里正在修建一所新学校。",
+        "pinyin": "Cūn lǐ zhèngzài xiūjiàn yī suǒ xīn xuéxiào.",
+        "en": "Köyde yeni bir okul inşa ediliyor."
+      },
+      {
+        "zh": "这座水库修建于上个世纪。",
+        "pinyin": "Zhè zuò shuǐkù xiūjiàn yú shàng gè shìjì.",
+        "en": "Bu baraj geçen yüzyılda inşa edildi."
+      },
+      {
+        "zh": "他们修建了一条通往山顶的公路。",
+        "pinyin": "Tāmen xiūjiànle yī tiáo tōngwǎng shāndǐng de gōnglù.",
+        "en": "Onlar zirveye giden bir yol inşa ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w6640",
+    "hanzi": "修剪",
+    "pinyin": "xiūjiǎn",
+    "meaning": "budamak, kırpmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他在修剪花园里的树木。",
+        "pinyin": "Tā zài xiūjiǎn huāyuán lǐ de shùmù.",
+        "en": "O bahçedeki ağaçları buduyor."
+      },
+      {
+        "zh": "她每周都会修剪指甲。",
+        "pinyin": "Tā měi zhōu dōu huì xiūjiǎn zhǐjia.",
+        "en": "O her hafta tırnaklarını kesiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6641",
+    "hanzi": "修理",
+    "pinyin": "xiūlǐ",
+    "meaning": "tamir etmek, onarmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他正在修理自行车。",
+        "pinyin": "Tā zhèngzài xiūlǐ zìxíngchē.",
+        "en": "O bisikleti tamir ediyor."
+      },
+      {
+        "zh": "这台电视需要修理。",
+        "pinyin": "Zhè tái diànshì xūyào xiūlǐ.",
+        "en": "Bu televizyonun tamir edilmesi gerekiyor."
+      },
+      {
+        "zh": "他把手机送去修理了。",
+        "pinyin": "Tā bǎ shǒujī sòngqù xiūlǐ le.",
+        "en": "O telefonunu tamire gönderdi."
+      },
+      {
+        "zh": "水管坏了,需要马上修理。",
+        "pinyin": "Shuǐguǎn huài le, xūyào mǎshàng xiūlǐ.",
+        "en": "Su borusu bozuldu, hemen tamir edilmesi gerekiyor."
+      },
+      {
+        "zh": "修理费用比想象中贵。",
+        "pinyin": "Xiūlǐ fèiyòng bǐ xiǎngxiàng zhōng guì.",
+        "en": "Tamir masrafı beklenenden pahalı."
+      }
+    ]
+  },
+  {
+    "id": "w6642",
+    "hanzi": "修女",
+    "pinyin": "xiūnǚ",
+    "meaning": "rahibe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "她成为了一名修女。",
+        "pinyin": "Tā chéngwéile yī míng xiūnǚ.",
+        "en": "O bir rahibe oldu."
+      },
+      {
+        "zh": "修女们在教堂里祈祷。",
+        "pinyin": "Xiūnǚmen zài jiàotáng lǐ qídǎo.",
+        "en": "Rahibeler kilisede dua ediyor."
+      },
+      {
+        "zh": "这所学校由修女管理。",
+        "pinyin": "Zhè suǒ xuéxiào yóu xiūnǚ guǎnlǐ.",
+        "en": "Bu okul rahibeler tarafından yönetiliyor."
+      },
+      {
+        "zh": "修女穿着朴素的黑袍。",
+        "pinyin": "Xiūnǚ chuānzhe pǔsù de hēipáo.",
+        "en": "Rahibe sade siyah bir cübbe giyiyor."
+      },
+      {
+        "zh": "修女帮助照顾孤儿。",
+        "pinyin": "Xiūnǚ bāngzhù zhàogù gū'ér.",
+        "en": "Rahibe yetimlere bakmaya yardım ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6643",
+    "hanzi": "修饰",
+    "pinyin": "xiūshì",
+    "meaning": "süslemek, dekore etmek, nitelemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "形容词用来修饰名词。",
+        "pinyin": "Xíngróngcí yòng lái xiūshì míngcí.",
+        "en": "Sıfatlar isimleri nitelemek için kullanılır."
+      },
+      {
+        "zh": "她喜欢修饰自己的房间。",
+        "pinyin": "Tā xǐhuān xiūshì zìjǐ de fángjiān.",
+        "en": "O kendi odasını süslemeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w6644",
+    "hanzi": "修养",
+    "pinyin": "xiūyǎng",
+    "meaning": "terbiye, kültür seviyesi, kişisel gelişim",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他很有文化修养。",
+        "pinyin": "Tā hěn yǒu wénhuà xiūyǎng.",
+        "en": "Onun kültürel donanımı çok iyi."
+      },
+      {
+        "zh": "个人修养需要长期培养。",
+        "pinyin": "Gèrén xiūyǎng xūyào chángqī péiyǎng.",
+        "en": "Kişisel gelişim uzun süreli çaba gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w6645",
+    "hanzi": "修正",
+    "pinyin": "xiūzhèng",
+    "meaning": "düzeltmek, revize etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他修正了报告中的错误。",
+        "pinyin": "Tā xiūzhèngle bàogào zhōng de cuòwù.",
+        "en": "O raporda ki hataları düzeltti."
+      },
+      {
+        "zh": "这项法律经过多次修正。",
+        "pinyin": "Zhè xiàng fǎlǜ jīngguò duō cì xiūzhèng.",
+        "en": "Bu yasa birçok kez revize edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6646",
+    "hanzi": "休假",
+    "pinyin": "xiūjià",
+    "meaning": "tatil yapmak, izin kullanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他正在国外休假。",
+        "pinyin": "Tā zhèngzài guówài xiūjià.",
+        "en": "O yurt dışında tatil yapıyor."
+      },
+      {
+        "zh": "我打算下周休假。",
+        "pinyin": "Wǒ dǎsuàn xià zhōu xiūjià.",
+        "en": "Gelecek hafta izin almayı planlıyorum."
+      },
+      {
+        "zh": "员工每年有十天带薪休假。",
+        "pinyin": "Yuángōng měinián yǒu shí tiān dàixīn xiūjià.",
+        "en": "Çalışanların yılda on gün ücretli izni var."
+      },
+      {
+        "zh": "他利用休假时间陪家人。",
+        "pinyin": "Tā lìyòng xiūjià shíjiān péi jiārén.",
+        "en": "O izin zamanını ailesiyle geçirmek için kullanıyor."
+      },
+      {
+        "zh": "老板批准了他的休假申请。",
+        "pinyin": "Lǎobǎn pīzhǔnle tā de xiūjià shēnqǐng.",
+        "en": "Patron onun izin talebini onayladı."
+      }
+    ]
+  },
+  {
+    "id": "w6647",
+    "hanzi": "休养",
+    "pinyin": "xiūyǎng",
+    "meaning": "dinlenmek, iyileşmek, nekahet dönemi geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他正在家休养身体。",
+        "pinyin": "Tā zhèngzài jiā xiūyǎng shēntǐ.",
+        "en": "O evde iyileşmek için dinleniyor."
+      },
+      {
+        "zh": "医生建议她多休养。",
+        "pinyin": "Yīshēng jiànyì tā duō xiūyǎng.",
+        "en": "Doktor onun daha fazla dinlenmesini önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w6648",
+    "hanzi": "秀丽",
+    "pinyin": "xiùlì",
+    "meaning": "hoş, güzel, çekici",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这里的风景十分秀丽。",
+        "pinyin": "Zhèlǐ de fēngjǐng shífēn xiùlì.",
+        "en": "Buranın manzarası son derece güzel."
+      },
+      {
+        "zh": "她长得秀丽端庄。",
+        "pinyin": "Tā zhǎng de xiùlì duānzhuāng.",
+        "en": "O hoş ve zarif görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6649",
+    "hanzi": "需求",
+    "pinyin": "xūqiú",
+    "meaning": "talep, ihtiyaç, gereksinim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "市场对这种产品需求很大。",
+        "pinyin": "Shìchǎng duì zhè zhǒng chǎnpǐn xūqiú hěn dà.",
+        "en": "Piyasada bu tür ürünlere talep çok yüksek."
+      },
+      {
+        "zh": "我们要满足客户的需求。",
+        "pinyin": "Wǒmen yào mǎnzú kèhù de xūqiú.",
+        "en": "Müşterilerin ihtiyaçlarını karşılamamız gerekiyor."
+      },
+      {
+        "zh": "供应必须与需求相匹配。",
+        "pinyin": "Gōngyìng bìxū yǔ xūqiú xiāng pǐpèi.",
+        "en": "Arz talebe uygun olmalıdır."
+      },
+      {
+        "zh": "他的需求很简单。",
+        "pinyin": "Tā de xūqiú hěn jiǎndān.",
+        "en": "Onun ihtiyaçları çok basit."
+      },
+      {
+        "zh": "公司根据需求调整了生产计划。",
+        "pinyin": "Gōngsī gēnjù xūqiú tiáozhěngle shēngchǎn jìhuà.",
+        "en": "Şirket talebe göre üretim planını ayarladı."
+      }
+    ]
+  },
+  {
+    "id": "w6650",
+    "hanzi": "虚假",
+    "pinyin": "xūjiǎ",
+    "meaning": "sahte, yalan, yapmacık",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他发布了虚假信息。",
+        "pinyin": "Tā fābùle xūjiǎ xìnxī.",
+        "en": "O sahte bilgi yayınladı."
+      },
+      {
+        "zh": "这些数据是虚假的。",
+        "pinyin": "Zhèxiē shùjù shì xūjiǎ de.",
+        "en": "Bu veriler sahte."
+      }
+    ]
+  },
+  {
+    "id": "w6651",
+    "hanzi": "虚弱",
+    "pinyin": "xūruò",
+    "meaning": "zayıf, güçsüz (sağlık için)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "病人的身体很虚弱。",
+        "pinyin": "Bìngrén de shēntǐ hěn xūruò.",
+        "en": "Hastanın vücudu çok zayıf."
+      },
+      {
+        "zh": "他生病后身体变得虚弱。",
+        "pinyin": "Tā shēngbìng hòu shēntǐ biàn de xūruò.",
+        "en": "O hastalandıktan sonra vücudu zayıfladı."
+      },
+      {
+        "zh": "老人的心脏比较虚弱。",
+        "pinyin": "Lǎorén de xīnzàng bǐjiào xūruò.",
+        "en": "Yaşlı adamın kalbi oldukça zayıf."
+      },
+      {
+        "zh": "她因失血过多而虚弱无力。",
+        "pinyin": "Tā yīn shīxuè guò duō ér xūruò wúlì.",
+        "en": "O aşırı kan kaybı nedeniyle güçsüz ve halsiz."
+      },
+      {
+        "zh": "手术后他的体力很虚弱。",
+        "pinyin": "Shǒushù hòu tā de tǐlì hěn xūruò.",
+        "en": "Ameliyattan sonra onun fiziksel gücü çok zayıf."
+      }
+    ]
+  },
+  {
+    "id": "w6652",
+    "hanzi": "许久",
+    "pinyin": "xǔjiǔ",
+    "meaning": "uzun zaman, uzun süredir",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他沉默了许久。",
+        "pinyin": "Tā chénmòle xǔjiǔ.",
+        "en": "O uzun süre sessiz kaldı."
+      },
+      {
+        "zh": "我们已经许久没见了。",
+        "pinyin": "Wǒmen yǐjīng xǔjiǔ méi jiàn le.",
+        "en": "Uzun zamandır görüşmedik."
+      }
+    ]
+  },
+  {
+    "id": "w6653",
+    "hanzi": "许可",
+    "pinyin": "xǔkě",
+    "meaning": "izin vermek, müsaade etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "没有许可不能进入。",
+        "pinyin": "Méiyǒu xǔkě bùnéng jìnrù.",
+        "en": "İzin olmadan girilemez."
+      },
+      {
+        "zh": "他获得了政府的许可。",
+        "pinyin": "Tā huòdéle zhèngfǔ de xǔkě.",
+        "en": "O hükümetin iznini aldı."
+      },
+      {
+        "zh": "这需要经过特殊许可。",
+        "pinyin": "Zhè xūyào jīngguò tèshū xǔkě.",
+        "en": "Bunun özel izin gerektirmesi gerekiyor."
+      },
+      {
+        "zh": "未经许可禁止拍照。",
+        "pinyin": "Wèijīng xǔkě jìnzhǐ pāizhào.",
+        "en": "İzin alınmadan fotoğraf çekmek yasaktır."
+      },
+      {
+        "zh": "公司许可员工在家办公。",
+        "pinyin": "Gōngsī xǔkě yuángōng zài jiā bàngōng.",
+        "en": "Şirket çalışanların evden çalışmasına izin veriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6654",
+    "hanzi": "许诺",
+    "pinyin": "xǔnuò",
+    "meaning": "söz vermek, vaat etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他向我许诺会准时到达。",
+        "pinyin": "Tā xiàng wǒ xǔnuò huì zhǔnshí dàodá.",
+        "en": "O bana zamanında geleceğine söz verdi."
+      },
+      {
+        "zh": "政治家不能随便许诺。",
+        "pinyin": "Zhèngzhìjiā bùnéng suíbiàn xǔnuò.",
+        "en": "Siyasetçiler keyfi vaatte bulunamaz."
+      }
+    ]
   }
 ]

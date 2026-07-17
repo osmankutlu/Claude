@@ -209866,5 +209866,878 @@
         "en": "İşlemler tamamlandıktan sonra ayrılabilirsiniz."
       }
     ]
+  },
+  {
+    "id": "w6263",
+    "hanzi": "完好",
+    "pinyin": "wánhǎo",
+    "meaning": "bütün, tam, eksiksiz, hasarsız",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这些古董保存得很完好。",
+        "pinyin": "Zhèxiē gǔdǒng bǎocún de hěn wánhǎo.",
+        "en": "Bu antikalar çok iyi korunmuş, hasarsız."
+      },
+      {
+        "zh": "文件完好无损地送到了。",
+        "pinyin": "Wénjiàn wánhǎo wúsǔn de sòngdào le.",
+        "en": "Belgeler hiç hasar görmeden teslim edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6264",
+    "hanzi": "完结",
+    "pinyin": "wánjié",
+    "meaning": "sona ermek, bitmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个故事终于完结了。",
+        "pinyin": "Zhège gùshi zhōngyú wánjié le.",
+        "en": "Bu hikaye sonunda sona erdi."
+      },
+      {
+        "zh": "案件已经完结。",
+        "pinyin": "Ànjiàn yǐjīng wánjié.",
+        "en": "Dava zaten sona erdi."
+      }
+    ]
+  },
+  {
+    "id": "w6265",
+    "hanzi": "完了",
+    "pinyin": "wánliǎo",
+    "meaning": "sona ermek, bitmek; işi bitmiş olmak, mahvolmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "电影完了以后我们去吃饭。",
+        "pinyin": "Diànyǐng wánliǎo yǐhòu wǒmen qù chīfàn.",
+        "en": "Film bittikten sonra yemeğe gidelim."
+      },
+      {
+        "zh": "这次考试完了就是暑假。",
+        "pinyin": "Zhè cì kǎoshì wánliǎo jiùshì shǔjià.",
+        "en": "Bu sınav bitince yaz tatili başlıyor."
+      },
+      {
+        "zh": "完了,我把钥匙忘在家里了。",
+        "pinyin": "Wánliǎo, wǒ bǎ yàoshi wàng zài jiā lǐ le.",
+        "en": "Eyvah, anahtarımı evde unuttum."
+      },
+      {
+        "zh": "工作还没完了呢。",
+        "pinyin": "Gōngzuò hái méi wánliǎo ne.",
+        "en": "İş henüz bitmedi."
+      },
+      {
+        "zh": "他一说完了就走了。",
+        "pinyin": "Tā yī shuō wánliǎo jiù zǒu le.",
+        "en": "O sözünü bitirir bitirmez gitti."
+      }
+    ]
+  },
+  {
+    "id": "w6266",
+    "hanzi": "完满",
+    "pinyin": "wánmǎn",
+    "meaning": "hoşnut edici, başarılı, tam ve eksiksiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "会议取得了完满的成功。",
+        "pinyin": "Huìyì qǔdéle wánmǎn de chénggōng.",
+        "en": "Toplantı tam bir başarıyla sonuçlandı."
+      },
+      {
+        "zh": "问题得到了完满的解决。",
+        "pinyin": "Wèntí dédàole wánmǎn de jiějué.",
+        "en": "Sorun eksiksiz bir şekilde çözüldü."
+      }
+    ]
+  },
+  {
+    "id": "w6267",
+    "hanzi": "丸",
+    "pinyin": "wán",
+    "meaning": "top, küre; hap, kapsül",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他开了几丸药。",
+        "pinyin": "Yīshēng gěi tā kāile jǐ wán yào.",
+        "en": "Doktor ona birkaç hap yazdı."
+      },
+      {
+        "zh": "这种药丸每天吃一次。",
+        "pinyin": "Zhè zhǒng yàowán měitiān chī yī cì.",
+        "en": "Bu tür haplar günde bir kez alınır."
+      }
+    ]
+  },
+  {
+    "id": "w6268",
+    "hanzi": "玩弄",
+    "pinyin": "wánnòng",
+    "meaning": "sorumsuzca oynamak, kullanmak, kandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他玩弄别人的感情。",
+        "pinyin": "Tā wánnòng biérén de gǎnqíng.",
+        "en": "O başkalarının duygularıyla oynuyor."
+      },
+      {
+        "zh": "不要玩弄手段欺骗别人。",
+        "pinyin": "Bùyào wánnòng shǒuduàn qīpiàn biérén.",
+        "en": "Başkalarını kandırmak için hile yapma."
+      }
+    ]
+  },
+  {
+    "id": "w6269",
+    "hanzi": "玩笑",
+    "pinyin": "wánxiào",
+    "meaning": "şaka, espri",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他喜欢开玩笑。",
+        "pinyin": "Tā xǐhuān kāi wánxiào.",
+        "en": "O şaka yapmayı sever."
+      },
+      {
+        "zh": "这只是一个玩笑,别当真。",
+        "pinyin": "Zhè zhǐshì yī gè wánxiào, bié dàngzhēn.",
+        "en": "Bu sadece bir şaka, ciddiye alma."
+      },
+      {
+        "zh": "别开这种玩笑,一点都不好笑。",
+        "pinyin": "Bié kāi zhè zhǒng wánxiào, yīdiǎn dōu bù hǎoxiào.",
+        "en": "Böyle şakalar yapma, hiç komik değil."
+      },
+      {
+        "zh": "她跟朋友们开着玩笑。",
+        "pinyin": "Tā gēn péngyǒumen kāizhe wánxiào.",
+        "en": "O arkadaşlarıyla şakalaşıyor."
+      },
+      {
+        "zh": "开玩笑要看场合。",
+        "pinyin": "Kāi wánxiào yào kàn chǎnghé.",
+        "en": "Şaka yaparken ortama dikkat etmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6270",
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "meaning": "akşam; geç",
+    "partOfSpeech": "sıfat",
+    "level": 2,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "现在时间不早了,该睡觉了。",
+        "pinyin": "Xiànzài shíjiān bù zǎo le, gāi shuìjiào le.",
+        "en": "Şu an vakit geç oldu, uyuma zamanı."
+      },
+      {
+        "zh": "我今天回家很晚。",
+        "pinyin": "Wǒ jīntiān huí jiā hěn wǎn.",
+        "en": "Bugün eve çok geç döndüm."
+      },
+      {
+        "zh": "他晚睡晚起。",
+        "pinyin": "Tā wǎn shuì wǎn qǐ.",
+        "en": "O geç yatıp geç kalkıyor."
+      },
+      {
+        "zh": "现在已经很晚了。",
+        "pinyin": "Xiànzài yǐjīng hěn wǎn le.",
+        "en": "Şu an artık çok geç oldu."
+      },
+      {
+        "zh": "对不起,我来晚了。",
+        "pinyin": "Duìbuqǐ, wǒ lái wǎn le.",
+        "en": "Özür dilerim, geç geldim."
+      }
+    ]
+  },
+  {
+    "id": "w6271",
+    "hanzi": "晚安",
+    "pinyin": "wǎn'ān",
+    "meaning": "iyi geceler",
+    "partOfSpeech": "ünlem",
+    "level": 3,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "妈妈对孩子说晚安。",
+        "pinyin": "Māma duì háizi shuō wǎn'ān.",
+        "en": "Anne çocuğuna iyi geceler diyor."
+      },
+      {
+        "zh": "晚安,明天见。",
+        "pinyin": "Wǎn'ān, míngtiān jiàn.",
+        "en": "İyi geceler, yarın görüşürüz."
+      },
+      {
+        "zh": "睡觉前别忘了说晚安。",
+        "pinyin": "Shuìjiào qián bié wàngle shuō wǎn'ān.",
+        "en": "Uyumadan önce iyi geceler demeyi unutma."
+      },
+      {
+        "zh": "他向大家道了晚安就回房了。",
+        "pinyin": "Tā xiàng dàjiā dàole wǎn'ān jiù huí fáng le.",
+        "en": "O herkese iyi geceler dedikten sonra odasına döndü."
+      },
+      {
+        "zh": "晚安,做个好梦。",
+        "pinyin": "Wǎn'ān, zuò gè hǎo mèng.",
+        "en": "İyi geceler, tatlı rüyalar."
+      }
+    ]
+  },
+  {
+    "id": "w6272",
+    "hanzi": "晚报",
+    "pinyin": "wǎnbào",
+    "meaning": "akşam gazetesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "爷爷每天看晚报。",
+        "pinyin": "Yéye měitiān kàn wǎnbào.",
+        "en": "Dede her gün akşam gazetesini okur."
+      },
+      {
+        "zh": "这条新闻上了晚报。",
+        "pinyin": "Zhè tiáo xīnwén shàngle wǎnbào.",
+        "en": "Bu haber akşam gazetesine çıktı."
+      },
+      {
+        "zh": "他订阅了当地的晚报。",
+        "pinyin": "Tā dìngyuèle dāngdì de wǎnbào.",
+        "en": "O yerel akşam gazetesine abone oldu."
+      },
+      {
+        "zh": "晚报每天下午出版。",
+        "pinyin": "Wǎnbào měitiān xiàwǔ chūbǎn.",
+        "en": "Akşam gazetesi her gün öğleden sonra yayımlanır."
+      },
+      {
+        "zh": "报摊上卖着各种晚报。",
+        "pinyin": "Bàotān shàng màizhe gèzhǒng wǎnbào.",
+        "en": "Gazete büfesinde çeşitli akşam gazeteleri satılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6273",
+    "hanzi": "晚辈",
+    "pinyin": "wǎnbèi",
+    "meaning": "genç kuşak, alt kuşaktan akraba",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "作为晚辈,应该尊重长辈。",
+        "pinyin": "Zuòwéi wǎnbèi, yīnggāi zūnzhòng zhǎngbèi.",
+        "en": "Bir alt kuşak mensubu olarak büyüklere saygı göstermek gerekir."
+      },
+      {
+        "zh": "他对晚辈很严格。",
+        "pinyin": "Tā duì wǎnbèi hěn yángé.",
+        "en": "O genç kuşağa karşı çok katı."
+      }
+    ]
+  },
+  {
+    "id": "w6274",
+    "hanzi": "晚餐",
+    "pinyin": "wǎncān",
+    "meaning": "akşam yemeği",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "我们一起吃晚餐吧。",
+        "pinyin": "Wǒmen yīqǐ chī wǎncān ba.",
+        "en": "Hep birlikte akşam yemeği yiyelim."
+      },
+      {
+        "zh": "晚餐已经准备好了。",
+        "pinyin": "Wǎncān yǐjīng zhǔnbèi hǎo le.",
+        "en": "Akşam yemeği hazırlandı."
+      },
+      {
+        "zh": "他们在餐厅吃了一顿丰盛的晚餐。",
+        "pinyin": "Tāmen zài cāntīng chīle yī dùn fēngshèng de wǎncān.",
+        "en": "Onlar restoranda bol bir akşam yemeği yediler."
+      },
+      {
+        "zh": "晚餐时间到了。",
+        "pinyin": "Wǎncān shíjiān dào le.",
+        "en": "Akşam yemeği vakti geldi."
+      },
+      {
+        "zh": "她为家人准备了浪漫的晚餐。",
+        "pinyin": "Tā wèi jiārén zhǔnbèile làngmàn de wǎncān.",
+        "en": "O ailesi için romantik bir akşam yemeği hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w6275",
+    "hanzi": "晚点",
+    "pinyin": "wǎndiǎn",
+    "meaning": "gecikmek (tren, uçak vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "我的航班晚点了两个小时。",
+        "pinyin": "Wǒ de hángbān wǎndiǎnle liǎng gè xiǎoshí.",
+        "en": "Uçuşum iki saat gecikti."
+      },
+      {
+        "zh": "火车又晚点了。",
+        "pinyin": "Huǒchē yòu wǎndiǎn le.",
+        "en": "Tren yine gecikti."
+      },
+      {
+        "zh": "由于大雾,飞机晚点起飞。",
+        "pinyin": "Yóuyú dà wù, fēijī wǎndiǎn qǐfēi.",
+        "en": "Yoğun sis nedeniyle uçak gecikmeli kalktı."
+      },
+      {
+        "zh": "请问火车晚点了吗?",
+        "pinyin": "Qǐngwèn huǒchē wǎndiǎnle ma?",
+        "en": "Affedersiniz, tren gecikti mi?"
+      },
+      {
+        "zh": "他因为晚点错过了会议。",
+        "pinyin": "Tā yīnwèi wǎndiǎn cuòguòle huìyì.",
+        "en": "O gecikme yüzünden toplantıyı kaçırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6276",
+    "hanzi": "晚饭",
+    "pinyin": "wǎnfàn",
+    "meaning": "akşam yemeği",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "我们六点吃晚饭。",
+        "pinyin": "Wǒmen liù diǎn chī wǎnfàn.",
+        "en": "Biz saat altıda akşam yemeği yiyoruz."
+      },
+      {
+        "zh": "妈妈在做晚饭。",
+        "pinyin": "Māma zài zuò wǎnfàn.",
+        "en": "Annem akşam yemeği yapıyor."
+      },
+      {
+        "zh": "晚饭吃了什么?",
+        "pinyin": "Wǎnfàn chīle shénme?",
+        "en": "Akşam yemeğinde ne yedin?"
+      },
+      {
+        "zh": "今天晚饭很好吃。",
+        "pinyin": "Jīntiān wǎnfàn hěn hǎochī.",
+        "en": "Bugünkü akşam yemeği çok lezzetliydi."
+      },
+      {
+        "zh": "吃完晚饭我们去散步吧。",
+        "pinyin": "Chīwán wǎnfàn wǒmen qù sànbù ba.",
+        "en": "Akşam yemeğini yedikten sonra yürüyüşe çıkalım."
+      }
+    ]
+  },
+  {
+    "id": "w6277",
+    "hanzi": "晚会",
+    "pinyin": "wǎnhuì",
+    "meaning": "gece partisi, akşam etkinliği",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "学校举办了新年晚会。",
+        "pinyin": "Xuéxiào jǔbànle xīnnián wǎnhuì.",
+        "en": "Okul yılbaşı gecesi düzenledi."
+      },
+      {
+        "zh": "我们被邀请参加公司的晚会。",
+        "pinyin": "Wǒmen bèi yāoqǐng cānjiā gōngsī de wǎnhuì.",
+        "en": "Şirketin gece etkinliğine davet edildik."
+      },
+      {
+        "zh": "晚会上有很多精彩的节目。",
+        "pinyin": "Wǎnhuì shàng yǒu hěn duō jīngcǎi de jiémù.",
+        "en": "Gece etkinliğinde birçok muhteşem gösteri vardı."
+      },
+      {
+        "zh": "她为晚会准备了一首歌。",
+        "pinyin": "Tā wèi wǎnhuì zhǔnbèile yī shǒu gē.",
+        "en": "O gece etkinliği için bir şarkı hazırladı."
+      },
+      {
+        "zh": "晚会持续到深夜。",
+        "pinyin": "Wǎnhuì chíxù dào shēnyè.",
+        "en": "Etkinlik gece geç saatlere kadar sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w6278",
+    "hanzi": "晚年",
+    "pinyin": "wǎnnián",
+    "meaning": "yaşlılık, ihtiyarlık dönemi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他晚年生活很幸福。",
+        "pinyin": "Tā wǎnnián shēnghuó hěn xìngfú.",
+        "en": "Onun yaşlılık hayatı çok mutlu geçti."
+      },
+      {
+        "zh": "老人希望在晚年得到照顾。",
+        "pinyin": "Lǎorén xīwàng zài wǎnnián dédào zhàogù.",
+        "en": "Yaşlı kişi yaşlılığında bakım görmeyi umuyor."
+      },
+      {
+        "zh": "他把晚年都花在了写作上。",
+        "pinyin": "Tā bǎ wǎnnián dōu huā zài le xiězuò shàng.",
+        "en": "Yaşlılık yıllarının tamamını yazmaya harcadı."
+      },
+      {
+        "zh": "晚年时她开始学画画。",
+        "pinyin": "Wǎnnián shí tā kāishǐ xué huàhuà.",
+        "en": "Yaşlılığında resim öğrenmeye başladı."
+      },
+      {
+        "zh": "祝您晚年幸福健康。",
+        "pinyin": "Zhù nín wǎnnián xìngfú jiànkāng.",
+        "en": "İyi bir yaşlılık dönemi ve sağlık dilerim."
+      }
+    ]
+  },
+  {
+    "id": "w6279",
+    "hanzi": "晚期",
+    "pinyin": "wǎnqī",
+    "meaning": "geç dönem, son dönem, ileri evre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这是他艺术生涯晚期的作品。",
+        "pinyin": "Zhè shì tā yìshù shēngyá wǎnqī de zuòpǐn.",
+        "en": "Bu onun sanat kariyerinin geç döneminden bir eser."
+      },
+      {
+        "zh": "病情已经发展到晚期。",
+        "pinyin": "Bìngqíng yǐjīng fāzhǎn dào wǎnqī.",
+        "en": "Hastalık ileri evreye ulaştı."
+      },
+      {
+        "zh": "这是清朝晚期的历史文物。",
+        "pinyin": "Zhè shì Qīngcháo wǎnqī de lìshǐ wénwù.",
+        "en": "Bu Qing hanedanının son döneminden kalma tarihi bir eserdir."
+      },
+      {
+        "zh": "晚期发现的病例治疗更困难。",
+        "pinyin": "Wǎnqī fāxiàn de bìnglì zhìliáo gèng kùnnan.",
+        "en": "Geç dönemde tespit edilen vakaların tedavisi daha zordur."
+      },
+      {
+        "zh": "他处于生命的晚期阶段。",
+        "pinyin": "Tā chǔyú shēngmìng de wǎnqī jiēduàn.",
+        "en": "O hayatının son döneminde."
+      }
+    ]
+  },
+  {
+    "id": "w6280",
+    "hanzi": "惋惜",
+    "pinyin": "wǎnxī",
+    "meaning": "pişmanlık duymak, üzülmek, esef etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "大家都为他的失败感到惋惜。",
+        "pinyin": "Dàjiā dōu wèi tā de shībài gǎndào wǎnxī.",
+        "en": "Herkes onun başarısızlığına üzüldü."
+      },
+      {
+        "zh": "她惋惜地摇了摇头。",
+        "pinyin": "Tā wǎnxī de yáole yáo tóu.",
+        "en": "O üzülerek başını salladı."
+      }
+    ]
+  },
+  {
+    "id": "w6281",
+    "hanzi": "婉转",
+    "pinyin": "wǎnzhuǎn",
+    "meaning": "nazik ve dolaylı, kibarca söylenmiş; tatlı, hoş (ses için)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他婉转地拒绝了邀请。",
+        "pinyin": "Tā wǎnzhuǎn de jùjuéle yāoqǐng.",
+        "en": "O daveti nazikçe reddetti."
+      },
+      {
+        "zh": "鸟儿的叫声婉转动听。",
+        "pinyin": "Niǎo'er de jiào shēng wǎnzhuǎn dòngtīng.",
+        "en": "Kuşun sesi tatlı ve hoş."
+      }
+    ]
+  },
+  {
+    "id": "w6282",
+    "hanzi": "万分",
+    "pinyin": "wànfēn",
+    "meaning": "son derece, çok çok",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他万分感激你的帮助。",
+        "pinyin": "Tā wànfēn gǎnjī nǐ de bāngzhù.",
+        "en": "O yardımın için son derece minnettar."
+      },
+      {
+        "zh": "听到这个消息她万分激动。",
+        "pinyin": "Tīngdào zhège xiāoxi tā wànfēn jīdòng.",
+        "en": "Bu haberi duyunca son derece heyecanlandı."
+      }
+    ]
+  },
+  {
+    "id": "w6283",
+    "hanzi": "万能",
+    "pinyin": "wànnéng",
+    "meaning": "çok amaçlı, evrensel, her işe yarayan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这把工具是万能的。",
+        "pinyin": "Zhè bǎ gōngjù shì wànnéng de.",
+        "en": "Bu alet her işe yarar."
+      },
+      {
+        "zh": "钱不是万能的。",
+        "pinyin": "Qián bùshì wànnéng de.",
+        "en": "Para her şeye yetmez."
+      },
+      {
+        "zh": "他买了一把万能钥匙。",
+        "pinyin": "Tā mǎile yī bǎ wànnéng yàoshi.",
+        "en": "O bir maymuncuk anahtar satın aldı."
+      },
+      {
+        "zh": "没有万能的解决办法。",
+        "pinyin": "Méiyǒu wànnéng de jiějué bànfǎ.",
+        "en": "Her derde deva bir çözüm yoktur."
+      },
+      {
+        "zh": "这款软件功能几乎是万能的。",
+        "pinyin": "Zhè kuǎn ruǎnjiàn gōngnéng jīhū shì wànnéng de.",
+        "en": "Bu yazılımın işlevleri neredeyse her şeye yetiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6284",
+    "hanzi": "万里长城",
+    "pinyin": "wànlǐ chángchéng",
+    "meaning": "Çin Seddi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "万里长城是世界著名的古迹。",
+        "pinyin": "Wànlǐ chángchéng shì shìjiè zhùmíng de gǔjì.",
+        "en": "Çin Seddi dünyaca ünlü bir tarihi eserdir."
+      },
+      {
+        "zh": "我们计划下个月去参观万里长城。",
+        "pinyin": "Wǒmen jìhuà xià gè yuè qù cānguān wànlǐ chángchéng.",
+        "en": "Gelecek ay Çin Seddi'ni ziyaret etmeyi planlıyoruz."
+      },
+      {
+        "zh": "万里长城全长约两万一千公里。",
+        "pinyin": "Wànlǐ chángchéng quán cháng yuē liǎng wàn yī qiān gōnglǐ.",
+        "en": "Çin Seddi'nin toplam uzunluğu yaklaşık yirmi bir bin kilometredir."
+      },
+      {
+        "zh": "登上万里长城是很多游客的心愿。",
+        "pinyin": "Dēng shàng wànlǐ chángchéng shì hěn duō yóukè de xīnyuàn.",
+        "en": "Çin Seddi'ne tırmanmak birçok turistin arzusudur."
+      },
+      {
+        "zh": "万里长城见证了中国悠久的历史。",
+        "pinyin": "Wànlǐ chángchéng jiànzhèngle Zhōngguó yōujiǔ de lìshǐ.",
+        "en": "Çin Seddi, Çin'in köklü tarihine tanıklık etmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w6285",
+    "hanzi": "万岁",
+    "pinyin": "wànsuì",
+    "meaning": "çok yaşa!, sonsuza dek var olsun",
+    "partOfSpeech": "ünlem",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "人们高喊万岁。",
+        "pinyin": "Rénmen gāohǎn wànsuì.",
+        "en": "İnsanlar 'çok yaşa' diye bağırdı."
+      },
+      {
+        "zh": "皇帝被称为万岁爷。",
+        "pinyin": "Huángdì bèi chēngwéi wànsuìyé.",
+        "en": "İmparatora 'Majesteleri' denirdi."
+      },
+      {
+        "zh": "祖国万岁!",
+        "pinyin": "Zǔguó wànsuì!",
+        "en": "Vatan çok yaşa!"
+      },
+      {
+        "zh": "考试结束了,万岁!",
+        "pinyin": "Kǎoshì jiéshù le, wànsuì!",
+        "en": "Sınav bitti, yaşasın!"
+      },
+      {
+        "zh": "友谊万岁!",
+        "pinyin": "Yǒuyì wànsuì!",
+        "en": "Dostluk çok yaşa!"
+      }
+    ]
+  },
+  {
+    "id": "w6286",
+    "hanzi": "腕",
+    "pinyin": "wàn",
+    "meaning": "bilek, el bileği",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的手腕受伤了。",
+        "pinyin": "Tā de shǒuwàn shòushāng le.",
+        "en": "Onun bileği yaralandı."
+      },
+      {
+        "zh": "她戴着一块手表在腕上。",
+        "pinyin": "Tā dàizhe yī kuài shǒubiǎo zài wàn shàng.",
+        "en": "O bileğine bir saat takmış."
+      },
+      {
+        "zh": "打网球容易伤到手腕。",
+        "pinyin": "Dǎ wǎngqiú róngyì shāng dào shǒuwàn.",
+        "en": "Tenis oynamak bileği kolayca yaralayabilir."
+      },
+      {
+        "zh": "医生检查了他的腕关节。",
+        "pinyin": "Yīshēng jiǎnchále tā de wàn guānjié.",
+        "en": "Doktor onun bilek eklemini kontrol etti."
+      },
+      {
+        "zh": "她的手腕很纤细。",
+        "pinyin": "Tā de shǒuwàn hěn xiānxì.",
+        "en": "Onun bileği çok ince."
+      }
+    ]
+  },
+  {
+    "id": "w6287",
+    "hanzi": "网",
+    "pinyin": "wǎng",
+    "meaning": "ağ, file; şebeke",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "渔民在海上撒网。",
+        "pinyin": "Yúmín zài hǎishàng sā wǎng.",
+        "en": "Balıkçılar denizde ağ atıyor."
+      },
+      {
+        "zh": "蜘蛛结了一张网。",
+        "pinyin": "Zhīzhū jiéle yī zhāng wǎng.",
+        "en": "Örümcek bir ağ ördü."
+      },
+      {
+        "zh": "这个网球拍的网断了。",
+        "pinyin": "Zhège wǎngqiú pāi de wǎng duàn le.",
+        "en": "Bu tenis raketinin teli koptu."
+      },
+      {
+        "zh": "全国建成了完善的交通网。",
+        "pinyin": "Quánguó jiànchéngle wánshàn de jiāotōng wǎng.",
+        "en": "Ülke genelinde eksiksiz bir ulaşım ağı kuruldu."
+      },
+      {
+        "zh": "他被困在了法律的网里。",
+        "pinyin": "Tā bèi kùn zàile fǎlǜ de wǎng lǐ.",
+        "en": "O kanunun ağına takıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6288",
+    "hanzi": "往来",
+    "pinyin": "wǎnglái",
+    "meaning": "gidip gelmek; ilişki, temas",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "两国之间的往来越来越密切。",
+        "pinyin": "Liǎng guó zhījiān de wǎnglái yuè lái yuè mìqiè.",
+        "en": "İki ülke arasındaki ilişki giderek yakınlaşıyor."
+      },
+      {
+        "zh": "他们已经没有往来了。",
+        "pinyin": "Tāmen yǐjīng méiyǒu wǎnglái le.",
+        "en": "Onların artık hiç ilişkisi yok."
+      },
+      {
+        "zh": "商人之间的往来很频繁。",
+        "pinyin": "Shāngrén zhījiān de wǎnglái hěn pínfán.",
+        "en": "Tüccarlar arasındaki ilişki çok sık."
+      },
+      {
+        "zh": "这条路车辆往来不断。",
+        "pinyin": "Zhè tiáo lù chēliàng wǎnglái bùduàn.",
+        "en": "Bu yolda araçlar sürekli gidip geliyor."
+      },
+      {
+        "zh": "他们两家一直保持着往来。",
+        "pinyin": "Tāmen liǎng jiā yīzhí bǎochízhe wǎnglái.",
+        "en": "Onların iki ailesi hep ilişkisini sürdürdü."
+      }
+    ]
+  },
+  {
+    "id": "w6289",
+    "hanzi": "往事",
+    "pinyin": "wǎngshì",
+    "meaning": "geçmiş olaylar, geçmiş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他喜欢回忆往事。",
+        "pinyin": "Tā xǐhuān huíyì wǎngshì.",
+        "en": "O geçmişi hatırlamayı sever."
+      },
+      {
+        "zh": "那些往事已经过去了。",
+        "pinyin": "Nàxiē wǎngshì yǐjīng guòqù le.",
+        "en": "O geçmiş olaylar artık geride kaldı."
+      },
+      {
+        "zh": "往事历历在目。",
+        "pinyin": "Wǎngshì lìlì zài mù.",
+        "en": "Geçmiş olaylar gözünün önünde canlanıyor."
+      },
+      {
+        "zh": "她不愿再提起那段往事。",
+        "pinyin": "Tā bù yuàn zài tíqǐ nà duàn wǎngshì.",
+        "en": "O o geçmişi tekrar anmak istemiyor."
+      },
+      {
+        "zh": "老人常常谈起年轻时的往事。",
+        "pinyin": "Lǎorén chángcháng tán qǐ niánqīng shí de wǎngshì.",
+        "en": "Yaşlı adam sık sık gençliğindeki olayları anlatır."
+      }
+    ]
+  },
+  {
+    "id": "w6290",
+    "hanzi": "忘",
+    "pinyin": "wàng",
+    "meaning": "unutmak",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我忘了带钥匙。",
+        "pinyin": "Wǒ wàngle dài yàoshi.",
+        "en": "Anahtarımı almayı unuttum."
+      },
+      {
+        "zh": "别忘了给我打电话。",
+        "pinyin": "Bié wàngle gěi wǒ dǎ diànhuà.",
+        "en": "Beni aramayı unutma."
+      },
+      {
+        "zh": "他忘了她的生日。",
+        "pinyin": "Tā wàngle tā de shēngrì.",
+        "en": "O onun doğum gününü unuttu."
+      },
+      {
+        "zh": "我永远不会忘你的恩情。",
+        "pinyin": "Wǒ yǒngyuǎn bùhuì wàng nǐ de ēnqíng.",
+        "en": "Senin iyiliğini asla unutmayacağım."
+      },
+      {
+        "zh": "她忘了把门锁上。",
+        "pinyin": "Tā wàngle bǎ mén suǒ shàng.",
+        "en": "O kapıyı kilitlemeyi unuttu."
+      }
+    ]
   }
 ]

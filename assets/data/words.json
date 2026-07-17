@@ -205186,5 +205186,788 @@
         "en": "Patron iş kalitesi konusunda çok titiz."
       }
     ]
+  },
+  {
+    "id": "w6093",
+    "hanzi": "挑选",
+    "pinyin": "tiāoxuǎn",
+    "meaning": "seçmek, ayırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她挑选了一件漂亮的裙子。",
+        "pinyin": "Tā tiāoxuǎn le yí jiàn piàoliang de qúnzi.",
+        "en": "Güzel bir etek seçti."
+      },
+      {
+        "zh": "公司挑选了最优秀的员工。",
+        "pinyin": "Gōngsī tiāoxuǎn le zuì yōuxiù de yuángōng.",
+        "en": "Şirket en başarılı çalışanları seçti."
+      },
+      {
+        "zh": "他仔细挑选了每一个词语。",
+        "pinyin": "Tā zǐxì tiāoxuǎn le měi yí ge cíyǔ.",
+        "en": "Her kelimeyi dikkatlice seçti."
+      },
+      {
+        "zh": "请帮我挑选一个礼物。",
+        "pinyin": "Qǐng bāng wǒ tiāoxuǎn yí ge lǐwù.",
+        "en": "Lütfen bana bir hediye seçmeme yardım et."
+      },
+      {
+        "zh": "她在市场上挑选新鲜的蔬菜。",
+        "pinyin": "Tā zài shìchǎng shàng tiāoxuǎn xīnxiān de shūcài.",
+        "en": "Pazarda taze sebze seçiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6094",
+    "hanzi": "条款",
+    "pinyin": "tiáokuǎn",
+    "meaning": "madde, şart, hüküm",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "请仔细阅读合同条款。",
+        "pinyin": "Qǐng zǐxì yuèdú hétong tiáokuǎn.",
+        "en": "Lütfen sözleşme maddelerini dikkatlice okuyun."
+      },
+      {
+        "zh": "双方对某些条款存在分歧。",
+        "pinyin": "Shuāngfāng duì mǒuxiē tiáokuǎn cúnzài fēnqí.",
+        "en": "Her iki taraf da bazı maddeler konusunda anlaşmazlık yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6095",
+    "hanzi": "条理",
+    "pinyin": "tiáolǐ",
+    "meaning": "düzen, mantık, tertip",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他做事很有条理。",
+        "pinyin": "Tā zuòshì hěn yǒu tiáolǐ.",
+        "en": "İşleri çok düzenli yapar."
+      },
+      {
+        "zh": "这篇文章条理清晰。",
+        "pinyin": "Zhè piān wénzhāng tiáolǐ qīngxī.",
+        "en": "Bu makale mantıklı bir düzene sahip."
+      }
+    ]
+  },
+  {
+    "id": "w6096",
+    "hanzi": "条例",
+    "pinyin": "tiáolì",
+    "meaning": "yönetmelik, kural",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府颁布了新的条例。",
+        "pinyin": "Zhèngfǔ bānbù le xīn de tiáolì.",
+        "en": "Hükümet yeni bir yönetmelik yayınladı."
+      },
+      {
+        "zh": "所有员工都要遵守公司条例。",
+        "pinyin": "Suǒyǒu yuángōng dōu yào zūnshǒu gōngsī tiáolì.",
+        "en": "Tüm çalışanların şirket kurallarına uyması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6097",
+    "hanzi": "条约",
+    "pinyin": "tiáoyuē",
+    "meaning": "antlaşma, sözleşme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两国签署了和平条约。",
+        "pinyin": "Liǎng guó qiānshǔ le hépíng tiáoyuē.",
+        "en": "İki ülke bir barış antlaşması imzaladı."
+      },
+      {
+        "zh": "这项条约已经生效了。",
+        "pinyin": "Zhè xiàng tiáoyuē yǐjīng shēngxiào le.",
+        "en": "Bu antlaşma zaten yürürlüğe girdi."
+      },
+      {
+        "zh": "他们违反了国际条约。",
+        "pinyin": "Tāmen wéifǎn le guójì tiáoyuē.",
+        "en": "Uluslararası antlaşmayı ihlal ettiler."
+      },
+      {
+        "zh": "条约的内容涉及贸易问题。",
+        "pinyin": "Tiáoyuē de nèiróng shèjí màoyì wèntí.",
+        "en": "Antlaşmanın içeriği ticaret sorunlarını kapsıyor."
+      },
+      {
+        "zh": "各国代表讨论了条约的细节。",
+        "pinyin": "Gèguó dàibiǎo tǎolùn le tiáoyuē de xìjié.",
+        "en": "Ülke temsilcileri antlaşmanın ayrıntılarını tartıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6098",
+    "hanzi": "调和",
+    "pinyin": "tiáohé",
+    "meaning": "uyumlu olmak, ahenkli olmak; uzlaştırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这两种颜色搭配得很调和。",
+        "pinyin": "Zhè liǎng zhǒng yánsè dāpèi de hěn tiáohé.",
+        "en": "Bu iki renk uyumlu bir şekilde bir araya geliyor."
+      },
+      {
+        "zh": "他试图调和双方的矛盾。",
+        "pinyin": "Tā shìtú tiáohé shuāngfāng de máodùn.",
+        "en": "İki tarafın anlaşmazlığını uzlaştırmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6099",
+    "hanzi": "调节",
+    "pinyin": "tiáojié",
+    "meaning": "ayarlamak, düzenlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请调节一下空调的温度。",
+        "pinyin": "Qǐng tiáojié yíxià kōngtiáo de wēndù.",
+        "en": "Lütfen klimanın sıcaklığını ayarlayın."
+      },
+      {
+        "zh": "他学会了调节自己的情绪。",
+        "pinyin": "Tā xuéhuì le tiáojié zìjǐ de qíngxù.",
+        "en": "Kendi duygularını düzenlemeyi öğrendi."
+      },
+      {
+        "zh": "身体可以自动调节体温。",
+        "pinyin": "Shēntǐ kěyǐ zìdòng tiáojié tǐwēn.",
+        "en": "Vücut, vücut ısısını otomatik olarak düzenleyebilir."
+      },
+      {
+        "zh": "我们需要调节工作和生活的平衡。",
+        "pinyin": "Wǒmen xūyào tiáojié gōngzuò hé shēnghuó de pínghéng.",
+        "en": "İş ve yaşam dengesini ayarlamamız gerekiyor."
+      },
+      {
+        "zh": "请调节音量，声音太大了。",
+        "pinyin": "Qǐng tiáojié yīnliàng, shēngyīn tài dà le.",
+        "en": "Lütfen ses seviyesini ayarlayın, ses çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w6100",
+    "hanzi": "挑衅",
+    "pinyin": "tiǎoxìn",
+    "meaning": "kışkırtmak, provoke etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他故意挑衅对方。",
+        "pinyin": "Tā gùyì tiǎoxìn duìfāng.",
+        "en": "Karşı tarafı kasıtlı olarak provoke ediyor."
+      },
+      {
+        "zh": "不要理会他的挑衅言论。",
+        "pinyin": "Búyào lǐhuì tā de tiǎoxìn yánlùn.",
+        "en": "Onun kışkırtıcı sözlerini önemseme."
+      }
+    ]
+  },
+  {
+    "id": "w6101",
+    "hanzi": "眺望",
+    "pinyin": "tiàowàng",
+    "meaning": "uzaktan bakmak, seyretmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他站在山顶眺望远方。",
+        "pinyin": "Tā zhàn zài shāndǐng tiàowàng yuǎnfāng.",
+        "en": "Dağın zirvesinde durup uzakları seyrediyor."
+      },
+      {
+        "zh": "从这里可以眺望整个城市。",
+        "pinyin": "Cóng zhèlǐ kěyǐ tiàowàng zhěnggè chéngshì.",
+        "en": "Buradan tüm şehri seyretmek mümkün."
+      }
+    ]
+  },
+  {
+    "id": "w6102",
+    "hanzi": "跳",
+    "pinyin": "tiào",
+    "meaning": "zıplamak, atlamak, sıçramak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "孩子们在草地上跳来跳去。",
+        "pinyin": "Háizimen zài cǎodì shàng tiàolái tiàoqù.",
+        "en": "Çocuklar çayırda zıplayıp duruyor."
+      },
+      {
+        "zh": "他跳过了一个大水坑。",
+        "pinyin": "Tā tiàoguò le yí ge dà shuǐkēng.",
+        "en": "Büyük bir su birikintisinin üzerinden atladı."
+      },
+      {
+        "zh": "看到他，我的心跳加快了。",
+        "pinyin": "Kàndào tā, wǒ de xīntiào jiākuài le.",
+        "en": "Onu görünce kalp atışım hızlandı."
+      },
+      {
+        "zh": "他从窗户跳了出去。",
+        "pinyin": "Tā cóng chuānghu tiào le chūqù.",
+        "en": "Pencereden dışarı atladı."
+      },
+      {
+        "zh": "青蛙一跳就跳得很远。",
+        "pinyin": "Qīngwā yí tiào jiù tiào de hěn yuǎn.",
+        "en": "Kurbağa bir sıçrayışta çok uzağa atladı."
+      }
+    ]
+  },
+  {
+    "id": "w6103",
+    "hanzi": "跳板",
+    "pinyin": "tiàobǎn",
+    "meaning": "tramplen; iskele tahtası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "运动员从跳板上一跃而下。",
+        "pinyin": "Yùndòngyuán cóng tiàobǎn shàng yíyuè érxià.",
+        "en": "Sporcu tramplenden atlayarak aşağı indi."
+      },
+      {
+        "zh": "这份实习是他进入行业的跳板。",
+        "pinyin": "Zhè fèn shíxí shì tā jìnrù hángyè de tiàobǎn.",
+        "en": "Bu staj onun sektöre girişi için bir sıçrama tahtasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6104",
+    "hanzi": "跳高",
+    "pinyin": "tiàogāo",
+    "meaning": "yüksek atlama",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他在跳高比赛中获得了第一名。",
+        "pinyin": "Tā zài tiàogāo bǐsài zhōng huòdé le dìyī míng.",
+        "en": "Yüksek atlama yarışmasında birinci oldu."
+      },
+      {
+        "zh": "跳高需要很好的爆发力。",
+        "pinyin": "Tiàogāo xūyào hěn hǎo de bàofālì.",
+        "en": "Yüksek atlama iyi bir patlayıcı güç gerektirir."
+      },
+      {
+        "zh": "他每天练习跳高。",
+        "pinyin": "Tā měitiān liànxí tiàogāo.",
+        "en": "Her gün yüksek atlama pratiği yapıyor."
+      },
+      {
+        "zh": "跳高运动员必须有柔韧的身体。",
+        "pinyin": "Tiàogāo yùndòngyuán bìxū yǒu róurèn de shēntǐ.",
+        "en": "Yüksek atlama sporcularının esnek bir vücuda sahip olması gerekir."
+      },
+      {
+        "zh": "他打破了跳高的校纪录。",
+        "pinyin": "Tā dǎpò le tiàogāo de xiào jìlù.",
+        "en": "Yüksek atlama okul rekorunu kırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6105",
+    "hanzi": "跳水",
+    "pinyin": "tiàoshuǐ",
+    "meaning": "suya dalış",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "她是一名跳水运动员。",
+        "pinyin": "Tā shì yì míng tiàoshuǐ yùndòngyuán.",
+        "en": "O bir suya dalış sporcusu."
+      },
+      {
+        "zh": "跳水比赛非常精彩。",
+        "pinyin": "Tiàoshuǐ bǐsài fēicháng jīngcǎi.",
+        "en": "Suya dalış yarışması çok heyecanlıydı."
+      },
+      {
+        "zh": "他从跳台上跳水了。",
+        "pinyin": "Tā cóng tiàotái shàng tiàoshuǐ le.",
+        "en": "Atlama kulesinden suya daldı."
+      },
+      {
+        "zh": "跳水需要极高的技巧。",
+        "pinyin": "Tiàoshuǐ xūyào jígāo de jìqiǎo.",
+        "en": "Suya dalış çok yüksek beceri gerektirir."
+      },
+      {
+        "zh": "她在跳水比赛中获得了金牌。",
+        "pinyin": "Tā zài tiàoshuǐ bǐsài zhōng huòdé le jīnpái.",
+        "en": "Suya dalış yarışmasında altın madalya kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w6106",
+    "hanzi": "跳远",
+    "pinyin": "tiàoyuǎn",
+    "meaning": "uzun atlama",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他参加了跳远比赛。",
+        "pinyin": "Tā cānjiā le tiàoyuǎn bǐsài.",
+        "en": "Uzun atlama yarışmasına katıldı."
+      },
+      {
+        "zh": "跳远的成绩取决于速度和技巧。",
+        "pinyin": "Tiàoyuǎn de chéngjì qǔjué yú sùdù hé jìqiǎo.",
+        "en": "Uzun atlamanın sonucu hız ve teknik'e bağlıdır."
+      },
+      {
+        "zh": "他刷新了跳远的个人纪录。",
+        "pinyin": "Tā shuāxīn le tiàoyuǎn de gèrén jìlù.",
+        "en": "Kendi kişisel uzun atlama rekorunu kırdı."
+      },
+      {
+        "zh": "跳远运动员在起跳前要助跑。",
+        "pinyin": "Tiàoyuǎn yùndòngyuán zài qǐtiào qián yào zhùpǎo.",
+        "en": "Uzun atlama sporcuları sıçramadan önce hızlanma koşusu yapmalıdır."
+      },
+      {
+        "zh": "她的跳远成绩非常出色。",
+        "pinyin": "Tā de tiàoyuǎn chéngjì fēicháng chūsè.",
+        "en": "Uzun atlama sonucu oldukça başarılı."
+      }
+    ]
+  },
+  {
+    "id": "w6107",
+    "hanzi": "跳跃",
+    "pinyin": "tiàoyuè",
+    "meaning": "sıçramak, zıplamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "小鹿在草地上欢快地跳跃。",
+        "pinyin": "Xiǎolù zài cǎodì shàng huānkuài de tiàoyuè.",
+        "en": "Küçük geyik çayırda neşeyle zıplıyor."
+      },
+      {
+        "zh": "他的思维方式很跳跃。",
+        "pinyin": "Tā de sīwéi fāngshì hěn tiàoyuè.",
+        "en": "Düşünme tarzı sıçramalı (bağlantısız)."
+      },
+      {
+        "zh": "运动员在跑道上跳跃着。",
+        "pinyin": "Yùndòngyuán zài pǎodào shàng tiàoyuèzhe.",
+        "en": "Sporcu pistte sıçrayarak ilerliyor."
+      },
+      {
+        "zh": "火焰在夜空中跳跃着。",
+        "pinyin": "Huǒyàn zài yèkōng zhōng tiàoyuèzhe.",
+        "en": "Alevler gece gökyüzünde titreşiyor."
+      },
+      {
+        "zh": "孩子们兴奋地跳跃着欢呼。",
+        "pinyin": "Háizimen xīngfèn de tiàoyuèzhe huānhū.",
+        "en": "Çocuklar heyecanla zıplayıp bağırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6108",
+    "hanzi": "跳蚤",
+    "pinyin": "tiàozao",
+    "meaning": "pire",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "这只狗身上有跳蚤。",
+        "pinyin": "Zhè zhī gǒu shēnshang yǒu tiàozao.",
+        "en": "Bu köpeğin üzerinde pire var."
+      },
+      {
+        "zh": "他们在城市广场举办了跳蚤市场。",
+        "pinyin": "Tāmen zài chéngshì guǎngchǎng jǔbàn le tiàozao shìchǎng.",
+        "en": "Şehir meydanında bir bit pazarı düzenlediler."
+      }
+    ]
+  },
+  {
+    "id": "w6109",
+    "hanzi": "贴",
+    "pinyin": "tiē",
+    "meaning": "yapıştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在墙上贴了一张海报。",
+        "pinyin": "Tā zài qiáng shàng tiē le yì zhāng hǎibào.",
+        "en": "Duvara bir poster yapıştırdı."
+      },
+      {
+        "zh": "请把标签贴在盒子上。",
+        "pinyin": "Qǐng bǎ biāoqiān tiē zài hézi shàng.",
+        "en": "Lütfen etiketi kutunun üzerine yapıştırın."
+      },
+      {
+        "zh": "她给信封贴了邮票。",
+        "pinyin": "Tā gěi xìnfēng tiē le yóupiào.",
+        "en": "Zarfa pul yapıştırdı."
+      },
+      {
+        "zh": "他们贴出了寻人启事。",
+        "pinyin": "Tāmen tiēchū le xúnrén qǐshì.",
+        "en": "Bir kişi arama ilanı astılar."
+      },
+      {
+        "zh": "她把照片贴在了相册里。",
+        "pinyin": "Tā bǎ zhàopiàn tiē zài le xiàngcè lǐ.",
+        "en": "Fotoğrafı albüme yapıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6110",
+    "hanzi": "贴切",
+    "pinyin": "tiēqiè",
+    "meaning": "uygun, yerinde (kelime, ifade)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他的比喻非常贴切。",
+        "pinyin": "Tā de bǐyù fēicháng tiēqiè.",
+        "en": "Benzetmesi çok yerinde."
+      },
+      {
+        "zh": "这个词用得很贴切。",
+        "pinyin": "Zhège cí yòng de hěn tiēqiè.",
+        "en": "Bu kelime çok uygun kullanılmış."
+      }
+    ]
+  },
+  {
+    "id": "w6111",
+    "hanzi": "贴身",
+    "pinyin": "tiēshēn",
+    "meaning": "vücuda yapışık, dar (giysi)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "她穿着一件贴身的连衣裙。",
+        "pinyin": "Tā chuānzhe yí jiàn tiēshēn de liányīqún.",
+        "en": "Vücuduna oturan bir elbise giyiyor."
+      },
+      {
+        "zh": "贴身衣物要经常更换。",
+        "pinyin": "Tiēshēn yīwù yào jīngcháng gēnghuàn.",
+        "en": "İç çamaşırlarının sık sık değiştirilmesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6112",
+    "hanzi": "贴心",
+    "pinyin": "tiēxīn",
+    "meaning": "içten, yakın, samimi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她是我最贴心的朋友。",
+        "pinyin": "Tā shì wǒ zuì tiēxīn de péngyou.",
+        "en": "O benim en yakın arkadaşım."
+      },
+      {
+        "zh": "他为大家做了很多贴心的安排。",
+        "pinyin": "Tā wèi dàjiā zuò le hěnduō tiēxīn de ānpái.",
+        "en": "Herkes için birçok içten düzenleme yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w6113",
+    "hanzi": "铁",
+    "pinyin": "tiě",
+    "meaning": "demir",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这把刀是用铁做的。",
+        "pinyin": "Zhè bǎ dāo shì yòng tiě zuò de.",
+        "en": "Bu bıçak demirden yapılmıştır."
+      },
+      {
+        "zh": "他有着铁一般的意志。",
+        "pinyin": "Tā yǒuzhe tiě yìbān de yìzhì.",
+        "en": "Demir gibi bir iradesi var."
+      },
+      {
+        "zh": "铁很容易生锈。",
+        "pinyin": "Tiě hěn róngyì shēngxiù.",
+        "en": "Demir kolayca paslanır."
+      },
+      {
+        "zh": "这座桥是用钢铁建造的。",
+        "pinyin": "Zhè zuò qiáo shì yòng gāngtiě jiànzào de.",
+        "en": "Bu köprü çelikten inşa edilmiştir."
+      },
+      {
+        "zh": "打铁需要极大的力气。",
+        "pinyin": "Dǎtiě xūyào jídà de lìqi.",
+        "en": "Demir dövmek büyük bir güç gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w6114",
+    "hanzi": "铁道",
+    "pinyin": "tiědào",
+    "meaning": "demiryolu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "铁道两旁种满了树木。",
+        "pinyin": "Tiědào liǎngpáng zhòngmǎn le shùmù.",
+        "en": "Demiryolunun iki yanına ağaç dikilmiş."
+      },
+      {
+        "zh": "这条铁道贯穿了整个国家。",
+        "pinyin": "Zhè tiáo tiědào guànchuān le zhěnggè guójiā.",
+        "en": "Bu demiryolu tüm ülkeyi baştan başa kat ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6115",
+    "hanzi": "铁匠",
+    "pinyin": "tiějiàng",
+    "meaning": "demirci, nalbant",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "村里有一位老铁匠。",
+        "pinyin": "Cūn lǐ yǒu yí wèi lǎo tiějiàng.",
+        "en": "Köyde yaşlı bir demirci var."
+      },
+      {
+        "zh": "铁匠打造了一把锋利的刀。",
+        "pinyin": "Tiějiàng dǎzào le yì bǎ fēnglì de dāo.",
+        "en": "Demirci keskin bir bıçak yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w6116",
+    "hanzi": "铁路",
+    "pinyin": "tiělù",
+    "meaning": "demiryolu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这条铁路连接了两座城市。",
+        "pinyin": "Zhè tiáo tiělù liánjiē le liǎng zuò chéngshì.",
+        "en": "Bu demiryolu iki şehri birbirine bağlıyor."
+      },
+      {
+        "zh": "铁路建设需要大量资金。",
+        "pinyin": "Tiělù jiànshè xūyào dàliàng zījīn.",
+        "en": "Demiryolu inşaatı büyük miktarda para gerektirir."
+      },
+      {
+        "zh": "他在铁路局工作。",
+        "pinyin": "Tā zài tiělùjú gōngzuò.",
+        "en": "Demiryolları müdürlüğünde çalışıyor."
+      },
+      {
+        "zh": "高速铁路大大缩短了旅行时间。",
+        "pinyin": "Gāosù tiělù dàdà suōduǎn le lǚxíng shíjiān.",
+        "en": "Yüksek hızlı demiryolu seyahat süresini büyük ölçüde kısalttı."
+      },
+      {
+        "zh": "这段铁路正在进行维修。",
+        "pinyin": "Zhè duàn tiělù zhèngzài jìnxíng wéixiū.",
+        "en": "Bu demiryolu bölümünde bakım çalışması sürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6117",
+    "hanzi": "听从",
+    "pinyin": "tīngcóng",
+    "meaning": "kabul etmek, boyun eğmek, uymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他听从了医生的建议。",
+        "pinyin": "Tā tīngcóng le yīshēng de jiànyì.",
+        "en": "Doktorun önerisine uydu."
+      },
+      {
+        "zh": "士兵们必须听从命令。",
+        "pinyin": "Shìbīngmen bìxū tīngcóng mìnglìng.",
+        "en": "Askerlerin emirlere uyması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6118",
+    "hanzi": "听取",
+    "pinyin": "tīngqǔ",
+    "meaning": "dinlemek (görüş, rapor)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "领导认真听取了大家的意见。",
+        "pinyin": "Lǐngdǎo rènzhēn tīngqǔ le dàjiā de yìjiàn.",
+        "en": "Lider herkesin görüşünü dikkatlice dinledi."
+      },
+      {
+        "zh": "委员会听取了专家的汇报。",
+        "pinyin": "Wěiyuánhuì tīngqǔ le zhuānjiā de huìbào.",
+        "en": "Komite uzmanın raporunu dinledi."
+      },
+      {
+        "zh": "他愿意听取不同的声音。",
+        "pinyin": "Tā yuànyì tīngqǔ bùtóng de shēngyīn.",
+        "en": "Farklı sesleri dinlemeye istekli."
+      },
+      {
+        "zh": "老师听取了学生的建议。",
+        "pinyin": "Lǎoshī tīngqǔ le xuésheng de jiànyì.",
+        "en": "Öğretmen öğrencilerin önerisini dinledi."
+      },
+      {
+        "zh": "政府听取了民众的诉求。",
+        "pinyin": "Zhèngfǔ tīngqǔ le mínzhòng de sùqiú.",
+        "en": "Hükümet halkın taleplerini dinledi."
+      }
+    ]
+  },
+  {
+    "id": "w6119",
+    "hanzi": "听众",
+    "pinyin": "tīngzhòng",
+    "meaning": "dinleyiciler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "演讲结束后，听众热烈鼓掌。",
+        "pinyin": "Yǎnjiǎng jiéshù hòu, tīngzhòng rèliè gǔzhǎng.",
+        "en": "Konuşma bittikten sonra dinleyiciler coşkuyla alkışladı."
+      },
+      {
+        "zh": "这场音乐会吸引了很多听众。",
+        "pinyin": "Zhè chǎng yīnyuèhuì xīyǐn le hěnduō tīngzhòng.",
+        "en": "Bu konser birçok dinleyiciyi çekti."
+      },
+      {
+        "zh": "他向听众解释了这个问题。",
+        "pinyin": "Tā xiàng tīngzhòng jiěshì le zhège wèntí.",
+        "en": "Bu konuyu dinleyicilere açıkladı."
+      },
+      {
+        "zh": "电台每天都有很多听众。",
+        "pinyin": "Diàntái měitiān dōu yǒu hěnduō tīngzhòng.",
+        "en": "Radyo istasyonunun her gün birçok dinleyicisi var."
+      },
+      {
+        "zh": "听众们提出了很多问题。",
+        "pinyin": "Tīngzhòngmen tíchū le hěnduō wèntí.",
+        "en": "Dinleyiciler birçok soru sordu."
+      }
+    ]
+  },
+  {
+    "id": "w6120",
+    "hanzi": "挑逗",
+    "pinyin": "tiǎodòu",
+    "meaning": "kışkırtmak, takılmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他喜欢挑逗小猫玩耍。",
+        "pinyin": "Tā xǐhuan tiǎodòu xiǎomāo wánshuǎ.",
+        "en": "Küçük kediyi oyunla kışkırtmayı sever."
+      },
+      {
+        "zh": "别用言语挑逗他生气。",
+        "pinyin": "Bié yòng yányǔ tiǎodòu tā shēngqì.",
+        "en": "Sözlerle onu sinirlendirmeye çalışma."
+      }
+    ]
   }
 ]

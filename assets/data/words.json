@@ -242758,5 +242758,833 @@
         "en": "Menkul kıymetler piyasası bugün büyük düşüş yaşadı."
       }
     ]
+  },
+  {
+    "id": "w7351",
+    "hanzi": "之前",
+    "pinyin": "zhīqián",
+    "meaning": "önce, -den önce",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "吃饭之前要洗手。",
+        "pinyin": "Chīfàn zhīqián yào xǐshǒu.",
+        "en": "Yemekten önce eller yıkanmalı."
+      },
+      {
+        "zh": "我之前没见过他。",
+        "pinyin": "Wǒ zhīqián méi jiànguò tā.",
+        "en": "Onu daha önce hiç görmemiştim."
+      },
+      {
+        "zh": "三点之前请到教室。",
+        "pinyin": "Sān diǎn zhīqián qǐng dào jiàoshì.",
+        "en": "Saat üçten önce lütfen sınıfa gelin."
+      },
+      {
+        "zh": "睡觉之前不要玩手机。",
+        "pinyin": "Shuìjiào zhīqián búyào wán shǒujī.",
+        "en": "Uyumadan önce telefonla oynamayın."
+      },
+      {
+        "zh": "他之前住在北京。",
+        "pinyin": "Tā zhīqián zhù zài Běijīng.",
+        "en": "Daha önce Pekin'de yaşıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7352",
+    "hanzi": "证人",
+    "pinyin": "zhèngren",
+    "meaning": "tanık, şahit",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "法庭传唤了三名证人。",
+        "pinyin": "Fǎtíng chuánhuànle sān míng zhèngren.",
+        "en": "Mahkeme üç tanığı celp etti."
+      },
+      {
+        "zh": "他是这起事故的唯一证人。",
+        "pinyin": "Tā shì zhè qǐ shìgù de wéiyī zhèngren.",
+        "en": "O, bu kazanın tek tanığı."
+      },
+      {
+        "zh": "证人的证词很关键。",
+        "pinyin": "Zhèngren de zhèngcí hěn guānjiàn.",
+        "en": "Tanığın ifadesi çok önemli."
+      },
+      {
+        "zh": "她愿意做这件事的证人。",
+        "pinyin": "Tā yuànyì zuò zhè jiàn shì de zhèngren.",
+        "en": "Bu olayın tanığı olmaya razı."
+      },
+      {
+        "zh": "警方正在寻找目击证人。",
+        "pinyin": "Jǐngfāng zhèngzài xúnzhǎo mùjī zhèngren.",
+        "en": "Polis olay tanıklarını arıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7353",
+    "hanzi": "证实",
+    "pinyin": "zhèngshí",
+    "meaning": "doğrulamak, gerçekleştiğini kanıtlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "警方证实了这个消息。",
+        "pinyin": "Jǐngfāng zhèngshíle zhège xiāoxi.",
+        "en": "Polis bu haberi doğruladı."
+      },
+      {
+        "zh": "医生证实他已经康复。",
+        "pinyin": "Yīshēng zhèngshí tā yǐjīng kāngfù.",
+        "en": "Doktor onun iyileştiğini doğruladı."
+      },
+      {
+        "zh": "这个消息还没有得到证实。",
+        "pinyin": "Zhège xiāoxi hái méiyǒu dédào zhèngshí.",
+        "en": "Bu haber henüz doğrulanmadı."
+      },
+      {
+        "zh": "研究结果证实了这个理论。",
+        "pinyin": "Yánjiū jiéguǒ zhèngshíle zhège lǐlùn.",
+        "en": "Araştırma sonuçları bu teoriyi doğruladı."
+      },
+      {
+        "zh": "他用行动证实了自己的诚意。",
+        "pinyin": "Tā yòng xíngdòng zhèngshíle zìjǐ de chéngyì.",
+        "en": "Eylemleriyle samimiyetini kanıtladı."
+      }
+    ]
+  },
+  {
+    "id": "w7354",
+    "hanzi": "证书",
+    "pinyin": "zhèngshū",
+    "meaning": "sertifika, belge",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他拿到了毕业证书。",
+        "pinyin": "Tā nádàole bìyè zhèngshū.",
+        "en": "Mezuniyet sertifikasını aldı."
+      },
+      {
+        "zh": "这是一张结婚证书。",
+        "pinyin": "Zhè shì yì zhāng jiéhūn zhèngshū.",
+        "en": "Bu bir evlilik cüzdanı."
+      },
+      {
+        "zh": "她考取了汉语水平证书。",
+        "pinyin": "Tā kǎoqǔle Hànyǔ shuǐpíng zhèngshū.",
+        "en": "Çince seviye belgesini kazandı."
+      },
+      {
+        "zh": "证书需要盖章才有效。",
+        "pinyin": "Zhèngshū xūyào gàizhāng cái yǒuxiào.",
+        "en": "Belgenin geçerli olması için mühür gerekiyor."
+      },
+      {
+        "zh": "他把证书挂在墙上。",
+        "pinyin": "Tā bǎ zhèngshū guà zài qiáng shàng.",
+        "en": "Sertifikayı duvara astı."
+      }
+    ]
+  },
+  {
+    "id": "w7355",
+    "hanzi": "政",
+    "pinyin": "zhèng",
+    "meaning": "siyaset, politika",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他对政事很感兴趣。",
+        "pinyin": "Tā duì zhèngshì hěn gǎn xìngqù.",
+        "en": "Siyasi işlerle ilgileniyor."
+      },
+      {
+        "zh": "他在政界工作多年。",
+        "pinyin": "Tā zài zhèngjiè gōngzuò duō nián.",
+        "en": "Yıllardır siyaset dünyasında çalışıyor."
+      },
+      {
+        "zh": "国家的政令要严格执行。",
+        "pinyin": "Guójiā de zhènglìng yào yángé zhíxíng.",
+        "en": "Devletin emirleri sıkı bir şekilde uygulanmalı."
+      },
+      {
+        "zh": "他从政多年，经验丰富。",
+        "pinyin": "Tā cóngzhèng duō nián, jīngyàn fēngfù.",
+        "en": "Yıllardır siyasetle uğraşıyor, deneyimi çok."
+      },
+      {
+        "zh": "政通人和，国家繁荣。",
+        "pinyin": "Zhèngtōng-rénhé, guójiā fánróng.",
+        "en": "Yönetim iyi işleyince, ülke refaha kavuşur."
+      }
+    ]
+  },
+  {
+    "id": "w7356",
+    "hanzi": "政敌",
+    "pinyin": "zhèngdí",
+    "meaning": "siyasi rakip",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他和昔日的政敌握手言和。",
+        "pinyin": "Tā hé xīrì de zhèngdí wòshǒu-yánhé.",
+        "en": "Eski siyasi rakibiyle el sıkışıp barıştı."
+      },
+      {
+        "zh": "政敌之间的斗争非常激烈。",
+        "pinyin": "Zhèngdí zhījiān de dòuzhēng fēicháng jīliè.",
+        "en": "Siyasi rakipler arasındaki mücadele çok şiddetli."
+      }
+    ]
+  },
+  {
+    "id": "w7357",
+    "hanzi": "政法",
+    "pinyin": "zhèngfǎ",
+    "meaning": "siyaset ve hukuk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他毕业于政法大学。",
+        "pinyin": "Tā bìyè yú zhèngfǎ dàxué.",
+        "en": "Siyaset ve hukuk üniversitesinden mezun oldu."
+      },
+      {
+        "zh": "这是政法部门的职责。",
+        "pinyin": "Zhè shì zhèngfǎ bùmén de zhízé.",
+        "en": "Bu, hukuk ve siyaset biriminin görevidir."
+      }
+    ]
+  },
+  {
+    "id": "w7358",
+    "hanzi": "政见",
+    "pinyin": "zhèngjiàn",
+    "meaning": "siyasi görüş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两人政见不同。",
+        "pinyin": "Liǎng rén zhèngjiàn bùtóng.",
+        "en": "İkisinin siyasi görüşleri farklı."
+      },
+      {
+        "zh": "候选人发表了自己的政见。",
+        "pinyin": "Hòuxuǎnrén fābiǎole zìjǐ de zhèngjiàn.",
+        "en": "Aday kendi siyasi görüşlerini açıkladı."
+      }
+    ]
+  },
+  {
+    "id": "w7359",
+    "hanzi": "政界",
+    "pinyin": "zhèngjiè",
+    "meaning": "siyaset dünyası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他在政界很有影响力。",
+        "pinyin": "Tā zài zhèngjiè hěn yǒu yǐngxiǎnglì.",
+        "en": "Siyaset dünyasında çok etkili."
+      },
+      {
+        "zh": "她决定退出政界。",
+        "pinyin": "Tā juédìng tuìchū zhèngjiè.",
+        "en": "Siyaset dünyasından çekilmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7360",
+    "hanzi": "政局",
+    "pinyin": "zhèngjú",
+    "meaning": "siyasi durum",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个国家的政局很不稳定。",
+        "pinyin": "Zhège guójiā de zhèngjú hěn bù wěndìng.",
+        "en": "Bu ülkenin siyasi durumu çok istikrarsız."
+      },
+      {
+        "zh": "选举后政局发生了变化。",
+        "pinyin": "Xuǎnjǔ hòu zhèngjú fāshēngle biànhuà.",
+        "en": "Seçimden sonra siyasi durum değişti."
+      }
+    ]
+  },
+  {
+    "id": "w7361",
+    "hanzi": "政客",
+    "pinyin": "zhèngkè",
+    "meaning": "politikacı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "很多人不信任政客的承诺。",
+        "pinyin": "Hěn duō rén bú xìnrèn zhèngkè de chéngnuò.",
+        "en": "Birçok kişi politikacıların sözlerine güvenmiyor."
+      },
+      {
+        "zh": "他被批评是个投机的政客。",
+        "pinyin": "Tā bèi pīpíng shì gè tóujī de zhèngkè.",
+        "en": "Fırsatçı bir politikacı olmakla eleştirildi."
+      },
+      {
+        "zh": "老百姓对政客早已失望。",
+        "pinyin": "Lǎobǎixìng duì zhèngkè zǎoyǐ shīwàng.",
+        "en": "Halk politikacılara zaten hayal kırıklığına uğramış durumda."
+      },
+      {
+        "zh": "这位政客的言论引起了争议。",
+        "pinyin": "Zhè wèi zhèngkè de yánlùn yǐnqǐle zhēngyì.",
+        "en": "Bu politikacının sözleri tartışmaya yol açtı."
+      },
+      {
+        "zh": "许多年轻人对政客持怀疑态度。",
+        "pinyin": "Xǔduō niánqīngrén duì zhèngkè chí huáiyí tàidù.",
+        "en": "Birçok genç, politikacılara kuşkuyla yaklaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7362",
+    "hanzi": "政权",
+    "pinyin": "zhèngquán",
+    "meaning": "siyasi güç, iktidar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "新政权成立了。",
+        "pinyin": "Xīn zhèngquán chénglì le.",
+        "en": "Yeni iktidar kuruldu."
+      },
+      {
+        "zh": "他们推翻了旧政权。",
+        "pinyin": "Tāmen tuīfānle jiù zhèngquán.",
+        "en": "Eski iktidarı devirdiler."
+      },
+      {
+        "zh": "这个政权统治了近三十年。",
+        "pinyin": "Zhège zhèngquán tǒngzhìle jìn sānshí nián.",
+        "en": "Bu iktidar neredeyse otuz yıl boyunca hüküm sürdü."
+      },
+      {
+        "zh": "政权更迭是历史常态。",
+        "pinyin": "Zhèngquán gēngdié shì lìshǐ chángtài.",
+        "en": "İktidar değişimi tarihte sıkça yaşanan bir durumdur."
+      },
+      {
+        "zh": "他们通过选举获得了政权。",
+        "pinyin": "Tāmen tōngguò xuǎnjǔ huòdéle zhèngquán.",
+        "en": "Seçim yoluyla iktidarı ele geçirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w7363",
+    "hanzi": "政体",
+    "pinyin": "zhèngtǐ",
+    "meaning": "devlet yönetim sistemi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "民主政体强调选举。",
+        "pinyin": "Mínzhǔ zhèngtǐ qiángdiào xuǎnjǔ.",
+        "en": "Demokratik yönetim sistemi seçimlere vurgu yapar."
+      },
+      {
+        "zh": "这个国家实行君主政体。",
+        "pinyin": "Zhège guójiā shíxíng jūnzhǔ zhèngtǐ.",
+        "en": "Bu ülke monarşik bir yönetim sistemi uyguluyor."
+      }
+    ]
+  },
+  {
+    "id": "w7364",
+    "hanzi": "政务",
+    "pinyin": "zhèngwù",
+    "meaning": "kamu işleri, devlet işleri",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他忙于处理政务。",
+        "pinyin": "Tā mángyú chǔlǐ zhèngwù.",
+        "en": "Devlet işlerini halletmekle meşgul."
+      },
+      {
+        "zh": "政务公开有利于监督。",
+        "pinyin": "Zhèngwù gōngkāi yǒulìyú jiāndū.",
+        "en": "Kamu işlerinin şeffaflığı denetime yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w7365",
+    "hanzi": "只身",
+    "pinyin": "zhīshēn",
+    "meaning": "tek başına, yalnız başına",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "他只身一人来到这座城市。",
+        "pinyin": "Tā zhīshēn yìrén láidào zhè zuò chéngshì.",
+        "en": "Bu şehre tek başına geldi."
+      },
+      {
+        "zh": "她只身前往国外求学。",
+        "pinyin": "Tā zhīshēn qiánwǎng guówài qiúxué.",
+        "en": "Eğitim için tek başına yurt dışına gitti."
+      }
+    ]
+  },
+  {
+    "id": "w7366",
+    "hanzi": "只言片语",
+    "pinyin": "zhīyán-piànyǔ",
+    "meaning": "birkaç kelime, kısa söz",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他只留下了只言片语就走了。",
+        "pinyin": "Tā zhǐ liúxiàle zhīyán-piànyǔ jiù zǒu le.",
+        "en": "Sadece birkaç kelime bırakıp gitti."
+      },
+      {
+        "zh": "从他的只言片语中我猜到了真相。",
+        "pinyin": "Cóng tā de zhīyán-piànyǔ zhōng wǒ cāidàole zhēnxiàng.",
+        "en": "Onun birkaç sözünden gerçeği tahmin ettim."
+      }
+    ]
+  },
+  {
+    "id": "w7367",
+    "hanzi": "芝麻",
+    "pinyin": "zhīma",
+    "meaning": "susam",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yemek",
+    "examples": [
+      {
+        "zh": "这个饼上撒了芝麻。",
+        "pinyin": "Zhège bǐng shàng sǎle zhīma.",
+        "en": "Bu pidenin üzerine susam serpilmiş."
+      },
+      {
+        "zh": "芝麻油很香。",
+        "pinyin": "Zhīmayóu hěn xiāng.",
+        "en": "Susam yağı çok kokulu."
+      },
+      {
+        "zh": "她喜欢吃芝麻糊。",
+        "pinyin": "Tā xǐhuan chī zhīmahú.",
+        "en": "Susam lapası yemeyi seviyor."
+      },
+      {
+        "zh": "芝麻虽小，营养丰富。",
+        "pinyin": "Zhīma suī xiǎo, yíngyǎng fēngfù.",
+        "en": "Susam küçük olsa da besin değeri yüksektir."
+      },
+      {
+        "zh": "他往面包上撒了些芝麻。",
+        "pinyin": "Tā wǎng miànbāo shàng sǎle xiē zhīma.",
+        "en": "Ekmeğin üzerine biraz susam serpti."
+      }
+    ]
+  },
+  {
+    "id": "w7368",
+    "hanzi": "支部",
+    "pinyin": "zhībù",
+    "meaning": "şube (parti veya örgüt)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是这个支部的书记。",
+        "pinyin": "Tā shì zhège zhībù de shūjì.",
+        "en": "Bu şubenin sekreteri o."
+      },
+      {
+        "zh": "支部召开了会议。",
+        "pinyin": "Zhībù zhàokāile huìyì.",
+        "en": "Şube bir toplantı düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "w7369",
+    "hanzi": "支撑",
+    "pinyin": "zhīchēng",
+    "meaning": "desteklemek, ayakta tutmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "柱子支撑着整座房子。",
+        "pinyin": "Zhùzi zhīchēngzhe zhěng zuò fángzi.",
+        "en": "Sütun tüm evi ayakta tutuyor."
+      },
+      {
+        "zh": "他靠信念支撑着自己。",
+        "pinyin": "Tā kào xìnniàn zhīchēngzhe zìjǐ.",
+        "en": "İnancıyla kendini ayakta tutuyor."
+      },
+      {
+        "zh": "这个企业靠贷款支撑运营。",
+        "pinyin": "Zhège qǐyè kào dàikuǎn zhīchēng yùnyíng.",
+        "en": "Bu şirket faaliyetlerini kredi ile sürdürüyor."
+      },
+      {
+        "zh": "他用拐杖支撑着走路。",
+        "pinyin": "Tā yòng guǎizhàng zhīchēngzhe zǒulù.",
+        "en": "Bastonla desteklenerek yürüyor."
+      },
+      {
+        "zh": "家人的爱是他坚持下去的支撑。",
+        "pinyin": "Jiārén de ài shì tā jiānchí xiàqù de zhīchēng.",
+        "en": "Ailesinin sevgisi onun devam etmesini sağlayan destek."
+      }
+    ]
+  },
+  {
+    "id": "w7370",
+    "hanzi": "支出",
+    "pinyin": "zhīchū",
+    "meaning": "harcamak; gider, masraf",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "这个月的支出比上个月多。",
+        "pinyin": "Zhège yuè de zhīchū bǐ shàng gè yuè duō.",
+        "en": "Bu ayki gider geçen aydan fazla."
+      },
+      {
+        "zh": "公司要控制支出。",
+        "pinyin": "Gōngsī yào kòngzhì zhīchū.",
+        "en": "Şirket giderleri kontrol altında tutmalı."
+      },
+      {
+        "zh": "教育支出占家庭预算很大比例。",
+        "pinyin": "Jiàoyù zhīchū zhàn jiātíng yùsuàn hěn dà bǐlì.",
+        "en": "Eğitim gideri aile bütçesinde büyük bir pay tutuyor."
+      },
+      {
+        "zh": "他每月记录自己的支出。",
+        "pinyin": "Tā měi yuè jìlù zìjǐ de zhīchū.",
+        "en": "Her ay kendi harcamalarını kaydediyor."
+      },
+      {
+        "zh": "这笔支出已经超出预算。",
+        "pinyin": "Zhè bǐ zhīchū yǐjīng chāochū yùsuàn.",
+        "en": "Bu harcama bütçeyi çoktan aştı."
+      }
+    ]
+  },
+  {
+    "id": "w7371",
+    "hanzi": "支点",
+    "pinyin": "zhīdiǎn",
+    "meaning": "dayanak noktası, mesnet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "杠杆需要一个支点。",
+        "pinyin": "Gànggǎn xūyào yí gè zhīdiǎn.",
+        "en": "Kaldıracın bir dayanak noktasına ihtiyacı var."
+      },
+      {
+        "zh": "找到支点才能撬起重物。",
+        "pinyin": "Zhǎodào zhīdiǎn cái néng qiàoqǐ zhòngwù.",
+        "en": "Ancak dayanak noktası bulunca ağır cismi kaldırabilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w7372",
+    "hanzi": "支付",
+    "pinyin": "zhīfù",
+    "meaning": "ödemek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "你可以用手机支付。",
+        "pinyin": "Nǐ kěyǐ yòng shǒujī zhīfù.",
+        "en": "Telefonla ödeme yapabilirsin."
+      },
+      {
+        "zh": "他支付了全部费用。",
+        "pinyin": "Tā zhīfùle quánbù fèiyòng.",
+        "en": "Tüm ücreti ödedi."
+      },
+      {
+        "zh": "请在三天内支付货款。",
+        "pinyin": "Qǐng zài sān tiān nèi zhīfù huòkuǎn.",
+        "en": "Lütfen üç gün içinde ödemeyi yapın."
+      },
+      {
+        "zh": "公司按时支付工资。",
+        "pinyin": "Gōngsī ànshí zhīfù gōngzī.",
+        "en": "Şirket maaşları zamanında ödüyor."
+      },
+      {
+        "zh": "这种支付方式很方便。",
+        "pinyin": "Zhè zhǒng zhīfù fāngshì hěn fāngbiàn.",
+        "en": "Bu ödeme yöntemi çok pratik."
+      }
+    ]
+  },
+  {
+    "id": "w7373",
+    "hanzi": "支架",
+    "pinyin": "zhījià",
+    "meaning": "destek, dayanak, sehpa",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "手机放在支架上。",
+        "pinyin": "Shǒujī fàng zài zhījià shàng.",
+        "en": "Telefon sehpanın üzerinde duruyor."
+      },
+      {
+        "zh": "医生给他装了心脏支架。",
+        "pinyin": "Yīshēng gěi tā zhuāngle xīnzàng zhījià.",
+        "en": "Doktor ona kalp stenti taktı."
+      },
+      {
+        "zh": "这个书架的支架不够稳固。",
+        "pinyin": "Zhège shūjià de zhījià bùgòu wěngù.",
+        "en": "Bu kitaplığın desteği yeterince sağlam değil."
+      },
+      {
+        "zh": "他把相机固定在支架上。",
+        "pinyin": "Tā bǎ xiàngjī gùdìng zài zhījià shàng.",
+        "en": "Fotoğraf makinesini sehpaya sabitledi."
+      },
+      {
+        "zh": "帐篷需要支架撑起来。",
+        "pinyin": "Zhàngpeng xūyào zhījià chēng qǐlái.",
+        "en": "Çadırın kurulması için destek gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7374",
+    "hanzi": "支离破碎",
+    "pinyin": "zhīlí-pòsuì",
+    "meaning": "paramparça olmuş, darmadağın",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "战争让这个国家支离破碎。",
+        "pinyin": "Zhànzhēng ràng zhège guójiā zhīlí-pòsuì.",
+        "en": "Savaş bu ülkeyi paramparça etti."
+      },
+      {
+        "zh": "他的计划支离破碎，无法实施。",
+        "pinyin": "Tā de jìhuà zhīlí-pòsuì, wúfǎ shíshī.",
+        "en": "Planı darmadağın olduğu için uygulanamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7375",
+    "hanzi": "支流",
+    "pinyin": "zhīliú",
+    "meaning": "kol (nehrin), yan kol",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这条河有很多支流。",
+        "pinyin": "Zhè tiáo hé yǒu hěn duō zhīliú.",
+        "en": "Bu nehrin birçok kolu var."
+      },
+      {
+        "zh": "小镇位于一条支流旁。",
+        "pinyin": "Xiǎo zhèn wèiyú yì tiáo zhīliú páng.",
+        "en": "Kasaba bir nehir koluna yakın konumda."
+      },
+      {
+        "zh": "这个支流最终汇入长江。",
+        "pinyin": "Zhège zhīliú zuìzhōng huìrù Chángjiāng.",
+        "en": "Bu kol sonunda Yangtze Nehri'ne katılıyor."
+      },
+      {
+        "zh": "支流的水量比主流小。",
+        "pinyin": "Zhīliú de shuǐliàng bǐ zhǔliú xiǎo.",
+        "en": "Kol nehrin su miktarı ana nehirden azdır."
+      },
+      {
+        "zh": "科学家在支流采集了水样。",
+        "pinyin": "Kēxuéjiā zài zhīliú cǎijíle shuǐyàng.",
+        "en": "Bilim insanları nehir kolundan su örnekleri topladı."
+      }
+    ]
+  },
+  {
+    "id": "w7376",
+    "hanzi": "支配",
+    "pinyin": "zhīpèi",
+    "meaning": "yönlendirmek, tahsis etmek, kontrol altında tutmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不愿被别人支配。",
+        "pinyin": "Tā bú yuàn bèi biérén zhīpèi.",
+        "en": "Başkaları tarafından yönlendirilmek istemiyor."
+      },
+      {
+        "zh": "情绪支配着他的决定。",
+        "pinyin": "Qíngxù zhīpèizhe tā de juédìng.",
+        "en": "Duyguları kararlarını yönlendiriyor."
+      },
+      {
+        "zh": "她可以自由支配这笔钱。",
+        "pinyin": "Tā kěyǐ zìyóu zhīpèi zhè bǐ qián.",
+        "en": "Bu parayı özgürce kullanabilir."
+      },
+      {
+        "zh": "公司支配着市场价格。",
+        "pinyin": "Gōngsī zhīpèizhe shìchǎng jiàgé.",
+        "en": "Şirket piyasa fiyatlarını kontrol ediyor."
+      },
+      {
+        "zh": "他习惯支配别人的时间。",
+        "pinyin": "Tā xíguàn zhīpèi biérén de shíjiān.",
+        "en": "Başkalarının zamanını yönlendirmeye alışkın."
+      }
+    ]
+  },
+  {
+    "id": "w7377",
+    "hanzi": "支援",
+    "pinyin": "zhīyuán",
+    "meaning": "destek olmak, yardım etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "我们要支援灾区人民。",
+        "pinyin": "Wǒmen yào zhīyuán zāiqū rénmín.",
+        "en": "Afet bölgesindeki halka yardım etmeliyiz."
+      },
+      {
+        "zh": "医疗队前往支援。",
+        "pinyin": "Yīliáoduì qiánwǎng zhīyuán.",
+        "en": "Sağlık ekibi destek olmaya gitti."
+      },
+      {
+        "zh": "各地纷纷支援抗震救灾。",
+        "pinyin": "Gèdì fēnfēn zhīyuán kàngzhèn-jiùzāi.",
+        "en": "Her yerden deprem yardımına destek geldi."
+      },
+      {
+        "zh": "公司派出物资支援当地学校。",
+        "pinyin": "Gōngsī pàichū wùzī zhīyuán dāngdì xuéxiào.",
+        "en": "Şirket yerel okula destek malzemesi gönderdi."
+      },
+      {
+        "zh": "他志愿去边远地区支援教育。",
+        "pinyin": "Tā zhìyuàn qù biānyuǎn dìqū zhīyuán jiàoyù.",
+        "en": "Uzak bölgelere eğitim desteği vermek için gönüllü oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7378",
+    "hanzi": "支柱",
+    "pinyin": "zhīzhù",
+    "meaning": "sütun, dayanak, temel destek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这根支柱支撑着整个屋顶。",
+        "pinyin": "Zhè gēn zhīzhù zhīchēngzhe zhěnggè wūdǐng.",
+        "en": "Bu sütun tüm çatıyı taşıyor."
+      },
+      {
+        "zh": "旅游业是这座城市的经济支柱。",
+        "pinyin": "Lǚyóuyè shì zhè zuò chéngshì de jīngjì zhīzhù.",
+        "en": "Turizm bu şehrin ekonomik temel dayanağıdır."
+      },
+      {
+        "zh": "他是家庭的精神支柱。",
+        "pinyin": "Tā shì jiātíng de jīngshén zhīzhù.",
+        "en": "Ailenin manevi desteğidir."
+      },
+      {
+        "zh": "这个行业是国家的支柱产业。",
+        "pinyin": "Zhège hángyè shì guójiā de zhīzhù chǎnyè.",
+        "en": "Bu sektör ülkenin temel sanayi kolu."
+      },
+      {
+        "zh": "支柱倒塌导致建筑损毁。",
+        "pinyin": "Zhīzhù dǎotā dǎozhì jiànzhù sǔnhuǐ.",
+        "en": "Sütunun çökmesi binanın hasar görmesine yol açtı."
+      }
+    ]
   }
 ]

@@ -253387,5 +253387,818 @@
         "en": "Havale yaparken alıcı bilgisinin onaylanması gerekiyor."
       }
     ]
+  },
+  {
+    "id": "w7715",
+    "hanzi": "转折",
+    "pinyin": "zhuǎnzhé",
+    "meaning": "dönüm noktası, değişim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是他人生的重要转折。",
+        "pinyin": "Zhè shì tā rénshēng de zhòngyào zhuǎnzhé.",
+        "en": "Bu onun hayatındaki önemli bir dönüm noktası."
+      },
+      {
+        "zh": "故事情节出现了转折。",
+        "pinyin": "Gùshi qíngjié chūxiànle zhuǎnzhé.",
+        "en": "Hikaye örgüsünde bir dönüş oldu."
+      },
+      {
+        "zh": "公司业绩出现了转折点。",
+        "pinyin": "Gōngsī yèjì chūxiànle zhuǎnzhédiǎn.",
+        "en": "Şirketin performansında bir dönüm noktası oluştu."
+      },
+      {
+        "zh": "这句话是全文的转折点。",
+        "pinyin": "Zhè jù huà shì quánwén de zhuǎnzhédiǎn.",
+        "en": "Bu cümle metnin dönüm noktasıdır."
+      },
+      {
+        "zh": "经济正处于转折时期。",
+        "pinyin": "Jīngjì zhèng chǔyú zhuǎnzhé shíqī.",
+        "en": "Ekonomi bir dönüşüm döneminden geçiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7716",
+    "hanzi": "转动",
+    "pinyin": "zhuàndòng",
+    "meaning": "dönmek, döndürmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他转动了门把手。",
+        "pinyin": "Tā zhuàndòngle mén bǎshǒu.",
+        "en": "Kapı kolunu çevirdi."
+      },
+      {
+        "zh": "地球不停地转动。",
+        "pinyin": "Dìqiú bùtíng de zhuàndòng.",
+        "en": "Dünya durmadan dönüyor."
+      },
+      {
+        "zh": "风扇正在转动。",
+        "pinyin": "Fēngshàn zhèngzài zhuàndòng.",
+        "en": "Vantilatör dönüyor."
+      },
+      {
+        "zh": "他转动着眼睛四处张望。",
+        "pinyin": "Tā zhuàndòngzhe yǎnjing sìchù zhāngwàng.",
+        "en": "Gözlerini çevirerek etrafına bakıyordu."
+      },
+      {
+        "zh": "轮子转动得很快。",
+        "pinyin": "Lúnzi zhuàndòng de hěn kuài.",
+        "en": "Tekerlek çok hızlı dönüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7717",
+    "hanzi": "转速",
+    "pinyin": "zhuànsù",
+    "meaning": "devir hızı (RPM)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "发动机转速过高。",
+        "pinyin": "Fādòngjī zhuànsù guò gāo.",
+        "en": "Motorun devri çok yüksek."
+      },
+      {
+        "zh": "他调低了风扇的转速。",
+        "pinyin": "Tā tiáodīle fēngshàn de zhuànsù.",
+        "en": "Vantilatörün devrini düşürdü."
+      }
+    ]
+  },
+  {
+    "id": "w7718",
+    "hanzi": "传记",
+    "pinyin": "zhuànjì",
+    "meaning": "biyografi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他写了一本自传。",
+        "pinyin": "Tā xiěle yì běn zìzhuàn.",
+        "en": "Bir otobiyografi yazdı."
+      },
+      {
+        "zh": "我在读一本名人传记。",
+        "pinyin": "Wǒ zài dú yì běn míngrén zhuànjì.",
+        "en": "Ünlü bir kişinin biyografisini okuyorum."
+      },
+      {
+        "zh": "这部传记详细记录了他的一生。",
+        "pinyin": "Zhè bù zhuànjì xiángxì jìlùle tā de yìshēng.",
+        "en": "Bu biyografi onun hayatını ayrıntılı olarak anlatıyor."
+      },
+      {
+        "zh": "她计划写一本关于母亲的传记。",
+        "pinyin": "Tā jìhuà xiě yì běn guānyú mǔqin de zhuànjì.",
+        "en": "Annesi hakkında bir biyografi yazmayı planlıyor."
+      },
+      {
+        "zh": "这本传记非常畅销。",
+        "pinyin": "Zhè běn zhuànjì fēicháng chàngxiāo.",
+        "en": "Bu biyografi çok satan bir kitap."
+      }
+    ]
+  },
+  {
+    "id": "w7719",
+    "hanzi": "撰写",
+    "pinyin": "zhuànxiě",
+    "meaning": "yazmak (resmi bir metin, makale vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他正在撰写论文。",
+        "pinyin": "Tā zhèngzài zhuànxiě lùnwén.",
+        "en": "Bir tez yazıyor."
+      },
+      {
+        "zh": "她撰写了一篇关于气候变化的报告。",
+        "pinyin": "Tā zhuànxiěle yì piān guānyú qìhòu biànhuà de bàogào.",
+        "en": "İklim değişikliği hakkında bir rapor yazdı."
+      },
+      {
+        "zh": "这本书由多位专家共同撰写。",
+        "pinyin": "Zhè běn shū yóu duō wèi zhuānjiā gòngtóng zhuànxiě.",
+        "en": "Bu kitap birçok uzman tarafından birlikte kaleme alınmıştır."
+      },
+      {
+        "zh": "他被邀请撰写序言。",
+        "pinyin": "Tā bèi yāoqǐng zhuànxiě xùyán.",
+        "en": "Önsöz yazmaya davet edildi."
+      },
+      {
+        "zh": "撰写一份合同需要严谨的措辞。",
+        "pinyin": "Zhuànxiě yí fèn hétong xūyào yánjǐn de cuòcí.",
+        "en": "Bir sözleşme yazmak dikkatli bir ifade gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w7720",
+    "hanzi": "妆",
+    "pinyin": "zhuāng",
+    "meaning": "makyaj",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她今天化了很浓的妆。",
+        "pinyin": "Tā jīntiān huàle hěn nóng de zhuāng.",
+        "en": "Bugün çok yoğun makyaj yaptı."
+      },
+      {
+        "zh": "她卸了妆才睡觉。",
+        "pinyin": "Tā xièle zhuāng cái shuìjiào.",
+        "en": "Makyajını sildikten sonra uyudu."
+      },
+      {
+        "zh": "新娘的妆很精致。",
+        "pinyin": "Xīnniáng de zhuāng hěn jīngzhì.",
+        "en": "Gelinin makyajı çok özenli."
+      },
+      {
+        "zh": "她花了一个小时化妆。",
+        "pinyin": "Tā huāle yí gè xiǎoshí huàzhuāng.",
+        "en": "Makyaj yapmak için bir saat harcadı."
+      },
+      {
+        "zh": "她的妆容很自然。",
+        "pinyin": "Tā de zhuāngróng hěn zìrán.",
+        "en": "Makyajı çok doğal görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7721",
+    "hanzi": "庄",
+    "pinyin": "zhuāng",
+    "meaning": "köy, çiftlik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他住在一个小庄子里。",
+        "pinyin": "Tā zhù zài yí gè xiǎo zhuāngzi lǐ.",
+        "en": "Küçük bir köyde yaşıyor."
+      },
+      {
+        "zh": "这个村庄历史悠久。",
+        "pinyin": "Zhège cūnzhuāng lìshǐ yōujiǔ.",
+        "en": "Bu köyün tarihi çok eskiye dayanır."
+      },
+      {
+        "zh": "他们在庄子里种地为生。",
+        "pinyin": "Tāmen zài zhuāngzi lǐ zhòngdì wéishēng.",
+        "en": "Köyde tarım yaparak geçinirler."
+      },
+      {
+        "zh": "这个庄子的人都很淳朴。",
+        "pinyin": "Zhège zhuāngzi de rén dōu hěn chúnpǔ.",
+        "en": "Bu köyün insanları çok sade ve içten."
+      },
+      {
+        "zh": "山下有一个小庄子。",
+        "pinyin": "Shān xià yǒu yí gè xiǎo zhuāngzi.",
+        "en": "Dağın eteğinde küçük bir köy var."
+      }
+    ]
+  },
+  {
+    "id": "w7722",
+    "hanzi": "庄稼",
+    "pinyin": "zhuāngjia",
+    "meaning": "mahsul, ekin",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "田里的庄稼长得很好。",
+        "pinyin": "Tián lǐ de zhuāngjia zhǎng de hěn hǎo.",
+        "en": "Tarladaki mahsul çok iyi büyüyor."
+      },
+      {
+        "zh": "农民正在收庄稼。",
+        "pinyin": "Nóngmín zhèngzài shōu zhuāngjia.",
+        "en": "Çiftçiler mahsul topluyor."
+      },
+      {
+        "zh": "干旱导致庄稼歉收。",
+        "pinyin": "Gānhàn dǎozhì zhuāngjia qiànshōu.",
+        "en": "Kuraklık mahsulün az olmasına neden oldu."
+      },
+      {
+        "zh": "他从小就帮家里种庄稼。",
+        "pinyin": "Tā cóngxiǎo jiù bāng jiā lǐ zhòng zhuāngjia.",
+        "en": "Küçüklüğünden beri ailesine mahsul ekmede yardım ediyor."
+      },
+      {
+        "zh": "秋天是庄稼成熟的季节。",
+        "pinyin": "Qiūtiān shì zhuāngjia chéngshú de jìjié.",
+        "en": "Sonbahar mahsulün olgunlaştığı mevsimdir."
+      }
+    ]
+  },
+  {
+    "id": "w7723",
+    "hanzi": "庄严",
+    "pinyin": "zhuāngyán",
+    "meaning": "ağırbaşlı, ciddi, vakur",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "升旗仪式非常庄严。",
+        "pinyin": "Shēngqí yíshì fēicháng zhuāngyán.",
+        "en": "Bayrak töreni son derece ağırbaşlıydı."
+      },
+      {
+        "zh": "他神情庄严地宣誓。",
+        "pinyin": "Tā shénqíng zhuāngyán de xuānshì.",
+        "en": "Ciddi bir ifadeyle yemin etti."
+      },
+      {
+        "zh": "教堂内气氛庄严肃穆。",
+        "pinyin": "Jiàotáng nèi qìfēn zhuāngyán-sùmù.",
+        "en": "Kilisenin içindeki hava son derece ciddi ve saygılı."
+      },
+      {
+        "zh": "国歌响起，全场庄严肃立。",
+        "pinyin": "Guógē xiǎngqǐ, quánchǎng zhuāngyán sùlì.",
+        "en": "Milli marş çalınca herkes ciddiyetle ayakta durdu."
+      },
+      {
+        "zh": "毕业典礼的气氛庄严而感人。",
+        "pinyin": "Bìyè diǎnlǐ de qìfēn zhuāngyán ér gǎnrén.",
+        "en": "Mezuniyet töreninin havası hem ağırbaşlı hem duygusaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7724",
+    "hanzi": "庄园",
+    "pinyin": "zhuāngyuán",
+    "meaning": "malikane, çiftlik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他拥有一座豪华庄园。",
+        "pinyin": "Tā yōngyǒu yí zuò háohuá zhuāngyuán.",
+        "en": "Lüks bir malikaneye sahip."
+      },
+      {
+        "zh": "这座庄园有几百年历史。",
+        "pinyin": "Zhè zuò zhuāngyuán yǒu jǐ bǎi nián lìshǐ.",
+        "en": "Bu malikanenin yüzyıllarca geçmişi var."
+      }
+    ]
+  },
+  {
+    "id": "w7725",
+    "hanzi": "庄重",
+    "pinyin": "zhuāngzhòng",
+    "meaning": "ciddi, vakur, ağırbaşlı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他说话很庄重。",
+        "pinyin": "Tā shuōhuà hěn zhuāngzhòng.",
+        "en": "Konuşması çok ciddi ve ağırbaşlı."
+      },
+      {
+        "zh": "婚礼要有庄重的仪式感。",
+        "pinyin": "Hūnlǐ yào yǒu zhuāngzhòng de yíshìgǎn.",
+        "en": "Düğünün ciddi bir tören havası olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w7726",
+    "hanzi": "装扮",
+    "pinyin": "zhuāngbàn",
+    "meaning": "kılık kıyafetini değiştirmek, süslenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她把自己装扮得漂漂亮亮的。",
+        "pinyin": "Tā bǎ zìjǐ zhuāngbàn de piàopiàoliàngliàng de.",
+        "en": "Kendini çok güzel hazırladı."
+      },
+      {
+        "zh": "他装扮成圣诞老人参加聚会。",
+        "pinyin": "Tā zhuāngbàn chéng Shèngdàn Lǎorén cānjiā jùhuì.",
+        "en": "Noel Baba kılığında partiye katıldı."
+      },
+      {
+        "zh": "房间被装扮得很有节日气氛。",
+        "pinyin": "Fángjiān bèi zhuāngbàn de hěn yǒu jiérì qìfēn.",
+        "en": "Oda bayram havasında süslenmiş."
+      },
+      {
+        "zh": "她精心装扮迎接客人。",
+        "pinyin": "Tā jīngxīn zhuāngbàn yíngjiē kèrén.",
+        "en": "Misafirleri karşılamak için özenle hazırlandı."
+      },
+      {
+        "zh": "商场被装扮成了童话世界。",
+        "pinyin": "Shāngchǎng bèi zhuāngbàn chéngle tónghuà shìjiè.",
+        "en": "AVM masal dünyasına dönüştürülmüş."
+      }
+    ]
+  },
+  {
+    "id": "w7727",
+    "hanzi": "装备",
+    "pinyin": "zhuāngbèi",
+    "meaning": "donanım, teçhizat; donatmak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他们带齐了登山装备。",
+        "pinyin": "Tāmen dàiqíle dēngshān zhuāngbèi.",
+        "en": "Dağcılık ekipmanlarını eksiksiz aldılar."
+      },
+      {
+        "zh": "军队更新了装备。",
+        "pinyin": "Jūnduì gēngxīnle zhuāngbèi.",
+        "en": "Ordu ekipmanını yeniledi."
+      },
+      {
+        "zh": "这个实验室装备了先进的仪器。",
+        "pinyin": "Zhège shíyànshì zhuāngbèile xiānjìn de yíqì.",
+        "en": "Bu laboratuvar gelişmiş cihazlarla donatılmış."
+      },
+      {
+        "zh": "运动装备很贵。",
+        "pinyin": "Yùndòng zhuāngbèi hěn guì.",
+        "en": "Spor ekipmanları çok pahalı."
+      },
+      {
+        "zh": "消防员穿戴齐全的防护装备。",
+        "pinyin": "Xiāofángyuán chuāndài qíquán de fánghù zhuāngbèi.",
+        "en": "İtfaiyeciler tam koruyucu ekipman giyiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7728",
+    "hanzi": "装订",
+    "pinyin": "zhuāngdìng",
+    "meaning": "ciltlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这本书装订得很精美。",
+        "pinyin": "Zhè běn shū zhuāngdìng de hěn jīngměi.",
+        "en": "Bu kitap çok zarif ciltlenmiş."
+      },
+      {
+        "zh": "他把报告装订成册。",
+        "pinyin": "Tā bǎ bàogào zhuāngdìng chéng cè.",
+        "en": "Raporu bir cilt haline getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7729",
+    "hanzi": "装潢",
+    "pinyin": "zhuānghuáng",
+    "meaning": "dekore etmek, süslemek (mekan)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "这家店的装潢很有特色。",
+        "pinyin": "Zhè jiā diàn de zhuānghuáng hěn yǒu tèsè.",
+        "en": "Bu dükkanın dekorasyonu çok özgün."
+      },
+      {
+        "zh": "他们请专业公司装潢办公室。",
+        "pinyin": "Tāmen qǐng zhuānyè gōngsī zhuānghuáng bàngōngshì.",
+        "en": "Ofisi dekore etmek için profesyonel bir şirket tuttular."
+      }
+    ]
+  },
+  {
+    "id": "w7730",
+    "hanzi": "装货",
+    "pinyin": "zhuānghuò",
+    "meaning": "mal yüklemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工人们正在给卡车装货。",
+        "pinyin": "Gōngrénmen zhèngzài gěi kǎchē zhuānghuò.",
+        "en": "İşçiler kamyona yük yüklüyor."
+      },
+      {
+        "zh": "船已经装货完毕，准备出发。",
+        "pinyin": "Chuán yǐjīng zhuānghuò wánbì, zhǔnbèi chūfā.",
+        "en": "Gemi yüklemeyi tamamladı, hareket etmeye hazır."
+      }
+    ]
+  },
+  {
+    "id": "w7731",
+    "hanzi": "装甲",
+    "pinyin": "zhuāngjiǎ",
+    "meaning": "zırhlı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "装甲车在街上巡逻。",
+        "pinyin": "Zhuāngjiǎchē zài jiē shàng xúnluó.",
+        "en": "Zırhlı araç sokakta devriye geziyor."
+      },
+      {
+        "zh": "这支部队隶属于装甲师。",
+        "pinyin": "Zhè zhī bùduì lìshǔ yú zhuāngjiǎshī.",
+        "en": "Bu birlik zırhlı tümene bağlı."
+      }
+    ]
+  },
+  {
+    "id": "w7732",
+    "hanzi": "装模作样",
+    "pinyin": "zhuāngmú-zuòyàng",
+    "meaning": "yapmacık davranmak, numara yapmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "别装模作样了，说实话。",
+        "pinyin": "Bié zhuāngmú-zuòyàng le, shuō shíhuà.",
+        "en": "Numara yapma, doğruyu söyle."
+      },
+      {
+        "zh": "他装模作样地看起书来。",
+        "pinyin": "Tā zhuāngmú-zuòyàng de kànqǐ shū lái.",
+        "en": "Yapmacık bir şekilde kitap okumaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w7733",
+    "hanzi": "装配",
+    "pinyin": "zhuāngpèi",
+    "meaning": "monte etmek, birleştirmek (makine parçalarını)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工人负责装配汽车零件。",
+        "pinyin": "Gōngrén fùzé zhuāngpèi qìchē língjiàn.",
+        "en": "İşçi araba parçalarını monte etmekle sorumlu."
+      },
+      {
+        "zh": "这条生产线专门装配电子设备。",
+        "pinyin": "Zhè tiáo shēngchǎnxiàn zhuānmén zhuāngpèi diànzǐ shèbèi.",
+        "en": "Bu üretim hattı özellikle elektronik cihazları monte ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7734",
+    "hanzi": "装腔作势",
+    "pinyin": "zhuāngqiāng-zuòshì",
+    "meaning": "yapmacık tavır sergilemek, ikiyüzlü davranmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他说话总是装腔作势。",
+        "pinyin": "Tā shuōhuà zǒngshì zhuāngqiāng-zuòshì.",
+        "en": "Konuşurken hep yapmacık bir tavır sergiliyor."
+      },
+      {
+        "zh": "别装腔作势了，我看穿你了。",
+        "pinyin": "Bié zhuāngqiāng-zuòshì le, wǒ kànchuān nǐ le.",
+        "en": "Numara yapmayı bırak, seni gördüm."
+      }
+    ]
+  },
+  {
+    "id": "w7735",
+    "hanzi": "装束",
+    "pinyin": "zhuāngshù",
+    "meaning": "kıyafet, giyim tarzı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Giyim",
+    "examples": [
+      {
+        "zh": "他今天的装束很正式。",
+        "pinyin": "Tā jīntiān de zhuāngshù hěn zhèngshì.",
+        "en": "Bugünkü kıyafeti çok resmi."
+      },
+      {
+        "zh": "她的装束显得很时尚。",
+        "pinyin": "Tā de zhuāngshù xiǎn de hěn shíshàng.",
+        "en": "Kıyafeti çok şık görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7736",
+    "hanzi": "装蒜",
+    "pinyin": "zhuāngsuàn",
+    "meaning": "bilmiyormuş gibi yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "别跟我装蒜了，你明明知道。",
+        "pinyin": "Bié gēn wǒ zhuāngsuàn le, nǐ míngmíng zhīdào.",
+        "en": "Bana bilmiyormuş gibi yapma, açıkça biliyorsun."
+      },
+      {
+        "zh": "他一问三不知，故意装蒜。",
+        "pinyin": "Tā yíwènsānbùzhī, gùyì zhuāngsuàn.",
+        "en": "Bir şey sorulduğunda hiçbir şey bilmiyormuş gibi kasıtlı davranıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7737",
+    "hanzi": "装卸",
+    "pinyin": "zhuāngxiè",
+    "meaning": "yüklemek ve boşaltmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工人们负责装卸货物。",
+        "pinyin": "Gōngrénmen fùzé zhuāngxiè huòwù.",
+        "en": "İşçiler malları yükleyip boşaltmaktan sorumlu."
+      },
+      {
+        "zh": "港口的装卸效率很高。",
+        "pinyin": "Gǎngkǒu de zhuāngxiè xiàolǜ hěn gāo.",
+        "en": "Limandaki yükleme boşaltma verimliliği çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w7738",
+    "hanzi": "装修",
+    "pinyin": "zhuāngxiū",
+    "meaning": "tadilat yapmak, dekore etmek (ev/mekan)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他们正在装修新房子。",
+        "pinyin": "Tāmen zhèngzài zhuāngxiū xīn fángzi.",
+        "en": "Yeni evlerinde tadilat yapıyorlar."
+      },
+      {
+        "zh": "装修花了三个月时间。",
+        "pinyin": "Zhuāngxiū huāle sān gè yuè shíjiān.",
+        "en": "Tadilat üç ay sürdü."
+      },
+      {
+        "zh": "这家餐厅装修得很有特色。",
+        "pinyin": "Zhè jiā cāntīng zhuāngxiū de hěn yǒu tèsè.",
+        "en": "Bu restoranın dekorasyonu çok özgün."
+      },
+      {
+        "zh": "我们请了设计师来装修。",
+        "pinyin": "Wǒmen qǐngle shèjìshī lái zhuāngxiū.",
+        "en": "Tadilat için bir tasarımcı tuttuk."
+      },
+      {
+        "zh": "装修费用超出了预算。",
+        "pinyin": "Zhuāngxiū fèiyòng chāochūle yùsuàn.",
+        "en": "Tadilat maliyeti bütçeyi aştı."
+      }
+    ]
+  },
+  {
+    "id": "w7739",
+    "hanzi": "装置",
+    "pinyin": "zhuāngzhì",
+    "meaning": "tesisat, cihaz, donanım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台机器装置了新的传感器。",
+        "pinyin": "Zhè tái jīqì zhuāngzhìle xīn de chuángǎnqì.",
+        "en": "Bu makineye yeni bir sensör monte edildi."
+      },
+      {
+        "zh": "工厂安装了安全装置。",
+        "pinyin": "Gōngchǎng ānzhuāngle ānquán zhuāngzhì.",
+        "en": "Fabrikaya güvenlik cihazı monte edildi."
+      },
+      {
+        "zh": "这个装置能自动调节温度。",
+        "pinyin": "Zhège zhuāngzhì néng zìdòng tiáojié wēndù.",
+        "en": "Bu cihaz sıcaklığı otomatik ayarlayabilir."
+      },
+      {
+        "zh": "实验室配备了先进的装置。",
+        "pinyin": "Shíyànshì pèibèile xiānjìn de zhuāngzhì.",
+        "en": "Laboratuvar gelişmiş cihazlarla donatılmış."
+      },
+      {
+        "zh": "这个装置检测出了漏水问题。",
+        "pinyin": "Zhège zhuāngzhì jiǎncè chūle lòushuǐ wèntí.",
+        "en": "Bu cihaz su sızıntısı sorununu tespit etti."
+      }
+    ]
+  },
+  {
+    "id": "w7740",
+    "hanzi": "桩",
+    "pinyin": "zhuāng",
+    "meaning": "kazık; adet (bazı olaylar için ölçü sözcüğü)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工人打入了几根木桩。",
+        "pinyin": "Gōngrén dǎrùle jǐ gēn mùzhuāng.",
+        "en": "İşçi birkaç ahşap kazık çaktı."
+      },
+      {
+        "zh": "这是一桩大事。",
+        "pinyin": "Zhè shì yì zhuāng dàshì.",
+        "en": "Bu büyük bir meseledir."
+      },
+      {
+        "zh": "他心里一直有桩心事。",
+        "pinyin": "Tā xīn lǐ yìzhí yǒu zhuāng xīnshì.",
+        "en": "İçinde her zaman bir dert taşıyor."
+      },
+      {
+        "zh": "这桩案子非常复杂。",
+        "pinyin": "Zhè zhuāng ànzi fēicháng fùzá.",
+        "en": "Bu dava son derece karmaşık."
+      },
+      {
+        "zh": "桥梁的桩基已经建好了。",
+        "pinyin": "Qiáoliáng de zhuāngjī yǐjīng jiànhǎo le.",
+        "en": "Köprünün kazık temeli tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w7741",
+    "hanzi": "壮",
+    "pinyin": "zhuàng",
+    "meaning": "güçlü, iri yarı; muhteşem",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他身体很壮。",
+        "pinyin": "Tā shēntǐ hěn zhuàng.",
+        "en": "Vücudu çok güçlü."
+      },
+      {
+        "zh": "这个年轻人长得又高又壮。",
+        "pinyin": "Zhège niánqīngrén zhǎng de yòu gāo yòu zhuàng.",
+        "en": "Bu genç hem uzun hem iri yarı."
+      },
+      {
+        "zh": "这头牛非常壮实。",
+        "pinyin": "Zhè tóu niú fēicháng zhuàngshi.",
+        "en": "Bu öküz oldukça güçlü ve sağlıklı."
+      },
+      {
+        "zh": "他的胆子很壮。",
+        "pinyin": "Tā de dǎnzi hěn zhuàng.",
+        "en": "Çok cesur."
+      },
+      {
+        "zh": "他觉得理直气壮。",
+        "pinyin": "Tā juéde lǐzhí-qìzhuàng.",
+        "en": "Haklı olduğu için kendinden emin hissediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7742",
+    "hanzi": "壮大",
+    "pinyin": "zhuàngdà",
+    "meaning": "güçlenmek, büyümek, genişlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "公司规模逐渐壮大了。",
+        "pinyin": "Gōngsī guīmó zhújiàn zhuàngdà le.",
+        "en": "Şirketin ölçeği giderek büyüdü."
+      },
+      {
+        "zh": "他们的队伍不断壮大。",
+        "pinyin": "Tāmen de duìwu bùduàn zhuàngdà.",
+        "en": "Ekipleri sürekli büyüyor."
+      },
+      {
+        "zh": "国家实力日益壮大。",
+        "pinyin": "Guójiā shílì rìyì zhuàngdà.",
+        "en": "Ülkenin gücü gün geçtikçe artıyor."
+      },
+      {
+        "zh": "这项运动逐渐发展壮大。",
+        "pinyin": "Zhè xiàng yùndòng zhújiàn fāzhǎn zhuàngdà.",
+        "en": "Bu hareket giderek gelişip büyüdü."
+      },
+      {
+        "zh": "企业需要不断壮大才能生存。",
+        "pinyin": "Qǐyè xūyào bùduàn zhuàngdà cái néng shēngcún.",
+        "en": "Şirketin hayatta kalabilmesi için sürekli büyümesi gerekiyor."
+      }
+    ]
   }
 ]

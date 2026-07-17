@@ -246085,5 +246085,773 @@
         "en": "Burada güvenlik her şeyden önce gelir."
       }
     ]
+  },
+  {
+    "id": "w7463",
+    "hanzi": "治",
+    "pinyin": "zhì",
+    "meaning": "yönetmek, idare etmek; tedavi etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这种病可以治好。",
+        "pinyin": "Zhè zhǒng bìng kěyǐ zhìhǎo.",
+        "en": "Bu hastalık iyileştirilebilir."
+      },
+      {
+        "zh": "他专治疑难杂症。",
+        "pinyin": "Tā zhuān zhì yínán-záhè zhèng.",
+        "en": "Zor teşhis edilen hastalıkları tedavi etmede uzman."
+      },
+      {
+        "zh": "国家要治好这个问题。",
+        "pinyin": "Guójiā yào zhìhǎo zhège wèntí.",
+        "en": "Devlet bu sorunu çözmeli."
+      },
+      {
+        "zh": "他被派去治理这个地区。",
+        "pinyin": "Tā bèi pàiqù zhìlǐ zhège dìqū.",
+        "en": "Bu bölgeyi yönetmek üzere görevlendirildi."
+      },
+      {
+        "zh": "这种草药能治感冒。",
+        "pinyin": "Zhè zhǒng cǎoyào néng zhì gǎnmào.",
+        "en": "Bu bitkisel ilaç gribi tedavi edebilir."
+      }
+    ]
+  },
+  {
+    "id": "w7464",
+    "hanzi": "治安",
+    "pinyin": "zhì'ān",
+    "meaning": "kamu güvenliği, asayiş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个地区治安很好。",
+        "pinyin": "Zhège dìqū zhì'ān hěn hǎo.",
+        "en": "Bu bölgenin asayişi çok iyi."
+      },
+      {
+        "zh": "警察负责维护社会治安。",
+        "pinyin": "Jǐngchá fùzé wéihù shèhuì zhì'ān.",
+        "en": "Polis toplumsal asayişi korumakla görevlidir."
+      },
+      {
+        "zh": "最近这里治安变差了。",
+        "pinyin": "Zuìjìn zhèlǐ zhì'ān biàn chà le.",
+        "en": "Son zamanlarda buranın asayişi kötüleşti."
+      },
+      {
+        "zh": "夜间治安巡逻加强了。",
+        "pinyin": "Yèjiān zhì'ān xúnluó jiāqiáng le.",
+        "en": "Gece asayiş devriyeleri artırıldı."
+      },
+      {
+        "zh": "良好的治安是发展的基础。",
+        "pinyin": "Liánghǎo de zhì'ān shì fāzhǎn de jīchǔ.",
+        "en": "İyi bir asayiş, kalkınmanın temelidir."
+      }
+    ]
+  },
+  {
+    "id": "w7465",
+    "hanzi": "治病救人",
+    "pinyin": "zhìbìng-jiùrén",
+    "meaning": "hastalığı tedavi edip insanı kurtarmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "医生的天职是治病救人。",
+        "pinyin": "Yīshēng de tiānzhí shì zhìbìng-jiùrén.",
+        "en": "Doktorun görevi hastalıkları tedavi edip insanları kurtarmaktır."
+      },
+      {
+        "zh": "他一生致力于治病救人。",
+        "pinyin": "Tā yìshēng zhìlì yú zhìbìng-jiùrén.",
+        "en": "Hayatını hastaları tedavi edip kurtarmaya adadı."
+      }
+    ]
+  },
+  {
+    "id": "w7466",
+    "hanzi": "治家",
+    "pinyin": "zhìjiā",
+    "meaning": "ev işlerini yönetmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她很会治家。",
+        "pinyin": "Tā hěn huì zhìjiā.",
+        "en": "Ev idaresinde çok başarılı."
+      },
+      {
+        "zh": "勤俭治家是传统美德。",
+        "pinyin": "Qínjiǎn zhìjiā shì chuántǒng měidé.",
+        "en": "Tutumlu ev idaresi geleneksel bir erdemdir."
+      }
+    ]
+  },
+  {
+    "id": "w7467",
+    "hanzi": "治理",
+    "pinyin": "zhìlǐ",
+    "meaning": "yönetmek, idare etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府正在治理污染问题。",
+        "pinyin": "Zhèngfǔ zhèngzài zhìlǐ wūrǎn wèntí.",
+        "en": "Hükümet kirlilik sorununu çözmeye çalışıyor."
+      },
+      {
+        "zh": "这条河已经得到治理。",
+        "pinyin": "Zhè tiáo hé yǐjīng dédào zhìlǐ.",
+        "en": "Bu nehir ıslah edildi."
+      },
+      {
+        "zh": "他有丰富的治理经验。",
+        "pinyin": "Tā yǒu fēngfù de zhìlǐ jīngyàn.",
+        "en": "Yönetim konusunda zengin deneyime sahip."
+      },
+      {
+        "zh": "有效治理需要各方配合。",
+        "pinyin": "Yǒuxiào zhìlǐ xūyào gèfāng pèihé.",
+        "en": "Etkin yönetim tüm tarafların iş birliğini gerektirir."
+      },
+      {
+        "zh": "国家致力于治理沙漠化。",
+        "pinyin": "Guójiā zhìlì yú zhìlǐ shāmòhuà.",
+        "en": "Devlet çölleşmeyle mücadele etmeye çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7468",
+    "hanzi": "治学",
+    "pinyin": "zhìxué",
+    "meaning": "ilmi çalışma yapmak, akademik çalışma",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他治学严谨。",
+        "pinyin": "Tā zhìxué yánjǐn.",
+        "en": "Akademik çalışmalarında titiz."
+      },
+      {
+        "zh": "治学需要耐心和毅力。",
+        "pinyin": "Zhìxué xūyào nàixīn hé yìlì.",
+        "en": "Bilimsel çalışma sabır ve azim gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w7469",
+    "hanzi": "治罪",
+    "pinyin": "zhìzuì",
+    "meaning": "cezalandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "法院依法对他治罪。",
+        "pinyin": "Fǎyuàn yīfǎ duì tā zhìzuì.",
+        "en": "Mahkeme kanuna göre onu cezalandırdı."
+      },
+      {
+        "zh": "犯罪者必将受到治罪。",
+        "pinyin": "Fànzuìzhě bìjiāng shòudào zhìzuì.",
+        "en": "Suçlular mutlaka cezalandırılacak."
+      }
+    ]
+  },
+  {
+    "id": "w7470",
+    "hanzi": "质",
+    "pinyin": "zhì",
+    "meaning": "nitelik, tabiat, madde",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "产品质量很重要。",
+        "pinyin": "Chǎnpǐn zhìliàng hěn zhòngyào.",
+        "en": "Ürün kalitesi çok önemli."
+      },
+      {
+        "zh": "他本质上是个善良的人。",
+        "pinyin": "Tā běnzhì shàng shì gè shànliáng de rén.",
+        "en": "Aslında iyi kalpli bir insan."
+      },
+      {
+        "zh": "这种物质很稀有。",
+        "pinyin": "Zhè zhǒng wùzhì hěn xīyǒu.",
+        "en": "Bu madde çok nadirdir."
+      },
+      {
+        "zh": "我们注重质而不是量。",
+        "pinyin": "Wǒmen zhùzhòng zhì ér búshì liàng.",
+        "en": "Nicelikten çok niteliğe önem veriyoruz."
+      },
+      {
+        "zh": "这块布的质地很好。",
+        "pinyin": "Zhè kuài bù de zhìdì hěn hǎo.",
+        "en": "Bu kumaşın dokusu çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w7471",
+    "hanzi": "质变",
+    "pinyin": "zhìbiàn",
+    "meaning": "nitelik değişikliği, köklü değişim",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "量变最终导致质变。",
+        "pinyin": "Liàngbiàn zuìzhōng dǎozhì zhìbiàn.",
+        "en": "Nicel değişim sonunda niteliksel değişime yol açar."
+      },
+      {
+        "zh": "公司经历了一次质变。",
+        "pinyin": "Gōngsī jīnglìle yí cì zhìbiàn.",
+        "en": "Şirket köklü bir dönüşüm geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7472",
+    "hanzi": "质地",
+    "pinyin": "zhìdì",
+    "meaning": "doku, yapı, karakter",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这件衣服质地柔软。",
+        "pinyin": "Zhè jiàn yīfu zhìdì róuruǎn.",
+        "en": "Bu kıyafetin dokusu yumuşak."
+      },
+      {
+        "zh": "这块玉的质地非常细腻。",
+        "pinyin": "Zhè kuài yù de zhìdì fēicháng xìnì.",
+        "en": "Bu yeşim taşının dokusu çok pürüzsüz."
+      }
+    ]
+  },
+  {
+    "id": "w7473",
+    "hanzi": "质朴",
+    "pinyin": "zhìpǔ",
+    "meaning": "sade, doğal, yalın",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "村民们质朴善良。",
+        "pinyin": "Cūnmínmen zhìpǔ shànliáng.",
+        "en": "Köylüler sade ve iyi kalpli."
+      },
+      {
+        "zh": "他的语言质朴而真诚。",
+        "pinyin": "Tā de yǔyán zhìpǔ ér zhēnchéng.",
+        "en": "Konuşması sade ve samimi."
+      }
+    ]
+  },
+  {
+    "id": "w7474",
+    "hanzi": "质问",
+    "pinyin": "zhìwèn",
+    "meaning": "sorguya çekmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他质问对方为什么撒谎。",
+        "pinyin": "Tā zhìwèn duìfāng wèishénme sāhuǎng.",
+        "en": "Karşısındakini neden yalan söylediği konusunda sorguya çekti."
+      },
+      {
+        "zh": "老师质问学生迟到的原因。",
+        "pinyin": "Lǎoshī zhìwèn xuésheng chídào de yuányīn.",
+        "en": "Öğretmen öğrencisini geç kalma sebebi hakkında sorguladı."
+      }
+    ]
+  },
+  {
+    "id": "w7475",
+    "hanzi": "质疑",
+    "pinyin": "zhìyí",
+    "meaning": "sorgulamak, şüphe etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "很多人质疑这个结果。",
+        "pinyin": "Hěn duō rén zhìyí zhège jiéguǒ.",
+        "en": "Birçok kişi bu sonucu sorguluyor."
+      },
+      {
+        "zh": "他从不质疑权威。",
+        "pinyin": "Tā cóng bù zhìyí quánwēi.",
+        "en": "Hiçbir zaman otoriteyi sorgulamıyor."
+      },
+      {
+        "zh": "老师鼓励学生大胆质疑。",
+        "pinyin": "Lǎoshī gǔlì xuésheng dàdǎn zhìyí.",
+        "en": "Öğretmen öğrencileri cesurca sorgulamaya teşvik ediyor."
+      },
+      {
+        "zh": "他的诚意受到了质疑。",
+        "pinyin": "Tā de chéngyì shòudàole zhìyí.",
+        "en": "Samimiyeti sorgulandı."
+      },
+      {
+        "zh": "科学精神就是敢于质疑。",
+        "pinyin": "Kēxué jīngshén jiùshì gǎnyú zhìyí.",
+        "en": "Bilimsel ruh, sorgulamaktan çekinmemektir."
+      }
+    ]
+  },
+  {
+    "id": "w7476",
+    "hanzi": "质子",
+    "pinyin": "zhìzǐ",
+    "meaning": "proton",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "原子核由质子和中子组成。",
+        "pinyin": "Yuánzǐhé yóu zhìzǐ hé zhōngzǐ zǔchéng.",
+        "en": "Atom çekirdeği proton ve nötrondan oluşur."
+      },
+      {
+        "zh": "质子带正电荷。",
+        "pinyin": "Zhìzǐ dài zhèng diànhè.",
+        "en": "Proton pozitif yük taşır."
+      }
+    ]
+  },
+  {
+    "id": "w7477",
+    "hanzi": "志",
+    "pinyin": "zhì",
+    "meaning": "irade, niyet, amaç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "有志者事竟成。",
+        "pinyin": "Yǒuzhìzhě shìjìngchéng.",
+        "en": "Azimli olanlar sonunda başarır."
+      },
+      {
+        "zh": "他从小立志成为医生。",
+        "pinyin": "Tā cóngxiǎo lìzhì chéngwéi yīshēng.",
+        "en": "Küçüklüğünden beri doktor olmayı hedefledi."
+      },
+      {
+        "zh": "他志在必得。",
+        "pinyin": "Tā zhìzài-bìdé.",
+        "en": "Kesinlikle kazanmaya kararlı."
+      },
+      {
+        "zh": "他改变了自己的志向。",
+        "pinyin": "Tā gǎibiànle zìjǐ de zhìxiàng.",
+        "en": "Kendi hedefini değiştirdi."
+      },
+      {
+        "zh": "这本书记录了他的人生志向。",
+        "pinyin": "Zhè běn shū jìlùle tā de rénshēng zhìxiàng.",
+        "en": "Bu kitap onun hayat hedeflerini kaydediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7478",
+    "hanzi": "志大才疏",
+    "pinyin": "zhìdà-cáishū",
+    "meaning": "büyük hayalleri olup yeterli yeteneği olmamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他志大才疏，最终一事无成。",
+        "pinyin": "Tā zhìdà-cáishū, zuìzhōng yíshì-wúchéng.",
+        "en": "Hayalleri büyüktü ama yeteneği yetersizdi, sonunda hiçbir şey başaramadı."
+      },
+      {
+        "zh": "有些人志大才疏，只会空谈。",
+        "pinyin": "Yǒuxiē rén zhìdà-cáishū, zhǐ huì kōngtán.",
+        "en": "Bazı insanların hayalleri büyük ama yetenekleri yetersiz, sadece boş konuşurlar."
+      }
+    ]
+  },
+  {
+    "id": "w7479",
+    "hanzi": "志气",
+    "pinyin": "zhìqì",
+    "meaning": "hırs, azim, tutku",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "这个年轻人很有志气。",
+        "pinyin": "Zhège niánqīngrén hěn yǒu zhìqì.",
+        "en": "Bu genç çok azimli."
+      },
+      {
+        "zh": "他从小就很有志气。",
+        "pinyin": "Tā cóngxiǎo jiù hěn yǒu zhìqì.",
+        "en": "Küçüklüğünden beri hep hırslı olmuştur."
+      },
+      {
+        "zh": "别灰心，要有志气。",
+        "pinyin": "Bié huīxīn, yào yǒu zhìqì.",
+        "en": "Cesaretini kaybetme, azimli ol."
+      },
+      {
+        "zh": "她凭着志气考上了理想的大学。",
+        "pinyin": "Tā píngzhe zhìqì kǎoshàngle lǐxiǎng de dàxué.",
+        "en": "Azmiyle hayalindeki üniversiteyi kazandı."
+      },
+      {
+        "zh": "他做事很有志气，从不轻易放弃。",
+        "pinyin": "Tā zuòshì hěn yǒu zhìqì, cóng bù qīngyì fàngqì.",
+        "en": "İşlerinde çok azimli, kolayca vazgeçmez."
+      }
+    ]
+  },
+  {
+    "id": "w7480",
+    "hanzi": "志士",
+    "pinyin": "zhìshì",
+    "meaning": "yüksek idealli, dürüst kişi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "许多仁人志士为国牺牲。",
+        "pinyin": "Xǔduō rénrén-zhìshì wèi guó xīshēng.",
+        "en": "Birçok idealist kahraman vatan için canını feda etti."
+      },
+      {
+        "zh": "他被称为民族志士。",
+        "pinyin": "Tā bèi chēngwéi mínzú zhìshì.",
+        "en": "Ulusun idealist kahramanı olarak anılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7481",
+    "hanzi": "志同道合",
+    "pinyin": "zhìtóng-dàohé",
+    "meaning": "ortak fikirlere ve amaçlara sahip olmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他们是志同道合的朋友。",
+        "pinyin": "Tāmen shì zhìtóng-dàohé de péngyou.",
+        "en": "Onlar aynı fikirlere sahip arkadaşlar."
+      },
+      {
+        "zh": "我们因志同道合而走到了一起。",
+        "pinyin": "Wǒmen yīn zhìtóng-dàohé ér zǒudàole yìqǐ.",
+        "en": "Ortak amaçlarımız sayesinde bir araya geldik."
+      }
+    ]
+  },
+  {
+    "id": "w7482",
+    "hanzi": "志向",
+    "pinyin": "zhìxiàng",
+    "meaning": "ideal, hedef, amaç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他从小就有远大的志向。",
+        "pinyin": "Tā cóngxiǎo jiù yǒu yuǎndà de zhìxiàng.",
+        "en": "Küçüklüğünden beri büyük hedefleri var."
+      },
+      {
+        "zh": "她的志向是当一名科学家。",
+        "pinyin": "Tā de zhìxiàng shì dāng yì míng kēxuéjiā.",
+        "en": "Hedefi bir bilim insanı olmak."
+      },
+      {
+        "zh": "父母支持他实现自己的志向。",
+        "pinyin": "Fùmǔ zhīchí tā shíxiàn zìjǐ de zhìxiàng.",
+        "en": "Ailesi onun hedeflerini gerçekleştirmesini destekliyor."
+      },
+      {
+        "zh": "他坚持自己的志向不动摇。",
+        "pinyin": "Tā jiānchí zìjǐ de zhìxiàng bú dòngyáo.",
+        "en": "Kendi hedefinden hiç sapmadı."
+      },
+      {
+        "zh": "每个人都应该有自己的志向。",
+        "pinyin": "Měi gè rén dōu yīnggāi yǒu zìjǐ de zhìxiàng.",
+        "en": "Herkesin kendi hedefi olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w7483",
+    "hanzi": "志愿",
+    "pinyin": "zhìyuàn",
+    "meaning": "gönüllü olmak; istek, ideal",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他志愿参加了这次活动。",
+        "pinyin": "Tā zhìyuàn cānjiāle zhè cì huódòng.",
+        "en": "Bu etkinliğe gönüllü olarak katıldı."
+      },
+      {
+        "zh": "她填报了自己的志愿。",
+        "pinyin": "Tā tiánbàole zìjǐ de zhìyuàn.",
+        "en": "Kendi tercihini doldurdu."
+      },
+      {
+        "zh": "很多人志愿去帮助灾区。",
+        "pinyin": "Hěn duō rén zhìyuàn qù bāngzhù zāiqū.",
+        "en": "Birçok kişi afet bölgesine gönüllü yardıma gidiyor."
+      },
+      {
+        "zh": "他的第一志愿是学医。",
+        "pinyin": "Tā de dì-yī zhìyuàn shì xué yī.",
+        "en": "İlk tercihi tıp okumak."
+      },
+      {
+        "zh": "她志愿在图书馆做义工。",
+        "pinyin": "Tā zhìyuàn zài túshūguǎn zuò yìgōng.",
+        "en": "Kütüphanede gönüllü olarak çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7484",
+    "hanzi": "制",
+    "pinyin": "zhì",
+    "meaning": "yapmak, üretmek; kontrol etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这种药是用中草药制成的。",
+        "pinyin": "Zhè zhǒng yào shì yòng zhōngcǎoyào zhìchéng de.",
+        "en": "Bu ilaç Çin bitkilerinden üretilmiştir."
+      },
+      {
+        "zh": "工厂每天制出大量产品。",
+        "pinyin": "Gōngchǎng měitiān zhìchū dàliàng chǎnpǐn.",
+        "en": "Fabrika her gün büyük miktarda ürün üretiyor."
+      },
+      {
+        "zh": "他们制定了新的计划。",
+        "pinyin": "Tāmen zhìdìngle xīn de jìhuà.",
+        "en": "Yeni bir plan hazırladılar."
+      },
+      {
+        "zh": "这个国家实行民主制。",
+        "pinyin": "Zhège guójiā shíxíng mínzhǔzhì.",
+        "en": "Bu ülke demokratik bir sistem uyguluyor."
+      },
+      {
+        "zh": "他手工制作了这个模型。",
+        "pinyin": "Tā shǒugōng zhìzuòle zhège móxíng.",
+        "en": "Bu modeli elle yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7485",
+    "hanzi": "制裁",
+    "pinyin": "zhìcái",
+    "meaning": "yaptırım, müeyyide",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国际社会对该国实施了制裁。",
+        "pinyin": "Guójì shèhuì duì gāi guó shíshīle zhìcái.",
+        "en": "Uluslararası toplum bu ülkeye yaptırım uyguladı."
+      },
+      {
+        "zh": "违法者将受到法律制裁。",
+        "pinyin": "Wéifǎzhě jiāng shòudào fǎlǜ zhìcái.",
+        "en": "Yasaları ihlal edenler yasal yaptırımla karşılaşacak."
+      }
+    ]
+  },
+  {
+    "id": "w7486",
+    "hanzi": "制成品",
+    "pinyin": "zhìchéngpǐn",
+    "meaning": "mamul ürün, tamamlanmış ürün",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "工厂出口大量制成品。",
+        "pinyin": "Gōngchǎng chūkǒu dàliàng zhìchéngpǐn.",
+        "en": "Fabrika büyük miktarda mamul ürün ihraç ediyor."
+      },
+      {
+        "zh": "这批制成品质量合格。",
+        "pinyin": "Zhè pī zhìchéngpǐn zhìliàng hégé.",
+        "en": "Bu mamul ürünlerin kalitesi standartlara uygun."
+      }
+    ]
+  },
+  {
+    "id": "w7487",
+    "hanzi": "制订",
+    "pinyin": "zhìdìng",
+    "meaning": "belirlemek, hazırlamak (plan vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "公司制订了新的发展计划。",
+        "pinyin": "Gōngsī zhìdìngle xīn de fāzhǎn jìhuà.",
+        "en": "Şirket yeni bir gelişim planı hazırladı."
+      },
+      {
+        "zh": "政府制订了详细的方案。",
+        "pinyin": "Zhèngfǔ zhìdìngle xiángxì de fāng'àn.",
+        "en": "Hükümet ayrıntılı bir plan hazırladı."
+      },
+      {
+        "zh": "他为孩子制订了学习计划。",
+        "pinyin": "Tā wèi háizi zhìdìngle xuéxí jìhuà.",
+        "en": "Çocuğu için bir çalışma planı hazırladı."
+      },
+      {
+        "zh": "团队制订了明确的目标。",
+        "pinyin": "Tuánduì zhìdìngle míngquè de mùbiāo.",
+        "en": "Ekip net bir hedef belirledi."
+      },
+      {
+        "zh": "我们需要制订更合理的规则。",
+        "pinyin": "Wǒmen xūyào zhìdìng gèng hélǐ de guīzé.",
+        "en": "Daha makul kurallar belirlememiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7488",
+    "hanzi": "制动",
+    "pinyin": "zhìdòng",
+    "meaning": "fren yapmak, yavaşlatmak, durdurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "汽车的制动系统出现了故障。",
+        "pinyin": "Qìchē de zhìdòng xìtǒng chūxiànle gùzhàng.",
+        "en": "Arabanın fren sistemi arızalandı."
+      },
+      {
+        "zh": "紧急情况下要及时制动。",
+        "pinyin": "Jǐnjí qíngkuàng xià yào jíshí zhìdòng.",
+        "en": "Acil durumlarda zamanında fren yapılmalı."
+      }
+    ]
+  },
+  {
+    "id": "w7489",
+    "hanzi": "制服",
+    "pinyin": "zhìfú",
+    "meaning": "üniforma",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Giyim",
+    "examples": [
+      {
+        "zh": "学生们穿着校服制服。",
+        "pinyin": "Xuéshengmen chuānzhe xiàofú zhìfú.",
+        "en": "Öğrenciler okul üniforması giyiyor."
+      },
+      {
+        "zh": "警察穿着深蓝色的制服。",
+        "pinyin": "Jǐngchá chuānzhe shēnlánsè de zhìfú.",
+        "en": "Polis koyu mavi üniforma giyiyor."
+      },
+      {
+        "zh": "空姐的制服很整洁。",
+        "pinyin": "Kōngjiě de zhìfú hěn zhěngjié.",
+        "en": "Hostesin üniforması çok düzenli."
+      },
+      {
+        "zh": "员工上班必须穿制服。",
+        "pinyin": "Yuángōng shàngbān bìxū chuān zhìfú.",
+        "en": "Çalışanlar işe üniformayla gelmek zorunda."
+      },
+      {
+        "zh": "他脱下制服换上便装。",
+        "pinyin": "Tā tuōxià zhìfú huànshàng biànzhuāng.",
+        "en": "Üniformasını çıkarıp sivil kıyafet giydi."
+      }
+    ]
+  },
+  {
+    "id": "w7490",
+    "hanzi": "制冷",
+    "pinyin": "zhìlěng",
+    "meaning": "soğutmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台空调制冷效果很好。",
+        "pinyin": "Zhè tái kōngtiáo zhìlěng xiàoguǒ hěn hǎo.",
+        "en": "Bu klimanın soğutma etkisi çok iyi."
+      },
+      {
+        "zh": "冰箱靠压缩机制冷。",
+        "pinyin": "Bīngxiāng kào yāsuōjī zhìlěng.",
+        "en": "Buzdolabı kompresör aracılığıyla soğutma yapar."
+      }
+    ]
   }
 ]

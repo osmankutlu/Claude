@@ -162067,5 +162067,725 @@
         "en": "Öğretmenin amacını kavradı."
       }
     ]
+  },
+  {
+    "id": "w4699",
+    "hanzi": "领海",
+    "pinyin": "lǐnghǎi",
+    "meaning": "Kara suları",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "外国船只不得进入我国领海。",
+        "pinyin": "Wàiguó chuánzhī bùdé jìnrù wǒguó lǐnghǎi.",
+        "en": "Yabancı gemiler ülkemizin kara sularına giremez."
+      },
+      {
+        "zh": "领海范围一般为十二海里。",
+        "pinyin": "Lǐnghǎi fànwéi yìbān wéi shí'èr hǎilǐ.",
+        "en": "Kara suları genellikle on iki deniz mili kapsar."
+      },
+      {
+        "zh": "海军负责巡逻领海。",
+        "pinyin": "Hǎijūn fùzé xúnluó lǐnghǎi.",
+        "en": "Deniz kuvvetleri kara sularını devriye gezmekten sorumludur."
+      },
+      {
+        "zh": "这起事件发生在我国领海内。",
+        "pinyin": "Zhè qǐ shìjiàn fāshēng zài wǒguó lǐnghǎi nèi.",
+        "en": "Bu olay ülkemizin kara suları içinde meydana geldi."
+      },
+      {
+        "zh": "两国因领海问题产生了争议。",
+        "pinyin": "Liǎng guó yīn lǐnghǎi wèntí chǎnshēng le zhēngyì.",
+        "en": "İki ülke kara suları meselesi yüzünden anlaşmazlığa düştü."
+      }
+    ]
+  },
+  {
+    "id": "w4700",
+    "hanzi": "领土",
+    "pinyin": "lǐngtǔ",
+    "meaning": "Toprak, ülke sınırları",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国家领土完整不容侵犯。",
+        "pinyin": "Guójiā lǐngtǔ wánzhěng bù róng qīnfàn.",
+        "en": "Ülkenin toprak bütünlüğüne dokunulamaz."
+      },
+      {
+        "zh": "这片土地属于该国领土。",
+        "pinyin": "Zhè piàn tǔdì shǔyú gāi guó lǐngtǔ.",
+        "en": "Bu toprak parçası bu ülkenin topraklarına aittir."
+      },
+      {
+        "zh": "两国就领土问题展开谈判。",
+        "pinyin": "Liǎng guó jiù lǐngtǔ wèntí zhǎnkāi tánpàn.",
+        "en": "İki ülke toprak sorunu hakkında müzakere yaptı."
+      },
+      {
+        "zh": "国家的领土面积不断变化。",
+        "pinyin": "Guójiā de lǐngtǔ miànjī búduàn biànhuà.",
+        "en": "Ülkenin toprak alanı sürekli değişti."
+      },
+      {
+        "zh": "捍卫国家领土是每个公民的责任。",
+        "pinyin": "Hànwèi guójiā lǐngtǔ shì měi gè gōngmín de zérèn.",
+        "en": "Ülke topraklarını korumak her vatandaşın sorumluluğudur."
+      }
+    ]
+  },
+  {
+    "id": "w4701",
+    "hanzi": "领悟",
+    "pinyin": "lǐngwù",
+    "meaning": "Kavramak, anlamak, idrak etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他终于领悟了这个道理。",
+        "pinyin": "Tā zhōngyú lǐngwù le zhège dàolǐ.",
+        "en": "Sonunda bu gerçeği kavradı."
+      },
+      {
+        "zh": "经过这次经历,他有了新的领悟。",
+        "pinyin": "Jīngguò zhè cì jīnglì, tā yǒu le xīn de lǐngwù.",
+        "en": "Bu deneyimden sonra yeni bir kavrayış edindi."
+      },
+      {
+        "zh": "她很快就领悟了老师的意图。",
+        "pinyin": "Tā hěn kuài jiù lǐngwù le lǎoshī de yìtú.",
+        "en": "Öğretmenin amacını çabucak kavradı."
+      },
+      {
+        "zh": "他领悟到时间的珍贵。",
+        "pinyin": "Tā lǐngwùdào shíjiān de zhēnguì.",
+        "en": "Zamanın ne kadar değerli olduğunu kavradı."
+      },
+      {
+        "zh": "他从失败中领悟了成功的秘诀。",
+        "pinyin": "Tā cóng shībài zhōng lǐngwù le chénggōng de mìjué.",
+        "en": "Başarısızlıktan başarının sırrını kavradı."
+      }
+    ]
+  },
+  {
+    "id": "w4702",
+    "hanzi": "领先",
+    "pinyin": "lǐngxiān",
+    "meaning": "Önde olmak, lider olmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个国家在科技领域一直领先。",
+        "pinyin": "Zhège guójiā zài kējì lǐngyù yìzhí lǐngxiān.",
+        "en": "Bu ülke teknoloji alanında hep önde."
+      },
+      {
+        "zh": "他以两分的优势领先。",
+        "pinyin": "Tā yǐ liǎng fēn de yōushì lǐngxiān.",
+        "en": "İki puan farkla öndeydi."
+      },
+      {
+        "zh": "他们在比赛中始终领先。",
+        "pinyin": "Tāmen zài bǐsài zhōng shǐzhōng lǐngxiān.",
+        "en": "Maç boyunca hep önde kaldılar."
+      },
+      {
+        "zh": "这家公司在市场上处于领先地位。",
+        "pinyin": "Zhè jiā gōngsī zài shìchǎng shàng chǔyú lǐngxiān dìwèi.",
+        "en": "Bu şirket piyasada lider konumda."
+      },
+      {
+        "zh": "他学习成绩一直领先全班。",
+        "pinyin": "Tā xuéxí chéngjì yìzhí lǐngxiān quánbān.",
+        "en": "Ders notları her zaman sınıfta en önde."
+      }
+    ]
+  },
+  {
+    "id": "w4703",
+    "hanzi": "领袖",
+    "pinyin": "lǐngxiù",
+    "meaning": "Lider, önder (ülke, parti, grup)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是这个国家的领袖。",
+        "pinyin": "Tā shì zhège guójiā de lǐngxiù.",
+        "en": "O bu ülkenin liderdir."
+      },
+      {
+        "zh": "他是一位深受尊敬的领袖。",
+        "pinyin": "Tā shì yí wèi shēn shòu zūnjìng de lǐngxiù.",
+        "en": "Derinden saygı gören bir liderdir."
+      },
+      {
+        "zh": "他成为了团队的精神领袖。",
+        "pinyin": "Tā chéngwéi le tuánduì de jīngshén lǐngxiù.",
+        "en": "Ekibin manevi lideri oldu."
+      },
+      {
+        "zh": "领袖需要有远见和决断力。",
+        "pinyin": "Lǐngxiù xūyào yǒu yuǎnjiàn hé juéduànlì.",
+        "en": "Bir liderin vizyon ve karar verme yeteneğine sahip olması gerekir."
+      },
+      {
+        "zh": "他年轻时就展现出领袖气质。",
+        "pinyin": "Tā niánqīng shí jiù zhǎnxiàn chū lǐngxiù qìzhì.",
+        "en": "Gençken bile liderlik özellikleri gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w4704",
+    "hanzi": "领养",
+    "pinyin": "lǐngyǎng",
+    "meaning": "Evlat edinmek, sahiplenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们决定领养一个孩子。",
+        "pinyin": "Tāmen juédìng lǐngyǎng yí gè háizi.",
+        "en": "Bir çocuğu evlat edinmeye karar verdiler."
+      },
+      {
+        "zh": "她从收容所领养了一只小狗。",
+        "pinyin": "Tā cóng shōuróngsuǒ lǐngyǎng le yì zhī xiǎogǒu.",
+        "en": "Barınaktan bir köpek sahiplendi."
+      },
+      {
+        "zh": "领养孩子需要经过严格的审核。",
+        "pinyin": "Lǐngyǎng háizi xūyào jīngguò yángé de shěnhé.",
+        "en": "Çocuk evlat edinmek sıkı bir inceleme sürecinden geçmeyi gerektirir."
+      },
+      {
+        "zh": "他们夫妻俩领养了一个流浪猫。",
+        "pinyin": "Tāmen fūqī liǎ lǐngyǎng le yí gè liúlàngmāo.",
+        "en": "Karı koca bir sokak kedisini sahiplendi."
+      },
+      {
+        "zh": "他从小被领养,一直不知道自己的身世。",
+        "pinyin": "Tā cóngxiǎo bèi lǐngyǎng, yìzhí bù zhīdào zìjǐ de shēnshì.",
+        "en": "Küçüklüğünden beri evlat edinilmişti, kendi geçmişini hiç bilmiyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4705",
+    "hanzi": "岭",
+    "pinyin": "lǐng",
+    "meaning": "Sıradağ, dağ silsilesi, tepe",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他们翻过了一座山岭。",
+        "pinyin": "Tāmen fānguò le yí zuò shānlǐng.",
+        "en": "Bir dağ tepesini aştılar."
+      },
+      {
+        "zh": "这条路蜿蜒穿过山岭。",
+        "pinyin": "Zhè tiáo lù wānyán chuānguò shānlǐng.",
+        "en": "Bu yol dağ silsilesinin arasından kıvrılarak geçiyor."
+      },
+      {
+        "zh": "站在岭上可以俯瞰整个山谷。",
+        "pinyin": "Zhàn zài lǐng shàng kěyǐ fǔkàn zhěnggè shāngǔ.",
+        "en": "Tepede durunca tüm vadi görülebiliyor."
+      },
+      {
+        "zh": "南岭是中国南方的重要山脉。",
+        "pinyin": "Nánlǐng shì Zhōngguó nánfāng de zhòngyào shānmài.",
+        "en": "Nanling, Çin'in güneyindeki önemli bir dağ silsilesidir."
+      },
+      {
+        "zh": "翻山越岭寻找水源。",
+        "pinyin": "Fānshān-yuèlǐng xúnzhǎo shuǐyuán.",
+        "en": "Dağları ve tepeleri aşarak su kaynağı arıyorlardı."
+      }
+    ]
+  },
+  {
+    "id": "w4706",
+    "hanzi": "另",
+    "pinyin": "lìng",
+    "meaning": "Başka, diğer, öbür",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请另找一个时间见面。",
+        "pinyin": "Qǐng lìng zhǎo yí gè shíjiān jiànmiàn.",
+        "en": "Lütfen görüşmek için başka bir zaman bul."
+      },
+      {
+        "zh": "这件事我们另作打算。",
+        "pinyin": "Zhè jiàn shì wǒmen lìng zuò dǎsuàn.",
+        "en": "Bu konuda başka bir plan yapacağız."
+      },
+      {
+        "zh": "他另有安排。",
+        "pinyin": "Tā lìng yǒu ānpái.",
+        "en": "Onun başka bir planı var."
+      },
+      {
+        "zh": "此事另当别论。",
+        "pinyin": "Cǐ shì lìngdāng-biélùn.",
+        "en": "Bu konu ayrı olarak ele alınmalı."
+      },
+      {
+        "zh": "他另外买了一件礼物。",
+        "pinyin": "Tā lìngwài mǎi le yí jiàn lǐwù.",
+        "en": "Ayrıca başka bir hediye daha aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4707",
+    "hanzi": "溜",
+    "pinyin": "liū",
+    "meaning": "Kaymak, süzülmek; sıvışmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "孩子从楼梯上溜了下去。",
+        "pinyin": "Háizi cóng lóutī shàng liū le xiàqu.",
+        "en": "Çocuk merdivenden kayarak aşağı indi."
+      },
+      {
+        "zh": "他趁人不注意悄悄溜走了。",
+        "pinyin": "Tā chèn rén bú zhùyì qiāoqiāo liūzǒu le.",
+        "en": "Kimse fark etmezken sessizce sıvıştı."
+      },
+      {
+        "zh": "水从瓶口溜了出来。",
+        "pinyin": "Shuǐ cóng píngkǒu liū le chūlai.",
+        "en": "Su şişenin ağzından süzülerek çıktı."
+      },
+      {
+        "zh": "他从后门溜了出去。",
+        "pinyin": "Tā cóng hòumén liū le chūqù.",
+        "en": "Arka kapıdan sıvışıp çıktı."
+      },
+      {
+        "zh": "小猫悄悄地溜进了房间。",
+        "pinyin": "Xiǎomāo qiāoqiāo de liūjìn le fángjiān.",
+        "en": "Küçük kedi sessizce odaya süzüldü."
+      }
+    ]
+  },
+  {
+    "id": "w4708",
+    "hanzi": "溜冰",
+    "pinyin": "liūbīng",
+    "meaning": "Buz pateni yapmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "冬天孩子们喜欢去溜冰。",
+        "pinyin": "Dōngtiān háizimen xǐhuan qù liūbīng.",
+        "en": "Kışın çocuklar buz pateni yapmayı sever."
+      },
+      {
+        "zh": "他学会了溜冰。",
+        "pinyin": "Tā xuéhuì le liūbīng.",
+        "en": "Buz pateni yapmayı öğrendi."
+      },
+      {
+        "zh": "溜冰场里挤满了人。",
+        "pinyin": "Liūbīngchǎng lǐ jǐmǎn le rén.",
+        "en": "Buz pateni pisti insanlarla doluydu."
+      },
+      {
+        "zh": "她第一次溜冰摔倒了好几次。",
+        "pinyin": "Tā dì-yī cì liūbīng shuāidǎo le hǎo jǐ cì.",
+        "en": "İlk buz pateni denemesinde birkaç kez düştü."
+      },
+      {
+        "zh": "周末我们一起去溜冰吧。",
+        "pinyin": "Zhōumò wǒmen yìqǐ qù liūbīng ba.",
+        "en": "Hafta sonu birlikte buz pateni yapmaya gidelim."
+      }
+    ]
+  },
+  {
+    "id": "w4709",
+    "hanzi": "留级",
+    "pinyin": "liújí",
+    "meaning": "Sınıfta kalmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他因为成绩差留级了。",
+        "pinyin": "Tā yīnwèi chéngjì chà liújí le.",
+        "en": "Notları düşük olduğu için sınıfta kaldı."
+      },
+      {
+        "zh": "她担心自己会留级。",
+        "pinyin": "Tā dānxīn zìjǐ huì liújí.",
+        "en": "Sınıfta kalmaktan endişe ediyor."
+      },
+      {
+        "zh": "这个学校很少有学生留级。",
+        "pinyin": "Zhège xuéxiào hěn shǎo yǒu xuésheng liújí.",
+        "en": "Bu okulda çok az öğrenci sınıfta kalıyor."
+      },
+      {
+        "zh": "留级后他更加努力学习。",
+        "pinyin": "Liújí hòu tā gèngjiā nǔlì xuéxí.",
+        "en": "Sınıfta kaldıktan sonra daha çok çalışmaya başladı."
+      },
+      {
+        "zh": "他被通知需要留级一年。",
+        "pinyin": "Tā bèi tōngzhī xūyào liújí yì nián.",
+        "en": "Bir yıl sınıfta kalması gerektiği bildirildi."
+      }
+    ]
+  },
+  {
+    "id": "w4710",
+    "hanzi": "留恋",
+    "pinyin": "liúliàn",
+    "meaning": "Özlem duymak, ayrılmaya kıyamamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他对故乡十分留恋。",
+        "pinyin": "Tā duì gùxiāng shífēn liúliàn.",
+        "en": "Memleketine derin bir özlem duyuyor."
+      },
+      {
+        "zh": "她留恋大学生活的美好时光。",
+        "pinyin": "Tā liúliàn dàxué shēnghuó de měihǎo shíguāng.",
+        "en": "Üniversite hayatının güzel zamanlarına özlem duyuyor."
+      },
+      {
+        "zh": "他不留恋过去,一直向前看。",
+        "pinyin": "Tā bù liúliàn guòqù, yìzhí xiàng qián kàn.",
+        "en": "Geçmişe özlem duymuyor, hep ileriye bakıyor."
+      },
+      {
+        "zh": "她留恋这段珍贵的友谊。",
+        "pinyin": "Tā liúliàn zhè duàn zhēnguì de yǒuyì.",
+        "en": "Bu değerli dostluğa özlem duyuyor."
+      },
+      {
+        "zh": "离开这里时他显得依依留恋。",
+        "pinyin": "Líkāi zhèlǐ shí tā xiǎn de yīyī liúliàn.",
+        "en": "Burayı terk ederken ayrılmaya kıyamıyor gibi görünüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4711",
+    "hanzi": "留念",
+    "pinyin": "liúniàn",
+    "meaning": "Hatıra bırakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他们拍了一张合影留念。",
+        "pinyin": "Tāmen pāi le yì zhāng héyǐng liúniàn.",
+        "en": "Hatıra olarak birlikte bir fotoğraf çektirdiler."
+      },
+      {
+        "zh": "毕业时同学们互相留念。",
+        "pinyin": "Bìyè shí tóngxuémen hùxiāng liúniàn.",
+        "en": "Mezuniyette sınıf arkadaşları birbirlerine hatıra bıraktı."
+      },
+      {
+        "zh": "他送了我一本书留念。",
+        "pinyin": "Tā sòng le wǒ yì běn shū liúniàn.",
+        "en": "Bana hatıra olarak bir kitap verdi."
+      },
+      {
+        "zh": "她保存着这枚戒指留念。",
+        "pinyin": "Tā bǎocúnzhe zhè méi jièzhi liúniàn.",
+        "en": "Bu yüzüğü hatıra olarak saklıyor."
+      },
+      {
+        "zh": "他们在此地拍照留念。",
+        "pinyin": "Tāmen zài cǐdì pāizhào liúniàn.",
+        "en": "Burada hatıra olarak fotoğraf çektiler."
+      }
+    ]
+  },
+  {
+    "id": "w4712",
+    "hanzi": "留神",
+    "pinyin": "liúshén",
+    "meaning": "Dikkatli olmak, temkinli davranmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "过马路要留神。",
+        "pinyin": "Guò mǎlù yào liúshén.",
+        "en": "Karşıdan karşıya geçerken dikkatli olmak gerekir."
+      },
+      {
+        "zh": "他没留神摔了一跤。",
+        "pinyin": "Tā méi liúshén shuāi le yì jiāo.",
+        "en": "Dikkatsizlik yüzünden düştü."
+      },
+      {
+        "zh": "开车时要留神路况。",
+        "pinyin": "Kāichē shí yào liúshén lùkuàng.",
+        "en": "Araba sürerken yol durumuna dikkat etmek gerekir."
+      },
+      {
+        "zh": "留神小偷,保管好你的财物。",
+        "pinyin": "Liúshén xiǎotōu, bǎoguǎn hǎo nǐ de cáiwù.",
+        "en": "Hırsızlara dikkat edin, eşyalarınızı iyi saklayın."
+      },
+      {
+        "zh": "她做事总是留神细节。",
+        "pinyin": "Tā zuòshì zǒngshì liúshén xìjié.",
+        "en": "İşlerini yaparken her zaman ayrıntılara dikkat eder."
+      }
+    ]
+  },
+  {
+    "id": "w4713",
+    "hanzi": "留守",
+    "pinyin": "liúshǒu",
+    "meaning": "Geride kalıp koruma görevini üstlenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他留守在家照顾老人。",
+        "pinyin": "Tā liúshǒu zài jiā zhàogù lǎorén.",
+        "en": "Yaşlıya bakmak için evde kaldı."
+      },
+      {
+        "zh": "很多留守儿童缺少父母的陪伴。",
+        "pinyin": "Hěn duō liúshǒu értóng quēshǎo fùmǔ de péibàn.",
+        "en": "Birçok geride bırakılmış çocuk ebeveyn eşliğinden yoksun."
+      },
+      {
+        "zh": "他被安排留守在办公室。",
+        "pinyin": "Tā bèi ānpái liúshǒu zài bàngōngshì.",
+        "en": "Ofiste kalmakla görevlendirildi."
+      },
+      {
+        "zh": "假期只有他一个人留守值班。",
+        "pinyin": "Jiàqī zhǐyǒu tā yí gè rén liúshǒu zhíbān.",
+        "en": "Tatil boyunca sadece o nöbette kaldı."
+      },
+      {
+        "zh": "他年迈的父母仍在农村留守。",
+        "pinyin": "Tā niánmài de fùmǔ réng zài nóngcūn liúshǒu.",
+        "en": "Yaşlı ebeveynleri hâlâ köyde kalıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4714",
+    "hanzi": "留心",
+    "pinyin": "liúxīn",
+    "meaning": "Dikkat etmek, ilgilenmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "要留心周围的环境。",
+        "pinyin": "Yào liúxīn zhōuwéi de huánjìng.",
+        "en": "Çevreye dikkat etmek gerekir."
+      },
+      {
+        "zh": "他留心观察了每一个细节。",
+        "pinyin": "Tā liúxīn guānchá le měi yí gè xìjié.",
+        "en": "Her bir ayrıntıyı dikkatlice gözlemledi."
+      },
+      {
+        "zh": "她留心听着老师的每一句话。",
+        "pinyin": "Tā liúxīn tīngzhe lǎoshī de měi yí jù huà.",
+        "en": "Öğretmenin her sözünü dikkatle dinliyordu."
+      },
+      {
+        "zh": "他没有留心到这个变化。",
+        "pinyin": "Tā méiyǒu liúxīn dào zhège biànhuà.",
+        "en": "Bu değişikliğe dikkat etmedi."
+      },
+      {
+        "zh": "旅行时要留心自己的财物安全。",
+        "pinyin": "Lǚxíng shí yào liúxīn zìjǐ de cáiwù ānquán.",
+        "en": "Seyahat ederken eşya güvenliğine dikkat edilmelidir."
+      }
+    ]
+  },
+  {
+    "id": "w4715",
+    "hanzi": "留言",
+    "pinyin": "liúyán",
+    "meaning": "Mesaj bırakmak, not bırakmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他给我留言了。",
+        "pinyin": "Tā gěi wǒ liúyán le.",
+        "en": "Bana mesaj bıraktı."
+      },
+      {
+        "zh": "请在留言板上写下你的意见。",
+        "pinyin": "Qǐng zài liúyánbǎn shàng xiěxià nǐ de yìjiàn.",
+        "en": "Lütfen mesaj panosuna görüşünü yaz."
+      },
+      {
+        "zh": "他没接电话,只留下了语音留言。",
+        "pinyin": "Tā méi jiē diànhuà, zhǐ liúxià le yǔyīn liúyán.",
+        "en": "Telefonu açmadı, sadece sesli mesaj bıraktı."
+      },
+      {
+        "zh": "她在他生日那天留言祝福他。",
+        "pinyin": "Tā zài tā shēngrì nàtiān liúyán zhùfú tā.",
+        "en": "Doğum gününde ona mesaj bırakarak kutladı."
+      },
+      {
+        "zh": "网友们在文章下方留言评论。",
+        "pinyin": "Wǎngyǒumen zài wénzhāng xiàfāng liúyán pínglùn.",
+        "en": "İnternet kullanıcıları makalenin altına yorum bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w4716",
+    "hanzi": "留意",
+    "pinyin": "liúyì",
+    "meaning": "Dikkat etmek, dikkatli olmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请留意天气预报。",
+        "pinyin": "Qǐng liúyì tiānqì yùbào.",
+        "en": "Lütfen hava durumu tahminine dikkat edin."
+      },
+      {
+        "zh": "他留意到了她的变化。",
+        "pinyin": "Tā liúyì dào le tā de biànhuà.",
+        "en": "Onun değişimini fark etti."
+      },
+      {
+        "zh": "开车时要留意交通标志。",
+        "pinyin": "Kāichē shí yào liúyì jiāotōng biāozhì.",
+        "en": "Araba sürerken trafik işaretlerine dikkat edilmelidir."
+      },
+      {
+        "zh": "请留意邮件里的附件。",
+        "pinyin": "Qǐng liúyì yóujiàn lǐ de fùjiàn.",
+        "en": "Lütfen e-postadaki eke dikkat edin."
+      },
+      {
+        "zh": "他一直留意着市场的变化。",
+        "pinyin": "Tā yìzhí liúyìzhe shìchǎng de biànhuà.",
+        "en": "Piyasadaki değişimleri sürekli takip ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w4717",
+    "hanzi": "流",
+    "pinyin": "liú",
+    "meaning": "Akmak; nakletmek, yaymak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "河水缓缓地流着。",
+        "pinyin": "Héshuǐ huǎnhuǎn de liúzhe.",
+        "en": "Nehir suyu yavaşça akıyor."
+      },
+      {
+        "zh": "他流了很多汗。",
+        "pinyin": "Tā liú le hěn duō hàn.",
+        "en": "Çok fazla terledi."
+      },
+      {
+        "zh": "眼泪从她脸上流下来。",
+        "pinyin": "Yǎnlèi cóng tā liǎn shàng liúxiàlai.",
+        "en": "Gözyaşları yüzünden aşağı süzüldü."
+      },
+      {
+        "zh": "血从伤口不断地流出来。",
+        "pinyin": "Xuè cóng shāngkǒu búduàn de liúchūlai.",
+        "en": "Kan yaradan durmadan akıyordu."
+      },
+      {
+        "zh": "谣言迅速在网上流传开来。",
+        "pinyin": "Yáoyán xùnsù zài wǎngshàng liúchuán kāilai.",
+        "en": "Söylenti internette hızla yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4718",
+    "hanzi": "流产",
+    "pinyin": "liúchǎn",
+    "meaning": "Düşük yapmak; suya düşmek, başarısız olmak (mecazi)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她不幸流产了。",
+        "pinyin": "Tā búxìng liúchǎn le.",
+        "en": "Ne yazık ki düşük yaptı."
+      },
+      {
+        "zh": "这项计划最终流产了。",
+        "pinyin": "Zhè xiàng jìhuà zuìzhōng liúchǎn le.",
+        "en": "Bu plan sonunda suya düştü."
+      },
+      {
+        "zh": "由于资金不足,项目流产了。",
+        "pinyin": "Yóuyú zījīn bùzú, xiàngmù liúchǎn le.",
+        "en": "Yeterli fon olmadığı için proje gerçekleşmedi."
+      },
+      {
+        "zh": "医生建议她注意休息以防流产。",
+        "pinyin": "Yīshēng jiànyì tā zhùyì xiūxi yǐfáng liúchǎn.",
+        "en": "Doktor düşük riskini önlemek için dinlenmesini tavsiye etti."
+      },
+      {
+        "zh": "这次并购谈判以流产告终。",
+        "pinyin": "Zhè cì bìnggòu tánpàn yǐ liúchǎn gàozhōng.",
+        "en": "Bu satın alma müzakeresi başarısızlıkla sonuçlandı."
+      }
+    ]
   }
 ]

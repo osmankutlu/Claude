@@ -225838,5 +225838,803 @@
         "en": "Onun hırsları insanları endişelendiriyor."
       }
     ]
+  },
+  {
+    "id": "w6795",
+    "hanzi": "页码",
+    "pinyin": "yèmǎ",
+    "meaning": "sayfa numarası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "请标注每一页的页码。",
+        "pinyin": "Qǐng biāozhù měi yī yè de yèmǎ.",
+        "en": "Lütfen her sayfaya sayfa numarası ekle."
+      },
+      {
+        "zh": "这本书的页码有点乱。",
+        "pinyin": "Zhè běn shū de yèmǎ yǒudiǎn luàn.",
+        "en": "Bu kitabın sayfa numaraları biraz karışık."
+      },
+      {
+        "zh": "翻到第五十页页码处。",
+        "pinyin": "Fān dào dì wǔshí yè yèmǎ chù.",
+        "en": "Elli numaralı sayfaya git."
+      },
+      {
+        "zh": "文档自动生成了页码。",
+        "pinyin": "Wéndàng zìdòng shēngchéngle yèmǎ.",
+        "en": "Belge otomatik olarak sayfa numarası oluşturdu."
+      },
+      {
+        "zh": "他记下了参考资料的页码。",
+        "pinyin": "Tā jìxiàle cānkǎo zīliào de yèmǎ.",
+        "en": "O referans kaynağının sayfa numarasını not aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6796",
+    "hanzi": "叶",
+    "pinyin": "yè",
+    "meaning": "yaprak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "秋天树叶变黄了。",
+        "pinyin": "Qiūtiān shùyè biàn huáng le.",
+        "en": "Sonbaharda ağaç yaprakları sarardı."
+      },
+      {
+        "zh": "一片叶子从树上飘落。",
+        "pinyin": "Yī piàn yèzi cóng shù shàng piāoluò.",
+        "en": "Bir yaprak ağaçtan süzülerek düştü."
+      },
+      {
+        "zh": "这种植物的叶子很大。",
+        "pinyin": "Zhè zhǒng zhíwù de yèzi hěn dà.",
+        "en": "Bu bitkinin yaprakları çok büyük."
+      },
+      {
+        "zh": "风吹动了树叶。",
+        "pinyin": "Fēng chuīdòngle shùyè.",
+        "en": "Rüzgar ağaç yapraklarını salladı."
+      },
+      {
+        "zh": "地上铺满了落叶。",
+        "pinyin": "Dìshàng pūmǎnle luòyè.",
+        "en": "Yer düşen yapraklarla kaplı."
+      }
+    ]
+  },
+  {
+    "id": "w6797",
+    "hanzi": "业绩",
+    "pinyin": "yèjì",
+    "meaning": "başarı, performans, çalışma sonucu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司今年的业绩很好。",
+        "pinyin": "Gōngsī jīnnián de yèjì hěn hǎo.",
+        "en": "Şirketin bu yılki performansı çok iyi."
+      },
+      {
+        "zh": "他因出色的业绩获得晋升。",
+        "pinyin": "Tā yīn chūsè de yèjì huòdé jìnshēng.",
+        "en": "O üstün performansı sayesinde terfi aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6798",
+    "hanzi": "业主",
+    "pinyin": "yèzhǔ",
+    "meaning": "mülk sahibi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "小区业主开了一次会议。",
+        "pinyin": "Xiǎoqū yèzhǔ kāile yī cì huìyì.",
+        "en": "Site sakinleri bir toplantı düzenledi."
+      },
+      {
+        "zh": "他是这栋大楼的业主之一。",
+        "pinyin": "Tā shì zhè dòng dàlóu de yèzhǔ zhī yī.",
+        "en": "O bu binanın mülk sahiplerinden biri."
+      }
+    ]
+  },
+  {
+    "id": "w6799",
+    "hanzi": "夜班",
+    "pinyin": "yèbān",
+    "meaning": "gece vardiyası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他这周要上夜班。",
+        "pinyin": "Tā zhè zhōu yào shàng yèbān.",
+        "en": "O bu hafta gece vardiyasında çalışacak."
+      },
+      {
+        "zh": "护士经常需要值夜班。",
+        "pinyin": "Hùshi jīngcháng xūyào zhí yèbān.",
+        "en": "Hemşireler sık sık gece nöbeti tutmak zorundadır."
+      },
+      {
+        "zh": "夜班的工资比白班高一些。",
+        "pinyin": "Yèbān de gōngzī bǐ báibān gāo yīxiē.",
+        "en": "Gece vardiyasının maaşı gündüz vardiyasından biraz daha yüksektir."
+      },
+      {
+        "zh": "上完夜班他很疲惫。",
+        "pinyin": "Shàngwán yèbān tā hěn píbèi.",
+        "en": "Gece vardiyasından sonra çok yorgun."
+      },
+      {
+        "zh": "工厂实行三班倒,包括夜班。",
+        "pinyin": "Gōngchǎng shíxíng sānbāndǎo, bāokuò yèbān.",
+        "en": "Fabrikada gece vardiyası dahil üç vardiya sistemi uygulanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6800",
+    "hanzi": "夜间",
+    "pinyin": "yèjiān",
+    "meaning": "gece vakti",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "夜间气温下降明显。",
+        "pinyin": "Yèjiān qìwēn xiàjiàng míngxiǎn.",
+        "en": "Gece vakti sıcaklık belirgin şekilde düşer."
+      },
+      {
+        "zh": "夜间施工会产生噪音。",
+        "pinyin": "Yèjiān shīgōng huì chǎnshēng zàoyīn.",
+        "en": "Gece inşaatı gürültüye neden olabilir."
+      },
+      {
+        "zh": "医院夜间也有急诊服务。",
+        "pinyin": "Yīyuàn yèjiān yě yǒu jízhěn fúwù.",
+        "en": "Hastanede gece vakti de acil servis hizmeti var."
+      },
+      {
+        "zh": "夜间开车要格外小心。",
+        "pinyin": "Yèjiān kāichē yào géwài xiǎoxīn.",
+        "en": "Gece araba kullanırken özellikle dikkatli olmak gerekir."
+      },
+      {
+        "zh": "他习惯夜间工作。",
+        "pinyin": "Tā xíguàn yèjiān gōngzuò.",
+        "en": "O gece çalışmaya alışkın."
+      }
+    ]
+  },
+  {
+    "id": "w6801",
+    "hanzi": "夜景",
+    "pinyin": "yèjǐng",
+    "meaning": "gece manzarası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这座城市的夜景非常漂亮。",
+        "pinyin": "Zhè zuò chéngshì de yèjǐng fēicháng piàoliang.",
+        "en": "Bu şehrin gece manzarası çok güzel."
+      },
+      {
+        "zh": "他们登上高楼欣赏夜景。",
+        "pinyin": "Tāmen dēngshàng gāolóu xīnshǎng yèjǐng.",
+        "en": "Onlar yüksek binaya çıkıp gece manzarasını izliyorlar."
+      },
+      {
+        "zh": "摄影师拍下了美丽的夜景。",
+        "pinyin": "Shèyǐngshī pāixiàle měilì de yèjǐng.",
+        "en": "Fotoğrafçı güzel bir gece manzarası çekti."
+      },
+      {
+        "zh": "游客们很喜欢这里的夜景。",
+        "pinyin": "Yóukèmen hěn xǐhuān zhèlǐ de yèjǐng.",
+        "en": "Turistler buradaki gece manzarasını çok seviyorlar."
+      },
+      {
+        "zh": "站在桥上可以看到全城的夜景。",
+        "pinyin": "Zhàn zài qiáo shàng kěyǐ kàndào quán chéng de yèjǐng.",
+        "en": "Köprünün üzerinde durunca tüm şehrin gece manzarası görülebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6802",
+    "hanzi": "夜晚",
+    "pinyin": "yèwǎn",
+    "meaning": "gece geç vakit",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "夜晚的街道很安静。",
+        "pinyin": "Yèwǎn de jiēdào hěn ānjìng.",
+        "en": "Gece vakti sokaklar çok sessiz."
+      },
+      {
+        "zh": "他喜欢在夜晚散步。",
+        "pinyin": "Tā xǐhuān zài yèwǎn sànbù.",
+        "en": "O gece vakti yürüyüş yapmayı sever."
+      },
+      {
+        "zh": "夜晚的星空格外美丽。",
+        "pinyin": "Yèwǎn de xīngkōng géwài měilì.",
+        "en": "Gece gökyüzü özellikle güzel."
+      },
+      {
+        "zh": "夏天的夜晚比较凉爽。",
+        "pinyin": "Xiàtiān de yèwǎn bǐjiào liángshuǎng.",
+        "en": "Yaz geceleri oldukça serin."
+      },
+      {
+        "zh": "在寂静的夜晚他难以入睡。",
+        "pinyin": "Zài jìjìng de yèwǎn tā nányǐ rùshuì.",
+        "en": "Sessiz gece vakitlerinde uyumakta zorlanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6803",
+    "hanzi": "夜校",
+    "pinyin": "yèxiào",
+    "meaning": "gece okulu, akşam okulu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他白天工作,晚上上夜校。",
+        "pinyin": "Tā báitiān gōngzuò, wǎnshang shàng yèxiào.",
+        "en": "O gündüz çalışıyor, akşamları gece okuluna gidiyor."
+      },
+      {
+        "zh": "夜校为在职人员提供学习机会。",
+        "pinyin": "Yèxiào wèi zàizhí rényuán tígōng xuéxí jīhuì.",
+        "en": "Gece okulu çalışanlara öğrenme fırsatı sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6804",
+    "hanzi": "液",
+    "pinyin": "yè",
+    "meaning": "sıvı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这瓶液体是什么颜色的?",
+        "pinyin": "Zhè píng yètǐ shì shénme yánsè de?",
+        "en": "Bu şişedeki sıvı ne renk?"
+      },
+      {
+        "zh": "他喝了一口液体药物。",
+        "pinyin": "Tā hēle yī kǒu yètǐ yàowù.",
+        "en": "O bir yudum sıvı ilaç içti."
+      },
+      {
+        "zh": "血液在体内不断循环。",
+        "pinyin": "Xuèyè zài tǐnèi bùduàn xúnhuán.",
+        "en": "Kan vücutta sürekli dolaşır."
+      },
+      {
+        "zh": "这种液体有刺激性气味。",
+        "pinyin": "Zhè zhǒng yètǐ yǒu cìjīxìng qìwèi.",
+        "en": "Bu sıvının keskin bir kokusu var."
+      },
+      {
+        "zh": "实验中需要用到少量液体。",
+        "pinyin": "Shíyàn zhōng xūyào yòngdào shǎoliàng yètǐ.",
+        "en": "Deneyde az miktarda sıvı kullanılması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6805",
+    "hanzi": "液化",
+    "pinyin": "yèhuà",
+    "meaning": "sıvılaşmak, sıvılaştırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "气体在低温下会液化。",
+        "pinyin": "Qìtǐ zài dīwēn xià huì yèhuà.",
+        "en": "Gaz düşük sıcaklıkta sıvılaşabilir."
+      },
+      {
+        "zh": "这个装置可以将天然气液化。",
+        "pinyin": "Zhège zhuāngzhì kěyǐ jiāng tiānránqì yèhuà.",
+        "en": "Bu cihaz doğal gazı sıvılaştırabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6806",
+    "hanzi": "一把手",
+    "pinyin": "yībǎshǒu",
+    "meaning": "birinci sorumlu kişi, en üst yetkili",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是公司的一把手。",
+        "pinyin": "Tā shì gōngsī de yībǎshǒu.",
+        "en": "O şirketin en üst yöneticisi."
+      },
+      {
+        "zh": "作为一把手,他要为决策负全责。",
+        "pinyin": "Zuòwéi yībǎshǒu, tā yào wèi juécè fù quánzé.",
+        "en": "En üst yetkili olarak, kararlardan tamamen sorumlu olması gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6807",
+    "hanzi": "一并",
+    "pinyin": "yībìng",
+    "meaning": "aynı anda, birlikte",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请把这些问题一并解决。",
+        "pinyin": "Qǐng bǎ zhèxiē wèntí yībìng jiějué.",
+        "en": "Lütfen bu sorunları aynı anda çözün."
+      },
+      {
+        "zh": "两件事情一并办理会更方便。",
+        "pinyin": "Liǎng jiàn shìqing yībìng bànlǐ huì gèng fāngbiàn.",
+        "en": "İki işi birlikte halletmek daha uygun olur."
+      }
+    ]
+  },
+  {
+    "id": "w6808",
+    "hanzi": "一道",
+    "pinyin": "yīdào",
+    "meaning": "beraber, birlikte",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我们一道去看电影吧。",
+        "pinyin": "Wǒmen yīdào qù kàn diànyǐng ba.",
+        "en": "Hep birlikte film izlemeye gidelim."
+      },
+      {
+        "zh": "他们一道完成了这项任务。",
+        "pinyin": "Tāmen yīdào wánchéngle zhè xiàng rènwu.",
+        "en": "Onlar bu görevi birlikte tamamladılar."
+      },
+      {
+        "zh": "我们一道走过了很多年。",
+        "pinyin": "Wǒmen yīdào zǒuguòle hěn duō nián.",
+        "en": "Biz birlikte birçok yıl geçirdik."
+      },
+      {
+        "zh": "全家人一道过年。",
+        "pinyin": "Quánjiā rén yīdào guònián.",
+        "en": "Tüm aile birlikte yeni yılı kutluyor."
+      },
+      {
+        "zh": "我们一道努力克服困难。",
+        "pinyin": "Wǒmen yīdào nǔlì kèfú kùnnan.",
+        "en": "Biz birlikte zorlukları aşmak için çabalıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w6809",
+    "hanzi": "一等",
+    "pinyin": "yīděng",
+    "meaning": "birinci sınıf, en iyi",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他获得了一等奖。",
+        "pinyin": "Tā huòdéle yīděng jiǎng.",
+        "en": "O birincilik ödülünü kazandı."
+      },
+      {
+        "zh": "这是一等品质的产品。",
+        "pinyin": "Zhè shì yīděng pǐnzhì de chǎnpǐn.",
+        "en": "Bu birinci sınıf kalitede bir ürün."
+      },
+      {
+        "zh": "他坐的是一等座位。",
+        "pinyin": "Tā zuò de shì yīděng zuòwèi.",
+        "en": "O birinci sınıf koltukta oturuyor."
+      },
+      {
+        "zh": "她的成绩排在班级一等。",
+        "pinyin": "Tā de chéngjì pái zài bānjí yīděng.",
+        "en": "Onun notu sınıfta birinci sırada."
+      },
+      {
+        "zh": "这家酒店提供一等的服务。",
+        "pinyin": "Zhè jiā jiǔdiàn tígōng yīděng de fúwù.",
+        "en": "Bu otel birinci sınıf hizmet sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6810",
+    "hanzi": "一度",
+    "pinyin": "yīdù",
+    "meaning": "bir zamanlar, bir kez",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他一度是这个领域的权威。",
+        "pinyin": "Tā yīdù shì zhège lǐngyù de quánwēi.",
+        "en": "O bir zamanlar bu alanda otoriteydi."
+      },
+      {
+        "zh": "这项政策一度取消了。",
+        "pinyin": "Zhè xiàng zhèngcè yīdù qǔxiāo le.",
+        "en": "Bu politika bir dönem iptal edilmişti."
+      },
+      {
+        "zh": "他们一度失去了联系。",
+        "pinyin": "Tāmen yīdù shīqùle liánxì.",
+        "en": "Onlar bir dönem iletişimlerini kaybetmişti."
+      },
+      {
+        "zh": "她一度考虑放弃这个项目。",
+        "pinyin": "Tā yīdù kǎolǜ fàngqì zhège xiàngmù.",
+        "en": "O bir dönem bu projeyi bırakmayı düşünmüştü."
+      },
+      {
+        "zh": "这种产品一度非常流行。",
+        "pinyin": "Zhè zhǒng chǎnpǐn yīdù fēicháng liúxíng.",
+        "en": "Bu tür bir ürün bir zamanlar çok popülerdi."
+      }
+    ]
+  },
+  {
+    "id": "w6811",
+    "hanzi": "一帆风顺",
+    "pinyin": "yīfānfēngshùn",
+    "meaning": "işlerin yolunda gitmesi, rüzgarı arkasına almak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "祝你事业一帆风顺。",
+        "pinyin": "Zhù nǐ shìyè yīfānfēngshùn.",
+        "en": "İşinin sorunsuz gitmesini dilerim."
+      },
+      {
+        "zh": "人生不可能总是一帆风顺。",
+        "pinyin": "Rénshēng bù kěnéng zǒngshì yīfānfēngshùn.",
+        "en": "Hayat her zaman sorunsuz gidemez."
+      }
+    ]
+  },
+  {
+    "id": "w6812",
+    "hanzi": "一方面",
+    "pinyin": "yīfāngmiàn",
+    "meaning": "bir yandan, bir taraftan",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "一方面他很努力,另一方面他很聪明。",
+        "pinyin": "Yīfāngmiàn tā hěn nǔlì, lìng yīfāngmiàn tā hěn cōngming.",
+        "en": "Bir yandan çok çalışkan, öte yandan da çok zeki."
+      },
+      {
+        "zh": "这个计划一方面能省钱,一方面能省时间。",
+        "pinyin": "Zhège jìhuà yīfāngmiàn néng shěngqián, yīfāngmiàn néng shěng shíjiān.",
+        "en": "Bu plan bir yandan para tasarrufu sağlarken, öte yandan zaman da kazandırıyor."
+      },
+      {
+        "zh": "一方面要发展经济,一方面要保护环境。",
+        "pinyin": "Yīfāngmiàn yào fāzhǎn jīngjì, yīfāngmiàn yào bǎohù huánjìng.",
+        "en": "Bir yandan ekonomiyi geliştirmek, öte yandan çevreyi korumak gerekiyor."
+      },
+      {
+        "zh": "一方面他想去旅行,一方面又担心花费太多。",
+        "pinyin": "Yīfāngmiàn tā xiǎng qù lǚxíng, yīfāngmiàn yòu dānxīn huāfèi tài duō.",
+        "en": "Bir yandan seyahat etmek istiyor, öte yandan fazla masraf yapmaktan endişeleniyor."
+      },
+      {
+        "zh": "一方面感到高兴,一方面又有些不舍。",
+        "pinyin": "Yīfāngmiàn gǎndào gāoxìng, yīfāngmiàn yòu yǒuxiē bùshě.",
+        "en": "Bir yandan sevinç duyarken, öte yandan biraz da ayrılık hüznü hissediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6813",
+    "hanzi": "一概",
+    "pinyin": "yīgài",
+    "meaning": "hepsi, istisnasız",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "对此类问题一概不予回答。",
+        "pinyin": "Duì cǐ lèi wèntí yīgài bùyǔ huídá.",
+        "en": "Bu tür sorular istisnasız yanıtlanmayacaktır."
+      },
+      {
+        "zh": "所有申请一概按规定处理。",
+        "pinyin": "Suǒyǒu shēnqǐng yīgài àn guīdìng chǔlǐ.",
+        "en": "Tüm başvurular istisnasız kurallara göre işlenir."
+      }
+    ]
+  },
+  {
+    "id": "w6814",
+    "hanzi": "一贯",
+    "pinyin": "yīguàn",
+    "meaning": "tutarlı, sürekli, hep aynı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他一贯认真负责。",
+        "pinyin": "Tā yīguàn rènzhēn fùzé.",
+        "en": "O her zaman ciddi ve sorumlu davranır."
+      },
+      {
+        "zh": "这是公司一贯的政策。",
+        "pinyin": "Zhè shì gōngsī yīguàn de zhèngcè.",
+        "en": "Bu şirketin her zamanki politikasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6815",
+    "hanzi": "一举两得",
+    "pinyin": "yījǔliǎngdé",
+    "meaning": "bir taşla iki kuş vurmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "骑车上班既环保又锻炼身体,真是一举两得。",
+        "pinyin": "Qíchē shàngbān jì huánbǎo yòu duànliàn shēntǐ, zhēnshi yījǔliǎngdé.",
+        "en": "Bisikletle işe gitmek hem çevre dostu hem de spor, tam anlamıyla bir taşla iki kuş."
+      },
+      {
+        "zh": "这个方法可以一举两得。",
+        "pinyin": "Zhège fāngfǎ kěyǐ yījǔliǎngdé.",
+        "en": "Bu yöntem bir taşla iki kuş vurabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6816",
+    "hanzi": "一口气",
+    "pinyin": "yīkǒuqì",
+    "meaning": "bir nefeste, tek seferde",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他一口气读完了这本书。",
+        "pinyin": "Tā yīkǒuqì dúwánle zhè běn shū.",
+        "en": "O bu kitabı bir nefeste bitirdi."
+      },
+      {
+        "zh": "她一口气跑了五公里。",
+        "pinyin": "Tā yīkǒuqì pǎole wǔ gōnglǐ.",
+        "en": "O bir seferde beş kilometre koştu."
+      },
+      {
+        "zh": "他一口气喝完了一杯水。",
+        "pinyin": "Tā yīkǒuqì hēwánle yī bēi shuǐ.",
+        "en": "O bir yudumda bir bardak suyu bitirdi."
+      },
+      {
+        "zh": "她一口气说完了所有的话。",
+        "pinyin": "Tā yīkǒuqì shuōwánle suǒyǒu de huà.",
+        "en": "O tüm sözlerini tek seferde söyledi."
+      },
+      {
+        "zh": "他一口气爬到了山顶。",
+        "pinyin": "Tā yīkǒuqì pádàole shāndǐng.",
+        "en": "O bir seferde zirveye tırmandı."
+      }
+    ]
+  },
+  {
+    "id": "w6817",
+    "hanzi": "一块儿",
+    "pinyin": "yīkuàir",
+    "meaning": "beraber, birlikte",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我们一块儿去吃饭吧。",
+        "pinyin": "Wǒmen yīkuàir qù chīfàn ba.",
+        "en": "Hep birlikte yemeğe gidelim."
+      },
+      {
+        "zh": "他们一块儿住在这里。",
+        "pinyin": "Tāmen yīkuàir zhù zài zhèlǐ.",
+        "en": "Onlar burada birlikte yaşıyor."
+      },
+      {
+        "zh": "我们一块儿工作了很多年。",
+        "pinyin": "Wǒmen yīkuàir gōngzuòle hěn duō nián.",
+        "en": "Biz yıllarca birlikte çalıştık."
+      },
+      {
+        "zh": "把这些东西放一块儿吧。",
+        "pinyin": "Bǎ zhèxiē dōngxi fàng yīkuàir ba.",
+        "en": "Bu eşyaları bir araya koy."
+      },
+      {
+        "zh": "我们一块儿度过了一个愉快的周末。",
+        "pinyin": "Wǒmen yīkuàir dùguòle yī gè yúkuài de zhōumò.",
+        "en": "Biz keyifli bir hafta sonunu birlikte geçirdik."
+      }
+    ]
+  },
+  {
+    "id": "w6818",
+    "hanzi": "一连串",
+    "pinyin": "yīliánchuàn",
+    "meaning": "birbiri ardına, seri halinde",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他提出了一连串的问题。",
+        "pinyin": "Tā tíchūle yīliánchuàn de wèntí.",
+        "en": "O peş peşe bir dizi soru sordu."
+      },
+      {
+        "zh": "公司经历了一连串的变化。",
+        "pinyin": "Gōngsī jīnglìle yīliánchuàn de biànhuà.",
+        "en": "Şirket bir dizi değişim yaşadı."
+      }
+    ]
+  },
+  {
+    "id": "w6819",
+    "hanzi": "一律",
+    "pinyin": "yīlǜ",
+    "meaning": "istisnasız, aynı şekilde",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "所有员工一律准时上班。",
+        "pinyin": "Suǒyǒu yuángōng yīlǜ zhǔnshí shàngbān.",
+        "en": "Tüm çalışanlar istisnasız zamanında işe gelmeli."
+      },
+      {
+        "zh": "违规者一律罚款。",
+        "pinyin": "Wéiguīzhě yīlǜ fákuǎn.",
+        "en": "Kurala uymayanlara istisnasız para cezası uygulanır."
+      }
+    ]
+  },
+  {
+    "id": "w6820",
+    "hanzi": "一面",
+    "pinyin": "yīmiàn",
+    "meaning": "bir taraf; bir yandan...bir yandan...",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他一面工作,一面听音乐。",
+        "pinyin": "Tā yīmiàn gōngzuò, yīmiàn tīng yīnyuè.",
+        "en": "O bir yandan çalışırken bir yandan müzik dinliyor."
+      },
+      {
+        "zh": "她一面走,一面思考。",
+        "pinyin": "Tā yīmiàn zǒu, yīmiàn sīkǎo.",
+        "en": "O bir yandan yürürken bir yandan düşünüyor."
+      },
+      {
+        "zh": "这是事情的另一面。",
+        "pinyin": "Zhè shì shìqing de lìng yīmiàn.",
+        "en": "Bu olayın diğer bir yönü."
+      },
+      {
+        "zh": "他一面点头,一面微笑。",
+        "pinyin": "Tā yīmiàn diǎntóu, yīmiàn wēixiào.",
+        "en": "O bir yandan başını sallarken bir yandan gülümsüyor."
+      },
+      {
+        "zh": "我们只见过一面。",
+        "pinyin": "Wǒmen zhǐ jiànguò yīmiàn.",
+        "en": "Biz sadece bir kez görüştük."
+      }
+    ]
+  },
+  {
+    "id": "w6821",
+    "hanzi": "一模一样",
+    "pinyin": "yīmúyīyàng",
+    "meaning": "birebir aynı, tıpatıp benzer",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这两件衣服一模一样。",
+        "pinyin": "Zhè liǎng jiàn yīfu yīmúyīyàng.",
+        "en": "Bu iki kıyafet birbirinin tıpatıp aynısı."
+      },
+      {
+        "zh": "她和她妹妹长得一模一样。",
+        "pinyin": "Tā hé tā mèimei zhǎng de yīmúyīyàng.",
+        "en": "O ve kız kardeşi birbirlerine tıpatıp benziyor."
+      }
+    ]
+  },
+  {
+    "id": "w6822",
+    "hanzi": "一目了然",
+    "pinyin": "yīmùliǎorán",
+    "meaning": "bir bakışta anlamak, gözle görülür açıklıkta",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这张图表让数据一目了然。",
+        "pinyin": "Zhè zhāng túbiǎo ràng shùjù yīmùliǎorán.",
+        "en": "Bu grafik verileri bir bakışta anlaşılır kılıyor."
+      },
+      {
+        "zh": "他的解释使问题一目了然。",
+        "pinyin": "Tā de jiěshì shǐ wèntí yīmùliǎorán.",
+        "en": "Onun açıklaması sorunu bir bakışta anlaşılır kıldı."
+      }
+    ]
   }
 ]

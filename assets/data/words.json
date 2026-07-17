@@ -241930,5 +241930,833 @@
         "en": "Tam baharın çiçek açtığı mevsimde piknik yapmaya gittik."
       }
     ]
+  },
+  {
+    "id": "w7323",
+    "hanzi": "正点",
+    "pinyin": "zhèngdiǎn",
+    "meaning": "tam vaktinde (tren, uçak vb.)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这趟航班正点起飞。",
+        "pinyin": "Zhè tàng hángbān zhèngdiǎn qǐfēi.",
+        "en": "Bu uçuş tam vaktinde kalktı."
+      },
+      {
+        "zh": "火车没有正点到达。",
+        "pinyin": "Huǒchē méiyǒu zhèngdiǎn dàodá.",
+        "en": "Tren tam vaktinde varmadı."
+      },
+      {
+        "zh": "希望这次能正点到站。",
+        "pinyin": "Xīwàng zhè cì néng zhèngdiǎn dàozhàn.",
+        "en": "Umarım bu sefer istasyona tam vaktinde varır."
+      },
+      {
+        "zh": "由于大雾，航班无法正点起飞。",
+        "pinyin": "Yóuyú dà wù, hángbān wúfǎ zhèngdiǎn qǐfēi.",
+        "en": "Yoğun sis yüzünden uçuş tam vaktinde kalkamadı."
+      },
+      {
+        "zh": "这条线路的公交车很少正点。",
+        "pinyin": "Zhè tiáo xiànlù de gōngjiāochē hěn shǎo zhèngdiǎn.",
+        "en": "Bu hattaki otobüs nadiren tam vaktinde geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7324",
+    "hanzi": "正电",
+    "pinyin": "zhèngdiàn",
+    "meaning": "pozitif elektrik yükü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "质子带正电。",
+        "pinyin": "Zhìzǐ dài zhèngdiàn.",
+        "en": "Proton pozitif yük taşır."
+      },
+      {
+        "zh": "正电和负电相互吸引。",
+        "pinyin": "Zhèngdiàn hé fùdiàn xiānghù xīyǐn.",
+        "en": "Pozitif ve negatif elektrik birbirini çeker."
+      }
+    ]
+  },
+  {
+    "id": "w7325",
+    "hanzi": "正反",
+    "pinyin": "zhèng-fǎn",
+    "meaning": "pozitif ve negatif, olumlu ve olumsuz",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他把正反两方面的意见都听了。",
+        "pinyin": "Tā bǎ zhèng-fǎn liǎng fāngmiàn de yìjiàn dōu tīng le.",
+        "en": "Hem olumlu hem olumsuz görüşleri dinledi."
+      },
+      {
+        "zh": "这枚硬币有正反两面。",
+        "pinyin": "Zhè méi yìngbì yǒu zhèng-fǎn liǎng miàn.",
+        "en": "Bu madeni paranın ön ve arka yüzü var."
+      }
+    ]
+  },
+  {
+    "id": "w7326",
+    "hanzi": "正规",
+    "pinyin": "zhèngguī",
+    "meaning": "düzenli, resmi, standart",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一家正规的医院。",
+        "pinyin": "Zhè shì yì jiā zhèngguī de yīyuàn.",
+        "en": "Bu resmi, ruhsatlı bir hastane."
+      },
+      {
+        "zh": "他接受了正规的军事训练。",
+        "pinyin": "Tā jiēshòule zhèngguī de jūnshì xùnliàn.",
+        "en": "Düzenli askeri eğitim aldı."
+      },
+      {
+        "zh": "请通过正规渠道购买。",
+        "pinyin": "Qǐng tōngguò zhèngguī qúdào gòumǎi.",
+        "en": "Lütfen resmi kanallar üzerinden satın alın."
+      },
+      {
+        "zh": "这所学校不是正规大学。",
+        "pinyin": "Zhè suǒ xuéxiào bú shì zhèngguī dàxué.",
+        "en": "Bu okul resmi bir üniversite değil."
+      },
+      {
+        "zh": "公司要求员工正规着装。",
+        "pinyin": "Gōngsī yāoqiú yuángōng zhèngguī zhuózhuāng.",
+        "en": "Şirket çalışanlardan düzgün kıyafet giymelerini istiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7327",
+    "hanzi": "正轨",
+    "pinyin": "zhèngguǐ",
+    "meaning": "doğru yol, yörünge",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "公司业务已经走上正轨。",
+        "pinyin": "Gōngsī yèwù yǐjīng zǒushàng zhèngguǐ.",
+        "en": "Şirketin işleri artık doğru yolda ilerliyor."
+      },
+      {
+        "zh": "经过调整，生活重新回到正轨。",
+        "pinyin": "Jīngguò tiáozhěng, shēnghuó chóngxīn huídào zhèngguǐ.",
+        "en": "Ayarlamalardan sonra hayat yeniden yoluna girdi."
+      }
+    ]
+  },
+  {
+    "id": "w7328",
+    "hanzi": "正经",
+    "pinyin": "zhèngjing",
+    "meaning": "ciddi, terbiyeli, düzgün",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是个正经的人。",
+        "pinyin": "Tā shì gè zhèngjing de rén.",
+        "en": "O terbiyeli bir insandır."
+      },
+      {
+        "zh": "别开玩笑了，说正经的。",
+        "pinyin": "Bié kāi wánxiào le, shuō zhèngjing de.",
+        "en": "Şaka yapma, ciddi konuş."
+      },
+      {
+        "zh": "他一本正经地回答问题。",
+        "pinyin": "Tā yìběnzhèngjīng de huídá wèntí.",
+        "en": "Son derece ciddi bir tavırla soruyu yanıtladı."
+      },
+      {
+        "zh": "找个正经工作吧。",
+        "pinyin": "Zhǎo gè zhèngjing gōngzuò ba.",
+        "en": "Düzgün bir iş bul artık."
+      },
+      {
+        "zh": "她穿得很正经。",
+        "pinyin": "Tā chuān de hěn zhèngjing.",
+        "en": "Çok düzgün giyinmiş."
+      }
+    ]
+  },
+  {
+    "id": "w7329",
+    "hanzi": "正面",
+    "pinyin": "zhèngmiàn",
+    "meaning": "ön taraf; olumlu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请从正面看这张照片。",
+        "pinyin": "Qǐng cóng zhèngmiàn kàn zhè zhāng zhàopiàn.",
+        "en": "Lütfen bu fotoğrafa önden bakın."
+      },
+      {
+        "zh": "这件事对他有正面的影响。",
+        "pinyin": "Zhè jiàn shì duì tā yǒu zhèngmiàn de yǐngxiǎng.",
+        "en": "Bu olay onun üzerinde olumlu bir etki bıraktı."
+      },
+      {
+        "zh": "硬币的正面是国旗图案。",
+        "pinyin": "Yìngbì de zhèngmiàn shì guóqí tú'àn.",
+        "en": "Madeni paranın ön yüzünde bayrak deseni var."
+      },
+      {
+        "zh": "我们应该正面看待这个问题。",
+        "pinyin": "Wǒmen yīnggāi zhèngmiàn kàndài zhège wèntí.",
+        "en": "Bu soruna olumlu bir açıdan bakmalıyız."
+      },
+      {
+        "zh": "他直接从正面走了进来。",
+        "pinyin": "Tā zhíjiē cóng zhèngmiàn zǒule jìnlái.",
+        "en": "Doğrudan ön kapıdan içeri girdi."
+      }
+    ]
+  },
+  {
+    "id": "w7330",
+    "hanzi": "正派",
+    "pinyin": "zhèngpài",
+    "meaning": "namuslu, dürüst, sağlam karakterli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人正派，值得信赖。",
+        "pinyin": "Tā wéirén zhèngpài, zhídé xìnlài.",
+        "en": "Karakteri dürüst, güvenilir bir insan."
+      },
+      {
+        "zh": "她一直保持着正派的作风。",
+        "pinyin": "Tā yìzhí bǎochízhe zhèngpài de zuòfēng.",
+        "en": "Her zaman dürüst bir tutum sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w7331",
+    "hanzi": "正品",
+    "pinyin": "zhèngpǐn",
+    "meaning": "orijinal ürün, kaliteli ürün",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这家店只卖正品。",
+        "pinyin": "Zhè jiā diàn zhǐ mài zhèngpǐn.",
+        "en": "Bu dükkan sadece orijinal ürün satıyor."
+      },
+      {
+        "zh": "如何辨别正品和假货？",
+        "pinyin": "Rúhé biànbié zhèngpǐn hé jiǎhuò?",
+        "en": "Orijinal ürünle sahtesini nasıl ayırt ederiz?"
+      },
+      {
+        "zh": "购买正品才有保修服务。",
+        "pinyin": "Gòumǎi zhèngpǐn cái yǒu bǎoxiū fúwù.",
+        "en": "Sadece orijinal ürün alınca garanti hizmeti olur."
+      },
+      {
+        "zh": "网上购物要小心买到非正品。",
+        "pinyin": "Wǎngshàng gòuwù yào xiǎoxīn mǎidào fēi zhèngpǐn.",
+        "en": "İnternetten alışverişte sahte ürün almamaya dikkat etmeli."
+      },
+      {
+        "zh": "这瓶香水是正品，有防伪码。",
+        "pinyin": "Zhè píng xiāngshuǐ shì zhèngpǐn, yǒu fángwěi mǎ.",
+        "en": "Bu parfüm orijinal, sahtecilik önleyici kodu var."
+      }
+    ]
+  },
+  {
+    "id": "w7332",
+    "hanzi": "正气",
+    "pinyin": "zhèngqì",
+    "meaning": "doğruluk ruhu, ahlaki bütünlük",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "社会需要弘扬正气。",
+        "pinyin": "Shèhuì xūyào hóngyáng zhèngqì.",
+        "en": "Toplumun dürüstlük ruhunu yaymaya ihtiyacı var."
+      },
+      {
+        "zh": "他一身正气，从不做亏心事。",
+        "pinyin": "Tā yìshēn zhèngqì, cóng bú zuò kuīxīnshì.",
+        "en": "Son derece dürüst biridir, hiç vicdanına aykırı bir iş yapmaz."
+      }
+    ]
+  },
+  {
+    "id": "w7333",
+    "hanzi": "正巧",
+    "pinyin": "zhèngqiǎo",
+    "meaning": "tam da, tesadüfen, tam zamanında",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "我正巧路过这里。",
+        "pinyin": "Wǒ zhèngqiǎo lùguò zhèlǐ.",
+        "en": "Tam da buradan geçiyordum."
+      },
+      {
+        "zh": "正巧我也要去那儿。",
+        "pinyin": "Zhèngqiǎo wǒ yě yào qù nàr.",
+        "en": "Ben de tam oraya gidecektim."
+      },
+      {
+        "zh": "正巧碰上他在家。",
+        "pinyin": "Zhèngqiǎo pèngshàng tā zài jiā.",
+        "en": "Tam da evde olduğu bir anda ona rastladım."
+      },
+      {
+        "zh": "正巧那天下雨，比赛取消了。",
+        "pinyin": "Zhèngqiǎo nà tiān xiàyǔ, bǐsài qǔxiāo le.",
+        "en": "Tam o gün yağmur yağdı, maç iptal oldu."
+      },
+      {
+        "zh": "正巧我手头有多余的票。",
+        "pinyin": "Zhèngqiǎo wǒ shǒutóu yǒu duōyú de piào.",
+        "en": "Tam da elimde fazladan bilet vardı."
+      }
+    ]
+  },
+  {
+    "id": "w7334",
+    "hanzi": "正人君子",
+    "pinyin": "zhèngrén-jūnzǐ",
+    "meaning": "asil karakterli, dürüst bir insan",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他表面上是正人君子。",
+        "pinyin": "Tā biǎomiàn shàng shì zhèngrén-jūnzǐ.",
+        "en": "Görünüşte dürüst ve asil bir insan gibi."
+      },
+      {
+        "zh": "他一直以正人君子自居。",
+        "pinyin": "Tā yìzhí yǐ zhèngrén-jūnzǐ zìjū.",
+        "en": "Kendini hep asil bir insan olarak görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7335",
+    "hanzi": "正视",
+    "pinyin": "zhèngshì",
+    "meaning": "yüzleşmek, doğrudan ele almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们必须正视这个问题。",
+        "pinyin": "Wǒmen bìxū zhèngshì zhège wèntí.",
+        "en": "Bu sorunla yüzleşmeliyiz."
+      },
+      {
+        "zh": "他不敢正视自己的错误。",
+        "pinyin": "Tā bù gǎn zhèngshì zìjǐ de cuòwù.",
+        "en": "Kendi hatalarıyla yüzleşmeye cesaret edemiyor."
+      },
+      {
+        "zh": "企业应正视市场变化。",
+        "pinyin": "Qǐyè yīng zhèngshì shìchǎng biànhuà.",
+        "en": "Şirketler pazardaki değişimlerle yüzleşmeli."
+      },
+      {
+        "zh": "她学会了正视自己的缺点。",
+        "pinyin": "Tā xuéhuìle zhèngshì zìjǐ de quēdiǎn.",
+        "en": "Kendi eksikleriyle yüzleşmeyi öğrendi."
+      },
+      {
+        "zh": "他正视着对方的眼睛说话。",
+        "pinyin": "Tā zhèngshìzhe duìfāng de yǎnjing shuōhuà.",
+        "en": "Karşısındakinin gözlerine bakarak konuşuyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7336",
+    "hanzi": "正事",
+    "pinyin": "zhèngshì",
+    "meaning": "ciddi iş, asıl mesele",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "别闲聊了，说说正事吧。",
+        "pinyin": "Bié xiánliáo le, shuōshuo zhèngshì ba.",
+        "en": "Boş konuşmayı bırak, asıl meseleyi konuşalım."
+      },
+      {
+        "zh": "他整天不干正事。",
+        "pinyin": "Tā zhěng tiān bú gàn zhèngshì.",
+        "en": "Bütün gün ciddi bir iş yapmıyor."
+      },
+      {
+        "zh": "先把正事办完再玩吧。",
+        "pinyin": "Xiān bǎ zhèngshì bànwán zài wán ba.",
+        "en": "Önce asıl işi bitir sonra oyna."
+      },
+      {
+        "zh": "会议一开始就谈正事。",
+        "pinyin": "Huìyì yī kāishǐ jiù tán zhèngshì.",
+        "en": "Toplantı başlar başlamaz asıl konuya girildi."
+      },
+      {
+        "zh": "他总算说了句正事。",
+        "pinyin": "Tā zǒngsuàn shuōle jù zhèngshì.",
+        "en": "Sonunda ciddi bir şey söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w7337",
+    "hanzi": "正数",
+    "pinyin": "zhèngshù",
+    "meaning": "pozitif sayı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "正数大于零。",
+        "pinyin": "Zhèngshù dàyú líng.",
+        "en": "Pozitif sayılar sıfırdan büyüktür."
+      },
+      {
+        "zh": "这个结果是正数。",
+        "pinyin": "Zhège jiéguǒ shì zhèngshù.",
+        "en": "Bu sonuç pozitif bir sayıdır."
+      },
+      {
+        "zh": "温度计上显示的是正数。",
+        "pinyin": "Wēndùjì shàng xiǎnshì de shì zhèngshù.",
+        "en": "Termometrede gösterilen pozitif bir değer."
+      },
+      {
+        "zh": "老师让我们区分正数和负数。",
+        "pinyin": "Lǎoshī ràng wǒmen qūfēn zhèngshù hé fùshù.",
+        "en": "Öğretmen bizden pozitif ve negatif sayıları ayırt etmemizi istedi."
+      },
+      {
+        "zh": "利润变成了正数。",
+        "pinyin": "Lìrùn biànchéngle zhèngshù.",
+        "en": "Kâr pozitif bir değere dönüştü."
+      }
+    ]
+  },
+  {
+    "id": "w7338",
+    "hanzi": "正题",
+    "pinyin": "zhèngtí",
+    "meaning": "ana konu, asıl mesele",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "闲话少说，进入正题。",
+        "pinyin": "Xiánhuà shǎo shuō, jìnrù zhèngtí.",
+        "en": "Lafı uzatmadan ana konuya girelim."
+      },
+      {
+        "zh": "他说了很久还没进入正题。",
+        "pinyin": "Tā shuōle hěn jiǔ hái méi jìnrù zhèngtí.",
+        "en": "Uzun süre konuştu ama hâlâ ana konuya girmedi."
+      },
+      {
+        "zh": "我们先讨论一下正题。",
+        "pinyin": "Wǒmen xiān tǎolùn yíxià zhèngtí.",
+        "en": "Önce ana konuyu tartışalım."
+      },
+      {
+        "zh": "回到正题，我们继续讨论方案。",
+        "pinyin": "Huídào zhèngtí, wǒmen jìxù tǎolùn fāng'àn.",
+        "en": "Asıl konuya dönersek, planı tartışmaya devam edelim."
+      },
+      {
+        "zh": "这篇文章偏离了正题。",
+        "pinyin": "Zhè piān wénzhāng piānlíle zhèngtí.",
+        "en": "Bu yazı ana konudan saptı."
+      }
+    ]
+  },
+  {
+    "id": "w7339",
+    "hanzi": "正统",
+    "pinyin": "zhèngtǒng",
+    "meaning": "ortodoks, geleneksel olarak kabul gören",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是正统的中国料理做法。",
+        "pinyin": "Zhè shì zhèngtǒng de zhōngguó liàolǐ zuòfǎ.",
+        "en": "Bu geleneksel bir Çin yemeği yapım yöntemi."
+      },
+      {
+        "zh": "他坚持正统的教学方法。",
+        "pinyin": "Tā jiānchí zhèngtǒng de jiàoxué fāngfǎ.",
+        "en": "Geleneksel öğretim yöntemlerinde ısrar ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7340",
+    "hanzi": "正文",
+    "pinyin": "zhèngwén",
+    "meaning": "ana metin, orijinal metin",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "请先看正文，再看注释。",
+        "pinyin": "Qǐng xiān kàn zhèngwén, zài kàn zhùshì.",
+        "en": "Önce ana metni okuyun, sonra dipnotlara bakın."
+      },
+      {
+        "zh": "这份合同的正文有十页。",
+        "pinyin": "Zhè fèn hétong de zhèngwén yǒu shí yè.",
+        "en": "Bu sözleşmenin ana metni on sayfadır."
+      },
+      {
+        "zh": "序言不算在正文里。",
+        "pinyin": "Xùyán bú suàn zài zhèngwén lǐ.",
+        "en": "Önsöz ana metnin içinde sayılmaz."
+      },
+      {
+        "zh": "正文部分详细说明了规则。",
+        "pinyin": "Zhèngwén bùfen xiángxì shuōmíngle guīzé.",
+        "en": "Ana metin bölümü kuralları ayrıntılı olarak açıklıyor."
+      },
+      {
+        "zh": "他把附录和正文分开排版。",
+        "pinyin": "Tā bǎ fùlù hé zhèngwén fēnkāi páibǎn.",
+        "en": "Ekleri ve ana metni ayrı olarak dizgi yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7341",
+    "hanzi": "正午",
+    "pinyin": "zhèngwǔ",
+    "meaning": "tam öğle vakti",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "正午的阳光很强烈。",
+        "pinyin": "Zhèngwǔ de yángguāng hěn qiángliè.",
+        "en": "Öğle vaktinin güneşi çok kuvvetli."
+      },
+      {
+        "zh": "我们约好正午见面。",
+        "pinyin": "Wǒmen yuēhǎo zhèngwǔ jiànmiàn.",
+        "en": "Tam öğle vaktinde buluşmaya karar verdik."
+      },
+      {
+        "zh": "正午时分街上很少人。",
+        "pinyin": "Zhèngwǔ shífēn jiē shàng hěn shǎo rén.",
+        "en": "Tam öğle saatinde sokakta çok az insan var."
+      },
+      {
+        "zh": "他每天正午都去吃饭。",
+        "pinyin": "Tā měitiān zhèngwǔ dōu qù chīfàn.",
+        "en": "Her gün tam öğle vaktinde yemeğe gidiyor."
+      },
+      {
+        "zh": "正午的钟声敲响了。",
+        "pinyin": "Zhèngwǔ de zhōngshēng qiāoxiǎng le.",
+        "en": "Öğle vakti çanı çaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7342",
+    "hanzi": "正业",
+    "pinyin": "zhèngyè",
+    "meaning": "asıl meslek, esas iş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他不务正业，整天游手好闲。",
+        "pinyin": "Tā bú wù zhèngyè, zhěng tiān yóushǒu-hàoxián.",
+        "en": "Asıl işine bakmıyor, bütün gün boş boş dolaşıyor."
+      },
+      {
+        "zh": "找份正业才能稳定生活。",
+        "pinyin": "Zhǎo fèn zhèngyè cái néng wěndìng shēnghuó.",
+        "en": "Ancak düzgün bir işin olursa hayatın istikrarlı olur."
+      }
+    ]
+  },
+  {
+    "id": "w7343",
+    "hanzi": "正义",
+    "pinyin": "zhèngyì",
+    "meaning": "adalet; adil",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们要为正义而战。",
+        "pinyin": "Wǒmen yào wèi zhèngyì ér zhàn.",
+        "en": "Adalet için savaşmalıyız."
+      },
+      {
+        "zh": "法律应该维护正义。",
+        "pinyin": "Fǎlǜ yīnggāi wéihù zhèngyì.",
+        "en": "Kanun adaleti korumalıdır."
+      },
+      {
+        "zh": "这是一场正义的战争。",
+        "pinyin": "Zhè shì yì chǎng zhèngyì de zhànzhēng.",
+        "en": "Bu adil bir savaştır."
+      },
+      {
+        "zh": "正义终将战胜邪恶。",
+        "pinyin": "Zhèngyì zhōngjiāng zhànshèng xié'è.",
+        "en": "Adalet sonunda kötülüğe galip gelecektir."
+      },
+      {
+        "zh": "他挺身而出主持正义。",
+        "pinyin": "Tā tǐngshēn ér chū zhǔchí zhèngyì.",
+        "en": "Öne çıkarak adaleti savundu."
+      }
+    ]
+  },
+  {
+    "id": "w7344",
+    "hanzi": "正值",
+    "pinyin": "zhèngzhí",
+    "meaning": "tam o sırada, tam o dönemde",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "正值国庆假期，游客很多。",
+        "pinyin": "Zhèngzhí guóqìng jiàqī, yóukè hěn duō.",
+        "en": "Tam ulusal bayram tatilinde, turist çok fazla."
+      },
+      {
+        "zh": "他去世时正值壮年。",
+        "pinyin": "Tā qùshì shí zhèngzhí zhuàngnián.",
+        "en": "Öldüğünde tam olgunluk çağındaydı."
+      }
+    ]
+  },
+  {
+    "id": "w7345",
+    "hanzi": "正职",
+    "pinyin": "zhèngzhí",
+    "meaning": "asıl görev, esas pozisyon (yardımcı değil)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他从副职升为正职。",
+        "pinyin": "Tā cóng fùzhí shēng wéi zhèngzhí.",
+        "en": "Yardımcılıktan asıl göreve terfi etti."
+      },
+      {
+        "zh": "正职领导今天不在。",
+        "pinyin": "Zhèngzhí lǐngdǎo jīntiān bú zài.",
+        "en": "Asıl yönetici bugün burada değil."
+      }
+    ]
+  },
+  {
+    "id": "w7346",
+    "hanzi": "正中",
+    "pinyin": "zhèngzhōng",
+    "meaning": "tam ortası, merkez",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "桌子放在房间正中。",
+        "pinyin": "Zhuōzi fàng zài fángjiān zhèngzhōng.",
+        "en": "Masa odanın tam ortasına konmuş."
+      },
+      {
+        "zh": "国旗挂在广场正中。",
+        "pinyin": "Guóqí guà zài guǎngchǎng zhèngzhōng.",
+        "en": "Bayrak meydanın tam ortasına asılmış."
+      },
+      {
+        "zh": "箭射中了靶子正中。",
+        "pinyin": "Jiàn shèzhòngle bǎzi zhèngzhōng.",
+        "en": "Ok hedefin tam merkezine isabet etti."
+      },
+      {
+        "zh": "舞台正中站着主持人。",
+        "pinyin": "Wǔtái zhèngzhōng zhànzhe zhǔchírén.",
+        "en": "Sahnenin tam ortasında sunucu duruyor."
+      },
+      {
+        "zh": "花园正中有一座喷泉。",
+        "pinyin": "Huāyuán zhèngzhōng yǒu yí zuò pēnquán.",
+        "en": "Bahçenin tam ortasında bir çeşme var."
+      }
+    ]
+  },
+  {
+    "id": "w7347",
+    "hanzi": "正宗",
+    "pinyin": "zhèngzōng",
+    "meaning": "gerçek, hakiki, orijinal usul",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是正宗的四川菜。",
+        "pinyin": "Zhè shì zhèngzōng de sìchuān cài.",
+        "en": "Bu gerçek Sichuan mutfağı yemeği."
+      },
+      {
+        "zh": "这家店做的面条很正宗。",
+        "pinyin": "Zhè jiā diàn zuò de miàntiáo hěn zhèngzōng.",
+        "en": "Bu dükkânın erişteleri gerçekten otantik."
+      },
+      {
+        "zh": "他说一口正宗的北京话。",
+        "pinyin": "Tā shuō yìkǒu zhèngzōng de běijīnghuà.",
+        "en": "Saf, otantik bir Pekin ağzıyla konuşuyor."
+      },
+      {
+        "zh": "要找正宗的手艺人不容易。",
+        "pinyin": "Yào zhǎo zhèngzōng de shǒuyìrén bù róngyì.",
+        "en": "Gerçek, geleneksel usta bulmak kolay değil."
+      },
+      {
+        "zh": "这才是正宗的做法。",
+        "pinyin": "Zhè cái shì zhèngzōng de zuòfǎ.",
+        "en": "İşte bu, gerçek orijinal yapım yöntemi."
+      }
+    ]
+  },
+  {
+    "id": "w7348",
+    "hanzi": "证",
+    "pinyin": "zhèng",
+    "meaning": "kanıtlamak; kanıt, belge",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请出示您的身份证。",
+        "pinyin": "Qǐng chūshì nín de shēnfènzhèng.",
+        "en": "Lütfen kimliğinizi gösterin."
+      },
+      {
+        "zh": "他能证明自己的清白。",
+        "pinyin": "Tā néng zhèngmíng zìjǐ de qīngbái.",
+        "en": "Kendi masumiyetini kanıtlayabiliyor."
+      },
+      {
+        "zh": "这张照片可以作为证据。",
+        "pinyin": "Zhè zhāng zhàopiàn kěyǐ zuòwéi zhèngjù.",
+        "en": "Bu fotoğraf kanıt olarak kullanılabilir."
+      },
+      {
+        "zh": "他没有拿到毕业证。",
+        "pinyin": "Tā méiyǒu nádào bìyèzhèng.",
+        "en": "Mezuniyet belgesini alamadı."
+      },
+      {
+        "zh": "事实证明他是对的。",
+        "pinyin": "Shìshí zhèngmíng tā shì duì de.",
+        "en": "Olaylar onun haklı olduğunu kanıtladı."
+      }
+    ]
+  },
+  {
+    "id": "w7349",
+    "hanzi": "证词",
+    "pinyin": "zhèngcí",
+    "meaning": "tanık ifadesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "证人在法庭上提供了证词。",
+        "pinyin": "Zhèngrén zài fǎtíng shàng tígōngle zhèngcí.",
+        "en": "Tanık mahkemede ifade verdi."
+      },
+      {
+        "zh": "他的证词与事实不符。",
+        "pinyin": "Tā de zhèngcí yǔ shìshí bùfú.",
+        "en": "İfadesi gerçeklerle uyuşmuyor."
+      }
+    ]
+  },
+  {
+    "id": "w7350",
+    "hanzi": "证券",
+    "pinyin": "zhèngquàn",
+    "meaning": "menkul kıymet, tahvil",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "他在证券公司工作。",
+        "pinyin": "Tā zài zhèngquàn gōngsī gōngzuò.",
+        "en": "Bir menkul kıymetler şirketinde çalışıyor."
+      },
+      {
+        "zh": "证券市场今天大幅下跌。",
+        "pinyin": "Zhèngquàn shìchǎng jīntiān dàfú xiàdiē.",
+        "en": "Menkul kıymetler piyasası bugün büyük düşüş yaşadı."
+      }
+    ]
   }
 ]

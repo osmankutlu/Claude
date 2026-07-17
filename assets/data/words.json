@@ -258928,5 +258928,833 @@
         "en": "Piyasanın yönelimi hâlâ belirsiz."
       }
     ]
+  },
+  {
+    "id": "w7911",
+    "hanzi": "走样",
+    "pinyin": "zǒuyàng",
+    "meaning": "orijinal biçimini kaybetmek, bozulmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这件衣服洗了几次就走样了。",
+        "pinyin": "Zhè jiàn yīfu xǐle jǐ cì jiù zǒuyàng le.",
+        "en": "Bu kıyafet birkaç yıkamadan sonra şeklini kaybetti."
+      },
+      {
+        "zh": "翻译过程中原意有些走样。",
+        "pinyin": "Fānyì guòchéng zhōng yuányì yǒuxiē zǒuyàng.",
+        "en": "Çeviri sürecinde orijinal anlam biraz bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w7912",
+    "hanzi": "走运",
+    "pinyin": "zǒuyùn",
+    "meaning": "şanslı olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他今天很走运，中了奖。",
+        "pinyin": "Tā jīntiān hěn zǒuyùn, zhòngle jiǎng.",
+        "en": "Bugün çok şanslıydı, ödül kazandı."
+      },
+      {
+        "zh": "考试通过真是走运。",
+        "pinyin": "Kǎoshì tōngguò zhēn shì zǒuyùn.",
+        "en": "Sınavı geçmek gerçekten şans."
+      },
+      {
+        "zh": "他这几天特别走运。",
+        "pinyin": "Tā zhè jǐ tiān tèbié zǒuyùn.",
+        "en": "Son günlerde özellikle şanslı."
+      },
+      {
+        "zh": "找到这份好工作真走运。",
+        "pinyin": "Zhǎodào zhè fèn hǎo gōngzuò zhēn zǒuyùn.",
+        "en": "Bu iyi işi bulmak gerçekten şans."
+      },
+      {
+        "zh": "他一路走运，从未遇到麻烦。",
+        "pinyin": "Tā yílù zǒuyùn, cóngwèi yùdào máfan.",
+        "en": "Her zaman şanslı olmuş, hiç sorun yaşamamış."
+      }
+    ]
+  },
+  {
+    "id": "w7913",
+    "hanzi": "走着瞧",
+    "pinyin": "zǒuzheqiáo",
+    "meaning": "bekle gör",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "咱们走着瞧吧！",
+        "pinyin": "Zánmen zǒuzheqiáo ba!",
+        "en": "Bekleyip görelim!"
+      },
+      {
+        "zh": "他放话说走着瞧。",
+        "pinyin": "Tā fànghuà shuō zǒuzheqiáo.",
+        "en": "\"Bekle gör\" diye söz bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w7914",
+    "hanzi": "奏",
+    "pinyin": "zòu",
+    "meaning": "müzik aleti çalmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "乐队演奏了一首名曲。",
+        "pinyin": "Yuèduì yǎnzòule yì shǒu míngqǔ.",
+        "en": "Orkestra ünlü bir eser çaldı."
+      },
+      {
+        "zh": "她擅长演奏钢琴。",
+        "pinyin": "Tā shàncháng yǎnzòu gāngqín.",
+        "en": "Piyano çalmakta ustadır."
+      },
+      {
+        "zh": "士兵们奏起了国歌。",
+        "pinyin": "Shìbīngmen zòuqǐle guógē.",
+        "en": "Askerler milli marşı çaldı."
+      },
+      {
+        "zh": "这首曲子由小提琴独奏。",
+        "pinyin": "Zhè shǒu qǔzi yóu xiǎotíqín dúzòu.",
+        "en": "Bu eser keman solosuyla çalınıyor."
+      },
+      {
+        "zh": "他们合奏了一段美妙的音乐。",
+        "pinyin": "Tāmen hézòule yí duàn měimiào de yīnyuè.",
+        "en": "Birlikte güzel bir müzik parçası çaldılar."
+      }
+    ]
+  },
+  {
+    "id": "w7915",
+    "hanzi": "奏效",
+    "pinyin": "zòuxiào",
+    "meaning": "etkili olmak, işe yaramak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个方法很奏效。",
+        "pinyin": "Zhège fāngfǎ hěn zòuxiào.",
+        "en": "Bu yöntem çok etkili oldu."
+      },
+      {
+        "zh": "他的努力终于奏效了。",
+        "pinyin": "Tā de nǔlì zhōngyú zòuxiào le.",
+        "en": "Çabaları sonunda işe yaradı."
+      }
+    ]
+  },
+  {
+    "id": "w7916",
+    "hanzi": "奏乐",
+    "pinyin": "zòuyuè",
+    "meaning": "müzik çalmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "婚礼上乐队开始奏乐。",
+        "pinyin": "Hūnlǐ shàng yuèduì kāishǐ zòuyuè.",
+        "en": "Düğünde orkestra müzik çalmaya başladı."
+      },
+      {
+        "zh": "开幕式上军乐队奏乐。",
+        "pinyin": "Kāimùshì shàng jūnyuèduì zòuyuè.",
+        "en": "Açılış töreninde askeri bando çaldı."
+      },
+      {
+        "zh": "颁奖时现场奏乐助兴。",
+        "pinyin": "Bānjiǎng shí xiànchǎng zòuyuè zhùxìng.",
+        "en": "Ödül töreninde eğlence için müzik çalındı."
+      },
+      {
+        "zh": "毕业典礼上学生奏乐迎宾。",
+        "pinyin": "Bìyè diǎnlǐ shàng xuésheng zòuyuè yíngbīn.",
+        "en": "Mezuniyet töreninde öğrenciler konukları müzikle karşıladı."
+      },
+      {
+        "zh": "他们邀请了乐队现场奏乐。",
+        "pinyin": "Tāmen yāoqǐngle yuèduì xiànchǎng zòuyuè.",
+        "en": "Canlı müzik için bir orkestra davet ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w7917",
+    "hanzi": "揍",
+    "pinyin": "zòu",
+    "meaning": "dövmek, vurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他被人揍了一顿。",
+        "pinyin": "Tā bèi rén zòule yí dùn.",
+        "en": "Biri tarafından dövüldü."
+      },
+      {
+        "zh": "别再揍孩子了。",
+        "pinyin": "Bié zài zòu háizi le.",
+        "en": "Çocuğu artık dövme."
+      },
+      {
+        "zh": "他气得想揍那个人。",
+        "pinyin": "Tā qì de xiǎng zòu nàge rén.",
+        "en": "Öfkeden o kişiyi dövmek istedi."
+      },
+      {
+        "zh": "他们两个打起来了，互相揍了几拳。",
+        "pinyin": "Tāmen liǎng gè dǎ qǐlái le, hùxiāng zòule jǐ quán.",
+        "en": "İkisi kavga etmeye başladı, birbirlerine birkaç yumruk attılar."
+      },
+      {
+        "zh": "小心，别惹他，他会揍人的。",
+        "pinyin": "Xiǎoxīn, bié rě tā, tā huì zòu rén de.",
+        "en": "Dikkat et, onu kızdırma, insanları döver."
+      }
+    ]
+  },
+  {
+    "id": "w7918",
+    "hanzi": "租界",
+    "pinyin": "zūjiè",
+    "meaning": "imtiyazlı bölge (sömürge dönemi terimi)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "上海曾有多个外国租界。",
+        "pinyin": "Shànghǎi céng yǒu duō gè wàiguó zūjiè.",
+        "en": "Şangay'da eskiden birçok yabancı imtiyazlı bölge vardı."
+      },
+      {
+        "zh": "租界时期留下了很多西式建筑。",
+        "pinyin": "Zūjiè shíqī liúxiàle hěn duō xīshì jiànzhù.",
+        "en": "İmtiyazlı bölge döneminden birçok Batı tarzı bina kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7919",
+    "hanzi": "租借",
+    "pinyin": "zūjiè",
+    "meaning": "kiralamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "他租借了一辆自行车。",
+        "pinyin": "Tā zūjièle yí liàng zìxíngchē.",
+        "en": "Bir bisiklet kiraladı."
+      },
+      {
+        "zh": "这里可以租借滑雪装备。",
+        "pinyin": "Zhèlǐ kěyǐ zūjiè huáxuě zhuāngbèi.",
+        "en": "Burada kayak ekipmanı kiralanabilir."
+      },
+      {
+        "zh": "公司租借了一间会议室。",
+        "pinyin": "Gōngsī zūjièle yì jiān huìyìshì.",
+        "en": "Şirket bir toplantı odası kiraladı."
+      },
+      {
+        "zh": "他向图书馆租借了几本书。",
+        "pinyin": "Tā xiàng túshūguǎn zūjièle jǐ běn shū.",
+        "en": "Kütüphaneden birkaç kitap ödünç aldı."
+      },
+      {
+        "zh": "游客可以在景区租借雨伞。",
+        "pinyin": "Yóukè kěyǐ zài jǐngqū zūjiè yǔsǎn.",
+        "en": "Turistler turizm bölgesinde şemsiye kiralayabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7920",
+    "hanzi": "租金",
+    "pinyin": "zūjīn",
+    "meaning": "kira bedeli",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "这里的租金很贵。",
+        "pinyin": "Zhèlǐ de zūjīn hěn guì.",
+        "en": "Buranın kirası çok pahalı."
+      },
+      {
+        "zh": "房东每月收取租金。",
+        "pinyin": "Fángdōng měi yuè shōuqǔ zūjīn.",
+        "en": "Ev sahibi her ay kira alıyor."
+      },
+      {
+        "zh": "他按时支付租金。",
+        "pinyin": "Tā ànshí zhīfù zūjīn.",
+        "en": "Kirasını zamanında ödüyor."
+      },
+      {
+        "zh": "商铺租金上涨了很多。",
+        "pinyin": "Shāngpù zūjīn shàngzhǎngle hěn duō.",
+        "en": "Dükkan kirası çok arttı."
+      },
+      {
+        "zh": "租金包含水电费吗？",
+        "pinyin": "Zūjīn bāohán shuǐdiànfèi ma?",
+        "en": "Kiraya su ve elektrik ücreti dahil mi?"
+      }
+    ]
+  },
+  {
+    "id": "w7921",
+    "hanzi": "租赁",
+    "pinyin": "zūlìn",
+    "meaning": "kiralamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "这家公司提供设备租赁服务。",
+        "pinyin": "Zhè jiā gōngsī tígōng shèbèi zūlìn fúwù.",
+        "en": "Bu şirket ekipman kiralama hizmeti sunuyor."
+      },
+      {
+        "zh": "他签订了一份租赁合同。",
+        "pinyin": "Tā qiāndìngle yí fèn zūlìn hétong.",
+        "en": "Bir kira sözleşmesi imzaladı."
+      },
+      {
+        "zh": "汽车租赁行业竞争激烈。",
+        "pinyin": "Qìchē zūlìn hángyè jìngzhēng jīliè.",
+        "en": "Araç kiralama sektöründe rekabet çok yoğun."
+      },
+      {
+        "zh": "他们从租赁公司租了一辆卡车。",
+        "pinyin": "Tāmen cóng zūlìn gōngsī zūle yí liàng kǎchē.",
+        "en": "Kiralama şirketinden bir kamyon kiraladılar."
+      },
+      {
+        "zh": "长期租赁比短期更划算。",
+        "pinyin": "Chángqī zūlìn bǐ duǎnqī gèng huásuàn.",
+        "en": "Uzun süreli kiralama kısa süreliye göre daha avantajlı."
+      }
+    ]
+  },
+  {
+    "id": "w7922",
+    "hanzi": "租约",
+    "pinyin": "zūyuē",
+    "meaning": "kira sözleşmesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "租约到期了。",
+        "pinyin": "Zūyuē dàoqī le.",
+        "en": "Kira sözleşmesi sona erdi."
+      },
+      {
+        "zh": "他签了两年的租约。",
+        "pinyin": "Tā qiānle liǎng nián de zūyuē.",
+        "en": "İki yıllık kira sözleşmesi imzaladı."
+      },
+      {
+        "zh": "请仔细阅读租约条款。",
+        "pinyin": "Qǐng zǐxì yuèdú zūyuē tiáokuǎn.",
+        "en": "Lütfen kira sözleşmesi maddelerini dikkatlice okuyun."
+      },
+      {
+        "zh": "房东提出续签租约。",
+        "pinyin": "Fángdōng tíchū xùqiān zūyuē.",
+        "en": "Ev sahibi kira sözleşmesinin yenilenmesini önerdi."
+      },
+      {
+        "zh": "租约上明确规定了押金金额。",
+        "pinyin": "Zūyuē shàng míngquè guīdìngle yājīn jīn'é.",
+        "en": "Kira sözleşmesinde depozito tutarı açıkça belirtilmiş."
+      }
+    ]
+  },
+  {
+    "id": "w7923",
+    "hanzi": "族",
+    "pinyin": "zú",
+    "meaning": "ırk, klan, aynı özellikteki grup",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他是汉族人。",
+        "pinyin": "Tā shì Hànzú rén.",
+        "en": "O bir Han milletinden."
+      },
+      {
+        "zh": "中国有五十六个民族。",
+        "pinyin": "Zhōngguó yǒu wǔshíliù gè mínzú.",
+        "en": "Çin'de elli altı etnik grup var."
+      },
+      {
+        "zh": "这个家族历史悠久。",
+        "pinyin": "Zhège jiāzú lìshǐ yōujiǔ.",
+        "en": "Bu ailenin tarihi çok eskiye dayanır."
+      },
+      {
+        "zh": "他属于上班族。",
+        "pinyin": "Tā shǔyú shàngbānzú.",
+        "en": "O çalışan kesime dahil."
+      },
+      {
+        "zh": "低头族越来越多了。",
+        "pinyin": "Dītóuzú yuèláiyuè duō le.",
+        "en": "Telefonlarına gömülmüş insanların sayısı gittikçe artıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7924",
+    "hanzi": "足",
+    "pinyin": "zú",
+    "meaning": "ayak; yeterli",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他赤足走在沙滩上。",
+        "pinyin": "Tā chìzú zǒu zài shātān shàng.",
+        "en": "Yalınayak olarak kumsalda yürüyor."
+      },
+      {
+        "zh": "他睡了整整十个小时，足足睡够了。",
+        "pinyin": "Tā shuìle zhěngzhěng shí gè xiǎoshí, zúzú shuìgòu le.",
+        "en": "Tam on saat uyudu, yeterince uyudu."
+      },
+      {
+        "zh": "他们准备了充足的食物。",
+        "pinyin": "Tāmen zhǔnbèile chōngzú de shíwù.",
+        "en": "Yeterli miktarda yiyecek hazırladılar."
+      },
+      {
+        "zh": "他心满意足地离开了。",
+        "pinyin": "Tā xīnmǎn-yìzú de líkāi le.",
+        "en": "Gönlü tok, memnun bir şekilde ayrıldı."
+      },
+      {
+        "zh": "他手足无措，不知道该怎么办。",
+        "pinyin": "Tā shǒuzú-wúcuò, bù zhīdào gāi zěnme bàn.",
+        "en": "Ne yapacağını şaşırdı, ne yapacağını bilemedi."
+      }
+    ]
+  },
+  {
+    "id": "w7925",
+    "hanzi": "足够",
+    "pinyin": "zúgòu",
+    "meaning": "yeterli olmak",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这些钱足够我们用一个月。",
+        "pinyin": "Zhèxiē qián zúgòu wǒmen yòng yí gè yuè.",
+        "en": "Bu para bir ay kullanmamıza yetiyor."
+      },
+      {
+        "zh": "我们有足够的时间准备。",
+        "pinyin": "Wǒmen yǒu zúgòu de shíjiān zhǔnbèi.",
+        "en": "Hazırlanmak için yeterli zamanımız var."
+      },
+      {
+        "zh": "他没有足够的经验。",
+        "pinyin": "Tā méiyǒu zúgòu de jīngyàn.",
+        "en": "Yeterli deneyimi yok."
+      },
+      {
+        "zh": "食物准备得足够多。",
+        "pinyin": "Shíwù zhǔnbèi de zúgòu duō.",
+        "en": "Yiyecek yeterince hazırlanmış."
+      },
+      {
+        "zh": "这个理由足够充分。",
+        "pinyin": "Zhège lǐyóu zúgòu chōngfèn.",
+        "en": "Bu sebep yeterince ikna edici."
+      }
+    ]
+  },
+  {
+    "id": "w7926",
+    "hanzi": "足迹",
+    "pinyin": "zújì",
+    "meaning": "ayak izi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "雪地上留下了足迹。",
+        "pinyin": "Xuědì shàng liúxiàle zújì.",
+        "en": "Kar üzerinde ayak izleri kaldı."
+      },
+      {
+        "zh": "他的足迹遍布世界各地。",
+        "pinyin": "Tā de zújì biànbù shìjiè gèdì.",
+        "en": "Ayak izleri dünyanın her yerine yayılmış (her yeri gezmiş)."
+      },
+      {
+        "zh": "警方追踪着嫌疑人的足迹。",
+        "pinyin": "Jǐngfāng zhuīzōngzhe xiányírén de zújì.",
+        "en": "Polis şüphelinin ayak izlerini takip ediyor."
+      },
+      {
+        "zh": "沙滩上留下了一串足迹。",
+        "pinyin": "Shātān shàng liúxiàle yí chuàn zújì.",
+        "en": "Kumsalda bir dizi ayak izi kaldı."
+      },
+      {
+        "zh": "他的足迹踏遍了这片土地。",
+        "pinyin": "Tā de zújì tàbiànle zhè piàn tǔdì.",
+        "en": "Ayak izleri bu toprağın her köşesine ulaşmış."
+      }
+    ]
+  },
+  {
+    "id": "w7927",
+    "hanzi": "足球",
+    "pinyin": "zúqiú",
+    "meaning": "futbol",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他喜欢踢足球。",
+        "pinyin": "Tā xǐhuan tī zúqiú.",
+        "en": "Futbol oynamayı sever."
+      },
+      {
+        "zh": "世界杯足球赛四年举办一次。",
+        "pinyin": "Shìjièbēi zúqiúsài sì nián jǔbàn yí cì.",
+        "en": "Dünya Kupası futbol turnuvası dört yılda bir düzenlenir."
+      },
+      {
+        "zh": "他是学校足球队的队长。",
+        "pinyin": "Tā shì xuéxiào zúqiúduì de duìzhǎng.",
+        "en": "Okul futbol takımının kaptanı o."
+      },
+      {
+        "zh": "孩子们在操场上踢足球。",
+        "pinyin": "Háizimen zài cāochǎng shàng tī zúqiú.",
+        "en": "Çocuklar sahada futbol oynuyor."
+      },
+      {
+        "zh": "这场足球比赛非常精彩。",
+        "pinyin": "Zhè chǎng zúqiú bǐsài fēicháng jīngcǎi.",
+        "en": "Bu futbol maçı çok heyecanlıydı."
+      }
+    ]
+  },
+  {
+    "id": "w7928",
+    "hanzi": "足以",
+    "pinyin": "zúyǐ",
+    "meaning": "yetmek, yeterli",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "这些证据足以证明他的清白。",
+        "pinyin": "Zhèxiē zhèngjù zúyǐ zhèngmíng tā de qīngbái.",
+        "en": "Bu kanıtlar onun masumiyetini kanıtlamaya yeterli."
+      },
+      {
+        "zh": "他的努力足以打动大家。",
+        "pinyin": "Tā de nǔlì zúyǐ dǎdòng dàjiā.",
+        "en": "Çabası herkesi etkilemeye yeterli."
+      },
+      {
+        "zh": "这笔钱足以支付学费。",
+        "pinyin": "Zhè bǐ qián zúyǐ zhīfù xuéfèi.",
+        "en": "Bu para okul ücretini ödemeye yeterli."
+      },
+      {
+        "zh": "一句话足以让他改变主意。",
+        "pinyin": "Yí jù huà zúyǐ ràng tā gǎibiàn zhǔyi.",
+        "en": "Tek bir söz onun fikrini değiştirmeye yeterli."
+      },
+      {
+        "zh": "他的表现足以说明他的实力。",
+        "pinyin": "Tā de biǎoxiàn zúyǐ shuōmíng tā de shílì.",
+        "en": "Performansı yeteneğini kanıtlamaya yeterli."
+      }
+    ]
+  },
+  {
+    "id": "w7929",
+    "hanzi": "足智多谋",
+    "pinyin": "zúzhì-duōmóu",
+    "meaning": "zeki ve hesaplı, çok stratejili",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他是个足智多谋的人。",
+        "pinyin": "Tā shì gè zúzhì-duōmóu de rén.",
+        "en": "O zeki ve stratejik bir insan."
+      },
+      {
+        "zh": "将军足智多谋，屡战屡胜。",
+        "pinyin": "Jiāngjūn zúzhì-duōmóu, lǚzhàn-lǚshèng.",
+        "en": "General zeki ve stratejikti, savaşları sürekli kazanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7930",
+    "hanzi": "诅咒",
+    "pinyin": "zǔzhòu",
+    "meaning": "lanet etmek, beddua etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她诅咒那个骗子不得好死。",
+        "pinyin": "Tā zǔzhòu nàge piànzi bùdé hǎosǐ.",
+        "en": "O dolandırıcıya kötü bir son diliyor."
+      },
+      {
+        "zh": "别再诅咒别人了。",
+        "pinyin": "Bié zài zǔzhòu biérén le.",
+        "en": "Artık başkalarına beddua etme."
+      }
+    ]
+  },
+  {
+    "id": "w7931",
+    "hanzi": "祖",
+    "pinyin": "zǔ",
+    "meaning": "ata",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们来自同一个祖先。",
+        "pinyin": "Tāmen láizì tóng yí gè zǔxiān.",
+        "en": "Aynı atadan geliyorlar."
+      },
+      {
+        "zh": "他很尊敬祖父母。",
+        "pinyin": "Tā hěn zūnjìng zǔfùmǔ.",
+        "en": "Büyükanne ve büyükbabasına çok saygı gösteriyor."
+      },
+      {
+        "zh": "这是祖国的荣耀。",
+        "pinyin": "Zhè shì zǔguó de róngyào.",
+        "en": "Bu anavatanın onurudur."
+      },
+      {
+        "zh": "他继承了祖上的产业。",
+        "pinyin": "Tā jìchéngle zǔshàng de chǎnyè.",
+        "en": "Atalarından kalan mülkü devraldı."
+      },
+      {
+        "zh": "这座祠堂是为祭祖而建的。",
+        "pinyin": "Zhè zuò cítáng shì wèi jìzǔ ér jiàn de.",
+        "en": "Bu tapınak atalara saygı için inşa edilmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w7932",
+    "hanzi": "祖辈",
+    "pinyin": "zǔbèi",
+    "meaning": "ata, ecdat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "祖辈留下了很多宝贵的经验。",
+        "pinyin": "Zǔbèi liúxiàle hěn duō bǎoguì de jīngyàn.",
+        "en": "Atalarımız birçok değerli deneyim bıraktı."
+      },
+      {
+        "zh": "他继承了祖辈的手艺。",
+        "pinyin": "Tā jìchéngle zǔbèi de shǒuyì.",
+        "en": "Atalarının zanaatını devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w7933",
+    "hanzi": "祖传",
+    "pinyin": "zǔchuán",
+    "meaning": "atadan kalma",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这是祖传的秘方。",
+        "pinyin": "Zhè shì zǔchuán de mìfāng.",
+        "en": "Bu atadan kalan gizli bir tariftir."
+      },
+      {
+        "zh": "他继承了祖传的手表。",
+        "pinyin": "Tā jìchéngle zǔchuán de shǒubiǎo.",
+        "en": "Atadan kalan saati devraldı."
+      }
+    ]
+  },
+  {
+    "id": "w7934",
+    "hanzi": "组阁",
+    "pinyin": "zǔgé",
+    "meaning": "kabine kurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "新总理开始组阁。",
+        "pinyin": "Xīn zǒnglǐ kāishǐ zǔgé.",
+        "en": "Yeni başbakan kabine kurmaya başladı."
+      },
+      {
+        "zh": "他被授权组阁。",
+        "pinyin": "Tā bèi shòuquán zǔgé.",
+        "en": "Kabine kurma yetkisi verildi."
+      }
+    ]
+  },
+  {
+    "id": "w7935",
+    "hanzi": "钻",
+    "pinyin": "zuān",
+    "meaning": "delmek; içine girmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用电钻在墙上钻了个孔。",
+        "pinyin": "Tā yòng diànzuàn zài qiáng shàng zuānle gè kǒng.",
+        "en": "Elektrikli matkapla duvara bir delik açtı."
+      },
+      {
+        "zh": "他钻进了被窝。",
+        "pinyin": "Tā zuānjìnle bèiwō.",
+        "en": "Yorganın içine girdi."
+      },
+      {
+        "zh": "猫钻进了纸箱里。",
+        "pinyin": "Māo zuānjìnle zhǐxiāng lǐ.",
+        "en": "Kedi karton kutunun içine girdi."
+      },
+      {
+        "zh": "他喜欢钻研数学难题。",
+        "pinyin": "Tā xǐhuan zuānyán shùxué nántí.",
+        "en": "Matematik problemlerini derinlemesine araştırmayı sever."
+      },
+      {
+        "zh": "工人们钻了一口水井。",
+        "pinyin": "Gōngrénmen zuānle yì kǒu shuǐjǐng.",
+        "en": "İşçiler bir su kuyusu açtı."
+      }
+    ]
+  },
+  {
+    "id": "w7936",
+    "hanzi": "钻空子",
+    "pinyin": "zuānkòngzi",
+    "meaning": "boşluktan yararlanmak, açık bulup istismar etmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他总是钻法律的空子。",
+        "pinyin": "Tā zǒngshì zuān fǎlǜ de kòngzi.",
+        "en": "Sürekli kanunun boşluklarından yararlanıyor."
+      },
+      {
+        "zh": "这项政策存在被钻空子的风险。",
+        "pinyin": "Zhè xiàng zhèngcè cúnzài bèi zuān kòngzi de fēngxiǎn.",
+        "en": "Bu politikanın istismar edilme riski var."
+      }
+    ]
+  },
+  {
+    "id": "w7937",
+    "hanzi": "钻牛角尖",
+    "pinyin": "zuānniújiǎojiān",
+    "meaning": "önemsiz konularda saplanıp kalmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "别钻牛角尖了，这不值得纠结。",
+        "pinyin": "Bié zuānniújiǎojiān le, zhè bù zhíde jiūjié.",
+        "en": "Önemsiz detaylarda saplanıp kalma, bu üzerinde durulmaya değmez."
+      },
+      {
+        "zh": "他这个人爱钻牛角尖。",
+        "pinyin": "Tā zhège rén ài zuānniújiǎojiān.",
+        "en": "Bu adam önemsiz şeylerde takılıp kalmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w7938",
+    "hanzi": "钻探",
+    "pinyin": "zuāntàn",
+    "meaning": "sondaj yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这里正在进行石油钻探。",
+        "pinyin": "Zhèlǐ zhèngzài jìnxíng shíyóu zuāntàn.",
+        "en": "Burada petrol sondajı yapılıyor."
+      },
+      {
+        "zh": "钻探队发现了新的矿藏。",
+        "pinyin": "Zuāntànduì fāxiànle xīn de kuàngcáng.",
+        "en": "Sondaj ekibi yeni bir maden yatağı buldu."
+      }
+    ]
   }
 ]

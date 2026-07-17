@@ -223234,5 +223234,863 @@
         "en": "Yarı tropikal bitki türleri çok çeşitlidir."
       }
     ]
+  },
+  {
+    "id": "w6711",
+    "hanzi": "烟",
+    "pinyin": "yān",
+    "meaning": "duman, sis; sigara",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "屋里到处都是烟。",
+        "pinyin": "Wū lǐ dàochù dōu shì yān.",
+        "en": "Odanın her yeri duman dolu."
+      },
+      {
+        "zh": "他点了一支烟。",
+        "pinyin": "Tā diǎnle yī zhī yān.",
+        "en": "O bir sigara yaktı."
+      },
+      {
+        "zh": "远处升起了一缕烟。",
+        "pinyin": "Yuǎnchù shēngqǐle yī lǚ yān.",
+        "en": "Uzakta bir duman yükseldi."
+      },
+      {
+        "zh": "厨房里冒出了很多烟。",
+        "pinyin": "Chúfáng lǐ màochūle hěn duō yān.",
+        "en": "Mutfaktan çok fazla duman çıktı."
+      },
+      {
+        "zh": "请不要在这里吸烟。",
+        "pinyin": "Qǐng bùyào zài zhèlǐ xīyān.",
+        "en": "Lütfen burada sigara içmeyin."
+      }
+    ]
+  },
+  {
+    "id": "w6712",
+    "hanzi": "烟草",
+    "pinyin": "yāncǎo",
+    "meaning": "tütün",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这个地区种植烟草。",
+        "pinyin": "Zhège dìqū zhòngzhí yāncǎo.",
+        "en": "Bu bölgede tütün yetiştiriliyor."
+      },
+      {
+        "zh": "烟草行业受到严格监管。",
+        "pinyin": "Yāncǎo hángyè shòudào yángé jiānguǎn.",
+        "en": "Tütün sektörü sıkı bir şekilde denetlenmektedir."
+      },
+      {
+        "zh": "烟草制品对健康有害。",
+        "pinyin": "Yāncǎo zhìpǐn duì jiànkāng yǒuhài.",
+        "en": "Tütün ürünleri sağlığa zararlıdır."
+      },
+      {
+        "zh": "农民正在收割烟草。",
+        "pinyin": "Nóngmín zhèngzài shōugē yāncǎo.",
+        "en": "Çiftçiler tütünü hasat ediyor."
+      },
+      {
+        "zh": "这个国家是烟草出口大国。",
+        "pinyin": "Zhège guójiā shì yāncǎo chūkǒu dàguó.",
+        "en": "Bu ülke büyük bir tütün ihracatçısıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6713",
+    "hanzi": "烟囱",
+    "pinyin": "yāncōng",
+    "meaning": "baca",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工厂的烟囱冒着黑烟。",
+        "pinyin": "Gōngchǎng de yāncōng màozhe hēiyān.",
+        "en": "Fabrikanın bacasından siyah duman çıkıyor."
+      },
+      {
+        "zh": "屋顶上有一根烟囱。",
+        "pinyin": "Wūdǐng shàng yǒu yī gēn yāncōng.",
+        "en": "Çatının üzerinde bir baca var."
+      },
+      {
+        "zh": "冬天烟囱里冒出白烟。",
+        "pinyin": "Dōngtiān yāncōng lǐ màochū báiyān.",
+        "en": "Kışın bacadan beyaz duman çıkıyor."
+      },
+      {
+        "zh": "他们清理了堵塞的烟囱。",
+        "pinyin": "Tāmen qīnglǐle dǔsè de yāncōng.",
+        "en": "Onlar tıkanan bacayı temizlediler."
+      },
+      {
+        "zh": "老房子都有壁炉和烟囱。",
+        "pinyin": "Lǎo fángzi dōu yǒu bìlú hé yāncōng.",
+        "en": "Eski evlerde şömine ve baca bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w6714",
+    "hanzi": "烟灰",
+    "pinyin": "yānhuī",
+    "meaning": "sigara külü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请把烟灰弹到烟灰缸里。",
+        "pinyin": "Qǐng bǎ yānhuī tán dào yānhuīgāng lǐ.",
+        "en": "Lütfen sigara külünü kül tablasına silk."
+      },
+      {
+        "zh": "桌子上撒了很多烟灰。",
+        "pinyin": "Zhuōzi shàng sǎle hěn duō yānhuī.",
+        "en": "Masaya çok fazla sigara külü döküldü."
+      },
+      {
+        "zh": "他清理了烟灰缸里的烟灰。",
+        "pinyin": "Tā qīnglǐle yānhuīgāng lǐ de yānhuī.",
+        "en": "O kül tablasındaki külü temizledi."
+      },
+      {
+        "zh": "地毯上有一块烟灰痕迹。",
+        "pinyin": "Dìtǎn shàng yǒu yī kuài yānhuī hénjì.",
+        "en": "Halıda bir sigara külü izi var."
+      },
+      {
+        "zh": "烟灰弄脏了他的衣服。",
+        "pinyin": "Yānhuī nòngzāngle tā de yīfu.",
+        "en": "Sigara külü onun kıyafetini kirletti."
+      }
+    ]
+  },
+  {
+    "id": "w6715",
+    "hanzi": "烟雾",
+    "pinyin": "yānwù",
+    "meaning": "duman, sis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "城市上空笼罩着烟雾。",
+        "pinyin": "Chéngshì shàngkōng lǒngzhàozhe yānwù.",
+        "en": "Şehrin üzerini duman kaplıyor."
+      },
+      {
+        "zh": "火灾产生了浓厚的烟雾。",
+        "pinyin": "Huǒzāi chǎnshēngle nónghòu de yānwù.",
+        "en": "Yangın yoğun bir duman oluşturdu."
+      },
+      {
+        "zh": "他在烟雾中什么都看不见。",
+        "pinyin": "Tā zài yānwù zhōng shénme dōu kànbujiàn.",
+        "en": "O dumanda hiçbir şey göremiyor."
+      },
+      {
+        "zh": "烟雾报警器响了起来。",
+        "pinyin": "Yānwù bàojǐngqì xiǎngle qǐlai.",
+        "en": "Duman alarmı çalmaya başladı."
+      },
+      {
+        "zh": "早晨山间弥漫着薄薄的烟雾。",
+        "pinyin": "Zǎochén shānjiān mímànzhe bóbó de yānwù.",
+        "en": "Sabahleyin dağların arasında ince bir sis dolaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6716",
+    "hanzi": "咽喉",
+    "pinyin": "yānhóu",
+    "meaning": "boğaz, gırtlak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他咽喉发炎了。",
+        "pinyin": "Tā yānhóu fāyán le.",
+        "en": "Onun boğazı iltihaplandı."
+      },
+      {
+        "zh": "这条运河是交通的咽喉要道。",
+        "pinyin": "Zhè tiáo yùnhé shì jiāotōng de yānhóu yàodào.",
+        "en": "Bu kanal ulaşımın kritik geçiş noktasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6717",
+    "hanzi": "淹死",
+    "pinyin": "yānsǐ",
+    "meaning": "suda boğulmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他差点在河里淹死。",
+        "pinyin": "Tā chàdiǎn zài hé lǐ yānsǐ.",
+        "en": "O nehirde neredeyse boğuluyordu."
+      },
+      {
+        "zh": "游泳时要注意安全,防止淹死。",
+        "pinyin": "Yóuyǒng shí yào zhùyì ānquán, fángzhǐ yānsǐ.",
+        "en": "Yüzerken güvenliğe dikkat etmek, boğulmayı önlemek gerekir."
+      },
+      {
+        "zh": "很多人因为不会游泳而淹死。",
+        "pinyin": "Hěn duō rén yīnwèi bùhuì yóuyǒng ér yānsǐ.",
+        "en": "Birçok insan yüzme bilmediği için boğuluyor."
+      },
+      {
+        "zh": "救生员及时救起了差点淹死的孩子。",
+        "pinyin": "Jiùshēngyuán jíshí jiù qǐle chàdiǎn yānsǐ de háizi.",
+        "en": "Cankurtaran neredeyse boğulan çocuğu zamanında kurtardı."
+      },
+      {
+        "zh": "他的宠物猫不小心淹死在水池里。",
+        "pinyin": "Tā de chǒngwù māo bù xiǎoxīn yānsǐ zài shuǐchí lǐ.",
+        "en": "Onun evcil kedisi kazayla havuzda boğuldu."
+      }
+    ]
+  },
+  {
+    "id": "w6718",
+    "hanzi": "言论",
+    "pinyin": "yánlùn",
+    "meaning": "söylem, ifade özgürlüğü, görüş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他享有言论自由。",
+        "pinyin": "Tā xiǎngyǒu yánlùn zìyóu.",
+        "en": "O ifade özgürlüğüne sahip."
+      },
+      {
+        "zh": "他的言论引起了广泛关注。",
+        "pinyin": "Tā de yánlùn yǐnqǐle guǎngfàn guānzhù.",
+        "en": "Onun ifadesi geniş bir ilgi uyandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6719",
+    "hanzi": "言语",
+    "pinyin": "yányǔ",
+    "meaning": "konuşma, söz, dil",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他言语温和,从不粗鲁。",
+        "pinyin": "Tā yányǔ wēnhé, cóng bù cūlǔ.",
+        "en": "Onun sözleri yumuşak, asla kaba değil."
+      },
+      {
+        "zh": "她言语中透露出一丝伤感。",
+        "pinyin": "Tā yányǔ zhōng tòulù chū yīsī shānggǎn.",
+        "en": "Onun sözlerinde hafif bir hüzün seziliyor."
+      },
+      {
+        "zh": "他言语犀利,直击要点。",
+        "pinyin": "Tā yányǔ xīlì, zhíjī yàodiǎn.",
+        "en": "Onun sözleri keskin, doğrudan noktaya değiniyor."
+      },
+      {
+        "zh": "请注意你的言语措辞。",
+        "pinyin": "Qǐng zhùyì nǐ de yányǔ cuòcí.",
+        "en": "Lütfen ifadelerine dikkat et."
+      },
+      {
+        "zh": "他用言语表达了自己的感激之情。",
+        "pinyin": "Tā yòng yányǔ biǎodále zìjǐ de gǎnjī zhī qíng.",
+        "en": "O sözleriyle minnettarlığını ifade etti."
+      }
+    ]
+  },
+  {
+    "id": "w6720",
+    "hanzi": "炎热",
+    "pinyin": "yánrè",
+    "meaning": "yakıcı sıcak, kavurucu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "夏天的天气非常炎热。",
+        "pinyin": "Xiàtiān de tiānqì fēicháng yánrè.",
+        "en": "Yazın hava son derece sıcak."
+      },
+      {
+        "zh": "炎热的天气让人没有食欲。",
+        "pinyin": "Yánrè de tiānqì ràng rén méiyǒu shíyù.",
+        "en": "Sıcak hava insanın iştahını kesiyor."
+      },
+      {
+        "zh": "在炎热的正午,大家都躲在阴凉处。",
+        "pinyin": "Zài yánrè de zhèngwǔ, dàjiā dōu duǒ zài yīnliáng chù.",
+        "en": "Sıcak öğle vaktinde herkes gölgeye saklanıyor."
+      },
+      {
+        "zh": "他无法忍受炎热的气候。",
+        "pinyin": "Tā wúfǎ rěnshòu yánrè de qìhòu.",
+        "en": "O kavurucu iklime dayanamıyor."
+      },
+      {
+        "zh": "炎热的夏日,冰淇淋最受欢迎。",
+        "pinyin": "Yánrè de xiàrì, bīngqílín zuì shòu huānyíng.",
+        "en": "Sıcak yaz günlerinde dondurma en popüler olanıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6721",
+    "hanzi": "研发",
+    "pinyin": "yánfā",
+    "meaning": "araştırma ve geliştirme",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "公司投入大量资金用于研发。",
+        "pinyin": "Gōngsī tóurù dàliàng zījīn yòngyú yánfā.",
+        "en": "Şirket araştırma geliştirmeye büyük miktarda para yatırıyor."
+      },
+      {
+        "zh": "他们正在研发一种新药。",
+        "pinyin": "Tāmen zhèngzài yánfā yī zhǒng xīnyào.",
+        "en": "Onlar yeni bir ilaç geliştiriyor."
+      },
+      {
+        "zh": "这项技术是我们自主研发的。",
+        "pinyin": "Zhè xiàng jìshù shì wǒmen zìzhǔ yánfā de.",
+        "en": "Bu teknoloji kendi geliştirdiğimiz bir teknolojidir."
+      },
+      {
+        "zh": "研发团队昼夜不停地工作。",
+        "pinyin": "Yánfā tuánduì zhòuyè bùtíng de gōngzuò.",
+        "en": "Araştırma geliştirme ekibi gece gündüz durmadan çalışıyor."
+      },
+      {
+        "zh": "新产品的研发耗时三年。",
+        "pinyin": "Xīn chǎnpǐn de yánfā hàoshí sān nián.",
+        "en": "Yeni ürünün araştırma geliştirilmesi üç yıl sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w6722",
+    "hanzi": "研究",
+    "pinyin": "yánjiū",
+    "meaning": "araştırma yapmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "他在研究这个课题。",
+        "pinyin": "Tā zài yánjiū zhège kètí.",
+        "en": "O bu konuyu araştırıyor."
+      },
+      {
+        "zh": "科学家研究了这种现象。",
+        "pinyin": "Kēxuéjiā yánjiūle zhè zhǒng xiànxiàng.",
+        "en": "Bilim insanları bu olguyu araştırdı."
+      },
+      {
+        "zh": "我们需要好好研究一下这个方案。",
+        "pinyin": "Wǒmen xūyào hǎohǎo yánjiū yīxià zhège fāng'àn.",
+        "en": "Bu planı iyice araştırmamız gerekiyor."
+      },
+      {
+        "zh": "他把一生都献给了科学研究。",
+        "pinyin": "Tā bǎ yīshēng dōu xiàn gěile kēxué yánjiū.",
+        "en": "O hayatını bilimsel araştırmaya adadı."
+      },
+      {
+        "zh": "这项研究成果发表在国际期刊上。",
+        "pinyin": "Zhè xiàng yánjiū chéngguǒ fābiǎo zài guójì qīkān shàng.",
+        "en": "Bu araştırma sonucu uluslararası bir dergide yayınlandı."
+      }
+    ]
+  },
+  {
+    "id": "w6723",
+    "hanzi": "研讨会",
+    "pinyin": "yántǎohuì",
+    "meaning": "seminer, sempozyum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "我们下周举行一场研讨会。",
+        "pinyin": "Wǒmen xià zhōu jǔxíng yī chǎng yántǎohuì.",
+        "en": "Gelecek hafta bir seminer düzenliyoruz."
+      },
+      {
+        "zh": "他参加了国际学术研讨会。",
+        "pinyin": "Tā cānjiāle guójì xuéshù yántǎohuì.",
+        "en": "O uluslararası bir akademik sempozyuma katıldı."
+      },
+      {
+        "zh": "研讨会邀请了多位专家演讲。",
+        "pinyin": "Yántǎohuì yāoqǐngle duō wèi zhuānjiā yǎnjiǎng.",
+        "en": "Sempozyuma birçok uzman konuşmacı olarak davet edildi."
+      },
+      {
+        "zh": "这次研讨会讨论了环境保护问题。",
+        "pinyin": "Zhè cì yántǎohuì tǎolùnle huánjìng bǎohù wèntí.",
+        "en": "Bu sempozyumda çevre koruma konuları tartışıldı."
+      },
+      {
+        "zh": "研讨会结束后大家进行了交流。",
+        "pinyin": "Yántǎohuì jiéshù hòu dàjiā jìnxíngle jiāoliú.",
+        "en": "Sempozyum bittikten sonra herkes fikir alışverişinde bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w6724",
+    "hanzi": "延迟",
+    "pinyin": "yánchí",
+    "meaning": "ertelemek, geciktirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "会议延迟了一个小时。",
+        "pinyin": "Huìyì yánchíle yī gè xiǎoshí.",
+        "en": "Toplantı bir saat ertelendi."
+      },
+      {
+        "zh": "由于天气原因,航班延迟起飞。",
+        "pinyin": "Yóuyú tiānqì yuányīn, hángbān yánchí qǐfēi.",
+        "en": "Hava koşulları nedeniyle uçuş gecikmeli kalktı."
+      },
+      {
+        "zh": "他把付款日期延迟到了下个月。",
+        "pinyin": "Tā bǎ fùkuǎn rìqī yánchí dàole xià gè yuè.",
+        "en": "O ödeme tarihini gelecek aya erteledi."
+      },
+      {
+        "zh": "工程进度延迟了两周。",
+        "pinyin": "Gōngchéng jìndù yánchíle liǎng zhōu.",
+        "en": "İnşaat ilerlemesi iki hafta gecikti."
+      },
+      {
+        "zh": "请不要再延迟做出决定。",
+        "pinyin": "Qǐng bùyào zài yánchí zuòchū juédìng.",
+        "en": "Lütfen karar vermeyi artık erteleme."
+      }
+    ]
+  },
+  {
+    "id": "w6725",
+    "hanzi": "延期",
+    "pinyin": "yánqī",
+    "meaning": "ertelemek, süresini uzatmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "比赛因大雨延期举行。",
+        "pinyin": "Bǐsài yīn dàyǔ yánqī jǔxíng.",
+        "en": "Maç şiddetli yağmur nedeniyle ertelendi."
+      },
+      {
+        "zh": "他申请延期还款。",
+        "pinyin": "Tā shēnqǐng yánqī huánkuǎn.",
+        "en": "O geri ödeme süresinin uzatılmasını talep etti."
+      }
+    ]
+  },
+  {
+    "id": "w6726",
+    "hanzi": "延误",
+    "pinyin": "yánwù",
+    "meaning": "geciktirmek, gecikmeye neden olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "航班严重延误。",
+        "pinyin": "Hángbān yánzhòng yánwù.",
+        "en": "Uçuş ciddi şekilde gecikti."
+      },
+      {
+        "zh": "拖延治疗会延误病情。",
+        "pinyin": "Tuōyán zhìliáo huì yánwù bìngqíng.",
+        "en": "Tedaviyi ertelemek hastalığın seyrini kötüleştirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6727",
+    "hanzi": "延续",
+    "pinyin": "yánxù",
+    "meaning": "devam ettirmek, sürdürmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这个传统延续了几百年。",
+        "pinyin": "Zhège chuántǒng yánxùle jǐ bǎi nián.",
+        "en": "Bu gelenek yüzyıllardır sürdürülüyor."
+      },
+      {
+        "zh": "他们希望延续家族的事业。",
+        "pinyin": "Tāmen xīwàng yánxù jiāzú de shìyè.",
+        "en": "Onlar aile işini sürdürmeyi umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6728",
+    "hanzi": "严惩",
+    "pinyin": "yánchéng",
+    "meaning": "sert biçimde cezalandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "犯罪分子将受到严惩。",
+        "pinyin": "Fànzuì fènzǐ jiāng shòudào yánchéng.",
+        "en": "Suçlular sert bir şekilde cezalandırılacak."
+      },
+      {
+        "zh": "政府决定严惩腐败行为。",
+        "pinyin": "Zhèngfǔ juédìng yánchéng fǔbài xíngwéi.",
+        "en": "Hükümet yolsuzluk davranışlarını sert bir şekilde cezalandırmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w6729",
+    "hanzi": "严寒",
+    "pinyin": "yánhán",
+    "meaning": "şiddetli soğuk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "北方的冬天十分严寒。",
+        "pinyin": "Běifāng de dōngtiān shífēn yánhán.",
+        "en": "Kuzeydeki kış son derece şiddetli soğuktur."
+      },
+      {
+        "zh": "士兵们在严寒中坚守岗位。",
+        "pinyin": "Shìbīngmen zài yánhán zhōng jiānshǒu gǎngwèi.",
+        "en": "Askerler şiddetli soğukta görevlerini sürdürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6730",
+    "hanzi": "严谨",
+    "pinyin": "yánjǐn",
+    "meaning": "dikkatli ve titiz, özenli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的研究态度非常严谨。",
+        "pinyin": "Tā de yánjiū tàidu fēicháng yánjǐn.",
+        "en": "Onun araştırma tutumu son derece titiz."
+      },
+      {
+        "zh": "这份报告写得十分严谨。",
+        "pinyin": "Zhè fèn bàogào xiě de shífēn yánjǐn.",
+        "en": "Bu rapor son derece titiz yazılmış."
+      }
+    ]
+  },
+  {
+    "id": "w6731",
+    "hanzi": "严禁",
+    "pinyin": "yánjìn",
+    "meaning": "kesinlikle yasaklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "严禁携带火种进入森林。",
+        "pinyin": "Yánjìn xiédài huǒzhǒng jìnrù sēnlín.",
+        "en": "Ormana ateş kaynağı taşımak kesinlikle yasaktır."
+      },
+      {
+        "zh": "严禁在此吸烟。",
+        "pinyin": "Yánjìn zài cǐ xīyān.",
+        "en": "Burada sigara içmek kesinlikle yasaktır."
+      }
+    ]
+  },
+  {
+    "id": "w6732",
+    "hanzi": "严峻",
+    "pinyin": "yánjùn",
+    "meaning": "sert, ciddi, zorlu",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "形势十分严峻。",
+        "pinyin": "Xíngshì shífēn yánjùn.",
+        "en": "Durum son derece ciddi."
+      },
+      {
+        "zh": "公司正面临严峻的考验。",
+        "pinyin": "Gōngsī zhèng miànlín yánjùn de kǎoyàn.",
+        "en": "Şirket ciddi bir sınavla karşı karşıya."
+      }
+    ]
+  },
+  {
+    "id": "w6733",
+    "hanzi": "严厉",
+    "pinyin": "yánlì",
+    "meaning": "sert, amansız, katı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "老师对学生很严厉。",
+        "pinyin": "Lǎoshī duì xuésheng hěn yánlì.",
+        "en": "Öğretmen öğrencilere karşı çok katı."
+      },
+      {
+        "zh": "他受到了严厉的批评。",
+        "pinyin": "Tā shòudàole yánlì de pīpíng.",
+        "en": "O sert bir eleştiriyle karşılaştı."
+      },
+      {
+        "zh": "父母对他的教育很严厉。",
+        "pinyin": "Fùmǔ duì tā de jiàoyù hěn yánlì.",
+        "en": "Ebeveynlerinin onun eğitimine yaklaşımı çok katı."
+      },
+      {
+        "zh": "公司制定了严厉的规章制度。",
+        "pinyin": "Gōngsī zhìdìngle yánlì de guīzhāng zhìdù.",
+        "en": "Şirket katı bir kurallar sistemi belirledi."
+      },
+      {
+        "zh": "他用严厉的语气警告了对方。",
+        "pinyin": "Tā yòng yánlì de yǔqì jǐnggàole duìfāng.",
+        "en": "O sert bir tonla karşı tarafı uyardı."
+      }
+    ]
+  },
+  {
+    "id": "w6734",
+    "hanzi": "岩石",
+    "pinyin": "yánshí",
+    "meaning": "kaya, kaya parçası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这座山全是岩石。",
+        "pinyin": "Zhè zuò shān quán shì yánshí.",
+        "en": "Bu dağ tamamen kayadan oluşuyor."
+      },
+      {
+        "zh": "科学家研究了这块岩石的成分。",
+        "pinyin": "Kēxuéjiā yánjiūle zhè kuài yánshí de chéngfèn.",
+        "en": "Bilim insanları bu kayanın bileşimini araştırdı."
+      },
+      {
+        "zh": "海边有很多形状奇特的岩石。",
+        "pinyin": "Hǎibiān yǒu hěn duō xíngzhuàng qítè de yánshí.",
+        "en": "Deniz kenarında birçok garip şekilli kaya var."
+      },
+      {
+        "zh": "登山者在岩石上小心攀爬。",
+        "pinyin": "Dēngshānzhě zài yánshí shàng xiǎoxīn pānpá.",
+        "en": "Dağcılar kayaların üzerinde dikkatlice tırmanıyor."
+      },
+      {
+        "zh": "岩石经过风化逐渐变成了土壤。",
+        "pinyin": "Yánshí jīngguò fēnghuà zhújiàn biànchéngle tǔrǎng.",
+        "en": "Kaya, aşınma sonucu yavaş yavaş toprağa dönüştü."
+      }
+    ]
+  },
+  {
+    "id": "w6735",
+    "hanzi": "沿海",
+    "pinyin": "yánhǎi",
+    "meaning": "kıyı, sahil",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他在沿海城市长大。",
+        "pinyin": "Tā zài yánhǎi chéngshì zhǎngdà.",
+        "en": "O sahil şehrinde büyüdü."
+      },
+      {
+        "zh": "沿海地区经济比较发达。",
+        "pinyin": "Yánhǎi dìqū jīngjì bǐjiào fādá.",
+        "en": "Sahil bölgelerinin ekonomisi oldukça gelişmiştir."
+      },
+      {
+        "zh": "沿海渔民靠打渔为生。",
+        "pinyin": "Yánhǎi yúmín kào dǎyú wéishēng.",
+        "en": "Sahil bölgesindeki balıkçılar balıkçılıkla geçinir."
+      },
+      {
+        "zh": "台风给沿海地区带来了严重损失。",
+        "pinyin": "Táifēng gěi yánhǎi dìqū dàiláile yánzhòng sǔnshī.",
+        "en": "Tayfun sahil bölgelerine ciddi zarar verdi."
+      },
+      {
+        "zh": "他们计划沿海岸线骑行。",
+        "pinyin": "Tāmen jìhuà yán hǎi'ànxiàn qíxíng.",
+        "en": "Onlar kıyı boyunca bisiklet sürmeyi planlıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w6736",
+    "hanzi": "眼光",
+    "pinyin": "yǎnguāng",
+    "meaning": "bakış açısı, görüş, gözden geçirme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他很有眼光,总能发现好东西。",
+        "pinyin": "Tā hěn yǒu yǎnguāng, zǒng néng fāxiàn hǎo dōngxi.",
+        "en": "Onun iyi bir görüşü var, her zaman güzel şeyler bulabiliyor."
+      },
+      {
+        "zh": "别人的眼光不重要,做自己就好。",
+        "pinyin": "Biérén de yǎnguāng bù zhòngyào, zuò zìjǐ jiù hǎo.",
+        "en": "Başkalarının bakışı önemli değil, kendin olmak yeterli."
+      },
+      {
+        "zh": "他用长远的眼光看待问题。",
+        "pinyin": "Tā yòng chángyuǎn de yǎnguāng kàndài wèntí.",
+        "en": "O sorunlara uzun vadeli bir bakış açısıyla yaklaşıyor."
+      },
+      {
+        "zh": "投资需要有独到的眼光。",
+        "pinyin": "Tóuzī xūyào yǒu dúdào de yǎnguāng.",
+        "en": "Yatırım özgün bir bakış açısı gerektirir."
+      },
+      {
+        "zh": "她的穿衣眼光很好。",
+        "pinyin": "Tā de chuānyī yǎnguāng hěn hǎo.",
+        "en": "Onun giyim zevki çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w6737",
+    "hanzi": "眼泪",
+    "pinyin": "yǎnlèi",
+    "meaning": "gözyaşı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她流下了眼泪。",
+        "pinyin": "Tā liúxiàle yǎnlèi.",
+        "en": "O gözyaşı döktü."
+      },
+      {
+        "zh": "他忍不住流出了眼泪。",
+        "pinyin": "Tā rěnbuzhù liúchūle yǎnlèi.",
+        "en": "O gözyaşlarını tutamadı."
+      },
+      {
+        "zh": "看到这一幕,观众都流下了感动的眼泪。",
+        "pinyin": "Kàndào zhè yī mù, guānzhòng dōu liúxiàle gǎndòng de yǎnlèi.",
+        "en": "Bu sahneyi görünce izleyicilerin hepsi duygulanarak gözyaşı döktü."
+      },
+      {
+        "zh": "她擦干了眼泪,继续前行。",
+        "pinyin": "Tā cā gānle yǎnlèi, jìxù qiánxíng.",
+        "en": "O gözyaşlarını sildi ve yoluna devam etti."
+      },
+      {
+        "zh": "孩子的眼泪打动了大家的心。",
+        "pinyin": "Háizi de yǎnlèi dǎdòngle dàjiā de xīn.",
+        "en": "Çocuğun gözyaşları herkesin kalbini etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w6738",
+    "hanzi": "眼科",
+    "pinyin": "yǎnkē",
+    "meaning": "göz hekimliği",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他去眼科检查视力。",
+        "pinyin": "Tā qù yǎnkē jiǎnchá shìlì.",
+        "en": "O görme kontrolü için göz hekimine gitti."
+      },
+      {
+        "zh": "这家医院有专业的眼科医生。",
+        "pinyin": "Zhè jiā yīyuàn yǒu zhuānyè de yǎnkē yīshēng.",
+        "en": "Bu hastanede profesyonel göz hekimleri var."
+      },
+      {
+        "zh": "眼科医生给他开了眼药水。",
+        "pinyin": "Yǎnkē yīshēng gěi tā kāile yǎnyàoshuǐ.",
+        "en": "Göz hekimi ona göz damlası yazdı."
+      },
+      {
+        "zh": "他因为眼疾去了眼科门诊。",
+        "pinyin": "Tā yīnwèi yǎnjí qùle yǎnkē ménzhěn.",
+        "en": "O göz hastalığı nedeniyle göz polikliniğine gitti."
+      },
+      {
+        "zh": "眼科手术需要非常精细的操作。",
+        "pinyin": "Yǎnkē shǒushù xūyào fēicháng jīngxì de cāozuò.",
+        "en": "Göz ameliyatı son derece hassas bir işlem gerektirir."
+      }
+    ]
   }
 ]

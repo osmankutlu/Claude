@@ -207505,5 +207505,848 @@
         "en": "Mağaza hırsızlığı önlemek için kamera taktı."
       }
     ]
+  },
+  {
+    "id": "w6177",
+    "hanzi": "头",
+    "pinyin": "tóu",
+    "meaning": "kafa, baş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的头很疼。",
+        "pinyin": "Tā de tóu hěn téng.",
+        "en": "Başı çok ağrıyor."
+      },
+      {
+        "zh": "她点了点头。",
+        "pinyin": "Tā diǎn le diǎn tóu.",
+        "en": "Başını salladı (onayladı)."
+      },
+      {
+        "zh": "他摇了摇头表示反对。",
+        "pinyin": "Tā yáo le yáo tóu biǎoshì fǎnduì.",
+        "en": "Karşı olduğunu göstermek için başını salladı."
+      },
+      {
+        "zh": "他从头到尾讲述了整个故事。",
+        "pinyin": "Tā cóngtóu-dàowěi jiǎngshù le zhěnggè gùshi.",
+        "en": "Baştan sona tüm hikâyeyi anlattı."
+      },
+      {
+        "zh": "他站在队伍的最前头。",
+        "pinyin": "Tā zhàn zài duìwu de zuì qiántóu.",
+        "en": "Sıranın en önünde duruyor."
+      }
+    ]
+  },
+  {
+    "id": "w6178",
+    "hanzi": "头等",
+    "pinyin": "tóuděng",
+    "meaning": "birinci sınıf, en üstün",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他买了头等舱的机票。",
+        "pinyin": "Tā mǎi le tóuděngcāng de jīpiào.",
+        "en": "Birinci sınıf uçak bileti satın aldı."
+      },
+      {
+        "zh": "这是头等重要的事情。",
+        "pinyin": "Zhè shì tóuděng zhòngyào de shìqing.",
+        "en": "Bu birinci derecede önemli bir konudur."
+      }
+    ]
+  },
+  {
+    "id": "w6179",
+    "hanzi": "头顶",
+    "pinyin": "tóudǐng",
+    "meaning": "başın tepesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "鸟儿从他的头顶飞过。",
+        "pinyin": "Niǎor cóng tā de tóudǐng fēiguò.",
+        "en": "Kuş başının üzerinden uçarak geçti."
+      },
+      {
+        "zh": "他头顶上的头发越来越少了。",
+        "pinyin": "Tā tóudǐng shàng de tóufa yuèláiyuè shǎo le.",
+        "en": "Başının tepesindeki saçları giderek azaldı."
+      }
+    ]
+  },
+  {
+    "id": "w6180",
+    "hanzi": "头脑",
+    "pinyin": "tóunǎo",
+    "meaning": "beyin, akıl, zihin",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他头脑很清楚。",
+        "pinyin": "Tā tóunǎo hěn qīngchu.",
+        "en": "Zihni çok berrak."
+      },
+      {
+        "zh": "遇到问题要保持冷静的头脑。",
+        "pinyin": "Yùdào wèntí yào bǎochí lěngjìng de tóunǎo.",
+        "en": "Sorunlarla karşılaşınca soğukkanlı bir zihin korunmalı."
+      },
+      {
+        "zh": "他是这个团队的头脑人物。",
+        "pinyin": "Tā shì zhège tuánduì de tóunǎo rénwù.",
+        "en": "O bu ekibin beyni durumunda."
+      },
+      {
+        "zh": "他有一个精明的头脑。",
+        "pinyin": "Tā yǒu yí ge jīngmíng de tóunǎo.",
+        "en": "Kurnaz bir zihne sahip."
+      },
+      {
+        "zh": "这个问题让他头脑一片混乱。",
+        "pinyin": "Zhège wèntí ràng tā tóunǎo yípiàn hùnluàn.",
+        "en": "Bu sorun zihnini tamamen karıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6181",
+    "hanzi": "头痛",
+    "pinyin": "tóutòng",
+    "meaning": "baş ağrısı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "我今天有点头痛。",
+        "pinyin": "Wǒ jīntiān yǒudiǎn tóutòng.",
+        "en": "Bugün biraz baş ağrım var."
+      },
+      {
+        "zh": "他吃了药，头痛好多了。",
+        "pinyin": "Tā chī le yào, tóutòng hǎoduō le.",
+        "en": "İlaç aldı, baş ağrısı çok iyileşti."
+      },
+      {
+        "zh": "这个问题让老板很头痛。",
+        "pinyin": "Zhège wèntí ràng lǎobǎn hěn tóutòng.",
+        "en": "Bu sorun patronun çok başını ağrıtıyor."
+      },
+      {
+        "zh": "熬夜容易引起头痛。",
+        "pinyin": "Áoyè róngyì yǐnqǐ tóutòng.",
+        "en": "Gece geç yatmak baş ağrısına yol açabilir."
+      },
+      {
+        "zh": "他因为头痛请假了。",
+        "pinyin": "Tā yīnwèi tóutòng qǐngjià le.",
+        "en": "Baş ağrısı yüzünden izin aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6182",
+    "hanzi": "头衔",
+    "pinyin": "tóuxián",
+    "meaning": "unvan",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他获得了博士头衔。",
+        "pinyin": "Tā huòdé le bóshì tóuxián.",
+        "en": "Doktora unvanını elde etti."
+      },
+      {
+        "zh": "她的名片上印着很长的头衔。",
+        "pinyin": "Tā de míngpiàn shàng yìnzhe hěn cháng de tóuxián.",
+        "en": "Kartvizitinde uzun bir unvan basılı."
+      }
+    ]
+  },
+  {
+    "id": "w6183",
+    "hanzi": "投",
+    "pinyin": "tóu",
+    "meaning": "atmak, fırlatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把球投进了篮筐。",
+        "pinyin": "Tā bǎ qiú tóujìn le lánkuāng.",
+        "en": "Topu potaya attı."
+      },
+      {
+        "zh": "请投一张选票。",
+        "pinyin": "Qǐng tóu yì zhāng xuǎnpiào.",
+        "en": "Lütfen bir oy pusulası atın."
+      },
+      {
+        "zh": "他投资了这家公司。",
+        "pinyin": "Tā tóuzī le zhè jiā gōngsī.",
+        "en": "Bu şirkete yatırım yaptı."
+      },
+      {
+        "zh": "他把信投进了邮筒。",
+        "pinyin": "Tā bǎ xìn tóujìn le yóutǒng.",
+        "en": "Mektubu posta kutusuna attı."
+      },
+      {
+        "zh": "他向湖里投了一块石头。",
+        "pinyin": "Tā xiàng hú lǐ tóu le yí kuài shítou.",
+        "en": "Göle bir taş attı."
+      }
+    ]
+  },
+  {
+    "id": "w6184",
+    "hanzi": "投降",
+    "pinyin": "tóujiàng",
+    "meaning": "teslim olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "敌军最终选择了投降。",
+        "pinyin": "Díjūn zuìzhōng xuǎnzé le tóujiàng.",
+        "en": "Düşman ordusu sonunda teslim olmayı seçti."
+      },
+      {
+        "zh": "他绝不向困难投降。",
+        "pinyin": "Tā juébù xiàng kùnnán tóujiàng.",
+        "en": "Zorluklara asla teslim olmaz."
+      }
+    ]
+  },
+  {
+    "id": "w6185",
+    "hanzi": "透",
+    "pinyin": "tòu",
+    "meaning": "içine işlemek, sızmak; iyice",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "阳光透过窗户照了进来。",
+        "pinyin": "Yángguāng tòuguò chuānghu zhào le jìnlái.",
+        "en": "Güneş ışığı pencereden içeri süzüldü."
+      },
+      {
+        "zh": "他把这件事看得很透彻。",
+        "pinyin": "Tā bǎ zhè jiàn shì kàn de hěn tòuchè.",
+        "en": "Bu konuyu çok derinlemesine anladı."
+      },
+      {
+        "zh": "衣服被雨淋透了。",
+        "pinyin": "Yīfu bèi yǔ líntòu le.",
+        "en": "Kıyafet yağmurdan tamamen ıslandı."
+      },
+      {
+        "zh": "他喝得酩酊大醉，透着一股酒气。",
+        "pinyin": "Tā hē de mǐngdǐngdàzuì, tòuzhe yìgǔ jiǔqì.",
+        "en": "Zil zurna sarhoş oldu, üzerinden içki kokusu geliyor."
+      },
+      {
+        "zh": "他一眼就看透了对方的心思。",
+        "pinyin": "Tā yìyǎn jiù kàntòu le duìfāng de xīnsi.",
+        "en": "Bir bakışta karşı tarafın düşüncelerini gördü."
+      }
+    ]
+  },
+  {
+    "id": "w6186",
+    "hanzi": "透彻",
+    "pinyin": "tòuchè",
+    "meaning": "derinlemesine, adamakıllı, kapsamlı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他对这个问题的分析非常透彻。",
+        "pinyin": "Tā duì zhège wèntí de fēnxī fēicháng tòuchè.",
+        "en": "Bu konuyu çok derinlemesine analiz etti."
+      },
+      {
+        "zh": "老师讲解得很透彻。",
+        "pinyin": "Lǎoshī jiǎngjiě de hěn tòuchè.",
+        "en": "Öğretmen çok kapsamlı bir şekilde anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w6187",
+    "hanzi": "透露",
+    "pinyin": "tòulù",
+    "meaning": "açığa vurmak, ifşa etmek, sızdırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不愿透露自己的计划。",
+        "pinyin": "Tā bú yuàn tòulù zìjǐ de jìhuà.",
+        "en": "Kendi planını açığa vurmak istemiyor."
+      },
+      {
+        "zh": "有消息透露公司即将上市。",
+        "pinyin": "Yǒu xiāoxi tòulù gōngsī jíjiāng shàngshì.",
+        "en": "Şirketin yakında halka arz edileceğine dair bilgiler sızdı."
+      },
+      {
+        "zh": "她的表情透露出一丝担忧。",
+        "pinyin": "Tā de biǎoqíng tòulù chū yìsī dānyōu.",
+        "en": "İfadesi hafif bir endişe ortaya koyuyor."
+      },
+      {
+        "zh": "他向记者透露了一些内幕消息。",
+        "pinyin": "Tā xiàng jìzhě tòulù le yìxiē nèimù xiāoxi.",
+        "en": "Gazeteciye bazı gizli bilgileri sızdırdı."
+      },
+      {
+        "zh": "官方尚未透露具体细节。",
+        "pinyin": "Guānfāng shàngwèi tòulù jùtǐ xìjié.",
+        "en": "Yetkililer henüz ayrıntıları açıklamadı."
+      }
+    ]
+  },
+  {
+    "id": "w6188",
+    "hanzi": "透气",
+    "pinyin": "tòuqì",
+    "meaning": "havalandırmak; rahatça nefes almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这种布料很透气。",
+        "pinyin": "Zhè zhǒng bùliào hěn tòuqì.",
+        "en": "Bu kumaş çok hava geçirgen."
+      },
+      {
+        "zh": "他出去透透气，放松心情。",
+        "pinyin": "Tā chūqù tòutou qì, fàngsōng xīnqíng.",
+        "en": "Biraz hava almak ve rahatlamak için dışarı çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w6189",
+    "hanzi": "突",
+    "pinyin": "tū",
+    "meaning": "aniden, ani; çıkıntılı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他突然出现在门口。",
+        "pinyin": "Tā tūrán chūxiàn zài ménkǒu.",
+        "en": "Aniden kapıda belirdi."
+      },
+      {
+        "zh": "情况发生了突变。",
+        "pinyin": "Qíngkuàng fāshēng le tūbiàn.",
+        "en": "Durum ani bir değişim geçirdi."
+      },
+      {
+        "zh": "他突出了自己的观点。",
+        "pinyin": "Tā tūchū le zìjǐ de guāndiǎn.",
+        "en": "Kendi görüşünü ön plana çıkardı."
+      },
+      {
+        "zh": "他的能力很突出。",
+        "pinyin": "Tā de nénglì hěn tūchū.",
+        "en": "Yeteneği çok göze çarpıyor."
+      },
+      {
+        "zh": "队伍成功突破了敌人的防线。",
+        "pinyin": "Duìwu chénggōng tūpò le dírén de fángxiàn.",
+        "en": "Ekip düşmanın savunma hattını başarıyla aştı."
+      }
+    ]
+  },
+  {
+    "id": "w6190",
+    "hanzi": "突变",
+    "pinyin": "tūbiàn",
+    "meaning": "ani değişim, mutasyon",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "基因突变可能导致疾病。",
+        "pinyin": "Jīyīn tūbiàn kěnéng dǎozhì jíbìng.",
+        "en": "Gen mutasyonu hastalığa yol açabilir."
+      },
+      {
+        "zh": "局势发生了突变。",
+        "pinyin": "Júshì fāshēng le tūbiàn.",
+        "en": "Durum ani bir değişim geçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6191",
+    "hanzi": "突击",
+    "pinyin": "tūjī",
+    "meaning": "ani atak yapmak, baskın yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "警方对该地进行了突击检查。",
+        "pinyin": "Jǐngfāng duì gāidì jìnxíng le tūjī jiǎnchá.",
+        "en": "Polis bu bölgede ani bir denetim yaptı."
+      },
+      {
+        "zh": "士兵们发起了突击进攻。",
+        "pinyin": "Shìbīngmen fāqǐ le tūjī jìngōng.",
+        "en": "Askerler ani bir saldırı başlattı."
+      }
+    ]
+  },
+  {
+    "id": "w6192",
+    "hanzi": "突破",
+    "pinyin": "tūpò",
+    "meaning": "atılım yapmak, aşmak, üstesinden gelmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "科学家取得了重大突破。",
+        "pinyin": "Kēxuéjiā qǔdé le zhòngdà tūpò.",
+        "en": "Bilim insanları büyük bir atılım gerçekleştirdi."
+      },
+      {
+        "zh": "他突破了自己的极限。",
+        "pinyin": "Tā tūpò le zìjǐ de jíxiàn.",
+        "en": "Kendi sınırlarını aştı."
+      },
+      {
+        "zh": "这项技术实现了新的突破。",
+        "pinyin": "Zhè xiàng jìshù shíxiàn le xīn de tūpò.",
+        "en": "Bu teknoloji yeni bir atılım gerçekleştirdi."
+      },
+      {
+        "zh": "销售额突破了历史新高。",
+        "pinyin": "Xiāoshòu'é tūpò le lìshǐ xīngāo.",
+        "en": "Satış rakamları tarihi rekoru aştı."
+      },
+      {
+        "zh": "他们成功突破了资金的瓶颈。",
+        "pinyin": "Tāmen chénggōng tūpò le zījīn de píngjǐng.",
+        "en": "Sermaye darboğazını başarıyla aştılar."
+      }
+    ]
+  },
+  {
+    "id": "w6193",
+    "hanzi": "秃",
+    "pinyin": "tū",
+    "meaning": "kel, saçsız; çıplak",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的头顶已经秃了。",
+        "pinyin": "Tā de tóudǐng yǐjīng tū le.",
+        "en": "Başının tepesi zaten kel."
+      },
+      {
+        "zh": "山上的树都变得光秃秃的。",
+        "pinyin": "Shān shàng de shù dōu biànde guāngtūtū de.",
+        "en": "Dağdaki ağaçlar tamamen çıplaklaştı."
+      }
+    ]
+  },
+  {
+    "id": "w6194",
+    "hanzi": "屠杀",
+    "pinyin": "túshā",
+    "meaning": "katliam yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "战争中发生了大规模的屠杀。",
+        "pinyin": "Zhànzhēng zhōng fāshēng le dàguīmó de túshā.",
+        "en": "Savaşta büyük çaplı bir katliam meydana geldi."
+      },
+      {
+        "zh": "人们纪念这场悲惨的屠杀。",
+        "pinyin": "Rénmen jìniàn zhè chǎng bēicǎn de túshā.",
+        "en": "İnsanlar bu trajik katliamı anıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6195",
+    "hanzi": "图",
+    "pinyin": "tú",
+    "meaning": "resim, harita; plan, amaç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "请看这张图。",
+        "pinyin": "Qǐng kàn zhè zhāng tú.",
+        "en": "Lütfen bu resme bakın."
+      },
+      {
+        "zh": "他画了一张地图。",
+        "pinyin": "Tā huà le yì zhāng dìtú.",
+        "en": "Bir harita çizdi."
+      },
+      {
+        "zh": "他图的是清静。",
+        "pinyin": "Tā tú de shì qīngjìng.",
+        "en": "İstediği şey sükunettir."
+      },
+      {
+        "zh": "他试图逃跑。",
+        "pinyin": "Tā shìtú táopǎo.",
+        "en": "Kaçmaya çalıştı."
+      },
+      {
+        "zh": "他的意图很明显。",
+        "pinyin": "Tā de yìtú hěn míngxiǎn.",
+        "en": "Niyeti çok belirgin."
+      }
+    ]
+  },
+  {
+    "id": "w6196",
+    "hanzi": "图案",
+    "pinyin": "tú'àn",
+    "meaning": "desen, motif",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这件衣服上有漂亮的图案。",
+        "pinyin": "Zhè jiàn yīfu shàng yǒu piàoliang de tú'àn.",
+        "en": "Bu kıyafetin üzerinde güzel bir desen var."
+      },
+      {
+        "zh": "他设计了一款新的图案。",
+        "pinyin": "Tā shèjì le yì kuǎn xīn de tú'àn.",
+        "en": "Yeni bir desen tasarladı."
+      },
+      {
+        "zh": "地毯上织有复杂的图案。",
+        "pinyin": "Dìtǎn shàng zhīyǒu fùzá de tú'àn.",
+        "en": "Halının üzerinde karmaşık bir desen dokunmuş."
+      },
+      {
+        "zh": "这个瓷器上的图案很精美。",
+        "pinyin": "Zhège cíqì shàng de tú'àn hěn jīngměi.",
+        "en": "Bu porselen üzerindeki desen çok özenli."
+      },
+      {
+        "zh": "她喜欢花朵图案的裙子。",
+        "pinyin": "Tā xǐhuan huāduǒ tú'àn de qúnzi.",
+        "en": "Çiçek desenli etekleri sever."
+      }
+    ]
+  },
+  {
+    "id": "w6197",
+    "hanzi": "图表",
+    "pinyin": "túbiǎo",
+    "meaning": "şema, grafik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请参考下面的图表。",
+        "pinyin": "Qǐng cānkǎo xiàmiàn de túbiǎo.",
+        "en": "Lütfen aşağıdaki grafiğe bakın."
+      },
+      {
+        "zh": "这份报告包含了许多图表。",
+        "pinyin": "Zhè fèn bàogào bāohán le hěnduō túbiǎo.",
+        "en": "Bu rapor birçok grafik içeriyor."
+      },
+      {
+        "zh": "他用图表展示了销售数据。",
+        "pinyin": "Tā yòng túbiǎo zhǎnshì le xiāoshòu shùjù.",
+        "en": "Satış verilerini grafik ile gösterdi."
+      },
+      {
+        "zh": "图表清楚地显示了增长趋势。",
+        "pinyin": "Túbiǎo qīngchu de xiǎnshì le zēngzhǎng qūshì.",
+        "en": "Grafik büyüme eğilimini açıkça gösteriyor."
+      },
+      {
+        "zh": "老师用图表讲解这个概念。",
+        "pinyin": "Lǎoshī yòng túbiǎo jiǎngjiě zhège gàiniàn.",
+        "en": "Öğretmen bu kavramı grafik kullanarak anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w6198",
+    "hanzi": "图画",
+    "pinyin": "túhuà",
+    "meaning": "çizim, resim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "孩子们喜欢画图画。",
+        "pinyin": "Háizimen xǐhuan huà túhuà.",
+        "en": "Çocuklar resim çizmeyi sever."
+      },
+      {
+        "zh": "墙上挂着一幅图画。",
+        "pinyin": "Qiáng shàng guàzhe yì fú túhuà.",
+        "en": "Duvarda bir resim asılı."
+      },
+      {
+        "zh": "这本书里有很多有趣的图画。",
+        "pinyin": "Zhè běn shū lǐ yǒu hěnduō yǒuqù de túhuà.",
+        "en": "Bu kitapta birçok ilginç resim var."
+      },
+      {
+        "zh": "她的图画获得了大奖。",
+        "pinyin": "Tā de túhuà huòdé le dàjiǎng.",
+        "en": "Resmi büyük bir ödül kazandı."
+      },
+      {
+        "zh": "他用图画表达自己的想法。",
+        "pinyin": "Tā yòng túhuà biǎodá zìjǐ de xiǎngfǎ.",
+        "en": "Kendi düşüncelerini resim aracılığıyla ifade ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6199",
+    "hanzi": "图片",
+    "pinyin": "túpiàn",
+    "meaning": "resim, fotoğraf",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "请上传一张图片。",
+        "pinyin": "Qǐng shàngchuán yì zhāng túpiàn.",
+        "en": "Lütfen bir resim yükleyin."
+      },
+      {
+        "zh": "这些图片非常清晰。",
+        "pinyin": "Zhèxiē túpiàn fēicháng qīngxī.",
+        "en": "Bu resimler çok net."
+      },
+      {
+        "zh": "他在网上搜索了相关图片。",
+        "pinyin": "Tā zài wǎngshàng sōusuǒ le xiāngguān túpiàn.",
+        "en": "İnternette ilgili resimleri aradı."
+      },
+      {
+        "zh": "这本杂志里有很多精美的图片。",
+        "pinyin": "Zhè běn zázhì lǐ yǒu hěnduō jīngměi de túpiàn.",
+        "en": "Bu dergide birçok güzel resim var."
+      },
+      {
+        "zh": "他把图片打印了出来。",
+        "pinyin": "Tā bǎ túpiàn dǎyìn le chūlái.",
+        "en": "Resmi yazdırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6200",
+    "hanzi": "图书",
+    "pinyin": "túshū",
+    "meaning": "kitaplar",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这个图书馆有很多图书。",
+        "pinyin": "Zhège túshūguǎn yǒu hěnduō túshū.",
+        "en": "Bu kütüphanede birçok kitap var."
+      },
+      {
+        "zh": "他喜欢在图书馆看图书。",
+        "pinyin": "Tā xǐhuan zài túshūguǎn kàn túshū.",
+        "en": "Kütüphanede kitap okumayı sever."
+      },
+      {
+        "zh": "学校采购了一批新图书。",
+        "pinyin": "Xuéxiào cǎigòu le yì pī xīn túshū.",
+        "en": "Okul bir grup yeni kitap satın aldı."
+      },
+      {
+        "zh": "这类图书很受读者欢迎。",
+        "pinyin": "Zhè lèi túshū hěn shòu dúzhě huānyíng.",
+        "en": "Bu tür kitaplar okuyucular arasında çok rağbet görüyor."
+      },
+      {
+        "zh": "图书分类有助于快速查找。",
+        "pinyin": "Túshū fēnlèi yǒuzhùyú kuàisù cházhǎo.",
+        "en": "Kitap sınıflandırması hızlıca aramaya yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w6201",
+    "hanzi": "图像",
+    "pinyin": "túxiàng",
+    "meaning": "görüntü, resim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这张图像很清晰。",
+        "pinyin": "Zhè zhāng túxiàng hěn qīngxī.",
+        "en": "Bu görüntü çok net."
+      },
+      {
+        "zh": "医生分析了扫描图像。",
+        "pinyin": "Yīshēng fēnxī le sǎomiáo túxiàng.",
+        "en": "Doktor tarama görüntüsünü analiz etti."
+      },
+      {
+        "zh": "这个软件可以处理图像。",
+        "pinyin": "Zhège ruǎnjiàn kěyǐ chǔlǐ túxiàng.",
+        "en": "Bu yazılım görüntü işleyebilir."
+      },
+      {
+        "zh": "卫星传回了地球的图像。",
+        "pinyin": "Wèixīng chuánhuí le dìqiú de túxiàng.",
+        "en": "Uydu Dünya'nın görüntülerini geri gönderdi."
+      },
+      {
+        "zh": "这台设备可以生成三维图像。",
+        "pinyin": "Zhè tái shèbèi kěyǐ shēngchéng sānwéi túxiàng.",
+        "en": "Bu cihaz üç boyutlu görüntü oluşturabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6202",
+    "hanzi": "涂",
+    "pinyin": "tú",
+    "meaning": "sürmek (boya, merhem vb.), karalamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她给伤口涂了药膏。",
+        "pinyin": "Tā gěi shāngkǒu tú le yàogāo.",
+        "en": "Yaraya merhem sürdü."
+      },
+      {
+        "zh": "他在墙上涂了油漆。",
+        "pinyin": "Tā zài qiáng shàng tú le yóuqī.",
+        "en": "Duvara boya sürdü."
+      },
+      {
+        "zh": "孩子在纸上乱涂乱画。",
+        "pinyin": "Háizi zài zhǐ shàng luàntú-luànhuà.",
+        "en": "Çocuk kağıda karalamalar yapıyor."
+      },
+      {
+        "zh": "她涂了口红。",
+        "pinyin": "Tā tú le kǒuhóng.",
+        "en": "Ruj sürdü."
+      },
+      {
+        "zh": "他把面包涂上了果酱。",
+        "pinyin": "Tā bǎ miànbāo túshàng le guǒjiàng.",
+        "en": "Ekmeğe reçel sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w6203",
+    "hanzi": "途",
+    "pinyin": "tú",
+    "meaning": "yol",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他在途中遇到了老朋友。",
+        "pinyin": "Tā zài túzhōng yùdào le lǎopéngyou.",
+        "en": "Yolculuk sırasında eski bir arkadaşıyla karşılaştı."
+      },
+      {
+        "zh": "他们踏上了归途。",
+        "pinyin": "Tāmen tàshàng le guītú.",
+        "en": "Dönüş yoluna çıktılar."
+      },
+      {
+        "zh": "这条路是通往目的地的唯一途径。",
+        "pinyin": "Zhè tiáo lù shì tōngwǎng mùdìdì de wéiyī tújìng.",
+        "en": "Bu yol hedefe ulaşmanın tek yoludur."
+      },
+      {
+        "zh": "半途而废是不明智的。",
+        "pinyin": "Bàntú'érfèi shì bù míngzhì de.",
+        "en": "Yarı yolda bırakmak akıllıca değildir."
+      },
+      {
+        "zh": "他的前途一片光明。",
+        "pinyin": "Tā de qiántú yípiàn guāngmíng.",
+        "en": "Geleceği çok parlak."
+      }
+    ]
+  },
+  {
+    "id": "w6204",
+    "hanzi": "徒弟",
+    "pinyin": "túdì",
+    "meaning": "çırak, öğrenci (usta-çırak ilişkisinde)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "师傅正在教徒弟手艺。",
+        "pinyin": "Shīfu zhèngzài jiāo túdì shǒuyì.",
+        "en": "Usta çırağına zanaat öğretiyor."
+      },
+      {
+        "zh": "他收了一个新徒弟。",
+        "pinyin": "Tā shōu le yí ge xīn túdì.",
+        "en": "Yeni bir çırak aldı."
+      }
+    ]
   }
 ]

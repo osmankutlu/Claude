@@ -224920,5 +224920,923 @@
         "en": "Suda belirli miktarda oksijen bulunur."
       }
     ]
+  },
+  {
+    "id": "w6767",
+    "hanzi": "氧化",
+    "pinyin": "yǎnghuà",
+    "meaning": "oksitlenmek, yükseltgenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "铁生锈是氧化反应的结果。",
+        "pinyin": "Tiě shēngxiù shì yǎnghuà fǎnyìng de jiéguǒ.",
+        "en": "Demirin paslanması bir oksitlenme reaksiyonunun sonucudur."
+      },
+      {
+        "zh": "苹果切开后很快就氧化变色了。",
+        "pinyin": "Píngguǒ qiēkāi hòu hěn kuài jiù yǎnghuà biànsè le.",
+        "en": "Elma kesildikten sonra hızla oksitlenip renk değiştirdi."
+      },
+      {
+        "zh": "金属在潮湿环境中容易氧化。",
+        "pinyin": "Jīnshǔ zài cháoshī huánjìng zhōng róngyì yǎnghuà.",
+        "en": "Metaller nemli ortamlarda kolayca oksitlenir."
+      },
+      {
+        "zh": "抗氧化剂可以延缓氧化过程。",
+        "pinyin": "Kàngyǎnghuàjì kěyǐ yánhuǎn yǎnghuà guòchéng.",
+        "en": "Antioksidanlar oksidasyon sürecini yavaşlatabilir."
+      },
+      {
+        "zh": "食物长期暴露在空气中会氧化。",
+        "pinyin": "Shíwù chángqí bàolù zài kōngqì zhōng huì yǎnghuà.",
+        "en": "Yiyecekler uzun süre havayla temas ederse oksitlenir."
+      }
+    ]
+  },
+  {
+    "id": "w6768",
+    "hanzi": "氧气",
+    "pinyin": "yǎngqì",
+    "meaning": "oksijen",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "人体离不开氧气。",
+        "pinyin": "Réntǐ líbukāi yǎngqì.",
+        "en": "İnsan vücudu oksijensiz olamaz."
+      },
+      {
+        "zh": "病人需要吸氧气。",
+        "pinyin": "Bìngrén xūyào xī yǎngqì.",
+        "en": "Hastanın oksijen soluması gerekiyor."
+      },
+      {
+        "zh": "潜水员携带了氧气瓶。",
+        "pinyin": "Qiánshuǐyuán xiédàile yǎngqì píng.",
+        "en": "Dalgıç oksijen tüpü taşıyor."
+      },
+      {
+        "zh": "植物通过光合作用产生氧气。",
+        "pinyin": "Zhíwù tōngguò guānghé zuòyòng chǎnshēng yǎngqì.",
+        "en": "Bitkiler fotosentez yoluyla oksijen üretir."
+      },
+      {
+        "zh": "高原地区氧气比较稀薄。",
+        "pinyin": "Gāoyuán dìqū yǎngqì bǐjiào xībó.",
+        "en": "Yayla bölgelerinde oksijen oldukça seyrektir."
+      }
+    ]
+  },
+  {
+    "id": "w6769",
+    "hanzi": "样",
+    "pinyin": "yàng",
+    "meaning": "görünüş, çeşit, tip",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个样子看起来不错。",
+        "pinyin": "Zhège yàngzi kànqǐlái bùcuò.",
+        "en": "Bu görünüş oldukça iyi görünüyor."
+      },
+      {
+        "zh": "他的态度和以前不一样了。",
+        "pinyin": "Tā de tàidu hé yǐqián bù yīyàng le.",
+        "en": "Onun tutumu eskisinden farklı."
+      },
+      {
+        "zh": "这里有各式各样的商品。",
+        "pinyin": "Zhèlǐ yǒu gèshì-gèyàng de shāngpǐn.",
+        "en": "Burada her çeşitten ürün var."
+      },
+      {
+        "zh": "他一副生气的样子。",
+        "pinyin": "Tā yī fù shēngqì de yàngzi.",
+        "en": "O sinirli bir görünüme sahip."
+      },
+      {
+        "zh": "你要什么样的服务?",
+        "pinyin": "Nǐ yào shénme yàng de fúwù?",
+        "en": "Nasıl bir hizmet istiyorsun?"
+      }
+    ]
+  },
+  {
+    "id": "w6770",
+    "hanzi": "样品",
+    "pinyin": "yàngpǐn",
+    "meaning": "numune, örnek ürün",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "请给我看一下产品样品。",
+        "pinyin": "Qǐng gěi wǒ kàn yīxià chǎnpǐn yàngpǐn.",
+        "en": "Lütfen bana ürün numunesini göster."
+      },
+      {
+        "zh": "公司免费提供样品试用。",
+        "pinyin": "Gōngsī miǎnfèi tígōng yàngpǐn shìyòng.",
+        "en": "Şirket ücretsiz numune denemesi sunuyor."
+      },
+      {
+        "zh": "他们制作了新产品的样品。",
+        "pinyin": "Tāmen zhìzuòle xīn chǎnpǐn de yàngpǐn.",
+        "en": "Onlar yeni ürünün numunesini üretti."
+      },
+      {
+        "zh": "样品的质量决定了订单量。",
+        "pinyin": "Yàngpǐn de zhìliàng juédìngle dìngdānliàng.",
+        "en": "Numunenin kalitesi sipariş miktarını belirler."
+      },
+      {
+        "zh": "实验室对样品进行了分析。",
+        "pinyin": "Shíyànshì duì yàngpǐn jìnxíngle fēnxī.",
+        "en": "Laboratuvar numuneyi analiz etti."
+      }
+    ]
+  },
+  {
+    "id": "w6771",
+    "hanzi": "要挟",
+    "pinyin": "yāoxié",
+    "meaning": "tehdit ederek zorlamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用秘密要挟对方。",
+        "pinyin": "Tā yòng mìmì yāoxié duìfāng.",
+        "en": "O sırrı kullanarak karşı tarafı tehdit ediyor."
+      },
+      {
+        "zh": "不要试图要挟我。",
+        "pinyin": "Bùyào shìtú yāoxié wǒ.",
+        "en": "Beni tehdit etmeye çalışma."
+      }
+    ]
+  },
+  {
+    "id": "w6772",
+    "hanzi": "妖怪",
+    "pinyin": "yāoguài",
+    "meaning": "canavar, cin, gulyabani",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这个故事里有很多妖怪。",
+        "pinyin": "Zhège gùshi lǐ yǒu hěn duō yāoguài.",
+        "en": "Bu hikayede birçok canavar var."
+      },
+      {
+        "zh": "孩子们害怕妖怪。",
+        "pinyin": "Háizimen hàipà yāoguài.",
+        "en": "Çocuklar canavarlardan korkuyor."
+      },
+      {
+        "zh": "传说山里住着妖怪。",
+        "pinyin": "Chuánshuō shān lǐ zhùzhe yāoguài.",
+        "en": "Efsaneye göre dağda bir canavar yaşıyor."
+      },
+      {
+        "zh": "他讲了一个关于妖怪的传说。",
+        "pinyin": "Tā jiǎngle yī gè guānyú yāoguài de chuánshuō.",
+        "en": "O bir canavar efsanesi anlattı."
+      },
+      {
+        "zh": "这部动画片里的妖怪很可爱。",
+        "pinyin": "Zhè bù dònghuàpiàn lǐ de yāoguài hěn kě'ài.",
+        "en": "Bu çizgi filmdeki canavar çok sevimli."
+      }
+    ]
+  },
+  {
+    "id": "w6773",
+    "hanzi": "邀",
+    "pinyin": "yāo",
+    "meaning": "davet etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他邀朋友们来家里聚会。",
+        "pinyin": "Tā yāo péngyoumen lái jiā lǐ jùhuì.",
+        "en": "O arkadaşlarını eve toplantıya davet etti."
+      },
+      {
+        "zh": "我们邀了几位嘉宾出席。",
+        "pinyin": "Wǒmen yāole jǐ wèi jiābīn chūxí.",
+        "en": "Birkaç konuğu katılmaya davet ettik."
+      },
+      {
+        "zh": "他被邀去参加婚礼。",
+        "pinyin": "Tā bèi yāo qù cānjiā hūnlǐ.",
+        "en": "O düğüne katılmaya davet edildi."
+      },
+      {
+        "zh": "她邀我一起去看电影。",
+        "pinyin": "Tā yāo wǒ yīqǐ qù kàn diànyǐng.",
+        "en": "O beni film izlemeye davet etti."
+      },
+      {
+        "zh": "他们邀请了很多专家参与讨论。",
+        "pinyin": "Tāmen yāoqǐngle hěn duō zhuānjiā cānyù tǎolùn.",
+        "en": "Onlar tartışmaya katılmak için birçok uzman davet etti."
+      }
+    ]
+  },
+  {
+    "id": "w6774",
+    "hanzi": "摇篮",
+    "pinyin": "yáolán",
+    "meaning": "beşik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "婴儿在摇篮里睡觉。",
+        "pinyin": "Yīng'ér zài yáolán lǐ shuìjiào.",
+        "en": "Bebek beşikte uyuyor."
+      },
+      {
+        "zh": "妈妈轻轻摇动摇篮。",
+        "pinyin": "Māma qīngqīng yáodòng yáolán.",
+        "en": "Anne beşiği hafifçe sallıyor."
+      },
+      {
+        "zh": "这座城市被称为文明的摇篮。",
+        "pinyin": "Zhè zuò chéngshì bèi chēngwéi wénmíng de yáolán.",
+        "en": "Bu şehir medeniyetin beşiği olarak anılır."
+      },
+      {
+        "zh": "他为孩子买了一个新摇篮。",
+        "pinyin": "Tā wèi háizi mǎile yī gè xīn yáolán.",
+        "en": "O çocuğu için yeni bir beşik satın aldı."
+      },
+      {
+        "zh": "摇篮曲让宝宝很快入睡。",
+        "pinyin": "Yáolánqǔ ràng bǎobao hěn kuài rùshuì.",
+        "en": "Ninni bebeği hızlıca uykuya daldırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6775",
+    "hanzi": "谣",
+    "pinyin": "yáo",
+    "meaning": "söylenti, dedikodu; halk türküsü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "网上流传着一些谣言。",
+        "pinyin": "Wǎngshàng liúchuánzhe yīxiē yáoyán.",
+        "en": "İnternette bazı söylentiler dolaşıyor."
+      },
+      {
+        "zh": "不要轻易相信谣言。",
+        "pinyin": "Bùyào qīngyì xiāngxìn yáoyán.",
+        "en": "Söylentilere kolayca inanma."
+      },
+      {
+        "zh": "民谣是一种传统音乐形式。",
+        "pinyin": "Mínyáo shì yī zhǒng chuántǒng yīnyuè xíngshì.",
+        "en": "Halk türküsü geleneksel bir müzik türüdür."
+      },
+      {
+        "zh": "他澄清了关于自己的谣言。",
+        "pinyin": "Tā chéngqīngle guānyú zìjǐ de yáoyán.",
+        "en": "O kendisiyle ilgili söylentileri açıklığa kavuşturdu."
+      },
+      {
+        "zh": "谣言止于智者。",
+        "pinyin": "Yáoyán zhǐyú zhìzhě.",
+        "en": "Söylentiler akıllı insanlarda son bulur."
+      }
+    ]
+  },
+  {
+    "id": "w6776",
+    "hanzi": "遥",
+    "pinyin": "yáo",
+    "meaning": "uzak",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "两地相隔遥远。",
+        "pinyin": "Liǎng dì xiānggé yáoyuǎn.",
+        "en": "İki yer birbirinden çok uzak."
+      },
+      {
+        "zh": "他遥望着远方的家乡。",
+        "pinyin": "Tā yáowàngzhe yuǎnfāng de jiāxiāng.",
+        "en": "O uzaktaki memleketine bakıyor."
+      },
+      {
+        "zh": "他们遥相呼应。",
+        "pinyin": "Tāmen yáo xiāng hūyìng.",
+        "en": "Onlar uzaktan birbirine yankı veriyor."
+      },
+      {
+        "zh": "遥控器不见了。",
+        "pinyin": "Yáokòngqì bùjiàn le.",
+        "en": "Uzaktan kumanda kayboldu."
+      },
+      {
+        "zh": "他们遥祝彼此健康。",
+        "pinyin": "Tāmen yáo zhù bǐcǐ jiànkāng.",
+        "en": "Onlar uzaktan birbirlerine sağlık diliyor."
+      }
+    ]
+  },
+  {
+    "id": "w6777",
+    "hanzi": "遥控",
+    "pinyin": "yáokòng",
+    "meaning": "uzaktan kumanda",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "他用遥控器换台。",
+        "pinyin": "Tā yòng yáokòngqì huàntái.",
+        "en": "O uzaktan kumandayla kanal değiştiriyor."
+      },
+      {
+        "zh": "这架飞机可以遥控飞行。",
+        "pinyin": "Zhè jià fēijī kěyǐ yáokòng fēixíng.",
+        "en": "Bu uçak uzaktan kumandayla uçurulabilir."
+      },
+      {
+        "zh": "遥控器没电了。",
+        "pinyin": "Yáokòngqì méi diàn le.",
+        "en": "Uzaktan kumandanın pili bitti."
+      },
+      {
+        "zh": "孩子喜欢玩遥控汽车。",
+        "pinyin": "Háizi xǐhuān wán yáokòng qìchē.",
+        "en": "Çocuk uzaktan kumandalı araba oynamayı sever."
+      },
+      {
+        "zh": "工厂设备可以远程遥控操作。",
+        "pinyin": "Gōngchǎng shèbèi kěyǐ yuǎnchéng yáokòng cāozuò.",
+        "en": "Fabrika ekipmanları uzaktan kumandayla çalıştırılabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6778",
+    "hanzi": "遥远",
+    "pinyin": "yáoyuǎn",
+    "meaning": "uzak",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他来自一个遥远的国家。",
+        "pinyin": "Tā láizì yī gè yáoyuǎn de guójiā.",
+        "en": "O uzak bir ülkeden geliyor."
+      },
+      {
+        "zh": "这个目标看起来还很遥远。",
+        "pinyin": "Zhège mùbiāo kànqǐlái hái hěn yáoyuǎn.",
+        "en": "Bu hedef hâlâ çok uzak görünüyor."
+      },
+      {
+        "zh": "他们计划去遥远的地方旅行。",
+        "pinyin": "Tāmen jìhuà qù yáoyuǎn de dìfang lǚxíng.",
+        "en": "Onlar uzak bir yere seyahat etmeyi planlıyorlar."
+      },
+      {
+        "zh": "那是一段遥远的记忆。",
+        "pinyin": "Nà shì yī duàn yáoyuǎn de jìyì.",
+        "en": "Bu uzak bir anıdır."
+      },
+      {
+        "zh": "夜空中有无数颗遥远的星星。",
+        "pinyin": "Yèkōng zhōng yǒu wúshù kē yáoyuǎn de xīngxing.",
+        "en": "Gece gökyüzünde sayısız uzak yıldız var."
+      }
+    ]
+  },
+  {
+    "id": "w6779",
+    "hanzi": "要不然",
+    "pinyin": "yàobùrán",
+    "meaning": "yoksa, aksi takdirde",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "快点走,要不然要迟到了。",
+        "pinyin": "Kuài diǎn zǒu, yàobùrán yào chídào le.",
+        "en": "Çabuk gidelim, yoksa geç kalacağız."
+      },
+      {
+        "zh": "我们得早点出发,要不然会堵车。",
+        "pinyin": "Wǒmen děi zǎo diǎn chūfā, yàobùrán huì dǔchē.",
+        "en": "Erken yola çıkmalıyız, aksi takdirde trafiğe takılırız."
+      },
+      {
+        "zh": "你得努力学习,要不然考不上大学。",
+        "pinyin": "Nǐ děi nǔlì xuéxí, yàobùrán kǎo bú shàng dàxué.",
+        "en": "Çok çalışmalısın, yoksa üniversiteyi kazanamazsın."
+      },
+      {
+        "zh": "他一定生病了,要不然不会请假。",
+        "pinyin": "Tā yīdìng shēngbìng le, yàobùrán bùhuì qǐngjià.",
+        "en": "O kesinlikle hasta olmalı, yoksa izin istemezdi."
+      },
+      {
+        "zh": "记得带伞,要不然会淋湿。",
+        "pinyin": "Jìde dài sǎn, yàobùrán huì línshī.",
+        "en": "Şemsiye almayı unutma, yoksa ıslanırsın."
+      }
+    ]
+  },
+  {
+    "id": "w6780",
+    "hanzi": "要道",
+    "pinyin": "yàodào",
+    "meaning": "ana yol, önemli geçit",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这条街是城市的交通要道。",
+        "pinyin": "Zhè tiáo jiē shì chéngshì de jiāotōng yàodào.",
+        "en": "Bu cadde şehrin ana ulaşım yoludur."
+      },
+      {
+        "zh": "这座城市是南北交通的要道。",
+        "pinyin": "Zhè zuò chéngshì shì nánběi jiāotōng de yàodào.",
+        "en": "Bu şehir kuzey-güney ulaşımının önemli geçidi."
+      }
+    ]
+  },
+  {
+    "id": "w6781",
+    "hanzi": "要点",
+    "pinyin": "yàodiǎn",
+    "meaning": "ana nokta, önemli husus",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请总结一下这篇文章的要点。",
+        "pinyin": "Qǐng zǒngjié yīxià zhè piān wénzhāng de yàodiǎn.",
+        "en": "Lütfen bu makalenin ana noktalarını özetle."
+      },
+      {
+        "zh": "他抓住了问题的要点。",
+        "pinyin": "Tā zhuāzhùle wèntí de yàodiǎn.",
+        "en": "O sorunun ana noktasını yakaladı."
+      },
+      {
+        "zh": "会议记录了讨论的要点。",
+        "pinyin": "Huìyì jìlùle tǎolùn de yàodiǎn.",
+        "en": "Toplantı, tartışmanın ana noktalarını kaydetti."
+      },
+      {
+        "zh": "老师强调了考试的要点。",
+        "pinyin": "Lǎoshī qiángdiàole kǎoshì de yàodiǎn.",
+        "en": "Öğretmen sınavın önemli noktalarını vurguladı."
+      },
+      {
+        "zh": "他说话总能抓住要点。",
+        "pinyin": "Tā shuōhuà zǒng néng zhuāzhù yàodiǎn.",
+        "en": "O konuşurken hep ana noktayı yakalar."
+      }
+    ]
+  },
+  {
+    "id": "w6782",
+    "hanzi": "要害",
+    "pinyin": "yàohài",
+    "meaning": "hayati önem taşıyan kısım",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的话一针见血地指出了要害。",
+        "pinyin": "Tā de huà yī zhēn jiàn xuè de zhǐchūle yàohài.",
+        "en": "Onun sözleri doğrudan can alıcı noktayı işaret etti."
+      },
+      {
+        "zh": "子弹击中了他的要害部位。",
+        "pinyin": "Zǐdàn jīzhòngle tā de yàohài bùwèi.",
+        "en": "Mermi onun hayati bir bölgesine isabet etti."
+      }
+    ]
+  },
+  {
+    "id": "w6783",
+    "hanzi": "要紧",
+    "pinyin": "yàojǐn",
+    "meaning": "önemli, kritik, ciddi",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "身体健康最要紧。",
+        "pinyin": "Shēntǐ jiànkāng zuì yàojǐn.",
+        "en": "Sağlık en önemlisidir."
+      },
+      {
+        "zh": "这件事很要紧,不能忽视。",
+        "pinyin": "Zhè jiàn shì hěn yàojǐn, bùnéng hūshì.",
+        "en": "Bu konu çok önemli, göz ardı edilemez."
+      },
+      {
+        "zh": "别担心,不要紧的。",
+        "pinyin": "Bié dānxīn, bùyàojǐn de.",
+        "en": "Endişelenme, önemli değil."
+      },
+      {
+        "zh": "他伤得不要紧。",
+        "pinyin": "Tā shāng de bùyàojǐn.",
+        "en": "Onun yarası ciddi değil."
+      },
+      {
+        "zh": "有什么要紧的事吗?",
+        "pinyin": "Yǒu shénme yàojǐn de shì ma?",
+        "en": "Önemli bir şey mi var?"
+      }
+    ]
+  },
+  {
+    "id": "w6784",
+    "hanzi": "要么",
+    "pinyin": "yàome",
+    "meaning": "ya da, ya... ya...",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "要么去,要么留下,你自己决定。",
+        "pinyin": "Yàome qù, yàome liú xià, nǐ zìjǐ juédìng.",
+        "en": "Ya git ya kal, sen karar ver."
+      },
+      {
+        "zh": "要么努力工作,要么被淘汰。",
+        "pinyin": "Yàome nǔlì gōngzuò, yàome bèi táotài.",
+        "en": "Ya çok çalışırsın ya elenirsin."
+      },
+      {
+        "zh": "我们要么坐车去,要么走路去。",
+        "pinyin": "Wǒmen yàome zuòchē qù, yàome zǒulù qù.",
+        "en": "Ya arabayla gideriz ya da yürüyerek gideriz."
+      },
+      {
+        "zh": "要么现在做,要么以后就没机会了。",
+        "pinyin": "Yàome xiànzài zuò, yàome yǐhòu jiù méi jīhuì le.",
+        "en": "Ya şimdi yaparsın ya da bir daha fırsat bulamazsın."
+      },
+      {
+        "zh": "要么接受,要么拒绝,没有中间路线。",
+        "pinyin": "Yàome jiēshòu, yàome jùjué, méiyǒu zhōngjiān lùxiàn.",
+        "en": "Ya kabul edersin ya reddedersin, orta yol yok."
+      }
+    ]
+  },
+  {
+    "id": "w6785",
+    "hanzi": "要命",
+    "pinyin": "yàomìng",
+    "meaning": "öldürmek; son derece, çok fazla",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这场大雨要命地耽误了行程。",
+        "pinyin": "Zhè chǎng dàyǔ yàomìng de dānwùle xíngchéng.",
+        "en": "Bu şiddetli yağmur seyahati fena şekilde geciktirdi."
+      },
+      {
+        "zh": "今天热得要命。",
+        "pinyin": "Jīntiān rè de yàomìng.",
+        "en": "Bugün korkunç derecede sıcak."
+      },
+      {
+        "zh": "他疼得要命。",
+        "pinyin": "Tā téng de yàomìng.",
+        "en": "O müthiş acı çekiyor."
+      },
+      {
+        "zh": "这次事故差点要了他的命。",
+        "pinyin": "Zhè cì shìgù chàdiǎn yàole tā de mìng.",
+        "en": "Bu kaza az kalsın onun canına mal oluyordu."
+      },
+      {
+        "zh": "堵车堵得要命。",
+        "pinyin": "Dǔchē dǔ de yàomìng.",
+        "en": "Trafik korkunç derecede sıkışık."
+      }
+    ]
+  },
+  {
+    "id": "w6786",
+    "hanzi": "要素",
+    "pinyin": "yàosù",
+    "meaning": "temel unsur, faktör",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "诚信是合作的重要要素。",
+        "pinyin": "Chéngxìn shì hézuò de zhòngyào yàosù.",
+        "en": "Güvenilirlik işbirliğinin önemli bir unsurudur."
+      },
+      {
+        "zh": "时间是成功的关键要素之一。",
+        "pinyin": "Shíjiān shì chénggōng de guānjiàn yàosù zhī yī.",
+        "en": "Zaman başarının anahtar unsurlarından biridir."
+      }
+    ]
+  },
+  {
+    "id": "w6787",
+    "hanzi": "药材",
+    "pinyin": "yàocái",
+    "meaning": "ilaç malzemesi, tıbbi bitki",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这里出产多种名贵药材。",
+        "pinyin": "Zhèlǐ chūchǎn duō zhǒng míngguì yàocái.",
+        "en": "Burada birçok değerli tıbbi bitki üretilir."
+      },
+      {
+        "zh": "他从山里采集药材。",
+        "pinyin": "Tā cóng shān lǐ cǎijí yàocái.",
+        "en": "O dağdan tıbbi bitki topluyor."
+      },
+      {
+        "zh": "中药铺里摆满了各种药材。",
+        "pinyin": "Zhōngyàopù lǐ bǎimǎnle gèzhǒng yàocái.",
+        "en": "Geleneksel Çin eczanesi çeşitli tıbbi malzemelerle dolu."
+      },
+      {
+        "zh": "这种药材有清热解毒的功效。",
+        "pinyin": "Zhè zhǒng yàocái yǒu qīngrè jiědú de gōngxiào.",
+        "en": "Bu tıbbi bitki ateş düşürme ve zehir giderme etkisine sahiptir."
+      },
+      {
+        "zh": "他们种植了大片的药材。",
+        "pinyin": "Tāmen zhòngzhíle dà piàn de yàocái.",
+        "en": "Onlar geniş bir alanda tıbbi bitki yetiştirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w6788",
+    "hanzi": "药店",
+    "pinyin": "yàodiàn",
+    "meaning": "eczane",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "我去药店买了一些感冒药。",
+        "pinyin": "Wǒ qù yàodiàn mǎile yīxiē gǎnmàoyào.",
+        "en": "Eczaneye gidip biraz soğuk algınlığı ilacı aldım."
+      },
+      {
+        "zh": "附近有一家二十四小时药店。",
+        "pinyin": "Fùjìn yǒu yī jiā èrshísì xiǎoshí yàodiàn.",
+        "en": "Yakında yirmi dört saat açık bir eczane var."
+      },
+      {
+        "zh": "药店里有很多种药品。",
+        "pinyin": "Yàodiàn lǐ yǒu hěn duō zhǒng yàopǐn.",
+        "en": "Eczanede birçok ilaç var."
+      },
+      {
+        "zh": "他在药店打工。",
+        "pinyin": "Tā zài yàodiàn dǎgōng.",
+        "en": "O eczanede part-time çalışıyor."
+      },
+      {
+        "zh": "药店的营业时间到晚上十点。",
+        "pinyin": "Yàodiàn de yíngyè shíjiān dào wǎnshang shí diǎn.",
+        "en": "Eczanenin çalışma saati akşam ona kadardır."
+      }
+    ]
+  },
+  {
+    "id": "w6789",
+    "hanzi": "药方",
+    "pinyin": "yàofāng",
+    "meaning": "reçete",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生开了一张药方。",
+        "pinyin": "Yīshēng kāile yī zhāng yàofāng.",
+        "en": "Doktor bir reçete yazdı."
+      },
+      {
+        "zh": "请按照药方服药。",
+        "pinyin": "Qǐng ànzhào yàofāng fúyào.",
+        "en": "Lütfen reçeteye göre ilaç kullanın."
+      },
+      {
+        "zh": "老中医开了一副中药药方。",
+        "pinyin": "Lǎo zhōngyī kāile yī fù zhōngyào yàofāng.",
+        "en": "Yaşlı geleneksel doktor bir geleneksel Çin ilacı reçetesi yazdı."
+      },
+      {
+        "zh": "这个药方治好了他的病。",
+        "pinyin": "Zhège yàofāng zhìhǎole tā de bìng.",
+        "en": "Bu reçete onun hastalığını tedavi etti."
+      },
+      {
+        "zh": "他把药方交给了药剂师。",
+        "pinyin": "Tā bǎ yàofāng jiāo gěile yàojìshī.",
+        "en": "O reçeteyi eczacıya verdi."
+      }
+    ]
+  },
+  {
+    "id": "w6790",
+    "hanzi": "药膏",
+    "pinyin": "yàogāo",
+    "meaning": "merhem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他开了一支药膏。",
+        "pinyin": "Yīshēng gěi tā kāile yī zhī yàogāo.",
+        "en": "Doktor ona bir merhem yazdı."
+      },
+      {
+        "zh": "请在伤口上涂抹药膏。",
+        "pinyin": "Qǐng zài shāngkǒu shàng túmǒ yàogāo.",
+        "en": "Lütfen yaranın üzerine merhem sürün."
+      },
+      {
+        "zh": "这种药膏可以消炎止痛。",
+        "pinyin": "Zhè zhǒng yàogāo kěyǐ xiāoyán zhǐtòng.",
+        "en": "Bu merhem iltihabı azaltıp ağrıyı dindirebilir."
+      },
+      {
+        "zh": "他每天都要涂药膏。",
+        "pinyin": "Tā měitiān dōu yào tú yàogāo.",
+        "en": "O her gün merhem sürmesi gerekiyor."
+      },
+      {
+        "zh": "皮肤过敏可以用这种药膏。",
+        "pinyin": "Pífū guòmǐn kěyǐ yòng zhè zhǒng yàogāo.",
+        "en": "Cilt alerjisi için bu tür bir merhem kullanılabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6791",
+    "hanzi": "椰子",
+    "pinyin": "yēzi",
+    "meaning": "hindistan cevizi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "海边种满了椰子树。",
+        "pinyin": "Hǎibiān zhòngmǎnle yēzi shù.",
+        "en": "Deniz kenarı hindistan cevizi ağaçlarıyla dolu."
+      },
+      {
+        "zh": "他喝了一杯椰子汁。",
+        "pinyin": "Tā hēle yī bēi yēzizhī.",
+        "en": "O bir bardak hindistan cevizi suyu içti."
+      },
+      {
+        "zh": "椰子肉可以做很多美食。",
+        "pinyin": "Yēzi ròu kěyǐ zuò hěn duō měishí.",
+        "en": "Hindistan cevizi eti birçok lezzetli yemek yapımında kullanılabilir."
+      },
+      {
+        "zh": "热带地区盛产椰子。",
+        "pinyin": "Rèdài dìqū shèngchǎn yēzi.",
+        "en": "Tropikal bölgeler bol miktarda hindistan cevizi üretir."
+      },
+      {
+        "zh": "这道甜点用了新鲜椰子。",
+        "pinyin": "Zhè dào tiándiǎn yòngle xīnxiān yēzi.",
+        "en": "Bu tatlıda taze hindistan cevizi kullanıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6792",
+    "hanzi": "野餐",
+    "pinyin": "yěcān",
+    "meaning": "piknik",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "我们周末去公园野餐吧。",
+        "pinyin": "Wǒmen zhōumò qù gōngyuán yěcān ba.",
+        "en": "Hafta sonu parka piknik yapmaya gidelim."
+      },
+      {
+        "zh": "他们在草地上野餐。",
+        "pinyin": "Tāmen zài cǎodì shàng yěcān.",
+        "en": "Onlar çimenlikte piknik yapıyor."
+      },
+      {
+        "zh": "野餐时要带足食物和水。",
+        "pinyin": "Yěcān shí yào dài zú shíwù hé shuǐ.",
+        "en": "Piknik yaparken yeterli yiyecek ve su götürülmelidir."
+      },
+      {
+        "zh": "阳光明媚,适合野餐。",
+        "pinyin": "Yángguāng míngmèi, shìhé yěcān.",
+        "en": "Hava güneşli, piknik için uygun."
+      },
+      {
+        "zh": "他们准备了丰盛的野餐食物。",
+        "pinyin": "Tāmen zhǔnbèile fēngshèng de yěcān shíwù.",
+        "en": "Onlar bol miktarda piknik yiyeceği hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w6793",
+    "hanzi": "野蛮",
+    "pinyin": "yěmán",
+    "meaning": "vahşi, medeniyetsiz, gaddar",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的行为十分野蛮。",
+        "pinyin": "Tā de xíngwéi shífēn yěmán.",
+        "en": "Onun davranışı son derece vahşi."
+      },
+      {
+        "zh": "这种野蛮的做法应该被制止。",
+        "pinyin": "Zhè zhǒng yěmán de zuòfǎ yīnggāi bèi zhìzhǐ.",
+        "en": "Bu vahşi davranış durdurulmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6794",
+    "hanzi": "野心",
+    "pinyin": "yěxīn",
+    "meaning": "hırs, tutku, ihtiras",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他有很大的野心。",
+        "pinyin": "Tā yǒu hěn dà de yěxīn.",
+        "en": "Onun büyük hırsları var."
+      },
+      {
+        "zh": "他的野心让人担忧。",
+        "pinyin": "Tā de yěxīn ràng rén dānyōu.",
+        "en": "Onun hırsları insanları endişelendiriyor."
+      }
+    ]
   }
 ]

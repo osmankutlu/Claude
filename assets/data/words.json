@@ -171427,5 +171427,581 @@
         "en": "Ana şirketin genel merkezi Şangay'da bulunuyor."
       }
     ]
+  },
+  {
+    "id": "w4959",
+    "hanzi": "母校",
+    "pinyin": "mǔxiào",
+    "meaning": "Mezun olunan okul",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他常常怀念自己的母校。",
+        "pinyin": "Tā chángcháng huáiniàn zìjǐ de mǔxiào.",
+        "en": "Sık sık kendi mezun olduğu okulu özler."
+      },
+      {
+        "zh": "他回到母校做了一场演讲。",
+        "pinyin": "Tā huídào mǔxiào zuò le yì chǎng yǎnjiǎng.",
+        "en": "Mezun olduğu okula dönüp bir konuşma yaptı."
+      },
+      {
+        "zh": "毕业生们捐款支持母校建设。",
+        "pinyin": "Bìyèshēngmen juānkuǎn zhīchí mǔxiào jiànshè.",
+        "en": "Mezunlar okulun gelişimini desteklemek için bağış yaptı."
+      },
+      {
+        "zh": "他的母校是一所百年名校。",
+        "pinyin": "Tā de mǔxiào shì yì suǒ bǎinián míngxiào.",
+        "en": "Mezun olduğu okul yüz yıllık ünlü bir okuldur."
+      },
+      {
+        "zh": "校友会每年组织母校聚会。",
+        "pinyin": "Xiàoyǒuhuì měi nián zǔzhī mǔxiào jùhuì.",
+        "en": "Mezunlar derneği her yıl okul buluşması düzenliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4960",
+    "hanzi": "母语",
+    "pinyin": "mǔyǔ",
+    "meaning": "Ana dil",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他的母语是汉语。",
+        "pinyin": "Tā de mǔyǔ shì Hànyǔ.",
+        "en": "Ana dili Çincedir."
+      },
+      {
+        "zh": "学习外语比学习母语要难。",
+        "pinyin": "Xuéxí wàiyǔ bǐ xuéxí mǔyǔ yào nán.",
+        "en": "Yabancı dil öğrenmek ana dil öğrenmekten daha zordur."
+      },
+      {
+        "zh": "她能流利地说三种语言,但母语只有一种。",
+        "pinyin": "Tā néng liúlì de shuō sān zhǒng yǔyán, dàn mǔyǔ zhǐyǒu yì zhǒng.",
+        "en": "Üç dili akıcı bir şekilde konuşabiliyor ama ana dili sadece bir tane."
+      },
+      {
+        "zh": "非母语者学习这种语法会有困难。",
+        "pinyin": "Fēi mǔyǔzhě xuéxí zhè zhǒng yǔfǎ huì yǒu kùnnan.",
+        "en": "Ana dili olmayanlar bu gramer yapısını öğrenirken zorluk yaşayabilir."
+      },
+      {
+        "zh": "他从小就用两种母语交流。",
+        "pinyin": "Tā cóngxiǎo jiù yòng liǎng zhǒng mǔyǔ jiāoliú.",
+        "en": "Küçüklüğünden beri iki ana dille iletişim kuruyor."
+      }
+    ]
+  },
+  {
+    "id": "w4961",
+    "hanzi": "拇指",
+    "pinyin": "mǔzhǐ",
+    "meaning": "Başparmak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他竖起了拇指表示赞同。",
+        "pinyin": "Tā shùqǐ le mǔzhǐ biǎoshì zàntóng.",
+        "en": "Onayını göstermek için başparmağını kaldırdı."
+      },
+      {
+        "zh": "他的拇指被门夹伤了。",
+        "pinyin": "Tā de mǔzhǐ bèi mén jiāshāng le.",
+        "en": "Başparmağı kapıya sıkıştı."
+      },
+      {
+        "zh": "婴儿吮吸着自己的拇指。",
+        "pinyin": "Yīng'ér shǔnxīzhe zìjǐ de mǔzhǐ.",
+        "en": "Bebek kendi başparmağını emiyor."
+      },
+      {
+        "zh": "他用拇指按了一下按钮。",
+        "pinyin": "Tā yòng mǔzhǐ àn le yíxià ànniǔ.",
+        "en": "Başparmağıyla düğmeye bastı."
+      },
+      {
+        "zh": "他的拇指指纹很清晰。",
+        "pinyin": "Tā de mǔzhǐ zhǐwén hěn qīngxī.",
+        "en": "Başparmağının parmak izi çok net."
+      }
+    ]
+  },
+  {
+    "id": "w4962",
+    "hanzi": "墓",
+    "pinyin": "mù",
+    "meaning": "Mezar, kabir",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他们去祖父的墓前扫墓。",
+        "pinyin": "Tāmen qù zǔfù de mù qián sǎomù.",
+        "en": "Dedelerinin mezarına giderek mezarı temizlediler."
+      },
+      {
+        "zh": "这座古墓有几千年的历史。",
+        "pinyin": "Zhè zuò gǔmù yǒu jǐqiān nián de lìshǐ.",
+        "en": "Bu antik mezarın birkaç bin yıllık tarihi var."
+      },
+      {
+        "zh": "考古学家发掘了这座古墓。",
+        "pinyin": "Kǎogǔxuéjiā fājué le zhè zuò gǔmù.",
+        "en": "Arkeologlar bu antik mezarı kazdı."
+      },
+      {
+        "zh": "他在母亲的墓前默默祈祷。",
+        "pinyin": "Tā zài mǔqīn de mù qián mòmò qídǎo.",
+        "en": "Annesinin mezarı önünde sessizce dua etti."
+      },
+      {
+        "zh": "这座陵墓修建得十分宏伟。",
+        "pinyin": "Zhè zuò língmù xiūjiàn de shífēn hóngwěi.",
+        "en": "Bu anıt mezar oldukça görkemli bir şekilde inşa edilmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w4963",
+    "hanzi": "墓碑",
+    "pinyin": "mùbēi",
+    "meaning": "Mezar taşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他在墓碑前放了鲜花。",
+        "pinyin": "Tā zài mùbēi qián fàng le xiānhuā.",
+        "en": "Mezar taşının önüne taze çiçekler bıraktı."
+      },
+      {
+        "zh": "墓碑上刻着他的名字和生卒年月。",
+        "pinyin": "Mùbēi shàng kèzhe tā de míngzi hé shēngzú niányuè.",
+        "en": "Mezar taşının üzerine adı ve doğum-ölüm tarihi kazınmıştır."
+      },
+      {
+        "zh": "他为父亲立了一块墓碑。",
+        "pinyin": "Tā wèi fùqīn lì le yí kuài mùbēi.",
+        "en": "Babası için bir mezar taşı dikti."
+      },
+      {
+        "zh": "墓碑上刻满了苔藓。",
+        "pinyin": "Mùbēi shàng kèmǎn le táixiǎn.",
+        "en": "Mezar taşı yosunla kaplanmış."
+      },
+      {
+        "zh": "他擦拭着祖先的墓碑。",
+        "pinyin": "Tā cāshìzhe zǔxiān de mùbēi.",
+        "en": "Atalarının mezar taşını siliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4964",
+    "hanzi": "墓地",
+    "pinyin": "mùdì",
+    "meaning": "Mezarlık, kabristan",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他去墓地祭拜祖先。",
+        "pinyin": "Tā qù mùdì jìbài zǔxiān.",
+        "en": "Atalarına saygı göstermek için mezarlığa gitti."
+      },
+      {
+        "zh": "这片墓地很安静。",
+        "pinyin": "Zhè piàn mùdì hěn ānjìng.",
+        "en": "Bu mezarlık çok sessiz."
+      },
+      {
+        "zh": "墓地周围种满了柏树。",
+        "pinyin": "Mùdì zhōuwéi zhòngmǎn le bǎishù.",
+        "en": "Mezarlığın etrafına selvi ağaçları dikilmiş."
+      },
+      {
+        "zh": "他们在墓地举行了简单的葬礼。",
+        "pinyin": "Tāmen zài mùdì jǔxíng le jiǎndān de zànglǐ.",
+        "en": "Mezarlıkta sade bir cenaze töreni düzenlediler."
+      },
+      {
+        "zh": "这座公墓地是这座城市最大的墓地。",
+        "pinyin": "Zhè zuò gōngmùdì shì zhè zuò chéngshì zuìdà de mùdì.",
+        "en": "Bu kamu mezarlığı, şehrin en büyük mezarlığıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4965",
+    "hanzi": "幕",
+    "pinyin": "mù",
+    "meaning": "Perde",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "大幕拉开了,演出开始了。",
+        "pinyin": "Dàmù lākāi le, yǎnchū kāishǐ le.",
+        "en": "Büyük perde açıldı, gösteri başladı."
+      },
+      {
+        "zh": "这部电影分为三幕。",
+        "pinyin": "Zhè bù diànyǐng fēn wéi sān mù.",
+        "en": "Bu film üç perdeye ayrılmıştır."
+      },
+      {
+        "zh": "夜幕降临,城市灯火通明。",
+        "pinyin": "Yèmù jiànglín, chéngshì dēnghuǒ-tōngmíng.",
+        "en": "Gece perdesi indi, şehir ışıklarla parladı."
+      },
+      {
+        "zh": "他站在幕后指挥这次演出。",
+        "pinyin": "Tā zhàn zài mùhòu zhǐhuī zhè cì yǎnchū.",
+        "en": "Bu gösteriyi perde arkasında yönetiyordu."
+      },
+      {
+        "zh": "剧院的幕布是深红色的。",
+        "pinyin": "Jùyuàn de mùbù shì shēnhóngsè de.",
+        "en": "Tiyatronun perdesi koyu kırmızıdır."
+      }
+    ]
+  },
+  {
+    "id": "w4966",
+    "hanzi": "幕后",
+    "pinyin": "mùhòu",
+    "meaning": "Sahne arkası, perde arkası (mecazi)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是这个项目的幕后策划者。",
+        "pinyin": "Tā shì zhège xiàngmù de mùhòu cèhuàzhě.",
+        "en": "Bu projenin perde arkasındaki planlayıcısıdır."
+      },
+      {
+        "zh": "幕后工作人员为演出付出了很多努力。",
+        "pinyin": "Mùhòu gōngzuò rényuán wèi yǎnchū fùchū le hěn duō nǔlì.",
+        "en": "Sahne arkasındaki çalışanlar gösteri için çok çaba harcadı."
+      },
+      {
+        "zh": "这起事件的幕后黑手至今未查明。",
+        "pinyin": "Zhè qǐ shìjiàn de mùhòu hēishǒu zhìjīn wèi cháomíng.",
+        "en": "Bu olayın perde arkasındaki suçlusu bugüne kadar tespit edilemedi."
+      },
+      {
+        "zh": "他一直在幕后默默付出。",
+        "pinyin": "Tā yìzhí zài mùhòu mòmò fùchū.",
+        "en": "Sürekli perde arkasında sessizce fedakarlık yapıyor."
+      },
+      {
+        "zh": "记者揭露了这起丑闻的幕后真相。",
+        "pinyin": "Jìzhě jiēlù le zhè qǐ chǒuwén de mùhòu zhēnxiàng.",
+        "en": "Gazeteci bu skandalın perde arkasındaki gerçeğini ortaya çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w4967",
+    "hanzi": "木板",
+    "pinyin": "mùbǎn",
+    "meaning": "Tahta, döşeme tahtası",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他用木板搭了一座桥。",
+        "pinyin": "Tā yòng mùbǎn dā le yí zuò qiáo.",
+        "en": "Tahtalarla bir köprü yaptı."
+      },
+      {
+        "zh": "这间屋子的地板是木板做的。",
+        "pinyin": "Zhè jiān wūzi de dìbǎn shì mùbǎn zuò de.",
+        "en": "Bu odanın zemini tahtadan yapılmış."
+      },
+      {
+        "zh": "他在木板上钉了几颗钉子。",
+        "pinyin": "Tā zài mùbǎn shàng dīng le jǐ kē dīngzi.",
+        "en": "Tahtaya birkaç çivi çaktı."
+      },
+      {
+        "zh": "工人正在锯木板。",
+        "pinyin": "Gōngrén zhèngzài jù mùbǎn.",
+        "en": "İşçi tahta kesiyor."
+      },
+      {
+        "zh": "他用木板挡住了破窗户。",
+        "pinyin": "Tā yòng mùbǎn dǎngzhù le pò chuānghu.",
+        "en": "Kırık pencereyi tahtayla kapattı."
+      }
+    ]
+  },
+  {
+    "id": "w4968",
+    "hanzi": "木材",
+    "pinyin": "mùcái",
+    "meaning": "Kereste",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这家工厂加工木材。",
+        "pinyin": "Zhè jiā gōngchǎng jiāgōng mùcái.",
+        "en": "Bu fabrika kereste işliyor."
+      },
+      {
+        "zh": "他们用优质木材建造房屋。",
+        "pinyin": "Tāmen yòng yōuzhì mùcái jiànzào fángwū.",
+        "en": "Kaliteli keresteyle ev inşa ediyorlar."
+      },
+      {
+        "zh": "过度砍伐会导致木材资源短缺。",
+        "pinyin": "Guòdù kǎnfá huì dǎozhì mùcái zīyuán duǎnquē.",
+        "en": "Aşırı ağaç kesimi kereste kaynaklarının azalmasına yol açabilir."
+      },
+      {
+        "zh": "这批木材质量非常好。",
+        "pinyin": "Zhè pī mùcái zhìliàng fēicháng hǎo.",
+        "en": "Bu kereste partisinin kalitesi çok iyi."
+      },
+      {
+        "zh": "他从事木材贸易多年。",
+        "pinyin": "Tā cóngshì mùcái màoyì duō nián.",
+        "en": "Yıllardır kereste ticaretiyle uğraşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4969",
+    "hanzi": "木耳",
+    "pinyin": "mù'ěr",
+    "meaning": "Kara mantar (yenilebilir)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "这道菜里放了木耳。",
+        "pinyin": "Zhè dào cài lǐ fàng le mù'ěr.",
+        "en": "Bu yemeğe kara mantar konulmuş."
+      },
+      {
+        "zh": "木耳富含膳食纤维。",
+        "pinyin": "Mù'ěr fùhán shànshí xiānwéi.",
+        "en": "Kara mantar diyet lifi bakımından zengindir."
+      },
+      {
+        "zh": "妈妈用木耳炒了一盘菜。",
+        "pinyin": "Māma yòng mù'ěr chǎo le yì pán cài.",
+        "en": "Annem kara mantarla bir yemek kavurdu."
+      },
+      {
+        "zh": "干木耳需要泡发后再食用。",
+        "pinyin": "Gān mù'ěr xūyào pàofā hòu zài shíyòng.",
+        "en": "Kuru kara mantarın önce suda bekletilip sonra yenmesi gerekir."
+      },
+      {
+        "zh": "他种植的木耳质量很好。",
+        "pinyin": "Tā zhòngzhí de mù'ěr zhìliàng hěn hǎo.",
+        "en": "Yetiştirdiği kara mantarın kalitesi çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w4970",
+    "hanzi": "木炭",
+    "pinyin": "mùtàn",
+    "meaning": "Mangal kömürü",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他们用木炭烤肉。",
+        "pinyin": "Tāmen yòng mùtàn kǎoròu.",
+        "en": "Mangal kömürüyle et kızartıyorlar."
+      },
+      {
+        "zh": "木炭燃烧时没有明火。",
+        "pinyin": "Mùtàn ránshāo shí méiyǒu mínghuǒ.",
+        "en": "Mangal kömürü yanarken açık alev olmaz."
+      },
+      {
+        "zh": "冬天他们用木炭取暖。",
+        "pinyin": "Dōngtiān tāmen yòng mùtàn qǔnuǎn.",
+        "en": "Kışın mangal kömürüyle ısınıyorlar."
+      },
+      {
+        "zh": "他买了一袋木炭准备烧烤。",
+        "pinyin": "Tā mǎi le yí dài mùtàn zhǔnbèi shāokǎo.",
+        "en": "Barbekü için bir torba mangal kömürü aldı."
+      },
+      {
+        "zh": "木炭画作品很有特色。",
+        "pinyin": "Mùtàn huà zuòpǐn hěn yǒu tèsè.",
+        "en": "Kömür kalem resim eserleri çok özgün."
+      }
+    ]
+  },
+  {
+    "id": "w4971",
+    "hanzi": "木星",
+    "pinyin": "mùxīng",
+    "meaning": "Jüpiter",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "木星是太阳系中最大的行星。",
+        "pinyin": "Mùxīng shì tàiyángxì zhōng zuìdà de xíngxīng.",
+        "en": "Jüpiter, güneş sistemindeki en büyük gezegendir."
+      },
+      {
+        "zh": "科学家发现了木星的新卫星。",
+        "pinyin": "Kēxuéjiā fāxiàn le mùxīng de xīn wèixīng.",
+        "en": "Bilim insanları Jüpiter'in yeni bir uydusunu keşfetti."
+      },
+      {
+        "zh": "木星表面有著名的大红斑。",
+        "pinyin": "Mùxīng biǎomiàn yǒu zhùmíng de dà hóngbān.",
+        "en": "Jüpiter'in yüzeyinde ünlü büyük kırmızı leke bulunur."
+      },
+      {
+        "zh": "望远镜可以观测到木星的卫星。",
+        "pinyin": "Wàngyuǎnjìng kěyǐ guāncè dào mùxīng de wèixīng.",
+        "en": "Teleskopla Jüpiter'in uyduları gözlemlenebilir."
+      },
+      {
+        "zh": "木星的自转速度非常快。",
+        "pinyin": "Mùxīng de zìzhuàn sùdù fēicháng kuài.",
+        "en": "Jüpiter'in kendi ekseni etrafındaki dönüş hızı çok yüksektir."
+      }
+    ]
+  },
+  {
+    "id": "w4972",
+    "hanzi": "沐浴",
+    "pinyin": "mùyù",
+    "meaning": "Yıkanmak, banyo yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他喜欢在温泉中沐浴。",
+        "pinyin": "Tā xǐhuan zài wēnquán zhōng mùyù.",
+        "en": "Kaplıcada yıkanmayı sever."
+      },
+      {
+        "zh": "阳光沐浴着大地。",
+        "pinyin": "Yángguāng mùyùzhe dàdì.",
+        "en": "Güneş ışığı yeryüzünü kucaklıyordu."
+      },
+      {
+        "zh": "她每天早上沐浴更衣。",
+        "pinyin": "Tā měitiān zǎoshang mùyù gēngyī.",
+        "en": "Her sabah yıkanıp kıyafet değiştiriyor."
+      },
+      {
+        "zh": "他们沐浴在节日的喜悦之中。",
+        "pinyin": "Tāmen mùyù zài jiérì de xǐyuè zhī zhōng.",
+        "en": "Bayram sevincine dalmışlardı."
+      },
+      {
+        "zh": "整个村庄沐浴在朝阳中。",
+        "pinyin": "Zhěnggè cūnzhuāng mùyù zài zhāoyáng zhōng.",
+        "en": "Tüm köy sabah güneşinin ışığında yıkanıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4973",
+    "hanzi": "目睹",
+    "pinyin": "mùdǔ",
+    "meaning": "Kendi gözleriyle görmek, şahit olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他目睹了整个事故的经过。",
+        "pinyin": "Tā mùdǔ le zhěnggè shìgù de jīngguò.",
+        "en": "Kazanın tüm gelişimine şahit oldu."
+      },
+      {
+        "zh": "我亲眼目睹了这一切。",
+        "pinyin": "Wǒ qīnyǎn mùdǔ le zhè yíqiè.",
+        "en": "Bunların hepsine kendi gözlerimle şahit oldum."
+      },
+      {
+        "zh": "他目睹了城市的巨大变化。",
+        "pinyin": "Tā mùdǔ le chéngshì de jùdà biànhuà.",
+        "en": "Şehrin büyük değişimine şahit oldu."
+      },
+      {
+        "zh": "目击者目睹了整个犯罪过程。",
+        "pinyin": "Mùjīzhě mùdǔ le zhěnggè fànzuì guòchéng.",
+        "en": "Görgü tanığı suçun tüm sürecine şahit oldu."
+      },
+      {
+        "zh": "她目睹了朋友的成功与失败。",
+        "pinyin": "Tā mùdǔ le péngyou de chénggōng yǔ shībài.",
+        "en": "Arkadaşının başarısına ve başarısızlığına tanık oldu."
+      }
+    ]
+  },
+  {
+    "id": "w4974",
+    "hanzi": "目光",
+    "pinyin": "mùguāng",
+    "meaning": "Bakış, görüş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的目光充满了温柔。",
+        "pinyin": "Tā de mùguāng chōngmǎn le wēnróu.",
+        "en": "Bakışları sevgiyle doluydu."
+      },
+      {
+        "zh": "他用锐利的目光看着我。",
+        "pinyin": "Tā yòng ruìlì de mùguāng kànzhe wǒ.",
+        "en": "Keskin bir bakışla bana bakıyordu."
+      },
+      {
+        "zh": "他有着长远的目光。",
+        "pinyin": "Tā yǒuzhe chángyuǎn de mùguāng.",
+        "en": "Uzağı gören bir vizyona sahip."
+      },
+      {
+        "zh": "大家的目光都集中在他身上。",
+        "pinyin": "Dàjiā de mùguāng dōu jízhōng zài tā shēnshang.",
+        "en": "Herkesin bakışları onun üzerinde toplandı."
+      },
+      {
+        "zh": "她投来了怀疑的目光。",
+        "pinyin": "Tā tóulái le huáiyí de mùguāng.",
+        "en": "Şüpheli bir bakış attı."
+      }
+    ]
   }
 ]

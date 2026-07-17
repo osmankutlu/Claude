@@ -227554,5 +227554,833 @@
         "en": "Kalıtım ve çevre birlikte bir kişinin karakterini etkiler."
       }
     ]
+  },
+  {
+    "id": "w6851",
+    "hanzi": "遗迹",
+    "pinyin": "yíjì",
+    "meaning": "tarihi kalıntı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这里保存着古代文明的遗迹。",
+        "pinyin": "Zhèlǐ bǎocúnzhe gǔdài wénmíng de yíjì.",
+        "en": "Burada antik medeniyetin kalıntıları korunuyor."
+      },
+      {
+        "zh": "考古学家发现了新的历史遗迹。",
+        "pinyin": "Kǎogǔ xuéjiā fāxiànle xīn de lìshǐ yíjì.",
+        "en": "Arkeologlar yeni bir tarihi kalıntı buldu."
+      },
+      {
+        "zh": "这座遗迹已有上千年历史。",
+        "pinyin": "Zhè zuò yíjì yǐ yǒu shàng qiān nián lìshǐ.",
+        "en": "Bu kalıntının binlerce yıllık geçmişi var."
+      },
+      {
+        "zh": "游客们来参观古代遗迹。",
+        "pinyin": "Yóukèmen lái cānguān gǔdài yíjì.",
+        "en": "Turistler antik kalıntıları ziyaret etmeye geliyor."
+      },
+      {
+        "zh": "这处遗迹受到了严格保护。",
+        "pinyin": "Zhè chù yíjì shòudàole yángé bǎohù.",
+        "en": "Bu kalıntı sıkı bir şekilde korunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6852",
+    "hanzi": "遗留",
+    "pinyin": "yíliú",
+    "meaning": "geride kalmak, miras olarak kalmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这些问题是历史遗留的。",
+        "pinyin": "Zhèxiē wèntí shì lìshǐ yíliú de.",
+        "en": "Bu sorunlar tarihten kalmadır."
+      },
+      {
+        "zh": "祖先给我们遗留了宝贵的文化财富。",
+        "pinyin": "Zǔxiān gěi wǒmen yíliúle bǎoguì de wénhuà cáifù.",
+        "en": "Atalarımız bize değerli bir kültürel miras bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w6853",
+    "hanzi": "遗漏",
+    "pinyin": "yílòu",
+    "meaning": "atlamak, unutmak (dahil etmeyi)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "报告中遗漏了一个重要数据。",
+        "pinyin": "Bàogào zhōng yílòule yī gè zhòngyào shùjù.",
+        "en": "Raporda önemli bir veri atlanmış."
+      },
+      {
+        "zh": "请仔细检查,不要遗漏任何细节。",
+        "pinyin": "Qǐng zǐxì jiǎnchá, bùyào yílòu rènhé xìjié.",
+        "en": "Lütfen dikkatlice kontrol edin, hiçbir ayrıntıyı atlamayın."
+      }
+    ]
+  },
+  {
+    "id": "w6854",
+    "hanzi": "遗弃",
+    "pinyin": "yíqì",
+    "meaning": "terk etmek, bırakıp gitmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "她被家人遗弃了。",
+        "pinyin": "Tā bèi jiārén yíqì le.",
+        "en": "O ailesi tarafından terk edildi."
+      },
+      {
+        "zh": "这只小狗被主人遗弃在路边。",
+        "pinyin": "Zhè zhī xiǎo gǒu bèi zhǔrén yíqì zài lùbiān.",
+        "en": "Bu köpek yavrusu sahibi tarafından yol kenarında terk edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6855",
+    "hanzi": "遗体",
+    "pinyin": "yítǐ",
+    "meaning": "ceset, cansız beden",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的遗体被安葬在家乡。",
+        "pinyin": "Tā de yítǐ bèi ānzàng zài jiāxiāng.",
+        "en": "Onun cesedi memleketine defnedildi."
+      },
+      {
+        "zh": "家人向遗体告别。",
+        "pinyin": "Jiārén xiàng yítǐ gàobié.",
+        "en": "Aile, cenaze ile vedalaşıyor."
+      },
+      {
+        "zh": "医院将遗体转交给家属。",
+        "pinyin": "Yīyuàn jiāng yítǐ zhuǎnjiāo gěi jiāshǔ.",
+        "en": "Hastane cesedi ailesine teslim etti."
+      },
+      {
+        "zh": "遗体告别仪式在殡仪馆举行。",
+        "pinyin": "Yítǐ gàobié yíshì zài bìnyíguǎn jǔxíng.",
+        "en": "Cenaze törenle vedalaşma cenaze evinde düzenlendi."
+      },
+      {
+        "zh": "遗体被送往火葬场。",
+        "pinyin": "Yítǐ bèi sòngwǎng huǒzàngchǎng.",
+        "en": "Ceset krematoryuma gönderildi."
+      }
+    ]
+  },
+  {
+    "id": "w6856",
+    "hanzi": "遗忘",
+    "pinyin": "yíwàng",
+    "meaning": "unutmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这段历史不能被遗忘。",
+        "pinyin": "Zhè duàn lìshǐ bùnéng bèi yíwàng.",
+        "en": "Bu tarih dönemi unutulmamalıdır."
+      },
+      {
+        "zh": "他渐渐遗忘了那段痛苦的经历。",
+        "pinyin": "Tā jiànjiàn yíwàngle nà duàn tòngkǔ de jīnglì.",
+        "en": "O yavaş yavaş o acı verici deneyimi unuttu."
+      },
+      {
+        "zh": "有些记忆是无法遗忘的。",
+        "pinyin": "Yǒuxiē jìyì shì wúfǎ yíwàng de.",
+        "en": "Bazı hatıralar unutulamaz."
+      },
+      {
+        "zh": "岁月让人渐渐遗忘往事。",
+        "pinyin": "Suìyuè ràng rén jiànjiàn yíwàng wǎngshì.",
+        "en": "Zaman insanı geçmişi yavaş yavaş unutturur."
+      },
+      {
+        "zh": "他被朋友们遗忘在一旁。",
+        "pinyin": "Tā bèi péngyoumen yíwàng zài yī páng.",
+        "en": "O arkadaşları tarafından bir kenarda unutuldu."
+      }
+    ]
+  },
+  {
+    "id": "w6857",
+    "hanzi": "遗址",
+    "pinyin": "yízhǐ",
+    "meaning": "harabeler, tarihi kalıntı yeri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这里是古城遗址。",
+        "pinyin": "Zhèlǐ shì gǔchéng yízhǐ.",
+        "en": "Burası eski şehir harabeleridir."
+      },
+      {
+        "zh": "考古队在遗址上挖掘了很多年。",
+        "pinyin": "Kǎogǔduì zài yízhǐ shàng wājuéle hěn duō nián.",
+        "en": "Arkeoloji ekibi bu kalıntı alanında yıllarca kazı yaptı."
+      },
+      {
+        "zh": "这处遗址被列为世界文化遗产。",
+        "pinyin": "Zhè chù yízhǐ bèi lièwéi shìjiè wénhuà yíchǎn.",
+        "en": "Bu kalıntı alanı dünya kültür mirası olarak listelendi."
+      },
+      {
+        "zh": "游客可以参观这些历史遗址。",
+        "pinyin": "Yóukè kěyǐ cānguān zhèxiē lìshǐ yízhǐ.",
+        "en": "Turistler bu tarihi kalıntı yerlerini ziyaret edebilir."
+      },
+      {
+        "zh": "遗址周围建了保护围栏。",
+        "pinyin": "Yízhǐ zhōuwéi jiànle bǎohù wéilán.",
+        "en": "Kalıntı alanının etrafına koruyucu çit inşa edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6858",
+    "hanzi": "遗嘱",
+    "pinyin": "yízhǔ",
+    "meaning": "vasiyetname",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他在去世前立下了遗嘱。",
+        "pinyin": "Tā zài qùshì qián lìxiàle yízhǔ.",
+        "en": "O ölmeden önce bir vasiyetname yazdı."
+      },
+      {
+        "zh": "遗嘱上写明了财产的分配方式。",
+        "pinyin": "Yízhǔ shàng xiěmíngle cáichǎn de fēnpèi fāngshì.",
+        "en": "Vasiyetnamede mal paylaşım şekli açıkça yazılmış."
+      }
+    ]
+  },
+  {
+    "id": "w6859",
+    "hanzi": "移",
+    "pinyin": "yí",
+    "meaning": "hareket etmek, yer değiştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请把桌子移到窗边。",
+        "pinyin": "Qǐng bǎ zhuōzi yí dào chuāng biān.",
+        "en": "Lütfen masayı pencerenin yanına taşı."
+      },
+      {
+        "zh": "他把公司总部移到了上海。",
+        "pinyin": "Tā bǎ gōngsī zǒngbù yí dàole Shànghǎi.",
+        "en": "O şirketin genel merkezini Şanghay'a taşıdı."
+      },
+      {
+        "zh": "随着时间的推移,情况发生了变化。",
+        "pinyin": "Suízhe shíjiān de tuīyí, qíngkuàng fāshēngle biànhuà.",
+        "en": "Zaman geçtikçe durum değişti."
+      },
+      {
+        "zh": "他把注意力移到了新项目上。",
+        "pinyin": "Tā bǎ zhùyìlì yí dàole xīn xiàngmù shàng.",
+        "en": "O dikkatini yeni projeye yönlendirdi."
+      },
+      {
+        "zh": "请稍微移一下椅子。",
+        "pinyin": "Qǐng shāowēi yí yīxià yǐzi.",
+        "en": "Lütfen sandalyeyi biraz taşı."
+      }
+    ]
+  },
+  {
+    "id": "w6860",
+    "hanzi": "移交",
+    "pinyin": "yíjiāo",
+    "meaning": "teslim etmek, devretmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他把工作移交给了继任者。",
+        "pinyin": "Tā bǎ gōngzuò yíjiāo gěile jìrènzhě.",
+        "en": "O işini yerine gelene devretti."
+      },
+      {
+        "zh": "这个案件已移交给检察院。",
+        "pinyin": "Zhège ànjiàn yǐ yíjiāo gěi jiǎncháyuàn.",
+        "en": "Bu dava savcılığa devredildi."
+      }
+    ]
+  },
+  {
+    "id": "w6861",
+    "hanzi": "移居",
+    "pinyin": "yíjū",
+    "meaning": "göç etmek, ikamet değiştirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们一家移居到了加拿大。",
+        "pinyin": "Tāmen yī jiā yíjū dàole Jiānádà.",
+        "en": "Onların ailesi Kanada'ya göç etti."
+      },
+      {
+        "zh": "很多人选择移居海外。",
+        "pinyin": "Hěn duō rén xuǎnzé yíjū hǎiwài.",
+        "en": "Birçok kişi yurt dışına göç etmeyi tercih ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6862",
+    "hanzi": "移植",
+    "pinyin": "yízhí",
+    "meaning": "nakil yapmak (organ, bitki)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他接受了肾脏移植手术。",
+        "pinyin": "Tā jiēshòule shènzàng yízhí shǒushù.",
+        "en": "O böbrek nakli ameliyatı geçirdi."
+      },
+      {
+        "zh": "园丁把小树苗移植到了花园里。",
+        "pinyin": "Yuándīng bǎ xiǎo shùmiáo yízhí dàole huāyuán lǐ.",
+        "en": "Bahçıvan fideyi bahçeye nakletti."
+      }
+    ]
+  },
+  {
+    "id": "w6863",
+    "hanzi": "疑",
+    "pinyin": "yí",
+    "meaning": "şüphelenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我疑他在说谎。",
+        "pinyin": "Wǒ yí tā zài shuōhuǎng.",
+        "en": "Onun yalan söylediğinden şüpheleniyorum."
+      },
+      {
+        "zh": "他一直心存疑虑。",
+        "pinyin": "Tā yīzhí xīn cún yílǜ.",
+        "en": "O hep şüphe içinde."
+      },
+      {
+        "zh": "警方对他产生了怀疑。",
+        "pinyin": "Jǐngfāng duì tā chǎnshēngle huáiyí.",
+        "en": "Polis ondan şüphelenmeye başladı."
+      },
+      {
+        "zh": "不要轻易疑心他人。",
+        "pinyin": "Bùyào qīngyì yíxīn tārén.",
+        "en": "Başkalarından kolayca şüphelenme."
+      },
+      {
+        "zh": "这件事引起了大家的疑问。",
+        "pinyin": "Zhè jiàn shì yǐnqǐle dàjiā de yíwèn.",
+        "en": "Bu olay herkesin sorularına yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w6864",
+    "hanzi": "疑惑",
+    "pinyin": "yíhuò",
+    "meaning": "şüphe duymak, kuşkulanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他脸上带着疑惑的表情。",
+        "pinyin": "Tā liǎn shàng dàizhe yíhuò de biǎoqíng.",
+        "en": "Yüzünde şüpheli bir ifade var."
+      },
+      {
+        "zh": "这件事让他感到十分疑惑。",
+        "pinyin": "Zhè jiàn shì ràng tā gǎndào shífēn yíhuò.",
+        "en": "Bu olay onu son derece şaşırttı."
+      }
+    ]
+  },
+  {
+    "id": "w6865",
+    "hanzi": "疑虑",
+    "pinyin": "yílǜ",
+    "meaning": "şüphe, endişe, kuşku",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他心中充满了疑虑。",
+        "pinyin": "Tā xīnzhōng chōngmǎnle yílǜ.",
+        "en": "Onun içi şüphelerle dolu."
+      },
+      {
+        "zh": "领导消除了大家的疑虑。",
+        "pinyin": "Lǐngdǎo xiāochúle dàjiā de yílǜ.",
+        "en": "Yönetici herkesin şüphelerini giderdi."
+      }
+    ]
+  },
+  {
+    "id": "w6866",
+    "hanzi": "疑难",
+    "pinyin": "yínán",
+    "meaning": "zor, çözülmesi güç, karmaşık",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一个疑难杂症。",
+        "pinyin": "Zhè shì yī gè yínán zázhèng.",
+        "en": "Bu zor teşhis edilen bir hastalık."
+      },
+      {
+        "zh": "专家帮忙解决了疑难问题。",
+        "pinyin": "Zhuānjiā bāngmáng jiějuéle yínán wèntí.",
+        "en": "Uzman zor sorunun çözümüne yardım etti."
+      }
+    ]
+  },
+  {
+    "id": "w6867",
+    "hanzi": "疑心",
+    "pinyin": "yíxīn",
+    "meaning": "şüphe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他起了疑心。",
+        "pinyin": "Tā qǐle yíxīn.",
+        "en": "O şüphelenmeye başladı."
+      },
+      {
+        "zh": "她对丈夫的疑心越来越重。",
+        "pinyin": "Tā duì zhàngfu de yíxīn yuè lái yuè zhòng.",
+        "en": "Onun kocasına olan şüphesi giderek arttı."
+      },
+      {
+        "zh": "疑心太重不利于人际关系。",
+        "pinyin": "Yíxīn tài zhòng bùlìyú rénjì guānxi.",
+        "en": "Aşırı şüphecilik kişilerarası ilişkilere zarar verir."
+      },
+      {
+        "zh": "他从来不对朋友起疑心。",
+        "pinyin": "Tā cónglái bù duì péngyou qǐ yíxīn.",
+        "en": "O arkadaşlarından hiç şüphelenmez."
+      },
+      {
+        "zh": "老板对他产生了疑心。",
+        "pinyin": "Lǎobǎn duì tā chǎnshēngle yíxīn.",
+        "en": "Patron ondan şüphelenmeye başladı."
+      }
+    ]
+  },
+  {
+    "id": "w6868",
+    "hanzi": "椅",
+    "pinyin": "yǐ",
+    "meaning": "sandalye",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请坐这把椅。",
+        "pinyin": "Qǐng zuò zhè bǎ yǐ.",
+        "en": "Lütfen bu sandalyeye otur."
+      },
+      {
+        "zh": "他坐在椅上看书。",
+        "pinyin": "Tā zuò zài yǐ shàng kànshū.",
+        "en": "O sandalyede oturup kitap okuyor."
+      },
+      {
+        "zh": "这把椅有点摇晃。",
+        "pinyin": "Zhè bǎ yǐ yǒudiǎn yáohuàng.",
+        "en": "Bu sandalye biraz sallanıyor."
+      },
+      {
+        "zh": "他搬了一把椅坐下。",
+        "pinyin": "Tā bānle yī bǎ yǐ zuò xià.",
+        "en": "O bir sandalye getirip oturdu."
+      },
+      {
+        "zh": "房间里放着几把椅。",
+        "pinyin": "Fángjiān lǐ fàngzhe jǐ bǎ yǐ.",
+        "en": "Odada birkaç sandalye duruyor."
+      }
+    ]
+  },
+  {
+    "id": "w6869",
+    "hanzi": "已故",
+    "pinyin": "yǐgù",
+    "meaning": "merhum, ölmüş",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这是已故作家的作品。",
+        "pinyin": "Zhè shì yǐgù zuòjiā de zuòpǐn.",
+        "en": "Bu merhum yazarın eseridir."
+      },
+      {
+        "zh": "我们纪念已故的英雄。",
+        "pinyin": "Wǒmen jìniàn yǐgù de yīngxióng.",
+        "en": "Vefat etmiş kahramanları anıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w6870",
+    "hanzi": "以便",
+    "pinyin": "yǐbiàn",
+    "meaning": "bu sebeple, -mek için, kolaylık olsun diye",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请提前预约,以便安排时间。",
+        "pinyin": "Qǐng tíqián yùyuē, yǐbiàn ānpái shíjiān.",
+        "en": "Zaman ayarlamak için lütfen önceden randevu alın."
+      },
+      {
+        "zh": "他做了详细的笔记,以便复习。",
+        "pinyin": "Tā zuòle xiángxì de bǐjì, yǐbiàn fùxí.",
+        "en": "O tekrar edebilmek için ayrıntılı notlar aldı."
+      },
+      {
+        "zh": "请留下联系方式,以便我们及时通知您。",
+        "pinyin": "Qǐng liú xià liánxì fāngshì, yǐbiàn wǒmen jíshí tōngzhī nín.",
+        "en": "Zamanında haber verebilmemiz için lütfen iletişim bilgilerinizi bırakın."
+      },
+      {
+        "zh": "我把文件分类整理,以便查找。",
+        "pinyin": "Wǒ bǎ wénjiàn fēnlèi zhěnglǐ, yǐbiàn cházhǎo.",
+        "en": "Belgeleri kolayca bulabilmek için kategorilere ayırdım."
+      },
+      {
+        "zh": "请提前告诉我们,以便做好准备。",
+        "pinyin": "Qǐng tíqián gàosu wǒmen, yǐbiàn zuò hǎo zhǔnbèi.",
+        "en": "Hazırlık yapabilmemiz için lütfen bize önceden haber verin."
+      }
+    ]
+  },
+  {
+    "id": "w6871",
+    "hanzi": "以上",
+    "pinyin": "yǐshàng",
+    "meaning": "üzerinde, daha fazla",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "十八岁以上才能购买。",
+        "pinyin": "Shíbā suì yǐshàng cáinéng gòumǎi.",
+        "en": "Ancak on sekiz yaşından büyükler satın alabilir."
+      },
+      {
+        "zh": "以上就是今天的会议内容。",
+        "pinyin": "Yǐshàng jiùshì jīntiān de huìyì nèiróng.",
+        "en": "Yukarıdakiler bugünkü toplantının içeriğidir."
+      },
+      {
+        "zh": "报名人数已超过一百人以上。",
+        "pinyin": "Bàomíng rénshù yǐ chāoguò yī bǎi rén yǐshàng.",
+        "en": "Kayıt yaptıran kişi sayısı yüzü aştı."
+      },
+      {
+        "zh": "本科以上学历优先。",
+        "pinyin": "Běnkē yǐshàng xuélì yōuxiān.",
+        "en": "Lisans ve üstü eğitim seviyesine öncelik verilir."
+      },
+      {
+        "zh": "以上内容仅供参考。",
+        "pinyin": "Yǐshàng nèiróng jǐn gōng cānkǎo.",
+        "en": "Yukarıdaki içerik sadece referans amaçlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6872",
+    "hanzi": "以外",
+    "pinyin": "yǐwài",
+    "meaning": "hariç, dışında",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "除了他以外,大家都到了。",
+        "pinyin": "Chúle tā yǐwài, dàjiā dōu dào le.",
+        "en": "Ondan başka herkes geldi."
+      },
+      {
+        "zh": "这个范围以外的问题我不清楚。",
+        "pinyin": "Zhège fànwéi yǐwài de wèntí wǒ bù qīngchu.",
+        "en": "Bu kapsamın dışındaki sorunları bilmiyorum."
+      },
+      {
+        "zh": "工作以外,他还喜欢画画。",
+        "pinyin": "Gōngzuò yǐwài, tā hái xǐhuān huàhuà.",
+        "en": "İşinin dışında, resim yapmayı da sever."
+      },
+      {
+        "zh": "这座城市以外还有很多美丽的地方。",
+        "pinyin": "Zhè zuò chéngshì yǐwài hái yǒu hěn duō měilì de dìfang.",
+        "en": "Bu şehrin dışında da birçok güzel yer var."
+      },
+      {
+        "zh": "预算以外的支出需要另外申请。",
+        "pinyin": "Yùsuàn yǐwài de zhīchū xūyào lìngwài shēnqǐng.",
+        "en": "Bütçe dışı harcamalar için ayrı bir başvuru gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6873",
+    "hanzi": "以往",
+    "pinyin": "yǐwǎng",
+    "meaning": "önceden, geçmişte",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "以往我们从未遇到过这种情况。",
+        "pinyin": "Yǐwǎng wǒmen cóngwèi yùdàoguò zhè zhǒng qíngkuàng.",
+        "en": "Daha önce hiç böyle bir durumla karşılaşmamıştık."
+      },
+      {
+        "zh": "他比以往更努力了。",
+        "pinyin": "Tā bǐ yǐwǎng gèng nǔlì le.",
+        "en": "O eskisinden daha çok çalışıyor."
+      },
+      {
+        "zh": "如以往一样,他准时到达。",
+        "pinyin": "Rú yǐwǎng yīyàng, tā zhǔnshí dàodá.",
+        "en": "Her zamanki gibi zamanında geldi."
+      },
+      {
+        "zh": "以往的经验对现在很有帮助。",
+        "pinyin": "Yǐwǎng de jīngyàn duì xiànzài hěn yǒu bāngzhù.",
+        "en": "Geçmiş deneyimler şimdi çok yardımcı oluyor."
+      },
+      {
+        "zh": "情况和以往完全不同。",
+        "pinyin": "Qíngkuàng hé yǐwǎng wánquán bùtóng.",
+        "en": "Durum önceki halinden tamamen farklı."
+      }
+    ]
+  },
+  {
+    "id": "w6874",
+    "hanzi": "以下",
+    "pinyin": "yǐxià",
+    "meaning": "aşağıda, altında",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "以下是我的建议。",
+        "pinyin": "Yǐxià shì wǒ de jiànyì.",
+        "en": "Aşağıdakiler benim önerilerim."
+      },
+      {
+        "zh": "十岁以下儿童免票。",
+        "pinyin": "Shí suì yǐxià értóng miǎnpiào.",
+        "en": "On yaşın altındaki çocuklar ücretsizdir."
+      },
+      {
+        "zh": "温度降到零度以下。",
+        "pinyin": "Wēndù jiàng dào líng dù yǐxià.",
+        "en": "Sıcaklık sıfır derecenin altına düştü."
+      },
+      {
+        "zh": "以下内容需要仔细阅读。",
+        "pinyin": "Yǐxià nèiróng xūyào zǐxì yuèdú.",
+        "en": "Aşağıdaki içeriğin dikkatlice okunması gerekiyor."
+      },
+      {
+        "zh": "成绩在及格线以下的学生需要补考。",
+        "pinyin": "Chéngjì zài jígéxiàn yǐxià de xuésheng xūyào bǔkǎo.",
+        "en": "Notu geçme sınırının altında olan öğrencilerin bütünlemeye girmesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6875",
+    "hanzi": "以致",
+    "pinyin": "yǐzhì",
+    "meaning": "sonuç olarak, -e yol açtı",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他工作太拼命,以致病倒了。",
+        "pinyin": "Tā gōngzuò tài pīnmìng, yǐzhì bìngdǎo le.",
+        "en": "O işinde çok fazla zorlandı, sonuç olarak hastalandı."
+      },
+      {
+        "zh": "他粗心大意,以致犯了严重错误。",
+        "pinyin": "Tā cūxīn dàyì, yǐzhì fànle yánzhòng cuòwù.",
+        "en": "O çok dikkatsizdi, sonuç olarak ciddi bir hata yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w6876",
+    "hanzi": "意",
+    "pinyin": "yì",
+    "meaning": "fikir, anlam, niyet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的话中有别的意思。",
+        "pinyin": "Tā de huà zhōng yǒu bié de yìsi.",
+        "en": "Onun sözlerinde başka bir anlam var."
+      },
+      {
+        "zh": "我明白你的意思了。",
+        "pinyin": "Wǒ míngbai nǐ de yìsi le.",
+        "en": "Ne demek istediğini anladım."
+      },
+      {
+        "zh": "他一意孤行,不听劝告。",
+        "pinyin": "Tā yīyìgūxíng, bùtīng quàngào.",
+        "en": "O tek başına ısrar ediyor, tavsiyeleri dinlemiyor."
+      },
+      {
+        "zh": "这份礼物代表着我的心意。",
+        "pinyin": "Zhè fèn lǐwù dàibiǎozhe wǒ de xīnyì.",
+        "en": "Bu hediye benim niyetimi temsil ediyor."
+      },
+      {
+        "zh": "他有意帮助我们。",
+        "pinyin": "Tā yǒuyì bāngzhù wǒmen.",
+        "en": "O bize yardım etme niyetinde."
+      }
+    ]
+  },
+  {
+    "id": "w6877",
+    "hanzi": "意识",
+    "pinyin": "yìshí",
+    "meaning": "bilinç; farkına varmak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他失去了意识。",
+        "pinyin": "Tā shīqùle yìshí.",
+        "en": "O bilincini kaybetti."
+      },
+      {
+        "zh": "她逐渐意识到问题的严重性。",
+        "pinyin": "Tā zhújiàn yìshí dào wèntí de yánzhòngxìng.",
+        "en": "O sorunun ciddiyetini yavaş yavaş fark etti."
+      },
+      {
+        "zh": "我们要提高环保意识。",
+        "pinyin": "Wǒmen yào tígāo huánbǎo yìshí.",
+        "en": "Çevre bilincimizi artırmalıyız."
+      },
+      {
+        "zh": "他有很强的安全意识。",
+        "pinyin": "Tā yǒu hěn qiáng de ānquán yìshí.",
+        "en": "Onun güvenlik bilinci çok güçlü."
+      },
+      {
+        "zh": "手术后他慢慢恢复了意识。",
+        "pinyin": "Shǒushù hòu tā mànman huīfùle yìshí.",
+        "en": "Ameliyattan sonra yavaş yavaş bilincini geri kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w6878",
+    "hanzi": "意志",
+    "pinyin": "yìzhì",
+    "meaning": "irade",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他有着钢铁般的意志。",
+        "pinyin": "Tā yǒuzhe gāngtiě bān de yìzhì.",
+        "en": "Onun demir gibi bir iradesi var."
+      },
+      {
+        "zh": "坚强的意志帮助他战胜了困难。",
+        "pinyin": "Jiānqiáng de yìzhì bāngzhù tā zhànshèngle kùnnan.",
+        "en": "Güçlü irade zorlukları yenmesine yardımcı oldu."
+      },
+      {
+        "zh": "他的意志力非常强。",
+        "pinyin": "Tā de yìzhìlì fēicháng qiáng.",
+        "en": "Onun irade gücü çok kuvvetli."
+      },
+      {
+        "zh": "疾病没有击垮他的意志。",
+        "pinyin": "Jíbìng méiyǒu jīkuǎ tā de yìzhì.",
+        "en": "Hastalık onun iradesini kıramadı."
+      },
+      {
+        "zh": "训练可以锻炼一个人的意志。",
+        "pinyin": "Xùnliàn kěyǐ duànliàn yī gè rén de yìzhì.",
+        "en": "Antrenman bir insanın iradesini güçlendirebilir."
+      }
+    ]
   }
 ]

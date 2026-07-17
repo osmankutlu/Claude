@@ -183127,5 +183127,848 @@
         "en": "İş arkadaşlarıyla yakınlaşmak için çaba gösteriyor."
       }
     ]
+  },
+  {
+    "id": "w5309",
+    "hanzi": "亲人",
+    "pinyin": "qīnrén",
+    "meaning": "yakın akraba, sevdiği kişi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "过年时大家都回家看望亲人。",
+        "pinyin": "Guònián shí dàjiā dōu huíjiā kànwàng qīnrén.",
+        "en": "Yılbaşında herkes yakınlarını görmeye evine döner."
+      },
+      {
+        "zh": "他远离亲人在外地工作。",
+        "pinyin": "Tā yuǎnlí qīnrén zài wàidì gōngzuò.",
+        "en": "Ailesinden uzakta, başka bir şehirde çalışıyor."
+      },
+      {
+        "zh": "她非常想念自己的亲人。",
+        "pinyin": "Tā fēicháng xiǎngniàn zìjǐ de qīnrén.",
+        "en": "Kendi yakınlarını çok özlüyor."
+      },
+      {
+        "zh": "在困难时期，亲人的支持最重要。",
+        "pinyin": "Zài kùnnán shíqī, qīnrén de zhīchí zuì zhòngyào.",
+        "en": "Zor zamanlarda yakınların desteği en önemlisidir."
+      },
+      {
+        "zh": "他把朋友当作自己的亲人。",
+        "pinyin": "Tā bǎ péngyou dàngzuò zìjǐ de qīnrén.",
+        "en": "Arkadaşını kendi yakını gibi görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w5310",
+    "hanzi": "亲生",
+    "pinyin": "qīnshēng",
+    "meaning": "öz (biyolojik akrabalık)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她找到了自己的亲生父母。",
+        "pinyin": "Tā zhǎodào le zìjǐ de qīnshēng fùmǔ.",
+        "en": "Öz anne babasını buldu."
+      },
+      {
+        "zh": "他对养子和亲生儿子一视同仁。",
+        "pinyin": "Tā duì yǎngzǐ hé qīnshēng érzi yíshìtóngrén.",
+        "en": "Evlatlığına ve öz oğluna eşit davranıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5311",
+    "hanzi": "亲手",
+    "pinyin": "qīnshǒu",
+    "meaning": "kendi eliyle",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这是我亲手做的蛋糕。",
+        "pinyin": "Zhè shì wǒ qīnshǒu zuò de dàngāo.",
+        "en": "Bu benim kendi elimle yaptığım pasta."
+      },
+      {
+        "zh": "他亲手把礼物交给了她。",
+        "pinyin": "Tā qīnshǒu bǎ lǐwù jiāo gěi le tā.",
+        "en": "Hediyeyi kendi eliyle ona verdi."
+      },
+      {
+        "zh": "父亲亲手教他修理自行车。",
+        "pinyin": "Fùqīn qīnshǒu jiāo tā xiūlǐ zìxíngchē.",
+        "en": "Babası bisiklet tamir etmeyi ona kendi eliyle öğretti."
+      },
+      {
+        "zh": "她亲手种下了这棵树。",
+        "pinyin": "Tā qīnshǒu zhòngxià le zhè kē shù.",
+        "en": "Bu ağacı kendi eliyle dikti."
+      },
+      {
+        "zh": "他喜欢亲手制作家具。",
+        "pinyin": "Tā xǐhuan qīnshǒu zhìzuò jiājù.",
+        "en": "Kendi eliyle mobilya yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5312",
+    "hanzi": "亲属",
+    "pinyin": "qīnshǔ",
+    "meaning": "akraba, akrabalar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他的亲属都住在乡下。",
+        "pinyin": "Tā de qīnshǔ dōu zhù zài xiāngxià.",
+        "en": "Akrabalarının hepsi kırsalda yaşıyor."
+      },
+      {
+        "zh": "填写申请表时要写明亲属关系。",
+        "pinyin": "Tiánxiě shēnqǐngbiǎo shí yào xiěmíng qīnshǔ guānxì.",
+        "en": "Başvuru formu doldurulurken akrabalık ilişkisi belirtilmelidir."
+      }
+    ]
+  },
+  {
+    "id": "w5313",
+    "hanzi": "亲眼",
+    "pinyin": "qīnyǎn",
+    "meaning": "kendi gözleriyle",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我亲眼看到了这场事故。",
+        "pinyin": "Wǒ qīnyǎn kàndào le zhè chǎng shìgù.",
+        "en": "Bu kazayı kendi gözlerimle gördüm."
+      },
+      {
+        "zh": "他亲眼目睹了事情的经过。",
+        "pinyin": "Tā qīnyǎn mùdǔ le shìqing de jīngguò.",
+        "en": "Olayın gelişimine kendi gözleriyle şahit oldu."
+      },
+      {
+        "zh": "我要亲眼见证这个奇迹。",
+        "pinyin": "Wǒ yào qīnyǎn jiànzhèng zhège qíjì.",
+        "en": "Bu mucizeye kendi gözlerimle şahit olmak istiyorum."
+      },
+      {
+        "zh": "她亲眼看着孩子长大。",
+        "pinyin": "Tā qīnyǎn kànzhe háizi zhǎngdà.",
+        "en": "Çocuğunun büyümesini kendi gözleriyle izledi."
+      },
+      {
+        "zh": "我亲眼看见他把钱包捡了起来。",
+        "pinyin": "Wǒ qīnyǎn kànjiàn tā bǎ qiánbāo jiǎn le qǐlái.",
+        "en": "Cüzdanı yerden aldığını kendi gözlerimle gördüm."
+      }
+    ]
+  },
+  {
+    "id": "w5314",
+    "hanzi": "钦佩",
+    "pinyin": "qīnpèi",
+    "meaning": "saygıyla takdir etmek, hayran olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我非常钦佩他的勇气。",
+        "pinyin": "Wǒ fēicháng qīnpèi tā de yǒngqì.",
+        "en": "Cesaretine derinden hayranlık duyuyorum."
+      },
+      {
+        "zh": "大家都钦佩她的坚强意志。",
+        "pinyin": "Dàjiā dōu qīnpèi tā de jiānqiáng yìzhì.",
+        "en": "Herkes onun güçlü iradesine hayran."
+      }
+    ]
+  },
+  {
+    "id": "w5315",
+    "hanzi": "琴",
+    "pinyin": "qín",
+    "meaning": "müzik aleti (telli veya tuşlu)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "她会弹琴。",
+        "pinyin": "Tā huì tán qín.",
+        "en": "O müzik aleti çalabiliyor."
+      },
+      {
+        "zh": "他每天练习弹琴一小时。",
+        "pinyin": "Tā měitiān liànxí tán qín yì xiǎoshí.",
+        "en": "Her gün bir saat müzik aleti çalışıyor."
+      },
+      {
+        "zh": "这架琴的声音很好听。",
+        "pinyin": "Zhè jià qín de shēngyīn hěn hǎotīng.",
+        "en": "Bu enstrümanın sesi çok güzel."
+      },
+      {
+        "zh": "孩子从小学习钢琴。",
+        "pinyin": "Háizi cóngxiǎo xuéxí gāngqín.",
+        "en": "Çocuk küçüklüğünden beri piyano öğreniyor."
+      },
+      {
+        "zh": "他把琴放在客厅里。",
+        "pinyin": "Tā bǎ qín fàng zài kètīng lǐ.",
+        "en": "Müzik aletini oturma odasına koydu."
+      }
+    ]
+  },
+  {
+    "id": "w5316",
+    "hanzi": "勤",
+    "pinyin": "qín",
+    "meaning": "çalışkan, gayretli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他工作很勤。",
+        "pinyin": "Tā gōngzuò hěn qín.",
+        "en": "İşinde çok çalışkan."
+      },
+      {
+        "zh": "勤能补拙。",
+        "pinyin": "Qín néng bǔzhuō.",
+        "en": "Çalışkanlık, beceriksizliği telafi eder."
+      },
+      {
+        "zh": "他学习非常勤奋。",
+        "pinyin": "Tā xuéxí fēicháng qínfèn.",
+        "en": "Çok çalışkan bir şekilde ders çalışıyor."
+      },
+      {
+        "zh": "她做家务很勤快。",
+        "pinyin": "Tā zuò jiāwù hěn qínkuai.",
+        "en": "Ev işlerinde çok çalışkan."
+      },
+      {
+        "zh": "他勤于思考，善于总结。",
+        "pinyin": "Tā qínyú sīkǎo, shànyú zǒngjié.",
+        "en": "Düşünmede gayretli, özetlemede başarılı."
+      }
+    ]
+  },
+  {
+    "id": "w5317",
+    "hanzi": "勤俭",
+    "pinyin": "qínjiǎn",
+    "meaning": "çalışkan ve tutumlu",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他们家一直保持勤俭的传统。",
+        "pinyin": "Tāmen jiā yìzhí bǎochí qínjiǎn de chuántǒng.",
+        "en": "Aileleri hep çalışkanlık ve tutumluluk geleneğini sürdürüyor."
+      },
+      {
+        "zh": "勤俭节约是一种美德。",
+        "pinyin": "Qínjiǎn jiéyuē shì yì zhǒng měidé.",
+        "en": "Çalışkanlık ve tasarruf bir erdemdir."
+      }
+    ]
+  },
+  {
+    "id": "w5318",
+    "hanzi": "勤快",
+    "pinyin": "qínkuai",
+    "meaning": "çalışkan, gayretli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她是个勤快的姑娘。",
+        "pinyin": "Tā shì ge qínkuai de gūniang.",
+        "en": "O çalışkan bir kız."
+      },
+      {
+        "zh": "他手脚勤快，很快就把房间打扫干净了。",
+        "pinyin": "Tā shǒujiǎo qínkuai, hěn kuài jiù bǎ fángjiān dǎsǎo gānjìng le.",
+        "en": "Çok çalışkan olduğundan odayı çabucak temizledi."
+      }
+    ]
+  },
+  {
+    "id": "w5319",
+    "hanzi": "芹菜",
+    "pinyin": "qíncài",
+    "meaning": "kereviz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这道菜里有芹菜。",
+        "pinyin": "Zhè dào cài lǐ yǒu qíncài.",
+        "en": "Bu yemekte kereviz var."
+      },
+      {
+        "zh": "芹菜炒肉是我喜欢的一道菜。",
+        "pinyin": "Qíncài chǎoròu shì wǒ xǐhuan de yí dào cài.",
+        "en": "Kerevizli et kavurma sevdiğim bir yemek."
+      },
+      {
+        "zh": "她在市场买了一把芹菜。",
+        "pinyin": "Tā zài shìchǎng mǎi le yì bǎ qíncài.",
+        "en": "Pazardan bir demet kereviz aldı."
+      },
+      {
+        "zh": "芹菜富含纤维素。",
+        "pinyin": "Qíncài fùhán xiānwéisù.",
+        "en": "Kereviz lif açısından zengindir."
+      },
+      {
+        "zh": "他不喜欢芹菜的味道。",
+        "pinyin": "Tā bù xǐhuan qíncài de wèidao.",
+        "en": "Kerevizin tadını sevmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5320",
+    "hanzi": "寝室",
+    "pinyin": "qǐnshì",
+    "meaning": "yatakhane",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "学生们住在学校的寝室里。",
+        "pinyin": "Xuéshengmen zhù zài xuéxiào de qǐnshì lǐ.",
+        "en": "Öğrenciler okulun yatakhanesinde kalıyor."
+      },
+      {
+        "zh": "我的寝室有四个人。",
+        "pinyin": "Wǒ de qǐnshì yǒu sì ge rén.",
+        "en": "Yatakhanemde dört kişi var."
+      },
+      {
+        "zh": "寝室里很安静。",
+        "pinyin": "Qǐnshì lǐ hěn ānjìng.",
+        "en": "Yatakhane çok sessiz."
+      },
+      {
+        "zh": "他把寝室打扫得干干净净。",
+        "pinyin": "Tā bǎ qǐnshì dǎsǎo de gāngānjìngjìng.",
+        "en": "Yatakhaneyi tertemiz temizledi."
+      },
+      {
+        "zh": "晚上十点寝室要熄灯。",
+        "pinyin": "Wǎnshang shí diǎn qǐnshì yào xīdēng.",
+        "en": "Gece saat onda yatakhanenin ışıkları kapatılır."
+      }
+    ]
+  },
+  {
+    "id": "w5321",
+    "hanzi": "轻浮",
+    "pinyin": "qīngfú",
+    "meaning": "hafif meşrep, ciddiyetsiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他说话轻浮，不太可靠。",
+        "pinyin": "Tā shuōhuà qīngfú, bú tài kěkào.",
+        "en": "Konuşması ciddiyetsiz, pek güvenilir değil."
+      },
+      {
+        "zh": "她讨厌轻浮的男人。",
+        "pinyin": "Tā tǎoyàn qīngfú de nánrén.",
+        "en": "Hafif meşrep erkeklerden hoşlanmıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5322",
+    "hanzi": "轻快",
+    "pinyin": "qīngkuài",
+    "meaning": "hafif ve hızlı, canlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "音乐节奏轻快，让人心情愉悦。",
+        "pinyin": "Yīnyuè jiézòu qīngkuài, ràng rén xīnqíng yúyuè.",
+        "en": "Müziğin ritmi canlı, insanı neşelendiriyor."
+      },
+      {
+        "zh": "他迈着轻快的步伐走了过来。",
+        "pinyin": "Tā màizhe qīngkuài de bùfá zǒu le guòlái.",
+        "en": "Hafif adımlarla yürüyerek geldi."
+      },
+      {
+        "zh": "完成任务后，他心情轻快了许多。",
+        "pinyin": "Wánchéng rènwu hòu, tā xīnqíng qīngkuài le xǔduō.",
+        "en": "Görevi tamamladıktan sonra ruh hali çok hafifledi."
+      },
+      {
+        "zh": "这首歌旋律轻快活泼。",
+        "pinyin": "Zhè shǒu gē xuánlǜ qīngkuài huópō.",
+        "en": "Bu şarkının melodisi canlı ve neşeli."
+      },
+      {
+        "zh": "她轻快地跑上了楼梯。",
+        "pinyin": "Tā qīngkuài de pǎoshàng le lóutī.",
+        "en": "Hafif adımlarla merdivenleri koşarak çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w5323",
+    "hanzi": "轻蔑",
+    "pinyin": "qīngmiè",
+    "meaning": "hor görmek, küçümsemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他用轻蔑的眼神看着我。",
+        "pinyin": "Tā yòng qīngmiè de yǎnshén kànzhe wǒ.",
+        "en": "Bana küçümseyen bir bakışla baktı."
+      },
+      {
+        "zh": "不要轻蔑地对待任何人。",
+        "pinyin": "Búyào qīngmiè de duìdài rènhé rén.",
+        "en": "Kimseyi küçümseyerek davranma."
+      }
+    ]
+  },
+  {
+    "id": "w5324",
+    "hanzi": "轻巧",
+    "pinyin": "qīngqiǎo",
+    "meaning": "hafif ve kullanışlı, basit",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这款相机既轻巧又实用。",
+        "pinyin": "Zhè kuǎn xiàngjī jì qīngqiǎo yòu shíyòng.",
+        "en": "Bu kamera hem hafif hem de kullanışlı."
+      },
+      {
+        "zh": "他说得轻巧，做起来却很难。",
+        "pinyin": "Tā shuō de qīngqiǎo, zuò qǐlái què hěn nán.",
+        "en": "Söylemesi kolay ama yapması çok zor."
+      }
+    ]
+  },
+  {
+    "id": "w5325",
+    "hanzi": "轻柔",
+    "pinyin": "qīngróu",
+    "meaning": "yumuşak ve kibar",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "她的声音轻柔动听。",
+        "pinyin": "Tā de shēngyīn qīngróu dòngtīng.",
+        "en": "Sesi yumuşak ve hoş."
+      },
+      {
+        "zh": "微风轻柔地吹过树梢。",
+        "pinyin": "Wēifēng qīngróu de chuīguò shùshāo.",
+        "en": "Hafif rüzgar ağaç uçlarını yumuşakça okşuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5326",
+    "hanzi": "轻率",
+    "pinyin": "qīngshuài",
+    "meaning": "aceleci, düşüncesiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做决定太轻率了。",
+        "pinyin": "Tā zuò juédìng tài qīngshuài le.",
+        "en": "Kararı verirken çok aceleci davrandı."
+      },
+      {
+        "zh": "不要轻率地对待这件事。",
+        "pinyin": "Búyào qīngshuài de duìdài zhè jiàn shì.",
+        "en": "Bu konuyu düşüncesizce ele alma."
+      }
+    ]
+  },
+  {
+    "id": "w5327",
+    "hanzi": "轻微",
+    "pinyin": "qīngwēi",
+    "meaning": "hafif, az",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他只受了轻微的伤。",
+        "pinyin": "Tā zhǐ shòu le qīngwēi de shāng.",
+        "en": "Sadece hafif bir yaralanma geçirdi."
+      },
+      {
+        "zh": "这种药物副作用轻微。",
+        "pinyin": "Zhè zhǒng yàowù fùzuòyòng qīngwēi.",
+        "en": "Bu ilacın yan etkileri hafif."
+      },
+      {
+        "zh": "地震造成了轻微的损失。",
+        "pinyin": "Dìzhèn zàochéng le qīngwēi de sǔnshī.",
+        "en": "Deprem hafif hasara neden oldu."
+      },
+      {
+        "zh": "他有轻微的感冒症状。",
+        "pinyin": "Tā yǒu qīngwēi de gǎnmào zhèngzhuàng.",
+        "en": "Hafif grip belirtileri var."
+      },
+      {
+        "zh": "两者之间只有轻微的差别。",
+        "pinyin": "Liǎngzhě zhījiān zhǐyǒu qīngwēi de chābié.",
+        "en": "İkisi arasında sadece hafif bir fark var."
+      }
+    ]
+  },
+  {
+    "id": "w5328",
+    "hanzi": "青铜",
+    "pinyin": "qīngtóng",
+    "meaning": "bronz",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这是一件青铜器。",
+        "pinyin": "Zhè shì yí jiàn qīngtóngqì.",
+        "en": "Bu bir bronz eşyadır."
+      },
+      {
+        "zh": "博物馆展出了古代的青铜器皿。",
+        "pinyin": "Bówùguǎn zhǎnchū le gǔdài de qīngtóng qìmǐn.",
+        "en": "Müzede antik dönem bronz kaplar sergileniyor."
+      }
+    ]
+  },
+  {
+    "id": "w5329",
+    "hanzi": "青蛙",
+    "pinyin": "qīngwā",
+    "meaning": "kurbağa",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "池塘里有很多青蛙。",
+        "pinyin": "Chítáng lǐ yǒu hěnduō qīngwā.",
+        "en": "Havuzda birçok kurbağa var."
+      },
+      {
+        "zh": "青蛙会吃害虫。",
+        "pinyin": "Qīngwā huì chī hàichóng.",
+        "en": "Kurbağalar zararlı böcekleri yer."
+      },
+      {
+        "zh": "夏天的夜晚能听到青蛙的叫声。",
+        "pinyin": "Xiàtiān de yèwǎn néng tīngdào qīngwā de jiàoshēng.",
+        "en": "Yaz gecelerinde kurbağa sesleri duyulabilir."
+      },
+      {
+        "zh": "孩子们在河边抓青蛙。",
+        "pinyin": "Háizimen zài hébiān zhuā qīngwā.",
+        "en": "Çocuklar nehir kenarında kurbağa yakalıyor."
+      },
+      {
+        "zh": "青蛙从水里跳了出来。",
+        "pinyin": "Qīngwā cóng shuǐ lǐ tiào le chūlái.",
+        "en": "Kurbağa sudan dışarı zıpladı."
+      }
+    ]
+  },
+  {
+    "id": "w5330",
+    "hanzi": "清晨",
+    "pinyin": "qīngchén",
+    "meaning": "seher vakti, erken sabah",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "清晨的空气特别清新。",
+        "pinyin": "Qīngchén de kōngqì tèbié qīngxīn.",
+        "en": "Sabahın erken saatlerinde hava özellikle temiz."
+      },
+      {
+        "zh": "他每天清晨都去跑步。",
+        "pinyin": "Tā měitiān qīngchén dōu qù pǎobù.",
+        "en": "Her sabah erkenden koşuya çıkıyor."
+      },
+      {
+        "zh": "清晨的阳光洒进了房间。",
+        "pinyin": "Qīngchén de yángguāng sǎjìn le fángjiān.",
+        "en": "Sabah güneş ışığı odaya vurdu."
+      },
+      {
+        "zh": "我喜欢清晨的宁静。",
+        "pinyin": "Wǒ xǐhuan qīngchén de níngjìng.",
+        "en": "Sabahın sessizliğini severim."
+      },
+      {
+        "zh": "清晨的鸟叫声唤醒了我。",
+        "pinyin": "Qīngchén de niǎojiàoshēng huànxǐng le wǒ.",
+        "en": "Sabah kuş sesleri beni uyandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5331",
+    "hanzi": "清除",
+    "pinyin": "qīngchú",
+    "meaning": "ortadan kaldırmak, temizlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工人们清除了道路上的积雪。",
+        "pinyin": "Gōngrénmen qīngchú le dàolù shàng de jīxuě.",
+        "en": "İşçiler yoldaki karları temizledi."
+      },
+      {
+        "zh": "医生帮他清除了伤口的杂质。",
+        "pinyin": "Yīshēng bāng tā qīngchú le shāngkǒu de zázhì.",
+        "en": "Doktor yaradaki yabancı maddeleri temizledi."
+      },
+      {
+        "zh": "我们需要清除这些障碍。",
+        "pinyin": "Wǒmen xūyào qīngchú zhèxiē zhàng'ài.",
+        "en": "Bu engelleri ortadan kaldırmamız gerekiyor."
+      },
+      {
+        "zh": "他清除了电脑里的病毒。",
+        "pinyin": "Tā qīngchú le diànnǎo lǐ de bìngdú.",
+        "en": "Bilgisayardaki virüsü temizledi."
+      },
+      {
+        "zh": "政府正在清除违章建筑。",
+        "pinyin": "Zhèngfǔ zhèngzài qīngchú wéizhāng jiànzhù.",
+        "en": "Hükümet ruhsatsız yapıları ortadan kaldırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5332",
+    "hanzi": "清单",
+    "pinyin": "qīngdān",
+    "meaning": "liste, döküm",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "她列了一张购物清单。",
+        "pinyin": "Tā liè le yì zhāng gòuwù qīngdān.",
+        "en": "Bir alışveriş listesi hazırladı."
+      },
+      {
+        "zh": "请检查这份物品清单。",
+        "pinyin": "Qǐng jiǎnchá zhè fèn wùpǐn qīngdān.",
+        "en": "Lütfen bu eşya listesini kontrol edin."
+      },
+      {
+        "zh": "我把要做的事都写在了清单上。",
+        "pinyin": "Wǒ bǎ yào zuò de shì dōu xiě zài le qīngdān shàng.",
+        "en": "Yapılacak işleri listeye yazdım."
+      },
+      {
+        "zh": "这是一份详细的费用清单。",
+        "pinyin": "Zhè shì yí fèn xiángxì de fèiyòng qīngdān.",
+        "en": "Bu ayrıntılı bir masraf listesidir."
+      },
+      {
+        "zh": "老板给了我一份任务清单。",
+        "pinyin": "Lǎobǎn gěi le wǒ yí fèn rènwu qīngdān.",
+        "en": "Patron bana bir görev listesi verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5333",
+    "hanzi": "清洁",
+    "pinyin": "qīngjié",
+    "meaning": "temiz ve düzenli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "请保持环境清洁。",
+        "pinyin": "Qǐng bǎochí huánjìng qīngjié.",
+        "en": "Lütfen çevreyi temiz tutun."
+      },
+      {
+        "zh": "这家餐厅非常清洁。",
+        "pinyin": "Zhè jiā cāntīng fēicháng qīngjié.",
+        "en": "Bu restoran çok temiz."
+      },
+      {
+        "zh": "他每天打扫房间保持清洁。",
+        "pinyin": "Tā měitiān dǎsǎo fángjiān bǎochí qīngjié.",
+        "en": "Odayı temiz tutmak için her gün temizlik yapıyor."
+      },
+      {
+        "zh": "使用清洁能源有利于环保。",
+        "pinyin": "Shǐyòng qīngjié néngyuán yǒulìyú huánbǎo.",
+        "en": "Temiz enerji kullanmak çevreye faydalıdır."
+      },
+      {
+        "zh": "医院对清洁要求很高。",
+        "pinyin": "Yīyuàn duì qīngjié yāoqiú hěn gāo.",
+        "en": "Hastanenin temizlik konusunda talepleri çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w5334",
+    "hanzi": "清理",
+    "pinyin": "qīnglǐ",
+    "meaning": "düzenlemek, temizlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他正在清理书桌。",
+        "pinyin": "Tā zhèngzài qīnglǐ shūzhuō.",
+        "en": "Çalışma masasını düzenliyor."
+      },
+      {
+        "zh": "我们需要清理仓库。",
+        "pinyin": "Wǒmen xūyào qīnglǐ cāngkù.",
+        "en": "Depoyu düzenlememiz gerekiyor."
+      },
+      {
+        "zh": "她清理了衣柜里的旧衣服。",
+        "pinyin": "Tā qīnglǐ le yīguì lǐ de jiù yīfu.",
+        "en": "Dolaptaki eski kıyafetleri düzenledi."
+      },
+      {
+        "zh": "工人们清理了街道上的垃圾。",
+        "pinyin": "Gōngrénmen qīnglǐ le jiēdào shàng de lājī.",
+        "en": "İşçiler sokaktaki çöpleri temizledi."
+      },
+      {
+        "zh": "他每周清理一次电脑文件。",
+        "pinyin": "Tā měizhōu qīnglǐ yí cì diànnǎo wénjiàn.",
+        "en": "Haftada bir kez bilgisayar dosyalarını düzenliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5335",
+    "hanzi": "清晰",
+    "pinyin": "qīngxī",
+    "meaning": "net, berrak",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的解释非常清晰。",
+        "pinyin": "Tā de jiěshì fēicháng qīngxī.",
+        "en": "Açıklaması çok net."
+      },
+      {
+        "zh": "这张照片很清晰。",
+        "pinyin": "Zhè zhāng zhàopiàn hěn qīngxī.",
+        "en": "Bu fotoğraf çok net."
+      },
+      {
+        "zh": "他的发音很清晰。",
+        "pinyin": "Tā de fāyīn hěn qīngxī.",
+        "en": "Telaffuzu çok net."
+      },
+      {
+        "zh": "屏幕上的字很清晰。",
+        "pinyin": "Píngmù shàng de zì hěn qīngxī.",
+        "en": "Ekrandaki yazı çok net."
+      },
+      {
+        "zh": "他的思路清晰有条理。",
+        "pinyin": "Tā de sīlù qīngxī yǒu tiáolǐ.",
+        "en": "Düşünce akışı net ve düzenli."
+      }
+    ]
+  },
+  {
+    "id": "w5336",
+    "hanzi": "清洗",
+    "pinyin": "qīngxǐ",
+    "meaning": "iyice yıkamak, temizlemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请把水果清洗干净再吃。",
+        "pinyin": "Qǐng bǎ shuǐguǒ qīngxǐ gānjìng zài chī.",
+        "en": "Lütfen meyveleri yiyip yemeden önce iyice yıkayın."
+      },
+      {
+        "zh": "他把车清洗得很干净。",
+        "pinyin": "Tā bǎ chē qīngxǐ de hěn gānjìng.",
+        "en": "Arabayı çok temiz yıkadı."
+      },
+      {
+        "zh": "衣服需要用清水多清洗几次。",
+        "pinyin": "Yīfu xūyào yòng qīngshuǐ duō qīngxǐ jǐ cì.",
+        "en": "Kıyafetler temiz suyla birkaç kez yıkanmalı."
+      },
+      {
+        "zh": "医生清洗了伤口。",
+        "pinyin": "Yīshēng qīngxǐ le shāngkǒu.",
+        "en": "Doktor yarayı temizledi."
+      },
+      {
+        "zh": "定期清洗空调很重要。",
+        "pinyin": "Dìngqī qīngxǐ kōngtiáo hěn zhòngyào.",
+        "en": "Klimayı düzenli temizlemek önemlidir."
+      }
+    ]
   }
 ]

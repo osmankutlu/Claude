@@ -243586,5 +243586,878 @@
         "en": "Sütunun çökmesi binanın hasar görmesine yol açtı."
       }
     ]
+  },
+  {
+    "id": "w7379",
+    "hanzi": "知",
+    "pinyin": "zhī",
+    "meaning": "bilmek",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "无人知晓此事。",
+        "pinyin": "Wú rén zhīxiǎo cǐ shì.",
+        "en": "Bu konuyu kimse bilmiyor."
+      },
+      {
+        "zh": "他自知理亏。",
+        "pinyin": "Tā zì zhī lǐkuī.",
+        "en": "Haksız olduğunu kendisi de biliyor."
+      },
+      {
+        "zh": "人贵有自知之明。",
+        "pinyin": "Rén guì yǒu zìzhīzhīmíng.",
+        "en": "İnsanın kendini bilmesi değerlidir."
+      },
+      {
+        "zh": "此事你我知我心。",
+        "pinyin": "Cǐ shì nǐ zhī wǒ xīn.",
+        "en": "Bu konuda kalbimi anlıyorsun."
+      },
+      {
+        "zh": "他早已知情。",
+        "pinyin": "Tā zǎoyǐ zhīqíng.",
+        "en": "Durumdan çoktan haberdar."
+      }
+    ]
+  },
+  {
+    "id": "w7380",
+    "hanzi": "知己",
+    "pinyin": "zhījǐ",
+    "meaning": "sırdaş, yakın dost",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "她是我最好的知己。",
+        "pinyin": "Tā shì wǒ zuì hǎo de zhījǐ.",
+        "en": "O benim en yakın sırdaşım."
+      },
+      {
+        "zh": "人生难得一知己。",
+        "pinyin": "Rénshēng nándé yī zhījǐ.",
+        "en": "Hayatta bir sırdaş bulmak zordur."
+      },
+      {
+        "zh": "他和老师成了知己。",
+        "pinyin": "Tā hé lǎoshī chéngle zhījǐ.",
+        "en": "Öğretmeniyle sırdaş oldu."
+      },
+      {
+        "zh": "知己知彼，百战不殆。",
+        "pinyin": "Zhījǐ-zhībǐ, bǎizhàn-búdài.",
+        "en": "Kendini ve rakibini bilirsen hiç yenilmezsin."
+      },
+      {
+        "zh": "他把自己的秘密告诉了知己。",
+        "pinyin": "Tā bǎ zìjǐ de mìmì gàosùle zhījǐ.",
+        "en": "Sırrını sırdaşına söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w7381",
+    "hanzi": "知觉",
+    "pinyin": "zhījué",
+    "meaning": "bilinç, farkındalık, duyum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他失去了知觉。",
+        "pinyin": "Tā shīqùle zhījué.",
+        "en": "Bilincini kaybetti."
+      },
+      {
+        "zh": "手术后他慢慢恢复了知觉。",
+        "pinyin": "Shǒushù hòu tā mànmàn huīfùle zhījué.",
+        "en": "Ameliyattan sonra yavaş yavaş bilinci yerine geldi."
+      },
+      {
+        "zh": "腿麻了，没有知觉。",
+        "pinyin": "Tuǐ má le, méiyǒu zhījué.",
+        "en": "Bacağı uyuştu, hiçbir duyum yok."
+      },
+      {
+        "zh": "婴儿对声音的知觉很敏锐。",
+        "pinyin": "Yīng'ér duì shēngyīn de zhījué hěn mǐnruì.",
+        "en": "Bebeğin sese karşı algısı çok keskin."
+      },
+      {
+        "zh": "他渐渐失去了对时间的知觉。",
+        "pinyin": "Tā jiànjiàn shīqùle duì shíjiān de zhījué.",
+        "en": "Yavaş yavaş zaman algısını kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w7382",
+    "hanzi": "知名",
+    "pinyin": "zhīmíng",
+    "meaning": "tanınmış, ünlü",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他是一位知名作家。",
+        "pinyin": "Tā shì yí wèi zhīmíng zuòjiā.",
+        "en": "O tanınmış bir yazar."
+      },
+      {
+        "zh": "这家公司很知名。",
+        "pinyin": "Zhè jiā gōngsī hěn zhīmíng.",
+        "en": "Bu şirket çok tanınmış."
+      },
+      {
+        "zh": "她是国内知名的歌手。",
+        "pinyin": "Tā shì guónèi zhīmíng de gēshǒu.",
+        "en": "O yurt içinde tanınmış bir şarkıcı."
+      },
+      {
+        "zh": "这所大学是国际知名学府。",
+        "pinyin": "Zhè suǒ dàxué shì guójì zhīmíng xuéfǔ.",
+        "en": "Bu üniversite uluslararası düzeyde tanınmış bir kurumdur."
+      },
+      {
+        "zh": "他毕业于一所知名高中。",
+        "pinyin": "Tā bìyè yú yì suǒ zhīmíng gāozhōng.",
+        "en": "Tanınmış bir liseden mezun oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7383",
+    "hanzi": "知晓",
+    "pinyin": "zhīxiǎo",
+    "meaning": "bilmek, haberdar olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "此事无人知晓。",
+        "pinyin": "Cǐ shì wú rén zhīxiǎo.",
+        "en": "Bu konudan kimse haberdar değil."
+      },
+      {
+        "zh": "他不愿让别人知晓这件事。",
+        "pinyin": "Tā bú yuàn ràng biérén zhīxiǎo zhè jiàn shì.",
+        "en": "Bu olayın başkaları tarafından bilinmesini istemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7384",
+    "hanzi": "知心",
+    "pinyin": "zhīxīn",
+    "meaning": "candan, samimi, halden anlayan",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她是我的知心朋友。",
+        "pinyin": "Tā shì wǒ de zhīxīn péngyou.",
+        "en": "O benim candan arkadaşım."
+      },
+      {
+        "zh": "他们无话不谈，是知心朋友。",
+        "pinyin": "Tāmen wúhuà-bùtán, shì zhīxīn péngyou.",
+        "en": "Her şeyi konuşabildikleri, samimi arkadaşlar."
+      }
+    ]
+  },
+  {
+    "id": "w7385",
+    "hanzi": "知音",
+    "pinyin": "zhīyīn",
+    "meaning": "can dostu, birbirini anlayan yakın arkadaş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他终于找到了自己的知音。",
+        "pinyin": "Tā zhōngyú zhǎodàole zìjǐ de zhīyīn.",
+        "en": "Sonunda kendi can dostunu buldu."
+      },
+      {
+        "zh": "知音难觅。",
+        "pinyin": "Zhīyīn nán mì.",
+        "en": "Can dostu bulmak zordur."
+      }
+    ]
+  },
+  {
+    "id": "w7386",
+    "hanzi": "知足",
+    "pinyin": "zhīzú",
+    "meaning": "kanaatkâr, elindekiyle yetinen",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是个知足的人。",
+        "pinyin": "Tā shì gè zhīzú de rén.",
+        "en": "O kanaatkâr bir insan."
+      },
+      {
+        "zh": "知足常乐。",
+        "pinyin": "Zhīzú-chánglè.",
+        "en": "Kanaat eden her zaman mutludur."
+      },
+      {
+        "zh": "生活简单，但他很知足。",
+        "pinyin": "Shēnghuó jiǎndān, dàn tā hěn zhīzú.",
+        "en": "Hayatı sade ama çok kanaatkâr."
+      },
+      {
+        "zh": "她对现在的生活很知足。",
+        "pinyin": "Tā duì xiànzài de shēnghuó hěn zhīzú.",
+        "en": "Şimdiki hayatından oldukça memnun."
+      },
+      {
+        "zh": "他从不抱怨，总是知足。",
+        "pinyin": "Tā cóng bù bàoyuàn, zǒngshì zhīzú.",
+        "en": "Hiç şikayet etmez, her zaman kanaatkârdır."
+      }
+    ]
+  },
+  {
+    "id": "w7387",
+    "hanzi": "枝",
+    "pinyin": "zhī",
+    "meaning": "dal",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "树枝在风中摇晃。",
+        "pinyin": "Shùzhī zài fēng zhōng yáohuàng.",
+        "en": "Ağaç dalı rüzgarda sallanıyor."
+      },
+      {
+        "zh": "小鸟停在枝头唱歌。",
+        "pinyin": "Xiǎo niǎo tíng zài zhītóu chànggē.",
+        "en": "Küçük kuş dalın ucunda şarkı söylüyor."
+      },
+      {
+        "zh": "他折断了一根树枝。",
+        "pinyin": "Tā zhéduànle yì gēn shùzhī.",
+        "en": "Bir dalı kırdı."
+      },
+      {
+        "zh": "春天树枝上长出了新叶。",
+        "pinyin": "Chūntiān shùzhī shàng zhǎngchūle xīn yè.",
+        "en": "Baharda dallarda yeni yapraklar açtı."
+      },
+      {
+        "zh": "他买了一枝玫瑰花。",
+        "pinyin": "Tā mǎile yì zhī méiguihuā.",
+        "en": "Bir dal gül satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w7388",
+    "hanzi": "枝节",
+    "pinyin": "zhījié",
+    "meaning": "yan mesele, beklenmedik sorun",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这只是枝节问题，不影响大局。",
+        "pinyin": "Zhè zhǐshì zhījié wèntí, bù yǐngxiǎng dàjú.",
+        "en": "Bu sadece bir yan mesele, genel durumu etkilemez."
+      },
+      {
+        "zh": "谈判过程中出现了一些枝节。",
+        "pinyin": "Tánpàn guòchéng zhōng chūxiànle yìxiē zhījié.",
+        "en": "Müzakere sürecinde bazı beklenmedik sorunlar çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w7389",
+    "hanzi": "肢体",
+    "pinyin": "zhītǐ",
+    "meaning": "uzuvlar, organlar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他肢体健全。",
+        "pinyin": "Tā zhītǐ jiànquán.",
+        "en": "Uzuvları sağlam."
+      },
+      {
+        "zh": "肢体语言也很重要。",
+        "pinyin": "Zhītǐ yǔyán yě hěn zhòngyào.",
+        "en": "Beden dili de çok önemlidir."
+      },
+      {
+        "zh": "他在事故中肢体受伤。",
+        "pinyin": "Tā zài shìgù zhōng zhītǐ shòushāng.",
+        "en": "Kazada uzuvlarından yaralandı."
+      },
+      {
+        "zh": "锻炼可以增强肢体力量。",
+        "pinyin": "Duànliàn kěyǐ zēngqiáng zhītǐ lìliang.",
+        "en": "Egzersiz uzuv gücünü artırabilir."
+      },
+      {
+        "zh": "他做出夸张的肢体动作。",
+        "pinyin": "Tā zuòchū kuāzhāng de zhītǐ dòngzuò.",
+        "en": "Abartılı beden hareketleri yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7390",
+    "hanzi": "织布",
+    "pinyin": "zhībù",
+    "meaning": "kumaş dokumak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "奶奶年轻时会织布。",
+        "pinyin": "Nǎinai niánqīng shí huì zhībù.",
+        "en": "Büyükannem gençken kumaş dokuyabiliyordu."
+      },
+      {
+        "zh": "这台机器可以自动织布。",
+        "pinyin": "Zhè tái jīqì kěyǐ zìdòng zhībù.",
+        "en": "Bu makine otomatik olarak kumaş dokuyabilir."
+      },
+      {
+        "zh": "织布是一门古老的手艺。",
+        "pinyin": "Zhībù shì yì mén gǔlǎo de shǒuyì.",
+        "en": "Kumaş dokumak eski bir zanaattır."
+      },
+      {
+        "zh": "她跟母亲学习织布。",
+        "pinyin": "Tā gēn mǔqin xuéxí zhībù.",
+        "en": "Annesinden kumaş dokumayı öğreniyor."
+      },
+      {
+        "zh": "村里的妇女都会织布。",
+        "pinyin": "Cūn lǐ de fùnǚ dōu huì zhībù.",
+        "en": "Köydeki kadınların hepsi kumaş dokuyabiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7391",
+    "hanzi": "蜘蛛",
+    "pinyin": "zhīzhū",
+    "meaning": "örümcek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "墙角有一只蜘蛛。",
+        "pinyin": "Qiángjiǎo yǒu yì zhī zhīzhū.",
+        "en": "Duvarın köşesinde bir örümcek var."
+      },
+      {
+        "zh": "蜘蛛在织网。",
+        "pinyin": "Zhīzhū zài zhīwǎng.",
+        "en": "Örümcek ağ örüyor."
+      },
+      {
+        "zh": "他很怕蜘蛛。",
+        "pinyin": "Tā hěn pà zhīzhū.",
+        "en": "Örümceklerden çok korkuyor."
+      },
+      {
+        "zh": "这只蜘蛛有毒。",
+        "pinyin": "Zhè zhī zhīzhū yǒudú.",
+        "en": "Bu örümcek zehirlidir."
+      },
+      {
+        "zh": "蜘蛛网上挂着露珠。",
+        "pinyin": "Zhīzhūwǎng shàng guàzhe lùzhū.",
+        "en": "Örümcek ağının üzerinde çiy taneleri asılı."
+      }
+    ]
+  },
+  {
+    "id": "w7392",
+    "hanzi": "脂肪",
+    "pinyin": "zhīfáng",
+    "meaning": "yağ (vücutta)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他体内脂肪过多。",
+        "pinyin": "Tā tǐnèi zhīfáng guò duō.",
+        "en": "Vücudunda çok fazla yağ var."
+      },
+      {
+        "zh": "运动可以减少脂肪。",
+        "pinyin": "Yùndòng kěyǐ jiǎnshǎo zhīfáng.",
+        "en": "Egzersiz yağı azaltabilir."
+      },
+      {
+        "zh": "这种食物脂肪含量低。",
+        "pinyin": "Zhè zhǒng shíwù zhīfáng hánliàng dī.",
+        "en": "Bu tür yiyecekte yağ oranı düşüktür."
+      },
+      {
+        "zh": "适量脂肪对身体有益。",
+        "pinyin": "Shìliàng zhīfáng duì shēntǐ yǒuyì.",
+        "en": "Uygun miktarda yağ vücuda faydalıdır."
+      },
+      {
+        "zh": "他正在努力减掉腹部脂肪。",
+        "pinyin": "Tā zhèngzài nǔlì jiǎndiào fùbù zhīfáng.",
+        "en": "Karın yağlarını azaltmaya çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7393",
+    "hanzi": "直播",
+    "pinyin": "zhíbō",
+    "meaning": "canlı yayın",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "今晚有足球比赛的直播。",
+        "pinyin": "Jīnwǎn yǒu zúqiú bǐsài de zhíbō.",
+        "en": "Bu akşam futbol maçının canlı yayını var."
+      },
+      {
+        "zh": "她正在做美食直播。",
+        "pinyin": "Tā zhèngzài zuò měishí zhíbō.",
+        "en": "Yemek canlı yayını yapıyor."
+      },
+      {
+        "zh": "这场婚礼将在网上直播。",
+        "pinyin": "Zhè chǎng hūnlǐ jiāng zài wǎngshàng zhíbō.",
+        "en": "Bu düğün internette canlı yayınlanacak."
+      },
+      {
+        "zh": "很多人喜欢看直播购物。",
+        "pinyin": "Hěn duō rén xǐhuan kàn zhíbō gòuwù.",
+        "en": "Birçok insan canlı yayın alışverişi izlemeyi seviyor."
+      },
+      {
+        "zh": "记者在现场进行直播报道。",
+        "pinyin": "Jìzhě zài xiànchǎng jìnxíng zhíbō bàodào.",
+        "en": "Muhabir sahada canlı yayın yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7394",
+    "hanzi": "直达",
+    "pinyin": "zhídá",
+    "meaning": "direkt, aktarmasız",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这是一趟直达列车。",
+        "pinyin": "Zhè shì yí tàng zhídá lièchē.",
+        "en": "Bu direkt bir tren seferi."
+      },
+      {
+        "zh": "有没有直达机场的班车？",
+        "pinyin": "Yǒu méiyǒu zhídá jīchǎng de bānchē?",
+        "en": "Havaalanına direkt giden servis var mı?"
+      },
+      {
+        "zh": "这条航线直达纽约。",
+        "pinyin": "Zhè tiáo hángxiàn zhídá Niǔyuē.",
+        "en": "Bu uçuş hattı direkt New York'a gider."
+      },
+      {
+        "zh": "我们坐直达车节省了时间。",
+        "pinyin": "Wǒmen zuò zhídá chē jiéshěngle shíjiān.",
+        "en": "Direkt otobüse binerek zaman kazandık."
+      },
+      {
+        "zh": "从这里没有直达那个城市的火车。",
+        "pinyin": "Cóng zhèlǐ méiyǒu zhídá nàge chéngshì de huǒchē.",
+        "en": "Buradan o şehre direkt giden tren yok."
+      }
+    ]
+  },
+  {
+    "id": "w7395",
+    "hanzi": "直到",
+    "pinyin": "zhídào",
+    "meaning": "-e kadar (zaman)",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他直到深夜才回家。",
+        "pinyin": "Tā zhídào shēnyè cái huíjiā.",
+        "en": "Ancak gece geç saatlerde eve döndü."
+      },
+      {
+        "zh": "我们直到现在还没有消息。",
+        "pinyin": "Wǒmen zhídào xiànzài hái méiyǒu xiāoxi.",
+        "en": "Şu ana kadar hiçbir haber almadık."
+      },
+      {
+        "zh": "他直到毕业才找到工作。",
+        "pinyin": "Tā zhídào bìyè cái zhǎodào gōngzuò.",
+        "en": "Ancak mezun olduğunda iş buldu."
+      },
+      {
+        "zh": "她直到最后都没有放弃。",
+        "pinyin": "Tā zhídào zuìhòu dōu méiyǒu fàngqì.",
+        "en": "Sonuna kadar vazgeçmedi."
+      },
+      {
+        "zh": "会议直到晚上十点才结束。",
+        "pinyin": "Huìyì zhídào wǎnshang shí diǎn cái jiéshù.",
+        "en": "Toplantı ancak akşam saat onda bitti."
+      }
+    ]
+  },
+  {
+    "id": "w7396",
+    "hanzi": "直观",
+    "pinyin": "zhíguān",
+    "meaning": "görsel, sezgisel olarak açık",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这张图表非常直观。",
+        "pinyin": "Zhè zhāng túbiǎo fēicháng zhíguān.",
+        "en": "Bu grafik son derece anlaşılır."
+      },
+      {
+        "zh": "老师用直观的方式讲解概念。",
+        "pinyin": "Lǎoshī yòng zhíguān de fāngshì jiǎngjiě gàiniàn.",
+        "en": "Öğretmen kavramı görsel bir şekilde anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w7397",
+    "hanzi": "直角",
+    "pinyin": "zhíjiǎo",
+    "meaning": "dik açı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个三角形有一个直角。",
+        "pinyin": "Zhège sānjiǎoxíng yǒu yí gè zhíjiǎo.",
+        "en": "Bu üçgende bir dik açı var."
+      },
+      {
+        "zh": "墙壁应该呈直角。",
+        "pinyin": "Qiángbì yīnggāi chéng zhíjiǎo.",
+        "en": "Duvarlar dik açı oluşturmalı."
+      },
+      {
+        "zh": "他用尺子量出了直角。",
+        "pinyin": "Tā yòng chǐzi liángchūle zhíjiǎo.",
+        "en": "Cetvel kullanarak dik açıyı ölçtü."
+      },
+      {
+        "zh": "两条直线相交成直角。",
+        "pinyin": "Liǎng tiáo zhíxiàn xiāngjiāo chéng zhíjiǎo.",
+        "en": "İki düz çizgi kesişerek dik açı oluşturuyor."
+      },
+      {
+        "zh": "书桌的边角是直角。",
+        "pinyin": "Shūzhuō de biānjiǎo shì zhíjiǎo.",
+        "en": "Çalışma masasının köşesi dik açıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7398",
+    "hanzi": "直径",
+    "pinyin": "zhíjìng",
+    "meaning": "çap",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个圆的直径是十厘米。",
+        "pinyin": "Zhège yuán de zhíjìng shì shí límǐ.",
+        "en": "Bu dairenin çapı on santimetredir."
+      },
+      {
+        "zh": "请测量一下这个球的直径。",
+        "pinyin": "Qǐng cèliáng yíxià zhège qiú de zhíjìng.",
+        "en": "Lütfen bu topun çapını ölçün."
+      },
+      {
+        "zh": "地球的直径大约是一万三千公里。",
+        "pinyin": "Dìqiú de zhíjìng dàyuē shì yíwàn sānqiān gōnglǐ.",
+        "en": "Dünya'nın çapı yaklaşık on üç bin kilometredir."
+      },
+      {
+        "zh": "这个管道的直径太小了。",
+        "pinyin": "Zhège guǎndào de zhíjìng tài xiǎo le.",
+        "en": "Bu borunun çapı çok küçük."
+      },
+      {
+        "zh": "花盆的直径是二十厘米。",
+        "pinyin": "Huāpén de zhíjìng shì èrshí límǐ.",
+        "en": "Saksının çapı yirmi santimetredir."
+      }
+    ]
+  },
+  {
+    "id": "w7399",
+    "hanzi": "直觉",
+    "pinyin": "zhíjué",
+    "meaning": "önsezi, sezgi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我的直觉告诉我他在撒谎。",
+        "pinyin": "Wǒ de zhíjué gàosu wǒ tā zài sāhuǎng.",
+        "en": "Sezgim onun yalan söylediğini söylüyor."
+      },
+      {
+        "zh": "凭直觉，她做出了决定。",
+        "pinyin": "Píng zhíjué, tā zuòchūle juédìng.",
+        "en": "Sezgisiyle karar verdi."
+      },
+      {
+        "zh": "他的直觉总是很准。",
+        "pinyin": "Tā de zhíjué zǒngshì hěn zhǔn.",
+        "en": "Sezgileri her zaman çok isabetlidir."
+      },
+      {
+        "zh": "我直觉这件事没那么简单。",
+        "pinyin": "Wǒ zhíjué zhè jiàn shì méi nàme jiǎndān.",
+        "en": "İçgüdüsel olarak bu işin göründüğü kadar basit olmadığını hissediyorum."
+      },
+      {
+        "zh": "科学家有时也依赖直觉。",
+        "pinyin": "Kēxuéjiā yǒushí yě yīlài zhíjué.",
+        "en": "Bilim insanları bazen sezgiye de güvenir."
+      }
+    ]
+  },
+  {
+    "id": "w7400",
+    "hanzi": "直升机",
+    "pinyin": "zhíshēngjī",
+    "meaning": "helikopter",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "一架直升机飞过头顶。",
+        "pinyin": "Yí jià zhíshēngjī fēiguò tóudǐng.",
+        "en": "Bir helikopter tepemizden uçtu."
+      },
+      {
+        "zh": "救援队用直升机运送伤员。",
+        "pinyin": "Jiùyuánduì yòng zhíshēngjī yùnsòng shāngyuán.",
+        "en": "Kurtarma ekibi yaralıları helikopterle taşıdı."
+      },
+      {
+        "zh": "他梦想成为直升机飞行员。",
+        "pinyin": "Tā mèngxiǎng chéngwéi zhíshēngjī fēixíngyuán.",
+        "en": "Helikopter pilotu olmayı hayal ediyor."
+      },
+      {
+        "zh": "直升机降落在屋顶上。",
+        "pinyin": "Zhíshēngjī jiàngluò zài wūdǐng shàng.",
+        "en": "Helikopter çatının üzerine indi."
+      },
+      {
+        "zh": "警用直升机在城市上空巡逻。",
+        "pinyin": "Jǐngyòng zhíshēngjī zài chéngshì shàngkōng xúnluó.",
+        "en": "Polis helikopteri şehrin üzerinde devriye geziyor."
+      }
+    ]
+  },
+  {
+    "id": "w7401",
+    "hanzi": "直率",
+    "pinyin": "zhíshuài",
+    "meaning": "içten, dobra, açık sözlü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他说话很直率。",
+        "pinyin": "Tā shuōhuà hěn zhíshuài.",
+        "en": "Çok dobra konuşuyor."
+      },
+      {
+        "zh": "她性格直率，从不拐弯抹角。",
+        "pinyin": "Tā xìnggé zhíshuài, cóng bù guǎiwān-mòjiǎo.",
+        "en": "Karakteri açık sözlü, hiç dolaylı konuşmaz."
+      }
+    ]
+  },
+  {
+    "id": "w7402",
+    "hanzi": "直线",
+    "pinyin": "zhíxiàn",
+    "meaning": "düz çizgi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请画一条直线。",
+        "pinyin": "Qǐng huà yì tiáo zhíxiàn.",
+        "en": "Lütfen düz bir çizgi çizin."
+      },
+      {
+        "zh": "销量呈直线上升。",
+        "pinyin": "Xiāoliàng chéng zhíxiàn shàngshēng.",
+        "en": "Satışlar dikey olarak yükseliyor."
+      },
+      {
+        "zh": "两点之间直线最短。",
+        "pinyin": "Liǎng diǎn zhījiān zhíxiàn zuìduǎn.",
+        "en": "İki nokta arasındaki en kısa yol düz çizgidir."
+      },
+      {
+        "zh": "价格直线下降。",
+        "pinyin": "Jiàgé zhíxiàn xiàjiàng.",
+        "en": "Fiyatlar dikey olarak düştü."
+      },
+      {
+        "zh": "这条路是一条笔直的直线。",
+        "pinyin": "Zhè tiáo lù shì yì tiáo bǐzhí de zhíxiàn.",
+        "en": "Bu yol dümdüz bir çizgi."
+      }
+    ]
+  },
+  {
+    "id": "w7403",
+    "hanzi": "直言",
+    "pinyin": "zhíyán",
+    "meaning": "açıkça söylemek, dobra konuşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他直言不讳地提出了批评。",
+        "pinyin": "Tā zhíyán-búhuì de tíchūle pīpíng.",
+        "en": "Hiç çekinmeden eleştirisini açıkça söyledi."
+      },
+      {
+        "zh": "恕我直言，这个方案有问题。",
+        "pinyin": "Shù wǒ zhíyán, zhège fāng'àn yǒu wèntí.",
+        "en": "Açık konuşmama izin verirseniz, bu planda sorun var."
+      }
+    ]
+  },
+  {
+    "id": "w7404",
+    "hanzi": "直译",
+    "pinyin": "zhíyì",
+    "meaning": "birebir çeviri yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这个短语不能直译。",
+        "pinyin": "Zhège duǎnyǔ bùnéng zhíyì.",
+        "en": "Bu ifade birebir çevrilemez."
+      },
+      {
+        "zh": "直译有时会失去原文的意味。",
+        "pinyin": "Zhíyì yǒushí huì shīqù yuánwén de yìwèi.",
+        "en": "Birebir çeviri bazen orijinal metnin anlamını kaybettirir."
+      }
+    ]
+  },
+  {
+    "id": "w7405",
+    "hanzi": "直至",
+    "pinyin": "zhízhì",
+    "meaning": "...zamanına kadar sürmek, -e kadar devam etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他工作直至深夜。",
+        "pinyin": "Tā gōngzuò zhízhì shēnyè.",
+        "en": "Gece geç saatlere kadar çalıştı."
+      },
+      {
+        "zh": "谈判直至次日凌晨才结束。",
+        "pinyin": "Tánpàn zhízhì cìrì língchén cái jiéshù.",
+        "en": "Müzakere ancak ertesi gün sabaha karşı bitti."
+      }
+    ]
+  },
+  {
+    "id": "w7406",
+    "hanzi": "值",
+    "pinyin": "zhí",
+    "meaning": "değer",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个数值是多少？",
+        "pinyin": "Zhège shùzhí shì duōshao?",
+        "en": "Bu değer kaçtır?"
+      },
+      {
+        "zh": "这幅画很有价值。",
+        "pinyin": "Zhè fú huà hěn yǒu jiàzhí.",
+        "en": "Bu tablo çok değerli."
+      },
+      {
+        "zh": "他今天值夜班。",
+        "pinyin": "Tā jīntiān zhí yèbān.",
+        "en": "Bugün gece nöbeti tutuyor."
+      },
+      {
+        "zh": "这本书值得一读。",
+        "pinyin": "Zhè běn shū zhíde yì dú.",
+        "en": "Bu kitap okumaya değer."
+      },
+      {
+        "zh": "测量结果的数值超出了预期。",
+        "pinyin": "Cèliáng jiéguǒ de shùzhí chāochūle yùqī.",
+        "en": "Ölçüm sonucundaki değer beklenenin üzerinde çıktı."
+      }
+    ]
   }
 ]

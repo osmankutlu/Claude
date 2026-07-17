@@ -195910,5 +195910,758 @@
         "en": "Şirket müşterilere ürün deneme hizmeti sunuyor."
       }
     ]
+  },
+  {
+    "id": "w5757",
+    "hanzi": "示范",
+    "pinyin": "shìfàn",
+    "meaning": "örnek olmak, göstermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老师给学生们做了示范。",
+        "pinyin": "Lǎoshī gěi xuéshengmen zuò le shìfàn.",
+        "en": "Öğretmen öğrencilere örnek gösterdi."
+      },
+      {
+        "zh": "教练亲自示范了动作要领。",
+        "pinyin": "Jiàoliàn qīnzì shìfàn le dòngzuò yàolǐng.",
+        "en": "Antrenör bizzat hareketin püf noktalarını gösterdi."
+      },
+      {
+        "zh": "这是一个成功的示范案例。",
+        "pinyin": "Zhè shì yí ge chénggōng de shìfàn ànlì.",
+        "en": "Bu başarılı bir örnek vaka."
+      },
+      {
+        "zh": "他为大家示范了如何使用这台机器。",
+        "pinyin": "Tā wèi dàjiā shìfàn le rúhé shǐyòng zhè tái jīqì.",
+        "en": "Bu makineyi nasıl kullanacağını herkese gösterdi."
+      },
+      {
+        "zh": "医生示范了正确的急救方法。",
+        "pinyin": "Yīshēng shìfàn le zhèngquè de jíjiù fāngfǎ.",
+        "en": "Doktor doğru ilk yardım yöntemini gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w5758",
+    "hanzi": "示威",
+    "pinyin": "shìwēi",
+    "meaning": "gösteri düzenlemek, güç gösterisi yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "民众走上街头示威。",
+        "pinyin": "Mínzhòng zǒushàng jiētóu shìwēi.",
+        "en": "Halk sokaklara çıkıp gösteri yaptı."
+      },
+      {
+        "zh": "这场示威活动持续了三天。",
+        "pinyin": "Zhè chǎng shìwēi huódòng chíxù le sān tiān.",
+        "en": "Bu gösteri etkinliği üç gün sürdü."
+      }
+    ]
+  },
+  {
+    "id": "w5759",
+    "hanzi": "示意图",
+    "pinyin": "shìyìtú",
+    "meaning": "şema, kroki",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请参照示意图安装设备。",
+        "pinyin": "Qǐng cānzhào shìyìtú ānzhuāng shèbèi.",
+        "en": "Lütfen şemaya bakarak cihazı kurun."
+      },
+      {
+        "zh": "工程师画了一张示意图。",
+        "pinyin": "Gōngchéngshī huà le yì zhāng shìyìtú.",
+        "en": "Mühendis bir kroki çizdi."
+      }
+    ]
+  },
+  {
+    "id": "w5760",
+    "hanzi": "视察",
+    "pinyin": "shìchá",
+    "meaning": "teftiş etmek, denetlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "领导来工厂视察工作。",
+        "pinyin": "Lǐngdǎo lái gōngchǎng shìchá gōngzuò.",
+        "en": "Yönetici fabrikaya çalışmayı denetlemeye geldi."
+      },
+      {
+        "zh": "官员定期视察各个部门。",
+        "pinyin": "Guānyuán dìngqī shìchá gège bùmén.",
+        "en": "Yetkili düzenli olarak çeşitli birimleri denetliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5761",
+    "hanzi": "视觉",
+    "pinyin": "shìjué",
+    "meaning": "görme duyusu, görsel algı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "这部电影的视觉效果非常出色。",
+        "pinyin": "Zhè bù diànyǐng de shìjué xiàoguǒ fēicháng chūsè.",
+        "en": "Bu filmin görsel efektleri çok başarılı."
+      },
+      {
+        "zh": "视觉是人类重要的感官之一。",
+        "pinyin": "Shìjué shì rénlèi zhòngyào de gǎnguān zhīyī.",
+        "en": "Görme, insanın önemli duyularından biridir."
+      },
+      {
+        "zh": "这幅画给人强烈的视觉冲击。",
+        "pinyin": "Zhè fú huà gěi rén qiángliè de shìjué chōngjī.",
+        "en": "Bu tablo insana güçlü bir görsel etki bırakıyor."
+      },
+      {
+        "zh": "设计师注重产品的视觉美感。",
+        "pinyin": "Shèjìshī zhùzhòng chǎnpǐn de shìjué měigǎn.",
+        "en": "Tasarımcı ürünün görsel estetiğine önem veriyor."
+      },
+      {
+        "zh": "长时间看屏幕会造成视觉疲劳。",
+        "pinyin": "Chángshíjiān kàn píngmù huì zàochéng shìjué píláo.",
+        "en": "Ekrana uzun süre bakmak görsel yorgunluğa neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5762",
+    "hanzi": "视力",
+    "pinyin": "shìlì",
+    "meaning": "görme yeteneği, görüş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的视力很好。",
+        "pinyin": "Tā de shìlì hěn hǎo.",
+        "en": "Görüşü çok iyi."
+      },
+      {
+        "zh": "长期使用手机会损害视力。",
+        "pinyin": "Chángqī shǐyòng shǒujī huì sǔnhài shìlì.",
+        "en": "Telefonu uzun süre kullanmak görüşe zarar verebilir."
+      },
+      {
+        "zh": "他去医院检查了视力。",
+        "pinyin": "Tā qù yīyuàn jiǎnchá le shìlì.",
+        "en": "Görüşünü kontrol ettirmek için hastaneye gitti."
+      },
+      {
+        "zh": "多吃胡萝卜有益于视力。",
+        "pinyin": "Duō chī húluóbo yǒuyì yú shìlì.",
+        "en": "Çok havuç yemek göz sağlığına faydalıdır."
+      },
+      {
+        "zh": "他的视力逐渐下降了。",
+        "pinyin": "Tā de shìlì zhújiàn xiàjiàng le.",
+        "en": "Görüşü giderek zayıfladı."
+      }
+    ]
+  },
+  {
+    "id": "w5763",
+    "hanzi": "视野",
+    "pinyin": "shìyě",
+    "meaning": "görüş alanı, ufuk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "站在山顶上视野非常开阔。",
+        "pinyin": "Zhàn zài shāndǐng shàng shìyě fēicháng kāikuò.",
+        "en": "Dağın zirvesinde durunca görüş alanı çok geniş."
+      },
+      {
+        "zh": "旅行可以拓宽我们的视野。",
+        "pinyin": "Lǚxíng kěyǐ tuòkuān wǒmen de shìyě.",
+        "en": "Seyahat ufkumuzu genişletebilir."
+      },
+      {
+        "zh": "他从不同的角度扩展了视野。",
+        "pinyin": "Tā cóng bùtóng de jiǎodù kuòzhǎn le shìyě.",
+        "en": "Farklı açılardan bakarak ufkunu genişletti."
+      },
+      {
+        "zh": "阅读能够开阔一个人的视野。",
+        "pinyin": "Yuèdú nénggòu kāikuò yí ge rén de shìyě.",
+        "en": "Okumak bir insanın ufkunu genişletebilir."
+      },
+      {
+        "zh": "国际交流让他有了更广阔的视野。",
+        "pinyin": "Guójì jiāoliú ràng tā yǒu le gèng guǎngkuò de shìyě.",
+        "en": "Uluslararası iletişim ona daha geniş bir ufuk kazandırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5764",
+    "hanzi": "士气",
+    "pinyin": "shìqì",
+    "meaning": "moral, ordu ruhu, mücadele azmi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这场胜利极大地鼓舞了士气。",
+        "pinyin": "Zhè chǎng shènglì jídà de gǔwǔ le shìqì.",
+        "en": "Bu zafer morali büyük ölçüde yükseltti."
+      },
+      {
+        "zh": "球队的士气十分高涨。",
+        "pinyin": "Qiúduì de shìqì shífēn gāozhǎng.",
+        "en": "Takımın morali oldukça yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w5765",
+    "hanzi": "事故",
+    "pinyin": "shìgù",
+    "meaning": "kaza",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "路上发生了一起交通事故。",
+        "pinyin": "Lùshàng fāshēng le yìqǐ jiāotōng shìgù.",
+        "en": "Yolda bir trafik kazası meydana geldi."
+      },
+      {
+        "zh": "他在事故中受了轻伤。",
+        "pinyin": "Tā zài shìgù zhōng shòu le qīngshāng.",
+        "en": "Kazada hafif yaralandı."
+      },
+      {
+        "zh": "工厂需要防止安全事故的发生。",
+        "pinyin": "Gōngchǎng xūyào fángzhǐ ānquán shìgù de fāshēng.",
+        "en": "Fabrikanın güvenlik kazalarını önlemesi gerekiyor."
+      },
+      {
+        "zh": "警方正在调查事故原因。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá shìgù yuányīn.",
+        "en": "Polis kazanın nedenini araştırıyor."
+      },
+      {
+        "zh": "这次事故没有造成人员伤亡。",
+        "pinyin": "Zhè cì shìgù méiyǒu zàochéng rényuán shāngwáng.",
+        "en": "Bu kaza can kaybına neden olmadı."
+      }
+    ]
+  },
+  {
+    "id": "w5766",
+    "hanzi": "事件",
+    "pinyin": "shìjiàn",
+    "meaning": "olay, hadise",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这起事件引起了社会的广泛关注。",
+        "pinyin": "Zhè qǐ shìjiàn yǐnqǐ le shèhuì de guǎngfàn guānzhù.",
+        "en": "Bu olay toplumun geniş çapta ilgisini çekti."
+      },
+      {
+        "zh": "警方正在调查这起事件。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá zhè qǐ shìjiàn.",
+        "en": "Polis bu olayı araştırıyor."
+      },
+      {
+        "zh": "这是一起历史性的事件。",
+        "pinyin": "Zhè shì yìqǐ lìshǐxìng de shìjiàn.",
+        "en": "Bu tarihi bir olaydır."
+      },
+      {
+        "zh": "他记录了这次事件的全部经过。",
+        "pinyin": "Tā jìlù le zhè cì shìjiàn de quánbù jīngguò.",
+        "en": "Bu olayın tüm sürecini kaydetti."
+      },
+      {
+        "zh": "这个事件改变了他的一生。",
+        "pinyin": "Zhège shìjiàn gǎibiàn le tā de yìshēng.",
+        "en": "Bu olay onun hayatını değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5767",
+    "hanzi": "事迹",
+    "pinyin": "shìjì",
+    "meaning": "başarı, kahramanlık öyküsü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "他的英雄事迹感动了很多人。",
+        "pinyin": "Tā de yīngxióng shìjì gǎndòng le hěnduō rén.",
+        "en": "Kahramanlık öyküsü birçok insanı duygulandırdı."
+      },
+      {
+        "zh": "这本书记录了他一生的先进事迹。",
+        "pinyin": "Zhè běn shū jìlù le tā yìshēng de xiānjìn shìjì.",
+        "en": "Bu kitap onun hayatındaki örnek başarıları kaydetti."
+      }
+    ]
+  },
+  {
+    "id": "w5768",
+    "hanzi": "事例",
+    "pinyin": "shìlì",
+    "meaning": "örnek, vaka",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他举了一个具体的事例。",
+        "pinyin": "Tā jǔ le yí ge jùtǐ de shìlì.",
+        "en": "Somut bir örnek verdi."
+      },
+      {
+        "zh": "这本书里有很多成功的事例。",
+        "pinyin": "Zhè běn shū lǐ yǒu hěnduō chénggōng de shìlì.",
+        "en": "Bu kitapta birçok başarı örneği var."
+      }
+    ]
+  },
+  {
+    "id": "w5769",
+    "hanzi": "事实上",
+    "pinyin": "shìshíshang",
+    "meaning": "gerçekte, aslında",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "事实上，这件事比想象中复杂。",
+        "pinyin": "Shìshíshang, zhè jiàn shì bǐ xiǎngxiàng zhōng fùzá.",
+        "en": "Aslında bu iş düşünüldüğünden daha karmaşık."
+      },
+      {
+        "zh": "他表面平静，事实上心里很紧张。",
+        "pinyin": "Tā biǎomiàn píngjìng, shìshíshang xīnlǐ hěn jǐnzhāng.",
+        "en": "Görünüşte sakin ama aslında içten içe çok gergin."
+      },
+      {
+        "zh": "事实上，这个计划早就失败了。",
+        "pinyin": "Shìshíshang, zhège jìhuà zǎojiù shībài le.",
+        "en": "Aslında bu plan çoktan başarısız oldu."
+      },
+      {
+        "zh": "事实上他从未离开过这个城市。",
+        "pinyin": "Shìshíshang tā cóngwèi líkāiguò zhège chéngshì.",
+        "en": "Aslında hiç bu şehirden ayrılmadı."
+      },
+      {
+        "zh": "事实上，问题的根源在别处。",
+        "pinyin": "Shìshíshang, wèntí de gēnyuán zài biéchù.",
+        "en": "Aslında sorunun kaynağı başka bir yerde."
+      }
+    ]
+  },
+  {
+    "id": "w5770",
+    "hanzi": "事务",
+    "pinyin": "shìwù",
+    "meaning": "işler, meseleler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他负责处理日常事务。",
+        "pinyin": "Tā fùzé chǔlǐ rìcháng shìwù.",
+        "en": "Günlük işleri halletmekle sorumlu."
+      },
+      {
+        "zh": "公司的行政事务很繁琐。",
+        "pinyin": "Gōngsī de xíngzhèng shìwù hěn fánsuǒ.",
+        "en": "Şirketin idari işleri çok karmaşık."
+      },
+      {
+        "zh": "他每天要处理大量事务。",
+        "pinyin": "Tā měitiān yào chǔlǐ dàliàng shìwù.",
+        "en": "Her gün büyük miktarda iş halletmesi gerekiyor."
+      },
+      {
+        "zh": "这属于内部事务，不便公开。",
+        "pinyin": "Zhè shǔyú nèibù shìwù, búbiàn gōngkāi.",
+        "en": "Bu iç işlere ait olduğu için açıklanması uygun değil."
+      },
+      {
+        "zh": "他辞去了所有的事务性工作。",
+        "pinyin": "Tā cíqù le suǒyǒu de shìwùxìng gōngzuò.",
+        "en": "Tüm idari işlerden istifa etti."
+      }
+    ]
+  },
+  {
+    "id": "w5771",
+    "hanzi": "事项",
+    "pinyin": "shìxiàng",
+    "meaning": "madde, konu, husus",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请注意以下几点注意事项。",
+        "pinyin": "Qǐng zhùyì yǐxià jǐdiǎn zhùyì shìxiàng.",
+        "en": "Lütfen aşağıdaki dikkat edilmesi gereken hususlara dikkat edin."
+      },
+      {
+        "zh": "会议讨论了几个重要事项。",
+        "pinyin": "Huìyì tǎolùn le jǐge zhòngyào shìxiàng.",
+        "en": "Toplantıda birkaç önemli konu tartışıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5772",
+    "hanzi": "事业",
+    "pinyin": "shìyè",
+    "meaning": "kariyer, iş, girişim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他的事业十分成功。",
+        "pinyin": "Tā de shìyè shífēn chénggōng.",
+        "en": "Kariyeri oldukça başarılı."
+      },
+      {
+        "zh": "她把全部精力都投入到了事业中。",
+        "pinyin": "Tā bǎ quánbù jīnglì dōu tóurù dào le shìyè zhōng.",
+        "en": "Tüm enerjisini kariyerine adadı."
+      },
+      {
+        "zh": "他放弃了稳定的工作，去追求自己的事业。",
+        "pinyin": "Tā fàngqì le wěndìng de gōngzuò, qù zhuīqiú zìjǐ de shìyè.",
+        "en": "İstikrarlı işini bırakıp kendi kariyerinin peşinden gitti."
+      },
+      {
+        "zh": "这是一项造福人类的伟大事业。",
+        "pinyin": "Zhè shì yí xiàng zàofú rénlèi de wěidà shìyè.",
+        "en": "Bu, insanlığa fayda sağlayan büyük bir girişimdir."
+      },
+      {
+        "zh": "他在自己的事业中取得了巨大成就。",
+        "pinyin": "Tā zài zìjǐ de shìyè zhōng qǔdé le jùdà chéngjiù.",
+        "en": "Kendi kariyerinde büyük başarılar elde etti."
+      }
+    ]
+  },
+  {
+    "id": "w5773",
+    "hanzi": "誓",
+    "pinyin": "shì",
+    "meaning": "yemin",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他发誓永远不再撒谎。",
+        "pinyin": "Tā fāshì yǒngyuǎn bú zài sāhuǎng.",
+        "en": "Bir daha asla yalan söylemeyeceğine yemin etti."
+      },
+      {
+        "zh": "士兵们宣誓效忠祖国。",
+        "pinyin": "Shìbīngmen xuānshì xiàozhōng zǔguó.",
+        "en": "Askerler vatana sadakat yemini etti."
+      }
+    ]
+  },
+  {
+    "id": "w5774",
+    "hanzi": "誓言",
+    "pinyin": "shìyán",
+    "meaning": "yemin sözü, ant",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他信守了自己的誓言。",
+        "pinyin": "Tā xìnshǒu le zìjǐ de shìyán.",
+        "en": "Kendi yemin sözüne sadık kaldı."
+      },
+      {
+        "zh": "他们许下了终身相守的誓言。",
+        "pinyin": "Tāmen xǔxià le zhōngshēn xiāngshǒu de shìyán.",
+        "en": "Ömür boyu birlikte olma sözü verdiler."
+      }
+    ]
+  },
+  {
+    "id": "w5775",
+    "hanzi": "逝世",
+    "pinyin": "shìshì",
+    "meaning": "vefat etmek, ölmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这位科学家于去年逝世。",
+        "pinyin": "Zhè wèi kēxuéjiā yú qùnián shìshì.",
+        "en": "Bu bilim insanı geçen yıl vefat etti."
+      },
+      {
+        "zh": "他的祖父上个月逝世了。",
+        "pinyin": "Tā de zǔfù shàngge yuè shìshì le.",
+        "en": "Dedesi geçen ay vefat etti."
+      }
+    ]
+  },
+  {
+    "id": "w5776",
+    "hanzi": "势力",
+    "pinyin": "shìli",
+    "meaning": "güç, kuvvet, nüfuz",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个组织的势力越来越大。",
+        "pinyin": "Zhège zǔzhī de shìli yuèláiyuè dà.",
+        "en": "Bu örgütün gücü giderek büyüyor."
+      },
+      {
+        "zh": "他在当地很有势力。",
+        "pinyin": "Tā zài dāngdì hěn yǒu shìli.",
+        "en": "Yerelde büyük bir nüfuza sahip."
+      }
+    ]
+  },
+  {
+    "id": "w5777",
+    "hanzi": "势头",
+    "pinyin": "shìtóu",
+    "meaning": "ivme, eğilim, gidişat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "经济发展势头良好。",
+        "pinyin": "Jīngjì fāzhǎn shìtóu liánghǎo.",
+        "en": "Ekonomik gelişme ivmesi iyi."
+      },
+      {
+        "zh": "疫情的蔓延势头得到了控制。",
+        "pinyin": "Yìqíng de mànyán shìtóu dédào le kòngzhì.",
+        "en": "Salgının yayılma ivmesi kontrol altına alındı."
+      }
+    ]
+  },
+  {
+    "id": "w5778",
+    "hanzi": "嗜好",
+    "pinyin": "shìhào",
+    "meaning": "düşkünlük, alışkanlık, tiryakilik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "喝咖啡是他的嗜好。",
+        "pinyin": "Hē kāfēi shì tā de shìhào.",
+        "en": "Kahve içmek onun bir tutkusu."
+      },
+      {
+        "zh": "抽烟这种嗜好对健康有害。",
+        "pinyin": "Chōuyān zhè zhǒng shìhào duì jiànkāng yǒuhài.",
+        "en": "Sigara içmek gibi bir alışkanlık sağlığa zararlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5779",
+    "hanzi": "释放",
+    "pinyin": "shìfàng",
+    "meaning": "serbest bırakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "犯人被提前释放了。",
+        "pinyin": "Fànrén bèi tíqián shìfàng le.",
+        "en": "Mahkum erken tahliye edildi."
+      },
+      {
+        "zh": "运动可以释放压力。",
+        "pinyin": "Yùndòng kěyǐ shìfàng yālì.",
+        "en": "Egzersiz stresi serbest bırakabilir."
+      },
+      {
+        "zh": "植物在白天释放氧气。",
+        "pinyin": "Zhíwù zài báitiān shìfàng yǎngqì.",
+        "en": "Bitkiler gündüz oksijen salar."
+      },
+      {
+        "zh": "他终于释放了心中的怒气。",
+        "pinyin": "Tā zhōngyú shìfàng le xīnzhōng de nùqì.",
+        "en": "Sonunda içindeki öfkeyi serbest bıraktı."
+      },
+      {
+        "zh": "警方决定释放这名嫌疑人。",
+        "pinyin": "Jǐngfāng juédìng shìfàng zhè míng xiányírén.",
+        "en": "Polis bu şüpheliyi serbest bırakmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5780",
+    "hanzi": "适才",
+    "pinyin": "shìcái",
+    "meaning": "biraz önce, az önce",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "适才他还在这里，怎么不见了？",
+        "pinyin": "Shìcái tā hái zài zhèlǐ, zěnme bújiàn le?",
+        "en": "Az önce buradaydı, nasıl kayboldu?"
+      },
+      {
+        "zh": "适才发生的事情让人震惊。",
+        "pinyin": "Shìcái fāshēng de shìqing ràng rén zhènjīng.",
+        "en": "Az önce olan olay insanı şaşırttı."
+      }
+    ]
+  },
+  {
+    "id": "w5781",
+    "hanzi": "适当",
+    "pinyin": "shìdàng",
+    "meaning": "uygun, yerinde",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "请选择适当的时间联系我。",
+        "pinyin": "Qǐng xuǎnzé shìdàng de shíjiān liánxì wǒ.",
+        "en": "Lütfen uygun bir zamanda benimle iletişime geçin."
+      },
+      {
+        "zh": "适当的运动有益健康。",
+        "pinyin": "Shìdàng de yùndòng yǒuyì jiànkāng.",
+        "en": "Uygun miktarda egzersiz sağlığa faydalıdır."
+      },
+      {
+        "zh": "他用了适当的方法解决了问题。",
+        "pinyin": "Tā yòng le shìdàng de fāngfǎ jiějué le wèntí.",
+        "en": "Uygun bir yöntem kullanarak sorunu çözdü."
+      },
+      {
+        "zh": "这句话用词不太适当。",
+        "pinyin": "Zhè jù huà yòngcí bú tài shìdàng.",
+        "en": "Bu cümlenin kelime seçimi pek uygun değil."
+      },
+      {
+        "zh": "给孩子适当的自由是有必要的。",
+        "pinyin": "Gěi háizi shìdàng de zìyóu shì yǒu bìyào de.",
+        "en": "Çocuğa uygun bir özgürlük vermek gereklidir."
+      }
+    ]
+  },
+  {
+    "id": "w5782",
+    "hanzi": "适度",
+    "pinyin": "shìdù",
+    "meaning": "orta seviyede, yeterli, ölçülü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "饮食要适度，不能过量。",
+        "pinyin": "Yǐnshí yào shìdù, bùnéng guòliàng.",
+        "en": "Beslenme ölçülü olmalı, aşırıya kaçılmamalı."
+      },
+      {
+        "zh": "适度的压力有助于提高效率。",
+        "pinyin": "Shìdù de yālì yǒuzhùyú tígāo xiàolǜ.",
+        "en": "Ölçülü bir baskı verimliliği artırmaya yardımcı olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5783",
+    "hanzi": "氏族",
+    "pinyin": "shìzú",
+    "meaning": "kabile, boy, soy",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "原始社会以氏族为基本单位。",
+        "pinyin": "Yuánshǐ shèhuì yǐ shìzú wéi jīběn dānwèi.",
+        "en": "İlkel toplum, kabileyi temel birim olarak alır."
+      },
+      {
+        "zh": "这个氏族有着悠久的历史。",
+        "pinyin": "Zhège shìzú yǒuzhe yōujiǔ de lìshǐ.",
+        "en": "Bu kabilenin köklü bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w5784",
+    "hanzi": "收场",
+    "pinyin": "shōuchǎng",
+    "meaning": "bitirmek, sonuçlanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这场闹剧终于收场了。",
+        "pinyin": "Zhè chǎng nàojù zhōngyú shōuchǎng le.",
+        "en": "Bu kargaşa sonunda son buldu."
+      },
+      {
+        "zh": "事情最终以和解收场。",
+        "pinyin": "Shìqing zuìzhōng yǐ héjiě shōuchǎng.",
+        "en": "Olay sonunda uzlaşmayla sonuçlandı."
+      }
+    ]
   }
 ]

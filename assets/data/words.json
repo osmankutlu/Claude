@@ -198229,5 +198229,833 @@
         "en": "Sekreter bu toplantıyı yönetti."
       }
     ]
+  },
+  {
+    "id": "w5841",
+    "hanzi": "书面",
+    "pinyin": "shūmiàn",
+    "meaning": "yazılı, yazılı olarak",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请提供书面申请。",
+        "pinyin": "Qǐng tígōng shūmiàn shēnqǐng.",
+        "en": "Lütfen yazılı başvuru sunun."
+      },
+      {
+        "zh": "他做出了书面承诺。",
+        "pinyin": "Tā zuòchū le shūmiàn chéngnuò.",
+        "en": "Yazılı bir taahhütte bulundu."
+      },
+      {
+        "zh": "合同必须以书面形式签订。",
+        "pinyin": "Hétong bìxū yǐ shūmiàn xíngshì qiāndìng.",
+        "en": "Sözleşme yazılı olarak imzalanmalıdır."
+      },
+      {
+        "zh": "请书面回答这些问题。",
+        "pinyin": "Qǐng shūmiàn huídá zhèxiē wèntí.",
+        "en": "Lütfen bu soruları yazılı olarak cevaplayın."
+      },
+      {
+        "zh": "口语和书面语有一定区别。",
+        "pinyin": "Kǒuyǔ hé shūmiànyǔ yǒu yídìng qūbié.",
+        "en": "Konuşma dili ile yazı dili arasında belirli bir fark vardır."
+      }
+    ]
+  },
+  {
+    "id": "w5842",
+    "hanzi": "书写",
+    "pinyin": "shūxiě",
+    "meaning": "yazmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用毛笔书写汉字。",
+        "pinyin": "Tā yòng máobǐ shūxiě hànzì.",
+        "en": "Fırça ile Çince karakterler yazıyor."
+      },
+      {
+        "zh": "请工整地书写你的名字。",
+        "pinyin": "Qǐng gōngzhěng de shūxiě nǐ de míngzi.",
+        "en": "Lütfen isminizi düzgün bir şekilde yazın."
+      },
+      {
+        "zh": "这份文件需要用蓝色墨水书写。",
+        "pinyin": "Zhè fèn wénjiàn xūyào yòng lánsè mòshuǐ shūxiě.",
+        "en": "Bu belgenin mavi mürekkeple yazılması gerekiyor."
+      },
+      {
+        "zh": "他正在书写一封重要的信。",
+        "pinyin": "Tā zhèngzài shūxiě yì fēng zhòngyào de xìn.",
+        "en": "Önemli bir mektup yazıyor."
+      },
+      {
+        "zh": "他用他自己的方式书写历史。",
+        "pinyin": "Tā yòng tā zìjǐ de fāngshì shūxiě lìshǐ.",
+        "en": "Kendi tarzıyla tarih yazıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5843",
+    "hanzi": "书信",
+    "pinyin": "shūxìn",
+    "meaning": "mektup",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他们通过书信保持联系。",
+        "pinyin": "Tāmen tōngguò shūxìn bǎochí liánxì.",
+        "en": "Mektuplaşarak iletişimi sürdürüyorlar."
+      },
+      {
+        "zh": "这是一封珍贵的书信。",
+        "pinyin": "Zhè shì yì fēng zhēnguì de shūxìn.",
+        "en": "Bu değerli bir mektuptur."
+      },
+      {
+        "zh": "他保存了父母的所有书信。",
+        "pinyin": "Tā bǎocún le fùmǔ de suǒyǒu shūxìn.",
+        "en": "Ebeveynlerinin tüm mektuplarını sakladı."
+      },
+      {
+        "zh": "书信是过去最常见的交流方式。",
+        "pinyin": "Shūxìn shì guòqù zuì chángjiàn de jiāoliú fāngshì.",
+        "en": "Mektup, geçmişte en yaygın iletişim şekliydi."
+      },
+      {
+        "zh": "她写了一封感人的书信。",
+        "pinyin": "Tā xiě le yì fēng gǎnrén de shūxìn.",
+        "en": "Duygulandırıcı bir mektup yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w5844",
+    "hanzi": "书桌",
+    "pinyin": "shūzhuō",
+    "meaning": "çalışma masası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他坐在书桌前写作业。",
+        "pinyin": "Tā zuò zài shūzhuō qián xiě zuòyè.",
+        "en": "Çalışma masasının önünde oturup ödev yapıyor."
+      },
+      {
+        "zh": "书桌上堆满了书籍。",
+        "pinyin": "Shūzhuō shàng duīmǎn le shūjí.",
+        "en": "Çalışma masası kitaplarla dolu."
+      },
+      {
+        "zh": "他买了一张新的书桌。",
+        "pinyin": "Tā mǎi le yì zhāng xīn de shūzhuō.",
+        "en": "Yeni bir çalışma masası satın aldı."
+      },
+      {
+        "zh": "她的书桌整理得很干净。",
+        "pinyin": "Tā de shūzhuō zhěnglǐ de hěn gānjìng.",
+        "en": "Çalışma masasını çok temiz düzenledi."
+      },
+      {
+        "zh": "书桌旁放着一盏台灯。",
+        "pinyin": "Shūzhuō páng fàngzhe yì zhǎn táidēng.",
+        "en": "Çalışma masasının yanında bir masa lambası var."
+      }
+    ]
+  },
+  {
+    "id": "w5845",
+    "hanzi": "梳",
+    "pinyin": "shū",
+    "meaning": "tarak; saçını taramak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她用梳子梳头发。",
+        "pinyin": "Tā yòng shūzi shū tóufa.",
+        "en": "Tarakla saçını tarıyor."
+      },
+      {
+        "zh": "他忘了带梳子。",
+        "pinyin": "Tā wàng le dài shūzi.",
+        "en": "Tarağını almayı unuttu."
+      },
+      {
+        "zh": "她每天早上都梳头。",
+        "pinyin": "Tā měitiān zǎoshang dōu shūtóu.",
+        "en": "Her sabah saçını tarıyor."
+      },
+      {
+        "zh": "这把梳子是木头做的。",
+        "pinyin": "Zhè bǎ shūzi shì mùtou zuò de.",
+        "en": "Bu tarak ahşaptan yapılmış."
+      },
+      {
+        "zh": "妈妈帮女儿梳了一个漂亮的辫子。",
+        "pinyin": "Māma bāng nǚ'ér shū le yí ge piàoliang de biànzi.",
+        "en": "Anne kızının saçını güzel bir örgüyle taradı."
+      }
+    ]
+  },
+  {
+    "id": "w5846",
+    "hanzi": "疏忽",
+    "pinyin": "shūhu",
+    "meaning": "dikkatsizlik, gözden kaçırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "由于疏忽，他忘记关灯了。",
+        "pinyin": "Yóuyú shūhu, tā wàngjì guāndēng le.",
+        "en": "Dikkatsizlik yüzünden ışığı kapatmayı unuttu."
+      },
+      {
+        "zh": "这次事故是因为管理疏忽造成的。",
+        "pinyin": "Zhè cì shìgù shì yīnwèi guǎnlǐ shūhu zàochéng de.",
+        "en": "Bu kaza yönetim ihmali yüzünden meydana geldi."
+      },
+      {
+        "zh": "他一时疏忽，犯了一个大错误。",
+        "pinyin": "Tā yìshí shūhu, fàn le yí ge dà cuòwù.",
+        "en": "Bir anlık dikkatsizlikle büyük bir hata yaptı."
+      },
+      {
+        "zh": "父母不能疏忽孩子的教育。",
+        "pinyin": "Fùmǔ bùnéng shūhu háizi de jiàoyù.",
+        "en": "Ebeveynler çocuklarının eğitimini ihmal edemez."
+      },
+      {
+        "zh": "他因疏忽大意，弄丢了钥匙。",
+        "pinyin": "Tā yīn shūhu-dàyì, nòngdiū le yàoshi.",
+        "en": "Dikkatsizlik ve umursamazlık yüzünden anahtarını kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w5847",
+    "hanzi": "疏散",
+    "pinyin": "shūsàn",
+    "meaning": "dağıtmak, tahliye etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "火灾发生后，人们被迅速疏散。",
+        "pinyin": "Huǒzāi fāshēng hòu, rénmen bèi xùnsù shūsàn.",
+        "en": "Yangın çıktıktan sonra insanlar hızlıca tahliye edildi."
+      },
+      {
+        "zh": "警方要求居民疏散到安全地带。",
+        "pinyin": "Jǐngfāng yāoqiú jūmín shūsàn dào ānquán dìdài.",
+        "en": "Polis sakinlerin güvenli bölgeye tahliye edilmesini istedi."
+      }
+    ]
+  },
+  {
+    "id": "w5848",
+    "hanzi": "疏远",
+    "pinyin": "shūyuǎn",
+    "meaning": "uzaklaşmak, soğuk davranmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他们的关系渐渐疏远了。",
+        "pinyin": "Tāmen de guānxì jiànjiàn shūyuǎn le.",
+        "en": "İlişkileri yavaş yavaş soğudu."
+      },
+      {
+        "zh": "他不愿意疏远老朋友。",
+        "pinyin": "Tā bú yuànyì shūyuǎn lǎo péngyou.",
+        "en": "Eski arkadaşlarından uzaklaşmak istemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5849",
+    "hanzi": "枢纽",
+    "pinyin": "shūniǔ",
+    "meaning": "merkez, kavşak noktası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这座城市是重要的交通枢纽。",
+        "pinyin": "Zhè zuò chéngshì shì zhòngyào de jiāotōng shūniǔ.",
+        "en": "Bu şehir önemli bir ulaşım merkezidir."
+      },
+      {
+        "zh": "这个港口是国际贸易的枢纽。",
+        "pinyin": "Zhège gǎngkǒu shì guójì màoyì de shūniǔ.",
+        "en": "Bu liman uluslararası ticaretin merkezidir."
+      }
+    ]
+  },
+  {
+    "id": "w5850",
+    "hanzi": "输液",
+    "pinyin": "shūyè",
+    "meaning": "serum takmak, damardan sıvı vermek",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给病人输液。",
+        "pinyin": "Yīshēng gěi bìngrén shūyè.",
+        "en": "Doktor hastaya serum takıyor."
+      },
+      {
+        "zh": "他在医院输液了两个小时。",
+        "pinyin": "Tā zài yīyuàn shūyè le liǎng ge xiǎoshí.",
+        "en": "Hastanede iki saat serum takıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5851",
+    "hanzi": "舒畅",
+    "pinyin": "shūchàng",
+    "meaning": "ferah, huzurlu, keyifli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "呼吸新鲜空气让人心情舒畅。",
+        "pinyin": "Hūxī xīnxiān kōngqì ràng rén xīnqíng shūchàng.",
+        "en": "Temiz hava solumak insanın ruhunu ferahlatır."
+      },
+      {
+        "zh": "完成任务后他感到十分舒畅。",
+        "pinyin": "Wánchéng rènwu hòu tā gǎndào shífēn shūchàng.",
+        "en": "Görevi tamamladıktan sonra kendini çok huzurlu hissetti."
+      },
+      {
+        "zh": "在大自然中散步让人心情舒畅。",
+        "pinyin": "Zài dàzìrán zhōng sànbù ràng rén xīnqíng shūchàng.",
+        "en": "Doğada yürüyüş yapmak insanı ferahlatır."
+      },
+      {
+        "zh": "听到这个好消息，他心情十分舒畅。",
+        "pinyin": "Tīngdào zhège hǎo xiāoxi, tā xīnqíng shífēn shūchàng.",
+        "en": "Bu iyi haberi duyunca ruh hali çok ferahladı."
+      },
+      {
+        "zh": "阳光明媚的日子让人感到舒畅。",
+        "pinyin": "Yángguāng míngmèi de rìzi ràng rén gǎndào shūchàng.",
+        "en": "Güneşli günler insanı ferahlatır."
+      }
+    ]
+  },
+  {
+    "id": "w5852",
+    "hanzi": "抒发",
+    "pinyin": "shūfā",
+    "meaning": "(duygu) ifade etmek, dışa vurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他用诗歌抒发自己的情感。",
+        "pinyin": "Tā yòng shīgē shūfā zìjǐ de qínggǎn.",
+        "en": "Şiir yoluyla kendi duygularını ifade ediyor."
+      },
+      {
+        "zh": "她通过绘画抒发内心的感受。",
+        "pinyin": "Tā tōngguò huìhuà shūfā nèixīn de gǎnshòu.",
+        "en": "Resim yoluyla iç dünyasındaki hisleri ifade ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5853",
+    "hanzi": "抒情",
+    "pinyin": "shūqíng",
+    "meaning": "duygusal, lirik; duygularını ifade etmek",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这是一首抒情诗。",
+        "pinyin": "Zhè shì yì shǒu shūqíng shī.",
+        "en": "Bu lirik bir şiirdir."
+      },
+      {
+        "zh": "他的歌曲风格偏向抒情。",
+        "pinyin": "Tā de gēqǔ fēnggé piānxiàng shūqíng.",
+        "en": "Şarkı tarzı lirik tarafa eğilimli."
+      }
+    ]
+  },
+  {
+    "id": "w5854",
+    "hanzi": "熟",
+    "pinyin": "shú",
+    "meaning": "olgun, pişmiş; tanıdık, aşina",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这些苹果已经熟了。",
+        "pinyin": "Zhèxiē píngguǒ yǐjīng shú le.",
+        "en": "Bu elmalar zaten olgunlaştı."
+      },
+      {
+        "zh": "肉还没煮熟。",
+        "pinyin": "Ròu hái méi zhǔshú.",
+        "en": "Et henüz pişmedi."
+      },
+      {
+        "zh": "他对这个地方很熟。",
+        "pinyin": "Tā duì zhège dìfang hěn shú.",
+        "en": "Bu yere çok aşina."
+      },
+      {
+        "zh": "他熟练地操作着机器。",
+        "pinyin": "Tā shúliàn de cāozuòzhe jīqì.",
+        "en": "Ustaca makineyi çalıştırıyor."
+      },
+      {
+        "zh": "米饭已经蒸熟了。",
+        "pinyin": "Mǐfàn yǐjīng zhēngshú le.",
+        "en": "Pirinç zaten pişti."
+      }
+    ]
+  },
+  {
+    "id": "w5855",
+    "hanzi": "熟人",
+    "pinyin": "shúrén",
+    "meaning": "tanıdık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "我在这里没有熟人。",
+        "pinyin": "Wǒ zài zhèlǐ méiyǒu shúrén.",
+        "en": "Burada tanıdığım kimse yok."
+      },
+      {
+        "zh": "他在这个城市有很多熟人。",
+        "pinyin": "Tā zài zhège chéngshì yǒu hěnduō shúrén.",
+        "en": "Bu şehirde birçok tanıdığı var."
+      },
+      {
+        "zh": "我在路上碰到了一个熟人。",
+        "pinyin": "Wǒ zài lùshàng pèngdào le yí ge shúrén.",
+        "en": "Yolda bir tanıdığa rastladım."
+      },
+      {
+        "zh": "他通过熟人找到了这份工作。",
+        "pinyin": "Tā tōngguò shúrén zhǎodào le zhè fèn gōngzuò.",
+        "en": "Bir tanıdığı sayesinde bu işi buldu."
+      },
+      {
+        "zh": "熟人之间打招呼很自然。",
+        "pinyin": "Shúrén zhījiān dǎ zhāohu hěn zìrán.",
+        "en": "Tanıdıklar arasında selamlaşmak çok doğal."
+      }
+    ]
+  },
+  {
+    "id": "w5856",
+    "hanzi": "熟睡",
+    "pinyin": "shúshuì",
+    "meaning": "derin uykuya dalmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "孩子已经熟睡了。",
+        "pinyin": "Háizi yǐjīng shúshuì le.",
+        "en": "Çocuk zaten derin uykuya daldı."
+      },
+      {
+        "zh": "他在沙发上熟睡了一个小时。",
+        "pinyin": "Tā zài shāfā shàng shúshuì le yí ge xiǎoshí.",
+        "en": "Kanepede bir saat derin uykuya daldı."
+      }
+    ]
+  },
+  {
+    "id": "w5857",
+    "hanzi": "数",
+    "pinyin": "shǔ",
+    "meaning": "saymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他从一数到十。",
+        "pinyin": "Tā cóng yī shǔdào shí.",
+        "en": "Birden ona kadar sayıyor."
+      },
+      {
+        "zh": "请数一数房间里有多少人。",
+        "pinyin": "Qǐng shǔ yi shǔ fángjiān lǐ yǒu duōshao rén.",
+        "en": "Lütfen odada kaç kişi olduğunu sayın."
+      },
+      {
+        "zh": "他最擅长的就是数数。",
+        "pinyin": "Tā zuì shàncháng de jiùshì shǔshù.",
+        "en": "En iyi yaptığı şey sayı saymak."
+      },
+      {
+        "zh": "论实力，他数第一。",
+        "pinyin": "Lùn shílì, tā shǔ dìyī.",
+        "en": "Yetenek açısından, o birinci sayılır."
+      },
+      {
+        "zh": "他一夜没睡，数着星星。",
+        "pinyin": "Tā yíyè méi shuì, shǔzhe xīngxing.",
+        "en": "Bütün gece uyumadı, yıldızları saydı."
+      }
+    ]
+  },
+  {
+    "id": "w5858",
+    "hanzi": "暑假",
+    "pinyin": "shǔjià",
+    "meaning": "yaz tatili",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "暑假我要去旅行。",
+        "pinyin": "Shǔjià wǒ yào qù lǚxíng.",
+        "en": "Yaz tatilinde seyahate gideceğim."
+      },
+      {
+        "zh": "孩子们盼望着暑假的到来。",
+        "pinyin": "Háizimen pànwàngzhe shǔjià de dàolái.",
+        "en": "Çocuklar yaz tatilinin gelmesini dört gözle bekliyor."
+      },
+      {
+        "zh": "暑假期间学校组织了夏令营。",
+        "pinyin": "Shǔjià qījiān xuéxiào zǔzhī le xiàlìngyíng.",
+        "en": "Yaz tatili süresince okul yaz kampı düzenledi."
+      },
+      {
+        "zh": "他打算利用暑假打工赚钱。",
+        "pinyin": "Tā dǎsuàn lìyòng shǔjià dǎgōng zhuànqián.",
+        "en": "Yaz tatilini para kazanmak için değerlendirmeyi planlıyor."
+      },
+      {
+        "zh": "暑假快结束了。",
+        "pinyin": "Shǔjià kuài jiéshù le.",
+        "en": "Yaz tatili bitmek üzere."
+      }
+    ]
+  },
+  {
+    "id": "w5859",
+    "hanzi": "署名",
+    "pinyin": "shǔmíng",
+    "meaning": "imza atmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在文件上署名了。",
+        "pinyin": "Tā zài wénjiàn shàng shǔmíng le.",
+        "en": "Belgeye imza attı."
+      },
+      {
+        "zh": "这篇文章没有署名。",
+        "pinyin": "Zhè piān wénzhāng méiyǒu shǔmíng.",
+        "en": "Bu makale imzasız."
+      }
+    ]
+  },
+  {
+    "id": "w5860",
+    "hanzi": "曙光",
+    "pinyin": "shǔguāng",
+    "meaning": "şafak, tan ışığı, umut belirtisi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "东方出现了曙光。",
+        "pinyin": "Dōngfāng chūxiàn le shǔguāng.",
+        "en": "Doğuda şafak söktü."
+      },
+      {
+        "zh": "这项发现给患者带来了曙光。",
+        "pinyin": "Zhè xiàng fāxiàn gěi huànzhě dàilái le shǔguāng.",
+        "en": "Bu keşif hastalara bir umut ışığı getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5861",
+    "hanzi": "属性",
+    "pinyin": "shǔxìng",
+    "meaning": "özellik, nitelik, sıfat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这些属性可以在设置中修改。",
+        "pinyin": "Zhèxiē shǔxìng kěyǐ zài shèzhì zhōng xiūgǎi.",
+        "en": "Bu özellikler ayarlar bölümünde değiştirilebilir."
+      },
+      {
+        "zh": "水的属性是无色无味。",
+        "pinyin": "Shuǐ de shǔxìng shì wúsè wúwèi.",
+        "en": "Suyun özelliği renksiz ve tatsız olmasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5862",
+    "hanzi": "树干",
+    "pinyin": "shùgàn",
+    "meaning": "ağaç gövdesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这棵树的树干很粗。",
+        "pinyin": "Zhè kē shù de shùgàn hěn cū.",
+        "en": "Bu ağacın gövdesi çok kalın."
+      },
+      {
+        "zh": "松鼠沿着树干爬了上去。",
+        "pinyin": "Sōngshǔ yánzhe shùgàn pá le shàngqù.",
+        "en": "Sincap ağaç gövdesi boyunca tırmandı."
+      },
+      {
+        "zh": "他在树干上刻下了自己的名字。",
+        "pinyin": "Tā zài shùgàn shàng kèxià le zìjǐ de míngzi.",
+        "en": "Ağaç gövdesine kendi adını kazıdı."
+      },
+      {
+        "zh": "这棵树的树干已经腐烂了。",
+        "pinyin": "Zhè kē shù de shùgàn yǐjīng fǔlàn le.",
+        "en": "Bu ağacın gövdesi zaten çürümüş."
+      },
+      {
+        "zh": "树干上长满了苔藓。",
+        "pinyin": "Shùgàn shàng zhǎngmǎn le táixiǎn.",
+        "en": "Ağaç gövdesi yosunla kaplı."
+      }
+    ]
+  },
+  {
+    "id": "w5863",
+    "hanzi": "树林",
+    "pinyin": "shùlín",
+    "meaning": "ağaçlık, koru, orman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他们在树林里散步。",
+        "pinyin": "Tāmen zài shùlín lǐ sànbù.",
+        "en": "Ormanda yürüyüş yapıyorlar."
+      },
+      {
+        "zh": "树林里传来了鸟叫声。",
+        "pinyin": "Shùlín lǐ chuánlái le niǎojiào shēng.",
+        "en": "Ormandan kuş sesleri geliyor."
+      },
+      {
+        "zh": "孩子们在树林里捉迷藏。",
+        "pinyin": "Háizimen zài shùlín lǐ zhuōmícáng.",
+        "en": "Çocuklar ormanda saklambaç oynuyor."
+      },
+      {
+        "zh": "这片树林是野生动物的家园。",
+        "pinyin": "Zhè piàn shùlín shì yěshēng dòngwù de jiāyuán.",
+        "en": "Bu koru vahşi hayvanların yuvasıdır."
+      },
+      {
+        "zh": "夏天树林里非常凉爽。",
+        "pinyin": "Xiàtiān shùlín lǐ fēicháng liángshuǎng.",
+        "en": "Yazın ormanın içi çok serindir."
+      }
+    ]
+  },
+  {
+    "id": "w5864",
+    "hanzi": "树木",
+    "pinyin": "shùmù",
+    "meaning": "ağaçlar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "公园里种满了树木。",
+        "pinyin": "Gōngyuán lǐ zhòngmǎn le shùmù.",
+        "en": "Parkta bol miktarda ağaç dikilmiş."
+      },
+      {
+        "zh": "我们要保护树木和森林。",
+        "pinyin": "Wǒmen yào bǎohù shùmù hé sēnlín.",
+        "en": "Ağaçları ve ormanları korumalıyız."
+      },
+      {
+        "zh": "这些树木已经有百年历史了。",
+        "pinyin": "Zhèxiē shùmù yǐjīng yǒu bǎinián lìshǐ le.",
+        "en": "Bu ağaçların yüz yıllık bir tarihi var."
+      },
+      {
+        "zh": "秋天树木的叶子变黄了。",
+        "pinyin": "Qiūtiān shùmù de yèzi biànhuáng le.",
+        "en": "Sonbaharda ağaçların yaprakları sarardı."
+      },
+      {
+        "zh": "工人们在路边种植了新的树木。",
+        "pinyin": "Gōngrénmen zài lùbiān zhòngzhí le xīn de shùmù.",
+        "en": "İşçiler yol kenarına yeni ağaçlar dikti."
+      }
+    ]
+  },
+  {
+    "id": "w5865",
+    "hanzi": "树皮",
+    "pinyin": "shùpí",
+    "meaning": "ağaç kabuğu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这种树皮可以入药。",
+        "pinyin": "Zhè zhǒng shùpí kěyǐ rùyào.",
+        "en": "Bu tür ağaç kabuğu ilaç olarak kullanılabilir."
+      },
+      {
+        "zh": "树皮上有很多裂纹。",
+        "pinyin": "Shùpí shàng yǒu hěnduō lièwén.",
+        "en": "Ağaç kabuğunda birçok çatlak var."
+      }
+    ]
+  },
+  {
+    "id": "w5866",
+    "hanzi": "树枝",
+    "pinyin": "shùzhī",
+    "meaning": "dal",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "鸟儿站在树枝上唱歌。",
+        "pinyin": "Niǎor zhàn zài shùzhī shàng chànggē.",
+        "en": "Kuş dalın üzerinde durup şarkı söylüyor."
+      },
+      {
+        "zh": "风把树枝吹断了。",
+        "pinyin": "Fēng bǎ shùzhī chuīduàn le.",
+        "en": "Rüzgar dalı kırdı."
+      },
+      {
+        "zh": "他捡起了一根树枝当拐杖。",
+        "pinyin": "Tā jiǎnqǐ le yì gēn shùzhī dàng guǎizhàng.",
+        "en": "Bir dal parçası alıp baston olarak kullandı."
+      },
+      {
+        "zh": "树枝上开满了粉色的花。",
+        "pinyin": "Shùzhī shàng kāimǎn le fěnsè de huā.",
+        "en": "Dallar pembe çiçeklerle dolu."
+      },
+      {
+        "zh": "孩子们用树枝搭了一个小窝棚。",
+        "pinyin": "Háizimen yòng shùzhī dā le yí ge xiǎo wōpéng.",
+        "en": "Çocuklar dallarla küçük bir kulübe kurdu."
+      }
+    ]
+  },
+  {
+    "id": "w5867",
+    "hanzi": "竖",
+    "pinyin": "shù",
+    "meaning": "dik, dikey; dikmek",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "请把这块木板竖起来。",
+        "pinyin": "Qǐng bǎ zhè kuài mùbǎn shù qǐlái.",
+        "en": "Lütfen bu tahta parçasını dikey konuma getirin."
+      },
+      {
+        "zh": "他竖起了大拇指表示赞赏。",
+        "pinyin": "Tā shùqǐ le dàmuzhǐ biǎoshì zànshǎng.",
+        "en": "Beğenisini belirtmek için başparmağını dikti."
+      },
+      {
+        "zh": "这条线是竖着画的。",
+        "pinyin": "Zhè tiáo xiàn shì shùzhe huà de.",
+        "en": "Bu çizgi dikey olarak çizilmiş."
+      },
+      {
+        "zh": "小狗竖起了耳朵。",
+        "pinyin": "Xiǎogǒu shùqǐ le ěrduo.",
+        "en": "Küçük köpek kulaklarını dikti."
+      },
+      {
+        "zh": "他把旗杆竖立在广场中央。",
+        "pinyin": "Tā bǎ qígān shùlì zài guǎngchǎng zhōngyāng.",
+        "en": "Bayrak direğini meydanın ortasına dikti."
+      }
+    ]
+  },
+  {
+    "id": "w5868",
+    "hanzi": "竖立",
+    "pinyin": "shùlì",
+    "meaning": "dikmek, dikleştirmek, ayakta durmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "广场中央竖立着一座雕像。",
+        "pinyin": "Guǎngchǎng zhōngyāng shùlìzhe yí zuò diāoxiàng.",
+        "en": "Meydanın ortasında bir heykel dikilmiş durumda."
+      },
+      {
+        "zh": "工人们竖立起了一根旗杆。",
+        "pinyin": "Gōngrénmen shùlì qǐ le yì gēn qígān.",
+        "en": "İşçiler bir bayrak direği diktiler."
+      }
+    ]
   }
 ]

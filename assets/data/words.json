@@ -180748,5 +180748,848 @@
         "en": "Bu besteci birçok klasik eser besteledi."
       }
     ]
+  },
+  {
+    "id": "w5225",
+    "hanzi": "骑兵",
+    "pinyin": "qíbīng",
+    "meaning": "süvari",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "古代战争中骑兵起着重要作用。",
+        "pinyin": "Gǔdài zhànzhēng zhōng qíbīng qǐzhe zhòngyào zuòyòng.",
+        "en": "Antik savaşlarda süvariler önemli bir rol oynardı."
+      },
+      {
+        "zh": "骑兵队快速冲向敌营。",
+        "pinyin": "Qíbīngduì kuàisù chōngxiàng dí yíng.",
+        "en": "Süvari birliği hızla düşman kampına hücum etti."
+      }
+    ]
+  },
+  {
+    "id": "w5226",
+    "hanzi": "起步",
+    "pinyin": "qǐbù",
+    "meaning": "başlamak, ilk adımı atmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个项目刚刚起步。",
+        "pinyin": "Zhège xiàngmù gānggāng qǐbù.",
+        "en": "Bu proje daha yeni başladı."
+      },
+      {
+        "zh": "公司起步阶段很艰难。",
+        "pinyin": "Gōngsī qǐbù jiēduàn hěn jiānnán.",
+        "en": "Şirketin başlangıç aşaması çok zorlu."
+      },
+      {
+        "zh": "他的事业已经起步了。",
+        "pinyin": "Tā de shìyè yǐjīng qǐbù le.",
+        "en": "Kariyeri artık başlamış durumda."
+      },
+      {
+        "zh": "汽车缓缓起步。",
+        "pinyin": "Qìchē huǎnhuǎn qǐbù.",
+        "en": "Araba yavaşça hareket etmeye başladı."
+      },
+      {
+        "zh": "这个国家的经济发展较晚起步。",
+        "pinyin": "Zhège guójiā de jīngjì fāzhǎn jiào wǎn qǐbù.",
+        "en": "Bu ülkenin ekonomik gelişimi geç başladı."
+      }
+    ]
+  },
+  {
+    "id": "w5227",
+    "hanzi": "起立",
+    "pinyin": "qǐlì",
+    "meaning": "ayağa kalkmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老师进来时，同学们都起立了。",
+        "pinyin": "Lǎoshī jìnlái shí, tóngxuémen dōu qǐlì le.",
+        "en": "Öğretmen içeri girince öğrenciler ayağa kalktı."
+      },
+      {
+        "zh": "请全体起立，唱国歌。",
+        "pinyin": "Qǐng quántǐ qǐlì, chàng guógē.",
+        "en": "Lütfen herkes ayağa kalksın, milli marşı söyleyelim."
+      },
+      {
+        "zh": "观众起立为演员鼓掌。",
+        "pinyin": "Guānzhòng qǐlì wèi yǎnyuán gǔzhǎng.",
+        "en": "Seyirciler ayağa kalkarak oyuncuyu alkışladı."
+      },
+      {
+        "zh": "他起立发表了自己的意见。",
+        "pinyin": "Tā qǐlì fābiǎo le zìjǐ de yìjiàn.",
+        "en": "Ayağa kalkıp kendi görüşünü açıkladı."
+      },
+      {
+        "zh": "听到国歌声，大家立刻起立。",
+        "pinyin": "Tīngdào guógē shēng, dàjiā lìkè qǐlì.",
+        "en": "Milli marşı duyunca herkes hemen ayağa kalktı."
+      }
+    ]
+  },
+  {
+    "id": "w5228",
+    "hanzi": "起码",
+    "pinyin": "qǐmǎ",
+    "meaning": "en azından, asgari, en az",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这项工作起码需要三天时间。",
+        "pinyin": "Zhè xiàng gōngzuò qǐmǎ xūyào sān tiān shíjiān.",
+        "en": "Bu iş en azından üç gün sürer."
+      },
+      {
+        "zh": "你起码应该打个电话通知我。",
+        "pinyin": "Nǐ qǐmǎ yīnggāi dǎ ge diànhuà tōngzhī wǒ.",
+        "en": "En azından bana telefon açıp haber vermeliydin."
+      },
+      {
+        "zh": "起码的礼貌他都不懂。",
+        "pinyin": "Qǐmǎ de lǐmào tā dōu bù dǒng.",
+        "en": "En temel nezaket kurallarını bile bilmiyor."
+      },
+      {
+        "zh": "起码要准备一千块钱。",
+        "pinyin": "Qǐmǎ yào zhǔnbèi yìqiān kuài qián.",
+        "en": "En azından bin yuan hazırlamak gerekiyor."
+      },
+      {
+        "zh": "这是起码的要求。",
+        "pinyin": "Zhè shì qǐmǎ de yāoqiú.",
+        "en": "Bu asgari bir taleptir."
+      }
+    ]
+  },
+  {
+    "id": "w5229",
+    "hanzi": "起初",
+    "pinyin": "qǐchū",
+    "meaning": "başlangıçta, önce",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "起初他并不同意这个计划。",
+        "pinyin": "Qǐchū tā bìngbù tóngyì zhège jìhuà.",
+        "en": "Başlangıçta bu plana katılmıyordu."
+      },
+      {
+        "zh": "起初大家都不相信这个消息。",
+        "pinyin": "Qǐchū dàjiā dōu bù xiāngxìn zhège xiāoxi.",
+        "en": "Başlangıçta herkes bu habere inanmadı."
+      },
+      {
+        "zh": "起初我以为他在开玩笑。",
+        "pinyin": "Qǐchū wǒ yǐwéi tā zài kāi wánxiào.",
+        "en": "Başta şaka yaptığını sanmıştım."
+      },
+      {
+        "zh": "起初这项技术并不成熟。",
+        "pinyin": "Qǐchū zhè xiàng jìshù bìngbù chéngshú.",
+        "en": "Başlangıçta bu teknoloji henüz olgun değildi."
+      },
+      {
+        "zh": "起初他们只是普通朋友。",
+        "pinyin": "Qǐchū tāmen zhǐshì pǔtōng péngyou.",
+        "en": "Başlangıçta sadece sıradan arkadaşlardı."
+      }
+    ]
+  },
+  {
+    "id": "w5230",
+    "hanzi": "起诉",
+    "pinyin": "qǐsù",
+    "meaning": "dava etmek, şikayet etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他决定起诉这家公司。",
+        "pinyin": "Tā juédìng qǐsù zhè jiā gōngsī.",
+        "en": "Bu şirketi dava etmeye karar verdi."
+      },
+      {
+        "zh": "检察院对他提起了起诉。",
+        "pinyin": "Jiǎncháyuàn duì tā tíqǐ le qǐsù.",
+        "en": "Savcılık onun hakkında dava açtı."
+      }
+    ]
+  },
+  {
+    "id": "w5231",
+    "hanzi": "起义",
+    "pinyin": "qǐyì",
+    "meaning": "isyan etmek, ayaklanmak; ayaklanma",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "农民们发动了起义。",
+        "pinyin": "Nóngmínmen fādòng le qǐyì.",
+        "en": "Köylüler bir ayaklanma başlattı."
+      },
+      {
+        "zh": "这次起义最终失败了。",
+        "pinyin": "Zhè cì qǐyì zuìzhōng shībài le.",
+        "en": "Bu ayaklanma sonunda başarısız oldu."
+      }
+    ]
+  },
+  {
+    "id": "w5232",
+    "hanzi": "起因",
+    "pinyin": "qǐyīn",
+    "meaning": "sebep, başlangıç nedeni",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这场争吵的起因是一件小事。",
+        "pinyin": "Zhè chǎng zhēngchǎo de qǐyīn shì yí jiàn xiǎoshì.",
+        "en": "Bu tartışmanın nedeni ufak bir şeydi."
+      },
+      {
+        "zh": "警方正在调查事故的起因。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá shìgù de qǐyīn.",
+        "en": "Polis kazanın nedenini araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5233",
+    "hanzi": "起源",
+    "pinyin": "qǐyuán",
+    "meaning": "köken, kaynak; -den kaynaklanmak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "汉字的起源可以追溯到几千年前。",
+        "pinyin": "Hànzì de qǐyuán kěyǐ zhuīsù dào jǐ qiān nián qián.",
+        "en": "Çince karakterlerin kökeni binlerce yıl öncesine dayanır."
+      },
+      {
+        "zh": "这个习俗起源于古代。",
+        "pinyin": "Zhège xísú qǐyuán yú gǔdài.",
+        "en": "Bu gelenek antik çağlardan kaynaklanmaktadır."
+      },
+      {
+        "zh": "科学家研究生命的起源。",
+        "pinyin": "Kēxuéjiā yánjiū shēngmìng de qǐyuán.",
+        "en": "Bilim insanları yaşamın kökenini araştırıyor."
+      },
+      {
+        "zh": "这场战争的起源很复杂。",
+        "pinyin": "Zhè chǎng zhànzhēng de qǐyuán hěn fùzá.",
+        "en": "Bu savaşın kökeni oldukça karmaşıktır."
+      },
+      {
+        "zh": "奥运会起源于古希腊。",
+        "pinyin": "Àoyùnhuì qǐyuán yú gǔ Xīlà.",
+        "en": "Olimpiyatlar Antik Yunanistan'dan kaynaklanmaktadır."
+      }
+    ]
+  },
+  {
+    "id": "w5234",
+    "hanzi": "起重机",
+    "pinyin": "qǐzhòngjī",
+    "meaning": "vinç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工地上有一台大型起重机。",
+        "pinyin": "Gōngdì shàng yǒu yì tái dàxíng qǐzhòngjī.",
+        "en": "İnşaat alanında büyük bir vinç var."
+      },
+      {
+        "zh": "起重机正在吊起钢材。",
+        "pinyin": "Qǐzhòngjī zhèngzài diàoqǐ gāngcái.",
+        "en": "Vinç çelik malzemeyi kaldırıyor."
+      },
+      {
+        "zh": "港口有很多大型起重机。",
+        "pinyin": "Gǎngkǒu yǒu hěnduō dàxíng qǐzhòngjī.",
+        "en": "Limanda birçok büyük vinç var."
+      },
+      {
+        "zh": "操作起重机需要经过培训。",
+        "pinyin": "Cāozuò qǐzhòngjī xūyào jīngguò péixùn.",
+        "en": "Vinç kullanmak için eğitim almak gerekir."
+      },
+      {
+        "zh": "起重机把货物吊到了船上。",
+        "pinyin": "Qǐzhòngjī bǎ huòwù diào dào le chuán shàng.",
+        "en": "Vinç malları geminin üzerine kaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5235",
+    "hanzi": "启动",
+    "pinyin": "qǐdòng",
+    "meaning": "başlatmak (makine, sistem, proje vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他启动了汽车。",
+        "pinyin": "Tā qǐdòng le qìchē.",
+        "en": "Arabayı çalıştırdı."
+      },
+      {
+        "zh": "这个项目下周正式启动。",
+        "pinyin": "Zhège xiàngmù xiàzhōu zhèngshì qǐdòng.",
+        "en": "Bu proje gelecek hafta resmen başlıyor."
+      },
+      {
+        "zh": "请启动电脑系统。",
+        "pinyin": "Qǐng qǐdòng diànnǎo xìtǒng.",
+        "en": "Lütfen bilgisayar sistemini başlatın."
+      },
+      {
+        "zh": "公司启动了新的营销计划。",
+        "pinyin": "Gōngsī qǐdòng le xīn de yíngxiāo jìhuà.",
+        "en": "Şirket yeni bir pazarlama planı başlattı."
+      },
+      {
+        "zh": "飞机引擎已经启动。",
+        "pinyin": "Fēijī yǐnqíng yǐjīng qǐdòng.",
+        "en": "Uçağın motoru zaten çalıştırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5236",
+    "hanzi": "启事",
+    "pinyin": "qǐshì",
+    "meaning": "ilan, duyuru",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他在报纸上登了一则寻人启事。",
+        "pinyin": "Tā zài bàozhǐ shàng dēng le yì zé xúnrén qǐshì.",
+        "en": "Gazeteye bir kişi arama ilanı verdi."
+      },
+      {
+        "zh": "公司在网上发布了招聘启事。",
+        "pinyin": "Gōngsī zài wǎngshàng fābù le zhāopìn qǐshì.",
+        "en": "Şirket internette bir işe alım ilanı yayınladı."
+      }
+    ]
+  },
+  {
+    "id": "w5237",
+    "hanzi": "乞丐",
+    "pinyin": "qǐgài",
+    "meaning": "dilenci",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "街边坐着一个乞丐。",
+        "pinyin": "Jiēbiān zuòzhe yí ge qǐgài.",
+        "en": "Sokak kenarında bir dilenci oturuyor."
+      },
+      {
+        "zh": "她给了乞丐一些钱。",
+        "pinyin": "Tā gěi le qǐgài yìxiē qián.",
+        "en": "Dilenciye biraz para verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5238",
+    "hanzi": "气",
+    "pinyin": "qì",
+    "meaning": "hava; gaz; nefes; öfke",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "轮胎没气了。",
+        "pinyin": "Lúntāi méi qì le.",
+        "en": "Lastiğin havası inmiş."
+      },
+      {
+        "zh": "他生气了。",
+        "pinyin": "Tā shēngqì le.",
+        "en": "O sinirlendi."
+      },
+      {
+        "zh": "深吸一口气。",
+        "pinyin": "Shēn xī yìkǒu qì.",
+        "en": "Derin bir nefes al."
+      },
+      {
+        "zh": "别跟他生气。",
+        "pinyin": "Bié gēn tā shēngqì.",
+        "en": "Ona kızma."
+      },
+      {
+        "zh": "天气很冷，我们呼出的气都是白色的。",
+        "pinyin": "Tiānqì hěn lěng, wǒmen hūchū de qì dōu shì báisè de.",
+        "en": "Hava çok soğuk, nefesimiz bile beyaz çıkıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5239",
+    "hanzi": "气愤",
+    "pinyin": "qìfèn",
+    "meaning": "öfkeli, kızgın",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他对这件事感到十分气愤。",
+        "pinyin": "Tā duì zhè jiàn shì gǎndào shífēn qìfèn.",
+        "en": "Bu konuda çok öfkeli hissediyor."
+      },
+      {
+        "zh": "听到这个消息，大家都很气愤。",
+        "pinyin": "Tīngdào zhège xiāoxi, dàjiā dōu hěn qìfèn.",
+        "en": "Bu haberi duyunca herkes çok öfkelendi."
+      },
+      {
+        "zh": "她气愤地摔门而去。",
+        "pinyin": "Tā qìfèn de shuāimén ér qù.",
+        "en": "Öfkeyle kapıyı çarpıp gitti."
+      },
+      {
+        "zh": "他被这种不公平的待遇气愤了。",
+        "pinyin": "Tā bèi zhè zhǒng bù gōngpíng de dàiyù qìfèn le.",
+        "en": "Bu adaletsiz muameleye çok öfkelendi."
+      },
+      {
+        "zh": "他的气愤情绪难以平息。",
+        "pinyin": "Tā de qìfèn qíngxù nányǐ píngxī.",
+        "en": "Öfkesi bir türlü yatışmadı."
+      }
+    ]
+  },
+  {
+    "id": "w5240",
+    "hanzi": "气功",
+    "pinyin": "qìgōng",
+    "meaning": "çigong (nefes ve meditasyon egzersizi)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "爷爷每天早上练气功。",
+        "pinyin": "Yéye měitiān zǎoshang liàn qìgōng.",
+        "en": "Dede her sabah çigong yapıyor."
+      },
+      {
+        "zh": "气功有助于放松身心。",
+        "pinyin": "Qìgōng yǒuzhùyú fàngsōng shēnxīn.",
+        "en": "Çigong beden ve zihni rahatlatmaya yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w5241",
+    "hanzi": "气管",
+    "pinyin": "qìguǎn",
+    "meaning": "nefes borusu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "食物卡在了他的气管里。",
+        "pinyin": "Shíwù kǎ zài le tā de qìguǎn lǐ.",
+        "en": "Yemek nefes borusuna takıldı."
+      },
+      {
+        "zh": "气管炎会引起咳嗽。",
+        "pinyin": "Qìguǎnyán huì yǐnqǐ késou.",
+        "en": "Bronşit öksürüğe neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5242",
+    "hanzi": "气球",
+    "pinyin": "qìqiú",
+    "meaning": "balon",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "孩子们手里拿着气球。",
+        "pinyin": "Háizimen shǒu lǐ názhe qìqiú.",
+        "en": "Çocukların elinde balonlar var."
+      },
+      {
+        "zh": "气球飞到天上去了。",
+        "pinyin": "Qìqiú fēidào tiānshàng qù le.",
+        "en": "Balon gökyüzüne uçtu."
+      },
+      {
+        "zh": "他给气球打了气。",
+        "pinyin": "Tā gěi qìqiú dǎ le qì.",
+        "en": "Balona hava doldurdu."
+      },
+      {
+        "zh": "生日派对上挂满了气球。",
+        "pinyin": "Shēngrì pàiduì shàng guàmǎn le qìqiú.",
+        "en": "Doğum günü partisinde her yer balonla dolu."
+      },
+      {
+        "zh": "气球突然爆炸了。",
+        "pinyin": "Qìqiú tūrán bàozhà le.",
+        "en": "Balon aniden patladı."
+      }
+    ]
+  },
+  {
+    "id": "w5243",
+    "hanzi": "气势",
+    "pinyin": "qìshì",
+    "meaning": "güç, ihtişam, hava",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这座建筑气势宏伟。",
+        "pinyin": "Zhè zuò jiànzhù qìshì hóngwěi.",
+        "en": "Bu bina görkemli bir ihtişama sahip."
+      },
+      {
+        "zh": "他的演讲气势十足。",
+        "pinyin": "Tā de yǎnjiǎng qìshì shízú.",
+        "en": "Konuşması güç ve ihtişam doluydu."
+      }
+    ]
+  },
+  {
+    "id": "w5244",
+    "hanzi": "气体",
+    "pinyin": "qìtǐ",
+    "meaning": "gaz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "氧气是一种气体。",
+        "pinyin": "Yǎngqì shì yì zhǒng qìtǐ.",
+        "en": "Oksijen bir gazdır."
+      },
+      {
+        "zh": "这种气体没有颜色和气味。",
+        "pinyin": "Zhè zhǒng qìtǐ méiyǒu yánsè hé qìwèi.",
+        "en": "Bu gazın rengi ve kokusu yoktur."
+      },
+      {
+        "zh": "工厂排放的气体污染了空气。",
+        "pinyin": "Gōngchǎng páifàng de qìtǐ wūrǎn le kōngqì.",
+        "en": "Fabrikanın yaydığı gaz havayı kirletti."
+      },
+      {
+        "zh": "水加热后会变成气体。",
+        "pinyin": "Shuǐ jiārè hòu huì biànchéng qìtǐ.",
+        "en": "Su ısıtıldığında gaza dönüşür."
+      },
+      {
+        "zh": "这个实验产生了一种新气体。",
+        "pinyin": "Zhège shíyàn chǎnshēng le yì zhǒng xīn qìtǐ.",
+        "en": "Bu deney yeni bir gaz üretti."
+      }
+    ]
+  },
+  {
+    "id": "w5245",
+    "hanzi": "气象",
+    "pinyin": "qìxiàng",
+    "meaning": "hava durumu, meteorolojik olaylar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "气象台预报明天有雨。",
+        "pinyin": "Qìxiàngtái yùbào míngtiān yǒu yǔ.",
+        "en": "Meteoroloji istasyonu yarın yağmur olacağını bildirdi."
+      },
+      {
+        "zh": "他从事气象研究工作。",
+        "pinyin": "Tā cóngshì qìxiàng yánjiū gōngzuò.",
+        "en": "Meteoroloji araştırma işiyle uğraşıyor."
+      },
+      {
+        "zh": "气象卫星帮助我们预测天气。",
+        "pinyin": "Qìxiàng wèixīng bāngzhù wǒmen yùcè tiānqì.",
+        "en": "Meteoroloji uyduları hava tahmini yapmamıza yardımcı olur."
+      },
+      {
+        "zh": "这个地区气象变化多端。",
+        "pinyin": "Zhège dìqū qìxiàng biànhuà duōduān.",
+        "en": "Bu bölgenin hava durumu çok değişken."
+      },
+      {
+        "zh": "气象局发布了台风警报。",
+        "pinyin": "Qìxiàngjú fābù le táifēng jǐngbào.",
+        "en": "Meteoroloji dairesi tayfun uyarısı yayınladı."
+      }
+    ]
+  },
+  {
+    "id": "w5246",
+    "hanzi": "契约",
+    "pinyin": "qìyuē",
+    "meaning": "sözleşme, kontrat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "双方签订了契约。",
+        "pinyin": "Shuāngfāng qiāndìng le qìyuē.",
+        "en": "Her iki taraf sözleşme imzaladı."
+      },
+      {
+        "zh": "这份契约具有法律效力。",
+        "pinyin": "Zhè fèn qìyuē jùyǒu fǎlǜ xiàolì.",
+        "en": "Bu sözleşmenin yasal geçerliliği vardır."
+      }
+    ]
+  },
+  {
+    "id": "w5247",
+    "hanzi": "器械",
+    "pinyin": "qìxiè",
+    "meaning": "alet, cihaz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "医院购买了新的医疗器械。",
+        "pinyin": "Yīyuàn gòumǎi le xīn de yīliáo qìxiè.",
+        "en": "Hastane yeni tıbbi cihazlar satın aldı."
+      },
+      {
+        "zh": "健身房里有各种健身器械。",
+        "pinyin": "Jiànshēnfáng lǐ yǒu gèzhǒng jiànshēn qìxiè.",
+        "en": "Spor salonunda çeşitli fitness aletleri var."
+      },
+      {
+        "zh": "使用器械前要先了解说明书。",
+        "pinyin": "Shǐyòng qìxiè qián yào xiān liǎojiě shuōmíngshū.",
+        "en": "Cihazı kullanmadan önce kılavuzu okumak gerekir."
+      },
+      {
+        "zh": "这些器械需要定期维护。",
+        "pinyin": "Zhèxiē qìxiè xūyào dìngqī wéihù.",
+        "en": "Bu cihazların düzenli bakıma ihtiyacı var."
+      },
+      {
+        "zh": "实验室配备了先进的器械。",
+        "pinyin": "Shíyànshì pèibèi le xiānjìn de qìxiè.",
+        "en": "Laboratuvar gelişmiş cihazlarla donatıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5248",
+    "hanzi": "汽车",
+    "pinyin": "qìchē",
+    "meaning": "araba, otomobil",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他买了一辆新汽车。",
+        "pinyin": "Tā mǎi le yí liàng xīn qìchē.",
+        "en": "Yeni bir araba satın aldı."
+      },
+      {
+        "zh": "我每天开汽车上班。",
+        "pinyin": "Wǒ měitiān kāi qìchē shàngbān.",
+        "en": "Her gün arabayla işe gidiyorum."
+      },
+      {
+        "zh": "这辆汽车很省油。",
+        "pinyin": "Zhè liàng qìchē hěn shěngyóu.",
+        "en": "Bu araba çok yakıt tasarruflu."
+      },
+      {
+        "zh": "汽车停在了路边。",
+        "pinyin": "Qìchē tíng zài le lùbiān.",
+        "en": "Araba yol kenarına park edildi."
+      },
+      {
+        "zh": "他正在学开汽车。",
+        "pinyin": "Tā zhèngzài xué kāi qìchē.",
+        "en": "Araba kullanmayı öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w5249",
+    "hanzi": "汽水",
+    "pinyin": "qìshuǐ",
+    "meaning": "gazoz, gazlı içecek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "孩子们喜欢喝汽水。",
+        "pinyin": "Háizimen xǐhuan hē qìshuǐ.",
+        "en": "Çocuklar gazoz içmeyi sever."
+      },
+      {
+        "zh": "请给我一瓶汽水。",
+        "pinyin": "Qǐng gěi wǒ yì píng qìshuǐ.",
+        "en": "Bana bir şişe gazoz verir misin."
+      },
+      {
+        "zh": "汽水喝多了对牙齿不好。",
+        "pinyin": "Qìshuǐ hēduō le duì yáchǐ bùhǎo.",
+        "en": "Çok gazoz içmek dişler için iyi değil."
+      },
+      {
+        "zh": "冰镇汽水很受欢迎。",
+        "pinyin": "Bīngzhèn qìshuǐ hěn shòu huānyíng.",
+        "en": "Soğutulmuş gazoz çok tercih ediliyor."
+      },
+      {
+        "zh": "他打开了一瓶汽水。",
+        "pinyin": "Tā dǎkāi le yì píng qìshuǐ.",
+        "en": "Bir şişe gazoz açtı."
+      }
+    ]
+  },
+  {
+    "id": "w5250",
+    "hanzi": "恰好",
+    "pinyin": "qiàhǎo",
+    "meaning": "tam da, tesadüfen, uygun bir şekilde",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我出门时恰好碰到了他。",
+        "pinyin": "Wǒ chūmén shí qiàhǎo pèngdào le tā.",
+        "en": "Dışarı çıktığımda tam da onunla karşılaştım."
+      },
+      {
+        "zh": "这件衣服的尺寸恰好合适。",
+        "pinyin": "Zhè jiàn yīfu de chǐcùn qiàhǎo héshì.",
+        "en": "Bu kıyafetin bedeni tam uygun."
+      },
+      {
+        "zh": "我们到达时恰好赶上了火车。",
+        "pinyin": "Wǒmen dàodá shí qiàhǎo gǎnshàng le huǒchē.",
+        "en": "Vardığımızda tam trene yetiştik."
+      },
+      {
+        "zh": "他的建议恰好解决了问题。",
+        "pinyin": "Tā de jiànyì qiàhǎo jiějué le wèntí.",
+        "en": "Önerisi tam da sorunu çözdü."
+      },
+      {
+        "zh": "恰好今天下雨，我们只好取消了活动。",
+        "pinyin": "Qiàhǎo jīntiān xiàyǔ, wǒmen zhǐhǎo qǔxiāo le huódòng.",
+        "en": "Tam da bugün yağmur yağdı, etkinliği iptal etmek zorunda kaldık."
+      }
+    ]
+  },
+  {
+    "id": "w5251",
+    "hanzi": "恰巧",
+    "pinyin": "qiàqiǎo",
+    "meaning": "şans eseri, tesadüfen",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我恰巧带了雨伞。",
+        "pinyin": "Wǒ qiàqiǎo dài le yǔsǎn.",
+        "en": "Şans eseri yanımda şemsiye vardı."
+      },
+      {
+        "zh": "恰巧那天我也在场。",
+        "pinyin": "Qiàqiǎo nà tiān wǒ yě zàichǎng.",
+        "en": "Tesadüfen o gün ben de oradaydım."
+      }
+    ]
+  },
+  {
+    "id": "w5252",
+    "hanzi": "恰当",
+    "pinyin": "qiàdàng",
+    "meaning": "uygun, yerinde",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他用词恰当，表达清晰。",
+        "pinyin": "Tā yòngcí qiàdàng, biǎodá qīngxī.",
+        "en": "Kelime seçimi yerinde, ifadesi açık."
+      },
+      {
+        "zh": "这个比喻非常恰当。",
+        "pinyin": "Zhège bǐyù fēicháng qiàdàng.",
+        "en": "Bu benzetme çok yerinde."
+      },
+      {
+        "zh": "请选择恰当的时间联系他。",
+        "pinyin": "Qǐng xuǎnzé qiàdàng de shíjiān liánxì tā.",
+        "en": "Onunla uygun bir zamanda iletişime geçin."
+      },
+      {
+        "zh": "她的回答很恰当。",
+        "pinyin": "Tā de huídá hěn qiàdàng.",
+        "en": "Cevabı çok yerindeydi."
+      },
+      {
+        "zh": "我们需要找到恰当的解决方法。",
+        "pinyin": "Wǒmen xūyào zhǎodào qiàdàng de jiějué fāngfǎ.",
+        "en": "Uygun bir çözüm yolu bulmamız gerekiyor."
+      }
+    ]
   }
 ]

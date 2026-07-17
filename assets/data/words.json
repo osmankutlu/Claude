@@ -231046,5 +231046,827 @@
         "en": "Ebeveynler çocuğun güvenliği konusunda çok endişeli."
       }
     ]
+  },
+  {
+    "id": "w6963",
+    "hanzi": "忧伤",
+    "pinyin": "yōushāng",
+    "meaning": "hüzünlü, kederli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她的眼神里带着忧伤。",
+        "pinyin": "Tā de yǎnshén lǐ dàizhe yōushāng.",
+        "en": "Onun bakışlarında hüzün var."
+      },
+      {
+        "zh": "这首歌曲旋律忧伤动人。",
+        "pinyin": "Zhè shǒu gēqǔ xuánlǜ yōushāng dòngrén.",
+        "en": "Bu şarkının melodisi hüzünlü ve dokunaklı."
+      }
+    ]
+  },
+  {
+    "id": "w6964",
+    "hanzi": "优",
+    "pinyin": "yōu",
+    "meaning": "mükemmel, üstün",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的成绩得了优。",
+        "pinyin": "Tā de chéngjì déle yōu.",
+        "en": "O notunda mükemmel derece aldı."
+      },
+      {
+        "zh": "这里环境优美。",
+        "pinyin": "Zhèlǐ huánjìng yōuměi.",
+        "en": "Buranın çevresi çok güzel."
+      },
+      {
+        "zh": "他表现优异,获得了奖学金。",
+        "pinyin": "Tā biǎoxiàn yōuyì, huòdéle jiǎngxuéjīn.",
+        "en": "O üstün performans gösterdi ve burs kazandı."
+      },
+      {
+        "zh": "产品质量优良。",
+        "pinyin": "Chǎnpǐn zhìliàng yōuliáng.",
+        "en": "Ürün kalitesi çok iyi."
+      },
+      {
+        "zh": "他在班上成绩优秀。",
+        "pinyin": "Tā zài bān shàng chéngjì yōuxiù.",
+        "en": "O sınıfta üstün başarı gösteriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6965",
+    "hanzi": "优待",
+    "pinyin": "yōudài",
+    "meaning": "özel muamele göstermek, ayrıcalıklı davranmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "医院对老年患者给予优待。",
+        "pinyin": "Yīyuàn duì lǎonián huànzhě jǐyǔ yōudài.",
+        "en": "Hastane yaşlı hastalara özel muamele gösteriyor."
+      },
+      {
+        "zh": "这家酒店对会员提供优待服务。",
+        "pinyin": "Zhè jiā jiǔdiàn duì huìyuán tígōng yōudài fúwù.",
+        "en": "Bu otel üyelerine ayrıcalıklı hizmet sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6966",
+    "hanzi": "优化",
+    "pinyin": "yōuhuà",
+    "meaning": "optimize etmek, iyileştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "公司优化了生产流程。",
+        "pinyin": "Gōngsī yōuhuàle shēngchǎn liúchéng.",
+        "en": "Şirket üretim sürecini optimize etti."
+      },
+      {
+        "zh": "他们优化了网站的用户体验。",
+        "pinyin": "Tāmen yōuhuàle wǎngzhàn de yònghù tǐyàn.",
+        "en": "Onlar web sitesinin kullanıcı deneyimini iyileştirdi."
+      },
+      {
+        "zh": "这个软件经过优化后运行更快。",
+        "pinyin": "Zhège ruǎnjiàn jīngguò yōuhuà hòu yùnxíng gèng kuài.",
+        "en": "Bu yazılım optimize edildikten sonra daha hızlı çalışıyor."
+      },
+      {
+        "zh": "政府正在优化资源配置。",
+        "pinyin": "Zhèngfǔ zhèngzài yōuhuà zīyuán pèizhì.",
+        "en": "Hükümet kaynak dağılımını optimize ediyor."
+      },
+      {
+        "zh": "他不断优化自己的写作技巧。",
+        "pinyin": "Tā bùduàn yōuhuà zìjǐ de xiězuò jìqiǎo.",
+        "en": "O kendi yazı becerisini sürekli iyileştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6967",
+    "hanzi": "优良",
+    "pinyin": "yōuliáng",
+    "meaning": "çok iyi, üstün nitelikli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一种优良的品种。",
+        "pinyin": "Zhè shì yī zhǒng yōuliáng de pǐnzhǒng.",
+        "en": "Bu üstün nitelikli bir türdür."
+      },
+      {
+        "zh": "他继承了父辈优良的品德。",
+        "pinyin": "Tā jìchéngle fùbèi yōuliáng de pǐndé.",
+        "en": "O babasının üstün karakterini miras aldı."
+      },
+      {
+        "zh": "学校提供优良的教育环境。",
+        "pinyin": "Xuéxiào tígōng yōuliáng de jiàoyù huánjìng.",
+        "en": "Okul üstün bir eğitim ortamı sunuyor."
+      },
+      {
+        "zh": "他的驾驶技术优良。",
+        "pinyin": "Tā de jiàshǐ jìshù yōuliáng.",
+        "en": "Onun sürüş becerisi çok iyi."
+      },
+      {
+        "zh": "这块地土质优良,适合种植。",
+        "pinyin": "Zhè kuài dì tǔzhì yōuliáng, shìhé zhòngzhí.",
+        "en": "Bu arazinin toprağı çok iyi, ekim için uygun."
+      }
+    ]
+  },
+  {
+    "id": "w6968",
+    "hanzi": "优先",
+    "pinyin": "yōuxiān",
+    "meaning": "öncelikli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "安全永远是优先考虑的问题。",
+        "pinyin": "Ānquán yǒngyuǎn shì yōuxiān kǎolǜ de wèntí.",
+        "en": "Güvenlik her zaman öncelikli düşünülen bir konudur."
+      },
+      {
+        "zh": "老人和儿童可以优先登机。",
+        "pinyin": "Lǎorén hé értóng kěyǐ yōuxiān dēngjī.",
+        "en": "Yaşlılar ve çocuklar önceliklle uçağa binebilir."
+      },
+      {
+        "zh": "这个项目享有优先处理权。",
+        "pinyin": "Zhège xiàngmù xiǎngyǒu yōuxiān chǔlǐquán.",
+        "en": "Bu proje öncelikli işlem hakkına sahiptir."
+      },
+      {
+        "zh": "他把家庭放在优先位置。",
+        "pinyin": "Tā bǎ jiātíng fàng zài yōuxiān wèizhi.",
+        "en": "O aileyi öncelikli konuma koyuyor."
+      },
+      {
+        "zh": "我们应该优先解决这个问题。",
+        "pinyin": "Wǒmen yīnggāi yōuxiān jiějué zhège wèntí.",
+        "en": "Bu sorunu öncelikli olarak çözmeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w6969",
+    "hanzi": "优雅",
+    "pinyin": "yōuyǎ",
+    "meaning": "zarif, nezih, kibar",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "她的举止十分优雅。",
+        "pinyin": "Tā de jǔzhǐ shífēn yōuyǎ.",
+        "en": "Onun davranışları son derece zarif."
+      },
+      {
+        "zh": "这座建筑设计得非常优雅。",
+        "pinyin": "Zhè zuò jiànzhù shèjì de fēicháng yōuyǎ.",
+        "en": "Bu bina son derece zarif tasarlanmış."
+      },
+      {
+        "zh": "她穿着一条优雅的裙子。",
+        "pinyin": "Tā chuānzhe yī tiáo yōuyǎ de qúnzi.",
+        "en": "O zarif bir elbise giyiyor."
+      },
+      {
+        "zh": "他说话的方式很优雅。",
+        "pinyin": "Tā shuōhuà de fāngshì hěn yōuyǎ.",
+        "en": "Onun konuşma tarzı çok kibar."
+      },
+      {
+        "zh": "天鹅在湖面上优雅地游动。",
+        "pinyin": "Tiān'é zài húmiàn shàng yōuyǎ de yóudòng.",
+        "en": "Kuğu göl yüzeyinde zarifçe yüzüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6970",
+    "hanzi": "优异",
+    "pinyin": "yōuyì",
+    "meaning": "üstün, mükemmel",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他以优异的成绩毕业了。",
+        "pinyin": "Tā yǐ yōuyì de chéngjì bìyè le.",
+        "en": "O üstün notlarla mezun oldu."
+      },
+      {
+        "zh": "这位运动员表现优异。",
+        "pinyin": "Zhè wèi yùndòngyuán biǎoxiàn yōuyì.",
+        "en": "Bu sporcu üstün bir performans sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w6971",
+    "hanzi": "优越",
+    "pinyin": "yōuyuè",
+    "meaning": "avantajlı, üstün",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这里地理位置十分优越。",
+        "pinyin": "Zhèlǐ dìlǐ wèizhi shífēn yōuyuè.",
+        "en": "Buranın coğrafi konumu son derece avantajlı."
+      },
+      {
+        "zh": "他生活在优越的条件下。",
+        "pinyin": "Tā shēnghuó zài yōuyuè de tiáojiàn xià.",
+        "en": "O avantajlı koşullar altında yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6972",
+    "hanzi": "优质",
+    "pinyin": "yōuzhì",
+    "meaning": "yüksek kalite",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们使用优质材料生产产品。",
+        "pinyin": "Tāmen shǐyòng yōuzhì cáiliào shēngchǎn chǎnpǐn.",
+        "en": "Onlar ürünlerini yüksek kaliteli malzemelerle üretiyor."
+      },
+      {
+        "zh": "公司致力于提供优质服务。",
+        "pinyin": "Gōngsī zhìlì yú tígōng yōuzhì fúwù.",
+        "en": "Şirket yüksek kaliteli hizmet sunmaya odaklanıyor."
+      },
+      {
+        "zh": "这是一家优质的供应商。",
+        "pinyin": "Zhè shì yī jiā yōuzhì de gōngyìngshāng.",
+        "en": "Bu kaliteli bir tedarikçidir."
+      },
+      {
+        "zh": "优质教育资源仍然稀缺。",
+        "pinyin": "Yōuzhì jiàoyù zīyuán réngrán xīquē.",
+        "en": "Kaliteli eğitim kaynakları hâlâ kıttır."
+      },
+      {
+        "zh": "农场专门种植优质水果。",
+        "pinyin": "Nóngchǎng zhuānmén zhòngzhí yōuzhì shuǐguǒ.",
+        "en": "Çiftlik özellikle kaliteli meyve yetiştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6973",
+    "hanzi": "悠闲",
+    "pinyin": "yōuxián",
+    "meaning": "kaygısız, rahat, telaşsız",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "他过着悠闲的退休生活。",
+        "pinyin": "Tā guòzhe yōuxián de tuìxiū shēnghuó.",
+        "en": "O rahat bir emeklilik hayatı sürüyor."
+      },
+      {
+        "zh": "周末他喜欢悠闲地散步。",
+        "pinyin": "Zhōumò tā xǐhuān yōuxián de sànbù.",
+        "en": "Hafta sonu rahatça yürüyüş yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w6974",
+    "hanzi": "幽静",
+    "pinyin": "yōujìng",
+    "meaning": "sessiz ve sakin",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这条小路十分幽静。",
+        "pinyin": "Zhè tiáo xiǎolù shífēn yōujìng.",
+        "en": "Bu küçük yol son derece sessiz ve sakin."
+      },
+      {
+        "zh": "他喜欢在幽静的森林里散步。",
+        "pinyin": "Tā xǐhuān zài yōujìng de sēnlín lǐ sànbù.",
+        "en": "O sessiz ormanda yürüyüş yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w6975",
+    "hanzi": "幽灵",
+    "pinyin": "yōulíng",
+    "meaning": "hayalet, ruh",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "传说这座房子里有幽灵。",
+        "pinyin": "Chuánshuō zhè zuò fángzi lǐ yǒu yōulíng.",
+        "en": "Efsaneye göre bu evde bir hayalet var."
+      },
+      {
+        "zh": "这部电影讲述了一个幽灵的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshùle yī gè yōulíng de gùshi.",
+        "en": "Bu film bir hayaletin hikayesini anlatıyor."
+      },
+      {
+        "zh": "孩子们害怕幽灵。",
+        "pinyin": "Háizimen hàipà yōulíng.",
+        "en": "Çocuklar hayaletlerden korkuyor."
+      },
+      {
+        "zh": "他坚信这个地方闹幽灵。",
+        "pinyin": "Tā jiānxìn zhège dìfang nào yōulíng.",
+        "en": "O bu yerde hayalet olduğuna kesinlikle inanıyor."
+      },
+      {
+        "zh": "夜晚的古堡显得格外阴森,充满幽灵传说。",
+        "pinyin": "Yèwǎn de gǔbǎo xiǎnde géwài yīnsēn, chōngmǎn yōulíng chuánshuō.",
+        "en": "Gece kalesi son derece ürkütücü görünüyor, hayalet efsaneleriyle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w6976",
+    "hanzi": "游船",
+    "pinyin": "yóuchuán",
+    "meaning": "gezinti gemisi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "我们坐游船游览了湖泊。",
+        "pinyin": "Wǒmen zuò yóuchuán yóulǎnle húpō.",
+        "en": "Gezinti gemisiyle gölü gezdik."
+      },
+      {
+        "zh": "这艘游船设施十分豪华。",
+        "pinyin": "Zhè sōu yóuchuán shèshī shífēn háohuá.",
+        "en": "Bu gezinti gemisinin donanımı son derece lüks."
+      },
+      {
+        "zh": "游船在夜晚灯光璀璨。",
+        "pinyin": "Yóuchuán zài yèwǎn dēngguāng cuǐcàn.",
+        "en": "Gezinti gemisi geceleyin parlak ışıklarla doluyor."
+      },
+      {
+        "zh": "他们预订了一次游船晚宴。",
+        "pinyin": "Tāmen yùdìngle yī cì yóuchuán wǎnyàn.",
+        "en": "Onlar bir gezinti gemisi akşam yemeği rezervasyonu yaptı."
+      },
+      {
+        "zh": "游船缓缓驶离码头。",
+        "pinyin": "Yóuchuán huǎnhuǎn shǐlí mǎtou.",
+        "en": "Gezinti gemisi yavaşça rıhtımdan ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6977",
+    "hanzi": "游玩",
+    "pinyin": "yóuwán",
+    "meaning": "gezip eğlenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "孩子们在公园里游玩。",
+        "pinyin": "Háizimen zài gōngyuán lǐ yóuwán.",
+        "en": "Çocuklar parkta gezip eğleniyor."
+      },
+      {
+        "zh": "他们去海边游玩了一整天。",
+        "pinyin": "Tāmen qù hǎibiān yóuwánle yī zhěng tiān.",
+        "en": "Onlar tüm gün deniz kenarında gezip eğlendi."
+      },
+      {
+        "zh": "我们计划去山区游玩。",
+        "pinyin": "Wǒmen jìhuà qù shānqū yóuwán.",
+        "en": "Dağlık bölgeye gezmeye gitmeyi planlıyoruz."
+      },
+      {
+        "zh": "假期里他带家人四处游玩。",
+        "pinyin": "Jiàqī lǐ tā dài jiārén sìchù yóuwán.",
+        "en": "Tatilde ailesini gezip eğlenmeye götürdü."
+      },
+      {
+        "zh": "这是一个适合全家游玩的地方。",
+        "pinyin": "Zhè shì yī gè shìhé quánjiā yóuwán de dìfang.",
+        "en": "Bu tüm aile için gezip eğlenmeye uygun bir yer."
+      }
+    ]
+  },
+  {
+    "id": "w6978",
+    "hanzi": "犹如",
+    "pinyin": "yóurú",
+    "meaning": "gibi, sanki",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "夜空犹如一块黑色的绸缎。",
+        "pinyin": "Yèkōng yóurú yī kuài hēisè de chóuduàn.",
+        "en": "Gece gökyüzü siyah bir ipek kumaş gibi."
+      },
+      {
+        "zh": "她的笑容犹如阳光般温暖。",
+        "pinyin": "Tā de xiàoróng yóurú yángguāng bān wēnnuǎn.",
+        "en": "Onun gülümsemesi güneş gibi sıcak."
+      }
+    ]
+  },
+  {
+    "id": "w6979",
+    "hanzi": "由来",
+    "pinyin": "yóulái",
+    "meaning": "köken, kaynak, başlangıç",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这个节日的由来很有意思。",
+        "pinyin": "Zhège jiérì de yóulái hěn yǒu yìsi.",
+        "en": "Bu bayramın kökeni oldukça ilginç."
+      },
+      {
+        "zh": "这个传说由来已久。",
+        "pinyin": "Zhège chuánshuō yóulái yǐjiǔ.",
+        "en": "Bu efsanenin kökeni çok eskilere dayanır."
+      }
+    ]
+  },
+  {
+    "id": "w6980",
+    "hanzi": "由衷",
+    "pinyin": "yóuzhōng",
+    "meaning": "kalpten, samimi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "我由衷地感谢你的帮助。",
+        "pinyin": "Wǒ yóuzhōng de gǎnxiè nǐ de bāngzhù.",
+        "en": "Yardımın için sana kalpten teşekkür ederim."
+      },
+      {
+        "zh": "他发出了由衷的赞叹。",
+        "pinyin": "Tā fāchūle yóuzhōng de zàntàn.",
+        "en": "O içtenlikle bir hayranlık ifade etti."
+      }
+    ]
+  },
+  {
+    "id": "w6981",
+    "hanzi": "油",
+    "pinyin": "yóu",
+    "meaning": "yağ",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "锅里倒了一点油。",
+        "pinyin": "Guō lǐ dàole yīdiǎn yóu.",
+        "en": "Tavaya biraz yağ döküldü."
+      },
+      {
+        "zh": "这道菜太油了。",
+        "pinyin": "Zhè dào cài tài yóu le.",
+        "en": "Bu yemek çok yağlı."
+      },
+      {
+        "zh": "他给自行车加了油。",
+        "pinyin": "Tā gěi zìxíngchē jiāle yóu.",
+        "en": "O bisiklete yağ ekledi."
+      },
+      {
+        "zh": "汽车没油了,需要加油。",
+        "pinyin": "Qìchē méi yóu le, xūyào jiāyóu.",
+        "en": "Arabanın benzini bitti, yakıt eklenmesi gerekiyor."
+      },
+      {
+        "zh": "橄榄油对身体有益。",
+        "pinyin": "Gǎnlǎnyóu duì shēntǐ yǒuyì.",
+        "en": "Zeytinyağı vücuda faydalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6982",
+    "hanzi": "油画",
+    "pinyin": "yóuhuà",
+    "meaning": "yağlı boya resmi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这幅油画非常珍贵。",
+        "pinyin": "Zhè fú yóuhuà fēicháng zhēnguì.",
+        "en": "Bu yağlı boya tablo son derece değerli."
+      },
+      {
+        "zh": "他学习油画已经十年了。",
+        "pinyin": "Tā xuéxí yóuhuà yǐjīng shí nián le.",
+        "en": "O on yıldır yağlı boya resmi öğreniyor."
+      },
+      {
+        "zh": "画廊展出了许多油画作品。",
+        "pinyin": "Huàláng zhǎnchūle xǔduō yóuhuà zuòpǐn.",
+        "en": "Galeri birçok yağlı boya eserini sergiledi."
+      },
+      {
+        "zh": "她的油画色彩鲜艳。",
+        "pinyin": "Tā de yóuhuà sècǎi xiānyàn.",
+        "en": "Onun yağlı boya tablosu canlı renklere sahip."
+      },
+      {
+        "zh": "他花了三个月完成了这幅油画。",
+        "pinyin": "Tā huāle sān gè yuè wánchéngle zhè fú yóuhuà.",
+        "en": "O bu yağlı boya tabloyu tamamlamak için üç ay harcadı."
+      }
+    ]
+  },
+  {
+    "id": "w6983",
+    "hanzi": "油腻",
+    "pinyin": "yóunì",
+    "meaning": "yağlı (yemek için)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这道菜太油腻了。",
+        "pinyin": "Zhè dào cài tài yóunì le.",
+        "en": "Bu yemek çok yağlı."
+      },
+      {
+        "zh": "他不喜欢吃油腻的食物。",
+        "pinyin": "Tā bù xǐhuān chī yóunì de shíwù.",
+        "en": "O yağlı yiyecekleri yemeyi sevmiyor."
+      },
+      {
+        "zh": "油腻的食物对健康不好。",
+        "pinyin": "Yóunì de shíwù duì jiànkāng bù hǎo.",
+        "en": "Yağlı yiyecekler sağlığa iyi gelmez."
+      },
+      {
+        "zh": "吃多了油腻食物容易发胖。",
+        "pinyin": "Chī duōle yóunì shíwù róngyì fāpàng.",
+        "en": "Fazla yağlı yiyecek yemek kilo almayı kolaylaştırır."
+      },
+      {
+        "zh": "他的皮肤有些油腻。",
+        "pinyin": "Tā de pífū yǒuxiē yóunì.",
+        "en": "Onun cildi biraz yağlı."
+      }
+    ]
+  },
+  {
+    "id": "w6984",
+    "hanzi": "油漆",
+    "pinyin": "yóuqī",
+    "meaning": "boya",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工人正在给墙壁刷油漆。",
+        "pinyin": "Gōngrén zhèngzài gěi qiángbì shuā yóuqī.",
+        "en": "İşçi duvara boya sürüyor."
+      },
+      {
+        "zh": "这种油漆颜色很鲜艳。",
+        "pinyin": "Zhè zhǒng yóuqī yánsè hěn xiānyàn.",
+        "en": "Bu boyanın rengi çok canlı."
+      },
+      {
+        "zh": "油漆还没干,请小心。",
+        "pinyin": "Yóuqī hái méi gān, qǐng xiǎoxīn.",
+        "en": "Boya henüz kurumadı, lütfen dikkat edin."
+      },
+      {
+        "zh": "他买了一桶白色油漆。",
+        "pinyin": "Tā mǎile yī tǒng báisè yóuqī.",
+        "en": "O bir kova beyaz boya satın aldı."
+      },
+      {
+        "zh": "这扇门需要重新刷油漆。",
+        "pinyin": "Zhè shàn mén xūyào chóngxīn shuā yóuqī.",
+        "en": "Bu kapının yeniden boyanması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6985",
+    "hanzi": "邮包",
+    "pinyin": "yóubāo",
+    "meaning": "posta paketi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "我收到了一个邮包。",
+        "pinyin": "Wǒ shōudàole yī gè yóubāo.",
+        "en": "Bir posta paketi aldım."
+      },
+      {
+        "zh": "邮包里装着一份礼物。",
+        "pinyin": "Yóubāo lǐ zhuāngzhe yī fèn lǐwù.",
+        "en": "Posta paketinde bir hediye var."
+      },
+      {
+        "zh": "这个邮包需要签收。",
+        "pinyin": "Zhège yóubāo xūyào qiānshōu.",
+        "en": "Bu posta paketinin imza karşılığında teslim alınması gerekiyor."
+      },
+      {
+        "zh": "他把邮包寄给了国外的朋友。",
+        "pinyin": "Tā bǎ yóubāo jì gěile guówài de péngyou.",
+        "en": "O paketi yurt dışındaki arkadaşına gönderdi."
+      },
+      {
+        "zh": "邮包在运输过程中损坏了。",
+        "pinyin": "Yóubāo zài yùnshū guòchéng zhōng sǔnhuài le.",
+        "en": "Posta paketi taşıma sırasında hasar gördü."
+      }
+    ]
+  },
+  {
+    "id": "w6986",
+    "hanzi": "邮寄",
+    "pinyin": "yóujì",
+    "meaning": "postalamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "我把信邮寄给了他。",
+        "pinyin": "Wǒ bǎ xìn yóujì gěile tā.",
+        "en": "Mektubu ona postaladım."
+      },
+      {
+        "zh": "这份文件需要邮寄到总部。",
+        "pinyin": "Zhè fèn wénjiàn xūyào yóujì dào zǒngbù.",
+        "en": "Bu belgenin genel merkeze postalanması gerekiyor."
+      },
+      {
+        "zh": "他把包裹邮寄到了国外。",
+        "pinyin": "Tā bǎ bāoguǒ yóujì dàole guówài.",
+        "en": "O paketi yurt dışına postaladı."
+      },
+      {
+        "zh": "请把申请表邮寄给我们。",
+        "pinyin": "Qǐng bǎ shēnqǐngbiǎo yóujì gěi wǒmen.",
+        "en": "Lütfen başvuru formunu bize postalayın."
+      },
+      {
+        "zh": "邮寄费用需要额外支付。",
+        "pinyin": "Yóujì fèiyòng xūyào éwài zhīfù.",
+        "en": "Posta ücretinin ayrıca ödenmesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6987",
+    "hanzi": "邮箱",
+    "pinyin": "yóuxiāng",
+    "meaning": "posta kutusu; e-posta",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请把资料发到我的邮箱。",
+        "pinyin": "Qǐng bǎ zīliào fā dào wǒ de yóuxiāng.",
+        "en": "Lütfen belgeleri e-posta adresime gönder."
+      },
+      {
+        "zh": "他每天检查电子邮箱。",
+        "pinyin": "Tā měitiān jiǎnchá diànzǐ yóuxiāng.",
+        "en": "O her gün e-posta kutusunu kontrol ediyor."
+      },
+      {
+        "zh": "小区门口有一排邮箱。",
+        "pinyin": "Xiǎoqū ménkǒu yǒu yī pái yóuxiāng.",
+        "en": "Sitenin girişinde bir sıra posta kutusu var."
+      },
+      {
+        "zh": "我忘记了邮箱密码。",
+        "pinyin": "Wǒ wàngjìle yóuxiāng mìmǎ.",
+        "en": "E-posta şifremi unuttum."
+      },
+      {
+        "zh": "邮箱里堆积了很多未读邮件。",
+        "pinyin": "Yóuxiāng lǐ duījīle hěn duō wèidú yóujiàn.",
+        "en": "E-posta kutusunda birçok okunmamış mesaj birikti."
+      }
+    ]
+  },
+  {
+    "id": "w6988",
+    "hanzi": "友爱",
+    "pinyin": "yǒu'ài",
+    "meaning": "kardeşçe sevgi, dostane şefkat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "兄弟姐妹之间要互相友爱。",
+        "pinyin": "Xiōngdì jiěmèi zhījiān yào hùxiāng yǒu'ài.",
+        "en": "Kardeşler arasında birbirine karşı şefkatli olunmalı."
+      },
+      {
+        "zh": "他们班级充满了友爱的气氛。",
+        "pinyin": "Tāmen bānjí chōngmǎnle yǒu'ài de qìfēn.",
+        "en": "Onların sınıfı dostane bir atmosferle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w6989",
+    "hanzi": "友情",
+    "pinyin": "yǒuqíng",
+    "meaning": "arkadaşlık, dostluk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们的友情已经持续了二十年。",
+        "pinyin": "Tāmen de yǒuqíng yǐjīng chíxùle èrshí nián.",
+        "en": "Onların dostluğu yirmi yıldır sürüyor."
+      },
+      {
+        "zh": "真正的友情是无价的。",
+        "pinyin": "Zhēnzhèng de yǒuqíng shì wújià de.",
+        "en": "Gerçek dostluk paha biçilmezdir."
+      },
+      {
+        "zh": "他们之间的友情非常深厚。",
+        "pinyin": "Tāmen zhījiān de yǒuqíng fēicháng shēnhòu.",
+        "en": "Aralarındaki dostluk çok derin."
+      },
+      {
+        "zh": "这次旅行加深了我们的友情。",
+        "pinyin": "Zhè cì lǚxíng jiāshēnle wǒmen de yǒuqíng.",
+        "en": "Bu seyahat dostluğumuzu derinleştirdi."
+      },
+      {
+        "zh": "他很珍惜与朋友之间的友情。",
+        "pinyin": "Tā hěn zhēnxī yǔ péngyou zhījiān de yǒuqíng.",
+        "en": "O arkadaşlarıyla olan dostluğuna çok değer veriyor."
+      }
+    ]
   }
 ]

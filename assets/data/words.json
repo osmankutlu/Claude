@@ -206707,5 +206707,803 @@
         "en": "Gün batımı gökyüzünü kıpkırmızıya boyadı."
       }
     ]
+  },
+  {
+    "id": "w6149",
+    "hanzi": "通俗",
+    "pinyin": "tōngsú",
+    "meaning": "popüler, herkesçe sevilen, anlaşılır",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这首歌很通俗易懂。",
+        "pinyin": "Zhè shǒu gē hěn tōngsú yìdǒng.",
+        "en": "Bu şarkı çok anlaşılır ve popüler."
+      },
+      {
+        "zh": "他用通俗的语言解释了这个概念。",
+        "pinyin": "Tā yòng tōngsú de yǔyán jiěshì le zhège gàiniàn.",
+        "en": "Bu kavramı sade bir dille açıkladı."
+      },
+      {
+        "zh": "通俗小说很受读者欢迎。",
+        "pinyin": "Tōngsú xiǎoshuō hěn shòu dúzhě huānyíng.",
+        "en": "Popüler romanlar okuyucular arasında çok rağbet görüyor."
+      },
+      {
+        "zh": "这个说法比较通俗。",
+        "pinyin": "Zhège shuōfa bǐjiào tōngsú.",
+        "en": "Bu ifade oldukça anlaşılır."
+      },
+      {
+        "zh": "他喜欢用通俗易懂的方式讲课。",
+        "pinyin": "Tā xǐhuan yòng tōngsú yìdǒng de fāngshì jiǎngkè.",
+        "en": "Ders anlatırken anlaşılır bir yol izlemeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w6150",
+    "hanzi": "通宵",
+    "pinyin": "tōngxiāo",
+    "meaning": "bütün gece, sabaha kadar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他通宵工作，没有休息。",
+        "pinyin": "Tā tōngxiāo gōngzuò, méiyǒu xiūxi.",
+        "en": "Bütün gece çalıştı, hiç dinlenmedi."
+      },
+      {
+        "zh": "他们通宵达旦地庆祝。",
+        "pinyin": "Tāmen tōngxiāo dádàn de qìngzhù.",
+        "en": "Sabaha kadar kutlama yaptılar."
+      }
+    ]
+  },
+  {
+    "id": "w6151",
+    "hanzi": "通信",
+    "pinyin": "tōngxìn",
+    "meaning": "mektuplaşmak, haberleşmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们经常通信联系。",
+        "pinyin": "Tāmen jīngcháng tōngxìn liánxì.",
+        "en": "Sık sık mektuplaşarak iletişim kuruyorlar."
+      },
+      {
+        "zh": "通信技术发展得非常快。",
+        "pinyin": "Tōngxìn jìshù fāzhǎn de fēicháng kuài.",
+        "en": "İletişim teknolojisi çok hızlı gelişiyor."
+      },
+      {
+        "zh": "他们保持了多年的通信往来。",
+        "pinyin": "Tāmen bǎochí le duōnián de tōngxìn wǎnglái.",
+        "en": "Yıllarca mektuplaşma ilişkilerini sürdürdüler."
+      },
+      {
+        "zh": "手机通信信号在山区较弱。",
+        "pinyin": "Shǒujī tōngxìn xìnhào zài shānqū jiào ruò.",
+        "en": "Cep telefonu iletişim sinyali dağlık bölgelerde daha zayıftır."
+      },
+      {
+        "zh": "他们是通信兵，负责军队的通讯工作。",
+        "pinyin": "Tāmen shì tōngxìnbīng, fùzé jūnduì de tōngxùn gōngzuò.",
+        "en": "Onlar iletişim askeri, ordunun iletişim işlerinden sorumlular."
+      }
+    ]
+  },
+  {
+    "id": "w6152",
+    "hanzi": "通行",
+    "pinyin": "tōngxíng",
+    "meaning": "geçmek, trafiğe açık olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这条路禁止车辆通行。",
+        "pinyin": "Zhè tiáo lù jìnzhǐ chēliàng tōngxíng.",
+        "en": "Bu yolda araç geçişi yasaktır."
+      },
+      {
+        "zh": "这种货币在国际上通行。",
+        "pinyin": "Zhè zhǒng huòbì zài guójì shàng tōngxíng.",
+        "en": "Bu para birimi uluslararası alanda geçerlidir."
+      }
+    ]
+  },
+  {
+    "id": "w6153",
+    "hanzi": "通用",
+    "pinyin": "tōngyòng",
+    "meaning": "genel kullanım, yaygın kullanılan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "英语是国际通用语言。",
+        "pinyin": "Yīngyǔ shì guójì tōngyòng yǔyán.",
+        "en": "İngilizce uluslararası ortak dildir."
+      },
+      {
+        "zh": "这种插头是通用的。",
+        "pinyin": "Zhè zhǒng chātóu shì tōngyòng de.",
+        "en": "Bu fiş genel kullanım içindir."
+      },
+      {
+        "zh": "这套零件在多种设备上通用。",
+        "pinyin": "Zhè tào língjiàn zài duō zhǒng shèbèi shàng tōngyòng.",
+        "en": "Bu parça takımı birçok cihazda ortak kullanılabilir."
+      },
+      {
+        "zh": "普通话是全国通用的语言。",
+        "pinyin": "Pǔtōnghuà shì quánguó tōngyòng de yǔyán.",
+        "en": "Standart Çince tüm ülkede ortak kullanılan dildir."
+      },
+      {
+        "zh": "这个符号是国际通用的。",
+        "pinyin": "Zhège fúhào shì guójì tōngyòng de.",
+        "en": "Bu sembol uluslararası ortak kullanılan bir semboldür."
+      }
+    ]
+  },
+  {
+    "id": "w6154",
+    "hanzi": "童",
+    "pinyin": "tóng",
+    "meaning": "çocuk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他有一颗童心。",
+        "pinyin": "Tā yǒu yì kē tóngxīn.",
+        "en": "Çocuksu bir kalbi var."
+      },
+      {
+        "zh": "这是一部经典的童话故事。",
+        "pinyin": "Zhè shì yí bù jīngdiǎn de tónghuà gùshi.",
+        "en": "Bu klasik bir masal hikâyesidir."
+      },
+      {
+        "zh": "他从童年时期就喜欢音乐。",
+        "pinyin": "Tā cóng tóngnián shíqī jiù xǐhuan yīnyuè.",
+        "en": "Çocukluğundan beri müziği sever."
+      },
+      {
+        "zh": "这个游戏很受儿童欢迎。",
+        "pinyin": "Zhège yóuxì hěn shòu értóng huānyíng.",
+        "en": "Bu oyun çocuklar arasında çok popüler."
+      },
+      {
+        "zh": "她被称为神童。",
+        "pinyin": "Tā bèi chēngwéi shéntóng.",
+        "en": "Ona harika çocuk deniyor."
+      }
+    ]
+  },
+  {
+    "id": "w6155",
+    "hanzi": "同班",
+    "pinyin": "tóngbān",
+    "meaning": "aynı sınıfta olmak; sınıf arkadaşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他们是同班同学。",
+        "pinyin": "Tāmen shì tóngbān tóngxué.",
+        "en": "Onlar sınıf arkadaşıdır."
+      },
+      {
+        "zh": "我们从小学就同班了。",
+        "pinyin": "Wǒmen cóng xiǎoxué jiù tóngbān le.",
+        "en": "İlkokuldan beri aynı sınıftayız."
+      },
+      {
+        "zh": "他和我姐姐是同班同学。",
+        "pinyin": "Tā hé wǒ jiějie shì tóngbān tóngxué.",
+        "en": "O ve ablam sınıf arkadaşıdır."
+      },
+      {
+        "zh": "同班同学一起组织了聚会。",
+        "pinyin": "Tóngbān tóngxué yìqǐ zǔzhī le jùhuì.",
+        "en": "Sınıf arkadaşları birlikte bir buluşma düzenledi."
+      },
+      {
+        "zh": "我们已经好几年没同班了。",
+        "pinyin": "Wǒmen yǐjīng hǎojǐ nián méi tóngbān le.",
+        "en": "Yıllardır aynı sınıfta değiliz."
+      }
+    ]
+  },
+  {
+    "id": "w6156",
+    "hanzi": "同伴",
+    "pinyin": "tóngbàn",
+    "meaning": "arkadaş, yoldaş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他和几位同伴一起去旅行了。",
+        "pinyin": "Tā hé jǐ wèi tóngbàn yìqǐ qù lǚxíng le.",
+        "en": "Birkaç yoldaşıyla birlikte seyahate çıktı."
+      },
+      {
+        "zh": "他们是多年的同伴。",
+        "pinyin": "Tāmen shì duōnián de tóngbàn.",
+        "en": "Onlar yıllardır arkadaş."
+      },
+      {
+        "zh": "登山队的同伴互相扶持。",
+        "pinyin": "Dēngshānduì de tóngbàn hùxiāng fúchí.",
+        "en": "Dağcılık ekibindeki yoldaşlar birbirine destek oluyor."
+      },
+      {
+        "zh": "她失去了自己的同伴。",
+        "pinyin": "Tā shīqù le zìjǐ de tóngbàn.",
+        "en": "Kendi arkadaşını kaybetti."
+      },
+      {
+        "zh": "他们是从小玩到大的同伴。",
+        "pinyin": "Tāmen shì cóngxiǎo wándào dà de tóngbàn.",
+        "en": "Onlar küçüklükten beri birlikte büyümüş arkadaşlar."
+      }
+    ]
+  },
+  {
+    "id": "w6157",
+    "hanzi": "同胞",
+    "pinyin": "tóngbāo",
+    "meaning": "kardeş, vatandaş (aynı milletten)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "海外同胞纷纷回国团聚。",
+        "pinyin": "Hǎiwài tóngbāo fēnfēn huíguó tuánjù.",
+        "en": "Denizaşırı vatandaşlar bir araya gelmek için ülkeye döndü."
+      },
+      {
+        "zh": "我们要关心每一位同胞。",
+        "pinyin": "Wǒmen yào guānxīn měi yí wèi tóngbāo.",
+        "en": "Her bir vatandaşımızı önemsemeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w6158",
+    "hanzi": "同等",
+    "pinyin": "tóngděng",
+    "meaning": "aynı derecede, eşit",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他们应该受到同等对待。",
+        "pinyin": "Tāmen yīnggāi shòudào tóngděng duìdài.",
+        "en": "Eşit muamele görmeleri gerekir."
+      },
+      {
+        "zh": "这份工作要求同等学历。",
+        "pinyin": "Zhè fèn gōngzuò yāoqiú tóngděng xuélì.",
+        "en": "Bu iş eşdeğer eğitim seviyesi gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6159",
+    "hanzi": "同化",
+    "pinyin": "tónghuà",
+    "meaning": "asimile etmek, benzeştirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他逐渐被当地文化同化了。",
+        "pinyin": "Tā zhújiàn bèi dāngdì wénhuà tónghuà le.",
+        "en": "Yavaş yavaş yerel kültür tarafından asimile edildi."
+      },
+      {
+        "zh": "移民往往会被主流文化同化。",
+        "pinyin": "Yímín wǎngwǎng huì bèi zhǔliú wénhuà tónghuà.",
+        "en": "Göçmenler genellikle ana akım kültür tarafından asimile edilir."
+      }
+    ]
+  },
+  {
+    "id": "w6160",
+    "hanzi": "同盟",
+    "pinyin": "tóngméng",
+    "meaning": "ittifak, birlik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两国结成了军事同盟。",
+        "pinyin": "Liǎng guó jiéchéng le jūnshì tóngméng.",
+        "en": "İki ülke bir askeri ittifak kurdu."
+      },
+      {
+        "zh": "他们组成了反腐败同盟。",
+        "pinyin": "Tāmen zǔchéng le fǎnfǔbài tóngméng.",
+        "en": "Yolsuzlukla mücadele ittifakı oluşturdular."
+      }
+    ]
+  },
+  {
+    "id": "w6161",
+    "hanzi": "同乡",
+    "pinyin": "tóngxiāng",
+    "meaning": "hemşeri, aynı memleketten",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "我们是同乡，都来自四川。",
+        "pinyin": "Wǒmen shì tóngxiāng, dōu láizì Sìchuān.",
+        "en": "Biz hemşeriyiz, ikimiz de Sichuan'danız."
+      },
+      {
+        "zh": "他在外地认识了几个同乡。",
+        "pinyin": "Tā zài wàidì rènshi le jǐ ge tóngxiāng.",
+        "en": "Başka bir şehirde birkaç hemşeriyle tanıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6162",
+    "hanzi": "同样",
+    "pinyin": "tóngyàng",
+    "meaning": "aynı, benzer",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他也遇到了同样的问题。",
+        "pinyin": "Tā yě yùdào le tóngyàng de wèntí.",
+        "en": "O da aynı sorunla karşılaştı."
+      },
+      {
+        "zh": "我们持同样的看法。",
+        "pinyin": "Wǒmen chí tóngyàng de kànfǎ.",
+        "en": "Aynı görüşü paylaşıyoruz."
+      },
+      {
+        "zh": "他们穿着同样的校服。",
+        "pinyin": "Tāmen chuānzhe tóngyàng de xiàofú.",
+        "en": "Aynı okul üniformasını giyiyorlar."
+      },
+      {
+        "zh": "这两件事情同样重要。",
+        "pinyin": "Zhè liǎng jiàn shìqing tóngyàng zhòngyào.",
+        "en": "Bu iki konu da aynı derecede önemli."
+      },
+      {
+        "zh": "他给了我同样的答案。",
+        "pinyin": "Tā gěi le wǒ tóngyàng de dá'àn.",
+        "en": "Bana aynı cevabı verdi."
+      }
+    ]
+  },
+  {
+    "id": "w6163",
+    "hanzi": "同一",
+    "pinyin": "tóngyī",
+    "meaning": "aynı, özdeş",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他们出生在同一天。",
+        "pinyin": "Tāmen chūshēng zài tóngyī tiān.",
+        "en": "Aynı gün doğdular."
+      },
+      {
+        "zh": "大家在同一间教室上课。",
+        "pinyin": "Dàjiā zài tóngyī jiān jiàoshì shàngkè.",
+        "en": "Herkes aynı sınıfta ders görüyor."
+      },
+      {
+        "zh": "他们对同一件事有不同看法。",
+        "pinyin": "Tāmen duì tóngyī jiàn shì yǒu bùtóng kànfǎ.",
+        "en": "Aynı konu hakkında farklı görüşlere sahipler."
+      },
+      {
+        "zh": "两人来自同一所大学。",
+        "pinyin": "Liǎng rén láizì tóngyī suǒ dàxué.",
+        "en": "İki kişi aynı üniversitedendir."
+      },
+      {
+        "zh": "这些产品出自同一家工厂。",
+        "pinyin": "Zhèxiē chǎnpǐn chūzì tóngyī jiā gōngchǎng.",
+        "en": "Bu ürünler aynı fabrikadan çıkmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w6164",
+    "hanzi": "同义词",
+    "pinyin": "tóngyìcí",
+    "meaning": "eş anlamlı kelime",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请找出这个词的同义词。",
+        "pinyin": "Qǐng zhǎochū zhège cí de tóngyìcí.",
+        "en": "Lütfen bu kelimenin eş anlamlısını bulun."
+      },
+      {
+        "zh": "“漂亮”和“美丽”是同义词。",
+        "pinyin": "“Piàoliang” hé “měilì” shì tóngyìcí.",
+        "en": "'Piàoliang' ve 'měilì' eş anlamlı kelimelerdir."
+      },
+      {
+        "zh": "字典里列出了很多同义词。",
+        "pinyin": "Zìdiǎn lǐ lièchū le hěnduō tóngyìcí.",
+        "en": "Sözlükte birçok eş anlamlı kelime listelenmiş."
+      },
+      {
+        "zh": "学习同义词有助于丰富词汇量。",
+        "pinyin": "Xuéxí tóngyìcí yǒuzhùyú fēngfù cíhuìliàng.",
+        "en": "Eş anlamlı kelimeleri öğrenmek kelime dağarcığını zenginleştirmeye yardımcı olur."
+      },
+      {
+        "zh": "这两个词虽然是同义词，但用法略有不同。",
+        "pinyin": "Zhè liǎng ge cí suīrán shì tóngyìcí, dàn yòngfǎ lüè yǒu bùtóng.",
+        "en": "Bu iki kelime eş anlamlı olmasına rağmen kullanımları biraz farklıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6165",
+    "hanzi": "同志",
+    "pinyin": "tóngzhì",
+    "meaning": "yoldaş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "同志们，我们要团结一致。",
+        "pinyin": "Tóngzhìmen, wǒmen yào tuánjié yízhì.",
+        "en": "Yoldaşlar, birlik olmalıyız."
+      },
+      {
+        "zh": "他被大家称为革命同志。",
+        "pinyin": "Tā bèi dàjiā chēngwéi gémìng tóngzhì.",
+        "en": "Herkes tarafından devrim yoldaşı olarak anılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6166",
+    "hanzi": "铜器",
+    "pinyin": "tóngqì",
+    "meaning": "bronz eşya, bakır eşya",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "博物馆里陈列着古代铜器。",
+        "pinyin": "Bówùguǎn lǐ chénlièzhe gǔdài tóngqì.",
+        "en": "Müzede antik bronz eşyalar sergileniyor."
+      },
+      {
+        "zh": "这件铜器有几千年的历史。",
+        "pinyin": "Zhè jiàn tóngqì yǒu jǐqiān nián de lìshǐ.",
+        "en": "Bu bronz eşyanın birkaç bin yıllık bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w6167",
+    "hanzi": "筒",
+    "pinyin": "tǒng",
+    "meaning": "boru şeklinde eşya, tüp",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他用望远镜筒观察远处的鸟。",
+        "pinyin": "Tā yòng wàngyuǎnjìng tǒng guānchá yuǎnchù de niǎo.",
+        "en": "Dürbünü kullanarak uzaktaki kuşu gözlemliyor."
+      },
+      {
+        "zh": "他把文件卷成了一个筒状。",
+        "pinyin": "Tā bǎ wénjiàn juǎnchéng le yí ge tǒngzhuàng.",
+        "en": "Belgeyi rulo şeklinde sardı."
+      }
+    ]
+  },
+  {
+    "id": "w6168",
+    "hanzi": "桶",
+    "pinyin": "tǒng",
+    "meaning": "kova, bidon, fıçı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他提着一桶水走了过来。",
+        "pinyin": "Tā tízhe yì tǒng shuǐ zǒu le guòlái.",
+        "en": "Bir kova su taşıyarak geldi."
+      },
+      {
+        "zh": "厨房里放着一个垃圾桶。",
+        "pinyin": "Chúfáng lǐ fàngzhe yí ge lājītǒng.",
+        "en": "Mutfakta bir çöp kovası duruyor."
+      },
+      {
+        "zh": "他买了一桶油。",
+        "pinyin": "Tā mǎi le yì tǒng yóu.",
+        "en": "Bir bidon yağ satın aldı."
+      },
+      {
+        "zh": "这个塑料桶可以装十升水。",
+        "pinyin": "Zhège sùliào tǒng kěyǐ zhuāng shí shēng shuǐ.",
+        "en": "Bu plastik kova on litre su alabilir."
+      },
+      {
+        "zh": "他把废纸扔进了桶里。",
+        "pinyin": "Tā bǎ fèizhǐ rēngjìn le tǒng lǐ.",
+        "en": "Kağıt atıklarını kovaya attı."
+      }
+    ]
+  },
+  {
+    "id": "w6169",
+    "hanzi": "统",
+    "pinyin": "tǒng",
+    "meaning": "sistem; birleştirmek, yönetmek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他统领了这支军队。",
+        "pinyin": "Tā tǒnglǐng le zhè zhī jūnduì.",
+        "en": "Bu orduyu yönetti."
+      },
+      {
+        "zh": "他统一了这个国家。",
+        "pinyin": "Tā tǒngyī le zhège guójiā.",
+        "en": "Bu ülkeyi birleştirdi."
+      },
+      {
+        "zh": "这项工作需要统筹安排。",
+        "pinyin": "Zhè xiàng gōngzuò xūyào tǒngchóu ānpái.",
+        "en": "Bu işin bütüncül bir şekilde planlanması gerekiyor."
+      },
+      {
+        "zh": "公司需要统一的管理制度。",
+        "pinyin": "Gōngsī xūyào tǒngyī de guǎnlǐ zhìdù.",
+        "en": "Şirketin birleştirilmiş bir yönetim sistemine ihtiyacı var."
+      },
+      {
+        "zh": "这个传统已经延续了很多代。",
+        "pinyin": "Zhège chuántǒng yǐjīng yánxù le hěnduō dài.",
+        "en": "Bu gelenek birçok kuşaktır sürdürülüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6170",
+    "hanzi": "统称",
+    "pinyin": "tǒngchēng",
+    "meaning": "ortak bir isimle çağırmak, genel isim",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这些国家统称为东南亚国家。",
+        "pinyin": "Zhèxiē guójiā tǒngchēng wéi Dōngnányà guójiā.",
+        "en": "Bu ülkeler ortak olarak Güneydoğu Asya ülkeleri diye adlandırılır."
+      },
+      {
+        "zh": "水果和蔬菜统称为农产品。",
+        "pinyin": "Shuǐguǒ hé shūcài tǒngchēng wéi nóngchǎnpǐn.",
+        "en": "Meyve ve sebzeler ortak olarak tarım ürünleri diye adlandırılır."
+      }
+    ]
+  },
+  {
+    "id": "w6171",
+    "hanzi": "统计",
+    "pinyin": "tǒngjì",
+    "meaning": "istatistik; saymak, hesaplamak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "根据统计数据，人口在增长。",
+        "pinyin": "Gēnjù tǒngjì shùjù, rénkǒu zài zēngzhǎng.",
+        "en": "İstatistiksel verilere göre nüfus artıyor."
+      },
+      {
+        "zh": "他负责统计销售数据。",
+        "pinyin": "Tā fùzé tǒngjì xiāoshòu shùjù.",
+        "en": "Satış verilerini istatistiksel olarak toplamaktan sorumlu."
+      },
+      {
+        "zh": "这份统计报告非常详细。",
+        "pinyin": "Zhè fèn tǒngjì bàogào fēicháng xiángxì.",
+        "en": "Bu istatistik raporu çok ayrıntılı."
+      },
+      {
+        "zh": "统计显示，失业率有所下降。",
+        "pinyin": "Tǒngjì xiǎnshì, shīyèlǜ yǒusuǒ xiàjiàng.",
+        "en": "İstatistikler işsizlik oranının düştüğünü gösteriyor."
+      },
+      {
+        "zh": "他每月都要统计公司的支出。",
+        "pinyin": "Tā měiyuè dōu yào tǒngjì gōngsī de zhīchū.",
+        "en": "Her ay şirketin giderlerini hesaplaması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6172",
+    "hanzi": "痛",
+    "pinyin": "tòng",
+    "meaning": "acımak, ağrımak, sancımak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "我的头很痛。",
+        "pinyin": "Wǒ de tóu hěn tòng.",
+        "en": "Başım çok ağrıyor."
+      },
+      {
+        "zh": "他脚上的伤口还很痛。",
+        "pinyin": "Tā jiǎo shàng de shāngkǒu hái hěn tòng.",
+        "en": "Ayağındaki yara hâlâ çok acıyor."
+      },
+      {
+        "zh": "牙痛让他一夜没睡。",
+        "pinyin": "Yátòng ràng tā yíyè méi shuì.",
+        "en": "Diş ağrısı yüzünden bütün gece uyuyamadı."
+      },
+      {
+        "zh": "她心痛地看着受伤的小猫。",
+        "pinyin": "Tā xīntòng de kànzhe shòushāng de xiǎomāo.",
+        "en": "Yaralı küçük kediye üzüntüyle bakıyor."
+      },
+      {
+        "zh": "肚子突然痛了起来。",
+        "pinyin": "Dùzi tūrán tòng le qǐlái.",
+        "en": "Karın ağrısı aniden başladı."
+      }
+    ]
+  },
+  {
+    "id": "w6173",
+    "hanzi": "痛心",
+    "pinyin": "tòngxīn",
+    "meaning": "üzülmüş, incinmiş, acı çekmiş",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "看到这样的结果，他感到十分痛心。",
+        "pinyin": "Kàndào zhèyàng de jiéguǒ, tā gǎndào shífēn tòngxīn.",
+        "en": "Böyle bir sonuç görünce çok üzüldü."
+      },
+      {
+        "zh": "浪费粮食是件令人痛心的事。",
+        "pinyin": "Làngfèi liángshi shì jiàn lìngrén tòngxīn de shì.",
+        "en": "Yemek israfı insanı üzen bir şeydir."
+      }
+    ]
+  },
+  {
+    "id": "w6174",
+    "hanzi": "偷",
+    "pinyin": "tōu",
+    "meaning": "çalmak, aşırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "有人偷了他的钱包。",
+        "pinyin": "Yǒurén tōu le tā de qiánbāo.",
+        "en": "Biri onun cüzdanını çaldı."
+      },
+      {
+        "zh": "小偷偷走了自行车。",
+        "pinyin": "Xiǎotōu tōuzǒu le zìxíngchē.",
+        "en": "Hırsız bisikleti çaldı."
+      },
+      {
+        "zh": "他从来没有偷过东西。",
+        "pinyin": "Tā cónglái méiyǒu tōuguò dōngxi.",
+        "en": "Hiçbir zaman bir şey çalmadı."
+      },
+      {
+        "zh": "他偷偷地拿走了文件。",
+        "pinyin": "Tā tōutōu de názǒu le wénjiàn.",
+        "en": "Belgeleri gizlice aldı."
+      },
+      {
+        "zh": "警察抓住了偷东西的贼。",
+        "pinyin": "Jǐngchá zhuāzhù le tōu dōngxi de zéi.",
+        "en": "Polis hırsızlık yapan hırsızı yakaladı."
+      }
+    ]
+  },
+  {
+    "id": "w6175",
+    "hanzi": "偷懒",
+    "pinyin": "tōulǎn",
+    "meaning": "tembellik etmek, kaytarmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他工作时经常偷懒。",
+        "pinyin": "Tā gōngzuò shí jīngcháng tōulǎn.",
+        "en": "Çalışırken sık sık kaytarır."
+      },
+      {
+        "zh": "学习不能偷懒。",
+        "pinyin": "Xuéxí bùnéng tōulǎn.",
+        "en": "Ders çalışırken kaytarılmaz."
+      }
+    ]
+  },
+  {
+    "id": "w6176",
+    "hanzi": "偷窃",
+    "pinyin": "tōuqiè",
+    "meaning": "çalmak, hırsızlık yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他因偷窃被警察逮捕了。",
+        "pinyin": "Tā yīn tōuqiè bèi jǐngchá dàibǔ le.",
+        "en": "Hırsızlıktan polis tarafından tutuklandı."
+      },
+      {
+        "zh": "商店安装了摄像头防止偷窃。",
+        "pinyin": "Shāngdiàn ānzhuāng le shèxiàngtóu fángzhǐ tōuqiè.",
+        "en": "Mağaza hırsızlığı önlemek için kamera taktı."
+      }
+    ]
   }
 ]

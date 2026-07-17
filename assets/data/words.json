@@ -204358,5 +204358,833 @@
         "en": "Merdiveni duvara yasladı."
       }
     ]
+  },
+  {
+    "id": "w6065",
+    "hanzi": "题材",
+    "pinyin": "tícái",
+    "meaning": "konu, tema (edebiyat/sanat)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这部小说的题材很新颖。",
+        "pinyin": "Zhè bù xiǎoshuō de tícái hěn xīnyǐng.",
+        "en": "Bu romanın konusu çok özgün."
+      },
+      {
+        "zh": "他喜欢历史题材的电影。",
+        "pinyin": "Tā xǐhuan lìshǐ tícái de diànyǐng.",
+        "en": "Tarihi konulu filmleri sever."
+      }
+    ]
+  },
+  {
+    "id": "w6066",
+    "hanzi": "提出",
+    "pinyin": "tíchū",
+    "meaning": "öne sürmek, sunmak, ileri sürmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他提出了一个新的想法。",
+        "pinyin": "Tā tíchū le yí ge xīn de xiǎngfǎ.",
+        "en": "Yeni bir fikir öne sürdü."
+      },
+      {
+        "zh": "老师提出了一个问题。",
+        "pinyin": "Lǎoshī tíchū le yí ge wèntí.",
+        "en": "Öğretmen bir soru sordu."
+      },
+      {
+        "zh": "我们向公司提出了建议。",
+        "pinyin": "Wǒmen xiàng gōngsī tíchū le jiànyì.",
+        "en": "Şirkete bir öneri sunduk."
+      },
+      {
+        "zh": "他提出了辞职申请。",
+        "pinyin": "Tā tíchū le cízhí shēnqǐng.",
+        "en": "İstifa başvurusunu sundu."
+      },
+      {
+        "zh": "会上提出了很多不同的意见。",
+        "pinyin": "Huì shàng tíchū le hěnduō bùtóng de yìjiàn.",
+        "en": "Toplantıda birçok farklı görüş öne sürüldü."
+      }
+    ]
+  },
+  {
+    "id": "w6067",
+    "hanzi": "提交",
+    "pinyin": "tíjiāo",
+    "meaning": "sunmak, teslim etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "请在周五前提交报告。",
+        "pinyin": "Qǐng zài zhōuwǔ qián tíjiāo bàogào.",
+        "en": "Lütfen cuma gününe kadar raporu teslim edin."
+      },
+      {
+        "zh": "他向学校提交了申请材料。",
+        "pinyin": "Tā xiàng xuéxiào tíjiāo le shēnqǐng cáiliào.",
+        "en": "Okula başvuru belgelerini sundu."
+      },
+      {
+        "zh": "这份提案已经提交给董事会了。",
+        "pinyin": "Zhè fèn tí'àn yǐjīng tíjiāo gěi dǒngshìhuì le.",
+        "en": "Bu öneri zaten yönetim kuruluna sunuldu."
+      },
+      {
+        "zh": "员工需要提交每月工作总结。",
+        "pinyin": "Yuángōng xūyào tíjiāo měiyuè gōngzuò zǒngjié.",
+        "en": "Çalışanların aylık iş özetlerini sunması gerekiyor."
+      },
+      {
+        "zh": "论文已经提交给期刊审核。",
+        "pinyin": "Lùnwén yǐjīng tíjiāo gěi qīkān shěnhé.",
+        "en": "Makale değerlendirilmek üzere zaten dergiye gönderildi."
+      }
+    ]
+  },
+  {
+    "id": "w6068",
+    "hanzi": "提议",
+    "pinyin": "tíyì",
+    "meaning": "öneride bulunmak, teklif etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他提议大家一起去郊游。",
+        "pinyin": "Tā tíyì dàjiā yìqǐ qù jiāoyóu.",
+        "en": "Herkesin birlikte doğa gezisine çıkmasını önerdi."
+      },
+      {
+        "zh": "会议上有人提议休会。",
+        "pinyin": "Huìyì shàng yǒurén tíyì xiūhuì.",
+        "en": "Toplantıda biri toplantıya ara verilmesini önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w6069",
+    "hanzi": "提早",
+    "pinyin": "tízǎo",
+    "meaning": "erkenden yapmak, öne almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "会议提早开始了。",
+        "pinyin": "Huìyì tízǎo kāishǐ le.",
+        "en": "Toplantı erkenden başladı."
+      },
+      {
+        "zh": "他提早完成了任务。",
+        "pinyin": "Tā tízǎo wánchéng le rènwu.",
+        "en": "Görevi erkenden tamamladı."
+      }
+    ]
+  },
+  {
+    "id": "w6070",
+    "hanzi": "体",
+    "pinyin": "tǐ",
+    "meaning": "vücut, cisim; biçim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的身体很健康。",
+        "pinyin": "Tā de shēntǐ hěn jiànkāng.",
+        "en": "Bedeni çok sağlıklı."
+      },
+      {
+        "zh": "水是液体。",
+        "pinyin": "Shuǐ shì yètǐ.",
+        "en": "Su sıvı haldedir."
+      },
+      {
+        "zh": "这是一个立体图形。",
+        "pinyin": "Zhè shì yí ge lìtǐ túxíng.",
+        "en": "Bu üç boyutlu bir şekildir."
+      },
+      {
+        "zh": "他体会到了这句话的深意。",
+        "pinyin": "Tā tǐhuì dào le zhè jù huà de shēnyì.",
+        "en": "Bu sözün derin anlamını hissetti."
+      },
+      {
+        "zh": "整体来看，这个方案不错。",
+        "pinyin": "Zhěngtǐ láikàn, zhège fāng'àn búcuò.",
+        "en": "Genel olarak baktığımızda, bu plan fena değil."
+      }
+    ]
+  },
+  {
+    "id": "w6071",
+    "hanzi": "体裁",
+    "pinyin": "tǐcái",
+    "meaning": "edebi tür",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这篇文章的体裁是散文。",
+        "pinyin": "Zhè piān wénzhāng de tǐcái shì sǎnwén.",
+        "en": "Bu makalenin edebi türü denemedir."
+      },
+      {
+        "zh": "小说是一种常见的文学体裁。",
+        "pinyin": "Xiǎoshuō shì yì zhǒng chángjiàn de wénxué tǐcái.",
+        "en": "Roman, yaygın bir edebi türdür."
+      }
+    ]
+  },
+  {
+    "id": "w6072",
+    "hanzi": "体操",
+    "pinyin": "tǐcāo",
+    "meaning": "jimnastik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "她从小练习体操。",
+        "pinyin": "Tā cóngxiǎo liànxí tǐcāo.",
+        "en": "Küçüklüğünden beri jimnastik yapıyor."
+      },
+      {
+        "zh": "体操运动员的身体非常柔软。",
+        "pinyin": "Tǐcāo yùndòngyuán de shēntǐ fēicháng róuruǎn.",
+        "en": "Jimnastikçilerin bedeni çok esnektir."
+      },
+      {
+        "zh": "学校每天早上都做广播体操。",
+        "pinyin": "Xuéxiào měitiān zǎoshang dōu zuò guǎngbō tǐcāo.",
+        "en": "Okul her sabah radyo jimnastiği yapıyor."
+      },
+      {
+        "zh": "他在体操比赛中获得了金牌。",
+        "pinyin": "Tā zài tǐcāo bǐsài zhōng huòdé le jīnpái.",
+        "en": "Jimnastik yarışmasında altın madalya kazandı."
+      },
+      {
+        "zh": "体操训练需要很强的毅力。",
+        "pinyin": "Tǐcāo xùnliàn xūyào hěn qiáng de yìlì.",
+        "en": "Jimnastik antrenmanı güçlü bir irade gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w6073",
+    "hanzi": "体力",
+    "pinyin": "tǐlì",
+    "meaning": "fiziksel güç, beden gücü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "这项工作需要很大的体力。",
+        "pinyin": "Zhè xiàng gōngzuò xūyào hěn dà de tǐlì.",
+        "en": "Bu iş büyük bir fiziksel güç gerektiriyor."
+      },
+      {
+        "zh": "他的体力恢复得很快。",
+        "pinyin": "Tā de tǐlì huīfù de hěn kuài.",
+        "en": "Fiziksel gücü çok hızlı toparlandı."
+      },
+      {
+        "zh": "长跑消耗了大量体力。",
+        "pinyin": "Chángpǎo xiāohào le dàliàng tǐlì.",
+        "en": "Uzun mesafe koşu büyük miktarda fiziksel güç tüketti."
+      },
+      {
+        "zh": "老人的体力不如从前了。",
+        "pinyin": "Lǎorén de tǐlì bùrú cóngqián le.",
+        "en": "Yaşlı adamın fiziksel gücü eskisi gibi değil."
+      },
+      {
+        "zh": "他保持着良好的体力状态。",
+        "pinyin": "Tā bǎochízhe liánghǎo de tǐlì zhuàngtài.",
+        "en": "İyi bir fiziksel güç durumunu koruyor."
+      }
+    ]
+  },
+  {
+    "id": "w6074",
+    "hanzi": "体面",
+    "pinyin": "tǐmian",
+    "meaning": "itibar, onurlu, saygın",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他找了一份体面的工作。",
+        "pinyin": "Tā zhǎo le yí fèn tǐmian de gōngzuò.",
+        "en": "Saygın bir iş buldu."
+      },
+      {
+        "zh": "他希望能有体面地退休。",
+        "pinyin": "Tā xīwàng néng yǒu tǐmian de tuìxiū.",
+        "en": "Onurlu bir şekilde emekli olmayı umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6075",
+    "hanzi": "体系",
+    "pinyin": "tǐxì",
+    "meaning": "sistem, düzen",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个国家有完善的教育体系。",
+        "pinyin": "Zhège guójiā yǒu wánshàn de jiàoyù tǐxì.",
+        "en": "Bu ülkenin mükemmel bir eğitim sistemi var."
+      },
+      {
+        "zh": "他建立了一套完整的理论体系。",
+        "pinyin": "Tā jiànlì le yí tào wánzhěng de lǐlùn tǐxì.",
+        "en": "Eksiksiz bir teori sistemi kurdu."
+      },
+      {
+        "zh": "医疗体系需要不断改进。",
+        "pinyin": "Yīliáo tǐxì xūyào búduàn gǎijìn.",
+        "en": "Sağlık sisteminin sürekli iyileştirilmesi gerekiyor."
+      },
+      {
+        "zh": "这项技术已经形成了完整的产业体系。",
+        "pinyin": "Zhè xiàng jìshù yǐjīng xíngchéng le wánzhěng de chǎnyè tǐxì.",
+        "en": "Bu teknoloji zaten eksiksiz bir endüstri sistemi oluşturdu."
+      },
+      {
+        "zh": "法律体系保护公民的基本权利。",
+        "pinyin": "Fǎlǜ tǐxì bǎohù gōngmín de jīběn quánlì.",
+        "en": "Yasal sistem vatandaşların temel haklarını korur."
+      }
+    ]
+  },
+  {
+    "id": "w6076",
+    "hanzi": "体温",
+    "pinyin": "tǐwēn",
+    "meaning": "vücut ısısı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的体温有点高。",
+        "pinyin": "Tā de tǐwēn yǒudiǎn gāo.",
+        "en": "Vücut ısısı biraz yüksek."
+      },
+      {
+        "zh": "请每天测量体温。",
+        "pinyin": "Qǐng měitiān cèliáng tǐwēn.",
+        "en": "Lütfen her gün vücut ısınızı ölçün."
+      },
+      {
+        "zh": "正常体温是三十七度左右。",
+        "pinyin": "Zhèngcháng tǐwēn shì sānshíqī dù zuǒyòu.",
+        "en": "Normal vücut ısısı yaklaşık otuz yedi derecedir."
+      },
+      {
+        "zh": "他的体温恢复正常了。",
+        "pinyin": "Tā de tǐwēn huīfù zhèngcháng le.",
+        "en": "Vücut ısısı normale döndü."
+      },
+      {
+        "zh": "护士用体温计给病人量体温。",
+        "pinyin": "Hùshi yòng tǐwēnjì gěi bìngrén liáng tǐwēn.",
+        "en": "Hemşire termometreyle hastanın vücut ısısını ölçüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6077",
+    "hanzi": "体制",
+    "pinyin": "tǐzhì",
+    "meaning": "sistem, yapı (kurumsal, siyasi)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个国家实行民主体制。",
+        "pinyin": "Zhège guójiā shíxíng mínzhǔ tǐzhì.",
+        "en": "Bu ülke demokratik bir sistem uyguluyor."
+      },
+      {
+        "zh": "教育体制需要进行改革。",
+        "pinyin": "Jiàoyù tǐzhì xūyào jìnxíng gǎigé.",
+        "en": "Eğitim sisteminin reform yapılması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6078",
+    "hanzi": "体质",
+    "pinyin": "tǐzhì",
+    "meaning": "bünye, fiziksel yapı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的体质很强壮。",
+        "pinyin": "Tā de tǐzhì hěn qiángzhuàng.",
+        "en": "Bünyesi çok güçlü."
+      },
+      {
+        "zh": "锻炼可以增强体质。",
+        "pinyin": "Duànliàn kěyǐ zēngqiáng tǐzhì.",
+        "en": "Egzersiz bünyeyi güçlendirebilir."
+      },
+      {
+        "zh": "她的体质比较虚弱。",
+        "pinyin": "Tā de tǐzhì bǐjiào xūruò.",
+        "en": "Bünyesi oldukça zayıf."
+      },
+      {
+        "zh": "不同的人有不同的体质。",
+        "pinyin": "Bùtóng de rén yǒu bùtóng de tǐzhì.",
+        "en": "Farklı insanların farklı bünyeleri vardır."
+      },
+      {
+        "zh": "良好的体质有助于抵抗疾病。",
+        "pinyin": "Liánghǎo de tǐzhì yǒuzhùyú dǐkàng jíbìng.",
+        "en": "İyi bir bünye hastalıklara karşı direnç sağlar."
+      }
+    ]
+  },
+  {
+    "id": "w6079",
+    "hanzi": "体重",
+    "pinyin": "tǐzhòng",
+    "meaning": "vücut ağırlığı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的体重增加了不少。",
+        "pinyin": "Tā de tǐzhòng zēngjiā le bùshǎo.",
+        "en": "Vücut ağırlığı hayli arttı."
+      },
+      {
+        "zh": "她一直在控制体重。",
+        "pinyin": "Tā yìzhí zài kòngzhì tǐzhòng.",
+        "en": "Sürekli vücut ağırlığını kontrol ediyor."
+      },
+      {
+        "zh": "请每天称一下体重。",
+        "pinyin": "Qǐng měitiān chēng yíxià tǐzhòng.",
+        "en": "Lütfen her gün kilonuzu ölçün."
+      },
+      {
+        "zh": "他的体重比标准体重轻。",
+        "pinyin": "Tā de tǐzhòng bǐ biāozhǔn tǐzhòng qīng.",
+        "en": "Vücut ağırlığı standart ağırlıktan daha hafif."
+      },
+      {
+        "zh": "适当运动有助于控制体重。",
+        "pinyin": "Shìdàng yùndòng yǒuzhùyú kòngzhì tǐzhòng.",
+        "en": "Uygun egzersiz vücut ağırlığını kontrol etmeye yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w6080",
+    "hanzi": "替代",
+    "pinyin": "tìdài",
+    "meaning": "yerini almak, yerine geçmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "新技术正在替代旧方法。",
+        "pinyin": "Xīn jìshù zhèngzài tìdài jiù fāngfǎ.",
+        "en": "Yeni teknoloji eski yöntemin yerini alıyor."
+      },
+      {
+        "zh": "没有什么能替代母爱。",
+        "pinyin": "Méiyǒu shénme néng tìdài mǔ'ài.",
+        "en": "Hiçbir şey anne sevgisinin yerini tutamaz."
+      }
+    ]
+  },
+  {
+    "id": "w6081",
+    "hanzi": "天边",
+    "pinyin": "tiānbiān",
+    "meaning": "ufuk, gökyüzünün ucu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "夕阳消失在天边。",
+        "pinyin": "Xīyáng xiāoshī zài tiānbiān.",
+        "en": "Gün batımı ufukta kayboldu."
+      },
+      {
+        "zh": "远处的天边泛起了红光。",
+        "pinyin": "Yuǎnchù de tiānbiān fànqǐ le hóngguāng.",
+        "en": "Uzaktaki ufukta kırmızı bir ışık belirdi."
+      },
+      {
+        "zh": "他望着天边发呆。",
+        "pinyin": "Tā wàngzhe tiānbiān fādāi.",
+        "en": "Ufka bakarak dalıp gitti."
+      },
+      {
+        "zh": "天边出现了一道彩虹。",
+        "pinyin": "Tiānbiān chūxiàn le yí dào cǎihóng.",
+        "en": "Ufukta bir gökkuşağı belirdi."
+      },
+      {
+        "zh": "船消失在天边的尽头。",
+        "pinyin": "Chuán xiāoshī zài tiānbiān de jìntóu.",
+        "en": "Gemi ufkun sonunda kayboldu."
+      }
+    ]
+  },
+  {
+    "id": "w6082",
+    "hanzi": "天才",
+    "pinyin": "tiāncái",
+    "meaning": "dahi, deha, üstün kabiliyet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他是一位音乐天才。",
+        "pinyin": "Tā shì yí wèi yīnyuè tiāncái.",
+        "en": "O bir müzik dehası."
+      },
+      {
+        "zh": "爱因斯坦被认为是科学天才。",
+        "pinyin": "Àiyīnsītǎn bèi rènwéi shì kēxué tiāncái.",
+        "en": "Einstein bir bilim dehası olarak kabul edilir."
+      },
+      {
+        "zh": "他从小就展现出了天才般的才能。",
+        "pinyin": "Tā cóngxiǎo jiù zhǎnxiàn chū le tiāncái bān de cáinéng.",
+        "en": "Küçüklüğünden beri dehaca bir yetenek sergiledi."
+      },
+      {
+        "zh": "这个孩子是数学天才。",
+        "pinyin": "Zhège háizi shì shùxué tiāncái.",
+        "en": "Bu çocuk bir matematik dehası."
+      },
+      {
+        "zh": "天才需要努力才能取得成功。",
+        "pinyin": "Tiāncái xūyào nǔlì cáinéng qǔdé chénggōng.",
+        "en": "Dehanın başarıya ulaşması için de çaba gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w6083",
+    "hanzi": "天鹅",
+    "pinyin": "tiān'é",
+    "meaning": "kuğu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "湖面上游着几只天鹅。",
+        "pinyin": "Húmiàn shàng yóuzhe jǐ zhī tiān'é.",
+        "en": "Göl yüzeyinde birkaç kuğu yüzüyor."
+      },
+      {
+        "zh": "天鹅的姿态非常优雅。",
+        "pinyin": "Tiān'é de zītài fēicháng yōuyǎ.",
+        "en": "Kuğunun duruşu çok zarif."
+      },
+      {
+        "zh": "白天鹅象征着纯洁与美丽。",
+        "pinyin": "Bái tiān'é xiàngzhēngzhe chúnjié yǔ měilì.",
+        "en": "Beyaz kuğu saflık ve güzelliği simgeler."
+      },
+      {
+        "zh": "这对天鹅一生只有一个伴侣。",
+        "pinyin": "Zhè duì tiān'é yìshēng zhǐyǒu yí ge bànlǚ.",
+        "en": "Bu kuğu çifti hayatı boyunca sadece bir eşe sahiptir."
+      },
+      {
+        "zh": "孩子们喂天鹅面包屑。",
+        "pinyin": "Háizimen wèi tiān'é miànbāoxiè.",
+        "en": "Çocuklar kuğulara ekmek kırıntısı veriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6084",
+    "hanzi": "天赋",
+    "pinyin": "tiānfù",
+    "meaning": "doğuştan yetenek, Allah vergisi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他在绘画方面有很高的天赋。",
+        "pinyin": "Tā zài huìhuà fāngmiàn yǒu hěn gāo de tiānfù.",
+        "en": "Resim konusunda büyük bir doğuştan yeteneğe sahip."
+      },
+      {
+        "zh": "每个人都有自己的天赋。",
+        "pinyin": "Měige rén dōu yǒu zìjǐ de tiānfù.",
+        "en": "Herkesin kendi doğuştan yeteneği vardır."
+      }
+    ]
+  },
+  {
+    "id": "w6085",
+    "hanzi": "天花板",
+    "pinyin": "tiānhuābǎn",
+    "meaning": "tavan; (mecazi) üst sınır",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "房间的天花板很高。",
+        "pinyin": "Fángjiān de tiānhuābǎn hěn gāo.",
+        "en": "Odanın tavanı çok yüksek."
+      },
+      {
+        "zh": "他觉得自己的职业发展遇到了天花板。",
+        "pinyin": "Tā juéde zìjǐ de zhíyè fāzhǎn yùdào le tiānhuābǎn.",
+        "en": "Kariyer gelişiminde bir üst sınıra ulaştığını düşünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6086",
+    "hanzi": "天线",
+    "pinyin": "tiānxiàn",
+    "meaning": "anten",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "屋顶上安装了一根天线。",
+        "pinyin": "Wūdǐng shàng ānzhuāng le yì gēn tiānxiàn.",
+        "en": "Çatıya bir anten kuruldu."
+      },
+      {
+        "zh": "信号弱可能是天线的问题。",
+        "pinyin": "Xìnhào ruò kěnéng shì tiānxiàn de wèntí.",
+        "en": "Sinyalin zayıf olması antenle ilgili bir sorun olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6087",
+    "hanzi": "天性",
+    "pinyin": "tiānxìng",
+    "meaning": "fıtrat, doğuştan gelen tabiat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "善良是他的天性。",
+        "pinyin": "Shànliáng shì tā de tiānxìng.",
+        "en": "İyilikseverlik onun fıtratıdır."
+      },
+      {
+        "zh": "好奇心是孩子的天性。",
+        "pinyin": "Hàoqíxīn shì háizi de tiānxìng.",
+        "en": "Merak, çocuğun doğasında vardır."
+      }
+    ]
+  },
+  {
+    "id": "w6088",
+    "hanzi": "甜美",
+    "pinyin": "tiánměi",
+    "meaning": "tatlı, hoş",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "她的笑容甜美动人。",
+        "pinyin": "Tā de xiàoróng tiánměi dòngrén.",
+        "en": "Gülümsemesi tatlı ve etkileyici."
+      },
+      {
+        "zh": "这个梦很甜美。",
+        "pinyin": "Zhège mèng hěn tiánměi.",
+        "en": "Bu rüya çok tatlıydı."
+      },
+      {
+        "zh": "她有一副甜美的嗓音。",
+        "pinyin": "Tā yǒu yí fù tiánměi de sǎngyīn.",
+        "en": "Tatlı bir sesi var."
+      },
+      {
+        "zh": "他们度过了甜美的时光。",
+        "pinyin": "Tāmen dùguò le tiánměi de shíguāng.",
+        "en": "Tatlı bir zaman geçirdiler."
+      },
+      {
+        "zh": "这种水果味道甜美。",
+        "pinyin": "Zhè zhǒng shuǐguǒ wèidao tiánměi.",
+        "en": "Bu meyvenin tadı tatlı ve hoş."
+      }
+    ]
+  },
+  {
+    "id": "w6089",
+    "hanzi": "甜蜜",
+    "pinyin": "tiánmì",
+    "meaning": "tatlı, mutlu (ilişki, anı)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们过着甜蜜的生活。",
+        "pinyin": "Tāmen guòzhe tiánmì de shēnghuó.",
+        "en": "Tatlı bir hayat sürüyorlar."
+      },
+      {
+        "zh": "这是一段甜蜜的回忆。",
+        "pinyin": "Zhè shì yíduàn tiánmì de huíyì.",
+        "en": "Bu tatlı bir anıdır."
+      },
+      {
+        "zh": "她脸上露出了甜蜜的笑容。",
+        "pinyin": "Tā liǎn shàng lùchū le tiánmì de xiàoróng.",
+        "en": "Yüzünde tatlı bir gülümseme belirdi."
+      },
+      {
+        "zh": "他们的婚姻十分甜蜜。",
+        "pinyin": "Tāmen de hūnyīn shífēn tiánmì.",
+        "en": "Evlilikleri oldukça mutlu."
+      },
+      {
+        "zh": "初恋的感觉总是甜蜜的。",
+        "pinyin": "Chūliàn de gǎnjué zǒngshì tiánmì de.",
+        "en": "İlk aşkın hissi her zaman tatlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6090",
+    "hanzi": "填写",
+    "pinyin": "tiánxiě",
+    "meaning": "doldurmak (form, belge)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请填写这张表格。",
+        "pinyin": "Qǐng tiánxiě zhè zhāng biǎogé.",
+        "en": "Lütfen bu formu doldurun."
+      },
+      {
+        "zh": "他仔细填写了申请表。",
+        "pinyin": "Tā zǐxì tiánxiě le shēnqǐngbiǎo.",
+        "en": "Başvuru formunu dikkatlice doldurdu."
+      },
+      {
+        "zh": "请用黑色笔填写您的信息。",
+        "pinyin": "Qǐng yòng hēisè bǐ tiánxiě nín de xìnxī.",
+        "en": "Lütfen bilgilerinizi siyah kalemle doldurun."
+      },
+      {
+        "zh": "他忘记填写日期了。",
+        "pinyin": "Tā wàngjì tiánxiě rìqī le.",
+        "en": "Tarihi doldurmayı unuttu."
+      },
+      {
+        "zh": "填写完毕后请签名。",
+        "pinyin": "Tiánxiě wánbì hòu qǐng qiānmíng.",
+        "en": "Doldurmayı tamamladıktan sonra lütfen imzalayın."
+      }
+    ]
+  },
+  {
+    "id": "w6091",
+    "hanzi": "田径",
+    "pinyin": "tiánjìng",
+    "meaning": "atletizm",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他是田径运动员。",
+        "pinyin": "Tā shì tiánjìng yùndòngyuán.",
+        "en": "O bir atletizm sporcusu."
+      },
+      {
+        "zh": "学校举办了田径运动会。",
+        "pinyin": "Xuéxiào jǔbàn le tiánjìng yùndònghuì.",
+        "en": "Okul atletizm müsabakaları düzenledi."
+      },
+      {
+        "zh": "田径比赛包括跑步和跳远等项目。",
+        "pinyin": "Tiánjìng bǐsài bāokuò pǎobù hé tiàoyuǎn děng xiàngmù.",
+        "en": "Atletizm müsabakaları koşu ve uzun atlama gibi dalları içerir."
+      },
+      {
+        "zh": "他从小就喜欢田径运动。",
+        "pinyin": "Tā cóngxiǎo jiù xǐhuan tiánjìng yùndòng.",
+        "en": "Küçüklüğünden beri atletizm sporunu sever."
+      },
+      {
+        "zh": "田径场上正在进行比赛。",
+        "pinyin": "Tiánjìngchǎng shàng zhèngzài jìnxíng bǐsài.",
+        "en": "Atletizm sahasında bir yarışma sürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6092",
+    "hanzi": "挑剔",
+    "pinyin": "tiāoti",
+    "meaning": "titiz, kılı kırk yaran, seçici",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他对食物很挑剔。",
+        "pinyin": "Tā duì shíwù hěn tiāoti.",
+        "en": "Yemek konusunda çok seçici."
+      },
+      {
+        "zh": "老板对工作质量非常挑剔。",
+        "pinyin": "Lǎobǎn duì gōngzuò zhìliàng fēicháng tiāoti.",
+        "en": "Patron iş kalitesi konusunda çok titiz."
+      }
+    ]
   }
 ]

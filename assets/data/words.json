@@ -187855,5 +187855,773 @@
         "en": "Her dört yılda bir artık yıl gelir."
       }
     ]
+  },
+  {
+    "id": "w5477",
+    "hanzi": "若非",
+    "pinyin": "ruòfēi",
+    "meaning": "olmasaydı, aksi takdirde",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "若非你的帮助，我不可能成功。",
+        "pinyin": "Ruòfēi nǐ de bāngzhù, wǒ bù kěnéng chénggōng.",
+        "en": "Senin yardımın olmasaydı başaramazdım."
+      },
+      {
+        "zh": "若非亲眼所见，我很难相信。",
+        "pinyin": "Ruòfēi qīnyǎn suǒjiàn, wǒ hěn nán xiāngxìn.",
+        "en": "Kendi gözlerimle görmeseydim inanmam çok zor olurdu."
+      }
+    ]
+  },
+  {
+    "id": "w5478",
+    "hanzi": "若是",
+    "pinyin": "ruòshì",
+    "meaning": "eğer, ise, şayet",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "若是有问题，请随时联系我。",
+        "pinyin": "Ruòshì yǒu wèntí, qǐng suíshí liánxì wǒ.",
+        "en": "Eğer bir sorun olursa, lütfen her zaman benimle iletişime geçin."
+      },
+      {
+        "zh": "若是明天下雨，活动就取消。",
+        "pinyin": "Ruòshì míngtiān xiàyǔ, huódòng jiù qǔxiāo.",
+        "en": "Yarın yağmur yağarsa, etkinlik iptal edilecek."
+      }
+    ]
+  },
+  {
+    "id": "w5479",
+    "hanzi": "若无其事",
+    "pinyin": "ruòwúqíshì",
+    "meaning": "hiçbir şey olmamış gibi davranmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他若无其事地继续工作。",
+        "pinyin": "Tā ruòwúqíshì de jìxù gōngzuò.",
+        "en": "Hiçbir şey olmamış gibi işine devam etti."
+      },
+      {
+        "zh": "她听到坏消息后依然若无其事。",
+        "pinyin": "Tā tīngdào huài xiāoxi hòu yīrán ruòwúqíshì.",
+        "en": "Kötü haberi duyduktan sonra bile hiçbir şey olmamış gibi davrandı."
+      }
+    ]
+  },
+  {
+    "id": "w5480",
+    "hanzi": "撒谎",
+    "pinyin": "sāhuǎng",
+    "meaning": "yalan söylemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他从不撒谎。",
+        "pinyin": "Tā cóngbù sāhuǎng.",
+        "en": "Hiçbir zaman yalan söylemez."
+      },
+      {
+        "zh": "孩子撒谎被妈妈发现了。",
+        "pinyin": "Háizi sāhuǎng bèi māma fāxiàn le.",
+        "en": "Çocuğun yalan söylediği annesi tarafından fark edildi."
+      },
+      {
+        "zh": "他撒谎说自己生病了。",
+        "pinyin": "Tā sāhuǎng shuō zìjǐ shēngbìng le.",
+        "en": "Hasta olduğunu söyleyerek yalan söyledi."
+      },
+      {
+        "zh": "我们不应该对朋友撒谎。",
+        "pinyin": "Wǒmen bù yīnggāi duì péngyou sāhuǎng.",
+        "en": "Arkadaşlarımıza yalan söylememeliyiz."
+      },
+      {
+        "zh": "他撒谎的样子一眼就能看出来。",
+        "pinyin": "Tā sāhuǎng de yàngzi yìyǎn jiù néng kànchūlái.",
+        "en": "Yalan söylediği bir bakışta anlaşılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5481",
+    "hanzi": "撒娇",
+    "pinyin": "sājiāo",
+    "meaning": "nazlanmak, cilve yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "小女孩对爸爸撒娇。",
+        "pinyin": "Xiǎonǚhái duì bàba sājiāo.",
+        "en": "Küçük kız babasına nazlanıyor."
+      },
+      {
+        "zh": "她喜欢撒娇让妈妈买玩具。",
+        "pinyin": "Tā xǐhuan sājiāo ràng māma mǎi wánjù.",
+        "en": "Nazlanarak annesine oyuncak aldırmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5482",
+    "hanzi": "撒手",
+    "pinyin": "sāshǒu",
+    "meaning": "bırakmak, elini çekmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他突然撒手，杯子掉在了地上。",
+        "pinyin": "Tā tūrán sāshǒu, bēizi diào zài le dìshàng.",
+        "en": "Aniden elini bıraktı, bardak yere düştü."
+      },
+      {
+        "zh": "他决定撒手不管这件事了。",
+        "pinyin": "Tā juédìng sāshǒu bùguǎn zhè jiàn shì le.",
+        "en": "Bu işten elini çekmeye ve ilgilenmemeye karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5483",
+    "hanzi": "洒脱",
+    "pinyin": "sǎtuō",
+    "meaning": "rahat, doğal, kayıtsız",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他性格洒脱，从不斤斤计较。",
+        "pinyin": "Tā xìnggé sǎtuō, cóngbù jīnjīnjìjiào.",
+        "en": "Karakteri rahat, hiçbir zaman ince hesap yapmaz."
+      },
+      {
+        "zh": "她的举止十分洒脱大方。",
+        "pinyin": "Tā de jǔzhǐ shífēn sǎtuō dàfang.",
+        "en": "Tavırları oldukça rahat ve cömert."
+      }
+    ]
+  },
+  {
+    "id": "w5484",
+    "hanzi": "塞",
+    "pinyin": "sāi",
+    "meaning": "doldurmak, tıkamak, sıkıştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把书塞进了包里。",
+        "pinyin": "Tā bǎ shū sāi jìn le bāo lǐ.",
+        "en": "Kitabı çantasına sıkıştırdı."
+      },
+      {
+        "zh": "水管被树叶塞住了。",
+        "pinyin": "Shuǐguǎn bèi shùyè sāizhù le.",
+        "en": "Su borusu yapraklarla tıkandı."
+      },
+      {
+        "zh": "他把手塞进了口袋里。",
+        "pinyin": "Tā bǎ shǒu sāi jìn le kǒudài lǐ.",
+        "en": "Elini cebine soktu."
+      },
+      {
+        "zh": "衣柜里塞满了衣服。",
+        "pinyin": "Yīguì lǐ sāimǎn le yīfu.",
+        "en": "Dolap kıyafetlerle tıka basa dolu."
+      },
+      {
+        "zh": "她把钱塞给了他。",
+        "pinyin": "Tā bǎ qián sāi gěi le tā.",
+        "en": "Parayı eline sıkıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5485",
+    "hanzi": "腮",
+    "pinyin": "sāi",
+    "meaning": "yanak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的腮上泛起了红晕。",
+        "pinyin": "Tā de sāi shàng fànqǐ le hóngyùn.",
+        "en": "Yanakları hafifçe kızardı."
+      },
+      {
+        "zh": "孩子的腮圆圆的，很可爱。",
+        "pinyin": "Háizi de sāi yuányuán de, hěn kě'ài.",
+        "en": "Çocuğun yanakları yusyuvarlak, çok sevimli."
+      }
+    ]
+  },
+  {
+    "id": "w5486",
+    "hanzi": "赛",
+    "pinyin": "sài",
+    "meaning": "yarışma, maç",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "今天有一场足球赛。",
+        "pinyin": "Jīntiān yǒu yì chǎng zúqiú sài.",
+        "en": "Bugün bir futbol maçı var."
+      },
+      {
+        "zh": "他参加了学校的演讲比赛。",
+        "pinyin": "Tā cānjiā le xuéxiào de yǎnjiǎng bǐsài.",
+        "en": "Okulun konuşma yarışmasına katıldı."
+      },
+      {
+        "zh": "这场比赛非常精彩。",
+        "pinyin": "Zhè chǎng bǐsài fēicháng jīngcǎi.",
+        "en": "Bu maç çok heyecanlıydı."
+      },
+      {
+        "zh": "我们队赢了这场比赛。",
+        "pinyin": "Wǒmen duì yíng le zhè chǎng bǐsài.",
+        "en": "Takımımız bu maçı kazandı."
+      },
+      {
+        "zh": "他在比赛中表现出色。",
+        "pinyin": "Tā zài bǐsài zhōng biǎoxiàn chūsè.",
+        "en": "Yarışmada üstün bir performans sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w5487",
+    "hanzi": "赛车",
+    "pinyin": "sàichē",
+    "meaning": "araba yarışı; yarış arabası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他喜欢看赛车比赛。",
+        "pinyin": "Tā xǐhuan kàn sàichē bǐsài.",
+        "en": "Araba yarışlarını izlemeyi sever."
+      },
+      {
+        "zh": "这是一辆专业赛车。",
+        "pinyin": "Zhè shì yí liàng zhuānyè sàichē.",
+        "en": "Bu profesyonel bir yarış arabasıdır."
+      },
+      {
+        "zh": "他梦想成为一名赛车手。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yì míng sàichēshǒu.",
+        "en": "Yarış pilotu olmayı hayal ediyor."
+      },
+      {
+        "zh": "赛车的速度非常快。",
+        "pinyin": "Sàichē de sùdù fēicháng kuài.",
+        "en": "Yarış arabasının hızı çok yüksek."
+      },
+      {
+        "zh": "这条赛道适合赛车比赛。",
+        "pinyin": "Zhè tiáo sàidào shìhé sàichē bǐsài.",
+        "en": "Bu pist araba yarışı için uygun."
+      }
+    ]
+  },
+  {
+    "id": "w5488",
+    "hanzi": "赛马",
+    "pinyin": "sàimǎ",
+    "meaning": "at yarışı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他喜欢去赛马场看比赛。",
+        "pinyin": "Tā xǐhuan qù sàimǎchǎng kàn bǐsài.",
+        "en": "At yarışı pistine gidip yarışları izlemeyi sever."
+      },
+      {
+        "zh": "这匹马赢得了赛马比赛。",
+        "pinyin": "Zhè pǐ mǎ yíngdé le sàimǎ bǐsài.",
+        "en": "Bu at, at yarışını kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w5489",
+    "hanzi": "赛跑",
+    "pinyin": "sàipǎo",
+    "meaning": "koşu yarışı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "学校组织了一场赛跑比赛。",
+        "pinyin": "Xuéxiào zǔzhī le yì chǎng sàipǎo bǐsài.",
+        "en": "Okul bir koşu yarışması düzenledi."
+      },
+      {
+        "zh": "他在赛跑中获得了第一名。",
+        "pinyin": "Tā zài sàipǎo zhōng huòdé le dìyī míng.",
+        "en": "Koşu yarışında birinci oldu."
+      },
+      {
+        "zh": "孩子们喜欢在操场上赛跑。",
+        "pinyin": "Háizimen xǐhuan zài cāochǎng shàng sàipǎo.",
+        "en": "Çocuklar oyun alanında koşu yarışı yapmayı sever."
+      },
+      {
+        "zh": "他和朋友们比赛跑步。",
+        "pinyin": "Tā hé péngyoumen bǐsài pǎobù.",
+        "en": "Arkadaşlarıyla koşu yarışı yaptı."
+      },
+      {
+        "zh": "这是一场激烈的赛跑。",
+        "pinyin": "Zhè shì yì chǎng jīliè de sàipǎo.",
+        "en": "Bu çekişmeli bir koşu yarışıydı."
+      }
+    ]
+  },
+  {
+    "id": "w5490",
+    "hanzi": "三月",
+    "pinyin": "sānyuè",
+    "meaning": "Mart",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "三月的天气开始变暖。",
+        "pinyin": "Sānyuè de tiānqì kāishǐ biànnuǎn.",
+        "en": "Mart ayının havası ısınmaya başlıyor."
+      },
+      {
+        "zh": "我三月出生。",
+        "pinyin": "Wǒ sānyuè chūshēng.",
+        "en": "Ben Mart ayında doğdum."
+      },
+      {
+        "zh": "他们三月结婚。",
+        "pinyin": "Tāmen sānyuè jiéhūn.",
+        "en": "Onlar Mart ayında evlendiler."
+      },
+      {
+        "zh": "三月八日是妇女节。",
+        "pinyin": "Sānyuè bā rì shì fùnǚjié.",
+        "en": "8 Mart Kadınlar Günü'dür."
+      },
+      {
+        "zh": "我们计划三月去旅行。",
+        "pinyin": "Wǒmen jìhuà sānyuè qù lǚxíng.",
+        "en": "Mart ayında seyahate çıkmayı planlıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w5491",
+    "hanzi": "散",
+    "pinyin": "sǎn",
+    "meaning": "dağınık, gevşek",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的头发很散乱。",
+        "pinyin": "Tā de tóufa hěn sǎnluàn.",
+        "en": "Saçları çok dağınık."
+      },
+      {
+        "zh": "这些文件太散了，需要整理一下。",
+        "pinyin": "Zhèxiē wénjiàn tài sǎn le, xūyào zhěnglǐ yíxià.",
+        "en": "Bu belgeler çok dağınık, düzenlenmesi gerekiyor."
+      },
+      {
+        "zh": "队伍走得很散。",
+        "pinyin": "Duìwu zǒu de hěn sǎn.",
+        "en": "Ekip dağınık bir şekilde yürüyor."
+      },
+      {
+        "zh": "他的注意力很散，不容易集中。",
+        "pinyin": "Tā de zhùyìlì hěn sǎn, bù róngyì jízhōng.",
+        "en": "Dikkati çok dağınık, kolayca odaklanamıyor."
+      },
+      {
+        "zh": "绳子松散了。",
+        "pinyin": "Shéngzi sōngsǎn le.",
+        "en": "İp gevşedi."
+      }
+    ]
+  },
+  {
+    "id": "w5492",
+    "hanzi": "散布",
+    "pinyin": "sànbù",
+    "meaning": "yaymak, dağıtmak, saçılmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "有人在网上散布谣言。",
+        "pinyin": "Yǒurén zài wǎngshàng sànbù yáoyán.",
+        "en": "Biri internette dedikodu yayıyor."
+      },
+      {
+        "zh": "村庄散布在山谷之间。",
+        "pinyin": "Cūnzhuāng sànbù zài shāngǔ zhījiān.",
+        "en": "Köyler vadiler arasında dağınık halde bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5493",
+    "hanzi": "散发",
+    "pinyin": "sànfā",
+    "meaning": "yaymak, saçmak (koku, ışık); dağıtmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "花朵散发出阵阵香气。",
+        "pinyin": "Huāduǒ sànfā chū zhènzhèn xiāngqì.",
+        "en": "Çiçekler tekrar tekrar güzel koku yayıyor."
+      },
+      {
+        "zh": "他在校园里散发传单。",
+        "pinyin": "Tā zài xiàoyuán lǐ sànfā chuándān.",
+        "en": "Kampüste broşür dağıtıyor."
+      },
+      {
+        "zh": "太阳散发出温暖的光芒。",
+        "pinyin": "Tàiyáng sànfā chū wēnnuǎn de guāngmáng.",
+        "en": "Güneş sıcak ışınlar yayıyor."
+      },
+      {
+        "zh": "她身上散发着淡淡的香水味。",
+        "pinyin": "Tā shēnshàng sànfāzhe dàndàn de xiāngshuǐ wèi.",
+        "en": "Üzerinden hafif bir parfüm kokusu yayılıyor."
+      },
+      {
+        "zh": "垃圾散发出难闻的气味。",
+        "pinyin": "Lājī sànfā chū nánwén de qìwèi.",
+        "en": "Çöp kötü bir koku yayıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5494",
+    "hanzi": "散会",
+    "pinyin": "sànhuì",
+    "meaning": "toplantı sona ermek, dağılmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "会议结束后大家立刻散会了。",
+        "pinyin": "Huìyì jiéshù hòu dàjiā lìkè sànhuì le.",
+        "en": "Toplantı bittikten sonra herkes hemen dağıldı."
+      },
+      {
+        "zh": "现在宣布散会。",
+        "pinyin": "Xiànzài xuānbù sànhuì.",
+        "en": "Şimdi toplantının sona erdiğini ilan ediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w5495",
+    "hanzi": "散文",
+    "pinyin": "sǎnwén",
+    "meaning": "deneme, düz yazı, nesir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "她写了一篇优美的散文。",
+        "pinyin": "Tā xiě le yì piān yōuměi de sǎnwén.",
+        "en": "Güzel bir deneme yazdı."
+      },
+      {
+        "zh": "他喜欢读散文集。",
+        "pinyin": "Tā xǐhuan dú sǎnwén jí.",
+        "en": "Deneme derlemesi okumayı sever."
+      },
+      {
+        "zh": "这本书收录了他多年的散文作品。",
+        "pinyin": "Zhè běn shū shōulù le tā duōnián de sǎnwén zuòpǐn.",
+        "en": "Bu kitap onun yıllarca yazdığı denemeleri içeriyor."
+      },
+      {
+        "zh": "散文的语言比较自由。",
+        "pinyin": "Sǎnwén de yǔyán bǐjiào zìyóu.",
+        "en": "Deneme yazınının dili oldukça özgürdür."
+      },
+      {
+        "zh": "他的散文风格独特。",
+        "pinyin": "Tā de sǎnwén fēnggé dútè.",
+        "en": "Deneme yazı üslubu özgündür."
+      }
+    ]
+  },
+  {
+    "id": "w5496",
+    "hanzi": "丧失",
+    "pinyin": "sàngshī",
+    "meaning": "kaybetmek, yitirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他丧失了对生活的信心。",
+        "pinyin": "Tā sàngshī le duì shēnghuó de xìnxīn.",
+        "en": "Hayata olan güvenini kaybetti."
+      },
+      {
+        "zh": "事故后他丧失了记忆。",
+        "pinyin": "Shìgù hòu tā sàngshī le jìyì.",
+        "en": "Kazadan sonra hafızasını kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w5497",
+    "hanzi": "嗓音",
+    "pinyin": "sǎngyīn",
+    "meaning": "ses (gırtlaktan gelen)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的嗓音很甜美。",
+        "pinyin": "Tā de sǎngyīn hěn tiánměi.",
+        "en": "Sesi çok tatlı."
+      },
+      {
+        "zh": "他的嗓音低沉有力。",
+        "pinyin": "Tā de sǎngyīn dīchén yǒulì.",
+        "en": "Sesi kalın ve güçlü."
+      },
+      {
+        "zh": "长时间说话让她的嗓音变哑了。",
+        "pinyin": "Chángshíjiān shuōhuà ràng tā de sǎngyīn biàn yǎ le.",
+        "en": "Uzun süre konuşmak sesinin kısılmasına neden oldu."
+      },
+      {
+        "zh": "他天生嗓音洪亮。",
+        "pinyin": "Tā tiānshēng sǎngyīn hóngliàng.",
+        "en": "Doğuştan gür bir sese sahip."
+      },
+      {
+        "zh": "她的嗓音很适合唱歌。",
+        "pinyin": "Tā de sǎngyīn hěn shìhé chànggē.",
+        "en": "Sesi şarkı söylemeye çok uygun."
+      }
+    ]
+  },
+  {
+    "id": "w5498",
+    "hanzi": "骚动",
+    "pinyin": "sāodòng",
+    "meaning": "kargaşa, huzursuzluk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个消息引起了一阵骚动。",
+        "pinyin": "Zhège xiāoxi yǐnqǐ le yízhèn sāodòng.",
+        "en": "Bu haber bir kargaşaya yol açtı."
+      },
+      {
+        "zh": "人群中出现了骚动。",
+        "pinyin": "Rénqún zhōng chūxiàn le sāodòng.",
+        "en": "Kalabalıkta huzursuzluk baş gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w5499",
+    "hanzi": "扫",
+    "pinyin": "sǎo",
+    "meaning": "süpürmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她每天早上扫地。",
+        "pinyin": "Tā měitiān zǎoshang sǎodì.",
+        "en": "Her sabah yerleri süpürüyor."
+      },
+      {
+        "zh": "他用扫帚扫院子。",
+        "pinyin": "Tā yòng sàozhou sǎo yuànzi.",
+        "en": "Süpürgeyle avluyu süpürüyor."
+      },
+      {
+        "zh": "风把落叶扫到了一边。",
+        "pinyin": "Fēng bǎ luòyè sǎo dào le yìbiān.",
+        "en": "Rüzgar düşen yaprakları bir kenara süpürdü."
+      },
+      {
+        "zh": "请把地上的垃圾扫干净。",
+        "pinyin": "Qǐng bǎ dìshàng de lājī sǎo gānjìng.",
+        "en": "Lütfen yerdeki çöpü temizce süpür."
+      },
+      {
+        "zh": "他扫了一眼房间。",
+        "pinyin": "Tā sǎo le yìyǎn fángjiān.",
+        "en": "Odaya hızlıca göz gezdirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5500",
+    "hanzi": "扫除",
+    "pinyin": "sǎochú",
+    "meaning": "temizlemek, ortadan kaldırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "学生们打扫教室，扫除卫生死角。",
+        "pinyin": "Xuéshengmen dǎsǎo jiàoshì, sǎochú wèishēng sǐjiǎo.",
+        "en": "Öğrenciler sınıfı temizleyip gizli kalmış kirli köşeleri de temizliyor."
+      },
+      {
+        "zh": "他决心扫除一切障碍。",
+        "pinyin": "Tā juéxīn sǎochú yíqiè zhàng'ài.",
+        "en": "Tüm engelleri ortadan kaldırmaya kararlı."
+      },
+      {
+        "zh": "政府在努力扫除文盲。",
+        "pinyin": "Zhèngfǔ zài nǔlì sǎochú wénmáng.",
+        "en": "Hükümet okuma yazma bilmemeyi ortadan kaldırmaya çalışıyor."
+      },
+      {
+        "zh": "警方展开了扫除犯罪的行动。",
+        "pinyin": "Jǐngfāng zhǎnkāi le sǎochú fànzuì de xíngdòng.",
+        "en": "Polis suçu ortadan kaldırmak için harekete geçti."
+      },
+      {
+        "zh": "每年春天我们都要大扫除。",
+        "pinyin": "Měinián chūntiān wǒmen dōu yào dà sǎochú.",
+        "en": "Her bahar büyük bir temizlik yapıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w5501",
+    "hanzi": "色调",
+    "pinyin": "sèdiào",
+    "meaning": "renk tonu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这幅画的色调很温暖。",
+        "pinyin": "Zhè fú huà de sèdiào hěn wēnnuǎn.",
+        "en": "Bu resmin renk tonları çok sıcak."
+      },
+      {
+        "zh": "他喜欢冷色调的装饰风格。",
+        "pinyin": "Tā xǐhuan lěngsèdiào de zhuāngshì fēnggé.",
+        "en": "Soğuk renk tonlarına sahip dekorasyon tarzını seviyor."
+      }
+    ]
+  },
+  {
+    "id": "w5502",
+    "hanzi": "色盲",
+    "pinyin": "sèmáng",
+    "meaning": "renk körlüğü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他是红绿色盲。",
+        "pinyin": "Tā shì hónglǜ sèmáng.",
+        "en": "Kırmızı-yeşil renk körü."
+      },
+      {
+        "zh": "色盲会给日常生活带来一些不便。",
+        "pinyin": "Sèmáng huì gěi rìcháng shēnghuó dàilái yìxiē búbiàn.",
+        "en": "Renk körlüğü günlük yaşamda bazı zorluklar yaratabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5503",
+    "hanzi": "色情",
+    "pinyin": "sèqíng",
+    "meaning": "müstehcen, pornografik",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这个网站包含色情内容，被封了。",
+        "pinyin": "Zhège wǎngzhàn bāohán sèqíng nèiróng, bèi fēng le.",
+        "en": "Bu web sitesi müstehcen içerik barındırdığı için kapatıldı."
+      },
+      {
+        "zh": "政府加强了对色情内容的管理。",
+        "pinyin": "Zhèngfǔ jiāqiáng le duì sèqíng nèiróng de guǎnlǐ.",
+        "en": "Hükümet müstehcen içeriklerin denetimini sıkılaştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5504",
+    "hanzi": "涩",
+    "pinyin": "sè",
+    "meaning": "ekşi, buruk; (üslup için) ağır, sert",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "没熟的柿子吃起来很涩。",
+        "pinyin": "Méi shú de shìzi chī qǐlái hěn sè.",
+        "en": "Olgunlaşmamış hurma yedikçe çok buruk."
+      },
+      {
+        "zh": "这篇文章的语言有些生涩。",
+        "pinyin": "Zhè piān wénzhāng de yǔyán yǒuxiē shēngsè.",
+        "en": "Bu makalenin dili biraz ağır ve zor."
+      }
+    ]
   }
 ]

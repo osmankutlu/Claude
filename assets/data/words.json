@@ -246853,5 +246853,848 @@
         "en": "Buzdolabı kompresör aracılığıyla soğutma yapar."
       }
     ]
+  },
+  {
+    "id": "w7491",
+    "hanzi": "中",
+    "pinyin": "zhōng",
+    "meaning": "orta, içinde, merkez",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他在教室中间坐着。",
+        "pinyin": "Tā zài jiàoshì zhōngjiān zuòzhe.",
+        "en": "Sınıfın ortasında oturuyor."
+      },
+      {
+        "zh": "水中有很多鱼。",
+        "pinyin": "Shuǐ zhōng yǒu hěn duō yú.",
+        "en": "Suyun içinde birçok balık var."
+      },
+      {
+        "zh": "他正在工作中。",
+        "pinyin": "Tā zhèngzài gōngzuò zhōng.",
+        "en": "Şu anda çalışmakta."
+      },
+      {
+        "zh": "书放在桌子中央。",
+        "pinyin": "Shū fàng zài zhuōzi zhōngyāng.",
+        "en": "Kitap masanın ortasına konmuş."
+      },
+      {
+        "zh": "这件事正在讨论中。",
+        "pinyin": "Zhè jiàn shì zhèngzài tǎolùn zhōng.",
+        "en": "Bu konu şu anda tartışılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7492",
+    "hanzi": "致词",
+    "pinyin": "zhìcí",
+    "meaning": "konuşma yapmak, söylev vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "校长在开学典礼上致词。",
+        "pinyin": "Xiàozhǎng zài kāixué diǎnlǐ shàng zhìcí.",
+        "en": "Müdür okulun açılış töreninde konuşma yaptı."
+      },
+      {
+        "zh": "新郎向来宾致词感谢。",
+        "pinyin": "Xīnláng xiàng láibīn zhìcí gǎnxiè.",
+        "en": "Damat konuklara teşekkür konuşması yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7493",
+    "hanzi": "致敬",
+    "pinyin": "zhìjìng",
+    "meaning": "selam vermek, saygı göstermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "让我们向英雄致敬。",
+        "pinyin": "Ràng wǒmen xiàng yīngxióng zhìjìng.",
+        "en": "Kahramanlara saygı gösterelim."
+      },
+      {
+        "zh": "士兵向国旗致敬。",
+        "pinyin": "Shìbīng xiàng guóqí zhìjìng.",
+        "en": "Asker bayrağı selamladı."
+      }
+    ]
+  },
+  {
+    "id": "w7494",
+    "hanzi": "致力",
+    "pinyin": "zhìlì",
+    "meaning": "kendini adamak, çaba göstermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他致力于环保事业。",
+        "pinyin": "Tā zhìlì yú huánbǎo shìyè.",
+        "en": "Kendini çevre koruma işine adadı."
+      },
+      {
+        "zh": "公司致力于提高产品质量。",
+        "pinyin": "Gōngsī zhìlì yú tígāo chǎnpǐn zhìliàng.",
+        "en": "Şirket ürün kalitesini artırmaya çaba gösteriyor."
+      },
+      {
+        "zh": "科学家致力于研发新药。",
+        "pinyin": "Kēxuéjiā zhìlì yú yánfā xīnyào.",
+        "en": "Bilim insanları yeni ilaç geliştirmeye kendini adadı."
+      },
+      {
+        "zh": "她一生致力于教育事业。",
+        "pinyin": "Tā yìshēng zhìlì yú jiàoyù shìyè.",
+        "en": "Hayatını eğitim işine adadı."
+      },
+      {
+        "zh": "政府致力于改善民生。",
+        "pinyin": "Zhèngfǔ zhìlì yú gǎishàn mínshēng.",
+        "en": "Hükümet halkın yaşam koşullarını iyileştirmeye çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7495",
+    "hanzi": "致命",
+    "pinyin": "zhìmìng",
+    "meaning": "ölümcül",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这种毒蛇的毒液是致命的。",
+        "pinyin": "Zhè zhǒng dúshé de dúyè shì zhìmìng de.",
+        "en": "Bu zehirli yılanın zehri ölümcüldür."
+      },
+      {
+        "zh": "他受到了致命的打击。",
+        "pinyin": "Tā shòudàole zhìmìng de dǎjī.",
+        "en": "Ölümcül bir darbe aldı."
+      },
+      {
+        "zh": "这个错误可能是致命的。",
+        "pinyin": "Zhège cuòwù kěnéng shì zhìmìng de.",
+        "en": "Bu hata ölümcül olabilir."
+      },
+      {
+        "zh": "医生说伤势并非致命。",
+        "pinyin": "Yīshēng shuō shāngshì bìngfēi zhìmìng.",
+        "en": "Doktor yaranın ölümcül olmadığını söyledi."
+      },
+      {
+        "zh": "缺乏证据是他们计划的致命弱点。",
+        "pinyin": "Quēfá zhèngjù shì tāmen jìhuà de zhìmìng ruòdiǎn.",
+        "en": "Kanıt eksikliği planlarının ölümcül zayıf noktasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7496",
+    "hanzi": "致谢",
+    "pinyin": "zhìxiè",
+    "meaning": "teşekkür etmek, teşekkürlerini sunmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他向大家致谢。",
+        "pinyin": "Tā xiàng dàjiā zhìxiè.",
+        "en": "Herkese teşekkür etti."
+      },
+      {
+        "zh": "特此致谢。",
+        "pinyin": "Tècǐ zhìxiè.",
+        "en": "Bu vesileyle teşekkürlerimi sunarım."
+      }
+    ]
+  },
+  {
+    "id": "w7497",
+    "hanzi": "致意",
+    "pinyin": "zhìyì",
+    "meaning": "selam göndermek, saygılarını iletmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他向老师点头致意。",
+        "pinyin": "Tā xiàng lǎoshī diǎntóu zhìyì.",
+        "en": "Öğretmenine başını sallayarak selam verdi."
+      },
+      {
+        "zh": "请代我向他致意。",
+        "pinyin": "Qǐng dài wǒ xiàng tā zhìyì.",
+        "en": "Lütfen benim adıma ona selam söyleyin."
+      }
+    ]
+  },
+  {
+    "id": "w7498",
+    "hanzi": "掷",
+    "pinyin": "zhì",
+    "meaning": "atmak, fırlatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把球掷了出去。",
+        "pinyin": "Tā bǎ qiú zhìle chūqù.",
+        "en": "Topu fırlattı."
+      },
+      {
+        "zh": "他掷骰子决定谁先开始。",
+        "pinyin": "Tā zhì tóuzi juédìng shéi xiān kāishǐ.",
+        "en": "Kimin önce başlayacağını belirlemek için zar attı."
+      },
+      {
+        "zh": "运动员掷出了标枪。",
+        "pinyin": "Yùndòngyuán zhìchūle biāoqiāng.",
+        "en": "Sporcu cirit fırlattı."
+      },
+      {
+        "zh": "他生气地把书掷在地上。",
+        "pinyin": "Tā shēngqì de bǎ shū zhì zài dì shàng.",
+        "en": "Öfkeyle kitabı yere fırlattı."
+      },
+      {
+        "zh": "孩子把石头掷进了池塘。",
+        "pinyin": "Háizi bǎ shítou zhìjìnle chítáng.",
+        "en": "Çocuk taşı havuza fırlattı."
+      }
+    ]
+  },
+  {
+    "id": "w7499",
+    "hanzi": "挚友",
+    "pinyin": "zhìyǒu",
+    "meaning": "candan arkadaş, yakın dost",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他是我多年的挚友。",
+        "pinyin": "Tā shì wǒ duō nián de zhìyǒu.",
+        "en": "O yıllardır olan candan dostum."
+      },
+      {
+        "zh": "她把我当成挚友。",
+        "pinyin": "Tā bǎ wǒ dàngchéng zhìyǒu.",
+        "en": "Beni candan dostu olarak görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7500",
+    "hanzi": "置",
+    "pinyin": "zhì",
+    "meaning": "yerleştirmek, koymak; satın almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把花瓶置于窗台上。",
+        "pinyin": "Tā bǎ huāpíng zhì yú chuāngtái shàng.",
+        "en": "Vazoyu pencere kenarına yerleştirdi."
+      },
+      {
+        "zh": "他新置了一套房子。",
+        "pinyin": "Tā xīn zhìle yí tào fángzi.",
+        "en": "Yeni bir ev satın aldı."
+      },
+      {
+        "zh": "这件事应该置于首位。",
+        "pinyin": "Zhè jiàn shì yīnggāi zhì yú shǒuwèi.",
+        "en": "Bu konu öncelikli olarak ele alınmalı."
+      },
+      {
+        "zh": "公司在市中心置办了办公室。",
+        "pinyin": "Gōngsī zài shì zhōngxīn zhìbànle bàngōngshì.",
+        "en": "Şirket şehir merkezinde bir ofis edindi."
+      },
+      {
+        "zh": "他置身事外，不闻不问。",
+        "pinyin": "Tā zhìshēn shìwài, bùwén-bùwèn.",
+        "en": "Kendini olaydan uzak tuttu, ne sordu ne de karıştı."
+      }
+    ]
+  },
+  {
+    "id": "w7501",
+    "hanzi": "置身",
+    "pinyin": "zhìshēn",
+    "meaning": "bulunmak, kendini bir yerde/konumda bulmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "置身于大自然中令人心旷神怡。",
+        "pinyin": "Zhìshēn yú dàzìrán zhōng lìngrén xīnkuàng-shényí.",
+        "en": "Doğanın içinde bulunmak insanı ferahlatıyor."
+      },
+      {
+        "zh": "他置身于一片欢呼声中。",
+        "pinyin": "Tā zhìshēn yú yí piàn huānhūshēng zhōng.",
+        "en": "Kendini bir tezahürat gürültüsünün içinde buldu."
+      }
+    ]
+  },
+  {
+    "id": "w7502",
+    "hanzi": "置信",
+    "pinyin": "zhìxìn",
+    "meaning": "inanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个结果令人难以置信。",
+        "pinyin": "Zhège jiéguǒ lìngrén nányǐ-zhìxìn.",
+        "en": "Bu sonuç inanılmaz derecede şaşırtıcı."
+      },
+      {
+        "zh": "他的态度让人难以置信。",
+        "pinyin": "Tā de tàidù ràng rén nányǐ-zhìxìn.",
+        "en": "Tavrı insanın inanmasını güçleştiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w7503",
+    "hanzi": "置之不理",
+    "pinyin": "zhìzhī-bùlǐ",
+    "meaning": "görmezden gelmek, dikkate almamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他对这个问题置之不理。",
+        "pinyin": "Tā duì zhège wèntí zhìzhī-bùlǐ.",
+        "en": "Bu soruna karşı ilgisiz kaldı."
+      },
+      {
+        "zh": "不能对这些投诉置之不理。",
+        "pinyin": "Bùnéng duì zhèxiē tóusù zhìzhī-bùlǐ.",
+        "en": "Bu şikayetler görmezden gelinemez."
+      }
+    ]
+  },
+  {
+    "id": "w7504",
+    "hanzi": "稚",
+    "pinyin": "zhì",
+    "meaning": "çocukça, toy, olgunlaşmamış",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的想法还很幼稚。",
+        "pinyin": "Tā de xiǎngfǎ hái hěn yòuzhì.",
+        "en": "Fikirleri hâlâ çok çocukça."
+      },
+      {
+        "zh": "孩子的稚气还没完全褪去。",
+        "pinyin": "Háizi de zhìqì hái méi wánquán tuìqù.",
+        "en": "Çocuğun çocuksuluğu henüz tamamen geçmedi."
+      }
+    ]
+  },
+  {
+    "id": "w7505",
+    "hanzi": "炙手可热",
+    "pinyin": "zhìshǒu-kěrè",
+    "meaning": "çok güçlü ve etkili, gözde",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这位明星现在炙手可热。",
+        "pinyin": "Zhè wèi míngxīng xiànzài zhìshǒu-kěrè.",
+        "en": "Bu yıldız şu anda çok gözde."
+      },
+      {
+        "zh": "他是公司里炙手可热的人物。",
+        "pinyin": "Tā shì gōngsī lǐ zhìshǒu-kěrè de rénwù.",
+        "en": "O, şirkette çok etkili ve önemli bir figür."
+      }
+    ]
+  },
+  {
+    "id": "w7506",
+    "hanzi": "中部",
+    "pinyin": "zhōngbù",
+    "meaning": "orta kısım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他住在城市中部。",
+        "pinyin": "Tā zhù zài chéngshì zhōngbù.",
+        "en": "Şehrin orta kısmında yaşıyor."
+      },
+      {
+        "zh": "这个国家中部多山。",
+        "pinyin": "Zhège guójiā zhōngbù duō shān.",
+        "en": "Bu ülkenin orta kısmında dağlar çoktur."
+      },
+      {
+        "zh": "会议室在大楼的中部。",
+        "pinyin": "Huìyìshì zài dàlóu de zhōngbù.",
+        "en": "Toplantı salonu binanın orta kısmında."
+      },
+      {
+        "zh": "中部地区经济发展较快。",
+        "pinyin": "Zhōngbù dìqū jīngjì fāzhǎn jiào kuài.",
+        "en": "Orta bölgenin ekonomisi nispeten hızlı gelişiyor."
+      },
+      {
+        "zh": "他在这幅画的中部添加了颜色。",
+        "pinyin": "Tā zài zhè fú huà de zhōngbù tiānjiāle yánsè.",
+        "en": "Bu tablonun orta kısmına renk ekledi."
+      }
+    ]
+  },
+  {
+    "id": "w7507",
+    "hanzi": "中餐",
+    "pinyin": "zhōngcān",
+    "meaning": "Çin yemeği",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yemek",
+    "examples": [
+      {
+        "zh": "他喜欢吃中餐。",
+        "pinyin": "Tā xǐhuan chī zhōngcān.",
+        "en": "Çin yemeği yemeyi seviyor."
+      },
+      {
+        "zh": "这家餐厅专做中餐。",
+        "pinyin": "Zhè jiā cāntīng zhuān zuò zhōngcān.",
+        "en": "Bu restoran sadece Çin yemeği yapıyor."
+      },
+      {
+        "zh": "中餐讲究色香味俱全。",
+        "pinyin": "Zhōngcān jiǎngjiu sè-xiāng-wèi jùquán.",
+        "en": "Çin mutfağı renk, koku ve tada büyük önem verir."
+      },
+      {
+        "zh": "外国朋友很喜欢中餐。",
+        "pinyin": "Wàiguó péngyou hěn xǐhuan zhōngcān.",
+        "en": "Yabancı arkadaşlar Çin yemeğini çok seviyor."
+      },
+      {
+        "zh": "今晚我们吃中餐吧。",
+        "pinyin": "Jīnwǎn wǒmen chī zhōngcān ba.",
+        "en": "Bu akşam Çin yemeği yiyelim."
+      }
+    ]
+  },
+  {
+    "id": "w7508",
+    "hanzi": "中草药",
+    "pinyin": "zhōngcǎoyào",
+    "meaning": "Çin bitkisel ilacı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他常用中草药治病。",
+        "pinyin": "Tā chángyòng zhōngcǎoyào zhìbìng.",
+        "en": "Sık sık Çin bitkisel ilaçlarıyla hastalıkları tedavi ediyor."
+      },
+      {
+        "zh": "中草药有悠久的历史。",
+        "pinyin": "Zhōngcǎoyào yǒu yōujiǔ de lìshǐ.",
+        "en": "Çin bitkisel ilaçlarının uzun bir tarihi var."
+      },
+      {
+        "zh": "这种中草药可以清热解毒。",
+        "pinyin": "Zhè zhǒng zhōngcǎoyào kěyǐ qīngrè-jiědú.",
+        "en": "Bu bitkisel ilaç, ateşi düşürüp zehri temizler."
+      },
+      {
+        "zh": "医生给他开了一些中草药。",
+        "pinyin": "Yīshēng gěi tā kāile yìxiē zhōngcǎoyào.",
+        "en": "Doktor ona bazı bitkisel ilaçlar yazdı."
+      },
+      {
+        "zh": "很多中草药都产自山区。",
+        "pinyin": "Hěn duō zhōngcǎoyào dōu chǎnzì shānqū.",
+        "en": "Birçok bitkisel ilaç dağlık bölgelerden elde edilir."
+      }
+    ]
+  },
+  {
+    "id": "w7509",
+    "hanzi": "中等",
+    "pinyin": "zhōngděng",
+    "meaning": "orta seviye, orta derecede",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的成绩是中等水平。",
+        "pinyin": "Tā de chéngjì shì zhōngděng shuǐpíng.",
+        "en": "Notları orta seviyede."
+      },
+      {
+        "zh": "这是一家中等规模的公司。",
+        "pinyin": "Zhè shì yì jiā zhōngděng guīmó de gōngsī.",
+        "en": "Bu orta ölçekli bir şirket."
+      },
+      {
+        "zh": "他身材中等。",
+        "pinyin": "Tā shēncái zhōngděng.",
+        "en": "Boyu ortalama."
+      },
+      {
+        "zh": "这道菜的辣度是中等。",
+        "pinyin": "Zhè dào cài de làdù shì zhōngděng.",
+        "en": "Bu yemeğin acılık derecesi orta seviyede."
+      },
+      {
+        "zh": "他们家属于中等收入家庭。",
+        "pinyin": "Tāmen jiā shǔyú zhōngděng shōurù jiātíng.",
+        "en": "Aileleri orta gelirli ailelere dahildir."
+      }
+    ]
+  },
+  {
+    "id": "w7510",
+    "hanzi": "中断",
+    "pinyin": "zhōngduàn",
+    "meaning": "kesintiye uğratmak, yarıda kesmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "会议因停电而中断。",
+        "pinyin": "Huìyì yīn tíngdiàn ér zhōngduàn.",
+        "en": "Toplantı elektrik kesintisi yüzünden yarıda kaldı."
+      },
+      {
+        "zh": "他的学业因病中断了。",
+        "pinyin": "Tā de xuéyè yīn bìng zhōngduànle.",
+        "en": "Eğitimi hastalık yüzünden kesintiye uğradı."
+      },
+      {
+        "zh": "网络信号突然中断。",
+        "pinyin": "Wǎngluò xìnhào tūrán zhōngduàn.",
+        "en": "İnternet sinyali aniden kesildi."
+      },
+      {
+        "zh": "谈话被电话铃声中断了。",
+        "pinyin": "Tánhuà bèi diànhuà língshēng zhōngduàn le.",
+        "en": "Konuşma telefon zili sesiyle yarıda kesildi."
+      },
+      {
+        "zh": "他们的联系中断了很多年。",
+        "pinyin": "Tāmen de liánxì zhōngduànle hěn duō nián.",
+        "en": "İletişimleri yıllarca kesintiye uğradı."
+      }
+    ]
+  },
+  {
+    "id": "w7511",
+    "hanzi": "中华",
+    "pinyin": "zhōnghuá",
+    "meaning": "Çin (medeniyet ve millet olarak)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "中华文化历史悠久。",
+        "pinyin": "Zhōnghuá wénhuà lìshǐ yōujiǔ.",
+        "en": "Çin kültürünün tarihi çok eskiye dayanır."
+      },
+      {
+        "zh": "我们为中华文明感到自豪。",
+        "pinyin": "Wǒmen wèi zhōnghuá wénmíng gǎndào zìháo.",
+        "en": "Çin medeniyetiyle gurur duyuyoruz."
+      },
+      {
+        "zh": "中华儿女遍布世界各地。",
+        "pinyin": "Zhōnghuá érnǚ biànbù shìjiè gèdì.",
+        "en": "Çin milletinin evlatları dünyanın her yerine yayılmış durumda."
+      },
+      {
+        "zh": "这是中华民族的传统美德。",
+        "pinyin": "Zhè shì zhōnghuá mínzú de chuántǒng měidé.",
+        "en": "Bu Çin milletinin geleneksel erdemidir."
+      },
+      {
+        "zh": "中华料理享誉世界。",
+        "pinyin": "Zhōnghuá liàolǐ xiǎngyù shìjiè.",
+        "en": "Çin mutfağı dünyada ün kazanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w7512",
+    "hanzi": "中级",
+    "pinyin": "zhōngjí",
+    "meaning": "orta seviye",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他正在学中级汉语。",
+        "pinyin": "Tā zhèngzài xué zhōngjí Hànyǔ.",
+        "en": "Orta seviye Çince öğreniyor."
+      },
+      {
+        "zh": "这本教材适合中级水平的学生。",
+        "pinyin": "Zhè běn jiàocái shìhé zhōngjí shuǐpíng de xuésheng.",
+        "en": "Bu ders kitabı orta seviyedeki öğrenciler için uygundur."
+      },
+      {
+        "zh": "他通过了中级考试。",
+        "pinyin": "Tā tōngguòle zhōngjí kǎoshì.",
+        "en": "Orta seviye sınavını geçti."
+      },
+      {
+        "zh": "她获得了中级职称。",
+        "pinyin": "Tā huòdéle zhōngjí zhíchēng.",
+        "en": "Orta düzey unvan kazandı."
+      },
+      {
+        "zh": "这个课程分为初级、中级和高级。",
+        "pinyin": "Zhège kèchéng fēnwéi chūjí, zhōngjí hé gāojí.",
+        "en": "Bu kurs başlangıç, orta ve ileri düzey olarak bölünmüştür."
+      }
+    ]
+  },
+  {
+    "id": "w7513",
+    "hanzi": "中立",
+    "pinyin": "zhōnglì",
+    "meaning": "tarafsız",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个国家一直保持中立。",
+        "pinyin": "Zhège guójiā yìzhí bǎochí zhōnglì.",
+        "en": "Bu ülke her zaman tarafsız kalmıştır."
+      },
+      {
+        "zh": "裁判必须保持中立。",
+        "pinyin": "Cáipàn bìxū bǎochí zhōnglì.",
+        "en": "Hakem tarafsız kalmalıdır."
+      },
+      {
+        "zh": "他在争论中保持中立态度。",
+        "pinyin": "Tā zài zhēnglùn zhōng bǎochí zhōnglì tàidù.",
+        "en": "Tartışmada tarafsız bir tutum sergiledi."
+      },
+      {
+        "zh": "这篇报道的立场比较中立。",
+        "pinyin": "Zhè piān bàodào de lìchǎng bǐjiào zhōnglì.",
+        "en": "Bu haberin duruşu nispeten tarafsız."
+      },
+      {
+        "zh": "调解人应该保持中立。",
+        "pinyin": "Tiáojiěrén yīnggāi bǎochí zhōnglì.",
+        "en": "Arabulucu tarafsız kalmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7514",
+    "hanzi": "中期",
+    "pinyin": "zhōngqī",
+    "meaning": "orta dönem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这是二十世纪中期的作品。",
+        "pinyin": "Zhè shì èrshí shìjì zhōngqī de zuòpǐn.",
+        "en": "Bu, yirminci yüzyılın ortalarına ait bir eserdir."
+      },
+      {
+        "zh": "项目中期需要评估进度。",
+        "pinyin": "Xiàngmù zhōngqī xūyào pínggū jìndù.",
+        "en": "Projenin orta döneminde ilerlemenin değerlendirilmesi gerekiyor."
+      },
+      {
+        "zh": "公司制定了中期发展计划。",
+        "pinyin": "Gōngsī zhìdìngle zhōngqī fāzhǎn jìhuà.",
+        "en": "Şirket orta vadeli bir gelişim planı hazırladı."
+      },
+      {
+        "zh": "这场革命发生在明朝中期。",
+        "pinyin": "Zhè chǎng gémìng fāshēng zài Míngcháo zhōngqī.",
+        "en": "Bu devrim Ming Hanedanlığı'nın orta döneminde gerçekleşti."
+      },
+      {
+        "zh": "学期中期会有一次考试。",
+        "pinyin": "Xuéqī zhōngqī huì yǒu yí cì kǎoshì.",
+        "en": "Dönemin ortasında bir sınav olacak."
+      }
+    ]
+  },
+  {
+    "id": "w7515",
+    "hanzi": "中秋节",
+    "pinyin": "zhōngqiūjié",
+    "meaning": "Sonbahar Ortası Festivali",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "中秋节人们会吃月饼。",
+        "pinyin": "Zhōngqiūjié rénmen huì chī yuèbǐng.",
+        "en": "Sonbahar Ortası Festivali'nde insanlar ay keki yer."
+      },
+      {
+        "zh": "中秋节是团圆的节日。",
+        "pinyin": "Zhōngqiūjié shì tuányuán de jiérì.",
+        "en": "Sonbahar Ortası Festivali, ailenin bir araya geldiği bir bayramdır."
+      },
+      {
+        "zh": "今年的中秋节我们全家人聚在一起。",
+        "pinyin": "Jīnnián de zhōngqiūjié wǒmen quánjiārén jù zài yìqǐ.",
+        "en": "Bu yılki Sonbahar Ortası Festivali'nde tüm ailemiz bir araya geldi."
+      },
+      {
+        "zh": "中秋节的月亮特别圆。",
+        "pinyin": "Zhōngqiūjié de yuèliang tèbié yuán.",
+        "en": "Sonbahar Ortası Festivali'ndeki ay özellikle dolgundur."
+      },
+      {
+        "zh": "我们送了朋友一盒中秋节月饼。",
+        "pinyin": "Wǒmen sòngle péngyou yì hé zhōngqiūjié yuèbǐng.",
+        "en": "Arkadaşımıza bir kutu Sonbahar Ortası Festivali ay keki hediye ettik."
+      }
+    ]
+  },
+  {
+    "id": "w7516",
+    "hanzi": "中世纪",
+    "pinyin": "zhōngshìjì",
+    "meaning": "orta çağ",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这座城堡建于中世纪。",
+        "pinyin": "Zhè zuò chéngbǎo jiàn yú zhōngshìjì.",
+        "en": "Bu kale orta çağda inşa edilmiştir."
+      },
+      {
+        "zh": "他专门研究欧洲中世纪历史。",
+        "pinyin": "Tā zhuānmén yánjiū Ōuzhōu zhōngshìjì lìshǐ.",
+        "en": "Özellikle Avrupa orta çağ tarihini araştırıyor."
+      },
+      {
+        "zh": "中世纪的建筑风格独特。",
+        "pinyin": "Zhōngshìjì de jiànzhù fēnggé dútè.",
+        "en": "Orta çağ mimari tarzı özgündür."
+      },
+      {
+        "zh": "中世纪的欧洲战乱频繁。",
+        "pinyin": "Zhōngshìjì de Ōuzhōu zhànluàn pínfán.",
+        "en": "Orta çağ Avrupası'nda savaşlar sık sık yaşandı."
+      },
+      {
+        "zh": "这部电影讲述的是中世纪的骑士故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshù de shì zhōngshìjì de qíshì gùshi.",
+        "en": "Bu film orta çağ şövalyelerinin hikayesini anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7517",
+    "hanzi": "中途",
+    "pinyin": "zhōngtú",
+    "meaning": "yarı yolda, yolun ortasında",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他中途放弃了比赛。",
+        "pinyin": "Tā zhōngtú fàngqìle bǐsài.",
+        "en": "Yarışı yarı yolda bıraktı."
+      },
+      {
+        "zh": "旅途中途我们休息了一下。",
+        "pinyin": "Lǚtú zhōngtú wǒmen xiūxile yíxià.",
+        "en": "Yolculuğun ortasında biraz dinlendik."
+      },
+      {
+        "zh": "会议中途他离开了一会儿。",
+        "pinyin": "Huìyì zhōngtú tā líkāile yíhuìr.",
+        "en": "Toplantının ortasında bir süreliğine dışarı çıktı."
+      },
+      {
+        "zh": "他中途转学到了另一所学校。",
+        "pinyin": "Tā zhōngtú zhuǎnxué dàole lìng yì suǒ xuéxiào.",
+        "en": "Yarı yolda başka bir okula nakil oldu."
+      },
+      {
+        "zh": "别中途放弃，坚持到底。",
+        "pinyin": "Bié zhōngtú fàngqì, jiānchí dàodǐ.",
+        "en": "Yarı yolda vazgeçme, sonuna kadar devam et."
+      }
+    ]
+  },
+  {
+    "id": "w7518",
+    "hanzi": "中性",
+    "pinyin": "zhōngxìng",
+    "meaning": "nötr",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种洗发水是中性的。",
+        "pinyin": "Zhè zhǒng xǐfàshuǐ shì zhōngxìng de.",
+        "en": "Bu şampuan nötrdür."
+      },
+      {
+        "zh": "这篇文章的措辞比较中性。",
+        "pinyin": "Zhè piān wénzhāng de cuòcí bǐjiào zhōngxìng.",
+        "en": "Bu yazının üslubu nispeten nötr."
+      }
+    ]
   }
 ]

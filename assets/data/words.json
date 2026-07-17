@@ -218311,5 +218311,848 @@
         "en": "Bebek eşyalarının titizlikle dezenfekte edilmesi gerekir."
       }
     ]
+  },
+  {
+    "id": "w6543",
+    "hanzi": "消防",
+    "pinyin": "xiāofáng",
+    "meaning": "yangınla mücadele, itfaiye",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "消防车很快赶到了现场。",
+        "pinyin": "Xiāofángchē hěn kuài gǎndàole xiànchǎng.",
+        "en": "İtfaiye aracı çabucak olay yerine geldi."
+      },
+      {
+        "zh": "他是一名消防员。",
+        "pinyin": "Tā shì yī míng xiāofángyuán.",
+        "en": "O bir itfaiyeci."
+      },
+      {
+        "zh": "学校定期进行消防演习。",
+        "pinyin": "Xuéxiào dìngqī jìnxíng xiāofáng yǎnxí.",
+        "en": "Okul düzenli olarak yangın tatbikatı yapıyor."
+      },
+      {
+        "zh": "大楼里安装了消防设备。",
+        "pinyin": "Dàlóu lǐ ānzhuāngle xiāofáng shèbèi.",
+        "en": "Binaya yangın söndürme ekipmanı kuruldu."
+      },
+      {
+        "zh": "请注意消防安全。",
+        "pinyin": "Qǐng zhùyì xiāofáng ānquán.",
+        "en": "Lütfen yangın güvenliğine dikkat edin."
+      }
+    ]
+  },
+  {
+    "id": "w6544",
+    "hanzi": "消耗",
+    "pinyin": "xiāohào",
+    "meaning": "tüketmek, harcamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "运动会消耗大量能量。",
+        "pinyin": "Yùndòng huì xiāohào dàliàng néngliàng.",
+        "en": "Egzersiz büyük miktarda enerji tüketir."
+      },
+      {
+        "zh": "长途旅行消耗了他的体力。",
+        "pinyin": "Chángtú lǚxíng xiāohàole tā de tǐlì.",
+        "en": "Uzun yolculuk onun fiziksel gücünü tüketti."
+      },
+      {
+        "zh": "这场谈判消耗了大量时间。",
+        "pinyin": "Zhè chǎng tánpàn xiāohàole dàliàng shíjiān.",
+        "en": "Bu müzakere çok fazla zaman tüketti."
+      },
+      {
+        "zh": "工厂消耗了大量电力。",
+        "pinyin": "Gōngchǎng xiāohàole dàliàng diànlì.",
+        "en": "Fabrika büyük miktarda elektrik tüketti."
+      },
+      {
+        "zh": "熬夜会消耗身体的精力。",
+        "pinyin": "Áoyè huì xiāohào shēntǐ de jīnglì.",
+        "en": "Geç saatlere kadar uyanık kalmak vücudun enerjisini tüketir."
+      }
+    ]
+  },
+  {
+    "id": "w6545",
+    "hanzi": "消遣",
+    "pinyin": "xiāoqiǎn",
+    "meaning": "vakit geçirme, eğlenme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "看书是他最好的消遣方式。",
+        "pinyin": "Kànshū shì tā zuì hǎo de xiāoqiǎn fāngshì.",
+        "en": "Kitap okumak onun en iyi vakit geçirme şekli."
+      },
+      {
+        "zh": "周末他喜欢钓鱼消遣。",
+        "pinyin": "Zhōumò tā xǐhuān diàoyú xiāoqiǎn.",
+        "en": "Hafta sonu balık tutarak vakit geçirmeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w6546",
+    "hanzi": "销",
+    "pinyin": "xiāo",
+    "meaning": "satmak, pazarlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这种产品很好销。",
+        "pinyin": "Zhè zhǒng chǎnpǐn hěn hǎo xiāo.",
+        "en": "Bu ürün çok iyi satılıyor."
+      },
+      {
+        "zh": "工厂负责生产,商店负责销货。",
+        "pinyin": "Gōngchǎng fùzé shēngchǎn, shāngdiàn fùzé xiāohuò.",
+        "en": "Fabrika üretimden, mağaza satıştan sorumlu."
+      },
+      {
+        "zh": "这款手机销量很高。",
+        "pinyin": "Zhè kuǎn shǒujī xiāoliàng hěn gāo.",
+        "en": "Bu telefon modeli çok satıyor."
+      },
+      {
+        "zh": "公司把产品销往海外。",
+        "pinyin": "Gōngsī bǎ chǎnpǐn xiāo wǎng hǎiwài.",
+        "en": "Şirket ürünlerini yurt dışına satıyor."
+      },
+      {
+        "zh": "这批货已经销完了。",
+        "pinyin": "Zhè pī huò yǐjīng xiāo wán le.",
+        "en": "Bu parti mal tamamen satıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6547",
+    "hanzi": "销毁",
+    "pinyin": "xiāohuǐ",
+    "meaning": "yakarak/eriterek yok etmek, imha etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这些文件已经被销毁了。",
+        "pinyin": "Zhèxiē wénjiàn yǐjīng bèi xiāohuǐ le.",
+        "en": "Bu belgeler zaten imha edildi."
+      },
+      {
+        "zh": "假冒商品被全部销毁。",
+        "pinyin": "Jiǎmào shāngpǐn bèi quánbù xiāohuǐ.",
+        "en": "Sahte ürünlerin hepsi imha edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6548",
+    "hanzi": "销路",
+    "pinyin": "xiāolù",
+    "meaning": "satış durumu, piyasa talebi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这种产品销路很好。",
+        "pinyin": "Zhè zhǒng chǎnpǐn xiāolù hěn hǎo.",
+        "en": "Bu ürünün satış durumu çok iyi."
+      },
+      {
+        "zh": "公司正在开拓新的销路。",
+        "pinyin": "Gōngsī zhèngzài kāituò xīn de xiāolù.",
+        "en": "Şirket yeni bir satış kanalı açıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6549",
+    "hanzi": "小便",
+    "pinyin": "xiǎobiàn",
+    "meaning": "işemek; idrar",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他去洗手间小便。",
+        "pinyin": "Tā qù xǐshǒujiān xiǎobiàn.",
+        "en": "O tuvalete işemeye gitti."
+      },
+      {
+        "zh": "医生检查了他的小便样本。",
+        "pinyin": "Yīshēng jiǎnchále tā de xiǎobiàn yàngběn.",
+        "en": "Doktor onun idrar örneğini inceledi."
+      },
+      {
+        "zh": "孩子还不会自己小便。",
+        "pinyin": "Háizi hái bùhuì zìjǐ xiǎobiàn.",
+        "en": "Çocuk henüz kendi başına tuvalete gidemiyor."
+      },
+      {
+        "zh": "这里禁止随地小便。",
+        "pinyin": "Zhèlǐ jìnzhǐ suídì xiǎobiàn.",
+        "en": "Burada açıkta işemek yasaktır."
+      },
+      {
+        "zh": "他小便有点异常。",
+        "pinyin": "Tā xiǎobiàn yǒudiǎn yìcháng.",
+        "en": "Onun idrarında biraz anormallik var."
+      }
+    ]
+  },
+  {
+    "id": "w6550",
+    "hanzi": "小册子",
+    "pinyin": "xiǎocèzi",
+    "meaning": "kitapçık, broşür",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他分发了一些宣传小册子。",
+        "pinyin": "Tā fēnfāle yīxiē xuānchuán xiǎocèzi.",
+        "en": "O bazı tanıtım broşürleri dağıttı."
+      },
+      {
+        "zh": "这本小册子介绍了公司的产品。",
+        "pinyin": "Zhè běn xiǎocèzi jièshàole gōngsī de chǎnpǐn.",
+        "en": "Bu kitapçık şirketin ürünlerini tanıtıyor."
+      },
+      {
+        "zh": "旅游手册是一本很有用的小册子。",
+        "pinyin": "Lǚyóu shǒucè shì yī běn hěn yǒuyòng de xiǎocèzi.",
+        "en": "Turizm rehberi çok kullanışlı bir kitapçıktır."
+      },
+      {
+        "zh": "图书馆有很多免费的小册子。",
+        "pinyin": "Túshūguǎn yǒu hěn duō miǎnfèi de xiǎocèzi.",
+        "en": "Kütüphanede birçok ücretsiz kitapçık var."
+      },
+      {
+        "zh": "他写了一本关于健康的小册子。",
+        "pinyin": "Tā xiěle yī běn guānyú jiànkāng de xiǎocèzi.",
+        "en": "O sağlık hakkında bir kitapçık yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w6551",
+    "hanzi": "小丑",
+    "pinyin": "xiǎochǒu",
+    "meaning": "palyaço",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "马戏团里有一个搞笑的小丑。",
+        "pinyin": "Mǎxìtuán lǐ yǒu yī gè gǎoxiào de xiǎochǒu.",
+        "en": "Sirkte komik bir palyaço var."
+      },
+      {
+        "zh": "小丑表演逗得孩子们哈哈大笑。",
+        "pinyin": "Xiǎochǒu biǎoyǎn dòu de háizimen hāhā dàxiào.",
+        "en": "Palyaço gösterisi çocukları kahkahalarla güldürdü."
+      },
+      {
+        "zh": "他打扮成小丑参加派对。",
+        "pinyin": "Tā dǎbàn chéng xiǎochǒu cānjiā pàiduì.",
+        "en": "O partiye palyaço kılığında gitti."
+      },
+      {
+        "zh": "这个小丑的表情很滑稽。",
+        "pinyin": "Zhège xiǎochǒu de biǎoqíng hěn huájī.",
+        "en": "Bu palyaçonun ifadesi çok komik."
+      },
+      {
+        "zh": "他被人当作小丑一样嘲笑。",
+        "pinyin": "Tā bèi rén dàngzuò xiǎochǒu yīyàng cháoxiào.",
+        "en": "O insanlar tarafından bir palyaço gibi alay konusu edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6552",
+    "hanzi": "小贩",
+    "pinyin": "xiǎofàn",
+    "meaning": "seyyar satıcı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "街边有很多小贩在卖水果。",
+        "pinyin": "Jiēbiān yǒu hěn duō xiǎofàn zài mài shuǐguǒ.",
+        "en": "Sokak kenarında birçok seyyar satıcı meyve satıyor."
+      },
+      {
+        "zh": "这个小贩每天很早就出摊了。",
+        "pinyin": "Zhège xiǎofàn měitiān hěn zǎo jiù chūtān le.",
+        "en": "Bu seyyar satıcı her gün çok erken tezgahını açıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6553",
+    "hanzi": "小费",
+    "pinyin": "xiǎofèi",
+    "meaning": "bahşiş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他给服务员留了小费。",
+        "pinyin": "Tā gěi fúwùyuán liúle xiǎofèi.",
+        "en": "O garsona bahşiş bıraktı."
+      },
+      {
+        "zh": "在这个国家给小费是习惯。",
+        "pinyin": "Zài zhège guójiā gěi xiǎofèi shì xíguàn.",
+        "en": "Bu ülkede bahşiş vermek bir alışkanlıktır."
+      },
+      {
+        "zh": "小费一般是账单的百分之十。",
+        "pinyin": "Xiǎofèi yībān shì zhàngdān de bǎi fēn zhī shí.",
+        "en": "Bahşiş genellikle hesabın yüzde onudur."
+      },
+      {
+        "zh": "他的收入大部分来自小费。",
+        "pinyin": "Tā de shōurù dàbùfen láizì xiǎofèi.",
+        "en": "Onun gelirinin büyük kısmı bahşişten geliyor."
+      },
+      {
+        "zh": "服务好可以得到更多小费。",
+        "pinyin": "Fúwù hǎo kěyǐ dédào gèng duō xiǎofèi.",
+        "en": "İyi hizmet daha fazla bahşiş getirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6554",
+    "hanzi": "小鬼",
+    "pinyin": "xiǎoguǐ",
+    "meaning": "yaramaz çocuk, ufaklık, küçük şeytan",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这个小鬼真调皮。",
+        "pinyin": "Zhège xiǎoguǐ zhēn tiáopí.",
+        "en": "Bu ufaklık gerçekten yaramaz."
+      },
+      {
+        "zh": "小鬼,快过来吃饭。",
+        "pinyin": "Xiǎoguǐ, kuài guòlái chīfàn.",
+        "en": "Ufaklık, çabuk gel de yemek ye."
+      }
+    ]
+  },
+  {
+    "id": "w6555",
+    "hanzi": "小结",
+    "pinyin": "xiǎojié",
+    "meaning": "kısa özet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "请写一份工作小结。",
+        "pinyin": "Qǐng xiě yī fèn gōngzuò xiǎojié.",
+        "en": "Lütfen bir iş özeti yaz."
+      },
+      {
+        "zh": "老师让我们做一个学期小结。",
+        "pinyin": "Lǎoshī ràng wǒmen zuò yī gè xuéqī xiǎojié.",
+        "en": "Öğretmen bizden bir dönem özeti yapmamızı istedi."
+      }
+    ]
+  },
+  {
+    "id": "w6556",
+    "hanzi": "小看",
+    "pinyin": "xiǎokàn",
+    "meaning": "küçümsemek, hafife almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "不要小看这个问题。",
+        "pinyin": "Bùyào xiǎokàn zhège wèntí.",
+        "en": "Bu sorunu hafife alma."
+      },
+      {
+        "zh": "别人小看他,他却很有能力。",
+        "pinyin": "Biérén xiǎokàn tā, tā què hěn yǒu nénglì.",
+        "en": "İnsanlar onu küçümsedi ama o aslında çok yetenekli."
+      },
+      {
+        "zh": "不要小看年轻人的能力。",
+        "pinyin": "Bùyào xiǎokàn niánqīngrén de nénglì.",
+        "en": "Gençlerin yeteneğini küçümseme."
+      },
+      {
+        "zh": "他从不小看任何对手。",
+        "pinyin": "Tā cóng bù xiǎokàn rènhé duìshǒu.",
+        "en": "O hiçbir rakibini asla küçümsemez."
+      },
+      {
+        "zh": "这件小事不能小看。",
+        "pinyin": "Zhè jiàn xiǎoshì bùnéng xiǎokàn.",
+        "en": "Bu küçük olay hafife alınmamalı."
+      }
+    ]
+  },
+  {
+    "id": "w6557",
+    "hanzi": "小康",
+    "pinyin": "xiǎokāng",
+    "meaning": "hali vakti yerinde, orta halli refah",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他们家生活小康。",
+        "pinyin": "Tāmen jiā shēnghuó xiǎokāng.",
+        "en": "Onların ailesi orta halli bir refah içinde yaşıyor."
+      },
+      {
+        "zh": "国家正朝着全面小康的目标努力。",
+        "pinyin": "Guójiā zhèng cháozhe quánmiàn xiǎokāng de mùbiāo nǔlì.",
+        "en": "Ülke tam bir refah hedefine doğru çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6558",
+    "hanzi": "小卖部",
+    "pinyin": "xiǎomàibù",
+    "meaning": "kantin, büfe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "学校门口有一个小卖部。",
+        "pinyin": "Xuéxiào ménkǒu yǒu yī gè xiǎomàibù.",
+        "en": "Okulun girişinde bir büfe var."
+      },
+      {
+        "zh": "我在小卖部买了一瓶水。",
+        "pinyin": "Wǒ zài xiǎomàibù mǎile yī píng shuǐ.",
+        "en": "Kantinden bir şişe su aldım."
+      },
+      {
+        "zh": "小卖部里卖零食和饮料。",
+        "pinyin": "Xiǎomàibù lǐ mài língshí hé yǐnliào.",
+        "en": "Büfede atıştırmalık ve içecek satılıyor."
+      },
+      {
+        "zh": "宿舍楼下有个小卖部。",
+        "pinyin": "Sùshè lóuxià yǒu gè xiǎomàibù.",
+        "en": "Yurdun altında bir büfe var."
+      },
+      {
+        "zh": "他每天都去小卖部买早餐。",
+        "pinyin": "Tā měitiān dōu qù xiǎomàibù mǎi zǎocān.",
+        "en": "O her gün kahvaltı almak için büfeye gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6559",
+    "hanzi": "小朋友",
+    "pinyin": "xiǎopéngyǒu",
+    "meaning": "ufaklık, çocuk",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "小朋友们在公园里玩耍。",
+        "pinyin": "Xiǎopéngyǒumen zài gōngyuán lǐ wánshuǎ.",
+        "en": "Çocuklar parkta oynuyor."
+      },
+      {
+        "zh": "小朋友,你叫什么名字?",
+        "pinyin": "Xiǎopéngyǒu, nǐ jiào shénme míngzi?",
+        "en": "Ufaklık, senin adın ne?"
+      },
+      {
+        "zh": "老师给小朋友们讲故事。",
+        "pinyin": "Lǎoshī gěi xiǎopéngyǒumen jiǎng gùshi.",
+        "en": "Öğretmen çocuklara hikaye anlatıyor."
+      },
+      {
+        "zh": "这个小朋友很聪明。",
+        "pinyin": "Zhège xiǎopéngyǒu hěn cōngming.",
+        "en": "Bu çocuk çok zeki."
+      },
+      {
+        "zh": "小朋友们排队上车。",
+        "pinyin": "Xiǎopéngyǒumen páiduì shàngchē.",
+        "en": "Çocuklar sıraya girip arabaya biniyor."
+      }
+    ]
+  },
+  {
+    "id": "w6560",
+    "hanzi": "小品",
+    "pinyin": "xiǎopǐn",
+    "meaning": "skeç, kısa gösteri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "晚会上表演了一个搞笑小品。",
+        "pinyin": "Wǎnhuì shàng biǎoyǎnle yī gè gǎoxiào xiǎopǐn.",
+        "en": "Gece etkinliğinde komik bir skeç sergilendi."
+      },
+      {
+        "zh": "这个小品讽刺了社会现象。",
+        "pinyin": "Zhège xiǎopǐn fěngcìle shèhuì xiànxiàng.",
+        "en": "Bu skeç toplumsal olguları eleştiriyor."
+      },
+      {
+        "zh": "他是有名的小品演员。",
+        "pinyin": "Tā shì yǒumíng de xiǎopǐn yǎnyuán.",
+        "en": "O ünlü bir skeç oyuncusu."
+      },
+      {
+        "zh": "春晚上的小品总是很受欢迎。",
+        "pinyin": "Chūnwǎn shàng de xiǎopǐn zǒngshì hěn shòu huānyíng.",
+        "en": "Bahar gala gecesindeki skeçler her zaman çok popüler olur."
+      },
+      {
+        "zh": "他们排练了一个新的小品。",
+        "pinyin": "Tāmen páiliànle yī gè xīn de xiǎopǐn.",
+        "en": "Onlar yeni bir skeç için prova yaptılar."
+      }
+    ]
+  },
+  {
+    "id": "w6561",
+    "hanzi": "小数",
+    "pinyin": "xiǎoshù",
+    "meaning": "ondalık kesir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "请把这个分数写成小数。",
+        "pinyin": "Qǐng bǎ zhège fēnshù xiěchéng xiǎoshù.",
+        "en": "Lütfen bu kesri ondalık sayıya çevirin."
+      },
+      {
+        "zh": "老师教我们小数的计算方法。",
+        "pinyin": "Lǎoshī jiāo wǒmen xiǎoshù de jìsuàn fāngfǎ.",
+        "en": "Öğretmen bize ondalık sayı hesaplama yöntemlerini öğretti."
+      },
+      {
+        "zh": "这个数字保留两位小数。",
+        "pinyin": "Zhège shùzì bǎoliú liǎng wèi xiǎoshù.",
+        "en": "Bu sayı iki ondalık basamağa yuvarlandı."
+      },
+      {
+        "zh": "小数点后面是零。",
+        "pinyin": "Xiǎoshùdiǎn hòumian shì líng.",
+        "en": "Ondalık noktasından sonrası sıfır."
+      },
+      {
+        "zh": "这道题需要用到小数运算。",
+        "pinyin": "Zhè dào tí xūyào yòngdào xiǎoshù yùnsuàn.",
+        "en": "Bu soru ondalık sayı işlemi gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6562",
+    "hanzi": "校舍",
+    "pinyin": "xiàoshè",
+    "meaning": "okul binası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这所学校的校舍很新。",
+        "pinyin": "Zhè suǒ xuéxiào de xiàoshè hěn xīn.",
+        "en": "Bu okulun binası çok yeni."
+      },
+      {
+        "zh": "地震后学校重建了校舍。",
+        "pinyin": "Dìzhèn hòu xuéxiào chóngjiànle xiàoshè.",
+        "en": "Deprem sonrası okul, okul binasını yeniden inşa etti."
+      }
+    ]
+  },
+  {
+    "id": "w6563",
+    "hanzi": "校友",
+    "pinyin": "xiàoyǒu",
+    "meaning": "mezun, eski okul arkadaşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "我们是同一所大学的校友。",
+        "pinyin": "Wǒmen shì tóng yī suǒ dàxué de xiàoyǒu.",
+        "en": "Biz aynı üniversiteden mezunuz."
+      },
+      {
+        "zh": "学校邀请了很多校友回来演讲。",
+        "pinyin": "Xuéxiào yāoqǐngle hěn duō xiàoyǒu huílái yǎnjiǎng.",
+        "en": "Okul birçok mezunu konuşma yapmak için davet etti."
+      },
+      {
+        "zh": "他和我是高中校友。",
+        "pinyin": "Tā hé wǒ shì gāozhōng xiàoyǒu.",
+        "en": "O ve ben lise mezunuyuz."
+      },
+      {
+        "zh": "校友聚会每年举行一次。",
+        "pinyin": "Xiàoyǒu jùhuì měinián jǔxíng yī cì.",
+        "en": "Mezunlar toplantısı her yıl bir kez yapılır."
+      },
+      {
+        "zh": "这位成功的企业家是我们的校友。",
+        "pinyin": "Zhè wèi chénggōng de qǐyèjiā shì wǒmen de xiàoyǒu.",
+        "en": "Bu başarılı iş insanı bizim mezunumuzdur."
+      }
+    ]
+  },
+  {
+    "id": "w6564",
+    "hanzi": "校园",
+    "pinyin": "xiàoyuán",
+    "meaning": "kampüs",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "校园里绿树成荫。",
+        "pinyin": "Xiàoyuán lǐ lǜshù chéngyìn.",
+        "en": "Kampüste ağaçlar gölgeleriyle dolu."
+      },
+      {
+        "zh": "学生们在校园里散步。",
+        "pinyin": "Xuéshengmen zài xiàoyuán lǐ sànbù.",
+        "en": "Öğrenciler kampüste yürüyüş yapıyor."
+      },
+      {
+        "zh": "这所大学的校园很美。",
+        "pinyin": "Zhè suǒ dàxué de xiàoyuán hěn měi.",
+        "en": "Bu üniversitenin kampüsü çok güzel."
+      },
+      {
+        "zh": "校园安全非常重要。",
+        "pinyin": "Xiàoyuán ānquán fēicháng zhòngyào.",
+        "en": "Kampüs güvenliği son derece önemlidir."
+      },
+      {
+        "zh": "校园生活丰富多彩。",
+        "pinyin": "Xiàoyuán shēnghuó fēngfù duōcǎi.",
+        "en": "Kampüs hayatı zengin ve renklidir."
+      }
+    ]
+  },
+  {
+    "id": "w6565",
+    "hanzi": "笑容",
+    "pinyin": "xiàoróng",
+    "meaning": "gülümseme, tebessüm",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她脸上总是带着笑容。",
+        "pinyin": "Tā liǎn shàng zǒngshì dàizhe xiàoróng.",
+        "en": "Onun yüzünde her zaman bir gülümseme var."
+      },
+      {
+        "zh": "他露出了灿烂的笑容。",
+        "pinyin": "Tā lùchūle cànlàn de xiàoróng.",
+        "en": "O parlak bir gülümseme sergiledi."
+      },
+      {
+        "zh": "孩子的笑容很纯真。",
+        "pinyin": "Háizi de xiàoróng hěn chúnzhēn.",
+        "en": "Çocuğun gülümsemesi çok saf."
+      },
+      {
+        "zh": "她微笑着,笑容很甜。",
+        "pinyin": "Tā wēixiàozhe, xiàoróng hěn tián.",
+        "en": "O gülümsüyor, gülümsemesi çok tatlı."
+      },
+      {
+        "zh": "他的笑容感染了周围的人。",
+        "pinyin": "Tā de xiàoróng gǎnrǎnle zhōuwéi de rén.",
+        "en": "Onun gülümsemesi etrafındaki insanlara da bulaştı."
+      }
+    ]
+  },
+  {
+    "id": "w6566",
+    "hanzi": "效力",
+    "pinyin": "xiàolì",
+    "meaning": "etki, sonuç; birine hizmet etmek",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种药物的效力很强。",
+        "pinyin": "Zhè zhǒng yàowù de xiàolì hěn qiáng.",
+        "en": "Bu ilacın etkisi çok güçlü."
+      },
+      {
+        "zh": "合同已经失去了效力。",
+        "pinyin": "Hétong yǐjīng shīqùle xiàolì.",
+        "en": "Sözleşme artık geçerliliğini yitirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6567",
+    "hanzi": "效益",
+    "pinyin": "xiàoyì",
+    "meaning": "kâr, kazanç, fayda",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司的经济效益很好。",
+        "pinyin": "Gōngsī de jīngjì xiàoyì hěn hǎo.",
+        "en": "Şirketin ekonomik kazancı çok iyi."
+      },
+      {
+        "zh": "这项改革带来了明显效益。",
+        "pinyin": "Zhè xiàng gǎigé dàiláile míngxiǎn xiàoyì.",
+        "en": "Bu reform belirgin bir fayda getirdi."
+      },
+      {
+        "zh": "我们要提高工作效益。",
+        "pinyin": "Wǒmen yào tígāo gōngzuò xiàoyì.",
+        "en": "İş verimliliğimizi artırmalıyız."
+      },
+      {
+        "zh": "投资的效益取决于市场情况。",
+        "pinyin": "Tóuzī de xiàoyì qǔjuéyú shìchǎng qíngkuàng.",
+        "en": "Yatırımın getirisi piyasa koşullarına bağlıdır."
+      },
+      {
+        "zh": "这台设备的效益超出预期。",
+        "pinyin": "Zhè tái shèbèi de xiàoyì chāochū yùqī.",
+        "en": "Bu ekipmanın verimliliği beklentileri aştı."
+      }
+    ]
+  },
+  {
+    "id": "w6568",
+    "hanzi": "孝敬",
+    "pinyin": "xiàojìng",
+    "meaning": "ana babaya saygı göstermek, hürmet etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "子女应该孝敬父母。",
+        "pinyin": "Zǐnǚ yīnggāi xiàojìng fùmǔ.",
+        "en": "Çocuklar ana babalarına saygı göstermelidir."
+      },
+      {
+        "zh": "他每月都会孝敬老人一些钱。",
+        "pinyin": "Tā měi yuè dōu huì xiàojìng lǎorén yīxiē qián.",
+        "en": "O her ay yaşlılara biraz para verip saygı gösterir."
+      }
+    ]
+  },
+  {
+    "id": "w6569",
+    "hanzi": "协定",
+    "pinyin": "xiédìng",
+    "meaning": "anlaşma, mutabakat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两国签署了贸易协定。",
+        "pinyin": "Liǎng guó qiānshǔle màoyì xiédìng.",
+        "en": "İki ülke bir ticaret anlaşması imzaladı."
+      },
+      {
+        "zh": "这份协定对双方都有利。",
+        "pinyin": "Zhè fèn xiédìng duì shuāngfāng dōu yǒulì.",
+        "en": "Bu anlaşma her iki taraf için de faydalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6570",
+    "hanzi": "协会",
+    "pinyin": "xiéhuì",
+    "meaning": "dernek, birlik, kurum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他加入了一个作家协会。",
+        "pinyin": "Tā jiārùle yī gè zuòjiā xiéhuì.",
+        "en": "O bir yazarlar derneğine katıldı."
+      },
+      {
+        "zh": "这个协会致力于环境保护。",
+        "pinyin": "Zhège xiéhuì zhìlì yú huánjìng bǎohù.",
+        "en": "Bu dernek çevre korumaya adanmış durumda."
+      },
+      {
+        "zh": "医学协会发布了新的指南。",
+        "pinyin": "Yīxué xiéhuì fābùle xīn de zhǐnán.",
+        "en": "Tıp derneği yeni bir kılavuz yayınladı."
+      },
+      {
+        "zh": "他是这个协会的成员之一。",
+        "pinyin": "Tā shì zhège xiéhuì de chéngyuán zhī yī.",
+        "en": "O bu derneğin üyelerinden biri."
+      },
+      {
+        "zh": "商会和协会经常合作举办活动。",
+        "pinyin": "Shānghuì hé xiéhuì jīngcháng hézuò jǔbàn huódòng.",
+        "en": "Ticaret odası ve dernekler sık sık işbirliği yaparak etkinlik düzenler."
+      }
+    ]
   }
 ]

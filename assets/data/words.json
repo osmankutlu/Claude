@@ -194284,5 +194284,878 @@
         "en": "Bu hastalık körlüğe yol açabilir."
       }
     ]
+  },
+  {
+    "id": "w5701",
+    "hanzi": "失误",
+    "pinyin": "shīwù",
+    "meaning": "hata, yanlış, kusur",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这次比赛他犯了一个失误。",
+        "pinyin": "Zhè cì bǐsài tā fàn le yí ge shīwù.",
+        "en": "Bu maçta bir hata yaptı."
+      },
+      {
+        "zh": "由于操作失误，机器停止了运转。",
+        "pinyin": "Yóuyú cāozuò shīwù, jīqì tíngzhǐ le yùnzhuǎn.",
+        "en": "Kullanım hatası nedeniyle makine çalışmayı durdurdu."
+      },
+      {
+        "zh": "他为自己的失误道了歉。",
+        "pinyin": "Tā wèi zìjǐ de shīwù dào le qiàn.",
+        "en": "Kendi hatası için özür diledi."
+      },
+      {
+        "zh": "这个决策失误造成了严重后果。",
+        "pinyin": "Zhège juécè shīwù zàochéng le yánzhòng hòuguǒ.",
+        "en": "Bu karar hatası ciddi sonuçlara yol açtı."
+      },
+      {
+        "zh": "他尽量避免出现失误。",
+        "pinyin": "Tā jǐnliàng bìmiǎn chūxiàn shīwù.",
+        "en": "Hata yapmaktan mümkün olduğunca kaçınmaya çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5702",
+    "hanzi": "失效",
+    "pinyin": "shīxiào",
+    "meaning": "geçersiz olmak, etkisini yitirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这张优惠券已经失效了。",
+        "pinyin": "Zhè zhāng yōuhuìquàn yǐjīng shīxiào le.",
+        "en": "Bu indirim kuponu artık geçersiz."
+      },
+      {
+        "zh": "护照过期后自动失效。",
+        "pinyin": "Hùzhào guòqī hòu zìdòng shīxiào.",
+        "en": "Pasaport süresi dolduğunda otomatik olarak geçersiz hale gelir."
+      }
+    ]
+  },
+  {
+    "id": "w5703",
+    "hanzi": "失职",
+    "pinyin": "shīzhí",
+    "meaning": "görevini ihmal etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这次事故是因为管理人员失职。",
+        "pinyin": "Zhè cì shìgù shì yīnwèi guǎnlǐ rényuán shīzhí.",
+        "en": "Bu kaza yöneticilerin görevini ihmal etmesinden kaynaklandı."
+      },
+      {
+        "zh": "他因失职被撤职了。",
+        "pinyin": "Tā yīn shīzhí bèi chèzhí le.",
+        "en": "Görevi ihmal ettiği için görevden alındı."
+      }
+    ]
+  },
+  {
+    "id": "w5704",
+    "hanzi": "失踪",
+    "pinyin": "shīzōng",
+    "meaning": "kaybolmak, ortadan kaybolmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他已经失踪三天了。",
+        "pinyin": "Tā yǐjīng shīzōng sān tiān le.",
+        "en": "Üç gündür ortadan kayıp."
+      },
+      {
+        "zh": "警方正在寻找失踪的孩子。",
+        "pinyin": "Jǐngfāng zhèngzài xúnzhǎo shīzōng de háizi.",
+        "en": "Polis kayıp çocuğu arıyor."
+      },
+      {
+        "zh": "这艘船在海上失踪了。",
+        "pinyin": "Zhè sōu chuán zài hǎishàng shīzōng le.",
+        "en": "Bu gemi denizde kayboldu."
+      },
+      {
+        "zh": "他的猫已经失踪好几天了。",
+        "pinyin": "Tā de māo yǐjīng shīzōng hǎojǐ tiān le.",
+        "en": "Kedisi birkaç gündür kayıp."
+      },
+      {
+        "zh": "他在战争中失踪，至今下落不明。",
+        "pinyin": "Tā zài zhànzhēng zhōng shīzōng, zhìjīn xiàluò bùmíng.",
+        "en": "Savaşta kayboldu, bugüne kadar akıbeti bilinmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5705",
+    "hanzi": "诗人",
+    "pinyin": "shīrén",
+    "meaning": "şair, ozan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "李白是中国古代著名的诗人。",
+        "pinyin": "Lǐ Bái shì Zhōngguó gǔdài zhùmíng de shīrén.",
+        "en": "Li Bai, antik Çin'in ünlü bir şairidir."
+      },
+      {
+        "zh": "这位诗人写了很多优美的诗歌。",
+        "pinyin": "Zhè wèi shīrén xiě le hěnduō yōuměi de shīgē.",
+        "en": "Bu şair birçok güzel şiir yazdı."
+      },
+      {
+        "zh": "他梦想成为一名诗人。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yì míng shīrén.",
+        "en": "Şair olmayı hayal ediyor."
+      },
+      {
+        "zh": "这首诗表达了诗人的思乡之情。",
+        "pinyin": "Zhè shǒu shī biǎodá le shīrén de sīxiāng zhī qíng.",
+        "en": "Bu şiir şairin memleket özlemini ifade ediyor."
+      },
+      {
+        "zh": "许多年轻诗人受到了他的影响。",
+        "pinyin": "Xǔduō niánqīng shīrén shòudào le tā de yǐngxiǎng.",
+        "en": "Birçok genç şair ondan etkilendi."
+      }
+    ]
+  },
+  {
+    "id": "w5706",
+    "hanzi": "诗句",
+    "pinyin": "shījù",
+    "meaning": "dize, mısra",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他能背诵许多经典诗句。",
+        "pinyin": "Tā néng bèisòng xǔduō jīngdiǎn shījù.",
+        "en": "Birçok klasik dizeyi ezbere okuyabiliyor."
+      },
+      {
+        "zh": "这句诗句意境深远。",
+        "pinyin": "Zhè jù shījù yìjìng shēnyuǎn.",
+        "en": "Bu dizenin anlamı derin ve kapsamlı."
+      }
+    ]
+  },
+  {
+    "id": "w5707",
+    "hanzi": "师",
+    "pinyin": "shī",
+    "meaning": "öğretmen, usta",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他拜一位名师学艺。",
+        "pinyin": "Tā bài yí wèi míngshī xuéyì.",
+        "en": "Ünlü bir ustadan sanatı öğreniyor."
+      },
+      {
+        "zh": "尊师重道是中国的传统美德。",
+        "pinyin": "Zūnshī zhòngdào shì Zhōngguó de chuántǒng měidé.",
+        "en": "Öğretmene saygı göstermek, Çin'in geleneksel bir erdemidir."
+      },
+      {
+        "zh": "他是一位技艺高超的工艺师。",
+        "pinyin": "Tā shì yí wèi jìyì gāochāo de gōngyìshī.",
+        "en": "Yüksek beceriye sahip bir zanaat ustasıdır."
+      },
+      {
+        "zh": "老师是学生的引路人。",
+        "pinyin": "Lǎoshī shì xuésheng de yǐnlùrén.",
+        "en": "Öğretmen, öğrencilerin yol göstericisidir."
+      },
+      {
+        "zh": "他从师学习厨艺。",
+        "pinyin": "Tā cóngshī xuéxí chúyì.",
+        "en": "Bir ustadan yemek pişirmeyi öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w5708",
+    "hanzi": "师生",
+    "pinyin": "shīshēng",
+    "meaning": "öğretmen ve öğrenci",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "师生关系应该建立在相互尊重的基础上。",
+        "pinyin": "Shīshēng guānxì yīnggāi jiànlì zài xiānghù zūnzhòng de jīchǔ shàng.",
+        "en": "Öğretmen-öğrenci ilişkisi karşılıklı saygı temeline dayanmalıdır."
+      },
+      {
+        "zh": "全体师生参加了这次运动会。",
+        "pinyin": "Quántǐ shīshēng cānjiā le zhè cì yùndònghuì.",
+        "en": "Tüm öğretmen ve öğrenciler bu spor karşılaşmasına katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5709",
+    "hanzi": "湿",
+    "pinyin": "shī",
+    "meaning": "ıslak, nemli, rutubetli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的衣服湿了。",
+        "pinyin": "Tā de yīfu shī le.",
+        "en": "Kıyafeti ıslandı."
+      },
+      {
+        "zh": "地面很湿，小心滑倒。",
+        "pinyin": "Dìmiàn hěn shī, xiǎoxīn huádǎo.",
+        "en": "Zemin çok ıslak, kaymamaya dikkat et."
+      },
+      {
+        "zh": "这个地区气候湿润。",
+        "pinyin": "Zhège dìqū qìhòu shīrùn.",
+        "en": "Bu bölgenin iklimi nemlidir."
+      },
+      {
+        "zh": "他的头发被雨淋湿了。",
+        "pinyin": "Tā de tóufa bèi yǔ línshī le.",
+        "en": "Saçları yağmurda ıslandı."
+      },
+      {
+        "zh": "屋子里很潮湿。",
+        "pinyin": "Wūzi lǐ hěn cháoshī.",
+        "en": "Odanın içi çok nemli."
+      }
+    ]
+  },
+  {
+    "id": "w5710",
+    "hanzi": "湿度",
+    "pinyin": "shīdù",
+    "meaning": "nem oranı, rutubet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "今天的湿度很高。",
+        "pinyin": "Jīntiān de shīdù hěn gāo.",
+        "en": "Bugünkü nem oranı çok yüksek."
+      },
+      {
+        "zh": "湿度过高会影响身体健康。",
+        "pinyin": "Shīdù guògāo huì yǐngxiǎng shēntǐ jiànkāng.",
+        "en": "Aşırı nem sağlığı etkileyebilir."
+      }
+    ]
+  },
+  {
+    "id": "w5711",
+    "hanzi": "狮",
+    "pinyin": "shī",
+    "meaning": "aslan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "狮子是草原上的王者。",
+        "pinyin": "Shīzi shì cǎoyuán shàng de wángzhě.",
+        "en": "Aslan, savananın kralıdır."
+      },
+      {
+        "zh": "动物园里有几只狮子。",
+        "pinyin": "Dòngwùyuán lǐ yǒu jǐ zhī shīzi.",
+        "en": "Hayvanat bahçesinde birkaç aslan var."
+      },
+      {
+        "zh": "雄狮的鬃毛非常威武。",
+        "pinyin": "Xióngshī de zōngmáo fēicháng wēiwǔ.",
+        "en": "Erkek aslanın yelesi çok görkemli."
+      },
+      {
+        "zh": "狮子群靠捕猎为生。",
+        "pinyin": "Shīzi qún kào bǔliè wéishēng.",
+        "en": "Aslan sürüsü avlanarak yaşamını sürdürür."
+      },
+      {
+        "zh": "他画了一只勇猛的狮子。",
+        "pinyin": "Tā huà le yì zhī yǒngměng de shīzi.",
+        "en": "Cesur bir aslan çizdi."
+      }
+    ]
+  },
+  {
+    "id": "w5712",
+    "hanzi": "施工",
+    "pinyin": "shīgōng",
+    "meaning": "inşaat yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这条路正在施工。",
+        "pinyin": "Zhè tiáo lù zhèngzài shīgōng.",
+        "en": "Bu yolda inşaat çalışması sürüyor."
+      },
+      {
+        "zh": "施工期间请注意安全。",
+        "pinyin": "Shīgōng qījiān qǐng zhùyì ānquán.",
+        "en": "İnşaat süresince lütfen güvenliğe dikkat edin."
+      },
+      {
+        "zh": "这座大桥的施工历时三年。",
+        "pinyin": "Zhè zuò dàqiáo de shīgōng lìshí sān nián.",
+        "en": "Bu büyük köprünün inşaatı üç yıl sürdü."
+      },
+      {
+        "zh": "施工队正在加紧工作。",
+        "pinyin": "Shīgōngduì zhèngzài jiājǐn gōngzuò.",
+        "en": "İnşaat ekibi çalışmalarını hızlandırıyor."
+      },
+      {
+        "zh": "工地上禁止无关人员进入施工现场。",
+        "pinyin": "Gōngdì shàng jìnzhǐ wúguān rényuán jìnrù shīgōng xiànchǎng.",
+        "en": "İnşaat alanına yetkisiz kişilerin girmesi yasaktır."
+      }
+    ]
+  },
+  {
+    "id": "w5713",
+    "hanzi": "施行",
+    "pinyin": "shīxíng",
+    "meaning": "yürürlüğe koymak, uygulamaya geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这项法律将在明年施行。",
+        "pinyin": "Zhè xiàng fǎlǜ jiāng zài míngnián shīxíng.",
+        "en": "Bu yasa gelecek yıl yürürlüğe girecek."
+      },
+      {
+        "zh": "新政策已经正式施行。",
+        "pinyin": "Xīn zhèngcè yǐjīng zhèngshì shīxíng.",
+        "en": "Yeni politika resmen uygulamaya geçirildi."
+      }
+    ]
+  },
+  {
+    "id": "w5714",
+    "hanzi": "时",
+    "pinyin": "shí",
+    "meaning": "zaman, dönem, vakit",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "此时此刻，我感到很幸福。",
+        "pinyin": "Cǐshí cǐkè, wǒ gǎndào hěn xìngfú.",
+        "en": "Şu anda çok mutlu hissediyorum."
+      },
+      {
+        "zh": "他年轻时非常勤奋。",
+        "pinyin": "Tā niánqīng shí fēicháng qínfèn.",
+        "en": "Gençliğinde çok çalışkandı."
+      },
+      {
+        "zh": "他随时准备出发。",
+        "pinyin": "Tā suíshí zhǔnbèi chūfā.",
+        "en": "Her an yola çıkmaya hazır."
+      },
+      {
+        "zh": "时不待人，请珍惜眼前的时光。",
+        "pinyin": "Shí bù dài rén, qǐng zhēnxī yǎnqián de shíguāng.",
+        "en": "Zaman kimseyi beklemez, elindeki zamanı değerlendir."
+      },
+      {
+        "zh": "考试时请保持安静。",
+        "pinyin": "Kǎoshì shí qǐng bǎochí ānjìng.",
+        "en": "Sınav sırasında lütfen sessiz olun."
+      }
+    ]
+  },
+  {
+    "id": "w5715",
+    "hanzi": "时差",
+    "pinyin": "shíchā",
+    "meaning": "saat farkı, zaman farkı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "北京和纽约有十三个小时的时差。",
+        "pinyin": "Běijīng hé Niǔyuē yǒu shísān ge xiǎoshí de shíchā.",
+        "en": "Pekin ve New York arasında on üç saat fark vardır."
+      },
+      {
+        "zh": "他还没倒过来时差。",
+        "pinyin": "Tā hái méi dàoguòlái shíchā.",
+        "en": "Henüz jet lag'ından kurtulamadı."
+      },
+      {
+        "zh": "长途飞行让人产生时差反应。",
+        "pinyin": "Chángtú fēixíng ràng rén chǎnshēng shíchā fǎnyìng.",
+        "en": "Uzun uçuşlar jet lag tepkisine neden olur."
+      },
+      {
+        "zh": "打电话前要先确认时差。",
+        "pinyin": "Dǎ diànhuà qián yào xiān quèrèn shíchā.",
+        "en": "Telefon açmadan önce saat farkını doğrulamak gerekir."
+      },
+      {
+        "zh": "适应时差需要一些时间。",
+        "pinyin": "Shìyìng shíchā xūyào yìxiē shíjiān.",
+        "en": "Saat farkına alışmak biraz zaman alır."
+      }
+    ]
+  },
+  {
+    "id": "w5716",
+    "hanzi": "时常",
+    "pinyin": "shícháng",
+    "meaning": "sık sık",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他时常给家里打电话。",
+        "pinyin": "Tā shícháng gěi jiā lǐ dǎ diànhuà.",
+        "en": "Sık sık evi arıyor."
+      },
+      {
+        "zh": "我时常想起那段美好的时光。",
+        "pinyin": "Wǒ shícháng xiǎngqǐ nà duàn měihǎo de shíguāng.",
+        "en": "O güzel zamanları sık sık hatırlıyorum."
+      },
+      {
+        "zh": "她时常帮助有困难的人。",
+        "pinyin": "Tā shícháng bāngzhù yǒu kùnnán de rén.",
+        "en": "Sık sık zor durumdaki insanlara yardım ediyor."
+      },
+      {
+        "zh": "这个地区时常发生地震。",
+        "pinyin": "Zhège dìqū shícháng fāshēng dìzhèn.",
+        "en": "Bu bölgede sık sık deprem meydana geliyor."
+      },
+      {
+        "zh": "他时常加班到深夜。",
+        "pinyin": "Tā shícháng jiābān dào shēnyè.",
+        "en": "Sık sık gecenin geç saatlerine kadar mesai yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5717",
+    "hanzi": "时而",
+    "pinyin": "shí'ér",
+    "meaning": "bazen, ara sıra",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "天空时而晴朗，时而多云。",
+        "pinyin": "Tiānkōng shí'ér qínglǎng, shí'ér duōyún.",
+        "en": "Gökyüzü bazen açık, bazen bulutlu."
+      },
+      {
+        "zh": "他时而唱歌，时而跳舞。",
+        "pinyin": "Tā shí'ér chànggē, shí'ér tiàowǔ.",
+        "en": "Bazen şarkı söylüyor, bazen dans ediyor."
+      },
+      {
+        "zh": "她的情绪时而高涨，时而低落。",
+        "pinyin": "Tā de qíngxù shí'ér gāozhǎng, shí'ér dīluò.",
+        "en": "Ruh hali bazen yükseliyor, bazen düşüyor."
+      },
+      {
+        "zh": "远处时而传来鸟鸣声。",
+        "pinyin": "Yuǎnchù shí'ér chuánlái niǎomíng shēng.",
+        "en": "Uzaktan ara sıra kuş sesleri geliyor."
+      },
+      {
+        "zh": "他时而认真，时而调皮。",
+        "pinyin": "Tā shí'ér rènzhēn, shí'ér tiáopí.",
+        "en": "Bazen ciddi, bazen yaramaz oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w5718",
+    "hanzi": "时光",
+    "pinyin": "shíguāng",
+    "meaning": "vakit, günler, zaman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "美好的时光总是过得很快。",
+        "pinyin": "Měihǎo de shíguāng zǒngshì guò de hěn kuài.",
+        "en": "Güzel zamanlar her zaman çabuk geçer."
+      },
+      {
+        "zh": "他怀念大学时光。",
+        "pinyin": "Tā huáiniàn dàxué shíguāng.",
+        "en": "Üniversite yıllarını özlüyor."
+      },
+      {
+        "zh": "岁月不饶人，时光荏苒。",
+        "pinyin": "Suìyuè bùráorén, shíguāng rěnrǎn.",
+        "en": "Zaman kimseyi affetmez, günler akıp gider."
+      },
+      {
+        "zh": "他们一起度过了愉快的时光。",
+        "pinyin": "Tāmen yìqǐ dùguò le yúkuài de shíguāng.",
+        "en": "Birlikte keyifli zamanlar geçirdiler."
+      },
+      {
+        "zh": "这张照片记录了美好的时光。",
+        "pinyin": "Zhè zhāng zhàopiàn jìlù le měihǎo de shíguāng.",
+        "en": "Bu fotoğraf güzel bir anı kayıt altına aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5719",
+    "hanzi": "时机",
+    "pinyin": "shíjī",
+    "meaning": "fırsat, uygun zaman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "现在是投资的好时机。",
+        "pinyin": "Xiànzài shì tóuzī de hǎo shíjī.",
+        "en": "Şimdi yatırım yapmak için iyi bir zaman."
+      },
+      {
+        "zh": "他抓住了这个难得的时机。",
+        "pinyin": "Tā zhuāzhù le zhège nándé de shíjī.",
+        "en": "Bu nadir fırsatı yakaladı."
+      },
+      {
+        "zh": "时机尚未成熟。",
+        "pinyin": "Shíjī shàngwèi chéngshú.",
+        "en": "Zaman henüz olgunlaşmadı."
+      },
+      {
+        "zh": "他一直在等待合适的时机。",
+        "pinyin": "Tā yìzhí zài děngdài héshì de shíjī.",
+        "en": "Uygun zamanı sürekli bekliyor."
+      },
+      {
+        "zh": "这个时机对我们非常有利。",
+        "pinyin": "Zhège shíjī duì wǒmen fēicháng yǒulì.",
+        "en": "Bu zaman bizim için çok avantajlı."
+      }
+    ]
+  },
+  {
+    "id": "w5720",
+    "hanzi": "时刻表",
+    "pinyin": "shíkèbiǎo",
+    "meaning": "zaman çizelgesi, sefer tarifesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "请查看火车时刻表。",
+        "pinyin": "Qǐng chákàn huǒchē shíkèbiǎo.",
+        "en": "Lütfen tren sefer tarifesine bakın."
+      },
+      {
+        "zh": "飞机时刻表更新了。",
+        "pinyin": "Fēijī shíkèbiǎo gēngxīn le.",
+        "en": "Uçak sefer tarifesi güncellendi."
+      }
+    ]
+  },
+  {
+    "id": "w5721",
+    "hanzi": "时速",
+    "pinyin": "shísù",
+    "meaning": "saatteki hız",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这辆车的最高时速是两百公里。",
+        "pinyin": "Zhè liàng chē de zuìgāo shísù shì liǎngbǎi gōnglǐ.",
+        "en": "Bu arabanın maksimum hızı saatte iki yüz kilometredir."
+      },
+      {
+        "zh": "高速公路限速时速一百二十公里。",
+        "pinyin": "Gāosù gōnglù xiànsù shísù yìbǎi'èrshí gōnglǐ.",
+        "en": "Otoyolda hız sınırı saatte yüz yirmi kilometredir."
+      },
+      {
+        "zh": "火车以每小时三百公里的时速行驶。",
+        "pinyin": "Huǒchē yǐ měi xiǎoshí sānbǎi gōnglǐ de shísù xíngshǐ.",
+        "en": "Tren saatte üç yüz kilometre hızla ilerliyor."
+      },
+      {
+        "zh": "台风的移动时速较慢。",
+        "pinyin": "Táifēng de yídòng shísù jiào màn.",
+        "en": "Tayfunun hareket hızı oldukça yavaş."
+      },
+      {
+        "zh": "运动员的冲刺时速非常快。",
+        "pinyin": "Yùndòngyuán de chōngcì shísù fēicháng kuài.",
+        "en": "Sporcunun son sprint hızı çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w5722",
+    "hanzi": "食欲",
+    "pinyin": "shíyù",
+    "meaning": "iştah",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他最近食欲不振。",
+        "pinyin": "Tā zuìjìn shíyù búzhèn.",
+        "en": "Son zamanlarda iştahı yok."
+      },
+      {
+        "zh": "运动可以增加食欲。",
+        "pinyin": "Yùndòng kěyǐ zēngjiā shíyù.",
+        "en": "Egzersiz iştahı artırabilir."
+      },
+      {
+        "zh": "这道菜让人食欲大开。",
+        "pinyin": "Zhè dào cài ràng rén shíyù dàkāi.",
+        "en": "Bu yemek insanın iştahını açıyor."
+      },
+      {
+        "zh": "生病后他食欲变差了。",
+        "pinyin": "Shēngbìng hòu tā shíyù biàn chà le.",
+        "en": "Hasta olduktan sonra iştahı kötüleşti."
+      },
+      {
+        "zh": "天气热让人食欲减退。",
+        "pinyin": "Tiānqì rè ràng rén shíyù jiǎntuì.",
+        "en": "Sıcak hava insanın iştahını azaltır."
+      }
+    ]
+  },
+  {
+    "id": "w5723",
+    "hanzi": "食指",
+    "pinyin": "shízhǐ",
+    "meaning": "işaret parmağı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他用食指指着地图。",
+        "pinyin": "Tā yòng shízhǐ zhǐzhe dìtú.",
+        "en": "İşaret parmağıyla haritayı gösteriyor."
+      },
+      {
+        "zh": "她的食指受伤了。",
+        "pinyin": "Tā de shízhǐ shòushāng le.",
+        "en": "İşaret parmağı yaralandı."
+      }
+    ]
+  },
+  {
+    "id": "w5724",
+    "hanzi": "十二月",
+    "pinyin": "shí'èryuè",
+    "meaning": "Aralık",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "十二月天气很冷。",
+        "pinyin": "Shí'èryuè tiānqì hěn lěng.",
+        "en": "Aralık ayında hava çok soğuk."
+      },
+      {
+        "zh": "我十二月出生。",
+        "pinyin": "Wǒ shí'èryuè chūshēng.",
+        "en": "Ben Aralık ayında doğdum."
+      },
+      {
+        "zh": "十二月是一年的最后一个月。",
+        "pinyin": "Shí'èryuè shì yìnián de zuìhòu yí ge yuè.",
+        "en": "Aralık, yılın son ayıdır."
+      },
+      {
+        "zh": "他们十二月结婚。",
+        "pinyin": "Tāmen shí'èryuè jiéhūn.",
+        "en": "Onlar Aralık ayında evlendiler."
+      },
+      {
+        "zh": "十二月底放寒假。",
+        "pinyin": "Shí'èryuè dǐ fàng hánjià.",
+        "en": "Aralık ayının sonunda kış tatili başlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5725",
+    "hanzi": "十字路口",
+    "pinyin": "shízì lùkǒu",
+    "meaning": "dört yol ağzı, kavşak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "请在十字路口右转。",
+        "pinyin": "Qǐng zài shízì lùkǒu yòuzhuǎn.",
+        "en": "Lütfen kavşakta sağa dönün."
+      },
+      {
+        "zh": "十字路口发生了交通事故。",
+        "pinyin": "Shízì lùkǒu fāshēng le jiāotōng shìgù.",
+        "en": "Kavşakta bir trafik kazası meydana geldi."
+      },
+      {
+        "zh": "他站在十字路口等红绿灯。",
+        "pinyin": "Tā zhàn zài shízì lùkǒu děng hónglǜdēng.",
+        "en": "Kavşakta trafik ışığını bekliyor."
+      },
+      {
+        "zh": "他现在正处于人生的十字路口。",
+        "pinyin": "Tā xiànzài zhèng chǔyú rénshēng de shízì lùkǒu.",
+        "en": "Şu anda hayatının dönüm noktasında."
+      },
+      {
+        "zh": "十字路口的交通信号灯坏了。",
+        "pinyin": "Shízì lùkǒu de jiāotōng xìnhàodēng huài le.",
+        "en": "Kavşaktaki trafik ışığı bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w5726",
+    "hanzi": "十足",
+    "pinyin": "shízú",
+    "meaning": "tam, yeterli, halis",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他信心十足地走上了舞台。",
+        "pinyin": "Tā xìnxīn shízú de zǒushàng le wǔtái.",
+        "en": "Tam bir güvenle sahneye çıktı."
+      },
+      {
+        "zh": "这是十足的谎言。",
+        "pinyin": "Zhè shì shízú de huǎngyán.",
+        "en": "Bu tam anlamıyla bir yalan."
+      }
+    ]
+  },
+  {
+    "id": "w5727",
+    "hanzi": "实",
+    "pinyin": "shí",
+    "meaning": "som, dolu; gerçek, doğru",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这个箱子是实心的。",
+        "pinyin": "Zhège xiāngzi shì shíxīn de.",
+        "en": "Bu kutu içi dolu (som)."
+      },
+      {
+        "zh": "他说的都是实话。",
+        "pinyin": "Tā shuō de dōu shì shíhuà.",
+        "en": "Söylediklerinin hepsi gerçek."
+      },
+      {
+        "zh": "请如实回答问题。",
+        "pinyin": "Qǐng rúshí huídá wèntí.",
+        "en": "Lütfen soruları gerçeğe uygun cevaplayın."
+      },
+      {
+        "zh": "这项工作需要脚踏实地。",
+        "pinyin": "Zhè xiàng gōngzuò xūyào jiǎotàshídì.",
+        "en": "Bu iş sağlam adımlarla ilerlemeyi gerektirir."
+      },
+      {
+        "zh": "他是个老实人。",
+        "pinyin": "Tā shì ge lǎoshí rén.",
+        "en": "O dürüst bir insan."
+      }
+    ]
+  },
+  {
+    "id": "w5728",
+    "hanzi": "实力",
+    "pinyin": "shílì",
+    "meaning": "güç, kapasite, dayanma gücü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这家公司实力雄厚。",
+        "pinyin": "Zhè jiā gōngsī shílì xiónghòu.",
+        "en": "Bu şirketin gücü çok güçlüdür."
+      },
+      {
+        "zh": "这支球队实力很强。",
+        "pinyin": "Zhè zhī qiúduì shílì hěn qiáng.",
+        "en": "Bu takımın gücü çok yüksek."
+      },
+      {
+        "zh": "他凭实力赢得了比赛。",
+        "pinyin": "Tā píng shílì yíngdé le bǐsài.",
+        "en": "Yeteneğiyle yarışmayı kazandı."
+      },
+      {
+        "zh": "国家的经济实力不断增强。",
+        "pinyin": "Guójiā de jīngjì shílì búduàn zēngqiáng.",
+        "en": "Ülkenin ekonomik gücü sürekli artıyor."
+      },
+      {
+        "zh": "他用实力证明了自己。",
+        "pinyin": "Tā yòng shílì zhèngmíng le zìjǐ.",
+        "en": "Kendini gücüyle kanıtladı."
+      }
+    ]
   }
 ]

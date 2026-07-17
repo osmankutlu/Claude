@@ -219154,5 +219154,833 @@
         "en": "Ticaret odası ve dernekler sık sık işbirliği yaparak etkinlik düzenler."
       }
     ]
+  },
+  {
+    "id": "w6571",
+    "hanzi": "协商",
+    "pinyin": "xiéshāng",
+    "meaning": "karşılıklı görüşmek, müzakere etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "双方进行了友好协商。",
+        "pinyin": "Shuāngfāng jìnxíngle yǒuhǎo xiéshāng.",
+        "en": "Her iki taraf dostane bir müzakere yürüttü."
+      },
+      {
+        "zh": "这个问题需要各方协商解决。",
+        "pinyin": "Zhège wèntí xūyào gèfāng xiéshāng jiějué.",
+        "en": "Bu sorun tüm tarafların müzakeresiyle çözülmelidir."
+      },
+      {
+        "zh": "他们经过反复协商达成了共识。",
+        "pinyin": "Tāmen jīngguò fǎnfù xiéshāng dáchéngle gòngshí.",
+        "en": "Onlar tekrar tekrar müzakere ederek fikir birliğine vardılar."
+      },
+      {
+        "zh": "两国代表进行了深入协商。",
+        "pinyin": "Liǎng guó dàibiǎo jìnxíngle shēnrù xiéshāng.",
+        "en": "İki ülke temsilcisi derinlemesine müzakere yürüttü."
+      },
+      {
+        "zh": "价格问题还需要进一步协商。",
+        "pinyin": "Jiàgé wèntí hái xūyào jìnyíbù xiéshāng.",
+        "en": "Fiyat konusunun daha fazla müzakere edilmesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6572",
+    "hanzi": "协议",
+    "pinyin": "xiéyì",
+    "meaning": "anlaşma, mutabakat, ittifak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "双方签署了合作协议。",
+        "pinyin": "Shuāngfāng qiānshǔle hézuò xiéyì.",
+        "en": "Her iki taraf bir işbirliği anlaşması imzaladı."
+      },
+      {
+        "zh": "这份协议对双方都有利。",
+        "pinyin": "Zhè fèn xiéyì duì shuāngfāng dōu yǒulì.",
+        "en": "Bu anlaşma her iki taraf için de faydalıdır."
+      },
+      {
+        "zh": "他们最终达成了协议。",
+        "pinyin": "Tāmen zuìzhōng dáchéngle xiéyì.",
+        "en": "Onlar sonunda bir anlaşmaya vardılar."
+      },
+      {
+        "zh": "协议规定了双方的责任和义务。",
+        "pinyin": "Xiéyì guīdìngle shuāngfāng de zérèn hé yìwù.",
+        "en": "Anlaşma her iki tarafın sorumluluk ve yükümlülüklerini belirledi."
+      },
+      {
+        "zh": "协议已经生效。",
+        "pinyin": "Xiéyì yǐjīng shēngxiào.",
+        "en": "Anlaşma zaten yürürlüğe girdi."
+      }
+    ]
+  },
+  {
+    "id": "w6573",
+    "hanzi": "协助",
+    "pinyin": "xiézhù",
+    "meaning": "yardım etmek, destek olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他协助老师完成了工作。",
+        "pinyin": "Tā xiézhù lǎoshī wánchéngle gōngzuò.",
+        "en": "O öğretmene işi tamamlamada yardım etti."
+      },
+      {
+        "zh": "警方请求群众协助调查。",
+        "pinyin": "Jǐngfāng qǐngqiú qúnzhòng xiézhù diàochá.",
+        "en": "Polis halktan soruşturmaya yardım etmesini istedi."
+      },
+      {
+        "zh": "我们需要协助部门解决这个问题。",
+        "pinyin": "Wǒmen xūyào xiézhù bùmén jiějué zhège wèntí.",
+        "en": "Bu sorunu çözmek için ilgili birime yardımcı olmamız gerekiyor."
+      },
+      {
+        "zh": "他协助医生完成了手术。",
+        "pinyin": "Tā xiézhù yīshēng wánchéngle shǒushù.",
+        "en": "O doktora ameliyatı tamamlamada yardım etti."
+      },
+      {
+        "zh": "志愿者协助救援工作。",
+        "pinyin": "Zhìyuànzhě xiézhù jiùyuán gōngzuò.",
+        "en": "Gönüllüler kurtarma çalışmalarına destek verdi."
+      }
+    ]
+  },
+  {
+    "id": "w6574",
+    "hanzi": "协作",
+    "pinyin": "xiézuò",
+    "meaning": "işbirliği yapmak, birlikte çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "各部门要协作完成任务。",
+        "pinyin": "Gè bùmén yào xiézuò wánchéng rènwu.",
+        "en": "Tüm birimlerin işbirliği yaparak görevi tamamlaması gerekiyor."
+      },
+      {
+        "zh": "团队协作是成功的关键。",
+        "pinyin": "Tuánduì xiézuò shì chénggōng de guānjiàn.",
+        "en": "Takım işbirliği başarının anahtarıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6575",
+    "hanzi": "携",
+    "pinyin": "xié",
+    "meaning": "taşımak, götürmek, elinde tutmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他携妻带子去旅行。",
+        "pinyin": "Tā xié qī dài zǐ qù lǚxíng.",
+        "en": "O eşini ve çocuğunu alıp seyahate çıktı."
+      },
+      {
+        "zh": "请携带好个人物品。",
+        "pinyin": "Qǐng xiédài hǎo gèrén wùpǐn.",
+        "en": "Lütfen kişisel eşyalarınızı yanınızda taşıyın."
+      },
+      {
+        "zh": "他们携手合作完成了项目。",
+        "pinyin": "Tāmen xiéshǒu hézuò wánchéngle xiàngmù.",
+        "en": "Onlar el ele işbirliği yaparak projeyi tamamladılar."
+      },
+      {
+        "zh": "登机时禁止携带液体。",
+        "pinyin": "Dēngjī shí jìnzhǐ xiédài yètǐ.",
+        "en": "Uçağa binerken sıvı taşımak yasaktır."
+      },
+      {
+        "zh": "他随身携带一部手机。",
+        "pinyin": "Tā suíshēn xiédài yī bù shǒujī.",
+        "en": "O yanında bir telefon taşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6576",
+    "hanzi": "斜坡",
+    "pinyin": "xiépō",
+    "meaning": "yokuş, bayır, eğim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他骑车上了一段斜坡。",
+        "pinyin": "Tā qíchē shàngle yī duàn xiépō.",
+        "en": "O bisikletle bir yokuşa çıktı."
+      },
+      {
+        "zh": "这条路有一个陡峭的斜坡。",
+        "pinyin": "Zhè tiáo lù yǒu yī gè dǒuqiào de xiépō.",
+        "en": "Bu yolda dik bir yokuş var."
+      },
+      {
+        "zh": "孩子们喜欢在斜坡上滑滑梯。",
+        "pinyin": "Háizimen xǐhuān zài xiépō shàng huá huátī.",
+        "en": "Çocuklar yokuşta kaydırak kaymayı severler."
+      },
+      {
+        "zh": "车子沿着斜坡缓缓下降。",
+        "pinyin": "Chēzi yánzhe xiépō huǎnhuǎn xiàjiàng.",
+        "en": "Araba yokuş boyunca yavaşça iniyor."
+      },
+      {
+        "zh": "山坡上有一条通往山顶的斜坡路。",
+        "pinyin": "Shānpō shàng yǒu yī tiáo tōngwǎng shāndǐng de xiépōlù.",
+        "en": "Dağ yamacında zirveye giden bir yokuş yol var."
+      }
+    ]
+  },
+  {
+    "id": "w6577",
+    "hanzi": "写字楼",
+    "pinyin": "xiězìlóu",
+    "meaning": "ofis binası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他在一座写字楼里上班。",
+        "pinyin": "Tā zài yī zuò xiězìlóu lǐ shàngbān.",
+        "en": "O bir ofis binasında çalışıyor."
+      },
+      {
+        "zh": "这座写字楼有三十层。",
+        "pinyin": "Zhè zuò xiězìlóu yǒu sānshí céng.",
+        "en": "Bu ofis binası otuz katlıdır."
+      },
+      {
+        "zh": "市中心新建了一座写字楼。",
+        "pinyin": "Shì zhōngxīn xīnjiànle yī zuò xiězìlóu.",
+        "en": "Şehir merkezinde yeni bir ofis binası inşa edildi."
+      },
+      {
+        "zh": "公司租了一层写字楼作为办公室。",
+        "pinyin": "Gōngsī zūle yī céng xiězìlóu zuòwéi bàngōngshì.",
+        "en": "Şirket ofis olarak bir kat ofis binası kiraladı."
+      },
+      {
+        "zh": "写字楼附近有很多餐厅。",
+        "pinyin": "Xiězìlóu fùjìn yǒu hěn duō cāntīng.",
+        "en": "Ofis binasının yakınında birçok restoran var."
+      }
+    ]
+  },
+  {
+    "id": "w6578",
+    "hanzi": "写作",
+    "pinyin": "xiězuò",
+    "meaning": "yazı yazmak, edebi eser yazmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他热爱写作。",
+        "pinyin": "Tā rè'ài xiězuò.",
+        "en": "O yazı yazmayı çok seviyor."
+      },
+      {
+        "zh": "她的写作水平很高。",
+        "pinyin": "Tā de xiězuò shuǐpíng hěn gāo.",
+        "en": "Onun yazı yazma seviyesi çok yüksek."
+      },
+      {
+        "zh": "写作需要长期的练习。",
+        "pinyin": "Xiězuò xūyào chángqī de liànxí.",
+        "en": "Yazı yazmak uzun süreli pratik gerektirir."
+      },
+      {
+        "zh": "他把大部分时间都花在写作上。",
+        "pinyin": "Tā bǎ dàbùfen shíjiān dōu huā zài xiězuò shàng.",
+        "en": "O zamanının çoğunu yazı yazmaya harcıyor."
+      },
+      {
+        "zh": "这位作家的写作风格很独特。",
+        "pinyin": "Zhè wèi zuòjiā de xiězuò fēnggé hěn dútè.",
+        "en": "Bu yazarın yazma tarzı çok özgün."
+      }
+    ]
+  },
+  {
+    "id": "w6579",
+    "hanzi": "谢",
+    "pinyin": "xiè",
+    "meaning": "teşekkür etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "多谢你的帮助。",
+        "pinyin": "Duō xiè nǐ de bāngzhù.",
+        "en": "Yardımın için çok teşekkür ederim."
+      },
+      {
+        "zh": "他向大家道谢。",
+        "pinyin": "Tā xiàng dàjiā dàoxiè.",
+        "en": "O herkese teşekkür etti."
+      },
+      {
+        "zh": "我谢过老师的教导。",
+        "pinyin": "Wǒ xièguò lǎoshī de jiàodǎo.",
+        "en": "Öğretmenin öğüdüne teşekkür ettim."
+      },
+      {
+        "zh": "他特意来谢我。",
+        "pinyin": "Tā tèyì lái xiè wǒ.",
+        "en": "O özellikle bana teşekkür etmeye geldi."
+      },
+      {
+        "zh": "谢天谢地,我们及时赶到了。",
+        "pinyin": "Xiètiān-xièdì, wǒmen jíshí gǎndào le.",
+        "en": "Çok şükür, zamanında yetiştik."
+      }
+    ]
+  },
+  {
+    "id": "w6580",
+    "hanzi": "谢绝",
+    "pinyin": "xièjué",
+    "meaning": "nazikçe reddetmek, geri çevirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他谢绝了我们的邀请。",
+        "pinyin": "Tā xièjuéle wǒmen de yāoqǐng.",
+        "en": "O davetimizi nazikçe reddetti."
+      },
+      {
+        "zh": "谢绝参观,请勿打扰。",
+        "pinyin": "Xièjué cānguān, qǐng wù dǎrǎo.",
+        "en": "Ziyaret kabul edilmemektedir, lütfen rahatsız etmeyin."
+      }
+    ]
+  },
+  {
+    "id": "w6581",
+    "hanzi": "谢意",
+    "pinyin": "xièyì",
+    "meaning": "minnettarlık, şükran",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他向大家表达了谢意。",
+        "pinyin": "Tā xiàng dàjiā biǎodále xièyì.",
+        "en": "O herkese minnettarlığını ifade etti."
+      },
+      {
+        "zh": "我送她一份礼物,表示谢意。",
+        "pinyin": "Wǒ sòng tā yī fèn lǐwù, biǎoshì xièyì.",
+        "en": "Ona minnettarlığımı ifade etmek için bir hediye verdim."
+      }
+    ]
+  },
+  {
+    "id": "w6582",
+    "hanzi": "泄露",
+    "pinyin": "xièlòu",
+    "meaning": "açığa vurmak, ifşa etmek, sızdırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他泄露了公司的机密。",
+        "pinyin": "Tā xièlòule gōngsī de jīmì.",
+        "en": "O şirketin sırlarını ifşa etti."
+      },
+      {
+        "zh": "个人信息不能随意泄露。",
+        "pinyin": "Gèrén xìnxī bùnéng suíyì xièlòu.",
+        "en": "Kişisel bilgiler rastgele ifşa edilemez."
+      }
+    ]
+  },
+  {
+    "id": "w6583",
+    "hanzi": "泄气",
+    "pinyin": "xièqì",
+    "meaning": "cesaretini kaybetmek, morali bozulmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "失败了也不要泄气。",
+        "pinyin": "Shībàile yě bùyào xièqì.",
+        "en": "Başarısız olsan bile moralini bozma."
+      },
+      {
+        "zh": "他因失败而感到泄气。",
+        "pinyin": "Tā yīn shībài ér gǎndào xièqì.",
+        "en": "O başarısızlık nedeniyle morali bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w6584",
+    "hanzi": "卸",
+    "pinyin": "xiè",
+    "meaning": "boşaltmak, indirmek, çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工人们正在卸货。",
+        "pinyin": "Gōngrénmen zhèngzài xièhuò.",
+        "en": "İşçiler yükü boşaltıyor."
+      },
+      {
+        "zh": "他卸下了行李。",
+        "pinyin": "Tā xiè xiàle xíngli.",
+        "en": "O bagajı indirdi."
+      },
+      {
+        "zh": "请把车上的东西卸下来。",
+        "pinyin": "Qǐng bǎ chē shàng de dōngxi xiè xiàlai.",
+        "en": "Lütfen arabadaki eşyaları indir."
+      },
+      {
+        "zh": "演员卸了妆才回家。",
+        "pinyin": "Yǎnyuán xièle zhuāng cái huí jiā.",
+        "en": "Oyuncu makyajını çıkardıktan sonra eve gitti."
+      },
+      {
+        "zh": "他卸下了心中的重担。",
+        "pinyin": "Tā xiè xiàle xīnzhōng de zhòngdàn.",
+        "en": "O kalbindeki ağır yükü üzerinden attı."
+      }
+    ]
+  },
+  {
+    "id": "w6585",
+    "hanzi": "蟹",
+    "pinyin": "xiè",
+    "meaning": "yengeç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "秋天是吃蟹的好季节。",
+        "pinyin": "Qiūtiān shì chī xiè de hǎo jìjié.",
+        "en": "Sonbahar yengeç yemek için iyi bir mevsimdir."
+      },
+      {
+        "zh": "海边的市场里卖新鲜的蟹。",
+        "pinyin": "Hǎibiān de shìchǎng lǐ mài xīnxiān de xiè.",
+        "en": "Deniz kenarındaki pazarda taze yengeç satılıyor."
+      },
+      {
+        "zh": "这只蟹的钳子很大。",
+        "pinyin": "Zhè zhī xiè de qiánzi hěn dà.",
+        "en": "Bu yengecin kıskacı çok büyük."
+      },
+      {
+        "zh": "蟹肉的味道非常鲜美。",
+        "pinyin": "Xiè ròu de wèidao fēicháng xiānměi.",
+        "en": "Yengeç etinin tadı son derece lezzetli."
+      },
+      {
+        "zh": "他在海边捕到了几只蟹。",
+        "pinyin": "Tā zài hǎibiān bǔdàole jǐ zhī xiè.",
+        "en": "O deniz kenarında birkaç yengeç yakaladı."
+      }
+    ]
+  },
+  {
+    "id": "w6586",
+    "hanzi": "心",
+    "pinyin": "xīn",
+    "meaning": "kalp, yürek; düşünce, his",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的心跳得很快。",
+        "pinyin": "Tā de xīn tiào de hěn kuài.",
+        "en": "Onun kalbi hızlı atıyor."
+      },
+      {
+        "zh": "我从心里感谢你。",
+        "pinyin": "Wǒ cóng xīn lǐ gǎnxiè nǐ.",
+        "en": "Sana yürekten teşekkür ederim."
+      },
+      {
+        "zh": "她的心很善良。",
+        "pinyin": "Tā de xīn hěn shànliáng.",
+        "en": "Onun kalbi çok iyi."
+      },
+      {
+        "zh": "他一心想着工作。",
+        "pinyin": "Tā yīxīn xiǎngzhe gōngzuò.",
+        "en": "O bütün kalbiyle işi düşünüyor."
+      },
+      {
+        "zh": "这件事让她很伤心。",
+        "pinyin": "Zhè jiàn shì ràng tā hěn shāngxīn.",
+        "en": "Bu olay onu çok üzdü."
+      }
+    ]
+  },
+  {
+    "id": "w6587",
+    "hanzi": "心爱",
+    "pinyin": "xīn'ài",
+    "meaning": "sevgili, değerli, çok sevilen",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这是他心爱的礼物。",
+        "pinyin": "Zhè shì tā xīn'ài de lǐwù.",
+        "en": "Bu onun çok sevdiği bir hediye."
+      },
+      {
+        "zh": "她失去了自己心爱的玩具。",
+        "pinyin": "Tā shīqùle zìjǐ xīn'ài de wánjù.",
+        "en": "O çok sevdiği oyuncağını kaybetti."
+      }
+    ]
+  },
+  {
+    "id": "w6588",
+    "hanzi": "心得",
+    "pinyin": "xīndé",
+    "meaning": "deneyimden edinilen bilgi, kazanım",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "请分享一下你的学习心得。",
+        "pinyin": "Qǐng fēnxiǎng yīxià nǐ de xuéxí xīndé.",
+        "en": "Lütfen öğrenme deneyimini paylaş."
+      },
+      {
+        "zh": "他写了一篇读书心得。",
+        "pinyin": "Tā xiěle yī piān dúshū xīndé.",
+        "en": "O bir okuma deneyimi yazısı yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w6589",
+    "hanzi": "心事",
+    "pinyin": "xīnshi",
+    "meaning": "kaygı, dert, iç sıkıntısı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他好像有心事。",
+        "pinyin": "Tā hǎoxiàng yǒu xīnshi.",
+        "en": "Onun bir derdi varmış gibi görünüyor."
+      },
+      {
+        "zh": "你有什么心事,可以跟我说。",
+        "pinyin": "Nǐ yǒu shénme xīnshi, kěyǐ gēn wǒ shuō.",
+        "en": "Bir derdin varsa bana anlatabilirsin."
+      },
+      {
+        "zh": "她心事重重地坐在窗边。",
+        "pinyin": "Tā xīnshi chóngchóng de zuò zài chuāngbiān.",
+        "en": "O ağır bir kaygıyla pencerenin kenarında oturuyor."
+      },
+      {
+        "zh": "他把心事藏在心里。",
+        "pinyin": "Tā bǎ xīnshi cáng zài xīn lǐ.",
+        "en": "O derdini içinde saklıyor."
+      },
+      {
+        "zh": "说出心事会让人感觉轻松。",
+        "pinyin": "Shuōchū xīnshi huì ràng rén gǎnjué qīngsōng.",
+        "en": "Derdini söylemek insanı rahatlatabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6590",
+    "hanzi": "心疼",
+    "pinyin": "xīnténg",
+    "meaning": "üzülmek, kıyamamak, sevmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "看到孩子受伤,妈妈很心疼。",
+        "pinyin": "Kàndào háizi shòushāng, māma hěn xīnténg.",
+        "en": "Çocuğun yaralandığını görünce anne çok üzüldü."
+      },
+      {
+        "zh": "花了这么多钱,他有点心疼。",
+        "pinyin": "Huāle zhème duō qián, tā yǒudiǎn xīnténg.",
+        "en": "Bu kadar çok para harcadığı için biraz üzüldü."
+      }
+    ]
+  },
+  {
+    "id": "w6591",
+    "hanzi": "心血",
+    "pinyin": "xīnxuè",
+    "meaning": "emek, çaba, gayret",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这本书凝聚了他多年的心血。",
+        "pinyin": "Zhè běn shū níngjùle tā duō nián de xīnxuè.",
+        "en": "Bu kitap onun yıllarca süren emeğinin ürünüdür."
+      },
+      {
+        "zh": "他为这个项目付出了大量心血。",
+        "pinyin": "Tā wèi zhège xiàngmù fùchūle dàliàng xīnxuè.",
+        "en": "O bu proje için büyük emek harcadı."
+      }
+    ]
+  },
+  {
+    "id": "w6592",
+    "hanzi": "心愿",
+    "pinyin": "xīnyuàn",
+    "meaning": "istek, arzu, dilek",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她终于实现了自己的心愿。",
+        "pinyin": "Tā zhōngyú shíxiànle zìjǐ de xīnyuàn.",
+        "en": "O sonunda kendi dileğini gerçekleştirdi."
+      },
+      {
+        "zh": "他的心愿是环游世界。",
+        "pinyin": "Tā de xīnyuàn shì huányóu shìjiè.",
+        "en": "Onun dileği dünyayı gezmek."
+      }
+    ]
+  },
+  {
+    "id": "w6593",
+    "hanzi": "辛勤",
+    "pinyin": "xīnqín",
+    "meaning": "çalışkan, gayretli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "农民们辛勤地劳动。",
+        "pinyin": "Nóngmínmen xīnqín de láodòng.",
+        "en": "Çiftçiler gayretle çalışıyor."
+      },
+      {
+        "zh": "老师辛勤地培养学生。",
+        "pinyin": "Lǎoshī xīnqín de péiyǎng xuésheng.",
+        "en": "Öğretmen öğrencileri özenle yetiştiriyor."
+      },
+      {
+        "zh": "他辛勤工作了一整天。",
+        "pinyin": "Tā xīnqín gōngzuòle yī zhěng tiān.",
+        "en": "O tüm gün gayretle çalıştı."
+      },
+      {
+        "zh": "父母辛勤地养育我们长大。",
+        "pinyin": "Fùmǔ xīnqín de yǎngyù wǒmen zhǎngdà.",
+        "en": "Ebeveynler bizi büyütmek için gayretle çalıştı."
+      },
+      {
+        "zh": "她的成功来自辛勤的付出。",
+        "pinyin": "Tā de chénggōng láizì xīnqín de fùchū.",
+        "en": "Onun başarısı gayretli çabasından geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w6594",
+    "hanzi": "辛酸",
+    "pinyin": "xīnsuān",
+    "meaning": "acılı ve çileli, üzücü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他讲述了自己辛酸的经历。",
+        "pinyin": "Tā jiǎngshùle zìjǐ xīnsuān de jīnglì.",
+        "en": "O kendi acı verici deneyimini anlattı."
+      },
+      {
+        "zh": "回想起过去的辛酸,她流下了眼泪。",
+        "pinyin": "Huíxiǎng qǐ guòqù de xīnsuān, tā liúxiàle yǎnlèi.",
+        "en": "Geçmişteki acıları hatırlayınca gözyaşı döktü."
+      }
+    ]
+  },
+  {
+    "id": "w6595",
+    "hanzi": "新兵",
+    "pinyin": "xīnbīng",
+    "meaning": "acemi asker, yeni asker",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "新兵正在接受训练。",
+        "pinyin": "Xīnbīng zhèngzài jiēshòu xùnliàn.",
+        "en": "Acemi askerler eğitim alıyor."
+      },
+      {
+        "zh": "他刚成为一名新兵。",
+        "pinyin": "Tā gāng chéngwéi yī míng xīnbīng.",
+        "en": "O yeni bir acemi asker oldu."
+      }
+    ]
+  },
+  {
+    "id": "w6596",
+    "hanzi": "新年",
+    "pinyin": "xīnnián",
+    "meaning": "yeni yıl",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "新年快乐!",
+        "pinyin": "Xīnnián kuàilè!",
+        "en": "Yeni yılın kutlu olsun!"
+      },
+      {
+        "zh": "我们计划怎么庆祝新年?",
+        "pinyin": "Wǒmen jìhuà zěnme qìngzhù xīnnián?",
+        "en": "Yeni yılı nasıl kutlamayı planlıyoruz?"
+      },
+      {
+        "zh": "新年到了,一切都要有新的开始。",
+        "pinyin": "Xīnnián dào le, yīqiè dōu yào yǒu xīn de kāishǐ.",
+        "en": "Yeni yıl geldi, her şeyin yeni bir başlangıcı olmalı."
+      },
+      {
+        "zh": "全家人一起吃新年晚餐。",
+        "pinyin": "Quánjiā rén yīqǐ chī xīnnián wǎncān.",
+        "en": "Tüm aile birlikte yeni yıl akşam yemeğini yiyor."
+      },
+      {
+        "zh": "新年愿望是身体健康。",
+        "pinyin": "Xīnnián yuànwàng shì shēntǐ jiànkāng.",
+        "en": "Yeni yıl dileğim sağlıklı olmak."
+      }
+    ]
+  },
+  {
+    "id": "w6597",
+    "hanzi": "新娘",
+    "pinyin": "xīnniáng",
+    "meaning": "gelin",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "新娘穿着一身白色婚纱。",
+        "pinyin": "Xīnniáng chuānzhe yī shēn báisè hūnshā.",
+        "en": "Gelin baştan aşağı beyaz gelinlik giymiş."
+      },
+      {
+        "zh": "新娘和新郎一起走向礼堂。",
+        "pinyin": "Xīnniáng hé xīnláng yīqǐ zǒuxiàng lǐtáng.",
+        "en": "Gelin ve damat birlikte salona doğru yürüyor."
+      },
+      {
+        "zh": "所有人都称赞新娘很美丽。",
+        "pinyin": "Suǒyǒu rén dōu chēngzàn xīnniáng hěn měilì.",
+        "en": "Herkes gelinin çok güzel olduğunu övdü."
+      },
+      {
+        "zh": "新娘的家人也来参加婚礼了。",
+        "pinyin": "Xīnniáng de jiārén yě lái cānjiā hūnlǐ le.",
+        "en": "Gelinin ailesi de düğüne katıldı."
+      },
+      {
+        "zh": "伴娘陪着新娘做准备。",
+        "pinyin": "Bànniáng péizhe xīnniáng zuò zhǔnbèi.",
+        "en": "Nedime gelinin hazırlanmasına eşlik ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6598",
+    "hanzi": "新郎",
+    "pinyin": "xīnláng",
+    "meaning": "damat",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "新郎今天特别帅气。",
+        "pinyin": "Xīnláng jīntiān tèbié shuàiqì.",
+        "en": "Damat bugün özellikle yakışıklı."
+      },
+      {
+        "zh": "新郎向新娘许下了誓言。",
+        "pinyin": "Xīnláng xiàng xīnniáng xǔxiàle shìyán.",
+        "en": "Damat geline söz verdi."
+      },
+      {
+        "zh": "新郎的朋友们来祝贺他。",
+        "pinyin": "Xīnláng de péngyoumen lái zhùhè tā.",
+        "en": "Damatın arkadaşları onu tebrik etmeye geldi."
+      },
+      {
+        "zh": "新郎紧张地等待新娘出场。",
+        "pinyin": "Xīnláng jǐnzhāng de děngdài xīnniáng chūchǎng.",
+        "en": "Damat gerginlikle gelinin çıkmasını bekliyor."
+      },
+      {
+        "zh": "新郎在婚礼上发表了感言。",
+        "pinyin": "Xīnláng zài hūnlǐ shàng fābiǎole gǎnyán.",
+        "en": "Damat düğünde bir teşekkür konuşması yaptı."
+      }
+    ]
   }
 ]

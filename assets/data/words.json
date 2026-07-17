@@ -228382,5 +228382,908 @@
         "en": "Antrenman bir insanın iradesini güçlendirebilir."
       }
     ]
+  },
+  {
+    "id": "w6879",
+    "hanzi": "义",
+    "pinyin": "yì",
+    "meaning": "dürüstlük, doğruluk; anlam",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是个讲义气的人。",
+        "pinyin": "Tā shì gè jiǎng yìqì de rén.",
+        "en": "O sözünün eri, dürüst bir insan."
+      },
+      {
+        "zh": "这个词有多种含义。",
+        "pinyin": "Zhège cí yǒu duō zhǒng hányì.",
+        "en": "Bu kelimenin birçok anlamı var."
+      },
+      {
+        "zh": "他坚持正义的原则。",
+        "pinyin": "Tā jiānchí zhèngyì de yuánzé.",
+        "en": "O adalet ilkesini sürdürüyor."
+      },
+      {
+        "zh": "朋友之间要有情有义。",
+        "pinyin": "Péngyou zhījiān yào yǒuqíng yǒuyì.",
+        "en": "Arkadaşlar arasında sevgi ve vefa olmalı."
+      },
+      {
+        "zh": "他为义务献出了自己的时间。",
+        "pinyin": "Tā wèi yìwù xiànchūle zìjǐ de shíjiān.",
+        "en": "O görev için kendi zamanını feda etti."
+      }
+    ]
+  },
+  {
+    "id": "w6880",
+    "hanzi": "义工",
+    "pinyin": "yìgōng",
+    "meaning": "gönüllü kimse",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他每周都去做义工。",
+        "pinyin": "Tā měi zhōu dōu qù zuò yìgōng.",
+        "en": "O her hafta gönüllü çalışmaya gidiyor."
+      },
+      {
+        "zh": "很多学生参加了义工活动。",
+        "pinyin": "Hěn duō xuésheng cānjiāle yìgōng huódòng.",
+        "en": "Birçok öğrenci gönüllü etkinliğe katıldı."
+      },
+      {
+        "zh": "义工们帮助整理灾区物资。",
+        "pinyin": "Yìgōngmen bāngzhù zhěnglǐ zāiqū wùzī.",
+        "en": "Gönüllüler afet bölgesindeki malzemeleri düzenlemeye yardım ediyor."
+      },
+      {
+        "zh": "他成为了医院的义工。",
+        "pinyin": "Tā chéngwéile yīyuàn de yìgōng.",
+        "en": "O hastanenin gönüllüsü oldu."
+      },
+      {
+        "zh": "义工不领取任何报酬。",
+        "pinyin": "Yìgōng bù lǐngqǔ rènhé bàochou.",
+        "en": "Gönüllüler hiçbir ücret almazlar."
+      }
+    ]
+  },
+  {
+    "id": "w6881",
+    "hanzi": "议",
+    "pinyin": "yì",
+    "meaning": "görüşmek, tartışmak, önerme",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "大家在议这件事。",
+        "pinyin": "Dàjiā zài yì zhè jiàn shì.",
+        "en": "Herkes bu konuyu tartışıyor."
+      },
+      {
+        "zh": "他们对方案进行了商议。",
+        "pinyin": "Tāmen duì fāng'àn jìnxíngle shāngyì.",
+        "en": "Onlar plan hakkında görüşmeler yaptı."
+      },
+      {
+        "zh": "会议将讨论这个议题。",
+        "pinyin": "Huìyì jiāng tǎolùn zhège yìtí.",
+        "en": "Toplantıda bu konu tartışılacak."
+      },
+      {
+        "zh": "他向委员会提议了新方案。",
+        "pinyin": "Tā xiàng wěiyuánhuì tíyìle xīn fāng'àn.",
+        "en": "O komiteye yeni bir plan önerdi."
+      },
+      {
+        "zh": "大家对这个建议有不同意见。",
+        "pinyin": "Dàjiā duì zhège jiànyì yǒu bùtóng yìjiàn.",
+        "en": "Herkesin bu öneri hakkında farklı görüşleri var."
+      }
+    ]
+  },
+  {
+    "id": "w6882",
+    "hanzi": "议案",
+    "pinyin": "yì'àn",
+    "meaning": "öneri, teklif (meclis)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "议会通过了这项议案。",
+        "pinyin": "Yìhuì tōngguòle zhè xiàng yì'àn.",
+        "en": "Meclis bu teklifi kabul etti."
+      },
+      {
+        "zh": "他提出了一份新的议案。",
+        "pinyin": "Tā tíchūle yī fèn xīn de yì'àn.",
+        "en": "O yeni bir teklif sundu."
+      }
+    ]
+  },
+  {
+    "id": "w6883",
+    "hanzi": "议程",
+    "pinyin": "yìchéng",
+    "meaning": "gündem, ajanda",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这是今天会议的议程。",
+        "pinyin": "Zhè shì jīntiān huìyì de yìchéng.",
+        "en": "Bu bugünkü toplantının gündemidir."
+      },
+      {
+        "zh": "会议按照议程顺利进行。",
+        "pinyin": "Huìyì ànzhào yìchéng shùnlì jìnxíng.",
+        "en": "Toplantı gündeme uygun şekilde sorunsuz ilerledi."
+      },
+      {
+        "zh": "这个话题被列入了议程。",
+        "pinyin": "Zhège huàtí bèi lièrùle yìchéng.",
+        "en": "Bu konu gündeme eklendi."
+      },
+      {
+        "zh": "议程安排得很紧凑。",
+        "pinyin": "Yìchéng ānpái de hěn jǐncòu.",
+        "en": "Gündem çok sıkı planlanmış."
+      },
+      {
+        "zh": "他打乱了原定的议程。",
+        "pinyin": "Tā dǎluànle yuándìng de yìchéng.",
+        "en": "O önceden belirlenen gündemi karıştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6884",
+    "hanzi": "议会",
+    "pinyin": "yìhuì",
+    "meaning": "parlamento, meclis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "议会通过了新法律。",
+        "pinyin": "Yìhuì tōngguòle xīn fǎlǜ.",
+        "en": "Meclis yeni bir yasayı kabul etti."
+      },
+      {
+        "zh": "他被选为议会议员。",
+        "pinyin": "Tā bèi xuǎn wéi yìhuì yìyuán.",
+        "en": "O meclis üyesi olarak seçildi."
+      },
+      {
+        "zh": "议会正在讨论这项议案。",
+        "pinyin": "Yìhuì zhèngzài tǎolùn zhè xiàng yì'àn.",
+        "en": "Meclis bu teklifi tartışıyor."
+      },
+      {
+        "zh": "议会大厦位于市中心。",
+        "pinyin": "Yìhuì dàshà wèiyú shì zhōngxīn.",
+        "en": "Meclis binası şehir merkezinde yer alıyor."
+      },
+      {
+        "zh": "议会将举行新一轮选举。",
+        "pinyin": "Yìhuì jiāng jǔxíng xīn yī lún xuǎnjǔ.",
+        "en": "Meclis yeni bir seçim turu düzenleyecek."
+      }
+    ]
+  },
+  {
+    "id": "w6885",
+    "hanzi": "议题",
+    "pinyin": "yìtí",
+    "meaning": "tartışma konusu, gündem maddesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这是本次会议的主要议题。",
+        "pinyin": "Zhè shì běn cì huìyì de zhǔyào yìtí.",
+        "en": "Bu, bu toplantının ana konusudur."
+      },
+      {
+        "zh": "他们讨论了几个重要议题。",
+        "pinyin": "Tāmen tǎolùnle jǐ gè zhòngyào yìtí.",
+        "en": "Onlar birkaç önemli konuyu tartıştı."
+      },
+      {
+        "zh": "环境保护成为热门议题。",
+        "pinyin": "Huánjìng bǎohù chéngwéi rèmén yìtí.",
+        "en": "Çevre koruma popüler bir konu haline geldi."
+      },
+      {
+        "zh": "这个议题引发了激烈讨论。",
+        "pinyin": "Zhège yìtí yǐnfāle jīliè tǎolùn.",
+        "en": "Bu konu şiddetli bir tartışma başlattı."
+      },
+      {
+        "zh": "会议增加了新的讨论议题。",
+        "pinyin": "Huìyì zēngjiāle xīn de tǎolùn yìtí.",
+        "en": "Toplantıya yeni bir tartışma konusu eklendi."
+      }
+    ]
+  },
+  {
+    "id": "w6886",
+    "hanzi": "议员",
+    "pinyin": "yìyuán",
+    "meaning": "milletvekili, meclis üyesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他当选为国会议员。",
+        "pinyin": "Tā dāngxuǎn wéi guóhuì yìyuán.",
+        "en": "O meclis üyesi olarak seçildi."
+      },
+      {
+        "zh": "议员们对这个法案进行了投票。",
+        "pinyin": "Yìyuánmen duì zhège fǎ'àn jìnxíngle tóupiào.",
+        "en": "Meclis üyeleri bu yasa tasarısı için oy kullandı."
+      },
+      {
+        "zh": "议员在议会上发表了讲话。",
+        "pinyin": "Yìyuán zài yìhuì shàng fābiǎole jiǎnghuà.",
+        "en": "Milletvekili mecliste bir konuşma yaptı."
+      },
+      {
+        "zh": "地方议员关注民生问题。",
+        "pinyin": "Dìfāng yìyuán guānzhù mínshēng wèntí.",
+        "en": "Yerel meclis üyeleri halkın refahına odaklanıyor."
+      },
+      {
+        "zh": "他连续三届当选议员。",
+        "pinyin": "Tā liánxù sān jiè dāngxuǎn yìyuán.",
+        "en": "O üç dönem üst üste meclis üyesi seçildi."
+      }
+    ]
+  },
+  {
+    "id": "w6887",
+    "hanzi": "易",
+    "pinyin": "yì",
+    "meaning": "kolay; değişmek",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这道题很容易。",
+        "pinyin": "Zhè dào tí hěn róngyì.",
+        "en": "Bu soru çok kolay."
+      },
+      {
+        "zh": "这项工作说起来容易做起来难。",
+        "pinyin": "Zhè xiàng gōngzuò shuō qǐlai róngyì zuò qǐlai nán.",
+        "en": "Bu iş söylemesi kolay yapması zor."
+      },
+      {
+        "zh": "这种材料容易变形。",
+        "pinyin": "Zhè zhǒng cáiliào róngyì biànxíng.",
+        "en": "Bu malzeme kolayca deformasyona uğrar."
+      },
+      {
+        "zh": "他觉得这个问题不容易回答。",
+        "pinyin": "Tā juéde zhège wèntí bù róngyì huídá.",
+        "en": "O bu sorunun cevaplanmasının kolay olmadığını düşünüyor."
+      },
+      {
+        "zh": "态度决定了事情的难易。",
+        "pinyin": "Tàidu juédìngle shìqing de nányì.",
+        "en": "Tutum, işin zorluk derecesini belirler."
+      }
+    ]
+  },
+  {
+    "id": "w6888",
+    "hanzi": "异",
+    "pinyin": "yì",
+    "meaning": "farklı, değişik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "两人性格迥异。",
+        "pinyin": "Liǎng rén xìnggé jiǒngyì.",
+        "en": "İki kişinin karakteri çok farklı."
+      },
+      {
+        "zh": "他的做法与众不同,标新立异。",
+        "pinyin": "Tā de zuòfǎ yǔzhòngbùtóng, biāoxīnlìyì.",
+        "en": "Onun yaklaşımı diğerlerinden farklı, özgün."
+      },
+      {
+        "zh": "这两种植物大同小异。",
+        "pinyin": "Zhè liǎng zhǒng zhíwù dàtóngxiǎoyì.",
+        "en": "Bu iki bitki büyük ölçüde benzer küçük farklarla."
+      },
+      {
+        "zh": "他对此深感诧异。",
+        "pinyin": "Tā duì cǐ shēngǎn chàyì.",
+        "en": "O buna çok şaşırdı."
+      },
+      {
+        "zh": "两地气候差异很大。",
+        "pinyin": "Liǎng dì qìhòu chāyì hěn dà.",
+        "en": "İki yerin iklimi arasında büyük fark var."
+      }
+    ]
+  },
+  {
+    "id": "w6889",
+    "hanzi": "异常",
+    "pinyin": "yìcháng",
+    "meaning": "olağandışı; son derece",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这种天气异常炎热。",
+        "pinyin": "Zhè zhǒng tiānqì yìcháng yánrè.",
+        "en": "Bu hava son derece sıcak, olağandışı."
+      },
+      {
+        "zh": "他的行为显得异常。",
+        "pinyin": "Tā de xíngwéi xiǎnde yìcháng.",
+        "en": "Onun davranışı olağandışı görünüyor."
+      },
+      {
+        "zh": "检查结果显示一切正常,没有异常。",
+        "pinyin": "Jiǎnchá jiéguǒ xiǎnshì yīqiè zhèngcháng, méiyǒu yìcháng.",
+        "en": "Kontrol sonuçları her şeyin normal olduğunu ve anormallik olmadığını gösteriyor."
+      },
+      {
+        "zh": "他对这个消息感到异常兴奋。",
+        "pinyin": "Tā duì zhège xiāoxi gǎndào yìcháng xīngfèn.",
+        "en": "O bu haber karşısında son derece heyecanlandı."
+      },
+      {
+        "zh": "系统检测到了异常情况。",
+        "pinyin": "Xìtǒng jiǎncè dàole yìcháng qíngkuàng.",
+        "en": "Sistem olağandışı bir durum tespit etti."
+      }
+    ]
+  },
+  {
+    "id": "w6890",
+    "hanzi": "异国",
+    "pinyin": "yìguó",
+    "meaning": "yabancı ülke",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他在异国他乡打拼多年。",
+        "pinyin": "Tā zài yìguó tāxiāng dǎpīn duō nián.",
+        "en": "O yıllarca yabancı bir ülkede mücadele etti."
+      },
+      {
+        "zh": "这座城市充满了异国风情。",
+        "pinyin": "Zhè zuò chéngshì chōngmǎnle yìguó fēngqíng.",
+        "en": "Bu şehir egzotik bir atmosferle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w6891",
+    "hanzi": "异口同声",
+    "pinyin": "yìkǒutóngshēng",
+    "meaning": "tek ağızdan konuşmak, herkesin aynı şeyi söylemesi",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "大家异口同声地表示支持。",
+        "pinyin": "Dàjiā yìkǒutóngshēng de biǎoshì zhīchí.",
+        "en": "Herkes tek ağızdan destek belirtti."
+      },
+      {
+        "zh": "同学们异口同声地否认了这件事。",
+        "pinyin": "Tóngxuémen yìkǒutóngshēng de fǒurènle zhè jiàn shì.",
+        "en": "Sınıf arkadaşları tek ağızdan bu olayı reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w6892",
+    "hanzi": "异性",
+    "pinyin": "yìxìng",
+    "meaning": "karşı cins",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他很容易和异性交朋友。",
+        "pinyin": "Tā hěn róngyì hé yìxìng jiāo péngyou.",
+        "en": "O karşı cinsle kolayca arkadaş olabiliyor."
+      },
+      {
+        "zh": "青少年对异性开始产生兴趣。",
+        "pinyin": "Qīngshàonián duì yìxìng kāishǐ chǎnshēng xìngqù.",
+        "en": "Gençler karşı cinse ilgi duymaya başlar."
+      },
+      {
+        "zh": "他跟异性说话总是很紧张。",
+        "pinyin": "Tā gēn yìxìng shuōhuà zǒngshì hěn jǐnzhāng.",
+        "en": "O karşı cinsle konuşurken hep gergin oluyor."
+      },
+      {
+        "zh": "这项活动欢迎所有性别参加,不限异性。",
+        "pinyin": "Zhè xiàng huódòng huānyíng suǒyǒu xìngbié cānjiā, bùxiàn yìxìng.",
+        "en": "Bu etkinlik herkesi karşılıyor, cinsiyet sınırlaması yok."
+      },
+      {
+        "zh": "他有很多异性朋友。",
+        "pinyin": "Tā yǒu hěn duō yìxìng péngyou.",
+        "en": "Onun birçok karşı cinsten arkadaşı var."
+      }
+    ]
+  },
+  {
+    "id": "w6893",
+    "hanzi": "异样",
+    "pinyin": "yìyàng",
+    "meaning": "farklı, alışılmadık",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他用异样的眼光看着我。",
+        "pinyin": "Tā yòng yìyàng de yǎnguāng kànzhe wǒ.",
+        "en": "O bana tuhaf bir bakışla baktı."
+      },
+      {
+        "zh": "她的表情有些异样。",
+        "pinyin": "Tā de biǎoqíng yǒuxiē yìyàng.",
+        "en": "Onun ifadesi biraz alışılmadık."
+      }
+    ]
+  },
+  {
+    "id": "w6894",
+    "hanzi": "异议",
+    "pinyin": "yìyì",
+    "meaning": "itiraz, karşı görüş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "对此提案没有人提出异议。",
+        "pinyin": "Duì cǐ tí'àn méiyǒu rén tíchū yìyì.",
+        "en": "Bu teklife kimse itiraz etmedi."
+      },
+      {
+        "zh": "他对判决结果提出了异议。",
+        "pinyin": "Tā duì pànjué jiéguǒ tíchūle yìyì.",
+        "en": "O karar sonucuna itiraz etti."
+      }
+    ]
+  },
+  {
+    "id": "w6895",
+    "hanzi": "艺",
+    "pinyin": "yì",
+    "meaning": "beceri, sanat",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他学了一门手艺。",
+        "pinyin": "Tā xuéle yī mén shǒuyì.",
+        "en": "O bir el sanatı öğrendi."
+      },
+      {
+        "zh": "他多才多艺。",
+        "pinyin": "Tā duōcáiduōyì.",
+        "en": "O birçok yetenekle donanmış."
+      },
+      {
+        "zh": "这位工匠的手艺非常精湛。",
+        "pinyin": "Zhè wèi gōngjiàng de shǒuyì fēicháng jīngzhàn.",
+        "en": "Bu ustanın el becerisi son derece mükemmel."
+      },
+      {
+        "zh": "他的技艺已经出神入化。",
+        "pinyin": "Tā de jìyì yǐjīng chūshén-rùhuà.",
+        "en": "Onun sanatı ustalaşmış düzeyde."
+      },
+      {
+        "zh": "她自幼学习各种技艺。",
+        "pinyin": "Tā zìyòu xuéxí gèzhǒng jìyì.",
+        "en": "O küçüklüğünden beri çeşitli beceriler öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w6896",
+    "hanzi": "艺人",
+    "pinyin": "yìrén",
+    "meaning": "sanatçı, oyuncu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他是一位有名的艺人。",
+        "pinyin": "Tā shì yī wèi yǒumíng de yìrén.",
+        "en": "O ünlü bir sanatçı."
+      },
+      {
+        "zh": "这位民间艺人擅长剪纸。",
+        "pinyin": "Zhè wèi mínjiān yìrén shàncháng jiǎnzhǐ.",
+        "en": "Bu halk sanatçısı kağıt kesme sanatında ustadır."
+      },
+      {
+        "zh": "很多年轻人梦想成为艺人。",
+        "pinyin": "Hěn duō niánqīngrén mèngxiǎng chéngwéi yìrén.",
+        "en": "Birçok genç sanatçı olmayı hayal ediyor."
+      },
+      {
+        "zh": "这位艺人参加了慈善演出。",
+        "pinyin": "Zhè wèi yìrén cānjiāle císhàn yǎnchū.",
+        "en": "Bu sanatçı bir hayır gösterisine katıldı."
+      },
+      {
+        "zh": "他从小跟随师父学艺,成为了艺人。",
+        "pinyin": "Tā cóngxiǎo gēnsuí shīfu xuéyì, chéngwéile yìrén.",
+        "en": "O küçüklüğünden beri ustasından sanat öğrenerek bir sanatçı oldu."
+      }
+    ]
+  },
+  {
+    "id": "w6897",
+    "hanzi": "译",
+    "pinyin": "yì",
+    "meaning": "tercüme etmek, çevirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他把这本书译成了中文。",
+        "pinyin": "Tā bǎ zhè běn shū yìchéngle Zhōngwén.",
+        "en": "O bu kitabı Çinceye çevirdi."
+      },
+      {
+        "zh": "这句话很难译。",
+        "pinyin": "Zhè jù huà hěn nán yì.",
+        "en": "Bu cümleyi çevirmek çok zor."
+      },
+      {
+        "zh": "这份文件已经译完了。",
+        "pinyin": "Zhè fèn wénjiàn yǐjīng yìwán le.",
+        "en": "Bu belge zaten çevrildi."
+      },
+      {
+        "zh": "他专门从事诗歌翻译工作。",
+        "pinyin": "Tā zhuānmén cóngshì shīgē fānyì gōngzuò.",
+        "en": "O özellikle şiir çevirisiyle uğraşıyor."
+      },
+      {
+        "zh": "机器可以自动译文字。",
+        "pinyin": "Jīqì kěyǐ zìdòng yì wénzì.",
+        "en": "Makine metinleri otomatik olarak çevirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6898",
+    "hanzi": "译文",
+    "pinyin": "yìwén",
+    "meaning": "çevrilmiş metin",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这篇译文翻译得很准确。",
+        "pinyin": "Zhè piān yìwén fānyì de hěn zhǔnquè.",
+        "en": "Bu çeviri metni çok doğru çevrilmiş."
+      },
+      {
+        "zh": "请对照原文和译文。",
+        "pinyin": "Qǐng duìzhào yuánwén hé yìwén.",
+        "en": "Lütfen orijinal metin ve çeviriyi karşılaştır."
+      },
+      {
+        "zh": "译文中有几处翻译错误。",
+        "pinyin": "Yìwén zhōng yǒu jǐ chù fānyì cuòwù.",
+        "en": "Çeviri metninde birkaç çeviri hatası var."
+      },
+      {
+        "zh": "他仔细校对了译文。",
+        "pinyin": "Tā zǐxì jiàoduìle yìwén.",
+        "en": "O çeviri metnini dikkatlice kontrol etti."
+      },
+      {
+        "zh": "这本书的译文语言优美。",
+        "pinyin": "Zhè běn shū de yìwén yǔyán yōuměi.",
+        "en": "Bu kitabın çeviri dili çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w6899",
+    "hanzi": "毅力",
+    "pinyin": "yìlì",
+    "meaning": "irade gücü, azim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "成功需要毅力和耐心。",
+        "pinyin": "Chénggōng xūyào yìlì hé nàixīn.",
+        "en": "Başarı azim ve sabır gerektirir."
+      },
+      {
+        "zh": "他有超乎常人的毅力。",
+        "pinyin": "Tā yǒu chāohū chángrén de yìlì.",
+        "en": "Onun sıradan insanların ötesinde bir azmi var."
+      },
+      {
+        "zh": "坚持锻炼需要很强的毅力。",
+        "pinyin": "Jiānchí duànliàn xūyào hěn qiáng de yìlì.",
+        "en": "Egzersize devam etmek çok güçlü bir azim gerektirir."
+      },
+      {
+        "zh": "她凭借顽强的毅力战胜了病魔。",
+        "pinyin": "Tā píngjiè wánqiáng de yìlì zhànshèngle bìngmó.",
+        "en": "O dayanıklı azmi sayesinde hastalığı yendi."
+      },
+      {
+        "zh": "学习外语需要毅力。",
+        "pinyin": "Xuéxí wàiyǔ xūyào yìlì.",
+        "en": "Yabancı dil öğrenmek azim gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w6900",
+    "hanzi": "疫苗",
+    "pinyin": "yìmiáo",
+    "meaning": "aşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "孩子按时接种了疫苗。",
+        "pinyin": "Háizi ànshí jiēzhǒngle yìmiáo.",
+        "en": "Çocuk aşısını zamanında yaptırdı."
+      },
+      {
+        "zh": "科学家研发了新型疫苗。",
+        "pinyin": "Kēxuéjiā yánfāle xīnxíng yìmiáo.",
+        "en": "Bilim insanları yeni bir aşı geliştirdi."
+      },
+      {
+        "zh": "疫苗可以预防很多传染病。",
+        "pinyin": "Yìmiáo kěyǐ yùfáng hěn duō chuánrǎnbìng.",
+        "en": "Aşılar birçok bulaşıcı hastalığı önleyebilir."
+      },
+      {
+        "zh": "这种疫苗需要注射两针。",
+        "pinyin": "Zhè zhǒng yìmiáo xūyào zhùshè liǎng zhēn.",
+        "en": "Bu aşı iki doz gerektiriyor."
+      },
+      {
+        "zh": "他去医院打了流感疫苗。",
+        "pinyin": "Tā qù yīyuàn dǎle liúgǎn yìmiáo.",
+        "en": "O hastaneye gidip grip aşısı yaptırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6901",
+    "hanzi": "忆",
+    "pinyin": "yì",
+    "meaning": "hatırlamak, anımsamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他常常忆起童年的往事。",
+        "pinyin": "Tā chángcháng yìqǐ tóngnián de wǎngshì.",
+        "en": "O sık sık çocukluğundaki olayları hatırlar."
+      },
+      {
+        "zh": "回忆起那段时光,他感慨万千。",
+        "pinyin": "Huíyì qǐ nà duàn shíguāng, tā gǎnkǎi wànqiān.",
+        "en": "O dönemi hatırladığında derin duygular yaşıyor."
+      },
+      {
+        "zh": "他写了一篇回忆录。",
+        "pinyin": "Tā xiěle yī piān huíyìlù.",
+        "en": "O bir anı yazısı yazdı."
+      },
+      {
+        "zh": "这首歌让我忆起了旧时光。",
+        "pinyin": "Zhè shǒu gē ràng wǒ yìqǐle jiù shíguāng.",
+        "en": "Bu şarkı bana eski günleri hatırlattı."
+      },
+      {
+        "zh": "她时常忆及那位老师的教诲。",
+        "pinyin": "Tā shícháng yìjí nà wèi lǎoshī de jiàohuì.",
+        "en": "O sık sık o öğretmenin öğütlerini hatırlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6902",
+    "hanzi": "因果",
+    "pinyin": "yīnguǒ",
+    "meaning": "sebep-sonuç, illiyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这两件事之间没有因果关系。",
+        "pinyin": "Zhè liǎng jiàn shì zhījiān méiyǒu yīnguǒ guānxi.",
+        "en": "Bu iki olay arasında sebep-sonuç ilişkisi yok."
+      },
+      {
+        "zh": "他相信善恶终有因果。",
+        "pinyin": "Tā xiāngxìn shàn-è zhōng yǒu yīnguǒ.",
+        "en": "O iyilik ve kötülüğün sonunda bir karşılığı olduğuna inanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6903",
+    "hanzi": "因特网",
+    "pinyin": "yīntèwǎng",
+    "meaning": "internet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "因特网改变了人们的生活方式。",
+        "pinyin": "Yīntèwǎng gǎibiànle rénmen de shēnghuó fāngshì.",
+        "en": "İnternet insanların yaşam tarzını değiştirdi."
+      },
+      {
+        "zh": "他通过因特网获取信息。",
+        "pinyin": "Tā tōngguò yīntèwǎng huòqǔ xìnxī.",
+        "en": "O internet aracılığıyla bilgi ediniyor."
+      },
+      {
+        "zh": "因特网连接了全世界。",
+        "pinyin": "Yīntèwǎng liánjiēle quán shìjiè.",
+        "en": "İnternet tüm dünyayı birbirine bağladı."
+      },
+      {
+        "zh": "因特网速度越来越快。",
+        "pinyin": "Yīntèwǎng sùdù yuè lái yuè kuài.",
+        "en": "İnternet hızı giderek artıyor."
+      },
+      {
+        "zh": "很多人依赖因特网工作。",
+        "pinyin": "Hěn duō rén yīlài yīntèwǎng gōngzuò.",
+        "en": "Birçok kişi çalışmak için internete bağımlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6904",
+    "hanzi": "阴历",
+    "pinyin": "yīnlì",
+    "meaning": "ay takvimi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "春节是按阴历计算的。",
+        "pinyin": "Chūnjié shì àn yīnlì jìsuàn de.",
+        "en": "Bahar bayramı ay takvimine göre hesaplanır."
+      },
+      {
+        "zh": "他的生日是阴历三月初五。",
+        "pinyin": "Tā de shēngrì shì yīnlì sān yuè chū wǔ.",
+        "en": "Onun doğum günü ay takvimine göre üçüncü ayın beşidir."
+      },
+      {
+        "zh": "阴历和阳历有很大区别。",
+        "pinyin": "Yīnlì hé yánglì yǒu hěn dà qūbié.",
+        "en": "Ay takvimi ile güneş takvimi arasında büyük fark var."
+      },
+      {
+        "zh": "很多传统节日都按阴历过。",
+        "pinyin": "Hěn duō chuántǒng jiérì dōu àn yīnlì guò.",
+        "en": "Birçok geleneksel bayram ay takvimine göre kutlanır."
+      },
+      {
+        "zh": "老一辈人更习惯用阴历。",
+        "pinyin": "Lǎo yī bèi rén gèng xíguàn yòng yīnlì.",
+        "en": "Yaşlı nesil ay takvimini kullanmaya daha alışkındır."
+      }
+    ]
+  },
+  {
+    "id": "w6905",
+    "hanzi": "阴谋",
+    "pinyin": "yīnmóu",
+    "meaning": "komplo, entrika",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他们策划了一个阴谋。",
+        "pinyin": "Tāmen cèhuàle yī gè yīnmóu.",
+        "en": "Onlar bir komplo tasarladı."
+      },
+      {
+        "zh": "这场阴谋最终被揭穿了。",
+        "pinyin": "Zhè chǎng yīnmóu zuìzhōng bèi jiēchuān le.",
+        "en": "Bu komplo sonunda ortaya çıkarıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6906",
+    "hanzi": "阴影",
+    "pinyin": "yīnyǐng",
+    "meaning": "gölge",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "树的阴影洒在地上。",
+        "pinyin": "Shù de yīnyǐng sǎ zài dìshàng.",
+        "en": "Ağacın gölgesi yere düşüyor."
+      },
+      {
+        "zh": "这件事给他留下了心理阴影。",
+        "pinyin": "Zhè jiàn shì gěi tā liú xiàle xīnlǐ yīnyǐng.",
+        "en": "Bu olay onda psikolojik bir gölge bıraktı."
+      },
+      {
+        "zh": "他走出了失败的阴影。",
+        "pinyin": "Tā zǒuchūle shībài de yīnyǐng.",
+        "en": "O başarısızlığın gölgesinden çıktı."
+      },
+      {
+        "zh": "战争的阴影笼罩着这个国家。",
+        "pinyin": "Zhànzhēng de yīnyǐng lǒngzhàozhe zhège guójiā.",
+        "en": "Savaşın gölgesi bu ülkeyi kaplıyor."
+      },
+      {
+        "zh": "太阳下山后阴影变得更长。",
+        "pinyin": "Tàiyáng xiàshān hòu yīnyǐng biàn de gèng cháng.",
+        "en": "Güneş battıktan sonra gölgeler daha uzun oldu."
+      }
+    ]
   }
 ]

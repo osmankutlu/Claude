@@ -221593,5 +221593,818 @@
         "en": "Siyasetçiler keyfi vaatte bulunamaz."
       }
     ]
+  },
+  {
+    "id": "w6655",
+    "hanzi": "许愿",
+    "pinyin": "xǔyuàn",
+    "meaning": "dilekte bulunmak, istekte bulunmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "生日时她许了一个愿。",
+        "pinyin": "Shēngrì shí tā xǔle yī gè yuàn.",
+        "en": "Doğum gününde bir dilek diledi."
+      },
+      {
+        "zh": "他向星星许愿。",
+        "pinyin": "Tā xiàng xīngxing xǔyuàn.",
+        "en": "O yıldızlara dilekte bulundu."
+      },
+      {
+        "zh": "孩子们在庙里许愿。",
+        "pinyin": "Háizimen zài miào lǐ xǔyuàn.",
+        "en": "Çocuklar tapınakta dilek tutuyor."
+      },
+      {
+        "zh": "吹蜡烛前要先许愿。",
+        "pinyin": "Chuī làzhú qián yào xiān xǔyuàn.",
+        "en": "Mumları üflemeden önce dilek tutmak gerekir."
+      },
+      {
+        "zh": "他许了一个愿,希望考试顺利。",
+        "pinyin": "Tā xǔle yī gè yuàn, xīwàng kǎoshì shùnlì.",
+        "en": "Sınavın iyi geçmesini dileyerek bir dilek tuttu."
+      }
+    ]
+  },
+  {
+    "id": "w6656",
+    "hanzi": "畜牧",
+    "pinyin": "xùmù",
+    "meaning": "hayvancılık yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这个地区以畜牧业为主。",
+        "pinyin": "Zhège dìqū yǐ xùmùyè wéizhǔ.",
+        "en": "Bu bölgenin ana geçim kaynağı hayvancılıktır."
+      },
+      {
+        "zh": "他们家世代从事畜牧。",
+        "pinyin": "Tāmen jiā shìdài cóngshì xùmù.",
+        "en": "Onların ailesi nesillerdir hayvancılıkla uğraşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6657",
+    "hanzi": "蓄电池",
+    "pinyin": "xùdiànchí",
+    "meaning": "akü, akümülatör",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "汽车的蓄电池没电了。",
+        "pinyin": "Qìchē de xùdiànchí méi diàn le.",
+        "en": "Arabanın aküsü bitti."
+      },
+      {
+        "zh": "这种蓄电池可以反复充电。",
+        "pinyin": "Zhè zhǒng xùdiànchí kěyǐ fǎnfù chōngdiàn.",
+        "en": "Bu tür akü defalarca şarj edilebilir."
+      },
+      {
+        "zh": "工人正在更换蓄电池。",
+        "pinyin": "Gōngrén zhèngzài gēnghuàn xùdiànchí.",
+        "en": "İşçi aküyü değiştiriyor."
+      },
+      {
+        "zh": "太阳能电池板给蓄电池充电。",
+        "pinyin": "Tàiyángnéng diànchíbǎn gěi xùdiànchí chōngdiàn.",
+        "en": "Güneş enerjisi paneli aküyü şarj ediyor."
+      },
+      {
+        "zh": "蓄电池的使用寿命有限。",
+        "pinyin": "Xùdiànchí de shǐyòng shòumìng yǒuxiàn.",
+        "en": "Akünün kullanım ömrü sınırlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6658",
+    "hanzi": "序",
+    "pinyin": "xù",
+    "meaning": "sıra, düzen; önsöz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请按顺序排队。",
+        "pinyin": "Qǐng àn shùnxù páiduì.",
+        "en": "Lütfen sıraya göre kuyruğa girin."
+      },
+      {
+        "zh": "他为这本书写了序。",
+        "pinyin": "Tā wèi zhè běn shū xiěle xù.",
+        "en": "O bu kitap için önsöz yazdı."
+      },
+      {
+        "zh": "会议按照议程有序进行。",
+        "pinyin": "Huìyì ànzhào yìchéng yǒuxù jìnxíng.",
+        "en": "Toplantı gündeme göre düzenli bir şekilde yürütülüyor."
+      },
+      {
+        "zh": "他打乱了工作的顺序。",
+        "pinyin": "Tā dǎluànle gōngzuò de shùnxù.",
+        "en": "O işin sırasını karıştırdı."
+      },
+      {
+        "zh": "这些数字要按序排列。",
+        "pinyin": "Zhèxiē shùzì yào àn xù páiliè.",
+        "en": "Bu sayılar sıraya göre dizilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w6659",
+    "hanzi": "序言",
+    "pinyin": "xùyán",
+    "meaning": "önsöz",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他在序言中介绍了写作背景。",
+        "pinyin": "Tā zài xùyán zhōng jièshàole xiězuò bèijǐng.",
+        "en": "O önsözde yazım arka planını tanıttı."
+      },
+      {
+        "zh": "这本书的序言写得非常精彩。",
+        "pinyin": "Zhè běn shū de xùyán xiě de fēicháng jīngcǎi.",
+        "en": "Bu kitabın önsözü son derece etkileyici yazılmış."
+      }
+    ]
+  },
+  {
+    "id": "w6660",
+    "hanzi": "续",
+    "pinyin": "xù",
+    "meaning": "devam etmek, uzatmak, eklemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他继续把故事讲下去。",
+        "pinyin": "Tā jìxù bǎ gùshi jiǎng xiàqù.",
+        "en": "O hikayeyi anlatmaya devam etti."
+      },
+      {
+        "zh": "请给杯子续点水。",
+        "pinyin": "Qǐng gěi bēizi xù diǎn shuǐ.",
+        "en": "Lütfen bardağa biraz daha su ekle."
+      },
+      {
+        "zh": "他的合同续签了三年。",
+        "pinyin": "Tā de hétong xùqiānle sān nián.",
+        "en": "Onun sözleşmesi üç yıl daha uzatıldı."
+      },
+      {
+        "zh": "他们决定续办这个项目。",
+        "pinyin": "Tāmen juédìng xùbàn zhège xiàngmù.",
+        "en": "Onlar bu projeye devam etmeye karar verdiler."
+      },
+      {
+        "zh": "请续借这本书两周。",
+        "pinyin": "Qǐng xùjiè zhè běn shū liǎng zhōu.",
+        "en": "Lütfen bu kitabı iki hafta daha uzatarak ödünç al."
+      }
+    ]
+  },
+  {
+    "id": "w6661",
+    "hanzi": "宣",
+    "pinyin": "xuān",
+    "meaning": "ilan etmek, bildirmek, yayınlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "法官宣了判决结果。",
+        "pinyin": "Fǎguān xuānle pànjué jiéguǒ.",
+        "en": "Hakim kararı ilan etti."
+      },
+      {
+        "zh": "他向大家宣了这个消息。",
+        "pinyin": "Tā xiàng dàjiā xuānle zhège xiāoxi.",
+        "en": "O herkese bu haberi duyurdu."
+      },
+      {
+        "zh": "政府正式宣布了新政策。",
+        "pinyin": "Zhèngfǔ zhèngshì xuānbùle xīn zhèngcè.",
+        "en": "Hükümet yeni politikayı resmi olarak açıkladı."
+      },
+      {
+        "zh": "他宣读了会议纪要。",
+        "pinyin": "Tā xuāndúle huìyì jìyào.",
+        "en": "O toplantı tutanağını yüksek sesle okudu."
+      },
+      {
+        "zh": "国家宣战了。",
+        "pinyin": "Guójiā xuānzhàn le.",
+        "en": "Ülke savaş ilan etti."
+      }
+    ]
+  },
+  {
+    "id": "w6662",
+    "hanzi": "宣称",
+    "pinyin": "xuānchēng",
+    "meaning": "iddia etmek, öne sürmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他宣称自己是无辜的。",
+        "pinyin": "Tā xuānchēng zìjǐ shì wúgū de.",
+        "en": "O kendisinin masum olduğunu iddia etti."
+      },
+      {
+        "zh": "公司宣称产品完全安全。",
+        "pinyin": "Gōngsī xuānchēng chǎnpǐn wánquán ānquán.",
+        "en": "Şirket ürünün tamamen güvenli olduğunu iddia etti."
+      }
+    ]
+  },
+  {
+    "id": "w6663",
+    "hanzi": "宣告",
+    "pinyin": "xuāngào",
+    "meaning": "ilan etmek, açıklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "国家宣告独立。",
+        "pinyin": "Guójiā xuāngào dúlì.",
+        "en": "Ülke bağımsızlığını ilan etti."
+      },
+      {
+        "zh": "婚礼上他们宣告了结婚的消息。",
+        "pinyin": "Hūnlǐ shàng tāmen xuāngàole jiéhūn de xiāoxi.",
+        "en": "Düğünde evlilik haberini duyurdular."
+      }
+    ]
+  },
+  {
+    "id": "w6664",
+    "hanzi": "宣誓",
+    "pinyin": "xuānshì",
+    "meaning": "yemin etmek, ant içmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "新总统宣誓就职。",
+        "pinyin": "Xīn zǒngtǒng xuānshì jiùzhí.",
+        "en": "Yeni başkan görevine yemin ederek başladı."
+      },
+      {
+        "zh": "士兵们向国旗宣誓。",
+        "pinyin": "Shìbīngmen xiàng guóqí xuānshì.",
+        "en": "Askerler bayrağa yemin etti."
+      }
+    ]
+  },
+  {
+    "id": "w6665",
+    "hanzi": "宣言",
+    "pinyin": "xuānyán",
+    "meaning": "bildiri, deklarasyon",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他们发表了一份联合宣言。",
+        "pinyin": "Tāmen fābiǎole yī fèn liánhé xuānyán.",
+        "en": "Onlar ortak bir bildiri yayınladı."
+      },
+      {
+        "zh": "这份宣言表达了他们的立场。",
+        "pinyin": "Zhè fèn xuānyán biǎodále tāmen de lìchǎng.",
+        "en": "Bu bildiri onların duruşunu ifade ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w6666",
+    "hanzi": "宣扬",
+    "pinyin": "xuānyáng",
+    "meaning": "yaymak, propaganda yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他到处宣扬自己的成绩。",
+        "pinyin": "Tā dàochù xuānyáng zìjǐ de chéngjì.",
+        "en": "O her yerde kendi başarılarını duyuruyor."
+      },
+      {
+        "zh": "这部电影宣扬了正能量。",
+        "pinyin": "Zhè bù diànyǐng xuānyángle zhèng néngliàng.",
+        "en": "Bu film pozitif enerjiyi yaydı."
+      }
+    ]
+  },
+  {
+    "id": "w6667",
+    "hanzi": "喧哗",
+    "pinyin": "xuānhuá",
+    "meaning": "gürültü yapmak, yüksek sesle konuşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "请不要在图书馆喧哗。",
+        "pinyin": "Qǐng bùyào zài túshūguǎn xuānhuá.",
+        "en": "Lütfen kütüphanede gürültü yapmayın."
+      },
+      {
+        "zh": "教室里一片喧哗。",
+        "pinyin": "Jiàoshì lǐ yī piàn xuānhuá.",
+        "en": "Sınıf tamamen gürültülü."
+      }
+    ]
+  },
+  {
+    "id": "w6668",
+    "hanzi": "悬崖",
+    "pinyin": "xuányá",
+    "meaning": "uçurum, yalçın kayalık",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他站在悬崖边上向下望。",
+        "pinyin": "Tā zhàn zài xuányá biānshàng xiàng xià wàng.",
+        "en": "O uçurumun kenarında durup aşağı bakıyor."
+      },
+      {
+        "zh": "这座悬崖十分陡峭。",
+        "pinyin": "Zhè zuò xuányá shífēn dǒuqiào.",
+        "en": "Bu uçurum son derece dik."
+      }
+    ]
+  },
+  {
+    "id": "w6669",
+    "hanzi": "选拔",
+    "pinyin": "xuǎnbá",
+    "meaning": "en iyileri seçmek, elemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "学校选拔了几名优秀学生参加比赛。",
+        "pinyin": "Xuéxiào xuǎnbále jǐ míng yōuxiù xuésheng cānjiā bǐsài.",
+        "en": "Okul yarışmaya katılmak için birkaç başarılı öğrenci seçti."
+      },
+      {
+        "zh": "他通过层层选拔进入了国家队。",
+        "pinyin": "Tā tōngguò céngcéng xuǎnbá jìnrùle guójiāduì.",
+        "en": "O aşama aşama elemeleri geçerek milli takıma girdi."
+      }
+    ]
+  },
+  {
+    "id": "w6670",
+    "hanzi": "选购",
+    "pinyin": "xuǎngòu",
+    "meaning": "seçerek satın almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "她在商场里精心选购礼物。",
+        "pinyin": "Tā zài shāngchǎng lǐ jīngxīn xuǎngòu lǐwù.",
+        "en": "O AVM'de özenle hediye seçip satın alıyor."
+      },
+      {
+        "zh": "他为新家选购了家具。",
+        "pinyin": "Tā wèi xīn jiā xuǎngòule jiājù.",
+        "en": "O yeni evi için mobilya seçip satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6671",
+    "hanzi": "选票",
+    "pinyin": "xuǎnpiào",
+    "meaning": "oy pusulası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "请把选票投入箱子里。",
+        "pinyin": "Qǐng bǎ xuǎnpiào tóurù xiāngzi lǐ.",
+        "en": "Lütfen oy pusulasını kutuya at."
+      },
+      {
+        "zh": "他赢得了大多数选票。",
+        "pinyin": "Tā yíngdéle dàduōshù xuǎnpiào.",
+        "en": "O büyük çoğunluğun oyunu kazandı."
+      },
+      {
+        "zh": "选票正在统计中。",
+        "pinyin": "Xuǎnpiào zhèngzài tǒngjì zhōng.",
+        "en": "Oylar sayılmaktadır."
+      },
+      {
+        "zh": "每人只能投一张选票。",
+        "pinyin": "Měi rén zhǐ néng tóu yī zhāng xuǎnpiào.",
+        "en": "Her kişi sadece bir oy pusulası kullanabilir."
+      },
+      {
+        "zh": "他仔细填写了选票。",
+        "pinyin": "Tā zǐxì tiánxiěle xuǎnpiào.",
+        "en": "O dikkatlice oy pusulasını doldurdu."
+      }
+    ]
+  },
+  {
+    "id": "w6672",
+    "hanzi": "选手",
+    "pinyin": "xuǎnshǒu",
+    "meaning": "yarışmacı, sporcu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "这位选手表现出色。",
+        "pinyin": "Zhè wèi xuǎnshǒu biǎoxiàn chūsè.",
+        "en": "Bu sporcu mükemmel bir performans sergiledi."
+      },
+      {
+        "zh": "所有选手都已经准备就绪。",
+        "pinyin": "Suǒyǒu xuǎnshǒu dōu yǐjīng zhǔnbèi jiùxù.",
+        "en": "Tüm yarışmacılar hazır durumda."
+      },
+      {
+        "zh": "她是这次比赛的冠军选手。",
+        "pinyin": "Tā shì zhè cì bǐsài de guànjūn xuǎnshǒu.",
+        "en": "O bu yarışmanın şampiyon sporcusu."
+      },
+      {
+        "zh": "选手们互相祝福加油。",
+        "pinyin": "Xuǎnshǒumen hùxiāng zhùfú jiāyóu.",
+        "en": "Yarışmacılar birbirlerine iyi dileklerde bulunuyor."
+      },
+      {
+        "zh": "这位选手来自不同的国家。",
+        "pinyin": "Zhè wèi xuǎnshǒu láizì bùtóng de guójiā.",
+        "en": "Bu yarışmacı farklı bir ülkeden geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w6673",
+    "hanzi": "学费",
+    "pinyin": "xuéfèi",
+    "meaning": "okul ücreti, öğrenim harcı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "大学的学费很贵。",
+        "pinyin": "Dàxué de xuéfèi hěn guì.",
+        "en": "Üniversitenin okul ücreti çok pahalı."
+      },
+      {
+        "zh": "他靠打工赚学费。",
+        "pinyin": "Tā kào dǎgōng zhuàn xuéfèi.",
+        "en": "O okul ücretini part-time çalışarak kazanıyor."
+      },
+      {
+        "zh": "学费需要在开学前交齐。",
+        "pinyin": "Xuéfèi xūyào zài kāixué qián jiāo qí.",
+        "en": "Okul ücretinin okul açılmadan önce tamamen ödenmesi gerekiyor."
+      },
+      {
+        "zh": "学校提供了学费减免政策。",
+        "pinyin": "Xuéxiào tígōngle xuéfèi jiǎnmiǎn zhèngcè.",
+        "en": "Okul harç indirimi politikası sunuyor."
+      },
+      {
+        "zh": "父母为他支付了学费。",
+        "pinyin": "Fùmǔ wèi tā zhīfùle xuéfèi.",
+        "en": "Ebeveynleri onun okul ücretini ödedi."
+      }
+    ]
+  },
+  {
+    "id": "w6674",
+    "hanzi": "学会",
+    "pinyin": "xuéhuì",
+    "meaning": "öğrenmek, kavramak",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他学会了游泳。",
+        "pinyin": "Tā xuéhuìle yóuyǒng.",
+        "en": "O yüzmeyi öğrendi."
+      },
+      {
+        "zh": "我们要学会独立思考。",
+        "pinyin": "Wǒmen yào xuéhuì dúlì sīkǎo.",
+        "en": "Bağımsız düşünmeyi öğrenmemiz gerekiyor."
+      },
+      {
+        "zh": "她终于学会了开车。",
+        "pinyin": "Tā zhōngyú xuéhuìle kāichē.",
+        "en": "O sonunda araba kullanmayı öğrendi."
+      },
+      {
+        "zh": "孩子很快就学会了这个游戏。",
+        "pinyin": "Háizi hěn kuài jiù xuéhuìle zhège yóuxì.",
+        "en": "Çocuk bu oyunu çok çabuk öğrendi."
+      },
+      {
+        "zh": "我们应该学会尊重他人。",
+        "pinyin": "Wǒmen yīnggāi xuéhuì zūnzhòng tārén.",
+        "en": "Başkalarına saygı göstermeyi öğrenmeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w6675",
+    "hanzi": "学历",
+    "pinyin": "xuélì",
+    "meaning": "eğitim geçmişi, diploma seviyesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他的学历是硕士。",
+        "pinyin": "Tā de xuélì shì shuòshì.",
+        "en": "Onun eğitim seviyesi yüksek lisans."
+      },
+      {
+        "zh": "这份工作要求本科以上学历。",
+        "pinyin": "Zhè fèn gōngzuò yāoqiú běnkē yǐshàng xuélì.",
+        "en": "Bu iş lisans üstü eğitim seviyesi gerektiriyor."
+      },
+      {
+        "zh": "他的学历比较低。",
+        "pinyin": "Tā de xuélì bǐjiào dī.",
+        "en": "Onun eğitim seviyesi oldukça düşük."
+      },
+      {
+        "zh": "简历上要写清楚学历信息。",
+        "pinyin": "Jiǎnlì shàng yào xiě qīngchu xuélì xìnxī.",
+        "en": "Özgeçmişte eğitim bilgilerinin açıkça yazılması gerekir."
+      },
+      {
+        "zh": "很多公司看重求职者的学历。",
+        "pinyin": "Hěn duō gōngsī kànzhòng qiúzhízhě de xuélì.",
+        "en": "Birçok şirket iş başvurusunda bulunanların eğitim seviyesine önem verir."
+      }
+    ]
+  },
+  {
+    "id": "w6676",
+    "hanzi": "学年",
+    "pinyin": "xuénián",
+    "meaning": "ders yılı, öğretim yılı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "新学年即将开始。",
+        "pinyin": "Xīn xuénián jíjiāng kāishǐ.",
+        "en": "Yeni ders yılı yakında başlayacak."
+      },
+      {
+        "zh": "这门课程贯穿整个学年。",
+        "pinyin": "Zhè mén kèchéng guànchuān zhěnggè xuénián.",
+        "en": "Bu ders tüm öğretim yılı boyunca devam ediyor."
+      },
+      {
+        "zh": "学年结束时学生要参加考试。",
+        "pinyin": "Xuénián jiéshù shí xuésheng yào cānjiā kǎoshì.",
+        "en": "Ders yılı sona erdiğinde öğrenciler sınava girmelidir."
+      },
+      {
+        "zh": "这是他大学的第一个学年。",
+        "pinyin": "Zhè shì tā dàxué de dìyī gè xuénián.",
+        "en": "Bu onun üniversitedeki ilk öğretim yılı."
+      },
+      {
+        "zh": "学年安排已经公布。",
+        "pinyin": "Xuénián ānpái yǐjīng gōngbù.",
+        "en": "Ders yılı planı zaten duyuruldu."
+      }
+    ]
+  },
+  {
+    "id": "w6677",
+    "hanzi": "学士",
+    "pinyin": "xuéshì",
+    "meaning": "lisans mezunu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他获得了经济学学士学位。",
+        "pinyin": "Tā huòdéle jīngjìxué xuéshì xuéwèi.",
+        "en": "O ekonomi alanında lisans derecesi aldı."
+      },
+      {
+        "zh": "她是一名文学学士。",
+        "pinyin": "Tā shì yī míng wénxué xuéshì.",
+        "en": "O bir edebiyat lisans mezunu."
+      }
+    ]
+  },
+  {
+    "id": "w6678",
+    "hanzi": "学说",
+    "pinyin": "xuéshuō",
+    "meaning": "teori, doktrin",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "进化学说改变了人类对生命的理解。",
+        "pinyin": "Jìnhuà xuéshuō gǎibiànle rénlèi duì shēngmìng de lǐjiě.",
+        "en": "Evrim teorisi insanlığın yaşam anlayışını değiştirdi."
+      },
+      {
+        "zh": "他提出了一种新的经济学说。",
+        "pinyin": "Tā tíchūle yī zhǒng xīn de jīngjì xuéshuō.",
+        "en": "O yeni bir ekonomi teorisi ortaya attı."
+      }
+    ]
+  },
+  {
+    "id": "w6679",
+    "hanzi": "学位",
+    "pinyin": "xuéwèi",
+    "meaning": "akademik derece",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他正在攻读博士学位。",
+        "pinyin": "Tā zhèngzài gōngdú bóshì xuéwèi.",
+        "en": "O doktora derecesi üzerinde çalışıyor."
+      },
+      {
+        "zh": "她获得了硕士学位。",
+        "pinyin": "Tā huòdéle shuòshì xuéwèi.",
+        "en": "O yüksek lisans derecesi aldı."
+      },
+      {
+        "zh": "完成论文才能拿到学位。",
+        "pinyin": "Wánchéng lùnwén cáinéng nádào xuéwèi.",
+        "en": "Tezi tamamladıktan sonra derece alınabilir."
+      },
+      {
+        "zh": "这所大学颁发多种学位。",
+        "pinyin": "Zhè suǒ dàxué bānfā duō zhǒng xuéwèi.",
+        "en": "Bu üniversite birçok akademik derece veriyor."
+      },
+      {
+        "zh": "他花了五年才拿到这个学位。",
+        "pinyin": "Tā huāle wǔ nián cái nádào zhège xuéwèi.",
+        "en": "Bu dereceyi almak için beş yıl harcadı."
+      }
+    ]
+  },
+  {
+    "id": "w6680",
+    "hanzi": "学院",
+    "pinyin": "xuéyuàn",
+    "meaning": "yüksekokul, enstitü",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他就读于医学院。",
+        "pinyin": "Tā jiùdú yú yīxuéyuàn.",
+        "en": "O tıp fakültesinde okuyor."
+      },
+      {
+        "zh": "这所艺术学院很有名。",
+        "pinyin": "Zhè suǒ yìshù xuéyuàn hěn yǒumíng.",
+        "en": "Bu güzel sanatlar akademisi çok ünlü."
+      },
+      {
+        "zh": "她在师范学院学习教育学。",
+        "pinyin": "Tā zài shīfàn xuéyuàn xuéxí jiàoyùxué.",
+        "en": "O öğretmen okulu enstitüsünde eğitim bilimi okuyor."
+      },
+      {
+        "zh": "他毕业于工程学院。",
+        "pinyin": "Tā bìyè yú gōngchéng xuéyuàn.",
+        "en": "O mühendislik fakültesinden mezun oldu."
+      },
+      {
+        "zh": "学院组织了一场学术讲座。",
+        "pinyin": "Xuéyuàn zǔzhīle yī chǎng xuéshù jiǎngzuò.",
+        "en": "Enstitü bir akademik konferans düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "w6681",
+    "hanzi": "学者",
+    "pinyin": "xuézhě",
+    "meaning": "bilgin, akademisyen",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他是一位著名的历史学者。",
+        "pinyin": "Tā shì yī wèi zhùmíng de lìshǐ xuézhě.",
+        "en": "O ünlü bir tarih akademisyeni."
+      },
+      {
+        "zh": "许多学者参与了这项研究。",
+        "pinyin": "Xǔduō xuézhě cānyùle zhè xiàng yánjiū.",
+        "en": "Birçok akademisyen bu araştırmaya katıldı."
+      },
+      {
+        "zh": "这位学者发表了多篇论文。",
+        "pinyin": "Zhè wèi xuézhě fābiǎole duō piān lùnwén.",
+        "en": "Bu akademisyen birçok makale yayınladı."
+      },
+      {
+        "zh": "学者们对此问题看法不一。",
+        "pinyin": "Xuézhěmen duì cǐ wèntí kànfǎ bùyī.",
+        "en": "Akademisyenlerin bu konudaki görüşleri farklı."
+      },
+      {
+        "zh": "他一直致力于成为一名严谨的学者。",
+        "pinyin": "Tā yīzhí zhìlì yú chéngwéi yī míng yánjǐn de xuézhě.",
+        "en": "O her zaman titiz bir akademisyen olmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6682",
+    "hanzi": "雪白",
+    "pinyin": "xuěbái",
+    "meaning": "kar beyazı, kar gibi beyaz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "她穿着一件雪白的连衣裙。",
+        "pinyin": "Tā chuānzhe yī jiàn xuěbái de liányīqún.",
+        "en": "O kar beyazı bir elbise giymiş."
+      },
+      {
+        "zh": "他的牙齿雪白整齐。",
+        "pinyin": "Tā de yáchǐ xuěbái zhěngqí.",
+        "en": "Onun dişleri bembeyaz ve düzgün."
+      },
+      {
+        "zh": "山顶被雪白的积雪覆盖。",
+        "pinyin": "Shāndǐng bèi xuěbái de jīxuě fùgài.",
+        "en": "Dağın zirvesi kar beyazı biriktirmiş karla kaplı."
+      },
+      {
+        "zh": "雪白的墙壁显得房间更明亮。",
+        "pinyin": "Xuěbái de qiángbì xiǎnde fángjiān gèng míngliàng.",
+        "en": "Kar beyazı duvarlar odayı daha aydınlık gösteriyor."
+      },
+      {
+        "zh": "她的皮肤雪白细腻。",
+        "pinyin": "Tā de pífū xuěbái xìnì.",
+        "en": "Onun cildi bembeyaz ve pürüzsüz."
+      }
+    ]
   }
 ]

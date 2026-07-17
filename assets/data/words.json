@@ -160411,5 +160411,617 @@
         "en": "Bu tedavi sürecinin etkisi belirgindir."
       }
     ]
+  },
+  {
+    "id": "w4653",
+    "hanzi": "疗法",
+    "pinyin": "liáofǎ",
+    "meaning": "Tedavi yöntemi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生推荐了一种新的疗法。",
+        "pinyin": "Yīshēng tuījiàn le yì zhǒng xīn de liáofǎ.",
+        "en": "Doktor yeni bir tedavi yöntemi önerdi."
+      },
+      {
+        "zh": "这种疗法效果明显。",
+        "pinyin": "Zhè zhǒng liáofǎ xiàoguǒ míngxiǎn.",
+        "en": "Bu tedavi yönteminin etkisi belirgin."
+      },
+      {
+        "zh": "他尝试了各种疗法都没有效果。",
+        "pinyin": "Tā chángshì le gèzhǒng liáofǎ dōu méiyǒu xiàoguǒ.",
+        "en": "Çeşitli tedavi yöntemleri denedi ama hiçbiri işe yaramadı."
+      },
+      {
+        "zh": "针灸是一种传统疗法。",
+        "pinyin": "Zhēnjiǔ shì yì zhǒng chuántǒng liáofǎ.",
+        "en": "Akupunktur geleneksel bir tedavi yöntemidir."
+      },
+      {
+        "zh": "这种疗法需要长期坚持。",
+        "pinyin": "Zhè zhǒng liáofǎ xūyào chángqī jiānchí.",
+        "en": "Bu tedavi yöntemi uzun süreli devam gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w4654",
+    "hanzi": "疗效",
+    "pinyin": "liáoxiào",
+    "meaning": "Tedavi etkisi, tedavi sonucu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这种药的疗效很好。",
+        "pinyin": "Zhè zhǒng yào de liáoxiào hěn hǎo.",
+        "en": "Bu ilacın tedavi etkisi çok iyi."
+      },
+      {
+        "zh": "医生正在观察治疗的疗效。",
+        "pinyin": "Yīshēng zhèngzài guānchá zhìliáo de liáoxiào.",
+        "en": "Doktor tedavinin etkisini gözlemliyor."
+      },
+      {
+        "zh": "长期服用才能看到疗效。",
+        "pinyin": "Chángqī fúyòng cáinéng kàndào liáoxiào.",
+        "en": "Ancak uzun süre kullanınca tedavi etkisi görülebilir."
+      },
+      {
+        "zh": "这种疗法的疗效因人而异。",
+        "pinyin": "Zhè zhǒng liáofǎ de liáoxiào yīn rén ér yì.",
+        "en": "Bu tedavi yönteminin etkisi kişiden kişiye değişir."
+      },
+      {
+        "zh": "他对这种疗效感到满意。",
+        "pinyin": "Tā duì zhè zhǒng liáoxiào gǎndào mǎnyì.",
+        "en": "Bu tedavi etkisinden memnun kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w4655",
+    "hanzi": "疗养",
+    "pinyin": "liáoyǎng",
+    "meaning": "İyileşmek, sağlığına kavuşmak, dinlenerek tedavi olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他去海边疗养了一个月。",
+        "pinyin": "Tā qù hǎibiān liáoyǎng le yí gè yuè.",
+        "en": "Bir ay deniz kenarında dinlenerek iyileşti."
+      },
+      {
+        "zh": "这家疗养院环境优美。",
+        "pinyin": "Zhè jiā liáoyǎngyuàn huánjìng yōuměi.",
+        "en": "Bu sağlık merkezinin çevresi çok güzel."
+      },
+      {
+        "zh": "他因病去山区疗养。",
+        "pinyin": "Tā yīn bìng qù shānqū liáoyǎng.",
+        "en": "Hastalığı nedeniyle dağlık bölgeye dinlenmeye gitti."
+      },
+      {
+        "zh": "适当的疗养有助于康复。",
+        "pinyin": "Shìdàng de liáoyǎng yǒuzhùyú kāngfù.",
+        "en": "Uygun dinlenme iyileşmeye yardımcı olur."
+      },
+      {
+        "zh": "他在疗养期间学会了画画。",
+        "pinyin": "Tā zài liáoyǎng qījiān xuéhuì le huàhuà.",
+        "en": "İyileşme döneminde resim yapmayı öğrendi."
+      }
+    ]
+  },
+  {
+    "id": "w4656",
+    "hanzi": "辽阔",
+    "pinyin": "liáokuò",
+    "meaning": "Çok geniş, engin",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "草原十分辽阔。",
+        "pinyin": "Cǎoyuán shífēn liáokuò.",
+        "en": "Bozkır son derece geniştir."
+      },
+      {
+        "zh": "辽阔的大海一望无际。",
+        "pinyin": "Liáokuò de dàhǎi yíwàng-wújì.",
+        "en": "Engin deniz göz alabildiğine uzanıyor."
+      },
+      {
+        "zh": "他站在山顶,眺望辽阔的原野。",
+        "pinyin": "Tā zhàn zài shāndǐng, tiàowàng liáokuò de yuányě.",
+        "en": "Dağın tepesinden geniş kırlara bakıyordu."
+      },
+      {
+        "zh": "我们的国家幅员辽阔。",
+        "pinyin": "Wǒmen de guójiā fúyuán liáokuò.",
+        "en": "Ülkemiz büyük bir alana yayılmıştır."
+      },
+      {
+        "zh": "辽阔的天空万里无云。",
+        "pinyin": "Liáokuò de tiānkōng wànlǐ wúyún.",
+        "en": "Geniş gökyüzü bulutsuz."
+      }
+    ]
+  },
+  {
+    "id": "w4657",
+    "hanzi": "聊",
+    "pinyin": "liáo",
+    "meaning": "Sohbet etmek, muhabbet etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们聊了很久。",
+        "pinyin": "Wǒmen liáo le hěn jiǔ.",
+        "en": "Uzun süre sohbet ettik."
+      },
+      {
+        "zh": "有空一起聊聊吧。",
+        "pinyin": "Yǒu kòng yìqǐ liáoliao ba.",
+        "en": "Vaktin olduğunda birlikte sohbet edelim."
+      },
+      {
+        "zh": "他喜欢和朋友聊各种话题。",
+        "pinyin": "Tā xǐhuan hé péngyou liáo gèzhǒng huàtí.",
+        "en": "Arkadaşlarıyla çeşitli konularda sohbet etmeyi sever."
+      },
+      {
+        "zh": "我们在网上聊了两个小时。",
+        "pinyin": "Wǒmen zài wǎngshàng liáo le liǎng gè xiǎoshí.",
+        "en": "İnternette iki saat sohbet ettik."
+      },
+      {
+        "zh": "聊起这个话题,他停不下来。",
+        "pinyin": "Liáoqǐ zhège huàtí, tā tíngbuxiàlai.",
+        "en": "Bu konu hakkında konuşmaya başlayınca durdurulamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4658",
+    "hanzi": "聊天儿",
+    "pinyin": "liáotiānr",
+    "meaning": "Sohbet etmek, muhabbet etmek",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们经常在一起聊天儿。",
+        "pinyin": "Wǒmen jīngcháng zài yìqǐ liáotiānr.",
+        "en": "Sık sık birlikte sohbet ederiz."
+      },
+      {
+        "zh": "她喜欢和邻居聊天儿。",
+        "pinyin": "Tā xǐhuan hé línjū liáotiānr.",
+        "en": "Komşularıyla sohbet etmeyi sever."
+      },
+      {
+        "zh": "他们在公园里聊天儿晒太阳。",
+        "pinyin": "Tāmen zài gōngyuán lǐ liáotiānr shài tàiyáng.",
+        "en": "Parkta sohbet edip güneşleniyorlardı."
+      },
+      {
+        "zh": "我们用微信聊天儿。",
+        "pinyin": "Wǒmen yòng Wēixìn liáotiānr.",
+        "en": "WeChat üzerinden sohbet ediyoruz."
+      },
+      {
+        "zh": "他跟朋友聊天儿聊到很晚。",
+        "pinyin": "Tā gēn péngyou liáotiānr liáo dào hěn wǎn.",
+        "en": "Arkadaşıyla geç saatlere kadar sohbet etti."
+      }
+    ]
+  },
+  {
+    "id": "w4659",
+    "hanzi": "嘹亮",
+    "pinyin": "liáoliàng",
+    "meaning": "Yüksek ve net sesli, gür",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的歌声嘹亮动听。",
+        "pinyin": "Tā de gēshēng liáoliàng dòngtīng.",
+        "en": "Şarkı sesi gür ve hoş."
+      },
+      {
+        "zh": "军号声嘹亮地响起。",
+        "pinyin": "Jūnhàoshēng liáoliàng de xiǎngqǐ.",
+        "en": "Askeri boru sesi gürce çaldı."
+      },
+      {
+        "zh": "孩子们用嘹亮的歌声迎接客人。",
+        "pinyin": "Háizimen yòng liáoliàng de gēshēng yíngjiē kèrén.",
+        "en": "Çocuklar gür sesli şarkılarla misafirleri karşıladı."
+      },
+      {
+        "zh": "她的嗓音清脆嘹亮。",
+        "pinyin": "Tā de sǎngyīn qīngcuì liáoliàng.",
+        "en": "Sesi berrak ve gür."
+      },
+      {
+        "zh": "嘹亮的号角声传遍了整个山谷。",
+        "pinyin": "Liáoliàng de hàojiǎoshēng chuánbiàn le zhěnggè shāngǔ.",
+        "en": "Gür boru sesi tüm vadiye yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4660",
+    "hanzi": "了结",
+    "pinyin": "liǎojié",
+    "meaning": "Bitirmek, sonuçlandırmak, halletmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这件事终于了结了。",
+        "pinyin": "Zhè jiàn shì zhōngyú liǎojié le.",
+        "en": "Bu iş sonunda halloldu."
+      },
+      {
+        "zh": "他想尽快了结这桩官司。",
+        "pinyin": "Tā xiǎng jǐnkuài liǎojié zhè zhuāng guānsi.",
+        "en": "Bu davayı bir an önce sonuçlandırmak istiyor."
+      },
+      {
+        "zh": "双方经过协商了结了纠纷。",
+        "pinyin": "Shuāngfāng jīngguò xiéshāng liǎojié le jiūfēn.",
+        "en": "İki taraf müzakere ederek anlaşmazlığı çözdü."
+      },
+      {
+        "zh": "他打算尽快了结这段感情。",
+        "pinyin": "Tā dǎsuàn jǐnkuài liǎojié zhè duàn gǎnqíng.",
+        "en": "Bu ilişkiyi bir an önce sonlandırmayı planlıyor."
+      },
+      {
+        "zh": "这笔债务已经了结了。",
+        "pinyin": "Zhè bǐ zhàiwù yǐjīng liǎojié le.",
+        "en": "Bu borç zaten kapatıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4661",
+    "hanzi": "料",
+    "pinyin": "liào",
+    "meaning": "Tahmin etmek, önceden görmek; malzeme",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他没料到事情会这样发展。",
+        "pinyin": "Tā méi liàodào shìqing huì zhèyàng fāzhǎn.",
+        "en": "İşin böyle gelişeceğini hiç tahmin etmemişti."
+      },
+      {
+        "zh": "这件事出乎意料。",
+        "pinyin": "Zhè jiàn shì chūhū-yìliào.",
+        "en": "Bu olay beklenmedik bir şekilde gelişti."
+      },
+      {
+        "zh": "我料他今天不会来了。",
+        "pinyin": "Wǒ liào tā jīntiān bú huì lái le.",
+        "en": "Bugün gelmeyeceğini tahmin ediyorum."
+      },
+      {
+        "zh": "这块布料很结实。",
+        "pinyin": "Zhè kuài bùliào hěn jiēshi.",
+        "en": "Bu kumaş çok sağlam."
+      },
+      {
+        "zh": "他准确料到了比赛的结果。",
+        "pinyin": "Tā zhǔnquè liàodào le bǐsài de jiéguǒ.",
+        "en": "Maçın sonucunu doğru bir şekilde tahmin etti."
+      }
+    ]
+  },
+  {
+    "id": "w4662",
+    "hanzi": "料理",
+    "pinyin": "liàolǐ",
+    "meaning": "Yönetmek, düzenlemek, halletmek; (Japon) mutfak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "她一个人料理家务。",
+        "pinyin": "Tā yí gè rén liàolǐ jiāwù.",
+        "en": "Ev işlerini tek başına düzenliyor."
+      },
+      {
+        "zh": "他料理了父亲的丧事。",
+        "pinyin": "Tā liàolǐ le fùqīn de sāngshì.",
+        "en": "Babasının cenaze işlerini düzenledi."
+      },
+      {
+        "zh": "这家日本料理店很有名。",
+        "pinyin": "Zhè jiā Rìběn liàolǐdiàn hěn yǒumíng.",
+        "en": "Bu Japon mutfağı restoranı çok ünlü."
+      },
+      {
+        "zh": "她能干地料理生意上的事务。",
+        "pinyin": "Tā nénggàn de liàolǐ shēngyi shàng de shìwù.",
+        "en": "İş meselelerini yeteneklice yönetiyor."
+      },
+      {
+        "zh": "他忙着料理各种琐事。",
+        "pinyin": "Tā mángzhe liàolǐ gèzhǒng suǒshì.",
+        "en": "Çeşitli önemsiz işlerle uğraşmakla meşgul."
+      }
+    ]
+  },
+  {
+    "id": "w4663",
+    "hanzi": "料子",
+    "pinyin": "liàozi",
+    "meaning": "Kumaş, malzeme",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这件衣服的料子很好。",
+        "pinyin": "Zhè jiàn yīfu de liàozi hěn hǎo.",
+        "en": "Bu kıyafetin kumaşı çok iyi."
+      },
+      {
+        "zh": "她挑选了一块漂亮的料子做旗袍。",
+        "pinyin": "Tā tiāoxuǎn le yí kuài piàoliang de liàozi zuò qípáo.",
+        "en": "Qipao yapmak için güzel bir kumaş seçti."
+      },
+      {
+        "zh": "这种料子摸起来很柔软。",
+        "pinyin": "Zhè zhǒng liàozi mō qǐlai hěn róuruǎn.",
+        "en": "Bu tür kumaş dokunulduğunda çok yumuşak."
+      },
+      {
+        "zh": "裁缝根据料子做出了这套西装。",
+        "pinyin": "Cáiféng gēnjù liàozi zuòchū le zhè tào xīzhuāng.",
+        "en": "Terzi kumaşa göre bu takım elbiseyi hazırladı."
+      },
+      {
+        "zh": "这块料子适合做冬装。",
+        "pinyin": "Zhè kuài liàozi shìhé zuò dōngzhuāng.",
+        "en": "Bu kumaş kış kıyafeti yapmak için uygun."
+      }
+    ]
+  },
+  {
+    "id": "w4664",
+    "hanzi": "瞭望",
+    "pinyin": "liàowàng",
+    "meaning": "Gözetlemek, izlemek (yüksek bir yerden)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "士兵在瞭望塔上放哨。",
+        "pinyin": "Shìbīng zài liàowàngtǎ shàng fàngshào.",
+        "en": "Asker gözetleme kulesinde nöbet tutuyor."
+      },
+      {
+        "zh": "他站在山顶瞭望远方。",
+        "pinyin": "Tā zhàn zài shāndǐng liàowàng yuǎnfāng.",
+        "en": "Dağın tepesinde durup uzakları gözlüyordu."
+      },
+      {
+        "zh": "水手在船头瞭望海面。",
+        "pinyin": "Shuǐshǒu zài chuántóu liàowàng hǎimiàn.",
+        "en": "Denizci geminin pruvasında deniz yüzeyini gözetliyor."
+      },
+      {
+        "zh": "从瞭望台可以看到整个城市。",
+        "pinyin": "Cóng liàowàngtái kěyǐ kàndào zhěnggè chéngshì.",
+        "en": "Gözetleme kulesinden tüm şehir görülebiliyor."
+      },
+      {
+        "zh": "消防员在高处瞭望火情。",
+        "pinyin": "Xiāofángyuán zài gāochù liàowàng huǒqíng.",
+        "en": "İtfaiyeci yüksek bir yerden yangının durumunu izliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4665",
+    "hanzi": "烈日",
+    "pinyin": "lièrì",
+    "meaning": "Kavurucu güneş, yakıcı güneş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "工人们在烈日下工作。",
+        "pinyin": "Gōngrénmen zài lièrì xià gōngzuò.",
+        "en": "İşçiler kavurucu güneş altında çalışıyor."
+      },
+      {
+        "zh": "烈日炎炎,大家都在找阴凉处。",
+        "pinyin": "Lièrì-yányán, dàjiā dōu zài zhǎo yīnliáng chù.",
+        "en": "Güneş yakıcı, herkes gölge yer arıyor."
+      },
+      {
+        "zh": "他顶着烈日走了很远的路。",
+        "pinyin": "Tā dǐngzhe lièrì zǒu le hěn yuǎn de lù.",
+        "en": "Yakıcı güneşe rağmen uzun bir yol yürüdü."
+      },
+      {
+        "zh": "烈日晒得柏油路都软了。",
+        "pinyin": "Lièrì shài de bǎiyóulù dōu ruǎn le.",
+        "en": "Kavurucu güneş asfalt yolu bile yumuşattı."
+      },
+      {
+        "zh": "农民在烈日下辛勤劳作。",
+        "pinyin": "Nóngmín zài lièrì xià xīnqín láozuò.",
+        "en": "Çiftçi kavurucu güneş altında çalışkanlıkla çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4666",
+    "hanzi": "烈士",
+    "pinyin": "lièshì",
+    "meaning": "Şehit",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "人们向烈士献花致敬。",
+        "pinyin": "Rénmen xiàng lièshì xiànhuā zhìjìng.",
+        "en": "İnsanlar şehitlere çiçek bırakarak saygı gösterdi."
+      },
+      {
+        "zh": "这座纪念碑是为了纪念烈士而建。",
+        "pinyin": "Zhè zuò jìniànbēi shì wèile jìniàn lièshì ér jiàn.",
+        "en": "Bu anıt şehitleri anmak için inşa edildi."
+      },
+      {
+        "zh": "他是一位革命烈士。",
+        "pinyin": "Tā shì yí wèi gémìng lièshì.",
+        "en": "O bir devrim şehididir."
+      },
+      {
+        "zh": "每年清明节人们都会祭拜烈士。",
+        "pinyin": "Měi nián Qīngmíngjié rénmen dōu huì jìbài lièshì.",
+        "en": "Her yıl Qingming Bayramı'nda insanlar şehitleri anmaya gider."
+      },
+      {
+        "zh": "烈士的英勇事迹永远被铭记。",
+        "pinyin": "Lièshì de yīngyǒng shìjì yǒngyuǎn bèi míngjì.",
+        "en": "Şehitlerin kahramanlık öyküleri sonsuza dek hatırlanacak."
+      }
+    ]
+  },
+  {
+    "id": "w4667",
+    "hanzi": "劣等",
+    "pinyin": "lièděng",
+    "meaning": "Düşük kalite, adi",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一批劣等产品。",
+        "pinyin": "Zhè shì yì pī lièděng chǎnpǐn.",
+        "en": "Bu düşük kaliteli bir ürün partisi."
+      },
+      {
+        "zh": "他因质量问题被评为劣等。",
+        "pinyin": "Tā yīn zhìliàng wèntí bèi píngwéi lièděng.",
+        "en": "Kalite sorunları nedeniyle düşük kaliteli olarak değerlendirildi."
+      },
+      {
+        "zh": "劣等材料容易造成安全隐患。",
+        "pinyin": "Lièděng cáiliào róngyì zàochéng ānquán yǐnhuàn.",
+        "en": "Düşük kaliteli malzeme kolayca güvenlik sorunlarına yol açabilir."
+      },
+      {
+        "zh": "商家用劣等原料以次充好。",
+        "pinyin": "Shāngjiā yòng lièděng yuánliào yǐcì-chōnghǎo.",
+        "en": "Satıcı düşük kaliteli hammadde kullanarak kaliteli diye satıyor."
+      },
+      {
+        "zh": "他拒绝购买劣等商品。",
+        "pinyin": "Tā jùjué gòumǎi lièděng shāngpǐn.",
+        "en": "Düşük kaliteli ürün satın almayı reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w4668",
+    "hanzi": "劣势",
+    "pinyin": "lièshì",
+    "meaning": "Dezavantajlı durum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "球队目前处于劣势。",
+        "pinyin": "Qiúduì mùqián chǔyú lièshì.",
+        "en": "Takım şu anda dezavantajlı durumda."
+      },
+      {
+        "zh": "他努力扭转了劣势局面。",
+        "pinyin": "Tā nǔlì niǔzhuǎn le lièshì júmiàn.",
+        "en": "Dezavantajlı durumu tersine çevirmek için çabaladı."
+      },
+      {
+        "zh": "公司在市场竞争中处于劣势。",
+        "pinyin": "Gōngsī zài shìchǎng jìngzhēng zhōng chǔyú lièshì.",
+        "en": "Şirket piyasa rekabetinde dezavantajlı durumda."
+      },
+      {
+        "zh": "这个国家在资源上存在劣势。",
+        "pinyin": "Zhège guójiā zài zīyuán shàng cúnzài lièshì.",
+        "en": "Bu ülkenin kaynaklar açısından dezavantajı var."
+      },
+      {
+        "zh": "尽管处于劣势,他们仍不放弃。",
+        "pinyin": "Jǐnguǎn chǔyú lièshì, tāmen réng bú fàngqì.",
+        "en": "Dezavantajlı olsalar da yine de pes etmediler."
+      }
+    ]
+  },
+  {
+    "id": "w4669",
+    "hanzi": "列",
+    "pinyin": "liè",
+    "meaning": "Sıra, dizi; sıraya girmek, dizmek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "学生们排成一列。",
+        "pinyin": "Xuéshengmen páichéng yí liè.",
+        "en": "Öğrenciler bir sıraya dizildi."
+      },
+      {
+        "zh": "这份文件被列为机密。",
+        "pinyin": "Zhè fèn wénjiàn bèi lièwéi jīmì.",
+        "en": "Bu belge gizli olarak sınıflandırıldı."
+      },
+      {
+        "zh": "请把要点一一列出来。",
+        "pinyin": "Qǐng bǎ yàodiǎn yīyī lièchūlai.",
+        "en": "Lütfen önemli noktaları tek tek listeleyin."
+      },
+      {
+        "zh": "他被列入了候选人名单。",
+        "pinyin": "Tā bèi lièrù le hòuxuǎnrén míngdān.",
+        "en": "Aday listesine dahil edildi."
+      },
+      {
+        "zh": "这列火车马上就要出发了。",
+        "pinyin": "Zhè liè huǒchē mǎshàng jiù yào chūfā le.",
+        "en": "Bu tren birazdan hareket edecek."
+      }
+    ]
   }
 ]

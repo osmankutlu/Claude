@@ -244459,5 +244459,848 @@
         "en": "Ölçüm sonucundaki değer beklenenin üzerinde çıktı."
       }
     ]
+  },
+  {
+    "id": "w7407",
+    "hanzi": "职权",
+    "pinyin": "zhíquán",
+    "meaning": "yetki, makam gücü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他滥用了职权。",
+        "pinyin": "Tā lànyòngle zhíquán.",
+        "en": "Yetkisini kötüye kullandı."
+      },
+      {
+        "zh": "这不属于我的职权范围。",
+        "pinyin": "Zhè bù shǔyú wǒ de zhíquán fànwéi.",
+        "en": "Bu benim yetki alanıma girmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7408",
+    "hanzi": "职务",
+    "pinyin": "zhíwù",
+    "meaning": "görev, vazife",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他升到了新的职务。",
+        "pinyin": "Tā shēngdàole xīn de zhíwù.",
+        "en": "Yeni bir göreve terfi etti."
+      },
+      {
+        "zh": "他辞去了现在的职务。",
+        "pinyin": "Tā cíqùle xiànzài de zhíwù.",
+        "en": "Şu anki görevinden istifa etti."
+      },
+      {
+        "zh": "她认真履行自己的职务。",
+        "pinyin": "Tā rènzhēn lǚxíng zìjǐ de zhíwù.",
+        "en": "Görevini ciddiyetle yerine getiriyor."
+      },
+      {
+        "zh": "这个职务责任重大。",
+        "pinyin": "Zhège zhíwù zérèn zhòngdà.",
+        "en": "Bu görevin sorumluluğu çok büyük."
+      },
+      {
+        "zh": "公司给他安排了新职务。",
+        "pinyin": "Gōngsī gěi tā ānpáile xīn zhíwù.",
+        "en": "Şirket ona yeni bir görev verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7409",
+    "hanzi": "职员",
+    "pinyin": "zhíyuán",
+    "meaning": "memur, ofis personeli",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是银行的职员。",
+        "pinyin": "Tā shì yínháng de zhíyuán.",
+        "en": "O bir bankada memur."
+      },
+      {
+        "zh": "公司有一百多名职员。",
+        "pinyin": "Gōngsī yǒu yìbǎi duō míng zhíyuán.",
+        "en": "Şirkette yüzden fazla personel var."
+      },
+      {
+        "zh": "职员们都很认真工作。",
+        "pinyin": "Zhíyuánmen dōu hěn rènzhēn gōngzuò.",
+        "en": "Personel çok ciddi çalışıyor."
+      },
+      {
+        "zh": "她是一名普通职员。",
+        "pinyin": "Tā shì yì míng pǔtōng zhíyuán.",
+        "en": "O sıradan bir memur."
+      },
+      {
+        "zh": "新入职员要参加培训。",
+        "pinyin": "Xīn rùzhí yuán yào cānjiā péixùn.",
+        "en": "Yeni personelin eğitime katılması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7410",
+    "hanzi": "职责",
+    "pinyin": "zhízé",
+    "meaning": "vazife, sorumluluk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "教育孩子是父母的职责。",
+        "pinyin": "Jiàoyù háizi shì fùmǔ de zhízé.",
+        "en": "Çocuk yetiştirmek ebeveynlerin vazifesidir."
+      },
+      {
+        "zh": "他尽到了自己的职责。",
+        "pinyin": "Tā jìndàole zìjǐ de zhízé.",
+        "en": "Kendi sorumluluğunu yerine getirdi."
+      },
+      {
+        "zh": "维护公共安全是警察的职责。",
+        "pinyin": "Wéihù gōnggòng ānquán shì jǐngchá de zhízé.",
+        "en": "Kamu güvenliğini korumak polisin görevidir."
+      },
+      {
+        "zh": "每个人都要明确自己的职责。",
+        "pinyin": "Měi gè rén dōu yào míngquè zìjǐ de zhízé.",
+        "en": "Herkes kendi sorumluluğunu net olarak bilmeli."
+      },
+      {
+        "zh": "他因未尽职责而受到批评。",
+        "pinyin": "Tā yīn wèi jìn zhízé ér shòudào pīpíng.",
+        "en": "Görevini yerine getirmediği için eleştirildi."
+      }
+    ]
+  },
+  {
+    "id": "w7411",
+    "hanzi": "植树",
+    "pinyin": "zhíshù",
+    "meaning": "ağaç dikmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "今天是植树节。",
+        "pinyin": "Jīntiān shì zhíshùjié.",
+        "en": "Bugün ağaç dikme günü."
+      },
+      {
+        "zh": "学生们去山上植树。",
+        "pinyin": "Xuéshengmen qù shān shàng zhíshù.",
+        "en": "Öğrenciler dağa ağaç dikmeye gitti."
+      },
+      {
+        "zh": "植树可以改善环境。",
+        "pinyin": "Zhíshù kěyǐ gǎishàn huánjìng.",
+        "en": "Ağaç dikmek çevreyi iyileştirebilir."
+      },
+      {
+        "zh": "他每年都参加植树活动。",
+        "pinyin": "Tā měinián dōu cānjiā zhíshù huódòng.",
+        "en": "Her yıl ağaç dikme etkinliğine katılıyor."
+      },
+      {
+        "zh": "村民们自发组织植树。",
+        "pinyin": "Cūnmínmen zìfā zǔzhī zhíshù.",
+        "en": "Köylüler kendiliğinden ağaç dikme faaliyeti düzenledi."
+      }
+    ]
+  },
+  {
+    "id": "w7412",
+    "hanzi": "植被",
+    "pinyin": "zhíbèi",
+    "meaning": "bitki örtüsü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这个地区植被茂密。",
+        "pinyin": "Zhège dìqū zhíbèi màomì.",
+        "en": "Bu bölgede bitki örtüsü çok yoğun."
+      },
+      {
+        "zh": "过度开发破坏了植被。",
+        "pinyin": "Guòdù kāifā pòhuàile zhíbèi.",
+        "en": "Aşırı kalkınma bitki örtüsüne zarar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7413",
+    "hanzi": "殖民",
+    "pinyin": "zhímín",
+    "meaning": "sömürgeleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这个国家曾被殖民多年。",
+        "pinyin": "Zhège guójiā céng bèi zhímín duō nián.",
+        "en": "Bu ülke yıllarca sömürgeleştirildi."
+      },
+      {
+        "zh": "殖民历史深刻影响了当地文化。",
+        "pinyin": "Zhímín lìshǐ shēnkè yǐngxiǎngle dāngdì wénhuà.",
+        "en": "Sömürge tarihi yerel kültürü derinden etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w7414",
+    "hanzi": "殖民地",
+    "pinyin": "zhímíndì",
+    "meaning": "koloni, sömürge",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这里曾经是殖民地。",
+        "pinyin": "Zhèlǐ céngjīng shì zhímíndì.",
+        "en": "Burası eskiden bir sömürgeydi."
+      },
+      {
+        "zh": "很多殖民地后来独立了。",
+        "pinyin": "Hěn duō zhímíndì hòulái dúlì le.",
+        "en": "Birçok koloni daha sonra bağımsızlığını kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w7415",
+    "hanzi": "执法",
+    "pinyin": "zhífǎ",
+    "meaning": "kanunu uygulamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "警察要公正执法。",
+        "pinyin": "Jǐngchá yào gōngzhèng zhífǎ.",
+        "en": "Polis adil bir şekilde kanunu uygulamalı."
+      },
+      {
+        "zh": "执法人员上门检查。",
+        "pinyin": "Zhífǎ rényuán shàngmén jiǎnchá.",
+        "en": "Kanun uygulayıcıları denetime geldi."
+      },
+      {
+        "zh": "严格执法才能维护秩序。",
+        "pinyin": "Yángé zhífǎ cái néng wéihù zhìxù.",
+        "en": "Ancak sıkı kanun uygulaması düzeni koruyabilir."
+      },
+      {
+        "zh": "他曾是一名执法人员。",
+        "pinyin": "Tā céng shì yì míng zhífǎ rényuán.",
+        "en": "Eskiden bir kanun uygulayıcısıydı."
+      },
+      {
+        "zh": "执法过程必须透明。",
+        "pinyin": "Zhífǎ guòchéng bìxū tòumíng.",
+        "en": "Kanun uygulama süreci şeffaf olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w7416",
+    "hanzi": "执迷不悟",
+    "pinyin": "zhímí-bùwù",
+    "meaning": "yanlışta ısrar etmek, doğruyu kabul etmemek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他执迷不悟，不听劝告。",
+        "pinyin": "Tā zhímí-bùwù, bù tīng quàngào.",
+        "en": "Yanlışında ısrar ediyor, tavsiye dinlemiyor."
+      },
+      {
+        "zh": "别再执迷不悟了，回头是岸。",
+        "pinyin": "Bié zài zhímí-bùwù le, huítóu shì àn.",
+        "en": "Artık yanlışında ısrar etme, geri dönmenin vakti geldi."
+      }
+    ]
+  },
+  {
+    "id": "w7417",
+    "hanzi": "执拗",
+    "pinyin": "zhíniù",
+    "meaning": "inatçı, dik başlı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他这个人很执拗。",
+        "pinyin": "Tā zhège rén hěn zhíniù.",
+        "en": "Bu adam çok inatçı."
+      },
+      {
+        "zh": "她执拗地坚持自己的想法。",
+        "pinyin": "Tā zhíniù de jiānchí zìjǐ de xiǎngfǎ.",
+        "en": "Kendi fikrinde inatla ısrar ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7418",
+    "hanzi": "执勤",
+    "pinyin": "zhíqín",
+    "meaning": "nöbette olmak, görevde olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "警察在路口执勤。",
+        "pinyin": "Jǐngchá zài lùkǒu zhíqín.",
+        "en": "Polis kavşakta nöbet tutuyor."
+      },
+      {
+        "zh": "他今晚要执勤。",
+        "pinyin": "Tā jīnwǎn yào zhíqín.",
+        "en": "Bu akşam nöbette olacak."
+      }
+    ]
+  },
+  {
+    "id": "w7419",
+    "hanzi": "执意",
+    "pinyin": "zhíyì",
+    "meaning": "ısrar etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他执意要一个人去。",
+        "pinyin": "Tā zhíyì yào yí gè rén qù.",
+        "en": "Tek başına gitmekte ısrar ediyor."
+      },
+      {
+        "zh": "她执意不肯接受帮助。",
+        "pinyin": "Tā zhíyì bùkěn jiēshòu bāngzhù.",
+        "en": "Yardım kabul etmemekte ısrarlı."
+      },
+      {
+        "zh": "他执意辞职，谁也劝不了。",
+        "pinyin": "Tā zhíyì cízhí, shéi yě quàn bù liǎo.",
+        "en": "İstifa etmekte ısrarlı, kimse ikna edemiyor."
+      },
+      {
+        "zh": "父母不同意，但他执意要出国。",
+        "pinyin": "Fùmǔ bù tóngyì, dàn tā zhíyì yào chūguó.",
+        "en": "Ailesi razı olmasa da yurt dışına gitmekte ısrarlı."
+      },
+      {
+        "zh": "她执意要独自完成这个项目。",
+        "pinyin": "Tā zhíyì yào dúzì wánchéng zhège xiàngmù.",
+        "en": "Bu projeyi tek başına tamamlamakta ısrarlı."
+      }
+    ]
+  },
+  {
+    "id": "w7420",
+    "hanzi": "执政",
+    "pinyin": "zhízhèng",
+    "meaning": "iktidarda olmak, yönetimi elinde bulundurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个党已经执政十年了。",
+        "pinyin": "Zhège dǎng yǐjīng zhízhèng shí nián le.",
+        "en": "Bu parti on yıldır iktidarda."
+      },
+      {
+        "zh": "执政党提出了新政策。",
+        "pinyin": "Zhízhèngdǎng tíchūle xīn zhèngcè.",
+        "en": "İktidar partisi yeni bir politika önerdi."
+      },
+      {
+        "zh": "他执政期间经济发展很快。",
+        "pinyin": "Tā zhízhèng qījiān jīngjì fāzhǎn hěn kuài.",
+        "en": "Onun iktidar döneminde ekonomi hızla gelişti."
+      },
+      {
+        "zh": "选举后新政府开始执政。",
+        "pinyin": "Xuǎnjǔ hòu xīn zhèngfǔ kāishǐ zhízhèng.",
+        "en": "Seçimden sonra yeni hükümet yönetime başladı."
+      },
+      {
+        "zh": "执政者要为人民负责。",
+        "pinyin": "Zhízhèngzhě yào wèi rénmín fùzé.",
+        "en": "Yönetenler halka karşı sorumlu olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w7421",
+    "hanzi": "侄女",
+    "pinyin": "zhínǚ",
+    "meaning": "kız yeğen",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这是我的侄女。",
+        "pinyin": "Zhè shì wǒ de zhínǚ.",
+        "en": "Bu benim kız yeğenim."
+      },
+      {
+        "zh": "侄女今年考上了大学。",
+        "pinyin": "Zhínǚ jīnnián kǎoshàngle dàxué.",
+        "en": "Kız yeğenim bu yıl üniversiteyi kazandı."
+      },
+      {
+        "zh": "我给侄女买了生日礼物。",
+        "pinyin": "Wǒ gěi zhínǚ mǎile shēngrì lǐwù.",
+        "en": "Kız yeğenime doğum günü hediyesi aldım."
+      },
+      {
+        "zh": "侄女长得很像她妈妈。",
+        "pinyin": "Zhínǚ zhǎng de hěn xiàng tā māma.",
+        "en": "Kız yeğenim annesine çok benziyor."
+      },
+      {
+        "zh": "我经常带侄女去公园玩。",
+        "pinyin": "Wǒ jīngcháng dài zhínǚ qù gōngyuán wán.",
+        "en": "Kız yeğenimi sık sık parka götürüyorum."
+      }
+    ]
+  },
+  {
+    "id": "w7422",
+    "hanzi": "侄子",
+    "pinyin": "zhízi",
+    "meaning": "erkek yeğen",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "我侄子今年五岁了。",
+        "pinyin": "Wǒ zhízi jīnnián wǔ suì le.",
+        "en": "Erkek yeğenim bu yıl beş yaşında."
+      },
+      {
+        "zh": "侄子很喜欢玩游戏。",
+        "pinyin": "Zhízi hěn xǐhuan wán yóuxì.",
+        "en": "Erkek yeğenim oyun oynamayı çok seviyor."
+      },
+      {
+        "zh": "他把侄子当成自己的孩子。",
+        "pinyin": "Tā bǎ zhízi dàngchéng zìjǐ de háizi.",
+        "en": "Erkek yeğenini kendi çocuğu gibi görüyor."
+      },
+      {
+        "zh": "侄子考试考得很好。",
+        "pinyin": "Zhízi kǎoshì kǎo de hěn hǎo.",
+        "en": "Erkek yeğenim sınavı çok iyi geçti."
+      },
+      {
+        "zh": "我侄子长得又高又壮。",
+        "pinyin": "Wǒ zhízi zhǎng de yòu gāo yòu zhuàng.",
+        "en": "Erkek yeğenim hem uzun hem de güçlü büyüdü."
+      }
+    ]
+  },
+  {
+    "id": "w7423",
+    "hanzi": "只不过",
+    "pinyin": "zhǐbùguò",
+    "meaning": "sadece, yalnızca",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "这只不过是个小误会。",
+        "pinyin": "Zhè zhǐbùguò shì gè xiǎo wùhuì.",
+        "en": "Bu sadece küçük bir yanlış anlaşılma."
+      },
+      {
+        "zh": "他只不过是个学生。",
+        "pinyin": "Tā zhǐbùguò shì gè xuésheng.",
+        "en": "O sadece bir öğrenci."
+      },
+      {
+        "zh": "我只不过随便说说。",
+        "pinyin": "Wǒ zhǐbùguò suíbiàn shuōshuo.",
+        "en": "Ben sadece rastgele söyledim."
+      },
+      {
+        "zh": "这只不过是开始而已。",
+        "pinyin": "Zhè zhǐbùguò shì kāishǐ éryǐ.",
+        "en": "Bu sadece bir başlangıç."
+      },
+      {
+        "zh": "他只不过想帮个忙。",
+        "pinyin": "Tā zhǐbùguò xiǎng bāng gè máng.",
+        "en": "Sadece yardım etmek istedi."
+      }
+    ]
+  },
+  {
+    "id": "w7424",
+    "hanzi": "只得",
+    "pinyin": "zhǐdé",
+    "meaning": "zorunda kalmak, mecburen",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "没有车，他只得走路回家。",
+        "pinyin": "Méiyǒu chē, tā zhǐdé zǒulù huíjiā.",
+        "en": "Araba olmadığı için eve yürüyerek dönmek zorunda kaldı."
+      },
+      {
+        "zh": "天下雨了，我们只得取消计划。",
+        "pinyin": "Tiān xiàyǔ le, wǒmen zhǐdé qǔxiāo jìhuà.",
+        "en": "Yağmur yağdığı için planı iptal etmek zorunda kaldık."
+      },
+      {
+        "zh": "钱不够，他只得放弃这次旅行。",
+        "pinyin": "Qián bú gòu, tā zhǐdé fàngqì zhè cì lǚxíng.",
+        "en": "Parası yetmediği için bu seyahatten vazgeçmek zorunda kaldı."
+      },
+      {
+        "zh": "被说服后，他只得同意。",
+        "pinyin": "Bèi shuōfú hòu, tā zhǐdé tóngyì.",
+        "en": "İkna edildikten sonra kabul etmek zorunda kaldı."
+      },
+      {
+        "zh": "没有别的办法，只得如此。",
+        "pinyin": "Méiyǒu bié de bànfǎ, zhǐdé rúcǐ.",
+        "en": "Başka çare olmadığı için böyle yapmak zorunda kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7425",
+    "hanzi": "只顾",
+    "pinyin": "zhǐgù",
+    "meaning": "sadece bir şeyle meşgul olmak, sadece dikkat etmek",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "他只顾玩手机，没听老师讲课。",
+        "pinyin": "Tā zhǐgù wán shǒujī, méi tīng lǎoshī jiǎngkè.",
+        "en": "Sadece telefonuyla meşguldü, öğretmeni dinlemedi."
+      },
+      {
+        "zh": "别只顾自己，也要想想别人。",
+        "pinyin": "Bié zhǐgù zìjǐ, yě yào xiǎngxiǎng biérén.",
+        "en": "Sadece kendini düşünme, başkalarını da düşün."
+      }
+    ]
+  },
+  {
+    "id": "w7426",
+    "hanzi": "只管",
+    "pinyin": "zhǐguǎn",
+    "meaning": "çekinmeden, sadece; sürekli olarak",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "有问题只管问我。",
+        "pinyin": "Yǒu wèntí zhǐguǎn wèn wǒ.",
+        "en": "Sorun varsa çekinmeden bana sor."
+      },
+      {
+        "zh": "你只管去做，别担心结果。",
+        "pinyin": "Nǐ zhǐguǎn qù zuò, bié dānxīn jiéguǒ.",
+        "en": "Sen sadece yap, sonucu dert etme."
+      }
+    ]
+  },
+  {
+    "id": "w7427",
+    "hanzi": "只是",
+    "pinyin": "zhǐshì",
+    "meaning": "sadece, yalnızca; ancak, fakat",
+    "partOfSpeech": "zarf",
+    "level": 2,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "我只是随便说说。",
+        "pinyin": "Wǒ zhǐshì suíbiàn shuōshuo.",
+        "en": "Ben sadece rastgele söyledim."
+      },
+      {
+        "zh": "他很好，只是有点忙。",
+        "pinyin": "Tā hěn hǎo, zhǐshì yǒudiǎn máng.",
+        "en": "O iyi, sadece biraz meşgul."
+      },
+      {
+        "zh": "这只是一个小问题。",
+        "pinyin": "Zhè zhǐshì yí gè xiǎo wèntí.",
+        "en": "Bu sadece küçük bir sorun."
+      },
+      {
+        "zh": "我不是不想去，只是没有时间。",
+        "pinyin": "Wǒ bú shì bù xiǎng qù, zhǐshì méiyǒu shíjiān.",
+        "en": "Gitmek istemiyor değilim, sadece vaktim yok."
+      },
+      {
+        "zh": "菜很好吃，只是有点辣。",
+        "pinyin": "Cài hěn hǎochī, zhǐshì yǒudiǎn là.",
+        "en": "Yemek çok lezzetli, sadece biraz acı."
+      }
+    ]
+  },
+  {
+    "id": "w7428",
+    "hanzi": "只有",
+    "pinyin": "zhǐyǒu",
+    "meaning": "yalnızca, ancak (...ise)",
+    "partOfSpeech": "bağlaç",
+    "level": 2,
+    "category": "Bağlaç",
+    "examples": [
+      {
+        "zh": "只有努力才能成功。",
+        "pinyin": "Zhǐyǒu nǔlì cái néng chénggōng.",
+        "en": "Ancak çalışırsan başarılı olabilirsin."
+      },
+      {
+        "zh": "教室里只有他一个人。",
+        "pinyin": "Jiàoshì lǐ zhǐyǒu tā yí gè rén.",
+        "en": "Sınıfta sadece o var."
+      },
+      {
+        "zh": "只有你能帮我。",
+        "pinyin": "Zhǐyǒu nǐ néng bāng wǒ.",
+        "en": "Sadece sen bana yardım edebilirsin."
+      },
+      {
+        "zh": "只有下雨，比赛才会取消。",
+        "pinyin": "Zhǐyǒu xiàyǔ, bǐsài cái huì qǔxiāo.",
+        "en": "Ancak yağmur yağarsa maç iptal olur."
+      },
+      {
+        "zh": "只有坚持才能看到结果。",
+        "pinyin": "Zhǐyǒu jiānchí cái néng kàndào jiéguǒ.",
+        "en": "Ancak devam edersen sonucu görebilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w7429",
+    "hanzi": "止",
+    "pinyin": "zhǐ",
+    "meaning": "durmak, durdurmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "血止住了。",
+        "pinyin": "Xuè zhǐzhù le.",
+        "en": "Kanama durdu."
+      },
+      {
+        "zh": "他哭个不止。",
+        "pinyin": "Tā kū gè bùzhǐ.",
+        "en": "Durmadan ağlıyor."
+      },
+      {
+        "zh": "笑声不止。",
+        "pinyin": "Xiàoshēng bùzhǐ.",
+        "en": "Kahkaha sesleri kesilmiyor."
+      },
+      {
+        "zh": "疼痛终于止住了。",
+        "pinyin": "Téngtòng zhōngyú zhǐzhù le.",
+        "en": "Ağrı sonunda durdu."
+      },
+      {
+        "zh": "他的话到此为止。",
+        "pinyin": "Tā de huà dào cǐ wéizhǐ.",
+        "en": "Sözü burada sona erdi."
+      }
+    ]
+  },
+  {
+    "id": "w7430",
+    "hanzi": "止步",
+    "pinyin": "zhǐbù",
+    "meaning": "durmak, adım atmamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "游客止步，工作人员在检修。",
+        "pinyin": "Yóukè zhǐbù, gōngzuò rényuán zài jiǎnxiū.",
+        "en": "Ziyaretçiler durmalı, personel bakım yapıyor."
+      },
+      {
+        "zh": "他在门口止步不前。",
+        "pinyin": "Tā zài ménkǒu zhǐbù bùqián.",
+        "en": "Kapının önünde durup ilerlemedi."
+      }
+    ]
+  },
+  {
+    "id": "w7431",
+    "hanzi": "止境",
+    "pinyin": "zhǐjìng",
+    "meaning": "sınır, son",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "学习是没有止境的。",
+        "pinyin": "Xuéxí shì méiyǒu zhǐjìng de.",
+        "en": "Öğrenmenin sonu yoktur."
+      },
+      {
+        "zh": "人的欲望似乎没有止境。",
+        "pinyin": "Rén de yùwàng sìhū méiyǒu zhǐjìng.",
+        "en": "İnsanın arzularının sonu yok gibi görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7432",
+    "hanzi": "止痛",
+    "pinyin": "zhǐtòng",
+    "meaning": "ağrı kesmek, ağrıyı dindirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他开了止痛药。",
+        "pinyin": "Yīshēng gěi tā kāile zhǐtòngyào.",
+        "en": "Doktor ona ağrı kesici yazdı."
+      },
+      {
+        "zh": "这种药可以有效止痛。",
+        "pinyin": "Zhè zhǒng yào kěyǐ yǒuxiào zhǐtòng.",
+        "en": "Bu ilaç etkili bir şekilde ağrıyı dindirebilir."
+      },
+      {
+        "zh": "冰敷可以帮助止痛。",
+        "pinyin": "Bīngfū kěyǐ bāngzhù zhǐtòng.",
+        "en": "Buz uygulaması ağrıyı hafifletmeye yardımcı olabilir."
+      },
+      {
+        "zh": "他吃了止痛药后感觉好多了。",
+        "pinyin": "Tā chīle zhǐtòngyào hòu gǎnjué hǎo duō le.",
+        "en": "Ağrı kesici aldıktan sonra çok daha iyi hissetti."
+      },
+      {
+        "zh": "按摩有一定的止痛效果。",
+        "pinyin": "Ànmó yǒu yídìng de zhǐtòng xiàoguǒ.",
+        "en": "Masajın belirli bir ağrı dindirici etkisi var."
+      }
+    ]
+  },
+  {
+    "id": "w7433",
+    "hanzi": "纸",
+    "pinyin": "zhǐ",
+    "meaning": "kağıt",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请给我一张纸。",
+        "pinyin": "Qǐng gěi wǒ yì zhāng zhǐ.",
+        "en": "Bana bir kağıt verir misin."
+      },
+      {
+        "zh": "他在纸上写字。",
+        "pinyin": "Tā zài zhǐ shàng xiězì.",
+        "en": "Kağıda yazı yazıyor."
+      },
+      {
+        "zh": "这张纸太薄了。",
+        "pinyin": "Zhè zhāng zhǐ tài báo le.",
+        "en": "Bu kağıt çok ince."
+      },
+      {
+        "zh": "桌子上放着几张纸。",
+        "pinyin": "Zhuōzi shàng fàngzhe jǐ zhāng zhǐ.",
+        "en": "Masanın üzerinde birkaç kağıt duruyor."
+      },
+      {
+        "zh": "她用纸折了一只小鸟。",
+        "pinyin": "Tā yòng zhǐ zhéle yì zhī xiǎo niǎo.",
+        "en": "Kağıttan küçük bir kuş katladı."
+      }
+    ]
+  },
+  {
+    "id": "w7434",
+    "hanzi": "纸币",
+    "pinyin": "zhǐbì",
+    "meaning": "kağıt para",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "他钱包里有几张纸币。",
+        "pinyin": "Tā qiánbāo lǐ yǒu jǐ zhāng zhǐbì.",
+        "en": "Cüzdanında birkaç kağıt para var."
+      },
+      {
+        "zh": "现在很少有人用纸币付款。",
+        "pinyin": "Xiànzài hěn shǎo yǒurén yòng zhǐbì fùkuǎn.",
+        "en": "Şimdi kağıt parayla ödeme yapan çok az kişi var."
+      },
+      {
+        "zh": "这张纸币已经破旧了。",
+        "pinyin": "Zhè zhāng zhǐbì yǐjīng pòjiù le.",
+        "en": "Bu kağıt para artık eskimiş."
+      },
+      {
+        "zh": "银行会定期回收旧纸币。",
+        "pinyin": "Yínháng huì dìngqī huíshōu jiù zhǐbì.",
+        "en": "Banka düzenli olarak eski kağıt paraları toplar."
+      },
+      {
+        "zh": "新版纸币防伪功能更强。",
+        "pinyin": "Xīnbǎn zhǐbì fángwěi gōngnéng gèng qiáng.",
+        "en": "Yeni seri kağıt paraların sahtecilik önleme özelliği daha güçlü."
+      }
+    ]
   }
 ]

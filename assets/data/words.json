@@ -238813,5 +238813,743 @@
         "en": "O makineyi bezle örttü."
       }
     ]
+  },
+  {
+    "id": "w7211",
+    "hanzi": "照办",
+    "pinyin": "zhàobàn",
+    "meaning": "dediği gibi yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "上级的命令我们必须照办。",
+        "pinyin": "Shàngjí de mìnglìng wǒmen bìxū zhàobàn.",
+        "en": "Üstün emrini aynen yerine getirmemiz gerekiyor."
+      },
+      {
+        "zh": "他按照要求照办了。",
+        "pinyin": "Tā ànzhào yāoqiú zhàobàn le.",
+        "en": "O talebe göre dediği gibi yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7212",
+    "hanzi": "照管",
+    "pinyin": "zhàoguǎn",
+    "meaning": "bakmak, ilgilenmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她一直照管着家里的花园。",
+        "pinyin": "Tā yīzhí zhàoguǎnzhe jiā lǐ de huāyuán.",
+        "en": "O hep evdeki bahçeye bakıyor."
+      },
+      {
+        "zh": "请照管好这些贵重物品。",
+        "pinyin": "Qǐng zhàoguǎn hǎo zhèxiē guìzhòng wùpǐn.",
+        "en": "Lütfen bu değerli eşyalara iyi bak."
+      }
+    ]
+  },
+  {
+    "id": "w7213",
+    "hanzi": "折服",
+    "pinyin": "zhéfú",
+    "meaning": "hayranlıkla ikna olmak, etkilenmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他的演讲让观众深深折服。",
+        "pinyin": "Tā de yǎnjiǎng ràng guānzhòng shēnshēn zhéfú.",
+        "en": "Onun konuşması izleyicileri derinden etkiledi."
+      },
+      {
+        "zh": "她的才华令人折服。",
+        "pinyin": "Tā de cáihuá lìng rén zhéfú.",
+        "en": "Onun yeteneği insanı hayran bırakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7214",
+    "hanzi": "折射",
+    "pinyin": "zhéshè",
+    "meaning": "kırılma (ışık, ses)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "光线经过水面时会发生折射。",
+        "pinyin": "Guāngxiàn jīngguò shuǐmiàn shí huì fāshēng zhéshè.",
+        "en": "Işık su yüzeyinden geçtiğinde kırılma meydana gelir."
+      },
+      {
+        "zh": "这部小说折射出了社会现实。",
+        "pinyin": "Zhè bù xiǎoshuō zhéshè chūle shèhuì xiànshí.",
+        "en": "Bu roman toplumsal gerçekliği yansıtıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7215",
+    "hanzi": "哲",
+    "pinyin": "zhé",
+    "meaning": "mantıklı, akıllı, bilge",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是一位哲人。",
+        "pinyin": "Tā shì yī wèi zhérén.",
+        "en": "O bir bilge kişidir."
+      },
+      {
+        "zh": "这句话充满了哲理。",
+        "pinyin": "Zhè jù huà chōngmǎnle zhélǐ.",
+        "en": "Bu söz felsefi düşünceyle dolu."
+      },
+      {
+        "zh": "他研究哲学多年。",
+        "pinyin": "Tā yánjiū zhéxué duō nián.",
+        "en": "O yıllarca felsefe araştırdı."
+      },
+      {
+        "zh": "这个观点很有哲学意义。",
+        "pinyin": "Zhège guāndiǎn hěn yǒu zhéxué yìyì.",
+        "en": "Bu görüşün felsefi bir anlamı var."
+      },
+      {
+        "zh": "他是一位哲学教授。",
+        "pinyin": "Tā shì yī wèi zhéxué jiàoshòu.",
+        "en": "O bir felsefe profesörü."
+      }
+    ]
+  },
+  {
+    "id": "w7216",
+    "hanzi": "哲理",
+    "pinyin": "zhélǐ",
+    "meaning": "felsefi düşünce",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这个故事蕴含着深刻的哲理。",
+        "pinyin": "Zhège gùshi yùnhánzhe shēnkè de zhélǐ.",
+        "en": "Bu hikaye derin bir felsefi anlam taşıyor."
+      },
+      {
+        "zh": "他常常引用富有哲理的名言。",
+        "pinyin": "Tā chángcháng yǐnyòng fùyǒu zhélǐ de míngyán.",
+        "en": "O sık sık felsefi anlam taşıyan sözler alıntılar."
+      }
+    ]
+  },
+  {
+    "id": "w7217",
+    "hanzi": "哲人",
+    "pinyin": "zhérén",
+    "meaning": "filozof, bilge kişi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "古代哲人留下了很多智慧的话语。",
+        "pinyin": "Gǔdài zhérén liú xiàle hěn duō zhìhuì de huàyǔ.",
+        "en": "Eski çağların bilge kişileri birçok akıllıca söz bıraktı."
+      },
+      {
+        "zh": "他被人尊称为一代哲人。",
+        "pinyin": "Tā bèi rén zūnchēng wéi yī dài zhérén.",
+        "en": "O bir dönemin bilgesi olarak saygıyla anılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7218",
+    "hanzi": "这般",
+    "pinyin": "zhèbān",
+    "meaning": "öyle, böyle, bu şekilde",
+    "partOfSpeech": "zamir",
+    "level": 6,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "他从未见过这般美景。",
+        "pinyin": "Tā cóngwèi jiànguò zhèbān měijǐng.",
+        "en": "O daha önce hiç böyle bir güzellik görmemişti."
+      },
+      {
+        "zh": "事情发展至此般田地,实在无奈。",
+        "pinyin": "Shìqing fāzhǎn zhì cǐbān tiándì, shízài wúnài.",
+        "en": "Olay bu noktaya geldiğinde gerçekten çaresiz."
+      }
+    ]
+  },
+  {
+    "id": "w7219",
+    "hanzi": "真话",
+    "pinyin": "zhēnhuà",
+    "meaning": "doğru söz, gerçek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请说真话。",
+        "pinyin": "Qǐng shuō zhēnhuà.",
+        "en": "Lütfen gerçeği söyle."
+      },
+      {
+        "zh": "他终于说出了真话。",
+        "pinyin": "Tā zhōngyú shuōchūle zhēnhuà.",
+        "en": "O sonunda gerçeği söyledi."
+      },
+      {
+        "zh": "孩子从小就应该学会说真话。",
+        "pinyin": "Háizi cóngxiǎo jiù yīnggāi xuéhuì shuō zhēnhuà.",
+        "en": "Çocuklar küçüklüklerinden itibaren gerçeği söylemeyi öğrenmelidir."
+      },
+      {
+        "zh": "他说的都是真话,没有半点虚假。",
+        "pinyin": "Tā shuō de dōu shì zhēnhuà, méiyǒu bàndiǎn xūjiǎ.",
+        "en": "Onun söyledikleri tamamen doğru, hiç yalan yok."
+      },
+      {
+        "zh": "在朋友面前应该说真话。",
+        "pinyin": "Zài péngyou miànqián yīnggāi shuō zhēnhuà.",
+        "en": "Arkadaşlarının önünde gerçeği söylemek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w7220",
+    "hanzi": "真假",
+    "pinyin": "zhēn-jiǎ",
+    "meaning": "gerçek-sahte",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "无法分辨真假。",
+        "pinyin": "Wúfǎ fēnbiàn zhēn-jiǎ.",
+        "en": "Gerçeği sahteden ayırt etmek imkansız."
+      },
+      {
+        "zh": "他鉴定了这件古董的真假。",
+        "pinyin": "Tā jiàndìngle zhè jiàn gǔdǒng de zhēn-jiǎ.",
+        "en": "O bu antikanın gerçek mi sahte mi olduğunu tespit etti."
+      },
+      {
+        "zh": "这条消息真假难辨。",
+        "pinyin": "Zhè tiáo xiāoxi zhēn-jiǎ nánbiàn.",
+        "en": "Bu haberin gerçek mi yalan mı olduğu ayırt edilemiyor."
+      },
+      {
+        "zh": "警方正在调查这些文件的真假。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá zhèxiē wénjiàn de zhēn-jiǎ.",
+        "en": "Polis bu belgelerin gerçekliğini araştırıyor."
+      },
+      {
+        "zh": "他一眼就看出了这幅画的真假。",
+        "pinyin": "Tā yī yǎn jiù kànchūle zhè fú huà de zhēn-jiǎ.",
+        "en": "O bir bakışta bu tablonun gerçek mi sahte mi olduğunu anladı."
+      }
+    ]
+  },
+  {
+    "id": "w7221",
+    "hanzi": "真空",
+    "pinyin": "zhēnkōng",
+    "meaning": "boşluk, vakum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "太空中是真空环境。",
+        "pinyin": "Tàikōng zhōng shì zhēnkōng huánjìng.",
+        "en": "Uzayda vakum ortamı vardır."
+      },
+      {
+        "zh": "这种包装可以保持真空状态。",
+        "pinyin": "Zhè zhǒng bāozhuāng kěyǐ bǎochí zhēnkōng zhuàngtài.",
+        "en": "Bu tür ambalaj vakum durumunu koruyabilir."
+      },
+      {
+        "zh": "权力真空导致了社会混乱。",
+        "pinyin": "Quánlì zhēnkōng dǎozhìle shèhuì hùnluàn.",
+        "en": "İktidar boşluğu toplumsal karışıklığa yol açtı."
+      },
+      {
+        "zh": "真空吸尘器能有效清洁地板。",
+        "pinyin": "Zhēnkōng xīchénqì néng yǒuxiào qīngjié dìbǎn.",
+        "en": "Vakumlu elektrik süpürgesi zemini etkili bir şekilde temizleyebilir."
+      },
+      {
+        "zh": "食品真空包装可以延长保质期。",
+        "pinyin": "Shípǐn zhēnkōng bāozhuāng kěyǐ yáncháng bǎozhìqī.",
+        "en": "Gıdanın vakumlu ambalajlanması son kullanma tarihini uzatabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7222",
+    "hanzi": "真挚",
+    "pinyin": "zhēnzhì",
+    "meaning": "samimi (duygu)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们之间有着真挚的友谊。",
+        "pinyin": "Tāmen zhījiān yǒuzhe zhēnzhì de yǒuyì.",
+        "en": "Aralarında samimi bir dostluk var."
+      },
+      {
+        "zh": "她用真挚的语言表达了感谢。",
+        "pinyin": "Tā yòng zhēnzhì de yǔyán biǎodále gǎnxiè.",
+        "en": "O samimi bir dille teşekkürlerini ifade etti."
+      }
+    ]
+  },
+  {
+    "id": "w7223",
+    "hanzi": "侦查",
+    "pinyin": "zhēnchá",
+    "meaning": "soruşturmak (bir suçu)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方正在侦查这起案件。",
+        "pinyin": "Jǐngfāng zhèngzài zhēnchá zhè qǐ ànjiàn.",
+        "en": "Polis bu davayı soruşturuyor."
+      },
+      {
+        "zh": "侦查工作已经取得了进展。",
+        "pinyin": "Zhēnchá gōngzuò yǐjīng qǔdéle jìnzhǎn.",
+        "en": "Soruşturma çalışması ilerleme kaydetti."
+      }
+    ]
+  },
+  {
+    "id": "w7224",
+    "hanzi": "侦察",
+    "pinyin": "zhēnchá",
+    "meaning": "keşif yapmak (askeri)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "士兵们前去侦察敌情。",
+        "pinyin": "Shìbīngmen qiánqù zhēnchá díqíng.",
+        "en": "Askerler düşman durumunu keşfetmeye gitti."
+      },
+      {
+        "zh": "无人机被用于侦察任务。",
+        "pinyin": "Wúrénjī bèi yòngyú zhēnchá rènwu.",
+        "en": "İnsansız hava aracı keşif görevleri için kullanılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7225",
+    "hanzi": "侦探",
+    "pinyin": "zhēntàn",
+    "meaning": "dedektif",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是一名私家侦探。",
+        "pinyin": "Tā shì yī míng sījiā zhēntàn.",
+        "en": "O özel bir dedektif."
+      },
+      {
+        "zh": "这部电影讲述了一个侦探的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshùle yī gè zhēntàn de gùshi.",
+        "en": "Bu film bir dedektifin hikayesini anlatıyor."
+      },
+      {
+        "zh": "侦探通过线索找到了真凶。",
+        "pinyin": "Zhēntàn tōngguò xiànsuǒ zhǎodàole zhēnxiōng.",
+        "en": "Dedektif ipuçlarıyla gerçek katili buldu."
+      },
+      {
+        "zh": "他喜欢看侦探小说。",
+        "pinyin": "Tā xǐhuān kàn zhēntàn xiǎoshuō.",
+        "en": "O polisiye roman okumayı sever."
+      },
+      {
+        "zh": "这位侦探观察力非常敏锐。",
+        "pinyin": "Zhè wèi zhēntàn guānchálì fēicháng mǐnruì.",
+        "en": "Bu dedektifin gözlem yeteneği son derece keskin."
+      }
+    ]
+  },
+  {
+    "id": "w7226",
+    "hanzi": "珍",
+    "pinyin": "zhēn",
+    "meaning": "değerli, nadir",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一件珍品。",
+        "pinyin": "Zhè shì yī jiàn zhēnpǐn.",
+        "en": "Bu değerli bir eserdir."
+      },
+      {
+        "zh": "他珍藏着这些老照片。",
+        "pinyin": "Tā zhēncángzhe zhèxiē lǎo zhàopiàn.",
+        "en": "O bu eski fotoğrafları özenle saklıyor."
+      },
+      {
+        "zh": "友谊是人生中珍贵的财富。",
+        "pinyin": "Yǒuyì shì rénshēng zhōng zhēnguì de cáifù.",
+        "en": "Dostluk hayattaki değerli bir servettir."
+      },
+      {
+        "zh": "请珍惜眼前的幸福。",
+        "pinyin": "Qǐng zhēnxī yǎnqián de xìngfú.",
+        "en": "Lütfen şu anki mutluluğa değer ver."
+      },
+      {
+        "zh": "他视这本书为珍宝。",
+        "pinyin": "Tā shì zhè běn shū wéi zhēnbǎo.",
+        "en": "O bu kitabı bir hazine olarak görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7227",
+    "hanzi": "珍爱",
+    "pinyin": "zhēn'ài",
+    "meaning": "çok değer vermek, koruyup kollamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他珍爱着这枚戒指。",
+        "pinyin": "Tā zhēn'àizhe zhè méi jièzhi.",
+        "en": "O bu yüzüğe çok değer veriyor."
+      },
+      {
+        "zh": "我们要珍爱生命。",
+        "pinyin": "Wǒmen yào zhēn'ài shēngmìng.",
+        "en": "Hayata değer vermeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w7228",
+    "hanzi": "珍宝",
+    "pinyin": "zhēnbǎo",
+    "meaning": "mücevher, hazine",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "博物馆里陈列着许多珍宝。",
+        "pinyin": "Bówùguǎn lǐ chénlièzhe xǔduō zhēnbǎo.",
+        "en": "Müzede birçok mücevher sergileniyor."
+      },
+      {
+        "zh": "这些珍宝价值连城。",
+        "pinyin": "Zhèxiē zhēnbǎo jiàzhí liánchéng.",
+        "en": "Bu mücevherler paha biçilmez değerdedir."
+      },
+      {
+        "zh": "孩子是父母心中的珍宝。",
+        "pinyin": "Háizi shì fùmǔ xīnzhōng de zhēnbǎo.",
+        "en": "Çocuk, ebeveynlerin gözünde bir hazinedir."
+      },
+      {
+        "zh": "他从海底打捞出了古代珍宝。",
+        "pinyin": "Tā cóng hǎidǐ dǎlāo chūle gǔdài zhēnbǎo.",
+        "en": "O deniz dibinden antik mücevherleri çıkardı."
+      },
+      {
+        "zh": "这座宫殿曾经收藏着无数珍宝。",
+        "pinyin": "Zhè zuò gōngdiàn céngjīng shōucángzhe wúshù zhēnbǎo.",
+        "en": "Bu saray bir zamanlar sayısız hazine barındırıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7229",
+    "hanzi": "珍藏",
+    "pinyin": "zhēncáng",
+    "meaning": "değerli olarak saklamak, koleksiyon yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他珍藏了许多古董。",
+        "pinyin": "Tā zhēncángle xǔduō gǔdǒng.",
+        "en": "O birçok antika eşya sakladı."
+      },
+      {
+        "zh": "这封信被她珍藏了三十年。",
+        "pinyin": "Zhè fēng xìn bèi tā zhēncángle sānshí nián.",
+        "en": "Bu mektup onun tarafından otuz yıl özenle saklandı."
+      }
+    ]
+  },
+  {
+    "id": "w7230",
+    "hanzi": "珍贵",
+    "pinyin": "zhēnguì",
+    "meaning": "çok değerli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一份珍贵的礼物。",
+        "pinyin": "Zhè shì yī fèn zhēnguì de lǐwù.",
+        "en": "Bu çok değerli bir hediye."
+      },
+      {
+        "zh": "时间是最珍贵的财富。",
+        "pinyin": "Shíjiān shì zuì zhēnguì de cáifù.",
+        "en": "Zaman en değerli servettir."
+      },
+      {
+        "zh": "这些珍贵的照片记录了历史时刻。",
+        "pinyin": "Zhèxiē zhēnguì de zhàopiàn jìlùle lìshǐ shíkè.",
+        "en": "Bu değerli fotoğraflar tarihi anları kaydetti."
+      },
+      {
+        "zh": "他保存着珍贵的家族文物。",
+        "pinyin": "Tā bǎocúnzhe zhēnguì de jiāzú wénwù.",
+        "en": "O değerli aile mirasını saklıyor."
+      },
+      {
+        "zh": "友谊是人生中珍贵的礼物。",
+        "pinyin": "Yǒuyì shì rénshēng zhōng zhēnguì de lǐwù.",
+        "en": "Dostluk, hayattaki değerli bir hediyedir."
+      }
+    ]
+  },
+  {
+    "id": "w7231",
+    "hanzi": "珍品",
+    "pinyin": "zhēnpǐn",
+    "meaning": "değerli eşya, nadide eser",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这幅画是艺术珍品。",
+        "pinyin": "Zhè fú huà shì yìshù zhēnpǐn.",
+        "en": "Bu tablo bir sanat hazinesidir."
+      },
+      {
+        "zh": "博物馆收藏了很多珍品。",
+        "pinyin": "Bówùguǎn shōucángle hěn duō zhēnpǐn.",
+        "en": "Müze birçok nadide eseri barındırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7232",
+    "hanzi": "珍珠",
+    "pinyin": "zhēnzhū",
+    "meaning": "inci",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她戴着一条珍珠项链。",
+        "pinyin": "Tā dàizhe yī tiáo zhēnzhū xiàngliàn.",
+        "en": "O bir inci kolye takıyor."
+      },
+      {
+        "zh": "珍珠是从蚌壳里产生的。",
+        "pinyin": "Zhēnzhū shì cóng bàngké lǐ chǎnshēng de.",
+        "en": "İnci midye kabuğundan üretilir."
+      },
+      {
+        "zh": "这颗珍珠又大又圆。",
+        "pinyin": "Zhè kē zhēnzhū yòu dà yòu yuán.",
+        "en": "Bu inci hem büyük hem yuvarlak."
+      },
+      {
+        "zh": "他送给妻子一对珍珠耳环。",
+        "pinyin": "Tā sòng gěi qīzi yī duì zhēnzhū ěrhuán.",
+        "en": "O eşine bir çift inci küpe hediye etti."
+      },
+      {
+        "zh": "珍珠奶茶很受年轻人欢迎。",
+        "pinyin": "Zhēnzhū nǎichá hěn shòu niánqīngrén huānyíng.",
+        "en": "İncili sütlü çay gençler arasında çok popüler."
+      }
+    ]
+  },
+  {
+    "id": "w7233",
+    "hanzi": "斟酌",
+    "pinyin": "zhēnzhuó",
+    "meaning": "tartmak, düşünüp taşınmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请仔细斟酌这个方案。",
+        "pinyin": "Qǐng zǐxì zhēnzhuó zhège fāng'àn.",
+        "en": "Lütfen bu planı dikkatlice değerlendirin."
+      },
+      {
+        "zh": "他反复斟酌用词。",
+        "pinyin": "Tā fǎnfù zhēnzhuó yòngcí.",
+        "en": "O kelime seçimini defalarca tarttı."
+      }
+    ]
+  },
+  {
+    "id": "w7234",
+    "hanzi": "针",
+    "pinyin": "zhēn",
+    "meaning": "iğne",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她用针缝补衣服。",
+        "pinyin": "Tā yòng zhēn féngbǔ yīfu.",
+        "en": "O iğneyle kıyafeti dikip onardı."
+      },
+      {
+        "zh": "护士给病人打了一针。",
+        "pinyin": "Hùshi gěi bìngrén dǎle yī zhēn.",
+        "en": "Hemşire hastaya bir iğne yaptı."
+      },
+      {
+        "zh": "他不小心被针扎了一下。",
+        "pinyin": "Tā bù xiǎoxīn bèi zhēn zhāle yīxià.",
+        "en": "O yanlışlıkla iğneyle battı."
+      },
+      {
+        "zh": "时针指向了十二点。",
+        "pinyin": "Shízhēn zhǐxiàngle shí'èr diǎn.",
+        "en": "Saat kolu on ikiyi gösteriyor."
+      },
+      {
+        "zh": "医生给他开了针剂药物。",
+        "pinyin": "Yīshēng gěi tā kāile zhēnjì yàowù.",
+        "en": "Doktor ona enjeksiyon ilacı yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w7235",
+    "hanzi": "针剂",
+    "pinyin": "zhēnjì",
+    "meaning": "enjeksiyon, iğne ilacı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他注射了针剂。",
+        "pinyin": "Yīshēng gěi tā zhùshèle zhēnjì.",
+        "en": "Doktor ona enjeksiyon yaptı."
+      },
+      {
+        "zh": "这种针剂需要冷藏保存。",
+        "pinyin": "Zhè zhǒng zhēnjì xūyào lěngcáng bǎocún.",
+        "en": "Bu tür enjeksiyon ilacının soğukta saklanması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7236",
+    "hanzi": "折旧",
+    "pinyin": "zhéjiù",
+    "meaning": "amortisman, aşınma payı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这辆车的折旧率很高。",
+        "pinyin": "Zhè liàng chē de zhéjiù lǜ hěn gāo.",
+        "en": "Bu aracın amortisman oranı çok yüksek."
+      },
+      {
+        "zh": "公司每年计提设备折旧。",
+        "pinyin": "Gōngsī měinián jìtí shèbèi zhéjiù.",
+        "en": "Şirket her yıl ekipman amortismanını hesaplıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7237",
+    "hanzi": "折合",
+    "pinyin": "zhéhé",
+    "meaning": "dönüştürmek (para birimi vb.)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "一百美元折合多少人民币?",
+        "pinyin": "Yī bǎi měiyuán zhéhé duōshao rénmínbì?",
+        "en": "Yüz dolar kaç yuan eder?"
+      },
+      {
+        "zh": "这笔费用折合成本地货币约五千元。",
+        "pinyin": "Zhè bǐ fèiyòng zhéhéchéng běndì huòbì yuē wǔ qiān yuán.",
+        "en": "Bu ücret yerel para birimine dönüştürüldüğünde yaklaşık beş bin yuan eder."
+      }
+    ]
+  },
+  {
+    "id": "w7238",
+    "hanzi": "折中",
+    "pinyin": "zhézhōng",
+    "meaning": "uzlaşmak, orta yolu bulmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "双方最终折中达成了协议。",
+        "pinyin": "Shuāngfāng zuìzhōng zhézhōng dáchéngle xiéyì.",
+        "en": "Her iki taraf sonunda uzlaşarak bir anlaşmaya vardı."
+      },
+      {
+        "zh": "他提出了一个折中方案。",
+        "pinyin": "Tā tíchūle yī gè zhézhōng fāng'àn.",
+        "en": "O bir uzlaşma planı önerdi."
+      }
+    ]
   }
 ]

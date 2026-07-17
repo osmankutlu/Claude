@@ -232801,5 +232801,938 @@
         "en": "Lütfen ona biraz manevra alanı bırak."
       }
     ]
+  },
+  {
+    "id": "w7018",
+    "hanzi": "雨季",
+    "pinyin": "yǔjì",
+    "meaning": "yağmur mevsimi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这里的雨季是六月到八月。",
+        "pinyin": "Zhèlǐ de yǔjì shì liù yuè dào bā yuè.",
+        "en": "Buranın yağmur mevsimi haziran ile ağustos arasıdır."
+      },
+      {
+        "zh": "雨季来临,河水上涨了。",
+        "pinyin": "Yǔjì láilín, héshuǐ shàngzhǎng le.",
+        "en": "Yağmur mevsimi geldi, nehir suyu yükseldi."
+      },
+      {
+        "zh": "雨季外出要带雨具。",
+        "pinyin": "Yǔjì wàichū yào dài yǔjù.",
+        "en": "Yağmur mevsiminde dışarı çıkarken yağmurluk almak gerekir."
+      },
+      {
+        "zh": "热带地区的雨季非常潮湿。",
+        "pinyin": "Rèdài dìqū de yǔjì fēicháng cháoshī.",
+        "en": "Tropikal bölgelerin yağmur mevsimi çok nemlidir."
+      },
+      {
+        "zh": "雨季结束后天气会变得干燥。",
+        "pinyin": "Yǔjì jiéshù hòu tiānqì huì biàn de gānzào.",
+        "en": "Yağmur mevsimi bittikten sonra hava kurur."
+      }
+    ]
+  },
+  {
+    "id": "w7019",
+    "hanzi": "雨伞",
+    "pinyin": "yǔsǎn",
+    "meaning": "şemsiye",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请带上你的雨伞。",
+        "pinyin": "Qǐng dài shàng nǐ de yǔsǎn.",
+        "en": "Şemsiyeni yanına al."
+      },
+      {
+        "zh": "他把雨伞忘在了公交车上。",
+        "pinyin": "Tā bǎ yǔsǎn wàng zài le gōngjiāochē shàng.",
+        "en": "O şemsiyesini otobüste unuttu."
+      },
+      {
+        "zh": "这把雨伞很漂亮。",
+        "pinyin": "Zhè bǎ yǔsǎn hěn piàoliang.",
+        "en": "Bu şemsiye çok güzel."
+      },
+      {
+        "zh": "外面下雨了,快撑开雨伞。",
+        "pinyin": "Wàimian xiàyǔ le, kuài chēngkāi yǔsǎn.",
+        "en": "Dışarıda yağmur yağıyor, çabuk şemsiyeni aç."
+      },
+      {
+        "zh": "他给我买了一把新雨伞。",
+        "pinyin": "Tā gěi wǒ mǎile yī bǎ xīn yǔsǎn.",
+        "en": "O bana yeni bir şemsiye aldı."
+      }
+    ]
+  },
+  {
+    "id": "w7020",
+    "hanzi": "雨水",
+    "pinyin": "yǔshuǐ",
+    "meaning": "yağmur suyu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他们收集雨水浇灌庄稼。",
+        "pinyin": "Tāmen shōují yǔshuǐ jiāoguàn zhuāngjia.",
+        "en": "Onlar mahsulü sulamak için yağmur suyu topluyor."
+      },
+      {
+        "zh": "雨水冲刷了街道。",
+        "pinyin": "Yǔshuǐ chōngshuāle jiēdào.",
+        "en": "Yağmur suyu sokakları yıkadı."
+      },
+      {
+        "zh": "今年雨水充沛。",
+        "pinyin": "Jīnnián yǔshuǐ chōngpèi.",
+        "en": "Bu yıl yağış bol."
+      },
+      {
+        "zh": "雨水从屋檐滴落下来。",
+        "pinyin": "Yǔshuǐ cóng wūyán dīluò xiàlai.",
+        "en": "Yağmur suyu çatı saçağından damlıyor."
+      },
+      {
+        "zh": "长期缺乏雨水导致了干旱。",
+        "pinyin": "Chángqí quēfá yǔshuǐ dǎozhìle gānhàn.",
+        "en": "Uzun süreli yağış eksikliği kuraklığa yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w7021",
+    "hanzi": "雨衣",
+    "pinyin": "yǔyī",
+    "meaning": "yağmurluk",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "他穿着雨衣骑自行车。",
+        "pinyin": "Tā chuānzhe yǔyī qí zìxíngchē.",
+        "en": "O yağmurluk giyerek bisiklet sürüyor."
+      },
+      {
+        "zh": "妈妈给孩子买了一件雨衣。",
+        "pinyin": "Māma gěi háizi mǎile yī jiàn yǔyī.",
+        "en": "Anne çocuğu için bir yağmurluk satın aldı."
+      },
+      {
+        "zh": "这件雨衣防水效果很好。",
+        "pinyin": "Zhè jiàn yǔyī fángshuǐ xiàoguǒ hěn hǎo.",
+        "en": "Bu yağmurluğun su geçirmezlik etkisi çok iyi."
+      },
+      {
+        "zh": "出门前记得穿雨衣。",
+        "pinyin": "Chūmén qián jìde chuān yǔyī.",
+        "en": "Dışarı çıkmadan önce yağmurluk giymeyi unutma."
+      },
+      {
+        "zh": "他把湿雨衣挂在门口。",
+        "pinyin": "Tā bǎ shī yǔyī guà zài ménkǒu.",
+        "en": "O ıslak yağmurluğu kapının önüne astı."
+      }
+    ]
+  },
+  {
+    "id": "w7022",
+    "hanzi": "宇",
+    "pinyin": "yǔ",
+    "meaning": "uzay, gökyüzü, ev",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "宇宙是无边无际的。",
+        "pinyin": "Yǔzhòu shì wúbiān-wújì de.",
+        "en": "Evren sınırsızdır."
+      },
+      {
+        "zh": "他梦想成为一名宇航员。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yī míng yǔhángyuán.",
+        "en": "O bir astronot olmayı hayal ediyor."
+      },
+      {
+        "zh": "科学家探索宇宙的奥秘。",
+        "pinyin": "Kēxuéjiā tànsuǒ yǔzhòu de àomì.",
+        "en": "Bilim insanları evrenin sırlarını araştırıyor."
+      },
+      {
+        "zh": "宇宙飞船成功发射升空。",
+        "pinyin": "Yǔzhòu fēichuán chénggōng fāshè shēngkōng.",
+        "en": "Uzay gemisi başarıyla fırlatılıp uzaya çıktı."
+      },
+      {
+        "zh": "宇宙中存在无数星系。",
+        "pinyin": "Yǔzhòu zhōng cúnzài wúshù xīngxì.",
+        "en": "Evrende sayısız galaksi bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w7023",
+    "hanzi": "语",
+    "pinyin": "yǔ",
+    "meaning": "dil, söz, kelime",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他会说三种语。",
+        "pinyin": "Tā huì shuō sān zhǒng yǔ.",
+        "en": "O üç dil konuşabiliyor."
+      },
+      {
+        "zh": "这句成语很有意思。",
+        "pinyin": "Zhè jù chéngyǔ hěn yǒu yìsi.",
+        "en": "Bu deyim çok ilginç."
+      },
+      {
+        "zh": "他用不同的语讲了同一个故事。",
+        "pinyin": "Tā yòng bùtóng de yǔ jiǎngle tóng yī gè gùshi.",
+        "en": "O aynı hikayeyi farklı dillerde anlattı."
+      },
+      {
+        "zh": "这个单词是外来语。",
+        "pinyin": "Zhège dāncí shì wàiláiyǔ.",
+        "en": "Bu kelime bir ödünç kelimedir."
+      },
+      {
+        "zh": "她的语中带着一丝忧伤。",
+        "pinyin": "Tā de yǔ zhōng dàizhe yīsī yōushāng.",
+        "en": "Onun sözlerinde hafif bir hüzün var."
+      }
+    ]
+  },
+  {
+    "id": "w7024",
+    "hanzi": "语文",
+    "pinyin": "yǔwén",
+    "meaning": "dil ve edebiyat",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他语文成绩很好。",
+        "pinyin": "Tā yǔwén chéngjì hěn hǎo.",
+        "en": "Onun dil ve edebiyat notu çok iyi."
+      },
+      {
+        "zh": "今天有一节语文课。",
+        "pinyin": "Jīntiān yǒu yī jié yǔwén kè.",
+        "en": "Bugün bir dil ve edebiyat dersi var."
+      },
+      {
+        "zh": "语文老师布置了一篇作文。",
+        "pinyin": "Yǔwén lǎoshī bùzhìle yī piān zuòwén.",
+        "en": "Dil ve edebiyat öğretmeni bir kompozisyon ödevi verdi."
+      },
+      {
+        "zh": "语文教材里有很多经典诗歌。",
+        "pinyin": "Yǔwén jiàocái lǐ yǒu hěn duō jīngdiǎn shīgē.",
+        "en": "Dil ve edebiyat ders kitabında birçok klasik şiir var."
+      },
+      {
+        "zh": "他从小对语文很感兴趣。",
+        "pinyin": "Tā cóngxiǎo duì yǔwén hěn gǎn xìngqù.",
+        "en": "O küçüklüğünden beri dil ve edebiyata çok ilgi duyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w7025",
+    "hanzi": "语音",
+    "pinyin": "yǔyīn",
+    "meaning": "telaffuz, ses",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他的语音很标准。",
+        "pinyin": "Tā de yǔyīn hěn biāozhǔn.",
+        "en": "Onun telaffuzu çok standart."
+      },
+      {
+        "zh": "请发一条语音消息给我。",
+        "pinyin": "Qǐng fā yī tiáo yǔyīn xiāoxi gěi wǒ.",
+        "en": "Lütfen bana bir sesli mesaj gönder."
+      },
+      {
+        "zh": "这款手机支持语音输入。",
+        "pinyin": "Zhè kuǎn shǒujī zhīchí yǔyīn shūrù.",
+        "en": "Bu telefon sesli giriş desteğine sahip."
+      },
+      {
+        "zh": "老师纠正了我的语音错误。",
+        "pinyin": "Lǎoshī jiūzhèngle wǒ de yǔyīn cuòwù.",
+        "en": "Öğretmen benim telaffuz hatalarımı düzeltti."
+      },
+      {
+        "zh": "他正在学习正确的语音发音。",
+        "pinyin": "Tā zhèngzài xuéxí zhèngquè de yǔyīn fāyīn.",
+        "en": "O doğru telaffuzu öğreniyor."
+      }
+    ]
+  },
+  {
+    "id": "w7026",
+    "hanzi": "羽毛",
+    "pinyin": "yǔmáo",
+    "meaning": "kuş tüyü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "孔雀的羽毛非常美丽。",
+        "pinyin": "Kǒngquè de yǔmáo fēicháng měilì.",
+        "en": "Tavus kuşunun tüyleri son derece güzeldir."
+      },
+      {
+        "zh": "地上散落着一些鸟的羽毛。",
+        "pinyin": "Dìshàng sànluòzhe yīxiē niǎo de yǔmáo.",
+        "en": "Yerde bazı kuş tüyleri dağılmış durumda."
+      },
+      {
+        "zh": "这个枕头是用羽毛填充的。",
+        "pinyin": "Zhège zhěntou shì yòng yǔmáo tiánchōng de.",
+        "en": "Bu yastık kuş tüyüyle doldurulmuştur."
+      },
+      {
+        "zh": "小鸟的羽毛还没有长全。",
+        "pinyin": "Xiǎoniǎo de yǔmáo hái méiyǒu zhǎng quán.",
+        "en": "Yavru kuşun tüyleri henüz tam çıkmamış."
+      },
+      {
+        "zh": "他收藏了各种鸟类的羽毛。",
+        "pinyin": "Tā shōucángle gèzhǒng niǎolèi de yǔmáo.",
+        "en": "O çeşitli kuş türlerinin tüylerini topluyor."
+      }
+    ]
+  },
+  {
+    "id": "w7027",
+    "hanzi": "育",
+    "pinyin": "yù",
+    "meaning": "doğurmak, yetiştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们养育了三个孩子。",
+        "pinyin": "Tāmen yǎngyùle sān gè háizi.",
+        "en": "Onlar üç çocuk büyüttü."
+      },
+      {
+        "zh": "学校致力于培育优秀人才。",
+        "pinyin": "Xuéxiào zhìlì yú péiyù yōuxiù réncái.",
+        "en": "Okul yetenekli insanlar yetiştirmeye odaklanıyor."
+      },
+      {
+        "zh": "这个国家的教育制度很完善。",
+        "pinyin": "Zhège guójiā de jiàoyù zhìdù hěn wánshàn.",
+        "en": "Bu ülkenin eğitim sistemi çok gelişmiştir."
+      },
+      {
+        "zh": "母鸡在孵育小鸡。",
+        "pinyin": "Mǔjī zài fūyù xiǎojī.",
+        "en": "Tavuk civcivleri kuluçkaya yatırıyor."
+      },
+      {
+        "zh": "她生育了两个女儿。",
+        "pinyin": "Tā shēngyùle liǎng gè nǚ'ér.",
+        "en": "O iki kız çocuğu doğurdu."
+      }
+    ]
+  },
+  {
+    "id": "w7028",
+    "hanzi": "玉",
+    "pinyin": "yù",
+    "meaning": "yeşim taşı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她戴着一条玉项链。",
+        "pinyin": "Tā dàizhe yī tiáo yù xiàngliàn.",
+        "en": "O bir yeşim kolye takıyor."
+      },
+      {
+        "zh": "这块玉雕刻得非常精美。",
+        "pinyin": "Zhè kuài yù diāokè de fēicháng jīngměi.",
+        "en": "Bu yeşim taşı son derece güzel oyulmuş."
+      },
+      {
+        "zh": "他送给妻子一枚玉戒指。",
+        "pinyin": "Tā sòng gěi qīzi yī méi yù jièzhi.",
+        "en": "O eşine bir yeşim yüzük hediye etti."
+      },
+      {
+        "zh": "古代中国人非常喜爱玉。",
+        "pinyin": "Gǔdài Zhōngguórén fēicháng xǐ'ài yù.",
+        "en": "Eski Çinliler yeşim taşını çok severdi."
+      },
+      {
+        "zh": "这座博物馆展出了许多古玉。",
+        "pinyin": "Zhè zuò bówùguǎn zhǎnchūle xǔduō gǔyù.",
+        "en": "Bu müze birçok antik yeşim eseri sergiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7029",
+    "hanzi": "域",
+    "pinyin": "yù",
+    "meaning": "bölge, alan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这属于专业领域的问题。",
+        "pinyin": "Zhè shǔyú zhuānyè lǐngyù de wèntí.",
+        "en": "Bu uzmanlık alanına ait bir sorundur."
+      },
+      {
+        "zh": "他在医学领域颇有建树。",
+        "pinyin": "Tā zài yīxué lǐngyù pōyǒu jiànshù.",
+        "en": "O tıp alanında önemli katkılarda bulundu."
+      },
+      {
+        "zh": "这个区域禁止停车。",
+        "pinyin": "Zhège qūyù jìnzhǐ tíngchē.",
+        "en": "Bu bölgede araç park etmek yasaktır."
+      },
+      {
+        "zh": "他跨越了多个艺术领域。",
+        "pinyin": "Tā kuàyuèle duō gè yìshù lǐngyù.",
+        "en": "O birçok sanat alanını aştı."
+      },
+      {
+        "zh": "水域周围禁止游泳。",
+        "pinyin": "Shuǐyù zhōuwéi jìnzhǐ yóuyǒng.",
+        "en": "Su bölgesi çevresinde yüzmek yasaktır."
+      }
+    ]
+  },
+  {
+    "id": "w7030",
+    "hanzi": "郁闷",
+    "pinyin": "yùmèn",
+    "meaning": "üzüntülü, mutsuz, kasvetli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他今天心情很郁闷。",
+        "pinyin": "Tā jīntiān xīnqíng hěn yùmèn.",
+        "en": "O bugün çok kasvetli hissediyor."
+      },
+      {
+        "zh": "考试失败让她感到郁闷。",
+        "pinyin": "Kǎoshì shībài ràng tā gǎndào yùmèn.",
+        "en": "Sınavda başarısız olmak onu mutsuz etti."
+      }
+    ]
+  },
+  {
+    "id": "w7031",
+    "hanzi": "预定",
+    "pinyin": "yùdìng",
+    "meaning": "önceden ayırtmak, rezervasyon yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "我们预定了一张四人桌。",
+        "pinyin": "Wǒmen yùdìngle yī zhāng sì rén zhuō.",
+        "en": "Dört kişilik bir masa rezerve ettik."
+      },
+      {
+        "zh": "他提前预定了酒店房间。",
+        "pinyin": "Tā tíqián yùdìngle jiǔdiàn fángjiān.",
+        "en": "O önceden otel odası ayırttı."
+      },
+      {
+        "zh": "机票需要提前预定。",
+        "pinyin": "Jīpiào xūyào tíqián yùdìng.",
+        "en": "Uçak biletinin önceden ayırtılması gerekiyor."
+      },
+      {
+        "zh": "这场演出的门票已经预定一空。",
+        "pinyin": "Zhè chǎng yǎnchū de ménpiào yǐjīng yùdìng yīkōng.",
+        "en": "Bu gösterinin biletleri tamamen rezerve edilmiş durumda."
+      },
+      {
+        "zh": "他预定了一份生日蛋糕。",
+        "pinyin": "Tā yùdìngle yī fèn shēngrì dàngāo.",
+        "en": "O bir doğum günü pastası siparişi verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7032",
+    "hanzi": "预付",
+    "pinyin": "yùfù",
+    "meaning": "önceden ödemek, peşin ödemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他预付了一部分房款。",
+        "pinyin": "Tā yùfùle yī bùfen fángkuǎn.",
+        "en": "O ev parasının bir kısmını önceden ödedi."
+      },
+      {
+        "zh": "这项服务需要预付费用。",
+        "pinyin": "Zhè xiàng fúwù xūyào yùfù fèiyòng.",
+        "en": "Bu hizmet için ücretin önceden ödenmesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7033",
+    "hanzi": "预感",
+    "pinyin": "yùgǎn",
+    "meaning": "önsezi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她有一种不祥的预感。",
+        "pinyin": "Tā yǒu yī zhǒng bùxiáng de yùgǎn.",
+        "en": "Onun kötü bir önsezisi var."
+      },
+      {
+        "zh": "我预感这次会成功。",
+        "pinyin": "Wǒ yùgǎn zhè cì huì chénggōng.",
+        "en": "Bu sefer başarılı olacağımızı hissediyorum."
+      },
+      {
+        "zh": "他的预感往往很准。",
+        "pinyin": "Tā de yùgǎn wǎngwǎng hěn zhǔn.",
+        "en": "Onun önsezileri genellikle doğru çıkar."
+      },
+      {
+        "zh": "她隐约有种不安的预感。",
+        "pinyin": "Tā yǐnyuē yǒu zhǒng bù'ān de yùgǎn.",
+        "en": "O belli belirsiz huzursuz bir önsezi hissediyor."
+      },
+      {
+        "zh": "我预感到会有麻烦。",
+        "pinyin": "Wǒ yùgǎndào huì yǒu máfan.",
+        "en": "Sorun olacağını önseziyorum."
+      }
+    ]
+  },
+  {
+    "id": "w7034",
+    "hanzi": "预告",
+    "pinyin": "yùgào",
+    "meaning": "önceden bildirmek, fragman",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "电影预告让人很期待。",
+        "pinyin": "Diànyǐng yùgào ràng rén hěn qídài.",
+        "en": "Film fragmanı insanları çok heyecanlandırıyor."
+      },
+      {
+        "zh": "天气预报预告明天有雨。",
+        "pinyin": "Tiānqì yùbào yùgào míngtiān yǒu yǔ.",
+        "en": "Hava durumu tahmini yarın yağmur olacağını bildiriyor."
+      },
+      {
+        "zh": "他们发布了新专辑的预告。",
+        "pinyin": "Tāmen fābùle xīn zhuānjí de yùgào.",
+        "en": "Onlar yeni albümün tanıtımını yayınladı."
+      },
+      {
+        "zh": "这个消息提前预告了。",
+        "pinyin": "Zhège xiāoxi tíqián yùgào le.",
+        "en": "Bu haber önceden bildirildi."
+      },
+      {
+        "zh": "剧场贴出了下一场演出的预告。",
+        "pinyin": "Jùchǎng tiēchūle xià yī chǎng yǎnchū de yùgào.",
+        "en": "Tiyatro bir sonraki gösterinin duyurusunu astı."
+      }
+    ]
+  },
+  {
+    "id": "w7035",
+    "hanzi": "预计",
+    "pinyin": "yùjì",
+    "meaning": "tahmin etmek, öngörmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "预计明天会下雨。",
+        "pinyin": "Yùjì míngtiān huì xiàyǔ.",
+        "en": "Yarın yağmur yağacağı tahmin ediliyor."
+      },
+      {
+        "zh": "工程预计明年完工。",
+        "pinyin": "Gōngchéng yùjì míngnián wángōng.",
+        "en": "İnşaatın gelecek yıl tamamlanması bekleniyor."
+      },
+      {
+        "zh": "他们预计会有更多的客户。",
+        "pinyin": "Tāmen yùjì huì yǒu gèng duō de kèhù.",
+        "en": "Onlar daha fazla müşteri gelmesini bekliyor."
+      },
+      {
+        "zh": "专家预计经济将持续增长。",
+        "pinyin": "Zhuānjiā yùjì jīngjì jiāng chíxù zēngzhǎng.",
+        "en": "Uzmanlar ekonominin büyümeye devam edeceğini öngörüyor."
+      },
+      {
+        "zh": "会议预计持续两个小时。",
+        "pinyin": "Huìyì yùjì chíxù liǎng gè xiǎoshí.",
+        "en": "Toplantının iki saat süreceği tahmin ediliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7036",
+    "hanzi": "预见",
+    "pinyin": "yùjiàn",
+    "meaning": "önceden görmek, öngörmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "没有人能预见未来。",
+        "pinyin": "Méiyǒu rén néng yùjiàn wèilái.",
+        "en": "Kimse geleceği önceden göremez."
+      },
+      {
+        "zh": "他预见到了这场危机。",
+        "pinyin": "Tā yùjiàn dàole zhè chǎng wēijī.",
+        "en": "O bu krizi önceden görmüştü."
+      }
+    ]
+  },
+  {
+    "id": "w7037",
+    "hanzi": "预料",
+    "pinyin": "yùliào",
+    "meaning": "tahmin etmek, öngörmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "结果出乎大家的预料。",
+        "pinyin": "Jiéguǒ chūhū dàjiā de yùliào.",
+        "en": "Sonuç herkesin beklentisinin dışındaydı."
+      },
+      {
+        "zh": "他早已预料到了这个结果。",
+        "pinyin": "Tā zǎoyǐ yùliào dàole zhège jiéguǒ.",
+        "en": "O bu sonucu çoktan tahmin etmişti."
+      },
+      {
+        "zh": "事情发展和我预料的一样。",
+        "pinyin": "Shìqing fāzhǎn hé wǒ yùliào de yīyàng.",
+        "en": "Olayın gelişimi tahmin ettiğim gibi oldu."
+      },
+      {
+        "zh": "谁也没有预料到会有这样的变化。",
+        "pinyin": "Shéi yě méiyǒu yùliào dào huì yǒu zhèyàng de biànhuà.",
+        "en": "Kimse böyle bir değişiklik olacağını tahmin etmemişti."
+      },
+      {
+        "zh": "他预料这个项目会成功。",
+        "pinyin": "Tā yùliào zhège xiàngmù huì chénggōng.",
+        "en": "O bu projenin başarılı olacağını öngörüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7038",
+    "hanzi": "预期",
+    "pinyin": "yùqī",
+    "meaning": "beklemek, ummak, öngörülen",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个结果符合我们的预期。",
+        "pinyin": "Zhège jiéguǒ fúhé wǒmen de yùqī.",
+        "en": "Bu sonuç beklentilerimize uygun."
+      },
+      {
+        "zh": "销售业绩超出了预期。",
+        "pinyin": "Xiāoshòu yèjì chāochūle yùqī.",
+        "en": "Satış performansı beklentileri aştı."
+      },
+      {
+        "zh": "项目进展不如预期顺利。",
+        "pinyin": "Xiàngmù jìnzhǎn bùrú yùqī shùnlì.",
+        "en": "Proje ilerlemesi beklendiği kadar sorunsuz değil."
+      },
+      {
+        "zh": "他达到了预期的目标。",
+        "pinyin": "Tā dádàole yùqī de mùbiāo.",
+        "en": "O öngörülen hedefe ulaştı."
+      },
+      {
+        "zh": "市场反应低于预期。",
+        "pinyin": "Shìchǎng fǎnyìng dīyú yùqī.",
+        "en": "Piyasa tepkisi beklenenin altında kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7039",
+    "hanzi": "预算",
+    "pinyin": "yùsuàn",
+    "meaning": "bütçe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "公司制定了年度预算。",
+        "pinyin": "Gōngsī zhìdìngle niándù yùsuàn.",
+        "en": "Şirket yıllık bütçeyi belirledi."
+      },
+      {
+        "zh": "这个项目超出了预算。",
+        "pinyin": "Zhège xiàngmù chāochūle yùsuàn.",
+        "en": "Bu proje bütçeyi aştı."
+      },
+      {
+        "zh": "我们需要控制家庭预算。",
+        "pinyin": "Wǒmen xūyào kòngzhì jiātíng yùsuàn.",
+        "en": "Aile bütçemizi kontrol etmemiz gerekiyor."
+      },
+      {
+        "zh": "政府批准了新的预算方案。",
+        "pinyin": "Zhèngfǔ pīzhǔnle xīn de yùsuàn fāng'àn.",
+        "en": "Hükümet yeni bütçe planını onayladı."
+      },
+      {
+        "zh": "他的预算有限,只能买便宜的。",
+        "pinyin": "Tā de yùsuàn yǒuxiàn, zhǐ néng mǎi piányi de.",
+        "en": "Onun bütçesi sınırlı, sadece ucuz olanı alabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7040",
+    "hanzi": "预先",
+    "pinyin": "yùxiān",
+    "meaning": "önceden",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "请预先通知我们。",
+        "pinyin": "Qǐng yùxiān tōngzhī wǒmen.",
+        "en": "Lütfen bize önceden haber verin."
+      },
+      {
+        "zh": "他预先做好了准备。",
+        "pinyin": "Tā yùxiān zuò hǎole zhǔnbèi.",
+        "en": "O önceden hazırlıklarını tamamladı."
+      },
+      {
+        "zh": "这些问题需要预先考虑。",
+        "pinyin": "Zhèxiē wèntí xūyào yùxiān kǎolǜ.",
+        "en": "Bu sorunların önceden düşünülmesi gerekiyor."
+      },
+      {
+        "zh": "请预先支付一部分定金。",
+        "pinyin": "Qǐng yùxiān zhīfù yī bùfen dìngjīn.",
+        "en": "Lütfen önceden bir miktar depozito ödeyin."
+      },
+      {
+        "zh": "计划已预先制定好了。",
+        "pinyin": "Jìhuà yǐ yùxiān zhìdìng hǎo le.",
+        "en": "Plan önceden belirlendi."
+      }
+    ]
+  },
+  {
+    "id": "w7041",
+    "hanzi": "预言",
+    "pinyin": "yùyán",
+    "meaning": "kehanet etmek, önceden tahmin etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他预言了这个技术的未来。",
+        "pinyin": "Tā yùyánle zhège jìshù de wèilái.",
+        "en": "O bu teknolojinin geleceğini önceden tahmin etti."
+      },
+      {
+        "zh": "这个古老的预言最终实现了。",
+        "pinyin": "Zhège gǔlǎo de yùyán zuìzhōng shíxiàn le.",
+        "en": "Bu eski kehanet sonunda gerçekleşti."
+      },
+      {
+        "zh": "专家预言经济将出现衰退。",
+        "pinyin": "Zhuānjiā yùyán jīngjì jiāng chūxiàn shuāituì.",
+        "en": "Uzmanlar ekonomide bir gerileme yaşanacağını öngörüyor."
+      },
+      {
+        "zh": "他的预言常常应验。",
+        "pinyin": "Tā de yùyán chángcháng yìngyàn.",
+        "en": "Onun kehanetleri sık sık gerçekleşir."
+      },
+      {
+        "zh": "很多科幻小说预言了未来的科技。",
+        "pinyin": "Hěn duō kēhuàn xiǎoshuō yùyánle wèilái de kējì.",
+        "en": "Birçok bilim kurgu romanı geleceğin teknolojisini öngördü."
+      }
+    ]
+  },
+  {
+    "id": "w7042",
+    "hanzi": "预约",
+    "pinyin": "yùyuē",
+    "meaning": "randevu almak, önceden anlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "我预约了明天的门诊。",
+        "pinyin": "Wǒ yùyuēle míngtiān de ménzhěn.",
+        "en": "Yarın için poliklinik randevusu aldım."
+      },
+      {
+        "zh": "请提前预约理发时间。",
+        "pinyin": "Qǐng tíqián yùyuē lǐfà shíjiān.",
+        "en": "Lütfen saç kesimi için önceden randevu alın."
+      },
+      {
+        "zh": "这家餐厅需要提前预约。",
+        "pinyin": "Zhè jiā cāntīng xūyào tíqián yùyuē.",
+        "en": "Bu restoranın önceden rezervasyon yapılması gerekiyor."
+      },
+      {
+        "zh": "他预约了牙医。",
+        "pinyin": "Tā yùyuēle yáyī.",
+        "en": "O diş hekiminden randevu aldı."
+      },
+      {
+        "zh": "预约成功后会收到确认短信。",
+        "pinyin": "Yùyuē chénggōng hòu huì shōudào quèrèn duǎnxìn.",
+        "en": "Randevu başarılı olduktan sonra onay SMS'i alacaksınız."
+      }
+    ]
+  },
+  {
+    "id": "w7043",
+    "hanzi": "欲望",
+    "pinyin": "yùwàng",
+    "meaning": "arzu, istek, hırs",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他内心充满了成功的欲望。",
+        "pinyin": "Tā nèixīn chōngmǎnle chénggōng de yùwàng.",
+        "en": "Onun içi başarı arzusuyla dolu."
+      },
+      {
+        "zh": "适度的欲望能激励人前进。",
+        "pinyin": "Shìdù de yùwàng néng jīlì rén qiánjìn.",
+        "en": "Ölçülü bir arzu insanı ilerlemeye teşvik edebilir."
+      },
+      {
+        "zh": "他的购买欲望很强。",
+        "pinyin": "Tā de gòumǎi yùwàng hěn qiáng.",
+        "en": "Onun satın alma arzusu çok güçlü."
+      },
+      {
+        "zh": "过度的欲望会带来痛苦。",
+        "pinyin": "Guòdù de yùwàng huì dàilái tòngkǔ.",
+        "en": "Aşırı arzu acı getirebilir."
+      },
+      {
+        "zh": "她克制住了购物的欲望。",
+        "pinyin": "Tā kèzhì zhùle gòuwù de yùwàng.",
+        "en": "O alışveriş arzusunu bastırdı."
+      }
+    ]
+  },
+  {
+    "id": "w7044",
+    "hanzi": "愈合",
+    "pinyin": "yùhé",
+    "meaning": "iyileşmek, kapanmak (yara)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "伤口正在慢慢愈合。",
+        "pinyin": "Shāngkǒu zhèngzài mànman yùhé.",
+        "en": "Yara yavaş yavaş iyileşiyor."
+      },
+      {
+        "zh": "手术后的伤口需要时间愈合。",
+        "pinyin": "Shǒushù hòu de shāngkǒu xūyào shíjiān yùhé.",
+        "en": "Ameliyattan sonraki yaranın iyileşmesi zaman alır."
+      }
+    ]
+  },
+  {
+    "id": "w7045",
+    "hanzi": "元气",
+    "pinyin": "yuánqì",
+    "meaning": "canlılık, güç, hayatiyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "手术后他需要恢复元气。",
+        "pinyin": "Shǒushù hòu tā xūyào huīfù yuánqì.",
+        "en": "Ameliyattan sonra onun canlılığını geri kazanması gerekiyor."
+      },
+      {
+        "zh": "这场失败大伤了公司的元气。",
+        "pinyin": "Zhè chǎng shībài dà shāngle gōngsī de yuánqì.",
+        "en": "Bu başarısızlık şirketin gücünü ciddi şekilde sarstı."
+      }
+    ]
   }
 ]

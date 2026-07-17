@@ -241072,5 +241072,863 @@
         "en": "Yeni politika vergi oranını belirledi."
       }
     ]
+  },
+  {
+    "id": "w7295",
+    "hanzi": "征税",
+    "pinyin": "zhēngshuì",
+    "meaning": "vergi almak, vergi toplamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府对进口商品征税。",
+        "pinyin": "Zhèngfǔ duì jìnkǒu shāngpǐn zhēngshuì.",
+        "en": "Hükümet ithal ürünlerden vergi alıyor."
+      },
+      {
+        "zh": "这项政策规定不再征税。",
+        "pinyin": "Zhè xiàng zhèngcè guīdìng bú zài zhēngshuì.",
+        "en": "Bu politikaya göre artık vergi alınmıyor."
+      },
+      {
+        "zh": "各国征税标准不同。",
+        "pinyin": "Gèguó zhēngshuì biāozhǔn bùtóng.",
+        "en": "Ülkelerin vergilendirme standartları farklıdır."
+      },
+      {
+        "zh": "新公司享有免税优惠，暂不征税。",
+        "pinyin": "Xīn gōngsī xiǎngyǒu miǎnshuì yōuhuì, zàn bù zhēngshuì.",
+        "en": "Yeni şirket vergi muafiyetinden yararlanıyor, şimdilik vergi alınmıyor."
+      },
+      {
+        "zh": "政府决定对高收入者多征税。",
+        "pinyin": "Zhèngfǔ juédìng duì gāo shōurù zhě duō zhēngshuì.",
+        "en": "Hükümet yüksek gelirlilerden daha fazla vergi almaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7296",
+    "hanzi": "征途",
+    "pinyin": "zhēngtú",
+    "meaning": "uzun yolculuk, sefer",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他踏上了新的征途。",
+        "pinyin": "Tā tàshàngle xīn de zhēngtú.",
+        "en": "Yeni bir yolculuğa çıktı."
+      },
+      {
+        "zh": "创业的征途充满艰辛。",
+        "pinyin": "Chuàngyè de zhēngtú chōngmǎn jiānxīn.",
+        "en": "Girişimcilik yolculuğu zorluklarla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w7297",
+    "hanzi": "征询",
+    "pinyin": "zhēngxún",
+    "meaning": "görüş sormak, danışmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "公司征询了员工的意见。",
+        "pinyin": "Gōngsī zhēngxúnle yuángōng de yìjiàn.",
+        "en": "Şirket çalışanların görüşünü aldı."
+      },
+      {
+        "zh": "医生征询了病人的意愿。",
+        "pinyin": "Yīshēng zhēngxúnle bìngrén de yìyuàn.",
+        "en": "Doktor hastanın isteğini sordu."
+      },
+      {
+        "zh": "决定前应先征询专家意见。",
+        "pinyin": "Juédìng qián yīng xiān zhēngxún zhuānjiā yìjiàn.",
+        "en": "Karar vermeden önce uzman görüşü alınmalı."
+      },
+      {
+        "zh": "学校向家长征询建议。",
+        "pinyin": "Xuéxiào xiàng jiāzhǎng zhēngxún jiànyì.",
+        "en": "Okul velilerden öneri istiyor."
+      },
+      {
+        "zh": "我们需要征询更多人的看法。",
+        "pinyin": "Wǒmen xūyào zhēngxún gèng duō rén de kànfǎ.",
+        "en": "Daha fazla kişinin görüşünü almamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7298",
+    "hanzi": "征用",
+    "pinyin": "zhēngyòng",
+    "meaning": "kamulaştırmak, el koymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这块土地被政府征用了。",
+        "pinyin": "Zhè kuài tǔdì bèi zhèngfǔ zhēngyòng le.",
+        "en": "Bu arazi hükümet tarafından kamulaştırıldı."
+      },
+      {
+        "zh": "战时车辆常被征用。",
+        "pinyin": "Zhànshí chēliàng cháng bèi zhēngyòng.",
+        "en": "Savaş zamanında araçlara sıkça el konurdu."
+      }
+    ]
+  },
+  {
+    "id": "w7299",
+    "hanzi": "征战",
+    "pinyin": "zhēngzhàn",
+    "meaning": "sefere çıkmak, savaşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "将军常年在外征战。",
+        "pinyin": "Jiāngjūn chángnián zài wài zhēngzhàn.",
+        "en": "General yıllarca dışarıda sefer düzenledi."
+      },
+      {
+        "zh": "他一生征战沙场。",
+        "pinyin": "Tā yìshēng zhēngzhàn shāchǎng.",
+        "en": "Hayatı boyunca savaş meydanlarında mücadele etti."
+      }
+    ]
+  },
+  {
+    "id": "w7300",
+    "hanzi": "征召",
+    "pinyin": "zhēngzhào",
+    "meaning": "askere çağırmak, göreve çağırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被征召入伍。",
+        "pinyin": "Tā bèi zhēngzhào rùwǔ.",
+        "en": "Askere çağrıldı ve orduya katıldı."
+      },
+      {
+        "zh": "国家征召了大批志愿者。",
+        "pinyin": "Guójiā zhēngzhàole dàpī zhìyuànzhě.",
+        "en": "Devlet çok sayıda gönüllüyü göreve çağırdı."
+      }
+    ]
+  },
+  {
+    "id": "w7301",
+    "hanzi": "征兆",
+    "pinyin": "zhēngzhào",
+    "meaning": "alamet, işaret",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "天空的乌云是暴风雨的征兆。",
+        "pinyin": "Tiānkōng de wūyún shì bàofēngyǔ de zhēngzhào.",
+        "en": "Gökyüzündeki kara bulutlar fırtınanın habercisi."
+      },
+      {
+        "zh": "这是经济好转的征兆。",
+        "pinyin": "Zhè shì jīngjì hǎozhuǎn de zhēngzhào.",
+        "en": "Bu ekonomik iyileşmenin bir işaretidir."
+      },
+      {
+        "zh": "医生说这些症状没有危险征兆。",
+        "pinyin": "Yīshēng shuō zhèxiē zhèngzhuàng méiyǒu wēixiǎn zhēngzhào.",
+        "en": "Doktor bu belirtilerde tehlikeli bir işaret olmadığını söyledi."
+      },
+      {
+        "zh": "他的行为透露出不安的征兆。",
+        "pinyin": "Tā de xíngwéi tòulù chū bù'ān de zhēngzhào.",
+        "en": "Davranışları huzursuzluğun işaretlerini gösteriyor."
+      },
+      {
+        "zh": "没有任何征兆表明事情会这样发展。",
+        "pinyin": "Méiyǒu rènhé zhēngzhào biǎomíng shìqing huì zhèyàng fāzhǎn.",
+        "en": "İşin bu şekilde gelişeceğine dair hiçbir işaret yoktu."
+      }
+    ]
+  },
+  {
+    "id": "w7302",
+    "hanzi": "挣扎",
+    "pinyin": "zhēngzhá",
+    "meaning": "çabalamak, mücadele etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在水里拼命挣扎。",
+        "pinyin": "Tā zài shuǐ lǐ pīnmìng zhēngzhá.",
+        "en": "Suda hayatta kalmak için çırpınıyordu."
+      },
+      {
+        "zh": "公司在困境中苦苦挣扎。",
+        "pinyin": "Gōngsī zài kùnjìng zhōng kǔkǔ zhēngzhá.",
+        "en": "Şirket zor durumda çabalayıp duruyor."
+      },
+      {
+        "zh": "他内心挣扎了很久才做出决定。",
+        "pinyin": "Tā nèixīn zhēngzhále hěn jiǔ cái zuòchū juédìng.",
+        "en": "İçten içe uzun süre çırpındıktan sonra karar verdi."
+      },
+      {
+        "zh": "病人在病床上艰难地挣扎。",
+        "pinyin": "Bìngrén zài bìngchuáng shàng jiānnán de zhēngzhá.",
+        "en": "Hasta yatakta zorlukla mücadele ediyordu."
+      },
+      {
+        "zh": "他放弃了无谓的挣扎。",
+        "pinyin": "Tā fàngqìle wúwèi de zhēngzhá.",
+        "en": "Anlamsız mücadeleden vazgeçti."
+      }
+    ]
+  },
+  {
+    "id": "w7303",
+    "hanzi": "峥嵘",
+    "pinyin": "zhēngróng",
+    "meaning": "sıra dışı, göze çarpan, olağanüstü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他度过了峥嵘岁月。",
+        "pinyin": "Tā dùguòle zhēngróng suìyuè.",
+        "en": "Olağanüstü, zorlu yıllar geçirdi."
+      },
+      {
+        "zh": "群山峥嵘，气势雄伟。",
+        "pinyin": "Qúnshān zhēngróng, qìshì xióngwěi.",
+        "en": "Dağlar sarp ve görkemliydi."
+      }
+    ]
+  },
+  {
+    "id": "w7304",
+    "hanzi": "狰狞",
+    "pinyin": "zhēngníng",
+    "meaning": "vahşi, ürkütücü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他露出了狰狞的表情。",
+        "pinyin": "Tā lùchūle zhēngníng de biǎoqíng.",
+        "en": "Ürkütücü bir ifade takındı."
+      },
+      {
+        "zh": "那张脸看起来十分狰狞。",
+        "pinyin": "Nà zhāng liǎn kànqǐlái shífēn zhēngníng.",
+        "en": "O yüz oldukça ürkütücü görünüyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7305",
+    "hanzi": "蒸",
+    "pinyin": "zhēng",
+    "meaning": "buharda pişirmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Yemek",
+    "examples": [
+      {
+        "zh": "妈妈在蒸包子。",
+        "pinyin": "Māma zài zhēng bāozi.",
+        "en": "Annem mantı buharda pişiriyor."
+      },
+      {
+        "zh": "这条鱼要蒸十分钟。",
+        "pinyin": "Zhè tiáo yú yào zhēng shí fēnzhōng.",
+        "en": "Bu balığın on dakika buharda pişmesi gerekiyor."
+      },
+      {
+        "zh": "蒸米饭比炒饭更健康。",
+        "pinyin": "Zhēng mǐfàn bǐ chǎofàn gèng jiànkāng.",
+        "en": "Buharda pişirilen pilav kızartmadan daha sağlıklıdır."
+      },
+      {
+        "zh": "他用蒸锅蒸鸡蛋羹。",
+        "pinyin": "Tā yòng zhēngguō zhēng jīdàngēng.",
+        "en": "Buharlı tencerede yumurta pudingi pişiriyor."
+      },
+      {
+        "zh": "夏天蒸桑拿很受欢迎。",
+        "pinyin": "Xiàtiān zhēng sāngná hěn shòu huānyíng.",
+        "en": "Yazın sauna yapmak çok popüler."
+      }
+    ]
+  },
+  {
+    "id": "w7306",
+    "hanzi": "蒸发",
+    "pinyin": "zhēngfā",
+    "meaning": "buharlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "水在阳光下慢慢蒸发。",
+        "pinyin": "Shuǐ zài yángguāng xià mànmàn zhēngfā.",
+        "en": "Su güneş ışığında yavaş yavaş buharlaşıyor."
+      },
+      {
+        "zh": "气温越高，水蒸发得越快。",
+        "pinyin": "Qìwēn yuè gāo, shuǐ zhēngfā de yuè kuài.",
+        "en": "Sıcaklık ne kadar yüksekse, su o kadar hızlı buharlaşır."
+      },
+      {
+        "zh": "他的积蓄好像蒸发了一样消失了。",
+        "pinyin": "Tā de jīxù hǎoxiàng zhēngfāle yíyàng xiāoshī le.",
+        "en": "Birikimleri sanki buharlaşmış gibi kayboldu."
+      },
+      {
+        "zh": "湖水在夏天大量蒸发。",
+        "pinyin": "Húshuǐ zài xiàtiān dàliàng zhēngfā.",
+        "en": "Göl suyu yazın büyük oranda buharlaşır."
+      },
+      {
+        "zh": "汗水蒸发能帮助身体降温。",
+        "pinyin": "Hànshuǐ zhēngfā néng bāngzhù shēntǐ jiàngwēn.",
+        "en": "Terin buharlaşması vücudun soğumasına yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w7307",
+    "hanzi": "蒸馏",
+    "pinyin": "zhēngliú",
+    "meaning": "damıtmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "实验室用蒸馏法提纯水。",
+        "pinyin": "Shíyànshì yòng zhēngliúfǎ tíchún shuǐ.",
+        "en": "Laboratuvar suyu saflaştırmak için damıtma yöntemini kullanıyor."
+      },
+      {
+        "zh": "白酒是通过蒸馏制成的。",
+        "pinyin": "Báijiǔ shì tōngguò zhēngliú zhìchéng de.",
+        "en": "Baijiu damıtma yoluyla yapılır."
+      }
+    ]
+  },
+  {
+    "id": "w7308",
+    "hanzi": "蒸汽",
+    "pinyin": "zhēngqì",
+    "meaning": "buhar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "蒸汽从锅盖缝隙冒出来。",
+        "pinyin": "Zhēngqì cóng guōgài fèngxì mào chūlái.",
+        "en": "Buhar tencere kapağının aralığından çıkıyor."
+      },
+      {
+        "zh": "蒸汽机是工业革命的重要发明。",
+        "pinyin": "Zhēngqìjī shì gōngyè gémìng de zhòngyào fāmíng.",
+        "en": "Buharlı makine, sanayi devriminin önemli bir icadıdır."
+      },
+      {
+        "zh": "浴室里充满了蒸汽。",
+        "pinyin": "Yùshì lǐ chōngmǎnle zhēngqì.",
+        "en": "Banyo buharla doldu."
+      },
+      {
+        "zh": "蒸汽熨斗能更快熨平衣服。",
+        "pinyin": "Zhēngqì yùndǒu néng gèng kuài yùnpíng yīfu.",
+        "en": "Buharlı ütü kıyafetleri daha hızlı düzleştirebilir."
+      },
+      {
+        "zh": "小心，锅里冒出的蒸汽很烫。",
+        "pinyin": "Xiǎoxīn, guō lǐ mào chū de zhēngqì hěn tàng.",
+        "en": "Dikkat, tencereden çıkan buhar çok sıcak."
+      }
+    ]
+  },
+  {
+    "id": "w7309",
+    "hanzi": "蒸蒸日上",
+    "pinyin": "zhēngzhēngrìshàng",
+    "meaning": "günden güne gelişmek, yükselen bir gidişat içinde olmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "公司的业务蒸蒸日上。",
+        "pinyin": "Gōngsī de yèwù zhēngzhēngrìshàng.",
+        "en": "Şirketin işleri günden güne gelişiyor."
+      },
+      {
+        "zh": "祝你的事业蒸蒸日上！",
+        "pinyin": "Zhù nǐ de shìyè zhēngzhēngrìshàng!",
+        "en": "Kariyerinin gün geçtikçe yükselmesini dilerim!"
+      }
+    ]
+  },
+  {
+    "id": "w7310",
+    "hanzi": "整",
+    "pinyin": "zhěng",
+    "meaning": "tam, bütün; düzenli",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他整天都在工作。",
+        "pinyin": "Tā zhěng tiān dōu zài gōngzuò.",
+        "en": "Bütün gün çalışıyor."
+      },
+      {
+        "zh": "这些书摆放得整整齐齐。",
+        "pinyin": "Zhèxiē shū bǎifàng de zhěngzhěngqíqí.",
+        "en": "Bu kitaplar düzenli bir şekilde dizilmiş."
+      },
+      {
+        "zh": "我们整整走了三个小时。",
+        "pinyin": "Wǒmen zhěngzhěng zǒule sān gè xiǎoshí.",
+        "en": "Tam üç saat yürüdük."
+      },
+      {
+        "zh": "他的房间收拾得很整。",
+        "pinyin": "Tā de fángjiān shōushi de hěn zhěng.",
+        "en": "Odasını çok düzenli toplamış."
+      },
+      {
+        "zh": "这本书整本都很有意思。",
+        "pinyin": "Zhè běn shū zhěng běn dōu hěn yǒu yìsi.",
+        "en": "Bu kitabın tamamı çok ilginç."
+      }
+    ]
+  },
+  {
+    "id": "w7311",
+    "hanzi": "整数",
+    "pinyin": "zhěngshù",
+    "meaning": "tam sayı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "五和十都是整数。",
+        "pinyin": "Wǔ hé shí dōu shì zhěngshù.",
+        "en": "Beş ve on ikisi de tam sayıdır."
+      },
+      {
+        "zh": "请把结果四舍五入到整数。",
+        "pinyin": "Qǐng bǎ jiéguǒ sìshěwǔrù dào zhěngshù.",
+        "en": "Lütfen sonucu en yakın tam sayıya yuvarlayın."
+      },
+      {
+        "zh": "价格已经调整为整数。",
+        "pinyin": "Jiàgé yǐjīng tiáozhěng wéi zhěngshù.",
+        "en": "Fiyat tam sayı olacak şekilde ayarlandı."
+      },
+      {
+        "zh": "老师教我们认识整数和小数。",
+        "pinyin": "Lǎoshī jiāo wǒmen rènshi zhěngshù hé xiǎoshù.",
+        "en": "Öğretmen bize tam sayıları ve ondalık sayıları öğretiyor."
+      },
+      {
+        "zh": "这个答案不是整数。",
+        "pinyin": "Zhège dá'àn bú shì zhěngshù.",
+        "en": "Bu cevap tam sayı değil."
+      }
+    ]
+  },
+  {
+    "id": "w7312",
+    "hanzi": "整套",
+    "pinyin": "zhěngtào",
+    "meaning": "tam takım, komple",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他买了一整套家具。",
+        "pinyin": "Tā mǎile yì zhěngtào jiājù.",
+        "en": "Komple bir mobilya takımı aldı."
+      },
+      {
+        "zh": "这是一整套教材。",
+        "pinyin": "Zhè shì yì zhěngtào jiàocái.",
+        "en": "Bu tam bir ders kitabı seti."
+      },
+      {
+        "zh": "公司提供整套解决方案。",
+        "pinyin": "Gōngsī tígōng zhěngtào jiějué fāng'àn.",
+        "en": "Şirket komple bir çözüm sunuyor."
+      },
+      {
+        "zh": "他花高价买了整套茶具。",
+        "pinyin": "Tā huā gāo jià mǎile zhěngtào chájù.",
+        "en": "Yüksek bir fiyata tam takım çay seti satın aldı."
+      },
+      {
+        "zh": "我们设计了整套培训流程。",
+        "pinyin": "Wǒmen shèjìle zhěngtào péixùn liúchéng.",
+        "en": "Komple bir eğitim süreci tasarladık."
+      }
+    ]
+  },
+  {
+    "id": "w7313",
+    "hanzi": "整形",
+    "pinyin": "zhěngxíng",
+    "meaning": "estetik ameliyat yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她去医院做了整形手术。",
+        "pinyin": "Tā qù yīyuàn zuòle zhěngxíng shǒushù.",
+        "en": "Hastaneye gidip estetik ameliyat oldu."
+      },
+      {
+        "zh": "整形外科越来越受欢迎。",
+        "pinyin": "Zhěngxíng wàikē yuèláiyuè shòu huānyíng.",
+        "en": "Plastik cerrahi giderek daha popüler oluyor."
+      },
+      {
+        "zh": "他的鼻子经过整形变得更挺了。",
+        "pinyin": "Tā de bízi jīngguò zhěngxíng biàn de gèng tǐng le.",
+        "en": "Burnu estetik ameliyat sonrası daha düzgün oldu."
+      },
+      {
+        "zh": "整形手术存在一定风险。",
+        "pinyin": "Zhěngxíng shǒushù cúnzài yídìng fēngxiǎn.",
+        "en": "Estetik ameliyatların belirli riskleri vardır."
+      },
+      {
+        "zh": "她想整形改善自己的容貌。",
+        "pinyin": "Tā xiǎng zhěngxíng gǎishàn zìjǐ de róngmào.",
+        "en": "Görünüşünü iyileştirmek için estetik ameliyat olmak istiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7314",
+    "hanzi": "整修",
+    "pinyin": "zhěngxiū",
+    "meaning": "onarmak, yenilemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这条路正在整修。",
+        "pinyin": "Zhè tiáo lù zhèngzài zhěngxiū.",
+        "en": "Bu yol şu anda onarılıyor."
+      },
+      {
+        "zh": "他们整修了老房子。",
+        "pinyin": "Tāmen zhěngxiūle lǎo fángzi.",
+        "en": "Eski evi yenilediler."
+      },
+      {
+        "zh": "公园经过整修变得更漂亮了。",
+        "pinyin": "Gōngyuán jīngguò zhěngxiū biàn de gèng piàoliang le.",
+        "en": "Park yenilendikten sonra daha güzel oldu."
+      },
+      {
+        "zh": "学校暑假期间整修教学楼。",
+        "pinyin": "Xuéxiào shǔjià qījiān zhěngxiū jiàoxuélóu.",
+        "en": "Okul, yaz tatilinde ders binasını onarıyor."
+      },
+      {
+        "zh": "这座桥急需整修。",
+        "pinyin": "Zhè zuò qiáo jíxū zhěngxiū.",
+        "en": "Bu köprünün acilen onarılması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7315",
+    "hanzi": "整整",
+    "pinyin": "zhěngzhěng",
+    "meaning": "tastamam, tam olarak",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他等了整整一个小时。",
+        "pinyin": "Tā děngle zhěngzhěng yí gè xiǎoshí.",
+        "en": "Tam bir saat bekledi."
+      },
+      {
+        "zh": "这个项目整整花了一年时间。",
+        "pinyin": "Zhège xiàngmù zhěngzhěng huāle yì nián shíjiān.",
+        "en": "Bu proje tam bir yıl sürdü."
+      },
+      {
+        "zh": "他整整胖了十斤。",
+        "pinyin": "Tā zhěngzhěng pàngle shí jīn.",
+        "en": "Tam beş kilo aldı."
+      },
+      {
+        "zh": "会议整整开了三天。",
+        "pinyin": "Huìyì zhěngzhěng kāile sān tiān.",
+        "en": "Toplantı tam üç gün sürdü."
+      },
+      {
+        "zh": "他们分别了整整十年。",
+        "pinyin": "Tāmen fēnbiéle zhěngzhěng shí nián.",
+        "en": "Tam on yıl ayrı kaldılar."
+      }
+    ]
+  },
+  {
+    "id": "w7316",
+    "hanzi": "整治",
+    "pinyin": "zhěngzhì",
+    "meaning": "düzeltmek, ıslah etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "政府正在整治环境污染问题。",
+        "pinyin": "Zhèngfǔ zhèngzài zhěngzhì huánjìng wūrǎn wèntí.",
+        "en": "Hükümet çevre kirliliği sorununu düzeltmeye çalışıyor."
+      },
+      {
+        "zh": "市里整治了交通秩序。",
+        "pinyin": "Shì lǐ zhěngzhìle jiāotōng zhìxù.",
+        "en": "Şehir, trafik düzenini düzeltti."
+      },
+      {
+        "zh": "学校整治了校园周边环境。",
+        "pinyin": "Xuéxiào zhěngzhìle xiàoyuán zhōubiān huánjìng.",
+        "en": "Okul, kampüs çevresini düzenledi."
+      },
+      {
+        "zh": "这条河经过整治变干净了。",
+        "pinyin": "Zhè tiáo hé jīngguò zhěngzhì biàn gānjìng le.",
+        "en": "Bu nehir ıslah edildikten sonra temizlendi."
+      },
+      {
+        "zh": "他决心整治不良习惯。",
+        "pinyin": "Tā juéxīn zhěngzhì bùliáng xíguàn.",
+        "en": "Kötü alışkanlıklarını düzeltmeye kararlı."
+      }
+    ]
+  },
+  {
+    "id": "w7317",
+    "hanzi": "拯救",
+    "pinyin": "zhěngjiù",
+    "meaning": "kurtarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "医生拯救了他的生命。",
+        "pinyin": "Yīshēng zhěngjiùle tā de shēngmìng.",
+        "en": "Doktor onun hayatını kurtardı."
+      },
+      {
+        "zh": "我们必须拯救这片森林。",
+        "pinyin": "Wǒmen bìxū zhěngjiù zhè piàn sēnlín.",
+        "en": "Bu ormanı kurtarmalıyız."
+      },
+      {
+        "zh": "他挺身而出拯救了落水儿童。",
+        "pinyin": "Tā tǐngshēn ér chū zhěngjiùle luòshuǐ értóng.",
+        "en": "Öne çıkarak suya düşen çocuğu kurtardı."
+      },
+      {
+        "zh": "科学家们努力拯救濒危物种。",
+        "pinyin": "Kēxuéjiāmen nǔlì zhěngjiù bīnwēi wùzhǒng.",
+        "en": "Bilim insanları nesli tükenmekte olan türleri kurtarmaya çalışıyor."
+      },
+      {
+        "zh": "这笔资金拯救了濒临破产的公司。",
+        "pinyin": "Zhè bǐ zījīn zhěngjiùle bīnlín pòchǎn de gōngsī.",
+        "en": "Bu fon, iflasın eşiğindeki şirketi kurtardı."
+      }
+    ]
+  },
+  {
+    "id": "w7318",
+    "hanzi": "正版",
+    "pinyin": "zhèngbǎn",
+    "meaning": "orijinal kopya, lisanslı ürün",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请购买正版软件。",
+        "pinyin": "Qǐng gòumǎi zhèngbǎn ruǎnjiàn.",
+        "en": "Lütfen orijinal yazılım satın alın."
+      },
+      {
+        "zh": "这本书是正版还是盗版？",
+        "pinyin": "Zhè běn shū shì zhèngbǎn háishi dàobǎn?",
+        "en": "Bu kitap orijinal mi yoksa korsan mı?"
+      },
+      {
+        "zh": "正版光盘的质量更好。",
+        "pinyin": "Zhèngbǎn guāngpán de zhìliàng gèng hǎo.",
+        "en": "Orijinal CD'nin kalitesi daha iyidir."
+      },
+      {
+        "zh": "他坚持只用正版产品。",
+        "pinyin": "Tā jiānchí zhǐ yòng zhèngbǎn chǎnpǐn.",
+        "en": "Sadece orijinal ürün kullanmakta ısrar ediyor."
+      },
+      {
+        "zh": "支持正版，拒绝盗版。",
+        "pinyin": "Zhīchí zhèngbǎn, jùjué dàobǎn.",
+        "en": "Orijinali destekle, korsanı reddet."
+      }
+    ]
+  },
+  {
+    "id": "w7319",
+    "hanzi": "正比",
+    "pinyin": "zhèngbǐ",
+    "meaning": "doğru orantı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "收入和努力成正比。",
+        "pinyin": "Shōurù hé nǔlì chéng zhèngbǐ.",
+        "en": "Gelir çabayla doğru orantılıdır."
+      },
+      {
+        "zh": "速度和时间不一定成正比。",
+        "pinyin": "Sùdù hé shíjiān bù yídìng chéng zhèngbǐ.",
+        "en": "Hız ve zaman her zaman doğru orantılı olmayabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7320",
+    "hanzi": "正餐",
+    "pinyin": "zhèngcān",
+    "meaning": "ana yemek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yemek",
+    "examples": [
+      {
+        "zh": "晚上七点是正餐时间。",
+        "pinyin": "Wǎnshang qī diǎn shì zhèngcān shíjiān.",
+        "en": "Akşam yedi ana yemek saatidir."
+      },
+      {
+        "zh": "这只是零食，不是正餐。",
+        "pinyin": "Zhè zhǐshì língshí, bú shì zhèngcān.",
+        "en": "Bu sadece atıştırmalık, ana yemek değil."
+      },
+      {
+        "zh": "飞机上会提供一顿正餐。",
+        "pinyin": "Fēijī shàng huì tígōng yí dùn zhèngcān.",
+        "en": "Uçakta bir ana öğün verilecek."
+      },
+      {
+        "zh": "他喜欢在正餐前喝汤。",
+        "pinyin": "Tā xǐhuan zài zhèngcān qián hē tāng.",
+        "en": "Ana yemekten önce çorba içmeyi sever."
+      },
+      {
+        "zh": "西式正餐通常有几道菜。",
+        "pinyin": "Xīshì zhèngcān tōngcháng yǒu jǐ dào cài.",
+        "en": "Batı tarzı ana yemekler genellikle birkaç kaptan oluşur."
+      }
+    ]
+  },
+  {
+    "id": "w7321",
+    "hanzi": "正大",
+    "pinyin": "zhèngdà",
+    "meaning": "dürüst, adil (光明正大)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人光明正大。",
+        "pinyin": "Tā wéirén guāngmíng-zhèngdà.",
+        "en": "O dürüst ve adil bir insandır."
+      },
+      {
+        "zh": "我们要正大光明地做事。",
+        "pinyin": "Wǒmen yào zhèngdà-guāngmíng de zuòshì.",
+        "en": "İşleri açık ve dürüst bir şekilde yapmalıyız."
+      }
+    ]
+  },
+  {
+    "id": "w7322",
+    "hanzi": "正当",
+    "pinyin": "zhèngdāng",
+    "meaning": "tam o sırada, ...yaparken",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "正当他要出门时，电话响了。",
+        "pinyin": "Zhèngdāng tā yào chūmén shí, diànhuà xiǎng le.",
+        "en": "Tam çıkacağı sırada telefon çaldı."
+      },
+      {
+        "zh": "正当大家都很紧张的时候，他笑了。",
+        "pinyin": "Zhèngdāng dàjiā dōu hěn jǐnzhāng de shíhou, tā xiào le.",
+        "en": "Herkes gerginken tam o sırada o güldü."
+      },
+      {
+        "zh": "正当比赛激烈进行时，突然下起了雨。",
+        "pinyin": "Zhèngdāng bǐsài jīliè jìnxíng shí, tūrán xiàqǐle yǔ.",
+        "en": "Maç şiddetle sürerken aniden yağmur başladı."
+      },
+      {
+        "zh": "正当他犹豫不决时，朋友给了他建议。",
+        "pinyin": "Zhèngdāng tā yóuyù bùjué shí, péngyou gěile tā jiànyì.",
+        "en": "Tam kararsız kaldığı sırada arkadaşı ona öneri verdi."
+      },
+      {
+        "zh": "正当春暖花开的季节，我们去郊游。",
+        "pinyin": "Zhèngdāng chūnnuǎn-huākāi de jìjié, wǒmen qù jiāoyóu.",
+        "en": "Tam baharın çiçek açtığı mevsimde piknik yapmaya gittik."
+      }
+    ]
   }
 ]

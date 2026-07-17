@@ -200623,5 +200623,743 @@
         "en": "Fiyat zaten kararlaştırıldı, artık değiştirilemez."
       }
     ]
+  },
+  {
+    "id": "w5925",
+    "hanzi": "思潮",
+    "pinyin": "sīcháo",
+    "meaning": "eğilim, akım, düşünce dalgası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这股思潮影响了整整一代人。",
+        "pinyin": "Zhè gǔ sīcháo yǐngxiǎng le zhěngzhěng yídài rén.",
+        "en": "Bu düşünce akımı koca bir nesli etkiledi."
+      },
+      {
+        "zh": "他关注着社会思潮的变化。",
+        "pinyin": "Tā guānzhùzhe shèhuì sīcháo de biànhuà.",
+        "en": "Toplumsal düşünce akımındaki değişimleri takip ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5926",
+    "hanzi": "思量",
+    "pinyin": "sīliang",
+    "meaning": "iyice düşünmek, tartmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他反复思量了很久才做出决定。",
+        "pinyin": "Tā fǎnfù sīliang le hěn jiǔ cái zuòchū juédìng.",
+        "en": "Uzun süre defalarca düşündükten sonra karar verdi."
+      },
+      {
+        "zh": "这件事值得好好思量一下。",
+        "pinyin": "Zhè jiàn shì zhídé hǎohǎo sīliang yíxià.",
+        "en": "Bu konu iyice düşünülmeye değer."
+      }
+    ]
+  },
+  {
+    "id": "w5927",
+    "hanzi": "思索",
+    "pinyin": "sīsuǒ",
+    "meaning": "derince düşünmek, düşünüp taşınmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他陷入了深深的思索之中。",
+        "pinyin": "Tā xiànrù le shēnshēn de sīsuǒ zhīzhōng.",
+        "en": "Derin düşüncelere daldı."
+      },
+      {
+        "zh": "她停下来思索着接下来该怎么办。",
+        "pinyin": "Tā tíngxiàlái sīsuǒzhe jiēxiàlái gāi zěnme bàn.",
+        "en": "Durup bundan sonra ne yapması gerektiğini düşündü."
+      }
+    ]
+  },
+  {
+    "id": "w5928",
+    "hanzi": "思乡",
+    "pinyin": "sīxiāng",
+    "meaning": "memleket özlemi çekmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "身在异国，他常常思乡。",
+        "pinyin": "Shēn zài yìguó, tā chángcháng sīxiāng.",
+        "en": "Yabancı bir ülkede olduğu için sık sık memleketini özlüyor."
+      },
+      {
+        "zh": "这首歌表达了浓浓的思乡之情。",
+        "pinyin": "Zhè shǒu gē biǎodá le nóngnóng de sīxiāng zhī qíng.",
+        "en": "Bu şarkı yoğun bir memleket özlemi ifade ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5929",
+    "hanzi": "私产",
+    "pinyin": "sīchǎn",
+    "meaning": "özel mülk, kişisel mülkiyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这块土地是他的私产。",
+        "pinyin": "Zhè kuài tǔdì shì tā de sīchǎn.",
+        "en": "Bu arazi onun özel mülküdür."
+      },
+      {
+        "zh": "法律保护公民的私产。",
+        "pinyin": "Fǎlǜ bǎohù gōngmín de sīchǎn.",
+        "en": "Yasalar vatandaşların özel mülkünü korur."
+      }
+    ]
+  },
+  {
+    "id": "w5930",
+    "hanzi": "私立",
+    "pinyin": "sīlì",
+    "meaning": "özel (okul, kurum vb.)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他在一所私立学校教书。",
+        "pinyin": "Tā zài yì suǒ sīlì xuéxiào jiāoshū.",
+        "en": "Özel bir okulda ders veriyor."
+      },
+      {
+        "zh": "私立大学的学费比较高。",
+        "pinyin": "Sīlì dàxué de xuéfèi bǐjiào gāo.",
+        "en": "Özel üniversitelerin öğrenim ücreti oldukça yüksektir."
+      },
+      {
+        "zh": "这是一家私立医院。",
+        "pinyin": "Zhè shì yì jiā sīlì yīyuàn.",
+        "en": "Bu özel bir hastanedir."
+      },
+      {
+        "zh": "他把孩子送到了私立幼儿园。",
+        "pinyin": "Tā bǎ háizi sòngdào le sīlì yòu'éryuán.",
+        "en": "Çocuğunu özel bir anaokuluna gönderdi."
+      },
+      {
+        "zh": "私立学校通常班级人数较少。",
+        "pinyin": "Sīlì xuéxiào tōngcháng bānjí rénshù jiào shǎo.",
+        "en": "Özel okullarda genellikle sınıf mevcudu daha azdır."
+      }
+    ]
+  },
+  {
+    "id": "w5931",
+    "hanzi": "私利",
+    "pinyin": "sīlì",
+    "meaning": "kişisel çıkar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他从不为私利损害集体利益。",
+        "pinyin": "Tā cóngbù wèi sīlì sǔnhài jítǐ lìyì.",
+        "en": "Hiçbir zaman kişisel çıkarı için ortak çıkarlara zarar vermez."
+      },
+      {
+        "zh": "他只顾自己的私利。",
+        "pinyin": "Tā zhǐgù zìjǐ de sīlì.",
+        "en": "Sadece kendi kişisel çıkarını düşünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w5932",
+    "hanzi": "私生活",
+    "pinyin": "sīshēnghuó",
+    "meaning": "özel hayat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请尊重他人的私生活。",
+        "pinyin": "Qǐng zūnzhòng tārén de sīshēnghuó.",
+        "en": "Lütfen başkalarının özel hayatına saygı gösterin."
+      },
+      {
+        "zh": "媒体不应该过度曝光明星的私生活。",
+        "pinyin": "Méitǐ bù yīnggāi guòdù bàoguāng míngxīng de sīshēnghuó.",
+        "en": "Medya, ünlülerin özel hayatını aşırı derecede ifşa etmemeli."
+      }
+    ]
+  },
+  {
+    "id": "w5933",
+    "hanzi": "私下",
+    "pinyin": "sīxià",
+    "meaning": "gizlice, özel olarak",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他们私下讨论了这个问题。",
+        "pinyin": "Tāmen sīxià tǎolùn le zhège wèntí.",
+        "en": "Bu konuyu özel olarak tartıştılar."
+      },
+      {
+        "zh": "我想私下跟你谈谈。",
+        "pinyin": "Wǒ xiǎng sīxià gēn nǐ tántan.",
+        "en": "Seninle özel olarak konuşmak istiyorum."
+      }
+    ]
+  },
+  {
+    "id": "w5934",
+    "hanzi": "私心",
+    "pinyin": "sīxīn",
+    "meaning": "bencillik, bencil güdüler",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做这件事没有私心。",
+        "pinyin": "Tā zuò zhè jiàn shì méiyǒu sīxīn.",
+        "en": "Bu işi yaparken hiç bencil bir niyeti yoktu."
+      },
+      {
+        "zh": "他的决定带有一点私心。",
+        "pinyin": "Tā de juédìng dàiyǒu yìdiǎn sīxīn.",
+        "en": "Kararında biraz bencillik var."
+      }
+    ]
+  },
+  {
+    "id": "w5935",
+    "hanzi": "私有",
+    "pinyin": "sīyǒu",
+    "meaning": "özel mülkiyet, kişisel sahiplik",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这是他的私有财产。",
+        "pinyin": "Zhè shì tā de sīyǒu cáichǎn.",
+        "en": "Bu onun özel mülküdür."
+      },
+      {
+        "zh": "法律保护私有财产不受侵犯。",
+        "pinyin": "Fǎlǜ bǎohù sīyǒu cáichǎn bú shòu qīnfàn.",
+        "en": "Yasalar özel mülkiyetin ihlal edilmemesini garanti eder."
+      }
+    ]
+  },
+  {
+    "id": "w5936",
+    "hanzi": "私自",
+    "pinyin": "sīzì",
+    "meaning": "gizlice, izinsiz bir şekilde",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他私自拿走了公司的文件。",
+        "pinyin": "Tā sīzì názǒu le gōngsī de wénjiàn.",
+        "en": "İzinsiz olarak şirketin belgelerini aldı."
+      },
+      {
+        "zh": "不要私自做出这样的决定。",
+        "pinyin": "Búyào sīzì zuòchū zhèyàng de juédìng.",
+        "en": "İzinsiz olarak böyle bir karar verme."
+      }
+    ]
+  },
+  {
+    "id": "w5937",
+    "hanzi": "丝",
+    "pinyin": "sī",
+    "meaning": "ipek, iplik; kıl kadar (miktar)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这条围巾是用丝做的。",
+        "pinyin": "Zhè tiáo wéijīn shì yòng sī zuò de.",
+        "en": "Bu atkı ipekten yapılmıştır."
+      },
+      {
+        "zh": "他脸上露出一丝微笑。",
+        "pinyin": "Tā liǎn shàng lùchū yìsī wēixiào.",
+        "en": "Yüzünde hafif bir gülümseme belirdi."
+      },
+      {
+        "zh": "她没有一丝怨言。",
+        "pinyin": "Tā méiyǒu yìsī yuànyán.",
+        "en": "En küçük bir şikayeti bile yoktu."
+      },
+      {
+        "zh": "蜘蛛丝非常坚韧。",
+        "pinyin": "Zhīzhū sī fēicháng jiānrèn.",
+        "en": "Örümcek ipliği çok dayanıklı."
+      },
+      {
+        "zh": "他心中闪过一丝疑虑。",
+        "pinyin": "Tā xīnzhōng shǎnguò yìsī yílǜ.",
+        "en": "İçinden hafif bir şüphe geçti."
+      }
+    ]
+  },
+  {
+    "id": "w5938",
+    "hanzi": "死角",
+    "pinyin": "sǐjiǎo",
+    "meaning": "ölü açı, kör nokta",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这里是监控的死角。",
+        "pinyin": "Zhèlǐ shì jiānkòng de sǐjiǎo.",
+        "en": "Burası güvenlik kamerasının kör noktasıdır."
+      },
+      {
+        "zh": "他找出了问题的死角所在。",
+        "pinyin": "Tā zhǎochū le wèntí de sǐjiǎo suǒzài.",
+        "en": "Sorunun görmezden gelinen noktasını buldu."
+      }
+    ]
+  },
+  {
+    "id": "w5939",
+    "hanzi": "死路",
+    "pinyin": "sǐlù",
+    "meaning": "çıkmaz sokak, çıkmaz yol",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这条路是死路，走不通。",
+        "pinyin": "Zhè tiáo lù shì sǐlù, zǒubutōng.",
+        "en": "Bu yol çıkmaz sokak, geçilmez."
+      },
+      {
+        "zh": "他意识到自己走上了死路。",
+        "pinyin": "Tā yìshídào zìjǐ zǒushàng le sǐlù.",
+        "en": "Kendisinin çıkmaz bir yola girdiğini fark etti."
+      }
+    ]
+  },
+  {
+    "id": "w5940",
+    "hanzi": "死伤",
+    "pinyin": "sǐshāng",
+    "meaning": "ölü ve yaralı, can kaybı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这场地震造成了严重的死伤。",
+        "pinyin": "Zhè chǎng dìzhèn zàochéng le yánzhòng de sǐshāng.",
+        "en": "Bu deprem ciddi ölü ve yaralılara neden oldu."
+      },
+      {
+        "zh": "事故没有造成人员死伤。",
+        "pinyin": "Shìgù méiyǒu zàochéng rényuán sǐshāng.",
+        "en": "Kaza can kaybına neden olmadı."
+      }
+    ]
+  },
+  {
+    "id": "w5941",
+    "hanzi": "死亡",
+    "pinyin": "sǐwáng",
+    "meaning": "ölmek, hayatını kaybetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这场车祸造成了三人死亡。",
+        "pinyin": "Zhè chǎng chēhuò zàochéng le sān rén sǐwáng.",
+        "en": "Bu trafik kazasında üç kişi hayatını kaybetti."
+      },
+      {
+        "zh": "他因心脏病死亡。",
+        "pinyin": "Tā yīn xīnzàngbìng sǐwáng.",
+        "en": "Kalp hastalığından öldü."
+      },
+      {
+        "zh": "死亡率逐年下降。",
+        "pinyin": "Sǐwánglǜ zhúnián xiàjiàng.",
+        "en": "Ölüm oranı yıldan yıla düşüyor."
+      },
+      {
+        "zh": "他与死亡擦肩而过。",
+        "pinyin": "Tā yǔ sǐwáng cājiān'érguò.",
+        "en": "Ölümle burun buruna geldi."
+      },
+      {
+        "zh": "疫情导致大量人口死亡。",
+        "pinyin": "Yìqíng dǎozhì dàliàng rénkǒu sǐwáng.",
+        "en": "Salgın büyük miktarda can kaybına neden oldu."
+      }
+    ]
+  },
+  {
+    "id": "w5942",
+    "hanzi": "死刑",
+    "pinyin": "sǐxíng",
+    "meaning": "idam cezası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他被判处了死刑。",
+        "pinyin": "Tā bèi pànchǔ le sǐxíng.",
+        "en": "İdam cezasına çarptırıldı."
+      },
+      {
+        "zh": "有些国家已经废除了死刑。",
+        "pinyin": "Yǒuxiē guójiā yǐjīng fèichú le sǐxíng.",
+        "en": "Bazı ülkeler idam cezasını kaldırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5943",
+    "hanzi": "死者",
+    "pinyin": "sǐzhě",
+    "meaning": "ölü, merhum, vefat eden kişi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "警方还在确认死者的身份。",
+        "pinyin": "Jǐngfāng hái zài quèrèn sǐzhě de shēnfen.",
+        "en": "Polis hâlâ ölünün kimliğini doğrulamaya çalışıyor."
+      },
+      {
+        "zh": "人们为死者默哀。",
+        "pinyin": "Rénmen wèi sǐzhě mò'āi.",
+        "en": "İnsanlar ölenler için saygı duruşunda bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w5944",
+    "hanzi": "四边",
+    "pinyin": "sìbiān",
+    "meaning": "dört tarafta, her yanda",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "四边都种满了树木。",
+        "pinyin": "Sìbiān dōu zhòngmǎn le shùmù.",
+        "en": "Dört tarafa da ağaçlar dikilmiş."
+      },
+      {
+        "zh": "房子四边都装了篱笆。",
+        "pinyin": "Fángzi sìbiān dōu zhuāng le líba.",
+        "en": "Evin dört tarafına da çit takıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5945",
+    "hanzi": "四处",
+    "pinyin": "sìchù",
+    "meaning": "her yer, her taraf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他四处寻找丢失的钥匙。",
+        "pinyin": "Tā sìchù xúnzhǎo diūshī de yàoshi.",
+        "en": "Kaybettiği anahtarı her yerde arıyor."
+      },
+      {
+        "zh": "消息四处传开了。",
+        "pinyin": "Xiāoxi sìchù chuánkāi le.",
+        "en": "Haber her tarafa yayıldı."
+      },
+      {
+        "zh": "他四处旅行，见识了很多地方。",
+        "pinyin": "Tā sìchù lǚxíng, jiànshi le hěnduō dìfang.",
+        "en": "Her tarafı gezip birçok yer gördü."
+      },
+      {
+        "zh": "孩子们四处奔跑玩耍。",
+        "pinyin": "Háizimen sìchù bēnpǎo wánshuǎ.",
+        "en": "Çocuklar her tarafta koşuşturarak oynuyor."
+      },
+      {
+        "zh": "四处都是新鲜的空气。",
+        "pinyin": "Sìchù dōu shì xīnxiān de kōngqì.",
+        "en": "Her yer temiz havayla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w5946",
+    "hanzi": "四方",
+    "pinyin": "sìfāng",
+    "meaning": "dört köşe, her taraf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这张桌子是四方形的。",
+        "pinyin": "Zhè zhāng zhuōzi shì sìfāngxíng de.",
+        "en": "Bu masa kare şeklindedir."
+      },
+      {
+        "zh": "客人来自四方。",
+        "pinyin": "Kèrén láizì sìfāng.",
+        "en": "Misafirler her taraftan geldi."
+      },
+      {
+        "zh": "他志在四方。",
+        "pinyin": "Tā zhì zài sìfāng.",
+        "en": "Onun hedefleri geniş bir kapsamdadır (dünyayı gezmek/başarmak istiyor)."
+      },
+      {
+        "zh": "这块布是四方的。",
+        "pinyin": "Zhè kuài bù shì sìfāng de.",
+        "en": "Bu kumaş kare şeklindedir."
+      },
+      {
+        "zh": "消息传遍了四方。",
+        "pinyin": "Xiāoxi chuánbiàn le sìfāng.",
+        "en": "Haber her tarafa yayıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5947",
+    "hanzi": "四季",
+    "pinyin": "sìjì",
+    "meaning": "dört mevsim",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这个地方四季分明。",
+        "pinyin": "Zhège dìfang sìjì fēnmíng.",
+        "en": "Bu yerde dört mevsim belirgin bir şekilde ayrılıyor."
+      },
+      {
+        "zh": "四季各有不同的美景。",
+        "pinyin": "Sìjì gèyǒu bùtóng de měijǐng.",
+        "en": "Dört mevsimin her birinin farklı bir güzelliği var."
+      },
+      {
+        "zh": "这里的气候四季如春。",
+        "pinyin": "Zhèlǐ de qìhòu sìjì rú chūn.",
+        "en": "Buradaki iklim dört mevsim ilkbahar gibidir."
+      },
+      {
+        "zh": "他喜欢每个季节的美丽。",
+        "pinyin": "Tā xǐhuan měige jìjié de měilì.",
+        "en": "Her mevsimin güzelliğini sever."
+      },
+      {
+        "zh": "四季更替带来了不同的景色。",
+        "pinyin": "Sìjì gēngtì dàilái le bùtóng de jǐngsè.",
+        "en": "Mevsimlerin değişimi farklı manzaralar getiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5948",
+    "hanzi": "四面",
+    "pinyin": "sìmiàn",
+    "meaning": "dört bir taraf, her yön",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "四面都是高山。",
+        "pinyin": "Sìmiàn dōu shì gāoshān.",
+        "en": "Dört bir taraf yüksek dağlarla çevrili."
+      },
+      {
+        "zh": "他四面张望，寻找出口。",
+        "pinyin": "Tā sìmiàn zhāngwàng, xúnzhǎo chūkǒu.",
+        "en": "Her yöne bakınarak çıkışı arıyor."
+      },
+      {
+        "zh": "四面的墙壁都刷成了白色。",
+        "pinyin": "Sìmiàn de qiángbì dōu shuāchéng le báisè.",
+        "en": "Dört tarafın duvarları beyaza boyanmış."
+      },
+      {
+        "zh": "掌声从四面响起。",
+        "pinyin": "Zhǎngshēng cóng sìmiàn xiǎngqǐ.",
+        "en": "Alkış sesleri her yönden yükseldi."
+      },
+      {
+        "zh": "他被敌人四面包围了。",
+        "pinyin": "Tā bèi dírén sìmiàn bāowéi le.",
+        "en": "Düşman tarafından dört bir yandan kuşatıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5949",
+    "hanzi": "四月",
+    "pinyin": "sìyuè",
+    "meaning": "Nisan",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "四月的天气很舒服。",
+        "pinyin": "Sìyuè de tiānqì hěn shūfu.",
+        "en": "Nisan ayının havası çok hoş."
+      },
+      {
+        "zh": "我四月出生。",
+        "pinyin": "Wǒ sìyuè chūshēng.",
+        "en": "Ben Nisan ayında doğdum."
+      },
+      {
+        "zh": "他们四月结婚。",
+        "pinyin": "Tāmen sìyuè jiéhūn.",
+        "en": "Onlar Nisan ayında evlendiler."
+      },
+      {
+        "zh": "四月正是春天最美的时候。",
+        "pinyin": "Sìyuè zhèng shì chūntiān zuìměi de shíhou.",
+        "en": "Nisan tam olarak ilkbaharın en güzel dönemi."
+      },
+      {
+        "zh": "我们计划四月去旅行。",
+        "pinyin": "Wǒmen jìhuà sìyuè qù lǚxíng.",
+        "en": "Nisan ayında seyahate çıkmayı planlıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w5950",
+    "hanzi": "四肢",
+    "pinyin": "sìzhī",
+    "meaning": "dört uzuv (kollar ve bacaklar)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "运动可以锻炼四肢。",
+        "pinyin": "Yùndòng kěyǐ duànliàn sìzhī.",
+        "en": "Egzersiz kolları ve bacakları çalıştırabilir."
+      },
+      {
+        "zh": "他四肢发达，头脑简单。",
+        "pinyin": "Tā sìzhī fādá, tóunǎo jiǎndān.",
+        "en": "Vücutça güçlü ama zihinsel olarak basit."
+      },
+      {
+        "zh": "他的四肢受了轻伤。",
+        "pinyin": "Tā de sìzhī shòu le qīngshāng.",
+        "en": "Kolları ve bacakları hafif yaralandı."
+      },
+      {
+        "zh": "四肢无力是这种疾病的症状之一。",
+        "pinyin": "Sìzhī wúlì shì zhè zhǒng jíbìng de zhèngzhuàng zhīyī.",
+        "en": "Kol ve bacak güçsüzlüğü bu hastalığın belirtilerinden biridir."
+      },
+      {
+        "zh": "他伸展了一下四肢。",
+        "pinyin": "Tā shēnzhǎn le yíxià sìzhī.",
+        "en": "Kollarını ve bacaklarını gerdi."
+      }
+    ]
+  },
+  {
+    "id": "w5951",
+    "hanzi": "四周",
+    "pinyin": "sìzhōu",
+    "meaning": "çevre, her taraf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他环顾了一下四周。",
+        "pinyin": "Tā huángù le yíxià sìzhōu.",
+        "en": "Etrafına bir göz gezdirdi."
+      },
+      {
+        "zh": "房子四周种满了花草。",
+        "pinyin": "Fángzi sìzhōu zhòngmǎn le huācǎo.",
+        "en": "Evin etrafına çiçek ve otlar dikilmiş."
+      },
+      {
+        "zh": "四周一片寂静。",
+        "pinyin": "Sìzhōu yípiàn jìjìng.",
+        "en": "Etraf tamamen sessiz."
+      },
+      {
+        "zh": "四周的景色十分优美。",
+        "pinyin": "Sìzhōu de jǐngsè shífēn yōuměi.",
+        "en": "Çevrenin manzarası oldukça güzel."
+      },
+      {
+        "zh": "他四周张望，没有发现异常。",
+        "pinyin": "Tā sìzhōu zhāngwàng, méiyǒu fāxiàn yìcháng.",
+        "en": "Etrafına bakındı, anormal bir şey fark etmedi."
+      }
+    ]
+  },
+  {
+    "id": "w5952",
+    "hanzi": "肆意",
+    "pinyin": "sìyì",
+    "meaning": "sebepsiz yere, kasten, keyfince",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他肆意破坏了公共设施。",
+        "pinyin": "Tā sìyì pòhuài le gōnggòng shèshī.",
+        "en": "Kamu tesislerini keyfince tahrip etti."
+      },
+      {
+        "zh": "不能任由资本肆意扩张。",
+        "pinyin": "Bùnéng rènyóu zīběn sìyì kuòzhāng.",
+        "en": "Sermayenin keyfince genişlemesine izin verilemez."
+      }
+    ]
   }
 ]

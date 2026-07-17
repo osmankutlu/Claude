@@ -190234,5 +190234,713 @@
         "en": "Hemşireler yaralı askerlere özenle bakıyor."
       }
     ]
+  },
+  {
+    "id": "w5561",
+    "hanzi": "伤口",
+    "pinyin": "shāngkǒu",
+    "meaning": "yara, kesik",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生给他清理了伤口。",
+        "pinyin": "Yīshēng gěi tā qīnglǐ le shāngkǒu.",
+        "en": "Doktor onun yarasını temizledi."
+      },
+      {
+        "zh": "伤口已经愈合了。",
+        "pinyin": "Shāngkǒu yǐjīng yùhé le.",
+        "en": "Yara zaten iyileşti."
+      },
+      {
+        "zh": "他的伤口还在流血。",
+        "pinyin": "Tā de shāngkǒu hái zài liúxuè.",
+        "en": "Yarası hâlâ kanıyor."
+      },
+      {
+        "zh": "请不要用手碰伤口。",
+        "pinyin": "Qǐng búyào yòng shǒu pèng shāngkǒu.",
+        "en": "Lütfen elinizle yaraya dokunmayın."
+      },
+      {
+        "zh": "她的话再次揭开了他的伤口。",
+        "pinyin": "Tā de huà zàicì jiēkāi le tā de shāngkǒu.",
+        "en": "Sözleri onun yarasını yeniden deşti."
+      }
+    ]
+  },
+  {
+    "id": "w5562",
+    "hanzi": "伤势",
+    "pinyin": "shāngshì",
+    "meaning": "yaralanma durumu, yara hali",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的伤势比想象中严重。",
+        "pinyin": "Tā de shāngshì bǐ xiǎngxiàng zhōng yánzhòng.",
+        "en": "Yaralanma durumu düşünülenden daha ağır."
+      },
+      {
+        "zh": "医生正在评估他的伤势。",
+        "pinyin": "Yīshēng zhèngzài pínggū tā de shāngshì.",
+        "en": "Doktor onun yaralanma durumunu değerlendiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5563",
+    "hanzi": "伤亡",
+    "pinyin": "shāngwáng",
+    "meaning": "ölü ve yaralı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这场事故造成了严重伤亡。",
+        "pinyin": "Zhè chǎng shìgù zàochéng le yánzhòng shāngwáng.",
+        "en": "Bu kaza ciddi ölü ve yaralılara neden oldu."
+      },
+      {
+        "zh": "战争带来了巨大的伤亡。",
+        "pinyin": "Zhànzhēng dàilái le jùdà de shāngwáng.",
+        "en": "Savaş büyük can kayıplarına yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w5564",
+    "hanzi": "赏",
+    "pinyin": "shǎng",
+    "meaning": "ödül; ödüllendirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老板赏了他一笔奖金。",
+        "pinyin": "Lǎobǎn shǎng le tā yì bǐ jiǎngjīn.",
+        "en": "Patron ona bir ikramiye verdi."
+      },
+      {
+        "zh": "皇帝重赏了立功的将士。",
+        "pinyin": "Huángdì zhòngshǎng le lìgōng de jiàngshì.",
+        "en": "İmparator başarılı komutanları büyük ödüllerle ödüllendirdi."
+      },
+      {
+        "zh": "他因表现出色而受到赏识。",
+        "pinyin": "Tā yīn biǎoxiàn chūsè ér shòudào shǎngshí.",
+        "en": "Üstün performansından dolayı takdir edildi."
+      },
+      {
+        "zh": "大家赏花，度过了愉快的一天。",
+        "pinyin": "Dàjiā shǎnghuā, dùguò le yúkuài de yìtiān.",
+        "en": "Herkes çiçekleri seyrederek keyifli bir gün geçirdi."
+      },
+      {
+        "zh": "月下赏景是一种享受。",
+        "pinyin": "Yuèxià shǎngjǐng shì yì zhǒng xiǎngshòu.",
+        "en": "Ay ışığı altında manzara izlemek bir zevktir."
+      }
+    ]
+  },
+  {
+    "id": "w5565",
+    "hanzi": "赏识",
+    "pinyin": "shǎngshí",
+    "meaning": "değerini takdir etmek, kıymetini bilmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老板很赏识他的才能。",
+        "pinyin": "Lǎobǎn hěn shǎngshí tā de cáinéng.",
+        "en": "Patron onun yeteneğine değer veriyor."
+      },
+      {
+        "zh": "她的努力终于得到了赏识。",
+        "pinyin": "Tā de nǔlì zhōngyú dédào le shǎngshí.",
+        "en": "Çabası sonunda takdir edildi."
+      }
+    ]
+  },
+  {
+    "id": "w5566",
+    "hanzi": "尚且",
+    "pinyin": "shàngqiě",
+    "meaning": "hatta, bile",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这个问题连专家尚且难以解决。",
+        "pinyin": "Zhège wèntí lián zhuānjiā shàngqiě nányǐ jiějué.",
+        "en": "Bu sorunu uzmanlar bile çözmekte zorlanıyor."
+      },
+      {
+        "zh": "大人尚且做不到，何况孩子。",
+        "pinyin": "Dàrén shàngqiě zuòbudào, hékuàng háizi.",
+        "en": "Yetişkinler bile bunu başaramıyorken çocuklar hiç başaramaz."
+      }
+    ]
+  },
+  {
+    "id": "w5567",
+    "hanzi": "上层",
+    "pinyin": "shàngcéng",
+    "meaning": "üst kademe, üst tabaka",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项决策是由上层做出的。",
+        "pinyin": "Zhè xiàng juécè shì yóu shàngcéng zuòchū de.",
+        "en": "Bu karar üst kademe tarafından alındı."
+      },
+      {
+        "zh": "他属于社会上层阶级。",
+        "pinyin": "Tā shǔyú shèhuì shàngcéng jiējí.",
+        "en": "Toplumun üst tabakasına ait."
+      }
+    ]
+  },
+  {
+    "id": "w5568",
+    "hanzi": "上等",
+    "pinyin": "shàngděng",
+    "meaning": "birinci sınıf, üstün kalite",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是上等的茶叶。",
+        "pinyin": "Zhè shì shàngděng de cháyè.",
+        "en": "Bu birinci sınıf çay yapraklarıdır."
+      },
+      {
+        "zh": "他用上等的材料做家具。",
+        "pinyin": "Tā yòng shàngděng de cáiliào zuò jiājù.",
+        "en": "Üstün kalite malzemeyle mobilya yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5569",
+    "hanzi": "上帝",
+    "pinyin": "shàngdì",
+    "meaning": "Tanrı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他每周都去教堂祈祷上帝。",
+        "pinyin": "Tā měizhōu dōu qù jiàotáng qídǎo shàngdì.",
+        "en": "Her hafta kiliseye gidip Tanrı'ya dua ediyor."
+      },
+      {
+        "zh": "她相信上帝会保佑她。",
+        "pinyin": "Tā xiāngxìn shàngdì huì bǎoyòu tā.",
+        "en": "Tanrı'nın onu koruyacağına inanıyor."
+      },
+      {
+        "zh": "上帝创造了世界，这是很多宗教的信仰。",
+        "pinyin": "Shàngdì chuàngzào le shìjiè, zhè shì hěnduō zōngjiào de xìnyǎng.",
+        "en": "Tanrı'nın dünyayı yarattığı, birçok dinin inancıdır."
+      },
+      {
+        "zh": "愿上帝保佑你们。",
+        "pinyin": "Yuàn shàngdì bǎoyòu nǐmen.",
+        "en": "Tanrı sizi korusun."
+      },
+      {
+        "zh": "他感谢上帝赐予的一切。",
+        "pinyin": "Tā gǎnxiè shàngdì cìyǔ de yíqiè.",
+        "en": "Tanrı'nın verdiği her şey için şükrediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5570",
+    "hanzi": "上风",
+    "pinyin": "shàngfēng",
+    "meaning": "üstünlük, avantaj",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们队渐渐占了上风。",
+        "pinyin": "Wǒmen duì jiànjiàn zhàn le shàngfēng.",
+        "en": "Takımımız giderek üstünlük sağladı."
+      },
+      {
+        "zh": "谈判中他一直处于上风。",
+        "pinyin": "Tánpàn zhōng tā yìzhí chǔyú shàngfēng.",
+        "en": "Müzakerede sürekli avantajlı konumdaydı."
+      }
+    ]
+  },
+  {
+    "id": "w5571",
+    "hanzi": "上级",
+    "pinyin": "shàngjí",
+    "meaning": "üst makam, amir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他向上级汇报了工作情况。",
+        "pinyin": "Tā xiàng shàngjí huìbào le gōngzuò qíngkuàng.",
+        "en": "Amirine iş durumu hakkında rapor verdi."
+      },
+      {
+        "zh": "上级要求我们按时完成任务。",
+        "pinyin": "Shàngjí yāoqiú wǒmen ànshí wánchéng rènwu.",
+        "en": "Üst makam görevi zamanında tamamlamamızı istiyor."
+      },
+      {
+        "zh": "他获得了上级的表扬。",
+        "pinyin": "Tā huòdé le shàngjí de biǎoyáng.",
+        "en": "Amirinden övgü aldı."
+      },
+      {
+        "zh": "这个决定需要上级批准。",
+        "pinyin": "Zhège juédìng xūyào shàngjí pīzhǔn.",
+        "en": "Bu karar üst makamın onayını gerektiriyor."
+      },
+      {
+        "zh": "他一直服从上级的安排。",
+        "pinyin": "Tā yìzhí fúcóng shàngjí de ānpái.",
+        "en": "Her zaman üst makamın düzenlemesine uyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5572",
+    "hanzi": "上进",
+    "pinyin": "shàngjìn",
+    "meaning": "ilerlemeye çalışmak, kendini geliştirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他是一个积极上进的年轻人。",
+        "pinyin": "Tā shì yí ge jījí shàngjìn de niánqīngrén.",
+        "en": "O olumlu ve kendini geliştirmeye çalışan bir genç."
+      },
+      {
+        "zh": "父母希望孩子努力上进。",
+        "pinyin": "Fùmǔ xīwàng háizi nǔlì shàngjìn.",
+        "en": "Ebeveynler çocuklarının çok çalışıp kendini geliştirmesini umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5573",
+    "hanzi": "上流",
+    "pinyin": "shàngliú",
+    "meaning": "üst tabaka; nehrin yukarı kısmı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他出身于上流社会。",
+        "pinyin": "Tā chūshēn yú shàngliú shèhuì.",
+        "en": "Üst sınıf bir aileden geliyor."
+      },
+      {
+        "zh": "河流的上流水质更清澈。",
+        "pinyin": "Héliú de shàngliú shuǐzhì gèng qīngchè.",
+        "en": "Nehrin yukarı kesiminde su daha berrak."
+      }
+    ]
+  },
+  {
+    "id": "w5574",
+    "hanzi": "上门",
+    "pinyin": "shàngmén",
+    "meaning": "birini ziyarete gitmek/gelmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他亲自上门道歉。",
+        "pinyin": "Tā qīnzì shàngmén dàoqiàn.",
+        "en": "Bizzat ziyarete gelip özür diledi."
+      },
+      {
+        "zh": "维修工人上门修理了空调。",
+        "pinyin": "Wéixiū gōngrén shàngmén xiūlǐ le kōngtiáo.",
+        "en": "Tamirci eve gelerek klimayı tamir etti."
+      }
+    ]
+  },
+  {
+    "id": "w5575",
+    "hanzi": "上任",
+    "pinyin": "shàngrèn",
+    "meaning": "resmi olarak göreve başlamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "新市长今天正式上任。",
+        "pinyin": "Xīn shìzhǎng jīntiān zhèngshì shàngrèn.",
+        "en": "Yeni belediye başkanı bugün resmi olarak göreve başladı."
+      },
+      {
+        "zh": "他刚上任就制定了新计划。",
+        "pinyin": "Tā gāng shàngrèn jiù zhìdìng le xīn jìhuà.",
+        "en": "Göreve başlar başlamaz yeni bir plan hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w5576",
+    "hanzi": "上司",
+    "pinyin": "shàngsi",
+    "meaning": "patron, amir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他的上司对他很严格。",
+        "pinyin": "Tā de shàngsi duì tā hěn yángé.",
+        "en": "Patronu ona karşı çok sıkı davranıyor."
+      },
+      {
+        "zh": "她和上司的关系很好。",
+        "pinyin": "Tā hé shàngsi de guānxì hěn hǎo.",
+        "en": "Patronuyla ilişkisi çok iyi."
+      },
+      {
+        "zh": "我需要向上司请假。",
+        "pinyin": "Wǒ xūyào xiàng shàngsi qǐngjià.",
+        "en": "Amirimden izin istemem gerekiyor."
+      },
+      {
+        "zh": "他的上司总是很忙。",
+        "pinyin": "Tā de shàngsi zǒngshì hěn máng.",
+        "en": "Amiri her zaman çok meşgul."
+      },
+      {
+        "zh": "他被上司批评了一顿。",
+        "pinyin": "Tā bèi shàngsi pīpíng le yí dùn.",
+        "en": "Amiri tarafından azarlandı."
+      }
+    ]
+  },
+  {
+    "id": "w5577",
+    "hanzi": "上诉",
+    "pinyin": "shàngsù",
+    "meaning": "bir üst mahkemeye başvurmak, temyize başvurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他决定对判决提出上诉。",
+        "pinyin": "Tā juédìng duì pànjué tíchū shàngsù.",
+        "en": "Karara karşı temyize gitmeye karar verdi."
+      },
+      {
+        "zh": "上诉法院驳回了他的请求。",
+        "pinyin": "Shàngsù fǎyuàn bóhuí le tā de qǐngqiú.",
+        "en": "Temyiz mahkemesi talebini reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w5578",
+    "hanzi": "上下文",
+    "pinyin": "shàngxiàwén",
+    "meaning": "bağlam",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请根据上下文猜测词义。",
+        "pinyin": "Qǐng gēnjù shàngxiàwén cāicè cíyì.",
+        "en": "Lütfen bağlama göre kelimenin anlamını tahmin edin."
+      },
+      {
+        "zh": "这句话脱离了上下文，意思变了。",
+        "pinyin": "Zhè jù huà tuōlí le shàngxiàwén, yìsi biàn le.",
+        "en": "Bu cümle bağlamından koparıldığında anlamı değişti."
+      }
+    ]
+  },
+  {
+    "id": "w5579",
+    "hanzi": "上限",
+    "pinyin": "shàngxiàn",
+    "meaning": "üst sınır",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项工作的时间上限是三天。",
+        "pinyin": "Zhè xiàng gōngzuò de shíjiān shàngxiàn shì sān tiān.",
+        "en": "Bu işin zaman üst sınırı üç gündür."
+      },
+      {
+        "zh": "投资金额有一定的上限。",
+        "pinyin": "Tóuzī jīn'é yǒu yídìng de shàngxiàn.",
+        "en": "Yatırım miktarının belirli bir üst sınırı var."
+      }
+    ]
+  },
+  {
+    "id": "w5580",
+    "hanzi": "上旬",
+    "pinyin": "shàngxún",
+    "meaning": "ayın ilk on günü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "我们计划在四月上旬出发。",
+        "pinyin": "Wǒmen jìhuà zài sìyuè shàngxún chūfā.",
+        "en": "Nisan ayının ilk on gününde yola çıkmayı planlıyoruz."
+      },
+      {
+        "zh": "考试安排在六月上旬。",
+        "pinyin": "Kǎoshì ānpái zài liùyuè shàngxún.",
+        "en": "Sınav Haziran ayının ilk on gününe planlandı."
+      },
+      {
+        "zh": "这个月上旬天气很好。",
+        "pinyin": "Zhège yuè shàngxún tiānqì hěn hǎo.",
+        "en": "Bu ayın ilk on gününde hava çok güzeldi."
+      },
+      {
+        "zh": "他上旬去了一趟上海。",
+        "pinyin": "Tā shàngxún qù le yí tàng Shànghǎi.",
+        "en": "Ayın ilk on gününde Şanghay'a bir gezi yaptı."
+      },
+      {
+        "zh": "报告应该在月上旬提交。",
+        "pinyin": "Bàogào yīnggāi zài yuè shàngxún tíjiāo.",
+        "en": "Rapor ayın ilk on günü içinde teslim edilmelidir."
+      }
+    ]
+  },
+  {
+    "id": "w5581",
+    "hanzi": "上瘾",
+    "pinyin": "shàngyǐn",
+    "meaning": "bağımlı olmak, alışkanlık yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他玩游戏上瘾了。",
+        "pinyin": "Tā wán yóuxì shàngyǐn le.",
+        "en": "Oyun oynamaya bağımlı oldu."
+      },
+      {
+        "zh": "抽烟很容易上瘾。",
+        "pinyin": "Chōuyān hěn róngyì shàngyǐn.",
+        "en": "Sigara içmek kolayca bağımlılık yapar."
+      }
+    ]
+  },
+  {
+    "id": "w5582",
+    "hanzi": "上游",
+    "pinyin": "shàngyóu",
+    "meaning": "nehrin yukarı kesimi; avantajlı konum",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "河流的上游森林茂密。",
+        "pinyin": "Héliú de shàngyóu sēnlín màomì.",
+        "en": "Nehrin yukarı kesiminde ormanlar çok gür."
+      },
+      {
+        "zh": "这家公司位于产业链的上游。",
+        "pinyin": "Zhè jiā gōngsī wèiyú chǎnyèliàn de shàngyóu.",
+        "en": "Bu şirket üretim zincirinin üst kısmında yer alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5583",
+    "hanzi": "上涨",
+    "pinyin": "shàngzhǎng",
+    "meaning": "yükselmek (fiyat, su seviyesi vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "房价最近一直在上涨。",
+        "pinyin": "Fángjià zuìjìn yìzhí zài shàngzhǎng.",
+        "en": "Ev fiyatları son zamanlarda sürekli yükseliyor."
+      },
+      {
+        "zh": "河水因大雨而上涨。",
+        "pinyin": "Héshuǐ yīn dàyǔ ér shàngzhǎng.",
+        "en": "Nehrin suyu şiddetli yağmur yüzünden yükseldi."
+      },
+      {
+        "zh": "石油价格出现上涨趋势。",
+        "pinyin": "Shíyóu jiàgé chūxiàn shàngzhǎng qūshì.",
+        "en": "Petrol fiyatlarında yükselme eğilimi görüldü."
+      },
+      {
+        "zh": "股票价格今天大幅上涨。",
+        "pinyin": "Gǔpiào jiàgé jīntiān dàfú shàngzhǎng.",
+        "en": "Hisse senedi fiyatları bugün büyük ölçüde yükseldi."
+      },
+      {
+        "zh": "工资涨幅赶不上物价上涨的速度。",
+        "pinyin": "Gōngzī zhǎngfú gǎnbushàng wùjià shàngzhǎng de sùdù.",
+        "en": "Maaş artışı, fiyat artışının hızına yetişemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5584",
+    "hanzi": "烧",
+    "pinyin": "shāo",
+    "meaning": "yanmak, yakmak; pişirmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把垃圾烧掉了。",
+        "pinyin": "Tā bǎ lājī shāodiào le.",
+        "en": "Çöpü yaktı."
+      },
+      {
+        "zh": "厨师正在烧鱼。",
+        "pinyin": "Chúshī zhèngzài shāo yú.",
+        "en": "Aşçı balık pişiriyor."
+      },
+      {
+        "zh": "房子被大火烧毁了。",
+        "pinyin": "Fángzi bèi dàhuǒ shāohuǐ le.",
+        "en": "Ev büyük bir yangında kül oldu."
+      },
+      {
+        "zh": "孩子发烧了，要去看医生。",
+        "pinyin": "Háizi fāshāo le, yào qù kàn yīshēng.",
+        "en": "Çocuğun ateşi çıktı, doktora götürülmesi gerekiyor."
+      },
+      {
+        "zh": "他在院子里烧烤。",
+        "pinyin": "Tā zài yuànzi lǐ shāokǎo.",
+        "en": "Bahçede barbekü yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5585",
+    "hanzi": "烧饼",
+    "pinyin": "shāobing",
+    "meaning": "susamlı ekmek, pide",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "早餐我买了两个烧饼。",
+        "pinyin": "Zǎocān wǒ mǎi le liǎng ge shāobing.",
+        "en": "Kahvaltı için iki tane pide aldım."
+      },
+      {
+        "zh": "这家店的烧饼又香又脆。",
+        "pinyin": "Zhè jiā diàn de shāobing yòu xiāng yòu cuì.",
+        "en": "Bu dükkânın pidesi hem kokulu hem gevrek."
+      }
+    ]
+  },
+  {
+    "id": "w5586",
+    "hanzi": "上场",
+    "pinyin": "shàngchǎng",
+    "meaning": "sahneye çıkmak, oyuna girmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "演员们即将上场表演。",
+        "pinyin": "Yǎnyuánmen jíjiāng shàngchǎng biǎoyǎn.",
+        "en": "Oyuncular sahneye çıkmak üzere."
+      },
+      {
+        "zh": "教练让替补球员上场了。",
+        "pinyin": "Jiàoliàn ràng tìbǔ qiúyuán shàngchǎng le.",
+        "en": "Antrenör yedek oyuncuyu sahaya soktu."
+      }
+    ]
+  },
+  {
+    "id": "w5587",
+    "hanzi": "伤风",
+    "pinyin": "shāngfēng",
+    "meaning": "soğuk almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他昨天着凉伤风了。",
+        "pinyin": "Tā zuótiān zháoliáng shāngfēng le.",
+        "en": "Dün üşüyüp soğuk aldı."
+      },
+      {
+        "zh": "伤风感冒要多喝水。",
+        "pinyin": "Shāngfēng gǎnmào yào duō hēshuǐ.",
+        "en": "Soğuk algınlığında bol su içmek gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w5588",
+    "hanzi": "尚",
+    "pinyin": "shàng",
+    "meaning": "hâlâ, yine de",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这个问题尚待解决。",
+        "pinyin": "Zhège wèntí shàng dài jiějué.",
+        "en": "Bu sorun hâlâ çözülmeyi bekliyor."
+      },
+      {
+        "zh": "他的病情尚未好转。",
+        "pinyin": "Tā de bìngqíng shàng wèi hǎozhuǎn.",
+        "en": "Hastalığı henüz iyileşmedi."
+      }
+    ]
   }
 ]

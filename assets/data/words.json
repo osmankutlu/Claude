@@ -215692,5 +215692,833 @@
         "en": "Çocuğun doğumu tüm aileye sevinç getirdi."
       }
     ]
+  },
+  {
+    "id": "w6459",
+    "hanzi": "系列",
+    "pinyin": "xìliè",
+    "meaning": "seri, dizi, takım",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是一系列新产品。",
+        "pinyin": "Zhè shì yī xìliè xīn chǎnpǐn.",
+        "en": "Bu bir dizi yeni üründür."
+      },
+      {
+        "zh": "公司推出了系列课程。",
+        "pinyin": "Gōngsī tuīchūle xìliè kèchéng.",
+        "en": "Şirket bir ders serisi başlattı."
+      },
+      {
+        "zh": "他导演了一系列电影。",
+        "pinyin": "Tā dǎoyǎnle yī xìliè diànyǐng.",
+        "en": "O bir film serisi yönetti."
+      },
+      {
+        "zh": "政府出台了一系列新政策。",
+        "pinyin": "Zhèngfǔ chūtáile yī xìliè xīn zhèngcè.",
+        "en": "Hükümet bir dizi yeni politika yayınladı."
+      },
+      {
+        "zh": "这个系列的书很受欢迎。",
+        "pinyin": "Zhège xìliè de shū hěn shòu huānyíng.",
+        "en": "Bu kitap serisi çok popüler."
+      }
+    ]
+  },
+  {
+    "id": "w6460",
+    "hanzi": "细",
+    "pinyin": "xì",
+    "meaning": "ince, incecik",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这根线很细。",
+        "pinyin": "Zhè gēn xiàn hěn xì.",
+        "en": "Bu iplik çok ince."
+      },
+      {
+        "zh": "她的声音很细。",
+        "pinyin": "Tā de shēngyīn hěn xì.",
+        "en": "Onun sesi çok ince."
+      },
+      {
+        "zh": "请把面条切细一点。",
+        "pinyin": "Qǐng bǎ miàntiáo qiē xì yīdiǎn.",
+        "en": "Lütfen makarnayı biraz daha ince kes."
+      },
+      {
+        "zh": "他做事很细心。",
+        "pinyin": "Tā zuòshì hěn xìxīn.",
+        "en": "O işleri çok dikkatli yapıyor."
+      },
+      {
+        "zh": "这幅画的细节很丰富。",
+        "pinyin": "Zhè fú huà de xìjié hěn fēngfù.",
+        "en": "Bu tablonun ayrıntıları çok zengin."
+      }
+    ]
+  },
+  {
+    "id": "w6461",
+    "hanzi": "细胞",
+    "pinyin": "xìbāo",
+    "meaning": "hücre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "人体由数万亿个细胞组成。",
+        "pinyin": "Réntǐ yóu shù wàn yì gè xìbāo zǔchéng.",
+        "en": "İnsan vücudu trilyonlarca hücreden oluşur."
+      },
+      {
+        "zh": "细胞是生命的基本单位。",
+        "pinyin": "Xìbāo shì shēngmìng de jīběn dānwèi.",
+        "en": "Hücre, yaşamın temel birimidir."
+      },
+      {
+        "zh": "癌细胞会不断分裂。",
+        "pinyin": "Áixìbāo huì bùduàn fēnliè.",
+        "en": "Kanser hücreleri sürekli bölünür."
+      },
+      {
+        "zh": "显微镜下可以观察到细胞结构。",
+        "pinyin": "Xiǎnwēijìng xià kěyǐ guānchá dào xìbāo jiégòu.",
+        "en": "Mikroskop altında hücre yapısı gözlemlenebilir."
+      },
+      {
+        "zh": "细胞会不断更新和修复。",
+        "pinyin": "Xìbāo huì bùduàn gēngxīn hé xiūfù.",
+        "en": "Hücreler sürekli yenilenir ve onarılır."
+      }
+    ]
+  },
+  {
+    "id": "w6462",
+    "hanzi": "细菌",
+    "pinyin": "xìjūn",
+    "meaning": "mikrop, bakteri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "洗手可以去除细菌。",
+        "pinyin": "Xǐshǒu kěyǐ qùchú xìjūn.",
+        "en": "El yıkamak mikropları giderebilir."
+      },
+      {
+        "zh": "这种细菌会引发疾病。",
+        "pinyin": "Zhè zhǒng xìjūn huì yǐnfā jíbìng.",
+        "en": "Bu tür bakteri hastalığa neden olabilir."
+      },
+      {
+        "zh": "食物变质是细菌繁殖造成的。",
+        "pinyin": "Shíwù biànzhì shì xìjūn fánzhí zàochéng de.",
+        "en": "Yiyeceğin bozulması bakteri üremesinden kaynaklanır."
+      },
+      {
+        "zh": "抗生素可以杀死细菌。",
+        "pinyin": "Kàngshēngsù kěyǐ shāsǐ xìjūn.",
+        "en": "Antibiyotikler bakterileri öldürebilir."
+      },
+      {
+        "zh": "伤口容易感染细菌。",
+        "pinyin": "Shāngkǒu róngyì gǎnrǎn xìjūn.",
+        "en": "Yara kolayca bakteri kapabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6463",
+    "hanzi": "细心",
+    "pinyin": "xìxīn",
+    "meaning": "dikkatli, özenli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她做事很细心。",
+        "pinyin": "Tā zuòshì hěn xìxīn.",
+        "en": "O işleri çok dikkatli yapıyor."
+      },
+      {
+        "zh": "护士细心地照顾病人。",
+        "pinyin": "Hùshi xìxīn de zhàogù bìngrén.",
+        "en": "Hemşire hastaya özenle bakıyor."
+      },
+      {
+        "zh": "请细心检查每一处。",
+        "pinyin": "Qǐng xìxīn jiǎnchá měi yī chù.",
+        "en": "Lütfen her yeri dikkatlice kontrol et."
+      },
+      {
+        "zh": "老师细心地纠正了他的错误。",
+        "pinyin": "Lǎoshī xìxīn de jiūzhèngle tā de cuòwù.",
+        "en": "Öğretmen onun hatasını özenle düzeltti."
+      },
+      {
+        "zh": "他是一个细心又负责的人。",
+        "pinyin": "Tā shì yī gè xìxīn yòu fùzé de rén.",
+        "en": "O dikkatli ve sorumlu bir kişi."
+      }
+    ]
+  },
+  {
+    "id": "w6464",
+    "hanzi": "细致",
+    "pinyin": "xìzhì",
+    "meaning": "dikkatli, hassas, ince, titiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的工作做得十分细致。",
+        "pinyin": "Tā de gōngzuò zuò de shífēn xìzhì.",
+        "en": "O işini son derece titizlikle yapıyor."
+      },
+      {
+        "zh": "这幅画描绘得非常细致。",
+        "pinyin": "Zhè fú huà miáohuì de fēicháng xìzhì.",
+        "en": "Bu tablo son derece ince detaylarla çizilmiş."
+      }
+    ]
+  },
+  {
+    "id": "w6465",
+    "hanzi": "戏",
+    "pinyin": "xì",
+    "meaning": "oyun, gösteri, tiyatro oyunu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "今晚有一场好戏。",
+        "pinyin": "Jīnwǎn yǒu yī chǎng hǎo xì.",
+        "en": "Bu akşam güzel bir oyun var."
+      },
+      {
+        "zh": "他喜欢看京戏。",
+        "pinyin": "Tā xǐhuān kàn jīngxì.",
+        "en": "O Pekin operası izlemeyi sever."
+      },
+      {
+        "zh": "这出戏很受观众欢迎。",
+        "pinyin": "Zhè chū xì hěn shòu guānzhòng huānyíng.",
+        "en": "Bu oyun izleyiciler tarafından çok seviliyor."
+      },
+      {
+        "zh": "孩子们在院子里玩游戏。",
+        "pinyin": "Háizimen zài yuànzi lǐ wán yóuxì.",
+        "en": "Çocuklar bahçede oyun oynuyor."
+      },
+      {
+        "zh": "他是一位有名的戏曲演员。",
+        "pinyin": "Tā shì yī wèi yǒumíng de xìqǔ yǎnyuán.",
+        "en": "O ünlü bir opera sanatçısı."
+      }
+    ]
+  },
+  {
+    "id": "w6466",
+    "hanzi": "戏院",
+    "pinyin": "xìyuàn",
+    "meaning": "tiyatro",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "我们晚上去戏院看戏。",
+        "pinyin": "Wǒmen wǎnshang qù xìyuàn kàn xì.",
+        "en": "Akşam tiyatroya oyun izlemeye gidiyoruz."
+      },
+      {
+        "zh": "这座老戏院有上百年历史。",
+        "pinyin": "Zhè zuò lǎo xìyuàn yǒu shàng bǎi nián lìshǐ.",
+        "en": "Bu eski tiyatronun yüz yılı aşkın bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w6467",
+    "hanzi": "虾",
+    "pinyin": "xiā",
+    "meaning": "karides",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这道菜是清蒸虾。",
+        "pinyin": "Zhè dào cài shì qīngzhēng xiā.",
+        "en": "Bu yemek buharda pişmiş karides."
+      },
+      {
+        "zh": "他对虾过敏。",
+        "pinyin": "Tā duì xiā guòmǐn.",
+        "en": "O karidese karşı alerjisi var."
+      },
+      {
+        "zh": "海鲜市场里有新鲜的虾。",
+        "pinyin": "Hǎixiān shìchǎng lǐ yǒu xīnxiān de xiā.",
+        "en": "Deniz ürünleri pazarında taze karides var."
+      },
+      {
+        "zh": "虾的营养价值很高。",
+        "pinyin": "Xiā de yíngyǎng jiàzhí hěn gāo.",
+        "en": "Karidesin besin değeri çok yüksek."
+      },
+      {
+        "zh": "妈妈做了一盘炸虾。",
+        "pinyin": "Māma zuòle yī pán zhá xiā.",
+        "en": "Annem bir tabak kızarmış karides yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w6468",
+    "hanzi": "瞎子",
+    "pinyin": "xiāzi",
+    "meaning": "kör kişi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他从小就是个瞎子。",
+        "pinyin": "Tā cóngxiǎo jiùshì gè xiāzi.",
+        "en": "O küçüklüğünden beri kördür."
+      },
+      {
+        "zh": "这个瞎子靠听声音辨认方向。",
+        "pinyin": "Zhège xiāzi kào tīng shēngyīn biànrèn fāngxiàng.",
+        "en": "Bu kör kişi yönünü sesle anlar."
+      }
+    ]
+  },
+  {
+    "id": "w6469",
+    "hanzi": "侠客",
+    "pinyin": "xiákè",
+    "meaning": "kahraman savaşçı, şövalye",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "古代的侠客行侠仗义。",
+        "pinyin": "Gǔdài de xiákè xíngxiá-zhàngyì.",
+        "en": "Eski çağların şövalyeleri adaleti savunurdu."
+      },
+      {
+        "zh": "这部小说讲的是一位侠客的故事。",
+        "pinyin": "Zhè bù xiǎoshuō jiǎng de shì yī wèi xiákè de gùshi.",
+        "en": "Bu roman bir şövalyenin hikayesini anlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6470",
+    "hanzi": "瑕疵",
+    "pinyin": "xiácī",
+    "meaning": "ufak kusur, küçük arıza",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这件产品有一点瑕疵。",
+        "pinyin": "Zhè jiàn chǎnpǐn yǒu yīdiǎn xiácī.",
+        "en": "Bu üründe küçük bir kusur var."
+      },
+      {
+        "zh": "完美的计划也难免有瑕疵。",
+        "pinyin": "Wánměi de jìhuà yě nánmiǎn yǒu xiácī.",
+        "en": "Mükemmel bir planın bile kusurları olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6471",
+    "hanzi": "狭隘",
+    "pinyin": "xiá'ài",
+    "meaning": "dar, kısıtlı, dar görüşlü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的想法太狭隘了。",
+        "pinyin": "Tā de xiǎngfǎ tài xiá'ài le.",
+        "en": "Onun düşüncesi çok dar görüşlü."
+      },
+      {
+        "zh": "不要有狭隘的民族观念。",
+        "pinyin": "Bùyào yǒu xiá'ài de mínzú guānniàn.",
+        "en": "Dar görüşlü milliyetçi düşüncelere sahip olma."
+      }
+    ]
+  },
+  {
+    "id": "w6472",
+    "hanzi": "狭窄",
+    "pinyin": "xiázhǎi",
+    "meaning": "dar, sınırlı, kıt",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这条路很狭窄。",
+        "pinyin": "Zhè tiáo lù hěn xiázhǎi.",
+        "en": "Bu yol çok dar."
+      },
+      {
+        "zh": "他的视野比较狭窄。",
+        "pinyin": "Tā de shìyě bǐjiào xiázhǎi.",
+        "en": "Onun bakış açısı oldukça dar."
+      }
+    ]
+  },
+  {
+    "id": "w6473",
+    "hanzi": "下班",
+    "pinyin": "xiàbān",
+    "meaning": "mesai bitirmek, işten çıkmak",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "我六点下班。",
+        "pinyin": "Wǒ liù diǎn xiàbān.",
+        "en": "Ben saat altıda işten çıkıyorum."
+      },
+      {
+        "zh": "他每天很晚才下班。",
+        "pinyin": "Tā měitiān hěn wǎn cái xiàbān.",
+        "en": "O her gün çok geç işten çıkıyor."
+      },
+      {
+        "zh": "下班后我们一起吃饭吧。",
+        "pinyin": "Xiàbān hòu wǒmen yīqǐ chīfàn ba.",
+        "en": "İşten çıktıktan sonra birlikte yemek yiyelim."
+      },
+      {
+        "zh": "她下班回家很累。",
+        "pinyin": "Tā xiàbān huí jiā hěn lèi.",
+        "en": "O işten eve dönünce çok yorgun oluyor."
+      },
+      {
+        "zh": "今天我要提前下班。",
+        "pinyin": "Jīntiān wǒ yào tíqián xiàbān.",
+        "en": "Bugün erken çıkmam gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6474",
+    "hanzi": "下层",
+    "pinyin": "xiàcéng",
+    "meaning": "alt seviye, alt tabaka",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他出身于社会下层。",
+        "pinyin": "Tā chūshēn yú shèhuì xiàcéng.",
+        "en": "O toplumun alt tabakasından geliyor."
+      },
+      {
+        "zh": "这本书关注下层民众的生活。",
+        "pinyin": "Zhè běn shū guānzhù xiàcéng mínzhòng de shēnghuó.",
+        "en": "Bu kitap alt tabakadaki halkın yaşamına odaklanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6475",
+    "hanzi": "下场",
+    "pinyin": "xiàchǎng",
+    "meaning": "akıbet, son, sonuç",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他最终落得悲惨的下场。",
+        "pinyin": "Tā zuìzhōng luòde bēicǎn de xiàchǎng.",
+        "en": "O sonunda acı bir akıbetle karşılaştı."
+      },
+      {
+        "zh": "这样做会有什么下场?",
+        "pinyin": "Zhèyàng zuò huì yǒu shénme xiàchǎng?",
+        "en": "Böyle yapmanın sonu ne olur?"
+      }
+    ]
+  },
+  {
+    "id": "w6476",
+    "hanzi": "下降",
+    "pinyin": "xiàjiàng",
+    "meaning": "inmek, düşmek, azalmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "气温下降了很多。",
+        "pinyin": "Qìwēn xiàjiàngle hěn duō.",
+        "en": "Sıcaklık çok düştü."
+      },
+      {
+        "zh": "公司的销售额下降了。",
+        "pinyin": "Gōngsī de xiāoshòu'é xiàjiàng le.",
+        "en": "Şirketin satış rakamları düştü."
+      },
+      {
+        "zh": "飞机开始下降高度。",
+        "pinyin": "Fēijī kāishǐ xiàjiàng gāodù.",
+        "en": "Uçak irtifa düşürmeye başladı."
+      },
+      {
+        "zh": "水位持续下降。",
+        "pinyin": "Shuǐwèi chíxù xiàjiàng.",
+        "en": "Su seviyesi sürekli düşüyor."
+      },
+      {
+        "zh": "他的成绩明显下降了。",
+        "pinyin": "Tā de chéngjì míngxiǎn xiàjiàng le.",
+        "en": "Onun notları belirgin şekilde düştü."
+      }
+    ]
+  },
+  {
+    "id": "w6477",
+    "hanzi": "下来",
+    "pinyin": "xiàlái",
+    "meaning": "aşağı inmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请从楼上下来。",
+        "pinyin": "Qǐng cóng lóushàng xiàlái.",
+        "en": "Lütfen üst kattan aşağı in."
+      },
+      {
+        "zh": "他慢慢地走下来了。",
+        "pinyin": "Tā mànman de zǒu xiàlái le.",
+        "en": "O yavaş yavaş aşağı indi."
+      },
+      {
+        "zh": "雨停下来了。",
+        "pinyin": "Yǔ tíng xiàlái le.",
+        "en": "Yağmur durdu."
+      },
+      {
+        "zh": "把这段话记下来吧。",
+        "pinyin": "Bǎ zhè duàn huà jì xiàlái ba.",
+        "en": "Bu sözü not al."
+      },
+      {
+        "zh": "他从车上跳了下来。",
+        "pinyin": "Tā cóng chē shàng tiàole xiàlái.",
+        "en": "O arabadan aşağı atladı."
+      }
+    ]
+  },
+  {
+    "id": "w6478",
+    "hanzi": "下列",
+    "pinyin": "xiàliè",
+    "meaning": "aşağıdaki",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请阅读下列文章。",
+        "pinyin": "Qǐng yuèdú xiàliè wénzhāng.",
+        "en": "Lütfen aşağıdaki makaleyi okuyun."
+      },
+      {
+        "zh": "下列哪个答案是正确的?",
+        "pinyin": "Xiàliè nǎge dá'àn shì zhèngquè de?",
+        "en": "Aşağıdakilerden hangisi doğru cevaptır?"
+      },
+      {
+        "zh": "下列情况需要特别注意。",
+        "pinyin": "Xiàliè qíngkuàng xūyào tèbié zhùyì.",
+        "en": "Aşağıdaki durumlara özellikle dikkat edilmesi gerekir."
+      },
+      {
+        "zh": "请选择下列选项之一。",
+        "pinyin": "Qǐng xuǎnzé xiàliè xuǎnxiàng zhī yī.",
+        "en": "Lütfen aşağıdaki seçeneklerden birini seçin."
+      },
+      {
+        "zh": "下列数据来自官方统计。",
+        "pinyin": "Xiàliè shùjù láizì guānfāng tǒngjì.",
+        "en": "Aşağıdaki veriler resmi istatistiklerden alınmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w6479",
+    "hanzi": "下令",
+    "pinyin": "xiàlìng",
+    "meaning": "emir vermek, emretmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "将军下令全军进攻。",
+        "pinyin": "Jiāngjūn xiàlìng quánjūn jìngōng.",
+        "en": "General tüm orduya saldırı emri verdi."
+      },
+      {
+        "zh": "政府下令关闭工厂。",
+        "pinyin": "Zhèngfǔ xiàlìng guānbì gōngchǎng.",
+        "en": "Hükümet fabrikayı kapatma emri verdi."
+      }
+    ]
+  },
+  {
+    "id": "w6480",
+    "hanzi": "下面",
+    "pinyin": "xiàmian",
+    "meaning": "alt taraf, aşağısı; bir sonraki",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "书在桌子下面。",
+        "pinyin": "Shū zài zhuōzi xiàmian.",
+        "en": "Kitap masanın altında."
+      },
+      {
+        "zh": "下面请听我说。",
+        "pinyin": "Xiàmian qǐng tīng wǒ shuō.",
+        "en": "Şimdi lütfen beni dinleyin."
+      },
+      {
+        "zh": "他住在楼下面。",
+        "pinyin": "Tā zhù zài lóu xiàmian.",
+        "en": "O binanın alt katında oturuyor."
+      },
+      {
+        "zh": "下面是今天的天气预报。",
+        "pinyin": "Xiàmian shì jīntiān de tiānqì yùbào.",
+        "en": "Aşağıda bugünün hava durumu var."
+      },
+      {
+        "zh": "桥下面有一条小河。",
+        "pinyin": "Qiáo xiàmian yǒu yī tiáo xiǎo hé.",
+        "en": "Köprünün altında küçük bir nehir var."
+      }
+    ]
+  },
+  {
+    "id": "w6481",
+    "hanzi": "下去",
+    "pinyin": "xiàqù",
+    "meaning": "aşağı inmek; devam etmek",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请你先下去等我。",
+        "pinyin": "Qǐng nǐ xiān xiàqù děng wǒ.",
+        "en": "Lütfen önce aşağı in ve beni bekle."
+      },
+      {
+        "zh": "我们要坚持下去。",
+        "pinyin": "Wǒmen yào jiānchí xiàqù.",
+        "en": "Israrla devam etmeliyiz."
+      },
+      {
+        "zh": "他把话说了下去。",
+        "pinyin": "Tā bǎ huà shuōle xiàqù.",
+        "en": "O sözünü devam ettirdi."
+      },
+      {
+        "zh": "这样的生活我过不下去了。",
+        "pinyin": "Zhèyàng de shēnghuó wǒ guò bù xiàqù le.",
+        "en": "Böyle bir hayatı artık sürdüremiyorum."
+      },
+      {
+        "zh": "他从楼梯上摔了下去。",
+        "pinyin": "Tā cóng lóutī shàng shuāile xiàqù.",
+        "en": "O merdivenden aşağı düştü."
+      }
+    ]
+  },
+  {
+    "id": "w6482",
+    "hanzi": "先后",
+    "pinyin": "xiān-hòu",
+    "meaning": "önce ve sonra; sırasıyla",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他们先后到达了目的地。",
+        "pinyin": "Tāmen xiānhòu dàodále mùdìdì.",
+        "en": "Onlar sırasıyla hedefe vardılar."
+      },
+      {
+        "zh": "两人先后发言。",
+        "pinyin": "Liǎng rén xiānhòu fāyán.",
+        "en": "İki kişi sırayla konuştu."
+      },
+      {
+        "zh": "他先后去过很多国家。",
+        "pinyin": "Tā xiānhòu qùguò hěn duō guójiā.",
+        "en": "O sırasıyla birçok ülkeye gitti."
+      },
+      {
+        "zh": "公司先后推出了三款新产品。",
+        "pinyin": "Gōngsī xiānhòu tuīchūle sān kuǎn xīn chǎnpǐn.",
+        "en": "Şirket sırasıyla üç yeni ürün çıkardı."
+      },
+      {
+        "zh": "不管先后,大家都很努力。",
+        "pinyin": "Bùguǎn xiānhòu, dàjiā dōu hěn nǔlì.",
+        "en": "Sırası ne olursa olsun, herkes çok çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6483",
+    "hanzi": "先进",
+    "pinyin": "xiānjìn",
+    "meaning": "ileri, gelişmiş, öncü",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这是一项先进的技术。",
+        "pinyin": "Zhè shì yī xiàng xiānjìn de jìshù.",
+        "en": "Bu ileri bir teknolojidir."
+      },
+      {
+        "zh": "这个国家的科技非常先进。",
+        "pinyin": "Zhège guójiā de kējì fēicháng xiānjìn.",
+        "en": "Bu ülkenin teknolojisi çok gelişmiş."
+      },
+      {
+        "zh": "他获得了先进工作者的称号。",
+        "pinyin": "Tā huòdéle xiānjìn gōngzuòzhě de chēnghào.",
+        "en": "O örnek çalışan unvanını kazandı."
+      },
+      {
+        "zh": "工厂引进了先进设备。",
+        "pinyin": "Gōngchǎng yǐnjìnle xiānjìn shèbèi.",
+        "en": "Fabrika ileri teknoloji ekipman ithal etti."
+      },
+      {
+        "zh": "先进的理念推动了社会发展。",
+        "pinyin": "Xiānjìn de lǐniàn tuīdòngle shèhuì fāzhǎn.",
+        "en": "İleri fikirler toplumsal gelişimi teşvik etti."
+      }
+    ]
+  },
+  {
+    "id": "w6484",
+    "hanzi": "先烈",
+    "pinyin": "xiānliè",
+    "meaning": "şehit",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "我们缅怀革命先烈。",
+        "pinyin": "Wǒmen miǎnhuái gémìng xiānliè.",
+        "en": "Devrim şehitlerini anıyoruz."
+      },
+      {
+        "zh": "先烈们为国家献出了生命。",
+        "pinyin": "Xiānlièmen wèi guójiā xiànchūle shēngmìng.",
+        "en": "Şehitler ülkeleri için hayatlarını feda ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w6485",
+    "hanzi": "先前",
+    "pinyin": "xiānqián",
+    "meaning": "önceden, önceleri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "先前我没有想到这一点。",
+        "pinyin": "Xiānqián wǒ méiyǒu xiǎngdào zhè yī diǎn.",
+        "en": "Önceden bunu düşünmemiştim."
+      },
+      {
+        "zh": "他比先前更成熟了。",
+        "pinyin": "Tā bǐ xiānqián gèng chéngshú le.",
+        "en": "O önceki halinden daha olgunlaştı."
+      },
+      {
+        "zh": "先前的计划已经取消了。",
+        "pinyin": "Xiānqián de jìhuà yǐjīng qǔxiāo le.",
+        "en": "Önceki plan zaten iptal edildi."
+      },
+      {
+        "zh": "情况和先前完全不同了。",
+        "pinyin": "Qíngkuàng hé xiānqián wánquán bùtóng le.",
+        "en": "Durum önceki halinden tamamen farklı."
+      },
+      {
+        "zh": "先前我们讨论过这个问题。",
+        "pinyin": "Xiānqián wǒmen tǎolùnguò zhège wèntí.",
+        "en": "Bu sorunu daha önce tartışmıştık."
+      }
+    ]
+  },
+  {
+    "id": "w6486",
+    "hanzi": "先天",
+    "pinyin": "xiāntiān",
+    "meaning": "doğuştan, yaradılıştan",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他患有先天性心脏病。",
+        "pinyin": "Tā huànyǒu xiāntiānxìng xīnzàngbìng.",
+        "en": "Onda doğuştan kalp hastalığı var."
+      },
+      {
+        "zh": "先天条件不能决定一切。",
+        "pinyin": "Xiāntiān tiáojiàn bùnéng juédìng yīqiè.",
+        "en": "Doğuştan gelen koşullar her şeyi belirleyemez."
+      }
+    ]
   }
 ]

@@ -235480,5 +235480,878 @@
         "en": "Hayatın anlamı sürekli keşfetmekte yatar."
       }
     ]
+  },
+  {
+    "id": "w7102",
+    "hanzi": "在职",
+    "pinyin": "zàizhí",
+    "meaning": "istihdamda olmak, çalışıyor olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他仍然在职,还没退休。",
+        "pinyin": "Tā réngrán zàizhí, hái méi tuìxiū.",
+        "en": "O hâlâ görevde, henüz emekli olmadı."
+      },
+      {
+        "zh": "在职期间他表现优异。",
+        "pinyin": "Zàizhí qījiān tā biǎoxiàn yōuyì.",
+        "en": "Görevde olduğu süre boyunca üstün bir performans sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w7103",
+    "hanzi": "载",
+    "pinyin": "zài",
+    "meaning": "taşımak; dolu olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这辆卡车载着很多货物。",
+        "pinyin": "Zhè liàng kǎchē zàizhe hěn duō huòwù.",
+        "en": "Bu kamyon çok fazla mal taşıyor."
+      },
+      {
+        "zh": "这份合同记载了双方的责任。",
+        "pinyin": "Zhè fèn hétong jìzǎile shuāngfāng de zérèn.",
+        "en": "Bu sözleşme her iki tarafın sorumluluklarını kaydediyor."
+      },
+      {
+        "zh": "这艘船最多能载五十人。",
+        "pinyin": "Zhè sōu chuán zuìduō néng zài wǔshí rén.",
+        "en": "Bu gemi en fazla elli kişi taşıyabilir."
+      },
+      {
+        "zh": "他满载而归。",
+        "pinyin": "Tā mǎnzài ér guī.",
+        "en": "O dolu bir yükle geri döndü."
+      },
+      {
+        "zh": "报纸刊载了这条新闻。",
+        "pinyin": "Bàozhǐ kānzǎile zhè tiáo xīnwén.",
+        "en": "Gazete bu haberi yayınladı."
+      }
+    ]
+  },
+  {
+    "id": "w7104",
+    "hanzi": "载重",
+    "pinyin": "zàizhòng",
+    "meaning": "yük taşıma kapasitesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这辆车的载重是五吨。",
+        "pinyin": "Zhè liàng chē de zàizhòng shì wǔ dūn.",
+        "en": "Bu aracın yük taşıma kapasitesi beş tondur."
+      },
+      {
+        "zh": "超过载重限制是违规的。",
+        "pinyin": "Chāoguò zàizhòng xiànzhì shì wéiguī de.",
+        "en": "Yük taşıma sınırını aşmak kural ihlalidir."
+      }
+    ]
+  },
+  {
+    "id": "w7105",
+    "hanzi": "再版",
+    "pinyin": "zàibǎn",
+    "meaning": "ikinci baskı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这本书已经再版了三次。",
+        "pinyin": "Zhè běn shū yǐjīng zàibǎnle sān cì.",
+        "en": "Bu kitap zaten üç kez yeniden basıldı."
+      },
+      {
+        "zh": "出版社决定再版这本畅销书。",
+        "pinyin": "Chūbǎnshè juédìng zàibǎn zhè běn chàngxiāo shū.",
+        "en": "Yayınevi bu çok satan kitabı yeniden basmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7106",
+    "hanzi": "再次",
+    "pinyin": "zàicì",
+    "meaning": "bir kere daha, tekrar",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他再次强调了这个问题的重要性。",
+        "pinyin": "Tā zàicì qiángdiàole zhège wèntí de zhòngyàoxìng.",
+        "en": "O bu sorunun önemini bir kez daha vurguladı."
+      },
+      {
+        "zh": "我们再次见面了。",
+        "pinyin": "Wǒmen zàicì jiànmiàn le.",
+        "en": "Biz tekrar görüştük."
+      },
+      {
+        "zh": "他再次尝试后终于成功了。",
+        "pinyin": "Tā zàicì chángshì hòu zhōngyú chénggōng le.",
+        "en": "O bir kez daha denedikten sonra sonunda başardı."
+      },
+      {
+        "zh": "请再次确认这个信息。",
+        "pinyin": "Qǐng zàicì quèrèn zhège xìnxī.",
+        "en": "Lütfen bu bilgiyi bir kez daha teyit edin."
+      },
+      {
+        "zh": "这个错误再次出现了。",
+        "pinyin": "Zhège cuòwù zàicì chūxiàn le.",
+        "en": "Bu hata tekrar ortaya çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w7107",
+    "hanzi": "再度",
+    "pinyin": "zàidù",
+    "meaning": "bir kere daha, tekrar",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他们再度合作完成了这个项目。",
+        "pinyin": "Tāmen zàidù hézuò wánchéngle zhège xiàngmù.",
+        "en": "Onlar tekrar işbirliği yaparak bu projeyi tamamladı."
+      },
+      {
+        "zh": "价格再度上涨了。",
+        "pinyin": "Jiàgé zàidù shàngzhǎng le.",
+        "en": "Fiyatlar bir kez daha yükseldi."
+      }
+    ]
+  },
+  {
+    "id": "w7108",
+    "hanzi": "再生",
+    "pinyin": "zàishēng",
+    "meaning": "yeniden canlanmak, geri dönüşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "蜥蜴的尾巴可以再生。",
+        "pinyin": "Xīyì de wěiba kěyǐ zàishēng.",
+        "en": "Kertenkelenin kuyruğu yeniden büyüyebilir."
+      },
+      {
+        "zh": "再生能源越来越受到重视。",
+        "pinyin": "Zàishēng néngyuán yuè lái yuè shòudào zhòngshì.",
+        "en": "Yenilenebilir enerji giderek daha fazla önem kazanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7109",
+    "hanzi": "咱",
+    "pinyin": "zán",
+    "meaning": "biz (yakınlık ifade eden)",
+    "partOfSpeech": "zamir",
+    "level": 5,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "咱一起去吧。",
+        "pinyin": "Zán yīqǐ qù ba.",
+        "en": "Hadi birlikte gidelim."
+      },
+      {
+        "zh": "咱是老朋友了。",
+        "pinyin": "Zán shì lǎo péngyou le.",
+        "en": "Biz eski dostuz."
+      },
+      {
+        "zh": "咱不能就这样放弃。",
+        "pinyin": "Zán bùnéng jiù zhèyàng fàngqì.",
+        "en": "Böyle vazgeçemeyiz."
+      },
+      {
+        "zh": "咱现在该怎么办?",
+        "pinyin": "Zán xiànzài gāi zěnme bàn?",
+        "en": "Şimdi ne yapmalıyız?"
+      },
+      {
+        "zh": "咱一定能做到。",
+        "pinyin": "Zán yīdìng néng zuòdào.",
+        "en": "Kesinlikle başarabiliriz."
+      }
+    ]
+  },
+  {
+    "id": "w7110",
+    "hanzi": "攒",
+    "pinyin": "zǎn",
+    "meaning": "biriktirmek, toplamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他攒钱买了一辆车。",
+        "pinyin": "Tā zǎn qián mǎile yī liàng chē.",
+        "en": "O para biriktirip bir araba satın aldı."
+      },
+      {
+        "zh": "她一直在攒钱去旅行。",
+        "pinyin": "Tā yīzhí zài zǎn qián qù lǚxíng.",
+        "en": "O seyahat etmek için hep para biriktiriyor."
+      },
+      {
+        "zh": "他攒了很多邮票。",
+        "pinyin": "Tā zǎnle hěn duō yóupiào.",
+        "en": "O çok fazla pul biriktirdi."
+      },
+      {
+        "zh": "多年来他攒了不少积蓄。",
+        "pinyin": "Duō nián lái tā zǎnle bùshǎo jīxù.",
+        "en": "Yıllar içinde biriktirdiği hatırı sayılır bir birikim oldu."
+      },
+      {
+        "zh": "他每个月都攒一些钱。",
+        "pinyin": "Tā měi gè yuè dōu zǎn yīxiē qián.",
+        "en": "O her ay biraz para biriktiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w7111",
+    "hanzi": "暂",
+    "pinyin": "zàn",
+    "meaning": "kısa süreli, geçici",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这只是暂时的困难。",
+        "pinyin": "Zhè zhǐshì zànshí de kùnnan.",
+        "en": "Bu sadece geçici bir zorluk."
+      },
+      {
+        "zh": "他暂住在朋友家。",
+        "pinyin": "Tā zàn zhù zài péngyou jiā.",
+        "en": "O geçici olarak arkadaşının evinde kalıyor."
+      },
+      {
+        "zh": "会议暂告一段落。",
+        "pinyin": "Huìyì zàn gào yī duànluò.",
+        "en": "Toplantı geçici olarak bir kesintiye girdi."
+      },
+      {
+        "zh": "请暂候片刻。",
+        "pinyin": "Qǐng zàn hòu piànkè.",
+        "en": "Lütfen biraz bekleyin."
+      },
+      {
+        "zh": "这个计划暂不实施。",
+        "pinyin": "Zhège jìhuà zàn bù shíshī.",
+        "en": "Bu plan şimdilik uygulanmayacak."
+      }
+    ]
+  },
+  {
+    "id": "w7112",
+    "hanzi": "暂且",
+    "pinyin": "zànqiě",
+    "meaning": "şimdilik, kısa süreliğine",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这个问题暂且放一放。",
+        "pinyin": "Zhège wèntí zànqiě fàng yī fàng.",
+        "en": "Bu sorunu şimdilik bir kenara bırakalım."
+      },
+      {
+        "zh": "我们暂且不谈这件事。",
+        "pinyin": "Wǒmen zànqiě bù tán zhè jiàn shì.",
+        "en": "Bu konuyu şimdilik konuşmayalım."
+      }
+    ]
+  },
+  {
+    "id": "w7113",
+    "hanzi": "暂停",
+    "pinyin": "zàntíng",
+    "meaning": "askıya almak, mola vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "比赛暂停了一会儿。",
+        "pinyin": "Bǐsài zàntíngle yīhuìr.",
+        "en": "Maç bir süre durduruldu."
+      },
+      {
+        "zh": "教练叫了暂停。",
+        "pinyin": "Jiàoliàn jiàole zàntíng.",
+        "en": "Antrenör mola istedi."
+      },
+      {
+        "zh": "服务暂停维护。",
+        "pinyin": "Fúwù zàntíng wéihù.",
+        "en": "Hizmet bakım için askıya alındı."
+      },
+      {
+        "zh": "项目因资金问题暂停了。",
+        "pinyin": "Xiàngmù yīn zījīn wèntí zàntíng le.",
+        "en": "Proje mali sorunlar nedeniyle askıya alındı."
+      },
+      {
+        "zh": "请暂停播放这段视频。",
+        "pinyin": "Qǐng zàntíng bòfàng zhè duàn shìpín.",
+        "en": "Lütfen bu videonun oynatılmasını durdurun."
+      }
+    ]
+  },
+  {
+    "id": "w7114",
+    "hanzi": "赞",
+    "pinyin": "zàn",
+    "meaning": "desteklemek, övmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "大家都赞他的勇气。",
+        "pinyin": "Dàjiā dōu zàn tā de yǒngqì.",
+        "en": "Herkes onun cesaretini takdir ediyor."
+      },
+      {
+        "zh": "他为这篇文章点了赞。",
+        "pinyin": "Tā wèi zhè piān wénzhāng diǎnle zàn.",
+        "en": "O bu makaleyi beğendi."
+      },
+      {
+        "zh": "老师赞扬了他的努力。",
+        "pinyin": "Lǎoshī zànyángle tā de nǔlì.",
+        "en": "Öğretmen onun çabasını övdü."
+      },
+      {
+        "zh": "这幅画得到了众人的称赞。",
+        "pinyin": "Zhè fú huà dédàole zhòngrén de chēngzàn.",
+        "en": "Bu tablo herkesin takdirini kazandı."
+      },
+      {
+        "zh": "我很赞同你的想法。",
+        "pinyin": "Wǒ hěn zàntóng nǐ de xiǎngfǎ.",
+        "en": "Fikrini çok destekliyorum."
+      }
+    ]
+  },
+  {
+    "id": "w7115",
+    "hanzi": "葬礼",
+    "pinyin": "zànglǐ",
+    "meaning": "cenaze töreni",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "葬礼在教堂举行。",
+        "pinyin": "Zànglǐ zài jiàotáng jǔxíng.",
+        "en": "Cenaze töreni kilisede düzenlendi."
+      },
+      {
+        "zh": "很多人参加了他的葬礼。",
+        "pinyin": "Hěn duō rén cānjiāle tā de zànglǐ.",
+        "en": "Birçok kişi onun cenaze törenine katıldı."
+      },
+      {
+        "zh": "葬礼气氛十分庄严肃穆。",
+        "pinyin": "Zànglǐ qìfēn shífēn zhuāngyán sùmù.",
+        "en": "Cenaze töreninin havası son derece ciddi ve ağırbaşlı."
+      },
+      {
+        "zh": "他为父亲筹备了葬礼。",
+        "pinyin": "Tā wèi fùqīn chóubèile zànglǐ.",
+        "en": "O babası için cenaze töreni hazırladı."
+      },
+      {
+        "zh": "葬礼结束后大家默默离去。",
+        "pinyin": "Zànglǐ jiéshù hòu dàjiā mòmò líqù.",
+        "en": "Cenaze töreni bittikten sonra herkes sessizce ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7116",
+    "hanzi": "遭",
+    "pinyin": "zāo",
+    "meaning": "maruz kalmak, -e uğramak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他遭到了严厉的批评。",
+        "pinyin": "Tā zāodàole yánlì de pīpíng.",
+        "en": "O sert bir eleştiriyle karşılaştı."
+      },
+      {
+        "zh": "这个村庄遭了水灾。",
+        "pinyin": "Zhège cūnzhuāng zāole shuǐzāi.",
+        "en": "Bu köy sel felaketine maruz kaldı."
+      },
+      {
+        "zh": "他无缘无故遭人误解。",
+        "pinyin": "Tā wúyuánwúgù zāo rén wùjiě.",
+        "en": "O sebepsiz yere yanlış anlaşıldı."
+      },
+      {
+        "zh": "公司遭遇了严重的经济危机。",
+        "pinyin": "Gōngsī zāoyùle yánzhòng de jīngjì wēijī.",
+        "en": "Şirket ciddi bir ekonomik krizle karşılaştı."
+      },
+      {
+        "zh": "他因言语不当而遭到了处罚。",
+        "pinyin": "Tā yīn yányǔ bùdàng ér zāodàole chǔfá.",
+        "en": "O uygunsuz sözleri yüzünden cezalandırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7117",
+    "hanzi": "遭受",
+    "pinyin": "zāoshòu",
+    "meaning": "maruz kalmak, -e uğramak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个地区遭受了严重的旱灾。",
+        "pinyin": "Zhège dìqū zāoshòule yánzhòng de hànzāi.",
+        "en": "Bu bölge ciddi bir kuraklığa maruz kaldı."
+      },
+      {
+        "zh": "他遭受了巨大的心理创伤。",
+        "pinyin": "Tā zāoshòule jùdà de xīnlǐ chuāngshāng.",
+        "en": "O büyük bir psikolojik travmaya maruz kaldı."
+      }
+    ]
+  },
+  {
+    "id": "w7118",
+    "hanzi": "遭遇",
+    "pinyin": "zāoyù",
+    "meaning": "karşılaşmak (kötü bir durumla), talihsizlik yaşamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他在旅途中遭遇了很多困难。",
+        "pinyin": "Tā zài lǚtú zhōng zāoyùle hěn duō kùnnan.",
+        "en": "O seyahati sırasında birçok zorlukla karşılaştı."
+      },
+      {
+        "zh": "这个球队遭遇了连续失败。",
+        "pinyin": "Zhège qiúduì zāoyùle liánxù shībài.",
+        "en": "Bu takım üst üste yenilgilerle karşılaştı."
+      },
+      {
+        "zh": "他向朋友讲述了自己的遭遇。",
+        "pinyin": "Tā xiàng péngyou jiǎngshùle zìjǐ de zāoyù.",
+        "en": "O arkadaşına kendi başına gelenleri anlattı."
+      },
+      {
+        "zh": "登山队遭遇了恶劣天气。",
+        "pinyin": "Dēngshānduì zāoyùle èliè tiānqì.",
+        "en": "Dağcılık ekibi kötü hava koşullarıyla karşılaştı."
+      },
+      {
+        "zh": "他不幸的遭遇让人同情。",
+        "pinyin": "Tā bùxìng de zāoyù ràng rén tóngqíng.",
+        "en": "Onun talihsiz durumu insanları üzüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7119",
+    "hanzi": "早晨",
+    "pinyin": "zǎochén",
+    "meaning": "sabah",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他每天早晨都去跑步。",
+        "pinyin": "Tā měitiān zǎochén dōu qù pǎobù.",
+        "en": "O her sabah koşuya gidiyor."
+      },
+      {
+        "zh": "早晨的空气很清新。",
+        "pinyin": "Zǎochén de kōngqì hěn qīngxīn.",
+        "en": "Sabahın havası çok temiz."
+      },
+      {
+        "zh": "我通常早晨六点起床。",
+        "pinyin": "Wǒ tōngcháng zǎochén liù diǎn qǐchuáng.",
+        "en": "Genellikle sabah altıda kalkarım."
+      },
+      {
+        "zh": "早晨的阳光洒满了房间。",
+        "pinyin": "Zǎochén de yángguāng sǎmǎnle fángjiān.",
+        "en": "Sabahın güneş ışığı odayı doldurdu."
+      },
+      {
+        "zh": "早晨他喜欢喝一杯咖啡。",
+        "pinyin": "Zǎochén tā xǐhuān hē yī bēi kāfēi.",
+        "en": "Sabahları bir fincan kahve içmeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w7120",
+    "hanzi": "早饭",
+    "pinyin": "zǎofàn",
+    "meaning": "kahvaltı",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "我每天都吃早饭。",
+        "pinyin": "Wǒ měitiān dōu chī zǎofàn.",
+        "en": "Her gün kahvaltı yaparım."
+      },
+      {
+        "zh": "早饭很重要,不能省略。",
+        "pinyin": "Zǎofàn hěn zhòngyào, bùnéng shěnglüè.",
+        "en": "Kahvaltı çok önemli, atlanmamalı."
+      },
+      {
+        "zh": "妈妈做了丰盛的早饭。",
+        "pinyin": "Māma zuòle fēngshèng de zǎofàn.",
+        "en": "Annem bol bir kahvaltı hazırladı."
+      },
+      {
+        "zh": "他匆忙吃了几口早饭就出门了。",
+        "pinyin": "Tā cōngmáng chīle jǐ kǒu zǎofàn jiù chūmén le.",
+        "en": "O aceleyle birkaç lokma kahvaltı yapıp evden çıktı."
+      },
+      {
+        "zh": "早饭吃什么好呢?",
+        "pinyin": "Zǎofàn chī shénme hǎo ne?",
+        "en": "Kahvaltıda ne yesek iyi olur?"
+      }
+    ]
+  },
+  {
+    "id": "w7121",
+    "hanzi": "早日",
+    "pinyin": "zǎorì",
+    "meaning": "en yakın zamanda, bir an önce",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "祝你早日康复。",
+        "pinyin": "Zhù nǐ zǎorì kāngfù.",
+        "en": "Bir an önce iyileşmeni dilerim."
+      },
+      {
+        "zh": "希望这个问题能早日解决。",
+        "pinyin": "Xīwàng zhège wèntí néng zǎorì jiějué.",
+        "en": "Bu sorunun en yakın zamanda çözülmesini umuyorum."
+      },
+      {
+        "zh": "我们期待项目早日完成。",
+        "pinyin": "Wǒmen qídài xiàngmù zǎorì wánchéng.",
+        "en": "Projenin bir an önce tamamlanmasını bekliyoruz."
+      },
+      {
+        "zh": "祝愿祖国早日繁荣富强。",
+        "pinyin": "Zhùyuàn zǔguó zǎorì fánróng fùqiáng.",
+        "en": "Vatanımızın bir an önce müreffeh ve güçlü olmasını diliyorum."
+      },
+      {
+        "zh": "希望你们早日团聚。",
+        "pinyin": "Xīwàng nǐmen zǎorì tuánjù.",
+        "en": "Bir an önce kavuşmanızı dilerim."
+      }
+    ]
+  },
+  {
+    "id": "w7122",
+    "hanzi": "早晚",
+    "pinyin": "zǎowǎn",
+    "meaning": "sabah akşam; er ya da geç",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "早晚温差很大。",
+        "pinyin": "Zǎowǎn wēnchā hěn dà.",
+        "en": "Sabah akşam sıcaklık farkı çok büyük."
+      },
+      {
+        "zh": "他早晚会知道真相的。",
+        "pinyin": "Tā zǎowǎn huì zhīdào zhēnxiàng de.",
+        "en": "O er ya da geç gerçeği öğrenecek."
+      },
+      {
+        "zh": "早晚服用一次即可。",
+        "pinyin": "Zǎowǎn fúyòng yī cì jíkě.",
+        "en": "Sabah akşam bir kez kullanılması yeterli."
+      },
+      {
+        "zh": "这个真相早晚会被揭露。",
+        "pinyin": "Zhège zhēnxiàng zǎowǎn huì bèi jiēlù.",
+        "en": "Bu gerçek er ya da geç ortaya çıkacak."
+      },
+      {
+        "zh": "他坚信自己早晚会成功。",
+        "pinyin": "Tā jiānxìn zìjǐ zǎowǎn huì chénggōng.",
+        "en": "O er ya da geç başarılı olacağına kesinlikle inanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7123",
+    "hanzi": "早已",
+    "pinyin": "zǎoyǐ",
+    "meaning": "çoktan, uzun zaman önce",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他早已离开了这个城市。",
+        "pinyin": "Tā zǎoyǐ líkāile zhège chéngshì.",
+        "en": "O çoktan bu şehirden ayrıldı."
+      },
+      {
+        "zh": "这个消息她早已知道了。",
+        "pinyin": "Zhège xiāoxi tā zǎoyǐ zhīdào le.",
+        "en": "O bu haberi çoktan biliyordu."
+      },
+      {
+        "zh": "他们早已成为了好朋友。",
+        "pinyin": "Tāmen zǎoyǐ chéngwéile hǎo péngyou.",
+        "en": "Onlar çoktan iyi arkadaş olmuşlardı."
+      },
+      {
+        "zh": "这座建筑早已不复存在。",
+        "pinyin": "Zhè zuò jiànzhù zǎoyǐ bùfù cúnzài.",
+        "en": "Bu bina artık çoktan mevcut değil."
+      },
+      {
+        "zh": "我早已料到会有这个结果。",
+        "pinyin": "Wǒ zǎoyǐ liàodào huì yǒu zhège jiéguǒ.",
+        "en": "Bu sonucun olacağını çoktan tahmin etmiştim."
+      }
+    ]
+  },
+  {
+    "id": "w7124",
+    "hanzi": "造",
+    "pinyin": "zào",
+    "meaning": "yapmak, inşa etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们正在造一座新桥。",
+        "pinyin": "Tāmen zhèngzài zào yī zuò xīn qiáo.",
+        "en": "Onlar yeni bir köprü inşa ediyor."
+      },
+      {
+        "zh": "这个工厂专门造汽车零件。",
+        "pinyin": "Zhège gōngchǎng zhuānmén zào qìchē língjiàn.",
+        "en": "Bu fabrika özellikle araba parçaları üretiyor."
+      },
+      {
+        "zh": "他造了一个句子。",
+        "pinyin": "Tā zàole yī gè jùzi.",
+        "en": "O bir cümle kurdu."
+      },
+      {
+        "zh": "这栋楼是去年建造的。",
+        "pinyin": "Zhè dòng lóu shì qùnián jiànzào de.",
+        "en": "Bu bina geçen yıl inşa edildi."
+      },
+      {
+        "zh": "他伪造了这份文件。",
+        "pinyin": "Tā wěizàole zhè fèn wénjiàn.",
+        "en": "O bu belgeyi sahtecilikle yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7125",
+    "hanzi": "造反",
+    "pinyin": "zàofǎn",
+    "meaning": "isyan etmek, başkaldırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "农民们起来造反了。",
+        "pinyin": "Nóngmínmen qǐlái zàofǎn le.",
+        "en": "Çiftçiler ayaklanıp isyan etti."
+      },
+      {
+        "zh": "历史上多次发生了造反事件。",
+        "pinyin": "Lìshǐ shàng duō cì fāshēngle zàofǎn shìjiàn.",
+        "en": "Tarihte birçok kez isyan olayları meydana geldi."
+      }
+    ]
+  },
+  {
+    "id": "w7126",
+    "hanzi": "造福",
+    "pinyin": "zàofú",
+    "meaning": "fayda sağlamak, refah getirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "这项工程将造福子孙后代。",
+        "pinyin": "Zhè xiàng gōngchéng jiāng zàofú zǐsūn hòudài.",
+        "en": "Bu proje gelecek nesillere fayda sağlayacak."
+      },
+      {
+        "zh": "他希望自己的发明能造福社会。",
+        "pinyin": "Tā xīwàng zìjǐ de fāmíng néng zàofú shèhuì.",
+        "en": "O kendi icadının topluma fayda sağlamasını umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w7127",
+    "hanzi": "造型",
+    "pinyin": "zàoxíng",
+    "meaning": "model, form, tasarım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这个雕塑的造型很独特。",
+        "pinyin": "Zhège diāosù de zàoxíng hěn dútè.",
+        "en": "Bu heykelin formu çok özgün."
+      },
+      {
+        "zh": "她今天换了一个新造型。",
+        "pinyin": "Tā jīntiān huànle yī gè xīn zàoxíng.",
+        "en": "O bugün yeni bir görünüme geçti."
+      },
+      {
+        "zh": "这款车的造型时尚新颖。",
+        "pinyin": "Zhè kuǎn chē de zàoxíng shíshàng xīnyǐng.",
+        "en": "Bu araba modelinin tasarımı modern ve özgün."
+      },
+      {
+        "zh": "设计师精心设计了产品造型。",
+        "pinyin": "Shèjìshī jīngxīn shèjìle chǎnpǐn zàoxíng.",
+        "en": "Tasarımcı ürün formunu özenle tasarladı."
+      },
+      {
+        "zh": "这座建筑造型宏伟壮观。",
+        "pinyin": "Zhè zuò jiànzhù zàoxíng hóngwěi zhuàngguān.",
+        "en": "Bu binanın formu görkemli ve muhteşem."
+      }
+    ]
+  },
+  {
+    "id": "w7128",
+    "hanzi": "噪音",
+    "pinyin": "zàoyīn",
+    "meaning": "gürültü, rahatsız edici ses",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "外面的噪音太大了。",
+        "pinyin": "Wàimian de zàoyīn tài dà le.",
+        "en": "Dışarıdaki gürültü çok fazla."
+      },
+      {
+        "zh": "施工产生了很大的噪音。",
+        "pinyin": "Shīgōng chǎnshēngle hěn dà de zàoyīn.",
+        "en": "İnşaat büyük gürültüye neden oldu."
+      },
+      {
+        "zh": "耳塞可以减少噪音的干扰。",
+        "pinyin": "Ěrsāi kěyǐ jiǎnshǎo zàoyīn de gānrǎo.",
+        "en": "Kulak tıkacı gürültü rahatsızlığını azaltabilir."
+      },
+      {
+        "zh": "交通噪音影响了居民的生活。",
+        "pinyin": "Jiāotōng zàoyīn yǐngxiǎngle jūmín de shēnghuó.",
+        "en": "Trafik gürültüsü sakinlerin yaşamını etkiledi."
+      },
+      {
+        "zh": "这个地区噪音污染很严重。",
+        "pinyin": "Zhège dìqū zàoyīn wūrǎn hěn yánzhòng.",
+        "en": "Bu bölgede gürültü kirliliği çok ciddidir."
+      }
+    ]
+  },
+  {
+    "id": "w7129",
+    "hanzi": "增",
+    "pinyin": "zēng",
+    "meaning": "artırmak, artmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "今年销量大增。",
+        "pinyin": "Jīnnián xiāoliàng dà zēng.",
+        "en": "Bu yıl satışlar büyük ölçüde arttı."
+      },
+      {
+        "zh": "公司决定给员工增薪。",
+        "pinyin": "Gōngsī juédìng gěi yuángōng zēngxīn.",
+        "en": "Şirket çalışanların maaşını artırmaya karar verdi."
+      },
+      {
+        "zh": "人口逐年增多。",
+        "pinyin": "Rénkǒu zhúnián zēng duō.",
+        "en": "Nüfus yıldan yıla artıyor."
+      },
+      {
+        "zh": "这些措施有效增加了收入。",
+        "pinyin": "Zhèxiē cuòshī yǒuxiào zēngjiāle shōurù.",
+        "en": "Bu önlemler geliri etkili bir şekilde artırdı."
+      },
+      {
+        "zh": "他的体重增加了不少。",
+        "pinyin": "Tā de tǐzhòng zēngjiāle bùshǎo.",
+        "en": "Onun kilosu hatırı sayılır miktarda arttı."
+      }
+    ]
   }
 ]

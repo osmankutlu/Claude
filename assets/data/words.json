@@ -189481,5 +189481,758 @@
         "en": "Fotoğrafa bakarken manasızca gülmeye başladı."
       }
     ]
+  },
+  {
+    "id": "w5533",
+    "hanzi": "傻眼",
+    "pinyin": "shǎyǎn",
+    "meaning": "şaşırıp donakalmak, sersemleşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "听到这个消息，他一下子傻眼了。",
+        "pinyin": "Tīngdào zhège xiāoxi, tā yíxiàzi shǎyǎn le.",
+        "en": "Bu haberi duyunca bir anda donakaldı."
+      },
+      {
+        "zh": "看到成绩单，她傻眼了。",
+        "pinyin": "Kàndào chéngjìdān, tā shǎyǎn le.",
+        "en": "Karne notlarını görünce şaşkına döndü."
+      }
+    ]
+  },
+  {
+    "id": "w5534",
+    "hanzi": "傻子",
+    "pinyin": "shǎzi",
+    "meaning": "aptal, budala kimse",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "别把我当傻子。",
+        "pinyin": "Bié bǎ wǒ dàng shǎzi.",
+        "en": "Beni aptal yerine koyma."
+      },
+      {
+        "zh": "只有傻子才会相信这种事。",
+        "pinyin": "Zhǐyǒu shǎzi cái huì xiāngxìn zhè zhǒng shì.",
+        "en": "Sadece aptallar böyle bir şeye inanır."
+      },
+      {
+        "zh": "他被朋友当成了傻子。",
+        "pinyin": "Tā bèi péngyou dàngchéng le shǎzi.",
+        "en": "Arkadaşı tarafından aptal yerine kondu."
+      },
+      {
+        "zh": "她笑他傻子一样天真。",
+        "pinyin": "Tā xiào tā shǎzi yíyàng tiānzhēn.",
+        "en": "Aptal gibi saf olduğu için ona gülüyor."
+      },
+      {
+        "zh": "这不是傻子干的事。",
+        "pinyin": "Zhè búshì shǎzi gàn de shì.",
+        "en": "Bu, aptalların yapacağı bir iş değil."
+      }
+    ]
+  },
+  {
+    "id": "w5535",
+    "hanzi": "筛",
+    "pinyin": "shāi",
+    "meaning": "elemek, elekten geçirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她把面粉筛了一遍。",
+        "pinyin": "Tā bǎ miànfěn shāi le yí biàn.",
+        "en": "Unu bir kez elekten geçirdi."
+      },
+      {
+        "zh": "工人用筛子筛沙子。",
+        "pinyin": "Gōngrén yòng shāizi shāi shāzi.",
+        "en": "İşçi kumu elekten geçiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5536",
+    "hanzi": "闪",
+    "pinyin": "shǎn",
+    "meaning": "yana kaçmak, hızla çekilmek; parlamak, şimşek çakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他迅速闪到了一边。",
+        "pinyin": "Tā xùnsù shǎn dào le yìbiān.",
+        "en": "Hızlıca bir yana kaçtı."
+      },
+      {
+        "zh": "远处闪过一道亮光。",
+        "pinyin": "Yuǎnchù shǎnguò yí dào liàngguāng.",
+        "en": "Uzakta bir ışık parladı."
+      },
+      {
+        "zh": "他扭头一闪，避开了那辆车。",
+        "pinyin": "Tā niǔtóu yì shǎn, bìkāi le nà liàng chē.",
+        "en": "Başını çevirip hızla kaçarak o arabadan kurtuldu."
+      },
+      {
+        "zh": "闪电划过天空。",
+        "pinyin": "Shǎndiàn huàguò tiānkōng.",
+        "en": "Şimşek gökyüzünü yardı."
+      },
+      {
+        "zh": "他一闪身进了屋子。",
+        "pinyin": "Tā yìshǎnshēn jìn le wūzi.",
+        "en": "Hızla içeri süzülüp odaya girdi."
+      }
+    ]
+  },
+  {
+    "id": "w5537",
+    "hanzi": "闪光",
+    "pinyin": "shǎnguāng",
+    "meaning": "ışık parlaması, pırıltı; parlamak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "钻石在灯光下闪光。",
+        "pinyin": "Zuànshí zài dēngguāng xià shǎnguāng.",
+        "en": "Elmas ışık altında parlıyor."
+      },
+      {
+        "zh": "远处山顶有闪光信号。",
+        "pinyin": "Yuǎnchù shāndǐng yǒu shǎnguāng xìnhào.",
+        "en": "Uzaktaki dağ zirvesinde ışık sinyali var."
+      }
+    ]
+  },
+  {
+    "id": "w5538",
+    "hanzi": "闪开",
+    "pinyin": "shǎnkāi",
+    "meaning": "açılmak, çekilmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他大喊一声让大家闪开。",
+        "pinyin": "Tā dàhǎn yìshēng ràng dàjiā shǎnkāi.",
+        "en": "Yüksek sesle bağırarak herkesin çekilmesini istedi."
+      },
+      {
+        "zh": "车来了，快闪开！",
+        "pinyin": "Chē lái le, kuài shǎnkāi!",
+        "en": "Araba geliyor, çabuk çekil!"
+      }
+    ]
+  },
+  {
+    "id": "w5539",
+    "hanzi": "闪烁",
+    "pinyin": "shǎnshuò",
+    "meaning": "parıldamak, titreşerek ışımak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "夜空中星星闪烁。",
+        "pinyin": "Yèkōng zhōng xīngxing shǎnshuò.",
+        "en": "Gece gökyüzünde yıldızlar parıldıyor."
+      },
+      {
+        "zh": "他闪烁其词，不愿正面回答。",
+        "pinyin": "Tā shǎnshuò qící, búyuàn zhèngmiàn huídá.",
+        "en": "Sözlerinde gizlilik var, doğrudan cevap vermek istemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5540",
+    "hanzi": "闪耀",
+    "pinyin": "shǎnyào",
+    "meaning": "pırıldamak, parıldamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "阳光下海面闪耀着光芒。",
+        "pinyin": "Yángguāng xià hǎimiàn shǎnyàozhe guāngmáng.",
+        "en": "Güneş ışığı altında deniz yüzeyi parıldıyor."
+      },
+      {
+        "zh": "她的眼中闪耀着希望的光芒。",
+        "pinyin": "Tā de yǎn zhōng shǎnyàozhe xīwàng de guāngmáng.",
+        "en": "Gözlerinde umut ışığı parlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5541",
+    "hanzi": "闪闪",
+    "pinyin": "shǎnshǎn",
+    "meaning": "parlak, ışıltılı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "她的眼睛闪闪发亮。",
+        "pinyin": "Tā de yǎnjing shǎnshǎn fāliàng.",
+        "en": "Gözleri pırıl pırıl parlıyor."
+      },
+      {
+        "zh": "金色的沙滩在阳光下闪闪发光。",
+        "pinyin": "Jīnsè de shātān zài yángguāng xià shǎnshǎn fāguāng.",
+        "en": "Altın renkli kumsal güneş ışığında parıl parıl parlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5542",
+    "hanzi": "善",
+    "pinyin": "shàn",
+    "meaning": "iyi, iyilik; hayırseverlik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他心地善良。",
+        "pinyin": "Tā xīndì shànliáng.",
+        "en": "Kalbi çok iyi."
+      },
+      {
+        "zh": "行善积德是中国的传统美德。",
+        "pinyin": "Xíngshàn jīdé shì Zhōngguó de chuántǒng měidé.",
+        "en": "İyilik yapıp sevap kazanmak Çin'in geleneksel bir erdemidir."
+      },
+      {
+        "zh": "他一生行善，助人无数。",
+        "pinyin": "Tā yìshēng xíngshàn, zhùrén wúshù.",
+        "en": "Hayatı boyunca iyilik yaptı, sayısız insana yardım etti."
+      },
+      {
+        "zh": "父母教育孩子要与人为善。",
+        "pinyin": "Fùmǔ jiàoyù háizi yào yǔrénwéishàn.",
+        "en": "Ebeveynler çocuklarına başkalarına iyi davranmayı öğretir."
+      },
+      {
+        "zh": "这个组织致力于慈善事业。",
+        "pinyin": "Zhège zǔzhī zhìlì yú císhàn shìyè.",
+        "en": "Bu kuruluş hayır işlerine kendini adamış."
+      }
+    ]
+  },
+  {
+    "id": "w5543",
+    "hanzi": "擅自",
+    "pinyin": "shànzì",
+    "meaning": "izinsiz, keyfi olarak",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他擅自离开了岗位。",
+        "pinyin": "Tā shànzì líkāi le gǎngwèi.",
+        "en": "İzinsiz olarak görevini terk etti."
+      },
+      {
+        "zh": "任何人不得擅自更改这项规定。",
+        "pinyin": "Rènhé rén bùdé shànzì gēnggǎi zhè xiàng guīdìng.",
+        "en": "Hiç kimse bu kuralı keyfi olarak değiştiremez."
+      }
+    ]
+  },
+  {
+    "id": "w5544",
+    "hanzi": "商标",
+    "pinyin": "shāngbiāo",
+    "meaning": "ticari marka",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这家公司注册了新商标。",
+        "pinyin": "Zhè jiā gōngsī zhùcè le xīn shāngbiāo.",
+        "en": "Bu şirket yeni bir ticari marka tescili yaptı."
+      },
+      {
+        "zh": "这是一个知名的国际商标。",
+        "pinyin": "Zhè shì yí ge zhīmíng de guójì shāngbiāo.",
+        "en": "Bu tanınmış bir uluslararası markadır."
+      },
+      {
+        "zh": "假冒商标是违法行为。",
+        "pinyin": "Jiǎmào shāngbiāo shì wéifǎ xíngwéi.",
+        "en": "Sahte marka üretmek yasa dışıdır."
+      },
+      {
+        "zh": "商标设计要简洁明了。",
+        "pinyin": "Shāngbiāo shèjì yào jiǎnjié míngliǎo.",
+        "en": "Marka tasarımı sade ve anlaşılır olmalıdır."
+      },
+      {
+        "zh": "他们保护自己的商标权益。",
+        "pinyin": "Tāmen bǎohù zìjǐ de shāngbiāo quányì.",
+        "en": "Kendi marka haklarını koruyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w5545",
+    "hanzi": "商场",
+    "pinyin": "shāngchǎng",
+    "meaning": "alışveriş merkezi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "周末我们去商场购物。",
+        "pinyin": "Zhōumò wǒmen qù shāngchǎng gòuwù.",
+        "en": "Hafta sonu alışveriş merkezine alışverişe gidiyoruz."
+      },
+      {
+        "zh": "这家商场很大，商品种类丰富。",
+        "pinyin": "Zhè jiā shāngchǎng hěn dà, shāngpǐn zhǒnglèi fēngfù.",
+        "en": "Bu alışveriş merkezi çok büyük, ürün çeşitleri zengin."
+      },
+      {
+        "zh": "商场里挤满了顾客。",
+        "pinyin": "Shāngchǎng lǐ jǐmǎn le gùkè.",
+        "en": "Alışveriş merkezi müşterilerle dolup taşıyor."
+      },
+      {
+        "zh": "商场今天有促销活动。",
+        "pinyin": "Shāngchǎng jīntiān yǒu cùxiāo huódòng.",
+        "en": "Alışveriş merkezinde bugün promosyon etkinliği var."
+      },
+      {
+        "zh": "这家商场晚上十点关门。",
+        "pinyin": "Zhè jiā shāngchǎng wǎnshang shí diǎn guānmén.",
+        "en": "Bu alışveriş merkezi akşam saat onda kapanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5546",
+    "hanzi": "商船",
+    "pinyin": "shāngchuán",
+    "meaning": "ticaret gemisi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "商船满载货物驶向港口。",
+        "pinyin": "Shāngchuán mǎnzài huòwù shǐxiàng gǎngkǒu.",
+        "en": "Ticaret gemisi yükle dolu bir şekilde limana doğru ilerliyor."
+      },
+      {
+        "zh": "这艘商船已经航行了两个月。",
+        "pinyin": "Zhè sōu shāngchuán yǐjīng hángxíng le liǎng ge yuè.",
+        "en": "Bu ticaret gemisi iki aydır seyahat ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5547",
+    "hanzi": "商人",
+    "pinyin": "shāngrén",
+    "meaning": "tüccar, iş adamı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他是一位成功的商人。",
+        "pinyin": "Tā shì yí wèi chénggōng de shāngrén.",
+        "en": "O başarılı bir iş adamı."
+      },
+      {
+        "zh": "这个商人做生意很讲信用。",
+        "pinyin": "Zhège shāngrén zuò shēngyi hěn jiǎng xìnyòng.",
+        "en": "Bu tüccar ticaretinde güvenilirliğe çok önem verir."
+      },
+      {
+        "zh": "许多商人来这里做生意。",
+        "pinyin": "Xǔduō shāngrén lái zhèlǐ zuò shēngyi.",
+        "en": "Birçok tüccar burada ticaret yapmaya geliyor."
+      },
+      {
+        "zh": "他从一个小商人做成了大企业家。",
+        "pinyin": "Tā cóng yí ge xiǎo shāngrén zuòchéng le dà qǐyèjiā.",
+        "en": "Küçük bir tüccardan büyük bir işadamı haline geldi."
+      },
+      {
+        "zh": "古代丝绸之路上有很多商人。",
+        "pinyin": "Gǔdài Sīchóu zhī Lù shàng yǒu hěnduō shāngrén.",
+        "en": "Antik İpek Yolu üzerinde birçok tüccar vardı."
+      }
+    ]
+  },
+  {
+    "id": "w5548",
+    "hanzi": "商务",
+    "pinyin": "shāngwù",
+    "meaning": "ticari işler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他经常出差处理商务事宜。",
+        "pinyin": "Tā jīngcháng chūchāi chǔlǐ shāngwù shìyí.",
+        "en": "Sık sık iş seyahatine çıkıp ticari işleri hallediyor."
+      },
+      {
+        "zh": "这次会议是关于商务合作的。",
+        "pinyin": "Zhè cì huìyì shì guānyú shāngwù hézuò de.",
+        "en": "Bu toplantı ticari işbirliği hakkındaydı."
+      },
+      {
+        "zh": "他在一家商务公司工作。",
+        "pinyin": "Tā zài yì jiā shāngwù gōngsī gōngzuò.",
+        "en": "Bir ticaret şirketinde çalışıyor."
+      },
+      {
+        "zh": "电子商务发展迅速。",
+        "pinyin": "Diànzǐ shāngwù fāzhǎn xùnsù.",
+        "en": "Elektronik ticaret hızla gelişiyor."
+      },
+      {
+        "zh": "他穿着商务正装参加会议。",
+        "pinyin": "Tā chuānzhe shāngwù zhèngzhuāng cānjiā huìyì.",
+        "en": "İş kıyafeti giyerek toplantıya katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5549",
+    "hanzi": "伤",
+    "pinyin": "shāng",
+    "meaning": "yara; zarar vermek, yaralamak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他腿上的伤还没好。",
+        "pinyin": "Tā tuǐ shàng de shāng hái méi hǎo.",
+        "en": "Bacağındaki yara hâlâ iyileşmedi."
+      },
+      {
+        "zh": "这句话深深地伤了她。",
+        "pinyin": "Zhè jù huà shēnshēn de shāng le tā.",
+        "en": "Bu söz onu derinden yaraladı."
+      },
+      {
+        "zh": "医生正在给他处理伤口。",
+        "pinyin": "Yīshēng zhèngzài gěi tā chǔlǐ shāngkǒu.",
+        "en": "Doktor onun yarasını temizliyor."
+      },
+      {
+        "zh": "他在车祸中受了重伤。",
+        "pinyin": "Tā zài chēhuò zhōng shòu le zhòngshāng.",
+        "en": "Trafik kazasında ağır yaralandı."
+      },
+      {
+        "zh": "酒喝多了伤身体。",
+        "pinyin": "Jiǔ hēduō le shāng shēntǐ.",
+        "en": "Fazla içki içmek vücuda zarar verir."
+      }
+    ]
+  },
+  {
+    "id": "w5550",
+    "hanzi": "伤疤",
+    "pinyin": "shāngbā",
+    "meaning": "yara izi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他手臂上有一道伤疤。",
+        "pinyin": "Tā shǒubì shàng yǒu yí dào shāngbā.",
+        "en": "Kolunda bir yara izi var."
+      },
+      {
+        "zh": "这道伤疤是小时候留下的。",
+        "pinyin": "Zhè dào shāngbā shì xiǎoshíhou liúxià de.",
+        "en": "Bu yara izi küçüklüğünden kalma."
+      }
+    ]
+  },
+  {
+    "id": "w5551",
+    "hanzi": "伤感",
+    "pinyin": "shānggǎn",
+    "meaning": "hüzünlenmek, kederlenmek",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "离别的时刻总是让人伤感。",
+        "pinyin": "Líbié de shíkè zǒngshì ràng rén shānggǎn.",
+        "en": "Ayrılık anları insanı her zaman hüzünlendirir."
+      },
+      {
+        "zh": "看到老照片，她有些伤感。",
+        "pinyin": "Kàndào lǎo zhàopiàn, tā yǒuxiē shānggǎn.",
+        "en": "Eski fotoğrafları görünce biraz hüzünlendi."
+      }
+    ]
+  },
+  {
+    "id": "w5552",
+    "hanzi": "伤害",
+    "pinyin": "shānghài",
+    "meaning": "zarar vermek, incitmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "酗酒伤害身体健康。",
+        "pinyin": "Xùjiǔ shānghài shēntǐ jiànkāng.",
+        "en": "Aşırı içki içmek beden sağlığına zarar verir."
+      },
+      {
+        "zh": "他的话深深伤害了她的感情。",
+        "pinyin": "Tā de huà shēnshēn shānghài le tā de gǎnqíng.",
+        "en": "Sözleri onun duygularını derinden inciteti."
+      },
+      {
+        "zh": "请不要伤害无辜的人。",
+        "pinyin": "Qǐng búyào shānghài wúgū de rén.",
+        "en": "Lütfen masum insanlara zarar vermeyin."
+      },
+      {
+        "zh": "过度使用手机会伤害视力。",
+        "pinyin": "Guòdù shǐyòng shǒujī huì shānghài shìlì.",
+        "en": "Telefonu aşırı kullanmak görüşe zarar verebilir."
+      },
+      {
+        "zh": "他不想再伤害任何人了。",
+        "pinyin": "Tā bùxiǎng zài shānghài rènhé rén le.",
+        "en": "Artık kimseye zarar vermek istemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5553",
+    "hanzi": "山口",
+    "pinyin": "shānkǒu",
+    "meaning": "dağ geçidi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他们穿过山口到达了另一侧。",
+        "pinyin": "Tāmen chuānguò shānkǒu dàodá le lìng yícè.",
+        "en": "Dağ geçidini geçerek diğer tarafa ulaştılar."
+      },
+      {
+        "zh": "山口的风非常大。",
+        "pinyin": "Shānkǒu de fēng fēicháng dà.",
+        "en": "Dağ geçidindeki rüzgar çok güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w5554",
+    "hanzi": "山楂",
+    "pinyin": "shānzhā",
+    "meaning": "alıç (meyve)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "山楂糖葫芦是一种传统小吃。",
+        "pinyin": "Shānzhā tánghúlu shì yì zhǒng chuántǒng xiǎochī.",
+        "en": "Şekerlenmiş alıç, geleneksel bir atıştırmalıktır."
+      },
+      {
+        "zh": "山楂有助于消化。",
+        "pinyin": "Shānzhā yǒuzhùyú xiāohuà.",
+        "en": "Alıç sindirime yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w5555",
+    "hanzi": "衫",
+    "pinyin": "shān",
+    "meaning": "gömlek, üst kıyafet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "他穿着一件白色衬衫。",
+        "pinyin": "Tā chuānzhe yí jiàn báisè chènshān.",
+        "en": "Beyaz bir gömlek giyiyor."
+      },
+      {
+        "zh": "这件汗衫很凉快。",
+        "pinyin": "Zhè jiàn hànshān hěn liángkuai.",
+        "en": "Bu tişört çok serin."
+      },
+      {
+        "zh": "夏天穿一件短袖衫就够了。",
+        "pinyin": "Xiàtiān chuān yí jiàn duǎnxiùshān jiù gòu le.",
+        "en": "Yazın kısa kollu bir üst giymek yeterli."
+      },
+      {
+        "zh": "她给孩子买了一件毛衫。",
+        "pinyin": "Tā gěi háizi mǎi le yí jiàn máoshān.",
+        "en": "Çocuğuna bir kazak aldı."
+      },
+      {
+        "zh": "这件衬衫的颜色很好看。",
+        "pinyin": "Zhè jiàn chènshān de yánsè hěn hǎokàn.",
+        "en": "Bu gömleğin rengi çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w5556",
+    "hanzi": "商定",
+    "pinyin": "shāngdìng",
+    "meaning": "müzakere edip karar vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "双方商定了合作细节。",
+        "pinyin": "Shuāngfāng shāngdìng le hézuò xìjié.",
+        "en": "Her iki taraf işbirliği ayrıntılarını müzakere edip kararlaştırdı."
+      },
+      {
+        "zh": "会议时间已经商定好了。",
+        "pinyin": "Huìyì shíjiān yǐjīng shāngdìng hǎo le.",
+        "en": "Toplantı zamanı zaten görüşülüp kararlaştırıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5557",
+    "hanzi": "商贩",
+    "pinyin": "shāngfàn",
+    "meaning": "seyyar satıcı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "街上有很多商贩在叫卖。",
+        "pinyin": "Jiē shàng yǒu hěnduō shāngfàn zài jiàomài.",
+        "en": "Sokakta bağırarak satış yapan birçok seyyar satıcı var."
+      },
+      {
+        "zh": "这个商贩卖的水果很新鲜。",
+        "pinyin": "Zhège shāngfàn mài de shuǐguǒ hěn xīnxiān.",
+        "en": "Bu seyyar satıcının sattığı meyveler çok taze."
+      }
+    ]
+  },
+  {
+    "id": "w5558",
+    "hanzi": "商谈",
+    "pinyin": "shāngtán",
+    "meaning": "ticari görüşme yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "两家公司正在商谈合并事宜。",
+        "pinyin": "Liǎng jiā gōngsī zhèngzài shāngtán hébìng shìyí.",
+        "en": "İki şirket birleşme konusunu görüşüyor."
+      },
+      {
+        "zh": "他们商谈了很久才达成协议。",
+        "pinyin": "Tāmen shāngtán le hěn jiǔ cái dáchéng xiéyì.",
+        "en": "Uzun süre görüşmeden sonra anlaşmaya vardılar."
+      }
+    ]
+  },
+  {
+    "id": "w5559",
+    "hanzi": "商讨",
+    "pinyin": "shāngtǎo",
+    "meaning": "görüşmek, müzakere etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们需要商讨一下这个方案。",
+        "pinyin": "Wǒmen xūyào shāngtǎo yíxià zhège fāng'àn.",
+        "en": "Bu planı biraz görüşmemiz gerekiyor."
+      },
+      {
+        "zh": "他们正在商讨解决办法。",
+        "pinyin": "Tāmen zhèngzài shāngtǎo jiějué bànfǎ.",
+        "en": "Çözüm yolunu görüşüyorlar."
+      },
+      {
+        "zh": "这个问题值得深入商讨。",
+        "pinyin": "Zhège wèntí zhídé shēnrù shāngtǎo.",
+        "en": "Bu konu derinlemesine görüşülmeyi hak ediyor."
+      },
+      {
+        "zh": "委员会商讨了新的政策。",
+        "pinyin": "Wěiyuánhuì shāngtǎo le xīn de zhèngcè.",
+        "en": "Komite yeni politikayı görüştü."
+      },
+      {
+        "zh": "大家一起商讨如何解决这个难题。",
+        "pinyin": "Dàjiā yìqǐ shāngtǎo rúhé jiějué zhège nántí.",
+        "en": "Herkes bu zor sorunu nasıl çözeceğini birlikte görüşüyor."
+      }
+    ]
+  },
+  {
+    "id": "w5560",
+    "hanzi": "伤兵",
+    "pinyin": "shāngbīng",
+    "meaning": "yaralanmış asker",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "医院里躺着许多伤兵。",
+        "pinyin": "Yīyuàn lǐ tǎngzhe hěnduō shāngbīng.",
+        "en": "Hastanede birçok yaralı asker yatıyor."
+      },
+      {
+        "zh": "护士们细心照顾伤兵。",
+        "pinyin": "Hùshimen xìxīn zhàogù shāngbīng.",
+        "en": "Hemşireler yaralı askerlere özenle bakıyor."
+      }
+    ]
   }
 ]

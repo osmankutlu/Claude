@@ -231868,5 +231868,938 @@
         "en": "O arkadaşlarıyla olan dostluğuna çok değer veriyor."
       }
     ]
+  },
+  {
+    "id": "w6990",
+    "hanzi": "有害",
+    "pinyin": "yǒuhài",
+    "meaning": "zararlı",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "吸烟对健康有害。",
+        "pinyin": "Xīyān duì jiànkāng yǒuhài.",
+        "en": "Sigara içmek sağlığa zararlıdır."
+      },
+      {
+        "zh": "这种化学物质是有害的。",
+        "pinyin": "Zhè zhǒng huàxué wùzhì shì yǒuhài de.",
+        "en": "Bu tür kimyasal madde zararlıdır."
+      },
+      {
+        "zh": "长期熬夜对身体有害。",
+        "pinyin": "Chángqí áoyè duì shēntǐ yǒuhài.",
+        "en": "Uzun süre geç yatmak vücuda zararlıdır."
+      },
+      {
+        "zh": "有害气体会污染空气。",
+        "pinyin": "Yǒuhài qìtǐ huì wūrǎn kōngqì.",
+        "en": "Zararlı gazlar havayı kirletebilir."
+      },
+      {
+        "zh": "这个网站包含有害信息。",
+        "pinyin": "Zhège wǎngzhàn bāohán yǒuhài xìnxī.",
+        "en": "Bu web sitesi zararlı bilgiler içeriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6991",
+    "hanzi": "有机",
+    "pinyin": "yǒujī",
+    "meaning": "organik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "她只吃有机食品。",
+        "pinyin": "Tā zhǐ chī yǒujī shípǐn.",
+        "en": "O sadece organik gıda yiyor."
+      },
+      {
+        "zh": "这块地专门种植有机蔬菜。",
+        "pinyin": "Zhè kuài dì zhuānmén zhòngzhí yǒujī shūcài.",
+        "en": "Bu arazi özellikle organik sebze yetiştiriyor."
+      },
+      {
+        "zh": "有机农业越来越受欢迎。",
+        "pinyin": "Yǒujī nóngyè yuè lái yuè shòu huānyíng.",
+        "en": "Organik tarım giderek daha popüler oluyor."
+      },
+      {
+        "zh": "这个体系是一个有机整体。",
+        "pinyin": "Zhège tǐxì shì yī gè yǒujī zhěngtǐ.",
+        "en": "Bu sistem organik bir bütündür."
+      },
+      {
+        "zh": "他研究有机化学多年。",
+        "pinyin": "Tā yánjiū yǒujī huàxué duō nián.",
+        "en": "O yıllarca organik kimya araştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w6992",
+    "hanzi": "有理",
+    "pinyin": "yǒulǐ",
+    "meaning": "mantıklı, haklı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他说的话有理有据。",
+        "pinyin": "Tā shuō de huà yǒulǐ yǒujù.",
+        "en": "Onun sözleri mantıklı ve kanıtlara dayalı."
+      },
+      {
+        "zh": "你这样想是有理的。",
+        "pinyin": "Nǐ zhèyàng xiǎng shì yǒulǐ de.",
+        "en": "Böyle düşünmen haklı."
+      },
+      {
+        "zh": "他有理由感到自豪。",
+        "pinyin": "Tā yǒu lǐyóu gǎndào zìháo.",
+        "en": "Onun gurur duymak için haklı bir sebebi var."
+      },
+      {
+        "zh": "她据理力争,坚持自己的观点。",
+        "pinyin": "Tā jùlǐ lìzhēng, jiānchí zìjǐ de guāndiǎn.",
+        "en": "O mantıklı gerekçelerle ısrarla kendi görüşünü savundu."
+      },
+      {
+        "zh": "他觉得自己有理,不肯让步。",
+        "pinyin": "Tā juéde zìjǐ yǒulǐ, bùkěn ràngbù.",
+        "en": "O kendisinin haklı olduğunu düşünerek taviz vermek istemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6993",
+    "hanzi": "有力",
+    "pinyin": "yǒulì",
+    "meaning": "güçlü, etkili",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他提出了有力的证据。",
+        "pinyin": "Tā tíchūle yǒulì de zhèngjù.",
+        "en": "O güçlü kanıtlar sundu."
+      },
+      {
+        "zh": "这项政策是经济发展的有力支撑。",
+        "pinyin": "Zhè xiàng zhèngcè shì jīngjì fāzhǎn de yǒulì zhīchēng.",
+        "en": "Bu politika ekonomik gelişimin güçlü bir desteğidir."
+      },
+      {
+        "zh": "他有力地反驳了对方的观点。",
+        "pinyin": "Tā yǒulì de fǎnbóle duìfāng de guāndiǎn.",
+        "en": "O karşı tarafın görüşünü güçlü bir şekilde çürüttü."
+      },
+      {
+        "zh": "这是一个有力的论据。",
+        "pinyin": "Zhè shì yī gè yǒulì de lùnjù.",
+        "en": "Bu güçlü bir argümandır."
+      },
+      {
+        "zh": "他握手很有力。",
+        "pinyin": "Tā wòshǒu hěn yǒulì.",
+        "en": "Onun tokalaşması çok güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w6994",
+    "hanzi": "有钱",
+    "pinyin": "yǒuqián",
+    "meaning": "zengin",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他家很有钱。",
+        "pinyin": "Tā jiā hěn yǒuqián.",
+        "en": "Onun ailesi çok zengin."
+      },
+      {
+        "zh": "有钱人不一定幸福。",
+        "pinyin": "Yǒuqián rén bùyīdìng xìngfú.",
+        "en": "Zengin insanlar mutlaka mutlu değildir."
+      },
+      {
+        "zh": "他通过做生意变得有钱了。",
+        "pinyin": "Tā tōngguò zuò shēngyì biàn de yǒuqián le.",
+        "en": "O iş yaparak zengin oldu."
+      },
+      {
+        "zh": "她嫁给了一个有钱人。",
+        "pinyin": "Tā jià gěile yī gè yǒuqián rén.",
+        "en": "O zengin biriyle evlendi."
+      },
+      {
+        "zh": "等我有钱了就去旅行。",
+        "pinyin": "Děng wǒ yǒuqián le jiù qù lǚxíng.",
+        "en": "Param olduğunda seyahate çıkacağım."
+      }
+    ]
+  },
+  {
+    "id": "w6995",
+    "hanzi": "有限",
+    "pinyin": "yǒuxiàn",
+    "meaning": "sınırlı, kısıtlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "我们的时间有限。",
+        "pinyin": "Wǒmen de shíjiān yǒuxiàn.",
+        "en": "Bizim zamanımız sınırlı."
+      },
+      {
+        "zh": "资源是有限的。",
+        "pinyin": "Zīyuán shì yǒuxiàn de.",
+        "en": "Kaynaklar sınırlıdır."
+      },
+      {
+        "zh": "他的能力有限,无法完成这项任务。",
+        "pinyin": "Tā de nénglì yǒuxiàn, wúfǎ wánchéng zhè xiàng rènwu.",
+        "en": "Onun yeteneği sınırlı, bu görevi tamamlayamıyor."
+      },
+      {
+        "zh": "预算有限,只能购买必需品。",
+        "pinyin": "Yùsuàn yǒuxiàn, zhǐ néng gòumǎi bìxūpǐn.",
+        "en": "Bütçe sınırlı, sadece gerekli olanları alabiliriz."
+      },
+      {
+        "zh": "名额有限,请尽快报名。",
+        "pinyin": "Míng'é yǒuxiàn, qǐng jǐnkuài bàomíng.",
+        "en": "Kontenjan sınırlı, lütfen en kısa sürede kayıt olun."
+      }
+    ]
+  },
+  {
+    "id": "w6996",
+    "hanzi": "有效",
+    "pinyin": "yǒuxiào",
+    "meaning": "etkili, geçerli",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这种方法非常有效。",
+        "pinyin": "Zhè zhǒng fāngfǎ fēicháng yǒuxiào.",
+        "en": "Bu yöntem son derece etkilidir."
+      },
+      {
+        "zh": "这张票已经不再有效。",
+        "pinyin": "Zhè zhāng piào yǐjīng bùzài yǒuxiào.",
+        "en": "Bu bilet artık geçerli değil."
+      },
+      {
+        "zh": "这种药对治疗感冒很有效。",
+        "pinyin": "Zhè zhǒng yào duì zhìliáo gǎnmào hěn yǒuxiào.",
+        "en": "Bu ilaç soğuk algınlığı tedavisinde çok etkilidir."
+      },
+      {
+        "zh": "合同自签署之日起有效。",
+        "pinyin": "Hétong zì qiānshǔ zhī rì qǐ yǒuxiào.",
+        "en": "Sözleşme imzalandığı tarihten itibaren geçerlidir."
+      },
+      {
+        "zh": "这种沟通方式更有效。",
+        "pinyin": "Zhè zhǒng gōutōng fāngshì gèng yǒuxiào.",
+        "en": "Bu iletişim şekli daha etkilidir."
+      }
+    ]
+  },
+  {
+    "id": "w6997",
+    "hanzi": "有效期",
+    "pinyin": "yǒuxiàoqī",
+    "meaning": "geçerlilik süresi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这份合同的有效期是三年。",
+        "pinyin": "Zhè fèn hétong de yǒuxiàoqī shì sān nián.",
+        "en": "Bu sözleşmenin geçerlilik süresi üç yıldır."
+      },
+      {
+        "zh": "护照的有效期已经过了。",
+        "pinyin": "Hùzhào de yǒuxiàoqī yǐjīng guòle.",
+        "en": "Pasaportun geçerlilik süresi doldu."
+      },
+      {
+        "zh": "请检查食品的有效期。",
+        "pinyin": "Qǐng jiǎnchá shípǐn de yǒuxiàoqī.",
+        "en": "Lütfen gıdanın son kullanma tarihini kontrol edin."
+      },
+      {
+        "zh": "这张优惠券有效期是一个月。",
+        "pinyin": "Zhè zhāng yōuhuìquàn yǒuxiàoqī shì yī gè yuè.",
+        "en": "Bu indirim kuponunun geçerlilik süresi bir aydır."
+      },
+      {
+        "zh": "药品过了有效期就不能再用了。",
+        "pinyin": "Yàopǐn guòle yǒuxiàoqī jiù bùnéng zài yòng le.",
+        "en": "İlaç son kullanma tarihini geçince artık kullanılamaz."
+      }
+    ]
+  },
+  {
+    "id": "w6998",
+    "hanzi": "有心",
+    "pinyin": "yǒuxīn",
+    "meaning": "dikkat etmek, niyetlenmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他有心帮助你,只是没找到机会。",
+        "pinyin": "Tā yǒuxīn bāngzhù nǐ, zhǐshì méi zhǎodào jīhuì.",
+        "en": "O sana yardım etmek istiyor ama henüz fırsat bulamadı."
+      },
+      {
+        "zh": "她有心学习这门语言。",
+        "pinyin": "Tā yǒuxīn xuéxí zhè mén yǔyán.",
+        "en": "O bu dili öğrenmeye niyetli."
+      }
+    ]
+  },
+  {
+    "id": "w6999",
+    "hanzi": "有益",
+    "pinyin": "yǒuyì",
+    "meaning": "faydalı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "运动对健康有益。",
+        "pinyin": "Yùndòng duì jiànkāng yǒuyì.",
+        "en": "Egzersiz sağlığa faydalıdır."
+      },
+      {
+        "zh": "读书对孩子的成长有益。",
+        "pinyin": "Dúshū duì háizi de chéngzhǎng yǒuyì.",
+        "en": "Kitap okumak çocuğun gelişimine faydalıdır."
+      },
+      {
+        "zh": "这次经历对我很有益。",
+        "pinyin": "Zhè cì jīnglì duì wǒ hěn yǒuyì.",
+        "en": "Bu deneyim benim için çok faydalı oldu."
+      },
+      {
+        "zh": "适度饮水对身体有益。",
+        "pinyin": "Shìdù yǐnshuǐ duì shēntǐ yǒuyì.",
+        "en": "Uygun miktarda su içmek vücuda faydalıdır."
+      },
+      {
+        "zh": "这项政策对经济发展有益。",
+        "pinyin": "Zhè xiàng zhèngcè duì jīngjì fāzhǎn yǒuyì.",
+        "en": "Bu politika ekonomik gelişime faydalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7000",
+    "hanzi": "有意",
+    "pinyin": "yǒuyì",
+    "meaning": "niyetli olmak, kastetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他有意购买这套房子。",
+        "pinyin": "Tā yǒuyì gòumǎi zhè tào fángzi.",
+        "en": "O bu evi satın almaya niyetli."
+      },
+      {
+        "zh": "他有意伤害了我的感情。",
+        "pinyin": "Tā yǒuyì shānghàile wǒ de gǎnqíng.",
+        "en": "O kasten benim duygularımı incitti."
+      },
+      {
+        "zh": "她有意加入这个团队。",
+        "pinyin": "Tā yǒuyì jiārù zhège tuánduì.",
+        "en": "O bu ekibe katılmaya niyetli."
+      },
+      {
+        "zh": "他有意无意地提到了这件事。",
+        "pinyin": "Tā yǒuyì-wúyì de tídàole zhè jiàn shì.",
+        "en": "O bu konuyu bilerek ya da bilmeden ima etti."
+      },
+      {
+        "zh": "他们有意合作开展这个项目。",
+        "pinyin": "Tāmen yǒuyì hézuò kāizhǎn zhège xiàngmù.",
+        "en": "Onlar bu projeyi işbirliği yaparak yürütmeye niyetli."
+      }
+    ]
+  },
+  {
+    "id": "w7001",
+    "hanzi": "有意思",
+    "pinyin": "yǒuyìsi",
+    "meaning": "ilginç, eğlenceli",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这本书很有意思。",
+        "pinyin": "Zhè běn shū hěn yǒuyìsi.",
+        "en": "Bu kitap çok ilginç."
+      },
+      {
+        "zh": "这个游戏太有意思了。",
+        "pinyin": "Zhège yóuxì tài yǒuyìsi le.",
+        "en": "Bu oyun çok eğlenceli."
+      },
+      {
+        "zh": "他讲的笑话很有意思。",
+        "pinyin": "Tā jiǎng de xiàohua hěn yǒuyìsi.",
+        "en": "Onun anlattığı şaka çok komik."
+      },
+      {
+        "zh": "这次旅行真有意思。",
+        "pinyin": "Zhè cì lǚxíng zhēn yǒuyìsi.",
+        "en": "Bu seyahat gerçekten çok eğlenceliydi."
+      },
+      {
+        "zh": "这门课上得很有意思。",
+        "pinyin": "Zhè mén kè shàng de hěn yǒuyìsi.",
+        "en": "Bu ders çok ilginç işleniyor."
+      }
+    ]
+  },
+  {
+    "id": "w7002",
+    "hanzi": "有助于",
+    "pinyin": "yǒuzhùyú",
+    "meaning": "yardımcı olmak, katkıda bulunmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "运动有助于身体健康。",
+        "pinyin": "Yùndòng yǒuzhùyú shēntǐ jiànkāng.",
+        "en": "Egzersiz vücut sağlığına katkıda bulunur."
+      },
+      {
+        "zh": "阅读有助于提高写作能力。",
+        "pinyin": "Yuèdú yǒuzhùyú tígāo xiězuò nénglì.",
+        "en": "Okumak yazma becerisini artırmaya yardımcı olur."
+      },
+      {
+        "zh": "良好的沟通有助于解决矛盾。",
+        "pinyin": "Liánghǎo de gōutōng yǒuzhùyú jiějué máodùn.",
+        "en": "İyi bir iletişim çelişkilerin çözülmesine yardımcı olur."
+      },
+      {
+        "zh": "冥想有助于减轻压力。",
+        "pinyin": "Míngxiǎng yǒuzhùyú jiǎnqīng yālì.",
+        "en": "Meditasyon stresin azaltılmasına yardımcı olur."
+      },
+      {
+        "zh": "这项政策有助于促进就业。",
+        "pinyin": "Zhè xiàng zhèngcè yǒuzhùyú cùjìn jiùyè.",
+        "en": "Bu politika istihdamın artırılmasına katkıda bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w7003",
+    "hanzi": "诱导",
+    "pinyin": "yòudǎo",
+    "meaning": "rehberlik etmek, yönlendirmek (ikna ederek)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老师循循善诱地引导学生。",
+        "pinyin": "Lǎoshī xúnxún-shànyòu de yǐndǎo xuésheng.",
+        "en": "Öğretmen öğrencileri sabırla yönlendiriyor."
+      },
+      {
+        "zh": "他被人诱导做出了错误决定。",
+        "pinyin": "Tā bèi rén yòudǎo zuòchūle cuòwù juédìng.",
+        "en": "O birileri tarafından yönlendirilerek yanlış bir karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7004",
+    "hanzi": "诱发",
+    "pinyin": "yòufā",
+    "meaning": "tetiklemek, neden olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "压力过大容易诱发疾病。",
+        "pinyin": "Yālì guò dà róngyì yòufā jíbìng.",
+        "en": "Aşırı stres hastalıkları tetikleyebilir."
+      },
+      {
+        "zh": "这个事件诱发了社会的广泛讨论。",
+        "pinyin": "Zhège shìjiàn yòufāle shèhuì de guǎngfàn tǎolùn.",
+        "en": "Bu olay toplumda geniş bir tartışmayı tetikledi."
+      }
+    ]
+  },
+  {
+    "id": "w7005",
+    "hanzi": "诱惑",
+    "pinyin": "yòuhuò",
+    "meaning": "ayartmak, cezbetmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他抵抗住了金钱的诱惑。",
+        "pinyin": "Tā dǐkàng zhùle jīnqián de yòuhuò.",
+        "en": "O paranın cazibesine direndi."
+      },
+      {
+        "zh": "这道甜点的香味十分诱惑人。",
+        "pinyin": "Zhè dào tiándiǎn de xiāngwèi shífēn yòuhuò rén.",
+        "en": "Bu tatlının kokusu son derece cezbedici."
+      },
+      {
+        "zh": "美食的诱惑让人难以拒绝。",
+        "pinyin": "Měishí de yòuhuò ràng rén nányǐ jùjué.",
+        "en": "Lezzetli yemeğin cazibesine karşı koymak zor."
+      },
+      {
+        "zh": "他被高薪职位诱惑了。",
+        "pinyin": "Tā bèi gāoxīn zhíwèi yòuhuò le.",
+        "en": "O yüksek maaşlı pozisyon tarafından cezbedildi."
+      },
+      {
+        "zh": "广告用各种手段诱惑消费者。",
+        "pinyin": "Guǎnggào yòng gèzhǒng shǒuduàn yòuhuò xiāofèizhě.",
+        "en": "Reklamlar çeşitli yollarla tüketicileri cezbetmeye çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7006",
+    "hanzi": "幼",
+    "pinyin": "yòu",
+    "meaning": "genç, küçük, olgunlaşmamış",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他自幼就喜欢音乐。",
+        "pinyin": "Tā zì yòu jiù xǐhuān yīnyuè.",
+        "en": "O küçüklüğünden beri müziği seviyor."
+      },
+      {
+        "zh": "这所学校招收幼龄儿童。",
+        "pinyin": "Zhè suǒ xuéxiào zhāoshōu yòulíng értóng.",
+        "en": "Bu okul küçük yaştaki çocukları kabul ediyor."
+      },
+      {
+        "zh": "他年幼时失去了父母。",
+        "pinyin": "Tā niányòu shí shīqùle fùmǔ.",
+        "en": "O küçük yaşta ebeveynlerini kaybetti."
+      },
+      {
+        "zh": "老幼皆宜的活动。",
+        "pinyin": "Lǎoyòu jiē yí de huódòng.",
+        "en": "Yaşlı ve genç herkese uygun bir etkinlik."
+      },
+      {
+        "zh": "扶老携幼是中华民族的传统美德。",
+        "pinyin": "Fúlǎo-xiéyòu shì Zhōnghuá mínzú de chuántǒng měidé.",
+        "en": "Yaşlılara ve çocuklara destek olmak Çin milletinin geleneksel erdemidir."
+      }
+    ]
+  },
+  {
+    "id": "w7007",
+    "hanzi": "幼儿",
+    "pinyin": "yòu'ér",
+    "meaning": "küçük çocuk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "幼儿园里有很多幼儿。",
+        "pinyin": "Yòu'éryuán lǐ yǒu hěn duō yòu'ér.",
+        "en": "Anaokulunda birçok küçük çocuk var."
+      },
+      {
+        "zh": "这本书专门为幼儿设计。",
+        "pinyin": "Zhè běn shū zhuānmén wèi yòu'ér shèjì.",
+        "en": "Bu kitap özellikle küçük çocuklar için tasarlanmıştır."
+      },
+      {
+        "zh": "幼儿需要精心的照顾。",
+        "pinyin": "Yòu'ér xūyào jīngxīn de zhàogù.",
+        "en": "Küçük çocukların özenli bakılması gerekir."
+      },
+      {
+        "zh": "老师教幼儿唱歌跳舞。",
+        "pinyin": "Lǎoshī jiāo yòu'ér chànggē tiàowǔ.",
+        "en": "Öğretmen küçük çocuklara şarkı söylemeyi ve dans etmeyi öğretiyor."
+      },
+      {
+        "zh": "幼儿的语言能力发展很快。",
+        "pinyin": "Yòu'ér de yǔyán nénglì fāzhǎn hěn kuài.",
+        "en": "Küçük çocukların dil becerisi hızlı gelişir."
+      }
+    ]
+  },
+  {
+    "id": "w7008",
+    "hanzi": "于",
+    "pinyin": "yú",
+    "meaning": "-de, -da (isim durumu eki)",
+    "partOfSpeech": "edat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他出生于1990年。",
+        "pinyin": "Tā chūshēng yú yī jiǔ jiǔ líng nián.",
+        "en": "O 1990 yılında doğdu."
+      },
+      {
+        "zh": "这座城市位于中国南部。",
+        "pinyin": "Zhè zuò chéngshì wèiyú Zhōngguó nánbù.",
+        "en": "Bu şehir Çin'in güneyinde yer alıyor."
+      },
+      {
+        "zh": "他毕业于北京大学。",
+        "pinyin": "Tā bìyè yú Běijīng Dàxué.",
+        "en": "O Pekin Üniversitesi'nden mezun oldu."
+      },
+      {
+        "zh": "问题在于我们缺乏资金。",
+        "pinyin": "Wèntí zàiyú wǒmen quēfá zījīn.",
+        "en": "Sorun bizim sermaye eksikliğimizde."
+      },
+      {
+        "zh": "这件事关于每个人的利益。",
+        "pinyin": "Zhè jiàn shì guānyú měi gè rén de lìyì.",
+        "en": "Bu olay herkesin çıkarıyla ilgilidir."
+      }
+    ]
+  },
+  {
+    "id": "w7009",
+    "hanzi": "舆论",
+    "pinyin": "yúlùn",
+    "meaning": "kamuoyu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这件事引起了社会舆论的关注。",
+        "pinyin": "Zhè jiàn shì yǐnqǐle shèhuì yúlùn de guānzhù.",
+        "en": "Bu olay kamuoyunun dikkatini çekti."
+      },
+      {
+        "zh": "媒体在引导舆论方面起着重要作用。",
+        "pinyin": "Méitǐ zài yǐndǎo yúlùn fāngmiàn qǐzhe zhòngyào zuòyòng.",
+        "en": "Medya kamuoyunu yönlendirmede önemli bir rol oynar."
+      }
+    ]
+  },
+  {
+    "id": "w7010",
+    "hanzi": "愚蠢",
+    "pinyin": "yúchǔn",
+    "meaning": "aptal, geri zekalı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "这真是一个愚蠢的决定。",
+        "pinyin": "Zhè zhēnshi yī gè yúchǔn de juédìng.",
+        "en": "Bu gerçekten aptalca bir karar."
+      },
+      {
+        "zh": "他做了一件愚蠢的事。",
+        "pinyin": "Tā zuòle yī jiàn yúchǔn de shì.",
+        "en": "O aptalca bir şey yaptı."
+      },
+      {
+        "zh": "不要问这么愚蠢的问题。",
+        "pinyin": "Bùyào wèn zhème yúchǔn de wèntí.",
+        "en": "Bu kadar aptalca sorular sorma."
+      },
+      {
+        "zh": "他被人愚弄了,还不自知。",
+        "pinyin": "Tā bèi rén yúnòng le, hái bù zìzhī.",
+        "en": "O kandırıldı ama hâlâ farkında değil."
+      },
+      {
+        "zh": "这个想法太愚蠢了。",
+        "pinyin": "Zhège xiǎngfǎ tài yúchǔn le.",
+        "en": "Bu fikir çok aptalca."
+      }
+    ]
+  },
+  {
+    "id": "w7011",
+    "hanzi": "鱼竿",
+    "pinyin": "yúgān",
+    "meaning": "olta çubuğu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他拿着鱼竿去河边钓鱼。",
+        "pinyin": "Tā názhe yúgān qù hé biān diàoyú.",
+        "en": "O olta çubuğunu alıp nehir kenarına balık tutmaya gitti."
+      },
+      {
+        "zh": "这根鱼竿很结实。",
+        "pinyin": "Zhè gēn yúgān hěn jiēshi.",
+        "en": "Bu olta çubuğu çok sağlam."
+      },
+      {
+        "zh": "他买了一根新鱼竿。",
+        "pinyin": "Tā mǎile yī gēn xīn yúgān.",
+        "en": "O yeni bir olta çubuğu satın aldı."
+      },
+      {
+        "zh": "他把鱼竿放进了车里。",
+        "pinyin": "Tā bǎ yúgān fàng jìnle chē lǐ.",
+        "en": "O olta çubuğunu arabaya koydu."
+      },
+      {
+        "zh": "他教儿子如何使用鱼竿。",
+        "pinyin": "Tā jiào érzi rúhé shǐyòng yúgān.",
+        "en": "O oğluna olta çubuğunun nasıl kullanılacağını öğretiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7012",
+    "hanzi": "鱼钩",
+    "pinyin": "yúgōu",
+    "meaning": "olta iğnesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他在鱼钩上挂上了鱼饵。",
+        "pinyin": "Tā zài yúgōu shàng guàshàngle yúěr.",
+        "en": "O olta iğnesine yem taktı."
+      },
+      {
+        "zh": "这个鱼钩很锋利。",
+        "pinyin": "Zhège yúgōu hěn fēnglì.",
+        "en": "Bu olta iğnesi çok keskin."
+      },
+      {
+        "zh": "他不小心被鱼钩扎伤了手。",
+        "pinyin": "Tā bùxiǎoxīn bèi yúgōu zhāshāngle shǒu.",
+        "en": "O yanlışlıkla olta iğnesiyle elini yaraladı."
+      },
+      {
+        "zh": "鱼咬住了鱼钩。",
+        "pinyin": "Yú yǎozhùle yúgōu.",
+        "en": "Balık olta iğnesini ısırdı."
+      },
+      {
+        "zh": "他带了几种不同型号的鱼钩。",
+        "pinyin": "Tā dàile jǐ zhǒng bùtóng xínghào de yúgōu.",
+        "en": "O birkaç farklı model olta iğnesi getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7013",
+    "hanzi": "鱼网",
+    "pinyin": "yúwǎng",
+    "meaning": "balık ağı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "渔民正在收鱼网。",
+        "pinyin": "Yúmín zhèngzài shōu yúwǎng.",
+        "en": "Balıkçı balık ağını topluyor."
+      },
+      {
+        "zh": "鱼网里装满了鱼。",
+        "pinyin": "Yúwǎng lǐ zhuāngmǎnle yú.",
+        "en": "Balık ağı balıklarla dolu."
+      },
+      {
+        "zh": "他修补破损的鱼网。",
+        "pinyin": "Tā xiūbǔ pòsǔn de yúwǎng.",
+        "en": "O hasar görmüş balık ağını onarıyor."
+      },
+      {
+        "zh": "渔船上堆满了鱼网。",
+        "pinyin": "Yúchuán shàng duīmǎnle yúwǎng.",
+        "en": "Balıkçı teknesi balık ağlarıyla dolu."
+      },
+      {
+        "zh": "他把鱼网撒向河中。",
+        "pinyin": "Tā bǎ yúwǎng sǎ xiàng hé zhōng.",
+        "en": "O balık ağını nehre attı."
+      }
+    ]
+  },
+  {
+    "id": "w7014",
+    "hanzi": "渔民",
+    "pinyin": "yúmín",
+    "meaning": "balıkçı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "渔民们一大早就出海了。",
+        "pinyin": "Yúmínmen yī dàzǎo jiù chūhǎi le.",
+        "en": "Balıkçılar sabahın erken saatlerinde denize açıldı."
+      },
+      {
+        "zh": "这个村子里大多数人是渔民。",
+        "pinyin": "Zhège cūnzi lǐ dàduōshù rén shì yúmín.",
+        "en": "Bu köydeki çoğu insan balıkçıdır."
+      },
+      {
+        "zh": "渔民靠打渔维持生计。",
+        "pinyin": "Yúmín kào dǎyú wéichí shēngjì.",
+        "en": "Balıkçılar balıkçılıkla geçimlerini sağlar."
+      },
+      {
+        "zh": "台风让渔民无法出海。",
+        "pinyin": "Táifēng ràng yúmín wúfǎ chūhǎi.",
+        "en": "Tayfun balıkçıların denize açılmasını engelledi."
+      },
+      {
+        "zh": "渔民们庆祝丰收的一年。",
+        "pinyin": "Yúmínmen qìngzhù fēngshōu de yī nián.",
+        "en": "Balıkçılar bereketli bir yılı kutluyor."
+      }
+    ]
+  },
+  {
+    "id": "w7015",
+    "hanzi": "渔业",
+    "pinyin": "yúyè",
+    "meaning": "balıkçılık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这个地区渔业发达。",
+        "pinyin": "Zhège dìqū yúyè fādá.",
+        "en": "Bu bölgede balıkçılık gelişmiştir."
+      },
+      {
+        "zh": "渔业是当地经济的重要支柱。",
+        "pinyin": "Yúyè shì dāngdì jīngjì de zhòngyào zhīzhù.",
+        "en": "Balıkçılık yerel ekonominin önemli bir direğidir."
+      },
+      {
+        "zh": "政府支持渔业的可持续发展。",
+        "pinyin": "Zhèngfǔ zhīchí yúyè de kěchíxù fāzhǎn.",
+        "en": "Hükümet balıkçılığın sürdürülebilir gelişimini destekliyor."
+      },
+      {
+        "zh": "过度捕捞威胁着渔业资源。",
+        "pinyin": "Guòdù bǔlāo wēixiézhe yúyè zīyuán.",
+        "en": "Aşırı avlanma balıkçılık kaynaklarını tehdit ediyor."
+      },
+      {
+        "zh": "他从事渔业已经三十年了。",
+        "pinyin": "Tā cóngshì yúyè yǐjīng sānshí nián le.",
+        "en": "O otuz yıldır balıkçılıkla uğraşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7016",
+    "hanzi": "余",
+    "pinyin": "yú",
+    "meaning": "fazla, kalan, artan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "会议结束后还剩余一些时间。",
+        "pinyin": "Huìyì jiéshù hòu hái shèngyú yīxiē shíjiān.",
+        "en": "Toplantı bittikten sonra hâlâ biraz zaman kaldı."
+      },
+      {
+        "zh": "他把余下的钱存进了银行。",
+        "pinyin": "Tā bǎ yú xià de qián cún jìnle yínháng.",
+        "en": "O kalan parayı bankaya yatırdı."
+      },
+      {
+        "zh": "工作之余,他喜欢画画。",
+        "pinyin": "Gōngzuò zhī yú, tā xǐhuān huàhuà.",
+        "en": "İş dışında zamanında resim yapmayı sever."
+      },
+      {
+        "zh": "这项工程耗资一千万余元。",
+        "pinyin": "Zhè xiàng gōngchéng hàozī yī qiān wàn yú yuán.",
+        "en": "Bu proje on milyondan fazla yuana mal oldu."
+      },
+      {
+        "zh": "十年有余的友谊。",
+        "pinyin": "Shí nián yǒuyú de yǒuyì.",
+        "en": "On yılı aşkın bir dostluk."
+      }
+    ]
+  },
+  {
+    "id": "w7017",
+    "hanzi": "余地",
+    "pinyin": "yúdì",
+    "meaning": "manevra alanı, boşluk, esneklik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个计划没有商量的余地。",
+        "pinyin": "Zhège jìhuà méiyǒu shāngliang de yúdì.",
+        "en": "Bu plan üzerinde tartışma alanı yok."
+      },
+      {
+        "zh": "请给他留一点余地。",
+        "pinyin": "Qǐng gěi tā liú yīdiǎn yúdì.",
+        "en": "Lütfen ona biraz manevra alanı bırak."
+      }
+    ]
   }
 ]

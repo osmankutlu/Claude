@@ -186379,5 +186379,803 @@
         "en": "Bu hastalık esas olarak yaşlı nüfusu etkiliyor."
       }
     ]
+  },
+  {
+    "id": "w5421",
+    "hanzi": "人人",
+    "pinyin": "rénrén",
+    "meaning": "herkes, her bir kişi",
+    "partOfSpeech": "zamir",
+    "level": 5,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "人人都应该遵守法律。",
+        "pinyin": "Rénrén dōu yīnggāi zūnshǒu fǎlǜ.",
+        "en": "Herkes yasalara uymalıdır."
+      },
+      {
+        "zh": "人人平等。",
+        "pinyin": "Rénrén píngděng.",
+        "en": "Herkes eşittir."
+      },
+      {
+        "zh": "人人都有自己的梦想。",
+        "pinyin": "Rénrén dōu yǒu zìjǐ de mèngxiǎng.",
+        "en": "Herkesin kendi hayali vardır."
+      },
+      {
+        "zh": "这个问题人人关心。",
+        "pinyin": "Zhège wèntí rénrén guānxīn.",
+        "en": "Bu sorun herkesin ilgilendiği bir konu."
+      },
+      {
+        "zh": "人人都喜欢这部电影。",
+        "pinyin": "Rénrén dōu xǐhuan zhè bù diànyǐng.",
+        "en": "Herkes bu filmi seviyor."
+      }
+    ]
+  },
+  {
+    "id": "w5422",
+    "hanzi": "人身",
+    "pinyin": "rénshēn",
+    "meaning": "kişiye ait, kişisel (sağlık, hayat, itibar vb.)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他受到了人身攻击。",
+        "pinyin": "Tā shòudào le rénshēn gōngjī.",
+        "en": "Kişisel bir saldırıya maruz kaldı."
+      },
+      {
+        "zh": "法律保护公民的人身安全。",
+        "pinyin": "Fǎlǜ bǎohù gōngmín de rénshēn ānquán.",
+        "en": "Yasalar vatandaşların kişisel güvenliğini korur."
+      }
+    ]
+  },
+  {
+    "id": "w5423",
+    "hanzi": "人士",
+    "pinyin": "rénshì",
+    "meaning": "kişi, şahsiyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "许多知名人士出席了这次活动。",
+        "pinyin": "Xǔduō zhīmíng rénshì chūxí le zhè cì huódòng.",
+        "en": "Birçok tanınmış kişi bu etkinliğe katıldı."
+      },
+      {
+        "zh": "各界人士纷纷发表了看法。",
+        "pinyin": "Gèjiè rénshì fēnfēn fābiǎo le kànfǎ.",
+        "en": "Çeşitli çevrelerden kişiler görüşlerini açıkladı."
+      }
+    ]
+  },
+  {
+    "id": "w5424",
+    "hanzi": "人心",
+    "pinyin": "rénxīn",
+    "meaning": "insani duygular, kamu düşüncesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这项政策深得人心。",
+        "pinyin": "Zhè xiàng zhèngcè shēndé rénxīn.",
+        "en": "Bu politika halkın gönlünü kazandı."
+      },
+      {
+        "zh": "人心难测。",
+        "pinyin": "Rénxīn nán cè.",
+        "en": "İnsanın gönlünü tahmin etmek zordur."
+      }
+    ]
+  },
+  {
+    "id": "w5425",
+    "hanzi": "忍耐",
+    "pinyin": "rěnnài",
+    "meaning": "sabretmek, tahammül etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他学会了忍耐困难。",
+        "pinyin": "Tā xuéhuì le rěnnài kùnnán.",
+        "en": "Zorluklara sabretmeyi öğrendi."
+      },
+      {
+        "zh": "面对不公，她选择了忍耐。",
+        "pinyin": "Miànduì bùgōng, tā xuǎnzé le rěnnài.",
+        "en": "Adaletsizlik karşısında sabretmeyi seçti."
+      },
+      {
+        "zh": "这种痛苦需要极大的忍耐力。",
+        "pinyin": "Zhè zhǒng tòngkǔ xūyào jídà de rěnnàilì.",
+        "en": "Bu tür bir acı büyük bir sabır gerektirir."
+      },
+      {
+        "zh": "他忍耐了很久，终于爆发了。",
+        "pinyin": "Tā rěnnài le hěn jiǔ, zhōngyú bàofā le.",
+        "en": "Uzun süre sabretti, sonunda patladı."
+      },
+      {
+        "zh": "有时候忍耐是最好的选择。",
+        "pinyin": "Yǒushíhou rěnnài shì zuìhǎo de xuǎnzé.",
+        "en": "Bazen sabretmek en iyi seçenektir."
+      }
+    ]
+  },
+  {
+    "id": "w5426",
+    "hanzi": "忍受",
+    "pinyin": "rěnshòu",
+    "meaning": "katlanmak, dayanmak, tahammül etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他忍受了很大的痛苦。",
+        "pinyin": "Tā rěnshòu le hěn dà de tòngkǔ.",
+        "en": "Büyük bir acıya katlandı."
+      },
+      {
+        "zh": "我无法忍受他的态度。",
+        "pinyin": "Wǒ wúfǎ rěnshòu tā de tàidù.",
+        "en": "Onun tavrına dayanamıyorum."
+      },
+      {
+        "zh": "她默默忍受着孤独。",
+        "pinyin": "Tā mòmò rěnshòuzhe gūdú.",
+        "en": "Yalnızlığa sessizce katlanıyor."
+      },
+      {
+        "zh": "这种噪音让人无法忍受。",
+        "pinyin": "Zhè zhǒng zàoyīn ràng rén wúfǎ rěnshòu.",
+        "en": "Bu tür gürültüye dayanmak imkansız."
+      },
+      {
+        "zh": "他忍受着病痛的折磨。",
+        "pinyin": "Tā rěnshòuzhe bìngtòng de zhémó.",
+        "en": "Hastalığın verdiği acıya katlanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5427",
+    "hanzi": "任命",
+    "pinyin": "rènmìng",
+    "meaning": "atamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司任命他为新总裁。",
+        "pinyin": "Gōngsī rènmìng tā wéi xīn zǒngcái.",
+        "en": "Şirket onu yeni başkan olarak atadı."
+      },
+      {
+        "zh": "他被任命为部门经理。",
+        "pinyin": "Tā bèi rènmìng wéi bùmén jīnglǐ.",
+        "en": "Bölüm müdürü olarak atandı."
+      }
+    ]
+  },
+  {
+    "id": "w5428",
+    "hanzi": "任期",
+    "pinyin": "rènqī",
+    "meaning": "görev süresi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "总统的任期是四年。",
+        "pinyin": "Zǒngtǒng de rènqī shì sì nián.",
+        "en": "Cumhurbaşkanının görev süresi dört yıldır."
+      },
+      {
+        "zh": "他的任期即将结束。",
+        "pinyin": "Tā de rènqī jíjiāng jiéshù.",
+        "en": "Görev süresi yakında sona erecek."
+      }
+    ]
+  },
+  {
+    "id": "w5429",
+    "hanzi": "任性",
+    "pinyin": "rènxìng",
+    "meaning": "inatçı, kaprisli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "这个孩子很任性。",
+        "pinyin": "Zhège háizi hěn rènxìng.",
+        "en": "Bu çocuk çok kaprisli."
+      },
+      {
+        "zh": "别那么任性了。",
+        "pinyin": "Bié nàme rènxìng le.",
+        "en": "Bu kadar inatçı olma."
+      },
+      {
+        "zh": "她做事总是很任性。",
+        "pinyin": "Tā zuòshì zǒngshì hěn rènxìng.",
+        "en": "İşleri her zaman kaprisli bir şekilde yapıyor."
+      },
+      {
+        "zh": "父母不应该纵容孩子任性。",
+        "pinyin": "Fùmǔ bù yīnggāi zòngróng háizi rènxìng.",
+        "en": "Ebeveynler çocukların kapris yapmasına göz yummamalı."
+      },
+      {
+        "zh": "他年轻时性格非常任性。",
+        "pinyin": "Tā niánqīng shí xìnggé fēicháng rènxìng.",
+        "en": "Gençliğinde karakteri çok inatçıydı."
+      }
+    ]
+  },
+  {
+    "id": "w5430",
+    "hanzi": "任意",
+    "pinyin": "rènyì",
+    "meaning": "rastgele, keyfi olarak",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "不要任意改变计划。",
+        "pinyin": "Búyào rènyì gǎibiàn jìhuà.",
+        "en": "Planı keyfi olarak değiştirmeyin."
+      },
+      {
+        "zh": "你可以任意选择一个座位。",
+        "pinyin": "Nǐ kěyǐ rènyì xuǎnzé yí ge zuòwèi.",
+        "en": "İstediğin herhangi bir koltuğu seçebilirsin."
+      },
+      {
+        "zh": "他任意地涂改了文件。",
+        "pinyin": "Tā rènyì de túgǎi le wénjiàn.",
+        "en": "Belgeyi keyfi bir şekilde değiştirdi."
+      },
+      {
+        "zh": "规则不能被任意打破。",
+        "pinyin": "Guīzé bùnéng bèi rènyì dǎpò.",
+        "en": "Kurallar keyfi bir şekilde bozulamaz."
+      },
+      {
+        "zh": "从这些数字中任意选一个。",
+        "pinyin": "Cóng zhèxiē shùzì zhōng rènyì xuǎn yí ge.",
+        "en": "Bu sayılardan rastgele birini seç."
+      }
+    ]
+  },
+  {
+    "id": "w5431",
+    "hanzi": "任职",
+    "pinyin": "rènzhí",
+    "meaning": "görevde bulunmak, görev yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他在这家公司任职多年。",
+        "pinyin": "Tā zài zhè jiā gōngsī rènzhí duōnián.",
+        "en": "Bu şirkette yıllardır görev yapıyor."
+      },
+      {
+        "zh": "她曾在政府部门任职。",
+        "pinyin": "Tā céng zài zhèngfǔ bùmén rènzhí.",
+        "en": "Daha önce bir hükümet biriminde görev yapmıştı."
+      }
+    ]
+  },
+  {
+    "id": "w5432",
+    "hanzi": "妊娠",
+    "pinyin": "rènshēn",
+    "meaning": "gebelik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "妊娠期间要注意营养均衡。",
+        "pinyin": "Rènshēn qījiān yào zhùyì yíngyǎng jūnhéng.",
+        "en": "Gebelik döneminde dengeli beslenmeye dikkat edilmelidir."
+      },
+      {
+        "zh": "她正处于妊娠早期。",
+        "pinyin": "Tā zhèng chǔyú rènshēn zǎoqī.",
+        "en": "Gebeliğinin erken döneminde."
+      }
+    ]
+  },
+  {
+    "id": "w5433",
+    "hanzi": "认出",
+    "pinyin": "rènchū",
+    "meaning": "tanımak, fark etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我一眼就认出了他。",
+        "pinyin": "Wǒ yìyǎn jiù rènchū le tā.",
+        "en": "Onu bir bakışta tanıdım."
+      },
+      {
+        "zh": "她认出了自己小时候的照片。",
+        "pinyin": "Tā rènchū le zìjǐ xiǎoshíhou de zhàopiàn.",
+        "en": "Küçüklüğünün fotoğrafını tanıdı."
+      },
+      {
+        "zh": "他变化太大，我没能认出他来。",
+        "pinyin": "Tā biànhuà tài dà, wǒ méinéng rènchū tā lái.",
+        "en": "Çok değişmiş, onu tanıyamadım."
+      },
+      {
+        "zh": "警察从监控视频中认出了嫌疑人。",
+        "pinyin": "Jǐngchá cóng jiānkòng shìpín zhōng rènchū le xiányírén.",
+        "en": "Polis güvenlik kamerası görüntüsünden şüpheliyi tanıdı."
+      },
+      {
+        "zh": "她一下子就认出了这首歌。",
+        "pinyin": "Tā yíxiàzi jiù rènchū le zhè shǒu gē.",
+        "en": "Bu şarkıyı hemen tanıdı."
+      }
+    ]
+  },
+  {
+    "id": "w5434",
+    "hanzi": "认错",
+    "pinyin": "rèncuò",
+    "meaning": "hatasını kabul etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他勇敢地向老师认错。",
+        "pinyin": "Tā yǒnggǎn de xiàng lǎoshī rèncuò.",
+        "en": "Cesurca öğretmenine hatasını kabul etti."
+      },
+      {
+        "zh": "认错是解决问题的第一步。",
+        "pinyin": "Rèncuò shì jiějué wèntí de dìyī bù.",
+        "en": "Hatayı kabul etmek, sorunu çözmenin ilk adımıdır."
+      },
+      {
+        "zh": "他从不肯认错。",
+        "pinyin": "Tā cóngbù kěn rèncuò.",
+        "en": "Hiçbir zaman hatasını kabul etmez."
+      },
+      {
+        "zh": "她诚恳地认错并道了歉。",
+        "pinyin": "Tā chéngkěn de rèncuò bìng dào le qiàn.",
+        "en": "Samimi bir şekilde hatasını kabul edip özür diledi."
+      },
+      {
+        "zh": "小孩子做错事应该学会认错。",
+        "pinyin": "Xiǎoháizi zuòcuò shì yīnggāi xuéhuì rèncuò.",
+        "en": "Çocuklar hata yaptıklarında hatalarını kabul etmeyi öğrenmeli."
+      }
+    ]
+  },
+  {
+    "id": "w5435",
+    "hanzi": "认定",
+    "pinyin": "rèndìng",
+    "meaning": "kanaate varmak, kesin olarak inanmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他认定这是最好的选择。",
+        "pinyin": "Tā rèndìng zhè shì zuìhǎo de xuǎnzé.",
+        "en": "Bunun en iyi seçim olduğuna kanaat getirdi."
+      },
+      {
+        "zh": "警方认定这是一起蓄意谋杀案。",
+        "pinyin": "Jǐngfāng rèndìng zhè shì yìqǐ xùyì móushā àn.",
+        "en": "Polis bunun kasıtlı bir cinayet olduğuna kanaat getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5436",
+    "hanzi": "认可",
+    "pinyin": "rènkě",
+    "meaning": "onaylamak, uygun bulmak, tasvip etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的成绩得到了老师的认可。",
+        "pinyin": "Tā de chéngjì dédào le lǎoshī de rènkě.",
+        "en": "Başarısı öğretmen tarafından onaylandı."
+      },
+      {
+        "zh": "这份工作需要得到经理的认可。",
+        "pinyin": "Zhè fèn gōngzuò xūyào dédào jīnglǐ de rènkě.",
+        "en": "Bu iş, müdürün onayını almayı gerektiriyor."
+      },
+      {
+        "zh": "他的努力终于得到了大家的认可。",
+        "pinyin": "Tā de nǔlì zhōngyú dédào le dàjiā de rènkě.",
+        "en": "Çabası sonunda herkes tarafından takdir edildi."
+      },
+      {
+        "zh": "这项证书受到国际认可。",
+        "pinyin": "Zhè xiàng zhèngshū shòudào guójì rènkě.",
+        "en": "Bu sertifika uluslararası tanınırlığa sahip."
+      },
+      {
+        "zh": "我们需要获得客户的认可。",
+        "pinyin": "Wǒmen xūyào huòdé kèhù de rènkě.",
+        "en": "Müşterinin onayını almamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5437",
+    "hanzi": "认输",
+    "pinyin": "rènshū",
+    "meaning": "yenilgiyi kabul etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不甘心认输。",
+        "pinyin": "Tā bùgānxīn rènshū.",
+        "en": "Yenilgiyi kabul etmeye gönlü razı olmuyor."
+      },
+      {
+        "zh": "比赛还没结束，他不会轻易认输。",
+        "pinyin": "Bǐsài hái méi jiéshù, tā búhuì qīngyì rènshū.",
+        "en": "Maç henüz bitmedi, kolayca yenilgiyi kabul etmeyecek."
+      }
+    ]
+  },
+  {
+    "id": "w5438",
+    "hanzi": "韧带",
+    "pinyin": "rèndài",
+    "meaning": "bağ doku (anatomi)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他打球时拉伤了韧带。",
+        "pinyin": "Tā dǎqiú shí lāshāng le rèndài.",
+        "en": "Top oynarken bağ dokusunu zorladı."
+      },
+      {
+        "zh": "韧带损伤需要长期恢复。",
+        "pinyin": "Rèndài sǔnshāng xūyào chángqī huīfù.",
+        "en": "Bağ dokusu yaralanmaları uzun süreli iyileşme gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5439",
+    "hanzi": "日报",
+    "pinyin": "rìbào",
+    "meaning": "günlük gazete",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他每天阅读日报了解新闻。",
+        "pinyin": "Tā měitiān yuèdú rìbào liǎojiě xīnwén.",
+        "en": "Her gün haberleri öğrenmek için günlük gazeteyi okuyor."
+      },
+      {
+        "zh": "这份日报在全国发行。",
+        "pinyin": "Zhè fèn rìbào zài quánguó fāxíng.",
+        "en": "Bu günlük gazete ülke genelinde dağıtılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5440",
+    "hanzi": "日光",
+    "pinyin": "rìguāng",
+    "meaning": "gün ışığı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "阳台上洒满了日光。",
+        "pinyin": "Yángtái shàng sǎmǎn le rìguāng.",
+        "en": "Balkon gün ışığıyla dolu."
+      },
+      {
+        "zh": "植物需要日光才能生长。",
+        "pinyin": "Zhíwù xūyào rìguāng cáinéng shēngzhǎng.",
+        "en": "Bitkiler büyümek için gün ışığına ihtiyaç duyar."
+      },
+      {
+        "zh": "日光透过窗户照进了房间。",
+        "pinyin": "Rìguāng tòuguò chuānghu zhàojìn le fángjiān.",
+        "en": "Gün ışığı pencereden odaya vurdu."
+      },
+      {
+        "zh": "早晨的日光很温暖。",
+        "pinyin": "Zǎochén de rìguāng hěn wēnnuǎn.",
+        "en": "Sabahın gün ışığı çok sıcak."
+      },
+      {
+        "zh": "他喜欢在日光下散步。",
+        "pinyin": "Tā xǐhuan zài rìguāng xià sànbù.",
+        "en": "Gün ışığında yürüyüş yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5441",
+    "hanzi": "日益",
+    "pinyin": "rìyì",
+    "meaning": "günden güne, gitgide",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "两国关系日益密切。",
+        "pinyin": "Liǎng guó guānxì rìyì mìqiè.",
+        "en": "İki ülke arasındaki ilişkiler günden güne yakınlaşıyor."
+      },
+      {
+        "zh": "环境污染问题日益严重。",
+        "pinyin": "Huánjìng wūrǎn wèntí rìyì yánzhòng.",
+        "en": "Çevre kirliliği sorunu gitgide ağırlaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5442",
+    "hanzi": "容积",
+    "pinyin": "róngjī",
+    "meaning": "hacim, kapasite",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个容器的容积是五升。",
+        "pinyin": "Zhège róngqì de róngjī shì wǔ shēng.",
+        "en": "Bu kabın hacmi beş litredir."
+      },
+      {
+        "zh": "水箱的容积决定了储水量。",
+        "pinyin": "Shuǐxiāng de róngjī juédìng le chǔshuǐliàng.",
+        "en": "Su tankının hacmi depolanan su miktarını belirler."
+      }
+    ]
+  },
+  {
+    "id": "w5443",
+    "hanzi": "容量",
+    "pinyin": "róngliàng",
+    "meaning": "kapasite, hacim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个硬盘的容量是一千吉。",
+        "pinyin": "Zhège yìngpán de róngliàng shì yìqiān jí.",
+        "en": "Bu diskin kapasitesi bin gigabayttır."
+      },
+      {
+        "zh": "电池容量决定了使用时间。",
+        "pinyin": "Diànchí róngliàng juédìng le shǐyòng shíjiān.",
+        "en": "Pil kapasitesi kullanım süresini belirler."
+      },
+      {
+        "zh": "这个体育馆的容量是三万人。",
+        "pinyin": "Zhège tǐyùguǎn de róngliàng shì sānwàn rén.",
+        "en": "Bu spor salonunun kapasitesi otuz bin kişidir."
+      },
+      {
+        "zh": "水库的容量非常大。",
+        "pinyin": "Shuǐkù de róngliàng fēicháng dà.",
+        "en": "Barajın kapasitesi çok büyük."
+      },
+      {
+        "zh": "手机的存储容量不够用了。",
+        "pinyin": "Shǒujī de cúnchǔ róngliàng búgòu yòng le.",
+        "en": "Telefonun depolama kapasitesi yetmiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5444",
+    "hanzi": "容貌",
+    "pinyin": "róngmào",
+    "meaning": "görünüş, dış görünüm",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的容貌十分出众。",
+        "pinyin": "Tā de róngmào shífēn chūzhòng.",
+        "en": "Görünüşü oldukça göz alıcı."
+      },
+      {
+        "zh": "岁月改变了他的容貌。",
+        "pinyin": "Suìyuè gǎibiàn le tā de róngmào.",
+        "en": "Zaman onun görünüşünü değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5445",
+    "hanzi": "容纳",
+    "pinyin": "róngnà",
+    "meaning": "içine alabilmek, sığdırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个礼堂能容纳一千人。",
+        "pinyin": "Zhège lǐtáng néng róngnà yìqiān rén.",
+        "en": "Bu salon bin kişiyi alabilir."
+      },
+      {
+        "zh": "这个房间容纳不下这么多东西。",
+        "pinyin": "Zhège fángjiān róngnà búxià zhème duō dōngxi.",
+        "en": "Bu oda bu kadar eşyayı sığdıramaz."
+      },
+      {
+        "zh": "这座体育场能容纳五万名观众。",
+        "pinyin": "Zhè zuò tǐyùchǎng néng róngnà wǔwàn míng guānzhòng.",
+        "en": "Bu stadyum elli bin izleyiciyi alabilir."
+      },
+      {
+        "zh": "书架容纳了他所有的藏书。",
+        "pinyin": "Shūjià róngnà le tā suǒyǒu de cángshū.",
+        "en": "Kitaplık onun bütün kitaplarını sığdırdı."
+      },
+      {
+        "zh": "这个箱子最多能容纳十公斤重的物品。",
+        "pinyin": "Zhège xiāngzi zuìduō néng róngnà shí gōngjīn zhòng de wùpǐn.",
+        "en": "Bu kutu en fazla on kilogram ağırlığındaki eşyayı alabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5446",
+    "hanzi": "容器",
+    "pinyin": "róngqì",
+    "meaning": "kap, kutu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请把液体倒进容器里。",
+        "pinyin": "Qǐng bǎ yètǐ dào jìn róngqì lǐ.",
+        "en": "Lütfen sıvıyı kabın içine dökün."
+      },
+      {
+        "zh": "这个容器可以密封保存食物。",
+        "pinyin": "Zhège róngqì kěyǐ mìfēng bǎocún shíwù.",
+        "en": "Bu kap yiyecekleri hava geçirmez bir şekilde saklayabilir."
+      },
+      {
+        "zh": "他用塑料容器装水。",
+        "pinyin": "Tā yòng sùliào róngqì zhuāng shuǐ.",
+        "en": "Plastik bir kapla su dolduruyor."
+      },
+      {
+        "zh": "实验室里摆满了各种容器。",
+        "pinyin": "Shíyànshì lǐ bǎimǎn le gèzhǒng róngqì.",
+        "en": "Laboratuvar çeşitli kaplarla dolu."
+      },
+      {
+        "zh": "这个容器不能装热水。",
+        "pinyin": "Zhège róngqì bùnéng zhuāng rèshuǐ.",
+        "en": "Bu kaba sıcak su konulamaz."
+      }
+    ]
+  },
+  {
+    "id": "w5447",
+    "hanzi": "容忍",
+    "pinyin": "róngrěn",
+    "meaning": "hoşgörmek, tahammül etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他无法容忍别人的谎言。",
+        "pinyin": "Tā wúfǎ róngrěn biéren de huǎngyán.",
+        "en": "Başkalarının yalanlarına tahammül edemiyor."
+      },
+      {
+        "zh": "我们不能容忍这种行为。",
+        "pinyin": "Wǒmen bùnéng róngrěn zhè zhǒng xíngwéi.",
+        "en": "Bu tür bir davranışa tahammül edemeyiz."
+      },
+      {
+        "zh": "她容忍了他很多次的错误。",
+        "pinyin": "Tā róngrěn le tā hěnduō cì de cuòwù.",
+        "en": "Onun birçok kez yaptığı hataya tahammül etti."
+      },
+      {
+        "zh": "父母应该学会容忍孩子的小缺点。",
+        "pinyin": "Fùmǔ yīnggāi xuéhuì róngrěn háizi de xiǎo quēdiǎn.",
+        "en": "Ebeveynler çocuklarının küçük kusurlarına hoşgörülü olmayı öğrenmeli."
+      },
+      {
+        "zh": "他的忍耐已经到了极限，不能再容忍了。",
+        "pinyin": "Tā de rěnnài yǐjīng dào le jíxiàn, bùnéng zài róngrěn le.",
+        "en": "Sabrı sınırına ulaştı, artık tahammül edemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5448",
+    "hanzi": "溶解",
+    "pinyin": "róngjiě",
+    "meaning": "erimek, çözünmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "盐可以溶解在水里。",
+        "pinyin": "Yán kěyǐ róngjiě zài shuǐ lǐ.",
+        "en": "Tuz suda çözünebilir."
+      },
+      {
+        "zh": "糖很快就溶解了。",
+        "pinyin": "Táng hěn kuài jiù róngjiě le.",
+        "en": "Şeker çok çabuk eridi."
+      },
+      {
+        "zh": "这种物质不易溶解于水。",
+        "pinyin": "Zhè zhǒng wùzhì bú yì róngjiě yú shuǐ.",
+        "en": "Bu madde suda kolayca çözünmez."
+      },
+      {
+        "zh": "药片在胃里逐渐溶解。",
+        "pinyin": "Yàopiàn zài wèi lǐ zhújiàn róngjiě.",
+        "en": "Hap midede yavaş yavaş çözünür."
+      },
+      {
+        "zh": "温度越高，物质溶解得越快。",
+        "pinyin": "Wēndù yuè gāo, wùzhì róngjiě de yuè kuài.",
+        "en": "Sıcaklık ne kadar yüksekse madde o kadar hızlı çözünür."
+      }
+    ]
   }
 ]

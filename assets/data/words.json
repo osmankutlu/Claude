@@ -176395,5 +176395,545 @@
         "en": "Bavulunu bir kez daha sayıp kontrol etti."
       }
     ]
+  },
+  {
+    "id": "w5097",
+    "hanzi": "盘算",
+    "pinyin": "pánsuàn",
+    "meaning": "Hesap yapmak, planlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他心里盘算着这笔生意的利润。",
+        "pinyin": "Tā xīnlǐ pánsuànzhe zhè bǐ shēngyi de lìrùn.",
+        "en": "Kafasında bu işin karını hesaplıyordu."
+      },
+      {
+        "zh": "她正在盘算未来的计划。",
+        "pinyin": "Tā zhèngzài pánsuàn wèilái de jìhuà.",
+        "en": "Gelecek planlarını hesaplıyor."
+      },
+      {
+        "zh": "他盘算着如何解决这个问题。",
+        "pinyin": "Tā pánsuànzhe rúhé jiějué zhège wèntí.",
+        "en": "Bu sorunu nasıl çözeceğini hesaplıyor."
+      },
+      {
+        "zh": "他暗自盘算着自己的下一步行动。",
+        "pinyin": "Tā ànzì pánsuànzhe zìjǐ de xià yí bù xíngdòng.",
+        "en": "İçinden bir sonraki adımını hesaplıyordu."
+      },
+      {
+        "zh": "她盘算着该怎么安排这次旅行。",
+        "pinyin": "Tā pánsuànzhe gāi zěnme ānpái zhè cì lǚxíng.",
+        "en": "Bu seyahati nasıl planlayacağını hesaplıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5098",
+    "hanzi": "盘问",
+    "pinyin": "pánwèn",
+    "meaning": "Sorguya çekmek, soruşturmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警察盘问了这名嫌疑人。",
+        "pinyin": "Jǐngchá pánwèn le zhè míng xiányírén.",
+        "en": "Polis bu şüpheliyi sorguya çekti."
+      },
+      {
+        "zh": "海关人员盘问了他携带的物品。",
+        "pinyin": "Hǎiguān rényuán pánwèn le tā xiédài de wùpǐn.",
+        "en": "Gümrük görevlisi taşıdığı eşyalar hakkında sorguladı."
+      },
+      {
+        "zh": "他被盘问了很长时间。",
+        "pinyin": "Tā bèi pánwèn le hěn cháng shíjiān.",
+        "en": "Uzun süre sorguya çekildi."
+      },
+      {
+        "zh": "她耐心地盘问了目击者。",
+        "pinyin": "Tā nàixīn de pánwèn le mùjīzhě.",
+        "en": "Görgü tanığını sabırla sorguladı."
+      },
+      {
+        "zh": "老师盘问学生迟到的原因。",
+        "pinyin": "Lǎoshī pánwèn xuésheng chídào de yuányīn.",
+        "en": "Öğretmen öğrencinin geç kalma nedenini sorguladı."
+      }
+    ]
+  },
+  {
+    "id": "w5099",
+    "hanzi": "盘旋",
+    "pinyin": "pánxuán",
+    "meaning": "Daire çizerek dönmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "飞机在机场上空盘旋。",
+        "pinyin": "Fēijī zài jīchǎng shàngkōng pánxuán.",
+        "en": "Uçak havalimanının üzerinde daireler çiziyor."
+      },
+      {
+        "zh": "老鹰在天空中盘旋。",
+        "pinyin": "Lǎoyīng zài tiānkōng zhōng pánxuán.",
+        "en": "Kartal gökyüzünde daireler çizerek uçuyor."
+      },
+      {
+        "zh": "这个想法一直在他脑中盘旋。",
+        "pinyin": "Zhège xiǎngfǎ yìzhí zài tā nǎozhōng pánxuán.",
+        "en": "Bu fikir sürekli kafasında dönüp duruyordu."
+      },
+      {
+        "zh": "山路盘旋而上,十分陡峭。",
+        "pinyin": "Shānlù pánxuán ér shàng, shífēn dǒuqiào.",
+        "en": "Dağ yolu kıvrılarak yukarı çıkıyor, çok dik."
+      },
+      {
+        "zh": "烟雾盘旋着升上天空。",
+        "pinyin": "Yānwù pánxuánzhe shēngshàng tiānkōng.",
+        "en": "Duman kıvrılarak gökyüzüne yükseliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w5100",
+    "hanzi": "判",
+    "pinyin": "pàn",
+    "meaning": "Yargılamak, hüküm vermek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "法院判他有期徒刑三年。",
+        "pinyin": "Fǎyuàn pàn tā yǒuqī túxíng sān nián.",
+        "en": "Mahkeme onu üç yıl hapse mahkum etti."
+      },
+      {
+        "zh": "裁判判进球有效。",
+        "pinyin": "Cáipàn pàn jìnqiú yǒuxiào.",
+        "en": "Hakem golün geçerli olduğuna karar verdi."
+      },
+      {
+        "zh": "法官仔细判读了这份证据。",
+        "pinyin": "Fǎguān zǐxì pàndú le zhè fèn zhèngjù.",
+        "en": "Hakim bu kanıtı dikkatlice değerlendirdi."
+      },
+      {
+        "zh": "他被判无罪释放。",
+        "pinyin": "Tā bèi pàn wúzuì shìfàng.",
+        "en": "Suçsuz bulunarak serbest bırakıldı."
+      },
+      {
+        "zh": "老师判了这份试卷的分数。",
+        "pinyin": "Lǎoshī pàn le zhè fèn shìjuàn de fēnshù.",
+        "en": "Öğretmen bu sınav kağıdını puanladı."
+      }
+    ]
+  },
+  {
+    "id": "w5101",
+    "hanzi": "叛乱",
+    "pinyin": "pànluàn",
+    "meaning": "İsyan, ayaklanma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府成功平定了叛乱。",
+        "pinyin": "Zhèngfǔ chénggōng píngdìng le pànluàn.",
+        "en": "Hükümet isyanı başarıyla bastırdı."
+      },
+      {
+        "zh": "这场叛乱持续了数月。",
+        "pinyin": "Zhè chǎng pànluàn chíxù le shù yuè.",
+        "en": "Bu isyan aylarca sürdü."
+      },
+      {
+        "zh": "军队参与了这次叛乱。",
+        "pinyin": "Jūnduì cānyù le zhè cì pànluàn.",
+        "en": "Ordu bu isyana katıldı."
+      },
+      {
+        "zh": "叛乱分子被逮捕了。",
+        "pinyin": "Pànluàn fènzǐ bèi dàibǔ le.",
+        "en": "İsyancılar tutuklandı."
+      },
+      {
+        "zh": "这场叛乱造成了严重的伤亡。",
+        "pinyin": "Zhè chǎng pànluàn zàochéng le yánzhòng de shāngwáng.",
+        "en": "Bu isyan ciddi can kayıplarına yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w5102",
+    "hanzi": "叛徒",
+    "pinyin": "pàntú",
+    "meaning": "Hain, dönek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他被视为叛徒。",
+        "pinyin": "Tā bèi shìwéi pàntú.",
+        "en": "Hain olarak görülüyor."
+      },
+      {
+        "zh": "叛徒出卖了整个组织。",
+        "pinyin": "Pàntú chūmài le zhěnggè zǔzhī.",
+        "en": "Hain tüm örgütü sattı."
+      },
+      {
+        "zh": "他因背叛朋友被称为叛徒。",
+        "pinyin": "Tā yīn bèipàn péngyou bèi chēngwéi pàntú.",
+        "en": "Arkadaşına ihanet ettiği için hain olarak anıldı."
+      },
+      {
+        "zh": "历史上的叛徒总是遭人唾弃。",
+        "pinyin": "Lìshǐ shàng de pàntú zǒngshì zāo rén tuòqì.",
+        "en": "Tarihteki hainler her zaman lanetlenmiştir."
+      },
+      {
+        "zh": "他最终成了大家眼中的叛徒。",
+        "pinyin": "Tā zuìzhōng chéng le dàjiā yǎnzhōng de pàntú.",
+        "en": "Sonunda herkesin gözünde bir hain oldu."
+      }
+    ]
+  },
+  {
+    "id": "w5103",
+    "hanzi": "盼",
+    "pinyin": "pàn",
+    "meaning": "Ummak, arzu etmek, beklemek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她盼望着孩子早日归来。",
+        "pinyin": "Tā pànwàngzhe háizi zǎorì guīlái.",
+        "en": "Çocuğunun bir an önce geri dönmesini umuyor."
+      },
+      {
+        "zh": "我盼你早日康复。",
+        "pinyin": "Wǒ pàn nǐ zǎorì kāngfù.",
+        "en": "Bir an önce iyileşmeni diliyorum."
+      },
+      {
+        "zh": "他每天盼着邮差送来消息。",
+        "pinyin": "Tā měitiān pànzhe yóuchāi sònglái xiāoxi.",
+        "en": "Her gün postacının haber getirmesini bekliyor."
+      },
+      {
+        "zh": "她盼了很久终于等到了这一天。",
+        "pinyin": "Tā pàn le hěn jiǔ zhōngyú děngdào le zhè yì tiān.",
+        "en": "Uzun süredir beklediği gün sonunda geldi."
+      },
+      {
+        "zh": "孩子们盼着过年。",
+        "pinyin": "Háizimen pànzhe guònián.",
+        "en": "Çocuklar yeni yılın gelmesini dört gözle bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5104",
+    "hanzi": "旁",
+    "pinyin": "páng",
+    "meaning": "Yan, kenar",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他坐在我旁边。",
+        "pinyin": "Tā zuò zài wǒ pángbiān.",
+        "en": "Yanımda oturuyor."
+      },
+      {
+        "zh": "他站在一旁静静地看着。",
+        "pinyin": "Tā zhàn zài yì páng jìngjìng de kànzhe.",
+        "en": "Kenarda durup sessizce izliyordu."
+      },
+      {
+        "zh": "他从旁人那里听到了这个消息。",
+        "pinyin": "Tā cóng pángrén nàli tīngdào le zhège xiāoxi.",
+        "en": "Bu haberi başkalarından duydu."
+      },
+      {
+        "zh": "他旁若无人地大声说话。",
+        "pinyin": "Tā pángruòwúrén de dàshēng shuōhuà.",
+        "en": "Etrafta kimse yokmuş gibi yüksek sesle konuşuyordu."
+      },
+      {
+        "zh": "他把这件事撇在了一旁。",
+        "pinyin": "Tā bǎ zhè jiàn shì piē zài le yì páng.",
+        "en": "Bu konuyu bir kenara bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w5105",
+    "hanzi": "螃蟹",
+    "pinyin": "pángxiè",
+    "meaning": "Yengeç",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "秋天是吃螃蟹的季节。",
+        "pinyin": "Qiūtiān shì chī pángxiè de jìjié.",
+        "en": "Sonbahar, yengeç yeme mevsimidir."
+      },
+      {
+        "zh": "他们在海边捉螃蟹。",
+        "pinyin": "Tāmen zài hǎibiān zhuō pángxiè.",
+        "en": "Deniz kenarında yengeç yakalıyorlar."
+      },
+      {
+        "zh": "螃蟹横着走路。",
+        "pinyin": "Pángxiè héngzhe zǒulù.",
+        "en": "Yengeç yana doğru yürür."
+      },
+      {
+        "zh": "这盘清蒸螃蟹味道鲜美。",
+        "pinyin": "Zhè pán qīngzhēng pángxiè wèidao xiānměi.",
+        "en": "Bu buğulanmış yengeç tabağının tadı çok lezzetli."
+      },
+      {
+        "zh": "螃蟹的钳子很有力。",
+        "pinyin": "Pángxiè de qiánzi hěn yǒulì.",
+        "en": "Yengecin kıskaçları çok güçlüdür."
+      }
+    ]
+  },
+  {
+    "id": "w5106",
+    "hanzi": "膀胱",
+    "pinyin": "pángguāng",
+    "meaning": "Mesane",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的膀胱出现了炎症。",
+        "pinyin": "Tā de pángguāng chūxiàn le yánzhèng.",
+        "en": "Mesanesinde iltihaplanma meydana geldi."
+      },
+      {
+        "zh": "医生检查了他的膀胱功能。",
+        "pinyin": "Yīshēng jiǎnchá le tā de pángguāng gōngnéng.",
+        "en": "Doktor mesane işlevini kontrol etti."
+      },
+      {
+        "zh": "膀胱储存尿液直到排出体外。",
+        "pinyin": "Pángguāng chǔcún niàoyè zhídào páichū tǐwài.",
+        "en": "Mesane, dışarı atılana kadar idrarı depolar."
+      },
+      {
+        "zh": "他因膀胱结石接受了手术。",
+        "pinyin": "Tā yīn pángguāng jiéshí jiēshòu le shǒushù.",
+        "en": "Mesane taşı nedeniyle ameliyat oldu."
+      },
+      {
+        "zh": "多喝水有助于膀胱健康。",
+        "pinyin": "Duō hē shuǐ yǒuzhùyú pángguāng jiànkāng.",
+        "en": "Bol su içmek mesane sağlığına faydalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5107",
+    "hanzi": "庞大",
+    "pinyin": "pángdà",
+    "meaning": "Büyük, devasa",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一个庞大的工程项目。",
+        "pinyin": "Zhè shì yí gè pángdà de gōngchéng xiàngmù.",
+        "en": "Bu devasa bir mühendislik projesidir."
+      },
+      {
+        "zh": "公司拥有庞大的员工队伍。",
+        "pinyin": "Gōngsī yōngyǒu pángdà de yuángōng duìwu.",
+        "en": "Şirketin devasa bir çalışan kadrosu var."
+      },
+      {
+        "zh": "这座建筑规模十分庞大。",
+        "pinyin": "Zhè zuò jiànzhù guīmó shífēn pángdà.",
+        "en": "Bu binanın ölçeği son derece büyük."
+      },
+      {
+        "zh": "他们建立了一个庞大的数据库。",
+        "pinyin": "Tāmen jiànlì le yí gè pángdà de shùjùkù.",
+        "en": "Devasa bir veritabanı oluşturdular."
+      },
+      {
+        "zh": "这家企业面临着庞大的债务压力。",
+        "pinyin": "Zhè jiā qǐyè miànlínzhe pángdà de zhàiwù yālì.",
+        "en": "Bu işletme devasa bir borç baskısıyla karşı karşıya."
+      }
+    ]
+  },
+  {
+    "id": "w5108",
+    "hanzi": "抛",
+    "pinyin": "pāo",
+    "meaning": "Atmak, fırlatmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把球抛给了队友。",
+        "pinyin": "Tā bǎ qiú pāo gěi le duìyǒu.",
+        "en": "Topu takım arkadaşına fırlattı."
+      },
+      {
+        "zh": "他把烦恼都抛到脑后。",
+        "pinyin": "Tā bǎ fánnǎo dōu pāodào nǎohòu.",
+        "en": "Tüm sıkıntılarını arkasında bıraktı."
+      },
+      {
+        "zh": "他向她抛了一个媚眼。",
+        "pinyin": "Tā xiàng tā pāo le yí gè mèiyǎn.",
+        "en": "Ona kur yapan bir bakış attı."
+      },
+      {
+        "zh": "他抛出了一个新想法。",
+        "pinyin": "Tā pāochū le yí gè xīn xiǎngfǎ.",
+        "en": "Yeni bir fikir ortaya attı."
+      },
+      {
+        "zh": "他把石头抛进了湖里。",
+        "pinyin": "Tā bǎ shítou pāojìn le hú lǐ.",
+        "en": "Taşı göle fırlattı."
+      }
+    ]
+  },
+  {
+    "id": "w5109",
+    "hanzi": "抛弃",
+    "pinyin": "pāoqì",
+    "meaning": "Terk etmek, bırakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他抛弃了自己的家庭。",
+        "pinyin": "Tā pāoqì le zìjǐ de jiātíng.",
+        "en": "Kendi ailesini terk etti."
+      },
+      {
+        "zh": "不要抛弃自己的梦想。",
+        "pinyin": "Bú yào pāoqì zìjǐ de mèngxiǎng.",
+        "en": "Kendi hayalini terk etme."
+      },
+      {
+        "zh": "他被朋友抛弃了。",
+        "pinyin": "Tā bèi péngyou pāoqì le.",
+        "en": "Arkadaşı tarafından terk edildi."
+      },
+      {
+        "zh": "他抛弃了旧的生活方式。",
+        "pinyin": "Tā pāoqì le jiù de shēnghuó fāngshì.",
+        "en": "Eski yaşam tarzını terk etti."
+      },
+      {
+        "zh": "他从未抛弃过自己的信念。",
+        "pinyin": "Tā cóng wèi pāoqì guò zìjǐ de xìnniàn.",
+        "en": "Kendi inancından hiç vazgeçmedi."
+      }
+    ]
+  },
+  {
+    "id": "w5110",
+    "hanzi": "跑",
+    "pinyin": "pǎo",
+    "meaning": "Koşmak",
+    "partOfSpeech": "fiil",
+    "level": 2,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他每天早上跑步。",
+        "pinyin": "Tā měitiān zǎoshang pǎobù.",
+        "en": "Her sabah koşuya çıkıyor."
+      },
+      {
+        "zh": "他快速跑过了马路。",
+        "pinyin": "Tā kuàisù pǎoguò le mǎlù.",
+        "en": "Hızla caddeyi koşarak geçti."
+      },
+      {
+        "zh": "他跑得比谁都快。",
+        "pinyin": "Tā pǎo de bǐ shéi dōu kuài.",
+        "en": "Herkesten daha hızlı koşuyor."
+      },
+      {
+        "zh": "别跑,慢慢走。",
+        "pinyin": "Bié pǎo, mànmàn zǒu.",
+        "en": "Koşma, yavaş yürü."
+      },
+      {
+        "zh": "小偷趁机跑掉了。",
+        "pinyin": "Xiǎotōu chènjī pǎodiào le.",
+        "en": "Hırsız fırsattan yararlanıp kaçtı."
+      }
+    ]
+  },
+  {
+    "id": "w5111",
+    "hanzi": "跑道",
+    "pinyin": "pǎodào",
+    "meaning": "Pist, koşu yolu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "运动员在跑道上比赛。",
+        "pinyin": "Yùndòngyuán zài pǎodào shàng bǐsài.",
+        "en": "Sporcular pistte yarışıyor."
+      },
+      {
+        "zh": "飞机在跑道上滑行。",
+        "pinyin": "Fēijī zài pǎodào shàng huáxíng.",
+        "en": "Uçak pistte kayıyor."
+      },
+      {
+        "zh": "这条跑道是塑胶跑道。",
+        "pinyin": "Zhè tiáo pǎodào shì sùjiāo pǎodào.",
+        "en": "Bu koşu yolu sentetik bir pisttir."
+      },
+      {
+        "zh": "机场跑道正在维修。",
+        "pinyin": "Jīchǎng pǎodào zhèngzài wéixiū.",
+        "en": "Havalimanı pisti bakımdan geçiriliyor."
+      },
+      {
+        "zh": "他站在起跑线上,注视着跑道。",
+        "pinyin": "Tā zhàn zài qǐpǎoxiàn shàng, zhùshìzhe pǎodào.",
+        "en": "Başlangıç çizgisinde durup pisti izliyordu."
+      }
+    ]
   }
 ]

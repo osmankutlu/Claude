@@ -256594,5 +256594,713 @@
         "en": "Kendini övmeyi bırak, yeteneğinle konuş."
       }
     ]
+  },
+  {
+    "id": "w7827",
+    "hanzi": "自大",
+    "pinyin": "zìdà",
+    "meaning": "kendini beğenmiş, kibirli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人狂妄自大。",
+        "pinyin": "Tā wéirén kuángwàng zìdà.",
+        "en": "Aşırı kibirli ve kendini beğenmiş bir insan."
+      },
+      {
+        "zh": "别太自大，虚心一点。",
+        "pinyin": "Bié tài zìdà, xūxīn yìdiǎn.",
+        "en": "Çok kibirli olma, biraz alçakgönüllü ol."
+      },
+      {
+        "zh": "他自大的态度让人反感。",
+        "pinyin": "Tā zìdà de tàidù ràng rén fǎngǎn.",
+        "en": "Kibirli tavrı insanları rahatsız ediyor."
+      },
+      {
+        "zh": "夜郎自大是自欺欺人。",
+        "pinyin": "Yèláng-zìdà shì zìqī-qīrén.",
+        "en": "Kendini abartılı büyük görmek kendini kandırmaktır."
+      },
+      {
+        "zh": "成功后他变得越来越自大。",
+        "pinyin": "Chénggōng hòu tā biàn de yuèláiyuè zìdà.",
+        "en": "Başarıdan sonra giderek daha kibirli oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7828",
+    "hanzi": "自得",
+    "pinyin": "zìdé",
+    "meaning": "kendi durumundan memnun",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他悠然自得地散步。",
+        "pinyin": "Tā yōurán-zìdé de sànbù.",
+        "en": "Huzurlu ve kendinden memnun bir şekilde yürüyor."
+      },
+      {
+        "zh": "退休后他生活得怡然自得。",
+        "pinyin": "Tuìxiū hòu tā shēnghuó de yírán-zìdé.",
+        "en": "Emekli olduktan sonra huzurlu ve memnun bir hayat sürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7829",
+    "hanzi": "自顾不暇",
+    "pinyin": "zìgù-bùxiá",
+    "meaning": "kendi derdine düşmüş olmak, başkasına yardım edecek durumda olmamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他现在自顾不暇，帮不了你。",
+        "pinyin": "Tā xiànzài zìgù-bùxiá, bāng bù liǎo nǐ.",
+        "en": "Şu anda kendi derdine düşmüş, sana yardım edemez."
+      },
+      {
+        "zh": "公司自顾不暇，无力扩张。",
+        "pinyin": "Gōngsī zìgù-bùxiá, wúlì kuòzhāng.",
+        "en": "Şirket kendi sorunlarıyla uğraşıyor, genişleyecek gücü yok."
+      }
+    ]
+  },
+  {
+    "id": "w7830",
+    "hanzi": "自己人",
+    "pinyin": "zìjǐrén",
+    "meaning": "bizden biri, yakın çevre",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "别客气，我们都是自己人。",
+        "pinyin": "Bié kèqi, wǒmen dōu shì zìjǐrén.",
+        "en": "Çekinme, hepimiz aynı çevredeniz."
+      },
+      {
+        "zh": "他很快就把新同事当成自己人。",
+        "pinyin": "Tā hěn kuài jiù bǎ xīn tóngshì dàngchéng zìjǐrén.",
+        "en": "Yeni meslektaşını kısa sürede kendi çevresinden biri gibi gördü."
+      },
+      {
+        "zh": "这是自己人之间的事。",
+        "pinyin": "Zhè shì zìjǐrén zhījiān de shì.",
+        "en": "Bu yakınlar arasındaki bir mesele."
+      },
+      {
+        "zh": "自己人就不用讲究这些礼节了。",
+        "pinyin": "Zìjǐrén jiù búyòng jiǎngjiu zhèxiē lǐjié le.",
+        "en": "Yakın çevre olduğumuz için bu görgü kurallarına gerek yok."
+      },
+      {
+        "zh": "他把队友当成自己人一样对待。",
+        "pinyin": "Tā bǎ duìyǒu dàngchéng zìjǐrén yíyàng duìdài.",
+        "en": "Takım arkadaşlarına kendi ailesinden biri gibi davranıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7831",
+    "hanzi": "自给",
+    "pinyin": "zìjǐ",
+    "meaning": "kendine yeterli olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "这个国家粮食可以自给。",
+        "pinyin": "Zhège guójiā liángshi kěyǐ zìjǐ.",
+        "en": "Bu ülke gıda konusunda kendine yeterlidir."
+      },
+      {
+        "zh": "他们过着自给自足的生活。",
+        "pinyin": "Tāmen guòzhe zìjǐ-zìzú de shēnghuó.",
+        "en": "Kendi kendine yeterli bir hayat sürüyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w7832",
+    "hanzi": "自荐",
+    "pinyin": "zìjiàn",
+    "meaning": "kendini tavsiye etmek, aday göstermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他毛遂自荐参加了这个项目。",
+        "pinyin": "Tā máosuí-zìjiàn cānjiāle zhège xiàngmù.",
+        "en": "Kendini aday göstererek bu projeye katıldı."
+      },
+      {
+        "zh": "她自荐担任团队队长。",
+        "pinyin": "Tā zìjiàn dānrèn tuánduì duìzhǎng.",
+        "en": "Kendini takım lideri olarak önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w7833",
+    "hanzi": "自居",
+    "pinyin": "zìjū",
+    "meaning": "kendini ... olarak görmek/ilan etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他以专家自居。",
+        "pinyin": "Tā yǐ zhuānjiā zìjū.",
+        "en": "Kendini uzman olarak görüyor."
+      },
+      {
+        "zh": "别以功臣自居。",
+        "pinyin": "Bié yǐ gōngchén zìjū.",
+        "en": "Kendini kahraman ilan etme."
+      }
+    ]
+  },
+  {
+    "id": "w7834",
+    "hanzi": "自决",
+    "pinyin": "zìjué",
+    "meaning": "özgür irade, kendi kaderini tayin",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "各民族都有自决权利。",
+        "pinyin": "Gè mínzú dōu yǒu zìjué quánlì.",
+        "en": "Her millet kendi kaderini tayin hakkına sahiptir."
+      },
+      {
+        "zh": "他们要求实现民族自决。",
+        "pinyin": "Tāmen yāoqiú shíxiàn mínzú zìjué.",
+        "en": "Milletlerin kendi kaderini tayin etmesini talep ediyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w7835",
+    "hanzi": "自流",
+    "pinyin": "zìliú",
+    "meaning": "kendi kendine akmak; kendi haline bırakmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这里的水自流灌溉农田。",
+        "pinyin": "Zhèlǐ de shuǐ zìliú guàngài nóngtián.",
+        "en": "Buradaki su kendiliğinden tarlaları sulayabiliyor."
+      },
+      {
+        "zh": "工作不能任其自流。",
+        "pinyin": "Gōngzuò bùnéng rènqí zìliú.",
+        "en": "İş kendi haline bırakılamaz."
+      }
+    ]
+  },
+  {
+    "id": "w7836",
+    "hanzi": "自满",
+    "pinyin": "zìmǎn",
+    "meaning": "kendinden çok memnun, kibirli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "取得一点成绩不要自满。",
+        "pinyin": "Qǔdé yìdiǎn chéngjì búyào zìmǎn.",
+        "en": "Küçük bir başarı elde edince kendinden memnun olma."
+      },
+      {
+        "zh": "他从不自满，总在努力进步。",
+        "pinyin": "Tā cóng bù zìmǎn, zǒng zài nǔlì jìnbù.",
+        "en": "Hiç kendinden memnun olmaz, hep gelişmeye çalışır."
+      },
+      {
+        "zh": "骄傲自满会导致失败。",
+        "pinyin": "Jiāo'ào zìmǎn huì dǎozhì shībài.",
+        "en": "Kibir ve kendinden memnuniyet başarısızlığa yol açabilir."
+      },
+      {
+        "zh": "他因为自满而错过了机会。",
+        "pinyin": "Tā yīnwèi zìmǎn ér cuòguòle jīhuì.",
+        "en": "Kendinden fazla memnun olduğu için fırsatı kaçırdı."
+      },
+      {
+        "zh": "保持谦虚，避免自满。",
+        "pinyin": "Bǎochí qiānxū, bìmiǎn zìmǎn.",
+        "en": "Alçakgönüllü kal, kendinden fazla memnun olmaktan kaçın."
+      }
+    ]
+  },
+  {
+    "id": "w7837",
+    "hanzi": "自鸣得意",
+    "pinyin": "zìmíng-déyì",
+    "meaning": "kendi başarısıyla övünmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他自鸣得意地展示自己的成果。",
+        "pinyin": "Tā zìmíng-déyì de zhǎnshì zìjǐ de chéngguǒ.",
+        "en": "Kendi başarısıyla gururlanarak sonuçlarını sergiledi."
+      },
+      {
+        "zh": "别太自鸣得意，还有很多要学的。",
+        "pinyin": "Bié tài zìmíng-déyì, hái yǒu hěn duō yào xué de.",
+        "en": "Fazla övünme, öğrenilecek daha çok şey var."
+      }
+    ]
+  },
+  {
+    "id": "w7838",
+    "hanzi": "自命不凡",
+    "pinyin": "zìmìng-bùfán",
+    "meaning": "kendini olağanüstü görmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他自命不凡，看不起别人。",
+        "pinyin": "Tā zìmìng-bùfán, kànbuqǐ biérén.",
+        "en": "Kendini olağanüstü görüyor, başkalarını küçümsüyor."
+      },
+      {
+        "zh": "别自命不凡，虚心学习吧。",
+        "pinyin": "Bié zìmìng-bùfán, xūxīn xuéxí ba.",
+        "en": "Kendini olağanüstü görme, alçakgönüllü bir şekilde öğren."
+      }
+    ]
+  },
+  {
+    "id": "w7839",
+    "hanzi": "自欺欺人",
+    "pinyin": "zìqī-qīrén",
+    "meaning": "hem kendini hem başkalarını kandırmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这样做只是自欺欺人。",
+        "pinyin": "Zhèyàng zuò zhǐshì zìqī-qīrén.",
+        "en": "Bunu yapmak sadece kendini ve başkalarını kandırmak."
+      },
+      {
+        "zh": "别再自欺欺人了，面对现实吧。",
+        "pinyin": "Bié zài zìqī-qīrén le, miànduì xiànshí ba.",
+        "en": "Artık kendini kandırma, gerçeklerle yüzleş."
+      }
+    ]
+  },
+  {
+    "id": "w7840",
+    "hanzi": "自取灭亡",
+    "pinyin": "zìqǔ-mièwáng",
+    "meaning": "kendi sonunu hazırlamak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这样鲁莽行事无异于自取灭亡。",
+        "pinyin": "Zhèyàng lǔmǎng xíngshì wúyì yú zìqǔ-mièwáng.",
+        "en": "Bu kadar pervasız davranmak kendi sonunu hazırlamaktan farksız."
+      },
+      {
+        "zh": "他一意孤行，最终自取灭亡。",
+        "pinyin": "Tā yíyì-gūxíng, zuìzhōng zìqǔ-mièwáng.",
+        "en": "İnatla kendi yolunda gitti, sonunda kendi sonunu hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w7841",
+    "hanzi": "自如",
+    "pinyin": "zìrú",
+    "meaning": "rahatça, engelsiz, ustalıkla",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他能自如地运用这门语言。",
+        "pinyin": "Tā néng zìrú de yùnyòng zhè mén yǔyán.",
+        "en": "Bu dili rahatça kullanabiliyor."
+      },
+      {
+        "zh": "她动作自如，毫不僵硬。",
+        "pinyin": "Tā dòngzuò zìrú, háobù jiāngyìng.",
+        "en": "Hareketleri rahat ve hiç kasıntısız."
+      }
+    ]
+  },
+  {
+    "id": "w7842",
+    "hanzi": "自杀",
+    "pinyin": "zìshā",
+    "meaning": "intihar etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因抑郁症而自杀了。",
+        "pinyin": "Tā yīn yìyùzhèng ér zìshā le.",
+        "en": "Depresyon yüzünden intihar etti."
+      },
+      {
+        "zh": "预防自杀需要社会各界的关注。",
+        "pinyin": "Yùfáng zìshā xūyào shèhuì gèjiè de guānzhù.",
+        "en": "İntiharı önlemek toplumun her kesiminin ilgisini gerektirir."
+      },
+      {
+        "zh": "他的自杀让家人悲痛欲绝。",
+        "pinyin": "Tā de zìshā ràng jiārén bēitòng-yùjué.",
+        "en": "İntiharı ailesini derin bir kedere boğdu."
+      },
+      {
+        "zh": "心理咨询可以帮助有自杀倾向的人。",
+        "pinyin": "Xīnlǐ zīxún kěyǐ bāngzhù yǒu zìshā qīngxiàng de rén.",
+        "en": "Psikolojik danışmanlık intihar eğilimi olan kişilere yardımcı olabilir."
+      },
+      {
+        "zh": "他曾经尝试过自杀。",
+        "pinyin": "Tā céngjīng chángshìguò zìshā.",
+        "en": "Daha önce intihar girişiminde bulunmuştu."
+      }
+    ]
+  },
+  {
+    "id": "w7843",
+    "hanzi": "自食其力",
+    "pinyin": "zìshí-qílì",
+    "meaning": "kendi emeğiyle geçinmek",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他大学毕业后自食其力。",
+        "pinyin": "Tā dàxué bìyè hòu zìshí-qílì.",
+        "en": "Üniversiteden mezun olduktan sonra kendi emeğiyle geçiniyor."
+      },
+      {
+        "zh": "自食其力是一种美德。",
+        "pinyin": "Zìshí-qílì shì yì zhǒng měidé.",
+        "en": "Kendi emeğiyle geçinmek bir erdemdir."
+      }
+    ]
+  },
+  {
+    "id": "w7844",
+    "hanzi": "自始至终",
+    "pinyin": "zìshǐ-zhìzhōng",
+    "meaning": "baştan sona",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他自始至终都很冷静。",
+        "pinyin": "Tā zìshǐ-zhìzhōng dōu hěn lěngjìng.",
+        "en": "Baştan sona sakin kaldı."
+      },
+      {
+        "zh": "自始至终他都没有改变主意。",
+        "pinyin": "Zìshǐ-zhìzhōng tā dōu méiyǒu gǎibiàn zhǔyi.",
+        "en": "Baştan sona fikrini değiştirmedi."
+      }
+    ]
+  },
+  {
+    "id": "w7845",
+    "hanzi": "自首",
+    "pinyin": "zìshǒu",
+    "meaning": "kendini polise teslim etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他最终选择自首。",
+        "pinyin": "Tā zuìzhōng xuǎnzé zìshǒu.",
+        "en": "Sonunda kendini teslim etmeyi seçti."
+      },
+      {
+        "zh": "自首可以获得从轻处罚。",
+        "pinyin": "Zìshǒu kěyǐ huòdé cóngqīng chǔfá.",
+        "en": "Kendini teslim etmek daha hafif ceza almayı sağlayabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7846",
+    "hanzi": "自讨苦吃",
+    "pinyin": "zìtǎo-kǔchī",
+    "meaning": "kendine dert açmak, bela aramak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "这么做简直是自讨苦吃。",
+        "pinyin": "Zhème zuò jiǎnzhí shì zìtǎo-kǔchī.",
+        "en": "Bunu yapmak kesinlikle kendine dert açmak."
+      },
+      {
+        "zh": "他不听劝告，结果自讨苦吃。",
+        "pinyin": "Tā bù tīng quàngào, jiéguǒ zìtǎo-kǔchī.",
+        "en": "Tavsiyeyi dinlemedi, sonunda kendine bela açtı."
+      }
+    ]
+  },
+  {
+    "id": "w7847",
+    "hanzi": "自卫",
+    "pinyin": "zìwèi",
+    "meaning": "kendini savunma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他出于自卫打了对方。",
+        "pinyin": "Tā chūyú zìwèi dǎle duìfāng.",
+        "en": "Kendini savunmak amacıyla karşı tarafa vurdu."
+      },
+      {
+        "zh": "她学习了自卫技巧。",
+        "pinyin": "Tā xuéxíle zìwèi jìqiǎo.",
+        "en": "Kendini savunma tekniklerini öğrendi."
+      },
+      {
+        "zh": "法律允许在必要时进行自卫。",
+        "pinyin": "Fǎlǜ yǔnxǔ zài bìyào shí jìnxíng zìwèi.",
+        "en": "Kanun gerektiğinde kendini savunmaya izin verir."
+      },
+      {
+        "zh": "他随身携带自卫喷雾。",
+        "pinyin": "Tā suíshēn xiédài zìwèi pēnwù.",
+        "en": "Yanında kendini savunma spreyi taşıyor."
+      },
+      {
+        "zh": "国家有权进行自卫。",
+        "pinyin": "Guójiā yǒu quán jìnxíng zìwèi.",
+        "en": "Devletin kendini savunma hakkı vardır."
+      }
+    ]
+  },
+  {
+    "id": "w7848",
+    "hanzi": "自我",
+    "pinyin": "zìwǒ",
+    "meaning": "kendi, benlik",
+    "partOfSpeech": "zamir",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他常常自我反省。",
+        "pinyin": "Tā chángcháng zìwǒ fǎnxǐng.",
+        "en": "Sık sık kendini sorgular."
+      },
+      {
+        "zh": "找到自我很重要。",
+        "pinyin": "Zhǎodào zìwǒ hěn zhòngyào.",
+        "en": "Kendini bulmak çok önemlidir."
+      },
+      {
+        "zh": "他做了一次自我介绍。",
+        "pinyin": "Tā zuòle yí cì zìwǒ jièshào.",
+        "en": "Kendini tanıttı."
+      },
+      {
+        "zh": "她努力提升自我。",
+        "pinyin": "Tā nǔlì tíshēng zìwǒ.",
+        "en": "Kendini geliştirmeye çalışıyor."
+      },
+      {
+        "zh": "他缺乏自我认知。",
+        "pinyin": "Tā quēfá zìwǒ rènzhī.",
+        "en": "Kendini tanıma konusunda eksik."
+      }
+    ]
+  },
+  {
+    "id": "w7849",
+    "hanzi": "自习",
+    "pinyin": "zìxí",
+    "meaning": "kendi kendine ders çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "下午是自习时间。",
+        "pinyin": "Xiàwǔ shì zìxí shíjiān.",
+        "en": "Öğleden sonra kendi kendine çalışma saati."
+      },
+      {
+        "zh": "他在图书馆自习。",
+        "pinyin": "Tā zài túshūguǎn zìxí.",
+        "en": "Kütüphanede kendi kendine ders çalışıyor."
+      },
+      {
+        "zh": "学生们在教室里安静地自习。",
+        "pinyin": "Xuéshengmen zài jiàoshì lǐ ānjìng de zìxí.",
+        "en": "Öğrenciler sınıfta sessizce ders çalışıyor."
+      },
+      {
+        "zh": "自习课不能大声说话。",
+        "pinyin": "Zìxíkè bùnéng dàshēng shuōhuà.",
+        "en": "Kendi kendine çalışma dersinde yüksek sesle konuşulmaz."
+      },
+      {
+        "zh": "他每天晚上自习两个小时。",
+        "pinyin": "Tā měitiān wǎnshang zìxí liǎng gè xiǎoshí.",
+        "en": "Her akşam iki saat kendi kendine ders çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7850",
+    "hanzi": "自相残杀",
+    "pinyin": "zìxiāng-cánshā",
+    "meaning": "kendi arasında birbirini öldürmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "内战导致人民自相残杀。",
+        "pinyin": "Nèizhàn dǎozhì rénmín zìxiāng-cánshā.",
+        "en": "İç savaş halkın kendi arasında birbirini öldürmesine yol açtı."
+      },
+      {
+        "zh": "他们本是兄弟，却自相残杀。",
+        "pinyin": "Tāmen běn shì xiōngdì, què zìxiāng-cánshā.",
+        "en": "Aslında kardeşlerdi ama birbirlerini öldürdüler."
+      }
+    ]
+  },
+  {
+    "id": "w7851",
+    "hanzi": "自相矛盾",
+    "pinyin": "zìxiāng-máodùn",
+    "meaning": "kendiyle çelişmek",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他的说法自相矛盾。",
+        "pinyin": "Tā de shuōfǎ zìxiāng-máodùn.",
+        "en": "İfadesi kendiyle çelişiyor."
+      },
+      {
+        "zh": "这份报告存在自相矛盾之处。",
+        "pinyin": "Zhè fèn bàogào cúnzài zìxiāng-máodùn zhī chù.",
+        "en": "Bu raporda kendisiyle çelişen noktalar var."
+      }
+    ]
+  },
+  {
+    "id": "w7852",
+    "hanzi": "自新",
+    "pinyin": "zìxīn",
+    "meaning": "yeni bir hayata başlamak, kendini yenilemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他决心改过自新。",
+        "pinyin": "Tā juéxīn gǎiguò-zìxīn.",
+        "en": "Hatalarını düzeltip yeni bir hayata başlamaya kararlı."
+      },
+      {
+        "zh": "监狱鼓励罪犯自新。",
+        "pinyin": "Jiānyù gǔlì zuìfàn zìxīn.",
+        "en": "Hapishane mahkumları yeniden topluma kazandırmaya teşvik eder."
+      }
+    ]
+  },
+  {
+    "id": "w7853",
+    "hanzi": "自行",
+    "pinyin": "zìxíng",
+    "meaning": "kendiliğinden, kendi kendine",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zarflar",
+    "examples": [
+      {
+        "zh": "问题会自行解决的。",
+        "pinyin": "Wèntí huì zìxíng jiějué de.",
+        "en": "Sorun kendiliğinden çözülecek."
+      },
+      {
+        "zh": "他自行决定了这件事。",
+        "pinyin": "Tā zìxíng juédìngle zhè jiàn shì.",
+        "en": "Bu konuda kendi kararını verdi."
+      },
+      {
+        "zh": "机器可以自行运转。",
+        "pinyin": "Jīqì kěyǐ zìxíng yùnzhuǎn.",
+        "en": "Makine kendiliğinden çalışabiliyor."
+      },
+      {
+        "zh": "请自行处理这些事务。",
+        "pinyin": "Qǐng zìxíng chǔlǐ zhèxiē shìwù.",
+        "en": "Lütfen bu işleri kendiniz halledin."
+      },
+      {
+        "zh": "系统会自行更新。",
+        "pinyin": "Xìtǒng huì zìxíng gēngxīn.",
+        "en": "Sistem kendiliğinden güncellenecek."
+      }
+    ]
+  },
+  {
+    "id": "w7854",
+    "hanzi": "自修",
+    "pinyin": "zìxiū",
+    "meaning": "kendi kendine ders çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他自修了很多专业知识。",
+        "pinyin": "Tā zìxiūle hěn duō zhuānyè zhīshi.",
+        "en": "Kendi kendine birçok uzmanlık bilgisi öğrendi."
+      },
+      {
+        "zh": "她利用业余时间自修外语。",
+        "pinyin": "Tā lìyòng yèyú shíjiān zìxiū wàiyǔ.",
+        "en": "Boş zamanlarını kullanarak kendi kendine yabancı dil öğreniyor."
+      }
+    ]
   }
 ]

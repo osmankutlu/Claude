@@ -240304,5 +240304,773 @@
         "en": "Bilginin doğruluğunun ayırt edilmesi gerekiyor."
       }
     ]
+  },
+  {
+    "id": "w7267",
+    "hanzi": "针眼",
+    "pinyin": "zhēnyǎn",
+    "meaning": "iğne deliği",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "线穿不过针眼。",
+        "pinyin": "Xiàn chuān bu guò zhēnyǎn.",
+        "en": "İplik iğne deliğinden geçmiyor."
+      },
+      {
+        "zh": "她眯着眼睛找针眼。",
+        "pinyin": "Tā mīzhe yǎnjing zhǎo zhēnyǎn.",
+        "en": "Gözlerini kısarak iğne deliğini arıyordu."
+      },
+      {
+        "zh": "这根针的针眼太小了。",
+        "pinyin": "Zhè gēn zhēn de zhēnyǎn tài xiǎo le.",
+        "en": "Bu iğnenin deliği çok küçük."
+      },
+      {
+        "zh": "老人视力不好，穿针眼很费劲。",
+        "pinyin": "Lǎorén shìlì bù hǎo, chuān zhēnyǎn hěn fèijìn.",
+        "en": "Yaşlı adamın görüşü zayıf, ipliği iğne deliğinden geçirmek çok zor geliyor."
+      },
+      {
+        "zh": "她用放大镜看针眼。",
+        "pinyin": "Tā yòng fàngdàjìng kàn zhēnyǎn.",
+        "en": "İğne deliğine büyüteçle bakıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7268",
+    "hanzi": "诊脉",
+    "pinyin": "zhěnmài",
+    "meaning": "nabız tutmak (geleneksel Çin tıbbında)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "老中医给他诊脉。",
+        "pinyin": "Lǎo zhōngyī gěi tā zhěnmài.",
+        "en": "Yaşlı Çin tıbbı hekimi ona nabız tuttu."
+      },
+      {
+        "zh": "诊脉是中医诊断的重要方法。",
+        "pinyin": "Zhěnmài shì zhōngyī zhěnduàn de zhòngyào fāngfǎ.",
+        "en": "Nabız tutmak Çin tıbbında önemli bir teşhis yöntemidir."
+      }
+    ]
+  },
+  {
+    "id": "w7269",
+    "hanzi": "振振有词",
+    "pinyin": "zhènzhènyǒucí",
+    "meaning": "kendinden emin ve gerekçeli konuşmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他振振有词地为自己辩护。",
+        "pinyin": "Tā zhènzhènyǒucí de wèi zìjǐ biànhù.",
+        "en": "Kendini kendinden emin bir şekilde savundu."
+      },
+      {
+        "zh": "尽管做错了，他还是振振有词。",
+        "pinyin": "Jǐnguǎn zuòcuò le, tā háishi zhènzhènyǒucí.",
+        "en": "Yanlış yapmış olmasına rağmen, hâlâ kendinden emin konuşuyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7270",
+    "hanzi": "赈灾",
+    "pinyin": "zhènzāi",
+    "meaning": "afetzedelere yardım etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "政府组织了赈灾活动。",
+        "pinyin": "Zhèngfǔ zǔzhīle zhènzāi huódòng.",
+        "en": "Hükümet afet yardım kampanyası düzenledi."
+      },
+      {
+        "zh": "很多志愿者参加了赈灾工作。",
+        "pinyin": "Hěn duō zhìyuànzhě cānjiāle zhènzāi gōngzuò.",
+        "en": "Birçok gönüllü afet yardım çalışmasına katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7271",
+    "hanzi": "震",
+    "pinyin": "zhèn",
+    "meaning": "sarsmak, titremek; sarsıntı",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "一声巨响震得窗户直晃。",
+        "pinyin": "Yī shēng jùxiǎng zhèn de chuānghu zhí huàng.",
+        "en": "Büyük bir gürültü pencereleri sarstı."
+      },
+      {
+        "zh": "这个消息震惊了全世界。",
+        "pinyin": "Zhège xiāoxi zhènjīngle quán shìjiè.",
+        "en": "Bu haber tüm dünyayı sarstı."
+      },
+      {
+        "zh": "地震发生时大家都很害怕。",
+        "pinyin": "Dìzhèn fāshēng shí dàjiā dōu hěn hàipà.",
+        "en": "Deprem olduğunda herkes çok korktu."
+      },
+      {
+        "zh": "他被这个结果震住了。",
+        "pinyin": "Tā bèi zhège jiéguǒ zhènzhù le.",
+        "en": "Bu sonuç karşısında şaşkına döndü."
+      },
+      {
+        "zh": "爆炸声震耳欲聋。",
+        "pinyin": "Bàozhà shēng zhèn'ěr-yùlóng.",
+        "en": "Patlama sesi kulakları sağır edecek kadar yüksekti."
+      }
+    ]
+  },
+  {
+    "id": "w7272",
+    "hanzi": "镇",
+    "pinyin": "zhèn",
+    "meaning": "kasaba; bastırmak, sakinleştirmek",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他出生在一个小镇上。",
+        "pinyin": "Tā chūshēng zài yī gè xiǎo zhèn shàng.",
+        "en": "Küçük bir kasabada doğdu."
+      },
+      {
+        "zh": "这个镇上有一所小学。",
+        "pinyin": "Zhège zhèn shàng yǒu yī suǒ xiǎoxué.",
+        "en": "Bu kasabada bir ilkokul var."
+      },
+      {
+        "zh": "我们周末去附近的古镇玩。",
+        "pinyin": "Wǒmen zhōumò qù fùjìn de gǔ zhèn wán.",
+        "en": "Hafta sonu yakındaki eski kasabaya gezmeye gidiyoruz."
+      },
+      {
+        "zh": "医生给他吃了镇痛药。",
+        "pinyin": "Yīshēng gěi tā chīle zhèntòngyào.",
+        "en": "Doktor ona ağrı kesici verdi."
+      },
+      {
+        "zh": "他努力镇定下来。",
+        "pinyin": "Tā nǔlì zhèndìng xiàlái.",
+        "en": "Sakinleşmeye çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w7273",
+    "hanzi": "阵脚",
+    "pinyin": "zhènjiǎo",
+    "meaning": "ön cephe; durum, denge",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "遇到困难他也不乱阵脚。",
+        "pinyin": "Yùdào kùnnán tā yě bú luàn zhènjiǎo.",
+        "en": "Zorluklarla karşılaştığında bile paniğe kapılmıyor."
+      },
+      {
+        "zh": "对方的进攻让我们乱了阵脚。",
+        "pinyin": "Duìfāng de jìngōng ràng wǒmen luànle zhènjiǎo.",
+        "en": "Rakibin saldırısı dengemizi bozdu."
+      }
+    ]
+  },
+  {
+    "id": "w7274",
+    "hanzi": "阵势",
+    "pinyin": "zhènshì",
+    "meaning": "durum, vaziyet, düzen",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他没见过这种阵势，有点紧张。",
+        "pinyin": "Tā méi jiànguò zhè zhǒng zhènshì, yǒudiǎn jǐnzhāng.",
+        "en": "Böyle bir durumla hiç karşılaşmamıştı, biraz gergindi."
+      },
+      {
+        "zh": "现场的阵势非常壮观。",
+        "pinyin": "Xiànchǎng de zhènshì fēicháng zhuàngguān.",
+        "en": "Ortamdaki manzara oldukça etkileyiciydi."
+      }
+    ]
+  },
+  {
+    "id": "w7275",
+    "hanzi": "阵线",
+    "pinyin": "zhènxiàn",
+    "meaning": "cephe, birleşik cephe",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们结成了统一阵线。",
+        "pinyin": "Tāmen jiéchéngle tǒngyī zhènxiàn.",
+        "en": "Birleşik bir cephe oluşturdular."
+      },
+      {
+        "zh": "两国站在同一阵线上。",
+        "pinyin": "Liǎng guó zhàn zài tóngyī zhènxiàn shàng.",
+        "en": "İki ülke aynı cephede yer alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7276",
+    "hanzi": "争霸",
+    "pinyin": "zhēngbà",
+    "meaning": "hakimiyet için mücadele etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两个大国争霸多年。",
+        "pinyin": "Liǎng gè dàguó zhēngbà duō nián.",
+        "en": "İki büyük devlet yıllarca hakimiyet için mücadele etti."
+      },
+      {
+        "zh": "这两支球队正在争霸联赛冠军。",
+        "pinyin": "Zhè liǎng zhī qiúduì zhèngzài zhēngbà liánsài guànjūn.",
+        "en": "Bu iki takım lig şampiyonluğu için mücadele ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7277",
+    "hanzi": "争吵",
+    "pinyin": "zhēngchǎo",
+    "meaning": "tartışmak, kavga etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们又争吵起来了。",
+        "pinyin": "Tāmen yòu zhēngchǎo qǐlái le.",
+        "en": "Yine tartışmaya başladılar."
+      },
+      {
+        "zh": "我不喜欢和人争吵。",
+        "pinyin": "Wǒ bù xǐhuan hé rén zhēngchǎo.",
+        "en": "İnsanlarla tartışmayı sevmem."
+      },
+      {
+        "zh": "夫妻俩因为小事争吵。",
+        "pinyin": "Fūqī liǎ yīnwèi xiǎoshì zhēngchǎo.",
+        "en": "Karı koca küçük bir şey yüzünden tartıştı."
+      },
+      {
+        "zh": "邻居之间因为噪音争吵不休。",
+        "pinyin": "Línjū zhījiān yīnwèi zàoyīn zhēngchǎo bùxiū.",
+        "en": "Komşular gürültü yüzünden durmadan tartışıyor."
+      },
+      {
+        "zh": "别再争吵了，冷静一下。",
+        "pinyin": "Bié zài zhēngchǎo le, lěngjìng yíxià.",
+        "en": "Artık tartışmayı bırak, sakinleş biraz."
+      }
+    ]
+  },
+  {
+    "id": "w7278",
+    "hanzi": "争端",
+    "pinyin": "zhēngduān",
+    "meaning": "anlaşmazlık, çekişme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "双方通过谈判解决了争端。",
+        "pinyin": "Shuāngfāng tōngguò tánpàn jiějuéle zhēngduān.",
+        "en": "Taraflar müzakere yoluyla anlaşmazlığı çözdü."
+      },
+      {
+        "zh": "边界争端已持续多年。",
+        "pinyin": "Biānjiè zhēngduān yǐ chíxù duō nián.",
+        "en": "Sınır anlaşmazlığı yıllardır devam ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7279",
+    "hanzi": "争夺",
+    "pinyin": "zhēngduó",
+    "meaning": "kapmak için mücadele etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "选手们激烈地争夺冠军。",
+        "pinyin": "Xuǎnshǒumen jīliè de zhēngduó guànjūn.",
+        "en": "Sporcular şiddetle şampiyonluğu kapmak için mücadele ediyor."
+      },
+      {
+        "zh": "两家公司在争夺同一个客户。",
+        "pinyin": "Liǎng jiā gōngsī zài zhēngduó tóng yī gè kèhù.",
+        "en": "İki şirket aynı müşteriyi kapmak için yarışıyor."
+      },
+      {
+        "zh": "孩子们在争夺玩具。",
+        "pinyin": "Háizimen zài zhēngduó wánjù.",
+        "en": "Çocuklar oyuncağı kapmak için mücadele ediyor."
+      },
+      {
+        "zh": "他们为了土地互相争夺。",
+        "pinyin": "Tāmen wèile tǔdì hùxiāng zhēngduó.",
+        "en": "Toprak için birbirleriyle mücadele ediyorlar."
+      },
+      {
+        "zh": "这场比赛争夺得很激烈。",
+        "pinyin": "Zhè chǎng bǐsài zhēngduó de hěn jīliè.",
+        "en": "Bu maçtaki mücadele çok şiddetliydi."
+      }
+    ]
+  },
+  {
+    "id": "w7280",
+    "hanzi": "争光",
+    "pinyin": "zhēngguāng",
+    "meaning": "onur kazanmaya çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "运动员们为祖国争光。",
+        "pinyin": "Yùndòngyuánmen wèi zǔguó zhēngguāng.",
+        "en": "Sporcular vatanları için onur kazanmaya çalışıyor."
+      },
+      {
+        "zh": "他努力学习，为家人争光。",
+        "pinyin": "Tā nǔlì xuéxí, wèi jiārén zhēngguāng.",
+        "en": "Ailesine onur kazandırmak için çok çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7281",
+    "hanzi": "争鸣",
+    "pinyin": "zhēngmíng",
+    "meaning": "(akademik konularda) tartışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "学术界对此展开了百家争鸣。",
+        "pinyin": "Xuéshùjiè duì cǐ zhǎnkāile bǎijiā-zhēngmíng.",
+        "en": "Akademik çevrelerde bu konuda geniş bir tartışma başladı."
+      },
+      {
+        "zh": "不同观点在会上争鸣。",
+        "pinyin": "Bùtóng guāndiǎn zài huì shàng zhēngmíng.",
+        "en": "Toplantıda farklı görüşler tartışıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7282",
+    "hanzi": "争气",
+    "pinyin": "zhēngqì",
+    "meaning": "başarılı olup onur kazanmaya çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "孩子，你要争气啊！",
+        "pinyin": "Háizi, nǐ yào zhēngqì a!",
+        "en": "Evladım, başarılı olmalısın!"
+      },
+      {
+        "zh": "他终于争气考上了大学。",
+        "pinyin": "Tā zhōngyú zhēngqì kǎoshàngle dàxué.",
+        "en": "Sonunda başarılı olup üniversiteyi kazandı."
+      }
+    ]
+  },
+  {
+    "id": "w7283",
+    "hanzi": "争权夺利",
+    "pinyin": "zhēngquán-duólì",
+    "meaning": "iktidar ve çıkar için mücadele etmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他们为了争权夺利互相排挤。",
+        "pinyin": "Tāmen wèile zhēngquán-duólì hùxiāng páijǐ.",
+        "en": "İktidar ve çıkar için birbirlerini dışlıyorlar."
+      },
+      {
+        "zh": "公司内部争权夺利十分严重。",
+        "pinyin": "Gōngsī nèibù zhēngquán-duólì shífēn yánzhòng.",
+        "en": "Şirket içinde iktidar mücadelesi çok ciddi boyutlarda."
+      }
+    ]
+  },
+  {
+    "id": "w7284",
+    "hanzi": "争先",
+    "pinyin": "zhēngxiān",
+    "meaning": "önde olmaya çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "同学们争先举手回答问题。",
+        "pinyin": "Tóngxuémen zhēngxiān jǔshǒu huídá wèntí.",
+        "en": "Öğrenciler soruyu cevaplamak için birbirleriyle yarışarak el kaldırdı."
+      },
+      {
+        "zh": "大家争先恐后地报名参加。",
+        "pinyin": "Dàjiā zhēngxiān-kǒnghòu de bàomíng cānjiā.",
+        "en": "Herkes geride kalmamak için yarışarak kaydoldu."
+      },
+      {
+        "zh": "运动员们争先冲过终点线。",
+        "pinyin": "Yùndòngyuánmen zhēngxiān chōngguò zhōngdiǎnxiàn.",
+        "en": "Sporcular önde olmak için bitiş çizgisine koştu."
+      },
+      {
+        "zh": "员工们争先表现自己。",
+        "pinyin": "Yuángōngmen zhēngxiān biǎoxiàn zìjǐ.",
+        "en": "Çalışanlar öne çıkmak için kendilerini göstermeye çalışıyor."
+      },
+      {
+        "zh": "顾客们争先购买新产品。",
+        "pinyin": "Gùkèmen zhēngxiān gòumǎi xīn chǎnpǐn.",
+        "en": "Müşteriler yeni ürünü almak için birbirleriyle yarıştı."
+      }
+    ]
+  },
+  {
+    "id": "w7285",
+    "hanzi": "争议",
+    "pinyin": "zhēngyì",
+    "meaning": "tartışma, ihtilaf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个问题引起了很大争议。",
+        "pinyin": "Zhège wèntí yǐnqǐle hěn dà zhēngyì.",
+        "en": "Bu konu büyük bir tartışmaya yol açtı."
+      },
+      {
+        "zh": "他的决定颇有争议。",
+        "pinyin": "Tā de juédìng pōyǒu zhēngyì.",
+        "en": "Onun kararı oldukça tartışmalı."
+      },
+      {
+        "zh": "这场比赛的裁判判罚有争议。",
+        "pinyin": "Zhè chǎng bǐsài de cáipàn pànfá yǒu zhēngyì.",
+        "en": "Bu maçtaki hakem kararı tartışmalıydı."
+      },
+      {
+        "zh": "双方就合同条款产生了争议。",
+        "pinyin": "Shuāngfāng jiù hétong tiáokuǎn chǎnshēngle zhēngyì.",
+        "en": "Taraflar sözleşme maddeleri konusunda anlaşmazlığa düştü."
+      },
+      {
+        "zh": "这个话题一直存在争议。",
+        "pinyin": "Zhège huàtí yìzhí cúnzài zhēngyì.",
+        "en": "Bu konu hep tartışmalı olmuştur."
+      }
+    ]
+  },
+  {
+    "id": "w7286",
+    "hanzi": "争执",
+    "pinyin": "zhēngzhí",
+    "meaning": "anlaşmazlığa düşmek, çekişmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们为一点小事争执不下。",
+        "pinyin": "Tāmen wèi yìdiǎn xiǎoshì zhēngzhí bú xià.",
+        "en": "Küçük bir konu yüzünden anlaşmazlıklarını çözemiyorlar."
+      },
+      {
+        "zh": "双方争执了很久也没结果。",
+        "pinyin": "Shuāngfāng zhēngzhíle hěn jiǔ yě méi jiéguǒ.",
+        "en": "Taraflar uzun süre çekişti ama bir sonuca varamadı."
+      },
+      {
+        "zh": "他不想和邻居发生争执。",
+        "pinyin": "Tā bù xiǎng hé línjū fāshēng zhēngzhí.",
+        "en": "Komşusuyla anlaşmazlığa düşmek istemiyor."
+      },
+      {
+        "zh": "会议上大家争执得很厉害。",
+        "pinyin": "Huìyì shàng dàjiā zhēngzhí de hěn lìhai.",
+        "en": "Toplantıda herkes çok şiddetli tartıştı."
+      },
+      {
+        "zh": "他们因意见不合而争执。",
+        "pinyin": "Tāmen yīn yìjiàn bùhé ér zhēngzhí.",
+        "en": "Görüş ayrılığı yüzünden çekiştiler."
+      }
+    ]
+  },
+  {
+    "id": "w7287",
+    "hanzi": "症结",
+    "pinyin": "zhēngjié",
+    "meaning": "sorunun can alıcı noktası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他找到了问题的症结所在。",
+        "pinyin": "Tā zhǎodàole wèntí de zhēngjié suǒzài.",
+        "en": "Sorunun can alıcı noktasını buldu."
+      },
+      {
+        "zh": "这才是矛盾的症结。",
+        "pinyin": "Zhè cái shì máodùn de zhēngjié.",
+        "en": "İşte anlaşmazlığın asıl kaynağı bu."
+      }
+    ]
+  },
+  {
+    "id": "w7288",
+    "hanzi": "征兵",
+    "pinyin": "zhēngbīng",
+    "meaning": "askere almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府开始征兵。",
+        "pinyin": "Zhèngfǔ kāishǐ zhēngbīng.",
+        "en": "Hükümet asker toplamaya başladı."
+      },
+      {
+        "zh": "他响应征兵参了军。",
+        "pinyin": "Tā xiǎngyìng zhēngbīng cānle jūn.",
+        "en": "Askere alma çağrısına yanıt verip orduya katıldı."
+      },
+      {
+        "zh": "战时各国都要征兵。",
+        "pinyin": "Zhànshí gèguó dōu yào zhēngbīng.",
+        "en": "Savaş zamanında tüm ülkeler asker toplar."
+      },
+      {
+        "zh": "征兵年龄是十八岁。",
+        "pinyin": "Zhēngbīng niánlíng shì shíbā suì.",
+        "en": "Askere alma yaşı on sekizdir."
+      },
+      {
+        "zh": "村里贴出了征兵通知。",
+        "pinyin": "Cūn lǐ tiēchūle zhēngbīng tōngzhī.",
+        "en": "Köyde askere alma duyurusu asıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7289",
+    "hanzi": "征调",
+    "pinyin": "zhēngdiào",
+    "meaning": "resmi olarak talep etmek, görevlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府征调了大量物资。",
+        "pinyin": "Zhèngfǔ zhēngdiàole dàliàng wùzī.",
+        "en": "Hükümet büyük miktarda malzeme talep etti."
+      },
+      {
+        "zh": "他被征调去支援灾区。",
+        "pinyin": "Tā bèi zhēngdiào qù zhīyuán zāiqū.",
+        "en": "Afet bölgesine yardıma gitmek üzere görevlendirildi."
+      }
+    ]
+  },
+  {
+    "id": "w7290",
+    "hanzi": "征服",
+    "pinyin": "zhēngfú",
+    "meaning": "fethetmek, boyun eğdirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他征服了这座高山。",
+        "pinyin": "Tā zhēngfúle zhè zuò gāoshān.",
+        "en": "Bu yüksek dağı fethetti."
+      },
+      {
+        "zh": "她的歌声征服了全场观众。",
+        "pinyin": "Tā de gēshēng zhēngfúle quánchǎng guānzhòng.",
+        "en": "Şarkı sesi tüm izleyicileri büyüledi."
+      },
+      {
+        "zh": "古代帝王梦想征服世界。",
+        "pinyin": "Gǔdài dìwáng mèngxiǎng zhēngfú shìjiè.",
+        "en": "Eski çağ hükümdarları dünyayı fethetmeyi hayal ederdi."
+      },
+      {
+        "zh": "他用真诚征服了大家的心。",
+        "pinyin": "Tā yòng zhēnchéng zhēngfúle dàjiā de xīn.",
+        "en": "Samimiyetiyle herkesin kalbini fethetti."
+      },
+      {
+        "zh": "人类不断尝试征服自然。",
+        "pinyin": "Rénlèi bùduàn chángshì zhēngfú zìrán.",
+        "en": "İnsanlık doğayı fethetmeye sürekli çalışır."
+      }
+    ]
+  },
+  {
+    "id": "w7291",
+    "hanzi": "征候",
+    "pinyin": "zhēnghòu",
+    "meaning": "belirti, işaret",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是危机的征候。",
+        "pinyin": "Zhè shì wēijī de zhēnghòu.",
+        "en": "Bu bir krizin belirtisidir."
+      },
+      {
+        "zh": "医生注意到了一些异常征候。",
+        "pinyin": "Yīshēng zhùyìdàole yìxiē yìcháng zhēnghòu.",
+        "en": "Doktor bazı anormal belirtiler fark etti."
+      }
+    ]
+  },
+  {
+    "id": "w7292",
+    "hanzi": "征集",
+    "pinyin": "zhēngjí",
+    "meaning": "toplamak (öneri, eser vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "报社正在征集读者来信。",
+        "pinyin": "Bàoshè zhèngzài zhēngjí dúzhě láixìn.",
+        "en": "Gazete okuyucu mektupları topluyor."
+      },
+      {
+        "zh": "公司征集了很多创意方案。",
+        "pinyin": "Gōngsī zhēngjíle hěn duō chuàngyì fāng'àn.",
+        "en": "Şirket birçok yaratıcı öneri topladı."
+      },
+      {
+        "zh": "学校向学生征集意见。",
+        "pinyin": "Xuéxiào xiàng xuésheng zhēngjí yìjiàn.",
+        "en": "Okul öğrencilerden görüş topluyor."
+      },
+      {
+        "zh": "组委会向社会征集志愿者。",
+        "pinyin": "Zǔwěihuì xiàng shèhuì zhēngjí zhìyuànzhě.",
+        "en": "Organizasyon komitesi toplumdan gönüllü topluyor."
+      },
+      {
+        "zh": "他们征集了大量照片作为展览素材。",
+        "pinyin": "Tāmen zhēngjíle dàliàng zhàopiàn zuòwéi zhǎnlǎn sùcái.",
+        "en": "Sergi için büyük miktarda fotoğraf topladılar."
+      }
+    ]
+  },
+  {
+    "id": "w7293",
+    "hanzi": "征聘",
+    "pinyin": "zhēngpìn",
+    "meaning": "iş ilanı vererek eleman aramak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司正在征聘新员工。",
+        "pinyin": "Gōngsī zhèngzài zhēngpìn xīn yuángōng.",
+        "en": "Şirket yeni çalışan arıyor."
+      },
+      {
+        "zh": "报纸上刊登了征聘广告。",
+        "pinyin": "Bàozhǐ shàng kāndēngle zhēngpìn guǎnggào.",
+        "en": "Gazetede iş ilanı yayınlandı."
+      }
+    ]
+  },
+  {
+    "id": "w7294",
+    "hanzi": "征收",
+    "pinyin": "zhēngshōu",
+    "meaning": "(vergi vb.) toplamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府向企业征收税款。",
+        "pinyin": "Zhèngfǔ xiàng qǐyè zhēngshōu shuìkuǎn.",
+        "en": "Hükümet işletmelerden vergi topluyor."
+      },
+      {
+        "zh": "这笔费用将被征收。",
+        "pinyin": "Zhè bǐ fèiyòng jiāng bèi zhēngshōu.",
+        "en": "Bu ücret tahsil edilecek."
+      },
+      {
+        "zh": "征收标准每年都会调整。",
+        "pinyin": "Zhēngshōu biāozhǔn měi nián dōu huì tiáozhěng.",
+        "en": "Vergilendirme standardı her yıl güncellenir."
+      },
+      {
+        "zh": "土地被政府征收用于建设。",
+        "pinyin": "Tǔdì bèi zhèngfǔ zhēngshōu yòngyú jiànshè.",
+        "en": "Arazi inşaat için hükümet tarafından kamulaştırıldı."
+      },
+      {
+        "zh": "新政策规定了征收比例。",
+        "pinyin": "Xīn zhèngcè guīdìngle zhēngshōu bǐlì.",
+        "en": "Yeni politika vergi oranını belirledi."
+      }
+    ]
   }
 ]

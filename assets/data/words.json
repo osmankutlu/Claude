@@ -255013,5 +255013,803 @@
         "en": "Ne düşündüğünü tahmin etmek çok zor."
       }
     ]
+  },
+  {
+    "id": "w7771",
+    "hanzi": "捉襟见肘",
+    "pinyin": "zhuōjīn-jiànzhǒu",
+    "meaning": "para sıkıntısı çekmek, zorluklarla uğraşmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "公司资金捉襟见肘。",
+        "pinyin": "Gōngsī zījīn zhuōjīn-jiànzhǒu.",
+        "en": "Şirket ciddi para sıkıntısı çekiyor."
+      },
+      {
+        "zh": "生活捉襟见肘，日子很艰难。",
+        "pinyin": "Shēnghuó zhuōjīn-jiànzhǒu, rìzi hěn jiānnán.",
+        "en": "Hayat çok sıkıntılı, günler zor geçiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7772",
+    "hanzi": "捉迷藏",
+    "pinyin": "zhuōmícáng",
+    "meaning": "saklambaç",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Oyun",
+    "examples": [
+      {
+        "zh": "孩子们在院子里玩捉迷藏。",
+        "pinyin": "Háizimen zài yuànzi lǐ wán zhuōmícáng.",
+        "en": "Çocuklar bahçede saklambaç oynuyor."
+      },
+      {
+        "zh": "他躲在衣柜里玩捉迷藏。",
+        "pinyin": "Tā duǒ zài yīguì lǐ wán zhuōmícáng.",
+        "en": "Saklambaç oynarken dolaba saklandı."
+      },
+      {
+        "zh": "我们小时候经常玩捉迷藏。",
+        "pinyin": "Wǒmen xiǎo shíhou jīngcháng wán zhuōmícáng.",
+        "en": "Küçükken sık sık saklambaç oynardık."
+      },
+      {
+        "zh": "他总是第一个被找到，因为不会玩捉迷藏。",
+        "pinyin": "Tā zǒngshì dì-yī gè bèi zhǎodào, yīnwèi bú huì wán zhuōmícáng.",
+        "en": "Saklambaç oynamayı bilmediği için hep ilk o bulunuyor."
+      },
+      {
+        "zh": "别跟我捉迷藏，有话直说。",
+        "pinyin": "Bié gēn wǒ zhuōmícáng, yǒu huà zhí shuō.",
+        "en": "Benimle saklambaç oynama, ne diyeceksen açıkça söyle."
+      }
+    ]
+  },
+  {
+    "id": "w7773",
+    "hanzi": "捉摸",
+    "pinyin": "zhuōmō",
+    "meaning": "tahmin etmek, kestirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的想法很难捉摸。",
+        "pinyin": "Tā de xiǎngfǎ hěn nán zhuōmō.",
+        "en": "Ne düşündüğünü tahmin etmek çok zor."
+      },
+      {
+        "zh": "这件事的结果不好捉摸。",
+        "pinyin": "Zhè jiàn shì de jiéguǒ bù hǎo zhuōmō.",
+        "en": "Bu işin sonucunu kestirmek kolay değil."
+      }
+    ]
+  },
+  {
+    "id": "w7774",
+    "hanzi": "捉拿",
+    "pinyin": "zhuōná",
+    "meaning": "tutuklamak, yakalamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "警方正在捉拿逃犯。",
+        "pinyin": "Jǐngfāng zhèngzài zhuōná táofàn.",
+        "en": "Polis kaçak suçluyu yakalamaya çalışıyor."
+      },
+      {
+        "zh": "他最终被捉拿归案。",
+        "pinyin": "Tā zuìzhōng bèi zhuōná guī'àn.",
+        "en": "Sonunda yakalanıp adalete teslim edildi."
+      }
+    ]
+  },
+  {
+    "id": "w7775",
+    "hanzi": "捉弄",
+    "pinyin": "zhuōnòng",
+    "meaning": "takılmak, şaka yapmak, kandırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他喜欢捉弄同学。",
+        "pinyin": "Tā xǐhuan zhuōnòng tóngxué.",
+        "en": "Sınıf arkadaşlarına takılmayı sever."
+      },
+      {
+        "zh": "别捉弄小孩子。",
+        "pinyin": "Bié zhuōnòng xiǎo háizi.",
+        "en": "Küçük çocuklarla dalga geçme."
+      },
+      {
+        "zh": "他被朋友捉弄了一下。",
+        "pinyin": "Tā bèi péngyou zhuōnòngle yíxià.",
+        "en": "Arkadaşı ona biraz şaka yaptı."
+      },
+      {
+        "zh": "命运似乎在捉弄他。",
+        "pinyin": "Mìngyùn sìhū zài zhuōnòng tā.",
+        "en": "Kader onunla oynuyormuş gibi görünüyor."
+      },
+      {
+        "zh": "她生气是因为被别人捉弄了。",
+        "pinyin": "Tā shēngqì shì yīnwèi bèi biérén zhuōnòng le.",
+        "en": "Başkaları tarafından kandırıldığı için sinirlendi."
+      }
+    ]
+  },
+  {
+    "id": "w7776",
+    "hanzi": "桌",
+    "pinyin": "zhuō",
+    "meaning": "masa",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "书放在桌上。",
+        "pinyin": "Shū fàng zài zhuō shàng.",
+        "en": "Kitap masanın üzerinde duruyor."
+      },
+      {
+        "zh": "他们摆了三桌菜。",
+        "pinyin": "Tāmen bǎile sān zhuō cài.",
+        "en": "Üç masa yemek hazırladılar."
+      },
+      {
+        "zh": "这张桌子是木头做的。",
+        "pinyin": "Zhè zhāng zhuōzi shì mùtou zuò de.",
+        "en": "Bu masa ahşaptan yapılmış."
+      },
+      {
+        "zh": "他坐在办公桌前工作。",
+        "pinyin": "Tā zuò zài bàngōngzhuō qián gōngzuò.",
+        "en": "Çalışma masasının önünde oturup çalışıyor."
+      },
+      {
+        "zh": "请把杯子放到桌子上。",
+        "pinyin": "Qǐng bǎ bēizi fàngdào zhuōzi shàng.",
+        "en": "Lütfen bardağı masaya koy."
+      }
+    ]
+  },
+  {
+    "id": "w7777",
+    "hanzi": "拙劣",
+    "pinyin": "zhuōliè",
+    "meaning": "beceriksiz, vasıfsız",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的演技很拙劣。",
+        "pinyin": "Tā de yǎnjì hěn zhuōliè.",
+        "en": "Oyunculuğu çok beceriksizce."
+      },
+      {
+        "zh": "这是一个拙劣的借口。",
+        "pinyin": "Zhè shì yí gè zhuōliè de jièkǒu.",
+        "en": "Bu çok kötü bir bahane."
+      }
+    ]
+  },
+  {
+    "id": "w7778",
+    "hanzi": "浊",
+    "pinyin": "zhuó",
+    "meaning": "bulanık, kirli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "河水变浊了。",
+        "pinyin": "Héshuǐ biàn zhuó le.",
+        "en": "Nehir suyu bulanıklaştı."
+      },
+      {
+        "zh": "他的嗓音低沉浑浊。",
+        "pinyin": "Tā de sǎngyīn dīchén húnzhuó.",
+        "en": "Sesi derinden ve kalın çıkıyor."
+      },
+      {
+        "zh": "空气浑浊，呼吸困难。",
+        "pinyin": "Kōngqì húnzhuó, hūxī kùnnán.",
+        "en": "Hava kirli, nefes almak zor."
+      },
+      {
+        "zh": "这杯水看起来很浊。",
+        "pinyin": "Zhè bēi shuǐ kànqǐlái hěn zhuó.",
+        "en": "Bu bardaktaki su bulanık görünüyor."
+      },
+      {
+        "zh": "湖水浊了，可能是下雨造成的。",
+        "pinyin": "Húshuǐ zhuó le, kěnéng shì xiàyǔ zàochéng de.",
+        "en": "Göl suyu bulanık, muhtemelen yağmurdan dolayı."
+      }
+    ]
+  },
+  {
+    "id": "w7779",
+    "hanzi": "浊音",
+    "pinyin": "zhuóyīn",
+    "meaning": "tonlu ses (dilbilgisinde)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "英语中b是浊音。",
+        "pinyin": "Yīngyǔ zhōng b shì zhuóyīn.",
+        "en": "İngilizcede \"b\" sesli bir ünsüzdür."
+      },
+      {
+        "zh": "浊音发音时声带会振动。",
+        "pinyin": "Zhuóyīn fāyīn shí shēngdài huì zhèndòng.",
+        "en": "Sesli sesler söylenirken ses telleri titreşir."
+      }
+    ]
+  },
+  {
+    "id": "w7780",
+    "hanzi": "卓",
+    "pinyin": "zhuó",
+    "meaning": "dikkate değer, göze çarpan",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的贡献卓著。",
+        "pinyin": "Tā de gòngxiàn zhuózhù.",
+        "en": "Katkıları göze çarpan derecede önemli."
+      },
+      {
+        "zh": "他见解卓异。",
+        "pinyin": "Tā jiànjiě zhuóyì.",
+        "en": "Görüşleri dikkate değer ölçüde farklı."
+      }
+    ]
+  },
+  {
+    "id": "w7781",
+    "hanzi": "卓绝",
+    "pinyin": "zhuójué",
+    "meaning": "eşsiz, olağanüstü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他们经历了艰苦卓绝的斗争。",
+        "pinyin": "Tāmen jīnglìle jiānkǔ-zhuójué de dòuzhēng.",
+        "en": "Olağanüstü zorlu bir mücadele geçirdiler."
+      },
+      {
+        "zh": "他的意志力卓绝超群。",
+        "pinyin": "Tā de yìzhìlì zhuójué chāoqún.",
+        "en": "İrade gücü eşsiz derecede üstün."
+      }
+    ]
+  },
+  {
+    "id": "w7782",
+    "hanzi": "卓识",
+    "pinyin": "zhuóshí",
+    "meaning": "engin görüş, üstün basiret",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他以卓识远见著称。",
+        "pinyin": "Tā yǐ zhuóshí yuǎnjiàn zhùchēng.",
+        "en": "Üstün basiret ve öngörüsüyle tanınır."
+      },
+      {
+        "zh": "他的卓识令人钦佩。",
+        "pinyin": "Tā de zhuóshí lìngrén qīnpèi.",
+        "en": "Engin görüşü hayranlık uyandırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7783",
+    "hanzi": "卓有成效",
+    "pinyin": "zhuóyǒu-chéngxiào",
+    "meaning": "verimli, çok başarılı sonuç veren",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他们的合作卓有成效。",
+        "pinyin": "Tāmen de hézuò zhuóyǒu-chéngxiào.",
+        "en": "İş birlikleri çok verimli sonuçlar verdi."
+      },
+      {
+        "zh": "这项改革卓有成效。",
+        "pinyin": "Zhè xiàng gǎigé zhuóyǒu-chéngxiào.",
+        "en": "Bu reform çok başarılı sonuçlar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w7784",
+    "hanzi": "卓越",
+    "pinyin": "zhuóyuè",
+    "meaning": "olağanüstü, üstün",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他取得了卓越的成就。",
+        "pinyin": "Tā qǔdéle zhuóyuè de chéngjiù.",
+        "en": "Olağanüstü bir başarı elde etti."
+      },
+      {
+        "zh": "她是一位卓越的科学家。",
+        "pinyin": "Tā shì yí wèi zhuóyuè de kēxuéjiā.",
+        "en": "O, üstün bir bilim insanı."
+      },
+      {
+        "zh": "他的领导才能十分卓越。",
+        "pinyin": "Tā de lǐngdǎo cáinéng shífēn zhuóyuè.",
+        "en": "Liderlik yeteneği son derece üstün."
+      },
+      {
+        "zh": "这项技术非常卓越，处于世界前列。",
+        "pinyin": "Zhè xiàng jìshù fēicháng zhuóyuè, chǔyú shìjiè qiánliè.",
+        "en": "Bu teknoloji son derece üstün, dünyada öncü konumda."
+      },
+      {
+        "zh": "他为公司做出了卓越的贡献。",
+        "pinyin": "Tā wèi gōngsī zuòchūle zhuóyuè de gòngxiàn.",
+        "en": "Şirkete olağanüstü katkılar sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w7785",
+    "hanzi": "着陆",
+    "pinyin": "zhuólù",
+    "meaning": "iniş yapmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "飞机安全着陆了。",
+        "pinyin": "Fēijī ānquán zhuólù le.",
+        "en": "Uçak güvenli bir şekilde indi."
+      },
+      {
+        "zh": "由于大雾，航班延迟着陆。",
+        "pinyin": "Yóuyú dà wù, hángbān yánchí zhuólù.",
+        "en": "Yoğun sis yüzünden uçuşun inişi gecikti."
+      },
+      {
+        "zh": "宇宙飞船顺利着陆月球。",
+        "pinyin": "Yǔzhòu fēichuán shùnlì zhuólù yuèqiú.",
+        "en": "Uzay gemisi Ay'a başarıyla indi."
+      },
+      {
+        "zh": "飞机在跑道上缓缓着陆。",
+        "pinyin": "Fēijī zài pǎodào shàng huǎnhuǎn zhuólù.",
+        "en": "Uçak piste yavaşça indi."
+      },
+      {
+        "zh": "这架直升机在屋顶着陆。",
+        "pinyin": "Zhè jià zhíshēngjī zài wūdǐng zhuólù.",
+        "en": "Bu helikopter çatıya indi."
+      }
+    ]
+  },
+  {
+    "id": "w7786",
+    "hanzi": "着落",
+    "pinyin": "zhuóluò",
+    "meaning": "kesin sonuç, netleşme; kaynağı belli olma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这件事还没有着落。",
+        "pinyin": "Zhè jiàn shì hái méiyǒu zhuóluò.",
+        "en": "Bu konu henüz netleşmedi."
+      },
+      {
+        "zh": "他丢失的钱包终于有了着落。",
+        "pinyin": "Tā diūshī de qiánbāo zhōngyú yǒule zhuóluò.",
+        "en": "Kaybettiği cüzdan sonunda bulundu."
+      },
+      {
+        "zh": "资金还没有着落。",
+        "pinyin": "Zījīn hái méiyǒu zhuóluò.",
+        "en": "Fon kaynağı henüz netleşmedi."
+      },
+      {
+        "zh": "这个问题终于有了着落。",
+        "pinyin": "Zhège wèntí zhōngyú yǒule zhuóluò.",
+        "en": "Bu sorun sonunda çözüme kavuştu."
+      },
+      {
+        "zh": "工作还没有着落，他很着急。",
+        "pinyin": "Gōngzuò hái méiyǒu zhuóluò, tā hěn zhāojí.",
+        "en": "İş henüz netleşmedi, çok endişeli."
+      }
+    ]
+  },
+  {
+    "id": "w7787",
+    "hanzi": "着重",
+    "pinyin": "zhuózhòng",
+    "meaning": "vurgulamak, önem vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这份报告着重分析了市场趋势。",
+        "pinyin": "Zhè fèn bàogào zhuózhòng fēnxīle shìchǎng qūshì.",
+        "en": "Bu rapor pazar eğilimlerini vurgulayarak analiz etti."
+      },
+      {
+        "zh": "老师着重讲解了这个语法点。",
+        "pinyin": "Lǎoshī zhuózhòng jiǎngjiěle zhège yǔfǎ diǎn.",
+        "en": "Öğretmen bu dilbilgisi noktasını vurgulayarak açıkladı."
+      },
+      {
+        "zh": "我们应该着重培养创新能力。",
+        "pinyin": "Wǒmen yīnggāi zhuózhòng péiyǎng chuàngxīn nénglì.",
+        "en": "Yenilikçi yetenekleri geliştirmeye özellikle önem vermeliyiz."
+      },
+      {
+        "zh": "他讲话着重强调了安全问题。",
+        "pinyin": "Tā jiǎnghuà zhuózhòng qiángdiàole ānquán wèntí.",
+        "en": "Konuşmasında güvenlik konusunu özellikle vurguladı."
+      },
+      {
+        "zh": "计划着重解决就业问题。",
+        "pinyin": "Jìhuà zhuózhòng jiějué jiùyè wèntí.",
+        "en": "Plan istihdam sorununu çözmeye özellikle odaklanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7788",
+    "hanzi": "咨文",
+    "pinyin": "zīwén",
+    "meaning": "resmi bildirim, mesaj (devletler arası)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "总统发表了国情咨文。",
+        "pinyin": "Zǒngtǒng fābiǎole guóqíng zīwén.",
+        "en": "Cumhurbaşkanı ulusa sesleniş konuşmasını yaptı."
+      },
+      {
+        "zh": "这份咨文阐述了未来的政策方向。",
+        "pinyin": "Zhè fèn zīwén chǎnshùle wèilái de zhèngcè fāngxiàng.",
+        "en": "Bu bildirim gelecekteki politika yönünü açıkladı."
+      }
+    ]
+  },
+  {
+    "id": "w7789",
+    "hanzi": "资",
+    "pinyin": "zī",
+    "meaning": "sermaye, kaynak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "这家公司投资了新项目。",
+        "pinyin": "Zhè jiā gōngsī tóuzīle xīn xiàngmù.",
+        "en": "Bu şirket yeni bir projeye yatırım yaptı."
+      },
+      {
+        "zh": "他资助了这次研究。",
+        "pinyin": "Tā zīzhùle zhè cì yánjiū.",
+        "en": "Bu araştırmayı finanse etti."
+      },
+      {
+        "zh": "公司急需资金周转。",
+        "pinyin": "Gōngsī jíxū zījīn zhōuzhuǎn.",
+        "en": "Şirketin acil olarak sermaye devrine ihtiyacı var."
+      },
+      {
+        "zh": "他有多年从业资历。",
+        "pinyin": "Tā yǒu duō nián cóngyè zīlì.",
+        "en": "Yıllara dayanan mesleki kıdemi var."
+      },
+      {
+        "zh": "这项工程耗资巨大。",
+        "pinyin": "Zhè xiàng gōngchéng hàozī jùdà.",
+        "en": "Bu proje çok büyük maliyetler gerektirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7790",
+    "hanzi": "资本",
+    "pinyin": "zīběn",
+    "meaning": "sermaye",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "他投入了大量资本。",
+        "pinyin": "Tā tóurùle dàliàng zīběn.",
+        "en": "Büyük miktarda sermaye yatırdı."
+      },
+      {
+        "zh": "公司缺乏足够的资本。",
+        "pinyin": "Gōngsī quēfá zúgòu de zīběn.",
+        "en": "Şirketin yeterli sermayesi yok."
+      },
+      {
+        "zh": "健康是最大的资本。",
+        "pinyin": "Jiànkāng shì zuìdà de zīběn.",
+        "en": "Sağlık en büyük sermayedir."
+      },
+      {
+        "zh": "外国资本大量涌入。",
+        "pinyin": "Wàiguó zīběn dàliàng yǒngrù.",
+        "en": "Yabancı sermaye büyük miktarda akın etti."
+      },
+      {
+        "zh": "他靠这笔资本创办了公司。",
+        "pinyin": "Tā kào zhè bǐ zīběn chuàngbànle gōngsī.",
+        "en": "Bu sermayeyle şirket kurdu."
+      }
+    ]
+  },
+  {
+    "id": "w7791",
+    "hanzi": "资产",
+    "pinyin": "zīchǎn",
+    "meaning": "mal, mülk, varlık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "他名下有不少资产。",
+        "pinyin": "Tā míngxià yǒu bù shǎo zīchǎn.",
+        "en": "Adına kayıtlı epey varlık var."
+      },
+      {
+        "zh": "公司的资产总额有所增加。",
+        "pinyin": "Gōngsī de zīchǎn zǒng'é yǒusuǒ zēngjiā.",
+        "en": "Şirketin toplam varlığı biraz arttı."
+      },
+      {
+        "zh": "他把资产分给了子女。",
+        "pinyin": "Tā bǎ zīchǎn fēn gěile zǐnǚ.",
+        "en": "Varlığını çocuklarına paylaştırdı."
+      },
+      {
+        "zh": "员工是公司最宝贵的资产。",
+        "pinyin": "Yuángōng shì gōngsī zuì bǎoguì de zīchǎn.",
+        "en": "Çalışanlar şirketin en değerli varlığıdır."
+      },
+      {
+        "zh": "这笔资产已经被冻结。",
+        "pinyin": "Zhè bǐ zīchǎn yǐjīng bèi dòngjié.",
+        "en": "Bu varlık dondurulmuş durumda."
+      }
+    ]
+  },
+  {
+    "id": "w7792",
+    "hanzi": "资产阶级",
+    "pinyin": "zīchǎn jiējí",
+    "meaning": "burjuvazi, kapitalist sınıf",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "工业革命促进了资产阶级的形成。",
+        "pinyin": "Gōngyè gémìng cùjìnle zīchǎn jiējí de xíngchéng.",
+        "en": "Sanayi devrimi burjuvazinin oluşumunu hızlandırdı."
+      },
+      {
+        "zh": "这本书分析了资产阶级社会的特征。",
+        "pinyin": "Zhè běn shū fēnxīle zīchǎn jiējí shèhuì de tèzhēng.",
+        "en": "Bu kitap burjuva toplumunun özelliklerini analiz ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7793",
+    "hanzi": "资历",
+    "pinyin": "zīlì",
+    "meaning": "kıdem, tecrübe, ehliyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他有丰富的工作资历。",
+        "pinyin": "Tā yǒu fēngfù de gōngzuò zīlì.",
+        "en": "Zengin bir iş tecrübesine sahip."
+      },
+      {
+        "zh": "晋升需要一定的资历。",
+        "pinyin": "Jìnshēng xūyào yídìng de zīlì.",
+        "en": "Terfi belirli bir kıdem gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w7794",
+    "hanzi": "资助",
+    "pinyin": "zīzhù",
+    "meaning": "maddi yardım etmek, finanse etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "公司资助了这项研究。",
+        "pinyin": "Gōngsī zīzhùle zhè xiàng yánjiū.",
+        "en": "Şirket bu araştırmayı finanse etti."
+      },
+      {
+        "zh": "他资助了贫困学生的学费。",
+        "pinyin": "Tā zīzhùle pínkùn xuésheng de xuéfèi.",
+        "en": "Yoksul öğrencinin okul ücretine maddi destek verdi."
+      },
+      {
+        "zh": "政府资助了这个环保项目。",
+        "pinyin": "Zhèngfǔ zīzhùle zhège huánbǎo xiàngmù.",
+        "en": "Hükümet bu çevre projesini finanse etti."
+      },
+      {
+        "zh": "许多企业资助了这次比赛。",
+        "pinyin": "Xǔduō qǐyè zīzhùle zhè cì bǐsài.",
+        "en": "Birçok şirket bu yarışmayı sponsorluk yaptı."
+      },
+      {
+        "zh": "基金会资助了很多慈善机构。",
+        "pinyin": "Jījīnhuì zīzhùle hěn duō císhàn jīgòu.",
+        "en": "Vakıf birçok hayır kurumuna maddi destek sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w7795",
+    "hanzi": "姿",
+    "pinyin": "zī",
+    "meaning": "duruş, görünüm",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "她舞姿优美。",
+        "pinyin": "Tā wǔzī yōuměi.",
+        "en": "Dans duruşu zarif."
+      },
+      {
+        "zh": "他的英姿令人赞叹。",
+        "pinyin": "Tā de yīngzī lìngrén zàntàn.",
+        "en": "Yakışıklı duruşu takdir uyandırıyor."
+      },
+      {
+        "zh": "她保持着优雅的坐姿。",
+        "pinyin": "Tā bǎochízhe yōuyǎ de zuòzī.",
+        "en": "Zarif bir oturuş duruşu koruyor."
+      },
+      {
+        "zh": "运动员展示出矫健的身姿。",
+        "pinyin": "Yùndòngyuán zhǎnshì chū jiǎojiàn de shēnzī.",
+        "en": "Sporcu çevik bir vücut duruşu sergiledi."
+      },
+      {
+        "zh": "他以英雄姿态出现在人们面前。",
+        "pinyin": "Tā yǐ yīngxióng zītài chūxiàn zài rénmen miànqián.",
+        "en": "İnsanların önünde kahramanca bir duruşla belirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7796",
+    "hanzi": "姿态",
+    "pinyin": "zītài",
+    "meaning": "duruş, tavır",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他以谦虚的姿态回应了批评。",
+        "pinyin": "Tā yǐ qiānxū de zītài huíyìngle pīpíng.",
+        "en": "Alçakgönüllü bir tavırla eleştiriye yanıt verdi."
+      },
+      {
+        "zh": "她展示了优雅的姿态。",
+        "pinyin": "Tā zhǎnshìle yōuyǎ de zītài.",
+        "en": "Zarif bir duruş sergiledi."
+      },
+      {
+        "zh": "他放低姿态，主动道歉。",
+        "pinyin": "Tā fàngdī zītài, zhǔdòng dàoqiàn.",
+        "en": "Tavrını yumuşatarak kendiliğinden özür diledi."
+      },
+      {
+        "zh": "领导应该以什么样的姿态对待员工？",
+        "pinyin": "Lǐngdǎo yīnggāi yǐ shénmeyàng de zītài duìdài yuángōng?",
+        "en": "Yönetici çalışanlarına nasıl bir tavırla davranmalı?"
+      },
+      {
+        "zh": "他以强硬姿态拒绝了要求。",
+        "pinyin": "Tā yǐ qiángyìng zītài jùjuéle yāoqiú.",
+        "en": "Sert bir tavırla talebi reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w7797",
+    "hanzi": "滋补",
+    "pinyin": "zībǔ",
+    "meaning": "beslemek, güç vermek (besin ile)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这道汤很滋补。",
+        "pinyin": "Zhè dào tāng hěn zībǔ.",
+        "en": "Bu çorba çok besleyici."
+      },
+      {
+        "zh": "冬天要多吃滋补的食物。",
+        "pinyin": "Dōngtiān yào duō chī zībǔ de shíwù.",
+        "en": "Kışın besleyici gıdalar tüketilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7798",
+    "hanzi": "滋润",
+    "pinyin": "zīrùn",
+    "meaning": "nemlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这款面霜能滋润皮肤。",
+        "pinyin": "Zhè kuǎn miànshuāng néng zīrùn pífū.",
+        "en": "Bu yüz kremi cildi nemlendirebilir."
+      },
+      {
+        "zh": "春雨滋润了大地。",
+        "pinyin": "Chūnyǔ zīrùnle dàdì.",
+        "en": "Bahar yağmuru toprağı nemlendirdi."
+      }
+    ]
   }
 ]

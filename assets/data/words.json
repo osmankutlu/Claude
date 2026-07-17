@@ -169771,5 +169771,833 @@
         "en": "Eskiden inşaat şantiyesinde göçmen işçi olarak çalışmıştı."
       }
     ]
+  },
+  {
+    "id": "w4913",
+    "hanzi": "民航",
+    "pinyin": "mínháng",
+    "meaning": "Sivil havacılık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "他在民航公司工作。",
+        "pinyin": "Tā zài mínháng gōngsī gōngzuò.",
+        "en": "Sivil havacılık şirketinde çalışıyor."
+      },
+      {
+        "zh": "民航局发布了新的安全规定。",
+        "pinyin": "Mínhángjú fābù le xīn de ānquán guīdìng.",
+        "en": "Sivil havacılık dairesi yeni güvenlik düzenlemeleri yayınladı."
+      },
+      {
+        "zh": "他梦想成为一名民航飞行员。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yì míng mínháng fēixíngyuán.",
+        "en": "Sivil havacılık pilotu olmayı hayal ediyor."
+      },
+      {
+        "zh": "民航客机每天起降数百架次。",
+        "pinyin": "Mínháng kèjī měitiān qǐjiàng shùbǎi jiàcì.",
+        "en": "Sivil havayolu uçakları her gün yüzlerce kez iniş kalkış yapıyor."
+      },
+      {
+        "zh": "民航业受到疫情严重冲击。",
+        "pinyin": "Mínhángyè shòudào yìqíng yánzhòng chōngjī.",
+        "en": "Sivil havacılık sektörü salgından ciddi şekilde etkilendi."
+      }
+    ]
+  },
+  {
+    "id": "w4914",
+    "hanzi": "民间",
+    "pinyin": "mínjiān",
+    "meaning": "Halk arasında, sivil",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这是一个流传已久的民间故事。",
+        "pinyin": "Zhè shì yí gè liúchuán yǐjiǔ de mínjiān gùshi.",
+        "en": "Bu uzun süredir anlatılan bir halk hikayesidir."
+      },
+      {
+        "zh": "民间艺术具有独特的魅力。",
+        "pinyin": "Mínjiān yìshù jùyǒu dútè de mèilì.",
+        "en": "Halk sanatının kendine özgü bir cazibesi vardır."
+      },
+      {
+        "zh": "这项技艺在民间流传了几百年。",
+        "pinyin": "Zhè xiàng jìyì zài mínjiān liúchuán le jǐbǎi nián.",
+        "en": "Bu zanaat halk arasında yüzyıllardır aktarılıyor."
+      },
+      {
+        "zh": "民间组织在灾后救援中发挥了作用。",
+        "pinyin": "Mínjiān zǔzhī zài zāihòu jiùyuán zhōng fāhuī le zuòyòng.",
+        "en": "Sivil örgütler felaket sonrası kurtarmada rol oynadı."
+      },
+      {
+        "zh": "他收集了很多民间传说。",
+        "pinyin": "Tā shōují le hěn duō mínjiān chuánshuō.",
+        "en": "Birçok halk efsanesi topladı."
+      }
+    ]
+  },
+  {
+    "id": "w4915",
+    "hanzi": "民警",
+    "pinyin": "mínjǐng",
+    "meaning": "Sivil polis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "民警及时赶到了现场。",
+        "pinyin": "Mínjǐng jíshí gǎndào le xiànchǎng.",
+        "en": "Polis olay yerine zamanında ulaştı."
+      },
+      {
+        "zh": "社区民警经常巡逻。",
+        "pinyin": "Shèqū mínjǐng jīngcháng xúnluó.",
+        "en": "Mahalle polisi sık sık devriye geziyor."
+      },
+      {
+        "zh": "民警帮助老人找到了失散的孙子。",
+        "pinyin": "Mínjǐng bāngzhù lǎorén zhǎodào le shīsàn de sūnzi.",
+        "en": "Polis yaşlı kişinin kaybolan torununu bulmasına yardım etti."
+      },
+      {
+        "zh": "民警调查了这起盗窃案。",
+        "pinyin": "Mínjǐng diàochá le zhè qǐ dàoqiè'àn.",
+        "en": "Polis bu hırsızlık olayını araştırdı."
+      },
+      {
+        "zh": "他向民警报了警。",
+        "pinyin": "Tā xiàng mínjǐng bào le jǐng.",
+        "en": "Polise ihbarda bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w4916",
+    "hanzi": "民生",
+    "pinyin": "mínshēng",
+    "meaning": "Halkın geçimi, yaşam standardı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府关注民生问题。",
+        "pinyin": "Zhèngfǔ guānzhù mínshēng wèntí.",
+        "en": "Hükümet halkın geçim sorunlarına odaklanıyor."
+      },
+      {
+        "zh": "改善民生是政府的重要目标。",
+        "pinyin": "Gǎishàn mínshēng shì zhèngfǔ de zhòngyào mùbiāo.",
+        "en": "Yaşam standardını iyileştirmek hükümetin önemli hedeflerindendir."
+      },
+      {
+        "zh": "这项政策直接关系到民生。",
+        "pinyin": "Zhè xiàng zhèngcè zhíjiē guānxi dào mínshēng.",
+        "en": "Bu politika doğrudan halkın geçimiyle ilgilidir."
+      },
+      {
+        "zh": "医疗和教育是民生的重要领域。",
+        "pinyin": "Yīliáo hé jiàoyù shì mínshēng de zhòngyào lǐngyù.",
+        "en": "Sağlık ve eğitim halkın yaşamının önemli alanlarıdır."
+      },
+      {
+        "zh": "他一直致力于改善农村民生。",
+        "pinyin": "Tā yìzhí zhìlì yú gǎishàn nóngcūn mínshēng.",
+        "en": "Kırsal alanın yaşam standardını iyileştirmeye kendini adamıştı."
+      }
+    ]
+  },
+  {
+    "id": "w4917",
+    "hanzi": "民俗",
+    "pinyin": "mínsú",
+    "meaning": "Halk gelenekleri, folklor",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他研究中国传统民俗。",
+        "pinyin": "Tā yánjiū Zhōngguó chuántǒng mínsú.",
+        "en": "Çin'in geleneksel halk kültürünü araştırıyor."
+      },
+      {
+        "zh": "这个节日的民俗活动丰富多彩。",
+        "pinyin": "Zhège jiérì de mínsú huódòng fēngfù duōcǎi.",
+        "en": "Bu bayramın folklor etkinlikleri zengin ve çeşitlidir."
+      },
+      {
+        "zh": "婚礼有很多传统民俗讲究。",
+        "pinyin": "Hūnlǐ yǒu hěn duō chuántǒng mínsú jiǎngjiu.",
+        "en": "Düğünde birçok geleneksel folklorik gelenek gözetilir."
+      },
+      {
+        "zh": "这座博物馆展示了当地的民俗文化。",
+        "pinyin": "Zhè zuò bówùguǎn zhǎnshì le dāngdì de mínsú wénhuà.",
+        "en": "Bu müze yerel folklor kültürünü sergiliyor."
+      },
+      {
+        "zh": "他喜欢收集各地的民俗工艺品。",
+        "pinyin": "Tā xǐhuan shōují gèdì de mínsú gōngyìpǐn.",
+        "en": "Farklı yerlerin folklor el sanatlarını toplamayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w4918",
+    "hanzi": "民众",
+    "pinyin": "mínzhòng",
+    "meaning": "Halk, vatandaşlar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "民众对新政策反应热烈。",
+        "pinyin": "Mínzhòng duì xīn zhèngcè fǎnyìng rèliè.",
+        "en": "Halk yeni politikaya coşkulu bir tepki gösterdi."
+      },
+      {
+        "zh": "政府应该倾听民众的声音。",
+        "pinyin": "Zhèngfǔ yīnggāi qīngtīng mínzhòng de shēngyīn.",
+        "en": "Hükümet halkın sesini dinlemeli."
+      },
+      {
+        "zh": "许多民众聚集在广场上。",
+        "pinyin": "Xǔduō mínzhòng jùjí zài guǎngchǎng shàng.",
+        "en": "Birçok vatandaş meydanda toplandı."
+      },
+      {
+        "zh": "这项措施得到了广大民众的支持。",
+        "pinyin": "Zhè xiàng cuòshī dédào le guǎngdà mínzhòng de zhīchí.",
+        "en": "Bu önlem geniş halk kitlesinin desteğini aldı."
+      },
+      {
+        "zh": "民众的生活水平不断提高。",
+        "pinyin": "Mínzhòng de shēnghuó shuǐpíng búduàn tígāo.",
+        "en": "Halkın yaşam standardı sürekli yükseliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4919",
+    "hanzi": "敏感",
+    "pinyin": "mǐngǎn",
+    "meaning": "Hassas, duyarlı, alıngan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她对批评十分敏感。",
+        "pinyin": "Tā duì pīpíng shífēn mǐngǎn.",
+        "en": "Eleştirilere karşı çok hassas."
+      },
+      {
+        "zh": "这是一个敏感话题。",
+        "pinyin": "Zhè shì yí gè mǐngǎn huàtí.",
+        "en": "Bu hassas bir konu."
+      },
+      {
+        "zh": "他的皮肤对阳光很敏感。",
+        "pinyin": "Tā de pífū duì yángguāng hěn mǐngǎn.",
+        "en": "Cildi güneşe karşı çok hassas."
+      },
+      {
+        "zh": "她对气味十分敏感。",
+        "pinyin": "Tā duì qìwèi shífēn mǐngǎn.",
+        "en": "Kokulara karşı çok hassastır."
+      },
+      {
+        "zh": "这类信息属于商业敏感信息。",
+        "pinyin": "Zhè lèi xìnxī shǔyú shāngyè mǐngǎn xìnxī.",
+        "en": "Bu tür bilgiler ticari açıdan hassas bilgilere aittir."
+      }
+    ]
+  },
+  {
+    "id": "w4920",
+    "hanzi": "敏捷",
+    "pinyin": "mǐnjié",
+    "meaning": "Çevik, hızlı, atik",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的动作十分敏捷。",
+        "pinyin": "Tā de dòngzuò shífēn mǐnjié.",
+        "en": "Hareketleri son derece çevik."
+      },
+      {
+        "zh": "运动员敏捷地躲开了对手的抢断。",
+        "pinyin": "Yùndòngyuán mǐnjié de duǒkāi le duìshǒu de qiǎngduàn.",
+        "en": "Sporcu rakibinin engellemesinden çevikçe kaçındı."
+      },
+      {
+        "zh": "猫的反应非常敏捷。",
+        "pinyin": "Māo de fǎnyìng fēicháng mǐnjié.",
+        "en": "Kedinin tepkisi çok çeviktir."
+      },
+      {
+        "zh": "他思维敏捷,反应很快。",
+        "pinyin": "Tā sīwéi mǐnjié, fǎnyìng hěn kuài.",
+        "en": "Düşüncesi çevik, tepkisi çok hızlı."
+      },
+      {
+        "zh": "他敏捷地爬上了树。",
+        "pinyin": "Tā mǐnjié de páshàng le shù.",
+        "en": "Çevikçe ağaca tırmandı."
+      }
+    ]
+  },
+  {
+    "id": "w4921",
+    "hanzi": "敏锐",
+    "pinyin": "mǐnruì",
+    "meaning": "Keskin, sivri (algı, zeka)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他有着敏锐的观察力。",
+        "pinyin": "Tā yǒuzhe mǐnruì de guānchálì.",
+        "en": "Keskin bir gözlem yeteneğine sahip."
+      },
+      {
+        "zh": "她的嗅觉十分敏锐。",
+        "pinyin": "Tā de xiùjué shífēn mǐnruì.",
+        "en": "Koku alma duyusu son derece keskindir."
+      },
+      {
+        "zh": "他对市场变化很敏锐。",
+        "pinyin": "Tā duì shìchǎng biànhuà hěn mǐnruì.",
+        "en": "Piyasa değişikliklerine karşı çok keskin bir farkındalığa sahip."
+      },
+      {
+        "zh": "记者有着敏锐的新闻嗅觉。",
+        "pinyin": "Jìzhě yǒuzhe mǐnruì de xīnwén xiùjué.",
+        "en": "Gazeteci keskin bir haber sezgisine sahip."
+      },
+      {
+        "zh": "他敏锐地察觉到了问题的关键。",
+        "pinyin": "Tā mǐnruì de chájué dào le wèntí de guānjiàn.",
+        "en": "Sorunun temel noktasını keskin bir şekilde fark etti."
+      }
+    ]
+  },
+  {
+    "id": "w4922",
+    "hanzi": "明",
+    "pinyin": "míng",
+    "meaning": "Parlak, aydınlık; açık, net",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "月光明亮如水。",
+        "pinyin": "Yuèguāng míngliàng rú shuǐ.",
+        "en": "Ay ışığı su gibi parlak."
+      },
+      {
+        "zh": "他把事情说得很明白。",
+        "pinyin": "Tā bǎ shìqing shuō de hěn míngbai.",
+        "en": "Konuyu çok net bir şekilde anlattı."
+      },
+      {
+        "zh": "这个道理是显而易见的。",
+        "pinyin": "Zhège dàolǐ shì xiǎn'éryìjiàn de.",
+        "en": "Bu mantık apaçık ortadadır."
+      },
+      {
+        "zh": "他明察秋毫,不放过任何细节。",
+        "pinyin": "Tā míngchá-qiūháo, bú fàngguò rènhé xìjié.",
+        "en": "Her ayrıntının farkına varır, hiçbir şeyi kaçırmaz."
+      },
+      {
+        "zh": "他是个聪明伶俐的孩子。",
+        "pinyin": "Tā shì gè cōngming-línglì de háizi.",
+        "en": "O zeki ve çevik bir çocuktur."
+      }
+    ]
+  },
+  {
+    "id": "w4923",
+    "hanzi": "明朗",
+    "pinyin": "mínglǎng",
+    "meaning": "Aydınlık, açık, net",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "天气明朗,万里无云。",
+        "pinyin": "Tiānqì mínglǎng, wànlǐ wúyún.",
+        "en": "Hava açık, bulutsuz."
+      },
+      {
+        "zh": "他性格明朗开朗。",
+        "pinyin": "Tā xìnggé mínglǎng kāilǎng.",
+        "en": "Karakteri açık ve neşeli."
+      },
+      {
+        "zh": "局势变得越来越明朗了。",
+        "pinyin": "Júshì biàn de yuè lái yuè mínglǎng le.",
+        "en": "Durum giderek daha net hale geldi."
+      },
+      {
+        "zh": "选举结果已经明朗。",
+        "pinyin": "Xuǎnjǔ jiéguǒ yǐjīng mínglǎng.",
+        "en": "Seçim sonuçları artık netleşti."
+      },
+      {
+        "zh": "他的态度很明朗,没有任何隐瞒。",
+        "pinyin": "Tā de tàidù hěn mínglǎng, méiyǒu rènhé yǐnmán.",
+        "en": "Tutumu çok açık, hiçbir şey gizlemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4924",
+    "hanzi": "明亮",
+    "pinyin": "míngliàng",
+    "meaning": "Parlak, ışıltılı",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "教室里灯光明亮。",
+        "pinyin": "Jiàoshì lǐ dēngguāng míngliàng.",
+        "en": "Sınıftaki ışık parlak."
+      },
+      {
+        "zh": "她有一双明亮的眼睛。",
+        "pinyin": "Tā yǒu yì shuāng míngliàng de yǎnjing.",
+        "en": "Parlak bir çift gözü var."
+      },
+      {
+        "zh": "这间屋子很明亮宽敞。",
+        "pinyin": "Zhè jiān wūzi hěn míngliàng kuānchang.",
+        "en": "Bu oda çok aydınlık ve geniş."
+      },
+      {
+        "zh": "明亮的阳光洒进了房间。",
+        "pinyin": "Míngliàng de yángguāng sǎjìn le fángjiān.",
+        "en": "Parlak güneş ışığı odaya vurdu."
+      },
+      {
+        "zh": "他把窗户擦得明亮如新。",
+        "pinyin": "Tā bǎ chuānghu cā de míngliàng rúxīn.",
+        "en": "Pencereyi yeni gibi ışıl ışıl parlatıncaya kadar sildi."
+      }
+    ]
+  },
+  {
+    "id": "w4925",
+    "hanzi": "明明",
+    "pinyin": "míngmíng",
+    "meaning": "Apaçık, besbelli",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "明明是他的错,他却不承认。",
+        "pinyin": "Míngmíng shì tā de cuò, tā què bù chéngrèn.",
+        "en": "Apaçık onun hatası olduğu halde kabul etmiyor."
+      },
+      {
+        "zh": "明明知道结果,他还是要问。",
+        "pinyin": "Míngmíng zhīdào jiéguǒ, tā háishi yào wèn.",
+        "en": "Sonucu besbelli bilmesine rağmen yine de soruyor."
+      },
+      {
+        "zh": "明明下雨了,他却没带伞。",
+        "pinyin": "Míngmíng xiàyǔ le, tā què méi dài sǎn.",
+        "en": "Apaçık yağmur yağmasına rağmen şemsiye almadı."
+      },
+      {
+        "zh": "他明明答应了却没做到。",
+        "pinyin": "Tā míngmíng dāying le què méi zuòdào.",
+        "en": "Besbelli söz vermişti ama yerine getirmedi."
+      },
+      {
+        "zh": "明明是真的,为什么没人相信?",
+        "pinyin": "Míngmíng shì zhēn de, wèishénme méi rén xiāngxìn?",
+        "en": "Apaçık gerçek olduğu halde neden kimse inanmıyor?"
+      }
+    ]
+  },
+  {
+    "id": "w4926",
+    "hanzi": "名",
+    "pinyin": "míng",
+    "meaning": "İsim, ad; ün, şöhret",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请问您的名是什么?",
+        "pinyin": "Qǐngwèn nín de míng shì shénme?",
+        "en": "İsminiz nedir?"
+      },
+      {
+        "zh": "他因为这个发明一举成名。",
+        "pinyin": "Tā yīnwèi zhège fāmíng yìjǔ chéngmíng.",
+        "en": "Bu buluş sayesinde bir anda ünlü oldu."
+      },
+      {
+        "zh": "他榜上有名。",
+        "pinyin": "Tā bǎng shàng yǒumíng.",
+        "en": "Listede adı var."
+      },
+      {
+        "zh": "这道菜是这家餐厅的名菜。",
+        "pinyin": "Zhè dào cài shì zhè jiā cāntīng de míngcài.",
+        "en": "Bu yemek restoranın meşhur yemeğidir."
+      },
+      {
+        "zh": "他有名无实。",
+        "pinyin": "Tā yǒumíng-wúshí.",
+        "en": "Sadece adı var, gerçek gücü yok."
+      }
+    ]
+  },
+  {
+    "id": "w4927",
+    "hanzi": "名称",
+    "pinyin": "míngchēng",
+    "meaning": "İsim, ad",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "公司改变了名称。",
+        "pinyin": "Gōngsī gǎibiàn le míngchēng.",
+        "en": "Şirket adını değiştirdi."
+      },
+      {
+        "zh": "请写下产品的全称。",
+        "pinyin": "Qǐng xiěxià chǎnpǐn de quánchēng.",
+        "en": "Lütfen ürünün tam adını yazın."
+      },
+      {
+        "zh": "这个组织的名称很长。",
+        "pinyin": "Zhège zǔzhī de míngchēng hěn cháng.",
+        "en": "Bu kuruluşun adı çok uzun."
+      },
+      {
+        "zh": "商标名称需要注册保护。",
+        "pinyin": "Shāngbiāo míngchēng xūyào zhùcè bǎohù.",
+        "en": "Marka adının tescil edilerek korunması gerekir."
+      },
+      {
+        "zh": "这条街道的名称有历史渊源。",
+        "pinyin": "Zhè tiáo jiēdào de míngchēng yǒu lìshǐ yuānyuán.",
+        "en": "Bu caddenin adının tarihi bir kökeni var."
+      }
+    ]
+  },
+  {
+    "id": "w4928",
+    "hanzi": "名词",
+    "pinyin": "míngcí",
+    "meaning": "İsim (dilbilgisi)",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "'桌子'是一个名词。",
+        "pinyin": "'Zhuōzi' shì yí gè míngcí.",
+        "en": "'Masa' bir isimdir."
+      },
+      {
+        "zh": "老师讲解了名词的用法。",
+        "pinyin": "Lǎoshī jiǎngjiě le míngcí de yòngfǎ.",
+        "en": "Öğretmen isimlerin kullanımını açıkladı."
+      },
+      {
+        "zh": "这个句子里有三个名词。",
+        "pinyin": "Zhège jùzi lǐ yǒu sān gè míngcí.",
+        "en": "Bu cümlede üç isim var."
+      },
+      {
+        "zh": "专有名词首字母要大写。",
+        "pinyin": "Zhuānyǒu míngcí shǒu zìmǔ yào dàxiě.",
+        "en": "Özel isimlerin ilk harfi büyük yazılmalıdır."
+      },
+      {
+        "zh": "抽象名词很难用图片表示。",
+        "pinyin": "Chōuxiàng míngcí hěn nán yòng túpiàn biǎoshì.",
+        "en": "Soyut isimleri resimle ifade etmek çok zordur."
+      }
+    ]
+  },
+  {
+    "id": "w4929",
+    "hanzi": "名单",
+    "pinyin": "míngdān",
+    "meaning": "İsim listesi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请核对一下参会人员名单。",
+        "pinyin": "Qǐng héduì yíxià cānhuì rényuán míngdān.",
+        "en": "Lütfen toplantıya katılanların isim listesini kontrol edin."
+      },
+      {
+        "zh": "他的名字在获奖名单上。",
+        "pinyin": "Tā de míngzi zài huòjiǎng míngdān shàng.",
+        "en": "Adı ödül alanların listesinde bulunuyor."
+      },
+      {
+        "zh": "老师公布了考试合格名单。",
+        "pinyin": "Lǎoshī gōngbù le kǎoshì hégé míngdān.",
+        "en": "Öğretmen sınavı geçenlerin listesini yayınladı."
+      },
+      {
+        "zh": "他被列入了黑名单。",
+        "pinyin": "Tā bèi lièrù le hēimíngdān.",
+        "en": "Kara listeye alındı."
+      },
+      {
+        "zh": "邀请名单已经确定了。",
+        "pinyin": "Yāoqǐng míngdān yǐjīng quèdìng le.",
+        "en": "Davetli listesi zaten belirlendi."
+      }
+    ]
+  },
+  {
+    "id": "w4930",
+    "hanzi": "名人",
+    "pinyin": "míngrén",
+    "meaning": "Ünlü kişi, meşhur kimse",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他是当地的名人。",
+        "pinyin": "Tā shì dāngdì de míngrén.",
+        "en": "O yerel bir ünlüdür."
+      },
+      {
+        "zh": "这本书讲述了很多名人的故事。",
+        "pinyin": "Zhè běn shū jiǎngshù le hěn duō míngrén de gùshi.",
+        "en": "Bu kitap birçok ünlü kişinin hikayesini anlatıyor."
+      },
+      {
+        "zh": "很多名人参加了这次慈善活动。",
+        "pinyin": "Hěn duō míngrén cānjiā le zhè cì císhàn huódòng.",
+        "en": "Birçok ünlü kişi bu hayır etkinliğine katıldı."
+      },
+      {
+        "zh": "他梦想有一天成为名人。",
+        "pinyin": "Tā mèngxiǎng yǒu yì tiān chéngwéi míngrén.",
+        "en": "Bir gün ünlü olmayı hayal ediyor."
+      },
+      {
+        "zh": "这条街上有许多名人故居。",
+        "pinyin": "Zhè tiáo jiē shàng yǒu xǔduō míngrén gùjū.",
+        "en": "Bu caddede birçok ünlü kişinin eski evi bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w4931",
+    "hanzi": "名声",
+    "pinyin": "míngshēng",
+    "meaning": "Ün, şöhret",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他在业界有很好的名声。",
+        "pinyin": "Tā zài yèjiè yǒu hěn hǎo de míngshēng.",
+        "en": "Sektörde çok iyi bir üne sahip."
+      },
+      {
+        "zh": "这件事损害了公司的名声。",
+        "pinyin": "Zhè jiàn shì sǔnhài le gōngsī de míngshēng.",
+        "en": "Bu olay şirketin itibarına zarar verdi."
+      },
+      {
+        "zh": "他不在乎名声,只专注于自己的工作。",
+        "pinyin": "Tā bú zàihu míngshēng, zhǐ zhuānzhù yú zìjǐ de gōngzuò.",
+        "en": "Şöhreti umursamıyor, sadece kendi işine odaklanıyor."
+      },
+      {
+        "zh": "他因为这项发明获得了极高的名声。",
+        "pinyin": "Tā yīnwèi zhè xiàng fāmíng huòdé le jí gāo de míngshēng.",
+        "en": "Bu buluş sayesinde son derece yüksek bir şöhret kazandı."
+      },
+      {
+        "zh": "他一生都在努力维护自己的名声。",
+        "pinyin": "Tā yìshēng dōu zài nǔlì wéihù zìjǐ de míngshēng.",
+        "en": "Hayatı boyunca kendi şöhretini korumaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w4932",
+    "hanzi": "名誉",
+    "pinyin": "míngyù",
+    "meaning": "Onur, itibar, şöhret",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他非常珍视自己的名誉。",
+        "pinyin": "Tā fēicháng zhēnshì zìjǐ de míngyù.",
+        "en": "Kendi itibarını son derece önemsiyor."
+      },
+      {
+        "zh": "这个谣言损害了他的名誉。",
+        "pinyin": "Zhège yáoyán sǔnhài le tā de míngyù.",
+        "en": "Bu söylenti onun itibarına zarar verdi."
+      },
+      {
+        "zh": "他被授予了名誉博士学位。",
+        "pinyin": "Tā bèi shòuyǔ le míngyù bóshì xuéwèi.",
+        "en": "Kendisine fahri doktora unvanı verildi."
+      },
+      {
+        "zh": "他起诉对方侵犯了他的名誉权。",
+        "pinyin": "Tā qǐsù duìfāng qīnfàn le tā de míngyùquán.",
+        "en": "Karşı tarafı itibar hakkına tecavüz etmekle dava etti."
+      },
+      {
+        "zh": "他是这所大学的名誉教授。",
+        "pinyin": "Tā shì zhè suǒ dàxué de míngyù jiàoshòu.",
+        "en": "Bu üniversitenin fahri profesörüdür."
+      }
+    ]
+  },
+  {
+    "id": "w4933",
+    "hanzi": "名著",
+    "pinyin": "míngzhù",
+    "meaning": "Ünlü eser, klasik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他读过很多世界名著。",
+        "pinyin": "Tā dúguò hěn duō shìjiè míngzhù.",
+        "en": "Birçok dünya klasiğini okumuş."
+      },
+      {
+        "zh": "《红楼梦》是中国四大名著之一。",
+        "pinyin": "《Hónglóumèng》shì Zhōngguó sìdà míngzhù zhī yī.",
+        "en": "'Kızıl Konağın Rüyası', Çin'in dört büyük klasik eserinden biridir."
+      },
+      {
+        "zh": "这部小说被誉为文学名著。",
+        "pinyin": "Zhè bù xiǎoshuō bèi yùwéi wénxué míngzhù.",
+        "en": "Bu roman edebi bir başyapıt olarak anılıyor."
+      },
+      {
+        "zh": "他把这部名著改编成了电影。",
+        "pinyin": "Tā bǎ zhè bù míngzhù gǎibiān chéng le diànyǐng.",
+        "en": "Bu klasik eseri filme uyarladı."
+      },
+      {
+        "zh": "图书馆收藏了大量的文学名著。",
+        "pinyin": "Túshūguǎn shōucáng le dàliàng de wénxué míngzhù.",
+        "en": "Kütüphane çok sayıda edebi klasik eser topladı."
+      }
+    ]
+  },
+  {
+    "id": "w4934",
+    "hanzi": "命",
+    "pinyin": "mìng",
+    "meaning": "Yaşam, can; kader, nasip",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他救了我一命。",
+        "pinyin": "Tā jiù le wǒ yí mìng.",
+        "en": "Canımı kurtardı."
+      },
+      {
+        "zh": "这是命中注定的事。",
+        "pinyin": "Zhè shì mìngzhōng-zhùdìng de shì.",
+        "en": "Bu kaderde yazılı bir şeydir."
+      },
+      {
+        "zh": "他相信自己的命很好。",
+        "pinyin": "Tā xiāngxìn zìjǐ de mìng hěn hǎo.",
+        "en": "Kendi kaderinin iyi olduğuna inanıyor."
+      },
+      {
+        "zh": "他不惜生命危险救了那个孩子。",
+        "pinyin": "Tā bùxī shēngmìng wēixiǎn jiù le nàge háizi.",
+        "en": "Hayatını riske atarak o çocuğu kurtardı."
+      },
+      {
+        "zh": "他玩命地工作,不顾身体健康。",
+        "pinyin": "Tā wánmìng de gōngzuò, búgù shēntǐ jiànkāng.",
+        "en": "Sağlığını hiçe sayarak canını dişine takarak çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4935",
+    "hanzi": "命名",
+    "pinyin": "mìngmíng",
+    "meaning": "İsim vermek, adlandırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这颗星星以他的名字命名。",
+        "pinyin": "Zhè kē xīngxing yǐ tā de míngzi mìngmíng.",
+        "en": "Bu yıldız onun adıyla adlandırıldı."
+      },
+      {
+        "zh": "他们给新公司命名为'未来科技'。",
+        "pinyin": "Tāmen gěi xīn gōngsī mìngmíng wéi 'Wèilái Kējì'.",
+        "en": "Yeni şirkete 'Gelecek Teknoloji' adını verdiler."
+      },
+      {
+        "zh": "这条街道是以一位英雄命名的。",
+        "pinyin": "Zhè tiáo jiēdào shì yǐ yí wèi yīngxióng mìngmíng de.",
+        "en": "Bu cadde bir kahramanın adıyla adlandırılmıştır."
+      },
+      {
+        "zh": "父母给孩子精心命名。",
+        "pinyin": "Fùmǔ gěi háizi jīngxīn mìngmíng.",
+        "en": "Ebeveynler çocuklarına özenle isim verir."
+      },
+      {
+        "zh": "这种新物种以发现者的名字命名。",
+        "pinyin": "Zhè zhǒng xīn wùzhǒng yǐ fāxiànzhě de míngzi mìngmíng.",
+        "en": "Bu yeni tür, onu keşfeden kişinin adıyla adlandırıldı."
+      }
+    ]
   }
 ]

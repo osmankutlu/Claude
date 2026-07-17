@@ -209098,5 +209098,773 @@
         "en": "O yanlış aldığı şeyi değiştirmeye götürdü."
       }
     ]
+  },
+  {
+    "id": "w6235",
+    "hanzi": "拖欠",
+    "pinyin": "tuōqiàn",
+    "meaning": "borcunu ödememek, gecikmek (ödemede)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他拖欠了三个月的房租。",
+        "pinyin": "Tā tuōqiànle sān gè yuè de fángzū.",
+        "en": "O üç aylık kira borcunu ödemedi."
+      },
+      {
+        "zh": "公司拖欠员工工资。",
+        "pinyin": "Gōngsī tuōqiàn yuángōng gōngzī.",
+        "en": "Şirket çalışanların maaşını ödemede gecikti."
+      }
+    ]
+  },
+  {
+    "id": "w6236",
+    "hanzi": "拖鞋",
+    "pinyin": "tuōxié",
+    "meaning": "terlik",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "请穿上拖鞋。",
+        "pinyin": "Qǐng chuān shàng tuōxié.",
+        "en": "Lütfen terlik giy."
+      },
+      {
+        "zh": "浴室里放着一双拖鞋。",
+        "pinyin": "Yùshì lǐ fàngzhe yī shuāng tuōxié.",
+        "en": "Banyoda bir çift terlik duruyor."
+      },
+      {
+        "zh": "他喜欢在家穿拖鞋。",
+        "pinyin": "Tā xǐhuān zài jiā chuān tuōxié.",
+        "en": "O evde terlik giymeyi sever."
+      },
+      {
+        "zh": "这双拖鞋很舒服。",
+        "pinyin": "Zhè shuāng tuōxié hěn shūfu.",
+        "en": "Bu terlik çok rahat."
+      },
+      {
+        "zh": "出门别忘了换掉拖鞋。",
+        "pinyin": "Chūmén bié wàngle huàndiào tuōxié.",
+        "en": "Dışarı çıkarken terliği değiştirmeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w6237",
+    "hanzi": "拖延",
+    "pinyin": "tuōyán",
+    "meaning": "ertelemek, geciktirmek, uzatmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "不要拖延时间了。",
+        "pinyin": "Bùyào tuōyán shíjiān le.",
+        "en": "Zamanı ertelemeyelim artık."
+      },
+      {
+        "zh": "他总是拖延工作进度。",
+        "pinyin": "Tā zǒngshì tuōyán gōngzuò jìndù.",
+        "en": "O her zaman iş ilerlemesini geciktirir."
+      },
+      {
+        "zh": "这个项目已经拖延了很久。",
+        "pinyin": "Zhège xiàngmù yǐjīng tuōyánle hěn jiǔ.",
+        "en": "Bu proje çoktan beri gecikti."
+      },
+      {
+        "zh": "会议因故拖延了半小时。",
+        "pinyin": "Huìyì yīngù tuōyánle bàn xiǎoshí.",
+        "en": "Toplantı bir sebepten dolayı yarım saat gecikti."
+      },
+      {
+        "zh": "他习惯拖延做决定。",
+        "pinyin": "Tā xíguàn tuōyán zuò juédìng.",
+        "en": "O karar vermeyi erteleme alışkanlığına sahip."
+      }
+    ]
+  },
+  {
+    "id": "w6238",
+    "hanzi": "鸵鸟",
+    "pinyin": "tuóniǎo",
+    "meaning": "devekuşu",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "鸵鸟是世界上最大的鸟。",
+        "pinyin": "Tuóniǎo shì shìjiè shàng zuì dà de niǎo.",
+        "en": "Devekuşu dünyanın en büyük kuşudur."
+      },
+      {
+        "zh": "鸵鸟不会飞,但跑得很快。",
+        "pinyin": "Tuóniǎo bùhuì fēi, dàn pǎo de hěn kuài.",
+        "en": "Devekuşu uçamaz ama çok hızlı koşar."
+      }
+    ]
+  },
+  {
+    "id": "w6239",
+    "hanzi": "驼",
+    "pinyin": "tuó",
+    "meaning": "deve; kambur, sırtı eğri",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "沙漠里有一群驼。",
+        "pinyin": "Shāmò lǐ yǒu yī qún tuó.",
+        "en": "Çölde bir deve sürüsü var."
+      },
+      {
+        "zh": "他年纪大了,背有点驼了。",
+        "pinyin": "Tā niánjì dà le, bèi yǒudiǎn tuó le.",
+        "en": "O yaşlandı, sırtı biraz kamburlaştı."
+      }
+    ]
+  },
+  {
+    "id": "w6240",
+    "hanzi": "妥当",
+    "pinyin": "tuǒdàng",
+    "meaning": "uygun, münasip, doğru dürüst",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这样安排比较妥当。",
+        "pinyin": "Zhèyàng ānpái bǐjiào tuǒdàng.",
+        "en": "Böyle düzenlemek daha uygun."
+      },
+      {
+        "zh": "请把事情处理妥当。",
+        "pinyin": "Qǐng bǎ shìqíng chǔlǐ tuǒdàng.",
+        "en": "Lütfen işi uygun şekilde halledin."
+      }
+    ]
+  },
+  {
+    "id": "w6241",
+    "hanzi": "妥善",
+    "pinyin": "tuǒshàn",
+    "meaning": "uygun, iyi ayarlanmış, yerinde",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "问题得到了妥善解决。",
+        "pinyin": "Wèntí dédàole tuǒshàn jiějué.",
+        "en": "Sorun uygun bir şekilde çözüldü."
+      },
+      {
+        "zh": "请妥善保管这些文件。",
+        "pinyin": "Qǐng tuǒshàn bǎoguǎn zhèxiē wénjiàn.",
+        "en": "Lütfen bu belgeleri uygun şekilde saklayın."
+      }
+    ]
+  },
+  {
+    "id": "w6242",
+    "hanzi": "妥协",
+    "pinyin": "tuǒxié",
+    "meaning": "uzlaşmak, anlaşmaya varmak, taviz vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "双方最终达成了妥协。",
+        "pinyin": "Shuāngfāng zuìzhōng dáchéngle tuǒxié.",
+        "en": "Her iki taraf sonunda bir uzlaşmaya vardı."
+      },
+      {
+        "zh": "他不愿意在原则上妥协。",
+        "pinyin": "Tā bù yuànyì zài yuánzé shàng tuǒxié.",
+        "en": "O ilkelerinden taviz vermek istemiyor."
+      },
+      {
+        "zh": "谈判过程中双方互相妥协。",
+        "pinyin": "Tánpàn guòchéng zhōng shuāngfāng hùxiāng tuǒxié.",
+        "en": "Müzakere sürecinde her iki taraf birbirine taviz verdi."
+      },
+      {
+        "zh": "妥协是解决冲突的方式之一。",
+        "pinyin": "Tuǒxié shì jiějué chōngtū de fāngshì zhī yī.",
+        "en": "Uzlaşma çatışmayı çözmenin yollarından biridir."
+      },
+      {
+        "zh": "她从不轻易妥协。",
+        "pinyin": "Tā cóng bù qīngyì tuǒxié.",
+        "en": "O asla kolayca taviz vermez."
+      }
+    ]
+  },
+  {
+    "id": "w6243",
+    "hanzi": "椭圆",
+    "pinyin": "tuǒyuán",
+    "meaning": "elips, oval",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这张桌子是椭圆形的。",
+        "pinyin": "Zhè zhāng zhuōzi shì tuǒyuán xíng de.",
+        "en": "Bu masa oval şeklindedir."
+      },
+      {
+        "zh": "地球的轨道是一个椭圆。",
+        "pinyin": "Dìqiú de guǐdào shì yī gè tuǒyuán.",
+        "en": "Dünyanın yörüngesi bir elipstir."
+      }
+    ]
+  },
+  {
+    "id": "w6244",
+    "hanzi": "唾手可得",
+    "pinyin": "tuòshǒu kědé",
+    "meaning": "çok kolay elde edilebilen",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "成功不是唾手可得的。",
+        "pinyin": "Chénggōng bùshì tuòshǒu kědé de.",
+        "en": "Başarı kolayca elde edilebilen bir şey değildir."
+      },
+      {
+        "zh": "这个机会看似唾手可得。",
+        "pinyin": "Zhège jīhuì kànsì tuòshǒu kědé.",
+        "en": "Bu fırsat çok kolay elde edilebilir gibi görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6245",
+    "hanzi": "蛙",
+    "pinyin": "wā",
+    "meaning": "kurbağa",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "池塘里有很多蛙。",
+        "pinyin": "Chítáng lǐ yǒu hěn duō wā.",
+        "en": "Havuzda çok kurbağa var."
+      },
+      {
+        "zh": "夏天晚上能听到蛙叫声。",
+        "pinyin": "Xiàtiān wǎnshang néng tīngdào wā jiào shēng.",
+        "en": "Yaz akşamlarında kurbağa sesleri duyulabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6246",
+    "hanzi": "挖",
+    "pinyin": "wā",
+    "meaning": "kazmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工人们在挖一个大坑。",
+        "pinyin": "Gōngrénmen zài wā yī gè dà kēng.",
+        "en": "İşçiler büyük bir çukur kazıyor."
+      },
+      {
+        "zh": "孩子们在沙滩上挖沙子。",
+        "pinyin": "Háizimen zài shātān shàng wā shāzi.",
+        "en": "Çocuklar sahilde kum kazıyor."
+      },
+      {
+        "zh": "他用锹挖土。",
+        "pinyin": "Tā yòng qiāo wā tǔ.",
+        "en": "O kürekle toprak kazıyor."
+      },
+      {
+        "zh": "考古学家正在挖掘遗址。",
+        "pinyin": "Kǎogǔ xuéjiā zhèngzài wājué yízhǐ.",
+        "en": "Arkeologlar kalıntıyı kazıyorlar."
+      },
+      {
+        "zh": "他们挖了一口井。",
+        "pinyin": "Tāmen wāle yī kǒu jǐng.",
+        "en": "Onlar bir kuyu kazdılar."
+      }
+    ]
+  },
+  {
+    "id": "w6247",
+    "hanzi": "挖掘",
+    "pinyin": "wājué",
+    "meaning": "kazmak, kazı yapmak; ortaya çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们在这里挖掘了很多文物。",
+        "pinyin": "Tāmen zài zhèlǐ wājuéle hěn duō wénwù.",
+        "en": "Onlar burada birçok tarihi eser kazıp çıkardılar."
+      },
+      {
+        "zh": "公司要挖掘员工的潜力。",
+        "pinyin": "Gōngsī yào wājué yuángōng de qiánlì.",
+        "en": "Şirket çalışanların potansiyelini ortaya çıkarmak istiyor."
+      },
+      {
+        "zh": "科学家挖掘出了恐龙化石。",
+        "pinyin": "Kēxuéjiā wājué chūle kǒnglóng huàshí.",
+        "en": "Bilim insanları dinozor fosili kazıp çıkardılar."
+      },
+      {
+        "zh": "这部电影挖掘了人性的深处。",
+        "pinyin": "Zhè bù diànyǐng wājuéle rénxìng de shēnchù.",
+        "en": "Bu film insan doğasının derinliklerini ortaya çıkardı."
+      },
+      {
+        "zh": "我们需要挖掘新的市场。",
+        "pinyin": "Wǒmen xūyào wājué xīn de shìchǎng.",
+        "en": "Yeni pazarlar keşfetmemiz gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6248",
+    "hanzi": "挖苦",
+    "pinyin": "wāku",
+    "meaning": "alay etmek, iğnelemek, dalga geçerek konuşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他总喜欢挖苦别人。",
+        "pinyin": "Tā zǒng xǐhuān wāku biérén.",
+        "en": "O her zaman başkalarıyla dalga geçmeyi sever."
+      },
+      {
+        "zh": "别再挖苦我了。",
+        "pinyin": "Bié zài wāku wǒ le.",
+        "en": "Benimle artık dalga geçme."
+      }
+    ]
+  },
+  {
+    "id": "w6249",
+    "hanzi": "娃娃",
+    "pinyin": "wáwa",
+    "meaning": "bebek, çocuk; oyuncak bebek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "这个娃娃真可爱。",
+        "pinyin": "Zhège wáwa zhēn kě'ài.",
+        "en": "Bu bebek gerçekten çok sevimli."
+      },
+      {
+        "zh": "小女孩抱着她的娃娃。",
+        "pinyin": "Xiǎo nǚhái bàozhe tā de wáwa.",
+        "en": "Küçük kız oyuncak bebeğini kucaklıyor."
+      },
+      {
+        "zh": "妈妈在照顾娃娃。",
+        "pinyin": "Māma zài zhàogù wáwa.",
+        "en": "Anne bebeğe bakıyor."
+      },
+      {
+        "zh": "他给女儿买了一个新娃娃。",
+        "pinyin": "Tā gěi nǚ'ér mǎile yī gè xīn wáwa.",
+        "en": "Kızına yeni bir oyuncak bebek aldı."
+      },
+      {
+        "zh": "娃娃在婴儿床里睡觉。",
+        "pinyin": "Wáwa zài yīng'ér chuáng lǐ shuìjiào.",
+        "en": "Bebek beşikte uyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6250",
+    "hanzi": "瓦",
+    "pinyin": "wǎ",
+    "meaning": "kiremit, çini",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "屋顶上铺着瓦。",
+        "pinyin": "Wūdǐng shàng pūzhe wǎ.",
+        "en": "Çatının üstü kiremitle kaplı."
+      },
+      {
+        "zh": "这座房子是用瓦盖的。",
+        "pinyin": "Zhè zuò fángzi shì yòng wǎ gài de.",
+        "en": "Bu ev kiremitle kaplanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w6251",
+    "hanzi": "瓦解",
+    "pinyin": "wǎjiě",
+    "meaning": "çökmek, yıkılmak, dağılmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "敌人的士气逐渐瓦解。",
+        "pinyin": "Dírén de shìqì zhújiàn wǎjiě.",
+        "en": "Düşmanın morali giderek çöktü."
+      },
+      {
+        "zh": "这个组织已经瓦解了。",
+        "pinyin": "Zhège zǔzhī yǐjīng wǎjiě le.",
+        "en": "Bu organizasyon çoktan dağıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6252",
+    "hanzi": "瓦斯",
+    "pinyin": "wǎsī",
+    "meaning": "gaz",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "厨房里有瓦斯味。",
+        "pinyin": "Chúfáng lǐ yǒu wǎsī wèi.",
+        "en": "Mutfakta gaz kokusu var."
+      },
+      {
+        "zh": "矿井里发生了瓦斯爆炸。",
+        "pinyin": "Kuàngjǐng lǐ fāshēngle wǎsī bàozhà.",
+        "en": "Maden ocağında gaz patlaması meydana geldi."
+      }
+    ]
+  },
+  {
+    "id": "w6253",
+    "hanzi": "歪曲",
+    "pinyin": "wāiqū",
+    "meaning": "çarpıtmak, saptırmak, yanlış aksettirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他歪曲了事实。",
+        "pinyin": "Tā wāiqūle shìshí.",
+        "en": "O gerçekleri çarpıttı."
+      },
+      {
+        "zh": "媒体不应该歪曲报道。",
+        "pinyin": "Méitǐ bù yīnggāi wāiqū bàodào.",
+        "en": "Medya haberleri çarpıtarak vermemeli."
+      }
+    ]
+  },
+  {
+    "id": "w6254",
+    "hanzi": "外观",
+    "pinyin": "wàiguān",
+    "meaning": "dış görünüş, harici görünüş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这辆车的外观很漂亮。",
+        "pinyin": "Zhè liàng chē de wàiguān hěn piàoliang.",
+        "en": "Bu arabanın dış görünüşü çok güzel."
+      },
+      {
+        "zh": "产品的外观设计很重要。",
+        "pinyin": "Chǎnpǐn de wàiguān shèjì hěn zhòngyào.",
+        "en": "Ürünün dış tasarımı çok önemlidir."
+      },
+      {
+        "zh": "这座建筑外观独特。",
+        "pinyin": "Zhè zuò jiànzhù wàiguān dútè.",
+        "en": "Bu binanın dış görünüşü özgün."
+      },
+      {
+        "zh": "不要只看外观,要看内在。",
+        "pinyin": "Bùyào zhǐ kàn wàiguān, yào kàn nèizài.",
+        "en": "Sadece dış görünüşe bakma, içine de bak."
+      },
+      {
+        "zh": "他很注重外观形象。",
+        "pinyin": "Tā hěn zhùzhòng wàiguān xíngxiàng.",
+        "en": "O dış görünüşüne çok önem verir."
+      }
+    ]
+  },
+  {
+    "id": "w6255",
+    "hanzi": "外国",
+    "pinyin": "wàiguó",
+    "meaning": "yabancı ülke",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他去过很多外国。",
+        "pinyin": "Tā qùguò hěn duō wàiguó.",
+        "en": "O birçok yabancı ülkeye gitti."
+      },
+      {
+        "zh": "她在外国留学。",
+        "pinyin": "Tā zài wàiguó liúxué.",
+        "en": "O yurt dışında okuyor."
+      },
+      {
+        "zh": "这是一部外国电影。",
+        "pinyin": "Zhè shì yī bù wàiguó diànyǐng.",
+        "en": "Bu yabancı bir film."
+      },
+      {
+        "zh": "他有很多外国朋友。",
+        "pinyin": "Tā yǒu hěn duō wàiguó péngyou.",
+        "en": "Onun birçok yabancı arkadaşı var."
+      },
+      {
+        "zh": "外国游客越来越多了。",
+        "pinyin": "Wàiguó yóukè yuè lái yuè duō le.",
+        "en": "Yabancı turist sayısı giderek artıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6256",
+    "hanzi": "外行",
+    "pinyin": "wàiháng",
+    "meaning": "acemi, amatör, işin ehli olmayan",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "我对这方面是个外行。",
+        "pinyin": "Wǒ duì zhè fāngmiàn shì gè wàiháng.",
+        "en": "Bu konuda ben bir acemiyim."
+      },
+      {
+        "zh": "别装懂,你根本是外行。",
+        "pinyin": "Bié zhuāng dǒng, nǐ gēnběn shì wàiháng.",
+        "en": "Anlıyormuş gibi yapma, sen zaten hiç bilmiyorsun."
+      }
+    ]
+  },
+  {
+    "id": "w6257",
+    "hanzi": "外貌",
+    "pinyin": "wàimào",
+    "meaning": "görünüş, dış görünüş",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的外貌很出众。",
+        "pinyin": "Tā de wàimào hěn chūzhòng.",
+        "en": "Onun dış görünüşü çok göz alıcı."
+      },
+      {
+        "zh": "不要以外貌评判一个人。",
+        "pinyin": "Bùyào yǐ wàimào píngpàn yī gè rén.",
+        "en": "Bir insanı görünüşe göre yargılama."
+      },
+      {
+        "zh": "他的外貌和性格完全不同。",
+        "pinyin": "Tā de wàimào hé xìnggé wánquán bùtóng.",
+        "en": "Onun dış görünüşü ve karakteri tamamen farklı."
+      },
+      {
+        "zh": "岁月改变了她的外貌。",
+        "pinyin": "Suìyuè gǎibiànle tā de wàimào.",
+        "en": "Zaman onun görünüşünü değiştirdi."
+      },
+      {
+        "zh": "外貌并不能代表内心。",
+        "pinyin": "Wàimào bìng bùnéng dàibiǎo nèixīn.",
+        "en": "Dış görünüş iç dünyayı temsil etmez."
+      }
+    ]
+  },
+  {
+    "id": "w6258",
+    "hanzi": "外面",
+    "pinyin": "wàimian",
+    "meaning": "dış yüz; dışarı, dışarıda",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "外面在下雨。",
+        "pinyin": "Wàimian zài xiàyǔ.",
+        "en": "Dışarıda yağmur yağıyor."
+      },
+      {
+        "zh": "孩子们在外面玩。",
+        "pinyin": "Háizimen zài wàimian wán.",
+        "en": "Çocuklar dışarıda oynuyor."
+      },
+      {
+        "zh": "请把垃圾放在外面。",
+        "pinyin": "Qǐng bǎ lājī fàng zài wàimian.",
+        "en": "Lütfen çöpü dışarıya koy."
+      },
+      {
+        "zh": "外面很冷,穿上外套吧。",
+        "pinyin": "Wàimian hěn lěng, chuān shàng wàitào ba.",
+        "en": "Dışarısı çok soğuk, montunu giy."
+      },
+      {
+        "zh": "他现在在外面等你。",
+        "pinyin": "Tā xiànzài zài wàimian děng nǐ.",
+        "en": "O şu anda dışarıda seni bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w6259",
+    "hanzi": "外套",
+    "pinyin": "wàitào",
+    "meaning": "palto, mont",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "天冷了,穿上外套吧。",
+        "pinyin": "Tiān lěng le, chuān shàng wàitào ba.",
+        "en": "Hava soğudu, montunu giy."
+      },
+      {
+        "zh": "他把外套挂在衣架上。",
+        "pinyin": "Tā bǎ wàitào guà zài yījià shàng.",
+        "en": "O paltosunu askıya astı."
+      },
+      {
+        "zh": "这件外套很暖和。",
+        "pinyin": "Zhè jiàn wàitào hěn nuǎnhuo.",
+        "en": "Bu mont çok sıcak tutuyor."
+      },
+      {
+        "zh": "她买了一件新外套。",
+        "pinyin": "Tā mǎile yī jiàn xīn wàitào.",
+        "en": "O yeni bir mont satın aldı."
+      },
+      {
+        "zh": "请把外套脱下来。",
+        "pinyin": "Qǐng bǎ wàitào tuō xiàlai.",
+        "en": "Lütfen montunu çıkar."
+      }
+    ]
+  },
+  {
+    "id": "w6260",
+    "hanzi": "外语",
+    "pinyin": "wàiyǔ",
+    "meaning": "yabancı dil",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "学习外语很有用。",
+        "pinyin": "Xuéxí wàiyǔ hěn yǒuyòng.",
+        "en": "Yabancı dil öğrenmek çok faydalı."
+      },
+      {
+        "zh": "她会说三种外语。",
+        "pinyin": "Tā huì shuō sān zhǒng wàiyǔ.",
+        "en": "O üç yabancı dil konuşabiliyor."
+      },
+      {
+        "zh": "他在大学学的是外语专业。",
+        "pinyin": "Tā zài dàxué xué de shì wàiyǔ zhuānyè.",
+        "en": "O üniversitede yabancı dil bölümü okudu."
+      },
+      {
+        "zh": "学好外语需要长期坚持。",
+        "pinyin": "Xuéhǎo wàiyǔ xūyào chángqī jiānchí.",
+        "en": "Yabancı dili iyi öğrenmek uzun süreli ısrar gerektirir."
+      },
+      {
+        "zh": "这所学校提供多种外语课程。",
+        "pinyin": "Zhè suǒ xuéxiào tígōng duō zhǒng wàiyǔ kèchéng.",
+        "en": "Bu okul birçok yabancı dil dersi sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6261",
+    "hanzi": "完备",
+    "pinyin": "wánbèi",
+    "meaning": "tam, eksiksiz, kusursuz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这套设备非常完备。",
+        "pinyin": "Zhè tào shèbèi fēicháng wánbèi.",
+        "en": "Bu ekipman seti çok eksiksiz."
+      },
+      {
+        "zh": "法律制度还不够完备。",
+        "pinyin": "Fǎlǜ zhìdù hái búgòu wánbèi.",
+        "en": "Hukuk sistemi henüz yeterince tam değil."
+      }
+    ]
+  },
+  {
+    "id": "w6262",
+    "hanzi": "完毕",
+    "pinyin": "wánbì",
+    "meaning": "bitirmek, tamamlamak, sona erdirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "工作已经完毕了。",
+        "pinyin": "Gōngzuò yǐjīng wánbì le.",
+        "en": "İş çoktan tamamlandı."
+      },
+      {
+        "zh": "手续办理完毕后即可离开。",
+        "pinyin": "Shǒuxù bànlǐ wánbì hòu jí kě líkāi.",
+        "en": "İşlemler tamamlandıktan sonra ayrılabilirsiniz."
+      }
+    ]
   }
 ]

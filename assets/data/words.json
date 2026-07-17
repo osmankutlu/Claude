@@ -217348,5 +217348,968 @@
         "en": "Dedektif ipucuna dayanarak soruşturma başlattı."
       }
     ]
+  },
+  {
+    "id": "w6515",
+    "hanzi": "相互",
+    "pinyin": "xiānghù",
+    "meaning": "karşılıklı, birbirine",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "同事之间要相互帮助。",
+        "pinyin": "Tóngshì zhījiān yào xiānghù bāngzhù.",
+        "en": "İş arkadaşları birbirine yardım etmeli."
+      },
+      {
+        "zh": "两个国家相互合作。",
+        "pinyin": "Liǎng gè guójiā xiānghù hézuò.",
+        "en": "İki ülke karşılıklı olarak işbirliği yapıyor."
+      },
+      {
+        "zh": "他们相互理解,相互尊重。",
+        "pinyin": "Tāmen xiānghù lǐjiě, xiānghù zūnzhòng.",
+        "en": "Onlar birbirlerini anlıyor ve saygı gösteriyorlar."
+      },
+      {
+        "zh": "朋友之间应该相互信任。",
+        "pinyin": "Péngyou zhījiān yīnggāi xiānghù xìnrèn.",
+        "en": "Arkadaşlar arasında karşılıklı güven olmalı."
+      },
+      {
+        "zh": "这两件事相互关联。",
+        "pinyin": "Zhè liǎng jiàn shì xiānghù guānlián.",
+        "en": "Bu iki olay birbiriyle bağlantılı."
+      }
+    ]
+  },
+  {
+    "id": "w6516",
+    "hanzi": "相识",
+    "pinyin": "xiāngshí",
+    "meaning": "tanışmak, tanıdık olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "我们是多年的相识。",
+        "pinyin": "Wǒmen shì duō nián de xiāngshí.",
+        "en": "Biz yıllardır tanışıyoruz."
+      },
+      {
+        "zh": "他们在大学时相识。",
+        "pinyin": "Tāmen zài dàxué shí xiāngshí.",
+        "en": "Onlar üniversitede tanıştılar."
+      },
+      {
+        "zh": "两人一见如故,相识恨晚。",
+        "pinyin": "Liǎng rén yī jiàn rú gù, xiāngshí hèn wǎn.",
+        "en": "İkisi ilk görüşte kanı kaynadı, keşke daha önce tanışsalardı."
+      },
+      {
+        "zh": "我们是通过朋友相识的。",
+        "pinyin": "Wǒmen shì tōngguò péngyou xiāngshí de.",
+        "en": "Biz bir arkadaş aracılığıyla tanıştık."
+      },
+      {
+        "zh": "他和我父亲是老相识。",
+        "pinyin": "Tā hé wǒ fùqīn shì lǎo xiāngshí.",
+        "en": "O babamla eski tanıdıklar."
+      }
+    ]
+  },
+  {
+    "id": "w6517",
+    "hanzi": "相应",
+    "pinyin": "xiāngyìng",
+    "meaning": "karşılık gelen, uygun, ilgili",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "政府采取了相应的措施。",
+        "pinyin": "Zhèngfǔ cǎiqǔle xiāngyìng de cuòshī.",
+        "en": "Hükümet buna uygun önlemler aldı."
+      },
+      {
+        "zh": "价格上涨,工资也应相应提高。",
+        "pinyin": "Jiàgé shàngzhǎng, gōngzī yě yīng xiāngyìng tígāo.",
+        "en": "Fiyatlar artıyor, maaşların da buna uygun şekilde artması gerekir."
+      },
+      {
+        "zh": "他调整了相应的计划。",
+        "pinyin": "Tā tiáozhěngle xiāngyìng de jìhuà.",
+        "en": "O ilgili planı düzenledi."
+      },
+      {
+        "zh": "每个岗位都有相应的要求。",
+        "pinyin": "Měi gè gǎngwèi dōu yǒu xiāngyìng de yāoqiú.",
+        "en": "Her pozisyonun kendine ait gereklilikleri vardır."
+      },
+      {
+        "zh": "他为这个问题提出了相应的解决方案。",
+        "pinyin": "Tā wèi zhège wèntí tíchūle xiāngyìng de jiějué fāng'àn.",
+        "en": "O bu sorun için uygun bir çözüm önerisi sundu."
+      }
+    ]
+  },
+  {
+    "id": "w6518",
+    "hanzi": "相遇",
+    "pinyin": "xiāngyù",
+    "meaning": "tesadüfen karşılaşmak, rastlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们在旅行中相遇了。",
+        "pinyin": "Tāmen zài lǚxíng zhōng xiāngyù le.",
+        "en": "Onlar seyahat sırasında karşılaştılar."
+      },
+      {
+        "zh": "命运让我们相遇。",
+        "pinyin": "Mìngyùn ràng wǒmen xiāngyù.",
+        "en": "Kader bizi bir araya getirdi."
+      },
+      {
+        "zh": "多年后他们又意外相遇。",
+        "pinyin": "Duō nián hòu tāmen yòu yìwài xiāngyù.",
+        "en": "Yıllar sonra tekrar beklenmedik bir şekilde karşılaştılar."
+      },
+      {
+        "zh": "我们在图书馆相遇。",
+        "pinyin": "Wǒmen zài túshūguǎn xiāngyù.",
+        "en": "Biz kütüphanede karşılaştık."
+      },
+      {
+        "zh": "第一次相遇,我就喜欢上了她。",
+        "pinyin": "Dìyī cì xiāngyù, wǒ jiù xǐhuān shàngle tā.",
+        "en": "İlk karşılaşmamızda ona aşık oldum."
+      }
+    ]
+  },
+  {
+    "id": "w6519",
+    "hanzi": "乡村",
+    "pinyin": "xiāngcūn",
+    "meaning": "kırsal alan, köy",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他在乡村长大。",
+        "pinyin": "Tā zài xiāngcūn zhǎngdà.",
+        "en": "O kırsal bir bölgede büyüdü."
+      },
+      {
+        "zh": "乡村的空气很新鲜。",
+        "pinyin": "Xiāngcūn de kōngqì hěn xīnxiān.",
+        "en": "Kırsal bölgenin havası çok temiz."
+      },
+      {
+        "zh": "这个乡村风景优美。",
+        "pinyin": "Zhège xiāngcūn fēngjǐng yōuměi.",
+        "en": "Bu köyün manzarası çok güzel."
+      },
+      {
+        "zh": "越来越多的人搬到乡村生活。",
+        "pinyin": "Yuè lái yuè duō de rén bāndào xiāngcūn shēnghuó.",
+        "en": "Giderek daha fazla insan kırsal alana taşınıp yaşıyor."
+      },
+      {
+        "zh": "乡村振兴是国家的重要战略。",
+        "pinyin": "Xiāngcūn zhènxīng shì guójiā de zhòngyào zhànlüè.",
+        "en": "Kırsal kalkınma ülkenin önemli bir stratejisidir."
+      }
+    ]
+  },
+  {
+    "id": "w6520",
+    "hanzi": "乡下",
+    "pinyin": "xiāngxia",
+    "meaning": "köy, kırsal bölge",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "我爷爷住在乡下。",
+        "pinyin": "Wǒ yéye zhù zài xiāngxia.",
+        "en": "Dedem köyde yaşıyor."
+      },
+      {
+        "zh": "假期我们去乡下玩了。",
+        "pinyin": "Jiàqī wǒmen qù xiāngxia wán le.",
+        "en": "Tatilde köye gidip eğlendik."
+      },
+      {
+        "zh": "乡下的生活很宁静。",
+        "pinyin": "Xiāngxia de shēnghuó hěn níngjìng.",
+        "en": "Köydeki yaşam çok sakin."
+      },
+      {
+        "zh": "他从乡下来到城市工作。",
+        "pinyin": "Tā cóng xiāngxia láidào chéngshì gōngzuò.",
+        "en": "O köyden şehre çalışmaya geldi."
+      },
+      {
+        "zh": "乡下的空气比城市清新。",
+        "pinyin": "Xiāngxia de kōngqì bǐ chéngshì qīngxīn.",
+        "en": "Köyün havası şehirden daha temiz."
+      }
+    ]
+  },
+  {
+    "id": "w6521",
+    "hanzi": "箱",
+    "pinyin": "xiāng",
+    "meaning": "sandık, kutu, bavul",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他把书放进箱里。",
+        "pinyin": "Tā bǎ shū fàng jìn xiāng lǐ.",
+        "en": "O kitapları sandığa koydu."
+      },
+      {
+        "zh": "这个箱很重。",
+        "pinyin": "Zhège xiāng hěn zhòng.",
+        "en": "Bu kutu çok ağır."
+      },
+      {
+        "zh": "冰箱里没有食物了。",
+        "pinyin": "Bīngxiāng lǐ méiyǒu shíwù le.",
+        "en": "Buzdolabında yiyecek kalmadı."
+      },
+      {
+        "zh": "他打开箱子拿出衣服。",
+        "pinyin": "Tā dǎkāi xiāngzi náchū yīfu.",
+        "en": "O sandığı açıp kıyafet çıkardı."
+      },
+      {
+        "zh": "工人们搬了几个大箱。",
+        "pinyin": "Gōngrénmen bānle jǐ gè dà xiāng.",
+        "en": "İşçiler birkaç büyük sandık taşıdı."
+      }
+    ]
+  },
+  {
+    "id": "w6522",
+    "hanzi": "香肠",
+    "pinyin": "xiāngcháng",
+    "meaning": "sosis",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "早餐我吃了两根香肠。",
+        "pinyin": "Zǎocān wǒ chīle liǎng gēn xiāngcháng.",
+        "en": "Kahvaltıda iki sosis yedim."
+      },
+      {
+        "zh": "他喜欢烤香肠。",
+        "pinyin": "Tā xǐhuān kǎo xiāngcháng.",
+        "en": "O sosis ızgarasını sever."
+      },
+      {
+        "zh": "这种香肠味道很特别。",
+        "pinyin": "Zhè zhǒng xiāngcháng wèidao hěn tèbié.",
+        "en": "Bu sosisin tadı çok özel."
+      },
+      {
+        "zh": "妈妈买了一些香肠做午餐。",
+        "pinyin": "Māma mǎile yīxiē xiāngcháng zuò wǔcān.",
+        "en": "Annem öğle yemeği için biraz sosis aldı."
+      },
+      {
+        "zh": "香肠可以搭配面包一起吃。",
+        "pinyin": "Xiāngcháng kěyǐ dāpèi miànbāo yīqǐ chī.",
+        "en": "Sosis ekmekle birlikte yenebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6523",
+    "hanzi": "香水",
+    "pinyin": "xiāngshuǐ",
+    "meaning": "parfüm",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她今天喷了新买的香水。",
+        "pinyin": "Tā jīntiān pēnle xīn mǎi de xiāngshuǐ.",
+        "en": "O bugün yeni aldığı parfümü sıktı."
+      },
+      {
+        "zh": "这瓶香水的味道很好闻。",
+        "pinyin": "Zhè píng xiāngshuǐ de wèidao hěn hǎowén.",
+        "en": "Bu şişe parfümün kokusu çok güzel."
+      },
+      {
+        "zh": "他送了女朋友一瓶香水。",
+        "pinyin": "Tā sòngle nǚpéngyou yī píng xiāngshuǐ.",
+        "en": "O kız arkadaşına bir şişe parfüm hediye etti."
+      },
+      {
+        "zh": "商场里有很多香水品牌。",
+        "pinyin": "Shāngchǎng lǐ yǒu hěn duō xiāngshuǐ pǐnpái.",
+        "en": "AVM'de birçok parfüm markası var."
+      },
+      {
+        "zh": "她喜欢清淡一点的香水。",
+        "pinyin": "Tā xǐhuān qīngdàn yīdiǎn de xiāngshuǐ.",
+        "en": "O daha hafif kokulu parfümleri sever."
+      }
+    ]
+  },
+  {
+    "id": "w6524",
+    "hanzi": "香烟",
+    "pinyin": "xiāngyān",
+    "meaning": "sigara",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他每天抽一包香烟。",
+        "pinyin": "Tā měitiān chōu yī bāo xiāngyān.",
+        "en": "O her gün bir paket sigara içiyor."
+      },
+      {
+        "zh": "医生建议他戒掉香烟。",
+        "pinyin": "Yīshēng jiànyì tā jièdiào xiāngyān.",
+        "en": "Doktor sigarayı bırakmasını önerdi."
+      },
+      {
+        "zh": "商店里卖各种品牌的香烟。",
+        "pinyin": "Shāngdiàn lǐ mài gèzhǒng pǐnpái de xiāngyān.",
+        "en": "Dükkanda çeşitli marka sigaralar satılıyor."
+      },
+      {
+        "zh": "他把香烟递给朋友一根。",
+        "pinyin": "Tā bǎ xiāngyān dì gěi péngyou yī gēn.",
+        "en": "O arkadaşına bir sigara uzattı."
+      },
+      {
+        "zh": "长期吸香烟对肺不好。",
+        "pinyin": "Chángqí xī xiāngyān duì fèi bù hǎo.",
+        "en": "Uzun süre sigara içmek akciğerlere zararlıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6525",
+    "hanzi": "详",
+    "pinyin": "xiáng",
+    "meaning": "detaylı, ayrıntılı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "请详加说明。",
+        "pinyin": "Qǐng xiáng jiā shuōmíng.",
+        "en": "Lütfen ayrıntılı olarak açıklayın."
+      },
+      {
+        "zh": "他的报告写得十分详尽。",
+        "pinyin": "Tā de bàogào xiě de shífēn xiángjìn.",
+        "en": "Onun raporu son derece ayrıntılı yazılmış."
+      }
+    ]
+  },
+  {
+    "id": "w6526",
+    "hanzi": "想法",
+    "pinyin": "xiǎngfa",
+    "meaning": "fikir, düşünce",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我有一个新想法。",
+        "pinyin": "Wǒ yǒu yī gè xīn xiǎngfa.",
+        "en": "Benim yeni bir fikrim var."
+      },
+      {
+        "zh": "他的想法很有创意。",
+        "pinyin": "Tā de xiǎngfa hěn yǒu chuàngyì.",
+        "en": "Onun fikri çok yaratıcı."
+      },
+      {
+        "zh": "请说说你的想法。",
+        "pinyin": "Qǐng shuōshuō nǐ de xiǎngfa.",
+        "en": "Lütfen fikrini söyle."
+      },
+      {
+        "zh": "我们的想法不太一样。",
+        "pinyin": "Wǒmen de xiǎngfa bù tài yīyàng.",
+        "en": "Bizim fikirlerimiz pek aynı değil."
+      },
+      {
+        "zh": "她改变了自己的想法。",
+        "pinyin": "Tā gǎibiànle zìjǐ de xiǎngfa.",
+        "en": "O kendi fikrini değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6527",
+    "hanzi": "想起",
+    "pinyin": "xiǎngqǐ",
+    "meaning": "hatırlamak, aklına gelmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我突然想起了他的名字。",
+        "pinyin": "Wǒ tūrán xiǎngqǐle tā de míngzi.",
+        "en": "Aniden onun ismini hatırladım."
+      },
+      {
+        "zh": "这首歌让我想起了童年。",
+        "pinyin": "Zhè shǒu gē ràng wǒ xiǎngqǐle tóngnián.",
+        "en": "Bu şarkı bana çocukluğumu hatırlattı."
+      },
+      {
+        "zh": "我想起来了,我们以前见过面。",
+        "pinyin": "Wǒ xiǎng qǐlai le, wǒmen yǐqián jiànguò miàn.",
+        "en": "Hatırladım, daha önce tanışmıştık."
+      },
+      {
+        "zh": "他想起了忘记带钥匙的事。",
+        "pinyin": "Tā xiǎngqǐle wàngjì dài yàoshi de shì.",
+        "en": "O anahtarı almayı unuttuğunu hatırladı."
+      },
+      {
+        "zh": "每次想起那件事我都很难过。",
+        "pinyin": "Měi cì xiǎngqǐ nà jiàn shì wǒ dōu hěn nánguò.",
+        "en": "O olayı her hatırladığımda çok üzülüyorum."
+      }
+    ]
+  },
+  {
+    "id": "w6528",
+    "hanzi": "响亮",
+    "pinyin": "xiǎngliàng",
+    "meaning": "gür ve net (ses), yüksek sesli",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的声音很响亮。",
+        "pinyin": "Tā de shēngyīn hěn xiǎngliàng.",
+        "en": "Onun sesi çok gür."
+      },
+      {
+        "zh": "她响亮地回答了问题。",
+        "pinyin": "Tā xiǎngliàng de huídále wèntí.",
+        "en": "O soruyu yüksek sesle yanıtladı."
+      },
+      {
+        "zh": "这个口号很响亮。",
+        "pinyin": "Zhège kǒuhào hěn xiǎngliàng.",
+        "en": "Bu slogan çok etkileyici ve gür."
+      },
+      {
+        "zh": "钟声响亮地传遍全城。",
+        "pinyin": "Zhōngshēng xiǎngliàng de chuánbiàn quánchéng.",
+        "en": "Çan sesi tüm şehre gürce yayıldı."
+      },
+      {
+        "zh": "他有一个响亮的名字。",
+        "pinyin": "Tā yǒu yī gè xiǎngliàng de míngzi.",
+        "en": "Onun tanınmış bir ismi var."
+      }
+    ]
+  },
+  {
+    "id": "w6529",
+    "hanzi": "响声",
+    "pinyin": "xiǎngshēng",
+    "meaning": "ses, gürültü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "外面传来一阵响声。",
+        "pinyin": "Wàimian chuánlái yī zhèn xiǎngshēng.",
+        "en": "Dışarıdan bir ses geldi."
+      },
+      {
+        "zh": "门突然发出响声。",
+        "pinyin": "Mén tūrán fāchū xiǎngshēng.",
+        "en": "Kapı aniden ses çıkardı."
+      },
+      {
+        "zh": "夜里有奇怪的响声。",
+        "pinyin": "Yèli yǒu qíguài de xiǎngshēng.",
+        "en": "Gece garip bir ses vardı."
+      },
+      {
+        "zh": "他听到楼上传来响声。",
+        "pinyin": "Tā tīngdào lóushàng chuánlái xiǎngshēng.",
+        "en": "O üst kattan gelen bir ses duydu."
+      },
+      {
+        "zh": "汽车发出巨大的响声。",
+        "pinyin": "Qìchē fāchū jùdà de xiǎngshēng.",
+        "en": "Araba yüksek bir ses çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w6530",
+    "hanzi": "响应",
+    "pinyin": "xiǎngyìng",
+    "meaning": "yanıt vermek, karşılık vermek, destek vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "大家积极响应了他的号召。",
+        "pinyin": "Dàjiā jījí xiǎngyìngle tā de hàozhào.",
+        "en": "Herkes onun çağrısına aktif olarak yanıt verdi."
+      },
+      {
+        "zh": "政府响应了群众的诉求。",
+        "pinyin": "Zhèngfǔ xiǎngyìngle qúnzhòng de sùqiú.",
+        "en": "Hükümet halkın talebine karşılık verdi."
+      },
+      {
+        "zh": "他号召大家节约用水,得到广泛响应。",
+        "pinyin": "Tā hàozhào dàjiā jiéyuē yòngshuǐ, dédào guǎngfàn xiǎngyìng.",
+        "en": "O herkesi su tasarrufu yapmaya çağırdı ve geniş destek gördü."
+      },
+      {
+        "zh": "我们应该积极响应号召。",
+        "pinyin": "Wǒmen yīnggāi jījí xiǎngyìng hàozhào.",
+        "en": "Çağrıya aktif olarak yanıt vermeliyiz."
+      },
+      {
+        "zh": "这个活动得到了社会的热烈响应。",
+        "pinyin": "Zhège huódòng dédàole shèhuì de rèliè xiǎngyìng.",
+        "en": "Bu etkinlik toplumdan büyük destek gördü."
+      }
+    ]
+  },
+  {
+    "id": "w6531",
+    "hanzi": "向导",
+    "pinyin": "xiàngdǎo",
+    "meaning": "kılavuz, rehber",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "我们雇了一位当地向导。",
+        "pinyin": "Wǒmen gùle yī wèi dāngdì xiàngdǎo.",
+        "en": "Biz yerel bir rehber tuttuk."
+      },
+      {
+        "zh": "向导带我们游览了古城。",
+        "pinyin": "Xiàngdǎo dài wǒmen yóulǎnle gǔchéng.",
+        "en": "Rehber bize eski şehri gezdirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6532",
+    "hanzi": "向来",
+    "pinyin": "xiànglái",
+    "meaning": "her zaman, öteden beri, daima",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他向来很守时。",
+        "pinyin": "Tā xiànglái hěn shǒushí.",
+        "en": "O her zaman dakiktir."
+      },
+      {
+        "zh": "她向来对人很友好。",
+        "pinyin": "Tā xiànglái duì rén hěn yǒuhǎo.",
+        "en": "O her zaman insanlara karşı dostçadır."
+      },
+      {
+        "zh": "他向来不喜欢麻烦别人。",
+        "pinyin": "Tā xiànglái bù xǐhuān máfan biérén.",
+        "en": "O her zaman başkalarını rahatsız etmeyi sevmez."
+      },
+      {
+        "zh": "我向来相信努力会有回报。",
+        "pinyin": "Wǒ xiànglái xiāngxìn nǔlì huì yǒu huíbào.",
+        "en": "Ben her zaman çabanın karşılığını alacağına inanırım."
+      },
+      {
+        "zh": "这个地区向来以美食闻名。",
+        "pinyin": "Zhège dìqū xiànglái yǐ měishí wénmíng.",
+        "en": "Bu bölge her zaman lezzetli yemekleriyle ünlüdür."
+      }
+    ]
+  },
+  {
+    "id": "w6533",
+    "hanzi": "向日葵",
+    "pinyin": "xiàngrìkuí",
+    "meaning": "ayçiçeği",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "田野里种满了向日葵。",
+        "pinyin": "Tiányě lǐ zhòngmǎnle xiàngrìkuí.",
+        "en": "Tarlada baştan başa ayçiçeği ekilmiş."
+      },
+      {
+        "zh": "向日葵总是朝着太阳。",
+        "pinyin": "Xiàngrìkuí zǒngshì cháozhe tàiyáng.",
+        "en": "Ayçiçeği her zaman güneşe döner."
+      },
+      {
+        "zh": "她喜欢在花园里种向日葵。",
+        "pinyin": "Tā xǐhuān zài huāyuán lǐ zhòng xiàngrìkuí.",
+        "en": "O bahçesine ayçiçeği ekmeyi sever."
+      },
+      {
+        "zh": "向日葵籽可以榨油。",
+        "pinyin": "Xiàngrìkuí zǐ kěyǐ zhàyóu.",
+        "en": "Ayçiçeği tohumundan yağ çıkarılabilir."
+      },
+      {
+        "zh": "夏天的向日葵田非常壮观。",
+        "pinyin": "Xiàtiān de xiàngrìkuí tián fēicháng zhuàngguān.",
+        "en": "Yazın ayçiçeği tarlaları oldukça görkemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w6534",
+    "hanzi": "向上",
+    "pinyin": "xiàngshàng",
+    "meaning": "yukarı doğru, yükselmek, ilerlemek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "气球向上飞去。",
+        "pinyin": "Qìqiú xiàngshàng fēiqù.",
+        "en": "Balon yukarı doğru uçtu."
+      },
+      {
+        "zh": "公司业绩持续向上。",
+        "pinyin": "Gōngsī yèjì chíxù xiàngshàng.",
+        "en": "Şirketin performansı sürekli yükseliyor."
+      },
+      {
+        "zh": "他一直努力向上。",
+        "pinyin": "Tā yīzhí nǔlì xiàngshàng.",
+        "en": "O sürekli ilerlemek için çabalıyor."
+      },
+      {
+        "zh": "植物向上生长。",
+        "pinyin": "Zhíwù xiàngshàng shēngzhǎng.",
+        "en": "Bitkiler yukarı doğru büyür."
+      },
+      {
+        "zh": "年轻人应该积极向上。",
+        "pinyin": "Niánqīngrén yīnggāi jījí xiàngshàng.",
+        "en": "Gençler ilerlemek için istekli olmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6535",
+    "hanzi": "向往",
+    "pinyin": "xiàngwǎng",
+    "meaning": "özlemle beklemek, arzulamak, can atmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他向往自由的生活。",
+        "pinyin": "Tā xiàngwǎng zìyóu de shēnghuó.",
+        "en": "O özgür bir yaşamı arzuluyor."
+      },
+      {
+        "zh": "很多人向往大城市的繁华。",
+        "pinyin": "Hěn duō rén xiàngwǎng dà chéngshì de fánhuá.",
+        "en": "Birçok kişi büyük şehirlerin canlılığını arzuluyor."
+      },
+      {
+        "zh": "她一直向往着去国外旅行。",
+        "pinyin": "Tā yīzhí xiàngwǎngzhe qù guówài lǚxíng.",
+        "en": "O hep yurt dışına seyahat etmeyi arzuladı."
+      },
+      {
+        "zh": "孩子们向往着长大成人。",
+        "pinyin": "Háizimen xiàngwǎngzhe zhǎngdà chéngrén.",
+        "en": "Çocuklar büyümeyi dört gözle bekliyor."
+      },
+      {
+        "zh": "他向往一种简单的生活方式。",
+        "pinyin": "Tā xiàngwǎng yī zhǒng jiǎndān de shēnghuó fāngshì.",
+        "en": "O basit bir yaşam tarzını arzuluyor."
+      }
+    ]
+  },
+  {
+    "id": "w6536",
+    "hanzi": "象",
+    "pinyin": "xiàng",
+    "meaning": "fil; görünüş, şekil",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "动物园里有一头大象。",
+        "pinyin": "Dòngwùyuán lǐ yǒu yī tóu dàxiàng.",
+        "en": "Hayvanat bahçesinde bir fil var."
+      },
+      {
+        "zh": "他的想法气象万千。",
+        "pinyin": "Tā de xiǎngfǎ qìxiàng wànqiān.",
+        "en": "Onun fikirleri son derece çeşitli."
+      },
+      {
+        "zh": "这个现象值得研究。",
+        "pinyin": "Zhège xiànxiàng zhídé yánjiū.",
+        "en": "Bu olgu araştırmaya değer."
+      },
+      {
+        "zh": "他给人的印象很好。",
+        "pinyin": "Tā gěi rén de yìnxiàng hěn hǎo.",
+        "en": "O insanlara iyi bir izlenim bırakıyor."
+      },
+      {
+        "zh": "天气预报显示今天有雾象。",
+        "pinyin": "Tiānqì yùbào xiǎnshì jīntiān yǒu wù xiàng.",
+        "en": "Hava durumu bugün sisli olacağını gösteriyor."
+      }
+    ]
+  },
+  {
+    "id": "w6537",
+    "hanzi": "象牙",
+    "pinyin": "xiàngyá",
+    "meaning": "fildişi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "象牙制品被禁止交易。",
+        "pinyin": "Xiàngyá zhìpǐn bèi jìnzhǐ jiāoyì.",
+        "en": "Fildişi ürünlerinin ticareti yasaklanmıştır."
+      },
+      {
+        "zh": "这件雕刻品是用象牙做的。",
+        "pinyin": "Zhè jiàn diāokèpǐn shì yòng xiàngyá zuò de.",
+        "en": "Bu oyma eser fildişinden yapılmıştır."
+      },
+      {
+        "zh": "偷猎者为了象牙猎杀大象。",
+        "pinyin": "Tōulièzhě wèile xiàngyá lièshā dàxiàng.",
+        "en": "Kaçak avcılar fildişi için fil avlıyor."
+      },
+      {
+        "zh": "象牙的颜色是乳白色的。",
+        "pinyin": "Xiàngyá de yánsè shì rǔbáisè de.",
+        "en": "Fildişinin rengi krem beyazdır."
+      },
+      {
+        "zh": "许多国家已经禁止象牙贸易。",
+        "pinyin": "Xǔduō guójiā yǐjīng jìnzhǐ xiàngyá màoyì.",
+        "en": "Birçok ülke fildişi ticaretini yasakladı."
+      }
+    ]
+  },
+  {
+    "id": "w6538",
+    "hanzi": "相册",
+    "pinyin": "xiàngcè",
+    "meaning": "fotoğraf albümü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她翻看着旧相册。",
+        "pinyin": "Tā fānkànzhe jiù xiàngcè.",
+        "en": "O eski fotoğraf albümünü karıştırıyor."
+      },
+      {
+        "zh": "这本相册记录了我们的婚礼。",
+        "pinyin": "Zhè běn xiàngcè jìlùle wǒmen de hūnlǐ.",
+        "en": "Bu fotoğraf albümü düğünümüzü kaydetti."
+      },
+      {
+        "zh": "他把照片整理进了相册。",
+        "pinyin": "Tā bǎ zhàopiàn zhěnglǐ jìnle xiàngcè.",
+        "en": "O fotoğrafları albüme düzenledi."
+      },
+      {
+        "zh": "相册里有很多童年的照片。",
+        "pinyin": "Xiàngcè lǐ yǒu hěn duō tóngnián de zhàopiàn.",
+        "en": "Albümde birçok çocukluk fotoğrafı var."
+      },
+      {
+        "zh": "她做了一本电子相册。",
+        "pinyin": "Tā zuòle yī běn diànzǐ xiàngcè.",
+        "en": "O bir dijital fotoğraf albümü hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w6539",
+    "hanzi": "相机",
+    "pinyin": "xiàngjī",
+    "meaning": "fotoğraf makinesi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他买了一台新相机。",
+        "pinyin": "Tā mǎile yī tái xīn xiàngjī.",
+        "en": "O yeni bir fotoğraf makinesi satın aldı."
+      },
+      {
+        "zh": "旅行时她总是带着相机。",
+        "pinyin": "Lǚxíng shí tā zǒngshì dàizhe xiàngjī.",
+        "en": "Seyahat ederken o hep fotoğraf makinesini yanında taşır."
+      },
+      {
+        "zh": "这台相机的画质很清晰。",
+        "pinyin": "Zhè tái xiàngjī de huàzhì hěn qīngxī.",
+        "en": "Bu fotoğraf makinesinin görüntü kalitesi çok net."
+      },
+      {
+        "zh": "他用相机拍下了美丽的风景。",
+        "pinyin": "Tā yòng xiàngjī pāixiàle měilì de fēngjǐng.",
+        "en": "O fotoğraf makinesiyle güzel manzarayı çekti."
+      },
+      {
+        "zh": "相机没电了,得充电。",
+        "pinyin": "Xiàngjī méi diàn le, děi chōngdiàn.",
+        "en": "Fotoğraf makinesinin pili bitti, şarj etmek gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6540",
+    "hanzi": "相貌",
+    "pinyin": "xiàngmào",
+    "meaning": "görünüş, yüz hatları",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他相貌堂堂。",
+        "pinyin": "Tā xiàngmào tángtáng.",
+        "en": "Onun görünüşü çok gösterişli."
+      },
+      {
+        "zh": "她相貌出众,气质优雅。",
+        "pinyin": "Tā xiàngmào chūzhòng, qìzhì yōuyǎ.",
+        "en": "Onun görünüşü göz alıcı, tavırları zarif."
+      }
+    ]
+  },
+  {
+    "id": "w6541",
+    "hanzi": "消除",
+    "pinyin": "xiāochú",
+    "meaning": "ortadan kaldırmak, gidermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "运动可以消除疲劳。",
+        "pinyin": "Yùndòng kěyǐ xiāochú píláo.",
+        "en": "Egzersiz yorgunluğu giderebilir."
+      },
+      {
+        "zh": "我们要消除误解。",
+        "pinyin": "Wǒmen yào xiāochú wùjiě.",
+        "en": "Yanlış anlaşılmayı ortadan kaldırmalıyız."
+      },
+      {
+        "zh": "这种药能消除炎症。",
+        "pinyin": "Zhè zhǒng yào néng xiāochú yánzhèng.",
+        "en": "Bu ilaç iltihabı giderebilir."
+      },
+      {
+        "zh": "政府努力消除贫困。",
+        "pinyin": "Zhèngfǔ nǔlì xiāochú pínkùn.",
+        "en": "Hükümet yoksulluğu ortadan kaldırmaya çalışıyor."
+      },
+      {
+        "zh": "他的话消除了大家的疑虑。",
+        "pinyin": "Tā de huà xiāochúle dàjiā de yílǜ.",
+        "en": "Onun sözleri herkesin şüphelerini giderdi."
+      }
+    ]
+  },
+  {
+    "id": "w6542",
+    "hanzi": "消毒",
+    "pinyin": "xiāodú",
+    "meaning": "dezenfekte etmek, mikroptan arındırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "护士给伤口消毒。",
+        "pinyin": "Hùshi gěi shāngkǒu xiāodú.",
+        "en": "Hemşire yarayı dezenfekte ediyor."
+      },
+      {
+        "zh": "请用酒精给手消毒。",
+        "pinyin": "Qǐng yòng jiǔjīng gěi shǒu xiāodú.",
+        "en": "Lütfen elleri alkolle dezenfekte edin."
+      },
+      {
+        "zh": "餐具需要经常消毒。",
+        "pinyin": "Cānjù xūyào jīngcháng xiāodú.",
+        "en": "Mutfak eşyaları sık sık dezenfekte edilmelidir."
+      },
+      {
+        "zh": "医院对所有器械进行消毒。",
+        "pinyin": "Yīyuàn duì suǒyǒu qìxiè jìnxíng xiāodú.",
+        "en": "Hastane tüm aletleri dezenfekte ediyor."
+      },
+      {
+        "zh": "婴儿用品需要严格消毒。",
+        "pinyin": "Yīng'ér yòngpǐn xūyào yángé xiāodú.",
+        "en": "Bebek eşyalarının titizlikle dezenfekte edilmesi gerekir."
+      }
+    ]
   }
 ]

@@ -199057,5 +199057,788 @@
         "en": "İşçiler bir bayrak direği diktiler."
       }
     ]
+  },
+  {
+    "id": "w5869",
+    "hanzi": "漱口",
+    "pinyin": "shùkǒu",
+    "meaning": "gargara yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "刷牙后要漱口。",
+        "pinyin": "Shuāyá hòu yào shùkǒu.",
+        "en": "Diş fırçaladıktan sonra gargara yapmak gerekir."
+      },
+      {
+        "zh": "他用盐水漱口来缓解喉咙痛。",
+        "pinyin": "Tā yòng yánshuǐ shùkǒu lái huǎnjiě hóulóng tòng.",
+        "en": "Boğaz ağrısını hafifletmek için tuzlu suyla gargara yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w5870",
+    "hanzi": "术",
+    "pinyin": "shù",
+    "meaning": "sanat, teknik, yöntem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "医术高明的医生受人尊敬。",
+        "pinyin": "Yīshù gāomíng de yīshēng shòurén zūnjìng.",
+        "en": "Yüksek tıbbi bilgiye sahip doktorlar saygı görür."
+      },
+      {
+        "zh": "他精通武术。",
+        "pinyin": "Tā jīngtōng wǔshù.",
+        "en": "Dövüş sanatlarında ustadır."
+      },
+      {
+        "zh": "这是一门古老的技术。",
+        "pinyin": "Zhè shì yì mén gǔlǎo de jìshù.",
+        "en": "Bu köklü bir tekniktir."
+      },
+      {
+        "zh": "他掌握了这门绝技。",
+        "pinyin": "Tā zhǎngwò le zhè mén juéjì.",
+        "en": "Bu eşsiz beceriyi elde etti."
+      },
+      {
+        "zh": "学术研究需要严谨的态度。",
+        "pinyin": "Xuéshù yánjiū xūyào yánjǐn de tàidù.",
+        "en": "Akademik araştırma titiz bir yaklaşım gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5871",
+    "hanzi": "术语",
+    "pinyin": "shùyǔ",
+    "meaning": "terim",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这本书里有很多专业术语。",
+        "pinyin": "Zhè běn shū lǐ yǒu hěnduō zhuānyè shùyǔ.",
+        "en": "Bu kitapta birçok teknik terim var."
+      },
+      {
+        "zh": "医学术语对普通人来说比较难懂。",
+        "pinyin": "Yīxué shùyǔ duì pǔtōngrén láishuō bǐjiào nándǒng.",
+        "en": "Tıbbi terimler sıradan insanlar için anlaşılması zor."
+      }
+    ]
+  },
+  {
+    "id": "w5872",
+    "hanzi": "述说",
+    "pinyin": "shùshuō",
+    "meaning": "anlatmak, ifade etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他向朋友述说了自己的遭遇。",
+        "pinyin": "Tā xiàng péngyou shùshuō le zìjǐ de zāoyù.",
+        "en": "Kendi başına gelenleri arkadaşına anlattı."
+      },
+      {
+        "zh": "她详细述说了事情的经过。",
+        "pinyin": "Tā xiángxì shùshuō le shìqing de jīngguò.",
+        "en": "Olayın gelişimini ayrıntılı bir şekilde anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w5873",
+    "hanzi": "束",
+    "pinyin": "shù",
+    "meaning": "bağlamak, düğümlemek; demet",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她买了一束鲜花。",
+        "pinyin": "Tā mǎi le yí shù xiānhuā.",
+        "en": "Bir demet çiçek satın aldı."
+      },
+      {
+        "zh": "他把头发束了起来。",
+        "pinyin": "Tā bǎ tóufa shù le qǐlái.",
+        "en": "Saçını bağladı."
+      },
+      {
+        "zh": "这项活动圆满结束了。",
+        "pinyin": "Zhè xiàng huódòng yuánmǎn jiéshù le.",
+        "en": "Bu etkinlik başarıyla sona erdi."
+      },
+      {
+        "zh": "他手里拿着一束光。",
+        "pinyin": "Tā shǒu lǐ názhe yí shù guāng.",
+        "en": "Elinde bir ışık demeti tutuyor."
+      },
+      {
+        "zh": "这堂课到此结束。",
+        "pinyin": "Zhè táng kè dàocǐ jiéshù.",
+        "en": "Bu ders burada sona erdi."
+      }
+    ]
+  },
+  {
+    "id": "w5874",
+    "hanzi": "束缚",
+    "pinyin": "shùfù",
+    "meaning": "bağlamak, kısıtlamak, zincirlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不愿被传统观念束缚。",
+        "pinyin": "Tā bú yuàn bèi chuántǒng guānniàn shùfù.",
+        "en": "Geleneksel düşüncelerle sınırlandırılmak istemiyor."
+      },
+      {
+        "zh": "这些规定束缚了创造力。",
+        "pinyin": "Zhèxiē guīdìng shùfù le chuàngzàolì.",
+        "en": "Bu kurallar yaratıcılığı kısıtladı."
+      }
+    ]
+  },
+  {
+    "id": "w5875",
+    "hanzi": "刷新",
+    "pinyin": "shuāxīn",
+    "meaning": "yenilemek, rekoru kırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他刷新了世界纪录。",
+        "pinyin": "Tā shuāxīn le shìjiè jìlù.",
+        "en": "Dünya rekorunu kırdı."
+      },
+      {
+        "zh": "请刷新页面查看最新消息。",
+        "pinyin": "Qǐng shuāxīn yèmiàn chákàn zuìxīn xiāoxi.",
+        "en": "En son haberleri görmek için sayfayı yenileyin."
+      },
+      {
+        "zh": "这项技术刷新了人们的认知。",
+        "pinyin": "Zhè xiàng jìshù shuāxīn le rénmen de rènzhī.",
+        "en": "Bu teknoloji insanların algısını yeniledi."
+      },
+      {
+        "zh": "股价刷新了历史新高。",
+        "pinyin": "Gǔjià shuāxīn le lìshǐ xīngāo.",
+        "en": "Hisse senedi fiyatı tarihi en yükseğini kırdı."
+      },
+      {
+        "zh": "他每天都会刷新自己的最好成绩。",
+        "pinyin": "Tā měitiān dōu huì shuāxīn zìjǐ de zuìhǎo chéngjì.",
+        "en": "Her gün kendi en iyi başarısını yeniliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5876",
+    "hanzi": "刷子",
+    "pinyin": "shuāzi",
+    "meaning": "fırça",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他用刷子清理鞋子。",
+        "pinyin": "Tā yòng shuāzi qīnglǐ xiézi.",
+        "en": "Fırçayla ayakkabılarını temizliyor."
+      },
+      {
+        "zh": "这把刷子是画画用的。",
+        "pinyin": "Zhè bǎ shuāzi shì huàhuà yòng de.",
+        "en": "Bu fırça resim çizmek için kullanılır."
+      },
+      {
+        "zh": "她用刷子给墙壁刷油漆。",
+        "pinyin": "Tā yòng shuāzi gěi qiángbì shuā yóuqī.",
+        "en": "Fırçayla duvara boya sürüyor."
+      },
+      {
+        "zh": "刷子的毛已经掉光了。",
+        "pinyin": "Shuāzi de máo yǐjīng diàoguāng le.",
+        "en": "Fırçanın kılları döküldü."
+      },
+      {
+        "zh": "他买了一把新的牙刷子。",
+        "pinyin": "Tā mǎi le yì bǎ xīn de yáshuāzi.",
+        "en": "Yeni bir diş fırçası satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5877",
+    "hanzi": "耍",
+    "pinyin": "shuǎ",
+    "meaning": "oynamak, oyun oynamak, hile yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他喜欢耍花招。",
+        "pinyin": "Tā xǐhuan shuǎ huāzhāo.",
+        "en": "Hile yapmayı sever."
+      },
+      {
+        "zh": "别再耍小聪明了。",
+        "pinyin": "Bié zài shuǎ xiǎocōngming.",
+        "en": "Kurnazlık yapmayı bırak."
+      }
+    ]
+  },
+  {
+    "id": "w5878",
+    "hanzi": "衰",
+    "pinyin": "shuāi",
+    "meaning": "zayıflamak, çökmek, azalmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的身体日渐衰弱。",
+        "pinyin": "Tā de shēntǐ rìjiàn shuāiruò.",
+        "en": "Bedeni günden güne zayıflıyor."
+      },
+      {
+        "zh": "这个帝国最终走向了衰亡。",
+        "pinyin": "Zhège dìguó zuìzhōng zǒuxiàng le shuāiwáng.",
+        "en": "Bu imparatorluk sonunda çöküşe doğru gitti."
+      }
+    ]
+  },
+  {
+    "id": "w5879",
+    "hanzi": "率领",
+    "pinyin": "shuàilǐng",
+    "meaning": "liderlik etmek, önderlik etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "教练率领球队夺得了冠军。",
+        "pinyin": "Jiàoliàn shuàilǐng qiúduì duódé le guànjūn.",
+        "en": "Antrenör takımı şampiyonluğa götürdü."
+      },
+      {
+        "zh": "他率领团队完成了这项艰巨的任务。",
+        "pinyin": "Tā shuàilǐng tuánduì wánchéng le zhè xiàng jiānjù de rènwu.",
+        "en": "Ekibe liderlik ederek bu zorlu görevi tamamladı."
+      },
+      {
+        "zh": "将军率领军队打了一场胜仗。",
+        "pinyin": "Jiāngjūn shuàilǐng jūnduì dǎ le yì chǎng shèngzhàng.",
+        "en": "General orduyu bir zafere götürdü."
+      },
+      {
+        "zh": "他率领代表团出访了多个国家。",
+        "pinyin": "Tā shuàilǐng dàibiǎotuán chūfǎng le duō ge guójiā.",
+        "en": "Heyeti önderliğinde birçok ülkeyi ziyaret etti."
+      },
+      {
+        "zh": "她率领志愿者团队开展了救援工作。",
+        "pinyin": "Tā shuàilǐng zhìyuànzhě tuánduì kāizhǎn le jiùyuán gōngzuò.",
+        "en": "Gönüllü ekibe önderlik ederek kurtarma çalışmaları yürüttü."
+      }
+    ]
+  },
+  {
+    "id": "w5880",
+    "hanzi": "率先",
+    "pinyin": "shuàixiān",
+    "meaning": "öncü olarak, ilk önce",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他率先举手发言。",
+        "pinyin": "Tā shuàixiān jǔshǒu fāyán.",
+        "en": "İlk önce elini kaldırıp konuştu."
+      },
+      {
+        "zh": "这家企业率先采用了新技术。",
+        "pinyin": "Zhè jiā qǐyè shuàixiān cǎiyòng le xīn jìshù.",
+        "en": "Bu işletme yeni teknolojiyi öncü olarak benimsedi."
+      }
+    ]
+  },
+  {
+    "id": "w5881",
+    "hanzi": "拴",
+    "pinyin": "shuān",
+    "meaning": "bağlamak, düğümlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把狗拴在树上。",
+        "pinyin": "Tā bǎ gǒu shuān zài shù shàng.",
+        "en": "Köpeği ağaca bağladı."
+      },
+      {
+        "zh": "船被拴在了码头边。",
+        "pinyin": "Chuán bèi shuān zài le mǎtóu biān.",
+        "en": "Gemi iskeleye bağlandı."
+      }
+    ]
+  },
+  {
+    "id": "w5882",
+    "hanzi": "霜",
+    "pinyin": "shuāng",
+    "meaning": "kırağı, don",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "早晨地面上结了一层霜。",
+        "pinyin": "Zǎochén dìmiàn shàng jié le yìcéng shuāng.",
+        "en": "Sabah zeminin üstünde bir kırağı tabakası oluştu."
+      },
+      {
+        "zh": "霜冻会影响农作物的生长。",
+        "pinyin": "Shuāngdòng huì yǐngxiǎng nóngzuòwù de shēngzhǎng.",
+        "en": "Don, tarım ürünlerinin büyümesini etkileyebilir."
+      },
+      {
+        "zh": "秋天的早晨常常有霜。",
+        "pinyin": "Qiūtiān de zǎochén chángcháng yǒu shuāng.",
+        "en": "Sonbahar sabahları sık sık kırağı görülür."
+      },
+      {
+        "zh": "窗户上结了一层白霜。",
+        "pinyin": "Chuānghu shàng jié le yìcéng báishuāng.",
+        "en": "Pencerede beyaz bir kırağı tabakası oluştu."
+      },
+      {
+        "zh": "他的头发已经白如霜。",
+        "pinyin": "Tā de tóufa yǐjīng bái rú shuāng.",
+        "en": "Saçları kırağı kadar beyazlaşmış."
+      }
+    ]
+  },
+  {
+    "id": "w5883",
+    "hanzi": "双胞胎",
+    "pinyin": "shuāngbāotāi",
+    "meaning": "ikiz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "她生了一对双胞胎。",
+        "pinyin": "Tā shēng le yíduì shuāngbāotāi.",
+        "en": "Bir çift ikiz doğurdu."
+      },
+      {
+        "zh": "这对双胞胎长得非常像。",
+        "pinyin": "Zhè duì shuāngbāotāi zhǎngde fēicháng xiàng.",
+        "en": "Bu ikizler birbirine çok benziyor."
+      },
+      {
+        "zh": "双胞胎兄弟经常一起出现。",
+        "pinyin": "Shuāngbāotāi xiōngdì jīngcháng yìqǐ chūxiàn.",
+        "en": "İkiz kardeşler sık sık birlikte görünür."
+      },
+      {
+        "zh": "他们是同卵双胞胎。",
+        "pinyin": "Tāmen shì tóngluǎn shuāngbāotāi.",
+        "en": "Onlar tek yumurta ikizidir."
+      },
+      {
+        "zh": "双胞胎姐妹穿着一样的衣服。",
+        "pinyin": "Shuāngbāotāi jiěmèi chuānzhe yíyàng de yīfu.",
+        "en": "İkiz kız kardeşler aynı kıyafeti giyiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5884",
+    "hanzi": "双重",
+    "pinyin": "shuāngchóng",
+    "meaning": "çift, ikili",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他持有双重国籍。",
+        "pinyin": "Tā chíyǒu shuāngchóng guójí.",
+        "en": "Çifte vatandaşlığa sahip."
+      },
+      {
+        "zh": "这项政策具有双重效果。",
+        "pinyin": "Zhè xiàng zhèngcè jùyǒu shuāngchóng xiàoguǒ.",
+        "en": "Bu politikanın çift yönlü bir etkisi var."
+      },
+      {
+        "zh": "他承受着双重压力。",
+        "pinyin": "Tā chéngshòuzhe shuāngchóng yālì.",
+        "en": "Çifte baskı altında."
+      },
+      {
+        "zh": "这道门有双重保险。",
+        "pinyin": "Zhè dào mén yǒu shuāngchóng bǎoxiǎn.",
+        "en": "Bu kapının çift güvenliği var."
+      },
+      {
+        "zh": "他的行为让人感到双重标准。",
+        "pinyin": "Tā de xíngwéi ràng rén gǎndào shuāngchóng biāozhǔn.",
+        "en": "Davranışı insanlara çifte standart hissettiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5885",
+    "hanzi": "双打",
+    "pinyin": "shuāngdǎ",
+    "meaning": "çiftler (tenis, masa tenisi vb.)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他们参加了羽毛球双打比赛。",
+        "pinyin": "Tāmen cānjiā le yǔmáoqiú shuāngdǎ bǐsài.",
+        "en": "Badminton çiftler yarışmasına katıldılar."
+      },
+      {
+        "zh": "双打项目需要良好的配合。",
+        "pinyin": "Shuāngdǎ xiàngmù xūyào liánghǎo de pèihé.",
+        "en": "Çiftler kategorisi iyi bir uyum gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5886",
+    "hanzi": "双亲",
+    "pinyin": "shuāngqīn",
+    "meaning": "anne baba, ebeveynler",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他的双亲都很健康。",
+        "pinyin": "Tā de shuāngqīn dōu hěn jiànkāng.",
+        "en": "Her iki ebeveyni de sağlıklı."
+      },
+      {
+        "zh": "她一直陪伴在双亲身边。",
+        "pinyin": "Tā yìzhí péibàn zài shuāngqīn shēnbiān.",
+        "en": "Her zaman ebeveynlerinin yanında bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5887",
+    "hanzi": "爽快",
+    "pinyin": "shuǎngkuai",
+    "meaning": "ferah, rahat; açık sözlü, dürüst",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "洗完澡感觉很爽快。",
+        "pinyin": "Xǐwán zǎo gǎnjué hěn shuǎngkuai.",
+        "en": "Duştan sonra çok ferah hissediyorum."
+      },
+      {
+        "zh": "他为人爽快，说话直接。",
+        "pinyin": "Tā wéirén shuǎngkuai, shuōhuà zhíjiē.",
+        "en": "Karakteri açık ve konuşması dürüst."
+      }
+    ]
+  },
+  {
+    "id": "w5888",
+    "hanzi": "爽朗",
+    "pinyin": "shuǎnglǎng",
+    "meaning": "açık, içten, samimi (karakter)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她笑得很爽朗。",
+        "pinyin": "Tā xiào de hěn shuǎnglǎng.",
+        "en": "İçten bir şekilde gülüyor."
+      },
+      {
+        "zh": "他性格爽朗，很受大家喜欢。",
+        "pinyin": "Tā xìnggé shuǎnglǎng, hěn shòu dàjiā xǐhuan.",
+        "en": "Karakteri açık ve samimi, herkes tarafından seviliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5889",
+    "hanzi": "水坝",
+    "pinyin": "shuǐbà",
+    "meaning": "baraj, su bendi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这座水坝可以发电。",
+        "pinyin": "Zhè zuò shuǐbà kěyǐ fādiàn.",
+        "en": "Bu baraj elektrik üretebilir."
+      },
+      {
+        "zh": "水坝阻挡了洪水的冲击。",
+        "pinyin": "Shuǐbà zǔdǎng le hóngshuǐ de chōngjī.",
+        "en": "Baraj, selin darbesini engelledi."
+      }
+    ]
+  },
+  {
+    "id": "w5890",
+    "hanzi": "水兵",
+    "pinyin": "shuǐbīng",
+    "meaning": "denizci, bahriyeli",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是一名年轻的水兵。",
+        "pinyin": "Tā shì yì míng niánqīng de shuǐbīng.",
+        "en": "O genç bir denizci."
+      },
+      {
+        "zh": "水兵们正在训练。",
+        "pinyin": "Shuǐbīngmen zhèngzài xùnliàn.",
+        "en": "Denizciler eğitim yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5891",
+    "hanzi": "水彩",
+    "pinyin": "shuǐcǎi",
+    "meaning": "sulu boya",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "她用水彩画了一幅风景画。",
+        "pinyin": "Tā yòng shuǐcǎi huà le yì fú fēngjǐnghuà.",
+        "en": "Sulu boya ile bir manzara resmi çizdi."
+      },
+      {
+        "zh": "水彩画适合表现柔和的色调。",
+        "pinyin": "Shuǐcǎihuà shìhé biǎoxiàn róuhé de sèdiào.",
+        "en": "Sulu boya resim yumuşak tonları göstermeye uygundur."
+      },
+      {
+        "zh": "他买了一套水彩颜料。",
+        "pinyin": "Tā mǎi le yí tào shuǐcǎi yánliào.",
+        "en": "Bir set sulu boya satın aldı."
+      },
+      {
+        "zh": "这幅水彩画很有意境。",
+        "pinyin": "Zhè fú shuǐcǎihuà hěn yǒu yìjìng.",
+        "en": "Bu sulu boya resmin derin bir anlamı var."
+      },
+      {
+        "zh": "他从小就喜欢画水彩画。",
+        "pinyin": "Tā cóngxiǎo jiù xǐhuan huà shuǐcǎihuà.",
+        "en": "Küçüklüğünden beri sulu boya resim yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5892",
+    "hanzi": "水管",
+    "pinyin": "shuǐguǎn",
+    "meaning": "su borusu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "水管破裂了，到处都是水。",
+        "pinyin": "Shuǐguǎn pòliè le, dàochù dōu shì shuǐ.",
+        "en": "Su borusu patladı, her yer su içinde."
+      },
+      {
+        "zh": "工人正在修理水管。",
+        "pinyin": "Gōngrén zhèngzài xiūlǐ shuǐguǎn.",
+        "en": "İşçi su borusunu tamir ediyor."
+      },
+      {
+        "zh": "冬天要注意水管结冰。",
+        "pinyin": "Dōngtiān yào zhùyì shuǐguǎn jiébīng.",
+        "en": "Kışın su borularının donmasına dikkat edilmeli."
+      },
+      {
+        "zh": "这根水管漏水了。",
+        "pinyin": "Zhè gēn shuǐguǎn lòushuǐ le.",
+        "en": "Bu su borusu sızdırıyor."
+      },
+      {
+        "zh": "他们更换了老旧的水管。",
+        "pinyin": "Tāmen gēnghuàn le lǎojiù de shuǐguǎn.",
+        "en": "Eski su borularını değiştirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w5893",
+    "hanzi": "水力",
+    "pinyin": "shuǐlì",
+    "meaning": "hidrolik güç, su gücü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "水力发电是一种清洁能源。",
+        "pinyin": "Shuǐlì fādiàn shì yì zhǒng qīngjié néngyuán.",
+        "en": "Hidroelektrik enerji temiz bir enerji türüdür."
+      },
+      {
+        "zh": "这条河流有丰富的水力资源。",
+        "pinyin": "Zhè tiáo héliú yǒu fēngfù de shuǐlì zīyuán.",
+        "en": "Bu nehir zengin hidrolik kaynaklara sahip."
+      }
+    ]
+  },
+  {
+    "id": "w5894",
+    "hanzi": "水流",
+    "pinyin": "shuǐliú",
+    "meaning": "akarsu, akış, akım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这条河的水流很急。",
+        "pinyin": "Zhè tiáo hé de shuǐliú hěn jí.",
+        "en": "Bu nehrin akıntısı çok hızlı."
+      },
+      {
+        "zh": "水流缓缓地流入了大海。",
+        "pinyin": "Shuǐliú huǎnhuǎn de liúrù le dàhǎi.",
+        "en": "Akıntı yavaşça denize doğru aktı."
+      },
+      {
+        "zh": "水流的方向发生了变化。",
+        "pinyin": "Shuǐliú de fāngxiàng fāshēng le biànhuà.",
+        "en": "Akıntının yönü değişti."
+      },
+      {
+        "zh": "船只顺着水流前进。",
+        "pinyin": "Chuánzhī shùnzhe shuǐliú qiánjìn.",
+        "en": "Tekne akıntıya uyarak ilerliyor."
+      },
+      {
+        "zh": "强劲的水流冲垮了堤坝。",
+        "pinyin": "Qiángjìng de shuǐliú chōngkuǎ le dībà.",
+        "en": "Güçlü akıntı bendi yıktı."
+      }
+    ]
+  },
+  {
+    "id": "w5895",
+    "hanzi": "水龙头",
+    "pinyin": "shuǐlóngtóu",
+    "meaning": "musluk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请把水龙头关紧。",
+        "pinyin": "Qǐng bǎ shuǐlóngtóu guānjǐn.",
+        "en": "Lütfen musluğu sıkıca kapatın."
+      },
+      {
+        "zh": "水龙头漏水了。",
+        "pinyin": "Shuǐlóngtóu lòushuǐ le.",
+        "en": "Musluk su sızdırıyor."
+      },
+      {
+        "zh": "他打开水龙头洗手。",
+        "pinyin": "Tā dǎkāi shuǐlóngtóu xǐshǒu.",
+        "en": "Musluğu açıp ellerini yıkadı."
+      },
+      {
+        "zh": "这个水龙头需要更换。",
+        "pinyin": "Zhège shuǐlóngtóu xūyào gēnghuàn.",
+        "en": "Bu musluğun değiştirilmesi gerekiyor."
+      },
+      {
+        "zh": "厨房的水龙头坏了。",
+        "pinyin": "Chúfáng de shuǐlóngtóu huài le.",
+        "en": "Mutfaktaki musluk bozuldu."
+      }
+    ]
+  },
+  {
+    "id": "w5896",
+    "hanzi": "水泥",
+    "pinyin": "shuǐní",
+    "meaning": "çimento",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工人们正在搅拌水泥。",
+        "pinyin": "Gōngrénmen zhèngzài jiǎobàn shuǐní.",
+        "en": "İşçiler çimento karıyor."
+      },
+      {
+        "zh": "这条路用水泥铺成。",
+        "pinyin": "Zhè tiáo lù yòng shuǐní pūchéng.",
+        "en": "Bu yol çimento ile döşenmiş."
+      },
+      {
+        "zh": "水泥厂排放了大量粉尘。",
+        "pinyin": "Shuǐníchǎng páifàng le dàliàng fěnchén.",
+        "en": "Çimento fabrikası büyük miktarda toz yaydı."
+      },
+      {
+        "zh": "他们用水泥修建了这堵墙。",
+        "pinyin": "Tāmen yòng shuǐní xiūjiàn le zhè dǔ qiáng.",
+        "en": "Bu duvarı çimento kullanarak inşa ettiler."
+      },
+      {
+        "zh": "水泥地面很坚硬。",
+        "pinyin": "Shuǐní dìmiàn hěn jiānyìng.",
+        "en": "Çimento zemin çok sert."
+      }
+    ]
   }
 ]

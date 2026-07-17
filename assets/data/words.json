@@ -179905,5 +179905,848 @@
         "en": "Liderlerin cesaret ve karar verme gücüne sahip olması gerekir."
       }
     ]
+  },
+  {
+    "id": "w5197",
+    "hanzi": "剖析",
+    "pinyin": "pōuxī",
+    "meaning": "analiz etmek, çözümlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "老师详细剖析了这个问题。",
+        "pinyin": "Lǎoshī xiángxì pōuxī le zhège wèntí.",
+        "en": "Öğretmen bu sorunu ayrıntılı olarak analiz etti."
+      },
+      {
+        "zh": "记者深入剖析了事件的原因。",
+        "pinyin": "Jìzhě shēnrù pōuxī le shìjiàn de yuányīn.",
+        "en": "Gazeteci olayın nedenlerini derinlemesine analiz etti."
+      }
+    ]
+  },
+  {
+    "id": "w5198",
+    "hanzi": "铺",
+    "pinyin": "pū",
+    "meaning": "sermek, döşemek, yaymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她在床上铺了一条新床单。",
+        "pinyin": "Tā zài chuáng shàng pū le yì tiáo xīn chuángdān.",
+        "en": "Yatağa yeni bir çarşaf serdi."
+      },
+      {
+        "zh": "工人们正在铺路。",
+        "pinyin": "Gōngrénmen zhèngzài pūlù.",
+        "en": "İşçiler yol döşüyor."
+      },
+      {
+        "zh": "地上铺着一层雪。",
+        "pinyin": "Dìshàng pūzhe yì céng xuě.",
+        "en": "Yerde bir kar tabakası serilmiş."
+      },
+      {
+        "zh": "他把地图铺在桌子上。",
+        "pinyin": "Tā bǎ dìtú pū zài zhuōzi shàng.",
+        "en": "Haritayı masanın üzerine serdi."
+      },
+      {
+        "zh": "他们准备铺设新的地板。",
+        "pinyin": "Tāmen zhǔnbèi pūshè xīn de dìbǎn.",
+        "en": "Yeni bir zemin döşemeye hazırlanıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w5199",
+    "hanzi": "扑",
+    "pinyin": "pū",
+    "meaning": "üzerine atlamak, saldırmak; enerjisini bir şeye vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "小猫扑向了那只蝴蝶。",
+        "pinyin": "Xiǎomāo pū xiàng le nà zhī húdié.",
+        "en": "Kedi kelebeğe doğru atladı."
+      },
+      {
+        "zh": "他扑到床上就睡着了。",
+        "pinyin": "Tā pū dào chuáng shàng jiù shuìzháo le.",
+        "en": "Yatağa uzanır uzanmaz uyuyakaldı."
+      },
+      {
+        "zh": "他全身心地扑在工作上。",
+        "pinyin": "Tā quánshēnxīn de pū zài gōngzuò shàng.",
+        "en": "Tüm enerjisini işine veriyor."
+      },
+      {
+        "zh": "一阵凉风扑面而来。",
+        "pinyin": "Yí zhèn liángfēng pūmiàn ér lái.",
+        "en": "Serin bir rüzgar yüzüne çarptı."
+      },
+      {
+        "zh": "他扑上去抓住了小偷。",
+        "pinyin": "Tā pū shàngqù zhuāzhù le xiǎotōu.",
+        "en": "Üzerine atılıp hırsızı yakaladı."
+      }
+    ]
+  },
+  {
+    "id": "w5200",
+    "hanzi": "扑克",
+    "pinyin": "pūkè",
+    "meaning": "iskambil kağıdı, poker",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Oyunlar",
+    "examples": [
+      {
+        "zh": "他们在客厅打扑克。",
+        "pinyin": "Tāmen zài kètīng dǎ pūkè.",
+        "en": "Oturma odasında iskambil oynuyorlar."
+      },
+      {
+        "zh": "我买了一副新扑克牌。",
+        "pinyin": "Wǒ mǎi le yí fù xīn pūkè pái.",
+        "en": "Yeni bir deste iskambil kağıdı aldım."
+      },
+      {
+        "zh": "他很擅长玩扑克。",
+        "pinyin": "Tā hěn shàncháng wán pūkè.",
+        "en": "İskambil oynamada çok iyi."
+      },
+      {
+        "zh": "周末我们经常一起打扑克。",
+        "pinyin": "Zhōumò wǒmen jīngcháng yìqǐ dǎ pūkè.",
+        "en": "Hafta sonları sık sık birlikte iskambil oynarız."
+      },
+      {
+        "zh": "扑克牌散落了一地。",
+        "pinyin": "Pūkè pái sànluò le yí dì.",
+        "en": "İskambil kağıtları yere saçıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5201",
+    "hanzi": "扑灭",
+    "pinyin": "pūmiè",
+    "meaning": "söndürmek, yok etmek, bastırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "消防员及时扑灭了大火。",
+        "pinyin": "Xiāofángyuán jíshí pūmiè le dàhuǒ.",
+        "en": "İtfaiyeciler yangını zamanında söndürdü."
+      },
+      {
+        "zh": "他们成功扑灭了森林火灾。",
+        "pinyin": "Tāmen chénggōng pūmiè le sēnlín huǒzāi.",
+        "en": "Orman yangınını başarıyla söndürdüler."
+      }
+    ]
+  },
+  {
+    "id": "w5202",
+    "hanzi": "普及",
+    "pinyin": "pǔjí",
+    "meaning": "yaygınlaştırmak, yaygınlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "手机在中国已经非常普及。",
+        "pinyin": "Shǒujī zài Zhōngguó yǐjīng fēicháng pǔjí.",
+        "en": "Cep telefonu Çin'de çoktan çok yaygınlaştı."
+      },
+      {
+        "zh": "政府努力普及教育。",
+        "pinyin": "Zhèngfǔ nǔlì pǔjí jiàoyù.",
+        "en": "Hükümet eğitimi yaygınlaştırmak için çabalıyor."
+      },
+      {
+        "zh": "互联网正在全球普及。",
+        "pinyin": "Hùliánwǎng zhèngzài quánqiú pǔjí.",
+        "en": "İnternet küresel olarak yaygınlaşıyor."
+      },
+      {
+        "zh": "这项技术还没有完全普及。",
+        "pinyin": "Zhè xiàng jìshù hái méiyǒu wánquán pǔjí.",
+        "en": "Bu teknoloji henüz tam olarak yaygınlaşmadı."
+      },
+      {
+        "zh": "健康知识需要更好地普及。",
+        "pinyin": "Jiànkāng zhīshi xūyào gènghǎo de pǔjí.",
+        "en": "Sağlık bilgisi daha iyi yaygınlaştırılmalı."
+      }
+    ]
+  },
+  {
+    "id": "w5203",
+    "hanzi": "普通",
+    "pinyin": "pǔtōng",
+    "meaning": "normal, sıradan, olağan",
+    "partOfSpeech": "sıfat",
+    "level": 3,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他是一个普通的上班族。",
+        "pinyin": "Tā shì yí ge pǔtōng de shàngbānzú.",
+        "en": "O sıradan bir çalışan."
+      },
+      {
+        "zh": "这只是一个普通的问题。",
+        "pinyin": "Zhè zhǐshì yí ge pǔtōng de wèntí.",
+        "en": "Bu sadece sıradan bir sorun."
+      },
+      {
+        "zh": "我们过着普通的生活。",
+        "pinyin": "Wǒmen guòzhe pǔtōng de shēnghuó.",
+        "en": "Sıradan bir hayat sürüyoruz."
+      },
+      {
+        "zh": "这件衣服很普通，没什么特别的。",
+        "pinyin": "Zhè jiàn yīfu hěn pǔtōng, méi shénme tèbié de.",
+        "en": "Bu kıyafet çok sıradan, özel bir şeyi yok."
+      },
+      {
+        "zh": "普通话是中国的官方语言。",
+        "pinyin": "Pǔtōnghuà shì Zhōngguó de guānfāng yǔyán.",
+        "en": "Standart Çince (Putonghua), Çin'in resmi dilidir."
+      }
+    ]
+  },
+  {
+    "id": "w5204",
+    "hanzi": "朴实",
+    "pinyin": "pǔshí",
+    "meaning": "sade, gösterişsiz; alçakgönüllü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他为人朴实，没有架子。",
+        "pinyin": "Tā wéirén pǔshí, méiyǒu jiàzi.",
+        "en": "Sade bir insandır, kibirli değildir."
+      },
+      {
+        "zh": "她穿着朴实，从不追求奢华。",
+        "pinyin": "Tā chuānzhuó pǔshí, cóngbù zhuīqiú shēhuá.",
+        "en": "Sade giyinir, hiç lüksün peşinde koşmaz."
+      }
+    ]
+  },
+  {
+    "id": "w5205",
+    "hanzi": "七月",
+    "pinyin": "qīyuè",
+    "meaning": "Temmuz",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "七月的天气很热。",
+        "pinyin": "Qīyuè de tiānqì hěn rè.",
+        "en": "Temmuz ayının havası çok sıcak."
+      },
+      {
+        "zh": "我七月出生。",
+        "pinyin": "Wǒ qīyuè chūshēng.",
+        "en": "Ben Temmuz ayında doğdum."
+      },
+      {
+        "zh": "他们七月结婚。",
+        "pinyin": "Tāmen qīyuè jiéhūn.",
+        "en": "Onlar Temmuz ayında evlendiler."
+      },
+      {
+        "zh": "七月是暑假的开始。",
+        "pinyin": "Qīyuè shì shǔjià de kāishǐ.",
+        "en": "Temmuz yaz tatilinin başlangıcıdır."
+      },
+      {
+        "zh": "我们计划七月去旅行。",
+        "pinyin": "Wǒmen jìhuà qīyuè qù lǚxíng.",
+        "en": "Temmuz ayında seyahate çıkmayı planlıyoruz."
+      }
+    ]
+  },
+  {
+    "id": "w5206",
+    "hanzi": "栖息",
+    "pinyin": "qīxī",
+    "meaning": "tünemek, barınmak, konmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "许多鸟类在这片森林里栖息。",
+        "pinyin": "Xǔduō niǎolèi zài zhè piàn sēnlín lǐ qīxī.",
+        "en": "Birçok kuş türü bu ormanda barınıyor."
+      },
+      {
+        "zh": "这种鱼栖息在深海中。",
+        "pinyin": "Zhè zhǒng yú qīxī zài shēnhǎi zhōng.",
+        "en": "Bu tür balık derin denizlerde yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5207",
+    "hanzi": "期刊",
+    "pinyin": "qīkān",
+    "meaning": "dergi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "图书馆有很多学术期刊。",
+        "pinyin": "Túshūguǎn yǒu hěnduō xuéshù qīkān.",
+        "en": "Kütüphanede birçok akademik dergi var."
+      },
+      {
+        "zh": "他在一本科学期刊上发表了论文。",
+        "pinyin": "Tā zài yì běn kēxué qīkān shàng fābiǎo le lùnwén.",
+        "en": "Bilimsel bir dergide makale yayınladı."
+      },
+      {
+        "zh": "这本期刊每月出版一次。",
+        "pinyin": "Zhè běn qīkān měi yuè chūbǎn yí cì.",
+        "en": "Bu dergi ayda bir yayınlanır."
+      },
+      {
+        "zh": "她订阅了几本时尚期刊。",
+        "pinyin": "Tā dìngyuè le jǐ běn shíshàng qīkān.",
+        "en": "Birkaç moda dergisine abone oldu."
+      },
+      {
+        "zh": "这份期刊内容很专业。",
+        "pinyin": "Zhè fèn qīkān nèiróng hěn zhuānyè.",
+        "en": "Bu derginin içeriği çok profesyonel."
+      }
+    ]
+  },
+  {
+    "id": "w5208",
+    "hanzi": "期望",
+    "pinyin": "qīwàng",
+    "meaning": "ummak, beklemek; umut, beklenti",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "父母对孩子有很高的期望。",
+        "pinyin": "Fùmǔ duì háizi yǒu hěn gāo de qīwàng.",
+        "en": "Ebeveynlerin çocuklarından beklentisi çok yüksek."
+      },
+      {
+        "zh": "我期望明年能去中国留学。",
+        "pinyin": "Wǒ qīwàng míngnián néng qù Zhōngguó liúxué.",
+        "en": "Gelecek yıl Çin'de eğitim görmeyi umuyorum."
+      },
+      {
+        "zh": "他没有辜负大家的期望。",
+        "pinyin": "Tā méiyǒu gūfù dàjiā de qīwàng.",
+        "en": "Herkesin beklentisini boşa çıkarmadı."
+      },
+      {
+        "zh": "老师期望学生们努力学习。",
+        "pinyin": "Lǎoshī qīwàng xuéshengmen nǔlì xuéxí.",
+        "en": "Öğretmen öğrencilerin çok çalışmasını umuyor."
+      },
+      {
+        "zh": "这个结果超出了我的期望。",
+        "pinyin": "Zhège jiéguǒ chāochū le wǒ de qīwàng.",
+        "en": "Bu sonuç beklentimi aştı."
+      }
+    ]
+  },
+  {
+    "id": "w5209",
+    "hanzi": "期限",
+    "pinyin": "qīxiàn",
+    "meaning": "süre sınırı, zaman limiti",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这个项目有严格的期限。",
+        "pinyin": "Zhège xiàngmù yǒu yángé de qīxiàn.",
+        "en": "Bu projenin katı bir süre sınırı var."
+      },
+      {
+        "zh": "合同的期限是两年。",
+        "pinyin": "Hétong de qīxiàn shì liǎng nián.",
+        "en": "Sözleşmenin süresi iki yıldır."
+      },
+      {
+        "zh": "护照的有效期限快到了。",
+        "pinyin": "Hùzhào de yǒuxiào qīxiàn kuài dào le.",
+        "en": "Pasaportun geçerlilik süresi dolmak üzere."
+      },
+      {
+        "zh": "请在期限内提交申请。",
+        "pinyin": "Qǐng zài qīxiàn nèi tíjiāo shēnqǐng.",
+        "en": "Lütfen süre içinde başvurunuzu gönderin."
+      },
+      {
+        "zh": "还款期限已经过了。",
+        "pinyin": "Huánkuǎn qīxiàn yǐjīng guò le.",
+        "en": "Geri ödeme süresi doldu."
+      }
+    ]
+  },
+  {
+    "id": "w5210",
+    "hanzi": "欺负",
+    "pinyin": "qīfu",
+    "meaning": "zorbalık etmek, ezmek, hakkını yemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在学校经常被欺负。",
+        "pinyin": "Tā zài xuéxiào jīngcháng bèi qīfu.",
+        "en": "Okulda sık sık zorbalığa uğruyor."
+      },
+      {
+        "zh": "不要欺负比你弱小的人。",
+        "pinyin": "Búyào qīfu bǐ nǐ ruòxiǎo de rén.",
+        "en": "Senden zayıf olanlara zorbalık yapma."
+      },
+      {
+        "zh": "她从小就不许别人欺负她。",
+        "pinyin": "Tā cóngxiǎo jiù bùxǔ biéren qīfu tā.",
+        "en": "Küçüklüğünden beri kimsenin ona zorbalık etmesine izin vermedi."
+      },
+      {
+        "zh": "老板经常欺负新员工。",
+        "pinyin": "Lǎobǎn jīngcháng qīfu xīn yuángōng.",
+        "en": "Patron sık sık yeni çalışanları eziyor."
+      },
+      {
+        "zh": "他因为欺负同学被老师批评了。",
+        "pinyin": "Tā yīnwèi qīfu tóngxué bèi lǎoshī pīpíng le.",
+        "en": "Arkadaşına zorbalık yaptığı için öğretmen tarafından eleştirildi."
+      }
+    ]
+  },
+  {
+    "id": "w5211",
+    "hanzi": "欺诈",
+    "pinyin": "qīzhà",
+    "meaning": "hile yapmak, dolandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他因欺诈罪被判入狱。",
+        "pinyin": "Tā yīn qīzhà zuì bèi pàn rùyù.",
+        "en": "Dolandırıcılık suçundan hapis cezasına çarptırıldı."
+      },
+      {
+        "zh": "这是一起严重的商业欺诈案。",
+        "pinyin": "Zhè shì yìqǐ yánzhòng de shāngyè qīzhà àn.",
+        "en": "Bu ciddi bir ticari dolandırıcılık davasıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5212",
+    "hanzi": "凄惨",
+    "pinyin": "qīcǎn",
+    "meaning": "acıklı, trajik, üzücü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他讲述了一个凄惨的故事。",
+        "pinyin": "Tā jiǎngshù le yí ge qīcǎn de gùshi.",
+        "en": "Acıklı bir hikâye anlattı."
+      },
+      {
+        "zh": "战争给人们带来了凄惨的生活。",
+        "pinyin": "Zhànzhēng gěi rénmen dàilái le qīcǎn de shēnghuó.",
+        "en": "Savaş insanlara acıklı bir hayat getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5213",
+    "hanzi": "凄凉",
+    "pinyin": "qīliáng",
+    "meaning": "kasvetli, ıssız ve üzücü",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这座老房子看起来很凄凉。",
+        "pinyin": "Zhè zuò lǎo fángzi kànqǐlái hěn qīliáng.",
+        "en": "Bu eski ev çok kasvetli görünüyor."
+      },
+      {
+        "zh": "他晚年的生活十分凄凉。",
+        "pinyin": "Tā wǎnnián de shēnghuó shífēn qīliáng.",
+        "en": "Yaşlılığındaki hayatı çok kasvetliydi."
+      }
+    ]
+  },
+  {
+    "id": "w5214",
+    "hanzi": "祈祷",
+    "pinyin": "qídǎo",
+    "meaning": "dua etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "他每天晚上都会祈祷。",
+        "pinyin": "Tā měitiān wǎnshang dōu huì qídǎo.",
+        "en": "Her akşam dua eder."
+      },
+      {
+        "zh": "她在教堂里安静地祈祷。",
+        "pinyin": "Tā zài jiàotáng lǐ ānjìng de qídǎo.",
+        "en": "Kilisede sessizce dua ediyor."
+      },
+      {
+        "zh": "我们为他的健康祈祷。",
+        "pinyin": "Wǒmen wèi tā de jiànkāng qídǎo.",
+        "en": "Onun sağlığı için dua ediyoruz."
+      },
+      {
+        "zh": "人们在寺庙里祈祷平安。",
+        "pinyin": "Rénmen zài sìmiào lǐ qídǎo píng'ān.",
+        "en": "İnsanlar tapınakta huzur ve güvenlik için dua ediyor."
+      },
+      {
+        "zh": "他闭上眼睛开始祈祷。",
+        "pinyin": "Tā bìshàng yǎnjing kāishǐ qídǎo.",
+        "en": "Gözlerini kapatıp dua etmeye başladı."
+      }
+    ]
+  },
+  {
+    "id": "w5215",
+    "hanzi": "齐全",
+    "pinyin": "qíquán",
+    "meaning": "tam, eksiksiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这家商店的商品很齐全。",
+        "pinyin": "Zhè jiā shāngdiàn de shāngpǐn hěn qíquán.",
+        "en": "Bu mağazanın ürünleri çok eksiksiz."
+      },
+      {
+        "zh": "他的工具箱里工具很齐全。",
+        "pinyin": "Tā de gōngjùxiāng lǐ gōngjù hěn qíquán.",
+        "en": "Alet çantasındaki aletler eksiksiz."
+      },
+      {
+        "zh": "文件资料已经齐全了。",
+        "pinyin": "Wénjiàn zīliào yǐjīng qíquán le.",
+        "en": "Belgeler artık eksiksiz."
+      },
+      {
+        "zh": "厨房设备一应俱全，非常齐全。",
+        "pinyin": "Chúfáng shèbèi yìyīngjùquán, fēicháng qíquán.",
+        "en": "Mutfak ekipmanları eksiksiz, her şey mevcut."
+      },
+      {
+        "zh": "手续办得很齐全。",
+        "pinyin": "Shǒuxù bàn de hěn qíquán.",
+        "en": "İşlemler eksiksiz bir şekilde tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w5216",
+    "hanzi": "旗",
+    "pinyin": "qí",
+    "meaning": "bayrak, sancak, flama",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "国旗在风中飘扬。",
+        "pinyin": "Guóqí zài fēng zhōng piāoyáng.",
+        "en": "Ulusal bayrak rüzgarda dalgalanıyor."
+      },
+      {
+        "zh": "学生们升起了校旗。",
+        "pinyin": "Xuéshengmen shēngqǐ le xiàoqí.",
+        "en": "Öğrenciler okul bayrağını çektiler."
+      },
+      {
+        "zh": "他手里拿着一面小旗。",
+        "pinyin": "Tā shǒu lǐ názhe yí miàn xiǎo qí.",
+        "en": "Elinde küçük bir bayrak tutuyor."
+      },
+      {
+        "zh": "运动员挥舞着国旗庆祝胜利。",
+        "pinyin": "Yùndòngyuán huīwǔzhe guóqí qìngzhù shènglì.",
+        "en": "Sporcu zaferi kutlamak için bayrağı sallıyor."
+      },
+      {
+        "zh": "广场上插满了彩旗。",
+        "pinyin": "Guǎngchǎng shàng chāmǎn le cǎiqí.",
+        "en": "Meydan renkli bayraklarla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w5217",
+    "hanzi": "旗帜",
+    "pinyin": "qízhì",
+    "meaning": "bayrak, sancak, pankart",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "游行队伍举着各种旗帜。",
+        "pinyin": "Yóuxíng duìwu jǔzhe gèzhǒng qízhì.",
+        "en": "Yürüyüş kolu çeşitli bayraklar taşıyor."
+      },
+      {
+        "zh": "他高举旗帜走在最前面。",
+        "pinyin": "Tā gāojǔ qízhì zǒu zài zuì qiánmiàn.",
+        "en": "Bayrağı yükseğe kaldırıp en önde yürüyor."
+      }
+    ]
+  },
+  {
+    "id": "w5218",
+    "hanzi": "棋",
+    "pinyin": "qí",
+    "meaning": "satranç, satranç benzeri oyun",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Oyunlar",
+    "examples": [
+      {
+        "zh": "爷爷喜欢和朋友下棋。",
+        "pinyin": "Yéye xǐhuan hé péngyou xiàqí.",
+        "en": "Dede arkadaşlarıyla satranç oynamayı sever."
+      },
+      {
+        "zh": "他每天在公园里下棋。",
+        "pinyin": "Tā měitiān zài gōngyuán lǐ xiàqí.",
+        "en": "Her gün parkta satranç oynuyor."
+      },
+      {
+        "zh": "这盘棋下得很精彩。",
+        "pinyin": "Zhè pán qí xià de hěn jīngcǎi.",
+        "en": "Bu satranç oyunu çok heyecanlıydı."
+      },
+      {
+        "zh": "他是学校里的棋类高手。",
+        "pinyin": "Tā shì xuéxiào lǐ de qílèi gāoshǒu.",
+        "en": "Okulda satranç türü oyunlarda ustadır."
+      },
+      {
+        "zh": "我们比赛下了一盘棋。",
+        "pinyin": "Wǒmen bǐsài xià le yì pán qí.",
+        "en": "Bir satranç maçı yaptık."
+      }
+    ]
+  },
+  {
+    "id": "w5219",
+    "hanzi": "歧视",
+    "pinyin": "qíshì",
+    "meaning": "ayrımcılık yapmak, hor görmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "社会应该消除性别歧视。",
+        "pinyin": "Shèhuì yīnggāi xiāochú xìngbié qíshì.",
+        "en": "Toplum cinsiyet ayrımcılığını ortadan kaldırmalı."
+      },
+      {
+        "zh": "他因为肤色受到了歧视。",
+        "pinyin": "Tā yīnwèi fūsè shòudào le qíshì.",
+        "en": "Ten rengi yüzünden ayrımcılığa uğradı."
+      },
+      {
+        "zh": "任何形式的歧视都是不公平的。",
+        "pinyin": "Rènhé xíngshì de qíshì dōu shì bù gōngpíng de.",
+        "en": "Her türlü ayrımcılık adaletsizdir."
+      },
+      {
+        "zh": "公司禁止对员工进行歧视。",
+        "pinyin": "Gōngsī jìnzhǐ duì yuángōng jìnxíng qíshì.",
+        "en": "Şirket çalışanlara karşı ayrımcılık yapılmasını yasaklıyor."
+      },
+      {
+        "zh": "法律保护人们不受歧视。",
+        "pinyin": "Fǎlǜ bǎohù rénmen bú shòu qíshì.",
+        "en": "Yasalar insanları ayrımcılıktan korur."
+      }
+    ]
+  },
+  {
+    "id": "w5220",
+    "hanzi": "奇妙",
+    "pinyin": "qímiào",
+    "meaning": "harika, muhteşem, olağanüstü",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是一次奇妙的旅行。",
+        "pinyin": "Zhè shì yí cì qímiào de lǚxíng.",
+        "en": "Bu harika bir yolculuktu."
+      },
+      {
+        "zh": "大自然充满了奇妙的景象。",
+        "pinyin": "Dàzìrán chōngmǎn le qímiào de jǐngxiàng.",
+        "en": "Doğa harika manzaralarla dolu."
+      },
+      {
+        "zh": "这个故事情节非常奇妙。",
+        "pinyin": "Zhège gùshi qíngjié fēicháng qímiào.",
+        "en": "Bu hikâyenin kurgusu çok muhteşem."
+      },
+      {
+        "zh": "孩子们对奇妙的世界充满好奇。",
+        "pinyin": "Háizimen duì qímiào de shìjiè chōngmǎn hàoqí.",
+        "en": "Çocuklar muhteşem dünyaya karşı merakla dolular."
+      },
+      {
+        "zh": "他们经历了一段奇妙的缘分。",
+        "pinyin": "Tāmen jīnglì le yíduàn qímiào de yuánfèn.",
+        "en": "Harika bir kader ortaklığı yaşadılar."
+      }
+    ]
+  },
+  {
+    "id": "w5221",
+    "hanzi": "奇特",
+    "pinyin": "qítè",
+    "meaning": "özgün, benzersiz, tuhaf",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这座建筑的造型很奇特。",
+        "pinyin": "Zhè zuò jiànzhù de zàoxíng hěn qítè.",
+        "en": "Bu binanın tasarımı çok özgün."
+      },
+      {
+        "zh": "他有一个奇特的想法。",
+        "pinyin": "Tā yǒu yí ge qítè de xiǎngfǎ.",
+        "en": "Tuhaf bir fikri var."
+      },
+      {
+        "zh": "这只动物的外形很奇特。",
+        "pinyin": "Zhè zhī dòngwù de wàixíng hěn qítè.",
+        "en": "Bu hayvanın dış görünüşü çok tuhaf."
+      },
+      {
+        "zh": "她穿着奇特的服装出现在派对上。",
+        "pinyin": "Tā chuānzhe qítè de fúzhuāng chūxiàn zài pàiduì shàng.",
+        "en": "Partiye ilginç bir kıyafetle geldi."
+      },
+      {
+        "zh": "这个地方的地貌非常奇特。",
+        "pinyin": "Zhège dìfang de dìmào fēicháng qítè.",
+        "en": "Bu yerin coğrafi yapısı çok ilginç."
+      }
+    ]
+  },
+  {
+    "id": "w5222",
+    "hanzi": "奇异",
+    "pinyin": "qíyì",
+    "meaning": "acayip, olağanüstü, fantastik",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "夜空中出现了一道奇异的光。",
+        "pinyin": "Yèkōng zhōng chūxiàn le yí dào qíyì de guāng.",
+        "en": "Gece gökyüzünde acayip bir ışık belirdi."
+      },
+      {
+        "zh": "他讲述了一个奇异的梦。",
+        "pinyin": "Tā jiǎngshù le yí ge qíyì de mèng.",
+        "en": "Fantastik bir rüya anlattı."
+      }
+    ]
+  },
+  {
+    "id": "w5223",
+    "hanzi": "崎岖",
+    "pinyin": "qíqū",
+    "meaning": "engebeli, sarp",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这条山路十分崎岖。",
+        "pinyin": "Zhè tiáo shānlù shífēn qíqū.",
+        "en": "Bu dağ yolu oldukça engebeli."
+      },
+      {
+        "zh": "他们走过崎岖的小路才到达山顶。",
+        "pinyin": "Tāmen zǒuguò qíqū de xiǎolù cái dàodá shāndǐng.",
+        "en": "Engebeli patikadan geçtikten sonra zirveye ulaştılar."
+      }
+    ]
+  },
+  {
+    "id": "w5224",
+    "hanzi": "谱写",
+    "pinyin": "pǔxiě",
+    "meaning": "bestelemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他为这部电影谱写了主题曲。",
+        "pinyin": "Tā wèi zhè bù diànyǐng pǔxiě le zhǔtíqǔ.",
+        "en": "Bu film için tema şarkısını besteledi."
+      },
+      {
+        "zh": "这位作曲家谱写了许多经典乐曲。",
+        "pinyin": "Zhè wèi zuòqǔjiā pǔxiě le hěnduō jīngdiǎn yuèqǔ.",
+        "en": "Bu besteci birçok klasik eser besteledi."
+      }
+    ]
   }
 ]

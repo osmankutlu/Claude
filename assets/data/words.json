@@ -208348,5 +208348,755 @@
         "en": "Yeni bir çırak aldı."
       }
     ]
+  },
+  {
+    "id": "w6205",
+    "hanzi": "徒劳",
+    "pinyin": "túláo",
+    "meaning": "boşuna çalışmak, boşuna uğraşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的努力完全是徒劳。",
+        "pinyin": "Tā de nǔlì wánquán shì túláo.",
+        "en": "Onun çabası tamamen boşunaydı."
+      },
+      {
+        "zh": "不要再徒劳地劝他了。",
+        "pinyin": "Bùyào zài túláo de quàn tā le.",
+        "en": "Onu boşuna ikna etmeye çalışma artık."
+      }
+    ]
+  },
+  {
+    "id": "w6206",
+    "hanzi": "徒然",
+    "pinyin": "túrán",
+    "meaning": "boş yere, boşuna",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这样做只是徒然浪费时间。",
+        "pinyin": "Zhèyàng zuò zhǐshì túrán làngfèi shíjiān.",
+        "en": "Böyle yapmak sadece boşuna zaman kaybetmektir."
+      },
+      {
+        "zh": "徒然的争吵没有任何意义。",
+        "pinyin": "Túrán de zhēngchǎo méiyǒu rènhé yìyì.",
+        "en": "Boşuna kavga etmenin hiçbir anlamı yok."
+      }
+    ]
+  },
+  {
+    "id": "w6207",
+    "hanzi": "徒手",
+    "pinyin": "túshǒu",
+    "meaning": "eli boş, silahsız",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他徒手爬上了那面墙。",
+        "pinyin": "Tā túshǒu pá shàngle nà miàn qiáng.",
+        "en": "O duvara elleriyle çıktı."
+      },
+      {
+        "zh": "警察徒手制服了歹徒。",
+        "pinyin": "Jǐngchá túshǒu zhìfúle dǎitú.",
+        "en": "Polis suçluyu silahsız olarak etkisiz hale getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6208",
+    "hanzi": "徒刑",
+    "pinyin": "túxíng",
+    "meaning": "hapis cezası, hapsetme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "他被判处三年徒刑。",
+        "pinyin": "Tā bèi pànchǔ sān nián túxíng.",
+        "en": "Ona üç yıl hapis cezası verildi."
+      },
+      {
+        "zh": "有期徒刑最长可达十五年。",
+        "pinyin": "Yǒuqī túxíng zuì cháng kě dá shíwǔ nián.",
+        "en": "Süreli hapis cezası en fazla on beş yıl olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6209",
+    "hanzi": "土",
+    "pinyin": "tǔ",
+    "meaning": "toprak; yerel, yöresel; kaba, modası geçmiş",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "花园里的土很肥沃。",
+        "pinyin": "Huāyuán lǐ de tǔ hěn féiwò.",
+        "en": "Bahçedeki toprak çok verimli."
+      },
+      {
+        "zh": "这条路上都是土。",
+        "pinyin": "Zhè tiáo lù shàng dōu shì tǔ.",
+        "en": "Bu yol tamamen toprak."
+      },
+      {
+        "zh": "他的穿着有点土。",
+        "pinyin": "Tā de chuānzhuó yǒudiǎn tǔ.",
+        "en": "Onun giyimi biraz modası geçmiş."
+      },
+      {
+        "zh": "这是我们家乡的土特产。",
+        "pinyin": "Zhè shì wǒmen jiāxiāng de tǔtèchǎn.",
+        "en": "Bu bizim memleketimizin yöresel ürünü."
+      },
+      {
+        "zh": "农民在土地上辛勤劳作。",
+        "pinyin": "Nóngmín zài tǔdì shàng xīnqín láozuò.",
+        "en": "Çiftçiler toprakta canla başla çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6210",
+    "hanzi": "土包子",
+    "pinyin": "tǔbāozi",
+    "meaning": "hödük, medeniyet görmemiş kişi, kıro",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "别笑他是土包子。",
+        "pinyin": "Bié xiào tā shì tǔbāozi.",
+        "en": "Ona hödük diye gülme."
+      },
+      {
+        "zh": "他刚从农村来,像个土包子。",
+        "pinyin": "Tā gāng cóng nóngcūn lái, xiàng ge tǔbāozi.",
+        "en": "O daha yeni köyden geldi, kıro gibi görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w6211",
+    "hanzi": "土崩瓦解",
+    "pinyin": "tǔbēng wǎjiě",
+    "meaning": "ufalanmak, çökmek, tamamen yıkılmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个庞大的帝国最终土崩瓦解了。",
+        "pinyin": "Zhège pángdà de dìguó zuìzhōng tǔbēng wǎjiě le.",
+        "en": "Bu devasa imparatorluk sonunda tamamen çöktü."
+      },
+      {
+        "zh": "公司的计划土崩瓦解。",
+        "pinyin": "Gōngsī de jìhuà tǔbēng wǎjiě.",
+        "en": "Şirketin planı tamamen çöktü."
+      }
+    ]
+  },
+  {
+    "id": "w6212",
+    "hanzi": "土产",
+    "pinyin": "tǔchǎn",
+    "meaning": "yerel ürün, yöresel ürün",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这是当地的土产。",
+        "pinyin": "Zhè shì dāngdì de tǔchǎn.",
+        "en": "Bu buranın yöresel ürünü."
+      },
+      {
+        "zh": "游客喜欢买些土产带回家。",
+        "pinyin": "Yóukè xǐhuān mǎi xiē tǔchǎn dài huí jiā.",
+        "en": "Turistler eve götürmek için yöresel ürün almayı severler."
+      }
+    ]
+  },
+  {
+    "id": "w6213",
+    "hanzi": "土匪",
+    "pinyin": "tǔfěi",
+    "meaning": "haydut, eşkıya",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这一带以前有很多土匪。",
+        "pinyin": "Zhè yīdài yǐqián yǒu hěn duō tǔfěi.",
+        "en": "Bu bölgede eskiden çok eşkıya vardı."
+      },
+      {
+        "zh": "村子遭到了土匪的袭击。",
+        "pinyin": "Cūnzi zāodàole tǔfěi de xíjí.",
+        "en": "Köy eşkıyaların saldırısına uğradı."
+      }
+    ]
+  },
+  {
+    "id": "w6214",
+    "hanzi": "土话",
+    "pinyin": "tǔhuà",
+    "meaning": "yerel dil, yöresel lehçe",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我听不懂这里的土话。",
+        "pinyin": "Wǒ tīng bù dǒng zhèlǐ de tǔhuà.",
+        "en": "Buranın yöresel lehçesini anlamıyorum."
+      },
+      {
+        "zh": "他说话带着浓浓的土话口音。",
+        "pinyin": "Tā shuōhuà dàizhe nóngnóng de tǔhuà kǒuyīn.",
+        "en": "Konuşurken güçlü bir yöresel aksan kullanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6215",
+    "hanzi": "推测",
+    "pinyin": "tuīcè",
+    "meaning": "tahmin etmek, sonuç çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们只能推测事情的原因。",
+        "pinyin": "Wǒmen zhǐ néng tuīcè shìqíng de yuányīn.",
+        "en": "Olayın sebebini ancak tahmin edebiliriz."
+      },
+      {
+        "zh": "他推测明天会下雨。",
+        "pinyin": "Tā tuīcè míngtiān huì xiàyǔ.",
+        "en": "O yarın yağmur yağacağını tahmin ediyor."
+      },
+      {
+        "zh": "科学家们推测这种现象的成因。",
+        "pinyin": "Kēxuéjiāmen tuīcè zhè zhǒng xiànxiàng de chéngyīn.",
+        "en": "Bilim insanları bu olgunun sebebini tahmin ediyor."
+      },
+      {
+        "zh": "根据数据推测未来的趋势。",
+        "pinyin": "Gēnjù shùjù tuīcè wèilái de qūshì.",
+        "en": "Verilere dayanarak geleceğin eğilimini tahmin etmek."
+      },
+      {
+        "zh": "他的推测被证实是正确的。",
+        "pinyin": "Tā de tuīcè bèi zhèngshí shì zhèngquè de.",
+        "en": "Onun tahmininin doğru olduğu kanıtlandı."
+      }
+    ]
+  },
+  {
+    "id": "w6216",
+    "hanzi": "推陈出新",
+    "pinyin": "tuīchén chūxīn",
+    "meaning": "yeni fikirler ortaya atmak, yenilik getirmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "艺术需要不断推陈出新。",
+        "pinyin": "Yìshù xūyào bùduàn tuīchén chūxīn.",
+        "en": "Sanatın sürekli yenilenmesi gerekir."
+      },
+      {
+        "zh": "这家公司善于推陈出新。",
+        "pinyin": "Zhè jiā gōngsī shànyú tuīchén chūxīn.",
+        "en": "Bu şirket yenilik getirmede başarılı."
+      }
+    ]
+  },
+  {
+    "id": "w6217",
+    "hanzi": "推崇",
+    "pinyin": "tuīchóng",
+    "meaning": "saygı duymak, saygı göstermek, takdir etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他的作品受到广泛推崇。",
+        "pinyin": "Tā de zuòpǐn shòudào guǎngfàn tuīchóng.",
+        "en": "Onun eserleri geniş çapta takdir edildi."
+      },
+      {
+        "zh": "人们很推崇他的品德。",
+        "pinyin": "Rénmen hěn tuīchóng tā de pǐndé.",
+        "en": "İnsanlar onun karakterine çok saygı duyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6218",
+    "hanzi": "推出",
+    "pinyin": "tuīchū",
+    "meaning": "piyasaya sürmek, çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司推出了新产品。",
+        "pinyin": "Gōngsī tuīchūle xīn chǎnpǐn.",
+        "en": "Şirket yeni bir ürün piyasaya sürdü."
+      },
+      {
+        "zh": "他们明天要推出新的软件版本。",
+        "pinyin": "Tāmen míngtiān yào tuīchū xīn de ruǎnjiàn bǎnběn.",
+        "en": "Yarın yeni bir yazılım sürümü çıkaracaklar."
+      },
+      {
+        "zh": "银行推出了优惠政策。",
+        "pinyin": "Yínháng tuīchūle yōuhuì zhèngcè.",
+        "en": "Banka avantajlı bir politika sundu."
+      },
+      {
+        "zh": "这部电影即将推出。",
+        "pinyin": "Zhè bù diànyǐng jíjiāng tuīchū.",
+        "en": "Bu film yakında vizyona girecek."
+      },
+      {
+        "zh": "商店推出了打折活动。",
+        "pinyin": "Shāngdiàn tuīchūle dǎzhé huódòng.",
+        "en": "Mağaza bir indirim kampanyası başlattı."
+      }
+    ]
+  },
+  {
+    "id": "w6219",
+    "hanzi": "推倒",
+    "pinyin": "tuīdǎo",
+    "meaning": "devirmek, ters çevirmek; iptal etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "大风把树推倒了。",
+        "pinyin": "Dàfēng bǎ shù tuīdǎo le.",
+        "en": "Güçlü rüzgar ağacı devirdi."
+      },
+      {
+        "zh": "他推倒了原来的计划。",
+        "pinyin": "Tā tuīdǎole yuánlái de jìhuà.",
+        "en": "O eski planı iptal etti."
+      }
+    ]
+  },
+  {
+    "id": "w6220",
+    "hanzi": "推动",
+    "pinyin": "tuīdòng",
+    "meaning": "ilerletmek, hızlandırmak, teşvik etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "政府推动了经济的发展。",
+        "pinyin": "Zhèngfǔ tuīdòngle jīngjì de fāzhǎn.",
+        "en": "Hükümet ekonominin gelişimini ilerletti."
+      },
+      {
+        "zh": "科技推动社会不断进步。",
+        "pinyin": "Kējì tuīdòng shèhuì bùduàn jìnbù.",
+        "en": "Teknoloji toplumun sürekli ilerlemesini sağlıyor."
+      },
+      {
+        "zh": "这项政策推动了改革。",
+        "pinyin": "Zhè xiàng zhèngcè tuīdòngle gǎigé.",
+        "en": "Bu politika reformu ilerletti."
+      },
+      {
+        "zh": "他努力推动项目的进展。",
+        "pinyin": "Tā nǔlì tuīdòng xiàngmù de jìnzhǎn.",
+        "en": "O projenin ilerlemesini teşvik etmek için çabalıyor."
+      },
+      {
+        "zh": "教育对国家发展有推动作用。",
+        "pinyin": "Jiàoyù duì guójiā fāzhǎn yǒu tuīdòng zuòyòng.",
+        "en": "Eğitimin ülke gelişimine teşvik edici bir etkisi var."
+      }
+    ]
+  },
+  {
+    "id": "w6221",
+    "hanzi": "推翻",
+    "pinyin": "tuīfān",
+    "meaning": "devirmek, alaşağı etmek; reddetmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "革命推翻了旧政府。",
+        "pinyin": "Gémìng tuīfānle jiù zhèngfǔ.",
+        "en": "Devrim eski hükümeti devirdi."
+      },
+      {
+        "zh": "新的证据推翻了原来的结论。",
+        "pinyin": "Xīn de zhèngjù tuīfānle yuánlái de jiélùn.",
+        "en": "Yeni kanıt eski sonucu çürüttü."
+      }
+    ]
+  },
+  {
+    "id": "w6222",
+    "hanzi": "推举",
+    "pinyin": "tuījǔ",
+    "meaning": "seçmek, aday göstermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "大家推举他当代表。",
+        "pinyin": "Dàjiā tuījǔ tā dāng dàibiǎo.",
+        "en": "Herkes onu temsilci olarak seçti."
+      },
+      {
+        "zh": "他被推举为委员会主席。",
+        "pinyin": "Tā bèi tuījǔ wéi wěiyuánhuì zhǔxí.",
+        "en": "O komite başkanı olarak seçildi."
+      }
+    ]
+  },
+  {
+    "id": "w6223",
+    "hanzi": "推理",
+    "pinyin": "tuīlǐ",
+    "meaning": "akıl yürütme, sonuç çıkarma, tümdengelim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "他喜欢看推理小说。",
+        "pinyin": "Tā xǐhuān kàn tuīlǐ xiǎoshuō.",
+        "en": "O polisiye roman okumayı sever."
+      },
+      {
+        "zh": "这个推理过程很严密。",
+        "pinyin": "Zhège tuīlǐ guòchéng hěn yánmì.",
+        "en": "Bu akıl yürütme süreci çok titiz."
+      },
+      {
+        "zh": "侦探通过推理找到了真相。",
+        "pinyin": "Zhēntàn tōngguò tuīlǐ zhǎodàole zhēnxiàng.",
+        "en": "Dedektif akıl yürüterek gerçeği buldu."
+      },
+      {
+        "zh": "科学研究离不开逻辑推理。",
+        "pinyin": "Kēxué yánjiū líbukāi luójí tuīlǐ.",
+        "en": "Bilimsel araştırma mantıksal akıl yürütmeden ayrılamaz."
+      },
+      {
+        "zh": "她的推理能力很强。",
+        "pinyin": "Tā de tuīlǐ nénglì hěn qiáng.",
+        "en": "Onun akıl yürütme yeteneği çok güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w6224",
+    "hanzi": "推论",
+    "pinyin": "tuīlùn",
+    "meaning": "sonuç çıkarma, çıkarım",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个推论并不完全正确。",
+        "pinyin": "Zhège tuīlùn bìng bù wánquán zhèngquè.",
+        "en": "Bu çıkarım tamamen doğru değil."
+      },
+      {
+        "zh": "他的推论建立在事实基础上。",
+        "pinyin": "Tā de tuīlùn jiànlì zài shìshí jīchǔ shàng.",
+        "en": "Onun çıkarımı gerçeklere dayanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6225",
+    "hanzi": "推敲",
+    "pinyin": "tuīqiāo",
+    "meaning": "üzerinde düşünüp tartmak, dikkatlice değerlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这句话需要仔细推敲。",
+        "pinyin": "Zhè jù huà xūyào zǐxì tuīqiāo.",
+        "en": "Bu cümlenin dikkatlice tartılması gerekiyor."
+      },
+      {
+        "zh": "他反复推敲每一个字。",
+        "pinyin": "Tā fǎnfù tuīqiāo měi yī gè zì.",
+        "en": "O her kelimeyi defalarca tartıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6226",
+    "hanzi": "推却",
+    "pinyin": "tuīquè",
+    "meaning": "reddetmek, kabul etmemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他推却了这个邀请。",
+        "pinyin": "Tā tuīquèle zhège yāoqǐng.",
+        "en": "O bu daveti reddetti."
+      },
+      {
+        "zh": "她推却了别人的好意。",
+        "pinyin": "Tā tuīquèle biérén de hǎoyì.",
+        "en": "O başkasının iyi niyetini reddetti."
+      }
+    ]
+  },
+  {
+    "id": "w6227",
+    "hanzi": "推销",
+    "pinyin": "tuīxiāo",
+    "meaning": "satışları artırmak, pazarlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他在推销新产品。",
+        "pinyin": "Tā zài tuīxiāo xīn chǎnpǐn.",
+        "en": "O yeni bir ürünü pazarlıyor."
+      },
+      {
+        "zh": "推销员挨家挨户地推销商品。",
+        "pinyin": "Tuīxiāoyuán āijiā āihù de tuīxiāo shāngpǐn.",
+        "en": "Satıcı kapı kapı dolaşarak ürün satıyor."
+      },
+      {
+        "zh": "公司花大量资金推销品牌。",
+        "pinyin": "Gōngsī huā dàliàng zījīn tuīxiāo pǐnpái.",
+        "en": "Şirket markayı tanıtmak için büyük miktarda para harcıyor."
+      },
+      {
+        "zh": "她擅长推销自己的想法。",
+        "pinyin": "Tā shàncháng tuīxiāo zìjǐ de xiǎngfǎ.",
+        "en": "O kendi fikirlerini satmakta başarılı."
+      },
+      {
+        "zh": "这种推销手段很有效。",
+        "pinyin": "Zhè zhǒng tuīxiāo shǒuduàn hěn yǒuxiào.",
+        "en": "Bu tür pazarlama yöntemi çok etkili."
+      }
+    ]
+  },
+  {
+    "id": "w6228",
+    "hanzi": "推卸",
+    "pinyin": "tuīxiè",
+    "meaning": "sorumluluktan kaçınmak, üstünden atmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他不能推卸自己的责任。",
+        "pinyin": "Tā bùnéng tuīxiè zìjǐ de zérèn.",
+        "en": "O kendi sorumluluğundan kaçınamaz."
+      },
+      {
+        "zh": "她试图推卸失败的原因。",
+        "pinyin": "Tā shìtú tuīxiè shībài de yuányīn.",
+        "en": "O başarısızlığın sebebini üzerinden atmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6229",
+    "hanzi": "推心置腹",
+    "pinyin": "tuīxīn zhìfù",
+    "meaning": "samimi davranmak, içtenlikle konuşmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们推心置腹地交谈了很久。",
+        "pinyin": "Tāmen tuīxīn zhìfù de jiāotánle hěn jiǔ.",
+        "en": "Onlar uzun süre samimi bir şekilde sohbet ettiler."
+      },
+      {
+        "zh": "朋友之间应该推心置腹。",
+        "pinyin": "Péngyǒu zhījiān yīnggāi tuīxīn zhìfù.",
+        "en": "Arkadaşlar arasında içten olunmalı."
+      }
+    ]
+  },
+  {
+    "id": "w6230",
+    "hanzi": "推行",
+    "pinyin": "tuīxíng",
+    "meaning": "uygulamak, yürürlüğe koymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "政府正在推行新的政策。",
+        "pinyin": "Zhèngfǔ zhèngzài tuīxíng xīn de zhèngcè.",
+        "en": "Hükümet yeni bir politikayı yürürlüğe koyuyor."
+      },
+      {
+        "zh": "这项改革难以推行。",
+        "pinyin": "Zhè xiàng gǎigé nányǐ tuīxíng.",
+        "en": "Bu reformu uygulamak zor."
+      }
+    ]
+  },
+  {
+    "id": "w6231",
+    "hanzi": "推移",
+    "pinyin": "tuīyí",
+    "meaning": "(zaman) geçmek, akmak; (durum) gelişmek, değişmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "随着时间的推移,一切都会改变。",
+        "pinyin": "Suízhe shíjiān de tuīyí, yīqiè dōu huì gǎibiàn.",
+        "en": "Zaman geçtikçe her şey değişecek."
+      },
+      {
+        "zh": "情况随着形势的推移而发展。",
+        "pinyin": "Qíngkuàng suízhe xíngshì de tuīyí ér fāzhǎn.",
+        "en": "Durum gelişmelerin ilerlemesiyle birlikte değişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6232",
+    "hanzi": "退出",
+    "pinyin": "tuìchū",
+    "meaning": "geri çekilmek, çıkmak, ayrılmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他决定退出这个项目。",
+        "pinyin": "Tā juédìng tuìchū zhège xiàngmù.",
+        "en": "O bu projeden çekilmeye karar verdi."
+      },
+      {
+        "zh": "请退出这个应用程序。",
+        "pinyin": "Qǐng tuìchū zhège yìngyòng chéngxù.",
+        "en": "Lütfen bu uygulamadan çıkın."
+      },
+      {
+        "zh": "她退出了比赛。",
+        "pinyin": "Tā tuìchūle bǐsài.",
+        "en": "O yarıştan çekildi."
+      },
+      {
+        "zh": "军队已经退出了那个地区。",
+        "pinyin": "Jūnduì yǐjīng tuìchūle nàge dìqū.",
+        "en": "Ordu o bölgeden çoktan çekildi."
+      },
+      {
+        "zh": "他因病退出了工作岗位。",
+        "pinyin": "Tā yīn bìng tuìchūle gōngzuò gǎngwèi.",
+        "en": "O hastalık nedeniyle iş görevinden ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6233",
+    "hanzi": "退化",
+    "pinyin": "tuìhuà",
+    "meaning": "gerilemek, dejenere olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "长期不用会导致功能退化。",
+        "pinyin": "Chángqí bùyòng huì dǎozhì gōngnéng tuìhuà.",
+        "en": "Uzun süre kullanmamak fonksiyon kaybına yol açabilir."
+      },
+      {
+        "zh": "视力随着年龄增长而退化。",
+        "pinyin": "Shìlì suízhe niánlíng zēngzhǎng ér tuìhuà.",
+        "en": "Görme yaş ilerledikçe zayıflar."
+      }
+    ]
+  },
+  {
+    "id": "w6234",
+    "hanzi": "退换",
+    "pinyin": "tuìhuàn",
+    "meaning": "değiştirmek (satın alınan malı)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这件商品可以退换。",
+        "pinyin": "Zhè jiàn shāngpǐn kěyǐ tuìhuàn.",
+        "en": "Bu ürün değiştirilebilir."
+      },
+      {
+        "zh": "如果不满意可以申请退换。",
+        "pinyin": "Rúguǒ bù mǎnyì kěyǐ shēnqǐng tuìhuàn.",
+        "en": "Memnun kalmazsanız değişim talep edebilirsiniz."
+      },
+      {
+        "zh": "商店提供七天内退换的服务。",
+        "pinyin": "Shāngdiàn tígōng qī tiān nèi tuìhuàn de fúwù.",
+        "en": "Mağaza yedi gün içinde değişim hizmeti sunuyor."
+      },
+      {
+        "zh": "衣服尺寸不合适可以退换。",
+        "pinyin": "Yīfú chǐcùn bù héshì kěyǐ tuìhuàn.",
+        "en": "Kıyafetin bedeni uymazsa değiştirilebilir."
+      },
+      {
+        "zh": "他把买错的东西拿去退换了。",
+        "pinyin": "Tā bǎ mǎi cuò de dōngxi ná qù tuìhuàn le.",
+        "en": "O yanlış aldığı şeyi değiştirmeye götürdü."
+      }
+    ]
   }
 ]

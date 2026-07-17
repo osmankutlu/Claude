@@ -173155,5 +173155,617 @@
         "en": "Beyni çok hızlı çalışıyor."
       }
     ]
+  },
+  {
+    "id": "w5007",
+    "hanzi": "脑筋",
+    "pinyin": "nǎojīn",
+    "meaning": "Zeka, akıl, fikir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "多动脑筋才能想出好办法。",
+        "pinyin": "Duō dòng nǎojīn cáinéng xiǎngchū hǎo bànfǎ.",
+        "en": "Ancak çok kafa yorarak iyi bir yöntem bulunabilir."
+      },
+      {
+        "zh": "他脑筋灵活,反应很快。",
+        "pinyin": "Tā nǎojīn línghuó, fǎnyìng hěn kuài.",
+        "en": "Zekası çok çevik, tepkisi çok hızlı."
+      },
+      {
+        "zh": "这个问题让人很伤脑筋。",
+        "pinyin": "Zhège wèntí ràng rén hěn shāng nǎojīn.",
+        "en": "Bu sorun insanın kafasını çok yoruyor."
+      },
+      {
+        "zh": "他脑筋一转,想出了新点子。",
+        "pinyin": "Tā nǎojīn yì zhuǎn, xiǎngchū le xīn diǎnzi.",
+        "en": "Aklından geçen bir fikirle yeni bir çözüm buldu."
+      },
+      {
+        "zh": "老人的脑筋依然十分清楚。",
+        "pinyin": "Lǎorén de nǎojīn yīrán shífēn qīngchu.",
+        "en": "Yaşlı kişinin zihni hâlâ çok berrak."
+      }
+    ]
+  },
+  {
+    "id": "w5008",
+    "hanzi": "脑子",
+    "pinyin": "nǎozi",
+    "meaning": "Beyin; akıl",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他脑子很聪明。",
+        "pinyin": "Tā nǎozi hěn cōngming.",
+        "en": "Aklı çok zeki."
+      },
+      {
+        "zh": "别把脑子想复杂了。",
+        "pinyin": "Bié bǎ nǎozi xiǎng fùzá le.",
+        "en": "Kafanı karmaşık düşüncelerle doldurma."
+      },
+      {
+        "zh": "他脑子里全是这件事。",
+        "pinyin": "Tā nǎozi lǐ quán shì zhè jiàn shì.",
+        "en": "Kafası tamamen bu konuyla dolu."
+      },
+      {
+        "zh": "他脑子一片空白,什么也想不起来。",
+        "pinyin": "Tā nǎozi yí piàn kòngbái, shénme yě xiǎngbuqǐlai.",
+        "en": "Aklı tamamen boşaldı, hiçbir şey hatırlayamıyor."
+      },
+      {
+        "zh": "这道题需要动脑子才能解出来。",
+        "pinyin": "Zhè dào tí xūyào dòng nǎozi cáinéng jiěchūlai.",
+        "en": "Bu problemin çözülmesi kafa yormayı gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5009",
+    "hanzi": "闹",
+    "pinyin": "nào",
+    "meaning": "Gürültülü; gürültü yapmak",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "外面很闹,睡不着。",
+        "pinyin": "Wàimiàn hěn nào, shuìbuzháo.",
+        "en": "Dışarısı çok gürültülü, uyuyamıyorum."
+      },
+      {
+        "zh": "孩子们在客厅里闹得很欢。",
+        "pinyin": "Háizimen zài kètīng lǐ nào de hěn huān.",
+        "en": "Çocuklar salonda coşkuyla ortalığı velveleye veriyorlar."
+      },
+      {
+        "zh": "别闹了,认真做作业。",
+        "pinyin": "Bié nào le, rènzhēn zuò zuòyè.",
+        "en": "Yaramazlık etme, ödevini ciddiyetle yap."
+      },
+      {
+        "zh": "他因为一点小事就闹别扭。",
+        "pinyin": "Tā yīnwèi yìdiǎn xiǎoshì jiù nào bièniu.",
+        "en": "Küçük bir şey yüzünden dargınlık yapıyor."
+      },
+      {
+        "zh": "他闹肚子了,一直跑厕所。",
+        "pinyin": "Tā nào dùzi le, yìzhí pǎo cèsuǒ.",
+        "en": "Karnı ağrıyor, sürekli tuvalete koşuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5010",
+    "hanzi": "闹钟",
+    "pinyin": "nàozhōng",
+    "meaning": "Çalar saat",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "闹钟七点响了。",
+        "pinyin": "Nàozhōng qī diǎn xiǎng le.",
+        "en": "Çalar saat yedide çaldı."
+      },
+      {
+        "zh": "他把闹钟设定到六点半。",
+        "pinyin": "Tā bǎ nàozhōng shèdìng dào liù diǎn bàn.",
+        "en": "Çalar saati altı buçuğa ayarladı."
+      },
+      {
+        "zh": "他每天都被闹钟吵醒。",
+        "pinyin": "Tā měitiān dōu bèi nàozhōng chǎoxǐng.",
+        "en": "Her gün çalar saatin sesiyle uyanıyor."
+      },
+      {
+        "zh": "闹钟没电了,他睡过头了。",
+        "pinyin": "Nàozhōng méi diàn le, tā shuìguòtóu le.",
+        "en": "Çalar saatin pili bitti, uykuya daldı kaldı."
+      },
+      {
+        "zh": "他买了一个新的闹钟。",
+        "pinyin": "Tā mǎi le yí gè xīn de nàozhōng.",
+        "en": "Yeni bir çalar saat satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5011",
+    "hanzi": "内部",
+    "pinyin": "nèibù",
+    "meaning": "İç, iç kısım",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这是公司内部的会议。",
+        "pinyin": "Zhè shì gōngsī nèibù de huìyì.",
+        "en": "Bu şirket içi bir toplantıdır."
+      },
+      {
+        "zh": "机器内部结构十分复杂。",
+        "pinyin": "Jīqì nèibù jiégòu shífēn fùzá.",
+        "en": "Makinenin iç yapısı oldukça karmaşıktır."
+      },
+      {
+        "zh": "这份文件仅限内部使用。",
+        "pinyin": "Zhè fèn wénjiàn jǐnxiàn nèibù shǐyòng.",
+        "en": "Bu belge yalnızca iç kullanım içindir."
+      },
+      {
+        "zh": "他了解公司内部的运作方式。",
+        "pinyin": "Tā liǎojiě gōngsī nèibù de yùnzuò fāngshì.",
+        "en": "Şirketin iç işleyiş şeklini biliyor."
+      },
+      {
+        "zh": "建筑内部装修十分豪华。",
+        "pinyin": "Jiànzhù nèibù zhuāngxiū shífēn háohuá.",
+        "en": "Binanın iç dekorasyonu son derece lüks."
+      }
+    ]
+  },
+  {
+    "id": "w5012",
+    "hanzi": "内阁",
+    "pinyin": "nèigé",
+    "meaning": "Kabine (bakanlar kurulu)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "新内阁已经组成。",
+        "pinyin": "Xīn nèigé yǐjīng zǔchéng.",
+        "en": "Yeni kabine oluşturuldu."
+      },
+      {
+        "zh": "内阁成员将于明天宣誓就职。",
+        "pinyin": "Nèigé chéngyuán jiāng yú míngtiān xuānshì jiùzhí.",
+        "en": "Kabine üyeleri yarın yemin edecek."
+      },
+      {
+        "zh": "首相召开了内阁会议。",
+        "pinyin": "Shǒuxiàng zhàokāi le nèigé huìyì.",
+        "en": "Başbakan kabine toplantısı yaptı."
+      },
+      {
+        "zh": "这项决定需要内阁批准。",
+        "pinyin": "Zhè xiàng juédìng xūyào nèigé pīzhǔn.",
+        "en": "Bu kararın kabine tarafından onaylanması gerekiyor."
+      },
+      {
+        "zh": "内阁进行了一次重要改组。",
+        "pinyin": "Nèigé jìnxíng le yí cì zhòngyào gǎizǔ.",
+        "en": "Kabine önemli bir yeniden yapılanmadan geçti."
+      }
+    ]
+  },
+  {
+    "id": "w5013",
+    "hanzi": "内行",
+    "pinyin": "nèiháng",
+    "meaning": "Uzman, bilirkişi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是这方面的内行。",
+        "pinyin": "Tā shì zhè fāngmiàn de nèiháng.",
+        "en": "O bu alanda uzmandır."
+      },
+      {
+        "zh": "在电脑维修方面他很内行。",
+        "pinyin": "Zài diànnǎo wéixiū fāngmiàn tā hěn nèiháng.",
+        "en": "Bilgisayar tamirinde çok uzmandır."
+      },
+      {
+        "zh": "他一眼就看出了这幅画的问题,真是内行。",
+        "pinyin": "Tā yì yǎn jiù kànchū le zhè fú huà de wèntí, zhēnshi nèiháng.",
+        "en": "Bir bakışta bu resmin sorununu fark etti, gerçekten uzman biri."
+      },
+      {
+        "zh": "遇到问题最好请教内行人。",
+        "pinyin": "Yùdào wèntí zuìhǎo qǐngjiào nèihángrén.",
+        "en": "Sorunla karşılaştığında en iyisi uzmana danışmaktır."
+      },
+      {
+        "zh": "他做起生意来十分内行。",
+        "pinyin": "Tā zuòqǐ shēngyì lái shífēn nèiháng.",
+        "en": "İş yaparken oldukça uzman davranıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5014",
+    "hanzi": "内心",
+    "pinyin": "nèixīn",
+    "meaning": "Kalp, iç dünya",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的内心十分痛苦。",
+        "pinyin": "Tā de nèixīn shífēn tòngkǔ.",
+        "en": "İç dünyası son derece acı içinde."
+      },
+      {
+        "zh": "她隐藏了自己的内心想法。",
+        "pinyin": "Tā yǐncáng le zìjǐ de nèixīn xiǎngfǎ.",
+        "en": "Kendi iç düşüncelerini sakladı."
+      },
+      {
+        "zh": "他内心充满了矛盾。",
+        "pinyin": "Tā nèixīn chōngmǎn le máodùn.",
+        "en": "İçi çelişkilerle dolu."
+      },
+      {
+        "zh": "她内心深处渴望被理解。",
+        "pinyin": "Tā nèixīn shēnchù kěwàng bèi lǐjiě.",
+        "en": "İçinin derinliklerinde anlaşılmayı arzuluyor."
+      },
+      {
+        "zh": "他表面平静,内心却波涛汹涌。",
+        "pinyin": "Tā biǎomiàn píngjìng, nèixīn què bōtāo-xiōngyǒng.",
+        "en": "Dış görünüşü sakin olsa da içi fırtınalar içinde."
+      }
+    ]
+  },
+  {
+    "id": "w5015",
+    "hanzi": "内衣",
+    "pinyin": "nèiyī",
+    "meaning": "İç çamaşırı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "她买了几件新内衣。",
+        "pinyin": "Tā mǎi le jǐ jiàn xīn nèiyī.",
+        "en": "Birkaç yeni iç çamaşırı satın aldı."
+      },
+      {
+        "zh": "冬天要穿保暖内衣。",
+        "pinyin": "Dōngtiān yào chuān bǎonuǎn nèiyī.",
+        "en": "Kışın ısıtıcı iç çamaşırı giymek gerekir."
+      },
+      {
+        "zh": "这种内衣面料非常柔软。",
+        "pinyin": "Zhè zhǒng nèiyī miànliào fēicháng róuruǎn.",
+        "en": "Bu tür iç çamaşırının kumaşı çok yumuşak."
+      },
+      {
+        "zh": "他把内衣洗干净晾了起来。",
+        "pinyin": "Tā bǎ nèiyī xǐ gānjìng liàng le qǐlai.",
+        "en": "İç çamaşırını temizce yıkayıp astı."
+      },
+      {
+        "zh": "选择合适的内衣很重要。",
+        "pinyin": "Xuǎnzé héshì de nèiyī hěn zhòngyào.",
+        "en": "Uygun iç çamaşırı seçmek çok önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w5016",
+    "hanzi": "内在",
+    "pinyin": "nèizài",
+    "meaning": "İçsel, doğuştan var olan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "她有一种内在的美。",
+        "pinyin": "Tā yǒu yì zhǒng nèizài de měi.",
+        "en": "İçsel bir güzelliği var."
+      },
+      {
+        "zh": "这两个事件之间存在内在联系。",
+        "pinyin": "Zhè liǎng gè shìjiàn zhījiān cúnzài nèizài liánxì.",
+        "en": "Bu iki olay arasında içsel bir bağlantı var."
+      },
+      {
+        "zh": "他有一种内在的自信。",
+        "pinyin": "Tā yǒu yì zhǒng nèizài de zìxìn.",
+        "en": "İçsel bir özgüveni var."
+      },
+      {
+        "zh": "这个问题有其内在的规律。",
+        "pinyin": "Zhège wèntí yǒu qí nèizài de guīlǜ.",
+        "en": "Bu sorunun kendine özgü içsel bir kuralı var."
+      },
+      {
+        "zh": "他追求的是内在的满足感。",
+        "pinyin": "Tā zhuīqiú de shì nèizài de mǎnzúgǎn.",
+        "en": "Peşinde koştuğu şey içsel tatmin duygusudur."
+      }
+    ]
+  },
+  {
+    "id": "w5017",
+    "hanzi": "内脏",
+    "pinyin": "nèizàng",
+    "meaning": "İç organlar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "医生检查了他的内脏器官。",
+        "pinyin": "Yīshēng jiǎnchá le tā de nèizàng qìguān.",
+        "en": "Doktor iç organlarını muayene etti."
+      },
+      {
+        "zh": "这次事故损伤了他的内脏。",
+        "pinyin": "Zhè cì shìgù sǔnshāng le tā de nèizàng.",
+        "en": "Bu kaza iç organlarına zarar verdi."
+      },
+      {
+        "zh": "内脏疾病需要及时治疗。",
+        "pinyin": "Nèizàng jíbìng xūyào jíshí zhìliáo.",
+        "en": "İç organ hastalıklarının zamanında tedavi edilmesi gerekir."
+      },
+      {
+        "zh": "他的内脏功能正常。",
+        "pinyin": "Tā de nèizàng gōngnéng zhèngcháng.",
+        "en": "İç organlarının işlevi normal."
+      },
+      {
+        "zh": "长期饮酒会损害内脏健康。",
+        "pinyin": "Chángqī yǐnjiǔ huì sǔnhài nèizàng jiànkāng.",
+        "en": "Uzun süreli alkol tüketimi iç organ sağlığına zarar verebilir."
+      }
+    ]
+  },
+  {
+    "id": "w5018",
+    "hanzi": "内战",
+    "pinyin": "nèizhàn",
+    "meaning": "İç savaş",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "这个国家爆发了内战。",
+        "pinyin": "Zhège guójiā bàofā le nèizhàn.",
+        "en": "Bu ülkede iç savaş patlak verdi."
+      },
+      {
+        "zh": "内战给国家带来了巨大灾难。",
+        "pinyin": "Nèizhàn gěi guójiā dàilái le jùdà zāinàn.",
+        "en": "İç savaş ülkeye büyük felaket getirdi."
+      },
+      {
+        "zh": "内战结束后,国家逐渐重建。",
+        "pinyin": "Nèizhàn jiéshù hòu, guójiā zhújiàn chóngjiàn.",
+        "en": "İç savaş sona erdikten sonra ülke giderek yeniden inşa edildi."
+      },
+      {
+        "zh": "内战期间很多人失去了家园。",
+        "pinyin": "Nèizhàn qījiān hěn duō rén shīqù le jiāyuán.",
+        "en": "İç savaş döneminde birçok insan yuvasını kaybetti."
+      },
+      {
+        "zh": "历史学家研究了这场内战的起因。",
+        "pinyin": "Lìshǐxuéjiā yánjiū le zhè chǎng nèizhàn de qǐyīn.",
+        "en": "Tarihçiler bu iç savaşın nedenini araştırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5019",
+    "hanzi": "能够",
+    "pinyin": "nénggòu",
+    "meaning": "-ebilmek, yeteneğe/koşula sahip olmak",
+    "partOfSpeech": "yardımcı fiil",
+    "level": 2,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他能够解决这个问题。",
+        "pinyin": "Tā nénggòu jiějué zhège wèntí.",
+        "en": "Bu sorunu çözebilir."
+      },
+      {
+        "zh": "只要努力,你就能够成功。",
+        "pinyin": "Zhǐyào nǔlì, nǐ jiù nénggòu chénggōng.",
+        "en": "Çaba gösterirsen başarılı olabilirsin."
+      },
+      {
+        "zh": "他能够流利地说三种语言。",
+        "pinyin": "Tā nénggòu liúlì de shuō sān zhǒng yǔyán.",
+        "en": "Üç dili akıcı bir şekilde konuşabiliyor."
+      },
+      {
+        "zh": "我不能够接受这个结果。",
+        "pinyin": "Wǒ bù nénggòu jiēshòu zhège jiéguǒ.",
+        "en": "Bu sonucu kabul edemiyorum."
+      },
+      {
+        "zh": "他终于能够独立完成这项工作了。",
+        "pinyin": "Tā zhōngyú nénggòu dúlì wánchéng zhè xiàng gōngzuò le.",
+        "en": "Sonunda bu işi bağımsız olarak tamamlayabildi."
+      }
+    ]
+  },
+  {
+    "id": "w5020",
+    "hanzi": "能量",
+    "pinyin": "néngliàng",
+    "meaning": "Enerji, güç",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "太阳能是一种清洁能量。",
+        "pinyin": "Tàiyángnéng shì yì zhǒng qīngjié néngliàng.",
+        "en": "Güneş enerjisi temiz bir enerji türüdür."
+      },
+      {
+        "zh": "运动可以释放身体的能量。",
+        "pinyin": "Yùndòng kěyǐ shìfàng shēntǐ de néngliàng.",
+        "en": "Spor vücuttaki enerjiyi serbest bırakabilir."
+      },
+      {
+        "zh": "食物为身体提供能量。",
+        "pinyin": "Shíwù wèi shēntǐ tígōng néngliàng.",
+        "en": "Yiyecekler vücuda enerji sağlar."
+      },
+      {
+        "zh": "他浑身充满了能量。",
+        "pinyin": "Tā húnshēn chōngmǎn le néngliàng.",
+        "en": "Tüm vücudu enerjiyle dolu."
+      },
+      {
+        "zh": "这个团队蕴藏着巨大的能量。",
+        "pinyin": "Zhège tuánduì yùncángzhe jùdà de néngliàng.",
+        "en": "Bu ekip büyük bir enerji barındırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5021",
+    "hanzi": "尼姑",
+    "pinyin": "nígū",
+    "meaning": "Budist rahibe",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "寺庙里住着几位尼姑。",
+        "pinyin": "Sìmiào lǐ zhùzhe jǐ wèi nígū.",
+        "en": "Tapınakta birkaç Budist rahibe yaşıyor."
+      },
+      {
+        "zh": "她出家做了尼姑。",
+        "pinyin": "Tā chūjiā zuò le nígū.",
+        "en": "Manastıra girip Budist rahibe oldu."
+      },
+      {
+        "zh": "尼姑们每天早晚都要念经。",
+        "pinyin": "Nígūmen měitiān zǎowǎn dōu yào niànjīng.",
+        "en": "Rahibeler her sabah akşam dua okumak zorundadır."
+      },
+      {
+        "zh": "这座尼姑庵有百年历史。",
+        "pinyin": "Zhè zuò nígū'ān yǒu bǎinián lìshǐ.",
+        "en": "Bu rahibe manastırının yüz yıllık tarihi var."
+      },
+      {
+        "zh": "尼姑过着清心寡欲的生活。",
+        "pinyin": "Nígū guòzhe qīngxīn-guǎyù de shēnghuó.",
+        "en": "Rahibeler sade ve isteklerden arınmış bir yaşam sürer."
+      }
+    ]
+  },
+  {
+    "id": "w5022",
+    "hanzi": "尼龙",
+    "pinyin": "nílóng",
+    "meaning": "Naylon",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这个背包是尼龙材质的。",
+        "pinyin": "Zhège bèibāo shì nílóng cáizhì de.",
+        "en": "Bu sırt çantası naylon malzemeden yapılmıştır."
+      },
+      {
+        "zh": "尼龙绳非常结实耐用。",
+        "pinyin": "Nílóng shéng fēicháng jiēshi nàiyòng.",
+        "en": "Naylon ip çok sağlam ve dayanıklıdır."
+      },
+      {
+        "zh": "她穿了一双尼龙丝袜。",
+        "pinyin": "Tā chuān le yì shuāng nílóng sīwà.",
+        "en": "Naylon çorap giydi."
+      },
+      {
+        "zh": "帐篷通常用尼龙布制作。",
+        "pinyin": "Zhàngpeng tōngcháng yòng nílóngbù zhìzuò.",
+        "en": "Çadırlar genellikle naylon kumaştan yapılır."
+      },
+      {
+        "zh": "尼龙的发明改变了纺织业。",
+        "pinyin": "Nílóng de fāmíng gǎibiàn le fǎngzhīyè.",
+        "en": "Naylonun icadı tekstil endüstrisini değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5023",
+    "hanzi": "泥",
+    "pinyin": "ní",
+    "meaning": "Çamur, balçık",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他的鞋子上沾满了泥。",
+        "pinyin": "Tā de xiézi shàng zhānmǎn le ní.",
+        "en": "Ayakkabıları çamura bulanmış."
+      },
+      {
+        "zh": "孩子们在泥地里玩耍。",
+        "pinyin": "Háizimen zài nídì lǐ wánshuǎ.",
+        "en": "Çocuklar çamurlu bir alanda oynuyor."
+      },
+      {
+        "zh": "下雨后路面很泥泞。",
+        "pinyin": "Xiàyǔ hòu lùmiàn hěn níníng.",
+        "en": "Yağmurdan sonra yol çamurla kaplı."
+      },
+      {
+        "zh": "他用泥捏了一个小人。",
+        "pinyin": "Tā yòng ní niē le yí gè xiǎorén.",
+        "en": "Çamurdan küçük bir insan figürü yaptı."
+      },
+      {
+        "zh": "农田里的泥十分肥沃。",
+        "pinyin": "Nóngtián lǐ de ní shífēn féiwò.",
+        "en": "Tarladaki toprak son derece bereketli."
+      }
+    ]
   }
 ]

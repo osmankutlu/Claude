@@ -226636,5 +226636,923 @@
         "en": "Onun açıklaması sorunu bir bakışta anlaşılır kıldı."
       }
     ]
+  },
+  {
+    "id": "w6823",
+    "hanzi": "一如既往",
+    "pinyin": "yīrújìwǎng",
+    "meaning": "eskisi gibi, önceki gibi",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他对工作一如既往地认真。",
+        "pinyin": "Tā duì gōngzuò yīrújìwǎng de rènzhēn.",
+        "en": "O işine karşı her zamanki gibi ciddi."
+      },
+      {
+        "zh": "她一如既往地支持我。",
+        "pinyin": "Tā yīrújìwǎng de zhīchí wǒ.",
+        "en": "O beni her zamanki gibi destekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w6824",
+    "hanzi": "一生",
+    "pinyin": "yīshēng",
+    "meaning": "ömür boyu, hayat boyu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他一生都致力于科学研究。",
+        "pinyin": "Tā yīshēng dōu zhìlì yú kēxué yánjiū.",
+        "en": "O tüm hayatını bilimsel araştırmaya adadı."
+      },
+      {
+        "zh": "这是我一生中最难忘的时刻。",
+        "pinyin": "Zhè shì wǒ yīshēng zhōng zuì nánwàng de shíkè.",
+        "en": "Bu hayatımın en unutulmaz anıdır."
+      },
+      {
+        "zh": "她一生没有结婚。",
+        "pinyin": "Tā yīshēng méiyǒu jiéhūn.",
+        "en": "O hayatı boyunca hiç evlenmedi."
+      },
+      {
+        "zh": "父母的爱陪伴我们一生。",
+        "pinyin": "Fùmǔ de ài péibàn wǒmen yīshēng.",
+        "en": "Ebeveynlerin sevgisi bize ömür boyu eşlik eder."
+      },
+      {
+        "zh": "他一生勤劳朴实。",
+        "pinyin": "Tā yīshēng qínláo pǔshí.",
+        "en": "O hayatı boyunca çalışkan ve sade bir insan oldu."
+      }
+    ]
+  },
+  {
+    "id": "w6825",
+    "hanzi": "一时",
+    "pinyin": "yīshí",
+    "meaning": "kısa süre için, o anda, bir an",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他一时想不起来那个人的名字。",
+        "pinyin": "Tā yīshí xiǎng bù qǐlai nàge rén de míngzi.",
+        "en": "O o kişinin adını bir anlığına hatırlayamadı."
+      },
+      {
+        "zh": "这只是一时的困难。",
+        "pinyin": "Zhè zhǐshì yīshí de kùnnan.",
+        "en": "Bu sadece geçici bir zorluk."
+      },
+      {
+        "zh": "他一时冲动做出了错误的决定。",
+        "pinyin": "Tā yīshí chōngdòng zuòchūle cuòwù de juédìng.",
+        "en": "O bir anlık dürtüyle yanlış bir karar verdi."
+      },
+      {
+        "zh": "一时半会儿说不清楚。",
+        "pinyin": "Yīshíbànhuìr shuō bù qīngchu.",
+        "en": "Kısa bir sürede açıklanamaz."
+      },
+      {
+        "zh": "他一时不知道该说什么。",
+        "pinyin": "Tā yīshí bùzhīdào gāi shuō shénme.",
+        "en": "O bir anlığına ne söyleyeceğini bilemedi."
+      }
+    ]
+  },
+  {
+    "id": "w6826",
+    "hanzi": "一系列",
+    "pinyin": "yīxìliè",
+    "meaning": "bir dizi, seri",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "公司采取了一系列措施。",
+        "pinyin": "Gōngsī cǎiqǔle yīxìliè cuòshī.",
+        "en": "Şirket bir dizi önlem aldı."
+      },
+      {
+        "zh": "这场事故引发了一系列问题。",
+        "pinyin": "Zhè chǎng shìgù yǐnfāle yīxìliè wèntí.",
+        "en": "Bu kaza bir dizi sorunu tetikledi."
+      },
+      {
+        "zh": "他经历了一系列的挑战。",
+        "pinyin": "Tā jīnglìle yīxìliè de tiǎozhàn.",
+        "en": "O bir dizi meydan okumayla karşılaştı."
+      },
+      {
+        "zh": "这是一系列课程中的第一节。",
+        "pinyin": "Zhè shì yīxìliè kèchéng zhōng de dì yī jié.",
+        "en": "Bu bir ders serisinin ilk dersidir."
+      },
+      {
+        "zh": "政府发布了一系列新规定。",
+        "pinyin": "Zhèngfǔ fābùle yīxìliè xīn guīdìng.",
+        "en": "Hükümet bir dizi yeni yönetmelik yayınladı."
+      }
+    ]
+  },
+  {
+    "id": "w6827",
+    "hanzi": "一下",
+    "pinyin": "yīxià",
+    "meaning": "biraz, bir kez, bir anda",
+    "partOfSpeech": "zarf",
+    "level": 2,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请等我一下。",
+        "pinyin": "Qǐng děng wǒ yīxià.",
+        "en": "Lütfen beni biraz bekle."
+      },
+      {
+        "zh": "我想看一下这本书。",
+        "pinyin": "Wǒ xiǎng kàn yīxià zhè běn shū.",
+        "en": "Bu kitaba bir bakmak istiyorum."
+      },
+      {
+        "zh": "他一下子跳了起来。",
+        "pinyin": "Tā yīxiàzi tiàole qǐlai.",
+        "en": "O bir anda sıçradı."
+      },
+      {
+        "zh": "让我想一下。",
+        "pinyin": "Ràng wǒ xiǎng yīxià.",
+        "en": "Bırak biraz düşüneyim."
+      },
+      {
+        "zh": "麻烦你帮我一下。",
+        "pinyin": "Máfan nǐ bāng wǒ yīxià.",
+        "en": "Zahmet olmazsa bana biraz yardım et."
+      }
+    ]
+  },
+  {
+    "id": "w6828",
+    "hanzi": "一向",
+    "pinyin": "yīxiàng",
+    "meaning": "sürekli olarak, hep, her zaman",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他一向很守时。",
+        "pinyin": "Tā yīxiàng hěn shǒushí.",
+        "en": "O her zaman dakiktir."
+      },
+      {
+        "zh": "她一向很努力。",
+        "pinyin": "Tā yīxiàng hěn nǔlì.",
+        "en": "O hep çok çalışkan olmuştur."
+      },
+      {
+        "zh": "他一向对朋友很真诚。",
+        "pinyin": "Tā yīxiàng duì péngyou hěn zhēnchéng.",
+        "en": "O arkadaşlarına karşı her zaman samimi olmuştur."
+      },
+      {
+        "zh": "这家店一向生意兴隆。",
+        "pinyin": "Zhè jiā diàn yīxiàng shēngyì xīnglóng.",
+        "en": "Bu dükkanın işleri her zaman iyi gitmiştir."
+      },
+      {
+        "zh": "他一向反对暴力。",
+        "pinyin": "Tā yīxiàng fǎnduì bàolì.",
+        "en": "O her zaman şiddete karşı olmuştur."
+      }
+    ]
+  },
+  {
+    "id": "w6829",
+    "hanzi": "一些",
+    "pinyin": "yīxiē",
+    "meaning": "biraz, birkaç",
+    "partOfSpeech": "sıfat",
+    "level": 2,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我买了一些水果。",
+        "pinyin": "Wǒ mǎile yīxiē shuǐguǒ.",
+        "en": "Biraz meyve satın aldım."
+      },
+      {
+        "zh": "他给我提了一些建议。",
+        "pinyin": "Tā gěi wǒ tíle yīxiē jiànyì.",
+        "en": "O bana bazı öneriler sundu."
+      },
+      {
+        "zh": "这次比之前好一些。",
+        "pinyin": "Zhè cì bǐ zhīqián hǎo yīxiē.",
+        "en": "Bu sefer öncekinden biraz daha iyi."
+      },
+      {
+        "zh": "我有一些疑问想问你。",
+        "pinyin": "Wǒ yǒu yīxiē yíwèn xiǎng wèn nǐ.",
+        "en": "Sana sormak istediğim bazı sorularım var."
+      },
+      {
+        "zh": "他学到了一些新知识。",
+        "pinyin": "Tā xuédàole yīxiē xīn zhīshi.",
+        "en": "O bazı yeni bilgiler öğrendi."
+      }
+    ]
+  },
+  {
+    "id": "w6830",
+    "hanzi": "一心",
+    "pinyin": "yīxīn",
+    "meaning": "tam kalpten, içtenlikle, tek bir amaçla",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他一心想成为一名医生。",
+        "pinyin": "Tā yīxīn xiǎng chéngwéi yī míng yīshēng.",
+        "en": "O bütün kalbiyle doktor olmak istiyor."
+      },
+      {
+        "zh": "她一心一意地照顾家人。",
+        "pinyin": "Tā yīxīnyīyì de zhàogù jiārén.",
+        "en": "O tüm kalbiyle ailesine bakıyor."
+      },
+      {
+        "zh": "他一心扑在工作上。",
+        "pinyin": "Tā yīxīn pū zài gōngzuò shàng.",
+        "en": "O tüm dikkatini işine veriyor."
+      },
+      {
+        "zh": "她一心只想着学习。",
+        "pinyin": "Tā yīxīn zhǐ xiǎngzhe xuéxí.",
+        "en": "O sadece öğrenmeyi düşünüyor."
+      },
+      {
+        "zh": "他们一心为了共同的目标努力。",
+        "pinyin": "Tāmen yīxīn wèile gòngtóng de mùbiāo nǔlì.",
+        "en": "Onlar ortak bir hedef için tüm kalpleriyle çabalıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6831",
+    "hanzi": "一行",
+    "pinyin": "yīxíng",
+    "meaning": "seyahat grubu, birlikte hareket eden topluluk",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "代表团一行五人抵达机场。",
+        "pinyin": "Dàibiǎotuán yīxíng wǔ rén dǐdá jīchǎng.",
+        "en": "Beş kişilik heyet havaalanına vardı."
+      },
+      {
+        "zh": "我们一行人参观了博物馆。",
+        "pinyin": "Wǒmen yīxíng rén cānguānle bówùguǎn.",
+        "en": "Bizim grubumuz müzeyi ziyaret etti."
+      }
+    ]
+  },
+  {
+    "id": "w6832",
+    "hanzi": "一月",
+    "pinyin": "yīyuè",
+    "meaning": "ocak ayı",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "一月是一年中最冷的月份。",
+        "pinyin": "Yīyuè shì yī nián zhōng zuì lěng de yuèfèn.",
+        "en": "Ocak yılın en soğuk ayıdır."
+      },
+      {
+        "zh": "我们计划一月去旅行。",
+        "pinyin": "Wǒmen jìhuà yīyuè qù lǚxíng.",
+        "en": "Ocak ayında seyahat etmeyi planlıyoruz."
+      },
+      {
+        "zh": "他一月出生。",
+        "pinyin": "Tā yīyuè chūshēng.",
+        "en": "O ocak ayında doğdu."
+      },
+      {
+        "zh": "一月一日是元旦。",
+        "pinyin": "Yīyuè yī rì shì yuándàn.",
+        "en": "1 Ocak yılbaşıdır."
+      },
+      {
+        "zh": "一月的天气很冷。",
+        "pinyin": "Yīyuè de tiānqì hěn lěng.",
+        "en": "Ocak ayının havası çok soğuk."
+      }
+    ]
+  },
+  {
+    "id": "w6833",
+    "hanzi": "一再",
+    "pinyin": "yīzài",
+    "meaning": "tekrar tekrar, defalarca",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他一再警告我要小心。",
+        "pinyin": "Tā yīzài jǐnggào wǒ yào xiǎoxīn.",
+        "en": "O bana defalarca dikkatli olmam konusunda uyardı."
+      },
+      {
+        "zh": "她一再强调这个问题的重要性。",
+        "pinyin": "Tā yīzài qiángdiào zhège wèntí de zhòngyàoxìng.",
+        "en": "O bu sorunun önemini defalarca vurguladı."
+      },
+      {
+        "zh": "他一再拒绝我们的邀请。",
+        "pinyin": "Tā yīzài jùjué wǒmen de yāoqǐng.",
+        "en": "O davetimizi tekrar tekrar reddetti."
+      },
+      {
+        "zh": "会议时间一再推迟。",
+        "pinyin": "Huìyì shíjiān yīzài tuīchí.",
+        "en": "Toplantı saati defalarca ertelendi."
+      },
+      {
+        "zh": "他一再向我道歉。",
+        "pinyin": "Tā yīzài xiàng wǒ dàoqiàn.",
+        "en": "O benden tekrar tekrar özür diledi."
+      }
+    ]
+  },
+  {
+    "id": "w6834",
+    "hanzi": "一早",
+    "pinyin": "yīzǎo",
+    "meaning": "sabah erkenden",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他一早就出发了。",
+        "pinyin": "Tā yīzǎo jiù chūfā le.",
+        "en": "O sabah erkenden yola çıktı."
+      },
+      {
+        "zh": "一早起来天气很凉爽。",
+        "pinyin": "Yīzǎo qǐlai tiānqì hěn liángshuǎng.",
+        "en": "Sabah erkenden kalkınca hava çok serindi."
+      },
+      {
+        "zh": "他一早就到了公司。",
+        "pinyin": "Tā yīzǎo jiù dàole gōngsī.",
+        "en": "O sabah erkenden şirkete geldi."
+      },
+      {
+        "zh": "妈妈一早就开始准备早餐。",
+        "pinyin": "Māma yīzǎo jiù kāishǐ zhǔnbèi zǎocān.",
+        "en": "Anne sabah erkenden kahvaltı hazırlamaya başladı."
+      },
+      {
+        "zh": "他一早就去市场买菜。",
+        "pinyin": "Tā yīzǎo jiù qù shìchǎng mǎicài.",
+        "en": "O sabah erkenden pazara sebze almaya gitti."
+      }
+    ]
+  },
+  {
+    "id": "w6835",
+    "hanzi": "一针见血",
+    "pinyin": "yīzhēnjiànxiě",
+    "meaning": "tam noktaya değinmek, doğrudan konuya girmek",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他的评论一针见血。",
+        "pinyin": "Tā de pínglùn yīzhēnjiànxiě.",
+        "en": "Onun yorumu tam noktaya değindi."
+      },
+      {
+        "zh": "她一针见血地指出了问题所在。",
+        "pinyin": "Tā yīzhēnjiànxiě de zhǐchūle wèntí suǒzài.",
+        "en": "O sorunun nerede olduğunu doğrudan işaret etti."
+      }
+    ]
+  },
+  {
+    "id": "w6836",
+    "hanzi": "一阵",
+    "pinyin": "yīzhèn",
+    "meaning": "bir süre, bir an",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "外面下了一阵雨。",
+        "pinyin": "Wàimian xiàle yīzhèn yǔ.",
+        "en": "Dışarıda bir süre yağmur yağdı."
+      },
+      {
+        "zh": "他一阵激动,说不出话来。",
+        "pinyin": "Tā yīzhèn jīdòng, shuō bù chū huà lái.",
+        "en": "O bir anlık heyecanla konuşamadı."
+      },
+      {
+        "zh": "屋子里传来一阵笑声。",
+        "pinyin": "Wūzi lǐ chuánlái yīzhèn xiàoshēng.",
+        "en": "Odadan bir süre kahkaha sesi geldi."
+      },
+      {
+        "zh": "他感到一阵头晕。",
+        "pinyin": "Tā gǎndào yīzhèn tóuyūn.",
+        "en": "O bir anlık baş dönmesi hissetti."
+      },
+      {
+        "zh": "一阵风吹过,树叶沙沙作响。",
+        "pinyin": "Yīzhèn fēng chuīguò, shùyè shāshā zuòxiǎng.",
+        "en": "Bir rüzgar esti, yapraklar hışırdadı."
+      }
+    ]
+  },
+  {
+    "id": "w6837",
+    "hanzi": "衣",
+    "pinyin": "yī",
+    "meaning": "giysi, elbise",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "他穿着一件红色的衣。",
+        "pinyin": "Tā chuānzhe yī jiàn hóngsè de yī.",
+        "en": "O kırmızı bir kıyafet giymiş."
+      },
+      {
+        "zh": "衣食住行是人们的基本需要。",
+        "pinyin": "Yī-shí-zhù-xíng shì rénmen de jīběn xūyào.",
+        "en": "Giyim, yeme, barınma ve ulaşım insanların temel ihtiyaçlarıdır."
+      },
+      {
+        "zh": "她给孩子买了新衣。",
+        "pinyin": "Tā gěi háizi mǎile xīn yī.",
+        "en": "O çocuğuna yeni bir kıyafet aldı."
+      },
+      {
+        "zh": "冬天要穿厚衣。",
+        "pinyin": "Dōngtiān yào chuān hòu yī.",
+        "en": "Kışın kalın kıyafet giyilmeli."
+      },
+      {
+        "zh": "他把湿衣挂在阳台上晾干。",
+        "pinyin": "Tā bǎ shī yī guà zài yángtái shàng liànggān.",
+        "en": "O ıslak kıyafeti kurutmak için balkona astı."
+      }
+    ]
+  },
+  {
+    "id": "w6838",
+    "hanzi": "衣橱",
+    "pinyin": "yīchú",
+    "meaning": "gardırop",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她把衣服挂进了衣橱。",
+        "pinyin": "Tā bǎ yīfu guà jìnle yīchú.",
+        "en": "O kıyafetleri gardıroba astı."
+      },
+      {
+        "zh": "这个衣橱空间很大。",
+        "pinyin": "Zhège yīchú kōngjiān hěn dà.",
+        "en": "Bu gardırobun alanı çok geniş."
+      },
+      {
+        "zh": "他打开衣橱找外套。",
+        "pinyin": "Tā dǎkāi yīchú zhǎo wàitào.",
+        "en": "O gardırobu açıp mont aradı."
+      },
+      {
+        "zh": "衣橱里挂满了各种衣服。",
+        "pinyin": "Yīchú lǐ guàmǎnle gèzhǒng yīfu.",
+        "en": "Gardırop çeşitli kıyafetlerle dolu."
+      },
+      {
+        "zh": "她买了一个新衣橱。",
+        "pinyin": "Tā mǎile yī gè xīn yīchú.",
+        "en": "O yeni bir gardırop satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w6839",
+    "hanzi": "衣柜",
+    "pinyin": "yīguì",
+    "meaning": "gardırop",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "衣柜里挂着很多衣服。",
+        "pinyin": "Yīguì lǐ guàzhe hěn duō yīfu.",
+        "en": "Gardırobun içinde birçok kıyafet asılı."
+      },
+      {
+        "zh": "他把新买的衣服放进衣柜。",
+        "pinyin": "Tā bǎ xīn mǎi de yīfu fàng jìn yīguì.",
+        "en": "O yeni aldığı kıyafeti gardıroba koydu."
+      },
+      {
+        "zh": "卧室里有一个大衣柜。",
+        "pinyin": "Wòshì lǐ yǒu yī gè dà yīguì.",
+        "en": "Yatak odasında büyük bir gardırop var."
+      },
+      {
+        "zh": "她的衣柜里堆满了鞋子。",
+        "pinyin": "Tā de yīguì lǐ duīmǎnle xiézi.",
+        "en": "Onun gardırobu ayakkabılarla dolu."
+      },
+      {
+        "zh": "他把衣柜整理得很整齐。",
+        "pinyin": "Tā bǎ yīguì zhěnglǐ de hěn zhěngqí.",
+        "en": "O gardırobunu çok düzenli hale getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6840",
+    "hanzi": "衣架",
+    "pinyin": "yījià",
+    "meaning": "elbise askısı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "把外套挂在衣架上。",
+        "pinyin": "Bǎ wàitào guà zài yījià shàng.",
+        "en": "Montu askıya as."
+      },
+      {
+        "zh": "她买了一些木制衣架。",
+        "pinyin": "Tā mǎile yīxiē mùzhì yījià.",
+        "en": "O bazı tahta elbise askısı satın aldı."
+      },
+      {
+        "zh": "衣架上挂满了衣服。",
+        "pinyin": "Yījià shàng guàmǎnle yīfu.",
+        "en": "Askı kıyafetlerle dolmuş."
+      },
+      {
+        "zh": "他把湿衣服放在衣架上晾干。",
+        "pinyin": "Tā bǎ shī yīfu fàng zài yījià shàng liànggān.",
+        "en": "O ıslak kıyafeti kurutmak için askıya astı."
+      },
+      {
+        "zh": "这个衣架可以折叠。",
+        "pinyin": "Zhège yījià kěyǐ zhédié.",
+        "en": "Bu askı katlanabilir."
+      }
+    ]
+  },
+  {
+    "id": "w6841",
+    "hanzi": "依",
+    "pinyin": "yī",
+    "meaning": "bağlı olmak, dayanmak; -e göre",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "请依规定办理手续。",
+        "pinyin": "Qǐng yī guīdìng bànlǐ shǒuxù.",
+        "en": "Lütfen kurallara göre işlemleri yapın."
+      },
+      {
+        "zh": "孩子总是依着父母。",
+        "pinyin": "Háizi zǒngshì yīzhe fùmǔ.",
+        "en": "Çocuk her zaman ebeveynlerine bağlı."
+      },
+      {
+        "zh": "他依旧不改自己的习惯。",
+        "pinyin": "Tā yījiù bù gǎi zìjǐ de xíguàn.",
+        "en": "O eski alışkanlıklarını hâlâ değiştirmiyor."
+      },
+      {
+        "zh": "请依计划进行。",
+        "pinyin": "Qǐng yī jìhuà jìnxíng.",
+        "en": "Lütfen plana göre ilerleyin."
+      },
+      {
+        "zh": "他依窗而立,望着远方。",
+        "pinyin": "Tā yī chuāng ér lì, wàngzhe yuǎnfāng.",
+        "en": "O pencereye yaslanarak uzaklara bakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6842",
+    "hanzi": "依次",
+    "pinyin": "yīcì",
+    "meaning": "sırayla, sıraya göre",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请大家依次入座。",
+        "pinyin": "Qǐng dàjiā yīcì rùzuò.",
+        "en": "Herkes sırayla otursun lütfen."
+      },
+      {
+        "zh": "选手们依次上台表演。",
+        "pinyin": "Xuǎnshǒumen yīcì shàngtái biǎoyǎn.",
+        "en": "Yarışmacılar sırayla sahneye çıkıp performans sergiledi."
+      }
+    ]
+  },
+  {
+    "id": "w6843",
+    "hanzi": "依旧",
+    "pinyin": "yījiù",
+    "meaning": "eskisi gibi, hâlâ",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "多年以后,他依旧记得那句话。",
+        "pinyin": "Duō nián yǐhòu, tā yījiù jìde nà jù huà.",
+        "en": "Yıllar sonra bile o sözü hâlâ hatırlıyor."
+      },
+      {
+        "zh": "她依旧每天早起锻炼。",
+        "pinyin": "Tā yījiù měitiān zǎo qǐ duànliàn.",
+        "en": "O hâlâ her gün erken kalkıp egzersiz yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6844",
+    "hanzi": "依靠",
+    "pinyin": "yīkào",
+    "meaning": "dayanmak, güvenmek, dayanağı olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他依靠自己的努力取得了成功。",
+        "pinyin": "Tā yīkào zìjǐ de nǔlì qǔdéle chénggōng.",
+        "en": "O kendi çabasına dayanarak başarıya ulaştı."
+      },
+      {
+        "zh": "孩子还需要依靠父母。",
+        "pinyin": "Háizi hái xūyào yīkào fùmǔ.",
+        "en": "Çocuk hâlâ ebeveynlerine bağımlı olmak zorunda."
+      },
+      {
+        "zh": "我们要依靠科学解决问题。",
+        "pinyin": "Wǒmen yào yīkào kēxué jiějué wèntí.",
+        "en": "Sorunları çözmek için bilime dayanmalıyız."
+      },
+      {
+        "zh": "老人晚年依靠子女照顾。",
+        "pinyin": "Lǎorén wǎnnián yīkào zǐnǚ zhàogù.",
+        "en": "Yaşlılar yaşlılıklarında çocuklarına bağımlı."
+      },
+      {
+        "zh": "国家发展依靠全体人民的努力。",
+        "pinyin": "Guójiā fāzhǎn yīkào quántǐ rénmín de nǔlì.",
+        "en": "Ülkenin gelişimi tüm halkın çabasına dayanır."
+      }
+    ]
+  },
+  {
+    "id": "w6845",
+    "hanzi": "依赖",
+    "pinyin": "yīlài",
+    "meaning": "bağımlı olmak, güvenip dayanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他过分依赖手机。",
+        "pinyin": "Tā guòfèn yīlài shǒujī.",
+        "en": "O telefonuna aşırı derecede bağımlı."
+      },
+      {
+        "zh": "经济发展不能只依赖出口。",
+        "pinyin": "Jīngjì fāzhǎn bùnéng zhǐ yīlài chūkǒu.",
+        "en": "Ekonomik gelişim sadece ihracata bağlı olamaz."
+      },
+      {
+        "zh": "孩子对父母的依赖逐渐减少。",
+        "pinyin": "Háizi duì fùmǔ de yīlài zhújiàn jiǎnshǎo.",
+        "en": "Çocuğun ebeveynlerine olan bağımlılığı giderek azalıyor."
+      },
+      {
+        "zh": "过度依赖他人不利于成长。",
+        "pinyin": "Guòdù yīlài tārén bùlìyú chéngzhǎng.",
+        "en": "Başkalarına aşırı bağımlı olmak gelişime zarar verir."
+      },
+      {
+        "zh": "他学会了独立,不再依赖别人。",
+        "pinyin": "Tā xuéhuìle dúlì, bùzài yīlài biérén.",
+        "en": "O bağımsız olmayı öğrendi, artık başkalarına bağımlı değil."
+      }
+    ]
+  },
+  {
+    "id": "w6846",
+    "hanzi": "医",
+    "pinyin": "yī",
+    "meaning": "doktor; tedavi etmek",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他是一名好医。",
+        "pinyin": "Tā shì yī míng hǎo yī.",
+        "en": "O iyi bir doktor."
+      },
+      {
+        "zh": "看病要找专业的医。",
+        "pinyin": "Kànbìng yào zhǎo zhuānyè de yī.",
+        "en": "Muayene için uzman bir doktor bulmak gerekir."
+      },
+      {
+        "zh": "他医好了很多病人。",
+        "pinyin": "Tā yī hǎole hěn duō bìngrén.",
+        "en": "O birçok hastayı tedavi etti."
+      },
+      {
+        "zh": "这家医院有中医也有西医。",
+        "pinyin": "Zhè jiā yīyuàn yǒu zhōngyī yě yǒu xīyī.",
+        "en": "Bu hastanede hem geleneksel Çin tıbbı hem de batı tıbbı var."
+      },
+      {
+        "zh": "他从事医的职业已经二十年了。",
+        "pinyin": "Tā cóngshì yī de zhíyè yǐjīng èrshí nián le.",
+        "en": "O yirmi yıldır doktorluk mesleğiyle uğraşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6847",
+    "hanzi": "医药",
+    "pinyin": "yīyào",
+    "meaning": "ilaç",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这家公司从事医药研发。",
+        "pinyin": "Zhè jiā gōngsī cóngshì yīyào yánfā.",
+        "en": "Bu şirket ilaç araştırma geliştirmesiyle uğraşıyor."
+      },
+      {
+        "zh": "医药费用越来越高。",
+        "pinyin": "Yīyào fèiyòng yuè lái yuè gāo.",
+        "en": "İlaç masrafları giderek artıyor."
+      },
+      {
+        "zh": "他学的是医药专业。",
+        "pinyin": "Tā xué de shì yīyào zhuānyè.",
+        "en": "O eczacılık bölümü okudu."
+      },
+      {
+        "zh": "国家加大了对医药行业的投入。",
+        "pinyin": "Guójiā jiādàle duì yīyào hángyè de tóurù.",
+        "en": "Devlet ilaç sektörüne yaptığı yatırımı artırdı."
+      },
+      {
+        "zh": "他从事医药销售工作。",
+        "pinyin": "Tā cóngshì yīyào xiāoshòu gōngzuò.",
+        "en": "O ilaç satış işiyle uğraşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6848",
+    "hanzi": "医治",
+    "pinyin": "yīzhì",
+    "meaning": "tedavi etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生成功医治了这种罕见病。",
+        "pinyin": "Yīshēng chénggōng yīzhìle zhè zhǒng hǎnjiànbìng.",
+        "en": "Doktor bu nadir hastalığı başarıyla tedavi etti."
+      },
+      {
+        "zh": "这种疾病目前无法医治。",
+        "pinyin": "Zhè zhǒng jíbìng mùqián wúfǎ yīzhì.",
+        "en": "Bu hastalık şu anda tedavi edilemiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6849",
+    "hanzi": "遗产",
+    "pinyin": "yíchǎn",
+    "meaning": "miras",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "他继承了父亲的遗产。",
+        "pinyin": "Tā jìchéngle fùqīn de yíchǎn.",
+        "en": "O babasının mirasını devraldı."
+      },
+      {
+        "zh": "这座古城是世界文化遗产。",
+        "pinyin": "Zhè zuò gǔchéng shì shìjiè wénhuà yíchǎn.",
+        "en": "Bu eski şehir dünya kültür mirasıdır."
+      },
+      {
+        "zh": "遗产分配引发了家庭纠纷。",
+        "pinyin": "Yíchǎn fēnpèi yǐnfāle jiātíng jiūfēn.",
+        "en": "Miras paylaşımı aile içinde anlaşmazlığa yol açtı."
+      },
+      {
+        "zh": "他放弃了继承遗产的权利。",
+        "pinyin": "Tā fàngqìle jìchéng yíchǎn de quánlì.",
+        "en": "O mirası devralma hakkından vazgeçti."
+      },
+      {
+        "zh": "这些文物是珍贵的历史遗产。",
+        "pinyin": "Zhèxiē wénwù shì zhēnguì de lìshǐ yíchǎn.",
+        "en": "Bu tarihi eserler değerli bir tarihi mirastır."
+      }
+    ]
+  },
+  {
+    "id": "w6850",
+    "hanzi": "遗传",
+    "pinyin": "yíchuán",
+    "meaning": "kalıtım, genetik miras",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种病具有遗传性。",
+        "pinyin": "Zhè zhǒng bìng jùyǒu yíchuánxìng.",
+        "en": "Bu hastalık kalıtsal özellik taşır."
+      },
+      {
+        "zh": "他的音乐天赋是遗传来的。",
+        "pinyin": "Tā de yīnyuè tiānfù shì yíchuán lái de.",
+        "en": "Onun müzik yeteneği kalıtsal olarak gelmiştir."
+      },
+      {
+        "zh": "科学家研究了这种性状的遗传规律。",
+        "pinyin": "Kēxuéjiā yánjiūle zhè zhǒng xìngzhuàng de yíchuán guīlǜ.",
+        "en": "Bilim insanları bu özelliğin kalıtım kurallarını araştırdı."
+      },
+      {
+        "zh": "身高受遗传因素影响很大。",
+        "pinyin": "Shēngāo shòu yíchuán yīnsù yǐngxiǎng hěn dà.",
+        "en": "Boy uzunluğu genetik faktörlerden büyük ölçüde etkilenir."
+      },
+      {
+        "zh": "遗传和环境共同影响一个人的性格。",
+        "pinyin": "Yíchuán hé huánjìng gòngtóng yǐngxiǎng yī gè rén de xìnggé.",
+        "en": "Kalıtım ve çevre birlikte bir kişinin karakterini etkiler."
+      }
+    ]
   }
 ]

@@ -210739,5 +210739,878 @@
         "en": "O kapıyı kilitlemeyi unuttu."
       }
     ]
+  },
+  {
+    "id": "w6291",
+    "hanzi": "忘恩负义",
+    "pinyin": "wàng'ēn-fùyì",
+    "meaning": "nankör, iyiliği unutan",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是个忘恩负义的人。",
+        "pinyin": "Tā shì gè wàng'ēn-fùyì de rén.",
+        "en": "O nankör bir insan."
+      },
+      {
+        "zh": "不要做忘恩负义的事。",
+        "pinyin": "Bùyào zuò wàng'ēn-fùyì de shì.",
+        "en": "Nankörce şeyler yapma."
+      }
+    ]
+  },
+  {
+    "id": "w6292",
+    "hanzi": "忘怀",
+    "pinyin": "wànghuái",
+    "meaning": "unutmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "那段经历令人难以忘怀。",
+        "pinyin": "Nà duàn jīnglì lìng rén nányǐ wànghuái.",
+        "en": "O deneyim unutulması güç bir şey."
+      },
+      {
+        "zh": "他始终无法忘怀过去的伤痛。",
+        "pinyin": "Tā shǐzhōng wúfǎ wànghuái guòqù de shāngtòng.",
+        "en": "O geçmişteki acısını bir türlü unutamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6293",
+    "hanzi": "忘我",
+    "pinyin": "wàngwǒ",
+    "meaning": "özverili, kendini unutmuş, fedakâr",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他忘我地投入到工作中。",
+        "pinyin": "Tā wàngwǒ de tóurù dào gōngzuò zhōng.",
+        "en": "O kendini unutarak işine daldı."
+      },
+      {
+        "zh": "医生忘我地抢救病人。",
+        "pinyin": "Yīshēng wàngwǒ de qiǎngjiù bìngrén.",
+        "en": "Doktor kendini unutarak hastayı kurtarmaya çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w6294",
+    "hanzi": "望",
+    "pinyin": "wàng",
+    "meaning": "bakmak, seyretmek; ummak, beklemek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他站在窗前望着远方。",
+        "pinyin": "Tā zhàn zài chuāng qián wàngzhe yuǎnfāng.",
+        "en": "O pencerenin önünde durup uzaklara bakıyor."
+      },
+      {
+        "zh": "我们都望着他能成功。",
+        "pinyin": "Wǒmen dōu wàngzhe tā néng chénggōng.",
+        "en": "Hepimiz onun başarılı olmasını umuyoruz."
+      },
+      {
+        "zh": "她望着孩子渐渐长大。",
+        "pinyin": "Tā wàngzhe háizi jiànjiàn zhǎngdà.",
+        "en": "O çocuğun yavaş yavaş büyümesini izliyor."
+      },
+      {
+        "zh": "登上山顶,可以望到整个城市。",
+        "pinyin": "Dēng shàng shāndǐng, kěyǐ wàng dào zhěnggè chéngshì.",
+        "en": "Zirveye çıkınca tüm şehri görebilirsin."
+      },
+      {
+        "zh": "他望了望天空,叹了口气。",
+        "pinyin": "Tā wàngle wàng tiānkōng, tànle kǒuqì.",
+        "en": "O gökyüzüne bakıp bir iç çekti."
+      }
+    ]
+  },
+  {
+    "id": "w6295",
+    "hanzi": "望远镜",
+    "pinyin": "wàngyuǎnjìng",
+    "meaning": "dürbün, teleskop",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他用望远镜看星星。",
+        "pinyin": "Tā yòng wàngyuǎnjìng kàn xīngxing.",
+        "en": "O yıldızları teleskopla izliyor."
+      },
+      {
+        "zh": "我们带着望远镜去看鸟。",
+        "pinyin": "Wǒmen dàizhe wàngyuǎnjìng qù kàn niǎo.",
+        "en": "Biz dürbünle kuş gözlemine gittik."
+      },
+      {
+        "zh": "船长用望远镜观察海面。",
+        "pinyin": "Chuánzhǎng yòng wàngyuǎnjìng guānchá hǎimiàn.",
+        "en": "Kaptan dürbünle deniz yüzeyini gözlemliyor."
+      },
+      {
+        "zh": "天文望远镜可以看到遥远的星系。",
+        "pinyin": "Tiānwén wàngyuǎnjìng kěyǐ kàndào yáoyuǎn de xīngxì.",
+        "en": "Astronomik teleskop uzak galaksileri görebilir."
+      },
+      {
+        "zh": "他借给我一副望远镜。",
+        "pinyin": "Tā jiè gěi wǒ yī fù wàngyuǎnjìng.",
+        "en": "O bana bir dürbün ödünç verdi."
+      }
+    ]
+  },
+  {
+    "id": "w6296",
+    "hanzi": "旺",
+    "pinyin": "wàng",
+    "meaning": "canlı, gür, hareketli, parlak",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "炉火烧得很旺。",
+        "pinyin": "Lúhuǒ shāo de hěn wàng.",
+        "en": "Ocaktaki ateş çok güçlü yanıyor."
+      },
+      {
+        "zh": "这家店生意很旺。",
+        "pinyin": "Zhè jiā diàn shēngyì hěn wàng.",
+        "en": "Bu dükkanın işleri çok iyi gidiyor."
+      },
+      {
+        "zh": "他精力很旺。",
+        "pinyin": "Tā jīnglì hěn wàng.",
+        "en": "Onun enerjisi çok yüksek."
+      },
+      {
+        "zh": "花园里的花开得正旺。",
+        "pinyin": "Huāyuán lǐ de huā kāi de zhèng wàng.",
+        "en": "Bahçedeki çiçekler tam gürül gürül açıyor."
+      },
+      {
+        "zh": "生意越做越旺。",
+        "pinyin": "Shēngyì yuè zuò yuè wàng.",
+        "en": "İşler gittikçe daha iyi gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6297",
+    "hanzi": "旺季",
+    "pinyin": "wàngjì",
+    "meaning": "yoğun sezon, en hareketli dönem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "夏天是旅游旺季。",
+        "pinyin": "Xiàtiān shì lǚyóu wàngjì.",
+        "en": "Yaz, turizmin yoğun sezonudur."
+      },
+      {
+        "zh": "旺季酒店房价会上涨。",
+        "pinyin": "Wàngjì jiǔdiàn fángjià huì shàngzhǎng.",
+        "en": "Yoğun sezonda otel fiyatları artar."
+      },
+      {
+        "zh": "这是芒果的旺季。",
+        "pinyin": "Zhè shì mángguǒ de wàngjì.",
+        "en": "Bu, mangonun yoğun sezonu."
+      },
+      {
+        "zh": "旺季来临,工厂开始加班。",
+        "pinyin": "Wàngjì láilín, gōngchǎng kāishǐ jiābān.",
+        "en": "Yoğun sezon geldiğinde fabrika mesai yapmaya başlıyor."
+      },
+      {
+        "zh": "商场在旺季推出各种促销活动。",
+        "pinyin": "Shāngchǎng zài wàngjì tuīchū gèzhǒng cùxiāo huódòng.",
+        "en": "AVM yoğun sezonda çeşitli kampanyalar başlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6298",
+    "hanzi": "旺盛",
+    "pinyin": "wàngshèng",
+    "meaning": "gür, güçlü, dinç, coşkulu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他年轻力壮,精力旺盛。",
+        "pinyin": "Tā niánqīng lìzhuàng, jīnglì wàngshèng.",
+        "en": "O genç ve güçlü, enerjisi çok yüksek."
+      },
+      {
+        "zh": "植物在春天生长旺盛。",
+        "pinyin": "Zhíwù zài chūntiān shēngzhǎng wàngshèng.",
+        "en": "Bitkiler ilkbaharda gür bir şekilde büyür."
+      },
+      {
+        "zh": "他对学习保持着旺盛的兴趣。",
+        "pinyin": "Tā duì xuéxí bǎochízhe wàngshèng de xìngqù.",
+        "en": "O öğrenmeye karşı yüksek bir ilgi sürdürüyor."
+      },
+      {
+        "zh": "她的食欲很旺盛。",
+        "pinyin": "Tā de shíyù hěn wàngshèng.",
+        "en": "Onun iştahı çok iyi."
+      },
+      {
+        "zh": "公司发展势头旺盛。",
+        "pinyin": "Gōngsī fāzhǎn shìtóu wàngshèng.",
+        "en": "Şirketin gelişim ivmesi çok güçlü."
+      }
+    ]
+  },
+  {
+    "id": "w6299",
+    "hanzi": "威风",
+    "pinyin": "wēifēng",
+    "meaning": "görkem, itibar, heybet; heybetli, görkemli",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他骑马经过时非常威风。",
+        "pinyin": "Tā qímǎ jīngguò shí fēicháng wēifēng.",
+        "en": "O atla geçerken çok heybetli görünüyordu."
+      },
+      {
+        "zh": "将军威风凛凛地走进大殿。",
+        "pinyin": "Jiāngjūn wēifēng lǐnlǐn de zǒujìn dàdiàn.",
+        "en": "General görkemli bir şekilde salona girdi."
+      }
+    ]
+  },
+  {
+    "id": "w6300",
+    "hanzi": "威力",
+    "pinyin": "wēilì",
+    "meaning": "güç, kuvvet, etki gücü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这种炸弹的威力很大。",
+        "pinyin": "Zhè zhǒng zhàdàn de wēilì hěn dà.",
+        "en": "Bu tür bombanın gücü çok büyük."
+      },
+      {
+        "zh": "科学的威力改变了世界。",
+        "pinyin": "Kēxué de wēilì gǎibiànle shìjiè.",
+        "en": "Bilimin gücü dünyayı değiştirdi."
+      }
+    ]
+  },
+  {
+    "id": "w6301",
+    "hanzi": "微",
+    "pinyin": "wēi",
+    "meaning": "ufacık, minicik, çok az",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他微微一笑。",
+        "pinyin": "Tā wēiwēi yī xiào.",
+        "en": "O hafifçe gülümsedi."
+      },
+      {
+        "zh": "这个变化十分微小。",
+        "pinyin": "Zhège biànhuà shífēn wēixiǎo.",
+        "en": "Bu değişiklik son derece küçük."
+      },
+      {
+        "zh": "她微皱着眉头。",
+        "pinyin": "Tā wēi zhòuzhe méitóu.",
+        "en": "O hafifçe kaşlarını çattı."
+      },
+      {
+        "zh": "价格有微涨的趋势。",
+        "pinyin": "Jiàgé yǒu wēi zhǎng de qūshì.",
+        "en": "Fiyatlarda hafif bir artış eğilimi var."
+      },
+      {
+        "zh": "他微微点了点头。",
+        "pinyin": "Tā wēiwēi diǎnle diǎn tóu.",
+        "en": "O hafifçe başını salladı."
+      }
+    ]
+  },
+  {
+    "id": "w6302",
+    "hanzi": "微波炉",
+    "pinyin": "wēibōlú",
+    "meaning": "mikrodalga fırın",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "把饭放进微波炉热一下。",
+        "pinyin": "Bǎ fàn fàng jìn wēibōlú rè yīxià.",
+        "en": "Yemeği mikrodalga fırına koyup ısıt."
+      },
+      {
+        "zh": "厨房里有一台微波炉。",
+        "pinyin": "Chúfáng lǐ yǒu yī tái wēibōlú.",
+        "en": "Mutfakta bir mikrodalga fırın var."
+      },
+      {
+        "zh": "用微波炉加热很方便。",
+        "pinyin": "Yòng wēibōlú jiārè hěn fāngbiàn.",
+        "en": "Mikrodalga fırınla ısıtmak çok pratik."
+      },
+      {
+        "zh": "微波炉不能放金属餐具。",
+        "pinyin": "Wēibōlú bùnéng fàng jīnshǔ cānjù.",
+        "en": "Mikrodalga fırına metal kap konulamaz."
+      },
+      {
+        "zh": "我买了一个新的微波炉。",
+        "pinyin": "Wǒ mǎile yī gè xīn de wēibōlú.",
+        "en": "Yeni bir mikrodalga fırın satın aldım."
+      }
+    ]
+  },
+  {
+    "id": "w6303",
+    "hanzi": "微不足道",
+    "pinyin": "wēibùzúdào",
+    "meaning": "önemsiz, değersiz, söz edilmeye değmez",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这点困难微不足道。",
+        "pinyin": "Zhè diǎn kùnnan wēibùzúdào.",
+        "en": "Bu kadar zorluk önemsizdir."
+      },
+      {
+        "zh": "他的贡献看似微不足道,却很重要。",
+        "pinyin": "Tā de gòngxiàn kànsì wēibùzúdào, què hěn zhòngyào.",
+        "en": "Onun katkısı önemsiz gibi görünse de aslında çok önemli."
+      }
+    ]
+  },
+  {
+    "id": "w6304",
+    "hanzi": "微弱",
+    "pinyin": "wēiruò",
+    "meaning": "zayıf, güçsüz, soluk",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "远处传来微弱的灯光。",
+        "pinyin": "Yuǎnchù chuánlái wēiruò de dēngguāng.",
+        "en": "Uzaktan zayıf bir ışık geliyor."
+      },
+      {
+        "zh": "病人的呼吸很微弱。",
+        "pinyin": "Bìngrén de hūxī hěn wēiruò.",
+        "en": "Hastanın nefesi çok zayıf."
+      },
+      {
+        "zh": "信号很微弱,几乎收不到。",
+        "pinyin": "Xìnhào hěn wēiruò, jīhū shōu bù dào.",
+        "en": "Sinyal çok zayıf, neredeyse hiç alınmıyor."
+      },
+      {
+        "zh": "他用微弱的声音说话。",
+        "pinyin": "Tā yòng wēiruò de shēngyīn shuōhuà.",
+        "en": "O zayıf bir sesle konuşuyor."
+      },
+      {
+        "zh": "经济复苏的迹象十分微弱。",
+        "pinyin": "Jīngjì fùsū de jìxiàng shífēn wēiruò.",
+        "en": "Ekonomik toparlanmanın belirtileri çok zayıf."
+      }
+    ]
+  },
+  {
+    "id": "w6305",
+    "hanzi": "微生物",
+    "pinyin": "wēishēngwù",
+    "meaning": "mikroorganizma, mikrop",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "水中含有很多微生物。",
+        "pinyin": "Shuǐ zhōng hányǒu hěn duō wēishēngwù.",
+        "en": "Suda birçok mikroorganizma bulunur."
+      },
+      {
+        "zh": "科学家研究了这种微生物。",
+        "pinyin": "Kēxuéjiā yánjiūle zhè zhǒng wēishēngwù.",
+        "en": "Bilim insanları bu mikroorganizmayı araştırdı."
+      },
+      {
+        "zh": "微生物在自然界中起着重要作用。",
+        "pinyin": "Wēishēngwù zài zìránjiè zhōng qǐzhe zhòngyào zuòyòng.",
+        "en": "Mikroorganizmalar doğada önemli bir rol oynar."
+      },
+      {
+        "zh": "某些微生物对人体有害。",
+        "pinyin": "Mǒuxiē wēishēngwù duì réntǐ yǒuhài.",
+        "en": "Bazı mikroorganizmalar insan vücuduna zararlıdır."
+      },
+      {
+        "zh": "显微镜下可以看到微生物。",
+        "pinyin": "Xiǎnwēijìng xià kěyǐ kàndào wēishēngwù.",
+        "en": "Mikroskop altında mikroorganizmalar görülebilir."
+      }
+    ]
+  },
+  {
+    "id": "w6306",
+    "hanzi": "微小",
+    "pinyin": "wēixiǎo",
+    "meaning": "küçük, ufak, önemsiz derecede az",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这些差别是微小的。",
+        "pinyin": "Zhèxiē chābié shì wēixiǎo de.",
+        "en": "Bu farklar çok küçük."
+      },
+      {
+        "zh": "细胞是非常微小的结构。",
+        "pinyin": "Xìbāo shì fēicháng wēixiǎo de jiégòu.",
+        "en": "Hücreler çok küçük yapılardır."
+      },
+      {
+        "zh": "微小的变化也可能带来大的影响。",
+        "pinyin": "Wēixiǎo de biànhuà yě kěnéng dàilái dà de yǐngxiǎng.",
+        "en": "Küçük değişiklikler bile büyük etkiler yaratabilir."
+      },
+      {
+        "zh": "他的贡献虽然微小,但很有意义。",
+        "pinyin": "Tā de gòngxiàn suīrán wēixiǎo, dàn hěn yǒu yìyì.",
+        "en": "Onun katkısı küçük olsa da çok anlamlıydı."
+      },
+      {
+        "zh": "这台机器可以测量微小的误差。",
+        "pinyin": "Zhè tái jīqì kěyǐ cèliáng wēixiǎo de wùchā.",
+        "en": "Bu makine çok küçük hataları ölçebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w6307",
+    "hanzi": "危机",
+    "pinyin": "wēijī",
+    "meaning": "kriz, bunalım",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "公司正面临财务危机。",
+        "pinyin": "Gōngsī zhèng miànlín cáiwù wēijī.",
+        "en": "Şirket mali kriz ile karşı karşıya."
+      },
+      {
+        "zh": "这场危机影响了整个行业。",
+        "pinyin": "Zhè chǎng wēijī yǐngxiǎngle zhěnggè hángyè.",
+        "en": "Bu kriz tüm sektörü etkiledi."
+      },
+      {
+        "zh": "政府采取措施应对经济危机。",
+        "pinyin": "Zhèngfǔ cǎiqǔ cuòshī yìngduì jīngjì wēijī.",
+        "en": "Hükümet ekonomik krize karşı önlemler aldı."
+      },
+      {
+        "zh": "他们成功地度过了这次危机。",
+        "pinyin": "Tāmen chénggōng de dùguòle zhè cì wēijī.",
+        "en": "Onlar bu krizi başarıyla atlattılar."
+      },
+      {
+        "zh": "婚姻中出现了信任危机。",
+        "pinyin": "Hūnyīn zhōng chūxiànle xìnrèn wēijī.",
+        "en": "Evlilikte bir güven krizi ortaya çıktı."
+      }
+    ]
+  },
+  {
+    "id": "w6308",
+    "hanzi": "危急",
+    "pinyin": "wēijí",
+    "meaning": "kritik ve tehlikeli, acil",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "病人情况十分危急。",
+        "pinyin": "Bìngrén qíngkuàng shífēn wēijí.",
+        "en": "Hastanın durumu çok kritik."
+      },
+      {
+        "zh": "在危急时刻,他保持了冷静。",
+        "pinyin": "Zài wēijí shíkè, tā bǎochíle lěngjìng.",
+        "en": "Kritik anda o sakinliğini korudu."
+      }
+    ]
+  },
+  {
+    "id": "w6309",
+    "hanzi": "危在旦夕",
+    "pinyin": "wēizài-dànxī",
+    "meaning": "çok yakın tehlike, hayati tehlike içinde",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "病人的生命危在旦夕。",
+        "pinyin": "Bìngrén de shēngmìng wēizài-dànxī.",
+        "en": "Hastanın hayatı hayati tehlike altında."
+      },
+      {
+        "zh": "整个城市危在旦夕。",
+        "pinyin": "Zhěnggè chéngshì wēizài-dànxī.",
+        "en": "Bütün şehir tehlikenin eşiğinde."
+      }
+    ]
+  },
+  {
+    "id": "w6310",
+    "hanzi": "为难",
+    "pinyin": "wéinán",
+    "meaning": "zor durumda bırakmak; zor durumda kalmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "别再为难他了。",
+        "pinyin": "Bié zài wéinán tā le.",
+        "en": "Onu zor durumda bırakma artık."
+      },
+      {
+        "zh": "这个问题让我很为难。",
+        "pinyin": "Zhège wèntí ràng wǒ hěn wéinán.",
+        "en": "Bu sorun beni çok zor durumda bıraktı."
+      },
+      {
+        "zh": "她故意为难新来的员工。",
+        "pinyin": "Tā gùyì wéinán xīn lái de yuángōng.",
+        "en": "O yeni gelen çalışanı bilerek zor durumda bırakıyor."
+      },
+      {
+        "zh": "面对两难的选择,他感到很为难。",
+        "pinyin": "Miànduì liǎngnán de xuǎnzé, tā gǎndào hěn wéinán.",
+        "en": "İkilem karşısında çok zor durumda hissetti."
+      },
+      {
+        "zh": "领导为难了他一番。",
+        "pinyin": "Lǐngdǎo wéinánle tā yī fān.",
+        "en": "Yönetici onu bir süre zor durumda bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w6311",
+    "hanzi": "为止",
+    "pinyin": "wéizhǐ",
+    "meaning": "-e kadar, -e dek",
+    "partOfSpeech": "edat",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "到目前为止,一切都很顺利。",
+        "pinyin": "Dào mùqián wéizhǐ, yīqiè dōu hěn shùnlì.",
+        "en": "Şimdiye kadar her şey yolunda gitti."
+      },
+      {
+        "zh": "报名截止到本周五为止。",
+        "pinyin": "Bàomíng jiézhǐ dào běn zhōu wǔ wéizhǐ.",
+        "en": "Kayıtlar bu cuma gününe kadar sürecek."
+      },
+      {
+        "zh": "到今天为止,他已经工作了十年。",
+        "pinyin": "Dào jīntiān wéizhǐ, tā yǐjīng gōngzuòle shí nián.",
+        "en": "Bugüne kadar on yıldır çalışıyor."
+      },
+      {
+        "zh": "会议到此为止。",
+        "pinyin": "Huìyì dào cǐ wéizhǐ.",
+        "en": "Toplantı burada sona eriyor."
+      },
+      {
+        "zh": "活动截止到月底为止。",
+        "pinyin": "Huódòng jiézhǐ dào yuèdǐ wéizhǐ.",
+        "en": "Etkinlik ay sonuna kadar sürecek."
+      }
+    ]
+  },
+  {
+    "id": "w6312",
+    "hanzi": "违背",
+    "pinyin": "wéibèi",
+    "meaning": "karşı gelmek, ihlal etmek, ters düşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他违背了自己的诺言。",
+        "pinyin": "Tā wéibèile zìjǐ de nuòyán.",
+        "en": "O kendi sözünü ihlal etti."
+      },
+      {
+        "zh": "这样做违背了公司的规定。",
+        "pinyin": "Zhèyàng zuò wéibèile gōngsī de guīdìng.",
+        "en": "Böyle yapmak şirketin kurallarına aykırı."
+      }
+    ]
+  },
+  {
+    "id": "w6313",
+    "hanzi": "违法",
+    "pinyin": "wéifǎ",
+    "meaning": "kanuna aykırı davranmak, yasadışı olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这种行为是违法的。",
+        "pinyin": "Zhè zhǒng xíngwéi shì wéifǎ de.",
+        "en": "Bu tür davranış yasadışıdır."
+      },
+      {
+        "zh": "他因违法被判入狱。",
+        "pinyin": "Tā yīn wéifǎ bèi pàn rùyù.",
+        "en": "O yasadışı davranış nedeniyle hapis cezasına çarptırıldı."
+      },
+      {
+        "zh": "违法行为将受到严惩。",
+        "pinyin": "Wéifǎ xíngwéi jiāng shòudào yánchéng.",
+        "en": "Yasadışı davranışlar ağır şekilde cezalandırılacak."
+      },
+      {
+        "zh": "他从不做违法的事。",
+        "pinyin": "Tā cóng bù zuò wéifǎ de shì.",
+        "en": "O asla yasadışı bir şey yapmaz."
+      },
+      {
+        "zh": "任何人都不能违法经营。",
+        "pinyin": "Rènhé rén dōu bùnéng wéifǎ jīngyíng.",
+        "en": "Hiç kimse yasalara aykırı ticaret yapamaz."
+      }
+    ]
+  },
+  {
+    "id": "w6314",
+    "hanzi": "围",
+    "pinyin": "wéi",
+    "meaning": "kuşatmak, çevirmek, etrafını sarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "村子被大水围住了。",
+        "pinyin": "Cūnzi bèi dàshuǐ wéi zhù le.",
+        "en": "Köy sel suyuyla çevrildi."
+      },
+      {
+        "zh": "很多人围在一起看热闹。",
+        "pinyin": "Hěn duō rén wéi zài yīqǐ kàn rènao.",
+        "en": "Birçok insan bir araya toplanıp izliyor."
+      },
+      {
+        "zh": "他围着桌子走来走去。",
+        "pinyin": "Tā wéizhe zhuōzi zǒulái zǒuqù.",
+        "en": "O masanın etrafında dolaşıyor."
+      },
+      {
+        "zh": "警察把现场围了起来。",
+        "pinyin": "Jǐngchá bǎ xiànchǎng wéile qǐlai.",
+        "en": "Polis olay yerini çevreledi."
+      },
+      {
+        "zh": "花园周围围着一圈篱笆。",
+        "pinyin": "Huāyuán zhōuwéi wéizhe yī quān líba.",
+        "en": "Bahçenin etrafı bir çit ile çevrilmiş."
+      }
+    ]
+  },
+  {
+    "id": "w6315",
+    "hanzi": "围棋",
+    "pinyin": "wéiqí",
+    "meaning": "go oyunu (Çin daması)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Oyunlar",
+    "examples": [
+      {
+        "zh": "爷爷每天都下围棋。",
+        "pinyin": "Yéye měitiān dōu xià wéiqí.",
+        "en": "Dede her gün go oynar."
+      },
+      {
+        "zh": "围棋是一种很古老的游戏。",
+        "pinyin": "Wéiqí shì yī zhǒng hěn gǔlǎo de yóuxì.",
+        "en": "Go, çok eski bir oyundur."
+      },
+      {
+        "zh": "他从小就学习下围棋。",
+        "pinyin": "Tā cóngxiǎo jiù xuéxí xià wéiqí.",
+        "en": "O küçüklüğünden beri go oynamayı öğreniyor."
+      },
+      {
+        "zh": "围棋比赛非常精彩。",
+        "pinyin": "Wéiqí bǐsài fēicháng jīngcǎi.",
+        "en": "Go maçı son derece heyecanlıydı."
+      },
+      {
+        "zh": "这位围棋高手赢得了冠军。",
+        "pinyin": "Zhè wèi wéiqí gāoshǒu yíngdéle guànjūn.",
+        "en": "Bu go ustası şampiyon oldu."
+      }
+    ]
+  },
+  {
+    "id": "w6316",
+    "hanzi": "维持",
+    "pinyin": "wéichí",
+    "meaning": "korumak, sürdürmek, devam ettirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他努力维持家庭的和睦。",
+        "pinyin": "Tā nǔlì wéichí jiātíng de hémù.",
+        "en": "O ailesinin huzurunu sürdürmek için çabalıyor."
+      },
+      {
+        "zh": "警察维持着现场秩序。",
+        "pinyin": "Jǐngchá wéichízhe xiànchǎng zhìxù.",
+        "en": "Polis olay yerinin düzenini koruyor."
+      },
+      {
+        "zh": "公司很难维持目前的运营成本。",
+        "pinyin": "Gōngsī hěn nán wéichí mùqián de yùnyíng chéngběn.",
+        "en": "Şirketin mevcut işletme maliyetini sürdürmesi zor."
+      },
+      {
+        "zh": "他靠打工维持生活。",
+        "pinyin": "Tā kào dǎgōng wéichí shēnghuó.",
+        "en": "O yaşamını sürdürmek için part-time çalışıyor."
+      },
+      {
+        "zh": "双方同意维持现状。",
+        "pinyin": "Shuāngfāng tóngyì wéichí xiànzhuàng.",
+        "en": "Her iki taraf mevcut durumu sürdürmeyi kabul etti."
+      }
+    ]
+  },
+  {
+    "id": "w6317",
+    "hanzi": "维生素",
+    "pinyin": "wéishēngsù",
+    "meaning": "vitamin",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "水果富含维生素。",
+        "pinyin": "Shuǐguǒ fùhán wéishēngsù.",
+        "en": "Meyveler vitamin bakımından zengindir."
+      },
+      {
+        "zh": "他每天都吃维生素补充剂。",
+        "pinyin": "Tā měitiān dōu chī wéishēngsù bǔchōngjì.",
+        "en": "O her gün vitamin takviyesi alıyor."
+      },
+      {
+        "zh": "缺乏维生素会导致各种疾病。",
+        "pinyin": "Quēfá wéishēngsù huì dǎozhì gèzhǒng jíbìng.",
+        "en": "Vitamin eksikliği çeşitli hastalıklara yol açabilir."
+      },
+      {
+        "zh": "橙子含有丰富的维生素C。",
+        "pinyin": "Chéngzi hányǒu fēngfù de wéishēngsù C.",
+        "en": "Portakal bol miktarda C vitamini içerir."
+      },
+      {
+        "zh": "医生建议她多补充维生素。",
+        "pinyin": "Yīshēng jiànyì tā duō bǔchōng wéishēngsù.",
+        "en": "Doktor onun daha fazla vitamin almasını önerdi."
+      }
+    ]
+  },
+  {
+    "id": "w6318",
+    "hanzi": "维修",
+    "pinyin": "wéixiū",
+    "meaning": "bakım yapmak, tamir etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这台机器需要维修。",
+        "pinyin": "Zhè tái jīqì xūyào wéixiū.",
+        "en": "Bu makinenin bakıma ihtiyacı var."
+      },
+      {
+        "zh": "他是一名汽车维修工。",
+        "pinyin": "Tā shì yī míng qìchē wéixiū gōng.",
+        "en": "O bir araba tamircisi."
+      },
+      {
+        "zh": "道路正在维修,请绕行。",
+        "pinyin": "Dàolù zhèngzài wéixiū, qǐng ràoxíng.",
+        "en": "Yol bakımda, lütfen dolaşarak gidin."
+      },
+      {
+        "zh": "公司定期维修设备。",
+        "pinyin": "Gōngsī dìngqī wéixiū shèbèi.",
+        "en": "Şirket ekipmanlara düzenli olarak bakım yapıyor."
+      },
+      {
+        "zh": "维修费用比较高。",
+        "pinyin": "Wéixiū fèiyòng bǐjiào gāo.",
+        "en": "Bakım maliyeti oldukça yüksek."
+      }
+    ]
   }
 ]

@@ -197476,5 +197476,758 @@
         "en": "Anlamadığımızda sadece el işaretleriyle iletişim kurabiliyoruz."
       }
     ]
+  },
+  {
+    "id": "w5813",
+    "hanzi": "手电筒",
+    "pinyin": "shǒudiàntǒng",
+    "meaning": "el feneri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "停电了，他拿出了手电筒。",
+        "pinyin": "Tíngdiàn le, tā náchū le shǒudiàntǒng.",
+        "en": "Elektrik kesildi, el fenerini çıkardı."
+      },
+      {
+        "zh": "手电筒的电池没电了。",
+        "pinyin": "Shǒudiàntǒng de diànchí méi diàn le.",
+        "en": "El fenerinin pili bitti."
+      },
+      {
+        "zh": "他用手电筒照亮了黑暗的房间。",
+        "pinyin": "Tā yòng shǒudiàntǒng zhàoliàng le hēi'àn de fángjiān.",
+        "en": "El feneriyle karanlık odayı aydınlattı."
+      },
+      {
+        "zh": "他们带着手电筒探索山洞。",
+        "pinyin": "Tāmen dàizhe shǒudiàntǒng tànsuǒ shāndòng.",
+        "en": "El fenerleriyle mağarayı keşfediyorlar."
+      },
+      {
+        "zh": "背包里放着一个应急手电筒。",
+        "pinyin": "Bēibāo lǐ fàngzhe yí ge yìngjí shǒudiàntǒng.",
+        "en": "Sırt çantasında acil durum el feneri var."
+      }
+    ]
+  },
+  {
+    "id": "w5814",
+    "hanzi": "手推车",
+    "pinyin": "shǒutuīchē",
+    "meaning": "el arabası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "工人用手推车运货物。",
+        "pinyin": "Gōngrén yòng shǒutuīchē yùn huòwù.",
+        "en": "İşçi el arabasıyla malları taşıyor."
+      },
+      {
+        "zh": "超市里有很多购物手推车。",
+        "pinyin": "Chāoshì lǐ yǒu hěnduō gòuwù shǒutuīchē.",
+        "en": "Markette birçok alışveriş arabası var."
+      }
+    ]
+  },
+  {
+    "id": "w5815",
+    "hanzi": "手腕",
+    "pinyin": "shǒuwàn",
+    "meaning": "bilek; hile, ustalık, hüner",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "她的手腕受伤了。",
+        "pinyin": "Tā de shǒuwàn shòushāng le.",
+        "en": "Bileği yaralandı."
+      },
+      {
+        "zh": "他戴着一块手表在手腕上。",
+        "pinyin": "Tā dàizhe yí kuài shǒubiǎo zài shǒuwàn shàng.",
+        "en": "Bileğine bir kol saati takıyor."
+      },
+      {
+        "zh": "他很有政治手腕。",
+        "pinyin": "Tā hěn yǒu zhèngzhì shǒuwàn.",
+        "en": "Siyasi konularda çok ustadır."
+      },
+      {
+        "zh": "长时间打字会让手腕疼痛。",
+        "pinyin": "Chángshíjiān dǎzì huì ràng shǒuwàn téngtòng.",
+        "en": "Uzun süre yazı yazmak bileği ağrıtabilir."
+      },
+      {
+        "zh": "她用外交手腕解决了这场纠纷。",
+        "pinyin": "Tā yòng wàijiāo shǒuwàn jiějué le zhè chǎng jiūfēn.",
+        "en": "Diplomatik becerisini kullanarak bu anlaşmazlığı çözdü."
+      }
+    ]
+  },
+  {
+    "id": "w5816",
+    "hanzi": "手下",
+    "pinyin": "shǒuxià",
+    "meaning": "el altında, kontrolünde; astlar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他手下有十几个员工。",
+        "pinyin": "Tā shǒuxià yǒu shíjǐ ge yuángōng.",
+        "en": "Kontrolü altında on küsur çalışan var."
+      },
+      {
+        "zh": "这件事在他手下已经完成了。",
+        "pinyin": "Zhè jiàn shì zài tā shǒuxià yǐjīng wánchéng le.",
+        "en": "Bu iş onun sorumluluğunda zaten tamamlandı."
+      }
+    ]
+  },
+  {
+    "id": "w5817",
+    "hanzi": "手心",
+    "pinyin": "shǒuxīn",
+    "meaning": "avuç içi; kontrol altında",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他紧张得手心出汗。",
+        "pinyin": "Tā jǐnzhāng de shǒuxīn chūhàn.",
+        "en": "Gerginlikten avuç içi terledi."
+      },
+      {
+        "zh": "一切都在他的手心里。",
+        "pinyin": "Yíqiè dōu zài tā de shǒuxīn lǐ.",
+        "en": "Her şey onun kontrolü altında."
+      }
+    ]
+  },
+  {
+    "id": "w5818",
+    "hanzi": "手艺",
+    "pinyin": "shǒuyì",
+    "meaning": "zanaat, el sanatı, hüner",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他有一手好手艺。",
+        "pinyin": "Tā yǒu yìshǒu hǎo shǒuyì.",
+        "en": "İyi bir el becerisi var."
+      },
+      {
+        "zh": "这门手艺已经传了三代。",
+        "pinyin": "Zhè mén shǒuyì yǐjīng chuán le sān dài.",
+        "en": "Bu zanaat üç kuşaktır aktarılıyor."
+      },
+      {
+        "zh": "她的裁缝手艺非常精湛。",
+        "pinyin": "Tā de cáiféng shǒuyì fēicháng jīngzhàn.",
+        "en": "Terzilik becerisi çok ustaca."
+      },
+      {
+        "zh": "他靠木匠手艺谋生。",
+        "pinyin": "Tā kào mùjiang shǒuyì móushēng.",
+        "en": "Marangozluk becerisiyle geçimini sağlıyor."
+      },
+      {
+        "zh": "他的厨艺手艺让人赞叹不已。",
+        "pinyin": "Tā de chúyì shǒuyì ràng rén zàntàn bùyǐ.",
+        "en": "Yemek pişirme becerisi hayranlık uyandırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5819",
+    "hanzi": "手掌",
+    "pinyin": "shǒuzhǎng",
+    "meaning": "avuç içi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的手掌很大。",
+        "pinyin": "Tā de shǒuzhǎng hěn dà.",
+        "en": "Avuç içi çok büyük."
+      },
+      {
+        "zh": "她把糖果放在了手掌上。",
+        "pinyin": "Tā bǎ tángguǒ fàng zài le shǒuzhǎng shàng.",
+        "en": "Şekeri avucunun içine koydu."
+      },
+      {
+        "zh": "他用手掌轻轻拍了拍孩子的头。",
+        "pinyin": "Tā yòng shǒuzhǎng qīngqīng pāi le pāi háizi de tóu.",
+        "en": "Avucuyla çocuğun kafasına hafifçe vurdu."
+      },
+      {
+        "zh": "手掌上布满了老茧。",
+        "pinyin": "Shǒuzhǎng shàng bùmǎn le lǎojiǎn.",
+        "en": "Avuç içi nasırla kaplı."
+      },
+      {
+        "zh": "他张开手掌接住了小球。",
+        "pinyin": "Tā zhāngkāi shǒuzhǎng jiēzhù le xiǎoqiú.",
+        "en": "Avucunu açarak küçük topu yakaladı."
+      }
+    ]
+  },
+  {
+    "id": "w5820",
+    "hanzi": "手杖",
+    "pinyin": "shǒuzhàng",
+    "meaning": "baston",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "老人拄着手杖走路。",
+        "pinyin": "Lǎorén zhǔzhe shǒuzhàng zǒulù.",
+        "en": "Yaşlı adam bastona dayanarak yürüyor."
+      },
+      {
+        "zh": "他送给爷爷一根木质手杖。",
+        "pinyin": "Tā sòng gěi yéye yì gēn mùzhì shǒuzhàng.",
+        "en": "Dedesine ahşap bir baston hediye etti."
+      }
+    ]
+  },
+  {
+    "id": "w5821",
+    "hanzi": "手镯",
+    "pinyin": "shǒuzhuó",
+    "meaning": "bilezik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她戴着一只玉手镯。",
+        "pinyin": "Tā dàizhe yì zhī yù shǒuzhuó.",
+        "en": "Bir yeşim bilezik takıyor."
+      },
+      {
+        "zh": "他送给妻子一只金手镯。",
+        "pinyin": "Tā sòng gěi qīzi yì zhī jīn shǒuzhuó.",
+        "en": "Eşine altın bir bilezik hediye etti."
+      },
+      {
+        "zh": "这只手镯是祖母传下来的。",
+        "pinyin": "Zhè zhī shǒuzhuó shì zǔmǔ chuán xiàlái de.",
+        "en": "Bu bilezik büyükanneden kalma."
+      },
+      {
+        "zh": "她把手镯放在了首饰盒里。",
+        "pinyin": "Tā bǎ shǒuzhuó fàng zài le shǒushìhé lǐ.",
+        "en": "Bileziği takı kutusuna koydu."
+      },
+      {
+        "zh": "这只银手镯闪闪发光。",
+        "pinyin": "Zhè zhī yín shǒuzhuó shǎnshǎn fāguāng.",
+        "en": "Bu gümüş bilezik parıl parıl parlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5822",
+    "hanzi": "手足",
+    "pinyin": "shǒuzú",
+    "meaning": "el ve ayak; kardeşler",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他们情同手足。",
+        "pinyin": "Tāmen qíngtóngshǒuzú.",
+        "en": "Kardeş gibi yakın bir bağları var."
+      },
+      {
+        "zh": "遇到危险时他手足无措。",
+        "pinyin": "Yùdào wēixiǎn shí tā shǒuzú-wúcuò.",
+        "en": "Tehlikeyle karşılaşınca ne yapacağını bilemedi."
+      }
+    ]
+  },
+  {
+    "id": "w5823",
+    "hanzi": "瘦弱",
+    "pinyin": "shòuruò",
+    "meaning": "zayıf ve çelimsiz",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他身体很瘦弱。",
+        "pinyin": "Tā shēntǐ hěn shòuruò.",
+        "en": "Bedeni çok zayıf ve çelimsiz."
+      },
+      {
+        "zh": "生病后他变得瘦弱不堪。",
+        "pinyin": "Shēngbìng hòu tā biànde shòuruò bùkān.",
+        "en": "Hastalıktan sonra çok zayıf düştü."
+      }
+    ]
+  },
+  {
+    "id": "w5824",
+    "hanzi": "瘦小",
+    "pinyin": "shòuxiǎo",
+    "meaning": "küçük ve zayıf boylu",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的身材瘦小。",
+        "pinyin": "Tā de shēncái shòuxiǎo.",
+        "en": "Vücudu küçük ve zayıf."
+      },
+      {
+        "zh": "那个瘦小的男孩跑得很快。",
+        "pinyin": "Nàge shòuxiǎo de nánhái pǎo de hěn kuài.",
+        "en": "O küçük ve zayıf çocuk çok hızlı koşuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5825",
+    "hanzi": "兽",
+    "pinyin": "shòu",
+    "meaning": "vahşi hayvan, canavar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "森林里有很多野兽。",
+        "pinyin": "Sēnlín lǐ yǒu hěnduō yěshòu.",
+        "en": "Ormanda birçok vahşi hayvan var."
+      },
+      {
+        "zh": "他的行为简直如同禽兽。",
+        "pinyin": "Tā de xíngwéi jiǎnzhí rútóng qínshòu.",
+        "en": "Davranışı adeta bir hayvan gibiydi."
+      }
+    ]
+  },
+  {
+    "id": "w5826",
+    "hanzi": "兽医",
+    "pinyin": "shòuyī",
+    "meaning": "veteriner",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他是一名兽医。",
+        "pinyin": "Tā shì yì míng shòuyī.",
+        "en": "O bir veterinerdir."
+      },
+      {
+        "zh": "我们把生病的狗带去看兽医。",
+        "pinyin": "Wǒmen bǎ shēngbìng de gǒu dàiqù kàn shòuyī.",
+        "en": "Hasta köpeği veterinere götürdük."
+      },
+      {
+        "zh": "兽医给猫做了检查。",
+        "pinyin": "Shòuyī gěi māo zuò le jiǎnchá.",
+        "en": "Veteriner kediyi muayene etti."
+      },
+      {
+        "zh": "他从小就想成为一名兽医。",
+        "pinyin": "Tā cóngxiǎo jiù xiǎng chéngwéi yì míng shòuyī.",
+        "en": "Küçüklüğünden beri veteriner olmak istiyordu."
+      },
+      {
+        "zh": "兽医帮助农场治疗生病的牲畜。",
+        "pinyin": "Shòuyī bāngzhù nóngchǎng zhìliáo shēngbìng de shēngchù.",
+        "en": "Veteriner çiftlikteki hasta hayvanları tedavi etmeye yardımcı oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w5827",
+    "hanzi": "寿",
+    "pinyin": "shòu",
+    "meaning": "uzun ömür",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "我们祝他福寿双全。",
+        "pinyin": "Wǒmen zhù tā fúshòu shuāngquán.",
+        "en": "Ona hem mutluluk hem uzun ömür diliyoruz."
+      },
+      {
+        "zh": "长寿是每个人的美好愿望。",
+        "pinyin": "Chángshòu shì měige rén de měihǎo yuànwàng.",
+        "en": "Uzun ömür herkesin güzel bir dileğidir."
+      }
+    ]
+  },
+  {
+    "id": "w5828",
+    "hanzi": "受",
+    "pinyin": "shòu",
+    "meaning": "almak, maruz kalmak, kabul etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在事故中受了伤。",
+        "pinyin": "Tā zài shìgù zhōng shòu le shāng.",
+        "en": "Kazada yaralandı."
+      },
+      {
+        "zh": "他深受大家的欢迎。",
+        "pinyin": "Tā shēnshòu dàjiā de huānyíng.",
+        "en": "Herkes tarafından çok seviliyor."
+      },
+      {
+        "zh": "这项工作压力很大，让人难以承受。",
+        "pinyin": "Zhè xiàng gōngzuò yālì hěn dà, ràng rén nányǐ chéngshòu.",
+        "en": "Bu işin baskısı çok fazla, katlanmak zor."
+      },
+      {
+        "zh": "他受到了老师的表扬。",
+        "pinyin": "Tā shòudào le lǎoshī de biǎoyáng.",
+        "en": "Öğretmeninden övgü aldı."
+      },
+      {
+        "zh": "这份礼物我不能受。",
+        "pinyin": "Zhè fèn lǐwù wǒ bùnéng shòu.",
+        "en": "Bu hediyeyi kabul edemem."
+      }
+    ]
+  },
+  {
+    "id": "w5829",
+    "hanzi": "受害",
+    "pinyin": "shòuhài",
+    "meaning": "zarar görmek, mağdur olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "许多无辜的人受害了。",
+        "pinyin": "Hěnduō wúgū de rén shòuhài le.",
+        "en": "Birçok masum insan zarar gördü."
+      },
+      {
+        "zh": "他成为了这起诈骗案的受害者。",
+        "pinyin": "Tā chéngwéi le zhè qǐ zhàpiàn àn de shòuhàizhě.",
+        "en": "Bu dolandırıcılık vakasının mağduru oldu."
+      }
+    ]
+  },
+  {
+    "id": "w5830",
+    "hanzi": "受贿",
+    "pinyin": "shòuhuì",
+    "meaning": "rüşvet almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他因受贿被判刑。",
+        "pinyin": "Tā yīn shòuhuì bèi pànxíng.",
+        "en": "Rüşvet almaktan hüküm giydi."
+      },
+      {
+        "zh": "这名官员被指控受贿。",
+        "pinyin": "Zhè míng guānyuán bèi zhǐkòng shòuhuì.",
+        "en": "Bu yetkili rüşvet almakla suçlandı."
+      }
+    ]
+  },
+  {
+    "id": "w5831",
+    "hanzi": "受惊",
+    "pinyin": "shòujīng",
+    "meaning": "korkmak, ürkmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "马受惊后狂奔起来。",
+        "pinyin": "Mǎ shòujīng hòu kuángbēn qǐlái.",
+        "en": "At korktuktan sonra çılgınca koşmaya başladı."
+      },
+      {
+        "zh": "孩子受惊后哭了起来。",
+        "pinyin": "Háizi shòujīng hòu kū le qǐlái.",
+        "en": "Çocuk korktuktan sonra ağlamaya başladı."
+      }
+    ]
+  },
+  {
+    "id": "w5832",
+    "hanzi": "受益",
+    "pinyin": "shòuyì",
+    "meaning": "fayda görmek, yararlanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "很多学生从这项政策中受益。",
+        "pinyin": "Hěnduō xuésheng cóng zhè xiàng zhèngcè zhōng shòuyì.",
+        "en": "Birçok öğrenci bu politikadan yararlandı."
+      },
+      {
+        "zh": "他从这次培训中受益匪浅。",
+        "pinyin": "Tā cóng zhè cì péixùn zhōng shòuyì fěiqiǎn.",
+        "en": "Bu eğitimden büyük fayda gördü."
+      },
+      {
+        "zh": "农民从新技术中受益良多。",
+        "pinyin": "Nóngmín cóng xīn jìshù zhōng shòuyì liángduō.",
+        "en": "Çiftçiler yeni teknolojiden büyük fayda gördü."
+      },
+      {
+        "zh": "整个社会都从这项改革中受益。",
+        "pinyin": "Zhěnggè shèhuì dōu cóng zhè xiàng gǎigé zhōng shòuyì.",
+        "en": "Tüm toplum bu reformdan fayda gördü."
+      },
+      {
+        "zh": "他终生受益于这次经历。",
+        "pinyin": "Tā zhōngshēng shòuyì yú zhè cì jīnglì.",
+        "en": "Bu deneyimden hayat boyu fayda gördü."
+      }
+    ]
+  },
+  {
+    "id": "w5833",
+    "hanzi": "授予",
+    "pinyin": "shòuyǔ",
+    "meaning": "vermek, ihsan etmek (ödül, unvan)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "学校授予他荣誉学位。",
+        "pinyin": "Xuéxiào shòuyǔ tā róngyù xuéwèi.",
+        "en": "Okul ona onursal derece verdi."
+      },
+      {
+        "zh": "政府授予他杰出贡献奖。",
+        "pinyin": "Zhèngfǔ shòuyǔ tā jiéchū gòngxiàn jiǎng.",
+        "en": "Hükümet ona üstün katkı ödülü verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5834",
+    "hanzi": "售",
+    "pinyin": "shòu",
+    "meaning": "satmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这种商品已经售完了。",
+        "pinyin": "Zhè zhǒng shāngpǐn yǐjīng shòuwán le.",
+        "en": "Bu ürün zaten tükendi."
+      },
+      {
+        "zh": "这套房子正在出售。",
+        "pinyin": "Zhè tào fángzi zhèngzài chūshòu.",
+        "en": "Bu ev satılıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5835",
+    "hanzi": "售价",
+    "pinyin": "shòujià",
+    "meaning": "satış fiyatı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这款手机的售价是三千元。",
+        "pinyin": "Zhè kuǎn shǒujī de shòujià shì sānqiān yuán.",
+        "en": "Bu telefonun satış fiyatı üç bin yuandır."
+      },
+      {
+        "zh": "商品的售价随市场波动。",
+        "pinyin": "Shāngpǐn de shòujià suí shìchǎng bōdòng.",
+        "en": "Ürünün satış fiyatı piyasaya göre değişiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5836",
+    "hanzi": "售票员",
+    "pinyin": "shòupiàoyuán",
+    "meaning": "biletçi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "公交车上有一名售票员。",
+        "pinyin": "Gōngjiāochē shàng yǒu yì míng shòupiàoyuán.",
+        "en": "Otobüste bir biletçi var."
+      },
+      {
+        "zh": "售票员帮我找了零钱。",
+        "pinyin": "Shòupiàoyuán bāng wǒ zhǎo le língqián.",
+        "en": "Biletçi bana para üstü verdi."
+      },
+      {
+        "zh": "售票员提醒乘客小心台阶。",
+        "pinyin": "Shòupiàoyuán tíxǐng chéngkè xiǎoxīn táijiē.",
+        "en": "Biletçi yolculara basamağa dikkat etmelerini hatırlattı."
+      },
+      {
+        "zh": "她曾经是一名火车售票员。",
+        "pinyin": "Tā céngjīng shì yì míng huǒchē shòupiàoyuán.",
+        "en": "Bir zamanlar tren biletçisiydi."
+      },
+      {
+        "zh": "他向售票员买了一张车票。",
+        "pinyin": "Tā xiàng shòupiàoyuán mǎi le yì zhāng chēpiào.",
+        "en": "Biletçiden bir bilet satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5837",
+    "hanzi": "狩猎",
+    "pinyin": "shòuliè",
+    "meaning": "avlanma, avcılık",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "古代人靠狩猎为生。",
+        "pinyin": "Gǔdàirén kào shòuliè wéishēng.",
+        "en": "Antik insanlar avcılıkla geçimini sağlardı."
+      },
+      {
+        "zh": "这个部落有着悠久的狩猎传统。",
+        "pinyin": "Zhège bùluò yǒuzhe yōujiǔ de shòuliè chuántǒng.",
+        "en": "Bu kabilenin köklü bir avcılık geleneği var."
+      }
+    ]
+  },
+  {
+    "id": "w5838",
+    "hanzi": "书法",
+    "pinyin": "shūfǎ",
+    "meaning": "hat sanatı, kaligrafi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "他从小学习书法。",
+        "pinyin": "Tā cóngxiǎo xuéxí shūfǎ.",
+        "en": "Küçüklüğünden beri kaligrafi öğreniyor."
+      },
+      {
+        "zh": "他的书法作品曾获得大奖。",
+        "pinyin": "Tā de shūfǎ zuòpǐn céng huòdé dàjiǎng.",
+        "en": "Kaligrafi eserleri daha önce büyük bir ödül almıştı."
+      },
+      {
+        "zh": "书法是中国传统艺术之一。",
+        "pinyin": "Shūfǎ shì Zhōngguó chuántǒng yìshù zhīyī.",
+        "en": "Kaligrafi, Çin'in geleneksel sanatlarından biridir."
+      },
+      {
+        "zh": "他每天练习书法一小时。",
+        "pinyin": "Tā měitiān liànxí shūfǎ yì xiǎoshí.",
+        "en": "Her gün bir saat kaligrafi pratiği yapıyor."
+      },
+      {
+        "zh": "这幅书法作品挂在客厅里。",
+        "pinyin": "Zhè fú shūfǎ zuòpǐn guà zài kètīng lǐ.",
+        "en": "Bu hat sanatı eseri oturma odasında asılı."
+      }
+    ]
+  },
+  {
+    "id": "w5839",
+    "hanzi": "书籍",
+    "pinyin": "shūjí",
+    "meaning": "kitaplar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "图书馆里有各种各样的书籍。",
+        "pinyin": "Túshūguǎn lǐ yǒu gèzhǒng-gèyàng de shūjí.",
+        "en": "Kütüphanede çeşit çeşit kitaplar var."
+      },
+      {
+        "zh": "他喜欢收藏古籍书籍。",
+        "pinyin": "Tā xǐhuan shōucáng gǔjí shūjí.",
+        "en": "Antika kitapları toplamayı sever."
+      },
+      {
+        "zh": "这些书籍已经过时了。",
+        "pinyin": "Zhèxiē shūjí yǐjīng guòshí le.",
+        "en": "Bu kitaplar zaten güncelliğini yitirdi."
+      },
+      {
+        "zh": "他每年阅读大量的书籍。",
+        "pinyin": "Tā měinián yuèdú dàliàng de shūjí.",
+        "en": "Her yıl büyük miktarda kitap okuyor."
+      },
+      {
+        "zh": "书籍是知识的重要来源。",
+        "pinyin": "Shūjí shì zhīshi de zhòngyào láiyuán.",
+        "en": "Kitaplar bilginin önemli bir kaynağıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5840",
+    "hanzi": "书记",
+    "pinyin": "shūji",
+    "meaning": "sekreter, (parti) sekreteri",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他被选为村里的书记。",
+        "pinyin": "Tā bèi xuǎn wéi cūn lǐ de shūji.",
+        "en": "Köyün sekreteri olarak seçildi."
+      },
+      {
+        "zh": "书记主持了这次会议。",
+        "pinyin": "Shūji zhǔchí le zhè cì huìyì.",
+        "en": "Sekreter bu toplantıyı yönetti."
+      }
+    ]
   }
 ]

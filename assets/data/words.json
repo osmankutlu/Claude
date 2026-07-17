@@ -205969,5 +205969,743 @@
         "en": "Sözlerle onu sinirlendirmeye çalışma."
       }
     ]
+  },
+  {
+    "id": "w6121",
+    "hanzi": "挑明",
+    "pinyin": "tiǎomíng",
+    "meaning": "açıklığa kavuşturmak, açıkça söylemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他终于把心里话挑明了。",
+        "pinyin": "Tā zhōngyú bǎ xīnlǐhuà tiǎomíng le.",
+        "en": "Sonunda içindekini açıkça söyledi."
+      },
+      {
+        "zh": "有话就挑明说，别绕弯子。",
+        "pinyin": "Yǒu huà jiù tiǎomíng shuō, bié ràowānzi.",
+        "en": "Söyleyecek bir şey varsa açıkça söyle, laf dolandırma."
+      }
+    ]
+  },
+  {
+    "id": "w6122",
+    "hanzi": "挑唆",
+    "pinyin": "tiǎosuō",
+    "meaning": "kışkırtmak, tahrik etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "有人在背后挑唆他们吵架。",
+        "pinyin": "Yǒurén zài bèihòu tiǎosuō tāmen chǎojià.",
+        "en": "Biri arkadan kavga etmeleri için onları kışkırtıyor."
+      },
+      {
+        "zh": "他被人挑唆去做坏事。",
+        "pinyin": "Tā bèi rén tiǎosuō qù zuò huàishì.",
+        "en": "Biri tarafından kötü bir şey yapmaya kışkırtıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6123",
+    "hanzi": "铁板",
+    "pinyin": "tiěbǎn",
+    "meaning": "demir levha, sac",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这道菜是用铁板烤的。",
+        "pinyin": "Zhè dào cài shì yòng tiěbǎn kǎo de.",
+        "en": "Bu yemek sacda pişirilmiştir."
+      },
+      {
+        "zh": "工人用铁板搭建了临时围栏。",
+        "pinyin": "Gōngrén yòng tiěbǎn dājiàn le línshí wéilán.",
+        "en": "İşçiler demir levha kullanarak geçici bir çit kurdu."
+      }
+    ]
+  },
+  {
+    "id": "w6124",
+    "hanzi": "铁矿",
+    "pinyin": "tiěkuàng",
+    "meaning": "demir cevheri, demir madeni",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个地区盛产铁矿。",
+        "pinyin": "Zhège dìqū shèngchǎn tiěkuàng.",
+        "en": "Bu bölge demir cevheri açısından zengindir."
+      },
+      {
+        "zh": "工人们在铁矿里辛苦工作。",
+        "pinyin": "Gōngrénmen zài tiěkuàng lǐ xīnkǔ gōngzuò.",
+        "en": "İşçiler demir madeninde zorlu bir şekilde çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6125",
+    "hanzi": "铁链",
+    "pinyin": "tiěliàn",
+    "meaning": "demir zincir",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "大门被铁链锁住了。",
+        "pinyin": "Dàmén bèi tiěliàn suǒzhù le.",
+        "en": "Büyük kapı demir zincirle kilitlendi."
+      },
+      {
+        "zh": "狗被铁链拴在了树下。",
+        "pinyin": "Gǒu bèi tiěliàn shuān zài le shùxià.",
+        "en": "Köpek demir zincirle ağacın altına bağlandı."
+      }
+    ]
+  },
+  {
+    "id": "w6126",
+    "hanzi": "听说",
+    "pinyin": "tīngshuō",
+    "meaning": "duymak, işitmek (birilerinden)",
+    "partOfSpeech": "fiil",
+    "level": 3,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我听说他要结婚了。",
+        "pinyin": "Wǒ tīngshuō tā yào jiéhūn le.",
+        "en": "Onun evleneceğini duydum."
+      },
+      {
+        "zh": "听说这家餐厅的菜很好吃。",
+        "pinyin": "Tīngshuō zhè jiā cāntīng de cài hěn hǎochī.",
+        "en": "Bu restoranın yemeklerinin çok lezzetli olduğunu duydum."
+      },
+      {
+        "zh": "我听说明天要下雨。",
+        "pinyin": "Wǒ tīngshuō míngtiān yào xiàyǔ.",
+        "en": "Yarın yağmur yağacağını duydum."
+      },
+      {
+        "zh": "听说他找到了新工作。",
+        "pinyin": "Tīngshuō tā zhǎodào le xīn gōngzuò.",
+        "en": "Yeni bir iş bulduğunu duydum."
+      },
+      {
+        "zh": "你听说这个消息了吗？",
+        "pinyin": "Nǐ tīngshuō zhège xiāoxi le ma?",
+        "en": "Bu haberi duydun mu?"
+      }
+    ]
+  },
+  {
+    "id": "w6127",
+    "hanzi": "亭",
+    "pinyin": "tíng",
+    "meaning": "köşk, kameriye",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "公园里有一座凉亭。",
+        "pinyin": "Gōngyuán lǐ yǒu yí zuò liángtíng.",
+        "en": "Parkta bir kameriye var."
+      },
+      {
+        "zh": "他们在亭子里休息乘凉。",
+        "pinyin": "Tāmen zài tíngzi lǐ xiūxi chéngliáng.",
+        "en": "Kameriyede dinlenip serinliyorlar."
+      },
+      {
+        "zh": "湖边建了一座凉亭。",
+        "pinyin": "Húbiān jiàn le yí zuò liángtíng.",
+        "en": "Göl kenarına bir kameriye inşa edildi."
+      },
+      {
+        "zh": "游客在亭子里拍照留念。",
+        "pinyin": "Yóukè zài tíngzi lǐ pāizhào liúniàn.",
+        "en": "Turistler kameriyede hatıra fotoğrafı çekti."
+      },
+      {
+        "zh": "这座古亭已经有几百年的历史。",
+        "pinyin": "Zhè zuò gǔtíng yǐjīng yǒu jǐbǎi nián de lìshǐ.",
+        "en": "Bu antik köşkün birkaç yüz yıllık bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w6128",
+    "hanzi": "停办",
+    "pinyin": "tíngbàn",
+    "meaning": "(iş yerini) kapatmak, tasfiye etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这个项目已经停办了。",
+        "pinyin": "Zhège xiàngmù yǐjīng tíngbàn le.",
+        "en": "Bu proje zaten sonlandırıldı."
+      },
+      {
+        "zh": "学校因资金问题停办了这个专业。",
+        "pinyin": "Xuéxiào yīn zījīn wèntí tíngbàn le zhège zhuānyè.",
+        "en": "Okul, mali sorunlar nedeniyle bu bölümü kapattı."
+      }
+    ]
+  },
+  {
+    "id": "w6129",
+    "hanzi": "停泊",
+    "pinyin": "tíngbó",
+    "meaning": "demirlemek, demir atmak, rıhtıma yanaşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "船只在港口停泊。",
+        "pinyin": "Chuánzhī zài gǎngkǒu tíngbó.",
+        "en": "Gemi limanda demirledi."
+      },
+      {
+        "zh": "这艘渔船停泊了一夜。",
+        "pinyin": "Zhè sōu yúchuán tíngbó le yíyè.",
+        "en": "Bu balıkçı gemisi bir gece demirledi."
+      }
+    ]
+  },
+  {
+    "id": "w6130",
+    "hanzi": "停产",
+    "pinyin": "tíngchǎn",
+    "meaning": "üretimi durdurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工厂因故障停产了。",
+        "pinyin": "Gōngchǎng yīn gùzhàng tíngchǎn le.",
+        "en": "Fabrika arıza nedeniyle üretimi durdurdu."
+      },
+      {
+        "zh": "这款车型已经停产。",
+        "pinyin": "Zhè kuǎn chēxíng yǐjīng tíngchǎn.",
+        "en": "Bu araba modelinin üretimi zaten durduruldu."
+      }
+    ]
+  },
+  {
+    "id": "w6131",
+    "hanzi": "停车",
+    "pinyin": "tíngchē",
+    "meaning": "park etmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这里禁止停车。",
+        "pinyin": "Zhèlǐ jìnzhǐ tíngchē.",
+        "en": "Burada park etmek yasaktır."
+      },
+      {
+        "zh": "他把车停在了路边。",
+        "pinyin": "Tā bǎ chē tíng zài le lùbiān.",
+        "en": "Arabayı yol kenarına park etti."
+      },
+      {
+        "zh": "停车场已经满了。",
+        "pinyin": "Tíngchēchǎng yǐjīng mǎn le.",
+        "en": "Otopark zaten dolu."
+      },
+      {
+        "zh": "请在指定区域停车。",
+        "pinyin": "Qǐng zài zhǐdìng qūyù tíngchē.",
+        "en": "Lütfen belirlenen alana park edin."
+      },
+      {
+        "zh": "他找不到停车的地方。",
+        "pinyin": "Tā zhǎobúdào tíngchē de dìfang.",
+        "en": "Park edecek bir yer bulamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6132",
+    "hanzi": "停当",
+    "pinyin": "tíngdang",
+    "meaning": "hazır, yerleşmiş, tamamlanmış",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "行李已经收拾停当了。",
+        "pinyin": "Xíngli yǐjīng shōushi tíngdang le.",
+        "en": "Bavul zaten toplanıp hazır."
+      },
+      {
+        "zh": "一切都准备停当，可以出发了。",
+        "pinyin": "Yíqiè dōu zhǔnbèi tíngdang, kěyǐ chūfā le.",
+        "en": "Her şey hazır, yola çıkabiliriz."
+      }
+    ]
+  },
+  {
+    "id": "w6133",
+    "hanzi": "停电",
+    "pinyin": "tíngdiàn",
+    "meaning": "elektrik kesintisi",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "昨晚突然停电了。",
+        "pinyin": "Zuówǎn tūrán tíngdiàn le.",
+        "en": "Dün gece aniden elektrik kesildi."
+      },
+      {
+        "zh": "停电期间无法使用电脑。",
+        "pinyin": "Tíngdiàn qījiān wúfǎ shǐyòng diànnǎo.",
+        "en": "Elektrik kesintisi sırasında bilgisayar kullanılamıyor."
+      },
+      {
+        "zh": "台风导致大面积停电。",
+        "pinyin": "Táifēng dǎozhì dàmiànjī tíngdiàn.",
+        "en": "Tayfun geniş alanda elektrik kesintisine neden oldu."
+      },
+      {
+        "zh": "停电时我们点了蜡烛。",
+        "pinyin": "Tíngdiàn shí wǒmen diǎn le làzhú.",
+        "en": "Elektrik kesildiğinde mum yaktık."
+      },
+      {
+        "zh": "工人们正在抢修停电线路。",
+        "pinyin": "Gōngrénmen zhèngzài qiǎngxiū tíngdiàn xiànlù.",
+        "en": "İşçiler elektrik kesintisine neden olan hattı acilen onarıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6134",
+    "hanzi": "停顿",
+    "pinyin": "tíngdùn",
+    "meaning": "durmak, duraklamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他说话时停顿了一下。",
+        "pinyin": "Tā shuōhuà shí tíngdùn le yíxià.",
+        "en": "Konuşurken bir an durakladı."
+      },
+      {
+        "zh": "工程因资金问题停顿了。",
+        "pinyin": "Gōngchéng yīn zījīn wèntí tíngdùn le.",
+        "en": "Proje mali sorunlar nedeniyle durdu."
+      },
+      {
+        "zh": "谈判一度停顿了下来。",
+        "pinyin": "Tánpàn yídù tíngdùn le xiàlái.",
+        "en": "Müzakereler bir süre durakladı."
+      },
+      {
+        "zh": "他的思路突然停顿了。",
+        "pinyin": "Tā de sīlù tūrán tíngdùn le.",
+        "en": "Düşünce akışı aniden durdu."
+      },
+      {
+        "zh": "这项工作不能停顿。",
+        "pinyin": "Zhè xiàng gōngzuò bùnéng tíngdùn.",
+        "en": "Bu iş durdurulamaz."
+      }
+    ]
+  },
+  {
+    "id": "w6135",
+    "hanzi": "停放",
+    "pinyin": "tíngfàng",
+    "meaning": "park etmek, yerleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "自行车要停放在指定区域。",
+        "pinyin": "Zìxíngchē yào tíngfàng zài zhǐdìng qūyù.",
+        "en": "Bisikletlerin belirlenen alana park edilmesi gerekiyor."
+      },
+      {
+        "zh": "货车停放在了仓库门口。",
+        "pinyin": "Huòchē tíngfàng zài le cāngkù ménkǒu.",
+        "en": "Kamyon depo kapısına park edildi."
+      }
+    ]
+  },
+  {
+    "id": "w6136",
+    "hanzi": "停工",
+    "pinyin": "tínggōng",
+    "meaning": "işi durdurmak, iş yerini kapatmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "工地因天气原因停工了。",
+        "pinyin": "Gōngdì yīn tiānqì yuányīn tínggōng le.",
+        "en": "Şantiye hava koşulları nedeniyle işi durdurdu."
+      },
+      {
+        "zh": "工厂已经停工了一个月。",
+        "pinyin": "Gōngchǎng yǐjīng tínggōng le yí ge yuè.",
+        "en": "Fabrika bir aydır işi durdurdu."
+      }
+    ]
+  },
+  {
+    "id": "w6137",
+    "hanzi": "停火",
+    "pinyin": "tínghuǒ",
+    "meaning": "ateşkes yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "双方达成了停火协议。",
+        "pinyin": "Shuāngfāng dáchéng le tínghuǒ xiéyì.",
+        "en": "Her iki taraf bir ateşkes anlaşmasına vardı."
+      },
+      {
+        "zh": "国际社会呼吁立即停火。",
+        "pinyin": "Guójì shèhuì hūyù lìjí tínghuǒ.",
+        "en": "Uluslararası toplum derhal ateşkes çağrısında bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w6138",
+    "hanzi": "停靠",
+    "pinyin": "tíngkào",
+    "meaning": "(tren) durmak, (gemi) demir atmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这趟列车在这个车站停靠五分钟。",
+        "pinyin": "Zhè tàng lièchē zài zhège chēzhàn tíngkào wǔ fēnzhōng.",
+        "en": "Bu tren bu istasyonda beş dakika duruyor."
+      },
+      {
+        "zh": "船只停靠在了码头。",
+        "pinyin": "Chuánzhī tíngkào zài le mǎtóu.",
+        "en": "Gemi iskeleye yanaştı."
+      }
+    ]
+  },
+  {
+    "id": "w6139",
+    "hanzi": "停留",
+    "pinyin": "tíngliú",
+    "meaning": "durmak, kalmak, mola vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们在这里停留了两天。",
+        "pinyin": "Wǒmen zài zhèlǐ tíngliú le liǎng tiān.",
+        "en": "Burada iki gün kaldık."
+      },
+      {
+        "zh": "他的目光停留在了那幅画上。",
+        "pinyin": "Tā de mùguāng tíngliú zài le nà fú huà shàng.",
+        "en": "Bakışları o resimde takılı kaldı."
+      },
+      {
+        "zh": "游客在这个城市停留了一周。",
+        "pinyin": "Yóukè zài zhège chéngshì tíngliú le yìzhōu.",
+        "en": "Turist bu şehirde bir hafta kaldı."
+      },
+      {
+        "zh": "我们的进步不能停留在表面。",
+        "pinyin": "Wǒmen de jìnbù bùnéng tíngliú zài biǎomiàn.",
+        "en": "İlerlememiz yüzeyde kalamaz."
+      },
+      {
+        "zh": "飞机在这里短暂停留后继续飞行。",
+        "pinyin": "Fēijī zài zhèlǐ duǎnzàn tíngliú hòu jìxù fēixíng.",
+        "en": "Uçak burada kısa bir mola verdikten sonra uçmaya devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w6140",
+    "hanzi": "停战",
+    "pinyin": "tíngzhàn",
+    "meaning": "ateşkes yapmak, mütareke etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两国签署了停战协议。",
+        "pinyin": "Liǎng guó qiānshǔ le tíngzhàn xiéyì.",
+        "en": "İki ülke bir ateşkes anlaşması imzaladı."
+      },
+      {
+        "zh": "经过多年战争，双方终于停战了。",
+        "pinyin": "Jīngguò duōnián zhànzhēng, shuāngfāng zhōngyú tíngzhàn le.",
+        "en": "Yıllarca süren savaştan sonra her iki taraf sonunda ateşkes yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w6141",
+    "hanzi": "停滞",
+    "pinyin": "tíngzhì",
+    "meaning": "durgunlaşmak, duraklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "经济发展一度停滞。",
+        "pinyin": "Jīngjì fāzhǎn yídù tíngzhì.",
+        "en": "Ekonomik gelişme bir süre durakladı."
+      },
+      {
+        "zh": "谈判进程停滞不前。",
+        "pinyin": "Tánpàn jìnchéng tíngzhì-bùqián.",
+        "en": "Müzakere süreci durgunlaşıp ilerlemedi."
+      }
+    ]
+  },
+  {
+    "id": "w6142",
+    "hanzi": "庭",
+    "pinyin": "tíng",
+    "meaning": "avlu; mahkeme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他家有一个小庭院。",
+        "pinyin": "Tā jiā yǒu yí ge xiǎo tíngyuàn.",
+        "en": "Evinin küçük bir avlusu var."
+      },
+      {
+        "zh": "这起案件将在下周开庭。",
+        "pinyin": "Zhè qǐ ànjiàn jiāng zài xiàzhōu kāitíng.",
+        "en": "Bu dava gelecek hafta görülecek."
+      },
+      {
+        "zh": "他是家庭的顶梁柱。",
+        "pinyin": "Tā shì jiātíng de dǐngliángzhù.",
+        "en": "O ailenin dayanağıdır."
+      },
+      {
+        "zh": "法庭外聚集了很多记者。",
+        "pinyin": "Fǎtíng wài jùjí le hěnduō jìzhě.",
+        "en": "Mahkeme dışında birçok gazeteci toplandı."
+      },
+      {
+        "zh": "他被传唤出庭作证。",
+        "pinyin": "Tā bèi chuánhuàn chūtíng zuòzhèng.",
+        "en": "Mahkemeye tanık olarak çağrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w6143",
+    "hanzi": "庭院",
+    "pinyin": "tíngyuàn",
+    "meaning": "avlu, bahçe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他家的庭院里种满了花草。",
+        "pinyin": "Tā jiā de tíngyuàn lǐ zhòngmǎn le huācǎo.",
+        "en": "Evinin avlusuna çiçek ve otlar dikilmiş."
+      },
+      {
+        "zh": "这座老宅有一个古老的庭院。",
+        "pinyin": "Zhè zuò lǎozhái yǒu yí ge gǔlǎo de tíngyuàn.",
+        "en": "Bu eski konağın antik bir avlusu var."
+      },
+      {
+        "zh": "他们在庭院里喝茶聊天。",
+        "pinyin": "Tāmen zài tíngyuàn lǐ hēchá liáotiān.",
+        "en": "Avluda çay içip sohbet ediyorlar."
+      },
+      {
+        "zh": "庭院里摆放着几把椅子。",
+        "pinyin": "Tíngyuàn lǐ bǎifàngzhe jǐ bǎ yǐzi.",
+        "en": "Avluda birkaç sandalye yerleştirilmiş."
+      },
+      {
+        "zh": "这个庭院设计得非常精美。",
+        "pinyin": "Zhège tíngyuàn shèjì de fēicháng jīngměi.",
+        "en": "Bu avlu çok özenli tasarlanmış."
+      }
+    ]
+  },
+  {
+    "id": "w6144",
+    "hanzi": "挺拔",
+    "pinyin": "tǐngbá",
+    "meaning": "dik ve uzun, gösterişli (duruş)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这棵松树长得非常挺拔。",
+        "pinyin": "Zhè kē sōngshù zhǎngde fēicháng tǐngbá.",
+        "en": "Bu çam ağacı çok dik ve gösterişli büyümüş."
+      },
+      {
+        "zh": "他的身姿挺拔英俊。",
+        "pinyin": "Tā de shēnzī tǐngbá yīngjùn.",
+        "en": "Duruşu dik ve yakışıklı."
+      }
+    ]
+  },
+  {
+    "id": "w6145",
+    "hanzi": "挺立",
+    "pinyin": "tǐnglì",
+    "meaning": "dik durmak, sabit durmak, direnmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这棵老树依然挺立在风雨中。",
+        "pinyin": "Zhè kē lǎoshù yīrán tǐnglì zài fēngyǔ zhōng.",
+        "en": "Bu yaşlı ağaç fırtına içinde hâlâ dimdik duruyor."
+      },
+      {
+        "zh": "他挺立在寒风中一动不动。",
+        "pinyin": "Tā tǐnglì zài hánfēng zhōng yídòngbúdòng.",
+        "en": "Soğuk rüzgarda dimdik hareketsiz duruyor."
+      }
+    ]
+  },
+  {
+    "id": "w6146",
+    "hanzi": "通道",
+    "pinyin": "tōngdào",
+    "meaning": "geçit, koridor, geçiş yolu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "请沿着通道走。",
+        "pinyin": "Qǐng yánzhe tōngdào zǒu.",
+        "en": "Lütfen koridor boyunca yürüyün."
+      },
+      {
+        "zh": "这条通道通向地下停车场。",
+        "pinyin": "Zhè tiáo tōngdào tōngxiàng dìxià tíngchēchǎng.",
+        "en": "Bu geçit yer altı otoparkına açılıyor."
+      },
+      {
+        "zh": "紧急通道禁止堆放杂物。",
+        "pinyin": "Jǐnjí tōngdào jìnzhǐ duīfàng záwù.",
+        "en": "Acil çıkış koridoruna eşya yığmak yasaktır."
+      },
+      {
+        "zh": "机场的安全通道很长。",
+        "pinyin": "Jīchǎng de ānquán tōngdào hěn cháng.",
+        "en": "Havaalanının güvenlik koridoru çok uzun."
+      },
+      {
+        "zh": "他们打通了两个国家之间的贸易通道。",
+        "pinyin": "Tāmen dǎtōng le liǎng ge guójiā zhījiān de màoyì tōngdào.",
+        "en": "İki ülke arasında bir ticaret koridoru açtılar."
+      }
+    ]
+  },
+  {
+    "id": "w6147",
+    "hanzi": "通风",
+    "pinyin": "tōngfēng",
+    "meaning": "havalandırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请打开窗户通风。",
+        "pinyin": "Qǐng dǎkāi chuānghu tōngfēng.",
+        "en": "Lütfen havalandırmak için pencereyi açın."
+      },
+      {
+        "zh": "这个房间通风不好。",
+        "pinyin": "Zhège fángjiān tōngfēng bùhǎo.",
+        "en": "Bu odanın havalandırması iyi değil."
+      },
+      {
+        "zh": "定期通风有助于保持空气新鲜。",
+        "pinyin": "Dìngqī tōngfēng yǒuzhùyú bǎochí kōngqì xīnxiān.",
+        "en": "Düzenli havalandırma havanın temiz kalmasına yardımcı olur."
+      },
+      {
+        "zh": "厨房需要良好的通风系统。",
+        "pinyin": "Chúfáng xūyào liánghǎo de tōngfēng xìtǒng.",
+        "en": "Mutfağın iyi bir havalandırma sistemine ihtiyacı var."
+      },
+      {
+        "zh": "他每天早上都会给房间通风。",
+        "pinyin": "Tā měitiān zǎoshang dōu huì gěi fángjiān tōngfēng.",
+        "en": "Her sabah odayı havalandırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w6148",
+    "hanzi": "通红",
+    "pinyin": "tōnghóng",
+    "meaning": "kıpkırmızı, çok kırmızı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他害羞得脸通红。",
+        "pinyin": "Tā hàixiū de liǎn tōnghóng.",
+        "en": "Utançtan yüzü kıpkırmızı oldu."
+      },
+      {
+        "zh": "夕阳把天空染成了通红。",
+        "pinyin": "Xīyáng bǎ tiānkōng rǎnchéng le tōnghóng.",
+        "en": "Gün batımı gökyüzünü kıpkırmızıya boyadı."
+      }
+    ]
   }
 ]

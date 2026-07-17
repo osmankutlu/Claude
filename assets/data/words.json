@@ -196663,5 +196663,818 @@
         "en": "Olay sonunda uzlaşmayla sonuçlandı."
       }
     ]
+  },
+  {
+    "id": "w5785",
+    "hanzi": "收成",
+    "pinyin": "shōucheng",
+    "meaning": "mahsul, ürün, hasat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "今年的收成很好。",
+        "pinyin": "Jīnnián de shōucheng hěn hǎo.",
+        "en": "Bu yılın hasadı çok iyi."
+      },
+      {
+        "zh": "干旱导致收成减少。",
+        "pinyin": "Gānhàn dǎozhì shōucheng jiǎnshǎo.",
+        "en": "Kuraklık ürün azalmasına neden oldu."
+      }
+    ]
+  },
+  {
+    "id": "w5786",
+    "hanzi": "收到",
+    "pinyin": "shōudào",
+    "meaning": "almak, teslim almak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我收到了你的信。",
+        "pinyin": "Wǒ shōudào le nǐ de xìn.",
+        "en": "Mektubunu aldım."
+      },
+      {
+        "zh": "他收到了一份意外的礼物。",
+        "pinyin": "Tā shōudào le yí fèn yìwài de lǐwù.",
+        "en": "Beklenmedik bir hediye aldı."
+      },
+      {
+        "zh": "公司收到了很多申请。",
+        "pinyin": "Gōngsī shōudào le hěnduō shēnqǐng.",
+        "en": "Şirket birçok başvuru aldı."
+      },
+      {
+        "zh": "我还没收到快递。",
+        "pinyin": "Wǒ hái méi shōudào kuàidì.",
+        "en": "Kargomu henüz almadım."
+      },
+      {
+        "zh": "他收到了大学的录取通知书。",
+        "pinyin": "Tā shōudào le dàxué de lùqǔ tōngzhīshū.",
+        "en": "Üniversiteden kabul mektubunu aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5787",
+    "hanzi": "收费",
+    "pinyin": "shōufèi",
+    "meaning": "ücret almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这个停车场收费很贵。",
+        "pinyin": "Zhège tíngchēchǎng shōufèi hěn guì.",
+        "en": "Bu otoparkın ücreti çok pahalı."
+      },
+      {
+        "zh": "这项服务免费，不收费。",
+        "pinyin": "Zhè xiàng fúwù miǎnfèi, bù shōufèi.",
+        "en": "Bu hizmet ücretsizdir, para alınmıyor."
+      },
+      {
+        "zh": "医院按照标准收费。",
+        "pinyin": "Yīyuàn ànzhào biāozhǔn shōufèi.",
+        "en": "Hastane standart ücretlendirme yapıyor."
+      },
+      {
+        "zh": "高速公路是收费的。",
+        "pinyin": "Gāosù gōnglù shì shōufèi de.",
+        "en": "Otoyol ücretlidir."
+      },
+      {
+        "zh": "他们对这项服务额外收费。",
+        "pinyin": "Tāmen duì zhè xiàng fúwù éwài shōufèi.",
+        "en": "Bu hizmet için ek ücret alıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w5788",
+    "hanzi": "收割",
+    "pinyin": "shōugē",
+    "meaning": "hasat etmek, biçmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "农民正在收割小麦。",
+        "pinyin": "Nóngmín zhèngzài shōugē xiǎomài.",
+        "en": "Çiftçiler buğday hasadı yapıyor."
+      },
+      {
+        "zh": "秋天是收割庄稼的季节。",
+        "pinyin": "Qiūtiān shì shōugē zhuāngjia de jìjié.",
+        "en": "Sonbahar, ekinlerin hasat edildiği mevsimdir."
+      }
+    ]
+  },
+  {
+    "id": "w5789",
+    "hanzi": "收购",
+    "pinyin": "shōugòu",
+    "meaning": "satın almak (toplu, ticari)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这家公司收购了一家小企业。",
+        "pinyin": "Zhè jiā gōngsī shōugòu le yì jiā xiǎo qǐyè.",
+        "en": "Bu şirket küçük bir işletmeyi satın aldı."
+      },
+      {
+        "zh": "他们收购了大量的农产品。",
+        "pinyin": "Tāmen shōugòu le dàliàng de nóngchǎnpǐn.",
+        "en": "Büyük miktarda tarım ürünü satın aldılar."
+      },
+      {
+        "zh": "这次收购花费了数十亿元。",
+        "pinyin": "Zhè cì shōugòu huāfèi le shùshíyì yuán.",
+        "en": "Bu satın alma milyarlarca yuana mal oldu."
+      },
+      {
+        "zh": "该企业被外国公司收购了。",
+        "pinyin": "Gāi qǐyè bèi wàiguó gōngsī shōugòu le.",
+        "en": "Bu işletme yabancı bir şirket tarafından satın alındı."
+      },
+      {
+        "zh": "他们计划收购这块土地。",
+        "pinyin": "Tāmen jìhuà shōugòu zhè kuài tǔdì.",
+        "en": "Bu araziyi satın almayı planlıyorlar."
+      }
+    ]
+  },
+  {
+    "id": "w5790",
+    "hanzi": "收回",
+    "pinyin": "shōuhuí",
+    "meaning": "geri almak, iptal etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他收回了自己说过的话。",
+        "pinyin": "Tā shōuhuí le zìjǐ shuōguò de huà.",
+        "en": "Kendi söylediği sözü geri aldı."
+      },
+      {
+        "zh": "公司收回了这项决定。",
+        "pinyin": "Gōngsī shōuhuí le zhè xiàng juédìng.",
+        "en": "Şirket bu kararı geri aldı."
+      },
+      {
+        "zh": "国家收回了这块领土。",
+        "pinyin": "Guójiā shōuhuí le zhè kuài lǐngtǔ.",
+        "en": "Ülke bu toprağı geri aldı."
+      },
+      {
+        "zh": "银行收回了贷款。",
+        "pinyin": "Yínháng shōuhuí le dàikuǎn.",
+        "en": "Banka krediyi geri aldı."
+      },
+      {
+        "zh": "他把手收回来了。",
+        "pinyin": "Tā bǎ shǒu shōu huílái le.",
+        "en": "Elini geri çekti."
+      }
+    ]
+  },
+  {
+    "id": "w5791",
+    "hanzi": "收集",
+    "pinyin": "shōují",
+    "meaning": "toplamak, biriktirmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他喜欢收集邮票。",
+        "pinyin": "Tā xǐhuan shōují yóupiào.",
+        "en": "Pul biriktirmeyi sever."
+      },
+      {
+        "zh": "记者收集了很多资料。",
+        "pinyin": "Jìzhě shōují le hěnduō zīliào.",
+        "en": "Gazeteci birçok bilgi topladı."
+      },
+      {
+        "zh": "科学家收集了大量的样本。",
+        "pinyin": "Kēxuéjiā shōují le dàliàng de yàngběn.",
+        "en": "Bilim insanları büyük miktarda örnek topladı."
+      },
+      {
+        "zh": "他花了多年时间收集古董。",
+        "pinyin": "Tā huā le duōnián shíjiān shōují gǔdǒng.",
+        "en": "Antika toplamak için yıllarca zaman harcadı."
+      },
+      {
+        "zh": "我们需要收集更多的证据。",
+        "pinyin": "Wǒmen xūyào shōují gèngduō de zhèngjù.",
+        "en": "Daha fazla kanıt toplamamız gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5792",
+    "hanzi": "收留",
+    "pinyin": "shōuliú",
+    "meaning": "barındırmak, kabul edip bakmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们收留了一只流浪狗。",
+        "pinyin": "Tāmen shōuliú le yì zhī liúlànggǒu.",
+        "en": "Sokak köpeğini yanlarına alıp baktılar."
+      },
+      {
+        "zh": "孤儿院收留了这些孩子。",
+        "pinyin": "Gū'éryuàn shōuliú le zhèxiē háizi.",
+        "en": "Yetimhane bu çocukları barındırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5793",
+    "hanzi": "收买",
+    "pinyin": "shōumǎi",
+    "meaning": "rüşvet vermek; geri satın almak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他试图收买那位官员。",
+        "pinyin": "Tā shìtú shōumǎi nà wèi guānyuán.",
+        "en": "O yetkiliye rüşvet vermeye çalıştı."
+      },
+      {
+        "zh": "他用金钱收买了对方的沉默。",
+        "pinyin": "Tā yòng jīnqián shōumǎi le duìfāng de chénmò.",
+        "en": "Karşı tarafın sessizliğini parayla satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w5794",
+    "hanzi": "收容",
+    "pinyin": "shōuróng",
+    "meaning": "barındırarak yardım etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这家机构收容了很多难民。",
+        "pinyin": "Zhè jiā jīgòu shōuróng le hěnduō nànmín.",
+        "en": "Bu kuruluş birçok mülteciyi barındırdı."
+      },
+      {
+        "zh": "收容所为流浪者提供了住处。",
+        "pinyin": "Shōuróngsuǒ wèi liúlàngzhě tígōng le zhùchù.",
+        "en": "Sığınma evi evsizlere barınak sağladı."
+      }
+    ]
+  },
+  {
+    "id": "w5795",
+    "hanzi": "收缩",
+    "pinyin": "shōusuō",
+    "meaning": "küçülmek, daralmak, yoğunlaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "肌肉在运动时会收缩。",
+        "pinyin": "Jīròu zài yùndòng shí huì shōusuō.",
+        "en": "Kaslar hareket ederken kasılır."
+      },
+      {
+        "zh": "遇冷金属会收缩。",
+        "pinyin": "Yùlěng jīnshǔ huì shōusuō.",
+        "en": "Soğuğa maruz kalan metaller büzüşür."
+      },
+      {
+        "zh": "公司决定收缩业务规模。",
+        "pinyin": "Gōngsī juédìng shōusuō yèwù guīmó.",
+        "en": "Şirket iş ölçeğini küçültmeye karar verdi."
+      },
+      {
+        "zh": "市场需求收缩了。",
+        "pinyin": "Shìchǎng xūqiú shōusuō le.",
+        "en": "Pazar talebi daraldı."
+      },
+      {
+        "zh": "心脏不断地收缩和舒张。",
+        "pinyin": "Xīnzàng búduàn de shōusuō hé shūzhāng.",
+        "en": "Kalp sürekli kasılıp genişliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5796",
+    "hanzi": "收听",
+    "pinyin": "shōutīng",
+    "meaning": "yayın dinlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他每天早上收听新闻广播。",
+        "pinyin": "Tā měitiān zǎoshang shōutīng xīnwén guǎngbō.",
+        "en": "Her sabah haber yayınını dinliyor."
+      },
+      {
+        "zh": "这个电台的收听率很高。",
+        "pinyin": "Zhège diàntái de shōutīnglǜ hěn gāo.",
+        "en": "Bu radyonun dinlenme oranı çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w5797",
+    "hanzi": "收养",
+    "pinyin": "shōuyǎng",
+    "meaning": "evlat edinmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他们收养了一个孤儿。",
+        "pinyin": "Tāmen shōuyǎng le yí ge gū'ér.",
+        "en": "Bir yetimi evlat edindiler."
+      },
+      {
+        "zh": "她被一对好心夫妇收养。",
+        "pinyin": "Tā bèi yíduì hǎoxīn fūfù shōuyǎng.",
+        "en": "İyi kalpli bir çift tarafından evlat edinildi."
+      }
+    ]
+  },
+  {
+    "id": "w5798",
+    "hanzi": "收益",
+    "pinyin": "shōuyì",
+    "meaning": "kâr, kazanç, gelir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这项投资带来了丰厚的收益。",
+        "pinyin": "Zhè xiàng tóuzī dàilái le fēnghòu de shōuyì.",
+        "en": "Bu yatırım bol miktarda kazanç sağladı."
+      },
+      {
+        "zh": "公司的收益逐年增长。",
+        "pinyin": "Gōngsī de shōuyì zhúnián zēngzhǎng.",
+        "en": "Şirketin geliri yıldan yıla artıyor."
+      },
+      {
+        "zh": "这笔生意的收益不高。",
+        "pinyin": "Zhè bǐ shēngyi de shōuyì bùgāo.",
+        "en": "Bu ticaretin kazancı yüksek değil."
+      },
+      {
+        "zh": "他把大部分收益都用来投资。",
+        "pinyin": "Tā bǎ dàbùfen shōuyì dōu yònglái tóuzī.",
+        "en": "Kazancının çoğunu yatırıma harcadı."
+      },
+      {
+        "zh": "农民期待今年有好的收益。",
+        "pinyin": "Nóngmín qīdài jīnnián yǒu hǎo de shōuyì.",
+        "en": "Çiftçiler bu yıl iyi bir kazanç bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5799",
+    "hanzi": "收音机",
+    "pinyin": "shōuyīnjī",
+    "meaning": "radyo",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他每天听收音机。",
+        "pinyin": "Tā měitiān tīng shōuyīnjī.",
+        "en": "Her gün radyo dinliyor."
+      },
+      {
+        "zh": "这台收音机是老式的。",
+        "pinyin": "Zhè tái shōuyīnjī shì lǎoshì de.",
+        "en": "Bu radyo eski model."
+      },
+      {
+        "zh": "他打开收音机听天气预报。",
+        "pinyin": "Tā dǎkāi shōuyīnjī tīng tiānqì yùbào.",
+        "en": "Radyoyu açıp hava durumunu dinledi."
+      },
+      {
+        "zh": "车里的收音机坏了。",
+        "pinyin": "Chē lǐ de shōuyīnjī huài le.",
+        "en": "Arabadaki radyo bozuldu."
+      },
+      {
+        "zh": "他在收音机里听到了这首歌。",
+        "pinyin": "Tā zài shōuyīnjī lǐ tīngdào le zhè shǒu gē.",
+        "en": "Bu şarkıyı radyoda duydu."
+      }
+    ]
+  },
+  {
+    "id": "w5800",
+    "hanzi": "首",
+    "pinyin": "shǒu",
+    "meaning": "baş, lider; (şarkı/şiir için sayı sözcüğü)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是这个组织的首领。",
+        "pinyin": "Tā shì zhège zǔzhī de shǒulǐng.",
+        "en": "O bu örgütün lideri."
+      },
+      {
+        "zh": "她唱了一首好听的歌。",
+        "pinyin": "Tā chàng le yì shǒu hǎotīng de gē.",
+        "en": "Güzel bir şarkı söyledi."
+      },
+      {
+        "zh": "这本诗集收录了一百首诗。",
+        "pinyin": "Zhè běn shījí shōulù le yìbǎi shǒu shī.",
+        "en": "Bu şiir kitabında yüz şiir bulunuyor."
+      },
+      {
+        "zh": "他是这次事件的首要责任人。",
+        "pinyin": "Tā shì zhè cì shìjiàn de shǒuyào zérènrén.",
+        "en": "Bu olayın baş sorumlusudur."
+      },
+      {
+        "zh": "国家首脑出席了这次会议。",
+        "pinyin": "Guójiā shǒunǎo chūxí le zhè cì huìyì.",
+        "en": "Devlet başkanları bu toplantıya katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5801",
+    "hanzi": "首次",
+    "pinyin": "shǒucì",
+    "meaning": "ilk defa, ilk sefer",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这是他首次来中国。",
+        "pinyin": "Zhè shì tā shǒucì lái Zhōngguó.",
+        "en": "Bu onun ilk kez Çin'e gelişi."
+      },
+      {
+        "zh": "这项技术首次被应用于医学领域。",
+        "pinyin": "Zhè xiàng jìshù shǒucì bèi yìngyòng yú yīxué lǐngyù.",
+        "en": "Bu teknoloji ilk kez tıp alanında uygulandı."
+      },
+      {
+        "zh": "他首次尝试了滑雪运动。",
+        "pinyin": "Tā shǒucì chángshì le huáxuě yùndòng.",
+        "en": "Kayak sporunu ilk kez denedi."
+      },
+      {
+        "zh": "这部电影首次公映引起了轰动。",
+        "pinyin": "Zhè bù diànyǐng shǒucì gōngyìng yǐnqǐ le hōngdòng.",
+        "en": "Bu filmin ilk gösterimi büyük yankı uyandırdı."
+      },
+      {
+        "zh": "首次见面时她给我留下了深刻印象。",
+        "pinyin": "Shǒucì jiànmiàn shí tā gěi wǒ liúxià le shēnkè yìnxiàng.",
+        "en": "İlk tanıştığımızda bende derin bir izlenim bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w5802",
+    "hanzi": "首领",
+    "pinyin": "shǒulǐng",
+    "meaning": "lider, baş, önder",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他是部落的首领。",
+        "pinyin": "Tā shì bùluò de shǒulǐng.",
+        "en": "Kabilenin önderi o."
+      },
+      {
+        "zh": "警方逮捕了犯罪团伙的首领。",
+        "pinyin": "Jǐngfāng dàibǔ le fànzuì tuánhuǒ de shǒulǐng.",
+        "en": "Polis suç örgütünün liderini tutukladı."
+      }
+    ]
+  },
+  {
+    "id": "w5803",
+    "hanzi": "首饰",
+    "pinyin": "shǒushì",
+    "meaning": "mücevherat, takı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她戴着漂亮的首饰。",
+        "pinyin": "Tā dàizhe piàoliang de shǒushì.",
+        "en": "Güzel takılar takıyor."
+      },
+      {
+        "zh": "这家店专卖金银首饰。",
+        "pinyin": "Zhè jiā diàn zhuānmài jīnyín shǒushì.",
+        "en": "Bu mağaza altın gümüş takı satmaktadır."
+      },
+      {
+        "zh": "他送了她一件珍贵的首饰。",
+        "pinyin": "Tā sòng le tā yí jiàn zhēnguì de shǒushì.",
+        "en": "Ona değerli bir takı hediye etti."
+      },
+      {
+        "zh": "首饰盒里放着许多戒指。",
+        "pinyin": "Shǒushìhé lǐ fàngzhe hěnduō jièzhi.",
+        "en": "Takı kutusunda birçok yüzük var."
+      },
+      {
+        "zh": "她喜欢收藏各种首饰。",
+        "pinyin": "Tā xǐhuan shōucáng gèzhǒng shǒushì.",
+        "en": "Çeşitli takılar toplamayı seviyor."
+      }
+    ]
+  },
+  {
+    "id": "w5804",
+    "hanzi": "首要",
+    "pinyin": "shǒuyào",
+    "meaning": "en öncelikli, ilk sırada gelen",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "安全是我们首要考虑的问题。",
+        "pinyin": "Ānquán shì wǒmen shǒuyào kǎolǜ de wèntí.",
+        "en": "Güvenlik bizim en öncelikli düşündüğümüz konu."
+      },
+      {
+        "zh": "解决就业问题是首要任务。",
+        "pinyin": "Jiějué jiùyè wèntí shì shǒuyào rènwu.",
+        "en": "İstihdam sorununu çözmek en öncelikli görevdir."
+      }
+    ]
+  },
+  {
+    "id": "w5805",
+    "hanzi": "首相",
+    "pinyin": "shǒuxiàng",
+    "meaning": "başbakan",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "首相发表了重要讲话。",
+        "pinyin": "Shǒuxiàng fābiǎo le zhòngyào jiǎnghuà.",
+        "en": "Başbakan önemli bir konuşma yaptı."
+      },
+      {
+        "zh": "他被任命为新一届首相。",
+        "pinyin": "Tā bèi rènmìng wéi xīn yí jiè shǒuxiàng.",
+        "en": "Yeni dönem başbakanı olarak atandı."
+      }
+    ]
+  },
+  {
+    "id": "w5806",
+    "hanzi": "守",
+    "pinyin": "shǒu",
+    "meaning": "beklemek, korumak, nöbet tutmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "士兵们守着大门。",
+        "pinyin": "Shìbīngmen shǒuzhe dàmén.",
+        "en": "Askerler kapıyı bekliyor."
+      },
+      {
+        "zh": "他一直守在病床边。",
+        "pinyin": "Tā yìzhí shǒu zài bìngchuáng biān.",
+        "en": "Sürekli hasta yatağının başında bekliyor."
+      },
+      {
+        "zh": "我们应该守规矩。",
+        "pinyin": "Wǒmen yīnggāi shǒu guīju.",
+        "en": "Kurallara uymalıyız."
+      },
+      {
+        "zh": "他守着这份工作二十年了。",
+        "pinyin": "Tā shǒuzhe zhè fèn gōngzuò èrshí nián le.",
+        "en": "Bu işte yirmi yıldır sebat ediyor."
+      },
+      {
+        "zh": "母亲守着孩子入睡。",
+        "pinyin": "Mǔqīn shǒuzhe háizi rùshuì.",
+        "en": "Anne çocuğunun uyumasını izleyip bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5807",
+    "hanzi": "守法",
+    "pinyin": "shǒufǎ",
+    "meaning": "yasalara uymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "每个公民都应该守法。",
+        "pinyin": "Měige gōngmín dōu yīnggāi shǒufǎ.",
+        "en": "Her vatandaş yasalara uymalıdır."
+      },
+      {
+        "zh": "他是一个守法的商人。",
+        "pinyin": "Tā shì yí ge shǒufǎ de shāngrén.",
+        "en": "O yasalara uyan bir tüccardır."
+      }
+    ]
+  },
+  {
+    "id": "w5808",
+    "hanzi": "守候",
+    "pinyin": "shǒuhòu",
+    "meaning": "beklemek, gözlemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在门口守候多时。",
+        "pinyin": "Tā zài ménkǒu shǒuhòu duōshí.",
+        "en": "Kapının önünde uzun süre bekledi."
+      },
+      {
+        "zh": "记者守候在医院门口等消息。",
+        "pinyin": "Jìzhě shǒuhòu zài yīyuàn ménkǒu děng xiāoxi.",
+        "en": "Gazeteci hastanenin kapısında haber beklemek için bekliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5809",
+    "hanzi": "手册",
+    "pinyin": "shǒucè",
+    "meaning": "el kitabı, kılavuz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "请仔细阅读使用手册。",
+        "pinyin": "Qǐng zǐxì yuèdú shǐyòng shǒucè.",
+        "en": "Lütfen kullanım kılavuzunu dikkatlice okuyun."
+      },
+      {
+        "zh": "这本手册介绍了操作步骤。",
+        "pinyin": "Zhè běn shǒucè jièshào le cāozuò bùzhòu.",
+        "en": "Bu kılavuz işlem adımlarını tanıtıyor."
+      },
+      {
+        "zh": "员工手册规定了公司的规章制度。",
+        "pinyin": "Yuángōng shǒucè guīdìng le gōngsī de guīzhāng zhìdù.",
+        "en": "Çalışan kılavuzu şirketin kurallarını belirliyor."
+      },
+      {
+        "zh": "学生每人发一本学习手册。",
+        "pinyin": "Xuésheng měirén fā yì běn xuéxí shǒucè.",
+        "en": "Her öğrenciye bir çalışma kılavuzu verildi."
+      },
+      {
+        "zh": "旅游手册提供了详细的路线介绍。",
+        "pinyin": "Lǚyóu shǒucè tígōng le xiángxì de lùxiàn jièshào.",
+        "en": "Gezi kılavuzu ayrıntılı rota tanıtımı sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5810",
+    "hanzi": "手段",
+    "pinyin": "shǒuduàn",
+    "meaning": "yöntem, araç, çare",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他不择手段地达到了目的。",
+        "pinyin": "Tā bùzé shǒuduàn de dádào le mùdì.",
+        "en": "Amacına ulaşmak için hiçbir yöntemden kaçınmadı."
+      },
+      {
+        "zh": "这是解决问题的有效手段。",
+        "pinyin": "Zhè shì jiějué wèntí de yǒuxiào shǒuduàn.",
+        "en": "Bu, sorunu çözmenin etkili bir yoludur."
+      },
+      {
+        "zh": "他采取了非法手段获取信息。",
+        "pinyin": "Tā cǎiqǔ le fēifǎ shǒuduàn huòqǔ xìnxī.",
+        "en": "Bilgi elde etmek için yasadışı yöntemler kullandı."
+      },
+      {
+        "zh": "谈判是解决争端的重要手段。",
+        "pinyin": "Tánpàn shì jiějué zhēngduān de zhòngyào shǒuduàn.",
+        "en": "Müzakere, anlaşmazlıkları çözmenin önemli bir yoludur."
+      },
+      {
+        "zh": "科技手段提高了生产效率。",
+        "pinyin": "Kējì shǒuduàn tígāo le shēngchǎn xiàolǜ.",
+        "en": "Teknolojik araçlar üretim verimliliğini artırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5811",
+    "hanzi": "手工艺",
+    "pinyin": "shǒugōngyì",
+    "meaning": "el sanatı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这是传统的手工艺品。",
+        "pinyin": "Zhè shì chuántǒng de shǒugōngyìpǐn.",
+        "en": "Bu geleneksel bir el sanatı ürünüdür."
+      },
+      {
+        "zh": "他致力于保护传统手工艺。",
+        "pinyin": "Tā zhìlì yú bǎohù chuántǒng shǒugōngyì.",
+        "en": "Geleneksel el sanatlarını korumaya kendini adamış."
+      }
+    ]
+  },
+  {
+    "id": "w5812",
+    "hanzi": "手势",
+    "pinyin": "shǒushì",
+    "meaning": "el hareketi, işaret",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他用手势示意我过去。",
+        "pinyin": "Tā yòng shǒushì shìyì wǒ guòqù.",
+        "en": "El işaretiyle bana gitmemi işaret etti."
+      },
+      {
+        "zh": "她做了一个胜利的手势。",
+        "pinyin": "Tā zuò le yí ge shènglì de shǒushì.",
+        "en": "Zafer işareti yaptı."
+      },
+      {
+        "zh": "警察用手势指挥交通。",
+        "pinyin": "Jǐngchá yòng shǒushì zhǐhuī jiāotōng.",
+        "en": "Polis el hareketleriyle trafiği yönetiyor."
+      },
+      {
+        "zh": "他的手势非常夸张。",
+        "pinyin": "Tā de shǒushì fēicháng kuāzhāng.",
+        "en": "El hareketleri çok abartılı."
+      },
+      {
+        "zh": "听不懂时，我们只能用手势交流。",
+        "pinyin": "Tīngbudǒng shí, wǒmen zhǐnéng yòng shǒushì jiāoliú.",
+        "en": "Anlamadığımızda sadece el işaretleriyle iletişim kurabiliyoruz."
+      }
+    ]
   }
 ]

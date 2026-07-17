@@ -237982,5 +237982,836 @@
         "en": "O şirketin adını kullanarak müşterileri kandırdı."
       }
     ]
+  },
+  {
+    "id": "w7185",
+    "hanzi": "这边",
+    "pinyin": "zhèbiān",
+    "meaning": "bu taraf",
+    "partOfSpeech": "zamir",
+    "level": 2,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "请到这边来。",
+        "pinyin": "Qǐng dào zhèbiān lái.",
+        "en": "Lütfen bu tarafa gel."
+      },
+      {
+        "zh": "这边风景很美。",
+        "pinyin": "Zhèbiān fēngjǐng hěn měi.",
+        "en": "Bu tarafın manzarası çok güzel."
+      },
+      {
+        "zh": "他坐在这边。",
+        "pinyin": "Tā zuò zài zhèbiān.",
+        "en": "O bu tarafta oturuyor."
+      },
+      {
+        "zh": "这边的天气比那边暖和。",
+        "pinyin": "Zhèbiān de tiānqì bǐ nàbiān nuǎnhuo.",
+        "en": "Bu tarafın havası orasından daha sıcak."
+      },
+      {
+        "zh": "把东西放这边吧。",
+        "pinyin": "Bǎ dōngxi fàng zhèbiān ba.",
+        "en": "Eşyaları bu tarafa koy."
+      }
+    ]
+  },
+  {
+    "id": "w7186",
+    "hanzi": "这次",
+    "pinyin": "zhècì",
+    "meaning": "bu sefer, bu kez",
+    "partOfSpeech": "zamir",
+    "level": 2,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "这次考试很难。",
+        "pinyin": "Zhècì kǎoshì hěn nán.",
+        "en": "Bu seferki sınav çok zordu."
+      },
+      {
+        "zh": "这次旅行让我很开心。",
+        "pinyin": "Zhècì lǚxíng ràng wǒ hěn kāixīn.",
+        "en": "Bu seferki seyahat beni çok mutlu etti."
+      },
+      {
+        "zh": "这次我们一定要成功。",
+        "pinyin": "Zhècì wǒmen yīdìng yào chénggōng.",
+        "en": "Bu sefer kesinlikle başarılı olmalıyız."
+      },
+      {
+        "zh": "这次会议讨论了重要问题。",
+        "pinyin": "Zhècì huìyì tǎolùnle zhòngyào wèntí.",
+        "en": "Bu seferki toplantıda önemli konular tartışıldı."
+      },
+      {
+        "zh": "这次比赛他获得了第一名。",
+        "pinyin": "Zhècì bǐsài tā huòdéle dì yī míng.",
+        "en": "Bu seferki yarışmada birinci oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7187",
+    "hanzi": "这个",
+    "pinyin": "zhège",
+    "meaning": "bu",
+    "partOfSpeech": "zamir",
+    "level": 1,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "这个多少钱?",
+        "pinyin": "Zhège duōshao qián?",
+        "en": "Bu ne kadar?"
+      },
+      {
+        "zh": "我喜欢这个颜色。",
+        "pinyin": "Wǒ xǐhuān zhège yánsè.",
+        "en": "Bu rengi seviyorum."
+      },
+      {
+        "zh": "这个问题很重要。",
+        "pinyin": "Zhège wèntí hěn zhòngyào.",
+        "en": "Bu sorun çok önemli."
+      },
+      {
+        "zh": "这个是我的书。",
+        "pinyin": "Zhège shì wǒ de shū.",
+        "en": "Bu benim kitabım."
+      },
+      {
+        "zh": "请把这个给我。",
+        "pinyin": "Qǐng bǎ zhège gěi wǒ.",
+        "en": "Lütfen bunu bana ver."
+      }
+    ]
+  },
+  {
+    "id": "w7188",
+    "hanzi": "这里",
+    "pinyin": "zhèlǐ",
+    "meaning": "burada, burası",
+    "partOfSpeech": "zamir",
+    "level": 1,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "这里是我的家。",
+        "pinyin": "Zhèlǐ shì wǒ de jiā.",
+        "en": "Burası benim evim."
+      },
+      {
+        "zh": "请在这里等我。",
+        "pinyin": "Qǐng zài zhèlǐ děng wǒ.",
+        "en": "Lütfen burada beni bekle."
+      },
+      {
+        "zh": "这里的风景很美。",
+        "pinyin": "Zhèlǐ de fēngjǐng hěn měi.",
+        "en": "Buranın manzarası çok güzel."
+      },
+      {
+        "zh": "我从这里来。",
+        "pinyin": "Wǒ cóng zhèlǐ lái.",
+        "en": "Ben buradan geldim."
+      },
+      {
+        "zh": "这里禁止吸烟。",
+        "pinyin": "Zhèlǐ jìnzhǐ xīyān.",
+        "en": "Burada sigara içmek yasaktır."
+      }
+    ]
+  },
+  {
+    "id": "w7189",
+    "hanzi": "这么",
+    "pinyin": "zhème",
+    "meaning": "böyle, bu kadar",
+    "partOfSpeech": "zamir",
+    "level": 2,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "你怎么这么晚才来?",
+        "pinyin": "Nǐ zěnme zhème wǎn cái lái?",
+        "en": "Neden bu kadar geç geldin?"
+      },
+      {
+        "zh": "他这么说是有道理的。",
+        "pinyin": "Tā zhème shuō shì yǒu dàolǐ de.",
+        "en": "Onun böyle söylemesi mantıklı."
+      },
+      {
+        "zh": "别这么想。",
+        "pinyin": "Bié zhème xiǎng.",
+        "en": "Böyle düşünme."
+      },
+      {
+        "zh": "这个西瓜这么大。",
+        "pinyin": "Zhège xīguā zhème dà.",
+        "en": "Bu karpuz bu kadar büyük."
+      },
+      {
+        "zh": "事情不应该这么处理。",
+        "pinyin": "Shìqing bù yīnggāi zhème chǔlǐ.",
+        "en": "Bu iş böyle ele alınmamalı."
+      }
+    ]
+  },
+  {
+    "id": "w7190",
+    "hanzi": "这儿",
+    "pinyin": "zhèr",
+    "meaning": "burası",
+    "partOfSpeech": "zamir",
+    "level": 2,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "我们在这儿等你。",
+        "pinyin": "Wǒmen zài zhèr děng nǐ.",
+        "en": "Biz burada seni bekliyoruz."
+      },
+      {
+        "zh": "这儿有一家好吃的餐厅。",
+        "pinyin": "Zhèr yǒu yī jiā hǎochī de cāntīng.",
+        "en": "Burada güzel bir restoran var."
+      },
+      {
+        "zh": "他从这儿走了。",
+        "pinyin": "Tā cóng zhèr zǒu le.",
+        "en": "O buradan gitti."
+      },
+      {
+        "zh": "这儿的空气很新鲜。",
+        "pinyin": "Zhèr de kōngqì hěn xīnxiān.",
+        "en": "Buranın havası çok temiz."
+      },
+      {
+        "zh": "你来这儿多久了?",
+        "pinyin": "Nǐ lái zhèr duō jiǔ le?",
+        "en": "Ne zamandır buradasın?"
+      }
+    ]
+  },
+  {
+    "id": "w7191",
+    "hanzi": "这些",
+    "pinyin": "zhèxiē",
+    "meaning": "bunlar",
+    "partOfSpeech": "zamir",
+    "level": 1,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "这些是我的书。",
+        "pinyin": "Zhèxiē shì wǒ de shū.",
+        "en": "Bunlar benim kitaplarım."
+      },
+      {
+        "zh": "这些天他很忙。",
+        "pinyin": "Zhèxiē tiān tā hěn máng.",
+        "en": "Bu günlerde o çok meşgul."
+      },
+      {
+        "zh": "请把这些东西收拾好。",
+        "pinyin": "Qǐng bǎ zhèxiē dōngxi shōushi hǎo.",
+        "en": "Lütfen bu eşyaları düzenle."
+      },
+      {
+        "zh": "这些问题需要仔细考虑。",
+        "pinyin": "Zhèxiē wèntí xūyào zǐxì kǎolǜ.",
+        "en": "Bu sorunların dikkatlice düşünülmesi gerekiyor."
+      },
+      {
+        "zh": "这些照片都很漂亮。",
+        "pinyin": "Zhèxiē zhàopiàn dōu hěn piàoliang.",
+        "en": "Bu fotoğrafların hepsi çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w7192",
+    "hanzi": "这样",
+    "pinyin": "zhèyàng",
+    "meaning": "böyle, bu şekilde",
+    "partOfSpeech": "zamir",
+    "level": 2,
+    "category": "Zamirler",
+    "examples": [
+      {
+        "zh": "事情不是这样的。",
+        "pinyin": "Shìqing bùshì zhèyàng de.",
+        "en": "Olay böyle değil."
+      },
+      {
+        "zh": "请这样做。",
+        "pinyin": "Qǐng zhèyàng zuò.",
+        "en": "Lütfen böyle yap."
+      },
+      {
+        "zh": "他一直这样对我很好。",
+        "pinyin": "Tā yīzhí zhèyàng duì wǒ hěn hǎo.",
+        "en": "O hep bana böyle iyi davrandı."
+      },
+      {
+        "zh": "这样的天气不适合出门。",
+        "pinyin": "Zhèyàng de tiānqì bù shìhé chūmén.",
+        "en": "Bu tür bir hava dışarı çıkmak için uygun değil."
+      },
+      {
+        "zh": "为什么会这样呢?",
+        "pinyin": "Wèishénme huì zhèyàng ne?",
+        "en": "Neden böyle oldu ki?"
+      }
+    ]
+  },
+  {
+    "id": "w7193",
+    "hanzi": "照",
+    "pinyin": "zhào",
+    "meaning": "aydınlatmak; fotoğraf çekmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "阳光照进了房间。",
+        "pinyin": "Yángguāng zhào jìnle fángjiān.",
+        "en": "Güneş ışığı odaya girdi."
+      },
+      {
+        "zh": "他给我照了一张相。",
+        "pinyin": "Tā gěi wǒ zhàole yī zhāng xiàng.",
+        "en": "O bana bir fotoğraf çekti."
+      },
+      {
+        "zh": "请照顾好自己。",
+        "pinyin": "Qǐng zhàogù hǎo zìjǐ.",
+        "en": "Lütfen kendine iyi bak."
+      },
+      {
+        "zh": "他照镜子整理头发。",
+        "pinyin": "Tā zhào jìngzi zhěnglǐ tóufa.",
+        "en": "O aynaya bakarak saçını düzenledi."
+      },
+      {
+        "zh": "请照我说的做。",
+        "pinyin": "Qǐng zhào wǒ shuō de zuò.",
+        "en": "Lütfen dediğim gibi yap."
+      }
+    ]
+  },
+  {
+    "id": "w7194",
+    "hanzi": "照旧",
+    "pinyin": "zhàojiù",
+    "meaning": "eskisi gibi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "生活照旧,没有什么变化。",
+        "pinyin": "Shēnghuó zhàojiù, méiyǒu shénme biànhuà.",
+        "en": "Hayat eskisi gibi, hiçbir değişiklik yok."
+      },
+      {
+        "zh": "会议时间照旧不变。",
+        "pinyin": "Huìyì shíjiān zhàojiù bùbiàn.",
+        "en": "Toplantı saati eskisi gibi değişmedi."
+      }
+    ]
+  },
+  {
+    "id": "w7195",
+    "hanzi": "照看",
+    "pinyin": "zhàokàn",
+    "meaning": "göz kulak olmak, bakmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "奶奶在照看孙子。",
+        "pinyin": "Nǎinai zài zhàokàn sūnzi.",
+        "en": "Büyükanne torununa bakıyor."
+      },
+      {
+        "zh": "请帮我照看一下行李。",
+        "pinyin": "Qǐng bāng wǒ zhàokàn yīxià xíngli.",
+        "en": "Lütfen bagajıma göz kulak ol."
+      },
+      {
+        "zh": "他负责照看这些植物。",
+        "pinyin": "Tā fùzé zhàokàn zhèxiē zhíwù.",
+        "en": "O bu bitkilere bakmaktan sorumlu."
+      },
+      {
+        "zh": "邻居帮忙照看我家的猫。",
+        "pinyin": "Línjū bāngmáng zhàokàn wǒ jiā de māo.",
+        "en": "Komşu evimin kedisine bakmaya yardım ediyor."
+      },
+      {
+        "zh": "她一个人照看三个孩子。",
+        "pinyin": "Tā yī gè rén zhàokàn sān gè háizi.",
+        "en": "O tek başına üç çocuğa bakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7196",
+    "hanzi": "照例",
+    "pinyin": "zhàolì",
+    "meaning": "her zamanki gibi, genellikle",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他照例六点起床。",
+        "pinyin": "Tā zhàolì liù diǎn qǐchuáng.",
+        "en": "O her zamanki gibi altıda kalkar."
+      },
+      {
+        "zh": "会议结束后照例进行了讨论。",
+        "pinyin": "Huìyì jiéshù hòu zhàolì jìnxíngle tǎolùn.",
+        "en": "Toplantı bittikten sonra her zamanki gibi tartışma yapıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7197",
+    "hanzi": "照料",
+    "pinyin": "zhàoliào",
+    "meaning": "bakmak, ilgilenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她悉心照料生病的丈夫。",
+        "pinyin": "Tā xīxīn zhàoliào shēngbìng de zhàngfu.",
+        "en": "O hasta kocasına özenle bakıyor."
+      },
+      {
+        "zh": "护士照料着病人。",
+        "pinyin": "Hùshi zhàoliàozhe bìngrén.",
+        "en": "Hemşire hastaya bakıyor."
+      },
+      {
+        "zh": "他一直照料着年迈的父母。",
+        "pinyin": "Tā yīzhí zhàoliàozhe niánmài de fùmǔ.",
+        "en": "O hep yaşlı ebeveynlerine bakıyor."
+      },
+      {
+        "zh": "农场需要人照料牲畜。",
+        "pinyin": "Nóngchǎng xūyào rén zhàoliào shēngchù.",
+        "en": "Çiftlikte hayvanlara bakacak birine ihtiyaç var."
+      },
+      {
+        "zh": "她细心地照料着花园。",
+        "pinyin": "Tā xìxīn de zhàoliàozhe huāyuán.",
+        "en": "O bahçeye özenle bakıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7198",
+    "hanzi": "照明",
+    "pinyin": "zhàomíng",
+    "meaning": "aydınlatma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个房间的照明不够亮。",
+        "pinyin": "Zhège fángjiān de zhàomíng bùgòu liàng.",
+        "en": "Bu odanın aydınlatması yeterince parlak değil."
+      },
+      {
+        "zh": "路灯提供了夜间照明。",
+        "pinyin": "Lùdēng tígōngle yèjiān zhàomíng.",
+        "en": "Sokak lambaları gece aydınlatması sağladı."
+      },
+      {
+        "zh": "这座舞台的照明效果很好。",
+        "pinyin": "Zhè zuò wǔtái de zhàomíng xiàoguǒ hěn hǎo.",
+        "en": "Bu sahnenin aydınlatma efekti çok iyi."
+      },
+      {
+        "zh": "他们安装了新的照明设备。",
+        "pinyin": "Tāmen ānzhuāngle xīn de zhàomíng shèbèi.",
+        "en": "Onlar yeni aydınlatma ekipmanı kurdu."
+      },
+      {
+        "zh": "工地照明需要保证工人安全。",
+        "pinyin": "Gōngdì zhàomíng xūyào bǎozhèng gōngrén ānquán.",
+        "en": "İnşaat sahası aydınlatması işçi güvenliğini sağlamalı."
+      }
+    ]
+  },
+  {
+    "id": "w7199",
+    "hanzi": "照相",
+    "pinyin": "zhàoxiàng",
+    "meaning": "fotoğraf çekmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "我们在公园照相。",
+        "pinyin": "Wǒmen zài gōngyuán zhàoxiàng.",
+        "en": "Biz parkta fotoğraf çekiyoruz."
+      },
+      {
+        "zh": "他喜欢给孩子照相。",
+        "pinyin": "Tā xǐhuān gěi háizi zhàoxiàng.",
+        "en": "O çocuğunun fotoğrafını çekmeyi sever."
+      },
+      {
+        "zh": "请大家站好,准备照相。",
+        "pinyin": "Qǐng dàjiā zhàn hǎo, zhǔnbèi zhàoxiàng.",
+        "en": "Herkes düzgün dursun, fotoğraf çekmeye hazırlanalım."
+      },
+      {
+        "zh": "他们在婚礼上拍了很多照相。",
+        "pinyin": "Tāmen zài hūnlǐ shàng pāile hěn duō zhàoxiàng.",
+        "en": "Onlar düğünde birçok fotoğraf çekti."
+      },
+      {
+        "zh": "旅游时他喜欢到处照相。",
+        "pinyin": "Lǚyóu shí tā xǐhuān dàochù zhàoxiàng.",
+        "en": "Seyahat ederken her yerde fotoğraf çekmeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w7200",
+    "hanzi": "照样",
+    "pinyin": "zhàoyàng",
+    "meaning": "eskisi gibi, aynı şekilde",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "尽管很累,他照样坚持工作。",
+        "pinyin": "Jǐnguǎn hěn lèi, tā zhàoyàng jiānchí gōngzuò.",
+        "en": "Çok yorgun olmasına rağmen aynı şekilde çalışmaya devam etti."
+      },
+      {
+        "zh": "他照样早起晚睡。",
+        "pinyin": "Tā zhàoyàng zǎo qǐ wǎn shuì.",
+        "en": "O eskisi gibi erken kalkıp geç yatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7201",
+    "hanzi": "照耀",
+    "pinyin": "zhàoyào",
+    "meaning": "aydınlatmak, parıldamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "阳光照耀着大地。",
+        "pinyin": "Yángguāng zhàoyàozhe dàdì.",
+        "en": "Güneş ışığı toprağı aydınlatıyor."
+      },
+      {
+        "zh": "星星照耀着夜空。",
+        "pinyin": "Xīngxing zhàoyàozhe yèkōng.",
+        "en": "Yıldızlar gece gökyüzünü aydınlatıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7202",
+    "hanzi": "折",
+    "pinyin": "zhé",
+    "meaning": "kırmak, katlamak, bükmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他折断了一根树枝。",
+        "pinyin": "Tā zhéduànle yī gēn shùzhī.",
+        "en": "O bir dalı kırdı."
+      },
+      {
+        "zh": "她把信折成了三折。",
+        "pinyin": "Tā bǎ xìn zhéchéngle sān zhé.",
+        "en": "O mektubu üçe katladı."
+      },
+      {
+        "zh": "这件商品打了七折。",
+        "pinyin": "Zhè jiàn shāngpǐn dǎle qī zhé.",
+        "en": "Bu ürüne yüzde otuz indirim yapıldı."
+      },
+      {
+        "zh": "他把纸折成了纸鹤。",
+        "pinyin": "Tā bǎ zhǐ zhéchéngle zhǐhè.",
+        "en": "O kağıdı origami turnasına dönüştürdü."
+      },
+      {
+        "zh": "这个计划半路夭折了。",
+        "pinyin": "Zhège jìhuà bànlù yāozhé le.",
+        "en": "Bu plan yarı yolda başarısız oldu."
+      }
+    ]
+  },
+  {
+    "id": "w7203",
+    "hanzi": "折叠",
+    "pinyin": "zhédié",
+    "meaning": "katlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请把衣服折叠好。",
+        "pinyin": "Qǐng bǎ yīfu zhédié hǎo.",
+        "en": "Lütfen kıyafeti düzgünce katla."
+      },
+      {
+        "zh": "这张桌子可以折叠收起来。",
+        "pinyin": "Zhè zhāng zhuōzi kěyǐ zhédié shōu qǐlai.",
+        "en": "Bu masa katlanıp toplanabilir."
+      },
+      {
+        "zh": "他把地图折叠放进了口袋。",
+        "pinyin": "Tā bǎ dìtú zhédié fàng jìnle kǒudai.",
+        "en": "O haritayı katlayıp cebine koydu."
+      },
+      {
+        "zh": "折叠自行车很方便携带。",
+        "pinyin": "Zhédié zìxíngchē hěn fāngbiàn xiédài.",
+        "en": "Katlanabilir bisiklet taşınması çok kolay."
+      },
+      {
+        "zh": "她把毛巾整齐地折叠起来。",
+        "pinyin": "Tā bǎ máojīn zhěngqí de zhédié qǐlai.",
+        "en": "O havluyu düzgün bir şekilde katladı."
+      }
+    ]
+  },
+  {
+    "id": "w7204",
+    "hanzi": "折扣",
+    "pinyin": "zhékòu",
+    "meaning": "indirim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这件衣服打了折扣。",
+        "pinyin": "Zhè jiàn yīfu dǎle zhékòu.",
+        "en": "Bu kıyafete indirim yapıldı."
+      },
+      {
+        "zh": "会员可以享受额外折扣。",
+        "pinyin": "Huìyuán kěyǐ xiǎngshòu éwài zhékòu.",
+        "en": "Üyeler ek indirim alabilir."
+      },
+      {
+        "zh": "这次促销折扣力度很大。",
+        "pinyin": "Zhè cì cùxiāo zhékòu lìdù hěn dà.",
+        "en": "Bu seferki kampanyanın indirim oranı çok yüksek."
+      },
+      {
+        "zh": "他没有打折扣地完成了任务。",
+        "pinyin": "Tā méiyǒu dǎ zhékòu de wánchéngle rènwu.",
+        "en": "O görevi hiç eksiksiz tamamladı."
+      },
+      {
+        "zh": "商店提供百分之二十的折扣。",
+        "pinyin": "Shāngdiàn tígōng bǎi fēn zhī èrshí de zhékòu.",
+        "en": "Mağaza yüzde yirmi indirim sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w7205",
+    "hanzi": "折磨",
+    "pinyin": "zhémó",
+    "meaning": "işkence etmek, acı çektirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "疾病折磨了他很多年。",
+        "pinyin": "Jíbìng zhémóle tā hěn duō nián.",
+        "en": "Hastalık onu yıllarca kıvrandırdı."
+      },
+      {
+        "zh": "失眠一直折磨着她。",
+        "pinyin": "Shīmián yīzhí zhémózhe tā.",
+        "en": "Uykusuzluk onu sürekli işkence gibi rahatsız ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w7206",
+    "hanzi": "沼泽",
+    "pinyin": "zhǎozé",
+    "meaning": "bataklık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他不小心陷入了沼泽。",
+        "pinyin": "Tā bù xiǎoxīn xiànrùle zhǎozé.",
+        "en": "O yanlışlıkla bataklığa saplandı."
+      },
+      {
+        "zh": "这片沼泽地生态系统很独特。",
+        "pinyin": "Zhè piàn zhǎozédì shēngtài xìtǒng hěn dútè.",
+        "en": "Bu bataklık arazisinin ekosistemi çok özgün."
+      },
+      {
+        "zh": "沼泽里生活着各种野生动物。",
+        "pinyin": "Zhǎozé lǐ shēnghuózhe gèzhǒng yěshēng dòngwù.",
+        "en": "Bataklıkta çeşitli vahşi hayvanlar yaşar."
+      },
+      {
+        "zh": "他们穿越了危险的沼泽地带。",
+        "pinyin": "Tāmen chuānyuèle wēixiǎn de zhǎozé dìdài.",
+        "en": "Onlar tehlikeli bataklık bölgesini geçtiler."
+      },
+      {
+        "zh": "沼泽的水质十分浑浊。",
+        "pinyin": "Zhǎozé de shuǐzhì shífēn húnzhuó.",
+        "en": "Bataklığın su kalitesi son derece bulanık."
+      }
+    ]
+  },
+  {
+    "id": "w7207",
+    "hanzi": "召集",
+    "pinyin": "zhàojí",
+    "meaning": "toplantıya çağırmak, bir araya getirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "老板召集了全体员工开会。",
+        "pinyin": "Lǎobǎn zhàojíle quántǐ yuángōng kāihuì.",
+        "en": "Patron tüm çalışanları toplantıya çağırdı."
+      },
+      {
+        "zh": "他召集了所有委员进行讨论。",
+        "pinyin": "Tā zhàojíle suǒyǒu wěiyuán jìnxíng tǎolùn.",
+        "en": "O tüm komite üyelerini tartışma için bir araya topladı."
+      }
+    ]
+  },
+  {
+    "id": "w7208",
+    "hanzi": "找寻",
+    "pinyin": "zhǎoxún",
+    "meaning": "aramak, bulmaya çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他一直在找寻失散的家人。",
+        "pinyin": "Tā yīzhí zài zhǎoxún shīsàn de jiārén.",
+        "en": "O hep dağılan aile üyelerini arıyor."
+      },
+      {
+        "zh": "她找寻着人生的意义。",
+        "pinyin": "Tā zhǎoxúnzhe rénshēng de yìyì.",
+        "en": "O hayatın anlamını arıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7209",
+    "hanzi": "真诚",
+    "pinyin": "zhēnchéng",
+    "meaning": "içten, candan, samimi",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他真诚地向我道歉。",
+        "pinyin": "Tā zhēnchéng de xiàng wǒ dàoqiàn.",
+        "en": "O bana içtenlikle özür diledi."
+      },
+      {
+        "zh": "她是一个真诚的朋友。",
+        "pinyin": "Tā shì yī gè zhēnchéng de péngyou.",
+        "en": "O samimi bir arkadaş."
+      },
+      {
+        "zh": "他真诚地表达了自己的感激之情。",
+        "pinyin": "Tā zhēnchéng de biǎodále zìjǐ de gǎnjī zhī qíng.",
+        "en": "O minnettarlığını içtenlikle ifade etti."
+      },
+      {
+        "zh": "真诚的交流有助于建立信任。",
+        "pinyin": "Zhēnchéng de jiāoliú yǒuzhùyú jiànlì xìnrèn.",
+        "en": "İçten iletişim güven inşa etmeye yardımcı olur."
+      },
+      {
+        "zh": "他用真诚打动了所有人。",
+        "pinyin": "Tā yòng zhēnchéng dǎdòngle suǒyǒu rén.",
+        "en": "O içtenliğiyle herkesi etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w7210",
+    "hanzi": "罩",
+    "pinyin": "zhào",
+    "meaning": "örtü, kılıf; örtmek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她戴上了口罩。",
+        "pinyin": "Tā dài shàngle kǒuzhào.",
+        "en": "O maske taktı."
+      },
+      {
+        "zh": "他给电视盖上了防尘罩。",
+        "pinyin": "Tā gěi diànshì gài shàngle fángchénzhào.",
+        "en": "O televizyona toz kılıfı koydu."
+      },
+      {
+        "zh": "灯罩上积了灰尘。",
+        "pinyin": "Dēngzhào shàng jīle huīchén.",
+        "en": "Lamba abajurunun üstünde toz birikti."
+      },
+      {
+        "zh": "厨房里挂着一个油烟罩。",
+        "pinyin": "Chúfáng lǐ guàzhe yī gè yóuyānzhào.",
+        "en": "Mutfakta bir davlumbaz asılı."
+      },
+      {
+        "zh": "他用布罩住了机器。",
+        "pinyin": "Tā yòng bù zhàozhùle jīqì.",
+        "en": "O makineyi bezle örttü."
+      }
+    ]
   }
 ]

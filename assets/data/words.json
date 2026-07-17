@@ -211612,5 +211612,788 @@
         "en": "Bakım maliyeti oldukça yüksek."
       }
     ]
+  },
+  {
+    "id": "w6319",
+    "hanzi": "伪造",
+    "pinyin": "wěizào",
+    "meaning": "sahtesini yapmak, taklit etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他伪造了公司的印章。",
+        "pinyin": "Tā wěizàole gōngsī de yìnzhāng.",
+        "en": "O şirketin mührünü sahte olarak yaptı."
+      },
+      {
+        "zh": "伪造证件是违法的。",
+        "pinyin": "Wěizào zhèngjiàn shì wéifǎ de.",
+        "en": "Sahte belge yapmak yasadışıdır."
+      }
+    ]
+  },
+  {
+    "id": "w6320",
+    "hanzi": "伪装",
+    "pinyin": "wěizhuāng",
+    "meaning": "gibi yapmak, numara yapmak; kamuflaj",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他伪装成一个陌生人。",
+        "pinyin": "Tā wěizhuāng chéng yī gè mòshēngrén.",
+        "en": "O bir yabancıymış gibi davrandı."
+      },
+      {
+        "zh": "士兵们用树叶做伪装。",
+        "pinyin": "Shìbīngmen yòng shùyè zuò wěizhuāng.",
+        "en": "Askerler yapraklarla kamuflaj yaptılar."
+      }
+    ]
+  },
+  {
+    "id": "w6321",
+    "hanzi": "伪君子",
+    "pinyin": "wěijūnzǐ",
+    "meaning": "ikiyüzlü kimse, riyakâr",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他是个道貌岸然的伪君子。",
+        "pinyin": "Tā shì gè dàomào-ànrán de wěijūnzǐ.",
+        "en": "O ciddi görünüşlü ama aslında ikiyüzlü bir kimse."
+      },
+      {
+        "zh": "大家渐渐看穿了他这个伪君子。",
+        "pinyin": "Dàjiā jiànjiàn kànchuānle tā zhège wěijūnzǐ.",
+        "en": "Herkes yavaş yavaş onun ikiyüzlülüğünü fark etti."
+      }
+    ]
+  },
+  {
+    "id": "w6322",
+    "hanzi": "伪善",
+    "pinyin": "wěishàn",
+    "meaning": "ikiyüzlü, riyakâr",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的笑容显得很伪善。",
+        "pinyin": "Tā de xiàoróng xiǎnde hěn wěishàn.",
+        "en": "Onun gülümsemesi çok ikiyüzlü görünüyor."
+      },
+      {
+        "zh": "人们厌恶伪善的行为。",
+        "pinyin": "Rénmen yànwù wěishàn de xíngwéi.",
+        "en": "İnsanlar ikiyüzlü davranışlardan nefret eder."
+      }
+    ]
+  },
+  {
+    "id": "w6323",
+    "hanzi": "伟人",
+    "pinyin": "wěirén",
+    "meaning": "büyük insan, önemli şahsiyet",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "历史上有很多伟人。",
+        "pinyin": "Lìshǐ shàng yǒu hěn duō wěirén.",
+        "en": "Tarihte birçok büyük insan vardır."
+      },
+      {
+        "zh": "他从小就崇拜这位伟人。",
+        "pinyin": "Tā cóngxiǎo jiù chóngbài zhè wèi wěirén.",
+        "en": "O küçüklüğünden beri bu büyük şahsiyete hayrandır."
+      },
+      {
+        "zh": "伟人的故事激励着后人。",
+        "pinyin": "Wěirén de gùshi jīlìzhe hòurén.",
+        "en": "Büyük insanların hikayeleri sonraki nesillere ilham veriyor."
+      },
+      {
+        "zh": "博物馆展示了许多伟人的遗物。",
+        "pinyin": "Bówùguǎn zhǎnshìle xǔduō wěirén de yíwù.",
+        "en": "Müzede birçok büyük şahsiyetin eşyaları sergileniyor."
+      },
+      {
+        "zh": "他被认为是国家的伟人之一。",
+        "pinyin": "Tā bèi rènwéi shì guójiā de wěirén zhī yī.",
+        "en": "O ülkenin büyük şahsiyetlerinden biri olarak kabul edilir."
+      }
+    ]
+  },
+  {
+    "id": "w6324",
+    "hanzi": "纬度",
+    "pinyin": "wěidù",
+    "meaning": "enlem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个城市位于北纬三十度。",
+        "pinyin": "Zhège chéngshì wèiyú běiwěi sānshí dù.",
+        "en": "Bu şehir 30 derece kuzey enleminde yer alır."
+      },
+      {
+        "zh": "纬度越高,气候越冷。",
+        "pinyin": "Wěidù yuè gāo, qìhòu yuè lěng.",
+        "en": "Enlem ne kadar yüksekse iklim o kadar soğuk olur."
+      },
+      {
+        "zh": "地图上标出了经度和纬度。",
+        "pinyin": "Dìtú shàng biāo chūle jīngdù hé wěidù.",
+        "en": "Haritada boylam ve enlem işaretlenmiş."
+      },
+      {
+        "zh": "赤道地区的纬度是零度。",
+        "pinyin": "Chìdào dìqū de wěidù shì líng dù.",
+        "en": "Ekvator bölgesinin enlemi sıfır derecedir."
+      },
+      {
+        "zh": "这两个城市的纬度相近。",
+        "pinyin": "Zhè liǎng gè chéngshì de wěidù xiāngjìn.",
+        "en": "Bu iki şehrin enlemi birbirine yakın."
+      }
+    ]
+  },
+  {
+    "id": "w6325",
+    "hanzi": "委派",
+    "pinyin": "wěipài",
+    "meaning": "atamak, görevlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司委派他去国外考察。",
+        "pinyin": "Gōngsī wěipài tā qù guówài kǎochá.",
+        "en": "Şirket onu yurt dışında inceleme yapmakla görevlendirdi."
+      },
+      {
+        "zh": "她被委派为项目负责人。",
+        "pinyin": "Tā bèi wěipài wéi xiàngmù fùzérén.",
+        "en": "O proje sorumlusu olarak atandı."
+      }
+    ]
+  },
+  {
+    "id": "w6326",
+    "hanzi": "委婉",
+    "pinyin": "wěiwǎn",
+    "meaning": "nazik ve dolaylı, kibarca",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "她委婉地拒绝了他。",
+        "pinyin": "Tā wěiwǎn de jùjuéle tā.",
+        "en": "O onu nazikçe reddetti."
+      },
+      {
+        "zh": "他用委婉的语气提出了建议。",
+        "pinyin": "Tā yòng wěiwǎn de yǔqì tíchūle jiànyì.",
+        "en": "O nazik bir üslupla önerisini sundu."
+      }
+    ]
+  },
+  {
+    "id": "w6327",
+    "hanzi": "委员",
+    "pinyin": "wěiyuán",
+    "meaning": "komite üyesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他是委员会的委员。",
+        "pinyin": "Tā shì wěiyuánhuì de wěiyuán.",
+        "en": "O komitenin bir üyesi."
+      },
+      {
+        "zh": "委员们对方案进行了讨论。",
+        "pinyin": "Wěiyuánmen duì fāng'àn jìnxíngle tǎolùn.",
+        "en": "Komite üyeleri planı tartıştılar."
+      },
+      {
+        "zh": "她被选为学生委员。",
+        "pinyin": "Tā bèi xuǎn wéi xuésheng wěiyuán.",
+        "en": "O öğrenci komitesi üyesi olarak seçildi."
+      },
+      {
+        "zh": "委员会由十名委员组成。",
+        "pinyin": "Wěiyuánhuì yóu shí míng wěiyuán zǔchéng.",
+        "en": "Komite on üyeden oluşuyor."
+      },
+      {
+        "zh": "所有委员都投了赞成票。",
+        "pinyin": "Suǒyǒu wěiyuán dōu tóule zànchéng piào.",
+        "en": "Tüm üyeler olumlu oy kullandı."
+      }
+    ]
+  },
+  {
+    "id": "w6328",
+    "hanzi": "萎缩",
+    "pinyin": "wěisuō",
+    "meaning": "büzülmek, küçülmek, gerilemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "长期不用肌肉会萎缩。",
+        "pinyin": "Chángqí bùyòng jīròu huì wěisuō.",
+        "en": "Uzun süre kullanılmayan kaslar erimeye başlar."
+      },
+      {
+        "zh": "经济增长明显萎缩。",
+        "pinyin": "Jīngjì zēngzhǎng míngxiǎn wěisuō.",
+        "en": "Ekonomik büyüme belirgin şekilde geriledi."
+      }
+    ]
+  },
+  {
+    "id": "w6329",
+    "hanzi": "尾",
+    "pinyin": "wěi",
+    "meaning": "kuyruk; son, bitim",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "小狗摇着尾巴。",
+        "pinyin": "Xiǎo gǒu yáozhe wěiba.",
+        "en": "Köpek kuyruğunu sallıyor."
+      },
+      {
+        "zh": "鱼尾在水中摆动。",
+        "pinyin": "Yúwěi zài shuǐ zhōng bǎidòng.",
+        "en": "Balığın kuyruğu suda hareket ediyor."
+      },
+      {
+        "zh": "这篇文章的结尾很精彩。",
+        "pinyin": "Zhè piān wénzhāng de jiéwěi hěn jīngcǎi.",
+        "en": "Bu makalenin sonu çok etkileyici."
+      },
+      {
+        "zh": "队伍排到了街的末尾。",
+        "pinyin": "Duìwu pái dàole jiē de mòwěi.",
+        "en": "Sıra caddenin sonuna kadar uzandı."
+      },
+      {
+        "zh": "彗星拖着长长的尾巴。",
+        "pinyin": "Huìxīng tuōzhe chángcháng de wěiba.",
+        "en": "Kuyruklu yıldız uzun bir kuyruk çekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6330",
+    "hanzi": "尾声",
+    "pinyin": "wěishēng",
+    "meaning": "final, son bölüm, kapanış",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这部小说的尾声令人回味。",
+        "pinyin": "Zhè bù xiǎoshuō de wěishēng lìng rén huíwèi.",
+        "en": "Bu romanın son bölümü insanı düşündürüyor."
+      },
+      {
+        "zh": "比赛已经进入尾声。",
+        "pinyin": "Bǐsài yǐjīng jìnrù wěishēng.",
+        "en": "Yarışma artık sona doğru gidiyor."
+      }
+    ]
+  },
+  {
+    "id": "w6331",
+    "hanzi": "尾数",
+    "pinyin": "wěishù",
+    "meaning": "küsurat, kalan miktar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "价格的尾数四舍五入了。",
+        "pinyin": "Jiàgé de wěishù sìshěwǔrù le.",
+        "en": "Fiyatın küsuratı yuvarlandı."
+      },
+      {
+        "zh": "他把账单的尾数抹去了。",
+        "pinyin": "Tā bǎ zhàngdān de wěishù mǒqù le.",
+        "en": "O faturanın küsuratını sildi."
+      }
+    ]
+  },
+  {
+    "id": "w6332",
+    "hanzi": "为此",
+    "pinyin": "wèicǐ",
+    "meaning": "bu nedenle, bununla ilgili olarak",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "为此,我们制定了新的计划。",
+        "pinyin": "Wèicǐ, wǒmen zhìdìngle xīn de jìhuà.",
+        "en": "Bu nedenle yeni bir plan hazırladık."
+      },
+      {
+        "zh": "他很努力,为此获得了成功。",
+        "pinyin": "Tā hěn nǔlì, wèicǐ huòdéle chénggōng.",
+        "en": "O çok çalıştı, bu sayede başarılı oldu."
+      },
+      {
+        "zh": "为此我特意来向你道谢。",
+        "pinyin": "Wèicǐ wǒ tèyì lái xiàng nǐ dàoxiè.",
+        "en": "Bu nedenle sana özellikle teşekkür etmeye geldim."
+      },
+      {
+        "zh": "公司业绩下滑,为此召开了紧急会议。",
+        "pinyin": "Gōngsī yèjì xiàhuá, wèicǐ zhàokāile jǐnjí huìyì.",
+        "en": "Şirketin performansı düştü, bu yüzden acil bir toplantı düzenlendi."
+      },
+      {
+        "zh": "为此,他感到十分内疚。",
+        "pinyin": "Wèicǐ, tā gǎndào shífēn nèijiù.",
+        "en": "Bu yüzden o çok vicdan azabı duyuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6333",
+    "hanzi": "为何",
+    "pinyin": "wèihé",
+    "meaning": "neden, niçin",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他为何还没来?",
+        "pinyin": "Tā wèihé hái méi lái?",
+        "en": "O neden hâlâ gelmedi?"
+      },
+      {
+        "zh": "我不明白你为何生气。",
+        "pinyin": "Wǒ bù míngbái nǐ wèihé shēngqì.",
+        "en": "Neden kızgın olduğunu anlamıyorum."
+      },
+      {
+        "zh": "他从未解释过为何离开。",
+        "pinyin": "Tā cóngwèi jiěshìguò wèihé líkāi.",
+        "en": "O neden ayrıldığını hiç açıklamadı."
+      },
+      {
+        "zh": "不知为何,她突然哭了。",
+        "pinyin": "Bùzhī wèihé, tā tūrán kū le.",
+        "en": "Neden bilmiyorum, o birden ağladı."
+      },
+      {
+        "zh": "为何要这样做呢?",
+        "pinyin": "Wèihé yào zhèyàng zuò ne?",
+        "en": "Neden böyle yapmak gerekiyor ki?"
+      }
+    ]
+  },
+  {
+    "id": "w6334",
+    "hanzi": "未曾",
+    "pinyin": "wèicéng",
+    "meaning": "hiç ...memiş, daha önce olmamış",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他未曾见过这样的场面。",
+        "pinyin": "Tā wèicéng jiànguò zhèyàng de chǎngmiàn.",
+        "en": "O daha önce böyle bir manzara görmemişti."
+      },
+      {
+        "zh": "这个问题她未曾想过。",
+        "pinyin": "Zhège wèntí tā wèicéng xiǎngguò.",
+        "en": "O bu sorunu hiç düşünmemişti."
+      }
+    ]
+  },
+  {
+    "id": "w6335",
+    "hanzi": "未知数",
+    "pinyin": "wèizhīshù",
+    "meaning": "bilinmeyen, belirsizlik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这次比赛的结果仍是未知数。",
+        "pinyin": "Zhè cì bǐsài de jiéguǒ réng shì wèizhīshù.",
+        "en": "Bu maçın sonucu hâlâ belirsiz."
+      },
+      {
+        "zh": "他的未来充满了未知数。",
+        "pinyin": "Tā de wèilái chōngmǎnle wèizhīshù.",
+        "en": "Onun geleceği belirsizliklerle dolu."
+      }
+    ]
+  },
+  {
+    "id": "w6336",
+    "hanzi": "味",
+    "pinyin": "wèi",
+    "meaning": "tat, lezzet",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这道菜的味很香。",
+        "pinyin": "Zhè dào cài de wèi hěn xiāng.",
+        "en": "Bu yemeğin tadı çok güzel."
+      },
+      {
+        "zh": "汤的味有点淡。",
+        "pinyin": "Tāng de wèi yǒudiǎn dàn.",
+        "en": "Çorbanın tadı biraz hafif."
+      },
+      {
+        "zh": "这个水果没什么味。",
+        "pinyin": "Zhège shuǐguǒ méi shénme wèi.",
+        "en": "Bu meyvenin pek tadı yok."
+      },
+      {
+        "zh": "他喜欢重口味的食物。",
+        "pinyin": "Tā xǐhuān zhòngkǒuwèi de shíwù.",
+        "en": "O ağır tatlı yiyecekleri sever."
+      },
+      {
+        "zh": "空气中有一股花香味。",
+        "pinyin": "Kōngqì zhōng yǒu yī gǔ huāxiāng wèi.",
+        "en": "Havada çiçek kokusu var."
+      }
+    ]
+  },
+  {
+    "id": "w6337",
+    "hanzi": "味精",
+    "pinyin": "wèijīng",
+    "meaning": "MSG, tatlandırıcı madde",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "做菜时她放了一点味精。",
+        "pinyin": "Zuòcài shí tā fàngle yīdiǎn wèijīng.",
+        "en": "Yemek yaparken biraz tatlandırıcı ekledi."
+      },
+      {
+        "zh": "很多人不喜欢吃含味精的食物。",
+        "pinyin": "Hěn duō rén bù xǐhuān chī hán wèijīng de shíwù.",
+        "en": "Birçok kişi MSG içeren yiyecekleri sevmez."
+      },
+      {
+        "zh": "味精能提升菜的鲜味。",
+        "pinyin": "Wèijīng néng tíshēng cài de xiānwèi.",
+        "en": "MSG yemeğin lezzetini artırabilir."
+      },
+      {
+        "zh": "这家餐厅从不使用味精。",
+        "pinyin": "Zhè jiā cāntīng cóng bù shǐyòng wèijīng.",
+        "en": "Bu restoran hiç MSG kullanmaz."
+      },
+      {
+        "zh": "过多食用味精对健康不好。",
+        "pinyin": "Guò duō shíyòng wèijīng duì jiànkāng bù hǎo.",
+        "en": "Fazla MSG tüketimi sağlığa iyi gelmez."
+      }
+    ]
+  },
+  {
+    "id": "w6338",
+    "hanzi": "畏惧",
+    "pinyin": "wèijù",
+    "meaning": "korkmak, ürkmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他从不畏惧困难。",
+        "pinyin": "Tā cóng bù wèijù kùnnan.",
+        "en": "O zorluklardan asla korkmaz."
+      },
+      {
+        "zh": "面对危险,她毫不畏惧。",
+        "pinyin": "Miànduì wēixiǎn, tā háobù wèijù.",
+        "en": "Tehlike karşısında hiç korkmadı."
+      }
+    ]
+  },
+  {
+    "id": "w6339",
+    "hanzi": "畏缩",
+    "pinyin": "wèisuō",
+    "meaning": "çekinmek, korkup geri çekilmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "遇到困难他从不畏缩。",
+        "pinyin": "Yùdào kùnnan tā cóng bù wèisuō.",
+        "en": "Zorluklarla karşılaştığında asla geri çekilmez."
+      },
+      {
+        "zh": "她畏缩地站在门口。",
+        "pinyin": "Tā wèisuō de zhàn zài ménkǒu.",
+        "en": "O çekingen bir şekilde kapıda duruyor."
+      }
+    ]
+  },
+  {
+    "id": "w6340",
+    "hanzi": "喂养",
+    "pinyin": "wèiyǎng",
+    "meaning": "beslemek, besleyip büyütmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她亲自喂养这只小猫。",
+        "pinyin": "Tā qīnzì wèiyǎng zhè zhī xiǎo māo.",
+        "en": "O bu küçük kediyi kendisi besliyor."
+      },
+      {
+        "zh": "母亲喂养孩子长大成人。",
+        "pinyin": "Mǔqīn wèiyǎng háizi zhǎngdà chéngrén.",
+        "en": "Anne çocuğunu besleyip büyüttü."
+      },
+      {
+        "zh": "农民喂养了很多家禽。",
+        "pinyin": "Nóngmín wèiyǎngle hěn duō jiāqín.",
+        "en": "Çiftçi birçok kümes hayvanı besliyor."
+      },
+      {
+        "zh": "她每天定时喂养宠物。",
+        "pinyin": "Tā měitiān dìngshí wèiyǎng chǒngwù.",
+        "en": "O evcil hayvanını her gün düzenli olarak besliyor."
+      },
+      {
+        "zh": "这种鱼靠浮游生物喂养。",
+        "pinyin": "Zhè zhǒng yú kào fúyóu shēngwù wèiyǎng.",
+        "en": "Bu tür balıklar planktonla beslenir."
+      }
+    ]
+  },
+  {
+    "id": "w6341",
+    "hanzi": "胃口",
+    "pinyin": "wèikǒu",
+    "meaning": "iştah; hoşlanma",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他今天没什么胃口。",
+        "pinyin": "Tā jīntiān méi shénme wèikǒu.",
+        "en": "O bugün pek iştahlı değil."
+      },
+      {
+        "zh": "运动能增加胃口。",
+        "pinyin": "Yùndòng néng zēngjiā wèikǒu.",
+        "en": "Spor iştahı artırabilir."
+      },
+      {
+        "zh": "这个电影不合我的胃口。",
+        "pinyin": "Zhège diànyǐng bùhé wǒ de wèikǒu.",
+        "en": "Bu film bana pek hitap etmedi."
+      },
+      {
+        "zh": "生病后她的胃口变差了。",
+        "pinyin": "Shēngbìng hòu tā de wèikǒu biàn chà le.",
+        "en": "Hastalandıktan sonra onun iştahı kötüleşti."
+      },
+      {
+        "zh": "这道菜正合他的胃口。",
+        "pinyin": "Zhè dào cài zhèng hé tā de wèikǒu.",
+        "en": "Bu yemek tam onun zevkine göre."
+      }
+    ]
+  },
+  {
+    "id": "w6342",
+    "hanzi": "谓语",
+    "pinyin": "wèiyǔ",
+    "meaning": "yüklem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这个句子的谓语是什么?",
+        "pinyin": "Zhège jùzi de wèiyǔ shì shénme?",
+        "en": "Bu cümlenin yüklemi nedir?"
+      },
+      {
+        "zh": "动词通常做谓语。",
+        "pinyin": "Dòngcí tōngcháng zuò wèiyǔ.",
+        "en": "Fiiller genellikle yüklem görevi görür."
+      },
+      {
+        "zh": "老师讲解了主语和谓语的关系。",
+        "pinyin": "Lǎoshī jiǎngjiěle zhǔyǔ hé wèiyǔ de guānxi.",
+        "en": "Öğretmen özne ile yüklem arasındaki ilişkiyi anlattı."
+      },
+      {
+        "zh": "这句话缺少谓语。",
+        "pinyin": "Zhè jù huà quēshǎo wèiyǔ.",
+        "en": "Bu cümlede yüklem eksik."
+      },
+      {
+        "zh": "找出句子中的谓语部分。",
+        "pinyin": "Zhǎochū jùzi zhōng de wèiyǔ bùfen.",
+        "en": "Cümledeki yüklem bölümünü bul."
+      }
+    ]
+  },
+  {
+    "id": "w6343",
+    "hanzi": "位于",
+    "pinyin": "wèiyú",
+    "meaning": "bulunmak, konumlanmış olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这座城市位于沿海地区。",
+        "pinyin": "Zhè zuò chéngshì wèiyú yánhǎi dìqū.",
+        "en": "Bu şehir kıyı bölgesinde yer alıyor."
+      },
+      {
+        "zh": "学校位于市中心。",
+        "pinyin": "Xuéxiào wèiyú shì zhōngxīn.",
+        "en": "Okul şehir merkezinde bulunuyor."
+      },
+      {
+        "zh": "公司总部位于北京。",
+        "pinyin": "Gōngsī zǒngbù wèiyú Běijīng.",
+        "en": "Şirketin genel merkezi Pekin'de bulunuyor."
+      },
+      {
+        "zh": "这个国家位于亚洲东部。",
+        "pinyin": "Zhège guójiā wèiyú Yàzhōu dōngbù.",
+        "en": "Bu ülke Asya'nın doğusunda yer alıyor."
+      },
+      {
+        "zh": "餐厅位于二楼。",
+        "pinyin": "Cāntīng wèiyú èr lóu.",
+        "en": "Restoran ikinci katta bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6344",
+    "hanzi": "位子",
+    "pinyin": "wèizi",
+    "meaning": "yer, mevki, koltuk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "请让一下位子。",
+        "pinyin": "Qǐng ràng yīxià wèizi.",
+        "en": "Lütfen yerinizi bir gösterin/açın."
+      },
+      {
+        "zh": "他为了那个位子拼命工作。",
+        "pinyin": "Tā wèile nàge wèizi pīnmìng gōngzuò.",
+        "en": "O o mevki için canla başla çalışıyor."
+      },
+      {
+        "zh": "这个位子已经有人了。",
+        "pinyin": "Zhège wèizi yǐjīng yǒu rén le.",
+        "en": "Bu yer zaten dolu."
+      },
+      {
+        "zh": "找个位子坐下吧。",
+        "pinyin": "Zhǎo gè wèizi zuò xià ba.",
+        "en": "Bir yer bulup otur."
+      },
+      {
+        "zh": "他一直坐在同一个位子上。",
+        "pinyin": "Tā yīzhí zuò zài tóng yī gè wèizi shàng.",
+        "en": "O hep aynı yerde oturuyor."
+      }
+    ]
+  },
+  {
+    "id": "w6345",
+    "hanzi": "慰问",
+    "pinyin": "wèiwèn",
+    "meaning": "teselli etmek, hal hatır sormak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "领导前往医院慰问伤员。",
+        "pinyin": "Lǐngdǎo qiánwǎng yīyuàn wèiwèn shāngyuán.",
+        "en": "Yönetici hastaneye giderek yaralıların hal hatırını sordu."
+      },
+      {
+        "zh": "大家纷纷发来慰问信息。",
+        "pinyin": "Dàjiā fēnfēn fā lái wèiwèn xìnxī.",
+        "en": "Herkes birbiri ardına teselli mesajları gönderdi."
+      }
+    ]
+  },
+  {
+    "id": "w6346",
+    "hanzi": "蔚蓝",
+    "pinyin": "wèilán",
+    "meaning": "gök mavisi, lacivert mavi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "天空一片蔚蓝。",
+        "pinyin": "Tiānkōng yī piàn wèilán.",
+        "en": "Gökyüzü masmavi."
+      },
+      {
+        "zh": "大海呈现出蔚蓝的颜色。",
+        "pinyin": "Dàhǎi chéngxiàn chū wèilán de yánsè.",
+        "en": "Deniz gök mavisi bir renk sergiliyor."
+      }
+    ]
   }
 ]

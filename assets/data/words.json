@@ -202069,5 +202069,743 @@
         "en": "Psikolojik dayanıklılığı çok iyi."
       }
     ]
+  },
+  {
+    "id": "w5981",
+    "hanzi": "速",
+    "pinyin": "sù",
+    "meaning": "hızlı, süratli; hız",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "请速来，事情紧急。",
+        "pinyin": "Qǐng sù lái, shìqing jǐnjí.",
+        "en": "Lütfen hemen gel, iş acil."
+      },
+      {
+        "zh": "他速速离开了现场。",
+        "pinyin": "Tā sùsù líkāi le xiànchǎng.",
+        "en": "Hızla olay yerinden uzaklaştı."
+      },
+      {
+        "zh": "车速太快了，请减速。",
+        "pinyin": "Chēsù tài kuài le, qǐng jiǎnsù.",
+        "en": "Araba hızı çok fazla, lütfen yavaşlayın."
+      },
+      {
+        "zh": "他工作速度非常快。",
+        "pinyin": "Tā gōngzuò sùdù fēicháng kuài.",
+        "en": "Çalışma hızı çok yüksek."
+      },
+      {
+        "zh": "请以最快的速度完成任务。",
+        "pinyin": "Qǐng yǐ zuìkuài de sùdù wánchéng rènwu.",
+        "en": "Lütfen görevi en hızlı şekilde tamamlayın."
+      }
+    ]
+  },
+  {
+    "id": "w5982",
+    "hanzi": "速成",
+    "pinyin": "sùchéng",
+    "meaning": "kısa zamanda öğrenmek/başarmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他报名参加了速成班。",
+        "pinyin": "Tā bàomíng cānjiā le sùchéngbān.",
+        "en": "Hızlandırılmış kursa kaydoldu."
+      },
+      {
+        "zh": "语言学习没有真正的速成方法。",
+        "pinyin": "Yǔyán xuéxí méiyǒu zhēnzhèng de sùchéng fāngfǎ.",
+        "en": "Dil öğrenmenin gerçek anlamda hızlı bir yolu yoktur."
+      }
+    ]
+  },
+  {
+    "id": "w5983",
+    "hanzi": "速冻",
+    "pinyin": "sùdòng",
+    "meaning": "hızlı dondurmak, şoklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这些速冻食品很方便。",
+        "pinyin": "Zhèxiē sùdòng shípǐn hěn fāngbiàn.",
+        "en": "Bu dondurulmuş gıdalar çok pratik."
+      },
+      {
+        "zh": "水果速冻后可以保存很久。",
+        "pinyin": "Shuǐguǒ sùdòng hòu kěyǐ bǎocún hěn jiǔ.",
+        "en": "Meyveler hızlı dondurulduktan sonra uzun süre saklanabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5984",
+    "hanzi": "速率",
+    "pinyin": "sùlǜ",
+    "meaning": "hız (bilim, fizik)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "光的速率非常快。",
+        "pinyin": "Guāng de sùlǜ fēicháng kuài.",
+        "en": "Işığın hızı çok yüksektir."
+      },
+      {
+        "zh": "反应速率受温度影响。",
+        "pinyin": "Fǎnyìng sùlǜ shòu wēndù yǐngxiǎng.",
+        "en": "Reaksiyon hızı sıcaklıktan etkilenir."
+      }
+    ]
+  },
+  {
+    "id": "w5985",
+    "hanzi": "肃静",
+    "pinyin": "sùjìng",
+    "meaning": "ciddiyet ve sessizlik",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "法庭上要求保持肃静。",
+        "pinyin": "Fǎtíng shàng yāoqiú bǎochí sùjìng.",
+        "en": "Mahkeme salonunda sessizliğin korunması isteniyor."
+      },
+      {
+        "zh": "会场里一片肃静。",
+        "pinyin": "Huìchǎng lǐ yípiàn sùjìng.",
+        "en": "Toplantı salonu tam bir sessizlik içindeydi."
+      }
+    ]
+  },
+  {
+    "id": "w5986",
+    "hanzi": "酸菜",
+    "pinyin": "suāncài",
+    "meaning": "turşu (Çin lahanası turşusu)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "妈妈做的酸菜很好吃。",
+        "pinyin": "Māma zuò de suāncài hěn hǎochī.",
+        "en": "Annemin yaptığı turşu çok lezzetli."
+      },
+      {
+        "zh": "这道菜是用酸菜炒的。",
+        "pinyin": "Zhè dào cài shì yòng suāncài chǎo de.",
+        "en": "Bu yemek turşuyla kavrulmuştur."
+      },
+      {
+        "zh": "冬天家家户户都腌酸菜。",
+        "pinyin": "Dōngtiān jiājiā-hùhù dōu yān suāncài.",
+        "en": "Kışın her ev turşu yapar."
+      },
+      {
+        "zh": "酸菜鱼是一道很受欢迎的菜。",
+        "pinyin": "Suāncàiyú shì yí dào hěn shòu huānyíng de cài.",
+        "en": "Turşulu balık çok popüler bir yemektir."
+      },
+      {
+        "zh": "他喜欢在面条里加点酸菜。",
+        "pinyin": "Tā xǐhuan zài miàntiáo lǐ jiā diǎn suāncài.",
+        "en": "Erişteye biraz turşu eklemeyi sever."
+      }
+    ]
+  },
+  {
+    "id": "w5987",
+    "hanzi": "酸痛",
+    "pinyin": "suāntòng",
+    "meaning": "ağrılı, sızılı (kas)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "运动后浑身酸痛。",
+        "pinyin": "Yùndòng hòu húnshēn suāntòng.",
+        "en": "Egzersizden sonra vücut baştan aşağı ağrıyor."
+      },
+      {
+        "zh": "他的肩膀酸痛了好几天。",
+        "pinyin": "Tā de jiānbǎng suāntòng le hǎojǐ tiān.",
+        "en": "Omzu birkaç gündür ağrıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5988",
+    "hanzi": "酸味",
+    "pinyin": "suānwèi",
+    "meaning": "ekşi tat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这种水果有一点酸味。",
+        "pinyin": "Zhè zhǒng shuǐguǒ yǒu yìdiǎn suānwèi.",
+        "en": "Bu meyve biraz ekşi bir tada sahip."
+      },
+      {
+        "zh": "醋的酸味很浓。",
+        "pinyin": "Cù de suānwèi hěn nóng.",
+        "en": "Sirkenin ekşi tadı çok yoğun."
+      }
+    ]
+  },
+  {
+    "id": "w5989",
+    "hanzi": "酸雨",
+    "pinyin": "suānyǔ",
+    "meaning": "asit yağmuru",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "酸雨对森林造成了严重破坏。",
+        "pinyin": "Suānyǔ duì sēnlín zàochéng le yánzhòng pòhuài.",
+        "en": "Asit yağmuru ormanlara ciddi zarar verdi."
+      },
+      {
+        "zh": "工业污染是酸雨形成的重要原因。",
+        "pinyin": "Gōngyè wūrǎn shì suānyǔ xíngchéng de zhòngyào yuányīn.",
+        "en": "Endüstriyel kirlilik, asit yağmurunun oluşmasının önemli bir nedenidir."
+      }
+    ]
+  },
+  {
+    "id": "w5990",
+    "hanzi": "蒜",
+    "pinyin": "suàn",
+    "meaning": "sarımsak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这道菜放了很多蒜。",
+        "pinyin": "Zhè dào cài fàng le hěnduō suàn.",
+        "en": "Bu yemeğe çok fazla sarımsak konuldu."
+      },
+      {
+        "zh": "他不喜欢吃生蒜。",
+        "pinyin": "Tā bù xǐhuan chī shēngsuàn.",
+        "en": "Çiğ sarımsak yemekten hoşlanmıyor."
+      },
+      {
+        "zh": "妈妈买了一头蒜。",
+        "pinyin": "Māma mǎi le yì tóu suàn.",
+        "en": "Annem bir baş sarımsak satın aldı."
+      },
+      {
+        "zh": "蒜有很强的杀菌作用。",
+        "pinyin": "Suàn yǒu hěn qiáng de shājūn zuòyòng.",
+        "en": "Sarımsağın güçlü bir antibakteriyel etkisi var."
+      },
+      {
+        "zh": "炒菜时先放点蒜末。",
+        "pinyin": "Chǎocài shí xiān fàng diǎn suànmò.",
+        "en": "Sebze kavururken önce biraz kıyılmış sarımsak koy."
+      }
+    ]
+  },
+  {
+    "id": "w5991",
+    "hanzi": "算数",
+    "pinyin": "suànshù",
+    "meaning": "sözünde durmak, geçerli olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "说出的话就要算数。",
+        "pinyin": "Shuōchū de huà jiù yào suànshù.",
+        "en": "Söylenen söz tutulmalıdır."
+      },
+      {
+        "zh": "他答应的事从来不算数。",
+        "pinyin": "Tā dāying de shì cónglái bú suànshù.",
+        "en": "Söz verdiği şeyler asla geçerli olmuyor (sözünü tutmuyor)."
+      }
+    ]
+  },
+  {
+    "id": "w5992",
+    "hanzi": "虽说",
+    "pinyin": "suīshuō",
+    "meaning": "her ne kadar, olsa da",
+    "partOfSpeech": "bağlaç",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "虽说天气很冷，他还是坚持跑步。",
+        "pinyin": "Suīshuō tiānqì hěn lěng, tā háishi jiānchí pǎobù.",
+        "en": "Hava çok soğuk olsa da koşmaya devam etti."
+      },
+      {
+        "zh": "虽说他年纪不大，但经验丰富。",
+        "pinyin": "Suīshuō tā niánjì bú dà, dàn jīngyàn fēngfù.",
+        "en": "Yaşı büyük olmasa da deneyimi zengin."
+      }
+    ]
+  },
+  {
+    "id": "w5993",
+    "hanzi": "随",
+    "pinyin": "suí",
+    "meaning": "takip etmek, izlemek; -e uymak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他随父母一起搬到了新城市。",
+        "pinyin": "Tā suí fùmǔ yìqǐ bāndào le xīn chéngshì.",
+        "en": "Ebeveynleriyle birlikte yeni bir şehre taşındı."
+      },
+      {
+        "zh": "价格随季节变化。",
+        "pinyin": "Jiàgé suí jìjié biànhuà.",
+        "en": "Fiyat mevsime göre değişiyor."
+      },
+      {
+        "zh": "随时间流逝，一切都变了。",
+        "pinyin": "Suí shíjiān liúshì, yíqiè dōu biàn le.",
+        "en": "Zaman geçtikçe her şey değişti."
+      },
+      {
+        "zh": "他随大流选择了这个专业。",
+        "pinyin": "Tā suídàliú xuǎnzé le zhège zhuānyè.",
+        "en": "Herkesin peşinden giderek bu bölümü seçti."
+      },
+      {
+        "zh": "他随身携带了一把伞。",
+        "pinyin": "Tā suíshēn xiédài le yì bǎ sǎn.",
+        "en": "Yanında bir şemsiye taşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5994",
+    "hanzi": "随笔",
+    "pinyin": "suíbǐ",
+    "meaning": "deneme (yazı türü)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他喜欢写生活随笔。",
+        "pinyin": "Tā xǐhuan xiě shēnghuó suíbǐ.",
+        "en": "Günlük hayat üzerine denemeler yazmayı sever."
+      },
+      {
+        "zh": "这本随笔集受到了读者的喜爱。",
+        "pinyin": "Zhè běn suíbǐ jí shòudào le dúzhě de xǐ'ài.",
+        "en": "Bu deneme derlemesi okuyucular tarafından sevildi."
+      }
+    ]
+  },
+  {
+    "id": "w5995",
+    "hanzi": "随从",
+    "pinyin": "suícóng",
+    "meaning": "eşlik etmek, refakat etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "几位官员随从总统出访。",
+        "pinyin": "Jǐ wèi guānyuán suícóng zǒngtǒng chūfǎng.",
+        "en": "Birkaç yetkili başkana eşlik ederek ziyarete çıktı."
+      },
+      {
+        "zh": "他的随从人员都很专业。",
+        "pinyin": "Tā de suícóng rényuán dōu hěn zhuānyè.",
+        "en": "Kendisine eşlik eden ekip çok profesyonel."
+      }
+    ]
+  },
+  {
+    "id": "w5996",
+    "hanzi": "随地",
+    "pinyin": "suídì",
+    "meaning": "her yerde, rastgele bir yerde",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请不要随地吐痰。",
+        "pinyin": "Qǐng búyào suídì tǔtán.",
+        "en": "Lütfen rastgele bir yere tükürmeyin."
+      },
+      {
+        "zh": "垃圾不能随地丢弃。",
+        "pinyin": "Lājī bùnéng suídì diūqì.",
+        "en": "Çöp rastgele bir yere atılamaz."
+      }
+    ]
+  },
+  {
+    "id": "w5997",
+    "hanzi": "随和",
+    "pinyin": "suíhé",
+    "meaning": "uyumlu, dostça, uysal",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "她的性格很随和。",
+        "pinyin": "Tā de xìnggé hěn suíhé.",
+        "en": "Karakteri çok uyumlu."
+      },
+      {
+        "zh": "他为人随和，很少与人争执。",
+        "pinyin": "Tā wéirén suíhé, hěnshǎo yǔ rén zhēngzhí.",
+        "en": "Uyumlu bir insandır, nadiren başkalarıyla tartışır."
+      }
+    ]
+  },
+  {
+    "id": "w5998",
+    "hanzi": "随后",
+    "pinyin": "suíhòu",
+    "meaning": "biraz sonra, ardından",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他先说了几句话，随后离开了。",
+        "pinyin": "Tā xiān shuō le jǐ jù huà, suíhòu líkāi le.",
+        "en": "Önce birkaç söz söyledi, ardından ayrıldı."
+      },
+      {
+        "zh": "会议开始后，随后进行了讨论。",
+        "pinyin": "Huìyì kāishǐ hòu, suíhòu jìnxíng le tǎolùn.",
+        "en": "Toplantı başladıktan sonra tartışma yapıldı."
+      },
+      {
+        "zh": "他先到了，随后我们也赶到了。",
+        "pinyin": "Tā xiān dào le, suíhòu wǒmen yě gǎndào le.",
+        "en": "O önce geldi, ardından biz de yetiştik."
+      },
+      {
+        "zh": "随后发生的事情让人震惊。",
+        "pinyin": "Suíhòu fāshēng de shìqing ràng rén zhènjīng.",
+        "en": "Ardından meydana gelen olaylar insanı şaşırttı."
+      },
+      {
+        "zh": "他吃了早餐，随后去上班了。",
+        "pinyin": "Tā chī le zǎocān, suíhòu qù shàngbān le.",
+        "en": "Kahvaltı yaptı, ardından işe gitti."
+      }
+    ]
+  },
+  {
+    "id": "w5999",
+    "hanzi": "随即",
+    "pinyin": "suíjí",
+    "meaning": "hemen, derhal, akabinde",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他听到消息后随即赶了过去。",
+        "pinyin": "Tā tīngdào xiāoxi hòu suíjí gǎn le guòqù.",
+        "en": "Haberi duyar duymaz hemen oraya koştu."
+      },
+      {
+        "zh": "问题提出后随即得到了解决。",
+        "pinyin": "Wèntí tíchū hòu suíjí dédào le jiějué.",
+        "en": "Sorun ortaya çıktıktan sonra hemen çözüldü."
+      }
+    ]
+  },
+  {
+    "id": "w6000",
+    "hanzi": "随身",
+    "pinyin": "suíshēn",
+    "meaning": "yanında taşımak, beraberinde",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他随身带着一本书。",
+        "pinyin": "Tā suíshēn dàizhe yì běn shū.",
+        "en": "Yanında bir kitap taşıyor."
+      },
+      {
+        "zh": "请把重要证件随身携带。",
+        "pinyin": "Qǐng bǎ zhòngyào zhèngjiàn suíshēn xiédài.",
+        "en": "Lütfen önemli belgeleri yanınızda taşıyın."
+      }
+    ]
+  },
+  {
+    "id": "w6001",
+    "hanzi": "随手",
+    "pinyin": "suíshǒu",
+    "meaning": "elinin altında, hemencecik",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请随手关门。",
+        "pinyin": "Qǐng suíshǒu guānmén.",
+        "en": "Lütfen çıkarken kapıyı kapatın."
+      },
+      {
+        "zh": "他随手把书放在了桌子上。",
+        "pinyin": "Tā suíshǒu bǎ shū fàng zài le zhuōzi shàng.",
+        "en": "Kitabı gelişigüzel masaya koydu."
+      }
+    ]
+  },
+  {
+    "id": "w6002",
+    "hanzi": "随意",
+    "pinyin": "suíyì",
+    "meaning": "istediği gibi, keyfince, serbestçe",
+    "partOfSpeech": "zarf",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "你可以随意选择座位。",
+        "pinyin": "Nǐ kěyǐ suíyì xuǎnzé zuòwèi.",
+        "en": "İstediğin koltuğu seçebilirsin."
+      },
+      {
+        "zh": "请随意，不用客气。",
+        "pinyin": "Qǐng suíyì, búyòng kèqi.",
+        "en": "Rahatınıza bakın, çekinmeyin."
+      },
+      {
+        "zh": "他随意地翻着杂志。",
+        "pinyin": "Tā suíyì de fānzhe zázhì.",
+        "en": "Dergiyi gelişigüzel karıştırıyor."
+      },
+      {
+        "zh": "不要随意改变计划。",
+        "pinyin": "Búyào suíyì gǎibiàn jìhuà.",
+        "en": "Planı keyfince değiştirme."
+      },
+      {
+        "zh": "你可以随意发表自己的看法。",
+        "pinyin": "Nǐ kěyǐ suíyì fābiǎo zìjǐ de kànfǎ.",
+        "en": "Kendi görüşünü serbestçe açıklayabilirsin."
+      }
+    ]
+  },
+  {
+    "id": "w6003",
+    "hanzi": "髓",
+    "pinyin": "suǐ",
+    "meaning": "ilik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "骨髓移植可以挽救白血病患者。",
+        "pinyin": "Gǔsuǐ yízhí kěyǐ wǎnjiù báixuèbìng huànzhě.",
+        "en": "Kemik iliği nakli lösemi hastalarının hayatını kurtarabilir."
+      },
+      {
+        "zh": "这个道理已经深入骨髓。",
+        "pinyin": "Zhège dàolǐ yǐjīng shēnrù gǔsuǐ.",
+        "en": "Bu gerçek kemiğe kadar işlemiş durumda."
+      }
+    ]
+  },
+  {
+    "id": "w6004",
+    "hanzi": "隧道",
+    "pinyin": "suìdào",
+    "meaning": "tünel",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "汽车通过了一条长长的隧道。",
+        "pinyin": "Qìchē tōngguò le yì tiáo chángcháng de suìdào.",
+        "en": "Araba uzun bir tünelden geçti."
+      },
+      {
+        "zh": "这条隧道穿越了整座山。",
+        "pinyin": "Zhè tiáo suìdào chuānyuè le zhěng zuò shān.",
+        "en": "Bu tünel tüm dağı geçiyor."
+      },
+      {
+        "zh": "隧道里灯光昏暗。",
+        "pinyin": "Suìdào lǐ dēngguāng hūn'àn.",
+        "en": "Tünelin içindeki ışık loş."
+      },
+      {
+        "zh": "他们修建了一条海底隧道。",
+        "pinyin": "Tāmen xiūjiàn le yì tiáo hǎidǐ suìdào.",
+        "en": "Deniz altından geçen bir tünel inşa ettiler."
+      },
+      {
+        "zh": "隧道施工需要非常谨慎。",
+        "pinyin": "Suìdào shīgōng xūyào fēicháng jǐnshèn.",
+        "en": "Tünel inşaatı çok dikkatli olmayı gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w6005",
+    "hanzi": "岁数",
+    "pinyin": "suìshu",
+    "meaning": "yaş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "老人家，您多大岁数了？",
+        "pinyin": "Lǎorénjiā, nín duōdà suìshu le?",
+        "en": "Büyüğüm, kaç yaşındasınız?"
+      },
+      {
+        "zh": "他上了岁数，身体不如从前了。",
+        "pinyin": "Tā shàng le suìshu, shēntǐ bùrú cóngqián le.",
+        "en": "Yaşlandı, bedeni eskisi gibi değil."
+      }
+    ]
+  },
+  {
+    "id": "w6006",
+    "hanzi": "岁月",
+    "pinyin": "suìyuè",
+    "meaning": "yıllar, zaman, geçen günler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "岁月改变了很多东西。",
+        "pinyin": "Suìyuè gǎibiàn le hěnduō dōngxi.",
+        "en": "Zaman birçok şeyi değiştirdi."
+      },
+      {
+        "zh": "他怀念那段艰苦的岁月。",
+        "pinyin": "Tā huáiniàn nà duàn jiānkǔ de suìyuè.",
+        "en": "O zorlu yılları özlüyor."
+      },
+      {
+        "zh": "岁月不饶人。",
+        "pinyin": "Suìyuè bùráorén.",
+        "en": "Zaman kimseyi affetmez."
+      },
+      {
+        "zh": "这些照片记录了逝去的岁月。",
+        "pinyin": "Zhèxiē zhàopiàn jìlù le shìqù de suìyuè.",
+        "en": "Bu fotoğraflar geçmiş yılları kayıt altına aldı."
+      },
+      {
+        "zh": "他们共同度过了美好的岁月。",
+        "pinyin": "Tāmen gòngtóng dùguò le měihǎo de suìyuè.",
+        "en": "Birlikte güzel yıllar geçirdiler."
+      }
+    ]
+  },
+  {
+    "id": "w6007",
+    "hanzi": "孙",
+    "pinyin": "sūn",
+    "meaning": "torun",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他有三个孙子。",
+        "pinyin": "Tā yǒu sān ge sūnzi.",
+        "en": "Üç erkek torunu var."
+      },
+      {
+        "zh": "爷爷很疼爱他的孙辈。",
+        "pinyin": "Yéye hěn téng'ài tā de sūnbèi.",
+        "en": "Dede torun kuşağını çok seviyor."
+      },
+      {
+        "zh": "他的孙子明年就要上大学了。",
+        "pinyin": "Tā de sūnzi míngnián jiù yào shàng dàxué le.",
+        "en": "Torunu gelecek yıl üniversiteye başlayacak."
+      },
+      {
+        "zh": "奶奶给孙子讲了一个故事。",
+        "pinyin": "Nǎinai gěi sūnzi jiǎng le yí ge gùshi.",
+        "en": "Büyükanne torununa bir hikâye anlattı."
+      },
+      {
+        "zh": "他们全家四代同堂，儿孙满堂。",
+        "pinyin": "Tāmen quánjiā sìdài tóngtáng, érsūn mǎntáng.",
+        "en": "Tüm aileleri dört kuşaktır bir arada, çocukları ve torunları evi doldurmuş."
+      }
+    ]
+  },
+  {
+    "id": "w6008",
+    "hanzi": "孙女",
+    "pinyin": "sūnnǚ",
+    "meaning": "kız torun",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "他的孙女今年五岁了。",
+        "pinyin": "Tā de sūnnǚ jīnnián wǔ suì le.",
+        "en": "Kız torunu bu yıl beş yaşında oldu."
+      },
+      {
+        "zh": "奶奶最疼爱她的孙女。",
+        "pinyin": "Nǎinai zuì téng'ài tā de sūnnǚ.",
+        "en": "Büyükanne kız torununu en çok seviyor."
+      },
+      {
+        "zh": "孙女经常来看望爷爷奶奶。",
+        "pinyin": "Sūnnǚ jīngcháng lái kànwàng yéye nǎinai.",
+        "en": "Kız torun sık sık dedesini ve büyükannesini ziyarete gelir."
+      },
+      {
+        "zh": "他给孙女买了一条漂亮的裙子。",
+        "pinyin": "Tā gěi sūnnǚ mǎi le yì tiáo piàoliang de qúnzi.",
+        "en": "Kız torununa güzel bir etek satın aldı."
+      },
+      {
+        "zh": "孙女长得越来越像她妈妈了。",
+        "pinyin": "Sūnnǚ zhǎngde yuèláiyuè xiàng tā māma le.",
+        "en": "Kız torun giderek annesine benzemeye başladı."
+      }
+    ]
   }
 ]

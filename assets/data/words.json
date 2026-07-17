@@ -181591,5 +181591,773 @@
         "en": "Uygun bir çözüm yolu bulmamız gerekiyor."
       }
     ]
+  },
+  {
+    "id": "w5253",
+    "hanzi": "千瓦",
+    "pinyin": "qiānwǎ",
+    "meaning": "kilowatt",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台发电机的功率是十千瓦。",
+        "pinyin": "Zhè tái fādiànjī de gōnglǜ shì shí qiānwǎ.",
+        "en": "Bu jeneratörün gücü on kilowatt."
+      },
+      {
+        "zh": "这个工厂每月耗电几千千瓦。",
+        "pinyin": "Zhège gōngchǎng měi yuè hàodiàn jǐ qiān qiānwǎ.",
+        "en": "Bu fabrika ayda birkaç bin kilowatt elektrik harcıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5254",
+    "hanzi": "迁就",
+    "pinyin": "qiānjiù",
+    "meaning": "tavizler vermek, kabullenmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "父母不应该一味迁就孩子。",
+        "pinyin": "Fùmǔ bù yīnggāi yíwèi qiānjiù háizi.",
+        "en": "Ebeveynler çocuklarına sürekli taviz vermemeli."
+      },
+      {
+        "zh": "他从不迁就自己的坏习惯。",
+        "pinyin": "Tā cóngbù qiānjiù zìjǐ de huài xíguàn.",
+        "en": "Kendi kötü alışkanlıklarına hiç taviz vermez."
+      }
+    ]
+  },
+  {
+    "id": "w5255",
+    "hanzi": "迁居",
+    "pinyin": "qiānjū",
+    "meaning": "taşınmak (ev/yer değiştirmek)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们全家迁居到了上海。",
+        "pinyin": "Tāmen quánjiā qiānjū dào le Shànghǎi.",
+        "en": "Tüm aile Şanghay'a taşındı."
+      },
+      {
+        "zh": "由于工作原因，他决定迁居。",
+        "pinyin": "Yóuyú gōngzuò yuányīn, tā juédìng qiānjū.",
+        "en": "İş sebebiyle taşınmaya karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5256",
+    "hanzi": "迁移",
+    "pinyin": "qiānyí",
+    "meaning": "göç etmek, taşınmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "鸟类每年都会迁移到南方。",
+        "pinyin": "Niǎolèi měinián dōu huì qiānyí dào nánfāng.",
+        "en": "Kuşlar her yıl güneye göç eder."
+      },
+      {
+        "zh": "人口正在向城市迁移。",
+        "pinyin": "Rénkǒu zhèngzài xiàng chéngshì qiānyí.",
+        "en": "Nüfus şehirlere doğru göç ediyor."
+      },
+      {
+        "zh": "工厂搬迁移到了郊区。",
+        "pinyin": "Gōngchǎng bānqiānyí dào le jiāoqū.",
+        "en": "Fabrika kenar mahallelere taşındı."
+      },
+      {
+        "zh": "数据已经迁移到了新系统。",
+        "pinyin": "Shùjù yǐjīng qiānyí dào le xīn xìtǒng.",
+        "en": "Veriler yeni sisteme aktarıldı."
+      },
+      {
+        "zh": "古代部落经常迁移居住地。",
+        "pinyin": "Gǔdài bùluò jīngcháng qiānyí jūzhùdì.",
+        "en": "Antik kabileler sık sık yerleşim yerlerini değiştirirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5257",
+    "hanzi": "谦让",
+    "pinyin": "qiānràng",
+    "meaning": "tevazu göstermek, geri çekilmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他谦让地把座位让给了老人。",
+        "pinyin": "Tā qiānràng de bǎ zuòwèi ràng gěi le lǎorén.",
+        "en": "Alçakgönüllülükle yerini yaşlıya bıraktı."
+      },
+      {
+        "zh": "面对荣誉，他总是谦让。",
+        "pinyin": "Miànduì róngyù, tā zǒngshì qiānràng.",
+        "en": "Onurla karşı karşıya kaldığında hep geri çekilir."
+      }
+    ]
+  },
+  {
+    "id": "w5258",
+    "hanzi": "牵挂",
+    "pinyin": "qiānguà",
+    "meaning": "endişelenmek, merak etmek (biri için)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "妈妈一直牵挂着在外的儿子。",
+        "pinyin": "Māma yìzhí qiānguàzhe zài wài de érzi.",
+        "en": "Anne dışarıdaki oğlunu sürekli merak ediyor."
+      },
+      {
+        "zh": "他心里牵挂着家乡的亲人。",
+        "pinyin": "Tā xīnlǐ qiānguàzhe jiāxiāng de qīnrén.",
+        "en": "İçten içe memleketindeki akrabalarını düşünüp merak ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5259",
+    "hanzi": "铅球",
+    "pinyin": "qiānqiú",
+    "meaning": "gülle (atletizm)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他在比赛中投掷铅球。",
+        "pinyin": "Tā zài bǐsài zhōng tóuzhì qiānqiú.",
+        "en": "Yarışmada gülle attı."
+      },
+      {
+        "zh": "铅球比赛需要很大的力气。",
+        "pinyin": "Qiānqiú bǐsài xūyào hěn dà de lìqi.",
+        "en": "Gülle atma yarışması büyük güç gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5260",
+    "hanzi": "潜伏",
+    "pinyin": "qiánfú",
+    "meaning": "gizlenmek, pusuda beklemek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "间谍在敌方潜伏了多年。",
+        "pinyin": "Jiàndié zài dífāng qiánfú le duōnián.",
+        "en": "Casus düşman tarafında yıllarca gizlendi."
+      },
+      {
+        "zh": "这种病毒可以在体内潜伏很久。",
+        "pinyin": "Zhè zhǒng bìngdú kěyǐ zài tǐnèi qiánfú hěn jiǔ.",
+        "en": "Bu virüs vücutta uzun süre gizli kalabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5261",
+    "hanzi": "潜力",
+    "pinyin": "qiánlì",
+    "meaning": "potansiyel",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个年轻人很有潜力。",
+        "pinyin": "Zhège niánqīngrén hěn yǒu qiánlì.",
+        "en": "Bu genç çok potansiyele sahip."
+      },
+      {
+        "zh": "公司希望挖掘员工的潜力。",
+        "pinyin": "Gōngsī xīwàng wājué yuángōng de qiánlì.",
+        "en": "Şirket çalışanların potansiyelini ortaya çıkarmak istiyor."
+      },
+      {
+        "zh": "这个市场还有很大的发展潜力。",
+        "pinyin": "Zhège shìchǎng hái yǒu hěn dà de fāzhǎn qiánlì.",
+        "en": "Bu pazarın hâlâ büyük gelişim potansiyeli var."
+      },
+      {
+        "zh": "他的潜力还没有完全发挥出来。",
+        "pinyin": "Tā de qiánlì hái méiyǒu wánquán fāhuī chūlái.",
+        "en": "Potansiyeli henüz tam olarak ortaya çıkmadı."
+      },
+      {
+        "zh": "教育可以激发孩子的潜力。",
+        "pinyin": "Jiàoyù kěyǐ jīfā háizi de qiánlì.",
+        "en": "Eğitim çocukların potansiyelini harekete geçirebilir."
+      }
+    ]
+  },
+  {
+    "id": "w5262",
+    "hanzi": "潜入",
+    "pinyin": "qiánrù",
+    "meaning": "gizlice girmek; dalmak (suya)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "小偷潜入了别人的家中。",
+        "pinyin": "Xiǎotōu qiánrù le biéren de jiāzhōng.",
+        "en": "Hırsız birinin evine gizlice girdi."
+      },
+      {
+        "zh": "潜水员潜入了海底。",
+        "pinyin": "Qiánshuǐyuán qiánrù le hǎidǐ.",
+        "en": "Dalgıç deniz dibine daldı."
+      }
+    ]
+  },
+  {
+    "id": "w5263",
+    "hanzi": "潜水",
+    "pinyin": "qiánshuǐ",
+    "meaning": "dalmak, suya girmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他们去海边潜水了。",
+        "pinyin": "Tāmen qù hǎibiān qiánshuǐ le.",
+        "en": "Deniz kenarında dalış yaptılar."
+      },
+      {
+        "zh": "潜水需要专业设备。",
+        "pinyin": "Qiánshuǐ xūyào zhuānyè shèbèi.",
+        "en": "Dalış profesyonel ekipman gerektirir."
+      },
+      {
+        "zh": "他学会了潜水。",
+        "pinyin": "Tā xuéhuì le qiánshuǐ.",
+        "en": "Dalış yapmayı öğrendi."
+      },
+      {
+        "zh": "这片海域适合潜水。",
+        "pinyin": "Zhè piàn hǎiyù shìhé qiánshuǐ.",
+        "en": "Bu deniz bölgesi dalış için uygun."
+      },
+      {
+        "zh": "我第一次尝试潜水，非常兴奋。",
+        "pinyin": "Wǒ dì yī cì chángshì qiánshuǐ, fēicháng xīngfèn.",
+        "en": "İlk defa dalış denedim, çok heyecanlıydım."
+      }
+    ]
+  },
+  {
+    "id": "w5264",
+    "hanzi": "潜意识",
+    "pinyin": "qiányìshí",
+    "meaning": "bilinçaltı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种行为来自他的潜意识。",
+        "pinyin": "Zhè zhǒng xíngwéi láizì tā de qiányìshí.",
+        "en": "Bu davranış onun bilinçaltından geliyor."
+      },
+      {
+        "zh": "梦境往往反映了潜意识。",
+        "pinyin": "Mèngjìng wǎngwǎng fǎnyìng le qiányìshí.",
+        "en": "Rüyalar genellikle bilinçaltını yansıtır."
+      }
+    ]
+  },
+  {
+    "id": "w5265",
+    "hanzi": "潜在",
+    "pinyin": "qiánzài",
+    "meaning": "potansiyel, gizli olarak var olan",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这项决定存在潜在的风险。",
+        "pinyin": "Zhè xiàng juédìng cúnzài qiánzài de fēngxiǎn.",
+        "en": "Bu kararın potansiyel riskleri var."
+      },
+      {
+        "zh": "他是一位潜在的合作伙伴。",
+        "pinyin": "Tā shì yí wèi qiánzài de hézuò huǒbàn.",
+        "en": "O potansiyel bir iş ortağı."
+      },
+      {
+        "zh": "我们需要发现潜在的问题。",
+        "pinyin": "Wǒmen xūyào fāxiàn qiánzài de wèntí.",
+        "en": "Potansiyel sorunları keşfetmemiz gerekiyor."
+      },
+      {
+        "zh": "这个地区有潜在的商机。",
+        "pinyin": "Zhège dìqū yǒu qiánzài de shāngjī.",
+        "en": "Bu bölgede potansiyel ticari fırsatlar var."
+      },
+      {
+        "zh": "他身上有潜在的领导才能。",
+        "pinyin": "Tā shēnshàng yǒu qiánzài de lǐngdǎo cáinéng.",
+        "en": "Onda potansiyel liderlik yeteneği var."
+      }
+    ]
+  },
+  {
+    "id": "w5266",
+    "hanzi": "前辈",
+    "pinyin": "qiánbèi",
+    "meaning": "büyükler, kıdemli kişi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他向前辈请教了很多经验。",
+        "pinyin": "Tā xiàng qiánbèi qǐngjiào le hěnduō jīngyàn.",
+        "en": "Kıdemlilerden birçok deneyim öğrendi."
+      },
+      {
+        "zh": "我们应该尊重前辈。",
+        "pinyin": "Wǒmen yīnggāi zūnzhòng qiánbèi.",
+        "en": "Büyüklerimize saygı göstermeliyiz."
+      },
+      {
+        "zh": "他是这个领域的前辈。",
+        "pinyin": "Tā shì zhège lǐngyù de qiánbèi.",
+        "en": "O bu alanda kıdemli bir isim."
+      },
+      {
+        "zh": "很多前辈给了我宝贵的建议。",
+        "pinyin": "Hěnduō qiánbèi gěi le wǒ bǎoguì de jiànyì.",
+        "en": "Birçok büyüğüm bana değerli tavsiyeler verdi."
+      },
+      {
+        "zh": "他一直把老师当作前辈来尊敬。",
+        "pinyin": "Tā yìzhí bǎ lǎoshī dàngzuò qiánbèi lái zūnjìng.",
+        "en": "Öğretmenine hep bir büyük olarak saygı gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w5267",
+    "hanzi": "前程",
+    "pinyin": "qiánchéng",
+    "meaning": "gelecek, istikbal",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他前程似锦，前途一片光明。",
+        "pinyin": "Tā qiánchéng sìjǐn, qiántú yípiàn guāngmíng.",
+        "en": "Geleceği parlak, önü çok aydınlık."
+      },
+      {
+        "zh": "父母希望孩子有一个好前程。",
+        "pinyin": "Fùmǔ xīwàng háizi yǒu yí ge hǎo qiánchéng.",
+        "en": "Ebeveynler çocuklarının iyi bir geleceği olmasını umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5268",
+    "hanzi": "前方",
+    "pinyin": "qiánfāng",
+    "meaning": "ön taraf, ileri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "前方有一座桥。",
+        "pinyin": "Qiánfāng yǒu yí zuò qiáo.",
+        "en": "İlerde bir köprü var."
+      },
+      {
+        "zh": "请注意前方的路况。",
+        "pinyin": "Qǐng zhùyì qiánfāng de lùkuàng.",
+        "en": "Lütfen önündeki yol durumuna dikkat edin."
+      },
+      {
+        "zh": "前方施工，车辆绕行。",
+        "pinyin": "Qiánfāng shīgōng, chēliàng ràoxíng.",
+        "en": "İlerde inşaat var, araçlar dolaşmalı."
+      },
+      {
+        "zh": "他望向前方，若有所思。",
+        "pinyin": "Tā wàng xiàng qiánfāng, ruòyǒusuǒsī.",
+        "en": "İleriye bakarak düşüncelere daldı."
+      },
+      {
+        "zh": "前方就是我们的目的地。",
+        "pinyin": "Qiánfāng jiùshì wǒmen de mùdìdì.",
+        "en": "İlerisi bizim varış noktamız."
+      }
+    ]
+  },
+  {
+    "id": "w5269",
+    "hanzi": "前锋",
+    "pinyin": "qiánfēng",
+    "meaning": "forvet (futbol); öncü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他是球队的主力前锋。",
+        "pinyin": "Tā shì qiúduì de zhǔlì qiánfēng.",
+        "en": "O, takımın ana forvetidir."
+      },
+      {
+        "zh": "前锋在最后一分钟进了球。",
+        "pinyin": "Qiánfēng zài zuìhòu yì fēnzhōng jìn le qiú.",
+        "en": "Forvet son dakikada gol attı."
+      }
+    ]
+  },
+  {
+    "id": "w5270",
+    "hanzi": "前后",
+    "pinyin": "qiánhòu",
+    "meaning": "ön ve arka; civarında (zaman için)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "春节前后天气很冷。",
+        "pinyin": "Chūnjié qiánhòu tiānqì hěn lěng.",
+        "en": "Bahar Bayramı civarında hava çok soğuk oluyor."
+      },
+      {
+        "zh": "房子前后都种了花。",
+        "pinyin": "Fángzi qiánhòu dōu zhòng le huā.",
+        "en": "Evin önüne de arkasına da çiçek dikildi."
+      },
+      {
+        "zh": "这件事前后花了三个月。",
+        "pinyin": "Zhè jiàn shì qiánhòu huā le sān ge yuè.",
+        "en": "Bu iş baştan sona üç ay sürdü."
+      },
+      {
+        "zh": "他六点前后到达。",
+        "pinyin": "Tā liù diǎn qiánhòu dàodá.",
+        "en": "Saat altı civarında varır."
+      },
+      {
+        "zh": "请检查一下前后左右的情况。",
+        "pinyin": "Qǐng jiǎnchá yíxià qiánhòu zuǒyòu de qíngkuàng.",
+        "en": "Lütfen etraftaki durumu kontrol edin."
+      }
+    ]
+  },
+  {
+    "id": "w5271",
+    "hanzi": "前景",
+    "pinyin": "qiánjǐng",
+    "meaning": "gelecek beklentisi, perspektif",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这个行业的发展前景很好。",
+        "pinyin": "Zhège hángyè de fāzhǎn qiánjǐng hěn hǎo.",
+        "en": "Bu sektörün gelişim beklentisi çok iyi."
+      },
+      {
+        "zh": "公司对未来充满信心，前景光明。",
+        "pinyin": "Gōngsī duì wèilái chōngmǎn xìnxīn, qiánjǐng guāngmíng.",
+        "en": "Şirket geleceğe güvenle bakıyor, geleceği aydınlık."
+      },
+      {
+        "zh": "他对自己的职业前景很担心。",
+        "pinyin": "Tā duì zìjǐ de zhíyè qiánjǐng hěn dānxīn.",
+        "en": "Kendi kariyer geleceği hakkında endişeleniyor."
+      },
+      {
+        "zh": "这项技术的前景非常广阔。",
+        "pinyin": "Zhè xiàng jìshù de qiánjǐng fēicháng guǎngkuò.",
+        "en": "Bu teknolojinin geleceği çok geniş."
+      },
+      {
+        "zh": "投资者看好这个市场的前景。",
+        "pinyin": "Tóuzīzhě kànhǎo zhège shìchǎng de qiánjǐng.",
+        "en": "Yatırımcılar bu pazarın geleceğini olumlu buluyor."
+      }
+    ]
+  },
+  {
+    "id": "w5272",
+    "hanzi": "前年",
+    "pinyin": "qiánnián",
+    "meaning": "önceki yıl (geçen yıldan bir önceki)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "我们前年去过北京。",
+        "pinyin": "Wǒmen qiánnián qùguò Běijīng.",
+        "en": "Önceki yıl Pekin'e gitmiştik."
+      },
+      {
+        "zh": "前年他还在读大学。",
+        "pinyin": "Qiánnián tā hái zài dú dàxué.",
+        "en": "Önceki yıl hâlâ üniversitede okuyordu."
+      },
+      {
+        "zh": "这栋楼是前年建的。",
+        "pinyin": "Zhè dòng lóu shì qiánnián jiàn de.",
+        "en": "Bu bina önceki yıl inşa edildi."
+      },
+      {
+        "zh": "前年冬天特别冷。",
+        "pinyin": "Qiánnián dōngtiān tèbié lěng.",
+        "en": "Önceki yılın kışı özellikle soğuktu."
+      },
+      {
+        "zh": "他前年才开始学中文。",
+        "pinyin": "Tā qiánnián cái kāishǐ xué Zhōngwén.",
+        "en": "Çince öğrenmeye ancak önceki yıl başladı."
+      }
+    ]
+  },
+  {
+    "id": "w5273",
+    "hanzi": "前任",
+    "pinyin": "qiánrèn",
+    "meaning": "önceki (görevde olan kişi), selef",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "新经理接替了前任的工作。",
+        "pinyin": "Xīn jīnglǐ jiētì le qiánrèn de gōngzuò.",
+        "en": "Yeni müdür, öncekinin işini devraldı."
+      },
+      {
+        "zh": "前任市长为这座城市做出了很多贡献。",
+        "pinyin": "Qiánrèn shìzhǎng wèi zhè zuò chéngshì zuòchū le hěnduō gòngxiàn.",
+        "en": "Önceki belediye başkanı bu şehre birçok katkıda bulundu."
+      }
+    ]
+  },
+  {
+    "id": "w5274",
+    "hanzi": "前提",
+    "pinyin": "qiántí",
+    "meaning": "ön koşul, önkoşul",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "安全是工作的前提。",
+        "pinyin": "Ānquán shì gōngzuò de qiántí.",
+        "en": "Güvenlik, işin ön koşuludur."
+      },
+      {
+        "zh": "信任是合作的前提。",
+        "pinyin": "Xìnrèn shì hézuò de qiántí.",
+        "en": "Güven, işbirliğinin ön koşuludur."
+      },
+      {
+        "zh": "在保证质量的前提下，我们要提高效率。",
+        "pinyin": "Zài bǎozhèng zhìliàng de qiántí xià, wǒmen yào tígāo xiàolǜ.",
+        "en": "Kaliteyi garanti etme koşuluyla verimliliği artırmalıyız."
+      },
+      {
+        "zh": "健康是幸福生活的前提。",
+        "pinyin": "Jiànkāng shì xìngfú shēnghuó de qiántí.",
+        "en": "Sağlık, mutlu bir yaşamın ön koşuludur."
+      },
+      {
+        "zh": "这个前提并不成立。",
+        "pinyin": "Zhège qiántí bìngbù chénglì.",
+        "en": "Bu ön koşul geçerli değil."
+      }
+    ]
+  },
+  {
+    "id": "w5275",
+    "hanzi": "前线",
+    "pinyin": "qiánxiàn",
+    "meaning": "cephe hattı",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "士兵们被派往前线作战。",
+        "pinyin": "Shìbīngmen bèi pàiwǎng qiánxiàn zuòzhàn.",
+        "en": "Askerler savaşmak için cepheye gönderildi."
+      },
+      {
+        "zh": "医生们也奋战在抗疫前线。",
+        "pinyin": "Yīshēngmen yě fènzhàn zài kàngyì qiánxiàn.",
+        "en": "Doktorlar da salgınla mücadele cephesinde savaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5276",
+    "hanzi": "前言",
+    "pinyin": "qiányán",
+    "meaning": "önsöz",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "这本书的前言介绍了写作背景。",
+        "pinyin": "Zhè běn shū de qiányán jièshào le xiězuò bèijǐng.",
+        "en": "Bu kitabın önsözü yazılış arka planını tanıtıyor."
+      },
+      {
+        "zh": "作者在前言中感谢了很多人。",
+        "pinyin": "Zuòzhě zài qiányán zhōng gǎnxiè le hěnduō rén.",
+        "en": "Yazar önsözde birçok kişiye teşekkür etti."
+      }
+    ]
+  },
+  {
+    "id": "w5277",
+    "hanzi": "前者",
+    "pinyin": "qiánzhě",
+    "meaning": "öncesi (bahsedilen ilk şey/kişi)",
+    "partOfSpeech": "zamir",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这两个方案中，我更喜欢前者。",
+        "pinyin": "Zhè liǎng ge fāng'àn zhōng, wǒ gèng xǐhuan qiánzhě.",
+        "en": "Bu iki planın arasında birinciyi daha çok tercih ediyorum."
+      },
+      {
+        "zh": "前者比后者更实用。",
+        "pinyin": "Qiánzhě bǐ hòuzhě gèng shíyòng.",
+        "en": "Birincisi ikincisinden daha kullanışlı."
+      },
+      {
+        "zh": "前者是原因，后者是结果。",
+        "pinyin": "Qiánzhě shì yuányīn, hòuzhě shì jiéguǒ.",
+        "en": "Birincisi sebep, ikincisi ise sonuçtur."
+      },
+      {
+        "zh": "前者的价格更便宜。",
+        "pinyin": "Qiánzhě de jiàgé gèng piányi.",
+        "en": "Birincisinin fiyatı daha ucuz."
+      },
+      {
+        "zh": "他选择了前者，而不是后者。",
+        "pinyin": "Tā xuǎnzé le qiánzhě, ér búshì hòuzhě.",
+        "en": "İkincisi değil, birincisini seçti."
+      }
+    ]
+  },
+  {
+    "id": "w5278",
+    "hanzi": "前缀",
+    "pinyin": "qiánzhuì",
+    "meaning": "önek",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "这个单词有一个否定前缀。",
+        "pinyin": "Zhège dāncí yǒu yí ge fǒudìng qiánzhuì.",
+        "en": "Bu kelimenin olumsuzluk öneki var."
+      },
+      {
+        "zh": "学习前缀有助于理解生词。",
+        "pinyin": "Xuéxí qiánzhuì yǒuzhùyú lǐjiě shēngcí.",
+        "en": "Önekleri öğrenmek yeni kelimeleri anlamaya yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w5279",
+    "hanzi": "欠缺",
+    "pinyin": "qiànquē",
+    "meaning": "eksik olmak, eksiklik",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他在这方面还欠缺经验。",
+        "pinyin": "Tā zài zhè fāngmiàn hái qiànquē jīngyàn.",
+        "en": "Bu konuda hâlâ deneyim eksikliği var."
+      },
+      {
+        "zh": "这个计划欠缺周密的考虑。",
+        "pinyin": "Zhège jìhuà qiànquē zhōumì de kǎolǜ.",
+        "en": "Bu planda ayrıntılı bir değerlendirme eksik."
+      }
+    ]
+  },
+  {
+    "id": "w5280",
+    "hanzi": "枪声",
+    "pinyin": "qiāngshēng",
+    "meaning": "silah sesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "远处传来一声枪声。",
+        "pinyin": "Yuǎnchù chuánlái yì shēng qiāngshēng.",
+        "en": "Uzaktan bir silah sesi geldi."
+      },
+      {
+        "zh": "听到枪声，大家都躲了起来。",
+        "pinyin": "Tīngdào qiāngshēng, dàjiā dōu duǒ le qǐlái.",
+        "en": "Silah sesini duyunca herkes saklandı."
+      },
+      {
+        "zh": "枪声打破了夜晚的宁静。",
+        "pinyin": "Qiāngshēng dǎpò le yèwǎn de níngjìng.",
+        "en": "Silah sesi gecenin sessizliğini bozdu."
+      },
+      {
+        "zh": "电影中枪声不断。",
+        "pinyin": "Diànyǐng zhōng qiāngshēng búduàn.",
+        "en": "Filmde sürekli silah sesleri duyuluyor."
+      },
+      {
+        "zh": "警察循着枪声赶到了现场。",
+        "pinyin": "Jǐngchá xúnzhe qiāngshēng gǎndào le xiànchǎng.",
+        "en": "Polis silah sesini izleyerek olay yerine ulaştı."
+      }
+    ]
   }
 ]

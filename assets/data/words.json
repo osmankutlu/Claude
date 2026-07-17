@@ -185536,5 +185536,848 @@
         "en": "Köylüler tarlaları kaynak suyuyla sulıyor."
       }
     ]
+  },
+  {
+    "id": "w5393",
+    "hanzi": "犬",
+    "pinyin": "quǎn",
+    "meaning": "köpek",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "警犬能帮助警察破案。",
+        "pinyin": "Jǐngquǎn néng bāngzhù jǐngchá pò'àn.",
+        "en": "Polis köpekleri, polisin dava çözmesine yardımcı olabilir."
+      },
+      {
+        "zh": "这是一只训练有素的猎犬。",
+        "pinyin": "Zhè shì yì zhī xùnliàn yǒusù de lièquǎn.",
+        "en": "Bu iyi eğitilmiş bir av köpeğidir."
+      }
+    ]
+  },
+  {
+    "id": "w5394",
+    "hanzi": "券",
+    "pinyin": "quàn",
+    "meaning": "bilet, kupon",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他拿到了一张优惠券。",
+        "pinyin": "Tā nádào le yì zhāng yōuhuìquàn.",
+        "en": "Bir indirim kuponu aldı."
+      },
+      {
+        "zh": "这张代金券可以抵现金用。",
+        "pinyin": "Zhè zhāng dàijīnquàn kěyǐ dǐ xiànjīn yòng.",
+        "en": "Bu hediye çeki nakit para yerine kullanılabilir."
+      },
+      {
+        "zh": "商场发放了购物券。",
+        "pinyin": "Shāngchǎng fāfàng le gòuwùquàn.",
+        "en": "Alışveriş merkezi alışveriş kuponu dağıttı."
+      },
+      {
+        "zh": "他用彩票中的奖券兑换了礼物。",
+        "pinyin": "Tā yòng cǎipiào zhōng de jiǎngquàn duìhuàn le lǐwù.",
+        "en": "Piyango ödül kuponuyla hediye aldı."
+      },
+      {
+        "zh": "请出示您的入场券。",
+        "pinyin": "Qǐng chūshì nín de rùchǎngquàn.",
+        "en": "Lütfen giriş biletinizi gösterin."
+      }
+    ]
+  },
+  {
+    "id": "w5395",
+    "hanzi": "劝告",
+    "pinyin": "quàngào",
+    "meaning": "uyarmak, tavsiye etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "医生劝告他戒烟。",
+        "pinyin": "Yīshēng quàngào tā jièyān.",
+        "en": "Doktor sigarayı bırakmasını tavsiye etti."
+      },
+      {
+        "zh": "父母的劝告他总是听不进去。",
+        "pinyin": "Fùmǔ de quàngào tā zǒngshì tīngbújìnqù.",
+        "en": "Ebeveynlerinin tavsiyelerini hiç dinlemiyor."
+      },
+      {
+        "zh": "我劝告你不要冲动。",
+        "pinyin": "Wǒ quàngào nǐ búyào chōngdòng.",
+        "en": "Aceleci davranmamanı tavsiye ederim."
+      },
+      {
+        "zh": "老师劝告学生要努力学习。",
+        "pinyin": "Lǎoshī quàngào xuésheng yào nǔlì xuéxí.",
+        "en": "Öğretmen öğrencilere çok çalışmaları için tavsiyede bulundu."
+      },
+      {
+        "zh": "他没有听从朋友的劝告。",
+        "pinyin": "Tā méiyǒu tīngcóng péngyou de quàngào.",
+        "en": "Arkadaşının tavsiyesini dinlemedi."
+      }
+    ]
+  },
+  {
+    "id": "w5396",
+    "hanzi": "劝说",
+    "pinyin": "quànshuō",
+    "meaning": "ikna etmek, inandırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他劝说朋友放弃了这个想法。",
+        "pinyin": "Tā quànshuō péngyou fàngqì le zhège xiǎngfǎ.",
+        "en": "Arkadaşını bu fikirden vazgeçmesi için ikna etti."
+      },
+      {
+        "zh": "经过反复劝说，她终于同意了。",
+        "pinyin": "Jīngguò fǎnfù quànshuō, tā zhōngyú tóngyì le.",
+        "en": "Defalarca ikna edildikten sonra sonunda kabul etti."
+      },
+      {
+        "zh": "他花了很大力气劝说父母。",
+        "pinyin": "Tā huā le hěn dà lìqi quànshuō fùmǔ.",
+        "en": "Ebeveynlerini ikna etmek için çok çaba harcadı."
+      },
+      {
+        "zh": "老师耐心地劝说他改正错误。",
+        "pinyin": "Lǎoshī nàixīn de quànshuō tā gǎizhèng cuòwù.",
+        "en": "Öğretmen sabırla onu hatasını düzeltmesi için ikna etti."
+      },
+      {
+        "zh": "他试图劝说大家改变计划。",
+        "pinyin": "Tā shìtú quànshuō dàjiā gǎibiàn jìhuà.",
+        "en": "Herkesi planı değiştirmesi için ikna etmeye çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w5397",
+    "hanzi": "劝阻",
+    "pinyin": "quànzǔ",
+    "meaning": "vazgeçirmek, caydırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "朋友们极力劝阻他的冒险计划。",
+        "pinyin": "Péngyoumen jílì quànzǔ tā de màoxiǎn jìhuà.",
+        "en": "Arkadaşları onu riskli planından vazgeçirmek için çok çaba gösterdi."
+      },
+      {
+        "zh": "警察劝阻了想要跳楼的男子。",
+        "pinyin": "Jǐngchá quànzǔ le xiǎng yào tiàolóu de nánzǐ.",
+        "en": "Polis binadan atlamak isteyen adamı vazgeçirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5398",
+    "hanzi": "缺德",
+    "pinyin": "quēdé",
+    "meaning": "ahlaksız, adi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做出这种缺德的事真让人气愤。",
+        "pinyin": "Tā zuòchū zhè zhǒng quēdé de shì zhēn ràng rén qìfèn.",
+        "en": "Böyle ahlaksız bir şey yapması gerçekten insanı öfkelendiriyor."
+      },
+      {
+        "zh": "偷别人东西是很缺德的行为。",
+        "pinyin": "Tōu biéren dōngxi shì hěn quēdé de xíngwéi.",
+        "en": "Başkalarının eşyalarını çalmak çok ahlaksız bir davranıştır."
+      }
+    ]
+  },
+  {
+    "id": "w5399",
+    "hanzi": "确保",
+    "pinyin": "quèbǎo",
+    "meaning": "garantiye almak, sağlama almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我们要确保产品的质量。",
+        "pinyin": "Wǒmen yào quèbǎo chǎnpǐn de zhìliàng.",
+        "en": "Ürün kalitesini garanti altına almalıyız."
+      },
+      {
+        "zh": "请确保门窗关好了。",
+        "pinyin": "Qǐng quèbǎo ménchuāng guānhǎo le.",
+        "en": "Lütfen kapı ve pencerelerin kapalı olduğundan emin olun."
+      },
+      {
+        "zh": "学校确保学生的安全。",
+        "pinyin": "Xuéxiào quèbǎo xuésheng de ānquán.",
+        "en": "Okul öğrencilerin güvenliğini sağlama altına alıyor."
+      },
+      {
+        "zh": "为了确保成功，他做了充分的准备。",
+        "pinyin": "Wèile quèbǎo chénggōng, tā zuò le chōngfèn de zhǔnbèi.",
+        "en": "Başarıyı garantiye almak için yeterince hazırlandı."
+      },
+      {
+        "zh": "公司确保按时交货。",
+        "pinyin": "Gōngsī quèbǎo ànshí jiāohuò.",
+        "en": "Şirket teslimatın zamanında yapılacağını garanti ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5400",
+    "hanzi": "确切",
+    "pinyin": "quèqiè",
+    "meaning": "kesin, net",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他没有给出确切的答案。",
+        "pinyin": "Tā méiyǒu gěichū quèqiè de dá'àn.",
+        "en": "Kesin bir cevap vermedi."
+      },
+      {
+        "zh": "请提供确切的时间和地点。",
+        "pinyin": "Qǐng tígōng quèqiè de shíjiān hé dìdiǎn.",
+        "en": "Lütfen kesin zaman ve yeri belirtin."
+      }
+    ]
+  },
+  {
+    "id": "w5401",
+    "hanzi": "确信",
+    "pinyin": "quèxìn",
+    "meaning": "kesinlikle inanmak, emin olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "我确信他不会说谎。",
+        "pinyin": "Wǒ quèxìn tā búhuì shuōhuǎng.",
+        "en": "Yalan söylemeyeceğinden eminim."
+      },
+      {
+        "zh": "她确信自己做出了正确的选择。",
+        "pinyin": "Tā quèxìn zìjǐ zuòchū le zhèngquè de xuǎnzé.",
+        "en": "Doğru seçimi yaptığından emin."
+      },
+      {
+        "zh": "我们确信这个方案是可行的。",
+        "pinyin": "Wǒmen quèxìn zhège fāng'àn shì kěxíng de.",
+        "en": "Bu planın uygulanabilir olduğundan eminiz."
+      },
+      {
+        "zh": "他确信自己能通过考试。",
+        "pinyin": "Tā quèxìn zìjǐ néng tōngguò kǎoshì.",
+        "en": "Sınavı geçeceğinden emin."
+      },
+      {
+        "zh": "我确信明天会是晴天。",
+        "pinyin": "Wǒ quèxìn míngtiān huì shì qíngtiān.",
+        "en": "Yarının güneşli olacağından eminim."
+      }
+    ]
+  },
+  {
+    "id": "w5402",
+    "hanzi": "确诊",
+    "pinyin": "quèzhěn",
+    "meaning": "kesin teşhis koymak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生确诊了他的病情。",
+        "pinyin": "Yīshēng quèzhěn le tā de bìngqíng.",
+        "en": "Doktor onun hastalığına kesin teşhis koydu."
+      },
+      {
+        "zh": "他被确诊为感冒。",
+        "pinyin": "Tā bèi quèzhěn wéi gǎnmào.",
+        "en": "Grip teşhisi kondu."
+      }
+    ]
+  },
+  {
+    "id": "w5403",
+    "hanzi": "裙",
+    "pinyin": "qún",
+    "meaning": "etek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "她穿着一条红裙子。",
+        "pinyin": "Tā chuānzhe yì tiáo hóng qúnzi.",
+        "en": "Kırmızı bir etek giyiyor."
+      },
+      {
+        "zh": "这条裙子很适合你。",
+        "pinyin": "Zhè tiáo qúnzi hěn shìhé nǐ.",
+        "en": "Bu etek sana çok yakışıyor."
+      },
+      {
+        "zh": "她买了一条新的短裙。",
+        "pinyin": "Tā mǎi le yì tiáo xīn de duǎnqún.",
+        "en": "Yeni bir mini etek aldı."
+      },
+      {
+        "zh": "夏天她喜欢穿裙子。",
+        "pinyin": "Xiàtiān tā xǐhuan chuān qúnzi.",
+        "en": "Yazın etek giymeyi sever."
+      },
+      {
+        "zh": "这条裙子的颜色很漂亮。",
+        "pinyin": "Zhè tiáo qúnzi de yánsè hěn piàoliang.",
+        "en": "Bu eteğin rengi çok güzel."
+      }
+    ]
+  },
+  {
+    "id": "w5404",
+    "hanzi": "群岛",
+    "pinyin": "qúndǎo",
+    "meaning": "takım ada",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这个群岛由几十座小岛组成。",
+        "pinyin": "Zhège qúndǎo yóu jǐshí zuò xiǎodǎo zǔchéng.",
+        "en": "Bu takım ada onlarca küçük adadan oluşuyor."
+      },
+      {
+        "zh": "游客们喜欢来这个群岛度假。",
+        "pinyin": "Yóukèmen xǐhuan lái zhège qúndǎo dùjià.",
+        "en": "Turistler bu takım adada tatil yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5405",
+    "hanzi": "群众",
+    "pinyin": "qúnzhòng",
+    "meaning": "kitle, halk",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "广场上聚集了大批群众。",
+        "pinyin": "Guǎngchǎng shàng jùjí le dàpī qúnzhòng.",
+        "en": "Meydanda büyük bir kalabalık toplandı."
+      },
+      {
+        "zh": "政府要倾听群众的意见。",
+        "pinyin": "Zhèngfǔ yào qīngtīng qúnzhòng de yìjiàn.",
+        "en": "Hükümet halkın görüşlerini dinlemeli."
+      },
+      {
+        "zh": "这项政策得到了群众的支持。",
+        "pinyin": "Zhè xiàng zhèngcè dédào le qúnzhòng de zhīchí.",
+        "en": "Bu politika halkın desteğini aldı."
+      },
+      {
+        "zh": "群众们纷纷议论这件事。",
+        "pinyin": "Qúnzhòngmen fēnfēn yìlùn zhè jiàn shì.",
+        "en": "Halk bu konu hakkında birbiriyle konuşuyor."
+      },
+      {
+        "zh": "干部要密切联系群众。",
+        "pinyin": "Gànbù yào mìqiè liánxì qúnzhòng.",
+        "en": "Yetkililer halkla yakın ilişki içinde olmalı."
+      }
+    ]
+  },
+  {
+    "id": "w5406",
+    "hanzi": "燃料",
+    "pinyin": "ránliào",
+    "meaning": "yakıt, yakacak",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "汽车需要燃料才能行驶。",
+        "pinyin": "Qìchē xūyào ránliào cáinéng xíngshǐ.",
+        "en": "Araba, hareket edebilmek için yakıta ihtiyaç duyar."
+      },
+      {
+        "zh": "石油是一种重要的燃料。",
+        "pinyin": "Shíyóu shì yì zhǒng zhòngyào de ránliào.",
+        "en": "Petrol önemli bir yakıttır."
+      },
+      {
+        "zh": "这种新型燃料更加环保。",
+        "pinyin": "Zhè zhǒng xīnxíng ránliào gèngjiā huánbǎo.",
+        "en": "Bu yeni tip yakıt daha çevre dostudur."
+      },
+      {
+        "zh": "飞机起飞前需要加满燃料。",
+        "pinyin": "Fēijī qǐfēi qián xūyào jiāmǎn ránliào.",
+        "en": "Uçak kalkmadan önce yakıtı doldurulmalı."
+      },
+      {
+        "zh": "燃料价格最近上涨了。",
+        "pinyin": "Ránliào jiàgé zuìjìn shàngzhǎng le.",
+        "en": "Yakıt fiyatları son zamanlarda arttı."
+      }
+    ]
+  },
+  {
+    "id": "w5407",
+    "hanzi": "染",
+    "pinyin": "rǎn",
+    "meaning": "boyamak; (hastalığa) yakalanmak, bulaşmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她把头发染成了棕色。",
+        "pinyin": "Tā bǎ tóufa rǎnchéng le zōngsè.",
+        "en": "Saçını kahverengiye boyadı."
+      },
+      {
+        "zh": "他不小心染上了感冒。",
+        "pinyin": "Tā bùxiǎoxīn rǎnshàng le gǎnmào.",
+        "en": "Yanlışlıkla gribe yakalandı."
+      },
+      {
+        "zh": "衣服被墨水染脏了。",
+        "pinyin": "Yīfu bèi mòshuǐ rǎnzāng le.",
+        "en": "Kıyafet mürekkeple lekelendi."
+      },
+      {
+        "zh": "秋天的树叶被染成了红色。",
+        "pinyin": "Qiūtiān de shùyè bèi rǎnchéng le hóngsè.",
+        "en": "Sonbaharın yaprakları kırmızıya boyandı."
+      },
+      {
+        "zh": "他染了一头黑发。",
+        "pinyin": "Tā rǎn le yì tóu hēifà.",
+        "en": "Saçını siyaha boyadı."
+      }
+    ]
+  },
+  {
+    "id": "w5408",
+    "hanzi": "染料",
+    "pinyin": "rǎnliào",
+    "meaning": "boya malzemesi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这种染料对皮肤有害。",
+        "pinyin": "Zhè zhǒng rǎnliào duì pífū yǒuhài.",
+        "en": "Bu boya malzemesi cilde zararlıdır."
+      },
+      {
+        "zh": "工厂生产各种颜色的染料。",
+        "pinyin": "Gōngchǎng shēngchǎn gèzhǒng yánsè de rǎnliào.",
+        "en": "Fabrika çeşitli renklerde boya malzemesi üretiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5409",
+    "hanzi": "让步",
+    "pinyin": "ràngbù",
+    "meaning": "taviz vermek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "双方都做出了一些让步。",
+        "pinyin": "Shuāngfāng dōu zuòchū le yìxiē ràngbù.",
+        "en": "Her iki taraf da bazı tavizler verdi."
+      },
+      {
+        "zh": "他在这个问题上不会让步。",
+        "pinyin": "Tā zài zhège wèntí shàng búhuì ràngbù.",
+        "en": "Bu konuda taviz vermeyecek."
+      },
+      {
+        "zh": "为了达成协议，他们互相让步。",
+        "pinyin": "Wèile dáchéng xiéyì, tāmen hùxiāng ràngbù.",
+        "en": "Anlaşmaya varmak için birbirlerine taviz verdiler."
+      },
+      {
+        "zh": "老板最终对员工的要求做出了让步。",
+        "pinyin": "Lǎobǎn zuìzhōng duì yuángōng de yāoqiú zuòchū le ràngbù.",
+        "en": "Patron sonunda çalışanların taleplerine taviz verdi."
+      },
+      {
+        "zh": "在原则问题上不能让步。",
+        "pinyin": "Zài yuánzé wèntí shàng bùnéng ràngbù.",
+        "en": "İlke meselelerinde taviz verilemez."
+      }
+    ]
+  },
+  {
+    "id": "w5410",
+    "hanzi": "热带",
+    "pinyin": "rèdài",
+    "meaning": "tropikal bölge",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "热带地区气候炎热潮湿。",
+        "pinyin": "Rèdài dìqū qìhòu yánrè cháoshī.",
+        "en": "Tropikal bölgelerde iklim sıcak ve nemlidir."
+      },
+      {
+        "zh": "这种植物只生长在热带地区。",
+        "pinyin": "Zhè zhǒng zhíwù zhǐ shēngzhǎng zài rèdài dìqū.",
+        "en": "Bu bitki sadece tropikal bölgelerde yetişir."
+      },
+      {
+        "zh": "他们去热带岛屿度假了。",
+        "pinyin": "Tāmen qù rèdài dǎoyǔ dùjià le.",
+        "en": "Tropikal bir adaya tatile gittiler."
+      },
+      {
+        "zh": "热带雨林是许多物种的家园。",
+        "pinyin": "Rèdài yǔlín shì hěnduō wùzhǒng de jiāyuán.",
+        "en": "Tropikal yağmur ormanı birçok türün yuvasıdır."
+      },
+      {
+        "zh": "热带水果种类繁多。",
+        "pinyin": "Rèdài shuǐguǒ zhǒnglèi fánduō.",
+        "en": "Tropikal meyve çeşitleri oldukça fazladır."
+      }
+    ]
+  },
+  {
+    "id": "w5411",
+    "hanzi": "热恋",
+    "pinyin": "rèliàn",
+    "meaning": "aşık olma, çılgınca aşık olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他们正处于热恋之中。",
+        "pinyin": "Tāmen zhèng chǔyú rèliàn zhīzhōng.",
+        "en": "Şu anda çılgınca birbirlerine aşıklar."
+      },
+      {
+        "zh": "热恋中的情侣总是形影不离。",
+        "pinyin": "Rèliàn zhōng de qínglǚ zǒngshì xíngyǐngbùlí.",
+        "en": "Aşık çiftler her zaman birbirinden ayrılmaz."
+      }
+    ]
+  },
+  {
+    "id": "w5412",
+    "hanzi": "热量",
+    "pinyin": "rèliàng",
+    "meaning": "kalori, ısı miktarı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这种食物热量很高。",
+        "pinyin": "Zhè zhǒng shíwù rèliàng hěn gāo.",
+        "en": "Bu yiyecek yüksek kalorilidir."
+      },
+      {
+        "zh": "运动可以消耗多余的热量。",
+        "pinyin": "Yùndòng kěyǐ xiāohào duōyú de rèliàng.",
+        "en": "Egzersiz fazla kaloriyi tüketebilir."
+      },
+      {
+        "zh": "太阳释放出巨大的热量。",
+        "pinyin": "Tàiyáng shìfàng chū jùdà de rèliàng.",
+        "en": "Güneş büyük miktarda ısı yayıyor."
+      },
+      {
+        "zh": "他每天都会计算摄入的热量。",
+        "pinyin": "Tā měitiān dōu huì jìsuàn shèrù de rèliàng.",
+        "en": "Her gün aldığı kaloriyi hesaplıyor."
+      },
+      {
+        "zh": "这份沙拉热量很低。",
+        "pinyin": "Zhè fèn shālā rèliàng hěn dī.",
+        "en": "Bu salata düşük kalorilidir."
+      }
+    ]
+  },
+  {
+    "id": "w5413",
+    "hanzi": "热门",
+    "pinyin": "rèmén",
+    "meaning": "popüler, rağbet gören",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这是今年最热门的电影。",
+        "pinyin": "Zhè shì jīnnián zuì rèmén de diànyǐng.",
+        "en": "Bu yılın en popüler filmi budur."
+      },
+      {
+        "zh": "计算机专业是一个热门专业。",
+        "pinyin": "Jìsuànjī zhuānyè shì yí ge rèmén zhuānyè.",
+        "en": "Bilgisayar bölümü popüler bir bölümdür."
+      },
+      {
+        "zh": "这个话题最近很热门。",
+        "pinyin": "Zhège huàtí zuìjìn hěn rèmén.",
+        "en": "Bu konu son zamanlarda çok popüler."
+      },
+      {
+        "zh": "热门景点总是人山人海。",
+        "pinyin": "Rèmén jǐngdiǎn zǒngshì rénshānrénhǎi.",
+        "en": "Popüler turistik yerler her zaman çok kalabalık olur."
+      },
+      {
+        "zh": "这款游戏最近特别热门。",
+        "pinyin": "Zhè kuǎn yóuxì zuìjìn tèbié rèmén.",
+        "en": "Bu oyun son zamanlarda çok popüler."
+      }
+    ]
+  },
+  {
+    "id": "w5414",
+    "hanzi": "人格",
+    "pinyin": "réngé",
+    "meaning": "kişilik, karakter, şahsiyet",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他有着高尚的人格。",
+        "pinyin": "Tā yǒuzhe gāoshàng de réngé.",
+        "en": "Yüksek bir karaktere sahip."
+      },
+      {
+        "zh": "我们应该尊重每个人的人格。",
+        "pinyin": "Wǒmen yīnggāi zūnzhòng měigerén de réngé.",
+        "en": "Her insanın kişiliğine saygı göstermeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w5415",
+    "hanzi": "人际关系",
+    "pinyin": "rénjì guānxì",
+    "meaning": "kişilerarası ilişkiler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "良好的人际关系对工作很重要。",
+        "pinyin": "Liánghǎo de rénjì guānxì duì gōngzuò hěn zhòngyào.",
+        "en": "İyi kişilerarası ilişkiler iş için çok önemlidir."
+      },
+      {
+        "zh": "他不擅长处理人际关系。",
+        "pinyin": "Tā bú shàncháng chǔlǐ rénjì guānxì.",
+        "en": "Kişilerarası ilişkileri yönetmede iyi değil."
+      },
+      {
+        "zh": "大学生活能锻炼人际关系能力。",
+        "pinyin": "Dàxué shēnghuó néng duànliàn rénjì guānxì nénglì.",
+        "en": "Üniversite hayatı kişilerarası ilişki becerilerini geliştirebilir."
+      },
+      {
+        "zh": "复杂的人际关系让他很烦恼。",
+        "pinyin": "Fùzá de rénjì guānxì ràng tā hěn fánnǎo.",
+        "en": "Karmaşık kişilerarası ilişkiler onu çok rahatsız ediyor."
+      },
+      {
+        "zh": "她在公司里人际关系很好。",
+        "pinyin": "Tā zài gōngsī lǐ rénjì guānxì hěn hǎo.",
+        "en": "Şirkette kişilerarası ilişkileri çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w5416",
+    "hanzi": "人力",
+    "pinyin": "rénlì",
+    "meaning": "insan gücü, iş gücü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这项工程需要大量人力。",
+        "pinyin": "Zhè xiàng gōngchéng xūyào dàliàng rénlì.",
+        "en": "Bu proje büyük miktarda iş gücü gerektirir."
+      },
+      {
+        "zh": "公司缺乏足够的人力资源。",
+        "pinyin": "Gōngsī quēfá zúgòu de rénlì zīyuán.",
+        "en": "Şirketin yeterli insan kaynağı eksik."
+      },
+      {
+        "zh": "这不是人力所能控制的。",
+        "pinyin": "Zhè búshì rénlì suǒ néng kòngzhì de.",
+        "en": "Bu, insan gücüyle kontrol edilebilecek bir şey değil."
+      },
+      {
+        "zh": "他们投入了大量人力物力。",
+        "pinyin": "Tāmen tóurù le dàliàng rénlì wùlì.",
+        "en": "Büyük miktarda insan gücü ve kaynak yatırdılar."
+      },
+      {
+        "zh": "人力成本逐年上升。",
+        "pinyin": "Rénlì chéngběn zhúnián shàngshēng.",
+        "en": "İş gücü maliyeti yıldan yıla artıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5417",
+    "hanzi": "人品",
+    "pinyin": "rénpǐn",
+    "meaning": "ahlaki kişilik, karakter",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的人品很好，大家都信任他。",
+        "pinyin": "Tā de rénpǐn hěn hǎo, dàjiā dōu xìnrèn tā.",
+        "en": "Karakteri çok iyi, herkes ona güveniyor."
+      },
+      {
+        "zh": "选择朋友要看人品。",
+        "pinyin": "Xuǎnzé péngyou yào kàn rénpǐn.",
+        "en": "Arkadaş seçerken karaktere bakmak gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w5418",
+    "hanzi": "人情",
+    "pinyin": "rénqíng",
+    "meaning": "insani duygular; iyilik, lütuf",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他这个人很讲人情。",
+        "pinyin": "Tā zhège rén hěn jiǎng rénqíng.",
+        "en": "O çok insani duygulara önem veren biri."
+      },
+      {
+        "zh": "帮了这个忙，他欠我一个人情。",
+        "pinyin": "Bāng le zhège máng, tā qiàn wǒ yí ge rénqíng.",
+        "en": "Bu yardımı yaptığı için bana bir iyilik borçlu."
+      },
+      {
+        "zh": "人情往来是中国文化的重要部分。",
+        "pinyin": "Rénqíng wǎnglái shì Zhōngguó wénhuà de zhòngyào bùfen.",
+        "en": "Karşılıklı iyilikler Çin kültürünün önemli bir parçasıdır."
+      },
+      {
+        "zh": "他做事很讲人情味。",
+        "pinyin": "Tā zuòshì hěn jiǎng rénqíngwèi.",
+        "en": "İşlerini insani duyarlılıkla yapıyor."
+      },
+      {
+        "zh": "这是人之常情。",
+        "pinyin": "Zhè shì rénzhīchángqíng.",
+        "en": "Bu insan doğasında olan bir şeydir."
+      }
+    ]
+  },
+  {
+    "id": "w5419",
+    "hanzi": "人权",
+    "pinyin": "rénquán",
+    "meaning": "insan hakları",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "每个人都应该享有基本人权。",
+        "pinyin": "Měigerén dōu yīnggāi xiǎngyǒu jīběn rénquán.",
+        "en": "Herkes temel insan haklarına sahip olmalıdır."
+      },
+      {
+        "zh": "该组织致力于保护人权。",
+        "pinyin": "Gāi zǔzhī zhìlì yú bǎohù rénquán.",
+        "en": "Bu kuruluş insan haklarını korumaya adanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w5420",
+    "hanzi": "人群",
+    "pinyin": "rénqún",
+    "meaning": "insan topluluğu, kalabalık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "广场上挤满了人群。",
+        "pinyin": "Guǎngchǎng shàng jǐmǎn le rénqún.",
+        "en": "Meydan kalabalıkla dolup taştı."
+      },
+      {
+        "zh": "他从人群中挤了出来。",
+        "pinyin": "Tā cóng rénqún zhōng jǐ le chūlái.",
+        "en": "Kalabalığın arasından itile itile çıktı."
+      },
+      {
+        "zh": "人群渐渐散去了。",
+        "pinyin": "Rénqún jiànjiàn sànqù le.",
+        "en": "Kalabalık yavaş yavaş dağıldı."
+      },
+      {
+        "zh": "他在人群中寻找自己的朋友。",
+        "pinyin": "Tā zài rénqún zhōng xúnzhǎo zìjǐ de péngyou.",
+        "en": "Kalabalıkta kendi arkadaşını arıyor."
+      },
+      {
+        "zh": "这种疾病主要影响老年人群。",
+        "pinyin": "Zhè zhǒng jíbìng zhǔyào yǐngxiǎng lǎonián rénqún.",
+        "en": "Bu hastalık esas olarak yaşlı nüfusu etkiliyor."
+      }
+    ]
   }
 ]

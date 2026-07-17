@@ -173767,5 +173767,833 @@
         "en": "Tarladaki toprak son derece bereketli."
       }
     ]
+  },
+  {
+    "id": "w5024",
+    "hanzi": "泥泞",
+    "pinyin": "níníng",
+    "meaning": "Çamurlu",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "下雨后道路变得十分泥泞。",
+        "pinyin": "Xiàyǔ hòu dàolù biàn de shífēn níníng.",
+        "en": "Yağmurdan sonra yol çok çamurlu hale geldi."
+      },
+      {
+        "zh": "他们在泥泞的小路上艰难前行。",
+        "pinyin": "Tāmen zài níníng de xiǎolù shàng jiānnán qiánxíng.",
+        "en": "Çamurlu patikada zorlukla ilerliyorlardı."
+      },
+      {
+        "zh": "泥泞的田地让农民很难耕种。",
+        "pinyin": "Níníng de tiándì ràng nóngmín hěn nán gēngzhòng.",
+        "en": "Çamurlu tarla çiftçinin ekim yapmasını zorlaştırıyor."
+      },
+      {
+        "zh": "山路又陡又泥泞。",
+        "pinyin": "Shānlù yòu dǒu yòu níníng.",
+        "en": "Dağ yolu hem dik hem de çamurlu."
+      },
+      {
+        "zh": "他的鞋子陷进了泥泞的土地。",
+        "pinyin": "Tā de xiézi xiànjìn le níníng de tǔdì.",
+        "en": "Ayakkabısı çamurlu toprağa saplandı."
+      }
+    ]
+  },
+  {
+    "id": "w5025",
+    "hanzi": "泥土",
+    "pinyin": "nítǔ",
+    "meaning": "Toprak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他把种子埋进了泥土。",
+        "pinyin": "Tā bǎ zhǒngzi máijìn le nítǔ.",
+        "en": "Tohumu toprağa gömdü."
+      },
+      {
+        "zh": "雨后泥土散发着清新的气息。",
+        "pinyin": "Yǔ hòu nítǔ sànfāzhe qīngxīn de qìxī.",
+        "en": "Yağmurdan sonra toprak taze bir koku yayıyor."
+      },
+      {
+        "zh": "这里的泥土十分肥沃。",
+        "pinyin": "Zhèlǐ de nítǔ shífēn féiwò.",
+        "en": "Buranın toprağı son derece bereketli."
+      },
+      {
+        "zh": "他的双手沾满了泥土。",
+        "pinyin": "Tā de shuāngshǒu zhānmǎn le nítǔ.",
+        "en": "İki eli toprağa bulanmıştı."
+      },
+      {
+        "zh": "农民把泥土翻松准备播种。",
+        "pinyin": "Nóngmín bǎ nítǔ fānsōng zhǔnbèi bōzhǒng.",
+        "en": "Çiftçi ekim için toprağı gevşetti."
+      }
+    ]
+  },
+  {
+    "id": "w5026",
+    "hanzi": "你好",
+    "pinyin": "nǐhǎo",
+    "meaning": "Merhaba",
+    "partOfSpeech": "ünlem",
+    "level": 1,
+    "category": "Temel Kelimeler",
+    "examples": [
+      {
+        "zh": "你好,很高兴认识你。",
+        "pinyin": "Nǐhǎo, hěn gāoxìng rènshi nǐ.",
+        "en": "Merhaba, tanıştığımıza memnun oldum."
+      },
+      {
+        "zh": "见到老师要说你好。",
+        "pinyin": "Jiàndào lǎoshī yào shuō nǐhǎo.",
+        "en": "Öğretmeni görünce merhaba demek gerekir."
+      },
+      {
+        "zh": "他微笑着说了一声你好。",
+        "pinyin": "Tā wēixiàozhe shuō le yì shēng nǐhǎo.",
+        "en": "Gülümseyerek merhaba dedi."
+      },
+      {
+        "zh": "你好,请问洗手间在哪里?",
+        "pinyin": "Nǐhǎo, qǐngwèn xǐshǒujiān zài nǎlǐ?",
+        "en": "Merhaba, tuvalet nerede acaba?"
+      },
+      {
+        "zh": "各位老师,大家好!",
+        "pinyin": "Gèwèi lǎoshī, dàjiā hǎo!",
+        "en": "Sayın öğretmenler, herkese merhaba!"
+      }
+    ]
+  },
+  {
+    "id": "w5027",
+    "hanzi": "你们",
+    "pinyin": "nǐmen",
+    "meaning": "Siz",
+    "partOfSpeech": "zamir",
+    "level": 1,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "你们好!",
+        "pinyin": "Nǐmen hǎo!",
+        "en": "Merhaba (hepinize)!"
+      },
+      {
+        "zh": "你们是哪个学校的?",
+        "pinyin": "Nǐmen shì nǎge xuéxiào de?",
+        "en": "Siz hangi okuldansınız?"
+      },
+      {
+        "zh": "你们要一起去吗?",
+        "pinyin": "Nǐmen yào yìqǐ qù ma?",
+        "en": "Siz birlikte gitmek ister misiniz?"
+      },
+      {
+        "zh": "谢谢你们的帮助。",
+        "pinyin": "Xièxie nǐmen de bāngzhù.",
+        "en": "Yardımınız için teşekkür ederim (size)."
+      },
+      {
+        "zh": "你们几点出发?",
+        "pinyin": "Nǐmen jǐ diǎn chūfā?",
+        "en": "Siz saat kaçta yola çıkıyorsunuz?"
+      }
+    ]
+  },
+  {
+    "id": "w5028",
+    "hanzi": "拟",
+    "pinyin": "nǐ",
+    "meaning": "Taslak hazırlamak, planlamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他拟了一份工作计划。",
+        "pinyin": "Tā nǐ le yí fèn gōngzuò jìhuà.",
+        "en": "Bir iş planı taslağı hazırladı."
+      },
+      {
+        "zh": "请拟一份合同草稿。",
+        "pinyin": "Qǐng nǐ yí fèn hétong cǎogǎo.",
+        "en": "Lütfen bir sözleşme taslağı hazırlayın."
+      },
+      {
+        "zh": "他们拟定了详细的方案。",
+        "pinyin": "Tāmen nǐdìng le xiángxì de fāng'àn.",
+        "en": "Detaylı bir plan hazırladılar."
+      },
+      {
+        "zh": "公司拟在下月开设新分店。",
+        "pinyin": "Gōngsī nǐ zài xià yuè kāishè xīn fēndiàn.",
+        "en": "Şirket gelecek ay yeni bir şube açmayı planlıyor."
+      },
+      {
+        "zh": "他拟了一份发言稿。",
+        "pinyin": "Tā nǐ le yí fèn fāyángǎo.",
+        "en": "Bir konuşma taslağı hazırladı."
+      }
+    ]
+  },
+  {
+    "id": "w5029",
+    "hanzi": "溺爱",
+    "pinyin": "nì'ài",
+    "meaning": "Aşırı şımartmak (çocuğu)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "父母不应该溺爱孩子。",
+        "pinyin": "Fùmǔ bù yīnggāi nì'ài háizi.",
+        "en": "Ebeveynler çocuklarını aşırı şımartmamalı."
+      },
+      {
+        "zh": "他从小被爷爷奶奶溺爱着。",
+        "pinyin": "Tā cóngxiǎo bèi yéye nǎinai nì'àizhe.",
+        "en": "Küçüklüğünden beri büyükanne ve büyükbabası tarafından aşırı şımartılıyor."
+      },
+      {
+        "zh": "溺爱容易使孩子变得任性。",
+        "pinyin": "Nì'ài róngyì shǐ háizi biàn de rènxìng.",
+        "en": "Aşırı şımartma çocuğu kolayca inatçı yapabilir."
+      },
+      {
+        "zh": "她对独生子十分溺爱。",
+        "pinyin": "Tā duì dúshēngzǐ shífēn nì'ài.",
+        "en": "Tek çocuğunu son derece şımartıyor."
+      },
+      {
+        "zh": "过度溺爱不利于孩子成长。",
+        "pinyin": "Guòdù nì'ài búlìyú háizi chéngzhǎng.",
+        "en": "Aşırı şımartma çocuğun gelişimine zarar verir."
+      }
+    ]
+  },
+  {
+    "id": "w5030",
+    "hanzi": "逆",
+    "pinyin": "nì",
+    "meaning": "Ters, aksi; karşı koymak",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "船逆水而行。",
+        "pinyin": "Chuán nìshuǐ ér xíng.",
+        "en": "Gemi akıntıya karşı ilerliyor."
+      },
+      {
+        "zh": "他敢于逆潮流而动。",
+        "pinyin": "Tā gǎnyú nì cháoliú ér dòng.",
+        "en": "Akıma karşı gitmeye cesaret ediyor."
+      },
+      {
+        "zh": "他从不逆父母的意愿。",
+        "pinyin": "Tā cóng bú nì fùmǔ de yìyuàn.",
+        "en": "Ebeveynlerinin isteğine hiç karşı çıkmıyor."
+      },
+      {
+        "zh": "这是逆向思维的一个例子。",
+        "pinyin": "Zhè shì nìxiàng sīwéi de yí gè lìzi.",
+        "en": "Bu ters düşünmenin bir örneğidir."
+      },
+      {
+        "zh": "他在逆境中依然保持乐观。",
+        "pinyin": "Tā zài nìjìng zhōng yīrán bǎochí lèguān.",
+        "en": "Zorluklar içinde bile iyimserliğini koruyor."
+      }
+    ]
+  },
+  {
+    "id": "w5031",
+    "hanzi": "逆境",
+    "pinyin": "nìjìng",
+    "meaning": "Zorluk, ters durum, güç koşullar",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他在逆境中成长起来。",
+        "pinyin": "Tā zài nìjìng zhōng chéngzhǎng qǐlai.",
+        "en": "Zor koşullar içinde büyüdü."
+      },
+      {
+        "zh": "面对逆境,他从未放弃。",
+        "pinyin": "Miànduì nìjìng, tā cóng wèi fàngqì.",
+        "en": "Zorluklarla karşılaşınca asla pes etmedi."
+      },
+      {
+        "zh": "逆境能磨炼一个人的意志。",
+        "pinyin": "Nìjìng néng móliàn yí gè rén de yìzhì.",
+        "en": "Zorluklar bir insanın azmini geliştirebilir."
+      },
+      {
+        "zh": "他成功地度过了人生的逆境。",
+        "pinyin": "Tā chénggōng de dùguò le rénshēng de nìjìng.",
+        "en": "Hayatındaki zorlukları başarıyla atlattı."
+      },
+      {
+        "zh": "在逆境中保持希望非常重要。",
+        "pinyin": "Zài nìjìng zhōng bǎochí xīwàng fēicháng zhòngyào.",
+        "en": "Zorluklar içinde umudu korumak çok önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w5032",
+    "hanzi": "匿名",
+    "pinyin": "nìmíng",
+    "meaning": "Anonim, isimsiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他匿名捐赠了这笔钱。",
+        "pinyin": "Tā nìmíng juānzèng le zhè bǐ qián.",
+        "en": "Bu parayı anonim olarak bağışladı."
+      },
+      {
+        "zh": "警方收到了一封匿名举报信。",
+        "pinyin": "Jǐngfāng shōudào le yì fēng nìmíng jǔbàoxìn.",
+        "en": "Polis isimsiz bir ihbar mektubu aldı."
+      },
+      {
+        "zh": "网上留言可以选择匿名发布。",
+        "pinyin": "Wǎngshàng liúyán kěyǐ xuǎnzé nìmíng fābù.",
+        "en": "İnternette mesaj bırakırken anonim olarak yayınlamayı seçebilirsiniz."
+      },
+      {
+        "zh": "他希望以匿名方式接受采访。",
+        "pinyin": "Tā xīwàng yǐ nìmíng fāngshì jiēshòu cǎifǎng.",
+        "en": "Röportajı isimsiz olarak vermeyi tercih ediyor."
+      },
+      {
+        "zh": "这项调查是匿名进行的。",
+        "pinyin": "Zhè xiàng diàochá shì nìmíng jìnxíng de.",
+        "en": "Bu araştırma isimsiz olarak yürütüldü."
+      }
+    ]
+  },
+  {
+    "id": "w5033",
+    "hanzi": "年幼",
+    "pinyin": "niányòu",
+    "meaning": "Genç, küçük yaşta",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他年幼时父母就去世了。",
+        "pinyin": "Tā niányòu shí fùmǔ jiù qùshì le.",
+        "en": "Küçük yaşta anne babasını kaybetti."
+      },
+      {
+        "zh": "年幼的孩子需要更多关爱。",
+        "pinyin": "Niányòu de háizi xūyào gèng duō guān'ài.",
+        "en": "Küçük yaştaki çocuklar daha fazla ilgiye ihtiyaç duyar."
+      },
+      {
+        "zh": "他年幼无知,不懂这些道理。",
+        "pinyin": "Tā niányòu wúzhī, bù dǒng zhèxiē dàolǐ.",
+        "en": "Küçük ve tecrübesiz olduğu için bu gerçekleri anlamıyor."
+      },
+      {
+        "zh": "年幼时的记忆已经模糊了。",
+        "pinyin": "Niányòu shí de jìyì yǐjīng móhu le.",
+        "en": "Küçük yaştaki anıları artık bulanıklaştı."
+      },
+      {
+        "zh": "她还很年幼,不能独自出门。",
+        "pinyin": "Tā hái hěn niányòu, bùnéng dúzì chūmén.",
+        "en": "Hâlâ çok küçük, tek başına dışarı çıkamaz."
+      }
+    ]
+  },
+  {
+    "id": "w5034",
+    "hanzi": "年终",
+    "pinyin": "niánzhōng",
+    "meaning": "Yıl sonu",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "公司发放了年终奖金。",
+        "pinyin": "Gōngsī fāfàng le niánzhōng jiǎngjīn.",
+        "en": "Şirket yıl sonu ikramiyesi dağıttı."
+      },
+      {
+        "zh": "年终总结会议明天召开。",
+        "pinyin": "Niánzhōng zǒngjié huìyì míngtiān zhàokāi.",
+        "en": "Yıl sonu değerlendirme toplantısı yarın düzenlenecek."
+      },
+      {
+        "zh": "年终时公司要做财务结算。",
+        "pinyin": "Niánzhōng shí gōngsī yào zuò cáiwù jiésuàn.",
+        "en": "Yıl sonunda şirket mali hesaplaşma yapmalı."
+      },
+      {
+        "zh": "他忙于处理年终事务。",
+        "pinyin": "Tā mángyú chǔlǐ niánzhōng shìwù.",
+        "en": "Yıl sonu işlerini halletmekle meşgul."
+      },
+      {
+        "zh": "年终大扫除是家家户户的传统。",
+        "pinyin": "Niánzhōng dàsǎochú shì jiājiāhùhù de chuántǒng.",
+        "en": "Yıl sonu büyük temizliği her ailenin geleneğidir."
+      }
+    ]
+  },
+  {
+    "id": "w5035",
+    "hanzi": "黏",
+    "pinyin": "nián",
+    "meaning": "Yapışkan, yapış yapış",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这种胶水很黏。",
+        "pinyin": "Zhè zhǒng jiāoshuǐ hěn nián.",
+        "en": "Bu tür yapıştırıcı çok yapışkan."
+      },
+      {
+        "zh": "他的手上沾了黏黏的东西。",
+        "pinyin": "Tā de shǒu shàng zhān le niánnián de dōngxi.",
+        "en": "Elinde yapış yapış bir şey vardı."
+      },
+      {
+        "zh": "糯米做的年糕很黏。",
+        "pinyin": "Nuòmǐ zuò de niángāo hěn nián.",
+        "en": "Yapışkan pirinçle yapılan pirinç keki çok yapışkandır."
+      },
+      {
+        "zh": "夏天出汗后皮肤感觉黏黏的。",
+        "pinyin": "Xiàtiān chūhàn hòu pífū gǎnjué niánnián de.",
+        "en": "Yazın terledikten sonra cilt yapış yapış hissediliyor."
+      },
+      {
+        "zh": "这种食物太黏了,不好消化。",
+        "pinyin": "Zhè zhǒng shíwù tài nián le, bù hǎo xiāohuà.",
+        "en": "Bu tür yiyecek çok yapışkan, sindirimi kolay değil."
+      }
+    ]
+  },
+  {
+    "id": "w5036",
+    "hanzi": "念头",
+    "pinyin": "niàntou",
+    "meaning": "Niyet, düşünce, fikir",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他心里冒出了一个念头。",
+        "pinyin": "Tā xīnlǐ màochū le yí gè niàntou.",
+        "en": "Aklına bir fikir geldi."
+      },
+      {
+        "zh": "打消这个念头吧。",
+        "pinyin": "Dǎxiāo zhège niàntou ba.",
+        "en": "Bu fikirden vazgeç."
+      },
+      {
+        "zh": "他一直有辞职的念头。",
+        "pinyin": "Tā yìzhí yǒu cízhí de niàntou.",
+        "en": "Sürekli işten ayrılma niyeti taşıyor."
+      },
+      {
+        "zh": "她脑中闪过一个可怕的念头。",
+        "pinyin": "Tā nǎozhōng shǎnguò yí gè kěpà de niàntou.",
+        "en": "Aklından korkunç bir düşünce geçti."
+      },
+      {
+        "zh": "他产生了创业的念头。",
+        "pinyin": "Tā chǎnshēng le chuàngyè de niàntou.",
+        "en": "Girişimcilik fikri aklına geldi."
+      }
+    ]
+  },
+  {
+    "id": "w5037",
+    "hanzi": "娘",
+    "pinyin": "niáng",
+    "meaning": "Anne (eski/bölgesel kullanım)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "娘,我回来了。",
+        "pinyin": "Niáng, wǒ huílai le.",
+        "en": "Anne, geldim."
+      },
+      {
+        "zh": "他从小没了娘。",
+        "pinyin": "Tā cóngxiǎo méi le niáng.",
+        "en": "Küçüklüğünden beri annesi yok."
+      },
+      {
+        "zh": "他常常想起自己的娘。",
+        "pinyin": "Tā chángcháng xiǎngqǐ zìjǐ de niáng.",
+        "en": "Sık sık kendi annesini hatırlıyor."
+      },
+      {
+        "zh": "他的娘含辛茹苦把他养大。",
+        "pinyin": "Tā de niáng hánxīn-rúkǔ bǎ tā yǎngdà.",
+        "en": "Annesi büyük zorluklarla onu büyüttü."
+      },
+      {
+        "zh": "娘家人都来参加了婚礼。",
+        "pinyin": "Niángjiarén dōu lái cānjiā le hūnlǐ.",
+        "en": "Gelinin ailesi düğüne katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5038",
+    "hanzi": "酿造",
+    "pinyin": "niàngzào",
+    "meaning": "Mayalamak (bira, şarap)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "这家工厂酿造啤酒。",
+        "pinyin": "Zhè jiā gōngchǎng niàngzào píjiǔ.",
+        "en": "Bu fabrika bira mayalıyor."
+      },
+      {
+        "zh": "他学习了酿造葡萄酒的技术。",
+        "pinyin": "Tā xuéxí le niàngzào pútaojiǔ de jìshù.",
+        "en": "Şarap mayalama teknolojisini öğrendi."
+      },
+      {
+        "zh": "酿造过程需要几个月的时间。",
+        "pinyin": "Niàngzào guòchéng xūyào jǐ gè yuè de shíjiān.",
+        "en": "Mayalama süreci birkaç ay sürer."
+      },
+      {
+        "zh": "这种米酒是用传统方法酿造的。",
+        "pinyin": "Zhè zhǒng mǐjiǔ shì yòng chuántǒng fāngfǎ niàngzào de.",
+        "en": "Bu tür pirinç şarabı geleneksel yöntemle mayalanır."
+      },
+      {
+        "zh": "他家世代从事酿造行业。",
+        "pinyin": "Tā jiā shìdài cóngshì niàngzào hángyè.",
+        "en": "Ailesi nesillerdir mayalama işiyle uğraşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5039",
+    "hanzi": "尿",
+    "pinyin": "niào",
+    "meaning": "İdrar; işemek",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "孩子想尿尿了。",
+        "pinyin": "Háizi xiǎng niàoniào le.",
+        "en": "Çocuk çiş yapmak istiyor."
+      },
+      {
+        "zh": "医生检查了他的尿液。",
+        "pinyin": "Yīshēng jiǎnchá le tā de niàoyè.",
+        "en": "Doktor idrarını kontrol etti."
+      },
+      {
+        "zh": "他半夜起来上厕所小便。",
+        "pinyin": "Tā bànyè qǐlai shàng cèsuǒ xiǎobiàn.",
+        "en": "Gece yarısı kalkıp tuvalete gitti."
+      },
+      {
+        "zh": "他去医院做了尿检。",
+        "pinyin": "Tā qù yīyuàn zuò le niàojiǎn.",
+        "en": "Hastaneye gidip idrar tahlili yaptırdı."
+      },
+      {
+        "zh": "狗在电线杆边撒了尿。",
+        "pinyin": "Gǒu zài diànxiàngān biān sā le niào.",
+        "en": "Köpek elektrik direğinin yanına işedi."
+      }
+    ]
+  },
+  {
+    "id": "w5040",
+    "hanzi": "尿布",
+    "pinyin": "niàobù",
+    "meaning": "Bebek bezi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yaşam",
+    "examples": [
+      {
+        "zh": "妈妈给宝宝换了尿布。",
+        "pinyin": "Māma gěi bǎobao huàn le niàobù.",
+        "en": "Anne bebeğin bezini değiştirdi."
+      },
+      {
+        "zh": "这种尿布很吸水。",
+        "pinyin": "Zhè zhǒng niàobù hěn xīshuǐ.",
+        "en": "Bu tür bebek bezi çok emici."
+      },
+      {
+        "zh": "她买了一大包尿布。",
+        "pinyin": "Tā mǎi le yí dà bāo niàobù.",
+        "en": "Büyük bir paket bebek bezi satın aldı."
+      },
+      {
+        "zh": "婴儿一天要换好几次尿布。",
+        "pinyin": "Yīng'ér yì tiān yào huàn hǎojǐ cì niàobù.",
+        "en": "Bebeğin bezinin günde birkaç kez değiştirilmesi gerekir."
+      },
+      {
+        "zh": "尿布用完了要及时补充。",
+        "pinyin": "Niàobù yòngwán le yào jíshí bǔchōng.",
+        "en": "Bebek bezi bittiğinde zamanında yenilenmesi gerekir."
+      }
+    ]
+  },
+  {
+    "id": "w5041",
+    "hanzi": "捏",
+    "pinyin": "niē",
+    "meaning": "Sıkıştırmak, elle şekillendirmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她用手捏了捏面团。",
+        "pinyin": "Tā yòng shǒu niē le niē miàntuán.",
+        "en": "Elleriyle hamuru sıkıştırdı."
+      },
+      {
+        "zh": "他捏着鼻子喝下了苦药。",
+        "pinyin": "Tā niēzhe bízi hēxià le kǔ yào.",
+        "en": "Burnunu tutarak acı ilacı içti."
+      },
+      {
+        "zh": "孩子用橡皮泥捏出了一个小动物。",
+        "pinyin": "Háizi yòng xiàngpíní niēchū le yí gè xiǎo dòngwù.",
+        "en": "Çocuk oyun hamuruyla küçük bir hayvan şekillendirdi."
+      },
+      {
+        "zh": "她轻轻捏了一下他的手臂。",
+        "pinyin": "Tā qīngqīng niē le yíxià tā de shǒubì.",
+        "en": "Kolunu hafifçe çimdikledi."
+      },
+      {
+        "zh": "他紧张地捏着手中的纸。",
+        "pinyin": "Tā jǐnzhāng de niēzhe shǒuzhōng de zhǐ.",
+        "en": "Gergin bir şekilde elindeki kağıdı sıkıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w5042",
+    "hanzi": "捏造",
+    "pinyin": "niēzào",
+    "meaning": "Uydurmak (yalan, hikaye)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个消息是他捏造的。",
+        "pinyin": "Zhège xiāoxi shì tā niēzào de.",
+        "en": "Bu haberi kendisi uydurmuş."
+      },
+      {
+        "zh": "他被指控捏造证据。",
+        "pinyin": "Tā bèi zhǐkòng niēzào zhèngjù.",
+        "en": "Kanıt uydurmakla suçlandı."
+      },
+      {
+        "zh": "这完全是捏造的谣言。",
+        "pinyin": "Zhè wánquán shì niēzào de yáoyán.",
+        "en": "Bu tamamen uydurulmuş bir söylenti."
+      },
+      {
+        "zh": "他捏造事实来欺骗大家。",
+        "pinyin": "Tā niēzào shìshí lái qīpiàn dàjiā.",
+        "en": "Herkesi kandırmak için gerçekleri uyduruyor."
+      },
+      {
+        "zh": "警方发现他捏造了不在场证明。",
+        "pinyin": "Jǐngfāng fāxiàn tā niēzào le búzàichǎng zhèngmíng.",
+        "en": "Polis, alibisini uydurduğunu tespit etti."
+      }
+    ]
+  },
+  {
+    "id": "w5043",
+    "hanzi": "柠檬",
+    "pinyin": "níngméng",
+    "meaning": "Limon",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "她在水里加了几片柠檬。",
+        "pinyin": "Tā zài shuǐ lǐ jiā le jǐ piàn níngméng.",
+        "en": "Suya birkaç dilim limon ekledi."
+      },
+      {
+        "zh": "柠檬味道酸酸的。",
+        "pinyin": "Níngméng wèidao suānsuān de.",
+        "en": "Limonun tadı ekşidir."
+      },
+      {
+        "zh": "这道菜加了柠檬汁提味。",
+        "pinyin": "Zhè dào cài jiā le níngméngzhī tíwèi.",
+        "en": "Bu yemeğe tat vermek için limon suyu eklendi."
+      },
+      {
+        "zh": "他喜欢喝柠檬蜂蜜水。",
+        "pinyin": "Tā xǐhuan hē níngméng fēngmìshuǐ.",
+        "en": "Limonlu ballı su içmeyi sever."
+      },
+      {
+        "zh": "柠檬富含维生素C。",
+        "pinyin": "Níngméng fùhán wéishēngsù C.",
+        "en": "Limon C vitamini bakımından zengindir."
+      }
+    ]
+  },
+  {
+    "id": "w5044",
+    "hanzi": "凝固",
+    "pinyin": "nínggù",
+    "meaning": "Katılaşmak, donmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "水在零度以下会凝固成冰。",
+        "pinyin": "Shuǐ zài líng dù yǐxià huì nínggù chéng bīng.",
+        "en": "Su, sıfır derecenin altında donarak buza dönüşür."
+      },
+      {
+        "zh": "他的血液已经凝固了。",
+        "pinyin": "Tā de xuèyè yǐjīng nínggù le.",
+        "en": "Kanı zaten pıhtılaşmış."
+      },
+      {
+        "zh": "蜡烛的蜡冷却后凝固了。",
+        "pinyin": "Làzhú de là lěngquè hòu nínggù le.",
+        "en": "Mumun balmumu soğuduktan sonra katılaştı."
+      },
+      {
+        "zh": "时间仿佛凝固了一般。",
+        "pinyin": "Shíjiān fǎngfú nínggù le yìbān.",
+        "en": "Zaman sanki donmuş gibiydi."
+      },
+      {
+        "zh": "油脂在低温下会凝固。",
+        "pinyin": "Yóuzhī zài dīwēn xià huì nínggù.",
+        "en": "Yağ düşük sıcaklıkta katılaşabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5045",
+    "hanzi": "宁愿",
+    "pinyin": "nìngyuàn",
+    "meaning": "-mektense tercih etmek, daha çok istemek",
+    "partOfSpeech": "bağlaç",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "我宁愿走路也不坐这趟车。",
+        "pinyin": "Wǒ nìngyuàn zǒulù yě bú zuò zhè tàng chē.",
+        "en": "Bu araca binmektense yürümeyi tercih ederim."
+      },
+      {
+        "zh": "他宁愿加班也要完成任务。",
+        "pinyin": "Tā nìngyuàn jiābān yě yào wánchéng rènwu.",
+        "en": "Görevi tamamlamak için mesai yapmayı tercih ediyor."
+      },
+      {
+        "zh": "她宁愿一个人吃饭。",
+        "pinyin": "Tā nìngyuàn yí gè rén chīfàn.",
+        "en": "Tek başına yemek yemeyi tercih ediyor."
+      },
+      {
+        "zh": "他宁愿失败也不愿放弃。",
+        "pinyin": "Tā nìngyuàn shībài yě bú yuàn fàngqì.",
+        "en": "Başarısız olmayı göze alsa da vazgeçmeyi istemiyor."
+      },
+      {
+        "zh": "我宁愿相信他是无辜的。",
+        "pinyin": "Wǒ nìngyuàn xiāngxìn tā shì wúgū de.",
+        "en": "Masum olduğuna inanmayı tercih ediyorum."
+      }
+    ]
+  },
+  {
+    "id": "w5046",
+    "hanzi": "牛",
+    "pinyin": "niú",
+    "meaning": "Sığır, inek",
+    "partOfSpeech": "isim",
+    "level": 2,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "农场里养着很多牛。",
+        "pinyin": "Nóngchǎng lǐ yǎngzhe hěn duō niú.",
+        "en": "Çiftlikte birçok sığır besleniyor."
+      },
+      {
+        "zh": "牛在草地上吃草。",
+        "pinyin": "Niú zài cǎodì shàng chī cǎo.",
+        "en": "İnek çayırda otluyor."
+      },
+      {
+        "zh": "他每天早上去挤牛奶。",
+        "pinyin": "Tā měitiān zǎoshang qù jǐ niúnǎi.",
+        "en": "Her sabah süt sağmaya gidiyor."
+      },
+      {
+        "zh": "这头牛长得很壮。",
+        "pinyin": "Zhè tóu niú zhǎng de hěn zhuàng.",
+        "en": "Bu sığır oldukça iri büyümüş."
+      },
+      {
+        "zh": "他属牛,今年三十六岁。",
+        "pinyin": "Tā shǔ niú, jīnnián sānshíliù suì.",
+        "en": "Öküz burcundan, bu yıl otuz altı yaşında."
+      }
+    ]
   }
 ]

@@ -187177,5 +187177,683 @@
         "en": "Sıcaklık ne kadar yüksekse madde o kadar hızlı çözünür."
       }
     ]
+  },
+  {
+    "id": "w5449",
+    "hanzi": "熔点",
+    "pinyin": "róngdiǎn",
+    "meaning": "erime noktası",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "铁的熔点比铝高。",
+        "pinyin": "Tiě de róngdiǎn bǐ lǚ gāo.",
+        "en": "Demirin erime noktası alüminyumdan daha yüksektir."
+      },
+      {
+        "zh": "这种金属的熔点非常高。",
+        "pinyin": "Zhè zhǒng jīnshǔ de róngdiǎn fēicháng gāo.",
+        "en": "Bu metalin erime noktası çok yüksek."
+      }
+    ]
+  },
+  {
+    "id": "w5450",
+    "hanzi": "熔化",
+    "pinyin": "rónghuà",
+    "meaning": "erimek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "铁在高温下会熔化。",
+        "pinyin": "Tiě zài gāowēn xià huì rónghuà.",
+        "en": "Demir yüksek sıcaklıkta erir."
+      },
+      {
+        "zh": "冰川正在逐渐熔化。",
+        "pinyin": "Bīngchuān zhèngzài zhújiàn rónghuà.",
+        "en": "Buzullar giderek eriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5451",
+    "hanzi": "熔岩",
+    "pinyin": "róngyán",
+    "meaning": "lav",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "火山喷发出滚烫的熔岩。",
+        "pinyin": "Huǒshān pēnfā chū gǔntàng de róngyán.",
+        "en": "Volkan kaynar lav püskürttü."
+      },
+      {
+        "zh": "熔岩流经过的地方寸草不生。",
+        "pinyin": "Róngyán liú jīngguò de dìfang cùncǎobùshēng.",
+        "en": "Lav akışının geçtiği yerlerde hiçbir bitki yetişmez."
+      }
+    ]
+  },
+  {
+    "id": "w5452",
+    "hanzi": "荣耀",
+    "pinyin": "róngyào",
+    "meaning": "şeref, onur, itibar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他为国家赢得了荣耀。",
+        "pinyin": "Tā wèi guójiā yíngdé le róngyào.",
+        "en": "Ülkesi için onur kazandı."
+      },
+      {
+        "zh": "这是全家人的荣耀。",
+        "pinyin": "Zhè shì quánjiārén de róngyào.",
+        "en": "Bu tüm ailenin gururudur."
+      }
+    ]
+  },
+  {
+    "id": "w5453",
+    "hanzi": "融合",
+    "pinyin": "rónghé",
+    "meaning": "kaynaşmak, birleşmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "东西方文化在这里融合。",
+        "pinyin": "Dōngxīfāng wénhuà zài zhèlǐ rónghé.",
+        "en": "Doğu ve Batı kültürü burada kaynaşıyor."
+      },
+      {
+        "zh": "这道菜融合了多种口味。",
+        "pinyin": "Zhè dào cài rónghé le duō zhǒng kǒuwèi.",
+        "en": "Bu yemek birçok lezzeti bir araya getiriyor."
+      },
+      {
+        "zh": "他们的想法很好地融合在了一起。",
+        "pinyin": "Tāmen de xiǎngfǎ hěn hǎo de rónghé zài le yìqǐ.",
+        "en": "Fikirleri gayet iyi bir şekilde kaynaştı."
+      },
+      {
+        "zh": "传统与现代在这座建筑中融合。",
+        "pinyin": "Chuántǒng yǔ xiàndài zài zhè zuò jiànzhù zhōng rónghé.",
+        "en": "Bu binada gelenek ile modernlik kaynaşıyor."
+      },
+      {
+        "zh": "科技与艺术正在不断融合。",
+        "pinyin": "Kējì yǔ yìshù zhèngzài búduàn rónghé.",
+        "en": "Teknoloji ve sanat sürekli kaynaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5454",
+    "hanzi": "融洽",
+    "pinyin": "róngqià",
+    "meaning": "uyumlu, ahenkli",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他们相处得非常融洽。",
+        "pinyin": "Tāmen xiāngchǔ de fēicháng róngqià.",
+        "en": "Birbirleriyle çok uyumlu geçiniyorlar."
+      },
+      {
+        "zh": "公司氛围融洽，员工都很开心。",
+        "pinyin": "Gōngsī fēnwéi róngqià, yuángōng dōu hěn kāixīn.",
+        "en": "Şirketin ortamı uyumlu, çalışanlar mutlu."
+      }
+    ]
+  },
+  {
+    "id": "w5455",
+    "hanzi": "如此",
+    "pinyin": "rúcǐ",
+    "meaning": "böyle, bu şekilde, bu kadar",
+    "partOfSpeech": "zamir",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "事情本来不应该如此。",
+        "pinyin": "Shìqing běnlái bù yīnggāi rúcǐ.",
+        "en": "Aslında iş bu şekilde olmamalıydı."
+      },
+      {
+        "zh": "他从没想到会如此顺利。",
+        "pinyin": "Tā cóng méi xiǎngdào huì rúcǐ shùnlì.",
+        "en": "İşin bu kadar sorunsuz geçeceğini hiç düşünmemişti."
+      },
+      {
+        "zh": "天气如此炎热，我们还是待在家里吧。",
+        "pinyin": "Tiānqì rúcǐ yánrè, wǒmen háishi dāi zài jiā lǐ ba.",
+        "en": "Hava bu kadar sıcakken, evde kalalım."
+      },
+      {
+        "zh": "为何如此匆忙？",
+        "pinyin": "Wèihé rúcǐ cōngmáng?",
+        "en": "Neden bu kadar aceleci?"
+      },
+      {
+        "zh": "情况正是如此。",
+        "pinyin": "Qíngkuàng zhèng shì rúcǐ.",
+        "en": "Durum tam olarak böyle."
+      }
+    ]
+  },
+  {
+    "id": "w5456",
+    "hanzi": "如期",
+    "pinyin": "rúqī",
+    "meaning": "zamanında, planlandığı gibi",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "工程如期完工了。",
+        "pinyin": "Gōngchéng rúqī wángōng le.",
+        "en": "İnşaat zamanında tamamlandı."
+      },
+      {
+        "zh": "会议如期举行。",
+        "pinyin": "Huìyì rúqī jǔxíng.",
+        "en": "Toplantı planlandığı gibi gerçekleşti."
+      }
+    ]
+  },
+  {
+    "id": "w5457",
+    "hanzi": "如实",
+    "pinyin": "rúshí",
+    "meaning": "gerçeğe uygun olarak, olduğu gibi",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "请如实回答问题。",
+        "pinyin": "Qǐng rúshí huídá wèntí.",
+        "en": "Lütfen soruları gerçeğe uygun bir şekilde cevaplayın."
+      },
+      {
+        "zh": "他如实汇报了事情的经过。",
+        "pinyin": "Tā rúshí huìbào le shìqing de jīngguò.",
+        "en": "Olayın gelişimini olduğu gibi rapor etti."
+      }
+    ]
+  },
+  {
+    "id": "w5458",
+    "hanzi": "如同",
+    "pinyin": "rútóng",
+    "meaning": "sanki, gibi",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "他待我们如同亲兄弟一样。",
+        "pinyin": "Tā dài wǒmen rútóng qīnxiōngdì yíyàng.",
+        "en": "Bize sanki öz kardeşiymiş gibi davranıyor."
+      },
+      {
+        "zh": "夜晚的城市如同白昼一般明亮。",
+        "pinyin": "Yèwǎn de chéngshì rútóng báizhòu yìbān míngliàng.",
+        "en": "Geceleyin şehir sanki gündüz gibi aydınlık."
+      },
+      {
+        "zh": "时间如同流水一去不返。",
+        "pinyin": "Shíjiān rútóng liúshuǐ yíqù bùfǎn.",
+        "en": "Zaman akan su gibi geri dönmez."
+      },
+      {
+        "zh": "她的笑容如同阳光般温暖。",
+        "pinyin": "Tā de xiàoróng rútóng yángguāng bān wēnnuǎn.",
+        "en": "Gülümsemesi güneş ışığı gibi sıcak."
+      },
+      {
+        "zh": "这个消息如同晴天霹雳。",
+        "pinyin": "Zhège xiāoxi rútóng qíngtiān pīlì.",
+        "en": "Bu haber sanki gök gürültüsü gibi şaşırtıcıydı."
+      }
+    ]
+  },
+  {
+    "id": "w5459",
+    "hanzi": "如下",
+    "pinyin": "rúxià",
+    "meaning": "aşağıdaki gibi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "具体安排如下。",
+        "pinyin": "Jùtǐ ānpái rúxià.",
+        "en": "Ayrıntılı düzenleme aşağıdaki gibidir."
+      },
+      {
+        "zh": "会议内容总结如下。",
+        "pinyin": "Huìyì nèiróng zǒngjié rúxià.",
+        "en": "Toplantı içeriğinin özeti aşağıdaki gibidir."
+      },
+      {
+        "zh": "报名条件如下所示。",
+        "pinyin": "Bàomíng tiáojiàn rúxià suǒshì.",
+        "en": "Kayıt koşulları aşağıda gösterildiği gibidir."
+      },
+      {
+        "zh": "他的理由如下。",
+        "pinyin": "Tā de lǐyóu rúxià.",
+        "en": "Onun gerekçeleri aşağıdaki gibidir."
+      },
+      {
+        "zh": "调查结果如下。",
+        "pinyin": "Diàochá jiéguǒ rúxià.",
+        "en": "Araştırma sonuçları aşağıdaki gibidir."
+      }
+    ]
+  },
+  {
+    "id": "w5460",
+    "hanzi": "如意",
+    "pinyin": "rúyì",
+    "meaning": "dilediği gibi, istediği gibi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "祝你万事如意。",
+        "pinyin": "Zhù nǐ wànshì rúyì.",
+        "en": "Her şeyin dilediğin gibi olmasını dilerim."
+      },
+      {
+        "zh": "生活并不总是称心如意。",
+        "pinyin": "Shēnghuó bìngbù zǒngshì chènxīn rúyì.",
+        "en": "Hayat her zaman istediğimiz gibi gitmez."
+      }
+    ]
+  },
+  {
+    "id": "w5461",
+    "hanzi": "如愿",
+    "pinyin": "rúyuàn",
+    "meaning": "dilediği gibi olmak, isteğine kavuşmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他终于如愿以偿地考上了大学。",
+        "pinyin": "Tā zhōngyú rúyuànyǐcháng de kǎoshàng le dàxué.",
+        "en": "Sonunda dilediği gibi üniversiteye girmeyi başardı."
+      },
+      {
+        "zh": "希望你能如愿实现自己的梦想。",
+        "pinyin": "Xīwàng nǐ néng rúyuàn shíxiàn zìjǐ de mèngxiǎng.",
+        "en": "Umarım hayalini dilediğin gibi gerçekleştirirsin."
+      }
+    ]
+  },
+  {
+    "id": "w5462",
+    "hanzi": "儒家",
+    "pinyin": "rújiā",
+    "meaning": "Konfüçyüsçülük",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "儒家思想影响了中国几千年。",
+        "pinyin": "Rújiā sīxiǎng yǐngxiǎng le Zhōngguó jǐqiān nián.",
+        "en": "Konfüçyüsçü düşünce Çin'i binlerce yıl etkiledi."
+      },
+      {
+        "zh": "孔子是儒家学派的创始人。",
+        "pinyin": "Kǒngzǐ shì rújiā xuépài de chuàngshǐrén.",
+        "en": "Konfüçyüs, Konfüçyüsçülük ekolünün kurucusudur."
+      }
+    ]
+  },
+  {
+    "id": "w5463",
+    "hanzi": "辱骂",
+    "pinyin": "rǔmà",
+    "meaning": "küfretmek, hakaret etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他被人辱骂了一顿。",
+        "pinyin": "Tā bèi rén rǔmà le yí dùn.",
+        "en": "Biri tarafından hakarete uğradı."
+      },
+      {
+        "zh": "请不要在网上辱骂他人。",
+        "pinyin": "Qǐng búyào zài wǎngshàng rǔmà tārén.",
+        "en": "Lütfen internette başkalarına hakaret etmeyin."
+      }
+    ]
+  },
+  {
+    "id": "w5464",
+    "hanzi": "乳房",
+    "pinyin": "rǔfáng",
+    "meaning": "meme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "医生建议她定期做乳房检查。",
+        "pinyin": "Yīshēng jiànyì tā dìngqī zuò rǔfáng jiǎnchá.",
+        "en": "Doktor düzenli meme muayenesi yapmasını önerdi."
+      },
+      {
+        "zh": "乳房健康非常重要。",
+        "pinyin": "Rǔfáng jiànkāng fēicháng zhòngyào.",
+        "en": "Meme sağlığı çok önemlidir."
+      }
+    ]
+  },
+  {
+    "id": "w5465",
+    "hanzi": "乳牛",
+    "pinyin": "rǔniú",
+    "meaning": "süt ineği",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "农场里养了很多乳牛。",
+        "pinyin": "Nóngchǎng lǐ yǎng le hěnduō rǔniú.",
+        "en": "Çiftlikte birçok süt ineği besleniyor."
+      },
+      {
+        "zh": "乳牛每天都要挤奶。",
+        "pinyin": "Rǔniú měitiān dōu yào jǐnǎi.",
+        "en": "Süt inekleri her gün sağılmalı."
+      }
+    ]
+  },
+  {
+    "id": "w5466",
+    "hanzi": "乳汁",
+    "pinyin": "rǔzhī",
+    "meaning": "süt",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "母亲的乳汁是婴儿最好的食物。",
+        "pinyin": "Mǔqīn de rǔzhī shì yīng'ér zuìhǎo de shíwù.",
+        "en": "Annenin sütü bebek için en iyi besindir."
+      },
+      {
+        "zh": "这种植物能分泌白色的乳汁。",
+        "pinyin": "Zhè zhǒng zhíwù néng fēnmì báisè de rǔzhī.",
+        "en": "Bu bitki beyaz bir öz salgılayabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5467",
+    "hanzi": "入境",
+    "pinyin": "rùjìng",
+    "meaning": "ülke sınırlarına giriş yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "外国游客需要办理入境手续。",
+        "pinyin": "Wàiguó yóukè xūyào bànlǐ rùjìng shǒuxù.",
+        "en": "Yabancı turistlerin giriş işlemleri yapması gerekir."
+      },
+      {
+        "zh": "他顺利完成了入境检查。",
+        "pinyin": "Tā shùnlì wánchéng le rùjìng jiǎnchá.",
+        "en": "Giriş kontrolünü sorunsuzca tamamladı."
+      }
+    ]
+  },
+  {
+    "id": "w5468",
+    "hanzi": "入门",
+    "pinyin": "rùmén",
+    "meaning": "temel bilgi öğrenmek, giriş seviyesi",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这本书是学习汉语的入门教材。",
+        "pinyin": "Zhè běn shū shì xuéxí Hànyǔ de rùmén jiàocái.",
+        "en": "Bu kitap Çince öğrenmek için başlangıç seviyesindeki bir ders kitabıdır."
+      },
+      {
+        "zh": "他刚刚入门，还需要多加练习。",
+        "pinyin": "Tā gānggāng rùmén, hái xūyào duōjiā liànxí.",
+        "en": "Yeni başladı, daha çok pratik yapması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5469",
+    "hanzi": "入迷",
+    "pinyin": "rùmí",
+    "meaning": "kendini kaptırmak, tutkuyla dalmak",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他看书看得入迷了。",
+        "pinyin": "Tā kànshū kàn de rùmí le.",
+        "en": "Kitap okumaya kendini kaptırdı."
+      },
+      {
+        "zh": "孩子们对这个游戏入迷了。",
+        "pinyin": "Háizimen duì zhège yóuxì rùmí le.",
+        "en": "Çocuklar bu oyuna kendilerini kaptırdı."
+      }
+    ]
+  },
+  {
+    "id": "w5470",
+    "hanzi": "软化",
+    "pinyin": "ruǎnhuà",
+    "meaning": "yumuşamak, yumuşatmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他的态度渐渐软化了。",
+        "pinyin": "Tā de tàidù jiànjiàn ruǎnhuà le.",
+        "en": "Tavrı giderek yumuşadı."
+      },
+      {
+        "zh": "热水可以软化衣物纤维。",
+        "pinyin": "Rèshuǐ kěyǐ ruǎnhuà yīwù xiānwéi.",
+        "en": "Sıcak su kumaş liflerini yumuşatabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5471",
+    "hanzi": "软弱",
+    "pinyin": "ruǎnruò",
+    "meaning": "zayıf, güçsüz, dermansız",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他性格软弱，容易被人欺负。",
+        "pinyin": "Tā xìnggé ruǎnruò, róngyì bèi rén qīfu.",
+        "en": "Karakteri zayıf, kolayca zorbalığa uğrar."
+      },
+      {
+        "zh": "在困难面前，她并不软弱。",
+        "pinyin": "Zài kùnnán miànqián, tā bìngbù ruǎnruò.",
+        "en": "Zorluklar karşısında hiç güçsüz değil."
+      },
+      {
+        "zh": "他表现得十分软弱无能。",
+        "pinyin": "Tā biǎoxiàn de shífēn ruǎnruò wúnéng.",
+        "en": "Oldukça zayıf ve yetersiz bir performans sergiledi."
+      },
+      {
+        "zh": "不能对敌人表现出软弱。",
+        "pinyin": "Bùnéng duì dírén biǎoxiàn chū ruǎnruò.",
+        "en": "Düşmana karşı zayıflık gösterilemez."
+      },
+      {
+        "zh": "他从软弱变得坚强起来。",
+        "pinyin": "Tā cóng ruǎnruò biànde jiānqiáng qǐlái.",
+        "en": "Zayıflıktan güçlü hale geldi."
+      }
+    ]
+  },
+  {
+    "id": "w5472",
+    "hanzi": "弱点",
+    "pinyin": "ruòdiǎn",
+    "meaning": "zaaf, zayıf nokta",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "每个人都有自己的弱点。",
+        "pinyin": "Měigerén dōu yǒu zìjǐ de ruòdiǎn.",
+        "en": "Herkesin kendi zaafı vardır."
+      },
+      {
+        "zh": "他找到了对手的弱点。",
+        "pinyin": "Tā zhǎodào le duìshǒu de ruòdiǎn.",
+        "en": "Rakibinin zayıf noktasını buldu."
+      },
+      {
+        "zh": "认识自己的弱点很重要。",
+        "pinyin": "Rènshi zìjǐ de ruòdiǎn hěn zhòngyào.",
+        "en": "Kendi zayıf noktalarını bilmek çok önemlidir."
+      },
+      {
+        "zh": "他利用了对方的弱点。",
+        "pinyin": "Tā lìyòng le duìfāng de ruòdiǎn.",
+        "en": "Karşı tarafın zayıf noktasını kullandı."
+      },
+      {
+        "zh": "这个系统存在明显的弱点。",
+        "pinyin": "Zhège xìtǒng cúnzài míngxiǎn de ruòdiǎn.",
+        "en": "Bu sistemde belirgin bir zayıflık var."
+      }
+    ]
+  },
+  {
+    "id": "w5473",
+    "hanzi": "弱小",
+    "pinyin": "ruòxiǎo",
+    "meaning": "küçük ve zayıf",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "我们应该保护弱小的动物。",
+        "pinyin": "Wǒmen yīnggāi bǎohù ruòxiǎo de dòngwù.",
+        "en": "Küçük ve zayıf hayvanları korumalıyız."
+      },
+      {
+        "zh": "他从小体质弱小。",
+        "pinyin": "Tā cóngxiǎo tǐzhì ruòxiǎo.",
+        "en": "Küçüklüğünden beri bünyesi zayıf."
+      }
+    ]
+  },
+  {
+    "id": "w5474",
+    "hanzi": "若干",
+    "pinyin": "ruògān",
+    "meaning": "birkaç, bazı, birtakım",
+    "partOfSpeech": "sayı",
+    "level": 6,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "会议提出了若干建议。",
+        "pinyin": "Huìyì tíchū le ruògān jiànyì.",
+        "en": "Toplantıda birkaç öneri sunuldu."
+      },
+      {
+        "zh": "这项政策还存在若干问题。",
+        "pinyin": "Zhè xiàng zhèngcè hái cúnzài ruògān wèntí.",
+        "en": "Bu politikada hâlâ birtakım sorunlar mevcut."
+      }
+    ]
+  },
+  {
+    "id": "w5475",
+    "hanzi": "润滑",
+    "pinyin": "rùnhuá",
+    "meaning": "yağlamak, kaygan hale getirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "定期给机器润滑很重要。",
+        "pinyin": "Dìngqī gěi jīqì rùnhuá hěn zhòngyào.",
+        "en": "Makineyi düzenli olarak yağlamak çok önemlidir."
+      },
+      {
+        "zh": "这种油可以起到润滑作用。",
+        "pinyin": "Zhè zhǒng yóu kěyǐ qǐdào rùnhuá zuòyòng.",
+        "en": "Bu yağ, yağlama işlevi görebilir."
+      }
+    ]
+  },
+  {
+    "id": "w5476",
+    "hanzi": "闰年",
+    "pinyin": "rùnnián",
+    "meaning": "artık yıl",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "闰年的二月有二十九天。",
+        "pinyin": "Rùnnián de èryuè yǒu èrshíjiǔ tiān.",
+        "en": "Artık yılda Şubat ayının yirmi dokuz günü vardır."
+      },
+      {
+        "zh": "每四年一次是闰年。",
+        "pinyin": "Měi sì nián yí cì shì rùnnián.",
+        "en": "Her dört yılda bir artık yıl gelir."
+      }
+    ]
   }
 ]

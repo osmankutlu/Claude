@@ -239551,5 +239551,758 @@
         "en": "O bir uzlaşma planı önerdi."
       }
     ]
+  },
+  {
+    "id": "w7239",
+    "hanzi": "真面目",
+    "pinyin": "zhēnmiànmù",
+    "meaning": "gerçek yüz, hakiki durum",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他终于露出了真面目。",
+        "pinyin": "Tā zhōngyú lùchūle zhēnmiànmù.",
+        "en": "O sonunda gerçek yüzünü gösterdi."
+      },
+      {
+        "zh": "很难看清事情的真面目。",
+        "pinyin": "Hěn nán kànqīng shìqing de zhēnmiànmù.",
+        "en": "Olayın gerçek yüzünü görmek çok zor."
+      }
+    ]
+  },
+  {
+    "id": "w7240",
+    "hanzi": "真知",
+    "pinyin": "zhēnzhī",
+    "meaning": "doğru bilgi, gerçek anlayış",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "实践出真知。",
+        "pinyin": "Shíjiàn chū zhēnzhī.",
+        "en": "Gerçek bilgi uygulamadan doğar."
+      },
+      {
+        "zh": "他对这个问题有真知灼见。",
+        "pinyin": "Tā duì zhège wèntí yǒu zhēnzhī-zhuójiàn.",
+        "en": "Onun bu sorunla ilgili derin ve doğru bir anlayışı var."
+      }
+    ]
+  },
+  {
+    "id": "w7241",
+    "hanzi": "针灸",
+    "pinyin": "zhēnjiǔ",
+    "meaning": "akupunktur",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他去做了针灸治疗。",
+        "pinyin": "Tā qù zuòle zhēnjiǔ zhìliáo.",
+        "en": "O akupunktur tedavisi yaptırdı."
+      },
+      {
+        "zh": "针灸是传统中医的重要疗法。",
+        "pinyin": "Zhēnjiǔ shì chuántǒng zhōngyī de zhòngyào liáofǎ.",
+        "en": "Akupunktur geleneksel Çin tıbbının önemli bir tedavi yöntemidir."
+      },
+      {
+        "zh": "针灸可以缓解疼痛。",
+        "pinyin": "Zhēnjiǔ kěyǐ huǎnjiě téngtòng.",
+        "en": "Akupunktur ağrıyı hafifletebilir."
+      },
+      {
+        "zh": "他每周做两次针灸。",
+        "pinyin": "Tā měi zhōu zuò liǎng cì zhēnjiǔ.",
+        "en": "O haftada iki kez akupunktur yaptırıyor."
+      },
+      {
+        "zh": "针灸师给他扎了几针。",
+        "pinyin": "Zhēnjiǔshī gěi tā zhāle jǐ zhēn.",
+        "en": "Akupunktur uzmanı ona birkaç iğne batırdı."
+      }
+    ]
+  },
+  {
+    "id": "w7242",
+    "hanzi": "针线",
+    "pinyin": "zhēnxiàn",
+    "meaning": "dikiş, iğne iplik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她的针线活很好。",
+        "pinyin": "Tā de zhēnxiàn huó hěn hǎo.",
+        "en": "Onun dikiş işi çok iyi."
+      },
+      {
+        "zh": "奶奶正在做针线活。",
+        "pinyin": "Nǎinai zhèngzài zuò zhēnxiàn huó.",
+        "en": "Büyükanne dikiş işi yapıyor."
+      },
+      {
+        "zh": "她随身带着针线盒。",
+        "pinyin": "Tā suíshēn dàizhe zhēnxiàn hé.",
+        "en": "O yanında dikiş kutusu taşıyor."
+      },
+      {
+        "zh": "他用针线缝补了破洞。",
+        "pinyin": "Tā yòng zhēnxiàn féngbǔle pòdòng.",
+        "en": "O iğne iplikle yırtığı onardı."
+      },
+      {
+        "zh": "妈妈教我做针线活。",
+        "pinyin": "Māma jiāo wǒ zuò zhēnxiàn huó.",
+        "en": "Annem bana dikiş yapmayı öğretiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7243",
+    "hanzi": "针织",
+    "pinyin": "zhēnzhī",
+    "meaning": "örgü, örme",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "giyim",
+    "examples": [
+      {
+        "zh": "她喜欢做针织衫。",
+        "pinyin": "Tā xǐhuān zuò zhēnzhīshān.",
+        "en": "O örgü kazak yapmayı sever."
+      },
+      {
+        "zh": "这件针织毛衣很暖和。",
+        "pinyin": "Zhè jiàn zhēnzhī máoyī hěn nuǎnhuo.",
+        "en": "Bu örgü kazak çok sıcak tutuyor."
+      },
+      {
+        "zh": "工厂生产各种针织品。",
+        "pinyin": "Gōngchǎng shēngchǎn gèzhǒng zhēnzhīpǐn.",
+        "en": "Fabrika çeşitli örme ürünler üretiyor."
+      },
+      {
+        "zh": "她学习了针织技巧。",
+        "pinyin": "Tā xuéxíle zhēnzhī jìqiǎo.",
+        "en": "O örgü tekniklerini öğrendi."
+      },
+      {
+        "zh": "这条针织围巾是手工制作的。",
+        "pinyin": "Zhè tiáo zhēnzhī wéijīn shì shǒugōng zhìzuò de.",
+        "en": "Bu örgü eşarp el yapımıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7244",
+    "hanzi": "枕",
+    "pinyin": "zhěn",
+    "meaning": "yastık",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他枕着枕头睡觉。",
+        "pinyin": "Tā zhènzhe zhěntou shuìjiào.",
+        "en": "O yastığa yaslanarak uyuyor."
+      },
+      {
+        "zh": "这个枕很软。",
+        "pinyin": "Zhège zhěn hěn ruǎn.",
+        "en": "Bu yastık çok yumuşak."
+      },
+      {
+        "zh": "她买了一个新枕头。",
+        "pinyin": "Tā mǎile yī gè xīn zhěntou.",
+        "en": "O yeni bir yastık satın aldı."
+      },
+      {
+        "zh": "他把手臂枕在头下。",
+        "pinyin": "Tā bǎ shǒubì zhěn zài tóu xià.",
+        "en": "O kolunu başının altına yastık gibi koydu."
+      },
+      {
+        "zh": "这个枕头填充了荞麦壳。",
+        "pinyin": "Zhège zhěntou tiánchōngle qiáomài ké.",
+        "en": "Bu yastık karabuğday kabuğuyla doldurulmuştur."
+      }
+    ]
+  },
+  {
+    "id": "w7245",
+    "hanzi": "枕木",
+    "pinyin": "zhěnmù",
+    "meaning": "travers, demir yolu bağlantı kirişi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "工人正在更换铁路枕木。",
+        "pinyin": "Gōngrén zhèngzài gēnghuàn tiělù zhěnmù.",
+        "en": "İşçiler demir yolu traverslerini değiştiriyor."
+      },
+      {
+        "zh": "老旧的枕木需要定期检查。",
+        "pinyin": "Lǎojiù de zhěnmù xūyào dìngqī jiǎnchá.",
+        "en": "Eski traverslerin düzenli olarak kontrol edilmesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w7246",
+    "hanzi": "枕套",
+    "pinyin": "zhěntào",
+    "meaning": "yastık kılıfı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "她换了新的枕套。",
+        "pinyin": "Tā huànle xīn de zhěntào.",
+        "en": "O yeni bir yastık kılıfı taktı."
+      },
+      {
+        "zh": "这套枕套颜色很好看。",
+        "pinyin": "Zhè tào zhěntào yánsè hěn hǎokàn.",
+        "en": "Bu yastık kılıfının rengi çok güzel."
+      },
+      {
+        "zh": "枕套需要经常清洗。",
+        "pinyin": "Zhěntào xūyào jīngcháng qīngxǐ.",
+        "en": "Yastık kılıfının sık sık yıkanması gerekiyor."
+      },
+      {
+        "zh": "她自己缝制了枕套。",
+        "pinyin": "Tā zìjǐ féngzhìle zhěntào.",
+        "en": "O yastık kılıfını kendisi dikti."
+      },
+      {
+        "zh": "他买了一套床单枕套。",
+        "pinyin": "Tā mǎile yī tào chuángdān zhěntào.",
+        "en": "O bir çarşaf yastık kılıfı seti satın aldı."
+      }
+    ]
+  },
+  {
+    "id": "w7247",
+    "hanzi": "缜密",
+    "pinyin": "zhěnmì",
+    "meaning": "titiz, dikkatli, ayrıntılı",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他的思维十分缜密。",
+        "pinyin": "Tā de sīwéi shífēn zhěnmì.",
+        "en": "Onun düşünme şekli son derece titiz."
+      },
+      {
+        "zh": "这份计划制定得非常缜密。",
+        "pinyin": "Zhè fèn jìhuà zhìdìng de fēicháng zhěnmì.",
+        "en": "Bu plan son derece titiz bir şekilde hazırlanmış."
+      }
+    ]
+  },
+  {
+    "id": "w7248",
+    "hanzi": "疹子",
+    "pinyin": "zhěnzi",
+    "meaning": "kızamık, döküntü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "孩子身上起了疹子。",
+        "pinyin": "Háizi shēnshang qǐle zhěnzi.",
+        "en": "Çocuğun vücudunda döküntü çıktı."
+      },
+      {
+        "zh": "医生检查了他的疹子。",
+        "pinyin": "Yīshēng jiǎnchále tā de zhěnzi.",
+        "en": "Doktor onun döküntüsünü kontrol etti."
+      },
+      {
+        "zh": "过敏可能会引起皮肤疹子。",
+        "pinyin": "Guòmǐn kěnéng huì yǐnqǐ pífū zhěnzi.",
+        "en": "Alerji cilt döküntüsüne neden olabilir."
+      },
+      {
+        "zh": "他小时候出过疹子。",
+        "pinyin": "Tā xiǎoshíhou chūguò zhěnzi.",
+        "en": "O küçükken kızamık geçirdi."
+      },
+      {
+        "zh": "这种疹子会自然消退。",
+        "pinyin": "Zhè zhǒng zhěnzi huì zìrán xiāotuì.",
+        "en": "Bu tür döküntü kendiliğinden geçer."
+      }
+    ]
+  },
+  {
+    "id": "w7249",
+    "hanzi": "诊疗",
+    "pinyin": "zhěnliáo",
+    "meaning": "teşhis ve tedavi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医院提供全面的诊疗服务。",
+        "pinyin": "Yīyuàn tígōng quánmiàn de zhěnliáo fúwù.",
+        "en": "Hastane kapsamlı teşhis ve tedavi hizmeti sunuyor."
+      },
+      {
+        "zh": "他去诊疗室做了检查。",
+        "pinyin": "Tā qù zhěnliáoshì zuòle jiǎnchá.",
+        "en": "O muayene için tedavi odasına gitti."
+      }
+    ]
+  },
+  {
+    "id": "w7250",
+    "hanzi": "振荡",
+    "pinyin": "zhèndàng",
+    "meaning": "titreşim, salınım",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这台仪器可以测量电流振荡。",
+        "pinyin": "Zhè tái yíqì kěyǐ cèliáng diànliú zhèndàng.",
+        "en": "Bu cihaz akım titreşimini ölçebilir."
+      },
+      {
+        "zh": "市场出现了剧烈振荡。",
+        "pinyin": "Shìchǎng chūxiànle jùliè zhèndàng.",
+        "en": "Piyasada şiddetli dalgalanmalar meydana geldi."
+      }
+    ]
+  },
+  {
+    "id": "w7251",
+    "hanzi": "振奋",
+    "pinyin": "zhènfèn",
+    "meaning": "coşturmak, canlandırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "这个好消息让大家振奋。",
+        "pinyin": "Zhège hǎo xiāoxi ràng dàjiā zhènfèn.",
+        "en": "Bu iyi haber herkesi coşturdu."
+      },
+      {
+        "zh": "他振奋精神,继续努力。",
+        "pinyin": "Tā zhènfèn jīngshén, jìxù nǔlì.",
+        "en": "O ruhunu canlandırıp çabalamaya devam etti."
+      }
+    ]
+  },
+  {
+    "id": "w7252",
+    "hanzi": "振兴",
+    "pinyin": "zhènxīng",
+    "meaning": "yeniden canlandırmak, güçlendirmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府致力于振兴地方经济。",
+        "pinyin": "Zhèngfǔ zhìlì yú zhènxīng dìfāng jīngjì.",
+        "en": "Hükümet yerel ekonomiyi canlandırmaya odaklanıyor."
+      },
+      {
+        "zh": "他们希望振兴传统文化。",
+        "pinyin": "Tāmen xīwàng zhènxīng chuántǒng wénhuà.",
+        "en": "Onlar geleneksel kültürü yeniden canlandırmayı umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w7253",
+    "hanzi": "振作",
+    "pinyin": "zhènzuò",
+    "meaning": "canlanmak, moral bulmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "振作起来,一切都会好起来的。",
+        "pinyin": "Zhènzuò qǐlai, yīqiè dōu huì hǎo qǐlai de.",
+        "en": "Kendine gel, her şey düzelecek."
+      },
+      {
+        "zh": "他失败后很快振作了起来。",
+        "pinyin": "Tā shībài hòu hěn kuài zhènzuòle qǐlai.",
+        "en": "O başarısız olduktan sonra hızla toparlandı."
+      }
+    ]
+  },
+  {
+    "id": "w7254",
+    "hanzi": "赈济",
+    "pinyin": "zhènjì",
+    "meaning": "yardım etmek (felaketzedeye)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "政府赈济了受灾群众。",
+        "pinyin": "Zhèngfǔ zhènjìle shòuzāi qúnzhòng.",
+        "en": "Hükümet afetzedelere yardım etti."
+      },
+      {
+        "zh": "慈善机构筹集资金赈济灾民。",
+        "pinyin": "Císhàn jīgòu chóují zījīn zhènjì zāimín.",
+        "en": "Yardım kuruluşu felaketzedelere yardım için para topladı."
+      }
+    ]
+  },
+  {
+    "id": "w7255",
+    "hanzi": "阵地",
+    "pinyin": "zhèndì",
+    "meaning": "mevzi, cephe",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "士兵们坚守阵地。",
+        "pinyin": "Shìbīngmen jiānshǒu zhèndì.",
+        "en": "Askerler mevzilerini korudu."
+      },
+      {
+        "zh": "他们攻占了敌人的阵地。",
+        "pinyin": "Tāmen gōngzhànle dírén de zhèndì.",
+        "en": "Onlar düşmanın mevziini ele geçirdi."
+      },
+      {
+        "zh": "这块阵地地势险要。",
+        "pinyin": "Zhè kuài zhèndì dìshì xiǎnyào.",
+        "en": "Bu mevzi arazi olarak stratejik önemdedir."
+      },
+      {
+        "zh": "他坚守自己的思想阵地。",
+        "pinyin": "Tā jiānshǒu zìjǐ de sīxiǎng zhèndì.",
+        "en": "O kendi fikir mevziini korudu."
+      },
+      {
+        "zh": "宣传阵地要牢牢把握。",
+        "pinyin": "Xuānchuán zhèndì yào láoláo bǎwò.",
+        "en": "Propaganda mevzii sıkıca elde tutulmalıdır."
+      }
+    ]
+  },
+  {
+    "id": "w7256",
+    "hanzi": "阵容",
+    "pinyin": "zhènróng",
+    "meaning": "kadro, dizilim",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "这支球队阵容强大。",
+        "pinyin": "Zhè zhī qiúduì zhènróng qiángdà.",
+        "en": "Bu takımın kadrosu çok güçlü."
+      },
+      {
+        "zh": "演唱会阵容豪华。",
+        "pinyin": "Yǎnchànghuì zhènróng háohuá.",
+        "en": "Konserin sanatçı kadrosu lüks."
+      },
+      {
+        "zh": "教练调整了首发阵容。",
+        "pinyin": "Jiàoliàn tiáozhěngle shǒufā zhènróng.",
+        "en": "Antrenör başlangıç kadrosunu düzenledi."
+      },
+      {
+        "zh": "这部电影拥有强大的演员阵容。",
+        "pinyin": "Zhè bù diànyǐng yōngyǒu qiángdà de yǎnyuán zhènróng.",
+        "en": "Bu filmin güçlü bir oyuncu kadrosu var."
+      },
+      {
+        "zh": "对手的阵容让人不敢小觑。",
+        "pinyin": "Duìshǒu de zhènróng ràng rén bùgǎn xiǎoqù.",
+        "en": "Rakibin kadrosu küçümsenmemesi gereken bir kadro."
+      }
+    ]
+  },
+  {
+    "id": "w7257",
+    "hanzi": "阵亡",
+    "pinyin": "zhènwáng",
+    "meaning": "savaşta ölmek, cephede şehit düşmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "很多士兵在战争中阵亡了。",
+        "pinyin": "Hěn duō shìbīng zài zhànzhēng zhōng zhènwáng le.",
+        "en": "Birçok asker savaşta hayatını kaybetti."
+      },
+      {
+        "zh": "他的祖父在战场上阵亡。",
+        "pinyin": "Tā de zǔfù zài zhànchǎng shàng zhènwáng.",
+        "en": "Onun dedesi savaş meydanında şehit düştü."
+      }
+    ]
+  },
+  {
+    "id": "w7258",
+    "hanzi": "阵营",
+    "pinyin": "zhènyíng",
+    "meaning": "kamp, taraf, ittifak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "两个阵营展开了激烈的辩论。",
+        "pinyin": "Liǎng gè zhènyíng zhǎnkāile jīliè de biànlùn.",
+        "en": "İki kamp şiddetli bir tartışmaya girdi."
+      },
+      {
+        "zh": "他加入了反对派阵营。",
+        "pinyin": "Tā jiārùle fǎnduìpài zhènyíng.",
+        "en": "O muhalefet kampına katıldı."
+      }
+    ]
+  },
+  {
+    "id": "w7259",
+    "hanzi": "阵雨",
+    "pinyin": "zhènyǔ",
+    "meaning": "sağanak yağmur",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "今天下午有阵雨。",
+        "pinyin": "Jīntiān xiàwǔ yǒu zhènyǔ.",
+        "en": "Bugün öğleden sonra sağanak yağmur var."
+      },
+      {
+        "zh": "一场阵雨过后天空变得清澈。",
+        "pinyin": "Yī chǎng zhènyǔ guòhòu tiānkōng biàn de qīngchè.",
+        "en": "Bir sağanak yağmurdan sonra gökyüzü berraklaştı."
+      },
+      {
+        "zh": "夏天经常有阵雨。",
+        "pinyin": "Xiàtiān jīngcháng yǒu zhènyǔ.",
+        "en": "Yazın sık sık sağanak yağmur olur."
+      },
+      {
+        "zh": "阵雨来得快去得也快。",
+        "pinyin": "Zhènyǔ lái de kuài qù de yě kuài.",
+        "en": "Sağanak yağmur hızlı gelir hızlı gider."
+      },
+      {
+        "zh": "他们被突如其来的阵雨淋湿了。",
+        "pinyin": "Tāmen bèi tūrúqílái de zhènyǔ línshī le.",
+        "en": "Onlar aniden gelen sağanak yağmurla ıslandı."
+      }
+    ]
+  },
+  {
+    "id": "w7260",
+    "hanzi": "正月",
+    "pinyin": "zhēngyuè",
+    "meaning": "birinci ay (ay takviminde)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "正月十五是元宵节。",
+        "pinyin": "Zhēngyuè shíwǔ shì Yuánxiāojié.",
+        "en": "Ay takviminin ilk ayının on beşi Fener Bayramı'dır."
+      },
+      {
+        "zh": "正月里家家户户都很热闹。",
+        "pinyin": "Zhēngyuè lǐ jiājiāhùhù dōu hěn rènao.",
+        "en": "Ay takviminin ilk ayında her ev çok hareketli olur."
+      },
+      {
+        "zh": "正月是春节的第一个月份。",
+        "pinyin": "Zhēngyuè shì Chūnjié de dì yī gè yuèfèn.",
+        "en": "Ay takviminin ilk ayı, Bahar Bayramının ilk ayıdır."
+      },
+      {
+        "zh": "正月里不能剪头发。",
+        "pinyin": "Zhēngyuè lǐ bùnéng jiǎn tóufa.",
+        "en": "Ay takviminin ilk ayında saç kesmek olmaz (geleneksel inanışa göre)."
+      },
+      {
+        "zh": "他们全家在正月团聚。",
+        "pinyin": "Tāmen quánjiā zài zhēngyuè tuánjù.",
+        "en": "Onların tüm ailesi ay takviminin ilk ayında bir araya geliyor."
+      }
+    ]
+  },
+  {
+    "id": "w7261",
+    "hanzi": "争",
+    "pinyin": "zhēng",
+    "meaning": "mücadele etmek, tartışmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他们为了这块地在争。",
+        "pinyin": "Tāmen wèile zhè kuài dì zài zhēng.",
+        "en": "Onlar bu arazi için mücadele ediyor."
+      },
+      {
+        "zh": "他从不与人争。",
+        "pinyin": "Tā cóng bù yǔ rén zhēng.",
+        "en": "O hiçbir zaman insanlarla tartışmaz."
+      },
+      {
+        "zh": "他们在争一份工作机会。",
+        "pinyin": "Tāmen zài zhēng yī fèn gōngzuò jīhuì.",
+        "en": "Onlar bir iş fırsatı için rekabet ediyor."
+      },
+      {
+        "zh": "为什么要争这个呢?",
+        "pinyin": "Wèishénme yào zhēng zhège ne?",
+        "en": "Bunun için niye kavga etmek gerekiyor ki?"
+      },
+      {
+        "zh": "两人争得面红耳赤。",
+        "pinyin": "Liǎng rén zhēng de miànhóng-ěrchì.",
+        "en": "İki kişi kızgınlıktan yüzleri kızararak tartıştı."
+      }
+    ]
+  },
+  {
+    "id": "w7262",
+    "hanzi": "争辩",
+    "pinyin": "zhēngbiàn",
+    "meaning": "tartışmak, münakaşa etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们为这个问题争辩了很久。",
+        "pinyin": "Tāmen wèi zhège wèntí zhēngbiànle hěn jiǔ.",
+        "en": "Onlar bu konu hakkında uzun süre tartıştı."
+      },
+      {
+        "zh": "不要无谓地和别人争辩。",
+        "pinyin": "Bùyào wúwèi de hé biérén zhēngbiàn.",
+        "en": "Başkalarıyla anlamsız yere tartışma."
+      }
+    ]
+  },
+  {
+    "id": "w7263",
+    "hanzi": "珍视",
+    "pinyin": "zhēnshì",
+    "meaning": "değer vermek, kıymetli görmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他非常珍视这段友谊。",
+        "pinyin": "Tā fēicháng zhēnshì zhè duàn yǒuyì.",
+        "en": "O bu dostluğa çok değer veriyor."
+      },
+      {
+        "zh": "我们应该珍视和平。",
+        "pinyin": "Wǒmen yīnggāi zhēnshì hépíng.",
+        "en": "Barışa değer vermeliyiz."
+      }
+    ]
+  },
+  {
+    "id": "w7264",
+    "hanzi": "珍重",
+    "pinyin": "zhēnzhòng",
+    "meaning": "önemsemek, kendine iyi bakmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他叮嘱朋友要多多珍重。",
+        "pinyin": "Tā dīngzhǔ péngyou yào duōduō zhēnzhòng.",
+        "en": "O arkadaşına kendine iyi bakmasını tembihledi."
+      },
+      {
+        "zh": "请珍重身体,注意休息。",
+        "pinyin": "Qǐng zhēnzhòng shēntǐ, zhùyì xiūxi.",
+        "en": "Lütfen sağlığına dikkat et, dinlenmeyi unutma."
+      }
+    ]
+  },
+  {
+    "id": "w7265",
+    "hanzi": "侦缉",
+    "pinyin": "zhēnjī",
+    "meaning": "bulup yakalamak, tutuklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方正在侦缉逃犯。",
+        "pinyin": "Jǐngfāng zhèngzài zhēnjī táofàn.",
+        "en": "Polis kaçak suçluyu takip ediyor."
+      },
+      {
+        "zh": "侦缉队展开了大规模搜捕行动。",
+        "pinyin": "Zhēnjīduì zhǎnkāile dàguīmó sōubǔ xíngdòng.",
+        "en": "Takip ekibi büyük çaplı bir arama operasyonu başlattı."
+      }
+    ]
+  },
+  {
+    "id": "w7266",
+    "hanzi": "甄别",
+    "pinyin": "zhēnbié",
+    "meaning": "seçmek, elemek, ayırt etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他们仔细甄别了每一位候选人。",
+        "pinyin": "Tāmen zǐxì zhēnbiéle měi yī wèi hòuxuǎnrén.",
+        "en": "Onlar her adayı dikkatlice değerlendirdi."
+      },
+      {
+        "zh": "需要甄别信息的真伪。",
+        "pinyin": "Xūyào zhēnbié xìnxī de zhēnwěi.",
+        "en": "Bilginin doğruluğunun ayırt edilmesi gerekiyor."
+      }
+    ]
   }
 ]

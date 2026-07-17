@@ -162787,5 +162787,761 @@
         "en": "Bu satın alma müzakeresi başarısızlıkla sonuçlandı."
       }
     ]
+  },
+  {
+    "id": "w4719",
+    "hanzi": "流畅",
+    "pinyin": "liúchàng",
+    "meaning": "Akıcı, pürüzsüz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他的汉语说得很流畅。",
+        "pinyin": "Tā de Hànyǔ shuō de hěn liúchàng.",
+        "en": "Çincesi çok akıcı."
+      },
+      {
+        "zh": "这篇文章写得非常流畅。",
+        "pinyin": "Zhè piān wénzhāng xiě de fēicháng liúchàng.",
+        "en": "Bu makale çok akıcı yazılmış."
+      },
+      {
+        "zh": "他的动作流畅自然。",
+        "pinyin": "Tā de dòngzuò liúchàng zìrán.",
+        "en": "Hareketleri akıcı ve doğal."
+      },
+      {
+        "zh": "音乐流畅动听。",
+        "pinyin": "Yīnyuè liúchàng dòngtīng.",
+        "en": "Müzik akıcı ve kulağa hoş geliyor."
+      },
+      {
+        "zh": "他的演讲逻辑流畅。",
+        "pinyin": "Tā de yǎnjiǎng luóji liúchàng.",
+        "en": "Konuşmasının mantığı akıcı."
+      }
+    ]
+  },
+  {
+    "id": "w4720",
+    "hanzi": "流动",
+    "pinyin": "liúdòng",
+    "meaning": "Akmak, dolaşmak; seyyar",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "河水不断流动。",
+        "pinyin": "Héshuǐ búduàn liúdòng.",
+        "en": "Nehir suyu durmadan akıyor."
+      },
+      {
+        "zh": "人口流动给城市带来了活力。",
+        "pinyin": "Rénkǒu liúdòng gěi chéngshì dàilái le huólì.",
+        "en": "Nüfus hareketliliği şehre canlılık kattı."
+      },
+      {
+        "zh": "这里有很多流动摊贩。",
+        "pinyin": "Zhèlǐ yǒu hěn duō liúdòng tānfàn.",
+        "en": "Burada birçok seyyar satıcı var."
+      },
+      {
+        "zh": "资金在市场中自由流动。",
+        "pinyin": "Zījīn zài shìchǎng zhōng zìyóu liúdòng.",
+        "en": "Sermaye piyasada serbestçe dolaşıyor."
+      },
+      {
+        "zh": "空气流动能保持房间清新。",
+        "pinyin": "Kōngqì liúdòng néng bǎochí fángjiān qīngxīn.",
+        "en": "Hava akışı odayı ferah tutabilir."
+      }
+    ]
+  },
+  {
+    "id": "w4721",
+    "hanzi": "流露",
+    "pinyin": "liúlù",
+    "meaning": "(duygu, düşünce) ortaya çıkmak, dışa vurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "她的眼中流露出喜悦。",
+        "pinyin": "Tā de yǎnzhōng liúlù chū xǐyuè.",
+        "en": "Gözlerinde sevinç ortaya çıkıyordu."
+      },
+      {
+        "zh": "他的话语中流露出无奈。",
+        "pinyin": "Tā de huàyǔ zhōng liúlù chū wúnài.",
+        "en": "Sözlerinde çaresizlik hissediliyordu."
+      },
+      {
+        "zh": "她的表情流露出深深的忧虑。",
+        "pinyin": "Tā de biǎoqíng liúlù chū shēnshēn de yōulǜ.",
+        "en": "Yüz ifadesinde derin bir endişe ortaya çıktı."
+      },
+      {
+        "zh": "他不经意间流露出了真实想法。",
+        "pinyin": "Tā bùjīngyì jiān liúlù chū le zhēnshí xiǎngfǎ.",
+        "en": "Farkında olmadan gerçek düşüncelerini açığa vurdu."
+      },
+      {
+        "zh": "她的语气中流露出一丝伤感。",
+        "pinyin": "Tā de yǔqì zhōng liúlù chū yì sī shānggǎn.",
+        "en": "Konuşma tonunda hafif bir hüzün seziliyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4722",
+    "hanzi": "流逝",
+    "pinyin": "liúshì",
+    "meaning": "Akıp gitmek (zaman için)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "时间在不知不觉中流逝。",
+        "pinyin": "Shíjiān zài bùzhī-bùjué zhōng liúshì.",
+        "en": "Zaman farkında olmadan akıp gitti."
+      },
+      {
+        "zh": "岁月流逝,他已经不再年轻。",
+        "pinyin": "Suìyuè liúshì, tā yǐjīng bú zài niánqīng.",
+        "en": "Yıllar akıp gitti, artık genç değil."
+      },
+      {
+        "zh": "青春在忙碌中悄悄流逝。",
+        "pinyin": "Qīngchūn zài mánglù zhōng qiāoqiāo liúshì.",
+        "en": "Gençlik yoğun bir yaşam içinde sessizce akıp gitti."
+      },
+      {
+        "zh": "时光流逝,往事历历在目。",
+        "pinyin": "Shíguāng liúshì, wǎngshì lìlì-zàimù.",
+        "en": "Zaman akıp gitti ama geçmiş olaylar hâlâ gözünün önünde."
+      },
+      {
+        "zh": "我们无法阻止时间的流逝。",
+        "pinyin": "Wǒmen wúfǎ zǔzhǐ shíjiān de liúshì.",
+        "en": "Zamanın akıp gitmesini durduramayız."
+      }
+    ]
+  },
+  {
+    "id": "w4723",
+    "hanzi": "流通",
+    "pinyin": "liútōng",
+    "meaning": "Dolaşmak, dolaşımda olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "货币在市场上流通。",
+        "pinyin": "Huòbì zài shìchǎng shàng liútōng.",
+        "en": "Para piyasada dolaşımda."
+      },
+      {
+        "zh": "这种旧硬币已经不再流通了。",
+        "pinyin": "Zhè zhǒng jiù yìngbì yǐjīng bú zài liútōng le.",
+        "en": "Bu tür eski madeni paralar artık dolaşımda değil."
+      },
+      {
+        "zh": "商品流通渠道十分重要。",
+        "pinyin": "Shāngpǐn liútōng qúdào shífēn zhòngyào.",
+        "en": "Ürün dolaşım kanalları oldukça önemlidir."
+      },
+      {
+        "zh": "打开窗户让空气流通。",
+        "pinyin": "Dǎkāi chuānghu ràng kōngqì liútōng.",
+        "en": "Havanın dolaşması için pencereyi aç."
+      },
+      {
+        "zh": "信息流通速度越来越快。",
+        "pinyin": "Xìnxī liútōng sùdù yuè lái yuè kuài.",
+        "en": "Bilgi dolaşım hızı giderek artıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4724",
+    "hanzi": "流行病",
+    "pinyin": "liúxíngbìng",
+    "meaning": "Salgın hastalık",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "这种流行病传播速度很快。",
+        "pinyin": "Zhè zhǒng liúxíngbìng chuánbō sùdù hěn kuài.",
+        "en": "Bu salgın hastalık çok hızlı yayılıyor."
+      },
+      {
+        "zh": "政府采取措施防止流行病扩散。",
+        "pinyin": "Zhèngfǔ cǎiqǔ cuòshī fángzhǐ liúxíngbìng kuòsàn.",
+        "en": "Hükümet salgının yayılmasını önlemek için önlem aldı."
+      },
+      {
+        "zh": "疫苗可以预防某些流行病。",
+        "pinyin": "Yìmiáo kěyǐ yùfáng mǒuxiē liúxíngbìng.",
+        "en": "Aşı bazı salgın hastalıkları önleyebilir."
+      },
+      {
+        "zh": "流行病学家研究疾病的传播规律。",
+        "pinyin": "Liúxíngbìngxuéjiā yánjiū jíbìng de chuánbō guīlǜ.",
+        "en": "Epidemiyologlar hastalıkların yayılma kurallarını araştırıyor."
+      },
+      {
+        "zh": "这场流行病影响了全球经济。",
+        "pinyin": "Zhè chǎng liúxíngbìng yǐngxiǎng le quánqiú jīngjì.",
+        "en": "Bu salgın küresel ekonomiyi etkiledi."
+      }
+    ]
+  },
+  {
+    "id": "w4725",
+    "hanzi": "流血",
+    "pinyin": "liúxuè",
+    "meaning": "Kanamak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的伤口还在流血。",
+        "pinyin": "Tā de shāngkǒu hái zài liúxuè.",
+        "en": "Yarası hâlâ kanıyor."
+      },
+      {
+        "zh": "她摔倒了,膝盖流血了。",
+        "pinyin": "Tā shuāidǎo le, xīgài liúxuè le.",
+        "en": "Düştü, dizi kanadı."
+      },
+      {
+        "zh": "医生赶紧给伤口止血。",
+        "pinyin": "Yīshēng gǎnjǐn gěi shāngkǒu zhǐxuè.",
+        "en": "Doktor hemen yarayı kanamayı durdurmaya çalıştı."
+      },
+      {
+        "zh": "他鼻子突然流血了。",
+        "pinyin": "Tā bízi tūrán liúxuè le.",
+        "en": "Burnu aniden kanamaya başladı."
+      },
+      {
+        "zh": "这场冲突造成了流血事件。",
+        "pinyin": "Zhè chǎng chōngtū zàochéng le liúxuè shìjiàn.",
+        "en": "Bu çatışma kanlı olaylara yol açtı."
+      }
+    ]
+  },
+  {
+    "id": "w4726",
+    "hanzi": "流言",
+    "pinyin": "liúyán",
+    "meaning": "Söylenti, dedikodu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "别相信这些流言。",
+        "pinyin": "Bié xiāngxìn zhèxiē liúyán.",
+        "en": "Bu söylentilere inanma."
+      },
+      {
+        "zh": "他成了流言的受害者。",
+        "pinyin": "Tā chéng le liúyán de shòuhàizhě.",
+        "en": "Söylentilerin kurbanı oldu."
+      },
+      {
+        "zh": "网上流言四起。",
+        "pinyin": "Wǎngshàng liúyán sìqǐ.",
+        "en": "İnternette her yerden söylentiler yayıldı."
+      },
+      {
+        "zh": "他澄清了这个流言。",
+        "pinyin": "Tā chéngqīng le zhège liúyán.",
+        "en": "Bu söylentiyi açıklığa kavuşturdu."
+      },
+      {
+        "zh": "流言蜚语伤害了她的名誉。",
+        "pinyin": "Liúyán-fěiyǔ shānghài le tā de míngyù.",
+        "en": "Dedikodular onun itibarını zedeledi."
+      }
+    ]
+  },
+  {
+    "id": "w4727",
+    "hanzi": "流域",
+    "pinyin": "liúyù",
+    "meaning": "Nehir havzası, vadi bölgesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "长江流域是中国重要的农业区。",
+        "pinyin": "Chángjiāng liúyù shì Zhōngguó zhòngyào de nóngyèqū.",
+        "en": "Yangtze Nehri havzası Çin'in önemli bir tarım bölgesidir."
+      },
+      {
+        "zh": "黄河流域孕育了古老的文明。",
+        "pinyin": "Huánghé liúyù yùnyù le gǔlǎo de wénmíng.",
+        "en": "Sarı Nehir havzası eski uygarlıkları doğurmuştur."
+      },
+      {
+        "zh": "这条河的流域面积很大。",
+        "pinyin": "Zhè tiáo hé de liúyù miànjī hěn dà.",
+        "en": "Bu nehrin havza alanı çok geniştir."
+      },
+      {
+        "zh": "流域治理需要多方合作。",
+        "pinyin": "Liúyù zhìlǐ xūyào duōfāng hézuò.",
+        "en": "Havza yönetimi çok taraflı işbirliği gerektirir."
+      },
+      {
+        "zh": "亚马逊河流域拥有丰富的生物多样性。",
+        "pinyin": "Yàmǎxùnhé liúyù yōngyǒu fēngfù de shēngwù duōyàngxìng.",
+        "en": "Amazon Nehri havzası zengin biyoçeşitliliğe sahiptir."
+      }
+    ]
+  },
+  {
+    "id": "w4728",
+    "hanzi": "硫酸",
+    "pinyin": "liúsuān",
+    "meaning": "Sülfürik asit",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "硫酸具有强腐蚀性。",
+        "pinyin": "Liúsuān jùyǒu qiáng fǔshíxìng.",
+        "en": "Sülfürik asit güçlü aşındırıcı özelliğe sahiptir."
+      },
+      {
+        "zh": "实验室使用硫酸时要格外小心。",
+        "pinyin": "Shíyànshì shǐyòng liúsuān shí yào géwài xiǎoxīn.",
+        "en": "Laboratuvarda sülfürik asit kullanırken çok dikkatli olmak gerekir."
+      },
+      {
+        "zh": "硫酸是重要的工业原料。",
+        "pinyin": "Liúsuān shì zhòngyào de gōngyè yuánliào.",
+        "en": "Sülfürik asit önemli bir endüstriyel hammaddedir."
+      },
+      {
+        "zh": "他不小心被硫酸烧伤了手。",
+        "pinyin": "Tā bù xiǎoxīn bèi liúsuān shāoshāng le shǒu.",
+        "en": "Kazayla sülfürik asit elini yaktı."
+      },
+      {
+        "zh": "汽车电池含有稀硫酸。",
+        "pinyin": "Qìchē diànchí hányǒu xī liúsuān.",
+        "en": "Araba akülerinde seyreltik sülfürik asit bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w4729",
+    "hanzi": "瘤",
+    "pinyin": "liú",
+    "meaning": "Tümör, ur",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生发现他体内有一个肿瘤。",
+        "pinyin": "Yīshēng fāxiàn tā tǐnèi yǒu yí gè zhǒngliú.",
+        "en": "Doktor vücudunda bir tümör buldu."
+      },
+      {
+        "zh": "这个瘤是良性的。",
+        "pinyin": "Zhège liú shì liángxìng de.",
+        "en": "Bu tümör iyi huyludur."
+      },
+      {
+        "zh": "他做了手术切除了瘤。",
+        "pinyin": "Tā zuò le shǒushù qiēchú le liú.",
+        "en": "Ameliyat olup tümörü aldırdı."
+      },
+      {
+        "zh": "医生建议定期检查体内的瘤。",
+        "pinyin": "Yīshēng jiànyì dìngqī jiǎnchá tǐnèi de liú.",
+        "en": "Doktor vücuttaki tümörün düzenli kontrol edilmesini önerdi."
+      },
+      {
+        "zh": "检查结果显示没有发现瘤。",
+        "pinyin": "Jiǎnchá jiéguǒ xiǎnshì méiyǒu fāxiàn liú.",
+        "en": "Kontrol sonuçları tümör bulunmadığını gösterdi."
+      }
+    ]
+  },
+  {
+    "id": "w4730",
+    "hanzi": "柳",
+    "pinyin": "liǔ",
+    "meaning": "Söğüt",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "河边种着一排柳树。",
+        "pinyin": "Hébiān zhòngzhe yì pái liǔshù.",
+        "en": "Nehir kenarında bir sıra söğüt ağacı dikilmiş."
+      },
+      {
+        "zh": "春风吹动了柳枝。",
+        "pinyin": "Chūnfēng chuīdòng le liǔzhī.",
+        "en": "Bahar rüzgarı söğüt dallarını salladı."
+      },
+      {
+        "zh": "柳絮在空中飘飞。",
+        "pinyin": "Liǔxù zài kōngzhōng piāofēi.",
+        "en": "Söğüt tohumları havada uçuşuyor."
+      },
+      {
+        "zh": "他喜欢在柳树下乘凉。",
+        "pinyin": "Tā xǐhuan zài liǔshù xià chéngliáng.",
+        "en": "Söğüt ağacının altında serinlemeyi sever."
+      },
+      {
+        "zh": "画家画了一幅柳树的水墨画。",
+        "pinyin": "Huàjiā huà le yì fú liǔshù de shuǐmòhuà.",
+        "en": "Ressam bir söğüt ağacı suluboya resmi yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w4731",
+    "hanzi": "六月",
+    "pinyin": "liùyuè",
+    "meaning": "Haziran",
+    "partOfSpeech": "isim",
+    "level": 1,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他六月出生。",
+        "pinyin": "Tā liùyuè chūshēng.",
+        "en": "Haziran ayında doğdu."
+      },
+      {
+        "zh": "六月的天气很热。",
+        "pinyin": "Liùyuè de tiānqì hěn rè.",
+        "en": "Haziran ayının havası çok sıcak."
+      },
+      {
+        "zh": "我们六月去旅行。",
+        "pinyin": "Wǒmen liùyuè qù lǚxíng.",
+        "en": "Haziran ayında seyahate çıkacağız."
+      },
+      {
+        "zh": "六月是毕业的季节。",
+        "pinyin": "Liùyuè shì bìyè de jìjié.",
+        "en": "Haziran mezuniyet mevsimidir."
+      },
+      {
+        "zh": "六月一号是儿童节。",
+        "pinyin": "Liùyuè yī hào shì Értóngjié.",
+        "en": "1 Haziran Çocuk Bayramı'dır."
+      }
+    ]
+  },
+  {
+    "id": "w4732",
+    "hanzi": "龙卷风",
+    "pinyin": "lóngjuǎnfēng",
+    "meaning": "Hortum, tornado",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Hava Durumu",
+    "examples": [
+      {
+        "zh": "龙卷风摧毁了很多房屋。",
+        "pinyin": "Lóngjuǎnfēng cuīhuǐ le hěn duō fángwū.",
+        "en": "Hortum birçok evi yıktı."
+      },
+      {
+        "zh": "气象台发布了龙卷风预警。",
+        "pinyin": "Qìxiàngtái fābù le lóngjuǎnfēng yùjǐng.",
+        "en": "Meteoroloji istasyonu hortum uyarısı yayınladı."
+      },
+      {
+        "zh": "龙卷风来得很突然。",
+        "pinyin": "Lóngjuǎnfēng lái de hěn tūrán.",
+        "en": "Hortum çok ani geldi."
+      },
+      {
+        "zh": "他们目睹了一场龙卷风。",
+        "pinyin": "Tāmen mùdǔ le yì chǎng lóngjuǎnfēng.",
+        "en": "Bir tornadoya şahit oldular."
+      },
+      {
+        "zh": "美国中部经常发生龙卷风。",
+        "pinyin": "Měiguó zhōngbù jīngcháng fāshēng lóngjuǎnfēng.",
+        "en": "Amerika'nın orta kesimlerinde sık sık tornado meydana gelir."
+      }
+    ]
+  },
+  {
+    "id": "w4733",
+    "hanzi": "龙虾",
+    "pinyin": "lóngxiā",
+    "meaning": "Istakoz",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "这家餐厅的龙虾很有名。",
+        "pinyin": "Zhè jiā cāntīng de lóngxiā hěn yǒumíng.",
+        "en": "Bu restoranın ıstakozu çok meşhur."
+      },
+      {
+        "zh": "他点了一份烤龙虾。",
+        "pinyin": "Tā diǎn le yí fèn kǎo lóngxiā.",
+        "en": "Izgara ıstakoz sipariş etti."
+      },
+      {
+        "zh": "龙虾的价格比较贵。",
+        "pinyin": "Lóngxiā de jiàgé bǐjiào guì.",
+        "en": "Istakozun fiyatı oldukça pahalı."
+      },
+      {
+        "zh": "他们在海边买了新鲜的龙虾。",
+        "pinyin": "Tāmen zài hǎibiān mǎi le xīnxiān de lóngxiā.",
+        "en": "Deniz kenarında taze ıstakoz satın aldılar."
+      },
+      {
+        "zh": "小龙虾是夏天很受欢迎的美食。",
+        "pinyin": "Xiǎolóngxiā shì xiàtiān hěn shòu huānyíng de měishí.",
+        "en": "Kerevit yazın çok popüler bir yemektir."
+      }
+    ]
+  },
+  {
+    "id": "w4734",
+    "hanzi": "聋",
+    "pinyin": "lóng",
+    "meaning": "Sağır",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的爷爷耳朵聋了。",
+        "pinyin": "Tā de yéye ěrduo lóng le.",
+        "en": "Büyükbabasının kulakları sağır oldu."
+      },
+      {
+        "zh": "长期噪音会导致耳聋。",
+        "pinyin": "Chángqī zàoyīn huì dǎozhì ěrlóng.",
+        "en": "Uzun süreli gürültü sağırlığa neden olabilir."
+      },
+      {
+        "zh": "她一只耳朵是聋的。",
+        "pinyin": "Tā yì zhī ěrduo shì lóng de.",
+        "en": "Bir kulağı sağır."
+      },
+      {
+        "zh": "他戴上了助听器,不再那么聋了。",
+        "pinyin": "Tā dàishàng le zhùtīngqì, bú zài nàme lóng le.",
+        "en": "İşitme cihazı takınca artık o kadar sağır değil."
+      },
+      {
+        "zh": "这种药物可能引起耳聋。",
+        "pinyin": "Zhè zhǒng yàowù kěnéng yǐnqǐ ěrlóng.",
+        "en": "Bu ilaç sağırlığa neden olabilir."
+      }
+    ]
+  },
+  {
+    "id": "w4735",
+    "hanzi": "笼",
+    "pinyin": "lóng",
+    "meaning": "Kafes",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "鸟儿被关在笼子里。",
+        "pinyin": "Niǎor bèi guān zài lóngzi lǐ.",
+        "en": "Kuş kafeste tutuluyor."
+      },
+      {
+        "zh": "他买了一个鸟笼。",
+        "pinyin": "Tā mǎi le yí gè niǎolóng.",
+        "en": "Bir kuş kafesi satın aldı."
+      },
+      {
+        "zh": "老虎被关在铁笼里展出。",
+        "pinyin": "Lǎohǔ bèi guān zài tiělóng lǐ zhǎnchū.",
+        "en": "Kaplan demir kafeste sergileniyor."
+      },
+      {
+        "zh": "她把仓鼠养在笼子里。",
+        "pinyin": "Tā bǎ cāngshǔ yǎng zài lóngzi lǐ.",
+        "en": "Hamsterini kafeste besliyor."
+      },
+      {
+        "zh": "他打开笼子放飞了小鸟。",
+        "pinyin": "Tā dǎkāi lóngzi fàngfēi le xiǎoniǎo.",
+        "en": "Kafesi açıp küçük kuşu özgür bıraktı."
+      }
+    ]
+  },
+  {
+    "id": "w4736",
+    "hanzi": "隆重",
+    "pinyin": "lóngzhòng",
+    "meaning": "Görkemli, muhteşem (tören)",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "开幕式十分隆重。",
+        "pinyin": "Kāimùshì shífēn lóngzhòng.",
+        "en": "Açılış töreni son derece görkemliydi."
+      },
+      {
+        "zh": "他们举行了隆重的婚礼。",
+        "pinyin": "Tāmen jǔxíng le lóngzhòng de hūnlǐ.",
+        "en": "Görkemli bir düğün töreni düzenlediler."
+      },
+      {
+        "zh": "国家隆重庆祝了建国纪念日。",
+        "pinyin": "Guójiā lóngzhòng qìngzhù le jiànguó jìniànrì.",
+        "en": "Ülke, kuruluş yıldönümünü görkemli bir şekilde kutladı."
+      },
+      {
+        "zh": "他们以隆重的仪式迎接贵宾。",
+        "pinyin": "Tāmen yǐ lóngzhòng de yíshì yíngjiē guìbīn.",
+        "en": "Görkemli bir törenle önemli misafirleri karşıladılar."
+      },
+      {
+        "zh": "毕业典礼办得十分隆重。",
+        "pinyin": "Bìyè diǎnlǐ bàn de shífēn lóngzhòng.",
+        "en": "Mezuniyet töreni oldukça görkemli düzenlendi."
+      }
+    ]
+  },
+  {
+    "id": "w4737",
+    "hanzi": "垄断",
+    "pinyin": "lǒngduàn",
+    "meaning": "Tekel oluşturmak, hakim olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "这家公司垄断了整个市场。",
+        "pinyin": "Zhè jiā gōngsī lǒngduàn le zhěnggè shìchǎng.",
+        "en": "Bu şirket tüm pazara hakim oldu."
+      },
+      {
+        "zh": "政府反对企业垄断行为。",
+        "pinyin": "Zhèngfǔ fǎnduì qǐyè lǒngduàn xíngwéi.",
+        "en": "Hükümet şirketlerin tekelci davranışlarına karşı çıkıyor."
+      },
+      {
+        "zh": "他们垄断了石油资源。",
+        "pinyin": "Tāmen lǒngduàn le shíyóu zīyuán.",
+        "en": "Petrol kaynaklarına tekel oluşturdular."
+      },
+      {
+        "zh": "反垄断法限制了这种行为。",
+        "pinyin": "Fǎn-lǒngduànfǎ xiànzhì le zhè zhǒng xíngwéi.",
+        "en": "Rekabeti koruma yasası bu tür davranışları sınırladı."
+      },
+      {
+        "zh": "该行业长期被少数公司垄断。",
+        "pinyin": "Gāi hángyè chángqī bèi shǎoshù gōngsī lǒngduàn.",
+        "en": "Bu sektör uzun süredir az sayıda şirket tarafından tekelleşmiş durumda."
+      }
+    ]
+  },
+  {
+    "id": "w4738",
+    "hanzi": "笼罩",
+    "pinyin": "lǒngzhào",
+    "meaning": "Sarmak, kaplamak (sis, karanlık vb.)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "浓雾笼罩着整个城市。",
+        "pinyin": "Nóngwù lǒngzhàozhe zhěnggè chéngshì.",
+        "en": "Yoğun sis tüm şehri kapladı."
+      },
+      {
+        "zh": "夜幕笼罩了大地。",
+        "pinyin": "Yèmù lǒngzhào le dàdì.",
+        "en": "Gece karanlığı yeryüzünü sardı."
+      },
+      {
+        "zh": "悲伤的气氛笼罩着整个葬礼。",
+        "pinyin": "Bēishāng de qìfēn lǒngzhàozhe zhěnggè zànglǐ.",
+        "en": "Hüzünlü bir hava tüm cenaze törenini kapladı."
+      },
+      {
+        "zh": "阴云笼罩着天空。",
+        "pinyin": "Yīnyún lǒngzhàozhe tiānkōng.",
+        "en": "Kara bulutlar gökyüzünü kapladı."
+      },
+      {
+        "zh": "不安的情绪笼罩着全场。",
+        "pinyin": "Bù'ān de qíngxù lǒngzhàozhe quánchǎng.",
+        "en": "Huzursuz bir atmosfer tüm salonu kapladı."
+      }
+    ]
+  },
+  {
+    "id": "w4739",
+    "hanzi": "楼上",
+    "pinyin": "lóushàng",
+    "meaning": "Üst kat",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "我的房间在楼上。",
+        "pinyin": "Wǒ de fángjiān zài lóushàng.",
+        "en": "Odam üst katta."
+      },
+      {
+        "zh": "楼上住着一位老人。",
+        "pinyin": "Lóushàng zhùzhe yí wèi lǎorén.",
+        "en": "Üst katta yaşlı bir kişi oturuyor."
+      },
+      {
+        "zh": "他跑到楼上去拿东西。",
+        "pinyin": "Tā pǎodào lóushàng qù ná dōngxi.",
+        "en": "Bir şey almak için üst kata koştu."
+      },
+      {
+        "zh": "楼上的邻居很吵。",
+        "pinyin": "Lóushàng de línjū hěn chǎo.",
+        "en": "Üst katın komşuları çok gürültülü."
+      },
+      {
+        "zh": "餐厅在楼上,商店在楼下。",
+        "pinyin": "Cāntīng zài lóushàng, shāngdiàn zài lóuxià.",
+        "en": "Restoran üst katta, mağaza alt katta."
+      }
+    ]
   }
 ]

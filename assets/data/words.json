@@ -188623,5 +188623,863 @@
         "en": "Bu makalenin dili biraz ağır ve zor."
       }
     ]
+  },
+  {
+    "id": "w5505",
+    "hanzi": "僧侣",
+    "pinyin": "sēnglǚ",
+    "meaning": "keşiş, rahip (Budist)",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "寺庙里住着很多僧侣。",
+        "pinyin": "Sìmiào lǐ zhùzhe hěnduō sēnglǚ.",
+        "en": "Tapınakta birçok keşiş yaşıyor."
+      },
+      {
+        "zh": "僧侣们每天清晨诵经。",
+        "pinyin": "Sēnglǚmen měitiān qīngchén sòngjīng.",
+        "en": "Keşişler her sabah erkenden dua okuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5506",
+    "hanzi": "杀害",
+    "pinyin": "shāhài",
+    "meaning": "öldürmek, katletmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他被人残忍地杀害了。",
+        "pinyin": "Tā bèi rén cánrěn de shāhài le.",
+        "en": "Biri tarafından acımasızca öldürüldü."
+      },
+      {
+        "zh": "警方正在追查杀害凶手。",
+        "pinyin": "Jǐngfāng zhèngzài zhuīchá shāhài xiōngshǒu.",
+        "en": "Polis, cinayeti işleyen kişiyi araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5507",
+    "hanzi": "杀菌",
+    "pinyin": "shājūn",
+    "meaning": "dezenfekte etmek, mikropları öldürmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "开水可以杀菌消毒。",
+        "pinyin": "Kāishuǐ kěyǐ shājūn xiāodú.",
+        "en": "Kaynar su mikropları öldürüp dezenfekte edebilir."
+      },
+      {
+        "zh": "这种洗手液有杀菌作用。",
+        "pinyin": "Zhè zhǒng xǐshǒuyè yǒu shājūn zuòyòng.",
+        "en": "Bu el sabunu mikrop öldürme etkisine sahiptir."
+      }
+    ]
+  },
+  {
+    "id": "w5508",
+    "hanzi": "杀人",
+    "pinyin": "shārén",
+    "meaning": "adam öldürmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他因杀人罪被判无期徒刑。",
+        "pinyin": "Tā yīn shārén zuì bèi pàn wúqī túxíng.",
+        "en": "Adam öldürme suçundan ömür boyu hapis cezasına çarptırıldı."
+      },
+      {
+        "zh": "这是一起杀人案件。",
+        "pinyin": "Zhè shì yìqǐ shārén ànjiàn.",
+        "en": "Bu bir cinayet vakasıdır."
+      },
+      {
+        "zh": "警方正在调查这起杀人案。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá zhè qǐ shārén àn.",
+        "en": "Polis bu cinayet vakasını araştırıyor."
+      },
+      {
+        "zh": "电影里描述了一个杀人凶手。",
+        "pinyin": "Diànyǐng lǐ miáoshù le yí ge shārén xiōngshǒu.",
+        "en": "Filmde bir katil betimleniyor."
+      },
+      {
+        "zh": "他从未想过要杀人。",
+        "pinyin": "Tā cóngwèi xiǎngguò yào shārén.",
+        "en": "Adam öldürmeyi hiç düşünmemişti."
+      }
+    ]
+  },
+  {
+    "id": "w5509",
+    "hanzi": "色彩",
+    "pinyin": "sècǎi",
+    "meaning": "renk, renk tonu",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "这幅画的色彩十分丰富。",
+        "pinyin": "Zhè fú huà de sècǎi shífēn fēngfù.",
+        "en": "Bu tablonun renkleri oldukça zengin."
+      },
+      {
+        "zh": "她喜欢鲜艳的色彩。",
+        "pinyin": "Tā xǐhuan xiānyàn de sècǎi.",
+        "en": "Canlı renkleri sever."
+      },
+      {
+        "zh": "秋天的树叶色彩斑斓。",
+        "pinyin": "Qiūtiān de shùyè sècǎi bānlán.",
+        "en": "Sonbahar yapraklarının renkleri çok göz alıcı."
+      },
+      {
+        "zh": "这个设计缺乏色彩变化。",
+        "pinyin": "Zhège shèjì quēfá sècǎi biànhuà.",
+        "en": "Bu tasarımda renk değişimi eksik."
+      },
+      {
+        "zh": "他用鲜明的色彩表达了自己的情感。",
+        "pinyin": "Tā yòng xiānmíng de sècǎi biǎodá le zìjǐ de qínggǎn.",
+        "en": "Canlı renkler kullanarak kendi duygularını ifade etti."
+      }
+    ]
+  },
+  {
+    "id": "w5510",
+    "hanzi": "刹车",
+    "pinyin": "shāchē",
+    "meaning": "fren yapmak; fren",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "司机紧急刹车了。",
+        "pinyin": "Sījī jǐnjí shāchē le.",
+        "en": "Şoför ani fren yaptı."
+      },
+      {
+        "zh": "这辆车的刹车不太灵。",
+        "pinyin": "Zhè liàng chē de shāchē bú tài líng.",
+        "en": "Bu arabanın freni pek iyi çalışmıyor."
+      },
+      {
+        "zh": "他及时刹车避免了事故。",
+        "pinyin": "Tā jíshí shāchē bìmiǎn le shìgù.",
+        "en": "Zamanında fren yaparak kazayı önledi."
+      },
+      {
+        "zh": "自行车的刹车坏了。",
+        "pinyin": "Zìxíngchē de shāchē huài le.",
+        "en": "Bisikletin freni bozuldu."
+      },
+      {
+        "zh": "开车时不要突然刹车。",
+        "pinyin": "Kāichē shí búyào tūrán shāchē.",
+        "en": "Araba kullanırken aniden fren yapma."
+      }
+    ]
+  },
+  {
+    "id": "w5511",
+    "hanzi": "沙",
+    "pinyin": "shā",
+    "meaning": "kum",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "孩子们在沙滩上玩沙。",
+        "pinyin": "Háizimen zài shātān shàng wánshā.",
+        "en": "Çocuklar plajda kumla oynuyor."
+      },
+      {
+        "zh": "沙进到了鞋子里。",
+        "pinyin": "Shā jìndào le xiézi lǐ.",
+        "en": "Kum ayakkabının içine girdi."
+      },
+      {
+        "zh": "风把沙吹得到处都是。",
+        "pinyin": "Fēng bǎ shā chuī de dàochù dōu shì.",
+        "en": "Rüzgar kumu her yere savurdu."
+      },
+      {
+        "zh": "沙漠里到处都是沙。",
+        "pinyin": "Shāmò lǐ dàochù dōu shì shā.",
+        "en": "Çölde her yer kum."
+      },
+      {
+        "zh": "他用沙堆了一座城堡。",
+        "pinyin": "Tā yòng shā duī le yí zuò chéngbǎo.",
+        "en": "Kumla bir kale inşa etti."
+      }
+    ]
+  },
+  {
+    "id": "w5512",
+    "hanzi": "沙拉",
+    "pinyin": "shālā",
+    "meaning": "salata",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek ve İçecek",
+    "examples": [
+      {
+        "zh": "我点了一份蔬菜沙拉。",
+        "pinyin": "Wǒ diǎn le yí fèn shūcài shālā.",
+        "en": "Bir porsiyon sebze salatası sipariş ettim."
+      },
+      {
+        "zh": "这份沙拉很新鲜。",
+        "pinyin": "Zhè fèn shālā hěn xīnxiān.",
+        "en": "Bu salata çok taze."
+      },
+      {
+        "zh": "她每天午餐都吃沙拉。",
+        "pinyin": "Tā měitiān wǔcān dōu chī shālā.",
+        "en": "Her gün öğle yemeğinde salata yiyor."
+      },
+      {
+        "zh": "他自己动手做了水果沙拉。",
+        "pinyin": "Tā zìjǐ dòngshǒu zuò le shuǐguǒ shālā.",
+        "en": "Kendi elleriyle meyve salatası yaptı."
+      },
+      {
+        "zh": "沙拉酱应该少放一点。",
+        "pinyin": "Shālājiàng yīnggāi shǎo fàng yìdiǎn.",
+        "en": "Salata sosu az konulmalı."
+      }
+    ]
+  },
+  {
+    "id": "w5513",
+    "hanzi": "沙哑",
+    "pinyin": "shāyǎ",
+    "meaning": "kısık (ses)",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他感冒了，声音变得沙哑。",
+        "pinyin": "Tā gǎnmào le, shēngyīn biànde shāyǎ.",
+        "en": "Gribe yakalandı, sesi kısıldı."
+      },
+      {
+        "zh": "她用沙哑的嗓音唱完了这首歌。",
+        "pinyin": "Tā yòng shāyǎ de sǎngyīn chàngwán le zhè shǒu gē.",
+        "en": "Kısık sesiyle bu şarkıyı söyleyip bitirdi."
+      }
+    ]
+  },
+  {
+    "id": "w5514",
+    "hanzi": "鲨鱼",
+    "pinyin": "shāyú",
+    "meaning": "köpekbalığı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "海里有很多鲨鱼。",
+        "pinyin": "Hǎi lǐ yǒu hěnduō shāyú.",
+        "en": "Denizde birçok köpekbalığı var."
+      },
+      {
+        "zh": "鲨鱼是海洋中的顶级捕食者。",
+        "pinyin": "Shāyú shì hǎiyáng zhōng de dǐngjí bǔshízhě.",
+        "en": "Köpekbalığı okyanusun en üstteki avcısıdır."
+      },
+      {
+        "zh": "他在电视上看到了一条巨大的鲨鱼。",
+        "pinyin": "Tā zài diànshì shàng kàndào le yì tiáo jùdà de shāyú.",
+        "en": "Televizyonda dev bir köpekbalığı gördü."
+      },
+      {
+        "zh": "潜水员必须小心鲨鱼的出没。",
+        "pinyin": "Qiánshuǐyuán bìxū xiǎoxīn shāyú de chūmò.",
+        "en": "Dalgıçların köpekbalığı görülen yerlerde dikkatli olması gerekir."
+      },
+      {
+        "zh": "鲨鱼的牙齿非常锋利。",
+        "pinyin": "Shāyú de yáchǐ fēicháng fēnglì.",
+        "en": "Köpekbalığının dişleri çok keskindir."
+      }
+    ]
+  },
+  {
+    "id": "w5515",
+    "hanzi": "纱布",
+    "pinyin": "shābù",
+    "meaning": "gazlı bez, tülbent",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "医生用纱布包扎了伤口。",
+        "pinyin": "Yīshēng yòng shābù bāozhā le shāngkǒu.",
+        "en": "Doktor yarayı gazlı bezle sardı."
+      },
+      {
+        "zh": "药箱里有消毒纱布。",
+        "pinyin": "Yàoxiāng lǐ yǒu xiāodú shābù.",
+        "en": "İlk yardım çantasında steril gazlı bez var."
+      }
+    ]
+  },
+  {
+    "id": "w5516",
+    "hanzi": "傻瓜",
+    "pinyin": "shǎguā",
+    "meaning": "aptal",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "别做傻瓜，快想想办法。",
+        "pinyin": "Bié zuò shǎguā, kuài xiǎngxiang bànfǎ.",
+        "en": "Aptal olma, çabuk bir çözüm bul."
+      },
+      {
+        "zh": "他不是傻瓜，只是太天真了。",
+        "pinyin": "Tā búshì shǎguā, zhǐshì tài tiānzhēn le.",
+        "en": "Aptal değil, sadece çok saf."
+      },
+      {
+        "zh": "只有傻瓜才会相信这种谎话。",
+        "pinyin": "Zhǐyǒu shǎguā cái huì xiāngxìn zhè zhǒng huǎnghuà.",
+        "en": "Sadece aptallar böyle bir yalana inanır."
+      },
+      {
+        "zh": "她笑他是个傻瓜。",
+        "pinyin": "Tā xiào tā shì ge shǎguā.",
+        "en": "Onun aptal olduğuna gülüyor."
+      },
+      {
+        "zh": "别叫我傻瓜，我只是不小心。",
+        "pinyin": "Bié jiào wǒ shǎguā, wǒ zhǐshì bùxiǎoxīn.",
+        "en": "Bana aptal deme, sadece dikkatsizlik ettim."
+      }
+    ]
+  },
+  {
+    "id": "w5517",
+    "hanzi": "山川",
+    "pinyin": "shānchuān",
+    "meaning": "dağlar ve nehirler, manzara",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "祖国的山川十分壮丽。",
+        "pinyin": "Zǔguó de shānchuān shífēn zhuànglì.",
+        "en": "Vatanın dağları ve nehirleri son derece görkemli."
+      },
+      {
+        "zh": "他喜欢描绘山川风光。",
+        "pinyin": "Tā xǐhuan miáohuì shānchuān fēngguāng.",
+        "en": "Dağ ve nehir manzaralarını resmetmeyi seviyor."
+      }
+    ]
+  },
+  {
+    "id": "w5518",
+    "hanzi": "山村",
+    "pinyin": "shāncūn",
+    "meaning": "dağ köyü",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他出生在一个偏僻的山村。",
+        "pinyin": "Tā chūshēng zài yí ge piānpì de shāncūn.",
+        "en": "Ücra bir dağ köyünde doğdu."
+      },
+      {
+        "zh": "这个山村风景优美。",
+        "pinyin": "Zhège shāncūn fēngjǐng yōuměi.",
+        "en": "Bu dağ köyünün manzarası çok güzel."
+      },
+      {
+        "zh": "山村的生活节奏很慢。",
+        "pinyin": "Shāncūn de shēnghuó jiézòu hěn màn.",
+        "en": "Dağ köyünün yaşam temposu çok yavaş."
+      },
+      {
+        "zh": "他放弃城市生活回到了山村。",
+        "pinyin": "Tā fàngqì chéngshì shēnghuó huídào le shāncūn.",
+        "en": "Şehir hayatını bırakıp dağ köyüne geri döndü."
+      },
+      {
+        "zh": "老师志愿到山村支教。",
+        "pinyin": "Lǎoshī zhìyuàn dào shāncūn zhījiào.",
+        "en": "Öğretmen gönüllü olarak dağ köyünde eğitim vermeye gitti."
+      }
+    ]
+  },
+  {
+    "id": "w5519",
+    "hanzi": "山地",
+    "pinyin": "shāndì",
+    "meaning": "dağlık arazi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这个国家有很多山地。",
+        "pinyin": "Zhège guójiā yǒu hěnduō shāndì.",
+        "en": "Bu ülkede çok fazla dağlık arazi var."
+      },
+      {
+        "zh": "山地地区不适合种植水稻。",
+        "pinyin": "Shāndì dìqū bú shìhé zhòngzhí shuǐdào.",
+        "en": "Dağlık bölgeler pirinç yetiştirmek için uygun değildir."
+      },
+      {
+        "zh": "他们在山地建了几座房子。",
+        "pinyin": "Tāmen zài shāndì jiàn le jǐ zuò fángzi.",
+        "en": "Dağlık arazide birkaç ev inşa ettiler."
+      },
+      {
+        "zh": "这条山地自行车道很有挑战性。",
+        "pinyin": "Zhè tiáo shāndì zìxíngchēdào hěn yǒu tiǎozhànxìng.",
+        "en": "Bu dağ bisikleti yolu oldukça zorlayıcı."
+      },
+      {
+        "zh": "他喜欢在山地徒步旅行。",
+        "pinyin": "Tā xǐhuan zài shāndì túbù lǚxíng.",
+        "en": "Dağlık arazide yürüyüş yapmayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5520",
+    "hanzi": "山顶",
+    "pinyin": "shāndǐng",
+    "meaning": "dağın zirvesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他们终于爬到了山顶。",
+        "pinyin": "Tāmen zhōngyú pádào le shāndǐng.",
+        "en": "Sonunda dağın zirvesine tırmandılar."
+      },
+      {
+        "zh": "山顶上覆盖着白雪。",
+        "pinyin": "Shāndǐng shàng fùgàizhe báixuě.",
+        "en": "Dağın zirvesi beyaz karla kaplı."
+      },
+      {
+        "zh": "从山顶可以俯瞰整个城市。",
+        "pinyin": "Cóng shāndǐng kěyǐ fǔkàn zhěnggè chéngshì.",
+        "en": "Dağın zirvesinden tüm şehir görülebilir."
+      },
+      {
+        "zh": "登上山顶花了三个小时。",
+        "pinyin": "Dēngshàng shāndǐng huā le sān ge xiǎoshí.",
+        "en": "Zirveye çıkmak üç saat sürdü."
+      },
+      {
+        "zh": "山顶的空气非常清新。",
+        "pinyin": "Shāndǐng de kōngqì fēicháng qīngxīn.",
+        "en": "Zirvedeki hava çok temiz."
+      }
+    ]
+  },
+  {
+    "id": "w5521",
+    "hanzi": "山峰",
+    "pinyin": "shānfēng",
+    "meaning": "dağ tepesi, zirve",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "远处有一座高耸的山峰。",
+        "pinyin": "Yuǎnchù yǒu yí zuò gāosǒng de shānfēng.",
+        "en": "Uzakta yüksek bir dağ tepesi var."
+      },
+      {
+        "zh": "这座山峰是这个地区最高的。",
+        "pinyin": "Zhè zuò shānfēng shì zhège dìqū zuìgāo de.",
+        "en": "Bu dağ tepesi bu bölgenin en yükseği."
+      },
+      {
+        "zh": "云雾环绕着山峰。",
+        "pinyin": "Yúnwù huánràozhe shānfēng.",
+        "en": "Sis ve bulutlar dağ tepesini sarıyor."
+      },
+      {
+        "zh": "登山者征服了这座险峻的山峰。",
+        "pinyin": "Dēngshānzhě zhēngfú le zhè zuò xiǎnjùn de shānfēng.",
+        "en": "Dağcı bu sarp zirveyi fethetti."
+      },
+      {
+        "zh": "夕阳照亮了山峰。",
+        "pinyin": "Xīyáng zhàoliàng le shānfēng.",
+        "en": "Gün batımı zirveyi aydınlattı."
+      }
+    ]
+  },
+  {
+    "id": "w5522",
+    "hanzi": "山林",
+    "pinyin": "shānlín",
+    "meaning": "dağ ve orman, dağlık ormanlık alan",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他隐居在深山林中。",
+        "pinyin": "Tā yǐnjū zài shēn shānlín zhōng.",
+        "en": "Derin bir dağ ormanında inzivaya çekildi."
+      },
+      {
+        "zh": "山林里生活着许多野生动物。",
+        "pinyin": "Shānlín lǐ shēnghuózhe hěnduō yěshēng dòngwù.",
+        "en": "Dağlık ormanlık alanda birçok vahşi hayvan yaşıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5523",
+    "hanzi": "山脉",
+    "pinyin": "shānmài",
+    "meaning": "dağ silsilesi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这条山脉横贯整个国家。",
+        "pinyin": "Zhè tiáo shānmài héngguàn zhěnggè guójiā.",
+        "en": "Bu dağ silsilesi tüm ülkeyi baştan başa geçer."
+      },
+      {
+        "zh": "喜马拉雅山脉是世界最高的山脉。",
+        "pinyin": "Xǐmǎlāyǎ shānmài shì shìjiè zuìgāo de shānmài.",
+        "en": "Himalaya dağ silsilesi dünyanın en yüksek dağ silsilesidir."
+      },
+      {
+        "zh": "这座山脉终年积雪。",
+        "pinyin": "Zhè zuò shānmài zhōngnián jīxuě.",
+        "en": "Bu dağ silsilesi yıl boyunca karla kaplıdır."
+      },
+      {
+        "zh": "山脉阻挡了寒冷的北风。",
+        "pinyin": "Shānmài zǔdǎng le hánlěng de běifēng.",
+        "en": "Dağ silsilesi soğuk kuzey rüzgarını engelledi."
+      },
+      {
+        "zh": "这条山脉蕴藏着丰富的矿产资源。",
+        "pinyin": "Zhè tiáo shānmài yùncángzhe fēngfù de kuàngchǎn zīyuán.",
+        "en": "Bu dağ silsilesinde zengin maden kaynakları bulunur."
+      }
+    ]
+  },
+  {
+    "id": "w5524",
+    "hanzi": "山坡",
+    "pinyin": "shānpō",
+    "meaning": "dağ yamacı",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "羊群在山坡上吃草。",
+        "pinyin": "Yángqún zài shānpō shàng chīcǎo.",
+        "en": "Koyun sürüsü dağ yamacında otluyor."
+      },
+      {
+        "zh": "山坡上种满了果树。",
+        "pinyin": "Shānpō shàng zhòngmǎn le guǒshù.",
+        "en": "Dağ yamacına meyve ağaçları dikilmiş."
+      },
+      {
+        "zh": "孩子们在山坡上滑雪。",
+        "pinyin": "Háizimen zài shānpō shàng huáxuě.",
+        "en": "Çocuklar dağ yamacında kayak yapıyor."
+      },
+      {
+        "zh": "他们沿着山坡慢慢往上爬。",
+        "pinyin": "Tāmen yánzhe shānpō mànmàn wǎngshàng pá.",
+        "en": "Dağ yamacı boyunca yavaşça tırmanıyorlar."
+      },
+      {
+        "zh": "山坡上开满了野花。",
+        "pinyin": "Shānpō shàng kāimǎn le yěhuā.",
+        "en": "Dağ yamacı yabani çiçeklerle kaplı."
+      }
+    ]
+  },
+  {
+    "id": "w5525",
+    "hanzi": "山水",
+    "pinyin": "shānshuǐ",
+    "meaning": "dağ ve su manzarası, doğa manzarası",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这里的山水风光非常迷人。",
+        "pinyin": "Zhèlǐ de shānshuǐ fēngguāng fēicháng mírén.",
+        "en": "Buradaki doğa manzarası son derece büyüleyici."
+      },
+      {
+        "zh": "他擅长画山水画。",
+        "pinyin": "Tā shàncháng huà shānshuǐhuà.",
+        "en": "Dağ-su tarzı resim yapmada ustadır."
+      },
+      {
+        "zh": "桂林的山水甲天下。",
+        "pinyin": "Guìlín de shānshuǐ jiǎ tiānxià.",
+        "en": "Guilin'in doğa manzarası dünyada eşsizdir."
+      },
+      {
+        "zh": "这幅山水画挂在客厅里。",
+        "pinyin": "Zhè fú shānshuǐhuà guà zài kètīng lǐ.",
+        "en": "Bu dağ-su resmi oturma odasında asılı."
+      },
+      {
+        "zh": "他们去欣赏当地的山水景色。",
+        "pinyin": "Tāmen qù xīnshǎng dāngdì de shānshuǐ jǐngsè.",
+        "en": "Yerel doğa manzarasını görmeye gittiler."
+      }
+    ]
+  },
+  {
+    "id": "w5526",
+    "hanzi": "山羊",
+    "pinyin": "shānyáng",
+    "meaning": "keçi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Hayvanlar",
+    "examples": [
+      {
+        "zh": "农场里养了几只山羊。",
+        "pinyin": "Nóngchǎng lǐ yǎng le jǐ zhī shānyáng.",
+        "en": "Çiftlikte birkaç keçi besleniyor."
+      },
+      {
+        "zh": "山羊喜欢吃草和树叶。",
+        "pinyin": "Shānyáng xǐhuan chī cǎo hé shùyè.",
+        "en": "Keçiler ot ve yaprak yemeyi sever."
+      },
+      {
+        "zh": "这只山羊会爬陡坡。",
+        "pinyin": "Zhè zhī shānyáng huì pá dǒupō.",
+        "en": "Bu keçi dik yamaçlara tırmanabilir."
+      },
+      {
+        "zh": "他们用山羊奶做奶酪。",
+        "pinyin": "Tāmen yòng shānyáng nǎi zuò nǎilào.",
+        "en": "Keçi sütüyle peynir yapıyorlar."
+      },
+      {
+        "zh": "小山羊在草地上蹦蹦跳跳。",
+        "pinyin": "Xiǎo shānyáng zài cǎodì shàng bèngbèngtiàotiào.",
+        "en": "Küçük keçi çayırda zıplayıp duruyor."
+      }
+    ]
+  },
+  {
+    "id": "w5527",
+    "hanzi": "山寨",
+    "pinyin": "shānzhài",
+    "meaning": "dağ kalesi; (mecazi) taklit ürün",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "古代山寨常常建在险要之处。",
+        "pinyin": "Gǔdài shānzhài chángcháng jiàn zài xiǎnyào zhīchù.",
+        "en": "Antik dağ kaleleri genellikle stratejik ve sarp yerlere inşa edilirdi."
+      },
+      {
+        "zh": "市场上有很多山寨手机。",
+        "pinyin": "Shìchǎng shàng yǒu hěnduō shānzhài shǒujī.",
+        "en": "Piyasada birçok taklit telefon var."
+      }
+    ]
+  },
+  {
+    "id": "w5528",
+    "hanzi": "扇动",
+    "pinyin": "shāndòng",
+    "meaning": "(kanat) çırpmak; kışkırtmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "蝴蝶扇动着翅膀飞走了。",
+        "pinyin": "Húdié shāndòngzhe chìbǎng fēizǒu le.",
+        "en": "Kelebek kanatlarını çırparak uçtu."
+      },
+      {
+        "zh": "有人在网上扇动情绪。",
+        "pinyin": "Yǒurén zài wǎngshàng shāndòng qíngxù.",
+        "en": "Biri internette duyguları kışkırtıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5529",
+    "hanzi": "珊瑚",
+    "pinyin": "shānhú",
+    "meaning": "mercan",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "这片海域有美丽的珊瑚礁。",
+        "pinyin": "Zhè piàn hǎiyù yǒu měilì de shānhújiāo.",
+        "en": "Bu deniz bölgesinde güzel mercan resifleri var."
+      },
+      {
+        "zh": "珊瑚是许多海洋生物的家园。",
+        "pinyin": "Shānhú shì hěnduō hǎiyáng shēngwù de jiāyuán.",
+        "en": "Mercanlar birçok deniz canlısının yuvasıdır."
+      },
+      {
+        "zh": "全球变暖威胁着珊瑚的生存。",
+        "pinyin": "Quánqiú biànnuǎn wēixiézhe shānhú de shēngcún.",
+        "en": "Küresel ısınma mercanların yaşamını tehdit ediyor."
+      },
+      {
+        "zh": "潜水员在海底拍摄珊瑚。",
+        "pinyin": "Qiánshuǐyuán zài hǎidǐ pāishè shānhú.",
+        "en": "Dalgıç deniz dibinde mercan fotoğrafladı."
+      },
+      {
+        "zh": "她戴着一条珊瑚项链。",
+        "pinyin": "Tā dàizhe yì tiáo shānhú xiàngliàn.",
+        "en": "Bir mercan kolye takıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5530",
+    "hanzi": "删",
+    "pinyin": "shān",
+    "meaning": "silmek, çıkarmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他删掉了这段文字。",
+        "pinyin": "Tā shāndiào le zhè duàn wénzì.",
+        "en": "Bu metin bölümünü sildi."
+      },
+      {
+        "zh": "请删除多余的内容。",
+        "pinyin": "Qǐng shānchú duōyú de nèiróng.",
+        "en": "Lütfen fazla içeriği silin."
+      },
+      {
+        "zh": "他不小心删了重要文件。",
+        "pinyin": "Tā bùxiǎoxīn shān le zhòngyào wénjiàn.",
+        "en": "Yanlışlıkla önemli bir dosyayı sildi."
+      },
+      {
+        "zh": "编辑删去了几个句子。",
+        "pinyin": "Biānjí shānqù le jǐge jùzi.",
+        "en": "Editör birkaç cümleyi çıkardı."
+      },
+      {
+        "zh": "这篇文章需要删减一些内容。",
+        "pinyin": "Zhè piān wénzhāng xūyào shānjiǎn yìxiē nèiróng.",
+        "en": "Bu makalenin bazı içeriklerinin kısaltılması gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5531",
+    "hanzi": "扇",
+    "pinyin": "shān",
+    "meaning": "yelpazelemek, savurmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她拿着扇子扇风。",
+        "pinyin": "Tā názhe shànzi shānfēng.",
+        "en": "Yelpazeyle kendini yelpazeliyor."
+      },
+      {
+        "zh": "他扇了扇火，让火烧得更旺。",
+        "pinyin": "Tā shān le shān huǒ, ràng huǒ shāo de gèng wàng.",
+        "en": "Ateşi yelpazeleyerek daha çok alevlenmesini sağladı."
+      },
+      {
+        "zh": "天气很热，她一直在扇扇子。",
+        "pinyin": "Tiānqì hěn rè, tā yìzhí zài shān shànzi.",
+        "en": "Hava çok sıcak, sürekli yelpazeleniyor."
+      },
+      {
+        "zh": "他用报纸扇了扇凉风。",
+        "pinyin": "Tā yòng bàozhǐ shān le shān liángfēng.",
+        "en": "Gazeteyle kendine serin bir rüzgar estirdi."
+      },
+      {
+        "zh": "小鸟扇动着翅膀飞向天空。",
+        "pinyin": "Xiǎoniǎo shāndòngzhe chìbǎng fēixiàng tiānkōng.",
+        "en": "Küçük kuş kanatlarını çırparak gökyüzüne doğru uçtu."
+      }
+    ]
+  },
+  {
+    "id": "w5532",
+    "hanzi": "傻笑",
+    "pinyin": "shǎxiào",
+    "meaning": "aptalca gülmek, manasız gülmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Duygular",
+    "examples": [
+      {
+        "zh": "他一个人在那里傻笑。",
+        "pinyin": "Tā yí ge rén zài nàlǐ shǎxiào.",
+        "en": "Orada tek başına aptalca gülüyor."
+      },
+      {
+        "zh": "她看着照片傻笑起来。",
+        "pinyin": "Tā kànzhe zhàopiàn shǎxiào qǐlái.",
+        "en": "Fotoğrafa bakarken manasızca gülmeye başladı."
+      }
+    ]
   }
 ]

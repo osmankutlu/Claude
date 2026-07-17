@@ -195157,5 +195157,758 @@
         "en": "Kendini gücüyle kanıtladı."
       }
     ]
+  },
+  {
+    "id": "w5729",
+    "hanzi": "实例",
+    "pinyin": "shílì",
+    "meaning": "örnek, misal, vaka",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "老师举了一个实例来说明这个问题。",
+        "pinyin": "Lǎoshī jǔ le yí ge shílì lái shuōmíng zhège wèntí.",
+        "en": "Öğretmen bu konuyu açıklamak için bir örnek verdi."
+      },
+      {
+        "zh": "这本书提供了很多实例分析。",
+        "pinyin": "Zhè běn shū tígōng le hěnduō shílì fēnxī.",
+        "en": "Bu kitap birçok örnek analiz sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5730",
+    "hanzi": "实情",
+    "pinyin": "shíqíng",
+    "meaning": "gerçek durum, hakikat",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他向警方交代了实情。",
+        "pinyin": "Tā xiàng jǐngfāng jiāodài le shíqíng.",
+        "en": "Gerçek durumu polise anlattı."
+      },
+      {
+        "zh": "她一直隐瞒着实情。",
+        "pinyin": "Tā yìzhí yǐnmánzhe shíqíng.",
+        "en": "Gerçeği sürekli gizliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5731",
+    "hanzi": "实体",
+    "pinyin": "shítǐ",
+    "meaning": "varlık, madde, tüzel kişilik",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这是一家实体店。",
+        "pinyin": "Zhè shì yì jiā shítǐdiàn.",
+        "en": "Bu fiziksel bir mağaza."
+      },
+      {
+        "zh": "公司作为独立的法律实体存在。",
+        "pinyin": "Gōngsī zuòwéi dúlì de fǎlǜ shítǐ cúnzài.",
+        "en": "Şirket bağımsız bir tüzel kişilik olarak var oluyor."
+      }
+    ]
+  },
+  {
+    "id": "w5732",
+    "hanzi": "实物",
+    "pinyin": "shíwù",
+    "meaning": "gerçek eşya, ayni mal",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "请以实物为准，图片仅供参考。",
+        "pinyin": "Qǐng yǐ shíwù wéizhǔn, túpiàn jǐn gōng cānkǎo.",
+        "en": "Lütfen gerçek ürünü esas alın, resimler sadece referans içindir."
+      },
+      {
+        "zh": "工资的一部分以实物形式发放。",
+        "pinyin": "Gōngzī de yíbùfen yǐ shíwù xíngshì fāfàng.",
+        "en": "Maaşın bir kısmı ayni olarak ödeniyor."
+      }
+    ]
+  },
+  {
+    "id": "w5733",
+    "hanzi": "实业",
+    "pinyin": "shíyè",
+    "meaning": "endüstri ve ticaret",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他投身于实业救国的事业。",
+        "pinyin": "Tā tóushēn yú shíyè jiùguó de shìyè.",
+        "en": "Endüstriyi geliştirerek ülkeyi kalkındırma davasına kendini adadı."
+      },
+      {
+        "zh": "这位企业家是实业界的知名人物。",
+        "pinyin": "Zhè wèi qǐyèjiā shì shíyèjiè de zhīmíng rénwù.",
+        "en": "Bu iş insanı endüstri dünyasında tanınmış bir isim."
+      }
+    ]
+  },
+  {
+    "id": "w5734",
+    "hanzi": "实质",
+    "pinyin": "shízhì",
+    "meaning": "öz, asıl, esas",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "我们要看清问题的实质。",
+        "pinyin": "Wǒmen yào kànqīng wèntí de shízhì.",
+        "en": "Sorunun özünü net bir şekilde görmeliyiz."
+      },
+      {
+        "zh": "这两个方案实质上没有区别。",
+        "pinyin": "Zhè liǎng ge fāng'àn shízhì shàng méiyǒu qūbié.",
+        "en": "Bu iki plan esasında farksız."
+      }
+    ]
+  },
+  {
+    "id": "w5735",
+    "hanzi": "识别",
+    "pinyin": "shíbié",
+    "meaning": "ayırt etmek, tanımak, seçmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这套系统可以识别人脸。",
+        "pinyin": "Zhè tào xìtǒng kěyǐ shíbié rénliǎn.",
+        "en": "Bu sistem yüzleri tanıyabiliyor."
+      },
+      {
+        "zh": "他很容易识别真假。",
+        "pinyin": "Tā hěn róngyì shíbié zhēnjiǎ.",
+        "en": "Gerçek ile sahteyi kolayca ayırt edebiliyor."
+      },
+      {
+        "zh": "医生通过症状识别疾病。",
+        "pinyin": "Yīshēng tōngguò zhèngzhuàng shíbié jíbìng.",
+        "en": "Doktor belirtiler yoluyla hastalığı ayırt ediyor."
+      },
+      {
+        "zh": "机器很难识别这种复杂的图案。",
+        "pinyin": "Jīqì hěn nán shíbié zhè zhǒng fùzá de tú'àn.",
+        "en": "Makine bu karmaşık deseni tanımakta zorlanıyor."
+      },
+      {
+        "zh": "他能识别多种鸟类的叫声。",
+        "pinyin": "Tā néng shíbié duōzhǒng niǎolèi de jiàoshēng.",
+        "en": "Birçok kuş türünün sesini ayırt edebiliyor."
+      }
+    ]
+  },
+  {
+    "id": "w5736",
+    "hanzi": "石",
+    "pinyin": "shí",
+    "meaning": "taş, kaya",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他捡起了一块石头。",
+        "pinyin": "Tā jiǎnqǐ le yí kuài shítou.",
+        "en": "Bir taş parçası aldı."
+      },
+      {
+        "zh": "这条路铺满了石子。",
+        "pinyin": "Zhè tiáo lù pūmǎn le shízi.",
+        "en": "Bu yol taşlarla döşenmiş."
+      },
+      {
+        "zh": "山上到处都是巨石。",
+        "pinyin": "Shān shàng dàochù dōu shì jùshí.",
+        "en": "Dağın her yeri kocaman kayalarla dolu."
+      },
+      {
+        "zh": "他用石头堆了一座小山。",
+        "pinyin": "Tā yòng shítou duī le yí zuò xiǎoshān.",
+        "en": "Taşlarla küçük bir tepe yığdı."
+      },
+      {
+        "zh": "这座桥是用石头建的。",
+        "pinyin": "Zhè zuò qiáo shì yòng shítou jiàn de.",
+        "en": "Bu köprü taştan inşa edilmiştir."
+      }
+    ]
+  },
+  {
+    "id": "w5737",
+    "hanzi": "石板",
+    "pinyin": "shíbǎn",
+    "meaning": "taş levha, taş döşeme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "地面铺着一块块石板。",
+        "pinyin": "Dìmiàn pūzhe yíkuài kuài shíbǎn.",
+        "en": "Zemin taş levhalarla döşenmiş."
+      },
+      {
+        "zh": "这条古老的石板路已有几百年历史。",
+        "pinyin": "Zhè tiáo gǔlǎo de shíbǎnlù yǐ yǒu jǐbǎi nián lìshǐ.",
+        "en": "Bu eski taş döşeli yolun birkaç yüz yıllık bir tarihi var."
+      }
+    ]
+  },
+  {
+    "id": "w5738",
+    "hanzi": "拾",
+    "pinyin": "shí",
+    "meaning": "(yerden) almak, kaldırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他拾起了地上的钱包。",
+        "pinyin": "Tā shíqǐ le dìshàng de qiánbāo.",
+        "en": "Yerdeki cüzdanı aldı."
+      },
+      {
+        "zh": "孩子们在沙滩上拾贝壳。",
+        "pinyin": "Háizimen zài shātān shàng shí bèiké.",
+        "en": "Çocuklar plajda deniz kabuğu topluyor."
+      }
+    ]
+  },
+  {
+    "id": "w5739",
+    "hanzi": "史",
+    "pinyin": "shǐ",
+    "meaning": "tarih",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tarih",
+    "examples": [
+      {
+        "zh": "他专门研究古代史。",
+        "pinyin": "Tā zhuānmén yánjiū gǔdàishǐ.",
+        "en": "Özellikle antik tarih üzerine araştırma yapıyor."
+      },
+      {
+        "zh": "这是一部人类文明的发展史。",
+        "pinyin": "Zhè shì yí bù rénlèi wénmíng de fāzhǎnshǐ.",
+        "en": "Bu, insan medeniyetinin gelişim tarihidir."
+      },
+      {
+        "zh": "他创造了世界纪录，名留史册。",
+        "pinyin": "Tā chuàngzào le shìjiè jìlù, míng liú shǐcè.",
+        "en": "Bir dünya rekoru kırarak tarihe adını yazdırdı."
+      },
+      {
+        "zh": "这段历史充满了戏剧性。",
+        "pinyin": "Zhè duàn lìshǐ chōngmǎn le xìjùxìng.",
+        "en": "Bu tarih dönemi dramatik olaylarla dolu."
+      },
+      {
+        "zh": "他喜欢阅读战争史。",
+        "pinyin": "Tā xǐhuan yuèdú zhànzhēngshǐ.",
+        "en": "Savaş tarihi okumayı sever."
+      }
+    ]
+  },
+  {
+    "id": "w5740",
+    "hanzi": "史诗",
+    "pinyin": "shǐshī",
+    "meaning": "destan",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "sanat",
+    "examples": [
+      {
+        "zh": "《荷马史诗》是西方文学的经典。",
+        "pinyin": "《Hémǎ Shǐshī》shì xīfāng wénxué de jīngdiǎn.",
+        "en": "Homer Destanları, Batı edebiyatının klasiklerindendir."
+      },
+      {
+        "zh": "这部电影具有史诗般的气势。",
+        "pinyin": "Zhè bù diànyǐng jùyǒu shǐshī bān de qìshì.",
+        "en": "Bu film destansı bir ihtişama sahip."
+      }
+    ]
+  },
+  {
+    "id": "w5741",
+    "hanzi": "史书",
+    "pinyin": "shǐshū",
+    "meaning": "tarih kitabı, tarihi kayıtlar",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "史书记载了这场重要的战役。",
+        "pinyin": "Shǐshū jìzǎi le zhè chǎng zhòngyào de zhànyì.",
+        "en": "Tarih kitapları bu önemli savaşı kaydetti."
+      },
+      {
+        "zh": "他每天都读一些古代史书。",
+        "pinyin": "Tā měitiān dōu dú yìxiē gǔdài shǐshū.",
+        "en": "Her gün antik tarih kitapları okuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5742",
+    "hanzi": "史学",
+    "pinyin": "shǐxué",
+    "meaning": "tarih bilimi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "他是一位著名的史学家。",
+        "pinyin": "Tā shì yí wèi zhùmíng de shǐxuéjiā.",
+        "en": "O tanınmış bir tarihçidir."
+      },
+      {
+        "zh": "史学研究需要严谨的态度。",
+        "pinyin": "Shǐxué yánjiū xūyào yánjǐn de tàidù.",
+        "en": "Tarih araştırması titiz bir yaklaşım gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5743",
+    "hanzi": "使得",
+    "pinyin": "shǐde",
+    "meaning": "sağlamak, yol açmak, neden olmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Dilbilgisi Kelimeleri",
+    "examples": [
+      {
+        "zh": "新技术使得生产效率大大提高。",
+        "pinyin": "Xīn jìshù shǐde shēngchǎn xiàolǜ dàdà tígāo.",
+        "en": "Yeni teknoloji üretim verimliliğini büyük ölçüde artırdı."
+      },
+      {
+        "zh": "这场雨使得气温骤降。",
+        "pinyin": "Zhè chǎng yǔ shǐde qìwēn zhòujiàng.",
+        "en": "Bu yağmur sıcaklığın hızla düşmesine neden oldu."
+      },
+      {
+        "zh": "他的努力使得项目顺利完成。",
+        "pinyin": "Tā de nǔlì shǐde xiàngmù shùnlì wánchéng.",
+        "en": "Çabası projenin sorunsuzca tamamlanmasını sağladı."
+      },
+      {
+        "zh": "交通堵塞使得他上班迟到了。",
+        "pinyin": "Jiāotōng dǔsè shǐde tā shàngbān chídào le.",
+        "en": "Trafik sıkışıklığı işe geç kalmasına neden oldu."
+      },
+      {
+        "zh": "价格上涨使得消费者望而却步。",
+        "pinyin": "Jiàgé shàngzhǎng shǐde xiāofèizhě wàng'érquèbù.",
+        "en": "Fiyat artışı tüketicileri geri çekilmeye itti."
+      }
+    ]
+  },
+  {
+    "id": "w5744",
+    "hanzi": "使馆",
+    "pinyin": "shǐguǎn",
+    "meaning": "elçilik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他去使馆办理签证。",
+        "pinyin": "Tā qù shǐguǎn bànlǐ qiānzhèng.",
+        "en": "Vize işlemleri için elçiliğe gitti."
+      },
+      {
+        "zh": "使馆举办了一场招待会。",
+        "pinyin": "Shǐguǎn jǔbàn le yì chǎng zhāodàihuì.",
+        "en": "Elçilik bir resepsiyon düzenledi."
+      },
+      {
+        "zh": "他在中国大使馆工作。",
+        "pinyin": "Tā zài Zhōngguó dàshǐguǎn gōngzuò.",
+        "en": "Çin Büyükelçiliği'nde çalışıyor."
+      },
+      {
+        "zh": "使馆提醒公民注意安全。",
+        "pinyin": "Shǐguǎn tíxǐng gōngmín zhùyì ānquán.",
+        "en": "Elçilik vatandaşları güvenliğe dikkat etmeleri konusunda uyardı."
+      },
+      {
+        "zh": "游客可以向使馆寻求帮助。",
+        "pinyin": "Yóukè kěyǐ xiàng shǐguǎn xúnqiú bāngzhù.",
+        "en": "Turistler yardım için elçiliğe başvurabilir."
+      }
+    ]
+  },
+  {
+    "id": "w5745",
+    "hanzi": "使命",
+    "pinyin": "shǐmìng",
+    "meaning": "misyon, görev",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "教育是一项神圣的使命。",
+        "pinyin": "Jiàoyù shì yí xiàng shénshèng de shǐmìng.",
+        "en": "Eğitim kutsal bir misyondur."
+      },
+      {
+        "zh": "他觉得自己肩负着重要的使命。",
+        "pinyin": "Tā juéde zìjǐ jiānfùzhe zhòngyào de shǐmìng.",
+        "en": "Kendisinin önemli bir misyonu taşıdığını düşünüyor."
+      },
+      {
+        "zh": "这支队伍完成了他们的使命。",
+        "pinyin": "Zhè zhī duìwu wánchéng le tāmen de shǐmìng.",
+        "en": "Bu ekip misyonlarını tamamladı."
+      },
+      {
+        "zh": "保护环境是我们共同的使命。",
+        "pinyin": "Bǎohù huánjìng shì wǒmen gòngtóng de shǐmìng.",
+        "en": "Çevreyi korumak ortak misyonumuzdur."
+      },
+      {
+        "zh": "他把这份工作当作自己的使命。",
+        "pinyin": "Tā bǎ zhè fèn gōngzuò dàngzuò zìjǐ de shǐmìng.",
+        "en": "Bu işi kendi misyonu olarak görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w5746",
+    "hanzi": "使者",
+    "pinyin": "shǐzhě",
+    "meaning": "elçi, haberci",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İnsanlar",
+    "examples": [
+      {
+        "zh": "他是国王派来的使者。",
+        "pinyin": "Tā shì guówáng pài lái de shǐzhě.",
+        "en": "Kralın gönderdiği bir elçidir."
+      },
+      {
+        "zh": "熊猫是中国友谊的使者。",
+        "pinyin": "Xióngmāo shì Zhōngguó yǒuyì de shǐzhě.",
+        "en": "Panda, Çin'in dostluk elçisidir."
+      }
+    ]
+  },
+  {
+    "id": "w5747",
+    "hanzi": "驶",
+    "pinyin": "shǐ",
+    "meaning": "(araç, gemi vb.) sürmek, çalıştırmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "汽车缓缓驶入了车库。",
+        "pinyin": "Qìchē huǎnhuǎn shǐrù le chēkù.",
+        "en": "Araba yavaşça garaja girdi."
+      },
+      {
+        "zh": "船正朝着港口驶去。",
+        "pinyin": "Chuán zhèng cháozhe gǎngkǒu shǐqù.",
+        "en": "Gemi limana doğru ilerliyor."
+      },
+      {
+        "zh": "火车正在向北方行驶。",
+        "pinyin": "Huǒchē zhèngzài xiàng běifāng xíngshǐ.",
+        "en": "Tren kuzeye doğru ilerliyor."
+      },
+      {
+        "zh": "他熟练地驾驶着汽车。",
+        "pinyin": "Tā shúliàn de jiàshǐzhe qìchē.",
+        "en": "Ustaca arabayı sürüyor."
+      },
+      {
+        "zh": "飞机安全驶离了跑道。",
+        "pinyin": "Fēijī ānquán shǐlí le pǎodào.",
+        "en": "Uçak pistten güvenli bir şekilde ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w5748",
+    "hanzi": "始",
+    "pinyin": "shǐ",
+    "meaning": "başlamak, başlangıç",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个项目自去年开始实施。",
+        "pinyin": "Zhège xiàngmù zì qùnián kāishǐ shíshī.",
+        "en": "Bu proje geçen yıldan itibaren uygulanmaya başladı."
+      },
+      {
+        "zh": "万事开始难。",
+        "pinyin": "Wànshì kāishǐ nán.",
+        "en": "Her işin başlangıcı zordur."
+      }
+    ]
+  },
+  {
+    "id": "w5749",
+    "hanzi": "是非",
+    "pinyin": "shìfēi",
+    "meaning": "doğru ve yanlış",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他很有是非观念。",
+        "pinyin": "Tā hěn yǒu shìfēi guānniàn.",
+        "en": "Doğru-yanlış konusunda güçlü bir kavrayışa sahip."
+      },
+      {
+        "zh": "他从不参与是非纠纷。",
+        "pinyin": "Tā cóngbù cānyù shìfēi jiūfēn.",
+        "en": "Hiçbir zaman anlaşmazlıklara karışmaz."
+      }
+    ]
+  },
+  {
+    "id": "w5750",
+    "hanzi": "室内",
+    "pinyin": "shìnèi",
+    "meaning": "iç mekan, ev içi",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这是一个室内游泳池。",
+        "pinyin": "Zhè shì yí ge shìnèi yóuyǒngchí.",
+        "en": "Bu kapalı bir yüzme havuzudur."
+      },
+      {
+        "zh": "室内温度保持在二十五度。",
+        "pinyin": "Shìnèi wēndù bǎochí zài èrshíwǔ dù.",
+        "en": "İç mekan sıcaklığı yirmi beş derecede tutuluyor."
+      },
+      {
+        "zh": "他们在室内举行了婚礼。",
+        "pinyin": "Tāmen zài shìnèi jǔxíng le hūnlǐ.",
+        "en": "Düğünü kapalı bir mekanda gerçekleştirdiler."
+      },
+      {
+        "zh": "室内空气不流通。",
+        "pinyin": "Shìnèi kōngqì bù liútōng.",
+        "en": "İç mekanda hava sirkülasyonu yok."
+      },
+      {
+        "zh": "冬天大家更喜欢室内活动。",
+        "pinyin": "Dōngtiān dàjiā gèng xǐhuan shìnèi huódòng.",
+        "en": "Kışın herkes iç mekan etkinliklerini daha çok tercih ediyor."
+      }
+    ]
+  },
+  {
+    "id": "w5751",
+    "hanzi": "室外",
+    "pinyin": "shìwài",
+    "meaning": "dış mekan, açık hava",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "室外温度很低。",
+        "pinyin": "Shìwài wēndù hěn dī.",
+        "en": "Dış mekan sıcaklığı çok düşük."
+      },
+      {
+        "zh": "他们喜欢在室外野餐。",
+        "pinyin": "Tāmen xǐhuan zài shìwài yěcān.",
+        "en": "Açık havada piknik yapmayı severler."
+      },
+      {
+        "zh": "这是一个室外运动场。",
+        "pinyin": "Zhè shì yí ge shìwài yùndòngchǎng.",
+        "en": "Bu açık hava spor alanıdır."
+      },
+      {
+        "zh": "夏天他们经常在室外游泳。",
+        "pinyin": "Xiàtiān tāmen jīngcháng zài shìwài yóuyǒng.",
+        "en": "Yazın sık sık açık havada yüzerler."
+      },
+      {
+        "zh": "室外的空气比较新鲜。",
+        "pinyin": "Shìwài de kōngqì bǐjiào xīnxiān.",
+        "en": "Dış mekandaki hava daha temiz."
+      }
+    ]
+  },
+  {
+    "id": "w5752",
+    "hanzi": "试点",
+    "pinyin": "shìdiǎn",
+    "meaning": "pilot uygulama, deneme",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这个城市被选为改革试点。",
+        "pinyin": "Zhège chéngshì bèi xuǎnwéi gǎigé shìdiǎn.",
+        "en": "Bu şehir reform pilot uygulaması için seçildi."
+      },
+      {
+        "zh": "新政策先在几个地区试点。",
+        "pinyin": "Xīn zhèngcè xiān zài jǐ ge dìqū shìdiǎn.",
+        "en": "Yeni politika önce birkaç bölgede pilot olarak uygulanacak."
+      }
+    ]
+  },
+  {
+    "id": "w5753",
+    "hanzi": "试管",
+    "pinyin": "shìguǎn",
+    "meaning": "deney tüpü",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "实验室里摆满了试管。",
+        "pinyin": "Shíyànshì lǐ bǎimǎn le shìguǎn.",
+        "en": "Laboratuvar deney tüpleriyle dolu."
+      },
+      {
+        "zh": "他把液体倒进了试管里。",
+        "pinyin": "Tā bǎ yètǐ dào jìn le shìguǎn lǐ.",
+        "en": "Sıvıyı deney tüpüne döktü."
+      }
+    ]
+  },
+  {
+    "id": "w5754",
+    "hanzi": "试探",
+    "pinyin": "shìtàn",
+    "meaning": "yoklamak, sondaj yapmak, niyeti öğrenmeye çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他试探性地问了几个问题。",
+        "pinyin": "Tā shìtànxìng de wèn le jǐge wèntí.",
+        "en": "Sondaj amaçlı birkaç soru sordu."
+      },
+      {
+        "zh": "她试探着询问他的想法。",
+        "pinyin": "Tā shìtànzhe xúnwèn tā de xiǎngfǎ.",
+        "en": "Onun düşüncesini yoklayarak sordu."
+      }
+    ]
+  },
+  {
+    "id": "w5755",
+    "hanzi": "试验",
+    "pinyin": "shìyàn",
+    "meaning": "deney, test etme; denemek",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "科学家进行了多次试验。",
+        "pinyin": "Kēxuéjiā jìnxíng le duōcì shìyàn.",
+        "en": "Bilim insanları birçok kez deney yaptı."
+      },
+      {
+        "zh": "这是一项重要的科学试验。",
+        "pinyin": "Zhè shì yí xiàng zhòngyào de kēxué shìyàn.",
+        "en": "Bu önemli bir bilimsel deneydir."
+      },
+      {
+        "zh": "这项试验的结果非常成功。",
+        "pinyin": "Zhè xiàng shìyàn de jiéguǒ fēicháng chénggōng.",
+        "en": "Bu deneyin sonucu çok başarılı."
+      },
+      {
+        "zh": "他们在实验室做化学试验。",
+        "pinyin": "Tāmen zài shíyànshì zuò huàxué shìyàn.",
+        "en": "Laboratuvarda kimyasal deney yapıyorlar."
+      },
+      {
+        "zh": "新药需要经过临床试验。",
+        "pinyin": "Xīnyào xūyào jīngguò línchuáng shìyàn.",
+        "en": "Yeni ilaçların klinik denemelerden geçmesi gerekiyor."
+      }
+    ]
+  },
+  {
+    "id": "w5756",
+    "hanzi": "试用",
+    "pinyin": "shìyòng",
+    "meaning": "deneme kullanımı, denemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "新员工需要经过三个月的试用期。",
+        "pinyin": "Xīn yuángōng xūyào jīngguò sān ge yuè de shìyòngqī.",
+        "en": "Yeni çalışanların üç aylık deneme süresinden geçmesi gerekiyor."
+      },
+      {
+        "zh": "这款产品提供免费试用。",
+        "pinyin": "Zhè kuǎn chǎnpǐn tígōng miǎnfèi shìyòng.",
+        "en": "Bu ürün ücretsiz deneme sunuyor."
+      },
+      {
+        "zh": "你可以先试用一下这个软件。",
+        "pinyin": "Nǐ kěyǐ xiān shìyòng yíxià zhège ruǎnjiàn.",
+        "en": "Önce bu yazılımı bir deneyebilirsin."
+      },
+      {
+        "zh": "他正在试用期，表现还不错。",
+        "pinyin": "Tā zhèngzài shìyòngqī, biǎoxiàn hái búcuò.",
+        "en": "Deneme sürecinde, performansı fena değil."
+      },
+      {
+        "zh": "公司为客户提供产品试用服务。",
+        "pinyin": "Gōngsī wèi kèhù tígōng chǎnpǐn shìyòng fúwù.",
+        "en": "Şirket müşterilere ürün deneme hizmeti sunuyor."
+      }
+    ]
   }
 ]

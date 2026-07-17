@@ -250993,5 +250993,773 @@
         "en": "Romantizm birçok sanatçıyı etkiledi."
       }
     ]
+  },
+  {
+    "id": "w7631",
+    "hanzi": "主语",
+    "pinyin": "zhǔyǔ",
+    "meaning": "özne (dilbilgisi)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "这个句子的主语是谁？",
+        "pinyin": "Zhège jùzi de zhǔyǔ shì shéi?",
+        "en": "Bu cümlenin öznesi kim?"
+      },
+      {
+        "zh": "主语和谓语要一致。",
+        "pinyin": "Zhǔyǔ hé wèiyǔ yào yízhì.",
+        "en": "Özne ile yüklem uyumlu olmalı."
+      },
+      {
+        "zh": "这句话省略了主语。",
+        "pinyin": "Zhè jù huà shěnglüèle zhǔyǔ.",
+        "en": "Bu cümlede özne atlanmış."
+      },
+      {
+        "zh": "请找出这句话的主语和宾语。",
+        "pinyin": "Qǐng zhǎochū zhè jù huà de zhǔyǔ hé bīnyǔ.",
+        "en": "Lütfen bu cümlenin öznesini ve nesnesini bulun."
+      },
+      {
+        "zh": "在中文里主语常常放在句首。",
+        "pinyin": "Zài Zhōngwén lǐ zhǔyǔ chángcháng fàng zài jùshǒu.",
+        "en": "Çincede özne genellikle cümlenin başına konur."
+      }
+    ]
+  },
+  {
+    "id": "w7632",
+    "hanzi": "主宰",
+    "pinyin": "zhǔzǎi",
+    "meaning": "egemen olmak, hakim olmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他试图主宰自己的命运。",
+        "pinyin": "Tā shìtú zhǔzǎi zìjǐ de mìngyùn.",
+        "en": "Kendi kaderine hakim olmaya çalışıyor."
+      },
+      {
+        "zh": "科技正在主宰我们的生活。",
+        "pinyin": "Kējì zhèngzài zhǔzǎi wǒmen de shēnghuó.",
+        "en": "Teknoloji hayatımızı giderek şekillendiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w7633",
+    "hanzi": "主旨",
+    "pinyin": "zhǔzhǐ",
+    "meaning": "ana fikir",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这篇文章的主旨是什么？",
+        "pinyin": "Zhè piān wénzhāng de zhǔzhǐ shì shénme?",
+        "en": "Bu yazının ana fikri nedir?"
+      },
+      {
+        "zh": "演讲的主旨是号召大家节约用水。",
+        "pinyin": "Yǎnjiǎng de zhǔzhǐ shì hàozhào dàjiā jiéyuē yòngshuǐ.",
+        "en": "Konuşmanın ana fikri herkesi su tasarrufuna çağırmaktı."
+      }
+    ]
+  },
+  {
+    "id": "w7634",
+    "hanzi": "主治医生",
+    "pinyin": "zhǔzhì yīshēng",
+    "meaning": "başhekim, sorumlu doktor",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他的主治医生是一位专家。",
+        "pinyin": "Tā de zhǔzhì yīshēng shì yí wèi zhuānjiā.",
+        "en": "Sorumlu doktoru bir uzman."
+      },
+      {
+        "zh": "请去找您的主治医生咨询。",
+        "pinyin": "Qǐng qù zhǎo nín de zhǔzhì yīshēng zīxún.",
+        "en": "Lütfen sorumlu doktorunuza danışın."
+      }
+    ]
+  },
+  {
+    "id": "w7635",
+    "hanzi": "嘱托",
+    "pinyin": "zhǔtuō",
+    "meaning": "emanet etmek, tembih etmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "临走前，他嘱托朋友照顾家人。",
+        "pinyin": "Lín zǒu qián, tā zhǔtuō péngyou zhàogù jiārén.",
+        "en": "Gitmeden önce arkadaşına ailesine bakmasını tembih etti."
+      },
+      {
+        "zh": "他完成了老师的嘱托。",
+        "pinyin": "Tā wánchéngle lǎoshī de zhǔtuō.",
+        "en": "Öğretmeninin emanetini yerine getirdi."
+      }
+    ]
+  },
+  {
+    "id": "w7636",
+    "hanzi": "贮藏",
+    "pinyin": "zhùcáng",
+    "meaning": "depolamak, saklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "地窖用来贮藏蔬菜。",
+        "pinyin": "Dìjiào yòng lái zhùcáng shūcài.",
+        "en": "Yer altı deposu sebzeleri saklamak için kullanılır."
+      },
+      {
+        "zh": "这些粮食贮藏了很久。",
+        "pinyin": "Zhèxiē liángshi zhùcángle hěn jiǔ.",
+        "en": "Bu tahıllar uzun süredir depolanıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7637",
+    "hanzi": "贮存",
+    "pinyin": "zhùcún",
+    "meaning": "depolamak, stoklamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "冰箱可以贮存食物。",
+        "pinyin": "Bīngxiāng kěyǐ zhùcún shíwù.",
+        "en": "Buzdolabı yiyecekleri depolayabilir."
+      },
+      {
+        "zh": "仓库贮存了大量货物。",
+        "pinyin": "Cāngkù zhùcúnle dàliàng huòwù.",
+        "en": "Depo büyük miktarda mal stokladı."
+      }
+    ]
+  },
+  {
+    "id": "w7638",
+    "hanzi": "住处",
+    "pinyin": "zhùchù",
+    "meaning": "ikametgah, kalınan yer",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他找到了新的住处。",
+        "pinyin": "Tā zhǎodàole xīn de zhùchù.",
+        "en": "Yeni bir ikametgah buldu."
+      },
+      {
+        "zh": "她的住处离公司很近。",
+        "pinyin": "Tā de zhùchù lí gōngsī hěn jìn.",
+        "en": "İkametgahı şirkete çok yakın."
+      },
+      {
+        "zh": "请告诉我你的住处。",
+        "pinyin": "Qǐng gàosu wǒ nǐ de zhùchù.",
+        "en": "Lütfen bana kaldığın yeri söyle."
+      },
+      {
+        "zh": "他在城郊租了一处住处。",
+        "pinyin": "Tā zài chéngjiāo zūle yí chù zhùchù.",
+        "en": "Şehir kenarında bir yer kiraladı."
+      },
+      {
+        "zh": "这是我们暂时的住处。",
+        "pinyin": "Zhè shì wǒmen zànshí de zhùchù.",
+        "en": "Bu bizim geçici kalacak yerimiz."
+      }
+    ]
+  },
+  {
+    "id": "w7639",
+    "hanzi": "住房",
+    "pinyin": "zhùfáng",
+    "meaning": "konut, kalacak yer",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "他正在申请住房补贴。",
+        "pinyin": "Tā zhèngzài shēnqǐng zhùfáng bǔtiē.",
+        "en": "Konut yardımı için başvuruyor."
+      },
+      {
+        "zh": "住房价格一直在上涨。",
+        "pinyin": "Zhùfáng jiàgé yìzhí zài shàngzhǎng.",
+        "en": "Konut fiyatları sürekli yükseliyor."
+      },
+      {
+        "zh": "政府提供了保障性住房。",
+        "pinyin": "Zhèngfǔ tígōngle bǎozhàngxìng zhùfáng.",
+        "en": "Hükümet güvenceli konut sağladı."
+      },
+      {
+        "zh": "他的住房面积不大。",
+        "pinyin": "Tā de zhùfáng miànjī bú dà.",
+        "en": "Konutunun alanı büyük değil."
+      },
+      {
+        "zh": "住房问题是年轻人面临的一大挑战。",
+        "pinyin": "Zhùfáng wèntí shì niánqīngrén miànlín de yí dà tiǎozhàn.",
+        "en": "Konut sorunu gençlerin karşılaştığı büyük bir zorluktur."
+      }
+    ]
+  },
+  {
+    "id": "w7640",
+    "hanzi": "住户",
+    "pinyin": "zhùhù",
+    "meaning": "hane, ev sakini",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "这栋楼有五十户住户。",
+        "pinyin": "Zhè dòng lóu yǒu wǔshí hù zhùhù.",
+        "en": "Bu binada elli hane var."
+      },
+      {
+        "zh": "小区的住户都很友好。",
+        "pinyin": "Xiǎoqū de zhùhù dōu hěn yǒuhǎo.",
+        "en": "Sitenin sakinleri çok dostane."
+      },
+      {
+        "zh": "有些住户反映噪音问题。",
+        "pinyin": "Yǒuxiē zhùhù fǎnyìng zàoyīn wèntí.",
+        "en": "Bazı sakinler gürültü sorununu dile getirdi."
+      },
+      {
+        "zh": "物业通知了所有住户。",
+        "pinyin": "Wùyè tōngzhīle suǒyǒu zhùhù.",
+        "en": "Site yönetimi tüm sakinleri bilgilendirdi."
+      },
+      {
+        "zh": "这个社区新增了不少住户。",
+        "pinyin": "Zhège shèqū xīnzēngle bù shǎo zhùhù.",
+        "en": "Bu mahalleye epey yeni sakin eklendi."
+      }
+    ]
+  },
+  {
+    "id": "w7641",
+    "hanzi": "住口",
+    "pinyin": "zhùkǒu",
+    "meaning": "çeneni kapa, sus",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "住口！别再说了！",
+        "pinyin": "Zhùkǒu! Bié zài shuō le!",
+        "en": "Sus! Artık konuşma!"
+      },
+      {
+        "zh": "老师让他住口。",
+        "pinyin": "Lǎoshī ràng tā zhùkǒu.",
+        "en": "Öğretmen ona susmasını söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w7642",
+    "hanzi": "住手",
+    "pinyin": "zhùshǒu",
+    "meaning": "durmak, elini çekmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "住手！不要打架！",
+        "pinyin": "Zhùshǒu! Búyào dǎjià!",
+        "en": "Dur! Kavga etmeyin!"
+      },
+      {
+        "zh": "他听到喊声立刻住手了。",
+        "pinyin": "Tā tīngdào hǎnshēng lìkè zhùshǒu le.",
+        "en": "Bağırışı duyunca hemen elini çekti."
+      }
+    ]
+  },
+  {
+    "id": "w7643",
+    "hanzi": "住宿",
+    "pinyin": "zhùsù",
+    "meaning": "konaklamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "我们在酒店住宿了三晚。",
+        "pinyin": "Wǒmen zài jiǔdiàn zhùsùle sān wǎn.",
+        "en": "Otelde üç gece konakladık."
+      },
+      {
+        "zh": "学生可以在学校住宿。",
+        "pinyin": "Xuésheng kěyǐ zài xuéxiào zhùsù.",
+        "en": "Öğrenciler okulda konaklayabilir."
+      },
+      {
+        "zh": "住宿费包含在旅行团费用中。",
+        "pinyin": "Zhùsùfèi bāohán zài lǚxíngtuán fèiyòng zhōng.",
+        "en": "Konaklama ücreti tur ücretine dahildir."
+      },
+      {
+        "zh": "他们提供免费住宿。",
+        "pinyin": "Tāmen tígōng miǎnfèi zhùsù.",
+        "en": "Ücretsiz konaklama sağlıyorlar."
+      },
+      {
+        "zh": "旅游旺季住宿很紧张。",
+        "pinyin": "Lǚyóu wàngjì zhùsù hěn jǐnzhāng.",
+        "en": "Turizm sezonunda konaklama çok kısıtlı."
+      }
+    ]
+  },
+  {
+    "id": "w7644",
+    "hanzi": "住院",
+    "pinyin": "zhùyuàn",
+    "meaning": "hastaneye yatmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他因病住院了。",
+        "pinyin": "Tā yīn bìng zhùyuàn le.",
+        "en": "Hastalığı nedeniyle hastaneye yattı."
+      },
+      {
+        "zh": "医生建议她住院观察。",
+        "pinyin": "Yīshēng jiànyì tā zhùyuàn guānchá.",
+        "en": "Doktor gözlem için hastaneye yatmasını önerdi."
+      },
+      {
+        "zh": "他住院一周后出院了。",
+        "pinyin": "Tā zhùyuàn yì zhōu hòu chūyuàn le.",
+        "en": "Bir hafta hastanede yattıktan sonra taburcu oldu."
+      },
+      {
+        "zh": "住院期间他得到了很好的照顾。",
+        "pinyin": "Zhùyuàn qījiān tā dédàole hěn hǎo de zhàogù.",
+        "en": "Hastanede yatarken çok iyi bakıldı."
+      },
+      {
+        "zh": "他的手术需要住院一段时间。",
+        "pinyin": "Tā de shǒushù xūyào zhùyuàn yí duàn shíjiān.",
+        "en": "Ameliyatı bir süre hastanede kalmasını gerektiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w7645",
+    "hanzi": "住宅",
+    "pinyin": "zhùzhái",
+    "meaning": "konut, mesken",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "这是一栋豪华住宅。",
+        "pinyin": "Zhè shì yí dòng háohuá zhùzhái.",
+        "en": "Bu lüks bir konut."
+      },
+      {
+        "zh": "这片区域主要是住宅区。",
+        "pinyin": "Zhè piàn qūyù zhǔyào shì zhùzháiqū.",
+        "en": "Bu bölge esas olarak konut alanıdır."
+      },
+      {
+        "zh": "他们买了一套住宅。",
+        "pinyin": "Tāmen mǎile yí tào zhùzhái.",
+        "en": "Bir konut satın aldılar."
+      },
+      {
+        "zh": "这栋住宅有五十年历史。",
+        "pinyin": "Zhè dòng zhùzhái yǒu wǔshí nián lìshǐ.",
+        "en": "Bu konutun elli yıllık bir tarihi var."
+      },
+      {
+        "zh": "住宅小区环境很安静。",
+        "pinyin": "Zhùzhái xiǎoqū huánjìng hěn ānjìng.",
+        "en": "Konut sitesinin çevresi çok sessiz."
+      }
+    ]
+  },
+  {
+    "id": "w7646",
+    "hanzi": "住址",
+    "pinyin": "zhùzhǐ",
+    "meaning": "adres",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "请填写您的住址。",
+        "pinyin": "Qǐng tiánxiě nín de zhùzhǐ.",
+        "en": "Lütfen adresinizi yazın."
+      },
+      {
+        "zh": "他更改了自己的住址。",
+        "pinyin": "Tā gēnggǎile zìjǐ de zhùzhǐ.",
+        "en": "Kendi adresini değiştirdi."
+      },
+      {
+        "zh": "快递会送到您的住址。",
+        "pinyin": "Kuàidì huì sòngdào nín de zhùzhǐ.",
+        "en": "Kargo adresinize teslim edilecek."
+      },
+      {
+        "zh": "我不知道他的确切住址。",
+        "pinyin": "Wǒ bù zhīdào tā de quèqiè zhùzhǐ.",
+        "en": "Onun tam adresini bilmiyorum."
+      },
+      {
+        "zh": "请在信封上写明收件人住址。",
+        "pinyin": "Qǐng zài xìnfēng shàng xiěmíng shōujiànrén zhùzhǐ.",
+        "en": "Lütfen zarfın üzerine alıcının adresini yazın."
+      }
+    ]
+  },
+  {
+    "id": "w7647",
+    "hanzi": "住嘴",
+    "pinyin": "zhùzuǐ",
+    "meaning": "çeneni kapa, sus",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "住嘴！别乱说话！",
+        "pinyin": "Zhùzuǐ! Bié luàn shuōhuà!",
+        "en": "Sus! Saçmalama!"
+      },
+      {
+        "zh": "妈妈叫他住嘴。",
+        "pinyin": "Māma jiào tā zhùzuǐ.",
+        "en": "Annesi ona susmasını söyledi."
+      }
+    ]
+  },
+  {
+    "id": "w7648",
+    "hanzi": "驻",
+    "pinyin": "zhù",
+    "meaning": "konuşlanmak, kalmak (resmi olarak)",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他是驻华大使。",
+        "pinyin": "Tā shì zhù Huá dàshǐ.",
+        "en": "Çin'de görevli büyükelçidir."
+      },
+      {
+        "zh": "部队驻扎在边境地区。",
+        "pinyin": "Bùduì zhùzhā zài biānjìng dìqū.",
+        "en": "Birlik sınır bölgesinde konuşlanmış."
+      },
+      {
+        "zh": "这个公司在多个国家设有驻外机构。",
+        "pinyin": "Zhège gōngsī zài duō gè guójiā shèyǒu zhùwài jīgòu.",
+        "en": "Bu şirketin birçok ülkede yurtdışı ofisi var."
+      },
+      {
+        "zh": "记者常驻这座城市。",
+        "pinyin": "Jìzhě chángzhù zhè zuò chéngshì.",
+        "en": "Muhabir sürekli olarak bu şehirde bulunuyor."
+      },
+      {
+        "zh": "他被派驻海外工作。",
+        "pinyin": "Tā bèi pàizhù hǎiwài gōngzuò.",
+        "en": "Yurt dışında görevlendirilerek çalışıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7649",
+    "hanzi": "驻地",
+    "pinyin": "zhùdì",
+    "meaning": "üs, karargah",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "士兵们返回了驻地。",
+        "pinyin": "Shìbīngmen fǎnhuíle zhùdì.",
+        "en": "Askerler üslerine döndüler."
+      },
+      {
+        "zh": "记者站的驻地在市中心。",
+        "pinyin": "Jìzhězhàn de zhùdì zài shì zhōngxīn.",
+        "en": "Muhabir istasyonunun karargahı şehir merkezinde."
+      }
+    ]
+  },
+  {
+    "id": "w7650",
+    "hanzi": "驻防",
+    "pinyin": "zhùfáng",
+    "meaning": "garnizon görevi yapmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这支部队驻防在沿海地区。",
+        "pinyin": "Zhè zhī bùduì zhùfáng zài yánhǎi dìqū.",
+        "en": "Bu birlik kıyı bölgesinde garnizon görevi yapıyor."
+      },
+      {
+        "zh": "士兵们在此驻防已有三年。",
+        "pinyin": "Shìbīngmen zài cǐ zhùfáng yǐ yǒu sān nián.",
+        "en": "Askerler burada üç yıldır garnizon görevindeler."
+      }
+    ]
+  },
+  {
+    "id": "w7651",
+    "hanzi": "驻军",
+    "pinyin": "zhùjūn",
+    "meaning": "askeri birlik konuşlandırmak; garnizon",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "该地区有大量驻军。",
+        "pinyin": "Gāi dìqū yǒu dàliàng zhùjūn.",
+        "en": "Bu bölgede büyük bir garnizon bulunuyor."
+      },
+      {
+        "zh": "驻军接到了撤离命令。",
+        "pinyin": "Zhùjūn jiēdàole chèlí mìnglìng.",
+        "en": "Garnizon geri çekilme emri aldı."
+      }
+    ]
+  },
+  {
+    "id": "w7652",
+    "hanzi": "驻守",
+    "pinyin": "zhùshǒu",
+    "meaning": "savunma görevi yapmak, muhafız olarak kalmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "士兵们驻守边境。",
+        "pinyin": "Shìbīngmen zhùshǒu biānjìng.",
+        "en": "Askerler sınırı koruyor."
+      },
+      {
+        "zh": "他在这座灯塔驻守了十年。",
+        "pinyin": "Tā zài zhè zuò dēngtǎ zhùshǒule shí nián.",
+        "en": "Bu deniz fenerinde on yıl görev yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w7653",
+    "hanzi": "驻扎",
+    "pinyin": "zhùzhā",
+    "meaning": "konuşlanmak (askeri birlik için)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "军队驻扎在山脚下。",
+        "pinyin": "Jūnduì zhùzhā zài shānjiǎo xià.",
+        "en": "Ordu dağın eteğinde konuşlanmış."
+      },
+      {
+        "zh": "这支部队已经驻扎多年。",
+        "pinyin": "Zhè zhī bùduì yǐjīng zhùzhā duō nián.",
+        "en": "Bu birlik yıllardır burada konuşlanmış durumda."
+      }
+    ]
+  },
+  {
+    "id": "w7654",
+    "hanzi": "祝酒",
+    "pinyin": "zhùjiǔ",
+    "meaning": "kadeh kaldırmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "大家举杯祝酒。",
+        "pinyin": "Dàjiā jǔbēi zhùjiǔ.",
+        "en": "Herkes kadeh kaldırdı."
+      },
+      {
+        "zh": "他致辞祝酒，祝愿新人幸福。",
+        "pinyin": "Tā zhìcí zhùjiǔ, zhùyuàn xīnrén xìngfú.",
+        "en": "Konuşma yapıp kadeh kaldırarak yeni evlilere mutluluk diledi."
+      }
+    ]
+  },
+  {
+    "id": "w7655",
+    "hanzi": "注解",
+    "pinyin": "zhùjiě",
+    "meaning": "açıklayıcı not, dipnot",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "书中有很多生词注解。",
+        "pinyin": "Shū zhōng yǒu hěn duō shēngcí zhùjiě.",
+        "en": "Kitapta birçok yeni kelime açıklaması var."
+      },
+      {
+        "zh": "他给古文加了详细的注解。",
+        "pinyin": "Tā gěi gǔwén jiāle xiángxì de zhùjiě.",
+        "en": "Klasik metne ayrıntılı açıklamalar ekledi."
+      },
+      {
+        "zh": "请参考页边的注解。",
+        "pinyin": "Qǐng cānkǎo yèbiān de zhùjiě.",
+        "en": "Lütfen kenardaki dipnotlara bakın."
+      },
+      {
+        "zh": "这本词典的注解很清楚。",
+        "pinyin": "Zhè běn cídiǎn de zhùjiě hěn qīngchu.",
+        "en": "Bu sözlüğün açıklamaları çok net."
+      },
+      {
+        "zh": "他在诗句旁边写了注解。",
+        "pinyin": "Tā zài shījù pángbiān xiěle zhùjiě.",
+        "en": "Şiir dizesinin yanına bir açıklama yazdı."
+      }
+    ]
+  },
+  {
+    "id": "w7656",
+    "hanzi": "注明",
+    "pinyin": "zhùmíng",
+    "meaning": "açıkça belirtmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请注明您的联系方式。",
+        "pinyin": "Qǐng zhùmíng nín de liánxì fāngshì.",
+        "en": "Lütfen iletişim bilgilerinizi belirtin."
+      },
+      {
+        "zh": "文件上注明了截止日期。",
+        "pinyin": "Wénjiàn shàng zhùmíngle jiézhǐ rìqī.",
+        "en": "Belgede son tarih açıkça belirtildi."
+      },
+      {
+        "zh": "请在表格上注明用途。",
+        "pinyin": "Qǐng zài biǎogé shàng zhùmíng yòngtú.",
+        "en": "Lütfen formda kullanım amacını belirtin."
+      },
+      {
+        "zh": "他忘记注明来源了。",
+        "pinyin": "Tā wàngjì zhùmíng láiyuán le.",
+        "en": "Kaynağı belirtmeyi unuttu."
+      },
+      {
+        "zh": "包裹上要注明收件人姓名。",
+        "pinyin": "Bāoguǒ shàng yào zhùmíng shōujiànrén xìngmíng.",
+        "en": "Paketin üzerinde alıcının adı belirtilmelidir."
+      }
+    ]
+  },
+  {
+    "id": "w7657",
+    "hanzi": "注目",
+    "pinyin": "zhùmù",
+    "meaning": "dikkat çekmek, gözlerini dikmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她的表演引人注目。",
+        "pinyin": "Tā de biǎoyǎn yǐnrén-zhùmù.",
+        "en": "Performansı dikkat çekiyor."
+      },
+      {
+        "zh": "他成了众人注目的焦点。",
+        "pinyin": "Tā chéngle zhòngrén zhùmù de jiāodiǎn.",
+        "en": "Herkesin dikkatinin odağı haline geldi."
+      }
+    ]
+  },
+  {
+    "id": "w7658",
+    "hanzi": "注释",
+    "pinyin": "zhùshì",
+    "meaning": "dipnot, açıklayıcı not",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "课本后面有词汇注释。",
+        "pinyin": "Kèběn hòumian yǒu cíhuì zhùshì.",
+        "en": "Ders kitabının arkasında kelime açıklamaları var."
+      },
+      {
+        "zh": "这段话需要加注释。",
+        "pinyin": "Zhè duàn huà xūyào jiā zhùshì.",
+        "en": "Bu paragrafa açıklama eklenmesi gerekiyor."
+      },
+      {
+        "zh": "他为这首古诗写了注释。",
+        "pinyin": "Tā wèi zhè shǒu gǔshī xiěle zhùshì.",
+        "en": "Bu klasik şiir için bir açıklama yazdı."
+      },
+      {
+        "zh": "注释帮助读者理解原文。",
+        "pinyin": "Zhùshì bāngzhù dúzhě lǐjiě yuánwén.",
+        "en": "Dipnotlar okuyucunun orijinal metni anlamasına yardımcı olur."
+      },
+      {
+        "zh": "请仔细阅读文中的注释。",
+        "pinyin": "Qǐng zǐxì yuèdú wén zhōng de zhùshì.",
+        "en": "Lütfen metindeki dipnotları dikkatlice okuyun."
+      }
+    ]
   }
 ]

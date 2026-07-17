@@ -170599,5 +170599,833 @@
         "en": "Bu yeni tür, onu keşfeden kişinin adıyla adlandırıldı."
       }
     ]
+  },
+  {
+    "id": "w4936",
+    "hanzi": "摸索",
+    "pinyin": "mōsuǒ",
+    "meaning": "El yordamıyla aramak, araştırmak, denemek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他在黑暗中摸索着找灯。",
+        "pinyin": "Tā zài hēi'àn zhōng mōsuǒzhe zhǎo dēng.",
+        "en": "Karanlıkta el yordamıyla lambayı aramaya çalıştı."
+      },
+      {
+        "zh": "他们摸索出了一套新方法。",
+        "pinyin": "Tāmen mōsuǒchū le yí tào xīn fāngfǎ.",
+        "en": "Deneme yanılma yoluyla yeni bir yöntem geliştirdiler."
+      },
+      {
+        "zh": "他一直在摸索前进的道路。",
+        "pinyin": "Tā yìzhí zài mōsuǒ qiánjìn de dàolù.",
+        "en": "İlerleme yolunu sürekli araştırıyor."
+      },
+      {
+        "zh": "科学家在实验中不断摸索。",
+        "pinyin": "Kēxuéjiā zài shíyàn zhōng búduàn mōsuǒ.",
+        "en": "Bilim insanları deneylerde sürekli araştırma yapıyor."
+      },
+      {
+        "zh": "他摸索着走进了黑暗的房间。",
+        "pinyin": "Tā mōsuǒzhe zǒujìn le hēi'àn de fángjiān.",
+        "en": "El yordamıyla karanlık odaya girdi."
+      }
+    ]
+  },
+  {
+    "id": "w4937",
+    "hanzi": "磨",
+    "pinyin": "mó",
+    "meaning": "Sürtmek, bilemek, aşındırmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把刀磨得很锋利。",
+        "pinyin": "Tā bǎ dāo mó de hěn fēnglì.",
+        "en": "Bıçağı çok keskin bileyledi."
+      },
+      {
+        "zh": "新鞋磨破了他的脚。",
+        "pinyin": "Xīnxié mópò le tā de jiǎo.",
+        "en": "Yeni ayakkabı ayağını sıyırdı."
+      },
+      {
+        "zh": "时间磨去了他的锐气。",
+        "pinyin": "Shíjiān móqù le tā de ruìqì.",
+        "en": "Zaman onun keskin ruhunu köreltti."
+      },
+      {
+        "zh": "他磨了半天才把石头磨圆。",
+        "pinyin": "Tā mó le bàntiān cái bǎ shítou móyuán.",
+        "en": "Uzun süre uğraşıp taşı yuvarlaklaştırdı."
+      },
+      {
+        "zh": "她耐心地磨着孩子,让他做作业。",
+        "pinyin": "Tā nàixīn de mózhe háizi, ràng tā zuò zuòyè.",
+        "en": "Sabırla çocuğu ödev yapması için ikna etmeye çalışıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w4938",
+    "hanzi": "魔鬼",
+    "pinyin": "móguǐ",
+    "meaning": "Şeytan, iblis",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Kültür",
+    "examples": [
+      {
+        "zh": "这部电影讲述了与魔鬼斗争的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshù le yǔ móguǐ dòuzhēng de gùshi.",
+        "en": "Bu film şeytanla mücadele hikayesini anlatıyor."
+      },
+      {
+        "zh": "他被称为商界的魔鬼。",
+        "pinyin": "Tā bèi chēngwéi shāngjiè de móguǐ.",
+        "en": "İş dünyasının şeytanı olarak anılıyor."
+      },
+      {
+        "zh": "孩子们相信床底下住着魔鬼。",
+        "pinyin": "Háizimen xiāngxìn chuáng dǐxia zhùzhe móguǐ.",
+        "en": "Çocuklar yatağın altında şeytan yaşadığına inanır."
+      },
+      {
+        "zh": "他经历了魔鬼般的训练。",
+        "pinyin": "Tā jīnglì le móguǐbān de xùnliàn.",
+        "en": "Şeytani derecede zorlu bir eğitimden geçti."
+      },
+      {
+        "zh": "在这个故事里,魔鬼象征着邪恶。",
+        "pinyin": "Zài zhège gùshi lǐ, móguǐ xiàngzhēngzhe xié'è.",
+        "en": "Bu hikayede şeytan kötülüğü simgeler."
+      }
+    ]
+  },
+  {
+    "id": "w4939",
+    "hanzi": "魔术",
+    "pinyin": "móshù",
+    "meaning": "Sihir, illüzyon",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Oyunlar",
+    "examples": [
+      {
+        "zh": "他会表演魔术。",
+        "pinyin": "Tā huì biǎoyǎn móshù.",
+        "en": "Sihir gösterisi yapabiliyor."
+      },
+      {
+        "zh": "孩子们喜欢看魔术表演。",
+        "pinyin": "Háizimen xǐhuan kàn móshù biǎoyǎn.",
+        "en": "Çocuklar sihir gösterisi izlemeyi sever."
+      },
+      {
+        "zh": "他从帽子里变出了一只兔子,这个魔术很经典。",
+        "pinyin": "Tā cóng màozi lǐ biànchū le yì zhī tùzi, zhège móshù hěn jīngdiǎn.",
+        "en": "Şapkadan bir tavşan çıkardı, bu klasik bir sihir gösterisidir."
+      },
+      {
+        "zh": "魔术师的表演令人惊叹。",
+        "pinyin": "Móshùshī de biǎoyǎn lìng rén jīngtàn.",
+        "en": "Sihirbazın gösterisi insanı hayrete düşürüyor."
+      },
+      {
+        "zh": "他学习了一些简单的魔术技巧。",
+        "pinyin": "Tā xuéxí le yìxiē jiǎndān de móshù jìqiǎo.",
+        "en": "Bazı basit sihir tekniklerini öğrendi."
+      }
+    ]
+  },
+  {
+    "id": "w4940",
+    "hanzi": "模范",
+    "pinyin": "mófàn",
+    "meaning": "Örnek, model (kişi)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他是我们学习的模范。",
+        "pinyin": "Tā shì wǒmen xuéxí de mófàn.",
+        "en": "O bizim örnek aldığımız kişidir."
+      },
+      {
+        "zh": "她被评为劳动模范。",
+        "pinyin": "Tā bèi píngwéi láodòng mófàn.",
+        "en": "Örnek çalışan olarak değerlendirildi."
+      },
+      {
+        "zh": "他是一位模范丈夫。",
+        "pinyin": "Tā shì yí wèi mófàn zhàngfu.",
+        "en": "O örnek bir kocadır."
+      },
+      {
+        "zh": "这所学校树立了良好的模范作用。",
+        "pinyin": "Zhè suǒ xuéxiào shùlì le liánghǎo de mófàn zuòyòng.",
+        "en": "Bu okul iyi bir örnek teşkil etti."
+      },
+      {
+        "zh": "他一直以模范教师的标准要求自己。",
+        "pinyin": "Tā yìzhí yǐ mófàn jiàoshī de biāozhǔn yāoqiú zìjǐ.",
+        "en": "Her zaman kendisini örnek öğretmen standardına göre değerlendiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w4941",
+    "hanzi": "模拟",
+    "pinyin": "mónǐ",
+    "meaning": "Taklit etmek, simüle etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这个软件可以模拟飞行操作。",
+        "pinyin": "Zhège ruǎnjiàn kěyǐ mónǐ fēixíng cāozuò.",
+        "en": "Bu yazılım uçuş işlemlerini simüle edebilir."
+      },
+      {
+        "zh": "学生们进行了模拟考试。",
+        "pinyin": "Xuéshengmen jìnxíng le mónǐ kǎoshì.",
+        "en": "Öğrenciler deneme sınavı yaptı."
+      },
+      {
+        "zh": "科学家用计算机模拟气候变化。",
+        "pinyin": "Kēxuéjiā yòng jìsuànjī mónǐ qìhòu biànhuà.",
+        "en": "Bilim insanları bilgisayarla iklim değişikliğini simüle ediyor."
+      },
+      {
+        "zh": "这场演习模拟了真实的战斗场景。",
+        "pinyin": "Zhè chǎng yǎnxí mónǐ le zhēnshí de zhàndòu chǎngjǐng.",
+        "en": "Bu tatbikat gerçek bir savaş senaryosunu simüle etti."
+      },
+      {
+        "zh": "他们模拟了一次紧急疏散演练。",
+        "pinyin": "Tāmen mónǐ le yí cì jǐnjí shūsàn yǎnliàn.",
+        "en": "Acil tahliye tatbikatını simüle ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w4942",
+    "hanzi": "模特儿",
+    "pinyin": "mótèr",
+    "meaning": "Manken",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "她是一名时装模特儿。",
+        "pinyin": "Tā shì yì míng shízhuāng mótèr.",
+        "en": "O bir moda mankenidir."
+      },
+      {
+        "zh": "模特儿在T台上展示新款服装。",
+        "pinyin": "Mótèr zài T-tái shàng zhǎnshì xīn kuǎn fúzhuāng.",
+        "en": "Manken podyumda yeni model kıyafeti sergiliyor."
+      },
+      {
+        "zh": "他梦想成为一名专业模特儿。",
+        "pinyin": "Tā mèngxiǎng chéngwéi yì míng zhuānyè mótèr.",
+        "en": "Profesyonel bir manken olmayı hayal ediyor."
+      },
+      {
+        "zh": "画家请了模特儿摆姿势。",
+        "pinyin": "Huàjiā qǐng le mótèr bǎi zīshì.",
+        "en": "Ressam bir manken çağırıp poz verdirdi."
+      },
+      {
+        "zh": "这位模特儿身材高挑。",
+        "pinyin": "Zhè wèi mótèr shēncái gāotiǎo.",
+        "en": "Bu manken uzun boylu ve zarif bir fizik yapısına sahip."
+      }
+    ]
+  },
+  {
+    "id": "w4943",
+    "hanzi": "模型",
+    "pinyin": "móxíng",
+    "meaning": "Model, maket",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他做了一个飞机模型。",
+        "pinyin": "Tā zuò le yí gè fēijī móxíng.",
+        "en": "Bir uçak maketi yaptı."
+      },
+      {
+        "zh": "工程师展示了建筑模型。",
+        "pinyin": "Gōngchéngshī zhǎnshì le jiànzhù móxíng.",
+        "en": "Mühendis bina modelini sundu."
+      },
+      {
+        "zh": "这个数学模型解释了这一现象。",
+        "pinyin": "Zhège shùxué móxíng jiěshì le zhè yí xiànxiàng.",
+        "en": "Bu matematiksel model bu olguyu açıklıyor."
+      },
+      {
+        "zh": "他喜欢收集各种汽车模型。",
+        "pinyin": "Tā xǐhuan shōují gèzhǒng qìchē móxíng.",
+        "en": "Çeşitli araba modelleri toplamayı sever."
+      },
+      {
+        "zh": "这座城市的模型十分逼真。",
+        "pinyin": "Zhè zuò chéngshì de móxíng shífēn bīzhēn.",
+        "en": "Bu şehrin maketi çok gerçekçi."
+      }
+    ]
+  },
+  {
+    "id": "w4944",
+    "hanzi": "膜",
+    "pinyin": "mó",
+    "meaning": "Zar, ince tabaka",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "手机屏幕上贴了保护膜。",
+        "pinyin": "Shǒujī píngmù shàng tiē le bǎohùmó.",
+        "en": "Telefon ekranına koruyucu film yapıştırıldı."
+      },
+      {
+        "zh": "细胞膜控制着物质进出细胞。",
+        "pinyin": "Xìbāomó kòngzhìzhe wùzhì jìnchū xìbāo.",
+        "en": "Hücre zarı maddelerin hücreye giriş çıkışını kontrol eder."
+      },
+      {
+        "zh": "他的耳膜受到了损伤。",
+        "pinyin": "Tā de ěrmó shòudào le sǔnshāng.",
+        "en": "Kulak zarı zarar gördü."
+      },
+      {
+        "zh": "鸡蛋壳内侧有一层薄膜。",
+        "pinyin": "Jīdàn ké nèicè yǒu yì céng bómó.",
+        "en": "Yumurta kabuğunun iç yüzeyinde ince bir zar var."
+      },
+      {
+        "zh": "水果表面覆盖着一层蜡膜。",
+        "pinyin": "Shuǐguǒ biǎomiàn fùgàizhe yì céng làmó.",
+        "en": "Meyve yüzeyi ince bir mum tabakasıyla kaplı."
+      }
+    ]
+  },
+  {
+    "id": "w4945",
+    "hanzi": "末",
+    "pinyin": "mò",
+    "meaning": "Uç, son",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "这是上个世纪末发生的事。",
+        "pinyin": "Zhè shì shàng gè shìjì mò fāshēng de shì.",
+        "en": "Bu, geçen yüzyılın sonunda olan bir olaydır."
+      },
+      {
+        "zh": "他排在队伍的末尾。",
+        "pinyin": "Tā pái zài duìwu de mòwěi.",
+        "en": "Sıranın en sonunda duruyor."
+      },
+      {
+        "zh": "本月末我们要交房租。",
+        "pinyin": "Běn yuè mò wǒmen yào jiāo fángzū.",
+        "en": "Bu ayın sonunda kira ödememiz gerekiyor."
+      },
+      {
+        "zh": "他在学期末考试中表现出色。",
+        "pinyin": "Tā zài xuéqī mò kǎoshì zhōng biǎoxiàn chūsè.",
+        "en": "Dönem sonu sınavında çok başarılı bir performans gösterdi."
+      },
+      {
+        "zh": "别本末倒置,先解决主要问题。",
+        "pinyin": "Bié běnmò-dàozhì, xiān jiějué zhǔyào wèntí.",
+        "en": "Önceliklerini karıştırma, önce ana sorunu çöz."
+      }
+    ]
+  },
+  {
+    "id": "w4946",
+    "hanzi": "末日",
+    "pinyin": "mòrì",
+    "meaning": "Kıyamet günü, son gün",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "这部电影讲述了世界末日的故事。",
+        "pinyin": "Zhè bù diànyǐng jiǎngshù le shìjiè mòrì de gùshi.",
+        "en": "Bu film dünyanın kıyamet gününü anlatıyor."
+      },
+      {
+        "zh": "有些人相信末日预言。",
+        "pinyin": "Yǒuxiē rén xiāngxìn mòrì yùyán.",
+        "en": "Bazı insanlar kıyamet kehanetlerine inanıyor."
+      },
+      {
+        "zh": "对他来说,这一天就是末日。",
+        "pinyin": "Duì tā láishuō, zhè yì tiān jiùshì mòrì.",
+        "en": "Onun için bu gün kıyamet günüydü."
+      },
+      {
+        "zh": "这个王朝迎来了末日。",
+        "pinyin": "Zhège wángcháo yíngláile mòrì.",
+        "en": "Bu hanedan sonuna geldi."
+      },
+      {
+        "zh": "末日审判的说法源于宗教信仰。",
+        "pinyin": "Mòrì shěnpàn de shuōfǎ yuányú zōngjiào xìnyǎng.",
+        "en": "Kıyamet günü yargısı kavramı dini inançlardan gelir."
+      }
+    ]
+  },
+  {
+    "id": "w4947",
+    "hanzi": "茉莉",
+    "pinyin": "mòli",
+    "meaning": "Yasemin",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "他喜欢喝茉莉花茶。",
+        "pinyin": "Tā xǐhuan hē mòlihuāchá.",
+        "en": "Yasemin çayı içmeyi sever."
+      },
+      {
+        "zh": "花园里种满了茉莉花。",
+        "pinyin": "Huāyuán lǐ zhòngmǎn le mòlihuā.",
+        "en": "Bahçede yasemin çiçekleri dikilmiş."
+      },
+      {
+        "zh": "茉莉花的香气十分清雅。",
+        "pinyin": "Mòlihuā de xiāngqì shífēn qīngyǎ.",
+        "en": "Yasemin çiçeğinin kokusu son derece hoş ve narindir."
+      },
+      {
+        "zh": "她的头发上戴着一朵茉莉花。",
+        "pinyin": "Tā de tóufa shàng dàizhe yì duǒ mòlihuā.",
+        "en": "Saçında bir yasemin çiçeği takılı."
+      },
+      {
+        "zh": "夏天是茉莉花开的季节。",
+        "pinyin": "Xiàtiān shì mòlihuā kāi de jìjié.",
+        "en": "Yaz, yasemin çiçeğinin açtığı mevsimdir."
+      }
+    ]
+  },
+  {
+    "id": "w4948",
+    "hanzi": "莫名其妙",
+    "pinyin": "mòmíngqímiào",
+    "meaning": "Garip, anlaşılmaz, açıklanamaz",
+    "partOfSpeech": "deyim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他莫名其妙地生气了。",
+        "pinyin": "Tā mòmíngqímiào de shēngqì le.",
+        "en": "Anlaşılmaz bir şekilde sinirlendi."
+      },
+      {
+        "zh": "这件事真是莫名其妙。",
+        "pinyin": "Zhè jiàn shì zhēnshi mòmíngqímiào.",
+        "en": "Bu olay gerçekten çok garip."
+      },
+      {
+        "zh": "他莫名其妙地失踪了。",
+        "pinyin": "Tā mòmíngqímiào de shīzōng le.",
+        "en": "Sebebi belirsiz bir şekilde kayboldu."
+      },
+      {
+        "zh": "她给了我一个莫名其妙的表情。",
+        "pinyin": "Tā gěi le wǒ yí gè mòmíngqímiào de biǎoqíng.",
+        "en": "Bana anlaşılmaz bir ifade verdi."
+      },
+      {
+        "zh": "他莫名其妙地被解雇了。",
+        "pinyin": "Tā mòmíngqímiào de bèi jiěgù le.",
+        "en": "Sebepsiz bir şekilde işten çıkarıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4949",
+    "hanzi": "漠视",
+    "pinyin": "mòshì",
+    "meaning": "Önemsememek, göz ardı etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他漠视了大家的意见。",
+        "pinyin": "Tā mòshì le dàjiā de yìjiàn.",
+        "en": "Herkesin görüşünü göz ardı etti."
+      },
+      {
+        "zh": "不能漠视这个严重的问题。",
+        "pinyin": "Bùnéng mòshì zhège yánzhòng de wèntí.",
+        "en": "Bu ciddi sorun göz ardı edilemez."
+      },
+      {
+        "zh": "他对孩子的需求漠视不理。",
+        "pinyin": "Tā duì háizi de xūqiú mòshì bùlǐ.",
+        "en": "Çocuğun ihtiyaçlarını görmezden geliyor."
+      },
+      {
+        "zh": "政府不应漠视环境污染问题。",
+        "pinyin": "Zhèngfǔ bù yīng mòshì huánjìng wūrǎn wèntí.",
+        "en": "Hükümet çevre kirliliği sorununu göz ardı etmemeli."
+      },
+      {
+        "zh": "他漠视了自己的健康。",
+        "pinyin": "Tā mòshì le zìjǐ de jiànkāng.",
+        "en": "Kendi sağlığını önemsemedi."
+      }
+    ]
+  },
+  {
+    "id": "w4950",
+    "hanzi": "默默",
+    "pinyin": "mòmò",
+    "meaning": "Sessizce, ses çıkarmadan",
+    "partOfSpeech": "zarf",
+    "level": 4,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他默默地离开了。",
+        "pinyin": "Tā mòmò de líkāi le.",
+        "en": "Sessizce ayrıldı."
+      },
+      {
+        "zh": "她默默地流下了眼泪。",
+        "pinyin": "Tā mòmò de liúxià le yǎnlèi.",
+        "en": "Sessizce gözyaşı döktü."
+      },
+      {
+        "zh": "他默默地为家人付出。",
+        "pinyin": "Tā mòmò de wèi jiārén fùchū.",
+        "en": "Ailesi için sessizce fedakarlık yapıyor."
+      },
+      {
+        "zh": "她默默地祈祷着。",
+        "pinyin": "Tā mòmò de qídǎozhe.",
+        "en": "Sessizce dua ediyordu."
+      },
+      {
+        "zh": "他默默无闻地工作了多年。",
+        "pinyin": "Tā mòmò-wúwén de gōngzuò le duō nián.",
+        "en": "Yıllarca sessiz sedasız çalıştı."
+      }
+    ]
+  },
+  {
+    "id": "w4951",
+    "hanzi": "默契",
+    "pinyin": "mòqì",
+    "meaning": "Sözsüz anlaşma, uyum",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他们之间有很好的默契。",
+        "pinyin": "Tāmen zhījiān yǒu hěn hǎo de mòqì.",
+        "en": "Aralarında çok güzel bir uyum var."
+      },
+      {
+        "zh": "球队的默契配合赢得了比赛。",
+        "pinyin": "Qiúduì de mòqì pèihé yíngdé le bǐsài.",
+        "en": "Takımın sözsüz uyumlu oyunu maçı kazandırdı."
+      },
+      {
+        "zh": "多年的合作让他们有了默契。",
+        "pinyin": "Duō nián de hézuò ràng tāmen yǒu le mòqì.",
+        "en": "Yıllarca süren işbirliği aralarında bir uyum oluşturdu."
+      },
+      {
+        "zh": "他们心有默契,不需要多说。",
+        "pinyin": "Tāmen xīn yǒu mòqì, bù xūyào duō shuō.",
+        "en": "Aralarında bir anlayış var, çok konuşmaya gerek yok."
+      },
+      {
+        "zh": "夫妻之间的默契让生活更和谐。",
+        "pinyin": "Fūqī zhījiān de mòqì ràng shēnghuó gèng héxié.",
+        "en": "Karı koca arasındaki uyum hayatı daha huzurlu yapıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4952",
+    "hanzi": "谋杀",
+    "pinyin": "móushā",
+    "meaning": "Cinayet işlemek, kasten öldürmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "警方正在调查这起谋杀案。",
+        "pinyin": "Jǐngfāng zhèngzài diàochá zhè qǐ móushā'àn.",
+        "en": "Polis bu cinayet vakasını araştırıyor."
+      },
+      {
+        "zh": "他被指控谋杀了自己的邻居。",
+        "pinyin": "Tā bèi zhǐkòng móushā le zìjǐ de línjū.",
+        "en": "Kendi komşusunu öldürmekle suçlandı."
+      },
+      {
+        "zh": "这是一起精心策划的谋杀。",
+        "pinyin": "Zhè shì yì qǐ jīngxīn cèhuà de móushā.",
+        "en": "Bu özenle planlanmış bir cinayettir."
+      },
+      {
+        "zh": "谋杀嫌疑人已经被逮捕了。",
+        "pinyin": "Móushā xiányírén yǐjīng bèi dàibǔ le.",
+        "en": "Cinayet şüphelisi zaten tutuklandı."
+      },
+      {
+        "zh": "这部小说以一桩谋杀案为主线。",
+        "pinyin": "Zhè bù xiǎoshuō yǐ yì zhuāng móushā'àn wéi zhǔxiàn.",
+        "en": "Bu roman bir cinayet vakası etrafında kurgulanmıştır."
+      }
+    ]
+  },
+  {
+    "id": "w4953",
+    "hanzi": "谋生",
+    "pinyin": "móushēng",
+    "meaning": "Geçimini sağlamak, ekmek parası kazanmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "他靠打鱼谋生。",
+        "pinyin": "Tā kào dǎyú móushēng.",
+        "en": "Balık avlayarak geçimini sağlıyor."
+      },
+      {
+        "zh": "为了谋生,他做了各种工作。",
+        "pinyin": "Wèile móushēng, tā zuò le gèzhǒng gōngzuò.",
+        "en": "Geçimini sağlamak için çeşitli işler yaptı."
+      },
+      {
+        "zh": "他到城里谋生已经十年了。",
+        "pinyin": "Tā dào chéng lǐ móushēng yǐjīng shí nián le.",
+        "en": "Şehirde geçimini sağlamaya başlayalı on yıl oldu."
+      },
+      {
+        "zh": "他靠写作谋生。",
+        "pinyin": "Tā kào xiězuò móushēng.",
+        "en": "Yazarlıkla geçimini sağlıyor."
+      },
+      {
+        "zh": "很多人为了谋生而背井离乡。",
+        "pinyin": "Hěn duō rén wèile móushēng ér bèijǐng-líxiāng.",
+        "en": "Birçok insan geçimini sağlamak için memleketinden uzaklaştı."
+      }
+    ]
+  },
+  {
+    "id": "w4954",
+    "hanzi": "模样",
+    "pinyin": "múyàng",
+    "meaning": "Görünüş, dış görünüm",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Tanımlamalar",
+    "examples": [
+      {
+        "zh": "他小时候的模样和现在完全不同。",
+        "pinyin": "Tā xiǎoshíhou de múyàng hé xiànzài wánquán bùtóng.",
+        "en": "Çocukluğundaki görünümü şimdikiyle tamamen farklı."
+      },
+      {
+        "zh": "她一副可怜的模样。",
+        "pinyin": "Tā yí fù kělián de múyàng.",
+        "en": "Acınası bir görünüme sahip."
+      },
+      {
+        "zh": "看他的模样,好像很累。",
+        "pinyin": "Kàn tā de múyàng, hǎoxiàng hěn lèi.",
+        "en": "Görünüşüne bakılırsa çok yorgun gibi görünüyor."
+      },
+      {
+        "zh": "这个孩子长得和他爸爸一个模样。",
+        "pinyin": "Zhège háizi zhǎng de hé tā bàba yí gè múyàng.",
+        "en": "Bu çocuk babasına birebir benziyor."
+      },
+      {
+        "zh": "他装出一副无辜的模样。",
+        "pinyin": "Tā zhuāngchū yí fù wúgū de múyàng.",
+        "en": "Masum bir görünüm takınıyor."
+      }
+    ]
+  },
+  {
+    "id": "w4955",
+    "hanzi": "牡丹",
+    "pinyin": "mǔdan",
+    "meaning": "Şakayık (çiçek)",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "牡丹被誉为花中之王。",
+        "pinyin": "Mǔdan bèi yùwéi huā zhōng zhī wáng.",
+        "en": "Şakayık, çiçeklerin kralı olarak anılır."
+      },
+      {
+        "zh": "洛阳的牡丹十分有名。",
+        "pinyin": "Luòyáng de mǔdan shífēn yǒumíng.",
+        "en": "Luoyang'ın şakayıkları çok meşhurdur."
+      },
+      {
+        "zh": "花园里种满了各色牡丹。",
+        "pinyin": "Huāyuán lǐ zhòngmǎn le gèsè mǔdan.",
+        "en": "Bahçede çeşitli renklerde şakayıklar dikilmiş."
+      },
+      {
+        "zh": "牡丹花开得十分艳丽。",
+        "pinyin": "Mǔdan huā kāi de shífēn yànlì.",
+        "en": "Şakayık çiçeği son derece göz alıcı bir şekilde açtı."
+      },
+      {
+        "zh": "这幅画描绘了盛开的牡丹。",
+        "pinyin": "Zhè fú huà miáohuì le shèngkāi de mǔdan.",
+        "en": "Bu resim tam açmış bir şakayığı betimliyor."
+      }
+    ]
+  },
+  {
+    "id": "w4956",
+    "hanzi": "牡蛎",
+    "pinyin": "mǔlì",
+    "meaning": "İstiridye",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yiyecek",
+    "examples": [
+      {
+        "zh": "他喜欢吃生蚝牡蛎。",
+        "pinyin": "Tā xǐhuan chī shēngháo mǔlì.",
+        "en": "Çiğ istiridye yemeyi sever."
+      },
+      {
+        "zh": "这家餐厅的烤牡蛎很有名。",
+        "pinyin": "Zhè jiā cāntīng de kǎo mǔlì hěn yǒumíng.",
+        "en": "Bu restoranın ızgara istiridyesi çok meşhur."
+      },
+      {
+        "zh": "渔民在浅海养殖牡蛎。",
+        "pinyin": "Yúmín zài qiǎnhǎi yǎngzhí mǔlì.",
+        "en": "Balıkçılar sığ denizde istiridye yetiştiriyor."
+      },
+      {
+        "zh": "牡蛎富含锌和蛋白质。",
+        "pinyin": "Mǔlì fùhán xīn hé dànbáizhì.",
+        "en": "İstiridye çinko ve protein bakımından zengindir."
+      },
+      {
+        "zh": "他从壳里挑出了一颗珍珠般的牡蛎肉。",
+        "pinyin": "Tā cóng ké lǐ tiāochū le yì kē zhēnzhū bān de mǔlì ròu.",
+        "en": "Kabuğundan inci gibi bir istiridye eti çıkardı."
+      }
+    ]
+  },
+  {
+    "id": "w4957",
+    "hanzi": "母爱",
+    "pinyin": "mǔ'ài",
+    "meaning": "Anne sevgisi, anne şefkati",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "母爱是世界上最伟大的爱。",
+        "pinyin": "Mǔ'ài shì shìjiè shàng zuì wěidà de ài.",
+        "en": "Anne sevgisi dünyadaki en büyük sevgidir."
+      },
+      {
+        "zh": "她感受到了浓浓的母爱。",
+        "pinyin": "Tā gǎnshòu dào le nóngnóng de mǔ'ài.",
+        "en": "Yoğun bir anne şefkati hissetti."
+      },
+      {
+        "zh": "这首诗歌颂了伟大的母爱。",
+        "pinyin": "Zhè shǒu shī gēsòng le wěidà de mǔ'ài.",
+        "en": "Bu şiir büyük anne sevgisini övüyor."
+      },
+      {
+        "zh": "母爱无私而深沉。",
+        "pinyin": "Mǔ'ài wúsī ér shēnchén.",
+        "en": "Anne sevgisi bencilliksiz ve derindir."
+      },
+      {
+        "zh": "她用母爱抚养了三个孩子。",
+        "pinyin": "Tā yòng mǔ'ài fǔyǎng le sān gè háizi.",
+        "en": "Anne şefkatiyle üç çocuğunu büyüttü."
+      }
+    ]
+  },
+  {
+    "id": "w4958",
+    "hanzi": "母公司",
+    "pinyin": "mǔgōngsī",
+    "meaning": "Ana şirket",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "这家分公司隶属于一家大型母公司。",
+        "pinyin": "Zhè jiā fēngōngsī lìshǔyú yì jiā dàxíng mǔgōngsī.",
+        "en": "Bu şube büyük bir ana şirkete bağlıdır."
+      },
+      {
+        "zh": "母公司决定收购这家小企业。",
+        "pinyin": "Mǔgōngsī juédìng shōugòu zhè jiā xiǎo qǐyè.",
+        "en": "Ana şirket bu küçük işletmeyi satın almaya karar verdi."
+      },
+      {
+        "zh": "母公司为子公司提供了资金支持。",
+        "pinyin": "Mǔgōngsī wèi zǐgōngsī tígōng le zījīn zhīchí.",
+        "en": "Ana şirket, bağlı şirkete mali destek sağladı."
+      },
+      {
+        "zh": "所有决策都需要经过母公司批准。",
+        "pinyin": "Suǒyǒu juécè dōu xūyào jīngguò mǔgōngsī pīzhǔn.",
+        "en": "Tüm kararların ana şirket tarafından onaylanması gerekir."
+      },
+      {
+        "zh": "母公司总部设在上海。",
+        "pinyin": "Mǔgōngsī zǒngbù shè zài Shànghǎi.",
+        "en": "Ana şirketin genel merkezi Şangay'da bulunuyor."
+      }
+    ]
   }
 ]

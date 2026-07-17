@@ -191800,5 +191800,863 @@
         "en": "O enerji dolu bir genç."
       }
     ]
+  },
+  {
+    "id": "w5617",
+    "hanzi": "奢侈",
+    "pinyin": "shēchǐ",
+    "meaning": "lüks, savurgan, şatafatlı",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他过着奢侈的生活。",
+        "pinyin": "Tā guòzhe shēchǐ de shēnghuó.",
+        "en": "Lüks bir hayat sürüyor."
+      },
+      {
+        "zh": "买这么贵的车太奢侈了。",
+        "pinyin": "Mǎi zhème guì de chē tài shēchǐ le.",
+        "en": "Bu kadar pahalı bir araba almak çok savurgan bir davranış."
+      },
+      {
+        "zh": "对于我们来说，旅行是一种奢侈。",
+        "pinyin": "Duìyú wǒmen láishuō, lǚxíng shì yì zhǒng shēchǐ.",
+        "en": "Bizim için seyahat bir tür lükstür."
+      },
+      {
+        "zh": "她从不追求奢侈品。",
+        "pinyin": "Tā cóngbù zhuīqiú shēchǐpǐn.",
+        "en": "Hiçbir zaman lüks ürünlerin peşinden koşmadı."
+      },
+      {
+        "zh": "他们举办了一场奢侈的婚礼。",
+        "pinyin": "Tāmen jǔbàn le yì chǎng shēchǐ de hūnlǐ.",
+        "en": "Lüks bir düğün düzenlediler."
+      }
+    ]
+  },
+  {
+    "id": "w5618",
+    "hanzi": "舍得",
+    "pinyin": "shěde",
+    "meaning": "gönülden vermeye razı olmak, kıyabilmek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "她舍得为孩子花钱。",
+        "pinyin": "Tā shěde wèi háizi huāqián.",
+        "en": "Çocuğu için para harcamaya gönülden razı."
+      },
+      {
+        "zh": "他舍不得扔掉旧照片。",
+        "pinyin": "Tā shěbude rēngdiào jiù zhàopiàn.",
+        "en": "Eski fotoğrafları atmaya kıyamıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5619",
+    "hanzi": "设",
+    "pinyin": "shè",
+    "meaning": "kurmak, düzenlemek, hazırlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "学校设了一个新的图书馆。",
+        "pinyin": "Xuéxiào shè le yí ge xīn de túshūguǎn.",
+        "en": "Okul yeni bir kütüphane kurdu."
+      },
+      {
+        "zh": "公司在这里设了一个分部。",
+        "pinyin": "Gōngsī zài zhèlǐ shè le yí ge fēnbù.",
+        "en": "Şirket burada bir şube kurdu."
+      },
+      {
+        "zh": "假设明天下雨怎么办？",
+        "pinyin": "Jiǎshè míngtiān xiàyǔ zěnme bàn?",
+        "en": "Yarın yağmur yağarsa ne yapacağız (varsayalım ki yağmur yağdı)?"
+      },
+      {
+        "zh": "他们设了一个陷阱。",
+        "pinyin": "Tāmen shè le yí ge xiànjǐng.",
+        "en": "Bir tuzak kurdular."
+      },
+      {
+        "zh": "会场设了很多座位。",
+        "pinyin": "Huìchǎng shè le hěnduō zuòwèi.",
+        "en": "Toplantı salonuna birçok koltuk yerleştirildi."
+      }
+    ]
+  },
+  {
+    "id": "w5620",
+    "hanzi": "设法",
+    "pinyin": "shèfǎ",
+    "meaning": "çözüm yolu bulmaya çalışmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他设法解决了这个难题。",
+        "pinyin": "Tā shèfǎ jiějué le zhège nántí.",
+        "en": "Bu zor sorunu çözmenin bir yolunu buldu."
+      },
+      {
+        "zh": "我们必须设法完成任务。",
+        "pinyin": "Wǒmen bìxū shèfǎ wánchéng rènwu.",
+        "en": "Görevi tamamlamak için bir yol bulmamız gerekiyor."
+      },
+      {
+        "zh": "他设法说服了大家。",
+        "pinyin": "Tā shèfǎ shuōfú le dàjiā.",
+        "en": "Herkesi ikna etmenin bir yolunu buldu."
+      },
+      {
+        "zh": "请设法尽快回复我。",
+        "pinyin": "Qǐng shèfǎ jǐnkuài huífù wǒ.",
+        "en": "Lütfen mümkün olan en kısa sürede bana cevap vermek için çabalayın."
+      },
+      {
+        "zh": "他设法筹集了资金。",
+        "pinyin": "Tā shèfǎ chóují le zījīn.",
+        "en": "Fon toplamak için bir yol buldu."
+      }
+    ]
+  },
+  {
+    "id": "w5621",
+    "hanzi": "设立",
+    "pinyin": "shèlì",
+    "meaning": "kurmak, tesis etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "学校设立了奖学金制度。",
+        "pinyin": "Xuéxiào shèlì le jiǎngxuéjīn zhìdù.",
+        "en": "Okul burs sistemi kurdu."
+      },
+      {
+        "zh": "政府设立了新的机构。",
+        "pinyin": "Zhèngfǔ shèlì le xīn de jīgòu.",
+        "en": "Hükümet yeni bir kurum tesis etti."
+      },
+      {
+        "zh": "公司在海外设立了分公司。",
+        "pinyin": "Gōngsī zài hǎiwài shèlì le fēngōngsī.",
+        "en": "Şirket yurt dışında bir şube kurdu."
+      },
+      {
+        "zh": "他们设立了一个专项基金。",
+        "pinyin": "Tāmen shèlì le yí ge zhuānxiàng jījīn.",
+        "en": "Özel bir fon kurdular."
+      },
+      {
+        "zh": "这个协会设立于1990年。",
+        "pinyin": "Zhège xiéhuì shèlì yú yījiǔjiǔlíng nián.",
+        "en": "Bu dernek 1990 yılında kuruldu."
+      }
+    ]
+  },
+  {
+    "id": "w5622",
+    "hanzi": "设想",
+    "pinyin": "shèxiǎng",
+    "meaning": "tasavvur etmek, hayal etmek, tasarlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "很难设想没有电的生活。",
+        "pinyin": "Hěn nán shèxiǎng méiyǒu diàn de shēnghuó.",
+        "en": "Elektriksiz bir hayatı tasavvur etmek çok zor."
+      },
+      {
+        "zh": "他设想了一个新的方案。",
+        "pinyin": "Tā shèxiǎng le yí ge xīn de fāng'àn.",
+        "en": "Yeni bir plan tasarladı."
+      },
+      {
+        "zh": "我们无法设想未来会发生什么。",
+        "pinyin": "Wǒmen wúfǎ shèxiǎng wèilái huì fāshēng shénme.",
+        "en": "Gelecekte ne olacağını tasavvur edemiyoruz."
+      },
+      {
+        "zh": "他设想了各种可能的结果。",
+        "pinyin": "Tā shèxiǎng le gèzhǒng kěnéng de jiéguǒ.",
+        "en": "Çeşitli olası sonuçları düşündü."
+      },
+      {
+        "zh": "请设想一下这个场景。",
+        "pinyin": "Qǐng shèxiǎng yíxià zhège chǎngjǐng.",
+        "en": "Lütfen bu senaryoyu bir düşünün."
+      }
+    ]
+  },
+  {
+    "id": "w5623",
+    "hanzi": "设置",
+    "pinyin": "shèzhì",
+    "meaning": "kurmak, yerleştirmek, ayarlamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请设置好你的密码。",
+        "pinyin": "Qǐng shèzhì hǎo nǐ de mìmǎ.",
+        "en": "Lütfen şifrenizi ayarlayın."
+      },
+      {
+        "zh": "路边设置了很多摄像头。",
+        "pinyin": "Lùbiān shèzhì le hěnduō shèxiàngtóu.",
+        "en": "Yol kenarına birçok kamera yerleştirildi."
+      },
+      {
+        "zh": "学校设置了新的课程。",
+        "pinyin": "Xuéxiào shèzhì le xīn de kèchéng.",
+        "en": "Okul yeni bir ders programı hazırladı."
+      },
+      {
+        "zh": "他设置了一个提醒事项。",
+        "pinyin": "Tā shèzhì le yí ge tíxǐng shìxiàng.",
+        "en": "Bir hatırlatıcı ayarladı."
+      },
+      {
+        "zh": "公司设置了严格的规章制度。",
+        "pinyin": "Gōngsī shèzhì le yángé de guīzhāng zhìdù.",
+        "en": "Şirket sıkı kurallar ve düzenlemeler koydu."
+      }
+    ]
+  },
+  {
+    "id": "w5624",
+    "hanzi": "涉及",
+    "pinyin": "shèjí",
+    "meaning": "ilgilendirmek, kapsamak, dokunmak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "这个问题涉及很多方面。",
+        "pinyin": "Zhège wèntí shèjí hěnduō fāngmiàn.",
+        "en": "Bu sorun birçok alanı ilgilendiriyor."
+      },
+      {
+        "zh": "这项决定涉及全体员工的利益。",
+        "pinyin": "Zhè xiàng juédìng shèjí quántǐ yuángōng de lìyì.",
+        "en": "Bu karar tüm çalışanların çıkarlarını ilgilendiriyor."
+      },
+      {
+        "zh": "这起案件涉及多个国家。",
+        "pinyin": "Zhè qǐ ànjiàn shèjí duō ge guójiā.",
+        "en": "Bu dava birçok ülkeyi kapsıyor."
+      },
+      {
+        "zh": "这份报告涉及经济和政治问题。",
+        "pinyin": "Zhè fèn bàogào shèjí jīngjì hé zhèngzhì wèntí.",
+        "en": "Bu rapor ekonomik ve siyasi sorunları kapsıyor."
+      },
+      {
+        "zh": "这个话题涉及个人隐私。",
+        "pinyin": "Zhège huàtí shèjí gèrén yǐnsī.",
+        "en": "Bu konu kişisel gizliliği ilgilendiriyor."
+      }
+    ]
+  },
+  {
+    "id": "w5625",
+    "hanzi": "社会学",
+    "pinyin": "shèhuìxué",
+    "meaning": "sosyoloji",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Eğitim",
+    "examples": [
+      {
+        "zh": "她在大学主修社会学。",
+        "pinyin": "Tā zài dàxué zhǔxiū shèhuìxué.",
+        "en": "Üniversitede sosyoloji okuyor."
+      },
+      {
+        "zh": "社会学研究人类社会的结构。",
+        "pinyin": "Shèhuìxué yánjiū rénlèi shèhuì de jiégòu.",
+        "en": "Sosyoloji, insan toplumunun yapısını araştırır."
+      }
+    ]
+  },
+  {
+    "id": "w5626",
+    "hanzi": "社会主义",
+    "pinyin": "shèhuìzhǔyì",
+    "meaning": "sosyalizm",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "这个国家实行社会主义制度。",
+        "pinyin": "Zhège guójiā shíxíng shèhuìzhǔyì zhìdù.",
+        "en": "Bu ülke sosyalist bir sistem uyguluyor."
+      },
+      {
+        "zh": "他研究社会主义理论多年。",
+        "pinyin": "Tā yánjiū shèhuìzhǔyì lǐlùn duōnián.",
+        "en": "Yıllardır sosyalizm teorisini araştırıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5627",
+    "hanzi": "社交",
+    "pinyin": "shèjiāo",
+    "meaning": "sosyal ilişkiler",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他很擅长社交。",
+        "pinyin": "Tā hěn shàncháng shèjiāo.",
+        "en": "Sosyal ilişkilerde çok başarılı."
+      },
+      {
+        "zh": "社交媒体改变了人们的生活方式。",
+        "pinyin": "Shèjiāo méitǐ gǎibiàn le rénmen de shēnghuó fāngshì.",
+        "en": "Sosyal medya insanların yaşam tarzını değiştirdi."
+      },
+      {
+        "zh": "她不太喜欢社交场合。",
+        "pinyin": "Tā bú tài xǐhuan shèjiāo chǎnghé.",
+        "en": "Sosyal ortamlardan pek hoşlanmıyor."
+      },
+      {
+        "zh": "他通过社交活动认识了很多人。",
+        "pinyin": "Tā tōngguò shèjiāo huódòng rènshi le hěnduō rén.",
+        "en": "Sosyal etkinlikler aracılığıyla birçok kişiyle tanıştı."
+      },
+      {
+        "zh": "良好的社交能力有助于事业发展。",
+        "pinyin": "Liánghǎo de shèjiāo nénglì yǒuzhùyú shìyè fāzhǎn.",
+        "en": "İyi sosyal beceriler kariyer gelişimine yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w5628",
+    "hanzi": "社区",
+    "pinyin": "shèqū",
+    "meaning": "topluluk, mahalle, semt",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "我们社区有一个公园。",
+        "pinyin": "Wǒmen shèqū yǒu yí ge gōngyuán.",
+        "en": "Mahallemizde bir park var."
+      },
+      {
+        "zh": "社区举办了一场庆祝活动。",
+        "pinyin": "Shèqū jǔbàn le yì chǎng qìngzhù huódòng.",
+        "en": "Mahalle bir kutlama etkinliği düzenledi."
+      },
+      {
+        "zh": "他积极参与社区服务。",
+        "pinyin": "Tā jījí cānyù shèqū fúwù.",
+        "en": "Topluluk hizmetlerine aktif olarak katılıyor."
+      },
+      {
+        "zh": "这个社区居民关系融洽。",
+        "pinyin": "Zhège shèqū jūmín guānxì róngqià.",
+        "en": "Bu mahallenin sakinleri arasındaki ilişki uyumlu."
+      },
+      {
+        "zh": "社区中心提供各种服务。",
+        "pinyin": "Shèqū zhōngxīn tígōng gèzhǒng fúwù.",
+        "en": "Toplum merkezi çeşitli hizmetler sunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5629",
+    "hanzi": "赦免",
+    "pinyin": "shèmiǎn",
+    "meaning": "affetmek, cezasını bağışlamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他获得了政府的赦免。",
+        "pinyin": "Tā huòdé le zhèngfǔ de shèmiǎn.",
+        "en": "Hükümet tarafından affedildi."
+      },
+      {
+        "zh": "总统宣布赦免部分囚犯。",
+        "pinyin": "Zǒngtǒng xuānbù shèmiǎn bùfen qiúfàn.",
+        "en": "Cumhurbaşkanı bazı mahkumların affedildiğini ilan etti."
+      }
+    ]
+  },
+  {
+    "id": "w5630",
+    "hanzi": "摄取",
+    "pinyin": "shèqǔ",
+    "meaning": "almak, içine çekmek (besin vb.)",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "人体需要摄取足够的维生素。",
+        "pinyin": "Réntǐ xūyào shèqǔ zúgòu de wéishēngsù.",
+        "en": "İnsan vücudu yeterli miktarda vitamin almalıdır."
+      },
+      {
+        "zh": "他每天摄取过多的糖分。",
+        "pinyin": "Tā měitiān shèqǔ guòduō de tángfèn.",
+        "en": "Her gün fazla miktarda şeker alıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5631",
+    "hanzi": "射箭",
+    "pinyin": "shèjiàn",
+    "meaning": "okçuluk, ok atmak",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Spor",
+    "examples": [
+      {
+        "zh": "他从小学习射箭。",
+        "pinyin": "Tā cóngxiǎo xuéxí shèjiàn.",
+        "en": "Küçüklüğünden beri okçuluk öğreniyor."
+      },
+      {
+        "zh": "射箭比赛需要极高的专注力。",
+        "pinyin": "Shèjiàn bǐsài xūyào jígāo de zhuānzhùlì.",
+        "en": "Okçuluk yarışması çok yüksek bir konsantrasyon gerektirir."
+      }
+    ]
+  },
+  {
+    "id": "w5632",
+    "hanzi": "射线",
+    "pinyin": "shèxiàn",
+    "meaning": "ışın",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "紫外线是一种有害的射线。",
+        "pinyin": "Zǐwàixiàn shì yì zhǒng yǒuhài de shèxiàn.",
+        "en": "Ultraviyole zararlı bir ışın türüdür."
+      },
+      {
+        "zh": "医生用射线检查了他的骨折情况。",
+        "pinyin": "Yīshēng yòng shèxiàn jiǎnchá le tā de gǔzhé qíngkuàng.",
+        "en": "Doktor ışın kullanarak kırığın durumunu inceledi."
+      }
+    ]
+  },
+  {
+    "id": "w5633",
+    "hanzi": "申诉",
+    "pinyin": "shēnsù",
+    "meaning": "temyize gitmek, itiraz etmek, başvurmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "他向法院提出了申诉。",
+        "pinyin": "Tā xiàng fǎyuàn tíchū le shēnsù.",
+        "en": "Mahkemeye itirazda bulundu."
+      },
+      {
+        "zh": "他决定就这个判决提出申诉。",
+        "pinyin": "Tā juédìng jiù zhège pànjué tíchū shēnsù.",
+        "en": "Bu karara karşı itiraz etmeye karar verdi."
+      }
+    ]
+  },
+  {
+    "id": "w5634",
+    "hanzi": "身边",
+    "pinyin": "shēnbiān",
+    "meaning": "yanında, çevresinde",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他一直陪伴在她身边。",
+        "pinyin": "Tā yìzhí péibàn zài tā shēnbiān.",
+        "en": "Her zaman onun yanında bulunuyor."
+      },
+      {
+        "zh": "我身边没有带钱。",
+        "pinyin": "Wǒ shēnbiān méiyǒu dài qián.",
+        "en": "Yanımda para yok."
+      },
+      {
+        "zh": "她把手机放在身边。",
+        "pinyin": "Tā bǎ shǒujī fàng zài shēnbiān.",
+        "en": "Telefonu yanına koydu."
+      },
+      {
+        "zh": "他身边总是围着很多朋友。",
+        "pinyin": "Tā shēnbiān zǒngshì wéizhe hěnduō péngyou.",
+        "en": "Etrafında her zaman birçok arkadaş var."
+      },
+      {
+        "zh": "父母希望孩子留在身边。",
+        "pinyin": "Fùmǔ xīwàng háizi liú zài shēnbiān.",
+        "en": "Ebeveynler çocuklarının yanlarında kalmasını umuyor."
+      }
+    ]
+  },
+  {
+    "id": "w5635",
+    "hanzi": "身心",
+    "pinyin": "shēnxīn",
+    "meaning": "beden ve ruh, beden ve zihin",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "运动有益身心健康。",
+        "pinyin": "Yùndòng yǒuyì shēnxīn jiànkāng.",
+        "en": "Egzersiz beden ve ruh sağlığına faydalıdır."
+      },
+      {
+        "zh": "旅行可以让身心得到放松。",
+        "pinyin": "Lǚxíng kěyǐ ràng shēnxīn dédào fàngsōng.",
+        "en": "Seyahat beden ve ruhun rahatlamasını sağlayabilir."
+      },
+      {
+        "zh": "长期熬夜对身心都不好。",
+        "pinyin": "Chángqī áoyè duì shēnxīn dōu bùhǎo.",
+        "en": "Uzun süreli geç yatmak beden ve ruh için iyi değildir."
+      },
+      {
+        "zh": "冥想有助于身心平衡。",
+        "pinyin": "Míngxiǎng yǒuzhùyú shēnxīn pínghéng.",
+        "en": "Meditasyon beden ve ruh dengesine yardımcı olur."
+      },
+      {
+        "zh": "他把全部身心都投入到了工作中。",
+        "pinyin": "Tā bǎ quánbù shēnxīn dōu tóurù dào le gōngzuò zhōng.",
+        "en": "Tüm ruhunu ve bedenini işine adadı."
+      }
+    ]
+  },
+  {
+    "id": "w5636",
+    "hanzi": "身子",
+    "pinyin": "shēnzi",
+    "meaning": "vücut, beden",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Vücut",
+    "examples": [
+      {
+        "zh": "他的身子有点虚弱。",
+        "pinyin": "Tā de shēnzi yǒudiǎn xūruò.",
+        "en": "Vücudu biraz zayıf."
+      },
+      {
+        "zh": "她转过身子看着我。",
+        "pinyin": "Tā zhuǎnguò shēnzi kànzhe wǒ.",
+        "en": "Vücudunu çevirip bana baktı."
+      },
+      {
+        "zh": "他弯下身子捡起了地上的东西。",
+        "pinyin": "Tā wānxià shēnzi jiǎnqǐ le dìshàng de dōngxi.",
+        "en": "Eğilip yerdeki eşyayı aldı."
+      },
+      {
+        "zh": "多注意身子，别累坏了。",
+        "pinyin": "Duō zhùyì shēnzi, bié lèihuài le.",
+        "en": "Vücuduna dikkat et, kendini yorma."
+      },
+      {
+        "zh": "她的身子瘦弱苗条。",
+        "pinyin": "Tā de shēnzi shòuruò miáotiao.",
+        "en": "Vücudu ince ve zayıf."
+      }
+    ]
+  },
+  {
+    "id": "w5637",
+    "hanzi": "深奥",
+    "pinyin": "shēn'ào",
+    "meaning": "derin, anlaşılması zor",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "这本书的内容很深奥。",
+        "pinyin": "Zhè běn shū de nèiróng hěn shēn'ào.",
+        "en": "Bu kitabın içeriği çok derin."
+      },
+      {
+        "zh": "他的理论太深奥了，一般人难以理解。",
+        "pinyin": "Tā de lǐlùn tài shēn'ào le, yìbān rén nányǐ lǐjiě.",
+        "en": "Teorisi çok derin, sıradan insanların anlaması zor."
+      }
+    ]
+  },
+  {
+    "id": "w5638",
+    "hanzi": "深处",
+    "pinyin": "shēnchù",
+    "meaning": "derinlik, iç kısım",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "他内心深处感到很孤独。",
+        "pinyin": "Tā nèixīn shēnchù gǎndào hěn gūdú.",
+        "en": "İçinin derinliklerinde çok yalnız hissediyor."
+      },
+      {
+        "zh": "森林深处传来了鸟叫声。",
+        "pinyin": "Sēnlín shēnchù chuánlái le niǎojiào shēng.",
+        "en": "Ormanın derinliklerinden kuş sesleri geldi."
+      }
+    ]
+  },
+  {
+    "id": "w5639",
+    "hanzi": "深度",
+    "pinyin": "shēndù",
+    "meaning": "derinlik",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "这口井的深度是十米。",
+        "pinyin": "Zhè kǒu jǐng de shēndù shì shí mǐ.",
+        "en": "Bu kuyunun derinliği on metredir."
+      },
+      {
+        "zh": "这篇文章缺乏深度。",
+        "pinyin": "Zhè piān wénzhāng quēfá shēndù.",
+        "en": "Bu makalede derinlik eksik."
+      },
+      {
+        "zh": "科学家测量了海洋的深度。",
+        "pinyin": "Kēxuéjiā cèliáng le hǎiyáng de shēndù.",
+        "en": "Bilim insanları okyanusun derinliğini ölçtü."
+      },
+      {
+        "zh": "这个话题值得深度探讨。",
+        "pinyin": "Zhège huàtí zhídé shēndù tàntǎo.",
+        "en": "Bu konu derinlemesine tartışılmayı hak ediyor."
+      },
+      {
+        "zh": "游泳池的深度不同区域各不相同。",
+        "pinyin": "Yóuyǒngchí de shēndù bùtóng qūyù gèbùxiāngtóng.",
+        "en": "Yüzme havuzunun derinliği farklı bölgelerde farklıdır."
+      }
+    ]
+  },
+  {
+    "id": "w5640",
+    "hanzi": "深厚",
+    "pinyin": "shēnhòu",
+    "meaning": "derin, köklü, sağlam",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他们之间有着深厚的友谊。",
+        "pinyin": "Tāmen zhījiān yǒuzhe shēnhòu de yǒuyì.",
+        "en": "Aralarında derin bir dostluk var."
+      },
+      {
+        "zh": "他对这个课题有深厚的兴趣。",
+        "pinyin": "Tā duì zhège kètí yǒu shēnhòu de xìngqù.",
+        "en": "Bu konuya derin bir ilgisi var."
+      },
+      {
+        "zh": "他在音乐方面有深厚的功底。",
+        "pinyin": "Tā zài yīnyuè fāngmiàn yǒu shēnhòu de gōngdǐ.",
+        "en": "Müzik alanında sağlam bir temele sahip."
+      },
+      {
+        "zh": "两国有着深厚的历史渊源。",
+        "pinyin": "Liǎng guó yǒuzhe shēnhòu de lìshǐ yuānyuán.",
+        "en": "İki ülke arasında derin bir tarihsel bağ var."
+      },
+      {
+        "zh": "父母对孩子的爱十分深厚。",
+        "pinyin": "Fùmǔ duì háizi de ài shífēn shēnhòu.",
+        "en": "Ebeveynlerin çocuklarına olan sevgisi çok derindir."
+      }
+    ]
+  },
+  {
+    "id": "w5641",
+    "hanzi": "深呼吸",
+    "pinyin": "shēnhūxī",
+    "meaning": "derin nefes almak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "紧张的时候可以做几次深呼吸。",
+        "pinyin": "Jǐnzhāng de shíhou kěyǐ zuò jǐ cì shēnhūxī.",
+        "en": "Gergin olduğunda birkaç kez derin nefes alabilirsin."
+      },
+      {
+        "zh": "医生让他深呼吸几次。",
+        "pinyin": "Yīshēng ràng tā shēnhūxī jǐ cì.",
+        "en": "Doktor birkaç kez derin nefes almasını istedi."
+      },
+      {
+        "zh": "深呼吸可以帮助放松身心。",
+        "pinyin": "Shēnhūxī kěyǐ bāngzhù fàngsōng shēnxīn.",
+        "en": "Derin nefes almak beden ve ruhu rahatlatmaya yardımcı olabilir."
+      },
+      {
+        "zh": "他做了一个深呼吸，然后开始演讲。",
+        "pinyin": "Tā zuò le yí ge shēnhūxī, ránhòu kāishǐ yǎnjiǎng.",
+        "en": "Derin bir nefes aldı, sonra konuşmaya başladı."
+      },
+      {
+        "zh": "深呼吸有助于缓解焦虑。",
+        "pinyin": "Shēnhūxī yǒuzhùyú huǎnjiě jiāolǜ.",
+        "en": "Derin nefes almak kaygıyı hafifletmeye yardımcı olur."
+      }
+    ]
+  },
+  {
+    "id": "w5642",
+    "hanzi": "深化",
+    "pinyin": "shēnhuà",
+    "meaning": "derinleşmek, derinleştirmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "两国关系不断深化。",
+        "pinyin": "Liǎng guó guānxì búduàn shēnhuà.",
+        "en": "İki ülke arasındaki ilişkiler sürekli derinleşiyor."
+      },
+      {
+        "zh": "这次交流深化了彼此的理解。",
+        "pinyin": "Zhè cì jiāoliú shēnhuà le bǐcǐ de lǐjiě.",
+        "en": "Bu görüşme karşılıklı anlayışı derinleştirdi."
+      },
+      {
+        "zh": "他们决定深化经济合作。",
+        "pinyin": "Tāmen juédìng shēnhuà jīngjì hézuò.",
+        "en": "Ekonomik işbirliğini derinleştirmeye karar verdiler."
+      },
+      {
+        "zh": "这本书深化了我对这个问题的认识。",
+        "pinyin": "Zhè běn shū shēnhuà le wǒ duì zhège wèntí de rènshi.",
+        "en": "Bu kitap bu konuya olan anlayışımı derinleştirdi."
+      },
+      {
+        "zh": "政府计划深化改革。",
+        "pinyin": "Zhèngfǔ jìhuà shēnhuà gǎigé.",
+        "en": "Hükümet reformları derinleştirmeyi planlıyor."
+      }
+    ]
+  },
+  {
+    "id": "w5643",
+    "hanzi": "深入",
+    "pinyin": "shēnrù",
+    "meaning": "derinlemesine ilerlemek, derinlere inmek",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他深入研究了这个课题。",
+        "pinyin": "Tā shēnrù yánjiū le zhège kètí.",
+        "en": "Bu konuyu derinlemesine araştırdı."
+      },
+      {
+        "zh": "我们需要深入了解这个问题。",
+        "pinyin": "Wǒmen xūyào shēnrù liǎojiě zhège wèntí.",
+        "en": "Bu sorunu derinlemesine anlamamız gerekiyor."
+      },
+      {
+        "zh": "记者深入灾区进行报道。",
+        "pinyin": "Jìzhě shēnrù zāiqū jìnxíng bàodào.",
+        "en": "Gazeteci felaket bölgesine derinlemesine girip haber yaptı."
+      },
+      {
+        "zh": "这次讨论非常深入。",
+        "pinyin": "Zhè cì tǎolùn fēicháng shēnrù.",
+        "en": "Bu tartışma çok derinlemesine oldu."
+      },
+      {
+        "zh": "他深入民间收集资料。",
+        "pinyin": "Tā shēnrù mínjiān shōují zīliào.",
+        "en": "Halkın arasına derinlemesine girerek veri topladı."
+      }
+    ]
+  },
+  {
+    "id": "w5644",
+    "hanzi": "深夜",
+    "pinyin": "shēnyè",
+    "meaning": "gecenin geç saatleri",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "他常常工作到深夜。",
+        "pinyin": "Tā chángcháng gōngzuò dào shēnyè.",
+        "en": "Sık sık gecenin geç saatlerine kadar çalışıyor."
+      },
+      {
+        "zh": "深夜的街道格外安静。",
+        "pinyin": "Shēnyè de jiēdào géwài ānjìng.",
+        "en": "Gecenin geç saatlerinde sokaklar oldukça sessiz."
+      },
+      {
+        "zh": "他深夜接到了一个电话。",
+        "pinyin": "Tā shēnyè jiēdào le yí ge diànhuà.",
+        "en": "Gecenin geç saatinde bir telefon aldı."
+      },
+      {
+        "zh": "她深夜才回到家。",
+        "pinyin": "Tā shēnyè cái huídào jiā.",
+        "en": "Eve gecenin geç saatlerinde döndü."
+      },
+      {
+        "zh": "深夜里，他还在灯下读书。",
+        "pinyin": "Shēnyè lǐ, tā hái zài dēng xià dúshū.",
+        "en": "Gecenin geç saatinde hâlâ lamba ışığında kitap okuyor."
+      }
+    ]
   }
 ]

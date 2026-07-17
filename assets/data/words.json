@@ -163543,5 +163543,581 @@
         "en": "Restoran üst katta, mağaza alt katta."
       }
     ]
+  },
+  {
+    "id": "w4740",
+    "hanzi": "楼下",
+    "pinyin": "lóuxià",
+    "meaning": "Alt kat",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "商店在楼下。",
+        "pinyin": "Shāngdiàn zài lóuxià.",
+        "en": "Mağaza alt katta."
+      },
+      {
+        "zh": "他跑到楼下开门。",
+        "pinyin": "Tā pǎodào lóuxià kāimén.",
+        "en": "Kapıyı açmak için aşağı kata koştu."
+      },
+      {
+        "zh": "楼下停着一辆车。",
+        "pinyin": "Lóuxià tíngzhe yí liàng chē.",
+        "en": "Alt katta bir araç park edilmiş."
+      },
+      {
+        "zh": "他住在楼下的邻居家。",
+        "pinyin": "Tā zhù zài lóuxià de línjū jiā.",
+        "en": "Alt kattaki komşunun evinde yaşıyor."
+      },
+      {
+        "zh": "餐厅设在楼下。",
+        "pinyin": "Cāntīng shè zài lóuxià.",
+        "en": "Restoran alt katta bulunuyor."
+      }
+    ]
+  },
+  {
+    "id": "w4741",
+    "hanzi": "露面",
+    "pinyin": "lòumiàn",
+    "meaning": "Ortaya çıkmak, görünmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他很少在公开场合露面。",
+        "pinyin": "Tā hěn shǎo zài gōngkāi chǎnghé lòumiàn.",
+        "en": "Nadiren halka açık ortamlarda görünür."
+      },
+      {
+        "zh": "明星在活动上露了面。",
+        "pinyin": "Míngxīng zài huódòng shàng lòu le miàn.",
+        "en": "Ünlü etkinlikte ortaya çıktı."
+      },
+      {
+        "zh": "他终于露面回答了记者的问题。",
+        "pinyin": "Tā zhōngyú lòumiàn huídá le jìzhě de wèntí.",
+        "en": "Sonunda ortaya çıkıp gazetecilerin sorularını cevapladı."
+      },
+      {
+        "zh": "他好久没露面了。",
+        "pinyin": "Tā hǎojiǔ méi lòumiàn le.",
+        "en": "Uzun zamandır görünmedi."
+      },
+      {
+        "zh": "他在会议上露了一下面就走了。",
+        "pinyin": "Tā zài huìyì shàng lòu le yíxià miàn jiù zǒu le.",
+        "en": "Toplantıda kısaca göründü ve ayrıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4742",
+    "hanzi": "炉",
+    "pinyin": "lú",
+    "meaning": "Soba, ocak, fırın",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "冬天他们在炉边取暖。",
+        "pinyin": "Dōngtiān tāmen zài lú biān qǔnuǎn.",
+        "en": "Kışın sobanın yanında ısınıyorlar."
+      },
+      {
+        "zh": "她把锅放在炉子上。",
+        "pinyin": "Tā bǎ guō fàng zài lúzi shàng.",
+        "en": "Tencereyi ocağın üzerine koydu."
+      },
+      {
+        "zh": "他点燃了壁炉。",
+        "pinyin": "Tā diǎnrán le bìlú.",
+        "en": "Şömineyi yaktı."
+      },
+      {
+        "zh": "炉火烧得很旺。",
+        "pinyin": "Lúhuǒ shāo de hěn wàng.",
+        "en": "Ocaktaki ateş güçlü bir şekilde yanıyor."
+      },
+      {
+        "zh": "这个高炉每天生产大量钢铁。",
+        "pinyin": "Zhège gāolú měitiān shēngchǎn dàliàng gāngtiě.",
+        "en": "Bu yüksek fırın her gün büyük miktarda çelik üretiyor."
+      }
+    ]
+  },
+  {
+    "id": "w4743",
+    "hanzi": "芦苇",
+    "pinyin": "lúwěi",
+    "meaning": "Kamış, saz",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "湖边长满了芦苇。",
+        "pinyin": "Húbiān zhǎngmǎn le lúwěi.",
+        "en": "Göl kenarı sazlarla kaplanmış."
+      },
+      {
+        "zh": "风吹动着芦苇丛。",
+        "pinyin": "Fēng chuīdòngzhe lúwěicóng.",
+        "en": "Rüzgar sazlıkları sallıyordu."
+      },
+      {
+        "zh": "他们在芦苇荡中划船。",
+        "pinyin": "Tāmen zài lúwěidàng zhōng huáchuán.",
+        "en": "Sazlıklar arasında kürek çekiyorlardı."
+      },
+      {
+        "zh": "芦苇可以用来编织草席。",
+        "pinyin": "Lúwěi kěyǐ yòng lái biānzhī cǎoxí.",
+        "en": "Kamışlar hasır dokumakta kullanılabilir."
+      },
+      {
+        "zh": "秋天芦苇变成了金黄色。",
+        "pinyin": "Qiūtiān lúwěi biànchéng le jīnhuángsè.",
+        "en": "Sonbaharda kamışlar altın sarısı renge döndü."
+      }
+    ]
+  },
+  {
+    "id": "w4744",
+    "hanzi": "路标",
+    "pinyin": "lùbiāo",
+    "meaning": "Yol işareti, tabela",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "请注意路边的路标。",
+        "pinyin": "Qǐng zhùyì lùbiān de lùbiāo.",
+        "en": "Lütfen yol kenarındaki tabelaya dikkat edin."
+      },
+      {
+        "zh": "路标指示我们向左转。",
+        "pinyin": "Lùbiāo zhǐshì wǒmen xiàng zuǒ zhuǎn.",
+        "en": "Yol işareti sola dönmemizi gösteriyor."
+      },
+      {
+        "zh": "这个路标已经被损坏了。",
+        "pinyin": "Zhège lùbiāo yǐjīng bèi sǔnhuài le.",
+        "en": "Bu yol işareti zaten hasar görmüş."
+      },
+      {
+        "zh": "他跟着路标找到了目的地。",
+        "pinyin": "Tā gēnzhe lùbiāo zhǎodào le mùdìdì.",
+        "en": "Yol işaretlerini takip ederek hedefe ulaştı."
+      },
+      {
+        "zh": "夜晚路标反光效果很好。",
+        "pinyin": "Yèwǎn lùbiāo fǎnguāng xiàoguǒ hěn hǎo.",
+        "en": "Gece vakti yol işaretinin yansıtma etkisi çok iyi."
+      }
+    ]
+  },
+  {
+    "id": "w4745",
+    "hanzi": "路程",
+    "pinyin": "lùchéng",
+    "meaning": "Mesafe, kat edilen yol",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "这段路程需要三个小时。",
+        "pinyin": "Zhè duàn lùchéng xūyào sān gè xiǎoshí.",
+        "en": "Bu yol üç saat sürüyor."
+      },
+      {
+        "zh": "剩下的路程不远了。",
+        "pinyin": "Shèngxià de lùchéng bù yuǎn le.",
+        "en": "Kalan mesafe çok uzak değil."
+      },
+      {
+        "zh": "他们已经完成了大半路程。",
+        "pinyin": "Tāmen yǐjīng wánchéng le dàbàn lùchéng.",
+        "en": "Yolun büyük kısmını zaten tamamladılar."
+      },
+      {
+        "zh": "人生的路程充满挑战。",
+        "pinyin": "Rénshēng de lùchéng chōngmǎn tiǎozhàn.",
+        "en": "Hayat yolculuğu zorluklarla doludur."
+      },
+      {
+        "zh": "这次旅行的路程很艰苦。",
+        "pinyin": "Zhè cì lǚxíng de lùchéng hěn jiānkǔ.",
+        "en": "Bu seyahatin yolculuğu çok zorluydu."
+      }
+    ]
+  },
+  {
+    "id": "w4746",
+    "hanzi": "路费",
+    "pinyin": "lùfèi",
+    "meaning": "Yol parası, seyahat masrafı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "finans",
+    "examples": [
+      {
+        "zh": "公司报销了他的路费。",
+        "pinyin": "Gōngsī bàoxiāo le tā de lùfèi.",
+        "en": "Şirket yol masrafını karşıladı."
+      },
+      {
+        "zh": "他为了省路费,选择坐大巴。",
+        "pinyin": "Tā wèile shěng lùfèi, xuǎnzé zuò dàbā.",
+        "en": "Yol parasından tasarruf etmek için otobüsü tercih etti."
+      },
+      {
+        "zh": "这趟旅行的路费不便宜。",
+        "pinyin": "Zhè tàng lǚxíng de lùfèi bù piányi.",
+        "en": "Bu seyahatin yol masrafı ucuz değil."
+      },
+      {
+        "zh": "父母给了他一些路费。",
+        "pinyin": "Fùmǔ gěi le tā yìxiē lùfèi.",
+        "en": "Ebeveynleri ona biraz yol parası verdi."
+      },
+      {
+        "zh": "他计算了一下往返路费。",
+        "pinyin": "Tā jìsuàn le yíxià wǎngfǎn lùfèi.",
+        "en": "Gidiş dönüş yol masrafını hesapladı."
+      }
+    ]
+  },
+  {
+    "id": "w4747",
+    "hanzi": "路径",
+    "pinyin": "lùjìng",
+    "meaning": "Rota, yol; yöntem",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Soyut",
+    "examples": [
+      {
+        "zh": "他找到了一条捷径路径。",
+        "pinyin": "Tā zhǎodào le yì tiáo jiéjìng lùjìng.",
+        "en": "Kısa bir yol buldu."
+      },
+      {
+        "zh": "这是解决问题的最佳路径。",
+        "pinyin": "Zhè shì jiějué wèntí de zuìjiā lùjìng.",
+        "en": "Bu sorunu çözmenin en iyi yoludur."
+      },
+      {
+        "zh": "他们探索了新的发展路径。",
+        "pinyin": "Tāmen tànsuǒ le xīn de fāzhǎn lùjìng.",
+        "en": "Yeni bir gelişim yolu keşfettiler."
+      },
+      {
+        "zh": "台风的移动路径难以预测。",
+        "pinyin": "Táifēng de yídòng lùjìng nányǐ yùcè.",
+        "en": "Tayfunun hareket rotasını tahmin etmek zor."
+      },
+      {
+        "zh": "请设置文件保存路径。",
+        "pinyin": "Qǐng shèzhì wénjiàn bǎocún lùjìng.",
+        "en": "Lütfen dosyanın kaydedileceği yolu ayarlayın."
+      }
+    ]
+  },
+  {
+    "id": "w4748",
+    "hanzi": "路线",
+    "pinyin": "lùxiàn",
+    "meaning": "Güzergah, hat; politika çizgisi",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Ulaşım",
+    "examples": [
+      {
+        "zh": "请查一下最快的路线。",
+        "pinyin": "Qǐng chá yíxià zuì kuài de lùxiàn.",
+        "en": "Lütfen en hızlı güzergahı kontrol edin."
+      },
+      {
+        "zh": "这条公交路线经过市中心。",
+        "pinyin": "Zhè tiáo gōngjiāo lùxiàn jīngguò shìzhōngxīn.",
+        "en": "Bu otobüs hattı şehir merkezinden geçiyor."
+      },
+      {
+        "zh": "他们计划了旅行的路线。",
+        "pinyin": "Tāmen jìhuà le lǚxíng de lùxiàn.",
+        "en": "Seyahat güzergahını planladılar."
+      },
+      {
+        "zh": "公司改变了发展路线。",
+        "pinyin": "Gōngsī gǎibiàn le fāzhǎn lùxiàn.",
+        "en": "Şirket gelişim çizgisini değiştirdi."
+      },
+      {
+        "zh": "这条地铁路线新开通了。",
+        "pinyin": "Zhè tiáo dìtiě lùxiàn xīn kāitōng le.",
+        "en": "Bu metro hattı yeni açıldı."
+      }
+    ]
+  },
+  {
+    "id": "w4749",
+    "hanzi": "录",
+    "pinyin": "lù",
+    "meaning": "Kaydetmek, yazmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他把会议内容录了下来。",
+        "pinyin": "Tā bǎ huìyì nèiróng lù le xiàlai.",
+        "en": "Toplantı içeriğini kaydetti."
+      },
+      {
+        "zh": "请把这首歌录成音频。",
+        "pinyin": "Qǐng bǎ zhè shǒu gē lùchéng yīnpín.",
+        "en": "Lütfen bu şarkıyı ses kaydına dönüştürün."
+      },
+      {
+        "zh": "他被大学录取了。",
+        "pinyin": "Tā bèi dàxué lùqǔ le.",
+        "en": "Üniversiteye kabul edildi."
+      },
+      {
+        "zh": "老师把学生的成绩录入了系统。",
+        "pinyin": "Lǎoshī bǎ xuésheng de chéngjì lùrù le xìtǒng.",
+        "en": "Öğretmen öğrencilerin notlarını sisteme girdi."
+      },
+      {
+        "zh": "他把节目录了下来给家人看。",
+        "pinyin": "Tā bǎ jiémù lù le xiàlai gěi jiārén kàn.",
+        "en": "Programı kaydetti, aile üyelerine izlettirecek."
+      }
+    ]
+  },
+  {
+    "id": "w4750",
+    "hanzi": "录像",
+    "pinyin": "lùxiàng",
+    "meaning": "Video kaydı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Medya",
+    "examples": [
+      {
+        "zh": "他用手机录像记录了这一刻。",
+        "pinyin": "Tā yòng shǒujī lùxiàng jìlù le zhè yíkè.",
+        "en": "Telefonuyla video kaydederek bu anı belgeledi."
+      },
+      {
+        "zh": "警察调取了监控录像。",
+        "pinyin": "Jǐngchá diàoqǔ le jiānkòng lùxiàng.",
+        "en": "Polis güvenlik kamerası kayıtlarını çıkardı."
+      },
+      {
+        "zh": "这段录像清楚地拍到了整个过程。",
+        "pinyin": "Zhè duàn lùxiàng qīngchu de pāidào le zhěnggè guòchéng.",
+        "en": "Bu video kaydı tüm süreci net bir şekilde gösteriyor."
+      },
+      {
+        "zh": "他把婚礼录像保存了起来。",
+        "pinyin": "Tā bǎ hūnlǐ lùxiàng bǎocún le qǐlai.",
+        "en": "Düğün video kaydını sakladı."
+      },
+      {
+        "zh": "老师放了一段教学录像。",
+        "pinyin": "Lǎoshī fàng le yí duàn jiàoxué lùxiàng.",
+        "en": "Öğretmen bir eğitim videosu oynattı."
+      }
+    ]
+  },
+  {
+    "id": "w4751",
+    "hanzi": "录用",
+    "pinyin": "lùyòng",
+    "meaning": "İşe almak, kabul etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "İş",
+    "examples": [
+      {
+        "zh": "公司决定录用他。",
+        "pinyin": "Gōngsī juédìng lùyòng tā.",
+        "en": "Şirket onu işe almaya karar verdi."
+      },
+      {
+        "zh": "他被正式录用为工程师。",
+        "pinyin": "Tā bèi zhèngshì lùyòng wéi gōngchéngshī.",
+        "en": "Mühendis olarak resmen işe alındı."
+      },
+      {
+        "zh": "这次招聘会录用了很多应届毕业生。",
+        "pinyin": "Zhè cì zhāopìnhuì lùyòng le hěn duō yìngjiè bìyèshēng.",
+        "en": "Bu iş fuarında birçok yeni mezun işe alındı."
+      },
+      {
+        "zh": "他因为经验不足没有被录用。",
+        "pinyin": "Tā yīnwèi jīngyàn bùzú méiyǒu bèi lùyòng.",
+        "en": "Yeterli deneyimi olmadığı için işe alınmadı."
+      },
+      {
+        "zh": "公司录用了三名新员工。",
+        "pinyin": "Gōngsī lùyòng le sān míng xīn yuángōng.",
+        "en": "Şirket üç yeni çalışan işe aldı."
+      }
+    ]
+  },
+  {
+    "id": "w4752",
+    "hanzi": "露水",
+    "pinyin": "lùshui",
+    "meaning": "Çiy",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Doğa",
+    "examples": [
+      {
+        "zh": "早晨草叶上有露水。",
+        "pinyin": "Zǎochén cǎoyè shàng yǒu lùshui.",
+        "en": "Sabahleyin çim yapraklarında çiy vardı."
+      },
+      {
+        "zh": "露水打湿了他的鞋子。",
+        "pinyin": "Lùshui dǎshī le tā de xiézi.",
+        "en": "Çiy ayakkabılarını ıslattı."
+      },
+      {
+        "zh": "太阳出来后露水蒸发了。",
+        "pinyin": "Tàiyáng chūlái hòu lùshui zhēngfā le.",
+        "en": "Güneş çıktıktan sonra çiy buharlaştı."
+      },
+      {
+        "zh": "花瓣上挂着晶莹的露水。",
+        "pinyin": "Huābàn shàng guàzhe jīngyíng de lùshui.",
+        "en": "Taç yapraklarında parıldayan çiy damlaları var."
+      },
+      {
+        "zh": "他清晨在露水中散步。",
+        "pinyin": "Tā qīngchén zài lùshui zhōng sànbù.",
+        "en": "Sabah erkenden çiylerin içinde yürüyüş yaptı."
+      }
+    ]
+  },
+  {
+    "id": "w4753",
+    "hanzi": "露天",
+    "pinyin": "lùtiān",
+    "meaning": "Açık hava, açık gökyüzü altında",
+    "partOfSpeech": "sıfat",
+    "level": 4,
+    "category": "Yerler",
+    "examples": [
+      {
+        "zh": "这是一个露天电影院。",
+        "pinyin": "Zhè shì yí gè lùtiān diànyǐngyuàn.",
+        "en": "Bu açık hava sinemasıdır."
+      },
+      {
+        "zh": "他们在露天广场举行了演出。",
+        "pinyin": "Tāmen zài lùtiān guǎngchǎng jǔxíng le yǎnchū.",
+        "en": "Açık meydanda bir gösteri düzenlediler."
+      },
+      {
+        "zh": "露天市场卖各种新鲜蔬菜。",
+        "pinyin": "Lùtiān shìchǎng mài gèzhǒng xīnxiān shūcài.",
+        "en": "Açık hava pazarı çeşitli taze sebzeler satıyor."
+      },
+      {
+        "zh": "这个游泳池是露天的。",
+        "pinyin": "Zhège yóuyǒngchí shì lùtiān de.",
+        "en": "Bu yüzme havuzu açık havadadır."
+      },
+      {
+        "zh": "他们在露天咖啡馆喝咖啡聊天。",
+        "pinyin": "Tāmen zài lùtiān kāfēiguǎn hē kāfēi liáotiān.",
+        "en": "Açık hava kafesinde kahve içip sohbet ettiler."
+      }
+    ]
+  },
+  {
+    "id": "w4754",
+    "hanzi": "露营",
+    "pinyin": "lùyíng",
+    "meaning": "Kamp yapmak",
+    "partOfSpeech": "fiil",
+    "level": 4,
+    "category": "Seyahat",
+    "examples": [
+      {
+        "zh": "我们周末去山里露营。",
+        "pinyin": "Wǒmen zhōumò qù shān lǐ lùyíng.",
+        "en": "Hafta sonu dağa kamp yapmaya gidiyoruz."
+      },
+      {
+        "zh": "露营需要准备帐篷和睡袋。",
+        "pinyin": "Lùyíng xūyào zhǔnbèi zhàngpeng hé shuìdài.",
+        "en": "Kamp yapmak için çadır ve uyku tulumu hazırlamak gerekir."
+      },
+      {
+        "zh": "他们在湖边露营过夜。",
+        "pinyin": "Tāmen zài húbiān lùyíng guòyè.",
+        "en": "Göl kenarında kamp yaparak geceyi geçirdiler."
+      },
+      {
+        "zh": "第一次露营让他印象深刻。",
+        "pinyin": "Dì-yī cì lùyíng ràng tā yìnxiàng shēnkè.",
+        "en": "İlk kamp deneyimi onda derin bir izlenim bıraktı."
+      },
+      {
+        "zh": "露营时要注意防火安全。",
+        "pinyin": "Lùyíng shí yào zhùyì fánghuǒ ānquán.",
+        "en": "Kamp yaparken yangın güvenliğine dikkat edilmelidir."
+      }
+    ]
+  },
+  {
+    "id": "w4755",
+    "hanzi": "鲁莽",
+    "pinyin": "lǔmǎng",
+    "meaning": "Düşüncesiz, aceleci, dikkatsiz",
+    "partOfSpeech": "sıfat",
+    "level": 5,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他做事有点鲁莽。",
+        "pinyin": "Tā zuòshì yǒudiǎn lǔmǎng.",
+        "en": "İşlerini biraz düşüncesizce yapıyor."
+      },
+      {
+        "zh": "别那么鲁莽,先想清楚再行动。",
+        "pinyin": "Bié nàme lǔmǎng, xiān xiǎng qīngchu zài xíngdòng.",
+        "en": "O kadar aceleci olma, önce iyice düşün sonra hareket et."
+      },
+      {
+        "zh": "他的鲁莽行为造成了很大麻烦。",
+        "pinyin": "Tā de lǔmǎng xíngwéi zàochéng le hěn dà máfan.",
+        "en": "Düşüncesiz davranışı büyük bir soruna yol açtı."
+      },
+      {
+        "zh": "年轻人容易冲动鲁莽。",
+        "pinyin": "Niánqīngrén róngyì chōngdòng lǔmǎng.",
+        "en": "Gençler kolayca dürtüsel ve düşüncesiz davranabilir."
+      },
+      {
+        "zh": "他为自己的鲁莽感到后悔。",
+        "pinyin": "Tā wèi zìjǐ de lǔmǎng gǎndào hòuhuǐ.",
+        "en": "Kendi düşüncesizliğinden pişmanlık duyuyor."
+      }
+    ]
   }
 ]

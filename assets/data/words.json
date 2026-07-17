@@ -245302,5 +245302,788 @@
         "en": "Yeni seri kağıt paraların sahtecilik önleme özelliği daha güçlü."
       }
     ]
+  },
+  {
+    "id": "w7435",
+    "hanzi": "纸板",
+    "pinyin": "zhǐbǎn",
+    "meaning": "karton, mukavva",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他用纸板做了一个盒子。",
+        "pinyin": "Tā yòng zhǐbǎn zuòle yí gè hézi.",
+        "en": "Kartondan bir kutu yaptı."
+      },
+      {
+        "zh": "这个包装是纸板做的。",
+        "pinyin": "Zhège bāozhuāng shì zhǐbǎn zuò de.",
+        "en": "Bu ambalaj kartondan yapılmış."
+      },
+      {
+        "zh": "纸板箱可以回收利用。",
+        "pinyin": "Zhǐbǎnxiāng kěyǐ huíshōu lìyòng.",
+        "en": "Karton kutular geri dönüştürülebilir."
+      },
+      {
+        "zh": "他把纸板压平了。",
+        "pinyin": "Tā bǎ zhǐbǎn yāpíng le.",
+        "en": "Kartonu düzleştirdi."
+      },
+      {
+        "zh": "旧纸板可以用来做手工。",
+        "pinyin": "Jiù zhǐbǎn kěyǐ yòng lái zuò shǒugōng.",
+        "en": "Eski kartonlar el işi yapmak için kullanılabilir."
+      }
+    ]
+  },
+  {
+    "id": "w7436",
+    "hanzi": "纸浆",
+    "pinyin": "zhǐjiāng",
+    "meaning": "kağıt hamuru",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Bilim",
+    "examples": [
+      {
+        "zh": "木材被加工成纸浆。",
+        "pinyin": "Mùcái bèi jiāgōng chéng zhǐjiāng.",
+        "en": "Odun işlenerek kağıt hamuruna dönüştürülür."
+      },
+      {
+        "zh": "纸浆工厂对环境有一定影响。",
+        "pinyin": "Zhǐjiāng gōngchǎng duì huánjìng yǒu yídìng yǐngxiǎng.",
+        "en": "Kağıt hamuru fabrikaları çevreye belirli bir etki yapar."
+      }
+    ]
+  },
+  {
+    "id": "w7437",
+    "hanzi": "纸老虎",
+    "pinyin": "zhǐlǎohǔ",
+    "meaning": "kağıttan kaplan, güçlü görünen ama aslında zayıf olan şey",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他的威胁只是纸老虎。",
+        "pinyin": "Tā de wēixié zhǐshì zhǐlǎohǔ.",
+        "en": "Onun tehdidi sadece kağıttan bir kaplan."
+      },
+      {
+        "zh": "这个对手其实是纸老虎。",
+        "pinyin": "Zhège duìshǒu qíshí shì zhǐlǎohǔ.",
+        "en": "Bu rakip aslında güçsüz, sadece öyle görünüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7438",
+    "hanzi": "纸牌",
+    "pinyin": "zhǐpái",
+    "meaning": "oyun kağıdı",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Oyun",
+    "examples": [
+      {
+        "zh": "我们晚上玩纸牌吧。",
+        "pinyin": "Wǒmen wǎnshang wán zhǐpái ba.",
+        "en": "Akşam kağıt oyunu oynayalım."
+      },
+      {
+        "zh": "他很擅长打纸牌。",
+        "pinyin": "Tā hěn shàncháng dǎ zhǐpái.",
+        "en": "Kağıt oyunlarında çok iyi."
+      },
+      {
+        "zh": "这副纸牌少了一张。",
+        "pinyin": "Zhè fù zhǐpái shǎole yì zhāng.",
+        "en": "Bu kağıt destesinde bir kağıt eksik."
+      },
+      {
+        "zh": "孩子们用纸牌搭房子。",
+        "pinyin": "Háizimen yòng zhǐpái dā fángzi.",
+        "en": "Çocuklar oyun kağıdıyla ev inşa ediyor."
+      },
+      {
+        "zh": "他洗好了纸牌准备发牌。",
+        "pinyin": "Tā xǐhǎole zhǐpái zhǔnbèi fāpái.",
+        "en": "Kağıtları karıştırıp dağıtmaya hazırlandı."
+      }
+    ]
+  },
+  {
+    "id": "w7439",
+    "hanzi": "纸上谈兵",
+    "pinyin": "zhǐshàng-tánbīng",
+    "meaning": "kağıt üzerinde strateji kurmak, teoride kalmak",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他的计划只是纸上谈兵，没有实际操作性。",
+        "pinyin": "Tā de jìhuà zhǐshì zhǐshàng-tánbīng, méiyǒu shíjì cāozuòxìng.",
+        "en": "Onun planı sadece kağıt üzerinde kalıyor, uygulanabilirliği yok."
+      },
+      {
+        "zh": "不能只是纸上谈兵，要付诸实践。",
+        "pinyin": "Bùnéng zhǐshì zhǐshàng-tánbīng, yào fùzhū shíjiàn.",
+        "en": "Sadece teoride kalmamalı, uygulamaya geçmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7440",
+    "hanzi": "纸烟",
+    "pinyin": "zhǐyān",
+    "meaning": "sigara",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "他每天抽一包纸烟。",
+        "pinyin": "Tā měitiān chōu yì bāo zhǐyān.",
+        "en": "Her gün bir paket sigara içiyor."
+      },
+      {
+        "zh": "医生劝他戒掉纸烟。",
+        "pinyin": "Yīshēng quàn tā jièdiào zhǐyān.",
+        "en": "Doktor sigarayı bırakmasını tavsiye etti."
+      },
+      {
+        "zh": "他从口袋里掏出一支纸烟。",
+        "pinyin": "Tā cóng kǒudai lǐ tāochū yì zhī zhǐyān.",
+        "en": "Cebinden bir sigara çıkardı."
+      },
+      {
+        "zh": "公共场所禁止吸纸烟。",
+        "pinyin": "Gōnggòng chǎngsuǒ jìnzhǐ xī zhǐyān.",
+        "en": "Kamusal alanlarda sigara içmek yasaktır."
+      },
+      {
+        "zh": "他点燃了一支纸烟。",
+        "pinyin": "Tā diǎnránle yì zhī zhǐyān.",
+        "en": "Bir sigara yaktı."
+      }
+    ]
+  },
+  {
+    "id": "w7441",
+    "hanzi": "纸张",
+    "pinyin": "zhǐzhāng",
+    "meaning": "kağıt (genel terim)",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "这家工厂生产各种纸张。",
+        "pinyin": "Zhè jiā gōngchǎng shēngchǎn gèzhǒng zhǐzhāng.",
+        "en": "Bu fabrika çeşitli kağıtlar üretiyor."
+      },
+      {
+        "zh": "请节约使用纸张。",
+        "pinyin": "Qǐng jiéyuē shǐyòng zhǐzhāng.",
+        "en": "Lütfen kağıt kullanımında tasarruflu olun."
+      },
+      {
+        "zh": "这种纸张质量很好。",
+        "pinyin": "Zhè zhǒng zhǐzhāng zhìliàng hěn hǎo.",
+        "en": "Bu tür kağıdın kalitesi çok iyi."
+      },
+      {
+        "zh": "打印机需要更多纸张。",
+        "pinyin": "Dǎyìnjī xūyào gèng duō zhǐzhāng.",
+        "en": "Yazıcının daha fazla kağıda ihtiyacı var."
+      },
+      {
+        "zh": "他收集了各种颜色的纸张。",
+        "pinyin": "Tā shōujíle gèzhǒng yánsè de zhǐzhāng.",
+        "en": "Çeşitli renklerde kağıtlar topladı."
+      }
+    ]
+  },
+  {
+    "id": "w7442",
+    "hanzi": "纸醉金迷",
+    "pinyin": "zhǐzuì-jīnmí",
+    "meaning": "lüks ve sefahat içinde yaşam, aşırı zenginlik hayatı",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "他过着纸醉金迷的生活。",
+        "pinyin": "Tā guòzhe zhǐzuì-jīnmí de shēnghuó.",
+        "en": "Lüks ve sefahat içinde bir hayat sürüyor."
+      },
+      {
+        "zh": "这个城市充满了纸醉金迷的气息。",
+        "pinyin": "Zhège chéngshì chōngmǎnle zhǐzuì-jīnmí de qìxī.",
+        "en": "Bu şehir lüks ve sefahat havasıyla dolu."
+      }
+    ]
+  },
+  {
+    "id": "w7443",
+    "hanzi": "指标",
+    "pinyin": "zhǐbiāo",
+    "meaning": "hedef, gösterge",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "公司完成了年度指标。",
+        "pinyin": "Gōngsī wánchéngle niándù zhǐbiāo.",
+        "en": "Şirket yıllık hedefini tamamladı."
+      },
+      {
+        "zh": "这项经济指标有所下降。",
+        "pinyin": "Zhè xiàng jīngjì zhǐbiāo yǒusuǒ xiàjiàng.",
+        "en": "Bu ekonomik gösterge biraz düştü."
+      },
+      {
+        "zh": "健康指标显示他状态良好。",
+        "pinyin": "Jiànkāng zhǐbiāo xiǎnshì tā zhuàngtài liánghǎo.",
+        "en": "Sağlık göstergeleri durumunun iyi olduğunu gösteriyor."
+      },
+      {
+        "zh": "各项指标都达到了标准。",
+        "pinyin": "Gè xiàng zhǐbiāo dōu dádàole biāozhǔn.",
+        "en": "Tüm göstergeler standarda ulaştı."
+      },
+      {
+        "zh": "销售指标定得太高了。",
+        "pinyin": "Xiāoshòu zhǐbiāo dìng de tài gāo le.",
+        "en": "Satış hedefi çok yüksek belirlenmiş."
+      }
+    ]
+  },
+  {
+    "id": "w7444",
+    "hanzi": "指点",
+    "pinyin": "zhǐdiǎn",
+    "meaning": "yol göstermek, rehberlik etmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "老师给了我很多指点。",
+        "pinyin": "Lǎoshī gěile wǒ hěn duō zhǐdiǎn.",
+        "en": "Öğretmenim bana çok fazla yol gösterdi."
+      },
+      {
+        "zh": "请高手指点一下。",
+        "pinyin": "Qǐng gāoshǒu zhǐdiǎn yíxià.",
+        "en": "Ustadan biraz rehberlik istiyorum."
+      },
+      {
+        "zh": "他指点我怎么修改文章。",
+        "pinyin": "Tā zhǐdiǎn wǒ zěnme xiūgǎi wénzhāng.",
+        "en": "Bana makaleyi nasıl düzelteceğimi gösterdi."
+      },
+      {
+        "zh": "多亏了前辈的指点。",
+        "pinyin": "Duōkuī le qiánbèi de zhǐdiǎn.",
+        "en": "Büyüğümün yol göstermesi sayesinde başardım."
+      },
+      {
+        "zh": "他在旁边指点着方向。",
+        "pinyin": "Tā zài pángbiān zhǐdiǎnzhe fāngxiàng.",
+        "en": "Yanında yönü işaret ederek rehberlik ediyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7445",
+    "hanzi": "指定",
+    "pinyin": "zhǐdìng",
+    "meaning": "belirlemek, atamak",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "请在指定地点集合。",
+        "pinyin": "Qǐng zài zhǐdìng dìdiǎn jíhé.",
+        "en": "Lütfen belirlenen yerde toplanın."
+      },
+      {
+        "zh": "他被指定为项目负责人。",
+        "pinyin": "Tā bèi zhǐdìng wéi xiàngmù fùzérén.",
+        "en": "Proje sorumlusu olarak atandı."
+      },
+      {
+        "zh": "会议时间已经指定。",
+        "pinyin": "Huìyì shíjiān yǐjīng zhǐdìng.",
+        "en": "Toplantı zamanı zaten belirlendi."
+      },
+      {
+        "zh": "这是政府指定的机构。",
+        "pinyin": "Zhè shì zhèngfǔ zhǐdìng de jīgòu.",
+        "en": "Bu, hükümet tarafından belirlenmiş bir kurumdur."
+      },
+      {
+        "zh": "请按指定格式填写表格。",
+        "pinyin": "Qǐng àn zhǐdìng géshì tiánxiě biǎogé.",
+        "en": "Lütfen belirlenen formata göre formu doldurun."
+      }
+    ]
+  },
+  {
+    "id": "w7446",
+    "hanzi": "指挥部",
+    "pinyin": "zhǐhuībù",
+    "meaning": "karargah, komuta merkezi",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Yer",
+    "examples": [
+      {
+        "zh": "救灾指挥部已经成立。",
+        "pinyin": "Jiùzāi zhǐhuībù yǐjīng chénglì.",
+        "en": "Afet yardım karargahı kuruldu."
+      },
+      {
+        "zh": "所有命令都从指挥部下达。",
+        "pinyin": "Suǒyǒu mìnglìng dōu cóng zhǐhuībù xiàdá.",
+        "en": "Tüm emirler karargahtan verilir."
+      }
+    ]
+  },
+  {
+    "id": "w7447",
+    "hanzi": "指甲",
+    "pinyin": "zhǐjia",
+    "meaning": "tırnak",
+    "partOfSpeech": "isim",
+    "level": 3,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "她涂了红色指甲油。",
+        "pinyin": "Tā túle hóngsè zhǐjiayóu.",
+        "en": "Kırmızı oje sürdü."
+      },
+      {
+        "zh": "他喜欢剪指甲。",
+        "pinyin": "Tā xǐhuan jiǎn zhǐjia.",
+        "en": "Tırnak kesmeyi sever."
+      },
+      {
+        "zh": "指甲长得太长了。",
+        "pinyin": "Zhǐjia zhǎng de tài cháng le.",
+        "en": "Tırnaklar çok uzamış."
+      },
+      {
+        "zh": "小心别把指甲弄断了。",
+        "pinyin": "Xiǎoxīn bié bǎ zhǐjia nòngduàn le.",
+        "en": "Tırnağını kırmamaya dikkat et."
+      },
+      {
+        "zh": "她的指甲修剪得很整齐。",
+        "pinyin": "Tā de zhǐjia xiūjiǎn de hěn zhěngqí.",
+        "en": "Tırnakları çok düzgün kesilmiş."
+      }
+    ]
+  },
+  {
+    "id": "w7448",
+    "hanzi": "指教",
+    "pinyin": "zhǐjiào",
+    "meaning": "öğüt vermek, tavsiyede bulunmak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "请多多指教。",
+        "pinyin": "Qǐng duōduō zhǐjiào.",
+        "en": "Lütfen bana çokça yol gösterin."
+      },
+      {
+        "zh": "还望前辈多加指教。",
+        "pinyin": "Hái wàng qiánbèi duō jiā zhǐjiào.",
+        "en": "Büyüğümün daha çok rehberlik etmesini umuyorum."
+      }
+    ]
+  },
+  {
+    "id": "w7449",
+    "hanzi": "指控",
+    "pinyin": "zhǐkòng",
+    "meaning": "suçlamak",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Hukuk",
+    "examples": [
+      {
+        "zh": "他被指控贪污。",
+        "pinyin": "Tā bèi zhǐkòng tānwū.",
+        "en": "Yolsuzlukla suçlandı."
+      },
+      {
+        "zh": "检察官提出了指控。",
+        "pinyin": "Jiǎncháguān tíchūle zhǐkòng.",
+        "en": "Savcı suçlamayı ortaya koydu."
+      }
+    ]
+  },
+  {
+    "id": "w7450",
+    "hanzi": "指令",
+    "pinyin": "zhǐlìng",
+    "meaning": "emir, talimat",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "devlet",
+    "examples": [
+      {
+        "zh": "士兵们服从指令。",
+        "pinyin": "Shìbīngmen fúcóng zhǐlìng.",
+        "en": "Askerler emirlere itaat ediyor."
+      },
+      {
+        "zh": "电脑执行了这条指令。",
+        "pinyin": "Diànnǎo zhíxíngle zhè tiáo zhǐlìng.",
+        "en": "Bilgisayar bu komutu yerine getirdi."
+      },
+      {
+        "zh": "他收到了新的工作指令。",
+        "pinyin": "Tā shōudàole xīn de gōngzuò zhǐlìng.",
+        "en": "Yeni bir çalışma talimatı aldı."
+      },
+      {
+        "zh": "指令必须清楚明确。",
+        "pinyin": "Zhǐlìng bìxū qīngchu míngquè.",
+        "en": "Talimatlar açık ve net olmalı."
+      },
+      {
+        "zh": "他按照指令完成了任务。",
+        "pinyin": "Tā ànzhào zhǐlìng wánchéngle rènwu.",
+        "en": "Talimata uygun olarak görevi tamamladı."
+      }
+    ]
+  },
+  {
+    "id": "w7451",
+    "hanzi": "指名",
+    "pinyin": "zhǐmíng",
+    "meaning": "adını belirtmek, adını vermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "他指名要见经理。",
+        "pinyin": "Tā zhǐmíng yào jiàn jīnglǐ.",
+        "en": "Adını belirterek yöneticiyle görüşmek istedi."
+      },
+      {
+        "zh": "报道并没有指名道姓。",
+        "pinyin": "Bàodào bìng méiyǒu zhǐmíng-dàoxìng.",
+        "en": "Haberde isim ve soyisim belirtilmedi."
+      }
+    ]
+  },
+  {
+    "id": "w7452",
+    "hanzi": "指数",
+    "pinyin": "zhǐshù",
+    "meaning": "endeks, indeks",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Ekonomi",
+    "examples": [
+      {
+        "zh": "今天股票指数上涨了。",
+        "pinyin": "Jīntiān gǔpiào zhǐshù shàngzhǎng le.",
+        "en": "Bugün borsa endeksi yükseldi."
+      },
+      {
+        "zh": "物价指数持续上升。",
+        "pinyin": "Wùjià zhǐshù chíxù shàngshēng.",
+        "en": "Fiyat endeksi sürekli yükseliyor."
+      },
+      {
+        "zh": "幸福指数是衡量生活质量的标准之一。",
+        "pinyin": "Xìngfú zhǐshù shì héngliáng shēnghuó zhìliàng de biāozhǔn zhīyī.",
+        "en": "Mutluluk endeksi, yaşam kalitesini ölçmenin standartlarından biridir."
+      },
+      {
+        "zh": "空气污染指数今天很高。",
+        "pinyin": "Kōngqì wūrǎn zhǐshù jīntiān hěn gāo.",
+        "en": "Hava kirliliği endeksi bugün çok yüksek."
+      },
+      {
+        "zh": "这个国家的经济指数在增长。",
+        "pinyin": "Zhège guójiā de jīngjì zhǐshù zài zēngzhǎng.",
+        "en": "Bu ülkenin ekonomik endeksi büyüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7453",
+    "hanzi": "指头",
+    "pinyin": "zhǐtou",
+    "meaning": "parmak",
+    "partOfSpeech": "isim",
+    "level": 4,
+    "category": "Sağlık",
+    "examples": [
+      {
+        "zh": "他用指头指着黑板。",
+        "pinyin": "Tā yòng zhǐtou zhǐzhe hēibǎn.",
+        "en": "Parmağıyla tahtayı işaret etti."
+      },
+      {
+        "zh": "她不小心夹到了指头。",
+        "pinyin": "Tā bù xiǎoxīn jiādàole zhǐtou.",
+        "en": "Dikkatsizlik yüzünden parmağını sıkıştırdı."
+      },
+      {
+        "zh": "他掰着指头数数。",
+        "pinyin": "Tā bāizhe zhǐtou shǔshù.",
+        "en": "Parmaklarını sayarak hesaplıyor."
+      },
+      {
+        "zh": "他的指头很灵活。",
+        "pinyin": "Tā de zhǐtou hěn línghuó.",
+        "en": "Parmakları çok çevik."
+      },
+      {
+        "zh": "小心，别烫到指头。",
+        "pinyin": "Xiǎoxīn, bié tàngdào zhǐtou.",
+        "en": "Dikkat et, parmağını yakma."
+      }
+    ]
+  },
+  {
+    "id": "w7454",
+    "hanzi": "指望",
+    "pinyin": "zhǐwang",
+    "meaning": "ummak, beklemek, güvenmek",
+    "partOfSpeech": "fiil",
+    "level": 5,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "别指望他能来帮忙。",
+        "pinyin": "Bié zhǐwang tā néng lái bāngmáng.",
+        "en": "Onun gelip yardım edeceğini umma."
+      },
+      {
+        "zh": "父母指望孩子成才。",
+        "pinyin": "Fùmǔ zhǐwang háizi chéngcái.",
+        "en": "Ebeveynler çocuklarının başarılı olmasını umuyor."
+      },
+      {
+        "zh": "我们不能光指望运气。",
+        "pinyin": "Wǒmen bùnéng guāng zhǐwang yùnqi.",
+        "en": "Sadece şansa güvenemeyiz."
+      },
+      {
+        "zh": "他把所有指望都放在这次考试上。",
+        "pinyin": "Tā bǎ suǒyǒu zhǐwang dōu fàng zài zhè cì kǎoshì shàng.",
+        "en": "Tüm umudunu bu sınava bağladı."
+      },
+      {
+        "zh": "别指望我借你钱。",
+        "pinyin": "Bié zhǐwang wǒ jiè nǐ qián.",
+        "en": "Sana para vereceğimi bekleme."
+      }
+    ]
+  },
+  {
+    "id": "w7455",
+    "hanzi": "指针",
+    "pinyin": "zhǐzhēn",
+    "meaning": "ibre, gösterge",
+    "partOfSpeech": "isim",
+    "level": 5,
+    "category": "Nesneler",
+    "examples": [
+      {
+        "zh": "时钟的指针指向十二点。",
+        "pinyin": "Shízhōng de zhǐzhēn zhǐxiàng shí'èr diǎn.",
+        "en": "Saatin ibreleri on ikiyi gösteriyor."
+      },
+      {
+        "zh": "指南针的指针总是指向北方。",
+        "pinyin": "Zhǐnánzhēn de zhǐzhēn zǒngshì zhǐxiàng běifāng.",
+        "en": "Pusulanın ibresi her zaman kuzeyi gösterir."
+      },
+      {
+        "zh": "油量表的指针快到底了。",
+        "pinyin": "Yóuliàngbiǎo de zhǐzhēn kuài dàodǐ le.",
+        "en": "Yakıt göstergesinin ibresi neredeyse dibe vardı."
+      },
+      {
+        "zh": "这份文件是我们工作的指针。",
+        "pinyin": "Zhè fèn wénjiàn shì wǒmen gōngzuò de zhǐzhēn.",
+        "en": "Bu belge çalışmamızın kılavuzudur."
+      },
+      {
+        "zh": "他紧盯着仪表盘上的指针。",
+        "pinyin": "Tā jǐn dīngzhe yíbiǎopán shàng de zhǐzhēn.",
+        "en": "Gösterge panelindeki ibreye dikkatle bakıyordu."
+      }
+    ]
+  },
+  {
+    "id": "w7456",
+    "hanzi": "指正",
+    "pinyin": "zhǐzhèng",
+    "meaning": "düzeltmek, hataları göstermek",
+    "partOfSpeech": "fiil",
+    "level": 6,
+    "category": "Eylemler",
+    "examples": [
+      {
+        "zh": "文中若有错误，请多指正。",
+        "pinyin": "Wén zhōng ruò yǒu cuòwù, qǐng duō zhǐzhèng.",
+        "en": "Yazıda hata varsa lütfen düzeltmemde bana yardımcı olun."
+      },
+      {
+        "zh": "老师认真指正了我的发音。",
+        "pinyin": "Lǎoshī rènzhēn zhǐzhèngle wǒ de fāyīn.",
+        "en": "Öğretmen telaffuzumu ciddiyetle düzeltti."
+      }
+    ]
+  },
+  {
+    "id": "w7457",
+    "hanzi": "至诚",
+    "pinyin": "zhìchéng",
+    "meaning": "içten, candan, samimi",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Kişilik",
+    "examples": [
+      {
+        "zh": "他至诚地向大家道歉。",
+        "pinyin": "Tā zhìchéng de xiàng dàjiā dàoqiàn.",
+        "en": "Herkesten içtenlikle özür diledi."
+      },
+      {
+        "zh": "她待人至诚。",
+        "pinyin": "Tā dài rén zhìchéng.",
+        "en": "İnsanlara karşı çok samimidir."
+      }
+    ]
+  },
+  {
+    "id": "w7458",
+    "hanzi": "至迟",
+    "pinyin": "zhìchí",
+    "meaning": "en geç",
+    "partOfSpeech": "zarf",
+    "level": 6,
+    "category": "Zaman",
+    "examples": [
+      {
+        "zh": "至迟明天必须完成。",
+        "pinyin": "Zhìchí míngtiān bìxū wánchéng.",
+        "en": "En geç yarın tamamlanmalı."
+      },
+      {
+        "zh": "报告至迟本周五前提交。",
+        "pinyin": "Bàogào zhìchí běn zhōuwǔ qián tíjiāo.",
+        "en": "Rapor en geç bu cuma gününe kadar teslim edilmeli."
+      }
+    ]
+  },
+  {
+    "id": "w7459",
+    "hanzi": "至高无上",
+    "pinyin": "zhìgāo-wúshàng",
+    "meaning": "en üstün, en yüce",
+    "partOfSpeech": "deyim",
+    "level": 6,
+    "category": "Deyimler",
+    "examples": [
+      {
+        "zh": "国王拥有至高无上的权力。",
+        "pinyin": "Guówáng yōngyǒu zhìgāo-wúshàng de quánlì.",
+        "en": "Kral en yüce güce sahiptir."
+      },
+      {
+        "zh": "法律面前，没有至高无上的权威。",
+        "pinyin": "Fǎlǜ miànqián, méiyǒu zhìgāo-wúshàng de quánwēi.",
+        "en": "Kanun önünde en yüce otorite diye bir şey yoktur."
+      }
+    ]
+  },
+  {
+    "id": "w7460",
+    "hanzi": "至交",
+    "pinyin": "zhìjiāo",
+    "meaning": "en yakın arkadaş",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Sosyal",
+    "examples": [
+      {
+        "zh": "他们是多年的至交。",
+        "pinyin": "Tāmen shì duō nián de zhìjiāo.",
+        "en": "Yıllardır en yakın arkadaşlar."
+      },
+      {
+        "zh": "他把我当成至交好友。",
+        "pinyin": "Tā bǎ wǒ dàngchéng zhìjiāo hǎoyǒu.",
+        "en": "Beni en yakın dostu olarak görüyor."
+      }
+    ]
+  },
+  {
+    "id": "w7461",
+    "hanzi": "至亲",
+    "pinyin": "zhìqīn",
+    "meaning": "yakın akraba",
+    "partOfSpeech": "isim",
+    "level": 6,
+    "category": "Aile",
+    "examples": [
+      {
+        "zh": "只有至亲才知道这件事。",
+        "pinyin": "Zhǐyǒu zhìqīn cái zhīdào zhè jiàn shì.",
+        "en": "Bu olayı sadece yakın akrabalar biliyor."
+      },
+      {
+        "zh": "他把好友当作至亲一样对待。",
+        "pinyin": "Tā bǎ hǎoyǒu dàngzuò zhìqīn yíyàng duìdài.",
+        "en": "Yakın arkadaşına yakın akrabası gibi davranıyor."
+      }
+    ]
+  },
+  {
+    "id": "w7462",
+    "hanzi": "至上",
+    "pinyin": "zhìshàng",
+    "meaning": "en yüksek, en üstün",
+    "partOfSpeech": "sıfat",
+    "level": 6,
+    "category": "Sıfatlar",
+    "examples": [
+      {
+        "zh": "他信奉金钱至上。",
+        "pinyin": "Tā xìnfèng jīnqián zhìshàng.",
+        "en": "Parayı her şeyin üstünde tutuyor."
+      },
+      {
+        "zh": "在这里，安全至上。",
+        "pinyin": "Zài zhèlǐ, ānquán zhìshàng.",
+        "en": "Burada güvenlik her şeyden önce gelir."
+      }
+    ]
   }
 ]

@@ -1,0 +1,417 @@
+package com.osmankutlu.zh_en_dict
+
+import android.app.Notification
+import android.app.NotificationChannel
+import android.app.NotificationManager
+import android.app.PendingIntent
+import android.app.Service
+import android.content.Context
+import android.content.Intent
+import android.graphics.Bitmap
+import android.graphics.PixelFormat
+import android.graphics.Rect
+import android.hardware.display.DisplayManager
+import android.hardware.display.VirtualDisplay
+import android.media.Image
+import android.media.ImageReader
+import android.media.projection.MediaProjection
+import android.media.projection.MediaProjectionManager
+import android.os.Build
+import android.os.Handler
+import android.os.IBinder
+import android.os.Looper
+import android.util.DisplayMetrics
+import android.view.Gravity
+import android.view.LayoutInflater
+import android.view.MotionEvent
+import android.view.View
+import android.view.WindowManager
+import android.widget.ImageView
+import android.widget.TextView
+import androidx.core.app.NotificationCompat
+import com.google.mlkit.vision.common.InputImage
+import com.google.mlkit.vision.text.Text
+import com.google.mlkit.vision.text.TextRecognition
+import com.google.mlkit.vision.text.chinese.ChineseTextRecognizerOptions
+import org.json.JSONObject
+
+/**
+ * Foreground service backing the screen-lens feature: draws a draggable
+ * magnifier overlay on top of whatever app is in front, and on drop, grabs a
+ * small crop of the live screen at that spot, runs on-device Chinese OCR on
+ * it, looks the recognized word up in the bundled dictionary, and shows the
+ * result as a second small overlay near the drop point.
+ *
+ * Owns the MediaProjection session end to end: created from the
+ * (resultCode, data) [ScreenCapturePermissionActivity] forwards, torn down in
+ * [onDestroy] along with the overlay views and the virtual display it feeds.
+ */
+class OcrOverlayService : Service() {
+
+    private lateinit var windowManager: WindowManager
+    private var mediaProjection: MediaProjection? = null
+    private var virtualDisplay: VirtualDisplay? = null
+    private var imageReader: ImageReader? = null
+    private var screenWidth = 0
+    private var screenHeight = 0
+    private var screenDensity = 0
+
+    private var lensView: View? = null
+    private var resultView: View? = null
+
+    private val mainHandler = Handler(Looper.getMainLooper())
+    private var dismissResultRunnable: Runnable? = null
+
+    private val textRecognizer by lazy {
+        TextRecognition.getClient(ChineseTextRecognizerOptions.Builder().build())
+    }
+
+    override fun onBind(intent: Intent?): IBinder? = null
+
+    override fun onCreate() {
+        super.onCreate()
+        isRunning = true
+        windowManager = getSystemService(Context.WINDOW_SERVICE) as WindowManager
+    }
+
+    override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
+        if (intent?.action == ACTION_STOP) {
+            stopSelf()
+            return START_NOT_STICKY
+        }
+        // Already running (e.g. system redelivered the start intent) — the
+        // lens is already up, nothing more to do.
+        if (lensView != null) return START_NOT_STICKY
+
+        val resultCode = intent?.getIntExtra(EXTRA_RESULT_CODE, 0) ?: 0
+        val resultData: Intent? = intent?.getParcelableExtra(EXTRA_RESULT_DATA)
+        if (resultData == null) {
+            // Nothing to project without the permission data — bail out
+            // rather than run a useless foreground service.
+            stopSelf()
+            return START_NOT_STICKY
+        }
+
+        startForeground(NOTIFICATION_ID, buildNotification())
+
+        val metrics = DisplayMetrics()
+        @Suppress("DEPRECATION")
+        windowManager.defaultDisplay.getRealMetrics(metrics)
+        screenWidth = metrics.widthPixels
+        screenHeight = metrics.heightPixels
+        screenDensity = metrics.densityDpi
+
+        val projectionManager =
+            getSystemService(MEDIA_PROJECTION_SERVICE) as MediaProjectionManager
+        val projection = projectionManager.getMediaProjection(resultCode, resultData)
+        mediaProjection = projection
+        // Android 14+ requires a callback to be registered before the first
+        // createVirtualDisplay call on a MediaProjection.
+        projection.registerCallback(object : MediaProjection.Callback() {
+            override fun onStop() {
+                stopSelf()
+            }
+        }, mainHandler)
+
+        setUpVirtualDisplay(projection)
+        showLens()
+
+        return START_NOT_STICKY
+    }
+
+    private fun setUpVirtualDisplay(projection: MediaProjection) {
+        val reader = ImageReader.newInstance(screenWidth, screenHeight, PixelFormat.RGBA_8888, 2)
+        imageReader = reader
+        virtualDisplay = projection.createVirtualDisplay(
+            "zh_en_dict_lens",
+            screenWidth, screenHeight, screenDensity,
+            DisplayManager.VIRTUAL_DISPLAY_FLAG_AUTO_MIRROR,
+            reader.surface, null, mainHandler
+        )
+    }
+
+    // ---- Lens overlay -----------------------------------------------------
+
+    private fun showLens() {
+        val view = LayoutInflater.from(this).inflate(R.layout.overlay_lens, null)
+        lensView = view
+
+        val params = WindowManager.LayoutParams(
+            WindowManager.LayoutParams.WRAP_CONTENT,
+            WindowManager.LayoutParams.WRAP_CONTENT,
+            overlayWindowType(),
+            WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE,
+            PixelFormat.TRANSLUCENT
+        ).apply {
+            gravity = Gravity.TOP or Gravity.START
+            x = screenWidth / 2
+            y = screenHeight / 3
+        }
+
+        var downRawX = 0f
+        var downRawY = 0f
+        var downParamX = 0
+        var downParamY = 0
+
+        val handle = view.findViewById<ImageView>(R.id.lens_handle)
+        handle.setOnTouchListener { _, event ->
+            when (event.actionMasked) {
+                MotionEvent.ACTION_DOWN -> {
+                    downRawX = event.rawX
+                    downRawY = event.rawY
+                    downParamX = params.x
+                    downParamY = params.y
+                    true
+                }
+                MotionEvent.ACTION_MOVE -> {
+                    params.x = downParamX + (event.rawX - downRawX).toInt()
+                    params.y = downParamY + (event.rawY - downRawY).toInt()
+                    windowManager.updateViewLayout(view, params)
+                    true
+                }
+                MotionEvent.ACTION_UP -> {
+                    // Drop point = current window origin + the handle's own
+                    // center offset within the padded overlay window.
+                    val dropX = params.x + handle.left + handle.width / 2
+                    val dropY = params.y + handle.top + handle.height / 2
+                    scanAt(dropX, dropY)
+                    true
+                }
+                else -> false
+            }
+        }
+
+        view.findViewById<ImageView>(R.id.lens_close).setOnClickListener { stopSelf() }
+
+        windowManager.addView(view, params)
+    }
+
+    private fun overlayWindowType(): Int =
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O)
+            WindowManager.LayoutParams.TYPE_APPLICATION_OVERLAY
+        else
+            @Suppress("DEPRECATION") WindowManager.LayoutParams.TYPE_PHONE
+
+    // ---- Capture + OCR + lookup --------------------------------------------
+
+    private fun scanAt(x: Int, y: Int) {
+        val bitmap = captureCrop(x, y)
+        if (bitmap == null) {
+            showResultMessage(x, y, getString(R.string.lens_not_found))
+            return
+        }
+        val image = InputImage.fromBitmap(bitmap, 0)
+        textRecognizer.process(image)
+            .addOnSuccessListener { visionText ->
+                val match = bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
+                if (match != null) {
+                    showResultEntry(x, y, match)
+                } else {
+                    showResultMessage(x, y, getString(R.string.lens_not_found))
+                }
+            }
+            .addOnFailureListener {
+                showResultMessage(x, y, getString(R.string.lens_not_found))
+            }
+    }
+
+    /** A [CROP_SIZE_PX]-square region of the live screen centered on ([x], [y]). */
+    private fun captureCrop(x: Int, y: Int): Bitmap? {
+        val reader = imageReader ?: return null
+        val image = try {
+            reader.acquireLatestImage()
+        } catch (e: Exception) {
+            null
+        } ?: return null
+        val full = try {
+            imageToBitmap(image)
+        } finally {
+            image.close()
+        } ?: return null
+
+        val half = CROP_SIZE_PX / 2
+        val left = (x - half).coerceIn(0, maxOf(0, full.width - CROP_SIZE_PX))
+        val top = (y - half).coerceIn(0, maxOf(0, full.height - CROP_SIZE_PX))
+        val width = minOf(CROP_SIZE_PX, full.width - left)
+        val height = minOf(CROP_SIZE_PX, full.height - top)
+        if (width <= 0 || height <= 0) return null
+        return Bitmap.createBitmap(full, left, top, width, height)
+    }
+
+    private fun imageToBitmap(image: Image): Bitmap? {
+        val plane = image.planes.firstOrNull() ?: return null
+        val buffer = plane.buffer
+        val pixelStride = plane.pixelStride
+        val rowStride = plane.rowStride
+        val rowPadding = rowStride - pixelStride * image.width
+        val bitmap = Bitmap.createBitmap(
+            image.width + rowPadding / pixelStride,
+            image.height,
+            Bitmap.Config.ARGB_8888
+        )
+        bitmap.copyPixelsFromBuffer(buffer)
+        return if (rowPadding == 0) bitmap
+        else Bitmap.createBitmap(bitmap, 0, 0, image.width, image.height)
+    }
+
+    /**
+     * Finds the OCR'd line closest to [cx],[cy] (the crop's center — i.e. the
+     * drop point) and looks up the word at the corresponding character
+     * position via [DictLookup], approximating that position from where the
+     * center falls across the line's bounding box.
+     */
+    private fun bestMatch(visionText: Text, cx: Int, cy: Int): JSONObject? {
+        var bestLine: Text.Line? = null
+        var bestDist = Int.MAX_VALUE
+        for (block in visionText.textBlocks) {
+            for (line in block.lines) {
+                val box = line.boundingBox ?: continue
+                val dist = pointToRectDistance(cx, cy, box)
+                if (dist < bestDist) {
+                    bestDist = dist
+                    bestLine = line
+                }
+            }
+        }
+        val line = bestLine ?: return null
+        val text = line.text
+        if (text.isEmpty()) return null
+        val box = line.boundingBox ?: return null
+        val fraction = if (box.width() > 0)
+            ((cx - box.left).toFloat() / box.width()).coerceIn(0f, 0.999f)
+        else 0f
+        val tapIndex = (fraction * text.length).toInt().coerceIn(0, text.length - 1)
+        return DictLookup.find(this@OcrOverlayService, text, tapIndex)
+    }
+
+    private fun pointToRectDistance(x: Int, y: Int, rect: Rect): Int {
+        val dx = when {
+            x < rect.left -> rect.left - x
+            x > rect.right -> x - rect.right
+            else -> 0
+        }
+        val dy = when {
+            y < rect.top -> rect.top - y
+            y > rect.bottom -> y - rect.bottom
+            else -> 0
+        }
+        return dx * dx + dy * dy
+    }
+
+    // ---- Result popup -------------------------------------------------------
+
+    private fun showResultEntry(x: Int, y: Int, entry: JSONObject) {
+        showResultView(x, y) { view ->
+            view.findViewById<TextView>(R.id.result_hanzi).text = entry.optString("hanzi")
+            view.findViewById<TextView>(R.id.result_pinyin).text = entry.optString("pinyin")
+            view.findViewById<TextView>(R.id.result_meaning).text = entry.optString("meaning")
+        }
+    }
+
+    private fun showResultMessage(x: Int, y: Int, message: String) {
+        showResultView(x, y) { view ->
+            view.findViewById<TextView>(R.id.result_hanzi).text = "?"
+            view.findViewById<TextView>(R.id.result_pinyin).visibility = View.GONE
+            view.findViewById<TextView>(R.id.result_meaning).text = message
+        }
+    }
+
+    private fun showResultView(x: Int, y: Int, bind: (View) -> Unit) {
+        mainHandler.post {
+            dismissResult()
+            val view = LayoutInflater.from(this).inflate(R.layout.overlay_result, null)
+            view.findViewById<TextView>(R.id.result_pinyin).visibility = View.VISIBLE
+            bind(view)
+            view.setOnClickListener { dismissResult() }
+
+            val params = WindowManager.LayoutParams(
+                WindowManager.LayoutParams.WRAP_CONTENT,
+                WindowManager.LayoutParams.WRAP_CONTENT,
+                overlayWindowType(),
+                WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE,
+                PixelFormat.TRANSLUCENT
+            ).apply {
+                gravity = Gravity.TOP or Gravity.START
+                this.x = x.coerceIn(0, maxOf(0, screenWidth - RESULT_WIDTH_PX))
+                this.y = (y + RESULT_Y_OFFSET_PX).coerceIn(0, maxOf(0, screenHeight - RESULT_HEIGHT_ESTIMATE_PX))
+            }
+            try {
+                windowManager.addView(view, params)
+                resultView = view
+                val runnable = Runnable { dismissResult() }
+                dismissResultRunnable = runnable
+                mainHandler.postDelayed(runnable, RESULT_AUTO_DISMISS_MS)
+            } catch (e: Exception) {
+                // Overlay permission could have been revoked mid-session.
+            }
+        }
+    }
+
+    private fun dismissResult() {
+        dismissResultRunnable?.let { mainHandler.removeCallbacks(it) }
+        dismissResultRunnable = null
+        resultView?.let {
+            try { windowManager.removeView(it) } catch (e: Exception) { }
+        }
+        resultView = null
+    }
+
+    // ---- Notification ---------------------------------------------------
+
+    private fun buildNotification(): Notification {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            val channel = NotificationChannel(
+                CHANNEL_ID, getString(R.string.widget_lens), NotificationManager.IMPORTANCE_LOW
+            )
+            val manager = getSystemService(NotificationManager::class.java)
+            manager.createNotificationChannel(channel)
+        }
+        val stopIntent = Intent(this, OcrOverlayService::class.java).setAction(ACTION_STOP)
+        val stopPendingIntent = PendingIntent.getService(
+            this, 0, stopIntent,
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+        )
+        return NotificationCompat.Builder(this, CHANNEL_ID)
+            .setSmallIcon(R.drawable.ic_widget_lens)
+            .setContentTitle(getString(R.string.lens_notification_title))
+            .setContentText(getString(R.string.lens_notification_text))
+            .setOngoing(true)
+            .addAction(R.drawable.ic_overlay_close, getString(R.string.lens_notification_stop), stopPendingIntent)
+            .build()
+    }
+
+    // ---- Teardown ---------------------------------------------------------
+
+    override fun onDestroy() {
+        super.onDestroy()
+        isRunning = false
+        dismissResult()
+        lensView?.let {
+            try { windowManager.removeView(it) } catch (e: Exception) { }
+        }
+        lensView = null
+        virtualDisplay?.release()
+        virtualDisplay = null
+        imageReader?.close()
+        imageReader = null
+        mediaProjection?.stop()
+        mediaProjection = null
+        textRecognizer.close()
+    }
+
+    companion object {
+        const val EXTRA_RESULT_CODE = "result_code"
+        const val EXTRA_RESULT_DATA = "result_data"
+        const val ACTION_STOP = "com.osmankutlu.zh_en_dict.action.STOP_LENS"
+        private const val CHANNEL_ID = "ocr_lens"
+        private const val NOTIFICATION_ID = 4301
+        private const val CROP_SIZE_PX = 480
+        private const val RESULT_AUTO_DISMISS_MS = 5000L
+        private const val RESULT_WIDTH_PX = 700
+        private const val RESULT_HEIGHT_ESTIMATE_PX = 500
+        private const val RESULT_Y_OFFSET_PX = 100
+
+        @Volatile
+        var isRunning: Boolean = false
+    }
+}

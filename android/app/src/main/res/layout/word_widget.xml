@@ -111,4 +111,17 @@
         android:padding="6dp"
         android:src="@drawable/ic_widget_info"
         android:contentDescription="@string/widget_info" />
+
+    <!-- Screen lens (🔍) bottom-left: toggles the draggable OCR overlay
+         that reads words in other apps. -->
+    <ImageView
+        android:id="@+id/widget_lens"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_gravity="bottom|start"
+        android:layout_marginLeft="2dp"
+        android:layout_marginBottom="14dp"
+        android:padding="6dp"
+        android:src="@drawable/ic_widget_lens"
+        android:contentDescription="@string/widget_lens" />
 </FrameLayout>

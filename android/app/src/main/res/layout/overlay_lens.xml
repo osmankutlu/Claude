@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The draggable screen-lens window: a round magnifier badge the user drags
+     over a word, plus a small always-visible × badge (top-end corner) that
+     stops the whole feature in one tap without needing the notification
+     shade. Window is WRAP_CONTENT-sized so touches outside these two badges
+     fall through to whatever app is underneath. -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/lens_handle"
+        android:layout_width="52dp"
+        android:layout_height="52dp"
+        android:layout_gravity="center"
+        android:background="@drawable/overlay_lens_bg"
+        android:padding="13dp"
+        android:elevation="8dp"
+        android:src="@drawable/ic_overlay_lens"
+        android:contentDescription="@string/widget_lens" />
+
+    <ImageView
+        android:id="@+id/lens_close"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_gravity="top|end"
+        android:background="@drawable/overlay_close_bg"
+        android:padding="4dp"
+        android:elevation="9dp"
+        android:src="@drawable/ic_overlay_close"
+        android:contentDescription="@string/lens_notification_stop" />
+</FrameLayout>

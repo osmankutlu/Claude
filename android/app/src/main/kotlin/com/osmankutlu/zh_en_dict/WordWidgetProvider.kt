@@ -142,6 +142,21 @@ class WordWidgetProvider : AppWidgetProvider() {
                 )
             )
 
+            // 🔍 → walks the permission flow (if needed) and toggles the
+            // screen-lens overlay. Same relay activity/request code for every
+            // widget instance: it's a single global on/off switch, not
+            // per-widget.
+            val lensIntent = Intent(context, ScreenCapturePermissionActivity::class.java).apply {
+                addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            }
+            views.setOnClickPendingIntent(
+                R.id.widget_lens,
+                PendingIntent.getActivity(
+                    context, LENS_REQUEST_CODE, lensIntent,
+                    PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+                )
+            )
+
             appWidgetManager.updateAppWidget(appWidgetId, views)
         }
 
@@ -164,6 +179,11 @@ class WordWidgetProvider : AppWidgetProvider() {
                 PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
             )
         }
+
+        // A fixed request code (not per-widget, unlike the others below):
+        // the lens is one global overlay regardless of which widget instance
+        // its button was tapped from.
+        private const val LENS_REQUEST_CODE = 99999
 
         private fun configPendingIntent(context: Context, appWidgetId: Int): PendingIntent {
             val intent = Intent(context, WidgetConfigureActivity::class.java).apply {

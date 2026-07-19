@@ -43,6 +43,12 @@ kotlin {
     }
 }
 
+dependencies {
+    // On-device Chinese OCR for the "screen lens" overlay feature (scans
+    // whatever's under the draggable lens in any app, not just this one).
+    implementation("com.google.mlkit:text-recognition-chinese:16.0.1")
+}
+
 flutter {
     source = "../.."
 }

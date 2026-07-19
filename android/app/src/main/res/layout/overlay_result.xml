@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The lens's result popup: shows the recognized word's hanzi/pinyin/meaning
+     near the drop point, or a "not found" message. Auto-dismisses after a
+     few seconds; tapping it also dismisses immediately. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="240dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/widget_card_bg"
+    android:elevation="10dp"
+    android:padding="14dp">
+
+    <TextView
+        android:id="@+id/result_hanzi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/widget_title"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <TextView
+        android:id="@+id/result_pinyin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textColor="@color/widget_accent"
+        android:textSize="15sp"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <TextView
+        android:id="@+id/result_meaning"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/widget_subtitle"
+        android:textSize="15sp"
+        android:maxLines="3"
+        android:ellipsize="end" />
+</LinearLayout>

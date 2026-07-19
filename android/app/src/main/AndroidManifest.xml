@@ -1,4 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- "Ekran merceği" (screen lens) özelliği: diğer uygulamaların üzerine
+         sürüklenebilir bir büyüteç çizip, bırakılan noktadaki metni OCR ile
+         okur. SYSTEM_ALERT_WINDOW overlay çizimi için, FOREGROUND_SERVICE* ve
+         POST_NOTIFICATIONS ise ekran yakalama oturumunu arka planda canlı
+         tutan servis için gerekli. -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"/>
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
     <application
         android:label="Çince Sözlük"
         android:name="${applicationName}"
@@ -73,6 +83,26 @@
         <receiver
             android:name=".WidgetActionReceiver"
             android:exported="false"/>
+
+        <!-- Invisible relay: requests the overlay + screen-capture
+             permissions (if not already granted) then starts/stops
+             OcrOverlayService and finishes itself. Never actually shows any
+             UI of its own. -->
+        <activity
+            android:name=".ScreenCapturePermissionActivity"
+            android:exported="false"
+            android:theme="@style/PopupTheme"
+            android:excludeFromRecents="true"
+            android:taskAffinity="" />
+
+        <!-- The screen-lens overlay: a foreground service so it can keep the
+             MediaProjection screen-capture session alive while the user is
+             in another app. mediaProjection type is required on Android 14+
+             for services that use MediaProjection. -->
+        <service
+            android:name=".OcrOverlayService"
+            android:exported="false"
+            android:foregroundServiceType="mediaProjection" />
 
 
         <!-- Don't delete the meta-data below.

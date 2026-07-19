@@ -8,4 +8,10 @@
     <string name="widget_settings">Ayarlar</string>
     <string name="widget_info">Anlamı</string>
     <string name="widget_change">Sonraki kelime</string>
+    <string name="widget_lens">Ekran merceği</string>
+    <string name="lens_notification_title">Ekran merceği açık</string>
+    <string name="lens_notification_text">Mercek simgesini bir kelimenin üzerine sürükleyip bırakın.</string>
+    <string name="lens_notification_stop">Kapat</string>
+    <string name="lens_overlay_permission_needed">Merceğin diğer uygulamaların üzerinde görünebilmesi için önce izin vermeniz gerekiyor.</string>
+    <string name="lens_not_found">Bu bölgede tanınan bir Çince kelime bulunamadı.</string>
 </resources>

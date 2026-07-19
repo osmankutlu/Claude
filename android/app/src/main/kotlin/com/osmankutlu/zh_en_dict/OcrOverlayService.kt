@@ -104,6 +104,10 @@ class OcrOverlayService : Service() {
         val projectionManager =
             getSystemService(MEDIA_PROJECTION_SERVICE) as MediaProjectionManager
         val projection = projectionManager.getMediaProjection(resultCode, resultData)
+        if (projection == null) {
+            stopSelf()
+            return START_NOT_STICKY
+        }
         mediaProjection = projection
         // Android 14+ requires a callback to be registered before the first
         // createVirtualDisplay call on a MediaProjection.

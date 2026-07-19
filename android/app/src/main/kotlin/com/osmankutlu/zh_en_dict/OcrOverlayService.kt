@@ -218,21 +218,66 @@ class OcrOverlayService : Service() {
         // over a picture, blank space, etc. is a normal, expected outcome,
         // not something worth interrupting the user about.
         try {
-            val bitmap = captureCrop(x, y) ?: return
+            val bitmap = captureCrop(x, y)
+            if (bitmap == null) {
+                updateNotificationStatus("Tanı: görüntü yakalanamadı (crop null)")
+                return
+            }
             val image = InputImage.fromBitmap(bitmap, 0)
             textRecognizer.process(image)
                 .addOnSuccessListener { visionText ->
                     try {
-                        bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
-                            ?.let { showResultEntry(x, y, it) }
+                        val linePreview = visionText.textBlocks
+                            .flatMap { it.lines }
+                            .joinToString(" | ") { it.text }
+                            .take(60)
+                        val match = bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
+                        if (match != null) {
+                            updateNotificationStatus("Tanı: bulundu -> ${match.optString("hanzi")}")
+                            showResultEntry(x, y, match)
+                        } else if (linePreview.isEmpty()) {
+                            updateNotificationStatus("Tanı: OCR hiç metin bulamadı")
+                        } else {
+                            updateNotificationStatus("Tanı: OCR okudu ama sözlükte yok: $linePreview")
+                        }
                     } catch (e: Throwable) {
-                        // Swallow — see comment above.
+                        updateNotificationStatus("Tanı: eşleştirme hatası: ${e.message}")
                     }
                 }
-                .addOnFailureListener { /* Swallow — see comment above. */ }
+                .addOnFailureListener { e ->
+                    updateNotificationStatus("Tanı: OCR hatası: ${e.message}")
+                }
         } catch (e: Throwable) {
-            // Swallow — see comment above.
+            updateNotificationStatus("Tanı: tarama hatası: ${e.message}")
         }
+    }
+
+    /**
+     * TEMPORARY diagnostic aid: updates the already-visible persistent
+     * notification's text with what happened on the last scan attempt. Not a
+     * new on-screen popup/warning — the notification is already shown the
+     * whole time the lens is active — just repurposing its text so the
+     * pipeline's behavior can be inspected (via the notification shade) on a
+     * real device without logcat access. Remove once the root cause of scans
+     * producing no result is found and fixed.
+     */
+    private fun updateNotificationStatus(text: String) {
+        val manager = getSystemService(NotificationManager::class.java) ?: return
+        val notification = NotificationCompat.Builder(this, CHANNEL_ID)
+            .setSmallIcon(R.drawable.ic_widget_lens)
+            .setContentTitle(getString(R.string.lens_notification_title))
+            .setContentText(text)
+            .setStyle(NotificationCompat.BigTextStyle().bigText(text))
+            .setOngoing(true)
+            .addAction(
+                R.drawable.ic_overlay_close, getString(R.string.lens_notification_stop),
+                PendingIntent.getService(
+                    this, 0, Intent(this, OcrOverlayService::class.java).setAction(ACTION_STOP),
+                    PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+                )
+            )
+            .build()
+        manager.notify(NOTIFICATION_ID, notification)
     }
 
     /**

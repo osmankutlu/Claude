@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The draggable screen-lens window: an "L" corner-mark cursor the user
      drags over a word (its bottom-left corner is the precise scan point —
-     see ic_overlay_lens.xml), plus a small always-visible × badge (top-end
-     corner) that stops the whole feature in one tap without needing the
-     notification shade. Window is WRAP_CONTENT-sized so touches outside
-     these two badges fall through to whatever app is underneath. -->
+     see ic_overlay_lens.xml). No close control here anymore (it covered the
+     cursor and looked broken) — stop the feature via the ongoing
+     notification's "Kapat" action instead. Window is WRAP_CONTENT-sized so
+     touches outside the cursor itself fall through to whatever app is
+     underneath. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -18,15 +19,4 @@
         android:elevation="8dp"
         android:src="@drawable/ic_overlay_lens"
         android:contentDescription="@string/widget_lens" />
-
-    <ImageView
-        android:id="@+id/lens_close"
-        android:layout_width="22dp"
-        android:layout_height="22dp"
-        android:layout_gravity="top|end"
-        android:background="@drawable/overlay_close_bg"
-        android:padding="4dp"
-        android:elevation="9dp"
-        android:src="@drawable/ic_overlay_close"
-        android:contentDescription="@string/lens_notification_stop" />
 </FrameLayout>

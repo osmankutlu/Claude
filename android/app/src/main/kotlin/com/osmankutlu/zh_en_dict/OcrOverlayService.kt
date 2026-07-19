@@ -153,7 +153,8 @@ class OcrOverlayService : Service() {
             WindowManager.LayoutParams.WRAP_CONTENT,
             WindowManager.LayoutParams.WRAP_CONTENT,
             overlayWindowType(),
-            WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE,
+            WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE or
+                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
             PixelFormat.TRANSLUCENT
         ).apply {
             gravity = Gravity.TOP or Gravity.START
@@ -196,8 +197,6 @@ class OcrOverlayService : Service() {
             }
         }
 
-        view.findViewById<ImageView>(R.id.lens_close).setOnClickListener { stopSelf() }
-
         windowManager.addView(view, params)
     }
 
@@ -213,33 +212,26 @@ class OcrOverlayService : Service() {
         // Guards the whole capture→OCR→lookup chain: any of this throwing
         // uncaught (a bad screen size, a transient MediaProjection hiccup,
         // an ML Kit model error) would otherwise crash the whole service —
-        // which looks to the user like the lens randomly stopping. Worst
-        // case now is a "not found" popup instead of the feature dying.
+        // which looks to the user like the lens randomly stopping. On any
+        // failure, or when nothing recognizable is under the drop point, we
+        // simply show nothing rather than an error popup — dropping the lens
+        // over a picture, blank space, etc. is a normal, expected outcome,
+        // not something worth interrupting the user about.
         try {
-            val bitmap = captureCrop(x, y)
-            if (bitmap == null) {
-                showResultMessage(x, y, getString(R.string.lens_not_found))
-                return
-            }
+            val bitmap = captureCrop(x, y) ?: return
             val image = InputImage.fromBitmap(bitmap, 0)
             textRecognizer.process(image)
                 .addOnSuccessListener { visionText ->
                     try {
-                        val match = bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
-                        if (match != null) {
-                            showResultEntry(x, y, match)
-                        } else {
-                            showResultMessage(x, y, getString(R.string.lens_not_found))
-                        }
+                        bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
+                            ?.let { showResultEntry(x, y, it) }
                     } catch (e: Throwable) {
-                        showResultMessage(x, y, getString(R.string.lens_not_found))
+                        // Swallow — see comment above.
                     }
                 }
-                .addOnFailureListener {
-                    showResultMessage(x, y, getString(R.string.lens_not_found))
-                }
+                .addOnFailureListener { /* Swallow — see comment above. */ }
         } catch (e: Throwable) {
-            showResultMessage(x, y, getString(R.string.lens_not_found))
+            // Swallow — see comment above.
         }
     }
 
@@ -355,14 +347,6 @@ class OcrOverlayService : Service() {
         }
     }
 
-    private fun showResultMessage(x: Int, y: Int, message: String) {
-        showResultView(x, y) { view ->
-            view.findViewById<TextView>(R.id.result_hanzi).text = "?"
-            view.findViewById<TextView>(R.id.result_pinyin).visibility = View.GONE
-            view.findViewById<TextView>(R.id.result_meaning).text = message
-        }
-    }
-
     private fun showResultView(x: Int, y: Int, bind: (View) -> Unit) {
         mainHandler.post {
             dismissResult()
@@ -375,7 +359,8 @@ class OcrOverlayService : Service() {
                 WindowManager.LayoutParams.WRAP_CONTENT,
                 WindowManager.LayoutParams.WRAP_CONTENT,
                 overlayWindowType(),
-                WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE,
+                WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE or
+                    WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
                 PixelFormat.TRANSLUCENT
             ).apply {
                 gravity = Gravity.TOP or Gravity.START

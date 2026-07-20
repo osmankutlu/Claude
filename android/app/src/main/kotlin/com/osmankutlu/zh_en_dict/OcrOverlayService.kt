@@ -8,6 +8,7 @@ import android.app.Service
 import android.content.Context
 import android.content.Intent
 import android.graphics.Bitmap
+import android.graphics.BitmapFactory
 import android.graphics.PixelFormat
 import android.graphics.Rect
 import android.hardware.display.DisplayManager
@@ -34,6 +35,7 @@ import com.google.mlkit.vision.text.Text
 import com.google.mlkit.vision.text.TextRecognition
 import com.google.mlkit.vision.text.chinese.ChineseTextRecognizerOptions
 import org.json.JSONObject
+import java.io.ByteArrayOutputStream
 
 /**
  * Foreground service backing the screen-lens feature: draws a draggable
@@ -224,7 +226,7 @@ class OcrOverlayService : Service() {
                 return
             }
             val image = try {
-                InputImage.fromBitmap(bitmap, 0)
+                InputImage.fromBitmap(normalizeBitmap(bitmap), 0)
             } catch (e: Throwable) {
                 updateNotificationStatus("Tanı: InputImage hatası: ${diagString(e)}")
                 return
@@ -355,17 +357,27 @@ class OcrOverlayService : Service() {
                 dstIdx++
             }
         }
-        // Deliberately not Bitmap.createBitmap(pixels, width, height, config):
-        // that overload leaves the bitmap's ColorSpace null on this device,
-        // and ML Kit's InputImage.fromBitmap() reads the color space
-        // internally — a null one is exactly what produces a
-        // NullPointerException on Object.getClass() deep inside ML Kit's own
-        // (pre-obfuscated) code, which is what scans were crashing on.
-        // Allocating an empty ARGB_8888 bitmap first gets it a default sRGB
-        // color space, then setPixels() fills it with the cropped data.
         val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
         bitmap.setPixels(pixels, 0, width, 0, 0, width, height)
         return bitmap
+    }
+
+    /**
+     * ML Kit's InputImage.fromBitmap() reliably NPEs deep inside its own
+     * (pre-obfuscated) code on the bitmap we build by hand from the raw
+     * capture buffer — some property of a manually-constructed in-memory
+     * bitmap it expects isn't there, and forcing a default ColorSpace alone
+     * didn't fix it. Round-tripping through a real PNG encode/decode instead
+     * of guessing which property is missing: the result is byte-for-byte the
+     * same kind of Bitmap object BitmapFactory hands back for any photo
+     * loaded from disk or resources — the case ML Kit is actually tested
+     * against — so whatever metadata it's missing gets filled in properly.
+     */
+    private fun normalizeBitmap(bitmap: Bitmap): Bitmap {
+        val stream = ByteArrayOutputStream()
+        bitmap.compress(Bitmap.CompressFormat.PNG, 100, stream)
+        val bytes = stream.toByteArray()
+        return BitmapFactory.decodeByteArray(bytes, 0, bytes.size) ?: bitmap
     }
 
     /**

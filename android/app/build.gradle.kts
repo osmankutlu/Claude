@@ -33,6 +33,16 @@ android {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig = signingConfigs.getByName("debug")
+            // R8 shrinking was on by default and renaming/stripping internal
+            // (non-public-API) classes from ML Kit's AAR down to single
+            // letters — its consumer keep-rules protect the public API
+            // (InputImage, TextRecognition, ...) but evidently not every
+            // internal path, which lines up with the screen-lens OCR
+            // feature's NullPointerExceptions deep inside that code. This
+            // is a debug-signed sideload APK, not a Play Store submission,
+            // so there's no reason to shrink/obfuscate it at all.
+            isMinifyEnabled = false
+            isShrinkResources = false
         }
     }
 }

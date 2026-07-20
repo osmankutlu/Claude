@@ -47,6 +47,10 @@ dependencies {
     // On-device Chinese OCR for the "screen lens" overlay feature (scans
     // whatever's under the draggable lens in any app, not just this one).
     implementation("com.google.mlkit:text-recognition-chinese:16.0.1")
+    // GoogleApiAvailability: diagnostic-only, checks whether Google Play
+    // services (which ML Kit's Task/callback machinery relies on even for
+    // the on-device, no-download recognizer) is present and healthy.
+    implementation("com.google.android.gms:play-services-base:18.4.0")
 }
 
 flutter {

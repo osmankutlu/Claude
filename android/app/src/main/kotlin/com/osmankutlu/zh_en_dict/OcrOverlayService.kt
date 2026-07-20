@@ -30,6 +30,7 @@ import android.view.WindowManager
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.core.app.NotificationCompat
+import com.google.android.gms.common.GoogleApiAvailability
 import com.google.mlkit.vision.common.InputImage
 import com.google.mlkit.vision.text.Text
 import com.google.mlkit.vision.text.TextRecognition
@@ -96,6 +97,7 @@ class OcrOverlayService : Service() {
         }
 
         startForeground(NOTIFICATION_ID, buildNotification())
+        reportPlayServicesStatus()
 
         // Anything below (display metrics, the virtual display, inflating
         // and adding the overlay window) throwing uncaught would crash the
@@ -263,6 +265,28 @@ class OcrOverlayService : Service() {
                 }
         } catch (e: Throwable) {
             updateNotificationStatus("Tanı: tarama hatası: ${diagString(e)}")
+        }
+    }
+
+    /**
+     * TEMPORARY diagnostic: every scan attempt NPEs deep inside ML Kit's own
+     * (pre-obfuscated) internal code, identically regardless of how the
+     * image is supplied to it — which points away from our code and toward
+     * something environmental ML Kit depends on. Google Play services being
+     * missing/outdated/disabled is the leading suspect, so report its
+     * availability the moment the lens opens (not just on scan) to either
+     * confirm or rule that out from the notification alone.
+     */
+    private fun reportPlayServicesStatus() {
+        try {
+            val code = GoogleApiAvailability.getInstance().isGooglePlayServicesAvailable(this)
+            val desc = when (code) {
+                com.google.android.gms.common.ConnectionResult.SUCCESS -> "OK"
+                else -> GoogleApiAvailability.getInstance().getErrorString(code)
+            }
+            updateNotificationStatus("Tanı: Play Services = $desc (kod $code). Bir kelimenin üzerine sürükleyip bırakın.")
+        } catch (e: Throwable) {
+            updateNotificationStatus("Tanı: Play Services kontrolü başarısız: ${diagString(e)}")
         }
     }
 

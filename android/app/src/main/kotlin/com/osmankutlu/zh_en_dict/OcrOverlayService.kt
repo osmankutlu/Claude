@@ -284,18 +284,29 @@ class OcrOverlayService : Service() {
             recognizer.process(image)
                 .addOnSuccessListener { visionText ->
                     try {
-                        val linePreview = visionText.textBlocks
-                            .flatMap { it.lines }
-                            .joinToString(" | ") { it.text }
-                            .take(60)
                         val match = bestMatch(visionText, localX, localY)
                         if (match != null) {
                             updateNotificationStatus("Tanı[$gps]: bulundu -> ${match.optString("hanzi")}")
                             showResultEntry(x, y, match)
-                        } else if (linePreview.isEmpty()) {
+                            return@addOnSuccessListener
+                        }
+                        val lineText = closestLine(visionText, localX, localY)?.text
+                        if (lineText.isNullOrEmpty()) {
                             updateNotificationStatus("Tanı[$gps]: OCR hiç metin bulamadı")
-                        } else {
-                            updateNotificationStatus("Tanı[$gps]: OCR okudu ama sözlükte yok: $linePreview")
+                            return@addOnSuccessListener
+                        }
+                        // Not in the bundled dictionary — fall back to an
+                        // online translation of the recognized line instead
+                        // of showing nothing, since our ~8000-word list is
+                        // nowhere near full Chinese vocabulary.
+                        updateNotificationStatus("Tanı[$gps]: sözlükte yok, online çevrilecek: ${lineText.take(60)}")
+                        translateOnline(lineText) { translated ->
+                            if (translated != null) {
+                                updateNotificationStatus("Tanı[$gps]: online çeviri -> $translated")
+                                showResultTranslation(x, y, lineText, translated)
+                            } else {
+                                updateNotificationStatus("Tanı[$gps]: online çeviri başarısız")
+                            }
                         }
                     } catch (e: Throwable) {
                         updateNotificationStatus("Tanı[$gps]: eşleştirme hatası: ${diagString(e)}")
@@ -469,7 +480,7 @@ class OcrOverlayService : Service() {
      * position via [DictLookup], approximating that position from where the
      * center falls across the line's bounding box.
      */
-    private fun bestMatch(visionText: Text, cx: Int, cy: Int): JSONObject? {
+    private fun closestLine(visionText: Text, cx: Int, cy: Int): Text.Line? {
         var bestLine: Text.Line? = null
         var bestDist = Int.MAX_VALUE
         for (block in visionText.textBlocks) {
@@ -482,7 +493,11 @@ class OcrOverlayService : Service() {
                 }
             }
         }
-        val line = bestLine ?: return null
+        return bestLine
+    }
+
+    private fun bestMatch(visionText: Text, cx: Int, cy: Int): JSONObject? {
+        val line = closestLine(visionText, cx, cy) ?: return null
         val text = line.text
         if (text.isEmpty()) return null
         val box = line.boundingBox ?: return null
@@ -515,6 +530,53 @@ class OcrOverlayService : Service() {
             view.findViewById<TextView>(R.id.result_pinyin).text = entry.optString("pinyin")
             view.findViewById<TextView>(R.id.result_meaning).text = entry.optString("meaning")
         }
+    }
+
+    /** Same card, for a word/line that wasn't in the bundled dictionary and
+     *  got translated online instead — no pinyin (the translation API
+     *  doesn't provide it) and no detail screen to open (it's not one of
+     *  our entries), so tapping it just dismisses like the very first
+     *  version of this feature did. */
+    private fun showResultTranslation(x: Int, y: Int, original: String, translated: String) {
+        showResultView(x, y) { view ->
+            view.findViewById<TextView>(R.id.result_hanzi).text = original
+            view.findViewById<TextView>(R.id.result_pinyin).visibility = View.GONE
+            view.findViewById<TextView>(R.id.result_meaning).text = translated
+        }
+    }
+
+    /**
+     * Translates [text] (a recognized OCR line, not necessarily a single
+     * word — there's no offline Chinese word segmentation here, so the
+     * whole line is the safest unit to send) to Turkish via MyMemory's free,
+     * keyless translation API, and delivers the result on the main thread.
+     * Runs on a plain background Thread: this is a one-shot blocking HTTP
+     * call with no Looper-dependent callbacks involved (unlike ML Kit's
+     * Task-based client), so — unlike that earlier regression — a bare
+     * Thread is fine here.
+     */
+    private fun translateOnline(text: String, callback: (String?) -> Unit) {
+        Thread {
+            val result = try {
+                val encoded = java.net.URLEncoder.encode(text, "UTF-8")
+                val url = java.net.URL(
+                    "https://api.mymemory.translated.net/get?q=$encoded&langpair=zh-CN|tr"
+                )
+                val connection = url.openConnection() as java.net.HttpURLConnection
+                connection.connectTimeout = 6000
+                connection.readTimeout = 6000
+                connection.requestMethod = "GET"
+                val body = connection.inputStream.bufferedReader().use { it.readText() }
+                connection.disconnect()
+                val translated = JSONObject(body)
+                    .optJSONObject("responseData")
+                    ?.optString("translatedText")
+                translated?.takeIf { it.isNotBlank() && !it.equals(text, ignoreCase = true) }
+            } catch (e: Throwable) {
+                null
+            }
+            mainHandler.post { callback(result) }
+        }.start()
     }
 
     /**

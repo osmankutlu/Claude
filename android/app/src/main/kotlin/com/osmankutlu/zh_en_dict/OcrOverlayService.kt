@@ -129,6 +129,10 @@ class OcrOverlayService : Service() {
 
             setUpVirtualDisplay(projection)
             showLens()
+            // Warm up the recognizer client as soon as the lens opens, not
+            // on the first drop — gives any of its own async/background
+            // setup time to finish well before a scan is attempted.
+            try { textRecognizer } catch (e: Throwable) { }
         } catch (e: Throwable) {
             stopSelf()
         }
@@ -233,16 +237,23 @@ class OcrOverlayService : Service() {
                 updateNotificationStatus("Tanı[$gps]: görüntü yakalanamadı (crop null)")
                 return
             }
-            val image = try {
-                InputImage.fromFilePath(this, bitmapToFileUri(bitmap))
-            } catch (e: Throwable) {
-                updateNotificationStatus("Tanı[$gps]: InputImage hatası: ${diagString(e)}")
-                return
-            }
+            // Recognizer created before the InputImage (not after, as before):
+            // both fromBitmap() and fromFilePath() crash identically deep in
+            // vision-common's shared internal code, and GPS:OK already ruled
+            // out Play services — so the leading remaining suspect is that
+            // something in ML Kit's internal registry only gets set up as a
+            // side effect of first creating a recognizer client, and
+            // InputImage's own construction assumes that already happened.
             val recognizer = try {
                 textRecognizer
             } catch (e: Throwable) {
                 updateNotificationStatus("Tanı[$gps]: recognizer init hatası: ${diagString(e)}")
+                return
+            }
+            val image = try {
+                InputImage.fromFilePath(this, bitmapToFileUri(bitmap))
+            } catch (e: Throwable) {
+                updateNotificationStatus("Tanı[$gps]: InputImage hatası: ${diagString(e)}")
                 return
             }
             recognizer.process(image)

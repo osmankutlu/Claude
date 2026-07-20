@@ -97,7 +97,6 @@ class OcrOverlayService : Service() {
         }
 
         startForeground(NOTIFICATION_ID, buildNotification())
-        reportPlayServicesStatus()
 
         // Anything below (display metrics, the virtual display, inflating
         // and adding the overlay window) throwing uncaught would crash the
@@ -222,22 +221,28 @@ class OcrOverlayService : Service() {
         // simply show nothing rather than an error popup — dropping the lens
         // over a picture, blank space, etc. is a normal, expected outcome,
         // not something worth interrupting the user about.
+        // Computed once per scan and prefixed on every status line below —
+        // a separate notify() call right after startForeground() (fired at
+        // lens-open time) turned out to get silently dropped/coalesced on
+        // this device, so folding it into the single notify() a scan
+        // already does is the reliable way to actually see it.
+        val gps = playServicesDesc()
         try {
             val bitmap = captureCrop(x, y)
             if (bitmap == null) {
-                updateNotificationStatus("Tanı: görüntü yakalanamadı (crop null)")
+                updateNotificationStatus("Tanı[$gps]: görüntü yakalanamadı (crop null)")
                 return
             }
             val image = try {
                 InputImage.fromFilePath(this, bitmapToFileUri(bitmap))
             } catch (e: Throwable) {
-                updateNotificationStatus("Tanı: InputImage hatası: ${diagString(e)}")
+                updateNotificationStatus("Tanı[$gps]: InputImage hatası: ${diagString(e)}")
                 return
             }
             val recognizer = try {
                 textRecognizer
             } catch (e: Throwable) {
-                updateNotificationStatus("Tanı: recognizer init hatası: ${diagString(e)}")
+                updateNotificationStatus("Tanı[$gps]: recognizer init hatası: ${diagString(e)}")
                 return
             }
             recognizer.process(image)
@@ -249,44 +254,45 @@ class OcrOverlayService : Service() {
                             .take(60)
                         val match = bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
                         if (match != null) {
-                            updateNotificationStatus("Tanı: bulundu -> ${match.optString("hanzi")}")
+                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${match.optString("hanzi")}")
                             showResultEntry(x, y, match)
                         } else if (linePreview.isEmpty()) {
-                            updateNotificationStatus("Tanı: OCR hiç metin bulamadı")
+                            updateNotificationStatus("Tanı[$gps]: OCR hiç metin bulamadı")
                         } else {
-                            updateNotificationStatus("Tanı: OCR okudu ama sözlükte yok: $linePreview")
+                            updateNotificationStatus("Tanı[$gps]: OCR okudu ama sözlükte yok: $linePreview")
                         }
                     } catch (e: Throwable) {
-                        updateNotificationStatus("Tanı: eşleştirme hatası: ${diagString(e)}")
+                        updateNotificationStatus("Tanı[$gps]: eşleştirme hatası: ${diagString(e)}")
                     }
                 }
                 .addOnFailureListener { e ->
-                    updateNotificationStatus("Tanı: OCR hatası: ${diagString(e)}")
+                    updateNotificationStatus("Tanı[$gps]: OCR hatası: ${diagString(e)}")
                 }
         } catch (e: Throwable) {
-            updateNotificationStatus("Tanı: tarama hatası: ${diagString(e)}")
+            updateNotificationStatus("Tanı[$gps]: tarama hatası: ${diagString(e)}")
         }
     }
 
     /**
-     * TEMPORARY diagnostic: every scan attempt NPEs deep inside ML Kit's own
-     * (pre-obfuscated) internal code, identically regardless of how the
-     * image is supplied to it — which points away from our code and toward
-     * something environmental ML Kit depends on. Google Play services being
-     * missing/outdated/disabled is the leading suspect, so report its
-     * availability the moment the lens opens (not just on scan) to either
-     * confirm or rule that out from the notification alone.
+     * Short Google Play services availability code (e.g. "OK", "MISSING",
+     * "UPDATE_REQUIRED", "DISABLED" — see ConnectionResult), computed fresh
+     * for each scan. ML Kit's Task/callback machinery relies on Play
+     * services even for the on-device, no-download recognizer, and every
+     * scan NPEs deep inside ML Kit's own code identically regardless of how
+     * the image is supplied — which points away from our code and toward
+     * something environmental. This is the leading suspect, so it rides
+     * along on every diagnostic line instead of a separate notification.
      */
-    private fun reportPlayServicesStatus() {
-        try {
+    private fun playServicesDesc(): String {
+        return try {
             val code = GoogleApiAvailability.getInstance().isGooglePlayServicesAvailable(this)
-            val desc = when (code) {
-                com.google.android.gms.common.ConnectionResult.SUCCESS -> "OK"
-                else -> GoogleApiAvailability.getInstance().getErrorString(code)
+            if (code == com.google.android.gms.common.ConnectionResult.SUCCESS) {
+                "GPS:OK"
+            } else {
+                "GPS:${GoogleApiAvailability.getInstance().getErrorString(code)}($code)"
             }
-            updateNotificationStatus("Tanı: Play Services = $desc (kod $code). Bir kelimenin üzerine sürükleyip bırakın.")
         } catch (e: Throwable) {
-            updateNotificationStatus("Tanı: Play Services kontrolü başarısız: ${diagString(e)}")
+            "GPS:err(${e.javaClass.simpleName})"
         }
     }
 

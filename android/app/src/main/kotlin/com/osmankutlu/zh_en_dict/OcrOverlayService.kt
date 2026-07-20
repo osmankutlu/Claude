@@ -193,11 +193,16 @@ class OcrOverlayService : Service() {
                 }
                 MotionEvent.ACTION_UP -> {
                     // Drop point = current window origin + the handle's own
-                    // bottom-left offset within the padded overlay window —
-                    // that's where the L's corner (its hotspot) sits, same
-                    // convention as a normal cursor's pointer tip.
-                    val dropX = params.x + handle.left
-                    val dropY = params.y + handle.top + handle.height
+                    // inner-corner offset within the padded overlay window.
+                    // ic_overlay_lens's path is a vertical bar on the left
+                    // (x 2..6 of a 24-wide viewport) plus a horizontal bar
+                    // along the bottom (y 18..22) — the L's concave elbow,
+                    // where those two strokes actually meet, sits at
+                    // (6, 18), i.e. 25% across and 75% down the icon. That's
+                    // the hotspot users expect (like a crop-handle's inner
+                    // tip), not the sharp outer corner at (2, 22).
+                    val dropX = params.x + handle.left + (handle.width * 0.25f).toInt()
+                    val dropY = params.y + handle.top + (handle.height * 0.75f).toInt()
                     scanAt(dropX, dropY)
                     true
                 }
@@ -469,20 +474,35 @@ class OcrOverlayService : Service() {
     // ---- Result popup -------------------------------------------------------
 
     private fun showResultEntry(x: Int, y: Int, entry: JSONObject) {
-        showResultView(x, y) { view ->
+        showResultView(x, y, onClick = { openWordDetail(entry) }) { view ->
             view.findViewById<TextView>(R.id.result_hanzi).text = entry.optString("hanzi")
             view.findViewById<TextView>(R.id.result_pinyin).text = entry.optString("pinyin")
             view.findViewById<TextView>(R.id.result_meaning).text = entry.optString("meaning")
         }
     }
 
-    private fun showResultView(x: Int, y: Int, bind: (View) -> Unit) {
+    /** Same "meaning/examples" popup the widget's ⓘ button opens — reused
+     *  here so tapping the scan result shows full detail instead of just
+     *  the short hanzi/pinyin/meaning card. */
+    private fun openWordDetail(entry: JSONObject) {
+        dismissResult()
+        val itemId = entry.optString("id")
+        if (itemId.isEmpty()) return
+        val intent = Intent(this, WordPopupActivity::class.java).apply {
+            putExtra(WordPopupActivity.EXTRA_MODE, "word")
+            putExtra(WordPopupActivity.EXTRA_ITEM_ID, itemId)
+            addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+        }
+        try { startActivity(intent) } catch (e: Exception) { }
+    }
+
+    private fun showResultView(x: Int, y: Int, onClick: () -> Unit = { dismissResult() }, bind: (View) -> Unit) {
         mainHandler.post {
             dismissResult()
             val view = LayoutInflater.from(this).inflate(R.layout.overlay_result, null)
             view.findViewById<TextView>(R.id.result_pinyin).visibility = View.VISIBLE
             bind(view)
-            view.setOnClickListener { dismissResult() }
+            view.setOnClickListener { onClick() }
 
             val params = WindowManager.LayoutParams(
                 WindowManager.LayoutParams.WRAP_CONTENT,

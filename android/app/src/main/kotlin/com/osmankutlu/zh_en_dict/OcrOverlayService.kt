@@ -195,14 +195,14 @@ class OcrOverlayService : Service() {
                     // Drop point = current window origin + the handle's own
                     // inner-corner offset within the padded overlay window.
                     // ic_overlay_lens's path is a vertical bar on the left
-                    // (x 2..6 of a 24-wide viewport) plus a horizontal bar
-                    // along the bottom (y 18..22) — the L's concave elbow,
+                    // (x 2..8 of a 24-wide viewport) plus a horizontal bar
+                    // along the bottom (y 16..22) — the L's concave elbow,
                     // where those two strokes actually meet, sits at
-                    // (6, 18), i.e. 25% across and 75% down the icon. That's
+                    // (8, 16), i.e. 1/3 across and 2/3 down the icon. That's
                     // the hotspot users expect (like a crop-handle's inner
                     // tip), not the sharp outer corner at (2, 22).
-                    val dropX = params.x + handle.left + (handle.width * 0.25f).toInt()
-                    val dropY = params.y + handle.top + (handle.height * 0.75f).toInt()
+                    val dropX = params.x + handle.left + (handle.width / 3)
+                    val dropY = params.y + handle.top + (handle.height * 2 / 3)
                     scanAt(dropX, dropY)
                     true
                 }
@@ -481,9 +481,17 @@ class OcrOverlayService : Service() {
         }
     }
 
-    /** Same "meaning/examples" popup the widget's ⓘ button opens — reused
-     *  here so tapping the scan result shows full detail instead of just
-     *  the short hanzi/pinyin/meaning card. */
+    /**
+     * Same "meaning/examples" popup the widget's ⓘ button opens — reused
+     * here so tapping the scan result shows full detail instead of just the
+     * short hanzi/pinyin/meaning card. Launched via a PendingIntent (like
+     * the widget already does) rather than a direct startActivity() call:
+     * MIUI and similar OEM skins commonly block activities started directly
+     * from a background service even when it's a foreground service, which
+     * is the likely reason tapping the card wasn't opening anything —
+     * PendingIntent-based launches carry the originating app's identity and
+     * are treated much more leniently.
+     */
     private fun openWordDetail(entry: JSONObject) {
         dismissResult()
         val itemId = entry.optString("id")
@@ -493,7 +501,12 @@ class OcrOverlayService : Service() {
             putExtra(WordPopupActivity.EXTRA_ITEM_ID, itemId)
             addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
         }
-        try { startActivity(intent) } catch (e: Exception) { }
+        try {
+            PendingIntent.getActivity(
+                this, DETAIL_REQUEST_CODE, intent,
+                PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+            ).send()
+        } catch (e: Exception) { }
     }
 
     private fun showResultView(x: Int, y: Int, onClick: () -> Unit = { dismissResult() }, bind: (View) -> Unit) {
@@ -587,10 +600,11 @@ class OcrOverlayService : Service() {
         private const val CHANNEL_ID = "ocr_lens"
         private const val NOTIFICATION_ID = 4301
         private const val CROP_SIZE_PX = 480
-        private const val RESULT_AUTO_DISMISS_MS = 5000L
+        private const val RESULT_AUTO_DISMISS_MS = 8000L
         private const val RESULT_WIDTH_PX = 700
         private const val RESULT_HEIGHT_ESTIMATE_PX = 500
         private const val RESULT_Y_OFFSET_PX = 100
+        private const val DETAIL_REQUEST_CODE = 4302
 
         @Volatile
         var isRunning: Boolean = false

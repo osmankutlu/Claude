@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- The draggable screen-lens window: an "L" corner-mark cursor the user
-     drags over a word (its bottom-left corner is the precise scan point —
-     see ic_overlay_lens.xml). No close control here anymore (it covered the
+     drags over a word (its inner elbow is the precise scan point — see
+     ic_overlay_lens.xml). No close control here anymore (it covered the
      cursor and looked broken) — stop the feature via the ongoing
      notification's "Kapat" action instead. Window is WRAP_CONTENT-sized so
      touches outside the cursor itself fall through to whatever app is
-     underneath. -->
+     underneath. Padding is bigger than the icon needs on its own, giving a
+     generous grab margin around the visible mark since it's a small target
+     to land a finger on precisely. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:padding="10dp">
+    android:padding="14dp">
 
     <ImageView
         android:id="@+id/lens_handle"
-        android:layout_width="34dp"
-        android:layout_height="34dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         android:layout_gravity="center"
         android:elevation="8dp"
         android:src="@drawable/ic_overlay_lens"

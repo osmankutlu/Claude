@@ -1,13 +1,17 @@
 <!-- The draggable lens cursor: an "L" corner mark, like a crop/select-tool
-     handle. Its sharp bottom-left corner is the precise hotspot — the exact
-     point OCR samples around — matching how the code positions it (see
-     OcrOverlayService.showLens's ACTION_UP handler). -->
+     handle. Its concave inner elbow (where the two bars meet, at (8,16) of
+     this 24-unit viewport = 1/3 across, 2/3 down) is the precise hotspot —
+     the exact point OCR samples around — matching how the code positions it
+     (see OcrOverlayService.showLens's ACTION_UP handler). Sized up and
+     thickened, and given a high-contrast color distinct from the rest of
+     the app's palette, so it's easier to spot and grab on arbitrary
+     backgrounds. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="34dp" android:height="34dp"
+    android:width="50dp" android:height="50dp"
     android:viewportWidth="24" android:viewportHeight="24">
     <path
-        android:fillColor="@color/widget_accent"
-        android:strokeColor="#FFFFFFFF"
+        android:fillColor="#00E5FF"
+        android:strokeColor="#FF000000"
         android:strokeWidth="1"
-        android:pathData="M2,2 L6,2 L6,18 L22,18 L22,22 L2,22 Z"/>
+        android:pathData="M2,2 L8,2 L8,16 L22,16 L22,22 L2,22 Z"/>
 </vector>

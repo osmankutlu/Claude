@@ -355,7 +355,17 @@ class OcrOverlayService : Service() {
                 dstIdx++
             }
         }
-        return Bitmap.createBitmap(pixels, width, height, Bitmap.Config.ARGB_8888)
+        // Deliberately not Bitmap.createBitmap(pixels, width, height, config):
+        // that overload leaves the bitmap's ColorSpace null on this device,
+        // and ML Kit's InputImage.fromBitmap() reads the color space
+        // internally — a null one is exactly what produces a
+        // NullPointerException on Object.getClass() deep inside ML Kit's own
+        // (pre-obfuscated) code, which is what scans were crashing on.
+        // Allocating an empty ARGB_8888 bitmap first gets it a default sRGB
+        // color space, then setPixels() fills it with the cropped data.
+        val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
+        bitmap.setPixels(pixels, 0, width, 0, 0, width, height)
+        return bitmap
     }
 
     /**

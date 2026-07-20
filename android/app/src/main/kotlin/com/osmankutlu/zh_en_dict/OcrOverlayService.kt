@@ -142,6 +142,12 @@ class OcrOverlayService : Service() {
             // instead of inline, still gets it off the critical path of
             // opening the lens (fixing the drag lag) without that problem.
             mainHandler.post { try { textRecognizer } catch (e: Throwable) { } }
+            // Same idea for the bundled dictionaries: parsing the ~11MB
+            // CC-CEDICT asset takes real time, and paying for that on the
+            // first drop would show up as a stall. Plain background Thread
+            // is fine here (unlike the recognizer above) — this is just
+            // JSON parsing into a HashMap, no Looper-dependent callbacks.
+            Thread { try { DictLookup.preload(this) } catch (e: Throwable) { } }.start()
         } catch (e: Throwable) {
             stopSelf()
         }
@@ -284,29 +290,32 @@ class OcrOverlayService : Service() {
             recognizer.process(image)
                 .addOnSuccessListener { visionText ->
                     try {
-                        val match = bestMatch(visionText, localX, localY)
-                        if (match != null) {
-                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${match.optString("hanzi")}")
-                            showResultEntry(x, y, match)
-                            return@addOnSuccessListener
-                        }
-                        val lineText = closestLine(visionText, localX, localY)?.text
-                        if (lineText.isNullOrEmpty()) {
+                        val line = closestLine(visionText, localX, localY)
+                        if (line == null || line.text.isEmpty()) {
                             updateNotificationStatus("Tanı[$gps]: OCR hiç metin bulamadı")
                             return@addOnSuccessListener
                         }
-                        // Not in the bundled dictionary — fall back to an
-                        // online translation of the recognized line instead
-                        // of showing nothing, since our ~8000-word list is
-                        // nowhere near full Chinese vocabulary.
-                        updateNotificationStatus("Tanı[$gps]: sözlükte yok, online çevrilecek: ${lineText.take(60)}")
-                        translateOnline(lineText) { translated ->
-                            if (translated != null) {
-                                updateNotificationStatus("Tanı[$gps]: online çeviri -> $translated")
-                                showResultTranslation(x, y, lineText, translated)
-                            } else {
-                                updateNotificationStatus("Tanı[$gps]: online çeviri başarısız")
-                            }
+                        // Append the next line's text (if any) so a
+                        // multi-character word wrapped across a line break
+                        // is still there for the segmentation search below
+                        // to find as a whole — tapIndex stays computed
+                        // against just this line, but the search string it
+                        // scans forward into now includes what follows.
+                        val searchText = line.text + (nextLineText(visionText, line) ?: "")
+                        val tapIndex = tapIndexWithin(line, localX)
+
+                        val local = DictLookup.find(this@OcrOverlayService, searchText, tapIndex)
+                        if (local != null) {
+                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${local.optString("hanzi")}")
+                            showResultEntry(x, y, local)
+                            return@addOnSuccessListener
+                        }
+                        val extended = DictLookup.findExtended(this@OcrOverlayService, searchText, tapIndex)
+                        if (extended != null) {
+                            updateNotificationStatus("Tanı[$gps]: genişletilmiş sözlükte bulundu -> ${extended.optString("hanzi")}")
+                            showResultExtended(x, y, extended)
+                        } else {
+                            updateNotificationStatus("Tanı[$gps]: hiçbir sözlükte yok: ${searchText.take(60)}")
                         }
                     } catch (e: Throwable) {
                         updateNotificationStatus("Tanı[$gps]: eşleştirme hatası: ${diagString(e)}")
@@ -419,7 +428,7 @@ class OcrOverlayService : Service() {
 
         // Wide-but-short instead of a small square: a small square was
         // routinely truncating longer sentences, so OCR only ever saw a
-        // fragment of the line — bestMatch()'s x-fraction-of-line-width
+        // fragment of the line — tapIndexWithin()'s x-fraction-of-line-width
         // math is only correct against the *whole* line, so a truncated one
         // reliably picked the wrong character. Spanning (up to) the full
         // screen width guarantees the whole line is captured; the height
@@ -496,16 +505,49 @@ class OcrOverlayService : Service() {
         return bestLine
     }
 
-    private fun bestMatch(visionText: Text, cx: Int, cy: Int): JSONObject? {
-        val line = closestLine(visionText, cx, cy) ?: return null
+    /** Where [cx] falls within [line]'s own text, as a character index —
+     *  e.g. a drop 30% of the way across the line's bounding box maps to
+     *  roughly the character 30% of the way through its text. */
+    private fun tapIndexWithin(line: Text.Line, cx: Int): Int {
         val text = line.text
-        if (text.isEmpty()) return null
-        val box = line.boundingBox ?: return null
+        if (text.isEmpty()) return 0
+        val box = line.boundingBox ?: return 0
         val fraction = if (box.width() > 0)
             ((cx - box.left).toFloat() / box.width()).coerceIn(0f, 0.999f)
         else 0f
-        val tapIndex = (fraction * text.length).toInt().coerceIn(0, text.length - 1)
-        return DictLookup.find(this@OcrOverlayService, text, tapIndex)
+        return (fraction * text.length).toInt().coerceIn(0, text.length - 1)
+    }
+
+    /**
+     * The text of whichever OCR'd line sits immediately below [line] in the
+     * same paragraph, if any — e.g. a wrapped sentence's next visual line.
+     * Requires it to start close under [line]'s bottom edge (no big vertical
+     * gap, which would mean an unrelated line elsewhere on screen) and to
+     * overlap it horizontally by a reasonable margin (ruling out e.g. a
+     * neighboring column of text), rather than just picking whatever's
+     * geometrically closest below.
+     */
+    private fun nextLineText(visionText: Text, line: Text.Line): String? {
+        val box = line.boundingBox ?: return null
+        var best: Text.Line? = null
+        var bestTop = Int.MAX_VALUE
+        for (block in visionText.textBlocks) {
+            for (candidate in block.lines) {
+                if (candidate === line) continue
+                val cBox = candidate.boundingBox ?: continue
+                if (cBox.top < box.bottom) continue
+                val gap = cBox.top - box.bottom
+                if (gap > box.height()) continue
+                val overlapLeft = maxOf(box.left, cBox.left)
+                val overlapRight = minOf(box.right, cBox.right)
+                if (overlapRight - overlapLeft < box.width() / 4) continue
+                if (cBox.top < bestTop) {
+                    bestTop = cBox.top
+                    best = candidate
+                }
+            }
+        }
+        return best?.text
     }
 
     private fun pointToRectDistance(x: Int, y: Int, rect: Rect): Int {
@@ -532,51 +574,17 @@ class OcrOverlayService : Service() {
         }
     }
 
-    /** Same card, for a word/line that wasn't in the bundled dictionary and
-     *  got translated online instead — no pinyin (the translation API
-     *  doesn't provide it) and no detail screen to open (it's not one of
-     *  our entries), so tapping it just dismisses like the very first
-     *  version of this feature did. */
-    private fun showResultTranslation(x: Int, y: Int, original: String, translated: String) {
+    /** Same card, for a word found in the larger bundled CC-CEDICT dataset
+     *  instead of our own curated list — English meaning rather than
+     *  Turkish, and no detail screen to open (it's not one of our entries
+     *  with examples/HSK level/etc.), so tapping it just dismisses like the
+     *  very first version of this feature did. */
+    private fun showResultExtended(x: Int, y: Int, entry: JSONObject) {
         showResultView(x, y) { view ->
-            view.findViewById<TextView>(R.id.result_hanzi).text = original
-            view.findViewById<TextView>(R.id.result_pinyin).visibility = View.GONE
-            view.findViewById<TextView>(R.id.result_meaning).text = translated
+            view.findViewById<TextView>(R.id.result_hanzi).text = entry.optString("hanzi")
+            view.findViewById<TextView>(R.id.result_pinyin).text = entry.optString("pinyin")
+            view.findViewById<TextView>(R.id.result_meaning).text = entry.optString("meaning")
         }
-    }
-
-    /**
-     * Translates [text] (a recognized OCR line, not necessarily a single
-     * word — there's no offline Chinese word segmentation here, so the
-     * whole line is the safest unit to send) to Turkish via MyMemory's free,
-     * keyless translation API, and delivers the result on the main thread.
-     * Runs on a plain background Thread: this is a one-shot blocking HTTP
-     * call with no Looper-dependent callbacks involved (unlike ML Kit's
-     * Task-based client), so — unlike that earlier regression — a bare
-     * Thread is fine here.
-     */
-    private fun translateOnline(text: String, callback: (String?) -> Unit) {
-        Thread {
-            val result = try {
-                val encoded = java.net.URLEncoder.encode(text, "UTF-8")
-                val url = java.net.URL(
-                    "https://api.mymemory.translated.net/get?q=$encoded&langpair=zh-CN|tr"
-                )
-                val connection = url.openConnection() as java.net.HttpURLConnection
-                connection.connectTimeout = 6000
-                connection.readTimeout = 6000
-                connection.requestMethod = "GET"
-                val body = connection.inputStream.bufferedReader().use { it.readText() }
-                connection.disconnect()
-                val translated = JSONObject(body)
-                    .optJSONObject("responseData")
-                    ?.optString("translatedText")
-                translated?.takeIf { it.isNotBlank() && !it.equals(text, ignoreCase = true) }
-            } catch (e: Throwable) {
-                null
-            }
-            mainHandler.post { callback(result) }
-        }.start()
     }
 
     /**
@@ -698,7 +706,10 @@ class OcrOverlayService : Service() {
         private const val CHANNEL_ID = "ocr_lens"
         private const val NOTIFICATION_ID = 4301
         private const val CROP_WIDTH_PX = 2000
-        private const val CROP_HEIGHT_PX = 260
+        // Tall enough to reliably include part of the next line below the
+        // drop point too — needed for nextLineText() to have anything to
+        // find when a word wraps across a line break.
+        private const val CROP_HEIGHT_PX = 360
         private const val RESULT_AUTO_DISMISS_MS = 8000L
         private const val RESULT_WIDTH_PX = 700
         private const val RESULT_HEIGHT_ESTIMATE_PX = 500

@@ -246,11 +246,22 @@ class OcrOverlayService : Service() {
         // already does is the reliable way to actually see it.
         val gps = playServicesDesc()
         try {
-            val bitmap = captureCrop(x, y)
-            if (bitmap == null) {
+            val crop = captureCrop(x, y)
+            if (crop == null) {
                 updateNotificationStatus("Tanı[$gps]: görüntü yakalanamadı (crop null)")
                 return
             }
+            val bitmap = crop.bitmap
+            // The crop's own local coordinates for the drop point — NOT
+            // the bitmap's center. That assumption held when crops were a
+            // small square centered on the drop point, but since the crop
+            // is now wide (often the full screen width, left-clamped to 0
+            // near the horizontal center), the drop point can land anywhere
+            // in it, and using the bitmap's center instead was silently
+            // scanning whatever character happened to sit at screen-center
+            // — i.e. showing "correct but obviously wrong" nearby words.
+            val localX = x - crop.left
+            val localY = y - crop.top
             // Recognizer created before the InputImage (not after, as before):
             // both fromBitmap() and fromFilePath() crash identically deep in
             // vision-common's shared internal code, and GPS:OK already ruled
@@ -277,7 +288,7 @@ class OcrOverlayService : Service() {
                             .flatMap { it.lines }
                             .joinToString(" | ") { it.text }
                             .take(60)
-                        val match = bestMatch(visionText, bitmap.width / 2, bitmap.height / 2)
+                        val match = bestMatch(visionText, localX, localY)
                         if (match != null) {
                             updateNotificationStatus("Tanı[$gps]: bulundu -> ${match.optString("hanzi")}")
                             showResultEntry(x, y, match)
@@ -367,7 +378,13 @@ class OcrOverlayService : Service() {
      * was crashing the service with an OutOfMemoryError, which looks exactly
      * like "it keeps stopping by itself").
      */
-    private fun captureCrop(x: Int, y: Int): Bitmap? {
+    /** A crop plus the screen offset of its top-left corner — needed to
+     *  translate the original drop point into the crop's own local pixel
+     *  coordinates, since the crop is no longer reliably centered on the
+     *  drop point (see [cropFromImage]). */
+    private class Crop(val bitmap: Bitmap, val left: Int, val top: Int)
+
+    private fun captureCrop(x: Int, y: Int): Crop? {
         val reader = imageReader ?: return null
         val image = try {
             reader.acquireLatestImage()
@@ -381,7 +398,7 @@ class OcrOverlayService : Service() {
         }
     }
 
-    private fun cropFromImage(image: Image, centerX: Int, centerY: Int): Bitmap? {
+    private fun cropFromImage(image: Image, centerX: Int, centerY: Int): Crop? {
         val plane = image.planes.firstOrNull() ?: return null
         val buffer = plane.buffer
         val pixelStride = plane.pixelStride
@@ -425,7 +442,7 @@ class OcrOverlayService : Service() {
         }
         val bitmap = Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888)
         bitmap.setPixels(pixels, 0, width, 0, 0, width, height)
-        return bitmap
+        return Crop(bitmap, left, top)
     }
 
     /**

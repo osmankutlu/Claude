@@ -8,7 +8,6 @@ import android.app.Service
 import android.content.Context
 import android.content.Intent
 import android.graphics.Bitmap
-import android.graphics.BitmapFactory
 import android.graphics.PixelFormat
 import android.graphics.Rect
 import android.hardware.display.DisplayManager
@@ -17,6 +16,7 @@ import android.media.Image
 import android.media.ImageReader
 import android.media.projection.MediaProjection
 import android.media.projection.MediaProjectionManager
+import android.net.Uri
 import android.os.Build
 import android.os.Handler
 import android.os.IBinder
@@ -35,7 +35,8 @@ import com.google.mlkit.vision.text.Text
 import com.google.mlkit.vision.text.TextRecognition
 import com.google.mlkit.vision.text.chinese.ChineseTextRecognizerOptions
 import org.json.JSONObject
-import java.io.ByteArrayOutputStream
+import java.io.File
+import java.io.FileOutputStream
 
 /**
  * Foreground service backing the screen-lens feature: draws a draggable
@@ -226,7 +227,7 @@ class OcrOverlayService : Service() {
                 return
             }
             val image = try {
-                InputImage.fromBitmap(normalizeBitmap(bitmap), 0)
+                InputImage.fromFilePath(this, bitmapToFileUri(bitmap))
             } catch (e: Throwable) {
                 updateNotificationStatus("Tanı: InputImage hatası: ${diagString(e)}")
                 return
@@ -364,20 +365,20 @@ class OcrOverlayService : Service() {
 
     /**
      * ML Kit's InputImage.fromBitmap() reliably NPEs deep inside its own
-     * (pre-obfuscated) code on the bitmap we build by hand from the raw
-     * capture buffer — some property of a manually-constructed in-memory
-     * bitmap it expects isn't there, and forcing a default ColorSpace alone
-     * didn't fix it. Round-tripping through a real PNG encode/decode instead
-     * of guessing which property is missing: the result is byte-for-byte the
-     * same kind of Bitmap object BitmapFactory hands back for any photo
-     * loaded from disk or resources — the case ML Kit is actually tested
-     * against — so whatever metadata it's missing gets filled in properly.
+     * (pre-obfuscated) code — identically whether the bitmap is our
+     * hand-built crop or a freshly PNG-decoded one, which rules out the
+     * bitmap's own properties as the cause. So instead of feeding it an
+     * in-memory Bitmap at all, write the crop to a real file and use
+     * InputImage.fromFilePath(), a different internal code path (the one
+     * used whenever an image is loaded from disk), to route around
+     * whatever fromBitmap()'s path is missing.
      */
-    private fun normalizeBitmap(bitmap: Bitmap): Bitmap {
-        val stream = ByteArrayOutputStream()
-        bitmap.compress(Bitmap.CompressFormat.PNG, 100, stream)
-        val bytes = stream.toByteArray()
-        return BitmapFactory.decodeByteArray(bytes, 0, bytes.size) ?: bitmap
+    private fun bitmapToFileUri(bitmap: Bitmap): Uri {
+        val file = File(cacheDir, "lens_scan.png")
+        FileOutputStream(file).use { out ->
+            bitmap.compress(Bitmap.CompressFormat.PNG, 100, out)
+        }
+        return Uri.fromFile(file)
     }
 
     /**

@@ -223,8 +223,19 @@ class OcrOverlayService : Service() {
                 updateNotificationStatus("Tanı: görüntü yakalanamadı (crop null)")
                 return
             }
-            val image = InputImage.fromBitmap(bitmap, 0)
-            textRecognizer.process(image)
+            val image = try {
+                InputImage.fromBitmap(bitmap, 0)
+            } catch (e: Throwable) {
+                updateNotificationStatus("Tanı: InputImage hatası: ${diagString(e)}")
+                return
+            }
+            val recognizer = try {
+                textRecognizer
+            } catch (e: Throwable) {
+                updateNotificationStatus("Tanı: recognizer init hatası: ${diagString(e)}")
+                return
+            }
+            recognizer.process(image)
                 .addOnSuccessListener { visionText ->
                     try {
                         val linePreview = visionText.textBlocks
@@ -241,15 +252,24 @@ class OcrOverlayService : Service() {
                             updateNotificationStatus("Tanı: OCR okudu ama sözlükte yok: $linePreview")
                         }
                     } catch (e: Throwable) {
-                        updateNotificationStatus("Tanı: eşleştirme hatası: ${e.message}")
+                        updateNotificationStatus("Tanı: eşleştirme hatası: ${diagString(e)}")
                     }
                 }
                 .addOnFailureListener { e ->
-                    updateNotificationStatus("Tanı: OCR hatası: ${e.message}")
+                    updateNotificationStatus("Tanı: OCR hatası: ${diagString(e)}")
                 }
         } catch (e: Throwable) {
-            updateNotificationStatus("Tanı: tarama hatası: ${e.message}")
+            updateNotificationStatus("Tanı: tarama hatası: ${diagString(e)}")
         }
+    }
+
+    /** Exception message plus the top of its stack trace, so the on-device
+     *  notification can pinpoint exactly which line failed without logcat access. */
+    private fun diagString(e: Throwable): String {
+        val top = e.stackTrace.take(4).joinToString(" < ") {
+            "${it.className.substringAfterLast('.')}.${it.methodName}:${it.lineNumber}"
+        }
+        return "${e.javaClass.simpleName}: ${e.message} [$top]"
     }
 
     /**

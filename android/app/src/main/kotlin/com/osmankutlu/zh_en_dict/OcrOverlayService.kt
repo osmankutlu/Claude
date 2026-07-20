@@ -130,9 +130,15 @@ class OcrOverlayService : Service() {
             setUpVirtualDisplay(projection)
             showLens()
             // Warm up the recognizer client as soon as the lens opens, not
-            // on the first drop — gives any of its own async/background
-            // setup time to finish well before a scan is attempted.
-            try { textRecognizer } catch (e: Throwable) { }
+            // on the first drop — gives any of its own setup time to finish
+            // well before a scan is attempted. Off the main thread: creating
+            // the client does real work (loading the bundled model), and
+            // doing that synchronously right as the draggable lens appears
+            // was blocking the UI thread — exactly the "laggy right after
+            // opening" symptom. textRecognizer's `by lazy` is thread-safe,
+            // so this is safe to touch from a background thread while
+            // scanAt() (main thread) may also touch it later.
+            Thread { try { textRecognizer } catch (e: Throwable) { } }.start()
         } catch (e: Throwable) {
             stopSelf()
         }
@@ -350,7 +356,7 @@ class OcrOverlayService : Service() {
     }
 
     /**
-     * A [CROP_SIZE_PX]-square region of the live screen centered on ([x], [y]),
+     * A wide-but-short region of the live screen centered on ([x], [y]),
      * read directly out of the captured frame's pixel buffer. Deliberately
      * never materializes a full-screen bitmap first (a phone screen is
      * usually several thousand by several thousand pixels — allocating and
@@ -380,11 +386,21 @@ class OcrOverlayService : Service() {
         val imgWidth = image.width
         val imgHeight = image.height
 
-        val half = CROP_SIZE_PX / 2
-        val left = (centerX - half).coerceIn(0, maxOf(0, imgWidth - CROP_SIZE_PX))
-        val top = (centerY - half).coerceIn(0, maxOf(0, imgHeight - CROP_SIZE_PX))
-        val width = minOf(CROP_SIZE_PX, imgWidth - left)
-        val height = minOf(CROP_SIZE_PX, imgHeight - top)
+        // Wide-but-short instead of a small square: a small square was
+        // routinely truncating longer sentences, so OCR only ever saw a
+        // fragment of the line — bestMatch()'s x-fraction-of-line-width
+        // math is only correct against the *whole* line, so a truncated one
+        // reliably picked the wrong character. Spanning (up to) the full
+        // screen width guarantees the whole line is captured; the height
+        // only needs to cover one line of text plus a small margin.
+        val cropWidth = minOf(imgWidth, CROP_WIDTH_PX)
+        val cropHeight = minOf(imgHeight, CROP_HEIGHT_PX)
+        val halfW = cropWidth / 2
+        val halfH = cropHeight / 2
+        val left = (centerX - halfW).coerceIn(0, maxOf(0, imgWidth - cropWidth))
+        val top = (centerY - halfH).coerceIn(0, maxOf(0, imgHeight - cropHeight))
+        val width = minOf(cropWidth, imgWidth - left)
+        val height = minOf(cropHeight, imgHeight - top)
         if (width <= 0 || height <= 0) return null
 
         val pixels = IntArray(width * height)
@@ -599,7 +615,8 @@ class OcrOverlayService : Service() {
         const val ACTION_STOP = "com.osmankutlu.zh_en_dict.action.STOP_LENS"
         private const val CHANNEL_ID = "ocr_lens"
         private const val NOTIFICATION_ID = 4301
-        private const val CROP_SIZE_PX = 480
+        private const val CROP_WIDTH_PX = 2000
+        private const val CROP_HEIGHT_PX = 260
         private const val RESULT_AUTO_DISMISS_MS = 8000L
         private const val RESULT_WIDTH_PX = 700
         private const val RESULT_HEIGHT_ESTIMATE_PX = 500

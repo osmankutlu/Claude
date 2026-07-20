@@ -131,14 +131,17 @@ class OcrOverlayService : Service() {
             showLens()
             // Warm up the recognizer client as soon as the lens opens, not
             // on the first drop — gives any of its own setup time to finish
-            // well before a scan is attempted. Off the main thread: creating
-            // the client does real work (loading the bundled model), and
-            // doing that synchronously right as the draggable lens appears
-            // was blocking the UI thread — exactly the "laggy right after
-            // opening" symptom. textRecognizer's `by lazy` is thread-safe,
-            // so this is safe to touch from a background thread while
-            // scanAt() (main thread) may also touch it later.
-            Thread { try { textRecognizer } catch (e: Throwable) { } }.start()
+            // well before a scan is attempted. A plain background Thread
+            // was tried here and made scans stop producing any result at
+            // all: Google's Task-based client machinery expects to be
+            // created on a thread that has an Android Looper (deliverying
+            // addOnSuccessListener/addOnFailureListener callbacks depends on
+            // it), and a bare Thread doesn't have one — so the client came
+            // up in a broken state that never called back. Posting to the
+            // main thread's own Looper, just on a later message-queue turn
+            // instead of inline, still gets it off the critical path of
+            // opening the lens (fixing the drag lag) without that problem.
+            mainHandler.post { try { textRecognizer } catch (e: Throwable) { } }
         } catch (e: Throwable) {
             stopSelf()
         }

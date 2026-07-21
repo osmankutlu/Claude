@@ -107,7 +107,7 @@ class WordContentView extends StatelessWidget {
                         ChineseText(
                           ex.zh,
                           pinyin: ex.pinyin,
-                          style: const TextStyle(fontSize: 18),
+                          style: const TextStyle(fontSize: 22),
                           tappableWords: true,
                         ),
                         const SizedBox(height: 4),

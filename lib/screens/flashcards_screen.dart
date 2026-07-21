@@ -210,6 +210,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen> {
             ChineseText(
               word.examples.first.zh,
               pinyin: word.examples.first.pinyin,
+              style: const TextStyle(fontSize: 22),
               textAlign: TextAlign.center,
               tappableWords: true,
             ),

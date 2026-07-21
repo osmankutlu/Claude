@@ -74,7 +74,7 @@ class WordDetailScreen extends StatelessWidget {
                           ChineseText(
                             ex.zh,
                             pinyin: ex.pinyin,
-                            style: const TextStyle(fontSize: 20),
+                            style: const TextStyle(fontSize: 24),
                             tappableWords: true,
                           ),
                           const SizedBox(height: 4),

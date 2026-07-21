@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- A single word/topic card with a faux stacked-deck background (like
-     Hanping): exactly one word on screen. Tapping the card shows the next
-     random word; the ⚙ (top-left) opens settings, the ★ (top-right)
-     favorites the word, and the ⓘ (bottom-right) opens the meaning/examples
-     popup. The title auto-sizes so it never clips. -->
+<!-- A single word/topic card, flat background: exactly one word on screen.
+     Tapping the card shows the next random word; the ⚙ (top-left) opens
+     settings, the ★ (top-right) favorites the word, and the ⓘ
+     (bottom-right) opens the meaning/examples popup. The title auto-sizes
+     so it never clips. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/widget_root"
     android:layout_width="match_parent"
@@ -13,7 +13,7 @@
         android:id="@+id/widget_card"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/widget_deck_bg">
+        android:background="@drawable/widget_card_bg">
 
         <LinearLayout
             android:layout_width="match_parent"

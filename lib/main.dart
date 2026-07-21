@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'data/dictionary_repository.dart';
+import 'data/favorite_groups_repository.dart';
 import 'data/favorites_repository.dart';
 import 'data/grammar_repository.dart';
 import 'screens/home_screen.dart';
@@ -28,6 +29,7 @@ class MyApp extends StatelessWidget {
         Provider(create: (_) => GrammarRepository()),
         Provider(create: (_) => TtsService()),
         ChangeNotifierProvider(create: (_) => FavoritesRepository()),
+        ChangeNotifierProvider(create: (_) => FavoriteGroupsRepository()),
       ],
       child: MaterialApp(
         title: '中文词典 Çince Sözlük',

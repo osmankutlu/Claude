@@ -23,6 +23,10 @@ object WidgetDataStore {
 
     fun modeKey(appWidgetId: Int) = "widget_mode_$appWidgetId"
     fun levelKey(appWidgetId: Int) = "widget_level_$appWidgetId"
+    // Only meaningful when mode == "favorite_group": which user-created
+    // favorite group (see FavoriteGroupsRepository on the Dart side) this
+    // widget instance shows.
+    fun groupKey(appWidgetId: Int) = "widget_group_$appWidgetId"
     fun displayKey(appWidgetId: Int) = "widget_display_$appWidgetId"
     fun itemKey(appWidgetId: Int) = "widget_item_$appWidgetId"
     // How often (in screen unlocks) the word changes, and the running count.
@@ -44,13 +48,9 @@ object WidgetDataStore {
         return v
     }
 
-    /** The word/grammar items this widget should show, per its mode+level. */
-    fun itemsFor(context: Context, appWidgetId: Int): List<JSONObject> {
-        val prefs = prefs(context)
-        val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
-        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
-        return filtered(context, mode, level)
-    }
+    /** The word/grammar items this widget should show, per its mode+level
+     *  (or mode+group, for "favorite_group" widgets). */
+    fun itemsFor(context: Context, appWidgetId: Int): List<JSONObject> = resolvedItems(context, appWidgetId)
 
     fun displayModeFor(context: Context, appWidgetId: Int): String =
         prefs(context).getString(displayKey(appWidgetId), "both") ?: "both"
@@ -59,8 +59,36 @@ object WidgetDataStore {
     // starring from the widget and from inside the app stay in sync.
     private const val FAV_WORDS = "favorite_word_ids"
     private const val FAV_GRAMMAR = "favorite_grammar_ids"
+    // Same key FavoriteGroupsRepository (Dart) writes: a JSON array of
+    // {id, name, wordIds}.
+    private const val FAV_GROUPS = "favorite_groups"
 
     private fun favKey(mode: String) = if (mode == "grammar") FAV_GRAMMAR else FAV_WORDS
+
+    /** Word ids belonging to the favorite group [groupId], or empty if the
+     *  group doesn't exist / no groups are stored. */
+    private fun favoriteGroupWordIds(context: Context, groupId: String): Set<String> {
+        if (groupId.isEmpty()) return emptySet()
+        val raw = prefs(context).getString(FAV_GROUPS, null) ?: return emptySet()
+        val groupsArr = try { JSONArray(raw) } catch (e: Exception) { return emptySet() }
+        for (i in 0 until groupsArr.length()) {
+            val g = groupsArr.getJSONObject(i)
+            if (g.optString("id") != groupId) continue
+            val idsArr = g.optJSONArray("wordIds") ?: return emptySet()
+            val ids = HashSet<String>(idsArr.length())
+            for (j in 0 until idsArr.length()) ids.add(idsArr.getString(j))
+            return ids
+        }
+        return emptySet()
+    }
+
+    private fun favoriteWordIds(context: Context): Set<String> {
+        val raw = prefs(context).getString(FAV_WORDS, null) ?: return emptySet()
+        val arr = try { JSONArray(raw) } catch (e: Exception) { return emptySet() }
+        val ids = HashSet<String>(arr.length())
+        for (i in 0 until arr.length()) ids.add(arr.getString(i))
+        return ids
+    }
 
     /** The item this widget currently shows, or null if none is stored. */
     fun currentItem(context: Context, appWidgetId: Int): JSONObject? {
@@ -175,6 +203,24 @@ object WidgetDataStore {
         return filtered
     }
 
+    /** Words belonging to favorite group [groupId] — intersected with the
+     *  words actually still favorited, since a word can be un-favorited
+     *  (including from this widget's own ★ button) without that group
+     *  membership being cleaned up on the Dart side. */
+    private fun filteredFavoriteGroup(context: Context, groupId: String): List<JSONObject> {
+        val groupIds = favoriteGroupWordIds(context, groupId)
+        if (groupIds.isEmpty()) return emptyList()
+        val favIds = favoriteWordIds(context)
+        val all = loadWords(context)
+        val filtered = mutableListOf<JSONObject>()
+        for (i in 0 until all.length()) {
+            val o = all.getJSONObject(i)
+            val id = o.optString("id")
+            if (groupIds.contains(id) && favIds.contains(id)) filtered.add(o)
+        }
+        return filtered
+    }
+
     private fun buildItem(mode: String, picked: JSONObject): JSONObject {
         val item = JSONObject()
         item.put("mode", mode)
@@ -189,20 +235,29 @@ object WidgetDataStore {
         return item
     }
 
-    private fun filtered(context: Context, mode: String, levelSpec: String): List<JSONObject> =
-        if (mode == "grammar") filteredGrammar(context, levelSpec) else filteredWords(context, levelSpec)
+    /** The items a widget's stored mode+level (or mode+group) config
+     *  resolves to — the single place all three public entry points below
+     *  read that config from, so mode/level/group always agree. */
+    private fun resolvedItems(context: Context, appWidgetId: Int): List<JSONObject> {
+        val prefs = prefs(context)
+        val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
+        return when (mode) {
+            "grammar" -> filteredGrammar(context, prefs.getString(levelKey(appWidgetId), "0") ?: "0")
+            "favorite_group" -> filteredFavoriteGroup(context, prefs.getString(groupKey(appWidgetId), "") ?: "")
+            else -> filteredWords(context, prefs.getString(levelKey(appWidgetId), "0") ?: "0")
+        }
+    }
 
     /**
      * Picks a new random word/grammar item (respecting the widget's
-     * configured mode+level) and stores it as this widget's current item.
-     * Returns false (and stores nothing) if that mode+level combination has
-     * no matches.
+     * configured mode+level, or mode+group for favorite-group widgets) and
+     * stores it as this widget's current item. Returns false (and stores
+     * nothing) if that configuration has no matches.
      */
     fun pickRandomItem(context: Context, appWidgetId: Int): Boolean {
         val prefs = prefs(context)
         val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
-        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
-        val list = filtered(context, mode, level)
+        val list = resolvedItems(context, appWidgetId)
         if (list.isEmpty()) return false
         val item = buildItem(mode, list[Random.nextInt(list.size)])
         prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
@@ -222,9 +277,8 @@ object WidgetDataStore {
             return
         }
         val current = JSONObject(raw)
-        val mode = current.optString("mode", "word")
-        val level = prefs.getString(levelKey(appWidgetId), "0") ?: "0"
-        val list = filtered(context, mode, level)
+        val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
+        val list = resolvedItems(context, appWidgetId)
         if (list.isEmpty()) return
         val currentId = current.optString("itemId")
         val curIndex = list.indexOfFirst { it.getString("id") == currentId }

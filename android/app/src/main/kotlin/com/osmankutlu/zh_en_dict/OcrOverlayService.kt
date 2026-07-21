@@ -586,6 +586,18 @@ class OcrOverlayService : Service() {
             bind(view)
             view.setOnClickListener { onClick() }
 
+            // Measure the real card instead of guessing its size: it used
+            // to clamp against a hardcoded RESULT_WIDTH_PX that didn't
+            // match the layout's actual 240dp width once converted to
+            // pixels on higher-density screens, so a card near the right
+            // edge could still render partly off-screen and unreadable.
+            view.measure(
+                View.MeasureSpec.makeMeasureSpec(screenWidth, View.MeasureSpec.AT_MOST),
+                View.MeasureSpec.makeMeasureSpec(screenHeight, View.MeasureSpec.AT_MOST)
+            )
+            val cardWidth = view.measuredWidth
+            val cardHeight = view.measuredHeight
+
             val params = WindowManager.LayoutParams(
                 WindowManager.LayoutParams.WRAP_CONTENT,
                 WindowManager.LayoutParams.WRAP_CONTENT,
@@ -595,8 +607,8 @@ class OcrOverlayService : Service() {
                 PixelFormat.TRANSLUCENT
             ).apply {
                 gravity = Gravity.TOP or Gravity.START
-                this.x = x.coerceIn(0, maxOf(0, screenWidth - RESULT_WIDTH_PX))
-                this.y = (y + RESULT_Y_OFFSET_PX).coerceIn(0, maxOf(0, screenHeight - RESULT_HEIGHT_ESTIMATE_PX))
+                this.x = x.coerceIn(0, maxOf(0, screenWidth - cardWidth))
+                this.y = (y + RESULT_Y_OFFSET_PX).coerceIn(0, maxOf(0, screenHeight - cardHeight))
             }
             try {
                 windowManager.addView(view, params)
@@ -674,8 +686,6 @@ class OcrOverlayService : Service() {
         // find when a word wraps across a line break.
         private const val CROP_HEIGHT_PX = 360
         private const val RESULT_AUTO_DISMISS_MS = 8000L
-        private const val RESULT_WIDTH_PX = 700
-        private const val RESULT_HEIGHT_ESTIMATE_PX = 500
         private const val RESULT_Y_OFFSET_PX = 100
 
         @Volatile

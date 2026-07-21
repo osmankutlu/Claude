@@ -208,16 +208,15 @@ class OcrOverlayService : Service() {
                 }
                 MotionEvent.ACTION_UP -> {
                     // Drop point = current window origin + the handle's own
-                    // inner-corner offset within the padded overlay window.
-                    // ic_overlay_lens's path is a vertical bar on the left
-                    // (x 2..8 of a 24-wide viewport) plus a horizontal bar
-                    // along the bottom (y 16..22) — the L's concave elbow,
-                    // where those two strokes actually meet, sits at
-                    // (8, 16), i.e. 1/3 across and 2/3 down the icon. That's
-                    // the hotspot users expect (like a crop-handle's inner
-                    // tip), not the sharp outer corner at (2, 22).
-                    val dropX = params.x + handle.left + (handle.width / 3)
-                    val dropY = params.y + handle.top + (handle.height * 2 / 3)
+                    // lens-center offset within the padded overlay window.
+                    // ic_overlay_lens is a magnifying glass whose lens circle
+                    // is centered at (10, 10) of a 24-unit viewport — 5/12
+                    // across and down — that's where the "looking through
+                    // the glass" hotspot naturally sits, not the icon's
+                    // bounding-box center (the handle skews the visual
+                    // bounds toward the bottom-right).
+                    val dropX = params.x + handle.left + (handle.width * 5 / 12)
+                    val dropY = params.y + handle.top + (handle.height * 5 / 12)
                     scanAt(dropX, dropY)
                     true
                 }

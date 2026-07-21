@@ -304,18 +304,18 @@ class OcrOverlayService : Service() {
                         val searchText = line.text + (nextLineText(visionText, line) ?: "")
                         val tapIndex = tapIndexWithin(line, localX)
 
-                        val local = DictLookup.find(this@OcrOverlayService, searchText, tapIndex)
-                        if (local != null) {
-                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${local.optString("hanzi")}")
-                            showResultEntry(x, y, local)
-                            return@addOnSuccessListener
-                        }
+                        // Lens scans always use the big CC-CEDICT dataset,
+                        // not our own curated Turkish list — requested
+                        // explicitly so every scan behaves the same way
+                        // (English+pinyin) instead of sometimes Turkish
+                        // (when the word happens to be one of our ~8000)
+                        // and sometimes English (when it isn't).
                         val extended = DictLookup.findExtended(this@OcrOverlayService, searchText, tapIndex)
                         if (extended != null) {
-                            updateNotificationStatus("Tanı[$gps]: genişletilmiş sözlükte bulundu -> ${extended.optString("hanzi")}")
+                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${extended.optString("hanzi")}")
                             showResultExtended(x, y, extended)
                         } else {
-                            updateNotificationStatus("Tanı[$gps]: hiçbir sözlükte yok: ${searchText.take(60)}")
+                            updateNotificationStatus("Tanı[$gps]: sözlükte yok: ${searchText.take(60)}")
                         }
                     } catch (e: Throwable) {
                         updateNotificationStatus("Tanı[$gps]: eşleştirme hatası: ${diagString(e)}")
@@ -566,53 +566,16 @@ class OcrOverlayService : Service() {
 
     // ---- Result popup -------------------------------------------------------
 
-    private fun showResultEntry(x: Int, y: Int, entry: JSONObject) {
-        showResultView(x, y, onClick = { openWordDetail(entry) }) { view ->
-            view.findViewById<TextView>(R.id.result_hanzi).text = entry.optString("hanzi")
-            view.findViewById<TextView>(R.id.result_pinyin).text = entry.optString("pinyin")
-            view.findViewById<TextView>(R.id.result_meaning).text = entry.optString("meaning")
-        }
-    }
-
-    /** Same card, for a word found in the larger bundled CC-CEDICT dataset
-     *  instead of our own curated list — English meaning rather than
-     *  Turkish, and no detail screen to open (it's not one of our entries
-     *  with examples/HSK level/etc.), so tapping it just dismisses like the
-     *  very first version of this feature did. */
+    /** Lens scans always look up the bundled CC-CEDICT dataset (see
+     *  scanAt()), so there's no per-entry detail screen to open here (that's
+     *  only for our own curated word list, opened via the widget's ⓘ
+     *  button) — tapping the card just dismisses it. */
     private fun showResultExtended(x: Int, y: Int, entry: JSONObject) {
         showResultView(x, y) { view ->
             view.findViewById<TextView>(R.id.result_hanzi).text = entry.optString("hanzi")
             view.findViewById<TextView>(R.id.result_pinyin).text = entry.optString("pinyin")
             view.findViewById<TextView>(R.id.result_meaning).text = entry.optString("meaning")
         }
-    }
-
-    /**
-     * Same "meaning/examples" popup the widget's ⓘ button opens — reused
-     * here so tapping the scan result shows full detail instead of just the
-     * short hanzi/pinyin/meaning card. Launched via a PendingIntent (like
-     * the widget already does) rather than a direct startActivity() call:
-     * MIUI and similar OEM skins commonly block activities started directly
-     * from a background service even when it's a foreground service, which
-     * is the likely reason tapping the card wasn't opening anything —
-     * PendingIntent-based launches carry the originating app's identity and
-     * are treated much more leniently.
-     */
-    private fun openWordDetail(entry: JSONObject) {
-        dismissResult()
-        val itemId = entry.optString("id")
-        if (itemId.isEmpty()) return
-        val intent = Intent(this, WordPopupActivity::class.java).apply {
-            putExtra(WordPopupActivity.EXTRA_MODE, "word")
-            putExtra(WordPopupActivity.EXTRA_ITEM_ID, itemId)
-            addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-        }
-        try {
-            PendingIntent.getActivity(
-                this, DETAIL_REQUEST_CODE, intent,
-                PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
-            ).send()
-        } catch (e: Exception) { }
     }
 
     private fun showResultView(x: Int, y: Int, onClick: () -> Unit = { dismissResult() }, bind: (View) -> Unit) {
@@ -714,7 +677,6 @@ class OcrOverlayService : Service() {
         private const val RESULT_WIDTH_PX = 700
         private const val RESULT_HEIGHT_ESTIMATE_PX = 500
         private const val RESULT_Y_OFFSET_PX = 100
-        private const val DETAIL_REQUEST_CODE = 4302
 
         @Volatile
         var isRunning: Boolean = false

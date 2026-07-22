@@ -564,9 +564,16 @@ class OcrOverlayService : Service() {
                 if (cBox.top < box.bottom) continue
                 val gap = cBox.top - box.bottom
                 if (gap > box.height()) continue
+                // Measured against the narrower of the two lines, not just
+                // [line] — a paragraph's last wrapped line is often much
+                // shorter than a full line above it (e.g. "开始" split as a
+                // full line ending in "开" and a short "始。" line below),
+                // and requiring 1/4 of the *full* line's width to overlap
+                // was rejecting exactly that short-continuation case.
                 val overlapLeft = maxOf(box.left, cBox.left)
                 val overlapRight = minOf(box.right, cBox.right)
-                if (overlapRight - overlapLeft < box.width() / 4) continue
+                val narrowerWidth = minOf(box.width(), cBox.width())
+                if (overlapRight - overlapLeft < narrowerWidth / 2) continue
                 if (cBox.top < bestTop) {
                     bestTop = cBox.top
                     best = candidate

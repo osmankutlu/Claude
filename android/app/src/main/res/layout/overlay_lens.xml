@@ -8,16 +8,19 @@
      touches outside the cursor itself fall through to whatever app is
      underneath. Padding is bigger than the icon needs on its own, giving a
      generous grab margin around the visible mark since it's a small target
-     to land a finger on precisely. -->
+     to land a finger on precisely. Sized larger than the drawable's own
+     intrinsic 50dp so it's easier to see exactly which word it's sitting
+     on — FIT_CENTER scales it up uniformly, so the lens-center hotspot
+     fraction in OcrOverlayService.showLens stays correct either way. -->
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:padding="14dp">
+    android:padding="16dp">
 
     <ImageView
         android:id="@+id/lens_handle"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
+        android:layout_width="72dp"
+        android:layout_height="72dp"
         android:layout_gravity="center"
         android:elevation="8dp"
         android:src="@drawable/ic_overlay_lens"

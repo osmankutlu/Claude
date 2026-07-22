@@ -177,7 +177,17 @@ class OcrOverlayService : Service() {
             WindowManager.LayoutParams.WRAP_CONTENT,
             overlayWindowType(),
             WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE or
-                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+                WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS or
+                // Without this, an overlay window's x/y land it relative to
+                // the space below the status bar, not the true physical
+                // screen — while screenWidth/screenHeight (getRealMetrics)
+                // and every drop-point calculation here assume real,
+                // full-screen coordinates. That mismatch (roughly a status
+                // bar's height) was making the lens visually sit lower than
+                // the point we actually sampled, so the scan consistently
+                // landed on whatever line was above where the lens looked
+                // like it was.
+                WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN,
             PixelFormat.TRANSLUCENT
         ).apply {
             gravity = Gravity.TOP or Gravity.START
@@ -619,7 +629,12 @@ class OcrOverlayService : Service() {
                 WindowManager.LayoutParams.WRAP_CONTENT,
                 overlayWindowType(),
                 WindowManager.LayoutParams.FLAG_NOT_FOCUSABLE or
-                    WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,
+                    WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS or
+                    // x/y below are computed against screenWidth/screenHeight
+                    // (real, full-screen coordinates) — this flag is needed
+                    // for the window to actually honor that coordinate space
+                    // instead of one offset by the status bar. See showLens.
+                    WindowManager.LayoutParams.FLAG_LAYOUT_IN_SCREEN,
                 PixelFormat.TRANSLUCENT
             ).apply {
                 gravity = Gravity.TOP or Gravity.START

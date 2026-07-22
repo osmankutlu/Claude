@@ -215,7 +215,19 @@ class OcrOverlayService : Service() {
                     // scaling assumption to keep in sync with the artwork.
                     val dropX = params.x + handle.left + (handle.width / 2)
                     val dropY = params.y + handle.top + (handle.height / 2)
-                    scanAt(dropX, dropY)
+                    // The lens graphic is drawn directly on top of the drop
+                    // point by design (that's the whole point of a visible
+                    // cursor) — but MediaProjection captures the composited
+                    // screen, cursor included, so the very pixels we're
+                    // about to OCR would otherwise have our own cyan
+                    // circle/outline baked over them. Hide it, give the
+                    // compositor + capture pipeline a moment to actually
+                    // produce a frame without it, then scan and restore it.
+                    view.visibility = View.INVISIBLE
+                    view.postDelayed({
+                        scanAt(dropX, dropY)
+                        view.visibility = View.VISIBLE
+                    }, 120)
                     true
                 }
                 else -> false

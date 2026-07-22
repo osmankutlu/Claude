@@ -1,37 +1,38 @@
 <!-- The draggable lens cursor: a magnifying glass, chosen from 5 options.
-     Its lens circle is centered at (10,10) of this 24-unit viewport — 5/12
-     (≈0.417) across and down — which is the precise hotspot, the exact
-     point OCR samples around (see OcrOverlayService.showLens's ACTION_UP
-     handler). High-contrast cyan on a black outline so it's easy to spot
-     and grab on arbitrary backgrounds. -->
+     Its lens circle is centered at the exact geometric center of this
+     24-unit viewport, (12,12) — so the hotspot is simply "the icon's
+     center" (see OcrOverlayService.showLens's ACTION_UP handler), with no
+     fractional offset that can drift out of sync with the artwork.
+     High-contrast cyan on a black outline so it's easy to spot and grab on
+     arbitrary backgrounds. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="50dp" android:height="50dp"
     android:viewportWidth="24" android:viewportHeight="24">
     <!-- Soft glass-wash fill inside the lens. -->
     <path
         android:fillColor="#1F00E5FF"
-        android:pathData="M3.4,10 A6.6,6.6 0 1,0 16.6,10 A6.6,6.6 0 1,0 3.4,10 Z"/>
+        android:pathData="M5.8,12 A6.2,6.2 0 1,0 18.2,12 A6.2,6.2 0 1,0 5.8,12 Z"/>
     <!-- Black outline (ring), drawn thicker and behind the cyan ring so a
          rim of it shows around the edge for contrast on any background. -->
     <path
         android:strokeColor="#FF000000"
         android:strokeWidth="3.4"
-        android:pathData="M3.4,10 A6.6,6.6 0 1,0 16.6,10 A6.6,6.6 0 1,0 3.4,10 Z"/>
+        android:pathData="M5.8,12 A6.2,6.2 0 1,0 18.2,12 A6.2,6.2 0 1,0 5.8,12 Z"/>
     <!-- Black outline (handle). -->
     <path
         android:strokeColor="#FF000000"
         android:strokeWidth="4"
         android:strokeLineCap="round"
-        android:pathData="M15,15 L21.5,21.5"/>
+        android:pathData="M16.5,16.5 L22.5,22.5"/>
     <!-- Visible cyan ring. -->
     <path
         android:strokeColor="#00E5FF"
         android:strokeWidth="2.2"
-        android:pathData="M3.4,10 A6.6,6.6 0 1,0 16.6,10 A6.6,6.6 0 1,0 3.4,10 Z"/>
+        android:pathData="M5.8,12 A6.2,6.2 0 1,0 18.2,12 A6.2,6.2 0 1,0 5.8,12 Z"/>
     <!-- Visible cyan handle. -->
     <path
         android:strokeColor="#00E5FF"
         android:strokeWidth="2.2"
         android:strokeLineCap="round"
-        android:pathData="M15,15 L21.5,21.5"/>
+        android:pathData="M16.5,16.5 L22.5,22.5"/>
 </vector>

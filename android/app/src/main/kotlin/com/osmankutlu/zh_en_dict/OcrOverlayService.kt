@@ -301,7 +301,7 @@ class OcrOverlayService : Service() {
                     try {
                         val line = closestLine(visionText, localX, localY)
                         if (line == null || line.text.isEmpty()) {
-                            updateNotificationStatus("Tanı[$gps]: OCR hiç metin bulamadı")
+                            updateNotificationStatus("Tanı[$gps]: OCR hiç metin bulamadı loc=($localX,$localY)")
                             return@addOnSuccessListener
                         }
                         // Append the next line's text (if any) so a
@@ -320,11 +320,18 @@ class OcrOverlayService : Service() {
                         // (when the word happens to be one of our ~8000)
                         // and sometimes English (when it isn't).
                         val extended = DictLookup.findExtended(this@OcrOverlayService, searchText, tapIndex)
+                        // loc = the tap point translated into the crop's own
+                        // coordinates; box = the matched line's bounding box
+                        // in that same space. Comparing the two pins down
+                        // whether a wrong match is from picking the wrong
+                        // line (loc far outside box) or from a bad line/tap
+                        // read (loc inside box but the match is still off).
+                        val boxStr = line.boundingBox?.let { "(${it.left},${it.top},${it.right},${it.bottom})" } ?: "?"
                         if (extended != null) {
-                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${extended.optString("hanzi")}")
+                            updateNotificationStatus("Tanı[$gps]: bulundu -> ${extended.optString("hanzi")} loc=($localX,$localY) box=$boxStr")
                             showResultExtended(x, y, extended)
                         } else {
-                            updateNotificationStatus("Tanı[$gps]: sözlükte yok: ${searchText.take(60)}")
+                            updateNotificationStatus("Tanı[$gps]: sözlükte yok loc=($localX,$localY) box=$boxStr: ${searchText.take(60)}")
                         }
                     } catch (e: Throwable) {
                         updateNotificationStatus("Tanı[$gps]: eşleştirme hatası: ${diagString(e)}")

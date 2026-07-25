@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../data/favorites_repository.dart';
+import '../data/grammar_progress_repository.dart';
 import 'dictionary_screen.dart';
 import 'favorites_screen.dart';
 import 'flashcards_screen.dart';
@@ -28,6 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
   void initState() {
     super.initState();
     context.read<FavoritesRepository>().load();
+    context.read<GrammarProgressRepository>().load();
   }
 
   @override

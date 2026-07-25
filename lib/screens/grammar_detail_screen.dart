@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../data/favorites_repository.dart';
+import '../data/grammar_progress_repository.dart';
 import '../models/grammar_topic.dart';
 import '../utils/chinese_text.dart';
 import '../utils/pinyin_tone.dart';
@@ -41,6 +42,21 @@ class GrammarDetailScreen extends StatelessWidget {
               style: TextStyle(fontSize: 13, color: Theme.of(context).colorScheme.outline),
             ),
           ],
+          const SizedBox(height: 12),
+          Consumer<GrammarProgressRepository>(
+            builder: (context, progress, _) {
+              final studied = progress.isStudied(topic.id);
+              return OutlinedButton.icon(
+                onPressed: () => progress.toggleStudied(topic.id),
+                icon: Icon(studied ? Icons.check_circle : Icons.check_circle_outline),
+                label: Text(studied ? 'Öğrenildi' : 'Öğrenildi olarak işaretle'),
+                style: OutlinedButton.styleFrom(
+                  foregroundColor: studied ? Colors.green.shade700 : null,
+                  side: studied ? BorderSide(color: Colors.green.shade700) : null,
+                ),
+              );
+            },
+          ),
           const SizedBox(height: 12),
           Text(topic.summary, style: TextStyle(color: Theme.of(context).colorScheme.secondary)),
           if (topic.pattern.isNotEmpty) ...[

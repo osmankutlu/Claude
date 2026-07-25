@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../data/grammar_progress_repository.dart';
 import '../data/grammar_repository.dart';
 import '../models/grammar_topic.dart';
 import 'grammar_detail_screen.dart';
@@ -78,18 +79,25 @@ class _GrammarListScreenState extends State<GrammarListScreen> {
                         separatorBuilder: (_, _) => const Divider(height: 1),
                         itemBuilder: (context, index) {
                           final topic = topics[index];
-                          return ListTile(
-                            leading: CircleAvatar(
-                              backgroundColor: Theme.of(context).colorScheme.secondaryContainer,
-                              child: Text(topic.levelLabel,
-                                  style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
-                            ),
-                            title: Text(topic.title),
-                            subtitle: Text(topic.summary, maxLines: 2, overflow: TextOverflow.ellipsis),
-                            trailing: const Icon(Icons.chevron_right),
-                            onTap: () => Navigator.of(context).push(
-                              MaterialPageRoute(builder: (_) => GrammarDetailScreen(topic: topic)),
-                            ),
+                          return Consumer<GrammarProgressRepository>(
+                            builder: (context, progress, _) {
+                              final studied = progress.isStudied(topic.id);
+                              return ListTile(
+                                tileColor: studied ? Colors.green.shade50 : null,
+                                leading: CircleAvatar(
+                                  backgroundColor: Theme.of(context).colorScheme.secondaryContainer,
+                                  child: Text(topic.levelLabel,
+                                      style: const TextStyle(fontSize: 12, fontWeight: FontWeight.bold)),
+                                ),
+                                title: Text(topic.pattern.isNotEmpty ? topic.pattern : topic.title),
+                                trailing: studied
+                                    ? Icon(Icons.check_circle, color: Colors.green.shade700, size: 20)
+                                    : const Icon(Icons.chevron_right),
+                                onTap: () => Navigator.of(context).push(
+                                  MaterialPageRoute(builder: (_) => GrammarDetailScreen(topic: topic)),
+                                ),
+                              );
+                            },
                           );
                         },
                       ),

@@ -60,26 +60,39 @@ class _WordPopupScreenState extends State<WordPopupScreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Colors.black54,
-      body: GestureDetector(
-        behavior: HitTestBehavior.opaque,
-        onTap: _dismiss,
-        child: SafeArea(
-          child: Center(
-            child: GestureDetector(
-              // Absorb taps so tapping the card itself doesn't dismiss.
-              onTap: () {},
-              child: ConstrainedBox(
-                constraints: BoxConstraints(
-                  maxWidth: 440,
-                  maxHeight: MediaQuery.of(context).size.height * 0.82,
-                ),
-                child: Material(
-                  color: Theme.of(context).colorScheme.surface,
-                  borderRadius: BorderRadius.circular(20),
-                  clipBehavior: Clip.antiAlias,
-                  child: _buildBody(context),
+    return PopScope(
+      // This activity's Flutter engine always has "/" (HomeScreen) sitting
+      // beneath this route (Navigator.defaultGenerateInitialRoutes inserts
+      // it automatically since we launch straight into "/wordPopup") — so
+      // the system back gesture would otherwise just pop this route and
+      // reveal the app's own (opaque) dictionary tab behind this
+      // supposedly-transparent popup. Intercept it and fully close the
+      // activity instead, same as the "X" button and tapping outside.
+      canPop: false,
+      onPopInvokedWithResult: (didPop, result) {
+        if (!didPop) _dismiss();
+      },
+      child: Scaffold(
+        backgroundColor: Colors.black54,
+        body: GestureDetector(
+          behavior: HitTestBehavior.opaque,
+          onTap: _dismiss,
+          child: SafeArea(
+            child: Center(
+              child: GestureDetector(
+                // Absorb taps so tapping the card itself doesn't dismiss.
+                onTap: () {},
+                child: ConstrainedBox(
+                  constraints: BoxConstraints(
+                    maxWidth: 440,
+                    maxHeight: MediaQuery.of(context).size.height * 0.82,
+                  ),
+                  child: Material(
+                    color: Theme.of(context).colorScheme.surface,
+                    borderRadius: BorderRadius.circular(20),
+                    clipBehavior: Clip.antiAlias,
+                    child: _buildBody(context),
+                  ),
                 ),
               ),
             ),

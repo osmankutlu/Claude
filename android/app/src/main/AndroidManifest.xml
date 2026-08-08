@@ -11,7 +11,7 @@
 
     <application
         android:label="Çince Sözlük"
-        android:name="${applicationName}"
+        android:name=".ZhEnDictApplication"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -71,13 +71,10 @@
                 android:resource="@xml/word_widget_info"/>
         </receiver>
 
-        <receiver
-            android:name=".ScreenUnlockReceiver"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.USER_PRESENT"/>
-            </intent-filter>
-        </receiver>
+        <!-- ScreenUnlockReceiver is NOT declared here: ACTION_USER_PRESENT
+             is only ever delivered to dynamically-registered receivers (see
+             ZhEnDictApplication), so a manifest entry for it would just be
+             dead weight — silently never invoked by the OS. -->
 
         <!-- Handles the widget's tap actions (next word / favorite). -->
         <receiver

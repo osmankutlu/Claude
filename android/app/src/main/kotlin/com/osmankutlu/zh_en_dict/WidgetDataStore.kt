@@ -32,21 +32,9 @@ object WidgetDataStore {
     // How often (in screen unlocks) the word changes, and the running count.
     fun unlockEveryKey(appWidgetId: Int) = "widget_unlockevery_$appWidgetId"
     fun unlockCountKey(appWidgetId: Int) = "widget_unlockcount_$appWidgetId"
-    // Set when the StackView deck should be reshuffled on the next data reload
-    // (placement / screen unlock), so a plain favorite-toggle refresh doesn't
-    // reorder the cards.
-    fun reshuffleKey(appWidgetId: Int) = "widget_reshuffle_$appWidgetId"
-
-    fun setReshuffle(context: Context, appWidgetId: Int, value: Boolean) {
-        prefs(context).edit().putBoolean(reshuffleKey(appWidgetId), value).apply()
-    }
-
-    fun consumeReshuffle(context: Context, appWidgetId: Int): Boolean {
-        val prefs = prefs(context)
-        val v = prefs.getBoolean(reshuffleKey(appWidgetId), true)
-        if (v) prefs.edit().putBoolean(reshuffleKey(appWidgetId), false).apply()
-        return v
-    }
+    // A persistent shuffled visiting order over the current item set's ids,
+    // for [stepItem] — see [shuffledOrder].
+    fun orderKey(appWidgetId: Int) = "widget_order_$appWidgetId"
 
     /** The word/grammar items this widget should show, per its mode+level
      *  (or mode+group, for "favorite_group" widgets). */
@@ -265,9 +253,36 @@ object WidgetDataStore {
     }
 
     /**
-     * Steps to the next/previous item (wrapping around) from whatever this
-     * widget currently shows. [direction] is +1 (next) or -1 (previous).
-     * Falls back to [pickRandomItem] if nothing's stored yet.
+     * A persistent, randomized visiting order over [list]'s ids for this
+     * widget instance — [stepItem] walks forward/backward through this
+     * instead of [list]'s own order, which is really just whatever order
+     * words.json/grammar.json happen to be in (effectively alphabetical),
+     * making next/prev feel like it was cycling the dictionary in order.
+     * Rebuilt whenever the stored order doesn't match the current id set
+     * (config changed, list size changed, or first use).
+     */
+    private fun shuffledOrder(context: Context, appWidgetId: Int, list: List<JSONObject>): List<String> {
+        val prefs = prefs(context)
+        val ids = list.map { it.getString("id") }
+        val stored = prefs.getString(orderKey(appWidgetId), null)?.let { raw ->
+            try {
+                val arr = JSONArray(raw)
+                List(arr.length()) { arr.getString(it) }
+            } catch (e: Exception) {
+                null
+            }
+        }
+        if (stored != null && stored.size == ids.size && stored.toSet() == ids.toSet()) return stored
+        val shuffled = ids.shuffled(Random)
+        prefs.edit().putString(orderKey(appWidgetId), JSONArray(shuffled).toString()).apply()
+        return shuffled
+    }
+
+    /**
+     * Steps to the next/previous item (wrapping around, via [shuffledOrder])
+     * from whatever this widget currently shows. [direction] is +1 (next)
+     * or -1 (previous). Falls back to [pickRandomItem] if nothing's stored
+     * yet.
      */
     fun stepItem(context: Context, appWidgetId: Int, direction: Int) {
         val prefs = prefs(context)
@@ -280,10 +295,12 @@ object WidgetDataStore {
         val mode = prefs.getString(modeKey(appWidgetId), "word") ?: "word"
         val list = resolvedItems(context, appWidgetId)
         if (list.isEmpty()) return
+        val order = shuffledOrder(context, appWidgetId, list)
         val currentId = current.optString("itemId")
-        val curIndex = list.indexOfFirst { it.getString("id") == currentId }
-        val newIndex = ((if (curIndex < 0) 0 else curIndex) + direction + list.size) % list.size
-        val item = buildItem(mode, list[newIndex])
+        val curIndex = order.indexOf(currentId)
+        val newIndex = ((if (curIndex < 0) 0 else curIndex) + direction + order.size) % order.size
+        val picked = list.firstOrNull { it.getString("id") == order[newIndex] } ?: list[0]
+        val item = buildItem(mode, picked)
         prefs.edit().putString(itemKey(appWidgetId), item.toString()).apply()
     }
 }

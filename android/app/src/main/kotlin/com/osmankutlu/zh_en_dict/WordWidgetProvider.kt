@@ -37,6 +37,7 @@ class WordWidgetProvider : AppWidgetProvider() {
             editor.remove(WidgetDataStore.unlockEveryKey(id))
             editor.remove(WidgetDataStore.unlockCountKey(id))
             editor.remove(WidgetDataStore.itemKey(id))
+            editor.remove(WidgetDataStore.orderKey(id))
         }
         editor.apply()
     }
